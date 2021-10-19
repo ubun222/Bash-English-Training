@@ -20,7 +20,7 @@ chmod +x ./Prompter/*.sh
 
 #### 如何操作
 1. Prompter.sh
-![Prompter.gif](https://raw.githubusercontent.com/ubun222/Bash-English-Training/master/nothing/Prompter.gif)
+![Prompter.gif](https://raw.githubusercontent.com/ubun222/Prompter/master/nothing/Prompter.gif)
 2. 其他几个工具shell也都一样，拖入终端回车即可。
 
 #### 适配情况
