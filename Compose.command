@@ -1,0 +1,1 @@
+cd  $(dirname $0) && ./txts.sh | ./allinone.sh
