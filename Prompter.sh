@@ -4,7 +4,8 @@ p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=2;
 
 stdin()
 {
-echo -e -n  "\033[?25h\c"
+trap 'echo -e -n  "\033[?25h\c"' EXIT
+#echo -e -n  "\033[?25h\c"
 stty size>/dev/null
 
 LINE=$(stty size|awk '{print $1}')
@@ -887,11 +888,7 @@ fi
 #[[ "$choice2" = 'y' ]] || [[ "$choice2" = 'Y' ]] && continue
 #else
 #FUN1
-
-
 done
-
-
 }
 #FUN1
 #r=$(($RANDOM%$m+1))
@@ -904,8 +901,8 @@ done
 #if [[ "${#*}" -ne '0 '||  "${txt:-}" !=  '' ]];then
 stdin
 getfromline $* && preload  &&  _verify && _voice &&  FUN1 && exit
-[[  "$?" -eq '2' ]] &&  FUN && exit
+[[  "$?" -eq '2' ]] &&  FUN  && exit
 unset alldata
 unset targets
-getfromread &&  _verify && _voice &&  FUN1
+getfromread &&  _verify && _voice &&   FUN1
 [[  "$?" -eq '2' ]] &&  FUN
