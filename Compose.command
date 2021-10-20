@@ -1,1 +1,1 @@
-cd  $(dirname $0) && ./txts.sh | ./allinone.sh
+cd  $(dirname $0) && ./txts.sh | ./Compose.sh
