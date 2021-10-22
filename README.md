@@ -1,6 +1,6 @@
 # Prompter
-Some scripts for learning English.
-此为主分支，在较为容易的安装配置后即可使用
+Some scripts help learning English.
+
 #### 如何使用
 1. IOS用户请下载ish，安卓用户请下载Termux
 2. ish

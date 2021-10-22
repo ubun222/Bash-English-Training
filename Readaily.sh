@@ -17,7 +17,7 @@ done
 
 getcn(){
 head=33516
-today=$((head+10*day))
+today=$((head+10*day+10*OPTARG))
 	url="https://peapix.com/bing/$today"
 	echo ''
 	echo $url
@@ -54,7 +54,7 @@ getencn
 
 geten(){
 head=33522
-today=$((head+10*day))
+today=$((head+10*day+10*OPTARG))
 	url="https://peapix.com/bing/$today"
 	echo ''
 	echo $url
@@ -65,7 +65,9 @@ grep='h3>'
 #sed2='</h3>'
 sed3='<p>'
 sed4='</p>'
-title=$(echo "$content" | grep $grep | head -n1 )
+de=\&#x27\;
+ed="'"
+title=$(echo "$content" | grep $grep | head -n1 | sed s/$de/$ed/g )
 title=${title#'<h3 class="typography-body-2 font-weight-medium mb-3">'}
 title=${title%'</h3>'}
 #echo $title
@@ -90,14 +92,14 @@ getencn
 
 getencn(){
 head=33522						####Ó¢ÎÄ
-today=$((head+10*day))
+today=$((head+10*day+10*OPTARG))
 echo ''
 url="https://peapix.com/bing/$today"
 echo ''
 echo $url
 content="$(curl "$url")"   
 	head1=33516					####ÖÐÎÄ
-	today1=$((head1+10*day))
+	today1=$((head1+10*day+10*OPTARG))
 	url="https://peapix.com/bing/$today1"
 
 	echo $url
@@ -106,8 +108,9 @@ content="$(curl "$url")"
 #blank=$(echo "$content" | grep "United States" | grep "active")
 #[[  $blank != ''  ]]
 grep='h3>'
-
-title=$(echo "$content" | grep $grep | head -n1 )
+de=\&#x27\;
+ed="'"
+title=$(echo "$content" | grep $grep | head -n1 | sed s/$de/$ed/g )
 title1=$(echo "$content1" | grep $grep | head -n1 )
 
 title=${title#'<h3 class="typography-body-2 font-weight-medium mb-3">'}
@@ -145,6 +148,7 @@ echo "$phase1"
 
 echo "$strs"
 read -N1 -p "Enter to continue..."
+echo 
 echo "$titlespaces$title"
 echo "$phase"
 read -p "translate?(y/n)" translate
@@ -174,7 +178,13 @@ fi
 		}
 
 
-	clear
+ getopts b: opt;
+ 	clear
+#	 echo $OPTARG
+[[  "$OPTARG"  ==  "?"  ]] ||  [[ ! $OPTARG  ]] || [[  "$OPTARG"  ==  ""  ]]  &&  OPTARG=0  &&	echo "You can add '-b -1' to read yesterday's" 
+
+
+[[  "$OPTARG" -ne  0  ]]  &&   echo "${OPTARG}day(s)"
 test=$(date "+%Y-%m-%d" -d "1 day 2021-1-1")
 if [[  "$test" -ne ''  ]];then
 DATE=$(date "+%Y-%m-%d")
@@ -189,7 +199,9 @@ for((i=255;i<3650;i++));do
  for((i=255;i<3650;i++));do
  [[  $((DATE+i*86400))  -gt $DATANOW  ]]   && day=$((i-1)) && break
  done
+DATE=$(date "+%Y-%m-%d")
  fi
+
 
 
 	echo $strs
