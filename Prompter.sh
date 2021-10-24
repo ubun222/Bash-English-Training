@@ -195,7 +195,7 @@ lineraw=$(echo -e  "$lineraw\n$lineraw"  | tail -n$((linenum*2-therandom)) | hea
 
     done
    # fi
-    echo @第$i题
+    echo @第"$i"题
 
 	#statements
 #    done
@@ -238,7 +238,7 @@ fi
 
 done
 fi
-echo @还有$(($ii-$i))题
+echo @还有"$(($ii-$i))"题
 }
 
 
@@ -312,7 +312,7 @@ pureanswer=$(echo $txt | tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' |grep -n ''|g
 
 
 
-read -e -p  "$question————请输入答案:"  scanf 
+read -e -p  "$question"————请输入答案:  scanf 
 
 #read -p  '————请输入答案:'  scanf  < cat
 #read a < /dev/stdin <<eof
@@ -388,7 +388,7 @@ question=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ 
 echo  "${strs}"
 
 pureanswer=$(echo $txt |  tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' | grep -n '' | grep -w $m2 |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
-read -e -p  "$question————请输入答案:"  scanf 
+read -e -p  "$question"————请输入答案:  scanf 
 
 answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
@@ -449,7 +449,7 @@ question=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ 
 echo  "${strs}"
 
 pureanswer=$(echo  $txt| tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' | grep -n '' |grep -w $m2 |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
-read -e -p  "$question————请输入答案:"  scanf 
+read -e -p  "$question"————请输入答案:  scanf 
 
 answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
@@ -553,7 +553,7 @@ eval ln=\${l$No}  # alias
 eval rn=\${r$No}  # alias
 #echo $ln
 #echo $rn
-read -e -p  "$question————请输入答案:"  scanf 
+read -e -p  "$question"————请输入答案:  scanf 
 #answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 #answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
 answer1="${ln}"
@@ -638,7 +638,7 @@ question=$(echo $question | tr '/' ' ') #暂时找不到方法在eval变量长�
 #pureanswer=$(echo $txt |  tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' | grep -n '' | grep -w $m2 |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
 eval lr=\${lr$m2}
 pureanswer=$lr
-read -e -p  "$question————请输入答案:"  scanf 
+read -e -p  "$question"————请输入答案:  scanf 
 
 answer1=$(echo $pureanswer | awk 'BEGIN{RS="	"}{printf $1}' | tr '/' ' ')
 answer2=$(echo $pureanswer | awk 'BEGIN{RS="	"}{printf $2}' | tr '/' ' ')
@@ -710,7 +710,7 @@ question=$(echo $question | tr '/' ' ') #暂时找不到方法在eval变量长�
 eval lr=\${lr$m2}
 pureanswer=$lr
 #pureanswer=$(echo  $txt| tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' | grep -n '' |grep -w $m2 |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
-read -e -p  "$question————请输入答案:"  scanf 
+read -e -p  "$question"————请输入答案:  scanf 
 
 answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
