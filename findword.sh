@@ -24,14 +24,14 @@ find="$(cat "$target" | grep  "^$word	")"
 if [[  $find != ""  ]];then 
 echo $strs
 echo "在词表中：$target"
-echo -e "释义：\n$find"
-find2="$(cat "$target" | grep  "$word")"
+echo -e "释义：\n\033[1m\033[3m$find\033[0m" | tr -s "\t"
+find2="$(cat "$target" | grep  "$word" |  grep  -v "	" | grep  -v " |")"
 
 if [[  $find2 != ""  ]];then 
 echo $strs
-echo "在例句中：$target"
+echo "在例句中：$target" 
 find2="$(echo "$find2" |  sed "s/$word/\\\033[1m\\\E[33m$word\\\033[0m/g")"
-echo -e "例句：\n$find2"
+echo -e "例句：\n$find2" | tr -s "\t"
 fi
 fi
 
