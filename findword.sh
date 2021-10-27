@@ -20,6 +20,7 @@ read -e  -p "The word:" word
 cd $(dirname $0)
 targets="$(find ./ | grep -e  ....txt)"
 echo "$targets" |  while read target;do
+find='';find2='';find1=''
 find="$(cat "$target" | grep  "^$word	")"
 if [[  $find != ""  ]];then 
 echo $strs
