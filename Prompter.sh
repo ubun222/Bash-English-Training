@@ -1,7 +1,8 @@
 #read -r -d '\' txt1 < $1  && read -r -d '\' txt2 < $2 && read -r -d '\' txt3 < $3
 #txt=$( echo $txt1 && echo $txt2 && echo $txt3)
 p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=2;
-
+tline=$(echo -e "\033[1A\033[32m●\033[0m")
+fline=$(echo -e "\033[1A\033[31m●\033[0m")
 stdin()
 {
 trap 'echo -e -n  "\033[?25h\c"' EXIT
@@ -22,6 +23,7 @@ title=${spaces#              }
 for STR in $(seq $((COLUMN)));do
 strs="$strs-"
 done
+COL=$((COLUMN+14))
 }
 
 
@@ -160,7 +162,7 @@ targets=${targets:-/dev/null}
     preline=$(cat  $(echo  $targets | tr ' ' '\n' )| grep  -v  $'\t' | grep  -B 1 "^${answer1} |" | grep -v "${answer1} |" )
     #echo $preline
 
-    [[  "$preline" ==  ''  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep "${answer1} |"  > /dev/tty) >&/dev/null && echo @第$i题 && return 0
+    [[  "$preline" ==  ''  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep "${answer1} |"  > /dev/tty) >&/dev/null && echo @第"$i"题 && return 0
 
     linenum=$(cat  $(echo  $targets | tr ' ' '\n' )|  grep  -v  $'\t'   |  grep  -B 30 "^${answer1} |"  | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep '[^ \]' | grep -v "${answer1} |" | wc -l)
     
@@ -168,7 +170,7 @@ targets=${targets:-/dev/null}
     if [[  "$linenum" == '0'  ]];then
     echo '该单词还未收录哦，赶紧去补全吧！' && return 0
     fi
-[[  "$linenum" == '0'  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep "${answer1} |"  > /dev/tty) >&/dev/null && echo @第$i题 && return 0
+[[  "$linenum" == '0'  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep "${answer1} |"  > /dev/tty) >&/dev/null && echo @第"$i"题 && return 0
     #echo $preline
 
     lineraw=$(cat  $(echo  $targets | tr ' ' '\n' )|  grep  -v  $'\t' | grep  -B 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep '[^ \]'| grep -v "${answer1} |" )
@@ -311,9 +313,6 @@ No=$(($((m/2))+$((m%2))))
 pureanswer=$(echo $txt | tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' |grep -n ''|grep -w $No |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
 
 
-
-read -e -p  "$question"————请输入答案:  scanf 
-
 #read -p  '————请输入答案:'  scanf  < cat
 #read a < /dev/stdin <<eof
 
@@ -321,21 +320,43 @@ read -e -p  "$question"————请输入答案:  scanf
 answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
 
+
+
 if [[ "$question" = "$answer1" ]] ;then
 answer=$answer2
 
+read -e -p  "$question"——————：  scanf 
+
 elif [[ "$question" = "$answer2" ]] ;then
 answer=$answer1
+iq=${#answer1}
+for ((i=0;i<$iq;i++));do
+bot="$bot"-
+done
+
+#question="$(echo -e "\r\033[1A$question")"
+printf "$question"——————:"$bot"\\r
+#question="$(echo -e "$question")"
+read -e  -p  "$question"——————:  scanf 
+
 fi
+bot=
+#echo $answer
+#read -e -p  "$question"——————：  scanf 
+#echo $scanf
+
 #echo $answer1
 #echo $answer2 
 #if [[ $scanf = $answer1 ]] || [[ $scanf = $answer2 ]];then
-if [[ "${scanf:-0}" = "$answer" ]] ;then
-echo 正确
+if [[ "${scanf:-0}" = "$answer" ]] ; then
+ printf  "%${COL}s\n" ${tline}
+#echo -e -n "\r\033[1A\033[32m\t\t\t\t\t✓\033[0m"
+#tline=$(echo -e "\033[1A\033[32m✓\033[0m")
+else
+printf  "%${COL}s\n" ${fline}
 fi
-
-
-read   -p  "是否查看答案y/n/v：" bool
+echo -e -n "\033[0m"
+read   -p  "是否查看答案y/n/v:" bool
 bool=${bool:-0}
 if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 printf "$(echo $pureanswer | tr '/' ' ')\n"  #加换行，否则界面不对称
@@ -358,6 +379,7 @@ fi
 
 
 if [[ $mode = 2 ]] ;then
+
 m=$(($(($n-$((n%2))))/2))
 r2=$((m+1))  #为了抵消下面的-1
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
@@ -388,16 +410,28 @@ question=$(echo $txt | tr '@' ' ' | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ 
 echo  "${strs}"
 
 pureanswer=$(echo $txt |  tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' | grep -n '' | grep -w $m2 |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
-read -e -p  "$question"————请输入答案:  scanf 
 
 answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
-answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
+#answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
 #echo $answer1
-#echo $answer2 
+#echo $answer2
+iq=${#answer1}
+
+for ((i=0;i<$iq;i++));do
+bot="$bot"-
+done
+printf "$question"——————:"$bot"\\r
+#question="$(echo -e  "\r$question\c")"
+read -e  -p  "$question"——————:  scanf
+
+bot=''
+
 if [[ "${scanf:-0}" = "$answer1" ]] ;then
-echo 正确
-fi 
-read  -p  "是否查看答案y/n/v：" bool
+ printf  "%${COL}s\n" ${tline}
+ else
+ printf  "%${COL}s\n" ${fline}
+ fi 
+read  -p  "是否查看答案y/n/v:" bool
 bool=${bool:-0}
 if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 printf "$(echo $pureanswer | tr '/' ' ')\n"
@@ -456,9 +490,11 @@ answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
 #echo $answer1
 #echo $answer2 
 if [[ "${scanf:-0}" = "$answer2" ]];then
-echo 正确
+ printf  "%${COL}s\n" ${tline}
+else
+ printf  "%${COL}s\n" ${fline}
 fi 
-read -p  "是否查看答案y/n/v：" bool
+read -p  "是否查看答案y/n/v:" bool
 bool=${bool:-0}
 if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 printf "$(echo $pureanswer | tr '/' ' ')\n"
@@ -553,7 +589,7 @@ eval ln=\${l$No}  # alias
 eval rn=\${r$No}  # alias
 #echo $ln
 #echo $rn
-read -e -p  "$question"————请输入答案:  scanf 
+#read -e -p  "$question"————请输入答案:  scanf 
 #answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 #answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
 answer1="${ln}"
@@ -565,19 +601,29 @@ answer2=$(echo $answer2 | tr '/' ' ' )
 
 if [[ "$question" = "$answer1" ]] ;then
 answer="$answer2"
-
+read -e -p  "$question"————请输入答案:  scanf 
 elif [[ "$question" = "$answer2" ]] ;then
 answer="$answer1"
+
+iq=${#answer}
+for ((i=0;i<$iq;i++));do
+bot="$bot"_
+done
+
+printf "$question"——————:"$bot"\\r
+#question="$(echo -e "\r$question\c")"
+read -e -p  "$question"——————:  scanf
+bot=
 fi
 #echo $answer1
 #echo $answer2 
 #if [[ $scanf = $answer1 ]] || [[ $scanf = $answer2 ]];then
 if [[ "${scanf:-0}" = "$answer" ]] ;then
-echo 正确
-fi
-
-
-read -p  "是否查看答案y/n/v：" bool
+ printf  "%${COL}s\n" ${tline}
+else
+ printf  "%${COL}s\n" ${fline}
+fi 
+read -p  "是否查看答案y/n/v:" bool
 bool=${bool:-0}
 if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 printf "$(echo $pureanswer | tr '/' ' ')\n"  #加换行，否则界面不对称
@@ -638,16 +684,29 @@ question=$(echo $question | tr '/' ' ') #暂时找不到方法在eval变量长�
 #pureanswer=$(echo $txt |  tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' | grep -n '' | grep -w $m2 |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
 eval lr=\${lr$m2}
 pureanswer=$lr
-read -e -p  "$question"————请输入答案:  scanf 
+#read -e -p  "$question"————请输入答案:  scanf 
 
 answer1=$(echo $pureanswer | awk 'BEGIN{RS="	"}{printf $1}' | tr '/' ' ')
-answer2=$(echo $pureanswer | awk 'BEGIN{RS="	"}{printf $2}' | tr '/' ' ')
+#answer2=$(echo $pureanswer | awk 'BEGIN{RS="	"}{printf $2}' | tr '/' ' ')
 #echo $answer1
 #echo $answer2 
+
+iq=${#answer1}
+for ((i=0;i<$iq;i++));do
+bot="$bot"_
+done
+
+printf "$question"——————:"$bot"\\r
+#question="$(echo -e "\r$question\c")"
+read -e -p  "$question"——————:  scanf
+bot=
+
 if [[ "${scanf:-0}" = "$answer1" ]] ;then
-echo 正确
+ printf  "%${COL}s\n" ${tline}
+else
+ printf  "%${COL}s\n" ${fline}
 fi 
-read -p  "是否查看答案y/n/v：" bool
+read -p  "是否查看答案y/n/v:" bool
 bool=${bool:-0}
 if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 printf "$(echo $pureanswer | tr '/' ' ')\n"
@@ -717,9 +776,11 @@ answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
 #echo $answer1
 #echo $answer2 
 if [[ "${scanf:-0}" = "$answer2" ]];then
-echo 正确
-fi 
-read -p  "是否查看答案y/n/v：" bool
+ printf  "%${COL}s\n" ${tline}
+else
+ printf  "%${COL}s\n" ${fline}
+fi
+read -p  "是否查看答案y/n/v:" bool
 bool=${bool:-0}
 if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 printf "$(echo $pureanswer | tr '/' ' ')\n"
