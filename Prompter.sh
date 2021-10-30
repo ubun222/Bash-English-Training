@@ -269,12 +269,14 @@ printf "\033[1m\r${spaces}${spaces# }${aspace}-\r-${title}welcome to English Tra
 
 echo
 printf  "\033[0m\033[?25l"
-read -n1 -p "I，英译中${spaces#               }II，中译英${spaces#               }III，混合" mode
+printf "I，英译中${spaces#               }II，中译英${spaces#               }III，混合"
+read -n 1 mode
 echo
-read -n1 -p "I，顺序${spaces#             }II，倒序${spaces#             }III，乱序" random
-#echo -n -e  "${spaces#          }${spaces}释义/例句\r"
+printf "I，顺序${spaces#             }II，倒序${spaces#             }III，乱序"
+read -n 1 random
 echo 
-read -p "需要多少题目:" ii
+printf "需要多少题目:" 
+read ii
 
 printf "\033[0m"
 number0=0;
@@ -585,11 +587,16 @@ printf "\033[1m\r${spaces}${spaces# }${aspace}-\r-${title}welcome to English Tra
 
 echo
 printf  "\033[0m\033[?25l"
-read -n1 -p "I，英译中${spaces#               }II，中译英${spaces#               }III，混合" mode
+
+printf "I，英译中${spaces#               }II，中译英${spaces#               }III，混合"
+read -n 1 mode
 echo
-read -n1 -p "I，顺序${spaces#             }II，倒序${spaces#             }III，乱序" random
-echo
-read -p "需要多少题目:" ii
+printf "I，顺序${spaces#             }II，倒序${spaces#             }III，乱序"
+read -n 1 random
+echo 
+printf "需要多少题目:" 
+read ii
+
 printf "\033[0m"
 number0=0;
 #raw=$[raw-1];
