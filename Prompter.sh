@@ -1,13 +1,14 @@
 #!/bin/bash
 #read -r -d '\' txt1 < $1  && read -r -d '\' txt2 < $2 && read -r -d '\' txt3 < $3
 #txt=$( echo $txt1 && echo $txt2 && echo $txt3)
-p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=2;
+p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=2;wlist=1;a0=1;lastn=1
 tline=$(printf "\033[1A\033[32m●\033[0m\n")
 fline=$(printf "\033[1A\033[31m●\033[0m\n")
 nline=$(printf "\033[1A\033[33m○\033[0m\n")
 save=$(printf "\033[s\n")
 reset=$(printf "\033[u\n")
 enter=$(printf "\r\n")
+newline=$(printf "\n")
 stdin()
 {
 trap 'printf "\033[?25h\c"' EXIT
@@ -49,11 +50,13 @@ echo  "${strs}"
 preload()
 {
 echo 载入词表中...
-nn=$((n))
+nn=$((n-lastn+a0))
 n11=$((n1+1))
 list=1
+#wlist=$((wlist+a0))
 #for list in $(seq $n11 $nn);do
-while read line;do 
+#wlist=$((lastlist))
+while read line;do
 #echo $list
 #eval l$list='`echo "$line"  | awk "{printf $1}" | tr '/' ' ' `'
 #echo "$txt" | tr -s '	' | tr '	' '\n'
@@ -62,13 +65,12 @@ while read line;do
 #n100=$(($((n1+1))*100))
 #nn100=$((nn*100))
 
-
 #读取百分比
 
-cha=$((nn-n1))
+cha=$((nn))
 #outputed=$(($((list100/$((cha))))/4))
 if [[ $cha -gt 25 ]];then
-list100=$(($((list*100))-$((n1*100))))
+list100=$(($((list*100))))
 output=$((list100/$((cha))))
  #echo $output
  output25=$((output/4))
@@ -78,7 +80,7 @@ outputed=${output25:-0}
 printf "\033[?25l\033[k\r                          ]${output}\r ${str}\r["
 #[[ ${#str} = 25 ]] && str=
 elif [[ $cha -le 25 ]];then
-list100=$(($((list*100))-$((n1*100))))
+list100=$(($((list*100))))
 output=$((list100/$((cha))))
 output5=$((output/20))                                 
 trial=$((output5-outputed))                            
@@ -91,7 +93,7 @@ fi
 #eval ln=\${l$list}  # alias
 #eval rn=\${r$list}  # alias
 #eval lrn=\${lr$list}
-eval lr$list=$(echo "\$line")  #eval的空格需要''才能赋值，否则被视为命令行中的空格
+eval lr$wlist="$(echo "\$line")"  #eval的空格需要''才能赋值，否则被视为命令行中的空格
 
 #    for line in $(seq 2);do
     #list1=`echo "$line" |  awk "{printf $1}" `
@@ -105,13 +107,18 @@ eval lr$list=$(echo "\$line")  #eval的空格需要''才能赋值，否则被视
  #   echo $ll1
 
 list=$((list+1))
+wlist=$((wlist+1))
+#wlist=$((wlist+1))
+#echo $wlist
 #echo $line
 done <<EOF
-`echo "$txt" | tr -s '	' | tr '	' '\n'`
+`echo $txt | tr -s ' ' | tr ' ' '\n'  | tail -n$((n-lastn+a0))  ` 
 EOF
+#lastlist=$wlist
 #echo $lr1
-#echo $lr2
-[[ $((nn-n1)) -ne 0  ]] &&  l=$((l+1))
+#echo "`echo $txt | tr -s ' ' | tr ' ' '\n'  | tail -n$((n-lastn))  `"
+
+[[ $((nn-n1)) -ne 0  ]] &&  l=$((l+1)) && a0=0
 echo
 echo 已加载"$l"张词表 #需要""，否则输出为??
 n1=$nn
@@ -191,23 +198,22 @@ targets=${targets:-/dev/null}
     #if [[  $linenum -le 6 ]] ;then
     #    [[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -B 5 "${answer1} |" | grep -A 30 "\\\\"  | grep '[^ \]' > /dev/tty) >&/dev/null
     #else
-    for li in $(seq 2)
+    for li in $(seq 3)
     do
     
     if [[  $linenum -eq 1  ]] ;then
-    printf  "$lineraw" && (cat $(echo  $targets | tr ' ' '\n' ) | grep "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
-    break
-    elif [[  $li -eq 2  ]]; then 
+    printf  "$lineraw\n" && (cat $(echo  $targets | tr ' ' '\n' ) | grep "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
+    return 0
+    elif [[  $li -eq 3  ]]; then 
    (cat $(echo  $targets | tr ' ' '\n' )| grep "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
     break
-    fi
-    
+    fi 
     therandom=$(($RANDOM%$linenum+1))
     echo "$lineraw" | grep '[^ ]' | head -n$therandom | tail -n1 
 #    delete=$(echo "$lineraw" | grep -n '' | grep $therandom |  head -n 1 | awk -F: '{print $2$3}' )
 lineraw=$(printf  "$lineraw\n$lineraw\n"  | tail -n$((linenum*2-therandom)) | head -n$((linenum-1)))       ##在sed内放变量需要""
     linenum=$((linenum-1))
-
+    
     done
     fi
     echo @第"$i"题
@@ -291,7 +297,7 @@ printf "\033[0m"
 number0=0;
 #raw=$[raw-1];
 #r1=raw;r2=raw;
-r1=${raw:-number0};r2=${raw:-n}
+r1=${raw:-number0};r2=${raw:-((n+1))}
 if [[ $mode = 3 ]] ;then
 
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
@@ -518,7 +524,6 @@ yes
 elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]; then
 #printf "\033[$((COLUMN-7))C例句\n"
 printf "\r\033[1A$(echo $pureanswer'            ' | tr '/' ' ')\n"
-
 if [[ "$voice" = '0' ]] ;then
 say  "$answer1,$answer2"
 fi
@@ -589,6 +594,7 @@ elif [[  $random = 2 ]];then
 
 rdm2=$((rdm2-1))
 m=$rdm2
+#echo $m
 if [[ $rdm2 = 1 ]];then
 rdm2=$((n+1))
 fi
@@ -910,8 +916,9 @@ eval rp=\${$p-:nul}
 (cat ${rp} ) >&/dev/null
 catable=$?
 if [[  $catable -eq 0  ]];then
-txt=$(cat ${rp} |  grep -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )"$txt"
-        txt=${txt%% }
+txt="$txt
+$(cat ${rp} |  grep -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )"
+       # txt=${txt%% }
 retargets=${rp}' '$retargets
        # txt=${txt%%@}
 fi
@@ -931,7 +938,7 @@ fi
 
       # txt=${txt%%@}  #加错地方了，导致验算失败
      #  echo $txt
-n=$(echo ${txt%%@} | tr '@' ' ' | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
+n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 # echo $n
 echo  "${strs}"
 echo 检测到$((n/2))组单词
@@ -967,6 +974,7 @@ getfromread()
 {
 for i in $(seq 100)
 do
+n0=0
 #[[  $i  -eq  1  ]]  
 [[  $use  -eq  1  ]] &&  mpreload
 read   -p  请拖入单个txt文件，按回车键结束： target
@@ -974,23 +982,25 @@ read   -p  请拖入单个txt文件，按回车键结束： target
 [[  "$target"  ==  ''  ]]  &&  return 0
 cat ${target:-/dev/null} >& /dev/null
 key2=$?
-#targets=$target' '$targets
+#targets=$target' '$ta rgets
 #echo $targets
 
 [[  $key2 -eq 0  ]] && targets=$target' '$targets
-txt="$txt"$(cat ${target} |  grep -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )
+txt="$txt
+$(cat ${target} |  grep -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )"
 #echo "$txt"
 #echo $txt
-lastn=$((n/2))
-n=$(echo ${txt%@} | tr '@' ' ' | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
+lastn=$n
+#echo "$txt"
+n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 #最长的list的行数
 # echo $n
 
 
 echo 重新检测到共$(($(($n-$((n%2))))/2))组单词
+#echo $((n-lastn))
 
-
-if [[ $((n/2-lastn)) -gt 150 ]];then
+if [[ $((n-lastn)) -gt 350 ]];then
 [[  "$use"  -ne  '1'  ]]  && read -n1 -p "是否慢慢加载该词表？(Y/y)"  choice
 [[ "$choice" != 'y' ]] &&   [[ "$choice" != 'Y' ]]  &&   use=1
 
