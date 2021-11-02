@@ -179,17 +179,16 @@ yes()
 {   printf "\033[0m"
 targets=${targets:-/dev/null}
     #echo $targets
-    preline=$(cat  $(echo  $targets | tr ' ' '\n' )| grep  -v  $'\t' | grep  -B 1 "^${answer1} |" | grep -v "${answer1} |" )
+    preline=$(cat  $(echo  $targets | tr ' ' '\n' )| grep  -v  $'\t' | grep  -B 1 "^${answer1} |" )
     #echo $preline
 
-    [[  "$preline" ==  ''  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep "${answer1} |"  > /dev/tty) >&/dev/null && echo @第"$i"题 && return 0
-
-    linenum=$(cat  $(echo  $targets | tr ' ' '\n' )|  grep  -v  $'\t'   |  grep  -B 30 "^${answer1} |"  | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep '[^ \]' | grep -v "${answer1} |" | wc -l)
+    [[  "$preline" ==  ''  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] &&  echo '该单词还未收录哦，赶紧去补全吧！'&& echo @第"$i"题 && return 0
+    linenum=$(cat  $(echo  $targets | tr ' ' '\n' )|  grep  -v  $'\t'   |  grep  -B 30 "^${answer1} |"  | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep '[^ \]' | grep -v "^${answer1} |" | wc -l)
     
     #echo $linenum
-    if [[  "$linenum" == '0'  ]];then
-    echo '该单词还未收录哦，赶紧去补全吧！' && return 0
-    [[  "$linenum" == '0'  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep "${answer1} |"  > /dev/tty) >&/dev/null && echo @第"$i"题 && return 0
+    if [[  "${linenum:-0}" -eq 0  ]];then
+    echo '该单词还未收录哦，赶紧去补全吧！' && echo @第"$i"题 && return 0
+    #[[  "${linenum:-0}" -eq 0  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep "${answer1} |"  > /dev/tty) >&/dev/null && echo @第"$i"题 && return 0
     #echo $preline
 
     else
@@ -201,19 +200,13 @@ targets=${targets:-/dev/null}
     for li in $(seq 3)
     do
     
-    if [[  $linenum -eq 1  ]] ;then
-    printf  "$lineraw\n" && (cat $(echo  $targets | tr ' ' '\n' ) | grep "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
-    return 0
-    elif [[  $li -eq 3  ]]; then 
-   (cat $(echo  $targets | tr ' ' '\n' )| grep "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
-    break
-    fi 
-    therandom=$(($RANDOM%$linenum+1))
+    [[  $linenum -le 1  ]] &&  printf  "$lineraw\n" && printf "$preline\n" | tail -n1 &&  break
+    [[  $li -eq 3  ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null && break
+        therandom=$(($RANDOM%$linenum+1))
     echo "$lineraw" | grep '[^ ]' | head -n$therandom | tail -n1 
 #    delete=$(echo "$lineraw" | grep -n '' | grep $therandom |  head -n 1 | awk -F: '{print $2$3}' )
 lineraw=$(printf  "$lineraw\n$lineraw\n"  | tail -n$((linenum*2-therandom)) | head -n$((linenum-1)))       ##在sed内放变量需要""
     linenum=$((linenum-1))
-    
     done
     fi
     echo @第"$i"题
