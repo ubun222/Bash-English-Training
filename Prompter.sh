@@ -978,7 +978,8 @@ key2=$?
 #targets=$target' '$ta rgets
 #echo $targets
 
-[[  $key2 -eq 0  ]] && targets=$target' '$targets
+if [[  $key2 -eq 0  ]] ;then
+targets=$target' '$targets
 txt="$txt
 $(cat ${target} |  grep -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )"
 #echo "$txt"
@@ -1016,12 +1017,15 @@ if [[ $((n-lastn)) -gt 350 ]];then
 #_verify && continue && FUN1
 
 
-elif  [[  "$use"  -ne  '1'  ]] &&  [[ "$((lastn-n/2))" -le 150 ]];then
+elif  [[  "$use"  -ne  '1'  ]];then
 preload && continue
 
 
 elif [[  "$use"  -eq  '1'  ]] &&  [[ "$((lastn-n/2))" -le 150 ]];then
  continue
+fi
+else 
+echo 该词表不存在 && continue
 
 fi
 
