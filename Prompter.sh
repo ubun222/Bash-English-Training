@@ -128,6 +128,17 @@ echo  "${strs}"
 
 #m=$[$[$n-$[n%2]]/2]*2]
 # for
+ifright()
+{
+[[  "${scanf:-n1}" == "${answer1:-n}"  ]]  &&  return 0
+
+scanfd="$(echo "${scanf:-n1}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}' | sort  )"
+#echo "$scanfd"
+answerd="$(echo "${answer2:-n}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}' | sort)"
+#echo "$answerd"
+[[  "$scanfd" == "$answerd"  ]]  && return 0
+return 1
+}
 
 _verify()
 {
@@ -335,7 +346,7 @@ read -e -p  "$question"——————：  scanf
 elif [[ "$question" = "$answer2" ]] ;then
 answer=$answer1
 iq=${#answer1}
-for i in `seq $iq`;do
+for t in `seq $iq`;do
 bot="$bot"-
 done
 #question="$(echo -e "\r\033[1A$question")"
@@ -345,7 +356,7 @@ read -e  -p  "$question"——————:  scanf
 fi
 bot=
 
-if [[ "${scanf:-0}" = "$answer" ]] ;then
+if ifright ;then
 printf  "%${COL}s" ${tline}
 elif [[ "${scanf:-0}" = "0" ]]; then
 printf  "%${COL}s" ${nline}
@@ -415,16 +426,16 @@ answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 #echo $answer1
 #echo $answer2
 iq=${#answer1}
-for i in `seq $iq`;do
+for t in `seq $iq`;do
 bot="$bot"-
 done
-#printf "$question"——————:"$bot"\\r
+printf "$question"——————:"$bot"\\r
 #question="$(echo -e  "\r$question\c")"
 read -e  -p  "$question"——————:  scanf
 
 bot=''
 
-if [[ "${scanf:-0}" = "$answer1" ]] ;then
+if ifright ;then
 printf  "%${COL}s" ${tline}
 elif [[ "${scanf:-0}" = "0" ]]; then
 printf  "%${COL}s" ${nline}
@@ -498,7 +509,7 @@ answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
 #echo $answer1
 #echo $answer2 
-if [[ "${scanf:-0}" = "$answer2" ]] ;then
+if ifright;then
 printf  "%${COL}s" ${tline}
 elif [[ "${scanf:-0}" = "0" ]]; then
 printf  "%${COL}s" ${nline}
@@ -629,23 +640,23 @@ answer="$answer2"
 #read -e -p  "$question"————:  scanf 
 elif [[ "$question" = "$answer2" ]] ;then
 answer="$answer1"
+
+#echo $answer
+#echo $answer
+
+iq=${#answer}
+for t in `seq $iq`;do
+bot="$bot"-
+done
 fi
-#echo $answer
-#echo $answer
-
-#iq=${#answer}
-#for i in `seq $iq`;do
-#bot="$bot"_
-#done
 #printf "$bot\033[${iq}D"
-
-#echo -n "$question"——————
+printf "$question"——————$bot\\r
 read -e -p "$question"—————— scanf
 bot=
 #echo $answer1
 #echo $answer2 
 #if [[ $scanf = $answer1 ]] || [[ $scanf = $answer2 ]];then
-if [[ "${scanf:-0}" = "$answer" ]] ;then
+if ifright ;then
 printf  "%${COL}s" ${tline}
 elif [[ "${scanf:-0}" = "0" ]]; then
 printf  "%${COL}s" ${nline}
@@ -742,12 +753,17 @@ answer1=`echo "$pureanswer" | awk -F'	' '{printf $1}' | tr '/' ' '`
 #answer="$answer1"
 #fi
 #echo $answer
-read -e -p "$question"—————— scanf
+iq=${#answer1}
+for t in `seq $iq`;do
+bot="$bot"-
+done  
+printf "$question"——————:$bot\\r
+read -e -p "$question"——————: scanf
 bot=
 #echo $answer1
 #echo $answer2 
 #if [[ $scanf = $answer1 ]] || [[ $scanf = $answer2 ]];then
-if [[ "${scanf:-0}" = "$answer1" ]] ;then
+if ifright;then
 printf  "%${COL}s" ${tline}
 elif [[ "${scanf:-0}" = "0" ]]; then
 printf  "%${COL}s" ${nline}
@@ -832,7 +848,7 @@ eval pureanswer="\${lr$m2}'	'\${lr$((m2+1))}"
 #answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 #answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
 answer1=`echo "$pureanswer" | awk -F'	' '{printf $1}' | tr '/' ' ' `
-answer=`echo "$pureanswer" | awk -F'	' '{printf $2}' | tr '/' ' ' `
+answer2=`echo "$pureanswer" | awk -F'	' '{printf $2}' | tr '/' ' ' `
 #echo $answer1$answer2
 #answer1=$(echo $answer1 | tr '/' ' ' )
 #answer2=$(echo $answer2 | tr '/' ' ' )
@@ -850,7 +866,7 @@ bot=
 #echo $answer1
 #echo $answer2 
 #if [[ $scanf = $answer1 ]] || [[ $scanf = $answer2 ]];then
-if [[ "${scanf:-0}" = "$answer" ]] ;then
+if ifright;then
 printf  "%${COL}s" ${tline}
 elif [[ "${scanf:-0}" = "0" ]]; then
 printf  "%${COL}s" ${nline}
@@ -905,7 +921,7 @@ return 1
 fi
 for t in $(seq ${#*});do
 
-eval rp=\${$p-:nul}
+eval rp=\${$p:-nul}
 (cat ${rp} ) >&/dev/null
 catable=$?
 if [[  $catable -eq 0  ]];then
