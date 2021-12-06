@@ -91,14 +91,14 @@ getencn
 
 
 getencn(){
-head=33522						####Ó¢ÎÄ
+head=33522						####Ó¢ï¿½ï¿½
 today=$((head+10*day+10*OPTARG))
 echo ''
 url="https://peapix.com/bing/$today"
 echo ''
 echo $url
 content="$(curl "$url")"   
-	head1=33516					####ÖÐÎÄ
+	head1=33516					####ï¿½ï¿½ï¿½ï¿½
 	today1=$((head1+10*day+10*OPTARG))
 	url="https://peapix.com/bing/$today1"
 
@@ -147,7 +147,7 @@ read -p "Enter to continue..."
 echo "$phase1"
 
 echo "$strs"
-read -N1 -p "Enter to continue..."
+read  -p "Enter to continue..."
 echo 
 echo "$titlespaces$title"
 echo "$phase"
@@ -185,6 +185,21 @@ fi
 
 
 [[  "$OPTARG" -ne  0  ]]  &&   echo "${OPTARG}day(s)"
+
+date -v+1H >/dev/null
+if [[  "$?" -eq '0'  ]];then
+DATE=2021-01-01
+DATENOW="$(date  +"%Y-%m-%d")"
+for((i=1;i<3650;i++));do
+
+
+ [[  "$(date -v -${i}d  +"%Y-%m-%d")" == "$DATE"  ]]   && day=$i && [[  $OPTARG -ne 0  ]] && DATE=$(date -v${OPTARG}d +"%Y-%m-%d") && break
+ 
+ ((day)) && DATE=$(date  +"%Y-%m-%d") && break
+ done
+
+else 
+
 test=$(date "+%Y-%m-%d" -d "1 day 2021-1-1")
 if [[  "$test" -ne ''  ]];then
 DATE=$(date "+%Y-%m-%d")
@@ -201,7 +216,7 @@ for((i=255;i<3650;i++));do
  done
 DATE=$(date "+%Y-%m-%d")
  fi
-
+fi
 
 
 	echo $strs

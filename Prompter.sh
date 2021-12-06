@@ -1,16 +1,18 @@
 #!/bin/bash
 #read -r -d '\' txt1 < $1  && read -r -d '\' txt2 < $2 && read -r -d '\' txt3 < $3
-#txt=$( echo $txt1 && echo $txt2 && echo $txt3)
+#txt=$( echo $txt1 && echo $txt2 && echo $txt3)i 
 p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=2;wlist=1;a0=1;lastn=1
 tline=$(printf "\033[1A\033[32m●\033[0m\n")
 fline=$(printf "\033[1A\033[31m●\033[0m\n")
 nline=$(printf "\033[1A\033[33m○\033[0m\n")
 save=$(printf "\033[s\n")
 reset=$(printf "\033[u\n")
-enter=$(printf "\r\n")
+enter=$(printf "\r")
 newline=$(printf "\n")
+v=$(printf "\v")
 stdin()
 {
+#read -t 2.3 -p 请稍后...$enter
 trap 'printf "\033[?25h\c"' EXIT
 #echo -e -n  "\033[?25h\c"
 stty size>/dev/null
@@ -32,6 +34,18 @@ done
 COL=$((COLUMN+14))
 }
 
+loadcontent()
+{
+    c="$(echo "$targets" | tr " " "\n")"
+    cnum="$(echo "$c" | wc -l)"
+    for i in $(seq $cnum);do
+    content="$(cat $(echo "$c" | sed -n "$i,${i}p" ) | grep -v "[	\\]" )
+
+$content"
+
+    done
+    #echo "$content"
+}
 
 mpreload()
 {
@@ -53,19 +67,8 @@ echo 载入词表中...
 nn=$((n-lastn+a0))
 n11=$((n1+1))
 list=1
-#wlist=$((wlist+a0))
-#for list in $(seq $n11 $nn);do
-#wlist=$((lastlist))
-while read line;do
-#echo $list
-#eval l$list='`echo "$line"  | awk "{printf $1}" | tr '/' ' ' `'
-#echo "$txt" | tr -s '	' | tr '	' '\n'
-#eval echo \${l$list}
-#eval r$list='`echo "$line" | awk "{printf $2}" | tr '/' ' ' `'
-#n100=$(($((n1+1))*100))
-#nn100=$((nn*100))
 
-#读取百分比
+while read line;do
 
 cha=$((nn))
 #outputed=$(($((list100/$((cha))))/4))
@@ -87,32 +90,17 @@ trial=$((output5-outputed))
 [[ $trial -eq 1 ]] && str=$str#####
 outputed=${output5:-0}                                 
 printf "\033[?25l\033[k\r                          ]${output}\r ${str}\r["
-#echo -e "\033[k\r加载百分比:$output%\c"
+
 fi
 [[ ${#str} -eq 25 ]] && str=
-#eval ln=\${l$list}  # alias
-#eval rn=\${r$list}  # alias
-#eval lrn=\${lr$list}
+
 eval lr$wlist="$(echo "\$line")"  #eval的空格需要''才能赋值，否则被视为命令行中的空格
-
-#    for line in $(seq 2);do
-    #list1=`echo "$line" |  awk "{printf $1}" `
-
-    #eval ll$list1=$rn
-    #list2=`echo "$line" |  awk "{printf $2}"`
-
-    #eval ll$list1=$ln
-    
-    #alldata="$alldata$ln $rn@"
- #   echo $ll1
 
 list=$((list+1))
 wlist=$((wlist+1))
-#wlist=$((wlist+1))
-#echo $wlist
-#echo $line
+
 done <<EOF
-`echo $txt | tr -s ' ' | tr ' ' '\n'  | tail -n$((n-lastn+a0))  ` 
+`echo $txt | tr -s ' ' | tr ' ' '\n'  | head -n$((n-lastn+a0))  ` 
 EOF
 #lastlist=$wlist
 #echo $lr1
@@ -190,11 +178,11 @@ yes()
 {   printf "\033[0m"
 targets=${targets:-/dev/null}
     #echo $targets
-    preline=$(cat  $(echo  $targets | tr ' ' '\n' )| grep  -v  $'\t' | grep  -B 1 "^${answer1} |" )
+    preline=$(echo  "$content" | grep  -B 1 "^${answer1} |" )
     #echo $preline
 
     [[  "$preline" ==  ''  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] &&  echo '该单词还未收录哦，赶紧去补全吧！'&& echo @第"$i"题 && return 0
-    linenum=$(cat  $(echo  $targets | tr ' ' '\n' )|  grep  -v  $'\t'   |  grep  -B 30 "^${answer1} |"  | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep '[^ \]' | grep -v "^${answer1} |" | wc -l)
+    linenum=$(echo  "$content"|  grep  -v  $'\t'   |  grep  -B 30 "^${answer1} |"  | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep '[^ \]' | grep -v "^${answer1} |" | wc -l)
     
     #echo $linenum
     if [[  "${linenum:-0}" -eq 0  ]];then
@@ -203,7 +191,7 @@ targets=${targets:-/dev/null}
     #echo $preline
 
     else
-    lineraw=$(cat  $(echo  $targets | tr ' ' '\n' )|  grep  -v  $'\t' | grep  -B 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep '[^ \]'| grep -v "${answer1} |" )
+    lineraw="$(echo  "$content" | grep  -B 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep '[^ \]'| grep -v "${answer1} |" )"
     #echo $lineraw
     #if [[  $linenum -le 6 ]] ;then
     #    [[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -B 5 "${answer1} |" | grep -A 30 "\\\\"  | grep '[^ \]' > /dev/tty) >&/dev/null
@@ -212,7 +200,7 @@ targets=${targets:-/dev/null}
     do
     
     [[  $linenum -le 1  ]] &&  printf  "$lineraw\n" && printf "$preline\n" | tail -n1 &&  break
-    [[  $li -eq 3  ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null && break
+    [[  $li -eq 3  ]] && (echo  "$content" | grep "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null && break
         therandom=$(($RANDOM%$linenum+1))
     echo "$lineraw" | grep '[^ ]' | head -n$therandom | tail -n1 
 #    delete=$(echo "$lineraw" | grep -n '' | grep $therandom |  head -n 1 | awk -F: '{print $2$3}' )
@@ -231,18 +219,17 @@ verbose()
 {
 targets=${targets:-/dev/null}
     printf "\033[0m"
-    linenum=$(cat  $(echo  $targets | tr ' ' '\n' ) | grep " ${answer1}" | wc -l)
+    linenum=$(echo  "$content" | grep " ${answer1}" | wc -l)
 #echo $linenum
 #[[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -B 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
 
-
+lineraw="$(echo  "$content" | grep " ${answer1}" )"
  if [[  "$linenum" -le 2 ]] ;then
- [[ "$targets" != ' '  ]] &&  [[  "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -A 2 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null 
+ [[ "$targets" != ' '  ]] &&  [[  "$targets" != '        ' ]] && (echo "$lineraw" | grep -A 2 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null 
 #[[  $linenum > 5 ]] && for li in $(seq 5)
 
 else
 
-lineraw=$(cat  $(echo  $targets | tr ' ' '\n' ) | grep " ${answer1}" )
 for li in $(seq 3)
 
 do
@@ -253,16 +240,73 @@ echo "$lineraw" | head -n$therandom | tail -n1
 lineraw=$(printf  "$lineraw\n$lineraw\n"  | tail -n$((linenum*2-therandom)) | head -n$((linenum-1)))       ##在sed内放变量需要""
 linenum=$((linenum-1))
 if [[  $linenum -eq 1  ]] ; then 
-[[ "$targets" != ' ' && "$targets" != '        ' ]] && printf "$lineraw\n" && (cat $(echo  $targets | tr ' ' '\n' )| grep "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
+[[ "$targets" != ' ' && "$targets" != '        ' ]] && printf "$lineraw\n" && (echo "$lineraw"| grep "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
 break
 fi
 if  [[  $li -eq 3  ]] ;then
- (cat $(echo  $targets | tr ' ' '\n' )| grep "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
+ (echo "$lineraw"| grep "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
  break
  fi
 done
 fi
 echo @还有"$(($ii-$i))"题
+}
+
+
+_FUN()
+{
+ #printf "\nI，有中文释义${spaces#               }${spaces#            }II，无中文释义"
+ #read -n1 mode
+ echo  "$strs"
+ for i in `seq 99`;do
+ bot=
+ ss=0
+ m=$((n/2))
+#echo $m
+m=$(($RANDOM%$m+1))
+##echo "$txt"
+answer="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
+answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $2}' | tr '/' ' ')"
+iq=${#answer}
+for t in `seq $iq`;do
+bot="$bot"-
+done
+bot="${bot#-}"
+#bot=$(printf "\033[3m$bot\033[0m")
+#echo $answer
+ss="$(cat $targets | grep "[ ]$answer[^	][^|	][^ 	|]...")"
+[[  "$ss" == ''  ]] && continue
+linenum="$(echo "$ss" | wc -l )"
+mm=$(($RANDOM%$linenum+1))
+#echo $mm
+answerd="${answer:1}"
+pureanswer="$(echo "$ss" | sed -n "${mm},${mm}p")"
+inquiry="$(printf "$pureanswer" | sed s/"$answerd"/$bot/g)"
+printf "$inquiry\n"
+
+#echo $back
+read -e  scanf
+#printf "$pureanswer"
+if [[  "$scanf" == "$answer"  ]];then
+printf "\r%${COL}s%s\n" $tline
+#sedd= "\\\033[1m\\\E[32m$answer\\\033[0m"
+printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\E[32m${answer}\\\033[0m"/g)"
+#printf "\n\r$answer $answer2"
+printf  \\n$strs\\n
+elif [[  "$scanf" == ''  ]];then
+printf "\r%${COL}s%s\n" $nline
+#printf "$(printf "$pureanswer" | sed s/"$answer"/\\\033[1m\\\E[31m$scanf\\\033[0m/g)"
+printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\E[33m${answer}\\\033[0m"/g)"
+#printf "\033[2B"
+printf  \\n$strs\\n
+else
+printf "\r%${COL}s%s\n" $fline
+printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\E[33m${answer}\\\033[0m"/g)"
+#printf "\n\r$answer $answer2"
+printf  \\n$strs\\n
+fi
+done
+
 }
 
 
@@ -288,6 +332,12 @@ printf "\033[1m\r${spaces}${spaces# }${aspace}-\r-${title}welcome to English Tra
 
 echo
 printf  "\033[0m\033[?25l"
+printf "I，提词机${spaces#               }II，完形填空"
+read  premode
+if [[  "$premode" -eq 2  ]];then
+_FUN
+return 0
+fi
 printf "I，英译中${spaces#               }II，中译英${spaces#               }III，混合"
 read -n 1 mode
 echo
@@ -296,7 +346,6 @@ read -n 1 random
 echo 
 printf "需要多少题目:" 
 read ii
-
 printf "\033[0m"
 number0=0;
 #raw=$[raw-1];
@@ -471,7 +520,6 @@ done
 fi
 
 
-
 if [[ $mode = 1 ]] ;then
 m=$(($(($n-$((n%2))))/2))
 r2=$((m+1))   #为了抵消下面的-1
@@ -563,7 +611,12 @@ printf "\033[1m\r${spaces}${spaces# }${aspace}-\r-${title}welcome to English Tra
 
 echo
 printf  "\033[0m\033[?25l"
-
+printf "I，提词机${spaces#               }II，完形填空"
+read  premode
+if [[  "$premode" -eq 2  ]];then
+_FUN
+return 0
+fi
 printf "I，英译中${spaces#               }II，中译英${spaces#               }III，混合"
 read -n 1 mode
 echo
@@ -612,37 +665,18 @@ eval question=\${lr$m}
 # question=$(echo ${l})
 echo  "${strs}"
 question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
-     #printf 命令需要套一个双引号才能输出空格
-#No=$(($((m/2))+$((m%2))))
-#eval lr=\${lr$No}  # alias
-# pureanswer=$(echo $txt | tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' |grep -n ''|grep -w $No |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
 
 [[  "$((m%2))" -eq 0  ]] && eval  pureanswer="\${lr$((m-1))}'	'\${lr$m}"
 [[  "$((m%2))" -eq 1  ]] && eval pureanswer="\${lr$m}'	'\${lr$((m+1))}"
-#echo $pureanswer
-#eval ln=\${l$No}  # alias
-#eval rn=\${r$No}  # alias
-#echo $ln
-#echo $rn
-#printf "$question"'————请输入答案:'
-#read -e -p '' scanf 
-#answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
-#answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
+
 answer1=`echo "$pureanswer" | awk -F'	' '{printf $1}' | tr '/' ' '  `
 answer2=`echo "$pureanswer" | awk -F'	' '{printf $2}' | tr '/' ' ' `
-#echo $answer1$answer2
-#answer1=$(echo $answer1 | tr '/' ' ' )
-#answer2=$(echo $answer2 | tr '/' ' ' )
-#echo $answer1
-#echo $answer2
+
 if [[ "$question" = "$answer1" ]] ;then
 answer="$answer2"
 #read -e -p  "$question"————:  scanf 
 elif [[ "$question" = "$answer2" ]] ;then
 answer="$answer1"
-
-#echo $answer
-#echo $answer
 
 iq=${#answer}
 for t in `seq $iq`;do
@@ -723,36 +757,11 @@ eval question=\${lr$m2}
 # question=$(echo ${l})
 echo  "${strs}"
 question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
-     #printf 命令需要套一个双引号才能输出空格
-#No=$(($((m/2))+$((m%2))))
-#eval lr=\${lr$No}  # alias
-# pureanswer=$(echo $txt | tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' |grep -n ''|grep -w $No |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
-#printf "$question"——————:
+
 eval  pureanswer="\${lr$((m2-1))}'	'\${lr$m2}"
-#[[  "$((m%2))" -eq 1  ]] && eval pureanswer="\${lr$m2}'	'\${lr$((m+1))}"
-#echo $pureanswer
-#eval ln=\${l$No}  # alias
-#eval rn=\${r$No}  # alias
-#echo $ln
-#echo $rn
-#printf "$question"'————请输入答案:'
-#read -e -p '' scanf 
-#answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
-#answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
+
 answer1=`echo "$pureanswer" | awk -F'	' '{printf $1}' | tr '/' ' '`
-#answer2=`echo "$pureanswer" | awk -F'	' '{printf $2}'`
-#echo $answer1$answer2
-#answer1=$(echo $answer1 | tr '/' ' ' )
-#answer2=$(echo $answer2 | tr '/' ' ' )
-#echo $answer1
-#echo $answer2
-#if [[ "$question" = "$answer1" ]] ;then
-#answer="$answer2"
-#read -e -p  "$question"————:  scanf 
-#elif [[ "$question" = "$answer2" ]] ;then
-#answer="$answer1"
-#fi
-#echo $answer
+
 iq=${#answer1}
 for t in `seq $iq`;do
 bot="$bot"-
@@ -803,6 +812,7 @@ if [[ $mode = 1 ]] ;then
 m=$n
 rdm2=$((m-1))   #为了抵消下面的-1
 rdm1=1
+rdm1=${raw:-$rdm1}
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
 for i in $(seq 1 $ii)
 do
@@ -832,35 +842,12 @@ eval question=\${lr$m2}
 # question=$(echo ${l})
 echo  "${strs}"
 question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
-     #printf 命令需要套一个双引号才能输出空格
-#No=$(($((m/2))+$((m%2))))
-#eval lr=\${lr$No}  # alias
-# pureanswer=$(echo $txt | tr '@' ' ' |tr ' ' '\n' | sed 'N;s/\n/ /' |grep -n ''|grep -w $No |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
-#printf "$question"——————:
+
 eval pureanswer="\${lr$m2}'	'\${lr$((m2+1))}"
-#echo $pureanswer
-#eval ln=\${l$No}  # alias
-#eval rn=\${r$No}  # alias
-#echo $ln
-#echo $rn
-#printf "$question"'————请输入答案:'
-#read -e -p '' scanf 
-#answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
-#answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
+
 answer1=`echo "$pureanswer" | awk -F'	' '{printf $1}' | tr '/' ' ' `
 answer2=`echo "$pureanswer" | awk -F'	' '{printf $2}' | tr '/' ' ' `
-#echo $answer1$answer2
-#answer1=$(echo $answer1 | tr '/' ' ' )
-#answer2=$(echo $answer2 | tr '/' ' ' )
-#echo $answer1
-#echo $answer2
-#if [[ "$question" = "$answer1" ]] ;then
-#answer="$answer2"
-#read -e -p  "$question"————:  scanf 
-#elif [[ "$question" = "$answer2" ]] ;then
-#answer="$answer1"
-#fi
-#echo $answer
+
 read -e -p "$question"—————— scanf
 bot=
 #echo $answer1
@@ -891,8 +878,7 @@ say  "$answer1,$answer2"
 fi
 verbose
 elif [[ $bool = 's' ]] || [[ $bool = 'S' ]]  ; then
-#printf "\033[$((COLUMN-7))C跳过\n"
-#printf  "%${COL}s\n" ${nline}
+
 printf "\r\033[1A跳过                \n"
 printf "\033[0m"
 else
@@ -904,8 +890,6 @@ fi
 }
 
 #######################################################
-
-
 
 getfromline()
 {
@@ -919,41 +903,38 @@ targets="${1:-} ${2:-} ${3:-} ${4:-} ${5:-} ${6:-} ${7:-} ${8:-} ${9:-}"
 else
 return 1
 fi
+
+#echo "${@}"
 for t in $(seq ${#*});do
 
 eval rp=\${$p:-nul}
 (cat ${rp} ) >&/dev/null
 catable=$?
 if [[  $catable -eq 0  ]];then
-txt="$txt
-$(cat ${rp} |  grep -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )"
+txt="$(cat ${rp} |  grep -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )
+$txt"
        # txt=${txt%% }
 retargets=${rp}' '$retargets
        # txt=${txt%%@}
 fi
 p=$((p+1))
 done
+
+#echo $retargets
    # elif [[ pb != 0 ]];then 
 
 p=1
 [[  "$retargets" ==  ''  ]]  && return 1  
 #cat $(echo $retargets | tr ' ' '\n') | grep \\\\
-if [[  $?  -eq  0  ]];then
+#if [[  $?  -eq  0  ]];then
 targets=$retargets
-#echo $#
-fi
-
-
-
-      # txt=${txt%%@}  #加错地方了，导致验算失败
-     #  echo $txt
+#echo $targets
+#fi
 n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 # echo $n
 echo  "${strs}"
 echo 检测到$((n/2))组单词
-#echo $n
-#nv=$n
-#nnn=$(($n/2)) 
+
 [[ $(($n/2)) -le 200 ]] && return 0
 [[ $(($n/2)) -gt 200 ]] && read -n1 -p "是否慢慢加载词表？(Y/y)---按任意键跳过"  choice
 echo
@@ -965,18 +946,7 @@ return 0
 else 
 return 2
 fi
-
-#preload
-#preload &&  _verify && _voice &&  FUN1
-#FUN
-
-
 }
-
-# echo $n
-
-#_verify && _voice &&  FUN1
-
 
 getfromread()
 
@@ -996,10 +966,9 @@ key2=$?
 
 if [[  $key2 -eq 0  ]] ;then
 targets=$target' '$targets
-txt="$txt
-$(cat ${target} |  grep -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )"
-#echo "$txt"
-#echo $txt
+txt="$(cat ${target} |  grep -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )
+$txt"
+
 lastn=$n
 #echo "$txt"
 n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
@@ -1019,20 +988,6 @@ if [[ $((n-lastn)) -gt 350 ]];then
 [[ "$choice" == 'y' ]] || [[ "$choice" == 'Y' ]]  &&  [[  "$i"  -eq  '1'  ]] && echo ''  && echo --- && echo "若加载时间过长，在终端输入export use=1来暂时关闭动画和验证功能" && echo ---
 [[ "$choice" == 'y' ]] || [[ "$choice" == 'Y' ]]  &&  preload && continue
 
-#echo 
-#read -n1 -p "是否还有剩余词表需要载入？(Y/y)"  choice
-#[[  "$use"  -eq  '1'   ]] &&  choice='Y'
-#[[ "$choice" != 'y' ]] || [[ "$choice" != 'Y' ]]  && return 2
-#[[ "$choice" == 'y' ]] || [[ "$choice" = 'Y' ]] && use=1  && continue
-
-
-#mpreload
-#getfromread && _verify && _voice &&  FUN1
- 
-#read -n1 -p "加载？(Y/y)"  choice2
-#_verify && continue && FUN1
-
-
 elif  [[  "$use"  -ne  '1'  ]];then
 preload && continue
 
@@ -1045,30 +1000,14 @@ echo 该词表不存在 && continue
 
 fi
 
-
-#preload  && _verify && continue && FUN1
-#_voice
-#FUN
-#read -n1 -p "请确认，预载需要？(Y/y)"  choice2
-#echo
-#[[ "$choice2" = 'y' ]] || [[ "$choice2" = 'Y' ]] && continue
-#else
-#FUN1
 done
 }
-#FUN1
-#r=$(($RANDOM%$m+1))
-#list=$(echo $txt | awk 'BEGIN{RS=" "}{print $0}'| grep -n '')
-#echo $list
 
-#if [[  "$n" -eq '1' ]] ;then
-#fi
-
-#if [[ "${#*}" -ne '0 '||  "${txt:-}" !=  '' ]];then
 stdin
-getfromline $* && preload  &&  _verify && _voice &&  FUN1 && exit
-[[  "$?" -eq '2' ]] &&  FUN  && exit
-unset alldata
-unset targets
-getfromread &&  _verify && _voice &&   FUN1
-[[  "$?" -eq '2' ]] &&  FUN
+getfromline $* && preload && loadcontent &&  _verify && _voice &&  FUN1 && exit
+[[  "$?" -eq '2' ]] && loadcontent && FUN  && exit
+alldata=
+targets=
+target=
+getfromread && loadcontent &&  _verify && _voice &&   FUN1
+[[  "$?" -eq '2' ]] && loadcontent &&  FUN
