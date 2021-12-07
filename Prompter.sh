@@ -8,7 +8,7 @@ nline=$(printf "\033[1A\033[33m○\033[0m\n")
 save=$(printf "\033[s\n")
 reset=$(printf "\033[u\n")
 enter=$(printf "\r")
-newline=$(printf "\n")
+newline="$(printf "\n")"
 v=$(printf "\v")
 stdin()
 {
@@ -39,7 +39,9 @@ loadcontent()
     c="$(echo "$targets" | tr " " "\n")"
     cnum="$(echo "$c" | wc -l)"
     for i in $(seq $cnum);do
-    content="$(cat $(echo "$c" | sed -n "$i,${i}p" ) | grep -v "[	\\]" )
+    content="$(cat $(echo "$c" | sed -n "$i,${i}p" ) | grep -A 999 \\\\  )
+
+
 
 $content"
 
@@ -172,9 +174,6 @@ fi
 fi
 }
 yes()
-
-
-
 {   printf "\033[0m"
 targets=${targets:-/dev/null}
     #echo $targets
@@ -209,46 +208,44 @@ lineraw=$(printf  "$lineraw\n$lineraw\n"  | tail -n$((linenum*2-therandom)) | he
     done
     fi
     echo @第"$i"题
-
-	#statements
+    	#statements
 #    done
-
 }
 
 verbose()
 {
 targets=${targets:-/dev/null}
     printf "\033[0m"
-    linenum=$(echo  "$content" | grep " ${answer1}" | wc -l)
 #echo $linenum
 #[[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -B 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
 
-lineraw="$(echo  "$content" | grep " ${answer1}" )"
- if [[  "$linenum" -le 2 ]] ;then
- [[ "$targets" != ' '  ]] &&  [[  "$targets" != '        ' ]] && (echo "$lineraw" | grep -A 2 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null 
-#[[  $linenum > 5 ]] && for li in $(seq 5)
-
-else
-
+lineraw1="$(echo  "$content" | grep "${answer1}" )"
+lineraw="$(echo "$lineraw1" | grep -v '|')"
+linenum=$(echo "$lineraw" | wc -l)
 for li in $(seq 3)
 
 do
 
-therandom=$(($RANDOM%$linenum+1))
+if [[  $linenum -eq 0  ]] || [[  $lineraw == ""  ]];then
+	break
+fi
 
-echo "$lineraw" | head -n$therandom | tail -n1
-lineraw=$(printf  "$lineraw\n$lineraw\n"  | tail -n$((linenum*2-therandom)) | head -n$((linenum-1)))       ##在sed内放变量需要""
-linenum=$((linenum-1))
-if [[  $linenum -eq 1  ]] ; then 
-[[ "$targets" != ' ' && "$targets" != '        ' ]] && printf "$lineraw\n" && (echo "$lineraw"| grep "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
+if [[  $linenum -eq 1  ]]  ; then 
+printf "$lineraw\n" && (echo "$lineraw1"| grep "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
 break
 fi
-if  [[  $li -eq 3  ]] ;then
- (echo "$lineraw"| grep "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
+
+therandom=$(($RANDOM%$linenum+1))
+[[  $lineraw != ""  ]] && echo "$lineraw" | head -n$therandom | tail -n1
+ 
+lineraw="$(printf  "${lineraw}\n${lineraw}\n" |  tail -n $((linenum*2-therandom)) | head -n$((linenum-1)))"       ##在sed内放变量需要""
+linenum=$((linenum-1))
+
+if  [[  $li -ge 3  ]] ;then
+ (echo "$lineraw1"| grep "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
  break
  fi
 done
-fi
 echo @还有"$(($ii-$i))"题
 }
 
