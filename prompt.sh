@@ -304,12 +304,17 @@ read -n1 ZH <<EOF
 `echo -e  "一"`
 EOF
 
-printf $enter"$question"——————:
+Backs="$Back$Back"
+Block="  "
+
+#printf  试"$Backs$Block$Backs"
 
 GOBACK=$(printf "\033[1A")
 #echo
 Lb=0
 #mulLb=0
+zscanf=
+#printf $enter"$question"——————:
 for i in `seq 100`;do
 mulLb=0
 ascanf="!!"
@@ -321,7 +326,7 @@ tf=$?
 IFS=$IFSbak
 #printf "$question"——————:"$scanf"$enter
 
-zscanf=
+
 
 #echo ascanf:$ascanf
 
@@ -340,14 +345,21 @@ L="${#scanf}"
 #fi
 Ll=$L
 L=$((L-1))
+
 [[  "$L" -le "0"  ]] && L=0
 #echo $L
-[[  "$L"  -ge "0"  ]] && [[  "${scanf:$L}"  == "."  ]]   &&  printf  "$Back $Back" && scanf="${scanf:0:$L}" && continue
+#echo -ne "\033[6n" && read -s -d R fo
+#foo=$(echo $fo | tr -d 'R;')
+
+#foo="$(echo "$fo" | awk -F ';' '{printf $2}')"
+
+#[[  "$foo" == "1" ]] &&  printf  "$Back" && continue
+[[  "$L"  -ge "0"  ]] && [[  "${scanf:$L}"  == "."  ]]  &&  printf  "$Back $Back" && scanf="${scanf:0:$L}" && continue
 scanf="${scanf:0:$L}"
 #echo $LENGTH
 #echo ${scanf:$L}
-[[  "$Ll"  -gt "0"  ]] &&  printf  "$Backs$Block$Backs" 
-continue
+[[  "$Ll"  -ge "1"  ]] &&  printf  "$Backs$Block$Backs"  && continue
+ 
 
 
 elif [[  $ascanf  ==  [\'0-9a-zA-Z'~!@#$^&*()_+{}|:"<>?/;][=-`']  ]];then
@@ -355,15 +367,16 @@ elif [[  $ascanf  ==  [\'0-9a-zA-Z'~!@#$^&*()_+{}|:"<>?/;][=-`']  ]];then
 continue
 
 
+
 elif [[  $ascanf  ==  [' ','	']  ]];then
 
 #let scanf$i=ascanf
-scanf="$(printf "$scanf，")"
+scanf="$scanf"，
 #L="${#scanf}"
 ascanf="，"
 #for i in $(seq $Lb);do
-Backs="$Back$Back"
-Block="  "
+#Backs="$Back$Back"
+#Block="  "
 #LENGTH=$((LENGTH+2))
 #done
 #echo 123 && printf $Backs
@@ -376,8 +389,7 @@ scanf="$(printf "$scanf.")"
 #L="${#scanf}"
 ascanf="."
 #for i in $(seq $Lb);do
-Backs="$Back$Back"
-Block="  "
+
 #LENGTH=$((LENGTH+2))
 #done
 #echo 123 && printf $Backs
@@ -397,16 +409,20 @@ elif [[  $ascanf  !=  [\'a-zA-Z'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]];then
 #mulLb=
 #if [[  "$L" -gt "1"  ]] ;then
 #for i in $(seq $L);do
+
+N="$((N+1))"
 zscanf="$(printf "$zscanf${ascanf}")"
 scanf="$(printf "$scanf${ascanf}")"
-Backs="$Back$Back" && Block="  " 
+
 # [[  "${#zscanf}" == "3"   ]] && LENGTH=$((LENGTH+2))
 #done
 #echo 123 && printf $Backs
 #fi
-
-
- printf "$zscanf" 
+#echo $N
+if  [[  ${#zscanf} -eq "1"  ]] ;then
+ 
+	
+printf "$zscanf"  && zscanf=  && N=0
 
 
 #printf $enter"$question"——————:$enter"$question"——————:"$scanf"$enter
@@ -414,11 +430,15 @@ Backs="$Back$Back" && Block="  "
 #echo 1
 #i=$((i+1))
 #ascanf="!!"
+fi
+
 continue
+
+
 fi
 
 #[[  "$ascanf"  == " "  ]] && ascanf="，" && scanf="$scanf$ascanf"
-
+ascanf=
 
 done
 }
@@ -777,7 +797,7 @@ random=3
 #echo 
 #printf "需要多少题目:" 
 #read ii
-ii=999
+ii=99
 printf "\033[0m"
 number0=0;
 #raw=$[raw-1];
@@ -821,16 +841,24 @@ pureanswer=$(echo $txt |tr ' ' '\n' | sed 'N;s/\n/ /' |grep -n ''|grep -w $No |h
 #read a < /dev/stdin <<eof
 answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
-if [[ "$question" = "$answer1" ]] ;then
-answer=$answer2
-#read -e -p  "$question"——————：  scanf
-printf "$question"——————:
-Readzh
-elif [[ "$question" = "$answer2" ]] ;then
 
 la=${#answer1}
 la2=${#answer2}
 length=$((la+la2*2+7))
+
+if [[ "$question" = "$answer1" ]] ;then
+answer=$answer2
+
+if [[  "$COLUMN" -ge "$length"  ]];then
+#read -e -p  "$question"——————:  scanf
+printf "$question"——————:
+Readzh
+else
+read -e -p  "$question"======:  scanf
+fi
+
+elif [[ "$question" = "$answer2" ]] ;then
+
 #echo $length
 answer=$answer1
 if [[  $COLUMN -ge $length  ]];then
@@ -849,8 +877,8 @@ Readen
 else 
 answer=$answer1
 #printf "$question——————:$enter"
-printf "" 
-read -e -p "$question"======: scanf
+printf "$question"======:
+read -e  scanf
 #echo
 fi
 fi
@@ -944,8 +972,8 @@ Readen
 else 
 #printf "$question——————:"
 #read -e scanf 
-printf "" 
-read -e -p "$question"======: scanf
+printf "$question"======:
+read -e  scanf
 fi
 
 bot=''
@@ -1019,11 +1047,25 @@ echo  "${strs}"
 
 pureanswer=$(echo  $txt |tr ' ' '\n' | sed 'N;s/\n/ /' | grep -n '' |grep -w $m2 |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
 
+
+answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
+
+la=${#question}
+la2=${#answer2}
+length=$((la+la2*2+7))
+
+
+if [[  "$COLUMN" -ge "$length"  ]];then
+#read -e -p  "$question"——————:  scanf
 printf "$question"——————:
 Readzh
+else
+read -e -p  "$question"======:  scanf
+fi
 
-answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
-answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
+#answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
+
+
 #echo $answer1
 #echo $answer2 
 if ifright;then
@@ -1147,16 +1189,24 @@ question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长
 answer1=`echo "$pureanswer" | awk -F'	' '{printf $1}' | tr '/' ' '  `
 answer2=`echo "$pureanswer" | awk -F'	' '{printf $2}' | tr '/' ' ' `
 
-if [[ "$question" = "$answer1" ]] ;then
-answer="$answer2"
 
-printf "$question"——————:
-Readzh
-
-elif [[ "$question" = "$answer2" ]] ;then
 la=${#answer1}
 la2=${#answer2}
 length=$((la+la2*2+7))
+
+
+if [[ "$question" = "$answer1" ]] ;then
+answer="$answer2"
+
+if [[  "$COLUMN" -ge "$length"  ]];then
+#read -e -p  "$question"——————:  scanf
+printf "$question"——————:
+Readzh
+else
+read -e -p  "$question"======:  scanf
+fi
+
+elif [[ "$question" = "$answer2" ]] ;then
 #echo $length
 answer=$answer1
 if [[  $COLUMN -ge $length  ]];then
@@ -1175,8 +1225,8 @@ Readen
 else 
 #printf "$question——————:\n"
 #read -e scanf 
-printf "" 
-read -e -p "$question"======: scanf
+printf "$question"======:
+read -e  scanf
 fi
 fi
 bot=
@@ -1275,8 +1325,8 @@ Readen
 else 
 #printf "$question"——————:
 #read -e scanf 
-printf "" 
-read -e -p "$question"======: scanf
+printf "$question"======:
+read -e  scanf
 fi
 
 bot=
@@ -1356,12 +1406,20 @@ question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长
 
 eval pureanswer="\${lr$m2}'	'\${lr$((m2+1))}"
 
-answer1=`echo "$pureanswer" | awk -F'	' '{printf $1}' | tr '/' ' ' `
+#answer1=`echo "$pureanswer" | awk -F'	' '{printf $1}' | tr '/' ' ' `
 answer2=`echo "$pureanswer" | awk -F'	' '{printf $2}' | tr '/' ' ' `
 
+la=${#question}
+la2=${#answer2}
+length=$((la+la2*2+7))
 
+if [[  "$COLUMN" -ge "$length"  ]];then
+#read -e -p  "$question"——————:  scanf
 printf "$question"——————:
 Readzh
+else
+read -e -p  "$question"======:  scanf
+fi
 
 bot=
 #echo $answer1
@@ -1470,15 +1528,15 @@ do
 n0=0
 #[[  $i  -eq  1  ]]  
 [[  $use  -eq  1  ]] &&  mpreload
-read   -p  请拖入单个txt文件，按回车键结束： target
+read   -p  请拖入单个txt文件，按回车键结束: target
 [[  "$target"  ==  ''  ]] && [[  "$use"  -eq  '1'  ]]  &&  return 2
-[[  "$target"  ==  ''  ]]  &&  return 0
+[[  "$target"  ==  ''  ]] && [[  "$targets"  !=  ''  ]] && return 0
 cat ${target:-/dev/null} >& /dev/null
 key2=$?
 #targets=$target' '$ta rgets
 #echo $targets
 
-if [[  $key2 -eq 0  ]] ;then
+if [[  $key2 -eq 0  ]] && [[  "$target"  !=  ''  ]] ;then
 targets=$target' '$targets
 txt="$(cat ${target} |  grep -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )
 $txt"
