@@ -25,9 +25,15 @@ chmod +x ./Prompter/*.sh
 
 #### 适配情况
 * 支持termux(安卓端)
-* 支持ish(IOS端，必须apk安装Bash运行)--ash可运行的版本请移步ash的分支
+* 支持ish(IOS端，必须apk安装Bash和gawk运行)--ash可运行的版本请移步ash的分支(暂未开发)
 * Linux和MacOS没有测试
-* WSL(DEBIAN)可运行
+* WSL(DEBIAN-bash)可运行
+
+
+#### 直接使用
+请访问[这里](https://ubun222.github.io)
+* 如果没有加载成功，请先关闭clash等软件，也可能是本人正在维护，若长时间无法访问是私人服务器过期了。
+
 
 
 

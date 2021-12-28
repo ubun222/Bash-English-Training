@@ -1,14 +1,14 @@
 ##!/usr/local/bin/bash
 #read -r -d '\' txt1 < $1  && read -r -d '\' txt2 < $2 && read -r -d '\' txt3 < $3
 #txt=$( echo $txt1 && echo $txt2 && echo $txt3)i 
-p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=2;wlist=1;a0=1;lastn=1
+p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=${use:-2};wlist=1;a0=1;lastn=1
 tline=$(printf "\033[1A\033[32m●\033[0m\n")
 fline=$(printf "\033[1A\033[31m●\033[0m\n")
 nline=$(printf "\033[1A\033[33m○\033[0m\n")
 save=$(printf "\033[s\n")
 reset=$(printf "\033[u\n")
 enter=$(printf "\r")
-newline="$(printf "\v\r")"
+newline="$(printf "\n")"
 v=$(printf "\v")
 
 
@@ -18,7 +18,11 @@ calendar()
 
 cd `dirname $0`
 cd ./txt/webapi >& /dev/null
-[[  "$?" -ne "0"  ]] && return 1
+if [[  "$?" -ne "0"  ]];then
+read -t3 -p 未找到词表路径，请确定在该文件路径（$0）下存在txt/webapi文件夹
+echo
+return 1
+fi
 txtall=$(find . | grep ".txt" | sort)
 bk="$txtall
 "
@@ -152,7 +156,7 @@ clear
 #read  -t 1.5 -p 双击屏幕以缩小
 #echo
 trap 'printf "\033[?25h"  '  EXIT
-#echo -e -n  "\033[?25h\c"
+#printf -n  "\033[?25h\c"
 #stty size>/dev/null
 printf "提词器源自https://github.com/ubun222/Prompter
 
@@ -271,10 +275,218 @@ echo  "${strs}"
 
 }
 
+
+Readzh()
+{
+N=0
+ascanf=
+scanf=
+Back="$(printf "\b")"
+LENGTH=0
+read -n1 B <<EOF
+`echo -e  "\0177"`
+EOF
+
+read -n1 ENTER <<EOF
+`echo -e  "\015"`
+EOF
+
+
+read -n1 CR <<EOF
+`echo -e  "\015"`
+EOF
+
+read -n1 LF <<EOF
+`echo -e  "\012"`
+EOF
+
+read -n1 ZH <<EOF
+`echo -e  "一"`
+EOF
+
+printf $enter"$question"——————:
+
+GOBACK=$(printf "\033[1A")
+#echo
+Lb=0
+#mulLb=0
+for i in `seq 100`;do
+mulLb=0
+ascanf="!!"
+#eval ascanf=\${scanf$i}
+IFSbak=$IFS
+IFS=$ENTER
+read -s -n1   ascanf
+tf=$?
+IFS=$IFSbak
+#printf "$question"——————:"$scanf"$enter
+
+zscanf=
+
+#echo ascanf:$ascanf
+
+if [[  "$ascanf" == "$B"  ]]  ;then
+#echo 123
+#printf 22
+#printf "\b"
+L="${#scanf}"
+
+#if [[  "$L" -gt "1"  ]] ;then
+#for i in $(seq $L);do
+#Backs="$Backs$Back"
+#done
+
+
+#fi
+Ll=$L
+L=$((L-1))
+[[  "$L" -le "0"  ]] && L=0
+#echo $L
+[[  "$L"  -ge "0"  ]] && [[  "${scanf:$L}"  == "."  ]]   &&  printf  "$Back $Back" && scanf="${scanf:0:$L}" && continue
+scanf="${scanf:0:$L}"
+#echo $LENGTH
+#echo ${scanf:$L}
+[[  "$Ll"  -gt "0"  ]] &&  printf  "$Backs$Block$Backs" 
+continue
+
+
+elif [[  $ascanf  ==  [\'0-9a-zA-Z'~!@#$^&*()_+{}|:"<>?/;][=-`']  ]];then
+
+continue
+
+
+elif [[  $ascanf  ==  [' ','	']  ]];then
+
+#let scanf$i=ascanf
+scanf="$(printf "$scanf，")"
+#L="${#scanf}"
+ascanf="，"
+#for i in $(seq $Lb);do
+Backs="$Back$Back"
+Block="  "
+#LENGTH=$((LENGTH+2))
+#done
+#echo 123 && printf $Backs
+#fi
+printf "$ascanf"
+
+continue
+elif [[  $ascanf  ==  [.]  ]];then
+scanf="$(printf "$scanf.")"
+#L="${#scanf}"
+ascanf="."
+#for i in $(seq $Lb);do
+Backs="$Back$Back"
+Block="  "
+#LENGTH=$((LENGTH+2))
+#done
+#echo 123 && printf $Backs
+#fi
+printf "$ascanf"
+
+
+
+elif [[  "$ascanf" == "$LF"  ]] || [[  "$ascanf" == "$CR"  ]] || [[  "$ascanf" == ""  ]] && [[  $tf == "0"  ]] ;then
+echo
+break
+
+elif [[  $ascanf  !=  [\'a-zA-Z'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]];then
+#printf 1
+#scanf="$scanf$ascanf"
+#L="${#scanf}"
+#mulLb=
+#if [[  "$L" -gt "1"  ]] ;then
+#for i in $(seq $L);do
+zscanf="$(printf "$zscanf${ascanf}")"
+scanf="$(printf "$scanf${ascanf}")"
+Backs="$Back$Back" && Block="  " 
+# [[  "${#zscanf}" == "3"   ]] && LENGTH=$((LENGTH+2))
+#done
+#echo 123 && printf $Backs
+#fi
+
+
+ printf "$zscanf" 
+
+
+#printf $enter"$question"——————:$enter"$question"——————:"$scanf"$enter
+#ls
+#echo 1
+#i=$((i+1))
+#ascanf="!!"
+continue
+fi
+
+#[[  "$ascanf"  == " "  ]] && ascanf="，" && scanf="$scanf$ascanf"
+
+
+done
+}
+
+Readen()
+{
+ascanf=
+scanf=
+read -n1 B <<EOF
+`echo -e  "\0177"`
+EOF
+
+read -n1 ENTER <<EOF
+`echo -e "\015"`
+EOF
+
+
+read -n1 CR <<EOF
+`echo -e "\015"`
+EOF
+
+read -n1 LF <<EOF
+`echo -e "\012"`
+EOF
+
+
+GOBACK=$(printf "\033[1A")
+#echo
+for i in `seq 50`;do
+ascanf="!!"
+#eval ascanf=\${scanf$i}
+IFSbak=$IFS
+IFS=$newline
+read -s -n1   ascanf
+tf=$?
+IFS=$IFSbak
+#echo ascanf:$ascanf
+if [[  $ascanf  ==  [a-zA-Zn' '-]  ]];then
+
+#let scanf$i=ascanf
+scanf=$scanf${ascanf}
+printf "\r"$question"——————:$bot\r"$question"——————:$scanf"
+#ls
+#echo 1
+i=$((i+1))
+ascanf="!!"
+continue
+elif [[  "$ascanf" == "$B"  ]]  ;then
+#printf 22
+#printf "\b"
+scanf=${scanf%[a-zA-Z' '-]}
+printf "$enter$spaces${spaces% }\r"$question"——————:$bot\r"$question"——————:$scanf"
+continue
+elif [[  $ascanf == "$LF"  ]] || [[  $ascanf == "$CR"  ]] || [[  $ascanf == ""  ]] && [[  $tf == "0"  ]] ;then
+echo
+break
+else
+continue
+fi
+done
+}
+
 #m=$[$[$n-$[n%2]]/2]*2]
 # for
 ifright()
 {
+
+
 [[  "${scanf:-n1}" == "${answer1:-n}"  ]]  &&  return 0
 
 scanfd="$(echo "${scanf:-n1}" | awk 'BEGIN{FS="[， ,]"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}' | sort  )"
@@ -351,7 +563,8 @@ targets=${targets:-/dev/null}
 
     else
     lineraw=$(echo  "$content" | grep  -B 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep '[^ \]'| grep -v "${answer1} |" )
-    #echo $lineraw
+  #  echo "$lineraw"
+   #	 echo -------------
     #if [[  $linenum -le 6 ]] ;then
     #    [[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -B 5 "${answer1} |" | grep -A 30 "\\\\"  | grep '[^ \]' > /dev/tty) >&/dev/null
     #else
@@ -428,6 +641,7 @@ answer="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr 
 answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $2}' | tr '/' ' ')"
 iq=${#answer}
 for t in `seq $iq`;do
+
 bot="$bot"-
 done
 bot="${bot#-}"
@@ -443,14 +657,70 @@ pureanswer="$(echo "$ss" | sed -n "${mm},${mm}p")"
 inquiry="$(printf "$pureanswer" | sed s/"$answerd"/$bot/g)"
 printf "$inquiry\n"
 
+scanf=
 #echo $back
-read -e  scanf
+i=1
+read -n1 B <<EOF
+`printf "\0177"`
+EOF
+
+read -n1 ENTER <<EOF
+`printf "\015"`
+EOF
+
+
+read -n1 CR <<EOF
+`printf "\015"`
+EOF
+
+read -n1 LF <<EOF
+`printf "\012"`
+EOF
+
+GOBACK=$(printf "\033[1A")
+#echo 
+for i in `seq 50`;do
+ascanf="!!"
+#eval ascanf=\${scanf$i}
+IFSbak=$IFS
+IFS=$newline
+read -s -n1  ascanf
+tf=$?
+IFS=$IFSbak
+#echo ascanf:$ascanf
+if [[  $ascanf  ==  [a-zA-Zn' '-]  ]];then
+
+#let scanf$i=ascanf
+scanf=$scanf${ascanf}
+printf "$enter$scanf"
+#ls
+#echo 1
+i=$((i+1))
+ascanf="!!"
+continue
+elif [[  "$ascanf" == "$B"  ]]  ;then
+#printf 22
+#printf "\b"
+scanf=${scanf%[a-zA-Z' '-]}
+printf "$enter$spaces$spaces$enter$scanf"
+continue
+elif [[  $ascanf == "$LF"  ]] || [[  $ascanf == "$CR"  ]] || [[  $ascanf == ""  ]] && [[  $tf == "0"  ]] ;then
+echo
+break
+else 
+continue
+fi
+done
+
+
+
+
 #printf "$pureanswer"
 if [[  "$scanf" == "$answer"  ]];then
 printf "\r%${COL}s%s\n" $tline
 #sedd= "\\\033[1m\\\E[32m$answer\\\033[0m"
 printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\E[32m${answer}\\\033[0m"/g)"
-#printf "\n\r$answer $answer2"
+#printf "\n$enter$answer $answer2"
 printf  \\n$strs\\n
 elif [[  "$scanf" == ''  ]];then
 printf "\r%${COL}s%s\n" $nline
@@ -461,7 +731,7 @@ printf  \\n$strs\\n
 else
 printf "\r%${COL}s%s\n" $fline
 printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\E[33m${answer}\\\033[0m"/g)"
-#printf "\n\r$answer $answer2"
+#printf "\n$enter$answer $answer2"
 printf  \\n$strs\\n
 fi
 done
@@ -475,7 +745,7 @@ FUN()
    clear
 printf "\033[s"
 
-printf "\033[1B\r${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
+printf "\033[1B$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
 
 for i in $(seq $((COLUMN)));do
 	sleep 0.017
@@ -485,9 +755,9 @@ for i in $(seq $((COLUMN)));do
 	printf  "\033[?25l\033[$((i-1))C=\r\033[2B\033[$((COLUMN-i))C=\033[2A\r"
 	[[  $i  -eq  $((COLUMN)) ]] && printf "\033[2B\r=\033[2A"
 done
-printf "\n\033[1D\r${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training"
+printf "\n\033[1D$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training"
 sleep 0.1
-printf "\033[1m\r${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
+printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
 
 echo
 printf  "\033[0m\033[?25l"
@@ -553,7 +823,9 @@ answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
 if [[ "$question" = "$answer1" ]] ;then
 answer=$answer2
-read -e -p  "$question"——————：  scanf 
+#read -e -p  "$question"——————：  scanf
+printf "$question"——————:
+Readzh
 elif [[ "$question" = "$answer2" ]] ;then
 
 la=${#answer1}
@@ -566,17 +838,20 @@ iq=${#answer1}
 for t in `seq $iq`;do
 bot="$bot"-
 done
-#question="$(echo -e "\r\033[1A$question")"
+#question="$(printf "\r\033[1A$question")"
 printf "$question"——————:"$bot"\\r
 #printf "\r"
-read -e  -p  "$question"——————:  scanf 
-
+#read -e  -p  "$question"——————:  scanf
+printf "$question"——————:
+Readen
 
 
 else 
 answer=$answer1
-printf "$question"——————:
-read -e scanf 
+#printf "$question——————:$enter"
+printf "" 
+read -e -p "$question"======: scanf
+#echo
 fi
 fi
 bot=
@@ -660,14 +935,17 @@ iq=${#answer1}
 for t in `seq $iq`;do
 bot="$bot"-
 done
-#question="$(echo -e "\r\033[1A$question")"
+#question="$(printf "\r\033[1A$question")"
 printf "$question"——————:"$bot"\\r
-#printf "\r"
-read -e  -p  "$question"——————:  scanf 
+
+printf "$question"——————:
+Readen
 
 else 
-printf "$question"——————:
-read -e scanf 
+#printf "$question——————:"
+#read -e scanf 
+printf "" 
+read -e -p "$question"======: scanf
 fi
 
 bot=''
@@ -740,7 +1018,9 @@ question=$(echo $txt | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | grep -n 
 echo  "${strs}"
 
 pureanswer=$(echo  $txt |tr ' ' '\n' | sed 'N;s/\n/ /' | grep -n '' |grep -w $m2 |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
-read -e   -p  "$question"————:  scanf 
+
+printf "$question"——————:
+Readzh
 
 answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
@@ -789,8 +1069,8 @@ fi
 FUN1()
 {
 clear
-#echo -e "\033[s\c"
-printf "\033[1B\r${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
+#printf "\033[s\c"
+printf "\033[1B$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
 
 for i in $(seq $((COLUMN)));do
 	sleep 0.017
@@ -800,9 +1080,9 @@ for i in $(seq $((COLUMN)));do
 	printf  "\033[?25l\033[$((i-1))C=\r\033[2B\033[$((COLUMN-i))C=\033[2A\r"
 	[[  $i  -eq  $((COLUMN)) ]] && printf "\033[2B\r=\033[2A"
 done
-printf "\n\033[1D\r${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training"
+printf "\n\033[1D$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training"
 sleep 0.1
-printf "\033[1m\r${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
+printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
 
 echo
 printf  "\033[0m\033[?25l"
@@ -869,7 +1149,10 @@ answer2=`echo "$pureanswer" | awk -F'	' '{printf $2}' | tr '/' ' ' `
 
 if [[ "$question" = "$answer1" ]] ;then
 answer="$answer2"
-read -e -p  "$question"————:  scanf 
+
+printf "$question"——————:
+Readzh
+
 elif [[ "$question" = "$answer2" ]] ;then
 la=${#answer1}
 la2=${#answer2}
@@ -881,14 +1164,19 @@ iq=${#answer1}
 for t in `seq $iq`;do
 bot="$bot"-
 done
-#question="$(echo -e "\r\033[1A$question")"
+#question="$(printf "\r\033[1A$question")"
 printf "$question"——————:"$bot"\\r
 #printf "\r"
-read -e  -p  "$question"——————:  scanf 
+
+printf "$question"——————:
+Readen
+
 
 else 
-printf "$question"——————:
-read -e scanf 
+#printf "$question——————:\n"
+#read -e scanf 
+printf "" 
+read -e -p "$question"======: scanf
 fi
 fi
 bot=
@@ -978,14 +1266,17 @@ iq=${#answer1}
 for t in `seq $iq`;do
 bot="$bot"-
 done
-#question="$(echo -e "\r\033[1A$question")"
+#question="$(printf "\r\033[1A$question")"
 printf "$question"——————:"$bot"\\r
 #printf "\r"
-read -e  -p  "$question"——————:  scanf 
+printf "$question"——————:
+Readen
 
 else 
-printf "$question"——————:
-read -e scanf 
+#printf "$question"——————:
+#read -e scanf 
+printf "" 
+read -e -p "$question"======: scanf
 fi
 
 bot=
@@ -1068,7 +1359,10 @@ eval pureanswer="\${lr$m2}'	'\${lr$((m2+1))}"
 answer1=`echo "$pureanswer" | awk -F'	' '{printf $1}' | tr '/' ' ' `
 answer2=`echo "$pureanswer" | awk -F'	' '{printf $2}' | tr '/' ' ' `
 
-read -e -p "$question"—————— scanf
+
+printf "$question"——————:
+Readzh
+
 bot=
 #echo $answer1
 #echo $answer2 
