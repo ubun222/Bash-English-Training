@@ -10,8 +10,10 @@ reset=$(printf "\033[u\n")
 enter=$(printf "\r")
 newline="$(printf "\n")"
 v=$(printf "\v")
-
-
+Block="  "
+Back="$(printf "\b")"
+Backs="$Back$Back"
+IFSbak=$IFS
 calendar()
 {
    clear
@@ -281,7 +283,7 @@ Readzh()
 N=0
 ascanf=
 scanf=
-Back="$(printf "\b")"
+#Back="$(printf "\b")"
 LENGTH=0
 read -n1 B <<EOF
 `echo -e  "\0177"`
@@ -304,8 +306,6 @@ read -n1 ZH <<EOF
 `echo -e  "一"`
 EOF
 
-Backs="$Back$Back"
-Block="  "
 
 #printf  试"$Backs$Block$Backs"
 
@@ -317,16 +317,16 @@ zscanf=
 #printf $enter"$question"——————:
 for i in `seq 100`;do
 mulLb=0
-ascanf="!!"
+#ascanf="!!"
 #eval ascanf=\${scanf$i}
-IFSbak=$IFS
+#IFSbak=$IFS
 IFS=$ENTER
 read -s -n1   ascanf
 tf=$?
 IFS=$IFSbak
 #printf "$question"——————:"$scanf"$enter
 
-
+sleep 0.005
 
 #echo ascanf:$ascanf
 
@@ -359,8 +359,8 @@ scanf="${scanf:0:$L}"
 #echo $LENGTH
 #echo ${scanf:$L}
 [[  "$Ll"  -ge "1"  ]] &&  printf  "$Backs$Block$Backs"  && continue
- 
 
+continue
 
 elif [[  $ascanf  ==  [\'0-9a-zA-Z'~!@#$^&*()_+{}|:"<>?/;][=-`']  ]];then
 
@@ -395,14 +395,14 @@ ascanf="."
 #echo 123 && printf $Backs
 #fi
 printf "$ascanf"
-
+continue
 
 
 elif [[  "$ascanf" == "$LF"  ]] || [[  "$ascanf" == "$CR"  ]] || [[  "$ascanf" == ""  ]] && [[  $tf == "0"  ]] ;then
 echo
 break
 
-elif [[  $ascanf  !=  [\'a-zA-Z'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]];then
+elif [[  $ascanf  !=  [$B\'a-zA-Z'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]];then
 #printf 1
 #scanf="$scanf$ascanf"
 #L="${#scanf}"
@@ -419,7 +419,7 @@ scanf="$(printf "$scanf${ascanf}")"
 #echo 123 && printf $Backs
 #fi
 #echo $N
-if  [[  ${#zscanf} -eq "1"  ]] ;then
+if  [[  ${#zscanf} -eq "1"  ]] || [[  $N -ge 3  ]] ;then
  
 	
 printf "$zscanf"  && zscanf=  && N=0
@@ -464,23 +464,36 @@ read -n1 LF <<EOF
 `echo -e "\012"`
 EOF
 
+#printf $enter"$question"——————:
 
 GOBACK=$(printf "\033[1A")
 #echo
+backbot=$(printf %s $bot | tr "-" "\\b") 
+#printf $backbot
 for i in `seq 50`;do
 ascanf="!!"
 #eval ascanf=\${scanf$i}
-IFSbak=$IFS
+#IFSbak=$IFS
 IFS=$newline
 read -s -n1   ascanf
 tf=$?
 IFS=$IFSbak
 #echo ascanf:$ascanf
-if [[  $ascanf  ==  [a-zA-Zn' '-]  ]];then
+
+sleep 0.012
+
+if [[  $ascanf  ==  [a-zA-Z' '-]  ]];then
 
 #let scanf$i=ascanf
 scanf=$scanf${ascanf}
-printf "\r"$question"——————:$bot\r"$question"——————:$scanf"
+#backbot=$(printf %s $bot | tr "-" "\\b")
+is=${#scanf}
+backscanf=
+#for i in $(seq $is);do
+#backscanf="$backscanf$Back"
+#done
+printf  "$ascanf"
+#printf "$ascanf"
 #ls
 #echo 1
 i=$((i+1))
@@ -489,8 +502,17 @@ continue
 elif [[  "$ascanf" == "$B"  ]]  ;then
 #printf 22
 #printf "\b"
+is=${#scanf}
 scanf=${scanf%[a-zA-Z' '-]}
-printf "$enter$spaces${spaces% }\r"$question"——————:$bot\r"$question"——————:$scanf"
+#printf "$enter$spaces${spaces% }\r"$question"——————:$bot\r"$question"——————:$scanf"
+backscanf=
+blocks=
+for i in $(seq $is);do
+backscanf="$backscanf"$Back
+blocks=$blocks' '
+done
+[[  "$is" -ge  1   ]] && [[  "$is" -le "$iq" ]] &&  printf %s "$Back"-"$Back" && continue
+[[  "$is" -ge  1   ]] && printf %s $Back" "$Back
 continue
 elif [[  $ascanf == "$LF"  ]] || [[  $ascanf == "$CR"  ]] || [[  $ascanf == ""  ]] && [[  $tf == "0"  ]] ;then
 echo
