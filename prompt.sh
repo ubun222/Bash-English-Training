@@ -14,6 +14,27 @@ Block="  "
 Back="$(printf "\b")"
 Backs="$Back$Back"
 IFSbak=$IFS
+read -n1 B <<EOF
+`printf  "\177"`
+EOF
+
+read -n1 ENTER <<EOF
+`printf  "\15"`
+EOF
+
+
+read -n1 CR <<EOF
+`printf  "\15"`
+EOF
+
+read -n1 LF <<EOF
+`printf  "\12"`
+EOF
+
+read -n1 ZH <<EOF
+`printf  "一"`
+EOF
+
 calendar()
 {
    clear
@@ -285,26 +306,6 @@ ascanf=
 scanf=
 #Back="$(printf "\b")"
 LENGTH=0
-read -n1 B <<EOF
-`echo -e  "\0177"`
-EOF
-
-read -n1 ENTER <<EOF
-`echo -e  "\015"`
-EOF
-
-
-read -n1 CR <<EOF
-`echo -e  "\015"`
-EOF
-
-read -n1 LF <<EOF
-`echo -e  "\012"`
-EOF
-
-read -n1 ZH <<EOF
-`echo -e  "一"`
-EOF
 
 
 #printf  试"$Backs$Block$Backs"
@@ -315,7 +316,7 @@ Lb=0
 #mulLb=0
 zscanf=
 #printf $enter"$question"——————:
-for i in `seq 100`;do
+for ri in `seq 100`;do
 mulLb=0
 #ascanf="!!"
 #eval ascanf=\${scanf$i}
@@ -447,22 +448,6 @@ Readen()
 {
 ascanf=
 scanf=
-read -n1 B <<EOF
-`echo -e  "\0177"`
-EOF
-
-read -n1 ENTER <<EOF
-`echo -e "\015"`
-EOF
-
-
-read -n1 CR <<EOF
-`echo -e "\015"`
-EOF
-
-read -n1 LF <<EOF
-`echo -e "\012"`
-EOF
 
 #printf $enter"$question"——————:
 
@@ -470,7 +455,7 @@ GOBACK=$(printf "\033[1A")
 #echo
 backbot=$(printf %s $bot | tr "-" "\\b") 
 #printf $backbot
-for i in `seq 50`;do
+for ri in `seq 50`;do
 ascanf="!!"
 #eval ascanf=\${scanf$i}
 #IFSbak=$IFS
@@ -702,58 +687,8 @@ printf "$inquiry\n"
 scanf=
 #echo $back
 i=1
-read -n1 B <<EOF
-`printf "\0177"`
-EOF
 
-read -n1 ENTER <<EOF
-`printf "\015"`
-EOF
-
-
-read -n1 CR <<EOF
-`printf "\015"`
-EOF
-
-read -n1 LF <<EOF
-`printf "\012"`
-EOF
-
-GOBACK=$(printf "\033[1A")
-#echo 
-for i in `seq 50`;do
-ascanf="!!"
-#eval ascanf=\${scanf$i}
-IFSbak=$IFS
-IFS=$newline
-read -s -n1  ascanf
-tf=$?
-IFS=$IFSbak
-#echo ascanf:$ascanf
-if [[  $ascanf  ==  [a-zA-Zn' '-]  ]];then
-
-#let scanf$i=ascanf
-scanf=$scanf${ascanf}
-printf "$enter$scanf"
-#ls
-#echo 1
-i=$((i+1))
-ascanf="!!"
-continue
-elif [[  "$ascanf" == "$B"  ]]  ;then
-#printf 22
-#printf "\b"
-scanf=${scanf%[a-zA-Z' '-]}
-printf "$enter$spaces$spaces$enter$scanf"
-continue
-elif [[  $ascanf == "$LF"  ]] || [[  $ascanf == "$CR"  ]] || [[  $ascanf == ""  ]] && [[  $tf == "0"  ]] ;then
-echo
-break
-else 
-continue
-fi
-done
-
+Readen
 
 
 
@@ -761,18 +696,18 @@ done
 if [[  "$scanf" == "$answer"  ]];then
 printf "\r%${COL}s%s\n" $tline
 #sedd= "\\\033[1m\\\E[32m$answer\\\033[0m"
-printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\E[32m${answer}\\\033[0m"/g)"
+printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[32m${answer}\\\033[0m"/g)"
 #printf "\n$enter$answer $answer2"
 printf  \\n$strs\\n
 elif [[  "$scanf" == ''  ]];then
 printf "\r%${COL}s%s\n" $nline
 #printf "$(printf "$pureanswer" | sed s/"$answer"/\\\033[1m\\\E[31m$scanf\\\033[0m/g)"
-printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\E[33m${answer}\\\033[0m"/g)"
+printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[33m${answer}\\\033[0m"/g)"
 #printf "\033[2B"
 printf  \\n$strs\\n
 else
 printf "\r%${COL}s%s\n" $fline
-printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\E[33m${answer}\\\033[0m"/g)"
+printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[31m${answer}\\\033[0m"/g)"
 #printf "\n$enter$answer $answer2"
 printf  \\n$strs\\n
 fi
