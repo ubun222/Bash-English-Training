@@ -1,3 +1,5 @@
+## 自制的英语单词提词器
+
 # Prompter
 Some scripts help learning English.
 
@@ -26,13 +28,15 @@ chmod +x ./Prompter/*.sh
 #### 适配情况
 * 支持termux(安卓端)
 * 支持ish(IOS端，必须apk安装Bash和gawk运行)--ash可运行的版本请移步ash的分支(暂未开发)
-* Linux和MacOS没有测试
+1. ish的git卡住问题请输入
+`git config --global pack.threads "1"`
+* MacOS(12.1)的zsh在兼容模式下运行良好(不能以纯zsh运行)，ubuntu的bash也可以用
 * WSL(DEBIAN-bash)可运行
 
 
-#### 直接使用
+#### 直接试用
 请访问[这里](https://ubun222.github.io)
-* 如果没有加载成功，请先关闭clash等软件，也可能是本人正在维护，若长时间无法访问是私人服务器过期了。
+* 如果没有加载成功，请先关闭clash等软件
 
 
 
