@@ -1,7 +1,9 @@
 ##!/usr/local/bin/bash
 #read -r -d '\' txt1 < $1  && read -r -d '\' txt2 < $2 && read -r -d '\' txt3 < $3
 #txt=$( echo $txt1 && echo $txt2 && echo $txt3)i 
-p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=${use:-2};wlist=1;a0=1;lastn=1
+p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=${use:-2};wlist=1;a0=1;lastn=1;tno=0;ca0=0;bigi=0;RC=0;NB=''
+#dirname $0
+Path="$(dirname $0)"
 tline=$(printf "\033[1A\033[32m●\033[0m\n")
 fline=$(printf "\033[1A\033[31m●\033[0m\n")
 nline=$(printf "\033[1A\033[33m○\033[0m\n")
@@ -31,22 +33,64 @@ read -n1 LF <<EOF
 `printf  "\12"`
 EOF
 
-read -n1 ZH <<EOF
-`printf  "一"`
+read -n1 D <<EOF
+`printf  "\004"`
 EOF
+
+#mmm=2
+struct(){
+
+#use=3
+
+#echo $thei
+
+#case="case \$m in"
+for ti in `seq $((tno))` ;do
+iii=$ti
+ii=$((ti-1))
+eval thei=\${ca$ii}
+eval lasti=\${ca$ti}
+#echo $thei
+#bigi=$((thei+lasti))
+thei=$(($thei+1))
+#[[  "$i" -eq 1  ]] && thei=1
+#echo $thei
+atop=""
+aif="if [[  \"\$m\" -ge \"$thei\"  ]] && [[  \"\$m\" -le \"$lasti\"  ]] ;then
+echo \"$iii\"
+#return \"\$i\"
+fi
+"
+allif="$allif
+$aif"
+done
+
+allif="$atop
+$allif"
+#echo "$allif"
+#n=22
+#echo 2 | xargs bash -c "$case"
+
+
+#eval "$allif"
+
+
+}
 
 calendar()
 {
+calenda=1
    clear
-
-cd `dirname $0`
+#calenda=1
+cd $Path
 cd ./txt/webapi >& /dev/null
 if [[  "$?" -ne "0"  ]];then
-read -t3 -p 未找到词表路径，请确定在该文件路径（$0）下存在txt/webapi文件夹
+calenda=0
+read -t3 -p 未找到词表路径，请确定在该项目文件夹中运行
 echo
 return 1
 fi
-txtall=$(find . | grep ".txt" | sort)
+txtall=$(find ./20* | grep -a  ".txt" | sort -n -t \/ -k 2.2n -k 3  -k 3.4 -k 3.3)
 bk="$txtall
 "
 
@@ -74,7 +118,7 @@ read -e -p  请输入目标，按回车键加载词表: the
 #[[  $i  -eq  1  ]] && [[  "$the"  ==  ''  ]] && break
 [[  "$the"  ==  ''  ]] && echo 加载中......  &&  break
 
-txtall="$(echo "$txtall" | grep "$the" )"
+txtall="$(echo "$txtall" | grep -a  "$the" )"
 pt="$(echo "$txtall
 " | sed 'N;s/\n/ /')"
 none="$(cat ${txtall:-/dev/null})"
@@ -101,20 +145,32 @@ fi
 done
 
 txtall="$(echo "$txtall" | tr " " "\n" )"
+#echo "$txtall"
 while read line ;do
 #echo $line
 (cat ${line} ) >&/dev/null
 catable=$?
 if [[  $catable -eq 0  ]];then
-txt="$(cat "${line}" |  grep -B9999 \\\\  | tr ' ' '/'  | tr -d '\\' )
-$txt"
+txt="$txt
+$(cat "${line}" |  grep -a  -B9999 \\\\  | tr ' ' '/'  | tr -d '\\' )"
        # txt=${txt%% }
 targets=${line}' '$targets
        # txt=${txt%%@}
+       
+n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
+tno=$((tno+1))
+eval ca$tno=$n
+
+#eval echo \$ca$t
+       
+       
 fi
 done <<EOF
 $txtall
 EOF
+
+targets="$txtall"
+
 n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 read -t 1 -p 准备加载$((n/2))组单词
 return 0
@@ -134,7 +190,7 @@ read -e -p  请输入目标，按回车键结束: the
 #[[  $i  -eq  1  ]] && [[  "$the"  ==  ''  ]] && break
 [[  "$the"  ==  ''  ]]  && echo 加载中......  &&  break
 
-txtall=$(echo "$txtall" | grep "$the" )
+txtall=$(echo "$txtall" | grep -a  "$the" )
 none="$(cat ${txtall:-/dev/null})"
 
 #targets=$target' '$ta rgets
@@ -149,20 +205,32 @@ fi
 done
 
 txtall="$(echo "$txtall" | tr " " "\n" )"
+#echo "$txtall"
 while read line ;do
 #echo $line
 (cat ${line} ) >&/dev/null
 catable=$?
 if [[  $catable -eq 0  ]];then
-txt="$(cat "${line}" |  grep -B9999 \\\\  | tr ' ' '/'  | tr -d '\\' )
-$txt"
+txt="$txt
+$(cat "${line}" |  grep -a  -B9999 \\\\  | tr ' ' '/'  | tr -d '\\' )"
        # txt=${txt%% }
 targets=${line}' '$targets
        # txt=${txt%%@}
+       
+n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
+tno=$((tno+1))
+eval ca$tno=$n
+
+#eval echo \$ca$t
+       
+       
 fi
 done <<EOF
 $txtall
 EOF
+
+targets="$txtall"
+
 n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 
 read -t 1 -p 准备加载$((n/2))组单词
@@ -170,35 +238,33 @@ return 0
 fi
 #echo $targets
 }
+
 stdin()
 {
+
 read -n1 -p 按任意键继续
 clear
 #read -p 按下回车以继续$enter
 #echo
 #read  -t 1.5 -p 双击屏幕以缩小
 #echo
-trap 'printf "\033[?25h"  '  EXIT
+#trap 'printf "\033[?25h\033[0m"  '  EXIT
 #printf -n  "\033[?25h\c"
 #stty size>/dev/null
-printf "提词器源自https://github.com/ubun222/Prompter
-
-使用了\033[3mbash，ttyd，docker，...\033[0m等环境和工具制作
-
-\033[1m日积月累，千锤百炼\033[0m
-" 
-echo 
-#$enter
-for ti in $(seq 6);do
-#echo ""
+printf "提词器源自https://github.com/ubun222/Prompter"
+echo
 read -t1
-[[  $ti -le 4  ]] && printf "$((5-$ti))s..."
 
-[[  $ti -eq 5  ]] && echo 0s...  && echo 启动中...
-done
-#printf "
-#\033[1m这充满着恶意的世界\033[0m
-#"
+printf "使用了\033[3mbash，ttyd，docker，...\033[0m等环境和工具制作"
+echo
+read -t1
+printf "\033[1m日积月累，千锤百炼\033[0m"
+echo
+read -t1
+echo
+#$enter
+
+
 LINE=$(stty size|awk '{print $1}')
 COLUMN=$(stty size|awk '{print $2}')
 [[  "$COLUMN" -le 34  ]] && COLUMN=34
@@ -218,10 +284,59 @@ COL=$((COLUMN+14))
 
 loadcontent()
 {
+#cd "$Path"
+#recordls
+echo
+if [[  "$record" == 1  ]] && [[  "$calenda" == 1  ]] ;then
+    echo
+RWN=1
+ [[ !  -d ./CORRECT  ]]  && echo 在当前目录创建CORRECT文件夹 && mkdir CORRECT CORRECT/2020 CORRECT/2021 CORRECT/2022
+
+    while read atarget ;do
+    #echo $atarget
+    [[ ! -e ./CORRECT/${atarget##"./"}  ]] &&  echo \\\\\\\\\\\\ > ./CORRECT/${atarget##"./"}
+    chmod 777  "./CORRECT/${atarget##"./"}"
+    eval rw$RWN="./CORRECT/${atarget##"./"}"
+    RWN=$((RWN+1))
+    printf 指向错题集./txt/CORRECT/${atarget##"./"}\\n
+done <<EOF
+$targets
+EOF
+struct
+    read -t 3
+
+
+fi
+
+if [[  "$record" == 1  ]] && [[  "$calenda" == 0  ]] ;then
+read -p 不在目录内，或txt/webapi目录不存在
+RWN=1
+    echo
+ [[ !  -d ./CORRECT  ]]  && echo 在当前目录创建CORRECT/allinone.txt && mkdir CORRECT
+
+while read atarget ;do
+#echo $atarget
+    [[ ! -e ./CORRECT/allinone.txt  ]] &&  echo \\\\\\\\\\\\ > ./CORRECT/allinone.txt
+    
+    chmod 777  ./CORRECT/allinone.txt
+    eval rw$RWN=./CORRECT/allinone.txt
+    RWN=$((RWN+1))
+    printf 指向错题集./txt/CORRECT/allinone.txt\\n
+done <<EOF
+$(echo "$targets" | tr " " "\n" )
+EOF
+#echo "$targets" | tr " " "\n"
+struct
+    read -t 3
+
+
+fi
+
+
     c="$(echo "$targets" | tr " " "\n")"
     cnum="$(echo "$c" | wc -l)"
     for i in $(seq $cnum);do
-    content="$(cat $(echo "$c" | sed -n "$i,${i}p" ) | grep -A 999 \\\\  )
+    content="$(cat $(echo "$c" | sed -n "$i,${i}p" ) | grep -a  -A 999 \\\\  )
 
 
 
@@ -230,6 +345,7 @@ $content"
     done
     #echo "$content"
 }
+
 
 mpreload()
 {
@@ -241,6 +357,8 @@ echo 加载动画已关闭
 echo 已加载"$l"张词表 #需要""，否则输出为??
 n1=$nn
 echo  "${strs}"
+
+
 }
 
 
@@ -299,9 +417,107 @@ echo  "${strs}"
 }
 
 
+
+colourp()
+{
+#bool=s
+RC=0
+if ifright ;then
+printf  "%${COL}s" ${tline}
+elif [[ "${scanf:-0}" = "0" ]]; then
+printf  "%${COL}s" ${nline}
+RC=1
+else
+printf  "%${COL}s" ${fline}
+RC=1
+fi
+#printf  "\033[0m\033[2A"
+printf "\ny释义/v例句/s跳过:"
+[[ ! $bool  ]] && read  bool
+bool=${bool:-0}
+#printf "\r"
+printf "\033[1A\r$spaces\n"
+if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
+#printf "\033[$((COLUMN-7))C释义\n"
+printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
+yes
+elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]; then
+#printf "\033[$((COLUMN-7))C例句\n"
+printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
+
+if [[ "$voice" = '0' ]] ;then
+say  "$answer1,$answer2"
+fi
+verbose
+elif [[ $bool = 's' ]] || [[ $bool = 'S' ]]  ; then
+RC=0
+#printf "\033[$((COLUMN-7))C跳过\n"
+#printf  "%${COL}s\n" ${nline}
+printf "\r\033[1A${spaces#  }跳过\033[1A${spaces#  }\v\n"
+printf "\033[0m"
+else
+printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
+fi
+
+if [[  "$RC" -eq 1  ]]  && [[  "$record" -eq 1   ]];then
+#m=$((m/2))
+#echo $m
+
+row=$(eval "$allif")
+eval therw=\${rw$row}
+locate="$(cat "${therw}" | grep ^"${answer1}\t" )"
+if [[  "$locate" ==  ""  ]]  ;then
+
+
+#None=$(cat /dev/null)
+
+Ylineraw="$(echo  "$content" | grep -a   -B 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]'| grep -a  -v "${answer1} |" )"
+Vlineraw1="$(echo  "$content" | grep -a  "${answer1}" )"
+Vlineraw="$(echo "$Vlineraw1" | grep -a  -v '|')"
+Vpreline="$(echo "$Vlineraw1" | grep -a  '|')"
+
+aq1="$(echo "$pureanswer" | awk -F" " '{printf $1}'  | tr '/' " " )"
+aq2="$(echo "$pureanswer" | awk -F" " '{printf $NF}' | tr '/' " "  )"
+
+#NB="$(printf "\00")"
+aq="$aq1\t\t\t\t\t$aq2"
+echo "$therw"| xargs sed -i"" "s/\\\\\\\\\\\\/$aq\\n\\\\\\\\\\\\/" -i "" "s/\\\\\\\\\\\\/$aq\\n\\\\\\\\\\\\/"
+#echo "$RW" >$therw
+printf "\n$Ylineraw\n$Vpreline\n$Vlineraw\n\n" >> $therw
+echo "错题+1"
+#echo $?
+fi
+elif [[  "$RC" -eq 0  ]]  && [[  "$record" -eq 1   ]] ;then
+
+row=$(eval "$allif")
+eval therw=\${rw$row}
+locate="$(cat "${therw}" | grep ^"${answer1}\t" )"
+
+if [[  "$locate" !=  ""  ]];then
+locate="$(cat "${therw}" | grep -n ^"${answer1} |" | awk -F: '{print $1}')"
+
+Dlinerawn="$(cat "$therw" | grep -a   -B 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]'| grep -a  -v "${answer1} |" | wc -l )"
+Dtop=$((locate-Dlinerawn))
+Dlinerawn="$(cat "$therw" | grep -a   -A 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $1}' | grep -a  -v "${answer1} |" | wc -l )"
+Dend=$((locate+Dlinerawn))
+
+locate="$(cat "${therw}" | grep -n ^"${answer1}" | head -n1 | awk -F: '{print $1}')"
+
+#sed -i"$Backs" "${locate}d" $therw
+echo "$therw" | xargs sed -i"" "$Dtop,${Dend}d" || echo "$therw" | xargs sed -i "" "$Dtop,${Dend}d" && echo "$therw" | xargs sed -i"" "${locate}d" || echo "$therw" | xargs sed -i "" "${locate}d"
+#echo 22222
+
+[[  "$?" -eq 0  ]]  && echo "错题-1"
+
+fi
+fi
+
+}
+
 Readzh()
 {
-N=0
+bool=
+#N=0
 ascanf=
 scanf=
 #Back="$(printf "\b")"
@@ -310,13 +526,13 @@ LENGTH=0
 
 #printf  试"$Backs$Block$Backs"
 
-GOBACK=$(printf "\033[1A")
+#GOBACK=$(printf "\033[1A")
 #echo
 Lb=0
 #mulLb=0
 zscanf=
 #printf $enter"$question"——————:
-for ri in `seq 100`;do
+while true;do
 mulLb=0
 #ascanf="!!"
 #eval ascanf=\${scanf$i}
@@ -397,7 +613,10 @@ ascanf="."
 #fi
 printf "$ascanf"
 continue
-
+elif [[  "$ascanf"  ==  "$D"  ]];then
+FIND
+bool=s
+break
 
 elif [[  "$ascanf" == "$LF"  ]] || [[  "$ascanf" == "$CR"  ]] || [[  "$ascanf" == ""  ]] && [[  $tf == "0"  ]] ;then
 echo
@@ -442,10 +661,13 @@ fi
 ascanf=
 
 done
+
+#printf "\033[1B" 
 }
 
 Readen()
 {
+bool=
 ascanf=
 scanf=
 
@@ -455,7 +677,7 @@ GOBACK=$(printf "\033[1A")
 #echo
 backbot=$(printf %s $bot | tr "-" "\\b") 
 #printf $backbot
-for ri in `seq 50`;do
+while true;do
 ascanf="!!"
 #eval ascanf=\${scanf$i}
 #IFSbak=$IFS
@@ -464,7 +686,6 @@ read -s -n1   ascanf
 tf=$?
 IFS=$IFSbak
 #echo ascanf:$ascanf
-
 sleep 0.012
 
 if [[  $ascanf  ==  [a-zA-Z' '-]  ]];then
@@ -492,13 +713,19 @@ scanf=${scanf%[a-zA-Z' '-]}
 #printf "$enter$spaces${spaces% }\r"$question"——————:$bot\r"$question"——————:$scanf"
 backscanf=
 blocks=
-for i in $(seq $is);do
+for si in $(seq $is);do
 backscanf="$backscanf"$Back
 blocks=$blocks' '
 done
 [[  "$is" -ge  1   ]] && [[  "$is" -le "$iq" ]] &&  printf %s "$Back"-"$Back" && continue
 [[  "$is" -ge  1   ]] && printf %s $Back" "$Back
 continue
+
+elif [[  "$ascanf"  ==  "$D"  ]];then
+FIND
+bool=s
+break
+
 elif [[  $ascanf == "$LF"  ]] || [[  $ascanf == "$CR"  ]] || [[  $ascanf == ""  ]] && [[  $tf == "0"  ]] ;then
 echo
 break
@@ -506,8 +733,113 @@ else
 continue
 fi
 done
+
+#printf "\033[1B"
 }
 
+
+FIND()
+{
+fscanf=
+bot=
+echo
+echo $strs
+echo detect CTRL D
+echo 输入想要查找的单词
+echo 暂停请按下 CTRL Z 
+echo
+echo "the word:"
+
+while true;do
+fascanf="!!"
+#eval ascanf=\${scanf$i}
+#IFSbak=$IFS
+IFS=$newline
+read -s -n1   fascanf
+ftf=$?
+IFS=$IFSbak
+#echo ascanf:$ascanf
+sleep 0.012
+
+if [[  $fascanf  ==  [a-zA-Z' '-]  ]];then
+
+#let scanf$i=ascanf
+fscanf=$fscanf${fascanf}
+#backbot=$(printf %s $bot | tr "-" "\\b")
+is=${#fscanf}
+backscanf=
+#for i in $(seq $is);do
+#backscanf="$backscanf$Back"
+#done
+printf  "$fascanf"
+#printf "$ascanf"
+#ls
+#echo 1
+i=$((i+1))
+#fascanf="!!"
+continue
+elif [[  "$fascanf" == "$B"  ]]  ;then
+#printf 22
+#printf "\b"
+is=${#fscanf}
+fscanf=${fscanf%[a-zA-Z' '-]}
+#printf "$enter$spaces${spaces% }\r"$question"——————:$bot\r"$question"——————:$scanf"
+backscanf=
+blocks=
+for si in $(seq $is);do
+backscanf="$backscanf"$Back
+blocks=$blocks' '
+done
+#[[  "$is" -ge  1   ]] && [[  "$is" -le "$iq" ]] &&  printf %s "$Back" && continue
+[[  "$is" -ge  1   ]] && printf %s $Back" "$Back
+continue
+elif [[  $fascanf == "$LF"  ]] || [[  $fascanf == "$CR"  ]] || [[  $fascanf == ""  ]] && [[  $ftf == "0"  ]] ;then
+echo
+break
+else
+continue
+fi
+done
+[[  "$fscanf" == "" ]] && echo  继续... && return 1
+echo 查找$fscanf
+#cd $(dirname $0)
+#targets="$(cat "$targets" | grep -e  ....txt)"
+echo "$targets" |  while read target;do
+find='';find2='';find1=''
+find="$(cat "$target" | grep  "^$fscanf	")"
+if [[  "$find" != ""  ]];then
+echo $strs
+echo "在词表中：$target"
+printf "释义：\n\033[1m\033[3m$find\033[0m\n" | tr -s "\t"
+find2="$(cat "$target" | grep  "$fscanf" |  grep  -v "	" | grep  -v " |")"
+
+if [[  "$find2" != ""  ]];then
+echo $strs
+echo "在例句中：$target"
+find2="$(echo "$find2" |  sed "s/$fscanf/\\\033[1m\\\033[33m$fscanf\\\033[0m/g")"
+printf "例句：\n$find2\n" | tr -s "\t"
+fi
+fi
+
+#[[  "$word" != ""  ]] &&  [[  "$(cat "$target" | grep  \\\\)"  ==  ""   ]]   && find1="$(cat "$target" | grep  "$fscanf")"
+
+
+#if [[  "$find1" !=  ""  ]] ;then
+##echo $strs
+##echo "在文章中：$target"
+#find1="$(echo "$find1" |  sed "s/$word/\\\033[1m\\\E[31m$word\\\033[0m/g")"
+##printf "内容：\n$find1\n"
+#fi
+done
+
+echo 找完了
+echo
+#printf "\033[1B"
+#return 0
+}
+trap 'printf "\033[?25h\033[0m"  '  EXIT
+#trap 'FIND' SIGTSTP
+#trap SIGTSTP
 #m=$[$[$n-$[n%2]]/2]*2]
 # for
 ifright()
@@ -520,7 +852,7 @@ scanfd="$(echo "${scanf:-n1}" | awk 'BEGIN{FS="[， ,]"}{print $1"\n"$2"\n"$3"\n
 #echo "$scanfd"
 answerd="$(echo "${answer2:-n}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}' | sort)"
 #echo "$answerd"
-[[  "$scanfd" == "$answerd"  ]]  && return 0
+[[  "$scanfd" == "$answerd"  ]]  && return 0 
 return 1
 }
 
@@ -569,6 +901,11 @@ fi
 }
 
 
+#syes(){
+
+#}
+
+
 yes()
 
 
@@ -576,33 +913,37 @@ yes()
 {   printf "\033[0m"
 targets=${targets:-/dev/null}
     #echo $targets
-    preline=$(echo  "$content" | grep  -B 1 "^${answer1} |" )
+    preline=$(echo  "$content" | grep -a   -B 1 "^${answer1} |" )
     #echo $preline
 
     [[  "$preline" ==  ''  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] &&  echo '该单词还未收录哦，赶紧去补全吧！'&& echo @第"$i"题 && return 0
-    linenum=$(echo  "$content"|  grep  -v  $'\t'   |  grep  -B 30 "^${answer1} |"  | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep '[^ \]' | grep -v "^${answer1} |" | wc -l)
-    
+ #   linenum=$(echo  "$content"|  grep -a   -v  $'\t'   |  grep -a   -B 30 "^${answer1} |"  | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]' | grep -a  -v "^${answer1} |" | wc -l)
+    lineraw=$(echo  "$content" | grep -a    -B 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]'| grep -a  -v "${answer1} |" )
+
+    linenum="$(echo "$lineraw" | grep -a  '[^ \]' |  grep -a  -v "${answer1} |" | wc -l)"
     #echo $linenum
     if [[  "${linenum:-0}" -eq 0  ]];then
     echo '该单词还未收录哦，赶紧去补全吧！' && echo @第"$i"题 && return 0
-    #[[  "${linenum:-0}" -eq 0  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep "${answer1} |"  > /dev/tty) >&/dev/null && echo @第"$i"题 && return 0
+    #[[  "${linenum:-0}" -eq 0  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -a  "${answer1} |"  > /dev/tty) >&/dev/null && echo @第"$i"题 && return 0
     #echo $preline
 
     else
-    lineraw=$(echo  "$content" | grep  -B 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep '[^ \]'| grep -v "${answer1} |" )
+  #  lineraw="$(echo  "$content" | grep -a   -B 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]'| grep -a  -v "${answer1} |" )"
+
+   # linenum=$(echo "$lineraw"  | )
   #  echo "$lineraw"
    #	 echo -------------
     #if [[  $linenum -le 6 ]] ;then
-    #    [[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -B 5 "${answer1} |" | grep -A 30 "\\\\"  | grep '[^ \]' > /dev/tty) >&/dev/null
+    #    [[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -a  -B 5 "${answer1} |" | grep -a  -A 30 "\\\\"  | grep -a  '[^ \]' > /dev/tty) >&/dev/null
     #else
     for li in $(seq 3)
     do
     
-    [[  $linenum -le 1  ]] &&  printf  "$lineraw\n" && printf "$preline\n" | tail -n1 &&  break
-    [[  $li -eq 3  ]] && (echo  "$content" | grep "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null && break
+    [[  $linenum -le 1  ]] &&  printf  "$lineraw\n" && printf  "$preline\n" | tail -n1 &&  break
+    [[  $li -eq 3  ]] && (echo  "$content" | grep -a  "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null && break
         therandom=$(($RANDOM%$linenum+1))
-    echo "$lineraw" | grep '[^ ]' | head -n$therandom | tail -n1 
-#    delete=$(echo "$lineraw" | grep -n '' | grep $therandom |  head -n 1 | awk -F: '{print $2$3}' )
+    echo "$lineraw" | grep -a  '[^ ]' | head -n$therandom | tail -n1
+#    delete=$(echo "$lineraw" | grep -a  -n '' | grep -a  $therandom |  head -n 1 | awk -F: '{print $2$3}' )
 lineraw=$(printf  "$lineraw\n$lineraw\n"  | tail -n$((linenum*2-therandom)) | head -n$((linenum-1)))       ##在sed内放变量需要""
     linenum=$((linenum-1))
     done
@@ -619,10 +960,10 @@ verbose()
 targets=${targets:-/dev/null}
     printf "\033[0m"
 #echo $linenum
-#[[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -B 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
+#[[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -a  -B 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
 
-lineraw1="$(echo  "$content" | grep "${answer1}" )"
-lineraw="$(echo "$lineraw1" | grep -v '|')"
+lineraw1="$(echo  "$content" | grep -a  "${answer1}" )"
+lineraw="$(echo "$lineraw1" | grep -a  -v '|')"
 linenum=$(echo "$lineraw" | wc -l)
 for li in $(seq 3)
 
@@ -633,7 +974,7 @@ if [[  $linenum -eq 0  ]] || [[  $lineraw == ""  ]];then
 fi
 
 if [[  $linenum -eq 1  ]]  ; then 
-printf "$lineraw\n" && (echo "$lineraw1"| grep "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
+printf "$lineraw\n" && (echo "$lineraw1"| grep -a  "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
 break
 fi
 
@@ -644,7 +985,7 @@ lineraw="$(printf  "${lineraw}\n${lineraw}\n" |  tail -n $((linenum*2-therandom)
 linenum=$((linenum-1))
 
 if  [[  $li -ge 3  ]] ;then
- (echo "$lineraw1"| grep "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
+ (echo "$lineraw1"| grep -a  "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
  break
  fi
 done
@@ -674,7 +1015,7 @@ done
 bot="${bot#-}"
 #bot=$(printf "\033[3m$bot\033[0m")
 #echo $answer
-ss="$(cat $targets | grep "[ ]$answer[^	][^|	][^ 	|]...")"
+ss="$(cat $targets | grep -a  "[ ]$answer[^	][^|	][^ 	|]...")"
 [[  "$ss" == ''  ]] && continue
 linenum="$(echo "$ss" | wc -l )"
 mm=$(($RANDOM%$linenum+1))
@@ -725,6 +1066,7 @@ printf "\033[s"
 printf "\033[1B$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
 
 for i in $(seq $((COLUMN)));do
+
 	sleep 0.017
 	[[  $i  -eq  1 ]] && printf "\033[2A="
 	#printf "\033[1A"
@@ -740,7 +1082,7 @@ echo
 printf  "\033[0m\033[?25l"
 printf "I，提词机${spaces#            }${spaces#          }II，完形填空"
 read  premode
-if [[  "$premode" -eq 2  ]];then
+if [[  "${premode:-1}" -eq 2  ]];then
 _FUN
 return 0
 fi
@@ -783,17 +1125,17 @@ r2=$n
 fi
 
 elif [[  $random = 3 ]];then
-m=$((n-1))
+m=$((n))
 m=$(($RANDOM%$m+1))
 fi
 
 
-question=$(echo $txt  | awk 'BEGIN{RS=" "}{print $0}'| grep -n '' | grep -w $m | head -n 1 | awk -F: '{printf $2}' | tr '/' ' ')
+question=$(echo $txt  | awk 'BEGIN{RS=" "}{print $0}'| sed -n "$m,${m}p" | tr '/' ' ')
 echo  "${strs}"
 #echo -n "$question"         #printf 命令需要套一个双引号才能输出空格
 
 No=$(($((m/2))+$((m%2))))
-pureanswer=$(echo $txt |tr ' ' '\n' | sed 'N;s/\n/ /' |grep -n ''|grep -w $No |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
+pureanswer=$(echo $txt |tr ' ' '\n' | sed 'N;s/\n/ /' | sed -n "$No,${No}p" )
 #read -p  '————请输入答案:'  scanf  < cat
 #read a < /dev/stdin <<eof
 answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
@@ -841,39 +1183,7 @@ fi
 fi
 bot=
 
-if ifright ;then
-printf  "%${COL}s" ${tline}
-elif [[ "${scanf:-0}" = "0" ]]; then
-printf  "%${COL}s" ${nline}
-else
-printf  "%${COL}s" ${fline}
-fi
-#printf  "\033[0m\033[2A"
-printf "\ny释义/v例句/s跳过:"
-read  bool
-bool=${bool:-0}
-#printf "\r"
-printf "\r\033[1A$(echo "$spaces" )\n"
-if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
-#printf "\033[$((COLUMN-7))C释义\n"
-printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
-yes
-elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]; then
-#printf "\033[$((COLUMN-7))C例句\n"
-printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
-
-if [[ "$voice" = '0' ]] ;then
-say  "$answer1,$answer2"
-fi
-verbose
-elif [[ $bool = 's' ]] || [[ $bool = 'S' ]]  ; then
-#printf "\033[$((COLUMN-7))C跳过\n"
-#printf  "%${COL}s\n" ${nline}
-printf "\r\033[1A跳过                \n"
-printf "\033[0m"
-else
-printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
-fi
+(colourp >/dev/tty) &>/dev/null
 
 done
 fi
@@ -902,10 +1212,10 @@ elif [[  $random = 3 ]];then
 
 m2=$(($RANDOM%$m+1))
 fi
-question=$(echo $txt | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | grep -n '' | grep -w $m2 | head -n 1 | awk '{printf $2}')
+question=$(echo $txt | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | sed -n "$m2,${m2}p")
 echo  "${strs}"
 
-pureanswer=$(echo $txt  |tr ' ' '\n' | sed 'N;s/\n/ /' | grep -n '' | grep -w $m2 |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
+pureanswer=$(echo $txt  |tr ' ' '\n' | sed 'N;s/\n/ /' | sed -n "$m2,${m2}p" | sed 's/:/''/g')
 
 answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 #answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
@@ -935,39 +1245,8 @@ fi
 
 bot=''
 
-if ifright ;then
-printf  "%${COL}s" ${tline}
-elif [[ "${scanf:-0}" = "0" ]]; then
-printf  "%${COL}s" ${nline}
-else
-printf  "%${COL}s" ${fline}
-fi
-#printf  "\033[0m\033[2A"
-printf "\ny释义/v例句/s跳过:"
-read  bool
-bool=${bool:-0}
-#printf "\r"
-printf "\r\033[1A$(echo "$spaces" )\n"
-if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
-#printf "\033[$((COLUMN-7))C释义\n"
-printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
-yes
-elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]; then
-#printf "\033[$((COLUMN-7))C例句\n"
-printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
+(colourp >/dev/tty) &>/dev/null
 
-if [[ "$voice" = '0' ]] ;then
-say  "$answer1,$answer2"
-fi
-verbose
-elif [[ $bool = 's' ]] || [[ $bool = 'S' ]]  ; then
-#printf "\033[$((COLUMN-7))C跳过\n"
-#printf  "%${COL}s\n" ${nline}
-printf "\r\033[1A跳过                \n"
-printf "\033[0m"
-else
-printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
-fi
 done
 fi
 
@@ -999,10 +1278,10 @@ elif [[  $random = 3 ]];then
 m2=$(($RANDOM%$m+1))
 fi
 
-question=$(echo $txt | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | grep -n '' | grep -w $m2 | head -n 1 | awk  '{RS=" "}{printf $1}' | tr -d '0-9' | tr -d ':' | tr '/' ' ')
+question=$(echo $txt | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
 echo  "${strs}"
 
-pureanswer=$(echo  $txt |tr ' ' '\n' | sed 'N;s/\n/ /' | grep -n '' |grep -w $m2 |head -n 1 |  tr -d '0-9' | sed 's/:/''/g')
+pureanswer=$(echo  $txt |tr ' ' '\n' | sed 'N;s/\n/ /' | sed -n "$m2,${m2}p" | sed 's/:/''/g')
 
 
 answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
@@ -1025,38 +1304,7 @@ fi
 
 #echo $answer1
 #echo $answer2 
-if ifright;then
-printf  "%${COL}s" ${tline}
-elif [[ "${scanf:-0}" = "0" ]]; then
-printf  "%${COL}s" ${nline}
-else
-printf  "%${COL}s" ${fline}
-fi
-#printf  "\033[0m\033[2A"
-printf "\ny释义/v例句/s跳过:"
-read  bool
-bool=${bool:-0}
-#printf "\r"
-printf "\r\033[1A$(echo "$spaces" )\n"
-if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
-#printf "\033[$((COLUMN-7))C释义\n"
-printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
-yes
-elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]; then
-#printf "\033[$((COLUMN-7))C例句\n"
-printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
-if [[ "$voice" = '0' ]] ;then
-say  "$answer1,$answer2"
-fi
-verbose
-elif [[ $bool = 's' ]] || [[ $bool = 'S' ]]  ; then
-#printf "\033[$((COLUMN-7))C跳过\n"
-#printf  "%${COL}s\n" ${nline}
-printf "\r\033[1A跳过                \n"
-printf "\033[0m"
-else
-printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
-fi
+(colourp >/dev/tty) &>/dev/null
 done
 fi
 }
@@ -1067,6 +1315,7 @@ fi
 
 FUN1()
 {
+
 clear
 #printf "\033[s\c"
 printf "\033[1B$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
@@ -1087,7 +1336,7 @@ echo
 printf  "\033[0m\033[?25l"
 printf "I，提词机${spaces#               }II，完形填空"
 read  premode
-if [[  "$premode" -eq 2  ]];then
+if [[  "${premode:-1}" -eq 2  ]];then
 _FUN
 return 0
 fi
@@ -1190,39 +1439,7 @@ bot=
 #echo $answer1
 #echo $answer2 
 #if [[ $scanf = $answer1 ]] || [[ $scanf = $answer2 ]];then
-if ifright ;then
-printf  "%${COL}s" ${tline}
-elif [[ "${scanf:-0}" = "0" ]]; then
-printf  "%${COL}s" ${nline}
-else
-printf  "%${COL}s" ${fline}
-fi
-#printf  "\033[0m\033[2A"
-printf "\ny释义/v例句/s跳过:"
-read  bool
-bool=${bool:-0}
-#printf "\r"
-printf "\r\033[1A$(echo "$spaces" )\n"
-if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
-#printf "\033[$((COLUMN-7))C释义\n"
-printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
-yes
-elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]; then
-#printf "\033[$((COLUMN-7))C例句\n"
-printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
-
-if [[ "$voice" = '0' ]] ;then
-say  "$answer1,$answer2"
-fi
-verbose
-elif [[ $bool = 's' ]] || [[ $bool = 'S' ]]  ; then
-#printf "\033[$((COLUMN-7))C跳过\n"
-#printf  "%${COL}s\n" ${nline}
-printf "\r\033[1A跳过                \n"
-printf "\033[0m"
-else
-printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
-fi
+(colourp >/dev/tty) &>/dev/null
 done
 fi
 
@@ -1290,39 +1507,7 @@ bot=
 #echo $answer1
 #echo $answer2 
 #if [[ $scanf = $answer1 ]] || [[ $scanf = $answer2 ]];then
-if ifright;then
-printf  "%${COL}s" ${tline}
-elif [[ "${scanf:-0}" = "0" ]]; then
-printf  "%${COL}s" ${nline}
-else
-printf  "%${COL}s" ${fline}
-fi
-#printf  "\033[0m\033[2A"
-printf "\ny释义/v例句/s跳过:"
-read  bool
-bool=${bool:-0}
-#printf "\r"
-printf "\r\033[1A$(echo "$spaces" )\n"
-if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
-#printf "\033[$((COLUMN-7))C释义\n"
-printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
-yes
-elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]; then
-#printf "\033[$((COLUMN-7))C例句\n"
-printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
-
-if [[ "$voice" = '0' ]] ;then
-say  "$pureanswer"
-fi
-verbose
-elif [[ $bool = 's' ]] || [[ $bool = 'S' ]]  ; then
-#printf "\033[$((COLUMN-7))C跳过\n"
-#printf  "%${COL}s\n" ${nline}
-printf "\r\033[1A跳过                \n"
-printf "\033[0m"
-else
-printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
-fi
+(colourp >/dev/tty) &>/dev/null
 done
 fi
 
@@ -1382,38 +1567,7 @@ bot=
 #echo $answer1
 #echo $answer2 
 #if [[ $scanf = $answer1 ]] || [[ $scanf = $answer2 ]];then
-if ifright;then
-printf  "%${COL}s" ${tline}
-elif [[ "${scanf:-0}" = "0" ]]; then
-printf  "%${COL}s" ${nline}
-else
-printf  "%${COL}s" ${fline}
-fi
-#printf  "\033[0m\033[2A"
-printf "\ny释义/v例句/s跳过:"
-read  bool
-bool=${bool:-0}
-#printf "\r"
-printf "\r\033[1A$(echo "$spaces" )\n"
-if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
-#printf "\033[$((COLUMN-7))C释义\n"
-printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
-yes
-elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]; then
-#printf "\033[$((COLUMN-7))C例句\n"
-printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
-
-if [[ "$voice" = '0' ]] ;then
-say  "$answer1,$answer2"
-fi
-verbose
-elif [[ $bool = 's' ]] || [[ $bool = 'S' ]]  ; then
-
-printf "\r\033[1A跳过                \n"
-printf "\033[0m"
-else
-printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
-fi
+(colourp >/dev/tty) &>/dev/null
 done
 fi
 
@@ -1424,7 +1578,7 @@ fi
 getfromline()
 {
 nul=/dev/null
-
+tno=0
 if [[  "${txt:-}" !=  ''  ]];then
 n=$(echo ${txt%%@} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p') && return 2
 elif [[ ${#*} -ne 0  ||  "${txt:-}" !=  '' ]];then
@@ -1435,23 +1589,32 @@ return 1
 fi
 for t in $(seq ${#*});do
 
+#eval rp=\${$p:-nul}
+
 eval rp=\${$p:-nul}
 (cat ${rp} ) >&/dev/null
 catable=$?
 if [[  $catable -eq 0  ]];then
-txt="$(cat ${rp} |  grep -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )
+txt="$(cat ${rp} |  grep -a  -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )
 $txt"
        # txt=${txt%% }
 retargets=${rp}' '$retargets
        # txt=${txt%%@}
+n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
+tno=$((tno+1))
+eval ca$tno=$n
+#eval echo \$ca$t
+
 fi
 p=$((p+1))
+
+
 done
    # elif [[ pb != 0 ]];then 
 
 p=1
 [[  "$retargets" ==  ''  ]]  && return 1  
-#cat $(echo $retargets | tr ' ' '\n') | grep \\\\
+#cat $(echo $retargets | tr ' ' '\n') | grep -a  \\\\
 #if [[  $?  -eq  0  ]];then
 targets=$retargets
 #echo $#
@@ -1460,7 +1623,6 @@ n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 # echo $n
 echo  "${strs}"
 echo 检测到$((n/2))组单词
-
 [[ $(($n/2)) -le 200 ]] && return 0
 [[ $(($n/2)) -gt 200 ]] && read -n 1 -p "按任意键跳过$enter"  choice
 echo
@@ -1480,6 +1642,7 @@ fi
 getfromread()
 
 {
+#two=0
 for i in $(seq 100)
 do
 n0=0
@@ -1495,7 +1658,7 @@ key2=$?
 
 if [[  $key2 -eq 0  ]] && [[  "$target"  !=  ''  ]] ;then
 targets=$target' '$targets
-txt="$(cat ${target} |  grep -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )
+txt="$(cat ${target} |  grep -a  -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )
 $txt"
 
 lastn=$n
@@ -1503,7 +1666,11 @@ lastn=$n
 n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 #最长的list的行数
 # echo $n
-
+#n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
+tno=$((tno+1))
+eval ca$tno=$n
+#eval echo \$ca$t
+#tno=$((tno+1))
 
 echo 重新检测到共$(($(($n-$((n%2))))/2))组单词
 #echo $((n-lastn))
@@ -1534,14 +1701,31 @@ done
 
 
 
+
+
+
+
+while getopts ":r" opt; do
+    case $opt in
+        r)
+        echo 错题集模式 && record=1
+        
+        ;;
+esac
+done
+
+
 stdin
 
-calendar && loadcontent && FUN  && exit
+calendar && loadcontent  && FUN  && exit
+
+tno=0
 
 getfromline $* && preload && loadcontent  && _voice &&  FUN1 && exit
 [[  "$?" -eq '2' ]] && loadcontent && FUN  && exit
 alldata=
 targets=
 target=
+tno=0
 getfromread && loadcontent  && _voice &&   FUN1
 [[  "$?" -eq '2' ]] && loadcontent &&  FUN
