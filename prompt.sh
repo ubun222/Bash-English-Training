@@ -37,6 +37,10 @@ read -n1 D <<EOF
 `printf  "\004"`
 EOF
 
+read -n1 CB <<EOF
+`printf  "\002"`
+EOF
+
 #mmm=2
 struct(){
 
@@ -465,7 +469,7 @@ if [[  "$RC" -eq 1  ]]  && [[  "$record" -eq 1   ]];then
 
 row=$(eval "$allif")
 eval therw=\${rw$row}
-locate="$(cat "${therw}" | grep ^"${answer1}\t" )"
+locate="$(cat "${therw}" | grep ^"${answer1}	" )"
 if [[  "$locate" ==  ""  ]]  ;then
 
 
@@ -491,7 +495,7 @@ elif [[  "$RC" -eq 0  ]]  && [[  "$record" -eq 1   ]] ;then
 
 row=$(eval "$allif")
 eval therw=\${rw$row}
-locate="$(cat "${therw}" | grep ^"${answer1}\t" )"
+locate="$(cat "${therw}" | grep ^"${answer1}	" )"
 
 if [[  "$locate" !=  ""  ]];then
 locate="$(cat "${therw}" | grep -n ^"${answer1} |" | awk -F: '{print $1}')"
@@ -747,8 +751,9 @@ echo $strs
 echo detect CTRL D
 echo 输入想要查找的单词
 echo 暂停请按下 CTRL Z 
+echo 退出请按下 CTRL C
 echo
-echo "the word:"
+printf "the word:"
 
 while true;do
 fascanf="!!"
@@ -811,14 +816,25 @@ if [[  "$find" != ""  ]];then
 echo $strs
 echo "在词表中：$target"
 printf "释义：\n\033[1m\033[3m$find\033[0m\n" | tr -s "\t"
-find2="$(cat "$target" | grep  "$fscanf" |  grep  -v "	" | grep  -v " |")"
 
+
+find1=$(cat "$target" | grep -a    -B 30 "^${fscanf} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]')
+if [[  "$find1" != ""  ]];then
+echo $strs
+echo "在详细释义中：$target"
+printf "$find1\n" | grep -n ""
+fi
+
+#echo $strs
+
+find2="$(cat "$target" | grep  "$fscanf" |  grep  -v "	" | grep  -v " |")"
 if [[  "$find2" != ""  ]];then
 echo $strs
 echo "在例句中：$target"
 find2="$(echo "$find2" |  sed "s/$fscanf/\\\033[1m\\\033[33m$fscanf\\\033[0m/g")"
-printf "例句：\n$find2\n" | tr -s "\t"
+printf "$find2\n" | tr -s "\t"
 fi
+
 fi
 
 #[[  "$word" != ""  ]] &&  [[  "$(cat "$target" | grep  \\\\)"  ==  ""   ]]   && find1="$(cat "$target" | grep  "$fscanf")"
@@ -963,7 +979,9 @@ targets=${targets:-/dev/null}
 #[[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -a  -B 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
 
 lineraw1="$(echo  "$content" | grep -a  "${answer1}" )"
-lineraw="$(echo "$lineraw1" | grep -a  -v '|')"
+lineraw="$(echo "$lineraw1" | grep -a  -v '|' | sed "s/$answer1/\\\033[1m\\\033[33m$answer1\\\033[0m/g" )"
+
+
 linenum=$(echo "$lineraw" | wc -l)
 for li in $(seq 3)
 
@@ -974,18 +992,18 @@ if [[  $linenum -eq 0  ]] || [[  $lineraw == ""  ]];then
 fi
 
 if [[  $linenum -eq 1  ]]  ; then 
-printf "$lineraw\n" && (echo "$lineraw1"| grep -a  "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
+printf "$lineraw\n" && (printf "$lineraw1\n"| grep -a  "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
 break
 fi
 
 therandom=$(($RANDOM%$linenum+1))
-[[  $lineraw != ""  ]] && echo "$lineraw" | head -n$therandom | tail -n1
+[[  $lineraw != ""  ]] && printf "$lineraw\n" | head -n$therandom | tail -n1
  
 lineraw="$(printf  "${lineraw}\n${lineraw}\n" |  tail -n $((linenum*2-therandom)) | head -n$((linenum-1)))"       ##在sed内放变量需要""
 linenum=$((linenum-1))
 
 if  [[  $li -ge 3  ]] ;then
- (echo "$lineraw1"| grep -a  "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
+ (printf "$lineraw1\n"| grep -a  "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
  break
  fi
 done
