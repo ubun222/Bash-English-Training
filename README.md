@@ -2,7 +2,7 @@
 
 #### 大概介绍
 1. 支持bash(termux ish Linux)和ash(ish)，不支持zsh，fish，dash等等等等，但支持macOS的默认终端和越狱后的iPhone终端
-![BET-ish.gif](/img/BET-ish.gif) ![BET-termux.gif](/img/BET-termux.gif)
+![BET-ish.gif](https://github.com/ubun222/Prompter/raw/bash/img/BET-ish.gif) ![BET-termux.gif](https://github.com/ubun222/Prompter/raw/bash/img/BET-termux.gif)
 #### 开始
 1. IOS下载ish，安卓下载Termux，两者都是很好用的手机终端app。
 2. ish(bash就用main分支的，自带的ash用ash的分支)
