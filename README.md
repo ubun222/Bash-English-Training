@@ -1,44 +1,35 @@
 ## 自制的英语单词提词器
 
-# Prompter
-Some scripts help learning English.
-
-#### 如何使用
-1. IOS用户请下载ish，安卓用户请下载Termux
-2. ish
+#### 大概介绍
+1. 支持bash(termux ish Linux)和ash(ish)，不支持zsh，fish，dash等等等等，但支持macOS的默认终端和越狱后的iPhone终端
+![BET-ish.gif](/img/BET-ish.gif) ![BET-termux.gif](/img/BET-termux.gif)
+#### 开始
+1. IOS下载ish，安卓下载Termux，两者都是很好用的手机终端app。
+2. ish(bash就用main分支的，自带的ash用ash的分支)
 ```
 apk add bash
 apk add git
 git clone git@github.com:ubun222/Prompter.git
 chmod +x ./Prompter/*.sh
 ```
-3. Termux
+3. Termux(自带的就是bash，所以用main分支的)
 ```
 apt-get install git
 git clone git@github.com:ubun222/Prompter.git
 chmod +x ./Prompter/*.sh
 ```
-4. 若安装git或bash失败，请先update和upgrade包管理命令，若网络不佳，请移步gitee
-
-#### 如何操作
-1. Prompter.sh
-![Prompter.gif](https://raw.githubusercontent.com/ubun222/Prompter/master/nothing/Prompter.gif)
-2. 其他几个工具shell也都一样，拖入终端回车即可。
-
-#### 适配情况
-* 支持termux(安卓端)
-* 支持ish(IOS端，必须apk安装Bash和gawk运行)--ash可运行的版本请移步ash的分支(暂未开发)
-1. ish的git卡住问题请输入
-`git config --global pack.threads "1"`
-* MacOS(12.1)的zsh在兼容模式下运行良好(不能以纯zsh运行)，ubuntu的bash也可以用
-* WSL(DEBIAN-bash)可运行
-
-
+4. 若安装git或bash失败，请先update和upgrade包管理命令。
+#### 参数
+1. -r 错题集模式
+#### tips
+1. CTRL+Z 暂停，然后 fg 继续 （全局适用）
+2. CTRL+C 退出 （全局适用）
+3. *CTRL+D 查询（非全局适用）
 #### 直接试用
-请访问[这里](https://ubun222.github.io)
+1. [这里](https://ubun222.github.io)
+3. 或[这里](https://cb222.gitee.io)
+2. 或[这里](https://keyboarder.xyz)
 * 如果没有加载成功，请先关闭clash等软件
 
-
-
-
-trans文件来自https://github.com/soimort/translate-shell 
+#### 参考
+bash,ash,trans,gawk,sed....
