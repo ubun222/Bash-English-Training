@@ -12,6 +12,7 @@ reset=$(printf "\033[u\n")
 enter=$(printf "\r")
 newline="$(printf "\n")"
 v=$(printf "\v")
+t=$(printf "\t")
 Block="  "
 Back="$(printf "\b")"
 Backs="$Back$Back"
@@ -43,11 +44,9 @@ EOF
 
 #mmm=2
 struct(){
-
+allif=
 #use=3
-
 #echo $thei
-
 #case="case \$m in"
 for ti in `seq $((tno))` ;do
 iii=$ti
@@ -172,7 +171,8 @@ fi
 done <<EOF
 $txtall
 EOF
-
+txt=$(echo "$txt" |  sed "1,1d"  )
+#echo "$txt"
 targets="$txtall"
 
 n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
@@ -232,7 +232,7 @@ fi
 done <<EOF
 $txtall
 EOF
-
+txt=$(echo "$txt" |  sed "1,1d" )
 targets="$txtall"
 
 n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
@@ -291,6 +291,7 @@ loadcontent()
 #cd "$Path"
 #recordls
 echo
+
 if [[  "$record" == 1  ]] && [[  "$calenda" == 1  ]] ;then
     echo
 RWN=1
@@ -299,10 +300,16 @@ RWN=1
     while read atarget ;do
     #echo $atarget
     [[ ! -e ./CORRECT/${atarget##"./"}  ]] &&  echo \\\\\\\\\\\\ > ./CORRECT/${atarget##"./"}
+    
     chmod 777  "./CORRECT/${atarget##"./"}"
+    
     eval rw$RWN="./CORRECT/${atarget##"./"}"
     RWN=$((RWN+1))
-    printf 指向错题集./txt/CORRECT/${atarget##"./"}\\n
+       [[  -e ./CORRECT/${atarget##"./"}  ]] &&  printf 指向错题集./txt/CORRECT/${atarget##"./"}\\n
+       
+                       if [[  "$?" -ne 0  ]];then
+    printf 找不到"$atarget"中的文件夹，请生成子文件夹或删除整个CORRECT\\n
+fi
 done <<EOF
 $targets
 EOF
@@ -325,7 +332,7 @@ while read atarget ;do
     chmod 777  ./CORRECT/allinone.txt
     eval rw$RWN=./CORRECT/allinone.txt
     RWN=$((RWN+1))
-    printf 指向错题集./txt/CORRECT/allinone.txt\\n
+          [[  -e ./CORRECT/allinone.txt  ]] && printf 指向错题集./txt/CORRECT/allinone.txt\\n
 done <<EOF
 $(echo "$targets" | tr " " "\n" )
 EOF
@@ -449,9 +456,6 @@ elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]; then
 #printf "\033[$((COLUMN-7))C例句\n"
 printf "\r\033[1A$(echo $pureanswer | tr '/' ' ')\n"
 
-if [[ "$voice" = '0' ]] ;then
-say  "$answer1,$answer2"
-fi
 verbose
 elif [[ $bool = 's' ]] || [[ $bool = 'S' ]]  ; then
 RC=0
@@ -547,7 +551,7 @@ tf=$?
 IFS=$IFSbak
 #printf "$question"——————:"$scanf"$enter
 
-sleep 0.005
+sleep 0.0016
 
 #echo ascanf:$ascanf
 
@@ -874,48 +878,122 @@ return 1
 
 _verify()
 {
-read -n1 -p 输入Y或者y验证词表 verify
-echo
-if [[ $verify = y || $verify = Y  ]];then
 
+#echo "$txt"
+#read -n1 -p 输入Y或者y验证词表 verify
+#echo
+if [[ $verify = y || $verify = Y  ]];then
+RWN=1
+while read atarget ;do
+    eval rw$RWN="${atarget}"
+    RWN=$((RWN+1))
+done <<EOF
+$targets
+EOF
+struct
+#fi
 
 (echo | shasum ) >&/dev/null
-[[ $? -eq 0 ]] && sha1=$(echo $txt | shasum) && sha2=$(echo $alldata | shasum) &&
-unset sha3  sha4
+[[ $? -eq 0 ]] && sha=
 
 (echo | sha1sum) >&/dev/null
-[[ $? -eq 0 ]] && sha3=$(echo $txt | sha1sum) && sha4=$(echo $alldata | sha1sum) &&
-unset sha1  sha2
-[[ "$sha1" ]] && echo 源变量shasum:${sha1}  #$txt
-[[ "$sha2" ]] && echo 合成变量shasum:${sha2}  #$alldata
-[[ "$sha3" ]] && echo 源变量sha1sum:${sha3}  #$txt
-[[ "$sha4" ]] && echo 合成变量sha1sum:${sha4}
-if  [[ "$sha1" = "$sha2" && "$sha3" = "$sha4"  ]];then
+[[ $? -eq 0 ]] && sha=1
+nn=$((n/2))
+list=1
+cha=$((n/2))
+while read line;do
 
-echo 验证通过！
-#elif [[ $sha1 != $sha2 ]];then
+#outputed=$(($((list100/$((cha))))/4))
+if [[ $cha -gt 25 ]];then
+list100=$(($((list*100))))
+output=$((list100/$((cha))))
+ #echo $output
+ output25=$((output/4))
+trial=$((output25-outputed))
+[[ $trial -eq 1  ]] && str=$str#
+outputed=${output25:-0}
+printf "\033[?25l\033[k\r                          ]${output}\r ${str}\r["
+#[[ ${#str} = 25 ]] && str=
+elif [[ $cha -le 25 ]];then
+list100=$(($((list*100))))
+output=$((list100/$((cha))))
+output5=$((output/20))
+trial=$((output5-outputed))
+[[ $trial -eq 1 ]] && str=$str#####
+outputed=${output5:-0}
+printf "\033[?25l\033[k\r                          ]${output}\r ${str}\r["
+
+fi
+[[ ${#str} -eq 25 ]] && str=
+lleft=$(echo "$line" | awk '{printf $1}')
+right="$(echo "$txt" | sed -n "$wlist,${wlist}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
+#eval ln=\${l$list}  # alias
+#eval rn=\${r$list}
+#echo $ln
+#echo $rn
+aline="$(printf "${line}" | tr -s  "	" | tr "	" " " )"
+alldata="$lleft $right"
+list=$((list+1))
+wlist=$((wlist+1))
+ #echo $alldata
+if [[  "$alldata" == "$aline" ]] ;then
+continue
+
 else
-read -p 验证不通过!
+verify=n
+break
+fi
+done <<EOF
+$txt
+EOF
+if [[  "$verify" == "n"  ]] ;then
+#echo
+echo $strs
+#struct
+m=$((list-1))
+#eval "$allif"
+row=$(eval "$allif")
+#echo $row
+#echo $rw0
+eval therw=\${rw$row}
+printf "在${therw}词表中的|${line}|行有错误，请在此行检查以下错误
+1.英文在前，中文在后，中间用多个tab制表符隔开
+2.最后一行以\\\\\\\\\\结尾，\个数不限
+3.检查行长度，在英文前或中文后是否还存在字符，如果有，请删除
+4.检查tab制表符是否合规，除英文短语部分外不应该出现空格"
 
+read
 exit
+#RWN=1
 fi
+#echo $txt
+
+
+
+#(echo | shasum ) >&/dev/null
+#[[ $? -eq 0 ]] && sha1=$(echo $txt | shasum) && sha2=$(echo $alldata | shasum) &&
+#unset sha3  sha4
+
+#(echo | sha1sum) >&/dev/null
+#[[ $? -eq 0 ]] && sha3=$(echo $txt | sha1sum) && sha4=$(echo $alldata | sha1sum) &&
+#unset sha1  sha2
+#[[ "$sha1" ]] && echo 源变量shasum:${sha1}  #$txt
+#[[ "$sha2" ]] && echo 合成变量shasum:${sha2}  #$alldata
+#[[ "$sha3" ]] && echo 源变量sha1sum:${sha3}  #$txt
+#[[ "$sha4" ]] && echo 合成变量sha1sum:${sha4}
+#if  [[ "$sha1" = "$sha2" && "$sha3" = "$sha4"  ]];then
+
+#echo 验证通过！
+#elif [[ $sha1 != $sha2 ]];then
+#else
+#printf 验证不通过!
+#read
+
+#exit
+#fi
 
 fi
 }
-
-
-_voice()
-{
-voice=1
-
-if [[ $(uname) = "Darwin" ]];then
-read -n1 -p 检测到macOS，是否开启播报（y/n） vbool
-if [[  $vbool = y ]] || [[  $vbool = Y ]];then 
-voice=0
-fi
-fi
-}
-
 
 #syes(){
 
@@ -1024,7 +1102,7 @@ _FUN()
 m=$(($RANDOM%$m+1))
 ##echo "$txt"
 answer="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
-answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $2}' | tr '/' ' ')"
+answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
 iq=${#answer}
 for t in `seq $iq`;do
 
@@ -1074,6 +1152,213 @@ done
 
 }
 
+FUN_()
+{
+#read background <<EOF
+#EOF
+echo  "$strs"
+#read
+#echo $n
+ m=$((n/2))
+ total=$((n/2))
+
+#echo "$txt"
+ for i in `seq 99`;do
+  m=$total
+ bot=
+ #ss=0
+m1=
+m2=
+m3=
+
+#echo $m
+m=$((RANDOM%$m+1))
+##echo "$txt"
+answer1="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
+answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
+fbool=$((RANDOM%2+1))
+if [[  "$fbool" -eq 1  ]] ;then
+question=$answer1
+answer=$answer2
+
+iq=$((${#question}/2));
+cq=$((COLUMN/2))
+left=$((cq+iq))
+
+printf %${left}s "$question"
+echo
+
+while true;do
+
+m1=$((RANDOM%$total+1))
+m2=$((RANDOM%$total+1))
+m3=$((RANDOM%$total+1))
+#echo $m$m1$m2$m3
+[[  "$m1" -eq "$m2"  ]] || [[  "$m2" -eq "$m3"  ]] || [[  "$m1" -eq "$m3"  ]]  || [[  "$m" -eq "$m1"  ]] || [[  "$m" -eq "$m2"  ]]  ||  [[  "$m" -eq "$m3"  ]] &&  continue
+break
+done
+
+#echo $m1
+#echo $m2
+#echo $m3
+
+#printf "$newline"
+am1="$(echo "$txt" | sed -n "${m1},${m1}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
+#echo $m1
+am2="$(echo "$txt" | sed -n "${m2},${m2}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
+am3="$(echo "$txt" | sed -n "${m3},${m3}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
+#echo "$txt"
+
+insert=$((RANDOM%4+1))
+[[  "$insert" -eq 1  ]] && printf =="$answer\t\t\t\t\t\t\t\t\t\t"\\n
+printf =="$am1\t\t\t\t\t\t\t\t\t\t"\\n
+[[  "$insert" -eq 2  ]] && printf =="$answer\t\t\t\t\t\t\t\t\t\t"\\n
+printf =="$am2\t\t\t\t\t\t\t\t\t\t"\\n
+[[  "$insert" -eq 3  ]] && printf =="$answer\t\t\t\t\t\t\t\t\t\t"\\n
+printf =="$am3\t\t\t\t\t\t\t\t\t\t"\\n
+[[  "$insert" -eq 4  ]] && printf =="$answer\t\t\t\t\t\t\t\t\t\t"\\n
+printf 按空格选择$enter
+printf "\033[4A\033[34m->\033[0m$enter"
+
+order=1
+while true ;do
+IFS=$newline
+read -s -n1   ascanf
+tf=$?
+IFS=$IFSbak
+#echo ascanf:$ascanf
+sleep 0.01
+
+if [[  "$ascanf"  ==  ' '  ]];then
+order=$((order+1))
+
+printf ==$enter
+[[  "$order" -eq 5  ]]  && printf "\033[4A$enter"
+[[  "$order" -eq 5  ]] && order=1
+printf "\033[1B\033[34m->\033[0m$enter"
+
+elif [[  "$ascanf"  ==  ""  ]];then
+break
+elif [[  "$ascanf"  ==  "$D"  ]];then
+FIND
+break
+fi
+done
+
+if [[  "$order" -eq "$insert"  ]];then
+printf "\033[32m==$answer    $answer1\033[0m"
+down=$((5-$order))
+printf "\033[${down}B$enter"
+
+#printf "\033[32m$order:$answer    $answer1\033[0m\n"
+#printf "\033[32m$answer\033[0m\n"
+
+#read yourchoice
+
+else
+printf "\033[31m==\033[0m\r"
+#printf "\033[31m$order\033[0m\r"
+down=$((5-$order))
+printf "\033[${down}B$enter"
+printf "\r\033[31m$answer    $answer1\033[0m\n"
+
+fi
+#echo $strs
+
+elif [[  "$fbool" -eq 2  ]] ;then
+
+question=$answer2
+answer=$answer1
+
+iq=$((${#question}*2))
+cq=$((COLUMN/2))
+left=$((cq+iq))
+
+printf %${left}s "$question"
+echo
+
+while true;do
+
+m1=$((RANDOM%$total+1))
+m2=$((RANDOM%$total+1))
+m3=$((RANDOM%$total+1))
+#echo $m$m1$m2$m3
+[[  "$m1" -eq "$m2"  ]] || [[  "$m2" -eq "$m3"  ]] || [[  "$m1" -eq "$m3"  ]]  || [[  "$m" -eq "$m1"  ]] || [[  "$m" -eq "$m2"  ]]  ||  [[  "$m" -eq "$m3"  ]] &&  continue
+break
+done
+
+#echo $m1
+#echo $m2
+#echo $m3
+
+#printf "$newline"
+am1="$(echo "$txt" | sed -n "${m1},${m1}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
+#echo $m1
+am2="$(echo "$txt" | sed -n "${m2},${m2}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
+am3="$(echo "$txt" | sed -n "${m3},${m3}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
+#echo "$txt"
+
+insert=$((RANDOM%4+1))
+[[  "$insert" -eq 1  ]] && printf =="$answer\t\t\t\t\t\t\t\t\t\t"\\n
+printf =="$am1\t\t\t\t\t\t\t\t\t\t"\\n
+[[  "$insert" -eq 2  ]] && printf =="$answer\t\t\t\t\t\t\t\t\t\t"\\n
+printf =="$am2\t\t\t\t\t\t\t\t\t\t"\\n
+[[  "$insert" -eq 3  ]] && printf =="$answer\t\t\t\t\t\t\t\t\t\t"\\n
+printf =="$am3\t\t\t\t\t\t\t\t\t\t"\\n
+[[  "$insert" -eq 4  ]] && printf =="$answer\t\t\t\t\t\t\t\t\t\t"\\n
+printf 按空格选择$enter
+printf "\033[4A\033[34m->\033[0m$enter"
+
+order=1
+while true ;do
+IFS=$newline
+read -s -n1   ascanf
+tf=$?
+IFS=$IFSbak
+#echo ascanf:$ascanf
+sleep 0.012
+
+if [[  "$ascanf"  ==  ' '  ]];then
+order=$((order+1))
+
+printf ==$enter
+[[  "$order" -eq 5  ]]  && printf "\033[4A$enter"
+[[  "$order" -eq 5  ]] && order=1
+printf "\033[1B\033[34m->\033[0m$enter"
+
+
+elif [[  "$ascanf"  ==  ""  ]];then
+break
+elif [[  "$ascanf"  ==  "$D"  ]];then
+FIND
+break
+fi
+done
+
+
+if [[  "$order" -eq "$insert"  ]];then
+printf "\033[32m==$answer    $answer2\033[0m"
+down=$((5-$order))
+printf "\033[${down}B$enter"
+
+#printf "\033[32m$order:$answer2    $answer\033[0m\n"
+#printf "\033[32m$answer\033[0m\n"
+
+#read yourchoice
+
+else
+printf "\033[31m==\033[0m\r"
+#printf "\033[31m$order\033[0m\r"
+down=$((5-$order))
+printf "\033[${down}B$enter"
+printf "\r\033[31m$answer    $answer2\033[0m\n"
+
+fi
+
+fi
+echo $strs
+done
+}
 
 FUN()
 {
@@ -1098,10 +1383,13 @@ printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English
 
 echo
 printf  "\033[0m\033[?25l"
-printf "I，提词机${spaces#            }${spaces#          }II，完形填空"
+printf "I,提词器${spaces#               }II,完形填空${spaces#               }III,四选一"
 read  premode
 if [[  "${premode:-1}" -eq 2  ]];then
 _FUN
+return 0
+elif [[  "${premode:-1}" -eq 3  ]];then
+FUN_
 return 0
 fi
 #printf "I，英译中${spaces#               }II，中译英${spaces#               }III，混合"
@@ -1352,10 +1640,13 @@ printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English
 
 echo
 printf  "\033[0m\033[?25l"
-printf "I，提词机${spaces#               }II，完形填空"
+printf "I,提词器${spaces#               }II,完形填空${spaces#               }III,四选一"
 read  premode
 if [[  "${premode:-1}" -eq 2  ]];then
 _FUN
+return 0
+elif [[  "${premode:-1}" -eq 3  ]];then
+FUN_
 return 0
 fi
 printf "I，英译中${spaces#               }II，中译英${spaces#               }III，混合"
@@ -1600,8 +1891,8 @@ tno=0
 if [[  "${txt:-}" !=  ''  ]];then
 n=$(echo ${txt%%@} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p') && return 2
 elif [[ ${#*} -ne 0  ||  "${txt:-}" !=  '' ]];then
-targets="${1:-} ${2:-} ${3:-} ${4:-} ${5:-} ${6:-} ${7:-} ${8:-} ${9:-}"
-
+#targets="${1:-} ${2:-} ${3:-} ${4:-} ${5:-} ${6:-} ${7:-} ${8:-} ${9:-}"
+sleep 0.1
 else
 return 1
 fi
@@ -1610,7 +1901,7 @@ for t in $(seq ${#*});do
 #eval rp=\${$p:-nul}
 
 eval rp=\${$p:-nul}
-(cat ${rp} ) >&/dev/null
+(cat < ${rp} ) >&/dev/null
 catable=$?
 if [[  $catable -eq 0  ]];then
 txt="$(cat ${rp} |  grep -a  -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )
@@ -1618,6 +1909,7 @@ $txt"
        # txt=${txt%% }
 retargets=${rp}' '$retargets
        # txt=${txt%%@}
+txt=$(echo "$txt" | grep "	")
 n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 tno=$((tno+1))
 eval ca$tno=$n
@@ -1678,7 +1970,7 @@ if [[  $key2 -eq 0  ]] && [[  "$target"  !=  ''  ]] ;then
 targets=$target' '$targets
 txt="$(cat ${target} |  grep -a  -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )
 $txt"
-
+txt=$(echo "$txt" | grep "	")
 lastn=$n
 #echo "$txt"
 n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
@@ -1721,29 +2013,30 @@ done
 
 
 
-
-
-while getopts ":r" opt; do
+while getopts ":rs" opt; do
     case $opt in
         r)
         echo 错题集模式 && record=1
-        
+        ;;
+        s)
+        echo 验证词表模式 && verify=y
         ;;
 esac
 done
 
 
+
 stdin
 
-calendar && loadcontent  && FUN  && exit
+calendar && _verify && loadcontent && FUN && exit
 
 tno=0
 
-getfromline $* && preload && loadcontent  && _voice &&  FUN1 && exit
-[[  "$?" -eq '2' ]] && loadcontent && FUN  && exit
+getfromline $* && preload && loadcontent &&  FUN1 && exit
+[[  "$?" -eq '2' ]] && _verify && loadcontent && FUN  && exit
 alldata=
 targets=
 target=
 tno=0
-getfromread && loadcontent  && _voice &&   FUN1
-[[  "$?" -eq '2' ]] && loadcontent &&  FUN
+getfromread && loadcontent  &&   FUN1
+[[  "$?" -eq '2' ]] && _verify && loadcontent &&  FUN
