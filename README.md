@@ -23,6 +23,11 @@ chmod +x ./Prompter/*.sh
 4. 若安装git或bash失败，请先update和upgrade包管理命令。
 #### 参数
 1. -r 错题集模式
+2. -s 词表验证模式
+#### 答题模式
+1. 提词机
+2. 完形填空
+3. 四选一
 #### tips
 1. CTRL+Z 暂停，然后 fg 继续 （全局适用）
 2. CTRL+C 退出 （全局适用）
