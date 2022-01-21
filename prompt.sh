@@ -347,7 +347,7 @@ fi
     c="$(echo "$targets" | tr " " "\n")"
     cnum="$(echo "$c" | wc -l)"
     for i in $(seq $cnum);do
-    content="$(cat $(echo "$c" | sed -n "$i,${i}p" ) | grep -a  -A 999 \\\\  )
+    content="$(cat $(echo "$c" | sed -n "$i,${i}p" ) | grep -a  -A 99999 \\\\  )
 
 
 
@@ -376,14 +376,17 @@ echo  "${strs}"
 
 preload()
 {
+#echo "$txt"
 echo 载入词表中...
-nn=$((n-lastn+a0))
-n11=$((n1+1))
+nn=$((n-lastn))
+#nn=$((nn/2))
+n11=$((n1+a0))
 list=1
-
+wlist=$n11
+thetxt=$(echo "$txt" | tr -s '	' | head -n$((nn/2)))
 while read line;do
 
-cha=$((nn))
+cha=$((nn/2))
 #outputed=$(($((list100/$((cha))))/4))
 if [[ $cha -gt 25 ]];then
 list100=$(($((list*100))))
@@ -407,24 +410,52 @@ printf "\033[?25l\033[k\r                          ]${output}\r ${str}\r["
 fi
 [[ ${#str} -eq 25 ]] && str=
 
-eval lr$wlist="$(echo "\$line")"  #eval的空格需要''才能赋值，否则被视为命令行中的空格
-
+lleft=$(echo "$line" | awk '{printf $1}' | tr "/" " " )
+right="$(echo "$thetxt" | sed -n "$list,${list}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
+right=${right:-/}
+alldata="$lleft $right"
+aline="$(printf "${line}" | tr -s  "	" | tr " 	" " " | tr "/" " " )"
+if [[  "$alldata" == "$aline" ]] ;then
+eval lr$wlist="$(echo "\$lleft")" #eval的空格需要''才能赋值，否则被视为命令行中的空格
+eval lr$((wlist+1))="$(echo "\$right")"
+else
+verify=n
+row=$(eval "$allif")
+eval therw=\${rw$row}
+echo
+#echo $alldata
+printf "${therw}词表中的 |${aline}| 未加载，请检查"
+break
+fi
 list=$((list+1))
-wlist=$((wlist+1))
-
+wlist=$((wlist+2))
 done <<EOF
-`echo $txt | tr -s ' ' | tr ' ' '\n'  | head -n$((n-lastn+a0))  ` 
+$thetxt
 EOF
-#lastlist=$wlist
-#echo $lr1
-#echo "`echo $txt | tr -s ' ' | tr ' ' '\n'  | tail -n$((n-lastn))  `"
-
-[[ $((nn-n1)) -ne 0  ]] &&  l=$((l+1)) && a0=0
+echo
+if [[  "$verify" == "n"  ]] ;then
+#nn=$((list))
+#n=$((list*2))
+#remain=$(())
+printf "1.英文在行首，中文在行末，中间用多个tab制表符隔开
+2.词表和单词释义以数个反斜杠\\\\分隔
+3.删除多余的空格和缩进
+4.检查tab制表符
+5.仅英文单词部分可使用空格"
+read
+exit 1
+fi
+nn=$((list))
+str=
+output=0
+output25=0
+verify=
+[[ $((nn-n1)) -ne 0  ]]  &&  l=$((l+1)) && a0=0
 echo
 echo 已加载"$l"张词表 #需要""，否则输出为??
-n1=$nn
+n1=$((wlist))
 echo  "${strs}"
-
+therw=
 }
 
 
@@ -925,13 +956,15 @@ printf "\033[?25l\033[k\r                          ]${output}\r ${str}\r["
 
 fi
 [[ ${#str} -eq 25 ]] && str=
-lleft=$(echo "$line" | awk '{printf $1}')
+lleft=$(echo "$line" | awk '{printf $1}' | tr "/" " " )
 right="$(echo "$txt" | sed -n "$wlist,${wlist}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
+
+right=${right:-/}
 #eval ln=\${l$list}  # alias
 #eval rn=\${r$list}
 #echo $ln
 #echo $rn
-aline="$(printf "${line}" | tr -s  "	" | tr "	" " " )"
+aline="$(printf "${line}" | tr -s  "	" | tr "	" " " | tr "/" " " )"
 alldata="$lleft $right"
 list=$((list+1))
 wlist=$((wlist+1))
@@ -947,7 +980,7 @@ done <<EOF
 $txt
 EOF
 if [[  "$verify" == "n"  ]] ;then
-#echo
+echo
 echo $strs
 #struct
 m=$((list-1))
@@ -956,12 +989,12 @@ row=$(eval "$allif")
 #echo $row
 #echo $rw0
 eval therw=\${rw$row}
-printf "在${therw}词表中的|${line}|行有错误，请在此行检查以下错误
-1.英文在前，中文在后，中间用多个tab制表符隔开
-2.最后一行以\\\\\\\\\\结尾，\个数不限
-3.检查行长度，在英文前或中文后是否还存在字符，如果有，请删除
-4.检查tab制表符是否合规，除英文短语部分外不应该出现空格"
-
+printf "${therw}词表中的 |${aline}| 未加载，请检查
+1.英文在行首，中文在行末，中间用多个tab制表符隔开
+2.词表和单词释义以数个反斜杠\\\\分隔
+3.删除多余的空格和缩进
+4.检查tab制表符
+5.仅英文单词部分可使用空格"
 read
 exit
 #RWN=1
@@ -1952,6 +1985,7 @@ fi
 getfromread()
 
 {
+n=0
 #two=0
 for i in $(seq 100)
 do
@@ -1973,7 +2007,8 @@ $txt"
 txt=$(echo "$txt" | grep "	")
 lastn=$n
 #echo "$txt"
-n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
+n=$(echo "${txt}" | wc -l)
+n=$((n*2))
 #最长的list的行数
 # echo $n
 #n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
