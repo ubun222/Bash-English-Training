@@ -515,11 +515,11 @@ Vlineraw1="$(echo  "$content" | grep -a  "${answer1}" )"
 Vlineraw="$(echo "$Vlineraw1" | grep -a  -v '|')"
 Vpreline="$(echo "$Vlineraw1" | grep -a  '|')"
 
-aq1="$(echo "$pureanswer" | awk -F" " '{printf $1}'  | tr '/' " " )"
-aq2="$(echo "$pureanswer" | awk -F" " '{printf $NF}' | tr '/' " "  )"
+#aq1="$(echo "$pureanswer" | awk -F" " '{printf $1}'  | tr '/' " " )"
+#aq2="$(echo "$pureanswer" | awk -F" " '{printf $NF}' | tr '/' " "  )"
 
 #NB="$(printf "\00")"
-aq="$aq1\t\t\t\t\t$aq2"
+aq="$answer1\t\t\t\t\t$answer2"
 echo "$therw"| xargs sed -i"" "s/\\\\\\\\\\\\/$aq\\n\\\\\\\\\\\\/" -i "" "s/\\\\\\\\\\\\/$aq\\n\\\\\\\\\\\\/"
 #echo "$RW" >$therw
 printf "\n$Ylineraw\n$Vpreline\n$Vlineraw\n\n" >> $therw
