@@ -1,7 +1,7 @@
 ##!/usr/local/bin/bash
 #read -r -d '\' txt1 < $1  && read -r -d '\' txt2 < $2 && read -r -d '\' txt3 < $3
 #txt=$( echo $txt1 && echo $txt2 && echo $txt3)i 
-p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=${use:-2};wlist=1;a0=1;lastn=1;tno=0;ca0=0;bigi=0;RC=0;NB=''
+p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=${use:-2};wlist=1;a0=1;lastn=1;tno=0;ca0=0;bigi=0;RC=0;NB='';record=0
 #dirname $0
 Path="$(dirname $0)"
 tline=$(printf "\033[1A\033[32m●\033[0m\n")
@@ -86,16 +86,72 @@ calenda=1
    clear
 #calenda=1
 cd $Path
-cd ./txt/webapi >& /dev/null
+cd ./txt
+[[  "$?" -ne 0  ]] && echo 未在脚本所在目录找到txt文件夹 && return 1
+pathls="$(ls -F | grep '/$' )"
+pathlsl="$(echo "$pathls" | wc -l)"
+
+printf "按空格选择txt文件夹\n"
+while read inline ;do
+echo  "    $inline"
+done << EOF
+$pathls
+EOF
+
+#read -d " "
+printf "\033[0m$enter"
+
+order=1
+printf "\033[$((pathlsl))A\033[35m>>>>\033[0m\r"
+#echo "$pathls"
+while true ;do
+printf "$enter"
+
+#while read line ;do
+IFS=$newline
+read -s -n1 ascanf
+#read
+tf=$?
+IFS=$IFSbak
+#echo ascanf:$ascanf
+sleep 0.01
+if [[  "$ascanf"  ==  ' '  ]];then
+order=$((order+1))
+
+printf "    $enter"
+[[  "$order" -eq $((pathlsl+1))  ]]  && printf "\033[$((pathlsl))A$enter"
+[[  "$order" -eq $((pathlsl+1))  ]] && order=1
+printf "\033[1B\033[35m>>>>\033[0m$enter"
+
+elif [[  "$ascanf"  ==  ''  ]];then
+break
+fi
+
+#done <<EOF
+#$pathls
+#EOF
+
+done
+
+thepath=$(echo "$pathls" | sed -n "${order},${order}p" )
+
+down=$((pathlsl+1-$order))
+printf "\033[${down}B$enter"
+
+echo $strs
+cd $thepath && echo "open $thepath"
+
+#cd ./txt/webapi >& /dev/null
 if [[  "$?" -ne "0"  ]];then
 calenda=0
-read -t3 -p 未找到词表路径，请确定在该项目文件夹中运行
+read -t3 -p 未找到词表路径，请在该项目文件夹中运行
 echo
 return 1
 fi
-txtall=$(find ./20* | grep -a  ".txt" | sort -n -t \/ -k 2.2n -k 3  -k 3.4 -k 3.3)
+txtall=$(find . | grep -a  ".txt" | sort -n -t \/ -k 2.2n -k 3  -k 3.4 -k 3.3)
 bk="$txtall
 "
+[[  "$txtall" == ""  ]] && echo 找不到.txt文件 && return 1
 
 if [[  $COLUMN -gt  35  ]];then
 
@@ -117,7 +173,7 @@ do
 echo
 read -e -p  请输入目标，按回车键加载词表: the
 
-[[  $i  -eq  1  ]] && [[  "$the"  ==  ''  ]]  && echo 未选择...加载第一张 && the="./2020/9-11.txt" && read -t 2 
+[[  $i  -eq  1  ]] && [[  "$the"  ==  ''  ]]  && echo 未选择...加载第一张 && the="$(echo "$txtall" | tail -n1)" && read -t 2
 #[[  $i  -eq  1  ]] && [[  "$the"  ==  ''  ]] && break
 [[  "$the"  ==  ''  ]] && echo 加载中......  &&  break
 
@@ -295,17 +351,25 @@ echo
 if [[  "$record" == 1  ]] && [[  "$calenda" == 1  ]] ;then
     echo
 RWN=1
- [[ !  -d ./CORRECT  ]]  && echo 在当前目录创建CORRECT文件夹 && mkdir CORRECT CORRECT/2020 CORRECT/2021 CORRECT/2022
+cd ..
+if [[ !  -d ./CORRECT/${thepath}  ]] ;then
+mkdir CORRECT
+echo "在txt目录创建 /CORRECT/${thepath} 文件夹" && cp -r ${thepath%%/}  ./CORRECT/ && find ./CORRECT/$thepath | grep .txt | xargs rm -f
+#ls
+fi
+cd CORRECT
+cd $thepath
+ #[[   -d ./CORRECT  ]] &&
 
     while read atarget ;do
     #echo $atarget
-    [[ ! -e ./CORRECT/${atarget##"./"}  ]] &&  echo \\\\\\\\\\\\ > ./CORRECT/${atarget##"./"}
+    [[ ! -e ${atarget}  ]] &&  echo \\\\\\\\\\\\ > ${atarget}
     
-    chmod 777  "./CORRECT/${atarget##"./"}"
+    chmod 777  "${atarget}"
     
-    eval rw$RWN="./CORRECT/${atarget##"./"}"
+    eval rw$RWN="${atarget}"
     RWN=$((RWN+1))
-       [[  -e ./CORRECT/${atarget##"./"}  ]] &&  printf 指向错题集./txt/CORRECT/${atarget##"./"}\\n
+       [[  -e ${atarget}  ]] &&  printf 指向错题集./txt/CORRECT/$thepath${atarget##"./"}\\n
        
                        if [[  "$?" -ne 0  ]];then
     printf 找不到"$atarget"中的文件夹，请生成子文件夹或删除整个CORRECT\\n
@@ -320,7 +384,8 @@ struct
 fi
 
 if [[  "$record" == 1  ]] && [[  "$calenda" == 0  ]] ;then
-read -p 不在目录内，或txt/webapi目录不存在
+echo 找不到txt文件夹
+read
 RWN=1
     echo
  [[ !  -d ./CORRECT  ]]  && echo 在当前目录创建CORRECT/allinone.txt && mkdir CORRECT
@@ -1416,7 +1481,7 @@ printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English
 
 echo
 printf  "\033[0m\033[?25l"
-printf "I,提词器${spaces#               }II,完形填空${spaces#               }III,四选一"
+printf "I,提词器${spaces#              }II,完形填空${spaces#               }III,四选一"
 read  premode
 if [[  "${premode:-1}" -eq 2  ]];then
 _FUN
@@ -1673,7 +1738,7 @@ printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English
 
 echo
 printf  "\033[0m\033[?25l"
-printf "I,提词器${spaces#               }II,完形填空${spaces#               }III,四选一"
+printf "I,提词器${spaces#              }II,完形填空${spaces#                }III,四选一"
 read  premode
 if [[  "${premode:-1}" -eq 2  ]];then
 _FUN
