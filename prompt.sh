@@ -312,18 +312,13 @@ clear
 #trap 'printf "\033[?25h\033[0m"  '  EXIT
 #printf -n  "\033[?25h\c"
 #stty size>/dev/null
-printf "提词器源自https://github.com/ubun222/Prompter"
-echo
-read -t1
-
-printf "使用了\033[3mbash，ttyd，docker，...\033[0m等环境和工具制作"
-echo
-read -t1
-printf "\033[1m日积月累，千锤百炼\033[0m"
-echo
-read -t1
-echo
-#$enter
+printf "github地址"
+read
+printf "https://github.com/ubun222/Prompter\r"
+read
+printf "gitee地址\n"
+printf "https://gitee.com/cb222/prompter\r"
+read
 
 
 LINE=$(stty size|awk '{print $1}')
@@ -1481,7 +1476,7 @@ printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English
 
 echo
 printf  "\033[0m\033[?25l"
-printf "I,提词器${spaces#              }II,完形填空${spaces#                }III,四选一"
+printf "I,提词器${spaces#              }II,完形填空${spaces#               }III,四选一"
 read  premode
 if [[  "${premode:-1}" -eq 2  ]];then
 _FUN
