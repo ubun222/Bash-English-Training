@@ -87,7 +87,7 @@ calenda=1
 #calenda=1
 cd $Path
 cd ./txt
-[[  "$?" -ne 0  ]] && echo 未在脚本所在目录找到txt文件夹 && return 1
+[[  "$?" -ne 0  ]] && echo 未在脚本所在目录找到txt文件夹 && calenda=0 && return 1
 pathls="$(ls -F | grep '/$' )"
 pathlsl="$(echo "$pathls" | wc -l)"
 
@@ -144,7 +144,8 @@ cd $thepath && echo "open $thepath"
 #cd ./txt/webapi >& /dev/null
 if [[  "$?" -ne "0"  ]];then
 calenda=0
-read -t3 -p 未找到词表路径，请在该项目文件夹中运行
+echo 未找到词表路径，请在该项目文件夹中运行
+read -t3
 echo
 return 1
 fi
@@ -346,8 +347,18 @@ loadcontent()
 {
 #cd "$Path"
 #recordls
-echo
 
+    c="$(echo "$targets" | tr " " "\n")"
+    cnum="$(echo "$c" | wc -l)"
+    for i in $(seq $cnum);do
+    content="$(cat $(echo "$c" | sed -n "$i,${i}p" ) | grep -a  -A 99999 \\\\  )
+
+
+
+$content"
+
+    done
+echo
 if [[  "$record" == 1  ]] && [[  "$calenda" == 1  ]] ;then
     echo
 RWN=1
@@ -369,7 +380,7 @@ cd $thepath
     
     eval rw$RWN="${atarget}"
     RWN=$((RWN+1))
-       [[  -e ${atarget}  ]] &&  printf 指向错题集./txt/CORRECT/$thepath${atarget##"./"}\\n
+       [[  -e ${atarget}  ]] &&  printf 使用错题集./txt/CORRECT/$thepath${atarget##"./"}\\n
        
                        if [[  "$?" -ne 0  ]];then
     printf 找不到"$atarget"中的文件夹，请生成子文件夹或删除整个CORRECT\\n
@@ -397,7 +408,7 @@ while read atarget ;do
     chmod 777  ./CORRECT/allinone.txt
     eval rw$RWN=./CORRECT/allinone.txt
     RWN=$((RWN+1))
-          [[  -e ./CORRECT/allinone.txt  ]] && printf 指向错题集./txt/CORRECT/allinone.txt\\n
+          [[  -e ./CORRECT/allinone.txt  ]] && printf 使用错题集./CORRECT/allinone.txt\\n
 done <<EOF
 $(echo "$targets" | tr " " "\n" )
 EOF
@@ -408,17 +419,6 @@ struct
 
 fi
 
-
-    c="$(echo "$targets" | tr " " "\n")"
-    cnum="$(echo "$c" | wc -l)"
-    for i in $(seq $cnum);do
-    content="$(cat $(echo "$c" | sed -n "$i,${i}p" ) | grep -a  -A 99999 \\\\  )
-
-
-
-$content"
-
-    done
     #echo "$content"
 }
 
@@ -1481,7 +1481,7 @@ printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English
 
 echo
 printf  "\033[0m\033[?25l"
-printf "I,提词器${spaces#              }II,完形填空${spaces#               }III,四选一"
+printf "I,提词器${spaces#              }II,完形填空${spaces#                }III,四选一"
 read  premode
 if [[  "${premode:-1}" -eq 2  ]];then
 _FUN
@@ -1747,10 +1747,10 @@ elif [[  "${premode:-1}" -eq 3  ]];then
 FUN_
 return 0
 fi
-printf "I，英译中${spaces#               }II，中译英${spaces#               }III，混合"
+printf "I,英译中${spaces#              }II,中译英${spaces#              }III,混合"
 read -n 1 mode
 echo
-printf "I，顺序${spaces#             }II，倒序${spaces#             }III，乱序"
+printf "I,顺序${spaces#            }II,倒序${spaces#            }III,乱序"
 read -n 1 random
 echo 
 printf "需要多少题目:" 
