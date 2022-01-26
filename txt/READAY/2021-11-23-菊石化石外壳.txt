@@ -1,8 +1,0 @@
-               菊石化石外壳
-  今天，我们要看的是鹦鹉螺壳的化石。菊石是头足类动物，大约4亿年前首次出现在海洋中。这些海洋软体动物的化石遗迹在英国被称为“蛇石”，因为人们认为它们类似于盘绕的蛇。大约6600万年前，它们和恐龙一起灭绝了。它们的化石在世界各地都有发现——科学家们已经鉴定了一万多种菊石种类。
-               Fibonacci Day
-  It's a bit of a fib that Fibonacci, the 13th-century Italian math whiz, was the first to sketch out a number sequence in which each number is the sum of the two preceding numbers: 0, 1, 1, 2, 3, 5, 8, 13, and so on forever. In fact, scholars in India described the sequence centuries before Fibonacci, and they probably weren't the first to figure it out either. But in any case, each November 23—that is, 11/23—we celebrate the infinite series known as the Fibonacci sequence.
-  So what does this have to do with our image of a fossilized shell? Try to picture the Fibonacci sequence on a graph. If you properly arrange squares of the areas 1x1, 1x1, 2x2, 3x3, 5x5, 8x8, etc., on graphing paper, a curved line drawn through each square will form a perfect expanding spiral not unlike the ammonite fossil cross-sectioned here. Not every spiral in nature expresses a perfect Fibonacci sequence, but nature does seem to have a thing for spirals. And in that sense the Fibonacci sequence seems especially elegant.
-                斐波那契日
-13 世纪的意大利数学天才斐波那契（Fibonacci）是第一个勾勒出数字序列的人，其中每个数字都是前面两个数字的总和：0、1、1、2、3、5，这有点虚伪, 8, 13, 以此类推。事实上，印度的学者在斐波那契数世纪之前就描述了这个序列，他们可能也不是第一个弄清楚的。但无论如何，每年 11 月 23 日——即 11 月 23 日——我们都会庆祝被称为斐波那契数列的无穷级数。
-  那么这与我们想象中的贝壳化石有什么关系呢？尝试在图表上描绘斐波那契数列。如果您将 1x1、1x1、2x2、3x3、5x5、8x8 等区域的正方形正确排列，在绘图纸上，通过每个正方形绘制的曲线将形成一个完美的扩展螺旋，与这里横截面的菊石化石不同。并非自然界中的每一个螺旋都表达出完美的斐波那契数列，但自然界似乎确实对螺旋有所了解。从这个意义上说，斐波那契数列似乎特别优雅。
