@@ -1,7 +1,7 @@
 ##!/usr/local/bin/bash
 #read -r -d '\' txt1 < $1  && read -r -d '\' txt2 < $2 && read -r -d '\' txt3 < $3
 #txt=$( echo $txt1 && echo $txt2 && echo $txt3)i 
-p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=${use:-2};wlist=1;a0=1;lastn=1;tno=0;ca0=0;bigi=0;RC=0;NB='';record=0
+p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=${use:-2};wlist=1;a0=1;lastn=1;tno=0;ca0=0;bigi=0;RC=0;record=0
 #dirname $0
 Path="$(dirname $0)"
 tline=$(printf "\033[1A\033[32m●\033[0m\n")
@@ -90,7 +90,7 @@ cd ./txt
 [[  "$?" -ne 0  ]] && echo 未在脚本所在目录找到txt文件夹 && calenda=0 && return 1
 pathls="$(ls -F | grep '/$' )"
 pathlsl="$(echo "$pathls" | wc -l)"
-
+printf "\33[?25l"
 printf "按空格选择txt文件夹\n"
 while read inline ;do
 echo  "    $inline"
@@ -165,6 +165,7 @@ done <<EOF
 $pt
 EOF
 
+printf "\33[?25h"
 
 for i in $(seq 100)
 do
@@ -172,7 +173,7 @@ do
 #[[  $i  -eq  1  ]]  
 [[  $use  -eq  1  ]] &&  mpreload
 echo
-read -e -p  请输入目标，按回车键加载词表: the
+read  -p  请输入目标，按回车键加载词表: the
 
 [[  $i  -eq  1  ]] && [[  "$the"  ==  ''  ]]  && echo 未选择...加载第一张 && the="$(echo "$txtall" | tail -n1)" && read -t 2
 #[[  $i  -eq  1  ]] && [[  "$the"  ==  ''  ]] && break
@@ -1278,7 +1279,7 @@ iq=$((${#question}/2));
 cq=$((COLUMN/2))
 left=$((cq+iq))
 
-printf %${left}s "$question"
+printf "\033[1m%${left}s\033[0m" "$question"
 echo
 
 while true;do
@@ -1303,15 +1304,15 @@ am3="$(echo "$txt" | sed -n "${m3},${m3}p" | awk 'BEGIN{FS="\t"}{print $NF}' | t
 #echo "$txt"
 
 insert=$((RANDOM%4+1))
-[[  "$insert" -eq 1  ]] && printf =="$answer\t\t\t\t\t\t\t\t\t\t"\\n
-printf =="$am1\t\t\t\t\t\t\t\t\t\t"\\n
-[[  "$insert" -eq 2  ]] && printf =="$answer\t\t\t\t\t\t\t\t\t\t"\\n
-printf =="$am2\t\t\t\t\t\t\t\t\t\t"\\n
-[[  "$insert" -eq 3  ]] && printf =="$answer\t\t\t\t\t\t\t\t\t\t"\\n
-printf =="$am3\t\t\t\t\t\t\t\t\t\t"\\n
-[[  "$insert" -eq 4  ]] && printf =="$answer\t\t\t\t\t\t\t\t\t\t"\\n
+[[  "$insert" -eq 1  ]] && printf "  $answer\t\t\t\t\t\t\t\t\t\t"\\n
+printf "  $am1\t\t\t\t\t\t\t\t\t\t"\\n
+[[  "$insert" -eq 2  ]] && printf "  $answer\t\t\t\t\t\t\t\t\t\t"\\n
+printf "  $am2\t\t\t\t\t\t\t\t\t\t"\\n
+[[  "$insert" -eq 3  ]] && printf "  $answer\t\t\t\t\t\t\t\t\t\t"\\n
+printf "  $am3\t\t\t\t\t\t\t\t\t\t"\\n
+[[  "$insert" -eq 4  ]] && printf "  $answer\t\t\t\t\t\t\t\t\t\t"\\n
 printf 按空格选择$enter
-printf "\033[4A\033[34m->\033[0m$enter"
+printf "\033[4A\033[1m\033[36m->\033[0m$enter"
 
 order=1
 while true ;do
@@ -1320,15 +1321,15 @@ read -s -n1   ascanf
 tf=$?
 IFS=$IFSbak
 #echo ascanf:$ascanf
-sleep 0.01
+sleep 0.009
 
 if [[  "$ascanf"  ==  ' '  ]];then
 order=$((order+1))
 
-printf ==$enter
+printf "  $enter"
 [[  "$order" -eq 5  ]]  && printf "\033[4A$enter"
 [[  "$order" -eq 5  ]] && order=1
-printf "\033[1B\033[34m->\033[0m$enter"
+printf "\033[1B\033[1m\033[36m->\033[0m$enter"
 
 elif [[  "$ascanf"  ==  ""  ]];then
 break
@@ -1339,24 +1340,28 @@ fi
 done
 
 if [[  "$order" -eq "$insert"  ]];then
-printf "\033[32m==$answer    $answer1\033[0m"
+printf "\033[32m->$answer    $answer1"
 down=$((5-$order))
-printf "\033[${down}B$enter"
-
-#printf "\033[32m$order:$answer    $answer1\033[0m\n"
-#printf "\033[32m$answer\033[0m\n"
-
-#read yourchoice
-
+printf "\033[${down}B$enter\033[0m"
+printf "按回车继续\033[1m"
+printf "\033[1A"
 else
-printf "\033[31m==\033[0m\r"
+printf "\033[31m—>\033[0m\r"
 #printf "\033[31m$order\033[0m\r"
 down=$((5-$order))
-printf "\033[${down}B$enter"
-printf "\r\033[31m$answer    $answer1\033[0m\n"
+printf "\033[${down}B$enter\033[0m"
+printf "按回车继续\033[1m"
+read
+printf "\033[1A"
+printf "\r$answer    $answer1"
 
 fi
-#echo $strs
+#printf "\033[1A"
+read
+verbs="$(printf "$content" | grep "^$answer1 [^A-z]" )"
+
+printf "\033[1m%s\n\033[0m" "$verbs"
+
 
 elif [[  "$fbool" -eq 2  ]] ;then
 
@@ -1367,7 +1372,7 @@ iq=$((${#question}*2))
 cq=$((COLUMN/2))
 left=$((cq+iq))
 
-printf %${left}s "$question"
+printf "\033[1m%${left}s\033[0m" $question
 echo
 
 while true;do
@@ -1392,15 +1397,15 @@ am3="$(echo "$txt" | sed -n "${m3},${m3}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr
 #echo "$txt"
 
 insert=$((RANDOM%4+1))
-[[  "$insert" -eq 1  ]] && printf =="$answer\t\t\t\t\t\t\t\t\t\t"\\n
-printf =="$am1\t\t\t\t\t\t\t\t\t\t"\\n
-[[  "$insert" -eq 2  ]] && printf =="$answer\t\t\t\t\t\t\t\t\t\t"\\n
-printf =="$am2\t\t\t\t\t\t\t\t\t\t"\\n
-[[  "$insert" -eq 3  ]] && printf =="$answer\t\t\t\t\t\t\t\t\t\t"\\n
-printf =="$am3\t\t\t\t\t\t\t\t\t\t"\\n
-[[  "$insert" -eq 4  ]] && printf =="$answer\t\t\t\t\t\t\t\t\t\t"\\n
+[[  "$insert" -eq 1  ]] && printf "  $answer\t\t\t\t\t\t\t\t\t\t"\\n
+printf "  $am1\t\t\t\t\t\t\t\t\t\t"\\n
+[[  "$insert" -eq 2  ]] && printf "  $answer\t\t\t\t\t\t\t\t\t\t"\\n
+printf "  $am2\t\t\t\t\t\t\t\t\t\t"\\n
+[[  "$insert" -eq 3  ]] && printf "  $answer\t\t\t\t\t\t\t\t\t\t"\\n
+printf "  $am3\t\t\t\t\t\t\t\t\t\t"\\n
+[[  "$insert" -eq 4  ]] && printf "  $answer\t\t\t\t\t\t\t\t\t\t"\\n
 printf 按空格选择$enter
-printf "\033[4A\033[34m->\033[0m$enter"
+printf "\033[4A\033[34m\033[1m->\033[0m$enter"
 
 order=1
 while true ;do
@@ -1409,15 +1414,15 @@ read -s -n1   ascanf
 tf=$?
 IFS=$IFSbak
 #echo ascanf:$ascanf
-sleep 0.012
+sleep 0.009
 
 if [[  "$ascanf"  ==  ' '  ]];then
 order=$((order+1))
 
-printf ==$enter
+printf "  $enter"
 [[  "$order" -eq 5  ]]  && printf "\033[4A$enter"
 [[  "$order" -eq 5  ]] && order=1
-printf "\033[1B\033[34m->\033[0m$enter"
+printf "\033[1B\033[34m\033[1m->\033[0m$enter"
 
 
 elif [[  "$ascanf"  ==  ""  ]];then
@@ -1430,23 +1435,25 @@ done
 
 
 if [[  "$order" -eq "$insert"  ]];then
-printf "\033[32m==$answer    $answer2\033[0m"
+printf "\033[32m—>$answer    $answer2"
 down=$((5-$order))
-printf "\033[${down}B$enter"
-
-#printf "\033[32m$order:$answer2    $answer\033[0m\n"
-#printf "\033[32m$answer\033[0m\n"
-
-#read yourchoice
-
+printf "\033[${down}B$enter\033[0m"
+printf "按回车继续"
+printf "\033[1A"
 else
-printf "\033[31m==\033[0m\r"
+printf "\033[31m—>\033[0m\r"
 #printf "\033[31m$order\033[0m\r"
 down=$((5-$order))
-printf "\033[${down}B$enter"
-printf "\r\033[31m$answer    $answer2\033[0m\n"
-
+printf "\033[${down}B$enter\033[0m"
+printf "按回车继续"
+read
+printf "\033[1A"
+printf "\r\033[1m$answer    $answer2"
+#printf "\033[1A"
 fi
+read
+verbs="$(printf "$content" | grep "^$answer1 [^A-z]" )"
+printf "\033[1m%s\n\033[0m" "$verbs"
 
 fi
 echo $strs
@@ -1457,7 +1464,7 @@ FUN()
 {
 
    clear
-printf "\033[s"
+#printf "\033[s"
 
 printf "\033[1B$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
 
@@ -1476,7 +1483,7 @@ printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English
 
 echo
 printf  "\033[0m\033[?25l"
-printf "I,提词器${spaces#              }II,完形填空${spaces#               }III,四选一"
+printf "I,提词器${spaces#              }II,完形填空${spaces#                }III,四选一"
 read  premode
 if [[  "${premode:-1}" -eq 2  ]];then
 _FUN
