@@ -4,22 +4,22 @@
 1. 支持bash(termux ish Linux)和ash(ish)，不支持zsh，fish，dash等等等等，但支持macOS的默认终端和越狱后的iPhone终端
 
 
-![BET-ish.gif](https://github.com/ubun222/Bash_EN_ZH_Training/raw/bash/img/BET-ish.gif) ![BET-termux.gif](https://github.com/ubun222/Bash_EN_ZH_Training/raw/bash/img/BET-termux.gif)
+![BET-ish.gif](https://github.com/ubun222/Learning-English/raw/bash/img/BET-ish.gif) ![BET-termux.gif](https://github.com/ubun222/Learning-English/raw/bash/img/BET-termux.gif)
 #### 开始
 1. IOS下载ish，安卓下载Termux，两者都是很好用的手机终端app。
 2. ish(bash就用main分支的，自带的ash用ash的分支)
 ```
 apk add bash
 apk add git
-git clone git@github.com:ubun222/Bash_EN_ZH_Training.git
-chmod +x ./Bash_EN_ZH_Training/*.sh
+git clone git@github.com:ubun222/Learning-English.git
+chmod +x ./Learning-English/*.sh
 bash main.sh
 ```
 3. Termux(自带的就是bash，所以用main分支的)
 ```
 apt-get install git
-git clone git@github.com:ubun222/Bash_EN_ZH_Training.git
-chmod +x ./Bash_EN_ZH_Training/*.sh
+git clone git@github.com:ubun222/Learning-English.git
+chmod +x ./Learning-English/*.sh
 bash main.sh
 ```
 4. 若安装git或bash失败，请先update和upgrade包管理命令。
