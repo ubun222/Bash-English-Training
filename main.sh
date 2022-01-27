@@ -304,24 +304,6 @@ fi
 stdin()
 {
 
-read -n1 -p 按任意键继续
-clear
-#read -p 按下回车以继续$enter
-#echo
-#read  -t 1.5 -p 双击屏幕以缩小
-#echo
-#trap 'printf "\033[?25h\033[0m"  '  EXIT
-#printf -n  "\033[?25h\c"
-#stty size>/dev/null
-printf "github地址"
-read
-printf "https://github.com/ubun222/Prompter\r"
-read
-printf "gitee地址\n"
-printf "https://gitee.com/cb222/prompter\r"
-read
-
-
 LINE=$(stty size|awk '{print $1}')
 COLUMN=$(stty size|awk '{print $2}')
 [[  "$COLUMN" -le 34  ]] && COLUMN=34
@@ -337,6 +319,47 @@ for STR in $(seq $((COLUMN)));do
 strs="$strs-"
 done
 COL=$((COLUMN+14))
+
+eval ' hello=`cat`' <<"blocks"
+ ______          __         _______   ____  ____ 
+|_   _ \        /  \       /  ___  | |_   ||   _|
+  | |_) |      / /\ \     |  (__ \_|   | |__| |  
+  |  __'.     / ____ \     '.__ _`-.   |  __  |  
+ _| |__) |  _/ /    \ \_  |`\____) |  _| |  | |_ 
+|_______/  |____|  |____| |_______.' |____||____|
+blocks
+
+
+eval ' hi=`cat`' <<"blocks"
+       _______   ____  ____ 
+      /  ___  | |_   ||   _|
+     |  (__ \_|   | |__| |  
+      '.__ _`-.   |  __  |  
+     |`\____) |  _| |  | |_ 
+(_)  |_______.' |____||____|
+blocks
+printf "Dear $(whoami), 愿意和我一起背会儿单词吗?\r\n"
+printf "若要继续请按一下键盘上的回车键。\r"
+read
+clear
+printf "本项目由shell脚本语言编写:\n"
+[[  $COLUMN -ge 49  ]] && printf  "$hello"
+[[  $COLUMN -le 48  ]] && printf  "$hi"
+echo
+printf "您随时可以来以下地址找我:"
+echo
+#read -p 按下回车以继续$enter
+printf "github:"
+#read
+printf "https://github.com/ubun222/Learning-English\r\n"
+#read
+printf "gitee:"
+printf "https://gitee.com/cb222/Learning-English.git\r\n"
+
+printf "回车以继续"
+read
+
+
 }
 
 loadcontent()
