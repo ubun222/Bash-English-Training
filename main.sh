@@ -338,16 +338,15 @@ eval ' hi=`cat`' <<"blocks"
      |`\____) |  _| |  | |_ 
 (_)  |_______.' |____||____|
 blocks
-printf "Dear $(whoami), 愿意和我一起背会儿单词吗?\r\n"
-printf "若要继续请按一下键盘上的回车键。\r"
+printf "$(whoami), 背会儿单词吗?\r\n"
+printf " 回车以继续\r"
 read
 clear
-printf "本项目由shell脚本语言编写:\n"
+printf "喝水不忘挖井人\n"
 [[  $COLUMN -ge 49  ]] && printf  "$hello"
 [[  $COLUMN -le 48  ]] && printf  "$hi"
 echo
-printf "您随时可以来以下地址找我:"
-echo
+printf ""
 #read -p 按下回车以继续$enter
 printf "github:"
 #read
