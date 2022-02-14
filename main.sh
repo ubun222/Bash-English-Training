@@ -206,6 +206,7 @@ fi
 done
 
 txtall="$(echo "$txtall" | tr " " "\n" )"
+targets=$txtall
 #echo "$txtall"
 while read line ;do
 #echo $line
@@ -215,12 +216,14 @@ if [[  $catable -eq 0  ]];then
 txt="$txt
 $(cat "${line}" |  grep -a  -B9999 \\\\  | tr ' ' '/'  | tr -d '\\' )"
        # txt=${txt%% }
-targets=${line}' '$targets
+#targets=${line}' '$targets
        # txt=${txt%%@}
        
-n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
+#n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
+n=$(echo "${txt}" | wc -l)
 tno=$((tno+1))
-eval ca$tno=$n
+#n=$((n-1))
+eval ca$tno=$((n*2))
 
 #eval echo \$ca$t
        
@@ -231,13 +234,12 @@ $txtall
 EOF
 txt=$(echo "$txt" |  sed "1,1d"  )
 #echo "$txt"
-targets="$txtall"
+
 
 n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 read -t 1 -p 准备加载$((n/2))组单词
 return 0
 else
-
 echo "$txtall"
 
 
@@ -248,7 +250,7 @@ do
 #[[  $i  -eq  1  ]]  
 [[  $use  -eq  1  ]] &&  mpreload
 read -e -p  请输入目标，按回车键结束: the
-[[  $i  -eq  1  ]] && [[  "$the"  ==  ''  ]]  && echo 未选择...加载第一张 && the="./2020/9-11.txt" && read -t 2 
+[[  $i  -eq  1  ]] && [[  "$the"  ==  ''  ]]  && echo 未选择...加载第一张 && the="$(echo "$txtall" | tail -n1)" && read -t 2 
 #[[  $i  -eq  1  ]] && [[  "$the"  ==  ''  ]] && break
 [[  "$the"  ==  ''  ]]  && echo 加载中......  &&  break
 
@@ -267,6 +269,7 @@ fi
 done
 
 txtall="$(echo "$txtall" | tr " " "\n" )"
+targets="$txtall"
 #echo "$txtall"
 while read line ;do
 #echo $line
@@ -278,10 +281,11 @@ $(cat "${line}" |  grep -a  -B9999 \\\\  | tr ' ' '/'  | tr -d '\\' )"
        # txt=${txt%% }
 targets=${line}' '$targets
        # txt=${txt%%@}
-       
-n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
+n=$(echo "${txt}" | wc -l)       
+#n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 tno=$((tno+1))
-eval ca$tno=$n
+#n=$((n-1))
+eval ca$tno=$((n*2))
 
 #eval echo \$ca$t
        
@@ -369,7 +373,7 @@ loadcontent()
     c="$(echo "$targets" | tr " " "\n")"
     cnum="$(echo "$c" | wc -l)"
     for i in $(seq $cnum);do
-    content="$(cat $(echo "$c" | sed -n "$i,${i}p" ) | grep -a  -A 99999 \\\\  )
+    content="$(cat $(echo "$c" | sed -n "$i,${i}p" ) | grep -A 99999 \\\\  )
 
 
 
@@ -546,6 +550,8 @@ therw=
 colourp()
 {
 #bool=s
+Dtop=0
+Dend=0
 RC=0
 if ifright ;then
 printf  "%${COL}s" ${tline}
@@ -587,25 +593,33 @@ if [[  "$RC" -eq 1  ]]  && [[  "$record" -eq 1   ]];then
 
 row=$(eval "$allif")
 eval therw=\${rw$row}
-locate="$(cat "${therw}" | grep ^"${answer1}	" )"
+#printf $answer1
+#cd $Path
+#cd txt
+#cd $thepath
+locate="$(cat "${therw}" | grep  -e ^"${answer1}	")"
 if [[  "$locate" ==  ""  ]]  ;then
 
 
 #None=$(cat /dev/null)
 
-Ylineraw="$(echo  "$content" | grep -a   -B 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]'| grep -a  -v "${answer1} |" )"
-Vlineraw1="$(echo  "$content" | grep -a  "${answer1}" )"
-Vlineraw="$(echo "$Vlineraw1" | grep -a  -v '|')"
-Vpreline="$(echo "$Vlineraw1" | grep -a  '|')"
+Ylineraw="$(echo  "$content" | grep -B 30 ^"${answer1} [^A-z]" | head -n31 | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  '[\	]' | grep -v ^"[ ]" )"
+Vlineraw="$(echo  "$content" | grep "${answer1}[. ][A-z]" )"
+#Vlineraw="$(echo "$Vlineraw1" | grep   -v '|')"
+#Vpreline="$(echo "$content" | grep  "${answer1} |")"
 
 #aq1="$(echo "$pureanswer" | awk -F" " '{printf $1}'  | tr '/' " " )"
 #aq2="$(echo "$pureanswer" | awk -F" " '{printf $NF}' | tr '/' " "  )"
 
 #NB="$(printf "\00")"
 aq="$answer1\t\t\t\t\t$answer2"
+#cd $Path
+#cd txt
+#cd CORRECT
+#cd $thepath
 echo "$therw"| xargs sed -i"" "s/\\\\\\\\\\\\/$aq\\n\\\\\\\\\\\\/" -i "" "s/\\\\\\\\\\\\/$aq\\n\\\\\\\\\\\\/"
 #echo "$RW" >$therw
-printf "\n$Ylineraw\n$Vpreline\n$Vlineraw\n\n" >> $therw
+printf "\n$Ylineraw\n$Vlineraw\n\n" >> $therw
 echo "错题+1"
 #echo $?
 fi
@@ -613,24 +627,27 @@ elif [[  "$RC" -eq 0  ]]  && [[  "$record" -eq 1   ]] ;then
 
 row=$(eval "$allif")
 eval therw=\${rw$row}
-locate="$(cat "${therw}" | grep ^"${answer1}	" )"
-
+locate="$(cat "${therw}" | grep -e  ^"${answer1}	" )"
+#echo "$locate"
 if [[  "$locate" !=  ""  ]];then
-locate="$(cat "${therw}" | grep -n ^"${answer1} |" | awk -F: '{print $1}')"
-
-Dlinerawn="$(cat "$therw" | grep -a   -B 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]'| grep -a  -v "${answer1} |" | wc -l )"
-Dtop=$((locate-Dlinerawn))
-Dlinerawn="$(cat "$therw" | grep -a   -A 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $1}' | grep -a  -v "${answer1} |" | wc -l )"
-Dend=$((locate+Dlinerawn))
-
-locate="$(cat "${therw}" | grep -n ^"${answer1}" | head -n1 | awk -F: '{print $1}')"
-
+locate="$(cat "${therw}" | grep -n ^"${answer1} |" | head -n1 | awk -F: '{print $1}')"
+#echo $locate
+Dlinerawn="$(cat "$therw"  | grep  -B 40 ^"${answer1} |" |   awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  '[	\]'|  wc -l )"
+Dtop=$((locate-Dlinerawn+1))
+Dlinerawn="$(cat "$therw"  | grep  -A 40 ^"${answer1} |" |  awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $1}' | grep -v '[	\]' | wc -l )"
+Dend=$((locate+Dlinerawn-1))
+#echo $Dtop
+#echo $Dend
+locate="$(cat "${therw}" | grep -n ^"${answer1}	" | head -n1 | awk -F: '{print $1}')"
+#echo $locate
 #sed -i"$Backs" "${locate}d" $therw
-echo "$therw" | xargs sed -i"" "$Dtop,${Dend}d" || echo "$therw" | xargs sed -i "" "$Dtop,${Dend}d" && echo "$therw" | xargs sed -i"" "${locate}d" || echo "$therw" | xargs sed -i "" "${locate}d"
+echo "$therw" | xargs sed -i"" "$Dtop,${Dend}d" && echo "$therw" | xargs sed -i"" "${locate}d" && echo "错题-1" || echo "$therw" | xargs sed -i "" "$Dtop,${Dend}d"  && echo "$therw" | xargs sed -i "" "${locate}d" && echo "错题-1"
 #echo 22222
 
-[[  "$?" -eq 0  ]]  && echo "错题-1"
-
+if  [[  "$Dtop"  ==  "1"   ]] ;then
+	echo "$therw" | xargs sed -i "" "${locate}d" && echo "错题-1*"
+	[[  "$?" -ne 0  ]] &&   echo "$therw" | xargs sed -i"" "${locate}d" && echo "错题-1*"
+fi
 fi
 fi
 
@@ -1380,7 +1397,7 @@ printf "\r$answer    $answer1"
 fi
 #printf "\033[1A"
 read
-verbs="$(printf "$content" | grep "^$answer1 [^A-z]" )"
+verbs="$(printf %s "$content" | grep "^$answer1 [^A-z]" )"
 
 printf "\033[1m%s\n\033[0m" "$verbs"
 
@@ -1474,7 +1491,7 @@ printf "\r\033[1m$answer    $answer2"
 #printf "\033[1A"
 fi
 read
-verbs="$(printf "$content" | grep "^$answer1 [^A-z]" )"
+verbs="$(printf %s "$content" | grep "^$answer1 [^A-z]" )"
 printf "\033[1m%s\n\033[0m" "$verbs"
 
 fi
