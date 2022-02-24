@@ -123,7 +123,7 @@ printf "    $enter"
 [[  "$order" -eq $((pathlsl+1))  ]] && order=1
 printf "\033[1B\033[35m>>>>\033[0m$enter"
 
-elif [[  "$ascanf"  ==  ''  ]];then
+elif [[  "$ascanf"  ==  ''  ]] || [[  "$ascanf"  ==  "$CR"  ]] ;then
 break
 fi
 
@@ -212,32 +212,50 @@ while read line ;do
 #echo $line
 (cat ${line} ) >&/dev/null
 catable=$?
+
 if [[  $catable -eq 0  ]];then
-txt="$txt
-$(cat "${line}" |  grep -a  -B9999 \\\\  | tr ' ' '/'  | tr -d '\\' )"
+etxt=
+eetxt=
+exec 3<"$line"
+read -r -d "\\"  -u 3 aetxt
+while read line ;do
+read eetxt <<EOF
+`echo "$line"  | tr " " "/"`
+EOF
+[[  "$etxt" != ""  ]]  &&  etxt="$etxt
+$eetxt"
+[[  "$etxt" == ""  ]]  &&  etxt="$eetxt"
+done <<EOF
+$aetxt
+EOF
+[[  "$txt" != ""  ]]  &&  txt="$txt
+$etxt"
+[[  "$txt" == ""  ]]  &&  txt="$etxt"
+#$(cat "${line}" |  grep -a  -B9999 \\\\  | tr ' ' '/'  | tr -d '\\' )"
        # txt=${txt%% }
 #targets=${line}' '$targets
        # txt=${txt%%@}
        
 #n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 n=$(echo "${txt}" | wc -l)
+#echo $n
 tno=$((tno+1))
-#n=$((n-1))
 eval ca$tno=$((n*2))
 
 #eval echo \$ca$t
        
-       
+#n=$((n*2)) 
 fi
 done <<EOF
 $txtall
 EOF
-txt=$(echo "$txt" |  sed "1,1d"  )
-#echo "$txt"
 
 
-n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
+
+#n=$(echo "${txt}" | wc -l)
+n=$((n*2))
 read -t 1 -p 准备加载$((n/2))组单词
+#echo "$txt"
 return 0
 else
 echo "$txtall"
@@ -276,12 +294,23 @@ while read line ;do
 (cat ${line} ) >&/dev/null
 catable=$?
 if [[  $catable -eq 0  ]];then
-txt="$txt
-$(cat "${line}" |  grep -a  -B9999 \\\\  | tr ' ' '/'  | tr -d '\\' )"
-       # txt=${txt%% }
 targets=${line}' '$targets
-       # txt=${txt%%@}
-n=$(echo "${txt}" | wc -l)       
+exec 3<"$line"
+read -r -d "\\"  -u 3 aetxt
+while read line ;do
+read eetxt <<EOF
+`echo "$line"  | tr " " "/"`
+EOF
+[[  "$etxt" != ""  ]]  &&  etxt="$etxt
+$eetxt"
+[[  "$etxt" == ""  ]]  &&  etxt="$eetxt"
+done <<EOF
+$aetxt
+EOF
+[[  "$txt" != ""  ]]  &&  txt="$txt
+$etxt"
+[[  "$txt" == ""  ]]  &&  txt="$etxt"
+n=$(echo "${txt}" | wc -l)      
 #n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 tno=$((tno+1))
 #n=$((n-1))
@@ -294,15 +323,18 @@ fi
 done <<EOF
 $txtall
 EOF
-txt=$(echo "$txt" |  sed "1,1d" )
+#echo "$txt"
+#txt=$(echo "$txt" |  sed "1,1d" )
 targets="$txtall"
-
-n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
-
+n=$((n*2))
+#n=$(echo ${txt} |wc -l )
+#en=n
+#n=$((n*2))
 read -t 1 -p 准备加载$((n/2))组单词
 return 0
 fi
 #echo $targets
+#echo $n
 }
 
 stdin()
@@ -1009,7 +1041,7 @@ return 1
 
 _verify()
 {
-
+#n=$((n*2))
 #echo "$txt"
 #read -n1 -p 输入Y或者y验证词表 verify
 #echo
@@ -1143,14 +1175,14 @@ targets=${targets:-/dev/null}
     preline=$(echo  "$content" | grep -a   -B 1 "^${answer1} |" )
     #echo $preline
 
-    [[  "$preline" ==  ''  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] &&  echo '该单词还未收录哦，赶紧去补全吧！'&& echo @第"$i"题 && return 0
+    [[  "$preline" ==  ''  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] &&  echo '该单词还未收录哦，赶紧去补全吧！'&& echo @第"$gi"题 && return 0
  #   linenum=$(echo  "$content"|  grep -a   -v  $'\t'   |  grep -a   -B 30 "^${answer1} |"  | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]' | grep -a  -v "^${answer1} |" | wc -l)
     lineraw=$(echo  "$content" | grep -a    -B 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]'| grep -a  -v "${answer1} |" )
 
     linenum="$(echo "$lineraw" | grep -a  '[^ \]' |  grep -a  -v "${answer1} |" | wc -l)"
     #echo $linenum
     if [[  "${linenum:-0}" -eq 0  ]];then
-    echo '该单词还未收录哦，赶紧去补全吧！' && echo @第"$i"题 && return 0
+    echo '该单词还未收录哦，赶紧去补全吧！' && echo @第"$gi"题 && return 0
     #[[  "${linenum:-0}" -eq 0  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -a  "${answer1} |"  > /dev/tty) >&/dev/null && echo @第"$i"题 && return 0
     #echo $preline
 
@@ -1175,7 +1207,7 @@ lineraw=$(printf  "$lineraw\n$lineraw\n"  | tail -n$((linenum*2-therandom)) | he
     linenum=$((linenum-1))
     done
     fi
-    echo @第"$i"题
+    echo @第"$gi"题
 
 	#statements
 #    done
@@ -1194,11 +1226,13 @@ lineraw="$(echo "$lineraw1" | grep -a  -v '|' | sed "s/$answer1/\\\033[1m\\\033[
 
 
 linenum=$(echo "$lineraw" | wc -l)
+linenum1=$(echo "$lineraw1" | wc -l)
 for li in $(seq 3)
 
 do
 
-if [[  $linenum -eq 0  ]] || [[  $lineraw == ""  ]];then
+if [[  "$linenum1" -eq 0  ]] || [[  "$lineraw" == ""  ]];then
+
 	break
 fi
 
@@ -1218,7 +1252,8 @@ if  [[  $li -ge 3  ]] ;then
  break
  fi
 done
-echo @还有"$(($ii-$i))"题
+
+echo @还有"$(($ii-$gi))"题
 }
 
 
@@ -1227,7 +1262,7 @@ _FUN()
  #printf "\nI，有中文释义${spaces#               }${spaces#            }II，无中文释义"
  #read -n1 mode
  echo  "$strs"
- for i in `seq 99`;do
+ for gi in `seq 99`;do
  bot=
  ss=0
  m=$((n/2))
@@ -1287,6 +1322,7 @@ done
 
 FUN_()
 {
+  #  echo $n
 #read background <<EOF
 #EOF
 echo  "$strs"
@@ -1296,7 +1332,7 @@ echo  "$strs"
  total=$((n/2))
 
 #echo "$txt"
- for i in `seq 99`;do
+ for gi in `seq 99`;do
   m=$total
  bot=
  #ss=0
@@ -1370,7 +1406,7 @@ printf "  $enter"
 [[  "$order" -eq 5  ]] && order=1
 printf "\033[1B\033[1m\033[36m->\033[0m$enter"
 
-elif [[  "$ascanf"  ==  ""  ]];then
+elif [[  "$ascanf"  ==  ""  ]] || [[  "$ascanf"  ==  "$CR"  ]] ;then
 break
 elif [[  "$ascanf"  ==  "$D"  ]];then
 FIND
@@ -1464,7 +1500,7 @@ printf "  $enter"
 printf "\033[1B\033[34m\033[1m->\033[0m$enter"
 
 
-elif [[  "$ascanf"  ==  ""  ]];then
+elif [[  "$ascanf"  ==  ""  ]]  || [[  "$ascanf"  ==  "$CR"  ]];then
 break
 elif [[  "$ascanf"  ==  "$D"  ]];then
 FIND
@@ -1531,14 +1567,17 @@ elif [[  "${premode:-1}" -eq 3  ]];then
 FUN_
 return 0
 fi
-#printf "I，英译中${spaces#               }II，中译英${spaces#               }III，混合"
-#read -n 1 mode
-#echo
-#printf "I，顺序${spaces#             }II，倒序${spaces#             }III，乱序"
-#read -n 1 random
-mode=3
-random=3
-#echo 
+
+longtxt=$(echo "$txt"  | tr -s "	"  "\n")
+
+printf "I，英译中${spaces#               }II，中译英${spaces#               }III，混合"
+read -n 1 mode
+echo
+printf "I，顺序${spaces#             }II，倒序${spaces#             }III，乱序"
+read -n 1 random
+###mode=3
+###random=3
+echo 
 #printf "需要多少题目:" 
 #read ii
 ii=99
@@ -1550,7 +1589,7 @@ r1=${raw:-number0};r2=${raw:-((n+1))}
 if [[ $mode = 3 ]] ;then
 
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
-for i in $(seq 1 $ii)
+for gi in $(seq 1 $ii)
 do
 #m=$[n-1]
 #m=$(($RANDOM%$m+1))
@@ -1574,13 +1613,12 @@ m=$((n))
 m=$(($RANDOM%$m+1))
 fi
 
-
-question=$(echo $txt  | awk 'BEGIN{RS=" "}{print $0}'| sed -n "$m,${m}p" | tr '/' ' ')
+question=$(echo "$longtxt" | sed -n "$m,${m}p" | tr '/' ' ')
 echo  "${strs}"
 #echo -n "$question"         #printf 命令需要套一个双引号才能输出空格
 
 No=$(($((m/2))+$((m%2))))
-pureanswer=$(echo $txt |tr ' ' '\n' | sed 'N;s/\n/ /' | sed -n "$No,${No}p" )
+pureanswer=$(echo "$longtxt"| sed 'N;s/\n/ /' | sed -n "$No,${No}p" )
 #read -p  '————请输入答案:'  scanf  < cat
 #read a < /dev/stdin <<eof
 answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
@@ -1657,10 +1695,10 @@ elif [[  $random = 3 ]];then
 
 m2=$(($RANDOM%$m+1))
 fi
-question=$(echo $txt | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | sed -n "$m2,${m2}p")
+question=$(echo "$longtxt"| sed 'N;s/\n/ /' | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}' | tr '/' ' ')
 echo  "${strs}"
 
-pureanswer=$(echo $txt  |tr ' ' '\n' | sed 'N;s/\n/ /' | sed -n "$m2,${m2}p" | sed 's/:/''/g')
+pureanswer=$(echo "$longtxt" | sed 'N;s/\n/ /' | sed -n "$m2,${m2}p")
 
 answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 #answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
@@ -1723,10 +1761,10 @@ elif [[  $random = 3 ]];then
 m2=$(($RANDOM%$m+1))
 fi
 
-question=$(echo $txt | awk 'BEGIN{RS=" "}{print $0}'| sed 'N;s/\n/ /' | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
+question=$(echo "$longtxt" | sed 'N;s/\n/ /' | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
 echo  "${strs}"
 
-pureanswer=$(echo  $txt |tr ' ' '\n' | sed 'N;s/\n/ /' | sed -n "$m2,${m2}p" | sed 's/:/''/g')
+pureanswer=$(echo "$longtxt"  |tr ' ' '\n' | sed 'N;s/\n/ /' | sed -n "$m2,${m2}p" )
 
 
 answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
