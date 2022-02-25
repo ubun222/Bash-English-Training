@@ -1570,13 +1570,13 @@ fi
 
 longtxt=$(echo "$txt"  | tr -s "	"  "\n")
 
-printf "I，英译中${spaces#               }II，中译英${spaces#               }III，混合"
+printf "I,英译中${spaces#              }II,中译英${spaces#              }III,混合"
 read -n 1 mode
+[[  "$mode" == $LF  ]] && mode=3
 echo
-printf "I，顺序${spaces#             }II，倒序${spaces#             }III，乱序"
+printf "I,顺序${spaces#            }II,倒序${spaces#            }III,乱序"
 read -n 1 random
-###mode=3
-###random=3
+[[  "$random" == $LF  ]] && random=3
 echo 
 #printf "需要多少题目:" 
 #read ii
