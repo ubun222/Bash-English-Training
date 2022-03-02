@@ -182,7 +182,7 @@ read  -p  请输入目标，按回车键加载词表: the
 txtall="$(echo "$txtall" | grep -a  "$the" )"
 pt="$(echo "$txtall
 " | sed 'N;s/\n/ /')"
-none="$(cat ${txtall:-/dev/null})"
+none="$(echo ${txtall:-/dev/null} | xargs cat)"
 
 #targets=$target' '$ta rgets
 #echo $targets
@@ -206,7 +206,7 @@ fi
 done
 
 txtall="$(echo "$txtall" | tr " " "\n" )"
-targets=$txtall
+#targets=$txtall
 #echo "$txtall"
 while read line ;do
 #echo $line
@@ -214,6 +214,7 @@ while read line ;do
 catable=$?
 
 if [[  $catable -eq 0  ]];then
+targets=${line}' '$targets
 etxt=
 eetxt=
 exec 3<"$line"
@@ -273,8 +274,7 @@ read -e -p  请输入目标，按回车键结束: the
 [[  "$the"  ==  ''  ]]  && echo 加载中......  &&  break
 
 txtall=$(echo "$txtall" | grep -a  "$the" )
-none="$(cat ${txtall:-/dev/null})"
-
+none="$(echo ${txtall:-/dev/null} | xargs cat)"
 #targets=$target' '$ta rgets
 #echo $targets
 if [[  $none != ""  ]] ;then
@@ -287,7 +287,7 @@ fi
 done
 
 txtall="$(echo "$txtall" | tr " " "\n" )"
-targets="$txtall"
+#targets="$txtall"
 #echo "$txtall"
 while read line ;do
 #echo $line
@@ -357,41 +357,64 @@ done
 COL=$((COLUMN+14))
 
 eval ' hello=`cat`' <<"blocks"
- ______          __         _______   ____  ____ 
-|_   _ \        /  \       /  ___  | |_   ||   _|
-  | |_) |      / /\ \     |  (__ \_|   | |__| |  
-  |  __'.     / ____ \     '.__ _`-.   |  __  |  
- _| |__) |  _/ /    \ \_  |`\____) |  _| |  | |_ 
-|_______/  |____|  |____| |_______.' |____||____|
+ _               _     
+| |__   __ _ ___| |__  
+| '_ \ / _` / __| '_ \ 
+| |_) | (_| \__ \ | | |
+|_.__/ \__,_|___/_| |_|
 blocks
 
 
 eval ' hi=`cat`' <<"blocks"
-       _______   ____  ____ 
-      /  ___  | |_   ||   _|
-     |  (__ \_|   | |__| |  
-      '.__ _`-.   |  __  |  
-     |`\____) |  _| |  | |_ 
-(_)  |_______.' |____||____|
+                  _ _     _     
+  ___ _ __   __ _| (_)___| |__  
+ / _ \ '_ \ / _` | | / __| '_ \ 
+|  __/ | | | (_| | | \__ \ | | |
+ \___|_| |_|\__, |_|_|___/_| |_|
+            |___/               
 blocks
-printf "$(whoami), 背会儿单词吗?\r\n"
+
+eval ' hey=`cat`' <<"blocks"
+ _             _       _             
+| |_ _ __ __ _(_)_ __ (_)_ __   __ _ 
+| __| '__/ _` | | '_ \| | '_ \ / _` |
+| |_| | | (_| | | | | | | | | | (_| |
+ \__|_|  \__,_|_|_| |_|_|_| |_|\__, |
+                               |___/ 
+blocks
+prt()
+{
+    height=`echo "$1"|wc -l`
+    for i in `seq "$height"`;do
+            sleep 0.06
+            char=`echo $1`
+            [ -n "$char" ] && printf "$(echo "$1"|sed -n  "$i"p)"
+        echo
+    done
+}
+#printf "$(whoami), 背会儿单词吗?\r\n"
 printf " 回车以继续\r"
 read
 clear
-printf "喝水不忘挖井人\n"
-[[  $COLUMN -ge 49  ]] && printf  "$hello"
-[[  $COLUMN -le 48  ]] && printf  "$hi"
+[[  $COLUMN -ge 38  ]] && prt "\033[1m$hello\n$hi\n$hey"
+sleep 0.09
 echo
-printf ""
-#read -p 按下回车以继续$enter
-printf "github:"
-#read
-printf "https://github.com/ubun222/Learning-English\r\n"
-#read
-printf "gitee:"
-printf "https://gitee.com/cb222/Learning-English.git\r\n"
+echo
+for i in $(seq $((COLUMN)));do
 
-printf "回车以继续"
+	sleep 0.017
+	[[  $i  -eq  1 ]] && printf "\033[2A="
+	#printf "\033[1A"
+	#[[  $i  -eq  $((COLUMN)) ]] && printf "\r="
+	printf  "\033[?25l\033[$((i-1))C=\r"
+done
+#printf %s "$strs"
+read
+#printf ""
+#read -p 按下回车以继续$enter
+#read
+printf "github.com/ubun222/Learning-English\r\n"
+printf "gitee.com/cb222/Learning-English.git\r\n"
 read
 
 
@@ -1279,7 +1302,7 @@ done
 bot="${bot#-}"
 #bot=$(printf "\033[3m$bot\033[0m")
 #echo $answer
-ss="$(cat $targets | grep -a  "[ ]$answer[^	][^|	][^ 	|]...")"
+ss="$(echo "$content" | grep -a  "[ ]$answer[^	][^|	][^ 	|]...")"
 [[  "$ss" == ''  ]] && continue
 linenum="$(echo "$ss" | wc -l )"
 mm=$(($RANDOM%$linenum+1))
@@ -1618,7 +1641,7 @@ echo  "${strs}"
 #echo -n "$question"         #printf 命令需要套一个双引号才能输出空格
 
 No=$(($((m/2))+$((m%2))))
-pureanswer=$(echo "$longtxt"| sed 'N;s/\n/ /' | sed -n "$No,${No}p" )
+pureanswer=$(echo "$txt"| sed -n "$No,${No}p" )
 #read -p  '————请输入答案:'  scanf  < cat
 #read a < /dev/stdin <<eof
 answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
@@ -1695,10 +1718,10 @@ elif [[  $random = 3 ]];then
 
 m2=$(($RANDOM%$m+1))
 fi
-question=$(echo "$longtxt"| sed 'N;s/\n/ /' | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}' | tr '/' ' ')
+question=$(echo "$txt"| sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}' | tr '/' ' ')
 echo  "${strs}"
 
-pureanswer=$(echo "$longtxt" | sed 'N;s/\n/ /' | sed -n "$m2,${m2}p")
+pureanswer=$(echo "$txt" | sed -n "$m2,${m2}p")
 
 answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 #answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
@@ -1761,10 +1784,10 @@ elif [[  $random = 3 ]];then
 m2=$(($RANDOM%$m+1))
 fi
 
-question=$(echo "$longtxt" | sed 'N;s/\n/ /' | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
+question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
 echo  "${strs}"
 
-pureanswer=$(echo "$longtxt"  |tr ' ' '\n' | sed 'N;s/\n/ /' | sed -n "$m2,${m2}p" )
+pureanswer=$(echo "$txt" | sed -n "$m2,${m2}p" )
 
 
 answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
