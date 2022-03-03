@@ -83,11 +83,11 @@ $allif"
 calendar()
 {
 calenda=1
-   clear
+  # clear
 #calenda=1
 cd $Path
 cd ./txt
-[[  "$?" -ne 0  ]] && echo 未在脚本所在目录找到txt文件夹 && calenda=0 && return 1
+[[  "$?" -ne 0  ]] && echo 未在脚本所在目录找到txt文件夹 && calenda=0 &&  return 1
 pathls="$(ls -F | grep '/$' )"
 pathlsl="$(echo "$pathls" | wc -l)"
 printf "\33[?25l"
@@ -138,8 +138,7 @@ thepath=$(echo "$pathls" | sed -n "${order},${order}p" )
 down=$((pathlsl+1-$order))
 printf "\033[${down}B$enter"
 
-echo $strs
-cd $thepath && echo "open $thepath"
+cd $thepath && printf  "\033[1mopen $thepath\n"
 
 #cd ./txt/webapi >& /dev/null
 if [[  "$?" -ne "0"  ]];then
@@ -160,6 +159,7 @@ pt="$(echo "$txtall
 " | sed 'N;s/\n/ /')"
 
 while read line ;do
+sleep 0.01
 printf "%-16s  %s\n"  $line 
 done <<EOF
 $pt
@@ -386,7 +386,7 @@ prt()
 {
     height=`echo "$1"|wc -l`
     for i in `seq "$height"`;do
-            sleep 0.06
+            sleep 0.01
             char=`echo $1`
             [ -n "$char" ] && printf "$(echo "$1"|sed -n  "$i"p)"
         echo
@@ -395,26 +395,21 @@ prt()
 #printf "$(whoami), 背会儿单词吗?\r\n"
 printf " 回车以继续\r"
 read
+printf "\033[?25l"
 clear
 [[  $COLUMN -ge 38  ]] && prt "\033[1m$hello\n$hi\n$hey"
-sleep 0.09
+sleep 0.1
 echo
-echo
-for i in $(seq $((COLUMN)));do
-
-	sleep 0.017
-	[[  $i  -eq  1 ]] && printf "\033[2A="
-	#printf "\033[1A"
-	#[[  $i  -eq  $((COLUMN)) ]] && printf "\r="
-	printf  "\033[?25l\033[$((i-1))C=\r"
-done
 #printf %s "$strs"
-read
 #printf ""
 #read -p 按下回车以继续$enter
 #read
+printf "\033[3m"
 printf "github.com/ubun222/Learning-English\r\n"
 printf "gitee.com/cb222/Learning-English.git\r\n"
+echo
+echo $strs
+
 read
 
 
@@ -447,6 +442,7 @@ echo "在txt目录创建 /CORRECT/${thepath} 文件夹" && cp -r ${thepath%%/}  
 fi
 cd CORRECT
 cd $thepath
+
  #[[   -d ./CORRECT  ]] &&
 
     while read atarget ;do
@@ -463,7 +459,7 @@ cd $thepath
     printf 找不到"$atarget"中的文件夹，请生成子文件夹或删除整个CORRECT\\n
 fi
 done <<EOF
-$targets
+$(echo "$targets" | tr " " "\n" )
 EOF
 struct
     read -t 3
@@ -472,9 +468,10 @@ struct
 fi
 
 if [[  "$record" == 1  ]] && [[  "$calenda" == 0  ]] ;then
-echo 找不到txt文件夹
+echo 找不到txt文件夹，获取当前路径
 read
 RWN=1
+
     echo
  [[ !  -d ./CORRECT  ]]  && echo 在当前目录创建CORRECT/allinone.txt && mkdir CORRECT
 
@@ -934,6 +931,9 @@ done
 
 FIND()
 {
+[[  "$calenda" -eq 0   ]] &&  cd  "$(pwd "$0")"
+cpath="$(pwd)"
+[[  "$calenda" -eq 1   ]] &&  cd ../../"$thepath"
 fscanf=
 bot=
 echo
@@ -999,7 +999,7 @@ done
 echo 查找$fscanf
 #cd $(dirname $0)
 #targets="$(cat "$targets" | grep -e  ....txt)"
-echo "$targets" |  while read target;do
+ while read target;do
 find='';find2='';find1=''
 find="$(cat "$target" | grep  "^$fscanf	")"
 if [[  "$find" != ""  ]];then
@@ -1025,6 +1025,7 @@ find2="$(echo "$find2" |  sed "s/$fscanf/\\\033[1m\\\033[33m$fscanf\\\033[0m/g")
 printf "$find2\n" | tr -s "\t"
 fi
 
+
 fi
 
 #[[  "$word" != ""  ]] &&  [[  "$(cat "$target" | grep  \\\\)"  ==  ""   ]]   && find1="$(cat "$target" | grep  "$fscanf")"
@@ -1036,9 +1037,11 @@ fi
 #find1="$(echo "$find1" |  sed "s/$word/\\\033[1m\\\E[31m$word\\\033[0m/g")"
 ##printf "内容：\n$find1\n"
 #fi
-done
-
+done <<EOF
+$(echo "$targets" | tr " " "\n")
+EOF
 echo 找完了
+[[  "$calenda" -eq 1   ]] &&  cd "$cpath"
 echo
 #printf "\033[1B"
 #return 0
@@ -1074,7 +1077,7 @@ while read atarget ;do
     eval rw$RWN="${atarget}"
     RWN=$((RWN+1))
 done <<EOF
-$targets
+$(echo "$targets" | tr " " "\n" )
 EOF
 struct
 #fi
@@ -1656,7 +1659,7 @@ answer=$answer2
 
 if [[  "$COLUMN" -ge "$length"  ]];then
 #read -e -p  "$question"——————:  scanf
-printf "$question"——————:
+printf "\033[1m$question\033[0m"——————:
 Readzh
 else
 read -e -p  "$question"======:  scanf
@@ -1675,14 +1678,14 @@ done
 printf "$question"——————:"$bot"\\r
 #printf "\r"
 #read -e  -p  "$question"——————:  scanf
-printf "$question"——————:
+printf "\033[1m$question\033[0m"——————:
 Readen
 
 
 else 
 answer=$answer1
 #printf "$question——————:$enter"
-printf "$question"======:
+printf "\033[1m$question\033[0m"======:
 read -e  scanf
 #echo
 fi
@@ -1737,15 +1740,15 @@ for t in `seq $iq`;do
 bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
-printf "$question"——————:"$bot"\\r
+printf "\033[1m$question\033[0m"——————:"$bot"\\r
 
-printf "$question"——————:
+printf "\033[1m$question\033[0m"——————:
 Readen
 
 else 
 #printf "$question——————:"
 #read -e scanf 
-printf "$question"======:
+printf "\033[1m$question\033[0m"======:
 read -e  scanf
 fi
 
@@ -1799,7 +1802,7 @@ length=$((la+la2*2+7))
 
 if [[  "$COLUMN" -ge "$length"  ]];then
 #read -e -p  "$question"——————:  scanf
-printf "$question"——————:
+printf "\033[1m$question\033[0m"——————:
 Readzh
 else
 read -e -p  "$question"======:  scanf
@@ -1915,7 +1918,7 @@ answer="$answer2"
 
 if [[  "$COLUMN" -ge "$length"  ]];then
 #read -e -p  "$question"——————:  scanf
-printf "$question"——————:
+printf "\033[1m$question\033[0m"——————:
 Readzh
 else
 read -e -p  "$question"======:  scanf
@@ -1930,17 +1933,17 @@ for t in `seq $iq`;do
 bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
-printf "$question"——————:"$bot"\\r
+printf "\033[1m$question\033[0m"——————:"$bot"\\r
 #printf "\r"
 
-printf "$question"——————:
+printf "\033[1m$question\033[0m"——————:
 Readen
 
 
 else 
 #printf "$question——————:\n"
 #read -e scanf 
-printf "$question"======:
+printf "\033[1m$question\033[0m"======:
 read -e  scanf
 fi
 fi
@@ -2000,15 +2003,15 @@ for t in `seq $iq`;do
 bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
-printf "$question"——————:"$bot"\\r
+printf "\033[1m$question\033[0m"——————:"$bot"\\r
 #printf "\r"
-printf "$question"——————:
+printf "\033[1m$question\033[0m"——————:
 Readen
 
 else 
 #printf "$question"——————:
 #read -e scanf 
-printf "$question"======:
+printf "\033[1m$question\033[0m"======:
 read -e  scanf
 fi
 
@@ -2066,7 +2069,7 @@ length=$((la+la2*2+7))
 
 if [[  "$COLUMN" -ge "$length"  ]];then
 #read -e -p  "$question"——————:  scanf
-printf "$question"——————:
+printf "\033[1m$question\033[0m"——————:
 Readzh
 else
 read -e -p  "$question"======:  scanf
