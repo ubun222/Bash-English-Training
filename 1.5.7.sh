@@ -219,6 +219,7 @@ etxt=
 eetxt=
 exec 3<"$line"
 read -r -d "\\"  -u 3 aetxt
+[[  "$aetxt" == ""  ]] && continue
 while read line ;do
 read eetxt <<EOF
 `echo "$line"  | tr " " "/"`
@@ -422,14 +423,24 @@ loadcontent()
 
     c="$(echo "$targets" | tr " " "\n")"
     cnum="$(echo "$c" | wc -l)"
-    for i in $(seq $cnum);do
-    content="$(cat $(echo "$c" | sed -n "$i,${i}p" ) | grep -A 99999 \\\\  )
+while read line ;do
+content="$(cat "$line" | grep -A 99999 \\\\)
 
 
 
 $content"
+done <<EOF
+$c
+EOF
 
-    done
+
+    #for i in $(seq $cnum);do
+    #content="$(cat $(echo "$c" | sed -n "$i,${i}p" ) | grep -A 99999 \\\\  )
+
+
+
+#$content"
+
 echo
 if [[  "$record" == 1  ]] && [[  "$calenda" == 1  ]] ;then
     echo
@@ -933,9 +944,63 @@ FIND()
 {
 [[  "$calenda" -eq 0   ]] &&  cd  "$(pwd "$0")"
 cpath="$(pwd)"
-[[  "$calenda" -eq 1   ]] &&  cd ../../"$thepath"
+#pwd
+[[  "$calenda" -eq 1   ]] && [[ "$record" -eq 1  ]] && cd ../../"$thepath" 
 fscanf=
 bot=
+alltxt="$txt"
+findx()
+{
+while read line;do
+Find "$line"
+done <<EOF
+$xwords
+EOF
+}
+
+Find()
+{
+[[  "$1" == "" ]] && echo  继续... && return 1
+echo 查找$1
+#cd $(dirname $0)
+#targets="$(cat "$targets" | grep -e  ....txt)"
+ while read target;do
+find='';find2='';find1=''
+find="$(cat "$target" | grep  "^$1	")"
+if [[  "$find" != ""  ]];then
+echo $strs
+echo "在词表中：$target"
+printf "释义：\n\033[1m\033[3m$find\033[0m\n" | tr -s "\t"
+
+
+find1=$(cat "$target" | grep -a    -B 30 "^${1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]')
+if [[  "$find1" != ""  ]];then
+echo $strs
+echo "在详细释义中：$target"
+printf "$find1\n" | grep -n ""
+fi
+
+#echo $strs
+
+find2="$(cat "$target" | grep  "$1" |  grep  -v "	" | grep  -v " |")"
+if [[  "$find2" != ""  ]];then
+echo $strs
+echo "在例句中：$target"
+find2="$(echo "$find2" |  sed "s/$1/\\\033[1m\\\033[33m$1\\\033[0m/g")"
+printf "$find2\n" | tr -s "\t"
+fi
+
+
+fi
+done <<EOF
+$(echo "$targets" | tr " " "\n")
+EOF
+echo 找完了
+echo
+#printf "\033[1B"
+#return 0
+}
+
 echo
 echo $strs
 echo detect CTRL D
@@ -943,6 +1008,9 @@ echo 输入想要查找的单词
 echo 暂停请按下 CTRL Z 
 echo 退出请按下 CTRL C
 echo
+
+while true;do
+fscanf=
 printf "the word:"
 
 while true;do
@@ -995,56 +1063,23 @@ else
 continue
 fi
 done
-[[  "$fscanf" == "" ]] && echo  继续... && return 1
-echo 查找$fscanf
-#cd $(dirname $0)
-#targets="$(cat "$targets" | grep -e  ....txt)"
- while read target;do
-find='';find2='';find1=''
-find="$(cat "$target" | grep  "^$fscanf	")"
-if [[  "$find" != ""  ]];then
-echo $strs
-echo "在词表中：$target"
-printf "释义：\n\033[1m\033[3m$find\033[0m\n" | tr -s "\t"
 
+[[  "$fscanf" == "" ]]  && xwords="$(echo "$alltxt" | awk  'BEGIN{FS="	"}{print $1}' | sort | uniq )" && findx && [[  "$calenda" -eq 1   ]] &&  cd "$cpath" && echo 退出  && return 0
+alltxt="$(echo "$alltxt" | grep "$fscanf")"
+[[  "$alltxt" == ""  ]] && echo 找不到"$fscanf" && alltxt="$txt" && continue
 
-find1=$(cat "$target" | grep -a    -B 30 "^${fscanf} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]')
-if [[  "$find1" != ""  ]];then
-echo $strs
-echo "在详细释义中：$target"
-printf "$find1\n" | grep -n ""
-fi
-
-#echo $strs
-
-find2="$(cat "$target" | grep  "$fscanf" |  grep  -v "	" | grep  -v " |")"
-if [[  "$find2" != ""  ]];then
-echo $strs
-echo "在例句中：$target"
-find2="$(echo "$find2" |  sed "s/$fscanf/\\\033[1m\\\033[33m$fscanf\\\033[0m/g")"
-printf "$find2\n" | tr -s "\t"
-fi
-
-
-fi
-
-#[[  "$word" != ""  ]] &&  [[  "$(cat "$target" | grep  \\\\)"  ==  ""   ]]   && find1="$(cat "$target" | grep  "$fscanf")"
-
-
-#if [[  "$find1" !=  ""  ]] ;then
-##echo $strs
-##echo "在文章中：$target"
-#find1="$(echo "$find1" |  sed "s/$word/\\\033[1m\\\E[31m$word\\\033[0m/g")"
-##printf "内容：\n$find1\n"
-#fi
+pt="$(printf  "$alltxt")"
+while read line ;do
+sleep 0.01
+printf "%s\n" "$line"  | tr -s "	" "  "
 done <<EOF
-$(echo "$targets" | tr " " "\n")
+$pt
 EOF
-echo 找完了
-[[  "$calenda" -eq 1   ]] &&  cd "$cpath"
-echo
-#printf "\033[1B"
-#return 0
+
+done
+
+
+
 }
 trap 'printf "\033[?25h\033[0m"  '  EXIT
 #trap 'FIND' SIGTSTP
@@ -1553,7 +1588,7 @@ printf "\r\033[1m$answer    $answer2"
 #printf "\033[1A"
 fi
 read
-verbs="$(printf %s "$content" | grep "^$answer1 [^A-z]" )"
+verbs="$(printf %s "$content" | grep ^"$answer1 [^A-z]" )"
 printf "\033[1m%s\n\033[0m" "$verbs"
 
 fi
@@ -1594,7 +1629,6 @@ FUN_
 return 0
 fi
 
-longtxt=$(echo "$txt"  | tr -s "	"  "\n")
 
 printf "I,英译中${spaces#              }II,中译英${spaces#              }III,混合"
 read -n 1 mode
@@ -1613,7 +1647,7 @@ number0=0;
 #r1=raw;r2=raw;
 r1=${raw:-number0};r2=${raw:-((n+1))}
 if [[ $mode = 3 ]] ;then
-
+longtxt=$(echo "$txt"  | tr -s "	"  "\n")
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
 for gi in $(seq 1 $ii)
 do
