@@ -1,7 +1,7 @@
 ## 自制的英语单词提词器
 
 #### 大概介绍
-1. 支持bash(termux ish Linux)和ash(ish)，zsh 不支持fish，dash等等等等，但支持macOS的默认终端和越狱后的iPhone终端
+1. 支持bash(termux ish Linux macos 等)~~和ash(ish)，zsh~~ 不支持fish，dash等等等等，但支持macOS的默认终端和越狱后的iPhone终端
 
 
 ![BET-ish.gif](https://github.com/ubun222/Learning-English/raw/bash/img/BET-ish.gif) ![BET-termux.gif](https://github.com/ubun222/Learning-English/raw/bash/img/BET-termux.gif)
