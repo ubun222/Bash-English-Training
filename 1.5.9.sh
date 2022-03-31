@@ -616,8 +616,8 @@ colourp()
 Dtop=0
 Dend=0
 RC=0
+sleep 0.01
 if ifright ;then
-#sleep 0.0001
 printf  "%${COL}s\r" ${tline}
 elif [[ "${scanf:-0}" = "0" ]]; then
 #sleep 0.0001
@@ -1352,7 +1352,8 @@ for t in `seq $iq`;do
 
 bot="$bot"-
 done
-bot="${bot#-}"
+
+#bot="${bot#-}"
 #bot=$(printf "\033[3m$bot\033[0m")
 #echo $answer
 ss="$(echo "$content" | grep -a  "[ ]$answer[^	][^|	][^ 	|]...")"
@@ -1360,37 +1361,73 @@ ss="$(echo "$content" | grep -a  "[ ]$answer[^	][^|	][^ 	|]...")"
 linenum="$(echo "$ss" | wc -l )"
 mm=$(($RANDOM%$linenum+1))
 #echo $mm
-answerd="${answer:1}"
+answerd="${answer:0:1}"
+answe="${#answer}"
+#echo $answe
 pureanswer="$(echo "$ss" | sed -n "${mm},${mm}p")"
-inquiry="$(printf "$pureanswer" | sed s/"$answerd"/$bot/g)"
-printf "$inquiry\n"
+inquiry="$(printf "$pureanswer" | sed s/"$answer"/$bot/g)"
+front="$(printf "$inquiry" | awk -F'--' '{print $1}')"
+middle="$(printf "$inquiry" | awk -F'-' '{print $NF}')"
+#echo $middle
+counts=0
+iq=${#inquiry}
+for t in `seq $iq`;do
+tt=t
+t1=$((tt-1))
+id=${inquiry:$t1:1}
+if [[  "$id"  ==  [\ -\~]   ]];then
+counts=$(($counts+1))
+else
+counts=$(($counts+2))
+fi
+done
+counts=$(($counts-1))
+#echo $counts
+up="$((counts/COLUMN))"
+printf "$inquiry"
+
+it=${#front}
+it=$((it+answe))
+[[  "$up" -ne "0"  ]] && printf "\033[${up}A"
+printf  "\r$front"
 
 scanf=
 #echo $back
 i=1
-
+#printf $up
+printf "$answerd\b"
+printf "\033[1m"
 Readen
-
-
-
+printf "\033[0m"
+printf "\033[1A"
+[[  "$it" -gt "$COLUMN"  ]] && fup=$((it/COLUMN)) &&  printf "\033[${fup}A"
+#printf "\033[${up}A"
 #printf "$pureanswer"
 if [[  "$scanf" == "$answer"  ]];then
-printf "\r%${COL}s%s\n" $tline
-#sedd= "\\\033[1m\\\E[32m$answer\\\033[0m"
+#printf "%${COL}s%s" $tline
+#[[  "$up" -ne "0"  ]] && printf "\033[${up}B"
 printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[32m${answer}\\\033[0m"/g)"
+echo
+printf  "\r$answer $answer2"
+#sedd= "\\\033[1m\\\E[32m$answer\\\033[0m"
+#printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[32m${answer}\\\033[0m"/g)"
 #printf "\n$enter$answer $answer2"
 printf  \\n$strs\\n
 elif [[  "$scanf" == ''  ]];then
-printf "\r%${COL}s%s\n" $nline
+#printf "\r%${COL}s%s\r" $nline
 #printf "$(printf "$pureanswer" | sed s/"$answer"/\\\033[1m\\\E[31m$scanf\\\033[0m/g)"
 printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[33m${answer}\\\033[0m"/g)"
+echo
+echo "$answer $answer2"
 #printf "\033[2B"
-printf  \\n$strs\\n
+printf  %s\\n "$strs"
 else
-printf "\r%${COL}s%s\n" $fline
+#printf "\r%${COL}s%s\r" $fline
 printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[31m${answer}\\\033[0m"/g)"
+echo
+echo "$answer $answer2"
 #printf "\n$enter$answer $answer2"
-printf  \\n$strs\\n
+printf  %s\\n "$strs"
 fi
 done
 
@@ -1689,6 +1726,7 @@ m=$(($RANDOM%$m+1))
 fi
 
 question=$(echo "$longtxt" | sed -n "$m,${m}p" | tr '/' ' ')
+sleep 0.01
 echo  "${strs}"
 #echo -n "$question"         #printf 命令需要套一个双引号才能输出空格
 
@@ -1771,6 +1809,7 @@ elif [[  $random = 3 ]];then
 m2=$(($RANDOM%$m+1))
 fi
 question=$(echo "$txt"| sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}' | tr '/' ' ')
+sleep 0.01
 echo  "${strs}"
 
 pureanswer=$(echo "$txt" | sed -n "$m2,${m2}p")
@@ -1837,6 +1876,7 @@ m2=$(($RANDOM%$m+1))
 fi
 
 question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
+sleep 0.01
 echo  "${strs}"
 
 pureanswer=$(echo "$txt" | sed -n "$m2,${m2}p" )
@@ -1947,6 +1987,7 @@ fi
 #echo $m
 eval question=\${lr$m}
 # question=$(echo ${l})
+sleep 0.01
 echo  "${strs}"
 question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
 
@@ -2034,6 +2075,7 @@ fi
 
 eval question=\${lr$m2}
 # question=$(echo ${l})
+sleep 0.01
 echo  "${strs}"
 question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
 
@@ -2104,6 +2146,7 @@ fi
 
 eval question=\${lr$m2}
 # question=$(echo ${l})
+sleep 0.01
 echo  "${strs}"
 question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
 
