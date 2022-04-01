@@ -1348,6 +1348,7 @@ m=$(($RANDOM%$m+1))
 answer="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
 answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
 iq=${#answer}
+aiq=$iq
 for t in `seq $iq`;do
 
 bot="$bot"-
@@ -1365,11 +1366,12 @@ answerd="${answer:0:1}"
 answe="${#answer}"
 #echo $answe
 pureanswer="$(echo "$ss" | sed -n "${mm},${mm}p")"
-inquiry="$(printf "$pureanswer" | sed s/"$answer"/$bot/g)"
-front="$(printf "$inquiry" | awk -F'--' '{print $1}')"
-middle="$(printf "$inquiry" | awk -F'-' '{print $NF}')"
+inquiry="$(printf %s  "$pureanswer" | sed s/"$answer"/$bot/g)"
+front="$(printf %s "$inquiry" | awk -F'--' '{print $1}')"
+middle="$(printf %s "$inquiry" | awk -F'-' '{print $NF}')"
 #echo $middle
 counts=0
+CO=$COLUMN
 iq=${#inquiry}
 for t in `seq $iq`;do
 tt=t
@@ -1381,15 +1383,23 @@ else
 counts=$(($counts+2))
 fi
 done
+ifadd=
+[[  "$counts" -ge "$COLUMN"   ]] &&  ifadd="$((counts%COLUMN%2))"
+if [[  "$ifadd" -eq 1   ]] ;then
+front=" $front"
+pureanswer=" $pureanswer"
+inquiry=" $inquiry"
+fi
+
 counts=$(($counts-1))
 #echo $counts
 up="$((counts/COLUMN))"
-printf "$inquiry"
+printf "%s"  "$inquiry"
 
 it=${#front}
 it=$((it+answe))
 [[  "$up" -ne "0"  ]] && printf "\033[${up}A"
-printf  "\r$front"
+printf "\r%s" "$front"
 
 scanf=
 #echo $back
@@ -1400,13 +1410,15 @@ printf "\033[1m"
 Readen
 printf "\033[0m"
 printf "\033[1A"
+add=$((${aiq}-${#scanf}))
+it=$((it-add))
 [[  "$it" -gt "$COLUMN"  ]] && fup=$((it/COLUMN)) &&  printf "\033[${fup}A"
 #printf "\033[${up}A"
 #printf "$pureanswer"
 if [[  "$scanf" == "$answer"  ]];then
 #printf "%${COL}s%s" $tline
 #[[  "$up" -ne "0"  ]] && printf "\033[${up}B"
-printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[32m${answer}\\\033[0m"/g)"
+printf   "$(printf  "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[32m${answer}\\\033[0m"/g)"  2>/dev/null
 echo
 printf  "\r$answer $answer2"
 #sedd= "\\\033[1m\\\E[32m$answer\\\033[0m"
@@ -1416,14 +1428,14 @@ printf  \\n$strs\\n
 elif [[  "$scanf" == ''  ]];then
 #printf "\r%${COL}s%s\r" $nline
 #printf "$(printf "$pureanswer" | sed s/"$answer"/\\\033[1m\\\E[31m$scanf\\\033[0m/g)"
-printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[33m${answer}\\\033[0m"/g)"
+printf  "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[33m${answer}\\\033[0m"/g)" 2>/dev/null
 echo
 echo "$answer $answer2"
 #printf "\033[2B"
 printf  %s\\n "$strs"
 else
 #printf "\r%${COL}s%s\r" $fline
-printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[31m${answer}\\\033[0m"/g)"
+printf  "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[31m${answer}\\\033[0m"/g)" 2>/dev/null
 echo
 echo "$answer $answer2"
 #printf "\n$enter$answer $answer2"
