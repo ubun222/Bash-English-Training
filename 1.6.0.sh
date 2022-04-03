@@ -214,7 +214,7 @@ while read line ;do
 catable=$?
 
 if [[  $catable -eq 0  ]];then
-targets=${line}' '$targets
+targets=$targets' '${line}
 etxt=
 eetxt=
 exec 3<"$line"
@@ -295,7 +295,7 @@ while read line ;do
 (cat ${line} ) >&/dev/null
 catable=$?
 if [[  $catable -eq 0  ]];then
-targets=${line}' '$targets
+targets=$targets' '${line}
 exec 3<"$line"
 read -r -d "\\"  -u 3 aetxt
 while read line ;do
@@ -424,7 +424,7 @@ loadcontent()
     c="$(echo "$targets" | tr " " "\n")"
     cnum="$(echo "$c" | wc -l)"
 while read line ;do
-content="$(cat "$line" | grep -A 99999 \\\\)
+ [[  ${line} != ""  ]] &&  content="$(cat "$line" | grep -A 99999 \\\\)
 
 
 
@@ -458,13 +458,12 @@ cd $thepath
 
     while read atarget ;do
     #echo $atarget
-    [[ ! -e ${atarget}  ]] &&  echo \\\\\\\\\\\\ > ${atarget}
-    
-    chmod 777  "${atarget}"
+[[  ${atarget} == ""  ]] &&  continue
+[[ ! -e ${atarget}  ]] && echo \\\\\\\\\\\\ >"$atarget"
     
     eval rw$RWN="${atarget}"
     RWN=$((RWN+1))
-       [[  -e ${atarget}  ]] &&  printf 使用错题集./txt/CORRECT/$thepath${atarget##"./"}\\n
+[[  -e ${atarget}  ]] &&  printf 使用错题集./txt/CORRECT/$thepath${atarget##"./"}\\n
        
                        if [[  "$?" -ne 0  ]];then
     printf 找不到"$atarget"中的文件夹，请生成子文件夹或删除整个CORRECT\\n
