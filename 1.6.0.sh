@@ -1337,6 +1337,7 @@ _FUN()
 {
  #printf "\nI，有中文释义${spaces#               }${spaces#            }II，无中文释义"
  #read -n1 mode
+ 
  echo  "$strs"
  for gi in `seq 99`;do
  bot=
@@ -1357,7 +1358,7 @@ done
 #bot="${bot#-}"
 #bot=$(printf "\033[3m$bot\033[0m")
 #echo $answer
-ss="$(echo "$content" | grep -a  "[ ]$answer[^	][^|	][^ 	|]...")"
+ss="$(echo "$content" | grep -a  "[ ]$answer[^    ][^|    ][^     |]...")"
 [[  "$ss" == ''  ]] && continue
 linenum="$(echo "$ss" | wc -l )"
 mm=$(($RANDOM%$linenum+1))
@@ -1367,33 +1368,64 @@ answe="${#answer}"
 #echo $answe
 pureanswer="$(echo "$ss" | sed -n "${mm},${mm}p")"
 inquiry="$(printf %s  "$pureanswer" | sed s/"$answer"/$bot/g)"
-front="$(printf %s "$inquiry" | awk -F'--' '{print $1}')"
-middle="$(printf %s "$inquiry" | awk -F'-' '{print $NF}')"
 #echo $middle
+counts1=0
+fresh()
+{
+whereadd=1
 counts=0
+
+counts2=0
 CO=$COLUMN
+
 iq=${#inquiry}
 for t in `seq $iq`;do
 tt=t
 t1=$((tt-1))
 id=${inquiry:$t1:1}
-if [[  "$id"  ==  [\ -\~]   ]];then
-counts=$(($counts+1))
+if [[  "$id"  ==  [\ -\ÿ]   ]];then
+counts=$((counts+1))
 else
-counts=$(($counts+2))
+counts=$((counts+2))
+fi
+#tt=$((tt+1))
+if [[  "$counts" -ge "$CO"  ]] ;then
+
+[[  "$((counts%CO))" -eq 1  ]] && counts1=$((counts1+1)) && whereadd=$((counts/COLUMN)) && return 2
+CO=$((CO+COLUMN))
 fi
 done
-ifadd=
-[[  "$counts" -ge "$COLUMN"   ]] &&  ifadd="$((counts%COLUMN%2))"
-if [[  "$ifadd" -eq 1   ]] ;then
-front=" $front"
-pureanswer=" $pureanswer"
-inquiry=" $inquiry"
-fi
+}
 
-counts=$(($counts-1))
+while true;do
+fresh
+
+if [[  "$?" -eq 2  ]];then
+whereadd=$((whereadd-1))
+addwhere=$((whereadd*COLUMN))
+inquiry="${inquiry:0:$addwhere} ${inquiry:$addwhere}"
+#front="${front:0:$addwhere} ${front:$addwhere}"
+pureanswer="${pureanswer:0:$addwhere} ${pureanswer:$addwhere}"
+else
+break
+fi
+done
+
+front="$(printf %s "$inquiry" | awk -F'--' '{print $1}')"
+middle="$(printf %s "$inquiry" | awk -F'-' '{print $NF}')"
+
+#counts=$((counts1+counts2))
+#calc=$((counts1%COLUMN))
+#[[  "$counts" -ge "$COLUMN"   ]] &&  ifadd="$(($((COLUMN-calc))%2))"
+#if [[  "$ifadd" -eq 1   ]] ;then
+#front=" $front"
+#pureanswer=" $pureanswer"
+#inquiry=" $inquiry"
+#fi
+
+#counts=$((counts-1+counts1))
 #echo $counts
-up="$((counts/COLUMN))"
+up="$(($((counts-1+counts1))/COLUMN))"
 printf "%s"  "$inquiry"
 
 it=${#front}
@@ -1407,18 +1439,21 @@ i=1
 #printf $up
 printf "$answerd\b"
 printf "\033[1m"
+iq=$aiq
 Readen
 printf "\033[0m"
 printf "\033[1A"
-add=$((${aiq}-${#scanf}))
-it=$((it-add))
+addscan=0
+[[  ${scanf} ==  ""   ]] && addscan=1
+add=$((aiq-${#scanf}))
+it=$((it-add+addscan))
 [[  "$it" -gt "$COLUMN"  ]] && fup=$((it/COLUMN)) &&  printf "\033[${fup}A"
 #printf "\033[${up}A"
 #printf "$pureanswer"
 if [[  "$scanf" == "$answer"  ]];then
 #printf "%${COL}s%s" $tline
 #[[  "$up" -ne "0"  ]] && printf "\033[${up}B"
-printf   "$(printf  "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[32m${answer}\\\033[0m"/g)"  2>/dev/null
+(printf   "$(printf  "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[32m${answer}\\\033[0m"/g)" ) 2>/dev/null
 echo
 printf  "\r$answer $answer2"
 #sedd= "\\\033[1m\\\E[32m$answer\\\033[0m"
@@ -1428,14 +1463,14 @@ printf  \\n$strs\\n
 elif [[  "$scanf" == ''  ]];then
 #printf "\r%${COL}s%s\r" $nline
 #printf "$(printf "$pureanswer" | sed s/"$answer"/\\\033[1m\\\E[31m$scanf\\\033[0m/g)"
-printf  "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[33m${answer}\\\033[0m"/g)" 2>/dev/null
+(printf  "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[33m${answer}\\\033[0m"/g)") 2>/dev/null
 echo
 echo "$answer $answer2"
 #printf "\033[2B"
 printf  %s\\n "$strs"
 else
 #printf "\r%${COL}s%s\r" $fline
-printf  "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[31m${answer}\\\033[0m"/g)" 2>/dev/null
+(printf  "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[31m${answer}\\\033[0m"/g)") 2>/dev/null
 echo
 echo "$answer $answer2"
 #printf "\n$enter$answer $answer2"
@@ -1444,7 +1479,6 @@ fi
 done
 
 }
-
 FUN_()
 {
   #  echo $n
