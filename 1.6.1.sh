@@ -1238,18 +1238,63 @@ fi
 #syes(){
 
 #}
+Fresh()
+{
+whereadd=1
+addwhere=
+counts=0
+counts2=0
+CO=$COLUMN
+iq=${#p}
+for t in `seq $iq`;do
+tt=t
+t1=$((tt-1))
+id=${p:$t1:1}
+if [[  "$id"  ==  [\ -\ÿ]   ]];then
+counts=$((counts+1))
+else
+counts=$((counts+2))
+fi
+#tt=$((tt+1))
+if [[  "$counts" -ge "$CO"  ]] ;then
+[[  "$((counts%CO))" -eq 1  ]] && whereadd=$((counts/COLUMN)) && return 5 
+[[  "$((counts%CO%2))" -eq 0  ]] && CO=$((CO+COLUMN))
+
+continue
+else
+continue
+fi
+done
+}
+
+prep()
+{
+
+if [[  "$ish" == "y"  ]];then
+while true;do
+Fresh
+if [[  "$?" -eq 5  ]];then
+whereadd=$((whereadd-1))
+addwhere=$((whereadd*COLUMN))
+p="${p:0:$addwhere} ${p:$addwhere}"
+else
+break
+fi
+done
+fi
+
+printf "$p\n"
+}
 
 
 yes()
-
-
-
-{   printf "\033[0m"
+{
+    printf "\033[0m"
 targets=${targets:-/dev/null}
     #echo $targets
-    preline=$(echo  "$content" | grep -a   -B 1 "^${answer1} |" )
-    #echo $preline
-
+    preline="$(echo  "$content" | grep -B 1 "^${answer1} |" )"
+    theline="$(echo "$preline" | tail -n1)"
+    #echo "$theline"
     [[  "$preline" ==  ''  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] &&  echo '该单词还未收录哦，赶紧去补全吧！'&& echo @第"$gi"题 && return 0
  #   linenum=$(echo  "$content"|  grep -a   -v  $'\t'   |  grep -a   -B 30 "^${answer1} |"  | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]' | grep -a  -v "^${answer1} |" | wc -l)
     lineraw=$(echo  "$content" | grep -a    -B 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]'| grep -a  -v "${answer1} |" )
@@ -1258,25 +1303,20 @@ targets=${targets:-/dev/null}
     #echo $linenum
     if [[  "${linenum:-0}" -eq 0  ]];then
     echo '该单词还未收录哦，赶紧去补全吧！' && echo @第"$gi"题 && return 0
-    #[[  "${linenum:-0}" -eq 0  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -a  "${answer1} |"  > /dev/tty) >&/dev/null && echo @第"$i"题 && return 0
-    #echo $preline
-
     else
-  #  lineraw="$(echo  "$content" | grep -a   -B 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]'| grep -a  -v "${answer1} |" )"
-
-   # linenum=$(echo "$lineraw"  | )
-  #  echo "$lineraw"
-   #	 echo -------------
-    #if [[  $linenum -le 6 ]] ;then
-    #    [[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -a  -B 5 "${answer1} |" | grep -a  -A 30 "\\\\"  | grep -a  '[^ \]' > /dev/tty) >&/dev/null
-    #else
     for li in $(seq 3)
     do
     
-    [[  $linenum -le 1  ]] &&  printf  "$lineraw\n" && printf  "$preline\n" | tail -n1 &&  break
-    [[  $li -eq 3  ]] && (echo  "$content" | grep -a  "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null && break
-        therandom=$(($RANDOM%$linenum+1))
-    echo "$lineraw" | grep -a  '[^ ]' | head -n$therandom | tail -n1
+    [[  $linenum -le 1  ]] &&   p="$preline" && prep &&  break
+    [[  $linenum -eq 2  ]] &&   p="$lineraw\n$theline" && prep &&  break
+    [[  $li -eq 3  ]] && p="$theline" && prep && break
+    therandom=$(($RANDOM%$linenum+1))
+    p="$(echo "$lineraw" | grep -a  '[^ ]' | head -n$therandom | tail -n1)"
+
+
+prep
+
+
 #    delete=$(echo "$lineraw" | grep -a  -n '' | grep -a  $therandom |  head -n 1 | awk -F: '{print $2$3}' )
 lineraw=$(printf  "$lineraw\n$lineraw\n"  | tail -n$((linenum*2-therandom)) | head -n$((linenum-1)))       ##在sed内放变量需要""
     linenum=$((linenum-1))
@@ -1291,18 +1331,20 @@ lineraw=$(printf  "$lineraw\n$lineraw\n"  | tail -n$((linenum*2-therandom)) | he
 
 verbose()
 {
+
 targets=${targets:-/dev/null}
     printf "\033[0m"
 #echo $linenum
 #[[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -a  -B 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
 
-lineraw1="$(echo  "$content" | grep -a  "${answer1}" )"
-lineraw="$(echo "$lineraw1" | grep -a  -v '|' | sed "s/$answer1/\\\033[1m\\\033[33m$answer1\\\033[0m/g" )"
+lineraw1="$(echo  "$content" | grep  "${answer1}" )"
+lineraw="$(echo "$lineraw1" | grep  -v '|' | sed "s/$answer1/\\\033[1m\\\033[33m$answer1\\\033[0m/g" )"
 
+theline="$(printf "$lineraw1"| grep "${answer1} |"  | head -n1)"
 
 linenum=$(echo "$lineraw" | wc -l)
 linenum1=$(echo "$lineraw1" | wc -l)
-for li in $(seq 3)
+for li in `seq 3`
 
 do
 
@@ -1312,18 +1354,17 @@ if [[  "$linenum1" -eq 0  ]] || [[  "$lineraw" == ""  ]];then
 fi
 
 if [[  $linenum -eq 1  ]]  ; then 
-printf "$lineraw\n" && (printf "$lineraw1\n"| grep -a  "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
+p="$lineraw\n$theline" && prep
 break
 fi
 
 therandom=$(($RANDOM%$linenum+1))
-[[  $lineraw != ""  ]] && printf "$lineraw\n" | head -n$therandom | tail -n1
- 
+[[  $lineraw != ""  ]] && p="$(printf "$lineraw" | head -n$therandom | tail -n1)" && prep
 lineraw="$(printf  "${lineraw}\n${lineraw}\n" |  tail -n $((linenum*2-therandom)) | head -n$((linenum-1)))"       ##在sed内放变量需要""
 linenum=$((linenum-1))
 
 if  [[  $li -ge 3  ]] ;then
- (printf "$lineraw1\n"| grep -a  "${answer1} |"  | head -n1 > /dev/tty) >&/dev/null
+p="$theline" && prep
  break
  fi
 done
@@ -1372,11 +1413,10 @@ counts1=0
 fresh()
 {
 whereadd=1
+addwhere=
 counts=0
-
 counts2=0
 CO=$COLUMN
-
 iq=${#inquiry}
 for t in `seq $iq`;do
 tt=t
@@ -1389,19 +1429,27 @@ counts=$((counts+2))
 fi
 #tt=$((tt+1))
 if [[  "$counts" -ge "$CO"  ]] ;then
-
-[[  "$((counts%CO))" -eq 1  ]] && counts1=$((counts1+1)) && whereadd=$((counts/COLUMN)) && return 2
-CO=$((CO+COLUMN))
+[[  "$((counts%CO))" -eq 1  ]] && counts1=$((counts1+1)) && whereadd=$((counts/COLUMN))  && return 5
+[[  "$((counts%CO%2))" -eq 0  ]] && CO=$((CO+COLUMN))
+continue
+else
+continue
 fi
 done
 }
 
 while true;do
 fresh
-
-if [[  "$?" -eq 2  ]];then
+if [[  "$?" -eq 5  ]];then
 whereadd=$((whereadd-1))
 addwhere=$((whereadd*COLUMN))
+while true;do
+if [[  "${inquiry:$addwhere:1}" == "-"  ]] ;then
+addwhere=$((addwhere+1))
+else
+break
+fi
+done
 inquiry="${inquiry:0:$addwhere} ${inquiry:$addwhere}"
 #front="${front:0:$addwhere} ${front:$addwhere}"
 pureanswer="${pureanswer:0:$addwhere} ${pureanswer:$addwhere}"
@@ -1424,7 +1472,7 @@ middle="$(printf %s "$inquiry" | awk -F'-' '{print $NF}')"
 
 #counts=$((counts-1+counts1))
 #echo $counts
-up="$(($((counts-1+counts1))/COLUMN))"
+up="$(($((counts-2+counts1))/COLUMN))"
 printf "%s"  "$inquiry"
 
 it=${#front}
@@ -1434,9 +1482,11 @@ printf "\r%s" "$front"
 
 scanf=
 #echo $back
-i=1
+qi=0
+#[[  "$count1" -eq 1  ]] &&  qi=count1
 #printf $up
-printf "$answerd\b"
+[[  "$((it-aiq+1+qi))" -ne "$COLUMN"  ]] &&  printf "$answerd\b"
+[[  "$((it-aiq+1+qi))" -eq "$COLUMN"  ]] && printf "$answerd\b\033[1C"
 printf "\033[1m"
 iq=$aiq
 Readen
@@ -2355,7 +2405,7 @@ done
 
 
 
-while getopts ":rs" opt; do
+while getopts ":rsi" opt; do
     case $opt in
         r)
         echo 错题集模式 && record=1
@@ -2363,6 +2413,10 @@ while getopts ":rs" opt; do
         s)
         echo 验证词表模式 && verify=y
         ;;
+        i)
+        echo 优化ish中文输出断行 && ish=y
+        ;;
+
 esac
 done
 
