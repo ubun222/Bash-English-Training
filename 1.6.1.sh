@@ -1267,6 +1267,12 @@ fi
 done
 }
 
+replace()
+{
+##eval前不能有空格
+eval "$1=\$(echo \"\$$1\" | sed \"s/$answer1/\\\\\\033[1m\\\\\\033[33m$answer1\\\\\\033[0m/g\" )"
+}
+
 prep()
 {
 
@@ -1282,6 +1288,8 @@ break
 fi
 done
 fi
+
+[[  "$bool" == "v"  ]]  && replace p
 
 printf "$p\n"
 }
@@ -1308,7 +1316,7 @@ targets=${targets:-/dev/null}
     do
     
     [[  $linenum -le 1  ]] &&   p="$preline" && prep &&  break
-    [[  $linenum -eq 2  ]] &&   p="$lineraw\n$theline" && prep &&  break
+    [[  $linenum -eq 2  ]] &&   p="$lineraw" && prep && p="$theline" && prep &&  break
     [[  $li -eq 3  ]] && p="$theline" && prep && break
     therandom=$(($RANDOM%$linenum+1))
     p="$(echo "$lineraw" | grep -a  '[^ ]' | head -n$therandom | tail -n1)"
@@ -1331,15 +1339,14 @@ lineraw=$(printf  "$lineraw\n$lineraw\n"  | tail -n$((linenum*2-therandom)) | he
 
 verbose()
 {
-
 targets=${targets:-/dev/null}
     printf "\033[0m"
 #echo $linenum
 #[[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -a  -B 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
 
 lineraw1="$(echo  "$content" | grep  "${answer1}" )"
-lineraw="$(echo "$lineraw1" | grep  -v '|' | sed "s/$answer1/\\\033[1m\\\033[33m$answer1\\\033[0m/g" )"
-
+#lineraw="$(echo "$lineraw1" | grep  -v '|' | sed "s/$answer1/\\\033[1m\\\033[33m$answer1\\\033[0m/g" )"
+lineraw="$(echo "$lineraw1" | grep  -v '|')"
 theline="$(printf "$lineraw1"| grep "${answer1} |"  | head -n1)"
 
 linenum=$(echo "$lineraw" | wc -l)
@@ -1354,7 +1361,7 @@ if [[  "$linenum1" -eq 0  ]] || [[  "$lineraw" == ""  ]];then
 fi
 
 if [[  $linenum -eq 1  ]]  ; then 
-p="$lineraw\n$theline" && prep
+p="$lineraw" && prep && p="$theline" && prep
 break
 fi
 
