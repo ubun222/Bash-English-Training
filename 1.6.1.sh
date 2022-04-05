@@ -431,7 +431,7 @@ done <<EOF
 $c
 EOF
 
-
+#printf %s "$content" | grep "\\\\"
     #for i in $(seq $cnum);do
     #content="$(cat $(echo "$c" | sed -n "$i,${i}p" ) | grep -A 99999 \\\\  )
 
@@ -1310,7 +1310,7 @@ targets=${targets:-/dev/null}
     #echo "$theline"
     [[  "$preline" ==  ''  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] &&  echo '该单词还未收录哦，赶紧去补全吧！'&& echo @第"$gi"题 && return 0
  #   linenum=$(echo  "$content"|  grep -a   -v  $'\t'   |  grep -a   -B 30 "^${answer1} |"  | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]' | grep -a  -v "^${answer1} |" | wc -l)
-    lineraw=$(printf "$content" | grep  -B 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  "[	\\]"| grep -a  -v "${answer1} |" )
+    lineraw=$(printf "$content" | grep  -B 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  "[	\\]"| grep -v "${answer1} |" )
 
     linenum="$(echo "$lineraw" | grep  '[^ \]' |  grep -a  -v "${answer1} |" | wc -l)"
     #echo $linenum
