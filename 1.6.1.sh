@@ -1321,21 +1321,30 @@ targets=${targets:-/dev/null}
     else
     for li in $(seq 3)
     do
-    
-    [[  $linenum -le 1  ]] &&   p="$preline" && prep &&  break
-    [[  $linenum -eq 2  ]] &&   p="$lineraw" && prep && p="$theline" && prep &&  break
-    [[  $li -eq 3  ]] && p="$theline" && prep && break
+if [[  "$linenum" -le 1  ]] || [[  "$lineraw" == ""  ]];then
+[[  $lineraw != ""  ]] &&  p="$lineraw" && prep
+p="$theline" &&  prep
+break
+fi
+
+   # [[  $linenum -le 1  ]] &&   p="$preline" && prep &&  break
+   # [[  $li -eq 3  ]] && p="$theline" && prep && break
     therandom=$(($RANDOM%$linenum+1))
     p="$(echo "$lineraw" | grep -a  '[^ ]' | head -n$therandom | tail -n1)"
 
 
-prep
+[[  "$p" != ""   ]] &&  prep
 
 
 #    delete=$(echo "$lineraw" | grep -a  -n '' | grep -a  $therandom |  head -n 1 | awk -F: '{print $2$3}' )
 lineraw=$(printf  "$lineraw\n$lineraw\n"  | tail -n$((linenum*2-therandom)) | head -n$((linenum-1)))       ##在sed内放变量需要""
     linenum=$((linenum-1))
-    done
+if  [[  $li -ge 3  ]] ;then
+p="$theline" && prep
+break
+fi
+
+done
     fi
     echo @第"$gi"题
 
@@ -1356,27 +1365,26 @@ lineraw1="$(echo  "$content" | grep  "${answer1}" )"
 lineraw="$(echo "$lineraw1" | grep  -v '|')"
 theline="$(printf "$lineraw1"| grep "${answer1} |"  | head -n1)"
 
-linenum=$(echo "$lineraw" | wc -l)
+#linenum=$(echo "$lineraw" | wc -l)
 linenum1=$(echo "$lineraw1" | wc -l)
-for li in `seq 3`
 
-do
-
-if [[  "$linenum1" -eq 0  ]] || [[  "$lineraw" == ""  ]];then
-
-	break
-fi
-
-if [[  $linenum -eq 1  ]]  ; then 
-p="$lineraw" && prep && p="$theline" && prep
+#if [[  $linenum -eq 1  ]]  ; then 
+#p="$lineraw" && prep && p="$theline" && prep
+#fi
+linenum=$(echo "$lineraw" | wc -l)
+[[  "$lineraw" == ""  ]] && lineraw="未找到详细释义，赶紧去补全吧"
+for li in `seq 3`;do
+if [[  "$linenum1" -le 1  ]] || [[  "$lineraw" == ""  ]];then
+[[  $lineraw != ""  ]] &&  p="$lineraw" && prep
+p="$theline" &&  prep
 break
 fi
-
 therandom=$(($RANDOM%$linenum+1))
 [[  $lineraw != ""  ]] && p="$(printf "$lineraw" | head -n$therandom | tail -n1)" && prep
 lineraw="$(printf  "${lineraw}\n${lineraw}\n" |  tail -n $((linenum*2-therandom)) | head -n$((linenum-1)))"       ##在sed内放变量需要""
 linenum=$((linenum-1))
 
+#
 if  [[  $li -ge 3  ]] ;then
 p="$theline" && prep
  break
