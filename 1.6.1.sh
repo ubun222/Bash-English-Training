@@ -1250,16 +1250,20 @@ for t in `seq $iq`;do
 tt=t
 t1=$((tt-1))
 id=${p:$t1:1}
-if [[  "$id"  ==  [\ -\ÿ]   ]];then
+if [[  "$id"  ==  [\ -\ÿ^——]   ]];then
 counts=$((counts+1))
 else
 counts=$((counts+2))
 fi
 #tt=$((tt+1))
-if [[  "$counts" -ge "$CO"  ]] ;then
-[[  "$((counts%CO))" -eq 1  ]] && whereadd=$((counts/COLUMN)) && return 5 
-[[  "$((counts%CO%2))" -eq 0  ]] && CO=$((CO+COLUMN))
 
+if [[  "$counts" -ge "$CO"  ]] ;then
+
+[[  "$((counts%CO))" -eq 0  ]] && CO=$((CO+COLUMN)) && st=$((tt))
+[[  "$((counts%CO))" -eq 1  ]] && whereadd=$((counts/COLUMN)) && return 5 
+#[[  "$((counts%CO%2))" -eq 1  ]] && st=$((tt-3)) && CO=$((CO+COLUMN)) && return 5
+#[[  "$((counts%CO))" -eq 0  ]] && CO=$((CO+COLUMN)) && st=$((tt))
+#[[  "$((counts%CO))" -eq 3  ]] && st=$((tt-3))
 continue
 else
 continue
@@ -1278,11 +1282,14 @@ prep()
 
 if [[  "$ish" == "y"  ]];then
 while true;do
+st=0
 Fresh
 if [[  "$?" -eq 5  ]];then
-whereadd=$((whereadd-1))
-addwhere=$((whereadd*COLUMN))
-p="${p:0:$addwhere} ${p:$addwhere}"
+#st=${st:-0}
+#current=$((current-st))
+#whereadd=$((whereadd-1))
+#addwhere=$((whereadd*COLUMN))
+p="${p:0:$st}~${p:$st}"
 else
 break
 fi
@@ -1419,6 +1426,7 @@ inquiry="$(printf %s  "$pureanswer" | sed s/"$answer"/$bot/g)"
 counts1=0
 fresh()
 {
+st=0
 whereadd=1
 addwhere=
 counts=0
@@ -1428,7 +1436,7 @@ iq=${#inquiry}
 for t in `seq $iq`;do
 tt=t
 t1=$((tt-1))
-id=${inquiry:$t1:1}
+id="${inquiry:$t1:1}"
 if [[  "$id"  ==  [\ -\ÿ]   ]];then
 counts=$((counts+1))
 else
@@ -1436,8 +1444,10 @@ counts=$((counts+2))
 fi
 #tt=$((tt+1))
 if [[  "$counts" -ge "$CO"  ]] ;then
-[[  "$((counts%CO))" -eq 1  ]] && counts1=$((counts1+1)) && whereadd=$((counts/COLUMN))  && return 5
-[[  "$((counts%CO%2))" -eq 0  ]] && CO=$((CO+COLUMN))
+[[  "$((counts%CO))" -eq 0  ]] && CO=$((CO+COLUMN)) && st=$((tt))
+[[  "$((counts%CO))" -eq 1  ]] && return 5
+#[[  "$((counts%CO%2))" -eq 1  ]] && st=$((tt-3)) && CO=$((CO+COLUMN))
+#[[  "$((counts%CO))" -eq 0  ]]  && CO=$((CO+COLUMN)) && st=$((tt))
 continue
 else
 continue
@@ -1448,25 +1458,25 @@ done
 while true;do
 fresh
 if [[  "$?" -eq 5  ]];then
-whereadd=$((whereadd-1))
-addwhere=$((whereadd*COLUMN))
+#whereadd=$((whereadd-1))
+#addwhere=$((whereadd*COLUMN))
 while true;do
-if [[  "${inquiry:$addwhere:1}" == "-"  ]] ;then
-addwhere=$((addwhere+1))
+if [[  "${inquiry:$st:1}" == "-"  ]] ;then
+st=$((st+1))
 else
 break
 fi
 done
-inquiry="${inquiry:0:$addwhere} ${inquiry:$addwhere}"
+inquiry="${inquiry:0:$st}~${inquiry:$st}"
 #front="${front:0:$addwhere} ${front:$addwhere}"
-pureanswer="${pureanswer:0:$addwhere} ${pureanswer:$addwhere}"
+pureanswer="${pureanswer:0:$st}~${pureanswer:$st}"
 else
 break
 fi
 done
 
-front="$(printf %s "$inquiry" | awk -F'--' '{print $1}')"
-middle="$(printf %s "$inquiry" | awk -F'-' '{print $NF}')"
+front="$(printf "%s" "$inquiry" | awk -F'--' '{print $1}')"
+middle="$(printf "%s" "$inquiry" | awk -F'-' '{print $NF}')"
 
 #counts=$((counts1+counts2))
 #calc=$((counts1%COLUMN))
@@ -1492,8 +1502,10 @@ scanf=
 qi=0
 #[[  "$count1" -eq 1  ]] &&  qi=count1
 #printf $up
-[[  "$((it-aiq+1+qi))" -ne "$COLUMN"  ]] &&  printf "$answerd\b"
-[[  "$((it-aiq+1+qi))" -eq "$COLUMN"  ]] && printf "$answerd\b\033[1C"
+frontup="$((it-aiq+1+qi))"
+frontup=$((frontup%COLUMN))
+[[  "$frontup" -ne "0"  ]] &&  printf "$answerd\b"
+[[  "$frontup" -eq "0"  ]] && printf "$answerd\b\033[1C"
 printf "\033[1m"
 iq=$aiq
 Readen
@@ -1503,7 +1515,13 @@ addscan=0
 [[  ${scanf} ==  ""   ]] && addscan=1
 add=$((aiq-${#scanf}))
 it=$((it-add+addscan))
-[[  "$it" -gt "$COLUMN"  ]] && fup=$((it/COLUMN)) &&  printf "\033[${fup}A"
+fup=$((it/COLUMN))
+if [[  "$fup" -ge 1  ]] &&  [[  "$it" -gt "$((fup*COLUMN))"  ]];then  
+printf "\033[${fup}A"
+elif [[  "$fup" -gt 1  ]] && [[  "$it" -le "$((fup*COLUMN))"  ]] ;then
+printf "\033[$((fup-1))A"
+fi
+
 #printf "\033[${up}A"
 #printf "$pureanswer"
 if [[  "$scanf" == "$answer"  ]];then
