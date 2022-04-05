@@ -420,12 +420,10 @@ loadcontent()
 {
 #cd "$Path"
 #recordls
-
     c="$(echo "$targets" | tr " " "\n")"
     cnum="$(echo "$c" | wc -l)"
 while read line ;do
- [[  ${line} != ""  ]] &&  content="$(cat "$line" | grep -A 99999 \\\\)
-
+ [[  ${line} != ""  ]] && content="$(cat "$line")
 
 
 $content"
@@ -1250,7 +1248,7 @@ for t in `seq $iq`;do
 tt=t
 t1=$((tt-1))
 id=${p:$t1:1}
-if [[  "$id"  ==  [\ -\ÿ^——]   ]];then
+if [[  "$id"  ==  [\ -\ÿ]   ]];then
 counts=$((counts+1))
 else
 counts=$((counts+2))
@@ -1312,9 +1310,9 @@ targets=${targets:-/dev/null}
     #echo "$theline"
     [[  "$preline" ==  ''  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] &&  echo '该单词还未收录哦，赶紧去补全吧！'&& echo @第"$gi"题 && return 0
  #   linenum=$(echo  "$content"|  grep -a   -v  $'\t'   |  grep -a   -B 30 "^${answer1} |"  | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]' | grep -a  -v "^${answer1} |" | wc -l)
-    lineraw=$(echo  "$content" | grep -a    -B 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]'| grep -a  -v "${answer1} |" )
+    lineraw=$(printf "$content" | grep  -B 30 "^${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  "[	\\]"| grep -a  -v "${answer1} |" )
 
-    linenum="$(echo "$lineraw" | grep -a  '[^ \]' |  grep -a  -v "${answer1} |" | wc -l)"
+    linenum="$(echo "$lineraw" | grep  '[^ \]' |  grep -a  -v "${answer1} |" | wc -l)"
     #echo $linenum
     if [[  "${linenum:-0}" -eq 0  ]];then
     echo '该单词还未收录哦，赶紧去补全吧！' && echo @第"$gi"题 && return 0
@@ -1360,7 +1358,7 @@ targets=${targets:-/dev/null}
 #echo $linenum
 #[[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -a  -B 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
 
-lineraw1="$(echo  "$content" | grep  "${answer1}" )"
+lineraw1="$(echo  "$content" | grep  "${answer1}" | grep -v  "[	\\]" )"
 #lineraw="$(echo "$lineraw1" | grep  -v '|' | sed "s/$answer1/\\\033[1m\\\033[33m$answer1\\\033[0m/g" )"
 lineraw="$(echo "$lineraw1" | grep  -v '|')"
 theline="$(printf "$lineraw1"| grep "${answer1} |"  | head -n1)"
