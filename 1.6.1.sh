@@ -1,7 +1,7 @@
 ##!/usr/local/bin/bash
 #read -r -d '\' txt1 < $1  && read -r -d '\' txt2 < $2 && read -r -d '\' txt3 < $3
 #txt=$( echo $txt1 && echo $txt2 && echo $txt3)i 
-p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=${use:-2};wlist=1;a0=1;lastn=1;tno=0;ca0=0;bigi=0;RC=0;record=0
+p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=${use:-2};wlist=1;a0=1;lastn=1;tno=0;ca0=0;bigi=0;RC=0;record=0;RWN1=1
 #dirname $0
 Path="$(dirname $0)"
 tline=$(printf "\033[1A\033[32m●\033[0m\n")
@@ -420,18 +420,22 @@ loadcontent()
 {
 #cd "$Path"
 #recordls
+struct
     c="$(echo "$targets" | tr " " "\n")"
     cnum="$(echo "$c" | wc -l)"
 while read line ;do
- [[  "${line}" != ""  ]] && content="$(cat "$line")
 
-
-
+if  [[  "${line}" != ""  ]] ;then
+exec 4<"$line"  && content="$(cat <&4)
 $content"
+
+eval pt$RWN1="${line}"
+RWN1=$((RWN1+1))
+
+fi
 done <<EOF
 $c
 EOF
-
 #printf %s "$content" | grep "\\\\"
     #for i in $(seq $cnum);do
     #content="$(cat $(echo "$c" | sed -n "$i,${i}p" ) | grep -A 99999 \\\\  )
@@ -451,7 +455,7 @@ echo "在txt目录创建 /CORRECT/${thepath} 文件夹" && cp -r ${thepath%%/}  
 #ls
 fi
 cd CORRECT
-cd $thepath
+cd "$thepath"
 
  #[[   -d ./CORRECT  ]] &&
 
@@ -470,7 +474,7 @@ fi
 done <<EOF
 $(echo "$targets" | tr " " "\n" )
 EOF
-struct
+cd ../../"$thepath"
     read -t 3
 
 
@@ -496,7 +500,6 @@ done <<EOF
 $(echo "$targets" | tr " " "\n" )
 EOF
 #echo "$targets" | tr " " "\n"
-struct
     read -t 3
 
 
@@ -662,10 +665,10 @@ printf "\r$(echo $pureanswer | tr '/' ' ')"
 echo
 fi
 
+[[  "$record" -eq 1   ]] && cd ../CORRECT/"$thepath"
 if [[  "$RC" -eq 1  ]]  && [[  "$record" -eq 1   ]];then
 #m=$((m/2))
 #echo $m
-
 row=$(eval "$allif")
 eval therw=\${rw$row}
 #printf $answer1
@@ -725,7 +728,7 @@ if  [[  "$Dtop"  ==  "1"   ]] ;then
 fi
 fi
 fi
-
+[[  "$record" -eq 1   ]] && cd ../../"$thepath"
 }
 
 Readzh()
@@ -958,7 +961,7 @@ FIND()
 [[  "$calenda" -eq 0   ]] &&  cd  "$(pwd "$0")"
 cpath="$(pwd)"
 #pwd
-[[  "$calenda" -eq 1   ]] && [[ "$record" -eq 1  ]] && cd ../../"$thepath" 
+#[[  "$calenda" -eq 1   ]] && [[ "$record" -eq 1  ]] && cd ../../"$thepath" 
 fscanf=
 bot=
 alltxt="$txt"
@@ -1305,8 +1308,10 @@ yes()
 {
     printf "\033[0m"
 targets=${targets:-/dev/null}
-    #echo $targets
-    lineraw="$(printf %s "$content" | grep  -B 30 ^"${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  "[	\\]" )"
+
+row=$(eval "$allif")
+eval thept=\${pt$row}
+    lineraw="$(cat "$thept" | grep  -B 30 ^"${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  "[	\\]" )"
 
 #echo "$lie
     #preline="$(echo  "$content" | grep -B 1 ^"${answer1} |" )"
