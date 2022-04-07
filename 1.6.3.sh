@@ -980,7 +980,7 @@ echo 查找$1
 #targets="$(cat "$targets" | grep -e  ....txt)"
  while read target;do
 find='';find2='';find1=''
-find="$(cat "$target" | grep  "^$1	")"
+find="$(cat "$target" | grep  "$1	")"
 if [[  "$find" != ""  ]];then
 echo $strs
 echo "在词表中：$target"
@@ -1038,12 +1038,12 @@ IFS=$IFSbak
 #echo ascanf:$ascanf
 sleep 0.012
 
-if [[  $fascanf  ==  [a-zA-Z' '-]  ]];then
+if [[  $fascanf  ==  [a-zA-Z' '-^.*]  ]];then
 
 #let scanf$i=ascanf
 fscanf=$fscanf${fascanf}
 #backbot=$(printf %s $bot | tr "-" "\\b")
-is=${#fscanf}
+#is=${#fscanf}
 backscanf=
 #for i in $(seq $is);do
 #backscanf="$backscanf$Back"
@@ -1052,30 +1052,47 @@ printf  "$fascanf"
 #printf "$ascanf"
 #ls
 #echo 1
-i=$((i+1))
+#i=$((i+1))
 #fascanf="!!"
 continue
-elif [[  "$fascanf" == "$B"  ]]  ;then
+elif [[  "$fascanf" == "$B"  ]] && [[  "${#fscanf}" -gt 0 ]]  ;then
 #printf 22
 #printf "\b"
 is=${#fscanf}
-fscanf=${fscanf%[a-zA-Z' '-]}
-#printf "$enter$spaces${spaces% }\r"$question"——————:$bot\r"$question"——————:$scanf"
-backscanf=
-blocks=
-for si in $(seq $is);do
-backscanf="$backscanf"$Back
-blocks=$blocks' '
-done
-#[[  "$is" -ge  1   ]] && [[  "$is" -le "$iq" ]] &&  printf %s "$Back" && continue
-[[  "$is" -ge  1   ]] && printf %s $Back" "$Back
-continue
+ if [[  "${fscanf:$((is-1))}" == [a-zA-Z' '-^.*]  ]];then
+ fscanf=${fscanf%[a-zA-Z' '-^.*]} && is=$((is-1))
+printf  "$Back $Back" && continue
+
+
+elif [[  "${fscanf:$((is-1))}" !=  [$B\'a-zA-Z'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]]  ;then
+
+fscanf="${fscanf:0:$((is-1))}" && is=$((is-1))
+ printf  "$Backs$Block$Backs"  && continue
+fi
 elif [[  $fascanf == "$LF"  ]] || [[  $fascanf == "$CR"  ]] || [[  $fascanf == ""  ]] && [[  $ftf == "0"  ]] ;then
 echo
 break
-else
+#printf "$enter$spaces${spaces% }\r"$question"——————:$bot\r"$question"——————:$scanf"
+elif [[  "$fascanf" !=  [$B\'a-zA-Z'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]]  ;then
+#N="$((N+1))"
+#fscanf="$(printf "$fscanf${fascanf}")"
+
+zscanf="$(printf "$zscanf${fascanf}")"
+# [[  "${#zscanf}" == "3"   ]] && LENGTH=$((LENGTH+2))
+#done
+#echo 123 && printf $Backs
+#fi
+#echo $N
+if  [[  ${#zscanf} -eq "1"  ]]  ;then
+ 
+sleep 0.0016
+printf "$zscanf"  && fscanf="$(printf "$fscanf${zscanf}")" && zscanf= && sleep 0.0032
+
+
+fi
 continue
 fi
+fascanf=
 done
 
 [[  "$fscanf" == "" ]]  && xwords="$(echo "$alltxt" | awk  'BEGIN{FS="	"}{print $1}' | sort | uniq )" && findx && [[  "$calenda" -eq 1   ]] &&  cd "$cpath" && echo 退出  && return 0
