@@ -353,7 +353,7 @@ spaces="$spaces "
 done
 title=${spaces#              }
 for STR in $(seq $((COLUMN)));do
-strs="$strs-"
+strs="$strs"—
 done
 COL=$((COLUMN+14))
 
@@ -394,8 +394,6 @@ prt()
     done
 }
 #printf "$(whoami), 背会儿单词吗?\r\n"
-printf " 回车以继续\r"
-read
 printf "\033[?25l"
 clear
 [[  $COLUMN -ge 38  ]] && prt "\033[1m$hello\n$hi\n$hey"
@@ -545,7 +543,7 @@ output=$((list100/$((cha))))
  #echo $output
  output25=$((output/4))
 trial=$((output25-outputed))
-[[ $trial -eq 1  ]] && str=$str#
+[[ $trial -eq 1  ]] && str="$str"█
 outputed=${output25:-0}
 printf "\033[?25l\033[k\r                          ]${output}\r ${str}\r["
 #[[ ${#str} = 25 ]] && str=
@@ -554,7 +552,7 @@ list100=$(($((list*100))))
 output=$((list100/$((cha))))
 output5=$((output/20))                                 
 trial=$((output5-outputed))                            
-[[ $trial -eq 1 ]] && str=$str#####
+[[ $trial -eq 1 ]] && str="$str"█████
 outputed=${output5:-0}                                 
 printf "\033[?25l\033[k\r                          ]${output}\r ${str}\r["
 
@@ -1150,7 +1148,7 @@ output=$((list100/$((cha))))
  #echo $output
  output25=$((output/4))
 trial=$((output25-outputed))
-[[ $trial -eq 1  ]] && str=$str#
+[[ $trial -eq 1  ]] && str="$str"█
 outputed=${output25:-0}
 printf "\033[?25l\033[k\r                          ]${output}\r ${str}\r["
 #[[ ${#str} = 25 ]] && str=
@@ -1159,7 +1157,7 @@ list100=$(($((list*100))))
 output=$((list100/$((cha))))
 output5=$((output/20))
 trial=$((output5-outputed))
-[[ $trial -eq 1 ]] && str=$str#####
+[[ $trial -eq 1 ]] && str="$str"█████
 outputed=${output5:-0}
 printf "\033[?25l\033[k\r                          ]${output}\r ${str}\r["
 
@@ -1451,7 +1449,7 @@ for t in `seq $iq`;do
 tt=t
 t1=$((tt-1))
 id="${inquiry:$t1:1}"
-if [[  "$id"  ==  [\ -\ÿ]   ]];then
+if [[  "$id"  ==  [\ -\—]   ]];then
 counts=$((counts+1))
 else
 counts=$((counts+2))
@@ -2459,7 +2457,8 @@ while getopts ":rsi" opt; do
 esac
 done
 
-
+printf " 回车以继续\r"
+read
 
 stdin
 
