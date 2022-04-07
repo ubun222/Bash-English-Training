@@ -679,8 +679,8 @@ if [[  "$locate" ==  ""  ]]  ;then
 
 #None=$(cat /dev/null)
 
-Ylineraw="$(echo  "$content" | grep -B 30 ^"${answer1} [^A-z]" | head -n31 | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  '[\	]' | grep -v ^"[ ]" )"
-Vlineraw="$(echo  "$content" | grep "${answer1}[. ][A-z]" )"
+Ylineraw="$(echo  "$content" | grep -B 30 ^"${answer1} [^A-Z^a-z]" | head -n31 | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  '[\	]' | grep -v ^"[ ]" )"
+Vlineraw="$(echo  "$content" | grep "${answer1}[. ][A-Za-z]" )"
 #Vlineraw="$(echo "$Vlineraw1" | grep   -v '|')"
 #Vpreline="$(echo "$content" | grep  "${answer1} |")"
 
@@ -904,7 +904,7 @@ tf=$?
 IFS=$IFSbak
 #echo ascanf:$ascanf
 
-if [[  $ascanf  ==  [A-z' '-]  ]];then
+if [[  $ascanf  ==  [A-Za-z' '-]  ]];then
 #let scanf$i=ascanf
 scanf=$scanf${ascanf}
 #backbot=$(printf %s $bot | tr "-" "\\b")
@@ -1052,7 +1052,7 @@ printf  "$fascanf"
 #printf "$ascanf"
 #ls
 #echo 1
-#i=$((i+1))
+i=$((i+1))
 #fascanf="!!"
 continue
 elif [[  "$fascanf" == "$B"  ]] && [[  "${#fscanf}" -gt 0 ]]  ;then
@@ -1335,7 +1335,7 @@ eval thept=\${pt$row}
     #echo "$theline"
    # [[  "$preline" ==  ''  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] &&  echo '该单词还未收录哦，赶紧去补全吧！'&& echo @第"$gi"题 && return 0
  #   linenum=$(echo  "$content"|  grep -a   -v  $'\t'   |  grep -a   -B 30 "^${answer1} |"  | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]' | grep -a  -v "^${answer1} |" | wc -l)
-    linenum="$(echo "$lineraw" | grep "[A-z]" | wc -l)"
+    linenum="$(echo "$lineraw" | grep "[A-Za-z]" | wc -l)"
     #echo $linenum
     if [[  "${linenum:-0}" -eq 0  ]];then
     echo '该单词还未收录哦，赶紧去补全吧！' && echo @第"$gi"题 && return 0
@@ -1695,7 +1695,7 @@ printf "\r$answer    $answer1"
 fi
 #printf "\033[1A"
 read
-verbs="$(printf %s "$content" | grep "^$answer1 [^A-z]" )"
+verbs="$(printf %s "$content" | grep "^$answer1 [^A-Z^a-z]" )"
 
 printf "\033[1m%s\n\033[0m" "$verbs"
 
@@ -1789,7 +1789,7 @@ printf "\r\033[1m$answer    $answer2"
 #printf "\033[1A"
 fi
 read
-verbs="$(printf %s "$content" | grep ^"$answer1 [^A-z]" )"
+verbs="$(printf %s "$content" | grep ^"$answer1 [^A-Z^a-z]" )"
 printf "\033[1m%s\n\033[0m" "$verbs"
 
 fi
