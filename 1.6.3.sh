@@ -1267,7 +1267,7 @@ for t in `seq $iq`;do
 tt=t
 t1=$((tt-1))
 id=${p:$t1:1}
-if [[  "$id"  ==  [—£¥€\ -\~]   ]];then
+if [[  "$id"  ==  [a-zA-Z\ -\—]   ]];then
 counts=$((counts+1))
 else
 counts=$((counts+2))
@@ -1466,7 +1466,7 @@ for t in `seq $iq`;do
 tt=t
 t1=$((tt-1))
 id="${inquiry:$t1:1}"
-if [[  "$id"  ==  [—£¥€\ -\~]   ]];then
+if [[  "$id"  ==  [a-zA-Z\ -\—]   ]];then
 counts=$((counts+1))
 else
 counts=$((counts+2))
@@ -2301,7 +2301,7 @@ question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长
 
 eval pureanswer="\${lr$m2}'	'\${lr$((m2+1))}"
 
-#answer1=`echo "$pureanswer" | awk -F'	' '{printf $1}' | tr '/' ' ' `
+answer1=`echo "$pureanswer" | awk -F'	' '{printf $1}' | tr '/' ' ' `
 answer2=`echo "$pureanswer" | awk -F'	' '{printf $2}' | tr '/' ' ' `
 
 la=${#question}
