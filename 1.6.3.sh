@@ -1267,7 +1267,7 @@ for t in `seq $iq`;do
 tt=t
 t1=$((tt-1))
 id=${p:$t1:1}
-if [[  "$id"  ==  [\ -\—]   ]];then
+if [[  "$id"  ==  [—£¥€\ -\~]   ]];then
 counts=$((counts+1))
 else
 counts=$((counts+2))
@@ -1466,7 +1466,7 @@ for t in `seq $iq`;do
 tt=t
 t1=$((tt-1))
 id="${inquiry:$t1:1}"
-if [[  "$id"  ==  [\ -\—]   ]];then
+if [[  "$id"  ==  [—£¥€\ -\~]   ]];then
 counts=$((counts+1))
 else
 counts=$((counts+2))
