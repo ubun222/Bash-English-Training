@@ -2030,7 +2030,7 @@ echo  "${strs}"
 
 pureanswer=$(echo "$txt" | sed -n "$m2,${m2}p" )
 
-
+answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
 
 la=${#question}
