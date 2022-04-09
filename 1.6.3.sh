@@ -680,7 +680,7 @@ if [[  "$locate" ==  ""  ]]  ;then
 #None=$(cat /dev/null)
 
 Ylineraw="$(echo  "$content" | grep -B 30 ^"${answer1} [^A-Z^a-z]" | head -n31 | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  '[\	]' | grep -v ^"[ ]" )"
-Vlineraw="$(echo  "$content" | grep "${answer1}[. ][A-Za-z]" )"
+Vlineraw="$(echo  "$content" | grep "${answer1}[. ][A-Za-z]" | grep -v "	" )"
 #Vlineraw="$(echo "$Vlineraw1" | grep   -v '|')"
 #Vpreline="$(echo "$content" | grep  "${answer1} |")"
 
@@ -1858,7 +1858,7 @@ do
 if [[  $random = 1 ]];then
 r1=$((r1+1))
 m=$r1
-if [[ $r1 = $((n-1)) ]];then
+if [[ $r1 = $((n)) ]];then
 r1=0
 fi
 
@@ -1964,7 +1964,7 @@ echo  "${strs}"
 pureanswer=$(echo "$txt" | sed -n "$m2,${m2}p")
 
 answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
-#answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
+answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
 
 la=${#answer1}
 la2=${#question}
