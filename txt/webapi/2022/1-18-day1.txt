@@ -14,7 +14,7 @@ standpoint				立场
 grab					抓住，霸占，赶紧做，吸引
 crucial				至关重要的
 flaw					瑕疵，错误，毁掉
-depressed				使沮丧，使萧条，按下
+depress					使沮丧，使萧条，按下
 obstacle				障碍
 automatic				自动的，无意识的，必然的，自动挡
 passionate				充满激情的，多情的
