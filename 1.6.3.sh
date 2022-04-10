@@ -1,12 +1,13 @@
 ##!/usr/local/bin/bash
 #read -r -d '\' txt1 < $1  && read -r -d '\' txt2 < $2 && read -r -d '\' txt3 < $3
 #txt=$( echo $txt1 && echo $txt2 && echo $txt3)i 
-p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=${use:-2};wlist=1;a0=1;lastn=1;tno=0;ca0=0;bigi=0;RC=0;record=0;RWN1=1
+p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=${use:-2};wlist=1;a0=1;lastn=0;tno=0;ca0=0;bigi=0;RC=0;record=0;RWN1=1
 #dirname $0
 Path="$(dirname $0)"
 tline=$(printf "\033[1A\033[32m●\033[0m\n")
 fline=$(printf "\033[1A\033[31m●\033[0m\n")
 nline=$(printf "\033[1A\033[33m○\033[0m\n")
+eline=$(printf "\033[1A\033[32m○\033[0m\n")
 save=$(printf "\033[s\n")
 reset=$(printf "\033[u\n")
 enter=$(printf "\r")
@@ -652,9 +653,10 @@ printf "\r$(echo $pureanswer | tr '/' ' ')\n"
 verbose
 elif [[ $bool = 's' ]] || [[ $bool = 'S' ]]  ; then
 RC=0
-#printf "\033[$((COLUMN-7))C跳过\n"
-#printf  "%${COL}s\n" ${nline}
-printf "\r%s\r" ${answer}
+sleep 0.01
+printf "\033[1A\n"
+printf  "%${COL}s\n" ${eline}
+printf "%s" "$(echo $pureanswer | tr '/' ' ')"
 echo
 printf "\033[0m"
 else
@@ -663,7 +665,7 @@ printf "\r$(echo $pureanswer | tr '/' ' ')"
 echo
 fi
 
-[[  "$record" -eq 1   ]] && cd ../CORRECT/"$thepath"
+[[  "$record" -eq 1   ]] && [[  "$calenda" -eq "1"  ]]  && cd ../CORRECT/"$thepath"
 if [[  "$RC" -eq 1  ]]  && [[  "$record" -eq 1   ]];then
 #m=$((m/2))
 #echo $m
@@ -726,7 +728,7 @@ if  [[  "$Dtop"  ==  "1"   ]] ;then
 fi
 fi
 fi
-[[  "$record" -eq 1   ]] && cd ../../"$thepath"
+[[  "$record" -eq 1   ]] && [[  "$calenda" -eq "1"  ]]  && cd ../../"$thepath"
 }
 
 Readzh()
