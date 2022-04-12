@@ -862,9 +862,7 @@ if  [[  ${#zscanf} -eq "1"  ]]  ;then
  
 sleep 0.0016
 printf "$zscanf"  && zscanf= && sleep 0.0032 && continue
-printf "$zscanf"  && zscanf= && sleep 0.0032 && continue
-printf "$zscanf"  && zscanf= && sleep 0.0032 && continue
-###优化ish漏字
+
 #printf $enter"$question"——————:$enter"$question"——————:"$scanf"$enter
 #ls
 #echo 1
@@ -898,7 +896,6 @@ GOBACK=$(printf "\033[1A")
 backbot=$(printf %s $bot | tr "-" "\\b") 
 #printf $backbot
 while true;do
-ascanf="!!"
 #eval ascanf=\${scanf$i}
 #IFSbak=$IFS
 IFS=$newline
@@ -918,14 +915,12 @@ backscanf=
 #backscanf="$backscanf$Back"
 #done
 sleep 0.012 && printf  "$ascanf"  && sleep 0.003  && continue
-sleep 0.012 && printf  "$ascanf"  && sleep 0.003  && continue
-sleep 0.012 && printf  "$ascanf"  && sleep 0.003  && continue
-###优化ish漏字
+
+###优化ish漏字和多字
 #printf "$ascanf"
 #ls
 #echo 1
-i=$((i+1))
-ascanf="!!"
+
 continue
 elif [[  "$ascanf" == "$B"  ]]  ;then
 #printf 22
