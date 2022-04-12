@@ -861,9 +861,10 @@ scanf="$(printf "$scanf${ascanf}")"
 if  [[  ${#zscanf} -eq "1"  ]]  ;then
  
 sleep 0.0016
-printf "$zscanf"  && zscanf= && sleep 0.0032
-
-
+printf "$zscanf"  && zscanf= && sleep 0.0032 && continue
+printf "$zscanf"  && zscanf= && sleep 0.0032 && continue
+printf "$zscanf"  && zscanf= && sleep 0.0032 && continue
+###优化ish漏字
 #printf $enter"$question"——————:$enter"$question"——————:"$scanf"$enter
 #ls
 #echo 1
@@ -917,6 +918,9 @@ backscanf=
 #backscanf="$backscanf$Back"
 #done
 sleep 0.012 && printf  "$ascanf"  && sleep 0.003  && continue
+sleep 0.012 && printf  "$ascanf"  && sleep 0.003  && continue
+sleep 0.012 && printf  "$ascanf"  && sleep 0.003  && continue
+###优化ish漏字
 #printf "$ascanf"
 #ls
 #echo 1
