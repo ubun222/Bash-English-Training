@@ -1,7 +1,7 @@
 ##!/usr/local/bin/bash
 #read -r -d '\' txt1 < $1  && read -r -d '\' txt2 < $2 && read -r -d '\' txt3 < $3
 #txt=$( echo $txt1 && echo $txt2 && echo $txt3)i 
-p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=${use:-2};wlist=1;a0=1;lastn=0;tno=0;ca0=0;bigi=0;RC=0;record=0;RWN1=1
+p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=${use:-2};wlist=1;a0=1;lastn=0;tno=0;ca0=0;bigi=0;RC=1;record=0;RWN1=1;gcounts=0
 #dirname $0
 Path="$(dirname $0)"
 tline=$(printf "\033[1A\033[32m●\033[0m\n")
@@ -665,7 +665,19 @@ printf "\r$(echo $pureanswer | tr '/' ' ')"
 echo
 fi
 
-[[  "$record" -eq 1   ]] && [[  "$calenda" -eq "1"  ]]  && cd ../CORRECT/"$thepath"
+[[  "$record" -eq 1   ]] && [[  "$calenda" -eq "1"  ]] && cd ../CORRECT/"$thepath"
+
+if [[  "$RC" -ne 1  ]]  && [[  "$passd" -eq 1   ]];then
+if [[  $mode == 3  ]];then
+
+rangem="$(echo "$rangem" | grep -v  ^"${m}"$ )"
+    gcounts=$((gcounts+1))
+else
+rangem="$(echo "$rangem" | grep -v  ^"${m2}"$ )"
+
+    gcounts=$((gcounts+1))
+fi
+fi
 if [[  "$RC" -eq 1  ]]  && [[  "$record" -eq 1   ]];then
 #m=$((m/2))
 #echo $m
@@ -728,13 +740,13 @@ if  [[  "$Dtop"  ==  "1"   ]] ;then
 fi
 fi
 fi
-[[  "$record" -eq 1   ]] && [[  "$calenda" -eq "1"  ]]  && cd ../../"$thepath"
+[[  "$record" -eq 1   ]] && [[  "$calenda" -eq "1"  ]] && cd ../../"$thepath"
 }
 
 Readzh()
 {
 bool=
-#N=0
+N=0
 ascanf=
 scanf=
 #Back="$(printf "\b")"
@@ -847,8 +859,8 @@ elif [[  $ascanf  !=  [$B\'a-zA-Z'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]];then
 #mulLb=
 #if [[  "$L" -gt "1"  ]] ;then
 #for i in $(seq $L);do
-
-N="$((N+1))"
+#N=$((N+1)) 
+sleep 0.01
 zscanf="$(printf "$zscanf${ascanf}")"
 
 scanf="$(printf "$scanf${ascanf}")"
@@ -858,11 +870,11 @@ scanf="$(printf "$scanf${ascanf}")"
 #echo 123 && printf $Backs
 #fi
 #echo $N
-if  [[  ${#zscanf} -eq "1"  ]]  ;then
- 
-sleep 0.0016
-printf "$zscanf"  && zscanf= && sleep 0.0032 && continue
+if  [[  ${#zscanf} -eq "1"  ]] ;then
+printf "$zscanf" && zscanf=  && continue
 
+
+###优化ish多字
 #printf $enter"$question"——————:$enter"$question"——————:"$scanf"$enter
 #ls
 #echo 1
@@ -890,12 +902,13 @@ ascanf=
 scanf=
 
 #printf $enter"$question"——————:
-
+N=0
 GOBACK=$(printf "\033[1A")
 #echo
 backbot=$(printf %s $bot | tr "-" "\\b") 
 #printf $backbot
 while true;do
+
 #eval ascanf=\${scanf$i}
 #IFSbak=$IFS
 IFS=$newline
@@ -905,21 +918,23 @@ IFS=$IFSbak
 #echo ascanf:$ascanf
 
 if [[  $ascanf  ==  [A-Za-z' '-]  ]];then
+sleep 0.015
 #let scanf$i=ascanf
 scanf=$scanf${ascanf}
 #backbot=$(printf %s $bot | tr "-" "\\b")
 is=${#scanf}
 backscanf=
-
+#N=$((N+1))
 #for i in $(seq $is);do
 #backscanf="$backscanf$Back"
 #done
-sleep 0.012 && printf  "$ascanf"  && sleep 0.003  && continue
+printf  "$ascanf"  && continue
 
-###优化ish漏字和多字
+###优化ish漏字
 #printf "$ascanf"
 #ls
 #echo 1
+
 
 continue
 elif [[  "$ascanf" == "$B"  ]]  ;then
@@ -1297,29 +1312,36 @@ eval "$1=\$(echo \"\$$1\" | sed \"s/$answer1/\\\\\\033[1m\\\\\\033[33m$answer1\\
 
 prep()
 {
-
 if [[  "$ish" == "y"  ]];then
 while true;do
 st=0
 Fresh
 if [[  "$?" -eq 5  ]];then
-#st=${st:-0}
-#current=$((current-st))
-#whereadd=$((whereadd-1))
-#addwhere=$((whereadd*COLUMN))
 p="${p:0:$st}~${p:$st}"
 else
 break
 fi
 done
 fi
-
 [[  "$bool" == "v"  ]]  && replace p
-
 printf "$p\n"
 }
 
-
+sprep()
+{
+if [[  "$ish" == "y"  ]];then
+while true;do
+st=0
+Fresh
+if [[  "$?" -eq 5  ]];then
+p="${p:0:$st}~${p:$st}"
+else
+break
+fi
+done
+fi
+printf "$p\n"
+}
 yes()
 {
     printf "\033[0m"
@@ -1398,7 +1420,7 @@ linenum=$(echo "$lineraw" | wc -l)
 for li in `seq 3`;do
 if [[  "$linenum1" -le 1  ]] || [[  "$lineraw" == ""  ]];then
 [[  $lineraw != ""  ]] &&  p="$lineraw" && prep
-p="$theline" &&  prep
+p="$theline" &&  sprep
 break
 fi
 therandom=$(($RANDOM%$linenum+1))
@@ -1408,12 +1430,15 @@ linenum=$((linenum-1))
 
 #
 if  [[  $li -ge 3  ]] ;then
-p="$theline" && prep
+p="$theline" &&  sprep
  break
  fi
 done
-
-echo @还有"$(($ii-$gi))"题
+theleft=$((ii-gi))
+if [[  "$passd" -eq 1   ]] ; then
+theleft=$((constn-gcounts))
+fi
+echo @还有"$theleft"题
 }
 
 
@@ -1821,8 +1846,8 @@ printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English
 
 echo
 printf  "\033[0m\033[?25l"
-printf "I,提词器${spaces#              }II,完形填空${spaces#                }III,四选一"
-read  premode
+[[  "$record" == "1"  ]] || [[  "$passd" == "1"  ]] && [[  "$calenda" == "1"  ]]  && printf "I,提词器 " &&  read  premode && gcounts=0
+[[  "$record" != "1"  ]] && [[  "$passd" != "1"  ]] && printf "I,提词器${spaces#              }II,完形填空${spaces#                }III,四选一" &&  read  premode
 if [[  "${premode:-1}" -eq 2  ]];then
 _FUN
 return 0
@@ -1830,8 +1855,6 @@ elif [[  "${premode:-1}" -eq 3  ]];then
 FUN_
 return 0
 fi
-
-
 printf "I,英译中${spaces#              }II,中译英${spaces#              }III,混合"
 read -n 1 mode
 [[  "$mode" == $LF  ]] && mode=3
@@ -1843,36 +1866,47 @@ echo
 #printf "需要多少题目:" 
 #read ii
 ii=99
+[[  "$passd" -eq 1   ]] && [[  "$calenda" == "1"  ]] && ii=999
 printf "\033[0m"
 number0=0;
 #raw=$[raw-1];
 #r1=raw;r2=raw;
 r1=${raw:-number0};r2=${raw:-((n+1))}
-if [[ $mode = 3 ]] ;then
+constn=$n
+if [[  $mode == 3  ]] ;then
+rangem="$(seq $n)"
 longtxt=$(echo "$txt"  | tr -s "	"  "\n")
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
 for gi in $(seq 1 $ii)
 do
-#m=$[n-1]
-#m=$(($RANDOM%$m+1))
+if [[  $passd -eq 1  ]] ;then
+    [[  "$RC" -eq 0  ]] && r1=$((r1-1)) && r2=$((r2-1)) && n=$((n-1))
+    #m=$(echo "$rangem" | sed -n "$m,${m}p")
+    [[  $((constn)) -eq $gcounts  ]] && echo 过关了!!!  && return 0
+fi
 
-if [[  $random = 1 ]];then
+if [[  $random == 1 ]];then
 r1=$((r1+1))
 m=$r1
-if [[ $r1 = $((n)) ]];then
+
+if [[ $r1 == $((n)) ]];then
 r1=0
 fi
 
 elif [[  $random = 2 ]];then
 r2=$(($r2-1))   #因为最长的行数n始终比算出来的+1，减一后刚好
 m=$r2
-if [[ $r2 = 1 ]];then
+if [[ $r2 == 1 ]];then
 r2=$n
 fi
 
-elif [[  $random = 3 ]];then
+elif [[  $random == 3 ]];then
 m=$((n))
 m=$(($RANDOM%$m+1))
+fi
+
+if [[  $passd -eq 1  ]] ;then
+m="$(echo "$rangem" | sed -n "$m,${m}p")"
 fi
 
 question=$(echo "$longtxt" | sed -n "$m,${m}p" | tr '/' ' ')
@@ -1902,8 +1936,8 @@ else
 read -e -p  "$question"======:  scanf
 fi
 
-elif [[ "$question" = "$answer2" ]] ;then
-
+#elif [[ "$question" = "$answer2" ]] ;then
+else
 #echo $length
 answer=$answer1
 if [[  $COLUMN -ge $length  ]];then
@@ -1929,16 +1963,25 @@ fi
 fi
 bot=
 
-(colourp >/dev/tty) &>/dev/null
+colourp 2>/dev/null
 
 done
 fi
-if [[ $mode = 2 ]] ;then
+if [[  $mode = 2  ]] ;then
+constn=$((constn/2))
+[[  "$passd" -eq 1  ]] && rangem="$(seq $((n/2)))"
 m=$(($(($n-$((n%2))))/2))
 r2=$((m+1))  #为了抵消下面的-1
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
 for i in $(seq 1 $ii)
 do
+
+if [[  $passd -eq 1  ]] ;then
+    [[  "$RC" -eq "0"  ]] && r1=$((r1-1)) && r2=$((r2-1)) && m=$((m-1))
+       # m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
+    [[  "$((constn))" -eq "$gcounts"  ]] && echo 过关了!!!  && return 0
+fi
+
 
 if [[  $random = 1 ]];then
 r1=$((r1+1))
@@ -1958,6 +2001,12 @@ elif [[  $random = 3 ]];then
 
 m2=$(($RANDOM%$m+1))
 fi
+
+if [[  $passd -eq 1  ]] ;then
+        m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
+fi
+
+
 question=$(echo "$txt"| sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}' | tr '/' ' ')
 sleep 0.01
 echo  "${strs}"
@@ -1992,19 +2041,25 @@ fi
 
 bot=''
 
-(colourp >/dev/tty) &>/dev/null
+colourp 2>/dev/null
 
 done
 fi
 
 
-if [[ $mode = 1 ]] ;then
+if [[  $mode = 1  ]] ;then
+constn=$((constn/2))
+[[  "$passd" -eq 1  ]] && rangem="$(seq $((n/2)))"
 m=$(($(($n-$((n%2))))/2))
 r2=$((m+1))   #为了抵消下面的-1
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
 for i in $(seq 1 $ii)
 do
-
+if [[  $passd -eq 1  ]] ;then
+    [[  "$RC" -eq "0"  ]] && r1=$((r1-1)) && r2=$((r2-1)) && m=$((m-1))
+       # m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
+    [[  "$((constn))" -eq "$gcounts"  ]] && echo 过关了!!!  && return 0
+fi
 
 if [[  $random = 1 ]];then
 r1=$((r1+1))
@@ -2024,6 +2079,11 @@ elif [[  $random = 3 ]];then
 
 m2=$(($RANDOM%$m+1))
 fi
+
+if [[  $passd -eq 1  ]] ;then
+        m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
+fi
+
 
 question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
 sleep 0.01
@@ -2052,7 +2112,7 @@ fi
 
 #echo $answer1
 #echo $answer2 
-(colourp >/dev/tty) &>/dev/null
+colourp 2>/dev/null
 done
 fi
 }
@@ -2163,8 +2223,8 @@ Readzh
 else
 read -e -p  "$question"======:  scanf
 fi
-
-elif [[ "$question" = "$answer2" ]] ;then
+else
+#elif [[ "$question" = "$answer2" ]] ;then
 #echo $length
 answer=$answer1
 if [[  $COLUMN -ge $length  ]];then
@@ -2191,7 +2251,7 @@ bot=
 #echo $answer1
 #echo $answer2 
 #if [[ $scanf = $answer1 ]] || [[ $scanf = $answer2 ]];then
-(colourp >/dev/tty) &>/dev/null
+colourp 2>/dev/null
 done
 fi
 
@@ -2260,7 +2320,7 @@ bot=
 #echo $answer1
 #echo $answer2 
 #if [[ $scanf = $answer1 ]] || [[ $scanf = $answer2 ]];then
-(colourp >/dev/tty) &>/dev/null
+colourp 2>/dev/null
 done
 fi
 
@@ -2321,7 +2381,7 @@ bot=
 #echo $answer1
 #echo $answer2 
 #if [[ $scanf = $answer1 ]] || [[ $scanf = $answer2 ]];then
-(colourp >/dev/tty) &>/dev/null
+colourp 2>/dev/null
 done
 fi
 
@@ -2351,6 +2411,8 @@ catable=$?
 if [[  $catable -eq 0  ]];then
 txt="$(cat ${rp} |  grep -a  -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )
 $txt"
+
+#echo "$txt"
        # txt=${txt%% }
 retargets=${rp}' '$retargets
        # txt=${txt%%@}
@@ -2460,8 +2522,11 @@ done
 
 
 
-while getopts ":rsi" opt; do
+while getopts ":rsip" opt; do
     case $opt in
+        p)
+        echo 通关模式 && passd=1
+        ;;
         r)
         echo 错题集模式 && record=1
         ;;
