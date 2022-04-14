@@ -743,6 +743,19 @@ fi
 [[  "$record" -eq 1   ]] && [[  "$calenda" -eq "1"  ]] && cd ../../"$thepath"
 }
 
+
+_read()
+{
+if [[  "$ascanf" != ""   ]] ;then
+
+printf "$ascanf" | awk  '{printf $0}' | tr -d ""
+
+fi
+IFS=$ENTER
+sleep 0.0001 && read -s -n1 ascanf && sleep 0.0002
+IFS=$IFSbak
+}
+
 Readzh()
 {
 bool=
@@ -762,15 +775,13 @@ Lb=0
 zscanf=
 #printf $enter"$question"——————:
 while true;do
-mulLb=0
 #ascanf="!!"
 #eval ascanf=\${scanf$i}
 #IFSbak=$IFS
-IFS=$ENTER
-
-read -s -n1   ascanf
+#IFS=$ENTER
+_read
 tf=$?
-IFS=$IFSbak
+#IFS=$IFSbak
 #printf "$question"——————:"$scanf"$enter
 
 #sleep 0.0016
@@ -781,6 +792,7 @@ if [[  "$ascanf" == "$B"  ]]  ;then
 #echo 123
 #printf 22
 #printf "\b"
+ascanf=
 L="${#scanf}"
 
 #if [[  "$L" -gt "1"  ]] ;then
@@ -810,7 +822,7 @@ scanf="${scanf:0:$L}"
 continue
 
 elif [[  $ascanf  ==  [\'0-9a-zA-Z'~!@#$^&*()_+{}|:"<>?/;][=-`']  ]];then
-
+ascanf=
 continue
 
 
@@ -828,7 +840,7 @@ ascanf="，"
 #done
 #echo 123 && printf $Backs
 #fi
-printf "$ascanf"
+#printf "$ascanf"
 
 continue
 elif [[  $ascanf  ==  [.]  ]];then
@@ -841,11 +853,12 @@ ascanf="."
 #done
 #echo 123 && printf $Backs
 #fi
-printf "$ascanf"
+#printf "$ascanf"
 continue
 elif [[  "$ascanf"  ==  "$D"  ]];then
 FIND
 bool=s
+ascanf=
 break
 
 elif [[  "$ascanf" == "$LF"  ]] || [[  "$ascanf" == "$CR"  ]] || [[  "$ascanf" == ""  ]] && [[  $tf == "0"  ]] ;then
@@ -860,7 +873,6 @@ elif [[  $ascanf  !=  [$B\'a-zA-Z'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]];then
 #if [[  "$L" -gt "1"  ]] ;then
 #for i in $(seq $L);do
 #N=$((N+1)) 
-sleep 0.01
 zscanf="$(printf "$zscanf${ascanf}")"
 
 scanf="$(printf "$scanf${ascanf}")"
@@ -871,7 +883,7 @@ scanf="$(printf "$scanf${ascanf}")"
 #fi
 #echo $N
 if  [[  ${#zscanf} -eq "1"  ]] ;then
-printf "$zscanf" && zscanf=  && continue
+ascanf="$zscanf" && zscanf=  && continue
 
 
 ###优化ish多字
@@ -911,14 +923,13 @@ while true;do
 
 #eval ascanf=\${scanf$i}
 #IFSbak=$IFS
-IFS=$newline
-read -s -n1   ascanf
+#IFS=$newline
+_read
 tf=$?
-IFS=$IFSbak
+#IFS=$IFSbak
 #echo ascanf:$ascanf
 
 if [[  $ascanf  ==  [A-Za-z' '-]  ]];then
-sleep 0.015
 #let scanf$i=ascanf
 scanf=$scanf${ascanf}
 #backbot=$(printf %s $bot | tr "-" "\\b")
@@ -928,18 +939,16 @@ backscanf=
 #for i in $(seq $is);do
 #backscanf="$backscanf$Back"
 #done
-printf  "$ascanf"  && continue
+continue
 
 ###优化ish漏字
 #printf "$ascanf"
 #ls
 #echo 1
-
-
-continue
 elif [[  "$ascanf" == "$B"  ]]  ;then
 #printf 22
 #printf "\b"
+ascanf=
 is=${#scanf}
 scanf=${scanf%[a-zA-Z' '-]}
 #printf "$enter$spaces${spaces% }\r"$question"——————:$bot\r"$question"——————:$scanf"
@@ -954,6 +963,7 @@ done
 continue
 
 elif [[  "$ascanf"  ==  "$D"  ]];then
+ascanf=
 FIND
 bool=s
 break
