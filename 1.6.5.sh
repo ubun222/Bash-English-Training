@@ -744,20 +744,67 @@ fi
 }
 
 
+ccc()
+{
+yi="一"
+read -n1 s <<EOF
+$yi
+EOF
+[[  "$yi" ==  "$s"  ]] && cccc=0
+[[  "$yi" !=  "$s"  ]] && cccc=1
+}
+
+
+ccc
+
 _read()
 {
+
+[[  "$((nb))"  == "$ib"   ]] && waiting=0 && bscanf= && needpt= && ib= && nb=0
+
 if [[  "$ascanf" != ""   ]] ;then
 
-printf "$ascanf" | awk  '{printf $0}' | tr -d ""
+printf "\033[6n"
+read -s -d \[ bscanf
+ib=${#bscanf}
+#echo $ib
+[[  "$ib" -le "1"   ]] && bscanf=""
+[[  "$waiting" == "1"   ]] && bscanf="$needpt"
+read -s -d \R pos1
+printf "${ascanf}"
+
+printf "\033[6n" && read -s -d \[ bb && read -s  -d \R pos2
+
+[[  "$pos1" == "$pos2"  ]] && sleep 0.5 &&  printf "${ascanf}"
 
 fi
+
+if  [[  "$bscanf"  == ""   ]] ; then
 IFS=$ENTER
-sleep 0.0001 && read -s -n1 ascanf && sleep 0.0002
+read -s -n1 ascanf
 IFS=$IFSbak
+elif [[  "$bscanf"  != ""   ]];then 
+#[[  "$((nb))"  == "$ib"   ]] && waiting=0
+needpt="${bscanf%%"$bb"}"
+ib=${#needpt}
+#printf "!$needpt"
+ascanf="${needpt:$nb:1}"
+#echo $nb
+nb=$((nb+1))
+waiting=1
+
+#[[  "$((nb))"  == "$ib"   ]] && waiting=0 && IFS=$ENTER &&  read -s -n1 ascanf && IFS=$IFSbak
+fi
+
+
 }
 
 Readzh()
 {
+needpt=
+bscanf=
+waiting=0
+nb=0
 bool=
 N=0
 ascanf=
@@ -865,33 +912,34 @@ elif [[  "$ascanf" == "$LF"  ]] || [[  "$ascanf" == "$CR"  ]] || [[  "$ascanf" =
 echo
 break
 
-elif [[  $ascanf  !=  [$B\'a-zA-Z'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]];then
+elif [[  $ascanf  !=  [$B\'a-zA-Z'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]] ;then
 #printf 1
 #scanf="$scanf$ascanf"
 #L="${#scanf}"
 #mulLb=
 #if [[  "$L" -gt "1"  ]] ;then
 #for i in $(seq $L);do
-#N=$((N+1)) 
+#N=$((N+1))
 zscanf="$(printf "$zscanf${ascanf}")"
-
 scanf="$(printf "$scanf${ascanf}")"
-
 # [[  "${#zscanf}" == "3"   ]] && LENGTH=$((LENGTH+2))
-#done
-#echo 123 && printf $Backs
-#fi
-#echo $N
+
+if [[  $cccc -eq 0  ]];then
 if  [[  ${#zscanf} -eq "1"  ]] ;then
 ascanf="$zscanf" && zscanf=  && continue
+else
+ascanf=
+fi
+fi
 
+if [[  $cccc -eq 1  ]];then
+[[  $waiting -eq 1  ]] && [[  ${#zscanf} -eq "1"  ]] && ascanf="$zscanf" && zscanf=  && continue
+if  [[  ${#zscanf} -eq "1"  ]] && [[  "${zscanf}" != "${ascanf}"  ]] && [[  ${#zscanf} -ne "2"  ]] && [[  $waiting -eq 0  ]] ;then
+ascanf="$zscanf" && zscanf=  && continue
+else
+ascanf=
+fi
 
-###优化ish多字
-#printf $enter"$question"——————:$enter"$question"——————:"$scanf"$enter
-#ls
-#echo 1
-#i=$((i+1))
-#ascanf="!!"
 fi
 
 continue
@@ -903,12 +951,15 @@ fi
 ascanf=
 
 done
-
 #printf "\033[1B" 
 }
 
 Readen()
 {
+waiting=0
+nb=0
+needpt=
+bscanf=
 bool=
 ascanf=
 scanf=
@@ -972,10 +1023,10 @@ elif [[  $ascanf == "$LF"  ]] || [[  $ascanf == "$CR"  ]] || [[  $ascanf == ""  
 echo
 break
 else
+ascanf=
 continue
 fi
 done
-
 #printf "\033[1B"
 }
 
@@ -1928,8 +1979,8 @@ No=$(($((m/2))+$((m%2))))
 pureanswer=$(echo "$txt"| sed -n "$No,${No}p" )
 #read -p  '————请输入答案:'  scanf  < cat
 #read a < /dev/stdin <<eof
-answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
-answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
+answer1="$(printf "$pureanswer" | awk '{printf $1}' | tr '/' ' ')"
+answer2="$(printf "$pureanswer" | awk '{printf $2}' | tr '/' ' ')"
 
 la=${#answer1}
 la2=${#answer2}
@@ -2023,8 +2074,8 @@ echo  "${strs}"
 
 pureanswer=$(echo "$txt" | sed -n "$m2,${m2}p")
 
-answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
-answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
+answer1="$(printf "$pureanswer" | awk '{printf $1}' | tr '/' ' ')"
+answer2="$(printf "$pureanswer" | awk '{printf $2}' | tr '/' ' ')"
 
 la=${#answer1}
 la2=${#question}
@@ -2101,8 +2152,8 @@ echo  "${strs}"
 
 pureanswer=$(echo "$txt" | sed -n "$m2,${m2}p" )
 
-answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
-answer2=$(echo $pureanswer | awk '{printf $2}' | tr '/' ' ')
+answer1="$(printf "$pureanswer" | awk '{printf $1}' | tr '/' ' ')"
+answer2="$(printf "$pureanswer" | awk '{printf $2}' | tr '/' ' ')"
 
 la=${#question}
 la2=${#answer2}
