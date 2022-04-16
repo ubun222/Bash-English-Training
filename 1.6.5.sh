@@ -761,24 +761,35 @@ _read()
 {
 
 [[  "$((nb))"  == "$ib"   ]] && waiting=0 && bscanf= && needpt= && ib= && nb=0
+bd=0
+
 
 if [[  "$ascanf" != ""   ]] ;then
-
+while true;do
 printf "\033[6n"
-read -s -d \[ bscanf
+
+if [[  $bd -ne 1   ]];then
+read -s -d \[ bscanf 
+bd=1
 ib=${#bscanf}
-#echo $ib
 [[  "$ib" -le "1"   ]] && bscanf=""
 [[  "$waiting" == "1"   ]] && bscanf="$needpt"
+
+else
+read -s -d \[ 
+fi
+#ib=${#bscanf}
+#echo $ib
+#[[  "$ib" -le "1"   ]] && bscanf=""
+#[[  "$waiting" == "1"   ]] && bscanf="$needpt"
 read -s -d \R pos1
 printf "${ascanf}"
 
 printf "\033[6n" && read -s -d \[ bb && read -s  -d \R pos2
-
+[[  "$pos1" != "$pos2"  ]] && break
 [[  "$pos1" == "$pos2"  ]] && sleep 0.5 &&  printf "${ascanf}"
-
+done
 fi
-
 if  [[  "$bscanf"  == ""   ]] ; then
 IFS=$ENTER
 read -s -n1 ascanf
