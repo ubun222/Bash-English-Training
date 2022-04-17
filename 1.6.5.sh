@@ -787,12 +787,12 @@ printf "${ascanf}"
 
 printf "\033[6n" && read -t1 -s -d \[ bb && read -t1 -s  -d \R pos2
 [[  "$pos1" != "$pos2"  ]] && break
-[[  "$pos1" == "$pos2"  ]] && sleep 0.5 &&  printf "${ascanf}"
+[[  "$pos1" == "$pos2"  ]] && sleep 0.5 && continue
 done
 fi
 if  [[  "$bscanf"  == ""   ]] ; then
 IFS=$ENTER
-read -s -n1 ascanf
+read -s -n1 ascanf && sleep 0.0002
 IFS=$IFSbak
 elif [[  "$bscanf"  != ""   ]];then 
 #[[  "$((nb))"  == "$ib"   ]] && waiting=0
