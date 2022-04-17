@@ -769,7 +769,7 @@ while true;do
 printf "\033[6n"
 
 if [[  $bd -ne 1   ]];then
-read -s -d \[ bscanf 
+read -t1 -s -d \[ bscanf
 bd=1
 ib=${#bscanf}
 [[  "$ib" -le "1"   ]] && bscanf=""
@@ -782,10 +782,10 @@ fi
 #echo $ib
 #[[  "$ib" -le "1"   ]] && bscanf=""
 #[[  "$waiting" == "1"   ]] && bscanf="$needpt"
-read -s -d \R pos1
+read -t1 -s -d \R pos1
 printf "${ascanf}"
 
-printf "\033[6n" && read -s -d \[ bb && read -s  -d \R pos2
+printf "\033[6n" && read -t1 -s -d \[ bb && read -t1 -s  -d \R pos2
 [[  "$pos1" != "$pos2"  ]] && break
 [[  "$pos1" == "$pos2"  ]] && sleep 0.5 &&  printf "${ascanf}"
 done
@@ -2029,7 +2029,7 @@ else
 answer=$answer1
 #printf "$question——————:$enter"
 printf "\033[1m$question\033[0m"======:
-read -e  scanf
+read -e -p $enter scanf
 #echo
 fi
 fi
@@ -2108,7 +2108,7 @@ else
 #printf "$question——————:"
 #read -e scanf 
 printf "\033[1m$question\033[0m"======:
-read -e  scanf
+read -e -p $enter scanf
 fi
 
 bot=''
