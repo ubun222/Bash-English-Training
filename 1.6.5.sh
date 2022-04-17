@@ -2029,7 +2029,7 @@ else
 answer=$answer1
 #printf "$question——————:$enter"
 printf "\033[1m$question\033[0m"======:
-read -e -p $enter scanf
+read -e -p $CB scanf
 #echo
 fi
 fi
@@ -2108,7 +2108,7 @@ else
 #printf "$question——————:"
 #read -e scanf 
 printf "\033[1m$question\033[0m"======:
-read -e -p $enter scanf
+read -e -p $CB scanf
 fi
 
 bot=''
@@ -2316,7 +2316,7 @@ else
 #printf "$question——————:\n"
 #read -e scanf 
 printf "\033[1m$question\033[0m"======:
-read -e  scanf
+read -e  -p $CB scanf
 fi
 fi
 bot=
@@ -2385,7 +2385,7 @@ else
 #printf "$question"——————:
 #read -e scanf 
 printf "\033[1m$question\033[0m"======:
-read -e  scanf
+read -e -p $CB scanf
 fi
 
 bot=
