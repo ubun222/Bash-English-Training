@@ -787,7 +787,12 @@ printf "${ascanf}"
 
 printf "\033[6n" && read -t1 -s -d \[ bb && read -t1 -s  -d \R pos2
 [[  "$pos1" != "$pos2"  ]] && break
-[[  "$pos1" == "$pos2"  ]] && sleep 0.5 && continue
+if [[  "$pos1" == "$pos2"  ]]; then
+sleep 0.3
+wherec=$(printf "$pos2" | awk -F\; '{printf $2}' )
+[[  $wherec -eq $COLUMN  ]] && break
+continue
+fi
 done
 fi
 if  [[  "$bscanf"  == ""   ]] ; then
