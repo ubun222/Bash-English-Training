@@ -25,7 +25,7 @@ swallow					吞下，吞没，耗尽，相信
 consult					咨询，查阅，商量
 preservation					保护，保持
 distance					距离，间隔，疏远
-plastic					塑料，信用卡
+plastic					塑料，信用卡，可塑的，做作的
 predict					预言
 submit						投降，遵从，提交，主张
 \\\\

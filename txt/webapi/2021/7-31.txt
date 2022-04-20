@@ -17,7 +17,7 @@ bureau					社，局
 explore					勘查，探索
 alternative				可供替代的，非传统的，选择
 just					恰好，刚才，只是，公正的
-charge					收取，指责，费用
+charge					收取，指责，费用，主管
 victim					受害者
 perception				感觉，洞察，看法
 decision				决定，判决，果断

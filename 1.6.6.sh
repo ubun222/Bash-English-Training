@@ -757,6 +757,18 @@ EOF
 
 ccc
 
+read_()
+{
+if [[  "$ascanf" != ""   ]] ;then
+printf "${ascanf}"
+fi
+
+IFS=$ENTER
+read -s -n1 ascanf && sleep 0.0002
+IFS=$IFSbak
+}
+
+
 _read()
 {
 
@@ -842,8 +854,9 @@ while true;do
 #eval ascanf=\${scanf$i}
 #IFSbak=$IFS
 #IFS=$ENTER
-_read
-tf=$?
+[[  "$ish" != "y"  ]] && read_ && tf=$?
+[[  "$ish" == "y"  ]] && _read && tf=$?
+
 #IFS=$IFSbak
 #printf "$question"——————:"$scanf"$enter
 
@@ -991,8 +1004,8 @@ while true;do
 #eval ascanf=\${scanf$i}
 #IFSbak=$IFS
 #IFS=$newline
-_read
-tf=$?
+[[  "$ish" != "y"  ]] && read_ && tf=$?
+[[  "$ish" == "y"  ]] && _read && tf=$?
 #IFS=$IFSbak
 #echo ascanf:$ascanf
 

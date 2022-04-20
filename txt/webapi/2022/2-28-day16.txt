@@ -8,8 +8,9 @@ encourage						鼓励，怂恿，促使
 concept						概念
 render						使成为，提供，描绘，翻译
 trait							特点，性状
-feature						特征，方面，特写，占据重要位置
-identify						辨认，认为等同，联系，自称
+feature						特征，方面，以...为特色，占据重要位置
+identify						辨认，认出，联系，认为...等同
+identify oneself				自称，同情
 impose						强制执行，将...强加于人
 snack							快餐，小食品
 require						需要，要求
@@ -23,7 +24,7 @@ consume						吃，喝，耗尽，充满
 status						地位，重要程度
 complement						补充的东西，足额，补充
 lengthy						长时间的
-embarrassed					使尴尬
+embarrassed					尴尬的
 rational						理性的，合理的
 distant						远处的，冷淡的
 homemaker						主妇

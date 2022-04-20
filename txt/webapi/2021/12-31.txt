@@ -27,7 +27,7 @@ trail							小径，痕迹，垂下，落后，追踪
 delegation						委托，代表团
 attendance						出席人数，就诊
 monument						纪念馆，典范，遗迹
-feature						特征，以...为特色，占据重要位置
+feature						特征，方面，以...为特色，占据重要位置
 stainless						无污点的，洁白的
 steel							钢，坚定
 stainless-steel					不锈钢
