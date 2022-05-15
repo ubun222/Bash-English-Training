@@ -1,7 +1,7 @@
 ##!/usr/local/bin/bash
 #read -r -d '\' txt1 < $1  && read -r -d '\' txt2 < $2 && read -r -d '\' txt3 < $3
 #txt=$( echo $txt1 && echo $txt2 && echo $txt3)i 
-p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=${use:-2};wlist=1;a0=1;lastn=0;tno=0;ca0=0;bigi=0;RC=1;record=0;RWN1=1;gcounts=0
+p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=${use:-2};wlist=1;a0=1;lastn=0;tno=0;ca0=0;bigi=0;RC=1;record=0;RWN1=1;gcounts=0;alrw=;allrw=
 #dirname $0
 Path="$(dirname $0)"
 tline=$(printf "\033[1A\033[32m●\033[0m\n")
@@ -139,7 +139,7 @@ thepath=$(echo "$pathls" | sed -n "${order},${order}p" )
 down=$((pathlsl+1-$order))
 printf "\033[${down}B$enter"
 
-cd $thepath && printf  "\033[1mopen $thepath\n"
+cd $thepath && printf  "open \033[1m$thepath\n"
 
 #cd ./txt/webapi >& /dev/null
 if [[  "$?" -ne "0"  ]];then
@@ -174,6 +174,7 @@ do
 #[[  $i  -eq  1  ]]  
 [[  $use  -eq  1  ]] &&  mpreload
 echo
+printf "\033[0m"
 read  -p  请输入目标，按回车键加载词表: the
 
 [[  $i  -eq  1  ]] && [[  "$the"  ==  ''  ]]  && echo 未选择...加载第一张 && the="$(echo "$txtall" | tail -n1)" && read -t 2
@@ -354,7 +355,7 @@ spaces="$spaces "
 done
 title=${spaces#              }
 for STR in $(seq $((COLUMN)));do
-strs="$strs"—
+strs="$strs"-
 done
 COL=$((COLUMN+14))
 
@@ -395,7 +396,7 @@ prt()
     done
 }
 #printf "$(whoami), 背会儿单词吗?\r\n"
-printf "\033[?25l"
+
 clear
 [[  $COLUMN -ge 38  ]] && prt "\033[1m$hello\n$hi\n$hey"
 sleep 0.1
@@ -404,10 +405,11 @@ echo
 #printf ""
 #read -p 按下回车以继续$enter
 #read
-printf "\033[3m"
+printf "\033[0m"
 printf "github.com/ubun222/Learning-English\r\n"
 printf "gitee.com/cb222/Learning-English.git\r\n"
 echo
+printf "\033[?25l"
 echo $strs
 
 read
@@ -419,6 +421,9 @@ loadcontent()
 {
 #cd "$Path"
 #recordls
+
+if [[  "$verify" != "y"  ]] ;then
+
 struct
     c="$(echo "$targets" | tr " " "\n")"
     cnum="$(echo "$c" | wc -l)"
@@ -435,6 +440,8 @@ fi
 done <<EOF
 $c
 EOF
+
+fi
 #printf %s "$content" | grep "\\\\"
     #for i in $(seq $cnum);do
     #content="$(cat $(echo "$c" | sed -n "$i,${i}p" ) | grep -A 99999 \\\\  )
@@ -1239,19 +1246,36 @@ return 1
 
 _verify()
 {
-#n=$((n*2))
-#echo "$txt"
-#read -n1 -p 输入Y或者y验证词表 verify
-#echo
+
+##echo $allrw
+
 if [[ $verify = y || $verify = Y  ]];then
-RWN=1
-while read atarget ;do
-    eval rw$RWN="${atarget}"
-    RWN=$((RWN+1))
-done <<EOF
-$(echo "$targets" | tr " " "\n" )
-EOF
+
 struct
+    c="$(echo "$targets" | tr " " "\n" )"
+    cnum="$(echo "$c" | wc -l)"
+while read line ;do
+
+if  [[  "${line}" != ""  ]] ;then
+exec 4<"$line"  && content="$(cat <&4)
+$content"
+
+eval pt$RWN1="${line}"
+RWN1=$((RWN1+1))
+
+exec 5<"$line"
+read -r -d "\\" -u 5 alrw
+if [[  "$allrw" == ""  ]] ;then
+allrw="$alrw"
+else
+allrw="$allrw
+$alrw"
+fi
+fi
+done <<EOF
+$c
+EOF
+#struct
 #fi
 
 (echo | shasum ) >&/dev/null
@@ -1287,18 +1311,19 @@ printf "\033[?25l\033[k\r                          ]${output}\r ${str}\r["
 fi
 [[ ${#str} -eq 25 ]] && str=
 lleft=$(echo "$line" | awk '{printf $1}' | tr "/" " " )
-right="$(echo "$txt" | sed -n "$wlist,${wlist}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
+
+right="$(echo "$allrw"  | sed -n "$wlist,${wlist}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
 
 right=${right:-/}
 #eval ln=\${l$list}  # alias
 #eval rn=\${r$list}
 #echo $ln
 #echo $rn
-aline="$(printf "${line}" | tr -s  "	" | tr "	" " " | tr "/" " " )"
+aline="$(printf "${line}" | tr -s "	" | tr "	" " " | tr "/" " " )"
 alldata="$lleft $right"
 list=$((list+1))
 wlist=$((wlist+1))
- #echo $alldata
+#echo $alldata
 if [[  "$alldata" == "$aline" ]] ;then
 continue
 
@@ -1312,14 +1337,15 @@ EOF
 if [[  "$verify" == "n"  ]] ;then
 echo
 echo $strs
-#struct
 m=$((list-1))
+m=$((m*2))
+#echo $m
 #eval "$allif"
 row=$(eval "$allif")
 #echo $row
 #echo $rw0
-eval therw=\${rw$row}
-printf "${therw}词表中的 |${aline}| 未加载，请检查
+eval thept=\${pt$row}
+printf "${thept}词表中的 |${aline}| 未加载，请检查
 1.英文在行首，中文在行末，中间用多个tab制表符隔开
 2.词表和单词释义以数个反斜杠\\\\分隔
 3.删除多余的空格和缩进
@@ -1329,6 +1355,8 @@ read
 exit
 #RWN=1
 fi
+
+#cd ../..
 #echo $txt
 
 
@@ -1414,7 +1442,7 @@ fi
 done
 fi
 [[  "$bool" == "v"  ]]  && replace p
-printf "$p\n"
+[[  $p != ""  ]] && printf "$p\n"
 }
 
 sprep()
@@ -1430,7 +1458,7 @@ break
 fi
 done
 fi
-printf "$p\n"
+[[  $p != ""  ]] && printf "$p\n"
 }
 yes()
 {
@@ -2624,7 +2652,7 @@ while getopts ":rsip" opt; do
         echo 验证词表模式 && verify=y
         ;;
         i)
-        echo 优化ish中文输出断行 && ish=y
+        echo 优化ish && ish=y
         ;;
 
 esac

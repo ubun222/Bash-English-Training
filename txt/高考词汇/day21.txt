@@ -1,0 +1,503 @@
+function				功能，职责，用途
+bird				鸟，姑娘，家伙
+birds of a feather flock together				物以类聚
+classify				将...分类
+explicit				详述的，明确的
+lightning				闪电
+step				迈步，脚印，梯级，步骤
+steps				楼梯
+stepping				迈步
+jog				轻推，刺激，慢跑
+jogging				轻推，刺激，慢跑
+already				已经
+night				夜晚
+drawer				抽屉，制图员
+wooden				木质的，笨拙的
+accessible				容易到达的，易获得的
+passive				被动的，冷漠的
+passive obedience				消极的服从
+wonder				惊奇，奇迹，思忖，想知道
+ought				应该，应当
+transform				改变
+defend				保卫，防守
+kilometre				千米
+talk				谈话，招供，说
+talks				商谈
+girl				女孩子，女儿，女员工
+ambassador				大使
+grass				草，草地，告密
+billion				十亿
+billions				大量
+summary				总结，即决的，概要的
+in summary				总的来说
+Moslem				穆斯林
+wire				金属丝，电线，用金属丝固定
+wire in				给...接通电源
+morning				上午，早晨
+depend				依靠，确信，取决
+depend on it				没问题
+fold				褶，山丘，折叠，包，抱，交叉
+fold in				拌入
+-fold				...倍的，有...部分的
+precise				清晰的，精确的，恰好的
+to be precise				确切的说
+\\\\
+
+an activity that is natural to or the purpose of a person or thing:一个人或事物的自然或目的的活动
+practical use or purpose in design:设计中的实际用途或目的
+a basic task of a computer, especially one that corresponds to a single instruction from the user.:计算机的一项基本任务，尤其是与用户的单个指令相对应的任务。
+a relation or expression involving one or more variables:涉及一个或多个变量的关系或表达式
+a variable quantity regarded in relation to one or more other variables in terms of which it may be expressed or on which its value depends:
+a functional group:一个官能团
+a thing dependent on another factor or factors:一个事物依赖于另一个或多个因素
+a large or formal social event or ceremony:大型或正式的社交活动或仪式
+work or operate in a proper or particular way:以适当或特定的方式工作或操作
+fulfil the purpose or task of (a specified thing):完成（特定事物）的目的或任务
+function |ˈfʌŋ(k)ʃn| Noun/Verb/:功能,正常运转,函数
+bridges perform the function of providing access across water:bridges具有跨水通道的功能
+building designs that prioritize style over function:building设计优先考虑风格而不是功能
+the function (bx + c):函数(bx+c)
+the magnetic field has varied as a function of time:磁场随时间变化
+the carboxyl group was replaced by functions that included tetrazolyl-, sulphonyl-, and phosphoryl-:羧基被四唑基、磺酰基和磷酰基等官能团取代
+class shame is a function of social power:class羞耻是社会权力的一种功能
+he was obliged to attend party functions:他必须参加聚会活动
+her liver is functioning normally:她的肝脏功能正常
+the museum intends to function as an educational and study centre:博物馆打算作为一个教育和学习中心
+
+a warm-blooded egg-laying vertebrate animal distinguished by the possession of feathers, wings, a beak, and typically by being able to fly.:一种温血产卵脊椎动物，其特点是拥有羽毛、翅膀、喙，并且通常能够飞行。
+a bird that is hunted for sport or used for food:一只为运动而猎杀或用作食物的鸟
+an aircraft, spacecraft, or satellite.:
+a person of a specified kind or character:特定种类或性格的人
+a young woman or a girlfriend.:一个年轻的女人或女朋友。
+bird |bəːd| Noun/:鸟,鸟类
+carve the bird and arrange on a warmed serving plate:雕刻小鸟并放在温暖的盘子上
+she's a sharp old bird:她是一只敏锐的老鸟
+
+birds of a feather flock together | 物以类聚,千鸟齐飞
+
+
+
+
+
+arrange (a group of people or things) in classes or categories according to shared qualities or characteristics:根据共同的品质或特征将（一组人或事物）分类或分类
+assign to a particular class or category:assign到特定的类或类别
+designate (documents or information) as officially secret:designate（文件或信息）作为官方机密
+classify |ˈklasɪfʌɪ| Verb/:分类,进行分类
+mountain peaks are classified according to their shape:mountain山峰按形状分类
+elements are usually classified as metals or non-metals:元素通常分为金属或非金属
+government officials classified 6.3 million documents in 1992:government官员在1992年对630万份文件进行了分类
+
+stated clearly and in detail, leaving no room for confusion or doubt:陈述清楚详细，不留任何混淆或怀疑的余地
+(of a person) stating something in an explicit manner:（某人）以明确的方式陈述某事
+describing or representing sexual activity in a graphic fashion:
+the closing words of a manuscript, early printed book, or chanted liturgical text.:手稿、早期印刷书籍或诵经的礼仪文本的结束语。
+explicit |ɪkˈsplɪsɪt| Adjective/Noun/:明确的,显式
+the arrangement had not been made explicit:安排未明确
+let me be explicit:让我说清楚
+a sexually explicit blockbuster:一部色情大片
+
+the occurrence of a natural electrical discharge of very short duration and high voltage between a cloud and the ground or within a cloud, accompanied by a bright flash and typically also thunder:云与地面之间或云内发生持续时间很短的自然放电和高压，伴随着明亮的闪光，通常还有雷声
+a flash or discharge of lightning:闪电的闪光或放电
+very quick:非常快
+lightning |ˈlʌɪtnɪŋ| Adjective/Noun/:闪电,闪
+a tremendous flash of lightning:一道巨大的闪电
+the sky was a mass of black cloud out of which lightnings flashed:天空是一团乌云，从中闪过闪电
+a lightning cure for his hangover:他宿醉的闪电疗法
+
+an act or movement of putting one leg in front of the other in walking or running:走路或跑步时将一条腿放在另一条前面的动作或动作
+the distance covered by a step:一步所经过的距离
+a person's particular way of walking:一个人的特定行走方式
+each of the sequences of movement of the feet which make up a dance.:组成舞蹈的每一个脚的动作序列。
+a short or easily walked distance:很短或很容易步行的距离
+a flat surface, especially one in a series, on which to place one's foot when moving from one level to another:一个平面，尤其是一系列中的一个，当从一个水平移动到另一个水平时，可以将脚放在上面
+a doorstep:门口
+a rung of a ladder.:梯级。
+a stepladder:
+step aerobics:step有氧运动
+a foothold cut in a slope of ice.:在冰坡上的一个立足点。
+a measure or action, especially one of a series taken in order to deal with or achieve a particular thing:一种措施或行动，尤指为处理或实现特定事物而采取的一系列措施中的一个
+a stage in a gradual process:渐进过程中的一个阶段
+a particular position or grade on an ascending or hierarchical scale:升序或等级尺度上的特定职位或等级
+an interval in a scale, a tone (whole step) or semitone (half step).:音阶中的一个音程，一个音（全音）或半音（半音）。
+an abrupt change in the value of a quantity, especially voltage.:一个量值的突然变化，尤其是电压。
+a block fixed to a boat's keel in order to take the base of a mast or other fitting.:一个固定在船龙骨上的块，用于安装桅杆或其他配件的底部。
+lift and set down one's foot or one foot after the other in order to walk somewhere or move to a new position:抬起并放下一只脚或一只脚接一只脚，以便走到某个地方或移动到一个新的位置
+used as a polite or deferential way of asking someone to walk a short distance for a particular purpose:用作礼貌或恭敬的方式，要求某人为特定目的步行一小段距离
+take a particular course of action:采取特定的行动方案
+set up (a mast) in its step.:setup（桅杆）在它的步骤中。
+step |stɛp| Noun/Verb/:步,迈步,步骤,一步
+Ron took a step back:Ron后退了一步
+Richard came a couple of steps nearer:Richard走近几步
+she left the room with a springy step:她迈着轻快的步伐离开了房间
+the market is only a short step from the lake:市场距离湖仅几步之遥
+the bottom step of the staircase:楼梯底部台阶
+there was a pint of milk on the step:台阶上有一品脱牛奶
+the steps are in the outhouse:台阶在外屋
+developers must take steps to reassure local people that their voices will be heard:developers必须采取措施向当地人保证他们的声音会被听到
+sales are up, which is a step in the right direction:sales上升了，这是朝着正确方向迈出的一步
+the first step on the managerial ladder:管理阶梯的第一步
+Claudia tried to step back:Claudia试图后退
+please step this way:请往这边走
+he stepped out of retirement to answer an SOS call from his old club:he退休后接听老东家的求救电话
+
+steps | 脚步,步骤,台阶
+
+
+
+
+
+stepping | 踏步,踩踏
+
+
+
+
+
+run at a steady gentle pace, especially on a regular basis as a form of physical exercise:以稳定温和的速度跑步，尤其是定期作为体育锻炼的一种形式
+(of a horse) move at a slow trot:
+move in an unsteady way:以不稳定的方式移动
+nudge or knock slightly:轻推或轻敲
+a spell of jogging:一段慢跑
+a gentle running pace:轻缓的跑步步伐
+a slight push or nudge:轻轻推动或轻推
+jog |dʒɒɡ| Noun/Verb/:慢跑,跑步
+he began to jog along the road:他开始在路上慢跑
+they caught and saddled their horses and jogged up to the high grass moorland:他们抓住马鞍，然后慢跑到高草荒野
+the bus jogged and jolted:公共汽车颠簸颠簸
+a hand jogged his elbow:一只手轻抚着他的肘部
+his morning jog:他的晨跑
+he set off along the bank at a jog:他沿着河岸慢跑
+he gave her a jog with his elbow:他用手肘慢跑了她
+
+the activity of running at a steady, gentle pace as a form of physical exercise:以稳定、温和的步伐跑步作为体育锻炼的一种活动
+denoting a garment designed to be worn while jogging:表示专为慢跑而设计的服装
+jogging |ˈdʒɒɡɪŋ| Noun/:,慢跑,跑步的
+some gentle jogging for a few weeks before the event should prevent any aching or stiffness:在活动开始前几周进行一些温和的慢跑应该可以防止任何疼痛或僵硬
+jogging bottoms:慢跑裤
+
+before or by now or the time in question:before或bynow或相关时间
+as surprisingly soon or early as this:出乎意料地早或早
+used after a word or phrase to express impatience:用在词或短语之后表示不耐烦
+already |ɔːlˈrɛdi| Adverb/:已经,已,早已
+Anna has suffered a great deal already:Anna已经吃了不少苦头
+it was already past four o' clock:已经四点多了
+just stop already, no one feels sorry for you:停止吧，没有人会为你感到难过
+
+the period from sunset to sunrise in each twenty-four hours:每二十四小时从日落到日出的时间段
+the night as the interval between two days:thenight作为两天之间的间隔
+the darkness of night:夜的黑暗
+nightfall.:夜幕降临。
+the period between afternoon and bedtime, an evening:下午到睡前这段时间，一个晚上
+an evening characterized by a particular event or activity:一个以特定事件或活动为特征的夜晚
+during the night, at night:晚上，晚上
+night |nʌɪt| Adverb/Interjection/Noun/:夜晚,晚,夜,晚上
+a moonless night:一个没有月亮的夜晚
+supplements per person per night:supplements每人每晚
+a line of watchfires stretched away into the night:一行守望火一直延伸到深夜
+he was not allowed to go out on weekday nights:他在工作日晚上不被允许外出
+a quiz night:一个测验之夜
+investments that won't keep us awake nights with worry:投资不会让我们夜不能寐
+
+a box-shaped storage compartment without a lid, made to slide horizontally in and out of a desk, chest, or other piece of furniture.:一个没有盖子的盒子形储物箱，可以水平滑入和滑出桌子、箱子或其他家具。
+knickers or underpants:短裤或内裤
+a person who produces a drawing or design.:制作图纸或设计的人。
+a person who writes a cheque:开支票的人
+drawer |drɔː| Noun/:,屉
+Queen Victoria was notoriously careless with her drawers:维多利亚女王对抽屉的粗心是出了名的
+the banker would have rights as holder to pursue the drawer:银行家作为持有人有权追索出票人
+
+made of wood:木头
+like or characteristic of wood:木材的相似或特征
+stiff and awkward in movement or manner:动作或举止僵硬而笨拙
+wooden |ˈwʊdn| Adjective/:木制的,木,木制,木质的
+a wooden toy:一个木制玩具
+a kind of dull wooden sound:一种沉闷的木声
+she is one of the most wooden actresses of all time:she是有史以来最木讷的女演员之一
+
+(of a place) able to be reached or entered:（一个地方）可以到达或进入
+able to be easily obtained or used:容易获得或使用
+able to be reached, entered, or used by people who have a disability:能够被残障人士接触、进入或使用
+easily understood or appreciated:容易理解或欣赏
+(of a person, especially one in a position of authority) friendly and easy to talk to, approachable:（指一个人，尤其是当权者）友好、容易交谈、平易近人
+accessible |əkˈsɛsɪbl| Adjective/:无障碍,可访问的
+the town is accessible by bus:该镇可乘公共汽车到达
+making learning opportunities more accessible to adults:让成人更容易获得学习机会
+features such as non-slip floors and accessible entrances:防滑地板和无障碍入口等功能
+an accessible account of his theories:他的理论的一个易于理解的帐户
+he is more accessible than most tycoons:他比大多数大亨更容易接近
+
+accepting or allowing what happens or what others do, without active response or resistance:接受或允许发生的事情或其他人所做的事情，没有积极的反应或抵抗
+denoting a voice of verbs in which the subject undergoes the action of the verb (e.g. they were killed as opposed to the active form he killed them).:表示动词的声音，其中主语经历了动词的动作（例如，他们被杀死而不是他杀死他们的主动形式）。
+(of a circuit or device) containing no source of electromotive force:（电路或设备的）不含电动势源
+(of radar or a satellite) receiving or reflecting radiation from a transmitter or target rather than generating its own signal:（雷达或卫星）接收或反射来自发射器或目标的辐射，而不是产生自己的信号
+(of a heating system) making use of incident sunlight as an energy source:（供暖系统）利用入射阳光作为能源
+(of a metal) made unreactive by a thin inert surface layer of oxide.:（金属）被一层薄的惰性氧化物表面层变得不活泼。
+a passive form of a verb.:
+the passive voice.:被动语态。
+passive |ˈpasɪv| Adjective/Noun/:被动的,被动语态,被动,消极的
+the women were portrayed as passive victims:这些女性被描绘成被动的受害者
+a passive optical network is to be installed in 2000 homes:a无源光网络将在2000户家庭中安装
+passive sensors detect the emissions from enemy radar:passive传感器检测敌方雷达的辐射
+bananas can be grown at the highest altitude using passive solar heating alone:bananas可以单独使用被动太阳能加热在最高海拔生长
+
+passive obedience | 被动服从,消极服从
+
+
+
+
+
+a feeling of amazement and admiration, caused by something beautiful, remarkable, or unfamiliar:一种由美丽的、非凡的或不熟悉的事物引起的惊奇和钦佩的感觉
+a thing or a quality of something that causes wonder:引起惊奇的事物或事物的品质
+a person or thing regarded as very good, remarkable, or effective:被认为非常好、卓越或有效的人或事物
+having remarkable properties or abilities:具有显着的特性或能力
+a surprising event or situation:一个令人惊讶的事件或情况
+wonder |ˈwʌndə| Noun/Verb/:想知道,奇迹,怀疑
+he observed the intricacy of the ironwork with the wonder of a child:他带着孩子的惊奇观察了铁制品的复杂性
+have you ever explored the wonders of a coral reef?:你探索过珊瑚礁的奇观吗？
+we all eat cakes from Gisella—she's a wonder:我们都吃吉塞拉的蛋糕——她是个奇迹
+a wonder drug:一种神奇的药物
+it is a wonder that losses are not much greater:损失没有大多少真是个奇迹
+
+used to indicate duty or correctness, typically when criticizing someone's actions:用于表示责任或正确，通常在批评某人的行为时
+used to indicate a desirable or expected state:用于表示理想或期望的状态
+used to give or ask for advice:用于给予或寻求建议
+used to indicate something that is probable:用于表示可能发生的事情
+ought |ɔːt| Noun/Pronoun/Verb/:应该,应该的
+they ought to respect the law:他们应该遵守法律
+he ought to be able to take the initiative:他应该能够主动
+you ought to go:你应该去
+five minutes ought to be enough time:5分钟应该足够了
+
+make a marked change in the form, nature, or appearance of:在形式、性质或外观上做出显着改变
+undergo a marked change:经历显着变化
+change the voltage of (an electric current).:改变（电流）的电压。
+change (a mathematical entity) by transformation.:change（一个数学实体）通过变换。
+the product of a transformation.:转型的产物。
+a rule for making a transformation.:进行转换的规则。
+transform |trɑːnsˈfɔːm| Noun/Verb/:转换,转变,变形,变换,改造
+lasers have transformed cardiac surgery:lasers改变了心脏手术
+a wry cynicism rapidly transforms into an overwhelming sense of sourness:一种讽刺的玩世不恭迅速转变为一种压倒性的酸味
+
+resist an attack made on (someone or something), protect from harm or danger:抵抗对（某人或某物）的攻击，保护免受伤害或危险
+speak or write in favour of (an action or person), attempt to justify:发言或写信支持（行动或人），试图证明
+compete to retain (a title or seat) in a contest or election:compete在竞赛或选举中保留（头衔或席位）
+conduct the case for (the party being accused or sued) in a lawsuit:为（被指控或被起诉的一方）提起诉讼
+(in sport) protect one's goal or wicket rather than attempt to score against one's opponents:（在运动中）保护自己的球门或三柱门，而不是试图对对手得分
+defend |dɪˈfɛnd| Verb/:保卫,防守,捍卫,保护,维护
+we shall defend our island, whatever the cost:我们将保卫我们的岛屿，不惜一切代价
+he defended his policy of imposing high rates:他为他征收高利率的政策辩护
+he won the party's nomination to defend the Welsh seat:他赢得党的提名以捍卫威尔士席位
+he is a lawyer who specializes in defending political prisoners:他是专门为政治犯辩护的律师
+they were forced to defend for long periods:他们被迫长期防守
+
+a metric unit of length equal to 1,000 metres (approximately 0.62 miles):长度等于1,000米（约0.62英里）的公制单位
+kilometre |ˈkɪləˌmiːtə| Noun/:公里,千米
+the area is about 40 kilometres southwest of downtown Las Vegas:该地区位于拉斯维加斯市中心西南约40公里处
+
+speak in order to give information or express ideas or feelings, converse or communicate by spoken words:speak为了提供信息或表达想法或感受，通过口语交谈或交流
+have the power of speech:拥有话语权
+discuss personal or intimate feelings:discuss个人或亲密感受
+persuade or cause (someone) to do something by talking:说服或促使（某人）通过谈话来做某事
+used to emphasize the seriousness, importance, or extent of the thing one is discussing:用于强调正在讨论的事情的严重性、重要性或范围
+reveal secret or confidential information:reveal秘密或机密信息
+gossip:八卦
+have formal dealings or discussions, negotiate:有正式的交易或讨论，谈判
+use (a particular language) in speech:在演讲中使用（特定语言）
+talk |tɔːk| Noun/Verb/:讲话,谈话,谈论,谈,说
+the two men talked:两人交谈
+he can talk as well as you or I can:他和你我一样会说话
+we need to talk, Maggie:我们需要谈谈，玛吉
+keep on walking and talk your way out of it:keeponwalkandtalkyourwayoutofit
+we're talking big money:我们说的是大笔资金
+dead men can't talk:死人不会说话
+you'll have the whole school talking:你会让整个学校都在谈论
+they won't talk to the regime that killed their families:他们不会与杀害他们家人的政权交谈
+we were talking German:我们说的是德语
+
+talks | ,谈判,谈话
+
+
+
+
+
+a female child:一个女孩
+a person's daughter:一个人的女儿
+a young or relatively young woman:年轻或相对年轻的女性
+a young woman of a specified kind or having a specified job:特定种类或有特定工作的年轻女性
+women who mix socially or belong to a particular group, team, or profession:女性在社交上混杂或属于特定群体、团队或职业
+a person's girlfriend:某人的女朋友
+a female servant.:一个女仆。
+girl |ɡəːl| Noun/:女孩,姑娘,少女
+a six-year-old girl:一个六岁的女孩
+he was devoted to his little girl:他对他的小女孩很忠诚
+I haven't got the time to meet girls:我没时间见女孩
+a chorus girl:一个合唱女孩
+I look forward to having a night with the girls:我期待与女孩们共度一个夜晚
+I had to look my best for my girl:我必须为我的女孩表现出最好的一面
+
+an accredited diplomat sent by a state as its permanent representative in a foreign country:一个国家派出的经认可的外交官作为其在外国的常驻代表
+a representative or promoter of a specified activity:指定活动的代表或发起人
+ambassador |amˈbasədə| Noun/:大使,使
+the French ambassador to Portugal:法国驻葡萄牙大使
+he is a good ambassador for the industry:他是行业的好大使
+
+vegetation consisting of typically short plants with long, narrow leaves, growing wild or cultivated on lawns and pasture, and as a fodder crop.:vegetation由典型的短植物组成，叶子又长又窄，野生或在草坪和牧场上种植，作为饲料作物。
+ground covered with grass.:
+pasture land:牧场
+a mainly herbaceous plant with jointed stems and spikes of small wind-pollinated flowers, predominant in grass.:一种主要是草本植物，有节茎和小穗状风传粉花，主要在草丛中。
+cannabis.:大麻。
+a police informer.:一名警方线人。
+cover (an area of ground) with grass:cover（一块地面）用草
+feed (livestock) on grass.:feed（牲畜）在草地上。
+inform the police of someone's criminal activities or plans:通知警方某人的犯罪活动或计划
+catch and bring (a fish) to the riverbank:catch并把（一条鱼）带到河边
+knock (someone) down.:knock（某人）倒下。
+grass |ɡrɑːs| Noun/Verb/:草,草地
+the farms were mostly given over to grass:农场大部分都被种草了
+the railway tracks were mostly grassed over:铁轨大多被草覆盖
+anglers grassed 294 trout:anglers种草294鳟鱼
+
+the number equivalent to the product of a thousand and a million, 1,000,000,000 or 10⁹:等于一千和一百万、1,000,000,000或10的乘积的数字⁹
+a very large number or amount of something:非常多的东西
+a billion pounds or dollars:
+a million million (1,000,000,000,000 or 10¹²).:一百万（1,000,000,000,000或10¹²）。
+billion |ˈbɪljən| Numeral/:十亿,亿
+a world population of nearly 5 billion:全球近50亿人口
+our immune systems are killing billions of germs right now:我们的免疫系统正在杀死数十亿的细菌
+the problem persists despite the billions spent on it:尽管花费了数十亿美元，但问题仍然存在
+
+billions | 数十亿,亿万
+
+
+
+
+
+a brief statement or account of the main points of something:对某事要点的简短陈述或说明
+not including needless details or formalities, brief:不包括不必要的细节或手续，简要
+(of a judicial process) conducted without the customary legal formalities:
+(of a conviction) made by a judge or magistrate without a jury.:（定罪）由法官或裁判官在没有陪审团的情况下作出的。
+summary |ˈsʌməri| Adjective/Noun/:概括,总结性的,概要,摘要,总结
+a summary of Chapter Three:第三章小结
+summary financial statements:汇总财务报表
+summary arrest:即决逮捕
+
+in summary | 总之,综上所述
+
+
+
+
+
+Moslem | 穆斯林,回教
+
+
+
+
+
+metal drawn out into the form of a thin flexible thread or rod:金属拉成细的柔性螺纹或杆的形式
+a length or quantity of wire used to carry an electric current, for fencing, etc.:用于承载电流、围栏等的一段或一段电线。
+a wire stretched across and above the start and finish of a racecourse.:一条横跨赛马场起点和终点的电线。
+an electronic listening device that can be concealed on a person:一种可以隐藏在人身上的电子听音器
+a telegram or cablegram.:电报或电报。
+install electric circuits or wires in:安装电路或电线
+connect (someone or something) to a piece of electronic equipment:
+provide, fasten, or reinforce with wires:提供、固定或加固电线
+send a telegram or cablegram to:发送电报或电报到
+send (money) to (someone) by means of a telegram or cablegram:通过电报或电报向（某人）发送（钱）
+snare (an animal) with wire.:snare（一种动物）用铁丝网。
+obstruct (a ball, shot, or player) by a hoop.:obstruct（球、投篮或球员）被篮筐挡住。
+wire |ˈwʌɪə| Noun/Verb/:金属丝,安装窃听器,线,丝,导线
+a coil of copper wire:一卷铜线
+an undercover police informer who was wearing a wire:一个穿着电线的卧底警察线人
+wiring a plug:接线插头
+a microphone wired to a loudspeaker:一个连接到扬声器的麦克风
+they wired his jaw:他们给他的下巴接线
+she wired her friend for advice:she给她的朋友打电话征求意见
+he was expecting a friend in Australia to wire him $1,500:他期待一位澳大利亚的朋友给他电汇1,500美元
+
+wire in | 进线,电线输入
+
+
+
+
+
+the period of time between midnight and noon, especially from sunrise to noon:午夜到中午之间的时间段，尤其是从日出到中午
+sunrise:日出
+morning |ˈmɔːnɪŋ| Adverb/Interjection/Noun/:早晨,早上,上午
+I've got a meeting this morning:我今天早上有个会议
+a hint of steely light showed that morning was on its way:一丝钢铁般的光芒表明早晨即将来临
+
+be controlled or determined by:被控制或决定
+be able to trust, rely on:能够信任，依靠
+need for financial or other support:需要财务或其他支持
+be grammatically dependent on.:在语法上依赖。
+hang down:
+depend |dɪˈpɛnd| Verb/:依靠,依赖,靠,取决于
+differences in earnings depended on a wide variety of factors:收入差异取决于多种因素
+we can depend on her to deliver a quality product:我们可以依靠她来提供优质的产品
+a town which had depended heavily upon the wool industry:一个严重依赖羊毛产业的小镇
+his tongue depended from open jaws:他的舌头靠在张开的下巴上
+
+depend on it | 依赖它,取决于它
+
+
+
+
+
+bend (something flexible and relatively flat) over on itself so that one part of it covers another:bend（灵活且相对平坦的东西）在其自身上，使其一部分覆盖另一部分
+mix an ingredient gently with (another ingredient), especially by lifting a mixture with a spoon so as to enclose it without stirring or beating:将一种成分与（另一种成分）轻轻混合，尤其是用勺子提起混合物，以便在不搅拌或敲打的情况下将其包围
+(of a piece of furniture or equipment) be able to be bent or rearranged into a flatter or more compact shape, typically in order to make it easier to store or carry:（一件家具或设备）能够弯曲或重新排列成更扁平或更紧凑的形状，通常是为了更容易存放或携带
+bend or rearrange (a piece of furniture or equipment) into a flatter or more compact shape:弯曲或重新排列（一件家具或设备）成更扁平或更紧凑的形状
+be able to be opened out, unfold:能够被打开，展开
+cause (rock strata) to undergo bending or curvature:使（岩层）发生弯曲或弯曲
+(of a polypeptide or polynucleotide chain) adopt a specific three-dimensional structure.:（多肽或多核苷酸链）采用特定的三维结构。
+cover or wrap something in (a soft or flexible material):覆盖或包裹一些东西（柔软或有弹性的材料）
+hold or clasp (someone) in one's arms affectionately or passionately:拥抱或拥抱（某人）深情或热情
+(of an enterprise or organization) cease trading or operating as a result of financial problems:（企业或组织）因财务问题停止交易或经营
+(especially of a sports player or team) suddenly stop performing well or effectively.:（尤其是运动员或球队）突然停止良好或有效的表现。
+(in poker and other card games) drop out of a hand.:（在扑克和其他纸牌游戏中）弃牌。
+a form or shape produced by the gentle draping of a loose, full garment or piece of cloth:一种由宽松的、完整的衣服或一块布轻轻悬垂而产生的形式或形状
+an area of skin that sags or hangs loosely.:皮肤松弛或松弛的区域。
+a slight hill or hollow in the ground:一个小山丘或地面凹陷
+a bend or curvature of strata.:地层弯曲或弯曲。
+a line or crease produced in paper or cloth as the result of folding it.:纸或布上因折叠而产生的线条或折痕。
+a piece of paper or cloth that has been folded:一张折叠的纸或布
+a pen or enclosure in a field where livestock, especially sheep, can be kept.:在可以饲养牲畜，尤其是绵羊的田地中的围栏或围栏。
+a group or community, especially when perceived as having shared aims and values:一个团体或社区，尤其是当被认为具有共同的目标和价值观时
+shut (livestock) in a fold.:shut（牲畜）成圈。
+fold |fəʊld| Noun/Verb/:折叠,折,对折
+Sam folded up the map:Sam折叠地图
+fold the egg whites into the chocolate mixture:将蛋白折叠到巧克力混合物中
+the small card table was folded up and put away:小牌桌被折叠起来收起来
+the sofa folds out:沙发折叠起来
+a bag was folded around the book:一个袋子被折叠在书的周围
+Bob folded her in his arms:Bob把她抱在怀里
+the club folded earlier this year:the俱乐部今年早些时候倒闭
+the fabric fell in soft folds:面料柔软褶皱
+the house lay in a fold of the hills:房子坐落在群山之中
+a fold of paper slipped out of the diary:从日记本里滑出的一叠纸
+government whips tried to persuade the waverers back into the fold:government鞭子试图说服摇摆不定的人重新加入
+
+fold in | 折起来,折叠,折叠起来
+
+
+
+
+
+(forming adjectives and adverbs from cardinal numbers) in an amount multiplied by:（由基数构成形容词和副词）的数量乘以
+(forming adjectives and adverbs from cardinal numbers) consisting of so many parts or facets:（由基数构成形容词和副词）由许多部分或方面组成
+-fold |fəʊld| Suffix/:-折叠,-折,折
+threefold:三倍
+twofold:双倍
+
+marked by exactness and accuracy of expression or detail:以表达或细节的准确性和准确性为标志
+(of a person) exact, accurate, and careful about details:
+used to emphasize that one is referring to an exact and particular thing:用于强调一个具体的事物
+precise |prɪˈsʌɪs| Adjective/:精确的,精确,准确,精准的
+precise directions:精确方向
+the director was precise with his camera positions:导演的摄影机位置很精准
+at that precise moment the car stopped:就在那一刻，车停了下来
+
+to be precise | 准确地说,确切地说
+
+
+
+
