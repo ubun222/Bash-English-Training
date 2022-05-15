@@ -37,10 +37,7 @@ bash main.sh
 2. CTRL+C 退出 （全局适用）
 3. *CTRL+D 查询（非全局适用）
 #### 直接试用
-1. [这里](https://ubun222.github.io)
-3. 或[这里](https://cb222.gitee.io)
-2. 或[这里](https://keyboarder.xyz)
+1. 苹果手机点这里[这里](https://keyboarder.xyz)
+2. 安卓手机点[这里](https://ubun222.github.io)
 * 如果没有加载成功，请先关闭clash等软件
 
-#### 参考
-bash,ash,trans,gawk,sed....
