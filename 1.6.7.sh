@@ -1079,6 +1079,7 @@ alltxt="$txt"
 findx()
 {
 while read line;do
+#[[  "$line" == ""  ]] && return 1
 Find "$line"
 done <<EOF
 $xwords
@@ -1208,8 +1209,9 @@ fi
 fascanf=
 done
 
-[[  "$fscanf" == "" ]]  && xwords="$(echo "$alltxt" | awk  'BEGIN{FS="	"}{print $1}' | sort | uniq )" && findx && [[  "$calenda" -eq 1   ]] &&  cd "$cpath" && echo 退出  && return 0
 alltxt="$(echo "$alltxt" | grep "$fscanf")"
+[[  "$(echo "$alltxt" | wc -l)"  -gt "$((m/2-1))"  ]] && return 1 
+[[  "$fscanf" == "" ]]  && [[  "$alltxt" != ""  ]] && xwords="$(echo "$alltxt" | awk  'BEGIN{FS="	"}{print $1}' | sort | uniq )" && findx && [[  "$calenda" -eq 1   ]] &&  cd "$cpath" && echo 退出  && return 0
 [[  "$alltxt" == ""  ]] && echo 找不到"$fscanf" && alltxt="$txt" && continue
 
 pt="$(printf  "$alltxt")"

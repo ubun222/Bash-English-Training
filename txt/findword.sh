@@ -75,6 +75,7 @@ FIND "$line"
 done <<EOF
 $xwords
 EOF
+bacK="$bAck" && xwords=
 }
 
 stdin
@@ -94,7 +95,11 @@ done <<EOF
 $targets
 EOF
 
+bAck="$alltxt"
+m="$(echo "$alltxt" | wc -l)"
+
 while true;do
+[[  "$bacK" != ""   ]] && alltxt="$bacK"
 word=
 printf "the word:"
 
@@ -139,7 +144,7 @@ word="${word:0:$((is-1))}" && is=$((is-1))
  printf  "$Backs$Block$Backs"  && continue
 fi
 continue
-elif [[  $aword == "$LF"  ]] || [[  $aword == "$CR"  ]] || [[  $aword == ""  ]] && [[  $ftf == "0"  ]] ;then
+elif [[  $aword == "$LF"  ]] || [[  $aword == "$CR"  ]] || [[  $aword == ""  ]] && [[  $ftf == "0"  ]]  ;then
 echo
 break
 
@@ -163,12 +168,16 @@ continue
 fi
 aword=
 done
-[[  "$word" == "" ]]  && xwords="$(echo "$alltxt" | awk  'BEGIN{FS="	"}{print $1}' | sort | uniq )" && findx && echo 退出 && exit 1
-
-
+#[[  "$word" == "" ]]  && xwords="$(echo "$alltxt" | awk  'BEGIN{FS="	"}{print $1}' | sort | uniq )" && findx && echo 退出 && exit 1
 
 alltxt="$(echo "$alltxt" | grep "$word")"
-[[  "$alltxt" == ""  ]] && echo 找不到"$word" && alltxt="$retxt" && continue
+[[  "$(echo "$alltxt" | wc -l)"  -gt "$((m-1))"  ]] && exit 1 
+[[  "$alltxt" == ""  ]] && echo 找不到"$word" && alltxt="" && xwords= && bacK="$bAck"  && continue
+bacK="$alltxt"
+[[  "$word" == "" ]]  && [[  "$alltxt" != ""  ]] && xwords="$(echo "$alltxt" | awk  'BEGIN{FS="	"}{print $1}' | sort | uniq )" && findx && continue
+#alltxt="$(echo "$alltxt" | grep "$word")"
+#[[  "$alltxt" == ""  ]] && echo 找不到"$word" && alltxt="$retxt" && continue
+
 if [[  $COLUMN -gt  35  ]];then
 pt="$(printf  "$alltxt")"
 while read line ;do
@@ -179,4 +188,3 @@ $pt
 EOF
 fi
 done
-
