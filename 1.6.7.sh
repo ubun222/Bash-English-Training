@@ -783,7 +783,7 @@ _read()
 bd=0
 
 
-if [[  "$ascanf" != ""   ]] ;then
+if [[  "$ascanf" != ""   ]];then
 while true;do
 printf "\033[6n"
 
@@ -807,9 +807,10 @@ printf "${ascanf}"
 printf "\033[6n" && read -t1 -s -d \[ bb && read -t1 -s  -d \R pos2
 [[  "$pos1" != "$pos2"  ]] && break
 if [[  "$pos1" == "$pos2"  ]]; then
-sleep 0.3
+#sleep 0.3
 wherec=$(printf "$pos2" | awk -F\; '{printf $2}' )
-[[  $wherec -eq $COLUMN  ]] && break
+[[  $wherec -eq $COLUMN  ]]  && break
+
 continue
 fi
 done
@@ -1045,6 +1046,11 @@ for si in $(seq $is);do
 backscanf="$backscanf"$Back
 blocks=$blocks' '
 done
+#printf $((it+is))
+
+frontier="$((it-answe+is+1))"
+[[  "1" -eq "$((frontier%COLUMN))" ]] && printf "\033[1A\033[${COLUMN}C""-$Back$CB" && continue
+[[  "0" -eq "$((frontier%COLUMN))" ]] && printf %s "-$Back$CB" && continue
 [[  "$is" -ge  1   ]] && [[  "$is" -le "$iq" ]] &&  printf %s "$Back"-"$Back" && continue
 [[  "$is" -ge  1   ]] && printf %s $Back" "$Back
 continue
