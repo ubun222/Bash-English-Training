@@ -666,6 +666,7 @@ printf  "%${COL}s\n" ${eline}
 printf "%s" "$(echo $pureanswer | tr '/' ' ')"
 echo
 printf "\033[0m"
+sleep 0.0001
 else
 
 printf "\r$(echo $pureanswer | tr '/' ' ')"
@@ -1049,10 +1050,19 @@ done
 #printf $((it+is))
 
 frontier="$((it-answe+is+1))"
-[[  "1" -eq "$((frontier%COLUMN))" ]] && printf "\033[1A\033[${COLUMN}C""-$Back$CB" && continue
-[[  "0" -eq "$((frontier%COLUMN))" ]] && printf %s "-$Back$CB" && continue
-[[  "$is" -ge  1   ]] && [[  "$is" -le "$iq" ]] &&  printf %s "$Back"-"$Back" && continue
-[[  "$is" -ge  1   ]] && printf %s $Back" "$Back
+
+if  [[  "$is" -ge  1   ]] && [[  "$is" -le "$iq" ]] ;then
+insert="-"
+elif [[  "$is" -ge  1   ]] && [[  "$is" -gt "$iq" ]] ;then
+insert=" "
+fi
+
+[[  "1" -eq "$((frontier%COLUMN))" ]] && printf %s"\033[1A\033[${COLUMN}C\033[1C$insert$Back" "$insert" && continue
+[[  "0" -eq "$((frontier%COLUMN))" ]] && printf %s "$insert$Back$insert$Back" && continue
+
+
+[[  "$is" -ge  1   ]] && [[  "$is" -le "$iq" ]] &&  printf %s "$Back"$insert"$Back" && continue
+[[  "$is" -ge  1   ]] && printf %s $Back"$insert"$Back
 continue
 
 elif [[  "$ascanf"  ==  "$D"  ]];then
