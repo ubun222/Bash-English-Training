@@ -1057,7 +1057,7 @@ elif [[  "$is" -ge  1   ]] && [[  "$is" -gt "$iq" ]] ;then
 insert=" "
 fi
 
-[[  "1" -eq "$((frontier%COLUMN))" ]] && printf %s"\033[1A\033[${COLUMN}C\033[1C$insert$Back" "$insert" && continue
+[[  "1" -eq "$((frontier%COLUMN))" ]] && [[  "$is" -ge 1   ]]  && printf %s"\033[1A\033[${COLUMN}C$insert$Back\033[1C" "$insert" && continue
 [[  "0" -eq "$((frontier%COLUMN))" ]] && printf %s "$insert$Back$insert$Back" && continue
 
 
@@ -1072,6 +1072,12 @@ bool=s
 break
 
 elif [[  $ascanf == "$LF"  ]] || [[  $ascanf == "$CR"  ]] || [[  $ascanf == ""  ]] && [[  $tf == "0"  ]] ;then
+#if [[  $((it%COLUMN)) -eq 0   ]] ; then                 
+echo -ne "\033[6n";read -s -d\[ garbage;read -s -d R foo
+fooo=$(printf "$foo" | awk -F';' '{printf $2}')         
+#printf $fooo && sleep 5                                 
+#[[  $fooo -eq 1  ]] && printf "\033[1A"                 
+#fi
 echo
 break
 else
@@ -1707,14 +1713,23 @@ addscan=0
 add=$((aiq-${#scanf}))
 it=$((it-add+addscan))
 fup=$((it/COLUMN))
-if [[  "$fup" -ge 1  ]] &&  [[  "$it" -gt "$((fup*COLUMN))"  ]];then  
+
+
+if  [[  "$fup" -ge 1  ]] &&  [[  "$it" -gt "$((fup*COLUMN))"  ]];then
+
+
 printf "\033[${fup}A"
+
 elif [[  "$fup" -gt 1  ]] && [[  "$it" -le "$((fup*COLUMN))"  ]] ;then
+
+
 printf "\033[$((fup-1))A"
 fi
 
-#printf "\033[${up}A"
-#printf "$pureanswer"
+if [[  $((it%COLUMN)) -eq 0   ]] ; then
+[[  $fooo -eq 1  ]] && printf "\033[1A"
+fi
+
 if [[  "$scanf" == "$answer"  ]];then
 #printf "%${COL}s%s" $tline
 #[[  "$up" -ne "0"  ]] && printf "\033[${up}B"
@@ -2687,6 +2702,13 @@ tno=0
 
 getfromline $* && preload && loadcontent &&  FUN1 && exit
 [[  "$?" -eq '2' ]] && _verify && loadcontent && FUN  && exit
+alldata=
+targets=
+target=
+tno=0
+getfromread && loadcontent  &&   FUN1
+[[  "$?" -eq '2' ]] && _verify && loadcontent &&  FUN
+  "$?" -eq '2' ]] && _verify && loadcontent && FUN  && exit
 alldata=
 targets=
 target=
