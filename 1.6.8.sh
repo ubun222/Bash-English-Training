@@ -1073,7 +1073,7 @@ break
 
 elif [[  $ascanf == "$LF"  ]] || [[  $ascanf == "$CR"  ]] || [[  $ascanf == ""  ]] && [[  $tf == "0"  ]] ;then
 #if [[  $((it%COLUMN)) -eq 0   ]] ; then                 
-echo -ne "\033[6n";read -s -d\[ garbage;read -s -d R foo
+printf "\033[6n";read -s -d\[ garbage;read -s -d R foo
 fooo=$(printf "$foo" | awk -F';' '{printf $2}')         
 #printf $fooo && sleep 5                                 
 #[[  $fooo -eq 1  ]] && printf "\033[1A"                 
