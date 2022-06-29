@@ -2708,10 +2708,4 @@ target=
 tno=0
 getfromread && loadcontent  &&   FUN1
 [[  "$?" -eq '2' ]] && _verify && loadcontent &&  FUN
-  "$?" -eq '2' ]] && _verify && loadcontent && FUN  && exit
-alldata=
-targets=
-target=
-tno=0
-getfromread && loadcontent  &&   FUN1
-[[  "$?" -eq '2' ]] && _verify && loadcontent &&  FUN
+
