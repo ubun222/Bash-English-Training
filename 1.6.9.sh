@@ -214,47 +214,51 @@ while read line ;do
 #echo $line
 (cat ${line} ) >&/dev/null
 catable=$?
-
 if [[  $catable -eq 0  ]];then
-targets=$targets' '${line}
 etxt=
 eetxt=
 exec 3<"$line"
 read -r -d "\\"  -u 3 aetxt
-[[  "$aetxt" == ""  ]] && continue
+
+if [[  "$aetxt" =~ "	"  ]] ;then
+targets=$targets' '${line}
+
+
+aetxt="$(printf "$aetxt"  | tr " " "/")"
+
+
+
 while read line ;do
-read eetxt <<EOF
-`echo "$line"  | tr " " "/"`
-EOF
+
+if [[  "$line" =~ "	"  ]] ;then
+eetxt="$line"
+
+else
+eetxt=
+fi
 [[  "$etxt" != ""  ]]  &&  etxt="$etxt
 $eetxt"
 [[  "$etxt" == ""  ]]  &&  etxt="$eetxt"
 done <<EOF
 $aetxt
 EOF
+
+if [[  "$etxt" != ""  ]] ;then
 [[  "$txt" != ""  ]]  &&  txt="$txt
 $etxt"
 [[  "$txt" == ""  ]]  &&  txt="$etxt"
-#$(cat "${line}" |  grep -a  -B9999 \\\\  | tr ' ' '/'  | tr -d '\\' )"
-       # txt=${txt%% }
-#targets=${line}' '$targets
-       # txt=${txt%%@}
-       
+n=$(echo "${txt}" | wc -l)      
 #n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
-n=$(echo "${txt}" | wc -l)
-#echo $n
 tno=$((tno+1))
+#n=$((n-1))
 eval ca$tno=$((n*2))
-
-#eval echo \$ca$t
-       
-#n=$((n*2)) 
+fi
+fi
+#eval echo \$ca$t   
 fi
 done <<EOF
 $txtall
 EOF
-
-
 
 #n=$(echo "${txt}" | wc -l)
 n=$((n*2))
@@ -297,19 +301,35 @@ while read line ;do
 (cat ${line} ) >&/dev/null
 catable=$?
 if [[  $catable -eq 0  ]];then
-targets=$targets' '${line}
+etxt=
+eetxt=
 exec 3<"$line"
 read -r -d "\\"  -u 3 aetxt
+
+if [[  "$aetxt" =~ "	"  ]] ;then
+targets=$targets' '${line}
+
+
+aetxt="$(printf "$aetxt"  | tr " " "/")"
+
+
+
 while read line ;do
-read eetxt <<EOF
-`echo "$line"  | tr " " "/"`
-EOF
+
+if [[  "$line" =~ "	"  ]] ;then
+eetxt="$line"
+
+else
+eetxt=
+fi
 [[  "$etxt" != ""  ]]  &&  etxt="$etxt
 $eetxt"
 [[  "$etxt" == ""  ]]  &&  etxt="$eetxt"
 done <<EOF
 $aetxt
 EOF
+
+if [[  "$etxt" != ""  ]] ;then
 [[  "$txt" != ""  ]]  &&  txt="$txt
 $etxt"
 [[  "$txt" == ""  ]]  &&  txt="$etxt"
@@ -318,17 +338,16 @@ n=$(echo "${txt}" | wc -l)
 tno=$((tno+1))
 #n=$((n-1))
 eval ca$tno=$((n*2))
-
-#eval echo \$ca$t
-       
-       
+fi
+fi
+#eval echo \$ca$t   
 fi
 done <<EOF
 $txtall
 EOF
 #echo "$txt"
 #txt=$(echo "$txt" |  sed "1,1d" )
-targets="$txtall"
+#targets="$txtall"
 n=$((n*2))
 #n=$(echo ${txt} |wc -l )
 #en=n
@@ -1614,7 +1633,7 @@ ss="$(echo "$content" | grep -a  "[ ]$answer[^    ][^|    ][^     |]...")"
 linenum="$(echo "$ss" | wc -l )"
 mm=$(($RANDOM%$linenum+1))
 #echo $mm
-answerd="${answer:0:1}"
+answerd="$(printf "\033[5m\033[4m${answer:0:1}\033[0m")"
 answe="${#answer}"
 #echo $answe
 pureanswer="$(echo "$ss" | sed -n "${mm},${mm}p")"
