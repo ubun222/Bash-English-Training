@@ -931,7 +931,7 @@ continue
 
 
 
-elif [[  $ascanf  ==  [' ','	']  ]];then
+elif [[  $ascanf  ==  [' ',]  ]];then
 
 #let scanf$i=ascanf
 scanf="$scanf"，
@@ -968,6 +968,31 @@ break
 elif [[  "$ascanf" == "$LF"  ]] || [[  "$ascanf" == "$CR"  ]] || [[  "$ascanf" == ""  ]] && [[  $tf == "0"  ]] ;then
 echo
 break
+
+elif [[  $ascanf  ==  '	'  ]];then
+ascanf=
+scanf="$scanf"，
+printf "，"
+s_canf=
+IFS=$ENTER
+read -s -n1  -t1 s_canf 
+IFS=$IFSbak
+if [[  $s_canf  ==  '	'  ]];then
+ascanf=
+rdmd=
+#intimates="$(echo "${answer2:-n}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}' | sort)"
+inmts="$(echo "${answer2:-n}" | awk 'BEGIN{FS="，"}{print NF}')"
+while true;do
+rdm5=$(($RANDOM%$inmts+1))
+intimates="$(echo "${answer2:-n}" | awk -v a=$rdm5 'BEGIN{FS="，"}{print $a}')"
+[[  "${#rdmd}" -gt "$inmts"   ]]  && break
+[[  "$scanf" =~ "$intimates"   ]] || [[  "$rdmd" =~ "$rdm5"   ]]  &&  rdmd="$rdm5$rdmd"  && continue
+printf "$intimates" && scanf="$scanf$intimates" && break
+done
+continue
+else
+continue
+fi
 
 elif [[  $ascanf  !=  [$B\'a-zA-Z'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]] ;then
 #printf 1
@@ -1485,7 +1510,10 @@ fi
 done
 fi
 [[  "$bool" == "v"  ]]  && replace p
-[[  $p != ""  ]] && printf "$p\n"
+UP=$(printf "${p:0:1}" | tr '[a-z]' '[A-Z]' )
+[[   $UP == [\(~]   ]] &&  UP="\033[1m\033[3m$UP\033[0m"
+[[  $UP == "${p:0:1}"  ]]  && printf "$UP\033[0m${p:1}\n" && return 0
+[[  $p != ""  ]]  && printf "\033[1m\033[3m$UP\033[0m${p:1}\n"
 }
 
 sprep()
@@ -1528,7 +1556,7 @@ eval thept=\${pt$row}
     do
 if [[  "$linenum" -le 1  ]] || [[  "$lineraw" == ""  ]];then
 [[  $lineraw != ""  ]] &&  p="$lineraw" && prep
-p="$theline" &&  prep
+p="$theline" &&  sprep
 break
 fi
 
@@ -1544,8 +1572,8 @@ fi
 #    delete=$(echo "$lineraw" | grep -a  -n '' | grep -a  $therandom |  head -n 1 | awk -F: '{print $2$3}' )
 lineraw=$(printf  "$lineraw\n$lineraw\n"  | tail -n$((linenum*2-therandom)) | head -n$((linenum-1)))       ##在sed内放变量需要""
     linenum=$((linenum-1))
-if  [[  $li -ge 3  ]] ;then
-p="$theline" && prep
+if  [[  $li -eq 3  ]] ;then
+p="$theline" && sprep
 break
 fi
 
