@@ -224,7 +224,7 @@ if [[  "$aetxt" =~ "	"  ]] ;then
 targets=$targets' '${line}
 
 
-aetxt="$(printf "$aetxt"  | tr " " "/")"
+aetxt="$(printf "$aetxt"  | tr ' ' '/')"
 
 
 
@@ -310,7 +310,7 @@ if [[  "$aetxt" =~ "	"  ]] ;then
 targets=$targets' '${line}
 
 
-aetxt="$(printf "$aetxt"  | tr " " "/")"
+aetxt="$(printf "$aetxt"  | tr ' ' '/')"
 
 
 
@@ -1511,8 +1511,8 @@ done
 fi
 [[  "$bool" == "v"  ]]  && replace p
 UP=$(printf "${p:0:1}" | tr '[a-z]' '[A-Z]' )
-[[   $UP == [\(~]   ]] &&  UP="\033[1m\033[3m$UP\033[0m"
-[[  $UP == "${p:0:1}"  ]]  && printf "$UP\033[0m${p:1}\n" && return 0
+[[   $UP == [\(\~]   ]] &&  UP="\033[1m\033[3m$UP\033[0m"
+[[  $UP == "${p:0:1}"  ]]  && printf "$p\n" && return 0
 [[  $p != ""  ]]  && printf "\033[1m\033[3m$UP\033[0m${p:1}\n"
 }
 
