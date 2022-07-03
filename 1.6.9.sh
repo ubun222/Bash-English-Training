@@ -1346,11 +1346,11 @@ EOF
 #struct
 #fi
 
-(echo | shasum ) >&/dev/null
-[[ $? -eq 0 ]] && sha=
-
-(echo | sha1sum) >&/dev/null
-[[ $? -eq 0 ]] && sha=1
+#(echo | shasum ) >&/dev/null
+#[[ $? -eq 0 ]] && sha=
+allrw=$(echo "$allrw" | tr  ' ' '/' )
+#(echo | sha1sum) >&/dev/null
+#[[ $? -eq 0 ]] && sha=1
 nn=$((n/2))
 list=1
 cha=$((n/2))
@@ -1400,7 +1400,7 @@ verify=n
 break
 fi
 done <<EOF
-$txt
+$allrw
 EOF
 if [[  "$verify" == "n"  ]] ;then
 echo
