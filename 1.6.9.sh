@@ -1510,10 +1510,21 @@ fi
 done
 fi
 [[  "$bool" == "v"  ]]  && replace p
-UP=$(printf "${p:0:1}" | tr '[a-z]' '[A-Z]' )
-[[   $UP == [\(\~]   ]] &&  UP="\033[1m\033[3m$UP\033[0m"
-[[  $UP == "${p:0:1}"  ]]  && printf "$p\n" && return 0
-[[  $p != ""  ]]  && printf "\033[1m\033[3m$UP\033[0m${p:1}\n"
+yellow=
+for i in $(seq 30);do
+i_=$i
+nii=$((i_-1))
+if [[  "${p:$nii:1}" == [A-Z]  ]] ;then
+UP="${p:$nii:1}" && break
+elif [[  "${p:$nii:1}" == [a-z]  ]] ;then
+[[  "${p:$nii:1}" == 'm'  ]] && _i=$((nii-3)) &&  [[  "${p:$_i:3}" =~ '['  ]] && yellow="\033[33m\033[1m" && continue
+UP=$(printf "${p:$nii:1}" | tr '[a-z]' '[A-Z]' ) && break
+fi
+done
+#[[   $UP == [\(\~]   ]] &&  UP="\033[1m\033[3m$UP\033[0m" && _UP=$(printf "${p:1:1}"  &&  _UP="\033[1m\033[3m$_UP\033[0m"
+#[[  $UP == "${p:0:1}"  ]]  && printf "$p\n" && return 0
+#[[  $_UP != ""  ]]  && printf "$UP$_UP\033[0m${p:1}\n" && return 0
+[[  $p != ""  ]]  && printf "${p:0:$nii}\033[1m\033[3m$UP\033[0m$yellow${p:$i_}\n"
 }
 
 sprep()
