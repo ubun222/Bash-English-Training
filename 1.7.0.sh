@@ -139,7 +139,7 @@ thepath=$(echo "$pathls" | sed -n "${order},${order}p" )
 down=$((pathlsl+1-$order))
 printf "\033[${down}B$enter"
 
-cd $thepath && printf  "open \033[1m$thepath\n"
+cd $thepath && printf  "open \033[1m$thepath\033[0m\n"
 
 #cd ./txt/webapi >& /dev/null
 if [[  "$?" -ne "0"  ]];then
@@ -154,6 +154,7 @@ bk="$txtall
 "
 [[  "$txtall" == ""  ]] && echo 找不到.txt文件 && return 1
 
+printf "\033[2m"
 if [[  $COLUMN -gt  35  ]];then
 
 pt="$(echo "$txtall
@@ -165,7 +166,6 @@ printf "%-16s  %s\n"  $line
 done <<EOF
 $pt
 EOF
-
 printf "\33[?25h"
 
 for i in $(seq 100)
@@ -198,7 +198,7 @@ EOF
 
 else 
 txtall="$bk" &&  pt="$(echo "$txtall" | sed 'N;s/\n/ /')" && echo 请重新输入 && read -t1
-clear &&  while read line ;do
+clear && printf "\033[2m" &&  while read line ;do
 printf "%-16s  %s\n"  $line 
 done <<EOF
 $pt
@@ -259,15 +259,18 @@ fi
 done <<EOF
 $txtall
 EOF
-
+printf "\033[0m"
 #n=$(echo "${txt}" | wc -l)
 n=$((n*2))
-read -t 1 -p 准备加载$((n/2))组单词
+echo "准备加载$((n/2))组单词"
+#printf "\r\033[1A$spaces$spaces加载中......"
+
 #echo "$txt"
 return 0
 else
+printf "\033[2m"
 echo "$txtall"
-
+printf "\033[0m"
 
 echo 
 for i in $(seq 100)
@@ -289,7 +292,8 @@ clear &&  echo "$txtall"
 
 else 
 txtall="$bk" && echo 请重新输入 && read -t1
-clear &&  echo "$txtall"
+clear && printf "\033[2m" &&  echo "$txtall"
+printf "\033[0m"
 fi
 done
 
@@ -374,8 +378,14 @@ spaces="$spaces "
 done
 title=${spaces#              }
 for STR in $(seq $((COLUMN)));do
-strs="$strs"-
+strs="$strs"─
 done
+
+for i in $(seq $((COLUMN)));do
+strs_="$strs_"=
+done
+
+strs="$(printf "\033[1m$strs\033[0m")"
 COL=$((COLUMN+14))
 
 eval ' hello=`cat`' <<"blocks"
@@ -643,7 +653,9 @@ Dtop=0
 Dend=0
 RC=0
 sleep 0.01
+hide=0
 if ifright ;then
+hide=1
 printf  "%${COL}s\r" ${tline}
 elif [[ "${scanf:-0}" = "0" ]]; then
 #sleep 0.0001
@@ -657,39 +669,33 @@ fi
 #printf  "\033[0m\033[2A"
 #sleep 0.0001
 echo
-printf "%s" "y释义/v例句/s跳过:"
+printf "\033[2m%s\033[0m" "y释义/v例句/s跳过:"
 read bool
 bool=${bool:-0}
 #printf "\r"
-
 printf "\033[1A"
-
-
 printf  "$spaces$enter"
 if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 #printf "\033[$((COLUMN-7))C释义\n"
 
-printf "\r$(echo $pureanswer | tr '/' ' ')\n"
+[[  "$hide" -eq "0"  ]] &&  printf "\r$(echo $pureanswer | tr '/' ' ')\n"
 yes
 elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]; then
 #printf "\033[$((COLUMN-7))C例句\n"
-
-printf "\r$(echo $pureanswer | tr '/' ' ')\n"
-
+[[  "$hide" -eq "0"  ]] && printf "\r$(echo $pureanswer | tr '/' ' ')\n"
 verbose
 elif [[ $bool = 's' ]] || [[ $bool = 'S' ]]  ; then
 RC=0
 sleep 0.01
 printf "\033[1A\n"
 printf  "%${COL}s\n" ${eline}
+sleep 0.01
 printf "%s" "$(echo $pureanswer | tr '/' ' ')"
 echo
 printf "\033[0m"
-sleep 0.0001
 else
-
-printf "\r$(echo $pureanswer | tr '/' ' ')"
-echo
+sleep 0.005
+[[  "$hide" -eq "0"  ]] && printf "\r$(echo $pureanswer | tr '/' ' ')" && echo 
 fi
 
 [[  "$record" -eq 1   ]] && [[  "$calenda" -eq "1"  ]] && cd ../CORRECT/"$thepath"
@@ -960,10 +966,12 @@ ascanf="."
 #printf "$ascanf"
 continue
 elif [[  "$ascanf"  ==  "$D"  ]];then
-FIND
-bool=s
 ascanf=
-break
+printf "\r${spaces}${spaces}\r"
+FIND
+scanf=
+printf "\033[1m$question\033[0m"——————:
+continue
 
 elif [[  "$ascanf" == "$LF"  ]] || [[  "$ascanf" == "$CR"  ]] || [[  "$ascanf" == ""  ]] && [[  $tf == "0"  ]] ;then
 echo
@@ -1111,9 +1119,13 @@ continue
 
 elif [[  "$ascanf"  ==  "$D"  ]];then
 ascanf=
+bots="$bot"
+printf "\r${spaces}${spaces}\r"
 FIND
-bool=s
-break
+scanf=
+printf "\033[1m$question\033[0m"——————:"$bots"\\r
+printf "\033[1m$question\033[0m"——————:
+continue
 
 elif [[  $ascanf == "$LF"  ]] || [[  $ascanf == "$CR"  ]] || [[  $ascanf == ""  ]] && [[  $tf == "0"  ]] ;then
 #if [[  $((it%COLUMN)) -eq 0   ]] ; then                 
@@ -1190,18 +1202,11 @@ done <<EOF
 $(echo "$targets" | tr " " "\n")
 EOF
 echo 找完了
-echo
 #printf "\033[1B"
 #return 0
 }
 
-echo
-echo $strs
-echo detect CTRL D
 echo 输入想要查找的单词
-echo 暂停请按下 CTRL Z 
-echo 退出请按下 CTRL C
-echo
 
 while true;do
 fscanf=
@@ -1275,9 +1280,9 @@ fi
 fascanf=
 done
 
-alltxt="$(echo "$alltxt" | grep "$fscanf")"
-[[  "$(echo "$alltxt" | wc -l)"  -gt "$((m/2-1))"  ]] && return 1 
-[[  "$fscanf" == "" ]]  && [[  "$alltxt" != ""  ]] && xwords="$(echo "$alltxt" | awk  'BEGIN{FS="	"}{print $1}' | sort | uniq )" && findx && [[  "$calenda" -eq 1   ]] &&  cd "$cpath" && echo 退出  && return 0
+alltxt="$(echo "$alltxt" | grep "$fscanf")" 2>/dev/null
+[[  "$(echo "$alltxt" | wc -l)"  -gt "$((m/2-1))"  ]] && echo "$strs" && return 1 
+[[  "$fscanf" == "" ]]  && [[  "$alltxt" != ""  ]] && xwords="$(echo "$alltxt" | awk  'BEGIN{FS="	"}{print $1}' | sort | uniq )" && findx && [[  "$calenda" -eq 1   ]] &&  cd "$cpath" && echo 退出 && echo "$strs"  && return 0
 [[  "$alltxt" == ""  ]] && echo 找不到"$fscanf" && alltxt="$txt" && continue
 
 pt="$(printf  "$alltxt")"
@@ -1287,10 +1292,7 @@ printf "%s\n" "$line"  | tr -s "	" "  "
 done <<EOF
 $pt
 EOF
-
 done
-
-
 
 }
 trap 'printf "\033[?25h\033[0m"  '  EXIT
@@ -1493,7 +1495,7 @@ done
 replace()
 {
 ##eval前不能有空格
-eval "$1=\$(echo \"\$$1\" | sed \"s/$answer1/\\\\\\033[1m\\\\\\033[33m$answer1\\\\\\033[0m/g\" )"
+eval "$1=\$(echo \"\$$1\" | sed \"s/$answer1/\\\\\\033[1m\\\\\\033[33m$answer1\\\\\\033[0m\\\\\\033[3m/g\" )"
 }
 
 prep()
@@ -1524,7 +1526,7 @@ done
 #[[   $UP == [\(\~]   ]] &&  UP="\033[1m\033[3m$UP\033[0m" && _UP=$(printf "${p:1:1}"  &&  _UP="\033[1m\033[3m$_UP\033[0m"
 #[[  $UP == "${p:0:1}"  ]]  && printf "$p\n" && return 0
 #[[  $_UP != ""  ]]  && printf "$UP$_UP\033[0m${p:1}\n" && return 0
-[[  $p != ""  ]]  && printf "${p:0:$nii}\033[1m\033[3m$UP\033[0m$yellow${p:$i_}\n"
+[[  $p != ""  ]]  && printf "${p:0:$nii}\033[1m\033[3m$UP\033[0m\033[3m$yellow${p:$i_}\033[0m\n"
 }
 
 sprep()
@@ -1540,7 +1542,7 @@ break
 fi
 done
 fi
-[[  $p != ""  ]] && printf "$p\n"
+[[  $p != ""  ]] && printf "\033[3m\033[2m$p\n"
 }
 yes()
 {
@@ -1591,7 +1593,7 @@ fi
 done
     fi
     echo @第"$gi"题
-
+printf "\033[0m"
 	#statements
 #    done
 
@@ -1618,7 +1620,7 @@ linenum1=$(echo "$lineraw1" | wc -l)
 linenum=$(echo "$lineraw" | wc -l)
 [[  "$lineraw" == ""  ]] && lineraw="未找到详细释义，赶紧去补全吧"
 for li in `seq 3`;do
-if [[  "$linenum1" -le 1  ]] || [[  "$lineraw" == ""  ]];then
+if [[  "$linenum" -le 1  ]] || [[  "$lineraw" == ""  ]];then
 [[  $lineraw != ""  ]] &&  p="$lineraw" && prep
 p="$theline" &&  sprep
 break
@@ -1629,7 +1631,7 @@ lineraw="$(printf  "${lineraw}\n${lineraw}\n" |  tail -n $((linenum*2-therandom)
 linenum=$((linenum-1))
 
 #
-if  [[  $li -ge 3  ]] ;then
+if  [[  $li -eq 3  ]] ;then
 p="$theline" &&  sprep
  break
  fi
@@ -1639,6 +1641,7 @@ if [[  "$passd" -eq 1   ]] ; then
 theleft=$((constn-gcounts))
 fi
 echo @还有"$theleft"题
+printf "\033[0m"
 }
 
 
@@ -2038,21 +2041,27 @@ FUN()
    clear
 #printf "\033[s"
 
-printf "\033[1B$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
+printf "\033[1B\033[2m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
 
 for i in $(seq $((COLUMN)));do
 
-	sleep 0.017
-	[[  $i  -eq  1 ]] && printf "\033[2A="
+	sleep 0.015
+	[[  $i  -eq  1 ]] && printf "\033[2m\033[2A="
 	#printf "\033[1A"
 	#[[  $i  -eq  $((COLUMN)) ]] && printf "\r="
-	printf  "\033[?25l\033[$((i-1))C=\r\033[2B\033[$((COLUMN-i))C=\033[2A\r"
-	[[  $i  -eq  $((COLUMN)) ]] && printf "\033[2B\r=\033[2A"
+	printf  "\033[?25l\033[2m\033[$((i-1))C=\r\033[2B\033[$((COLUMN-i))C=\033[2A\r"
+	[[  $i  -eq  $((COLUMN)) ]] && printf "\033[2m\033[2B\r=\033[2A"
 done
+sleep 0.01
+printf "\033[0m"
+printf "\r\033[1A$strs_"
+printf "\r\033[2B$strs_"
+sleep 0.04
+printf "\r\033[2A"
 printf "\n\033[1D$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training"
-sleep 0.1
+sleep 0.04
 printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
-
+sleep 0.02
 echo
 printf  "\033[0m\033[?25l"
 [[  "$record" == "1"  ]] || [[  "$passd" == "1"  ]] && [[  "$calenda" == "1"  ]]  && printf "I,提词器 " &&  read  premode && gcounts=0
