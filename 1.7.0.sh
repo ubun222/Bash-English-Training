@@ -224,7 +224,7 @@ if [[  "$aetxt" =~ "	"  ]] ;then
 targets=$targets' '${line}
 
 
-aetxt="$(printf "$aetxt"  | tr ' ' '/')"
+aetxt="$(printf "%s" "$aetxt"  | tr ' ' '/')"
 
 
 
@@ -314,7 +314,7 @@ if [[  "$aetxt" =~ "	"  ]] ;then
 targets=$targets' '${line}
 
 
-aetxt="$(printf "$aetxt"  | tr ' ' '/')"
+aetxt="$(printf "%s" "$aetxt"  | tr ' ' '/')"
 
 
 
@@ -385,7 +385,7 @@ for i in $(seq $((COLUMN)));do
 strs_="$strs_"=
 done
 
-strs="$(printf "\033[1m$strs\033[0m")"
+strs="$(printf "\033[2m$strs\033[0m")"
 COL=$((COLUMN+14))
 
 eval ' hello=`cat`' <<"blocks"
