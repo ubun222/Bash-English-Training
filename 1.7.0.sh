@@ -444,6 +444,37 @@ echo $strs
 read
 
 
+
+}
+
+loading()
+{
+while true;do
+ read -s -n1 aaaa  <<EOF
+`sleep 0.16 &&  read -s -t0 <&0  && echo 1`
+EOF
+ [[  "$aaaa" != ""  ]] && printf "\r$spaces\r" && read -t1 && break
+printf "\r%s" "─.   "
+ read -s -n1 aaaa <<EOF
+`sleep 0.16 &&  read -s -t0 <&0  && echo 1`
+EOF
+ [[  "$aaaa" != ""  ]] && printf "\r$spaces\r" && read -t1 && break
+printf "\r%s" '\..  '
+ read -s -n1 aaaa <<EOF
+`sleep 0.16 &&  read -s -t0 <&0  && echo 1`
+EOF
+
+ [[  "$aaaa" != ""  ]] && printf "\r$spaces\r" && read -t1 && break
+printf "\r%s" "|... "
+ read -s -n1 aaaa <<EOF
+`sleep 0.16 &&  read -s -t0 <&0  && echo 1`
+EOF
+printf "\r%s"  "/...." 
+#exec 5<&1 
+ [[  "$aaaa" != ""  ]] && printf "\r$spaces\r" && read -t1 && break
+#read -n1 aaaaa
+done
+printf "\033[1A"
 }
 
 loadcontent()
@@ -1494,8 +1525,16 @@ done
 
 replace()
 {
-##eval前不能有空格
-eval "$1=\$(echo \"\$$1\" | sed \"s/$answer1/\\\\\\033[1m\\\\\\033[33m$answer1\\\\\\033[0m\\\\\\033[3m/g\" )"
+eval "$1=\$(echo \"\$$1\" | sed \"s/$answer1/\\\\\\033[1m\\\\\\033[33m$answer1\\\\\\033[0m\\\\\\033[3m\\\\\\033[2m/g\" )"
+}
+
+
+replace1()
+{
+eval "$1=\$(echo \"\$$1\" | sed \"s/$answer1/\\\\\\033[0m\\\\\\033[1m$answer1\\\\\\033[0m\\\\\\033[3m\\\\\\033[2m/g\" )"
+eval "pronounce=\$(printf \"%s\" "\$$1" | awk -F'|' '{printf \$2}')"
+
+eval "$1=\$(echo \"\$$1\" | sed \"s/"$pronounce"/\\\\\\033[0m\\\\\\033[1m$pronounce\\\\\\033[0m\\\\\\033[3m\\\\\\033[2m/g\" )"
 }
 
 prep()
@@ -1526,11 +1565,12 @@ done
 #[[   $UP == [\(\~]   ]] &&  UP="\033[1m\033[3m$UP\033[0m" && _UP=$(printf "${p:1:1}"  &&  _UP="\033[1m\033[3m$_UP\033[0m"
 #[[  $UP == "${p:0:1}"  ]]  && printf "$p\n" && return 0
 #[[  $_UP != ""  ]]  && printf "$UP$_UP\033[0m${p:1}\n" && return 0
-[[  $p != ""  ]]  && printf "${p:0:$nii}\033[1m\033[3m$UP\033[0m\033[3m$yellow${p:$i_}\033[0m\n"
+[[  $p != ""  ]]  && printf "\033[2m\033[3m${p:0:$nii}\033[0m\033[3m$UP\033[0m\033[2m\033[3m$yellow${p:$i_}\033[0m\n"
 }
 
 sprep()
 {
+    loading
 if [[  "$ish" == "y"  ]];then
 while true;do
 st=0
@@ -1542,6 +1582,7 @@ break
 fi
 done
 fi
+replace1 p
 [[  $p != ""  ]] && printf "\033[3m\033[2m$p\n"
 }
 yes()
@@ -1563,7 +1604,7 @@ eval thept=\${pt$row}
     linenum="$(echo "$lineraw" | grep "[A-Za-z]" | wc -l)"
     #echo $linenum
     if [[  "${linenum:-0}" -eq 0  ]];then
-    echo '该单词还未收录哦，赶紧去补全吧！' && echo @第"$gi"题 && return 0
+    echo '该单词还未收录哦，赶紧去补全吧！' && printf  "\033[0m@第"$gi"题\n" && return 0
     else
     for li in $(seq 3)
     do
@@ -1592,7 +1633,7 @@ fi
 
 done
     fi
-    echo @第"$gi"题
+    printf "\033[0m@第"$gi"题\n"
 printf "\033[0m"
 	#statements
 #    done
@@ -1640,7 +1681,7 @@ theleft=$((ii-gi))
 if [[  "$passd" -eq 1   ]] ; then
 theleft=$((constn-gcounts))
 fi
-echo @还有"$theleft"题
+printf "\033[0m@第"$gi"题\n"
 printf "\033[0m"
 }
 
@@ -2145,7 +2186,7 @@ length=$((la+la2*2+7))
 
 if [[ "$question" = "$answer1" ]] ;then
 answer=$answer2
-
+pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
 if [[  "$COLUMN" -ge "$length"  ]];then
 #read -e -p  "$question"——————:  scanf
 printf "\033[1m$question\033[0m"——————:
@@ -2158,6 +2199,7 @@ fi
 else
 #echo $length
 answer=$answer1
+pureanswer="$(printf "\033[1m$answer1\033[0m $answer2")"
 if [[  $COLUMN -ge $length  ]];then
 iq=${#answer1}
 for t in `seq $iq`;do
@@ -2237,6 +2279,7 @@ answer2="$(printf "$pureanswer" | awk '{printf $2}' | tr '/' ' ')"
 la=${#answer1}
 la2=${#question}
 length=$((la+la2*2+7))
+pureanswer="$(printf "\033[1m$answer1\033[0m $answer2")"
 #echo $length
 #answer=$answer1
 if [[  $COLUMN -ge $length  ]];then
@@ -2315,7 +2358,7 @@ answer2="$(printf "$pureanswer" | awk '{printf $2}' | tr '/' ' ')"
 la=${#question}
 la2=${#answer2}
 length=$((la+la2*2+7))
-
+pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
 
 if [[  "$COLUMN" -ge "$length"  ]];then
 #read -e -p  "$question"——————:  scanf
@@ -2383,7 +2426,7 @@ number0=0;
 #raw=$[raw-1];
 #rdm1=raw;rdm2=raw;
 rdm1=${raw:-$number0};rdm2=${raw:-$((n+1))}
-if [[ $mode = 3 ]] ;then
+if [[  $mode -eq 3  ]] ;then
 
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
 for i in $(seq 1 $ii)
@@ -2391,24 +2434,24 @@ do
 #m=$[n-1]
 #m=$(($RANDOM%$m+1))
 
-if [[  $random = 1 ]];then
+if [[  $random -eq 1  ]];then
 rdm1=$((rdm1+1))
 m=$rdm1
-if [[ $rdm1 = $n ]];then
+if [[  $rdm1 = $n  ]];then
 rdm1=0
 fi
 
-elif [[  $random = 2 ]];then
+elif [[  $random -eq 2  ]];then
   #因为最长的行数n始终比算出来的+1，减一后刚好
 
 rdm2=$((rdm2-1))
 m=$rdm2
 #echo $m
-if [[ $rdm2 = 1 ]];then
+if [[  $rdm2 -eq 1  ]];then
 rdm2=$((n+1))
 fi
 
-elif [[  $random = 3 ]];then
+elif [[  $random -eq 3  ]];then
 m=$(($RANDOM%$n+1))
 onetwo=$(($RANDOM%1+0))
 fi
@@ -2433,7 +2476,7 @@ length=$((la+la2*2+7))
 
 if [[ "$question" = "$answer1" ]] ;then
 answer="$answer2"
-
+pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
 if [[  "$COLUMN" -ge "$length"  ]];then
 #read -e -p  "$question"——————:  scanf
 printf "\033[1m$question\033[0m"——————:
@@ -2445,6 +2488,7 @@ else
 #elif [[ "$question" = "$answer2" ]] ;then
 #echo $length
 answer=$answer1
+pureanswer="$(printf "\033[1m$answer1\033[0m $answer2")"
 if [[  $COLUMN -ge $length  ]];then
 iq=${#answer1}
 for t in `seq $iq`;do
@@ -2514,8 +2558,7 @@ answer1=`echo "$pureanswer" | awk -F'	' '{printf $1}' | tr '/' ' '`
 la=${#answer1}
 la2=${#question}
 length=$((la+la2*2+7))
-#echo $length
-#answer=$answer1
+pureanswer="$(printf "\033[1m$answer1\033[0m $answer2")"
 if [[  $COLUMN -ge $length  ]];then
 iq=${#answer1}
 for t in `seq $iq`;do
@@ -2582,7 +2625,7 @@ eval pureanswer="\${lr$m2}'	'\${lr$((m2+1))}"
 
 answer1=`echo "$pureanswer" | awk -F'	' '{printf $1}' | tr '/' ' ' `
 answer2=`echo "$pureanswer" | awk -F'	' '{printf $2}' | tr '/' ' ' `
-
+pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
 la=${#question}
 la2=${#answer2}
 length=$((la+la2*2+7))
