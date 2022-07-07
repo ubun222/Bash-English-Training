@@ -3,6 +3,7 @@
 #txt=$( echo $txt1 && echo $txt2 && echo $txt3)i 
 p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=${use:-2};wlist=1;a0=1;lastn=0;tno=0;ca0=0;bigi=0;RC=1;record=0;RWN1=1;gcounts=0;alrw=;allrw=
 #dirname $0
+#stty -echo
 Path="$(dirname $0)"
 tline=$(printf "\033[1A\033[32m●\033[0m\n")
 fline=$(printf "\033[1A\033[31m●\033[0m\n")
@@ -450,28 +451,14 @@ read
 loading()
 {
 while true;do
- read -s -n1 aaaa  <<EOF
-`sleep 0.16 &&  read -s -t0 <&0  && echo 1`
-EOF
- [[  "$aaaa" != ""  ]] && printf "\r$spaces\r" && read -t1 && break
+sleep 0.16 &&  read -s -t0   && read -t1 && break
 printf "\r%s" "─.   "
- read -s -n1 aaaa <<EOF
-`sleep 0.16 &&  read -s -t0 <&0  && echo 1`
-EOF
- [[  "$aaaa" != ""  ]] && printf "\r$spaces\r" && read -t1 && break
+sleep 0.16 &&  read -s -t0   && read -t1 && break
 printf "\r%s" '\..  '
- read -s -n1 aaaa <<EOF
-`sleep 0.16 &&  read -s -t0 <&0  && echo 1`
-EOF
-
- [[  "$aaaa" != ""  ]] && printf "\r$spaces\r" && read -t1 && break
+sleep 0.16 &&  read -s -t0 && read -t1 && break
 printf "\r%s" "|... "
- read -s -n1 aaaa <<EOF
-`sleep 0.16 &&  read -s -t0 <&0  && echo 1`
-EOF
+sleep 0.16 &&  read -s -t0  && read -t1 && break
 printf "\r%s"  "/...." 
-#exec 5<&1 
- [[  "$aaaa" != ""  ]] && printf "\r$spaces\r" && read -t1 && break
 #read -n1 aaaaa
 done
 printf "\033[1A"
@@ -894,6 +881,7 @@ fi
 
 Readzh()
 {
+    stty -echo
 needpt=
 bscanf=
 waiting=0
@@ -1072,11 +1060,13 @@ fi
 ascanf=
 
 done
+stty echo
 #printf "\033[1B" 
 }
 
 Readen()
 {
+stty -echo
 waiting=0
 nb=0
 needpt=
@@ -1172,6 +1162,7 @@ ascanf=
 continue
 fi
 done
+stty echo
 #printf "\033[1B"
 }
 
