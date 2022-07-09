@@ -451,17 +451,19 @@ read
 loading()
 {
 while true;do
-sleep 0.16 &&  read -s -t0   && read -t1 && break
-printf "\r%s" "─.   "
-sleep 0.16 &&  read -s -t0   && read -t1 && break
-printf "\r%s" '\..  '
-sleep 0.16 &&  read -s -t0 && read -t1 && break
-printf "\r%s" "|... "
-sleep 0.16 &&  read -s -t0  && read -t1 && break
-printf "\r%s"  "/...." 
+sleep 0.16 &&  read -s -t0   && read -s -t1 && break
+printf "\r%s\r" "─.   "
+sleep 0.16 &&  read -s -t0   && read -s -t1 && break
+printf "\r%s\r" '\..  '
+sleep 0.16 &&  read -s -t0 && read -s  -t1 && break
+printf "\r%s\r" "|... "
+sleep 0.16 &&  read -s -t0  && read -s  -t1 && break
+printf "\r%s\r"  "/...." 
 #read -n1 aaaaa
 done
+sleep 0.02
 printf "\033[1A"
+sleep 0.02
 }
 
 loadcontent()
@@ -685,14 +687,17 @@ printf  "%${COL}s\r" ${fline}
 RC=1
 fi
 #printf  "\033[0m\033[2A"
-#sleep 0.0001
+sleep 0.0001
 echo
 printf "\033[2m%s\033[0m" "y释义/v例句/s跳过:"
 read bool
+sleep 0.005
 bool=${bool:-0}
 #printf "\r"
 printf "\033[1A"
+sleep 0.005
 printf  "$spaces$enter"
+sleep 0.0001
 if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 #printf "\033[$((COLUMN-7))C释义\n"
 
@@ -1516,25 +1521,37 @@ done
 
 replace()
 {
-eval "$1=\$(echo \"\$$1\" | sed \"s/$answer1/\\\\\\033[1m\\\\\\033[33m$answer1\\\\\\033[0m\\\\\\033[3m\\\\\\033[2m/g\" )"
+eval "$1=\$(echo \"\$$1\" | sed \"s/$answer1/\${_m1}\${_m33}$answer1\${_m0}\${_m3}\${_m2}/g\" )"
 }
 
 
 replace1()
 {
-eval "$1=\$(echo \"\$$1\" | sed \"s/$answer1/\\\\\\033[0m\\\\\\033[1m$answer1\\\\\\033[0m\\\\\\033[3m\\\\\\033[2m/g\" )"
+#eval "$1=\$(echo \"\$$1\" | sed \"s/$answer1/\\\\\\033[0m\\\\\\033[1m$answer1\\\\\\033[0m\\\\\\033[3m\\\\\\033[2m/g\" )"
+#eval "pronounce=\$(printf \"%s\" "\$$1" | awk -F'|' '{printf \$2}')"
+#eval "$1=\$(echo \"\$$1\" | sed \"s/"$pronounce"/\\\\\\033[0m\\\\\\033[1m$pronounce\\\\\\033[0m\\\\\\033[3m\\\\\\033[2m/g\" )"
+eval "$1=\$(echo \"\$$1\" | sed \"s/$answer1/\${_m0}\${_m0}$answer1\${_m0}\${_m3}\${_m2}/g\" )"
 eval "pronounce=\$(printf \"%s\" "\$$1" | awk -F'|' '{printf \$2}')"
+eval "$1=\$(echo \"\$$1\" | sed \"s/"$pronounce"/\${_m0}\${_m1}$pronounce\${_m0}\${_m3}\${_m2}/g\" )"
 
-eval "$1=\$(echo \"\$$1\" | sed \"s/"$pronounce"/\\\\\\033[0m\\\\\\033[1m$pronounce\\\\\\033[0m\\\\\\033[3m\\\\\\033[2m/g\" )"
 }
+
+_m0="$(printf "\033[0m")"
+_m1="$(printf "\033[1m")"
+_m2="$(printf "\033[2m")"
+_m3="$(printf "\033[3m")"
+_m33="$(printf "\033[33m")"
 
 prep()
 {
+UP=
+p="  $p"
 if [[  "$ish" == "y"  ]];then
 while true;do
 st=0
 Fresh
 if [[  "$?" -eq 5  ]];then
+
 p="${p:0:$st}~${p:$st}"
 else
 break
@@ -1549,19 +1566,18 @@ nii=$((i_-1))
 if [[  "${p:$nii:1}" == [A-Z]  ]] ;then
 UP="${p:$nii:1}" && break
 elif [[  "${p:$nii:1}" == [a-z]  ]] ;then
-[[  "${p:$nii:1}" == 'm'  ]] && _i=$((nii-3)) &&  [[  "${p:$_i:3}" =~ '['  ]] && yellow="\033[33m\033[1m" && continue
+[[  "${p:$nii:1}" == 'm'  ]] && _i=$((nii-3)) &&  [[  "${p:$_i:3}" =~ '['  ]] && yellow="${_m33}${_m1}" && continue
 UP=$(printf "${p:$nii:1}" | tr '[a-z]' '[A-Z]' ) && break
 fi
 done
 #[[   $UP == [\(\~]   ]] &&  UP="\033[1m\033[3m$UP\033[0m" && _UP=$(printf "${p:1:1}"  &&  _UP="\033[1m\033[3m$_UP\033[0m"
 #[[  $UP == "${p:0:1}"  ]]  && printf "$p\n" && return 0
 #[[  $_UP != ""  ]]  && printf "$UP$_UP\033[0m${p:1}\n" && return 0
-[[  $p != ""  ]]  && printf "\033[2m\033[3m${p:0:$nii}\033[0m\033[3m$UP\033[0m\033[2m\033[3m$yellow${p:$i_}\033[0m\n"
+[[  $p != ""  ]]   && printf "%s\n" "${_m2}${_m3}${p:0:$nii}${_m0}${_m3}${UP}${_m0}${_m2}${_m3}${yellow}${p:$i_}${_m0}" && loading
 }
 
 sprep()
 {
-    loading
 if [[  "$ish" == "y"  ]];then
 while true;do
 st=0
@@ -1587,8 +1603,8 @@ eval thept=\${pt$row}
 
 #echo "$lie
     #preline="$(echo  "$content" | grep -B 1 ^"${answer1} |" )"
-    theline="$(printf %s "$lineraw" | tail -n1)"
-    lineraw="$(printf %s "$lineraw" | grep -v ^"${answer1} |" )"
+    theline="$(printf "%s" "$lineraw" | tail -n1)"
+    lineraw="$(printf "%s" "$lineraw" | grep -v ^"${answer1} |" )"
     #echo "$theline"
    # [[  "$preline" ==  ''  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] &&  echo '该单词还未收录哦，赶紧去补全吧！'&& echo @第"$gi"题 && return 0
  #   linenum=$(echo  "$content"|  grep -a   -v  $'\t'   |  grep -a   -B 30 "^${answer1} |"  | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]' | grep -a  -v "^${answer1} |" | wc -l)
@@ -1608,14 +1624,14 @@ fi
    # [[  $linenum -le 1  ]] &&   p="$preline" && prep &&  break
    # [[  $li -eq 3  ]] && p="$theline" && prep && break
     therandom=$(($RANDOM%$linenum+1))
-    p="$(echo "$lineraw" | grep -a  '[^ ]' | head -n$therandom | tail -n1)"
+    p="$(printf "%s" "$lineraw" | grep -a  '[^ ]' | head -n$therandom | tail -n1)"
 
 
 [[  "$p" != ""   ]] &&  prep
 
 
 #    delete=$(echo "$lineraw" | grep -a  -n '' | grep -a  $therandom |  head -n 1 | awk -F: '{print $2$3}' )
-lineraw=$(printf  "$lineraw\n$lineraw\n"  | tail -n$((linenum*2-therandom)) | head -n$((linenum-1)))       ##在sed内放变量需要""
+lineraw=$(printf "%s\n" "${lineraw}" "${lineraw}"  | tail -n$((linenum*2-therandom)) | head -n$((linenum-1)))       ##在sed内放变量需要""
     linenum=$((linenum-1))
 if  [[  $li -eq 3  ]] ;then
 p="$theline" && sprep
@@ -1638,10 +1654,10 @@ targets=${targets:-/dev/null}
 #echo $linenum
 #[[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -a  -B 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
 
-lineraw1="$(echo  "$content" | grep  "${answer1}" | grep -v  "[	\\]" )"
+lineraw1="$(printf "%s"  "$content" | grep  "${answer1}" | grep -v  "[	\\]" )"
 #lineraw="$(echo "$lineraw1" | grep  -v '|' | sed "s/$answer1/\\\033[1m\\\033[33m$answer1\\\033[0m/g" )"
-lineraw="$(echo "$lineraw1" | grep  -v '|')"
-theline="$(printf "$lineraw1"| grep "${answer1} |"  | head -n1)"
+lineraw="$(printf "%s" "$lineraw1" | grep  -v '|')"
+theline="$(printf "%s" "$lineraw1"| grep "${answer1} |"  | head -n1)"
 
 #linenum=$(echo "$lineraw" | wc -l)
 linenum1=$(echo "$lineraw1" | wc -l)
@@ -1658,8 +1674,8 @@ p="$theline" &&  sprep
 break
 fi
 therandom=$(($RANDOM%$linenum+1))
-[[  $lineraw != ""  ]] && p="$(printf "$lineraw" | head -n$therandom | tail -n1)" && prep
-lineraw="$(printf  "${lineraw}\n${lineraw}\n" |  tail -n $((linenum*2-therandom)) | head -n$((linenum-1)))"       ##在sed内放变量需要""
+[[  $lineraw != ""  ]] && p="$(printf "%s" "$lineraw" | head -n$therandom | tail -n1)" && prep
+lineraw="$(printf "%s\n" "${lineraw}" "${lineraw}" |  tail -n $((linenum*2-therandom)) | head -n$((linenum-1)))"       ##在sed内放变量需要""
 linenum=$((linenum-1))
 
 #
@@ -2086,12 +2102,15 @@ for i in $(seq $((COLUMN)));do
 done
 sleep 0.01
 printf "\033[0m"
+sleep 0.02
 printf "\r\033[1A$strs_"
+sleep 0.01
 printf "\r\033[2B$strs_"
 sleep 0.04
 printf "\r\033[2A"
+sleep 0.01
 printf "\n\033[1D$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training"
-sleep 0.04
+sleep 0.02
 printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
 sleep 0.02
 echo
