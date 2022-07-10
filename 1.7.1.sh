@@ -687,11 +687,12 @@ printf  "%${COL}s\r" ${fline}
 RC=1
 fi
 #printf  "\033[0m\033[2A"
-sleep 0.0001
+
 echo
 printf "\033[2m%s\033[0m" "y释义/v例句/s跳过:"
+sleep 0.003
 read bool
-sleep 0.005
+sleep 0.003
 bool=${bool:-0}
 #printf "\r"
 printf "\033[1A"
@@ -709,10 +710,10 @@ elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]; then
 verbose
 elif [[ $bool = 's' ]] || [[ $bool = 'S' ]]  ; then
 RC=0
-sleep 0.01
+sleep 0.005
 printf "\033[1A\n"
 printf  "%${COL}s\n" ${eline}
-sleep 0.01
+sleep 0.005
 printf "%s" "$(echo $pureanswer | tr '/' ' ')"
 echo
 printf "\033[0m"
@@ -1688,8 +1689,8 @@ theleft=$((ii-gi))
 if [[  "$passd" -eq 1   ]] ; then
 theleft=$((constn-gcounts))
 fi
-printf "\033[0m@第"$gi"题\n"
 printf "\033[0m"
+printf "%s\n" "@还有${theleft}题"
 }
 
 
@@ -2093,27 +2094,26 @@ printf "\033[1B\033[2m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to 
 
 for i in $(seq $((COLUMN)));do
 
-	sleep 0.015
+	sleep 0.015  &&  read -s -t0   && read -s -t1 && break
 	[[  $i  -eq  1 ]] && printf "\033[2m\033[2A="
 	#printf "\033[1A"
 	#[[  $i  -eq  $((COLUMN)) ]] && printf "\r="
 	printf  "\033[?25l\033[2m\033[$((i-1))C=\r\033[2B\033[$((COLUMN-i))C=\033[2A\r"
 	[[  $i  -eq  $((COLUMN)) ]] && printf "\033[2m\033[2B\r=\033[2A"
 done
-sleep 0.01
+#sleep 0.01
 printf "\033[0m"
-sleep 0.02
-printf "\r\033[1A$strs_"
-sleep 0.01
-printf "\r\033[2B$strs_"
-sleep 0.04
+#printf "\r\033[1A$strs_"
+#printf "\r\033[2B$strs_"
+sleep 0.05
 printf "\r\033[2A"
-sleep 0.01
+sleep 0.02
 printf "\n\033[1D$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training"
 sleep 0.02
 printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
 sleep 0.02
 echo
+sleep 0.02
 printf  "\033[0m\033[?25l"
 [[  "$record" == "1"  ]] || [[  "$passd" == "1"  ]] && [[  "$calenda" == "1"  ]]  && printf "I,提词器 " &&  read  premode && gcounts=0
 [[  "$record" != "1"  ]] && [[  "$passd" != "1"  ]] && printf "I,提词器${spaces#              }II,完形填空${spaces#                }III,四选一" &&  read  premode
