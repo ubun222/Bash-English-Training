@@ -2484,7 +2484,7 @@ m=$(($RANDOM%$n+1))
 onetwo=$(($RANDOM%1+0))
 fi
 #echo $m
-[[  "$m" ==  "0"  ]] && m=1
+[[  "$m" -le  "0"  ]] && m=1
 [[  "$m" -gt  "$((n))"  ]] && m=$((m-1))
 if [[  $passd -eq 1  ]] ;then
 m="$(echo "$rangem" | sed -n "$m,${m}p")"
@@ -2558,7 +2558,7 @@ constn=$((constn/2))
 m=$n
 #m=$(($(($n-$((n%2))))/2))
 rdm2=$((m+2))  #为了抵消下面的-1
-rdm1=2
+rdm1=0
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
 for gi in $(seq 1 $ii)
 do
@@ -2569,25 +2569,25 @@ if [[  $passd -eq 1  ]] ;then
     [[  "$((constn))" -eq "$gcounts"  ]] && echo 过关了!!!  && return 0
 fi
 
-if [[  $random = 1 ]];then
-m2=$rdm1
+if [[  $random -eq 1 ]];then
 rdm1=$((rdm1+2))
-if [[ $rdm1 = $((m+2)) ]];then
-rdm1=2
+m2=$rdm1
+if [[  "$rdm1" -eq "$((m))"  ]];then
+rdm1=0
 fi
-elif [[  $random = 2 ]];then
+elif [[  "$random" -eq "2" ]];then
 rdm2=$((rdm2-2))
-if [[ $rdm2 = 0 ]];then
-rdm2=$((m))
-fi
 m2=$rdm2
-elif [[  $random = 3 ]];then
+if [[  "$rdm2" -eq "2"  ]];then
+rdm2=$((m+2))
+fi
+elif [[  "$random" -eq "3"  ]];then
 
 m2=$(($RANDOM%$((m/2))+1))
 m2=$((m2*2))
 fi
-[[  "$m2" ==  "0"  ]] && m2=1
-[[  "$m2" -gt  "$((m))"  ]] && m2=$((m2-1))
+[[  "$m2" -gt  "$((m))"  ]] && m2=$((m2-2))
+[[  "$m2" -le  "0"  ]] && m2=2
 if [[  $passd -eq 1  ]] ;then
         m2=$((m2/2))
         m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
@@ -2644,8 +2644,8 @@ constn=$((constn/2))
 [[  "$passd" -eq 1  ]] && rangem="$(seq $((n/2)))"
 m=$n
 #m=$(($(($n-$((n%2))))/2))
-rdm2=$((m-1))   #为了抵消下面的-1
-rdm1=1
+rdm2=$((m+1))   #为了抵消下面的-1
+rdm1=-1
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
 for gi in $(seq 1 $ii)
 do
@@ -2655,27 +2655,27 @@ if [[  $passd -eq 1  ]] ;then
     [[  "$((constn))" -eq "$gcounts"  ]] && echo 过关了!!!  && return 0
 fi
 
-if [[  $random = 1 ]];then
-m2=$rdm1
+if [[  "$random" -eq "1"  ]];then
 rdm1=$((rdm1+2))
-if [[ $rdm1 = $((m+1)) ]];then
-rdm1=1
+m2=$rdm1
+if [[  $rdm1 -ge "$((m-1))"  ]];then
+rdm1=-1
 fi
 
-elif [[  $random = 2 ]];then
-m2=$rdm2
+elif [[  "$random" -eq "2"  ]];then
 rdm2=$((rdm2-2))
-if [[ $rdm2 -eq -1 ]];then
-rdm2=$((m-1))
+m2=$rdm2
+if [[  "$rdm2" -le "1"  ]];then
+rdm2=$((m+1))
 fi
 
-elif [[  $random = 3 ]];then
+elif [[  "$random" -eq "3"  ]];then
 
 m2=$(($RANDOM%$((m/2))+1))
 m2=$((m2*2-1))
 fi
-[[  "$m2" -gt  "$((m))"  ]] && m2=$((m2-1))
-[[  "$m2" ==  "0"  ]] && m2=1
+[[  "$m2" -gt  "$((m))"  ]] && m2=$((m2-2))
+[[  "$m2" -le  "0"  ]] && m2=1
 if [[  $passd -eq 1  ]] ;then
         m2=$((m2+1))
         m2=$((m2/2))
@@ -2699,7 +2699,7 @@ la=${#question}
 la2=${#answer2}
 length=$((la+la2*2+7))
 
-m2=$((m2/2))
+m2=$(($((m2+1))/2))
 
 if [[  "$COLUMN" -ge "$length"  ]];then
 #read -e -p  "$question"——————:  scanf
@@ -2714,7 +2714,7 @@ bot=
 #echo $answer2 
 #if [[ $scanf = $answer1 ]] || [[ $scanf = $answer2 ]];then
 colourp 2>/dev/null
-m2=$((m2*2))
+m2=$(($((m2*2))-1))
 done
 fi
 
