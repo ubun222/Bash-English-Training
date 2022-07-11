@@ -725,6 +725,8 @@ fi
 [[  "$record" -eq 1   ]] && [[  "$calenda" -eq "1"  ]] && cd ../CORRECT/"$thepath"
 
 if [[  "$RC" -ne 1  ]]  && [[  "$passd" -eq 1   ]];then
+#[[  ${lr1} != ""  ]] && m4="$((m2/2))"
+
 if [[  $mode == 3  ]];then
 
 rangem="$(echo "$rangem" | grep -v  ^"${m}"$ )"
@@ -2149,7 +2151,7 @@ longtxt=$(echo "$txt"  | tr -s "	"  "\n")
 for gi in $(seq 1 $ii)
 do
 if [[  $passd -eq 1  ]] ;then
-    [[  "$RC" -eq 0  ]] && r1=$((r1-1)) && r2=$((r2-1)) && n=$((n-1))
+    [[  "$RC" -eq 0  ]] && r1=$((r1-1)) && r2=$((r2)) && n=$((n-1))
     #m=$(echo "$rangem" | sed -n "$m,${m}p")
     [[  $((constn)) -eq $gcounts  ]] && echo 过关了!!!  && return 0
 fi
@@ -2173,11 +2175,11 @@ elif [[  $random == 3 ]];then
 m=$((n))
 m=$(($RANDOM%$m+1))
 fi
-
+[[  "$m" ==  "0"  ]] && m=1
+[[  "$m" -gt  "$((n))"  ]] && m=$((m-1))
 if [[  $passd -eq 1  ]] ;then
 m="$(echo "$rangem" | sed -n "$m,${m}p")"
 fi
-
 question=$(echo "$longtxt" | sed -n "$m,${m}p" | tr '/' ' ')
 sleep 0.01
 echo  "${strs}"
@@ -2247,7 +2249,7 @@ for i in $(seq 1 $ii)
 do
 
 if [[  $passd -eq 1  ]] ;then
-    [[  "$RC" -eq "0"  ]] && r1=$((r1-1)) && r2=$((r2-1)) && m=$((m-1))
+    [[  "$RC" -eq "0"  ]] && r1=$((r1-1)) && r2=$((r2)) && m=$((m-1))
        # m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
     [[  "$((constn))" -eq "$gcounts"  ]] && echo 过关了!!!  && return 0
 fi
@@ -2265,18 +2267,18 @@ r2=$((r2-1))
 m2=$r2
 if [[ $r2 = 1 ]];then
 r2=$((m+1))
+#[[  "$passd" -eq 1  ]] && r2=$((r2-1))
 fi
 
 elif [[  $random = 3 ]];then
 
 m2=$(($RANDOM%$m+1))
 fi
-
+[[  "$m2" ==  "0"  ]] && m2=1
+[[  "$m2" -gt  "$((m))"  ]] && m2=$((m2-1))
 if [[  $passd -eq 1  ]] ;then
         m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
 fi
-
-
 question=$(echo "$txt"| sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}' | tr '/' ' ')
 sleep 0.01
 echo  "${strs}"
@@ -2327,7 +2329,7 @@ r2=$((m+1))   #为了抵消下面的-1
 for i in $(seq 1 $ii)
 do
 if [[  $passd -eq 1  ]] ;then
-    [[  "$RC" -eq "0"  ]] && r1=$((r1-1)) && r2=$((r2-1)) && m=$((m-1))
+    [[  "$RC" -eq "0"  ]] && r1=$((r1-1)) && r2=$((r2)) && m=$((m-1))
        # m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
     [[  "$((constn))" -eq "$gcounts"  ]] && echo 过关了!!!  && return 0
 fi
@@ -2350,7 +2352,8 @@ elif [[  $random = 3 ]];then
 
 m2=$(($RANDOM%$m+1))
 fi
-
+[[  "$m2" ==  "0"  ]] && m2=1
+[[  "$m2" -gt  "$((m))"  ]] && m2=$((m2-1))
 if [[  $passd -eq 1  ]] ;then
         m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
 fi
@@ -2400,18 +2403,27 @@ clear
 printf "\033[1B$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
 
 for i in $(seq $((COLUMN)));do
-	sleep 0.017
-	[[  $i  -eq  1 ]] && printf "\033[2A="
+
+	sleep 0.015  &&  read -s -t0   && read -s -t1 && break
+	[[  $i  -eq  1 ]] && printf "\033[2m\033[2A="
 	#printf "\033[1A"
 	#[[  $i  -eq  $((COLUMN)) ]] && printf "\r="
-	printf  "\033[?25l\033[$((i-1))C=\r\033[2B\033[$((COLUMN-i))C=\033[2A\r"
-	[[  $i  -eq  $((COLUMN)) ]] && printf "\033[2B\r=\033[2A"
+	printf  "\033[?25l\033[2m\033[$((i-1))C=\r\033[2B\033[$((COLUMN-i))C=\033[2A\r"
+	[[  $i  -eq  $((COLUMN)) ]] && printf "\033[2m\033[2B\r=\033[2A"
 done
+#sleep 0.01
+printf "\033[0m"
+#printf "\r\033[1A$strs_"
+#printf "\r\033[2B$strs_"
+sleep 0.05
+printf "\r\033[2A"
+sleep 0.02
 printf "\n\033[1D$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training"
-sleep 0.1
+sleep 0.02
 printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
-
+sleep 0.02
 echo
+sleep 0.02
 printf  "\033[0m\033[?25l"
 printf "I,提词器${spaces#              }II,完形填空${spaces#                }III,四选一"
 read  premode
@@ -2428,22 +2440,28 @@ echo
 printf "I,顺序${spaces#            }II,倒序${spaces#            }III,乱序"
 read -n 1 random
 echo 
-printf "需要多少题目:" 
-read ii
+[[  "$passd" -ne 1   ]] && printf "需要多少题目:"  && read ii
+[[  "$passd" -eq 1   ]] && ii=999 && gcounts=0
 
 printf "\033[0m"
 number0=0;
 #raw=$[raw-1];
 #rdm1=raw;rdm2=raw;
 rdm1=${raw:-$number0};rdm2=${raw:-$((n+1))}
+constn=$n
 if [[  $mode -eq 3  ]] ;then
-
+rangem="$(seq $n)"
+#longtxt=$(echo "$txt"  | tr -s "	"  "\n")
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
-for i in $(seq 1 $ii)
+for gi in $(seq 1 $ii)
 do
 #m=$[n-1]
 #m=$(($RANDOM%$m+1))
-
+if [[  $passd -eq 1  ]] ;then
+    [[  "$RC" -eq 0  ]] && rdm1=$((rdm1-1)) && rdm2=$((rdm2)) && n=$((n-1))
+    #m=$(echo "$rangem" | sed -n "$m,${m}p")
+    [[  $((constn)) -eq $gcounts  ]] && echo 过关了!!!  && return 0
+fi
 if [[  $random -eq 1  ]];then
 rdm1=$((rdm1+1))
 m=$rdm1
@@ -2466,6 +2484,11 @@ m=$(($RANDOM%$n+1))
 onetwo=$(($RANDOM%1+0))
 fi
 #echo $m
+[[  "$m" ==  "0"  ]] && m=1
+[[  "$m" -gt  "$((n))"  ]] && m=$((m-1))
+if [[  $passd -eq 1  ]] ;then
+m="$(echo "$rangem" | sed -n "$m,${m}p")"
+fi
 eval question=\${lr$m}
 # question=$(echo ${l})
 sleep 0.01
@@ -2530,12 +2553,21 @@ fi
 
 
 if [[ $mode = 2 ]] ;then
+constn=$((constn/2))
+[[  "$passd" -eq 1  ]] && rangem="$(seq $((n/2)))"
 m=$n
+#m=$(($(($n-$((n%2))))/2))
 rdm2=$((m+2))  #为了抵消下面的-1
 rdm1=2
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
-for i in $(seq 1 $ii)
+for gi in $(seq 1 $ii)
 do
+
+if [[  $passd -eq 1  ]] ;then
+    [[  "$RC" -eq "0"  ]] && rdm1=$((rdm1-2)) && rdm2=$((rdm2)) && m=$((m-2))
+       # m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
+    [[  "$((constn))" -eq "$gcounts"  ]] && echo 过关了!!!  && return 0
+fi
 
 if [[  $random = 1 ]];then
 m2=$rdm1
@@ -2554,6 +2586,13 @@ elif [[  $random = 3 ]];then
 m2=$(($RANDOM%$((m/2))+1))
 m2=$((m2*2))
 fi
+[[  "$m2" ==  "0"  ]] && m2=1
+[[  "$m2" -gt  "$((m))"  ]] && m2=$((m2-1))
+if [[  $passd -eq 1  ]] ;then
+        m2=$((m2/2))
+        m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
+        m2=$((m2*2))
+fi
 
 eval question=\${lr$m2}
 # question=$(echo ${l})
@@ -2569,6 +2608,9 @@ la=${#answer1}
 la2=${#question}
 length=$((la+la2*2+7))
 pureanswer="$(printf "\033[1m$answer1\033[0m $answer2")"
+
+m2=$((m2/2))
+
 if [[  $COLUMN -ge $length  ]];then
 iq=${#answer1}
 for t in `seq $iq`;do
@@ -2592,18 +2634,26 @@ bot=
 #echo $answer2 
 #if [[ $scanf = $answer1 ]] || [[ $scanf = $answer2 ]];then
 colourp 2>/dev/null
+m2=$((m2*2))
 done
 fi
 
 
 if [[ $mode = 1 ]] ;then
+constn=$((constn/2))
+[[  "$passd" -eq 1  ]] && rangem="$(seq $((n/2)))"
 m=$n
+#m=$(($(($n-$((n%2))))/2))
 rdm2=$((m-1))   #为了抵消下面的-1
 rdm1=1
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
-for i in $(seq 1 $ii)
+for gi in $(seq 1 $ii)
 do
-
+if [[  $passd -eq 1  ]] ;then
+    [[  "$RC" -eq "0"  ]] && rdm1=$((rdm1-2)) && rdm2=$((rdm2)) && m=$((m-2))
+       # m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
+    [[  "$((constn))" -eq "$gcounts"  ]] && echo 过关了!!!  && return 0
+fi
 
 if [[  $random = 1 ]];then
 m2=$rdm1
@@ -2624,6 +2674,15 @@ elif [[  $random = 3 ]];then
 m2=$(($RANDOM%$((m/2))+1))
 m2=$((m2*2-1))
 fi
+[[  "$m2" -gt  "$((m))"  ]] && m2=$((m2-1))
+[[  "$m2" ==  "0"  ]] && m2=1
+if [[  $passd -eq 1  ]] ;then
+        m2=$((m2+1))
+        m2=$((m2/2))
+        m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
+        m2=$((m2*2))
+                m2=$((m2-1))
+fi
 
 eval question=\${lr$m2}
 # question=$(echo ${l})
@@ -2640,6 +2699,8 @@ la=${#question}
 la2=${#answer2}
 length=$((la+la2*2+7))
 
+m2=$((m2/2))
+
 if [[  "$COLUMN" -ge "$length"  ]];then
 #read -e -p  "$question"——————:  scanf
 printf "\033[1m$question\033[0m"——————:
@@ -2653,6 +2714,7 @@ bot=
 #echo $answer2 
 #if [[ $scanf = $answer1 ]] || [[ $scanf = $answer2 ]];then
 colourp 2>/dev/null
+m2=$((m2*2))
 done
 fi
 
