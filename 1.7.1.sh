@@ -1138,8 +1138,8 @@ elif [[  "$is" -ge  1   ]] && [[  "$is" -gt "$iq" ]] ;then
 insert=" "
 fi
 
-[[  "1" -eq "$((frontier%COLUMN))" ]] && [[  "$is" -ge 1   ]]  && printf %s"\033[1A\033[${COLUMN}C$insert$Back\033[1C" "$insert" && continue
-[[  "0" -eq "$((frontier%COLUMN))" ]] && printf %s "$insert$Back$insert$Back" && continue
+[[  "$is" -ge  1   ]] && [[  "1" -eq "$((frontier%COLUMN))" ]] && [[  "$is" -ge 1   ]]  && printf %s"\033[1A\033[${COLUMN}C$insert$Back\033[1C" "$insert" && continue
+[[  "$is" -ge  1   ]] && [[  "0" -eq "$((frontier%COLUMN))" ]] && printf %s "$insert$Back$insert$Back" && continue
 
 
 [[  "$is" -ge  1   ]] && [[  "$is" -le "$iq" ]] &&  printf %s "$Back"$insert"$Back" && continue
@@ -2425,7 +2425,8 @@ sleep 0.02
 echo
 sleep 0.02
 printf  "\033[0m\033[?25l"
-printf "I,提词器${spaces#              }II,完形填空${spaces#                }III,四选一"
+printf "I,提词器"
+[[  "$passd" -ne  1  ]] && [[  "$record" -ne  1  ]] && printf "${spaces#              }II,完形填空${spaces#                }III,四选一"
 read  premode
 if [[  "${premode:-1}" -eq 2  ]];then
 _FUN
