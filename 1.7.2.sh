@@ -5,10 +5,10 @@ p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=${use:-2};wlist=1;a0=1;lastn=0;tno=0;
 #dirname $0
 #stty -echo
 Path="$(dirname $0)"
-tline=$(printf "\033[1A\033[32m●\033[0m\n")
-fline=$(printf "\033[1A\033[31m●\033[0m\n")
-nline=$(printf "\033[1A\033[33m○\033[0m\n")
-eline=$(printf "\033[1A\033[32m○\033[0m\n")
+tline=$(printf "\033[32m●\033[0m")
+fline=$(printf "\033[31m●\033[0m")
+nline=$(printf "\033[33m○\033[0m")
+eline=$(printf "\033[32m○\033[0m")
 save=$(printf "\033[s\n")
 reset=$(printf "\033[u\n")
 enter=$(printf "\r")
@@ -162,7 +162,7 @@ pt="$(echo "$txtall
 " | sed 'N;s/\n/ /')"
 
 while read line ;do
-sleep 0.01
+sleep 0.008
 printf "%-16s  %s\n"  $line 
 done <<EOF
 $pt
@@ -387,7 +387,7 @@ strs_="$strs_"=
 done
 
 strs="$(printf "\033[2m$strs\033[0m")"
-COL=$((COLUMN+14))
+COL=$((COLUMN-2))
 
 eval ' hello=`cat`' <<"blocks"
  _               _     
@@ -419,7 +419,7 @@ prt()
 {
     height=`echo "$1"|wc -l`
     for i in `seq "$height"`;do
-            sleep 0.01
+            sleep 0.006 && read -s -t0   && read -s -t1 && break
             char=`echo $1`
             [ -n "$char" ] && printf "$(echo "$1"|sed -n  "$i"p)"
         echo
@@ -669,34 +669,71 @@ therw=
 colourp()
 {
 #bool=s
+
 Dtop=0
 Dend=0
 RC=0
-sleep 0.01
+sleep 0.001
 hide=0
-if ifright ;then
+if [[  "$isright" -eq "1"  ]] || ifright ;then
+[[  "$auto" -eq "1"  ]] && sleep 0.001
 hide=1
-printf  "%${COL}s\r" ${tline}
+printf   "\033[${COL}C%s\r"  ${tline}
 elif [[ "${scanf:-0}" = "0" ]]; then
 #sleep 0.0001
-printf  "%${COL}s\r" ${nline}
+printf  "\033[${COL}C%s\r"  ${nline}
 RC=1
 else
 #sleep 0.0001
-printf  "%${COL}s\r" ${fline}
+printf   "\033[${COL}C%s\r"  ${fline}
 RC=1
 fi
 #printf  "\033[0m\033[2A"
-
+if [[  "$auto" -eq "1"  ]] && [[  "$isright" -eq "1"  ]];then
+while true;do
+IFS=$newline
+read -s -n1  pbool
+ptf=$?
+IFS=$IFSbak
+sleep 0.005
+if [[  $pbool == "$LF"  ]] || [[  $pbool == "$CR"  ]] || [[  $pbool == ""  ]] && [[  $ptf == "0"  ]] ;then
+break
+else
+continue
+fi 
+done
+fi
 echo
+[[  "$auto" -eq "1"  ]] && sleep 0.1
 printf "\033[2m%s\033[0m" "y释义/v例句/s跳过:"
 sleep 0.003
-read bool
-sleep 0.003
+
+#if [[  "$auto" -eq "1"  ]];then
+while true;do
+IFS=$newline
+read -s -n1  abool
+ttf=$?
+IFS=$IFSbak
+sleep 0.005
+if [[  "$abool"  ==  "y"  ]]  || [[  "$abool"  ==  "Y"  ]] ;then
+printf "释义$enter" && bool="y"
+break
+elif [[  "$abool"  ==  "v"  ]] || [[  "$abool"  ==  "V"  ]];then
+printf "例句$enter" && bool="v"
+break
+elif [[  "$abool"  ==  "s"  ]] ||  [[  "$abool"  ==  "S"  ]];then
+printf "跳过$enter" && bool="s"
+break
+elif [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]] || [[  $abool == ""  ]] && [[  $ttf == "0"  ]] ;then
+break
+else
+continue
+fi 
+done
+#fi
 bool=${bool:-0}
 #printf "\r"
-printf "\033[1A"
-sleep 0.005
+#printf "\033[1A"
 printf  "$spaces$enter"
 sleep 0.0001
 if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
@@ -711,8 +748,8 @@ verbose
 elif [[ $bool = 's' ]] || [[ $bool = 'S' ]]  ; then
 RC=0
 sleep 0.005
-printf "\033[1A\n"
-printf  "%${COL}s\n" ${eline}
+printf "\033[1A"
+printf   "\033[${COL}C%s\n\r"  "${eline}"
 sleep 0.005
 printf "%s" "$(echo $pureanswer | tr '/' ' ')"
 echo
@@ -819,11 +856,18 @@ ccc
 read_()
 {
 if [[  "$ascanf" != ""   ]] ;then
-printf "${ascanf}"
+if [[  "$auto" -eq 1  ]] ;then
+stty echo
+printf "${ascanf}" 
+ififright && stty -echo && return 22
+stty -echo
+else
+printf "${ascanf}" 
 fi
 
+fi
 IFS=$ENTER
-read -s -n1 ascanf && sleep 0.0002
+read -s -n1 ascanf &&  sleep 0.0002
 IFS=$IFSbak
 }
 
@@ -854,7 +898,17 @@ fi
 #[[  "$ib" -le "1"   ]] && bscanf=""
 #[[  "$waiting" == "1"   ]] && bscanf="$needpt"
 read -t1 -s -d \R pos1
-printf "${ascanf}"
+
+
+if [[  "$auto" -eq 1  ]] ;then
+stty echo
+printf "${ascanf}" 
+ififright && stty -echo && return 22
+stty -echo
+else
+printf "${ascanf}" 
+fi
+
 
 printf "\033[6n" && read -t1 -s -d \[ bb && read -t1 -s  -d \R pos2
 [[  "$pos1" != "$pos2"  ]] && break
@@ -889,6 +943,8 @@ fi
 
 Readzh()
 {
+which=zh
+isright=0
     stty -echo
 needpt=
 bscanf=
@@ -915,12 +971,19 @@ while true;do
 #eval ascanf=\${scanf$i}
 #IFSbak=$IFS
 #IFS=$ENTER
-[[  "$ish" != "y"  ]] && read_ && tf=$?
-[[  "$ish" == "y"  ]] && _read && tf=$?
-
+if [[  "$ish" != "y"  ]] || [[  "$auto" -eq "1"  ]] ;then
+read_
+tf=$?
+elif [[  "$ish" == "y"  ]] ;then
+_read 
+tf=$?
+fi
 #IFS=$IFSbak
 #printf "$question"——————:"$scanf"$enter
-
+if [[  "$tf" -eq "22"   ]] ;then
+#sleep 0.1 &&  read -s -t0   && read -s -t1
+printf "\r" && break
+fi
 #sleep 0.0016
 
 #echo ascanf:$ascanf
@@ -1001,7 +1064,7 @@ printf "\033[1m$question\033[0m"——————:
 continue
 
 elif [[  "$ascanf" == "$LF"  ]] || [[  "$ascanf" == "$CR"  ]] || [[  "$ascanf" == ""  ]] && [[  $tf == "0"  ]] ;then
-echo
+printf "$enter"
 break
 
 elif [[  $ascanf  ==  '	'  ]];then
@@ -1039,10 +1102,12 @@ elif [[  $ascanf  !=  [$B\'a-zA-Z'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]] ;then
 #N=$((N+1))
 zscanf="$(printf "$zscanf${ascanf}")"
 scanf="$(printf "$scanf${ascanf}")"
+
 # [[  "${#zscanf}" == "3"   ]] && LENGTH=$((LENGTH+2))
 
 if [[  $cccc -eq 0  ]];then
 if  [[  ${#zscanf} -eq "1"  ]] ;then
+
 ascanf="$zscanf" && zscanf=  && continue
 else
 ascanf=
@@ -1050,15 +1115,13 @@ fi
 fi
 
 if [[  $cccc -eq 1  ]];then
-[[  $waiting -eq 1  ]] && [[  ${#zscanf} -eq "1"  ]] && ascanf="$zscanf" && zscanf=  && continue
+[[  $waiting -eq 1  ]] && [[  ${#zscanf} -eq "1"  ]] && ascanf="$zscanf" && zscanf=   && continue
 if  [[  ${#zscanf} -eq "1"  ]] && [[  "${zscanf}" != "${ascanf}"  ]] && [[  ${#zscanf} -ne "2"  ]] && [[  $waiting -eq 0  ]] ;then
-ascanf="$zscanf" && zscanf=  && continue
+ascanf="$zscanf" && zscanf=   && continue
 else
 ascanf=
 fi
-
 fi
-
 continue
 
 
@@ -1074,6 +1137,8 @@ stty echo
 
 Readen()
 {
+which=en
+isright=0
 stty -echo
 waiting=0
 nb=0
@@ -1094,11 +1159,19 @@ while true;do
 #eval ascanf=\${scanf$i}
 #IFSbak=$IFS
 #IFS=$newline
-[[  "$ish" != "y"  ]] && read_ && tf=$?
-[[  "$ish" == "y"  ]] && _read && tf=$?
+if [[  "$ish" != "y"  ]] ;then
+read_
+tf=$?
+elif [[  "$ish" == "y"  ]] ;then
+_read 
+tf=$?
+fi
 #IFS=$IFSbak
 #echo ascanf:$ascanf
-
+if [[  "$tf" -eq "22"   ]] ;then
+#sleep 0.1 &&  read -s -t0   && read -s -t1
+ printf "\r" && break
+fi
 if [[  $ascanf  ==  [A-Za-z' '-]  ]];then
 #let scanf$i=ascanf
 scanf=$scanf${ascanf}
@@ -1163,7 +1236,7 @@ fooo=$(printf "$foo" | awk -F';' '{printf $2}')
 #printf $fooo && sleep 5                                 
 #[[  $fooo -eq 1  ]] && printf "\033[1A"                 
 #fi
-echo
+printf "$enter"
 break
 else
 ascanf=
@@ -1330,15 +1403,58 @@ trap 'printf "\033[?25h\033[0m"  '  EXIT
 #trap SIGTSTP
 #m=$[$[$n-$[n%2]]/2]*2]
 # for
+
+
+
+ififright()
+{
+if [[  "$which" == "zh"  ]] ; then
+scanfd="$(echo "${scanf:-n1}" | tr " " "，" )"
+scanfd="$(echo "${scanfd:-n1}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}'   )"
+#scanfd="$(echo "${scanfd:-n1}" | awk 'BEGIN{FS=" "}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}'   )"
+#soscanfd="$(printf "$scanfd" | sort)"
+#echo "$scanfd"
+answerd="$(echo "${answer2:-n1}" | tr " " "，" )"
+answerd="$(echo "${answerd:-n}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}' )"
+#echo "$answerd"
+#[[  "$scanfd" == "$answerd"  ]]  && return 0 
+
+thelast="$(printf "${scanf:-n1}" | awk 'BEGIN{FS="，"}{print $NF}'   )"
+
+[[  "$thelast" == "n1"   ]] || [[  "$thelast" == ""   ]] && return 2
+#printf "$thelast"
+while read line ;do
+if [[  "$line" == "$thelast"  ]] ;then
+scanfd="$(printf "$scanfd" | sort)"
+answerd="$(printf "$answerd" | sort)"
+#echo 1"$scanfd"
+#echo 2"$answerd"
+[[  "$scanfd" == "$answerd"  ]] && isright=1  && return 0 
+sleep 0.05 && read -s -t0   && read -s -t1
+printf '，'  && scanf="$scanf"， && break
+else
+continue
+fi
+done <<EOF
+$answerd
+EOF
+return 2
+
+elif [[  "$which" == "en"  ]] ; then
+[[  "${scanf:-n1}" == "${answer1:-n}"  ]]  &&  isright=1 && return 0
+fi
+
+
+}
+
 ifright()
 {
 
-
 [[  "${scanf:-n1}" == "${answer1:-n}"  ]]  &&  return 0
-
-scanfd="$(echo "${scanf:-n1}" | awk 'BEGIN{FS="[， ,]"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}' | sort  )"
+scanfd="$(echo "${scanf:-n1}" | tr " " "，" )"
+scanfd="$(echo "${scanf:-n1}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}' | sort   )"
 #echo "$scanfd"
-answerd="$(echo "${answer2:-n}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}' | sort)"
+answerd="$(echo "${answer2:-n}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}' | sort )"
 #echo "$answerd"
 [[  "$scanfd" == "$answerd"  ]]  && return 0 
 return 1
@@ -1456,32 +1572,6 @@ exit
 #RWN=1
 fi
 
-#cd ../..
-#echo $txt
-
-
-
-#(echo | shasum ) >&/dev/null
-#[[ $? -eq 0 ]] && sha1=$(echo $txt | shasum) && sha2=$(echo $alldata | shasum) &&
-#unset sha3  sha4
-
-#(echo | sha1sum) >&/dev/null
-#[[ $? -eq 0 ]] && sha3=$(echo $txt | sha1sum) && sha4=$(echo $alldata | sha1sum) &&
-#unset sha1  sha2
-#[[ "$sha1" ]] && echo 源变量shasum:${sha1}  #$txt
-#[[ "$sha2" ]] && echo 合成变量shasum:${sha2}  #$alldata
-#[[ "$sha3" ]] && echo 源变量sha1sum:${sha3}  #$txt
-#[[ "$sha4" ]] && echo 合成变量sha1sum:${sha4}
-#if  [[ "$sha1" = "$sha2" && "$sha3" = "$sha4"  ]];then
-
-#echo 验证通过！
-#elif [[ $sha1 != $sha2 ]];then
-#else
-#printf 验证不通过!
-#read
-
-#exit
-#fi
 
 fi
 }
@@ -1501,7 +1591,7 @@ for t in `seq $iq`;do
 tt=t
 t1=$((tt-1))
 id=${p:$t1:1}
-if [[  "$id"  ==  [a-zA-Z\ -\—]   ]];then
+if [[  "$id"  ==  [a-zA-Z\ -\”]   ]];then
 counts=$((counts+1))
 else
 counts=$((counts+2))
@@ -1597,6 +1687,7 @@ replace1 p
 }
 yes()
 {
+sleep 0.01 &&  read -s -t0   && read -s -t1
     printf "\033[0m"
 targets=${targets:-/dev/null}
 
@@ -1652,6 +1743,7 @@ printf "\033[0m"
 
 verbose()
 {
+sleep 0.01 &&  read -s -t0   && read -s -t1
 targets=${targets:-/dev/null}
     printf "\033[0m"
 #echo $linenum
@@ -1746,7 +1838,7 @@ for t in `seq $iq`;do
 tt=t
 t1=$((tt-1))
 id="${inquiry:$t1:1}"
-if [[  "$id"  ==  [a-zA-Z\ -\—]   ]];then
+if [[  "$id"  ==  [a-zA-Z\ -\”]   ]];then
 counts=$((counts+1))
 else
 counts=$((counts+2))
@@ -1995,6 +2087,11 @@ question=$answer2
 answer=$answer1
 
 iq=$((${#question}*2))
+for i in $(seq ${#question});do
+if [[  "${question:i:1}" == '.'  ]] ;then
+iq=$((iq-1))
+fi
+done
 cq=$((COLUMN/2))
 left=$((cq+iq))
 
@@ -2118,7 +2215,8 @@ echo
 sleep 0.02
 printf  "\033[0m\033[?25l"
 [[  "$record" == "1"  ]] || [[  "$passd" == "1"  ]] && [[  "$calenda" == "1"  ]]  && printf "I,提词器 " &&  read  premode && gcounts=0
-[[  "$record" != "1"  ]] && [[  "$passd" != "1"  ]] && printf "I,提词器${spaces#              }II,完形填空${spaces#                }III,四选一" &&  read  premode
+[[  "$record" != "1"  ]] && [[  "$passd" != "1"  ]] && [[  "$calenda" == "1"  ]]  && printf "I,提词器${spaces#              }II,完形填空${spaces#                }III,四选一"  &&  read  premode
+[[  "$calenda" != "1"  ]]  && printf "I,提词器${spaces#              }II,完形填空${spaces#                }III,四选一"  &&  read  premode
 if [[  "${premode:-1}" -eq 2  ]];then
 _FUN
 return 0
@@ -2775,16 +2873,15 @@ n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 echo  "${strs}"
 echo 检测到$((n/2))组单词
 [[ $(($n/2)) -le 200 ]] && return 0
-[[ $(($n/2)) -gt 200 ]] && read -n 1 -p "按任意键跳过$enter"  choice
+[[ $(($n/2)) -gt 200 ]] && read -n 1 -p "按任意键跳过加载，按Y强制加载"  choice
 echo
 if [[ "$choice" = 'y' ]] || [[ "$choice" = 'Y'  ]] ;  then
-	read -p 安卓双击屏幕以缩放
+
 return 0
 
 
 else 
 
-	read  -p 安卓双击屏幕以缩放
 	
 return 2
 fi
@@ -2856,7 +2953,7 @@ done
 
 
 
-while getopts ":rsip" opt; do
+while getopts ":rsipa" opt; do
     case $opt in
         p)
         echo 通关模式 && passd=1
@@ -2869,6 +2966,9 @@ while getopts ":rsip" opt; do
         ;;
         i)
         echo 优化ish && ish=y
+        ;;
+        a)
+        echo 辅助模式 && auto=1
         ;;
 
 esac
