@@ -1911,7 +1911,8 @@ printf "\033[1m"
 iq=$aiq
 Readen
 printf "\033[0m"
-printf "\033[1A"
+#[[  "$auto" -ne "1"  ]] && printf "\033[1A"
+
 addscan=0
 [[  ${scanf} ==  ""   ]] && addscan=1
 add=$((aiq-${#scanf}))
@@ -2968,7 +2969,7 @@ while getopts ":rsipa" opt; do
         echo 优化ish && ish=y
         ;;
         a)
-        echo 辅助模式 && auto=1
+        echo 自动化模式 && auto=1
         ;;
 
 esac
