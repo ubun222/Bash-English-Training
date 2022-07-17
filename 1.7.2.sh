@@ -2969,7 +2969,7 @@ while getopts ":rsipa" opt; do
         echo 优化ish && ish=y
         ;;
         a)
-        echo 自动化模式 && auto=1
+        echo 答题辅助模式 && auto=1
         ;;
 
 esac
