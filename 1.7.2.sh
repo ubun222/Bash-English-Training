@@ -857,7 +857,7 @@ read_()
 {
 if [[  "$ascanf" != ""   ]] ;then
 if [[  "$auto" -eq 1  ]] ;then
-stty echo
+#stty echo
 printf "${ascanf}" 
 ififright && stty -echo && return 22
 stty -echo
@@ -901,7 +901,7 @@ read -t1 -s -d \R pos1
 
 
 if [[  "$auto" -eq 1  ]] ;then
-stty echo
+#stty echo
 printf "${ascanf}" 
 ififright && stty -echo && return 22
 stty -echo
@@ -1409,6 +1409,7 @@ trap 'printf "\033[?25h\033[0m"  '  EXIT
 ififright()
 {
 if [[  "$which" == "zh"  ]] ; then
+stty echo
 scanfd="$(echo "${scanf:-n1}" | tr " " "，" )"
 scanfd="$(echo "${scanfd:-n1}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}'   )"
 #scanfd="$(echo "${scanfd:-n1}" | awk 'BEGIN{FS=" "}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}'   )"
@@ -1421,12 +1422,16 @@ answerd="$(echo "${answerd:-n}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$
 
 thelast="$(printf "${scanf:-n1}" | awk 'BEGIN{FS="，"}{print $NF}'   )"
 
+scanfd="$(printf "$scanfd" | sort)"
+answerd="$(printf "$answerd" | sort)"
+stty -echo
 [[  "$thelast" == "n1"   ]] || [[  "$thelast" == ""   ]] && return 2
 #printf "$thelast"
 while read line ;do
 if [[  "$line" == "$thelast"  ]] ;then
-scanfd="$(printf "$scanfd" | sort)"
-answerd="$(printf "$answerd" | sort)"
+#scanfd="$(printf "$scanfd" | sort)"
+#answerd="$(printf "$answerd" | sort)"
+#stty -echo
 #echo 1"$scanfd"
 #echo 2"$answerd"
 [[  "$scanfd" == "$answerd"  ]] && isright=1  && return 0 
