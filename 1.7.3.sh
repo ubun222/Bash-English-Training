@@ -163,7 +163,8 @@ pt="$(echo "$txtall
 
 while read line ;do
 sleep 0.008
-printf "%-16s  %s\n"  $line 
+[[  "${#line}" -le  "$((COLUMN-2))"  ]] && printf "%-16s  %s\n"  $line  && continue
+[[  "${#line}" -gt  "$((COLUMN-2))"  ]] && printf "%s\n%s\n"  $line  && continue
 done <<EOF
 $pt
 EOF
@@ -191,7 +192,9 @@ none="$(echo ${txtall:-/dev/null} | xargs cat)"
 #echo $targets
 if [[  $none != ""  ]] ;then
 clear &&  while read line ;do
-printf "%-16s  %s\n"  $line 
+sleep 0.008
+[[  "${#line}" -le  "$((COLUMN-2))"  ]] && printf "%-16s  %s\n"  $line  && continue
+[[  "${#line}" -gt  "$((COLUMN-2))"  ]] && printf "%s\n%s\n"  $line  && continue
 done <<EOF
 $pt
 EOF
@@ -200,7 +203,9 @@ EOF
 else 
 txtall="$bk" &&  pt="$(echo "$txtall" | sed 'N;s/\n/ /')" && echo 请重新输入 && read -t1
 clear && printf "\033[2m" &&  while read line ;do
-printf "%-16s  %s\n"  $line 
+sleep 0.008
+[[  "${#line}" -le  "$((COLUMN-2))"  ]] && printf "%-16s  %s\n"  $line  && continue
+[[  "${#line}" -gt  "$((COLUMN-2))"  ]] && printf "%s\n%s\n"  $line  && continue
 done <<EOF
 $pt
 EOF
@@ -462,8 +467,8 @@ printf "\r%s\r"  "/...."
 #read -n1 aaaaa
 done
 sleep 0.02
-printf "\033[1A"
-sleep 0.02
+#printf "\033[1A"
+#sleep 0.02
 }
 
 loadcontent()
@@ -669,14 +674,15 @@ therw=
 colourp()
 {
 #bool=s
-
+stty -echo
 Dtop=0
 Dend=0
 RC=0
-sleep 0.001
+#sleep 0.001
 hide=0
 if [[  "$isright" -eq "1"  ]] || ifright ;then
-[[  "$auto" -eq "1"  ]] && sleep 0.001
+sleep 0.005
+#[[  "$auto" -eq "1"  ]] && sleep 0.001
 hide=1
 printf   "\033[${COL}C%s\r"  ${tline}
 elif [[ "${scanf:-0}" = "0" ]]; then
@@ -689,6 +695,7 @@ printf   "\033[${COL}C%s\r"  ${fline}
 RC=1
 fi
 #printf  "\033[0m\033[2A"
+sleep 0.003
 if [[  "$auto" -eq "1"  ]] && [[  "$isright" -eq "1"  ]];then
 while true;do
 IFS=$newline
@@ -703,10 +710,14 @@ continue
 fi 
 done
 fi
-echo
-[[  "$auto" -eq "1"  ]] && sleep 0.1
-printf "\033[2m%s\033[0m" "y释义/v例句/s跳过:"
 sleep 0.003
+
+printf "\n"
+
+sleep 0.003
+#[[  "$auto" -eq "1"  ]] && sleep 0.1
+printf "\033[2m%s\033[0m" "y释义/v例句/s跳过:"
+
 
 #if [[  "$auto" -eq "1"  ]];then
 while true;do
@@ -725,17 +736,21 @@ elif [[  "$abool"  ==  "s"  ]] ||  [[  "$abool"  ==  "S"  ]];then
 printf "跳过$enter" && bool="s"
 break
 elif [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]] || [[  $abool == ""  ]] && [[  $ttf == "0"  ]] ;then
+#printf ${spaces}${spaces# }
 break
 else
 continue
 fi 
 done
+#printf ${spaces}
 #fi
+#printf ${spaces# }
 bool=${bool:-0}
 #printf "\r"
 #printf "\033[1A"
-printf  "$spaces$enter"
+#printf  "$spaces$enter"
 sleep 0.0001
+printf "\r%s\r" "${spaces}${spaces# }"
 if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 #printf "\033[$((COLUMN-7))C释义\n"
 
@@ -752,7 +767,7 @@ printf "\033[1A"
 printf   "\033[${COL}C%s\n\r"  "${eline}"
 sleep 0.005
 printf "%s" "$(echo $pureanswer | tr '/' ' ')"
-echo
+printf "\n"
 printf "\033[0m"
 else
 sleep 0.005
@@ -837,6 +852,7 @@ fi
 fi
 fi
 [[  "$record" -eq 1   ]] && [[  "$calenda" -eq "1"  ]] && cd ../../"$thepath"
+#stty -echo
 }
 
 
@@ -855,7 +871,7 @@ ccc
 
 read_()
 {
-if [[  "$ascanf" != ""   ]] ;then
+if [[  "$ascanf" != ""   ]]  ;then
 if [[  "$auto" -eq 1  ]] ;then
 #stty echo
 printf "${ascanf}" 
@@ -867,20 +883,24 @@ fi
 
 fi
 IFS=$ENTER
+stty echo
 read -s -n1 ascanf &&  sleep 0.0002
+stty -echo
 IFS=$IFSbak
 }
 
 
 _read()
 {
-
+#stty echo
 [[  "$((nb))"  == "$ib"   ]] && waiting=0 && bscanf= && needpt= && ib= && nb=0
 bd=0
 
-
-if [[  "$ascanf" != ""   ]];then
+if [[  "$ascanf" != ""   ]]  && [[  "${#scanf}" -ne "0"  ]] || [[  "$vback" -eq "1"   ]] ;then
+stty -echo
 while true;do
+
+#[[  "$ascanf" == ""   ]] && [[  "$vback" -ne "1"  ]]  && break
 printf "\033[6n"
 
 if [[  $bd -ne 1   ]];then
@@ -911,21 +931,55 @@ fi
 
 
 printf "\033[6n" && read -t1 -s -d \[ bb && read -t1 -s  -d \R pos2
-[[  "$pos1" != "$pos2"  ]] && break
-if [[  "$pos1" == "$pos2"  ]]; then
-#sleep 0.3
+now3=
+now2=
+now=
+#needo=
+[[   "$which" == "zh"  ]] && [[  "$((${pos1:$((${#pos1}-1))}+1))" == "${pos2:$((${#pos2}-1))}"  ]] && now3=1 && break
+[[  "$pos1" != "$pos2"  ]]  && break
+stty echo
+#echo $pos1
+#echo $pos2
 wherec=$(printf "$pos2" | awk -F\; '{printf $2}' )
-[[  $wherec -eq $COLUMN  ]]  && break
+#[[   "$which" == "zh"  ]] && [[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
+if [[   "$which" == "zh"  ]] && [[  "$vback" -ne  "1"  ]] ;then
+[[  $wherec -eq $((COLUMN))  ]] && [[  "$ascanf" == "."  ]] && break
+[[  $wherec -eq $((COLUMN))  ]]  && printf   " " && needo=1 && continue
 
-continue
 fi
+if [[  ${vback} -eq "1"   ]] ; then
+#sleep 0.3
+#echo
+if [[   "$which" == "zh"  ]] && [[  "$vback" == "1"  ]] ;then
+#echo 22222
+#echo $wherec
+[[  "$needo" -ne 1  ]] && reg=$((COLUMN))
+[[  "$needo" -eq 1  ]] && reg=$((COLUMN-3))
+#[[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
+[[  $wherec -eq 1  ]]  && printf %s"\r\033[1A\033[${reg}C" "" && now2=1
+# now2=1
+break
+fi
+fi
+#stty -echo
+#now3=
+[[  $wherec -eq $COLUMN  ]] && now3=1  && break
+[[  "$vback" -eq  "1"  ]] && break
+[[  "$which" == "en"  ]] && [[  "$vback" -ne  "1"  ]] && continue
+#break
+#continue
+#fi
 done
 fi
+
 if  [[  "$bscanf"  == ""   ]] ; then
+
 IFS=$ENTER
-read -s -n1 ascanf && sleep 0.0002
+read -s -n1 ascanf 
 IFS=$IFSbak
+
 elif [[  "$bscanf"  != ""   ]];then 
+#stty -echo
 #[[  "$((nb))"  == "$ib"   ]] && waiting=0
 needpt="${bscanf%%"$bb"}"
 ib=${#needpt}
@@ -938,11 +992,13 @@ waiting=1
 #[[  "$((nb))"  == "$ib"   ]] && waiting=0 && IFS=$ENTER &&  read -s -n1 ascanf && IFS=$IFSbak
 fi
 
-
+stty echo
 }
 
 Readzh()
 {
+#vback=
+    needo=
 which=zh
 isright=0
     stty -echo
@@ -967,17 +1023,20 @@ Lb=0
 zscanf=
 #printf $enter"$question"——————:
 while true;do
+
 #ascanf="!!"
 #eval ascanf=\${scanf$i}
 #IFSbak=$IFS
 #IFS=$ENTER
-if [[  "$ish" != "y"  ]] || [[  "$auto" -eq "1"  ]] ;then
+if [[  "$ish" != "y"  ]] ;then
 read_
 tf=$?
 elif [[  "$ish" == "y"  ]] ;then
 _read 
 tf=$?
 fi
+#stty echo
+vback=
 #IFS=$IFSbak
 #printf "$question"——————:"$scanf"$enter
 if [[  "$tf" -eq "22"   ]] ;then
@@ -992,20 +1051,16 @@ if [[  "$ascanf" == "$B"  ]]  ;then
 #echo 123
 #printf 22
 #printf "\b"
-ascanf=
+ascanf=""
 L="${#scanf}"
-
-#if [[  "$L" -gt "1"  ]] ;then
-#for i in $(seq $L);do
-#Backs="$Backs$Back"
-#done
-
-
+vback=1
+#[[  "$L" -gt "0"  ]] && vback=1
+[[  "$L" -eq "1"  ]] && vback=
 #fi
 Ll=$L
 L=$((L-1))
 
-[[  "$L" -le "0"  ]] && L=0
+[[  "$L" -le "0"  ]] && L=0 
 #echo $L
 #echo -ne "\033[6n" && read -s -d R fo
 #foo=$(echo $fo | tr -d 'R;')
@@ -1013,11 +1068,22 @@ L=$((L-1))
 #foo="$(echo "$fo" | awk -F ';' '{printf $2}')"
 
 #[[  "$foo" == "1" ]] &&  printf  "$Back" && continue
+#if [[  "${scanf:$L}"  != "."  ]] ;then
+# extrb=" "
+#else
+#extrb=""
+#fi
+reg2=" $Back $Back"
+[[  "${scanf:$L}"  == "."  ]] && reg2=" " 
+[[  "$now2" -eq 1  ]]   &&  printf  "$reg2" && scanf="${scanf:0:$L}" && needo=  && now2= && continue
+
 [[  "$L"  -ge "0"  ]] && [[  "${scanf:$L}"  == "."  ]]  &&  printf  "$Back $Back" && scanf="${scanf:0:$L}" && continue
 scanf="${scanf:0:$L}"
 #echo $LENGTH
 #echo ${scanf:$L}
-[[  "$Ll"  -ge "1"  ]] &&  printf  "$Backs$Block$Backs"  && continue
+reg4="$Backs$Block$Backs"
+[[  "$now3" -eq "1"  ]] && reg4="$Back $Back"
+[[  "$Ll"  -ge "1"  ]] &&  printf  "$reg4"  && continue
 
 continue
 
@@ -1166,6 +1232,7 @@ elif [[  "$ish" == "y"  ]] ;then
 _read 
 tf=$?
 fi
+
 #IFS=$IFSbak
 #echo ascanf:$ascanf
 if [[  "$tf" -eq "22"   ]] ;then
@@ -1197,13 +1264,18 @@ scanf=${scanf%[a-zA-Z' '-]}
 #printf "$enter$spaces${spaces% }\r"$question"——————:$bot\r"$question"——————:$scanf"
 backscanf=
 blocks=
+
 for si in $(seq $is);do
 backscanf="$backscanf"$Back
 blocks=$blocks' '
 done
 #printf $((it+is))
 
+if [[   $premode -eq 1  ]] || [[   $premode == ""  ]] ;then
+frontier="$((la2+is+8))"
+elif [[   $premode -eq 2  ]];then
 frontier="$((it-answe+is+1))"
+fi
 
 if  [[  "$is" -ge  1   ]] && [[  "$is" -le "$iq" ]] ;then
 insert="-"
@@ -1398,7 +1470,7 @@ EOF
 done
 
 }
-trap 'printf "\033[?25h\033[0m"  '  EXIT
+trap 'printf "\033[?25h\033[0m" && stty echo '  EXIT
 #trap 'FIND' SIGTSTP
 #trap SIGTSTP
 #m=$[$[$n-$[n%2]]/2]*2]
@@ -2189,12 +2261,14 @@ echo $strs
 done
 }
 
+
+
 FUN()
 {
-
+#premode=1
    clear
 #printf "\033[s"
-
+stty -echo
 printf "\033[1B\033[2m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
 
 for i in $(seq $((COLUMN)));do
@@ -2219,14 +2293,18 @@ printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English
 sleep 0.02
 echo
 sleep 0.02
+stty echo
 printf  "\033[0m\033[?25l"
-[[  "$record" == "1"  ]] || [[  "$passd" == "1"  ]] && [[  "$calenda" == "1"  ]]  && printf "I,提词器 " &&  read  premode && gcounts=0
+[[  "$record" == "1"  ]] || [[  "$passd" == "1"  ]] && [[  "$calenda" == "1"  ]]  && printf "I,提词器 " &&  read   premode && gcounts=0
 [[  "$record" != "1"  ]] && [[  "$passd" != "1"  ]] && [[  "$calenda" == "1"  ]]  && printf "I,提词器${spaces#              }II,完形填空${spaces#                }III,四选一"  &&  read  premode
 [[  "$calenda" != "1"  ]]  && printf "I,提词器${spaces#              }II,完形填空${spaces#                }III,四选一"  &&  read  premode
-if [[  "${premode:-1}" -eq 2  ]];then
+#printf "\033[1A"
+stty -echo
+#[[  ${premode}  ]]
+if [[  "${premode:-1}" -eq "2"  ]];then
 _FUN
 return 0
-elif [[  "${premode:-1}" -eq 3  ]];then
+elif [[  "${premode:-1}" -eq "3"  ]];then
 FUN_
 return 0
 fi
@@ -2288,55 +2366,62 @@ question=$(echo "$longtxt" | sed -n "$m,${m}p" | tr '/' ' ')
 sleep 0.01
 echo  "${strs}"
 #echo -n "$question"         #printf 命令需要套一个双引号才能输出空格
-
 No=$(($((m/2))+$((m%2))))
 pureanswer=$(echo "$txt"| sed -n "$No,${No}p" )
-#read -p  '————请输入答案:'  scanf  < cat
-#read a < /dev/stdin <<eof
 answer1="$(printf "$pureanswer" | awk '{printf $1}' | tr '/' ' ')"
 answer2="$(printf "$pureanswer" | awk '{printf $2}' | tr '/' ' ')"
 
 la=${#answer1}
-la2=${#answer2}
-length=$((la+la2*2+7))
+la2=$((${#answer2}*2))
+for i in $(seq ${#answer2});do
+if [[  "${answer2:i:1}" == '.'  ]] ;then
+la2=$((la2-1))
+fi
+done
+length=$((la+la2+7))
 
 if [[ "$question" = "$answer1" ]] ;then
+
 answer=$answer2
 pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
-if [[  "$COLUMN" -ge "$length"  ]];then
+#if [[  "$COLUMN" -ge "$length"  ]];then
 #read -e -p  "$question"——————:  scanf
-printf "\033[1m$question\033[0m"——————:
+stty echo
+printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
+stty -echo
 Readzh
-else
-read -e -p  "$question"======:  scanf
-fi
+
+#else
+#read -e -p  "$question"======:  scanf
+#fi
 
 #elif [[ "$question" = "$answer2" ]] ;then
 else
 #echo $length
 answer=$answer1
 pureanswer="$(printf "\033[1m$answer1\033[0m $answer2")"
-if [[  $COLUMN -ge $length  ]];then
+#if [[  $COLUMN -ge $length  ]];then
 iq=${#answer1}
 for t in `seq $iq`;do
 bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
-printf "$question"——————:"$bot"\\r
-#printf "\r"
-#read -e  -p  "$question"——————:  scanf
-printf "\033[1m$question\033[0m"——————:
+printf "$question"——————:"\033[0m$bot"\\r
+[[  $COLUMN -lt $length  ]] && printf "\033[1A"
+printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
 Readen
 
 
-else 
-answer=$answer1
+#else 
+#answer=$answer1
 #printf "$question——————:$enter"
-printf "\033[1m$question\033[0m"======:
-read -e -p $CB scanf
+#printf "\033[1m$question\033[0m"======:
+#printf "$question"——————:"$bot"\\r"\033[1A\033[1m$question\033[0m"——————:
+#Readen
 #echo
+#fi
 fi
-fi
+stty -echo
 bot=
 
 colourp 2>/dev/null
@@ -2393,28 +2478,27 @@ answer1="$(printf "$pureanswer" | awk '{printf $1}' | tr '/' ' ')"
 answer2="$(printf "$pureanswer" | awk '{printf $2}' | tr '/' ' ')"
 
 la=${#answer1}
-la2=${#question}
-length=$((la+la2*2+7))
+la2=$((${#answer2}*2))
+for i in $(seq ${#answer2});do
+if [[  "${answer2:i:1}" == '.'  ]] ;then
+la2=$((la2-1))
+fi
+done
+length=$((la+la2+7))
 pureanswer="$(printf "\033[1m$answer1\033[0m $answer2")"
 #echo $length
 #answer=$answer1
-if [[  $COLUMN -ge $length  ]];then
+#if [[  $COLUMN -ge $length  ]];then
 iq=${#answer1}
 for t in `seq $iq`;do
 bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
-printf "\033[1m$question\033[0m"——————:"$bot"\\r
-
-printf "\033[1m$question\033[0m"——————:
+printf "\033[1m$question\033[0m\033[2m"——————:"$bot"\\r
+[[  $COLUMN -lt $length  ]] && printf "\033[1A"
+printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
 Readen
 
-else 
-#printf "$question——————:"
-#read -e scanf 
-printf "\033[1m$question\033[0m"======:
-read -e -p $CB scanf
-fi
 
 bot=''
 
@@ -2473,17 +2557,18 @@ answer1="$(printf "$pureanswer" | awk '{printf $1}' | tr '/' ' ')"
 answer2="$(printf "$pureanswer" | awk '{printf $2}' | tr '/' ' ')"
 
 la=${#question}
-la2=${#answer2}
-length=$((la+la2*2+7))
-pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
-
-if [[  "$COLUMN" -ge "$length"  ]];then
-#read -e -p  "$question"——————:  scanf
-printf "\033[1m$question\033[0m"——————:
-Readzh
-else
-read -e -p  "$question"======:  scanf
+la2=$((${#answer2}*2))
+for i in $(seq ${#answer2});do
+if [[  "${answer2:i:1}" == '.'  ]] ;then
+la2=$((la2-1))
 fi
+done
+length=$((la+la2+7))
+pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
+stty echo
+printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
+stty -echo
+Readzh
 
 #answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 
@@ -2503,6 +2588,7 @@ FUN1()
 {
 
 clear
+stty -echo
 #printf "\033[s\c"
 printf "\033[1B$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
 
@@ -2528,6 +2614,7 @@ printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English
 sleep 0.02
 echo
 sleep 0.02
+stty echo
 printf  "\033[0m\033[?25l"
 printf "I,提词器"
 [[  "$passd" -ne  1  ]] && [[  "$record" -ne  1  ]] && printf "${spaces#              }II,完形填空${spaces#                }III,四选一"
@@ -2539,6 +2626,7 @@ elif [[  "${premode:-1}" -eq 3  ]];then
 FUN_
 return 0
 fi
+stty -echo
 printf "I,英译中${spaces#              }II,中译英${spaces#              }III,混合"
 read -n 1 mode
 echo
@@ -2608,44 +2696,47 @@ answer2=`echo "$pureanswer" | awk -F'	' '{printf $2}' | tr '/' ' ' `
 
 
 la=${#answer1}
-la2=${#answer2}
-length=$((la+la2*2+7))
-
-
+la2=$((${#answer2}*2))
+for i in $(seq ${#answer2});do
+if [[  "${answer2:i:1}" == '.'  ]] ;then
+la2=$((la2-1))
+fi
+done
+length=$((la+la2+7))
 if [[ "$question" = "$answer1" ]] ;then
 answer="$answer2"
 pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
-if [[  "$COLUMN" -ge "$length"  ]];then
-#read -e -p  "$question"——————:  scanf
-printf "\033[1m$question\033[0m"——————:
+stty echo
+printf "\033[1m$question\033[2m"——————:"\033[0m"
+stty -echo
 Readzh
-else
-read -e -p  "$question"======:  scanf
-fi
 else
 #elif [[ "$question" = "$answer2" ]] ;then
 #echo $length
 answer=$answer1
 pureanswer="$(printf "\033[1m$answer1\033[0m $answer2")"
-if [[  $COLUMN -ge $length  ]];then
+#if [[  $COLUMN -ge $length  ]];then
 iq=${#answer1}
 for t in `seq $iq`;do
 bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
-printf "\033[1m$question\033[0m"——————:"$bot"\\r
+printf "\033[1m$question\033[0m\033[2m"——————:"$bot"\\r
 #printf "\r"
-
-printf "\033[1m$question\033[0m"——————:
+[[  $COLUMN -ge $length  ]] && printf "\033[1A"
+printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
 Readen
 
 
-else 
+#else 
 #printf "$question——————:\n"
 #read -e scanf 
-printf "\033[1m$question\033[0m"======:
-read -e  -p $CB scanf
-fi
+#printf "\033[1m$question\033[0m"======:
+#read -e  -p $CB scanf
+#printf "$question"——————:"$bot"\\r
+#printf "\033[1m$question\033[0m"——————:
+#Readen
+#fi
 fi
 bot=
 #echo $answer1
@@ -2710,29 +2801,38 @@ eval  pureanswer="\${lr$((m2-1))}'	'\${lr$m2}"
 answer1=`echo "$pureanswer" | awk -F'	' '{printf $1}' | tr '/' ' '`
 
 la=${#answer1}
-la2=${#question}
-length=$((la+la2*2+7))
+la2=$((${#answer2}*2))
+for i in $(seq ${#answer2});do
+if [[  "${answer2:i:1}" == '.'  ]] ;then
+la2=$((la2-1))
+fi
+done
+length=$((la+la2+7))
 pureanswer="$(printf "\033[1m$answer1\033[0m $answer2")"
 
 m2=$((m2/2))
 
-if [[  $COLUMN -ge $length  ]];then
+#if [[  $COLUMN -ge $length  ]];then
 iq=${#answer1}
 for t in `seq $iq`;do
 bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
-printf "\033[1m$question\033[0m"——————:"$bot"\\r
+printf "\033[1m$question\033[0m\033[2m"——————:"$bot"\\r
 #printf "\r"
-printf "\033[1m$question\033[0m"——————:
+[[  $COLUMN -ge $length  ]] && printf "\033[1A"
+printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
 Readen
 
-else 
+#else 
 #printf "$question"——————:
 #read -e scanf 
-printf "\033[1m$question\033[0m"======:
-read -e -p $CB scanf
-fi
+#printf "\033[1m$question\033[0m"======:
+#read -e -p $CB scanf
+#printf "$question"——————:"$bot"\\r
+#printf "\033[1m$question\033[0m"——————:
+#Readen
+#fi
 
 bot=
 #echo $answer1
@@ -2801,18 +2901,18 @@ answer1=`echo "$pureanswer" | awk -F'	' '{printf $1}' | tr '/' ' ' `
 answer2=`echo "$pureanswer" | awk -F'	' '{printf $2}' | tr '/' ' ' `
 pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
 la=${#question}
-la2=${#answer2}
-length=$((la+la2*2+7))
-
-m2=$(($((m2+1))/2))
-
-if [[  "$COLUMN" -ge "$length"  ]];then
-#read -e -p  "$question"——————:  scanf
-printf "\033[1m$question\033[0m"——————:
-Readzh
-else
-read -e -p  "$question"======:  scanf
+la2=$((${#answer2}*2))
+for i in $(seq ${#answer2});do
+if [[  "${answer2:i:1}" == '.'  ]] ;then
+la2=$((la2-1))
 fi
+done
+length=$((la+la2+7))
+m2=$(($((m2+1))/2))
+stty echo
+printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
+stty -echo
+Readzh
 
 bot=
 #echo $answer1
