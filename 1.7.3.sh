@@ -712,7 +712,7 @@ done
 fi
 #sleep 0.008
 printf "\n\r"
-sleep 0.008
+sleep 0.005
 #sleep 0.003
 #[[  "$auto" -eq "1"  ]] && sleep 0.1
 printf "\033[2m%s\033[0m" "y释义/v例句/s跳过:"
@@ -748,9 +748,9 @@ bool=${bool:-0}
 #printf "\r"
 #printf "\033[1A"
 #printf  "$spaces$enter"
-sleep 0.005
+#sleep 0.005
 printf "\r%s\r" "${spaces}${spaces# }"
-sleep 0.005
+#sleep 0.005
 if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 #printf "\033[$((COLUMN-7))C释义\n"
 
@@ -762,15 +762,15 @@ elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]; then
 verbose
 elif [[ $bool = 's' ]] || [[ $bool = 'S' ]]  ; then
 RC=0
-sleep 0.005
+#sleep 0.005
 printf "\033[1A"
 printf   "\033[${COL}C%s\n\r"  "${eline}"
-sleep 0.005
+#sleep 0.005
 printf "%s\n\033[0m" "$(echo $pureanswer | tr '/' ' ')"
 #printf "\n"
 #printf "\033[0m"
 else
-sleep 0.005
+#sleep 0.005
 [[  "$hide" -eq "0"  ]] && printf "\r$(echo $pureanswer | tr '/' ' ')" && echo 
 fi
 
