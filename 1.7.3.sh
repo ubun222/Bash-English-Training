@@ -964,7 +964,7 @@ break
 fi
 #stty -echo
 #now3=
-#[[  $wherec -eq $COLUMN  ]] && now3=1  && break
+[[  $wherec -eq $COLUMN  ]]  && break
 [[  "$vback" -eq  "1"  ]] && break
 [[  "$which" == "en"  ]] && [[  "$vback" -ne  "1"  ]] && continue
 fi
@@ -3098,4 +3098,6 @@ target=
 tno=0
 getfromread && loadcontent  &&   FUN1
 [[  "$?" -eq '2' ]] && _verify && loadcontent &&  FUN
+
+t &&  FUN
 
