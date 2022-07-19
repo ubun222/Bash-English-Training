@@ -918,24 +918,34 @@ fi
 #[[  "$ib" -le "1"   ]] && bscanf=""
 #[[  "$waiting" == "1"   ]] && bscanf="$needpt"
 read -t1 -s -d \R pos1
+hereis=$?
 
-
-if [[  "$auto" -eq 1  ]] ;then
+if [[  "$auto" -eq 1  ]]  ;then
 #stty echo
 printf "${ascanf}" 
-ififright && stty -echo && return 22
+[[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]] &&  ififright && stty -echo && return 22
 stty -echo
 else
 printf "${ascanf}" 
 fi
 
-
 printf "\033[6n" && read -t1 -s -d \[ bb && read -t1 -s  -d \R pos2
+thereis=$?
 now3=
 now2=
 now=
 #needo=
-[[   "$which" == "zh"  ]] && [[  "$((${pos1:$((${#pos1}-1))}+1))" == "${pos2:$((${#pos2}-1))}"  ]] && now3=1 && break
+if [[  $((hereis+thereis)) -eq "0"   ]] &&  [[   "$which" == "zh"  ]]; then
+# [[  "$((${pos1:$((${#pos1}-1))}))" == "${pos2:$((${#pos2}-1))}"  ]] && now3=1 && break
+#pos11=$((${#pos1}-1))
+#pos22="${#pos2}-1
+#pos1=${pos1:-0}
+#pos2=${pos2:-0}
+Pos1="${pos1:$((${#pos1}-1))}"
+Pos2="${pos2:$((${#pos2}-1))}"
+Pos="$((Pos2-Pos1))"
+[[  "$Pos" -eq "1"  ]] || [[  "$Pos" -eq "-9"   ]]  && now3=1 && break 
+fi
 if [[  "$pos1" != "$pos2"  ]] ;then
  break
 else
