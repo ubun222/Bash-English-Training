@@ -712,7 +712,7 @@ done
 fi
 #sleep 0.008
 printf "\n\r"
-sleep 0.005
+#sleep 0.005
 #sleep 0.003
 #[[  "$auto" -eq "1"  ]] && sleep 0.1
 printf "\033[2m%s\033[0m" "y释义/v例句/s跳过:"
@@ -2012,7 +2012,7 @@ fi
 if [[  $((it%COLUMN)) -eq 0   ]] ; then
 [[  $fooo -eq 1  ]] && printf "\033[1A"
 fi
-
+#printf "\r"
 if [[  "$scanf" == "$answer"  ]];then
 #printf "%${COL}s%s" $tline
 #[[  "$up" -ne "0"  ]] && printf "\033[${up}B"
@@ -2149,12 +2149,13 @@ down=$((5-$order))
 printf "\033[${down}B$enter\033[0m"
 printf "按回车继续\033[1m"
 read
-printf "\033[1A"
+#printf "\033[1A"
 printf "\r$answer    $answer1"
 
 fi
 #printf "\033[1A"
 read
+printf "\n\r"
 verbs="$(printf %s "$content" | grep "^$answer1 [^A-Z^a-z]" )"
 
 printf "\033[1m%s\n\033[0m" "$verbs"
@@ -2249,11 +2250,12 @@ down=$((5-$order))
 printf "\033[${down}B$enter\033[0m"
 printf "按回车继续"
 read
-printf "\033[1A"
+#printf "\033[1A"
 printf "\r\033[1m$answer    $answer2"
 #printf "\033[1A"
 fi
 read
+printf "\n\r"
 verbs="$(printf %s "$content" | grep ^"$answer1 [^A-Z^a-z]" )"
 printf "\033[1m%s\n\033[0m" "$verbs"
 
