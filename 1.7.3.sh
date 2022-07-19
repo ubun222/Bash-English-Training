@@ -678,10 +678,10 @@ stty -echo
 Dtop=0
 Dend=0
 RC=0
-#sleep 0.001
+sleep 0.01
 hide=0
 if [[  "$isright" -eq "1"  ]] || ifright ;then
-sleep 0.005
+#sleep 0.005
 #[[  "$auto" -eq "1"  ]] && sleep 0.001
 hide=1
 printf   "\033[${COL}C%s\r"  ${tline}
@@ -710,11 +710,10 @@ continue
 fi 
 done
 fi
-sleep 0.003
-
-printf "\n"
-
-sleep 0.003
+#sleep 0.008
+printf "\n\r"
+sleep 0.008
+#sleep 0.003
 #[[  "$auto" -eq "1"  ]] && sleep 0.1
 printf "\033[2m%s\033[0m" "y释义/v例句/s跳过:"
 
@@ -749,8 +748,9 @@ bool=${bool:-0}
 #printf "\r"
 #printf "\033[1A"
 #printf  "$spaces$enter"
-sleep 0.0001
+sleep 0.005
 printf "\r%s\r" "${spaces}${spaces# }"
+sleep 0.005
 if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
 #printf "\033[$((COLUMN-7))C释义\n"
 
@@ -766,9 +766,9 @@ sleep 0.005
 printf "\033[1A"
 printf   "\033[${COL}C%s\n\r"  "${eline}"
 sleep 0.005
-printf "%s" "$(echo $pureanswer | tr '/' ' ')"
-printf "\n"
-printf "\033[0m"
+printf "%s\n\033[0m" "$(echo $pureanswer | tr '/' ' ')"
+#printf "\n"
+#printf "\033[0m"
 else
 sleep 0.005
 [[  "$hide" -eq "0"  ]] && printf "\r$(echo $pureanswer | tr '/' ' ')" && echo 
@@ -3098,6 +3098,4 @@ target=
 tno=0
 getfromread && loadcontent  &&   FUN1
 [[  "$?" -eq '2' ]] && _verify && loadcontent &&  FUN
-
-t &&  FUN
 
