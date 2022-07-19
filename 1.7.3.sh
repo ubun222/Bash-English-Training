@@ -424,7 +424,7 @@ prt()
 {
     height=`echo "$1"|wc -l`
     for i in `seq "$height"`;do
-            sleep 0.006 && read -s -t0   && read -s -t1 && break
+            sleep 0.009 && read -s -t0   && read -s -t1 && break
             char=`echo $1`
             [ -n "$char" ] && printf "$(echo "$1"|sed -n  "$i"p)"
         echo
@@ -936,7 +936,9 @@ now2=
 now=
 #needo=
 [[   "$which" == "zh"  ]] && [[  "$((${pos1:$((${#pos1}-1))}+1))" == "${pos2:$((${#pos2}-1))}"  ]] && now3=1 && break
-[[  "$pos1" != "$pos2"  ]]  && break
+if [[  "$pos1" != "$pos2"  ]] ;then
+ break
+else
 stty echo
 #echo $pos1
 #echo $pos2
@@ -947,10 +949,10 @@ if [[   "$which" == "zh"  ]] && [[  "$vback" -ne  "1"  ]] ;then
 [[  $wherec -eq $((COLUMN))  ]]  && printf   " " && needo=1 && continue
 
 fi
-if [[  ${vback} -eq "1"   ]] ; then
+#if [[  ${vback} -eq "1"   ]] ; then
 #sleep 0.3
 #echo
-if [[   "$which" == "zh"  ]] && [[  "$vback" == "1"  ]] ;then
+if [[  ${vback} -eq "1"   ]] &&  [[   "$which" == "zh"  ]] && [[  "$vback" == "1"  ]] ;then
 #echo 22222
 #echo $wherec
 [[  "$needo" -ne 1  ]] && reg=$((COLUMN))
@@ -960,18 +962,17 @@ if [[   "$which" == "zh"  ]] && [[  "$vback" == "1"  ]] ;then
 # now2=1
 break
 fi
-fi
 #stty -echo
 #now3=
-[[  $wherec -eq $COLUMN  ]] && now3=1  && break
+#[[  $wherec -eq $COLUMN  ]] && now3=1  && break
 [[  "$vback" -eq  "1"  ]] && break
 [[  "$which" == "en"  ]] && [[  "$vback" -ne  "1"  ]] && continue
+fi
 #break
 #continue
 #fi
 done
 fi
-
 if  [[  "$bscanf"  == ""   ]] ; then
 
 IFS=$ENTER
