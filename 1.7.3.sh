@@ -920,10 +920,10 @@ fi
 read -t1 -s -d \R pos1
 
 
-if [[  "$auto" -eq 1  ]] ;then
+if [[  "$auto" -eq 1  ]]  ;then
 #stty echo
 printf "${ascanf}" 
-ififright && stty -echo && return 22
+[[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]] &&  ififright && stty -echo && return 22
 stty -echo
 else
 printf "${ascanf}" 
