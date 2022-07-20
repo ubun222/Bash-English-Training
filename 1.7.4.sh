@@ -871,23 +871,38 @@ ccc
 
 read_()
 {
+#wait1=
+#stty -echo
+bd=1
+wait1=
+IFS=$ENTER
+read -s -t0.02  -n1 bscanf  
+bd=$?
+if [[  "$bd" -ne 0   ]] ;then
+
+[[  "$waiting" == "1"  ]] && waiting=0  && bscanf=  && waiting=0
+[[  "$ascanf" == ""  ]] && wait1=1 && waiting=0
+elif [[  "$bd" -eq 0   ]]; then  
+waiting=1
+wait=
+fi
+
 if [[  "$ascanf" != ""   ]]  ;then
 if [[  "$auto" -eq 1  ]] ;then
-#stty echo
 printf "${ascanf}" 
-ififright && stty -echo && return 22
+[[  "$waiting" == "0"  ]] && [[  $wait1 -ne 1  ]] &&  ififright && waiting=1  && stty -echo && return 22
 stty -echo
 else
 printf "${ascanf}" 
 fi
 
 fi
-IFS=$ENTER
-stty echo
-read -s -n1 ascanf &&  sleep 0.0002
-stty -echo
+
+[[  "$bd" -eq 0   ]]  &&  waiting=1 && ascanf="$bscanf"
+[[   $waiting -eq 0  ]] &&  read -s -n1 ascanf
 IFS=$IFSbak
 }
+
 
 
 _read()
@@ -1492,7 +1507,7 @@ trap 'printf "\033[?25h\033[0m" && stty echo '  EXIT
 ififright()
 {
 if [[  "$which" == "zh"  ]] ; then
-stty echo
+stty -echo
 scanfd="$(echo "${scanf:-n1}" | tr " " "，" )"
 scanfd="$(echo "${scanfd:-n1}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}'   )"
 #scanfd="$(echo "${scanfd:-n1}" | awk 'BEGIN{FS=" "}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}'   )"
@@ -3110,7 +3125,4 @@ target=
 tno=0
 getfromread && loadcontent  &&   FUN1
 [[  "$?" -eq '2' ]] && _verify && loadcontent &&  FUN
-
-
-
 
