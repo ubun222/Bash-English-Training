@@ -950,27 +950,32 @@ now3=
 now2=
 now=
 #needo=
-if [[  $((hereis+thereis)) -eq "0"   ]] &&  [[   "$which" == "zh"  ]]; then
-# [[  "$((${pos1:$((${#pos1}-1))}))" == "${pos2:$((${#pos2}-1))}"  ]] && now3=1 && break
-#pos11=$((${#pos1}-1))
-#pos22="${#pos2}-1
-#pos1=${pos1:-0}
-#pos2=${pos2:-0}
-Pos1="${pos1:$((${#pos1}-1))}"
-Pos2="${pos2:$((${#pos2}-1))}"
-Pos="$((Pos2-Pos1))"
-[[  "$Pos" -eq "1"  ]] || [[  "$Pos" -eq "-9"   ]]  && now3=1 && break 
-fi
-if [[  "$pos1" != "$pos2"  ]] ;then
- break
-else
-stty echo
-#echo $pos1
-#echo $pos2
 wherec=$(printf "$pos2" | awk -F\; '{printf $2}' )
+whereb=$(printf "$pos1" | awk -F\; '{printf $2}' )
+if [[  "$wherec" -ne "$whereb"  ]] ;then
+
+if [[   "$which" == "zh"  ]]  &&  [[  "$vback" != "1"  ]] && [[  "$((hereis+thereis))" -eq "0"   ]]  ; then
+#Pos1="${pos1:$((${#pos1}-1))}"
+#Pos2="${pos2:$((${#pos2}-1))}"
+Pos="$((wherec-whereb))"
+[[  "$Pos" -eq "1"  ]] && now3=1 
+
+fi
+break
+
+
+#elif [[   "$which" == "zh"  ]]  &&  [[  "$vback" == "1"  ]] && [[  "$((hereis+thereis))" -eq "0"   ]]  ; then
+#Pos1="${pos1:$((${#pos1}-1))}"
+#Pos2="${pos2:$((${#pos2}-1))}"
+#Pos="$((Pos1-Pos2))"
+#[[  "$Pos" -eq "-1"  ]] || [[  "$Pos" -eq "9"   ]]  && now4=1 
+
+
+else
+#stty echo
 #[[   "$which" == "zh"  ]] && [[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
 if [[   "$which" == "zh"  ]] && [[  "$vback" -ne  "1"  ]] ;then
-[[  $wherec -eq $((COLUMN))  ]] && [[  "$ascanf" == "."  ]] && break
+[[  $wherec -eq $((COLUMN))  ]] && [[  "$ascanf" == "."  ]] && now3=2 && break
 [[  $wherec -eq $((COLUMN))  ]]  && printf   " " && needo=1 && continue
 
 fi
@@ -997,6 +1002,8 @@ fi
 #continue
 #fi
 done
+
+
 fi
 if  [[  "$bscanf"  == ""   ]] ; then
 
@@ -1024,6 +1031,7 @@ stty echo
 Readzh()
 {
 #vback=
+now4=
     needo=
 which=zh
 isright=0
@@ -1087,21 +1095,13 @@ Ll=$L
 L=$((L-1))
 
 [[  "$L" -le "0"  ]] && L=0 
-#echo $L
-#echo -ne "\033[6n" && read -s -d R fo
-#foo=$(echo $fo | tr -d 'R;')
 
-#foo="$(echo "$fo" | awk -F ';' '{printf $2}')"
-
-#[[  "$foo" == "1" ]] &&  printf  "$Back" && continue
-#if [[  "${scanf:$L}"  != "."  ]] ;then
-# extrb=" "
-#else
-#extrb=""
-#fi
 reg2=" $Back $Back"
 [[  "${scanf:$L}"  == "."  ]] && reg2=" " 
-[[  "$now2" -eq 1  ]]   &&  printf  "$reg2" && scanf="${scanf:0:$L}" && needo=  && now2= && continue
+
+[[  "$now3" -eq 2  ]]   &&  printf "$Back\033[1C \033[1C" && scanf="${scanf:0:$L}"   && now3= && continue
+
+[[  "$now2" -eq 1  ]]   &&  printf  "$reg2" && scanf="${scanf:0:$L}" && needo=  && now2= &&  continue
 
 [[  "$L"  -ge "0"  ]] && [[  "${scanf:$L}"  == "."  ]]  &&  printf  "$Back $Back" && scanf="${scanf:0:$L}" && continue
 scanf="${scanf:0:$L}"
@@ -1140,7 +1140,6 @@ scanf="$(printf "$scanf.")"
 #L="${#scanf}"
 ascanf="."
 #for i in $(seq $Lb);do
-
 #LENGTH=$((LENGTH+2))
 #done
 #echo 123 && printf $Backs
@@ -1185,13 +1184,7 @@ continue
 fi
 
 elif [[  $ascanf  !=  [$B\'a-zA-Z'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]] ;then
-#printf 1
-#scanf="$scanf$ascanf"
-#L="${#scanf}"
-#mulLb=
-#if [[  "$L" -gt "1"  ]] ;then
-#for i in $(seq $L);do
-#N=$((N+1))
+#[[  $now4 -eq 1  ]] && 
 zscanf="$(printf "$zscanf${ascanf}")"
 scanf="$(printf "$scanf${ascanf}")"
 
@@ -1309,11 +1302,10 @@ elif [[  "$is" -ge  1   ]] && [[  "$is" -gt "$iq" ]] ;then
 insert=" "
 fi
 
-[[  "$is" -ge  1   ]] && [[  "1" -eq "$((frontier%COLUMN))" ]] && [[  "$is" -ge 1   ]]  && printf %s"\033[1A\033[${COLUMN}C$insert$Back\033[1C" "$insert" && continue
-[[  "$is" -ge  1   ]] && [[  "0" -eq "$((frontier%COLUMN))" ]] && printf %s "$insert$Back$insert$Back" && continue
+[[  "$is" -ge  1   ]] && [[  "2" -eq "$((frontier%COLUMN))" ]] && [[  "$is" -ge 1   ]]  && printf %s"\033[1A\033[${COLUMN}C" "$insert" && continue
+[[  "$is" -ge  1   ]] && [[  "1" -eq "$((frontier%COLUMN))" ]] && printf "$Back\033[1C$insert\033[1C" && continue
 
 
-[[  "$is" -ge  1   ]] && [[  "$is" -le "$iq" ]] &&  printf %s "$Back"$insert"$Back" && continue
 [[  "$is" -ge  1   ]] && printf %s $Back"$insert"$Back
 continue
 
