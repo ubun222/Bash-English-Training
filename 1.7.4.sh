@@ -953,14 +953,6 @@ now=
 wherec=$(printf "$pos2" | awk -F\; '{printf $2}' )
 whereb=$(printf "$pos1" | awk -F\; '{printf $2}' )
 if [[  "$wherec" -ne "$whereb"  ]] ;then
-
-if [[   "$which" == "zh"  ]]  &&  [[  "$vback" != "1"  ]] && [[  "$((hereis+thereis))" -eq "0"   ]]  ; then
-#Pos1="${pos1:$((${#pos1}-1))}"
-#Pos2="${pos2:$((${#pos2}-1))}"
-Pos="$((wherec-whereb))"
-[[  "$Pos" -eq "1"  ]] && now3=1 
-
-fi
 break
 
 
@@ -972,6 +964,7 @@ break
 
 
 else
+[[  "$which" == "en"  ]] && [[  "$vback" -ne  "1"  ]] && continue
 #stty echo
 #[[   "$which" == "zh"  ]] && [[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
 if [[   "$which" == "zh"  ]] && [[  "$vback" -ne  "1"  ]] ;then
@@ -996,9 +989,16 @@ fi
 #now3=
 [[  $wherec -eq $COLUMN  ]]  && break
 [[  "$vback" -eq  "1"  ]] && break
-[[  "$which" == "en"  ]] && [[  "$vback" -ne  "1"  ]] && continue
 fi
 #break
+
+if [[   "$which" == "zh"  ]]  &&  [[  "$vback" != "1"  ]] && [[  "$((hereis+thereis))" -eq "0"   ]]  ; then
+#Pos1="${pos1:$((${#pos1}-1))}"
+#Pos2="${pos2:$((${#pos2}-1))}"
+Pos="$((wherec-whereb))"
+[[  "$Pos" -eq "1"  ]] && now3=1 
+
+fi
 #continue
 #fi
 done
