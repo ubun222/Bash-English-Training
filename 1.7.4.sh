@@ -960,15 +960,14 @@ break
 #Pos="$((Pos1-Pos2))"
 #[[  "$Pos" -eq "-1"  ]] || [[  "$Pos" -eq "9"   ]]  && now4=1 
 
-
 else
-
+wherec="${pos2/#*;/""}"
+[[  "$which" == "en"  ]] && [[  $wherec -eq $COLUMN  ]]  && break
 [[  "$which" == "en"  ]] && [[  "$vback" -ne  "1"  ]] && continue
 #stty echo
 [[  "$which" == "en"  ]] && break
 #[[   "$which" == "zh"  ]] && [[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
 if [[   "$which" == "zh"  ]] && [[  "$vback" -ne  "1"  ]] ;then
-wherec="${pos2/#*;/""}"
 [[  $wherec -eq $((COLUMN))  ]] && [[  "$ascanf" == "."  ]] && now3=2 && break
 [[  $wherec -eq $((COLUMN))  ]]  && printf   " " && needo=1 && continue
 
@@ -979,7 +978,6 @@ fi
 if [[  ${vback} -eq "1"   ]] &&  [[   "$which" == "zh"  ]] && [[  "$vback" == "1"  ]] ;then
 #echo 22222
 #echo $wherec
-wherec="${pos2/#*;/""}"
 [[  "$needo" -ne 1  ]] && reg=$((COLUMN))
 [[  "$needo" -eq 1  ]] && reg=$((COLUMN-3))
 #[[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
@@ -1304,7 +1302,7 @@ elif [[  "$is" -ge  1   ]] && [[  "$is" -gt "$iq" ]] ;then
 insert=" "
 fi
 
-[[  "$is" -ge  1   ]] && [[  "2" -eq "$((frontier%COLUMN))" ]] && [[  "$is" -ge 1   ]]  && printf %s"\033[1A\033[${COLUMN}C" "$insert" && continue
+[[  "$is" -ge  1   ]] && [[  "2" -eq "$((frontier%COLUMN))" ]] && [[  "$is" -ge 1   ]]  && printf "$Back$insert\033[1A\033[${COLUMN}C"  && continue
 [[  "$is" -ge  1   ]] && [[  "1" -eq "$((frontier%COLUMN))" ]] && printf "$Back\033[1C$insert\033[1C" && continue
 
 
