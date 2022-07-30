@@ -1141,6 +1141,7 @@ done
 if [[  "$res" -gt 0  ]] ;then
 printf "\033[2m单词"$answer1"有"$res"个结果\n"
 jsi=0
+ress=0
 while [[  "$jsi" -lt "$res"  ]];do
 #printf "\$re$jsi"
 #jsii=$jsi
@@ -1167,7 +1168,6 @@ lexical=$((lexical+1))
 done
 
 
-ress=0
 lexicall=0
 while [[  "$lexicall" -lt "$validlex"  ]];do
 order=1
