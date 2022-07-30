@@ -1340,11 +1340,17 @@ done
 
 
 fi
+[[  "$ish" == "y"    ]] && sleep 0.005
 printf "\r$(echo $pureanswer | tr '/' ' ')\n"
 [[  "$ish" == "y"    ]] && sleep 0.005
 else
 #sleep 0.005
-[[  "$hide" -eq "0"  ]] && printf "\r$(echo $pureanswer | tr '/' ' ')"  && sleep 0.005 &&  printf "\n"
+if [[  "$hide" -eq "0"  ]] ;then
+[[  "$ish" == "y"    ]] && sleep 0.005
+printf "\r$(echo $pureanswer | tr '/' ' ')" 
+[[  "$ish" == "y"    ]] && sleep 0.005
+printf "\n\r"
+fi
 fi
 
 [[  "$record" -eq 1   ]] && [[  "$calenda" -eq "1"  ]] && cd ../CORRECT/"$thepath"
