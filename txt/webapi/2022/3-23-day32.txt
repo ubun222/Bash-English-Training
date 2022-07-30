@@ -5,7 +5,7 @@ seize							抓住，利用
 poison							毒物，毒死，污染
 bakery							面包店
 tent								帐篷
-wedding							与...结婚，融汇
+wedding							婚礼
 fair								公正的，合理的，相当，晴天，美丽的
 geographic						地理的
 comprehensive						全面的，综合性的，绝对的
@@ -21,7 +21,7 @@ stir								搅动，使行动，萌生
 rocket							火箭，斥责，飙升，飞奔
 attribute							把某事物归因于...，属性
 sentence							句子，判决
-tempting							引诱
+tempting							诱人的
 commitment						承诺，责任感，花费
 feasible							可行的，可能的
 outcome							结果

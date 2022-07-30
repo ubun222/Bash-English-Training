@@ -7,7 +7,7 @@ occupation				居住，占领，职业
 numerous					许多的
 milestones				里程碑，转折点
 indigenous				当地的，土著的
-population				种群，人口				
+population				种群，人口
 colonial					殖民地的
 settlements				定居点，协议
 eventually				最终
