@@ -23,6 +23,7 @@ chmod +x ./Learning-English/*.sh
 bash main.sh
 ```
 4. 若安装git或bash失败，请先update和upgrade包管理命令。
+5. json翻译还需要另外安装gawk，普通的awk无法使用trans。
 #### 参数
 1. -r 错题集模式
 2. -s 词表验证模式
