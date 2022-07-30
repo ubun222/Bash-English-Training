@@ -75,11 +75,7 @@ $allif"
 #echo "$allif"
 #n=22
 #echo 2 | xargs bash -c "$case"
-
-
 #eval "$allif"
-
-
 }
 
 calendar()
@@ -228,10 +224,22 @@ read -r -d "\\"  -u 3 aetxt
 
 if [[  "$aetxt" =~ "	"  ]] ;then
 targets=$targets' '${line}
-
-
 aetxt="$(printf "%s" "$aetxt"  | tr ' ' '/')"
 
+if [[  "$Json" -eq 1  ]];then
+txtjson="${line%%txt}json"
+
+if [[ -e "$txtjson"  ]] ;then
+[[  $alljson != ""  ]] && alljson="$alljson
+$txtjson
+"
+[[  $alljson == ""  ]] && alljson="$txtjson"
+else
+echo "$txtjson"不存在
+alljson="$alljson
+"
+fi
+fi
 
 
 while read line ;do
@@ -248,7 +256,6 @@ $eetxt"
 done <<EOF
 $aetxt
 EOF
-
 if [[  "$etxt" != ""  ]] ;then
 [[  "$txt" != ""  ]]  &&  txt="$txt
 $etxt"
@@ -259,6 +266,8 @@ tno=$((tno+1))
 #n=$((n-1))
 eval ca$tno=$((n*2))
 fi
+
+
 fi
 #eval echo \$ca$t   
 fi
@@ -269,7 +278,7 @@ printf "\033[0m"
 #n=$(echo "${txt}" | wc -l)
 n=$((n*2))
 echo "准备加载$((n/2))组单词"
-#printf "\r\033[1A$spaces$spaces加载中......"
+
 
 #echo "$txt"
 return 0
@@ -369,6 +378,217 @@ fi
 #echo $n
 }
 
+#if [[  "$Json" -eq 1  ]];then
+fetchJson()
+{
+    throw() {
+  echo "$*" >&2
+  return 1
+}
+
+BRIEF=0
+LEAFONLY=0
+PRUNE=0
+NO_HEAD=0
+NORMALIZE_SOLIDUS=0
+
+usage() {
+  echo
+  echo "Usage: JSON.sh [-b] [-l] [-p] [-s] [-h]"
+  echo
+  echo "-p - Prune empty. Exclude fields with empty values."
+  echo "-l - Leaf only. Only show leaf nodes, which stops data duplication."
+  echo "-b - Brief. Combines 'Leaf only' and 'Prune empty' options."
+  echo "-n - No-head. Do not show nodes that have no path (lines that start with [])."
+  echo "-s - Remove escaping of the solidus symbol (straight slash)."
+  echo "-h - This help text."
+  echo
+}
+
+parse_options() {
+  set -- "$@"
+  local ARGN=$#
+  while [ "$ARGN" -ne 0 ]
+  do
+    case $1 in
+      -h) usage
+          return 0
+      ;;
+      -b) BRIEF=1
+          LEAFONLY=1
+          PRUNE=1
+      ;;
+      -l) LEAFONLY=1
+      ;;
+      -p) PRUNE=1
+      ;;
+      -n) NO_HEAD=1
+      ;;
+      -s) NORMALIZE_SOLIDUS=1
+      ;;
+      ?*) echo "ERROR: Unknown option."
+          usage
+          return 0
+      ;;
+    esac
+    shift 1
+    ARGN=$((ARGN-1))
+  done
+}
+
+awk_egrep () {
+  local pattern_string=$1
+
+  gawk '{
+    while ($0) {
+      start=match($0, pattern);
+      token=substr($0, start, RLENGTH);
+      print token;
+      $0=substr($0, start+RLENGTH);
+    }
+  }' pattern="$pattern_string"
+}
+
+tokenize () {
+  local GREP
+  local ESCAPE
+  local CHAR
+
+  if echo "test string" | egrep -ao --color=never "test" >/dev/null 2>&1
+  then
+    GREP='egrep -ao --color=never'
+  else
+    GREP='egrep -ao'
+  fi
+
+  if echo "test string" | egrep -o "test" >/dev/null 2>&1
+  then
+    ESCAPE='(\\[^u[:cntrl:]]|\\u[0-9a-fA-F]{4})'
+    CHAR='[^[:cntrl:]"\\]'
+  else
+    GREP=awk_egrep
+    ESCAPE='(\\\\[^u[:cntrl:]]|\\u[0-9a-fA-F]{4})'
+    CHAR='[^[:cntrl:]"\\\\]'
+  fi
+
+  local STRING="\"$CHAR*($ESCAPE$CHAR*)*\""
+  local NUMBER='-?(0|[1-9][0-9]*)([.][0-9]*)?([eE][+-]?[0-9]*)?'
+  local KEYWORD='null|false|true'
+  local SPACE='[[:space:]]+'
+
+  # Force zsh to expand $A into multiple words
+  local is_wordsplit_disabled=$(unsetopt 2>/dev/null | grep -c '^shwordsplit$')
+  if [ $is_wordsplit_disabled != 0 ]; then setopt shwordsplit; fi
+  $GREP "$STRING|$NUMBER|$KEYWORD|$SPACE|." | egrep -v "^$SPACE$"
+  if [ $is_wordsplit_disabled != 0 ]; then unsetopt shwordsplit; fi
+}
+
+parse_array () {
+  local index=0
+  local ary=''
+  read -r token
+  case "$token" in
+    ']') ;;
+    *)
+      while :
+      do
+        parse_value "$1" "$index"
+        index=$((index+1))
+        ary="$ary""$value" 
+        read -r token
+        case "$token" in
+          ']') break ;;
+          ',') ary="$ary," ;;
+          *) throw "EXPECTED , or ] GOT ${token:-EOF}" ;;
+        esac
+        read -r token
+      done
+      ;;
+  esac
+  [ "$BRIEF" -eq 0 ] && value=$(printf '[%s]' "$ary") || value=
+  :
+}
+
+parse_object () {
+  local key
+  local obj=''
+  read -r token
+  case "$token" in
+    '}') ;;
+    *)
+      while :
+      do
+        case "$token" in
+          '"'*'"') key=$token ;;
+          *) throw "EXPECTED string GOT ${token:-EOF}" ;;
+        esac
+        read -r token
+        case "$token" in
+          ':') ;;
+          *) throw "EXPECTED : GOT ${token:-EOF}" ;;
+        esac
+        read -r token
+        parse_value "$1" "$key"
+        obj="$obj$key:$value"        
+        read -r token
+        case "$token" in
+          '}') break ;;
+          ',') obj="$obj," ;;
+          *) throw "EXPECTED , or } GOT ${token:-EOF}" ;;
+        esac
+        read -r token
+      done
+    ;;
+  esac
+  [ "$BRIEF" -eq 0 ] && value=$(printf '{%s}' "$obj") || value=
+  :
+}
+
+parse_value () {
+  local jpath="${1:+$1,}$2" isleaf=0 isempty=0 print=0
+  case "$token" in
+    '{') parse_object "$jpath" ;;
+    '[') parse_array  "$jpath" ;;
+    # At this point, the only valid single-character tokens are digits.
+    ''|[!0-9]) throw "EXPECTED value GOT ${token:-EOF}" ;;
+    *) value=$token
+       # if asked, replace solidus ("\/") in json strings with normalized value: "/"
+       [ "$NORMALIZE_SOLIDUS" -eq 1 ] && value=$(echo "$value" | sed 's#\\/#/#g')
+       isleaf=1
+       [ "$value" = '""' ] && isempty=1
+       ;;
+  esac
+  [ "$value" = '' ] && return
+  [ "$NO_HEAD" -eq 1 ] && [ -z "$jpath" ] && return
+
+  [ "$LEAFONLY" -eq 0 ] && [ "$PRUNE" -eq 0 ] && print=1
+  [ "$LEAFONLY" -eq 1 ] && [ "$isleaf" -eq 1 ] && [ $PRUNE -eq 0 ] && print=1
+  [ "$LEAFONLY" -eq 0 ] && [ "$PRUNE" -eq 1 ] && [ "$isempty" -eq 0 ] && print=1
+  [ "$LEAFONLY" -eq 1 ] && [ "$isleaf" -eq 1 ] && \
+    [ $PRUNE -eq 1 ] && [ $isempty -eq 0 ] && print=1
+  [ "$print" -eq 1 ] && printf "[%s]\t%s\n" "$jpath" "$value"
+  :
+}
+
+parse () {
+  read -r token
+  parse_value
+  read -r token
+  case "$token" in
+    '') ;;
+    *) throw "EXPECTED EOF GOT $token" ;;
+  esac
+}
+
+#if ([ "$0" = "$BASH_SOURCE" ] || ! [ -n "$BASH_SOURCE" ]);
+#then
+  parse_options "$@"
+  tokenize | parse
+#fi
+}
+
+#fi
+
 stdin()
 {
 
@@ -455,6 +675,8 @@ read
 
 loading()
 {
+  #
+if [[  "$1" == ""  ]];then 
 while true;do
 sleep 0.16 &&  read -s -t0   && read -s -t1 && break
 printf "\r%s\r" "─.   "
@@ -467,6 +689,22 @@ printf "\r%s\r"  "/...."
 #read -n1 aaaaa
 done
 sleep 0.02
+else
+while true;do
+sleep 0.16 &&  read -s -t0   && read -s -t1 && break
+printf "\r%s\r" "$1.   "
+sleep 0.16 &&  read -s -t0   && read -s -t1 && break
+printf "\r%s\r" "$1..  "
+sleep 0.16 &&  read -s -t0 && read -s  -t1 && break
+printf "\r%s\r" "$1... "
+sleep 0.16 &&  read -s -t0  && read -s  -t1 && break
+printf "\r%s\r"  "$1...." 
+#read -n1 aaaaa
+done
+sleep 0.02
+
+fi
+
 #printf "\033[1A"
 #sleep 0.02
 }
@@ -480,7 +718,7 @@ if [[  "$verify" != "y"  ]] ;then
 
 struct
     c="$(echo "$targets" | tr " " "\n")"
-    cnum="$(echo "$c" | wc -l)"
+    #cnum="$(echo "$c" | wc -l)"
 while read line ;do
 
 if  [[  "${line}" != ""  ]] ;then
@@ -494,12 +732,28 @@ fi
 done <<EOF
 $c
 EOF
+fi
+
+RWN1=1
+
+if [[  "$Json" -eq 1  ]] ;then
+while read line ;do
+if  [[  "${line}" != ""  ]] ;then
+printf 加载"$line"
+eval js$RWN1='"$(fetchJson -b <"$line"  |  grep -e "lexicalEntries\""   | grep -v "id\"" | grep -v "\"metadata\"" |  grep -v "\"en\""$ )"'
+#printf "$js1"
+#eval js$RWN1="${line}"
+RWN1=$((RWN1+1))
+
+fi
+done <<EOF
+$alljson
+EOF
 
 fi
 #printf %s "$content" | grep "\\\\"
     #for i in $(seq $cnum);do
     #content="$(cat $(echo "$c" | sed -n "$i,${i}p" ) | grep -A 99999 \\\\  )
-
 
 
 #$content"
@@ -669,7 +923,95 @@ echo  "${strs}"
 therw=
 }
 
+Fresh()
+{
+whereadd=1
+addwhere=
+counts=0
+counts2=0
+CO=$COLUMN
+iq=${#p}
+for t in `seq $iq`;do
+tt=t
+t1=$((tt-1))
+id=${p:$t1:1}
+if [[  "$id"  ==  [a-zA-Z\ -\”]   ]];then
+counts=$((counts+1))
+else
+counts=$((counts+2))
+fi
+#tt=$((tt+1))
 
+if [[  "$counts" -ge "$CO"  ]] ;then
+
+[[  "$((counts%CO))" -eq 0  ]] && CO=$((CO+COLUMN)) && st=$((tt))
+[[  "$((counts%CO))" -eq 1  ]] && whereadd=$((counts/COLUMN)) && return 5 
+#[[  "$((counts%CO%2))" -eq 1  ]] && st=$((tt-3)) && CO=$((CO+COLUMN)) && return 5
+#[[  "$((counts%CO))" -eq 0  ]] && CO=$((CO+COLUMN)) && st=$((tt))
+#[[  "$((counts%CO))" -eq 3  ]] && st=$((tt-3))
+continue
+else
+continue
+fi
+done
+}
+
+tprep()
+{
+  p="$1"
+if [[  "$ish" == "y"  ]];then
+while true;do
+st=0
+Fresh
+if [[  "$?" -eq 5  ]];then
+p="${p:0:$st}~${p:$st}"
+else
+break
+fi
+done
+fi
+#replace1 p
+[[  $p != ""  ]] && printf "\033[3m\033[2m$p\n"
+}
+
+prepn()
+{
+pre1=0
+prepb=
+#tcontent="$1"
+for i in $(seq "$2");do
+prepb="$prepb "
+done
+printf "\033[3m"
+while read line ;do
+[[  "$pre1" -eq 1  ]] && printf "$prepb$line\n\r" && continue
+printf "$line\n\r" && pre1=1 
+done <<EOF
+$1
+EOF
+printf "\033[2m"
+#read -n1  iftrans
+printf  "是否需要翻译(Y/y)"
+read -n1  iftrans
+printf "\r\033[K\033[0m"
+if [[  "$iftrans" ==  "y"  ]] || [[  "$iftrans" ==  "Y"  ]] ;then
+
+#ls
+#stty echo
+transd="$(../../trans -b :zh "$1")"
+while read line ;do
+tprep "$prepb$line" && continue
+done <<EOF
+$transd
+EOF
+#prep "$transd"
+#stty -echo
+elif [[  "$iftrans" ==  "n"  ]] || [[  "$iftrans" ==  "N"  ]] ;then
+printf "中断循环\033[K\n\r"
+return 22
+fi
+printf "\033[0m"
+}
 
 colourp()
 {
@@ -678,7 +1020,7 @@ stty -echo
 Dtop=0
 Dend=0
 RC=0
-sleep 0.01
+sleep 0.007
 hide=0
 if [[  "$isright" -eq "1"  ]] || ifright ;then
 #sleep 0.005
@@ -695,14 +1037,14 @@ printf   "\033[${COL}C%s\r"  ${fline}
 RC=1
 fi
 #printf  "\033[0m\033[2A"
-sleep 0.003
+sleep 0.007
 if [[  "$auto" -eq "1"  ]] && [[  "$isright" -eq "1"  ]];then
 while true;do
 IFS=$newline
 read -s -n1  pbool
 ptf=$?
 IFS=$IFSbak
-sleep 0.005
+sleep 0.007
 if [[  $pbool == "$LF"  ]] || [[  $pbool == "$CR"  ]] || [[  $pbool == ""  ]] && [[  $ptf == "0"  ]] ;then
 break
 else
@@ -714,9 +1056,10 @@ fi
 printf "\n\r"
 #sleep 0.005
 #sleep 0.003
+sleep 0.007
 #[[  "$auto" -eq "1"  ]] && sleep 0.1
-printf "\033[2m%s\033[0m" "y释义/v例句/s跳过:"
-
+[[  "$Json" -ne 1  ]]  && printf "\033[2m%s\033[0m" "y释义/v例句/s跳过:"
+[[  "$Json" -eq 1  ]]  && printf "\033[2m%s\033[0m" "y释义/v例句/s跳过/j详细模式:"
 
 #if [[  "$auto" -eq "1"  ]];then
 while true;do
@@ -724,7 +1067,7 @@ IFS=$newline
 read -s -n1  abool
 ttf=$?
 IFS=$IFSbak
-sleep 0.005
+sleep 0.007
 if [[  "$abool"  ==  "y"  ]]  || [[  "$abool"  ==  "Y"  ]] ;then
 printf "释义$enter" && bool="y"
 break
@@ -733,6 +1076,9 @@ printf "例句$enter" && bool="v"
 break
 elif [[  "$abool"  ==  "s"  ]] ||  [[  "$abool"  ==  "S"  ]];then
 printf "跳过$enter" && bool="s"
+break
+elif [[  "$abool"  ==  "j"  ]] || [[  "$abool"  ==  "J"  ]];then
+printf "json$enter" && bool="j"
 break
 elif [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]] || [[  $abool == ""  ]] && [[  $ttf == "0"  ]] ;then
 #printf ${spaces}${spaces# }
@@ -769,9 +1115,234 @@ printf   "\033[${COL}C%s\n\r"  "${eline}"
 printf "%s\n\033[0m" "$(echo $pureanswer | tr '/' ' ')"
 #printf "\n"
 #printf "\033[0m"
+elif [[ $bool = 'j' ]]  ; then
+#printf "\033[1A"
+#printf "%s\n\033[0m" "$(echo $pureanswer | tr '/' ' ')"
+jrow=$(eval "$allif")
+eval thejs=\"\${js$jrow}\"
+jsons="$(printf  "$thejs" | grep ^"\[\"$answer1")"
+res=0
+rei=0
+
+while [[  "$rei" -lt "7"  ]];do
+#reii=$rei
+#echo $rei
+reoption="$(printf "$jsons" | grep "\"results\",$rei" )"
+#printf "$reoption"
+if [[  "$reoption" != ""  ]] ;then
+eval re$rei="\$reoption"
+res=$((res+1))
+else 
+break
+fi
+rei="$((rei+1))"
+done
+#printf "$re0"
+if [[  "$res" -gt 0  ]] ;then
+printf "\033[2m单词"$answer1"有"$res"个结果\n"
+jsi=0
+while [[  "$jsi" -lt "$res"  ]];do
+#printf "\$re$jsi"
+#jsii=$jsi
+#jsi="$((jsi-1))"
+eval result=\"\$re$jsi\"
+lexical=0
+validlex=0
+#lres=0
+#echo "$result"
+TheCates=
+while [[  "$lexical" -lt "9"  ]];do
+Preentry="$(printf "$result" | grep "\"lexicalEntries\",$lexical" )"
+#echo "$Preentry"
+if [[  "$Preentry" != ""  ]] ;then
+eval entry${jsi}_$lexical="\$Preentry"
+TheCates="${TheCates}$(printf "$Preentry" | grep "\"lexicalCategory\",\"text\"" | awk '{printf $2$3}' | tr -d \" ),"
+validlex=$((validlex+1))
+else
+#printf 结果"$((jsi+1))"含有"${TheCates}""${validlex}"个词性\\n
+break
+fi
+lexical=$((lexical+1))
+#lexicall=0
+done
+
+
+ress=0
+lexicall=0
+while [[  "$lexicall" -lt "$validlex"  ]];do
+order=1
+catals="$(printf "$TheCates" | tr "," "\n")"
+catalsl="$(echo "$catals" | wc -l)"
+#catalsl="$((catalsl-1))"
+ress=$((ress+1))
+printf "\033[2m"按空格选择"$answer1"的第"$((ress))"个结果\\n
+while read inline ;do
+echo  "    $inline"
+done << EOF
+$catals
+退出
+EOF
+
+#read -d " "
+printf "\033[0m$enter"
+
+order=1
+printf "\033[$((catalsl+1))A\033[35m>>>>\033[0m\r"
+#echo "$pathls"
+while true ;do
+printf "$enter"
+
+#while read line ;do
+IFS=$newline
+read -s -n1 ascanf
+#read
+tf=$?
+IFS=$IFSbak
+#echo ascanf:$ascanf
+sleep 0.01
+if [[  "$ascanf"  ==  ' '  ]];then
+order=$((order+1))
+
+printf "    $enter"
+[[  "$order" -eq $((catalsl+2))  ]]  && printf "\033[$((catalsl+1))A$enter"
+[[  "$order" -eq $((catalsl+2))  ]] && order=1
+printf "\033[1B\033[35m>>>>\033[0m$enter"
+
+elif [[  "$ascanf"  ==  ''  ]] || [[  "$ascanf"  ==  "$CR"  ]] ;then
+break
+fi
+
+#done <<EOF
+#$pathls
+#EOF
+
+done
+[[  "$order" -eq  "$((catalsl+1))"  ]] && break
+deri=;phra=;gF=;inf=;pronun=
+thecate=$(echo "$catals" | sed -n "${order},${order}p" )
+down=$((catalsl+2-$order))
+printf "\033[${down}B$enter"
+
+eval thexical=\"\$entry${jsi}_$((order-1))\"
+#printf "$thexical"
+deri="$(printf "$thexical" | grep -e "\"derivatives\"" | awk -F"	" '{printf $2}' )"
+phra="$(printf "$thexical" | grep -e "\"phrases\"" | awk -F"	" '{printf $2}')"
+printf "\033[2m$answer1"结果"$((jsi+1))"的"$thecate""词性:""\033[0m"\\n
+[[  "$deri" != ""  ]] && printf 单词变形:"\033[3m""$deri""\033[0m"\\n
+[[  "$phra" != ""  ]] && printf 短语:"\033[3m""$phra""\033[0m"\\n | sed "s/\"\"/,/g" && read -n1
+
+#printf $thexical
+vsnese=0
+senses=0
+entries=0
+#while [[  "$entries" -lt "9"  ]];do
+thesense="$(printf "$thexical" | grep "\"entries\",$entries" )"
+
+gF="$(printf "$thesense" | grep -v "\"inflections\"" | grep -e "\"grammaticalFeatures\"" | awk -F"	" '{printf $2}')"
+inf="$(printf "$thesense" | grep -e "\"inflections\"" | awk -F"	" '{printf $2}')"
+pronun="$(printf "$thesense" | grep -e "\"phoneticSpelling\"" | awk -F"	" '{printf $2}')"
+etymo="$(printf "$thesense" | grep -e "\"etymologies\"" | awk -F"	" '{printf $2}')"
+[[  "$etymo" != ""  ]] && printf 词源学: && prepn "$etymo" 7
+[[  "$?" -eq 22  ]] && return 0
+[[  "$gF" != ""  ]] && printf 语义特征:"\033[3m""$gF""\033[0m"\\n
+[[  "$inf" != ""  ]] && printf 变形: && prepn "$inf" 5
+[[  "$?" -eq 22  ]] && return 0
+[[  "$pronun" != ""  ]] && printf 发音:"\033[3m""$pronun""\033[0m"\\n
+
+while [[  "$senses" -lt "9"  ]];do
+thesense0="$(printf "$thesense" | grep "\"senses\",$senses" )"
+if [[  "$thesense0" != ""  ]] ;then
+
+eval sense${jsi}_${lexicall}_$senses=\"\$thesense0\"
+vsnese=$((vsnese+1))
+#printf 释义"$vsnese":\\n
+dex=0
+#while [[  "$dex" -lt "9"  ]];do
+
+echo $strs
+
+thesense1="$(printf "$thesense0" | grep -v "\"subsenses" )"
+thedex="$(printf "$thesense1" | grep "\"definitions\"," | awk -F"	" '{print $2}' )"
+thee="$(printf "$thesense1" | grep "\"examples\"," | grep -v "\"type\"" | awk -F"	" '{print $2}' )"
+thenote="$(printf "$thesense1" | grep "\"notes\"," | grep -v "\"type\"" | awk -F"	" '{print $2}' )"
+thesdex="$(printf "$thesense1" | grep "\"shortDefinitions\"," | awk -F"	" '{print $2}' )"
+syno="$(printf "$thesense1" | grep "\"synonyms\"," | awk -F"	" '{printf $2}' | sed "s/\"\"/,/g" )"
+[[  "$thedex" != ""  ]] && printf 释义"$vsnese": && prepn "$thedex" 6
+[[  "$?" -eq 22  ]] && return 0
+[[  "$thee" != ""  ]] && printf 例句"$vsnese": && prepn "$thee" 6
+[[  "$?" -eq 22  ]] && return 0
+[[  "$thenote" != ""  ]] && printf 笔记"$vsnese":"$thenote"\\n
+[[  "$thesdex" != ""  ]] && printf 短释"$vsnese": && prepn "$thesdex" 6
+[[  "$?" -eq 22  ]] && return 0
+[[  "$syno" != ""  ]] && printf 同义"$vsnese":"\033[3m""$syno""\033[0m"\\n
+
+#subs="$(printf "$thesense0" | grep "\"subsenses\"," )"
+sdex=0
+while [[  "$sdex" -lt "9"  ]];do
+subs="$(printf "$thesense0" | grep  "\"subsenses\",$sdex" )"
+if [[  "$subs" != ""  ]];then
+thedex="$(printf "$subs" | grep "\"definitions\"," | grep -v   | awk -F"	" '{print $2}' )"
+thee="$(printf "$subs" | grep "\"examples\"," | awk -F"	" '{print $2}' )"
+thenote="$(printf "$subs" | grep "\"notes\"," | grep -v "grammaticalNote" | awk -F"	" '{print $2}' )"
+thesdex="$(printf "$subs" | grep "\"shortDefinitions\"," | awk -F"	" '{print $2}' )"
+syno="$(printf "$subs" | grep "\"synonyms\"," | awk -F"	" '{printf $2}' | sed "s/\"\"/,/g" )"
+
+
+[[  "$thedex" != ""  ]] && printf 子释义"$vsnese": && prepn "$thedex" 8
+[[  "$?" -eq 22  ]] && return 0
+[[  "$thee" != ""  ]] && printf 子例句"$vsnese": && prepn "$thee" 8
+[[  "$?" -eq 22  ]] && return 0
+[[  "$thenote" != ""  ]] && printf 子笔记"$vsnese":"$thenote"\\n
+[[  "$thesdex" != ""  ]] && printf 子短释"$vsnese": && prepn "$thesdex" 8
+[[  "$?" -eq 22  ]] && return 0
+[[  "$syno" != ""  ]] && printf 子同义"$vsnese":"\033[3m""$syno""\033[0m"\\n
+
+else
+[[  "$sdex" -ne 0   ]] && printf "\033[2m$answer1"结果"$((jsi+1))"的词性"$thecate"第"$((senses+1))"个释义有"$sdex"个子释义"\033[0m"\\n
+break
+fi
+sdex=$((sdex+1))
+done
+#sdex
+#done
+
+
+#dex=$((dex+1))
+#done
+#synonyms="$(printf "$thejson" | grep "\"synonyms\""  | awk '{printf $2$3$4$5}' | sed  "s/\"\"/,/g" )"
+#printf "同义词:"
+#printf %s $synonyms
+#echo
+#jsi=$((jsi+1))
+#lexicall=$((lexicall+1))
+#continue
+else
+printf "$answer1"结果"$((jsi+1))"的词性"$thecate"共有"${vsnese}"个释义\\n
+break
+fi
+senses=$((senses+1))
+printf "\033[3m"
+loading "$answer1"
+printf "\033[0m"
+done
+#lexicall=$((lexicall+1))
+#done
+lexicall=$((lexicall+1))
+done
+#echo 2222
+
+
+jsi=$((jsi+1))
+continue
+done
+
+
+
+fi
+printf "\r$(echo $pureanswer | tr '/' ' ')\n"
 else
 #sleep 0.005
-[[  "$hide" -eq "0"  ]] && printf "\r$(echo $pureanswer | tr '/' ' ')" && echo 
+[[  "$hide" -eq "0"  ]] && printf "\r$(echo $pureanswer | tr '/' ' ')"  && sleep 0.003 &&  echo 
 fi
 
 [[  "$record" -eq 1   ]] && [[  "$calenda" -eq "1"  ]] && cd ../CORRECT/"$thepath"
@@ -950,7 +1521,18 @@ now3=
 now2=
 now=
 #needo=
+#whereb="${pos1/#*;/""}"
+
+wherec="${pos2/#*;/""}"
 if [[  "$pos1" != "$pos2"  ]] ;then
+
+
+if [[   "$which" == "zh"  ]] && [[  "$ascanf" !=  "."   ]]  &&  [[  "$vback" != "1"  ]] && [[  "$((hereis+thereis))" -eq "0"   ]]  ; then
+whereb="${pos1/#*;/""}"
+Pos="$((wherec-whereb))"
+[[  "$Pos" -eq "1"  ]] && now3=1
+fi
+
 break
 
 
@@ -961,7 +1543,7 @@ break
 #[[  "$Pos" -eq "-1"  ]] || [[  "$Pos" -eq "9"   ]]  && now4=1 
 
 else
-wherec="${pos2/#*;/""}"
+#wherec="${pos2/#*;/""}"
 [[  "$which" == "en"  ]] && [[  $wherec -eq $COLUMN  ]]  && break
 [[  "$which" == "en"  ]] && [[  "$vback" -ne  "1"  ]] && continue
 #stty echo
@@ -995,14 +1577,14 @@ fi
 #fi
 done
 
-if [[   "$which" == "zh"  ]]  &&  [[  "$vback" != "1"  ]] && [[  "$((hereis+thereis))" -eq "0"   ]]  ; then
+#if [[   "$which" == "zh"  ]]  &&  [[  "$vback" != "1"  ]] && [[  "$((hereis+thereis))" -eq "0"   ]]  ; then
 #Pos1="${pos1:$((${#pos1}-1))}"
 #Pos2="${pos2:$((${#pos2}-1))}"
-whereb="${pos1/#*;/""}"
-Pos="$((wherec-whereb))"
-[[  "$Pos" -eq "1"  ]] && now3=1 
+#whereb="${pos1/#*;/""}"
+#Pos="$((wherec-whereb))"
+#[[  "$Pos" -eq "1"  ]] && now3=1
 
-fi
+#fi
 
 fi
 if  [[  "$bscanf"  == ""   ]] ; then
@@ -1564,7 +2146,7 @@ if [[ $verify = y || $verify = Y  ]];then
 
 struct
     c="$(echo "$targets" | tr " " "\n" )"
-    cnum="$(echo "$c" | wc -l)"
+   # cnum="$(echo "$c" | wc -l)"
 while read line ;do
 
 if  [[  "${line}" != ""  ]] ;then
@@ -1674,38 +2256,7 @@ fi
 #syes(){
 
 #}
-Fresh()
-{
-whereadd=1
-addwhere=
-counts=0
-counts2=0
-CO=$COLUMN
-iq=${#p}
-for t in `seq $iq`;do
-tt=t
-t1=$((tt-1))
-id=${p:$t1:1}
-if [[  "$id"  ==  [a-zA-Z\ -\”]   ]];then
-counts=$((counts+1))
-else
-counts=$((counts+2))
-fi
-#tt=$((tt+1))
 
-if [[  "$counts" -ge "$CO"  ]] ;then
-
-[[  "$((counts%CO))" -eq 0  ]] && CO=$((CO+COLUMN)) && st=$((tt))
-[[  "$((counts%CO))" -eq 1  ]] && whereadd=$((counts/COLUMN)) && return 5 
-#[[  "$((counts%CO%2))" -eq 1  ]] && st=$((tt-3)) && CO=$((CO+COLUMN)) && return 5
-#[[  "$((counts%CO))" -eq 0  ]] && CO=$((CO+COLUMN)) && st=$((tt))
-#[[  "$((counts%CO))" -eq 3  ]] && st=$((tt-3))
-continue
-else
-continue
-fi
-done
-}
 
 replace()
 {
@@ -3076,11 +3627,21 @@ done
 }
 
 
+helptxt="-p 通关模式(全做对后退出)
+-r 错题集模式(在txt/CORRECT文件夹自动生成错题集)
+-a 答题辅助(自动判断输入)
+-v 验证词表格式(避免多余的空格)
+-i 优化ish(主要修复IOS的ish中存在中文断行等问题)
+-j 加载有详细释义的.Json文件(源自Oxford Dictionary API*)
+*json文件经作者排版
+"
 
 
-
-while getopts ":rsipa" opt; do
+while getopts ":rsipajh" opt; do
     case $opt in
+        h)
+        printf "%s" "$helptxt" && exit 1
+        ;;
         p)
         echo 通关模式 && passd=1
         ;;
@@ -3095,6 +3656,9 @@ while getopts ":rsipa" opt; do
         ;;
         a)
         echo 答题辅助模式 && auto=1
+        ;;
+        j)
+        echo 加载Json源文件 && Json=1
         ;;
 
 esac
