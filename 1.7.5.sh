@@ -136,7 +136,7 @@ thepath=$(echo "$pathls" | sed -n "${order},${order}p" )
 down=$((pathlsl+1-$order))
 printf "\033[${down}B$enter"
 
-cd $thepath && printf  "open \033[1m$thepath\033[0m\n"
+cd "$thepath" && printf  "open \033[1m$thepath\033[0m\n"
 
 #cd ./txt/webapi >& /dev/null
 if [[  "$?" -ne "0"  ]];then
