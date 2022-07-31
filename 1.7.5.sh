@@ -1176,7 +1176,7 @@ catals="$(printf "$TheCates" | tr "," "\n")"
 catalsl="$(echo "$catals" | wc -l)"
 #catalsl="$((catalsl-1))"
 ress=$((ress+1))
-printf "\033[2m"按空格选择"$answer1"的第"$((ress))"个结果\\n
+printf "\033[2m"按空格选择"$answer1"的第"$((ress))"个释义\\n
 while read inline ;do
 echo  "    $inline"
 done << EOF
@@ -1282,7 +1282,7 @@ sdex=0
 while [[  "$sdex" -lt "9"  ]];do
 subs="$(printf "$thesense0" | grep  "\"subsenses\",$sdex" )"
 if [[  "$subs" != ""  ]];then
-thedex="$(printf "$subs" | grep "\"definitions\"," | grep -v   | awk -F"	" '{print $2}' )"
+thedex="$(printf "$subs" | grep "\"definitions\"," | awk -F"	" '{print $2}' )"
 thee="$(printf "$subs" | grep "\"examples\"," | awk -F"	" '{print $2}' )"
 thenote="$(printf "$subs" | grep "\"notes\"," | grep -v "grammaticalNote" | awk -F"	" '{print $2}' )"
 thesdex="$(printf "$subs" | grep "\"shortDefinitions\"," | awk -F"	" '{print $2}' )"
@@ -1318,7 +1318,7 @@ done
 #lexicall=$((lexicall+1))
 #continue
 else
-printf "$answer1"结果"$((jsi+1))"的词性"$thecate"共有"${vsnese}"个释义\\n
+printf "\033[2m""$answer1"结果"$((jsi+1))"的词性"$thecate"共有"${vsnese}"个释义\\n"\033[0m"
 break
 fi
 senses=$((senses+1))
