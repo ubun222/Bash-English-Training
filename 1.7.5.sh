@@ -1176,7 +1176,7 @@ catals="$(printf "$TheCates" | tr "," "\n")"
 catalsl="$(echo "$catals" | wc -l)"
 #catalsl="$((catalsl-1))"
 ress=$((ress+1))
-printf "\033[2m"按空格选择"$answer1"的第"$((ress))"个释义\\n
+printf "\033[2m"按空格选择"$answer1"的第"$((ress))"个词性\\n
 while read inline ;do
 echo  "    $inline"
 done << EOF
@@ -3641,7 +3641,7 @@ helptxt="-p 通关模式(全做对后退出)
 -v 验证词表格式(避免多余的空格)
 -i 优化ish(主要修复IOS的ish中存在中文断行等问题)
 -j 加载有详细释义的.Json文件(源自Oxford Dictionary API*)
-*json文件经作者排版
+*json文件经排版
 "
 
 
