@@ -1226,7 +1226,7 @@ printf "\033[${down}B$enter"
 
 eval thexical=\"\$entry${jsi}_$((order-1))\"
 #printf "$thexical"
-deri="$(printf "$thexical" | grep -e "\"derivatives\"" | awk -F"	" '{printf $2}' )"
+deri="$(printf "$thexical" | grep -e "\"derivatives\",0,\"text\"" | awk -F"	" '{printf $2}' )"
 phra="$(printf "$thexical" | grep -e "\"phrases\"" | awk -F"	" '{printf $2}')"
 printf "\033[2m$answer1"结果"$((jsi+1))"的"$thecate""词性:""\033[0m"\\n
 [[  "$deri" != ""  ]] && printf 单词变形:"\033[3m""$deri""\033[0m"\\n
