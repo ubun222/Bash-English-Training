@@ -1459,7 +1459,6 @@ IFS=$ENTER
 read -s -t0.02  -n1 bscanf  
 bd=$?
 if [[  "$bd" -ne 0   ]] ;then
-
 [[  "$waiting" == "1"  ]] && waiting=0  && bscanf=  && waiting=0
 [[  "$ascanf" == ""  ]] && wait1=1 && waiting=0
 elif [[  "$bd" -eq 0   ]]; then  
@@ -1673,7 +1672,7 @@ fi
 #echo ascanf:$ascanf
 
 if [[  "$ascanf" == "$B"  ]]  ;then
-#echo 123
+stty echo
 #printf 22
 #printf "\b"
 ascanf=""
@@ -2116,8 +2115,8 @@ if [[  "$line" == "$thelast"  ]] ;then
 #echo 1"$scanfd"
 #echo 2"$answerd"
 [[  "$scanfd" == "$answerd"  ]] && isright=1  && return 0 
-sleep 0.05 && read -s -t0   && read -s -t1
-#stty echo
+sleep 0.02 && read -s -t0   && read -s -t1
+stty echo
 printf '，'  && scanf="$scanf"， && break
 else
 continue
