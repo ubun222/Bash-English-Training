@@ -1020,7 +1020,7 @@ stty -echo
 Dtop=0
 Dend=0
 RC=0
-[[  "$ish" == "y"    ]] &&  sleep 0.005
+[[  "$ish" == "y"    ]] &&  sleep 0.003
 hide=0
 if [[  "$isright" -eq "1"  ]] || ifright ;then
 #sleep 0.005
@@ -1037,14 +1037,14 @@ printf   "\033[${COL}C%s\r"  ${fline}
 RC=1
 fi
 #printf  "\033[0m\033[2A"
-[[  "$ish" == "y"    ]] &&  sleep 0.005
+[[  "$ish" == "y"    ]] &&  sleep 0.003
 if [[  "$auto" -eq "1"  ]] && [[  "$isright" -eq "1"  ]];then
 while true;do
 IFS=$newline
 read -s -n1  pbool
 ptf=$?
 IFS=$IFSbak
-[[  "$ish" == "y"    ]] &&  sleep 0.005
+[[  "$ish" == "y"    ]] &&  sleep 0.003
 if [[  $pbool == "$LF"  ]] || [[  $pbool == "$CR"  ]] || [[  $pbool == ""  ]] && [[  $ptf == "0"  ]] ;then
 break
 else
@@ -1056,7 +1056,7 @@ fi
 printf "\n\r"
 #sleep 0.005
 #sleep 0.003
-[[  "$ish" == "y"    ]] &&  sleep 0.005
+[[  "$ish" == "y"    ]] &&  sleep 0.003
 #[[  "$auto" -eq "1"  ]] && sleep 0.1
 [[  "$Json" -ne 1  ]]  && printf "\033[2m%s\033[0m" "y释义/v例句/s跳过:"
 [[  "$Json" -eq 1  ]]  && printf "\033[2m%s\033[0m" "y释义/v例句/s跳过/j详细模式:"
@@ -1067,18 +1067,18 @@ IFS=$newline
 read -s -n1  abool
 ttf=$?
 IFS=$IFSbak
-[[  "$ish" == "y"    ]] &&  sleep 0.005
+[[  "$ish" == "y"    ]] &&  sleep 0.003
 if [[  "$abool"  ==  "y"  ]]  || [[  "$abool"  ==  "Y"  ]] ;then
-printf "释义$enter" && bool="y"
+printf "$enter\033[K" && bool="y"
 break
 elif [[  "$abool"  ==  "v"  ]] || [[  "$abool"  ==  "V"  ]];then
-printf "例句$enter" && bool="v"
+printf "$enter\033[K" && bool="v"
 break
 elif [[  "$abool"  ==  "s"  ]] ||  [[  "$abool"  ==  "S"  ]];then
-printf "跳过$enter" && bool="s"
+printf "$enter\033[K" && bool="s"
 break
 elif [[  "$abool"  ==  "j"  ]] || [[  "$abool"  ==  "J"  ]];then
-printf "json$enter" && bool="j"
+printf "$enter\033[K" && bool="j"
 break
 elif [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]] || [[  $abool == ""  ]] && [[  $ttf == "0"  ]] ;then
 #printf ${spaces}${spaces# }
@@ -1113,7 +1113,7 @@ printf "\033[1A"
 printf   "\033[${COL}C%s\n\r"  "${eline}"
 #sleep 0.005
 printf "%s\n\033[0m" "$(echo $pureanswer | tr '/' ' ')"
-[[  "$ish" == "y"    ]] && sleep 0.005
+[[  "$ish" == "y"    ]] && sleep 0.003
 #printf "\n"
 #printf "\033[0m"
 elif [[ $bool = 'j' ]]  ; then
@@ -1340,15 +1340,15 @@ done
 
 
 fi
-[[  "$ish" == "y"    ]] && sleep 0.005
+[[  "$ish" == "y"    ]] && sleep 0.003
 printf "\r$(echo $pureanswer | tr '/' ' ')\n"
-[[  "$ish" == "y"    ]] && sleep 0.005
+[[  "$ish" == "y"    ]] && sleep 0.003
 else
 #sleep 0.005
 if [[  "$hide" -eq "0"  ]] ;then
-[[  "$ish" == "y"    ]] && sleep 0.005
+[[  "$ish" == "y"    ]] && sleep 0.003
 printf "\r$(echo $pureanswer | tr '/' ' ')" 
-[[  "$ish" == "y"    ]] && sleep 0.005
+[[  "$ish" == "y"    ]] && sleep 0.003
 printf "\n\r"
 fi
 fi
@@ -1450,6 +1450,7 @@ ccc
 
 read_()
 {
+stty echo
 #wait1=
 #stty -echo
 bd=1
@@ -1469,16 +1470,16 @@ fi
 if [[  "$ascanf" != ""   ]]  ;then
 if [[  "$auto" -eq 1  ]] ;then
 printf "${ascanf}" 
-[[  "$waiting" == "0"  ]] && [[  $wait1 -ne 1  ]] &&  ififright && waiting=1  && stty -echo && return 22
+[[  "$waiting" == "0"  ]] && [[  $wait1 -ne 1  ]] &&  ififright && waiting=1 && stty -echo  && return 22
 stty -echo
 else
 printf "${ascanf}" 
 fi
 
 fi
-
+#stty echo
 [[  "$bd" -eq 0   ]]  &&  waiting=1 && ascanf="$bscanf"
-[[   $waiting -eq 0  ]] &&  read -s -n1 ascanf
+[[   $waiting -eq 0  ]]  &&  read -s -n1 ascanf
 IFS=$IFSbak
 }
 
@@ -2116,6 +2117,7 @@ if [[  "$line" == "$thelast"  ]] ;then
 #echo 2"$answerd"
 [[  "$scanfd" == "$answerd"  ]] && isright=1  && return 0 
 sleep 0.05 && read -s -t0   && read -s -t1
+#stty echo
 printf '，'  && scanf="$scanf"， && break
 else
 continue
@@ -2123,6 +2125,7 @@ fi
 done <<EOF
 $answerd
 EOF
+stty echo
 return 2
 
 elif [[  "$which" == "en"  ]] ; then
@@ -2942,7 +2945,7 @@ if [[  $passd -eq 1  ]] ;then
 m="$(echo "$rangem" | sed -n "$m,${m}p")"
 fi
 question=$(echo "$longtxt" | sed -n "$m,${m}p" | tr '/' ' ')
-[[  "$ish" == "y"    ]] && sleep 0.005
+[[  "$ish" == "y"    ]] && sleep 0.003
  echo  "${strs}"
 #echo -n "$question"         #printf 命令需要套一个双引号才能输出空格
 No=$(($((m/2))+$((m%2))))
@@ -3048,7 +3051,7 @@ if [[  $passd -eq 1  ]] ;then
         m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
 fi
 question=$(echo "$txt"| sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}' | tr '/' ' ')
-[[  "$ish" == "y"    ]] && sleep 0.005
+[[  "$ish" == "y"    ]] && sleep 0.003
 echo  "${strs}"
 
 pureanswer=$(echo "$txt" | sed -n "$m2,${m2}p")
@@ -3127,7 +3130,7 @@ fi
 
 
 question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
-[[  "$ish" == "y"    ]] &&  sleep 0.005
+[[  "$ish" == "y"    ]] &&  sleep 0.003
 echo  "${strs}"
 
 pureanswer=$(echo "$txt" | sed -n "$m2,${m2}p" )
@@ -3263,7 +3266,7 @@ m="$(echo "$rangem" | sed -n "$m,${m}p")"
 fi
 eval question=\${lr$m}
 # question=$(echo ${l})
-[[  "$ish" == "y"    ]] && sleep 0.005
+[[  "$ish" == "y"    ]] && sleep 0.003
 echo  "${strs}"
 question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
 
@@ -3371,7 +3374,7 @@ fi
 
 eval question=\${lr$m2}
 # question=$(echo ${l})
-[[  "$ish" == "y"    ]] &&  sleep 0.005
+[[  "$ish" == "y"    ]] &&  sleep 0.003
 echo  "${strs}"
 question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
 
@@ -3470,7 +3473,7 @@ fi
 
 eval question=\${lr$m2}
 # question=$(echo ${l})
-[[  "$ish" == "y"    ]] && sleep 0.005
+[[  "$ish" == "y"    ]] && sleep 0.003
 echo  "${strs}"
 question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
 
