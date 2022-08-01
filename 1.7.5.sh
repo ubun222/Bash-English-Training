@@ -2107,6 +2107,7 @@ answerd="$(printf "$answerd" | sort)"
 stty -echo
 [[  "$thelast" == "n1"   ]] || [[  "$thelast" == ""   ]] && return 2
 #printf "$thelast"
+stty echo
 while read line ;do
 if [[  "$line" == "$thelast"  ]] ;then
 #scanfd="$(printf "$scanfd" | sort)"
@@ -2116,7 +2117,7 @@ if [[  "$line" == "$thelast"  ]] ;then
 #echo 2"$answerd"
 [[  "$scanfd" == "$answerd"  ]] && isright=1  && return 0 
 sleep 0.02 && read -s -t0   && read -s -t1
-stty echo
+#stty echo
 printf '，'  && scanf="$scanf"， && break
 else
 continue
