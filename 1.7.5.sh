@@ -1456,8 +1456,9 @@ read_()
 stty -echo
 bd=1
 wait1=
+now=
 IFS=$ENTER
-read -s -t0.02  -n1 bscanf  
+read -s -t0.01  -n1 bscanf  
 bd=$?
 if [[  "$bd" -ne 0   ]] ;then
 [[  "$waiting" == "1"  ]] && waiting=0  && bscanf=  && waiting=0
@@ -1467,19 +1468,23 @@ waiting=1
 wait=
 fi
 
-if [[  "$ascanf" != ""   ]]  ;then
-if [[  "$auto" -eq 1  ]] ;then
-printf "${ascanf}" 
-[[  "$waiting" == "0"  ]] && [[  $wait1 -ne 1  ]] &&  ififright && waiting=1 && stty -echo  && return 22
-stty -echo
-else
-printf "${ascanf}" 
-fi
 
+if [[  "$ascanf" != ""   ]]  ;then
+printf "${ascanf}" 
+printf "\033[6n"
+read -s -d \[ 
+read -t1 -s -d \R pos1
+wherec="${pos1/#*;/""}"
+[[  "$wherec" -eq 1  ]] && now=1
+if [[  "$auto" -eq 1  ]] ;then
+[[  "$waiting" == "0"  ]] && [[  $wait1 -ne 1  ]] &&  ififright && waiting=1 && stty -echo  && return 22
+fi
 fi
 #stty echo
 [[  "$bd" -eq 0   ]]  &&  waiting=1 && ascanf="$bscanf"
-[[   $waiting -eq 0  ]]  &&  read -s -n1 ascanf
+if [[   $waiting -eq 0  ]] ;then
+read  -s -n1 ascanf
+fi
 IFS=$IFSbak
 }
 
@@ -1487,7 +1492,7 @@ IFS=$IFSbak
 
 _read()
 {
-#stty echo
+stty -echo
 [[  "$((nb))"  == "$ib"   ]] && waiting=0 && bscanf= && needpt= && ib= && nb=0
 bd=0
 
@@ -1515,13 +1520,11 @@ fi
 read -t1 -s -d \R pos1
 hereis=$?
 
+printf  "${ascanf}"  
+
 if [[  "$auto" -eq 1  ]]  ;then
-#stty echo
-printf "${ascanf}" 
-[[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]] &&  ififright && stty -echo && return 22
+[[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
 stty -echo
-else
-printf "${ascanf}" 
 fi
 
 printf "\033[6n" && read -t1 -s -d \[ bb && read -t1 -s  -d \R pos2
@@ -2108,7 +2111,7 @@ answerd="$(printf "$answerd" | sort)"
 stty -echo
 [[  "$thelast" == "n1"   ]] || [[  "$thelast" == ""   ]] && return 2
 #printf "$thelast"
-stty echo
+#stty echo
 while read line ;do
 if [[  "$line" == "$thelast"  ]] ;then
 #scanfd="$(printf "$scanfd" | sort)"
@@ -2126,7 +2129,7 @@ fi
 done <<EOF
 $answerd
 EOF
-stty echo
+#stty echo
 return 2
 
 elif [[  "$which" == "en"  ]] ; then
