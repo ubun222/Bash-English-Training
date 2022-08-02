@@ -1450,9 +1450,9 @@ ccc
 
 read_()
 {
-stty echo
+[[  $which == zh  ]] && stty echo
 #wait1=
-#stty -echo
+[[  $which == en  ]] &&  stty -echo
 bd=1
 wait1=
 IFS=$ENTER
