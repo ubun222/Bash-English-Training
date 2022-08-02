@@ -1450,9 +1450,10 @@ ccc
 
 read_()
 {
-[[  $which == zh  ]] && stty echo
+#[[  $which == zh  ]] && stty echo
 #wait1=
-[[  $which == en  ]] &&  stty -echo
+#[[  $which == en  ]] &&  stty -echo
+stty -echo
 bd=1
 wait1=
 IFS=$ENTER
@@ -2116,7 +2117,7 @@ if [[  "$line" == "$thelast"  ]] ;then
 #echo 1"$scanfd"
 #echo 2"$answerd"
 [[  "$scanfd" == "$answerd"  ]] && isright=1  && return 0 
-sleep 0.02 && read -s -t0   && read -s -t1
+#sleep 0.02 && read -s -t0   && read -s -t1
 #stty echo
 printf '，'  && scanf="$scanf"， && break
 else
