@@ -1471,9 +1471,6 @@ fi
 
 if [[  "$ascanf" != ""   ]]  ;then
 printf "${ascanf}" 
-printf "\033[6n"
-read -s -d \[ 
-read -t1 -s -d \R pos1
 wherec="${pos1/#*;/""}"
 [[  "$wherec" -eq 1  ]] && now=1
 if [[  "$auto" -eq 1  ]] ;then
@@ -1483,8 +1480,12 @@ fi
 #stty echo
 [[  "$bd" -eq 0   ]]  &&  waiting=1 && ascanf="$bscanf"
 if [[   $waiting -eq 0  ]] ;then
+printf "\033[6n"
+read -s -d \[ 
+read -t1 -s -d \R pos1
 read  -s -n1 ascanf
 fi
+
 IFS=$IFSbak
 }
 
