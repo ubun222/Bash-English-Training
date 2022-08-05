@@ -1501,26 +1501,29 @@ if [[  "$ascanf" != ""   ]]  && [[  "${#scanf}" -ne "0"  ]] || [[  "$vback" -eq 
 stty -echo
 while true;do
 
+while true;do
 #[[  "$ascanf" == ""   ]] && [[  "$vback" -ne "1"  ]]  && break
 printf "\033[6n"
 
-if [[  $bd -ne 1   ]];then
-read -t1 -s -d \[ bscanf
+if [[  $bd -ne 1   ]] && [[  "$passs" -ne 1  ]];then
+read -t.1 -s -d \[ bscanf
 bd=1
 ib=${#bscanf}
 [[  "$ib" -le "1"   ]] && bscanf=""
 [[  "$waiting" == "1"   ]] && bscanf="$needpt"
 
 else
-read -s -d \[ 
+read -t.1 -s -d \[ 
 fi
 #ib=${#bscanf}
 #echo $ib
 #[[  "$ib" -le "1"   ]] && bscanf=""
 #[[  "$waiting" == "1"   ]] && bscanf="$needpt"
-read -t1 -s -d \R pos1
-hereis=$?
-
+read -t.1 -s -d \R pos1
+[[  "$?" -ne 0  ]] && passs=1 &&  continue 
+break
+done
+passs=
 printf  "${ascanf}"  
 
 if [[  "$auto" -eq 1  ]]  ;then
@@ -1528,8 +1531,11 @@ if [[  "$auto" -eq 1  ]]  ;then
 stty -echo
 fi
 
-printf "\033[6n" && read -t1 -s -d \[ bb && read -t1 -s  -d \R pos2
-thereis=$?
+while true;do
+printf "\033[6n" && read -t.1 -s -d \[ bb && read -t.1 -s  -d \R pos2
+[[  "$?" -ne 0  ]] && continue 
+break
+done
 now3=
 now2=
 now=
@@ -1539,8 +1545,7 @@ now=
 wherec="${pos2/#*;/""}"
 if [[  "$pos1" != "$pos2"  ]] ;then
 
-
-if [[   "$which" == "zh"  ]] && [[  "$ascanf" !=  "."   ]]  &&  [[  "$vback" != "1"  ]] && [[  "$((hereis+thereis))" -eq "0"   ]]  ; then
+if [[   "$which" == "zh"  ]] && [[  "$ascanf" !=  "."   ]]  &&  [[  "$vback" != "1"  ]]  ; then
 whereb="${pos1/#*;/""}"
 Pos="$((wherec-whereb))"
 [[  "$Pos" -eq "1"  ]] && now3=1
