@@ -1140,9 +1140,9 @@ rei="$((rei+1))"
 done
 #printf "$re0"
 if [[  "$res" -gt 0  ]] ;then
-printf "\033[2m单词"$answer1"有"$res"个结果\n"
+printf "\033[2m单词"\\033[0m$answer1\\033[2m"有"\\033[0m$res\\033[2m"个结果\n"
 jsi=0
-ress=0
+#ress=0
 while [[  "$jsi" -lt "$res"  ]];do
 #printf "\$re$jsi"
 #jsii=$jsi
@@ -1168,15 +1168,15 @@ lexical=$((lexical+1))
 #lexicall=0
 done
 
-
+ress=1
 lexicall=0
 while [[  "$lexicall" -lt "$validlex"  ]];do
 order=1
 catals="$(printf "$TheCates" | tr "," "\n")"
 catalsl="$(echo "$catals" | wc -l)"
 #catalsl="$((catalsl-1))"
-ress=$((ress+1))
-printf "\033[2m"按空格选择"$answer1"的第"$((ress))"个词性\\n
+#ress=$((ress+1))
+printf "\033[2m"按空格选择"$answer1"结果"$((jsi+1))"的第"$((ress))"个词性\\n
 while read inline ;do
 echo  "    $inline"
 done << EOF
@@ -1228,7 +1228,7 @@ eval thexical=\"\$entry${jsi}_$((order-1))\"
 #printf "$thexical"
 deri="$(printf "$thexical" | grep -e "\"derivatives\",0,\"text\"" | awk -F"	" '{printf $2}' )"
 phra="$(printf "$thexical" | grep -e "\"phrases\"" | awk -F"	" '{printf $2}')"
-printf "\033[2m$answer1"结果"$((jsi+1))"的"$thecate""词性:""\033[0m"\\n
+printf "\033[0m$answer1\033[2m"结果"\033[0m$((jsi+1))\033[2m"的"\033[0m$thecate\033[2m""词性:""\033[0m"\\n
 [[  "$deri" != ""  ]] && printf 单词变形:"\033[3m""$deri""\033[0m"\\n
 [[  "$phra" != ""  ]] && printf 短语:"\033[3m""$phra""\033[0m"\\n | sed "s/\"\"/,/g" && read -n1
 
@@ -1272,7 +1272,7 @@ syno="$(printf "$thesense1" | grep "\"synonyms\"," | awk -F"	" '{printf $2}' | s
 [[  "$?" -eq 22  ]] && return 0
 [[  "$thee" != ""  ]] && printf 例句"$vsnese": && prepn "$thee" 6
 [[  "$?" -eq 22  ]] && return 0
-[[  "$thenote" != ""  ]] && printf 笔记"$vsnese":"$thenote"\\n
+[[  "$thenote" != ""  ]] && printf 笔记"$vsnese":"\033[3m""$thenote""\033[0m"\\n
 [[  "$thesdex" != ""  ]] && printf 短释"$vsnese": && prepn "$thesdex" 6
 [[  "$?" -eq 22  ]] && return 0
 [[  "$syno" != ""  ]] && printf 同义"$vsnese":"\033[3m""$syno""\033[0m"\\n
@@ -1293,7 +1293,7 @@ syno="$(printf "$subs" | grep "\"synonyms\"," | awk -F"	" '{printf $2}' | sed "s
 [[  "$?" -eq 22  ]] && return 0
 [[  "$thee" != ""  ]] && printf 子例句"$vsnese": && prepn "$thee" 8
 [[  "$?" -eq 22  ]] && return 0
-[[  "$thenote" != ""  ]] && printf 子笔记"$vsnese":"$thenote"\\n
+[[  "$thenote" != ""  ]] && printf 子笔记"$vsnese":"\033[3m""$thenote""\033[0m"\\n
 [[  "$thesdex" != ""  ]] && printf 子短释"$vsnese": && prepn "$thesdex" 8
 [[  "$?" -eq 22  ]] && return 0
 [[  "$syno" != ""  ]] && printf 子同义"$vsnese":"\033[3m""$syno""\033[0m"\\n
@@ -1318,6 +1318,7 @@ done
 #lexicall=$((lexicall+1))
 #continue
 else
+ress=$((ress+1))
 printf "\033[2m""$answer1"结果"$((jsi+1))"的词性"$thecate"共有"${vsnese}"个释义\\n"\033[0m"
 break
 fi
@@ -1631,7 +1632,7 @@ stty echo
 Readzh()
 {
 #vback=
-now4=
+#now4=
     needo=
 which=zh
 isright=0
@@ -1789,10 +1790,9 @@ zscanf="$(printf "$zscanf${ascanf}")"
 scanf="$(printf "$scanf${ascanf}")"
 
 # [[  "${#zscanf}" == "3"   ]] && LENGTH=$((LENGTH+2))
-
 if [[  $cccc -eq 0  ]];then
 if  [[  ${#zscanf} -eq "1"  ]] ;then
-
+[[  "$now2" -eq 1  ]] && printf "\n\r"
 ascanf="$zscanf" && zscanf=  && continue
 else
 ascanf=
@@ -1800,8 +1800,12 @@ fi
 fi
 
 if [[  $cccc -eq 1  ]];then
-[[  $waiting -eq 1  ]] && [[  ${#zscanf} -eq "1"  ]] && ascanf="$zscanf" && zscanf=   && continue
+if [[  $waiting -eq 1  ]] && [[  ${#zscanf} -eq "1"  ]];then
+[[  "$now2" -eq 1  ]] && printf "\n\r"
+ ascanf="$zscanf" && zscanf=   && continue
+ fi
 if  [[  ${#zscanf} -eq "1"  ]] && [[  "${zscanf}" != "${ascanf}"  ]] && [[  ${#zscanf} -ne "2"  ]] && [[  $waiting -eq 0  ]] ;then
+[[  "$now2" -eq 1  ]] && printf "\n\r"
 ascanf="$zscanf" && zscanf=   && continue
 else
 ascanf=
@@ -1864,6 +1868,8 @@ scanf=$scanf${ascanf}
 #backbot=$(printf %s $bot | tr "-" "\\b")
 is=${#scanf}
 backscanf=
+[[  "$now2" -eq 1  ]] && printf "\n\r"
+now2=
 #N=$((N+1))
 #for i in $(seq $is);do
 #backscanf="$backscanf$Back"
@@ -1883,7 +1889,7 @@ scanf=${scanf%[a-zA-Z' '-]}
 #printf "$enter$spaces${spaces% }\r"$question"——————:$bot\r"$question"——————:$scanf"
 backscanf=
 blocks=
-
+now2=
 for si in $(seq $is);do
 backscanf="$backscanf"$Back
 blocks=$blocks' '
@@ -1902,7 +1908,7 @@ elif [[  "$is" -ge  1   ]] && [[  "$is" -gt "$iq" ]] ;then
 insert=" "
 fi
 
-[[  "$is" -ge  1   ]] && [[  "2" -eq "$((frontier%COLUMN))" ]] && [[  "$is" -ge 1   ]]  && printf "$Back$insert\033[1A\033[${COLUMN}C"  && continue
+[[  "$is" -ge  1   ]] && [[  "2" -eq "$((frontier%COLUMN))" ]] && [[  "$is" -ge 1   ]]  && printf "$Back$insert\033[1A\033[${COLUMN}C" && now2=1  && continue
 [[  "$is" -ge  1   ]] && [[  "1" -eq "$((frontier%COLUMN))" ]] && printf "$Back\033[1C$insert\033[1C" && continue
 
 
@@ -1910,6 +1916,7 @@ fi
 continue
 
 elif [[  "$ascanf"  ==  "$D"  ]];then
+now2=
 ascanf=
 bots="$bot"
 printf "\r${spaces}${spaces}\r"
@@ -1920,7 +1927,8 @@ printf "\033[1m$question\033[0m"——————:
 continue
 
 elif [[  $ascanf == "$LF"  ]] || [[  $ascanf == "$CR"  ]] || [[  $ascanf == ""  ]] && [[  $tf == "0"  ]] ;then
-#if [[  $((it%COLUMN)) -eq 0   ]] ; then                 
+#if [[  $((it%COLUMN)) -eq 0   ]] ; then 
+now2=                
 printf "\033[6n";read -s -d\[ garbage;read -s -d R foo
 fooo=$(printf "$foo" | awk -F';' '{printf $2}')         
 #printf $fooo && sleep 5                                 
