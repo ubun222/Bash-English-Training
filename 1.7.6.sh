@@ -956,6 +956,37 @@ fi
 done
 }
 
+
+pprep()
+{
+pp="$pureanswer"
+if [[  "$ish" == "y"  ]];then
+la3=0
+#iq1=${#answer1}
+#iq2=${#answer2}
+#pureanswe=${pureanswe:$((la+1))}
+iq=$((la+la2+1))
+qi2=$((COLUMN-la-1))
+#echo $iq
+if [[  "$iq" -gt "$COLUMN"  ]];then
+for t in $(seq ${#answer2});do
+tt=t
+t1=$((tt-1))
+if [[  "${answer2:t1:1}" == '.'  ]] ;then
+la3=$((la3+1))
+else
+la3=$((la3+2))
+[[  "$la3" -eq  "$((qi2+1))"  ]] && pp=~"$pureanswer"  && break
+fi
+done
+
+
+fi
+fi
+#replace1 p
+[[  $pp != ""  ]] && printf "\r$pp"
+}
+
 tprep()
 {
   p="$1"
@@ -1087,6 +1118,8 @@ else
 continue
 fi 
 done
+
+pureanswerd="$(echo $pureanswer | tr '/' ' ')"
 #printf ${spaces}
 #fi
 #printf ${spaces# }
@@ -1094,17 +1127,18 @@ bool=${bool:-0}
 #printf "\r"
 #printf "\033[1A"
 #printf  "$spaces$enter"
+
 [[  "$ish" == "y"    ]] && sleep 0.001
 printf "\r\033[K\r"
 #sleep 0.005
-if [[ $bool = 'y' ]] || [[ $bool = 'Y' ]]  ; then
+if [[  $bool == 'y'  ]] || [[  $bool == 'Y'  ]]  ; then
 #printf "\033[$((COLUMN-7))C释义\n"
-
-[[  "$hide" -eq "0"  ]] &&  printf "\r$(echo $pureanswer | tr '/' ' ')\n"
+#[[  "$hide" -eq "1"  ]] &&
+[[  "$hide" -eq "0"  ]] &&  pprep "$pureanswerd" && echo
 yes
 elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]; then
 #printf "\033[$((COLUMN-7))C例句\n"
-[[  "$hide" -eq "0"  ]] && printf "\r$(echo $pureanswer | tr '/' ' ')\n"
+[[  "$hide" -eq "0"  ]] && pprep "$pureanswerd" && echo
 verbose
 elif [[ $bool = 's' ]] || [[ $bool = 'S' ]]  ; then
 RC=0
@@ -1112,7 +1146,8 @@ RC=0
 printf "\033[1A"
 printf   "\033[${COL}C%s\n\r"  "${eline}"
 #sleep 0.005
-printf "%s\n\033[0m" "$(echo $pureanswer | tr '/' ' ')"
+pprep "$pureanswerd"
+printf "\033[0m\n"
 [[  "$ish" == "y"    ]] && sleep 0.003
 #printf "\n"
 #printf "\033[0m"
@@ -1341,16 +1376,16 @@ done
 
 
 fi
-[[  "$ish" == "y"    ]] && sleep 0.003
-printf "\r$(echo $pureanswer | tr '/' ' ')\n"
+#[[  "$ish" == "y"    ]] && sleep 0.003
+pprep "$pureanswerd"
 [[  "$ish" == "y"    ]] && sleep 0.003
 else
 #sleep 0.005
 if [[  "$hide" -eq "0"  ]] ;then
+#[[  "$ish" == "y"    ]] && sleep 0.003
+pprep "$pureanswerd"
 [[  "$ish" == "y"    ]] && sleep 0.003
-printf "\r$(echo $pureanswer | tr '/' ' ')" 
-[[  "$ish" == "y"    ]] && sleep 0.003
-printf "\n\r"
+printf "\n"
 fi
 fi
 
@@ -1922,8 +1957,10 @@ bots="$bot"
 printf "\r${spaces}${spaces}\r"
 FIND
 scanf=
-printf "\033[1m$question\033[0m"——————:"$bots"\\r
-printf "\033[1m$question\033[0m"——————:
+
+printf "$question"——————:"\033[0m$bots"\\r
+[[  $COLUMN -lt $length  ]] && printf "\033[1A"
+printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
 continue
 
 elif [[  $ascanf == "$LF"  ]] || [[  $ascanf == "$CR"  ]] || [[  $ascanf == ""  ]] && [[  $tf == "0"  ]] ;then
@@ -2282,7 +2319,7 @@ fi
 fi
 }
 
-#syes(){
+#ses(){
 
 #}
 
@@ -2423,7 +2460,7 @@ targets=${targets:-/dev/null}
     printf "\033[0m"
 #echo $linenum
 #[[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -a  -B 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
-
+#echo
 lineraw1="$(printf "%s"  "$content" | grep  "${answer1}" | grep -v  "[	\\]" )"
 #lineraw="$(echo "$lineraw1" | grep  -v '|' | sed "s/$answer1/\\\033[1m\\\033[33m$answer1\\\033[0m/g" )"
 lineraw="$(printf "%s" "$lineraw1" | grep  -v '|')"
@@ -2963,13 +3000,13 @@ if [[  $passd -eq 1  ]] ;then
 m="$(echo "$rangem" | sed -n "$m,${m}p")"
 fi
 question=$(echo "$longtxt" | sed -n "$m,${m}p" | tr '/' ' ')
-[[  "$ish" == "y"    ]] && sleep 0.003
+#[[  "$ish" == "y"    ]] && sleep 0.003
  echo  "${strs}"
 #echo -n "$question"         #printf 命令需要套一个双引号才能输出空格
 No=$(($((m/2))+$((m%2))))
-pureanswer=$(echo "$txt"| sed -n "$No,${No}p" )
-answer1="$(printf "$pureanswer" | awk '{printf $1}' | tr '/' ' ')"
-answer2="$(printf "$pureanswer" | awk '{printf $2}' | tr '/' ' ')"
+pureanswe=$(printf "$txt"| sed -n "$No,${No}p" )
+answer1="$(printf "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
+answer2="$(printf "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
 
 la=${#answer1}
 la2=$((${#answer2}*2))
@@ -3069,13 +3106,13 @@ if [[  $passd -eq 1  ]] ;then
         m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
 fi
 question=$(echo "$txt"| sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}' | tr '/' ' ')
-[[  "$ish" == "y"    ]] && sleep 0.003
+#[[  "$ish" == "y"    ]] && sleep 0.003
 echo  "${strs}"
 
-pureanswer=$(echo "$txt" | sed -n "$m2,${m2}p")
+pureanswe=$(printf "$txt" | sed -n "$m2,${m2}p")
 
-answer1="$(printf "$pureanswer" | awk '{printf $1}' | tr '/' ' ')"
-answer2="$(printf "$pureanswer" | awk '{printf $2}' | tr '/' ' ')"
+answer1="$(printf "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
+answer2="$(printf "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
 
 la=${#answer1}
 la2=$((${#answer2}*2))
@@ -3094,7 +3131,7 @@ for t in `seq $iq`;do
 bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
-printf "\033[1m$question\033[0m\033[2m"——————:"$bot"\\r
+printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[1A"
 printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
 Readen
@@ -3148,13 +3185,13 @@ fi
 
 
 question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
-[[  "$ish" == "y"    ]] &&  sleep 0.003
+#[[  "$ish" == "y"    ]] &&  sleep 0.003
 echo  "${strs}"
 
-pureanswer=$(echo "$txt" | sed -n "$m2,${m2}p" )
+pureanswe=$(printf "$txt" | sed -n "$m2,${m2}p" )
 
-answer1="$(printf "$pureanswer" | awk '{printf $1}' | tr '/' ' ')"
-answer2="$(printf "$pureanswer" | awk '{printf $2}' | tr '/' ' ')"
+answer1="$(printf "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
+answer2="$(printf "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
 
 la=${#question}
 la2=$((${#answer2}*2))
@@ -3284,15 +3321,15 @@ m="$(echo "$rangem" | sed -n "$m,${m}p")"
 fi
 eval question=\${lr$m}
 # question=$(echo ${l})
-[[  "$ish" == "y"    ]] && sleep 0.003
+#[[  "$ish" == "y"    ]] && sleep 0.003
 echo  "${strs}"
 question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
 
-[[  "$((m%2))" -eq 0  ]] && eval  pureanswer="\${lr$((m-1))}'	'\${lr$m}"
-[[  "$((m%2))" -eq 1  ]] && eval pureanswer="\${lr$m}'	'\${lr$((m+1))}"
+[[  "$((m%2))" -eq 0  ]] && eval  pureanswe="\${lr$((m-1))}'	'\${lr$m}"
+[[  "$((m%2))" -eq 1  ]] && eval pureanswe="\${lr$m}'	'\${lr$((m+1))}"
 
-answer1=`echo "$pureanswer" | awk -F'	' '{printf $1}' | tr '/' ' '  `
-answer2=`echo "$pureanswer" | awk -F'	' '{printf $2}' | tr '/' ' ' `
+answer1=`echo "$pureanswe" | awk -F'	' '{printf $1}' | tr '/' ' '  `
+answer2=`echo "$pureanswe" | awk -F'	' '{printf $2}' | tr '/' ' ' `
 
 
 la=${#answer1}
@@ -3392,13 +3429,14 @@ fi
 
 eval question=\${lr$m2}
 # question=$(echo ${l})
-[[  "$ish" == "y"    ]] &&  sleep 0.003
+#[[  "$ish" == "y"    ]] &&  sleep 0.003
 echo  "${strs}"
 question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
 
-eval  pureanswer="\${lr$((m2-1))}'	'\${lr$m2}"
+eval  pureanswe="\${lr$((m2-1))}'	'\${lr$m2}"
 
-answer1=`echo "$pureanswer" | awk -F'	' '{printf $1}' | tr '/' ' '`
+answer1=`echo "$pureanswe" | awk -F'	' '{printf $1}' | tr '/' ' '`
+answer2=`echo "$pureanswe" | awk -F'	' '{printf $2}' | tr '/' ' ' `
 
 la=${#answer1}
 la2=$((${#answer2}*2))
@@ -3491,14 +3529,14 @@ fi
 
 eval question=\${lr$m2}
 # question=$(echo ${l})
-[[  "$ish" == "y"    ]] && sleep 0.003
+#[[  "$ish" == "y"    ]] && sleep 0.003
 echo  "${strs}"
 question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
 
-eval pureanswer="\${lr$m2}'	'\${lr$((m2+1))}"
+eval pureanswe="\${lr$m2}'	'\${lr$((m2+1))}"
 
-answer1=`echo "$pureanswer" | awk -F'	' '{printf $1}' | tr '/' ' ' `
-answer2=`echo "$pureanswer" | awk -F'	' '{printf $2}' | tr '/' ' ' `
+answer1=`echo "$pureanswe" | awk -F'	' '{printf $1}' | tr '/' ' ' `
+answer2=`echo "$pureanswe" | awk -F'	' '{printf $2}' | tr '/' ' ' `
 pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
 la=${#question}
 la2=$((${#answer2}*2))
