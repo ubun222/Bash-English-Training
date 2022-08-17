@@ -1673,7 +1673,7 @@ which=zh
 isright=0
     stty -echo
 needpt=
-bscanf=
+[[   $getin -ne 0  ]] && bscanf=
 waiting=0
 nb=0
 bool=
@@ -2173,7 +2173,7 @@ if [[  "$line" == "$thelast"  ]] ;then
 [[  "$scanfd" == "$answerd"  ]] && isright=1  && return 0 
 #sleep 0.02 && read -s -t0   && read -s -t1
 #stty echo
-printf '，'  && scanf="$scanf"， && break
+bscanf=， && bd=0 && getin=0 && continue
 else
 continue
 fi
