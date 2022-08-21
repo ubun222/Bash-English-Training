@@ -661,8 +661,8 @@ echo
 #read -p 按下回车以继续$enter
 #read
 printf "\033[0m"
-printf "github.com/ubun222/Learning-English\r\n"
-printf "gitee.com/cb222/Learning-English.git\r\n"
+printf "             Good Luck"
+
 echo
 printf "\033[?25l"
 echo $strs
@@ -1069,28 +1069,15 @@ RC=1
 fi
 #printf  "\033[0m\033[2A"
 [[  "$ish" == "y"    ]] &&  sleep 0.003
-if [[  "$auto" -eq "1"  ]] && [[  "$isright" -eq "1"  ]];then
-while true;do
-IFS=$newline
-read -s -n1  pbool
-ptf=$?
-IFS=$IFSbak
-[[  "$ish" == "y"    ]] &&  sleep 0.003
-if [[  $pbool == "$LF"  ]] || [[  $pbool == "$CR"  ]] || [[  $pbool == ""  ]] && [[  $ptf == "0"  ]] ;then
-break
-else
-continue
-fi 
-done
-fi
+
 #sleep 0.008
 printf "\n\r"
 #sleep 0.005
 #sleep 0.003
 [[  "$ish" == "y"    ]] &&  sleep 0.003
 #[[  "$auto" -eq "1"  ]] && sleep 0.1
-[[  "$Json" -ne 1  ]]  && printf "\033[2m%s\033[0m" "y释义/v例句/s跳过:"
-[[  "$Json" -eq 1  ]]  && printf "\033[2m%s\033[0m" "y释义/v例句/s跳过/j详细模式:"
+#[[  "$Json" -ne 1  ]]  && printf "\033[2m%s\033[0m" "y释义/v例句/s跳过:"
+#[[  "$Json" -eq 1  ]]  && printf "\033[2m%s\033[0m" "y释义/v例句/s跳过/j详细模式:"
 
 #if [[  "$auto" -eq "1"  ]];then
 while true;do
@@ -3699,8 +3686,8 @@ helptxt="-p 通关模式(全做对后退出)
 -a 答题辅助(自动判断输入)
 -v 验证词表格式(避免多余的空格)
 -i 优化ish(主要修复IOS的ish中存在中文断行等问题)
--j 加载有详细释义的.Json文件(源自Oxford Dictionary API*)
-*json文件经排版
+-j 加载有详细释义的.Json文件(Oxford Dictionary API*)
+(*当红黄绿指示亮起时，按y获取详细释义，v获取详细例句，s跳过，j加载json文件)
 "
 
 
