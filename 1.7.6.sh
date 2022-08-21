@@ -1071,7 +1071,7 @@ fi
 [[  "$ish" == "y"    ]] &&  sleep 0.003
 
 #sleep 0.008
-printf "\n\r"
+#printf "\n\r"
 #sleep 0.005
 #sleep 0.003
 [[  "$ish" == "y"    ]] &&  sleep 0.003
@@ -1085,6 +1085,7 @@ IFS=$newline
 read -s -n1  abool
 ttf=$?
 IFS=$IFSbak
+printf "\n\r"
 [[  "$ish" == "y"    ]] &&  sleep 0.003
 if [[  "$abool"  ==  "y"  ]]  || [[  "$abool"  ==  "Y"  ]] ;then
 printf "$enter\033[K" && bool="y"
