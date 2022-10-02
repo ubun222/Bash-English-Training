@@ -1085,22 +1085,27 @@ IFS=$newline
 read -s -n1  abool
 ttf=$?
 IFS=$IFSbak
-printf "\n\r"
+#printf "\n\r"
 [[  "$ish" == "y"    ]] &&  sleep 0.003
 if [[  "$abool"  ==  "y"  ]]  || [[  "$abool"  ==  "Y"  ]] ;then
+printf "\n\r"
 printf "$enter\033[K" && bool="y"
 break
 elif [[  "$abool"  ==  "v"  ]] || [[  "$abool"  ==  "V"  ]];then
+printf "\n\r"
 printf "$enter\033[K" && bool="v"
 break
 elif [[  "$abool"  ==  "s"  ]] ||  [[  "$abool"  ==  "S"  ]];then
+printf "\n\r"
 printf "$enter\033[K" && bool="s"
 break
 elif [[  "$abool"  ==  "j"  ]] || [[  "$abool"  ==  "J"  ]];then
+printf "\n\r"
 printf "$enter\033[K" && bool="j"
 break
 elif [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]] || [[  $abool == ""  ]] && [[  $ttf == "0"  ]] ;then
 #printf ${spaces}${spaces# }
+printf "\n\r"
 break
 else
 continue
@@ -1366,14 +1371,16 @@ done
 fi
 #[[  "$ish" == "y"    ]] && sleep 0.003
 pprep "$pureanswerd"
+echo
 [[  "$ish" == "y"    ]] && sleep 0.003
 else
 #sleep 0.005
 if [[  "$hide" -eq "0"  ]] ;then
 #[[  "$ish" == "y"    ]] && sleep 0.003
 pprep "$pureanswerd"
+echo
 [[  "$ish" == "y"    ]] && sleep 0.003
-printf "\n"
+#printf "\n"
 fi
 fi
 
@@ -1482,7 +1489,7 @@ bd=1
 wait1=
 now=
 IFS=$ENTER
-read -s -t0.01  -n1 bscanf  
+read -s -t0.01  -n1 bscanf  2>/dev/null
 bd=$?
 if [[  "$bd" -ne 0   ]] ;then
 [[  "$waiting" == "1"  ]] && waiting=0  && bscanf=  && waiting=0
@@ -1931,7 +1938,7 @@ elif [[  "$is" -ge  1   ]] && [[  "$is" -gt "$iq" ]] ;then
 insert=" "
 fi
 
-[[  "$is" -ge  1   ]] && [[  "2" -eq "$((frontier%COLUMN))" ]] && [[  "$is" -ge 1   ]]  && printf "$Back$insert\033[1A\033[${COLUMN}C" && now2=1  && continue
+[[  "$is" -ge  1   ]] && [[  "2" -eq "$((frontier%COLUMN))" ]] && [[  "$is" -ge 2   ]]  && printf "$Back$insert\033[1A\033[${COLUMN}C" && now2=1  && continue
 [[  "$is" -ge  1   ]] && [[  "1" -eq "$((frontier%COLUMN))" ]] && printf "$Back\033[1C$insert\033[1C" && continue
 
 
@@ -3685,7 +3692,7 @@ done
 helptxt="-p 通关模式(全做对后退出)
 -r 错题集模式(在txt/CORRECT文件夹自动生成错题集)
 -a 答题辅助(自动判断输入)
--v 验证词表格式(避免多余的空格)
+-s 验证词表格式(避免多余的空格)
 -i 优化ish(主要修复IOS的ish中存在中文断行等问题)
 -j 加载有详细释义的.Json文件(Oxford Dictionary API*)
 (*当红黄绿指示亮起时，按y获取详细释义，v获取详细例句，s跳过，j加载json文件)
