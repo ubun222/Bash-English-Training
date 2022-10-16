@@ -594,7 +594,7 @@ stdin()
 
 LINE=$(stty size|awk '{print $1}')
 COLUMN=$(stty size|awk '{print $2}')
-[[  "$COLUMN" -le 34  ]] && COLUMN=34
+[[  "$COLUMN" -le 30  ]] && COLUMN=30
 
 [[  "$((COLUMN%2))"  -eq 1 ]] && aspace=' '
 spaces=''
@@ -1489,7 +1489,7 @@ bd=1
 wait1=
 now=
 IFS=$ENTER
-read -s -t0.01  -n1 bscanf  2>/dev/null
+read -s -t0.1  -n1 bscanf  2>/dev/null
 bd=$?
 if [[  "$bd" -ne 0   ]] ;then
 [[  "$waiting" == "1"  ]] && waiting=0  && bscanf=  && waiting=0
@@ -3039,7 +3039,7 @@ bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
 printf "$question"——————:"\033[0m$bot"\\r
-[[  $COLUMN -lt $length  ]] && printf "\033[1A"
+[[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
 printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
 Readen
 
@@ -3127,7 +3127,7 @@ bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
 printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m$bot"\\r
-[[  $COLUMN -lt $length  ]] && printf "\033[1A"
+[[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
 printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
 Readen
 
@@ -3258,7 +3258,6 @@ elif [[  "${premode:-1}" -eq 3  ]];then
 FUN_
 return 0
 fi
-stty -echo
 printf "I,英译中${spaces#              }II,中译英${spaces#              }III,混合"
 read -n 1 mode
 echo
@@ -3266,6 +3265,7 @@ printf "I,顺序${spaces#            }II,倒序${spaces#            }III,乱序"
 read -n 1 random
 echo 
 [[  "$passd" -ne 1   ]] && printf "需要多少题目:"  && read ii
+stty -echo
 [[  "$passd" -eq 1   ]] && ii=999 && gcounts=0
 
 printf "\033[0m"
@@ -3353,9 +3353,9 @@ for t in `seq $iq`;do
 bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
-printf "\033[1m$question\033[0m\033[2m"——————:"$bot"\\r
+printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m$bot"\\r
 #printf "\r"
-[[  $COLUMN -ge $length  ]] && printf "\033[1A"
+[[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
 printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
 Readen
 
@@ -3451,9 +3451,9 @@ for t in `seq $iq`;do
 bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
-printf "\033[1m$question\033[0m\033[2m"——————:"$bot"\\r
+printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m$bot"\\r
 #printf "\r"
-[[  $COLUMN -ge $length  ]] && printf "\033[1A"
+[[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
 printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
 Readen
 
