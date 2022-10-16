@@ -650,18 +650,13 @@ prt()
         echo
     done
 }
-#printf "$(whoami), 背会儿单词吗?\r\n"
-
 clear
 [[  $COLUMN -ge 38  ]] && prt "\033[1m$hello\n$hi\n$hey"
 sleep 0.1
 echo
-#printf %s "$strs"
-#printf ""
-#read -p 按下回车以继续$enter
-#read
 printf "\033[0m"
-printf "             Good Luck"
+
+printf "$(date)"
 
 echo
 printf "\033[?25l"
