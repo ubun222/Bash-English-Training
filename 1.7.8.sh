@@ -1681,7 +1681,7 @@ LENGTH=0
 Lb=0
 #mulLb=0
 zscanf=
-#printf $enter"$question"——————:
+#printf $enter"$question"\\033[3m\ \<───\>\ 
 while true;do
 
 #ascanf="!!"
@@ -1698,7 +1698,7 @@ fi
 #stty echo
 vback=
 #IFS=$IFSbak
-#printf "$question"——————:"$scanf"$enter
+#printf "$question"\\033[3m\ \<───\>\ "$scanf"$enter
 if [[  "$tf" -eq "22"   ]] ;then
 #sleep 0.1 &&  read -s -t0   && read -s -t1
 printf "\r" && break
@@ -1777,7 +1777,7 @@ ascanf=
 printf "\r${spaces}${spaces}\r"
 FIND
 scanf=
-printf "\033[1m$question\033[0m"——————:
+printf "\033[1m$question\033[0m"\\033[3m\ \<───\>\ 
 continue
 
 elif [[  "$ascanf" == "$LF"  ]] || [[  "$ascanf" == "$CR"  ]] || [[  "$ascanf" == ""  ]] && [[  $tf == "0"  ]] ;then
@@ -1862,7 +1862,7 @@ bool=
 ascanf=
 scanf=
 
-#printf $enter"$question"——————:
+#printf $enter"$question"\\033[3m\ \<───\>\ 
 N=0
 GOBACK=$(printf "\033[1A")
 #echo
@@ -1911,7 +1911,7 @@ elif [[  "$ascanf" == "$B"  ]]  ;then
 ascanf=
 is=${#scanf}
 scanf=${scanf%[a-zA-Z' '-]}
-#printf "$enter$spaces${spaces% }\r"$question"——————:$bot\r"$question"——————:$scanf"
+#printf "$enter$spaces${spaces% }\r"$question"\\033[3m\ \<───\>\ $bot\r"$question"\\033[3m\ \<───\>\ $scanf"
 backscanf=
 blocks=
 now2=
@@ -1948,9 +1948,9 @@ printf "\r${spaces}${spaces}\r"
 FIND
 scanf=
 
-printf "$question"——————:"\033[0m$bots"\\r
+printf "$question"\\033[3m\ \<───\>\ "\033[0m$bots"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[1A"
-printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
+printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 continue
 
 elif [[  $ascanf == "$LF"  ]] || [[  $ascanf == "$CR"  ]] || [[  $ascanf == ""  ]] && [[  $tf == "0"  ]] ;then
@@ -2085,7 +2085,7 @@ fi
 elif [[  $fascanf == "$LF"  ]] || [[  $fascanf == "$CR"  ]] || [[  $fascanf == ""  ]] && [[  $ftf == "0"  ]] ;then
 echo
 break
-#printf "$enter$spaces${spaces% }\r"$question"——————:$bot\r"$question"——————:$scanf"
+#printf "$enter$spaces${spaces% }\r"$question"\\033[3m\ \<───\>\ $bot\r"$question"\\033[3m\ \<───\>\ $scanf"
 elif [[  "$fascanf" !=  [$B\'a-zA-Z'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]]  ;then
 #N="$((N+1))"
 #fscanf="$(printf "$fscanf${fascanf}")"
@@ -3012,9 +3012,9 @@ if [[ "$question" = "$answer1" ]] ;then
 answer=$answer2
 pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
 #if [[  "$COLUMN" -ge "$length"  ]];then
-#read -e -p  "$question"——————:  scanf
+#read -e -p  "$question"\\033[3m\ \<───\>\   scanf
 stty echo
-printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
+printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 stty -echo
 Readzh
 
@@ -3033,17 +3033,17 @@ for t in `seq $iq`;do
 bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
-printf "$question"——————:"\033[0m$bot"\\r
+printf "$question"\\033[3m\ \<───\>\ "\033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
+printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 Readen
 
 
 #else 
 #answer=$answer1
-#printf "$question——————:$enter"
+#printf "$question\\033[3m\ \<───\>\ $enter"
 #printf "\033[1m$question\033[0m"======:
-#printf "$question"——————:"$bot"\\r"\033[1A\033[1m$question\033[0m"——————:
+#printf "$question"\\033[3m\ \<───\>\ "$bot"\\r"\033[1A\033[1m$question\033[0m"\\033[3m\ \<───\>\ 
 #Readen
 #echo
 #fi
@@ -3121,9 +3121,9 @@ for t in `seq $iq`;do
 bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
-printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m$bot"\\r
+printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
+printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 Readen
 
 
@@ -3193,7 +3193,7 @@ done
 length=$((la+la2+7))
 pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
 stty echo
-printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
+printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 stty -echo
 Readzh
 
@@ -3334,7 +3334,7 @@ if [[ "$question" = "$answer1" ]] ;then
 answer="$answer2"
 pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
 stty echo
-printf "\033[1m$question\033[2m"——————:"\033[0m"
+printf "\033[1m$question\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 stty -echo
 Readzh
 else
@@ -3348,20 +3348,20 @@ for t in `seq $iq`;do
 bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
-printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m$bot"\\r
+printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m$bot"\\r
 #printf "\r"
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
+printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 Readen
 
 
 #else 
-#printf "$question——————:\n"
+#printf "$question\\033[3m\ \<───\>\ \n"
 #read -e scanf 
 #printf "\033[1m$question\033[0m"======:
 #read -e  -p $CB scanf
-#printf "$question"——————:"$bot"\\r
-#printf "\033[1m$question\033[0m"——————:
+#printf "$question"\\033[3m\ \<───\>\ "$bot"\\r
+#printf "\033[1m$question\033[0m"\\033[3m\ \<───\>\ 
 #Readen
 #fi
 fi
@@ -3446,19 +3446,19 @@ for t in `seq $iq`;do
 bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
-printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m$bot"\\r
+printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m$bot"\\r
 #printf "\r"
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
+printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 Readen
 
 #else 
-#printf "$question"——————:
+#printf "$question"\\033[3m\ \<───\>\ 
 #read -e scanf 
 #printf "\033[1m$question\033[0m"======:
 #read -e -p $CB scanf
-#printf "$question"——————:"$bot"\\r
-#printf "\033[1m$question\033[0m"——————:
+#printf "$question"\\033[3m\ \<───\>\ "$bot"\\r
+#printf "\033[1m$question\033[0m"\\033[3m\ \<───\>\ 
 #Readen
 #fi
 
@@ -3538,7 +3538,7 @@ done
 length=$((la+la2+7))
 m2=$(($((m2+1))/2))
 stty echo
-printf "\033[1m$question\033[0m\033[2m"——————:"\033[0m"
+printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 stty -echo
 Readzh
 
