@@ -1515,7 +1515,7 @@ fi
 IFS=$IFSbak
 }
 
-
+printf "\033[6n" && read -t.1 -s -d \[ bb && read -t.1 -s  -d \R 
 
 _read()
 {
@@ -1531,12 +1531,14 @@ while true;do
 #[[  "$ascanf" == ""   ]] && [[  "$vback" -ne "1"  ]]  && break
 printf "\033[6n"
 
-if [[  $bd -ne 1   ]] && [[  "$passs" -ne 1  ]];then
+if [[  $bd -ne 1   ]]  && [[  $waiting -eq 0   ]];then
 read -t.1 -s -d \[ bscanf
 bd=1
 ib=${#bscanf}
-[[  "$ib" -le "1"   ]] && bscanf=""
-[[  "$waiting" == "1"   ]] && bscanf="$needpt"
+waiting=1
+[[  "$ib" -le "1"   ]] && bscanf=""  && waiting=0
+bscanf="${bscanf%%"$bb"}" 
+#[[  "$waiting" -eq "1"   ]] && bscanf="$needpt"
 
 else
 read -t.1 -s -d \[ 
@@ -1546,7 +1548,7 @@ fi
 #[[  "$ib" -le "1"   ]] && bscanf=""
 #[[  "$waiting" == "1"   ]] && bscanf="$needpt"
 read -t.1 -s -d \R pos1
-[[  "$?" -ne 0  ]] && passs=1 &&  continue 
+#[[  "$?" -ne 0  ]] && passs=1 &&  continue 
 break
 done
 passs=
@@ -1558,7 +1560,7 @@ stty -echo
 fi
 
 while true;do
-printf "\033[6n" && read -t.1 -s -d \[ bb && read -t.1 -s  -d \R pos2
+printf "\033[6n" && read -t.1 -s -d \[  && read -t.1 -s  -d \R pos2
 [[  "$?" -ne 0  ]] && continue 
 break
 done
@@ -1601,7 +1603,7 @@ fi
 #if [[  ${vback} -eq "1"   ]] ; then
 #sleep 0.3
 #echo
-if [[  ${vback} -eq "1"   ]] &&  [[   "$which" == "zh"  ]] && [[  "$vback" == "1"  ]] ;then
+if [[  ${vback} -eq "1"   ]] &&  [[   "$which" == "zh"  ]] ;then
 #echo 22222
 #echo $wherec
 [[  "$needo" -ne 1  ]] && reg=$((COLUMN))
@@ -1640,13 +1642,13 @@ IFS=$IFSbak
 elif [[  "$bscanf"  != ""   ]];then 
 #stty -echo
 #[[  "$((nb))"  == "$ib"   ]] && waiting=0
-needpt="${bscanf%%"$bb"}"
-ib=${#needpt}
+#needpt="${bscanf%%"$bb"}"
+ib=${#bscanf}
 #printf "!$needpt"
-ascanf="${needpt:$nb:1}"
+ascanf="${bscanf:$nb:1}"
 #echo $nb
 nb=$((nb+1))
-waiting=1
+#waiting=1
 
 #[[  "$((nb))"  == "$ib"   ]] && waiting=0 && IFS=$ENTER &&  read -s -n1 ascanf && IFS=$IFSbak
 fi
