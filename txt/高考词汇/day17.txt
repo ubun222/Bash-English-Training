@@ -22,7 +22,7 @@ divide					分，分配，分开，除
 line					线，轮廓，排，行，方式
 in line					一致的
 on the line					面临危险
-bag					代，占有
+bag					袋，占有
 bags					行李
 bagging					占有
 bags of					大量

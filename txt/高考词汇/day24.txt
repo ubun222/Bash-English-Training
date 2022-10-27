@@ -25,7 +25,7 @@ bridegroom				新郎
 favourite				最喜欢的
 delicious				美味的，宜人的
 stage				舞台，阶段，组织
-academic				学业的
+academic				
 rainbow				彩虹，五彩缤纷
 interview				面试，采访
 income				收入

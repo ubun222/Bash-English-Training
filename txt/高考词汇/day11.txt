@@ -19,7 +19,7 @@ the meal proper					正餐
 greeting					招呼
 greetings					祝词
 discount					折扣，贴现，不予考虑
-delay					推迟，延误
+delay					推迟，延误，拖延
 wheel					车轮，方向盘，推动，盘旋
 gear wheel					齿轮
 time					时间，一段时间，时刻，次

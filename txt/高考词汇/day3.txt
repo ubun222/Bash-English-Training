@@ -2,7 +2,7 @@ hostess					女主人，女侍，女主持人
 speaker					演讲者，议长，扬声器
 successful					成功的，受好评的，通过的，一帆风顺的
 chance					机会，可能性，运气，冒险，偶然的
-by chance 					偶然
+by chance					偶然
 take a chance					冒险
 lid					盖子，眼皮
 keep a lid on					控制住某事物
@@ -24,7 +24,7 @@ even					竟然，即使，甚至，恰好，平的，整齐的
 break even					收支平衡
 with a even hand					不偏不倚的
 an even number					偶数，整数
-even through					尽管
+even though					尽管
 even so					虽然如此
 even then					尽管如此
 luggage					行李

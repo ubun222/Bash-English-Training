@@ -2,7 +2,7 @@ particular					特别的，挑剔的，细节
 bid					出价，争取，表达，命令
 battery					电池，一系列
 tape					带子，胶带，终点线，磁带
-tape up					用袋子捆紧
+tape up					用带子捆紧
 later					后来的
 envelope					信封，膜，包袋
 push the envelope					发挥到极致

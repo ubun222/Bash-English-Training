@@ -27,7 +27,7 @@ panic					恐慌，匆忙
 Europe					欧洲，欧盟
 disappear					消失
 downtown					市中心
-ask					问，要求，
+ask					问，要求
 amuse					逗...笑，给...提供消遣
 criterion					标准
 meet a criterion					符合标准
