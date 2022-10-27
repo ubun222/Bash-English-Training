@@ -2166,7 +2166,8 @@ continue
 
 
 elif [[  $ascanf  ==  [' ',]  ]];then
-
+[[  $now2 -eq 1  ]] && [[  $needo -eq 1  ]] && printf "\n" 
+[[  $now2 -eq 1  ]] && [[  $needo -ne 1  ]] && printf "\n"
 #let scanf$i=ascanf
 scanf="$scanf"，
 #L="${#scanf}"
@@ -2182,6 +2183,8 @@ ascanf="，"
 
 continue
 elif [[  $ascanf  ==  [.]  ]];then
+[[  $now2 -eq 1  ]] && [[  $needo -ne 1  ]] && printf "\n"
+[[  $now2 -eq 1  ]] && [[  $needo -eq 1  ]] && printf "\033[4C"  && needo=
 scanf="$(printf "$scanf.")"
 #L="${#scanf}"
 ascanf="."
