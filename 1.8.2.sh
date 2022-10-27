@@ -1046,7 +1046,7 @@ stty -echo
 Dtop=0
 Dend=0
 RC=0
-[[  "$ish" == "y"    ]] &&  sleep 0.003
+[[  "$ish" == "y"    ]] &&  sleep 0.002
 hide=0
 if [[  "$isright" -eq "1"  ]] || ifright ;then
 #sleep 0.005
@@ -1063,13 +1063,13 @@ printf   "\033[${COL}C%s\r"  ${fline}
 RC=1
 fi
 #printf  "\033[0m\033[2A"
-[[  "$ish" == "y"    ]] &&  sleep 0.003
+[[  "$ish" == "y"    ]] &&  sleep 0.002
 
 #sleep 0.008
 #printf "\n\r"
 #sleep 0.005
 #sleep 0.003
-[[  "$ish" == "y"    ]] &&  sleep 0.003
+[[  "$ish" == "y"    ]] &&  sleep 0.002
 #[[  "$auto" -eq "1"  ]] && sleep 0.1
 #[[  "$Json" -ne 1  ]]  && printf "\033[2m%s\033[0m" "y释义/v例句/s跳过:"
 #[[  "$Json" -eq 1  ]]  && printf "\033[2m%s\033[0m" "y释义/v例句/s跳过/j详细模式:"
@@ -1081,14 +1081,14 @@ read -s -n1  abool
 ttf=$?
 IFS=$IFSbak
 #printf "\n\r"
-[[  "$ish" == "y"    ]] &&  sleep 0.003
+[[  "$ish" == "y"    ]] &&  sleep 0.002
 if [[  "$abool"  ==  "y"  ]]  || [[  "$abool"  ==  "Y"  ]] ;then
 printf "\n\r"
-printf "$enter\033[K" && bool="y"
+printf "$enter\033[K" && bool="$abool"
 break
 elif [[  "$abool"  ==  "v"  ]] || [[  "$abool"  ==  "V"  ]];then
 printf "\n\r"
-printf "$enter\033[K" && bool="v"
+printf "$enter\033[K" && bool="$abool"
 break
 elif [[  "$abool"  ==  "s"  ]] ||  [[  "$abool"  ==  "S"  ]];then
 printf "\n\r"
@@ -1122,10 +1122,22 @@ printf "\r\033[K\r"
 if [[  $bool == 'y'  ]] || [[  $bool == 'Y'  ]]  ; then
 #printf "\033[$((COLUMN-7))C释义\n"
 #[[  "$hide" -eq "1"  ]] &&
+if [[  "$bool"  ==  "Y"  ]] ;then
+RC=0
+#sleep 0.005
+printf "\033[1A"
+printf   "\033[${COL}C%s\n\r"  "${eline}"
+fi
 [[  "$hide" -eq "0"  ]] &&  pprep "$pureanswerd" && echo
 yes
 elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]; then
 #printf "\033[$((COLUMN-7))C例句\n"
+if [[  "$bool"  ==  "V"  ]] ;then
+RC=0
+#sleep 0.005
+printf "\033[1A"
+printf   "\033[${COL}C%s\n\r"  "${eline}"
+fi
 [[  "$hide" -eq "0"  ]] && pprep "$pureanswerd" && echo
 verbose
 elif [[ $bool = 's' ]] || [[ $bool = 'S' ]]  ; then
@@ -1474,7 +1486,9 @@ EOF
 
 ccc
 
-read_()
+
+
+r_ead() #termux
 {
 #[[  $which == zh  ]] && stty echo
 #wait1=
@@ -1492,13 +1506,93 @@ if [[  "$bd" -ne 0   ]] ;then
 elif [[  "$bd" -eq 0   ]]; then  
 waiting=1
 wait=
+
+fi
+if [[   $waiting -eq 0  ]] ;then
+if [[  "$vback" -eq 1   ]] ;then
+#printf "1234"
+printf "\033[6n"
+read -s -d \[ 
+read -t 0.1 -s -d \R pos2
+whereb="${pos2/#*;/""}"
+#printf "$whereb"
+##printf "$((${#scanf}*2+$la+7))$((${#scanf}*2+$la+7))$((${#scanf}*2+$la+7))$((${#scanf}*2+$la+7))"
+if [[  $whereb -eq $((COLUMN))  ]] ;then
+#printf "1234"
+sii=0;
+dian=0;
+while [[  $sii -le ${#scanf}  ]] ;do
+[[  "${scanf:sii:1}" == '.'  ]] &&  dian=$((dian+1))
+sii=$((sii+1));
+done
+[[  $((${#scanf}*2+$la+9-$COLUMN)) -eq $dian  ]] && ascanf="$Back $Back"
+fi
+fi
+fi
+if [[  "$ascanf" != ""   ]]  ;then
+#[[  "$which" == "zh"  ]] && stty echo
+printf "${ascanf}" 
+#stty -echo
+##wherec="${pos1/#*;/""}"
+##[[  "$wherec" -eq 1  ]] && now=1
+if [[  "$auto" -eq 1  ]] && [[  "$vback" -ne 1   ]] ;then
+[[  "$waiting" == "0"  ]] && [[  $wait1 -ne 1  ]] &&  ififright && waiting=1 && stty -echo  && return 22
+fi
+fi
+#stty echo
+[[  "$bd" -eq 0   ]]  &&  waiting=1 && ascanf="$bscanf"
+if [[   $waiting -eq 0  ]] ;then
+##printf "\033[6n"
+##read -s -d \[ 
+##read -t1 -s -d \R pos1
+if [[  "$vback" -eq 1   ]] ;then
+printf "\033[6n"
+read -s -d \[ 
+read -t 0.1 -s -d \R pos1
+wherec="${pos1/#*;/""}"
+##printf "$((${#scanf}*2+$la+7))$((${#scanf}*2+$la+7))$((${#scanf}*2+$la+7))$((${#scanf}*2+$la+7))"
+if [[  $wherec -eq $((COLUMN-2))  ]] ;then
+sii=0;
+dian=0;
+while [[  $sii -le ${#scanf}  ]] ;do
+[[  "${scanf:sii:1}" == '.'  ]] &&  dian=$((dian+1))
+sii=$((sii+1));
+done
+[[  $((${#scanf}*2+$la+9-$COLUMN)) -eq $dian  ]] && printf "\033[1C"
+fi
+fi
+read  -s -n1 ascanf
 fi
 
+IFS=$IFSbak
+}
 
+
+read_()
+{
+#[[  $which == zh  ]] && stty echo
+#wait1=
+#[[  $which == en  ]] &&  stty -echo
+#stty -echo
+bd=1
+wait1=
+now=
+IFS=$ENTER
+read -s -t0.15  -n1 bscanf  2>/dev/null
+bd=$?
+if [[  "$bd" -ne 0   ]] ;then
+[[  "$waiting" == "1"  ]] && waiting=0  && bscanf=
+[[  "$ascanf" == ""  ]] && wait1=1 && waiting=0
+#stty echo
+elif [[  "$bd" -eq 0   ]]; then  
+#stty echo
+waiting=1
+wait=
+fi
 if [[  "$ascanf" != ""   ]]  ;then
-printf "${ascanf}" 
-wherec="${pos1/#*;/""}"
-[[  "$wherec" -eq 1  ]] && now=1
+printf "${ascanf}"
+##wherec="${pos1/#*;/""}"
+##[[  "$wherec" -eq 1  ]] && now=1
 if [[  "$auto" -eq 1  ]] ;then
 [[  "$waiting" == "0"  ]] && [[  $wait1 -ne 1  ]] &&  ififright && waiting=1 && stty -echo  && return 22
 fi
@@ -1506,33 +1600,37 @@ fi
 #stty echo
 [[  "$bd" -eq 0   ]]  &&  waiting=1 && ascanf="$bscanf"
 if [[   $waiting -eq 0  ]] ;then
-printf "\033[6n"
-read -s -d \[ 
-read -t1 -s -d \R pos1
+##printf "\033[6n"
+##read -s -d \[ 
+##read -t1 -s -d \R pos1
+stty -echo
 read  -s -n1 ascanf
 fi
 
 IFS=$IFSbak
 }
+while true;do
+printf "\033[6n" && read -t 0.5 -s -d \[ bb && read -t 0.5 -s  -d \R 
+[[  "$?" -eq 142  ]] && continue
+break
+done
 
-printf "\033[6n" && read -t.1 -s -d \[ bb && read -t.1 -s  -d \R 
-
-_read()
+_read_()
 {
 stty -echo
-[[  "$((nb))"  == "$ib"   ]] && waiting=0 && bscanf= && needpt= && ib= && nb=0
+[[  "$((nb))"  == "$ib"   ]] && waiting=0 && bscanf=  && ib= && nb=0
 bd=0
 
 if [[  "$ascanf" != ""   ]]  && [[  "${#scanf}" -ne "0"  ]] || [[  "$vback" -eq "1"   ]] ;then
 stty -echo
-while true;do
 
 while true;do
 #[[  "$ascanf" == ""   ]] && [[  "$vback" -ne "1"  ]]  && break
 printf "\033[6n"
 
 if [[  $bd -ne 1   ]]  && [[  $waiting -eq 0   ]];then
-read -t.1 -s -d \[ bscanf
+read -t 0.8 -s -d \[ bscanf
+[[  "$?" -ne 0  ]] && continue
 bd=1
 ib=${#bscanf}
 waiting=1
@@ -1541,26 +1639,156 @@ bscanf="${bscanf%%"$bb"}"
 #[[  "$waiting" -eq "1"   ]] && bscanf="$needpt"
 
 else
-read -t.1 -s -d \[ 
+read -t 0.8 -s -d \[ 
+[[  "$?" -ne 0  ]] && continue
 fi
 #ib=${#bscanf}
 #echo $ib
 #[[  "$ib" -le "1"   ]] && bscanf=""
 #[[  "$waiting" == "1"   ]] && bscanf="$needpt"
-read -t.1 -s -d \R pos1
+read -t 0.8 -s -d \R pos1
+[[  "$?" -ne 0  ]] && continue
 #[[  "$?" -ne 0  ]] && passs=1 &&  continue 
 break
 done
-passs=
+#passs=
+#whereb="${pos1/#*;/""}"
+if ( [[  "$ascanf" != "."  ]] && [[  "$ascanf" != ""  ]] && [[  $whereb -eq $((COLUMN-2))  ]] ) || ([[  "$ascanf" != "."  ]] && [[  "$ascanf" != ""  ]] && [[  $((whereb)) -ne $((COLUMN-1)) ]] && [[  $reg2 == " \b\033[1C"  ]] ) || ([[  "$ascanf" != "."  ]] && [[  "$ascanf" != ""  ]] && [[  $now4 -eq 1  ]]  &&  [[  $wherec -eq $COLUMN  ]]) && now4= ;then
+whereb="${pos1/#*;/""}" && [[  $whereb -eq $((COLUMN))  ]] && ascanf="~$ascanf" && needo=1
+else
+whereb="${pos1/#*;/""}"
+fi
+while true;do
+#[[  "$which" == "zh"  ]] && stty echo
 printf  "${ascanf}"  
-
+#stty -echo
 if [[  "$auto" -eq 1  ]]  ;then
 [[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
 stty -echo
 fi
 
 while true;do
-printf "\033[6n" && read -t.1 -s -d \[  && read -t.1 -s  -d \R pos2
+printf "\033[6n" && read -t 0.8 -s -d \[  && read -t 0.8 -s  -d \R pos2
+[[  "$?" -ne 0  ]] && continue 
+break
+done
+now3=
+now2=
+now=
+#needo=
+#whereb="${pos1/#*;/""}"
+now4=
+wherec="${pos2/#*;/""}"
+if [[  "$pos1" != "$pos2"  ]] ;then
+[[  $whereb -eq $((COLUMN-1))  ]] && [[  "$ascanf" == "."  ]] && now4=1 
+if [[   "$which" == "zh"  ]] && [[  "$ascanf" !=  "."   ]]  &&  [[  "$vback" != "1"  ]]  ; then
+#whereb="${pos1/#*;/""}"
+#[[  $whereb -eq $((COLUMN  ]] &&  [[  $wherec -eq 3  ]] && needo=1  && break
+Pos="$((wherec-whereb))"
+[[  "$Pos" -eq "1"  ]] && now3=1
+fi
+
+break
+else
+#wherec="${pos2/#*;/""}"
+[[  "$which" == "en"  ]] && [[  $wherec -eq $COLUMN  ]]  && break
+######[[  "$which" == "en"  ]] && [[  "$vback" -ne  "1"  ]] && continue
+#stty echo
+[[  "$which" == "en"  ]] && break
+#[[   "$which" == "zh"  ]] && [[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
+if [[   "$which" == "zh"  ]] && [[  "$vback" -ne  "1"  ]] ;then
+[[  $wherec -eq $COLUMN  ]] && [[  "$ascanf" == "."  ]] && now3=2 && break
+
+#[[  $whereb -eq $(COLUMN)  ]]  && needo=1 && continue
+break
+fi
+#if [[  ${vback} -eq "1"   ]] ; then
+#sleep 0.3
+#echo
+if [[  ${vback} -eq "1"   ]] &&  [[   "$which" == "zh"  ]] ;then
+#echo 22222
+#echo $wherec
+[[  "$needo" -ne 1  ]] && reg=$((COLUMN))
+[[  "$needo" -eq 1  ]] && reg=$((COLUMN-3))
+#[[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
+[[  $wherec -eq 1  ]]  && printf %s"\r\033[1A\033[${reg}C" "" && now2=1
+break
+# now2=1
+fi
+fi
+done
+fi
+if  [[  "$bscanf"  == ""   ]] ; then
+
+IFS=$ENTER
+read -s -n1 ascanf 
+IFS=$IFSbak
+
+elif [[  "$bscanf"  != ""   ]];then 
+#stty -echo
+#[[  "$((nb))"  == "$ib"   ]] && waiting=0
+#needpt="${bscanf%%"$bb"}"
+ib=${#bscanf}
+#printf "!$needpt"
+ascanf="${bscanf:$nb:1}"
+#echo $nb
+nb=$((nb+1))
+#waiting=1
+
+#[[  "$((nb))"  == "$ib"   ]] && waiting=0 && IFS=$ENTER &&  read -s -n1 ascanf && IFS=$IFSbak
+fi
+
+#stty echo
+}
+
+_read()
+{
+stty -echo
+[[  "$((nb))"  == "$ib"   ]] && waiting=0 && bscanf=  && ib= && nb=0
+bd=0
+
+if [[  "$ascanf" != ""   ]]  && [[  "${#scanf}" -ne "0"  ]] || [[  "$vback" -eq "1"   ]] ;then
+stty -echo
+
+while true;do
+#[[  "$ascanf" == ""   ]] && [[  "$vback" -ne "1"  ]]  && break
+printf "\033[6n"
+
+if [[  $bd -ne 1   ]]  && [[  $waiting -eq 0   ]];then
+read -t 0.8 -s -d \[ bscanf
+[[  "$?" -ne 0  ]] && continue
+bd=1
+ib=${#bscanf}
+waiting=1
+[[  "$ib" -le "1"   ]] && bscanf=""  && waiting=0
+bscanf="${bscanf%%"$bb"}" 
+#[[  "$waiting" -eq "1"   ]] && bscanf="$needpt"
+
+else
+read -t 0.8 -s -d \[ 
+[[  "$?" -ne 0  ]] && continue
+fi
+#ib=${#bscanf}
+#echo $ib
+#[[  "$ib" -le "1"   ]] && bscanf=""
+#[[  "$waiting" == "1"   ]] && bscanf="$needpt"
+read -t 0.8 -s -d \R pos1
+[[  "$?" -ne 0  ]] && continue
+#[[  "$?" -ne 0  ]] && passs=1 &&  continue 
+break
+done
+#passs=
+while true;do
+#[[  "$which" == "zh"  ]] && stty echo
+printf  "${ascanf}"  
+#stty -echo
+if [[  "$auto" -eq 1  ]]  ;then
+[[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
+stty -echo
+fi
+
+while true;do
+printf "\033[6n" && read -t 0.8 -s -d \[  && read -t 0.8 -s  -d \R pos2
 [[  "$?" -ne 0  ]] && continue 
 break
 done
@@ -1591,14 +1819,14 @@ break
 else
 #wherec="${pos2/#*;/""}"
 [[  "$which" == "en"  ]] && [[  $wherec -eq $COLUMN  ]]  && break
-[[  "$which" == "en"  ]] && [[  "$vback" -ne  "1"  ]] && continue
+######[[  "$which" == "en"  ]] && [[  "$vback" -ne  "1"  ]] && continue
 #stty echo
 [[  "$which" == "en"  ]] && break
 #[[   "$which" == "zh"  ]] && [[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
 if [[   "$which" == "zh"  ]] && [[  "$vback" -ne  "1"  ]] ;then
-[[  $wherec -eq $((COLUMN))  ]] && [[  "$ascanf" == "."  ]] && now3=2 && break
-[[  $wherec -eq $((COLUMN))  ]]  && printf   " " && needo=1 && continue
-
+[[  $wherec -eq $COLUMN  ]] && [[  "$ascanf" == "."  ]] && now3=2 && break
+[[  $wherec -eq $COLUMN  ]]  && printf   " " && needo=1 && continue
+break
 fi
 #if [[  ${vback} -eq "1"   ]] ; then
 #sleep 0.3
@@ -1653,8 +1881,182 @@ nb=$((nb+1))
 #[[  "$((nb))"  == "$ib"   ]] && waiting=0 && IFS=$ENTER &&  read -s -n1 ascanf && IFS=$IFSbak
 fi
 
-stty echo
+#stty echo
 }
+
+
+__read()
+{
+stty -echo
+[[  "$((nb))"  == "$ib"   ]] && waiting=0 && bscanf=  && ib= && nb=0
+bd=0
+
+if [[  "$ascanf" != ""   ]]  && [[  "${#scanf}" -ne "0"  ]] || [[  "$vback" -eq "1"   ]] ;then
+stty -echo
+
+while true;do
+#[[  "$ascanf" == ""   ]] && [[  "$vback" -ne "1"  ]]  && break
+printf "\033[6n"
+
+if [[  $bd -ne 1   ]]  && [[  $waiting -eq 0   ]];then
+read -t 0.8 -s -d \[ bscanf
+if [[  $? -eq 142  ]] && [[ !  "$bscanf" =~ "$bb"  ]];then
+bd=1
+ib=${#bscanf}
+[[  "$ib" -eq "0"   ]] && bscanf=""  && waiting=0
+continue
+else
+bd=1
+ib=${#bscanf}
+waiting=1
+[[  "$ib" -le "1"   ]] && bscanf=""  && waiting=0
+bscanf="${bscanf%%"$bb"}" 
+#[[  "$waiting" -eq "1"   ]] && bscanf="$needpt"
+fi
+else
+
+read -t 0.8 -s -d \[ 
+[[  "$?" -eq 142  ]] && continue
+
+fi
+break
+done
+#ib=${#bscanf}
+#echo $ib
+#[[  "$ib" -le "1"   ]] && bscanf=""
+#[[  "$waiting" == "1"   ]] && bscanf="$needpt"
+
+while true;do
+read -t 0.8 -s -d \R pos1
+[[  $? -eq 142  ]] && continue
+break
+done
+need6n=
+#while true;do
+
+#[[  $? -eq 0   ]] && break
+#done
+
+#read -t 0.2 -s -d \R pos1
+#[[  "$?" -ne 0  ]] && continue
+#[[  "$?" -ne 0  ]] && passs=1 &&  continue 
+#passs=
+whereb="${pos1/#*;/""}"
+[[  $whereb -eq $((COLUMN))  ]] && [[   "$which" == "zh"  ]] && [[  "$ascanf" !=  "."   ]]  &&  [[  "$vback" != "1"  ]] && [[  $needo -ne 1  ]]  && printf   " " && needo=1;
+while true;do
+#[[  "$which" == "zh"  ]] && stty echo
+printf  "${ascanf}"  
+#stty -echo
+if [[  "$auto" -eq 1  ]]  ;then
+[[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
+stty -echo
+fi
+
+while true;do
+printf "\033[6n" 
+read -t 0.8 -s -d \[  && read -t 0.8 -s  -d \R pos2
+#read -t 0.2 -s  -d \R pos2
+[[  "$?" -eq 142  ]] && continue 
+break
+done
+#read -t 0.2 -s  -d \R pos2
+now3=
+now2=
+now=
+#needo=
+#whereb="${pos1/#*;/""}"
+
+wherec="${pos2/#*;/""}"
+if [[  "$pos1" != "$pos2"  ]] ;then
+[[  $wherec -eq $((COLUMN+1))  ]] && [[  "$ascanf" == "."  ]] && now3=2 && break
+#[[  $wherec -eq $COLUMN  ]]  && printf   " " && needo=1 && break
+if [[   "$which" == "zh"  ]] && [[  "$ascanf" !=  "."   ]]  &&  [[  "$vback" != "1"  ]]  ; then
+[[  $wherec -eq $COLUMN  ]]  && printf   " " && needo=1 && break
+#[[  $whereb -eq $((COLUMN+1))  ]]  && printf   " " && break
+#whereb="${pos1/#*;/""}"
+Pos="$((wherec-whereb))"
+[[  "$Pos" -eq "1"  ]] && now3=1
+fi
+
+break
+
+
+#elif [[   "$which" == "zh"  ]]  &&  [[  "$vback" == "1"  ]] && [[  "$((hereis+thereis))" -eq "0"   ]]  ; then
+#Pos1="${pos1:$((${#pos1}-1))}"
+#Pos2="${pos2:$((${#pos2}-1))}"
+#Pos="$((Pos1-Pos2))"
+#[[  "$Pos" -eq "-1"  ]] || [[  "$Pos" -eq "9"   ]]  && now4=1 
+
+else
+#wherec="${pos2/#*;/""}"
+[[  "$which" == "en"  ]] && [[  $wherec -eq $COLUMN  ]]  && break
+##[[  "$which" == "en"  ]] && [[  "$vback" -ne  "1"  ]] && continue
+#stty echo
+[[  "$which" == "en"  ]] && break
+#[[   "$which" == "zh"  ]] && [[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
+if [[   "$which" == "zh"  ]] && [[  "$vback" -ne  "1"  ]] ;then
+#[[  $wherec -eq $COLUMN  ]] && [[  "$ascanf" == "."  ]] && now3=2 && break
+#[[  $wherec -eq $COLUMN  ]]  && printf   " " && needo=1 && continue
+#continue
+break
+fi
+#if [[  ${vback} -eq "1"   ]] ; then
+#sleep 0.3
+#echo
+if [[  ${vback} -eq "1"   ]] &&  [[   "$which" == "zh"  ]] ;then
+#echo 22222
+#echo $wherec
+[[  "$needo" -ne 1  ]] && reg=$((COLUMN+1))
+[[  "$needo" -eq 1  ]] && reg=$((COLUMN-3))
+#[[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
+[[  $wherec -eq 1  ]]  && printf %s"\r\033[1A\033[${reg}C" "" && now2=1
+# now2=1
+break
+fi
+#stty -echo
+#now3=
+#[[  $wherec -eq $COLUMN  ]]  && break
+#[[  "$vback" -eq  "1"  ]] && break
+fi
+#break
+#continue
+#fi
+done
+
+#if [[   "$which" == "zh"  ]]  &&  [[  "$vback" != "1"  ]] && [[  "$((hereis+thereis))" -eq "0"   ]]  ; then
+#Pos1="${pos1:$((${#pos1}-1))}"
+#Pos2="${pos2:$((${#pos2}-1))}"
+#whereb="${pos1/#*;/""}"
+#Pos="$((wherec-whereb))"
+#[[  "$Pos" -eq "1"  ]] && now3=1
+
+#fi
+
+fi
+if  [[  "$bscanf"  == ""   ]] ; then
+
+IFS=$ENTER
+read -s -n1 ascanf 
+IFS=$IFSbak
+
+elif [[  "$bscanf"  != ""   ]];then 
+#stty -echo
+#[[  "$((nb))"  == "$ib"   ]] && waiting=0
+#needpt="${bscanf%%"$bb"}"
+ib=${#bscanf}
+#printf "!$needpt"
+ascanf="${bscanf:$nb:1}"
+#echo $nb
+nb=$((nb+1))
+#waiting=1
+
+#[[  "$((nb))"  == "$ib"   ]] && waiting=0 && IFS=$ENTER &&  read -s -n1 ascanf && IFS=$IFSbak
+fi
+
+#stty echo
+}
+
+
 
 Readzh()
 {
@@ -1664,7 +2066,7 @@ Readzh()
 which=zh
 isright=0
     stty -echo
-needpt=
+#needpt=
 [[   $getin -ne 0  ]] && bscanf=
 waiting=0
 nb=0
@@ -1690,11 +2092,21 @@ while true;do
 #eval ascanf=\${scanf$i}
 #IFSbak=$IFS
 #IFS=$ENTER
-if [[  "$ish" != "y"  ]] ;then
+stty -echo
+if [[  "$ish" != "y"  ]] && [[  "$termium" != "y"  ]] && [[  "$windows" != "y"  ]] ;then
 read_
 tf=$?
 elif [[  "$ish" == "y"  ]] ;then
 _read 
+tf=$?
+#elif [[  "$termux" == "y"  ]] ;then
+#r_ead 
+#tf=$?
+elif [[  "$termium" == "y"  ]] ;then
+__read 
+tf=$?
+elif [[  "$windows" == "y"  ]] ;then
+_read_ 
 tf=$?
 fi
 #stty echo
@@ -1710,7 +2122,7 @@ fi
 #echo ascanf:$ascanf
 
 if [[  "$ascanf" == "$B"  ]]  ;then
-stty echo
+#stty echo
 #printf 22
 #printf "\b"
 ascanf=""
@@ -1725,11 +2137,16 @@ L=$((L-1))
 [[  "$L" -le "0"  ]] && L=0 
 
 reg2=" $Back $Back"
-[[  "${scanf:$L}"  == "."  ]] && reg2=" " 
+if [[  $needo -eq 1  ]] && [[  "$now2" -eq 1  ]] ;then 
+[[  "${scanf:$L}"  != "."  ]] && printf " "
+[[  "${scanf:$L}"  == "."  ]] && printf "\033[1C "
+fi
+[[  "${scanf:$L}"  == "."  ]] && reg2=" \b\033[1C"
+[[  $needo -eq 1  ]] && [[  "$now2" -eq 1  ]] && reg2="$reg2\b"
 
 [[  "$now3" -eq 2  ]]   &&  printf "$Back\033[1C \033[1C" && scanf="${scanf:0:$L}"   && now3= && continue
 
-[[  "$now2" -eq 1  ]]   &&  printf  "$reg2" && scanf="${scanf:0:$L}" && needo=  && now2= &&  continue
+[[  "$now2" -eq 1  ]]   &&  printf  "$reg2" && scanf="${scanf:0:$L}" && needo=  && now2=  continue
 
 [[  "$L"  -ge "0"  ]] && [[  "${scanf:$L}"  == "."  ]]  &&  printf  "$Back $Back" && scanf="${scanf:0:$L}" && continue
 scanf="${scanf:0:$L}"
@@ -1737,7 +2154,8 @@ scanf="${scanf:0:$L}"
 #echo ${scanf:$L}
 reg4="$Backs$Block$Backs"
 [[  "$now3" -eq "1"  ]] && reg4="$Back $Back"
-[[  "$Ll"  -ge "1"  ]] &&  printf  "$reg4"  && continue
+[[  "$Ll"  -ge "1"  ]] && [[  "$termux" ==  "y"  ]] &&   ascanf="$reg4"  && continue
+[[  "$Ll"  -ge "1"  ]] && [[  "$termux" !=  "y"  ]] &&   printf "$reg4"  && continue
 
 continue
 
@@ -1858,7 +2276,7 @@ isright=0
 stty -echo
 waiting=0
 nb=0
-needpt=
+#needpt=
 bscanf=
 bool=
 ascanf=
@@ -1875,14 +2293,23 @@ while true;do
 #eval ascanf=\${scanf$i}
 #IFSbak=$IFS
 #IFS=$newline
-if [[  "$ish" != "y"  ]] ;then
+stty -echo
+if [[  "$ish" != "y"  ]] && [[  "$termium" != "y"  ]] && [[  "$windows" != "y"  ]] ;then
 read_
 tf=$?
 elif [[  "$ish" == "y"  ]] ;then
 _read 
 tf=$?
+#elif [[  "$termux" == "y"  ]] ;then
+#r_ead 
+#tf=$?
+elif [[  "$termium" == "y"  ]] ;then
+__read 
+tf=$?
+elif [[  "$windows" == "y"  ]] ;then
+_read_ 
+tf=$?
 fi
-
 #IFS=$IFSbak
 #echo ascanf:$ascanf
 if [[  "$tf" -eq "22"   ]] ;then
@@ -3691,12 +4118,14 @@ helptxt="-p 通关模式(全做对后退出)
 -a 答题辅助(自动判断输入)
 -s 验证词表格式(避免多余的空格)
 -i 优化ish(主要修复IOS的ish中存在中文断行等问题)
+-T 优化Termium 
+-m 优化Windows Terminal,MacOS终端,安卓Termux 
 -j 加载有详细释义的.Json文件(Oxford Dictionary API*)
-(*当红黄绿指示亮起时，按y获取详细释义，v获取详细例句，s跳过，j加载json文件)
+(*当红黄绿指示亮起时，按Y/y获取详细释义，V/v获取详细例句，S/s跳过，j加载json文件)
 "
 
-
-while getopts ":rsipajh" opt; do
+argn=0;
+while getopts ":rsipajhTm" opt; do
     case $opt in
         h)
         printf "%s" "$helptxt" && exit 1
@@ -3711,7 +4140,7 @@ while getopts ":rsipajh" opt; do
         echo 验证词表模式 && verify=y
         ;;
         i)
-        echo 优化ish && ish=y
+        printf  "\033[3m*ish\n" && ish=y && argn=$((argn+1))
         ;;
         a)
         echo 答题辅助模式 && auto=1
@@ -3719,13 +4148,21 @@ while getopts ":rsipajh" opt; do
         j)
         echo 加载Json源文件 && Json=1
         ;;
+#        t)
+#        echo 优化termux && windows=y && argn=$((argn+1))
+#        ;;
+        T)
+        printf  "\033[3m*Termium\n" && termium=y && argn=$((argn+1))
+        ;;
+        m)
+        printf "\033[3m*Termux/Windows Terminal/macOS(Bash)\n" && windows=y && argn=$((argn+1))
+        ;;
 
 esac
 done
-
-printf " 回车以继续\r"
+printf "\033[0m 回车以继续\r"
 read
-
+[[  "$argn" -gt "1"  ]] && printf "\033[31m*参数冲突\033[0m\n%s\n%s\n%s\n" "-m(Termux/Windows Terminal/macOS(Bash))" "-T(Termium)" "-i(ish)"  && exit 0
 stdin
 
 calendar && _verify && loadcontent && FUN && exit
@@ -3740,4 +4177,3 @@ target=
 tno=0
 getfromread && loadcontent  &&   FUN1
 [[  "$?" -eq '2' ]] && _verify && loadcontent &&  FUN
-
