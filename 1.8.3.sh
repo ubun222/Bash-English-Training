@@ -2061,7 +2061,7 @@ fi
 Readzh()
 {
 #vback=
-#now4=
+now2=
     needo=
 which=zh
 isright=0
@@ -2076,7 +2076,6 @@ ascanf=
 scanf=
 #Back="$(printf "\b")"
 LENGTH=0
-
 
 #printf  试"$Backs$Block$Backs"
 
@@ -2284,7 +2283,7 @@ bscanf=
 bool=
 ascanf=
 scanf=
-
+now2=
 #printf $enter"$question"\\033[3m\ \<───\>\ 
 N=0
 GOBACK=$(printf "\033[1A")
