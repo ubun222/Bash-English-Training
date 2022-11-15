@@ -1186,7 +1186,7 @@ RC=0
 #ishprt "\033[1A"
 ishprt   "\033[1A\033[${COL}C%s\n\r"  "${eline}"
 fi
-[[  "$hide" -eq "0"  ]] && pprep "$pureanswerd" && echo
+[[  "$hide" -eq "0"  ]] && pprep "$pureanswerd" 
 verbose
 elif [[ $bool = 's' ]] || [[ $bool = 'S' ]]  ; then
 RC=0
@@ -1766,7 +1766,6 @@ fi
 done
 fi
 if  [[  "$bscanf"  == ""   ]] ; then
-
 IFS=$ENTER
 read -s -n1 ascanf 
 IFS=$IFSbak
@@ -2206,8 +2205,9 @@ scanf="${scanf:0:$L}"
 #echo ${scanf:$L}
 reg4="$Backs$Block$Backs"
 [[  "$now3" -eq "1"  ]] && reg4="$Back $Back"
-[[  "$Ll"  -ge "1"  ]] && [[  "$termux" ==  "y"  ]] &&   ascanf="$reg4"  && continue
-[[  "$Ll"  -ge "1"  ]] && [[  "$termux" !=  "y"  ]] &&   printf "$reg4"  && continue
+[[  "$Ll"  -ge "1"  ]] && [[  "$windows" ==  "y"  ]] &&  ascanf="$reg4" && vback=1  && continue
+[[  "$Ll"  -ge "1"  ]] && [[  "$windows" !=  "y"  ]] &&  printf "$reg4"   && continue
+#[[  "$Ll"  -ge "1"  ]]  &&  printf "$reg4"  && continue
 
 continue
 
@@ -2461,7 +2461,7 @@ ascanf=
 continue
 fi
 done
-stty echo
+#stty echo
 #printf "\033[1B"
 }
 
@@ -2866,7 +2866,7 @@ break
 fi
 done
 fi
-[[  "$bool" == "v"  ]]  && replace p
+[[  "$bool" == "v"  ]] || [[  "$bool" == "V"  ]] && replace p
 yellow=
 for i in $(seq 30);do
 i_=$i
