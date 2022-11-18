@@ -666,16 +666,24 @@ clear
 sleep 0.1
 echo
 printf "\033[0m"
-
-printf "$(date)"
+printf "\033[2m\033[3m"
+printf "$(date  +"%Y-%m-%d %H\033[5m:\033[0m\033[2m\033[3m%M\033[5m:\033[0m\033[2m\033[3m%S")\r"
 
 echo
 printf "\033[?25l"
 echo $strs
-
-read
-
-
+printf "\033[2A"
+printf "\033[2m\033[3m"
+while true;do
+sleep 0.25 &&  read -s -t0   && read -s -t1 && break
+sleep 0.25 &&  read -s -t0   && read -s -t1 && break
+sleep 0.25 &&  read -s -t0   && read -s -t1 && break
+sleep 0.249 &&  read -s -t0   && read -s -t1 && break
+printf "$(date  +"%Y-%m-%d %H\033[1C%M\033[1C%S")\r"
+done
+#read
+printf "\033[0m\033[3m"
+echo
 
 }
 
@@ -1019,13 +1027,13 @@ done
 ishprt(){
 if [[  "$ish" == "y"   ]] ;then
 while true;do
-printf "$1$pd" "$2"
+printf "$1$pd" "$2" $3
 read -t 0.5 -d \R
 [[  "$?" -eq 142  ]] && continue
 break
 done
 else
-printf "$1" "$2"
+printf "$1" "$2" "$3"
 fi
 }
 
@@ -1132,23 +1140,23 @@ IFS=$IFSbak
 #[[  "$ish" == "y"    ]] &&  sleep 0.002
 if [[  "$abool"  ==  "y"  ]]  || [[  "$abool"  ==  "Y"  ]] ;then
 #ishprt "\n\r"
-ishprt "\n$enter\033[K" && bool="$abool"
+printf "\n$enter\033[K" && bool="$abool"
 break
 elif [[  "$abool"  ==  "v"  ]] || [[  "$abool"  ==  "V"  ]];then
 #ishprt "\n\r"
-ishprt "\n$enter\033[K" && bool="$abool"
+printf "\n$enter\033[K" && bool="$abool"
 break
 elif [[  "$abool"  ==  "s"  ]] ||  [[  "$abool"  ==  "S"  ]];then
 #ishprt "\n\r"
-ishprt "\n$enter\033[K" && bool="s"
+printf "\n$enter\033[K" && bool="s"
 break
 elif [[  "$abool"  ==  "j"  ]] || [[  "$abool"  ==  "J"  ]];then
 #ishprt "\n\r"
-ishprt "\n$enter\033[K" && bool="j"
+printf "\n$enter\033[K" && bool="j"
 break
 elif [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]] || [[  $abool == ""  ]] && [[  $ttf == "0"  ]] ;then
 #printf ${spaces}${spaces# }
-ishprt "\n\r"
+printf "\n"
 break
 else
 continue
@@ -3221,9 +3229,12 @@ iq=$((${#question}/2));
 cq=$((COLUMN/2))
 left=$((cq+iq))
 
-ishprt "\033[1m%${left}s\033[0m\n" "$question"
+if [[  $((iq*2)) -le $COLUMN  ]];then
+printf "\033[1m%${left}s\033[0m\n" "$question"
 #echo
-
+else
+printf "$s" "$question"
+fi
 while true;do
 
 m1=$((RANDOM%$total+1))
@@ -3431,7 +3442,7 @@ reading
 printf "\n\r"
 verbs="$(printf %s "$content" | grep "^$answer1 [^A-Z^a-z]" )"
 
-printf "\033[1m%s\n\033[0m" "$verbs"
+[[  "$verbs" != ""  ]] && printf "\033[1m%s\n\033[0m" "$verbs"
 
 
 elif [[  "$fbool" -eq 2  ]] ;then
@@ -3445,10 +3456,15 @@ if [[  "${question:i:1}" == '.'  ]] ;then
 iq=$((iq-1))
 fi
 done
-cq=$((COLUMN/2))
-left=$((cq+iq))
+#cq=$((COLUMN/2))
+left=$(($((COLUMN/2))-$((iq/2))))
 
-printf "\033[1m%${left}s\033[0m" $question
+if [[  $iq -le $COLUMN  ]] ;then 
+printf "\033[1m\033[%dC%s\033[0m" $left  $question
+else
+[[  "$ish" == "y"  ]]  && question=~"$question"  && ishprt "\033[1m$question\033[0m"
+[[  "$ish" != "y"  ]] &&  printf "\033[1m$question\033[0m"
+fi
 echo
 
 while true;do
@@ -3573,7 +3589,7 @@ done
 down=$((orders))
 [[  $down -gt 0  ]] && printf "\033[${down}B$enter"
 FIND
-ishprt "\033[1m%${left}s\033[0m\n" "$question"
+ishprt "\033[1m\033[%dC%s\033[0m\n" "$left"  "$question"
 printf "  $am1\n"
 printf "  $am2\n"
 printf "  $am3\n"
@@ -3618,7 +3634,7 @@ fi
 reading
 printf "\n\r"
 verbs="$(printf %s "$content" | grep ^"$answer1 [^A-Z^a-z]" )"
-printf "\033[1m%s\n\033[0m" "$verbs"
+ [[  "$verbs" != ""  ]] && printf "\033[1m%s\n\033[0m" "$verbs"
 
 fi
 echo $strs
@@ -4344,7 +4360,7 @@ n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 echo  "${strs}"
 echo 检测到$((n/2))组单词
 [[ $(($n/2)) -le 200 ]] && return 0
-[[ $(($n/2)) -gt 200 ]] && read -n 1 -p "按任意键跳过加载，按Y强制加载"  choice
+[[ $(($n/2)) -gt 200 ]] && read -t0.2 -n 1 -p "$strs"  choice  #按Y强制加载
 echo
 if [[ "$choice" = 'y' ]] || [[ "$choice" = 'Y'  ]] ;  then
 
