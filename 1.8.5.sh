@@ -1033,7 +1033,7 @@ read -t 0.5 -d \R
 break
 done
 else
-printf "$1" "$2" "$3"
+printf "$1" "$2" $3
 fi
 }
 
@@ -4501,3 +4501,4 @@ target=
 tno=0
 getfromread && loadcontent  &&   FUN1
 [[  "$?" -eq '2' ]] && _verify && loadcontent &&  FUN
+N
