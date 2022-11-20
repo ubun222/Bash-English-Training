@@ -1033,7 +1033,7 @@ read -t 0.5 -d \R
 break
 done
 else
-printf "$1" "$2" "$3"
+printf "$1" "$2" $3
 fi
 }
 
@@ -2269,11 +2269,10 @@ break
 
 elif [[  $ascanf  ==  '	'  ]];then
 ascanf=
-scanf="$scanf"，
-printf "，"
+
 s_canf=
 IFS=$ENTER
-read -s -n1  -t1 s_canf 
+read -s -n1  -t1.5 s_canf 
 IFS=$IFSbak
 if [[  $s_canf  ==  '	'  ]];then
 ascanf=
@@ -2285,7 +2284,7 @@ rdm5=$(($RANDOM%$inmts+1))
 intimates="$(echo "${answer2:-n}" | awk -v a=$rdm5 'BEGIN{FS="，"}{print $a}')"
 [[  "${#rdmd}" -gt "$inmts"   ]]  && break
 [[  "$scanf" =~ "$intimates"   ]] || [[  "$rdmd" =~ "$rdm5"   ]]  &&  rdmd="$rdm5$rdmd"  && continue
-printf "$intimates" && scanf="$scanf$intimates" && break
+bscanf="$intimates" && waiting=1  && break
 done
 continue
 else
@@ -2464,6 +2463,25 @@ fooo=$(printf "$foo" | awk -F';' '{printf $2}')
 #fi
 printf "$enter"
 break
+
+elif [[  $ascanf  ==  '	'  ]];then
+ascanf=
+
+s_canf=
+IFS=$ENTER
+read -s -n1  -t0.2 s_canf 
+IFS=$IFSbak
+if [[  $s_canf  ==  '	'  ]];then
+ascanf=
+rdmd=
+#intimates="$(echo "${answer2:-n}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}' | sort)"
+inmts="${answer1}"
+[[  "$inmts" =~ ^"$scanf"  ]] ||  [[  "$scanf" == ""  ]] && rightn=$((${#scanf})) && bscanf="${inmts:$rightn:1}" && waiting=1
+continue
+else
+continue
+fi
+
 else
 ascanf=
 continue
@@ -3132,6 +3150,7 @@ frontup=$((frontup%COLUMN))
 [[  "$frontup" -eq "0"  ]] && printf "$answerd\b\033[1C"
 printf "\033[1m"
 iq=$aiq
+answer1=$answer
 Readen
 printf "\033[0m"
 #[[  "$auto" -ne "1"  ]] && printf "\033[1A"
