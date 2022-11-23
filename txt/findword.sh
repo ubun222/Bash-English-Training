@@ -85,7 +85,7 @@ targets="$(find . | grep -e  ....txt)"
 while read target;do
 cat "$target" | grep "\\\\"  &>/dev/null
 if [[  "$?" -eq 0  ]]  ; then
-echo $target
+printf "%s\r" "$target"
 read -r -d \\ atxt <"$target"
 alltxt="$alltxt
 $atxt"
@@ -101,7 +101,7 @@ m="$(echo "$alltxt" | wc -l)"
 while true;do
 [[  "$bacK" != ""   ]] && alltxt="$bacK"
 word=
-printf "the word:"
+printf "the word:\033[K"
 
 while true;do
 #aword="!!"

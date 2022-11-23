@@ -40,7 +40,7 @@ read -n1 D <<EOF
 `printf  "\004"`
 EOF
 
-up1=$(printf "\033[1A")
+#up1=$(printf "\033[1A")
 
 #mmm=2
 struct(){
@@ -118,6 +118,36 @@ printf "    $enter"
 [[  "$order" -eq $((pathlsl+1))  ]]  && printf "\033[$((pathlsl))A$enter"
 [[  "$order" -eq $((pathlsl+1))  ]] && order=1
 printf "\033[1B\033[35m>>>>\033[0m$enter"
+
+elif [[  "$ascanf"  ==  "$_1B5B"  ]] ;then
+stty -echo
+read  -n1 && read -n1 WSAD
+if [[  "$WSAD" ==  "B"  ]] ;then
+#eval down=\${down$order}
+order=$((order+1))
+printf "    $enter"
+#printf "  $enter"
+[[  "$order" -eq $((pathlsl+1))  ]]  && printf "\033[$((pathlsl))A$enter"
+[[  "$order" -eq $((pathlsl+1))  ]] && order=1
+#eval down=\${down$order}
+printf "\033[1B\033[35m>>>>\033[0m$enter"
+elif [[  "$WSAD" == "A"  ]] ;then
+order=$((order-1))
+#eval down=\${down$order}
+printf "    $enter"
+#printf "  $enter"
+[[  "$order" -eq 0  ]]  && printf "\033[$((pathlsl))B$enter"
+[[  "$order" -eq 0  ]] && order="$pathlsl"
+#eval down=\${down$order}
+printf "\033[1A\033[35m>>>>\033[0m$enter"
+elif [[  "$WSAD" == "C"  ]] ;then
+stty echo
+break
+else
+stty echo
+continue
+fi
+
 
 elif [[  "$ascanf"  ==  ''  ]] || [[  "$ascanf"  ==  "$CR"  ]] ;then
 break
@@ -752,9 +782,12 @@ fi
 RWN1=1
 
 if [[  "$Json" -eq 1  ]] ;then
+for S in $(seq 1 $COLUMN);do
+strss="$strss-"
+done
 while read line ;do
 if  [[  "${line}" != ""  ]] ;then
-printf 加载"$line"
+printf 加载"$line"\\n
 eval js$RWN1='"$(fetchJson -b <"$line"  |  grep -e "lexicalEntries\""   | grep -v "id\"" | grep -v "\"metadata\"" |  grep -v "\"en\""$ )"'
 #printf "$js1"
 #eval js$RWN1="${line}"
@@ -1261,25 +1294,29 @@ done
 
 ress=1
 lexicall=0
-while [[  "$lexicall" -lt "$validlex"  ]];do
-order=1
 catals="$(printf "$TheCates" | tr "," "\n")"
+vcates=
+while [[  "$lexicall" -lt "$validlex"  ]];do
+vcates="$thecate\n$vcates"
+#catals="$(printf "$catals" | grep -v "$thecate")"
+order=1
+#catals="$(printf "$TheCates" | tr "," "\n")"
 catalsl="$(echo "$catals" | wc -l)"
 #catalsl="$((catalsl-1))"
 #ress=$((ress+1))
+printf "%s" "${strss}"
 printf "\033[2m"按空格选择"$answer1"结果"$((jsi+1))"的第"$((ress))"个词性\\n
 while read inline ;do
 echo  "    $inline"
 done << EOF
 $catals
-退出
 EOF
 
 #read -d " "
 printf "\033[0m$enter"
 
 order=1
-printf "\033[$((catalsl+1))A\033[35m>>>>\033[0m\r"
+printf "\033[$((catalsl))A\033[35m>>>>\033[0m\r"
 #echo "$pathls"
 while true ;do
 printf "$enter"
@@ -1296,8 +1333,8 @@ if [[  "$ascanf"  ==  ' '  ]];then
 order=$((order+1))
 
 printf "    $enter"
-[[  "$order" -eq $((catalsl+2))  ]]  && printf "\033[$((catalsl+1))A$enter"
-[[  "$order" -eq $((catalsl+2))  ]] && order=1
+[[  "$order" -eq $((catalsl+1))  ]]  && printf "\033[$((catalsl))A$enter"
+[[  "$order" -eq $((catalsl+1))  ]] && order=1
 printf "\033[1B\033[35m>>>>\033[0m$enter"
 
 elif [[  "$ascanf"  ==  ''  ]] || [[  "$ascanf"  ==  "$CR"  ]] ;then
@@ -1312,7 +1349,8 @@ done
 [[  "$order" -eq  "$((catalsl+1))"  ]] && break
 deri=;phra=;gF=;inf=;pronun=
 thecate=$(echo "$catals" | sed -n "${order},${order}p" )
-down=$((catalsl+2-$order))
+catals="$(printf "$catals" | grep -v "$thecate")"
+down=$((catalsl+1-$order))
 printf "\033[${down}B$enter"
 
 eval thexical=\"\$entry${jsi}_$((order-1))\"
@@ -1351,7 +1389,7 @@ vsnese=$((vsnese+1))
 dex=0
 #while [[  "$dex" -lt "9"  ]];do
 
-echo $strs
+echo $strss
 
 thesense1="$(printf "$thesense0" | grep -v "\"subsenses" )"
 thedex="$(printf "$thesense1" | grep "\"definitions\"," | awk -F"	" '{print $2}' )"
@@ -1366,7 +1404,7 @@ syno="$(printf "$thesense1" | grep "\"synonyms\"," | awk -F"	" '{printf $2}' | s
 [[  "$thenote" != ""  ]] && printf 笔记"$vsnese":"\033[3m""$thenote""\033[0m"\\n
 [[  "$thesdex" != ""  ]] && printf 短释"$vsnese": && prepn "$thesdex" 6
 [[  "$?" -eq 22  ]] && return 0
-[[  "$syno" != ""  ]] && printf 同义"$vsnese":"\033[3m""$syno""\033[0m"\\n
+[[  "$syno" != ""  ]] && syno="$(printf "$syno" | awk -F, '{print $1","$2","$3","$4}' )" && printf 同义"$vsnese": && prepn $syno 6 #:"\033[3m""$syno""\033[0m"\\n
 
 #subs="$(printf "$thesense0" | grep "\"subsenses\"," )"
 sdex=0
@@ -1410,12 +1448,12 @@ done
 #continue
 else
 ress=$((ress+1))
-printf "\033[2m""$answer1"结果"$((jsi+1))"的词性"$thecate"共有"${vsnese}"个释义\\n"\033[0m"
+printf "\033[2m""$answer1"第"$((jsi+1))"个结果的词性"$thecate"共有"${vsnese}"个释义\\n"\033[0m"
 break
 fi
 senses=$((senses+1))
 printf "\033[3m"
-loading "$answer1"
+#read -p  "$answer1"
 printf "\033[0m"
 done
 #lexicall=$((lexicall+1))
@@ -1461,11 +1499,17 @@ rangem="$(echo "$rangem" | grep -v  ^"${m2}"$ )"
     gcounts=$((gcounts+1))
 fi
 fi
-if [[  "$RC" -eq 1  ]]  && [[  "$record" -eq 1   ]];then
+
+if [[  "$RC" -eq 1  ]]  && ( [[  "$record" -eq 1   ]] || [[  "$Record" -eq 1   ]] ) ;then
 #m=$((m/2))
 #echo $m
+if [[  "$record" -eq 1   ]] ;then
 row=$(eval "$allif")
 eval therw=\${rw$row}
+elif [[  "$Record" -eq 1   ]];then
+row=$(eval "$allif")
+eval therw=\${pt$row}
+fi
 #printf $answer1
 #cd $Path
 #cd txt
@@ -1496,16 +1540,22 @@ printf "\n$Ylineraw\n$Vlineraw\n\n" >> $therw
 echo "错题+1"
 #echo $?
 fi
-elif [[  "$RC" -eq 0  ]]  && [[  "$record" -eq 1   ]] ;then
+elif [[  "$RC" -eq 0  ]]  && ( [[  "$record" -eq 1   ]] || [[  "$Record" -eq 1   ]] ) ;then
 
+if [[  "$record" -eq 1   ]] ;then
 row=$(eval "$allif")
 eval therw=\${rw$row}
+elif [[  "$Record" -eq 1   ]];then
+row=$(eval "$allif")
+eval therw=\${pt$row}
+fi
+
 locate="$(cat "${therw}" | grep -e  ^"${answer1}	" )"
 #echo "$locate"
 if [[  "$locate" !=  ""  ]];then
 locate="$(cat "${therw}" | grep -n ^"${answer1} |" | head -n1 | awk -F: '{print $1}')"
 #echo $locate
-Dlinerawn="$(cat "$therw"  | grep  -B 40 ^"${answer1} |" |   awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  '[	\]'|  wc -l )"
+Dlinerawn="$(cat "$therw"  | grep  -B 40 ^"${answer1} |" |   awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  "[	|\\]"|  wc -l )"
 Dtop=$((locate-Dlinerawn+1))
 Dlinerawn="$(cat "$therw"  | grep  -A 40 ^"${answer1} |" |  awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $1}' | grep -v '[	\]' | wc -l )"
 Dend=$((locate+Dlinerawn-1))
@@ -4352,10 +4402,11 @@ $txt"
 
 #echo "$txt"
        # txt=${txt%% }
-retargets=${rp}' '$retargets
+retargets=${rp}' '${retargets}
        # txt=${txt%%@}
 txt=$(echo "$txt" | grep "	")
-n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
+n=$(echo "${txt}" | wc -l)
+n=$((n*2))
 tno=$((tno+1))
 eval ca$tno=$n
 #eval echo \$ca$t
@@ -4374,7 +4425,7 @@ p=1
 targets=$retargets
 #echo $#
 #fi
-n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
+#n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 # echo $n
 echo  "${strs}"
 echo 检测到$((n/2))组单词
@@ -4412,7 +4463,7 @@ key2=$?
 #echo $targets
 
 if [[  $key2 -eq 0  ]] && [[  "$target"  !=  ''  ]] ;then
-targets=$target' '$targets
+targets=$targets' '$target
 txt="$(cat ${target} |  grep -a  -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )
 $txt"
 txt=$(echo "$txt" | grep "	")
@@ -4458,6 +4509,7 @@ done
 
 helptxt="-p 通关模式(全做对后退出)
 -r 错题集模式(在txt/CORRECT文件夹自动生成错题集)
+-R 直接对当前加载的词表删除和增加
 -a 答题辅助(自动判断输入)
 -s 验证词表格式(避免多余的空格)
 -i 优化ish(主要修复IOS的ish中存在中文断行等问题)
@@ -4468,7 +4520,7 @@ helptxt="-p 通关模式(全做对后退出)
 "
 
 argn=0;
-while getopts ":rsipajhTm" opt; do
+while getopts ":RrsipajhTm" opt; do
     case $opt in
         h)
         printf "%s" "$helptxt" && exit 1
@@ -4478,6 +4530,9 @@ while getopts ":rsipajhTm" opt; do
         ;;
         r)
         echo 错题集模式 && record=1
+        ;;
+        R)
+        echo 剔除模式 && Record=1
         ;;
         s)
         echo 验证词表模式 && verify=y
@@ -4505,6 +4560,7 @@ esac
 done
 printf "\033[0m 回车以继续\r"
 read
+[[  "$record" -eq 1   ]] && [[  "$Record" -eq 1   ]] && printf "\033[31m*参数冲突\033[0m\n%s\n%s\n" "-r(错题集模式)" "-R(剔除模式)"  && exit 0
 [[  "$argn" -gt "1"  ]] && printf "\033[31m*参数冲突\033[0m\n%s\n%s\n%s\n" "-m(Termux/Windows Terminal/macOS(Bash))" "-T(Termium)" "-i(ish)"  && exit 0
 stdin
 
@@ -4520,4 +4576,3 @@ target=
 tno=0
 getfromread && loadcontent  &&   FUN1
 [[  "$?" -eq '2' ]] && _verify && loadcontent &&  FUN
-N
