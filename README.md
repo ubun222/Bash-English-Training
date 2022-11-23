@@ -26,14 +26,15 @@ bash 1.*.sh
 5. json翻译还需要另外安装gawk，可能自带的awk无法使用trans。
 #### 参数
 1. -r 错题集模式
-2. -a 辅助答题模式
-3. -p 通关模式 
-4. -s 词表验证模式
-5. -i 优化ish 
-6. -T 优化Termium 
-7. -m 优化Windows Terminal,MacOS终端,安卓Termux 
-8. -j 加载.json源文件
-9. -h 获取帮助
+2. -R 剔除模式
+3. -a 辅助答题模式
+4. -p 通关模式 
+5. -s 词表验证模式
+6. -i 优化ish 
+7. -T 优化Termium 
+8. -m 优化Windows Terminal,MacOS终端,安卓Termux 
+9. -j 加载.json源文件
+10. -h 获取帮助
 #### 模式
 1. 提词机
 2. 完形填空
