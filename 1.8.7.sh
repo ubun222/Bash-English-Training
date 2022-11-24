@@ -1346,14 +1346,14 @@ fi
 #EOF
 
 done
-[[  "$order" -eq  "$((catalsl+1))"  ]] && break
+#[[  "$order" -eq  "$((catalsl+1))"  ]] && break
 deri=;phra=;gF=;inf=;pronun=
 thecate=$(echo "$catals" | sed -n "${order},${order}p" )
 catals="$(printf "$catals" | grep -v "$thecate")"
 down=$((catalsl+1-$order))
 printf "\033[${down}B$enter"
-
-eval thexical=\"\$entry${jsi}_$((order-1))\"
+[[  $order -eq 1  ]] && order=0
+eval thexical=\"\$entry${jsi}_$((order-catalsl+1))\"
 #printf "$thexical"
 deri="$(printf "$thexical" | grep -e "\"derivatives\",0,\"text\"" | awk -F"	" '{printf $2}' )"
 phra="$(printf "$thexical" | grep -e "\"phrases\"" | awk -F"	" '{printf $2}')"
@@ -2848,16 +2848,16 @@ printf "\033[?25l\033[k\r                          ]${output}\r ${str}\r["
 
 fi
 [[ ${#str} -eq 25 ]] && str=
-lleft=$(echo "$line" | awk '{printf $1}' | tr "/" " " )
+lleft=$(printf "%s" "$line" | awk '{printf $1}' | tr "/" " " )
 
-right="$(echo "$allrw"  | sed -n "$wlist,${wlist}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
+right="$(printf "%s" "$allrw"  | sed -n "$wlist,${wlist}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
 
 right=${right:-/}
 #eval ln=\${l$list}  # alias
 #eval rn=\${r$list}
 #echo $ln
 #echo $rn
-aline="$(printf "${line}" | tr -s "	" | tr "	" " " | tr "/" " " )"
+aline="$(printf "%s" "${line}" | tr -s "	" | tr "	" " " | tr "/" " " )"
 alldata="$lleft $right"
 list=$((list+1))
 wlist=$((wlist+1))
@@ -3816,7 +3816,7 @@ question=$(echo "$longtxt" | sed -n "$m,${m}p" | tr '/' ' ')
  echo  "${strs}"
 #echo -n "$question"         #printf 命令需要套一个双引号才能输出空格
 No=$(($((m/2))+$((m%2))))
-pureanswe=$(printf "$txt"| sed -n "$No,${No}p" )
+pureanswe=$(printf "%s" "$txt"| sed -n "$No,${No}p" )
 answer1="$(printf "%s" "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
 answer2="$(printf "%s" "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
 
@@ -3921,7 +3921,7 @@ question=$(echo "$txt"| sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}' | tr '/
 #[[  "$ish" == "y"    ]] && sleep 0.003
 echo  "${strs}"
 
-pureanswe=$(printf "$txt" | sed -n "$m2,${m2}p")
+pureanswe=$(printf "%s" "$txt" | sed -n "$m2,${m2}p")
 
 answer1="$(printf "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
 answer2="$(printf "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
@@ -4000,7 +4000,7 @@ question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '
 #[[  "$ish" == "y"    ]] &&  sleep 0.003
 echo  "${strs}"
 
-pureanswe=$(printf "$txt" | sed -n "$m2,${m2}p" )
+pureanswe=$(printf "%s" "$txt" | sed -n "$m2,${m2}p" )
 
 answer1="$(printf "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
 answer2="$(printf "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
