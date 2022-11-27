@@ -5,6 +5,7 @@ p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=${use:-2};wlist=1;a0=1;lastn=0;tno=0;
 #dirname $0
 #stty -echo
 Path="$(dirname $0)"
+#ftline=$(printf "\033[32m◐\033[0m")
 tline=$(printf "\033[32m●\033[0m")
 fline=$(printf "\033[31m●\033[0m")
 nline=$(printf "\033[33m○\033[0m")
@@ -654,7 +655,7 @@ done
 
 strs="$(printf "\033[2m$strs\033[0m")"
 COL=$((COLUMN-2))
-
+COL2=$((COLUMN/2-2))
 eval ' hello=`cat`' <<"blocks"
  _               _     
 | |__   __ _ ___| |__  
@@ -720,37 +721,37 @@ echo
 
 loading()
 {
-  #
-if [[  "$1" == ""  ]];then 
 while true;do
-sleep 0.16 &&  read -s -t0   && read -s -t1 && break
-printf "\r%s\r" "─.   "
-sleep 0.16 &&  read -s -t0   && read -s -t1 && break
-printf "\r%s\r" '\..  '
-sleep 0.16 &&  read -s -t0 && read -s  -t1 && break
-printf "\r%s\r" "|... "
-sleep 0.16 &&  read -s -t0  && read -s  -t1 && break
-printf "\r%s\r"  "/...." 
+sleep 0.15 &&  read -s -t0 && read -s  -t1 && break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" "◈   "
+sleep 0.15 &&  read -s -t0   && read -s -t1 && break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" '◇◈  '
+sleep 0.15 &&  read -s -t0   && read -s -t1 && break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" "◇◇◈ "
+sleep 0.15 &&  read -s -t0   && read -s -t1 && break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" '◇◇◇◈'
+sleep 0.15 &&  read -s -t0 && read -s  -t1 && break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" " ◇◇◈"
+sleep 0.15 &&  read -s -t0  && read -s  -t1 && break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" "  ◇◈" 
+sleep 0.15 &&  read -s -t0  && read -s  -t1 && break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" "   ◈" 
+sleep 0.15 &&  read -s -t0  && read -s  -t1 && break
+sleep 0.15 &&  read -s -t0  && read -s  -t1 && break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" "  ◈◇" 
+sleep 0.15 &&  read -s -t0  && read -s  -t1 && break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" " ◈◇◇" 
+sleep 0.15 &&  read -s -t0  && read -s  -t1 && break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" "◈◇◇◇" 
+sleep 0.15 &&  read -s -t0  && read -s  -t1 && break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" "◈◇◇ " 
+sleep 0.15 &&  read -s -t0  && read -s  -t1 && break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" "◈◇  " 
+sleep 0.15 &&  read -s -t0  && read -s  -t1 && break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" "◈   " 
 #read -n1 aaaaa
 done
-sleep 0.02
-else
-while true;do
-sleep 0.16 &&  read -s -t0   && read -d -s -t1 && break
-printf "\r%s\r" "$1.   "
-sleep 0.16 &&  read -s -t0   && read -s -t1 && break
-printf "\r%s\r" "$1..  "
-sleep 0.16 &&  read -s -t0 && read -s  -t1 && break
-printf "\r%s\r" "$1... "
-sleep 0.16 &&  read -s -t0  && read -s  -t1 && break
-printf "\r%s\r"  "$1...." 
-#read -n1 aaaaa
-done
-sleep 0.02
-
-fi
-
-#printf "\033[1A"
+#printf "\033[K"
 #sleep 0.02
 }
 
@@ -2195,6 +2196,10 @@ Lb=0
 #mulLb=0
 zscanf=
 #printf $enter"$question"\\033[3m\ \<───\>\ 
+
+[[  "$windows" == "y"  ]] && bscanf="$B" 
+
+
 while true;do
 
 #ascanf="!!"
@@ -2310,7 +2315,9 @@ ascanf=
 printf "\n\r\033[0m"
 FIND
 scanf=
+[[  "$windows" = "y"  ]] && stty echo
 ishprt "\033[1m$question"\\033[3m\\033[2m\ \<───\>\ \\\033[0m
+stty -echo
 continue
 
 elif [[  "$ascanf" == "$LF"  ]] || [[  "$ascanf" == "$CR"  ]] || [[  "$ascanf" == ""  ]] && [[  $tf == "0"  ]] ;then
@@ -2957,7 +2964,7 @@ done
 #[[   $UP == [\(\~]   ]] &&  UP="\033[1m\033[3m$UP\033[0m" && _UP=$(printf "${p:1:1}"  &&  _UP="\033[1m\033[3m$_UP\033[0m"
 #[[  $UP == "${p:0:1}"  ]]  && printf "$p\n" && return 0
 #[[  $_UP != ""  ]]  && printf "$UP$_UP\033[0m${p:1}\n" && return 0
-[[  $p != ""  ]]   && ishprt "%s\n" "${_m2}${_m3}${p:0:$nii}${_m0}${_m3}${UP}${_m0}${_m2}${_m3}${yellow}${p:$i_}${_m0}" && loading
+[[  $p != ""  ]]   && ishprt "%s\033[K\n" "${_m2}${_m3}${p:0:$nii}${_m0}${_m3}${UP}${_m0}${_m2}${_m3}${yellow}${p:$i_}${_m0}" && loading
 }
 
 sprep()
@@ -2974,7 +2981,7 @@ fi
 done
 fi
 replace1 p
-[[  $p != ""  ]] && printf "\033[3m\033[2m$p\n"
+[[  $p != ""  ]] && printf "\033[3m\033[2m$p\033[K\n"
 }
 yes()
 {
@@ -2996,7 +3003,7 @@ eval thept=\${pt$row}
     linenum="$(echo "$lineraw" | grep "[A-Za-z]" | wc -l)"
     #echo $linenum
     if [[  "${linenum:-0}" -eq 0  ]];then
-    echo '该单词还未收录哦，赶紧去补全吧！' && printf  "\033[0m@第"$gi"题\n" && return 0
+    echo '该单词还未收录哦，赶紧去补全吧！' # && printf  "\033[0m@第"$gi"题\n" && return 0
     else
     for li in $(seq 3)
     do
@@ -3052,7 +3059,9 @@ linenum1=$(echo "$lineraw1" | wc -l)
 #p="$lineraw" && prep && p="$theline" && prep
 #fi
 linenum=$(echo "$lineraw" | wc -l)
-[[  "$lineraw" == ""  ]] && lineraw="未找到详细释义，赶紧去补全吧"
+if [[  "${linenum:-0}" -eq 0  ]];then
+  echo '该单词还未收录哦，赶紧去补全吧！'
+else
 for li in `seq 3`;do
 if [[  "$linenum" -le 1  ]] || [[  "$lineraw" == ""  ]];then
 [[  $lineraw != ""  ]] &&  p="$lineraw" && prep
@@ -3070,12 +3079,13 @@ p="$theline" &&  sprep
  break
  fi
 done
+fi
 theleft=$((ii-gi))
 if [[  "$passd" -eq 1   ]] ; then
 theleft=$((constn-gcounts))
 fi
 printf "\033[0m"
-printf "%s\n" "@还有${theleft}题"
+printf  "@还有%d题\n" "$theleft"
 }
 
 
@@ -3723,11 +3733,11 @@ printf "\033[1B\033[2m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to 
 for i in $(seq $((COLUMN)));do
 
 	sleep 0.015  &&  read -s -t0   && read -s -t1 && break
-	[[  $i  -eq  1 ]] && printf "\033[2m\033[2A="
+	[[  $i  -eq  1 ]] && printf "\033[2m\033[2A━"
 	#printf "\033[1A"
 	#[[  $i  -eq  $((COLUMN)) ]] && printf "\r="
-	printf  "\033[?25l\033[2m\033[$((i-1))C=\r\033[2B\033[$((COLUMN-i))C=\033[2A\r"
-	[[  $i  -eq  $((COLUMN)) ]] && printf "\033[2m\033[2B\r=\033[2A"
+	printf  "\033[?25l\033[2m\033[$((i-1))C━\r\033[2B\033[$((COLUMN-i))C━\033[2A\r"
+	[[  $i  -eq  $((COLUMN)) ]] && printf "\033[2m\033[2B\r━\033[2A"
 done
 #sleep 0.01
 printf "\033[0m"
@@ -3813,7 +3823,9 @@ m="$(echo "$rangem" | sed -n "$m,${m}p")"
 fi
 question=$(echo "$longtxt" | sed -n "$m,${m}p" | tr '/' ' ')
 #[[  "$ish" == "y"    ]] && sleep 0.003
+#[[  "$windows" == "y"  ]] && stty echo
  echo  "${strs}"
+#stty -echo
 #echo -n "$question"         #printf 命令需要套一个双引号才能输出空格
 No=$(($((m/2))+$((m%2))))
 pureanswe=$(printf "%s" "$txt"| sed -n "$No,${No}p" )
@@ -3835,9 +3847,9 @@ answer=$answer2
 pureanswer="$(printf "\033[0m$answer1 \033[1m$answer2\033[0m")"
 #if [[  "$COLUMN" -ge "$length"  ]];then
 #read -e -p  "$question"\\033[3m\ \<───\>\   scanf
-[[  "$windows" == "y"  ]] && stty echo
-printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
-stty -echo
+#[[  "$windows" == "y"  ]] && stty -echo
+printf "\033[1m%s\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m" "$question"
+#stty -echo
 Readzh
 
 #else
@@ -3919,8 +3931,9 @@ if [[  $passd -eq 1  ]] ;then
 fi
 question=$(echo "$txt"| sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}' | tr '/' ' ')
 #[[  "$ish" == "y"    ]] && sleep 0.003
-echo  "${strs}"
-
+#[[  "$windows" == "y"  ]] && stty echo
+ echo  "${strs}"
+ #stty -echo
 pureanswe=$(printf "%s" "$txt" | sed -n "$m2,${m2}p")
 
 answer1="$(printf "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
@@ -3998,8 +4011,9 @@ fi
 
 question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
 #[[  "$ish" == "y"    ]] &&  sleep 0.003
-echo  "${strs}"
-
+#[[  "$windows" == "y"  ]] && stty echo
+ echo  "${strs}"
+# stty -echo
 pureanswe=$(printf "%s" "$txt" | sed -n "$m2,${m2}p" )
 
 answer1="$(printf "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
@@ -4014,9 +4028,9 @@ fi
 done
 length=$((la+la2+7))
 pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
-[[  "$windows" == "y"  ]] && stty echo
+#[[  "$windows" == "y"  ]] && stty echo
 printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
-stty -echo
+#stty -echo
 Readzh
 
 #answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
@@ -4044,11 +4058,11 @@ printf "\033[1B$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English
 for i in $(seq $((COLUMN)));do
 
 	sleep 0.015  &&  read -s -t0   && read -s -t1 && break
-	[[  $i  -eq  1 ]] && printf "\033[2m\033[2A="
+	[[  $i  -eq  1 ]] && printf "\033[2m\033[2A━"
 	#printf "\033[1A"
 	#[[  $i  -eq  $((COLUMN)) ]] && printf "\r="
-	printf  "\033[?25l\033[2m\033[$((i-1))C=\r\033[2B\033[$((COLUMN-i))C=\033[2A\r"
-	[[  $i  -eq  $((COLUMN)) ]] && printf "\033[2m\033[2B\r=\033[2A"
+	printf  "\033[?25l\033[2m\033[$((i-1))C━\r\033[2B\033[$((COLUMN-i))C━\033[2A\r"
+	[[  $i  -eq  $((COLUMN)) ]] && printf "\033[2m\033[2B\r━\033[2A"
 done
 #sleep 0.01
 printf "\033[0m"
@@ -4134,7 +4148,9 @@ fi
 eval question=\${lr$m}
 # question=$(echo ${l})
 #[[  "$ish" == "y"    ]] && sleep 0.003
-echo  "${strs}"
+#[[  "$windows" == "y"  ]] && stty echo
+ echo  "${strs}"
+# stty -echo
 question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
 
 [[  "$((m%2))" -eq 0  ]] && eval  pureanswe="\${lr$((m-1))}'	'\${lr$m}"
@@ -4155,9 +4171,9 @@ length=$((la+la2+7))
 if [[ "$question" = "$answer1" ]] ;then
 answer="$answer2"
 pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
-[[  "$windows" == "y"  ]] && stty echo
+#[[  "$windows" == "y"  ]] && stty echo
 printf "\033[1m$question\033[2m"\\033[3m\ \<───\>\ "\033[0m"
-stty -echo
+#stty -echo
 Readzh
 else
 #elif [[ "$question" = "$answer2" ]] ;then
@@ -4242,7 +4258,9 @@ fi
 eval question=\${lr$m2}
 # question=$(echo ${l})
 #[[  "$ish" == "y"    ]] &&  sleep 0.003
-echo  "${strs}"
+#[[  "$windows" == "y"  ]] && stty echo
+ echo  "${strs}"
+# stty -echo
 question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
 
 eval  pureanswe="\${lr$((m2-1))}'	'\${lr$m2}"
@@ -4342,7 +4360,9 @@ fi
 eval question=\${lr$m2}
 # question=$(echo ${l})
 #[[  "$ish" == "y"    ]] && sleep 0.003
-echo  "${strs}"
+#[[  "$windows" == "y"  ]] && stty echo
+ echo  "${strs}"
+# stty -echo
 question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
 
 eval pureanswe="\${lr$m2}'	'\${lr$((m2+1))}"
@@ -4359,9 +4379,9 @@ fi
 done
 length=$((la+la2+7))
 m2=$(($((m2+1))/2))
-[[  "$windows" == "y"  ]] && stty echo
+#[[  "$windows" == "y"  ]] && stty echo
 printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
-stty -echo
+#stty -echo
 Readzh
 
 bot=
@@ -4427,7 +4447,9 @@ targets=$retargets
 #fi
 #n=$(echo ${txt} | awk 'BEGIN{RS=" "}{print FNR}' | sed -n '$p')
 # echo $n
-echo  "${strs}"
+#[[  "$windows" == "y"  ]] && stty echo
+ echo  "${strs}"
+# stty -echo
 echo 检测到$((n/2))组单词
 [[ $(($n/2)) -le 200 ]] && return 0
 [[ $(($n/2)) -gt 200 ]] && read -t0.2 -n 1 -p "$strs"  choice  #按Y强制加载
