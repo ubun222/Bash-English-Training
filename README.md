@@ -31,7 +31,7 @@ bash 1.*.sh
 4. -p 通关模式 
 5. -s 词表验证模式
 6. -i 优化ish 
-7. -T 优化Termium 
+7. -T 优化Termius 
 8. -m 优化Windows Terminal,MacOS终端,安卓Termux 
 9. -j 加载.json源文件
 10. -h 获取帮助
