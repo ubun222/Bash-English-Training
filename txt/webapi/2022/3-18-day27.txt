@@ -3,7 +3,7 @@ vocabulary					词汇，词汇量，词汇表
 illustrate					说明，举例说明
 overflow						溢出，挤满
 fantasize						幻想
-amusing						逗...笑，给...提供消遣
+amusing						有趣的
 universal						普遍的，全体的，通用的
 generate						产生，生成，创造
 schedule						计划，安排
@@ -15,7 +15,7 @@ reproduce						复制，再现，繁衍
 worsen						使变得更糟
 feedback						反馈
 equivalent					相等物，相等的
-resign						辞职，听任
+resign						辞职
 motivate						促动
 compel						强迫，强求
 compel respect					肃然起敬

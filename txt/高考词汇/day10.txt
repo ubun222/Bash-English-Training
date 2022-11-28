@@ -12,7 +12,7 @@ yell					叫喊
 wide					宽的，广的，大的
 grape					葡萄
 a bunch of grapes					一串葡萄
-resign					辞职，听任
+resign					辞职
 resign oneself					听任
 percentage					百分比，比例
 stout					肥胖的，坚固的，勇敢的

@@ -1,6 +1,6 @@
 structure						结构，条理性，建筑物，安排
 architect						设计师
-frame							架构，身躯，画面，衬着
+frame							构架，身躯，画面，衬着
 amaze							使大为惊奇
 affirmation						肯定
 intelligent						有才智的

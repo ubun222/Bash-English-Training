@@ -4,11 +4,11 @@ burst					使破裂，冲破
 overwhelm				吞没，压垮，战胜
 dam						水坝
 evacuate				撤出，抽空
-authority				权力，权威
+authority				权力，权威，来源
 shelter					庇护所，躲避
 cite					引用，举例，嘉奖
 collapse				倒塌，折叠
-suspension				暂停
+suspension				暂停，悬架，悬浮
 inbound					到达的
 casualty				伤亡人数
 rescue					解救

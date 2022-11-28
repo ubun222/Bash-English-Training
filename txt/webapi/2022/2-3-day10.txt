@@ -4,7 +4,7 @@ diversity						多样性
 quit							停止，辞去，退出
 outgoing						友好的，离开的
 the outgoing tide				退潮
-solution						解决办法，溶液
+solution						解决办法，溶液，答案
 revenge						报复，报仇
 reverse						相反情况，失败，相反的，倒档
 enroll						注册，参加

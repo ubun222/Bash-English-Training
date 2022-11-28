@@ -23,7 +23,7 @@ poison								毒物，毒死，污染
 motorbike								摩托车
 sink									下沉，衰弱，毁掉，投入，挖掘
 sink in								渗入，被领会
-tongue								舌头，说话方式，语言	
+tongue								舌头，说话方式，语言
 violin								小提琴
 delicate								精美的，易损的，纤弱的，精密的
 embassy								大使馆

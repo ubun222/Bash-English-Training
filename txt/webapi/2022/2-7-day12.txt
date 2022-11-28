@@ -3,7 +3,7 @@ hire					租用，雇用
 represent				相当于，代表，占据，声称
 overestimate			高估
 supervision				监督，照料
-expose				揭露
+expose				揭露，暴露
 seemingly				表面上，据我所知
 assignment				任务，作业，分配
 preference				偏爱

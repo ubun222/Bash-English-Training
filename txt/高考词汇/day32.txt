@@ -22,7 +22,7 @@ pyramid				金字塔，锥体
 afford				支付得起，提供
 cut				切，挖出，减少
 ban				明令禁止，禁令
-tablet				刻写版，药片，小块
+tablet				刻写板，药片，小块
 head				头，头脑
 foreigner				外国人
 willing				乐意的，志愿的

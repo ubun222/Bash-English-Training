@@ -11,7 +11,7 @@ academic						学业的
 segment							部门，分割
 cater							满足...的需要
 advantage						有利条件
-spook							间谍，受精
+spook							间谍，受惊
 severity						严重，严厉
 fund							基金，储备
 severely						严重的，严厉的

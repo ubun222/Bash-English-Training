@@ -34,7 +34,7 @@ as a matter of fact							确切的说
 kilo							公斤
 kilo-							千
 scientific							科学的
-feed							服务费，给...食物，供给，一餐
+feed							给...食物，供给，满足，一餐
 \\\\
 
 a period of ten years:十年期

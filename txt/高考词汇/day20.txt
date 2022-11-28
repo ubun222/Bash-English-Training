@@ -14,7 +14,7 @@ tick				瞬间，打钩，滴答声
 on tick				赊账
 in half a tick				一瞬间
 relax				使...松懈，放宽，放松
-drawing
+drawing				画图
 rough				粗糙的，大概的，粗暴的，简陋的，艰难的
 systematic				有条理的
 barber				理发师

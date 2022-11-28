@@ -22,7 +22,7 @@ ring							戒指，环状物，圈，环绕，铃声
 planet						行星
 pension						养老金
 perception						感觉，洞察，看法
-facility						场所，特色服务，设施，便利，才能
+facility						场所，特色服务，便利，才能
 with facility					不费力的
 proportion						部分，比例，均衡
 in proportion					成等比的

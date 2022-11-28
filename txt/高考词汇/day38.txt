@@ -12,7 +12,7 @@ miniskirt							超短裙
 research							研究
 refrigerator							冰箱
 round							圆形的，整数的，可观的，围绕，旋转的
-casual							偶然的，随意的，零时工，便装
+casual							偶然的，随意的，临时工，便装
 cancel							取消
 colleague							同事
 whether							是否，无论

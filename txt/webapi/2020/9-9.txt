@@ -14,12 +14,12 @@ statement			说明，表态
 trial				试验
 clinical			临床的
 unaffiliated			非附属的
-presentation			报告，演讲
+presentation			赠与，陈述，外观，表演
 indicate			表明，暗示
 made great strides		取得巨大进展
 caution			小心
 longevity			寿命
-stimulate			促进
+stimulate			刺激，促进...的功能
 nerve				神经
 conduct			组织
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\

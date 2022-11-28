@@ -4,7 +4,7 @@ federal			联邦制的
 scrap				碎片，打架，取消
 memorandum			备忘录
 framework			构架
-sign				符号，签订
+sign				符号，迹象，征兆，签订
 reform				改良，改革
 commission			委员会，委托，使用中
 minister			部长
@@ -28,7 +28,7 @@ territory			领土，地盘
 deal with			处理
 participation			参加
 infrastructure		基础设施
-project			项目
+project			项目，投掷，展现
 founder			创建者
 unwise				愚蠢的
 initiative			主动性

@@ -22,7 +22,7 @@ shift				挪动，转移
 sharply				突然
 across				横穿过，在...对面
 broaden				扩大，增加
-range				种类，系列，范围
+range				种类，系列，范围，排列，延伸
 rival				竞争对手
 documentary			纪录片
 programme			计划，节目，频道

@@ -6,7 +6,8 @@ instruct							教导，吩咐
 infinite							无限的，极大的
 hazard							危险
 undervalue							对...估价太低，轻视
-specific							详细的，详情
+specific							详细的，特有的
+specifics					详情
 appealing							有吸引力的，恳求的
 fitness							健康，适合
 physical fitness					身体健康

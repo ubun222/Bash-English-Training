@@ -24,7 +24,7 @@ point out			指出
 depart				出发，背离
 internal			里面的
 neighboring			邻近的
-capital			首都
+capital			大写字母，首都，好处
 ideal				理想的
 paradise			天堂，乐园
 \\\\\\\\\\\\\\
