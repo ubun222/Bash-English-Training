@@ -1,3 +1,11 @@
+while getopts ":a" opt; do
+    case $opt in
+    a)
+    printf "不收录详细释义\n"  && notxt=1
+        ;;
+esac
+done
+
 for i in $(seq 999)
 do
 ref=
@@ -35,7 +43,7 @@ refd=$(printf "%s" "$ref" | grep "^${theword}\t" | head -n1)
 if [[  "$refd"  != ""  ]];then
 (echo  "$txt1" | xargs sed -i"" s/^"$line*"$/"$refd"/  || echo  "$txt1" | xargs sed -i "" s/^"$line*"$/"$refd"/) 2>/dev/null
 
-
+if [[  $notxt -ne 1  ]] ;then
   ylineraw=
   vlineraw=
   linenum=
@@ -57,7 +65,7 @@ ylineraw="$(printf "%s" "$ylineraw" | grep -v ^"${theword} |" )"
 vlineraw="$(cat "$reftxt" | grep  -A 30 ^"${theword} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $1}' | grep -v  "[	\\]" )"
 echo -e "\n$ylineraw\n$vlineraw\n" >> $txt1 && outped=1  # && printf "\033[32m(已收录%s的详细释义和例句)\033[0m" "$theword" 
 fi
-
+fi
 
 [[  "${outped}" -eq 1  ]] && printf "\033[1m$theword\033[0m \033[32m已收录(包括详细释义和例句)\033[0m\n"
 [[  "${outped}" -eq 0  ]] && printf "\033[1m$theword\033[0m \033[33m*已收录(不包括详细释义和例句)\033[0m\n"
