@@ -496,14 +496,14 @@ tokenize () {
   local ESCAPE
   local CHAR
 
-  if echo "test string" | egrep -ao --color=never "test" >/dev/null 2>&1
+  if echo "test string" | grep -E -ao --color=never "test" >/dev/null 2>&1
   then
-    GREP='egrep -ao --color=never'
+    GREP='grep -E -ao --color=never'
   else
-    GREP='egrep -ao'
+    GREP='grep -E -ao '
   fi
 
-  if echo "test string" | egrep -o "test" >/dev/null 2>&1
+  if echo "test string" | grep -E -o  "test" >/dev/null 2>&1
   then
     ESCAPE='(\\[^u[:cntrl:]]|\\u[0-9a-fA-F]{4})'
     CHAR='[^[:cntrl:]"\\]'
@@ -521,7 +521,7 @@ tokenize () {
   # Force zsh to expand $A into multiple words
   local is_wordsplit_disabled=$(unsetopt 2>/dev/null | grep -c '^shwordsplit$')
   if [ $is_wordsplit_disabled != 0 ]; then setopt shwordsplit; fi
-  $GREP "$STRING|$NUMBER|$KEYWORD|$SPACE|." | egrep -v "^$SPACE$"
+  $GREP "$STRING|$NUMBER|$KEYWORD|$SPACE|." | grep -E -v "^$SPACE$"
   if [ $is_wordsplit_disabled != 0 ]; then unsetopt shwordsplit; fi
 }
 
@@ -1296,6 +1296,7 @@ done
 ress=1
 lexicall=0
 catals="$(printf "$TheCates" | tr "," "\n")"
+catals0="$catals"
 vcates=
 while [[  "$lexicall" -lt "$validlex"  ]];do
 vcates="$thecate\n$vcates"
@@ -1351,10 +1352,12 @@ done
 deri=;phra=;gF=;inf=;pronun=
 thecate=$(echo "$catals" | sed -n "${order},${order}p" )
 catals="$(printf "$catals" | grep -v "$thecate")"
+torder=$(echo "$catals0" | grep -n "$thecate")
+torder=${torder:0:1}
 down=$((catalsl+1-$order))
 printf "\033[${down}B$enter"
-[[  $order -eq 1  ]] && order=0
-eval thexical=\"\$entry${jsi}_$((order-catalsl+1))\"
+#[[  $order -eq 1  ]] && order=0
+eval thexical=\"\$entry${jsi}_$((torder-1))\"
 #printf "$thexical"
 deri="$(printf "$thexical" | grep -e "\"derivatives\",0,\"text\"" | awk -F"	" '{printf $2}' )"
 phra="$(printf "$thexical" | grep -e "\"phrases\"" | awk -F"	" '{printf $2}')"
@@ -2073,14 +2076,14 @@ now=
 
 wherec="${pos2/#*;/""}"
 if [[  "$pos1" != "$pos2"  ]] ;then
-[[  $wherec -eq $((COLUMN+1))  ]] && [[  "$ascanf" == "."  ]] && now3=2 && break
+[[  $wherec -eq $((COLUMN+1))  ]] && [[  "$ascanf" == "."   ]] && now3=2 && break
 #[[  $wherec -eq $COLUMN  ]]  && printf   " " && needo=1 && break
 if [[   "$which" == "zh"  ]] && [[  "$ascanf" !=  "."   ]]  &&  [[  "$vback" != "1"  ]]  ; then
-[[  $wherec -eq $COLUMN  ]]  && printf   " " && needo=1 && break
+[[  $whereb -eq $COLUMN  ]]  && needo=1
 #[[  $whereb -eq $((COLUMN+1))  ]]  && printf   " " && break
 #whereb="${pos1/#*;/""}"
 Pos="$((wherec-whereb))"
-[[  "$Pos" -eq "1"  ]] && now3=1
+[[  "$wherec" -eq "$((COLUMN+1))"  ]]  && now3=1
 fi
 
 break
@@ -2197,7 +2200,7 @@ Lb=0
 zscanf=
 #printf $enter"$question"\\033[3m\ \<───\>\ 
 
-[[  "$windows" == "y"  ]] && bscanf="$B" 
+[[  "$windows" == "y"  ]] && bscanf="$B" && waiting=1
 
 
 while true;do
@@ -2207,7 +2210,7 @@ while true;do
 #IFSbak=$IFS
 #IFS=$ENTER
 stty -echo
-if [[  "$ish" != "y"  ]] && [[  "$termium" != "y"  ]] && [[  "$windows" != "y"  ]] ;then
+if [[  "$ish" != "y"  ]] && [[  "$termius" != "y"  ]] && [[  "$windows" != "y"  ]] ;then
 read_
 tf=$?
 elif [[  "$ish" == "y"  ]] ;then
@@ -2216,7 +2219,7 @@ tf=$?
 #elif [[  "$termux" == "y"  ]] ;then
 #r_ead 
 #tf=$?
-elif [[  "$termium" == "y"  ]] ;then
+elif [[  "$termius" == "y"  ]] ;then
 __read 
 tf=$?
 elif [[  "$windows" == "y"  ]] ;then
@@ -2413,7 +2416,7 @@ while true;do
 #IFSbak=$IFS
 #IFS=$newline
 stty -echo
-if [[  "$ish" != "y"  ]] && [[  "$termium" != "y"  ]] && [[  "$windows" != "y"  ]] ;then
+if [[  "$ish" != "y"  ]] && [[  "$termius" != "y"  ]] && [[  "$windows" != "y"  ]] ;then
 read_
 tf=$?
 elif [[  "$ish" == "y"  ]] ;then
@@ -2422,7 +2425,7 @@ tf=$?
 #elif [[  "$termux" == "y"  ]] ;then
 #r_ead 
 #tf=$?
-elif [[  "$termium" == "y"  ]] ;then
+elif [[  "$termius" == "y"  ]] ;then
 __read 
 tf=$?
 elif [[  "$windows" == "y"  ]] ;then
@@ -2512,9 +2515,11 @@ continue
 fi
 elif [[  $ascanf == "$LF"  ]] || [[  $ascanf == "$CR"  ]] || [[  $ascanf == ""  ]] && [[  $tf == "0"  ]] ;then
 #if [[  $((it%COLUMN)) -eq 0   ]] ; then 
-now2=                
+now2=
+if [[  $premode -eq 3  ]];then                
 printf "\033[6n";read -s -d\[ garbage;read -s -d R foo
-fooo=$(printf "$foo" | awk -F';' '{printf $2}')         
+fooo=$(printf "$foo" | awk -F';' '{printf $2}') 
+fi        
 #printf $fooo && sleep 5                                 
 #[[  $fooo -eq 1  ]] && printf "\033[1A"                 
 #fi
@@ -4535,7 +4540,7 @@ helptxt="-p 通关模式(全做对后退出)
 -a 答题辅助(自动判断输入)
 -s 验证词表格式(避免多余的空格)
 -i 优化ish(主要修复IOS的ish中存在中文断行等问题)
--T 优化Termium 
+-T 优化Termius 
 -m 优化Windows Terminal,MacOS终端,安卓Termux 
 -j 加载有详细释义的.Json文件(Oxford Dictionary API*)
 (*当红黄绿指示亮起时，按Y/y获取详细释义，V/v获取详细例句，S/s跳过，j加载json文件)
@@ -4572,7 +4577,7 @@ while getopts ":RrsipajhTm" opt; do
 #        echo 优化termux && windows=y && argn=$((argn+1))
 #        ;;
         T)
-        printf  "\033[3m*Termium\n\033[0m" && termium=y && argn=$((argn+1))
+        printf  "\033[3m*Termius\n\033[0m" && termius=y && argn=$((argn+1))
         ;;
         m)
         printf "\033[3m*Termux/Windows Terminal/macOS(Bash)\n\033[0m" && windows=y && argn=$((argn+1))
