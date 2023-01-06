@@ -68,7 +68,7 @@ the prevalence of obesity in adults:成人肥胖流行率
 make a physical attack on:进行物理攻击
 carry out a military attack or raid on (an enemy position):进行军事攻击或突袭（敌方阵地）
 bombard with something undesirable or unpleasant:bombard有一些不受欢迎或不愉快的事情
-a physical attack:
+a physical attack:物理攻击
 an act that threatens physical harm to a person, whether or not actual harm is done:威胁人身伤害的行为，无论是否造成实际伤害
 a military attack or raid on an enemy position:a军事攻击或突袭敌方阵地
 a strong verbal attack:强烈的言语攻击
@@ -126,7 +126,6 @@ a person, typically a lawyer, appointed to act for another in business or legal 
 a lawyer.:律师。
 a solicitor.:律师。
 attorney |əˈtəːni| Noun/:律师
-:
 
 a person, especially a public official, who institutes legal proceedings against someone:对某人提起法律诉讼的人，尤其是公职人员
 a barrister or other lawyer who conducts the case against a defendant in a criminal court:在刑事法庭对被告进行诉讼的大律师或其他律师
@@ -135,7 +134,7 @@ prosecutors are fully entitled to bring any number of offences against a single 
 the prosecutor rose to give the opening address:检察官起身致开幕词
 
 the institution and conducting of legal proceedings against someone in respect of a criminal charge:针对某人的刑事指控的机构和进行法律诉讼
-the party instituting or conducting legal proceedings against someone in a lawsuit:
+the party instituting or conducting legal proceedings against someone in a lawsuit:在诉讼中对某人提起或进行法律诉讼的一方
 the continuation of a course of action with a view to its completion:为了完成而继续行动的过程
 prosecution |prɒsɪˈkjuːʃ(ə)n| Noun/:检控,起诉
 the organizers are facing prosecution for noise nuisance:主办方因噪音滋扰面临检控
@@ -171,7 +170,7 @@ a young man tackled him over why the council had spent money on a swimming pool:
 the first scoring chance came when Orrell tackled Webb:第一次得分机会是奥雷尔对付韦伯的时候
 
 a writing desk with drawers and typically an angled top opening downwards to form a writing surface.:带抽屉的写字台，通常有一个向下开口的倾斜顶部以形成书写表面。
-a chest of drawers.:
+a chest of drawers.:一个五斗柜。
 an office or department for transacting particular business:处理特定业务的办公室或部门
 a government department:a政府部门
 bureau |ˈbjʊərəʊz| Noun/:局
@@ -185,7 +184,7 @@ examine or evaluate (an option or possibility):检查或评估（选项或可能
 examine by touch:触摸检查
 surgically examine (a wound or part of the body) in detail:surgically详细检查（伤口或身体的一部分）
 explore |ɪkˈsplɔː| Verb/:探索
-he explored the Fontainebleau forest:
+he explored the Fontainebleau forest:他探索了枫丹白露森林
 the company has been granted licences to explore for petroleum:公司已获得石油勘探许可证
 he sets out to explore fundamental questions:he着手探索基本问题
 the firm will explore joint development projects:公司将探索联合开发项目
@@ -295,7 +294,7 @@ the ability to see, hear, or become aware of something through the senses:通过
 awareness of something through the senses:通过感官感知事物
 the neurophysiological processes, including memory, by which an organism becomes aware of and interprets external stimuli.:神经生理过程，包括记忆，有机体通过这些过程意识到并解释外部刺激。
 the way in which something is regarded, understood, or interpreted:看待、理解或解释某事的方式
-intuitive understanding and insight:
+intuitive understanding and insight:直观的理解和洞察力
 perception |pəˈsɛpʃ(ə)n| Noun/:洞察力,知觉
 the normal limits to human perception:人类感知的正常极限
 the perception of pain:痛觉
@@ -304,7 +303,7 @@ Hollywood's perception of the tastes of the American public:好莱坞对美国�
 
 a conclusion or resolution reached after consideration:经过考虑后得出的结论或决议
 the action or process of deciding something or of resolving a question:决定某事或解决问题的行动或过程
-the ability or tendency to make decisions quickly; decisiveness:
+the ability or tendency to make decisions quickly; decisiveness:快速做出决定的能力或倾向；果断
 decision |dɪˈsɪʒ(ə)n| Noun/:决定
 I'll make the decision on my own:我自己做决定
 the information was used as the basis for decision:信息被用作决策依据
@@ -331,7 +330,7 @@ likelihood |ˈlʌɪklɪhʊd| Noun/:可能性,似然
 young people who can see no likelihood of finding employment:看不到就业机会的年轻人
 
 a formal declaration by the verdict of a jury or the decision of a judge in a court of law that someone is guilty of a criminal offence:陪审团的裁决或法院法官的正式声明某人犯有刑事罪行
-a firmly held belief or opinion:
+a firmly held belief or opinion:坚定的信念或意见
 the quality of showing that one is firmly convinced of what one believes or says:表明一个人坚信自己所相信或所说的话的质量
 conviction |kənˈvɪkʃ(ə)n| Noun/:定罪,信念
 she had a previous conviction for a similar offence:she曾因类似罪行被定罪
@@ -357,11 +356,11 @@ refuse to agree to (a request):拒绝同意（请求）
 fail to show due affection or concern for (someone); rebuff:未能对（某人）表现出应有的感情或关心；9
 show an immune response to (a transplanted organ or tissue) so that it fails to survive:显示对（移植的器官或组织）的免疫反应，使其无法存活
 a person or thing dismissed as inadequate or unacceptable:一个人或事物被认为不合适或不可接受
-an item sold cheaply because of minor flaws:
+an item sold cheaply because of minor flaws:由于小瑕疵而低价出售的物品
 reject |rɪˈdʒɛkt| Noun/Verb/:拒绝,次品
 union negotiators rejected a 1.5 per cent pay award:union谈判代表拒绝了1.5%的薪酬奖励
 an application to hold a pop concert at the club was rejected:在俱乐部举办流行音乐会的申请被拒绝
-she didn't want him to feel he had been rejected after his sister was born:
+she didn't want him to feel he had been rejected after his sister was born:她不想让他觉得在他妹妹出生后他被拒绝了
 his body could begin to reject the implanted heart:他的身体可能会开始排斥植入的心脏
 some of the team's rejects have gone on to prove themselves in championships:一些被拒绝的球队已经在冠军赛中证明了自己
 
@@ -382,7 +381,7 @@ when you start a fresh letter the system will default to its own style:当你开
 when it comes to a crisis, he defaults to being a professional politician:遇到危机，他默认是职业政治家
 
 say something in reply:说些回复
-(of a congregation) say or sing the response in reply to a priest.:
+(of a congregation) say or sing the response in reply to a priest.:（会众）说出或唱出对牧师的回应。
 (of a person) do something as a reaction to someone or something:(ofaperson)做某事作为对某人或某事的反应
 react quickly or positively to a stimulus or treatment:对刺激或治疗反应迅速或积极
 make (a bid) in answer to one's partner's preceding bid:make（出价）以回应对方的先前出价
@@ -395,7 +394,7 @@ to partner's opening one heart it is dangerous to respond two clubs:向合伙人
 
 continuing; still in progress:继续;仍在进行中
 ongoing |ˈɒnɡəʊɪŋ| Adjective/:进行中,正在进行
-ongoing negotiations:
+ongoing negotiations:正在进行的谈判
 
 a tool, utensil, or other piece of equipment that is used for a particular purpose:用于特定目的的工具、器具或其他设备
 performance of an obligation.:履行义务。
@@ -407,7 +406,7 @@ the scheme to implement student loans:学生贷款实施方案
 a change which is a result or consequence of an action or other cause:a改变，这是一个行动或其他原因的结果或结果
 the state of being or becoming operative.:存在或变得有效的状态。
 the extent to which something succeeds or is operative:某事成功或有效的程度
-a physical phenomenon, typically named after its discoverer:
+a physical phenomenon, typically named after its discoverer:一种物理现象，通常以其发现者的名字命名
 an impression produced in the mind of a person:在一个人的脑海中产生的印象
 the lighting, sound, or scenery used in a play, film, or broadcast:戏剧、电影或广播中使用的灯光、声音或布景
 personal belongings:个人物品
@@ -418,11 +417,11 @@ wind power can be used to great effect:风力发电效果好
 the Renner effect:雷纳效应
 gentle music can have a soothing effect:柔和的音乐可以有舒缓的效果
 the production relied too much on spectacular effects:制作过于依赖壮观的效果
-the insurance covers personal effects:
+the insurance covers personal effects:保险涵盖个人物品
 the prime minister effected many policy changes:总理影响了许多政策变化
 
 a deeply distressing or disturbing experience:一次非常痛苦或令人不安的经历
-emotional shock following a stressful event or a physical injury, which may lead to long-term neurosis:
+emotional shock following a stressful event or a physical injury, which may lead to long-term neurosis:压力事件或身体伤害后的情绪冲击，这可能导致长期神经症
 physical injury:身体伤害
 trauma |ˈtraʊmətə| Noun/:,外伤,损伤
 a personal trauma like the death of a child:一个像孩子死亡一样的个人创伤

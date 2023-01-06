@@ -37,7 +37,7 @@ a contest in which people or teams compete against each other in a particular sp
 a person or thing that is equal to another in quality or strength:在质量或力量上与另一个人或事物相同的人或事物
 a person or thing that resembles or corresponds to another:与另一个人或事物相似或对应的人或事物
 a string that fulfils the specified conditions of a computer search:满足计算机搜索指定条件的字符串
-a similar or complementary pair:
+a similar or complementary pair:相似或互补的一对
 the fact or appearance of corresponding:相应的事实或现象
 a person viewed in regard to their eligibility for marriage, especially as regards class or wealth:a人在婚姻资格方面的看法，尤其是在阶级或财富方面
 a marriage:一场婚姻
@@ -51,7 +51,7 @@ a short, thin piece of wood or cardboard used to light a fire, being tipped with
 a piece of wick or cord designed to burn at a uniform rate, used for firing a cannon or lighting gunpowder.:一根设计为以均匀速率燃烧的灯芯或绳索，用于发射大炮或点燃火药。
 match |matʃ| Noun/Verb/:比赛,匹配,火柴
 a boxing match:一场拳击比赛
-they were no match for the mercenaries:
+they were no match for the mercenaries:他们不是雇佣兵的对手
 the child's identical twin would be a perfect match for organ donation:孩子的同卵双胞胎是器官捐献的绝配
 when the software finds a match, it writes the correct character:当软件找到匹配时，它会写出正确的字符
 the headdresses and bouquet were a perfect match:头饰和花束是绝配
@@ -67,7 +67,7 @@ he struck a match against the wall:他在墙上打了一根火柴
 
 sail about in an area without a precise destination, especially for pleasure:在没有确切目的地的地区航行，尤其是为了消遣
 take a holiday on a ship or boat following a predetermined course, usually calling in at several places.:按照预定的路线在船上或船上度假，通常在几个地方打电话。
-travel or move around a place slowly, typically in search of something:
+travel or move around a place slowly, typically in search of something:缓慢地在一个地方旅行或移动，通常是为了寻找某物
 wander about a place in search of a casual sexual partner:wander四处寻找随便的性伴侣
 walk past and assess (a potential sexual partner):走过并评估（潜在的性伴侣）
 (of a motor vehicle or aircraft) travel smoothly at a moderate or economical speed:（汽车或飞机）以中等或经济速度平稳行驶
@@ -110,7 +110,7 @@ their tails were docked:他们的尾巴被停靠
 the nine others in the dock face a combination of charges:码头上的其他九人面临多项指控
 
 the action of providing or being provided with amusement or enjoyment:提供或被提供娱乐或享受的行为
-an event, performance, or activity designed to entertain others:
+an event, performance, or activity designed to entertain others:旨在娱乐他人的事件、表演或活动
 the action of receiving a guest or guests and providing them with food and drink:接待客人并提供食物和饮料的动作
 entertainment |ɛntəˈteɪnm(ə)nt| Noun/:娱乐
 everyone just sits in front of the television for entertainment:大家只是坐在电视机前娱乐
@@ -134,7 +134,7 @@ the amount by which one thing overlaps a part of another:一物与另一物的�
 a defect formed in rolling when a projecting part is accidentally folded over and pressed against the surface of the metal.:凸出部分意外折叠并压在金属表面时在轧制中形成的缺陷。
 a single turn of rope, thread, or cable round a drum or reel.:绕鼓或卷轴绕一圈绳索、线或电缆。
 a layer or sheet of cotton or wool, wound on a roller during manufacture.:一层或一片棉花或羊毛，在制造过程中缠绕在滚筒上。
-(in a lapping machine) a rotating disc with a coating of fine abrasive for polishing.:
+(in a lapping machine) a rotating disc with a coating of fine abrasive for polishing.:（在研磨机中）带有用于抛光的精细磨料涂层的旋转盘。
 a polishing tool of a special shape, coated or impregnated with an abrasive.:一种特殊形状的抛光工具，涂有或浸渍有磨料。
 overtake (a competitor in a race) to become one or more laps ahead:overtake（比赛中的竞争者）领先一圈或多圈
 (of a competitor in a race) complete a lap, especially in a specified time:（比赛中的选手）完成一圈，尤其是在指定的时间
@@ -175,7 +175,7 @@ stock market | 股市,股票市场
 
 
 stay in a place longer than necessary because of a reluctance to leave:由于不愿离开而在一个地方停留的时间过长
-spend a long time over (something):
+spend a long time over (something):花很长时间（某事）
 be slow to disappear or die:慢慢消失或死亡
 linger |ˈlɪŋɡə| Verb/:萦绕,逗留
 she lingered in the yard, enjoying the warm sunshine:她徘徊在院子里，享受着温暖的阳光
@@ -187,14 +187,14 @@ the quality of lacking meaning or sincerity; meaninglessness:缺乏意义或真�
 the quality of having no value or purpose; futility:没有价值或目的的品质；无用
 emptiness |ˈɛm(p)tɪnəs| Noun/:空虚
 the vast emptiness of space:浩瀚的空间
-he realizes the emptiness of his statement:
+he realizes the emptiness of his statement:他意识到自己的陈述是空洞的
 feelings of emptiness and loneliness:空虚寂寞的感觉
 
 a long pipe, typically underground, for conveying oil, gas, etc. over long distances.:一根长管道，通常在地下，用于长距离输送石油、天然气等。
 a channel or system supplying goods or information:提供商品或信息的渠道或系统
 a linear sequence of specialized modules used for pipelining.:用于流水线的专用模块的线性序列。
 the hollow formed by the breaking of a large wave.:大波浪破裂形成的空洞。
-convey (a substance) by a pipeline:
+convey (a substance) by a pipeline:通过管道输送（物质）
 design or execute (a computer or instruction) using the technique of pipelining:使用流水线技术设计或执行（计算机或指令）
 pipeline |ˈpʌɪplʌɪn| Noun/Verb/:管道
 the biggest heroin pipeline in history:历史上最大的海洛因管道
@@ -210,7 +210,6 @@ a remark that is not directly related to the main topic of discussion:与主要�
 aside |əˈsʌɪd| Adverb/Noun/:在旁边,放在一边
 he pushed his plate aside:他把盘子推到一边
 she set aside some money for rent:she留了一些钱租
-:
 Shakespeare's use of asides and soliloquies:莎士比亚对旁白和独白的使用
 ‘Does that make him a murderer?’ whispered Alice in an aside to Fred:“这会让他成为凶手吗？”爱丽丝在旁边小声对弗雷德说
 the recipe book has little asides about the importance of home and family:食谱书几乎没有关于家庭和家庭重要性的旁白
@@ -256,8 +255,8 @@ a member of the British House of Lords who votes for a particular motion.:英国
 the things that are held or included in something:持有或包含在某物中的东西
 the amount of a particular constituent occurring in a substance:物质中特定成分的含量
 a list of the chapters or sections given at the front of a book or periodical:一本书或期刊前面给出的章节或章节列表
-the material dealt with in a speech, literary work, etc. as distinct from its form or style:
-information made available by a website or other electronic medium:
+the material dealt with in a speech, literary work, etc. as distinct from its form or style:演讲、文学作品等中与其形式或风格不同的材料
+information made available by a website or other electronic medium:通过网站或其他电子媒体提供的信息
 content |kənˈtɛnt| Adjective/Noun/Verb/:内容,满意的,含量
 he seemed more content, less bitter:他似乎更满足，更少苦涩
 he had to be content with third place:他必须满足于第三名
@@ -269,7 +268,7 @@ soya milk has a low fat content:豆浆脂肪含量低
 the tone, if not the content, of his book is familiar:他的书的语气，如果不是内容，很熟悉
 
 a period of excessive indulgence in an activity, especially eating, drinking, or taking drugs:一段时间过度沉迷于某项活动，尤其是吃、喝或吸毒
-indulge in an activity, especially eating, drinking, or taking drugs, to excess:
+indulge in an activity, especially eating, drinking, or taking drugs, to excess:沉迷于一项活动，特别是吃、喝或吸毒，过度
 watch multiple episodes of a television programme over a short period of time:在短时间内观看多集电视节目
 binge |bɪn(d)ʒ| Noun/Verb/:暴饮暴食,狂欢
 he went on a binge and was in no shape to drive:他暴饮暴食，无法开车
@@ -345,7 +344,7 @@ used with an expression of measurement:用于测量表达式
 used to express position or orientation:用于表示位置或方向
 referring to a crossword answer which reads horizontally:referring纵横字谜答案
 across |əˈkrɒs| Adverb/Preposition/:穿过,遍及,对面
-I ran across the street:
+I ran across the street:我跑过马路
 they lived across the street from one another:他们住在街对面
 he had swum across:他游过
 a crater some 30 metres across:一个大约30米宽的火山口
@@ -365,7 +364,7 @@ range | 范围,变动,音域
 
 
 a person or thing competing with another for the same objective or for superiority in the same field of activity:一个人或事物为了同一目标或在同一活动领域的优势而与另一个竞争
-a person or thing that equals another in quality:
+a person or thing that equals another in quality:质量相同的人或事物
 be or seem to be equal or comparable to:be或似乎等于或可比
 rival |ˈrʌɪv(ə)l| Noun/Verb/:竞争对手,比得上,对手,媲美
 he has no serious rival for the job:他在这份工作上没有真正的竞争对手
@@ -410,7 +409,7 @@ indefatigable |ˌɪndɪˈfatɪɡəb(ə)l| Adjective/:不懈,不倦,不知疲倦
 an indefatigable defender of human rights:一个不知疲倦的人权捍卫者
 
 a close-knit group of interrelated families, especially in the Scottish Highlands:一个紧密联系的家庭，尤其是在苏格兰高地
-a large family:
+a large family:一个大家庭
 a group of people with a strong common interest:一群有着强烈共同兴趣的人
 clan |klan| Noun/:,家族,族
 the clan Macleod:麦克劳德氏族
@@ -421,7 +420,7 @@ obtain from (a number) another which contains the first number a specified numbe
 increase or cause to increase greatly in number or quantity:增加或导致数量或数量大幅增加
 (of an animal or other organism) increase in number by reproducing:（动物或其他有机体）通过繁殖增加数量
 propagate (plants):propagate（植物）
-in several different ways or respects:
+in several different ways or respects:以几种不同的方式或方面
 multiply |ˈmʌltɪplʌɪ| Adverb/Verb/:乘,乘以
 multiply fourteen by nineteen:14乘以19
 listeria and other bacteria were able to multiply in very low temperatures:listeria和其他细菌能够在极低的温度下繁殖
@@ -474,7 +473,7 @@ the South Western line was singled west of Salisbury:西南线在索尔兹伯里
 Cohen singled to centre:Cohen单挑中锋
 
 income, especially when of an organization and of a substantial nature:income，尤其是在组织和实质性的情况下
-a state's annual income from which public expenses are met:
+a state's annual income from which public expenses are met:用于支付公共开支的州年收入
 the department of the civil service collecting state revenue:公务员征收国家收入的部门
 revenue |ˈrɛvənjuː| Noun/:收入
 traders have lost £10,000 in revenue since the traffic scheme was implemented:traders自从实施交通计划以来已经损失了10,000英镑的收入

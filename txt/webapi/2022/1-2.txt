@@ -27,7 +27,6 @@ feral					野生的
 an area of sandy, stony, or rocky land bordering and level with the sea.:一块与海接壤并与海平齐的沙地、多石或多岩石的土地。
 the land between high- and low-water marks.:高低水位线之间的陆地。
 seashore |ˈsiːʃɔː| Noun/:海滨,海边
-:
 
 moving in a constant direction on (a road, path, or any more or less horizontal surface):在（道路、路径或任何或多或少的水平表面）上以恒定方向移动
 used to refer to the passage of time or the making of progress:用于指代时间的流逝或取得进展
@@ -36,9 +35,9 @@ moving in a constant direction on a road, path, or any more or less horizontal s
 used to refer to the passage of time or the making of progress:用于指时间的流逝或取得进展
 in or into company with others:in或与他人结伴
 along |əˈlɒŋ| Adverb/Preposition/:沿着,一起,沿
-soon we were driving along a narrow road:
+soon we were driving along a narrow road:很快我们就沿着一条狭窄的道路行驶
 you'll pick up some valuable tips along the way:一路上你会得到一些有价值的提示
-cars were parked along the grass verge:
+cars were parked along the grass verge:汽车停在草边
 he continued to plod along:他继续前行
 they asked how the construction was coming along:他们问施工进展如何
 he had brought along a friend of his:他带来了他的一个朋友
@@ -54,7 +53,7 @@ cause (someone) to make maximum use of their talents or abilities:cause（某人
 adapt or extend the scope of (something) in a way that exceeds a reasonable or acceptable limit:以超出合理或可接受限度的方式调整或扩展（某事）的范围
 an act of stretching one's limbs or body:伸展四肢或身体的行为
 the fact or condition of a muscle being stretched:肌肉被拉伸的事实或状况
-the capacity of a material or garment to stretch or be stretched; elasticity:
+the capacity of a material or garment to stretch or be stretched; elasticity:材料或服装拉伸或被拉伸的能力；弹性
 a difficult or demanding task:一项困难或要求很高的任务
 a continuous area or expanse of land or water:一个连续的区域或广阔的土地或水域
 a continuous period of time:一段连续的时间
@@ -64,7 +63,7 @@ the distance covered on one tack.:一根钉子上覆盖的距离。
 a stretch limo:加长豪华轿车
 stretch |strɛtʃ| Noun/Verb/:拉紧,一段,伸展
 my jumper stretched in the wash:我的套头衫在洗涤时被拉长了
-stretch the elastic:
+stretch the elastic:拉伸弹性
 the cat yawned and stretched:猫打哈欠伸了个懒腰
 the beach stretches for over four miles:海滩绵延超过四英里
 my budget won't stretch to a weekend at a health farm:我的预算不会延伸到健康农场的周末
@@ -102,7 +101,7 @@ the action of entering and taking control of a building:进入并控制建筑物
 the action of living in or using a building or other place:住在或使用建筑物或其他地方的行为
 for the sole use of the occupiers of the land concerned:只供有关土地的占用人使用
 occupation |ˌɒkjʊˈpeɪʃn| Adjective/Noun/:职业,占用
-people in professional occupations:
+people in professional occupations:从事专业工作的人
 a game of cards is a pretty harmless occupation:纸牌游戏是一种非常无害的职业
 the Roman occupation of Britain:罗马对不列颠的占领
 the workers remained in occupation until 16 October:工人一直工作到10月16日
@@ -131,7 +130,7 @@ the extent to which an area is or has been populated:一个地区人口稠密或
 the action of populating a place.:填充一个地方的动作。
 a community of animals, plants, or humans among whose members interbreeding occurs:动物、植物或人类的社区，其成员之间发生杂交
 a finite or infinite collection of items under consideration.:考虑中的项目的有限或无限集合。
-each of three groups (designated I, II, and III) into which stars can be approximately divided on the basis of their manner of formation:
+each of three groups (designated I, II, and III) into which stars can be approximately divided on the basis of their manner of formation:三组中的每一组（指定为 I、II 和 III），恒星可以根据它们的形成方式大致分为
 population |ˌpɒpjʊˈleɪʃn| Noun/:人口
 the island has a population of about 78,000:岛上人口约78,000
 a city with a large student population:一个拥有大量学生人口的城市
@@ -172,7 +171,7 @@ his marriage was the reason for the vacation of his fellowship:他的婚姻是�
 I was vacationing in Europe with my family:我和家人在欧洲度假
 
 an escape or quick departure, especially after committing a crime:逃跑或快速离开，尤其是在犯罪之后
-a short holiday:
+a short holiday:一个短暂的假期
 a holiday destination:一个度假胜地
 getaway |ˈɡɛtəweɪ| Noun/:逃离,逍遥游
 the thieves made their getaway:小偷逃走了
@@ -184,7 +183,7 @@ industrialist |ɪnˈdʌstrɪəlɪst| Noun/:实业家
 the exploitation of child labour by nineteenth-century industrialists:十九世纪工业家对童工的剥削
 
 connected with the sea, especially in relation to seaborne trade or naval matters:与海洋有关，尤其是与海运贸易或海军事务有关的
-living or found in or near the sea:livingorfoundinornearthesea
+living or found in or near the sea:在海中或附近生活或发现
 bordering on the sea:临海
 (of climate) moist and temperate owing to the influence of the sea:（气候的）受海洋影响潮湿和温带
 maritime |ˈmarɪtʌɪm| Adjective/:,海事
@@ -203,7 +202,7 @@ the power or quality of delighting, attracting, or fascinating others:他的魅�
 an attractive or alluring characteristic or feature:一个有吸引力的或诱人的特征或特征
 a small ornament worn on a necklace or bracelet:戴在项链或手链上的小饰品
 an object, act, or saying believed to have magic power:一个被认为具有魔力的物体、行为或说法
-an object kept or worn to ward off evil and bring good luck:
+an object kept or worn to ward off evil and bring good luck:避邪或带来好运的物品
 a characteristic property of certain subatomic particles (specifically charm quarks, charm antiquarks, and hadrons containing these), expressed as a quantum number.:某些亚原子粒子（特别是粲夸克、粲反夸克和包含这些的强子）的特征，表示为量子数。
 delight greatly:大喜
 use one's ability to please and attract in order to influence (someone):利用自己取悦和吸引的能力来影响（某人）
@@ -261,7 +260,6 @@ a large group of people with a shared characteristic:一大群具有共同特征
 (with reference to a group of people or animals) move in a group:（指一群人或动物）成群结队地移动
 keep or look after (livestock):保持或照顾（牲畜）
 herd |həːd| Noun/Verb/:,一群,群,牧群
-:
 I dodged herds of joggers:我躲过了一群慢跑者
 they live by herding reindeer:他们以放牧驯鹿为生
 

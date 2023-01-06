@@ -29,7 +29,7 @@ multiplication			乘法，成倍增长
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 work extremely hard or incessantly:非常努力或不停地工作
-move slowly and with difficulty:
+move slowly and with difficulty:缓慢而艰难地移动
 exhausting physical labour:精疲力竭的体力劳动
 toil |tɔɪl| Noun/Verb/:辛劳,劳碌
 we toiled away:我们辛苦了
@@ -82,7 +82,7 @@ a statement that something is unsatisfactory or unacceptable:某事不满意或�
 a reason for dissatisfaction:一个不满意的理由
 the expression of dissatisfaction:不满的表达
 the plaintiff's reasons for proceeding in a civil action.:原告提起民事诉讼的理由。
-an illness or medical condition, especially a relatively minor one:
+an illness or medical condition, especially a relatively minor one:疾病或医疗状况，尤其是相对轻微的
 complaint |kəmˈpleɪnt| Noun/:抱怨,投诉
 I intend to make an official complaint:我打算正式投诉
 I have no complaints about the hotel:我对酒店没有任何抱怨
@@ -97,7 +97,7 @@ inequality |ɪnɪˈkwɒlɪti| Noun/:不等式,不平等
 social inequality:社会不平等
 the inequality of the ground hindered their footing:地面的不平等阻碍了他们的立足点
 
-a quantity of something, especially the total of a thing or things in number, size, value, or extent:
+a quantity of something, especially the total of a thing or things in number, size, value, or extent:某物的数量，尤指一个或多个事物在数量、大小、价值或范围上的总和
 a sum of money:一笔钱
 come to be (the total) when added together:cometobe(thetotal)加在一起
 be regarded or classified as; be the equivalent of:被视为或归类为；9
@@ -106,7 +106,7 @@ amount |əˈmaʊnt| Noun/Verb/:数量,总计,量,等于,额
 sport gives an enormous amount of pleasure to many people:sport给很多人带来了极大的乐趣
 they have spent a colossal amount rebuilding the stadium:他们花了巨资重建体育场
 losses amounted to over 10 million pounds:损失达1000万英镑以上
-their actions amounted to a conspiracy:
+their actions amounted to a conspiracy:他们的行为无异于阴谋
 you'll never amount to anything:你将一事无成变得
 
 a compulsory contribution to state revenue, levied by the government on workers' income and business profits, or added to the cost of some goods, services, and transactions:对国家收入的强制性贡献，由政府对工人的收入和商业利润征收，或添加到某些商品、服务和交易的成本中
@@ -118,7 +118,6 @@ confront (someone) with a fault or wrongdoing:confront（某人）有过错或�
 examine and assess (the costs of a case):审查和评估（案件的费用）
 tax |taks| Noun/Verb/:税,征税,税收
 higher taxes will dampen consumer spending:更高的税收将抑制消费者支出
-:
 the income will be taxed at the top rate:收入将以最高税率征税
 the Land Rover slowly disintegrates and no one has bothered to tax it:路虎慢慢解体，没人费心去征税
 she knew that the ordeal to come must tax all her strength:she知道即将到来的磨难必须耗尽她所有的力量
@@ -145,13 +144,13 @@ arouse strong feeling in (someone); move or excite:激起（某人）强烈的�
 arouse or prompt (a feeling or memory) or inspire (the imagination):arouseorprompt（感觉或记忆）或inspire（想象力）
 deliberately cause trouble by spreading rumours or gossip:故意散布谣言或八卦制造麻烦
 a slight physical movement:轻微的身体运动
-an initial sign of a specified feeling:
+an initial sign of a specified feeling:特定感觉的初始迹象
 a commotion:a骚动
 an act of stirring food or drink:搅拌食物或饮料的行为
 prison:监狱
 stir |stəː| Noun/Verb/:搅拌,轰动
 Desmond stirred his tea and ate a biscuit:Desmond搅拌他的茶并吃了一块饼干
-stir in the flour and cook gently for two minutes:
+stir in the flour and cook gently for two minutes:拌入面粉，轻轻煮两分钟
 no one else had stirred yet:还没有人动过
 as he grew older, he seldom stirred from his club:随着年龄的增长，他很少离开他的俱乐部
 they will be stirred to action by what is written:他们会被所写的内容激起行动
@@ -168,7 +167,7 @@ engage in conflict:engage冲突
 strive to achieve or attain something in the face of difficulty or resistance:在困难或阻力面前努力实现或达到某事
 have difficulty handling or coping with:有困难处理或应对
 make one's way with difficulty:困难重重
-a forceful or violent effort to get free of restraint or resist attack:
+a forceful or violent effort to get free of restraint or resist attack:摆脱束缚或抵抗攻击的有力或暴力的努力
 a conflict or contest:a冲突或竞赛
 a determined effort under difficulties:困难中的坚定努力
 a very difficult task:一项非常艰巨的任务

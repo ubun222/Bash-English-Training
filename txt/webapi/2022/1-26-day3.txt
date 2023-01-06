@@ -59,7 +59,7 @@ follow a particular course:遵循特定的课程
 (of a tunable circuit or component) vary in frequency in the same way as another circuit or component, so that the frequency difference between them remains constant.:（可调谐电路或组件）的频率变化方式与另一个电路或组件相同，因此它们之间的频率差保持不变。
 tow (a canoe) along a waterway from the bank:tow（独木舟）沿岸边的水路
 track |trak| Noun/Verb/:追踪,小径,跟踪,轨道,履带
-follow the track to the farm:followthetracktothefarm
+follow the track to the farm:按照轨道到农场
 a Formula One Grand Prix track:a一级方程式大奖赛赛道
 the four running disciplines of track, road, country, and fell:田径、公路、乡村、摔倒四大跑步学科
 he followed the tracks made by the cars in the snow:他在雪地里跟随汽车留下的轨迹
@@ -147,7 +147,7 @@ a wry cynicism rapidly transforms into an overwhelming sense of sourness:一种�
 
 officially agree to or accept as satisfactory:正式同意或接受为满意
 believe that someone or something is good or acceptable:相信某人或某事是好的或可以接受的
-prove; show:
+prove; show:证明;展示
 approve |əˈpruːv| Verb/:批准
 the budget was approved by parliament:预算获得议会批准
 I don't approve of romance:我不赞成浪漫
@@ -159,7 +159,7 @@ the part of a year or of a day during which teaching takes place in a school or 
 a period devoted to a particular activity:专门从事特定活动的时期
 a period of recording music in a studio, especially by a session musician:一段在录音室录制音乐的时期，尤其是由一位音乐家录制的
 a period of heavy or sustained drinking:一段重度或持续饮酒的时期
-the governing body of a Presbyterian Church.:
+the governing body of a Presbyterian Church.:长老会的管理机构。
 session |ˈsɛʃən| Noun/:会议,会话
 the governor called this week's special session to reconsider the decision:州长召集本周的特别会议重新考虑该决定
 legislation to curb wildcat strikes will be introduced during the coming parliamentary session:legislation以遏制野猫罢工将在即将到来的议会会议期间推出
@@ -219,7 +219,7 @@ very small:非常小
 a very young child:一个很小的孩子
 tiny |ˈtʌɪni| Adjective/Noun/:微小的,小
 a tiny hummingbird:一只小蜂鸟
-books that will make tinies and parents laugh out loud:
+books that will make tinies and parents laugh out loud:会让小孩和父母大笑的书
 
 express warm approval or admiration of:表达热烈的赞同或钦佩
 express one's respect and gratitude towards (a deity), especially in song:表达对（神）的尊重和感激，尤其是在歌曲中
@@ -237,13 +237,13 @@ he memorized thousands of verses:他背诵了数千节经文
 
 considered in relation or in proportion to something else:考虑到与其他事物的关系或比例
 existing or possessing a specified characteristic only in comparison to something else; not absolute:存在或仅与其他事物相比具有特定特征；7
-denoting a pronoun, determiner, or adverb that refers to an expressed or implied antecedent and attaches a subordinate clause to it, e.g. which, who.:
+denoting a pronoun, determiner, or adverb that refers to an expressed or implied antecedent and attaches a subordinate clause to it, e.g. which, who.:表示代词、限定词或副词，指的是一个明示或暗示的先行词，并在其上附加一个从句，例如那个谁。
 (of a clause) attached to an antecedent by a relative word.:（从句的）通过关系词附加在先行词上。
 (of major and minor keys) having the same key signature.:（大调和小调）具有相同的调号。
 (of a service rank) corresponding in grade to another in a different service.:（一个服务等级的）等级对应于不同服务中的另一个。
-a person connected by blood or marriage:
+a person connected by blood or marriage:有血缘关系或婚姻关系的人
 a species related to another by common origin:一个与另一个有共同起源的物种
-a relative pronoun, determiner, or adverb.:
+a relative pronoun, determiner, or adverb.:关系代词、限定词或副词。
 a term or concept which is dependent on something else.:一个依赖于其他事物的术语或概念。
 relative |ˈrɛlətɪv| Adjective/Noun/:相对的,亲戚
 the relative effectiveness of the various mechanisms is not known:各种机制的相对有效性未知
@@ -264,7 +264,7 @@ a major breakthrough in DNA research:DNA研究的重大突破
 his big breakthrough came in 1988 when he had two paintings accepted by the RSA:他的重大突破发生在1988年，当时他有两幅画被RSA接受
 
 the occurrence, rate, or frequency of a disease, crime, or other undesirable thing:疾病、犯罪或其他不良事物的发生、比率或频率
-the way in which the burden of a tax falls upon the population:
+the way in which the burden of a tax falls upon the population:税收负担落在人口身上的方式
 the intersection of a line, or something moving in a straight line, such as a beam of light, with a surface:直线的交点，或沿直线运动的东西，如光束，与表面的交点
 incidence |ˈɪnsɪd(ə)ns| Noun/:发病率,出现率
 an increased incidence of cancer:癌症发病率增加
@@ -321,7 +321,7 @@ very unusual or remarkable:非常不寻常或非凡
 unusually great:非常棒
 (of a meeting) specially convened:（会议的）特别召集
 (of an official) specially employed in addition to the usual staff:（官员）除普通职员外特别聘用
-an item in a company's accounts not arising from its normal activities.:
+an item in a company's accounts not arising from its normal activities.:公司账目中并非由其正常活动产生的项目。
 extraordinary |ɪkˈstrɔːd(ɪ)n(ə)ri| Adjective/Noun/:非凡的,非凡
 the extraordinary plumage of the male:雄性非凡的羽毛
 young children need extraordinary amounts of attention:年幼的孩子需要特别多的关注

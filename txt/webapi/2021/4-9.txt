@@ -47,7 +47,6 @@ Nicholas gazed steadily at the face in the crowd:Nicholas盯着人群中的脸
 
 make or become worse:使或变得更糟
 worsen |ˈwəːs(ə)n| Verb/:恶化
-:
 
 at first:起初
 initially |ɪˈnɪʃ(ə)li| Adverb/:,原来
@@ -68,7 +67,7 @@ the action of providing what is needed or wanted:提供需要或想要的东西�
 the amount of a good or service offered for sale.:出售的商品或服务的数量。
 the provisions and equipment necessary for an army or for people engaged in a particular project or expedition.:军队或从事特定项目或远征的人员所需的供给和设备。
 providing necessary goods and equipment:提供必要的物品和设备
-a grant of money by Parliament for the costs of government.:
+a grant of money by Parliament for the costs of government.:议会拨款用于支付政府费用。
 a person, especially a schoolteacher, acting as a temporary substitute for another:一个人，尤其是一名教师，作为另一个人的临时替代品
 supply |səˈplʌɪ| Adverb/Noun/Verb/:供应,补给,提供,供给
 the farm supplies apples to cider makers:thefarm向苹果酒制造商供应苹果
@@ -78,7 +77,7 @@ when she died, no one could supply her place:当她死后，没有人可以提�
 a farm with good water supply:一个供水良好的农场
 the deal involved the supply of forty fighter aircraft:这笔交易涉及40架战斗机的供应
 a supply ship:a补给船
-a supply teacher:
+a supply teacher:代课老师
 
 a widespread occurrence of an infectious disease over a whole country or the world at a particular time:传染病在特定时间在整个国家或世界范围内广泛发生
 (of a disease) prevalent over a whole country or the world:（一种疾病）在整个国家或世界流行
@@ -89,7 +88,7 @@ pandemic diseases have occurred throughout history:pandemic疾病在历史上发
 a sudden powerful forward or upward movement, especially by a crowd or by a natural force such as the tide:突然有力的向前或向上运动，尤指由人群或自然力量如潮汐
 a sudden large increase, typically a temporary one:突然大幅增加，通常是暂时的
 a major deployment of military forces to reinforce those already in a particular area.:大规模部署军事力量，以加强特定地区已有的力量。
-a powerful rush of an emotion or feeling:
+a powerful rush of an emotion or feeling:一种强烈的情绪或感觉
 a sudden marked increase in voltage or current in an electric circuit.:电路中电压或电流突然显着增加。
 (of a crowd or a natural force) move suddenly and powerfully forward or upward:（人群或自然力）突然有力地向前或向上移动
 increase suddenly and powerfully:increase突然而有力
@@ -111,7 +110,7 @@ supply or power (an industrial plant, vehicle, or machine) with fuel:带有燃�
 cause (a fire) to burn more intensely:cause(afire)燃烧得更猛烈
 sustain or inflame (an intense feeling):sustainorinflame（强烈的感觉）
 fuel |fjuː(ə)l| Noun/Verb/:燃料,提供燃料,汽油
-one aircraft ran out of fuel and had to ditch:
+one aircraft ran out of fuel and had to ditch:一架飞机燃料耗尽，不得不迫降
 any protein intake can also be used as fuel:任何蛋白质摄入也可以作为燃料
 the remuneration packages will add fuel to the debate about top-level rewards:薪酬方案将助长关于顶级奖励的争论
 power stations fuelled by low-grade coal:以低品位煤为燃料的电站
@@ -130,7 +129,6 @@ it seems mighty early to be talking about Christmas:谈论圣诞节似乎还为�
 
 a solid substance that has a conductivity between that of an insulator and that of most metals, either due to the addition of an impurity or because of temperature effects. Devices made of semiconductors, notably silicon, are essential components of most electronic circuits.:一种导电性介于绝缘体和大多数金属之间的固体物质，这是由于添加了杂质或由于温度影响。由半导体（尤其是硅）制成的器件是大多数电子电路的重要组成部分。
 semiconductor |ˌsɛmɪkənˈdʌktə| Noun/:半导体
-:
 
 once a year; every year:一年一次；每年
 annually |ˈanjʊəli| Adverb/:每年

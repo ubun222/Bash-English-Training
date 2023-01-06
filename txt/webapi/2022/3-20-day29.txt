@@ -52,7 +52,7 @@ I have four letters to dictate:我有四个字母要口授
 the dictates of fashion:时尚的主宰
 
 relating to or belonging to a profession:与或属于某个职业
-engaged in a specified activity as one's main paid occupation rather than as a pastime:
+engaged in a specified activity as one's main paid occupation rather than as a pastime:从事特定活动作为一个人的主要有偿职业而不是消遣
 habitually making a feature of a particular activity or attribute:习惯性地制作特定活动或属性的特征
 worthy of or appropriate to a professional person, competent, skilful, or assured:值得或适合专业人士、有能力、有技能或有信心
 a person engaged or qualified in a profession:从事或有资格从事某项职业的人
@@ -100,7 +100,7 @@ the action of gathering together closely:紧密相聚的动作
 the relative amount of a particular substance contained within a solution or mixture or in a particular volume of space:溶液或混合物或特定空间体积中所含特定物质的相对量
 the action of strengthening a solution by the removal or reduction of the diluting agent or by the selective accumulation of atoms or molecules:通过去除或减少稀释剂或通过原子或分子的选择性积累来强化溶液的作用
 concentration |ˌkɒnsnˈtreɪʃn| Noun/:浓度,专注,浓缩,专注力
-she was frowning in concentration:
+she was frowning in concentration:她全神贯注地皱着眉头
 concentration on the needs of the young can mean that the elderly are forgotten:专注于年轻人的需求可能意味着老年人被遗忘
 the island has the greatest concentration of seabirds in the north-west:该岛是西北部海鸟最集中的地方
 the concentration of power in the hands of nobles:贵族手中的权力集中
@@ -114,7 +114,7 @@ make a gesture:做一个手势
 direct (someone) somewhere by means of a gesture:direct（某人）通过手势某处
 express (something) with a gesture or gestures:express（某事）用一个或多个手势
 gesture |ˈdʒɛstʃə| Noun/Verb/:手势,姿态
-Alex made a gesture of apology:
+Alex made a gesture of apology:亚历克斯做了一个道歉的手势
 Maggie was touched by the kind gesture:Maggie被善意的举动感动了
 I hope the amendment will not be just a gesture:我希望修改不只是一个姿态
 she gestured meaningfully with the pistol:她用手枪意味深长地做了个手势
@@ -199,7 +199,7 @@ morally accountable for one's behaviour:道德上对自己的行为负责
 (of a job or position) involving important duties, independent decision-making, or control over others:（工作或职位）涉及重要职责、独立决策或控制他人
 capable of being trusted:能够被信任
 responsible |rɪˈspɒnsɪbl| Adjective/:负责任的,负责
-the cabinet minister responsible for Education:
+the cabinet minister responsible for Education:负责教育的内阁部长
 the Prime Minister and cabinet are responsible to Parliament:总理和内阁对议会负责
 Gooch was responsible for 198 of his side's 542 runs:Gooch负责他所在球队542次跑动中的198次
 the progressive emergence of the child as a responsible being:儿童逐渐成为负责任的存在
@@ -207,12 +207,12 @@ she had risen rapidly to a high and responsible position in the civil service:�
 a responsible adult:一个负责任的成年人
 
 the fact of being who or what a person or thing is:一个人或事物是谁或什么的事实
-the characteristics determining who or what a person or thing is:
+the characteristics determining who or what a person or thing is:决定一个人或事物是谁或什么的特征
 (of an object) serving to establish who the holder, owner, or wearer is by bearing their name and often other details such as a signature or photograph:（物品的）通过标明持有者、所有者或佩戴者的姓名以及签名或照片等其他详细信息来确定谁是持有者、所有者或佩戴者
 a close similarity or affinity:非常相似或相似
 a transformation that leaves an object unchanged.:a保持对象不变的转换。
 an element of a set which, if combined with another element by a specified binary operation, leaves that element unchanged.:集合中的一个元素，如果通过指定的二元运算与另一个元素组合，则该元素保持不变。
-the equality of two expressions for all values of the quantities expressed by letters, or an equation expressing this, e.g. (x + 1)² = x² + 2x + 1.:
+the equality of two expressions for all values of the quantities expressed by letters, or an equation expressing this, e.g. (x + 1)² = x² + 2x + 1.:对于用字母表示的量的所有值，两个表达式的相等性，或者表示这个的等式，例如(x + 1)² u003d x² + 2x + 1。
 identity |ʌɪˈdɛntɪti| Noun/:身份,认同感
 he knows the identity of the bombers:他知道轰炸机的身份
 he wanted to develop a more distinctive Scottish Tory identity:他想发展一个更独特的苏格兰保守党身份
@@ -245,12 +245,12 @@ the movement of the bone causes a severe tissue insult:骨骼的运动导致严�
 
 fail to care for properly:未能妥善照顾
 not pay proper attention to, disregard:没有适当注意，无视
-fail to do something:failtodosomething
+fail to do something:做某事失败
 the state of being uncared for:无人照顾的状态
 the action of not taking proper care of someone or something:未妥善照顾某人或某事的行为
-failure to do something:failuretodosomething
+failure to do something:做某事失败
 neglect |nɪˈɡlɛkt| Noun/Verb/:忽视,忽略,疏忽
-the old churchyard has been sadly neglected:
+the old churchyard has been sadly neglected:可悲的是，古老的墓地被忽视了
 you neglect our advice at your peril:你忽视我们的建议后果自负
 he neglected to write to her:他忘了给她写信
 the place had a hopeless air of neglect:这个地方有一种被忽视的绝望气氛
@@ -282,7 +282,7 @@ relatively great in extent:范围比较大
 (after a noun of extent and in questions) having a specified extent:（在范围名词之后和疑问句中）具有特定范围
 (of a vowel) categorized as long with regard to quality and length (e.g. in standard British English the vowel /uː/ in food is long as distinct from the short vowel /ʊ/ in good).:（元音）在质量和长度方面被归类为长（例如，在标准英式英语中，食物中的元音/uː/与good中的短元音/ʊ/不同）。
 (of a vowel or syllable) having the greater of the two recognized durations.:（元音或音节）具有两个公认的持续时间中的较大者。
-(of odds or a chance) reflecting or representing a low level of probability:
+(of odds or a chance) reflecting or representing a low level of probability:（几率或机会）反映或代表低水平的概率
 (of shares, bonds, or other assets) bought in advance, with the expectation of a rise in price.:（股票、债券或其他资产）提前购买，预期价格会上涨。
 (of a broker or their position in the market) buying or based on long stocks.:（经纪人或其在市场上的位置）购买或基于多头股票。
 (of a security) maturing at a distant date.:（证券的）在遥远的日期到期。
@@ -317,7 +317,6 @@ an industry that's long on ideas but short on cash:一个想法多但资金短�
 see you before long:不久后见
 two longs and a short:两多一空
 we hadn't known them long:我们认识他们很久了
-:
 the work was compiled long after his death:这部作品是在他死后很久才编译的
 he couldn't wait any longer:他已经等不及了
 it rained all day long:整天都在下雨
@@ -432,7 +431,7 @@ a North American Indian tent or wigwam.:一个北美印第安人的帐篷或棚�
 a beaver's den.:海狸窝。
 a branch or meeting place of an organization such as the Freemasons:共济会等组织的分支机构或聚会场所
 present (a complaint, appeal, claim, etc.) formally to the proper authorities:向有关当局正式提出（投诉、上诉、索赔等）
-leave money or a valuable item in (a place) or with (someone) for safekeeping:
+leave money or a valuable item in (a place) or with (someone) for safekeeping:将钱或贵重物品留在（某个地方）或与（某人）保管
 make or become firmly fixed or embedded in a place:makeor牢固地固定或嵌入一个地方
 rent accommodation in another person's house:租住别人家
 provide (someone) with accommodation in return for payment:提供（某人）住宿以换取付款

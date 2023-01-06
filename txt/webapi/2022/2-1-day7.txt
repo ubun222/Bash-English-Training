@@ -37,7 +37,7 @@ an expert in healthcare:医疗保健专家
 he had received expert academic advice:他接受过专家的学术建议
 
 physical injury, especially that which is deliberately inflicted:身体伤害，尤其是故意造成的伤害
-material damage:
+material damage:物质损失
 actual or potential ill effects or danger:实际或潜在的不良影响或危险
 harm |hɑːm| Noun/Verb/:伤害,危害,损害,害
 I didn't mean to cause him any harm:我不是故意伤害他
@@ -54,7 +54,7 @@ contaminate |kənˈtamɪneɪt| Verb/:污染
 the site was found to be contaminated by radioactivity:该场地被发现受到放射性污染
 
 fly or rise high in the air:fly或高空飞行
-maintain height in the air without flapping wings or using engine power:
+maintain height in the air without flapping wings or using engine power:在不拍动翅膀或使用发动机动力的情况下保持空中高度
 increase rapidly above the usual level:increase迅速高于通常水平
 soar |sɔː| Verb/:翱翔,飙升
 the bird spread its wings and soared into the air:鸟张开翅膀翱翔在空中
@@ -104,15 +104,15 @@ police have been getting tough with drivers:police对司机的态度越来越强
 I feel the way I feel, and if you don't like it, tough:我的感觉就是我的感觉，如果你不喜欢，那就强硬
 tough young teenagers:坚强的少年
 a tough part of the town:镇上艰难的地方
-a gang of toughs:
+a gang of toughs:一群恶棍
 
 a thing given willingly to someone without payment; a present:无偿赠送给某人的东西；7
 an act of giving something as a present:送东西作为礼物的行为
 a very easy task or unmissable opportunity:一个非常简单的任务或不可错过的机会
 a natural ability or talent:天生的能力或天赋
-give (something) as a gift, especially formally or as a donation or bequest:
+give (something) as a gift, especially formally or as a donation or bequest:给（某物）作为礼物，尤指正式地或作为捐赠或遗赠
 present (someone) with a gift or gifts:present（某人）有礼物或礼物
-endow with (something):
+endow with (something):赋予（某物）
 inadvertently allow (an opponent) to have something:不经意间让（对手）有东西
 gamete intrafallopian transfer, a technique for assisting conception by introducing mixed ova and sperm into a fallopian tube:gamete输卵管内移植，一种通过将混合的卵子和精子引入输卵管来辅助受孕的技术
 gift |ɡɪft| Noun/Verb/:礼物,白送,礼品
@@ -137,15 +137,15 @@ remove scale or scales from:removescale或scalesfrom
 remove tartar from (teeth) by scraping them:从（牙齿）刮掉牙垢
 (especially of the skin) form scales:（尤其是皮肤）形成鳞片
 come off in scales or thin pieces; flake off:鳞片或薄片脱落；21
-an instrument for weighing, originally a simple balance (a pair of scales) but now usually a device with an electronic or other internal weighing mechanism:
+an instrument for weighing, originally a simple balance (a pair of scales) but now usually a device with an electronic or other internal weighing mechanism:一种称重仪器，最初是一种简单的天平（一对秤），但现在通常是一种带有电子或其他内部称重机制的装置
 either of the dishes on a simple balance.:任何一道菜都在一个简单的平衡上。
 the zodiacal sign or constellation Libra.:黄道星座或天秤座。
 a large drinking container for beer or other alcoholic drink.:一个盛装啤酒或其他酒精饮料的大容器。
-weigh a specified weight:
+weigh a specified weight:称量指定的重量
 a graduated range of values forming a standard system for measuring or grading something:a分级值范围，形成用于测量或分级某物的标准系统
 the full range of different levels of people or things, from lowest to highest:各种不同层次的人或事物，从最低到最高
 a series of marks at regular intervals in a line used in measuring something:用于测量某物的直线上的一系列定期标记
-a device having a series of marks at regular intervals for measuring:
+a device having a series of marks at regular intervals for measuring:具有一系列以固定间隔进行测量的标记的装置
 a rule determining the distances between marks on a scale:确定刻度上标记之间距离的规则
 the relative size or extent of something:某物的相对大小或范围
 a ratio of size in a map, model, drawing, or plan:地图、模型、绘图或平面图中的大小比例
@@ -161,7 +161,7 @@ scale |skeɪl| Noun/Verb/:规模,攀登,尺度,比例
 banging sounds emanating from the boiler may be caused by a build-up of scale:banging从锅炉发出的声音可能是由水垢堆积引起的
 a spray-on chemical for removing welding scale and heat discoloration from stainless steel:a喷涂化学品，用于去除不锈钢的焊接氧化皮和热变色
 he scales the fish and removes the innards:他给鱼去鳞并去除内脏
-dental hygienists give treatment such as scaling and polishing teeth:
+dental hygienists give treatment such as scaling and polishing teeth:牙科保健员提供洗牙和抛光牙齿等治疗
 the skin may scale and peel away with itching, stinging, or burning sensations in the infected area:感染区域的皮肤可能会因瘙痒、刺痛或灼热感而剥落和剥落
 the paint was scaling from the brick walls:油漆从砖墙上剥落
 bathroom scales:浴室秤
@@ -195,7 +195,7 @@ an act of holding someone closely in one's arms:将某人紧紧抱在怀里的�
 used to refer to something which is regarded as surrounding, holding, or restricting someone:用于指代被视为包围、持有或限制某人的东西
 an act of accepting something willingly or enthusiastically:心甘情愿或热情地接受某事的行为
 embrace |ɪmˈbreɪs| Noun/Verb/:拥抱,怀抱,拥
-Aunt Sophie embraced her warmly:
+Aunt Sophie embraced her warmly:苏菲阿姨热情地拥抱了她
 besides traditional methods, artists are embracing new technology:除了传统方法，艺术家们正在拥抱新技术
 his career embraces a number of activities—composing, playing, and acting:他的职业包括许多活动——作曲、演奏和表演
 they were locked in an embrace:他们紧紧相拥
@@ -206,7 +206,7 @@ not often; rarely:不经常；4
 not common; infrequent:不常见；
 seldom |ˈsɛldəm| Adjective/Adverb/:很少
 Islay is seldom visited by tourists:Islay很少有游客参观
-a great but seldom pleasure:
+a great but seldom pleasure:一种伟大但很少的乐趣
 
 an act of presenting a play, concert, or other form of entertainment:表演戏剧、音乐会或其他娱乐形式的行为
 an act of performing a dramatic role, song, or piece of music:表演戏剧性角色、歌曲或音乐的行为
@@ -342,7 +342,7 @@ touch or press (part of a machine or other device) in order to work it:触摸或
 be suddenly and vividly realized by:be恍然大悟
 cause harm or distress to:造成伤害或困扰
 (of a disaster) occur in and cause damage to (an area) suddenly:(灾难的)突然发生并给(地区)造成损害
-attack and rob or kill:attackandroborkill
+attack and rob or kill:攻击和抢劫或杀戮
 reach (a particular level, point, or figure):reach（特定级别、点或图形）
 be affected by (an unfortunate and unexpected circumstance or event):被（不幸和意外的情况或事件）影响
 arrive at or go to (a place):到达或去（一个地方）
@@ -351,7 +351,7 @@ take effect:生效
 give (someone) a dose of a drug or an alcoholic drink.:给（某人）一剂药物或酒精饮料。
 engage in a particular pursuit or activity with enthusiasm:热情地从事特定的追求或活动
 propel (a ball) with a bat, racket, stick, etc. to score runs or points in a game.:propel（球）用球棒、球拍、棍子等在比赛中得分或得分。
-score (a run or point) by hitting a ball with a bat, racket, stick, etc.:
+score (a run or point) by hitting a ball with a bat, racket, stick, etc.:用球棒、球拍、棍子等击球得分（跑分或得分）。
 an instance of striking or being struck:一个打击或被打击的例子
 a verbal attack:口头攻击
 a murder, typically one planned and carried out by a criminal organization:一起谋杀，通常是由犯罪组织策划和实施的
@@ -398,7 +398,7 @@ an amount of something swallowed in one action:一个动作吞下的东西量
 a migratory swift-flying songbird with a forked tail and long pointed wings, feeding on insects in flight.:一种迁徙的快速飞行的鸣禽，有分叉的尾巴和长尖的翅膀，以飞行中的昆虫为食。
 swallow |ˈswɒləʊ| Noun/Verb/:吞,燕,吞下
 she swallowed a mouthful slowly:她慢慢吞了一口
-she swallowed hard, sniffing back her tears:
+she swallowed hard, sniffing back her tears:她用力吞咽，吸回眼泪
 he seemed ready to swallow any insult:他似乎准备好接受任何侮辱
 she had swallowed his story hook, line, and sinker:她吞下了他的故事钩、线和坠子
 he swallowed his pride:他吞下了他的骄傲
@@ -427,12 +427,12 @@ the condition of being far off; remoteness:温暖与距离的结合造就了好�
 a far-off point:一个遥远的地方
 the more remote part of what is visible or discernible:可见或可辨别的更遥远的部分
 an interval of time:一个时间间隔
-the full length of a race:
+the full length of a race:一场比赛的全程
 a space of more than twenty lengths between two finishers in a race:一场比赛中两个完赛者之间的距离超过二十个
 a length of 240 yards from the winning post on a racecourse.:距离赛马场的获胜位置240码。
 the distance from the winning post which a horse must have reached when the winner finishes in order to qualify for a subsequent heat.:马匹在获胜者完成比赛后必须达到的距离，以便获得随后的预赛资格。
 the scheduled length of a fight:预定的战斗时间
-the avoidance of familiarity; reserve:
+the avoidance of familiarity; reserve:避免熟悉；预订
 distance |ˈdɪst(ə)ns| Noun/Verb/:距离,保持距离
 I cycled the short distance home:我骑着短途回家
 distance makes things look small:distance让事情看起来很小

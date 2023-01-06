@@ -57,8 +57,6 @@ God save the Queen:上帝保佑女王
 she had never been able to save much from her salary:她从来没能从她的薪水中节省多少
 save your strength till later:把你的力量留到以后
 save it, Joey—I'm in big trouble now:saveit，乔伊——我现在有大麻烦了
-:
-:
 this approach saves wear and tear on the books:这种方法可以节省书籍的磨损
 the powerful German saved three match points:强大的德国人挽救了三个赛点
 the keeper made a great save:门将做出精彩扑救
@@ -75,7 +73,7 @@ receive (money, property, or a title) as an heir at the death of the previous ho
 derive (a quality, characteristic, or predisposition) genetically from one's parents or ancestors.:derive（品质、特征或倾向）遗传自父母或祖先。
 receive or be left with (a situation, object, etc.) from a predecessor or former owner:receive或留下前任或前任所有者的（情况、对象等）
 come into possession of (belongings) from someone else:从别人那里得到（财物）
-come into possession of (something) as a right (especially in biblical translations and allusions):
+come into possession of (something) as a right (especially in biblical translations and allusions):作为权利拥有（某物）（尤其是在圣经翻译和典故中）
 inherit |ɪnˈhɛrɪt| Verb/:继承,传承
 she inherited a fortune from her father:她从父亲那里继承了一笔财富
 spending commitments inherited from previous governments:支出承诺从前政府继承
@@ -86,7 +84,7 @@ a particular event, or the time at which it takes place:一个特定的事件，
 a special or noteworthy event, ceremony, or celebration:一个特别或值得注意的事件、仪式或庆典
 a suitable or opportune time for doing something:做某事的合适或时机
 reason, cause:原因，原因
-cause (something):
+cause (something):导致（某事）
 occasion |əˈkeɪʒn| Noun/Verb/:场合,时机
 on one occasion I stayed up until two in the morning:有一次我熬夜到凌晨两点
 she was presented with a gold watch to mark the occasion:她被赠送了一块金表来纪念这一时刻
@@ -97,7 +95,7 @@ the ability to assess and initiate things independently:独立评估和启动事
 the power or opportunity to act or take charge before others do:在他人之前采取行动或负责的权力或机会
 an act or strategy intended to resolve a difficulty or improve a situation, a fresh approach to something:旨在解决困难或改善情况的行为或策略，对某事采取新的方法
 a proposal made by one nation to another in an attempt to improve relations:一个国家为了改善关系而向另一个国家提出的建议
-(especially in Switzerland and some US states) the right of citizens outside the legislature to originate legislation.:
+(especially in Switzerland and some US states) the right of citizens outside the legislature to originate legislation.:（特别是在瑞士和美国的一些州）立法机关以外的公民发起立法的权利。
 initiative |ɪˈnɪʃətɪv| Noun/:倡议,主动,主动性
 use your initiative, imagination, and common sense:发挥你的主动性、想象力和常识
 anti-hunting groups have seized the initiative in the dispute:反猎团在纷争中掌握主动权
@@ -143,7 +141,7 @@ a person employed to carry luggage and other loads, especially in a railway stat
 a hospital employee who moves equipment or patients:移动设备或病人的医院员工
 a person employed to carry supplies on a mountaineering expedition.:一名受雇在登山探险中运送物资的人。
 a sleeping-car attendant.:一名卧铺车服务员。
-dark brown bitter beer brewed from malt partly charred or browned by drying at a high temperature:
+dark brown bitter beer brewed from malt partly charred or browned by drying at a high temperature:由麦芽酿造的深棕色苦啤酒，在高温下干燥后部分烧焦或变成褐色
 an employee in charge of the entrance of a hotel, block of flats, college, or other large building:负责酒店、公寓楼、大学或其他大型建筑入口的员工
 porter |ˈpɔːtə| Noun/:搬运工,门房,波特
 a hospital porter:医院搬运工
@@ -254,7 +252,7 @@ the purchase of goods and services by the public:公众购买商品和服务
 the reception of information or entertainment by a mass audience:大众接受信息或娱乐
 a wasting disease, especially pulmonary tuberculosis:一种消耗性疾病，尤其是肺结核
 consumption |kənˈsʌm(p)ʃn| Noun/:消费,消耗,耗
-industrialized countries should reduce their energy consumption:
+industrialized countries should reduce their energy consumption:工业化国家应减少能源消耗
 liquor is sold for consumption off the premises:liquor出售用于场外消费
 a daily consumption of 15 cigarettes:每天消费15支香烟
 industry faced a serious challenge in trying to stimulate consumption:行业刺激消费面临严峻挑战
@@ -370,7 +368,6 @@ he had been baptized and confirmed:他已受洗并被证实
 
 a general agreement:一般协议
 consensus |kənˈsɛnsəs| Noun/:共识,一致意见
-:
 
 a person who acts on behalf of another person or group:代表另一个人或团体行事的人
 a person who manages business, financial, or contractual matters for an actor, performer, writer, etc.:为演员、表演者、作家等管理业务、财务或合同事务的人。
@@ -401,7 +398,7 @@ thousands participated in a nationwide strike:thousands参加了全国性的罢�
 both members participate of harmony:两个成员都参与和谐
 
 (of an argument or point) having a sound basis in logic or fact, reasonable or cogent:（论点或观点）在逻辑或事实上具有合理的或有说服力的基础
-legally binding due to having been executed in compliance with the law:
+legally binding due to having been executed in compliance with the law:因依法执行而具有法律约束力
 legally or officially acceptable:合法或官方接受
 valid |ˈvalɪd| Adjective/:有效的,有效,合法的
 a valid criticism:一个有效的批评

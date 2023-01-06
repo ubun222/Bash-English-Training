@@ -70,7 +70,7 @@ speculating like this is a pointless exercise:speculating像这样是一个毫�
 
 sufficiently great or important to be worthy of attention, noteworthy:足够伟大或重要，值得关注，值得注意
 having a particular meaning, indicative of something:具有特殊意义，表示某事
-suggesting a meaning or message that is not explicitly stated:
+suggesting a meaning or message that is not explicitly stated:暗示未明确说明的含义或信息
 relating to or having significance.:与或具有重要意义。
 significant |sɪɡˈnɪfɪk(ə)nt| Adjective/:重大,重要的,重要,意义重大,显着
 a significant increase in sales:销售额显着增长
@@ -108,7 +108,7 @@ denoting a voice of verbs in which the subject undergoes the action of the verb 
 (of radar or a satellite) receiving or reflecting radiation from a transmitter or target rather than generating its own signal:（雷达或卫星）接收或反射来自发射器或目标的辐射，而不是产生自己的信号
 (of a heating system) making use of incident sunlight as an energy source:（供暖系统）利用入射阳光作为能源
 (of a metal) made unreactive by a thin inert surface layer of oxide.:（金属）被一层薄的惰性氧化物表面层变得不活泼。
-a passive form of a verb.:
+a passive form of a verb.:动词的被动形式。
 the passive voice.:被动语态。
 passive |ˈpasɪv| Adjective/Noun/:被动的,被动语态,被动,消极的
 the women were portrayed as passive victims:这些女性被描绘成被动的受害者
@@ -168,11 +168,11 @@ find sexually attractive:发现性吸引力
 have an unduly high opinion of oneself, or of one's ability in a particular area:对自己或在特定领域的能力有过高的评价
 regard (a horse, team, or player) as a likely winner:将（一匹马、一支球队或一名球员）视为可能的获胜者
 imagine, think:imagine，想想
-used to express surprise at something:
+used to express surprise at something:用于对某事表示惊讶
 a superficial or transient feeling of liking or attraction:一种肤浅的或短暂的喜欢或吸引的感觉
 a person or thing that one finds attractive:觉得有吸引力的人或事物
 a favourite in a race or other sporting contest:在比赛或其他体育比赛中的最爱
-enthusiasts for a sport, especially boxing or racing, considered collectively:
+enthusiasts for a sport, especially boxing or racing, considered collectively:一项运动的爱好者，特别是拳击或赛车，统称为
 the faculty of imagination:想象力的能力
 an unfounded or tentative belief or idea:一个没有根据的或暂时的信念或想法
 a small iced cake:一个小冰糕
@@ -191,7 +191,7 @@ fancy meeting all those television actors!:fancy会见所有这些电视演员�
 this was no passing fancy, but a feeling he would live by:这不是一时的幻想，而是一种他会活下去的感觉
 people jostled to ride alongside their fancy:人们争先恐后地骑着他们的幻想
 the filly is already a leading fancy for next year's races:thefily已经是明年比赛的领军人物
-pony carts went round the racecourse loaded with the fancy:
+pony carts went round the racecourse loaded with the fancy:小马车满载着花哨的东西绕着赛马场转
 he is prone to flights of fancy:他容易幻想
 I've a fancy they want to be alone:我想他们想独处
 chocolate fancies:chocolate幻想
@@ -205,7 +205,7 @@ her goal was to accumulate a huge fortune:她的目标是积累巨额财富
 the toxin accumulated in their bodies:体内积累的毒素
 
 a display of unnecessary or excessive excitement, activity, or interest:表现出不必要或过度的兴奋、活动或兴趣
-a protest or dispute of a specified degree or kind:
+a protest or dispute of a specified degree or kind:特定程度或种类的抗议或争议
 elaborate or complex procedures, trouble or difficulty:精细或复杂的程序，麻烦或困难
 show unnecessary or excessive concern about something:对某事表现出不必要或过度的关注
 busy oneself restlessly:忙碌的自己
@@ -244,7 +244,7 @@ Bud had a flair for showmanship and understood what the public wanted to see:Bud
 
 decide or announce that (a planned event) will not take place:决定或宣布（计划中的事件）不会发生
 annul or revoke (a formal arrangement which is in effect):annul或revoke（一种有效的正式安排）
-abolish or make void (a financial obligation):
+abolish or make void (a financial obligation):废除或作废（财务义务）
 (of a factor or circumstance) neutralize or negate the force or effect of (another):（一个因素或情况的）中和或否定（另一个）的力量或效果
 delete (an equal factor) from both sides of an equation or from the numerator and denominator of a fraction:delete（等式）从等式两边或从分数的分子和分母中删除
 publicly boycott or withdraw support from (a person, organization, etc.) for promoting beliefs that are regarded as socially unacceptable:公开抵制或撤回对（个人、组织等）的支持，以宣扬被视为社会不可接受的信仰
@@ -274,7 +274,7 @@ be just visible:只是可见
 come into view, appear:进入视野，出现
 a member of the nobility in Britain or Ireland, comprising the ranks of duke, marquess, earl, viscount, and baron:不列颠或爱尔兰的贵族成员，包括公爵、侯爵、伯爵、子爵和男爵等级
 a person of the same age, status, or ability as another specified person:与另一个特定人具有相同年龄、地位或能力的人
-make or become equal with:makeorbecomeequalwith
+make or become equal with:使或变得等于
 peer |pɪə| Noun/Verb/:同行,对等
 Faye peered at her with suspicion:Faye怀疑地凝视着她
 the towers peer over the roofs:thetowers俯瞰屋顶
@@ -286,7 +286,7 @@ determine (the amount or number of something) mathematically:determine（某物�
 determine by reasoning, experience, or common sense, reckon or judge:通过推理、经验或常识确定、估计或判断
 include as an essential element in one's plans.:include作为一个人计划中的一个基本要素。
 intend (an action) to have a particular effect:intend（一个动作）产生特定的效果
-suppose or believe:
+suppose or believe:假设或相信
 calculate |ˈkalkjʊleɪt| Verb/:计算,算
 the program can calculate the number of words that will fit in the space available:该程序可以计算出适合可用空间的单词数
 I was bright enough to calculate that she had been on vacation:我足够聪明，可以计算出她在度假

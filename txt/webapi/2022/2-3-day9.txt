@@ -81,15 +81,15 @@ the number of votes cast in an election:选举中的投票数
 the places where votes are cast in an election:在选举中投票的地方
 a person's head.:一个人的头。
 the part of the head on which hair grows; the scalp.:头发生长的部分；13
-a hornless animal, especially one of a breed of hornless cattle.:
+a hornless animal, especially one of a breed of hornless cattle.:一种无角的动物，尤指一种无角的牛。
 record the opinion or vote of:记录意见或投票
 (of a candidate in an election) receive a specified number of votes:（选举中的候选人）获得指定票数
 check the status of (a device), especially as part of a repeated cycle:检查（设备）的状态，尤其是作为重复循环的一部分
-cut the horns off (an animal, especially a young cow).:
+cut the horns off (an animal, especially a young cow).:剪掉牛角（动物，尤其是小母牛）。
 cut off the top of (a tree or plant), typically to encourage further growth; pollard:切断（树或植物）的顶部，通常是为了促进进一步的生长；6
 poll |pəʊl| Noun/Verb/:轮询,投票,民意调查
 the country went to the polls on March 10:thecountry于3月10日进行了投票
-the ruling party won 24 seats, narrowly topping the poll:
+the ruling party won 24 seats, narrowly topping the poll:执政党赢得24席，以微弱优势领先
 the polls have only just closed:投票刚刚结束
 over half of those polled do not believe the prime minister usually tells the truth:超过一半的受访者不相信总理通常会说真话
 the Green candidate polled 3.6 per cent:theGreen候选人投票率3.6%
@@ -97,7 +97,7 @@ the network manager can also use the software to poll each Mac on the net:网络
 there were some beautiful willows, and now the idiot Parson has polled them into wretched stumps:有一些美丽的柳树，现在白痴帕森已经把它们变成了可怜的树桩
 
 permission for something to happen or agreement to do something:允许某事发生或同意做某事
-give permission for something to happen:
+give permission for something to happen:允许某事发生
 agree to do something:同意做某事
 consent |kənˈsɛnt| Noun/Verb/:同意
 no change may be made without the consent of all the partners:未经所有合作伙伴同意，不得更改
@@ -129,7 +129,7 @@ a poisonous snake:一条毒蛇
 there was a poisonous atmosphere at the office:办公室里有一种有毒的气氛
 
 an instance of one moving object or person striking violently against another:一个移动的物体或人猛烈撞击另一个的实例
-a conflict between opposing ideas, interests, or factions:
+a conflict between opposing ideas, interests, or factions:对立的想法、利益或派系之间的冲突
 an instance of two or more records being assigned the same identifier or location in memory.:两个或多个记录的实例在内存中被分配相同的标识符或位置。
 an instance of simultaneous transmission by more than one node of a network.:一个网络的多个节点同时传输的实例。
 collision |kəˈlɪʒn| Noun/:碰撞,冲突
@@ -146,12 +146,12 @@ a regular row or line of things or people:常规的一排或一行事物或人
 each of the eight rows of eight squares running from side to side across a chessboard.:每一个八行八个方格从一边到另一边穿过棋盘。
 the people belonging to or constituting a group or class:属于或构成一个群体或阶级的人
 (in the armed forces) those who are not commissioned officers:（在武装部队中）非委任军官
-the value or the order of the largest non-zero determinant of a given matrix.:
+the value or the order of the largest non-zero determinant of a given matrix.:给定矩阵的最大非零行列式的值或阶数。
 an analogous quantity in other kinds of group.:其他类群中的类似量。
 give (someone or something) a rank or place within a grading system:给（某人或某事）评分系统中的等级或位置
 have a specified rank or place within a grading system:在评分系统中有指定的排名或位置
 take precedence over (someone) in respect of rank; outrank:在等级上优先于（某人）；24
-arrange in a row or rows:arrangeinaroworrows
+arrange in a row or rows:排列成一行或多行
 (of vegetation) growing too thickly and coarsely:（植物的）生长过于粗壮
 having a foul or offensive smell:有恶臭或难闻的气味
 very unpleasant:非常不愉快
@@ -160,7 +160,7 @@ rank |raŋk| Adjective/Noun/Verb/:秩,等级,排名
 an army officer of high rank:一名高级军官
 only two cabinet members had held ministerial rank before:只有两名内阁成员曾担任过部长级别
 persons of rank and breeding:人的等级和教养
-they were drawn up outside their barracks in long ranks:
+they were drawn up outside their barracks in long ranks:他们在营房外排成长队
 conifer plantations growing in serried ranks:conifer种植园成排生长
 the ranks of Britain's unemployed:英国失业者的行列
 he was fined and reduced to the ranks:他被罚款降级
@@ -277,7 +277,7 @@ you can enable compression or even virus scanning prior to backup:您可以在�
 
 of small width in relation to length:相对于长度的小宽度
 limited in extent, amount, or scope:范围、数量或范围有限
-(of a person's attitude or beliefs) limited in range and unwilling or unable to appreciate alternative views:
+(of a person's attitude or beliefs) limited in range and unwilling or unable to appreciate alternative views:（一个人的态度或信念）范围有限，不愿意或不能欣赏其他观点
 precise or strict in meaning:精确或严格的含义
 (of a phonetic transcription) showing fine details of accent.:（音标）显示口音的细节。
 denoting or relating to a contest that is won or lost by only a very small margin:表示或与仅以很小的差距获胜或失败的比赛有关
@@ -311,11 +311,11 @@ they were taking a shortcut to town:他们走捷径进城
 teaching no longer offered a shortcut to secure employment:teaching不再提供确保就业的捷径
 
 time when one is not working or occupied; free time:不工作或不被占用的时间；5
-use of free time for enjoyment:
+use of free time for enjoyment:利用空闲时间享受
 opportunity afforded by free time to do something:空闲时间做某事的机会
 leisure |ˈlɛʒə| Noun/:闲暇,休闲
 people with too much enforced leisure:强迫休闲太多的人
-increased opportunities for leisure:
+increased opportunities for leisure:增加休闲机会
 writers with enough leisure to practise their art:writers有足够的空闲时间来练习他们的艺术
 
 present or existing from the beginning; first or earliest:present或从一开始就存在；首先或最早
@@ -357,7 +357,7 @@ an area of activity, interest, or expertise; a section of society or an aspect o
 enclose in or as if in a sphere:包围在或好像在一个球体中
 form into a rounded or perfect whole:形成一个圆形或完美的整体
 sphere |sfɪə| Noun/Verb/:领域,球,球面,球体
-the markers on the route included two conspicuous black spheres:
+the markers on the route included two conspicuous black spheres:路线上的标记包括两个显眼的黑色球体
 the room was littered with books, maps, and spheres:房间里堆满了书籍、地图和球体
 he sometimes took out his telescope to make sure the spheres were still revolving in good order:他有时会拿出他的望远镜来确保球体仍在正常旋转
 political reforms to match those in the economic sphere:政治改革以匹配经济领域的改革
@@ -379,7 +379,7 @@ the furthest limit of possibility, success, etc.:可能性、成功等的最远�
 a profit margin:a利润率
 a sum deposited with a broker to cover the risk of loss on a transaction or account.:一笔存入经纪人的款项，以弥补交易或账户损失的风险。
 an increment to a basic wage, paid for extra skill or responsibility.:增加基本工资，支付额外的技能或责任。
-provide with an edge or border:
+provide with an edge or border:提供边缘或边框
 annotate or summarize (a text) in the margins:annotate或在边缘总结（文本）
 deposit an amount of money with a broker as security for (an account or transaction):向经纪人存入一笔钱作为（账户或交易）的担保
 margin |ˈmɑːdʒɪn| Noun/Verb/:利润,保证金

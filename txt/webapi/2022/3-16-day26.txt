@@ -75,7 +75,7 @@ the longitudinal arrangement or pattern of fibres in wood, paper, etc.:木材、
 the texture of wood, stone, etc., as determined by the arrangement and size of constituent particles:木材、石头等的质地，由组成颗粒的排列和大小决定
 the rough or wrinkled outer surface of leather, or of a similar artificial material.:皮革或类似人造材料的粗糙或起皱的外表面。
 lamination or planes of cleavage in materials such as stone and coal.:在石头和煤等材料中的分层或解理平面。
-a grainy appearance of a photograph or negative, which is in proportion to the size of the emulsion particles composing it.:
+a grainy appearance of a photograph or negative, which is in proportion to the size of the emulsion particles composing it.:照片或负片的颗粒状外观，与组成它的乳剂颗粒的大小成正比。
 a person's character or natural tendency.:一个人的性格或自然倾向。
 kermes or cochineal, or dye made from either of these.:kermes或胭脂虫红，或由其中任何一种制成的染料。
 give a rough surface or texture to:给一个粗糙的表面或纹理
@@ -85,7 +85,6 @@ remove hair from (a hide).:removehairfrom(ahide).
 feed (a horse) on grain.:feed（一匹马）在谷物上。
 grain |ɡreɪn| Noun/Verb/:粮食,颗粒,谷物
 a few grains of corn:几粒玉米
-:
 there wasn't a grain of truth in what he said:他说的一点儿也不真实
 he scored along the grain of the table with the knife:他用刀沿着桌子的纹理得分
 the lighter, finer grain of the wood is attractive:更轻、更细的木纹很有吸引力
@@ -169,7 +168,7 @@ bacteria | 细菌,菌,微生物
 
 relating to a large company or group:与大公司或集团有关
 (of a large company or group) authorized to act as a single entity and recognized as such in law:（大型公司或集团）被授权作为单一实体行事并在法律上被承认
-of or shared by all the members of a group:
+of or shared by all the members of a group:属于或由一个组的所有成员共享
 a corporate company or group.:企业公司或集团。
 corporate |ˈkɔːp(ə)rət| Adjective/Noun/:公司的,企业
 airlines are very keen on their corporate identity:airlines非常热衷于他们的企业形象
@@ -228,11 +227,11 @@ client |ˈklʌɪənt| Noun/:客户,顾客
 insurance tailor-made to a client's specific requirements:insurance根据客户的具体要求量身定制
 a client referred for counselling:a客户转介接受咨询
 workstation clients are going to be easy to install:workstation客户端将易于安装
-friendly client programs like this enable you to perform complicated actions in just a mouse press or two:
+friendly client programs like this enable you to perform complicated actions in just a mouse press or two:像这样友好的客户端程序使您只需按一两下鼠标就可以执行复杂的操作
 
 a building for housing a motor vehicle or vehicles:用于容纳机动车辆或车辆的建筑物
 an establishment which sells fuel or which repairs and sells motor vehicles.:销售燃料或修理和销售机动车辆的机构。
-a style of unpolished, energetic rock music associated with suburban amateur bands:
+a style of unpolished, energetic rock music associated with suburban amateur bands:一种与郊区业余乐队有关的未经修饰的、充满活力的摇滚音乐风格
 a form of dance music incorporating elements of drum and bass, house music, and soul, characterized by a rhythm in which the second and fourth beats of the bar are omitted.:一种结合了鼓和贝斯、浩室音乐和灵魂乐元素的舞曲形式，其特点是省略了小节的第二和第四节拍的节奏。
 put or keep (a motor vehicle) in a garage:把（汽车）放在车库里
 garage |ˈɡarɑː(d)ʒ| Noun/Verb/:车库,送入车库,汽车
@@ -243,7 +242,7 @@ extreme tiredness resulting from mental or physical exertion or illness:精神�
 a reduction in the efficiency of a muscle or organ after prolonged activity:长时间活动后肌肉或器官的效率降低
 a lessening in one's response to or enthusiasm for something, caused by overexposure:由于过度暴露而导致对某事的反应或热情降低
 weakness in metal or other materials caused by repeated variations of stress:应力反复变化引起的金属或其他材料的弱点
-menial non-military tasks performed by a soldier, sometimes as a punishment:
+menial non-military tasks performed by a soldier, sometimes as a punishment:士兵执行的卑微的非军事任务，有时作为惩罚
 a group of soldiers ordered to do menial tasks.:一群士兵奉命干粗活。
 loose clothing, typically khaki, olive drab, or camouflaged, of a sort worn by soldiers on active duty:宽松的衣服，通常是卡其色、橄榄色或迷彩服，是现役士兵穿的那种
 cause (someone) to feel exhausted:导致（某人）感到筋疲力尽
@@ -257,7 +256,7 @@ metal fatigue:金属疲劳
 we're on cookhouse fatigues, sir:我们穿着厨房工作服，先生
 battle fatigues:战斗服
 they were fatigued by their journey:他们因旅途劳累
-different sensory fibres within the normal retina could be selectively fatigued:
+different sensory fibres within the normal retina could be selectively fatigued:正常视网膜内的不同感觉纤维可以有选择地疲劳
 the nails have become rusted through or fatigued:指甲已经生锈或疲劳
 
 a living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses, typically growing in a permanent site, absorbing water and inorganic substances through its roots, and synthesizing nutrients in its leaves by photosynthesis using the green pigment chlorophyll.:一种活的有机体，例如树木、灌木、草本植物、草、蕨类植物和苔藓，通常生长在永久的地方，通过其根部吸收水分和无机物质，并利用绿色植物通过光合作用在叶子中合成养分色素叶绿素。
@@ -321,7 +320,7 @@ receive or deal in (stolen goods):receive或处理（被盗货物）
 cope or deal with (someone or something):应付或处理（某人或某事）
 conduct oneself in a specified manner:行为规范
 defend oneself physically or verbally:在身体上或口头上为自己辩护
-drive or control (a vehicle):
+drive or control (a vehicle):驾驶或控制（车辆）
 (of a vehicle) respond in a specified manner when being driven or controlled:（车辆的）在被驱动或控制时以特定的方式做出反应
 the part by which a thing is held, carried, or controlled:持有、携带或控制物品的部分
 a means of understanding, controlling, or approaching (a person or situation):一种理解、控制或接近（人或情况）的方式
@@ -380,7 +379,7 @@ an aria from Bach's St Matthew Passion:巴赫《圣马太受难曲》中的咏�
 
 involving mutual assistance in working towards a common goal:涉及互助为共同目标而努力
 willing to be of assistance:愿意提供帮助
-(of a farm, business, etc.) owned and run jointly by its members, with profits or benefits shared among them.:
+(of a farm, business, etc.) owned and run jointly by its members, with profits or benefits shared among them.:（农场、企业等）由其成员共同拥有和经营，并在他们之间分享利润或利益。
 a farm, business, or other organization which is owned and run jointly by its members, who share the profits or benefits:由其成员共同拥有和经营的农场、企业或其他组织，他们分享利润或利益
 cooperative |kəʊˈɒp(ə)rətɪv| Adjective/Noun/:合作社,合作的
 every member has clearly defined tasks in a cooperative enterprise:每个成员在合作企业中都有明确的任务

@@ -209,7 +209,7 @@ enhance |ɪnˈhɑːns| Verb/:提高,增强
 his refusal does nothing to enhance his reputation:他的拒绝无助于提升他的声誉
 
 continue to have (something), keep possession of:continuetohave(something),继续拥有
-not abolish or alter, maintain:
+not abolish or alter, maintain:不废除或改变，维持
 keep in one's memory:记在心里
 absorb and continue to hold (a substance):absorb并继续持有（一种物质）
 keep (something) in place, hold fixed:keep(something)inplace,holdfixed
@@ -229,7 +229,7 @@ make (an idea, impression, or feeling) known or understandable:使（一个想�
 communicate (a message or information):communicate（消息或信息）
 transfer the title to (property):将所有权转让给（财产）
 convey |kənˈveɪ| Verb/:传达,传送,表达
-pipes were laid to convey water to the house:
+pipes were laid to convey water to the house:铺设管道将水输送到房屋
 the real virtues and diversity of America had never been conveyed in the movies:美国真正的美德和多样性从未在电影中传达过
 Mr Harvey and his daughter have asked me to convey their very kind regards:哈维先生和他的女儿让我转达他们非常亲切的问候
 no application for registration is required when the property is conveyed following a court order:根据法院命令转让财产时，无需申请注册
@@ -246,7 +246,7 @@ the regulation of financial markets:金融市场的监管
 
 the quality of being honest and having strong moral principles:诚实守信的品质
 the state of being whole and undivided:整体不分裂的状态
-the condition of being unified or sound in construction:
+the condition of being unified or sound in construction:施工统一或健全的情况
 internal consistency or lack of corruption in electronic data:电子数据的内部一致性或缺乏损坏
 integrity |ɪnˈtɛɡrɪti| Noun/:正直,诚信,完整性
 a gentleman of complete integrity:一个完全正直的绅士
@@ -271,7 +271,7 @@ permanency |ˈpəːmənənsi| Noun/:永久性,永久
 a complete list of items, typically one in alphabetical or other systematic order.:完整的项目列表，通常按字母顺序或其他系统顺序排列。
 a list of all the books or resources in a library:图书馆中所有书籍或资源的列表
 a publication containing details of items for sale, especially one produced by a mail-order company:包含待售物品详情的出版物，尤其是邮购公司生产的出版物
-a list of works of art in an exhibition or collection, with detailed comments and explanations:
+a list of works of art in an exhibition or collection, with detailed comments and explanations:展览或收藏中的艺术作品清单，并附有详细的评论和解释
 a list of courses offered by a university or college.:大学或学院提供的课程列表。
 a series of unwelcome or unpleasant things:一系列不受欢迎或不愉快的事情
 make a systematic list of (items of the same type):制作（相同类型的项目）的系统列表
@@ -290,7 +290,7 @@ an advisory, deliberative, or administrative body of people formally constituted
 a body of people elected to manage the affairs of a city, county, or other municipal district:被选为管理市、县或其他市辖区事务的一群人
 denoting housing provided by a local council at a subsidized rent:表示地方议会以补贴租金提供的住房
 an ecclesiastical assembly.:一个教会集会。
-a meeting for consultation or advice:
+a meeting for consultation or advice:咨询或建议会议
 council |ˈkaʊnsl| Noun/:理事会,美国
 an official human rights council:an官方人权理事会
 a ban on school buses using the road was imposed by the county council:县议会禁止校车使用公路
@@ -366,7 +366,7 @@ the sale of goods to the public in relatively small quantities for use or consum
 being sold by retail or at a retail price:以零售或零售价出售
 sell (goods) to the public by retail:通过零售向公众销售（商品）
 (of goods) be sold by retail for (a specified price):（商品）以（指定价格）零售
-relate or repeat (a story) in detail:
+relate or repeat (a story) in detail:详细地讲述或重复（一个故事）
 retail |ˈriːteɪl| Adverb/Noun/Verb/:零售,零售业
 it is not yet available retail:it尚未零售
 the difficulties in retailing the new products:新产品零售困难
@@ -404,7 +404,7 @@ the amount or number of a material or abstract thing not usually estimated by sp
 a certain, usually specified, amount or number of something:一个特定的，通常是指定的，数量或数量的东西
 a considerable number or amount of something:相当数量或数量的东西
 the perceived length of a vowel sound or syllable.:元音或音节的感知长度。
-a value or component that may be expressed in numbers.:
+a value or component that may be expressed in numbers.:可以用数字表示的值或组件。
 the figure or symbol representing a quantity.:代表数量的图形或符号。
 quantity |ˈkwɒntɪti| Noun/:数量,量
 the quantity and quality of the fruit can be controlled:水果的数量和质量可以控制

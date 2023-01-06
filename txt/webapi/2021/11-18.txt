@@ -76,7 +76,6 @@ a nice secluded spot:一个不错的僻静地点
 his bald spot:他的秃头
 the runner-up spot:亚军
 she couldn't do her usual singing spot in the club:她不能在俱乐部做她平常的歌声
-:
 may I offer you a spot?:我可以给你一个位置吗？
 trading in the spot markets:trading在现货市场
 a ten-spot:一个十点
@@ -112,7 +111,6 @@ police are appealing for witnesses to the accident:police正在呼吁目击事�
 a key witness at the trial:审判中的关键证人
 a deed signed in the presence of a witness:在证人在场的情况下签署的契约
 the memorial service was witness to the wide circle of his interests:追悼会见证了他的广泛兴趣
-:
 they will be able to give witness of their faith and confidence in God:他们将能够见证他们对上帝的信仰和信心
 staff who witnessed the murder:staff目睹了这起谋杀案
 the clerk witnessed her signature:店员见证了她的签名
@@ -123,7 +121,7 @@ the nuclear family is a vulnerable institution—witness the rates of marital br
 one of the purposes of his coming was to nerve the disciples to witness to Jesus:他来的目的之一是鼓动门徒们为耶稣作见证
 
 (of a person or part of the body) without clothes:（人或身体的一部分）不穿衣服
-(of an object) without the usual covering or protection:
+(of an object) without the usual covering or protection:（物体的）没有通常的覆盖或保护
 (of a tree, plant, or animal) without leaves, hairs, scales, etc.:（树、植物或动物的）没有叶子、毛发、鳞片等。
 devoid of:无
 exposed to harm; vulnerable:受到伤害；10
@@ -132,9 +130,9 @@ naked |ˈneɪkɪd| Adjective/:裸,裸体
 he'd never seen a naked woman before:他以前从未见过裸体女人
 her room was lit by a single naked bulb:她的房间被一个裸灯泡照亮
 the naked branches of the trees:光秃秃的树枝
-areas of skin naked of feathers:
+areas of skin naked of feathers:没有羽毛的皮肤区域
 John looked naked and defenceless without his spectacles:John不戴眼镜看起来赤身裸体，毫无防备
-naked fear made him tremble:
+naked fear made him tremble:赤裸裸的恐惧使他颤抖
 
 a half of a sphere.:半个球体。
 a half of the earth, usually as divided into northern and southern halves by the equator, or into western and eastern halves by an imaginary line passing through the poles.:地球的一半，通常被赤道分为南北两半，或者被穿过两极的假想线分为东西两半。
@@ -144,7 +142,7 @@ hemisphere |ˈhɛmɪsfɪə| Noun/:heisphere
 the left hemisphere plays a dominant role in the comprehension of language:左脑在语言理解中起主导作用
 
 relating to, composed of, or involving two things.:关于、由或涉及两件事。
-relating to, using, or denoting a system of numerical notation that has 2 rather than 10 as a base.:
+relating to, using, or denoting a system of numerical notation that has 2 rather than 10 as a base.:关于、使用或表示以 2 而不是 10 作为基数的数字符号系统。
 the binary system of notation:二进制符号系统
 something having two parts.:东西有两部分。
 a binary star.:一颗双星。
@@ -208,7 +206,7 @@ I'm wearing clerical bands, which are a sign of my office:我戴着文书乐队�
 a long, narrow band of cloud:a长而窄的云带
 the band of limestone continues north on the same contour:石灰岩带在同一等高线上继续向北
 your home was placed in one of eight valuation bands:你的家被置于八个估值区间之一
-channels in the UHF band:
+channels in the UHF band:UHF 频段的频道
 the top band of pupils:顶级学生乐队
 must I fall, and die in bands?:我必须跌倒，死在乐队里吗？
 doors are banded with iron to make them stronger:doors用铁绑起来，使它们更坚固
@@ -236,10 +234,9 @@ it's all so amateur!:这一切都太业余了！
 
 an expert in or student of astronomy.:天文学专家或学生。
 astronomer |əˈstrɒnəmə| Noun/:天文学家
-:
 
 (of two or more people or things) similar to each other:（两个或两个以上的人或事物）彼此相似
-in the same or a similar way:
+in the same or a similar way:以相同或相似的方式
 used to show that something applies equally to a number of specified subjects:用于表明某事同样适用于许多指定主题
 alike |əˈlʌɪk| Adjective/Adverb/:一样,相似,一模一样
 the brothers were very much alike:兄弟俩很像
@@ -257,9 +254,6 @@ a soft material for stuffing cushions, quilts, and other soft furnishings, made 
 powdered wool or cloth, used in making flock wallpaper.:粉状羊毛或布，用于制作植绒壁纸。
 a lock or tuft of wool or cotton.:一束羊毛或棉花。
 flock |flɒk| Noun/Verb/:群,一群,羊群
-:
-:
-:
 Thomas addressed his flock:Thomas向他的羊群发表讲话
 sandgrouse are liable to flock with other species:sandgrouse容易与其他物种成群结队
 tourists flock to Oxford in their thousands:tourists成千上万的涌向牛津
@@ -276,7 +270,7 @@ extravaganza |ɪkˌstravəˈɡanzə| Noun/:,盛宴
 an extravaganza of dance in many forms:各种形式的舞蹈盛会
 
 positioned in or relating to the sky, or outer space as observed in astronomy:定位在或与天空或天文学中观察到的外层空间有关
-belonging or relating to heaven:
+belonging or relating to heaven:属于或与天堂有关
 supremely good:非常好
 celestial |sɪˈlɛstɪəl| Adjective/:天上的,天体
 a celestial body:一个天体
@@ -377,10 +371,9 @@ heavens | 天,天堂
 a nocturnal bird of prey with large eyes, a facial disc, a hooked beak, and typically a loud hooting call.:夜行性猛禽，大眼睛、面部圆盘、钩状喙，通常会发出响亮的叫声。
 a person who habitually goes to bed late and feels energetic in the evening.:一个习惯晚睡，晚上感觉精力充沛的人。
 owl |aʊl| Noun/:猫头鹰
-:
 
 the action or process of classifying something:对某物进行分类的动作或过程
-the arrangement of animals and plants in taxonomic groups according to their observed similarities (including at least kingdom and phylum in animals, division in plants, and class, order, family, genus, and species):
+the arrangement of animals and plants in taxonomic groups according to their observed similarities (including at least kingdom and phylum in animals, division in plants, and class, order, family, genus, and species):根据观察到的相似性（至少包括动物中的界和门、植物中的划分以及纲、目、科、属和种）在分类群中对动植物的排列
 a category into which something is put:a将某物放入的类别
 classification |ˌklasɪfɪˈkeɪʃ(ə)n| Noun/:分类
 the classification of disease according to symptoms:疾病按症状分类
@@ -389,12 +382,12 @@ new classifications for drivers of commercial vehicles:新的商用车司机分�
 
 a group of living organisms consisting of similar individuals capable of exchanging genes or interbreeding. The species is the principal natural taxonomic unit, ranking below a genus and denoted by a Latin binomial, e.g. Homo sapiens.:一组由能够交换基因或杂交的相似个体组成的生物体。6
 a group subordinate to a genus and containing individuals agreeing in some common attributes and called by a common name.:一个隶属于一个属的群体，包含在某些共同属性上达成一致并以共同名称命名的个体。
-a kind or sort:akindorsort
+a kind or sort:一种或一种
 used humorously to refer to people who share a characteristic or occupation:幽默地用于指代具有共同特征或职业的人
 a particular kind of atom, molecule, ion, or particle:特定种类的原子、分子、离子或粒子
-the visible form of each of the elements of consecrated bread and wine in the Eucharist.:
+the visible form of each of the elements of consecrated bread and wine in the Eucharist.:圣体圣事中圣化面包和酒的每一个元素的可见形式。
 species |ˈspiːʃiːz| Noun/:物种,种类
-a species of invective at once tough and suave:
+a species of invective at once tough and suave:一种既强硬又温文尔雅的辱骂
 a political species that is becoming more common, the environmental statesman:一种越来越普遍的政治物种，环境政治家
 a new molecular species:一种新的分子物种
 
@@ -465,7 +458,6 @@ of mixed European (or European American) and Asian parentage.:混合欧洲（或
 relating to Eurasia.:有关欧亚大陆。
 a person of mixed European (or European American) and Asian parentage.:欧洲（或欧美）和亚洲混血儿。
 Eurasian |jʊ(ə)ˈreɪʒ(ə)n| Adjective/Noun/:欧亚,欧亚大陆
-:
 
 for the most part; mainly:大部分；主要是
 primarily |ˈprʌɪm(ə)rɪli| Adverb/:
@@ -477,7 +469,7 @@ Saharan |səˈhɑːrən| Adjective/:
 
 
 
-to a great extent; on the whole; mostly:
+to a great extent; on the whole; mostly:在很大程度上;总体上;大多
 largely |ˈlɑːdʒli| Adverb/:大部分,很大程度上
 he was soon arrested, largely through the efforts of Tom Poole:他很快被捕，主要是通过汤姆普尔的努力
 
@@ -516,10 +508,9 @@ wholly or partly of non-white descent.:完全或部分非白人血统。
 used as an ethnic label for people of mixed racial or ethnic origin:用作混合种族或民族血统的人的民族标签
 a person who is wholly or partly of non-white descent.:完全或部分非白人血统的人。
 a person of mixed descent usually speaking Afrikaans or English as their mother tongue:混血的人通常以南非荷兰语或英语为母语
-clothes, sheets, etc. that are any colour but white:
+clothes, sheets, etc. that are any colour but white:除白色外任何颜色的衣服、床单等
 coloured |ˈkʌləd| Adjective/Noun/:有色,有色的
 strings of coloured lights:串彩灯
-:
 there was a drive to recruit coloured, black, and Indian members:有一个招募有色人种、黑人和印度人成员的动力
 the ANC was not making much progress among Indians or mixed-race Coloureds:ANC在印度人或混血有色人种中没有取得太大进展
 she wouldn't mix her whites with her coloureds on wash day:她不会在洗涤日将她的白色和她的有色人种混在一起
@@ -528,7 +519,7 @@ a bird's feathers collectively:a鸟的羽毛统称
 plumage |ˈpluːmɪdʒ| Noun/:羽毛
 the male in full breeding plumage:全身羽毛丰满的雄性
 
-extremely good; outstanding:
+extremely good; outstanding:超级好;杰出的
 used to indicate approval or pleasure:用于表示认可或愉悦
 excellent |ˈɛks(ə)l(ə)nt| Adjective/Interjection/:优秀,优秀的,出色的,优良
 the lorry was in excellent condition:货车状况良好
@@ -541,7 +532,7 @@ actions or devices intended to disguise or mislead:意图伪装或误导的动�
 hide or disguise the presence of (a person, animal, or object) by means of camouflage:通过伪装隐藏或伪装（人、动物或物体）的存在
 conceal the existence of (something undesirable):隐藏的存在（不受欢迎的东西）
 camouflage |ˈkaməflɑːʒ| Noun/Verb/:伪装
-on the trenches were pieces of turf which served for camouflage:
+on the trenches were pieces of turf which served for camouflage:战壕上有几块草皮，用来伪装
 figures dressed in army camouflage:figures身着军装
 the whiteness of polar bears provides camouflage:北极熊的白度提供伪装
 much of my apparent indifference was merely protective camouflage:我明显的漠不关心只是保护性伪装
@@ -558,7 +549,7 @@ birds were hurrying to their evening roosts:birds匆匆赶往他们的晚间栖�
 migrating martins and swallows were settling to roost:migrating马丁斯和燕子正在栖息
 
 situated in or full of shade:位于或充满阴凉处
-giving shade from sunlight:
+giving shade from sunlight:遮挡阳光
 of doubtful honesty or legality:可疑的诚实或合法性
 shady |ˈʃeɪdi| Adjective/:
 shady woods:阴暗的树林

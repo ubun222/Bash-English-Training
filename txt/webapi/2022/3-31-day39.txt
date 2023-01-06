@@ -46,13 +46,12 @@ I do not apprehend that this case will be embarrassed by that decision:我不担
 
 make or become weaker in power, resolve, or physical strength:使力量、决心或体力变弱或变弱
 weaken |ˈwiːk(ə)n| Verb/:削弱,减弱,弱化
-:
 
 a solid, naturally occurring inorganic substance:一种固体、天然存在的无机物质
 a substance obtained by mining:一种通过挖矿获得的物质
 an inorganic substance needed by the human body for good health:人体健康所需的无机物
 fizzy soft drinks.:汽水软饮料。
-of or denoting a mineral:
+of or denoting a mineral:属于或表示矿物
 mineral |ˈmɪn(ə)rəl| Adjective/Noun/:矿物,矿产,矿物质
 it identifies the mineral or compound present:it识别存在的矿物质或化合物
 the economy has long been dependent on exports of minerals, especially gold:经济长期依赖矿产出口，尤其是黄金
@@ -117,7 +116,7 @@ the mice were challenged with the influenza virus:小鼠受到流感病毒的攻
 an amount of something that is more than necessary, permitted, or desirable:超出必要、允许或可取的东西的数量
 the amount by which one quantity or number exceeds another:一个数量或数量超过另一个的数量
 the action of exceeding a permitted or acceptable limit:超出允许或可接受限度的行为
-lack of moderation, especially in eating or drinking:
+lack of moderation, especially in eating or drinking:缺乏节制，尤其是在饮食方面
 outrageous or immoderate behaviour:粗暴或无礼的行为
 a part of an insurance claim to be paid by the insured:保险索赔的一部分由被保险人支付
 exceeding a prescribed or desirable amount:超过规定或合意的数额
@@ -144,7 +143,7 @@ enrol (someone) as a member or worker in an organization or as a supporter of a 
 persuade to do or help with something:说服做某事或帮助某事
 replenish or reinvigorate (numbers, strength, etc.):replenish或reinvigorate（数字、力量等）
 a person newly enlisted in the armed forces and not yet fully trained.:一个新入伍但尚未完全训练的人。
-a new member of an organization or supporter of a cause.:
+a new member of an organization or supporter of a cause.:组织的新成员或事业的支持者。
 recruit |rɪˈkruːt| Noun/Verb/:招募,新成员,招,招收,新兵
 we recruit our toughest soldiers from the desert tribes:我们从沙漠部落招募我们最坚强的士兵
 the weakness of feudal service as a basis for recruiting an army:以封建制度为征兵基础的弱点
@@ -199,7 +198,6 @@ two escaped convicts kidnapped them at gunpoint:two逃犯在枪口下绑架了�
 
 make or become deep or deeper:makeor变得更深或更深
 deepen |ˈdiːp(ə)n| Verb/:深化,加深
-:
 
 a large receptacle or storage chamber, especially for liquid or gas.:一个大的容器或储存室，特别是液体或气体。
 the container holding the fuel supply in a motor vehicle, aircraft, etc.:在机动车辆、飞机等中容纳燃料供应的容器。
@@ -274,7 +272,7 @@ an area defended by a team or player in a game or sport.:在比赛或运动中�
 an area in which one has certain rights or for which one has responsibility with regard to a particular type of activity:一个人拥有某些权利或对特定类型的活动负有责任的领域
 land with a specified characteristic:land具有指定特征
 (especially in the US, Canada, or Australia) an organized division of a country that is not yet admitted to the full rights of a state.:（尤其是在美国、加拿大或澳大利亚）一个国家的有组织的部门，尚未获得国家的全部权利。
-an area of knowledge, activity, or experience:
+an area of knowledge, activity, or experience:知识、活动或经验的领域
 territory |ˈtɛrɪt(ə)ri| Noun/:领土,领地,地域
 both countries accused the other of encroaching on their territory:both国家指责对方侵犯其领土
 male blackbirds try to attract as many females to their territory as possible:maleblackbirds试图吸引尽可能多的雌性到它们的领地
@@ -289,7 +287,7 @@ come into forcible contact with:强行接触
 press (something) firmly:按（某物）用力
 have a strong effect on someone or something:对某人或某事有强烈的影响
 impact |ˈɪmpakt| Noun/Verb/:影响,造成影响,冲击力
-there was the sound of a third impact:
+there was the sound of a third impact:有第三次撞击的声音
 our regional measures have had a significant impact on unemployment:我们的区域措施对失业产生了重大影响
 the shell impacted twenty yards away:炮弹击中了二十码外
 an asteroid impacted the earth some 60 million years ago:一颗小行星在大约6000万年前撞击地球

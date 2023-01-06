@@ -35,7 +35,7 @@ a regular row or line of things or people:a规则的一行或一行的东西或�
 each of the eight rows of eight squares running from side to side across a chessboard.:在棋盘上从一侧到另一侧排列的八行八个方格中的每一个。
 the people belonging to or constituting a group or class:属于或组成团体或班级的人
 (in the armed forces) those who are not commissioned officers:（在军队中）非委任军官
-the value or the order of the largest non-zero determinant of a given matrix.:
+the value or the order of the largest non-zero determinant of a given matrix.:给定矩阵的最大非零行列式的值或阶数。
 an analogous quantity in other kinds of group.:其他种类组中的类似数量。
 give (someone or something) a rank or place within a grading system:在评分系统中给（某人或某物）一个等级或位置
 have a specified rank or place within a grading system:在评分系统中具有指定的等级或位置
@@ -49,8 +49,8 @@ rank |raŋk| Adjective/Noun/Verb/:秩,等级
 an army officer of high rank:一名高级军官
 only two cabinet members had held ministerial rank before:之前只有两名内阁成员担任部长级职务
 persons of rank and breeding:人的等级和繁殖
-they were drawn up outside their barracks in long ranks:
-conifer plantations growing in serried ranks:
+they were drawn up outside their barracks in long ranks:他们在营房外排成长队
+conifer plantations growing in serried ranks:成排生长的针叶树种植园
 the ranks of Britain's unemployed:英国失业者的行列
 he was fined and reduced to the ranks:he被罚款降级
 students ranked the samples in order of preference:students按喜好对样本进行排序
@@ -58,7 +58,7 @@ he now ranks third in America:he现在在美国排名第三
 the Secretary of State ranks all the other members of the cabinet:国务卿对内阁所有其他成员进行排名
 the tents were ranked in orderly rows:帐篷排列整齐
 clumps of rank grass:一丛丛等级的草
-breathing rank air:breathingrankair
+breathing rank air:呼吸等级空气
 the tea at work is nice but the coffee's pretty rank:工作中的茶很好喝，但咖啡很高档
 rank stupidity:rank愚蠢
 
@@ -125,7 +125,7 @@ his claim that all power proceeded from God:他声称所有的力量都来自上
 
 (of a person, especially a woman or child) attractive in a delicate way without being truly beautiful:（一个人，尤其是女人或孩子）以一种微妙的方式吸引人，但并不真正美丽
 (of a thing) pleasing to the eye or the ear:（事物的）赏心悦目
-used ironically to express annoyance or displeasure:
+used ironically to express annoyance or displeasure:讽刺地用来表达烦恼或不快
 to a moderately high degree; fairly:中等高度；10
 an attractive thing, especially a trinket:一件有吸引力的东西，尤其是小饰品
 used to refer in a condescending way to an attractive person:用于以居高临下的方式提及有吸引力的人
@@ -133,7 +133,7 @@ make pretty or attractive:使漂亮或有吸引力
 pretty |ˈprɪti| Adjective/Adverb/Noun/Verb/:漂亮,漂亮的,相当
 a pretty little girl with an engaging grin:一个漂亮的小女孩，笑容迷人
 a pretty summer dress:一件漂亮的夏装
-he led me a pretty dance:
+he led me a pretty dance:他领我跳了一支漂亮的舞
 he looked pretty fit for his age:他看起来很适合他的年龄
 he buys her lots of pretties—bangles and rings:他给她买了很多漂亮的东西——手镯和戒指
 six pretties in sequined leotards:6个穿着亮片紧身衣的美女
@@ -152,7 +152,7 @@ a group of racehorses trained at one stable.:一组在一个马厩里训练的�
 a reserve team or player holding a specified position in an order of preference:a预备队或按优先顺序占据指定位置的球员
 a player assigned a specified rank in a team in an individual sport such as squash:在壁球等单项运动的团队中获得指定排名的球员
 a tough piece of fibre in vegetables, meat, or other food, such as a tough elongated piece connecting the two halves of a bean pod.:蔬菜、肉类或其他食物中的坚韧纤维片，例如连接豆荚两半的坚韧细长片。
-a G-string or thong.:
+a G-string or thong.:丁字裤或丁字裤。
 a hypothetical one-dimensional subatomic particle having the dynamical properties of a flexible loop.:一种假设的一维亚原子粒子，具有柔性回路的动力学特性。
 a hypothetical threadlike concentration of energy within the structure of space–time.:时空结构中一种假设的线状能量集中。
 hang (something) so that it stretches in a long line:hang(something)所以它排成一条长线
@@ -172,7 +172,7 @@ a string quartet:弦乐四重奏
 she wore a string of agates round her throat:她脖子上戴着一串玛瑙
 the village team held Rangers' second string to a 0–0 draw:村队以
 Taylor lost to third string Baines:Taylor输给了三弦贝恩斯
-lights were strung across the promenade:
+lights were strung across the promenade:长廊上挂满了灯
 he collected stones with holes in them and strung them on a strong cord:他收集了有洞的石头，然后用一根结实的绳子把它们串起来
 the houses were strung along the road:房子沿路串起来
 the harp had been newly strung:竖琴是新上弦的
@@ -182,7 +182,7 @@ he strings for almost every French radio service:he用于几乎所有法国广�
 
 
 granular:粒度
-showing visible grains of emulsion, as characteristic of old photographs or modern high-speed film.:
+showing visible grains of emulsion, as characteristic of old photographs or modern high-speed film.:显示可见的乳剂颗粒，作为旧照片或现代高速胶片的特征。
 (of sound, especially recorded music) having a rough or gravelly quality:（声音，尤其是录制的音乐）具有粗糙或沙哑的品质
 (of wood) having prominent grain.:（木的）具有突出的纹理。
 grainy |ˈɡreɪni| Adjective/:,粒状
@@ -203,7 +203,7 @@ remove a small piece of (a bus or train ticket) to show that it has been used.:�
 process (an image) so as to remove the parts outside a certain area:process（一个图像）以便去除某个区域之外的部分
 truncate the amplitude of (a signal) above or below predetermined levels:truncate（信号）的幅度高于或低于预定水平
 strike smartly or with a glancing blow:strike巧妙地或一击
-swindle or rob:swindleorrob
+swindle or rob:诈骗或抢劫
 move quickly:快速行动
 an act of clipping or trimming something:剪切或修剪某物的行为
 the quantity of wool clipped from a sheep or flock:从绵羊或羊群中剪下的羊毛数量
@@ -227,7 +227,7 @@ in all the years he ran the place, he was clipped only three times:他经营这�
 we clip down the track:we剪下轨道
 I gave him a full clip:我给了他一个完整的剪辑
 a local agent will arrange for the clip to be sold at auction:当地代理商将安排在拍卖会上出售该剪辑
-clips from earlier shows:
+clips from earlier shows:早期节目的剪辑
 I'd give him a clip round the ear:我会给他一个夹在耳朵上的夹子
 we crossed the dance floor at an amazingly fast clip:我们以惊人的速度穿过舞池
 
@@ -250,13 +250,10 @@ a firearm.:一把枪。
 a woman.:一个女人。
 a sandwich or other item of food taken as a snack.:三明治或其他作为零食的食物。
 assemble something from parts or pieces:用零件或零件组装东西
-slowly make sense of something from separate pieces of evidence:
-extend something:extendsomething
+slowly make sense of something from separate pieces of evidence:慢慢地从不同的证据中理解某些东西
+extend something:扩展某物
 patch (something):patch（某事）
 piece |piːs| Noun/Verb/:片,拼凑,一块
-:
-:
-:
 each employee owns a piece of the company:每位员工拥有公司的一部分
 a haunting piece of music:一首令人难以忘怀的音乐
 a crucial piece of evidence:一个重要的证据
@@ -272,10 +269,10 @@ not open to more than one interpretation:不接受多种解释
 unambiguous |ʌnamˈbɪɡjʊəs| Adjective/:明确的,毫不含糊
 instructions should be unambiguous:instructions应该是明确的
 
-only just; almost not:
+only just; almost not:仅仅只是;几乎没有
 only a very short time before:只有很短的时间之前
 in a simple and sparse way:以一种简单而稀疏的方式
-openly; explicitly.:
+openly; explicitly.:公然;明确地。
 barely |ˈbɛːli| Adverb/:,勉强
 she nodded, barely able to speak:she点点头，几乎说不出话来
 they had barely sat down before forty policemen swarmed in:他们刚坐下，四十名警察就蜂拥而至
@@ -306,7 +303,7 @@ applause rippled around the tables:掌声在桌子周围荡漾
 publicly display (a work of art or item of interest) in an art gallery or museum or at a trade fair:在艺术画廊或博物馆或贸易展览会上公开展示（艺术品或感兴趣的物品）
 (of an artist) display one's work to the public in an art gallery or museum:（艺术家的）在美术馆或博物馆向公众展示自己的作品
 publicly display the work of (an artist) in an art gallery or museum:在美术馆或博物馆公开展示（艺术家）的作品
-manifest clearly (a quality or a type of behaviour):
+manifest clearly (a quality or a type of behaviour):清楚地表现出来（一种品质或一种行为）
 show as a sign or symptom:show作为标志或症状
 an object or collection of objects on public display in an art gallery or museum or at a trade fair:在艺术画廊或博物馆或贸易展览会上公开展示的物品或物品集合
 an exhibition:一个展览
@@ -378,7 +375,7 @@ Bryant objects this very circumstance to the authenticity of the Iliad:Bryant反
 lift or move to a higher position or level:提升或移动到更高的位置或级别
 lift or move to a vertical position; set upright:抬起或移动到垂直位置；直立
 construct or build (a structure):constructorbuild（一个结构）
-cause to rise or form:causetoraiseorform
+cause to rise or form:引起上升或形成
 bring to the surface (a ship that has sunk):bringtothesurface（一艘沉没的船）
 cause (bread) to rise, especially by the action of yeast:cause(bread)toup,特别是通过酵母的作用
 make (a nap) on cloth:make（小睡）在布上
@@ -441,6 +438,5 @@ protection or exemption from something, especially an obligation or penalty:保�
 officially granted exemption from legal proceedings or liability.:官方授予免除法律诉讼或责任的权利。
 lack of susceptibility, especially to something unwelcome or harmful:缺乏敏感性，尤其是对不受欢迎或有害的事物
 immunity |ɪˈmjuːnɪti| Noun/:免疫,免疫力
-:
 the rebels were given immunity from prosecution:叛军获得了免于起诉的豁免权
 products must have an adequate level of immunity to interference:产品必须具有足够的抗干扰能力

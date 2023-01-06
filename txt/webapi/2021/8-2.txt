@@ -118,8 +118,6 @@ inundate with a great quantity of something:inundate有大量的东西
 deluge |ˈdɛljuːdʒ| Noun/Verb/:洪水,泛滥
 this may be the worst deluge in living memory:这可能是记忆中最糟糕的洪水
 the world appeared to be emerging still from the waters of the Deluge:世界似乎仍然从大洪水中浮出水面
-:
-:
 caravans were deluged by the heavy rains:caravans被大雨淹没
 he has been deluged with offers of work:他收到了大量的工作邀请
 
@@ -178,7 +176,6 @@ they were together for an instant, and then smash it was all gone:他们在一�
 
 a river in western Europe which rises in the Swiss Alps and flows for 1,320 km (820 miles) to the North Sea. It forms the border between Germany and Switzerland in the south, then Germany and France, before flowing north through Germany and westwards through the Netherlands to empty into the North Sea near Rotterdam. French name Rhin /ʀɛ̃/; German name Rhein.:西欧的一条河流，发源于瑞士阿尔卑斯山，流向北海，全长1,320公里（820英里）。它在南部形成德国和瑞士之间的边界，然后是德国和法国，然后向北流经德国，向西流经荷兰，流入鹿特丹附近的北海。法文名Rhin/ʀɛ̃/；德国名字莱茵。
 Rhine |rʌɪn| Noun/:莱茵河,莱茵
-:
 
 a bowl for washing, typically attached to a wall and having taps connected to a water supply; a washbasin.:一个用于洗涤的碗，通常贴在墙上，并有连接到供水系统的水龙头；一个洗脸盆。
 a wide open container used for preparing food or for holding liquid:用于准备食物或盛装液体的敞开式容器
@@ -319,7 +316,6 @@ the white pink and the pansy freaked with jet:白色粉红色和被喷气机吓�
 
 to an increasing extent; more and more:越来越大；越来越多
 increasingly |ɪnˈkriːsɪŋli| Adverb/:日益,越来越多
-:
 
 push or shake (someone or something) abruptly and roughly:推或摇（某人或某物）突然粗暴
 give a surprise or shock to (someone) in order to make them act or change:给（某人）一个惊喜或震惊，以使他们采取行动或改变
@@ -350,7 +346,7 @@ go or extend across or to the other side of (an area, stretch of water, etc.):go
 go across or climb over (an obstacle or boundary):越过或越过（障碍物或边界）
 (especially of an artist or an artistic style or work) begin to appeal to a different audience, especially a wider one:（尤其是艺术家或艺术风格或作品）开始吸引不同的观众，尤其是更广泛的观众
 pass in an opposite or different direction; intersect:pass在相反或不同的方向；相交
-cause to intersect or lie crosswise:causetointersectorliebycross
+cause to intersect or lie crosswise:导致相交或交叉
 (of a letter) be dispatched before receipt of another from the person being written to:（一封信）在收到另一封信之前发送
 draw a line or lines across; mark with a cross:画一条或多条线；用十字标记
 mark or annotate (a cheque), typically by drawing a pair of parallel lines across it, to indicate that it must be paid into a named bank account:mark或annotate（支票），通常通过在上面画一对平行线来表明它必须支付到指定的银行账户

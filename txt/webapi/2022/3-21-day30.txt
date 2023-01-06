@@ -72,7 +72,7 @@ become apparent or prominent:变得明显或突出
 (of facts) become known:(of事实)为人所知
 recover from or survive a difficult situation:从困境中恢复或生存
 emerge |ɪˈməːdʒ| Verb/:出现,冒出
-black ravens emerged from the fog:
+black ravens emerged from the fog:黑乌鸦从雾中出现
 the larvae pupate among the roots of trees to emerge as the adults:幼虫在树根间化蛹成虫
 United have emerged as the bookies' clear favourite:United已成为博彩公司的最爱
 reports of a deadlock emerged during preliminary discussions:在初步讨论期间出现了僵局的报告
@@ -89,7 +89,7 @@ I instanced Bob as someone whose commitment had certainly got things done:我把
 (of a slope, flight of stairs, or angle) rising or falling sharply, almost perpendicular:（斜坡、楼梯或角度）急剧上升或下降，几乎垂直
 (of a rise or fall in an amount) very large or rapid:（数量的上升或下降）非常大或迅速
 (of a price or demand) not reasonable, excessive:（价格或需求的）不合理的，过度的
-(of a claim or account) exaggerated or incredible:
+(of a claim or account) exaggerated or incredible:（索赔或帐户）夸大或难以置信
 a steep mountain slope:陡峭的山坡
 soak (food or tea) in water or other liquid so as to extract its flavour or to soften it:将（食物或茶）浸泡在水或其他液体中，以提取其风味或使其软化
 soak or saturate (cloth) in water or other liquid:在水或其他液体中浸泡或饱和（布）
@@ -134,7 +134,7 @@ a person's name written in a distinctive way as a form of identification in auth
 the action of signing a document:签署文件的动作
 a distinctive pattern, product, or characteristic by which someone or something can be identified:可以识别某人或某物的独特模式、产品或特征
 a letter or figure printed at the foot of one or more pages of each sheet of a book as a guide in binding.:一个字母或图形印在每本书的一页或多页脚下，作为装订指南。
-a printed sheet after being folded to form a group of pages.:
+a printed sheet after being folded to form a group of pages.:折叠形成一组页面后的打印页。
 the part of a medical prescription that gives instructions about the use of the medicine or drug prescribed.:医疗处方中对药物或处方药的使用进行说明的部分。
 signature |ˈsɪɡnətʃə| Noun/:签名,签字
 the signature of a senior manager:高级经理签字
@@ -150,7 +150,7 @@ he continued to surpass me at all games:他在所有比赛中继续超越我
 the organist was surpassing himself:管风琴师正在超越自己
 
 an organized course of action to achieve a goal:实现目标的有组织的行动方案
-a set of organized actions that a political candidate undertakes in an attempt to win an election:asetoforganizedactionsthatapoliticalcandidateundertakesinanattempttowinanelection
+a set of organized actions that a political candidate undertakes in an attempt to win an election:a set of organized actions that a political candidate undertakes in an attempt to win an election
 a series of military operations intended to achieve a particular objective, confined to a particular area, or involving a specified type of fighting:旨在实现特定目标、局限于特定区域或涉及特定类型战斗的一系列军事行动
 work in an organized and active way towards a particular goal, typically a political or social one:以有组织和积极的方式朝着特定目标工作，通常是政治或社会目标
 campaign |kamˈpeɪn| Noun/Verb/:活动,领导运动,运动,竞选活动
@@ -172,7 +172,7 @@ a development or improvement:a发展或改进
 an increase in amount or price:数量或价格增加
 an amount of money paid before it is due or for work only partly completed:在到期前或仅部分完成的工作中支付的金额
 a loan:一笔贷款
-an approach made to someone with the aim of initiating sexual or amorous relations:
+an approach made to someone with the aim of initiating sexual or amorous relations:以开始性关系或恋爱关系为目的对某人进行的接近
 done, sent, or supplied beforehand:提前完成、发送或提供
 advance |ədˈvɑːns| Adjective/Noun/Verb/:进步,前进,事先的,提前,推进
 he advanced towards the dispatch box:他向调度箱前进
@@ -183,7 +183,6 @@ the hypothesis I wish to advance in this article:我希望在本文中提出的�
 the building society advanced them a loan:thebuildingSociety向他们提供了一笔贷款
 he advanced me a month's salary:他预支了我一个月的薪水
 the rebels' advance on Madrid was well under way:反叛军在马德里的进攻进展顺利
-:
 share prices showed significant advances:股价显着上涨
 the author was paid a £250,000 advance:作者预付了250,000英镑
 an advance from the bank:银行预支款
@@ -203,7 +202,7 @@ help or money given to those in need:help或钱给有需要的人
 kindness and tolerance in judging others:善待他人
 love of humankind, typically in a Christian context:人类之爱，通常在基督教背景下
 charity |ˈtʃarɪti| Noun/:慈善机构,慈善事业
-the charity provides practical help for homeless people:
+the charity provides practical help for homeless people:该慈善机构为无家可归的人提供实际帮助
 the proceeds of the sale will go to charity:销售所得将捐给慈善机构
 the care of the poor must not be left to private charity:穷人的关怀绝不能交给私人慈善机构
 an unemployed teacher living on charity:一位靠慈善为生的失业教师
@@ -263,7 +262,7 @@ a state of physical strain, especially difficulty in breathing:身体紧张状�
 cause (someone) anxiety, sorrow, or pain:引起（某人）焦虑、悲伤或痛苦
 give (furniture or clothing) simulated marks of age and wear:give（家具或服装）模拟年龄和磨损标记
 distress |dɪˈstrɛs| Noun/Verb/:苦恼,窘迫
-to his distress he saw that she was trembling:
+to his distress he saw that she was trembling:令他苦恼的是他看到她在发抖
 vessels in distress on or near the coast:在海岸或附近遇险的船只
 a company in financial distress:一家陷入财务困境的公司
 they said the baby was in distress:他们说宝宝很痛苦
@@ -310,7 +309,7 @@ freedom from worries or problems:从烦恼或问题中解脱出来
 make (something unpleasant or intense) less serious or severe:make（一些不愉快或强烈的）不太严重或严重
 become less serious or severe:变得不那么严重或严重
 make (something) happen more easily, facilitate:make（某事）更容易发生，促进
-(of share prices, interest rates, etc.) decrease in value or amount:
+(of share prices, interest rates, etc.) decrease in value or amount:（股价、利率等）价值或数量的减少
 slacken a rope or sail.:松开绳索或帆。
 move carefully or gradually:小心或逐渐移动
 move (someone or something) carefully or gradually:移动（某人或某物）小心或逐渐
@@ -343,7 +342,7 @@ the lorry was in excellent condition:卡车状况良好
 
 carry out a systematic or formal inquiry to discover and examine the facts of (an incident, allegation, etc.) so as to establish the truth:进行系统或正式的调查，以发现和审查（事件、指控等）的事实，以确定真相
 carry out research or study into (a subject or problem, typically one in a scientific or academic field):进行研究或研究（一个主题或问题，通常是科学或学术领域的一个）
-make inquiries as to the character, activities, or background of (someone):
+make inquiries as to the character, activities, or background of (someone):询问（某人）的性格、活动或背景
 make a check to find out something:进行检查以找出问题
 investigate |ɪnˈvɛstɪɡeɪt| Verb/:调查,探讨,进行调查
 police are investigating a claim that the man was beaten unconscious by a gang:police正在调查该男子被团伙殴打昏迷的说法

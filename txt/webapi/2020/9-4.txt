@@ -73,7 +73,7 @@ the audience was full of praise for the whole production:观众对整个制作�
 give praise to God:赞美神
 
 raise levels of physiological or nervous activity in (the body or any biological system):提高（身体或任何生物系统）的生理或神经活动水平
-encourage or arouse interest or enthusiasm in:
+encourage or arouse interest or enthusiasm in:鼓励或引起兴趣或热情
 encourage development of or increased activity in (a state or process):鼓励在（状态或过程）中发展或增加活动
 stimulate |ˈstɪmjʊleɪt| Verb/:,激发
 the women are given fertility drugs to stimulate their ovaries:女性服用生育药物以刺激她们的卵巢
@@ -82,11 +82,9 @@ the courses stimulate a passion for learning:课程激发学习热情
 
 a chemical substance which is released at the end of a nerve fibre by the arrival of a nerve impulse and, by diffusing across the synapse or junction, effects the transfer of the impulse to another nerve fibre, a muscle fibre, or some other structure.:一种化学物质，在神经冲动到达时在神经纤维末端释放，并通过突触或连接处扩散，影响将冲动转移到另一根神经纤维、肌肉纤维或其他一些结构体。
 neurotransmitter |ˌnjʊərəʊtranzˈmɪtə| Noun/:神经递质,神经传导物质
-:
 
 a compound present in the body as a neurotransmitter and a precursor of other substances including adrenaline.:一种存在于体内的化合物，作为神经递质和其他物质（包括肾上腺素）的前体。
 dopamine |ˈdəʊpəmiːn| Noun/:多巴胺,多巴氨
-:
 
 show (someone) to be involved in a crime:show（某人）参与犯罪
 bear some of the responsibility for (an action or process, especially a criminal or harmful one):承担一些责任（行动或过程，尤其是犯罪或有害的）
@@ -118,7 +116,7 @@ any form of mountaineering has its inherent dangers:任何形式的登山都有�
 the president's inherent foreign affairs power:总统固有的外交权力
 
 savagely violent:野蛮暴力
-unpleasant or harsh:
+unpleasant or harsh:不愉快或刺耳
 direct and without attempting to disguise unpleasantness:direct并且不试图掩饰不愉快
 brutal |ˈbruːt(ə)l| Adjective/:野蛮,残酷,残暴,野蛮的
 a brutal murder:一场残忍的谋杀
@@ -134,7 +132,7 @@ a move intended to allow the opponent to win a pawn or piece, for strategic or t
 a bunted or fly ball which puts the batter out but allows a base runner to advance.:abunted或flyball将击球手击出但允许跑垒员前进。
 a bid made in the belief that it will be less costly to be defeated in the contract than to allow the opponents to make a contract.:出价时相信在合同中被击败比让对手签订合同成本更低。
 offer or kill as a religious sacrifice:offerorkill作为宗教牺牲
-give up (something valued) for the sake of other considerations:
+give up (something valued) for the sake of other considerations:为了其他考虑而放弃（有价值的东西）
 deliberately allow one's opponent to win (a pawn or piece):故意让对手获胜（棋子或棋子）
 advance (a base runner) by a sacrifice:advance（跑垒员）牺牲
 make a sacrifice bid:作出牺牲出价
@@ -177,7 +175,7 @@ give something to (someone) in recognition of their services, efforts, or achiev
 show one's appreciation of (an action or quality):表现出对（一个动作或品质）的欣赏
 receive what one deserves:收到应得的
 reward |rɪˈwɔːd| Noun/Verb/:报酬,奖励,赏,奖金
-the holiday was a reward for 40 years' service with the company:
+the holiday was a reward for 40 years' service with the company:这个假期是对公司 40 年服务的奖励
 a slap on the face was his reward for his cheek:一巴掌是他对脸颊的奖励
 the police are offering a reward of up to one thousand pounds for information leading to an arrest and conviction:警方提供高达一千英镑的奖励，以提供导致逮捕和定罪的信息
 the engineer who supervised the work was rewarded with the MBE:监督工作的工程师获得MBE奖励
@@ -254,7 +252,7 @@ the original shallow depressions were slowly converted to creeks:原来的浅洼
 hurricanes start off as loose regions of bad weather known as tropical depressions:hurricanes开始于被称为热带低气压的恶劣天气的松散区域
 
 a feeling of worry, nervousness, or unease about something with an uncertain outcome:对结果不确定的事情感到担心、紧张或不安
-a mental condition characterized by excessive apprehensiveness about real or perceived threats, typically leading to avoidance behaviours and often to physical symptoms such as increased heart rate and muscle tension:
+a mental condition characterized by excessive apprehensiveness about real or perceived threats, typically leading to avoidance behaviours and often to physical symptoms such as increased heart rate and muscle tension:一种精神状态，其特征是对真实或感知到的威胁过度担心，通常会导致回避行为，并经常出现身体症状，例如心率加快和肌肉紧张
 strong desire or concern to do something or for something to happen:强烈渴望或担心做某事或某事发生
 anxiety |aŋˈzʌɪəti| Noun/:焦虑
 he felt a surge of anxiety:他感到一阵焦虑
@@ -279,7 +277,7 @@ a person or thing that becomes the object of love or another emotion which is de
 a sports player nominated as eligible to replace another after a match has begun:一名运动员在比赛开始后被提名为有资格替换另一名运动员
 a deputy:a副
 use or add in place of:use或add代替
-act or serve as a substitute:
+act or serve as a substitute:充当或充当替代者
 replace (someone or something) with another:用另一个替换（某人或某物）
 replace (an atom or group in a molecule, especially a hydrogen atom) with another:replace（分子中的原子或基团，尤其是氢原子）
 replace (a sports player) with a substitute during a match:replace（体育运动员）在比赛中用替补

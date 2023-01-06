@@ -74,7 +74,6 @@ a degree of physical or mental impairment:一定程度的身体或精神障碍
 
 a condition characterized by progressive or persistent loss of intellectual functioning, especially with impairment of memory and abstract thinking, and often with personality change, resulting from organic disease of the brain.:一种以智力功能的渐进性或持续性丧失为特征的病症，尤其是记忆力和抽象思维受损，并且通常伴有由大脑器质性疾病引起的人格改变。
 dementia |dɪˈmɛnʃə| Noun/:失智
-:
 
 detailed examination of the elements or structure of something:详细检查某物的元素或结构
 the process of separating something into its constituent elements:将某物分离成其组成元素的过程
@@ -125,7 +124,7 @@ an activity that is natural to or the purpose of a person or thing:一个人或�
 practical use or purpose in design:实际用途或设计目的
 a basic task of a computer, especially one that corresponds to a single instruction from the user.:计算机的一项基本任务，尤其是与用户的单个指令相对应的任务。
 a relation or expression involving one or more variables:涉及一个或多个变量的关系或表达式
-a variable quantity regarded in relation to one or more other variables in terms of which it may be expressed or on which its value depends:
+a variable quantity regarded in relation to one or more other variables in terms of which it may be expressed or on which its value depends:与一个或多个其他变量相关的可变量
 a functional group:a功能组
 a thing dependent on another factor or factors:a事物依赖于另一个或多个因素
 a large or formal social event or ceremony:大型或正式的社交活动或仪式
@@ -150,7 +149,7 @@ make (previously unknown or secret information) known to others:make（以前未
 cause or allow (something) to be seen:导致或允许（某事）被看到
 make (something) known to humans by divine or supernatural means:通过神圣或超自然的方式使（某事）为人类所知
 (in a film or television programme) a final revelation of information that has previously been kept from the characters or viewers:（在电影或电视节目中）先前对角色或观众保密的信息的最终揭示
-either side surface of an aperture in a wall for a door or window.:
+either side surface of an aperture in a wall for a door or window.:用于门或窗的墙上孔洞的任一侧面。
 reveal |rɪˈviːl| Noun/Verb/:揭示
 Brenda was forced to reveal Robbie's whereabouts:Brenda被迫透露罗比的行踪
 the clouds were breaking up to reveal a clear blue sky:乌云散开，露出湛蓝的天空
@@ -159,7 +158,7 @@ the big reveal at the end of the movie answers all questions:电影结尾的大�
 
 cause or enable (a condition or situation) to continue:cause或enable（条件或情况）继续
 keep (something) at the same level or rate:保持（某物）在相同的水平或速率
-keep (a building, machine, or road) in good condition by checking or repairing it regularly:
+keep (a building, machine, or road) in good condition by checking or repairing it regularly:通过定期检查或修理使（建筑物、机器或道路）保持良好状态
 provide with necessities for life or existence:提供生活必需品
 keep (a military unit) supplied with equipment and other requirements:keep（一个军事单位）提供设备和其他要求
 give one's support to; uphold:支持；11
@@ -168,11 +167,11 @@ maintain |meɪnˈteɪn| Verb/:维持,保持,维护
 the need to maintain close links between industry and schools:需要保持行业和学校之间的密切联系
 agricultural prices will have to be maintained:农业价格必须保持不变
 the Department for Transport is responsible for maintaining the main roads in England:交通部负责维护英格兰的主要道路
-the allowance covers the basic costs of maintaining a child:
+the allowance covers the basic costs of maintaining a child:津贴包括抚养孩子的基本费用
 an English garrison was maintained there in the seventeenth century:一个英国驻军在十七世纪维持在那里
-the king swears he will maintain the laws of God:
+the king swears he will maintain the laws of God:国王发誓他将维护上帝的法律
 
-the elected head of a republic:theelectedheadofarepublic
+the elected head of a republic:the elected head of a republic
 the head of a society, council, or other organization:社团、理事会或其他组织的负责人
 the head of certain colleges.:某些学院的院长。
 the head of a university.:大学校长。
@@ -193,7 +192,7 @@ socio-economic change:社会经济变化
 the means or opportunity to approach or enter a place:接近或进入一个地方的手段或机会
 the right or opportunity to use or benefit from something:使用或受益的权利或机会
 the right or opportunity to approach or see someone:接近或见某人的权利或机会
-the process of obtaining or retrieving information stored in a computer's memory:
+the process of obtaining or retrieving information stored in a computer's memory:获取或检索存储在计算机内存中的信息的过程
 denoting broadcasting produced by minority and specialist interest groups, rather than by professionals:表示由少数群体和专业利益集团制作的广播，而不是由专业人士制作的
 an attack or outburst of an emotion:一种情绪的攻击或爆发
 approach or enter (a place):approachorenter(一个地方)
@@ -205,11 +204,11 @@ we were denied access to our grandson:我们被拒绝接触我们的孙子
 this prevents unauthorized access or inadvertent deletion of the file:this防止未经授权的访问或无意中删除文件
 access television:access电视
 I was suddenly overcome with an access of rage:我突然暴怒
-single rooms have private facilities accessed via the balcony:
+single rooms have private facilities accessed via the balcony:单人间有私人设施，可通过阳台进入
 information can be accessed from several files and displayed at the same time:信息可以从多个文件访问并同时显示
 
 relating to the teeth:关于牙齿
-relating to dentistry:
+relating to dentistry:与牙科有关
 (of a consonant) pronounced with the tip of the tongue against the upper front teeth (as th) or the alveolar ridge (as n, d, t).:（辅音）用舌尖抵住上门牙（如th）或牙槽嵴（如n、d、t）发音。
 a dental consonant.:a牙辅音。
 dental |ˈdɛnt(ə)l| Adjective/Noun/:牙科,牙科的

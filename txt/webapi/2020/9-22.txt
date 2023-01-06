@@ -29,7 +29,7 @@ pass muster			被认为合格
 admittedly			诚然
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 the preparation and issuing of a book, journal, or piece of music for public sale:准备和发行一本书、期刊或一首公开出售的音乐
-the action of making something generally known:
+the action of making something generally known:使某事广为人知的行为
 a book or journal issued for public sale:公开发售的书籍或期刊
 publication |ˌpʌblɪˈkeɪʃ(ə)n| Noun/:出版物,发布,出版
 the publication of her first novel:她第一部小说的出版
@@ -45,7 +45,7 @@ scrutiny |ˈskruːtɪni| Noun/:审查,仔细检查
 the policy came under scrutiny last month:该政策上个月受到审查
 
 special importance, value, or prominence given to something:对某事给予的特殊重要性、价值或显着性
-stress given to a word or words when speaking to indicate particular importance:
+stress given to a word or words when speaking to indicate particular importance:说话时给一个或多个单词重音以表示特别重要
 vigour or intensity of expression:活力或表达强度
 emphasis |ˈɛmfəsiːz| Noun/:重点,强调
 they placed great emphasis on the individual's freedom:他们非常重视个人的自由
@@ -74,7 +74,7 @@ he could hear her voice urging him on:他能听到她催促他的声音
 he felt the urge to giggle:他有想笑的冲动
 
 the action of subduing someone or something by force:用武力制服某人或某物的行为
-the restraint, prevention, or inhibition of a feeling, quality, etc.:
+the restraint, prevention, or inhibition of a feeling, quality, etc.:对感觉、品质等的约束、预防或抑制
 the action or process of suppressing a thought or desire in oneself so that it remains unconscious:压抑自己的想法或欲望以使其保持无意识的行为或过程
 repression |rɪˈprɛʃən| Noun/:抑制,镇压
 students sparked off events that ended in brutal repression:students引发了以残酷镇压告终的事件
@@ -85,7 +85,7 @@ a previous statement or proposition from which another is inferred or follows as
 an assertion or proposition which forms the basis for a work or theory:构成作品或理论基础的断言或命题
 base an argument, theory, or undertaking on:基于论点、理论或承诺
 state or presuppose (something) as a premise:state或presuppose(something)asapremise
-state by way of introduction:
+state by way of introduction:以介绍方式陈述
 premise |ˈprɛmɪs| Noun/Verb/:前提
 if the premise is true, then the conclusion must be true:如果前提为真，则结论一定为真
 the fundamental premise of the report:报告的基本前提
@@ -99,7 +99,7 @@ think deeply or carefully about:深入思考或仔细思考
 make disparaging remarks about:make贬低言论
 (of an action or situation) bring credit or discredit to the relevant parties:（行为或情况的）给相关方带来信用或抹黑
 reflect |rɪˈflɛkt| Verb/:反映,体现
-when the sun's rays hit the Earth a lot of the heat is reflected back into space:
+when the sun's rays hit the Earth a lot of the heat is reflected back into space:当太阳光照射地球时，大量的热量被反射回太空
 he could see himself reflected in Keith's mirrored glasses:他可以在基思的镜面眼镜中看到自己的影子
 schools should reflect cultural differences:学校应该反映文化差异
 he reflected with sadness on the unhappiness of his marriage:他悲伤地反映了他婚姻的不幸
@@ -117,10 +117,9 @@ a secondary effect or by-product.:a次要效应或副产品。
 a secondary symptom, occurring simultaneously with a disease or condition but not directly related to it.:a次要症状，与疾病或病症同时发生但与其没有直接关系。
 a mental state regarded as a by-product of brain activity.:一种被视为大脑活动副产品的精神状态。
 epiphenomenon |ˌɛpɪfəˈnɒmɪnə| Noun/:附带现象,副现象
-:
 
 the action or process of making something stronger or more solid:使某物变得更强大或更坚固的动作或过程
-the action or process of combining a number of things into a single more effective or coherent whole:
+the action or process of combining a number of things into a single more effective or coherent whole:将许多事物组合成一个更有效或更连贯的整体的动作或过程
 the action or process of combining a number of financial accounts or funds into a single overall account or set of accounts:将多个金融账户或资金组合成一个单一的整体账户或一组账户的动作或过程
 consolidation |kənˌsɒlɪˈdeɪʃ(ə)n| Noun/:合并
 the permanent consolidation of peace:永久巩固和平
@@ -152,7 +151,7 @@ provide (a film) with a soundtrack in a different language from the original:pro
 add (sound effects or music) to a film or recording:将（音效或音乐）添加到电影或录音中
 make a copy of (a sound or video recording).:制作（录音或录像）的副本。
 transfer (a recording) from one medium to another.:transfer（录音）从一种媒体到另一种媒体。
-combine (two or more sound recordings) into one composite soundtrack:
+combine (two or more sound recordings) into one composite soundtrack:将（两个或多个录音）组合成一个合成音轨
 an instance of dubbing sound effects or music:一个配音音效或音乐的实例
 a style of popular music originating from the remixing of recorded music (especially reggae), typically with the removal of some vocals and instruments and the accentuation of bass guitar.:一种流行音乐风格，源自对录制音乐（尤其是雷鬼音乐）的混音，通常会去除一些人声和乐器以及低音吉他的重音。
 an inexperienced or unskilful person.:一个没有经验或不熟练的人。
@@ -163,7 +162,7 @@ the media dubbed anorexia ‘the slimming disease’:媒体将厌食症称为“
 he should be dubbed Sir Hubert:他应该被称为休伯特爵士
 the film will be dubbed into French and Flemish:电影将被配音成法语和佛兰芒语
 background sound can be dubbed in at the editing stage:背景声音可以在剪辑阶段配音
-the level of the dub can be controlled manually:
+the level of the dub can be controlled manually:配音的电平可以手动控制
 
 a supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation:a假设或提议的解释基于有限的证据作为进一步调查的起点
 a proposition made as a basis for reasoning, without any assumption of its truth:一个作为推理基础的命题，没有对其真实性的任何假设
@@ -221,7 +220,7 @@ a Vietnam veteran:一位越战老兵
 
 of extreme force, degree, or strength:极端的力量、程度或力量
 (of an action) highly concentrated:（一个动作）高度集中
-having or showing strong feelings or opinions; extremely earnest or serious:
+having or showing strong feelings or opinions; extremely earnest or serious:有或表现出强烈的感情或意见；非常认真或认真
 intense |ɪnˈtɛns| Adjective/:激烈的,激烈,强烈,强烈的
 the job demands intense concentration:工作需要高度集中
 a phase of intense activity:一个阶段的激烈活动
@@ -239,7 +238,7 @@ the direction in which a building faces; an outlook:建筑物面向的方向；1
 exposure |ɪkˈspəʊʒə| Noun/:暴露,接触,曝光
 the dangers posed by exposure to asbestos:接触石棉带来的危险
 they were suffering from exposure:他们正在遭受暴露
-his exposure to the banking system:
+his exposure to the banking system:他对银行系统的敞口
 New Delhi increased its exposure to hard loans:NewDelhi增加了硬贷款的敞口
 she took her life for fear of exposure as a spy:she因为害怕被曝光为间谍而结束了自己的生命
 scientific findings receive regular exposure in the media:scientific发现定期在媒体上曝光
@@ -261,7 +260,7 @@ parents' and children's interests sometimes conflict:父母和孩子的利益有
 
 feelings of anger or antipathy resulting in hostile or violent behaviour; readiness to attack or confront:愤怒或反感导致敌对或暴力行为；准备攻击或对抗
 the action of attacking without provocation:无缘无故攻击的动作
-forcefulness:forcefulness
+forcefulness:有力
 aggression |əˈɡrɛʃ(ə)n| Noun/:侵略
 his chin was jutting with aggression:他的下巴充满侵略性
 he called for an end to foreign aggression against his country:他呼吁结束对他的国家的外国侵略

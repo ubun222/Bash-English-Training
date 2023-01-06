@@ -52,7 +52,6 @@ an act designed to encompass the death of the king:一个旨在包括国王之�
 the smallest unit of local government, constituted only in rural areas:地方政府的最小单位，仅在农村地区构成
 (in Louisiana) a territorial division corresponding to a county in other states.:（在路易斯安那州）与其他州的县相对应的领土划分。
 parish |ˈparɪʃ| Noun/:教区
-:
 
 a unit of land area equal to 4,840 square yards (0.405 hectare):单位土地面积等于4,840平方码（0.405公顷）
 a large extent or amount of something:很大程度或数量的东西
@@ -159,7 +158,6 @@ an evergreen coniferous tree with small rounded woody cones and flattened shoots
 a cypress tree, or branches from it, as a symbol of mourning.:一棵柏树或它的树枝，作为哀悼的象征。
 used in names of coniferous trees of other families that resemble the cypress, e.g. swamp cypress.:用于类似柏树的其他科的针叶树的名称，例如沼泽柏树。
 cypress |ˈsʌɪprəs| Noun/:柏,柏树
-:
 
 arrange (cloth or clothing) loosely or casually on or round something:arrange(布或衣服)松散地或随意地在某物上或围绕某物
 cover or wrap loosely with folds of cloth:覆盖或用褶皱松散包裹
@@ -383,7 +381,7 @@ the kitten was clawing at Lowell's trouser leg:小猫正在抓着洛厄尔的裤
 his fingers clawed at the air:他的手指伸向空中
 he clawed his way over a pile of bricks:他从一堆砖头上爬了过去
 
-move or fall downwards:moveordowndown
+move or fall downwards:向下移动或下降
 (of a mammal's testes) pass from the abdominal cavity into the scrotum.:（哺乳动物的睾丸）从腹腔进入阴囊。
 (of a road, path, or flight of steps) slope or lead downwards:（道路、小径或台阶的）倾斜或向下倾斜
 move down (a slope or stairs):movedown（斜坡或楼梯）

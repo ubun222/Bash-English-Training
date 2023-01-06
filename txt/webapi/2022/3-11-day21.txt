@@ -51,7 +51,7 @@ the envelope of gases surrounding the earth or another planet:地球或其他行
 the air in any particular place:任何特定地方的空气
 a unit of pressure equal to mean atmospheric pressure at sea level, 101,325 pascals.:一个压力单位，等于海平面的平均大气压，101,325帕斯卡。
 the pervading tone or mood of a place, situation, or creative work:一个地方、情境或创造性作品的普遍基调或情绪
-a pleasurable and interesting mood:
+a pleasurable and interesting mood:愉快有趣的心情
 atmosphere |ˈatməsfɪə| Noun/:气氛,大气层,大气
 part of the sun's energy is absorbed by the earth's atmosphere:部分太阳能被地球大气层吸收
 these beetles breed best in a damp atmosphere:这些甲虫在潮湿的环境中繁殖最好
@@ -89,7 +89,7 @@ deny (someone) access to a place, group, or privilege:拒绝（某人）访问�
 keep (something) out of a place:keep(something)outofaplace
 expel (a pupil) from school.:expel（一名学生）从学校开除。
 remove from consideration:从考虑中删除
-prevent the occurrence of:
+prevent the occurrence of:防止发生
 exclude |ɪkˈskluːd| Verb/:排除,除外
 the public were excluded from the board meeting:公众被排除在董事会会议之外
 apply flux to exclude oxygen:应用助焊剂排除氧气
@@ -133,12 +133,11 @@ the mortgage rate increase will have a depressing effect on the housing market:�
 
 with mutual action, in a mutual relationship:与相互行动，在相互关系中
 mutually |ˈmjuːtʃʊəli| Adverb/:相互,互相
-:
 
 an important assignment given to a person or group of people, typically involving travel abroad:分配给一个人或一群人的重要任务，通常涉及出国旅行
 a group of people sent on a mission:一群被派去执行任务的人
 an organization or institution involved in a long-term assignment abroad:参与长期驻外工作的组织或机构
-an operation carried out by military aircraft:
+an operation carried out by military aircraft:由军用飞机执行的操作
 an expedition into space:太空探险
 the vocation or calling of a religious organization, especially a Christian one, to go out into the world and spread its faith:宗教组织，尤其是基督教组织的使命或召唤，走向世界并传播其信仰
 a building or group of buildings used by a Christian mission:基督教传教所使用的建筑物或建筑物群
@@ -332,7 +331,7 @@ strike a pose | 摆姿势,摆个pose
 
 
 a tool or implement, especially one for precision work:一种工具或工具，尤其是用于精密工作的工具或工具
-a means of pursuing an aim:
+a means of pursuing an aim:追求目标的手段
 a person who is exploited or made use of:被剥削或利用的人
 a measuring device used to gauge the level, position, speed, etc. of something, especially a motor vehicle or aircraft:用于测量某物，尤其是机动车辆或飞机的水平、位置、速度等的测量装置
 an object or device for producing musical sounds:产生音乐声音的物体或装置

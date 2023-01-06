@@ -37,7 +37,7 @@ exception |ɪkˈsɛpʃn| Noun/:,异常
 he always plays top tunes, and tonight was no exception:他总是演奏顶级曲调，今晚也不例外
 
 able to be maintained at a certain rate or level:能够维持在一定的速度或水平
-conserving an ecological balance by avoiding depletion of natural resources:
+conserving an ecological balance by avoiding depletion of natural resources:通过避免自然资源枯竭来保护生态平衡
 able to be upheld or defended:能够得到维护或辩护
 sustainable |səˈsteɪnəbl| Adjective/:可持续的,可持续发展
 sustainable economic growth:可持续经济增长
@@ -51,7 +51,7 @@ cause (an event or situation) to happen or exist:导致（事件或情况）发�
 (of an event or situation) cause (someone) to do something:（事件或情况）导致（某人）做某事
 (especially of something read, seen, or heard) distress (someone), typically as a result of arousing feelings or memories associated with a particular traumatic experience:（尤其是阅读、看到或听到的东西）痛苦（某人），通常是由于唤起与特定创伤经历相关的感觉或记忆
 trigger |ˈtrɪɡə| Noun/Verb/:扳机,触发,触发器
-he pulled the trigger of the shotgun:
+he pulled the trigger of the shotgun:他扣下猎枪的扳机
 the trigger for the strike was the closure of a mine:罢工的导火索是一座矿井的关闭
 burglars fled empty-handed after triggering the alarm:窃贼触发警报后空手而逃
 an allergy can be triggered by stress or overwork:压力或过度劳累会引发过敏
@@ -94,7 +94,7 @@ a large and impressively elaborate meal:一顿丰盛而令人印象深刻的精�
 a bedspread:一个床罩
 spread |sprɛd| Noun/Verb/:传播,铺开,蔓延,扩散,扩展
 I spread a towel on the sand and sat down:我在沙滩上铺了一条毛巾坐下
-rain over north-west Scotland will spread south-east during the day:
+rain over north-west Scotland will spread south-east during the day:苏格兰西北部的降雨将在白天向东南蔓延
 the Marines spread out across the docks:theMarines分散在码头上
 volcanic eruptions spread dust high into the stratosphere:火山喷发将尘埃高高扩散到平流层
 the owls have spread as far north as Kuala Lumpur:theowls已向北蔓延至吉隆坡
@@ -124,7 +124,7 @@ compare costs by getting estimates from at least two firms:通过至少两家公
 his high estimate of the poem:他对这首诗的高度评价
 
 a way of carrying out a particular task, especially the execution or performance of an artistic work or a scientific procedure:一种执行特定任务的方式，尤其是艺术作品或科学程序的执行或表演
-skill or ability in a particular field:
+skill or ability in a particular field:特定领域的技能或能力
 a skilful or efficient way of doing or achieving something:一种熟练或有效的做事或实现某事的方式
 technique |tɛkˈniːk| Noun/:技术,工艺
 new surgical techniques mean a shorter hospital stay:新的手术技术意味着更短的住院时间
@@ -173,20 +173,20 @@ to turn an entire consist requires a wye:转动整个组合需要一个Y形
 offer (a certain price) for something, especially at an auction:offer（某个价格）某物，尤其是在拍卖会上
 (of a contractor) offer to do (work) for a stated price; tender for:（承包商的）提议以规定的价格进行（工作）；10
 make a statement during the auction undertaking to make (a certain number of tricks with a stated suit as trumps) if the bid is successful and one becomes the declarer:在竞拍承诺中作出声明（一定数量的把戏，以已声明的花色为将牌），如果叫牌成功并成为庄家
-make an effort or attempt to achieve:
+make an effort or attempt to achieve:努力或试图达到
 an offer of a price, especially at an auction:出价，尤其是在拍卖会上
 an offer to buy the shares of a company in order to gain control of it:购买公司股票以获得控制权的要约
 an offer to do work or supply goods at a stated price; a tender:以规定价格工作或供应货物的提议；16
 an undertaking by a player in the auction to make a stated number of tricks with a stated suit as trumps:玩家在拍卖中承诺以规定的花色作为将牌进行规定数量的把戏
 an attempt or effort to achieve something:实现某事的尝试或努力
-utter (a greeting or farewell) to:
+utter (a greeting or farewell) to:向（问候或告别）说
 command or order (someone) to do something:command或命令（某人）做某事
 invite (someone) to do something:邀请（某人）做某事
 bid |bɪd| Noun/Verb/:出价,投标
 a consortium of dealers bid a world record price for a snuff box:a经销商财团以创世界纪录的价格购买鼻烟盒
 nineteen companies have indicated their intention to bid for the contract:19家公司表示有意投标
 North bids four hearts:North出价四颗心
-at the fur tables, several buyers make bids for the pelts:
+at the fur tables, several buyers make bids for the pelts:在毛皮桌子上，几个买家为毛皮出价
 a takeover bid:a收购要约
 a number of businessmen were keen to make a bid for the £75 million contract:一些商人热衷于竞标价值7500万英镑的合同
 a bid of three spades:三个黑桃的出价
@@ -248,7 +248,7 @@ a statement that something is unsatisfactory or unacceptable:某事不满意或�
 a reason for dissatisfaction:不满意的原因
 the expression of dissatisfaction:表达不满
 the plaintiff's reasons for proceeding in a civil action.:原告提起民事诉讼的理由。
-an illness or medical condition, especially a relatively minor one:
+an illness or medical condition, especially a relatively minor one:疾病或医疗状况，尤其是相对轻微的
 complaint |kəmˈpleɪnt| Noun/:抱怨,投诉
 I intend to make an official complaint:我打算正式投诉
 I have no complaints about the hotel:我对酒店没有任何抱怨
@@ -264,7 +264,7 @@ a wooden or metal model from which a mould is made for a casting:一个木制或
 a sample of cloth or wallpaper:布料或壁纸样品
 an example for others to follow:其他人可以效仿的榜样
 decorate with a repeated design:decorate重复设计
-give a regular or intelligible form to:
+give a regular or intelligible form to:给出一个规则的或可理解的形式
 give something a form based on that of (something else):givesomething基于（其他）的形式
 pattern |ˈpatn| Noun/Verb/:图案,形成,模式,格局
 a neat blue herringbone pattern:整齐的蓝色人字纹
@@ -336,13 +336,13 @@ the meaning of a word or other linguistic unit.:单词或其他语言单位的�
 the quality or tone of a spoken sound; the sound represented by a letter.:说话声音的质量或音调；一个人对生活中重要的事情的判断
 the relative degree of lightness or darkness of a particular colour:特定颜色的相对明暗程度
 estimate the monetary worth of:估计货币价值
-consider (someone or something) to be important or beneficial; have a high opinion of:
+consider (someone or something) to be important or beneficial; have a high opinion of:认为（某人或某事）是重要的或有益的；有很高的评价
 value |ˈvaljuː| Noun/Verb/:价值,重视,值,看重
-your support is of great value:
+your support is of great value:你的支持很有价值
 prints seldom rise in value:prints很少升值
 at £12.50 the book is good value:12.50英镑，这本书物超所值
-they internalize their parents' rules and values:
-the mean value of x:
+they internalize their parents' rules and values:他们将父母的规则和价值观内化
+the mean value of x:x 的平均值
 the artist has used adjacent colour values as the landscape recedes:艺术家在风景后退时使用了相邻的颜色值
 his estate was valued at £45,000:他的遗产价值45,000英镑
 she had come to value her privacy:她开始重视自己的隐私
@@ -354,7 +354,7 @@ moral values | 道德价值,道德价值观,道德观念
 
 
 the height of an object or point in relation to sea level or ground level:物体或点相对于海平面或地面的高度
-great height:
+great height:高大上
 the apparent height of a celestial object above the horizon, measured in angular distance.:天体在地平线以上的视高度，以角距离测量。
 the length of the perpendicular line from a vertex to the opposite side of a figure.:从顶点到图形对边的垂直线的长度。
 altitude |ˈaltɪtjuːd| Noun/:高度,海拔,海拔高度
@@ -363,10 +363,9 @@ the mechanism can freeze at altitude:机构可以在高空冻结
 
 a waterproof sheet spread on the ground inside a tent.:一张防水布，铺在帐篷内的地面上。
 groundsheet |ˈɡraʊn(d)ʃiːt| Noun/:地垫,底片
-:
 
 relating to or denoting the process by which different kinds of living organism are believed to have developed from earlier forms:与或表示不同种类的生物体被认为从早期形式发展而来的过程
-relating to the gradual development of something:
+relating to the gradual development of something:与某事的逐渐发展有关
 relating to a pattern of movements or manoeuvres:与动作或动作模式有关
 evolutionary |ˌiːvəˈl(j)uːʃən(ə)ri| Adjective/:进化的,进化论的
 Darwinian evolutionary theory:达尔文进化论
@@ -420,7 +419,7 @@ doubt the genuineness or truth of:怀疑其真实性或真实性
 a person thought to be guilty of a crime or offence:一个被认为犯有罪行或罪行的人
 not to be relied on or trusted; possibly dangerous or false:不被依赖或信任；6
 suspect |səˈspɛkt| Adjective/Noun/Verb/:怀疑,嫌疑犯,疑似,可疑的,疑
-if you suspect a gas leak, do not turn on an electric light:
+if you suspect a gas leak, do not turn on an electric light:如果您怀疑煤气泄漏，请勿打开电灯
 parents suspected of child abuse:父母涉嫌虐待儿童
 a broker whose honesty he had no reason to suspect:一个他没有理由怀疑其诚实度的经纪人
 the police have arrested a suspect:警方逮捕了一名嫌疑人

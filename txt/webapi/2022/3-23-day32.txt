@@ -97,7 +97,7 @@ a portable shelter made of cloth, supported by one or more poles and stretched t
 cover with or as if with a tent:用或好像用帐篷覆盖
 arrange in a shape like that of a tent:布置成帐篷的形状
 live or stay for a while in a tent:住或者在帐篷里呆一会儿
-a deep red sweet wine chiefly from Spain, used especially as sacramental wine.:
+a deep red sweet wine chiefly from Spain, used especially as sacramental wine.:一种主要来自西班牙的深红色甜酒，特别用作圣餐酒。
 a piece of absorbent material inserted into an opening to keep it open, or especially to widen it gradually as the material absorbs moisture.:将一块吸水材料插入开口中，使其保持打开状态，或者特别是随着材料吸收水分逐渐变宽。
 tent |tɛnt| Noun/Verb/:帐篷,幕,帐
 the garden had been completely tented over for supper:花园已经完全搭好了晚饭
@@ -106,7 +106,6 @@ we tented with the kids on the shores of Lake Huron:我们和孩子们在休伦�
 
 a marriage ceremony, especially considered as including the associated celebrations.:婚礼仪式，特别被认为包括相关的庆祝活动。
 wedding |ˈwɛdɪŋ| Noun/:,结婚
-:
 
 treating people equally without favouritism or discrimination:平等对待他人，不偏袒或歧视
 just or appropriate in the circumstances:just或适当的情况
@@ -131,7 +130,6 @@ an annual competitive exhibition of livestock, agricultural products, etc., held
 smooth the lines of (a vehicle, boat, or aircraft) to reduce drag, streamline:平滑（车辆、船只或飞机）的线条以减少阻力、流线型
 fair |fɛː| Adjective/Adverb/Noun/Verb/:公平的,公平地,集市,公平,博览会
 the group has achieved fair and equal representation for all its members:该集团实现了其所有成员的公平和平等代表
-:
 try first by fair means:以公平的方式先尝试
 a pretty girl with long fair hair:一个漂亮的长头发的女孩
 he's very fair with blue eyes:他很漂亮，蓝眼睛
@@ -162,12 +160,12 @@ of large content or scope, wide-ranging:内容或范围大，范围广
 (of motor-vehicle insurance) providing cover for most risks, including damage to the policyholder's own vehicle.:（机动车保险）为大多数风险提供保障，包括对投保人自己的车辆的损坏。
 relating to or denoting a system of secondary education in which children of all abilities from a particular area are educated in one school:关于或表示中等教育系统，在该系统中，来自特定地区的所有能力的儿童在一所学校接受教育
 relating to understanding.:与理解有关。
-a comprehensive school:
+a comprehensive school:综合学校
 comprehensive |ˌkɒmprɪˈhɛnsɪv| Adjective/Noun/:综合的,综合中学,全面,全面的,综合
 a comprehensive list of sources:a综合资源清单
 a comprehensive collection of photographs:综合照片集
 a comprehensive victory for Swansea:斯旺西全面胜利
-a comprehensive school:综合学校
+a comprehensive school:综合学校综合学校
 he trained as an accountant after leaving the local comprehensive:他离开当地综合后接受了会计培训
 
 a violent disturbance of the peace by a crowd:人群对和平的暴力破坏
@@ -182,7 +180,6 @@ act in a dissipated way:以消散的方式行动
 riot |ˈrʌɪət| Noun/Verb/:暴动,骚乱,暴乱
 riots broke out in the capital:riots在首都爆发
 the film's sex scenes caused a riot in Cannes:电影的性爱场面在戛纳引发骚乱
-:
 a young lord leaving the city after a night of riot:一位年轻的领主在经历了一夜的骚乱后离开了这座城市
 the garden was a riot of colour:花园五彩缤纷
 everyone thought she was a riot:大家都以为她是暴动
@@ -240,7 +237,6 @@ a shower block:一个淋浴间
 she went for a run round the block:她绕着街区跑了一圈
 ours was the ugliest house on the block:ours是街区里最丑的房子
 he lives a few blocks away from the museum:他住在离博物馆几个街区远的地方
-:
 substantial demands for time off may constitute a block to career advancement:大量休假可能会阻碍职业发展
 Marshall's shot drew a fine block from the goalkeeper:Marshall的射门被门将拦下
 cover the eyelid with a neutral block of colour:用中性色块遮住眼睑
@@ -273,7 +269,7 @@ it seemed impossible that anyone could endure such pain:似乎不可能有人能
 these cities have endured through time:这些城市历经岁月
 
 a group of people gathered together in one place for a common purpose:一群人为了一个共同的目的聚集在一个地方
-a group of people elected to make laws or decisions for a particular country or region:
+a group of people elected to make laws or decisions for a particular country or region:a group of people elected to make laws or decisions for a particular country or region
 the action of gathering together as a group for a common purpose:为了一个共同的目的而聚集在一起的行为
 the regular gathering of the teachers and pupils of a school at the start or end of the day:学校师生在一天开始或结束时的定期聚会
 a signal for troops to assemble, given by drum or bugle.:部队集结的信号，由鼓或号角发出。
@@ -357,7 +353,7 @@ a quality or feature regarded as a characteristic or inherent part of someone or
 a material object recognized as symbolic of a person, especially a conventional object used in art to identify a saint or mythical figure:被认为是一个人的象征的物质对象，尤其是艺术中用来识别圣人或神话人物的传统对象
 a piece of information which determines the properties of a field or tag in a database or a string of characters in a display.:一条信息，它确定数据库中字段或标签的属性或显示中的字符串。
 an attributive adjective or noun.:一个定语形容词或名词。
-a real property which a statistical analysis is attempting to describe.:
+a real property which a statistical analysis is attempting to describe.:统计分析试图描述的不动产。
 attribute |əˈtrɪbjuːt| Noun/Verb/:属性,归因于,特征
 he attributed the firm's success to the efforts of the managing director:他将公司的成功归功于总经理的努力
 the building was attributed to Inigo Jones:该建筑归功于InigoJones
