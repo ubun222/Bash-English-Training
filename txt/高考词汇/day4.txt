@@ -40,7 +40,7 @@ pressure					压力，催促，强迫
 
 relating to Italy, its people, or their language:与意大利、其人民或他们的语言有关
 a native or inhabitant of Italy, or a person of Italian descent:意大利本地人或居民，或意大利血统的人
-the Romance language of Italy, descended from Latin. It is also one of the official languages of Switzerland:
+the Romance language of Italy, descended from Latin. It is also one of the official languages of Switzerland:意大利的罗曼语，起源于拉丁语。它也是瑞士的官方语言之一
 Italian |ɪˈtaljən| Adjective/Noun/:意大利语,意大利人
 the Italian Ministry of Culture:意大利文化部
 the great religious paintings of the Italians:意大利人伟大的宗教画作
@@ -61,7 +61,7 @@ fairly earned, especially through hard work:相当赚钱，尤其是通过努力
 simple, unpretentious, and unsophisticated:简单、朴实、朴实
 used to persuade someone of the truth of something:用于说服某人相信某事的真相
 honest |ˈɒnɪst| Adjective/Adverb/:诚实,诚实的,诚,老实人
-I haven't been totally honest with you:
+I haven't been totally honest with you:我没有对你完全诚实
 I did the only right and honest thing:我做了唯一正确和诚实的事
 he's struggling to make an honest living:他正努力过上诚实的生活
 he'd made an honest mistake:他犯了一个诚实的错误
@@ -152,7 +152,7 @@ a building set apart and adapted for keeping horses:一栋分开并适合饲养�
 an establishment where racehorses are kept and trained:一个饲养和训练赛马的机构
 the racehorses of a particular training establishment.:特定训练机构的赛马。
 an organization or establishment training or producing a particular type of person or product:一个组织或机构培训或生产特定类型的人或产品
-put or keep (a horse) in a stable:
+put or keep (a horse) in a stable:把（马）放在或养在马厩里
 put or base (a locomotive or train) in a depot:put或基地（机车或火车）在一个仓库
 stable |ˈsteɪbl| Adjective/Noun/Verb/:稳定的,稳定,安定
 specially designed dinghies that are very stable:特别设计的非常稳定的小艇
@@ -231,7 +231,6 @@ suffer hardships | 吃苦,吃苦耐劳
 
 a pale yellow edible fatty substance made by churning cream and used as a spread or in cooking.:一种淡黄色可食用脂肪物质，由搅拌奶油制成，用作涂抹酱或烹饪中。
 butter |ˈbʌtə| Noun/Verb/:,牛油,涂黄油,奶油
-:
 
 butter up | 涂黄油,加油
 
@@ -245,7 +244,6 @@ the visit had to be postponed for some time:这次访问不得不推迟一段时
 
 an expert in or student of physics.:物理学专家或学生。
 physicist |ˈfɪzɪsɪst| Noun/:物理学家,物理师
-:
 
 a lamp with a transparent case protecting the flame or electric bulb, and typically having a handle by which it may be carried or hung:一种带有透明外壳的灯，可以保护火焰或电灯泡，通常有一个把手，可以用来搬运或悬挂它
 a square, curved, or polygonal structure on the top of a dome or a room, with the sides glazed or open so as to admit light:圆顶或房间顶部的方形、弯曲或多边形结构，侧面有玻璃或开放，以便光线进入
@@ -271,7 +269,7 @@ the European Union:欧盟
 the mainland of continental Europe as distinct from the British Isles:与不列颠群岛不同的欧洲大陆大陆
 Europe |ˈjʊərəp| Noun/:欧洲
 the Prime Minister who took Britain into Europe:将英国带入欧洲的首相
-A Guide to the Birds of Britain and Europe:
+A Guide to the Birds of Britain and Europe:英国和欧洲鸟类指南
 
 cease to be visible:不再可见
 cease to exist or be in use:停止存在或被使用
@@ -364,7 +362,7 @@ the influence or effect of someone or something:某人或某事的影响或影�
 a sense of stressful urgency caused by having too many demands on one's time or resources:对自己的时间或资源有太多要求而产生的压力紧迫感
 attempt to persuade or coerce (someone) into doing something:试图说服或强迫（某人）做某事
 pressure |ˈprɛʃə| Noun/Verb/:,施加压力,气压
-the gate was buckling under the pressure of the crowd outside:
+the gate was buckling under the pressure of the crowd outside:大门在外面人群的压力下变形了
 gas can be fed to the turbines at a pressure of around 250 psi:gas可以在250psi左右的压力下输送到涡轮机
 backbenchers put pressure on the government to provide safeguards:backbenchers向政府施压以提供保障
 oil prices came under some downwards pressure:油价面临一定的下行压力

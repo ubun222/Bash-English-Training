@@ -46,7 +46,7 @@ remove or take away (something) from a particular place or position:remove或从
 take (money) out of an account:从账户中取出（钱）
 discontinue or no longer provide (something previously supplied or offered):discontinue或不再提供（以前提供或提供的东西）
 say that (a statement one has made) is untrue or unjustified:说（某人所做的声明）不真实或不合理
-(of a man) practise coitus interruptus:
+(of a man) practise coitus interruptus:（男人的）practice coitus interruptus
 leave or cause to leave a place or situation:leave或导致离开一个地方或情况
 cease to participate in an activity or be a member of a team or organization:停止参加活动或成为团队或组织的成员
 prevent (someone) from participating in an activity:防止（某人）参加某项活动
@@ -65,7 +65,7 @@ for the cocaine user, it is possible to withdraw without medication:对于可卡
 
 demand something forcefully, not accepting refusal:需求强烈的东西，不接受拒绝
 demand forcefully to have (something):需求强行拥有（某物）
-persist in (doing something):
+persist in (doing something):坚持（做某事）
 state positively and assertively:state积极而果断
 insist |ɪnˈsɪst| Verb/:,执
 she insisted on carrying her own bag:她坚持自己拎包
@@ -82,7 +82,7 @@ public transport is a joke:公共交通是个笑话
 
 (of a country or region) having the freedom to govern itself or control its own affairs:（国家或地区的）有管理自己或控制自己事务的自由
 having the freedom to act independently:有独立行动的自由
-denoting or performed by a device capable of operating without direct human control:
+denoting or performed by a device capable of operating without direct human control:表示或由能够在没有直接人为控制的情况下运行的设备执行
 (in Kantian moral philosophy) acting in accordance with one's moral duty rather than one's desires.:（在康德道德哲学中）根据自己的道德义务而不是根据自己的愿望行事。
 autonomous |ɔːˈtɒnəməs| Adjective/:自主性,自主,自主的,自治
 the federation included sixteen autonomous republics:联邦包括十六个自治共和国
@@ -93,7 +93,7 @@ used to refer to the whole quantity or extent of a particular group or thing:用
 any whatever:随便
 used to emphasize the greatest possible amount of a quality:用于强调质量的最大可能量
 the only thing (used for emphasis):唯一的东西（用于强调）
-(used to refer to surroundings or a situation in general) everything:
+(used to refer to surroundings or a situation in general) everything:（用于指代周围环境或一般情况）一切
 all |ɔːl| Adverb/Determiner/Predeterminer/Pronoun/Residual/:全部,非常,所有,所有的
 he denied all knowledge of it:他否认对此一无所知
 they were in all probability completely unaware:他们很可能完全不知道
@@ -141,13 +141,13 @@ a large number of something:大量的东西
 a written representation of a musical composition showing all the vocal and instrumental parts arranged one below the other.:一首音乐作品的书面表示，显示所有声乐和器乐部分一个接一个地排列。
 the music composed for a film or play:为电影或戏剧创作的音乐
 a notch or line cut or scratched into a surface:一个凹口或线切割或划伤表面
-a running account kept by marks against a customer's name, typically in a public house.:
+a running account kept by marks against a customer's name, typically in a public house.:以顾客姓名为标志的流水帐，通常在公共场所。
 gain (a point, goal, run, etc.) in a competitive game:gain（得分、进球、跑动等）在竞技游戏中
 decide on the score to be awarded to (a competitor):决定授予（竞争对手）的分数
 be worth (a number of points):beworth（多分）
 decide on the scores to be awarded in (a match or competition):决定在（比赛或比赛）中获得的分数
 record the score during a game, act as scorer:记录比赛中的得分，充当得分手
-cause (a teammate) to score:
+cause (a teammate) to score:使（队友）得分
 secure (a success or an advantage):secure（成功或优势）
 outdo or humiliate (someone) in an argument.:outdo或在争论中羞辱（某人）。
 buy or acquire (something, typically illegal drugs):buy或获取（某些东西，通常是非法药物）
@@ -232,7 +232,7 @@ call something out loudly:大声喊出某事
 (of a bird) make characteristic melodious whistling and twittering sounds:（一只鸟的）发出特有的悠扬的哨声和叽叽喳喳的声音
 make a high-pitched whistling or buzzing sound:发出尖锐的哨声或嗡嗡声
 (of a person's ear) be affected with a continuous buzzing sound, especially as the after-effect of a blow or loud noise:（人的耳朵）受到持续的嗡嗡声的影响，特别是作为打击或巨响的后遗症
-act as an informer to the police:
+act as an informer to the police:为警方提供线人
 recount or celebrate in poetry or other literature:recount或在诗歌或其他文学作品中庆祝
 compose poetry:写诗
 sing |saŋ| Noun/Verb/:唱歌,唱,歌唱
@@ -303,7 +303,6 @@ the fair-weather cyclists are emerging from winter hibernation:天气晴朗的�
 
 a decorative container without handles, typically made of glass or china and used as an ornament or for displaying cut flowers.:一个没有把手的装饰容器，通常由玻璃或瓷器制成，用作装饰品或展示切花。
 vase |vɑːz| Noun/:花瓶,花盆
-:
 
 have a similar appearance to or qualities in common with (someone or something), look or seem like:与（某人或某物）有相似的外观或品质，看起来或看起来像
 resemble |rɪˈzɛmbl| Verb/:类似,像,相似
@@ -313,7 +312,7 @@ a taxi:一辆出租车
 a horse-drawn vehicle for public hire.:公共租用的马车。
 the driver's compartment in a lorry, bus, or train.:卡车、公共汽车或火车上的驾驶室。
 travel in a taxi:乘坐出租车旅行
-a cabinet containing a speaker or speakers for a guitar amplifier.:
+a cabinet containing a speaker or speakers for a guitar amplifier.:包含用于吉他放大器的一个或多个扬声器的机柜。
 Citizens' Advice Bureau.:公民咨询局。
 Civil Aeronautics Board.:民用航空委员会。
 cab |kab| Noun/Residual/Verb/:出租车,驾驶室
@@ -340,7 +339,7 @@ the action or art of producing a creative work such as a poem or piece of music:
 an essay, especially one written by a school or college student:一篇文章，尤其是由学校或大学生写的一篇文章
 the artistic arrangement of the parts of a picture:局部的艺术排列
 the preparation of text for printing by setting up characters or by establishing its style and appearance electronically:通过设置字符或通过电子方式确定其样式和外观来准备要打印的文本
-a legal agreement to pay a sum in lieu of a larger debt or other obligation:
+a legal agreement to pay a sum in lieu of a larger debt or other obligation:支付一笔款项以代替更大的债务或其他义务的法律协议
 a sum paid in lieu of a larger debt:一笔用于代替更大债务的款项
 composition |ˌkɒmpəˈzɪʃn| Noun/:作品,组成,成分,作文
 the social composition of villages:村庄的社会构成
@@ -362,7 +361,7 @@ a portable shelter made of cloth, supported by one or more poles and stretched t
 cover with or as if with a tent:用或好像用帐篷覆盖
 arrange in a shape like that of a tent:布置成帐篷的形状
 live or stay for a while in a tent:住或者在帐篷里呆一会儿
-a deep red sweet wine chiefly from Spain, used especially as sacramental wine.:
+a deep red sweet wine chiefly from Spain, used especially as sacramental wine.:一种主要来自西班牙的深红色甜酒，特别用作圣餐酒。
 a piece of absorbent material inserted into an opening to keep it open, or especially to widen it gradually as the material absorbs moisture.:将一块吸水材料插入开口中，使其保持打开状态，或者特别是随着材料吸收水分逐渐变宽。
 tent |tɛnt| Noun/Verb/:帐篷,幕,帐
 the garden had been completely tented over for supper:花园已经完全搭好了晚饭
@@ -376,7 +375,7 @@ my player's got a fast forward and rewind:我的播放器有快进和快退
 
 a person who directs the performance of an orchestra or choir:指挥管弦乐队或合唱团表演的人
 a person who collects fares and sells tickets on a bus.:在公共汽车上收取车费和售票的人。
-a guard on a train.:
+a guard on a train.:火车上的警卫
 a material or device that conducts or transmits heat or electricity, especially when regarded in terms of its capacity to do this:一种传导或传输热或电的材料或设备，尤其是在考虑其能力时
 a person who is trained to provide conductive education.:受过培训以提供传导教育的人。
 conductor |kənˈdʌktə| Noun/:导体,指挥,指挥家
@@ -437,12 +436,12 @@ small in size, amount, or degree (often used to convey an appealing diminutivene
 denoting something, especially a place, that is the smaller or smallest of those so named or is named after a similar larger one:表示某物，尤其是一个地方，它是这样命名的那些中较小的或最小的，或者是以类似的较大的命名的
 used in names of animals and plants that are smaller than related kinds, e.g. little grebe.:用于小于相关种类的动植物名称，例如：10
 of short distance or duration:短距离或持续时间
-relatively unimportant or trivial (often used ironically):
+relatively unimportant or trivial (often used ironically):相对不重要或微不足道（经常讽刺地使用）
 little |ˈlɪtl| Adjective/Adverb/Determiner/Pronoun/:小的,几乎没有,小,一点点
 the plants will grow into little bushes:植物会长成小灌木
 my little brother:我的小弟弟
 the village of Little Chesterton:小切斯特顿村
-stay for a little while:
+stay for a little while:多呆一会儿
 we have a little problem:我们有个小问题
 
 little by little | 一点一点地,一点一点

@@ -69,7 +69,7 @@ able to move or be moved freely or easily:能够自由或轻松地移动或移�
 (of the face or its features) indicating feelings with fluid and expressive movements:（面部或其特征）以流畅和富有表现力的动作表示感觉
 (of a shop, library, or other service) accommodated in a vehicle so as to travel around and serve various places:（商店、图书馆或其他服务）容纳在车辆中，以便在各处旅行和服务
 (of a military or police unit) equipped and prepared to move quickly to any place it is needed:（军队或警察单位的）装备并准备好快速移动到任何需要的地方
-relating to mobile phones, handheld computers, and similar technology:
+relating to mobile phones, handheld computers, and similar technology:与移动电话、掌上电脑和类似技术有关的
 able or willing to move easily or freely between occupations, places of residence, or social classes:能够或愿意在职业、居住地或社会阶层之间轻松或自由流动
 a decorative structure that is suspended so as to turn freely in the air:一种悬挂的装饰结构，可以在空中自由转动
 a mobile phone:一部手机
@@ -117,7 +117,7 @@ desire or inclination:欲望或倾向
 list |lɪst| Noun/Verb/:列表,列出,清单
 consult the list of drugs on page 326:查阅第326页的药物清单
 I have listed four reasons below:我在下面列出了四个原因
-local offices are listed in the phone book:
+local offices are listed in the phone book:本地办事处列在电话簿中
 the bottom-of-the-line Mercedes lists for $52,050:thebottom-of-the-lineMercedes售价52,050美元
 I listed myself for a soldier:我把自己列为军人
 the ship was listing badly:这艘船严重挂牌
@@ -125,7 +125,6 @@ I have little list to write:我没有什么要写的清单
 
 a telephone device transmitting and receiving a visual image as well as sound.:发送和接收视觉图像和声音的电话设备。
 videophone |ˈvɪdɪə(ʊ)fəʊn| Noun/:可视电话,视频电话
-:
 
 containing nothing, not filled or occupied:不包含任何内容，未填充或占用
 (of a set) containing no members or elements.:(ofaset)不包含任何成员或元素。
@@ -202,7 +201,7 @@ consent to undergo a certain treatment:同意接受一定的治疗
 present (a proposal, application, or other document) to a person or body for consideration or judgement:向个人或机构提交（提案、申请或其他文件）以供考虑或判断
 (especially in judicial contexts) suggest, argue:（尤其是在司法环境中）建议，争论
 submit |səbˈmɪt| Verb/:提交,递交
-the original settlers were forced to submit to Bulgarian rule:
+the original settlers were forced to submit to Bulgarian rule:最初的定居者被迫服从保加利亚的统治
 the United States refused to submit to arbitration:美国拒绝提交仲裁
 samples submitted to low pressure while being airfreighted:样品在空运时提交低压
 he submitted himself to a body search:他提交了自己的身体搜索
@@ -225,7 +224,7 @@ unfasten, untie, or loosen (something):解开、解开或松开（某事）
 cancel or reverse the effects or results of (a previous action or measure):取消或逆转（先前的行动或措施）的影响或结果
 cancel (the last command executed by a computer):cancel（计算机执行的最后一条命令）
 cause the downfall or ruin of:导致
-a feature of a computer program that allows a user to cancel or reverse the last command executed:
+a feature of a computer program that allows a user to cancel or reverse the last command executed:计算机程序的一项功能，允许用户取消或撤销上次执行的命令
 undo |ʌnˈdɪd| Noun/Verb/:撤消,撤销
 the knot was difficult to undo:这个结很难解开
 there wasn't any way Evelyn could undo the damage:伊芙琳无法挽回伤害
@@ -275,8 +274,8 @@ dailies | 鞭炮,爆竹
 
 
 expressing good wishes before drinking:酒前表达美好祝愿
-expressing good wishes on parting or ending a conversation:
-expressing gratitude or acknowledgement for something:
+expressing good wishes on parting or ending a conversation:表达对离别或结束谈话的美好祝愿
+expressing gratitude or acknowledgement for something:对某事表示感谢或认可
 cheers |ˈtʃɪəz| Interjection/:干杯,欢呼
 ‘Cheers,’ she said, raising her glass:“干杯，”她举起酒杯说
 ‘Cheers, Jack, see you later.’:‘干杯，杰克，待会见。’
@@ -310,7 +309,6 @@ Of food or drink: skilfully, properly, or thoroughly enhanced with seasoning, gi
 Of a material: fully matured or prepared for use, especially (of timber) thoroughly dried and hardened.:完全成熟或准备使用的材料，尤其是（木材）彻底干燥和硬化的。
 Having extensive experience in a particular activity or occupation, well-practised, much experienced.:对某项活动或职业有丰富的经验，训练有素，经验丰富。
 well-seasoned Adjective/:经验丰富的,熟透的
-:
 
 feel distaste for or hostility towards:感到厌恶或敌视
 a feeling of distaste or hostility:一种厌恶或敌意的感觉
@@ -322,7 +320,6 @@ I know all his likes and dislikes:我知道他所有的好恶
 
 the programs and other operating information used by a computer:计算机使用的程序和其他操作信息
 software |ˈsɒf(t)wɛː| Noun/:软件,程序
-:
 
 a hard, strong grey or bluish-grey alloy of iron with carbon and usually other elements, used as a structural and fabricating material:一种坚硬、坚固的灰色或蓝灰色铁与碳和通常其他元素的合金，用作结构和制造材料
 used as a symbol or embodiment of strength and firmness:用作力量和坚定的象征或体现
@@ -355,7 +352,7 @@ in that respect, on that issue:在这方面，关于那个问题
 used in attracting someone's attention or calling attention to someone or something:用于引起某人的注意或引起对某人或某事的注意
 used to indicate the fact or existence of something:用于表示某事的事实或存在
 there |ðɛː| Adverb/Interjection/:那里,你瞧,有
-we went to Paris and stayed there ten days:
+we went to Paris and stayed there ten days:我们去了巴黎并在那里呆了十天
 there on the right:右边
 ‘I'm quite—.’ There she stopped:‘我很——。’她停了下来
 I don't agree with you there:我不同意你的观点
@@ -397,7 +394,7 @@ reach or arrive at (a destination):reach或到达（目的地）
 increase the amount or rate of (something, typically weight or speed):增加（某事，通常是重量或速度）的数量或速度
 increase in value:增值
 (of a clock or watch) become fast by (a specific amount of time):（时钟或手表）变快（特定时间）
-an increase in wealth or resources:
+an increase in wealth or resources:财富或资源的增加
 a thing that is achieved or acquired:实现或获得的东西
 the factor by which power or voltage is increased in an amplifier or other electronic device, usually expressed as a logarithm:放大器或其他电子设备中功率或电压增加的因素，通常以对数表示
 gain |ɡeɪn| Noun/Verb/:获得,增益

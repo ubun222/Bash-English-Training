@@ -56,7 +56,7 @@ train your dog to relieve itself where you want it to:train你的狗在你想要
 the twilight relieving in purple masses the foliage of the island:暮色减轻了岛上树叶的紫色团块
 
 despite the prevailing circumstances:尽管当时的情况
-without regard or consideration for:withoutregardorconsiderfor
+without regard or consideration for:不考虑或考虑
 regardless |rɪˈɡɑːdləs| Adverb/:不管,而不管,无论,无论如何
 they were determined to carry on regardless:他们决心不顾一切地坚持下去
 the allowance is paid regardless of age or income:无论年龄或收入如何，都支付津贴
@@ -115,7 +115,7 @@ used as a nickname for a radio operator or an electrician, especially in the arm
 emit sparks of fire or electricity:发出火或电火花
 produce sparks at the point where an electric circuit is interrupted.:在电路中断的地方产生火花。
 ignite:点燃
-provide the stimulus for (an event or process):
+provide the stimulus for (an event or process):为（事件或过程）提供刺激
 a lively young man.:一个活泼的年轻人。
 engage in courtship:从事求爱
 spark |spɑːk| Noun/Verb/:火花,星火,星
@@ -136,7 +136,7 @@ expel (waste matter) from the body:从体内排出（废物）
 remove (a variable) from an equation, typically by substituting another which is shown by another equation to be equivalent.:remove(avariable)fromaequation,typicallybysubstitutiontoanotherwhichshowedbyanotherequationtoequivalent.从一个方程中删除（一个变量），通常是通过代入另一个等价的方程。
 generate (a simple substance) as a product in the course of a reaction involving larger molecules:在涉及较大分子的反应过程中生成（一种简单物质）作为产物
 eliminate |ɪˈlɪmɪneɪt| Verb/:排除,消除,消灭
-a policy that would eliminate inflation:apolicythatwouldeliminateinflation
+a policy that would eliminate inflation:消除通货膨胀的政策
 the police have eliminated Lawrence from their inquiries:警方已将Lawrence排除在调查范围之外
 security agents have started a campaign to eliminate some of the government's opponents:security特工发起了一场运动，以消灭政府的一些反对者
 this diet claims to eliminate toxins from the body:这种饮食声称可以排除体内毒素
@@ -150,7 +150,7 @@ resistance or dissent, expressed in action or argument:resistance或异议，以
 a group of opponents, especially in sport, business, or politics:一群反对者，尤其是在体育、商业或政治领域
 the principal parliamentary party opposed to that in office:反对执政的主要议会党派
 the apparent position of two celestial objects that are directly opposite each other in the sky, especially the position of a planet when opposite the sun.:在天空中彼此直接相对的两个天体的视位置，特别是行星在与太阳相对时的位置。
-a contrast or antithesis:
+a contrast or antithesis:对比或对立
 opposition |ˌɒpəˈzɪʃn| Noun/:反对,异议,对立,反对派
 there was considerable opposition to the proposal:这个提案遭到了相当大的反对
 the home team made short work of the opposition:主队轻而易举地击败了对手
@@ -160,7 +160,7 @@ a nature–culture opposition:a自然-文化对立
 relating to the North or South Pole:关于北极或南极
 (of an animal or plant) living in the north or south polar region:（指动物或植物）生活在北极或南极地区
 relating to the poles of a celestial body:关于天体的两极
-relating to a celestial pole.:
+relating to a celestial pole.:与天极有关。
 relating to the poles of a sphere.:关于球体的两极。
 relating to the poles of a cell, organ, or part.:与细胞、器官或部分的两极有关。
 having electrical or magnetic polarity.:具有电或磁极性。
@@ -193,13 +193,13 @@ stay close to (an opponent) in order to prevent them getting or passing the ball
 protect against damage or harm:防止损坏或伤害
 take precautions against:采取预防措施
 a person who keeps watch, especially a soldier or other person assigned to protect a person or to control access to a place:apersonwhokeepwatch，尤指士兵或其他被指派保护人员或控制进入某个地方的人
-a body of soldiers serving to protect a place or person:abodyofsoldiersservingtoprotectaplaceorperson
+a body of soldiers serving to protect a place or person:为保护一个地方或一个人服务的一群士兵
 the household troops of the British army.:英国军队的家庭部队。
 a member of the Irish police force, a Garda:爱尔兰警察部队的一名成员，一名Garda
 a prison warder.:监狱看守。
 a device worn or fitted to prevent injury or damage:为防止受伤或损坏而佩戴或安装的装置
 a defensive posture that is adopted in a boxing or martial arts contest or in a fight:在拳击或武术比赛或打架中采用的防御姿势
-a state of vigilance or preparedness against adverse circumstances:
+a state of vigilance or preparedness against adverse circumstances:对不利情况的警惕或准备状态
 an official who rides on and is in general charge of a train.:乘坐火车并一般负责火车的官员。
 each of two players either side of the centre.:中心两侧各两名球员。
 each of two players chiefly responsible for marking opposing players.:两名主要负责盯防对方球员的球员。
@@ -217,7 +217,7 @@ before Seb could raise his guard Boz swung a wild punch:beforeSeb可以提高他
 he let his guard slip enough to make some unwise comments:he放松了警惕，发表了一些不明智的评论
 
 a part of a tree which grows out from the trunk or from a bough:从树干或树枝长出的树的一部分
-a lateral extension or subdivision extending from the main part of a river, road, railway, etc.:
+a lateral extension or subdivision extending from the main part of a river, road, railway, etc.:从河流、公路、铁路等的主要部分延伸的横向延伸或细分。
 a division or office of a large business or organization, operating locally or having a particular function:大型企业或组织的部门或办公室，在当地运营或具有特定职能
 a conceptual subdivision of a family, subject, group of languages, etc.:一个家庭、学科、语言组等的概念细分。
 (of a road or path) divide into one or more subdivisions:（道路或路径）划分为一个或多个细分
@@ -256,7 +256,6 @@ fumigate or disinfect (a house) with sulphur or other fumes.:用硫磺或其他�
 treat (an object) by heating it in a stove in order to apply a desired surface coating.:通过在炉子中加热来处理（物体），以便应用所需的表面涂层。
 force or raise (plants) in a hothouse.:forceorraise(plants)inahothouse.
 stove |stəʊv| Noun/Verb/:火炉,炉,炉灶,炉子
-:
 
 worth remembering or easily remembered, especially because of being special or unusual:值得记住或容易记住，特别是因为特别或不寻常
 memorable |ˈmɛm(ə)rəbl| Adjective/:难忘,令人难忘,难忘的
@@ -269,7 +268,7 @@ the removal of a variable from an equation, typically by substituting another wh
 the generation of a simple substance as a product in the course of a reaction involving larger molecules:在涉及较大分子的反应过程中产生作为产物的简单物质
 elimination |ɪˌlɪmɪˈneɪʃn| Noun/:消除,淘汰赛
 the elimination of extreme poverty is a key objective:消除极端贫困是一个关键目标
-a 1-1 draw confirmed their elimination from the tournament:a
+a 1-1 draw confirmed their elimination from the tournament:1-1 平局确认他们被淘汰出局
 the treatment promotes the elimination of toxins:治疗促进排除毒素
 Bezout's method of elimination:Bezout的消除法
 a condensation reaction can link together two monosaccharide sugars to form a disaccharide with the elimination of water:a缩合反应可以将两个单糖连接在一起形成双糖并消除水
@@ -327,10 +326,10 @@ having or displaying an intense or ferocious aggressiveness:具有或表现出�
 (of the weather or temperature) powerful and destructive:（天气或温度的）强大的和破坏性的
 showing a heartfelt and powerful intensity:表现出由衷而强大的强度
 (of a mechanism) having a jolting and powerful abruptness of action:(ofamechanism)动作突然而有力
-fashionable or attractive in a bold or striking way:fashionableorattractiveinaboldorstrikingway
+fashionable or attractive in a bold or striking way:以大胆或引人注目的方式时尚或有吸引力
 very, extremely:非常非常
 fierce |fɪəs| Adjective/Adverb/:凶猛的,激烈,激烈的,凶
-fierce fighting continued throughout the day:
+fierce fighting continued throughout the day:激烈的战斗持续了一整天
 fierce storms lashed the country:猛烈的风暴袭击了这个国家
 his fierce loyalty:他的忠诚
 the fire door had a fierce pneumatic return:防火门有一个猛烈的气动返回

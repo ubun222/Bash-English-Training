@@ -43,7 +43,7 @@ go beyond the limits of, surpass or exceed:gobeyondthelimitsof,超过或超过
 hit a winning shot past (an opponent).:打了一个制胜球过去（对手）。
 (of time) elapse, go by:（时间）过去，过去
 spend or use up (a period of time):spend或用完（一段时间）
-come to an end:
+come to an end:告一段落
 happen, be done or said:happen，做或说
 transfer (something) to someone, especially by handing or bequeathing it to the next person in a series:transfer（某物）给某人，尤其是通过将其交给或遗赠给系列中的下一个人
 be transferred from one person or place to another, especially by inheritance:从一个人或地方转移到另一个人或地方，尤其是通过继承
@@ -64,7 +64,7 @@ forgo one's turn in a game or an offered opportunity to do or have something:for
 make no bid when it is one's turn during an auction:在拍卖中轮到自己出价时不出价
 an act or instance of moving past or through something:移动过去或穿过某物的行为或实例
 an act of passing the hands over something, as in conjuring or hypnotism.:一种将手递给某物的行为，例如魔术或催眠。
-a thrust in fencing.:
+a thrust in fencing.:击剑运动
 a juggling trick.:一个杂耍技巧。
 a single scan through a set of data or a program.:单次扫描一组数据或一个程序。
 a success in an examination, test, or course:在考试、测试或课程中取得成功
@@ -99,14 +99,13 @@ she passed her driving test:她通过了驾驶考试
 she couldn't agree, but let it pass:她不能同意，但让它过去吧
 the bill was passed despite fierce opposition:该法案不顾激烈反对通过
 the Bill passed by 164 votes to 107:该法案以164票对107票通过
-:
 she would pass remarks about the Peebles in their own house:she会在他们自己的房子里发表关于皮布尔斯的评论
 a jury could not be trusted to pass upon the question of Endicott's good faith:a陪审团不能信任通过Endicott的诚信问题
 she may have difficulty in passing urine:她可能排尿困难
-we pass on pudding and have coffee:
+we pass on pudding and have coffee:我们传递布丁并喝咖啡
 the company has already passed its interim dividend:公司已通过中期股息
 South bids 1NT. North passes:South叫1NT。
-repeated passes with the swipe card:
+repeated passes with the swipe card:用刷卡重复通过
 an A-level pass in Music:音乐A级及格
 a bus pass:公共汽车通行证
 businesses should not get a pass to be reckless:businesses不应该鲁莽行事
@@ -168,15 +167,13 @@ jamming | 干扰,堵塞
 
 
 
-:
 behalf |bɪˈhɑːf| Noun/:代表,代
-:
 
 conduct the policy, actions, and affairs of (a state, organization, or people) with authority:以权威执行（国家、组织或人民）的政策、行动和事务
 control, influence, or regulate (a person, action, or course of events):控制、影响或调节（人、行为或事件过程）
 conduct oneself, especially with regard to controlling one's emotions:引导自己，尤其是在控制自己的情绪方面
 serve to decide (a legal case).:服务决定（法律案件）。
-(of a word) require that (another word or group of words) be in a particular case:
+(of a word) require that (another word or group of words) be in a particular case:（一个词的）要求（另一个词或一组词）在特定情况下
 govern |ˈɡʌvn| Verb/:治理,治,统治
 he was incapable of governing the country:他不能治理国家
 the future of Jamaica will be governed by geography not history:牙买加的未来将由地理而非历史决定
@@ -240,7 +237,7 @@ no one dared cross him:没人敢越过他
 he seemed to be very cross about something:他似乎对某事很生气
 
 constituting number five in a sequence, 5th:构成序列中的第5个，第5个
-the fifth finisher or position in a race or competition:
+the fifth finisher or position in a race or competition:比赛或比赛中的第五名或名次
 (in some vehicles) the fifth (and typically highest) in a sequence of gears:（在某些车辆中）齿轮序列中的第五个（通常是最高的）
 the fifth form of a school or college.:学校或学院的第五种形式。
 fifthly (used to introduce a fifth point or reason):fifthly（用于介绍第五点或理由）
@@ -259,7 +256,7 @@ the first appearance of light in the sky before sunrise:日出前天空中第一
 the beginning of a phenomenon or period of time, especially one considered favourable:现象或时间段的开始，尤指被认为是有利的
 (of a day) begin:（一天）开始
 come into existence:诞生
-become evident to the mind, be perceived or understood:
+become evident to the mind, be perceived or understood:变得显而易见，被感知或理解
 dawn |dɔːn| Noun/Verb/:黎明
 he set off at dawn:他黎明出发
 the dawn of civilization:文明的黎明
@@ -296,7 +293,7 @@ want (something) to be done or happen:想要（某事）完成或发生
 want (someone) to do or have something:想要（某人）做某事或拥有某事
 hope that (someone) has to deal with someone or something undesirable:希望（某人）必须与不受欢迎的人或事打交道
 wish |wɪʃ| Noun/Verb/:希望,愿望,祝,想,心愿
-we wished for peace:
+we wished for peace:我们希望和平
 they wish her every success:他们祝她一切顺利
 they wish to become involved:他们希望参与其中
 I wish it to be clearly understood:我希望它被清楚地理解
@@ -316,7 +313,7 @@ an act of inhaling in order to ascertain an odour or scent:为了确定气味或
 perceive or detect the odour or scent of (something):感知或检测（某物）的气味或气味
 sniff at (something) in order to perceive or detect its odour or scent:sniffat(something)为了感知或检测它的气味或气味
 detect or suspect (something) by means of instinct or intuition:通过本能或直觉发现或怀疑（某事）
-emit an odour or scent of a specified kind:
+emit an odour or scent of a specified kind:散发出特定种类的气味或气味
 have a strong or unpleasant odour:有强烈或难闻的气味
 appear in a certain way, be suggestive of something:以某种方式出现，暗示某事
 smell |smɛl| Noun/Verb/:闻,气味,闻起来
@@ -340,7 +337,7 @@ the present state of affairs:现状
 the reason for distress or a problem:苦恼或问题的原因
 the substance or content of a text as distinct from its style or form.:文本的实质或内容与其风格或形式不同。
 the body of a printed work, as distinct from titles, headings, etc.:印刷作品的正文，与标题、标题等不同。
-the particular content of a proposition, as distinct from its form.:
+the particular content of a proposition, as distinct from its form.:命题的特定内容，与其形式不同。
 be important or significant:重要或重要
 (of a person) be important or influential:（一个人的）重要或有影响力的
 (of a wound) secrete or discharge pus.:（伤口的）分泌或排出脓液。
@@ -371,9 +368,8 @@ a remark or passage in a play that is intended to be heard by the audience but u
 a remark not intended to be heard by everyone present:一个不打算让在场的每个人都听到的评论
 a remark that is not directly related to the main topic of discussion:与讨论的主题没有直接关系的评论
 aside |əˈsʌɪd| Adverb/Noun/:在旁边,一边,放在一边
-he pushed his plate aside:
+he pushed his plate aside:他把盘子推到一边
 she set aside some money for rent:她预留了一些租金
-:
 Shakespeare's use of asides and soliloquies:莎士比亚对旁白和独白的运用
 ‘Does that make him a murderer?’ whispered Alice in an aside to Fred:“这会让他成为杀人犯吗？”爱丽丝在旁边对弗雷德低声说
 the recipe book has little asides about the importance of home and family:食谱书几乎没有关于家庭和家人的重要性
@@ -392,7 +388,7 @@ a large area of water surrounded by land:大片被陆地包围的水域
 the Lake District.:湖区。
 a pool of liquid:一池液体
 a large surplus of a liquid commodity:大量过剩的流动性商品
-an insoluble pigment made by combining a soluble organic dye and an insoluble mordant.:
+an insoluble pigment made by combining a soluble organic dye and an insoluble mordant.:一种不溶性颜料，由可溶性有机染料和不溶性媒染剂混合而成。
 a purplish-red pigment made in the same way as lake, originally one obtained from lac.:一种紫红色颜料，采用与湖相同的方法制成，最初是从紫胶中提取的。
 lake |leɪk| Noun/:湖,湖泊
 boys were swimming in the lake:boys在湖里游泳
@@ -428,7 +424,6 @@ score or cause to score (a run or runs):score或导致得分（一次或多次�
 inoculate (cells or infective material) on to a culture plate, especially with the object of isolating a particular strain of microorganisms or estimating viable cell numbers.:inoculate（细胞或感染性材料）放在培养板上，尤其是为了分离特定的微生物菌株或估计活细胞数。
 plate |pleɪt| Noun/Verb/:盘子,镀,盘,板
 he pushed his empty plate to one side and sipped his wine:他把空盘子推到一边，喝了一口酒
-:
 he recommended the roast beef plate:他推荐的烤牛肉盘
 he was invited to a party and asked to bring a plate:他被邀请参加一个聚会并被要求带一个盘子
 they brought round the collection plates:他们带来了收集盘子
@@ -454,7 +449,7 @@ a journey of approximately two hours:大约两个小时的旅程
 the kinds of food that a person, animal, or community habitually eats:人、动物或社区习惯性吃的食物种类
 the activities, pastimes, etc. in which a person or group habitually engages:个人或团体习惯性从事的活动、消遣等
 a special course of food to which a person restricts themselves, either to lose weight or for medical reasons:一个人限制自己吃的特殊食物，无论是为了减肥还是出于医疗原因
-(of food or drink) with reduced fat or sugar content:
+(of food or drink) with reduced fat or sugar content:（食物或饮料）减少脂肪或糖含量
 restrict oneself to small amounts or special kinds of food in order to lose weight:限制自己少量或特殊种类的食物以减肥
 put (a person or animal) on a special diet.:put（人或动物）特殊饮食。
 a legislative assembly in certain countries:某些国家的立法议会
@@ -531,7 +526,6 @@ a more intractable problem remains:一个更棘手的问题仍然存在
 
 an aeroplane, helicopter, or other machine capable of flight.:一架飞机、直升机或其他能够飞行的机器。
 aircraft |ˈɛːkrɑːft| Noun/:飞机,航空
-:
 
 a piece of material suspended at the top to form a screen, typically movable sideways along a rail and found as one of a pair at a window:一块材料悬挂在顶部以形成一个屏幕，通常沿轨道横向移动，并在窗口中作为一对中的一个找到
 a screen of heavy cloth or other material that can be raised or lowered at the front of a stage:一块可以在舞台前面升降的厚布或其他材料的屏幕
@@ -540,7 +534,7 @@ a disastrous outcome:一个灾难性的结果
 provide with a curtain or curtains:提供窗帘或窗帘
 conceal or screen with a curtain:conceal或带窗帘的屏幕
 curtain |ˈkəːtn| Noun/Verb/:窗帘,装上窗帘,帘,幕,幕布
-she drew the curtains and lit the fire:
+she drew the curtains and lit the fire:她拉上窗帘，点燃了火
 he wants to see you directly the curtain comes down:他想直接见你大幕落下
 the art is to hold your audience right from the opening curtain:艺术是从开幕式开始就吸引观众
 it looked like curtains for me:它对我来说就像窗帘
@@ -586,7 +580,6 @@ she never missed an opportunity to have a dig at him:她从不错过挖苦他的
 
 a country forming the northernmost part of Great Britain and of the United Kingdom, population 5,169,000 (est. 2008), capital, Edinburgh.:一个构成大不列颠和联合王国最北端的国家，人口5,169,000（估计2008年），首都爱丁堡。
 Scotland |ˈskɒtlənd| Noun/:苏格兰,英国
-:
 
 the length of time that a person has lived or a thing has existed:一个人生活或事物存在的时间长度
 a particular stage in someone's life:某人生命中的特定阶段

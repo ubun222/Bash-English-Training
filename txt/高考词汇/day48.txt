@@ -52,7 +52,7 @@ high-heeled shoes.:高跟鞋。
 the part of the palm of the hand next to the wrist:靠近手腕的手掌部分
 the end of a violin bow at which it is held.:小提琴弓的末端。
 the part of the head of a golf club nearest the shaft.:高尔夫球杆杆头最靠近杆身的部分。
-a piece of the main stem of a plant left attached to the base of a cutting.:
+a piece of the main stem of a plant left attached to the base of a cutting.:一块植物的主茎留在插条的基部。
 a crusty end of a loaf of bread, or the rind of a cheese.:一条面包的硬壳末端，或奶酪的外皮。
 an inconsiderate or untrustworthy person:一个不体贴或不值得信赖的人
 (in professional wrestling) a wrestler who adopts a mean or unsympathetic persona in the ring:（在职业摔跤中）摔跤手在擂台上采取刻薄或冷漠的角色
@@ -106,7 +106,6 @@ come to heel | 附和,来到脚跟,跟上
 
 (of accommodation) available to be rented with furniture:(住宿)可租用家具
 furnished |ˈfəːnɪʃt| Adjective/:带家具的,家具
-:
 
 a structure or place made or chosen by a bird for laying eggs and sheltering its young:鸟为产卵和庇护幼鸟而建造或选择的结构或地方
 a place where an insect or other animal breeds or shelters:昆虫或其他动物繁殖或庇护的地方
@@ -114,17 +113,15 @@ something in the form of a bowl or layer, used to hold, protect, or support some
 a person's snug or secluded retreat:一个人的舒适或隐蔽的静修处
 a place filled with undesirable people, activities, or things:一个充满不受欢迎的人、活动或事物的地方
 a set of similar objects of graduated sizes, made so that each smaller one fits into the next in size for storage:一组类似的不同尺寸的物体，每个较小的物体都适合下一个尺寸的存储
-(of a bird or other animal) use or build a nest:
+(of a bird or other animal) use or build a nest:（鸟或其他动物）使用或建造巢穴
 fit (an object or objects) inside a larger one:fit（一个或多个对象）在一个较大的对象内
 (of a set of objects) fit inside one another:（一组对象的）彼此相配
 (especially in computing and linguistics) place (an object or element) in a lower position in a hierarchy.:（尤其是在计算和语言学中）将（对象或元素）置于层次结构中的较低位置。
 nest |nɛst| Noun/Verb/:巢,窝
 two sparrows frantically building a nest:两只麻雀疯狂筑巢
 an ants' nest:蚁巢
-potato nests filled with okra:
+potato nests filled with okra:装满秋葵的土豆窝
 I'm off to my cosy nest:我要去我舒适的窝了
-:
-:
 the owls often nest in barns:猫头鹰经常在谷仓里筑巢
 the town is nested inside a large crater on the flanks of a volcano:该镇位于火山两侧的一个大火山口内
 Russian dolls that nest inside one another:俄罗斯娃娃相互嵌套
@@ -133,7 +130,7 @@ bring or come to an end:带来或结束
 formally and finally settle or arrange (an agreement):正式并最终解决或安排（协议）
 arrive at a judgement or opinion by reasoning:通过推理得出判断或意见
 say in conclusion:最后说
-decide to do something:
+decide to do something:决定做某事
 conclude |kənˈkluːd| Verb/:得出结论,总结
 an attempt to conclude a ceasefire:达成停火的企图
 the doctors concluded that Esther had suffered a stroke:the医生得出结论，Esther中风了
@@ -155,7 +152,6 @@ the gravel pit is to be used as a yacht basin:砾石坑将用作游艇水池
 a yellowish- or brownish-green edible fruit that is typically narrow at the stalk and wider towards the base, with sweet, slightly gritty flesh.:一种淡黄色或棕绿色的可食用水果，通常茎部较窄，基部较宽，果肉甜美，略带砂砾。
 the Eurasian tree which bears the pear.:结梨的欧亚树。
 pear |pɛː| Noun/:梨,梨子
-:
 
 causing difficulty, hard to do or deal with:造成困难，难以做或处理
 deliberately unreasonable or uncooperative:故意不讲理或不合作
@@ -171,12 +167,11 @@ make sure the baby isn't sleeping in an awkward position:确保宝宝没有以�
 
 a special watch with buttons that start, stop, and then zero the hands, used to time races.:一个特殊的手表，带有启动、停止和归零按钮，用于计时。
 stopwatch |ˈstɒpwɒtʃ| Noun/:,秒表,计时器
-:
 
 a painful feeling of humiliation or distress caused by the consciousness of wrong or foolish behaviour:由于意识到错误或愚蠢的行为而引起的痛苦的屈辱或痛苦的感觉
 a loss of respect or esteem, dishonour:失去尊重或尊重，不光彩
 a person, action, or situation that brings a loss of respect or honour:导致失去尊重或荣誉的人、行为或情况
-a regrettable or unfortunate situation or action:
+a regrettable or unfortunate situation or action:令人遗憾或不幸的情况或行动
 make (someone) feel ashamed:make（某人）感到羞愧
 bring shame to:带来耻辱
 cause (someone) to feel inadequate by outdoing or surpassing them:导致（某人）通过超越或超越他们而感到不足
@@ -280,7 +275,7 @@ the house stands in seven acres of grounds:thehouse占地7英亩
 a football ground:a足球场
 third-year courses cover less ground and go into more depth:三年级课程涵盖更少的领域，更深入
 there are some grounds for optimism:有一些乐观的理由
-machines which presoak the coffee grounds produce a superior cup of coffee:
+machines which presoak the coffee grounds produce a superior cup of coffee:预浸咖啡渣的机器可以制作出一杯优质的咖啡
 a bitter wind blew from the north-east and the bombers were grounded:东北吹来一阵刺骨的寒风，轰炸机停飞
 he was grounded for hitting her on the head:他因打她的头而被禁足
 the study of history must be grounded in a thorough knowledge of the past:历史研究必须以对过去的透彻了解为基础
@@ -349,7 +344,7 @@ a white blouse will show the blood:白衬衫会显血
 wrinkles were starting to show on his face:wrinkles开始出现在他的脸上
 every salesperson should show an ID card:每个销售人员都应该出示身份证
 he ceased early in his career to show his work:他在职业生涯的早期就停止展示他的作品
-ITV showed The Enforcer on Saturday night:
+ITV showed The Enforcer on Saturday night:ITV 在星期六晚上播放了 The Enforcer
 a movie showing at the Venice Film Festival:一部在威尼斯电影节上放映的电影
 a travel clock showing the time in different cities:一个显示不同城市时间的旅行时钟
 a postcard showing the Wicklow Mountains:一张显示威克洛山脉的明信片
@@ -419,8 +414,8 @@ a bitter wind blew from the north:一阵刺骨的北风
 he drew a circle and marked north, south, east, and west:他画了一个圆圈，标出了北、南、东、西
 there will be heavy wintry showers, particularly in the north:会有大阵雨，特别是在北方
 he hired two lads from the North:他从北方雇了两个小伙子
-delegates from Virginia voted to join the North:
-the summit was likely to be a failure due to the North's refusal to commit itself to safeguarding species diversity:
+delegates from Virginia voted to join the North:来自弗吉尼亚州的代表投票决定加入北方
+the summit was likely to be a failure due to the North's refusal to commit itself to safeguarding species diversity:由于朝鲜拒绝承诺保护物种多样性，峰会可能会以失败告终
 North deals and opens one club:North交易并开设一家具乐部
 the north bank of the river:河北岸
 they were sheltering from the north winds:他们躲避北风
@@ -429,12 +424,12 @@ the town is twenty-five miles north of Newport:the镇位于纽波特以北25英�
 they expect to spend north of $6 million for this latest campaign:他们预计为这次最新的活动花费600万美元以上
 
 a rodent that resembles a large mouse, typically having a pointed snout and a long tail. Some kinds have become cosmopolitan and are sometimes responsible for transmitting diseases.:一种类似于大老鼠的啮齿动物，通常有尖的鼻子和长长的尾巴。7
-a despicable person, especially a man who has been deceitful or disloyal:
+a despicable person, especially a man who has been deceitful or disloyal:卑鄙的人，尤指欺骗或不忠的人
 an informer:一个告密者
 a person who is associated with or frequents a specified place:与指定地点有联系或经常光顾的人
 a pad used to give shape and fullness to a woman's hair.:用于使女性头发造型和丰满的垫子。
 used to express mild annoyance or irritation.:用于表示轻微的烦恼或恼怒。
-hunt or kill rats:
+hunt or kill rats:猎杀老鼠
 desert one's party, side, or cause:沙漠一方、一方或事业
 shape (hair) with a special pad.:shape（头发）带有特殊的垫子。
 rat |rat| Interjection/Noun/Verb/:鼠,告密,大鼠,黑
@@ -452,9 +447,9 @@ rats | 老鼠,大鼠
 
 used before the second or further of two or more alternatives (the first being introduced by a negative such as ‘neither’ or ‘not’) to indicate that they are each untrue or each do not happen:在两个或多个备选方案中的第二个或更多个备选方案之前使用（第一个由否定引入，例如“既不”或“不”）表示它们每个都不真实或每个都没有发生
 used to introduce a further negative statement:用于引入进一步的否定陈述
-than:than
+than:比
 a Boolean operator which gives the value one if and only if all operands have a value of zero and otherwise has a value of zero.:一个布尔运算符，当且仅当所有操作数的值都为零，否则它的值为零。
-a circuit which produces an output signal only when there are no signals on any of the input connections.:
+a circuit which produces an output signal only when there are no signals on any of the input connections.:仅当任何输入连接上没有信号时才产生输出信号的电路。
 nor |nɔː| Adverb/Conjunction/Noun/:也不,也没有
 they were neither cheap nor convenient:它们既不便宜也不方便
 ‘I don't see how.’ ‘Nor do I.’:‘我不知道怎么做。’‘我也不知道。’
@@ -464,7 +459,7 @@ nor God nor demon can undo the done:无论是上帝还是恶魔都无法撤消�
 the person in command of a ship:船长
 the pilot in command of a civil aircraft:民航机长
 a rank of naval officer above commander and below commodore.:司令官以上、准将以下的海军军官军衔。
-a rank of officer in the army and in the US and Canadian air forces, above lieutenant and below major.:
+a rank of officer in the army and in the US and Canadian air forces, above lieutenant and below major.:陆军以及美国和加拿大空军的军官级别，高于中尉但低于少校。
 the leader of a team, especially in sports:团队的领导者，尤其是在运动方面
 a powerful or influential person in a particular field:在特定领域有影响力或有影响力的人
 a head boy or girl in a school:学校里的男生或女生
@@ -491,12 +486,12 @@ a person invited to take part in a radio or television programme or other entert
 a person staying at a hotel or guest house:住在酒店或宾馆的人
 a customer at a restaurant.:餐厅的顾客。
 a small invertebrate that lives unharmed within an ants' nest.:一种在蚂蚁巢穴中安然无恙的小型无脊椎动物。
-appear as a temporary or visiting performer or participant in a television or radio programme or other entertainment:
+appear as a temporary or visiting performer or participant in a television or radio programme or other entertainment:在电视或广播节目或其他娱乐活动中作为临时或来访的表演者或参与者出现
 guest |ɡɛst| Noun/Verb/:来宾,客人,做特邀嘉宾
 I have two guests coming to dinner tonight:今晚我有两位客人来吃饭
 he was in Warsaw as a guest of the Polish government:他作为波兰政府的客人在华沙
 a regular guest on the morning show:早间节目的常客
-a reduction for guests staying seven nights or more:
+a reduction for guests staying seven nights or more:入住七晚或以上的客人可享受折扣
 he guested on the show two weeks ago:他两周前客串了这个节目
 
 any of the fine threadlike strands growing from the skin of humans, mammals, and some other animals:从人类、哺乳动物和其他一些动物的皮肤上长出的细线状股线
@@ -535,7 +530,7 @@ affectionate greetings conveyed to someone on one's behalf:代表某人向某人
 a formula for ending an affectionate letter:结束一封深情信的公式
 a personified figure of love, often represented as Cupid.:爱的拟人化人物，通常以丘比特为代表。
 a great interest and pleasure in something:对某事有极大的兴趣和乐趣
-a person or thing that one loves:
+a person or thing that one loves:喜欢的人或事物
 a friendly form of address:一种友好的地址形式
 used in affectionate requests:用于深情的请求
 (in tennis, squash, and some other sports) a score of zero, nil:（在网球、壁球和其他一些运动中）零分，无
@@ -577,7 +572,7 @@ amount in number to:数量到
 add up the full number or amount of:将全部数量或金额相加
 damage (something, typically a vehicle) beyond repair, wreck:损坏（某物，通常是车辆）无法修复，残骸
 total |ˈtəʊtl| Adjective/Noun/Verb/:全部的,总数,共计,总,总额
-a total cost of £4,000:
+a total cost of £4,000:总费用为 4,000 英镑
 it is a matter of total indifference to me:这对我来说完全无所谓
 he scored a total of thirty-three points:他一共得了三十三分
 they were left with debts totalling £6,260:他们的债务总额为6,260英镑

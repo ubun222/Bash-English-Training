@@ -3,7 +3,7 @@ battery								电池，一系列
 competent								有能力的，足够的
 preserve								保护，拯救，果酱
 possession								拥有，占有，领地
-proximately							近似地
+proximately							近似的
 wildfire								烈火
 compact								坚实的，小巧紧凑的，协议，压缩
 defy									反抗，激，使不可能
@@ -43,7 +43,7 @@ the injuries are consistent with falling from a great height:伤势与从高处�
 
 
 a container consisting of one or more cells, in which chemical energy is converted into electricity and used as a source of power:由一个或多个电池组成的容器，其中化学能转化为电能并用作动力源
-a fortified emplacement for heavy guns:
+a fortified emplacement for heavy guns:重炮的坚固阵地
 an artillery subunit of guns, men, and vehicles.:一个由枪支、人员和车辆组成的炮兵分队。
 a set of similar units of equipment, typically when connected together:一组相似的设备单元，通常连接在一起时
 an extensive series, sequence, or range of things:一个广泛的系列、序列或范围的事物
@@ -63,7 +63,7 @@ having the necessary ability, knowledge, or skill to do something successfully:�
 (of a person) efficient and capable:（一个人的）高效能干
 acceptable and satisfactory, though not outstanding:可接受和满意，虽然不突出
 (of a court or other body) accepted as having legal authority to deal with a particular matter:（法院或其他机构的）被认为具有处理特定事项的法定权力
-capable of performing the normal function effectively.:
+capable of performing the normal function effectively.:能够有效地执行正常功能。
 competent |ˈkɒmpɪt(ə)nt| Adjective/:胜任的,称职的,胜任
 a highly competent surgeon:一个非常称职的外科医生
 an infinitely competent mother of three:一个非常称职的三个孩子的母亲
@@ -95,11 +95,11 @@ the civil service became the preserve of the educated middle class:公务员成�
 the state of having, owning, or controlling something:拥有、拥有或控制某物的状态
 visible power or control over something, as distinct from lawful ownership; holding or occupancy as distinct from ownership:可见的权力或对某物的控制，与合法所有权不同；8
 the state of possessing an illegal drug:持有非法药物的状态
-(in soccer, rugby, and other ball games) temporary control of the ball by a player or team:
+(in soccer, rugby, and other ball games) temporary control of the ball by a player or team:（在足球、橄榄球和其他球类运动中）球员或球队对球的临时控制
 something that is owned or possessed:拥有或拥有的东西
 a territory or country controlled or governed by another:a领土或国家由另一个控制或管辖
 the state of being controlled by a demon or spirit:被恶魔或精神控制的状态
-the state of being completely dominated by an idea or emotion:
+the state of being completely dominated by an idea or emotion:完全被一种想法或情绪支配的状态
 possession |pəˈzɛʃ(ə)n| Noun/:拥有,占有
 she had taken possession of the sofa:她占有了沙发
 the landlord wishes to gain possession of the accommodation:房东希望获得住所的所有权
@@ -111,14 +111,11 @@ they said prayers to protect the people inside the hall from demonic possession:
 fear took possession of my soul:恐惧占据了我的灵魂
 
 
-:
 proximately |ˈprɒksɪmətli| Adverb/:大约,差不多
-:
 
 a large, destructive fire that spreads quickly over woodland or brush.:在林地或灌木丛中迅速蔓延的大火。
 a combustible liquid such as Greek fire that was readily ignited and difficult to extinguish, used especially in warfare.:一种易燃液体，如希腊火，容易点燃且难以熄灭，特别用于战争。
 wildfire |ˈwʌɪl(d)fʌɪə| Noun/:,山火
-:
 
 closely and neatly packed together, dense:紧密整齐地包装在一起，密密麻麻
 having all the necessary components or features neatly fitted into a small space:将所有必要的组件或功能整齐地安装在一个小空间中
@@ -144,7 +141,7 @@ the snow hardened and compacted:雪变硬并压实
 the foundation of the walls, compacted of Granite and Lime:墙的基础，花岗岩和石灰压实
 the ideas are compacted into two sentences:想法被压缩成两句话
 a wide selection of films is available for your 35 mm compact:多种胶卷可供您的35毫米紧凑型胶卷使用
-strength is then introduced by infiltrating glass into the compact:
+strength is then introduced by infiltrating glass into the compact:然后通过将玻璃渗透到压块中来引入强度
 they signed a compact with the United States:他们与美国签订了契约
 the party compacted an alliance with dissident groups:党与异议团体结盟
 
@@ -194,7 +191,7 @@ filters can be used in photography to reduce haze:filters可用于摄影减少�
 many other apps also offer filters for enhancing photos:许多其他应用程序还提供用于增强照片的滤镜
 the eye filters out ultraviolet radiation:眼睛过滤掉紫外线辐射
 you'll be put through to a secretary whose job it is to filter calls:你会被接通到一位负责过滤电话的秘书
-the players filtered out on to the pitch:theplayersfilteredoutonthepitch
+the players filtered out on to the pitch:球员们被过滤到球场上
 sunlight filtered in through the thin curtains:阳光透过薄薄的窗帘照进来
 the news began to filter in from the hospital:消息开始从医院传进来
 
@@ -211,7 +208,7 @@ mark (a ballot paper) incorrectly so as to make one's vote invalid, especially a
 (of food) become unfit for eating:(offood)变得不适合进食
 harm the character of (someone, especially a child) by being too lenient or indulgent:因过于宽容或放纵而伤害（某人，尤其是孩子）的性格
 treat with great or excessive kindness, consideration, or generosity:以极大或过分的善意、体谅或慷慨对待
-be extremely or aggressively eager for:beextremelyoraggressivelyeagerfor
+be extremely or aggressively eager for:极度或极度渴望
 rob (a person or a place) of goods or possessions by force or violence:通过武力或暴力抢劫（一个人或一个地方）货物或财产
 goods stolen or taken forcibly from a person or place:从某人或某处被盗或强行拿走的物品
 waste material brought up during the course of an excavation or a dredging or mining operation:在挖掘、疏浚或采矿作业过程中产生的废料
@@ -240,7 +237,7 @@ round up and steal (cattle, horses, or sheep):围捕并偷走（牛、马或羊�
 move or act quickly or energetically, hustle:快速或精力充沛地移动或行动，忙碌
 a soft, muffled crackling sound like that made by the movement of dry leaves or paper:一种柔和、低沉的噼啪声，就像干树叶或纸张移动时发出的声音
 rustle |ˈrʌsl| Noun/Verb/:沙沙,沙沙作响,哗啦啦
-she came closer, her skirt swaying and rustling:
+she came closer, her skirt swaying and rustling:她走近了，她的裙子摇摆着，沙沙作响
 a nurse rustled in:护士沙沙作响
 Dolly rustled the paper irritably:Dolly烦躁地把纸沙沙作响
 a murdered rancher whose cattle were being rustled:一个被谋杀的牧场主，他的牛正在被沙沙作响
@@ -263,7 +260,7 @@ a statement that something is unsatisfactory or unacceptable:某事不满意或�
 a reason for dissatisfaction:一个不满意的理由
 the expression of dissatisfaction:不满的表达
 the plaintiff's reasons for proceeding in a civil action.:原告提起民事诉讼的理由。
-an illness or medical condition, especially a relatively minor one:
+an illness or medical condition, especially a relatively minor one:疾病或医疗状况，尤其是相对轻微的
 complaint |kəmˈpleɪnt| Noun/:抱怨,投诉
 I intend to make an official complaint:我打算正式投诉
 I have no complaints about the hotel:我对酒店没有任何抱怨
@@ -337,7 +334,7 @@ inexhaustible |ˌɪnɪɡˈzɔːstɪbl| Adjective/:,取之不尽，用之不竭
 his inexhaustible energy:他无穷无尽的能量
 
 certain to happen, unavoidable:一定会发生，不可避免
-so frequently experienced or seen that it is completely predictable:
+so frequently experienced or seen that it is completely predictable:如此频繁地经历或看到它是完全可以预测的
 a situation that is unavoidable:不可避免的情况
 inevitable |ɪnˈɛvɪtəb(ə)l| Adjective/Noun/:必然,不可避免的,不可避免
 war was inevitable:war是不可避免的
@@ -349,7 +346,7 @@ the action or state of making or being made impure by polluting or poisoning:因
 contamination |kənˌtamɪˈneɪʃn| Noun/:污染,沾污
 the risk of contamination by dangerous bacteria:被危险细菌污染的风险
 
-temporarily prevent from continuing or being in force or effect:temporarilypreventfromcontinuingorbeinginforceoreffect
+temporarily prevent from continuing or being in force or effect:暂时阻止继续或生效
 officially prohibit (someone) from holding their usual post or carrying out their usual role for a particular length of time:officiallyprohibit(someone)toholdtheirusualpostorcarryingtheirusualrolesforaspecificlengthoftime
 defer or delay (an action, event, or judgement):defer或延迟（动作、事件或判断）
 (of a judge or court) cause (an imposed sentence) not to be enforced as long as no further offence is committed within a specified period:（法官或法院的）只要在指定期限内没有进一步犯罪，就不会执行（判处的刑罚）
@@ -389,7 +386,7 @@ women were aided in childbirth by midwives:妇女在助产士的帮助下分娩
 diet and exercise aid healthy skin:饮食和运动有助于皮肤健康
 
 
-a means of solving a problem or dealing with a difficult situation:
+a means of solving a problem or dealing with a difficult situation:解决问题或处理困难情况的方法
 the correct answer to a puzzle:一个谜题的正确答案
 products or services designed to meet a particular need:旨在满足特定需求的产品或服务
 a liquid mixture in which the minor component (the solute) is uniformly distributed within the major component (the solvent):一种液体混合物，其中次要成分（溶质）均匀分布在主要成分（溶剂）中
@@ -401,5 +398,5 @@ the solution to this month's crossword:本月填字游戏的解法
 an internet marketing firm specializing in e-commerce solutions:一家专注于电子商务解决方案的网络营销公司
 a solution of ammonia in water:a氨水溶液
 gum tragacanth in solution is best used thinly on paper:gumtragacanth在溶液中最好在纸上薄薄地使用
-the solution of British supremacy in South Africa:
+the solution of British supremacy in South Africa:英国在南非的霸权解决方案
 

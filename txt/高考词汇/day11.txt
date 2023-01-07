@@ -41,7 +41,6 @@ a Greek-speaking person in the ancient world, especially a native of one of the 
 the ancient or modern language of Greece, the only representative of the Hellenic branch of the Indo-European family.:希腊古语或现代语，印欧语系希腊语支的唯一代表。
 a member of a fraternity or sorority having a Greek-letter name.:一个兄弟会或姐妹会的成员，名字是希腊字母。
 Greek |ɡriːk| Adjective/Noun/:希腊语,希腊文
-:
 
 form one's features into a pleased, kind, or amused expression, typically with the corners of the mouth turned up and the front teeth exposed:将一个人的特征变成一种高兴、友善或有趣的表情，通常嘴角上翘，门牙外露
 express (a feeling) by smiling:通过微笑表达（一种感觉）
@@ -63,7 +62,7 @@ chance or luck as an arbitrary force affecting human affairs:机会或运气作�
 luck, especially good luck:luck，特别好运
 the success or failure of a person or enterprise over a period of time:一个人或企业在一段时间内的成败
 a large amount of money or assets:大量金钱或资产
-a surprisingly high price or amount of money:惊人的高价格或金额
+a surprisingly high price or amount of money:钱惊人的高价格或金额
 fortune |ˈfɔːtʃuːn| Noun/:财富,运势
 some malicious act of fortune keeps them separate:一些恶意的命运让他们分开
 only good fortune has prevented British casualties:只有好运才阻止了英国人的伤亡
@@ -110,7 +109,7 @@ the central part of a pair of glasses, fitting over the bridge of the nose:一�
 a partial denture supported by natural teeth on either side.:由两侧天然牙齿支撑的局部义齿。
 the part of a stringed instrument over which the strings are stretched:弦乐器的弦被拉伸的部分
 a bridge passage or middle eight.:一个桥梁通道或中间八。
-the support for the tip of a billiard cue formed by the hand.:
+the support for the tip of a billiard cue formed by the hand.:由手形成的台球杆尖端的支撑。
 a long stick with a frame at the end which is used to support a cue for a difficult shot.:一根末端带有框架的长杆，用于支撑高难度击球的球杆。
 an electric circuit with two branches across which a detector or load is connected, used to measure resistance or other property by equalizing the potential across the two ends of a detector, or to rectify an alternating voltage or current.:具有两个分支的电路，在其两端连接探测器或负载，用于通过使探测器两端的电位相等来测量电阻或其他特性，或对交流电压或电流进行整流。
 be or make a bridge over (something):be或搭桥（某事）
@@ -124,7 +123,7 @@ he pushed his spectacles further up the bridge of his nose:他把眼镜推到鼻
 these sunglasses have a special nose bridge for comfort:这些太阳镜有一个特殊的鼻梁，舒适
 ebony bridges and fingerboards:乌木琴桥和指板
 a covered walkway bridged the gardens:一条有盖的走道连接了花园
-new initiatives were needed to bridge the great abyss of class:
+new initiatives were needed to bridge the great abyss of class:需要采取新的举措来弥合阶级的巨大鸿沟
 she plays bridge once a month with a group of friends:她每个月和一群朋友打一次桥牌
 
 a drink made from lemon juice and water sweetened with sugar:一种由柠檬汁和加糖的水制成的饮料
@@ -134,7 +133,7 @@ a jug of lemonade:一壶柠檬水
 
 a person whom one does not know or with whom one is not familiar:不认识或不熟悉的人
 a person who does not know, or is not known in, a particular place or community:不认识或不认识特定地点或社区的人
-a person entirely unaccustomed to (a feeling, experience, or situation):
+a person entirely unaccustomed to (a feeling, experience, or situation):完全不习惯（感觉、经历或情况）的人
 a person who is not a member or official of the House of Commons.:不是下议院成员或官员的人。
 stranger |ˈstreɪn(d)ʒə| Noun/:陌生人,别
 don't talk to strangers:不要和陌生人说话
@@ -148,16 +147,15 @@ free (someone) from social conventions, especially those concerned with accepted
 release (gas, energy, etc.) as a result of chemical reaction or physical decomposition:由于化学反应或物理分解而释放（气体、能量等）
 steal (something):steal（某物）
 liberate |ˈlɪbəreɪt| Verb/:解放,释放,解放出来
-the serfs had been liberated:
+the serfs had been liberated:农奴解放了
 twelve months earlier Paris had been liberated:12个月前，巴黎解放了
 she is liberated from the constraints of an unhappy marriage:她从不幸婚姻的束缚中解脱出来
-ways of working politically that liberate women:
+ways of working politically that liberate women:解放妇女的政治工作方式
 the energy liberated by the annihilation of matter is huge:物质湮灭释放的能量巨大
 the drummer's wearing a beret he's liberated from Lord knows where:鼓手戴着他从天知道哪里解放出来的贝雷帽
 
 a person in charge of or assisting in a library.:图书馆负责人或协助人。
 librarian |lʌɪˈbrɛːrɪən| Noun/:图书管理员,馆员
-:
 
 an association dedicated to a particular interest or activity:一个致力于特定兴趣或活动的协会
 the premises used by a particular club:特定俱乐部使用的场所
@@ -203,7 +201,7 @@ the police have arrested a suspect:警方逮捕了一名嫌疑人
 a suspect package was found on the platform:平台发现可疑包
 
 a silvery-white metal, the chemical element of atomic number 50.:一种银白色金属，原子序数为50的化学元素。
-money:
+money:钱
 an airtight container made of tinplate or aluminium:一个由马口铁或铝制成的密闭容器
 an airtight sealed container for preserving food, made of tinplate or aluminium, a can:一个用于保存食物的密封容器，由马口铁或铝制成，一个罐头
 the contents of a tin:锡的内容
@@ -284,7 +282,7 @@ postpone or defer (an action):postpone或defer（一个动作）
 a period of time by which something is late or postponed:某事迟到或推迟的一段时间
 the action of delaying or being delayed:延迟或被延迟的动作
 the time interval between the propagation of an electrical signal and its reception.:电信号的传播和接收之间的时间间隔。
-an electronic device which introduces a delay, especially in an audio signal.:
+an electronic device which introduces a delay, especially in an audio signal.:一种引入延迟的电子设备，尤其是在音频信号中。
 delay |dɪˈleɪ| Noun/Verb/:延迟,推迟,拖延
 the train was delayed:火车晚点了
 time being of the essence, they delayed no longer:时间的本质，他们不再拖延
@@ -305,7 +303,7 @@ a thing resembling a wheel, in particular a cheese made in the form of a shallow
 an instance of wheeling, a turn or rotation.:一个转动、转弯或旋转的实例。
 a set of short lines, typically five in number and rhyming, concluding the stanza of a poem.:一组短行，通常为五行，押韵，结束一首诗的节。
 push or pull (a vehicle with wheels):pushorpull（带轮子的车辆）
-carry in or on a vehicle with wheels:
+carry in or on a vehicle with wheels:在有轮子的车辆中或在有轮子的车辆上携带
 (of a bird or aircraft) fly in a wide circle or curve:（鸟或飞机的）大圆圈或曲线飞行
 turn round quickly so as to face another way:快速转身，以面对另一个方向
 turn or seem to turn on an axis or pivot:turn或似乎在转动轴或枢轴
@@ -384,7 +382,7 @@ he was doing time for fraud:他正在为欺诈做准备
 this is the first time I have got into debt:这是我第一次欠债
 she was having a rough time of it:她过得很艰难
 eleven times four is forty-four:十一乘四等于四十四
-tunes in waltz time:
+tunes in waltz time:华尔兹时间的曲调
 the first track race is timed for 11.15:第一场赛道比赛时间为11.15
 Williams timed his pass perfectly from about thirty yards:Williams从大约30码处完美地计时了他的传球
 we were timed and given certificates according to our speed:我们根据我们的速度计时并颁发证书
@@ -401,7 +399,7 @@ touch or press (part of a machine or other device) in order to work it:触摸或
 be suddenly and vividly realized by:be恍然大悟
 cause harm or distress to:造成伤害或困扰
 (of a disaster) occur in and cause damage to (an area) suddenly:(灾难的)突然发生并给(地区)造成损害
-attack and rob or kill:attackandroborkill
+attack and rob or kill:攻击和抢劫或杀戮
 reach (a particular level, point, or figure):reach（特定级别、点或图形）
 be affected by (an unfortunate and unexpected circumstance or event):被（不幸和意外的情况或事件）影响
 arrive at or go to (a place):到达或去（一个地方）
@@ -410,7 +408,7 @@ take effect:生效
 give (someone) a dose of a drug or an alcoholic drink.:给（某人）一剂药物或酒精饮料。
 engage in a particular pursuit or activity with enthusiasm:热情地从事特定的追求或活动
 propel (a ball) with a bat, racket, stick, etc. to score runs or points in a game.:propel（球）用球棒、球拍、棍子等在比赛中得分或得分。
-score (a run or point) by hitting a ball with a bat, racket, stick, etc.:
+score (a run or point) by hitting a ball with a bat, racket, stick, etc.:用球棒、球拍、棍子等击球得分（跑分或得分）。
 an instance of striking or being struck:一个打击或被打击的例子
 a verbal attack:口头攻击
 a murder, typically one planned and carried out by a criminal organization:一起谋杀，通常是由犯罪组织策划和实施的
@@ -463,7 +461,7 @@ leathers | 皮革,皮革制品
 
 the action or process of correcting something:纠正某事的行动或过程
 a change that rectifies an error or inaccuracy:纠正错误或不准确之处的更改
-used to introduce an amended version of something one has just said:
+used to introduce an amended version of something one has just said:用于介绍刚刚说过的内容的修改版本
 a quantity adjusting a numerical result to allow for a departure from standard conditions:a量调整数值结果以允许偏离标准条件
 correction |kəˈrɛkʃn| Noun/:更正,改正,修正
 I checked the typing for errors and sent it back for correction:我检查了输入是否有错误并寄回以进行更正
@@ -489,7 +487,7 @@ accurate or correct in all details:准确或正确的所有细节
 demand and obtain (something) from someone:需求并从某人那里获得（某物）
 inflict (revenge) on someone:inflict（报复）某人
 exact |ɪɡˈzakt| Adjective/Verb/:精确的,强行要求,精确,确切,准确
-the exact details were still being worked out:
+the exact details were still being worked out:具体细节仍在制定中
 an exact replica, two feet tall, was constructed:一个精确的复制品，两英尺高，被建造
 she was an exact, clever manager:她是一位精确、聪明的经理
 psychomedicine isn't an exact science yet:psychomedicine还不是一门精确的科学
@@ -498,13 +496,12 @@ he exacts a cruel revenge against the winning candidate:他对获胜的候选人
 
 a person who catches fish for a living or for sport.:以捕鱼为生或运动的人。
 fisherman |ˈfɪʃəmən| Noun/:,钓鱼人
-:
 
 a regular payment made by the state to people of or above the official retirement age and to some widows and disabled people:国家定期支付给法定退休年龄或以上的人以及一些寡妇和残疾人
 a regular payment made during a person's retirement from an investment fund to which that person or their employer has contributed during their working life:一个人退休期间从该人或其雇主在其工作生涯中向其捐款的投资基金中支付的定期付款
 a regular payment made to a royal favourite or to an artist or scholar to enable them to carry on work of public interest or value.:定期支付给皇室宠儿或艺术家或学者，以使他们能够从事具有公共利益或价值的工作。
 dismiss someone from employment, typically because of age or ill health, and pay them a pension:解雇某人，通常是因为年龄或健康状况不佳，并向他们支付养老金
-discard something because it is too old or no longer wanted:
+discard something because it is too old or no longer wanted:丢弃一些东西因为它太旧或不再需要
 a small hotel or boarding house in France and other European countries.:法国和其他欧洲国家的小旅馆或寄宿公寓。
 pension |ˈpɛnʃn| Noun/Verb/:养老金,退休金,抚恤金
 men can draw a pension from the age of sixty-five:men可以从六十五岁开始领取养老金

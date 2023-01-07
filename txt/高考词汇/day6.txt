@@ -55,7 +55,6 @@ she carpenters and goes on archaeological digs:she木匠并进行考古挖掘
 
 a large African mammal with a very long neck and forelegs, having a coat patterned with brown patches separated by lighter lines. It is the tallest living animal.:一种大型非洲哺乳动物，脖子和前腿很长，外套上有棕色斑块，由浅色线条隔开。它是现存最高的动物。
 giraffe |dʒɪˈrɑːf| Noun/:长颈鹿,长颈动物
-:
 
 a series of events that are regularly repeated in the same order:一系列以相同顺序定期重复的事件
 the period of time taken to complete a cycle of events:完成一个事件循环所花费的时间
@@ -201,7 +200,7 @@ check the speed of (a horse), especially so as to make it lose a race.:检查（
 play (the ball) round to the leg side from the off.:play（球）从下场转至腿侧。
 strike (the ball) in the direction of one's follow-through so that it travels to the left (or, with a left-handed player, the right).:strike（球）在一个人的跟进方向上，使其向左移动（或者，对于左撇子球员，向右）。
 (of a lineman) withdraw from and cross behind the line of scrimmage to block opposing players and clear the way for a runner:（前锋）从争球线后撤出并越过争球线，阻挡对方球员并为跑垒员开路
-print (a proof).:
+print (a proof).:打印（证明）。
 an act of pulling something:拉东西的行为
 a handle to hold while pulling:一个拉动时握住的把手
 a deep draught of a drink:一杯深水
@@ -267,7 +266,7 @@ not moving or making a sound:不动也不发出声音
 (of a drink) not effervescent.:（饮料）不冒泡。
 deep silence and calm, stillness:deep沉默和平静，静止
 an ordinary static photograph as opposed to a motion picture, especially a single shot from a cinema film:一张普通的静态照片，而不是电影，尤其是电影中的单张照片
-up to and including the present or the time mentioned, even now (or then) as formerly:
+up to and including the present or the time mentioned, even now (or then) as formerly:直到并包括现在或提到的时间，即使现在（或那时）和以前一样
 referring to something that will or may happen in the future:指将来会或可能发生的事情
 nevertheless, all the same:尽管如此，都一样
 even (used with comparatives for emphasis):even（用于比较强调）
@@ -307,7 +306,7 @@ in-service training for staff:员工在职培训
 you'll have to go into strict training:你必须接受严格的训练
 
 not able or likely to cause harm:不能或可能造成伤害
-inoffensive:inoffensive
+inoffensive:无害的
 harmless |ˈhɑːmləs| Adjective/:无害,无害的,无毒
 the venom of most spiders is harmless to humans:大多数蜘蛛的毒液对人类是无害的
 as an entertainer, he's pretty harmless:作为一个艺人，他很无害
@@ -444,7 +443,7 @@ mains | 电源,干线
 
 an assembly of people for a particular purpose, especially for formal discussion:为了特定目的的一群人，特别是为了正式讨论
 a gathering of people, especially Quakers, for worship.:一群人，尤其是贵格会教徒，进行敬拜。
-an organized event at which a number of races or other sporting contests are held:
+an organized event at which a number of races or other sporting contests are held:举行一系列比赛或其他体育比赛的有组织的活动
 a situation when two or more people meet, by chance or arrangement:两个或更多人偶然或安排相遇的情况
 meeting |ˈmiːtɪŋ| Noun/:会议,开会
 we held an urgent meeting to discuss the response to the epidemic:我们召开紧急会议讨论应对疫情
@@ -466,13 +465,12 @@ a meeting of minds | 思想会议,思想交流
 a notice or announcement in a public medium promoting a product, service, or event or publicizing a job vacancy:在公共媒体上宣传产品、服务或活动或宣传职位空缺的通知或公告
 a person or thing regarded as a means of recommending something:一个人或事物被视为推荐某事的手段
 advertisement |ədˈvəːtɪsm(ə)nt| Noun/:广告,宣传
-:
 unhappy clients are not a good advertisement for the firm:不满意的客户不是公司的好广告
 
 a half of a circle or of its circumference.:半个圆或其圆周。
 a set of objects arranged in a semicircle:一组排列成半圆形的对象
 semicircle |ˈsɛmɪˌsəːkl| Noun/:,半圆形
-chairs were in a semicircle round the hearth:
+chairs were in a semicircle round the hearth:椅子围着壁炉围成半圆形
 
 a person who is among the first to explore or settle a new country or area.:率先探索或定居新国家或地区的人。
 a person who is among the first to research and develop a new area of knowledge or activity:率先研究和开发新知识或活动领域的人
@@ -526,7 +524,7 @@ papers | 文件,论文
 
 
 a person holding a position of authority, especially one with a commission, in the armed services, the mercantile marine, or on a passenger ship:在武装部队、商船或客船上担任权威职位的人，尤其是受委派的人
-a policeman or policewoman:
+a policeman or policewoman:警察或女警察
 a bailiff.:法警。
 a holder of a public, civil, or ecclesiastical office:公共、民事或教会职位的持有人
 a holder of a senior post in a society, company, or other organization:在社团、公司或其他组织担任高级职位的人
@@ -539,7 +537,7 @@ Special Constables provide valuable support to full-time officers:特警为专�
 a probation officer:a缓刑官
 a chief executive officer:a首席执行官
 the aristocracy wielded considerable power, officering the army:贵族拥有相当大的权力，指挥军队
-foreign mercenaries were hired to officer new regiments:
+foreign mercenaries were hired to officer new regiments:雇佣外国雇佣军来管理新团
 
 a person whose assets are worth one million pounds or dollars or more:一个资产价值一百万英镑或美元或以上的人
 millionaire |ˌmɪljəˈnɛː| Noun/:百万富翁,富翁
@@ -568,7 +566,7 @@ a lifestyle which most of us would envy:一种我们大多数人都会羡慕的�
 seek the favour, support, or custom of:寻求对方的青睐、支持或习惯
 try to gain the love of (someone), especially with a view to marriage:尝试获得（某人）的爱，尤其是为了结婚
 woo |wuː| Adjective/Noun/Verb/:呜,呜呜
-pop stars are being wooed by film companies eager to sign them up:
+pop stars are being wooed by film companies eager to sign them up:急于签约流行歌星的电影公司正在向他们求爱
 he wooed her with quotes from Shakespeare:他用莎士比亚的名言向她求爱
 
 a large natural elevation of the earth's surface rising abruptly from the surrounding level, a large steep hill:地球表面从周围水平突然上升的一个大的自然海拔，一个大的陡峭的山丘

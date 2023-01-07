@@ -37,7 +37,6 @@ attain					实现，获得，达到
 
 a small, sturdy motor vehicle with four-wheel drive, especially one used by the military.:一种小型、坚固的四轮驱动机动车辆，尤其是军用车辆。
 jeep |dʒiːp| Noun/:吉普车,吉普
-:
 
 enough or more than enough, plentiful:足够或绰绰有余，充足
 large and accommodating:大而包容
@@ -79,13 +78,11 @@ another three identical drives would mirror data from primary sources:另外三�
 
 a person who is skilled in typing, especially one who is employed for this purpose.:熟练打字的人，尤其是为此目的受雇的人。
 typist |ˈtʌɪpɪst| Noun/:打字员,打字机
-:
 
 an athletic or sports ground with tiers of seats for spectators.:一个为观众提供座位的运动场或运动场。
 (in ancient Rome or Greece) a track for a foot race or chariot race.:（古罗马或希腊）赛跑或战车赛跑的赛道。
 an ancient Roman or Greek measure of length, about 185 metres (originally the length of a stadium).:一种古罗马或希腊的长度测量单位，约185米（最初是体育场的长度）。
 stadium |ˈsteɪdɪə| Noun/:体育场,体育馆,球场
-:
 
 a person or thing acting or serving in place of another:代替他人行事或服务的人或物
 a person or thing that becomes the object of love or another emotion which is deprived of its natural outlet:成为爱的对象的人或事物，或失去自然出口的另一种情感
@@ -277,9 +274,7 @@ visual |ˈvɪzjʊəl| Adjective/Noun/:视觉的,视觉资料,视觉
 visual perception:视觉感知
 the music should fit the visuals:音乐应该适合视觉效果
 
-:
 those |ðəʊz| Determiner/Pronoun/:那些,那几个
-:
 
 a very fine slender piece of polished metal with a point at one end and a hole or eye for thread at the other, used in sewing:一块非常细的抛光金属，一端有一个尖端，另一端有一个用于缝线的孔或眼，用于缝纫
 a similar, larger instrument used in crafts such as crochet, knitting, and lacemaking.:一种类似的更大的工具，用于钩针编织、针织和花边制作等工艺。
@@ -309,7 +304,7 @@ I just said that to Charlie to needle him:我只是对查理说要给他打针
 
 a four-wheeled road vehicle that is powered by an engine and is able to carry a small number of people:一种以发动机为动力，可载人少的四轮公路车
 a railway carriage:a铁路车厢
-the passenger compartment of a lift, cableway, or balloon:
+the passenger compartment of a lift, cableway, or balloon:电梯、索道或气球的乘客舱
 a chariot.:一辆战车。
 car |kɑː| Noun/:车,汽车
 she drove up in a car:她开车过来
@@ -393,7 +388,7 @@ lose or cause to lose colour or brightness:失去或导致失去颜色或亮度
 (in craps) match the bet of (another player):（掷骰子）匹配（另一位玩家）的赌注
 the process of becoming less bright:变暗的过程
 an act of causing a film or television image to darken and disappear gradually:使电影或电视图像逐渐变暗和消失的行为
-a shot causing the ball to deviate to the right (or, for a left-handed golfer, the left):
+a shot causing the ball to deviate to the right (or, for a left-handed golfer, the left):导致球偏向右侧的击球（或者，对于惯用左手的高尔夫球手，偏向左侧）
 a pass thrown so that the ball descends directly over the receiver's shoulder, especially as they veer towards the sideline:a传球，使球直接下降到接球手的肩膀上，尤其是当他们转向边线时
 a haircut in which the hair is left long on top of the head but cropped close to the sides and back with the length of hair gradually decreasing:一种发型，头发留长在头顶，但剪到靠近两侧和后面，头发的长度逐渐减少
 fade |feɪd| Noun/Verb/:褪色,掉色,淡出

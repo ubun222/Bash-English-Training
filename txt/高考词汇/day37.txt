@@ -88,12 +88,12 @@ used with an expression of measurement:与测量表达式一起使用
 used to express position or orientation:用于表示位置或方向
 referring to a crossword answer which reads horizontally:指的是横向阅读的填字游戏答案
 across |əˈkrɒs| Adverb/Preposition/:穿过,遍及,横跨,跨越
-I ran across the street:
+I ran across the street:我跑过马路
 they lived across the street from one another:他们住在街对面
 he had swum across:他游过
 a crater some 30 metres across:一个大约30米宽的陨石坑
 he looked across at me:他看着我
-19 across:19跨
+19 across:9跨
 
 the chemical element nobelium.:不是
 not any:没有
@@ -127,7 +127,7 @@ announce |əˈnaʊns| Verb/:宣布,公布,公告
 they were announcing her train:他们宣布她的火车
 
 the money paid for a journey on public transport:乘坐公共交通工具旅行的钱
-a passenger paying to travel in a taxi:
+a passenger paying to travel in a taxi:付费乘坐出租车的乘客
 a range of food of a particular type:一系列特定类型的食物
 something offered to the public, typically as a form of entertainment:向公众提供的东西，通常作为一种娱乐形式
 perform in a specified way in a particular situation or over a particular period:在特定情况或特定时期内以特定方式执行
@@ -145,7 +145,7 @@ a knight fares forth:a骑士出征
 able to be done or achieved:能够完成或实现
 able to be or become, potential:能够成为或成为，潜力
 having as much or as little of a specified quality as can be achieved:具有尽可能多或尽可能少的指定质量
-(of a number or score) as high as is achievable in a test, competition, or game:
+(of a number or score) as high as is achievable in a test, competition, or game:（数字或分数）在测试、比赛或游戏中达到的最高水平
 that may exist or happen, but that is not certain or probable:可能存在或发生，但不确定或不可能
 a potential candidate for a job or team:工作或团队的潜在候选人
 that which is likely or achievable:可能或可实现的
@@ -171,7 +171,7 @@ a short terminal platform at a railway station also having through lines.:火车
 (of a horse) brown with black points:（马的）棕色带黑点
 a bay horse:a湾马
 (of a dog, especially a large one) bark or howl loudly:（狗，尤其是大狗）大声吠叫或嚎叫
-(of a group of people) shout loudly, typically to demand something:
+(of a group of people) shout loudly, typically to demand something:（一群人）大声喊叫，通常是要求某事
 bay at:bay在
 the sound of baying:咆哮的声音
 bay |beɪ| Adjective/Noun/Verb/:湾,海湾,贝
@@ -180,7 +180,7 @@ a bomb bay:炸弹舱
 a loading bay:a装载区
 a boy on a dark bay horse:一个骑着黑马的男孩
 two black horses and a bay graze nearby:两匹黑马和一个海湾在附近吃草
-the dogs bayed:thedogsbayed
+the dogs bayed:狗吠
 the crowd bayed for an encore:人群齐声要求再来一次
 a pack of wolves baying the moon:一群狼在呼喊月亮
 the bloodhounds' heavy bay:猎犬的重型海湾
@@ -347,7 +347,7 @@ international |ˌɪntəˈnaʃən(ə)l| Adjective/Noun/:国际的,国际体育比
 international trade:国际贸易
 a violation of international law:违反国际法
 large international hotels:大型国际酒店
-the Murrayfield rugby international:theMurrayfieldrugbyinternational
+the Murrayfield rugby international:默里菲尔德国际橄榄球队
 
 (of an unpleasant or unwelcome situation or phenomenon) present or experienced to a severe or intense degree:（表示不愉快或不受欢迎的情况或现象）严重或强烈地出现或经历
 (of a disease or its symptoms) severe but of short duration:（疾病或其症状）严重但持续时间短
@@ -387,7 +387,6 @@ after Ned died, everyone imagined that Mabel would move away:Ned死后，大家�
 
 a long coat, typically having a belt, made from waterproofed or water-resistant fabric.:一件长外套，通常带有腰带，由防水或防水织物制成。
 raincoat |ˈreɪnkəʊt| Noun/:雨衣,大雨
-:
 
 causing laughter and amusement, comic:引起欢笑和娱乐，漫画
 having or showing a sense of humour:具有或表现出幽默感
@@ -397,7 +396,6 @@ his humorous grey eyes:他幽默的灰色眼睛
 
 a thin liquid food of oatmeal or other meal boiled in milk or water.:燕麦片或其他在牛奶或水中煮沸的稀薄液体食物。
 gruel |ˈɡruːəl| Noun/:,稀饭,稀粥
-:
 
 of very high quality, very good of its kind:质量非常高，同类产品中非常好
 worthy of or eliciting admiration:值得或引起钦佩
@@ -430,11 +428,11 @@ a fine nylon thread:细尼龙线
 I sharpened the leads to a fine point:我把引线削尖
 the soils were all fine silt:土壤都是细淤泥
 fine bone china:细骨瓷
-there is a fine distinction between misrepresenting the truth and lying:
+there is a fine distinction between misrepresenting the truth and lying:歪曲事实和说谎之间有细微的区别
 he has a fine eye for the detail and texture of social scenery:他对社交场景的细节和质感有着敏锐的洞察力组内有20个-
 
 leave (a place), usually permanently:leave（一个地方），通常是永久的
-(of a tenant) leave rented accommodation:
+(of a tenant) leave rented accommodation:（租户的）离开租住的住所
 resign from (a job):resignfrom(一份工作)
 stop or discontinue (an action or activity):stop或停止（动作或活动）
 behave in a specified way:behave以指定的方式
@@ -446,11 +444,10 @@ the landlord issued a notice to quit:房东发出退出通知
 she quit her job in a pizza restaurant:她辞去了披萨店的工作
 quit moaning!:停止呻吟！
 quit yourselves like men, and fight:像男人一样放弃自己，去战斗
-I want to be quit of him:
+I want to be quit of him:我想离开他
 
 a small insect typically having a sting and living in a complex social colony with one or more breeding queens. It is wingless except for fertile adults, which form large mating swarms, and is proverbial for its industriousness.:一种小昆虫，通常有刺，生活在一个复杂的社会群体中，有一个或多个繁殖蚁后。除了形成大型交配群的肥沃成虫外，它没有翅膀，并且以其勤劳而闻名。
 ant |ant| Noun/:蚂蚁,蚁
-:
 
 firmly press (something soft or yielding), typically with one's fingers:用力按压（柔软或柔软的东西），通常用手指
 extract (liquid or a soft substance) from something by compressing or twisting it firmly:通过用力压缩或扭转从某物中提取（液体或软质物质）
@@ -489,7 +486,6 @@ the poor guy just lost his main squeeze:那个可怜的家伙刚刚失去了他�
 a very large plant-eating mammal with a prehensile trunk, long curved ivory tusks, and large ears, native to Africa and southern Asia. It is the largest living land animal.:一种非常大的食草哺乳动物，具有可卷曲的躯干、长而弯曲的象牙和大耳朵，原产于非洲和南亚。它是现存最大的陆生动物。
 a size of paper, typically 28 × 23 inches (approximately 711 × 584 mm).:a尺寸的纸张，通常为28×23英寸（约711×584毫米）。
 elephant |ˈɛlɪf(ə)nt| Noun/:大象,象,像
-:1
 
 a destructive insect or other animal that attacks crops, food, livestock, etc.:破坏农作物、食物、牲畜等的破坏性昆虫或其他动物。
 an annoying person or thing, a nuisance:讨厌的人或事，讨厌的东西

@@ -78,7 +78,7 @@ a successful actor:一个成功的演员
 a possibility of something happening:某事发生的可能性
 the probability of something desirable happening:某事发生的概率
 an opportunity to do or achieve something:一个做或实现某事的机会
-the occurrence of events in the absence of any obvious intention or cause:
+the occurrence of events in the absence of any obvious intention or cause:在没有任何明显意图或原因的情况下发生的事件
 fortuitous, accidental:偶然的，偶然的
 do something by accident or without intending to:无意或无意地做某事
 find or see by accident:偶然发现或看到
@@ -129,7 +129,6 @@ put a lid on | 盖上盖子,盖好
 
 the basic monetary unit of the US, Canada, Australia, and certain countries in the Pacific, Caribbean, SE Asia, Africa, and South America.:美国、加拿大、澳大利亚和太平洋、加勒比、东南亚、非洲和南美洲某些国家的基本货币单位。
 dollar |ˈdɒlə| Noun/:美元,元,美金
-:
 
 an adult male human being:一个成年男性
 a male member of a workforce, team, etc.:劳动力、团队等的男性成员。
@@ -144,7 +143,7 @@ a human being of either sex, a person:一个人，无论男女，一个人
 human beings in general, the human race:humanbeings一般而言，人类
 a male individual, one:一个男性个体，一个
 a type of prehistoric human named after the place where the remains were found:一种以发现遗骸的地方命名的史前人类
-a group or person in a position of authority over others, such as a corporate employer or the police:
+a group or person in a position of authority over others, such as a corporate employer or the police:对他人有权威地位的团体或个人，例如公司雇主或警察
 white people collectively regarded as the controlling group in society:white人统称为社会控制群体
 a figure or token used in playing a board game.:玩棋盘游戏时使用的图形或标记。
 man |mɛn| Interjection/Noun/Verb/:男人,天哪,人,男子,掌管
@@ -192,7 +191,7 @@ suffer a misfortune as a consequence of an action:因某项行动而遭受不幸
 give what is due or deserved to:给予应得或应得的
 give (attention, respect, or a compliment) to (someone):给予（关注、尊重或赞美）给（某人）
 make (a visit or call) to (someone):make（拜访或打电话）给（某人）
-the money paid to someone for regular work:
+the money paid to someone for regular work:支付给某人正常工作的钱
 seal (the deck or seams of a wooden ship) with pitch or tar to prevent leakage:seal（木船的甲板或接缝）用沥青或焦油防止泄漏
 pay |peɪd| Noun/Verb/:支付,工资,付钱
 the company was rumoured to have paid 450p a share:传闻该公司每股支付450便士
@@ -230,8 +229,8 @@ during the rule of:在规则期间
 as a reaction to or undergoing the pressure of (something):作为对（某事）压力的反应或承受压力
 as provided for by the rules of, in accordance with:按照规则的规定，按照
 used to express grouping or classification:用于表示分组或分类
-within the environment of (a particular operating system):
-undergoing (a process):
+within the environment of (a particular operating system):在（特定操作系统）的环境中
+undergoing (a process):经历（过程）
 in a state of:处于
 planted with:种植与
 extending or directly below something:extending或直接在某物下方
@@ -279,11 +278,9 @@ a number of leading politicians:一些主要政治家
 
 the largest of the world's continents, constituting nearly one third of the land mass, lying entirely north of the equator except for some SE Asian islands. It is connected to Africa by the Isthmus of Suez, and borders Europe (part of the same land mass) along the Ural Mountains and across the Caspian Sea.:世界上最大的大陆，占陆地面积的近三分之一，除了一些东南亚岛屿外，完全位于赤道以北。它通过苏伊士地峡与非洲相连，沿乌拉尔山脉和里海与欧洲（同一陆地的一部分）接壤。
 Asia |ˈeɪʃə| Noun/:亚洲,欧洲
-:
 
 a machine with keys for producing alphabetical characters, numerals, and typographical symbols one at a time on paper inserted round a roller.:一台带有按键的机器，用于在插入滚筒的纸上一次生成一个字母字符、数字和印刷符号。
 typewriter |ˈtʌɪpˌrʌɪtə| Noun/:打字机,键入器
-:
 
 flat and smooth:平整光滑
 in the same plane or line, level:在同一平面或同一线，水平
@@ -396,12 +393,10 @@ an African wild horse with black-and-white stripes and an erect mane.:一匹非�
 a large butterfly with pale stripes on a dark background.:一只大蝴蝶，深色背景上有浅色条纹。
 a silvery-gold sea bream with vertical black stripes.:一条带有垂直黑色条纹的银金色鲷鱼。
 zebra |ˈzɛbrə| Noun/:斑马,斑纹
-:
 
 a long warm coat.:一件温暖的长外套。
 a top, final layer of paint or a similar covering.:a顶部，最后一层油漆或类似的覆盖物。
 overcoat |ˈəʊvəkəʊt| Noun/:大衣,外套
-:
 
 maize of a variety with hard kernels that swell up and burst open when heated:玉米品种有硬核，加热时会膨胀并爆裂
 maize kernels when popped, typically eaten as a snack:玉米粒爆开时，通常作为零食食用
@@ -416,7 +411,7 @@ business and financial dealings:商业和金融交易
 a sexual relationship between two people, one or both of whom are married to someone else:两人之间的性关系，其中一人或两人已与他人结婚
 an object of a particular type:一个特定类型的对象
 affair |əˈfɛː| Noun/:事务,外遇,风流韵事
-the board admitted responsibility for the affair:
+the board admitted responsibility for the affair:董事会承认对此事负责
 what you do in your spare time is your affair:你在业余时间做的事是你的事
 commissions were created to advise on foreign affairs:commissions的设立是为了就外交事务提供建议
 his time was spent in winding up his affairs:他的时间都花在了结他的事务上
@@ -536,7 +531,6 @@ a physical shock or jolt:身体震动或震动
 discord or disagreement.:discord或分歧。
 jar |dʒɑː| Noun/Verb/:罐,罐子
 a large storage jar:一个大储物罐
-:
 let's have a jar:让我们有一个罐子
 he jarred the knee in training:他在训练中扭伤了膝盖
 the stick jarred on the bottom of the pond:在池塘底部震动的棍子
@@ -568,7 +562,7 @@ the action of suspending someone or something or the condition of being suspende
 the system of springs and shock absorbers by which a vehicle is supported on its wheels:车辆支撑在车轮上的弹簧和减震器系统
 a mixture in which particles are dispersed throughout the bulk of a fluid:一种混合物，其中颗粒分散在整个流体中
 a state in which particles are dispersed throughout a fluid:一种粒子分散在整个流体中的状态
-a discord made by prolonging a note of a chord into the following chord.:
+a discord made by prolonging a note of a chord into the following chord.:通过将一个和弦的音符延长到下一个和弦而产生的不和谐音。
 suspension |səˈspɛnʃn| Noun/:暂停,悬挂
 the suspension of military action:暂停军事行动
 modifications have been made to the car's rear suspension:对汽车的后悬架进行了修改

@@ -1767,6 +1767,7 @@ done
 #passs=
 #whereb="${pos1/#*;/""}"
 if ( [[  "$ascanf" != "."  ]] && [[  "$ascanf" != ""  ]] && [[  $whereb -eq $((COLUMN-2))  ]] ) || ([[  "$ascanf" != "."  ]] && [[  "$ascanf" != ""  ]] && [[  $((whereb)) -ne $((COLUMN-1)) ]] && [[  $reg2 == " \b\033[1C"  ]] ) || ([[  "$ascanf" != "."  ]] && [[  "$ascanf" != ""  ]] && [[  $now4 -eq 1  ]]  &&  [[  $wherec -eq $COLUMN  ]]) && now4= ;then
+#needo=
 whereb="${pos1/#*;/""}" && [[  $whereb -eq $((COLUMN))  ]] && ascanf="~$ascanf" && needo=1
 else
 whereb="${pos1/#*;/""}"
@@ -1776,7 +1777,7 @@ while true;do
 printf  "${ascanf}"  
 #stty -echo
 if [[  "$auto" -eq 1  ]]  ;then
-[[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
+[[  "$vback" -ne "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
 stty -echo
 fi
 
@@ -1792,9 +1793,19 @@ now=
 #whereb="${pos1/#*;/""}"
 now4=
 wherec="${pos2/#*;/""}"
+if [[  ${vback} -eq "1"   ]] &&  [[   "$which" == "zh"  ]] ;then
+#echo 22222
+#echo $wherec
+[[  "$needo" -ne 1  ]] && reg=$((COLUMN))
+[[  "$needo" -eq 1  ]] && reg=$((COLUMN-3))
+#[[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
+[[  $wherec -eq 1  ]]  && printf %s"\r\033[1A\033[${reg}C" "" && now2=1
+break
+# now2=1
+fi
 if [[  "$pos1" != "$pos2"  ]] ;then
 [[  $whereb -eq $((COLUMN-1))  ]] && [[  "$ascanf" == "."  ]] && now4=1 
-if [[   "$which" == "zh"  ]] && [[  "$ascanf" !=  "."   ]]  &&  [[  "$vback" != "1"  ]]  ; then
+if [[   "$which" == "zh"  ]] && [[  "$ascanf" !=  "."   ]]  &&  [[  "$vback" -ne "1"  ]]  ; then
 #whereb="${pos1/#*;/""}"
 #[[  $whereb -eq $((COLUMN  ]] &&  [[  $wherec -eq 3  ]] && needo=1  && break
 Pos="$((wherec-whereb))"
@@ -1818,16 +1829,7 @@ fi
 #if [[  ${vback} -eq "1"   ]] ; then
 #sleep 0.3
 #echo
-if [[  ${vback} -eq "1"   ]] &&  [[   "$which" == "zh"  ]] ;then
-#echo 22222
-#echo $wherec
-[[  "$needo" -ne 1  ]] && reg=$((COLUMN))
-[[  "$needo" -eq 1  ]] && reg=$((COLUMN-3))
-#[[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
-[[  $wherec -eq 1  ]]  && printf %s"\r\033[1A\033[${reg}C" "" && now2=1
-break
-# now2=1
-fi
+
 fi
 done
 fi
@@ -2204,7 +2206,7 @@ Lb=0
 zscanf=
 #printf $enter"$question"\\033[3m\ \<───\>\ 
 
-[[  "$windows" == "y"  ]] && bscanf="$B" && waiting=1
+[[  "$windows" == "y"  ]] && bscanf="$B" && waiting=1 
 
 
 while true;do

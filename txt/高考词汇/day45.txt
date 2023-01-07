@@ -43,7 +43,7 @@ order about						支使
 \\\\
 
 support or actively encourage (a cause, venture, etc.), further the progress of:支持或积极鼓励（事业、创业等），进一步推进
-give publicity to (a product, organization, or venture) so as to increase sales or public awareness:
+give publicity to (a product, organization, or venture) so as to increase sales or public awareness:宣传（产品、组织或企业）以提高销量或提高公众知名度
 attempt to ensure the passing of (a private Act of Parliament):试图确保通过（议会的私人法案）
 raise (someone) to a higher position or rank:raise（某人）到更高的职位或等级
 transfer (a sports team) to a higher division of a league:transfer（一个运动队）到一个联赛的更高级别
@@ -79,7 +79,7 @@ the action or process of preparing or being prepared for use or consideration:�
 something done to get ready for an event or undertaking:为某项活动或事业做好准备
 a substance that is specially made up, especially a medicine or food:特制的物质，尤指药物或食物
 a specimen that has been prepared for scientific or medical examination:为科学或医学检查准备的标本
-(in conventional harmony) the sounding of the discordant note in a chord in the preceding chord where it is not discordant, lessening the effect of the discord.:
+(in conventional harmony) the sounding of the discordant note in a chord in the preceding chord where it is not discordant, lessening the effect of the discord.:（在传统和声中）在前一个和弦中不和谐的和弦中发出不和谐音符的声音，从而减轻不和谐音的影响。
 preparation |ˌprɛpəˈreɪʃn| Noun/:准备,制备,制剂,筹备工作
 the preparation of a draft contract:起草合同草案
 she continued her preparations for the party:她继续为派对做准备
@@ -148,7 +148,6 @@ concerns such as abortion and euthanasia:关注诸如堕胎和安乐死
 a small Old World bird related to the weaver birds, typically with brown and grey plumage.:一种与织布鸟有关的旧大陆小型鸟类，通常有棕色和灰色的羽毛。
 any of a number of birds that resemble true sparrows in size or colour.:任何一种在大小或颜色上与真正的麻雀相似的鸟类。
 sparrow |ˈsparəʊ| Noun/:麻雀,雀,麻鸟
-:
 
 a relationship between people or groups based on shared feelings, interests, or experiences:基于共同感受、兴趣或经历的人或群体之间的关系
 a connection between two surfaces or objects that have been joined together, especially by means of an adhesive substance, heat, or pressure:连接在一起的两个表面或物体之间的连接，尤其是通过粘合物质、热或压力
@@ -185,7 +184,7 @@ the side of a planet or moon facing the observer:行星或月球面向观察者�
 the front of a building:建筑物的正面
 the plate of a clock or watch bearing the digits or hands:带有数字或指针的钟表盘
 the distinctive side of a playing card:扑克牌与众不同的一面
-the obverse of a coin.:
+the obverse of a coin.:一枚硬币的正面。
 a person of a particular type:特定类型的人
 be positioned with the face or front towards (someone or something):面向（某人或某物）的脸或正面
 have the face or front pointing in a specified direction:让脸部或正面指向指定方向
@@ -239,11 +238,10 @@ Dijon mustard:第戎芥末
 a person exercising government or dominion.:行使政府或统治权的人。
 a straight strip or cylinder of plastic, wood, metal, or other rigid material, typically marked at regular intervals and used to draw straight lines or measure distances.:由塑料、木材、金属或其他刚性材料制成的直条或圆柱体，通常以固定间隔标记，用于绘制直线或测量距离。
 ruler |ˈruːlə| Noun/:统治者,尺,尺子
-:
 
 a device consisting of a circular canopy of cloth on a folding metal frame supported by a central rod, used as protection against rain.:一种由中央杆支撑的折叠金属框架上的圆形布罩组成的装置，用于防雨。
 a protecting force or influence:a保护力量或影响
-a screen of fighter aircraft or anti-aircraft artillery.:
+a screen of fighter aircraft or anti-aircraft artillery.:战斗机或高射炮的屏幕。
 a thing that includes or contains many different elements or parts:包含或包含许多不同元素或部分的事物
 the gelatinous disc of a jellyfish, which it contracts and expands to move through the water.:水母的凝胶状圆盘，它收缩和膨胀以在水中移动。
 umbrella |ʌmˈbrɛlə| Noun/:伞,雨伞,保护伞
@@ -372,7 +370,6 @@ his workers absented themselves for the local wakes:他的工人缺席了当地�
 
 a person with whom one works.:与之共事的人。
 workmate |ˈwəːkmeɪt| Noun/:同事,工作伙伴
-:
 
 a blank book for the insertion of photographs, stamps, or pictures:一本用于插入照片、邮票或图片的空白书
 a collection of recordings issued as a single item on CD, record, or another medium:在CD、唱片或其他介质上作为单个项目发行的录音集合
@@ -413,7 +410,7 @@ the earth trembled beneath their feet:大地在他们脚下颤抖
 there was a slight tremble in his voice:他的声音有些颤抖
 
 a structure of bars or wires in which birds or other animals are confined:一种限制鸟类或其他动物的钢筋或铁丝结构
-a prison cell or camp:
+a prison cell or camp:牢房或营地
 an open framework forming the compartment in a lift:形成电梯隔间的开放式框架
 a structure of crossing bars or wires designed to hold or support something:一种用于固定或支撑某物的交叉杆或线结构
 a portable backstop situated behind the batter during batting practice.:在击球练习期间位于击球手身后的便携式后挡板。
@@ -435,24 +432,24 @@ cage in | 笼子里,笼中
 
 
 used before the first of two (or occasionally more) given alternatives (the other being introduced by ‘or’):在两个（或偶尔更多）给定替代方案中的第一个之前使用（另一个由“或”引入）
-used to indicate a similarity or link with a statement just made:
+used to indicate a similarity or link with a statement just made:用于表示与刚刚作出的陈述的相似性或联系用于表示与刚刚作出的陈述的相似性或联系
 for that matter, moreover:就此而言，此外
 used before the first of two (or occasionally more) given alternatives (the other being introduced by ‘or’):在两个（或偶尔更多）给定替代方案中的第一个之前使用（另一个由“或”引入）
-used to indicate a similarity or link with a statement just made:
+used to indicate a similarity or link with a statement just made:用于表示与刚刚作出的陈述的相似性或联系用于表示与刚刚作出的陈述的相似性或联系
 for that matter, moreover:就此而言，此外
-one or the other of two people or things:
-each of two:每两个
 one or the other of two people or things:两个人或事物中的一个或另一个
+each of two:每两个
+one or the other of two people or things:两个人或事物中的一个或另一个两个人或事物中的一个或另一个
 each of two:每两个
 either |ˈʌɪðə| Adverb/Conjunction/Determiner/Pronoun/:任何一个,也,要么,无论是
 either I accompany you to your room or I wait here:要么我陪你到你的房间，要么我在这里等
 You don't like him, do you? I don't either:你不喜欢他，是吗？
-I was too tired to go. And I couldn't have paid, either:我太累了，走不动了。
+I was too tired to go. And I couldn't have paid, either:我太累了不能去。我也付不起我太累了，走不动了。
 either I accompany you to your room or I wait here:要么我陪你到你的房间，要么我在这里等
 You don't like him, do you? I don't either:你不喜欢他，是吗？
-I was too tired to go. And I couldn't have paid, either:
-the road was straight, with fields on either side:这条路是笔直的，两边都是田野
-the road was straight, with fields on either side:
+I was too tired to go. And I couldn't have paid, either:我太累了不能去。我也付不起
+the road was straight, with fields on either side:路是笔直的，两边是田野这条路是笔直的，两边都是田野
+the road was straight, with fields on either side:路是笔直的，两边是田野
 
 having, bringing, or resulting from good luck:拥有、带来或源于好运
 lucky |ˈlʌki| Adjective/:幸运的,幸运,好运

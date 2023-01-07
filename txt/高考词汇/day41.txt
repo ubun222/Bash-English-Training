@@ -40,7 +40,7 @@ paragraph						段落，短文
 a distinctive way of pronouncing a language, especially one associated with a particular country, area, or social class:一种独特的语言发音方式，尤其是与特定国家、地区或社会阶层相关的语言
 a distinct emphasis given to a syllable or word in speech by stress or pitch:通过重音或音高对语音中的音节或单词进行明显的强调
 a mark on a letter, typically a vowel, to indicate pitch, stress, or vowel quality:字母上的标记，通常是元音，表示音高、重音或元音质量
-an emphasis on a particular note or chord:
+an emphasis on a particular note or chord:强调特定的音符或和弦
 a special or particular emphasis:a特别或特别强调
 a feature which gives a distinctive visual emphasis to something:一个给某物一个独特的视觉强调的特征
 emphasize (a particular feature):emphasize（一个特殊的功能）
@@ -149,11 +149,10 @@ of note | 值得注意的,注意
 
 the federal capital of Canada, in south-eastern Ontario, on the Ottawa River (a tributary of the St Lawrence River), population 812,129 (2006). From its founding in 1827 until 1854, it was named Bytown after Colonel John By (1779–1836).:加拿大联邦首都，位于安大略省东南部，渥太华河（圣劳伦斯河的支流），人口812,129（2006年）。从1827年成立到1854年，它以约翰·拜上校(171836)的名字命名为拜敦。
 Ottawa |ˈɒtəwə| Noun/:渥太华,渥京
-:
 
 a person who smokes tobacco regularly.:一个经常吸烟的人。
 a train compartment in which smoking is allowed.:允许吸烟的火车车厢。
-a person or device that smokes fish or meat:
+a person or device that smokes fish or meat:熏鱼或肉的人或设备
 an informal social gathering for men:男人的非正式社交聚会
 a device which emits smoke for subduing bees in a hive.:一种发射烟雾的装置，用于制服蜂巢中的蜜蜂。
 smoker |ˈsməʊkə| Noun/:,烟民
@@ -223,9 +222,7 @@ join in marriage:结婚
 unite |juːˈnʌɪt| Verb/:团结,联合,团结起来
 Lady Midlothian united herself to a man of bad character:LadyMidlothian将自己与一个品格不好的人联合起来
 
-:
 Spain |speɪn| Noun/:西班牙,美国
-:
 
 a group of numbers or letters and numbers which are added to a postal address to assist the sorting of mail:一组数字或字母和数字，添加到邮政地址以协助邮件的分类
 an area denoted by a particular postcode:由特定邮政编码表示的区域
@@ -262,7 +259,7 @@ the soft swell of her breast:她乳房的柔软肿胀
 a huge swell in the popularity of one-day cricket:一日蟋蟀受欢迎程度的巨大提升
 a swell of pride swept over George:一股自豪感席卷乔治
 there was a heavy swell:有大浪
-a crowd of city swells:
+a crowd of city swells:拥挤的城市
 you're looking swell:你看起来很棒
 a swell boulevard:a膨胀大道
 everything was just going swell:一切都在膨胀
@@ -348,7 +345,7 @@ the player sitting to the left of North and partnering West:坐在North左边和
 lying towards, near, or facing the east:朝向、靠近或面向东方
 (of a wind) blowing from the east:（风）从东方吹来
 situated in the part of a church containing the altar or high altar, usually the actual east:位于包含祭坛或高坛的教堂部分，通常是实际的东方
-of or denoting the eastern part of a specified region, town, or country:
+of or denoting the eastern part of a specified region, town, or country:属于或表示特定地区、城镇或国家的东部
 to or towards the east:to或向东
 east |iːst| Adjective/Adverb/Noun/:东,东方,东方的,朝东,东部
 a gale was blowing from the east:一阵狂风从东边吹来
@@ -369,7 +366,7 @@ do or finish (something) quickly or too quickly:做或完成（某事）快或�
 great haste:大快人心
 a need for haste, urgency:急需，紧迫感
 hurry |ˈhʌri| Noun/Verb/:匆忙,赶快,快点,赶紧的
-we'd better hurry:
+we'd better hurry:我们最好快点
 hurry up and finish your meal:快点吃完饭
 she hurried him across the landing:她催他穿过楼梯平台
 formalities were hurried over:formalities匆匆过去
@@ -377,7 +374,7 @@ in my hurry to leave I knocked over a pile of books:我匆匆离开的时候打�
 there's no hurry to get back:不急着回来
 
 in what way or manner, by what means:以什么方式或方式，通过什么手段
-used to ask about the condition or quality of something:
+used to ask about the condition or quality of something:用于询问某物的状况或质量
 used to ask about someone's physical or mental state:用于询问某人的身体或精神状态
 used to ask about the extent or degree of something:用于询问某事的程度或程度
 used to express a strong feeling such as surprise about the extent of something:用于表达强烈的感觉，例如对某事的程度感到惊讶
@@ -411,7 +408,7 @@ how so | 怎么会这样,为何如此,怎么会,怎么回事
 
 
 an animal, especially a large or dangerous four-footed one:一种动物，尤其是大型或危险的四足动物
-a domestic animal, especially a bovine farm animal:
+a domestic animal, especially a bovine farm animal:家畜，尤其是家畜牛
 an animal as opposed to a human:一种动物而不是人类
 an inhumanly cruel, violent, or depraved person:一个不人道的残忍、暴力或堕落的人
 an objectionable or unpleasant person or thing:一个令人反感或不愉快的人或事物
@@ -423,7 +420,6 @@ mucking out and feeding the beasts is a big job:弄脏并喂食野兽是一项�
 the gift of reason differentiates humanity from the beasts:理性的礼物将人类与野兽区分开来
 he is a filthy drunken beast:他是一个肮脏的醉酒野兽
 a scheming, manipulative little beast:一个心机、操控的小野兽
-:
 that much-maligned beast, the rave record:那个饱受诟病的野兽，狂野唱片
 
 the actual application or use of an idea, belief, or method, as opposed to theories relating to it:一个想法、信念或方法的实际应用或使用，而不是与之相关的理论

@@ -18,7 +18,7 @@ disobey						不服从
 leader						领队，领先者
 fun						乐趣，嘲笑，有趣的
 vain						自负的，徒劳的
-service						效劳，服务，使用，
+service						效劳，服务，使用
 service pay						军饷
 do a service						帮忙
 the services						军队
@@ -35,7 +35,7 @@ doubt						怀疑
 digest						消化，理解，摘要
 while						在...期间，只要，然而，尽管
 in a while						一段时间以后
-pretty						漂亮的，非常‘
+pretty						漂亮的，非常
 \\\\
 
 to a great degree, in large amounts:在很大程度上，大量
@@ -45,7 +45,7 @@ in a way that is mentally oppressive or hard to endure:以一种精神压抑或�
 slowly and loudly:缓慢而响亮
 in a slow way that expresses sadness:以缓慢的方式表达悲伤
 heavily |ˈhɛvɪli| Adverb/:重度,沉重
-it was raining heavily:
+it was raining heavily:下着大雨
 the country is heavily dependent on banana exports:该国严重依赖香蕉出口
 she fell heavily to the ground:她重重摔倒在地
 it is a burden that weighs heavily on his shoulders:这是沉重的负担
@@ -87,7 +87,7 @@ form |fɔːm| :形式,形成,表格
 the form, colour, and texture of the tree:树的形状、颜色和质地
 she admired his muscular form:她欣赏他的肌肉发达
 these videos are a triumph of form over content:这些视频是形式对内容的胜利
-essays in book form:essaysinbookform
+essays in book form:书本形式的论文
 an adjectival form:形容词形式
 every distinction in meaning is associated with a distinction in form:每一个意义上的区别都与形式上的区别相关联
 sponsorship is a form of advertising:sponsorship是一种广告形式
@@ -120,19 +120,19 @@ I was feeling ravenously hungry:我感到非常饿
 I always find art galleries hungry work:我总是发现美术馆渴望工作
 a party hungry for power:一个渴望权力的派对
 
-a unit of weight equal to 2,240 lb avoirdupois (1016.05 kg).:
-a unit of weight equal to 2,000 lb avoirdupois (907.19 kg).:
+a unit of weight equal to 2,240 lb avoirdupois (1016.05 kg).:重量单位等于 2,240 lb avoirdupois (1016.05 kg)。
+a unit of weight equal to 2,000 lb avoirdupois (907.19 kg).:重量单位等于 2,000 lb avoirdupois (907.19 kg)。
 a unit of measurement of a ship's weight representing the weight of water it displaces with the load line just immersed, equal to 2,240 lb or 35 cu. ft (0.99 cubic metres).:船舶重量的计量单位，表示在刚刚浸没的载重线下它所排开的水的重量，等于2,240磅或35立方米。9
 a unit of weight or volume of sea cargo, equal to a metric ton (1,000 kg) or 40 cu. ft.:海运货物的重量或体积单位，等于一公吨（1,000公斤）或40立方厘米。11
 a unit of gross internal capacity, equal to 100 cu. ft (2.83 cubic metres).:一个总内部容量单位，等于100立方米。13
 an equivalent unit of net internal capacity.:一个等效单位的净内部容量。
 a measure of capacity for various materials, especially 40 cu. ft of timber.:衡量各种材料的容量，尤其是40立方厘米。1
 a unit of refrigerating power able to freeze 2,000 lb of water at 0°C in 24 hours.:一个制冷功率单位能够在0°C下24小时内冷冻2,000磅水。
-a large number or amount:
+a large number or amount:大量的
 a hundred, in particular a speed of 100 mph, a score of 100 or more, or a sum of £100:100，特别是100英里/小时的速度，100分或更高的分数，或100英镑的总和
-much, a lot:
+much, a lot:很多很多
 fashionable style or distinction:时尚风格或区别
-fashionable society:
+fashionable society:时尚社会
 ton |tʌn| Adverb/Noun/:吨,一吨
 all of a sudden I had tons of friends:突然间我有了很多朋友
 he scored 102 not out, his third ton of the tour:他得分102没有出局，他的第三次巡回赛
@@ -149,7 +149,7 @@ a ton of | 一吨,吨的
 feeling fear or anxiety, frightened:feeling恐惧或焦虑，害怕
 worried that something undesirable will occur or be done:担心会发生或完成不受欢迎的事情
 unwilling or reluctant to do something for fear of the consequences:不愿意或不愿做某事，因为害怕后果
-anxious about the well-being or safety of:anxiousaboutthewellnessorsafeofthe
+anxious about the well-being or safety of:担心他人的健康或安全
 afraid |əˈfreɪd| Adjective/:害怕,怕,害怕的,恐惧
 I'm afraid of dogs:我怕狗
 she was afraid that he would be angry:她怕他生气
@@ -167,7 +167,7 @@ a salty campaign strategist:a咸味竞选策略师
 she was salty because I didn't go with her to her senior prom:她很咸，因为我没有和她一起去参加她的高级舞会
 
 require (something) because it is essential or very important rather than just desirable:require(something)因为它是必要的或非常重要的，而不仅仅是可取的
-not want to be subjected to something:
+not want to be subjected to something:不想受制于某事
 expressing necessity or obligation:表达必要性或义务
 be necessary:必要
 circumstances in which something is necessary, necessity:必要的情况，必要性
@@ -184,7 +184,6 @@ help us in our hour of need:在我们需要的时候帮助我们
 
 a team game played with an oval ball that may be kicked, carried, and passed from hand to hand. Points are scored by grounding the ball behind the opponents' goal line (thereby scoring a try) or by kicking it between the two posts and over the crossbar of the opponents' goal.:使用椭圆形球进行的团队游戏，可以踢、携带和从手传到手。通过在对方球门线后面将球接地（从而得分）或通过将球踢到两个立柱之间并越过对方球门的横梁来得分。
 rugby |ˈrʌɡbi| Noun/:橄榄球,英式橄榄球
-:
 
 a young sheep.:一只小绵羊。
 the flesh of a lamb as food:羊肉作为食物
@@ -213,7 +212,7 @@ work (two or more ingredients, typically butter and sugar) together to form a cr
 add cream to (coffee):加奶油到（咖啡）
 rub a cosmetic cream into (the skin):将美容霜揉入（皮肤）
 defeat (someone) heavily in a sporting contest:defeat（某人）在体育比赛中大吃一惊
-collide heavily with (someone), especially in a car:
+collide heavily with (someone), especially in a car:与（某人）发生严重碰撞，尤其是在车里
 (of a person) be sexually aroused to the point of producing sexual secretions.:（一个人的）性兴奋到产生性分泌物的程度。
 moisten (one's underpants) due to sexual arousal.:moisten（一个人的内裤）由于性唤起。
 cream |kriːm| Noun/Verb/:奶油,米色的,搅成糊状,膏,霜
@@ -462,7 +461,7 @@ during the time that:在此期间
 during the time that, at the same time as:在此期间，同时
 whereas (indicating a contrast):whereas（表示对比）
 in spite of the fact that, although:尽管事实上，虽然
-during which:
+during which:在。。。期间
 pass time in a leisurely manner:悠闲地打发时间
 until:直到
 while |wʌɪl| Adverb/Conjunction/Noun/Preposition/Verb/:尽管,一会儿,消磨,而,同时
@@ -484,7 +483,7 @@ in a while | 等一下,过一会儿,过一段时间
 
 
 (of a person, especially a woman or child) attractive in a delicate way without being truly beautiful:（一个人，尤其是女人或孩子）以一种微妙的方式吸引人，但并不真正美丽
-(of a thing) pleasing to the eye or the ear:
+(of a thing) pleasing to the eye or the ear:（事物的）赏心悦目的
 used ironically to express annoyance or displeasure:用于讽刺地表达烦恼或不悦
 to a moderately high degree, fairly:到中等程度，相当
 an attractive thing, especially a trinket:有吸引力的东西，尤其是小饰品

@@ -57,7 +57,6 @@ a picturesque city dominated by the cathedral tower:以大教堂塔为主的风�
 make or become unlikely to give way or overturn:make或becomeunlikelytogivewayoroverturn
 make or become unlikely to change, fail, or decline:使或变得不太可能改变、失败或拒绝
 stabilize |ˈsteɪbɪlʌɪz| Verb/:,稳定下来
-:
 
 seek information or advice from (someone, especially an expert or professional):向（某人，尤其是专家或专业人士）寻求信息或建议
 have discussions with (someone), typically before undertaking a course of action:havediscussionswith(someone)通常在采取行动之前
@@ -80,7 +79,7 @@ the judge resumed his seat:法官回到座位上
 (of a person) move to a new area or country in order to find work or better living conditions:（某人）搬到新的地区或国家以寻找工作或更好的生活条件
 move from one part of something to another:从某物的一部分移动到另一部分
 change or cause to change from one system to another:改变或导致从一个系统改变到另一个
-transfer (programs or hardware) from one system to another:
+transfer (programs or hardware) from one system to another:将（程序或硬件）从一个系统转移到另一个系统
 migrate |mʌɪˈɡreɪt| Verb/:迁移,转移,移民
 as autumn arrives, the birds migrate south:秋天来了，鸟儿南迁
 rural populations have migrated to urban areas:农村人口已经迁移到城市地区
@@ -204,7 +203,7 @@ the launch of a space rocket:太空火箭的发射
 (of coloured cloth) woven with a warp and weft of different colours, giving a contrasting effect when looked at from different angles:（彩布）用不同颜色的经纬编织而成，从不同角度看有对比效果
 interspersed with a different colour:穿插着不同的颜色
 suffused with (a particular feature or quality):suffusedwith（特定的特征或质量）
-ruined or worn out:ruinedorwrongout
+ruined or worn out:损坏或磨损
 drunk.:喝醉了。
 a bill or one's share of it, especially in a pub or bar:abillorone'sshareofit，尤指在酒馆或酒吧
 shot |ʃɒt| Adjective/Noun/Verb/:射击,拍摄
@@ -226,13 +225,13 @@ a moon shot:月球射击
 a dress of shot silk:射丝连衣裙
 dark hair shot with silver:深色头发拍银
 the mist was shot through with orange spokes of light:薄雾被橙色的光辐射穿
-a completely shot engine will put you out of the race:acompletelyshotenginewillgetyououtoftherace
+a completely shot engine will put you out of the race:一个完全射击的引擎会让你退出比赛
 he had paid her shot:he支付了她的费用
 
 
 an infective agent that typically consists of a nucleic acid molecule in a protein coat, is too small to be seen by light microscopy, and is able to multiply only within the living cells of a host:一种感染剂，通常由蛋白质外壳中的核酸分子组成，太小而无法通过光学显微镜观察到，并且只能在宿主的活细胞内繁殖
 an infection or disease caused by a virus:病毒引起的感染或疾病
-a harmful or corrupting influence:
+a harmful or corrupting influence:有害或腐败的影响
 a piece of code that is capable of copying itself and typically has a detrimental effect, such as corrupting the system or destroying data.:一段能够自我复制的代码，通常会产生有害影响，例如破坏系统或破坏数据。
 virus |ˈvʌɪrəs| Noun/:病毒,毒
 the hepatitis B virus:乙型肝炎病毒
@@ -241,12 +240,11 @@ the virus of cruelty that is latent in all human beings:潜伏在全人类身上
 
 a dormitory.:一个宿舍。
 dorm |dɔːm| Noun/:宿舍,寝
-:
 
 (of a volcano) become active and eject lava, ash, and gases:（火山）变得活跃并喷出熔岩、灰烬和气体
 be ejected from an active volcano:被从活火山中喷出
 (of an object) explode with fire and noise:（物体的）爆炸并伴随着火和噪音
-break out suddenly and dramatically:
+break out suddenly and dramatically:突然而戏剧性地爆发
 give vent to anger, amusement, etc. in a sudden and noisy way:以突然吵闹的方式发泄愤怒、娱乐等
 (of a spot, rash, or other mark) suddenly appear on the skin:（斑点、皮疹或其他痕迹）突然出现在皮肤上
 (of the skin) suddenly develop a spot, rash, or mark:（皮肤）突然出现斑点、皮疹或印记
@@ -263,13 +261,13 @@ the lower incisors had erupted:下门牙已经萌出
 
 
 the action of one object coming forcibly into contact with another:一个物体与另一个物体强行接触的动作
-a marked effect or influence:amarkedeffectorinfluence
+a marked effect or influence:显着的效果或影响
 come into forcible contact with another object:强行接触另一个物体
 come into forcible contact with:强行接触
 press (something) firmly:用力按压（某物）
 have a strong effect on someone or something:haveastrongeffectonsomeoneor某事
 impact |ˈɪmpakt| Noun/Verb/:影响,造成影响,冲击力
-there was the sound of a third impact:
+there was the sound of a third impact:有第三次撞击的声音
 our regional measures have had a significant impact on unemployment:我们的区域措施对失业产生了重大影响
 the shell impacted twenty yards away:炮弹在二十码外撞击
 an asteroid impacted the earth some 60 million years ago:一颗小行星在大约6000万年前撞击地球
@@ -285,14 +283,14 @@ a number giving the magnitude of a physical property or other measured phenomeno
 an exponent or other superscript or subscript number appended to a quantity.:附加到数量的指数或其他上标或下标数字。
 a pointer on an instrument, showing a quantity, a position on a scale, etc.:仪器上的指针，显示数量、刻度上的位置等。
 a symbol shaped like a pointing hand, used to draw attention to a note.:一个形状像指向手的符号，用于引起对注释的注意。
-record (names, subjects, etc.) in an index:
+record (names, subjects, etc.) in an index:在索引中记录（姓名、主题等）
 provide an index to:提供索引
 link the value of (prices, wages, or other payments) automatically to the value of a price index:将（价格、工资或其他支付）的价值自动链接到价格指数的价值
 (of a machine or part of one) move from one predetermined position to another in order to carry out a sequence of operations:（机器或机器的一部分）从一个预定位置移动到另一个位置以执行一系列操作
 index |ˈɪndɪsiːz| Noun/Verb/:指数,编入索引,索引,指标
 clear cross references supplemented by a thorough index:clearcrossreferences辅以详尽的索引
 exam results may serve as an index of the teacher's effectiveness:考试成绩可作为衡量教师效能的指标
-the hundred-shares index closed down 9.3:
+the hundred-shares index closed down 9.3:百指收跌9.3
 the oral hygiene index was calculated as the sum of the debris and calculus indices:口腔卫生指数计算为碎屑指数和牙石指数之和
 the list indexes theses under regional headings:thelist在区域标题下索引论文
 she offered help in indexing my text book on bookselling:she帮助我索引了我的图书销售教科书
@@ -308,7 +306,7 @@ cause the loss of (someone's life):cause失去（某人的生命）
 an assertion that something is true:断言某事为真
 a statement of the novel features in a patent:专利中新颖特征的陈述
 a demand or request for something considered one's due:对某事的要求或请求被认为是应得的
-an application for compensation under the terms of an insurance policy:
+an application for compensation under the terms of an insurance policy:根据保单条款申请赔偿
 a right or title to something:某物的权利或所有权
 a piece of land allotted to or taken by someone in order to be mined:一块土地分配给某人或由某人占用以供开采
 claim |kleɪm| Noun/Verb/:宣称,要求,声称,索赔
@@ -329,7 +327,7 @@ an act of holding someone closely in one's arms:将某人紧紧抱在怀里的�
 used to refer to something which is regarded as surrounding, holding, or restricting someone:usedtorefertosomethingwhichareseparing,holding,orrestrictingsomeone
 an act of accepting something willingly or enthusiastically:自愿或热情地接受某事的行为
 embrace |ɪmˈbreɪs| Noun/Verb/:拥抱,怀抱,拥
-Aunt Sophie embraced her warmly:
+Aunt Sophie embraced her warmly:苏菲阿姨热情地拥抱了她
 besides traditional methods, artists are embracing new technology:除了传统方法，艺术家们正在拥抱新技术
 his career embraces a number of activities—composing, playing, and acting:his的职业包括许多活动——作曲、演奏和表演
 they were locked in an embrace:他们紧紧相拥
@@ -374,7 +372,7 @@ Her Royal Highness The Duchess of Cambridge was safely delivered of a son at 4.2
 deliver us from the nightmare of junk mail:让我们摆脱垃圾邮件的噩梦
 
 a strong, regular repeated pattern of movement or sound:强烈的、有规律的重复动作或声音模式
-the systematic arrangement of musical sounds, principally according to duration and periodical stress:
+the systematic arrangement of musical sounds, principally according to duration and periodical stress:音乐声音的系统排列，主要根据持续时间和周期性重音
 a particular pattern formed by musical rhythm:由音乐节奏形成的特定模式
 a person's natural feeling for musical rhythm:一个人对音乐节奏的自然感觉
 the measured flow of words and phrases in verse or prose as determined by the relation of long and short or stressed and unstressed syllables:由长短或重读音节和非重读音节的关系确定的诗歌或散文中单词和短语的测量流
@@ -382,7 +380,7 @@ a regularly recurring sequence of events or processes:有规律地重复发生�
 a harmonious sequence or correlation of colours or elements:颜色或元素的和谐序列或相关性
 rhythm |ˈrɪð(ə)m| Noun/:韵律,节奏
 Ruth listened to the rhythm of his breathing:Ruth听着他的呼吸节奏
-he made her count beats to the bar and clap the rhythm:hemadehercountbeatstothebarandclaptherhythm
+he made her count beats to the bar and clap the rhythm:他让她数小节的节拍并拍出节奏
 melodies with deep African rhythms:旋律深沉的非洲节奏
 they've got no rhythm:他们没有节奏
 the rhythm, pattern, and cadence of words:单词的节奏、模式和韵律
@@ -390,10 +388,10 @@ the twice daily rhythms of the tides:每天两次的潮汐节奏
 in Art Nouveau, the flow and rhythm of a design became pre-eminent:在新艺术运动中，设计的流畅性和节奏变得卓越
 
 a system of words, letters, figures, or symbols used to represent others, especially for the purposes of secrecy:用于代表他人的单词、字母、数字或符号系统，尤其是出于保密目的
-a phrase or concept used to represent another in an indirect way:aphraseorconceptusedtorepresentanotherinanindirectway
+a phrase or concept used to represent another in an indirect way:用于以间接方式表示另一个的短语或概念
 a series of letters, numbers, or symbols assigned to something for the purposes of classification or identification:为了分类或识别目的而分配给某物的一系列字母、数字或符号
 program instructions:程序说明
-a systematic collection of laws or statutes:asystematiccollectionoflawsorstatutes
+a systematic collection of laws or statutes:系统地收集法律或法规
 a set of conventions or moral principles governing behaviour in a particular sphere:一套规范特定领域行为的惯例或道德原则
 convert (the words of a message) into a code so as to convey a secret meaning:convert（消息的文字）为代码以传达秘密含义
 express the meaning of (a statement) in an indirect way:用间接的方式表达（陈述）的意思
@@ -413,7 +411,7 @@ only Mitch knew how to read the message—even the name was coded:只有Mitch知
 they code their language when talking to the general public:他们在与公众交谈时用自己的语言编码
 she coded the samples and sent them for dissection:she对样本进行编码并送去解剖
 most developers code C + + like C:大多数开发人员像C一样编写C++
-genes that code for human growth hormone:
+genes that code for human growth hormone:编码人类生长激素的基因
 one pair of homologous chromosomes codes for eye colour:一对眼睛颜色的同源染色体编码
 
 the exclusive possession or control of the supply of or trade in a commodity or service:独家拥有或控制商品或服务的供应或贸易

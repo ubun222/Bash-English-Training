@@ -44,7 +44,7 @@ he wanted an astronomical fee:he想要一笔天文数字的费用
 
 the organization of the different elements of a complex body or activity so as to enable them to work together effectively:复杂身体或活动的不同元素的组织，使它们能够有效地协同工作
 cooperative effort resulting in an effective relationship:合作努力导致有效的关系
-the ability to use different parts of the body together smoothly and efficiently:
+the ability to use different parts of the body together smoothly and efficiently:顺利有效地一起使用身体不同部位的能力
 the linking of atoms by coordinate bonds.:通过配位键连接原子。
 coordination |kəʊˌɔːdɪˈneɪʃ(ə)n| Noun/:协调,配合
 an important managerial task is the control and coordination of activities:一项重要的管理任务是活动的控制和协调
@@ -67,7 +67,7 @@ they blame youth crime on unemployment:他们将青年犯罪归咎于失业
 
 
 order or allow to leave, send away:订单或允许离开，送走
-remove from employment or office, typically on the grounds of unsatisfactory performance:
+remove from employment or office, typically on the grounds of unsatisfactory performance:从工作或办公室中解雇，通常是因为表现不佳
 (of a group assembled under someone's authority) disperse:（在某人的权力下聚集的一群人）驱散
 end the innings of (a batter or team):结束（击球手或球队）的局
 treat as unworthy of serious consideration:视为不值得认真考虑
@@ -84,12 +84,12 @@ the judge dismissed the case for lack of evidence:法官因证据不足驳回此
 
 
 give evidence as a witness in a law court:在法庭上作为证人提供证据
-serve as evidence or proof that something exists or is the case:serveasevidenceorproofthatsomethingexistsoristhecase
+serve as evidence or proof that something exists or is the case:作为证据或证据证明某事存在或确实如此
 testify |ˈtɛstɪfʌɪ| Verb/:作证,证明
 he testified against his own commander:he指证他自己的指挥官
 the bleak lines testify to inner torment:凄凉的线条证明了内心的折磨
 
-be entitled to a particular benefit or privilege by fulfilling a necessary condition:beenabledtoaparticularbenefitorprivilegebyfulfillinganecessarycondition
+be entitled to a particular benefit or privilege by fulfilling a necessary condition:通过满足必要条件而有权获得特定的利益或特权
 become eligible for a competition or its final rounds, by reaching a certain standard or defeating a competitor:通过达到特定标准或击败竞争对手，获得参加比赛或其决赛的资格
 be or make properly entitled to be classed in a particular way:be或makeproperly有权以特定方式分类
 become officially recognized as a practitioner of a particular profession or activity, typically by undertaking a course and passing examinations:成为正式认可的特定职业或活动的从业者，通常是通过参加课程并通过考试
@@ -113,7 +113,7 @@ the propositions have been qualified as heretical:这些命题已被认定为异
 
 ask for information from someone:向某人询问信息
 ask about the health and well-being of (someone):询问（某人）的健康状况
-ask to see or speak to (someone):
+ask to see or speak to (someone):要求见（某人）或与（某人）交谈
 investigate, look into:investigate，调查
 inquire |ɪnˈkwʌɪə| Verb/:查询,询问
 Annie inquired after her parents:Annie问候她的父母
@@ -170,7 +170,7 @@ receive or deal in (stolen goods):receive或处理（被盗货物）
 cope or deal with (someone or something):应付或处理（某人或某事）
 conduct oneself in a specified manner:行为规范
 defend oneself physically or verbally:在身体上或口头上为自己辩护
-drive or control (a vehicle):
+drive or control (a vehicle):驾驶或控制（车辆）
 (of a vehicle) respond in a specified manner when being driven or controlled:（车辆的）在被驱动或控制时以特定的方式做出反应
 the part by which a thing is held, carried, or controlled:持有、携带或控制物品的部分
 a means of understanding, controlling, or approaching (a person or situation):一种理解、控制或接近（人或情况）的方式
@@ -268,7 +268,6 @@ a nice secluded spot:一个僻静的好地方
 his bald spot:他的秃头
 the runner-up spot:亚军
 she couldn't do her usual singing spot in the club:她不能在俱乐部里做她通常的演唱地点
-:
 may I offer you a spot?:我可以给你一个位置吗？
 trading in the spot markets:现货市场交易
 a ten-spot:一个十点
@@ -277,7 +276,7 @@ Andrew spotted the advert in the paper:Andrew在报纸上发现了广告
 we were spotted by a talent scout:我们被星探发现
 some people collect stamps or spot trains:一些人收集邮票或现货火车
 they were spotting for enemy aircraft:他们正在寻找敌机
-thorn trees spotted the land:
+thorn trees spotted the land:荆棘树发现了这片土地
 they might be spotted merely with the errors introduced by Luther:他们可能仅因路德引入的错误而被发现
 it was still spotting with rain:它还在下雨
 I'll spot you $300:我会发现你$300
@@ -296,7 +295,7 @@ she could not suppress a rising panic:she无法抑制不断上升的恐慌
 the report had been suppressed:报告已被压制
 use of the drug suppressed the immune response:药物的使用抑制了免疫反应
 
-make or become less:makeorbecomeless
+make or become less:减少或减少
 cause to seem less impressive or valuable:cause看起来不那么令人印象深刻或有价值
 diminish |dɪˈmɪnɪʃ| Verb/:减少,缩小
 the trial has aged and diminished him:审判使他变老变小了
@@ -369,7 +368,7 @@ she was rowed for leaving her younger brother alone:她因为丢下弟弟独自�
 plan and direct the course of a ship, aircraft, or other form of transport, especially by using instruments or maps:计划和指挥船舶、飞机或其他交通工具的航向，尤其是通过使用仪器或地图
 travel on a desired course after planning a route:规划好路线后行驶到想要的路线
 (of an animal) find its way:（动物的）finditsway
-(of a passenger in a vehicle) assist the driver by planning a route and map reading:
+(of a passenger in a vehicle) assist the driver by planning a route and map reading:（车辆中的乘客）通过规划路线和阅读地图来协助司机
 move around a website, the internet, etc.:在网站、互联网等地方四处走动。
 (of a ship or boat) sail, proceed:(ofashiporboat)起航，前进
 sail or travel over (a stretch of water or terrain), especially carefully or with difficulty:sailortravelover(astretchwaterorterrain)，特别小心或有困难
@@ -410,7 +409,7 @@ comfort (someone) at a time of grief or disappointment:comfort（某人）在悲
 a panel or unit accommodating a set of controls for electronic or mechanical equipment:一个面板或单元，包含一组用于电子或机械设备的控件
 a small electronic device for playing computerized video games:玩电脑视频游戏的小型电子设备
 a cabinet for television or radio equipment.:一个电视或收音机设备柜。
-the cabinet or enclosure containing the keyboards, stops, pedals, etc., of an organ.:
+the cabinet or enclosure containing the keyboards, stops, pedals, etc., of an organ.:包含管风琴键盘、音栓、踏板等的柜子或外壳。
 an ornamented bracket or corbel supporting a shelf or table top.:一个装饰支架或支撑架子或桌面的托架。
 console |kənˈsəʊl| Noun/Verb/:安慰,控制台
 she tried to console him but he pushed her gently away:she试图安慰他，但他轻轻地把她推开

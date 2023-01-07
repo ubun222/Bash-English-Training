@@ -49,7 +49,7 @@ a shape resembling an arch:类似拱形的形状
 the inner side of the foot:脚内侧
 have the curved shape of an arch:具有拱形的弯曲形状
 form or cause to form the curved shape of an arch:形成或导致形成拱形的弯曲形状
-deliberately or affectedly playful and teasing:
+deliberately or affectedly playful and teasing:故意或做作地嬉戏和戏弄
 arch |ɑːtʃ| Adjective/Noun/Verb/:拱,拱门,弓
 a triumphal arch:凯旋门
 the delicate arch of his eyebrows:精致的眉弓
@@ -109,7 +109,7 @@ the part of a bird or mammal that corresponds to a person's chest:与人的胸�
 a joint of meat or portion of poultry cut from the breast of a bird or mammal:从鸟类或哺乳动物的胸部切下的一块肉或一部分家禽
 the part of a garment that covers the chest:覆盖胸部的衣服部分
 face and move forwards against or through (something):面对或通过（某物）向前移动
-reach the top of (a hill):
+reach the top of (a hill):到达（山顶）的顶端
 breast |brɛst| Noun/Verb/:胸部,登上顶部,乳房
 Caroline crossed her arms over her breasts:Caroline双臂交叉在胸前
 wild feelings of frustration were rising up in his breast:wild挫败感在他的胸中升起
@@ -119,7 +119,7 @@ a pair of riders breasted the rise ahead:一对骑手冲上前去
 
 the part of a garment that wholly or partly covers a person's arm:完全或部分覆盖人手臂的衣服部分
 a protective paper or cardboard cover for a record, CD, or DVD:一张唱片、CD或DVD的保护纸或硬纸板封面
-a protective or connecting tube fitting over or enclosing a rod, spindle, or smaller tube.:
+a protective or connecting tube fitting over or enclosing a rod, spindle, or smaller tube.:在杆、心轴或更小的管上或包围杆、轴或更小管的保护性或连接管配件。
 a windsock.:一个风向袋。
 a drogue towed by an aircraft.:一架飞机拖曳的锥套。
 sleeve |sliːv| Noun/:袖子,袖,套,套筒
@@ -162,7 +162,6 @@ switch a device on or off:打开或关闭设备
 move or travel with great speed or force:以极快的速度或力量移动或旅行
 direct (something, especially a ball) with great force:direct（某物，尤其是球）有很大的力量
 power |ˈpaʊə| Noun/Verb/:力量,驱动,功率,权力,电源
-:
 a political process that offers people power over their own lives:一个政治进程，让人们能够掌控自己的生活
 the party had been in power for eight years:党执政八年
 police do not have the power to stop and search:police无权拦截和搜查
@@ -346,7 +345,7 @@ relating to men or the male gender:与男性或男性有关
 (of a fitting or part of machinery) manufactured to fit inside a corresponding female part:（机械的配件或零件）制造以安装在相应的母零件内
 a male animal or plant:雄性动物或植物
 a male person, a man or boy:一个男性，一个男人或男孩
-the capital of the Maldives, population 111,000 (est. 2007).:
+the capital of the Maldives, population 111,000 (est. 2007).:马尔代夫的首都，人口 111,000（2007 年估计）。
 male |meɪl| Adjective/Noun/:男性,男的,男,雄性
 male children:男童
 male unemployment:男性失业
@@ -472,7 +471,7 @@ the car plunged nose first into the river:车头先掉进河里
 
 a simplified drawing showing the appearance, structure, or workings of something, a schematic representation:显示某物的外观、结构或工作原理的简化图，示意图
 a figure composed of lines that is used to illustrate a definition or statement or to aid in the proof of a proposition.:由线条组成的图形，用于说明定义或陈述或帮助证明命题。
-a graphical schedule for operating railway locomotives and rolling stock in order to provide a desired service.:
+a graphical schedule for operating railway locomotives and rolling stock in order to provide a desired service.:用于操作铁路机车和机车车辆以提供所需服务的图形时间表。
 represent (something) in graphic form:represent（某物）以图形形式
 schedule the operations of (a locomotive or train) according to a diagram.:根据图表安排（机车或火车）的运行。
 diagram |ˈdʌɪəɡram| Noun/Verb/:,图,示意图
@@ -503,7 +502,7 @@ many were unhappy about the scale of the cuts:many对削减的规模感到不满
 an unhappy coincidence:一个不幸的巧合
 
 far away in space or time:遥远的空间或时间
-(after a measurement) at a specified distance:
+(after a measurement) at a specified distance:（测量后）在指定距离
 (of a sound) faint because far away:（声音的）因为远而昏倒
 remote or far apart in resemblance or relationship:remote或相距甚远的相似或关系
 (of a person) not closely related:（一个人的）没有密切关系的

@@ -37,7 +37,6 @@ aspect							部分，方面，景色
 
 a message sent by telegraph and then delivered in written or printed form, used in the UK only for international messages since 1981.:通过电报发送的消息，然后以书面或印刷形式传递，自1981年以来在英国仅用于国际消息。
 telegram |ˈtɛlɪɡram| Noun/:电报,电文
-:
 
 make the sound of (a word or part of a word) in the correct or a particular way:以正确或特定的方式发出（单词或单词的一部分）的声音
 declare or announce in a formal or solemn way:以正式或庄重的方式声明或宣布
@@ -51,7 +50,7 @@ the Secretary of State will shortly pronounce on alternative measures:国务卿�
 (of music) produced by electronic instruments:（音乐的）电子乐器产生的
 relating to electronics:与电子有关
 relating to electrons.:与电子有关。
-carried out or accessed by means of a computer or other electronic device, especially over a network:
+carried out or accessed by means of a computer or other electronic device, especially over a network:通过计算机或其他电子设备执行或访问，尤其是通过网络
 electronic |ɪˌlɛkˈtrɒnɪk| Adjective/:电子的,电子,电子产品
 an electronic calculator:一个电子计算器
 electronic dance music:电子舞曲
@@ -66,7 +65,7 @@ pass over (an obstacle or barrier) by jumping:通过跳跃跳过（障碍物或�
 get on or off (a train or other vehicle) quickly, typically illegally or dangerously:快速上下车（火车或其他车辆），通常是非法或危险的
 take summary possession of (a mining concession or other piece of land) after alleged abandonment or forfeiture by the former occupant:在据称被前居住者放弃或没收后，对（采矿特许权或其他土地）进行简要占有
 (of a person) move suddenly and quickly in a specified way:（人的）以特定的方式突然而迅速地移动
-(of a person) make a sudden involuntary movement in reaction to something that causes surprise or shock:
+(of a person) make a sudden involuntary movement in reaction to something that causes surprise or shock:（人）对引起惊奇或震惊的事情做出突然的不自主的反应
 pass quickly or abruptly from one idea, subject, or state to another:快速或突然地从一个想法、主题或状态转移到另一个
 omit or skip over (part of something) and pass on to a further point or stage.:省略或跳过（某事的一部分）并转到另一个点或阶段。
 (of a machine or device) move or jerk suddenly and abruptly:（机器或设备的）突然突然移动或猛拉
@@ -107,7 +106,7 @@ one of a set of objects such as straws, stones, or pieces of paper that are rand
 the choice resulting from deciding something by lot:抽签决定的选择
 a person's luck, situation, or destiny in life:一个人一生的运气、处境或命运
 a plot of land assigned for sale or for a particular use:一块分配给出售或特定用途的土地
-a car park.:
+a car park.:一个停车场。
 an area of land near a film studio where outside filming may be done.:电影制片厂附近的一块土地，可以进行户外拍摄。
 the area at a car dealership where cars for sale are kept.:汽车经销商处存放待售汽车的区域。
 divide (items) into lots for sale at an auction:将（物品）分成多个拍卖品进行拍卖
@@ -118,9 +117,9 @@ he played tennis a lot last year:他去年经常打网球
 it's just one lot of rich people stealing from another:这只是一群有钱人从另一个人那里偷东西
 an inefficient lot, our Council:一个低效的地段，我们的理事会
 nineteen lots failed to sell:19手未能售出
-officers were elected rather than selected by lot:
+officers were elected rather than selected by lot:官员是选举产生的，而不是通过抽签选出的
 they drew lots to determine the order in which they asked questions:他们抽签决定提问的顺序
-eventually the lot fell on the King's daughter:
+eventually the lot fell on the King's daughter:最终中签落在了国王的女儿身上
 schemes to improve the lot of the disadvantaged:schemes改善弱势群体的命运
 a vacant lot:一块空地
 the contents have already been lotted up, and the auction takes place on Monday:内容已经抽签，周一拍卖
@@ -182,7 +181,6 @@ he finished with eight points, four steals, and seven assists:他得到8分、4�
 
 a very short skirt.:一条很短的裙子。
 miniskirt |ˈmɪnɪskəːt| Noun/:迷你裙,超短裙
-:
 
 the systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions:对材料和来源的系统调查和研究，以确立事实并得出新结论
 engaged in or intended for research:从事或打算用于研究
@@ -196,7 +194,6 @@ I was in New York researching my novel:我在纽约研究我的小说
 
 an appliance or compartment which is artificially kept cool and used to store food and drink. Modern refrigerators generally make use of the cooling effect produced when a volatile liquid is forced to evaporate in a sealed system in which it can be condensed back to liquid outside the refrigerator.:人为保持凉爽并用于储存食物和饮料的器具或隔间。现代冰箱通常利用当挥发性液体在密封系统中被迫蒸发时产生的冷却效果，在该系统中它可以在冰箱外冷凝回液体。
 refrigerator |rɪˈfrɪdʒəreɪtə| Noun/:冰箱,电冰箱
-:
 
 round |raʊnd| Adjective/Adverb/Noun/Preposition/Verb/:冰箱,电冰箱
 
@@ -233,7 +230,7 @@ she designs women's casuals:she设计女士休闲装
 
 decide or announce that (a planned event) will not take place:决定或宣布（计划中的事件）不会发生
 annul or revoke (a formal arrangement which is in effect):annul或revoke（一种有效的正式安排）
-abolish or make void (a financial obligation):
+abolish or make void (a financial obligation):废除或作废（财务义务）
 (of a factor or circumstance) neutralize or negate the force or effect of (another):（一个因素或情况的）中和或否定（另一个）的力量或效果
 delete (an equal factor) from both sides of an equation or from the numerator and denominator of a fraction:delete（等式）从等式两边或从分数的分子和分母中删除
 publicly boycott or withdraw support from (a person, organization, etc.) for promoting beliefs that are regarded as socially unacceptable:公开抵制或撤回对（个人、组织等）的支持，以宣扬被视为社会不可接受的信仰
@@ -356,7 +353,7 @@ in Chapter Six I discuss problems that arise in applying Darwin's ideas:在第�
 
 not making or accompanied by any sound:没有发出或伴随任何声音
 (of a person) not speaking:（某人）不说话
-not expressed aloud:
+not expressed aloud:没有大声表达
 (of a letter) written but not pronounced, e.g. b in doubt:（一封信的）书面但不发音，例如10
 (of a film) without an accompanying soundtrack:（电影）没有配乐
 saying or recording nothing on a particular subject:在特定主题上什么都不说或不记录
@@ -364,7 +361,7 @@ saying or recording nothing on a particular subject:在特定主题上什么都�
 silent |ˈsʌɪlənt| Adjective/:沉默的,无声,沉默,无声的
 the wood was still and silent:木头寂静无声
 she fell silent for a moment:她沉默了片刻
-a silent prayer:
+a silent prayer:无声的祈祷
 a silent ‘h’:一个无声的‘h’
 she appeared in a number of silent films:she出现在许多无声电影中
 the poems are silent on the question of marriage:诗歌对婚姻问题保持沉默
@@ -410,7 +407,7 @@ used to emphasize the seriousness of an unpleasant event or action:用于强调�
 very much or intensely:非常或强烈
 in a guilty or regretful way:以一种有罪或后悔的方式
 badly |wəːs| Adverb/:严重,很糟糕
-England have played badly this year:
+England have played badly this year:英格兰今年踢得不好
 try not to think badly of me:尽量不要把我想坏
 she realized she was behaving rather badly:她意识到她的行为很糟糕
 the building was badly damaged by fire:建筑物被大火严重损坏
@@ -436,7 +433,6 @@ a group of people perceived as incompetent or worthless:一群被认为无能或
 a party at which presents are given to someone, typically a woman who is about to get married or have a baby:向某人赠送礼物的聚会，通常是即将结婚或生孩子的女性
 shower |ˈʃaʊə| Noun/Verb/:淋浴,花洒
 a day of sunny spells and scattered showers:一个阳光明媚的日子和零星的阵雨
-:
 a shower of awards:一大堆奖项
 all rooms have private shower and WC:所有房间都有私人淋浴和卫生间
 she turned off the shower and reached for a towel:她关掉淋浴，伸手拿毛巾
@@ -447,7 +443,7 @@ she loved going to baby showers:她喜欢去婴儿洗澡
 a particular part or feature of something:某物的特定部分或特征
 a particular way in which something may be considered:一种可以考虑某事的特定方式
 a particular appearance or quality:特定的外观或品质
-the positioning of a building or other structure in a particular direction:
+the positioning of a building or other structure in a particular direction:建筑物或其他结构在特定方向的定位
 the side of a building facing a particular direction:面向特定方向的建筑物一侧
 any of a number of particular angular relationships between one celestial body or point on the ecliptic and another:一个天体或黄道上的点与另一个天体或点之间的许多特定角度关系中的任何一种
 a category or form which expresses the way in which time is denoted by a verb:一个类别或形式，它表达了动词表示时间的方式

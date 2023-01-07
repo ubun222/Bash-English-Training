@@ -49,7 +49,7 @@ the opera was seen by a small and highly select audience:这部歌剧被一小�
 a loud rumbling or crashing noise heard after a lightning flash due to the expansion of rapidly heated air:闪电后由于快速加热的空气膨胀而听到的隆隆声或撞击声
 a loud, deep resounding noise:一个响亮的、深沉的响亮的噪音
 used to refer to an angry facial expression or tone of voice:用于表示愤怒的面部表情或语气
-used to express emphasis, anger, or incredulity:
+used to express emphasis, anger, or incredulity:用于表达强调、愤怒或怀疑
 thunder sounds:thunder的声音
 make a loud, deep resounding noise:发出响亮、深沉的响声
 strike powerfully:strike强大
@@ -73,7 +73,7 @@ the ancestor of most dolphins is not clear:大部分海豚的祖先不清楚
 this instrument is an ancestor of the lute:这件乐器是琵琶的祖先
 
 regularly or frequently behave in a particular way or have a certain characteristic:经常或经常以特定方式表现或具有某种特征
-be liable to possess or display (a particular characteristic):
+be liable to possess or display (a particular characteristic):易于拥有或展示（特定特征）
 go or move in a particular direction:go或朝特定方向移动
 (of a variable) approach a given quantity as a limit:(ofavariable)将给定数量作为极限
 care for or look after, give one's attention to:carefororcare,关注
@@ -133,7 +133,7 @@ the greater number:更大的数字
 the number by which the votes cast for one party or candidate exceed those for the next:一个政党或候选人的票数超过下一个政党或候选人的票数
 a party or group receiving the greater number of votes.:获得更多选票的政党或团体。
 the number by which votes for one candidate are more than those for all other candidates together.:一个候选人的票数超过所有其他候选人的票数。
-the age at which a person is legally a full adult, usually either 18 or 21:
+the age at which a person is legally a full adult, usually either 18 or 21:一个人在法律上是完全成年人的年龄，通常是 18 岁或 21 岁
 the rank or office of a major.:专业的军衔或职务。
 majority |məˈdʒɒrɪti| Noun/:,大多数人
 in the majority of cases all will go smoothly:在大多数情况下，一切都会顺利进行
@@ -147,7 +147,7 @@ a point in time:一个时间点
 a period of time, a while:一段时间，一段时间
 a sixtieth of a degree of angular measurement (symbol: ʹ):六十分之一度角测量（符号
 minute |ˈmɪnɪt| Adjective/Noun/Verb/:分钟,微小的,分,一分
-we waited for twenty minutes:
+we waited for twenty minutes:我们等了二十分钟
 the hotel is situated just ten minutes from the centre of the resort:the酒店距离度假村中心仅十分钟路程
 come and sit down for a minute:过来坐一会儿
 she was laughing one minute and crying the next:她前一分钟笑，下一分钟哭
@@ -158,7 +158,7 @@ the state of the atmosphere at a particular place and time as regards heat, clou
 cold, wet, and unpleasant or unpredictable atmospheric conditions:寒冷、潮湿、令人不快或不可预测的大气条件
 denoting the side from which the wind is blowing, especially on board a ship, windward:表示风吹的一侧，尤其是在船上，迎风
 wear away or change the appearance or texture of (something) by long exposure to the atmosphere:通过长时间暴露在大气中来磨损或改变（某物）的外观或质地
-(of rock or other material) be worn away or altered by long exposure to the atmosphere:
+(of rock or other material) be worn away or altered by long exposure to the atmosphere:（岩石或其他材料）因长期暴露在大气中而磨损或改变
 (of a ship) come safely through (a storm):（一艘船的）安全通过（风暴）
 withstand (a difficulty or danger):withstand（困难或危险）
 get to the windward of (a cape).:到达（海角）的迎风处。
@@ -181,10 +181,9 @@ something that implies or indicates a certain fact or situation:暗示或表明�
 a slight indication of something:对某事的轻微暗示
 the action of calling up an idea in someone's mind by associating it with other things:通过将某个想法与其他事物相关联来唤起某人脑海中的想法的行为
 the action of influencing a person to accept an idea or belief uncritically, especially as a technique in hypnosis.:影响一个人不加批判地接受一个想法或信念的行为，尤其是作为一种催眠技术。
-an idea or belief accepted by a person as a result of suggestion.:
+an idea or belief accepted by a person as a result of suggestion.:一个人因建议而接受的想法或信念。
 suggestion |səˈdʒɛstʃən| Noun/:建议,意见
 here are some suggestions for tackling the problem:这里有一些解决问题的建议
-:
 there is no suggestion that he was involved in any wrongdoing:没有迹象表明他参与了任何不当行为
 there was a suggestion of a smile on his lips:他的唇边有一丝微笑
 the power of suggestion:建议的力量
@@ -205,7 +204,7 @@ he talked in a friendly manner to staff and patients alike:他以友好的方式
 
 an area of a country or city, especially one characterized by a particular feature or activity:一个国家或城市的区域，尤指以特定特征或活动为特征的区域
 a region defined for an administrative purpose:为管理目的而定义的区域
-a division of a county or region that elects its own councillors.:
+a division of a county or region that elects its own councillors.:选出自己的议员的县或地区的分区。
 divide into areas:划分区域
 district |ˈdɪstrɪkt| Noun/Verb/:区,地区
 an elegant shopping district:优雅的商圈
@@ -220,7 +219,6 @@ the abuse of compulsory powers:强制权力的滥用
 
 a mountainous region in Asia on the northern side of the Himalayas, since 1965 forming an autonomous region in the west of China, population 2,840,000 (est. 2007), official languages, Tibetan and Chinese, capital, Lhasa.:亚洲喜马拉雅山北侧山区，自1965年在中国西部形成自治区，人口284万（2007年估计），官方语言藏汉，首都拉萨。
 Tibet |tɪˈbɛt| Noun/:西藏,藏,中国西藏
-:
 
 put (something) down gently or carefully:轻轻或小心地放下（某物）
 prevent (something) from rising off the ground:防止（某物）从地面升起
@@ -312,7 +310,7 @@ reveal information, confess:reveal信息，坦白
 an act or sound of coughing:咳嗽的动作或声音
 a condition of the respiratory organs causing coughing:引起咳嗽的呼吸器官状况
 cough |kɒf| Noun/Verb/:咳嗽,咳
-he tried to speak and started to cough:
+he tried to speak and started to cough:他想说话却开始咳嗽
 the engine began coughing and spluttering:引擎开始咳嗽和喷溅
 he coughed up bloodstained fluid:他咳出带血的液体
 once he realized we knew, he was ready to cough fast enough:一旦他意识到我们知道，他已经准备好咳嗽得够快了
@@ -322,7 +320,7 @@ he looked feverish and had a bad cough:他看起来很发烧，咳嗽得很厉�
 move (something) into position so as to block an opening, close:将（某物）移动到适当位置以阻止开口，关闭
 move or be able to be moved so as to block an opening:move或能够被移动以阻塞开口
 block an opening into (something) by moving something into position:通过将某物移动到位来阻止进入（某物）的开口
-prevent access to or along:
+prevent access to or along:阻止进入或沿着
 fold or bring together the sides of (something) so as to close it:折叠或将（某物）的侧面合在一起以将其关闭
 keep in a place by closing something such as a door:通过关闭诸如门之类的东西留在一个地方
 make (something) unavailable for business or service, either permanently or until due to be open again:make（某事）无法用于业务或服务，永久或直到再次开放
@@ -350,7 +348,7 @@ a man's jacket, especially as worn when hunting or by soldiers.:男士夹克，�
 a woman's tailored jacket, worn with a skirt or dress:女士定制夹克，搭配裙子或连衣裙
 an animal's covering of fur or hair:动物的皮毛或毛发覆盖物
 an outer layer or covering:一个外层或覆盖物
-a single application of paint or similar material on a surface:
+a single application of paint or similar material on a surface:在表面上单次涂漆或类似材料
 a structure, especially a membrane, enclosing or lining an organ.:一个结构，尤其是膜，包围或衬托器官。
 the skin or husk of a fruit or seed.:水果或种子的皮或壳。
 a layer of a plant bulb.:一层植物鳞茎。
@@ -370,7 +368,7 @@ the back of the thigh or the thighs and buttocks:大腿后侧或大腿和臀部
 an excessively theatrical actor:一个过分戏剧化的演员
 excessively theatrical acting.:过度的戏剧表演。
 an amateur radio operator.:一个业余无线电操作员。
-overact:overact
+overact:过度
 (in the Bible) a son of Noah (Gen. 10:1), traditional ancestor of the Hamites.:（在圣经中）挪亚的儿子（创世记10
 ham |ham| Noun/Verb/:火腿,火腿肠
 thin slices of ham:薄片火腿
@@ -399,7 +397,7 @@ a remote and inaccessible place:一个偏远且人迹罕至的地方
 depth |dɛpθ| Noun/:深度,在
 water of no more than 12 feet in depth:water深度不超过12英尺
 the depth of the wardrobe:衣柜的深度
-texture in a picture gives it depth:
+texture in a picture gives it depth:图片中的纹理赋予它深度
 he was surprised by the depth of Eloise's vindictiveness:他对埃洛伊丝的报复心之深感到惊讶
 the book has unexpected depth:这本书有意想不到的深度
 third-year courses typically go into more depth:三年级课程通常会更深入
@@ -438,7 +436,7 @@ a member of the Irish police force, a Garda:一名爱尔兰警察部队成员，
 a prison warder.:监狱看守。
 a device worn or fitted to prevent injury or damage:a为防止受伤或损坏而佩戴或安装的设备
 a defensive posture that is adopted in a boxing or martial arts contest or in a fight:拳击或武术比赛或战斗中采用的防御姿势
-a state of vigilance or preparedness against adverse circumstances:
+a state of vigilance or preparedness against adverse circumstances:对不利情况的警惕或准备状态
 an official who rides on and is in general charge of a train.:一名乘坐火车并一般负责火车的官员。
 each of two players either side of the centre.:中心两侧各两名球员。
 each of two players chiefly responsible for marking opposing players.:每个主要负责盯防对方球员的两名球员。
@@ -470,7 +468,7 @@ rip-off artists:rip-off艺术家
 
 demonstrate the truth or existence of (something) by evidence or argument:通过证据或论据证明（某物）的真实性或存在
 establish the genuineness and validity of (a will).:确定（遗嘱）的真实性和有效性。
-demonstrate to be the specified thing by evidence or argument:demonstratetobethespecifiedthingbyevidenceorargument
+demonstrate to be the specified thing by evidence or argument:以证据或论据证明为特定事物
 be seen or found to be:被看见或被发现
 demonstrate one's abilities or courage:展示自己的能力或勇气
 test the accuracy of (a mathematical calculation).:test（数学计算）的准确性。

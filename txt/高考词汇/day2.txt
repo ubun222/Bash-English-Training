@@ -91,8 +91,8 @@ a reasonable or comprehensible rationale:合理或可理解的理由
 a way in which an expression or a situation can be interpreted, a meaning:一种可以解释表达或情况的方式，一种意义
 a property (e.g. direction of motion) distinguishing a pair of objects, quantities, effects, etc. which differ only in that each is the reverse of the other:a属性（例如运动方向）区分一对对象、数量、效果等，其不同之处仅在于彼此相反
 relating to or denoting a coding sequence of nucleotides, complementary to an antisense sequence.:涉及或表示核苷酸的编码序列，与反义序列互补。
-perceive by a sense or senses:perceivebyasenseorsenses
-be aware of (something) without being able to define exactly how one knows:
+perceive by a sense or senses:通过一种或多种感官感知
+be aware of (something) without being able to define exactly how one knows:在无法准确定义一个人如何知道的情况下意识到（某事）
 (of a machine or similar device) detect:（机器或类似设备的）检测
 sense |sɛns| Noun/Verb/:感觉,觉察到,感,意义,感应
 the bear has a keen sense of smell which enables it to hunt at dusk:熊有敏锐的嗅觉，使它能够在黄昏时狩猎
@@ -340,7 +340,7 @@ the kitchen became a hive of activity:厨房变成了活动的蜂巢
 smoke is used to subdue bees when taking and hiving a swarm:smoke用于在捕获和蜂群时制服蜜蜂
 
 the time taken by the earth to make one revolution around the sun.:地球绕太阳转一圈所用的时间。
-the period of 365 days (or 366 days in leap years) starting from the first of January, used for reckoning time in ordinary circumstances.:
+the period of 365 days (or 366 days in leap years) starting from the first of January, used for reckoning time in ordinary circumstances.:从一月一日开始的365天（闰年为366天）期间，一般情况下用于计算时间。
 a period of twelve months measured from a point other than 1 January:从1月1日以外的时间点算起的12个月期间
 a year regarded in terms of the quality of something produced:一年的产品质量
 a period similar to a year used for reckoning time according to other calendars:一个类似于一年的时期，用于根据其他日历计算时间
@@ -450,7 +450,7 @@ clear the throat noisily:大声清嗓子
 bring phlegm up from the throat.:从喉咙里吐痰。
 a plasterer's square board with a handle underneath for carrying plaster or mortar.:aplasterer'ssquareboard，下面有一个把手，用于搬运石膏或砂浆。
 hawk |hɔːk| Noun/Verb/:鹰,兜售,霍克
-severe limits were put on the peace plan by party hawks:
+severe limits were put on the peace plan by party hawks:政党鹰派对和平计划施加了严格的限制
 he spent the afternoon hawking:他整个下午都在兜售
 swifts hawked low over the water:swifts在水面上低声兜售
 street traders were hawking costume jewellery:street商人在兜售服装首饰
@@ -488,7 +488,7 @@ steal sb's clothes | 偷某人的衣服,偷别人衣服
 a synthetic material made from a wide range of organic polymers such as polyethylene, PVC, nylon, etc., that can be moulded into shape while soft, and then set into a rigid or slightly elastic form:一种合成材料，由聚乙烯、PVC、尼龙等多种有机聚合物制成，可以在柔软的同时成型，然后固定成刚性或微弹性的形状
 credit cards or other types of plastic card that can be used as money:信用卡或其他可当钱用的塑料卡
 made of plastic:塑料制成
-not genuine, artificial or unnatural:
+not genuine, artificial or unnatural:不是真实的、人造的或不自然的
 (of a substance or material) easily shaped or moulded:（物质或材料的）容易成型或模制的
 offering scope for creativity:提供创意空间
 exhibiting adaptability to change or variety in the environment.:表现出对环境变化或变化的适应性。
@@ -510,7 +510,7 @@ used to emphasize the extent of something unpleasant or bad:用于强调不愉�
 very unwell or troubled:非常不适或困扰
 causing or likely to cause terror, sinister:引起或可能引起恐怖的，险恶的
 terrible |ˈtɛrɪbl| Adjective/:糟糕的,可怕,可怕的,太可怕了
-a terrible crime:
+a terrible crime:可怕的罪行
 the weather was terrible:天气很糟糕
 despite passing my driving test first time, I'm a terrible driver:尽管我第一次通过了驾驶考试，但我是个糟糕的司机
 what a terrible mess:多么糟糕的一团糟
@@ -519,7 +519,6 @@ the stranger gave a terrible smile:陌生人露出可怕的笑容
 
 coverings for a bed, such as sheets and blankets.:床罩，例如床单和毯子。
 bedclothes |ˈbɛdkləʊ(ð)z| Noun/:床上用品,被褥
-:
 
 give or order the giving of (something) as an official payment, compensation, or prize to (someone):给予或命令给予（某物）作为对（某人）的正式付款、补偿或奖品
 grant or assign (a contract or commission) to (a person or organization):授予或分配（合同或佣金）给（个人或组织）
