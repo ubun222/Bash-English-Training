@@ -1,8 +1,8 @@
 ## 自制的英语单词提词器
 
-#### 大概介绍
-1. 支持bash(termux ish Linux macos 等)~~和ash(ish)，zsh~~ 不支持fish，dash等等等等，但支持macOS的默认终端和越狱后的iPhone终端
-
+#### 需求
+1. bash
+2. 手机终端应用(ish termux)或电脑系统终端(Ubuntu, Macos, Windows Terminal(WSL))
 
 ![BET-ish.gif](https://github.com/ubun222/Learning-English/raw/bash/img/BET-ish.gif) ![BET-termux.gif](https://github.com/ubun222/Learning-English/raw/bash/img/BET-termux.gif)
 #### 开始
@@ -13,14 +13,14 @@ apk add bash
 apk add git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
-bash 1.*.sh
+bash 1.8.9.sh -api  # 答题辅助 通关模式 优化ish
 ```
 3. Termux
 ```
 apt-get install git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
-bash 1.*.sh
+bash 1.8.9.sh -apm  # 答题辅助 通关模式 优化termux
 ```
 4. 若安装git或bash失败，请先update和upgrade包管理命令。
 5. json翻译还需要另外安装gawk，可能自带的awk无法使用trans。
