@@ -20,7 +20,7 @@ spot						点，地点，困境，认出
 suppress					镇压，封锁，克制
 diminish					减少，削弱，贬低
 reconcile					使和好，使...一致，使...将就，调解
-artificial					人造的，认为的，假装的
+artificial					人造的，人为的，假装的
 athletic					运动的，运动员的
 confrontational				对抗的，咄咄逼人的
 row						一排，连续，划船，争吵
