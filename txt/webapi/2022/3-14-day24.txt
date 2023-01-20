@@ -67,7 +67,7 @@ the study will assist in evaluating the impact of recent changes:该研究将有
 substitute numbers in a simple formula and evaluate the answer:用一个简单的公式替换数字并评估答案
 
 a person acknowledged as holy or virtuous and regarded in Christian faith as being in heaven after death:一个人被承认为圣洁或有德行，并在基督教信仰中被视为死后在天堂
-a person of exalted virtue who is canonized by the Church after death and who may be the object of veneration and prayers for intercession:
+a person of exalted virtue who is canonized by the Church after death and who may be the object of veneration and prayers for intercession:德高望重的人，在死后被教会封为圣人，可能成为崇敬和祈求代祷的对象
 used in titles of religious saints:用于宗教圣徒的头衔
 a member or follower of the Latter-day Saints movement, a Mormon:后期圣徒运动的成员或追随者，摩门教徒
 (in biblical use) a Christian believer:（圣经用）基督徒
@@ -88,7 +88,7 @@ postpone or defer (an action):postpone或defer（一个动作）
 a period of time by which something is late or postponed:某事迟到或推迟的一段时间
 the action of delaying or being delayed:延迟或被延迟的动作
 the time interval between the propagation of an electrical signal and its reception.:电信号的传播和接收之间的时间间隔。
-an electronic device which introduces a delay, especially in an audio signal.:
+an electronic device which introduces a delay, especially in an audio signal.:一种引入延迟的电子设备，尤其是在音频信号中。
 delay |dɪˈleɪ| Noun/Verb/:延迟,推迟,拖延
 the train was delayed:火车晚点了
 time being of the essence, they delayed no longer:时间的本质，他们不再拖延
@@ -166,7 +166,7 @@ have a specific connection with or responsibility for:有特定的联系或责�
 regard it as important to do something:认为做某事很重要
 make (someone) anxious or worried:使（某人）焦虑或担心
 concern |kənˈsəːn| Noun/Verb/:忧虑,关于,关心,关怀,关注
-the story concerns a friend of mine:
+the story concerns a friend of mine:这个故事是关于我的一个朋友的
 she was prying into that which did not concern her:她正在窥探与她无关的事情
 it is not necessary for us to concern ourselves with this point:我们没有必要关心这一点
 those concerned in industry, academia, and government:工业、学术界和政府相关人士
@@ -178,19 +178,19 @@ used euphemistically to refer to the penis:委婉地指阴茎
 a region of the brain formerly held to be the seat of a particular faculty.:以前认为是特定学院所在地的大脑区域。
 a large musical instrument having rows of pipes supplied with air from bellows (now usually electrically powered), and played using a keyboard or by an automatic mechanism. The pipes are generally arranged in ranks of a particular type, each controlled by a stop, and often into larger sets linked to separate keyboards.:一种大型乐器，有成排的管道，由波纹管（现在通常是电动的）供应空气，并使用键盘或自动机构演奏。10
 an electronic keyboard instrument that produces sounds similar to those of a pipe organ.:一种电子键盘乐器，产生类似于管风琴的声音。
-a department or organization that performs a specified function:
+a department or organization that performs a specified function:执行特定功能的部门或组织
 a newspaper or periodical which promotes the views of a political party or movement:宣传政党或运动观点的报纸或期刊
 organ |ˈɔːɡ(ə)n| Noun/:器官,机关,管风琴
 the internal organs:内脏
 the male organ:男性器官
-the organs of local government:
+the organs of local government:地方政府机关
 he repositioned the journal as a leading organ of neoconservatism:他将杂志重新定位为新保守主义的主要机构
 
 refer to (a passage, book, or author) as evidence for or justification of an argument or statement, especially in a scholarly work:指（一篇文章、一本书或作者）作为论证或陈述的证据或理由，尤其是在学术著作中
 mention as an example:提及为例
 praise (someone, typically a member of the armed forces) in an official report for a courageous act:praise（某人，通常是武装部队成员）在一份勇敢的行为的官方报告中
 summon (someone) to appear in court:summon（某人）出庭
-a citation.:
+a citation.:引用。
 cite |sʌɪt| Noun/Verb/:引用,举
 authors who are highly regarded by their peers tend to be cited:受到同行高度评价的作者往往被引用
 medics have been cited as a key example of a modern breed of technical expert:medics被认为是现代技术专家的一个关键例子
@@ -199,7 +199,7 @@ the writ cited only four of the signatories of the petition:令状仅引用了�
 
 a system of parts working together in a machine, a piece of machinery:在一台机器中协同工作的零件系统，一台机器
 a natural or established process by which something takes place or is brought about:某事发生或产生的自然或既定过程
-a contrivance in the plot of a literary work:
+a contrivance in the plot of a literary work:文学作品情节的设计
 the doctrine that all natural phenomena, including life and thought, can be explained with reference to mechanical or chemical processes.:所有自然现象，包括生命和思想，都可以用机械或化学过程来解释的学说。
 mechanism |ˈmɛkənɪz(ə)m| Noun/:机制,机理,机构
 a third motor powers the tape eject mechanism:第三个电机为磁带弹出机构提供动力
@@ -207,7 +207,7 @@ the immune system's mechanism for detecting pathogens:免疫系统检测病原�
 his Irma La Douce is a musical based on the farce mechanism:hisIrmaLaDouce是一部基于闹剧机制的音乐剧
 
 an event in which people compete for supremacy in a sport or other activity, or in a quality:一种人们在一项运动或其他活动中争夺至高无上地位的事件，或
-a competition for a political position:
+a competition for a political position:政治地位的竞争
 a dispute or conflict:争议或冲突
 engage in competition to attain (a position of power):参与竞争以获得（权力地位）
 take part in (a competition or election):参加（比赛或选举）
@@ -250,10 +250,10 @@ a person of a particular kind, especially one who is important or distinctive in
 a shape which is defined by one or more lines in two dimensions (such as a circle or a triangle), or one or more surfaces in three dimensions (such as a sphere or a cuboid), either considered mathematically in geometry or used as a decorative design:由一条或多条二维线（如圆形或三角形）或一个或多条三维表面（如球体或长方体）定义的形状，无论是在几何学上考虑还是使用16
 a diagram or illustrative drawing, especially in a book or magazine:图表或说明图，尤其是在书籍或杂志中
 (in skating) a movement or series of movements following a prescribed pattern and often beginning and ending at the same point.:（在滑冰中）遵循规定模式的一个或一系列动作，通常在同一点开始和结束。
-a pattern formed by the movements of a group of people, for example in country dancing, as part of a longer dance or display.:
+a pattern formed by the movements of a group of people, for example in country dancing, as part of a longer dance or display.:由一群人的动作形成的图案，例如在乡村舞中，作为较长舞蹈或表演的一部分。
 the external form or shape of something.:某物的外在形式或形状。
 a short succession of notes producing a single impression, a brief melodic or rhythmic formula out of which longer passages are developed.:一系列简短的音符产生单一的印象，一个简短的旋律或节奏公式，从中发展出更长的段落。
-the form of a syllogism, classified according to the position of the middle term.:
+the form of a syllogism, classified according to the position of the middle term.:三段论的形式，根据中项的位置分类。
 have a significant part or role in a situation or process:在某种情况或过程中发挥重要作用
 think, consider, or expect to be the case:认为、考虑或期望是这种情况
 (of a recent event or newly discovered fact) be perfectly understandable and only to be expected:（最近发生的事件或新发现的事实）完全可以理解并且只能在意料之中
@@ -275,7 +275,7 @@ the issue of nuclear policy figured prominently in the talks:核政策问题在�
 I figured that I didn't have much of a chance:我认为我没有多少机会
 well, she supposed that figured:嗯，她猜想
 my accountant figured my tax wrong:我的会计师认为我的税错了
-varieties of this Cape genus are figured from drawings made there:
+varieties of this Cape genus are figured from drawings made there:这个开普属的变种是从那里制作的图纸中得出的
 the 11th-century silken dalmatic is figured with double-headed griffins:the11世纪的丝质dalmatic饰有双头狮鹫
 
 indicate the truth or existence of (something) by suggestion rather than explicit reference:通过暗示而不是明确的参考来表明（某事）的真相或存在
@@ -291,7 +291,7 @@ filled with curiosity, she peered through the window:充满好奇，她透过窗
 he showed them some of the curiosities of the house:他向他们展示了这所房子的一些奇特之处
 
 succeed in persuading or leading (someone) to do something:成功说服或引导（某人）做某事
-bring about or give rise to:
+bring about or give rise to:带来或引起
 produce (an electric charge or current or a magnetic state) by induction:通过感应产生（电荷、电流或磁态）
 cause (radioactivity) by bombardment with radiation.:cause（放射性）通过辐射轰击。
 initiate or enhance (a biochemical process, especially the synthesis of an enzyme).:启动或增强（生化过程，尤其是酶的合成）。

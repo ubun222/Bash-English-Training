@@ -60,7 +60,7 @@ he'll find some place where he can make money quicker:他会找到可以更快�
 the quick and the dead:快与死
 
 a formal meeting of people with a shared interest, typically one that takes place over several days:具有共同兴趣的人的正式会议，通常会持续数天
-a formal meeting for discussion:
+a formal meeting for discussion:正式会议讨论
 a linking of several phones or computers, so that each user may communicate with the others simultaneously:多个电话或电脑的链接，以便每个用户可以同时与其他用户通信
 a commercial association for the regulation of an area of activity or the exchange of information:管理某一活动领域或交换信息的商业协会
 an association of sports teams which play each other:一个相互比赛的运动队协会
@@ -107,7 +107,7 @@ not qualified or diminished in any way, total:不合格或以任何方式减少�
 used for emphasis when expressing an opinion:用于表达意见时的强调
 (of powers or rights) not subject to any limitation, unconditional:（权力或权利）不受任何限制，无条件
 (of a ruler) having unrestricted power:（统治者的）拥有不受限制的权力
-(of a decree) final:
+(of a decree) final:（法令的）最终的
 viewed or existing independently and not in relation to other things, not relative or comparative:查看或独立存在，与其他事物无关，不相对或比较
 (of a construction) syntactically independent of the rest of the sentence, as in dinner being over, we left the table.:(ofaconstruction)在句法上独立于句子的其余部分，就像在晚餐结束时，我们离开了桌子。
 (of a transitive verb) used without an expressed object (e.g. guns kill).:（及物动词）不带表达宾语使用（例如gunskill）。
@@ -218,7 +218,6 @@ a quantity that fills the hand:一个充满手的数量
 a small number or amount:少量或少量
 a person or group that is very difficult to deal with or control:一个很难对付或控制的人或团体
 handful |ˈhan(d)fʊl| Noun/:一把,少数
-:
 only a handful of people were in the pub:只有少数人在酒吧里
 the kids could be such a handful:孩子们可能是少数
 
@@ -251,7 +250,6 @@ jet black hair | 乌黑的头发,黑色的头发
 a game for two teams, usually of six players, in which a large ball is hit by hand over a high net, the aim being to score points by making the ball reach the ground on the opponent's side of the court.:一场两队的比赛，通常是六名球员，其中一个大球用手击中高网，目的是通过使球到达对方球场一侧的地面来得分。
 the inflated ball used in volleyball.:排球中使用的充气球。
 volleyball |ˈvɒlɪbɔːl| Noun/:排球,排球场
-:
 
 a preliminary version of a piece of writing:一篇文章的初步版本
 a plan, sketch, or rough drawing:计划、草图或草图
@@ -261,7 +259,7 @@ compulsory recruitment for military service:义务征兵服
 a procedure whereby sports players are made available for selection or reselection by the teams in a league, usually with the earlier choices being given to the weaker teams:一种程序，使体育运动员可以由联盟中的球队选择或重新选择，通常较早的选择会给予较弱的球队
 a group or individual selected from a larger group for a special duty, e.g. for military service:从一个更大的群体中选出的一个群体或个人执行特殊职责，例如16
 prepare a preliminary version of (a document):prepare（一份文件）的初步版本
-select (a person or group of people) and bring them somewhere for a certain purpose:
+select (a person or group of people) and bring them somewhere for a certain purpose:选择（一个人或一群人）并出于某种目的将他们带到某个地方
 conscript (someone) for military service:conscript（某人）服兵役
 select (a player) for a sports team through the draft:通过选秀为运动队选择（一名球员）
 draft |drɑːft| Adjective/Noun/Verb/:草案,草稿,草拟,起草
@@ -269,7 +267,7 @@ the first draft of the party's manifesto:党的宣言初稿
 a manuscript draft representing the explorer's latest findings:代表探险家最新发现的手稿
 25 million men were subject to the draft:2500万男性应征入伍
 the White Sox chose him in the 13th round of the 1990 draft:theWhiteSox在1990年选秀第13轮选中了他
-the draft and I were sent to the barracks near Folkestone:
+the draft and I were sent to the barracks near Folkestone:草案和我被送到福克斯通附近的军营
 I drafted a letter of resignation:我起草了辞职信
 he was drafted in to help fix the engine:他被征召来帮助修理引擎
 he was drafted in 1938:他于1938年被征召入伍
@@ -288,10 +286,10 @@ an alarm clock:一个闹钟
 cause (someone) to feel frightened, disturbed, or in danger:使（某人）感到害怕、不安或处于危险之中
 fit or protect with an alarm:fit或用警报保护
 alarm |əˈlɑːm| Noun/Verb/:警报,使惊恐,报警
-the boat tilted and the boatmen cried out in alarm:
+the boat tilted and the boatmen cried out in alarm:船倾斜了，船夫们惊叫起来
 I hammered on several doors to raise the alarm:我敲了几扇门来拉响警报
 they disabled the alarm and used a glass cutter to get in:他们关闭了警报并使用玻璃刀进入
-I set my alarm for 6:30:我把闹钟定在
+I set my alarm for 6:我把闹钟定在 6 点
 many people were alarmed by the decision:许多人对这个决定感到震惊
 I've just spent a fortune to alarm the house:我刚刚花了一大笔钱来报警房子
 
@@ -408,7 +406,7 @@ pub regulars:pub常客
 the garrison consisted of 200 regulars:驻军由200名常客组成
 
 a formal request to be considered for a position or to be allowed to do or have something, submitted to an authority, institution, or organization:正式请求被考虑担任某个职位或被允许做某事或拥有某事，提交给权威机构、机构或组织
-the action of putting something into operation:
+the action of putting something into operation:使某物投入运行的动作
 practical use or relevance:实际使用或相关性
 the action of applying something to a surface:将某物应用到表面的动作
 a medicinal substance applied to the skin:一种涂在皮肤上的药物
@@ -451,7 +449,7 @@ not delicate or graceful, coarse:不精致或优雅，粗糙
 (of ground or soil) muddy or full of clay.:（地面或土壤）泥泞或充满粘土。
 (of a smell) very strong, overpowering:（气味的）非常强烈的，压倒性的
 (of the sky) full of dark clouds, oppressive:(天空的)乌云密布，压抑
-of or containing atoms of an isotope of greater than the usual mass.:
+of or containing atoms of an isotope of greater than the usual mass.:属于或含有大于通常质量的同位素原子的。
 of more than the usual size, amount, or intensity:of超过通常的大小、数量或强度
 using a lot of:大量使用
 doing something more, or more deeply, than usual:做一些比平时更多或更深入的事情
@@ -494,7 +492,7 @@ I left him with a heavy heart:我带着沉重的心情离开了他
 things were getting pretty heavy:事情变得相当沉重
 my parents were getting really heavy with me in terms of work:我的父母在工作方面对我很沉重
 I needed money to pay off the heavies:我需要钱来偿还沉重的负担
-reporters from the Sunday heavies:
+reporters from the Sunday heavies:周日重磅记者
 music business heavies:音乐业务重磅
 a pint of heavy:一品脱重
 heavy-laden:重载
@@ -524,7 +522,7 @@ submerge or flood (an area):submerge或洪水（一个区域）
 be overwhelmed by a large amount of something:被大量的东西淹没
 cover or immerse food in:覆盖或浸入食物
 drown |draʊn| Verb/:淹,淹死,溺水
-a motorist drowned when her car plunged off the edge of a quay:
+a motorist drowned when her car plunged off the edge of a quay:一名驾车者在她的汽车从码头边缘坠落时溺水身亡
 he immediately drowned four of the dogs:他立即淹死了四只狗
 when the ice melted the valleys were drowned:当冰融化，山谷被淹没
 his voice was drowned out by the approaching engine noise:他的声音被接近的引擎噪音淹没了
@@ -532,7 +530,7 @@ both business and household sectors are drowning in debt:企业和家庭部门�
 good pizza is not eight inches thick and drowned in tomato sauce:good比萨饼没有八英寸厚，淹没在番茄酱中
 
 the standard of something as measured against other things of a similar kind, the degree of excellence of something:某事物相对于其他同类事物的衡量标准，某事物的卓越程度
-general excellence of standard or level:
+general excellence of standard or level:标准或水平的一般优秀
 high social standing:社会地位高
 people of high social standing:社会地位高的人
 a distinctive attribute or characteristic possessed by someone or something:某人或某物所具有的独特属性或特征
@@ -550,7 +548,7 @@ he's a quality player:他是一名优秀的球员
 a complete list of items, typically one in alphabetical or other systematic order.:完整的项目列表，通常按字母顺序或其他系统顺序排列。
 a list of all the books or resources in a library:图书馆中所有书籍或资源的列表
 a publication containing details of items for sale, especially one produced by a mail-order company:包含待售物品详情的出版物，尤其是邮购公司生产的出版物
-a list of works of art in an exhibition or collection, with detailed comments and explanations:
+a list of works of art in an exhibition or collection, with detailed comments and explanations:展览或收藏中的艺术作品清单，并附有详细的评论和解释
 a list of courses offered by a university or college.:大学或学院提供的课程列表。
 a series of unwelcome or unpleasant things:一系列不受欢迎或不愉快的事情
 make a systematic list of (items of the same type):制作（相同类型的项目）的系统列表

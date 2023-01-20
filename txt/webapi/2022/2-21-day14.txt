@@ -61,11 +61,11 @@ a basic structure that underlies or supports a system, concept, or text:作为�
 the structure, constitution, or nature of someone or something:某人或某物的结构、构成或性质
 a structural environment within which a class of words or other linguistic units can be correctly used. For example I — him is a frame for a large class of transitive verbs.:一个结构环境，可以在其中正确使用一类词或其他语言单位。16
 a feature which marks a transition from one section of discourse to another:一个特征，它标志着从一个部分的话语过渡到另一个
-a section of a discourse separated by a frame:
+a section of a discourse separated by a frame:由框架分隔的一段话语
 (in semantics) an underlying conceptual structure into which the meanings of a number of related words fit:（在语义上）一个基本的概念结构，许多相关词的含义都适合
 a social context determining the interpretation of an utterance:确定话语解释的社会背景
 a single complete picture in a series forming a cinema, television, or video film:组成电影、电视或视频电影的系列中的单个完整图片
-a single picture in a comic strip.:
+a single picture in a comic strip.:漫画中的单幅图片。
 a graphic panel in a display window, especially in a web browser, which encloses a self-contained section of data and permits multiple independent document viewing.:显示窗口中的图形面板，尤其是在网络浏览器中，它包含一个独立的数据部分并允许多个独立的文档查看。
 the triangular structure for positioning the red balls in snooker.:斯诺克中红球定位的三角形结构。
 a single game of snooker:一场斯诺克单场比赛
@@ -165,7 +165,7 @@ she absorbed the information in silence:她默默地吸收信息
 the family firm was absorbed into a larger group:家族企业被吸收进一个更大的集团
 arms spending absorbs roughly two per cent of the national income:arms支出吸收了大约2%的国民收入
 deep-pile carpets absorbed all sound of the outside world:deep-pile地毯吸收了外界所有的声音
-she sat in an armchair, absorbed in a book:
+she sat in an armchair, absorbed in a book:她坐在扶手椅上，全神贯注地看书
 
 a direction or order:一个方向或命令
 directions to a solicitor or counsel, or to a jury.:向律师或法律顾问或陪审团的指示。
@@ -199,11 +199,10 @@ harm or injury that results or may result from some action or judgement:某些�
 give rise to prejudice in (someone); make biased:对（某人）产生偏见；10
 cause harm to (a state of affairs):对（事态）造成伤害
 prejudice |ˈprɛdʒʊdɪs| Noun/Verb/:,使有偏见,歧视
-:
 accusations of racial prejudice:种族偏见指控
 prejudice resulting from delay in the institution of the proceedings:prejudice因延迟提起诉讼而造成的
 the statement might prejudice the jury:该声明可能会损害陪审团
-delay is likely to prejudice the child's welfare:
+delay is likely to prejudice the child's welfare:延迟可能会损害孩子的福利
 
 a series of actions or steps taken in order to achieve a particular end:为达到特定目的而采取的一系列行动或步骤
 a natural series of changes:自然的一系列变化
@@ -251,7 +250,7 @@ legislation to ensure equal opportunities for all:立法确保所有人机会均
 only by researching stocks thoroughly can a client ensure against being misled:只有彻底研究股票，客户才能确保不被误导
 
 make (someone) afraid or anxious:使（某人）害怕或焦虑
-deter someone or something from involvement or action by making them afraid:
+deter someone or something from involvement or action by making them afraid:通过让某人或某事感到害怕来阻止他们参与或采取行动
 (of a person) become afraid or anxious:（一个人的）变得害怕或焦虑
 frighten |ˈfrʌɪtn| Verb/:吓唬,吓,惊吓
 the savagery of his thoughts frightened him:他的野蛮想法吓坏了他
@@ -281,16 +280,16 @@ a bird, butterfly, or other animal of a species that does not migrate:不会迁�
 a guest in a hotel who stays for one or more nights:在酒店住了一晚或多晚的客人
 a pupil who boards at a boarding school.:在寄宿学校寄宿的学生。
 a British government agent in any semi-independent state, especially the Governor General's agent at the court of an Indian state.:任何半独立州的英国政府代理人，尤其是印度州法院的总督代理人。
-an intelligence agent in a foreign country.:
+an intelligence agent in a foreign country.:外国的情报人员。
 a medical graduate engaged in specialized practice under supervision in a hospital.:一名在医院监督下从事专业实践的医学毕业生。
 living somewhere on a long-term basis:长期居住在某个地方
 having quarters on the premises of one's work:在工作场所提供宿舍
-attached to and working regularly for a particular institution:
+attached to and working regularly for a particular institution:依附于特定机构并定期为该机构工作
 (of a bird, butterfly or other animal) remaining in an area throughout the year; non-migratory:（鸟类、蝴蝶或其他动物）全年停留在一个地区；6
 (of a computer program, file, etc.) immediately available in computer memory, rather than having to be loaded from elsewhere:（计算机程序、文件等）在计算机内存中立即可用，而不必从其他地方加载
 resident |ˈrɛzɪd(ə)nt| Adjective/Noun/:居民,居住的,常驻的
 it was a beautiful hamlet with just 100 residents:这是一个只有100名居民的美丽小村庄
-arctic residents are joined annually by long-distance migrants:
+arctic residents are joined annually by long-distance migrants:每年都有长途移民加入北极居民的行列
 the hotel restaurant is open to residents and guests of residents:酒店餐厅对住户和住户客人开放
 he has been resident in Brazil for a long time:他在巴西居住了很长时间
 resident farm workers:驻地农场工人
@@ -382,7 +381,7 @@ support (a plant) with a stake or stakes:support（一个植物）有一个或�
 a sum of money or something else of value gambled on the outcome of a risky game or venture:一笔金钱或其他有价值的东西，赌注在冒险游戏或冒险的结果上
 a share or interest in a business, situation, or system:在业务、情况或系统中的股份或利益
 prize money, especially in horse racing.:prize钱，尤其是在赛马方面。
-a horse race in which all the owners of the racehorses running contribute to the prize money:
+a horse race in which all the owners of the racehorses running contribute to the prize money:所有参加比赛的赛马的主人都为奖金做出贡献的赛马
 a situation involving competition in a specified area:指定区域内涉及竞争的情况
 gamble (money or something else of value) on the outcome of a game or race:gamble（金钱或其他有价值的东西）关于游戏或比赛的结果
 give financial or other support to:给予财政或其他支持
@@ -398,7 +397,7 @@ he staked him to an education at the École des Beaux-Arts:他让他在Écoledes
 
 in an eager or enthusiastic manner:以热切或热情的方式
 intensely:强烈
-cheaply; competitively:
+cheaply; competitively:便宜;竞争地
 keenly |ˈkiːnli| Adverb/:,热切地
 one of this year's most keenly anticipated movies:今年最受期待的电影之一
 they are keenly aware of the problems of their community:他们敏锐地意识到他们社区的问题
@@ -418,7 +417,7 @@ he had only the most superficial knowledge of foreign countries:他对外国只�
 perhaps I was a superficial person:也许我是个肤浅的人
 
 the quality of bending easily without breaking:不易折弯的品质
-the ability to be easily modified:
+the ability to be easily modified:易于修改的能力
 willingness to change or compromise:愿意改变或妥协
 flexibility |ˌflɛksɪˈbɪlɪti| Noun/:灵活性,弹性
 players gained improved flexibility in their ankles:players提高了脚踝的灵活性

@@ -36,7 +36,7 @@ detailed						详细的，精细的
 a formal indication of a choice between two or more candidates or courses of action, expressed typically through a ballot or a show of hands.:在两个或多个候选人或行动方案之间进行选择的正式指示，通常通过投票或举手表示。
 an act of giving or registering a vote:投票或登记投票的行为
 the choice expressed collectively by a body of electors or by a specified group:由选民团体或特定团体集体表达的选择
-the right to register a choice in an election.:
+the right to register a choice in an election.:在选举中登记选择的权利。
 give or register a vote:给予或登记投票
 cause (someone) to gain or lose a particular post or honour by means of a vote:使（某人）通过投票获得或失去特定职位或荣誉
 used to express a wish to follow a particular course of action:用于表示希望遵循特定的行动方针
@@ -58,7 +58,7 @@ everlasting |ˌɛvəˈlɑːstɪŋ| Adjective/Noun/:永恒的,永远
 the damned would suffer everlasting torment:该死的将遭受永远的折磨
 
 the action of building something, typically a large structure:建造某物的动作，通常是一个大型结构
-the industry of constructing buildings, roads, etc.:
+the industry of constructing buildings, roads, etc.:建造建筑物、道路等的行业
 the style or method used in the building of something:构建某物时使用的风格或方法
 a building or other structure:建筑物或其他结构
 the creation of an abstract entity:抽象实体的创建
@@ -122,7 +122,7 @@ we want to discourage children from smoking:我们希望阻止儿童吸烟
 
 a joining or merging of different parts or qualities in which the component elements are individually distinct:a连接或合并不同部分或质量，其中组成元素单独不同
 the process of combining different parts or qualities or the state of being combined:结合不同部分或品质的过程或结合的状态
-a particular arrangement of different elements:
+a particular arrangement of different elements:不同元素的特定排列
 (in sport) a coordinated and effective sequence of moves:（在运动中）协调有效的一系列动作
 denoting an object or process that unites different uses, functions, or ingredients:表示结合不同用途、功能或成分的对象或过程
 the joining of substances in a compound with new properties.:在具有新特性的化合物中加入物质。
@@ -152,7 +152,7 @@ giving cause for alarm, serious:引起恐慌，严重
 serious or solemn in manner or appearance:态度或外表严肃或庄重
 engrave (an inscription or image) on a surface:engrave（铭文或图像）在表面上
 fix (something) indelibly in the mind:fix（某事）在脑海中不可磨灭
-clean (a ship's bottom) by burning off the accretions and then tarring it:
+clean (a ship's bottom) by burning off the accretions and then tarring it:通过烧掉堆积物然后涂上焦油来清洁（船底）
 (as a direction) slowly, with solemnity:（作为方向）慢慢地，庄重地
 performed in a slow and solemn way:以缓慢而庄重的方式进行
 grave |ɡreɪv| Adjective/Adverb/Noun/Verb/:坟,墓穴,坟墓,墓,严重
@@ -186,7 +186,7 @@ force someone into (obedience or submission):force某人进入（服从或服从
 change a substance to (a different or more basic form):将物质更改为（不同或更基本的形式）
 present a problem or subject in (a simplified form):提出问题或主题（简化形式）
 convert a fraction to (the form with the lowest terms).:将分数转换为（最低项的形式）。
-cause to combine chemically with hydrogen:
+cause to combine chemically with hydrogen:导致与氢化学结合
 undergo or cause to undergo a reaction in which electrons are gained from another substance or molecule:经历或引起从另一种物质或分子中获得电子的反应
 restore (a dislocated part of the body) to its proper position by manipulation or surgery:restore（身体脱臼的部分）通过操作或手术恢复到正确位置
 besiege and capture (a town or fortress).:besiege并占领（城镇或堡垒）。
@@ -210,7 +210,6 @@ they received sentences of one year and eight months respectively:他们分别�
 
 the finger next to the thumb, the first or index finger.:拇指旁边的手指，食指或食指。
 forefinger |ˈfɔːˌfɪŋɡə| Noun/:食指,食指向
-:
 
 having or showing experience, knowledge, and good judgement:拥有或展示经验、知识和良好的判断力
 sensible or prudent:明智或谨慎
@@ -227,7 +226,7 @@ he did it this wise:他这样做很明智
 the part of a picture, scene, or design that forms a setting for the main figures or objects, or appears furthest from the viewer:图片、场景或设计中构成主要人物或物体背景的部分，或距离观看者最远的部分
 a less important or conspicuous position or function:一个不太重要或不显眼的位置或功能
 used in reference to tasks or processes that do not need input from the user:用于参考不需要用户输入的任务或流程
-low-intensity radiation from radioisotopes present in the natural environment.:
+low-intensity radiation from radioisotopes present in the natural environment.:自然环境中存在的放射性同位素的低强度辐射。
 unwanted signals, such as noise in the reception or recording of sound.:不需要的信号，例如接收或录制声音时的噪音。
 the circumstances or situation prevailing at a particular time or underlying a particular event:特定时间或特定事件背后的情况或情况
 a person's education, experience, and social circumstances:一个人的教育、经历和社会环境
@@ -252,7 +251,7 @@ the Red Cross symbol:红十字标志
 the limousine was another symbol of his wealth and authority:豪华轿车是他财富和权威的另一个象征
 
 the standard of something as measured against other things of a similar kind, the degree of excellence of something:某事物相对于其他同类事物的衡量标准，某事物的卓越程度
-general excellence of standard or level:
+general excellence of standard or level:标准或水平的一般优秀
 high social standing:社会地位高
 people of high social standing:社会地位高的人
 a distinctive attribute or characteristic possessed by someone or something:某人或某物所具有的独特属性或特征
@@ -358,7 +357,7 @@ a regular payment made by the state to people of or above the official retiremen
 a regular payment made during a person's retirement from an investment fund to which that person or their employer has contributed during their working life:一个人退休期间从该人或其雇主在其工作生涯中向其捐款的投资基金中支付的定期付款
 a regular payment made to a royal favourite or to an artist or scholar to enable them to carry on work of public interest or value.:定期支付给皇室宠儿或艺术家或学者，以使他们能够从事具有公共利益或价值的工作。
 dismiss someone from employment, typically because of age or ill health, and pay them a pension:解雇某人，通常是因为年龄或健康状况不佳，并向他们支付养老金
-discard something because it is too old or no longer wanted:
+discard something because it is too old or no longer wanted:丢弃一些东西因为它太旧或不再需要
 a small hotel or boarding house in France and other European countries.:法国和其他欧洲国家的小旅馆或寄宿公寓。
 pension |ˈpɛnʃn| Noun/Verb/:养老金,退休金,抚恤金
 men can draw a pension from the age of sixty-five:men可以从六十五岁开始领取养老金
@@ -369,7 +368,7 @@ the ability to see, hear, or become aware of something through the senses:通过
 awareness of something through the senses:通过感官感知事物
 the neurophysiological processes, including memory, by which an organism becomes aware of and interprets external stimuli.:包括记忆在内的神经生理过程，有机体通过这些过程意识到并解释外部刺激。
 the way in which something is regarded, understood, or interpreted:看待、理解或解释某事的方式
-intuitive understanding and insight:
+intuitive understanding and insight:直观的理解和洞察力
 perception |pəˈsɛpʃn| Noun/:洞察力,知觉,感知
 the normal limits to human perception:人类感知的正常极限
 the perception of pain:对疼痛的感知
@@ -399,7 +398,7 @@ dimensions, size:维度，大小
 the correct, attractive, or ideal relationship between one thing and another or between the parts of a whole:一件事与另一件事或一个整体的各个部分之间的正确、有吸引力或理想的关系
 adjust or regulate (something) so that it has a particular or suitable relationship to something else:调整或调节（某物），使其与其他事物具有特定或适当的关系
 proportion |prəˈpɔːʃn| Noun/Verb/:部分,比例,比重,占比
-the proportion of greenhouse gases in the atmosphere is rising:
+the proportion of greenhouse gases in the atmosphere is rising:大气中温室气体的比例正在上升
 the proportion of examination to coursework:考试与课程作业的比例
 the view of what constitutes perfect bodily proportions changes from one generation to the next:完美身材比例的观点在一代人之间发生了变化
 the room, despite its ample proportions, seemed too small for him:房间，尽管比例很大，但对他来说似乎太小了

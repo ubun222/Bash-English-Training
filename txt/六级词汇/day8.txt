@@ -10,7 +10,7 @@ prevalence				流行
 exert					施加，利用
 exert oneself			努力
 minor					较小的，未成年人
-tempting				引诱
+tempting				诱人的
 appropriation			挪用
 injustice				不公正
 irrelevant				无关紧要的，不相关的
@@ -49,7 +49,7 @@ goats can eat more or less any plant material:goats可以或多或少地吃任�
 cleaning materials:清洁材料
 he's not really Olympic material:he不是真正的奥林匹克材料
 his colonial experiences gave him material:his的殖民经历给了他素材
-a watchable band playing original material:awatchablebandplayingoriginalmaterial
+a watchable band playing original material:一个可观看的乐队演奏原始材料
 a piece of dark material:一块深色材料
 the material world:物质世界
 material living standards have risen:物质生活水平提高了
@@ -66,7 +66,7 @@ materials | 材料,素材
 the manner in which a person behaves, especially in a particular place or situation:一个人的行为方式，特别是在特定的地方或情况下
 the manner in which an organization or activity is managed or directed:管理或指导组织或活动的方式
 the action of leading, guidance:领导、引导的作用
-organize and carry out:
+organize and carry out:组织实施
 lead or guide (someone) to or around a particular place:leadorguid(someone)tooraroundaparticularplace
 transmit (a form of energy such as heat or electricity) by conduction:通过传导传输（一种能量形式，如热或电）
 direct the performance of (a piece of music or an orchestra, choir, etc.):directtheperformanceof(apieceofmusicoranorchestra,choir,etc.)
@@ -82,7 +82,7 @@ the concert is to be conducted by Sir Simon Rattle:音乐会由西蒙·拉特爵
 he conducted himself with the utmost propriety:he举止得体
 
 (often in names) a group of people organized for a joint purpose:（通常在名字中）为共同目的而组织的一群人
-a stable plant community including a characteristic group of dominant plant species:
+a stable plant community including a characteristic group of dominant plant species:一个稳定的植物群落，包括一个具有优势植物物种特征的群体
 a connection or cooperative link between people or organizations:人或组织之间的联系或合作联系
 the process or state of becoming a subordinate member of an organization:成为组织下属成员的过程或状态
 the linking of molecules through hydrogen bonding or other interaction short of full bond formation.:通过氢键或其他没有完全形成键的相互作用来连接分子。
@@ -95,7 +95,7 @@ a bog association containing ericaceous plants:a包含ericaceous植物的沼泽�
 he developed a close association with the university:he与大学建立了密切的联系
 the word bureaucracy has unpleasant associations:官僚这个词让人联想到不愉快
 there's nothing new in the association of fasting with spirituality:禁食与灵性的联系并没有什么新鲜事
-cases of cancer found in association with colitis:
+cases of cancer found in association with colitis:发现与结肠炎有关的癌症病例
 
 hit by accident when moving:移动时不小心撞到
 come into conflict or opposition:陷入冲突或对立
@@ -137,7 +137,7 @@ the minor leagues in baseball or American football:棒球或美式足球的小�
 a student's subsidiary subject or course:学生的附属科目或课程
 a minor term or premise.:一个次要的术语或前提。
 a small drab moth which has purplish caterpillars that feed on grass.:一只单调的小蛾子，它有以草为食的紫色毛毛虫。
-study as or qualify in a subsidiary subject at college or university:studyasorqualityinasubsidiarysubjectatcollegeoruniversity
+study as or qualify in a subsidiary subject at college or university:在学院或大学学习或获得附属学科的资格
 minor |ˈmʌɪnə| Adjective/Noun/Verb/:次要的,未成年人,次要,轻微的
 she requested a number of minor alterations:she要求进行一些小改动
 the E flat clarinet sounds a minor third higher than the written notes:降E单簧管听起来比书面音符高出小三度
@@ -146,7 +146,7 @@ Smith minor:史密斯未成年人
 the court would take account of the minor's wishes:法院会考虑未成年人的意愿
 Salinas was one of six teams in the minors:Salinas是六支未成年球队之一
 a minor in American Indian studies:美洲印第安人研究辅修
-a bid of two no trumps shows strength in the minors:abidoftwonotrumpsshowsstrengthintheminors
+a bid of two no trumps shows strength in the minors:两个没有王牌的出价显示未成年人的实力
 Clark had minored in Animal Science:Clark辅修动物科学
 
 appealing to or attracting someone, even if wrong or unwise:appealingtoorattractingsomeone,即使错误或不明智
@@ -207,7 +207,7 @@ the envelope of gases surrounding the earth or another planet:地球或其他行
 the air in any particular place:任何特定地方的空气
 a unit of pressure equal to mean atmospheric pressure at sea level, 101,325 pascals.:一个压力单位等于海平面的平均大气压力，101,325帕斯卡。
 the pervading tone or mood of a place, situation, or creative work:一个地方、情况或创造性工作的普遍基调或情绪
-a pleasurable and interesting mood:
+a pleasurable and interesting mood:愉快有趣的心情
 atmosphere |ˈatməsfɪə| Noun/:气氛,大气层,大气
 part of the sun's energy is absorbed by the earth's atmosphere:太阳的一部分能量被地球大气层吸收
 these beetles breed best in a damp atmosphere:这些甲虫在潮湿的环境中繁殖得最好
@@ -241,8 +241,8 @@ the aircraft completed the approach and touched down:飞机完成进近并着陆
 the northern approaches to London:theNorthern通往伦敦的道路
 
 
-a person or thing competing with another for the same objective or for superiority in the same field of activity:apersonorthingwithanothercompetingforthesameobjectiveorforsuperiorityinthesamefieldofactivity
-a person or thing that equals another in quality:apersonorthingthattakesanotherinquality
+a person or thing competing with another for the same objective or for superiority in the same field of activity:为了同一目标或在同一活动领域的优势而与另一人竞争的人或事物
+a person or thing that equals another in quality:质量相同的人或事物
 be or seem to be equal or comparable to:是或似乎等于或可比于
 rival |ˈrʌɪvl| Noun/Verb/:对手,竞争对手,比得上,媲美,敌手
 he has no serious rival for the job:他在这份工作上没有真正的竞争对手
@@ -318,7 +318,6 @@ a freshwater reptile related to the sea turtles and tortoises.:一种与海龟�
 any reptile of the order Chelonia, including the terrapins and tortoises.:任何龟目爬行动物，包括水龟和陆龟。
 a directional cursor in a computer graphics system which can be instructed to move around a screen.:计算机图形系统中的方向光标，可以指示它在屏幕上移动。
 turtle |ˈtəːtl| Noun/:龟,鳖,乌龟,甲鱼
-:
 
 expert skill or knowledge in a particular field:特定领域的专家技能或知识
 expertise |ˌɛkspəːˈtiːz| Noun/:专业知识,专长

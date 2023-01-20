@@ -43,11 +43,11 @@ a person of a particular kind, especially one who is important or distinctive in
 a shape which is defined by one or more lines in two dimensions (such as a circle or a triangle), or one or more surfaces in three dimensions (such as a sphere or a cuboid), either considered mathematically in geometry or used as a decorative design:由二维中的一条或多条线（例如圆形或三角形）或三维中的一个或多个表面（例如球体或长方体）定义的形状，可以在几何学中从数学角度考虑或使用16
 a diagram or illustrative drawing, especially in a book or magazine:adiagramorillustrationdrawing，尤指书籍或杂志中的
 (in skating) a movement or series of movements following a prescribed pattern and often beginning and ending at the same point.:（在滑冰中）遵循规定模式的一个动作或一系列动作，通常在同一点开始和结束。
-a pattern formed by the movements of a group of people, for example in country dancing, as part of a longer dance or display.:
+a pattern formed by the movements of a group of people, for example in country dancing, as part of a longer dance or display.:由一群人的动作形成的图案，例如在乡村舞中，作为较长舞蹈或表演的一部分。
 the external form or shape of something.:事物的外部形式或形状。
 a short succession of notes producing a single impression, a brief melodic or rhythmic formula out of which longer passages are developed.:ashortsuccessionofnotesproducingasingleimpression,一个简短的旋律或节奏公式，从中发展出更长的段落。
-the form of a syllogism, classified according to the position of the middle term.:
-have a significant part or role in a situation or process:haveasignificantpartorroleinasituationorprocess
+the form of a syllogism, classified according to the position of the middle term.:三段论的形式，根据中项的位置分类。
+have a significant part or role in a situation or process:在某种情况或过程中扮演重要角色或角色
 think, consider, or expect to be the case:think,consider,orexpecttobethecase
 (of a recent event or newly discovered fact) be perfectly understandable and only to be expected:（最近发生的事件或新发现的事实）完全可以理解并且只能预料
 calculate or work out (an amount or value) arithmetically:算术计算或算出（数量或价值）
@@ -68,7 +68,7 @@ the issue of nuclear policy figured prominently in the talks:核政策问题在�
 I figured that I didn't have much of a chance:我想我没有多少机会
 well, she supposed that figured:好吧，她猜想
 my accountant figured my tax wrong:myaccountant认为我的税有误
-varieties of this Cape genus are figured from drawings made there:
+varieties of this Cape genus are figured from drawings made there:这个开普属的变种是从那里制作的图纸中得出的
 the 11th-century silken dalmatic is figured with double-headed griffins:11世纪的丝绸达尔马提亚斑点蛇纹饰有双头狮鹫
 
 make (someone) afraid or anxious:让（某人）害怕或焦虑
@@ -153,7 +153,7 @@ a wooden or metal model from which a mould is made for a casting:用于制作铸
 a sample of cloth or wallpaper:一块布料或墙纸样品
 an example for others to follow:其他人效法的榜样
 decorate with a repeated design:重复设计装饰
-give a regular or intelligible form to:
+give a regular or intelligible form to:给出一个规则的或可理解的形式
 give something a form based on that of (something else):givesomethingaformbasedonthatof(其他东西)
 pattern |ˈpatn| Noun/Verb/:图案,形成,模式,格局
 a neat blue herringbone pattern:一个整洁的蓝色人字形图案
@@ -169,7 +169,7 @@ the clothing is patterned on athletes' wear:衣服上有运动员服装的图案
 
 the state or fact of being required:被要求的状态或事实
 the state of being unavoidable:不可避免的状态
-a situation enforcing a certain course of action:asituationenforceingacertaincourseofaction
+a situation enforcing a certain course of action:强制采取某种行动的情况
 an indispensable thing:不可或缺的东西
 the principle according to which something must be so, by virtue either of logic or of natural law.:根据逻辑或自然法则某事必须如此的原则。
 a condition that cannot be otherwise, or a statement asserting this.:一个不能以其他方式存在的条件，或断言这一点的声明。
@@ -215,7 +215,7 @@ people began to drift away:人开始渐行渐远
 I've just drifted into things because they were offered to me and they seemed like fun:我只是迷上了一些东西，因为它们被提供给我并且它们看起来很有趣
 I noticed my audience's attention drifting:我注意到观众的注意力在转移
 fallen leaves were starting to drift in the gutters:落叶开始在排水沟里飘
-there was a drift to the towns:therewasadrifttothetowns
+there was a drift to the towns:有一股漂流到城镇
 the pilot had not noticed any appreciable drift:飞行员没有注意到任何明显的漂移
 the drift towards a more market-oriented system of higher education:thedrifttoamoremarket-orientedsystemofhighereducation
 after so much drift, any expression of enthusiasm is welcome:经过这么多的漂移，欢迎任何热情的表达
@@ -369,11 +369,11 @@ slabs of concrete:混凝土板
 the precious English countryside may soon be concreted over:宝贵的英国乡村可能很快就会被具体化
 the post is concreted into the ground:柱子被混凝土固定在地上
 the juices of the plants are concreted upon the surface:植物的汁液凝结在表面
-concreting God into actual form of man:concretingGodintoactualformofman
+concreting God into actual form of man:将神具体化为人的实际形式
 
 a place, amenity, or piece of equipment provided for a particular purpose:为特定目的提供的场所、便利设施或设备
 a special feature of a service or machine, which offers the opportunity to do or benefit from something:服务或机器的特殊功能，它提供了做某事或从中受益的机会
-a natural ability to do or learn something well and easily:anaturalabilitytodoorlearnsomethingwellandeasily
+a natural ability to do or learn something well and easily:一种自然而然地做或学好某事的能力
 absence of difficulty or effort:没有困难或努力
 facility |fəˈsɪlɪti| Noun/:设施,便利
 cooking facilities:烹饪设施

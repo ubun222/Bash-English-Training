@@ -64,7 +64,7 @@ tame or train (a horse).:驯服或训练（一匹马）。
 (of the weather) change suddenly, especially after a fine spell:（天气）突然变化，尤其是在一段美好的时光之后
 (of a storm) begin violently:(风暴)猛烈地开始
 (of dawn or a day) begin as the sun rises:（黎明或一天）从太阳升起开始
-(of clouds) move apart and begin to disperse:
+(of clouds) move apart and begin to disperse:（云）分开并开始散去
 (of waves) curl over and dissolve into foam:（波浪的）卷曲溶解成泡沫
 (of a person's voice) falter and change tone, due to emotion:（人的声音）因情绪而颤抖和改变语气
 (of a boy's voice) change in tone and register at puberty:（男孩的声音）在青春期改变语气并注册
@@ -150,7 +150,7 @@ the bassoon plays G natural instead of A flat:thebassoon演奏自然G而不是�
 his bid of one heart was natural and positive:他的一颗心是自然而积极的
 she was a natural for television work:她是电视工作的天性
 perky musical accompaniment would seem a natural for this series:perky音乐伴奏对于这个系列来说似乎很自然
-colour for the summer is defined by the trend towards naturals:
+colour for the summer is defined by the trend towards naturals:夏季的颜色由自然色的趋势定义
 keep walking—just act natural:keepwalk——表现自然
 
 a character representing one or more of the sounds used in speech, any of the symbols of an alphabet:代表语音中使用的一种或多种声音的字符，字母表的任何符号
@@ -185,7 +185,7 @@ reaching a high or the highest degree, very great:达到高或最高学位，非
 not usual, exceptional:不常见，异常
 very severe or serious:非常严重或严重
 (of a person or their opinions) far from moderate, especially politically:（一个人或他们的意见）远非温和，尤其是在政治上
-denoting or relating to a sport performed in a hazardous environment and involving great risk:
+denoting or relating to a sport performed in a hazardous environment and involving great risk:表示或涉及在危险环境中进行并涉及巨大风险的运动
 furthest from the centre or a given point:离中心或给定点最远
 either of two abstract things that are as different from each other as possible:两个尽可能不同的抽象事物中的任何一个
 the highest or most extreme degree of something:某事最高或最极端的程度
@@ -205,7 +205,6 @@ the extreme of applying for poor relief:申请济贫的极端
 sadness or displeasure caused by the non-fulfilment of one's hopes or expectations:因未能实现自己的希望或期望而引起的悲伤或不快
 a person or thing that causes disappointment:让人失望的人或事
 disappointment |ˌdɪsəˈpɔɪntm(ə)nt| Noun/:失望
-:
 the job proved a disappointment:这份工作令人失望
 
 a room or area where food is prepared and cooked.:准备和烹饪食物的房间或区域。
@@ -237,7 +236,7 @@ for a consideration | 考虑,以供考虑
 
 
 a person or company involved in wholesale trade, especially one dealing with foreign countries or supplying goods to a particular trade:从事批发贸易的个人或公司，尤其是与外国打交道或向特定贸易供应货物的人或公司
-a retail trader:
+a retail trader:零售交易员
 a person who deals in something unpleasant:处理不愉快的事情的人
 (in historical contexts) a person involved in trade or commerce:（在历史背景下）从事贸易或商业的人
 a person who has a liking for a particular activity:喜欢某项活动的人
@@ -307,7 +306,7 @@ he had the broad-shouldered build of a natural athlete:他有着天生运动员�
 during the period of time preceding a particular event or time:在特定事件或时间之前的一段时间内
 in front of someone or something:在某人或某事面前
 in advance of the time when:提前的时间
-in preference to (doing a particular thing):
+in preference to (doing a particular thing):优先于（做某事）
 during the period of time preceding (a particular event or time):在之前的一段时间内（特定事件或时间）
 in front of:前面
 in front of and required to answer to (a court of law, tribunal, or other authority):在（法院、法庭或其他机构）面前并被要求回答
@@ -340,7 +339,7 @@ a group of one or more parents and their children living together as a unit:一�
 a group of people related by blood or marriage:一群有血缘或婚姻关系的人
 the children of a person or couple being discussed:正在讨论的一个人或一对夫妇的孩子
 a local organizational unit of the Mafia or other large criminal group.:黑手党或其他大型犯罪集团的当地组织单位。
-all the descendants of a common ancestor:
+all the descendants of a common ancestor:一个共同祖先的所有后代
 a group of peoples from a common stock.:一群来自普通股的人。
 a group of related things:一组相关的东西
 a principal taxonomic category that ranks above genus and below order, usually ending in -idae (in zoology) or -aceae (in botany):一个主要分类类别，排名高于属和低于目，通常以-idae（动物学）或-aceae（植物学）结尾
@@ -398,11 +397,9 @@ I wormed her over a course of three weeks:我在三周的时间里驱使她
 
 the owner and manager of a shop.:商店的所有者和经理。
 shopkeeper |ˈʃɒpˌkiːpə| Noun/:店主,掌柜,掌柜的
-:
 
 a marriage ceremony, especially considered as including the associated celebrations.:婚礼仪式，特别被认为包括相关的庆祝活动。
 wedding |ˈwɛdɪŋ| Noun/:,结婚
-:
 
 relating to ancient Greek or Latin literature, art, or culture:与古希腊或拉丁文学、艺术或文化有关
 (of art or architecture) influenced by ancient Greek or Roman forms or principles:（艺术或建筑）受古希腊或罗马形式或原则的影响
@@ -420,7 +417,7 @@ an amount of something left over when requirements have been met, an excess of p
 an excess of income or assets over expenditure or liabilities in a given period, typically a financial year:在特定时期（通常是一个财政年度）内，收入或资产超过支出或负债
 the excess value of a company's assets over the face value of its stock.:公司资产超过其股票面值的价值。
 more than what is needed or used, excess:超过需要或使用的，多余的
-denoting a shop selling excess or outdated military equipment or clothing:
+denoting a shop selling excess or outdated military equipment or clothing:表示出售多余或过时的军事装备或服装的商店
 surplus |ˈsəːpləs| Adjective/Noun/:,盈余,过剩
 exports of food surpluses:粮食剩余出口
 a trade surplus of $1,395 million:13.95亿美元的贸易顺差
@@ -436,7 +433,7 @@ a labor surplus | 劳动力过剩,剩余劳动力
 (of a slope, flight of stairs, or angle) rising or falling sharply, almost perpendicular:（斜坡、楼梯或角度）急剧上升或下降，几乎垂直
 (of a rise or fall in an amount) very large or rapid:（数量的上升或下降）非常大或迅速
 (of a price or demand) not reasonable, excessive:（价格或需求的）不合理的，过度的
-(of a claim or account) exaggerated or incredible:
+(of a claim or account) exaggerated or incredible:（索赔或帐户）夸大或难以置信
 a steep mountain slope:陡峭的山坡
 soak (food or tea) in water or other liquid so as to extract its flavour or to soften it:将（食物或茶）浸泡在水或其他液体中，以提取其风味或使其软化
 soak or saturate (cloth) in water or other liquid:在水或其他液体中浸泡或饱和（布）
@@ -476,7 +473,7 @@ a thread or filament from which a vegetable tissue, mineral substance, or textil
 a substance formed of fibres:一种由纤维构成的物质
 a threadlike structure forming part of the muscular, nervous, connective, or other tissue in the human or animal body:一种线状结构，构成人体或动物体内肌肉、神经、结缔组织或其他组织的一部分
 strength of character:性格的力量
-dietary material containing substances such as cellulose, lignin, and pectin, that are resistant to the action of digestive enzymes.:
+dietary material containing substances such as cellulose, lignin, and pectin, that are resistant to the action of digestive enzymes.:含有纤维素、木质素和果胶等能抵抗消化酶作用的物质的膳食材料。
 fibre |ˈfʌɪbə| Noun/:纤维,光纤
 the basket comes lined with natural coco fibres:篮子内衬天然椰子纤维
 ordinary synthetics don't breathe as well as natural fibres:普通合成纤维的透气性不如天然纤维

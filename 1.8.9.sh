@@ -786,6 +786,7 @@ if [[  "$Json" -eq 1  ]] ;then
 for S in $(seq 1 $COLUMN);do
 strss="$strss-"
 done
+strss="$(printf "\033[2m${strss}\033[0m")"
 while read line ;do
 if  [[  "${line}" != ""  ]] ;then
 printf 加载"$line"\\n
@@ -1186,7 +1187,9 @@ printf "\n$enter\033[K" && bool="s"
 break
 elif [[  "$abool"  ==  "j"  ]] || [[  "$abool"  ==  "J"  ]];then
 #ishprt "\n\r"
-printf "\n$enter\033[K" && bool="j"
+printf "\n$enter\033[K" && bool="$abool"
+pprep "$pureanswerd"
+#hide=1
 break
 elif [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]] || [[  $abool == ""  ]] && [[  $ttf == "0"  ]] ;then
 #printf ${spaces}${spaces# }
@@ -1241,9 +1244,10 @@ pprep "$pureanswerd"
 #[[  "$ish" == "y"    ]] && sleep 0.003
 #printf "\n"
 #printf "\033[0m"
-elif [[ $bool = 'j' ]]  ; then
+elif [[ $bool = 'j' ]] || [[ $bool = 'J' ]]  ; then
 #printf "\033[1A"
 #printf "%s\n\033[0m" "$(echo $pureanswer | tr '/' ' ')"
+[[ $bool = 'J' ]] && RC=0
 jrow=$(eval "$allif")
 eval thejs=\"\${js$jrow}\"
 jsons="$(printf  "$thejs" | grep ^"\[\"$answer1")"
@@ -1265,7 +1269,7 @@ rei="$((rei+1))"
 done
 #printf "$re0"
 if [[  "$res" -gt 0  ]] ;then
-printf "\033[2m单词"\\033[0m$answer1\\033[2m"有"\\033[0m$res\\033[2m"个结果\n"
+[[  "$res" -gt 1  ]] && printf "\033[2m单词"\\033[0m$answer1\\033[2m"有"\\033[0m$res\\033[2m"个查询结果\n"
 jsi=0
 #ress=0
 while [[  "$jsi" -lt "$res"  ]];do
@@ -1307,7 +1311,7 @@ catalsl="$(echo "$catals" | wc -l)"
 #catalsl="$((catalsl-1))"
 #ress=$((ress+1))
 printf "%s" "${strss}"
-printf "\033[2m"按空格选择"$answer1"结果"$((jsi+1))"的第"$((ress))"个词性\\n
+printf "\033[2m"按空格选择"$answer1"的第"$((ress))"个词性\\n
 while read inline ;do
 echo  "    $inline"
 done << EOF
@@ -1361,7 +1365,7 @@ eval thexical=\"\$entry${jsi}_$((torder-1))\"
 #printf "$thexical"
 deri="$(printf "$thexical" | grep -e "\"derivatives\",0,\"text\"" | awk -F"	" '{printf $2}' )"
 phra="$(printf "$thexical" | grep -e "\"phrases\"" | awk -F"	" '{printf $2}')"
-printf "\033[0m$answer1\033[2m"结果"\033[0m$((jsi+1))\033[2m"的"\033[0m$thecate\033[2m""词性:""\033[0m"\\n
+printf "\033[0m$answer1\033[2m"的"\033[0m$thecate\033[2m""词性:""\033[0m"\\n
 [[  "$deri" != ""  ]] && printf 单词变形:"\033[3m""$deri""\033[0m"\\n
 [[  "$phra" != ""  ]] && printf 短语:"\033[3m""$phra""\033[0m"\\n | sed "s/\"\"/,/g" && read -n1
 
@@ -1422,17 +1426,17 @@ thesdex="$(printf "$subs" | grep "\"shortDefinitions\"," | awk -F"	" '{print $2}
 syno="$(printf "$subs" | grep "\"synonyms\"," | awk -F"	" '{printf $2}' | sed "s/\"\"/,/g" )"
 
 
-[[  "$thedex" != ""  ]] && printf 子释义"$vsnese": && prepn "$thedex" 8
+[[  "$thedex" != ""  ]] && printf 释义"$vsnese"."$((sdex+1))": && prepn "$thedex" 8
 [[  "$?" -eq 22  ]] && return 0
-[[  "$thee" != ""  ]] && printf 子例句"$vsnese": && prepn "$thee" 8
+[[  "$thee" != ""  ]] && printf 例句"$vsnese"."$((sdex+1))": && prepn "$thee" 8
 [[  "$?" -eq 22  ]] && return 0
-[[  "$thenote" != ""  ]] && printf 子笔记"$vsnese":"\033[3m""$thenote""\033[0m"\\n
-[[  "$thesdex" != ""  ]] && printf 子短释"$vsnese": && prepn "$thesdex" 8
+[[  "$thenote" != ""  ]] && printf 笔记"$vsnese"."$((sdex+1))":"\033[3m""$thenote""\033[0m"\\n
+[[  "$thesdex" != ""  ]] && printf 短释"$vsnese"."$((sdex+1))": && prepn "$thesdex" 8
 [[  "$?" -eq 22  ]] && return 0
-[[  "$syno" != ""  ]] && printf 子同义"$vsnese":"\033[3m""$syno""\033[0m"\\n
+[[  "$syno" != ""  ]] && printf 同义"$vsnese"."$((sdex+1))":"\033[3m""$syno""\033[0m"\\n
 
 else
-[[  "$sdex" -ne 0   ]] && printf "\033[2m$answer1"结果"$((jsi+1))"的词性"$thecate"第"$((senses+1))"个释义有"$sdex"个子释义"\033[0m"\\n
+[[  "$sdex" -ne 0   ]] && printf "\033[2m$answer1"的词性"$thecate"第"$((senses+1))"个释义有"$sdex"个子释义"\033[0m"\\n
 break
 fi
 sdex=$((sdex+1))
@@ -1452,7 +1456,7 @@ done
 #continue
 else
 ress=$((ress+1))
-printf "\033[2m""$answer1"第"$((jsi+1))"个结果的词性"$thecate"共有"${vsnese}"个释义\\n"\033[0m"
+printf "\033[2m""$answer1"词性"$thecate"共有"${vsnese}"个释义\\n"\033[0m"
 break
 fi
 senses=$((senses+1))
@@ -1475,7 +1479,7 @@ done
 
 fi
 #[[  "$ish" == "y"    ]] && sleep 0.003
-pprep "$pureanswerd"
+[[  "$abool"  !=  "j"  ]] && [[  "$abool"  !=  "J"  ]] && pprep "$pureanswerd"
 #ishprt "\n"
 #[[  "$ish" == "y"    ]] && sleep 0.003
 else
@@ -1763,6 +1767,7 @@ done
 #passs=
 #whereb="${pos1/#*;/""}"
 if ( [[  "$ascanf" != "."  ]] && [[  "$ascanf" != ""  ]] && [[  $whereb -eq $((COLUMN-2))  ]] ) || ([[  "$ascanf" != "."  ]] && [[  "$ascanf" != ""  ]] && [[  $((whereb)) -ne $((COLUMN-1)) ]] && [[  $reg2 == " \b\033[1C"  ]] ) || ([[  "$ascanf" != "."  ]] && [[  "$ascanf" != ""  ]] && [[  $now4 -eq 1  ]]  &&  [[  $wherec -eq $COLUMN  ]]) && now4= ;then
+#needo=
 whereb="${pos1/#*;/""}" && [[  $whereb -eq $((COLUMN))  ]] && ascanf="~$ascanf" && needo=1
 else
 whereb="${pos1/#*;/""}"
@@ -1772,7 +1777,7 @@ while true;do
 printf  "${ascanf}"  
 #stty -echo
 if [[  "$auto" -eq 1  ]]  ;then
-[[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
+[[  "$vback" -ne "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
 stty -echo
 fi
 
@@ -1788,9 +1793,19 @@ now=
 #whereb="${pos1/#*;/""}"
 now4=
 wherec="${pos2/#*;/""}"
+if [[  ${vback} -eq "1"   ]] &&  [[   "$which" == "zh"  ]] ;then
+#echo 22222
+#echo $wherec
+[[  "$needo" -ne 1  ]] && reg=$((COLUMN))
+[[  "$needo" -eq 1  ]] && reg=$((COLUMN-3))
+#[[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
+[[  $wherec -eq 1  ]]  && printf %s"\r\033[1A\033[${reg}C" "" && now2=1
+break
+# now2=1
+fi
 if [[  "$pos1" != "$pos2"  ]] ;then
 [[  $whereb -eq $((COLUMN-1))  ]] && [[  "$ascanf" == "."  ]] && now4=1 
-if [[   "$which" == "zh"  ]] && [[  "$ascanf" !=  "."   ]]  &&  [[  "$vback" != "1"  ]]  ; then
+if [[   "$which" == "zh"  ]] && [[  "$ascanf" !=  "."   ]]  &&  [[  "$vback" -ne "1"  ]]  ; then
 #whereb="${pos1/#*;/""}"
 #[[  $whereb -eq $((COLUMN  ]] &&  [[  $wherec -eq 3  ]] && needo=1  && break
 Pos="$((wherec-whereb))"
@@ -1814,16 +1829,7 @@ fi
 #if [[  ${vback} -eq "1"   ]] ; then
 #sleep 0.3
 #echo
-if [[  ${vback} -eq "1"   ]] &&  [[   "$which" == "zh"  ]] ;then
-#echo 22222
-#echo $wherec
-[[  "$needo" -ne 1  ]] && reg=$((COLUMN))
-[[  "$needo" -eq 1  ]] && reg=$((COLUMN-3))
-#[[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
-[[  $wherec -eq 1  ]]  && printf %s"\r\033[1A\033[${reg}C" "" && now2=1
-break
-# now2=1
-fi
+
 fi
 done
 fi
@@ -2200,7 +2206,7 @@ Lb=0
 zscanf=
 #printf $enter"$question"\\033[3m\ \<───\>\ 
 
-[[  "$windows" == "y"  ]] && bscanf="$B" && waiting=1
+[[  "$windows" == "y"  ]] && bscanf="$B" && waiting=1 
 
 
 while true;do

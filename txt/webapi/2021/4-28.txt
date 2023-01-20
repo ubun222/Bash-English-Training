@@ -89,11 +89,11 @@ an act of surrendering to a hold by one's opponent.:向对手的控制投降的�
 humility; meekness:谦虚；9
 the action of presenting a proposal, application, or other document for consideration or judgement:提交提案、申请或其他文件以供考虑或判断的行为
 a proposal, application, or other document presented for consideration or judgement:提交供考虑或判断的提案、申请或其他文件
-a proposition or argument presented by counsel to a judge or jury:
+a proposition or argument presented by counsel to a judge or jury:律师向法官或陪审团提出的提议或论点
 submission |səbˈmɪʃ(ə)n| Noun/:提交
 they were forced into submission:他们被迫屈服
 servile flattery and submission:servile奉承和屈服
-reports should be prepared for submission at partners' meetings:
+reports should be prepared for submission at partners' meetings:应准备报告以提交合作伙伴会议
 a written submission to the UN:提交给联合国的书面意见
 the judge halted the trial at the end of the prosecution's submissions:法官在控方提交的文件结束时停止了审判
 
@@ -101,7 +101,7 @@ conduct the policy, actions, and affairs of (a state, organization, or people) w
 control, influence, or regulate (a person, action, or course of events):控制、影响或调节（一个人、一个行为或一个事件过程）
 conduct oneself, especially with regard to controlling one's emotions:做自己，尤其是控制自己的情绪
 serve to decide (a legal case).:serve决定（法律案件）。
-(of a word) require that (another word or group of words) be in a particular case:
+(of a word) require that (another word or group of words) be in a particular case:（一个词的）要求（另一个词或一组词）在特定情况下
 govern |ˈɡʌv(ə)n| Verb/:治理,治
 he was incapable of governing the country:他没有能力治理国家
 the future of Jamaica will be governed by geography not history:牙买加的未来将受地理而非历史的支配
@@ -164,7 +164,6 @@ she began speaking, without preliminaries:she开始发言，没有预习
 an authoritative warning or order.:权威警告或命令。
 a judicial order restraining a person from beginning or continuing an action threatening or invading the legal right of another, or compelling a person to carry out a certain act, e.g. to make restitution to an injured party.:禁止某人开始或继续威胁或侵犯他人合法权利的行动，或强迫某人进行某种行为的司法命令，例如向受害方作出赔偿。
 injunction |ɪnˈdʒʌŋ(k)ʃ(ə)n| Noun/:禁令,强制令
-:
 
 someone who competes with or opposes another in a contest, game, or argument:在竞赛、游戏或争论中与他人竞争或反对的人
 a person who disagrees with or resists a proposal or practice:不同意或反对建议或做法的人
@@ -196,7 +195,7 @@ all too often, our recruitment processes are biased towards younger candidates:�
 bias the valve so that the anode current is normally zero or small:偏置阀门，使阳极电流通常为零或很小
 
 have a mutual relationship or connection, in which one thing affects or depends on another:具有相互关系或联系，其中一件事影响或依赖另一件事
-establish a mutual relationship or connection between:
+establish a mutual relationship or connection between:之间建立相互关系或联系
 each of two or more related or complementary things:两个或多个相关或互补的事物中的每一个
 correlate |ˈkɒrələt| Noun/Verb/:相关,关联
 the study found that success in the educational system correlates highly with class:该研究发现，教育系统的成功与班级高度相关
@@ -355,7 +354,7 @@ a thin slice of plant or animal tissue prepared for microscopic examination.:准
 divide into sections:分成几个部分
 separate an area from a larger one:separate一个区域和一个更大的区域
 cut (animal or plant tissue) into thin slices for microscopic examination:cut（动物或植物组织）成薄片进行显微镜检查
-divide by cutting:dividebycut
+divide by cutting:切分
 commit (someone) compulsorily to a psychiatric hospital in accordance with a section of a mental health act:commit（某人）根据心理健康法案的一部分强制送往精神病院
 section |ˈsɛkʃ(ə)n| Noun/Verb/:部分,切断,部
 I unscrewed every section of copper pipe, from the roof tank to the hot-water cylinder:我把从屋顶水箱到热水缸的每一节铜管都拧开了
@@ -367,7 +366,7 @@ a GHQ Signals Section:aGHQ信号部分
 nails of round section:圆形部分的钉子
 a section of face, showing the position of the organs of speech:a截面，显示发音器官的位置
 she began to section the grapefruit:she开始切西柚
-parts of the curved balcony had been sectioned off with wrought-iron grilles:
+parts of the curved balcony had been sectioned off with wrought-iron grilles:弧形阳台的一部分被锻铁格栅隔开
 the specimens were embedded and serially sectioned:标本被嵌入并连续切片
 it is common veterinary practice to section the nerves to the hoof of a limping horse:将神经切断到一瘸一拐的马蹄上是兽医的常见做法
 should she be sectioned and forced back into hospital?:她应该被分割并被迫回医院吗？
@@ -411,7 +410,7 @@ a counsellor at the Russian embassy:a俄罗斯大使馆参赞
 a particular part or feature of something:某物的特定部分或特征
 a particular way in which something may be considered:可以考虑某事的特定方式
 a particular appearance or quality:特定的外观或质量
-the positioning of a building or other structure in a particular direction:
+the positioning of a building or other structure in a particular direction:建筑物或其他结构在特定方向的定位
 the side of a building facing a particular direction:建筑物面向特定方向的一侧
 any of a number of particular angular relationships between one celestial body or point on the ecliptic and another:黄道上的一个天体或点与另一个天体或点之间的许多特定角度关系中的任何一个
 a category or form which expresses the way in which time is denoted by a verb:a类别或形式，表示动词表示时间的方式
@@ -434,7 +433,7 @@ the condition in which things are happening or being done:事情发生或完成�
 busy or vigorous action or movement:忙碌或剧烈的动作或运动
 a thing that a person or group does or has done:一个人或团体所做或已经做过的事情
 a recreational pursuit or pastime:娱乐性追求或消遣
-a thermodynamic quantity representing the effective concentration of a particular component in a solution or other system, equal to its concentration multiplied by an activity coefficient.:
+a thermodynamic quantity representing the effective concentration of a particular component in a solution or other system, equal to its concentration multiplied by an activity coefficient.:表示溶液或其他系统中特定成分有效浓度的热力学量，等于其浓度乘以活度系数。
 activity |akˈtɪvɪti| Noun/:eaning,sense,fun,interest,connotation,activity
 there has been a sustained level of activity in the economy:经济活动保持持续水平
 the room was a hive of activity:房间很热闹
@@ -458,10 +457,9 @@ the introduction of a national lottery:国家彩票的推出
 you can appeal, but the procedure is something of a lottery:你可以上诉，但程序有点像彩票
 
 the least or smallest amount or quantity possible, attainable, or required:可能的、可达到的或要求的最少或最小的数量或数量
-the lowest or smallest amount of a varying quantity (e.g. temperature) allowed, attained, or recorded:
+the lowest or smallest amount of a varying quantity (e.g. temperature) allowed, attained, or recorded:允许、达到或记录的变化量（例如温度）的最低或最小量
 smallest or lowest:最小或最低
 minimum |ˈmɪnɪmə| Adjective/Noun/:最低限度,最低限度的
-:
 clients with a minimum of £500,000 to invest:clients至少要投资500,000英镑
 this can be done with the minimum amount of effort:这可以用最少的努力完成
 
@@ -495,7 +493,7 @@ a person who publicly supports or recommends a particular cause or policy:公开
 a person who puts a case on someone else's behalf:代表他人立案的人
 a professional pleader in a court of justice:法庭上的专业辩护人
 a barrister.:大律师。
-publicly recommend or support:
+publicly recommend or support:公开推荐或支持
 advocate |ˈadvəkət| Noun/Verb/:提倡,倡导者,主张,主
 he was an untiring advocate of economic reform:他是经济改革的不懈倡导者
 care managers can become advocates for their clients:care经理可以成为客户的拥护者
@@ -529,7 +527,7 @@ a national newspaper as opposed to a local one:一份全国性报纸，而不是
 a nationwide competition or tournament:全国性比赛或锦标赛
 national |ˈnaʃ(ə)n(ə)l| Adjective/Noun/:国民,国家的
 this policy may have been in the national interest:这个政策可能符合国家利益
-plans for a national art library:
+plans for a national art library:国家艺术图书馆的计划
 a German national:一个德国国民
 the inability of the local press to compete with the nationals for news:当地媒体无法与国民竞争新闻
 she finished 16th at the nationals that year:她在当年的全国赛中获得第16名
@@ -557,7 +555,7 @@ give advice to (someone):给（某人）建议
 give professional help and advice to (someone) to resolve personal or psychological problems:向（某人）提供专业帮助和建议以解决个人或心理问题
 recommend (a course of action):recommend（行动方案）
 counsel |ˈkaʊns(ə)l| Noun/Verb/:法律顾问,律师
-with wise counsel a couple can buy a home that will be appreciating in value:
+with wise counsel a couple can buy a home that will be appreciating in value:在明智的建议下，一对夫妇可以购买升值的房屋
 he took much counsel with him:他和他商量了很多
 the counsel for the defence:辩护律师
 careers officers should counsel young people in making their career decisions:careers官员应该为年轻人的职业决策提供咨询

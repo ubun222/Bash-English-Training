@@ -96,7 +96,7 @@ check oneself | 检查自己,自我检查
 
 containing or relating to alcohol:含有或与酒精有关的
 caused by the excessive consumption of alcohol:过量饮酒所致
-affected with alcoholism:
+affected with alcoholism:受酒精中毒影响
 a person affected with alcoholism.:一个受酒精中毒影响的人。
 alcoholic |ˌalkəˈhɒlɪk| Adjective/Noun/:酒鬼,含酒精的
 beer is their favourite alcoholic drink:beer是他们最喜欢的酒精饮料
@@ -124,7 +124,6 @@ a dress that buttoned down the front:一件前面扣子的连衣裙
 
 a female shop assistant.:一位女店员。
 salesgirl |ˈseɪlzɡəːl| Noun/:女售货员,店员
-:
 
 cook (food, especially meat) by prolonged exposure to heat in an oven or over a fire:cook（食物，尤其是肉类）在烤箱或火上长时间暴露在热源中
 (of food) be cooked by roasting:Harold烤得很棒2
@@ -184,7 +183,7 @@ concede (something) as valid or deserved in respect of (someone):concede（某�
 adjudicate that (a goal) has been legitimately scored:判定（进球）已合法进球
 state or put forward (information or argument):state或提出（信息或论点）
 pledge or offer as a guarantee:pledge或提供作为保证
-say to (someone) as an excuse or inappropriate answer:
+say to (someone) as an excuse or inappropriate answer:作为借口或不恰当的回答对（某人）说
 deliver (a judgement) authoritatively:deliver（判断）权威
 predict that (an activity or relationship) will last no longer than (a specified time):预测（一项活动或关系）将持续不超过（指定时间）
 tell what one knows:告诉一个人知道什么
@@ -213,7 +212,7 @@ I gave a bow:我鞠了一躬
 he gave a gasp:他倒吸一口凉气
 he gave no sign of life:他没有生命迹象
 a dinner given in honour of an American diplomat:为纪念一位美国外交官而举办的晚宴
-milk is sometimes added to give a richer cheese:
+milk is sometimes added to give a richer cheese:有时添加牛奶以提供更丰富的奶酪
 some solvents give off toxic fumes:一些溶剂会散发出有毒烟雾
 give him his due:给他应得的
 Gooch was given out, caught behind:Gooch被送出去，被追到后面
@@ -234,7 +233,7 @@ give in | 让步,屈服
 
 
 a mark left on the skin or within body tissue where a wound, burn, or sore has not healed completely and fibrous connective tissue has developed:在皮肤或身体组织内留下的痕迹，伤口、烧伤或疼痛尚未完全愈合且纤维结缔组织已形成
-a lasting effect of grief, fear, or other emotion left on a person's character by an unpleasant experience:
+a lasting effect of grief, fear, or other emotion left on a person's character by an unpleasant experience:不愉快的经历对一个人的性格留下的悲伤、恐惧或其他情绪的持久影响
 a mark left on something following damage of some kind:某种损坏后在某物上留下的标记
 a mark left at the point of separation of a leaf, frond, or other part from a plant:叶子、叶或其他部分与植物的分离点留下的标记
 mark with a scar or scars:mark有伤疤或伤疤
@@ -271,7 +270,6 @@ the company's fortunes are founded on its minerals business:公司的财富建�
 
 a square of cotton or other finely woven material intended for wiping one's nose.:一块用于擦鼻子的棉花或其他精细编织的材料。
 handkerchief |ˈhaŋkətʃiːvz| Noun/:手帕,帕子
-:
 
 an asset or object bought or obtained, typically by a library or museum:通常由图书馆或博物馆购买或获得的资产或物品
 a purchase of one company by another:一家公司被另一家公司收购
@@ -354,7 +352,6 @@ many patients in the hospital were more ill than she was:医院里的很多病�
 a country in North America, with extensive coastlines on the Gulf of Mexico and the Pacific Ocean, bordered by the US to the north, population 127,000,000 (estimated 2015), official language, Spanish, capital, Mexico City.:北美的一个国家，在墨西哥湾和太平洋上拥有广阔的海岸线，北部与美国接壤，人口127,000,000（估计2015年），官方语言，西班牙语，首都，墨西哥城。
 a state of central Mexico, to the west of Mexico City, capital, Toluca de Lerdo.:墨西哥中部的一个州，位于墨西哥城以西，首都托卢卡德莱尔多。
 Mexico |ˈmɛksɪkəʊ| Noun/:墨西哥,美国
-:
 
 routine work involving written documents such as reports or letters:日常工作涉及书面文件，如报告或信件
 written documents:书面文件
@@ -383,7 +380,6 @@ utterly destroy, confound, or defeat:彻底摧毁、迷惑或失败
 give concavity to (a wheel) by tensioning the spokes:通过张紧辐条使（车轮）具有凹度
 dish |dɪʃ| Noun/Verb/:,说闲话,碟,菜,盘
 an ovenproof dish:一个耐热盘
-:
 fresh fish dishes:鲜鱼料理
 I left the children to do the dishes:我让孩子们洗碗
 the cats' water dish:猫的水盘
@@ -430,7 +426,7 @@ she turned the cold tap on:她打开冷水龙头
 those taps produced hundreds of hours of recordings:那些水龙头产生了数百小时的录音
 several barrels had been tapped to celebrate old victories:several桶已被挖掘来庆祝旧的胜利
 in the cellars of the monasteries the butlers were tapping new and old ale:在修道院的地窖里，管家们正在喝新旧啤酒
-clients from industry seeking to tap Edinburgh's resources of expertise:
+clients from industry seeking to tap Edinburgh's resources of expertise:寻求利用爱丁堡专业知识资源的行业客户
 he considered whom he could tap for information:他考虑了他可以向谁寻求信息
 the telephones were tapped by the state security police:电话被国家安全警察窃听
 on most vices, the metal jaws are drilled and tapped to accept screws:在大多数虎钳上，金属钳口经过钻孔和攻丝以接受螺钉
@@ -521,7 +517,6 @@ I am quite picky when it comes to bedding someone:我对搭讪很挑剔
 
 a country in north-eastern Africa, on the Mediterranean Sea, population 91,500,000 (estimated 2015), capital, Cairo, official language, Arabic.:一个位于非洲东北部的国家，位于地中海沿岸，人口91,500,000（估计2015年），首都开罗，官方语言为阿拉伯语。
 Egypt |ˈiːdʒɪpt| Noun/:埃及,埃
-:
 
 an ornamental chain or string of beads, jewels, or links worn round the neck:一条装饰链或串珠、珠宝或挂在脖子上的链节
 (in South Africa) a tyre doused or filled with petrol, placed round a victim's neck and set alight.:（在南非）将一个轮胎浸满或装满汽油，套在受害者的脖子上然后点燃。
@@ -539,7 +534,7 @@ any of various forms of team game involving kicking (and in some cases also hand
 the playing of football, especially in a stylish and entertaining way:踢足球，尤其是时尚有趣的方式
 a ball used in football, either round (as in soccer) or oval (as in rugby and American football) and typically made of leather or plastic and filled with compressed air.:足球中使用的球，可以是圆形（如足球）或椭圆形（如橄榄球和美式足球），通常由皮革或塑料制成并充满压缩空气。
 a topical issue that is the subject of continued argument or controversy:一个持续争论或争议的话题
-a briefcase containing authentication codes and other items that allow the US president to authorize a nuclear strike at any time:
+a briefcase containing authentication codes and other items that allow the US president to authorize a nuclear strike at any time:一个包含验证码和其他物品的公文包，允许美国总统随时授权核打击
 football |ˈfʊtbɔːl| Noun/:足球,橄榄球
 he started playing football when he was 5:他从5岁开始踢足球
 his team played some impressive football:他的球队踢出了令人印象深刻的足球

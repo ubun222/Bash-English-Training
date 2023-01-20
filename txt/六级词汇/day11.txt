@@ -67,7 +67,6 @@ a large enclosed shopping area from which traffic is excluded.:一个封闭的�
 a sheltered walk or promenade.:有遮蔽的步道或长廊。
 an alley used for pall-mall.:一条用于pall-mall的小巷。
 mall |mal| Noun/:购物中心,商场
-:
 
 (in relation to illness) in a persistent and recurring way:（与疾病有关）以持续和反复出现的方式
 in a long-lasting or habitual and problematic way:以一种持久的或习惯性的和有问题的方式
@@ -97,7 +96,6 @@ the temptation to give up was compelling:放弃的诱惑令人信服
 
 to a great extent, extremely:很大程度上，非常
 immensely |ɪˈmɛnsli| Adverb/:非常,极大地
-:
 
 a group of living organisms consisting of similar individuals capable of exchanging genes or interbreeding. The species is the principal natural taxonomic unit, ranking below a genus and denoted by a Latin binomial, e.g. Homo sapiens.:一组由能够交换基因或杂交的相似个体组成的生物体。种是主要的自然分类单位，排在属之下，用拉丁二项式表示，例如智人。
 a group subordinate to a genus and containing individuals agreeing in some common attributes and called by a common name.:从属于一个属的一个群体，包含同意某些共同属性并以共同名称命名的个体。
@@ -113,7 +111,7 @@ a new molecular species:一个新的分子物种
 a sustained fight between large organized armed forces:大规模有组织的武装部队之间的持续战斗
 a lengthy and difficult conflict or struggle:一场漫长而艰难的冲突或斗争
 struggle tenaciously to achieve or resist something:struggle顽强地实现或抗拒某事
-engage in a fight or struggle against:engageinafightorstruggleagainst
+engage in a fight or struggle against:与
 battle |ˈbatl| Noun/Verb/:战斗,战
 the battle lasted for several hours:战斗持续了几个小时
 the battle against ageing:抗衰老之战
@@ -140,7 +138,7 @@ wrong, incorrect:错误的，不正确的
 erroneous |ɪˈrəʊnɪəs| Adjective/:,错误的,有错误的
 employers sometimes make erroneous assumptions:employers有时会做出错误的假设
 
-a separate section or part of a structure or container:aseparatesectionorpartofastructureorcontainer
+a separate section or part of a structure or container:结构或容器的单独部分或部分
 a division of a railway carriage marked by partitions:用隔板标记的铁路车厢的一个部分
 a division of a ship's hull:船体的一部分
 an area in which something can be considered in isolation from other things:一个可以独立于其他事物考虑的领域
@@ -151,7 +149,7 @@ there's some ice cream in the freezer compartment:冷冻室里有一些冰淇淋
 a first-class compartment:一个头等舱
 the aft cargo compartment:尾货舱
 religion and politics should be kept in different compartments:宗教和政治应该分开
-the buildings are to be compartmented by fire walls:thebuildingsaretobecompartedbyfirewalls
+the buildings are to be compartmented by fire walls:建筑物将被防火墙隔开
 
 relating to or denoting a metropolis or large city:关于或表示大都市或大城市
 relating to or denoting the parent state of a colony:关于或表示殖民地的母国
@@ -174,7 +172,7 @@ a manner of holding something:一种拿东西的方式
 the ability of something, especially a wheel or shoe, to maintain a firm contact with a surface:某物（尤其是轮子或鞋子）与表面保持牢固接触的能力
 effective control over something:对某事的有效控制
 an understanding of something:对某事的理解
-a part or attachment by which something is held in the hand:apartorattachmentbywhichsomethingholdedinhand
+a part or attachment by which something is held in the hand:将某物握在手中的部分或附件
 a hairgrip.:发夹。
 a travelling bag:一个旅行包
 a stagehand in a theatre.:剧院的舞台工作人员。
@@ -213,7 +211,7 @@ lemon crush:柠檬美眉
 
 existing or coming before in time, order, or importance:existing或comingbeforeintime,order,orimportance
 a previous criminal conviction:以前的刑事定罪
-a man who is head of a house or group of houses of certain religious orders:amanwhoisheadofahouseorgroupofhousesofcertainreligiousorders3
+a man who is head of a house or group of houses of certain religious orders:某些宗教团体的一个或一组房屋的负责人
 the man next in rank below an abbot.:地位低于方丈的人。
 the head of a house of friars.:修士之家的院长。
 prior |ˈprʌɪə| Adjective/Noun/:事先的,院长,事先,之前的
@@ -223,7 +221,7 @@ the English Reformation removed powerful abbots and priors from their seats:theE
 
 a mathematical relationship or rule expressed in symbols:用符号表示的数学关系或规则
 a set of chemical symbols showing the elements present in a compound and their relative proportions.:一组化学符号，表示化合物中存在的元素及其相对比例。
-a list of ingredients with which something is made:
+a list of ingredients with which something is made:制作某物的成分列表
 a formulation:一个配方
 a baby's liquid food based on cow's milk or soya protein, given as a substitute for breast milk:一种以牛奶或大豆蛋白为基础的婴儿液体食品，作为母乳的替代品
 a method or procedure for achieving something:实现某事的方法或程序
@@ -278,7 +276,7 @@ specialized vocational courses such as fashion and catering have been popular am
 
 the degree of compactness of a substance:物质的紧密程度
 a measure of the amount of information on a storage medium:存储介质上信息量的度量
-the quantity of mass per unit volume of a substance.:
+the quantity of mass per unit volume of a substance.:每单位体积物质的质量。
 the opacity of a photographic image.:摄影图像的不透明度。
 the quantity of people or things in a given area or space:给定区域或空间中的人或物的数量
 density |ˈdɛnsɪti| Noun/:密度,浓
@@ -287,7 +285,7 @@ areas of low population density:人口密度低的地区
 
 the fact or quality of being different, divergent, or inconsistent:不同、分歧或不一致的事实或性质
 the state or fact of disagreeing or quarrelling:不同意或争吵的状态或事实
-a discrepancy between two statements or documents.:
+a discrepancy between two statements or documents.:两个陈述或文件之间的差异。
 a quantity equal to the square of the standard deviation.:一个等于标准差平方的数量。
 an official dispensation from a rule or regulation, typically a building regulation.:规则或法规的官方豁免，通常是建筑法规。
 variance |ˈvɛːrɪəns| Noun/:方差,差异

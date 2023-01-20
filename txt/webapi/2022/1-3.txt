@@ -54,25 +54,20 @@ our American cousins:我们的美国表兄弟
 a very large plant-eating mammal with a prehensile trunk, long curved ivory tusks, and large ears, native to Africa and southern Asia. It is the largest living land animal.:一种非常大的食草哺乳动物，具有可缠绕的躯干、长而弯曲的象牙和大耳朵，原产于非洲和南亚。它是现存最大的陆地动物。
 a size of paper, typically 28 × 23 inches (approximately 711 × 584 mm).:a尺寸的纸张，通常为28×23英寸（约711×584毫米）。
 elephant |ˈɛlɪf(ə)nt| Noun/:大象,象
-:
 
 a warm-blooded vertebrate animal of a class that is distinguished by the possession of hair or fur, females that secrete milk for the nourishment of the young, and (typically) the birth of live young.:一种温血脊椎动物，以拥有毛发或皮毛为特征，雌性分泌乳汁为幼仔提供营养，（通常）生出活幼仔。
 mammal |ˈmaml| Noun/:哺乳动物
-:
 
 a very large marine mammal with a streamlined hairless body, a horizontal tail fin, and a blowhole on top of the head for breathing.:一种非常大的海洋哺乳动物，流线型无毛身体，水平尾鳍，头顶有一个呼吸孔。
 whale |weɪl| Noun/Verb/:鲸,鲸鱼
-:
 
 a small gregarious toothed whale that typically has a beaklike snout and a curved fin on the back. Dolphins have become well known for their sociable nature and high intelligence.:一种小型群居齿鲸，通常具有喙状鼻子和背部弯曲的鳍。海豚因其善于交际的天性和高智商而闻名。
 a bollard, pile, or buoy for mooring boats.:用于系泊船只的系船柱、桩或浮标。
 a structure for protecting the pier of a bridge.:一种保护桥墩的结构。
 dolphin |ˈdɒlfɪn| Noun/:海豚
-:
 
 a sea cow of tropical Atlantic coasts and estuaries, with a rounded tail flipper.:热带大西洋沿岸和河口的海牛，尾鳍呈圆形。
 manatee |ˌmanəˈtiː| Noun/:海牛
-:
 
 completely or entirely; to the fullest extent:完全或完全；最大限度地
 no less or fewer than (used to emphasize an amount):nolessorlessthan（用于强调数量）
@@ -94,7 +89,7 @@ a close friend:一个好朋友
 a working companion with whom close cooperation is required.:需要密切合作的工作伙伴。
 a person who befriends and helps another with an incapacitating disease, typically AIDS:一个与患有致残性疾病（通常是艾滋病）的人交朋友并帮助他人的人
 used as a form of address to a man whose name is not known:用作称呼姓名不详的人的一种形式
-become friendly and spend time with someone:
+become friendly and spend time with someone:变得友善并与某人共度时光
 buddy |ˈbʌdi| Noun/Verb/:伙伴,哥们
 they had become the best of buddies:他们成了最好的朋友
 gay male counsellors, buddies, and helpline volunteers are available upon request:gay男性顾问、好友和热线志愿者可应要求提供
@@ -102,7 +97,7 @@ I'm working on it, buddy:我正在努力，伙计
 I decided to buddy up to them:我决定和他们做朋友
 
 a meal eaten in the middle of the day, typically one that is lighter or less formal than an evening meal:中午吃的一顿饭，通常比晚餐更清淡或不那么正式
-eat lunch:
+eat lunch:吃午餐
 take (someone) out for lunch:带（某人）出去吃午饭
 lunch |lʌn(t)ʃ| Noun/Verb/:午餐,进午餐
 do join us for lunch:加入我们共进午餐
@@ -167,7 +162,6 @@ the company faces the threat of liquidation proceedings:公司面临清算程序
 
 a mechanical device for propelling a boat or aircraft, consisting of a revolving shaft with two or more broad, angled blades attached to it.:一种用于推进船只或飞机的机械装置，由一个带有两个或多个宽的、有角度的叶片的旋转轴组成。
 propeller |prəˈpɛlə| Noun/:螺旋桨
-:
 
 the natural home or environment of an animal, plant, or other organism:动物、植物或其他有机体的自然家园或环境
 a person's usual or preferred surroundings.:一个人通常或喜欢的环境。
@@ -258,7 +252,7 @@ bring or come together in order to support a person or cause:带来或聚在一�
 recover or cause to recover in health, spirits, or poise:recover或使健康、精神或平静恢复
 (of share, currency, or commodity prices) increase after a fall:（股票、货币或商品价格）下跌后上涨
 drive in a rally:drive参加集会
-a mass meeting of people making a political protest or showing support for a cause:
+a mass meeting of people making a political protest or showing support for a cause:举行政治抗议或支持某项事业的群众集会
 an open-air event for people who own a particular kind of vehicle:为拥有特定车辆的人举办的露天活动
 a long-distance race for motor vehicles over public roads or rough terrain, typically in several stages:机动车在公共道路或崎岖地形上的长距离比赛，通常分几个阶段
 a quick or marked recovery after a decline:下跌后迅速或显着恢复

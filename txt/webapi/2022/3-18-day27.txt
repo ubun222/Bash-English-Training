@@ -36,7 +36,7 @@ a thing that is borrowed, especially a sum of money that is expected to be paid 
 an act of lending something to someone:向某人借东西的行为
 lend (a sum of money or item of property):lend（一笔钱或财产）
 a lane or narrow path, especially one leading to open ground:一条小路或狭窄的小路，尤其是通往开阔地面的
-an open, uncultivated piece of land where cows are milked.:
+an open, uncultivated piece of land where cows are milked.:一块开阔的、未开垦的土地，供奶牛挤奶。
 loan |ləʊn| Noun/Verb/:贷款,借出,借贷
 borrowers can take out a loan for £84,000:borrowers可以贷款84,000英镑
 she offered to buy him dinner in return for the loan of the flat:她提出请他吃饭以换取公寓的贷款
@@ -47,7 +47,7 @@ the body of words used in a particular language:特定语言中使用的词的�
 the words used in a particular subject or sphere of activity or on a particular occasion:在特定主题或活动领域或特定场合使用的词语
 the body of words known to an individual person:个人所知的词体
 a list of difficult or unfamiliar words with an explanation of their meanings, accompanying a piece of specialist or foreign-language text.:一份难懂或不熟悉的单词列表，并附上一段专业或外语文本，并对其含义进行解释。
-a range of artistic or stylistic forms, techniques, or movements:
+a range of artistic or stylistic forms, techniques, or movements:一系列艺术或风格形式、技巧或动作
 vocabulary |və(ʊ)ˈkabjʊləri| Noun/:词汇,词汇表
 a comparison of the vocabularies of different languages:不同语言词汇的比较
 the vocabulary of law:法律词汇
@@ -65,7 +65,7 @@ the World Cup illustrated what high standards our players must achieve:世界杯
 (especially of a liquid) flow over the brim of a receptacle:（尤其是液体）流过容器的边缘
 (of a container) be so full that the contents go over the sides:（容器的）太满了，里面的东西会溢出来
 (of a space) be so crowded that people spill out:（空间的）人潮涌动
-flood or flow over (a surface or area):
+flood or flow over (a surface or area):洪水或流过（表面或区域）
 be very full of (an emotion or quality):非常充满（一种情感或品质）
 the flowing over of a liquid:液体的溢出
 the excess or surplus not able to be accommodated by an available space:可用空间无法容纳的多余或剩余
@@ -112,7 +112,7 @@ generate |ˈdʒɛnəreɪt| Verb/:产生,生成
 changes which are likely to generate controversy:可能引起争议的变化
 
 a plan for carrying out a process or procedure, giving lists of intended events and times:执行过程或程序的计划，列出预期的事件和时间
-one's day-to-day plans or timetable:
+one's day-to-day plans or timetable:一个人的日常计划或时间表
 a timetable:一个时间表
 an appendix to a formal document or statute, especially as a list, table, or inventory:正式文件或法规的附录，尤其是列表、表格或清单
 (with reference to the British system of income tax) any of the forms (named ‘A’, ‘B’, etc.) issued for completion and relating to the various classes into which taxable income is divided.:（参考英国所得税制度）为完成而签发的任何表格（名为“A”、“B”等），并与应税收入划分的各个类别有关。
@@ -155,7 +155,7 @@ give something to (someone) in recognition of their services, efforts, or achiev
 show one's appreciation of (an action or quality):showone's欣赏（一个动作或质量）
 receive what one deserves:receive应得的
 reward |rɪˈwɔːd| Noun/Verb/:报酬,奖励,赏,奖金,回报
-the holiday was a reward for 40 years' service with the company:
+the holiday was a reward for 40 years' service with the company:这个假期是对公司 40 年服务的奖励
 a slap on the face was his reward for his cheek:一个耳光是他对他脸颊的奖励
 the police are offering a reward of up to one thousand pounds for information leading to an arrest and conviction:警方悬赏高达一千英镑，以获取导致逮捕和定罪的信息
 the engineer who supervised the work was rewarded with the MBE:监督工作的工程师获得MBE奖励
@@ -174,7 +174,6 @@ bacteria normally divide and reproduce themselves every twenty minutes:bacteria�
 
 make or become worse:使或变得更糟
 worsen |ˈwəːsn| Verb/:,加重
-:
 
 information about reactions to a product, a person's performance of a task, etc. which is used as a basis for improvement:关于对产品的反应、个人对任务的表现等的信息，用作改进的基础
 a screeching or humming sound resulting from the return of a fraction of the output signal from an amplifier, microphone, or other device to the input of the same device:由于放大器、麦克风或其他设备的一小部分输出信号返回到同一设备的输入端而产生的尖锐或嗡嗡声
@@ -243,7 +242,7 @@ reduce the amplitude of (a sound source):降低（一个声源）的振幅
 dampen |ˈdamp(ə)n| Verb/:,抑制,阻尼
 the fine rain dampened her face:细雨打湿了她的脸
 nothing could dampen her enthusiasm:没有什么能抑制她的热情
-slider switches on the mixers can dampen the drums:
+slider switches on the mixers can dampen the drums:混音器上的滑块开关可以抑制鼓
 
 the state of being prosperous:繁荣的状态
 prosperity |prɒˈspɛrɪti| Noun/:,景气,兴旺发达
@@ -276,7 +275,7 @@ a constant flow of people:人流不断
 
 human beings collectively:人类集体
 the state of being human:人的状态
-the quality of being humane, benevolence:
+the quality of being humane, benevolence:人道、仁爱的品质
 learning concerned with human culture, especially literature, history, art, music, and philosophy.:learning关注人类文化，尤其是文学、历史、艺术、音乐和哲学。
 humanity |hjʊˈmanɪti| Noun/:人性,人类
 appalling crimes against humanity:骇人听闻的反人类罪
@@ -286,7 +285,7 @@ he praised them for their standards of humanity and care:他称赞他们的人�
 to, towards, or from the side:to、朝向或从侧面
 with one side facing forward:一侧朝前
 so as to occupy a job or position at the same level as one previously held rather than be promoted or demoted:以便担任与以前的职位相同级别的工作或职位，而不是被提升或降级
-by an indirect way:
+by an indirect way:通过间接的方式
 directed or moving to, towards, or from the side:定向或移动到、朝向或从侧面
 denoting a job or position at the same level as one previously held rather than one resulting from promotion or demotion:表示与以前担任的职位或职位处于同一级别，而不是因升职或降职而产生的职位或职位
 done indirectly:间接完成
@@ -302,7 +301,7 @@ he rambled through a number of subjects before making a sideways approach to wha
 take a sideways look at daily life:侧身看日常生活
 
 follow or chase (someone or something):跟随或追逐（某人或某事）
-persistently seek to form a sexual relationship with (someone):
+persistently seek to form a sexual relationship with (someone):坚持不懈地寻求与（某人）发生性关系
 seek to attain or accomplish (a goal) over a long period:寻求在很长一段时间内达到或完成（目标）
 (of something unpleasant) persistently afflict (someone):（令人不快的）持续折磨（某人）
 continue or proceed along (a path or route):continue或继续（路径或路线）
@@ -332,7 +331,7 @@ an engine.:一个引擎。
 a boxing match or a fist fight.:拳击比赛或拳打脚踢。
 grind (something) in a mill:grind（某物）在磨坊中
 cut or shape (metal) with a rotating tool:cutorshape(metal)witha旋转工具
-produce regular ribbed markings on the edge of (a coin) as a protection against illegal clipping:
+produce regular ribbed markings on the edge of (a coin) as a protection against illegal clipping:在（硬币）的边缘制作规则的肋状标记，以防止非法剪裁
 (of people or animals) move around in a confused mass:（人或动物）混乱地四处走动
 thicken (wool or another animal fibre) by fulling it:thicken（羊毛或其他动物纤维）通过填充它
 a monetary unit used only in calculations, worth one thousandth of a dollar.:仅用于计算的货币单位，价值千分之一美元。

@@ -41,7 +41,7 @@ Florence was the birthplace of the Renaissance:佛罗伦萨是文艺复兴的发
 
 the branch of the armed services of a state which conducts military operations at sea:在海上进行军事行动的国家武装部队的分支
 the ships of a navy:海军的战舰
-a fleet of ships.:
+a fleet of ships.:舰队
 a dark blue colour:深蓝色
 navy |ˈneɪvi| Noun/:海军,深
 she joined the navy in 1990:她于1990年加入海军
@@ -50,7 +50,7 @@ the dress comes in navy, gunmetal grey, or black:这件连衣裙有海军蓝、�
 
 relating to or characteristic of the United States or its inhabitants:与美国或其居民有关或具有美国特征
 relating to the continents of America:与美洲大陆有关
-a native or citizen of the United States.:
+a native or citizen of the United States.:美国本地人或公民。
 a native or inhabitant of any of the countries of North, South, or Central America.:北美洲、南美洲或中美洲任何国家的本地人或居民。
 the English language as it is used in the United States, American English.:在美国使用的英语，美式英语。
 American |əˈmɛrɪk(ə)n| Adjective/Noun/:美国人,美国的,美国
@@ -92,10 +92,10 @@ in place of or in exchange for:代替或换取
 charged as (a price):按（价格）收费
 in relation to the expected norm of:关于预期的规范
 indicating the length of (a period of time):表示（一段时间）的长度
-indicating the extent of (a distance):
+indicating the extent of (a distance):表示（距离）的范围
 indicating an occasion in a series:表示系列中的一个场合
 for |fɔː| Conjunction/Preposition/:为了,由于,对于,为
-troops who had fought for Napoleon:
+troops who had fought for Napoleon:为拿破仑而战的军队
 she is responsible for the efficient running of their department:she负责部门的高效运作
 I got a present for you:我给你准备了礼物
 she is a tutor for the Open University:她是开放大学的导师
@@ -116,7 +116,7 @@ cordless |ˈkɔːdləs| Adjective/Noun/:无绳,无线的
 I keep the cordless with me at all times:我一直随身携带无线电话
 
 a feeling of happy satisfaction and enjoyment:一种幸福的满足和享受的感觉
-enjoyment and entertainment, as opposed to necessity:
+enjoyment and entertainment, as opposed to necessity:享受和娱乐，而不是必需品
 an event or activity from which one derives enjoyment:从中获得乐趣的事件或活动
 sensual gratification:感官满足
 used or intended for entertainment rather than business:用于或用于娱乐而非商业
@@ -170,7 +170,6 @@ would that he had lived to finish it:would他活着完成它
 
 a child of one's son or daughter.:一个儿子或女儿的孩子。
 grandchild |ˈɡran(d)tʃʌɪld| Noun/:孙子,外孙
-:
 
 an opening in the wall or roof of a building or vehicle, fitted with glass in a frame to admit light or air and allow people to see out.:建筑物或车辆的墙壁或屋顶上的开口，在框架中装有玻璃以允许光线或空气进入并让人们看到外面。
 a pane of glass filling a window:一块玻璃填满窗户
@@ -222,7 +221,7 @@ a woman in relation to her child or children:一个与她的孩子或孩子有�
 a female animal in relation to its offspring:一只雌性动物与其后代的关系
 (especially as a form of address) an elderly woman.:（特别是作为称呼的一种形式）一位年长的妇女。
 an important female figure in the origin and early history of something:某事物的起源和早期历史中的重要女性人物
-denoting an institution or organization from which others of the same type derive:
+denoting an institution or organization from which others of the same type derive:表示一个机构或组织，同类的其他机构或组织源自
 (especially as a title or form of address) the head of a female religious community.:（尤指称谓或称呼）女性宗教团体的领袖。
 mother |ˈmʌðə| Noun/Verb/:母亲,悉心照顾,母,妈妈
 his mother was a painter:他的母亲是一名画家
@@ -324,8 +323,6 @@ God save the Queen:上帝保佑女王
 she had never been able to save much from her salary:她从来没能从她的薪水中存下太多钱
 save your strength till later:把你的力量留到以后
 save it, Joey—I'm in big trouble now:saveit，乔伊——我现在有大麻烦了
-:
-:
 this approach saves wear and tear on the books:这种方法可以节省书籍的磨损
 the powerful German saved three match points:强大的德国人挽救了三个赛点
 the keeper made a great save:门将做出精彩扑救
@@ -396,7 +393,7 @@ a closed horse-drawn carriage.:一辆封闭的马车。
 travel by coach:坐教练旅行
 in economy class accommodation in an aircraft or train:在飞机或火车上的经济舱住宿
 an instructor or trainer in sport:体育教练或教练
-a private tutor who gives extra teaching.:
+a private tutor who gives extra teaching.:提供额外教学的私人教师。
 train or instruct (a team or player):训练或指导（团队或球员）
 give (someone) extra teaching:给（某人）额外的教学
 teach (a subject or sport) as a coach:teach（一门学科或一项运动）作为教练

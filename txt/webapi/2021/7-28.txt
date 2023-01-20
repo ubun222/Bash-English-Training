@@ -71,7 +71,7 @@ steal goods from (a place), typically during a war or riot:从（一个地方）
 steal (goods) in a war, riot, etc.:在战争、暴乱等中偷（货物）。
 steal (something) from someone:从某人那里窃取（某物）
 loot |luːt| Noun/Verb/:,战利品
-the rooms were stuffed with the loot from Francis's expeditions into Italy:
+the rooms were stuffed with the loot from Francis's expeditions into Italy:房间里塞满了弗朗西斯远征意大利的战利品
 the gang escaped with their loot:这伙人带着他们的战利品逃跑了
 ten thousand quid is a lot of loot:万英镑是很多战利品
 desperate residents looted shops for food and water:desperate居民抢劫商店以获取食物和水
@@ -86,7 +86,7 @@ relating to an authority or public body and its activities and responsibilities:
 having the approval or authorization of an authority or public body:获得权威机构或公共机构的批准或授权
 employed by an authority or public body in a position of authority:受雇于具有权威地位的权威或公共机构
 a person holding public office or having official duties, especially as a representative of an organization or government department:担任公职或执行公务的人，尤指作为组织或政府部门的代表
-the presiding officer or judge of an archbishop's, bishop's, or archdeacon's court.:
+the presiding officer or judge of an archbishop's, bishop's, or archdeacon's court.:大主教法庭、主教法庭或副执事法庭的主持官员或法官。
 official |əˈfɪʃ(ə)l| Adjective/Noun/:官方的,官员,官方,正式
 the prime minister's official engagements:首相的官方活动
 members would know when industrial action is official:members会知道劳工行动何时正式生效
@@ -116,7 +116,7 @@ cause (an event or situation) to happen or exist:cause（事件或情况）发�
 (of an event or situation) cause (someone) to do something:（事件或情况）导致（某人）做某事
 (especially of something read, seen, or heard) distress (someone), typically as a result of arousing feelings or memories associated with a particular traumatic experience:（尤其是读到、看到或听到的东西）痛苦（某人），通常是由于唤起与特定创伤经历相关的感觉或记忆
 trigger |ˈtrɪɡə| Noun/Verb/:扳机,触发,触发器
-he pulled the trigger of the shotgun:
+he pulled the trigger of the shotgun:他扣下猎枪的扳机
 the trigger for the strike was the closure of a mine:罢工的触发因素是矿山关闭
 burglars fled empty-handed after triggering the alarm:窃贼触发警报后空手逃跑
 an allergy can be triggered by stress or overwork:压力或过度劳累都可能引发过敏
@@ -266,7 +266,7 @@ he is likely to be scarred for life after injuries to his face, arms, and legs:�
 his arm will not scar:他的手臂不会留下疤痕
 
 covering or affecting a large area:覆盖或影响大面积
-large in amount or scale:
+large in amount or scale:数量大或规模大
 (of agriculture) obtaining a relatively small crop from a large area with a minimum of capital and labour:（农业）以最少的资本和劳动力从大面积获得相对较少的作物
 extensive |ɪkˈstɛnsɪv| Adjective/:广泛的,广泛
 an extensive garden:一个广阔的花园
@@ -281,7 +281,7 @@ a shoot or twig inserted into a slit on the trunk or stem of a living plant, fro
 an instance of grafting a shoot or twig on to a living plant.:将枝条或树枝嫁接到活植物上的实例。
 a piece of living tissue that is transplanted surgically.:一块通过手术移植的活组织。
 a surgical operation in which tissue is transplanted.:一种移植组织的外科手术。
-insert (a shoot or twig) as a graft:
+insert (a shoot or twig) as a graft:插入（枝条或树枝）作为移植物
 insert a graft on (a trunk or stem).:在（树干或茎上）插入移植物。
 transplant (living tissue) as a graft:transplant（活组织）作为移植物
 combine or integrate (an idea, system, etc.) with another, typically in a way considered inappropriate:将（一个想法、系统等）与另一个组合或集成，通常以一种被认为不合适的方式
@@ -293,7 +293,7 @@ work hard:努力工作
 graft |ɡrɑːft| Noun/Verb/:接枝,移植物
 it was common to graft different varieties on to a single tree trunk:将不同的品种嫁接到一根树干上是很常见的
 they can graft a new hand on to the nerve ends:他们可以将新手移植到神经末梢
-old values have been grafted on to a new economic class:
+old values have been grafted on to a new economic class:旧的价值观被嫁接到了新的经济阶层
 sweeping measures to curb official graft:sweeping遏制官员贪污的措施
 success came after years of hard graft:success是经过多年的努力移植
 I need people prepared to go out and graft:我需要准备出去嫁接的人
@@ -322,14 +322,14 @@ having the status of a king or queen or a member of their family:拥有国王或
 belonging to, carried out, or exercised by a king or queen:属于、执行或由国王或王后行使
 in the service or under the patronage of a king or queen:在服务中或在国王或王后的赞助下
 of a quality or size suitable for a king or queen; splendid:适合国王或王后的质量或尺寸；9
-real; utter (used for emphasis):
+real; utter (used for emphasis):真实的; utter（用于强调）
 a member of the royal family:王室成员
 a paper size, 636 × 480 mm.:a纸张尺寸，636×480毫米。
 a book size, 234 × 156 mm.:一本书大小，234×156毫米。
-a book size, 312 × 237 mm.:
+a book size, 312 × 237 mm.:一本书大小，312×237毫米。
 a system of change-ringing using ten bells.:一个使用十个铃铛的换铃系统。
 royal |ˈrɔɪəl| Adjective/Noun/:皇家,皇室的
-contributors included members of the royal family:
+contributors included members of the royal family:贡献者包括王室成员
 the royal palace:皇宫
 a royal maid:皇家女仆
 she received a royal welcome:she受到皇室欢迎
@@ -374,14 +374,14 @@ the film faithfully follows Shakespeare's plot:电影忠实地跟随莎士比亚
 he follows Aristotle in believing this:他跟随亚里士多德相信这一点
 those who seek to follow Jesus Christ:那些寻求跟随耶稣基督的人
 I've been following this discussion closely:我一直在密切关注这个讨论
-supporters who have followed the club through thick and thin:
+supporters who have followed the club through thick and thin:跟随俱乐部风雨同舟的支持者
 the book follows the life and career of Henry Clay:这本书讲述了亨利·克莱的生活和事业
 if you've been following me on Facebook recently you may have seen a bunch of different posts about surgery and back trouble:如果你最近在Facebook上关注我，你可能已经看到了很多关于手术和背部问题的不同帖子
 I still don't follow you:我还是不追你
 she followed a strict diet:她严格控制饮食
 
 a real or imagined cause for complaint, especially unfair treatment:真实或想象的投诉原因，尤其是不公平待遇
-an official statement of a complaint over something believed to be wrong or unfair:
+an official statement of a complaint over something believed to be wrong or unfair:对被认为是错误或不公平的事情进行投诉的正式声明
 a feeling of resentment over something believed to be wrong or unfair:对被认为是错误或不公平的事情感到不满
 grievance |ˈɡriːv(ə)ns| Noun/:委屈,抱怨
 a website which enabled staff to air their grievances:a使员工能够表达不满的网站
@@ -410,7 +410,7 @@ the court upheld his claim for damages:法院支持他的损害赔偿要求
 they uphold a tradition of not causing distress to living creatures:他们秉持不伤害生物的传统
 
 a declaration or assurance that one will do something or that a particular thing will happen:a声明或保证某人将做某事或某事将发生
-an indication that something is likely to occur:
+an indication that something is likely to occur:某事可能发生的迹象
 the quality of potential excellence:潜质卓越品质
 promise |ˈprɒmɪs| Noun/Verb/:承诺,诺言,许诺,答应
 what happened to all those firm promises of support?:所有那些坚定的支持承诺发生了什么？
@@ -429,7 +429,7 @@ a meeting of people face to face, especially for consultation.:面对面的会�
 a conversation between a journalist or radio or television presenter and a person of public interest, used as the basis of a broadcast or publication:记者或电台或电视节目主持人与公共利益人士之间的对话，用作广播或出版物的基础
 an oral examination of an applicant for a job, college place, etc.:对求职者、大学名额等的口试。
 a session of formal questioning of a person by the police.:警察对一个人的正式讯问。
-hold an interview with (someone):
+hold an interview with (someone):与（某人）进行面谈
 perform (well or badly) at an interview.:在面试中表现（好或差）。
 interview |ˈɪntəvjuː| Noun/Verb/:面试
 a half-hour interview with the prime minister:总理半小时采访
@@ -437,16 +437,16 @@ I am pleased to advise you that you have been selected for interview:我很高�
 she was interviewed by a reporter from the Daily News:she接受每日新闻记者采访
 
 a set of circumstances in which one finds oneself; a state of affairs:在其中找到自己的一组环境；4
-the location and surroundings of a place:
+the location and surroundings of a place:一个地方的位置和周围环境
 a position of employment; a job.:一个工作职位；一份工作。
 situation |sɪtjʊˈeɪʃ(ə)n| Noun/:情况,形势,状况,局势
-the situation between her and Jake had come to a head:
+the situation between her and Jake had come to a head:她和杰克之间的情况已经到了紧要关头
 the situation of the town is pleasant:镇上情况宜人
 
 draw into the mouth by contracting the muscles of the lips and mouth to make a partial vacuum:通过收缩嘴唇和嘴巴的肌肉使部分真空吸入口中
 hold (something) in the mouth and draw at it by contracting the lip and cheek muscles:将（某物）含在嘴里，并通过收缩嘴唇和脸颊肌肉来吸引它
 draw fluid from (something) into the mouth by suction:通过吸力将液体从（某物）吸入口中
-draw in a specified direction by creating a vacuum:
+draw in a specified direction by creating a vacuum:通过创建真空向指定方向绘制
 (of a pump) make a gurgling sound as a result of drawing air instead of water.:（泵的）由于吸入空气而不是水而发出咕噜声。
 be very bad or unpleasant:非常糟糕或令人不快
 an act of sucking something:吸吮某物的行为
@@ -474,7 +474,7 @@ political necessity induced him to consider it:政治需要促使他考虑
 a good book is a necessity when travelling:一本好书是旅行的必需品
 
 extremely serious or urgent:非常严重或紧急
-(of a warning or threat) presaging disaster:
+(of a warning or threat) presaging disaster:（警告或威胁）预示灾难
 of a very poor quality:质量很差
 dire |ˈdʌɪə| Adjective/:说,要说
 misuse of drugs can have dire consequences:滥用药物会产生可怕的后果
@@ -506,7 +506,7 @@ lay off | 遣散,解雇,下岗
 
 
 a fixed regular payment, typically paid on a monthly basis but often expressed as an annual sum, made by an employer to an employee, especially a professional or white-collar worker:固定的定期付款，通常按月支付，但通常表示为年度金额，由雇主支付给雇员，尤其是专业人士或白领工人
-pay a salary to:payapayto
+pay a salary to:付薪给
 salary |ˈsaləri| Noun/Verb/:薪水
 he received a salary of £24,000:他收到了£24,000的薪水
 the Chinese system—salary the doctor and stop his pay when you get ill:中国体制——给医生发工资，生病停发工资
@@ -548,7 +548,7 @@ raise the level of; improve:提高水平；提升
 cause (someone) to feel more cheerful, positive, or optimistic:使（某人）感觉更开朗、积极或乐观
 lift to a higher position:提升到更高的位置
 raise up (strata, mountains, etc.) by an upward movement of the earth’s crust:通过地壳的向上运动而上升（地层、山脉等）
-pick up or take away:pickuportakeaway
+pick up or take away:拿起或带走
 an instance of being raised or increased:an被提升或增加的实例
 something that makes a person feel more cheerful, positive, or optimistic:使人感到更开朗、积极或乐观的事物
 an upward movement of part of the earth's surface:地球表面的一部分向上运动

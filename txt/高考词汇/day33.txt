@@ -112,7 +112,6 @@ above suspicion | 疑虑重重,不容置疑
 a fossil reptile of the Mesozoic era, in many species reaching an enormous size.:一种中生代的化石爬行动物，在许多物种中都达到了巨大的体型。
 a person or thing that is outdated or has become obsolete because of failure to adapt to changing circumstances.:由于无法适应不断变化的环境而过时或过时的人或事物。
 dinosaur |ˈdʌɪnəsɔː| Noun/:恐龙,龙
-:
 
 worth a great deal of money:物超所值
 extremely useful or important:非常有用或重要
@@ -168,7 +167,7 @@ an argument or fight:争论或战斗
 a mistake:一个错误
 a nickname for a red-headed person:红发人的昵称
 a supporter of the Conservative Party.:保守党的支持者。
-make or become blue:makeorbecomeblue
+make or become blue:使或变成蓝色
 heat (metal) so as to give it a greyish-blue finish:heat（金属），使其呈现灰蓝色饰面
 wash (white clothes) with bluing:wash（白色衣服）带蓝色
 squander or recklessly spend (money):挥霍或肆无忌惮地花钱（钱）
@@ -205,7 +204,7 @@ a sticky yellowish mouldable substance secreted by honeybees as the material of 
 a white translucent material obtained by bleaching and purifying beeswax and used for such purposes as making candles, modelling, and as a basis of polishes.:一种由蜂蜡漂白和提纯得到的白色半透明材料，用于制作蜡烛、造型和作为抛光剂的基础。
 any waxy substance, especially a lipid or hydrocarbon.:任何蜡状物质，尤其是脂质或碳氢化合物。
 earwax.:耳垢。
-used in reference to records:
+used in reference to records:用于参考记录
 cover or treat (something) with wax or a similar substance, typically to polish or protect it:用蜡或类似物质覆盖或处理（某物），通常用于抛光或保护它
 remove unwanted hair from (a part of the body) by applying wax and then peeling off the wax and hairs together:通过涂蜡然后将蜡和毛发一起剥去，从（身体的一部分）去除多余的毛发
 make a recording of:录制
@@ -238,7 +237,7 @@ a period of time equal to a twenty-fourth part of a day and night and divided in
 a more indefinite period of time:更不确定的时间段
 the distance travelled in one hour:一小时的路程
 a time of day specified as an exact number of hours from midnight or midday:指定为从午夜或中午开始的确切小时数的时间
-a time specified on the twenty-four-hour clock:
+a time specified on the twenty-four-hour clock:二十四小时制指定的时间
 the time as formerly reckoned from sunrise:从日出算起的时间
 a fixed period of time for an activity, such as work, use of a building, etc.:某项活动的固定时间段，如工作、使用建筑物等。
 a particular point in time:特定时间点
@@ -499,11 +498,9 @@ if West bids 3♥ now, this will show a heart stop:如果West现在出价3♥，
 
 a filling for a tooth.:a补牙。
 stopping |ˈstɒpɪŋ| Noun/:停止,停下来
-:
 
 a container for household refuse, especially one kept outside.:一个装生活垃圾的容器，尤其是放在外面的一个。
 dustbin |ˈdʌs(t)bɪn| Noun/:垃圾箱,垃圾桶
-:
 
 a fixed or movable upright partition used to divide a room, give shelter from draughts, heat, or light, or to provide concealment or privacy:用于分隔房间、避风、避热或避光或提供隐蔽或隐私的固定或可移动的直立隔板
 a thing providing concealment or protection:提供隐藏或保护的东西
@@ -539,12 +536,12 @@ he remained hidden behind the screen for prosecution witnesses:他一直隐藏�
 his jeep was discreetly parked behind a screen of trees:他的吉普车被小心地停在树屏后面
 the chancel screen retains two sections of the original oak arcading:圣坛屏风保留了两段原橡木拱廊
 a branch whipped across the screen and tore off one of the wipers:一根树枝划过屏幕，撕掉了一个雨刷
-gauze screens fitted to the doors and windows were tightly closed:
+gauze screens fitted to the doors and windows were tightly closed:安装在门窗上的纱窗紧闭
 a television screen:a电视屏幕
 two historical swashbucklers are due to fill cinema screens this year:两个历史上的霸道总裁今年将出现在电影院银幕上
 she's a star of the track as well as the screen:she是赛道和银幕的明星
 pressing the F1 key at any time will display a help screen:随时按F1键会显示帮助画面
-services offered by the centre include a health screen for people who have just joined the company:
+services offered by the centre include a health screen for people who have just joined the company:该中心提供的服务包括为刚加入公司的人进行健康筛查
 HMS Prince Leopold and HMS Prince Charles sailed for Shetland with a screen of four destroyers:HMS利奥波德王子号和查尔斯王子号带着四艘驱逐舰的屏幕驶向设得兰群岛
 the material retained on each sieve screen is weighed in turn:将保留在每个筛网上的物料依次称重
 her hair swung across to screen her face:她的头发摆动着遮住她的脸
@@ -552,7 +549,7 @@ an area had been screened off as a waiting room:一个区域被屏蔽为候诊�
 in my country a man of my rank would be screened completely from any risk of attack:在我的国家，像我这样级别的人将被完全排除在任何攻击风险之外
 ensure that your microphone leads are properly screened from hum pickup:确保您的麦克风引线正确屏蔽了嗡嗡声
 the show is to be screened by the BBC later this year:该节目将于今年晚些时候由BBC放映
-outpatients were screened for cervical cancer:
+outpatients were screened for cervical cancer:门诊病人接受宫颈癌筛查
 all prospective presidential candidates would have to be screened by a preselection committee:所有潜在的总统候选人都必须经过预选委员会的筛选
 only one per cent of rainforest plants have been screened for medical use:只有百分之一的雨林植物被筛选用于医疗用途
 anti-spam software can screen out large amounts of unwanted email:anti-spam软件可以屏蔽大量垃圾邮件
@@ -604,7 +601,7 @@ so as to become smooth and even:以便变得光滑均匀
 completely, absolutely:完全，绝对
 used with an expression of time to emphasize how quickly something can be done or has been done:用于表示时间，强调某事可以完成或已经完成的速度
 below the true or normal pitch of musical sound:低于音乐声音的真实或正常音高
-the flat part of something:
+the flat part of something:某物的扁平部分
 an area of low level ground, especially near water:低平地面区域，尤其是靠近水的区域
 a shallow container in which seedlings are grown and sold.:一个用于种植和销售幼苗的浅容器。
 a shoe with a very low heel or no heel:一只鞋跟很低或没有后跟的鞋
@@ -645,7 +642,7 @@ I've got a flat—there were nails under the wheel:我有一个公寓——车�
 when a person has a poor ear for music, he will flat and sharp right along without knowing it:当一个人对音乐的耳朵不好时，他会在不知不觉中变得平坦而尖锐
 flat the loaves down:把面包压扁
 a block of flats:公寓楼
-Zoë flats in Auckland:
+Zoë flats in Auckland:奥克兰的 Zoë 公寓
 
 go flat | 走平,平躺
 
@@ -672,7 +669,7 @@ in ... flat | 在...平,在……平地
 
 
 having no one else present:没有其他人在场
-having no help or participation from others:
+having no help or participation from others:没有他人的帮助或参与
 isolated and lonely:孤立和孤独
 on one's own:自己
 without others' help or participation, single-handedly:无需他人帮助或参与，单枪匹马
@@ -731,7 +728,7 @@ the results of a search can be printed out:搜索结果可以打印出来
 any make of film can be developed and printed:任何品牌的胶卷都可以冲印印刷
 print your name and address on the back of the cheque:在支票背面打印您的姓名和地址
 a delicate fabric printed with roses:一种精致的玫瑰印花面料
-patterns of birds and trees were printed on the cotton:
+patterns of birds and trees were printed on the cotton:棉布上印有鸟类和树木的图案
 a beetle scurried by, printing tracks in the sand with its busy feet:一只甲虫匆匆而过，用它忙碌的脚印在沙地上留下足迹
 we printed the butter with carved wooden butter moulds:we用雕刻的木制黄油模具打印黄油
 his face was printed on her memory:他的脸印在她的记忆里
@@ -797,7 +794,7 @@ die out | 消亡,绝迹
 a small rodent that typically has a pointed snout, relatively large ears and eyes, and a long tail.:一种小型啮齿动物，通常有一个尖尖的鼻子、相对较大的耳朵和眼睛以及一条长尾巴。
 (in general use) any small mammal similar to a mouse, such as a shrew or vole.:（一般使用）任何类似于老鼠的小型哺乳动物，例如鼩鼱或田鼠。
 a shy, timid, and quiet person:害羞、胆小、安静的人
-a dull light brown colour reminiscent of a mouse's fur:
+a dull light brown colour reminiscent of a mouse's fur:暗淡的浅棕色让人联想到老鼠的皮毛
 a small handheld device which is moved across a mat or flat surface to move the cursor on a computer screen:一种小型手持设备，可在垫子或平面上移动以在计算机屏幕上移动光标
 a lump or bruise on or near the eye:眼睛上或附近的肿块或瘀伤
 (of a cat or owl) hunt for or catch mice:（猫或猫头鹰的）寻找或捕捉老鼠
@@ -823,7 +820,7 @@ the near-vacuum extending between the planets and stars, containing small amount
 a mathematical concept generally regarded as a set of points having some specified structure.:一个数学概念，通常被认为是一组具有某种特定结构的点。
 an interval of time (often used to suggest that the time is short considering what has happened or been achieved in it):一个时间间隔（通常用于暗示考虑到其中发生或取得的成就，时间很短）
 the portion of a text or document available or needed to write about a subject:文本或文档中可用或需要写关于某个主题的部分
-pages in a newspaper or magazine, or time between television or radio programmes, available for advertising:
+pages in a newspaper or magazine, or time between television or radio programmes, available for advertising:报纸或杂志中的页面，或电视或广播节目之间的时间，可用于广告
 capacity for storage of data in a computer or other digital device:在计算机或其他数字设备中存储数据的容量
 the freedom to live, think, and develop in a way that suits one:以适合自己的方式生活、思考和发展的自由
 one of two possible states of a signal in certain systems.:某些系统中信号的两种可能状态之一。

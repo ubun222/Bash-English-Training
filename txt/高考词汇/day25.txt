@@ -86,7 +86,7 @@ a cunning or sly person:一个狡猾或狡猾的人
 a sexually attractive woman.:一个有魅力的女人。
 baffle or deceive (someone):baffle或欺骗（某人）
 behave in a cunning or sly way:以狡猾或狡猾的方式行事
-a member of a North American people formerly living in southern Wisconsin, and now mainly in Iowa, Nebraska, and Kansas.:
+a member of a North American people formerly living in southern Wisconsin, and now mainly in Iowa, Nebraska, and Kansas.:北美人的一员，以前居住在威斯康星州南部，现在主要居住在爱荷华州、内布拉斯加州和堪萨斯州。
 the Algonquian language of the Fox, now almost extinct.:狐狸的阿尔冈昆语，现在几乎灭绝了。
 relating to the Fox or their language.:与狐狸或他们的语言有关。
 fox |fɒks| Adjective/Noun/Verb/:狐狸,狐,福克斯
@@ -98,7 +98,7 @@ a British bronze coin and monetary unit equal to one hundredth of a pound:一枚
 a former British coin and monetary unit equal to one twelfth of a shilling and 240th of a pound.:一个前英国硬币和货币单位，等于十二分之一先令和240分之一英镑。
 a one-cent coin.:一美分硬币。
 (in biblical use) a denarius.:（在圣经中使用）一个银币。
-a small sum of money:
+a small sum of money:一小笔钱
 used for emphasis to denote no money at all:用于强调表示根本没有钱
 penny |pɛns| Noun/:一分钱,便士
 calls are charged at fifty pence a minute:calls按每分钟50便士收费
@@ -131,7 +131,6 @@ he put his arm around her:他搂着她
 
 one's grandmother:one的祖母
 grandma |ˈɡran(d)mɑː| Noun/:奶奶,祖母
-:
 
 look at and comprehend the meaning of (written or printed matter) by interpreting the characters or symbols of which it is composed:通过解释组成它的字符或符号来查看和理解（书面或印刷品）的含义
 have the ability to look at and comprehend the meaning of written or printed matter:有能力看懂文字或印刷品的意思
@@ -143,8 +142,8 @@ discover (information) by reading it in a written or printed source:discover（�
 (of a piece of writing) convey a specified impression to the reader:（一篇文章）向读者传达特定的印象
 understand or interpret the nature or significance of:了解或解释的性质或意义
 discern (a fact, emotion, or quality) in someone's eyes or expression:discern（事实、情感或品质）在某人的眼中或表情中
-inspect and record the figure indicated on (a measuring instrument):
-(of a measuring instrument) indicate a specified measurement or figure:
+inspect and record the figure indicated on (a measuring instrument):检查并记录（测量仪器）上指示的数字
+(of a measuring instrument) indicate a specified measurement or figure:（测量仪器的）表示特定的测量值或数字
 study (an academic subject) at a university:study（一门学科）在大学
 (of a computer) copy, transfer, or interpret (data):（计算机的）复制、传输或解释（数据）
 enter or extract (data) in an electronic storage device:在电子存储设备中输入或提取（数据）
@@ -206,7 +205,7 @@ relating to or characteristic of Europe or its inhabitants:与欧洲或其居民
 relating to the European Union:与欧盟有关
 a native or inhabitant of Europe.:欧洲本地人或居民。
 a national of a state belonging to the European Union.:属于欧盟国家的国民。
-a person who is committed to the European Union:
+a person who is committed to the European Union:致力于欧盟的人
 a person of European parentage.:具有欧洲血统的人。
 European |ˌjʊərəˈpiːən| Adjective/Noun/:欧洲的,欧洲人,欧洲
 twentieth-century European art:二十世纪欧洲艺术
@@ -219,7 +218,7 @@ a piece of thick or resilient material for lying on or for landing on in gymnast
 a piece of coarse material for lying on:一块用于躺着的粗糙材料
 a small piece of cork, card, or fabric placed on a table or other surface to protect it from the heat or moisture of an object placed on it.:一小块软木塞、卡片或织物放在桌子或其他表面上，以保护其免受放置在其上的物体的热量或湿气的影响。
 a thick, untidy layer of something hairy or woolly:一层厚厚、杂乱无章的毛茸茸的东西
-tangle (something, especially hair) in a thick mass:
+tangle (something, especially hair) in a thick mass:将（某物，尤其是头发）缠成一团
 become tangled:变得纠结
 mat |mat| Noun/Verb/:垫,垫子,地垫
 a beach mat:沙滩垫
@@ -252,27 +251,25 @@ physicians of the soul:灵魂医生
 
 the sloping side of a hill.:山坡的一侧。
 hillside |ˈhɪlsʌɪd| Noun/:山坡,山坡上的
-:
 
 the island containing England, Wales, and Scotland. The name is broadly synonymous with Great Britain, but the longer form is more usual for the political unit.:包含英格兰、威尔士和苏格兰的岛屿。这个名字在广义上是大不列颠的同义词，但较长的形式更常见于政治单位。
 Britain |ˈbrɪtn| Noun/:英国,英
-:
 
 a priestess of Aphrodite at Sestos on the European shore of the Hellespont, whose lover Leander, a youth of Abydos on the opposite shore, swam the strait nightly to visit her. One stormy night he was drowned and Hero in grief threw herself into the sea.:赫勒斯滂河欧洲海岸塞斯托斯的阿佛洛狄忒女祭司，他的情人利安德，对岸阿比多斯的青年，每晚游过海峡探望她。8
 (1st century), Greek mathematician and inventor, known as Hero of Alexandria. His surviving works are important as a source for ancient practical mathematics and mechanics. He described a number of hydraulic, pneumatic, and other mechanical devices, including elementary applications of the power of steam.:（1世纪），希腊数学家和发明家，被称为亚历山大英雄。5
 a person who is admired for their courage, outstanding achievements, or noble qualities:一个因勇气、杰出成就或高尚品质而受到钦佩的人
-the chief male character in a book, play, or film, who is typically identified with good qualities, and with whom the reader is expected to sympathize:
-(in mythology and folklore) a person of superhuman qualities and often semi-divine origin, in particular one whose exploits were the subject of ancient Greek myths.:
+the chief male character in a book, play, or film, who is typically identified with good qualities, and with whom the reader is expected to sympathize:书籍、戏剧或电影中的主要男性角色，通常被认为具有良好的品质，并且希望读者同情他
+(in mythology and folklore) a person of superhuman qualities and often semi-divine origin, in particular one whose exploits were the subject of ancient Greek myths.:（在神话和民间传说中）具有超人品质且通常半神的人，特别是其功绩成为古希腊神话主题的人。
 the best or most important thing in a set or group:一组或一组中最好或最重要的东西
 hero |ˈhɪərəʊ| Noun/:英雄,主角
 a war hero:战争英雄
-the hero of Kipling's story:
+the hero of Kipling's story:吉卜林故事的主人公
 jumpsuits are hands down our hottest hero piece right now:jumpsuits是我们现在最热门的英雄作品
 
 a detailed proposal for doing or achieving something:做某事或实现某事的详细建议
 a scheme for the regular payment of contributions towards a pension, savings account, or insurance policy:定期向养老金、储蓄账户或保险单缴款的计划
 an intention or decision about what one is going to do:关于一个人将要做什么的意图或决定
-a detailed map or diagram:
+a detailed map or diagram:详细的地图或图表
 a drawing or diagram made by projection on a horizontal plane, especially one showing the layout of a building or one floor of a building.:在水平面上投影的绘图或图表，尤其是显示建筑物或建筑物一层的布局的图或图表。
 a diagram showing how something will be arranged:显示某物将如何安排的图表
 (in the Methodist Church) a document listing the preachers for all the services in a circuit during a given period.:（在卫理公会）一份文件，列出了在给定时期内巡回所有服务的传教士。
@@ -351,10 +348,9 @@ bread the chicken and fry it in oil.:bread鸡肉并在油中煎炸。
 a person who interprets, especially one who translates speech orally or into sign language.:口译的人，尤其是口译或手语翻译的人。
 a program that can analyse and execute a program line by line.:一个可以逐行分析和执行程序的程序。
 interpreter |ɪnˈtəːprɪtə| Noun/:口译员,翻译
-:
 
 (of a person) control the functioning of (a machine, process, or system):（人的）控制（机器、过程或系统）的功能
-(of a machine, process, or system) function in a specified manner:
+(of a machine, process, or system) function in a specified manner:（机器、过程或系统的）以特定方式运行
 be in effect:生效
 manage (a business):manage（企业）
 (of an organization) be managed in a specified way or from a specified place:（组织的）以特定方式或从特定地点进行管理

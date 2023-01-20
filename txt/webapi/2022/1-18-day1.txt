@@ -33,7 +33,7 @@ plague					瘟疫，灾祸，困扰
 the means or opportunity to approach or enter a place:接近或进入一个地方的手段或机会
 the right or opportunity to use or benefit from something:使用某物或从中受益的权利或机会
 the right or opportunity to approach or see someone:接近或见到某人的权利或机会
-the process of obtaining or retrieving information stored in a computer's memory:
+the process of obtaining or retrieving information stored in a computer's memory:获取或检索存储在计算机内存中的信息的过程
 denoting broadcasting produced by minority and specialist interest groups, rather than by professionals:表示由少数群体和专业利益集团而非专业人士制作的广播
 an attack or outburst of an emotion:情绪的发作或爆发
 approach or enter (a place):approach或进入（一个地方）
@@ -73,7 +73,7 @@ her family still lives in the projects:她的家人仍然住在这些项目中
 spending was projected at £72,900 million:支出预计为729亿英镑
 in the later 1930s, many new road schemes were projected:在1930年代后期，许多新的道路计划被提出
 I noticed a slip of paper projecting from the book:我注意到一张纸条从书上伸出来
-seeds are projected from the tree:
+seeds are projected from the tree:种子从树上射出
 the one light projected shadows on the wall:一盏灯投射在墙上的阴影
 being audible depends on your ability to project your voice:被听见取决于你发出声音的能力
 people may be projecting the present into the past:people可能会将现在投射到过去
@@ -85,8 +85,8 @@ men may sometimes project their own fears on to women:men有时可能会将自�
 a thing intended; an aim or plan:一个意图的东西；5
 the action or fact of intending:意图的行动或事实
 a person's plans, especially a man's, in respect to marriage:一个人的计划，尤其是男人的关于婚姻的计划
-the healing process of a wound.:
-conceptions formed by directing the mind towards an object.:
+the healing process of a wound.:伤口的愈合过程。
+conceptions formed by directing the mind towards an object.:通过将思想指向一个对象而形成的概念。
 intention |ɪnˈtɛnʃn| Noun/:,意向,打算
 she was full of good intentions:她满怀善意
 intention is just one of the factors that will be considered:intention只是将要考虑的因素之一
@@ -121,7 +121,7 @@ an alternative lifestyle:另类生活方式
 audiobooks are an interesting alternative to reading:audiobooks是阅读的有趣替代品
 
 showing a readiness to give more of something, especially money, than is strictly necessary or expected:表现出愿意提供比严格必要或预期更多的东西，尤其是金钱
-showing kindness towards others:
+showing kindness towards others:善待他人
 (of a thing) larger or more plentiful than is usual or necessary:（事物的）比通常的或必要的更大或更丰富
 generous |ˈdʒɛn(ə)rəs| Adjective/:慷慨的,慷慨,大方
 a generous benefactor to the University:大学的慷慨恩人
@@ -138,7 +138,7 @@ his biological mother:他的亲生母亲
 a wide spectrum of biologicals are produced from animal cells in culture:广泛的生物制品是由培养的动物细胞生产的
 
 a plan of action designed to achieve a long-term or overall aim:旨在实现长期或总体目标的行动计划
-the art of planning and directing overall military operations and movements in a war or battle:
+the art of planning and directing overall military operations and movements in a war or battle:在战争或战斗中计划和指挥整体军事行动和运动的艺术
 a plan for directing overall military operations and movements:指导整体军事行动和运动的计划
 strategy |ˈstratɪdʒi| Noun/:战略
 time to develop a coherent economic strategy:time制定连贯的经济战略
@@ -146,7 +146,7 @@ he was a genius when it came to military strategy:他在军事战略方面是个
 non-provocative defence strategies:非挑衅性防御策略
 
 a seemingly absurd or contradictory statement or proposition which when investigated may prove to be well founded or true:一个看似荒谬或自相矛盾的陈述或主张，经过调查可能证明是有根据或真实的
-a statement or proposition which, despite sound (or apparently sound) reasoning from acceptable premises, leads to a conclusion that seems logically unacceptable or self-contradictory:
+a statement or proposition which, despite sound (or apparently sound) reasoning from acceptable premises, leads to a conclusion that seems logically unacceptable or self-contradictory:一个陈述或命题，尽管从可接受的前提进行了合理的（或表面上合理的）推理，但得出的结论在逻辑上似乎是不可接受的或自相矛盾的
 a person or thing that combines contradictory features or qualities:结合了矛盾特征或品质的人或事物
 paradox |ˈparədɒks| Noun/:悖论
 the uncertainty principle leads to all sorts of paradoxes, like the particles being in two places at once:不确定性原理导致各种悖论，就像粒子同时在两个地方
@@ -191,13 +191,13 @@ grasp or seize suddenly and roughly:抓住或突然粗暴地抓住
 obtain or get (something) quickly or opportunistically:获取或得到（某物）快速或机会主义
 (of a brake on a vehicle) grip the wheel harshly or jerkily:（车辆上的刹车）粗暴或急促地抓住车轮
 attract the attention of; make an impression on:引起注意；10
-a quick sudden clutch or attempt to seize:
+a quick sudden clutch or attempt to seize:快速突然的离合器或试图抓住
 an act of obtaining something opportunistically or unscrupulously:投机取巧或不择手段地获得某物的行为
 a frame of video or television footage, digitized and stored as a still image in a computer memory for subsequent display, printing, or editing:一帧视频或电视片段，数字化并作为静止图像存储在计算机内存中，以供后续显示、打印或编辑
 a mechanical device for clutching, lifting, and moving things, especially materials in bulk.:一种用于抓紧、提升和移动物体，尤其是散装物料的机械装置。
 denoting a bar or strap for people to hold on to for support or in a moving vehicle:表示供人们握住以支撑或在移动的车辆中的杆或带子
 grab |ɡrab| Noun/Verb/:抓,抢,抓住
-she grabbed him by the shirt collar:
+she grabbed him by the shirt collar:她抓住他的衬衫领子
 I'll grab another drink while there's still time:还有时间我再喝一杯
 the brakes grabbed very badly:刹车抓得很紧
 how does that grab you?:这对你有什么影响？
@@ -219,7 +219,7 @@ a mistake or shortcoming in a plan, theory, etc. which causes it to fail or redu
 mar, weaken, or invalidate (something):mar，削弱或无效（某事）
 a squall of wind; a short storm:一阵狂风；6
 flaw |flɔː| Noun/Verb/:缺陷,漏洞
-a flaw in the glass:
+a flaw in the glass:玻璃上的瑕疵
 he had his flaws, but he was still a great teacher:他有缺点，但他仍然是一位好老师
 there were fundamental flaws in the case for reforming local government:地方政府改革案存在根本性缺陷
 the computer game was flawed by poor programming:电脑游戏因糟糕的编程而存在缺陷
@@ -293,7 +293,7 @@ a theory of education:教育理论
 my theory would be that the place has been seriously mismanaged:我的理论是这个地方管理不善
 
 copy (data) from one computer system to another, typically over the internet:copy（数据）从一个计算机系统到另一个计算机系统，通常通过互联网
-an act or process of downloading data:
+an act or process of downloading data:下载数据的行为或过程
 a file or set of files that has been downloaded:已下载的一个文件或一组文件
 download |ˈdaʊnləʊd| Noun/Verb/:download
 it would be wise to download your program to another computer before testing it:在测试之前将程序下载到另一台计算机是明智的
@@ -305,11 +305,11 @@ an indication of a situation:一种情况的指示
 an event or statement that provides the impulse for an occurrence:一个事件或陈述提供了发生的冲动
 a prearranged convention of bidding or play intended to convey information to one's partner.:一种预先安排的叫牌或游戏约定，旨在向自己的伙伴传达信息。
 an electrical impulse or radio wave transmitted or received:发送或接收的电脉冲或无线电波
-an apparatus on a railway, typically a coloured light or a semaphore, giving indications to train drivers of whether or not the line is clear:
+an apparatus on a railway, typically a coloured light or a semaphore, giving indications to train drivers of whether or not the line is clear:铁路上的一种装置，通常是彩色灯或信号灯，指示火车司机线路是否畅通
 convey information or instructions by means of a gesture, action, or sound:通过手势、动作或声音传达信息或指令
 instruct (someone) to do something by means of gestures or signs:指示（某人）通过手势或手势做某事
 (of a cyclist, motorist, or vehicle) indicate an intention to turn in a specified direction using an extended arm or flashing indicator:（骑自行车者、驾车者或车辆）表示打算使用伸出的手臂或闪烁的指示灯向指定方向转弯
-indicate the existence or occurrence of (something) by actions or sounds:
+indicate the existence or occurrence of (something) by actions or sounds:用动作或声音表示（某物）的存在或发生
 striking in extent, seriousness, or importance; outstanding:在程度、严重性或重要性上引人注目；6
 signal |ˈsɪɡnl| Adjective/Noun/Verb/:信号,发信号,显着的
 the firing of the gun was the signal for a chain of beacons to be lit:枪的开火是一连串信标被点亮的信号
@@ -356,7 +356,7 @@ a lovely, smooth, very fruity wine:一款可爱、顺滑、果味浓郁的葡萄
 she smoothed out the newspaper:她把报纸弄平了
 values are collected over a long period of time so that fluctuations are smoothed out:values是在很长一段时间内收集的，以便平滑波动
 these doctrinal disputes were smoothed over:这些教义上的争论被平息了
-a conference would be held to smooth the way for the establishment of the provisional government:
+a conference would be held to smooth the way for the establishment of the provisional government:召开会议为临时政府的成立铺平道路
 the course of true love never did run smooth:真爱之路从来都不是一帆风顺的
 
 an organization founded for a religious, educational, professional, or social purpose:一个为宗教、教育、专业或社会目的而成立的组织
@@ -379,7 +379,7 @@ a thing used for transporting people or goods, especially on land, such as a car
 a thing used to express, embody, or fulfil something:用于表达、体现或实现某事的事物
 a substance that facilitates the use of a drug, pigment, or other material mixed with it:一种促进使用药物、颜料或与其混合的其他材料的物质
 a film, television programme, song, etc. that is intended to display the leading performer to the best advantage:旨在最大限度地展示主角的电影、电视节目、歌曲等
-a privately controlled company through which an individual or organization conducts a particular kind of business, especially investment.:
+a privately controlled company through which an individual or organization conducts a particular kind of business, especially investment.:私人控制的公司，个人或组织通过它开展特定类型的业务，尤其是投资。
 vehicle |ˈviːɪkl| Noun/:车辆,车
 the vehicle was sent skidding across the road:车辆被打滑过马路
 I use paint as a vehicle for my ideas:我用油漆作为我想法的载体

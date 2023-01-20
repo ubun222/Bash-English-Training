@@ -87,7 +87,7 @@ I did as he bade me:我照他说的做了
 he bade his companions enter:他命令他的同伴进入
 
 a container consisting of one or more cells, in which chemical energy is converted into electricity and used as a source of power:由一个或多个电池组成的容器，其中化学能转化为电能并用作动力源
-a fortified emplacement for heavy guns:
+a fortified emplacement for heavy guns:重炮的坚固阵地
 an artillery subunit of guns, men, and vehicles.:一个由枪支、人员和车辆组成的炮兵分队。
 a set of similar units of equipment, typically when connected together:一组相似的设备单元，通常连接在一起时
 an extensive series, sequence, or range of things:一个广泛的系列、序列或范围的事物
@@ -106,7 +106,7 @@ a narrow strip of material, as used to hold or fasten something:一条窄条材�
 a strip of paper or plastic coated with adhesive and sold in a roll, used to stick things together:一条涂有粘合剂并成卷出售的纸或塑料条，用于将东西粘在一起
 a strip of material stretched across the finishing line of a race, to be broken or dislodged by the winner.:一条穿过比赛终点线的材料条，将被获胜者打破或移走。
 a strip of material used to mark off an area or form a notional barrier.:一条用于划分区域或形成概念屏障的材料。
-a tape measure.:
+a tape measure.:卷尺
 long, narrow flexible material with magnetic properties, used for recording sound, pictures, or computer data:长而窄的具有磁性的柔性材料，用于记录声音、图片或计算机数据
 a cassette or reel containing magnetic tape for recording:一个包含录音用磁带的盒式磁带或卷轴
 a recording on a cassette or reel:磁带或卷轴上的录音
@@ -138,7 +138,7 @@ a flat paper container with a sealable flap, used to enclose a letter or documen
 a covering or containing structure or layer:a覆盖或包含结构或层
 the outer metal or glass housing of a vacuum tube, electric light, etc.:真空管、电灯等的外部金属或玻璃外壳。
 the structure within a balloon or non-rigid airship containing the gas.:装有气体的气球或非刚性飞艇内的结构。
-a membrane which forms the outer layer of certain viruses.:
+a membrane which forms the outer layer of certain viruses.:形成某些病毒外层的膜。
 a curve joining the successive peaks of a modulated wave.:a曲线连接调制波的连续峰值。
 a curve or surface tangent to each of a family of curves or surfaces.:与曲线或曲面族中的每一个相切的曲线或曲面。
 envelope |ˈɛnvələʊp| Noun/:信封,封套
@@ -189,7 +189,7 @@ the hotel is a short walk from the sea:酒店距离大海仅几步之遥
 a short skirt:一条短裙
 he is short and tubby:他又矮又胖
 he uses his opportunities to attack every short ball:他利用他的机会攻击每一个短球
-short midwicket:shortmidwicket
+short midwicket:短中端
 visiting London for a short break:访问伦敦短暂休息
 in 10 short years all this changed:在短短10年内，这一切都改变了
 he has a short memory for past misdeeds:他对过去的恶行记忆犹新
@@ -218,12 +218,11 @@ sell short | 卖空,做空
 a small arthropod animal that has six legs and generally one or two pairs of wings:一种小型节肢动物，有六条腿，一般有一两对翅膀
 any small invertebrate animal such as a spider or tick.:任何小型无脊椎动物，例如蜘蛛或壁虱。
 insect |ˈɪnsɛkt| Noun/:昆虫,虫,蚊
-:
 
 used in reported speech, to express possibility or permission:用于报道性演讲，表示可能性或许可
 expressing a possibility based on an unfulfilled condition:表达基于未满足条件的可能性
 expressing annoyance about something that someone has not done:表达对某人没有做过的事情的烦恼
-expressing purpose:
+expressing purpose:表达目的
 used tentatively to ask permission or to express a polite request:用于试探性地请求许可或表示礼貌的请求
 asking for information, especially condescendingly:询问信息，尤其是居高临下的
 used to express possibility or make a suggestion:用于表达可能性或提出建议
@@ -253,7 +252,7 @@ a pedestrian zone:a步行区
 a zone of easterly winds:东风区
 I was in the zone, completing the first nine holes in one under par:我在区域内，以低于标准杆的成绩完成了前九个洞
 the park has been zoned into four distinct bioregions, each with its own ecological identity:thepark被划分为四个不同的生物区，每个生物区都有自己的生态特征
-Houston, he told us, was the only town in the country that was zoned properly:
+Houston, he told us, was the only town in the country that was zoned properly:他告诉我们，休斯顿是该国唯一被适当分区的城镇
 the land is zoned for housing:这块土地被划为住房
 
 industrial zone | 工业区,工业园区
@@ -376,7 +375,6 @@ a file which consists solely of a set of other files (which may themselves be di
 a book of directions for the conduct of Christian worship, especially in Presbyterian and Roman Catholic Churches.:一本指导基督徒敬拜的书，尤其是在长老会和罗马天主教堂。
 the revolutionary government in France 1795–9, comprising two councils and a five-member executive. It maintained an aggressive foreign policy, but could not control events at home and was overthrown by Napoleon Bonaparte.:179年法国革命政府，由两个委员会和一个五人行政机构组成。它保持着侵略性的外交政策，但无法控制国内的事态，被拿破仑·波拿巴推翻。
 directory |dɪˈrɛkt(ə)ri| Noun/:目录,目
-:
 
 up above | 之上,在上面,上
 
@@ -403,7 +401,6 @@ our objective is not to warehouse prisoners but to help inmates build new lives:
 a dual-carriageway main road, especially one with controlled access.:一条双车道主干道，尤其是一条有控制通道的主干道。
 a toll-free highway.:一条免费高速公路。
 freeway |ˈfriːweɪ| Noun/:高速公路,免费
-:
 
 used to identify a specific person or thing observed or heard by the speaker:用于识别说话者观察或听到的特定人或事物
 referring to the more distant of two things near to the speaker (the other, if specified, being identified by ‘this’):指靠近说话者的两件事中较远的一个（另一个，如果指定，由“this”标识）
@@ -412,7 +409,7 @@ used in singling out someone or something and ascribing a distinctive feature to
 expressing strong agreement with a description just given:表示非常同意刚刚给出的描述
 used instead of ‘which’, ‘who’, ‘whom’, or ‘when’ to introduce a defining clause, especially one essential to identification:用于代替“which”、“who”、“whom”或“when”来引入定义从句，尤其是对识别至关重要的从句
 that |ðəʊz| Adverb/Conjunction/Determiner/Pronoun/:那,那就是
-that's his wife over there:
+that's his wife over there:那边是他老婆
 this is stronger than that:this比那个强
 that's a good idea:这是个好主意
 it is part of human nature to be attracted to that which is aesthetically pleasing:人的本性是被审美上令人愉悦的事物所吸引
@@ -439,7 +436,7 @@ then again | 然后再一次,然后又
 
 (of signals or data) expressed as series of the digits 0 and 1, typically represented by values of a physical quantity such as voltage or magnetic polarization.:（信号或数据）表示为一系列数字0和1，通常由物理量的值表示，例如电压或磁极化。
 relating to, using, or storing data or information in the form of digital signals:与、使用或以数字信号形式存储数据或信息有关
-involving or relating to the use of computer technology:
+involving or relating to the use of computer technology:涉及或涉及计算机技术的使用
 (of a clock or watch) showing the time by means of displayed digits rather than hands or a pointer.:（时钟或手表）通过显示的数字而不是指针或指针来显示时间。
 relating to a finger or fingers.:与一个或多个手指有关。
 digital |ˈdɪdʒɪtl| Adjective/:,数字电视,数字
@@ -537,7 +534,7 @@ I climbed the three flights of stairs which led to his office:我爬了通往他
 I had a flight of four ales and liked them all:我有四杯啤酒，都很喜欢
 his research assistant was prone to flights of fancy:他的研究助理容易出奇制胜
 he flighted a free kick into the box:他将任意球射入禁区
-shafts of wood flighted with a handful of feathers:
+shafts of wood flighted with a handful of feathers:用一把羽毛飞行的木杆
 
 flight of fancy | 幻想的飞行,花式飞行
 
@@ -557,11 +554,11 @@ one of the suits in some tarot packs, corresponding to pentacles in others.:一�
 make (coins) by stamping metal:make（硬币）冲压金属
 make (metal) into coins.:make（金属）成硬币。
 earn a lot of (money) quickly and easily:快速轻松地赚很多（钱）
-invent (a new word or phrase):
+invent (a new word or phrase):发明（一个新词或短语）
 coin |kɔɪn| Noun/Verb/:硬币,钱币
 she opened her purse and took out a coin:她打开钱包，取出一枚硬币
 large amounts of coin and precious metal:大量硬币和贵金属
-guineas and half-guineas were coined:
+guineas and half-guineas were coined:几内亚和半几内亚被创造出来
 the company was coining it in at the rate of £90 a second:该公司以每秒90英镑的速度创造了它
 he coined the term ‘desktop publishing’:he创造了“桌面出版”一词
 

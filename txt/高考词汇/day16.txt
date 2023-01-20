@@ -132,7 +132,7 @@ a thin flat part connecting thicker or more solid parts in machinery.:连接机�
 a roll of paper used in a continuous printing process.:连续印刷过程中使用的一卷纸。
 the endless wire mesh in a papermaking machine on which the paper is made.:造纸机中用于制造纸张的环形金属丝网。
 a piece of woven fabric.:一块机织物。
-cover with or as though with a web:coverwithorasifwithaweb
+cover with or as though with a web:用网覆盖或好像用网覆盖
 web |wɛb| Noun/Verb/:网络,网页
 he found himself caught up in a web of bureaucracy:他发现自己陷入了官僚主义网络
 material downloaded from the web:材料从网上下载
@@ -163,7 +163,7 @@ used to express regret or apology:用于表示遗憾或道歉
 regard (God) with reverence and awe:regard（上帝）怀着敬畏之心
 fear |fɪə| Noun/Verb/:恐惧,害怕,怕
 I cowered in fear as bullets whizzed past:子弹呼啸而过，我吓得缩成一团
-police launched a hunt for the family amid fears for their safety:
+police launched a hunt for the family amid fears for their safety:由于担心他们的安全，警方开始寻找这家人
 she observed the other guests without fear of attracting attention:她观察其他客人而不怕引起注意
 the love and fear of God:对上帝的爱与敬畏
 I hated him but didn't fear him any more:我恨他，但不再害怕他了
@@ -197,7 +197,7 @@ very small:非常小
 a very young child:一个很小的孩子
 tiny |ˈtʌɪni| Adjective/Noun/:微小的,小
 a tiny hummingbird:一只小蜂鸟
-books that will make tinies and parents laugh out loud:
+books that will make tinies and parents laugh out loud:会让小孩和父母大笑的书
 
 the state of being stretched tight:被拉紧的状态
 the state of having the muscles stretched tight, especially as causing strain or discomfort:肌肉拉紧的状态，尤其是在引起紧张或不适时
@@ -247,7 +247,7 @@ bedclothes:床上用品
 the amount of ground covered by a vertical projection of the vegetation, usually expressed as a percentage.:植被垂直投影所覆盖的地面量，通常以百分比表示。
 shelter or protection sought by people in danger:shelter或处于危险中的人所寻求的保护
 undergrowth or trees used as a shelter by animals:undergrowth或用作动物庇护所的树木
-military support given when someone is being attacked:
+military support given when someone is being attacked:当有人受到攻击时给予军事支持
 an activity or organization used as a means of concealing an illegal or secret activity:作为掩饰非法或秘密活动的手段的活动或组织
 an identity adopted by a spy to conceal their true activities:一个间谍采用的身份来隐藏他们的真实活动
 protection by insurance against a liability, loss, or accident:针对责任、损失或事故的保险保护
@@ -263,7 +263,7 @@ the grounds covered eight acres:场地占地八英亩
 it took them four days to cover 150 miles:他们花了四天时间才跑完150英里
 a sequence of novels that will cover the period from 1968 to the present:一系列小说，涵盖1968年至今
 Channel 4 are covering the match:Channel4正在报道比赛
-development officers whose work would cover a large area:
+development officers whose work would cover a large area:工作范围广的发展官员
 the offence covers a wide spectrum of culpability:the罪行涵盖了广泛的罪责
 there are grants to cover the cost of materials for loft insulation:有补助金来支付阁楼绝缘材料的成本
 you're covered for up to $500 of incidentals per person:您每人可获得高达500美元的杂费
@@ -404,7 +404,6 @@ yards | 码,围场
 in addition, besides:另外，除此之外
 different, instead:不同，而不是
 else |ɛls| Adverb/:别的,其他,否则,其他的
-:
 isn't there anyone else you could ask?:没有其他人可以问吗？
 keep your mouth shut, else you might contradict my story:闭嘴，否则你可能会反驳我的故事
 
@@ -441,7 +440,7 @@ the country | 国家,这个国家
 
 
 at a lower level or layer than:在低于的级别或层
-lower in grade or rank than:
+lower in grade or rank than:年级或级别低于
 lower than (a specified amount or standard):低于（指定数量或标准）
 extending underneath:在下面扩展
 at a lower level or layer:在较低级别或层
@@ -471,7 +470,7 @@ forcefully put forward (an opinion, claim, or course of action):forcefully提出
 make strong efforts to persuade or force (someone) to do something:努力说服或强迫（某人）做某事
 insist that (someone) accepts an offer or gift:坚持（某人）接受要约或礼物
 (of time) be in short supply, necessitating immediate action:（时间）供不应求，需要立即采取行动
-have barely enough of something, especially time:
+have barely enough of something, especially time:几乎没有足够的东西，尤其是时间
 have difficulty doing or achieving something:做某事或实现某事有困难
 raise (a specified weight) by lifting it to shoulder height and then gradually pushing it upwards above the head.:raise（一个指定的重量），将它举到肩高，然后逐渐将它向上推到头顶上方。
 try too hard to achieve distance with a shot, at the risk of inaccuracy.:太努力了，无法通过射击达到距离，有不准确的风险。
@@ -528,7 +527,6 @@ press ahead | 向前推进,继续前进
 
 a shallow dish, typically having a circular indentation in the centre, on which a cup is placed.:一个浅盘，通常在中心有一个圆形凹痕，上面放一个杯子。
 saucer |ˈsɔːsə| Noun/:碟子,飞碟
-:
 
 written works, especially those considered of superior or lasting artistic merit:书面作品，尤其是那些被认为具有卓越或持久艺术价值的作品
 books and writings published on a particular subject:针对特定主题发表的书籍和著作

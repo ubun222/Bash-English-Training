@@ -32,7 +32,7 @@ alter							改变
 \\\\
 
 the action of providing or being provided with amusement or enjoyment:提供或被提供娱乐或享受的行为
-an event, performance, or activity designed to entertain others:
+an event, performance, or activity designed to entertain others:旨在娱乐他人的事件、表演或活动
 the action of receiving a guest or guests and providing them with food and drink:接待客人并为他们提供食物和饮料的行为
 entertainment |ˌɛntəˈteɪnm(ə)nt| Noun/:娱乐
 everyone just sits in front of the television for entertainment:大家只是坐在电视机前娱乐
@@ -43,7 +43,7 @@ expressing adverse or disapproving comments or judgements:表达不利或不赞�
 expressing or involving an analysis of the merits and faults of a work of literature, music, or art:表达或涉及对文学、音乐或艺术作品优劣的分析
 (of a text) incorporating a detailed and scholarly analysis and commentary:（文本）包含详细的学术分析和评论
 involving the objective analysis and evaluation of an issue in order to form a judgement:涉及对某个问题的客观分析和评价，以形成判断
-(of a situation or problem) having the potential to become disastrous; at a point of crisis:
+(of a situation or problem) having the potential to become disastrous; at a point of crisis:（情况或问题）有可能成为灾难性的；在危机时刻
 extremely ill and at risk of death:重病并有死亡风险
 having a decisive or crucial importance in the success, failure, or existence of something:对某事的成功、失败或存在具有决定性或至关重要的意义
 relating to or denoting a point of transition from one state to another:与或表示从一种状态到另一种状态的过渡点
@@ -53,7 +53,7 @@ I was very critical of the previous regime:我对前政权很挑剔
 she never won the critical acclaim she sought:她从未赢得过她所寻求的好评
 a critical edition of a Bach sonata:巴赫奏鸣曲的批判版
 professors often find it difficult to encourage critical thinking amongst their students:professors经常发现很难在学生中鼓励批判性思维
-the floodwaters had not receded and the situation was still critical:
+the floodwaters had not receded and the situation was still critical:洪水未退，形势依然严峻
 she was critical but stable in Middlesbrough General Hospital:她在米德尔斯堡综合医院很重要但稳定
 temperature is a critical factor in successful fruit storage:温度是成功储存水果的关键因素
 if the density is less than a certain critical value the gravitational attraction will be too weak to halt the expansion:如果密度小于某个临界值，引力将太弱而无法停止膨胀
@@ -139,7 +139,7 @@ itemized information about someone:关于某人的详细信息
 a small detachment of troops or police officers given a special duty:一小队被赋予特殊职责的部队或警察
 a special duty assigned to a detachment of troops or police officers:分配给部队或警察分队的特殊职责
 give full information about:给出有关的完整信息
-assign (someone) to undertake a particular task:
+assign (someone) to undertake a particular task:指派（某人）承担特定任务
 clean (a motor vehicle) thoroughly.:clean（机动车辆）彻底。
 detail |ˈdiːteɪl| Noun/Verb/:细节,详细说明,详情
 we shall consider every detail of the Bill:我们将考虑法案的每一个细节
@@ -157,7 +157,7 @@ too large, extensive, or extreme to measure:太大、太宽或无法测量
 immeasurable |ɪˈmɛʒ(ə)rəbl| Adjective/:不可估量,无法估量的
 immeasurable suffering:无量的痛苦
 
-capable of causing someone to believe that something is true or real:
+capable of causing someone to believe that something is true or real:能够使某人相信某事是真实的或真实的
 (of a victory or a winner) leaving no margin of doubt; clear:（胜利或胜利者）毫无疑问；清除
 convincing |kənˈvɪnsɪŋ| Adjective/:令人信服的,有说服力的
 there is no convincing evidence that advertising influences total alcohol consumption:没有令人信服的证据表明广告会影响总饮酒量
@@ -181,10 +181,10 @@ her novel was compared to the work of Daniel Defoe:她的小说被比作丹尼�
 he compared the religions to different paths towards the peak of the same mountain:他将宗教比作通往同一山峰的不同路径
 salaries compare favourably with those of other professions:salaries与其他职业相比毫不逊色
 the dried stuff just can't compare with the taste and aroma of fresh basil:干的东西根本无法与新鲜罗勒的味道和香气相提并论
-words of one syllable are usually compared by ‘-er’ and ‘-est’:
+words of one syllable are usually compared by ‘-er’ and ‘-est’:一个音节的单词通常用“-er”和“-est”进行比较
 
 an individual article or unit, especially one that is part of a list, collection, or set:一篇单独的文章或单元，尤其是列表、集合或集合的一部分
-a piece of news or information.:
+a piece of news or information.:一条新闻或信息。
 an entry in an account.:帐户中的条目。
 used to introduce each item in a list:用于介绍列表中的每一项
 item |ˈʌɪtɪm| Adverb/Noun/:物品,项目,项
@@ -194,9 +194,9 @@ item two statute books … item two drums:item两部法规书……item两个鼓
 existing in a material or physical form; not abstract:以物质或物理形式存在；6
 specific; definite:具体;固化
 (of a noun) denoting a material object as opposed to an abstract quality, state, or action.:（名词）表示一个物质对象，而不是抽象的性质、状态或动作。
-a building material made from a mixture of broken stone or gravel, sand, cement, and water, which can be spread or poured into moulds and forms a mass resembling stone on hardening:
+a building material made from a mixture of broken stone or gravel, sand, cement, and water, which can be spread or poured into moulds and forms a mass resembling stone on hardening:一种建筑材料，由碎石或砾石、沙子、水泥和水的混合物制成，可以铺展或倒入模具中，并在硬化时形成类似石头的物质
 cover (an area) with concrete:cover（一个区域）用混凝土
-fix in position with concrete:
+fix in position with concrete:用混凝土固定
 form (something) into a mass; solidify:form（某物）成一团；13
 make real or concrete instead of abstract:使真实或具体而不是抽象
 concrete |ˈkɒŋkriːt| Adjective/Noun/Verb/:具体的,混凝土,铺设混凝土,具体
@@ -204,7 +204,7 @@ concrete objects like stones:混凝土物体，如石头
 I haven't got any concrete proof:我没有任何具体的证据
 slabs of concrete:混凝土板
 the precious English countryside may soon be concreted over:珍贵的英国乡村可能很快就会被具体化
-the post is concreted into the ground:
+the post is concreted into the ground:柱子被混凝土固定在地上
 the juices of the plants are concreted upon the surface:植物的汁液凝结在表面
 concreting God into actual form of man:将上帝具体化为人的实际形式
 
@@ -218,7 +218,7 @@ conduct the policy, actions, and affairs of (a state, organization, or people) w
 control, influence, or regulate (a person, action, or course of events):控制、影响或调节（人、行为或事件过程）
 conduct oneself, especially with regard to controlling one's emotions:引导自己，尤其是在控制自己的情绪方面
 serve to decide (a legal case).:服务决定（法律案件）。
-(of a word) require that (another word or group of words) be in a particular case:
+(of a word) require that (another word or group of words) be in a particular case:（一个词的）要求（另一个词或一组词）在特定情况下
 govern |ˈɡʌvn| Verb/:治理,治
 he was incapable of governing the country:他不能治理国家
 the future of Jamaica will be governed by geography not history:牙买加的未来将由地理而非历史决定
@@ -226,7 +226,7 @@ he does not have the ability to govern himself or others successfully:他没有�
 the Latin preposition ‘cum’ governs nouns in the ablative:拉丁介词“cum”支配名词的消融
 
 arrange (a group of people or things) in classes or categories according to shared qualities or characteristics:根据共同的品质或特征将（一组人或事物）分类或分类
-assign to a particular class or category:
+assign to a particular class or category:分配给特定的类或类别
 designate (documents or information) as officially secret:designate（文件或信息）作为官方机密
 classify |ˈklasɪfʌɪ| Verb/:分类
 mountain peaks are classified according to their shape:mountain山峰按形状分类
@@ -240,7 +240,7 @@ limit something to (a particular place, time, or group):将某事限制在（特
 withhold (information) from general disclosure:withhold（信息）来自一般披露
 restrict |rɪˈstrɪkt| Verb/:严格,限制
 some roads may have to be closed at peak times to restrict the number of visitors:一些道路可能不得不在高峰时段关闭以限制游客数量
-cities can restrict groups of protesters from gathering on a residential street:
+cities can restrict groups of protesters from gathering on a residential street:城市可以限制抗议者群体聚集在居民区街道上
 I shall restrict myself to a single example:我将只举一个例子
 the Zoological Gardens were at first restricted to members and their guests:动物园最初仅限会员及其客人参观
 at first the Americans tried to restrict news of their involvement in Vietnam:起初美国人试图限制他们参与越南的消息
@@ -268,7 +268,7 @@ the greater number:更大的数字
 the number by which the votes cast for one party or candidate exceed those for the next:一个政党或候选人的票数超过下一个政党或候选人的票数
 a party or group receiving the greater number of votes.:获得更多选票的政党或团体。
 the number by which votes for one candidate are more than those for all other candidates together.:一个候选人的票数超过所有其他候选人的票数。
-the age at which a person is legally a full adult, usually either 18 or 21:
+the age at which a person is legally a full adult, usually either 18 or 21:一个人在法律上是完全成年人的年龄，通常是 18 岁或 21 岁
 the rank or office of a major.:专业的军衔或职务。
 majority |məˈdʒɒrɪti| Noun/:多数
 in the majority of cases all will go smoothly:在大多数情况下，一切都会顺利进行
@@ -284,7 +284,7 @@ a meeting, communication, or relationship with someone:与某人的会面、交�
 a person who may be approached for information or assistance, especially with regard to one's job:可能会寻求信息或帮助的人，尤其是在工作方面
 a person who has associated with a patient with a contagious disease (and so may carry the infection):与患有传染病的患者有关的人（因此可能携带感染）
 communicate with (someone), typically in order to give or receive information:与（某人）交流，通常是为了提供或接收信息
-touch:touch
+touch:触碰
 contact |ˈkɒntakt| Noun/Verb/:接触,联系,联络,联系方式
 equipment in contact with water can benefit from rubber lining:与水接触的设备可以受益于橡胶衬里
 contact dermatitis:接触性皮炎
@@ -301,7 +301,7 @@ almost or nearly as described, but not completely or according to strict definit
 not physically existing as such but made by software to appear to do so:不是实际存在的，而是由软件制造出来的
 carried out, accessed, or stored by means of a computer, especially over a network:通过计算机执行、访问或存储，尤其是通过网络
 relating to the points at which rays would meet if produced backwards.:关于如果向后产生光线会相遇的点。
-relating to or denoting infinitesimal displacements of a point in a system.:
+relating to or denoting infinitesimal displacements of a point in a system.:关于或表示系统中一点的无穷小位移。
 denoting particles or interactions with extremely short lifetimes and (owing to the uncertainty principle) indefinitely great energies, postulated as intermediates in some processes.:表示具有极短寿命和（由于不确定性原理）无限大能量的粒子或相互作用，在某些过程中被假定为中间体。
 virtual |ˈvəːtʃʊəl| Adjective/:虚拟的,虚拟
 the virtual absence of border controls:边境管制的虚拟缺席
@@ -309,7 +309,7 @@ virtual images:虚拟图像
 a virtual library:一个虚拟图书馆
 
 the quality or condition of being easy to understand or do:易于理解或易于执行的质量或条件
-the quality or condition of being plain or uncomplicated in form or design:
+the quality or condition of being plain or uncomplicated in form or design:在形式或设计上简单或简单的质量或条件
 a thing that is plain or uncomplicated:一件简单或简单的事情
 simplicity |sɪmˈplɪsɪti| Noun/:简单
 for the sake of simplicity, this chapter will concentrate upon one theory:为了简单起见，本章将集中讨论一个理论
@@ -332,7 +332,7 @@ the station is to expand its late-night programming:thestation将扩展其深夜
 a thing made or adapted for a particular purpose, especially a piece of mechanical or electronic equipment:为特定目的制造或改装的东西，尤指一件机械或电子设备
 a bomb or other explosive weapon:炸弹或其他爆炸性武器
 a piece of portable electronic equipment that can connect to the internet, such as a smartphone, tablet, or laptop computer:一种可以连接到互联网的便携式电子设备，例如智能手机、平板电脑或笔记本电脑
-a plan, method, or trick with a particular aim:
+a plan, method, or trick with a particular aim:具有特定目的的计划、方法或技巧
 a form of words intended to produce a particular effect in speech or a literary work:一种旨在在演讲或文学作品中产生特定效果的词语
 a drawing or design:绘图或设计
 an emblematic or heraldic design:标志性或纹章设计
@@ -349,7 +349,7 @@ works of strange device:奇器作品
 
 existing or occurring before in time or order:存在或发生在时间或顺序之前
 overhasty in acting:表演过于仓促
-previous convictions; a criminal record:
+previous convictions; a criminal record:先前的定罪；犯罪记录
 previous |ˈpriːvɪəs| Adjective/Noun/:以前的,以前,前,上
 she looked tired after her exertions of the previous evening:她昨天晚上劳累后看起来很累
 I admit I may have been a bit previous:我承认我可能有点以前

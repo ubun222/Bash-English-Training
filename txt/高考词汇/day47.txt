@@ -15,7 +15,7 @@ schedule						计划，安排
 wood						木头
 woods						树林
 deaf						聋的
-the deaf						笼子
+the deaf						聋子
 architect						设计师
 walnut						核桃
 Irish						爱尔兰的
@@ -34,7 +34,7 @@ version						说法，变体，版本
 disabled						有残疾的
 march						三月，游行，进展
 truth						事实，真实性，真理
-in truth						事实上l
+in truth						事实上
 \\\\
 
 come together, assemble or accumulate:聚在一起，组装或积累
@@ -56,7 +56,7 @@ I gathered up the prescription and went to the door:我收好药方走到门口
 the harvest of wheat and barley had been gathered in:小麦和大麦的收成已经在
 the Bushmen live by hunting and gathering:布须曼人以狩猎和采集为生
 she gathered the child in her arms:她把孩子抱在怀里
-the destroyer gathered speed:
+the destroyer gathered speed:驱逐舰加速
 she lay gathering her thoughts together:她躺着收集她的想法
 she paused to gather her breath and leaned against the wall puffing:她停下来喘口气，靠在墙上喘着气
 the front is gathered at the waist:前收腰
@@ -127,7 +127,7 @@ used to address or refer to a woman in a polite or respectful way:用于以礼�
 used to address a woman at the start of a formal or business letter:用于在正式或商务信函的开头称呼女性
 used before a title to address or refer to a female holder of that position:在职称前用来称呼或指代担任该职位的女性
 a conceited or bossy girl or young woman:一个自负或专横的女孩或年轻女人
-a woman who runs a brothel.:
+a woman who runs a brothel.:经营妓院的女人。
 madam |ˈmadəm| Noun/:,夫人,太太
 Can I help you, madam?:我可以帮助您吗，女士？
 Dear Madam, …:尊敬的女士，...
@@ -181,7 +181,7 @@ a pilot's certificate of ability to fly a plane, indicated by a badge representi
 a raised part of the body of a car or other vehicle above the wheel.:车轮上方的汽车或其他车辆车身的凸起部分。
 a part of a large building, especially one that projects from the main part:大型建筑物的一部分，尤其是从主体部分突出的部分
 a group within a political party or other organization having particular views or a particular function:政党或其他组织内有特定观点或特定职能的团体
-the sides of a theatre stage out of view of the audience.:
+the sides of a theatre stage out of view of the audience.:观众看不到的剧院舞台两侧。
 (in soccer, rugby, and hockey) the part of the field close to the sidelines.:（足球、橄榄球和曲棍球）场地靠近边线的部分。
 an attacking player positioned near to one of the sidelines.:一名位于边线附近的进攻球员。
 a lateral part or projection of an organ or structure.:器官或结构的侧面部分或突出部分。
@@ -275,7 +275,7 @@ basement |ˈbeɪsm(ə)nt| Noun/:地下室,地库
 they went down the stairs into the basement:他们走下楼梯进入地下室
 
 a plan for carrying out a process or procedure, giving lists of intended events and times:执行过程或程序的计划，列出预期的事件和时间
-one's day-to-day plans or timetable:
+one's day-to-day plans or timetable:一个人的日常计划或时间表
 a timetable:一个时间表
 an appendix to a formal document or statute, especially as a list, table, or inventory:正式文件或法规的附录，尤其是列表、表格或清单
 (with reference to the British system of income tax) any of the forms (named ‘A’, ‘B’, etc.) issued for completion and relating to the various classes into which taxable income is divided.:（参考英国所得税制度）为完成而签发的任何表格（名为“A”、“B”等），并与应税收入划分的各个类别有关。
@@ -294,7 +294,7 @@ the hard fibrous material that forms the main substance of the trunk or branches
 wooden barrels used for storing alcoholic drinks:用于存放酒精饮料的木桶
 a golf club with a wooden or other head that is relatively broad from face to back (often with a numeral indicating the degree to which the face is angled to loft the ball):一个木头或其他杆头的高尔夫球杆，从正面到背面相对较宽（通常用一个数字表示杆面倾斜的角度以将球击出）
 a shot made with a wood:用木头制作的镜头
-an area of land, smaller than a forest, that is covered with growing trees:
+an area of land, smaller than a forest, that is covered with growing trees:比森林还小的一块土地，上面长满了正在生长的树木
 wood |wʊd| Noun/:木头,木,木材
 a block of wood:一块木头
 wines from the wood:来自木头的葡萄酒
@@ -332,7 +332,6 @@ few software packages were architected with Ethernet access in mind:few软件包
 the large wrinkled edible seed of a deciduous tree, consisting of two halves contained within a hard shell which is enclosed in a green fruit.:落叶树的大皱可食用种子，由两半组成，包含在坚硬的外壳中，外壳包裹在绿色的果实中。
 the tall tree which produces walnuts, with compound leaves and valuable ornamental timber that is used chiefly in cabinetmaking and gun stocks.:核桃的高大树，有复叶和珍贵的观赏木材，主要用于制作家具和枪托。
 walnut |ˈwɔːlnʌt| Noun/:核桃,胡桃木
-:
 
 relating to Ireland, its people, or the Celtic language traditionally and historically spoken there:与爱尔兰、其人民或当地传统和历史上使用的凯尔特语有关
 (of a statement or action) paradoxical, illogical or apparently so.:（陈述或行动）自相矛盾的、不合逻辑的或显然如此。
@@ -344,7 +343,7 @@ the Irish government:爱尔兰政府
 a way in which a thing is done or happens:一件事完成或发生的方式
 a style in literature or art:一种文学或艺术风格
 a semantic category of adverbs and adverbials which answer the question ‘how?’:一个语义类别的副词和副词，回答“如何？”这个问题。
-a kind or sort:
+a kind or sort:一种或一种
 a person's outward bearing or way of behaving towards others:一个人对他人的外在态度或行为方式
 polite or well-bred social behaviour:礼貌或有教养的社会行为
 social behaviour or habits:社会行为或习惯
@@ -386,7 +385,7 @@ growing in pairs:成对生长
 link (a town or district) with another in a different country or cause (two towns or districts) to be linked, for the purposes of friendship and cultural exchange:link（一个城镇或地区）与另一个国家或地区的另一个人或导致（两个城镇或地区）联系，以建立友谊和文化交流的目的
 link, combine:link，结合
 twin |twɪn| Adjective/Noun/Verb/:双胞胎,双,孪生
-experiments were carried out using sets of identical twins:
+experiments were carried out using sets of identical twins:实验是使用同卵双胞胎组进行的
 there was a bruise on his cheek, a twin to the one on mine:他的脸颊上有一块瘀伤，与我的双胞胎
 the hotel has 54 rooms, of which 4 are twins:酒店拥有54间客房，其中4间是双床间
 she gave birth to twin boys:她生下了双胞胎男孩
@@ -397,7 +396,7 @@ the Russian city of Kostroma is twinned with Durham:俄罗斯科斯特罗马市�
 the company twinned its core business of brewing with that of distilling:公司将酿造与蒸馏的核心业务结合起来
 
 having control and influence over people and events:对人和事件有控制权和影响力
-having or producing great force or energy:
+having or producing great force or energy:拥有或产生巨大的力量或能量
 involving or done with great force or energy:参与或以极大的力量或精力完成
 (of a person or animal) very strong and muscular:（人或动物的）非常强壮和肌肉发达
 having a strong effect on people's feelings or thoughts:对人们的感受或想法有强烈的影响
@@ -416,7 +415,7 @@ occurring or done many times at short intervals:在短时间内发生或多次�
 (of a person) doing something often, habitual:（某人）经常做某事，习惯性的
 found at short distances apart:在相距不远的地方发现
 (of the pulse) rapid.:（脉搏）急促。
-visit (a place) often:
+visit (a place) often:经常去（一个地方）
 frequent |ˈfriːkw(ə)nt| Adjective/Verb/:频繁,经常的
 frequent changes in policy:政策的频繁变化
 a frequent visitor to Scotland:苏格兰的常客
@@ -446,7 +445,7 @@ denoting an ethnic or political group actively opposing an occupying or invading
 not or no longer confined or imprisoned:not或不再被限制或监禁
 not physically obstructed or fixed:没有物理障碍或固定
 (of power or energy) disengaged or available.:（功率或能量）脱离或可用。
-not bound in an atom, a molecule, or a compound:
+not bound in an atom, a molecule, or a compound:不受原子、分子或化合物的束缚
 denoting a linguistic form that can be used in isolation.:表示可以单独使用的语言形式。
 not subject to engagements or obligations:不受约定或义务约束
 (of a facility or piece of equipment) not occupied or in use:（设施或设备）未被占用或使用
@@ -509,7 +508,7 @@ an adaptation of a novel, piece of music, etc. into another medium or style:将�
 a particular release of a piece of computer software.:一个特定版本的计算机软件。
 an account of a matter from a particular person's point of view:从特定人的角度对事情的描述
 the manual turning of a fetus in the uterus to make delivery easier.:在子宫内手动翻转胎儿，使分娩更容易。
-create a new version of:
+create a new version of:创建一个新版本
 version |ˈvəːʃn| Noun/Verb/:版本,版,型号
 a revised version of the paper was produced for a later meeting:为以后的会议制作了该文件的修订版
 the English version will be published next year:英文版明年出版

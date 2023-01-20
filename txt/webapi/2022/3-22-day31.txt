@@ -71,7 +71,7 @@ experience or be subjected to (something bad or unpleasant):体验或受到（�
 be affected by or subject to (an illness or ailment):受或受（疾病或病痛）影响
 become or appear worse in quality:变得或看起来质量更差
 undergo martyrdom or execution.:接受殉道或处决。
-tolerate:tolerate
+tolerate:容忍
 allow (someone) to do something:allow（某人）做某事
 suffer |ˈsʌfə| Verb/:遭受,受苦,挨
 he suffered intense pain:他遭受了剧烈的疼痛
@@ -112,7 +112,7 @@ battle |ˈbatl| Noun/Verb/:战斗,战,争
 the battle lasted for several hours:这场战斗持续了几个小时
 the battle against ageing:抗衰老之战
 he has been battling against the illness:他一直在与疾病作斗争
-firefighters battled a 9,800-acre brush fire:
+firefighters battled a 9,800-acre brush fire:消防员扑灭了 9,800 英亩的丛林大火
 
 the state of being legally responsible for something:对某事负有法律责任的状态
 a thing for which someone is responsible, especially an amount of money owed:某人负责的事情，尤其是欠的钱
@@ -142,8 +142,8 @@ continuously over a period of time, always:continuously在一段时间内，总�
 constantly |ˈkɒnst(ə)ntli| Adverb/:不断地,不断
 the world is constantly changing:世界在不断变化
 
-well known from long or close association:wellknownfromlongorcloseassociation
-often encountered or experienced, common:
+well known from long or close association:因长期或密切交往而广为人知
+often encountered or experienced, common:经常遇到或经历过的，常见的
 having a good knowledge of:具有良好的知识
 in close friendship, intimate:亲密的友谊，亲密的
 informal or intimate to an inappropriate degree:非正式或亲密到不恰当的程度
@@ -202,7 +202,7 @@ all second-hand furniture must comply with the new regulations:所有二手家�
 
 just behaviour or treatment:just行为或待遇
 the quality of being fair and reasonable:公平合理的品质
-the administration of the law or authority in maintaining this:
+the administration of the law or authority in maintaining this:维护此法律或权力的管理
 a judge or magistrate, in particular a judge of the Supreme Court of a country or state.:一名法官或地方法官，特别是一个国家或州的最高法院法官。
 justice |ˈdʒʌstɪs| Noun/:正义,公正
 a concern for justice, peace, and genuine respect for people:关注正义、和平和对人的真诚尊重
@@ -211,7 +211,7 @@ a tragic miscarriage of justice:一场悲剧性的误判
 
 an area of a country or city, especially one characterized by a particular feature or activity:一个国家或城市的区域，尤指以特定特征或活动为特征的区域
 a region defined for an administrative purpose:为管理目的而定义的区域
-a division of a county or region that elects its own councillors.:
+a division of a county or region that elects its own councillors.:选出自己的议员的县或地区的分区。
 divide into areas:划分区域
 district |ˈdɪstrɪkt| Noun/Verb/:区,地区
 an elegant shopping district:优雅的商圈
@@ -259,7 +259,7 @@ a meeting of people face to face, especially for consultation.:面对面的会�
 a conversation between a journalist or radio or television presenter and a person of public interest, used as the basis of a broadcast or publication:记者或广播或电视节目主持人与公共利益的人之间的对话，用作广播或出版物的基础
 an oral examination of an applicant for a job, college place, etc.:求职者、大学名额等的口试。
 a session of formal questioning of a person by the police.:警方对某人的正式讯问。
-hold an interview with (someone):
+hold an interview with (someone):与（某人）进行面谈
 perform (well or badly) at an interview.:在面试中表现（好或坏）。
 interview |ˈɪntəvjuː| Noun/Verb/:面试,采访
 a half-hour interview with the prime minister:与总理的半小时采访
@@ -279,7 +279,7 @@ make over (property or money) to another:makeover（财产或金钱）给另一�
 the action or process of releasing or being released:释放或被释放的动作或过程
 a handle or catch that releases part of a mechanism.:释放部分机制的句柄或捕获。
 the action of making a film, recording, or other product available to the public:向公众提供电影、录音或其他产品的行为
-a film or other product made available to the public:
+a film or other product made available to the public:向公众提供的电影或其他产品
 the action of releasing property, money, or a right to another.:向他人释放财产、金钱或权利的行为。
 a document effecting a release of property, money, etc.:影响财产、金钱等释放的文件。
 release |rɪˈliːs| Noun/Verb/:发布,释放,推出,松开,版本
@@ -304,7 +304,7 @@ examine or evaluate (an option or possibility):检查或评估（一个选项或
 examine by touch:触摸检查
 surgically examine (a wound or part of the body) in detail:手术详细检查（伤口或身体的一部分）
 explore |ɪkˈsplɔː| Verb/:探索,探讨
-he explored the Fontainebleau forest:
+he explored the Fontainebleau forest:他探索了枫丹白露森林
 the company has been granted licences to explore for petroleum:公司已获得石油勘探许可证
 he sets out to explore fundamental questions:he着手探索基本问题
 the firm will explore joint development projects:该公司将探索联合开发项目
@@ -312,7 +312,7 @@ her fingers explored his hair:她的手指探索着他的头发
 he decided to explore the lesion to establish the diagnosis:他决定探查病灶以确定诊断
 
 (of a state, quality, or emotion) very great or intense:（状态、品质或情绪的）非常好或非常强烈
-(of a disease or disability) very severe:
+(of a disease or disability) very severe:（疾病或残疾）非常严重
 (of a person or statement) having or showing great knowledge or insight:（某人或陈述）具有或表现出丰富的知识或洞察力
 (of a subject or idea) demanding deep study or thought:（主题或思想）需要深入研究或思考
 very deep:非常深

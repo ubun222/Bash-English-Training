@@ -31,7 +31,7 @@ the greater number:更大的数字
 the number by which the votes cast for one party or candidate exceed those for the next:一个政党或候选人的票数超过下一个政党或候选人的票数
 a party or group receiving the greater number of votes.:获得更多选票的政党或团体。
 the number by which votes for one candidate are more than those for all other candidates together.:一位候选人的得票数多于所有其他候选人的总票数。
-the age at which a person is legally a full adult, usually either 18 or 21:
+the age at which a person is legally a full adult, usually either 18 or 21:一个人在法律上是完全成年人的年龄，通常是 18 岁或 21 岁
 the rank or office of a major.:专业的军衔或职位。
 majority |məˈdʒɒrɪti| Noun/:多数
 in the majority of cases all will go smoothly:在大多数情况下一切都会顺利
@@ -39,7 +39,7 @@ Labour retained the seat with a majority of 9,830:Labour以9,830的多数保留�
 kids get control of the money when they reach the age of majority:kids到了成年就可以控制钱了
 
 the art of representing three-dimensional objects on a two-dimensional surface so as to give the right impression of their height, width, depth, and position in relation to each other:我们必须对他的所作所为保持清醒的认识1
-the appearance of viewed objects with regard to their relative position, distance from the viewer, etc.:
+the appearance of viewed objects with regard to their relative position, distance from the viewer, etc.:被观察物体的相对位置、与观察者的距离等方面的外观。
 a view or prospect.:一个观点或前景。
 the relation of two figures in the same plane, such that pairs of corresponding points lie on concurrent lines, and corresponding lines meet in collinear points.:在同一平面内的两个图形的关系，使得对应点对位于并列线上，对应线在共线点相交。
 a particular attitude towards or way of regarding something; a point of view:对某事的特定态度或方式；10
@@ -48,7 +48,7 @@ an apparent spatial distribution in perceived sound.:感知声音的明显空间
 perspective |pəˈspɛktɪv| Noun/:看法,透视,观点
 the theory and practice of perspective:透视的理论与实践
 a trick of perspective:透视技巧
-most guidebook history is written from the editor's perspective:
+most guidebook history is written from the editor's perspective:大多数指南历史都是从编辑的角度写的
 we must keep a sense of perspective about what he's done:我们必须对他的所作所为保持清醒的认识
 
 an official count or survey, especially of a population:官方统计或调查，尤其是人口
@@ -127,14 +127,14 @@ a person in a novel, play, or film:小说、戏剧或电影中的人
 a part played by an actor:一个演员扮演的角色
 a person seen in terms of a particular aspect of character:从性格的特定方面来看的人
 an unusual or amusing person:一个不寻常或有趣的人
-a printed or written letter or symbol.:
+a printed or written letter or symbol.:印刷或书写的字母或符号。
 a symbol representing a letter or number.:代表字母或数字的符号。
 a characteristic, especially one that assists in the identification of a species.:一种特征，尤其是有助于识别物种的特征。
 inscribe or write (something).:inscribe或写（某事）。
-describe:
+describe:描述
 character |ˈkarəktə| Noun/Verb/:特点,字符,字,性格
 running away was not in keeping with her character:runningaway不符合她的性格
-gas lamps give the area its character:
+gas lamps give the area its character:煤气灯赋予该地区特色
 the island is full of character:岛上充满个性
 she had character as well as beauty:她有性格也有美貌
 to what do I owe this attack on my character?:我要对我的角色进行这种攻击吗？

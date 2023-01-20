@@ -34,7 +34,7 @@ competitiveness					竞争意识，竞争力
 
 a group of people appointed for a specific function by a larger group and typically consisting of members of that group:由一个更大的团体任命执行特定职能的一群人，通常由该团体的成员组成
 (in the UK) a committee appointed by Parliament to consider the details of proposed legislation:（在英国）议会任命的委员会审议拟议立法的细节
-(in the UK) the whole House of Commons when sitting as a committee.:
+(in the UK) the whole House of Commons when sitting as a committee.:（在英国）整个下议院作为委员会开会。
 a person entrusted with the charge of another person or another person's property.:受托管理他人或他人财产的人。
 a person who has been judicially committed to the charge of another because of insanity or intellectual disability.:因精神错乱或智力残疾而被司法指控他人的人。
 committee |kəˈmɪti| Noun/:委员会,组
@@ -50,7 +50,7 @@ I talk to a lot of actresses and they say that civilians are scared of them:我�
 civilian clothes:民服
 
 relating to the running of a home or to family relations:与家庭经营或家庭关系有关
-of or for use in the home rather than in an industrial or office environment:
+of or for use in the home rather than in an industrial or office environment:属于或用于家庭而不是工业或办公环境
 (of an animal) tame and kept by humans:（动物的）驯服并由人类饲养
 (of a person) fond of family life and running a home:（人的）喜欢家庭生活，经营家庭
 existing or occurring inside a particular country, not foreign or international:存在或发生在特定国家，而不是外国或国际
@@ -99,9 +99,8 @@ his marketing strategy has been to locate in small towns:他的营销策略一�
 
 make or become tight or tighter:makeor变得更紧或更紧
 tighten |ˈtʌɪtn| Verb/:,收紧,拧紧
-:
 
-the branch of science concerned with the nature and properties of matter and energy. The subject matter of physics includes mechanics, heat, light and other radiation, sound, electricity, magnetism, and the structure of atoms.:
+the branch of science concerned with the nature and properties of matter and energy. The subject matter of physics includes mechanics, heat, light and other radiation, sound, electricity, magnetism, and the structure of atoms.:与物质和能量的性质和特性有关的科学分支。物理学的主题包括力学、热、光和其他辐射、声、电、磁和原子结构。
 the physical properties and phenomena of something:某物的物理性质和现象
 physics |ˈfɪzɪks| Noun/:,物理学,生理
 the physics of plasmas:等离子体物理学
@@ -258,7 +257,7 @@ be refilled:被补充
 (of a person) return to a normal state of mind or strength after a period of exertion:（人）经过一段时间的劳累后，精神或力量恢复正常状态
 the replenishment of an aquifer by the absorption of water:通过吸水补充含水层
 recharge |ˌriːˈtʃɑːdʒ| Noun/Verb/:,再充电
-he plugged his razor in to recharge it:
+he plugged his razor in to recharge it:他给剃须刀充电
 the drill takes about three hours to recharge:电钻充电大约需要三个小时
 we recharged our glasses:我们给我们的眼镜充电
 the rate at which the aquifer recharges naturally:含水层自然补给的速率
@@ -305,7 +304,7 @@ he is responsible for originating this particular cliché:he负责制造这个�
 the possibility or likelihood of some future event occurring:某些未来事件发生的可能性或可能性
 a mental picture of a future or anticipated event:未来或预期事件的心理图景
 chances or opportunities for success or wealth:成功或财富的机会或机会
-a person regarded as likely to succeed or as a potential customer, client, etc.:
+a person regarded as likely to succeed or as a potential customer, client, etc.:被认为有可能成功或被视为潜在客户、委托人等的人
 a place likely to yield mineral deposits:一个可能产生矿藏的地方
 an extensive view of landscape:广阔的景观视野
 search for mineral deposits, especially by drilling and excavation:寻找矿藏，尤其是通过钻探和挖掘
@@ -328,7 +327,7 @@ prospects | 前景,展望
 
 eager to know or learn something:渴望知道或学习一些东西
 expressing curiosity:表达好奇
-strange, unusual:
+strange, unusual:奇怪的，不寻常的
 (of books) erotic or pornographic.:（书籍）色情或色情。
 curious |ˈkjʊərɪəs| Adjective/:好奇的,好奇,好奇心强
 I began to be curious about the whereabouts of the bride and groom:我开始好奇新郎新娘的去向
@@ -343,7 +342,7 @@ tax incentives for investing in depressed areas:在经济萧条地区投资的�
 
 an infective agent that typically consists of a nucleic acid molecule in a protein coat, is too small to be seen by light microscopy, and is able to multiply only within the living cells of a host:一种感染因子，通常由蛋白质外壳中的核酸分子组成，太小而无法通过光学显微镜看到，并且只能在宿主的活细胞内繁殖
 an infection or disease caused by a virus:由病毒引起的感染或疾病
-a harmful or corrupting influence:
+a harmful or corrupting influence:有害或腐败的影响
 a piece of code that is capable of copying itself and typically has a detrimental effect, such as corrupting the system or destroying data.:一段能够自我复制的代码，通常会产生不利影响，例如破坏系统或破坏数据。
 virus |ˈvʌɪrəs| Noun/:病毒,毒
 the hepatitis B virus:乙型肝炎病毒
@@ -356,7 +355,7 @@ raise or grow (plants), especially on a large scale for commercial purposes:rais
 grow or maintain (living cells or tissue) in culture:在培养中生长或维持（活细胞或组织）
 try to acquire or develop (a quality or skill):尝试获得或发展（一种品质或技能）
 try to win the friendship or favour of (someone):尝试赢得（某人）的友谊或青睐
-try to improve or develop (one's mind).:
+try to improve or develop (one's mind).:努力改善或发展（一个人的思想）。
 cultivate |ˈkʌltɪveɪt| Verb/:培育,培养,栽培
 the peasants who cultivated the land became its owners:耕地的农民成为了土地的主人
 they were encouraged to cultivate basic food crops:鼓励他们种植基本粮食作物
@@ -376,7 +375,6 @@ a change in gravitational potential:引力势的变化
 
 unwilling and hesitant, disinclined:不愿意和犹豫，不喜欢
 reluctant |rɪˈlʌkt(ə)nt| Adjective/:不情愿的,勉强
-:
 
 (of a person) wretchedly unhappy or uncomfortable:（某人）非常不开心或不舒服
 causing unhappiness or discomfort:引起不快或不适
@@ -385,7 +383,7 @@ contemptible (used as a term of abuse or for emphasis):contemptible（用作滥�
 pitiably small or inadequate:可怜的小或不足
 miserly:吝啬
 miserable |ˈmɪz(ə)rəbl| Adjective/:悲惨的,惨,悲惨,可怜
-their happiness made Anne feel even more miserable:
+their happiness made Anne feel even more miserable:他们的幸福让安妮感到更加痛苦
 horribly wet and miserable conditions:极度潮湿和恶劣的环境
 a miserable man in his late sixties:一个六十多岁的可怜人
 you miserable old creep!:你这个可怜的老怪物！

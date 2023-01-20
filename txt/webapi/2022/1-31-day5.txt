@@ -75,7 +75,7 @@ the term of office of a political leader or government:政治领导人或政府�
 the action of dispensing, giving, or applying something:分配、给予或应用某物的动作
 administration |ədˌmɪnɪˈstreɪʃn| Noun/:行政,管理,行政管理
 the day-to-day administration of the company:公司的日常管理
-the university administration took their demands seriously:
+the university administration took their demands seriously:大学行政部门认真对待他们的要求
 the company went into administration:公司进入行政管理
 the inhabitants of the island voted to remain under French administration:岛上的居民投票决定留在法国管理之下
 the administration sought to provide public reassurance:政府试图提供公众保证
@@ -164,7 +164,7 @@ the restaurant offers a wide selection of hot and cold dishes:the餐厅提供多
 I make Dayflower the selection for the Irish 1000 Guineas:我让Dayflower成为爱尔兰1000吉尼的选择
 your selection may not contain two different data types:您的选择可能不包含两种不同的数据类型
 there has been more than enough time for selection to generate specific DNA sequences of the required length:已经有足够的时间进行选择以生成所需长度的特定DNA序列
-blocks ranging in area from 158 to 3,102 acres have been thrown open for selection:
+blocks ranging in area from 158 to 3,102 acres have been thrown open for selection:面积从 158 英亩到 3,102 英亩不等的街区已开放供选择
 
 the alternate rising and falling of the sea, usually twice in each lunar day at a particular place, due to the attraction of the moon and sun:海面的交替上升和下降，由于月亮和太阳的吸引，通常每个阴历日在特定地点两次
 the water as affected by the tide:受潮汐影响的水
@@ -209,11 +209,11 @@ be important or significant:重要或重要
 (of a person) be important or influential:（一个人的）重要或有影响力的
 (of a wound) secrete or discharge pus.:（伤口的）分泌或排出脓液。
 matter |ˈmatə| Noun/Verb/:事情,要紧,物,问题,事项
-the structure and properties of matter:
+the structure and properties of matter:物质的结构和性质
 organic matter:有机物
 reading matter:读物
 a great deal of work was done on this matter:在这件事上做了很多工作
-we can do nothing to change matters:
+we can do nothing to change matters:我们无能为力
 what's the matter?:怎么了？
 it doesn't matter what the guests wear:客人穿什么无所谓
 she was trying to get known by the people who matter:她试图让重要的人知道
@@ -235,7 +235,7 @@ a sum of money given by a government or other organization for a particular purp
 the action of granting something:授予某物的行为
 a legal conveyance or formal conferment:a合法转让或正式授予
 grant |ɡrɑːnt| Noun/Verb/:授予,拨款,赠款
-they were granted a meeting:
+they were granted a meeting:他们获准会面
 they will grant you asylum:他们会给你庇护
 he hasn't made much progress, I'll grant you that:他没有取得太大进展，我会同意你的
 a research grant:a研究资助
@@ -284,13 +284,13 @@ he visited the boarders in their dormitory:他拜访了寄宿生的宿舍
 a dormitory town:一个宿舍镇
 
 very bad or unpleasant:我们离高速公路很远1
-extremely shocking; horrific:
+extremely shocking; horrific:极其震撼；可怕的
 (of a person) very unwell or troubled:（一个人的）非常不舒服或烦恼
 used to emphasize the extent of something, especially something unpleasant or negative:用于强调某事的程度，尤其是不愉快或消极的事
 inspiring reverential wonder or fear.:inspiring虔诚的惊奇或恐惧。
 awfully; very:糟糕透了；2
 awful |ˈɔːf(ʊ)l| Adjective/Adverb/:可怕,可怕的
-the place smelled awful:
+the place smelled awful:这个地方闻起来很糟糕
 awful, bloody images:糟糕的血腥图片
 I felt awful for being so angry with him:生他的气让我感觉很糟糕
 I've made an awful fool of myself:我出丑了
@@ -310,11 +310,11 @@ a doctor in emergency cleaned the wound:急诊医生清理伤口
 
 pressure or tension exerted on a material object:施加在物质上的压力或张力
 the degree of stress measured in units of force per unit area.:以每单位面积的力为单位测量的应力程度。
-a state of mental or emotional strain or tension resulting from adverse or demanding circumstances:
+a state of mental or emotional strain or tension resulting from adverse or demanding circumstances:由于不利或苛刻的环境而导致的精神或情绪紧张或紧张的状态
 something that causes a state of strain or tension:导致紧张或紧张状态的事物
 physiological disturbance or damage caused to an organism by adverse circumstances:不利环境对生物体造成的生理障碍或损害
 particular emphasis or importance:特别强调或重要性
-emphasis given to a particular syllable or word in speech, typically through a combination of relatively greater loudness, higher pitch, and longer duration:
+emphasis given to a particular syllable or word in speech, typically through a combination of relatively greater loudness, higher pitch, and longer duration:强调语音中的特定音节或单词，通常通过相对较大的响度、较高的音调和较长的持续时间的组合
 give particular emphasis or importance to (a point, statement, or idea) made in speech or writing:对演讲或写作中的（观点、陈述或想法）给予特别的强调或重要性
 give emphasis to (a syllable or word) when pronouncing it:give强调（一个音节或单词）发音时
 subject to pressure or tension:承受压力或紧张
@@ -389,7 +389,6 @@ exchange controls have finally been removed:exchange控件终于被移除了
 he was removed from his teaching position:他被免职
 it is an isolated place, far removed from the London art world:it是一个与世隔绝的地方，远离伦敦艺术界
 an explanation that is far removed from the truth:一个与事实相去甚远的解释
-:
 a member of the Fifth Remove:第五次移除成员
 
 cousin twice removed | 表弟两次被移除,表弟两次被删除
@@ -410,7 +409,7 @@ the direction in which a building faces; an outlook:建筑物朝向的方向；1
 exposure |ɪkˈspəʊʒə| Noun/:接触,暴露,曝光
 the dangers posed by exposure to asbestos:接触石棉带来的危险
 they were suffering from exposure:他们遭受暴露
-his exposure to the banking system:
+his exposure to the banking system:他对银行系统的敞口
 New Delhi increased its exposure to hard loans:新德里增加了硬贷款的敞口
 she took her life for fear of exposure as a spy:她因害怕暴露为间谍而自杀
 scientific findings receive regular exposure in the media:scientific发现定期在媒体上曝光
@@ -419,12 +418,12 @@ an exposure of 0.5 seconds at f/5.6:f/5.6曝光0.5秒
 the exposure is perfect—a gentle slope to the south-west:曝光完美——西南方向缓坡展望
 
 support or actively encourage (a cause, venture, etc.); further the progress of:支持或积极鼓励（事业、冒险等）；7
-give publicity to (a product, organization, or venture) so as to increase sales or public awareness:
+give publicity to (a product, organization, or venture) so as to increase sales or public awareness:宣传（产品、组织或企业）以提高销量或提高公众知名度
 attempt to ensure the passing of (a private Act of Parliament):试图确保通过（议会的私人法案）
 raise (someone) to a higher position or rank:raise（某人）到更高的职位或等级
 transfer (a sports team) to a higher division of a league:transfer（一个运动队）到一个联赛的更高级别
 exchange (a pawn) for a more powerful piece of the same colour, typically a queen, when it reaches the opponent's end of the board.:exchange（棋子）当它到达对手的棋盘末端时，换取更强大的相同颜色的棋子，通常是皇后。
-enable (a relatively low card) to win a trick by playing off the higher ones first:
+enable (a relatively low card) to win a trick by playing off the higher ones first:使（一张相对低的牌）通过先打出高牌来赢得一墩牌
 (of an additive) act as a promoter of (a catalyst).:（添加剂）充当（催化剂）的促进剂。
 promote |prəˈməʊt| Verb/:推动,促进
 some regulation is still required to promote competition:仍然需要一些监管来促进竞争
@@ -439,7 +438,7 @@ involve someone in (a conversation or discussion):让某人参与（对话或讨
 participate or become involved in:participate或参与
 establish a meaningful contact or connection with:建立有意义的联系或联系
 arrange to employ or hire (someone):安排雇用或雇用（某人）
-pledge or enter into a contract to do something:
+pledge or enter into a contract to do something:承诺或订立合同做某事
 reserve (accommodation, a place, etc.) in advance:reserve（住宿、地点等）提前
 (with reference to a part of a machine or engine) move into position so as to come into operation:（参照机器或发动机的一部分）移动到位以便开始工作
 (of fencers or swordsmen) bring (weapons) together preparatory to fighting.:（剑士或剑士）将（武器）聚集在一起准备战斗。
@@ -461,7 +460,7 @@ an uncertain future:不确定的未来
 I was uncertain how to proceed:我不确定如何进行
 
 (of a building or other area) provide lodging or sufficient space for:（建筑物或其他区域的）提供住宿或足够的空间
-fit in with the wishes or needs of:
+fit in with the wishes or needs of:符合以下人士的意愿或需要
 adapt to:适应
 accommodate |əˈkɒmədeɪt| Verb/:容纳
 the cottages accommodate up to six people:小屋最多可容纳六人
@@ -469,12 +468,12 @@ any language must accommodate new concepts:任何语言都必须适应新概念
 making users accommodate to the realities of today's marketplace:让用户适应当今市场的现实
 
 a person who is forced to work for and obey another and is considered to be their property; an enslaved person:被迫为他人工作和服从他人并被视为其财产的人；7
-a person who works very hard without proper remuneration or appreciation:
+a person who works very hard without proper remuneration or appreciation:努力工作但得不到适当报酬或赏识的人
 a person who is excessively dependent upon or controlled by something:过度依赖或控制某事的人
 a device, or part of one, directly controlled by another:一个设备，或一个设备的一部分，由另一个设备直接控制
 work excessively hard:工作过分努力
 subject (a device) to control by another:subject（一个设备）被另一个控制
-make (someone) a slave; enslave.:
+make (someone) a slave; enslave.:使（某人）成为奴隶；奴役。
 slave |sleɪv| Noun/Verb/:奴隶
 they kidnapped entire towns and turned the inhabitants into slaves:他们绑架了整个城镇并将居民变成奴隶
 by the time I was ten, I had become her slave, doing all the housework:十岁的时候，我成了她的奴隶，做所有的家务

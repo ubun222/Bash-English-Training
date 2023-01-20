@@ -6,7 +6,7 @@ surprise						惊喜，出人意料，意外的
 snowman						雪人
 search						搜寻，搜查，搜索
 toothache						牙痛
-wash						洗，冲走，
+wash						洗，冲走
 classroom						教室
 nephew						侄子
 cap						便帽，盖子，覆盖，胜过
@@ -104,7 +104,6 @@ surprise major:惊喜专业
 
 a representation of a human figure created with compressed snow.:用压缩雪创造的人物形象。
 snowman |ˈsnəʊman| Noun/:雪人,雪侠
-:
 
 try to find something by looking or otherwise seeking carefully and thoroughly:尝试通过仔细和彻底地寻找或以其他方式寻找的东西
 examine (a place, vehicle, or person) thoroughly in order to find something or someone:彻底检查（地点、车辆或人）以找到某物或某人
@@ -168,7 +167,6 @@ the plan's impact on jobs would be a wash, creating as many as it costs:该计�
 
 a room in which a class of pupils or students is taught.:一个教室，在其中教授一类学生或学生。
 classroom |ˈklɑːsruːm| Noun/:课堂,教室
-:
 
 a son of one's brother or sister, or of one's brother-in-law or sister-in-law:兄弟或姐妹的儿子，或姐夫或嫂子的儿子
 nephew |ˈnɛvjuː| Noun/:外甥,侄子,侄,甥
@@ -319,7 +317,7 @@ a travelling company of acrobats, clowns, and other entertainers which gives per
 a large group of people travelling together on the circuit of a particular high-profile activity:一大群人一起在某项备受瞩目的活动的赛道上旅行
 a public scene of frenetic, noisy, or confused activity:狂热、嘈杂或混乱活动的公共场景
 (in ancient Rome) a rounded or oval arena lined with tiers of seats, used for equestrian and other sports and games:（古罗马）圆形或椭圆形的竞技场，内衬有座位，用于马术和其他运动和比赛
-a rounded open space in a town or city where several streets converge:
+a rounded open space in a town or city where several streets converge:城镇或城市中几条街道汇合的圆形空地
 circus |ˈsəːkəs| Noun/:马戏团,马戏表演,马戏
 I was thrilled by the annual visits of the circus:马戏团每年的来访让我兴奋不已
 the Formula One grand prix circus:一级方程式大奖赛马戏团
@@ -410,7 +408,6 @@ not any:没有
 no person, no one:没有人，没有人
 by no amount, not at all:没有数量，一点也不
 none |nʌn| Adverb/Noun/Pronoun/:没有任何,没有,绝不,无
-:
 none could match her looks:none比不上她的容貌
 it is made none the easier by the differences in approach:方法上的差异并没有使这变得更容易
 
@@ -421,7 +418,7 @@ none too | 也没有,一个也没有
 
 
 reach a place at the end of a journey or a stage in a journey:到达旅程结束时的一个地方或旅程中的一个阶段
-(of a thing) be brought or delivered:
+(of a thing) be brought or delivered:（事物）被带来或交付
 (of an event or a particular moment) happen or come:（事件或特定时刻）发生或到来
 (of a new development or product) come into existence or use:（新的开发或产品的）出现或使用
 reach (a conclusion or decision):reach（结论或决定）
@@ -451,7 +448,6 @@ I thought I'd better get a steady job:我想我最好找个稳定的工作
 
 a building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited:存放和展示具有历史、科学、艺术或文化价值的物品的建筑物
 museum |mjuːˈziːəm| Noun/:博物馆,美术馆
-:
 
 (of an activity or occasion) giving delight or pleasure:（活动或场合）给予快乐或快乐
 enjoyable |ɪnˈdʒɔɪəbl| Adjective/:愉快的,令人愉快

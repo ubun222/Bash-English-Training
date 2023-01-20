@@ -31,7 +31,7 @@ admit					承认，准许...进入，容许
 \\\\
 
 evaluate or estimate the nature, ability, or quality of:评估或估计的性质、能力或质量
-calculate or estimate the price or value of:
+calculate or estimate the price or value of:计算或估计价格或价值
 set the value of a tax, fine, etc., for (a person or property) at a specified level:为（个人或财产）设定特定级别的税金、罚款等的价值
 assess |əˈsɛs| Verb/:评估,评价
 the committee must assess the relative importance of the issues:委员会必须评估问题的相对重要性
@@ -74,7 +74,7 @@ twenty parents, picked to represent a cross section of Scottish life:20位父母
 abstraction is well represented in this exhibition:abstraction在本次展览中得到了很好的体现
 santos are small wooden figures representing saints:santos是代表圣徒的小木偶
 the young were consistently represented as being in need of protection:年轻人一直被认为需要保护
-numbers 1–15 represent the red balls:numbers
+numbers 1–15 represent the red balls:数字 1-15 代表红球
 the three heads of Cerberus represent the past, present, and future:Cerberus的三个头代表过去、现在和未来
 it was represented to him that she would be an unsuitable wife:向他表明她将是一个不合适的妻子
 the vendors have represented that such information is accurate:供应商已表示此类信息是准确的
@@ -108,13 +108,13 @@ so as to give the impression of having a certain quality; apparently:以便给�
 according to the facts as one knows them; as far as one knows:根据已知的事实；
 seemingly |ˈsiːmɪŋli| Adverb/:似乎,貌似
 a seemingly competent and well-organized person:一个看似称职且组织良好的人
-it's touch-and-go, seemingly, and she's asking for you:
+it's touch-and-go, seemingly, and she's asking for you:似乎是一触即发，她在找你
 
 a task or piece of work allocated to someone as part of a job or course of study:作为工作或学习课程的一部分分配给某人的任务或工作
 the allocation of a job or task to someone:将工作或任务分配给某人
 the allocation of someone or something as belonging to a particular group or category:将某人或某物分配为属于特定组或类别
 an act of making a legal transfer of a right or liability:合法转让权利或责任的行为
-a document effecting a legal transfer of a right or liability.:
+a document effecting a legal transfer of a right or liability.:影响权利或责任合法转移的文件。
 assignment |əˈsʌɪnm(ə)nt| Noun/:任务,分配,作业
 a homework assignment:一个家庭作业
 the effective assignment of tasks:任务的有效分配
@@ -178,14 +178,14 @@ a territorial dispute between the two countries:两国领土争端
 an industrial dispute:劳资纠纷
 the point has been much disputed:这一点争议很大
 the accusations are not disputed:指控没有争议
-the two drivers crashed while disputing the lead:
+the two drivers crashed while disputing the lead:两名车手在争夺领先优势时撞车了
 I formed my line and prepared to dispute the advance of the foe:我排好阵线，准备对抗敌人的进攻
 
 the capacity to have an effect on the character, development, or behaviour of someone or something, or the effect itself:对某人或某事的性格、发展或行为产生影响的能力，或影响本身
 the power to shape policy or ensure favourable treatment from someone, especially through status, contacts, or wealth:制定政策或确保某人优待的权力，尤其是通过地位、人脉或财富
 a person or thing with the capacity to have an influence on someone or something:一个有能力对某人或某事产生影响的人或事
 electrical or magnetic induction.:电或磁感应。
-have an influence on:
+have an influence on:有影响
 influence |ˈɪnflʊəns| Noun/Verb/:影响,影响力
 the influence of television violence:电视暴力的影响
 the institute has considerable influence with teachers:学院对教师具有相当的影响力
@@ -204,7 +204,7 @@ esteem |ɪˈstiːm| Noun/Verb/:尊重
 he was held in high esteem by colleagues:他受到同事的高度评价
 many of these qualities are esteemed by managers:许多这些品质受到管理者的尊重
 
-existing or available in large quantities; plentiful:
+existing or available in large quantities; plentiful:现有或大量可用；丰富
 having plenty of:有很多
 abundant |əˈbʌnd(ə)nt| Adjective/:丰富
 there was abundant evidence to support the theory:有大量证据支持该理论
@@ -298,7 +298,7 @@ the referendum affirmed the republic's right to secede:公投确认了共和国�
 the Court of Appeal affirmed a decision of the High Court:上诉法院确认高等法院的裁决
 he refused to take the oath but chose simply to affirm on being admitted to the Privy Council:他拒绝宣誓，但选择简单地确认被接纳为枢密院成员
 there are five common ways parents fail to affirm their children:父母无法肯定孩子的五种常见方式
-it is a rich and challenging motion picture that both affirms life and emphasizes its fragility:
+it is a rich and challenging motion picture that both affirms life and emphasizes its fragility:这是一部既肯定生命又强调其脆弱性的丰富而具有挑战性的电影
 
 the beliefs or opinions that are generally held about someone or something:通常对某人或某事持有的信念或观点
 a widespread belief that someone or something has a particular characteristic:普遍认为某人或某事具有特定特征
@@ -308,10 +308,10 @@ his knowledge of his subject earned him a reputation as an expert:他的学科�
 
 the amount, level, or extent to which something happens or is present:某事发生或存在的数量、水平或程度
 a unit of measurement of angles, one ninetieth of a right angle or the angle subtended by one three-hundred-and-sixtieth of the circumference of a circle:角度的度量单位，直角的九十分之一或圆周的三百六十分之一所对的角
-a unit in any of various scales of temperature, intensity, or hardness:
+a unit in any of various scales of temperature, intensity, or hardness:各种温度、强度或硬度的单位
 each of a set of grades (usually three) used to classify burns according to their severity.:用于根据严重程度对烧伤进行分类的一组等级（通常为三个）中的每一个。
 a legal grade of crime or offence, especially murder:犯罪或犯罪的法定等级，尤其是谋杀
-a step in direct genealogical descent:
+a step in direct genealogical descent:直接家谱血统的一步
 a position in a musical scale, counting upwards from the tonic or fundamental note:音阶中的一个位置，从主音或基本音向上计数
 the class into which an equation falls according to the highest power of unknowns or variables present:根据存在的未知数或变量的最高幂，方程所属的类别
 any of the three steps on the scale of comparison of gradable adjectives and adverbs, namely positive, comparative, and superlative.:可分级形容词和副词比较量表的三个步骤中的任何一个，即肯定、比较和最高级。
@@ -343,7 +343,7 @@ lose or cause to lose colour or brightness:失去或导致失去颜色或亮度
 (in craps) match the bet of (another player):（掷骰子）匹配（另一位玩家）的赌注
 the process of becoming less bright:变暗的过程
 an act of causing a film or television image to darken and disappear gradually:使电影或电视图像逐渐变暗和消失的行为
-a shot causing the ball to deviate to the right (or, for a left-handed golfer, the left):
+a shot causing the ball to deviate to the right (or, for a left-handed golfer, the left):导致球偏向右侧的击球（或者，对于惯用左手的高尔夫球手，偏向左侧）
 a pass thrown so that the ball descends directly over the receiver's shoulder, especially as they veer towards the sideline:a传球，使球直接下降到接球手的肩膀上，尤其是当他们转向边线时
 a haircut in which the hair is left long on top of the head but cropped close to the sides and back with the length of hair gradually decreasing:一种发型，头发留长在头顶，但剪到靠近两侧和后面，头发的长度逐渐减少
 fade |feɪd| Noun/Verb/:褪色,掉色,淡出
@@ -376,7 +376,7 @@ the points made by the authors confuse rather than clarify the issue:作者提�
 a lot of people confuse a stroke with a heart attack:很多人把中风和心脏病混为一谈
 
 a piece of work to be done or undertaken:一项要完成或承担的工作
-assign a task to:
+assign a task to:分配任务给
 make great demands on (someone's resources or abilities):对（某人的资源或能力）提出很高的要求
 task |tɑːsk| Noun/Verb/:任务,委派任务,工作
 a new manager was given the task of developing the club's talent:一位新经理被赋予培养俱乐部人才的任务
@@ -385,7 +385,6 @@ it tasked his diplomatic skill to effect his departure in safety:it赋予他的�
 
 make or become less; diminish:makeorbecomeless;减少
 lessen |ˈlɛsn| Verb/:lessen
-:
 
 confess to be true or to be the case:承认是真实的还是事实
 confess to (a crime or fault, or one's responsibility for it):confessto（犯罪或过错，或对它的责任）

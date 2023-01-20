@@ -1,5 +1,5 @@
 profound				巨大的，强烈的，极度的，深奥的
-agony					极度
+agony					极度痛苦
 craft					工艺，熟练的制作
 arts and crafts			手工艺
 obscurity				晦涩，默默无闻
@@ -32,7 +32,7 @@ affection				喜爱，爱情
 \\\\
 
 (of a state, quality, or emotion) very great or intense:（状态、品质或情感）非常好或强烈
-(of a disease or disability) very severe:
+(of a disease or disability) very severe:（疾病或残疾）非常严重
 (of a person or statement) having or showing great knowledge or insight:（某人或陈述）具有或表现出丰富的知识或洞察力
 (of a subject or idea) demanding deep study or thought:（关于一个主题或想法）要求深入研究或思考
 very deep:很深
@@ -81,7 +81,7 @@ poems of impenetrable obscurity:莫名其妙的诗
 the obscurities in his poems and plays:他诗歌和戏剧中的晦涩之处
 
 a formal assurance (typically in writing) that certain conditions will be fulfilled, especially that a product will be repaired or replaced if not of a specified quality:正式保证（通常是书面形式）某些条件将得到满足，特别是如果产品不符合指定质量，将进行维修或更换
-something that ensures a particular outcome:somethingthatensuresaparticularoutcome
+something that ensures a particular outcome:确保特定结果的东西
 an undertaking to answer for the payment or performance of another person's debt or obligation in the event of a default by the person primarily responsible for it.:承诺在主要负责人违约的情况下负责支付或履行他人的债务或义务。
 a thing serving as security for a guarantee.:担保物。
 provide a formal assurance, especially that certain conditions will be fulfilled relating to a product, service, or transaction:提供正式保证，尤其是与产品、服务或交易相关的某些条件将得到满足
@@ -99,7 +99,6 @@ a small gregarious toothed whale that typically has a beaklike snout and a curve
 a bollard, pile, or buoy for mooring boats.:用于系泊船的系船柱、桩或浮标。
 a structure for protecting the pier of a bridge.:一种桥墩保护结构。
 dolphin |ˈdɒlfɪn| Noun/:海豚,河豚
-:
 
 the fact or condition of being severe:严重的事实或情况
 severity |sɪˈvɛrɪti| Noun/:严重程度,严重性
@@ -111,7 +110,7 @@ persuade (someone) against an action:persuade（某人）反对某项行动
 discourage |dɪˈskʌrɪdʒ| Verb/:不鼓励,阻碍,劝阻,气馁
 tedious regulations could discourage investors:繁琐的监管可能会阻碍投资者
 the plan is designed to discourage the use of private cars:该计划旨在阻止使用私家车
-we want to discourage children from smoking:wewanttodiscourchildrenfromsmoking
+we want to discourage children from smoking:我们想阻止孩子们吸烟
 
 an unattractive or unsatisfactory feature, especially in a piece of work or in a person's character:没有吸引力或不令人满意的特征，特别是在一件作品或一个人的性格中
 a break or other defect in an electric circuit or piece of machinery:电路或机器的破损或其他缺陷
@@ -119,7 +118,7 @@ a misguided action or habit:错误的行为或习惯
 (in tennis and similar games) a service of the ball not in accordance with the rules.:（在网球和类似比赛中）不符合规则的发球。
 (in showjumping) a penalty point imposed for an error.:（在马术比赛中）因失误而被扣分。
 responsibility for an accident or misfortune:事故或不幸的责任
-an extended break in a rock formation, marked by the relative displacement and discontinuity of strata on either side of a particular plane:
+an extended break in a rock formation, marked by the relative displacement and discontinuity of strata on either side of a particular plane:岩层中的延伸断裂，以特定平面两侧的地层相对位移和不连续性为标志
 fault |fɔːlt| Noun/Verb/:过错,批评,故障
 my worst fault is impatience:我最大的错误是急躁
 a fire caused by an electrical fault:电气故障引起的火灾
@@ -143,7 +142,7 @@ a mathematical determination of the amount or number of something:某物的数�
 an assessment of the risks, possibilities, or effects of a situation or course of action:对情况或行动过程的风险、可能性或影响的评估
 calculation |ˌkalkjʊˈleɪʃn| Noun/:计算,运算
 finding ways of saving money involves complicated calculations:寻找省钱的方法涉及复杂的计算
-decisions are shaped by political calculations:decisionsareshapedbypoliticalcalculation
+decisions are shaped by political calculations:决策是由政治计算决定的
 
 totally bewilder or perplex:totallybewilder或perplex
 restrain or regulate (a fluid, sound, etc.):restrain或regulate（液体、声音等）
@@ -155,15 +154,15 @@ you can cut out glare from a strip light by concealing it behind a baffle:你可
 
 charge (someone) too high a price for goods or a service:charge（某人）商品或服务的价格过高
 charge someone (a sum) beyond the correct amount:chargesomeone(asum)超过正确的数额
-put too much electric charge into (a battery):
+put too much electric charge into (a battery):给（电池）注入过多的电荷
 an excessive charge for goods or a service:对商品或服务收取过高的费用
 overcharge |ˌəʊvəˈtʃɑːdʒ| Noun/Verb/:过充,多收费用
 send your bill to the Law Society if you think you've been overcharged:如果您认为您被多收了费用，请将您的账单发送给律师协会
-large generators can overcharge batteries:largegeneratorscanoverchargebatteries
+large generators can overcharge batteries:大型发电机会使电池过度充电
 an overcharge of £40:多收40英镑
 
 sleep lightly or briefly, especially during the day:睡得浅或短，尤其是在白天
-a short sleep, especially during the day:
+a short sleep, especially during the day:睡眠时间短，尤其是在白天
 the raised hairs or threads on the surface of fabric or suede leather, in terms of the direction in which they naturally lie:织物或绒面革表面凸起的毛发或线头，按其自然所在的方向
 a bedroll used for sleeping on in the open.:用于露天睡觉的铺盖卷。
 a card game resembling whist in which players declare the number of tricks they expect to take, up to five.:一种类似于惠斯特的纸牌游戏，玩家声明他们期望采取的墩数，最多五墩。
@@ -206,7 +205,7 @@ his work chronicles 20th-century migration:his的作品记录了20世纪的移�
 
 comparative darkness and coolness caused by shelter from direct sunlight:避免阳光直射造成的比较黑暗和凉爽
 the darker part of a picture.:图片的较暗部分。
-a position of relative inferiority or obscurity:
+a position of relative inferiority or obscurity:相对低下或默默无闻的地位
 a shadow or area of darkness:阴影或黑暗区域
 a portrait in silhouette.:剪影肖像。
 a colour, especially with regard to how light or dark it is or as distinguished from one nearly like it:一种颜色，特别是关于它有多亮或多暗，或者与接近它的颜色的区别
@@ -255,7 +254,7 @@ pour (a mainly liquid substance) through a porous or perforated device or materi
 cause liquid to drain off (food which has been boiled, soaked, or canned) by using a porous or perforated device:使用多孔或穿孔的装置排出液体（煮沸、浸泡或罐装的食物）
 drain (liquid) off food by using a porous or perforated device:使用多孔或穿孔装置将食物中的（液体）沥干
 a force tending to pull or stretch something to an extreme or damaging degree:a倾向于将某物拉或拉伸到极端或破坏程度的力
-an injury to a part of the body caused by overexertion:
+an injury to a part of the body caused by overexertion:过度劳累导致的身体某个部位受伤
 the magnitude of a deformation, equal to the change in the dimension of a deformed object divided by its original dimension.:变形的大小，等于变形物体的尺寸变化除以其原始尺寸。
 a severe or excessive demand on the strength, resources, or abilities of someone or something:a对某人或某事的力量、资源或能力的严重或过分的要求
 a state of tension or exhaustion resulting from severe demands on one's strength or resources:由于对一个人的力量或资源的严重需求而导致的紧张或疲惫状态
@@ -274,7 +273,6 @@ the barbed wire fence was strained to posts six feet high:铁丝网被拉紧到�
 she strained the infant to her bosom again:she再次把婴儿抱在怀里
 strain the custard into a bowl:将蛋羹滤入碗中
 she turned to the sink to strain the noodles:she转向水槽过滤面条
-:
 the usual type of chair puts an enormous strain on the spine:普通类型的椅子对脊柱造成巨大压力
 he has a slight groin strain:he有轻微的腹股沟拉伤
 the accusations put a strain on relations between the two countries:这些指控使两国关系紧张
@@ -328,7 +326,7 @@ you're very definite about that!:你对此非常肯定！
 under the circumstances, air conditioning is a definite asset:在这种情况下，空调是一项确定的资产
 organizations have boundaries in the sense that they may occupy a definite geographical area:organizations有边界，因为它们可能占据一定的地理区域
 
-slow to reveal emotion or opinions:slowtorevealemotionoropinions
+slow to reveal emotion or opinions:缓慢流露情绪或意见
 kept specially for a particular person:专门为特定的人保留
 reserved |rɪˈzəːvd| Adjective/:预订的,保留,预留的
 he is a reserved, almost taciturn man:heisareserved,almost沉默寡言的人

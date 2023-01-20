@@ -27,14 +27,14 @@ flora					植物群
 fauna					动物群
 damp					潮湿的
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-a long walk or walking tour:alongwalkorwalktour
+a long walk or walking tour:长途步行或徒步旅行
 a long distance:远距离
 a sharp increase, especially in price:急剧增加，尤其是价格
 walk for a long distance, especially across country:步行很长的距离，尤其是在全国范围内
 pull or lift up (something, especially clothing):pullorliftup（某物，尤其是衣服）
 increase (something, especially a price) sharply:increase（某事，尤其是价格）急剧增加
 hike |hʌɪk| Noun/Verb/:远足
-a five-mile hike across rough terrain:
+a five-mile hike across rough terrain:在崎岖的地形上徒步五英里
 it's such a hike from Adelaide to Perth:这是从阿德莱德到珀斯的一次徒步旅行
 a price hike:涨价
 they hiked across the moors:他们徒步穿越荒野
@@ -120,7 +120,7 @@ lace up | 花边,系好鞋带
 
 a sturdy item of footwear covering the foot and ankle, and sometimes also the lower leg.:一种结实的鞋类，覆盖脚和脚踝，有时也覆盖小腿。
 a covering to protect the lower part of a horse's leg.:一个保护马腿下部的覆盖物。
-a clamp placed by the police on the wheel of an unlawfully parked vehicle to make it immobile.:
+a clamp placed by the police on the wheel of an unlawfully parked vehicle to make it immobile.:警察在非法停放的车辆的车轮上放置的夹子，以使其无法移动。
 an instrument of torture encasing and crushing the foot.:一种包裹和压碎脚的刑具。
 a hard kick:硬踢
 an enclosed space at the back of a car for carrying luggage or other goods.:汽车后部的封闭空间，用于携带行李或其他物品。
@@ -153,7 +153,7 @@ a keeper of a park, forest, or area of countryside:公园、森林或乡村地�
 a member of a body of armed men.:一个武装人员团体的成员。
 a mounted soldier.:一名骑兵。
 a commando.:突击队。
-a member of the senior branch of the Guides.:
+a member of the senior branch of the Guides.:Guides高级分会的成员。
 a person or thing that wanders over a particular area:在特定区域徘徊的人或事物
 a series of nine American moon probes launched between 1961 and 1965, the last three of which took many photographs before crashing into the moon.:一系列九个美国月球探测器于1961年至1965年间发射，其中最后三个在坠入月球之前拍摄了许多照片。
 ranger |ˈreɪn(d)ʒə| Noun/:游侠,护林员
@@ -180,7 +180,6 @@ he forged through the crowded streets:他穿过拥挤的街道
 a wooden walkway across sand or marshy ground.:一条穿过沙地或沼泽地的木制人行道。
 a promenade along a beach or waterfront, typically made of wood.:沿着海滩或海滨的长廊，通常由木头制成。
 boardwalk |ˈbɔːdwɔːk| Noun/:木板路,浮桥
-:
 
 a deep inlet of the sea almost surrounded by land, with a narrow mouth.:一个几乎被陆地包围的深海入口，有一个狭窄的嘴。
 the Persian Gulf.:波斯湾。
@@ -289,7 +288,7 @@ order or reserve (something) in advance:订购或提前预订（东西）
 speak to.:说话。
 bespeak |bɪˈspəʊk| Verb/:表明,说
 the attractive tree-lined road bespoke money:迷人的林荫道定制款
-the defendant's insurers took steps to bespeak his medical records:
+the defendant's insurers took steps to bespeak his medical records:被告的保险公司采取措施证明他的病历
 
 a hollow place in a solid body or surface:实体或表面中的空心处
 an aperture passing through something:穿过某物的光圈
@@ -329,7 +328,7 @@ a chosen career path:选择的职业道路
 
 a long arduous journey, especially one made on foot:长途跋涉，尤其是徒步
 a leg or stage of a journey.:一段旅程或一段旅程。
-a person's possessions:
+a person's possessions:一个人的财产
 a haul of fish caught using a trek net.:使用跋涉网捕获的鱼。
 go on a long arduous journey, typically on foot:进行长途跋涉，通常是步行
 travel constantly from place to place:旅行不断地从一个地方到另一个地方
@@ -368,7 +367,7 @@ traverse |ˈtravəs| Noun/Verb/:遍历,穿越
 he traversed the forest:他穿越了森林
 a moving catwalk that traversed a vast cavernous space:穿越广阔的洞穴空间的移动时装秀
 I often use this route, eventually traversing around the headwall:我经常走这条路线，最终绕着头墙走
-ski patrol workers traverse the slope:
+ski patrol workers traverse the slope:滑雪巡逻人员横穿斜坡
 he would traverse a number of subjects and disciplines:他会穿越许多学科和学科
 a probe is traversed along the tunnel:a探针沿隧道遍历
 the plaintiff must assert certain facts which, if traversed, he would be put to prove:原告必须断言某些事实，如果被遍历，他将被要求证明
@@ -380,7 +379,7 @@ they had been practising firing at multiple targets, using the power traverse:�
 he crept up and threw a grenade over the traverse:他爬了上来，在横梁上扔了一颗手榴弹
 
 tread on and crush:踩踏并粉碎
-treat with contempt:
+treat with contempt:蔑视
 an act or the sound of trampling:行为或践踏的声音
 trample |ˈtrampl| Noun/Verb/:,踩
 the fence had been trampled down:栅栏被践踏
@@ -403,7 +402,7 @@ moisture diffused through the air or a solid substance or condensed on a surface
 damp air or atmosphere:潮湿的空气或大气
 a discouragement or check:a气馁或检查
 make (something) slightly wet:make(something)微湿
-make a fire burn less strongly by reducing the flow of air to it:
+make a fire burn less strongly by reducing the flow of air to it:通过减少流向它的空气使火燃烧得不那么强烈
 control or restrain a feeling or a situation:控制或抑制一种感觉或情况
 reduce or stop the vibration of (the strings of a piano or other musical instrument) so as to reduce the volume of sound:减少或停止（钢琴或其他乐器的琴弦）的振动，以降低音量
 progressively reduce the amplitude of (an oscillation or vibration):逐渐减小（振荡或振动）的幅度

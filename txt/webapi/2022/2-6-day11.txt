@@ -65,7 +65,7 @@ massive sulphides:块状硫化物
 the Bristol massive:theBristol巨大的
 
 a colourless volatile flammable liquid which is produced by the natural fermentation of sugars and is the intoxicating constituent of wine, beer, spirits, and other drinks, and is also used as an industrial solvent and as fuel:一种无色挥发性易燃液体，由糖类自然发酵产生，是葡萄酒、啤酒、烈酒和其他饮料的致醉成分，也用作工业溶剂和燃料
-drink containing alcohol:
+drink containing alcohol:含酒精的饮料
 any organic compound whose molecule contains one or more hydroxyl groups attached to a carbon atom:分子中含有一个或多个与碳原子相连的羟基的任何有机化合物
 alcohol |ˈalkəhɒl| Noun/:酒精,醇
 it is an offence to drive if you have more than 80 mg of alcohol per 100 ml of blood:如果您每100毫升血液中的酒精含量超过80毫克，则驾驶属于违法行为
@@ -188,7 +188,7 @@ she sat immobile for a long time:她久坐不动
 an immobile workforce:一个固定的劳动力
 
 of or concerning diplomacy:属于或涉及外交
-having or showing an ability to deal with people in a sensitive and tactful way:
+having or showing an ability to deal with people in a sensitive and tactful way:具有或表现出以敏感和机智的方式与人打交道的能力
 (of an edition or copy) exactly reproducing an original version:（版本或副本）完全复制原始版本
 diplomatic |ˌdɪpləˈmatɪk| Adjective/:外交
 diplomatic relations with Britain were broken:与英国的外交关系破裂
@@ -196,7 +196,7 @@ he tried his best to be diplomatic:他尽最大努力外交
 a diplomatic transcription:a外交转录
 
 a person who applies for a job or is nominated for election:一个申请工作或被提名参选的人
-a person taking an examination:
+a person taking an examination:参加考试的人
 a person or thing regarded as suitable for or likely to receive a particular fate, treatment, or position:被认为适合或可能接受特定命运、待遇或职位的人或事物
 candidate |ˈkandɪdeɪt| Noun/:候选人
 candidates applying for this position should be computer-literate:申请此职位的候选人应具备计算机知识
@@ -207,7 +207,7 @@ a sum of money saved or made available for a particular purpose:一笔为特定�
 financial resources:财源
 a large stock or supply of something, especially information or knowledge:大量库存或供应的东西，尤其是信息或知识
 the stock of the national debt (as a mode of investment).:国债存量（作为一种投资方式）。
-provide with money for a particular purpose:
+provide with money for a particular purpose:为特定目的提供金钱
 fund |fʌnd| Noun/Verb/:基金
 he had set up a fund to coordinate economic investment:他设立了一个基金来协调经济投资
 a concert to raise funds for the church:为教会筹款的音乐会
@@ -304,7 +304,7 @@ be in a long-term emotional relationship with (someone):与（某人）保持长
 transfer something to (a state or place where it can be kept or preserved):将某些东西转移到（可以保存或保存的状态或地方）
 consign (someone) officially to prison, especially on remand:consign（某人）正式入狱，尤其是还押候审
 send (a person or case) for trial in a higher court:将（个人或案件）送上级法院审理
-send (someone) to be confined in a psychiatric hospital:
+send (someone) to be confined in a psychiatric hospital:送（某人）入精神病院
 refer (a parliamentary or legislative bill) to a committee.:refer（议会或立法法案）给委员会。
 commit |kəˈmɪt| Verb/:犯罪,承诺,提交
 he committed an uncharacteristic error:他犯了一个不寻常的错误
@@ -334,5 +334,5 @@ the death had all the elements of a great tabloid story:thedeath包含了一个�
 it was the element of danger he loved in flying:这是他喜欢飞行的危险元素
 legal training may include the elements of economics and political science:legal培训可能包括经济学和政治学的要素
 the younger elements in the party are opposed to the move:党内年轻分子反对此举
-he was raised in Hawaii and the sea is his natural element:
+he was raised in Hawaii and the sea is his natural element:他在夏威夷长大，大海是他的天生元素
 there was no barrier against the elements:元素没有障碍

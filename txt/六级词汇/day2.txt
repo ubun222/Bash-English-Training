@@ -138,7 +138,6 @@ he planted exotics in the sheltered garden:he在庇护花园里种植外来植�
 
 a broker who buys and sells securities on a stock exchange on behalf of clients.:代表客户在证券交易所买卖证券的经纪人。
 stockbroker |ˈstɒkˌbrəʊkə| Noun/:股票经纪人,证券经纪人
-:
 
 interpret (something or someone) wrongly:错误地解释（某事或某人）
 misinterpret |ˌmɪsɪnˈtəːprɪt| Verb/:曲解,误解
@@ -182,7 +181,6 @@ women outnumbered men by three to one:女性以三比一的比例超过男性
 a person who supervises a person or an activity.:监督一个人或一项活动的人。
 a person who directs and oversees the work of a postgraduate research student.:a指导和监督研究生研究生工作的人。
 supervisor |ˈsuːpəvʌɪzə| Noun/:导师,主管,监督员
-:
 
 rise and fall irregularly in number or amount:在数量或数量上不规则地上升和下降
 fluctuate |ˈflʌktʃʊeɪt| Verb/:波动,起伏的
@@ -255,7 +253,7 @@ being or happening at the end of a process, final:beingorhappeningataendofaproce
 basic or fundamental:basic或基本的
 denoting the maximum possible strength or resistance beyond which an object breaks.:表示物体断裂的最大可能强度或阻力。
 being the best or most extreme example of its kind:成为同类中最好或最极端的例子
-the best achievable or imaginable of its kind:
+the best achievable or imaginable of its kind:同类产品中可实现或可想象的最佳
 a final or fundamental fact or principle.:afinalorfundamentalfactorprinciple。
 ultimate |ˈʌltɪmət| Adjective/Noun/:最终的,终极,最终,终极的
 their ultimate aim was to force his resignation:他们的最终目的是逼他辞职
@@ -275,7 +273,7 @@ the purchase of goods and services by the public:公众购买商品和服务
 the reception of information or entertainment by a mass audience:大众接受信息或娱乐
 a wasting disease, especially pulmonary tuberculosis:一种消耗性疾病，尤其是肺结核
 consumption |kənˈsʌm(p)ʃn| Noun/:消费,消耗,耗
-industrialized countries should reduce their energy consumption:
+industrialized countries should reduce their energy consumption:工业化国家应减少能源消耗
 liquor is sold for consumption off the premises:liquor出售用于场外消费
 a daily consumption of 15 cigarettes:每天消费15支香烟
 industry faced a serious challenge in trying to stimulate consumption:行业刺激消费面临严峻挑战
@@ -300,7 +298,7 @@ proof or evidence of something:证明或某事的证据
 a recipe:食谱
 mark (a bill) as paid:标记（账单）为已付
 receipt |rɪˈsiːt| Noun/Verb/:收据,回执
-I would be grateful if you would acknowledge receipt of this letter:
+I would be grateful if you would acknowledge receipt of this letter:如果您确认收到这封信，我将不胜感激
 always make sure you get a receipt:always确保你有收据
 box office receipts:票房收据
 she had the receipts, and showed Rachel texts he had sent her:she有收据，并向Rachel展示了他发给她的短信

@@ -41,7 +41,7 @@ it was concluded that her pain was psychological:得出的结论是她的痛苦�
 comparative darkness and coolness caused by shelter from direct sunlight:遮挡阳光直射造成的比较阴凉
 the darker part of a picture.:图片的较暗部分。
 a position of relative inferiority or obscurity:相对自卑或默默无闻的位置
-a shadow or area of darkness:
+a shadow or area of darkness:阴影或黑暗区域
 a portrait in silhouette.:剪影中的肖像。
 a colour, especially with regard to how light or dark it is or as distinguished from one nearly like it:一种颜色，尤其是关于它的亮或暗或与几乎相似的颜色的区别
 a slight degree of difference between colours.:颜色之间有轻微的差异。
@@ -62,7 +62,7 @@ politicians of all shades of opinion:各种意见的政治家
 the goal had more than a shade of good fortune about it:目标不仅仅是幸运的阴影
 a small lamp with a crimson shade:一盏深红色灯罩的小灯
 draw the shades, chill the wine:画下阴影，让酒冰凉
-he wore shades and a leather jacket:
+he wore shades and a leather jacket:他戴着墨镜和皮夹克
 the ghost is the shade of Lucy Walters, first mistress of Charles II:鬼魂是露西沃尔特斯的影子，查理二世的第一任情妇
 
 continuing firmly or obstinately in an opinion or course of action in spite of difficulty or opposition:不顾困难或反对，坚定地或顽固地坚持某一观点或行动方针
@@ -94,13 +94,13 @@ tolerance |ˈtɒl(ə)rəns| Noun/:宽容,公差,容忍度
 the tolerance of corruption:对腐败的容忍度
 the desert camel shows the greatest tolerance to dehydration:沙漠骆驼对脱水的耐受力最强
 the body's tolerance to Ecstasy builds up very quickly:身体对摇头丸的耐受力建立得非常快
-250 parts in his cars were made to tolerances of one thousandth of an inch:
+250 parts in his cars were made to tolerances of one thousandth of an inch:他的汽车中有 250 个零件的制造公差为千分之一英寸
 
 of or for older or more experienced people:of或适用于年长或更有经验的人
 for or denoting schoolchildren above a certain age, typically 11:代表或表示特定年龄以上的学童，通常为11岁
 of or for the final year at a university or high school.:of或大学或高中的最后一年。
 relating to or denoting competitors of above a certain age or of the highest status in a particular sport:与或表示超过一定年龄或在某项运动中地位最高的参赛者
-(in names) denoting the elder of two who have the same name in a family, especially a father as distinct from his son:
+(in names) denoting the elder of two who have the same name in a family, especially a father as distinct from his son:(in names) 表示一个家庭中同名的两个人中的长者，尤指与儿子不同的父亲
 high or higher in rank or status:高或更高的等级或地位
 a person who is a specified number of years older than someone else:比其他人大指定年数的人
 an elderly person, especially an old-age pensioner:一个老人，尤其是一个老年养老金领取者
@@ -143,7 +143,7 @@ following modern ideas in style or design:在风格或设计上遵循现代理�
 a person or thing living or existing at the same time as another:与另一个人同时生活或存在的人或事物
 a person of roughly the same age as another:与另一个年龄大致相同的人
 contemporary |kənˈtɛmp(ə)r(ər)i| Adjective/Noun/:当代的,同代人,现代的
-the event was recorded by a contemporary historian:
+the event was recorded by a contemporary historian:该事件由当代历史学家记录
 this series of paintings is contemporary with other works in an early style:本系列画作与其他早期作品具有当代性
 the tension and complexities of our contemporary society:我们当代社会的紧张和复杂性
 contemporary ceramics by leading potters:当代陶艺大师
@@ -152,7 +152,7 @@ my contemporaries at school:我在学校的同龄人
 
 situated on the other or further side when seen from a specified or implicit viewpoint; facing:从指定的或隐含的角度看时，位于另一侧或更远的一侧；面对
 (of leaves or shoots) arising in pairs at the same level on opposite sides of the stem.:（叶或芽）成对出现在茎的相对两侧的同一水平面上。
-(of angles) between opposite sides of the intersection of two lines.:
+(of angles) between opposite sides of the intersection of two lines.:（角度）两条线相交的相对边之间。
 completely different; of a contrary kind:完全不同；相反的
 being the other of a contrasted pair:是一对对比中的另一个
 a person or thing that is totally different from or the reverse of someone or something else:与某人或某事完全不同或相反的人或事物
@@ -187,8 +187,8 @@ a member of the British House of Lords who votes for a particular motion.:英国
 the things that are held or included in something:持有或包含在某事物中的事物
 the amount of a particular constituent occurring in a substance:物质中特定成分的含量
 a list of the chapters or sections given at the front of a book or periodical:一本书或期刊前面给出的章节列表
-the material dealt with in a speech, literary work, etc. as distinct from its form or style:
-information made available by a website or other electronic medium:
+the material dealt with in a speech, literary work, etc. as distinct from its form or style:演讲、文学作品等中与其形式或风格不同的材料
+information made available by a website or other electronic medium:通过网站或其他电子媒体提供的信息
 content |kənˈtɛnt| Adjective/Noun/Verb/:内容,满意的,含量
 he seemed more content, less bitter:他似乎更满足，更少苦涩
 he had to be content with third place:他必须满足于第三名
@@ -201,7 +201,6 @@ the tone, if not the content, of his book is familiar:他的书的语气，即�
 
 a person engaged or learned in philosophy, especially as an academic discipline.:从事或学习哲学的人，尤其是作为一门学科。
 philosopher |fɪˈlɒsəfə| Noun/:哲学家
-:
 
 a state of dissatisfaction, disturbance, and agitation, typically involving public demonstrations or disorder:一种不满、不安和激动的状态，通常涉及公众示威或混乱
 a feeling of disturbance and dissatisfaction in a person:一个人的不安和不满的感觉
@@ -230,7 +229,7 @@ she was a stone overweight:她体重超重
 an overweight lorry:一辆超重的卡车
 two of the top three overweight sectors in the US market:美国市场前三大增持板块中的两个
 surgical procedures for overweight:超重的外科手术
-try not to overweight the boxes:
+try not to overweight the boxes:尽量不要超重箱子
 we have overweighted the banking sector:我们增持了银行业
 
 a job or profession:一份工作或职业
@@ -240,7 +239,7 @@ the action of entering and taking control of a building:进入和控制建筑物
 the action of living in or using a building or other place:居住或使用建筑物或其他地方的行为
 for the sole use of the occupiers of the land concerned:仅供有关土地的占用人使用
 occupation |ˌɒkjʊˈpeɪʃn| Adjective/Noun/:职业,占用
-people in professional occupations:
+people in professional occupations:从事专业工作的人
 a game of cards is a pretty harmless occupation:纸牌游戏是一种相当无害的职业
 the Roman occupation of Britain:罗马占领不列颠
 the workers remained in occupation until 16 October:工人一直工作到10月16日
@@ -254,7 +253,7 @@ belonging to or characteristic of the mainstream:属于或主流的特征
 start to treat or regard (something) as being mainstream:开始将（某事）视为主流
 place (a student with particular educational needs) into a mainstream class or school:place（有特殊教育需求的学生）进入主流班级或学校
 mainstream |ˈmeɪnstriːm| Adjective/Noun/Verb/:主流
-they withdrew from the mainstream of European politics:
+they withdrew from the mainstream of European politics:他们退出了欧洲政治的主流
 it was a form of jazz that had strayed away from the mainstream:it是一种偏离主流的爵士乐形式
 mainstream pop music:主流流行音乐
 the state government has supported greater integration of students with disabilities into mainstream schools:州政府支持残疾学生更多地融入主流学校
@@ -277,7 +276,7 @@ decrease in size, number, or range:减少大小、数量或范围
 shorten (a word or phrase) by combination or elision:shorten（一个词或短语）通过组合或省略
 enter into a formal and legally binding agreement:签订正式且具有法律约束力的协议
 choose to be involved in (a scheme):选择参与（一个计划）
-choose to withdraw from or not become involved in a scheme:
+choose to withdraw from or not become involved in a scheme:选择退出或不参与计划
 secure specified rights or undertake specified obligations in a formal and legally binding agreement:保障在正式且具有法律约束力的协议中的特定权利或承担特定义务
 impose an obligation on (someone) to do something by means of a formal agreement:通过正式协议对（某人）施加做某事的义务
 arrange for work to be done by another organization:安排其他组织完成的工作
@@ -327,7 +326,7 @@ transfer (data) into a file or document.:transfer（数据）到文件或文档�
 indicate or signify:指示或表示
 express or make known:express或公开
 a commodity, article, or service brought in from abroad for sale:从国外带入销售的商品、物品或服务
-sales of imported goods or services, or the revenue from such sales:
+sales of imported goods or services, or the revenue from such sales:进口商品或服务的销售，或此类销售的收入
 the action or process of importing goods or services:进口商品或服务的行为或过程
 the implicit meaning or significance of something:某事的隐含意义或意义
 great significance; importance:意义重大；16
@@ -337,7 +336,7 @@ new beliefs were often imported by sailors:new信念经常由水手输入
 having thus seen, what is imported in a Man's trusting his Heart:已经看到，什么是进口在一个人的信任他的心
 cheap imports from eastern Europe:来自东欧的廉价进口
 this surplus pushes up the yen, which ought to boost imports:这个盈余推高了日元，这应该会促进进口
-the import of live cattle from Canada:
+the import of live cattle from Canada:从加拿大进口活牛
 the import of her message is clear:她的信息很明确
 pronouncements of world-shaking import:震撼世界的进口发音
 
@@ -393,7 +392,7 @@ a person who publicly supports or recommends a particular cause or policy:公开
 a person who puts a case on someone else's behalf:代表他人提起诉讼的人
 a professional pleader in a court of justice:法庭上的专业辩护人
 a barrister.:一名大律师。
-publicly recommend or support:
+publicly recommend or support:公开推荐或支持
 advocate |ˈadvəkət| Noun/Verb/:提倡,倡导者,主张,主
 he was an untiring advocate of economic reform:他是经济改革的不懈倡导者
 care managers can become advocates for their clients:care经理可以成为客户的拥护者
