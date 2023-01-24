@@ -1037,6 +1037,7 @@ fi
 [[  $pp != ""  ]] && ishprt "\r$pp\n"
 }
 
+
 tprep1()
 {
   p="$1"
@@ -1052,11 +1053,12 @@ fi
 done
 fi
 #replace1 p
-while true;do
-[[  $p != ""  ]] && printf "%s\n\033[6n" "$p" && read -t 0.5 -d \R
-[[  "$?" -eq 142  ]] && continue
-break
-done
+#while true;do
+#[[  $p != ""  ]] && printf "%s\033[6n$2" "$p" && read -t 0.5 -d \R
+#[[  "$?" -eq 142  ]] && continue
+#break
+#done
+[[  $p != ""  ]] && ishprt "%s$2" "$p"
 }
 
 ishprt(){
@@ -1175,11 +1177,11 @@ IFS=$IFSbak
 #[[  "$ish" == "y"    ]] &&  sleep 0.002
 if [[  "$abool"  ==  "y"  ]]  || [[  "$abool"  ==  "Y"  ]] ;then
 #ishprt "\n\r"
-printf "\n$enter\033[K" && bool="$abool"
+printf "\n$enter" && bool="$abool"
 break
 elif [[  "$abool"  ==  "v"  ]] || [[  "$abool"  ==  "V"  ]];then
 #ishprt "\n\r"
-printf "\n$enter\033[K" && bool="$abool"
+printf "\n$enter" && bool="$abool"
 break
 elif [[  "$abool"  ==  "s"  ]] ||  [[  "$abool"  ==  "S"  ]];then
 #ishprt "\n\r"
@@ -1210,7 +1212,8 @@ bool=${bool:-0}
 #printf  "$spaces$enter"
 
 #[[  "$ish" == "y"    ]] && sleep 0.001
-printf "\r\033[K"
+printf "\r"
+
 #sleep 0.005
 if [[  $bool == 'y'  ]] || [[  $bool == 'Y'  ]]  ; then
 #printf "\033[$((COLUMN-7))C释义\n"
@@ -1222,7 +1225,11 @@ RC=0
 ishprt  "\033[1A\033[${COL}C%s\n\r"  "${eline}"
 fi
 [[  "$hide" -eq "0"  ]] &&  pprep "$pureanswerd"
+[[  $premode -eq 3  ]] && [[  $order -ne 4  ]] && printf "\033[${down}B$enter"  && printf "$one"
+printf "\r$question    $answer\033[K\n"
 yes
+#[[  $premode -ne 3  ]]  && echo
+down=0
 elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]; then
 #printf "\033[$((COLUMN-7))C例句\n"
 if [[  "$bool"  ==  "V"  ]] ;then
@@ -1232,7 +1239,11 @@ RC=0
 ishprt   "\033[1A\033[${COL}C%s\n\r"  "${eline}"
 fi
 [[  "$hide" -eq "0"  ]] && pprep "$pureanswerd" 
+[[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && printf "\033[${down}B$enter" && printf "$one" 
+printf "\r$question    $answer\033[K\n"
 verbose
+#[[  $premode -ne 3  ]]  && echo
+down=0
 elif [[ $bool = 's' ]] || [[ $bool = 'S' ]]  ; then
 RC=0
 #sleep 0.005
@@ -3043,7 +3054,8 @@ fi
 
 done
     fi
-    printf "\033[0m@第"$gi"题\n"
+    printf "\033[0m@第"$gi"题\r"
+[[  $premode -ne 3  ]] && echo
 printf "\033[0m"
 	#statements
 #    done
@@ -3052,7 +3064,7 @@ printf "\033[0m"
 
 verbose()
 {
-sleep 0.01 &&  read -s -t0   && read -s -t1
+#sleep 0.01 &&  read -s -t0   && read -s -t1
 targets=${targets:-/dev/null}
     printf "\033[0m"
 #echo $linenum
@@ -3096,7 +3108,8 @@ if [[  "$passd" -eq 1   ]] ; then
 theleft=$((constn-gcounts))
 fi
 printf "\033[0m"
-printf  "@还有%d题\n" "$theleft"
+printf  "@还有%d题\r" "$theleft"
+[[  $premode -ne 3  ]] && echo
 }
 
 
@@ -3299,10 +3312,13 @@ FUN_()
 echo  "$strs"
  m=$((n/2))
  total=$((n/2))
+ constn=99
  for gi in `seq 99`;do
+ gcounts=gi
   m=$total
  bot=
  #ss=0
+ scanf=x
 m1=
 m2=
 m3=
@@ -3323,7 +3339,7 @@ if [[  $((iq*2)) -le $COLUMN  ]];then
 printf "\033[1m%${left}s\033[0m\n" "$question"
 #echo
 else
-printf "$s" "$question"
+ishprt "$s" "$question"
 fi
 while true;do
 
@@ -3349,70 +3365,83 @@ am3="$(echo "$txt" | sed -n "${m3},${m3}p" | awk 'BEGIN{FS="\t"}{print $NF}' | t
 
 insert=$((RANDOM%4+1))
 if [[  "$insert" -eq 1  ]] ;then
-tprep1 "  $answer" && am4=$am3 && am3=$am2 && am2=$am1
+tprep1 "  $answer" "\n" && am4="$am3" && am3="$am2" && am2="$am1"
 else
-tprep1 "  $am1"
+tprep1 "  $am1" "\n"
 fi
+am1="$p"
 if [[  "$insert" -eq 2  ]] ;then
-tprep1 "  $answer" && am4=$am3 && am3=$am2
+tprep1 "  $answer" "\n" && am4="$am3" && am3="$am2"
 else
-tprep1 "  $am2"
+tprep1 "  $am2" "\n"
 fi
+am2="$p"
 if [[  "$insert" -eq 3  ]] ;then
-tprep1 "  $answer" && am4=$am3
+tprep1 "  $answer" "\n" && am4="$am3"
 else
-tprep1 "  $am3"
+tprep1 "  $am3" "\n"
 fi
+am3="$p"
 if [[  "$insert" -eq 4  ]] ;then
-tprep1 "  $answer"
+tprep1 "  $answer" 
 else
-tprep1 "  $am4"
+tprep1 "  $am4" 
 fi
-eval am$insert=\$answer
+am4="$p"
+
+theam="$am1"
+#eval am$insert=\$answer
 #printf 按空格选择$enter
 #printf "\033[4A\033[1m\033[36m->\033[0m$enter"
-
-
-la=$((${#am1}*2+2))
+la=$((${#am1}*2-1))
 for i in $(seq ${#am1});do
 if [[  "${am1:i:1}" == '.'  ]] ;then
 la=$((la-1))
 fi
 done
 down1=$((la/$((COLUMN+1))+1))
+down_1=
+[[  "$down1" -gt 1  ]] && down_1="\033[$((down1-1))A"
 
-
-la=$((${#am2}*2+2))
+la=$((${#am2}*2-1))
 for i in $(seq ${#am2});do
 if [[  "${am2:i:1}" == '.'  ]] ;then
 la=$((la-1))
 fi
 done
 down2=$((la/$((COLUMN+1))+1))
+down_2=
+[[  "$down2" -gt 1  ]] && down_2="\033[$((down2-1))A"
 
-la=$((${#am3}*2+2))
+la=$((${#am3}*2-1))
 for i in $(seq ${#am3});do
 if [[  "${am3:i:1}" == '.'  ]] ;then
 la=$((la-1))
 fi
 done
 down3=$((la/$((COLUMN+1))+1))
+down_3=
+[[  "$down3" -gt 1  ]] && down_3="\033[$((down3-1))A"
 
-
-la=$((${#am4}*2+2))
+la=$((${#am4}*2-1))
 for i in $(seq ${#am4});do
 if [[  "${am4:i:1}" == '.'  ]] ;then
 la=$((la-1))
 fi
 done
 down4=$((la/$((COLUMN+1))+1))
+down_4=
+[[  "$down4" -gt 1  ]] && down_4="\033[$((down4-1))A"
+
+
 down6=$((down1+down2+down3+1))
 down5=$((down1+down2+down3+down4))
 
-printf 按方向键和空格或1-4选择$enter
-printf "\033[${down5}A\033[1m\033[36m->\033[0m$enter"
+#printf "$enter\033[K"
+
 getin=0;
-order=1
+order=1;
+once=0;
 while true ;do
 if [[  $getin -eq 0  ]] ;then
 IFS=$newline
@@ -3420,11 +3449,30 @@ read -s -n1   ascanf
 tf=$?
 IFS=$IFSbak
 #echo ascanf:$ascanf
-sleep 0.006
+#sleep 0.006
 fi
+
+if [[  "$ascanf"  ==  ""  ]] || [[  "$ascanf"  ==  "$CR"  ]] ;then
+[[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
+printf "$enter"
+break
+fi
+
+if [[  "$once" -ne 0  ]];then
+eval theam=\$am$order
+ishprt "$enter$theam"
+eval ishprt "\$down_$order"
+ishprt "$enter"
+#printf "\033[1m\033[36m  \033[0m${theam}$enter"
+fi
+
+
 #pren=1;
 if [[  "$ascanf"  ==  [1234]  ]];then
 sub=$((ascanf-order))
+[[  "$once" -eq 0  ]] && printf "\033[K" && ishprt "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && once=1 && [[  $sub -eq 0  ]] && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 if [[  $sub -eq 0  ]];then 
 getin=0
 order=$ascanf
@@ -3435,7 +3483,9 @@ getin=$sub
 fi
 
 if [[  "$ascanf"  ==  "$_1B5B"  ]] ;then
-read  -n1 && read -n1 WSAD
+read -n1 && read -n1 WSAD 
+[[  "$once" -eq 0  ]] && printf "\033[K" && ishprt "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter"  && continue
 if [[  "$WSAD" ==  "B"  ]] ;then
 eval down=\${down$order}
 order=$((order+1))
@@ -3443,45 +3493,63 @@ printf "  $enter"
 [[  "$order" -eq 5  ]]  && ishprt "\033[${down5}A$enter"
 [[  "$order" -eq 5  ]] && order=1
 #eval down=\${down$order}
-ishprt "\033[${down}B\033[1m\033[36m->\033[0m$enter"
+eval theam=\$am$order
+printf "\033[${down}B$enter\033[1m"
+ishprt "$theam"
+eval ishprt "\$down_$order"
+printf "$enter\033[0m"
+printf "\033[1m\033[36m->\033[0m$enter"
 elif [[  "$WSAD" == "A"  ]] ;then
 order=$((order-1))
 eval down=\${down$order}
 printf "  $enter"
-[[  "$order" -eq 0  ]]  && ishprt "\033[${down6}B$enter"
+[[  "$order" -eq 0  ]]  && ishprt "\033[$((down6-1))B$enter"
 [[  "$order" -eq 0  ]] && order=4
 #eval down=\${down$order}
-ishprt "\033[${down}A\033[1m\033[36m->\033[0m$enter"
+eval theam=\$am$order
+[[  "$order" -ne 4  ]] &&  printf "\033[${down}A$enter"
+printf "\033[1m"
+ishprt "$theam"
+eval ishprt "\$down_$order"
+printf "$enter\033[0m"
+printf "\033[1m\033[36m->\033[0m$enter"
 elif [[  "$WSAD" == "C"  ]] ;then
 break
 fi
 fi
+
 if [[  "$ascanf"  ==  ' '  ]] || [[  $getin -gt 0  ]] ;then
+ [[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1"  && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 [[  $getin -gt 0  ]] && getin=$((getin-1))
 eval down=\${down$order}
 order=$((order+1))
+
 printf "  $enter"
 [[  "$order" -eq 5  ]]  && ishprt "\033[${down5}A$enter"
 [[  "$order" -eq 5  ]] && order=1
 #eval down=\${down$order}
-ishprt "\033[${down}B\033[1m\033[36m->\033[0m$enter"
+eval theam=\$am$order
+printf "\033[${down}B$enter\033[1m"
+printf "$theam"
+eval ishprt "\$down_$order"
+printf "$enter\033[0m"
+printf "\033[1m\033[36m->\033[0m$enter"
 
 
-elif [[  "$ascanf"  ==  ""  ]] || [[  "$ascanf"  ==  "$CR"  ]] ;then
-break
 elif [[  "$ascanf"  ==  "$D"  ]];then
 orders=0
 [[  $order -lt 4  ]] && for i in $(seq $((order)) 4);do
 eval orders=\$down$i\+\$orders
 done
-down=$((orders+1))
+down=$((orders))
 [[  $down -gt 0  ]] && printf "\033[${down}B$enter"
 FIND
 ishprt "\033[1m%${left}s\033[0m\n" "$question"
-tprep1 "  $am1"
-tprep1 "  $am2"
-tprep1 "  $am3"
-tprep1 "  $am4"
+ishprt "$am1\n" 
+ishprt "$am2\n"
+ishprt "$am3\n"
+ishprt "$am4\n"
 printf 按方向键和空格或1-4选择$enter
 temp=0;
 for ii in $(seq $((order)) 4);do
@@ -3494,45 +3562,100 @@ continue
 fi
 done
 
-if [[  "$order" -eq "$insert"  ]];then
-printf "\033[32m"
 
-tprep1 "->$answer"
+if [[  "$order" -eq "$insert"  ]];then
 orders=0
-[[  $order -lt 4  ]] && for i in $(seq $((order+1)) 4);do
-eval orders=\$down$i\+\$orders
-done
-down=$((orders))
-[[  $down -gt 0  ]] && printf "\033[${down}B$enter"
+printf "\033[1m$theam$enter\033[0m\033[1m\033[32m->\033[0m$enter"
+down=0
+one=
+case $order in 
+1)
+down=$((down2+down3+down4-1))
+one="\n"
+#printf  "\033[${down}B"
+;;
+2)
+down=$((down3+down4-1))
+one="\n"
+#printf  "\033[${down}B"
+;;
+3)
+down=$((down4-1))
+one="\n"
+#printf  "\033[${down}B"
+;;
+4)
+printf ""
+;;
+esac
+#down=$((orders-2))
+isright=1
+#printf "─>"
+abool=
+bool=
+printf "\r"
+colourp 2>/dev/null
+
+[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B"
+[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && printf "$one"
+
 printf "\033[0m"
-printf "按方向键和回车或1-4继续\033[1m"
-printf "\033[1A"
+#printf "按方向键和回车或1-4继续\033[1m"
+#printf "\033[1A"
 else
 #eval thed=\$down$order
 #down=$((down+thed-1))
-printf "\033[31m—>\033[0m\r"
-#printf "\033[31m$order\033[0m\r"
-#down=$((5-$order))
 orders=0
- for i in $(seq $order 4);do
-eval orders=\$down$i\+\$orders
-done
-down=$((orders))
+printf "$enter\033[31m%s\033[0m\r" "->"
+#printf "\033[31m$order\033[0m\r"
+
+#down=$((5-$order))
+down=0
+one=
+case $order in 
+1)
+down=$((down2+down3+down4-1))
+one="\n"
+#printf  "\033[${down}B"
+;;
+2)
+down=$((down3+down4-1))
+one="\n"
+#printf  "\033[${down}B"
+;;
+3)
+down=$((down4-1))
+one="\n"
+#printf  "\033[${down}B"
+;;
+4)
+one=""
+;;
+esac
+#down=$((orders-2))
 #eval thed=\$down$order
-#down=$((down+thed-1))
-printf "\033[${down}B$enter\033[0m"
-printf "按方向键和回车或1-4继续\033[1m"
-reading
+isright=0
+#printf "─>"
+abool=
+bool=
+printf "\r"
+colourp 2>/dev/null
+
+[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B" 
+[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && printf "$one"
+#[[  $order -ne 4  ]] && ishprt "\n"
+#printf "按方向键和回车或1-4继续\033[1m"
+[[  "$abool" ==  ""  ]] && printf "\r$answer    $answer1\033[K\n"
 #printf "\033[1A"
-printf "\r$answer    $answer1\033[K"
 
 fi
 #printf "\033[1A"
-reading
-printf "\n\r"
-verbs="$(printf %s "$content" | grep "^$answer1 [^A-Z^a-z]" )"
+#reading
 
-[[  "$verbs" != ""  ]] && printf "\033[1m%s\n\033[0m" "$verbs"
+#printf "\n\r"
+#verbs="$(printf %s "$content" | grep "^$answer1 [^A-Z^a-z]" )"
+
+#[[  "$verbs" != ""  ]] && printf "\033[2m%s\n\033[0m" "$verbs"
 
 
 elif [[  "$fbool" -eq 2  ]] ;then
@@ -3550,7 +3673,7 @@ done
 left=$(($((COLUMN/2))-$((iq/2))))
 
 if [[  $iq -le $COLUMN  ]] ;then 
-printf "\033[1m\033[%dC%s\033[0m" $left  $question
+ishprt "\033[1m\033[%dC%s\033[0m" $left  $question
 else
 [[  "$ish" == "y"  ]]  && question=~"$question"  && ishprt "\033[1m$question\033[0m"
 [[  "$ish" != "y"  ]] &&  printf "\033[1m$question\033[0m"
@@ -3595,9 +3718,9 @@ else
 printf "  $am3"\\n
 fi
 if [[  "$insert" -eq 4  ]] ; then 
-printf "  $answer"\\n
+printf "  $answer"
 else
-printf "  $am4"\\n
+printf "  $am4"
 fi
 eval am$insert=\$answer
 la=$((${#am1}+2))
@@ -3612,10 +3735,11 @@ down4=$((la/$((COLUMN+1))+1))
 down5=0;
 down6=$((down1+down2+down3+1))
 down5=$((down1+down2+down3+down4))
-printf 按方向键和空格或1-4选择$enter
-printf "\033[${down5}A\033[34m\033[1m->\033[0m$enter"
-
+once=0;
 order=1
+
+#printf "$enter\033[K"
+
 while true ;do
 if [[  $getin -eq 0  ]] ;then
 IFS=$newline
@@ -3623,11 +3747,27 @@ read -s -n1   ascanf
 tf=$?
 IFS=$IFSbak
 #echo ascanf:$ascanf
-sleep 0.006
+#sleep 0.006
 fi
-#pren=1;
+
+if [[  "$ascanf"  ==  ""  ]]  || [[  "$ascanf"  ==  "$CR"  ]];then
+[[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
+printf "$enter"
+break
+fi
+
+if [[  "$once" -ne 0  ]];then
+eval theam=\$am$order
+printf "$enter"
+ishprt "  $theam"
+printf "$enter"
+fi
+
 if [[  "$ascanf"  ==  [1234]  ]];then
+[[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}"
 sub=$((ascanf-order))
+[[  "$once" -eq 0  ]] && once=1 && [[  $sub -eq 0  ]] && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 if [[  $sub -eq 0  ]];then 
 getin=0
 order=$ascanf
@@ -3639,6 +3779,8 @@ fi
 
 if [[  "$ascanf"  ==  "$_1B5B"  ]] ;then
 read  -n1 && read -n1 WSAD
+[[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 if [[  "$WSAD" ==  "B"  ]] ;then
 eval down=\${down$order}
 order=$((order+1))
@@ -3646,31 +3788,45 @@ printf "  $enter"
 [[  "$order" -eq 5  ]]  && ishprt "\033[${down5}A$enter"
 [[  "$order" -eq 5  ]] && order=1
 #eval down=\${down$order}
-ishprt "\033[${down}B\033[1m\033[36m->\033[0m$enter"
+
+eval theam=\$am$order
+printf "\033[${down}B$enter\033[1m"
+ishprt "  $theam"
+printf "$enter\033[0m"
+printf "\033[1m\033[36m->\033[0m$enter"
 elif [[  "$WSAD" == "A"  ]] ;then
 order=$((order-1))
 eval down=\${down$order}
 printf "  $enter"
-[[  "$order" -eq 0  ]]  && ishprt "\033[${down6}B$enter"
+[[  "$order" -eq 0  ]]  && ishprt "\033[$((down6-1))B$enter"
 [[  "$order" -eq 0  ]] && order=4
+eval theam=\$am$order
 #eval down=\${down$order}
-ishprt "\033[${down}A\033[1m\033[36m->\033[0m$enter"
+[[  "$order" -ne 4  ]] &&  printf "\033[${down}A$enter"
+printf "\033[1m"
+ishprt "  $theam"
+printf "$enter\033[0m"
+printf "\033[1m\033[36m->\033[0m$enter"
 elif [[  "$WSAD" == "C"  ]] ;then
 break
 fi
 fi
 
 if [[  "$ascanf"  ==  ' '  ]] || [[  $getin -gt 0  ]] ;then
+[[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 [[  $getin -gt 0  ]] && getin=$((getin-1))
 eval down=\${down$order}
 order=$((order+1))
 printf "  $enter"
 [[  "$order" -eq 5  ]] && ishprt "\033[${down5}A$enter"
 [[  "$order" -eq 5  ]] && order=1
-ishprt "\033[${down}B\033[1m\033[36m->\033[0m$enter"
+eval theam=\$am$order
+printf "\033[${down}B$enter\033[1m"
+ishprt "  $theam"
+printf "$enter\033[0m"
+printf "\033[1m\033[36m->\033[0m$enter"
 
-elif [[  "$ascanf"  ==  ""  ]]  || [[  "$ascanf"  ==  "$CR"  ]];then
-break
 elif [[  "$ascanf"  ==  "$D"  ]];then
 orders=0
 for i in $(seq $((order)) 4);do
@@ -3696,38 +3852,85 @@ continue
 fi
 done
 orders=0
-for i in $(seq $order 4);do
-eval orders=\${down$i}+\$orders
-done
-down=$((orders))
+down=0
+one=
+case $order in 
+1)
+down=$((down2+down3+down4-1))
+one="\n"
+#printf  "\033[${down}B"
+;;
+2)
+down=$((down3+down4-1))
+one="\n"
+#printf  "\033[${down}B"
+;;
+3)
+down=$((down4-1))
+one="\n"
+#printf  "\033[${down}B"
+;;
+4)
+one=""
+;;
+esac
 if [[  "$order" -eq "$insert"  ]];then
-printf "\033[32m—>$answer"
+printf "\033[1m\033[32m->\033[0m\033[1m$answer$enter"
 #down=$((1+${down5}-$orders))
-#eval thed=\$down$order
-[[  $down -gt 0  ]] && printf "\033[${down}B$enter"
-printf "\033[0m"
-printf "按方向键和回车或1-4继续"
-printf "\033[1A"
+isright=1
+abool=
+bool=
+printf "\r"
+colourp 2>/dev/null
+[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B"
+[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && printf "$one"
+#printf "按方向键和回车或1-4继续"
+#printf "\033[1A"
 else
+isright=0
 #eval thed=\$down$order
 #down=$((down+thed-1))
-printf "\033[31m—>\033[0m\r"
-#printf "\033[31m$order\033[0m\r"
-#down=$((1+${down5}-$orders))
-printf "\033[${down}B$enter\033[0m"
-printf "按方向键和回车或1-4继续"
-reading
+printf "\033[31m%s\033[0m\r" "->"
+down=0
+one=
+case $order in 
+1)
+down=$((down2+down3+down4-1))
+one="\n"
+#printf  "\033[${down}B"
+;;
+2)
+down=$((down3+down4-1))
+one="\n"
+#printf  "\033[${down}B"
+;;
+3)
+down=$((down4-1))
+one="\n"
+#printf  "\033[${down}B"
+;;
+4)
+
+;;
+esac
+
+isright=0
+#printf "─>"
+abool=
+bool=
+colourp 2>/dev/null
+#printf "按方向键和回车或1-4继续"
+[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B" 
+[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   &&   printf "$one"
 #printf "\033[1A"
-printf "\r\033[1m$answer    $answer2\033[K"
+printf "\r\033[1m$answer    $answer2\033[K\n"
 #printf "\033[1A"
 fi
-reading
-printf "\n\r"
-verbs="$(printf %s "$content" | grep ^"$answer1 [^A-Z^a-z]" )"
- [[  "$verbs" != ""  ]] && printf "\033[1m%s\n\033[0m" "$verbs"
+#verbs="$(printf %s "$content" | grep ^"$answer1 [^A-Z^a-z]" )"
+#[[  "$verbs" != ""  ]] && printf "\033[2m%s\n\033[0m" "$verbs"
 
 fi
-echo $strs
+ishprt "$strs\n"
 done
 }
 
