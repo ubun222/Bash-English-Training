@@ -3645,7 +3645,7 @@ colourp 2>/dev/null
 [[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && printf "$one"
 #[[  $order -ne 4  ]] && ishprt "\n"
 #printf "按方向键和回车或1-4继续\033[1m"
-[[  "$abool" ==  ""  ]] && printf "\r$answer    $answer1\033[K\n"
+[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]] && printf "\r\033[1m$answer  $answer1\033[K\n"
 #printf "\033[1A"
 
 fi
@@ -3923,7 +3923,7 @@ colourp 2>/dev/null
 [[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B" 
 [[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   &&   printf "$one"
 #printf "\033[1A"
-printf "\r\033[1m$answer    $answer2\033[K\n"
+[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]  && printf "\r\033[1m$answer  $answer2\033[K\n"
 #printf "\033[1A"
 fi
 #verbs="$(printf %s "$content" | grep ^"$answer1 [^A-Z^a-z]" )"
