@@ -1226,7 +1226,7 @@ ishprt  "\033[1A\033[${COL}C%s\n\r"  "${eline}"
 fi
 [[  "$hide" -eq "0"  ]] &&  pprep "$pureanswerd"
 [[  $premode -eq 3  ]] && [[  $order -ne 4  ]] && printf "\033[${down}B$enter"  && printf "$one"
-printf "\r$question    $answer\033[K\n"
+[[  $premode -eq 3  ]]  && printf "\r$question    $answer\033[K\n"
 yes
 #[[  $premode -ne 3  ]]  && echo
 down=0
@@ -1240,7 +1240,7 @@ ishprt   "\033[1A\033[${COL}C%s\n\r"  "${eline}"
 fi
 [[  "$hide" -eq "0"  ]] && pprep "$pureanswerd" 
 [[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && printf "\033[${down}B$enter" && printf "$one" 
-printf "\r$question    $answer\033[K\n"
+[[  $premode -eq 3  ]]  && printf "\r$question    $answer\033[K\n"
 verbose
 #[[  $premode -ne 3  ]]  && echo
 down=0
