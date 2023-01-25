@@ -3393,7 +3393,7 @@ theam="$am1"
 #eval am$insert=\$answer
 #printf 按空格选择$enter
 #printf "\033[4A\033[1m\033[36m->\033[0m$enter"
-la=$((${#am1}*2-1))
+la=$((${#am1}*2-2))
 for i in $(seq ${#am1});do
 if [[  "${am1:i:1}" == '.'  ]] ;then
 la=$((la-1))
@@ -3403,7 +3403,7 @@ down1=$((la/$((COLUMN+1))+1))
 down_1=
 [[  "$down1" -gt 1  ]] && down_1="\033[$((down1-1))A"
 
-la=$((${#am2}*2-1))
+la=$((${#am2}*2-2))
 for i in $(seq ${#am2});do
 if [[  "${am2:i:1}" == '.'  ]] ;then
 la=$((la-1))
@@ -3413,7 +3413,7 @@ down2=$((la/$((COLUMN+1))+1))
 down_2=
 [[  "$down2" -gt 1  ]] && down_2="\033[$((down2-1))A"
 
-la=$((${#am3}*2-1))
+la=$((${#am3}*2-2))
 for i in $(seq ${#am3});do
 if [[  "${am3:i:1}" == '.'  ]] ;then
 la=$((la-1))
@@ -3423,7 +3423,7 @@ down3=$((la/$((COLUMN+1))+1))
 down_3=
 [[  "$down3" -gt 1  ]] && down_3="\033[$((down3-1))A"
 
-la=$((${#am4}*2-1))
+la=$((${#am4}*2-2))
 for i in $(seq ${#am4});do
 if [[  "${am4:i:1}" == '.'  ]] ;then
 la=$((la-1))
