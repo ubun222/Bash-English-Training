@@ -32,7 +32,7 @@ bash 1.8.9.sh -apm  # 答题辅助 通关模式 优化termux
 5. -s 词表验证模式
 6. -i 优化ish 
 7. -T 优化Termius 
-8. ~~ -m 优化Windows Terminal,MacOS终端,安卓Termux  ~~
+8. ~~~ -m 优化Windows Terminal,MacOS终端,安卓Termux  ~~~
 8. (默认即对以上终端进行优化)
 9. -j 加载.json源文件
 10. -h 获取帮助
