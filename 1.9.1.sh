@@ -636,7 +636,6 @@ stdin()
 
 LINE=$(stty size|awk '{print $1}')
 COLUMN=$(stty size|awk '{print $2}')
-[[  "$COLUMN" -le 28  ]] && COLUMN=28
 
 [[  "$((COLUMN%2))"  -eq 1 ]] && aspace=' '
 spaces=''
@@ -644,11 +643,11 @@ spaces=''
 for space in $(seq $((COLUMN/2)));do
 spaces="$spaces "
 done
-title=${spaces#              }
+title=${spaces#           }
 for STR in $(seq $((COLUMN)));do
 strs="$strs"─
 done
-
+[[  "$COLUMN" -lt 28  ]] && spaces=' '
 for i in $(seq $((COLUMN)));do
 strs_="$strs_"=
 done
@@ -1225,7 +1224,8 @@ RC=0
 ishprt  "\033[1A\033[${COL}C%s\n\r"  "${eline}"
 fi
 [[  "$hide" -eq "0"  ]] &&  pprep "$pureanswerd"
-[[  $premode -eq 3  ]] && [[  $order -ne 4  ]] && printf "\033[${down}B$enter"  && printf "$one"
+[[  $premode -eq 3  ]] && [[  $order -ne 4  ]] && [[  $down -gt 0  ]] && printf "\033[${down}B$enter" 
+[[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && printf "$one" 
 [[  $premode -eq 3  ]]  && printf "\r$question    $answer\033[K\n"
 yes
 #[[  $premode -ne 3  ]]  && echo
@@ -1239,7 +1239,8 @@ RC=0
 ishprt   "\033[1A\033[${COL}C%s\n\r"  "${eline}"
 fi
 [[  "$hide" -eq "0"  ]] && pprep "$pureanswerd" 
-[[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && printf "\033[${down}B$enter" && printf "$one" 
+[[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && [[  $down -gt 0  ]] && printf "\033[${down}B$enter" 
+[[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && printf "$one" 
 [[  $premode -eq 3  ]]  && printf "\r$question    $answer\033[K\n"
 verbose
 #[[  $premode -ne 3  ]]  && echo
@@ -1691,48 +1692,6 @@ fi
 IFS=$IFSbak
 }
 
-
-read_()
-{
-#[[  $which == zh  ]] && stty echo
-#wait1=
-#[[  $which == en  ]] &&  stty -echo
-#stty -echo
-bd=1
-wait1=
-now=
-IFS=$ENTER
-read -s -t0.15  -n1 bscanf  2>/dev/null
-bd=$?
-if [[  "$bd" -ne 0   ]] ;then
-[[  "$waiting" == "1"  ]] && waiting=0  && bscanf=
-[[  "$ascanf" == ""  ]] && wait1=1 && waiting=0
-#stty echo
-elif [[  "$bd" -eq 0   ]]; then  
-#stty echo
-waiting=1
-wait=
-fi
-if [[  "$ascanf" != ""   ]]  ;then
-printf "${ascanf}"
-##wherec="${pos1/#*;/""}"
-##[[  "$wherec" -eq 1  ]] && now=1
-if [[  "$auto" -eq 1  ]] ;then
-[[  "$waiting" == "0"  ]] && [[  $wait1 -ne 1  ]] &&  ififright && waiting=1 && stty -echo  && return 22
-fi
-fi
-#stty echo
-[[  "$bd" -eq 0   ]]  &&  waiting=1 && ascanf="$bscanf"
-if [[   $waiting -eq 0  ]] ;then
-##printf "\033[6n"
-##read -s -d \[ 
-##read -t1 -s -d \R pos1
-stty -echo
-read  -s -n1 ascanf
-fi
-
-IFS=$IFSbak
-}
 while true;do
 printf "\033[6n" && read -t 0.5 -s -d \[ bb && read -t 0.5 -s  -d \R 
 [[  "$?" -eq 142  ]] && continue
@@ -2228,7 +2187,7 @@ while true;do
 #IFS=$ENTER
 stty -echo
 if [[  "$ish" != "y"  ]] && [[  "$termius" != "y"  ]] && [[  "$windows" != "y"  ]] ;then
-read_
+_read_
 tf=$?
 elif [[  "$ish" == "y"  ]] ;then
 _read 
@@ -2239,9 +2198,9 @@ tf=$?
 elif [[  "$termius" == "y"  ]] ;then
 __read 
 tf=$?
-elif [[  "$windows" == "y"  ]] ;then
-_read_ 
-tf=$?
+#elif [[  "$windows" == "y"  ]] ;then
+#_read_ 
+#tf=$?
 fi
 #stty echo
 vback=
@@ -2434,7 +2393,7 @@ while true;do
 #IFS=$newline
 stty -echo
 if [[  "$ish" != "y"  ]] && [[  "$termius" != "y"  ]] && [[  "$windows" != "y"  ]] ;then
-read_
+_read_
 tf=$?
 elif [[  "$ish" == "y"  ]] ;then
 _read 
@@ -2445,9 +2404,9 @@ tf=$?
 elif [[  "$termius" == "y"  ]] ;then
 __read 
 tf=$?
-elif [[  "$windows" == "y"  ]] ;then
-_read_ 
-tf=$?
+#elif [[  "$windows" == "y"  ]] ;then
+#_read_ 
+#tf=$?
 fi
 #IFS=$IFSbak
 #echo ascanf:$ascanf
@@ -3538,12 +3497,31 @@ printf "\033[1m\033[36m->\033[0m$enter"
 
 
 elif [[  "$ascanf"  ==  "$D"  ]];then
+[[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}" && once=1
 orders=0
-[[  $order -lt 4  ]] && for i in $(seq $((order)) 4);do
-eval orders=\$down$i\+\$orders
-done
-down=$((orders))
+one=
+[[  $order -lt 4  ]] && case $order in 
+1)
+down=$((down2+down3+down4))
+one="\n"
+#printf  "\033[${down}B"
+;;
+2)
+down=$((down3+down4))
+one="\n"
+#printf  "\033[${down}B"
+;;
+3)
+down=$((down4))
+one="\n"
+#printf  "\033[${down}B"
+;;
+4)
+printf ""
+;;
+esac
 [[  $down -gt 0  ]] && printf "\033[${down}B$enter"
+printf "$one"
 FIND
 ishprt "\033[1m%${left}s\033[0m\n" "$question"
 ishprt "$am1\n" 
@@ -3828,6 +3806,7 @@ printf "$enter\033[0m"
 printf "\033[1m\033[36m->\033[0m$enter"
 
 elif [[  "$ascanf"  ==  "$D"  ]];then
+[[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}" && once=1
 orders=0
 for i in $(seq $((order)) 4);do
 eval orders=\$down$i\+\$orders
@@ -3942,7 +3921,7 @@ FUN()
    clear
 #printf "\033[s"
 stty -echo
-printf "\033[1B\033[2m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
+printf "\033[1B\033[2m$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training\n"
 
 for i in $(seq $((COLUMN)));do
 
@@ -3960,9 +3939,9 @@ printf "\033[0m"
 sleep 0.05
 printf "\r\033[2A"
 sleep 0.02
-printf "\n\033[1D$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training"
+printf "\n\033[1D$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training"
 sleep 0.02
-printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
+printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training\n"
 sleep 0.02
 echo
 sleep 0.02
@@ -4267,7 +4246,7 @@ FUN1()
 clear
 stty -echo
 #printf "\033[s\c"
-printf "\033[1B$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
+printf "\033[1B$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training\n"
 
 for i in $(seq $((COLUMN)));do
 
@@ -4285,9 +4264,9 @@ printf "\033[0m"
 sleep 0.05
 printf "\r\033[2A"
 sleep 0.02
-printf "\n\033[1D$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training"
+printf "\n\033[1D$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training"
 sleep 0.02
-printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}welcome to English Training\n"
+printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training\n"
 sleep 0.02
 echo
 sleep 0.02
@@ -4750,13 +4729,13 @@ helptxt="-p 通关模式(全做对后退出)
 -s 验证词表格式(避免多余的空格)
 -i 优化ish(主要修复IOS的ish中存在中文断行等问题)
 -T 优化Termius 
--m 优化Windows Terminal,MacOS终端,安卓Termux 
+
 -j 加载有详细释义的.Json文件(Oxford Dictionary API*)
 (*当红黄绿指示亮起时，按Y/y获取详细释义，V/v获取详细例句，S/s跳过，j加载json文件)
 "
 
 argn=0;
-while getopts ":RrsipajhTm" opt; do
+while getopts ":RrsipajhT" opt; do
     case $opt in
         h)
         printf "%s" "$helptxt" && exit 1
@@ -4788,9 +4767,9 @@ while getopts ":RrsipajhTm" opt; do
         T)
         printf  "\033[3m*Termius\n\033[0m" && termius=y && argn=$((argn+1))
         ;;
-        m)
-        printf "\033[3m*Termux/Windows Terminal/macOS(Bash)\n\033[0m" && windows=y && argn=$((argn+1))
-        ;;
+       # m)
+       # printf "\033[3m*Termux/Windows Terminal/macOS(Bash)\n\033[0m" && windows=y && argn=$((argn+1))
+       # ;;
 
 esac
 done
