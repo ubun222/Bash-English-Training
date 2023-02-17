@@ -2176,7 +2176,7 @@ Lb=0
 zscanf=
 #printf $enter"$question"\\033[3m\ \<───\>\ 
 
-[[  "$windows" == "y"  ]] && bscanf="$B" && waiting=1 
+[[  "$ish" != "y"  ]] && [[  "$termius" != "y"  ]] && bscanf="$B" && waiting=1 
 
 
 while true;do
@@ -2186,7 +2186,7 @@ while true;do
 #IFSbak=$IFS
 #IFS=$ENTER
 stty -echo
-if [[  "$ish" != "y"  ]] && [[  "$termius" != "y"  ]] && [[  "$windows" != "y"  ]] ;then
+if [[  "$ish" != "y"  ]] && [[  "$termius" != "y"  ]] ;then
 _read_
 tf=$?
 elif [[  "$ish" == "y"  ]] ;then
