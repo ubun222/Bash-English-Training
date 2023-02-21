@@ -3791,7 +3791,7 @@ fi
 fi
 
 if [[  "$ascanf"  ==  ' '  ]] || [[  $getin -gt 0  ]] ;then
-[[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && printf "\033[K" && ishprt "\033[$((down5-1))A${enter}"
 [[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 [[  $getin -gt 0  ]] && getin=$((getin-1))
 eval down=\${down$order}
@@ -3800,10 +3800,10 @@ printf "  $enter"
 [[  "$order" -eq 5  ]] && ishprt "\033[${down5}A$enter"
 [[  "$order" -eq 5  ]] && order=1
 eval theam=\$am$order
-printf "\033[${down}B$enter\033[1m"
+ishprt "\033[${down}B$enter\033[1m"
 ishprt "  $theam"
 printf "$enter\033[0m"
-printf "\033[1m\033[36m->\033[0m$enter"
+ishprt "\033[1m\033[36m->\033[0m$enter"
 
 elif [[  "$ascanf"  ==  "$D"  ]];then
 [[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}" && once=1
