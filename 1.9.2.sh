@@ -84,7 +84,7 @@ calenda=1
 #calenda=1
 cd $Path
 if [[  $txtp -eq  1  ]];then
-cd ./"$txtname"
+cd "$txtname"
 else
 cd ./txt
 fi
@@ -835,7 +835,7 @@ cd "$thepath"
     eval rw$RWN="${atarget}"
     RWN=$((RWN+1))
 if [[  $txtp -eq 2  ]];then
-printf 使用错题集./"$txtname"/CORRECT/$thepath${atarget##"./"}\\n
+printf 使用错题集"$txtname"/CORRECT/$thepath${atarget##"./"}\\n
 else
 [[  -e ${atarget}  ]] &&  printf 使用错题集./txt/CORRECT/$thepath${atarget##"./"}\\n
 fi   
