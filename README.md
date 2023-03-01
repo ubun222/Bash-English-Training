@@ -2,7 +2,7 @@
 
 #### 需求
 1. bash
-2. 手机终端应用(ish termux)或电脑系统终端(Ubuntu, Macos, Windows Terminal(WSL))
+2. 手机终端应用(ish termux)或电脑系统终端(Ubuntu, Macos(推荐iTerm+brew install bash), Windows Terminal(WSL))
 
 ![BET-ish.gif](https://github.com/ubun222/Learning-English/raw/bash/img/BET-ish.gif) ![BET-termux.gif](https://github.com/ubun222/Learning-English/raw/bash/img/BET-termux.gif)
 #### 开始
@@ -13,14 +13,16 @@ apk add bash
 apk add git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
-bash 1.8.9.sh -api  # 答题辅助 通关模式 优化ish
+bash 
+1.9.2.sh -api  # 答题辅助 通关模式 优化ish
 ```
 3. Termux
 ```
 apt-get install git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
-bash 1.8.9.sh -apm  # 答题辅助 通关模式 优化termux
+bash 
+1.9.2.sh -ap  # 答题辅助 通关模式
 ```
 4. 若安装git或bash失败，请先update和upgrade包管理命令。
 5. json翻译还需要另外安装gawk，可能自带的awk无法使用trans。
@@ -32,8 +34,8 @@ bash 1.8.9.sh -apm  # 答题辅助 通关模式 优化termux
 5. -s 词表验证模式
 6. -i 优化ish 
 7. -T 优化Termius 
-8. -m 优化Windows Terminal,MacOS终端,安卓Termux(已删除，默认即对这些终端进行优化)
-9. -j 加载.json源文件
+8. -j 加载.json源文件
+9. -t 指定txt文件夹名或txt文件夹路径
 10. -h 获取帮助
 #### 模式
 1. 提词机
