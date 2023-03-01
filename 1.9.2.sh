@@ -83,8 +83,13 @@ calenda=1
   # clear
 #calenda=1
 cd $Path
+if [[  $txtp -eq  1  ]];then
+cd ./"$txtname"
+else
 cd ./txt
+fi
 [[  "$?" -ne 0  ]] && echo 未在脚本所在目录找到txt文件夹 && calenda=0 &&  return 1
+txtp=2
 pathls="$(ls -F | grep '/$' )"
 pathlsl="$(echo "$pathls" | wc -l)"
 printf "\33[?25l"
@@ -829,8 +834,11 @@ cd "$thepath"
     
     eval rw$RWN="${atarget}"
     RWN=$((RWN+1))
+if [[  $txtp -eq 2  ]];then
+printf 使用错题集./"$txtname"/CORRECT/$thepath${atarget##"./"}\\n
+else
 [[  -e ${atarget}  ]] &&  printf 使用错题集./txt/CORRECT/$thepath${atarget##"./"}\\n
-       
+fi   
                        if [[  "$?" -ne 0  ]];then
     printf 找不到"$atarget"中的文件夹，请生成子文件夹或删除整个CORRECT\\n
 fi
@@ -974,6 +982,9 @@ therw=
 
 Fresh()
 {
+  if [[  "$1" != ""  ]];then
+  p="$1"
+  fi
 whereadd=1
 addwhere=
 counts=0
@@ -1709,9 +1720,9 @@ stty -echo
 
 while true;do
 #[[  "$ascanf" == ""   ]] && [[  "$vback" -ne "1"  ]]  && break
-printf "\033[6n"
 
 if [[  $bd -ne 1   ]]  && [[  $waiting -eq 0   ]];then
+printf "\033[6n"
 read -t 0.8 -s -d \[ bscanf
 [[  "$?" -ne 0  ]] && continue
 bd=1
@@ -1719,18 +1730,20 @@ ib=${#bscanf}
 waiting=1
 [[  "$ib" -le "1"   ]] && bscanf=""  && waiting=0
 bscanf="${bscanf%%"$bb"}" 
+read -t 0.8 -s -d \R pos1
+[[  "$?" -ne 0  ]] && continue
 #[[  "$waiting" -eq "1"   ]] && bscanf="$needpt"
 
 else
-read -t 0.8 -s -d \[ 
-[[  "$?" -ne 0  ]] && continue
+#read -t 0.8 -s -d \[ 
+#[[  "$?" -ne 0  ]] && continue
+pos1="$pos2"
 fi
 #ib=${#bscanf}
 #echo $ib
 #[[  "$ib" -le "1"   ]] && bscanf=""
 #[[  "$waiting" == "1"   ]] && bscanf="$needpt"
-read -t 0.8 -s -d \R pos1
-[[  "$?" -ne 0  ]] && continue
+
 #[[  "$?" -ne 0  ]] && passs=1 &&  continue 
 break
 done
@@ -1836,9 +1849,10 @@ stty -echo
 
 while true;do
 #[[  "$ascanf" == ""   ]] && [[  "$vback" -ne "1"  ]]  && break
-printf "\033[6n"
+##printf "\033[6n"
 
 if [[  $bd -ne 1   ]]  && [[  $waiting -eq 0   ]];then
+printf "\033[6n"
 read -t 0.8 -s -d \[ bscanf
 [[  "$?" -ne 0  ]] && continue
 bd=1
@@ -1847,17 +1861,19 @@ waiting=1
 [[  "$ib" -le "1"   ]] && bscanf=""  && waiting=0
 bscanf="${bscanf%%"$bb"}" 
 #[[  "$waiting" -eq "1"   ]] && bscanf="$needpt"
-
-else
-read -t 0.8 -s -d \[ 
+read -t 0.8 -s -d \R pos1
 [[  "$?" -ne 0  ]] && continue
+else
+##read -t 0.8 -s -d \[ 
+##[[  "$?" -ne 0  ]] && continue
+pos1="$pos2"
 fi
 #ib=${#bscanf}
 #echo $ib
 #[[  "$ib" -le "1"   ]] && bscanf=""
 #[[  "$waiting" == "1"   ]] && bscanf="$needpt"
-read -t 0.8 -s -d \R pos1
-[[  "$?" -ne 0  ]] && continue
+##read -t 0.8 -s -d \R pos1
+##[[  "$?" -ne 0  ]] && continue
 #[[  "$?" -ne 0  ]] && passs=1 &&  continue 
 break
 done
@@ -1980,9 +1996,10 @@ stty -echo
 
 while true;do
 #[[  "$ascanf" == ""   ]] && [[  "$vback" -ne "1"  ]]  && break
-printf "\033[6n"
+##printf "\033[6n"
 
 if [[  $bd -ne 1   ]]  && [[  $waiting -eq 0   ]];then
+printf "\033[6n"
 read -t 0.8 -s -d \[ bscanf
 if [[  $? -eq 142  ]] && [[ !  "$bscanf" =~ "$bb"  ]];then
 bd=1
@@ -1997,10 +2014,15 @@ waiting=1
 bscanf="${bscanf%%"$bb"}" 
 #[[  "$waiting" -eq "1"   ]] && bscanf="$needpt"
 fi
+while true;do
+read -t 0.8 -s -d \R pos1
+[[  $? -eq 142  ]] && continue
+break
+done
 else
-
-read -t 0.8 -s -d \[ 
-[[  "$?" -eq 142  ]] && continue
+pos1="$pos2"
+##read -t 0.8 -s -d \[ 
+##[[  "$?" -eq 142  ]] && continue
 
 fi
 break
@@ -2010,11 +2032,11 @@ done
 #[[  "$ib" -le "1"   ]] && bscanf=""
 #[[  "$waiting" == "1"   ]] && bscanf="$needpt"
 
-while true;do
-read -t 0.8 -s -d \R pos1
-[[  $? -eq 142  ]] && continue
-break
-done
+##while true;do
+##read -t 0.8 -s -d \R pos1
+##[[  $? -eq 142  ]] && continue
+##break
+##done
 need6n=
 #while true;do
 
@@ -3647,13 +3669,23 @@ if [[  "${question:i:1}" == '.'  ]] ;then
 iq=$((iq-1))
 fi
 done
-#cq=$((COLUMN/2))
 left=$(($((COLUMN/2))-$((iq/2))))
 
 if [[  $iq -le $COLUMN  ]] ;then 
 ishprt "\033[1m\033[%dC%s\033[0m" $left  $question
 else
-[[  "$ish" == "y"  ]]  && question=~"$question"  && ishprt "\033[1m$question\033[0m"
+if [[  "$ish" == "y"  ]] ; then 
+while true;do
+st=0
+Fresh "$question"
+if [[  "$?" -eq 5  ]];then
+question="${p:0:$st}~${p:$st}"
+else
+break
+fi
+done
+ishprt "\033[1m$question\033[0m"
+fi
 [[  "$ish" != "y"  ]] &&  printf "\033[1m$question\033[0m"
 fi
 echo
@@ -4735,7 +4767,7 @@ helptxt="-p 通关模式(全做对后退出)
 "
 
 argn=0;
-while getopts ":RrsipajhT" opt; do
+while getopts ":RrsipajhTt:" opt; do
     case $opt in
         h)
         printf "%s" "$helptxt" && exit 1
@@ -4766,6 +4798,9 @@ while getopts ":RrsipajhT" opt; do
 #        ;;
         T)
         printf  "\033[3m*Termius\n\033[0m" && termius=y && argn=$((argn+1))
+        ;;
+        t)
+        printf  "%s\n\033[0m"  "指定txt文件夹名:${OPTARG}" && txtname="${OPTARG}" && txtp=1
         ;;
        # m)
        # printf "\033[3m*Termux/Windows Terminal/macOS(Bash)\n\033[0m" && windows=y && argn=$((argn+1))
