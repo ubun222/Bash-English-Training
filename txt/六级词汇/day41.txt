@@ -30,9 +30,9 @@ turbulence				揣流，动荡
 address				地址，演说，称呼
 \\\\
 
-commit oneself to and begin (an enterprise or responsibility), take on:commitselftoandbegin（一项事业或责任），承担
-promise to do a particular thing:promise做某件事
-guarantee or affirm something, give as a formal pledge:guaranteeoraffirmsomething,给予正式的承诺
+commit oneself to and begin (an enterprise or responsibility), take on:致力于并开始（一项事业或责任），承担
+promise to do a particular thing:承诺做某事
+guarantee or affirm something, give as a formal pledge:保证或肯定某事，作为正式保证给予
 catch up with and pass (another vehicle) while travelling on the inside:在里面行驶时赶上并超过（另一辆车）
 undertake |ˌʌndəˈtʊk| Verb/:承担,进行
 a firm of builders undertook the construction work:一家建筑公司承担了建筑工作
@@ -47,8 +47,8 @@ commodities such as copper and coffee:铜和咖啡等商品
 water is a precious commodity:水是珍贵的商品
 
 raise levels of physiological or nervous activity in (the body or any biological system):提高（身体或任何生物系统）的生理或神经活动水平
-encourage or arouse interest or enthusiasm in:encourageorarousinterestorenthusianessin鼓励或唤起兴趣或热情
-encourage development of or increased activity in (a state or process):encouragedevelopmentoforincreaseactivityin(一种状态或过程)
+encourage or arouse interest or enthusiasm in:鼓励或引起兴趣或热情
+encourage development of or increased activity in (a state or process):
 stimulate |ˈstɪmjʊleɪt| Verb/:,激发
 the women are given fertility drugs to stimulate their ovaries:女性服用生育药物来刺激她们的卵巢
 the reader could not fail to be stimulated by the ideas presented:读者不可能不被所提出的想法所激发
@@ -58,28 +58,28 @@ the courses stimulate a passion for learning:课程激发学习热情
 (of food, especially meat) difficult to cut or chew:（食物，尤指肉类）难以切割或咀嚼
 able to endure hardship or pain:能吃苦或吃苦
 having the confidence and determination to cope in difficult situations:有信心和决心应付困难的情况
-difficult and requiring determination or effort:difficult需要决心或努力
+difficult and requiring determination or effort:困难且需要决心或努力
 used to express sympathy with someone in a difficult situation:用于表达对处境困难的人的同情
 demonstrating a strict and uncompromising approach:展示一种严格和不妥协的方法
 used to express a lack of sympathy with someone:用于表达对某人缺乏同情
-strong and prone to violence:strong容易暴力
+strong and prone to violence:强壮且容易施暴
 (of an area) notorious for violence and crime:（某地区）因暴力和犯罪而臭名昭著
 a rough and violent man:一个粗暴的男人
 endure a period of hardship or difficulty.:忍受一段艰难时期。
 tough |tʌf| Adjective/Noun/Verb/:艰难的,暴徒,坚持,强硬,坚韧
 tough rucksacks for climbers:登山者的结实背包
 the hastily prepared steak was tough:仓促准备的牛排很硬
-she was as tough as old boots:she和旧靴子一样坚韧
-he liked editors who were tough enough to make the grade:he喜欢足够坚强的编辑
+she was as tough as old boots:她和旧靴子一样坚韧
+he liked editors who were tough enough to make the grade:他喜欢足够坚强的编辑
 we have six tough matches in a row:我们连续六场艰难的比赛
 Poor kid. It's tough on her:可怜的孩子。难为她
-police have been getting tough with drivers:police对司机越来越严厉
-I feel the way I feel, and if you don't like it, tough:IfeelthewayIfeel,andifyoudon'tlikeit,tough
+police have been getting tough with drivers:警察对司机越来越严厉
+I feel the way I feel, and if you don't like it, tough:我感觉我的感觉，如果你不喜欢，很难
 tough young teenagers:坚强的少年
 a tough part of the town:镇上艰难的地方
 a gang of toughs:一群恶棍
 
-absolutely necessary, essential:absolutelynecessary,必不可少的
+absolutely necessary, essential:绝对必要的，必要的
 indispensable to the continuance of life:生命的延续不可或缺
 full of energy, lively:充满活力，活泼
 fatal:致命的
@@ -89,7 +89,7 @@ secrecy is of vital importance:保密至关重要
 the vital organs:重要器官
 a beautiful, vital girl:一个美丽而充满活力的女孩
 the wound is vital:伤口很重要
-he felt the familiar knot contract in his vitals:he感觉到熟悉的结在他的生命体中收缩
+he felt the familiar knot contract in his vitals:他感觉到熟悉的结在他的生命体中收缩
 
 the part or joint connecting the foot with the leg:连接脚与腿的部分或关节
 the narrow part of the leg between the ankle joint and the calf:踝关节与小腿之间的小腿较窄的部分
@@ -97,15 +97,15 @@ walk:步行
 leave:离开
 flex the ankles while cycling in order to increase pedalling efficiency:骑车时弯曲脚踝，以提高蹬车效率
 ankle |ˈaŋkl| Noun/Verb/:踝,脚踝,踝关节
-Jennie fell downstairs, breaking her ankle:Jennie摔下楼，摔断了脚踝
+Jennie fell downstairs, breaking her ankle:珍妮从楼上摔下来，摔断了脚踝
 her slim ankles:她纤细的脚踝
 we can ankle off to a new locale:我们可以去一个新的地方
-he ankled the series to do a movie:he脚踝系列拍电影
+he ankled the series to do a movie:他脚踝系列拍电影
 at higher cadences, the feet tend to flap when you are attempting to ankle:在更高的节奏下，当你试图脚踝时，脚往往会拍打
 
 relating to or used in surgery:与手术有关或用于手术
 (of a special garment or appliance) worn to correct or relieve an injury, illness, or deformity:（特殊服装或器具）为矫正或减轻伤害、疾病或畸形而穿着
-done with great precision, especially with reference to a swift and highly accurate military attack from the air:donewithgreatprecision，特别是关于从空中进行的快速和高度准确的军事攻击
+done with great precision, especially with reference to a swift and highly accurate military attack from the air:非常精确地完成，特别是参考从空中进行的快速和高度准确的军事攻击
 surgical |ˈsəːdʒɪkl| Adjective/:外科,手术的,外科手术
 a surgical dressing:手术敷料
 surgical stockings:手术袜
@@ -117,11 +117,11 @@ particular, special:特别的，特别的
 belonging exclusively to:专属于
 a parish or church exempt from the jurisdiction of the diocese in which it lies, and subject to the direct jurisdiction of the monarch or an archbishop:a教区或教堂不受其所在教区的管辖，并受君主或大主教的直接管辖
 peculiar |pɪˈkjuːlɪə| Adjective/Noun/:奇特,特有,奇特的,特殊的
-he gave her some very peculiar looks:he给了她一些非常奇特的表情
+he gave her some very peculiar looks:他给了她一些非常奇特的表情
 I felt a little peculiar for a while:我有一阵子觉得有点异样
 any attempt to explicate the theme is bound to run into peculiar difficulties:任何试图阐明主题的尝试都注定会遇到特殊的困难
 some languages are peculiar to one region:有些语言是一个地区特有的
-deans and canons of royal peculiars, notably Westminster Abbey and Windsor:deansandcanonsofroyalspecifics，尤其是威斯敏斯特教堂和温莎
+deans and canons of royal peculiars, notably Westminster Abbey and Windsor:皇家特色的院长和大炮，特别是威斯敏斯特教堂和温莎
 
 gradually grow faint and disappear:渐渐淡去消失
 lose or cause to lose colour or brightness:丢失或导致失去颜色或亮度
@@ -142,17 +142,17 @@ a haircut in which the hair is left long on top of the head but cropped close to
 fade |feɪd| Noun/Verb/:褪色,掉色,淡出
 the light had faded and dusk was advancing:光线暗淡，黄昏来临
 his fair hair had faded to a dusty grey:他的金发已经褪成灰色
-she faded near the finish:she在接近终点时褪色
+she faded near the finish:她在接近终点时褪色
 the signal faded away:信号消失了
 the brakes faded, needing a firmer push to bring the car to halt:刹车失灵，需要更用力的推动才能让汽车停下来
 the ball faded toward an area left of the green:球向果岭左侧区域退去
 he had to fade the ball around a light pole:他不得不绕着灯杆让球变淡
-Lovejoy faded him for twenty-five cents:Lovejoy以二十五美分的价格让他褪色
+Lovejoy faded him for twenty-five cents:洛夫乔伊以二十五美分的价格让他褪色
 the sun can cause colour fade:太阳会导致褪色
 a fade to black would bring the sequence to a close:a淡入黑色将使序列结束
 when they get to the 18th the ideal shot is a fade:当他们打到第18洞时，理想的投篮是淡入淡出
-shortly after receiving the snap, he threw a fade to Crabtree:收到快照后不久，他向Crabtree扔了一个渐变
-a fade is extremely versatile and can be adjusted to different hair types and lengths:afade用途极为广泛，可以根据不同的头发类型和长度进行调整
+shortly after receiving the snap, he threw a fade to Crabtree:收到快照后不久，他向 Crabtree 扔了一个褪色
+a fade is extremely versatile and can be adjusted to different hair types and lengths:褪色非常通用，可以根据不同的头发类型和长度进行调整
 
 the action of pursuing someone or something:追求某人或某物的动作
 a cycling race in which competitors set off from different parts of a track and attempt to overtake one another:一种自行车比赛，参赛者从赛道的不同部分出发并试图超越彼此
@@ -163,7 +163,7 @@ the cat crouched in the grass in pursuit of a bird:猫蹲在草丛里追一只�
 a whole range of leisure pursuits:全方位的休闲活动
 
 having, revealing, or involving a great deal of worldly experience and knowledge of fashion and culture:拥有、展示或涉及大量的时尚和文化世俗经验和知识
-appealing to or frequented by people who are sophisticated:appealingtoorfrequentedbypeoplewho老练的人
+appealing to or frequented by people who are sophisticated:吸引老练的人或经常光顾的人
 (of a machine, system, or technique) developed to a high degree of complexity:（机器、系统或技术）发展到高度复杂
 (of a person or their thoughts, reactions, and understanding) aware of and able to interpret complex issues, subtle:（关于一个人或他们的想法、反应和理解）意识到并能够解释复杂的问题、微妙的
 sophisticated |səˈfɪstɪkeɪtɪd| Adjective/:复杂的,精致的
@@ -172,17 +172,17 @@ a sophisticated restaurant:高级餐厅
 highly sophisticated computer systems:高度复杂的计算机系统
 discussion and reflection are necessary for a sophisticated response to a text:讨论和反思对于对文本做出复杂的回应是必要的
 
-a person who takes part in an organized attempt to influence legislators:apersonwhotopartina有组织的尝试影响立法者
+a person who takes part in an organized attempt to influence legislators:参与有组织地试图影响立法者的人
 lobbyist |ˈlɒbɪɪst| Noun/:说客,游说者
-industry lobbyists pushed the government to undo the decision:industry游说者推动政府撤销该决定
+industry lobbyists pushed the government to undo the decision:行业游说者敦促政府撤销该决定
 
-make or become less, diminish:makeorbecomeless，减少
+make or become less, diminish:减少或减少
 lessen |ˈlɛsn| Verb/:,减轻
 
-a gun designed for use by one hand, a pistol.:agundesignedtouseforanhand,apistol。
+a gun designed for use by one hand, a pistol.:单手使用的枪，手枪。
 handgun |ˈhan(d)ɡʌn| Noun/:手枪,手提枪
 
-having great influence on someone or something:havinggreatinfluenceon某人或某事
+having great influence on someone or something:对某人或某事有重大影响
 an influential person:有影响力的人
 influential |ˌɪnflʊˈɛnʃl| Adjective/Noun/:有影响,有影响力的,有影响的
 her work is influential in feminist psychology:her的工作对女性主义心理学有影响
@@ -195,20 +195,20 @@ aloof and objective:冷漠客观
 detached |dɪˈtatʃt| Adjective/:分离的,超脱的
 a four-bedroomed detached house:四居室独立屋
 detached youth workers:超脱青年工作者
-he is a detached observer of his own actions:he是他自己行为的超然观察者
+he is a detached observer of his own actions:他是他自己行为的超然观察者
 
-disengage (something or part of something) and remove it:disengage（某物或某物的一部分）并将其移除
+disengage (something or part of something) and remove it:脱离（某物或某物的一部分）并将其移除
 be easily removable:易于拆卸
 leave or separate oneself from (a group or place):离开或离开（一个团体或地方）
 (of a group of soldiers or ships) be sent on a separate mission:（一组士兵或船只的）被派去执行一项单独的任务
 detach |dɪˈtatʃ| Verb/:分离,拆开
-he detached the front lamp from its bracket:he从支架上拆下前灯
+he detached the front lamp from its bracket:他从支架上拆下前灯
 the screen detaches from the keyboard:屏幕与键盘分离
 a figure in brown detached itself from the shadows:一个棕色的身影从阴影中脱离出来
 our crew were detached to Tabuk for the exercise:我们的机组人员被派往塔布克进行演习
 
 an account of someone's life written by someone else.:别人写的关于某人生活的记述。
-biographies considered as a literary genre:biographies被认为是一种文学体裁
+biographies considered as a literary genre:被视为文学体裁的传记
 the course of a person's life:一个人的一生
 biography |bʌɪˈɒɡrəfi| Noun/:传,传记,个人简介
 the basic difference of approach to autobiography and biography:自传方式与传记方式的基本区别
@@ -217,7 +217,7 @@ although their individual biographies are different, both are motivated by a sim
 
 the subjects comprising a course of study in a school or college:包含学校或学院学习课程的科目
 curriculum |kəˈrɪkjʊlə| Noun/:,课程设置
-course components of the school curriculum:course学校课程的组成部分
+course components of the school curriculum:学校课程的课程组成
 
 
 the edge or border of something:某物的边缘或边界
@@ -231,26 +231,26 @@ a sum deposited with a broker to cover the risk of loss on a transaction or acco
 an increment to a basic wage, paid for extra skill or responsibility.:基本工资的增加，支付额外的技能或责任。
 provide with an edge or border:提供边缘或边框
 annotate or summarize (a text) in the margins:在空白处注释或总结（文本）
-deposit an amount of money with a broker as security for (an account or transaction):depositaamountofmoneywithabrokerassecurityfor(一个账户或交易)
+deposit an amount of money with a broker as security for (an account or transaction):向经纪人存入一笔钱作为（账户或交易）的担保
 margin |ˈmɑːdʒɪn| Noun/Verb/:利润,保证金,边际
 the eastern margin of the Indian Ocean:印度洋东缘
 the notations in the margin:空白处的符号
-they won by a convincing 17-point margin:they以令人信服的17分优势获胜
+they won by a convincing 17-point margin:他们以令人信服的 17 分优势获胜
 there was no margin for error:没有犯错的余地
 the lighting is brighter than before but is still at the margins of acceptability:灯光比以前亮了，但还在可接受的范围内
 launching these new products helped increase margins and market share:推出这些新产品有助于提高利润率和市场份额
 the plant's leaves are margined with yellow:植物的叶子边缘是黄色的
-these he deals forth as the notable Matters, margined for better Notice:thesehedealsforwardsasthenotableMatters,marginedforbetter通知
+these he deals forth as the notable Matters, margined for better Notice:他将这些作为值得注意的事项进行处理，为更好的通知留出余地
 new contracts are margined with the winnings of previously held contracts:新合同的赢得了先前持有合同的奖金
 
 with a lack of fear:没有恐惧
 fearlessly |ˈfɪələsli| Adverb/:无所畏惧,无畏地
-he fearlessly challenges the accepted version of events:he无所畏惧地挑战公认的事件版本
+he fearlessly challenges the accepted version of events:他无所畏惧地挑战公认的事件版本
 
 without method or conscious decision, indiscriminately:没有方法或有意识的决定，不加选择地
 in a way that involves equal chances for each item:以一种涉及每个项目的平等机会的方式
 randomly |ˈrandəmli| Adverb/:,随意
-troops fired randomly from tanks:troops从坦克随机开火
+troops fired randomly from tanks:部队从坦克中随机开火
 each clinic surveyed 20 patients who were selected randomly:每个诊所随机抽取20名患者进行调查
 
 the unjust or prejudicial treatment of different categories of people, especially on the grounds of ethnicity, age, sex, or disability:对不同类别的人的不公正或偏见待遇，特别是基于种族、年龄、性别或残疾的理由
@@ -264,12 +264,12 @@ discrimination between right and wrong:明辨是非
 those who could afford to buy showed little taste or discrimination:那些买得起的人没有品味或歧视
 
 a thing or event that evokes a specific functional reaction in an organ or tissue:在器官或组织中引起特定功能反应的事物或事件
-a thing that arouses activity or energy in someone or something, a spur or incentive.:athingthataroussactivityorenergyinsomeoneorsomething,athingofactivityorenergyinsomeoneorsomething,athingofactivityorenergyinsomeoneorsomething,一种刺激或激励。
+a thing that arouses activity or energy in someone or something, a spur or incentive.:激发某人或某事的活力或活力的事物，刺激或激励。
 an interesting and exciting quality:有趣和令人兴奋的品质
 a set of temporary financial measures enacted by a government that is intended to encourage economic growth during a recession:政府制定的一系列临时金融措施，旨在鼓励经济衰退期间的经济增长
 stimulus |ˈstɪmjʊlʌɪ| Noun/:刺激,刺激物
 areas of the brain which respond to auditory stimuli:对听觉刺激有反应的大脑区域
-she loved the stimulus of the job:she喜欢这份工作带来的刺激
+she loved the stimulus of the job:她喜欢这份工作带来的刺激
 the stimulus was created to save 150,000 jobs:刺激计划旨在挽救150,000个工作岗位
 
 the ability to do something successfully or efficiently:成功或有效地做某事的能力
@@ -294,16 +294,16 @@ acting or done surreptitiously, unofficially, or without warning:偷偷地、非
 sneak |snʌk| Adjective/Noun/Verb/:潜行,偷偷摸摸的
 I sneaked out by the back exit:我从后门溜出去
 someone sneaked a camera inside:有人在里面偷偷带了个相机
-she sneaked a glance at her watch:she偷偷看了一眼手表
+she sneaked a glance at her watch:她偷偷看了一眼手表
 he sneaks up on us slyly:他狡猾地偷偷靠近我们
-she sneaked on us:she偷偷摸摸我们
-Ethel was the form sneak and goody-goody:Ethel是sneak和goody-goody的形式
-he was branded a prying sneak for eavesdropping on intimate conversation:he因偷听亲密谈话而被打上窥探鬼的烙印
+she sneaked on us:她偷偷摸摸我们
+Ethel was the form sneak and goody-goody:埃塞尔是形式偷偷摸摸的好东西
+he was branded a prying sneak for eavesdropping on intimate conversation:他因偷听亲密谈话而被打上窥探鬼的烙印
 a sneak thief:偷偷摸摸的小偷
 
-be greater in number or size than (a quantity, number, or other measurable thing):begreaterinnumberorsizethan(aquantity,number,orothermeasurablething)
-go beyond what is allowed or stipulated by (a set limit):gobeyondwhatisallowedorspecifiedby(一个设定的限制)
-be better than, surpass:bebetterthan,超越
+be greater in number or size than (a quantity, number, or other measurable thing):在数量或大小上大于（数量、数量或其他可测量的事物）
+go beyond what is allowed or stipulated by (a set limit):超出（设定的限制）允许或规定的范围
+be better than, surpass:优于，超越
 exceed |ɪkˈsiːd| Verb/:超过,超出,超越,超
 production costs have exceeded £60,000:生产成本已超过60,000英镑
 the Tribunal's decision clearly exceeds its powers under the statute:仲裁庭的决定显然超出了其在规约下的权力
@@ -324,10 +324,10 @@ a person's manner of speaking to someone else:一个人对别人说话的方式
 courteous or amorous approaches to someone:对某人有礼貌或多情的态度
 skill, dexterity, or readiness:技能、灵活性或准备
 write the name and address of the intended recipient on (an envelope, letter, or parcel):在（信封、信件或包裹）上写上收件人的姓名和地址
-speak to (a person or an assembly):speakto（一个人或一个集会）
+speak to (a person or an assembly):与（人或集会）交谈
 name someone (in the specified way) when talking to them:在与某人交谈时（以指定的方式）说出他们的名字
 say or write remarks or a protest to:说或写评论或抗议
-think about and begin to deal with (an issue or problem):thinkthinkthinkandbegintodealwith(anissueor问题)
+think about and begin to deal with (an issue or problem):思考并开始处理（问题或难题）
 take up one's stance and prepare to hit (the ball):摆正姿势准备击球
 address |əˈdrɛs| Noun/Verb/:地址,解决,住所
 they exchanged addresses and agreed to keep in touch:他们交换了地址并同意保持联系
@@ -335,11 +335,11 @@ our officers called at the address:我们的官员拜访了地址
 a numerical value which acts as a storage address for the data:一个数值，作为数据的存储地址
 an address to the European Parliament:向欧洲议会发表讲话
 his address was abrupt and unceremonious:his的地址是唐突和不客气的
-he persecuted her with his addresses:he用他的地址迫害她
+he persecuted her with his addresses:他用他的地址迫害她
 he rescued me with the most consummate address:他用最完美的地址救了我
 I addressed my letter to him personally:我亲自给他写信
-she addressed the open-air meeting:she在露天会议上致辞
-she addressed my father as ‘Mr Stevens’:she称呼我父亲为“史蒂文斯先生”
+she addressed the open-air meeting:她在露天会议上致辞
+she addressed my father as ‘Mr Stevens’:她称呼我父亲为“史蒂文斯先生”
 address your complaints to the Trading Standards Board:向贸易标准委员会提出您的投诉
 a fundamental problem has still to be addressed:一个根本问题仍待解决
 ensure that your weight is evenly spread when you address the ball:确保你在接球时体重均匀分布

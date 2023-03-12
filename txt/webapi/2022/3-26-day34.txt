@@ -50,9 +50,9 @@ issue an official or legal warning to:发出官方或法律警告
 caution |ˈkɔːʃ(ə)n| Noun/Verb/:警告,小心,谨慎
 anyone receiving a suspect package should exercise extreme caution:任何收到可疑包裹的人都应格外小心
 they let him off with a caution:他们小心翼翼地让他离开
-business advisers have sounded a note of caution:business顾问已发出警告
+business advisers have sounded a note of caution:商业顾问发出警告
 ‘You're a caution, you are,’ she said:“你很谨慎，你是，”她说
-advisers have cautioned against tax increases:advisers警告不要增加税收
+advisers have cautioned against tax increases:顾问警告不要增加税收
 he was cautioned for possessing drugs:他因持有毒品而被警告
 having cautioned her, the police were ready to take her away for questioning:警告过她，警察准备带她去问话
 
@@ -62,11 +62,11 @@ very enjoyable:非常愉快
 glorious |ˈɡlɔːrɪəs| Adjective/:辉煌,光荣的,辉煌的
 the most glorious victory of all time:有史以来最辉煌的胜利
 a glorious autumn day:一个灿烂的秋日
-glorious platters of succulent crabs:glorious多汁螃蟹拼盘
+glorious platters of succulent crabs:美味多汁的螃蟹拼盘
 
 having little or no sense, use, or purpose:很少或没有意义、用途或目的
 pointless |ˈpɔɪntlɪs| Adjective/:,毫无意义,无意义的
-speculating like this is a pointless exercise:speculating像这样是一个毫无意义的练习
+speculating like this is a pointless exercise:像这样猜测是毫无意义的练习
 
 sufficiently great or important to be worthy of attention, noteworthy:足够伟大或重要，值得关注，值得注意
 having a particular meaning, indicative of something:具有特殊意义，表示某事
@@ -86,8 +86,8 @@ mutual |ˈmjuːtʃʊəl| Adjective/Noun/:相互的,相互,互,互相,互相的
 a partnership based on mutual respect and understanding:基于相互尊重和理解的伙伴关系
 they cooperated as potentially mutual beneficiaries of the settlement:他们作为和解的潜在共同受益人进行合作
 we were introduced by a mutual friend:我们是由共同的朋友介绍的
-Scottish Amicable may switch from mutual to plc status:ScottishAmicable可能会从相互转换为plc状态
-life insurance firms are mutuals, owned by their policyholders:life保险公司是互惠的，由其保单持有人所有
+Scottish Amicable may switch from mutual to plc status:Scottish Amicable 可能会从互助状态转为 plc 状态
+life insurance firms are mutuals, owned by their policyholders:人寿保险公司是相互的，由保单持有人拥有
 
 mutual consent | 相互同意,双方同意
 
@@ -113,8 +113,8 @@ the passive voice.:被动语态。
 passive |ˈpasɪv| Adjective/Noun/:被动的,被动语态,被动,消极的
 the women were portrayed as passive victims:这些女性被描绘成被动的受害者
 a passive optical network is to be installed in 2000 homes:a无源光网络将在2000户家庭中安装
-passive sensors detect the emissions from enemy radar:passive传感器检测敌方雷达的辐射
-bananas can be grown at the highest altitude using passive solar heating alone:bananas可以单独使用被动太阳能加热在最高海拔生长
+passive sensors detect the emissions from enemy radar:被动传感器检测敌方雷达的发射
+bananas can be grown at the highest altitude using passive solar heating alone:仅使用被动式太阳能加热就可以在海拔最高的地方种植香蕉
 
 develop gradually:逐渐发展
 (with reference to an organism or biological feature) develop over successive generations as a result of natural selection:（关于有机体或生物学特征）由于自然选择而世代相传
@@ -126,7 +126,7 @@ a quantity of precious metals, gems, or other valuable objects:一定数量的�
 a very valuable object:一个非常有价值的物品
 a much loved or highly valued person:一个深爱或高度重视的人
 keep carefully (a valuable or valued item):小心保管（贵重物品）
-value highly:value高度
+value highly:高度重视
 treasure |ˈtrɛʒə| Noun/Verb/:宝藏,珍视,宝,珍宝
 the ransom was to be paid in diamonds and treasure:赎金将以钻石和宝藏支付
 she set out to look at the art treasures:她开始看艺术珍品
@@ -163,11 +163,11 @@ sophisticated or expensive in a way that is intended to impress:旨在给人留�
 (of a flower) of two or more colours:（花的）两种或多种颜色
 (of an animal) bred to develop particular points of appearance:（动物的）培育以发展特定的外观点
 (of a drawing, painting, or sculpture) created from the imagination rather than from life:（绘画、绘画或雕塑）从想象而不是从生活中创造出来的
-feel a desire or liking for:feel渴望或喜欢
+feel a desire or liking for:感到渴望或喜欢
 find sexually attractive:发现性吸引力
 have an unduly high opinion of oneself, or of one's ability in a particular area:对自己或在特定领域的能力有过高的评价
 regard (a horse, team, or player) as a likely winner:将（一匹马、一支球队或一名球员）视为可能的获胜者
-imagine, think:imagine，想想
+imagine, think:想像，想
 used to express surprise at something:用于对某事表示惊讶
 a superficial or transient feeling of liking or attraction:一种肤浅的或短暂的喜欢或吸引的感觉
 a person or thing that one finds attractive:觉得有吸引力的人或事物
@@ -179,7 +179,7 @@ a small iced cake:一个小冰糕
 (in 16th and 17th century music) a composition for keyboard or strings in free or variation form.:（在16和17世纪的音乐中）自由或变奏形式的键盘或弦乐作品。
 fancy |ˈfansi| Adjective/Noun/Verb/:想要,幻想,精致的,花哨的,花式
 the furniture was very fancy:家具很漂亮
-fancy hotels and restaurants:fancy酒店和餐厅
+fancy hotels and restaurants:高档酒店和餐厅
 fancy molasses:花式糖蜜
 all pelargoniums, from scented-leaf species to fancy hybrids, thrive in hot sunshine:all天竺葵，从香叶品种到花哨的杂交品种，在炎热的阳光下茁壮成长
 fancy goldfish:花式金鱼
@@ -187,14 +187,14 @@ I used to take a seat and busy myself in sketching fancy vignettes:我曾经坐�
 do you fancy a drink?:你想喝一杯吗？
 I really fancy him:我好喜欢他
 two lads behind the counter who fancy themselves:柜台后面有两个喜欢自己的小伙子
-fancy meeting all those television actors!:fancy会见所有这些电视演员！
+fancy meeting all those television actors!:真想见见所有那些电视演员！
 this was no passing fancy, but a feeling he would live by:这不是一时的幻想，而是一种他会活下去的感觉
 people jostled to ride alongside their fancy:人们争先恐后地骑着他们的幻想
-the filly is already a leading fancy for next year's races:thefily已经是明年比赛的领军人物
+the filly is already a leading fancy for next year's races:雌马已经是明年比赛的领头羊
 pony carts went round the racecourse loaded with the fancy:小马车满载着花哨的东西绕着赛马场转
 he is prone to flights of fancy:他容易幻想
 I've a fancy they want to be alone:我想他们想独处
-chocolate fancies:chocolate幻想
+chocolate fancies:巧克力幻想
 
 gather together or acquire an increasing number or quantity of:聚集或获得越来越多的
 gradually gather or acquire (a resulting whole):逐渐收集或获取（产生的整体）
@@ -232,7 +232,7 @@ fuss with | 大惊小怪,小题大做
 
 
 
-finally, in the end:finally，最后
+finally, in the end:最后，到底
 at the most basic level:在最基本的层面
 ultimately |ˈʌltɪmətli| Adverb/:最终,终究
 the largest firms may ultimately become unstoppable:最大的公司最终可能势不可挡
@@ -243,10 +243,10 @@ showmanship |ˈʃəʊmənʃɪp| Noun/:表演技巧,演艺
 Bud had a flair for showmanship and understood what the public wanted to see:Bud有表演天赋，了解公众想要看到的东西
 
 decide or announce that (a planned event) will not take place:决定或宣布（计划中的事件）不会发生
-annul or revoke (a formal arrangement which is in effect):annul或revoke（一种有效的正式安排）
+annul or revoke (a formal arrangement which is in effect):取消或撤销（有效的正式安排）
 abolish or make void (a financial obligation):废除或作废（财务义务）
 (of a factor or circumstance) neutralize or negate the force or effect of (another):（一个因素或情况的）中和或否定（另一个）的力量或效果
-delete (an equal factor) from both sides of an equation or from the numerator and denominator of a fraction:delete（等式）从等式两边或从分数的分子和分母中删除
+delete (an equal factor) from both sides of an equation or from the numerator and denominator of a fraction:从等式两边或从分数的分子和分母中删除（一个相等的因子）
 publicly boycott or withdraw support from (a person, organization, etc.) for promoting beliefs that are regarded as socially unacceptable:公开抵制或撤回对（个人、组织等）的支持，以宣扬被视为社会不可接受的信仰
 mark, pierce, or tear (a ticket or stamp) to show that it has been used or invalidated:标记、刺穿或撕毁（票或印章）以表明它已被使用或失效
 a mark made on a postage stamp to show that it has been used:邮票上的标记以表明它已被使用
@@ -257,7 +257,7 @@ his visa had been cancelled:他的签证被取消了
 I intend to cancel your debt to me:我打算取消你对我的债务
 the shipping costs cancelled out any savings:运费抵消了任何节省
 ‘Divide by 9’ cancels out ‘multiply by 9’:‘除以9’抵消‘乘以9’
-fans on social media are torn over whether to support or cancel him:fans在社交媒体上纠结到底是支持还是取消
+fans on social media are torn over whether to support or cancel him:社交媒体上的粉丝们为支持还是取消他而纠结
 cancelling stamps on registered mail:cancelling挂号邮件上的邮票
 a stamp franked and with an adhesive cancel:一张盖有盖章并用粘合剂取消的邮票
 
@@ -276,13 +276,13 @@ a member of the nobility in Britain or Ireland, comprising the ranks of duke, ma
 a person of the same age, status, or ability as another specified person:与另一个特定人具有相同年龄、地位或能力的人
 make or become equal with:使或变得等于
 peer |pɪə| Noun/Verb/:同行,对等
-Faye peered at her with suspicion:Faye怀疑地凝视着她
-the towers peer over the roofs:thetowers俯瞰屋顶
+Faye peered at her with suspicion:菲伊怀疑地看着她
+the towers peer over the roofs:塔楼俯瞰屋顶
 for yet a many of your horsemen peer:对于你的许多骑士同行
-hereditary peers could still dominate the proceedings of the House of Lords:hereditary同侪仍可主导上议院的议事程序
+hereditary peers could still dominate the proceedings of the House of Lords:世袭贵族仍然可以主导上议院的议事程序
 he has incurred much criticism from his academic peers:他招致了许多同行的批评
 
-determine (the amount or number of something) mathematically:determine（某物的数量或数量）数学上
+determine (the amount or number of something) mathematically:以数学方式确定（某物的数量或数量）
 determine by reasoning, experience, or common sense, reckon or judge:通过推理、经验或常识确定、估计或判断
 include as an essential element in one's plans.:include作为一个人计划中的一个基本要素。
 intend (an action) to have a particular effect:intend（一个动作）产生特定的效果
@@ -291,7 +291,7 @@ calculate |ˈkalkjʊleɪt| Verb/:计算,算
 the program can calculate the number of words that will fit in the space available:该程序可以计算出适合可用空间的单词数
 I was bright enough to calculate that she had been on vacation:我足够聪明，可以计算出她在度假
 his last words were calculated to wound her:他的遗言是刻意伤害她的
-I calculate it's pretty difficult to git edication down there:我认为在下面进行gitedication非常困难
+I calculate it's pretty difficult to git edication down there:我估计那里很难拿到药
 
 calculate on | 计算,计算时间
 
@@ -315,14 +315,14 @@ a person or business that sells goods to the public in relatively small quantiti
 a person who relates the details of a story or incident to others:将故事或事件的细节与他人联系起来的人
 retailer |ˈriːteɪlə| Noun/:,批发
 the big supermarkets have forced many independent retailers out of business:大超市迫使许多独立零售商倒闭
-as a writer I see myself as a retailer of Big Ideas:作为作家，我认为自己是BigIdeas的零售商
+as a writer I see myself as a retailer of Big Ideas:作为一名作家，我将自己视为大创意的零售商
 
 guidance or recommendations offered with regard to prudent future action:关于未来谨慎行动的指导或建议
 a formal notice of a financial transaction:金融交易的正式通知
 information, news:信息、新闻
 advice |ədˈvʌɪs| Noun/:建议,忠告
 my advice is to see your doctor:我的建议是去看医生
-remittance advices:remittance通知
+remittance advices:汇款通知
 the want of fresh advices from Europe:需要来自欧洲的新建议
 
 respect and warm approval:尊重和热情的认可

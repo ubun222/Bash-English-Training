@@ -50,7 +50,7 @@ her work is an often eerie mix of the banal and the profound:her的作品通常�
 extreme physical or mental suffering:极度的身体或精神痛苦
 the final stages of a difficult or painful death:艰难或痛苦的死亡的最后阶段
 agony |ˈaɡəni| Noun/:痛苦,极度痛苦
-he crashed to the ground in agony:he痛苦地倒在地上
+he crashed to the ground in agony:他痛苦地倒在地上
 his last agony:他最后的痛苦
 
 an activity involving skill in making things by hand:一项涉及手工制作事物技能的活动
@@ -59,7 +59,7 @@ skills involved in carrying out one's work:开展工作所涉及的技能
 denoting or relating to food or drink made in a traditional or non-mechanized way by an individual or a small company:表示或涉及由个人或小公司以传统或非机械化方式制作的食物或饮料
 the members of a skilled profession.:技术专业的成员。
 the brotherhood of Freemasons.:共济会兄弟会。
-skill used in deceiving others:skill用于欺骗他人
+skill used in deceiving others:欺骗他人的技巧
 a boat or ship:一条船
 an aircraft or spaceship.:飞机或宇宙飞船。
 exercise skill in making (an object), typically by hand:练习制作（物体）的技巧，通常是手工制作
@@ -68,15 +68,15 @@ the craft of cobbling:补鞋工艺
 the shop sells local crafts:商店出售当地工艺品
 the artist learned his craft in Holland:艺术家在荷兰学习手艺
 craft brewing:工艺酿造
-her cousin was not her equal in guile and evasive craft:hercousin在诡计和回避技巧方面不如她
+her cousin was not her equal in guile and evasive craft:她的堂兄在狡诈和回避技巧方面不如她
 sailing craft:帆船
-he crafted the chair lovingly:he精心制作了这把椅子
+he crafted the chair lovingly:他精心制作了这把椅子
 
 the state of being unknown, inconspicuous, or unimportant:不为人知、不起眼或不重要的状态
 the quality of being difficult to understand:难以理解的品质
 a thing that is unclear or difficult to understand:不清楚或难以理解的事物
 obscurity |əbˈskjʊərɪti| Noun/:朦胧,默默无闻,晦涩难懂
-he is too good a player to slide into obscurity:he是一名优秀的球员，不会陷入默默无闻的境地
+he is too good a player to slide into obscurity:他是一名优秀的球员，不会陷入默默无闻的境地
 poems of impenetrable obscurity:莫名其妙的诗
 the obscurities in his poems and plays:他诗歌和戏剧中的晦涩之处
 
@@ -86,7 +86,7 @@ an undertaking to answer for the payment or performance of another person's debt
 a thing serving as security for a guarantee.:担保物。
 provide a formal assurance, especially that certain conditions will be fulfilled relating to a product, service, or transaction:提供正式保证，尤其是与产品、服务或交易相关的某些条件将得到满足
 provide a guarantee for:提供担保
-provide financial security for, underwrite:providefinancialsecurityfor,underwrite为，承保
+provide financial security for, underwrite:为，承保提供财务保障
 promise with certainty:有把握地承诺
 guarantee |ˌɡarənˈtiː| Noun/Verb/:保证,担保,保障,确保
 we offer a 10-year guarantee against rusting:我们提供10年防锈保证
@@ -102,11 +102,11 @@ dolphin |ˈdɒlfɪn| Noun/:海豚,河豚
 
 the fact or condition of being severe:严重的事实或情况
 severity |sɪˈvɛrɪti| Noun/:严重程度,严重性
-sentences should reflect the severity of the crime:sentences应该反映犯罪的严重性
+sentences should reflect the severity of the crime:量刑应反映罪行的严重程度
 
 cause (someone) to lose confidence or enthusiasm:使（某人）失去信心或热情
-prevent or try to prevent (something) by showing disapproval or creating difficulties:prevent或试图通过表示反对或制造困难来阻止（某事）
-persuade (someone) against an action:persuade（某人）反对某项行动
+prevent or try to prevent (something) by showing disapproval or creating difficulties:通过表示不赞成或制造困难来阻止或试图阻止（某事）
+persuade (someone) against an action:说服（某人）反对某项行动
 discourage |dɪˈskʌrɪdʒ| Verb/:不鼓励,阻碍,劝阻,气馁
 tedious regulations could discourage investors:繁琐的监管可能会阻碍投资者
 the plan is designed to discourage the use of private cars:该计划旨在阻止使用私家车
@@ -133,10 +133,10 @@ he was involved in drugs, extortion, and robbery:他涉及毒品、勒索和抢�
 ‘Twenty-five bucks! Robbery!’:‘二十五块钱！抢劫！'
 
 not alive:没活着
-showing no sign of life, lifeless:showingnosignoflife,死气沉沉
+showing no sign of life, lifeless:没有生命迹象，死气沉沉
 inanimate |ɪnˈanɪmət| Adjective/:无生命的,没有生命的
 inanimate objects like stones:无生命物体，如石头
-he was completely inanimate and it was difficult to see if he was breathing:he完全没有生命，很难看出他是否在呼吸
+he was completely inanimate and it was difficult to see if he was breathing:他完全没有生命，很难看出他是否在呼吸
 
 a mathematical determination of the amount or number of something:某物的数量或数量的数学确定
 an assessment of the risks, possibilities, or effects of a situation or course of action:对情况或行动过程的风险、可能性或影响的评估
@@ -144,16 +144,16 @@ calculation |ˌkalkjʊˈleɪʃn| Noun/:计算,运算
 finding ways of saving money involves complicated calculations:寻找省钱的方法涉及复杂的计算
 decisions are shaped by political calculations:决策是由政治计算决定的
 
-totally bewilder or perplex:totallybewilder或perplex
-restrain or regulate (a fluid, sound, etc.):restrain或regulate（液体、声音等）
+totally bewilder or perplex:完全迷惑或困惑
+restrain or regulate (a fluid, sound, etc.):抑制或调节（液体、声音等）
 a device used to restrain the flow of a fluid, gas, etc. or to prevent the spreading of sound or light in a particular direction:用于限制流体、气体等流动或阻止声音或光向特定方向传播的装置
 baffle |ˈbafl| Noun/Verb/:挡板,隔音板
 an unexplained occurrence that baffled everyone:一件让所有人都莫名其妙的不明事件
-to baffle the noise further, I pad the gunwales:tobafflethenoisefurther,Ipadthegunwales
+to baffle the noise further, I pad the gunwales:为了进一步阻挡噪音，我垫了船舷
 you can cut out glare from a strip light by concealing it behind a baffle:你可以通过将灯带隐藏在挡板后面来消除眩光
 
-charge (someone) too high a price for goods or a service:charge（某人）商品或服务的价格过高
-charge someone (a sum) beyond the correct amount:chargesomeone(asum)超过正确的数额
+charge (someone) too high a price for goods or a service:向（某人）收取过高的商品或服务价格
+charge someone (a sum) beyond the correct amount:向某人（一笔款项）收取超出正确金额的费用
 put too much electric charge into (a battery):给（电池）注入过多的电荷
 an excessive charge for goods or a service:对商品或服务收取过高的费用
 overcharge |ˌəʊvəˈtʃɑːdʒ| Noun/Verb/:过充,多收费用
@@ -166,16 +166,16 @@ a short sleep, especially during the day:睡眠时间短，尤其是在白天
 the raised hairs or threads on the surface of fabric or suede leather, in terms of the direction in which they naturally lie:织物或绒面革表面凸起的毛发或线头，按其自然所在的方向
 a bedroll used for sleeping on in the open.:用于露天睡觉的铺盖卷。
 a card game resembling whist in which players declare the number of tricks they expect to take, up to five.:一种类似于惠斯特的纸牌游戏，玩家声明他们期望采取的墩数，最多五墩。
-a tipster's prediction of the probable winner of a race:atipster对可能的比赛获胜者的预测
-name (a horse or greyhound) as a probable winner of a race:name（一匹马或灰狗）作为比赛的可能获胜者
+a tipster's prediction of the probable winner of a race:线人对比赛可能获胜者的预测
+name (a horse or greyhound) as a probable winner of a race:名称（马或灰狗）作为比赛的可能获胜者
 (of a horse) refuse, especially habitually, to go on at the rider's instruction, jib:（马的）拒绝，特别是习惯性地，在骑手的指示下继续前行，jib
 nap |nap| Noun/Verb/:小憩,午睡,打盹
-she took to napping on the beach in the afternoons:she喜欢下午在沙滩上小睡
+she took to napping on the beach in the afternoons:她喜欢下午在沙滩上小睡
 excuse me, I'll just take a little nap:打扰一下，我先睡会儿
 carefully machine the seam, following the direction of the nap:按照绒毛的方向小心地加工接缝
-he discovered that his nap of the day had sprinted home at 10–1 at Doncaster:he发现他当天的午睡以1的成绩冲刺回家，在唐卡斯特
-Harbinger is napped to win the Novices' Hurdle:Harbinger小睡赢得新手跨栏
-horses which nap should be dealt with by professionals:horseswhichnap应该由专业人士处理
+he discovered that his nap of the day had sprinted home at 10–1 at Doncaster:他发现他当天的午睡以1的成绩冲刺回家，在唐卡斯特
+Harbinger is napped to win the Novices' Hurdle:Harbinger 小睡以赢得新手跨栏赛
+horses which nap should be dealt with by professionals:
 
 the action or process of getting rid of something:摆脱某物的动作或过程
 a device fitted to the waste pipe of a kitchen sink for grinding up food waste:一个安装在厨房水槽废水管上的装置，用于研磨食物垃圾
@@ -187,7 +187,7 @@ the disposal of radioactive waste:放射性废物的处置
 garbage disposals that never worked:从未奏效的垃圾处理
 England's 4-0 disposal of Turkey:英格兰
 the disposal of his shares in the company:处置其在公司的股份
-she brushed her hair carefully, as if her success lay in the sleek disposal of each gleaming black thread:she小心翼翼地梳着头发，仿佛她的成功在于巧妙地处理每一根闪闪发光的黑线
+she brushed her hair carefully, as if her success lay in the sleek disposal of each gleaming black thread:她小心翼翼地梳着头发，仿佛她的成功在于巧妙地处理每一根闪闪发光的黑线
 
 authorities | 当局,权威机构
 
@@ -213,7 +213,7 @@ a slight degree of difference between colours.:颜色之间有轻微的差异。
 a slightly differing variety of something:a稍微不同的东西
 a slight amount of something:少量的东西
 a lampshade:一个灯罩
-a screen or blind on a window:ascreen或blindonawindow
+a screen or blind on a window:窗户上的屏幕或百叶窗
 an eyeshade.:眼罩。
 sunglasses:太阳镜
 a ghost:一个幽灵
@@ -227,7 +227,7 @@ politicians of all shades of opinion:各种不同意见的政客
 the goal had more than a shade of good fortune about it:这个目标不仅仅是运气好
 a small lamp with a crimson shade:一盏深红色灯罩的小灯
 draw the shades, chill the wine:画上阴影，把酒冷却
-he wore shades and a leather jacket:he戴着墨镜和皮夹克
+he wore shades and a leather jacket:他戴着墨镜和皮夹克
 the ghost is the shade of Lucy Walters, first mistress of Charles II:幽灵是查理二世的第一任情妇露西沃尔特斯的影子
 
 a stone set up beside a road to mark the distance in miles to a particular place.:在路边设置的一块石头，以英里为单位标记到特定地点的距离。
@@ -236,21 +236,21 @@ milestone |ˈmʌɪlstəʊn| Noun/:里程碑,里程
 the speech is being hailed as a milestone in race relations:演讲被誉为种族关系的里程碑
 
 likely to give way, not stable:可能让路，不稳定
-likely to change or fail, not firmly established:likelytochangeorfail,未牢固建立
+likely to change or fail, not firmly established:可能会改变或失败，没有牢固建立
 prone to psychiatric problems or sudden changes of mood:容易出现精神问题或情绪突然变化
 unstable |ʌnˈsteɪbl| Adjective/:不稳定,不稳定的
 the unstable cliff tops:不稳定的悬崖顶
 some students found themselves in unstable housing situations:一些学生发现自己的住房状况不稳定
 he was mentally unstable:他精神不稳定
 
-force (a part of one's body or oneself) to make an unusually great effort:force（身体或自己的一部分）做出异常巨大的努力
+force (a part of one's body or oneself) to make an unusually great effort:使（身体或自己的一部分）付出异常巨大的努力
 make an unusually great effort:做出异常巨大的努力
-injure (a limb, muscle, or organ) by overexerting it:injure(alimb,muscle,ororgan)过度用力
+injure (a limb, muscle, or organ) by overexerting it:用力过度使（肢体、肌肉或器官）受伤
 make severe or excessive demands on:对
 pull or push forcibly at something:用力拉或推某物
 stretch (something) tightly:紧紧地拉伸（某物）
 embrace (someone) tightly:紧紧拥抱（某人）
-pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter:pour（主要是液体物质）通过多孔或穿孔的设备或材料以分离出任何固体物质
+pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter:通过多孔或穿孔的设备或材料倒入（主要是液体的物质）以分离出任何固体物质
 cause liquid to drain off (food which has been boiled, soaked, or canned) by using a porous or perforated device:使用多孔或穿孔的装置排出液体（煮沸、浸泡或罐装的食物）
 drain (liquid) off food by using a porous or perforated device:使用多孔或穿孔装置将食物中的（液体）沥干
 a force tending to pull or stretch something to an extreme or damaging degree:a倾向于将某物拉或拉伸到极端或破坏程度的力
@@ -259,7 +259,7 @@ the magnitude of a deformation, equal to the change in the dimension of a deform
 a severe or excessive demand on the strength, resources, or abilities of someone or something:a对某人或某事的力量、资源或能力的严重或过分的要求
 a state of tension or exhaustion resulting from severe demands on one's strength or resources:由于对一个人的力量或资源的严重需求而导致的紧张或疲惫状态
 the sound of a piece of music:一段音乐的声音
-a particular breed, stock, or variety of an animal or plant.:aparticularbreed,stock,orvarietyofananimalorplant.
+a particular breed, stock, or variety of an animal or plant.:动物或植物的特定品种、种群或品种。
 a natural or cultured variety of a microorganism with a distinct form, biochemistry, or virulence.:具有独特形式、生物化学或毒力的天然或培养的微生物品种。
 a variety of something abstract:各种抽象的东西
 a particular tendency as part of a person's character:作为一个人性格的一部分的特定倾向
@@ -268,13 +268,13 @@ I stopped and listened, straining my ears for any sound:我停下来倾听，竖
 his voice was so quiet that I had to strain to hear it:他的声音太小了，我不得不费力才能听到
 on cold days you are more likely to strain a muscle:在寒冷的日子里，你更容易拉伤肌肉
 he strained her tolerance to the limit:他把她的忍耐逼到了极限
-the bear strained at the chain around its neck:thebear扭断了脖子上的链条
+the bear strained at the chain around its neck:熊拉紧了脖子上的链子
 the barbed wire fence was strained to posts six feet high:铁丝网被拉紧到六英尺高
-she strained the infant to her bosom again:she再次把婴儿抱在怀里
+she strained the infant to her bosom again:她再次把婴儿抱在怀里
 strain the custard into a bowl:将蛋羹滤入碗中
-she turned to the sink to strain the noodles:she转向水槽过滤面条
+she turned to the sink to strain the noodles:她转向水槽过滤面条
 the usual type of chair puts an enormous strain on the spine:普通类型的椅子对脊柱造成巨大压力
-he has a slight groin strain:he有轻微的腹股沟拉伤
+he has a slight groin strain:他有轻微的腹股沟拉伤
 the accusations put a strain on relations between the two countries:这些指控使两国关系紧张
 the telltale signs of nervous strain:神经紧张的迹象
 the distant strains of the brass band grew louder:远处铜管乐队的乐声越来越响
@@ -285,7 +285,7 @@ relating to a town or district or its governing body:关于城镇或地区或其
 municipal |mjʊˈnɪsɪpl| Adjective/:市政的,市级
 national and municipal elections:全国和市政选举
 
-in a way that relates to ideas or an ideology, especially of a political or economic nature:inawaythatrelatestoideasorideology,尤其是政治或经济性质的
+in a way that relates to ideas or an ideology, especially of a political or economic nature:
 ideologically |ˌʌɪdɪəˈlɒdʒɪkli| Adverb/:意识形态上,思想上的
 ideologically driven economic policies:意识形态驱动的经济政策
 
@@ -293,19 +293,19 @@ having an excessive desire or appetite for food:对食物有过度的欲望或�
 having or showing an intense and selfish desire for wealth or power:对财富或权力有或表现出强烈和自私的欲望
 greedy |ˈɡriːdi| Adjective/:贪婪的,贪婪,贪心
 he's scoffed the lot, the greedy pig:他嘲笑了很多，贪婪的猪
-people driven from their land by greedy developers:people被贪婪的开发商赶出他们的土地
+people driven from their land by greedy developers:人们被贪婪的开发商赶出自己的土地
 
 
-strong and healthy, vigorous:strongandhealthy,充满活力
+strong and healthy, vigorous:强壮健康，充满活力
 (of an object) sturdy in construction:（物体的）结构坚固
 (of a system, organization, etc.) able to withstand or overcome adverse conditions:（系统、组织等）能够承受或克服不利条件
 uncompromising and forceful:不妥协和有力
 (of wine or food) strong and rich in flavour or smell:（酒或食物的）强烈而浓郁的味道或气味
 robust |rə(ʊ)ˈbʌst| Adjective/:强大的,强壮的,健壮的,坚固的
-the Caplan family are a robust lot:Caplan家族非常强大
+the Caplan family are a robust lot:卡普兰家族是一个强大的群体
 a robust metal cabinet:坚固的金属柜
 the country's political system has continued to be robust in spite of its economic problems:尽管存在经济问题，但该国的政治制度依然稳健
-he took quite a robust view of my case:he对我的案子持相当坚定的看法
+he took quite a robust view of my case:他对我的案子持相当坚定的看法
 a robust mixture of fish, onions, capers and tomatoes:鱼、洋葱、刺山柑和西红柿的浓烈混合物
 
 identify the nature of (an illness or other problem) by examination of the symptoms:通过检查症状来确定（疾病或其他问题）的性质
@@ -315,21 +315,21 @@ two doctors failed to diagnose a punctured lung:两名医生未能诊断出肺�
 she was finally diagnosed as having epilepsy:她最终被诊断出患有癫痫症
 
 clearly stated or decided, not vague or doubtful:明确陈述或决定，不含糊或可疑
-clearly true or real, unambiguous:clearlytrueorreal,unambiguous
+clearly true or real, unambiguous:清楚地真实或真实的，明确的
 (of a person) certain or sure about something:（一个人的）确定或确定某事
-clear or undeniable (used for emphasis):clearorundeniable（用于强调）
+clear or undeniable (used for emphasis):清楚的或不可否认的（用于强调）
 having exact and discernible physical limits or form:具有准确且可辨别的物理限制或形式
 definite |ˈdɛf(ɪ)nɪt| Adjective/:定,确定,确定的,明确的
 we had no definite plans:我们没有明确的计划
 no definite proof has emerged:没有确凿的证据出现
 you're very definite about that!:你对此非常肯定！
 under the circumstances, air conditioning is a definite asset:在这种情况下，空调是一项确定的资产
-organizations have boundaries in the sense that they may occupy a definite geographical area:organizations有边界，因为它们可能占据一定的地理区域
+organizations have boundaries in the sense that they may occupy a definite geographical area:组织有边界，因为它们可能占据一定的地理区域
 
 slow to reveal emotion or opinions:缓慢流露情绪或意见
 kept specially for a particular person:专门为特定的人保留
 reserved |rɪˈzəːvd| Adjective/:预订的,保留,预留的
-he is a reserved, almost taciturn man:heisareserved,almost沉默寡言的人
+he is a reserved, almost taciturn man:他是一个沉默寡言的人
 a reserved seat:一个预留座位
 
 a gentle feeling of fondness or liking:一种温柔的喜爱或喜欢的感觉
@@ -337,5 +337,5 @@ the action or process of affecting or being affected.:影响或被影响的动�
 a condition or disease:一种状况或疾病
 a mental state, an emotion.:一种精神状态，一种情绪。
 affection |əˈfɛkʃn| Noun/:感情,亲情,情意
-she felt affection for the wise old lady:she对这位睿智的老太太产生了感情
+she felt affection for the wise old lady:她对这位睿智的老太太产生了感情
 an affection of the skin:肌肤之情

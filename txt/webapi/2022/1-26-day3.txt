@@ -51,11 +51,11 @@ a continuous line of copper or other conductive material on a printed circuit bo
 the transverse distance between a vehicle's wheels:车轮之间的横向距离
 a group in which schoolchildren of the same age and ability are taught.:同龄同能力学童的小组。
 follow the trail or movements of (someone or something), typically in order to find them or note their course:跟踪（某人或某物）的踪迹或动作，通常是为了找到他们或注意他们的路线
-note the progress or course of:note进度或过程
+note the progress or course of:注意进度或过程
 follow a particular course:遵循特定的课程
 (of a stylus) follow (a groove in a record):（手写笔）跟随（唱片中的凹槽）
 (of a film or television camera) move in relation to the subject being filmed:（电影或电视摄影机的）相对于被拍摄对象移动
-(of wheels) run so that the back ones are exactly in the track of the front ones.:(of轮子)运行，使后面的那些正好在前面的轨道上。
+(of wheels) run so that the back ones are exactly in the track of the front ones.:（轮子）运行，使后轮正好在前轮的轨道上。
 (of a tunable circuit or component) vary in frequency in the same way as another circuit or component, so that the frequency difference between them remains constant.:（可调谐电路或组件）的频率变化方式与另一个电路或组件相同，因此它们之间的频率差保持不变。
 tow (a canoe) along a waterway from the bank:tow（独木舟）沿岸边的水路
 track |trak| Noun/Verb/:追踪,小径,跟踪,轨道,履带
@@ -65,12 +65,12 @@ the four running disciplines of track, road, country, and fell:田径、公路�
 he followed the tracks made by the cars in the snow:他在雪地里跟随汽车留下的轨迹
 I didn't want them on my track:我不想让他们在我的轨道上
 in terms of social arrangements, you are not too far off the track:在社交安排上，你离正轨也不算太远
-commuters had to leave trains to walk along the tracks:commuters不得不离开火车沿着铁轨行走
-the CD contains early Elvis Presley tracks:theCD包含早期的猫王曲目
+commuters had to leave trains to walk along the tracks:通勤者不得不离开火车沿着铁轨行走
+the CD contains early Elvis Presley tracks:CD 包含早期猫王曲目
 extremely thin tracks are not able to withstand much heat when soldering:极细的走线在焊接时无法承受太多热量
 the undercarriage was fully retractable inwards into the wing, with a 90 inch track:起落架完全可向内收进机翼，带有90英寸的履带
-secondary radars that track the aircraft in flight:secondary雷达跟踪飞行中的飞机
-City have been tracking the striker since the summer:City从夏天开始就一直在追踪这名前锋
+secondary radars that track the aircraft in flight:跟踪飞行中飞机的二次雷达
+City have been tracking the striker since the summer:自夏天以来，曼城一直在追踪这名前锋
 the storm was tracking across the ground at 30 mph:the风暴正以30英里/小时的速度穿过地面
 the pickup's stylus must faithfully track undulations:拾音器的触控笔必须忠实地跟踪起伏
 the camera eventually tracked away:相机最终被追踪
@@ -124,7 +124,7 @@ sophisticated |səˈfɪstɪkeɪtɪd| Adjective/:复杂的,精巧
 a chic, sophisticated woman:一个别致、成熟的女人
 a sophisticated restaurant:一家精致的餐厅
 highly sophisticated computer systems:高度复杂的计算机系统
-discussion and reflection are necessary for a sophisticated response to a text:discussion和reflection对于对文本的复杂响应是必要的
+discussion and reflection are necessary for a sophisticated response to a text:讨论和反思对于对文本做出复杂的回应是必要的
 
 having a resemblance in appearance, character, or quantity, without being identical:在外观、性格或数量上相似，但不完全相同
 (of geometrical figures) having the same shape, with the same angles and proportions, though of different sizes.:（几何图形）具有相同的形状，具有相同的角度和比例，但大小不同。
@@ -138,7 +138,7 @@ the principle of treatment by similars:类同对待原则
 make a marked change in the form, nature, or appearance of:在形式、性质或外观上做出显着改变
 undergo a marked change:经历显着变化
 change the voltage of (an electric current).:改变（电流）的电压。
-change (a mathematical entity) by transformation.:change（一个数学实体）通过变换。
+change (a mathematical entity) by transformation.:通过变换改变（一个数学实体）。
 the product of a transformation.:转型的产物。
 a rule for making a transformation.:进行转换的规则。
 transform |trɑːnsˈfɔːm| Noun/Verb/:转变,变形,转换,变换
@@ -162,9 +162,9 @@ a period of heavy or sustained drinking:一段重度或持续饮酒的时期
 the governing body of a Presbyterian Church.:长老会的管理机构。
 session |ˈsɛʃən| Noun/:会议,会话
 the governor called this week's special session to reconsider the decision:州长召集本周的特别会议重新考虑该决定
-legislation to curb wildcat strikes will be introduced during the coming parliamentary session:legislation以遏制野猫罢工将在即将到来的议会会议期间推出
+legislation to curb wildcat strikes will be introduced during the coming parliamentary session:即将举行的议会会议期间将引入遏制自发罢工的立法
 gym is followed by a training session:gym之后是培训课程
-he did the sessions for a Great Country Hits album:he为GreatCountryHits专辑制作了课程
+he did the sessions for a Great Country Hits album:他为一张 Great Country Hits 专辑做了录音
 it was one hell of a session— we must have drunk about 12 cocktails each:这是一场地狱般的会议——我们每个人一定喝了大约12杯鸡尾酒
 
 knowledge or perception of a situation or fact:对情况或事实的知识或感知
@@ -175,8 +175,8 @@ a growing environmental awareness:日益增长的环保意识
 
 make (someone) feel very tired:使（某人）感到很累
 use up (resources or reserves) completely:用完（资源或储备）完全
-expound on or explore (a subject or options) so fully that there is nothing further to be said or discovered:expoundonorexplore(一个主题或选项)如此充分以至于没有什么可说或发现的
-expel (gas or steam) from or into a particular place:exel（气体或蒸汽）从或进入特定的地方
+expound on or explore (a subject or options) so fully that there is nothing further to be said or discovered:如此充分地阐述或探索（一个主题或选项），以至于没有什么可以进一步说或发现的
+expel (gas or steam) from or into a particular place:从特定地方排出（气体或蒸汽）或排出到特定地方
 waste gases or air expelled from an engine, turbine, or other machine in the course of its operation:发动机、涡轮机或其他机器在运行过程中排出的废气或空气
 the system through which exhaust gases are expelled:排出废气的系统
 exhaust |ɪɡˈzɔːst| Noun/Verb/:排气,用尽,耗尽,排出,尾气
@@ -186,13 +186,13 @@ she seemed to have exhausted all permissible topics of conversation:她似乎已
 you should never exhaust bathroom air into your attic:你不应该将浴室的空气排放到你的阁楼里
 buses spewing out black clouds of exhaust:公共汽车喷出黑色的废气云
 
-support (an organization or activity) financially:support（一个组织或活动）在经济上
+support (an organization or activity) financially:经济上支持（组织或活动）
 pay part of the cost of producing (something) to keep the selling price low:支付部分生产（某物）的成本以保持低价
 subsidize |ˈsʌbsɪdʌɪz| Verb/:,补助,补贴
 the mining industry continues to be subsidized:采矿业继续得到补贴
 the government subsidizes basic goods including sugar, petroleum, and wheat:政府补贴基本商品，包括糖、石油和小麦
 
-a grocer's shop or business:agrocer'sshoporbusiness
+a grocer's shop or business:杂货店或企业
 items of food sold in a grocery or supermarket:在杂货店或超市出售的食品
 grocery |ˈɡrəʊs(ə)ri| Noun/:杂货店
 I went to the grocery to buy some fruit:我去杂货店买了些水果
@@ -212,7 +212,7 @@ intelligence |ɪnˈtɛlɪdʒ(ə)ns| Noun/:智力,情报
 an eminent man of great intelligence:一个聪明的人
 extraterrestrial intelligences:外星智能
 the chief of military intelligence:军事情报局局长
-British intelligence has secured numerous local informers:BritishIntelligence已获得众多当地线人
+British intelligence has secured numerous local informers:英国情报部门已锁定众多当地线人
 the gathering of intelligence:收集情报消息。
 
 very small:非常小
@@ -226,7 +226,7 @@ express one's respect and gratitude towards (a deity), especially in song:表达
 the expression of approval or admiration for someone or something:对某人或某事表示赞同或钦佩
 the expression of respect and gratitude as an act of worship:表达尊重和感激是一种敬拜的行为
 praise |preɪz| Noun/Verb/:称赞,赞美,表扬
-we can't praise Chris enough—he did a brilliant job:我们对Chris的表扬不够——他做得非常出色
+we can't praise Chris enough—he did a brilliant job:我们怎么称赞克里斯都不为过——他做得非常出色
 we praise God for past blessings:我们为过去的祝福赞美上帝
 the audience was full of praise for the whole production:观众对整部作品赞不绝口
 give praise to God:赞美上帝
@@ -271,38 +271,38 @@ an increased incidence of cancer:癌症发病率增加
 the entire incidence falls on the workers:整个事件都落在了工人身上
 the point of incidence of the beam:光束的入射点
 
-score or mark the surface of (something) with a sharp or pointed object:score或用尖锐或尖锐的物体标记（某物）的表面
+score or mark the surface of (something) with a sharp or pointed object:用锋利或尖锐的物体在（某物）的表面划痕或做记号
 make a long, narrow superficial wound in the skin of:在皮肤上做一个长而窄的浅表伤口
 rub (a part of one's body) with one's fingernails to relieve itching:用指甲擦（身体的一部分）止痒
 make (a mark or hole) by scoring a surface with a sharp or pointed object:用尖锐或尖锐的物体在表面上刻划（标记或孔）
-write (something) hurriedly or awkwardly.:write（某事）匆忙或笨拙。
+write (something) hurriedly or awkwardly.:匆忙或笨拙地写（某事）。
 remove (something) from something else by pulling a sharp implement over it:通过将锋利的工具拉过它来从其他东西中移除（某物）
 make a rasping or grating noise by scraping something over a hard surface:通过在坚硬的表面上刮东西来发出刺耳或刺耳的声音
 (of a bird or mammal, especially a chicken) rake the ground with the beak or claws in search of food:（鸟类或哺乳动物，尤其是鸡）用喙或爪子耙地寻找食物
-search for (someone or something that is hard to locate or find):searchfor（难以定位或找到的某人或某物）
-accomplish (something) with great effort or difficulty:accomplish（某事）付出巨大的努力或困难
+search for (someone or something that is hard to locate or find):搜索（难以定位或找到的人或物）
+accomplish (something) with great effort or difficulty:以极大的努力或困难完成（某事）
 make a living with difficulty:艰难度日
 cancel or strike out (writing) with a pen or pencil:取消或用钢笔或铅笔划掉（书写）
-withdraw (a competitor) from a competition:withdraw（竞争对手）退出比赛
+withdraw (a competitor) from a competition:从比赛中退出（竞争对手）
 (of a competitor) withdraw from a competition:（参赛者）退出比赛
 cancel or abandon (an undertaking or project):取消或放弃（一项事业或项目）
 play a record using the scratch technique.:使用从头技术播放唱片。
 scratch |skratʃ| Adjective/Noun/Verb/:挠,仓促拼凑的,刮,划痕,从头开始
 the car's paintwork was battered and scratched:汽车的漆面被打伤和刮伤
 her arms were scratched by the thorns:她的手臂被荆棘划伤
-Jessica lifted her sunglasses and scratched her nose:Jessica拿起墨镜挠了挠鼻子
+Jessica lifted her sunglasses and scratched her nose:杰西卡摘下墨镜，挠了挠鼻子
 I found two names scratched on one of the windowpanes:我在其中一个窗玻璃上发现了两个名字
 he scratched away the plaster:他刮掉了石膏
 the dog scratched to be let in:那只被抓了的狗被放了进去
 the hens cannot do anything that comes naturally to them, such as scratch around:母鸡不能做任何对他们来说自然而然的事情，比如四处乱抓
 he's still scratching around for a woman to share his life:他还在四处寻找一个女人来分享他的生活
 Tabitha wondered how long the woman had been scratching a living on the waterways:Tabitha想知道这个女人在水道上谋生多久了
-many architects now scratch along doing loft conversions:many建筑师现在开始着手进行阁楼转换
+many architects now scratch along doing loft conversions:许多建筑师现在都在做阁楼改造
 the name of Dr McNab was scratched out and that of Dr Dunstaple substituted:麦克纳布博士的名字被删除，邓斯特普尔博士的名字被替换
-Jolie's Halo was scratched from a minor stakes race at Monmouth Park:Jolie'sHalo在蒙茅斯公园的一场小赌注比赛中被刮掉
+Jolie's Halo was scratched from a minor stakes race at Monmouth Park:朱莉的光环在蒙茅斯公园的一场小赌注比赛中被划伤
 due to a knee injury she was forced to scratch from the race:由于膝盖受伤，她被迫退出比赛
-banks seem prepared to scratch stabilization charges:banks似乎准备收取稳定费
-he raps and scratches simultaneously to dazzling effect:herap和scratch同时达到炫目的效果
+banks seem prepared to scratch stabilization charges:银行似乎准备取消稳定费用
+he raps and scratches simultaneously to dazzling effect:他同时说唱和刮擦以达到令人眼花缭乱的效果
 
 causing or likely to cause harm:造成或可能造成伤害
 harmful |ˈhɑːmf(ʊ)l| Adjective/:有害,有害的
@@ -344,7 +344,7 @@ full of energy; lively:精力充沛；活泼
 fatal:致命
 the body's important internal organs:人体重要的五脏六腑
 vital |ˈvʌɪtl| Adjective/Noun/:重要,必不可少的,至关重要的
-secrecy is of vital importance:secrecy至关重要
+secrecy is of vital importance:保密至关重要
 the vital organs:重要器官
 a beautiful, vital girl:一个美丽，充满活力的女孩
 the wound is vital:伤口很重要

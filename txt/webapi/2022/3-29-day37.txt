@@ -41,14 +41,14 @@ give or register a vote:给予或登记投票
 cause (someone) to gain or lose a particular post or honour by means of a vote:使（某人）通过投票获得或失去特定职位或荣誉
 used to express a wish to follow a particular course of action:用于表示希望遵循特定的行动方针
 (of a legislature) grant or confer by vote:（立法机关的）通过投票授予或授予
-reject something by means of a vote:reject通过投票的方式
+reject something by means of a vote:通过投票拒绝某事
 vote |vəʊt| Noun/Verb/:投票,表决,选票
 they are ready to put it to a vote:他们准备投票
 the nationalist vote in Northern Ireland:北爱尔兰的民族主义投票
 they voted against the resolution:他们投票反对该决议
 incompetent judges are voted out of office:incompetent法官被投票下台
 I vote we have one more game:我投票我们还有一场比赛
-Parliament has voted the money for the proposed expenditure:Parliament已为拟议支出投票
+Parliament has voted the money for the proposed expenditure:议会已投票决定这笔钱用于拟议的支出
 the referendum call was voted down:公投被否决
 
 lasting forever or a very long time:永久或很长一段时间
@@ -69,7 +69,7 @@ there was a skyscraper under construction:那里有一座摩天大楼正在建�
 50,000 more jobs will go from construction:50,000个工作岗位将来自建筑业
 the mill is of brick construction:工厂是砖砌的
 the central waterway was a spectacular construction:中央水道是一个壮观的建筑
-language plays a large part in our construction of reality:language在我们构建现实的过程中扮演着重要角色
+language plays a large part in our construction of reality:语言在我们构建现实中起着重要作用
 you could put an honest construction upon their conduct:你可以诚实地解释他们的行为
 sentence construction:句子结构
 
@@ -91,7 +91,7 @@ make or become liquefied by heat:加热或液化
 dissolve in liquid:溶解在液体中
 (of a person) suffer extreme heat.:（一个人的）遭受酷热。
 make or become more tender or loving:使或变得更温柔或爱
-leave or disappear unobtrusively:leave或不显眼地消失
+leave or disappear unobtrusively:悄悄离开或消失
 change or merge imperceptibly into (another form or state):更改或合并到（另一种形式或状态）
 an act or period of melting:融化的行为或时期
 metal or other material in a melted condition.:金属或其他处于熔化状态的材料。
@@ -105,11 +105,11 @@ the precipitation falls as snow and is released during the spring melt:降水以
 a tuna melt:a金枪鱼融化
 
 discover or identify the presence or existence of:发现或识别存在或存在
-discern (something intangible or barely perceptible):discern（无形的或难以察觉的东西）
-discover or investigate (a crime or its perpetrators):discover或调查（犯罪或其肇事者）
+discern (something intangible or barely perceptible):辨别（无形或几乎无法察觉的事物）
+discover or investigate (a crime or its perpetrators):发现或调查（犯罪或其肇事者）
 detect |dɪˈtɛkt| Verb/:探测,检测,检测到
-cancer may soon be detected in its earliest stages:cancer可能很快就会在其最早阶段被发现
-Paul detected a faint note of weariness in his father's voice:Paul从他父亲的声音中察觉到一丝疲倦
+cancer may soon be detected in its earliest stages:癌症可能很快就会在最早阶段被发现
+Paul detected a faint note of weariness in his father's voice:保罗从他父亲的声音中察觉到一丝疲倦
 the public can help the police to detect crime:公众可以帮助警方侦破犯罪
 
 cause (someone) to lose confidence or enthusiasm:导致（某人）失去信心或热情
@@ -135,8 +135,8 @@ a magnificent combination of drama, dance, and music:戏剧、舞蹈和音乐的
 these four factors work together in combination:这四个因素共同作用
 the canvases may be arranged in any number of combinations:这些画布可以以任意数量的组合排列
 a good uppercut/hook combination:一个很好的勾拳/勾拳组合
-combination remedies contain painkiller, decongestant, and cough soother:combination补救措施包含止痛药、减充血剂和咳嗽安抚奶嘴
-underneath the picture is a safe: the combination is 210319:图片下方是保险箱-
+combination remedies contain painkiller, decongestant, and cough soother:组合疗法包含止痛药、减充血剂和止咳药
+underneath the picture is a safe:图片下方是保险箱
 woollen combinations:毛线组合
 
 combination lock | 密码锁,组合锁
@@ -150,7 +150,7 @@ used as an allusive term for death:用作死亡的暗喻
 a place where a broken or discarded object lies:一个破损或丢弃的物体所在的地方
 giving cause for alarm, serious:引起恐慌，严重
 serious or solemn in manner or appearance:态度或外表严肃或庄重
-engrave (an inscription or image) on a surface:engrave（铭文或图像）在表面上
+engrave (an inscription or image) on a surface:在表面上雕刻（铭文或图像）
 fix (something) indelibly in the mind:fix（某事）在脑海中不可磨灭
 clean (a ship's bottom) by burning off the accretions and then tarring it:通过烧掉堆积物然后涂上焦油来清洁（船底）
 (as a direction) slowly, with solemnity:（作为方向）慢慢地，庄重地
@@ -161,7 +161,7 @@ life beyond the grave:坟墓之外的生活
 they lifted the aircraft from its watery grave:他们把飞机从它的水坟里抬起来
 a matter of grave concern:一个严重关切的问题
 his face was grave:他的脸很严肃
-marble graved with exquisite flower, human and animal forms:marble雕刻精美的花卉、人形和动物造型
+marble graved with exquisite flower, human and animal forms:大理石刻有精美的花卉、人物和动物造型
 the times are graven on my memory:时代铭刻在我的记忆中
 they graved the ship there and remained 26 days:他们在那里凿了船，并在那里停留了26天
 the piece begins with four bars which are to be played grave and forte:这首曲子以四小节开始
@@ -177,31 +177,31 @@ make smaller or less in amount, degree, or size:使数量、程度或大小变�
 become smaller or less in size, amount, or degree:在大小、数量或程度上变得更小或更小
 boil (a sauce or other liquid) in cooking so that it becomes thicker and more concentrated:boil（酱汁或其他液体）在烹饪中使其变得更稠和更浓缩
 (of a person) lose weight, typically by dieting:（一个人）减肥，通常是通过节食
-make (a negative or print) less dense.:make（负片或印刷品）密度较低。
-articulate (a speech sound) in a way requiring less muscular effort, giving rise in vowels to a more central articulatory position.:articulate（语音）以一种需要较少肌肉力量的方式，使元音上升到更中心的发音位置。
+make (a negative or print) less dense.:降低（负片或印刷品）的密度。
+articulate (a speech sound) in a way requiring less muscular effort, giving rise in vowels to a more central articulatory position.:以需要较少肌肉力量的方式发音（语音），使元音上升到更中心的发音位置。
 bring someone or something to (a worse or less desirable state or condition):将某人或某事带到（更坏或更不理想的状态或条件）
 be forced by difficult circumstances into doing something desperate:被困难的环境逼迫去做一些不顾一切的事情
 make someone helpless with (shock, anguish, or amusement):使某人无助（震惊、痛苦或娱乐）
-force someone into (obedience or submission):force某人进入（服从或服从）
+force someone into (obedience or submission):强迫某人（服从或服从）
 change a substance to (a different or more basic form):将物质更改为（不同或更基本的形式）
 present a problem or subject in (a simplified form):提出问题或主题（简化形式）
 convert a fraction to (the form with the lowest terms).:将分数转换为（最低项的形式）。
 cause to combine chemically with hydrogen:导致与氢化学结合
 undergo or cause to undergo a reaction in which electrons are gained from another substance or molecule:经历或引起从另一种物质或分子中获得电子的反应
-restore (a dislocated part of the body) to its proper position by manipulation or surgery:restore（身体脱臼的部分）通过操作或手术恢复到正确位置
-besiege and capture (a town or fortress).:besiege并占领（城镇或堡垒）。
+restore (a dislocated part of the body) to its proper position by manipulation or surgery:通过手法或手术将（身体脱臼的部分）恢复到正确的位置
+besiege and capture (a town or fortress).:围攻和占领（城镇或要塞）。
 reduce |rɪˈdjuːs| Verb/:减少,降低
 the need for businesses to reduce costs:企业需要降低成本
 the number of priority homeless cases has reduced slightly:优先无家可归者人数略有减少
 increase the heat and reduce the liquid:增热减液
-by May she had reduced to 9 stone:byMay她已经减少到9石
-she has been reduced to near poverty:she已接近贫困
+by May she had reduced to 9 stone:到 5 月，她的体重减至 9 英石
+she has been reduced to near poverty:她已接近贫困
 ordinary soldiers are reduced to begging:普通士兵沦为乞讨
-Olga was reduced to stunned silence:Olga陷入震惊的沉默
+Olga was reduced to stunned silence:奥尔加惊得目瞪口呆
 he reduced his grandees to due obedience:他将他的大人物降级为应有的服从
 it is difficult to understand how lava could have been reduced to dust:很难理解熔岩是如何化为尘埃的
-he reduces unimaginable statistics to manageable proportions:he将难以想象的统计数据减少到可管理的比例
-hydrogen for reducing the carbon dioxide:hydrogen还原二氧化碳
+he reduces unimaginable statistics to manageable proportions:他将难以想象的统计数据减少到可管理的比例
+hydrogen for reducing the carbon dioxide:减少二氧化碳的氢气
 Joe's reducing a dislocated thumb:Joe正在减少脱臼的拇指
 
 separately or individually and in the order already mentioned (used when enumerating two or more items or facts that refer back to a previous statement):单独或单独并按已经提到的顺序（在列举两个或多个项目或引用前一个语句的事实时使用）
@@ -235,10 +235,10 @@ provide with background:提供背景
 background |ˈbakɡraʊnd| Noun/Verb/:背景
 the house stands against a background of sheltering trees:房子以遮蔽的树木为背景
 after that evening, she remained in the background:那天晚上之后，她一直在后台
-programs can be left running in the background:programs可以在后台运行
+programs can be left running in the background:程序可以在后台运行
 the political and economic background:政治经济背景
 she has a background in nursing:她有护理背景
-windswept land backgrounded by the Rockies:windswept以落基山脉为背景的土地
+windswept land backgrounded by the Rockies:以落基山脉为背景的被风吹拂的土地
 the embassy backgrounded American reporters:大使馆背景的美国记者
 
 a mark or character used as a conventional representation of an object, function, or process, e.g. the letter or letters standing for a chemical element or a character in musical notation:用作对象、功能或过程的常规表示的标记或字符，例如代表化学元素或乐谱中的字符的字母或字母
@@ -263,7 +263,7 @@ an improvement in product quality:产品质量的提高
 a masterpiece for connoisseurs of quality:质量鉴赏家的杰作
 commanding the admiration of people of quality:令人钦佩的品质
 he's dazed at being called on to speak before quality:他对被要求在质量之前发言感到茫然
-he shows strong leadership qualities:he表现出很强的领导才能
+he shows strong leadership qualities:他表现出很强的领导才能
 he's a quality player:他是一名优秀的球员
 
 a loss of power, prosperity, or status:权力、繁荣或地位的丧失
@@ -292,15 +292,15 @@ a number of atoms bonded together to form a closed loop in a molecule:多个原�
 a set of elements with two binary operations, addition and multiplication, the second being distributive over the first and associative.:一组元素有两个二元运算，加法和乘法，第二个分配在第一个和关联上。
 surround (someone or something), especially for protection or containment:surround（某人或某物），尤指保护或遏制
 form a line round the edge of (something circular):在（圆形的东西）的边缘形成一条线
-draw a circle round (something), especially to focus attention on it:drawacircleround(something),尤其是把注意力集中在它上面
+draw a circle round (something), especially to focus attention on it:画一个圆圈（某物），尤指将注意力集中在它上面
 put an aluminium strip round the leg of (a bird) for subsequent identification:在（一只鸟）的腿上放一条铝条，以便随后识别
 put a circular band through the nose of (a bull, pig, or other farm animal) to lead or otherwise control it:在（公牛、猪或其他农场动物）的鼻子上放一条圆形带子，以引导或以其他方式控制它
-fraudulently change the identity of (a motor vehicle), typically by changing its registration plate:fraudulently更改（机动车辆）的身份，通常通过更改其车牌
+fraudulently change the identity of (a motor vehicle), typically by changing its registration plate:欺诈性地更改（机动车）的身份，通常是通过更改其车牌
 make a clear resonant or vibrating sound:发出清晰的共鸣或振动的声音
 cause (a bell or alarm) to ring:导致（铃声或警报）响起
 (of a telephone) produce a series of resonant or vibrating sounds to signal an incoming call:（电话的）产生一系列共振或振动的声音来表示来电
 call for service or attention by sounding a bell:通过敲钟寻求服务或关注
-sound (the hour, a peal, etc.) on a bell or bells:sound（小时、钟声等）在一个或多个钟声上
+sound (the hour, a peal, etc.) on a bell or bells:铃铛上的声音（小时、钟声等）
 call by telephone:电话
 (of a person's ears) be filled with a continuous buzzing or humming sound, especially as the after-effect of a blow or loud noise:（人的耳朵）充满连续的嗡嗡声或嗡嗡声，尤其是作为打击或巨响的后遗症
 convey a specified impression or quality:传达指定的印象或质量
@@ -323,12 +323,12 @@ through traffic is diverted along the outer ring:直通车流沿外环分流
 a ring ditch:环沟
 a circus ring:马戏团
 a boxing ring:a拳击台
-Fogerty quit the ring to play professional rugby league:Fogerty退出擂台参加职业橄榄球联赛
+Fogerty quit the ring to play professional rugby league:福格蒂退出拳击场打职业橄榄球联赛
 the police had been investigating the drug ring:警方一直在调查贩毒集团
 a benzene ring:a苯环
 the courthouse was ringed with police:法院被警察包围
-dark shadows ringed his eyes:dark阴影环绕着他的眼睛
-an area of Soho had been ringed in red:Soho的一个区域被圈成了红色
+dark shadows ringed his eyes:黑暗的阴影笼罩着他的眼睛
+an area of Soho had been ringed in red:Soho 的一个区域被圈成红色
 only a small proportion of warblers are caught and ringed:只有一小部分莺被捕获和圈养
 in the mid 1850s there were fines for not ringing swine:在1850年代中期，不敲响猪会被罚款
 there may be an organization which has ringed the stolen car to be resold:可能有组织将偷来的汽车圈起来转售
@@ -362,7 +362,7 @@ a small hotel or boarding house in France and other European countries.:法国�
 pension |ˈpɛnʃn| Noun/Verb/:养老金,退休金,抚恤金
 men can draw a pension from the age of sixty-five:men可以从六十五岁开始领取养老金
 he was pensioned off from the army after the war:他在战后从军队退休
-garden sheds were raided to bring out machines long since pensioned off:garden棚子被突袭，以取出早已退休的机器
+garden sheds were raided to bring out machines long since pensioned off:花园的棚屋被抬高，用来生产早已退休的机器
 
 the ability to see, hear, or become aware of something through the senses:通过感官看到、听到或意识到某事的能力
 awareness of something through the senses:通过感官感知事物
@@ -372,7 +372,7 @@ intuitive understanding and insight:直观的理解和洞察力
 perception |pəˈsɛpʃn| Noun/:洞察力,知觉,感知
 the normal limits to human perception:人类感知的正常极限
 the perception of pain:对疼痛的感知
-Hollywood's perception of the tastes of the American public:Hollywood对美国大众口味的认知
+Hollywood's perception of the tastes of the American public:好莱坞对美国公众品味的看法
 ‘He wouldn't have accepted,’ said my mother with unusual perception:“他不会接受的，”我妈妈用不同寻常的感觉说
 
 a place, amenity, or piece of equipment provided for a particular purpose:为特定目的而提供的场所、设施或设备
@@ -425,7 +425,7 @@ involve |ɪnˈvɒlv| Verb/:涉及,包括
 my job involves a lot of travelling:我的工作涉及很多旅行
 an opportunity to involve as many people as possible in all aspects of music-making:一个让尽可能多的人参与到音乐制作各个方面的机会
 her husband had been very involved in his work:她的丈夫非常投入他的工作
-Angela told me she was involved with someone else:Angela告诉我她和其他人有牵连
+Angela told me she was involved with someone else:安吉拉告诉我她和别人有染
 
 make an effort to achieve or complete (something difficult):努力实现或完成（困难的事情）
 try to climb to the top of (a mountain):试着爬到（一座山）的顶部
@@ -439,7 +439,7 @@ she attempted a comeback in 2001:她试图在2001年卷土重来
 the expedition was the first to attempt Everest:探险队是第一个尝试珠穆朗玛峰的人
 he would not have attempted the life of a friend:他不会尝试朋友的生活
 an attempt on the unclimbed north-east ridge:未攀登的东北山脊上的尝试
-Karakozov made an attempt on the Tsar's life:Karakozov企图刺杀沙皇
+Karakozov made an attempt on the Tsar's life:卡拉科佐夫企图刺杀沙皇
 she picked her first attempt at a letter out of the wastebasket:她第一次尝试从废纸篓中取出一封信
 
 based on or in accordance with what is generally done or believed:基于或根据通常所做或相信的事情
@@ -452,7 +452,7 @@ a conventional morality had dictated behaviour:一个传统的道德已经决定
 you're a bit too well-brought-up, a bit too conventional:你有点太有教养了，有点太传统了
 conventional love poetry:传统情诗
 agreement on reducing conventional forces in Europe:关于减少欧洲常规力量的协议
-West made a conventional bid showing a hand with at least 5 spades:West进行常规叫牌，显示一手至少有5张黑桃
+West made a conventional bid showing a hand with at least 5 spades:韦斯特进行了常规叫牌，亮出至少有 5 张黑桃的牌
 
 having many details or facts, showing attention to detail:有很多细节或事实，表现出对细节的关注
 (of a work of art) executed with many minor decorative features:（一件艺术品）带有许多小装饰特征

@@ -39,8 +39,8 @@ land with a specified characteristic:具有特定特征的土地
 (especially in the US, Canada, or Australia) an organized division of a country that is not yet admitted to the full rights of a state.:（特别是在美国、加拿大或澳大利亚）一个国家的有组织的分裂，尚未被承认为一个国家的全部权利。
 an area of knowledge, activity, or experience:知识、活动或经验的领域
 territory |ˈtɛrɪt(ə)ri| Noun/:领土,领地,疆域
-both countries accused the other of encroaching on their territory:bothcountries指责对方侵犯他们的领土
-male blackbirds try to attract as many females to their territory as possible:maleblackbirds试图吸引尽可能多的女性到他们的领地
+both countries accused the other of encroaching on their territory:两国都指责对方侵犯其领土
+male blackbirds try to attract as many females to their territory as possible:雄性黑鸟试图吸引尽可能多的雌性黑鸟进入它们的领地
 don't go committing murders on my territory:不要在我的地盘上杀人
 woodland territory:林地领地
 the contentious territory of clinical standards:临床标准的争议领域
@@ -59,23 +59,23 @@ exempt (someone) from a liability or obligation to which others are subject:免�
 privilege |ˈprɪv(ɪ)lɪdʒ| Noun/Verb/:特权,给予特权,优惠
 education is a right, not a privilege:教育是一种权利，而不是特权
 I had the privilege of giving the Sir George Brown memorial lecture:我有幸给乔治·布朗爵士做纪念演讲
-he called on MPs not to abuse their privilege:he呼吁国会议员不要滥用他们的特权
+he called on MPs not to abuse their privilege:他呼吁国会议员不要滥用他们的特权
 English inheritance law privileged the eldest son:英国继承法赋予长子特权
-barristers are privileged from arrest going to, coming from, and abiding in court:barristers享有免于逮捕前往、来自和留在法庭的特权
+barristers are privileged from arrest going to, coming from, and abiding in court:大律师在前往、来自和留在法庭上时享有免于逮捕的特权
 
 about to happen or appear:即将发生或出现
-ready or made available when wanted or needed:ready或在需要时可用
+ready or made available when wanted or needed:在需要或需要时准备好或可用
 willing to divulge information:愿意透露信息
 forthcoming |ˌfɔːθˈkʌmɪŋ| Adjective/:即将到来,即将来临
 the forthcoming cricket season:即将到来的板球赛季
-financial support was not forthcoming:financial支持没有到位
-she had never been forthcoming about her time in the States:she从来没有坦白过她在美国的经历
+financial support was not forthcoming:没有提供财政支持
+she had never been forthcoming about her time in the States:她从来没有坦白过她在美国的经历
 
 make or become wider:使或变得更宽
 widen |ˈwʌɪdn| Verb/:扩大,加宽
 
 the action of deducting or subtracting something:扣除或减去某物的动作
-an amount that is or may be deducted from something, especially from taxable income or tax to be paid:aamountthatisormaybedeductedfromsomething,especiallyfromtaxableincomeortaxestopaid
+an amount that is or may be deducted from something, especially from taxable income or tax to be paid:从某物中扣除或可能从某物中扣除的数额，尤指从应税收入或应缴税款中扣除的金额
 the inference of particular instances by reference to a general law or principle:参照一般规律或原则推论特定事例
 deduction |dɪˈdʌkʃn| Noun/:扣除,演绎
 the dividend will be paid without deduction of tax:股息将不扣除税款支付
@@ -99,7 +99,7 @@ an act of talking with excessive pride and self-satisfaction:一种过度自豪�
 (in squash) a stroke in which the ball is made to hit one of the side walls before hitting the front wall.:（在壁球比赛中）使球在击中前壁之前击中其中一个侧壁的击球。
 boast |bəʊst| Noun/Verb/:夸,大话,吹嘘,夸口
 the hotel boasts high standards of comfort:酒店拥有高标准的舒适度
-I said I would win and it wasn't an idle boast:IsaidIwouldwinandit'snotanidle吹嘘
+I said I would win and it wasn't an idle boast:我说我会赢，这不是空话
 
 relating to money or currency:关于金钱或货币
 monetary |ˈmʌnɪt(ə)ri| Adjective/:货币,金融,货币的,金钱
@@ -108,8 +108,8 @@ documents with little or no monetary value:货币价值很小或没有货币价�
 (of a light, colour, or illuminated object) not shining brightly or clearly:（光、颜色或被照亮的物体）不明亮或不清晰地发光
 (of an object or shape) made difficult to see by darkness, shade, or distance:（物体或形状）因黑暗、阴影或距离而难以看清
 (of a room or other space) made difficult to see in by darkness:（房间或其他空间）因黑暗而难以看清
-(of the eyes) unable to see clearly:(oftheeyes)看不清楚
-(of a sound) indistinct or muffled:(ofasound)模糊的或低沉的
+(of the eyes) unable to see clearly:（眼睛）看不清楚
+(of a sound) indistinct or muffled:（声音的）模糊的或低沉的
 not clearly recalled or formulated in the mind:头脑中没有清楚地回忆或形成
 (of a situation) not giving cause for hope or optimism:（某种情况）没有给出希望或乐观的理由
 stupid or slow to understand:愚蠢或理解缓慢
@@ -130,7 +130,7 @@ you're just incredibly dim:你简直昏昏欲睡
 done or chosen in accordance with wisdom or prudence, likely to be of benefit:根据智慧或审慎完成或选择，可能有益
 (of a person) possessing or displaying prudence:（某人）拥有或表现出审慎
 (of an object) practical and functional rather than decorative:（物体的）实用的和功能性的而不是装饰性的
-readily perceived, appreciable:readilyperceived,appreciable
+readily perceived, appreciable:容易察觉的，可观的
 able to notice or appreciate, not unaware of:能够注意到或欣赏，并非没有意识到
 sensible |ˈsɛnsɪbl| Adjective/:明智的,通情达理
 I cannot believe that it is sensible to spend so much:我不敢相信花这么多钱是明智的
@@ -156,12 +156,12 @@ we hope to set a legal precedent to protect hundreds of miles of green lanes:我
 a precedent case:先例
 
 make (something) active or operative:使（某物）活跃或运作
-convert (a substance, molecule, etc.) into a reactive form:convert(asubstance,molecule,etc.)成反应形式
+convert (a substance, molecule, etc.) into a reactive form:将（物质、分子等）转化为反应形式
 activate |ˈaktɪveɪt| Verb/:启用,激活,启动
 fumes from cooking are enough to activate the alarm:烹饪产生的烟雾足以启动警报
-a DNA-repair enzyme that is activated by visible light:a由可见光激活的DNA修复酶
+a DNA-repair enzyme that is activated by visible light:一种由可见光激活的 DNA 修复酶
 
-achieve or complete successfully:achieve或成功完成
+achieve or complete successfully:成功地达到或完成
 fill in (a form):填写（表格）
 accomplish |əˈkʌmplɪʃ| Verb/:完成,实现
 the planes accomplished their mission:飞机完成了他们的使命
@@ -180,18 +180,18 @@ prove, show:证明，证明
 approve |əˈpruːv| Verb/:批准,同意
 the budget was approved by parliament:预算由议会批准
 I don't approve of romance:我不赞成谈恋爱
-he approved himself ripe for military command:he认为自己适合军事指挥
+he approved himself ripe for military command:他认为自己适合军事指挥
 
 a person who tends to see the worst aspect of things or believe that the worst will happen:倾向于看到事物最坏的方面或相信最坏的情况会发生的人
 a person who believes that this world is as bad as it could be or that evil will ultimately prevail over good:一个相信这个世界尽可能糟糕或者邪恶最终会战胜善良的人
 pessimist |ˈpɛsɪmɪst| Noun/:悲观主义者,悲观的
 the pessimists point to ways in which life has deteriorated:悲观主义者指出生活恶化的方式
-he finds solace in the writings of pessimist philosophers:he在悲观主义哲学家的著作中找到慰藉
+he finds solace in the writings of pessimist philosophers:他在悲观主义哲学家的著作中找到慰藉
 
 ready or likely to attack or confront, characterized by or resulting from aggression:准备好或可能攻击或对抗，以攻击为特征或由攻击引起
 behaving or done in a determined and forceful way:以坚定而有力的方式表现或完成
 aggressive |əˈɡrɛsɪv| Adjective/:挑衅的,好斗的,咄咄逼人的
-he's very uncooperative and aggressive:he非常不合作和咄咄逼人
+he's very uncooperative and aggressive:他非常不合作和咄咄逼人
 we needed more growth to pursue our aggressive acquisition strategy:我们需要更多的增长来实施我们积极的收购战略
 
 poisonous:有毒
@@ -208,7 +208,7 @@ toxic debts:有毒债务
 the financial system has become clogged with toxic assets:金融系统已被有毒资产堵塞
 
 an authoritative decision or pronouncement, especially one made by a judge:权威的决定或声明，尤指由法官作出的
-currently exercising authority or influence:currently行使权力或影响
+currently exercising authority or influence:目前行使权力或影响力
 ruling |ˈruːlɪŋ| Adjective/Noun/:裁决,统治,裁定,执政
 the ruling was reversed in the appeal court:裁决在上诉法院被推翻
 the ruling coalition:执政联盟
@@ -227,7 +227,7 @@ electromotive force.:电动势。
 mental or emotional strain:精神或情绪紧张
 a strained political or social state or relationship:紧张的政治或社会状态或关系
 a relationship between ideas or qualities with conflicting demands or implications:具有相互冲突的要求或含义的想法或品质之间的关系
-apply a force to (something) which tends to stretch it:applyaforceto(something)这往往会拉伸它
+apply a force to (something) which tends to stretch it:对（某物）施加一个力，它会拉伸它
 tension |ˈtɛnʃn| Noun/Verb/:紧张,拉紧,张力
 the parachute keeps the cable under tension as it drops:降落伞在下降时使电缆保持张力
 the elimination of neck tension can relieve headaches:消除颈部紧张可缓解头痛
@@ -237,17 +237,17 @@ the coup followed months of tension between the military and the government:政�
 the basic tension between freedom and control:自由与控制之间的基本张力
 it is best to insert the battens before the outhaul is tensioned:最好在外拉张紧前插入板条
 
-a person who concentrates primarily on a particular subject or activity, a person highly skilled in a specific and restricted field:apersonwhoprimarilyconcentratedonaparticularsubjectoractivity,personhighskilledinaspecificandrestrictedfield
+a person who concentrates primarily on a particular subject or activity, a person highly skilled in a specific and restricted field:主要专注于特定主题或活动的人
 a person highly trained in a particular branch of medicine:在特定医学领域受过良好训练的人
 possessing or involving detailed knowledge or study of a restricted topic:拥有或涉及对受限主题的详细知识或研究
 concentrating on a restricted field, market, or area of activity:专注于受限制的领域、市场或活动领域
 specialist |ˈspɛʃəlɪst| Adjective/Noun/:专家,专科医生
-he is a specialist in psychometric testing:he是心理测试专家
+he is a specialist in psychometric testing:他是心理测试专家
 her doctor thought her allergy was psychosomatic, but he sent her to a specialist:her的医生认为她的过敏是心身性的，但他把她送到了专科医生处
 you may require specialist financial advice:you可能需要专业的财务建议
 a specialist electrical shop:专业电器店
 
-unexpectedly be faced with or experience (something hostile or difficult):unexpectedly面对或经历（敌意或困难的事情）
+unexpectedly be faced with or experience (something hostile or difficult):意外地面对或经历（敌对或困难的事情）
 meet (someone) unexpectedly:意外遇见（某人）
 an unexpected or casual meeting with someone or something:与某人或某事的意外或偶然会面
 a confrontation or unpleasant struggle:一次对抗或不愉快的斗争
@@ -255,22 +255,22 @@ a violent incident in which a suspected criminal is killed by a member of the po
 encounter |ɪnˈkaʊntə| Noun/Verb/:,邂逅,遭遇,相遇
 we have encountered one small problem:我们遇到了一个小问题
 what do we know about the people we encounter in our daily lives?:我们对日常生活中遇到的人了解多少？
-she felt totally unnerved by the encounter:she对这次遭遇感到非常不安
+she felt totally unnerved by the encounter:她对这次遭遇感到非常不安
 his close encounter with death:他与死亡的亲密接触
-he was shot dead in a police encounter:he在一次警察遭遇战中被枪杀
+he was shot dead in a police encounter:他在一次警察遭遇战中被枪杀
 
-cut or gather (a crop or harvest):cutorgather（作物或收获）
+cut or gather (a crop or harvest):切割或收集（作物或收获）
 harvest the crop from (a piece of land):从（一块土地）收获庄稼
-receive (something, especially something beneficial) as a consequence of one's own or another's actions:receive（某物，尤指有益的东西）作为自己或他人行为的结果
+receive (something, especially something beneficial) as a consequence of one's own or another's actions:由于自己或他人的行为而得到（某物，尤指有益的东西）
 reap |riːp| Verb/:收获,收割
 many men were employed to reap the harvest:许多人被雇来收割庄稼
-farmers agreed to continue reaping the land by traditional means:farmers同意继续以传统方式收割土地
+farmers agreed to continue reaping the land by traditional means:农民同意继续以传统方式收割土地
 the company is poised to reap the benefits of this investment:公司准备从这项投资中获益
 
 an organization having a particular purpose, especially one that is involved with science, education, or a specific profession:具有特定目的的组织，尤其是涉及科学、教育或特定专业的组织
 a commentary, treatise, or summary of principles, especially concerning law:a评论、论文或原则摘要，尤其是关于法律的
-introduce or establish (a scheme, undertaking, or policy):introduce或建立（计划、承诺或政策）
-begin (legal proceedings) in a court:begin（法律程序）在法庭上
+introduce or establish (a scheme, undertaking, or policy):引入或建立（计划、事业或政策）
+begin (legal proceedings) in a court:在法庭上开始（法律程序）
 appoint (someone) to a position, especially as a cleric:任命（某人）到某个职位，尤其是作为牧师
 institute |ˈɪnstɪtjuːt| Noun/Verb/:研究所,学院
 the Institute of Architects:建筑师协会
@@ -302,7 +302,7 @@ legend |ˈlɛdʒ(ə)nd| Adjective/Noun/:,传说,说明,图例,传说中的
 the legend of King Arthur:亚瑟王的传说
 the mosaics illustrate the Legends of the Saints:马赛克说明了圣徒的传说
 the man was a living legend:这个人是一个活生生的传奇
-a picture of a tiger with the legend ‘Go ahead make my day’:一张老虎的照片，上面写着“Goaheadmakemyday”的传说
+a picture of a tiger with the legend ‘Go ahead make my day’:
 see legend to Fig. 1:参见图1的图例
 his speed and ferocity in attack were legend:his的速度和进攻的凶猛是传奇
 

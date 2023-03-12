@@ -45,7 +45,7 @@ a stretch of the line popular with would-be suicides:一段很受自杀者欢迎
 it would be political suicide to restrict criteria for unemployment benefit:限制失业救济金的标准无异于政治自杀
 a suicide blast caused more deaths:a自杀性爆炸导致更多人死亡
 we shot free throws and if we missed we ran suicides:we罚球，如果我们错过了，我们就会自杀
-she suicided in a very ugly manner:she以非常丑陋的方式自杀
+she suicided in a very ugly manner:她以非常丑陋的方式自杀
 
 not having or showing the necessary skills to do something successfully:没有或没有表现出成功做某事的必要技能
 not qualified to act in a particular capacity:没有资格以特定身份行事
@@ -57,11 +57,11 @@ the patient is deemed legally incompetent:患者在法律上被视为无行为�
 the tanker captain was a known incompetent:油轮船长是出了名的无能
 
 very great in amount, scale, or intensity:数量、规模或强度非常大
-extremely good or impressive, excellent:extremelygoodorimpressive,优秀
-inspiring awe or dread.:inspiring敬畏或恐惧。
+extremely good or impressive, excellent:非常好或令人印象深刻，优秀
+inspiring awe or dread.:激发敬畏或恐惧。
 tremendous |trɪˈmɛndəs| Adjective/:巨大的,巨大,惊人的
-Penny put in a tremendous amount of time:Penny投入了大量时间
-the crew did a tremendous job:thecrew做得很棒
+Penny put in a tremendous amount of time:
+the crew did a tremendous job:船员们做得很好
 
 able to be recycled:可回收
 a substance or object that can be recycled:可以回收的物质或物体
@@ -78,7 +78,7 @@ the DNA was visualized by staining with ethidium bromide:DNA通过溴化乙锭�
 physical or mental effort:体力或脑力劳动
 the application of a force, influence, or quality:施加力量、影响或品质
 exertion |ɪɡˈzəːʃn| Noun/:用力,发挥,努力,劳累
-she was panting with the exertion:she气喘吁吁
+she was panting with the exertion:她气喘吁吁
 the exertion of authority:权力的行使
 
 not taut or held tightly in position, loose:未拉紧或未紧紧固定，松散
@@ -91,23 +91,23 @@ having many sexual encounters or relationships (typically used of a woman).:有�
 the part of a rope or line which is not held taut, the loose or unused part:绳索或绳索未拉紧的部分，松散或未使用的部分
 a spell of inactivity or laziness:一段时间不活动或懒惰
 casual trousers:休闲裤
-loosen (something, especially a rope):loosen（某物，尤其是绳子）
+loosen (something, especially a rope):松开（某物，尤指绳索）
 decrease or reduce in intensity, quantity, or speed:减少或降低强度、数量或速度
 work slowly or lazily:工作缓慢或懒惰
-slake (lime):slake（石灰）
+slake (lime):松弛（石灰）
 coal dust or small pieces of coal:煤粉或小块煤
 slack |slak| Adjective/Noun/Verb/:松弛,懈怠
 a slack rope:一根松弛的绳子
-business was rather slack:business相当松懈
-they were working at a slack pace:they工作节奏缓慢
-slack accounting procedures:slack会计程序
-the veteran king of slack chat:slackchat老牌王
+business was rather slack:生意比较淡
+they were working at a slack pace:他们工作节奏缓慢
+slack accounting procedures:松散的会计程序
+the veteran king of slack chat:资深聊天之王
 soon the water will become slack, and the tide will turn:很快水就会变缓，潮水就会转向
 I picked up the rod and wound in the slack:我拿起鱼竿，在松弛的地方缠绕
-he slept deeply, refreshed by a little slack in the daily routine:he睡得很沉，在日常生活中有点懈怠，精神焕发
-he put on a grey shirt and loose cotton slacks:he穿上灰色衬衫和宽松的棉质休闲裤
-slacking the outhaul allows you to adjust the sail:slackingtheouthaul允许你调整风帆
-she ticked off her girls if they were slacking:she挑剔她的女孩，如果他们偷懒
+he slept deeply, refreshed by a little slack in the daily routine:他睡得很沉，在日常生活中有点懈怠，精神焕发
+he put on a grey shirt and loose cotton slacks:他穿上灰色衬衫和宽松的棉质休闲裤
+slacking the outhaul allows you to adjust the sail:松开外索可以让你调整帆
+she ticked off her girls if they were slacking:她挑剔她的女孩，如果他们偷懒
 150 sacks of lime were slacked by the inrushing water:150袋石灰因涌水而松弛
 the fire was stoked with a mixture of slack and cement:火是用松木和水泥的混合物点燃的
 
@@ -124,7 +124,7 @@ not adaptable in outlook, belief, or response:在观点、信念或反应上不�
 a lorry which is not articulated.:没有铰接的卡车。
 rigid |ˈrɪdʒɪd| Adjective/Noun/:死板的,刚硬的,刚性
 a seat of rigid orange plastic:一个刚性橙色塑料座
-Beatrice was rigid with terror:Beatrice因恐惧而僵硬
+Beatrice was rigid with terror:比阿特丽斯吓得全身僵硬
 rigid bureaucratic controls:严格的官僚控制
 the College had not wanted to be too rigid in imposing teaching methods:学院不想过于死板地强加教学方法
 
@@ -144,7 +144,7 @@ the organic unity of the integral work of art:整体艺术作品的有机统一
 the organic growth of community projects:社区项目的有机增长
 
 the action or process of copying something:复制某物的动作或过程
-a copy of a work of art, especially a print or photograph of a painting:acopyofaworkofaart作品，尤其是一幅画的印刷品或照片
+a copy of a work of art, especially a print or photograph of a painting:艺术作品的复制品，尤指绘画的印刷品或照片
 made to imitate the style of an earlier period or of a particular craftsman:模仿早期风格或特定工匠的风格
 the quality of reproduced sound:再现声音的质量
 the production of offspring by a sexual or asexual process:通过有性或无性过程产生后代
@@ -153,7 +153,7 @@ the cost of colour reproduction in publication is high:出版物色彩复制成�
 a reproduction of Monet's ‘Wild Poppies’:莫奈《野罂粟》的复制品
 reproduction French classical beds:复刻法式古典床
 the design was changed to allow louder reproduction:更改设计以允许更大声的再现
-toads converge upon lakes and ponds intent on reproduction:toads聚集在湖泊和池塘上，意图繁殖
+toads converge upon lakes and ponds intent on reproduction:蟾蜍聚集在湖泊和池塘上，意图繁殖
 
 a strip of leather, cloth, or other flexible material, used to fasten, secure, or carry something or to hold on to something:一条皮革、布料或其他柔性材料，用于固定、固定或携带某物或抓住某物
 a strip of metal, often hinged, used to fasten or secure something.:一条金属条，通常铰接，用于固定或固定某物。
@@ -166,7 +166,7 @@ her bra strap:她的文胸带
 when Fred was naughty he'd give him the strap:当弗雷德调皮的时候，他会给他带子
 I had to strap the bag to my bicycle:我不得不把包绑在自行车上
 the goalkeeper's knee was strapped up:守门员的膝盖被绑起来了
-I expected when my dad walked in that he'd strap him:Iexpectedwhenmydadwalksinthathe'llstraphim
+I expected when my dad walked in that he'd strap him:我以为当我爸爸走进来时他会绑住他
 
 the quality, condition, or fact of being exact and accurate:精确和准确的品质、条件或事实
 marked by or adapted for accuracy and exactness:标记为或适用于准确性和准确性
@@ -176,7 +176,7 @@ the deal was planned and executed with military precision:这笔交易的计划�
 a precision instrument:精密仪器
 a technique which examines and identifies each character with the highest level of precision:一种以最高精度检查和识别每个字符的技术
 
-cause (something) to conform to a standard:cause(something)符合标准
+cause (something) to conform to a standard:使（某物）符合标准
 adopt (something) as one's standard:采用（某物）作为标准
 determine the properties of (something) by comparison with a standard.:通过与标准比较来确定（某物）的特性。
 standardize |ˈstandədʌɪz| Verb/:标准化,规范
@@ -196,9 +196,9 @@ the action of promoting someone or something to a higher position or rank or the
 the action of promoting a catalyst.:促进催化剂的作用。
 promotion |prəˈməʊʃn| Noun/:晋升,促销,推广
 the promotion of cultural and racial diversity:促进文化和种族多样性
-the paper is reaping the rewards of a series of promotions:thepaper正在收获一系列促销活动的回报
+the paper is reaping the rewards of a series of promotions:该报正在收获一系列促销活动的回报
 a boxing promotion:a拳击推广
-majors designated for promotion to lieutenant colonel:majors指定晋升为中校
+majors designated for promotion to lieutenant colonel:指定晋升为中校的专业
 
 paralyze | ,麻痹
 
@@ -217,8 +217,8 @@ a repeated line or number of lines in a poem or song, typically at the end of ea
 the musical accompaniment for a refrain:副歌的伴奏
 a comment or complaint that is often repeated:经常重复的评论或抱怨
 refrain |rɪˈfreɪn| Noun/Verb/:避免,副歌,克制
-she refrained from comment:she拒绝发表评论
-he would play the refrain:he会演奏副歌
+she refrained from comment:她拒绝发表评论
+he would play the refrain:他会演奏副歌
 ‘Poor Tom’ had become the constant refrain of his friends:“可怜的汤姆”已经成为他朋友们的口头禅
 
 flavor | 味道,味,风味
@@ -235,50 +235,50 @@ engage in daring or risky activity:从事大胆或冒险的活动
 put (one's money or life) at risk:put（一个人的金钱或生命）处于危险之中
 adventure |ədˈvɛn(t)ʃə| Noun/Verb/:冒险,奇遇
 her recent adventures in Italy:她最近在意大利的冒险经历
-she travelled the world in search of adventure:she环游世界寻找冒险
+she travelled the world in search of adventure:她环游世界寻找冒险
 in any military adventure, the first casualty is truth:在任何军事冒险中，第一个伤亡者就是真相
 I sold my East India adventure of £250 principal for £750:我以750英镑的价格卖掉了250英镑本金的东印度冒险之旅
 they had adventured into the forest:他们冒险进入了森林
-he adventured £300 in the purchase of land:he冒险花费300英镑购买土地
+he adventured £300 in the purchase of land:他冒险花费300英镑购买土地
 
 undergo great mental anguish through worrying about something:因担心某事而遭受巨大的精神痛苦
-cause mental anguish to:cause精神痛苦到
+cause mental anguish to:造成精神痛苦
 agonize |ˈaɡənʌɪz| Verb/:烦恼,苦恼,痛苦
 I didn't agonize over the problem:我没有为这个问题苦恼
 a question which will agonize the technocrats:一个让技术官僚苦恼的问题
 
 climb up (stairs, a hill, or other rising surface):爬上（楼梯、小山或其他上升表面）
-climb or move up on to (a raised surface):climb或向上移动到（凸起的表面）
-get up on (an animal or bicycle) in order to ride it:getupon(ananimalorbicycle)为了骑它
-set (someone) on horseback, provide with a horse:set(someone)onhorseback,提供一匹马
+climb or move up on to (a raised surface):爬上或向上移动到（凸起的表面）
+get up on (an animal or bicycle) in order to ride it:骑上（动物或自行车）以便骑它
+set (someone) on horseback, provide with a horse:设置（某人）在马背上，提供一匹马
 (of a male mammal or bird) assume a position on top of (a female) in order to copulate:（雄性哺乳动物或鸟类）为了交配而占据（雌性）之上的位置
-organize and initiate (a campaign or other course of action):organizeandinitiate（一项活动或其他行动方案）
-establish, set up:establish,设立
-produce (a play, exhibition, or other artistic event) for public viewing:produce（戏剧、展览或其他艺术活动）供公众观看
+organize and initiate (a campaign or other course of action):组织和发起（运动或其他行动）
+establish, set up:建立，设立
+produce (a play, exhibition, or other artistic event) for public viewing:制作（戏剧、展览或其他艺术活动）供公众观看
 grow larger or more numerous:变得更大或更多
 (of a feeling) become stronger or more intense:（感觉的）变得更强烈或更强烈
 (of blood) rise visibly into the cheeks:（血）明显上升到脸颊
-place or fix (an object) on a support:placeorfix(anobject)onasupport
-set in or attach to a backing or setting:setinorattachtoabackingorsetting设置或附加到支持或设置
+place or fix (an object) on a support:将（物体）放置或固定在支撑物上
+set in or attach to a backing or setting:设置或附加到背衬或设置
 fix (an object for viewing) on a microscope slide.:fix（用于观察的物体）在显微镜载玻片上。
-make (a disk or disk drive) available for use:make（磁盘或磁盘驱动器）可供使用
+make (a disk or disk drive) available for use:使（磁盘或磁盘驱动器）可供使用
 a backing or setting on which a photograph, gem, or work of art is set for display:用于展示照片、宝石或艺术品的背衬或镶嵌
 a glass microscope slide for securing a specimen to be viewed.:用于固定要观察的标本的玻璃显微镜载玻片。
 a stamp hinge.:a邮票铰链。
 a support for a gun, camera, or similar piece of equipment:a支持枪支、照相机或类似设备
 a horse that is ridden or is available for riding:一匹被骑过或可供骑乘的马
 an opportunity to ride a horse, especially as a jockey:一个骑马的机会，尤其是作为骑师
-a mountain or hill (archaic except in place names):amountainorhill（古语，地名除外）
+a mountain or hill (archaic except in place names):一座山或一座小山（古老的，除了地名）
 any of several fleshy prominences on the palm of the hand regarded in palmistry as signifying the degree of influence of a particular planet:手掌上的任何几个肉质突起，在手相术中被视为表示特定行星的影响程度
 mount |maʊnt| Noun/Verb/:山,不断增加,安装,坐骑
-he mounted the steps:he登上台阶
+he mounted the steps:他登上台阶
 the master of ceremonies mounted the platform:司仪上台
 he mounted the horse:他骑上马
 she was mounted on a white horse:她骑在白马上
 a female was immediately mounted by the cat:一只雌猫立即被猫骑上
 the company had successfully mounted takeover bids:该公司已成功发起收购要约
-security forces mounted check points at every key road:securityforces在每条主要道路设置检查点
-the museum is mounting an exhibition of sixteenth-century drawings:themuseum正在举办16世纪绘画展
+security forces mounted check points at every key road:安全部队在每条主要道路都设置了检查站
+the museum is mounting an exhibition of sixteenth-century drawings:博物馆正在举办一场 16 世纪绘画展
 the costs mount up when you buy a home:当你买房子的时候成本会增加
 his anxiety mounted as messages were left unanswered:his焦虑加剧，因为消息无人回复
 feeling the blush mount in her cheeks, she looked down quickly:感觉脸颊泛起红晕，她迅速低下头
@@ -286,44 +286,44 @@ fluorescent lights are mounted on the ceiling:荧光灯安装在天花板上
 the photographs will be mounted and framed:这些照片将被装裱起来
 there is a limit to the number of hard disks you can have mounted:你可以挂载的硬盘数量有限制
 a decorated photograph mount:a装饰相框
-heavy cannon were torn from their mounts:heavycannon从他们的坐骑上撕裂
-he hung on to his mount's bridle:hehangedonhismount'sbride
-the jockey's injuries forced him to give up the coveted mount on Cool Ground:骑师的伤势迫使他放弃了CoolGround上梦寐以求的坐骑
+heavy cannon were torn from their mounts:重型大炮从他们的坐骑上被撕裂
+he hung on to his mount's bridle:他紧紧抓住坐骑的缰绳
+the jockey's injuries forced him to give up the coveted mount on Cool Ground:骑师的伤势迫使他放弃了 Cool Ground 上梦寐以求的坐骑
 Mount Etna:埃特纳火山
 the mount of Mars:火星之山
 
 climb up (stairs, a hill, or other rising surface):爬上（楼梯、小山或其他上升表面）
-climb or move up on to (a raised surface):climb或向上移动到（凸起的表面）
-get up on (an animal or bicycle) in order to ride it:getupon(ananimalorbicycle)为了骑它
-set (someone) on horseback, provide with a horse:set(someone)onhorseback,提供一匹马
+climb or move up on to (a raised surface):爬上或向上移动到（凸起的表面）
+get up on (an animal or bicycle) in order to ride it:骑上（动物或自行车）以便骑它
+set (someone) on horseback, provide with a horse:设置（某人）在马背上，提供一匹马
 (of a male mammal or bird) assume a position on top of (a female) in order to copulate:（雄性哺乳动物或鸟类）为了交配而占据（雌性）之上的位置
-organize and initiate (a campaign or other course of action):organizeandinitiate（一项活动或其他行动方案）
-establish, set up:establish,设立
-produce (a play, exhibition, or other artistic event) for public viewing:produce（戏剧、展览或其他艺术活动）供公众观看
+organize and initiate (a campaign or other course of action):组织和发起（运动或其他行动）
+establish, set up:建立，设立
+produce (a play, exhibition, or other artistic event) for public viewing:制作（戏剧、展览或其他艺术活动）供公众观看
 grow larger or more numerous:变得更大或更多
 (of a feeling) become stronger or more intense:（感觉的）变得更强烈或更强烈
 (of blood) rise visibly into the cheeks:（血）明显上升到脸颊
-place or fix (an object) on a support:placeorfix(anobject)onasupport
-set in or attach to a backing or setting:setinorattachtoabackingorsetting设置或附加到支持或设置
+place or fix (an object) on a support:将（物体）放置或固定在支撑物上
+set in or attach to a backing or setting:设置或附加到背衬或设置
 fix (an object for viewing) on a microscope slide.:fix（用于观察的物体）在显微镜载玻片上。
-make (a disk or disk drive) available for use:make（磁盘或磁盘驱动器）可供使用
+make (a disk or disk drive) available for use:使（磁盘或磁盘驱动器）可供使用
 a backing or setting on which a photograph, gem, or work of art is set for display:用于展示照片、宝石或艺术品的背衬或镶嵌
 a glass microscope slide for securing a specimen to be viewed.:用于固定要观察的标本的玻璃显微镜载玻片。
 a stamp hinge.:a邮票铰链。
 a support for a gun, camera, or similar piece of equipment:a支持枪支、照相机或类似设备
 a horse that is ridden or is available for riding:一匹被骑过或可供骑乘的马
 an opportunity to ride a horse, especially as a jockey:一个骑马的机会，尤其是作为骑师
-a mountain or hill (archaic except in place names):amountainorhill（古语，地名除外）
+a mountain or hill (archaic except in place names):一座山或一座小山（古老的，除了地名）
 any of several fleshy prominences on the palm of the hand regarded in palmistry as signifying the degree of influence of a particular planet:手掌上的任何几个肉质突起，在手相术中被视为表示特定行星的影响程度
 Mount |maʊnt| Noun/Verb/:山,不断增加,安装,坐骑,挂载
-he mounted the steps:he登上台阶
+he mounted the steps:他登上台阶
 the master of ceremonies mounted the platform:司仪上台
 he mounted the horse:他骑上马
 she was mounted on a white horse:她骑在白马上
 a female was immediately mounted by the cat:一只雌猫立即被猫骑上
 the company had successfully mounted takeover bids:该公司已成功发起收购要约
-security forces mounted check points at every key road:securityforces在每条主要道路设置检查点
-the museum is mounting an exhibition of sixteenth-century drawings:themuseum正在举办16世纪绘画展
+security forces mounted check points at every key road:安全部队在每条主要道路都设置了检查站
+the museum is mounting an exhibition of sixteenth-century drawings:博物馆正在举办一场 16 世纪绘画展
 the costs mount up when you buy a home:当你买房子的时候成本会增加
 his anxiety mounted as messages were left unanswered:his焦虑加剧，因为消息无人回复
 feeling the blush mount in her cheeks, she looked down quickly:感觉脸颊泛起红晕，她迅速低下头
@@ -331,9 +331,9 @@ fluorescent lights are mounted on the ceiling:荧光灯安装在天花板上
 the photographs will be mounted and framed:这些照片将被装裱起来
 there is a limit to the number of hard disks you can have mounted:你可以挂载的硬盘数量有限制
 a decorated photograph mount:a装饰相框
-heavy cannon were torn from their mounts:heavycannon从他们的坐骑上撕裂
-he hung on to his mount's bridle:hehangedonhismount'sbride
-the jockey's injuries forced him to give up the coveted mount on Cool Ground:骑师的伤势迫使他放弃了CoolGround上梦寐以求的坐骑
+heavy cannon were torn from their mounts:重型大炮从他们的坐骑上被撕裂
+he hung on to his mount's bridle:他紧紧抓住坐骑的缰绳
+the jockey's injuries forced him to give up the coveted mount on Cool Ground:骑师的伤势迫使他放弃了 Cool Ground 上梦寐以求的坐骑
 Mount Etna:埃特纳火山
 the mount of Mars:火星之山
 
@@ -350,13 +350,13 @@ able to be shown to be right or reasonable, defensible:能够被证明是正确�
 justifiable |ˈdʒʌstɪfʌɪəbl| Adjective/:正当的,有道理的
 it is not financially justifiable:它在经济上不合理
 
-support or actively encourage (a cause, venture, etc.), further the progress of:supportoractivelyencourage(acause,venture,etc.),促进进步
+support or actively encourage (a cause, venture, etc.), further the progress of:支持或积极鼓励（一项事业、冒险等），进一步推进
 give publicity to (a product, organization, or venture) so as to increase sales or public awareness:宣传（产品、组织或企业）以提高销量或提高公众知名度
-attempt to ensure the passing of (a private Act of Parliament):attempttoensure(aprivateActofParliament)的通过
-raise (someone) to a higher position or rank:raise(someone)toahigherpositionorrank
-transfer (a sports team) to a higher division of a league:transfer(asportsteam)toahigherdivisionofaleague
-exchange (a pawn) for a more powerful piece of the same colour, typically a queen, when it reaches the opponent's end of the board.:exchange（兵）到达对手的棋盘末端时，换取更强大的相同颜色的棋子，通常是皇后。
-enable (a relatively low card) to win a trick by playing off the higher ones first:enable（一张相对低的牌）通过先打掉大牌来赢得一墩牌
+attempt to ensure the passing of (a private Act of Parliament):试图确保通过（议会的私人法案）
+raise (someone) to a higher position or rank:将（某人）提升到更高的职位或级别
+transfer (a sports team) to a higher division of a league:将（运动队）转移到联赛的更高级别
+exchange (a pawn) for a more powerful piece of the same colour, typically a queen, when it reaches the opponent's end of the board.:当棋子到达对手的棋盘末端时，将（棋子）换成更强大的同色棋子，通常是皇后。
+enable (a relatively low card) to win a trick by playing off the higher ones first:使（一张相对低的牌）通过先打出高牌来赢得一墩牌
 (of an additive) act as a promoter of (a catalyst).:（添加剂）充当（催化剂）的促进剂。
 promote |prəˈməʊt| Verb/:推动,促进,提倡
 some regulation is still required to promote competition:仍然需要一些监管来促进竞争
@@ -364,7 +364,7 @@ they are using famous personalities to promote the library nationally:他们利�
 the government of the day would not be promoting the bill:当时的政府不会推动该法案
 she was promoted to General Manager:她晋升为总经理
 they were promoted from the Third Division last season:他们上赛季从第三级别联赛晋级
-East will win with the ace and lead a heart, promoting the ♠9:East将以王牌取胜，带领一颗心，推动♠
+East will win with the ace and lead a heart, promoting the ♠9:东将以王牌取胜，带领一颗心，推动♠9
 
 (of a contract, agreement, etc.) capable of being renewed:（合同、协议等的）能够更新的
 (of a natural resource or source of energy) not depleted when used:（自然资源或能源的）使用时未耗尽
@@ -401,14 +401,14 @@ after her presentation to Queen Victoria, he had escorted his sister to numerous
 the Earl of Pembroke offered Herbert the presentation of the living of Bremerton:彭布罗克伯爵向赫伯特介绍了布雷默顿的生活
 a breech presentation:臀位呈现
 all patients in this group were symptomatic at initial presentation:该组中的所有患者在初次就诊时均有症状
-depression frequently forms part of the clinical presentation of dementia:depression经常构成痴呆症临床表现的一部分
+depression frequently forms part of the clinical presentation of dementia:抑郁症经常构成痴呆症临床表现的一部分
 
 provide people with food and drink at a social event or other gathering:在社交活动或其他聚会上为人们提供食物和饮料
-provide food and drink for (an event):providefoodanddrinkfor(anevent)
+provide food and drink for (an event):为（活动）提供食物和饮料
 cater |ˈkeɪtə| Verb/:迎合,满足
-my mother helped to cater for the party:mymother帮忙准备派对
-he catered a lunch for 20 people:he为20人准备了午餐
+my mother helped to cater for the party:我妈妈帮忙准备了派对
+he catered a lunch for 20 people:他为20人准备了午餐
 
-showing no prejudice for or against something, impartial:showingnoprejectivefororagainstsomething,公正
+showing no prejudice for or against something, impartial:对某事没有偏见，不偏不倚
 unbiased |ˌʌnˈbʌɪəst| Adjective/:不偏不倚,公正的
 his assessment of the benefits and drawbacks was unbiased:his对利弊的评估是公正的

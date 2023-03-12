@@ -43,7 +43,7 @@ endurance |ɪnˈdjʊərəns| Adjective/Noun/:耐力,忍耐
 she was close to the limit of her endurance:她已接近忍耐极限
 the annual 24-hour endurance race:年度24小时耐力赛
 
-make (something) simpler or easier to do or understand:make（某事）更简单或更容易做或理解
+make (something) simpler or easier to do or understand:使（某事）更简单或更容易做或理解
 simplify |ˈsɪmplɪfʌɪ| Verb/:简化,化简
 an overhaul of court procedure to simplify litigation:法院程序大修以简化诉讼
 
@@ -70,7 +70,7 @@ an electric or gas cooker.:一个电或燃气灶。
 a row of buildings:一排建筑物
 a continuous stretch of a building.:a连续延伸的建筑物。
 the direction or position in which something lies:某物所在的方向或位置
-vary or extend between specified limits:vary或在指定限制之间扩展
+vary or extend between specified limits:在指定限制之间变化或扩展
 place or arrange in a row or rows or in a specified manner:place或排列成一排或多排或以指定的方式
 run or extend in a line in a particular direction:run或沿特定方向延伸成一条线
 (with reference to type) align or be aligned, especially at the ends of successive lines.:（与类型有关）对齐或被对齐，尤其是在连续行的末尾。
@@ -80,37 +80,37 @@ place oneself or be placed in opposition to (a person or group):置身或置身�
 (of something written or spoken) cover a wide number of different topics:（书面或口头的）涵盖大量不同的主题
 obtain the range of a target by adjustment after firing past it or short of it, or by the use of radar or laser equipment:通过在射击超过或接近目标后调整，或使用雷达或激光设备获得目标的射程
 (of a projectile) cover a specified distance.:（射弹）覆盖指定的距离。
-(of a gun) send a projectile over a specified distance.:(ofagun)向指定距离发射弹丸。
+(of a gun) send a projectile over a specified distance.:（枪支）将弹丸发射到指定距离。
 range |reɪn(d)ʒ| Adjective/Noun/Verb/:范围,变动,音域,量程
 the cost will be in the range of $1–5 million a day:每天的成本将在
 in this film he gave some indication of his range:在这部电影中，他给出了一些他的范围的指示
-she was gifted with an incredible vocal range:she拥有令人难以置信的音域
+she was gifted with an incredible vocal range:她拥有令人难以置信的音域
 a guide to the range of debate this issue has generated:该问题引起的辩论范围指南
 the area offers a wide range of activities for the tourist:该地区为游客提供了广泛的活动
 something lurked just beyond her range of vision:something潜伏在她的视野之外
 these rockets have a range of 30 to 40 miles:这些火箭的射程为30到40英里
-planets within radio range of Earth:planets在地球的无线电范围内
-the vans have a range of 125 miles:thevans的续航里程为125英里
-handheld shots taken at extreme telephoto ranges can be pretty wobbly affairs:handheld在极端长焦范围内拍摄可能会非常不稳定
+planets within radio range of Earth:地球射电范围内的行星
+the vans have a range of 125 miles:这些货车的续航里程为 125 英里
+handheld shots taken at extreme telephoto ranges can be pretty wobbly affairs:在极端长焦范围内拍摄的手持照片可能会非常不稳定
 a mountain range:一座山脉
 no one would know if he had survived to live out his life in the ranges back from the river country:没有人会知道他是否能够幸存下来，在河乡回来的山脉中度过他的一生
-on dude ranches, tourists put on crisp new western gear to ride the range:ondude牧场，游客穿上全新的西方装备骑行
+on dude ranches, tourists put on crisp new western gear to ride the range:在花花公子的牧场上，游客们穿上崭新的西方装备来骑马
 the cost of dealing with unexploded shells and bombs on former military ranges:处理前军事靶场上未爆炸的炮弹和炸弹的成本
 he went down to the ranges to practise shooting:他到靶场练习射击
 the chimpanzee extensively overlaps the gorilla in its forest range:the黑猩猩在其森林范围内与大猩猩广泛重叠
 a wood-burning kitchen range:a燃木厨房灶具
-Townesend's Durham quadrangle range at Trinity College:Townesend在三一学院的达勒姆四合院
+Townesend's Durham quadrangle range at Trinity College:Townesend 在三一学院的达勒姆四合院范围
 the range of the hills and valleys is nearly from north to south:丘陵和山谷的范围几乎是从北到南
-prices range from £30 to £100:prices从30英镑到100英镑不等
+prices range from £30 to £100:价格从 30 英镑到 100 英镑不等
 a table with half a dozen chairs ranged around it:一张桌子，周围有六把椅子
-he regularly came to the benches that ranged along the path:he经常来到沿路排列的长椅旁
+he regularly came to the benches that ranged along the path:他经常来到沿路排列的长椅旁
 they were no match for the overwhelming forces ranged against them:他们敌不过压倒性的力量
-patrols ranged thousands of miles deep into enemy territory:patrols深入敌方领土数千英里
+patrols ranged thousands of miles deep into enemy territory:巡逻队深入敌方领土数千英里
 his eyes ranged over them:他的目光扫过他们
 tutorials ranged over a variety of subjects:tutorials涵盖各种主题
-radar-type transmissions which appeared to be ranging on our convoys:radar类型的传输，似乎在我们的车队中进行
+radar-type transmissions which appeared to be ranging on our convoys:似乎在我们的车队上测距的雷达式传输
 
-achieve or complete successfully:achieve或成功完成
+achieve or complete successfully:成功实现或完成
 fill in (a form):填写（表格）
 accomplish |əˈkʌmplɪʃ| Verb/:完成,实现
 the planes accomplished their mission:飞机完成了他们的使命
@@ -127,12 +127,12 @@ the directive required equal treatment for men and women in social security sche
 comparison with earlier artists is useful in analysis of the treatment of women in her painting:与早期艺术家的比较有助于分析她绘画中对女性的待遇
 a bit of soft-shoe shuffle got the full treatment:一点软鞋洗牌得到了充分的治疗
 I'm receiving treatment for an injured shoulder:肩部受伤正在接受治疗
-they now offer the latest in beauty and body treatments:they现在提供最新的美容和身体护理
+they now offer the latest in beauty and body treatments:他们现在提供最新的美容和身体护理
 the treatment of hazardous waste is particularly expensive:危废处理特别贵
 
 additional to what is required for ordinary use:除了普通使用所需的之外
 not currently in use or occupied:当前未使用或未占用
-(of time) not taken up by one's usual duties or activities, available for leisure:(oftime)不被日常工作或活动占用，可用于休闲
+(of time) not taken up by one's usual duties or activities, available for leisure:（时间）没有被一个人的日常职责或活动占用，有空
 with no excess fat, thin:没有多余的脂肪，瘦了
 elegantly simple:优雅简单
 spare |spɛː| Adjective/Noun/Verb/:空闲的,抽出,备用品,备用,备用的
@@ -151,9 +151,9 @@ the protection of rights to education, housing, and welfare:受教育权、住�
 critics feared an increase in inequalities in the provision of welfare:critics担心福利提供方面的不平等加剧
 
 help or encourage (something) to increase or improve:帮助或鼓励（某事）增加或改进
-amplify (an electrical signal):amplify（电信号）
+amplify (an electrical signal):放大（电信号）
 push from below:从下方推送
-steal (something):steal（某物）
+steal (something):偷（东西）
 a source of help or encouragement leading to increase or improvement:帮助或鼓励的来源导致增加或改进
 an increase or improvement:增加或改进
 a push from below.:从下方推动。
@@ -202,7 +202,7 @@ a ceremonial display and formal inspection of military or naval forces, typicall
 a facility for playing a tape recording during a fast wind or rewind, so that it can be stopped at a particular point:一种在快风或快倒时播放磁带录音的设施，以便它可以在特定点停止
 assess (something) formally with the intention of instituting change if necessary:assess(something)正式的，目的是在必要时进行更改
 submit (a sentence, case, etc.) for reconsideration by a higher court or authority:提交（判决、案件等）上级法院或机关复议
-survey or evaluate (a subject or past events):survey或评估（一个主题或过去的事件）
+survey or evaluate (a subject or past events):调查或评估（主题或过去的事件）
 write a critical appraisal of (a book, play, film, etc.) for publication in a newspaper or magazine:对（一本书、戏剧、电影等）进行批判性评价，以便在报纸或杂志上发表
 (of a sovereign, commander-in-chief, or high-ranking visitor) make a ceremonial and formal inspection of (military or naval forces):（君主、总司令或高级访问者）对（军队或海军）进行仪式和正式检查
 view or inspect again:view或再次检查
@@ -210,10 +210,10 @@ review |rɪˈvjuː| Noun/Verb/:审查,评论,回顾
 a comprehensive review of UK defence policy:英国国防政策全面回顾
 a review of her sentence:复习她的句子
 the Director General's end-of-year review:总干事年终回顾
-she released her debut solo album to rave reviews:she发行首张个人专辑好评如潮
+she released her debut solo album to rave reviews:她发行首张个人专辑好评如潮
 the New Left Review:新左派评论
 he conducted a final review of his troops and spoke of his pride in having served in the US army:他对他的部队进行了最后审查，并谈到了他在美国军队服役的自豪感
-cue and review, which plays the tape backwards or forwards at high speed:cueandreview，以高速向后或向前播放磁带
+cue and review, which plays the tape backwards or forwards at high speed:提示和回顾，高速向后或向前播放磁带
 the Home Secretary was called on to review Britain's gun laws:内政大臣被要求审查英国的枪支法
 the Attorney General asked the court to review the sentence:总检察长要求法院复核判决
 in the next chapter we review a number of recent empirical studies:在下一章中，我们回顾了一些最近的实证研究
@@ -225,7 +225,7 @@ notably large in size, amount, or extent:在规模、数量或范围上特别大
 (of a person) having merit or distinction:（某人的）有功劳或有名望的
 considerable |kənˈsɪd(ə)rəbl| Adjective/:大量,相当可观,可观的
 a position of considerable influence:具有相当影响力的职位
-Snow was a limited, but still considerable, novelist:Snow是一位有限但仍然相当可观的小说家
+Snow was a limited, but still considerable, novelist:斯诺是一位有限但仍然重要的小说家
 
 mislead:误导
 misguide |mɪsˈɡʌɪd| Verb/:误导,误入歧途
@@ -234,7 +234,7 @@ a long survey that can only baffle and misguide the general reader:一个只会�
 the lowest load-bearing part of a building, typically below ground level:建筑物的最低承重部分，通常在地面以下
 a coloured cream, powder, or liquid used as a base to even out facial skin tone before applying other cosmetics:一种有色乳霜、粉末或液体，在涂抹其他化妆品之前用作基础以使面部肤色均匀
 an underlying basis or principle:一个基本的基础或原则
-justification or reason:justification或理由
+justification or reason:正当理由
 the action of establishing an institution or organization:设立机构或组织的行为
 an institution established with an endowment, for example a research body or charity:通过捐赠基金成立的机构，例如研究机构或慈善机构
 foundation |faʊnˈdeɪʃn| Noun/:基础,基金会,地基,基金
@@ -243,14 +243,14 @@ apply moisturizer a few minutes before using foundation:在使用粉底前几分
 this idea is the foundation of all modern economics:这个想法是所有现代经济学的基础
 misleading accusations with no foundation:没有根据的误导性指控
 the foundation of a civil service college:公务员学院奠基
-charitable foundations:charitable基金会
+charitable foundations:慈善基金会
 
 relating to or denoting a course of study undertaken after completing a first degree:与或表示完成第一学位后所进行的学习课程
 a student engaged in a postgraduate course.:a学生从事研究生课程。
 postgraduate |ˌpəʊs(t)ˈɡradʒʊət| Adjective/Noun/:,硕士
 a postgraduate degree:研究生学位
 
-prove more powerful or superior:prove更强大或更优越
+prove more powerful or superior:证明更强大或更优越
 be widespread or current in a particular area or at a particular time:在特定地区或特定时间广泛或流行
 persuade (someone) to do something:说服（某人）做某事
 prevail |prɪˈveɪl| Verb/:占上风,盛行
@@ -259,17 +259,17 @@ a friendly atmosphere prevailed among the crowds:人群中弥漫着友好的气�
 she was prevailed upon to give an account of her work:她被说服交代她的工作
 
 firm and stable in shape, not liquid or fluid:坚固稳定的形状，不是液体或流体
-strongly built or made of strong materials, not flimsy or slender:strongly建造或由坚固的材料制成，不脆弱或纤细
+strongly built or made of strong materials, not flimsy or slender:坚固或由坚固材料制成，不脆弱或纤细
 having three dimensions:具有三个维度
 concerned with objects having three dimensions:关注具有三个维度的对象
 not hollow or containing spaces or gaps:不是空心或包含空格或间隙
 consisting of the same substance throughout:由相同的物质组成
-(of typesetting) without extra space between the lines of characters.:(oftypesetting)字符行之间没有多余的空格。
+(of typesetting) without extra space between the lines of characters.:（排版）字符行之间没有额外的空间。
 (of a line or surface) without spaces, unbroken:（线或面）没有空格，不间断
 (of time) uninterrupted, continuous:（时间）不间断的，连续的
 unanimous or undivided:一致或不分
 dependable, reliable:可靠的，可靠的
-sound but without any special qualities or flair:sound但没有任何特殊品质或天赋
+sound but without any special qualities or flair:声音但没有任何特殊品质或天赋
 on good terms with:与
 severe, unfair:严重，不公平
 a substance or object that is solid rather than liquid or fluid.:一种固体而不是液体或流体的物质或物体。
@@ -290,17 +290,17 @@ he thought he could put himself in solid with you by criticizing her:他认为�
 they'll be solid on him for that mistake:他们会因为那个错误而坚定地对待他
 she drinks only milk and rarely eats solids:她只喝牛奶，很少吃固体食物
 
-advice, especially that given formally:advice，尤其是正式给出的
+advice, especially that given formally:建议，尤其是正式给出的建议
 consultation, especially to seek or give advice:consultation，尤其是寻求或提供建议
 a barrister or other legal adviser conducting a case:进行案件的大律师或其他法律顾问
 give advice to (someone):给（某人）建议
 give professional help and advice to (someone) to resolve personal or psychological problems:向（某人）提供专业帮助和建议以解决个人或心理问题
-recommend (a course of action):recommend（一个行动方案）
+recommend (a course of action):推荐（行动方案）
 counsel |ˈkaʊnsl| Noun/Verb/:,顾问,咨询师
 with wise counsel a couple can buy a home that will be appreciating in value:在明智的建议下，一对夫妇可以购买升值的房屋
 he took much counsel with him:他向他提出了很多建议
 the counsel for the defence:辩护律师
-careers officers should counsel young people in making their career decisions:careers官员应为年轻人提供职业决策咨询
+careers officers should counsel young people in making their career decisions:职业官员应该在年轻人做出职业决定时为他们提供咨询
 he was being counselled for depression:他因抑郁而接受咨询
 the athlete's coach counselled caution:运动员教练建议谨慎
 
@@ -329,15 +329,15 @@ make a written summary of (an article or book):对（一篇文章或一本书）
 a summary of the contents of a book, article, or speech:一本书、文章或演讲内容的摘要
 an abstract work of art:一个抽象的艺术作品
 abstract |ˈabstrakt| Adjective/Noun/Verb/:抽象的,摘要,提取,抽象
-abstract concepts such as love or beauty:abstract概念，例如爱或美
+abstract concepts such as love or beauty:爱或美等抽象概念
 the novel was too abstract and esoteric to sustain much attention:小说太抽象太深奥，无法引起太多关注
 we have been discussing the problem in a very abstract manner:我们一直在以非常抽象的方式讨论这个问题
 abstract pictures:抽象图片
 to abstract science and religion from their historical context can lead to anachronism:将科学和宗教从其历史背景中抽象出来可能会导致时代错误
-applications to abstract more water from streams:applications从溪流中提取更多的水
+applications to abstract more water from streams:从溪流中提取更多水的应用程序
 his pockets contained all he had been able to abstract from the flat:他的口袋里装着他能从公寓里拿出来的所有东西
 as our relationship deepened you seemed to abstract yourself:随着我们关系的加深，你似乎把自己抽象化了
-staff who abstract material for an online database:staff为在线数据库提取材料
+staff who abstract material for an online database:为在线数据库提取材料的员工
 an abstract of her speech:她的演讲摘要
 a big unframed abstract:一个大的无框摘要
 
@@ -355,7 +355,7 @@ a sentence of outlawry:一个违法的句子
 a curse:诅咒
 a monetary unit of Romania, equal to one hundredth of a leu.:罗马尼亚的货币单位，等于百分之一列伊。
 ban |ban| Noun/Verb/:(Bàn)
-parking is banned around the harbour in summer:parking夏季港口周围禁止停车
+parking is banned around the harbour in summer:夏季禁止在海港周围停车
 her son was banned for life from the Centre:她的儿子被中心终身禁止
 a proposed ban on cigarette advertising:a提议的香烟广告禁令
 a ban on dangerous jet-ski riders:禁止危险的摩托艇骑手
@@ -373,12 +373,12 @@ solve |sɒlv| Verb/:解决,求解
 the policy could solve the town's housing crisis:该政策可以解决该镇的住房危机
 
 strengthen or support (an object or substance), especially with additional material:加强或支持（物体或物质），尤其是附加材料
-strengthen (an existing feeling, idea, or habit):strengthen（现有的感觉、想法或习惯）
+strengthen (an existing feeling, idea, or habit):加强（现有的感觉、想法或习惯）
 strengthen (a military force) with additional personnel or equipment:strengthen（一支军队）增加人员或装备
 reinforce |ˌriːɪnˈfɔːs| Verb/:加强,强化
 the helmet has been reinforced with a double layer of cork:头盔用双层软木加固
 the next few months reinforced my opinion of Vince as a man of his word:接下来的几个月加强了我对文斯作为一个信守诺言的人的看法
-paratroopers were sent to reinforce the troops already in the area:paratroopers被派去增援已经在该地区的部队
+paratroopers were sent to reinforce the troops already in the area:伞兵被派去增援已经在该地区的部队
 
 a person who makes a formal application for something, especially a job:正式申请某事，尤其是工作的人
 applicant |ˈaplɪk(ə)nt| Noun/:申请人,求职者

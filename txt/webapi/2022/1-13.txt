@@ -31,8 +31,8 @@ a long walk or walking tour:长途步行或徒步旅行
 a long distance:远距离
 a sharp increase, especially in price:急剧增加，尤其是价格
 walk for a long distance, especially across country:步行很长的距离，尤其是在全国范围内
-pull or lift up (something, especially clothing):pullorliftup（某物，尤其是衣服）
-increase (something, especially a price) sharply:increase（某事，尤其是价格）急剧增加
+pull or lift up (something, especially clothing):拉或举起（某物，尤其是衣服）
+increase (something, especially a price) sharply:急剧增加（某物，尤指价格）
 hike |hʌɪk| Noun/Verb/:远足
 a five-mile hike across rough terrain:在崎岖的地形上徒步五英里
 it's such a hike from Adelaide to Perth:这是从阿德莱德到珀斯的一次徒步旅行
@@ -48,7 +48,7 @@ corkscrew |ˈkɔːkskruː| Noun/Verb/:开瓶器,螺丝钉
 a girl with corkscrew curls:一个开瓶器卷发的女孩
 the plane was corkscrewing towards the earth:飞机正在向地球开瓶器
 
-refuge or safety from pursuit, persecution, or other danger:refuge或安全免受追捕、迫害或其他危险
+refuge or safety from pursuit, persecution, or other danger:逃避追捕、迫害或其他危险
 a nature reserve:a自然保护区
 a place where injured or unwanted animals of a specified kind are cared for:照顾特定种类受伤或不想要的动物的地方
 a holy place; a temple:圣地；一座寺庙
@@ -91,21 +91,21 @@ open the foil so that the bread browns and crisps:打开箔纸，使面包变黄
 there is a cooling breeze which crisps the broad clear river:有凉风吹清宽阔清江
 
 a fine open fabric of cotton or silk, made by looping, twisting, or knitting thread in patterns and used especially for trimming garments:一种由棉或丝制成的细开织物，由成圈、捻线或针织线制成，专门用于修整服装
-braid used for trimming, especially on military dress uniforms:braid用于修剪，尤其是军装制服
+braid used for trimming, especially on military dress uniforms:用于修剪的辫子，特别是在军装上
 a cord or leather strip passed through eyelets or hooks on opposite sides of a shoe or garment and then pulled tight and fastened:一条绳子或皮条穿过鞋子或衣服两侧的孔眼或钩子，然后拉紧并固定
 fasten or tighten (a shoe or garment) by tying the laces:系鞋带以系紧或收紧（鞋子或衣服）
 enclose or confine tightly in a garment:紧紧地包裹或限制在衣服中
 (of a garment or shoe) be fastened by means of laces:（衣服或鞋子的）用鞋带系紧
-entwine (things, especially fingers) together:entwine（东西，尤其是手指）在一起
+entwine (things, especially fingers) together:缠绕（东西，尤其是手指）在一起
 pass a lace or cord through (a hole):将花边或绳子穿过（一个洞）
 add an ingredient, especially alcohol, to (a drink or dish) to enhance its flavour or strength:在（饮料或菜肴）中添加一种成分，尤其是酒精，以增强其风味或强度
-give (something) a large amount or degree of a feature or quality:give(something)大量或程度的特征或质量
+give (something) a large amount or degree of a feature or quality:赋予（某物）大量或一定程度的特征或品质
 lace |leɪs| Noun/Verb/:蕾丝,系带子,花边
 a dress trimmed in white lace:一件白色蕾丝边的连衣裙
 his generals were covered with gold lace:他的将军们都披上了金色的花边
 brown shoes with laces:棕色系带鞋
 he put the shoes on and laced them up:他穿上鞋子并系好鞋带
-Rosina laced her up tight to show off her neat waist:Rosina把她绑得更紧，秀出纤细的腰身
+Rosina laced her up tight to show off her neat waist:罗西娜把她系紧，露出她利落的小蛮腰
 the shoes laced at the front:前面系带的鞋子
 she laced her fingers together:她把手指绑在一起
 he laced the twine through the eyelets and pulled it tight:他将麻绳穿过孔眼并拉紧
@@ -126,7 +126,7 @@ a hard kick:硬踢
 an enclosed space at the back of a car for carrying luggage or other goods.:汽车后部的封闭空间，用于携带行李或其他物品。
 the process of starting a computer and putting it into a state of readiness for operation:启动计算机并使其进入准备运行状态的过程
 kick (something) hard in a specified direction:kick（某物）朝指定方向用力
-start (a computer) and put it into a state of readiness for operation:start（一台计算机）并使其进入准备运行状态
+start (a computer) and put it into a state of readiness for operation:启动（计算机）并使其进入准备运行状态
 (of a computer) be started and put into a state of readiness for operation:(计算机的)被启动并进入准备运行状态
 place a wheel clamp on (an illegally parked car):在（非法停放的汽车）上放置一个车轮夹
 boot |buːt| Noun/Verb/:开机,引导
@@ -165,7 +165,7 @@ employee |ˌɛmplɔɪˈiː| Noun/:员工,雇员
 the company has over 500 employees:公司有500多名员工
 
 make or shape (a metal object) by heating it in a fire or furnace and hammering it:通过在火或熔炉中加热并锤击来制作或塑造（金属物体）
-create (something) strong, enduring, or successful:create（某事）强大、持久或成功
+create (something) strong, enduring, or successful:创造（某物）强大的、持久的或成功的
 produce a fraudulent copy or imitation of (a document, signature, banknote, or work of art):制作（文件、签名、钞票或艺术品）的欺诈性副本或仿制品
 a blacksmith's workshop; a smithy.:铁匠作坊；铁匠铺
 a furnace for melting or refining metal.:用于熔化或精炼金属的熔炉。
@@ -199,11 +199,11 @@ terrain |tɛˈreɪn| Noun/:地形,地势
 they were delayed by rough terrain:他们被崎岖的地形耽误了
 
 jab or prod (someone or something) with one's finger or a sharp object:jab或prod（某人或某物）用手指或尖锐物体
-prod and stir (a fire) with a poker to make it burn more fiercely:prod并用火柴搅动（火）使其燃烧得更猛烈
+prod and stir (a fire) with a poker to make it burn more fiercely:用火棍戳动（火）使其燃烧得更猛烈
 make (a hole) in something by prodding or jabbing at it:在某物上戳或戳（一个洞）
 (of a man) have sex with (someone).:（男人的）与（某人）发生性关系。
-thrust (something, such as one's head) in a particular direction:thrust（某物，例如一个人的头）在特定方向
-protrude and be visible:protrude并且可见
+thrust (something, such as one's head) in a particular direction:向特定方向推（某物，例如一个人的头）
+protrude and be visible:突出并可见
 an act of poking someone or something:戳某人或某物的行为
 an act or instance of having sex.:发生性行为的行为或实例。
 a look or search around a place:查看或搜索一个地方
@@ -224,7 +224,7 @@ his mother comes into his room sometimes and has a poke round:他的妈妈有时
 I expect you'd prefer something with a bit more poke:我希望你更喜欢戳戳更多的东西
 he fished out a poke of crisps from under the counter:他从柜台下面掏出一戳薯片
 his wallet's half out of his pocket—it comes to me that I might as well lift his poke:他的钱包从口袋里掏出一半——我想我不妨举起他的戳
-a buffet full of Hawaiian favourites like fresh poke:a自助餐，充满夏威夷美食，如新鲜的poke
+a buffet full of Hawaiian favourites like fresh poke:充满夏威夷美食的自助餐，例如新鲜的 poke
 
 moving in one side and out of the other side of (an opening, channel, or location):在（开口、通道或位置）的一侧和另一侧移动
 so as to make a hole or opening in (a physical object):以便在（物理对象）上打孔或开口
@@ -238,7 +238,7 @@ from beginning to end of (an experience or activity, typically a tedious or stre
 so as to inspect all or part of (a collection, inventory, or publication):以便检查（收藏、库存或出版物）的全部或部分
 by means of (a process or intermediate stage):通过（过程或中间阶段）
 by means of (an intermediary or agent):通过（中间人或代理人）
-up to and including (a particular point in an ordered sequence):upto并包括（有序序列中的特定点）
+up to and including (a particular point in an ordered sequence):直到并包括（有序序列中的特定点）
 expressing movement into one side and out of the other side of an opening, channel, or location:表示移动到开口、通道或位置的一侧和另一侧
 so as to make an opening in a physical object:以便在物理对象上开一个口子
 expressing movement around or from one side to the other within a crowd or group:表达在人群或群体中围绕或从一侧到另一侧的运动
@@ -267,20 +267,20 @@ we sat through some very boring speeches:我们坐下来听了一些非常无聊
 I flipped through the pages:我翻了几页
 dioxins get into mothers' milk through contaminated food:二恶英通过受污染的食物进入母乳
 we are continuing to seek justice through the courts:我们将继续通过法院寻求正义
-they will be in London from March 24 through May 7:they将于3月24日至5月7日在伦敦
+they will be in London from March 24 through May 7:他们将于3月24日至5月7日在伦敦
 as soon as we opened the gate they came streaming through:我们一打开大门，他们就进来了
 cut the lemon in half from top to bottom, but not all the way through:把柠檬从上到下切成两半，但不是一直切
 a party of about 40 students arrived and I had to push my way through to the reception desk:一个大约40名学生的聚会到了，我不得不挤到接待处
 you'll find caves and waterfalls sheltered by lush green trees with sunlight streaming through:你会发现被郁郁葱葱的绿树遮蔽的洞穴和瀑布，阳光透过
-she's just started a tour that will keep her busy right through to June:she刚刚开始了一次巡演，让她一直忙到六月
+she's just started a tour that will keep her busy right through to June:她刚刚开始了一次巡演，让她一直忙到六月
 though he tried to rally support for his bill, he couldn't push it through:尽管他试图争取对他的法案的支持，但他无法推动它通过
-Karl will see you through, Ingrid:Karl会陪你度过难关的，英格丽德
+Karl will see you through, Ingrid:卡尔会陪你度过难关的，英格丽德
 she read the letter through carefully:她仔细阅读了这封信
 she put the call through to a nurse:她把电话转给护士
 a through train from London:a伦敦直通车
-precincts from which through traffic would be excluded:prencts将被排除在外
+precincts from which through traffic would be excluded:禁止通行的区域
 the village lies on a busy through road:the村位于一条繁忙的道路上
-Swindon Town are through to the third round:SwindonTown晋级第三轮
+Swindon Town are through to the third round:斯温顿镇晋级第三轮
 she told him she was through with him:她告诉他她已经和他在一起了
 
 be evidence of; indicate:是证据；5
@@ -334,14 +334,14 @@ go on a long arduous journey, typically on foot:进行长途跋涉，通常是�
 travel constantly from place to place:旅行不断地从一个地方到另一个地方
 migrate or journey with one's belongings by ox wagon.:迁徙或乘牛车携行。
 (of an ox) draw a vehicle or pull a load:（牛的）拉车或拉货
-fish using a trek net:fish使用跋涉网
+fish using a trek net:使用跋涉网的鱼
 trek |trɛk| Noun/Verb/:跋涉
 a trek to the South Pole:前往南极的跋涉
 I was at the new flat waiting for my trek to arrive:我在新公寓等待我的跋涉到达
 we trekked through the jungle:我们徒步穿越丛林
 my plan is to trek about seeing the world:我的计划是跋涉看看世界
-‘Trek!’ he shouted, and we were off:“Trek！”他喊道，我们就出发了
-many licences are given to men who trek for sport rather than professional fishermen:many执照颁发给为运动而跋涉的人，而不是职业渔民
+‘Trek!’ he shouted, and we were off:“跋涉！”他喊道，然后我们就出发了
+many licences are given to men who trek for sport rather than professional fishermen:许多执照都发给了为运动而跋涉的人，而不是职业渔民
 
 travel across or through:穿越或穿越
 extend across or through:跨越或通过
@@ -349,8 +349,8 @@ cross a rock face by means of a series of sideways movements from one practicabl
 ski diagonally across (a slope), losing only a little height:ski斜跨（一个斜坡），只损失一点高度
 consider the whole extent of (a subject):考虑（一个主题）的整个范围
 move back and forth or sideways:前后或左右移动
-turn (a large gun or other device on a pivot) to face a different direction.:turn（大枪或枢轴上的其他设备）面向不同的方向。
-deny (an allegation) in pleading:deny（一项指控）在诉状中
+turn (a large gun or other device on a pivot) to face a different direction.:转动（大枪或枢轴上的其他设备）面向不同的方向。
+deny (an allegation) in pleading:在恳求中否认（指控）
 oppose or thwart (a plan).:反对或阻挠（计划）。
 an act of traversing something:穿越某物的行为
 a rock face where traversing is necessary:需要穿越的岩壁
@@ -384,7 +384,7 @@ an act or the sound of trampling:行为或践踏的声音
 trample |ˈtrampl| Noun/Verb/:,踩
 the fence had been trampled down:栅栏被践踏
 a lay statesman ought not to trample upon the opinions of his Church advisers:一个外行政治家不应该践踏他的教会顾问的意见
-destruction's trample treads them down:destruction的践踏践踏他们
+destruction's trample treads them down:毁灭的践踏将他们践踏
 
 the plants of a particular region, habitat, or geological period:特定地区、栖息地或地质时期的植物
 a book or other work detailing the plants of a particular region or habitat.:一本详述特定地区或栖息地植物的书或其他作品。
@@ -401,7 +401,7 @@ slightly wet:有点湿
 moisture diffused through the air or a solid substance or condensed on a surface, typically with detrimental or unpleasant effects:水分通过空气或固体物质扩散或凝结在表面上，通常具有有害或不愉快的影响
 damp air or atmosphere:潮湿的空气或大气
 a discouragement or check:a气馁或检查
-make (something) slightly wet:make(something)微湿
+make (something) slightly wet:让（某物）稍微湿润
 make a fire burn less strongly by reducing the flow of air to it:通过减少流向它的空气使火燃烧得不那么强烈
 control or restrain a feeling or a situation:控制或抑制一种感觉或情况
 reduce or stop the vibration of (the strings of a piano or other musical instrument) so as to reduce the volume of sound:减少或停止（钢琴或其他乐器的琴弦）的振动，以降低音量
@@ -410,9 +410,9 @@ damp |damp| Adjective/Noun/Verb/:潮湿,阻尼,湿
 her hair was still damp from the shower:她洗完澡后头发还湿漉漉的
 the house reeked of mould and damp:房子散发着霉味和潮湿的味道
 the damps of the valley:山谷的潮湿
-shame gave a damp to her triumph:shame为她的胜利蒙上了一层阴影
-damp a small area with water:damp一小块水
+shame gave a damp to her triumph:羞耻给她的胜利浇了一层冷水
+damp a small area with water:用水弄湿一小块区域
 he damped down the fire for the night:他把火浇灭了一夜
 she tried to damp down her feelings of despair:她试图平息她的绝望情绪
 the muted notes should be produced by damping the strings at the seventh position:静音音符应通过在第七位置对琴弦进行阻尼来产生
-concrete structures damp out any vibrations:concrete结构可以抑制任何振动
+concrete structures damp out any vibrations:混凝土结构可以抑制任何振动

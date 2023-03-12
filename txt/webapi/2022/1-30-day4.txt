@@ -31,10 +31,10 @@ inquire					询问，打听
 groundless					无根据的
 \\\\
 
-go for and then bring back (someone or something) for someone:gofor然后为某人带回（某人或某物）
-bring forth (blood or tears):bringout(血或泪)
+go for and then bring back (someone or something) for someone:为某人而去然后带回（某人或某物）
+bring forth (blood or tears):带出（血或泪）
 take a (breath); heave (a sigh).:喘口气；叹息（叹息）。
-achieve (a particular price) when sold:achieve（特定价格）售出时
+achieve (a particular price) when sold:售出时达到（特定价格）
 inflict (a blow or slap) on (someone):对（某人）施加（打击或耳光）
 cause great interest or delight in (someone):引起对（某人）的极大兴趣或喜悦
 the distance travelled by wind or waves across open water.:风或浪穿过开阔水域的距离。
@@ -43,7 +43,7 @@ a stratagem or trick.:计谋或诡计。
 the apparition or double of a living person, formerly believed to be a warning of that person's impending death:一个活着的人的幻影或分身，以前被认为是对该人即将死亡的警告
 fetch |fɛtʃ| Noun/Verb/:拿来,取,获取
 he ran to fetch help:他跑去求救
-kind offers fetched tears from me:kind提供让我感动的眼泪
+kind offers fetched tears from me:善意的提议让我流下了眼泪
 the land could fetch over a million pounds:这片土地可以卖到超过一百万英镑
 that brute Cullam fetched him a wallop:那个野蛮的卡勒姆给了他一记重击
 that air of his always fetches women:他的那种气质总是吸引女人
@@ -56,7 +56,7 @@ lacking social skills; tactless:缺乏社交能力；8
 clumsy |ˈklʌmzi| Adjective/:笨拙,拙
 the cold made his fingers clumsy:寒冷使他的手指变得笨拙
 a very clumsy attempt to park:非常笨拙的停车尝试
-clumsy devices:clumsy设备
+clumsy devices:笨拙的设备
 his choice of words was clumsy:他用词笨拙
 
 the action of establishing something or being established:建立某事或被建立的动作
@@ -74,7 +74,7 @@ he scandalized the Establishment of his day:他震惊了他那个时代的建立
 rumblings of discontent among the medical establishment:医疗机构中的不满情绪
 
 produce and discharge (something, especially gas or radiation):产生和排放（某物，尤其是气体或辐射）
-make (a sound):make（发出声音）
+make (a sound):发出（声音）
 emit |ɪˈmɪt| Verb/:,发出
 even the best cars emit carbon dioxide:即使是最好的汽车也会排放二氧化碳
 she emitted a sound like laughter:她发出笑声
@@ -98,7 +98,7 @@ their involvement in irregular financial dealings:他们参与不正常的金融
 
 an expert or specialist in psychology:心理学专家或专家
 psychologist |sʌɪˈkɒlədʒɪst| Noun/:心理学家
-psychologists are being called in to help employees cope with job losses:psychologists被要求帮助员工应对失业
+psychologists are being called in to help employees cope with job losses:心理学家被要求帮助员工应对失业
 
 a long and distinct period of history:一段漫长而独特的历史时期
 a system of chronology dating from a particular event:一个特定事件的年表系统
@@ -123,7 +123,7 @@ a garden built to celebrate Napoleon's many triumphs:为庆祝拿破仑的许多
 the king returned home in triumph:国王凯旋归来
 ‘Here it is!’ Helen's voice rose in triumph:“来了！”海伦的声音得意洋洋
 the marriage had been a triumph of togetherness:婚姻是团结的胜利
-spectacle has once again triumphed over content:spectacle再次战胜了内容
+spectacle has once again triumphed over content:奇观再次战胜了内容
 she stopped triumphing over Mrs Ward's failure:她不再为沃德夫人的失败而欣喜若狂
 
 the action or process of identifying the presence of something concealed:识别隐藏的东西存在的动作或过程
@@ -150,7 +150,7 @@ an art gallery:一个艺术画廊
 an extensive gallery of colour photographs:一个广泛的彩色照片画廊
 in the minstrels' gallery, a string orchestra plays themes from film soundtracks:在吟游诗人的画廊里，一个弦乐队演奏电影配乐的主题
 he lashed a two-iron on to the green, bringing gasps from the gallery:他用两号铁杆猛击果岭，让观众们倒吸一口凉气
-long underground galleries of 3 km or more made it possible to mine under the sea:long3公里或以上的地下通道使海底采矿成为可能
+long underground galleries of 3 km or more made it possible to mine under the sea:3 公里或更长的地下长廊使海底采矿成为可能
 
 very large in size, quantity, or extent:在大小、数量或范围上非常大
 enormous |ɪˈnɔːməs| Adjective/:巨大的,巨大
@@ -163,7 +163,7 @@ adequate insurance cover is difficult to obtain:充足的保险难以获得
 the price of silver fell to that obtaining elsewhere in the ancient world:白银的价格跌至古代世界其他地方的价格
 
 abandon (a person, cause, or organization) in a way considered disloyal or treacherous:abandon（个人、事业或组织）以一种被认为不忠或背信弃义的方式
-(of people) leave (a place), causing it to appear empty:(ofpeople)离开（一个地方），导致它看起来是空的
+(of people) leave (a place), causing it to appear empty:（人）离开（地方），使它显得空旷
 (of a quality or ability) fail (someone) when most needed:（品质或能力）在最需要时失败（某人）
 illegally leave the armed forces:非法离开军队
 a waterless, desolate area of land with little or no vegetation, typically one covered with sand:一片无水、荒凉的土地，植被很少或没有植被，通常被沙子覆盖
@@ -178,10 +178,10 @@ her luck deserted her:她的运气抛弃了她
 his life in the regiment had been such a hell that he decided to desert:他在团里的生活如此糟糕，以至于他决定逃跑
 the desert of the Sinai peninsula is a harsh place:西奈半岛的沙漠是一个严酷的地方
 a cultural desert:文化沙漠
-overgrazing has created desert conditions:overgrazing创造了沙漠条件
+overgrazing has created desert conditions:过度放牧创造了沙漠条件
 desert wastes:沙漠废物
 
-pilot or fly in an aircraft:pilot或乘坐飞机
+pilot or fly in an aircraft:飞行员或驾驶飞机
 aviate |ˈeɪvɪeɪt| Verb/:飞行,航空
 
 cause (something) to occur in a particular way or to have a particular nature:导致（某事）以特定方式发生或具有特定性质
@@ -217,11 +217,11 @@ cause (someone) to stop feeling distressed or anxious:使（某人）不再感�
 release (someone) from duty by taking their place:释放（某人）代替他们的职务
 bring military support for (a besieged place):为（被围困的地方）带来军事支持
 take (a burden) from someone:从某人那里得到（负担）
-free someone from (a tiresome responsibility):free某人（一项令人厌烦的责任）
+free someone from (a tiresome responsibility):将某人从（令人厌烦的责任）中解放出来
 used ironically to indicate that someone has been deprived of something:用于讽刺地表示某人被剥夺了某些东西
 make less tedious or monotonous by the introduction of variety:通过引入多样性来减少乏味或单调
 used as a formal or euphemistic expression for urination or defecation:用作排尿或排便的正式或委婉表达
-make (something) stand out:make（某事）脱颖而出
+make (something) stand out:使（某物）脱颖而出
 relieve |rɪˈliːv| Verb/:缓解,解除
 the drug was used to promote sleep and to relieve pain:该药用于促进睡眠和缓解疼痛
 he was relieved by her change of tone:他因她语气的变化而松了口气
@@ -232,20 +232,20 @@ she relieved me of the household chores:她让我摆脱了家务活
 he was relieved of his world title:他被解除了世界冠军头衔
 the bird's body is black, relieved only by white under the tail:鸟的身体是黑色的，只有尾巴下面的白色才松了口气
 train your dog to relieve itself where you want it to:训练你的狗在你想让它去的地方放松自己
-the twilight relieving in purple masses the foliage of the island:thetwilight用紫色的团团抚平岛上的树叶
+the twilight relieving in purple masses the foliage of the island:暮色笼罩着岛上的树叶
 
 the quality of being kind and generous:善良大方的品质
 the quality or fact of being plentiful or large:丰富或庞大的质量或事实
 generosity |ˌdʒɛnəˈrɒsɪti| Noun/:慷慨,大方
 I was overwhelmed by the generosity of friends and neighbours:朋友和邻居的慷慨让我不知所措
-diners certainly cannot complain about the generosity of portions:diners当然不能抱怨份量的慷慨
+diners certainly cannot complain about the generosity of portions:食客当然不能抱怨份量大
 
 a person with whom one works in a profession or business:在某一专业或业务中与之共事的人
 colleague |ˈkɒliːɡ| Noun/:同事
 she thanked her colleagues in the federation for their work this year:她感谢联合会同事今年的工作
 
 commit oneself to and begin (an enterprise or responsibility); take on:致力于并开始（一个企业或责任）；承担
-promise to do a particular thing:promise做某件事
+promise to do a particular thing:承诺做某件事
 guarantee or affirm something; give as a formal pledge:保证或确认某事；作为正式承诺给予
 catch up with and pass (another vehicle) while travelling on the inside:在内部行驶时追上并通过（另一辆车）
 undertake |ˌʌndəˈtʊk| Verb/:承担
@@ -256,8 +256,8 @@ he undertook me, at 70 mph, while on his mobile phone:他在手机上以70英里
 
 fitting in well with a person's needs, activities, and plans:很好地适应一个人的需求、活动和计划
 involving little trouble or effort:涉及小麻烦或努力
-situated so as to allow easy access to:situated以便于访问
-helpfully placed or occurring:helpfully放置或发生
+situated so as to allow easy access to:位于以便于访问
+helpfully placed or occurring:有帮助地放置或发生
 convenient |kənˈviːnɪənt| Adjective/:方便的,方便,便利
 I phoned your office to confirm that this date is convenient:我打电话给你们办公室确认这个日期方便
 the new car park will make shopping much more convenient:新停车场让购物更方便
@@ -285,10 +285,10 @@ a great column of smoke:一大团烟雾
 a Spitfire control column:aSpitfire控制柱
 turn to page five, column seven:翻到第五页，第七栏
 list your strengths and weaknesses in two columns:在两列中列出您的优势和劣势
-he has a weekly column in a Sydney newspaper:he在悉尼的一家报纸上有一个每周专栏
+he has a weekly column in a Sydney newspaper:他在悉尼的一家报纸上有一个每周专栏
 a column of tanks moved north-west:一列坦克向西北移动
 a column of 300 to 400 troops:一个由300到400人组成的纵队
-Moran had commanded a column in the war:Moran在战争中指挥过一个纵队
+Moran had commanded a column in the war:莫兰在战争中指挥过一个纵队
 
 readily feeling or showing fondness or tenderness:很容易感觉到或表现出喜爱或温柔
 expressing fondness:表达喜爱
@@ -309,7 +309,7 @@ supply or distribute (something) for use or sale:supply或分发（某物）以�
 supply someone with (something):向某人提供（某物）
 formally send out or make known:正式发出或公开
 come, go, or flow out from:来、去或流出
-result or be derived from:result或衍生自
+result or be derived from:结果或源自
 issue |ˈɪʃ(j)uː| Noun/Verb/:问题,公布,发出,发行,发布
 the issue of racism:种族主义问题
 emotions and intimacy issues that were largely dealt with through alcohol:情绪和亲密问题主要通过酒精处理
@@ -320,10 +320,10 @@ the December issue of the magazine:杂志十二月刊
 the chance of carrying such a scheme to a successful issue was small:将这样的计划带入成功发行的机会很小
 a point of issue:一个问题点
 the earl died without male issue:伯爵死无男性
-licences were issued indiscriminately to any company:licences不分青红皂白地发给任何公司
+licences were issued indiscriminately to any company:许可证被不分青红皂白地发给任何公司
 everyone was issued with a gas mask:每个人都得到了防毒面具
 the minister issued a statement:部长发表声明
-exotic smells issued from a nearby building:exotic气味从附近的建筑物发出
+exotic smells issued from a nearby building:附近建筑物散发出异国情调的气味
 the struggles of history issue from the divided heart of humanity:人类分裂之心的历史斗争
 
 ask for information from someone:向某人询问信息
@@ -331,7 +331,7 @@ ask about the health and well-being of (someone):询问（某人）的健康和�
 ask to see or speak to (someone):要求见（某人）或与（某人）交谈
 investigate; look into:调查；调查
 inquire |ɪnˈkwʌɪə| Verb/:,询问
-Annie inquired after her parents:Annie询问她的父母
+Annie inquired after her parents:安妮问候她的父母
 that was Paul inquiring for you—I told him he couldn't come in:那是保罗在找你——我告诉他他不能进来
 the task of political sociology is to inquire into the causes of political events:政治社会学的任务是探究政治事件的起因
 

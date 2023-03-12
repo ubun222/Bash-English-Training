@@ -40,7 +40,7 @@ a single passage of a bow over the strings of an instrument.:弓在乐器弦上�
 a curved stroke forming part of a letter (e.g. b, p).:构成字母一部分的弯曲笔划（例如b、p）。
 a metal ring forming the handle of a key or pair of scissors.:形成钥匙或剪刀手柄的金属环。
 a side piece or lens frame of a pair of glasses.:一副眼镜的侧片或镜框。
-play (a stringed instrument or music) using a bow:play（弦乐器或音乐）使用弓
+play (a stringed instrument or music) using a bow:用弓演奏（弦乐器或音乐）
 bend the head or upper part of the body as a sign of respect, greeting, or shame:弯曲头部或上半身作为尊重、问候或羞耻的标志
 express (thanks, agreement, or other sentiments) by bending one's head respectfully:表达（感谢、同意或其他情绪）恭敬地低下头
 bend with age or under pressure:bend随年龄增长或承受压力
@@ -119,22 +119,22 @@ points won by the defenders when a declarer fails to make the contract.:当庄�
 penalty |ˈpɛnlti| Noun/:惩罚,罚款,刑罚
 the charge carries a maximum penalty of ten years' imprisonment:该罪名最高可判处十年监禁
 the cold never leaves my bones these days—one of the penalties of age:这些天，寒冷从未离开我的骨头——年龄的惩罚之一
-she only incurred 6.40 penalties for time on cross-country:she只因越野时间而受到6.40的罚款
+she only incurred 6.40 penalties for time on cross-country:她只因越野时间而受到6.40的罚款
 a penalty corner:点球角球庄家未签订合约时，防守方赢得
 
 a verbal or written remark expressing an opinion or reaction:表达意见或反应的口头或书面评论
-discussion, especially of a critical nature, of an issue or event:discussion，尤其是具有关键性质的问题或事件
+discussion, especially of a critical nature, of an issue or event:对问题或事件的讨论，尤其是具有批判性的讨论
 an indirect expression of the views of the writer of a play, book, film, etc.:戏剧、书籍、电影等作者观点的间接表达。
 an explanatory note in a book or other written text:一本书或其他书面文本中的解释性说明
 a written explanation or commentary.:书面解释或评论。
 a piece of text placed within a program to help other users to understand it, which the computer ignores when running the program.:放置在程序中以帮助其他用户理解的一段文字，计算机在运行程序时会忽略它。
 express an opinion or reaction in speech or writing:在演讲或写作中表达意见或反应
 place a piece of explanatory text within (a program) to assist other users:在（程序）中放置一段解释性文字以帮助其他用户
-turn (part of a program) into a comment so that the computer ignores it when running the program:turn（程序的一部分）变成注释，以便计算机在运行程序时忽略它
+turn (part of a program) into a comment so that the computer ignores it when running the program:把（程序的一部分）变成注释，让计算机在运行程序时忽略它
 comment |ˈkɒmɛnt| Noun/Verb/:评论
 you asked for comments on the new proposals:you要求对新提案发表评论
 the exhibition has aroused comment:展览引起了评论
-she denies that the film is a comment on the perils of celebrity:she否认这部电影是对名人危险的评论
+she denies that the film is a comment on the perils of celebrity:她否认这部电影是对名人危险的评论
 additional notes and comments:附加说明和评论
 the only way to solve the problem is to code for the hardware directly—just make sure that it's clearly commented:解决问题的唯一方法是直接为硬件编写代码——只要确保它被明确注释
 you could try commenting out that line:you可以尝试注释掉该行
@@ -144,7 +144,7 @@ greater or more important; main:更大或更重要；主要的
 (of a surgical operation) serious or life-threatening:（外科手术的）严重或危及生命的
 (of a scale) having intervals of a semitone between the third and fourth, and seventh and eighth degrees.:（音阶）在三度和四度以及七度和八度之间有一个半音的音程。
 (of an interval) equivalent to that between the tonic and another note of a major scale, and greater by a semitone than the corresponding minor interval:（一个音程）相当于主音和另一个大调音阶之间的音，比相应的小音程大半音
-(of a key) based on a major scale, tending to produce a bright or joyful effect:(ofakey)基于大调音阶，倾向于产生明亮或愉悦的效果
+(of a key) based on a major scale, tending to produce a bright or joyful effect:（键的）基于大音阶的，倾向于产生明亮或愉快的效果
 (appended to a surname in public schools) indicating the elder of two brothers.:（附在公立学校的姓氏后）表示两个兄弟中的长者。
 (of a term) occurring as the predicate in the conclusion of a categorical syllogism.:（一个词项）作为谓词出现在直言三段论的结论中。
 (of a premise) containing the major term in a categorical syllogism.:（前提的）包含直言三段论中的主要词项。
@@ -165,10 +165,10 @@ he had to undergo major surgery:他不得不接受大手术
 C to E is a major third:C到E是大三度
 Prelude in G Major:G大调前奏曲
 a trumpet major:小号专业
-the majors have swept up the smaller independent companies in licensing deals:themajors在许可交易中席卷了较小的独立公司
+the majors have swept up the smaller independent companies in licensing deals:大公司在许可交易中席卷了较小的独立公司
 many students would ignore courses outside their major:许多学生会忽略他们专业以外的课程
 a math major:数学专业
-South was anxious to mention his four-card major and bid one spade:South急于提到他的四张高花并出价一黑桃
+South was anxious to mention his four-card major and bid one spade:South 急于提及他的四张高花并叫一个黑桃
 I was trying to decide if I should major in drama or English:我正在努力决定我应该主修戏剧还是英语
 
 a thing that is or may be chosen:一个被选择或可能被选择的东西
@@ -178,15 +178,15 @@ buy or sell an option on:买入或卖出期权
 option |ˈɒpʃn| Noun/Verb/:选项
 choose the cheapest options for supplying energy:选择最便宜的能源供应方式
 she was given the option of resigning or being dismissed:她可以选择辞职或被解雇
-Columbia Pictures has an option on the script:ColumbiaPictures在剧本上有一个选项
+Columbia Pictures has an option on the script:哥伦比亚影业对剧本有选择权
 his second script will have been optioned by the time you read this:他的第二个脚本将在您阅读本文时被选中
 
 partcipate in social activities; mix socially with others:参加社交活动；与他人交往
-make (someone) behave in a way that is acceptable to their society:make（某人）以他们的社会可以接受的方式行事
+make (someone) behave in a way that is acceptable to their society:使（某人）以社会可接受的方式行事
 organize according to the principles of socialism:按照社会主义原则组织
 socialize |ˈsəʊʃəlʌɪz| Verb/:社交,社会化
 he didn't mind socializing with his staff:他不介意与他的员工交往
-newcomers are socialized into orthodox ways:newcomers以正统的方式被社会化
+newcomers are socialized into orthodox ways:新人被社会化为正统的方式
 socializing the economy began by nationalizing industries:社会化经济始于国有化工业
 
 a writing desk with drawers and typically an angled top opening downwards to form a writing surface.:一个带抽屉的写字台，通常有一个倾斜的顶部向下开口以形成一个书写表面。
@@ -202,14 +202,14 @@ an annual or other regular estimate of national revenue and expenditure put forw
 the amount of money needed or available for a purpose:某目的所需或可用的金额
 a quantity of written or printed material.:一定数量的书面或印刷材料。
 allow or provide a particular amount of money in a budget:允许或在预算中提供特定数量的资金
-provide (a sum of money) for a particular purpose from a budget:provide（一笔钱）用于预算中的特定目的
+provide (a sum of money) for a particular purpose from a budget:从预算中为特定目的提供（一笔钱）
 inexpensive:便宜
 budget |ˈbʌdʒɪt| Adjective/Noun/Verb/:预算,制订预算,便宜的
 keep within the household budget:保持家庭预算
 the government had put forward the biggest tax increases for any Budget in history:政府提出了历史上任何预算案中最大幅度的增税
 they have a limited budget:他们的预算有限
 the university is budgeting for a deficit:大学正在为赤字做预算
-the council proposes to budget £100,000 to provide grants:the理事会提议预算100,000英镑以提供赠款
+the council proposes to budget £100,000 to provide grants:该委员会提议预算 100,000 英镑以提供赠款
 a budget guitar:a廉价吉他
 
 make a light explosive sound:发出轻微的爆炸声
@@ -223,19 +223,19 @@ release, open, or engage (something) quickly or suddenly:快速或突然释放�
 (of a person's eyes) open wide and appear to bulge, especially with surprise:（人的眼睛）睁得大大的，显得鼓鼓的，尤指惊讶
 appear brighter or more striking in juxtaposition with something of a different or complementary colour:与不同或互补色的东西并置时显得更亮或更醒目
 take or inject (a drug):服用或注射（一种药物）
-pawn (something):pawn（某事）
+pawn (something):典当（东西）
 pop |pɒp| Adjective/Adverb/Noun/Residual/Verb/:流行音乐,发出爆裂声,通俗的,砰地
-corks popped and glasses tinkled:corks爆裂，眼镜叮当作响
+corks popped and glasses tinkled:软木塞爆裂，玻璃杯叮当作响
 they were popping balloons with darts:他们用飞镖吹气球
 my ears popped in the lift:我的耳朵突然在电梯里
-the hot-air popper pops 4 quarts of popcorn in 5 minutes:thehot-airpopper在5分钟内爆出4夸脱爆米花
-she popped in to see if she could help:she突然出现，看看她能不能帮忙
+the hot-air popper pops 4 quarts of popcorn in 5 minutes:热风爆米花可在 5 分钟内爆出 4 夸脱的爆米花
+she popped in to see if she could help:她突然出现，看看她能不能帮忙
 he popped his head around the door:他从门口探出头来
 a head popped out of the back of the wagon:一个头从马车后部弹出
 he pulled a can of beer from the refrigerator and popped its tab:他从冰箱里拿出一罐啤酒，打开标签
 the man's eyes popped in disbelief:男人难以置信的瞪大了眼睛
-she added a slick of red lipstick to make the outfit pop:she加了一点红色口红，让整套造型流行起来
-Williams had spent his life hitting the bottle and popping pills:Williams一生都在打瓶子和爆药
+she added a slick of red lipstick to make the outfit pop:她加了一点红色口红，让整套造型流行起来
+Williams had spent his life hitting the bottle and popping pills:威廉姆斯一生都在打瓶子和爆药
 I wouldn't ever sell it—I popped it:我永远不会卖掉它——我把它扔了
 
 a place where someone or something is located or has been put:某人或某物所在或已放置的地方
@@ -255,7 +255,7 @@ a person's point of view or attitude towards something:一个人对某事的观�
 the extent to which an investor, dealer, or speculator has made a commitment in the market by buying or selling securities:投资者、交易商或投机者通过买卖证券在市场上作出承诺的程度
 a proposition laid down or asserted; a tenet or assertion.:提出或主张的命题；25
 put or arrange (someone or something) in a particular place or way:put或安排（某人或某事）在特定的地方或方式
-promote (a product, service, or business) within a particular sector of a market, or as the fulfilment of that sector's specific requirements:promote（产品、服务或业务）在市场的特定部门内，或满足该部门的特定要求
+promote (a product, service, or business) within a particular sector of a market, or as the fulfilment of that sector's specific requirements:在市场的特定部门内推广（产品、服务或业务），或满足该部门的特定要求
 portray or regard (someone) as a particular type of person:描绘或将（某人）视为特定类型的人
 position |pəˈzɪʃn| Noun/Verb/:位置,安置,定位
 the distress call had given the ship's position:求救信号给出了船的位置
@@ -264,10 +264,10 @@ the guns were shelling the German positions:枪炮轰炸德军阵地
 he moved himself into a reclining position:他把自己挪到斜躺的位置
 be familiar with the first six positions across the four strings:熟悉四个字符串的前六个位置
 the company's financial position is grim:公司财务状况严峻
-sleek motor launches jostled for position:sleek电机发射争夺位置
+sleek motor launches jostled for position:时尚的发动机发射争夺位置
 he made up ground to finish in second position:他以第二名的成绩完成比赛
 a woman of supposed wealth and position:一个所谓的财富和地位的女人
-she retired from her position as marketing director:she从营销总监的职位上退休
+she retired from her position as marketing director:她从营销总监的职位上退休
 he looks best in central midfield, his own preferred position:他看起来最好的中场，他自己的首选位置
 I’ll never accept his position on censorship:我永远不会接受他的审查立场
 traders were covering short positions:traders正在回补空头头寸
@@ -290,12 +290,12 @@ a large or formal social event or ceremony:大型或正式的社交活动或仪�
 work or operate in a proper or particular way:以适当或特定的方式工作或操作
 fulfil the purpose or task of (a specified thing):完成（特定事物）的目的或任务
 function |ˈfʌŋ(k)ʃn| Noun/Verb/:功能,正常运转,函数
-bridges perform the function of providing access across water:bridges具有跨水通道的功能
-building designs that prioritize style over function:building设计优先考虑风格而不是功能
+bridges perform the function of providing access across water:桥梁执行提供跨水通道的功能
+building designs that prioritize style over function:风格优先于功能的建筑设计
 the function (bx + c):函数(bx+c)
 the magnetic field has varied as a function of time:磁场随时间变化
 the carboxyl group was replaced by functions that included tetrazolyl-, sulphonyl-, and phosphoryl-:羧基被四唑基、磺酰基和磷酰基等官能团取代
-class shame is a function of social power:class羞耻是社会权力的一种功能
+class shame is a function of social power:阶级耻辱是社会权力的一种功能
 he was obliged to attend party functions:他必须参加聚会活动
 her liver is functioning normally:她的肝脏功能正常
 the museum intends to function as an educational and study centre:博物馆打算作为一个教育和学习中心
@@ -308,14 +308,14 @@ his mouth fell open as he perceived the truth:他看到真相后张大了嘴巴
 he perceived the faintest of flushes creeping up her neck:他察觉到她脖子上最微弱的红晕
 if Guy does not perceive himself as disabled, nobody else should:如果盖伊不认为自己是残疾人，其他人也不应该
 
-retain for future use:retain以备将来使用
+retain for future use:保留以备将来使用
 use or engage in something only in or at (a particular circumstance or time):仅在（特定情况或时间）或在（特定情况或时间）使用或从事某事
 (in church use) retain (a portion of the consecrated elements) after Mass for communion of the sick or as a focus for devotion.:（在教堂使用）在弥撒后保留（部分奉献的元素）以供病人共融或作为灵修的焦点。
 retain or hold (a right or entitlement), especially by formal or legal stipulation:保留或持有（权利或权利），尤其是通过正式或法律规定
 arrange for (a room, seat, ticket, etc.) to be kept for the use of a particular person:安排（房间、座位、门票等）留给特定的人使用
 refrain from delivering (a judgement or decision) without due consideration or evidence:不要在没有适当考虑或证据的情况下交付（判决或决定）
 a supply of a commodity not needed for immediate use but available if required:一种不需要立即使用但在需要时可用的商品
-funds kept available by a bank, company, or government:funds由银行、公司或政府保留
+funds kept available by a bank, company, or government:由银行、公司或政府提供的资金
 a part of a company's profits added to capital rather than paid as a dividend:公司利润的一部分添加到资本中，而不是作为股息支付
 a body of troops withheld from action to reinforce or protect others, or additional to the regular forces and available in an emergency:一个部队被扣留行动以加强或保护他人，或补充常规部队并在紧急情况下可用
 a member of the military reserve:一名预备役军人
@@ -352,7 +352,7 @@ all rights reserved | 版权所有,保留所有权利
 the action or process of innovating:创新的行动或过程
 a new method, idea, product, etc.:一种新的方法、想法、产品等。
 innovation |ˌɪnəˈveɪʃn| Noun/:革新,创新
-innovation is crucial to the continuing success of any organization:innovation对任何组织的持续成功都至关重要
+innovation is crucial to the continuing success of any organization:创新对于任何组织的持续成功都至关重要
 technological innovations designed to save energy:旨在节约能源的技术创新
 
 quick to notice any unusual and potentially dangerous or difficult circumstances; vigilant:快速发现任何异常和潜在危险或困难的情况；6
@@ -367,7 +367,7 @@ an alert police officer discovered a lorry full of explosive:警惕的警察发�
 she remained active and alert until well into her eighties:她一直保持活跃和警觉，直到八十多岁
 security forces are on the alert for an upsurge in violence:安全部队对暴力升级保持警惕
 a bomb alert:炸弹警报
-traffic was halted during the alert:traffic在警报期间停止
+traffic was halted during the alert:警报期间交通中断
 a vibrating alert is a discreet alternative to ringtones:a振动警报是铃声的谨慎替代品
 he alerted people to the dangers of smoking:他提醒人们注意吸烟的危险智力活跃
 
@@ -382,12 +382,12 @@ record (something) in written, photographic, or other form:以书面、照片或
 support or accompany with documentation:support或随附文档
 document |ˈdɒkjʊm(ə)nt| Noun/Verb/:文档,记录,文件,文献
 the photographer spent years documenting the lives of miners:摄影师花了数年时间记录矿工的生活
-teaching resources that are documented clearly and comprehensively:teaching资源清晰、全面地记录在案
+teaching resources that are documented clearly and comprehensively:清晰全面记录的教学资源
 
 describe the distinctive nature or features of:描述独特的性质或特征
 (of a feature or quality) be typical or characteristic of:（一个特征或质量的）是典型的或特征的
 characterize |ˈkarɪktərʌɪz| Verb/:,刻画
-she characterized the period as the decade of revolution:she将这一时期描述为革命的十年
+she characterized the period as the decade of revolution:她将这一时期描述为革命的十年
 the disease is characterized by weakening of the immune system:该病的特点是免疫系统减弱
 
 successfully bring about or reach (a desired objective or result) by effort, skill, or courage:通过努力、技巧或勇气成功实现或达到（期望的目标或结果）
@@ -403,7 +403,7 @@ a person's manner of speaking to someone else:一个人与别人交谈的方式
 courteous or amorous approaches to someone:对某人有礼貌或多情的态度
 skill, dexterity, or readiness:技能、灵巧或准备
 write the name and address of the intended recipient on (an envelope, letter, or parcel):在（信封、信件或包裹）上写下预期收件人的姓名和地址
-speak to (a person or an assembly):speakto（一个人或一个集会）
+speak to (a person or an assembly):与（一个人或一个集会）交谈
 name someone (in the specified way) when talking to them:与某人交谈时（以指定的方式）命名某人
 say or write remarks or a protest to:say或写评论或抗议
 think about and begin to deal with (an issue or problem):思考并开始处理（一个问题或问题）
@@ -437,11 +437,11 @@ divine influence, especially that supposed to have led to the writing of the Bib
 the drawing in of breath; inhalation:吸气；吸入
 an act of breathing in; an inhalation.:呼吸的动作；吸入。
 inspiration |ˌɪnspɪˈreɪʃn| Noun/:灵感
-Helen had one of her flashes of inspiration:Helen灵光一现
+Helen had one of her flashes of inspiration:海伦突然灵光一现
 a rare moment of inspiration in an otherwise dull display:在平淡无奇的展示中难得的灵感时刻
 he is an inspiration to everyone:他是每个人的灵感来源
 then I had an inspiration:然后我有了灵感
-crackling sounds are heard in the stethoscope on inspiration:crackling声音在听诊器中听到灵感
+crackling sounds are heard in the stethoscope on inspiration:吸气时听诊器中听到噼啪声
 
 a business or organization providing a particular service on behalf of another business, person, or group:代表另一个企业、个人或团体提供特定服务的企业或组织
 a department or body providing a specific service for a government or other organization:为政府或其他组织提供特定服务的部门或机构
@@ -450,10 +450,10 @@ a thing or person that acts to produce a particular result:产生特定结果的
 agency |ˈeɪdʒ(ə)nsi| Noun/:机构,代理机构
 an advertising agency:一家广告公司
 the Environmental Protection Agency:环境保护署
-canals carved by the agency of running water:canals由自来水机构雕刻
+canals carved by the agency of running water:由流水代理开凿的运河
 the movies could be an agency moulding the values of the public:themovies可以成为塑造公众价值观的机构
 
-create or prepare methodically:create或有条不紊地准备
+create or prepare methodically:有条不紊地创建或准备
 express (an idea) in a concise or systematic way:以简洁或系统的方式表达（一个想法）
 formulate |ˈfɔːmjʊleɪt| Verb/:制定,制订
 the government has formulated a policy on waste management:政府制定了废物管理政策
@@ -465,14 +465,14 @@ the inescapable death of a person:一个人不可避免的死亡
 three goddesses who presided over the birth and life of humans. Each person's destiny was thought of as a thread spun, measured, and cut by the three Fates, Clotho, Lachesis, and Atropos.:主持人类诞生和生活的三位女神。每个人的命运都被认为是由三个命运，克洛索，拉克西斯和阿特罗波斯纺织、测量和切割的线。
 be destined to happen, turn out, or act in a particular way:注定会以特定的方式发生、结果或行动
 fate |feɪt| Noun/Verb/:命运
-fate decided his course for him:fate为他决定了他的课程
+fate decided his course for him:命运为他决定了他的航向
 he stared at the faces of the committee, trying to guess his fate:他盯着委员会的脸，试图猜测他的命运
 the guards led her to her fate:守卫带领她走向命运
 
 the mass or line of foam formed by waves breaking on a seashore or reef:海浪在海岸或礁石上破碎形成的泡沫块或泡沫线
 a spell of surfing:冲浪的咒语
 stand or lie on a surfboard and ride on a wave towards the shore:站在或躺在冲浪板上，乘着海浪冲向岸边
-ride (a wave) towards the shore on a surfboard:ride（波浪）在冲浪板上向岸边
+ride (a wave) towards the shore on a surfboard:乘着冲浪板（浪）向岸边冲去
 ride on the roof or outside of a fast-moving vehicle, typically a train, for excitement:骑在车顶或快速行驶的车辆外，通常是火车，以获得刺激
 move from page to page or site to site on (the World Wide Web):在（万维网）上从页面移动到页面或站点到站点
 surf |səːf| Noun/Verb/:cober,surf
@@ -485,14 +485,14 @@ the device allows you to surf the net and send emails:该设备允许您上网�
 
 guide or control the movement of (a vehicle, vessel, or aircraft), for example by turning a wheel or operating a rudder:一些汽车拥有四轮转向
 (of a vehicle, vessel, or aircraft) be guided in a specified direction:（车辆、船只或飞机的）被引导到指定的方向
-follow (a course) in a specified direction:follow（一门课程）在指定的方向
+follow (a course) in a specified direction:按照指定的方向遵循（路线）
 guide the movement or course of:引导运动或路线
 the type of steering of a vehicle:车辆的转向方式
 a piece of advice or information concerning the development of a situation:关于事态发展的建议或信息
 steer |stɪə| Noun/Verb/:引导,驾驭
 he steered the boat slowly towards the busy quay:他将船缓缓驶向繁忙的码头
 the ship steered into port:船驶入港口
-the fishermen were steering a direct course for Koepang:渔民正在为Koepang指导直接路线
+the fishermen were steering a direct course for Koepang:渔民们正朝着 Koepang 的方向前进
 he had steered her to a chair:他把她带到椅子上
 some cars boast four-wheel steer:一些汽车拥有四轮转向
 the need for the NHS to be given a clear steer as to its future direction:NHS需要明确指导其未来方向

@@ -35,13 +35,13 @@ enormous					庞大的
 reacting quickly and positively:反应迅速而积极
 responding readily and with interest:迅速而有兴趣地回应
 denoting or relating to a website whose page design changes automatically according to the size of the screen on which it is viewed:表示或涉及页面设计根据查看屏幕的大小自动更改的网站
-in response, answering:inresponse,回答
+in response, answering:作为回应，回答
 (of a section of liturgy) using responses.:（礼仪的一部分）使用回应。
 responsive |rɪˈspɒnsɪv| Adjective/:反应灵敏,有反应
 a flexible service that is responsive to changing social patterns:一种对不断变化的社会模式做出反应的灵活服务
 our most enthusiastic and responsive students:我们最热情和反应最快的学生
 a responsive site that would work on PCs and tablets equally well:一个在PC和平板电脑上同样适用的响应式网站
-I'm distracted by a nibble on my line: I jig it several times, but there is no responsive tug:我的绳子被蚕食分散了注意力-
+I'm distracted by a nibble on my line:我被我的线路上的蚕食分心了
 
 a sound or sounds caused by the reflection of sound waves from a surface back to the listener:a声音或由声波从表面反射回听者引起的声音
 a reflected radio or radar beam.:反射的无线电波或雷达波束。
@@ -54,17 +54,17 @@ used in names of newspapers:用于报纸名称
 a code word representing the letter E, used in radio communication.:代表字母E的代码字，用于无线电通讯。
 a play by a defender of a higher card in a suit followed by a lower one in a subsequent trick, used as a signal to request a further lead of that suit by their partner.:a防守者在一墩花色中先打大牌，然后在随后的一墩中打出小牌，作为请求其伙伴进一步引牌的信号。
 (of a sound) be repeated or reverberate after the original sound has stopped:（声音的）在原始声音停止后重复或回响
-(of a place) resound with or reflect back a sound:(ofaplace)回响或反射声音
-repeat (someone's words or opinions), typically to express agreement:repeat（某人的话或意见），通常表示同意
+(of a place) resound with or reflect back a sound:（地方）回响或反射回声音
+repeat (someone's words or opinions), typically to express agreement:
 (of an object or event) be reminiscent of or have shared characteristics with:（对象或事件的）让人联想到或具有共同特征
 send a copy of (an input signal or character) back to its source or to a screen for display:将（输入信号或字符）的副本发送回其源或屏幕以供显示
 (of a defender) play a higher card followed by a lower one in the same suit, as a signal to request one's partner to lead that suit.:（防守者）在同一花色中先打出一张大牌，再打出一张小牌，作为一个信号，要求自己的伙伴领头该花色。
-a nymph deprived of speech by Hera in order to stop her chatter, and left able only to repeat what others had said.:anymph被Hera剥夺了言语以停止她的喋喋不休，并且只能重复别人说过的话。
+a nymph deprived of speech by Hera in order to stop her chatter, and left able only to repeat what others had said.:一位仙女被赫拉剥夺了言语以停止她的喋喋不休，并且只能重复别人所说的话。
 echo |ˈɛkəʊ| Noun/Verb/:回声,呼应
-the walls threw back the echoes of his footsteps:thewalls反射了他脚步的回声
+the walls threw back the echoes of his footsteps:墙壁反射回了他脚步的回声
 his love for her found an echo in her own feelings:他对她的爱在她自己的感受中找到了回声
 the cheese has a sharp rich aftertaste with echoes of salty, earthy pastures:奶酪回味浓郁，回荡着咸咸的泥土牧场
-Clarendon, whom they reckoned the faithful echo of their master's intentions:Clarendon，他们认为他忠实地反映了他们主人的意图
+Clarendon, whom they reckoned the faithful echo of their master's intentions:克拉伦登，他们认为他忠实地反映了他们主人的意图
 the South Wales Echo:南威尔士回声
 their footsteps echoed on the metal catwalks:他们的脚步声回荡在金属走秀台上
 the house echoed with shouts:房子里回荡着叫喊声
@@ -85,7 +85,7 @@ a major section of an organization, with responsibility for a particular area of
 a group of army brigades or regiments:一组陆军旅或团
 a number of teams or competitors grouped together in a sport for competitive purposes according to such characteristics as ability or weight:根据能力或体重等特征，为了竞争目的而在一项运动中分组的若干队或参赛者
 a part of a county, country, or city defined for administrative or political purposes:出于行政或政治目的而定义的县、国家或城市的一部分
-a part of a county or borough forming a parliamentary constituency:apartofacountyorboroughformingaparliamentary选区
+a part of a county or borough forming a parliamentary constituency:组成议会选区的县或自治市镇的一部分
 a principal taxonomic category that ranks above class and below kingdom, equivalent to the phylum in zoology.:类以上界以下的主要分类学范畴，相当于动物学中的门。
 any subsidiary category between major levels of classification.:主要分类级别之间的任何附属类别。
 a partition:一个分区
@@ -101,7 +101,7 @@ a retail division:a零售部门
 an infantry division:一个步兵师
 the club will finish second in Division One:俱乐部将在一级联赛中获得第二名
 a licensing division of a district:某区发牌处
-he was MP for the Lancaster division of North Lancashire:he是北兰开夏郡兰开斯特分部的议员
+he was MP for the Lancaster division of North Lancashire:他是北兰开夏郡兰开斯特分部的议员
 the villagers lived in a communal building and there were no solid divisions between neighbours:村民们住在公共建筑里，邻居之间没有明显的隔阂
 
 the male sex or the female sex, especially when considered with reference to social and cultural differences rather than biological ones, or one of a range of other identities that do not correspond to established ideas of male and female:男性或女性，尤其是当考虑到社会和文化差异而不是生理差异时，或者与男性和女性的既定观念不符的一系列其他身份之一
@@ -112,7 +112,7 @@ the property (in nouns and related words) of belonging to a grammatical gender:�
 gender |ˈdʒɛndə| Noun/:性别,男女
 the singer has opted to keep the names and genders of her twins private:这位歌手选择对她双胞胎的名字和性别保密
 social interaction between the genders:两性之间的社会互动
-video ads will target users based only on age and gender:video广告将仅根据年龄和性别定位用户
+video ads will target users based only on age and gender:视频广告将仅根据年龄和性别定位用户
 determiners and adjectives usually agree with the noun in gender and number:限定词和形容词通常与名词的性和数一致
 
 a mutual relationship or connection between two or more things:两个或多个事物之间的相互关系或联系
@@ -120,7 +120,7 @@ the process of establishing a relationship or connection between two or more thi
 interdependence of variable quantities.:变量的相互依赖性。
 a quantity measuring the extent of the interdependence of variable quantities.:a量度变量相互依赖的程度。
 correlation |ˌkɒrɪˈleɪʃn| Noun/:相关性,关联
-research showed a clear correlation between recession and levels of property crime:research表明经济衰退与财产犯罪水平之间存在明显的相关性
+research showed a clear correlation between recession and levels of property crime:研究表明经济衰退与财产犯罪水平之间存在明显的相关性
 the increasingly similar basis underlying national soil maps allows correlation to take place more easily:国家土壤地图的基础越来越相似，使得相关性更容易发生
 
 a person killed or injured in a war or accident:在战争或事故中死亡或受伤的人
@@ -130,12 +130,12 @@ the department of a hospital providing immediate treatment for emergency cases.:
 casualty |ˈkaʒ(j)ʊlti| Noun/:伤亡,人员伤亡
 the shelling caused thousands of civilian casualties:炮击造成数千平民伤亡
 the building industry has been one of the casualties of the recession:建筑业是经济衰退的受害者之一
-he went to casualty to have a cut stitched:he去伤员处缝合伤口
+he went to casualty to have a cut stitched:他去伤员处缝合伤口
 the Insurers acquire all the Policyholder's rights in respect of the casualty which caused the loss:保险人获得保单持有人对造成损失的事故的所有权利
 
 suitable or proper in the circumstances:适合或适当的情况
-take (something) for one's own use, typically without the owner's permission:take(something)供自己使用，通常未经所有者许可
-devote (money or assets) to a special purpose:devote（金钱或资产）用于特殊目的
+take (something) for one's own use, typically without the owner's permission:拿（东西）供自己使用，通常未经所有者许可
+devote (money or assets) to a special purpose:将（金钱或资产）用于特殊目的
 appropriate |əˈprəʊprɪət| Adjective/Verb/:合适的,挪用,适当,合适,适当的
 this isn't the appropriate time or place:这不是合适的时间或地点
 the accused had appropriated the property:被告挪用了财产
@@ -146,18 +146,18 @@ there can be problems in appropriating funds for legal expenses:在为法律费�
 capable of making fine distinctions:能够做出细微的区分
 arranged in an ingenious and elaborate way:巧妙而精心地安排
 making use of clever and indirect methods to achieve something:利用巧妙和间接的方法来实现某事
-crafty, cunning:crafty,狡猾
+crafty, cunning:狡猾的，狡猾的
 subtle |ˈsʌtl| Adjective/:微妙的,微妙,细微,细微的
 his language expresses rich and subtle meanings:他的语言表达了丰富而微妙的含义
 subtle lighting:微妙的灯光
 a subtle mind:一个微妙的头脑
 the German plan was simple yet subtle:德国的计划简单而微妙
-he tried a more subtle approach:he尝试了一种更微妙的方法
+he tried a more subtle approach:他尝试了一种更微妙的方法
 the subtle fiend dissembled:狡猾的恶魔伪装
 
-expressing adverse or disapproving comments or judgements:expressingadverseordisappring评论或判断
+expressing adverse or disapproving comments or judgements:表达反对或反对意见或判断
 expressing or involving an analysis of the merits and faults of a work of literature, music, or art:表达或涉及对文学、音乐或艺术作品优缺点的分析
-(of a text) incorporating a detailed and scholarly analysis and commentary:(ofatext)包含详细的学术分析和评论
+(of a text) incorporating a detailed and scholarly analysis and commentary:（文本的）包含详细的学术分析和评论
 involving the objective analysis and evaluation of an issue in order to form a judgement:涉及对一个问题的客观分析和评价，以形成判断
 (of a situation or problem) having the potential to become disastrous, at a point of crisis:（情况或问题）有可能成为灾难性的，在危机时刻
 extremely ill and at risk of death:重病并有死亡风险
@@ -166,27 +166,27 @@ relating to or denoting a point of transition from one state to another:关于�
 (of a nuclear reactor or fuel) maintaining a self-sustaining chain reaction:（核反应堆或燃料的）维持自我维持的链式反应
 critical |ˈkrɪtɪkl| Adjective/:批判的,危急,临界,关键的
 I was very critical of the previous regime:我对前政权很挑剔
-she never won the critical acclaim she sought:she从来没有赢得她所寻求的评论界的赞誉
+she never won the critical acclaim she sought:她从来没有赢得她所寻求的评论界的赞誉
 a critical edition of a Bach sonata:巴赫奏鸣曲的评论版
-professors often find it difficult to encourage critical thinking amongst their students:professors经常发现很难在学生中鼓励批判性思维
+professors often find it difficult to encourage critical thinking amongst their students:教授们经常发现很难在学生中鼓励批判性思维
 the floodwaters had not receded and the situation was still critical:洪水未退，形势依然严峻
-she was critical but stable in Middlesbrough General Hospital:she在米德尔斯堡总医院病情危重但病情稳定
+she was critical but stable in Middlesbrough General Hospital:她在米德尔斯堡总医院病情危重但病情稳定
 temperature is a critical factor in successful fruit storage:温度是成功储藏水果的关键因素
 if the density is less than a certain critical value the gravitational attraction will be too weak to halt the expansion:如果密度小于某个临界值，引力就会太弱而无法停止膨胀
-the reactor is due to go critical in October:thereactor将于10月进入临界状态
+the reactor is due to go critical in October:该反应堆将在 10 月进入临界状态
 
 as another option or possibility:作为另一种选择或可能性
 alternatively |ɔːlˈtəːnətɪvli| Adverb/:或者,可选择地
 alternatively, you may telephone us direct if you wish:或者，如果您愿意，可以直接给我们打电话
 
-closely acquainted, familiar:closelyacquainted,熟悉的
+closely acquainted, familiar:熟悉的，熟悉的
 (of a place or setting) having a cosy and private or relaxed atmosphere:（地方或环境）具有舒适、私密或轻松的氛围
-involving very close connection:involving非常紧密的联系
-(of knowledge) detailed or thorough:(ofknowledge)详细的或彻底的
+involving very close connection:
+(of knowledge) detailed or thorough:（知识的）详细的或彻底的
 private and personal:私人和个人
 having a sexual relationship:发生性关系
 a very close friend:一个非常亲密的朋友
-state or make known:state或makeknown
+state or make known:陈述或公开
 imply or hint:暗示或暗示
 intimate |ˈɪntɪmət| Adjective/Noun/Verb/:亲密的,暗示,知己,亲密,贴心
 intimate friends:亲密的朋友
@@ -196,8 +196,8 @@ an intimate knowledge of the software:对软件有深入的了解
 intimate details of his sexual encounters:他性接触的亲密细节
 they plan to wait before becoming intimate with one another:他们计划在彼此亲密之前等待
 his circle of intimates:他的知心朋友圈
-Mr Hutchison has intimated his decision to retire:Hutchison先生已暗示他决定退休
-he had already intimated that he might not be able to continue:he已经暗示他可能无法继续
+Mr Hutchison has intimated his decision to retire:和记黄埔先生已暗示他退休的决定
+he had already intimated that he might not be able to continue:他已经暗示他可能无法继续
 
 the action or process of withdrawing from involvement in an activity, situation, or group:退出活动、情况或团体的行为或过程
 the withdrawal of military forces or the renunciation of military or political influence in an area:撤军或放弃在一个地区的军事或政治影响
@@ -206,9 +206,9 @@ the breaking off of an engagement to be married.:解除婚约。
 emotional detachment, objectivity:情感超然，客观
 disengagement |ˌdɪs(ɪ)nˈɡeɪdʒm(ə)nt| Noun/:脱离接触,分离
 young people's disengagement from education and learning is an issue of concern:年轻人脱离教育和学习是一个值得关注的问题
-Europe must look to her own defence as a consequence of the American disengagement:Europe必须考虑自己的防御作为美国脱离接触的结果
+Europe must look to her own defence as a consequence of the American disengagement:由于美国脱离接触，欧洲必须着眼于自己的防御
 the mechanism prevents accidental disengagement:机制防止意外脱离
-contemporary criticism can afford neutral disengagement:contemporary批评可以承受中立的脱离接触
+contemporary criticism can afford neutral disengagement:当代批评可以承受中立的脱离接触
 
 lie, sit, or stand in a relaxed or lazy way:以放松或懒散的方式躺着、坐着或站着
 a public room in a hotel, theatre, or club in which to sit and relax:酒店、剧院或俱乐部的公共房间，供您坐下来放松
@@ -225,39 +225,39 @@ a movement of part of the body, especially a hand or the head, to express an ide
 an action performed to convey a feeling or intention:为传达感觉或意图而执行的动作
 an action performed for show in the knowledge that it will have no effect:在明知不会有任何效果的情况下为表演而执行的动作
 make a gesture:做个手势
-direct (someone) somewhere by means of a gesture:direct(someone)某处通过一个手势
-express (something) with a gesture or gestures:express(something)withagestureor手势
+direct (someone) somewhere by means of a gesture:用手势指示（某人）某处
+express (something) with a gesture or gestures:
 gesture |ˈdʒɛstʃə| Noun/Verb/:手势,姿态
 Alex made a gesture of apology:亚历克斯做了一个道歉的手势
-Maggie was touched by the kind gesture:Maggie被善意的举动感动了
+Maggie was touched by the kind gesture:玛吉被善意的举动感动了
 I hope the amendment will not be just a gesture:希望修正案不只是一个姿态
-she gestured meaningfully with the pistol:she用手枪做了一个意味深长的手势
-he gestured her towards a chair:he向她示意一把椅子
-he gestured his dissent at this:he对此表示反对
+she gestured meaningfully with the pistol:她用手枪做了一个意味深长的手势
+he gestured her towards a chair:他向她示意一把椅子
+he gestured his dissent at this:他对此表示反对
 
-handwriting as distinct from print, written characters:handwriting有别于打印、手写字符
+handwriting as distinct from print, written characters:手写不同于打印、书面字符
 printed type imitating handwriting.:印刷体模仿手写。
 writing using a particular alphabet:使用特定字母书写
 the written text of a play, film, or broadcast.:戏剧、电影或广播的书面文本。
 an automated series of instructions carried out in a specific order.:按特定顺序执行的一系列自动指令。
 the social role or behaviour appropriate to particular situations that an individual absorbs through cultural influences and association with others.:个人通过文化影响和与他人交往吸收的适合特定情况的社会角色或行为。
 a candidate's written answers in an examination.:考生在考试中的书面答案。
-write a script for (a play, film, or broadcast):writeascriptfor(aplay,film,orbroadcast)
+write a script for (a play, film, or broadcast):为（戏剧、电影或广播）写剧本
 a doctor's prescription.:医生的处方。
 script |skrɪpt| Noun/Verb/:脚本,写脚本,剧本,稿
 her neat, tidy script:her整洁的剧本
 Russian script:俄罗斯文字
 it was perfectly scripted and beautifully acted:剧本完美，表演精美
 
-widespread respect and admiration felt for someone or something on the basis of a perception of their achievements or quality:widespreadrespectandadmirationfeelforsomeoneorsomething基于对他们的成就或品质的看法
+widespread respect and admiration felt for someone or something on the basis of a perception of their achievements or quality:基于对某人或某事的成就或品质的看法而对他们产生广泛的尊重和钦佩
 denoting something that arouses widespread respect or admiration:表示引起广泛尊重或钦佩的事物
 prestige |prɛˈstiː(d)ʒ| Noun/:声望,威望,威信
 the firm has recently gained considerable prestige:公司最近获得了相当大的声望
 prestige diplomatic posts:声望外交职位
 
-causing difficulty, hard to do or deal with:causingdifficulty，难以做或处理
+causing difficulty, hard to do or deal with:
 deliberately unreasonable or uncooperative:故意不讲理或不合作
-causing or feeling uneasy embarrassment or inconvenience:causingorfeelinguneasy尴尬或不便
+causing or feeling uneasy embarrassment or inconvenience:造成或感到不安、尴尬或不便
 not smooth or graceful, ungainly:不流畅或优雅，笨拙
 uncomfortable or abnormal:不舒服或不正常
 awkward |ˈɔːkwəd| Adjective/:尴尬的,尴尬,别扭,笨拙,笨拙的
@@ -267,17 +267,17 @@ you have put me in a very awkward position:你让我处于非常尴尬的境地
 Luther's awkward movements impeded his progress:路德笨拙的动作阻碍了他的进步
 make sure the baby isn't sleeping in an awkward position:确保宝宝没有以尴尬的姿势睡觉
 
-a person who sets up a business or businesses, taking on financial risks in the hope of profit:apersonwhosettingabusinessorbusinesses,承担财务风险以期获利
+a person who sets up a business or businesses, taking on financial risks in the hope of profit:建立一个或多个企业，承担财务风险以期获利的人
 a promoter in the entertainment industry:娱乐圈的推手
 entrepreneur |ˌɒntrəprəˈnəː| Noun/:企业家,创业者
 many entrepreneurs see potential in this market:许多企业家看到了这个市场的潜力
-the music entrepreneur pulled back from financing a screenplay Hopper had written:themusicentrepreneur退出了对Hopper写的剧本的融资
+the music entrepreneur pulled back from financing a screenplay Hopper had written:这位音乐企业家退出了霍珀写的剧本的融资
 
 (of a device or process) working by itself with little or no direct human control:（设备或进程）在很少或没有直接人工控制的情况下自行工作
 (of a firearm) self-loading and able to fire continuously until the ammunition is exhausted or the pressure on the trigger is released:（枪支的）自动装弹并能够连续射击，直到弹药耗尽或扳机上的压力被释放
 (of a motor vehicle or its transmission) using gears that change by themselves according to speed and acceleration:（机动车辆或其变速器）使用根据速度和加速度自行改变的齿轮
 done or occurring spontaneously, without conscious thought or attention:完成或自发发生，没有有意识的思考或注意
-done or occurring as a matter of course and without debate:done或理所当然地发生，无需辩论
+done or occurring as a matter of course and without debate:毫无争议地完成或发生
 (especially of a legal sanction) given or imposed as a necessary and inevitable result of a fixed rule or particular set of circumstances:（尤其是法律制裁）作为固定规则或特定情况的必要和不可避免的结果而给予或施加
 a gun that continues firing until the ammunition is exhausted or the pressure on the trigger is released:持续射击直到弹药耗尽或扳机压力释放的枪
 a vehicle with automatic transmission:自动变速箱车辆
@@ -287,7 +287,7 @@ an automatic kettle that switches itself off when it boils:一个煮沸时自动
 automatic weapons:自动武器
 a four-speed automatic gearbox:a四速自动变速箱
 automatic physical functions such as breathing:自动呼吸等物理功能
-he is the automatic choice for the senior team:he是高级团队的自动选择
+he is the automatic choice for the senior team:他是高级团队的自动选择
 he received an automatic one-match suspension:他被自动禁赛一场
 the rapid fire of automatics:自动化的快速发展
 a Mercedes 300SL five-speed automatic:a奔驰300SL五速自动
@@ -298,7 +298,7 @@ the majority of users of this type of camera will shoot in automatic:这类相�
 prosper, flourish:繁荣，蓬勃发展
 thrive |θrəʊv| Verb/:蓬勃发展,茁壮成长
 the new baby thrived:新宝宝茁壮成长
-education groups thrive on organization:education团体在组织上茁壮成长
+education groups thrive on organization:教育团体在组织中茁壮成长
 
 improve or enhance the quality or value of:改进或提高质量或价值
 increase the nutritive value of (food) by adding vitamins or nutrients:通过添加维生素或营养素来增加（食物）的营养价值
@@ -307,20 +307,20 @@ make (someone) wealthy or wealthier:使（某人）变得富有或更富有
 enrich |ɪnˈrɪtʃ| Verb/:丰富,充实,丰富的
 her exposure to museums enriched her life in France:她对博物馆的接触丰富了她在法国的生活
 porridge oats enriched with extra oat bran:富含额外燕麦麸的燕麦粥
-they announced they would resume building the centrifuges that can enrich uranium to weapons-grade strength:they宣布他们将恢复建造可以将铀浓缩到武器级强度的离心机
+they announced they would resume building the centrifuges that can enrich uranium to weapons-grade strength:他们宣布他们将恢复建造可以将铀浓缩到武器级强度的离心机
 top party members had enriched themselves:top党员充实了自己
 
-bite and work (food) in the mouth with the teeth, especially to make it easier to swallow:biteandwork(food)inthemouthwiththeteeth,特别是为了让它更容易吞咽
+bite and work (food) in the mouth with the teeth, especially to make it easier to swallow:用牙齿在嘴里咬和工作（食物），尤指使它更容易吞咽
 gnaw at (something) persistently:坚持不懈地啃（某物）
 a repeated biting or gnawing of something:a反复咬或啃某物
-something that is meant for chewing:somethingthat是用来咀嚼的
+something that is meant for chewing:用来咀嚼的东西
 a chewy sweet:耐嚼的甜食
 chew |tʃuː| Noun/Verb/:嚼,咀嚼,嚼着
 he was chewing a mouthful of toast:他正在嚼一口吐司
-he chewed his lip reflectively:he若有所思地咬着嘴唇
+he chewed his lip reflectively:他若有所思地咬着嘴唇
 the dog was enjoying a quiet chew of his bone:狗正在安静地咀嚼他的骨头
 a dog chew:狗嚼
-a gobstopper or a chew could be bought for a farthing:花一分钱就可以买到 gobstopper 或 chew
+a gobstopper or a chew could be bought for a farthing:
 
 a thing used for transporting people or goods, especially on land, such as a car, lorry, or cart:用于运送人或货物的东西，尤其是在陆地上，例如汽车、卡车或手推车
 a thing used to express, embody, or fulfil something:用于表达、体现或实现某事的事物
@@ -330,11 +330,11 @@ a privately controlled company through which an individual or organization condu
 vehicle |ˈviːɪkl| Noun/:车辆,车,交通工具
 the vehicle was sent skidding across the road:车辆被打滑过马路
 I use paint as a vehicle for my ideas:我用油漆作为我想法的载体
-casein was used as a vehicle for pigments by the medieval painters:casein被中世纪画家用作颜料的载体
+casein was used as a vehicle for pigments by the medieval painters:酪蛋白被中世纪的画家用作颜料的载体
 a vehicle for a star who was one of Hollywood's hottest properties:好莱坞最炙手可热的明星的交通工具
 
 
-arousing one's curiosity or interest, fascinating:arousingone'scuriosityorinterest,迷人的
+arousing one's curiosity or interest, fascinating:
 intriguing |ɪnˈtriːɡɪŋ| Adjective/:耐人寻味,有趣的
 an intriguing story:一个有趣的故事
 
@@ -345,12 +345,12 @@ segregation |ˌsɛɡrɪˈɡeɪʃn| Noun/:隔离,分隔
 a model that perpetuates the segregation of older people:一种延续老年人隔离的模式
 an official policy of racial segregation:种族隔离的官方政策
 
-throw or impel (someone or something) with great force:throw或用很大的力量推动（某人或某物）
-utter (abuse) vehemently:utter（虐待）强烈
+throw or impel (someone or something) with great force:以极大的力量抛出或推动（某人或某物）
+utter (abuse) vehemently:强烈地说（辱骂）
 vomit:呕吐
 a ride in a vehicle, a lift:乘车、乘电梯
 hurl |həːl| Noun/Verb/:,投掷,扔
-rioters hurled a brick through the windscreen:rioters向挡风玻璃投掷砖块
+rioters hurled a brick through the windscreen:骚乱者向挡风玻璃扔了一块砖
 the demonstrators hurled abuse at councillors:示威者辱骂议员
 you make me want to hurl:你让我想投掷
 hey pal, any chance of a hurl?:嘿伙计，有机会投掷吗？
@@ -358,10 +358,10 @@ hey pal, any chance of a hurl?:嘿伙计，有机会投掷吗？
 
 a door in an aircraft, spacecraft, or submarine.:飞机、航天器或潜艇的门。
 the rear door of a hatchback car:两厢车后门
-(of an egg) open and produce a young animal:(ofanegg)打开并生出一只小动物
-incubate (an egg).:incubate（一个鸡蛋）。
+(of an egg) open and produce a young animal:（鸡蛋）打开并生产出一只小动物
+incubate (an egg).:孵化（鸡蛋）。
 (of a young bird, fish, or reptile) emerge from its egg:（幼鸟、鱼或爬行动物的）从蛋里出来
-cause (a young animal) to emerge from its egg:cause（一只小动物）从蛋里出来
+cause (a young animal) to emerge from its egg:使（一只小动物）从它的卵中出来
 conspire to devise (a plot or plan):密谋设计（阴谋或计划）
 hatch |hatʃ| Noun/Verb/:孵化,舱口,孵化器
 a spare wheel mounted on the rear hatch:一个备用轮胎安装在后舱盖上
@@ -384,9 +384,9 @@ a version of a theme, modified in melody, rhythm, harmony, or ornamentation, so 
 a solo dance as part of a performance:作为表演一部分的独舞
 variation |ˌvɛːrɪˈeɪʃn| Noun/:变化,变异
 regional variations in house prices:房价的区域差异
-hurling is an Irish variation of hockey:hurling是爱尔兰曲棍球的一种变体
+hurling is an Irish variation of hockey:
 Elgar's Enigma Variations:埃尔加之谜变奏曲
-he makes the preparation for his variation with utmost care and accuracy:he非常小心和准确地为他的变化做准备
+he makes the preparation for his variation with utmost care and accuracy:他非常小心和准确地为他的变化做准备
 
 very large in size, quantity, or extent:在尺寸、数量或范围上非常大
 enormous |ɪˈnɔːməs| Adjective/:巨大的,巨大,庞大的

@@ -40,9 +40,9 @@ dangle					悬荡，用...诱惑
 snooze					打盹
 jealous					嫉妒的，小心守护的
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
-surround and have or hold within:surround并拥有或保持在
-include comprehensively:include全面
-cause to take place:cause发生
+surround and have or hold within:包围并拥有或持有
+include comprehensively:包含全面
+cause to take place:原因发生
 encompass |ɪnˈkʌmpəs| Verb/:包括,涵盖
 this area of London encompasses Piccadilly to the north and St James's Park to the south:伦敦的这个区域包括北面的皮卡迪利和南面的圣詹姆斯公园
 no studies encompass all sectors of medical care:no研究涵盖医疗保健的所有领域
@@ -63,9 +63,9 @@ acres of space:英亩的空间
 
 an area of low-lying, uncultivated ground where water collects; a bog or marsh.:一块积水的低洼未开垦土地；沼泽或沼泽。
 an area of waterlogged ground:一片水淹地
-overwhelm or flood with water:overwhelm或洪水泛滥
-(of a boat) become overwhelmed with water and sink:(ofaboat)被水淹没并下沉
-overwhelm with an excessive amount of something; inundate:overwhelm有过多的东西；淹没
+overwhelm or flood with water:被水淹没或淹没
+(of a boat) become overwhelmed with water and sink:（船）被水淹没而沉没
+overwhelm with an excessive amount of something; inundate:被过多的东西淹没；淹没
 swamp |swɒmp| Noun/Verb/:沼泽
 the ceaseless deluge had turned the lawn into a swamp:不断的洪水把草坪变成了沼泽
 a huge wave swamped the canoes:巨浪淹没了独木舟
@@ -77,12 +77,12 @@ marsh |mɑːʃ| Noun/:沼泽
 the marsh marigold loves damp fields, riverbanks, and marshes:沼泽万寿菊喜欢潮湿的田野、河岸和沼泽
 
 care for and protect (someone or something) while they are growing:关心和保护（某人或某物）在成长过程中
-help or encourage the development of:help或鼓励发展
-cherish (a hope, belief, or ambition):cherish（希望、信念或抱负）
+help or encourage the development of:帮助或鼓励发展
+cherish (a hope, belief, or ambition):珍惜（希望、信念或抱负）
 the action or process of nurturing someone or something:培养某人或某事的行动或过程
 upbringing, education, and environment, contrasted with inborn characteristics as an influence on or determinant of personality:养育、教育和环境，与作为对人格的影响或决定因素的先天特征形成对比
 nurture |ˈnəːtʃə| Noun/Verb/:培育
-Jarrett was nurtured by his parents in a close-knit family:Jarrett在一个关系密切的家庭中由他的父母抚养
+Jarrett was nurtured by his parents in a close-knit family:贾勒特在一个紧密联系的家庭中由父母抚养长大
 my father nurtured my love of art:我父亲培养了我对艺术的热爱
 for a long time she had nurtured the dream of buying a shop:很久以来，她一直怀揣着买店的梦想
 the nurture of children:孩子的养育
@@ -102,30 +102,30 @@ a person who moves with a group of others to live in a new country or area:a与�
 settler |ˈsɛtlə| Noun/:定居者,移民
 the early European settlers in America were often fleeing from religious persecution:美国早期的欧洲定居者经常逃离宗教迫害
 
-give (something, especially money) in order to help achieve or provide something:give（某物，尤其是金钱）以帮助实现或提供某物
-help to cause or bring about:help导致或导致
-supply (an article) for publication in a newspaper, magazine, or journal:supply（一篇文章）用于在报纸、杂志或期刊上发表
+give (something, especially money) in order to help achieve or provide something:给予（某物，尤指金钱）以帮助实现或提供某物
+help to cause or bring about:帮助引起或带来
+supply (an article) for publication in a newspaper, magazine, or journal:供应（文章）以在报纸、杂志或期刊上发表
 give one's views in a discussion:在讨论中发表意见
 contribute |kənˈtrɪbjuːt| Verb/:贡献,有助于
-taxpayers had contributed £141.8 million towards the cost of local services:taxpayers为当地服务的成本贡献了1.418亿英镑
+taxpayers had contributed £141.8 million towards the cost of local services:纳税人为当地服务成本贡献了 1.418 亿英镑
 the government imposed a tax on fuels which contributed to global warming:政府对导致全球变暖的燃料征税
 he contributed articles to the magazine:他为杂志投稿
 he did not contribute to the meetings:他没有参加会议
 
 being the only one of its kind; unlike anything else:是同类中唯一的；与众不同
-belonging or connected to (one particular person, place, or thing):belongingorconnectedto（一个特定的人、地方或事物）
+belonging or connected to (one particular person, place, or thing):属于或连接到（一个特定的人、地方或事物）
 particularly remarkable, special, or unusual:特别显着、特别或不寻常
 a unique person or thing:一个独特的人或事物
 unique |juːˈniːk| Adjective/Noun/:独特的,独特,独一无二,唯一,独一无二的
 this discovery was unique in history:这个发现在历史上是独一无二的
 a style of architecture that is unique to Portugal:葡萄牙独有的建筑风格
 a unique opportunity to see the spectacular Bolshoi Ballet:观看壮观的莫斯科大剧院芭蕾舞团的独特机会
-some of Lamb's writings were so memorably beautiful as to be uniques in their class:Lamb的一些作品美得令人难忘，在他们班上独一无二
+some of Lamb's writings were so memorably beautiful as to be uniques in their class:兰姆的一些作品美得令人难忘，以至于在他们的班级中独树一帜
 
 a style or method of cooking, especially as characteristic of a particular country, region, or establishment:一种烹饪风格或方法，尤指特定国家、地区或机构的特色
 food cooked in a certain way:以某种方式烹制的食物
 cuisine |kwɪˈziːn| Noun/:美食,料理
-much Venetian cuisine is based on seafood:much以海鲜为主的威尼斯美食
+much Venetian cuisine is based on seafood:许多威尼斯美食以海鲜为主
 we spent the evening sampling the local cuisine:我们花了一个晚上品尝当地美食
 
 (of two or more people or things) separated by a specified distance in time or space:（两个或两个以上的人或物）在时间或空间上相隔指定距离
@@ -137,9 +137,9 @@ so as to be shattered; into pieces:以至于被粉碎；成为碎片
 apart |əˈpɑːt| Adverb/:分开,除了
 two stone gateposts some thirty feet apart:两个石门柱相距约三十英尺
 alcoholism had driven us apart:酒精中毒使我们分开
-Isabel stepped away from Joanna and stood apart:Isabel从乔安娜身边走开
-wrestlers were a breed apart:wrestlers是一个不同的品种
-Alaska apart, much of America's energy business concentrates on producing gas:Alaska除此以外，美国的大部分能源业务都专注于生产天然气
+Isabel stepped away from Joanna and stood apart:伊莎贝尔从乔安娜身边退开，站在一边
+wrestlers were a breed apart:摔跤手是不同的品种
+Alaska apart, much of America's energy business concentrates on producing gas:除了阿拉斯加，美国的大部分能源业务都集中在生产天然气上
 he leapt out of the car just before it was blown apart:他在车被炸开之前跳下车
 
 having a scalp wholly or partly lacking hair:头皮完全或部分没有头发
@@ -149,7 +149,7 @@ having a scalp wholly or partly lacking hair:头皮完全或部分没有头发
 not having any extra detail or explanation; plain or blunt:没有任何额外的细节或解释；平淡或生硬
 bald |bɔːld| Adjective/:秃,秃头
 he was starting to go bald:他开始秃了
-hedgehogs are born bald:hedgehogs天生秃头
+hedgehogs are born bald:刺猬天生秃头
 the bald trunks with their empty branches:光秃秃的树干和空树枝
 the Nissan had two bald tyres:日产有两个光头轮胎
 the bald statement in the preceding paragraph requires amplification:上一段的秃头说法需要放大
@@ -159,7 +159,7 @@ a cypress tree, or branches from it, as a symbol of mourning.:一棵柏树或它
 used in names of coniferous trees of other families that resemble the cypress, e.g. swamp cypress.:用于类似柏树的其他科的针叶树的名称，例如沼泽柏树。
 cypress |ˈsʌɪprəs| Noun/:柏,柏树
 
-arrange (cloth or clothing) loosely or casually on or round something:arrange(布或衣服)松散地或随意地在某物上或围绕某物
+arrange (cloth or clothing) loosely or casually on or round something:将（布或衣服）松散地或随意地布置在某物上或周围
 cover or wrap loosely with folds of cloth:覆盖或用褶皱松散包裹
 let (oneself or a part of one's body) rest somewhere in a casual or relaxed way:let（自己或身体的一部分）以随意或放松的方式在某处休息
 (of fabric) hang in loose, graceful folds:（织物）挂在松散、优雅的褶皱中
@@ -171,8 +171,8 @@ drape |dreɪp| Noun/Verb/:悬垂,垂坠感
 she draped a shawl around her shoulders:她在肩膀上披了一条披肩
 the body was draped in a blanket:尸体被裹在毯子里
 he draped an arm around her shoulders:他搂着她的肩膀
-velvet drapes beautifully:velvet悬垂精美
-Katherine pulled back the heavy velvet drapes:Katherine拉回厚重的天鹅绒窗帘
+velvet drapes beautifully:天鹅绒的垂坠感很美
+Katherine pulled back the heavy velvet drapes:凯瑟琳拉开厚重的天鹅绒窗帘
 a drape jacket:一件垂坠夹克
 by fixing the band lower down you obtain a fuller drape in the fabric:通过将带子固定在较低的位置，您可以获得更丰满的织物悬垂性
 
@@ -183,17 +183,17 @@ a bog, especially a peat bog.:a沼泽，尤其是泥炭沼泽。
 cover with moss:覆盖苔藓
 moss |mɒs| Noun/Verb/:苔藓,苔,青苔
 the trees are overgrown with vines and moss:树上长满了藤蔓和苔藓
-nature has mossed the gravel walks and roads:nature把碎石步道和道路弄脏了
+nature has mossed the gravel walks and roads:大自然在碎石路和道路上铺满了苔藓
 
 relating to or of the nature of an icon:与图标有关或属于图标的性质
 (of a classical Greek statue) depicting a victorious athlete in a conventional style.:（古典希腊雕像）以传统风格描绘了一位胜利的运动员。
 iconic |ʌɪˈkɒnɪk| Adjective/:标志性的,象征性的
-he became an iconic figure for directors around the world:he成为全球导演的标志性人物
+he became an iconic figure for directors around the world:他成为全球导演的标志性人物
 
 to a great degree; extremely:在很大程度上；极其
 used to introduce a statement that is hard to believe; strangely:用于介绍令人难以置信的陈述；奇怪的是
 incredibly |ɪnˈkrɛdɪbli| Adverb/:难以置信,令人难以置信
-Michele was incredibly brave:Michele非常勇敢
+Michele was incredibly brave:米歇尔非常勇敢
 incredibly, he was still alive:难以置信，他还活着
 
 partnerships | 伙伴关系,合作伙伴
@@ -203,12 +203,12 @@ partnerships | 伙伴关系,合作伙伴
 
 
 join or merge to form a single unit or substance:加入或合并形成一个单一的单位或物质
-unite to form a compound:unite形成一个化合物
-unite for a common purpose:unite为了一个共同的目的
-engage in simultaneously:engage同时参与
+unite to form a compound:团结起来形成一个复合体
+unite for a common purpose:为共同的目标团结起来
+engage in simultaneously:同时从事
 a group of people or companies acting together for a commercial purpose:一群人或公司为了商业目的而一起行动
 a combine harvester.:a联合收割机。
-harvest (a crop) by means of a combine harvester:harvest（一种作物）通过联合收割机
+harvest (a crop) by means of a combine harvester:用联合收割机收割（作物）
 combine |kəmˈbʌɪn| Noun/Verb/:结合,联合企业,联合,合并
 oxygen and hydrogen do not combine at room temperatures:氧气和氢气在室温下不会结合
 an ideal place to combine shopping and sightseeing:购物与观光相结合的理想场所
@@ -264,7 +264,7 @@ go, rise, or improve faster than:go、上升或改进的速度比
 outpace |aʊtˈpeɪs| Verb/:超过
 he outpaced all six defenders:他超过了所有六名后卫
 
-only just; almost not:only;几乎没有
+only just; almost not:只是刚刚；几乎不
 only a very short time before:只有很短的时间之前
 used to suggest that something is unlikely to be or certainly not the case:用于暗示某事不太可能或肯定不是这种情况
 scarcely |ˈskɛːsli| Adverb/:几乎没有,很少
@@ -288,15 +288,15 @@ many companies lack the financial muscle to adopt a more hard-nosed relationship
 they were muscling baggage into the hold of the plane:他们把行李塞进飞机货舱
 he was eventually muscled out of the market:他最终被市场淘汰
 
-protect (something, especially something of environmental or cultural importance) from harm or destruction:protect（某物，尤其是具有环境或文化重要性的东西）免受伤害或破坏
+protect (something, especially something of environmental or cultural importance) from harm or destruction:保护（某物，尤指具有环境或文化重要性的某物）免受伤害或破坏
 prevent the wasteful overuse of (a resource):防止对（资源）的浪费性过度使用
-maintain (a quantity such as energy) at a constant overall total:maintain（一个量，如能量）在一个恒定的总和
-retain (a particular amino acid, nucleotide, or sequence of these) unchanged in different protein or DNA molecules:retain（特定的氨基酸、核苷酸或它们的序列）在不同的蛋白质或DNA分子中保持不变
-preserve (fruit) with sugar.:preserve（水果）加糖。
+maintain (a quantity such as energy) at a constant overall total:将（能量等量）保持在恒定的总和
+retain (a particular amino acid, nucleotide, or sequence of these) unchanged in different protein or DNA molecules:在不同的蛋白质或 DNA 分子中保留（特定的氨基酸、核苷酸或这些的序列）不变
+preserve (fruit) with sugar.:用糖腌制（水果）。
 a preparation made by preserving fruit with sugar; jam or marmalade:用糖保存水果制成的制剂；果酱或果酱
 conserve |kənˈsəːv| Noun/Verb/:养护,保存
 the funds raised will help conserve endangered meadowlands:筹集的资金将有助于保护濒临灭绝的草地
-industry should conserve more water:industry应该节约更多的水
+industry should conserve more water:工业应该节约更多的水
 the momentum of a system is conserved unless an external force acts on it:除非有外力作用，否则系统的动量守恒
 the adjacent sequence is conserved over large evolutionary distances:相邻序列在大进化距离上是保守的
 pork tenderloin with onion and raisin conserve:猪肉里脊配洋葱和葡萄干保存
@@ -322,9 +322,9 @@ a regular meeting of the states of a confederation.:一个联邦州的定期会�
 a meeting or session of a court.:a法庭会议或会议。
 diet |ˈdʌɪət| Noun/Verb/:饮食,节食
 a vegetarian diet:素食
-screen violence is becoming the staple diet of the video generation:screen暴力正在成为视频一代的主食
+screen violence is becoming the staple diet of the video generation:屏幕暴力正在成为视频一代的主食
 I'm going on a diet:我要节食
-diet soft drinks:diet软饮料
+diet soft drinks:减肥软饮料
 I began dieting again:我又开始节食了
 
 a diet of | 饮食,一种饮食
@@ -333,28 +333,28 @@ a diet of | 饮食,一种饮食
 
 
 
-suspend or be suspended from above with the lower part dangling free:suspend或从上方悬挂，下部悬空
-attach or be attached to a hook on a wall:attach或连接到墙上的挂钩
+suspend or be suspended from above with the lower part dangling free:悬挂或悬挂在上方，下部自由悬垂
+attach or be attached to a hook on a wall:连接或连接到墙上的挂钩
 be adorned with (pictures or other decorations):装饰（图片或其他装饰品）
-attach or be attached so as to allow free movement about the point of attachment:attach或被连接，以便允许在连接点周围自由移动
+attach or be attached so as to allow free movement about the point of attachment:附着或被附着以允许围绕附着点自由移动
 attach (meat or game) to a hook and leave it until dry, tender, or high:将（肉或野味）挂在钩子上，直到变干、变软或变高
 (of fabric or a garment) fall or drape from a fixed point in a specified way:（织物或服装的）以特定方式从固定点掉落或悬垂
-paste (wallpaper) to a wall:paste（壁纸）到墙上
-kill (someone) by tying a rope attached from above around their neck and removing the support from beneath them (often used as a form of capital punishment):kill（某人），将一根绳子从上面系在他们的脖子上，然后从他们下面取下支撑物（通常用作死刑的一种形式）
+paste (wallpaper) to a wall:粘贴（墙纸）到墙上
+kill (someone) by tying a rope attached from above around their neck and removing the support from beneath them (often used as a form of capital punishment):将一根绳子从上方系在脖子上，然后去掉下方的支撑物，从而杀死（某人）（通常用作死刑的一种形式）
 be killed by hanging:被吊死
 used in expressions as a mild oath:在表达中用作温和的誓言
 remain static in the air:在空气中保持静止
 be present or imminent, especially oppressively or threateningly:存在或迫在眉睫，尤其是具有压迫性或威胁性
-come or cause to come unexpectedly to a state in which no further operations can be carried out:come或导致意外进入无法进行进一步操作的状态
+come or cause to come unexpectedly to a state in which no further operations can be carried out:来或导致意外地进入无法进行进一步操作的状态
 spend time relaxing or enjoying oneself:花时间放松或享受自己
-deliver (a pitch) which does not change direction and is easily hit by a batter:deliver（投球），不改变方向，容易被击球手击中
+deliver (a pitch) which does not change direction and is easily hit by a batter:投出（投球），不改变方向，容易被击球手击中
 a downward droop or bend:a向下下垂或弯曲
 the way in which something hangs:东西悬挂的方式
 the way in which pictures are displayed in an exhibition:展览中图片的展示方式
 used to express a range of strong emotions from enthusiasm to anger:用于表达从热情到愤怒的一系列强烈情绪
 hang |hʌŋ| Interjection/Noun/Verb/:悬挂,挂
 the walls of her hall were hung with examples of her work:她大厅的墙壁上挂满了她的作品
-venison needs to be hung for a minimum of seven days:venison需要悬挂至少7天
+venison needs to be hung for a minimum of seven days:鹿肉至少需要悬挂7天
 this blend of silk and wool hangs well and resists creases:这种真丝和羊毛的混纺面料悬挂良好，抗皱
 if you're using lining paper, hang it horizontally:如果您使用衬纸，请将其水平悬挂
 he was hanged for murder:他因谋杀被绞死
@@ -362,10 +362,10 @@ both men were sentenced to hang:两人被判绞刑
 a black pall of smoke hung over Valletta:一团黑烟笼罩瓦莱塔
 a sense of dread hung over him for days:恐惧感笼罩了他好几天
 I guess I wasn't cool enough to hang with them anymore:我想我不够酷，不能再和他们在一起了
-this leads to hanging a breaking ball:this导致挂断球
+this leads to hanging a breaking ball:这导致挂断球
 the bullish hang of his head:看涨的悬念
 the hang of the garments:服装的悬挂
-critics are apt to use up as much space reviewing the hang as the art:critics很容易用尽空间来回顾艺术作品
+critics are apt to use up as much space reviewing the hang as the art:评论家倾向于用尽可能多的篇幅来回顾悬而未决的艺术
 hang, but I loved those soldiers!:hang，但我爱那些士兵！
 
 a curved pointed horny nail on each digit of the foot in birds, lizards, and some mammals.:在鸟类、蜥蜴和一些哺乳动物的脚的每一指上都有一个弯曲的尖角指甲。
@@ -373,9 +373,9 @@ either of a pair of small hooked appendages on an insect's foot.:昆虫脚上的
 the pincer of a crab, scorpion, or other arthropod.:螃蟹、蝎子或其他节肢动物的钳子。
 a mechanical device resembling a claw, used for gripping or lifting.:一种类似爪子的机械装置，用于抓握或提升。
 scratch or tear something with the claws or the fingernails:用爪子或指甲抓或撕东西
-clutch at something with the hands:clutch用手抓东西
+clutch at something with the hands:用手抓住某物
 make one's way with difficulty by hauling oneself forward with one's hands:用自己的双手拖着自己前进
-scratch (a part of one's body) gently so as to relieve itching.:scratch(身体的一部分)轻柔以止痒。
+scratch (a part of one's body) gently so as to relieve itching.:轻轻抓挠（身体的一部分）以止痒。
 claw |klɔː| Noun/Verb/:爪,爪子
 the kitten was clawing at Lowell's trouser leg:小猫正在抓着洛厄尔的裤腿
 his fingers clawed at the air:他的手指伸向空中
@@ -384,9 +384,9 @@ he clawed his way over a pile of bricks:他从一堆砖头上爬了过去
 move or fall downwards:向下移动或下降
 (of a mammal's testes) pass from the abdominal cavity into the scrotum.:（哺乳动物的睾丸）从腹腔进入阴囊。
 (of a road, path, or flight of steps) slope or lead downwards:（道路、小径或台阶的）倾斜或向下倾斜
-move down (a slope or stairs):movedown（斜坡或楼梯）
+move down (a slope or stairs):向下移动（斜坡或楼梯）
 move down a scale of quality:降低质量等级
-(of sound) become lower in pitch:(ofsound)音调变低
+(of sound) become lower in pitch:（声音）音调变低
 act in a shameful way that is far below one's usual standards:以远低于通常标准的可耻方式行事
 (of a situation or group of people) reach (an undesirable state):（一种情况或一群人）达到（一种不良状态）
 make a sudden attack on:突然攻击
@@ -394,7 +394,7 @@ make an unexpected visit to:意外访问
 (of a feeling) develop suddenly and affect a place or person:（感觉）突然发展并影响一个地方或一个人
 (of night or darkness) begin to occur:（夜晚或黑暗的）开始出现
 be a blood relative of (a specified ancestor):be是（指定祖先）的血亲
-(of an asset) pass by inheritance, typically from parent to child:(ofanasset)通过继承传递，通常是从父级到子级
+(of an asset) pass by inheritance, typically from parent to child:（资产的）通过继承传递，通常是从父母到孩子
 descend |dɪˈsɛnd| Verb/:下降,降落
 the aircraft began to descend:飞机开始下降
 a side road descended into the forest:a小路下降到森林里
@@ -407,7 +407,7 @@ the militia descended on Rye:民兵袭击黑麦
 groups of visiting supporters descended on a local pub:一群来访的支持者来到当地的一家酒吧
 with her death, a cloud of gloom descended upon Bollywood:随着她的去世，宝莱坞笼罩在阴云之中
 as the winter darkness descended, the fighting ceased:随着冬天的黑暗降临，战斗停止了
-John Dalrymple was descended from an ancient Ayrshire family:JohnDalrymple是一个古老的艾尔郡家族的后裔
+John Dalrymple was descended from an ancient Ayrshire family:John Dalrymple 是一个古老的艾尔郡家族的后裔
 his lands descended to his eldest son:他的土地传给了他的长子
 
 occurring, appearing, or done infrequently and irregularly:不经常和不规则地发生、出现或完成
@@ -418,10 +418,10 @@ occasional |əˈkeɪʒ(ə)n(ə)l| Adjective/:偶然,偶尔
 the occasional car went by but no taxis:偶尔有车经过但没有出租车
 an occasional table:一张偶尔的桌子
 he wrote occasional verse for patrons:他偶尔为顾客写诗
-occasional freelancer seeks full-time position:occasional自由职业者寻求全职职位
+occasional freelancer seeks full-time position:偶尔的自由职业者寻求全职职位
 
-hang or swing loosely:hang或松散摆动
-offer (an enticing incentive) to someone:offer（诱人的奖励）给某人
+hang or swing loosely:松散地悬挂或摆动
+offer (an enticing incentive) to someone:向某人提供（诱人的奖励）
 dangle |ˈdaŋɡ(ə)l| Verb/:悬垂,摇晃
 saucepans dangled from a rail:平底锅挂在栏杆上
 the defence portfolio could be the carrot to dangle before him:国防投资组合可能是摆在他面前的胡萝卜

@@ -33,7 +33,7 @@ of or concerning the part of the mind of which one is not fully aware but which 
 the subconscious part of the mind (not in technical use in psychoanalysis, where unconscious is preferred):头脑的潜意识部分（不用于精神分析的技术用途，其中无意识是首选）
 subconscious |ˌsʌbˈkɒnʃəs| Adjective/Noun/:潜意识,下意识的
 my subconscious fear:我潜意识的恐惧
-uncertainties were lurking around the edge of her subconscious:uncertainties潜伏在她潜意识的边缘
+uncertainties were lurking around the edge of her subconscious:不确定性潜伏在她潜意识的边缘
 
 relating to genes or heredity:关于基因或遗传
 relating to genetics:与遗传有关
@@ -71,22 +71,22 @@ a connected series of mountains:一系列相连的山脉
 a group of hotels, restaurants, or shops owned by the same company:同一家公司拥有的一组酒店、餐馆或商店
 a situation in which the sale of a house or flat is dependent on the prospective buyer selling their own or the seller buying another first:一种情况，其中房屋或公寓的销售取决于准买家出售他们自己的或卖家先购买另一个
 a part of a molecule consisting of a number of atoms bonded together in a linear sequence.:分子的一部分，由许多以线性顺序键合在一起的原子组成。
-a figure in a quadrille or similar dance, in which dancers meet and pass each other in a continuous sequence.:quadrille或类似舞蹈中的人物，其中舞者以连续的顺序相遇并相互经过。
+a figure in a quadrille or similar dance, in which dancers meet and pass each other in a continuous sequence.:quadrille 或类似舞蹈中的一个人物，其中舞者以连续的顺序相遇并相互通过。
 a jointed measuring line consisting of linked metal rods.:由连接的金属棒组成的连接测量线。
 a measure of length equivalent to a chain (66 ft).:相当于链条的长度（66英尺）。
 a structure of planks projecting horizontally from a sailing ship's sides abreast of the masts, used to widen the basis for the shrouds.:一种木板结构，从与桅杆并排的帆船两侧水平伸出，用于加宽护罩的基础。
 fasten or secure with a chain:用链子固定或固定
 confine with a chain:用链条限制
 chain |tʃeɪn| Noun/Verb/:链,用链子拴住,连锁,链条,连锁店
-he slid the bolts on the front door and put the safety chain across:he滑动前门上的螺栓并将安全链穿过
+he slid the bolts on the front door and put the safety chain across:他滑动前门上的螺栓并将安全链穿过
 a tall man with a heavy gold chain round his neck:一个脖子上挂着沉重金链的高个子男人
-workers secured by the chains of the labour market:workers受到劳动力市场链条的保护
-he kept the chain of buckets supplied with water:he保持水桶链供水
+workers secured by the chains of the labour market:受劳动力市场链条保护的工人
+he kept the chain of buckets supplied with water:他保持水桶链供水
 the action would initiate a chain of events:该动作将引发一系列事件
 a mountain chain:一条山脉
 the agency is part of a nationwide chain:该机构是全国连锁店的一部分
-our offer was accepted this morning and there's no chain:ouroffer今天早上被接受了，没有连锁店
-she chained her bicycle to the railings:she把她的自行车拴在栏杆上
+our offer was accepted this morning and there's no chain:今天早上我们的报价被接受了，没有连锁店
+she chained her bicycle to the railings:她把她的自行车拴在栏杆上
 he had been chained up:他被锁起来了
 
 relating to or having the power to put plans or actions into effect:关于或有权实施计划或行动
@@ -115,26 +115,26 @@ enrollment | 注册,登记,招生,入学
 
 
 put forward (a plan or suggestion) for consideration by others:提出（计划或建议）供他人考虑
-nominate (someone) for an elected office or as a member of a society:nominate(someone)担任民选职位或社团成员
+nominate (someone) for an elected office or as a member of a society:提名（某人）担任民选职位或成为社团成员
 put forward (a motion) to a legislature or committee:向立法机关或委员会提出（动议）
 intend to do something:打算做某事
 make an offer of marriage to someone:向某人求婚
 propose |prəˈpəʊz| Verb/:,建议,提议
-he proposed a new nine-point peace plan:he提出新的九点和平计划
-Roy Thomson was proposed as chairman:RoyThomson被提名为主席
+he proposed a new nine-point peace plan:他提出新的九点和平计划
+Roy Thomson was proposed as chairman:罗伊·汤姆森被提名为主席
 the government put its slim majority to the test by proposing a vote of confidence:政府通过提出信任投票来测试其微弱多数
-he proposed to attend the meeting:he提议参加会议
+he proposed to attend the meeting:他提议参加会议
 I have already proposed to Sarah:我已经向莎拉求婚了
 
 distraught with fear, anxiety, or other emotion:因恐惧、焦虑或其他情绪而心烦意乱
 conducted in a hurried, excited, and disorganized way:以匆忙、兴奋和混乱的方式进行
 frantic |ˈfrantɪk| Adjective/:疯狂的,狂热的
-she was frantic with worry:she非常担心
-frantic attempts to resuscitate the girl:frantic试图让女孩苏醒
+she was frantic with worry:她非常担心
+frantic attempts to resuscitate the girl:疯狂地试图让女孩苏醒
 
 used to convey that something is claimed to be the case or have taken place, although there is no proof:用于表示某事声称是事实或已经发生，尽管没有证据
 allegedly |əˈlɛdʒɪdli| Adverb/:据称,据说
-he was allegedly a leading participant in the coup attempt:he据称是政变未遂的主要参与者
+he was allegedly a leading participant in the coup attempt:他据称是政变未遂的主要参与者
 
 handle or control (a tool, mechanism, information, etc.) in a skilful manner:以熟练的方式处理或控制（工具、机制、信息等）
 alter, edit, or move (text or data) on a computer:在计算机上更改、编辑或移动（文本或数据）
@@ -142,11 +142,11 @@ examine or treat (a part of the body) by feeling or moving it with the hand:用�
 control or influence (a person or situation) cleverly or unscrupulously:巧妙地或肆无忌惮地控制或影响（一个人或情况）
 alter or present (data) so as to mislead:改变或呈现（数据）以便误导
 manipulate |məˈnɪpjʊleɪt| Verb/:操纵,操作,操控
-he manipulated the dials of the set:he操纵了布景的表盘
+he manipulated the dials of the set:他操纵了布景的表盘
 the pupils can manipulate the data or screen image:学生可以操纵数据或屏幕图像
 this system of healing is based on manipulating the ligaments of the spine:这个治疗系统是基于操纵脊柱韧带
 the masses were deceived and manipulated by a tiny group:群众被一小撮人欺骗操纵
-nations may still be able to manipulate their own data:nations可能仍然能够操纵自己的数据
+nations may still be able to manipulate their own data:各国可能仍然能够操纵自己的数据
 
 the extent to which something deals with something else:某事与其他事打交道的程度
 the treatment of an issue by the media:媒体对问题的处理
@@ -155,27 +155,27 @@ the area that can be covered by a specified volume or weight of a substance:指�
 the amount of protection given by an insurance policy.:保险单提供的保护金额。
 the manner in which a defender or a defensive team cover a player, an area, or a play:防守队员或防守队员掩护球员、区域或比赛的方式
 coverage |ˈkʌv(ə)rɪdʒ| Noun/:报道,覆盖范围
-the grammar did not offer total coverage of the language:thegrammar没有提供语言的全部覆盖
+the grammar did not offer total coverage of the language:语法没有提供对语言的全面覆盖
 the programme won an award for its news coverage:该节目因其新闻报道而获奖
 a network of eighty transmitters would give nationwide coverage:一个由80个发射器组成的网络将覆盖全国
-coverage is 6.5 square metres per litre:coverage为每升6.5平方米
+coverage is 6.5 square metres per litre:覆盖面积为每升 6.5 平方米
 man-to-man coverage:人盯人覆盖
 
 a fictitious prose narrative of book length, typically representing character and action with some degree of realism:一本书长度的虚构散文叙述，通常以一定程度的现实主义表现人物和动作
 the literary genre represented or exemplified by novels:以小说为代表或例证的文学体裁
-interestingly new or unusual:interestingly新的或不寻常的
+interestingly new or unusual:有趣的新的或不寻常的
 novel |ˈnɒvl| Adjective/Noun/:,新颖的,新颖
 the novels of Jane Austen:简奥斯汀的小说
 the novel is the most adaptable of all literary forms:小说是所有文学形式中最具适应性的
-he hit on a novel idea to solve his financial problems:he想出了一个解决财务问题的新主意
+he hit on a novel idea to solve his financial problems:他想出了一个解决财务问题的新主意
 
 existing or occurring before in time or order:在时间或顺序上存在或发生在之前
 overhasty in acting:操之过急
-previous convictions, a criminal record:previousconvictions,犯罪记录
+previous convictions, a criminal record:以前的定罪，犯罪记录
 previous |ˈpriːvɪəs| Adjective/Noun/:以前的,以前,前,上,上一个
 she looked tired after her exertions of the previous evening:经过前一天晚上的努力，她看起来很疲倦
 I admit I may have been a bit previous:我承认我可能有点早
-he's got previous—theft and wounding:he有前科——盗窃和伤害
+he's got previous—theft and wounding:他有前科——盗窃和伤害
 
 the state of not supporting or helping either side in a conflict, disagreement, etc., impartiality:在冲突、分歧等情况下不支持或帮助任何一方的状态，公正
 absence of decided views, expression, or strong feeling:缺乏明确的观点、表达或强烈的感觉
@@ -211,7 +211,7 @@ a puzzle with 500 pieces:500块拼图
 the meaning of the poem has always been a puzzle:诗意一直是个谜
 
 
-provide (a book, newspaper, etc.) with pictures:provide（一本书，报纸等）带有图片
+provide (a book, newspaper, etc.) with pictures:提供（书籍、报纸等）图片
 explain or make (something) clear by using examples, charts, pictures, etc.:使用示例、图表、图片等来解释或使（某事）清楚。
 serve as an example of:作为例子
 illustrate |ˈɪləstreɪt| Verb/:阐明,说明,举例说明
@@ -229,7 +229,7 @@ very anxious to challenge or avoid criticism:非常急于挑战或避免批评
 defensive |dɪˈfɛnsɪv| Adjective/:防守的,防御性的
 defensive barriers:防御壁垒
 a defensive player:一名防守队员
-he was very defensive about that side of his life:he对他生活的那一面非常防御
+he was very defensive about that side of his life:他对他生活的那一面非常防御
 
 the art of representing three-dimensional objects on a two-dimensional surface so as to give the right impression of their height, width, depth, and position in relation to each other:在二维表面上表现三维物体的艺术，以便给人以正确的高度、宽度、深度和彼此相关位置的印象
 the appearance of viewed objects with regard to their relative position, distance from the viewer, etc.:被观察物体的相对位置、与观察者的距离等方面的外观。
@@ -241,8 +241,8 @@ an apparent spatial distribution in perceived sound.:感知声音的明显空间
 perspective |pəˈspɛktɪv| Noun/:,透视,观点
 the theory and practice of perspective:透视理论与实践
 a trick of perspective:透视技巧
-most guidebook history is written from the editor's perspective:mostguidebook历史是从编辑的角度写的
-we must keep a sense of perspective about what he's done:wemustkeepasenseofperspectiveaboutwhathe'sdone
+most guidebook history is written from the editor's perspective:大多数指南历史都是从编辑的角度写的
+we must keep a sense of perspective about what he's done:我们必须对他的所作所为保持清醒的认识
 
 seasonal movement of animals from one region to another:动物从一个地区到另一个地区的季节性运动
 movement of people to a new area or country in order to find work or better living conditions:人们为了寻找工作或更好的生活条件而迁移到新的地区或国家
@@ -253,7 +253,7 @@ the extensive rural-to-urban migration has created a severe housing shortage:大
 there is virtually no cell migration in plants:植物中几乎没有细胞迁移
 
 rest or move on or near the surface of a liquid without sinking:在液体表面或附近休息或移动而不下沉
-cause (a buoyant object) to rest or move on or near the surface of a liquid:cause(abuoyantobject)在液体表面或附近停留或移动
+cause (a buoyant object) to rest or move on or near the surface of a liquid:使（浮力物体）在液体表面或附近停留或移动
 be suspended freely in a liquid or gas:自由悬浮在液体或气体中
 move or hover slowly and lightly in a liquid or the air, drift:在液体或空气中缓慢而轻巧地移动或悬停，漂移
 (of a rumour, idea, etc.) circulate:（谣言、想法等）流传
@@ -262,7 +262,7 @@ move in a casual or leisurely way:随意或悠闲地移动
 put forward (an idea) as a suggestion or test of reactions.:提出（一个想法）作为建议或反应测试。
 offer the shares of (a company) for sale on the stock market for the first time.:首次在股票市场上出售（一家公司）的股票。
 (of a currency) fluctuate freely in value in accordance with supply and demand in the financial markets:（货币的）价值根据金融市场的供求自由波动
-allow (a currency) to float.:allow（一种货币）浮动。
+allow (a currency) to float.:允许（一种货币）浮动。
 a thing that is buoyant in water.:漂浮在水中的东西。
 a small object attached to a fishing line to indicate by moving when a fish bites.:一个附在鱼线上的小物体，当鱼上钩时通过移动来指示。
 a cork or buoy supporting the edge of a fishing net.:支撑渔网边缘的软木塞或浮标。
@@ -272,18 +272,18 @@ a hollow structure fixed underneath an aircraft enabling it to take off and land
 a floating device on the surface of a liquid which forms part of a valve apparatus controlling flow in and out of the enclosing container, e.g. in a water cistern or a carburettor.:液体表面上的浮动装置，它是控制流入和流出封闭容器的阀门装置的一部分，例如27
 a small vehicle or cart, especially one powered by electricity.:一辆小型车辆或手推车，尤其是电力驱动的。
 a platform mounted on a truck and carrying a display in a procession:一个安装在卡车上并在游行中进行展示的平台
-a sum of money used for change at the beginning of a period of trading in a shop or stall etc., or for minor expenditures.:asomemoneyusedforchangeataperiodoftradinginaperiodofshoporstalletc.,orforminorexpensities.
+a sum of money used for change at the beginning of a period of trading in a shop or stall etc., or for minor expenditures.:
 a hand tool with a rectangular blade used for smoothing plaster.:带有矩形刀片的手动工具，用于抹平石膏。
 a soft drink with a scoop of ice cream floating in it:一杯软饮料，里面漂浮着一勺冰淇淋
 (in critical path analysis) the period of time by which the duration of an activity may be extended without affecting the overall time for the process.:（在关键路径分析中）活动的持续时间可以延长而不影响过程的总时间的时间段。
 float |fləʊt| Noun/Verb/:漂浮,鱼漂,浮动,浮
-she relaxed, floating gently in the water:she放松，轻轻地漂浮在水中
-trees were felled and floated downstream:trees被砍伐并漂浮在下游
+she relaxed, floating gently in the water:她放松，轻轻地漂浮在水中
+trees were felled and floated downstream:
 fragments of chipped cartilage floated in the joint:碎裂的软骨碎片漂浮在关节处
-clouds floated across a brilliant blue sky:clouds飘过灿烂的蓝天
+clouds floated across a brilliant blue sky:云朵飘过灿烂的蓝天
 the notion was floating around Capitol Hill:这个想法在国会山四处流传
-Araminta floated down the stairs:Araminta飘下楼梯
-he floated the kick into the net:he将球踢入网内
+Araminta floated down the stairs:阿拉明塔飘下楼梯
+he floated the kick into the net:他将球踢入网内
 a policy of letting the pound float:让英镑浮动的政策
 a carnival float:嘉年华花车
 ice-cream floats:冰淇淋花车
@@ -298,23 +298,23 @@ you can save money if you're flexible about where your room is located:如果您
 
 
 having the ability, fitness, or quality necessary to do or achieve a specified thing:具有做或完成特定事情所必需的能力、健康或素质
-open to or admitting of something:opentooradmitting某事
+open to or admitting of something:开放或承认某事
 able to achieve efficiently whatever one has to do, competent:能够高效地完成任何必须做的事情，胜任
 capable |ˈkeɪpəbl| Adjective/:有能力的,能,能干的,有能力
 I'm quite capable of taking care of myself:我很能照顾自己
 the strange events are capable of rational explanation:奇怪的事件可以有理性的解释
-she looked enthusiastic and capable:she看起来热情能干
+she looked enthusiastic and capable:她看起来热情能干
 
-of or concerned with the actual doing or use of something rather than with theory and ideas:oforconcernedwiththeactualdoingoruseofsomething而不是理论和想法
+of or concerned with the actual doing or use of something rather than with theory and ideas:属于或关心实际做或使用某事，而不是理论和想法
 (of an idea, plan, or method) likely to succeed or be effective in real circumstances, feasible:（想法、计划或方法）在实际情况下可能成功或有效，可行
 suitable for a particular purpose:适合特定用途
 (of a person) sensible and realistic in their approach to a situation or problem:（一个人的）在处理情况或问题时明智而现实
 (of a person) skilled at manual tasks:（一个人）擅长手工工作
-so nearly the case that it can be regarded as so, virtual:sonearlythecasethatiscanbeasso,virtual
+so nearly the case that it can be regarded as so, virtual:几乎可以认为是虚拟的
 an examination or lesson in which theories and procedures learned are applied to the actual making or doing of something.:将所学理论和程序应用于实际制作或做某事的考试或课程。
 practical |ˈpraktɪkl| Adjective/Noun/:实际的,实践课,实用,实际,实用的
 there are two obvious practical applications of the research:这项研究有两个明显的实际应用
 neither of these strategies are practical for smaller businesses:这些策略都不适用于小型企业
 a practical, stylish kitchen:一个实用、时尚的厨房
 I'm merely being practical—we must find a ground-floor flat:我只是讲实际——我们必须找一个底层的公寓
-Steve'll fix it—he's quite practical:Steve会解决的——他很实际
+Steve'll fix it—he's quite practical:史蒂夫会修好的——他很实际

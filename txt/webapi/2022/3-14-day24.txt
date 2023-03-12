@@ -31,7 +31,7 @@ react							作出反应，有不良反应
 \\\\
 
 succeed in dealing with (a problem or difficulty):成功处理（问题或困难）
-defeat (an opponent):defeat（对手）
+defeat (an opponent):击败（对手）
 (of a feeling or emotion) overpower or overwhelm:（感觉或情绪）压倒或压倒
 overcome |ˌəʊvəˈkeɪm| Verb/:克服,战胜
 he overcame his pain for a time:他暂时克服了痛苦
@@ -75,16 +75,16 @@ a very virtuous, kind, or patient person:一个非常善良、善良或耐心的
 formally recognize as a saint, canonize:正式承认为圣人，册封
 saint |seɪnt| Noun/Verb/:圣,圣人,圣徒
 a place dedicated to a seventh-century saint:一个献给七世纪圣徒的地方
-Innocent III stressed that only the Pope had the authority to declare a saint:InnocentIII强调只有教皇有权宣布圣人
+Innocent III stressed that only the Pope had the authority to declare a saint:英诺森三世强调只有教皇才有权宣布圣人
 the epistles of Saint Paul:圣保罗书信
 Smith began to cast around for uninhabited territories where the Saints might build their Kingdom:Smith开始四处寻找圣徒可能建立王国的无人居住的地区
 the poor saints which are at Jerusalem:耶路撒冷的可怜圣徒
 she's a saint to go on living with that man:她是个能和那个男人继续生活下去的圣人
 the sandy shores of the River Nid, where Holy Olaf's bones were laid to rest before he had been sainted:尼德河的沙滩，在圣奥拉夫被圣化之前，他的骨头安息在那里
 
-make (someone or something) late or slow:make（某人或某事）迟到或慢
+make (someone or something) late or slow:使（某人或某物）迟到或变慢
 be late or slow, loiter:迟到或慢，闲逛
-postpone or defer (an action):postpone或defer（一个动作）
+postpone or defer (an action):推迟或推迟（一项行动）
 a period of time by which something is late or postponed:某事迟到或推迟的一段时间
 the action of delaying or being delayed:延迟或被延迟的动作
 the time interval between the propagation of an electrical signal and its reception.:电信号的传播和接收之间的时间间隔。
@@ -140,12 +140,12 @@ her work is influential in feminist psychology:她的作品对女权主义心理
 young influentials:年轻有影响力的人
 
 put forward (someone or something) with approval as being suitable for a particular purpose or role:提出（某人或某事）经批准适合特定目的或角色
-advise or suggest (something) as a course of action:advise或建议（某事）作为行动方案
+advise or suggest (something) as a course of action:建议或建议（某事）作为一项行动
 advise (someone) to do something:advise（某人）做某事
 make (someone or something) appealing or desirable:使（某人或某物）有吸引力或可取
-commend or entrust someone or something to (someone):commend或委托某人或某事给（某人）
+commend or entrust someone or something to (someone):表扬或委托某人或某事给（某人）
 recommend |ˌrɛkəˈmɛnd| Verb/:推荐,建议
-George had recommended some local architects:George推荐了一些当地的建筑师
+George had recommended some local architects:乔治推荐了一些当地的建筑师
 some doctors recommend putting a board under the mattress:一些医生建议在床垫下放一块木板
 you are strongly recommended to seek professional advice:强烈建议您寻求专业意见
 the house had much to recommend it:房子有很多值得推荐的地方
@@ -188,12 +188,12 @@ he repositioned the journal as a leading organ of neoconservatism:他将杂志�
 
 refer to (a passage, book, or author) as evidence for or justification of an argument or statement, especially in a scholarly work:指（一篇文章、一本书或作者）作为论证或陈述的证据或理由，尤其是在学术著作中
 mention as an example:提及为例
-praise (someone, typically a member of the armed forces) in an official report for a courageous act:praise（某人，通常是武装部队成员）在一份勇敢的行为的官方报告中
-summon (someone) to appear in court:summon（某人）出庭
+praise (someone, typically a member of the armed forces) in an official report for a courageous act:在官方报告中表扬（某人，通常是武装部队成员）的勇敢行为
+summon (someone) to appear in court:传唤（某人）出庭
 a citation.:引用。
 cite |sʌɪt| Noun/Verb/:引用,举
 authors who are highly regarded by their peers tend to be cited:受到同行高度评价的作者往往被引用
-medics have been cited as a key example of a modern breed of technical expert:medics被认为是现代技术专家的一个关键例子
+medics have been cited as a key example of a modern breed of technical expert:医务人员被认为是现代技术专家的一个重要例子
 he has been cited many times for his contributions in the intelligence area:他因在情报领域的贡献而被多次引用
 the writ cited only four of the signatories of the petition:令状仅引用了请愿书的四个签署人
 
@@ -204,7 +204,7 @@ the doctrine that all natural phenomena, including life and thought, can be expl
 mechanism |ˈmɛkənɪz(ə)m| Noun/:机制,机理,机构
 a third motor powers the tape eject mechanism:第三个电机为磁带弹出机构提供动力
 the immune system's mechanism for detecting pathogens:免疫系统检测病原体的机制
-his Irma La Douce is a musical based on the farce mechanism:hisIrmaLaDouce是一部基于闹剧机制的音乐剧
+his Irma La Douce is a musical based on the farce mechanism:他的 Irma La Douce 是一部基于闹剧机制的音乐剧
 
 an event in which people compete for supremacy in a sport or other activity, or in a quality:一种人们在一项运动或其他活动中争夺至高无上地位的事件，或
 a competition for a political position:政治地位的竞争
@@ -212,12 +212,12 @@ a dispute or conflict:争议或冲突
 engage in competition to attain (a position of power):参与竞争以获得（权力地位）
 take part in (a competition or election):参加（比赛或选举）
 oppose (an action or theory) as mistaken or wrong:反对（一个行动或理论）错误或错误
-engage in dispute about:engage关于
+engage in dispute about:参与争议
 contest |ˈkɒntɛst| Noun/Verb/:比赛,竞赛
 a tennis contest:网球比赛
 a leadership contest:a领导力竞赛
 there has always been a contest between tenants and landlords over how they share both benefits and costs:租户和房东之间一直存在关于如何分享收益和成本的竞赛
-she declared her intention to contest the presidency:she宣布她打算竞选总统
+she declared her intention to contest the presidency:她宣布她打算竞选总统
 a coalition was formed to contest the presidential elections:a联盟成立以竞选总统选举
 the former chairman contests his dismissal:前主席对他的解职提出质疑
 the issues have been hotly contested:这些问题一直备受争议
@@ -257,9 +257,9 @@ the form of a syllogism, classified according to the position of the middle term
 have a significant part or role in a situation or process:在某种情况或过程中发挥重要作用
 think, consider, or expect to be the case:认为、考虑或期望是这种情况
 (of a recent event or newly discovered fact) be perfectly understandable and only to be expected:（最近发生的事件或新发现的事实）完全可以理解并且只能在意料之中
-calculate or work out (an amount or value) arithmetically:calculate或算出（数量或值）
+calculate or work out (an amount or value) arithmetically:算术计算或算出（数量或价值）
 represent in a diagram or picture:表示在图表或图片中
-embellish (something) with a design or pattern:embellish（某物）带有设计或图案
+embellish (something) with a design or pattern:用设计或图案装饰（某物）
 figure |ˈfɪɡə| Noun/Verb/:数字,计算,图,人物
 the trade figures:贸易数据
 the figure 7:图7
@@ -267,8 +267,8 @@ a figure of two thousand pounds:一个两千磅的数字
 she has no head for figures:她对数字没有头脑
 she had always been so proud of her figure:她一直为自己的身材感到骄傲
 a dark figure emerged from the shadows:一个黑影从阴影中出现
-starkly painted figures:starkly彩绘人物
-Williams became something of a cult figure:Williams成为了一个狂热的人物
+starkly painted figures:鲜明的彩绘人物
+Williams became something of a cult figure:威廉姆斯成了某种崇拜人物
 a red ground with white and blue geometrical figures:一个红底白蓝几何图形
 figure 1 shows an ignition circuit:图1显示了一个点火电路
 the issue of nuclear policy figured prominently in the talks:核政策问题在会谈中占据突出地位
@@ -276,12 +276,12 @@ I figured that I didn't have much of a chance:我认为我没有多少机会
 well, she supposed that figured:嗯，她猜想
 my accountant figured my tax wrong:我的会计师认为我的税错了
 varieties of this Cape genus are figured from drawings made there:这个开普属的变种是从那里制作的图纸中得出的
-the 11th-century silken dalmatic is figured with double-headed griffins:the11世纪的丝质dalmatic饰有双头狮鹫
+the 11th-century silken dalmatic is figured with double-headed griffins:11 世纪的丝绸达尔马提亚犬饰有双头狮鹫
 
 indicate the truth or existence of (something) by suggestion rather than explicit reference:通过暗示而不是明确的参考来表明（某事）的真相或存在
 (of a fact or occurrence) suggest (something) as a logical consequence:（事实或事件）建议（某事）作为逻辑结果
 imply |ɪmˈplʌɪ| Verb/:意味着,暗示,隐含
-salesmen who use jargon to imply superior knowledge:salesmen使用行话暗示知识渊博
+salesmen who use jargon to imply superior knowledge:推销员使用行话来暗示知识渊博
 the forecasted traffic increase implied more roads and more air pollution:预测的交通增长意味着更多的道路和更多的空气污染
 
 a strong desire to know or learn something:强烈渴望了解或学习某事
@@ -293,29 +293,29 @@ he showed them some of the curiosities of the house:他向他们展示了这所�
 succeed in persuading or leading (someone) to do something:成功说服或引导（某人）做某事
 bring about or give rise to:带来或引起
 produce (an electric charge or current or a magnetic state) by induction:通过感应产生（电荷、电流或磁态）
-cause (radioactivity) by bombardment with radiation.:cause（放射性）通过辐射轰击。
+cause (radioactivity) by bombardment with radiation.:由辐射轰击引起（放射性）。
 initiate or enhance (a biochemical process, especially the synthesis of an enzyme).:启动或增强（生化过程，尤其是酶的合成）。
-bring on (the birth of a baby) artificially, typically by the use of drugs:bringon（婴儿的出生）人工，通常是通过使用药物
+bring on (the birth of a baby) artificially, typically by the use of drugs:人工生育（婴儿的出生），通常是使用药物
 bring on childbirth in (a pregnant woman) artificially, typically by the use of drugs:通过人工方式（通常是使用药物）使（孕妇）分娩
-derive by inductive reasoning:derive通过归纳推理
+derive by inductive reasoning:归纳推理推导
 induce |ɪnˈdjuːs| Verb/:诱导,诱发
 the pickets induced many workers to stay away:纠察队诱使许多工人远离
 none of these measures induced a change of policy:这些措施都没有引起政策的改变
 the current in the primary winding is induced by the rotating magnet:初级绕组中的电流由旋转磁铁感应
 she was 11 days overdue when labour was induced:她引产时已逾期11天
-Carol was induced just four days before her baby's due date:Carol在她的宝宝预产期前四天被引产
+Carol was induced just four days before her baby's due date:卡罗尔在预产期前四天接受引产
 from the experimental evidence, one infers or induces the hypothesis:从实验证据，一个推断或归纳假设
 
-accept or admit the existence or truth of:accept或承认存在或真实
-recognize the importance or quality of:recognize的重要性或质量
+accept or admit the existence or truth of:接受或承认的存在或真实
+recognize the importance or quality of:认识到的重要性或质量
 express gratitude for or appreciation of:表达感谢或赞赏
-accept the validity or legitimacy of:accept的有效性或合法性
+accept the validity or legitimacy of:接受的有效性或合法性
 show that one has noticed or recognized (someone) by making a gesture or greeting:通过做手势或打招呼表明一个人已经注意到或认出了（某人）
-confirm (receipt of something):confirm（收到东西）
+confirm (receipt of something):确认（收到东西）
 acknowledge |əkˈnɒlɪdʒ| Verb/:承认,确认,认可
 the art world has begun to acknowledge his genius:艺术界已经开始承认他的天才
 he received a letter acknowledging his services:他收到一封信，承认他的服务
-Henry acknowledged Richard as his heir:Henry承认理查德是他的继承人
+Henry acknowledged Richard as his heir:亨利承认理查德为他的继承人
 she refused to acknowledge my presence:她拒绝承认我的存在
 I should be grateful if you would acknowledge receipt of this letter:如果您能确认收到这封信，我将不胜感激
 
@@ -330,7 +330,7 @@ work as a chef:当厨师
 chef |ʃɛf| Noun/Verb/:厨师,大厨
 he cheffed on a yacht in the Riviera for two years:他在里维埃拉的一艘游艇上吃了两年
 
-done or chosen in accordance with wisdom or prudence, likely to be of benefit:done或根据智慧或谨慎选择，可能是有益的
+done or chosen in accordance with wisdom or prudence, likely to be of benefit:根据智慧或谨慎做出或选择，可能有益
 (of a person) possessing or displaying prudence:（某人）拥有或表现出谨慎的态度
 (of an object) practical and functional rather than decorative:（物体的）实用的和功能性的而不是装饰性的
 readily perceived, appreciable:容易察觉的，可感知的
@@ -346,14 +346,14 @@ a line or set of lines enclosing or indicating the shape of an object in a sketc
 the contours or bounds of an object:对象的轮廓或边界
 a representation of a word in shorthand.:一个单词的速记表示。
 a general description or plan showing the essential features of something but not the detail:一个概括性的描述或计划，显示某事物的基本特征，而不是细节
-draw, trace, or define the outer edge or shape of:draw、trace、或定义外边缘或形状
+draw, trace, or define the outer edge or shape of:绘制、描绘或定义外边缘或形状
 give a summary of:给出总结
 outline |ˈaʊtlʌɪn| Noun/Verb/:大纲,概述,轮廓,概要
 the chalked outline of a human body:人体的粉笔轮廓
 the outlines of dockside warehouses standing sharp on the skyline:站在天际线上的码头仓库轮廓
 an outline of parliamentary procedure:议会程序概要
 her eyes were darkly outlined with kohl:她的眼睛用眼影勾勒出深色的轮廓
-she outlined the case briefly:she简要概述了案件
+she outlined the case briefly:她简要概述了案件
 
 act in response to something, respond in a particular way:响应某事，以特定方式响应
 react |rɪˈakt| Verb/:反应,做出反应

@@ -48,12 +48,12 @@ the process or period of gathering in crops:收获作物的过程或时期
 the season's yield or crop:当季的产量或作物
 a quantity of animals caught or killed for human use:为人类使用而捕获或杀死的动物数量
 the product or result of an action:行动的产物或结果
-gather (a crop) as a harvest:gather（一种作物）作为收获
-catch or kill (animals) for human consumption:catchorkill(animals)供人类食用
-remove (cells, tissue, or an organ) from a person or animal for experiment or transplant.:remove（细胞、组织或器官）从人或动物身上取出用于实验或移植。
-collect or obtain (a resource) for future use:collect或获取（资源）以供将来使用
+gather (a crop) as a harvest:收割（作物）作为收获
+catch or kill (animals) for human consumption:捕捉或杀死（动物）供人类食用
+remove (cells, tissue, or an organ) from a person or animal for experiment or transplant.:从人或动物身上取出（细胞、组织或器官）进行实验或移植。
+collect or obtain (a resource) for future use:收集或获取（资源）以备将来使用
 harvest |ˈhɑːvɪst| Noun/Verb/:收成,收获,丰收
-farmers work longer hours during the harvest:farmers在收获期间工作的时间更长
+farmers work longer hours during the harvest:农民在收获期间工作时间更长
 a poor harvest:收成不好
 a limited harvest of wild mink:有限的野生水貂收获
 in terms of science, Apollo yielded a meagre harvest:在科学方面，阿波罗收获微薄
@@ -74,7 +74,7 @@ show an immune response to (a transplanted organ or tissue) so that it fails to 
 a person or thing dismissed as inadequate or unacceptable:一个人或事物因不足或不可接受而被解雇
 an item sold cheaply because of minor flaws:一件因小瑕疵而低价出售的商品
 reject |rɪˈdʒɛkt| Noun/Verb/:拒绝,次品,不接受
-union negotiators rejected a 1.5 per cent pay award:union谈判代表拒绝了1.5%的薪酬裁决
+union negotiators rejected a 1.5 per cent pay award:工会谈判代表拒绝了 1.5% 的薪酬裁决
 an application to hold a pop concert at the club was rejected:在俱乐部举办流行音乐会的申请被拒绝
 she didn't want him to feel he had been rejected after his sister was born:她不想让他在妹妹出生后觉得自己被拒绝了
 his body could begin to reject the implanted heart:他的身体可能会开始排斥植入的心脏
@@ -109,19 +109,19 @@ many people are unaware of the implications of such reforms:许多人不知道�
 our implication in the problems:我们对问题的影响
 
 ascertain the size, amount, or degree of (something) by using an instrument or device marked in standard units:通过使用以标准单位标记的仪器或设备来确定（某物）的大小、数量或程度
-be of (a specified size or degree):beof(指定的大小或程度)
+be of (a specified size or degree):属于（特定的大小或程度）
 ascertain the size and proportions of (someone) in order to make or provide clothes for them:确定（某人）的尺寸和比例，以便为他们制作或提供衣服
 take an exact quantity of something:采取精确数量的东西
 assess the importance, effect, or value of (something):评估（某事）的重要性、效果或价值
 judge someone or something by comparison with (a certain standard):通过与（某个标准）比较来判断某人或某事
 reach the required or expected standard:达到要求或预期的标准
-scrutinize someone in order to form an assessment of them:scrutinize某人以形成对他们的评估
-travel over (a certain distance or area):travelover（一定距离或区域）
+scrutinize someone in order to form an assessment of them:仔细检查某人以形成对他们的评估
+travel over (a certain distance or area):穿越（一定距离或区域）
 measure |ˈmɛʒə| Noun/Verb/:措施,测量,衡量,测度,量度
 the amount of water collected is measured in pints:收集的水量以品脱为单位
 the fabric measures 137 cm wide:面料宽137厘米
 he will be measured for his team blazer next week:他将在下周为他的团队西装外套进行测量
-she helped to measure out the ingredients:she帮忙量出成分
+she helped to measure out the ingredients:她帮忙量出成分
 it is hard to measure teaching ability:教学能力很难衡量
 she did not need to measure herself against some ideal:她不需要用某种理想来衡量自己
 I'm afraid we didn't measure up to the standards they set:恐怕我们没有达到他们设定的标准
@@ -151,16 +151,16 @@ extract (liquid or a soft substance) from something by compressing or twisting i
 manage to get into or through a narrow or restricted space:设法进入或穿过狭窄或受限的空间
 manage to force into or through a narrow or restricted space:设法强行进入或通过狭窄或受限的空间
 obtain (something) from someone with difficulty:从有困难的人那里获得（东西）
-pressurize (someone) in order to obtain something from them:pressurize（某人）为了从他们那里得到一些东西
+pressurize (someone) in order to obtain something from them:向（某人）施加压力以从他们那里获得某些东西
 (especially in a financial or commercial context) have a damaging or restricting effect on:（尤其是在金融或商业背景下）对
-force (an opponent) to discard a guarding or potentially winning card.:force（对手）丢弃防守或可能获胜的牌。
+force (an opponent) to discard a guarding or potentially winning card.:强迫（对手）弃掉一张守卫或可能获胜的牌。
 an act of squeezing something:挤压某物的行为
 a hug.:一个拥抱。
 a state of being forced into a small or restricted space:被迫进入狭小或受限空间的状态
 a crowded social gathering.:一个拥挤的社交聚会。
 a small amount of liquid extracted from something by squeezing:通过挤压从某物中提取的少量液体
 a strong financial demand or pressure, typically a restriction on borrowing, spending, or investment in a financial crisis:强劲的金融需求或压力，通常是在金融危机中限制借贷、支出或投资
-money illegally extorted or exacted from someone:money非法勒索或向某人索取
+money illegally extorted or exacted from someone:非法勒索或勒索某人的金钱
 a tactic that forces an opponent to discard an important card.:一种迫使对手丢弃重要牌的策略。
 a moulding or cast of an object, or an impression or copy of a design, obtained by pressing a pliable substance round or over it.:一个物体的模制或铸件，或设计的印模或复制品，通过将柔韧的物质压在其周围或上方而获得。
 a person's girlfriend or boyfriend:某人的女朋友或男朋友
@@ -168,7 +168,7 @@ an act of hitting a ball short to the infield to enable a runner on third base t
 squeeze |skwiːz| Noun/Verb/:,挤压,捏
 Kate squeezed his hand affectionately:Kate深情地捏了捏他的手
 the outer stalk remains once the juice has been squeezed from sugar cane:从甘蔗中榨出汁液后，外面的茎仍然存在
-Sarah squeezed in beside her:Sarah挤在她身边
+Sarah squeezed in beside her:莎拉挤在她身边
 she squeezed herself into her tightest pair of jeans:她把自己挤进她最紧的牛仔裤里
 you were evidently attempting to squeeze as much money out of him as you could:你显然是想从他身上榨取尽可能多的钱
 she used the opportunity to squeeze him for information:她利用这个机会向他逼问信息
@@ -176,7 +176,7 @@ the economy is being squeezed by foreign debt repayments:经济受到外债偿�
 a gentle squeeze of the trigger:轻轻扣动扳机
 it was a tight squeeze in the tiny hall:在狭小的大厅里挤得很紧
 a squeeze of lemon juice:一杯柠檬汁
-industry faced higher costs and a squeeze on profits:industry面临更高的成本和利润的挤压
+industry faced higher costs and a squeeze on profits:行业面临更高的成本和利润的挤压
 he was out to extract some squeeze from her:他想从她身上榨取一些东西
 the poor guy just lost his main squeeze:那个可怜的家伙刚刚失去了他的主要压力
 
@@ -187,10 +187,10 @@ a display of a quality or emotion:一种品质或情感的表现
 a scholarship awarded to a student at a school or university, usually after a competitive examination:a奖学金授予学校或大学的学生，通常是在竞争性考试之后
 exhibition |ˌɛksɪˈbɪʃn| Noun/:展览,展,展览会,展会
 an exhibition of French sculpture:法国雕塑展
-fields which have been ploughed with a supreme exhibition of the farm worker's skills:fields已被犁过的农场工人技能的最高展示
+fields which have been ploughed with a supreme exhibition of the farm worker's skills:耕种过的田地，展示了农场工人的技能
 a false exhibition of concern for smaller nations:一个对小国的虚假关注
 an exhibition match:一场表演赛
-Brasenose awarded him a senior Hulme exhibition:Brasenose授予他高级Hulme展览
+Brasenose awarded him a senior Hulme exhibition:Brasenose 授予他高级 Hulme 展览
 
 the state or fact of having a duty to deal with something or of having control over someone:有义务处理某事或控制某人的状态或事实
 the state or fact of being accountable or to blame for something:对某事负责或归咎于某事的状态或事实
@@ -208,25 +208,25 @@ intensify, increase, or further improve the quality, value, or extent of:加强�
 enhance |ɪnˈhɑːns| Verb/:提高,增强
 his refusal does nothing to enhance his reputation:他的拒绝无助于提升他的声誉
 
-continue to have (something), keep possession of:continuetohave(something),继续拥有
+continue to have (something), keep possession of:继续拥有（某物），继续拥有
 not abolish or alter, maintain:不废除或改变，维持
 keep in one's memory:记在心里
-absorb and continue to hold (a substance):absorb并继续持有（一种物质）
-keep (something) in place, hold fixed:keep(something)inplace,holdfixed
+absorb and continue to hold (a substance):吸收并继续持有（一种物质）
+keep (something) in place, hold fixed:保持（某物）在原地，保持固定
 keep (someone) engaged in one's service:keep（某人）从事自己的服务
 secure the services of (a barrister) with a preliminary payment:通过预付款确保（大律师）的服务
 retain |rɪˈteɪn| Verb/:,保留
 built in 1830, the house retains many of its original features:建于1830年，这所房子保留了许多原有的特色
 the rights of defendants must be retained:必须保留被告的权利
 I retained a few French words and phrases:我保留了一些法语单词和短语
-limestone is known to retain water:limestone以保水着称
+limestone is known to retain water:众所周知，石灰石可以保水
 the successful design of a cartridge belt requires that the cartridges in it be properly located and retained in that position:弹药带的成功设计要求其中的弹药筒正确定位并保持在该位置
-he has been retained as a freelance:he被聘为自由职业者
+he has been retained as a freelance:他被聘为自由职业者
 retain a barrister to handle the client's business:聘请大律师处理客户的业务
 
 transport or carry to a place:运输或携带到一个地方
 make (an idea, impression, or feeling) known or understandable:使（一个想法、印象或感觉）为人所知或可以理解
-communicate (a message or information):communicate（消息或信息）
+communicate (a message or information):沟通（消息或信息）
 transfer the title to (property):将所有权转让给（财产）
 convey |kənˈveɪ| Verb/:传达,传送,表达
 pipes were laid to convey water to the house:铺设管道将水输送到房屋
@@ -240,7 +240,7 @@ of a familiar or predictable type, formulaic:熟悉或可预测的类型，公�
 the action or process of regulating or being regulated:监管或被监管的行为或过程
 regulation |ˌrɛɡjʊˈleɪʃn| Noun/:规定,规定的,规,条例,监管
 planning regulations:规划规定
-regulation army footwear:regular军鞋
+regulation army footwear:军规军鞋
 a regulation Western parody:a监管西方模仿
 the regulation of financial markets:金融市场的监管
 
@@ -253,18 +253,18 @@ a gentleman of complete integrity:一个完全正直的绅士
 upholding territorial integrity and national sovereignty:维护领土完整和国家主权
 the structural integrity of the novel:小说的结构完整性
 
-join or merge to form a single unit or substance:join或合并以形成单个单元或实体
-unite to form a compound:unite形成一个化合物
-unite for a common purpose:unite为了一个共同的目的
+join or merge to form a single unit or substance:加入或合并形成一个单一的单位或物质
+unite to form a compound:团结起来形成一个复合体
+unite for a common purpose:为共同的目标团结起来
 engage in simultaneously:同时参与
 a group of people or companies acting together for a commercial purpose:一群人或公司为了商业目的一起行动
 a combine harvester.:一台联合收割机。
-harvest (a crop) by means of a combine harvester:harvest（一种作物）通过联合收割机
+harvest (a crop) by means of a combine harvester:用联合收割机收割（作物）
 combine |kəmˈbʌɪn| Noun/Verb/:结合,联合企业,联合,合并,联合起来
 oxygen and hydrogen do not combine at room temperatures:氧和氢在室温下不结合
 an ideal place to combine shopping and sightseeing:结合购物和观光的理想场所
 one of the world's biggest food and personal products combines:世界上最大的食品和个人产品之一
-he combined ten acres of linseed:he合十亩亚麻籽
+he combined ten acres of linseed:他合十亩亚麻籽
 
 permanency |ˈpəːmənənsi| Noun/:永久性,永久
 
@@ -276,7 +276,7 @@ a list of courses offered by a university or college.:大学或学院提供的�
 a series of unwelcome or unpleasant things:一系列不受欢迎或不愉快的事情
 make a systematic list of (items of the same type):制作（相同类型的项目）的系统列表
 enter (an item) in a catalogue:在目录中输入（项目）
-list (similar situations, qualities, or events) in succession:list（类似的情况、品质或事件）连续
+list (similar situations, qualities, or events) in succession:连续列出（类似的情况、品质或事件）
 catalogue |ˈkatəlɒɡ| Noun/Verb/:目录,编目,首页
 a computerized library catalogue:a计算机化图书馆目录
 a mail-order catalogue:a邮购目录
@@ -297,14 +297,14 @@ a ban on school buses using the road was imposed by the county council:县议会
 a council flat:a议会单位
 that evening, she held a family council:那天晚上，她召开了家庭会议
 
-make (something) ready for use or consideration:make(something)准备好使用或考虑
-make (food or a meal) ready for cooking or eating:make（食物或饭菜）准备做饭或吃饭
-make (a substance) by a chemical reaction or series of reactions:make（一种物质）通过化学反应或一系列反应
+make (something) ready for use or consideration:使（某物）准备好使用或考虑
+make (food or a meal) ready for cooking or eating:Make (food or a meal) 准备做饭或吃
+make (a substance) by a chemical reaction or series of reactions:通过化学反应或一系列反应制造（物质）
 make (someone) ready or able to do or deal with something:使（某人）准备好或能够做或处理某事
 be willing to do something:愿意做某事
 (in conventional harmony) lead up to (a discord) by means of preparation.:（在传统和声中）通过准备导致（不和谐）。
 prepare |prɪˈpɛː| Verb/:准备,做好准备
-prepare a brief summary of the article:prepare文章的简要总结
+prepare a brief summary of the article:准备文章的简短摘要
 she was busy preparing lunch:她正忙着准备午餐
 alkanes may be prepared by the removal of carbon dioxide from the corresponding carboxylic acid:烷烃可以通过从相应的羧酸中去除二氧化碳来制备
 schools should prepare children for life:学校应该为孩子们的生活做好准备
@@ -336,7 +336,7 @@ it is best to insert the battens before the outhaul is tensioned:最好在大修
 
 (of an event or fact) cause or bring about (an action or feeling):（事件或事实）导致或导致（行动或感觉）
 cause someone to take a course of action:导致某人采取行动
-encourage (a hesitating speaker) to say something:encourage（犹豫的说话者）说点什么
+encourage (a hesitating speaker) to say something:鼓励（犹豫的说话者）说些什么
 supply a forgotten word or line to (an actor) during the performance of a play.:在演出期间向（演员）提供忘记的单词或台词。
 (of a computer) request input from (a user):（计算机的）请求来自（用户）的输入
 an act of encouraging a hesitating speaker:鼓励犹豫不决的演讲者的行为
@@ -349,7 +349,7 @@ done without delay, immediate:立即完成，立即
 exactly (with reference to a specified time):exactly（参考指定时间）
 prompt |prɒm(p)t| Adjective/Adverb/Noun/Verb/:迅速的,促使,提词,准时地,提示
 the violence prompted a wave of refugees to flee the country:暴力促使一波难民逃离该国
-curiosity prompted him to look inside:curiosity促使他向内看
+curiosity prompted him to look inside:好奇心促使他往里看
 the online form prompts users for data:在线表格提示用户输入数据
 with barely a prompt, Barbara talked on:几乎没有提示，芭芭拉继续说
 she would have died but for the prompt action of two ambulancemen:如果不是两名救护人员的迅速行动，她早就死了
@@ -380,22 +380,22 @@ a point or set formed by mapping from another point or set.:从另一个点或�
 an exact copy of a computer's hard disk, made for backing up data or setting up new machines.:计算机硬盘的精确副本，用于备份数据或设置新机器。
 a mental representation or idea:心理表征或想法
 a person or thing that closely resembles another:与另一个人非常相似的人或事物
-semblance or likeness:semblance或likeness
+semblance or likeness:外表或相似
 (in biblical use) an idol.:（在圣经中使用）一个偶像。
 the general impression that a person, organization, or product presents to the public:个人、组织或产品向公众呈现的总体印象
 a simile or metaphor:一个明喻或隐喻
-make a representation of the external form of:make的外部形式的表示
+make a representation of the external form of:对外部形式进行表示
 make a visual representation of (something) by scanning it with a detector or electromagnetic beam.:通过用探测器或电磁束扫描（某物）来直观地表示它。
 make an exact copy of (a computer's hard disk):制作（计算机硬盘）的精确副本
 form a mental picture or idea of:形成一个心理画面或想法
 image |ˈɪmɪdʒ| Noun/Verb/:图片,照片,图像,形象
 her work juxtaposed images from serious and popular art:她的作品将严肃和流行艺术中的图像并列
-Voyager 2 sent back images of the planet Neptune:Voyager2发回了海王星的图像
+Voyager 2 sent back images of the planet Neptune:航海者 2 号发回了海王星的图像
 I had a sudden image of Sal bringing me breakfast in bed:我突然想起萨尔在床上给我送早餐的画面
 he's the image of his father:他是他父亲的形象
 made in the image of God:按照上帝的形象制造
-she strives to project an image of youth:she努力塑造青春形象
-he uses the image of a hole to describe emotional emptiness:he用一个洞的形象来形容情感的空虚
+she strives to project an image of youth:她努力塑造青春形象
+he uses the image of a hole to describe emotional emptiness:他用一个洞的形象来形容情感的空虚
 artworks which imaged women's bodies:艺术作品描绘了女性的身体
 the hard disk drive should be imaged using a specialized bitstream backup product:硬盘驱动器应使用专门的比特流备份产品进行映像
 it is possible for us to image a society in which no one committed crime:我们可以想象一个没有人犯罪的社会

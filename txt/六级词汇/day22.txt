@@ -9,7 +9,7 @@ descendant					后代
 fulfill					实现，满足，符合
 collective					集体的
 amend						修改，纠正，改进
-tangled					缠结，混乱，争论
+tangled					缠在一起的
 qualification				资格，素质，限定
 recall					召回，回忆起，使...恢复
 adopt						领养，提名，采用
@@ -34,7 +34,7 @@ dishonestly persuade (someone) to act in one's favour by a gift of money or othe
 a sum of money or other inducement offered or given to bribe someone:为贿赂某人而提供或给予的一笔金钱或其他诱因
 bribe |brʌɪb| Noun/Verb/:贿赂,行贿
 they attempted to bribe opponents into losing:他们试图贿赂对手输球
-lawmakers were caught accepting bribes to bring in legalized gambling:lammakers被抓获收受贿赂以将赌博合法化
+lawmakers were caught accepting bribes to bring in legalized gambling:立法者被抓获收受贿赂以将赌博合法化
 
 an estimate based on a mixture of guesswork and calculation:基于猜测和计算的混合估计
 estimate (something) using a mixture of guesswork and calculation:估计（某事）使用猜测和计算的混合
@@ -42,7 +42,7 @@ guesstimate |ˈɡɛstɪmət| Noun/Verb/:估计,猜测
 a rough guesstimate of public expenditure:公共支出的粗略估计
 the task is to guesstimate the total vote:任务是猜测总票数
 
-discussion aimed at reaching an agreement:discussion旨在达成协议
+discussion aimed at reaching an agreement:旨在达成协议的讨论
 the action or process of transferring legal ownership of a document.:转移文档合法所有权的行为或过程。
 negotiation |nɪˌɡəʊʃɪˈeɪʃn| Noun/:谈判,协商
 a worldwide ban is currently under negotiation:全球禁令目前正在谈判中
@@ -52,31 +52,31 @@ hardship |ˈhɑːdʃɪp| Noun/:,艰辛
 intolerable levels of hardship:无法忍受的艰辛
 
 a small piece of metal, plastic, or cloth bearing a design or words, typically worn to identify a person or to indicate membership of an organization or support for a cause:带有设计或文字的一小块金属、塑料或布料，通常佩戴以识别一个人或表明一个组织的成员身份或对某项事业的支持
-a distinguishing object or emblem:adistinguishingobjector徽章
+a distinguishing object or emblem:有区别的物体或标志
 a feature or sign which reveals a particular quality:揭示特定品质的特征或标志
 mark with a badge or other distinguishing emblem:用徽章或其他有区别的标志做标记
 badge |badʒ| Noun/Verb/:徽章,胸牌
 the badge of the Cheshire Regiment:柴郡军团徽章
 the car's front badge is much loved by thieves:车前徽章深受小偷喜爱
-philanthropy was regarded as a badge of social esteem:philanthropy被视为社会尊重的象征
+philanthropy was regarded as a badge of social esteem:慈善事业被视为社会尊重的象征
 
 an agreement or settlement of a dispute that is reached by each side making concessions:双方做出让步达成的协议或争端解决
 an intermediate state between conflicting alternatives reached by mutual concession:通过相互让步达成的相互冲突的备选方案之间的中间状态
 the expedient acceptance of standards that are lower than is desirable:权宜之计接受低于理想的标准
 settle a dispute by mutual concession:通过相互让步解决争端
-expediently accept standards that are lower than is desirable:expediently接受低于期望的标准
+expediently accept standards that are lower than is desirable:方便地接受低于预期的标准
 weaken or harm by accepting standards that are lower than is desirable:通过接受低于期望的标准而削弱或伤害
 bring into disrepute or danger by indiscreet, foolish, or reckless behaviour:因轻率、愚蠢或鲁莽的行为而名誉扫地或陷入危险
 cause to become vulnerable or function less effectively:导致变得脆弱或运作效率降低
 compromise |ˈkɒmprəmʌɪz| Noun/Verb/:妥协,让步,在
 eventually they reached a compromise:最终他们达成了妥协
 a compromise between the freedom of the individual and the need to ensure orderly government:个人自由与确保有序政府的需要之间的妥协
-sexism should be tackled without compromise:sexism应该毫不妥协地解决
+sexism should be tackled without compromise:性别歧视应该毫不妥协地解决
 in the end we compromised and deferred the issue:最后我们妥协并推迟了这个问题
 we were not prepared to compromise on safety:我们不准备在安全上妥协
 he won't accept any decisions which compromise his principles:他不会接受任何有损其原则的决定
 situations in which his troops could be compromised:他的部队可能受到威胁的情况
-yo-yo dieting can compromise your immune system:yo-yo节食会损害你的免疫系统
+yo-yo dieting can compromise your immune system:溜溜球节食会损害您的免疫系统
 
 
 an amount of something that is more than necessary, permitted, or desirable:超出必要、允许或期望的某物的数量
@@ -93,15 +93,15 @@ as regards other cancers in this age group, there is a small excess during 1984�
 there is no issue as to excess of jurisdiction:不存在越权问题
 bouts of alcoholic excess:酒精过量发作
 the worst excesses of the French Revolution:法国大革命最严重的过激行为
-we will deduct the excess from the loss and then pay up to the policy limit:wewilldeducttheexcessfromtheloss然后赔付至保单限额
-trim any excess fat off the meat:trim肉上多余的脂肪
+we will deduct the excess from the loss and then pay up to the policy limit:
+trim any excess fat off the meat:切掉肉上多余的脂肪
 the full excess fare had to be paid:必须支付全部超额票价
 
 a person, plant, or animal that is descended from a particular ancestor:从特定祖先传下来的人、植物或动物
-a machine, artefact, system, etc., that has developed from an earlier, more rudimentary version:amachine,artefact,system,etc.，从早期的，更基本的版本发展而来
+a machine, artefact, system, etc., that has developed from an earlier, more rudimentary version:从早期的、更基本的版本发展而来的机器、人工制品、系统等
 descendant |dɪˈsɛnd(ə)nt| Noun/:后裔,子孙
 she's a descendant of Charles Darwin:她是查尔斯·达尔文的后裔
-house music is a descendant of disco:housemusic是disco的后裔
+house music is a descendant of disco:浩室音乐是迪斯科的后裔
 
 fulfill | 实现,履行,满足,完成
 
@@ -111,7 +111,7 @@ fulfill | 实现,履行,满足,完成
 
 done by people acting as a group:由一群人完成
 relating to or shared by all the members of a group:与一个团体的所有成员有关或由其共享
-taken as a whole, aggregate:takenasawhole，聚合
+taken as a whole, aggregate:作为一个整体，聚合
 a cooperative enterprise:一家合作企业
 a collective farm.:一个集体农场
 collective |kəˈlɛktɪv| Adjective/Noun/:集体,集体的
@@ -120,8 +120,8 @@ ministers who share collective responsibility:分担集体责任的部长
 the collective power of the workforce:劳动力的集体力量
 the exhibition showcases the work of art collectives from more than 20 countries:展览展示了来自20多个国家的艺术集体的作品
 
-make minor changes to (a text, piece of legislation, etc.) in order to make it fairer or more accurate, or to reflect changing circumstances:makeminorchangesto(atext,pieceoflegislative,etc.)以使其更公平或更准确，或反映不断变化的情况
-improve the texture or fertility of (soil):improve（土壤）的质地或肥力
+make minor changes to (a text, piece of legislation, etc.) in order to make it fairer or more accurate, or to reflect changing circumstances:对（文本、立法等）进行微小的修改，以使其更公平或更准确，或反映不断变化的情况
+improve the texture or fertility of (soil):改善（土壤）的质地或肥力
 put right:放对了
 amend |əˈmɛnd| Verb/:修正,修改,更正
 the rule was amended to apply only to non-members:规则被修改为仅适用于非会员
@@ -151,15 +151,15 @@ they need to beat Poland to ensure qualification for the World Cup finals:他们
 he played a big part in the qualifications because he scored nine goals:他在预选赛中发挥了重要作用，因为他进了九个球
 this important qualification needs to be remembered when interpreting the results:在解释结果时需要记住这个重要的条件
 
-bring (a fact, event, or situation) back into one's mind, remember:bring(afact,event,orsituation)回到一个人的脑海里，记住
-cause one to remember or think of:causeonetorememberorthinking让人想起或想起
-bring the memory or thought of someone or something to (a person or their mind):bringthememoryorthoughtofsomeoneorsomethingto(一个人或他们的思想)
+bring (a fact, event, or situation) back into one's mind, remember:将（事实、事件或情况）带回脑海，记住
+cause one to remember or think of:
+bring the memory or thought of someone or something to (a person or their mind):将某人或某事的记忆或想法带到（一个人或他们的脑海中）
 call up (stored computer data) for processing or display:调用（存储的计算机数据）进行处理或显示
 officially order (someone) to return to a place:正式命令（某人）返回一个地方
-select (a sports player) as a member of a team from which they have previously been dropped:select（一名体育运动员）作为他们之前被淘汰的球队的一员
+select (a sports player) as a member of a team from which they have previously been dropped:选择（体育运动员）作为他们之前被淘汰的球队的成员
 (of a manufacturer) request all the purchasers of (a certain product) to return it, as the result of the discovery of a fault:（制造商的）要求（某产品）的所有购买者退货，作为发现故障的结果
 bring (someone) out of a state of inattention or reverie:使（某人）脱离注意力不集中或遐想的状态
-revoke or annul (an action or decision):revoke或annul（一项行动或决定）
+revoke or annul (an action or decision):撤销或废除（一项行动或决定）
 the action or faculty of remembering something learned or experienced:记住学过或经历过的事情的行为或能力
 an act or instance of officially recalling someone or something:正式召回某人或某事的行为或实例
 the removal of an elected government official from office by a petition followed by voting:通过请愿和表决罢免一名民选政府官员
@@ -168,18 +168,18 @@ recall |rɪˈkɔːl| Noun/Verb/:记起,记忆力,召回,记得,回想
 I can still vaguely recall being taken to the hospital:我还依稀记得被送往医院的情景
 the film's analysis of contemporary concerns recalls The Big Chill:电影对当代问题的分析让人想起《大寒》
 the smell of a blackcurrant bush has ever since recalled to me that evening:黑醋栗灌木丛的气味让我回想起那天晚上
-students can recall templates or stored formats:students可以调用模板或存储的格式
+students can recall templates or stored formats:学生可以回忆模板或存储的格式
 the Panamanian ambassador was recalled from Peru:巴拿马大使被秘鲁召回
 the Fulham defender has been recalled to the Welsh squad for the World Cup:富勒姆后卫已被召回世界杯威尔士队
-all 5,128 of its UK Corsas were being recalled because of an electrical fault:所有5,128辆英国Corsas因电气故障而被召回
+all 5,128 of its UK Corsas were being recalled because of an electrical fault:
 her action recalled him to the present:她的行为让他想起了现在
-he sent another note to Lord Grey recalling his earlier communication:he向格雷勋爵发送了另一张纸条，回顾了他早先的通信
+he sent another note to Lord Grey recalling his earlier communication:他向格雷勋爵发送了另一张纸条，回顾了他早先的通信
 people's understanding and subsequent recall of stories or events:人们对故事或事件的理解和随后的回忆
 a recall of Parliament:召回国会
 voter turnout in the recall has not been as low as some pundits thought it might be:选民在召回中的投票率并不像一些专家认为的那样低
-expert systems can produce solutions with the speed, recall, accuracy, and consistency that only a computer can provide:expert系统可以产生只有计算机才能提供的速度、召回率、准确性和一致性的解决方案
+expert systems can produce solutions with the speed, recall, accuracy, and consistency that only a computer can provide:专家系统可以产生只有计算机才能提供的速度、召回率、准确性和一致性的解决方案
 
-legally take (another's child) and bring it up as one's own:legallytake(other'schild)并作为自己的孩子抚养
+legally take (another's child) and bring it up as one's own:合法领养（他人的孩子）并当作自己的孩子抚养
 choose to take up, follow, or use:选择接受、关注或使用
 choose and move to (a country or city) as one's permanent place of residence.:选择并移居（国家或城市）作为永久居住地。
 take on or assume (an attitude or position):采取或假设（态度或立场）
@@ -190,7 +190,7 @@ adopt |əˈdɒpt| Verb/:,采用,采取,通过,收养
 there are many people eager to adopt a baby:有很多人渴望领养孩子
 this approach has been adopted by many big banks:这种方式已经被很多大银行采用
 he adopted a patronizing tone:他采取了一种居高临下的语气
-she was recently adopted as Labour candidate for the constituency:she最近被选为选区的工党候选人
+she was recently adopted as Labour candidate for the constituency:她最近被选为选区的工党候选人
 the committee voted 5–1 to adopt the proposal:委员会以5票对1票通过该提案
 
 
@@ -202,8 +202,8 @@ a tasteless joke:一个无味的笑话
 
 die through submersion in and inhalation of water:死于浸入和吸入水中
 deliberately kill (a person or animal) by drowning:故意溺水杀死（人或动物）
-submerge or flood (an area):submergeorflood(一个区域)
-(of a sound) make (another sound) inaudible by being much louder:(ofasound)使(另一种声音)变得更大声而听不见
+submerge or flood (an area):淹没或淹没（一个区域）
+(of a sound) make (another sound) inaudible by being much louder:（声音）使（另一种声音）变得更大声而听不见
 be overwhelmed by a large amount of something:被大量的东西淹没
 cover or immerse food in:将食物盖上或浸入
 drown |draʊn| Verb/:淹,淹死,溺水
@@ -212,7 +212,7 @@ he immediately drowned four of the dogs:他立即淹死了四只狗
 when the ice melted the valleys were drowned:当冰融化时，山谷被淹没
 his voice was drowned out by the approaching engine noise:他的声音被逼近的引擎声淹没了
 both business and household sectors are drowning in debt:企业和家庭部门都负债累累
-good pizza is not eight inches thick and drowned in tomato sauce:goodpizza没有八英寸厚而且被番茄酱淹没了
+good pizza is not eight inches thick and drowned in tomato sauce:好的比萨不是八英寸厚，还浸在番茄酱里
 
 an event causing great suffering, destruction, and distress, such as a serious accident, crime, or natural catastrophe:造成巨大痛苦、破坏和痛苦的事件，例如严重事故、犯罪或自然灾害
 a play dealing with tragic events and having an unhappy ending, especially one concerning the downfall of the main character:一出悲惨结局的戏，尤其是主角没落的戏
@@ -259,7 +259,7 @@ a grand-niece:外甥女
 he gets thirty-five grand a year:他一年赚三十五
 
 
-lacking the quality or quantity required, insufficient for a purpose:lackingthequalityorquantitiesrequired,insufficientforapurpose
+lacking the quality or quantity required, insufficient for a purpose:缺乏所需的质量或数量，不足以达到目的
 (of a person) unable to deal with a situation or with life:（一个人的）无法处理情况或生活
 inadequate |ɪnˈadɪkwət| Adjective/:不足,不够,不足的,不充分的
 these labels prove to be wholly inadequate:这些标签被证明是完全不合适的
@@ -275,7 +275,7 @@ the action of authorizing:授权动作
 a document giving official permission:一份给予官方许可的文件
 authorization |ˌɔːθərʌɪˈzeɪʃn| Noun/:授权,权限
 the raising of revenue and the authorization of spending:收入的增加和支出的授权
-Horowitz handed him the authorization signed by Evans:Horowitz将埃文斯签署的授权书递给他
+Horowitz handed him the authorization signed by Evans:霍洛维茨将埃文斯签署的授权书递给他
 
 providing supplementary or additional help and support:提供补充或额外的帮助和支持
 (of troops) engaged in the service of a nation at war but not part of the regular army.:（部队）在战争中为一个国家服务，但不是正规军的一部分。
@@ -290,7 +290,7 @@ an auxiliary schooner:一艘辅助纵帆船
 a nursing auxiliary:a护理助剂
 members of the Volunteer Fire Department's women's auxiliary:志愿消防队妇女辅助队员
 
-preventing success or development, harmful, unfavourable:preventingsuccessordevelopment,有害的，不利的
+preventing success or development, harmful, unfavourable:阻碍成功或发展，有害的，不利的
 adverse |ˈadvəːs| Adjective/:不利的,不良的
 taxes are having an adverse effect on production:税收对生产产生不利影响
 
@@ -304,9 +304,9 @@ the text contains some good descriptive passages:文本包含一些很好的描�
 find or discover by investigation:通过调查发现或发现
 find or describe the origin or development of:找到或描述起源或发展
 follow or mark the course or position of (something) with one's eye, mind, or finger:用眼睛、头脑或手指跟随或标记（某物）的路线或位置
-take (a particular path or route):take（特定路径或路线）
-copy (a drawing, map, or design) by drawing over its lines on a superimposed piece of transparent paper:copy（绘图、地图或设计）通过在叠加的透明纸上绘制其线条
-draw (a pattern or line), especially with one's finger or toe:draw（图案或线条），尤指用手指或脚趾
+take (a particular path or route):走（特定的路径或路线）
+copy (a drawing, map, or design) by drawing over its lines on a superimposed piece of transparent paper:复制（绘图、地图或设计）通过在重叠的透明纸上绘制其线条
+draw (a pattern or line), especially with one's finger or toe:画（图案或线条），尤指用手指或脚趾
 give an outline of:概述
 a mark, object, or other indication of the existence or passing of something:标记、物体或其他表示某物存在或经过的迹象
 a line or pattern displayed by an instrument to show the existence or nature of something which is being recorded or measured.:仪器显示的一条线或图案，表明正在记录或测量的事物的存在或性质。
@@ -319,12 +319,12 @@ a path or track.:一条路径或轨道。
 the sum of the elements in the principal diagonal of a square matrix.:方阵主对角线元素之和。
 each of the two side straps, chains, or ropes by which a horse is attached to a vehicle that it is pulling:每条两侧的带子、链条或绳索，用来将马连接到它所拉动的车辆上
 trace |treɪs| Noun/Verb/:痕迹,追溯,跟踪,追踪
-police are trying to trace a white van seen in the area:police正试图追踪在该地区看到的一辆白色面包车
+police are trying to trace a white van seen in the area:警方正试图追踪在该地区看到的一辆白色面包车
 Bob's book traces his flying career with the RAF:Bob的书追溯了他在英国皇家空军的飞行生涯
 through the binoculars, I traced the path I had taken the night before:通过望远镜，我追溯了前一天晚上走过的路
 a tear traced a lonely path down her cheek:一滴眼泪在她的脸颊上留下了一条孤独的道路
 trace a map of the world on to a large piece of paper:在一张大纸上画出世界地图
-she traced a pattern in the dirt with the toe of her shoe:she用她的鞋尖在泥土上画了一个图案
+she traced a pattern in the dirt with the toe of her shoe:她用她的鞋尖在泥土上画了一个图案
 the article traces out some of the connections between education, qualifications, and the labour market:这篇文章追溯了教育、资格和劳动力市场之间的一些联系
 remove all traces of the old adhesive:去除旧粘合剂的所有痕迹
 his body contained traces of amphetamines:his体内含有安非他明的痕迹
@@ -339,10 +339,10 @@ a youthful or healthy glow in a person's complexion:一个人的肤色年轻或�
 a delicate powdery surface deposit on certain fresh fruits, leaves, or stems:某些新鲜水果、叶子或茎上的细腻粉状表面沉积物
 a greyish-white appearance on chocolate caused by cocoa butter rising to the surface.:由可可脂浮出表面引起的巧克力灰白色外观。
 a full, bright sound in a recording:录音中的完整、明亮的声音
-produce flowers, be in flower:produceflowers，在花中
-come into or be in full beauty or health, flourish:cometoorbeinfullbeautyorhealth,蓬勃发展
+produce flowers, be in flower:开花，开花
+come into or be in full beauty or health, flourish:进入或完全美丽或健康，蓬勃发展
 (of fire, colour, or light) become radiant and glowing:（火、颜色或光）变得容光焕发
-coat (a lens) with a special surface layer so as to reduce reflection from its surface.:coat（镜片）有特殊的表面层，以减少其表面的反射。
+coat (a lens) with a special surface layer so as to reduce reflection from its surface.:给（透镜）涂上一层特殊的表面层，以减少其表面的反射。
 a mass of iron, steel, or other metal hammered or rolled into a thick bar for further working:大量铁、钢或其他金属锤打或轧成粗棒以供进一步加工
 an unworked mass of puddled iron.:一堆未经处理的铁块。
 make (iron, steel, etc.) into a bloom.:使（铁、钢等）绽放。
@@ -352,14 +352,14 @@ the apple trees were in bloom:苹果树盛开
 I am no longer in the bloom of youth:我已经不在青春的花期
 her face had lost its usual bloom:她的脸失去了往常的绽放
 the bloom on a plum:梅花绽放
-the remastering has lost some of the bloom of the strings:remastering失去了一些琴弦的绽放
+the remastering has lost some of the bloom of the strings:重新制作失去了一些琴弦的绽放
 a chalk pit where cowslips bloomed:牛花盛开的粉笔坑
 the children had bloomed in the soft Devonshire air:孩子们在德文郡柔和的空气中绽放
 colour bloomed in her cheeks:颜色在她的脸颊上绽放
 an 18-foot-long steel bloom emerges red-hot from a new reheat furnace:一个18英尺长的钢坯从新的加热炉中冒出炽热的火焰
 
 form an idea of the amount, number, or value of, assess:形成评估的数量、数量或价值的想法
-find a numerical expression or equivalent for (an equation, formula, or function):find一个数值表达式或等价物（方程、公式或函数）
+find a numerical expression or equivalent for (an equation, formula, or function):
 evaluate |ɪˈvaljʊeɪt| Verb/:评估,评价
 the study will assist in evaluating the impact of recent changes:该研究将有助于评估近期变化的影响
 substitute numbers in a simple formula and evaluate the answer:用一个简单的公式替换数字并评估答案

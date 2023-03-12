@@ -39,8 +39,8 @@ the damage was assessed at £5 billion:损失评估为50亿英镑
 all empty properties will be assessed at 50 per cent:所有空置物业将按50%评估
 
 obtain the temporary use of (something) for an agreed payment:为约定的付款获得（某物）的临时使用权
-employ (someone) for wages:employ（某人）的工资
-employ for a short time to do a particular job:employ短期从事某项工作
+employ (someone) for wages:雇用（某人）赚取工资
+employ for a short time to do a particular job:短期受雇从事特定工作
 the action of hiring someone or something:雇用某人或某事的行为
 a person who is hired; an employee:受聘人员；一个员工
 hire |ˈhʌɪə| Noun/Verb/:聘请,租赁,雇用,出租,租用
@@ -57,29 +57,29 @@ act as a substitute for (someone), especially on an official occasion:充当（�
 constitute; amount to:构成；相当于
 be a specimen or example of; typify:是一个样本或例子；典型
 be present in something to a particular degree:在某事中以特定程度存在
-depict (a particular subject) in a work of art:depict（特定主题）在艺术作品中
-describe or portray in a particular way:describe或以特定方式描绘
+depict (a particular subject) in a work of art:在艺术作品中描绘（特定主题）
+describe or portray in a particular way:以特定方式描述或描绘
 (of a sign or symbol) have a particular signification; stand for:（符号或符号的）具有特定的含义；代表
 be a symbol or embodiment of:是一个象征或体现
-play (a role) in a theatrical production.:play（一个角色）在一部戏剧作品中。
-state or point out clearly:state或明确指出
+play (a role) in a theatrical production.:在戏剧作品中扮演（角色）。
+state or point out clearly:清楚地陈述或指出
 allege; claim:指控；宣称
 represent |ˌrɛprɪˈzɛnt| Verb/:代表,表示
 for purposes of litigation, an infant can and must be represented by an adult:就诉讼而言，婴儿可以而且必须由成人代表
-Wade represented Great Britain:Wade代表英国
-she became the first woman to represent a South Wales mining valley:she成为第一位代表南威尔士采矿谷的女性
+Wade represented Great Britain:韦德代表英国
+she became the first woman to represent a South Wales mining valley:她成为第一位代表南威尔士采矿谷的女性
 the Duke of Edinburgh was represented by the Countess Mountbatten:爱丁堡公爵由蒙巴顿伯爵夫人代表
 this figure represents eleven per cent of the company's total sales:这个数字占公司总销售额的11%
 twenty parents, picked to represent a cross section of Scottish life:20位父母，被选为代表苏格兰生活的一个横截面
-abstraction is well represented in this exhibition:abstraction在本次展览中得到了很好的体现
-santos are small wooden figures representing saints:santos是代表圣徒的小木偶
+abstraction is well represented in this exhibition:抽象在这个展览中得到了很好的体现
+santos are small wooden figures representing saints:桑托斯是代表圣徒的小木人
 the young were consistently represented as being in need of protection:年轻人一直被认为需要保护
 numbers 1–15 represent the red balls:数字 1-15 代表红球
 the three heads of Cerberus represent the past, present, and future:Cerberus的三个头代表过去、现在和未来
 it was represented to him that she would be an unsuitable wife:向他表明她将是一个不合适的妻子
 the vendors have represented that such information is accurate:供应商已表示此类信息是准确的
 
-form too high or favourable an estimate of:form太高或有利的估计
+form too high or favourable an estimate of:形成过高或有利的估计
 an excessively high estimate:一个过高的估计
 overestimate |ˌəʊvərˈɛstɪmeɪt| Noun/Verb/:,过高估计
 his influence cannot be overestimated:他的影响力不容小觑
@@ -89,18 +89,18 @@ the action of supervising someone or something:监督某人或某事的动作
 supervision |ˌsuːpəˈvɪʒn| Noun/:监督,督导
 he was placed under the supervision of a probation officer:他被置于缓刑官的监督下
 
-make (something) visible by uncovering it:students在高中时接触过统计数据
+make (something) visible by uncovering it:通过揭开（某物）使它可见
 cause someone to be vulnerable or at risk:导致某人易受伤害或处于危险之中
-introduce someone to (a subject or area of knowledge):introduce某人（一个学科或知识领域）
+introduce someone to (a subject or area of knowledge):向某人介绍（一个学科或知识领域）
 publicly and indecently display one's genitals.:公开不雅地展示自己的生殖器。
-leave (a child) in the open to die.:leave（一个孩子）在露天死。
+leave (a child) in the open to die.:把（一个孩子）留在空旷的地方等死。
 reveal the true, objectionable nature of (someone or something):揭示（某人或某事）的真实、令人反感的本质
-make (something embarrassing or damaging) public:make(一些令人尴尬或破坏性的)public
-subject (photographic film) to light when operating a camera.:subject（摄影胶片）在操作相机时点亮。
+make (something embarrassing or damaging) public:公开（令人尴尬或有害的事情）
+subject (photographic film) to light when operating a camera.:拍摄对象（摄影胶片）在操作相机时会发光。
 expose |ɪkˈspəʊz| Noun/Verb/:暴露,露出
 at low tide the sands are exposed:退潮时沙子露出来
 many newcomers are exposing themselves to injury:很多新人都在受伤
-students were exposed to statistics in high school:students在高中时接触过统计数据
+students were exposed to statistics in high school:学生在高中时接触过统计数据
 he has been exposed as a liar and a traitor:他被曝是骗子和叛徒
 the situation exposed a conflict within the government:局势暴露了政府内部的冲突
 
@@ -123,7 +123,7 @@ an assignment of leasehold property:租赁财产的转让
 
 a greater liking for one alternative over another or others:更喜欢一种选择而不是另一种或其他
 a thing preferred:喜欢的东西
-favour shown to one person or thing over another or others:favour显示给一个人或某物而不是另一个或其他人
+favour shown to one person or thing over another or others:对一个人或事物的偏爱胜过对另一个人或其他人的偏爱
 a prior right or precedence, especially in connection with the payment of debts:优先权或优先权，尤其是与偿还债务有关的
 preference |ˈprɛf(ə)rəns| Noun/:偏爱,偏好
 her preference for white wine:她对白葡萄酒的偏好
@@ -148,7 +148,7 @@ application |ˌaplɪˈkeɪʃn| Noun/:应用,申请
 an application for leave:请假申请
 the application of general rules to particular cases:一般规则在特殊情况下的应用
 this principle has no application to the present case:此原则不适用于本案
-paints suitable for application on fabric:paints适用于织物上
+paints suitable for application on fabric:适用于织物的涂料
 an application to relieve muscle pain:一个缓解肌肉疼痛的应用程序
 the job takes a great deal of patience and application:这项工作需要极大的耐心和申请
 a database application:一个数据库应用程序
@@ -169,10 +169,10 @@ the corruption of public morals:
 
 a disagreement or argument:我排好阵线，准备对抗敌人的进攻1
 a disagreement between management and employees that leads to industrial action:导致罢工的管理层和员工之间的分歧
-argue about (something):argueabout(something)
-question whether (a statement or alleged fact) is true or valid:question（陈述或声称的事实）是否真实或有效
+argue about (something):争论（某事）
+question whether (a statement or alleged fact) is true or valid:质疑（陈述或声称的事实）是否真实或有效
 compete for; strive to win:竞争；11
-resist (a landing or advance):resist（着陆或前进）
+resist (a landing or advance):抵抗（着陆或前进）
 dispute |dɪˈspjuːt| Noun/Verb/:争议,提出异议,争端,纠纷,争
 a territorial dispute between the two countries:两国领土争端
 an industrial dispute:劳资纠纷
@@ -189,7 +189,7 @@ have an influence on:有影响
 influence |ˈɪnflʊəns| Noun/Verb/:影响,影响力
 the influence of television violence:电视暴力的影响
 the institute has considerable influence with teachers:学院对教师具有相当的影响力
-Fiona was a good influence on her:Fiona对她有很好的影响
+Fiona was a good influence on her:菲奥娜对她产生了很好的影响
 sometimes simple changes in a business environment can influence behaviour:有时商业环境中的简单变化会影响行为
 
 contrary to or forbidden by law, especially criminal law:违反或禁止法律，尤其是刑法
@@ -214,7 +214,7 @@ look closely at or examine (someone or something):仔细观察或检查（某人
 examine and record the area and features of (an area of land) so as to construct a map, plan, or description:检查并记录（一块土地）的面积和特征，以构建地图、计划或描述
 examine and report on the condition of (a building), especially for a prospective buyer:检查并报告（建筑物）的状况，特别是对于潜在买家
 investigate the opinions or experience of (a group of people) by asking them questions:通过向他们提问来调查（一群人）的意见或经验
-investigate (behaviour or opinions) by questioning a group of people:investigate（行为或意见）通过询问一群人
+investigate (behaviour or opinions) by questioning a group of people:通过询问一群人来调查（行为或意见）
 a general view, examination, or description of someone or something:对某人或某事的总体看法、检查或描述
 an investigation of the opinions or experience of a group of people, based on a series of questions:对一群人的意见或经验的调查，基于一系列问题
 an act of surveying a building:测量建筑物的行为
@@ -229,7 +229,7 @@ the cottage didn't look unsafe, but he had it surveyed:小屋看起来并不安�
 95 per cent of patients surveyed were satisfied with the health service:95%的受访患者对医疗服务感到满意
 the investigator surveyed the attitudes and beliefs held by residents:调查员调查居民的态度和信念
 the author provides a survey of the relevant literature:作者提供相关文献综述
-a survey conducted by Gardening Which?:一项由Gardeningwhich进行的调查？
+a survey conducted by Gardening Which?:Gardening Which? 进行的一项调查？
 the building society will insist that you have a survey done:建筑协会会坚持要求您完成调查
 the third type of report is a full structural survey:第三种报告是完整的结构调查
 the flight involved a detailed aerial survey of military bases:这次飞行涉及对军事基地的详细航测
@@ -239,7 +239,7 @@ in a way that covers or affects a large area:以覆盖或影响大面积的方�
 to a large or detailed degree:到一个大的或详细的程度
 extensively |ɪkˈstɛnsɪvli| Adverb/:广泛地,大范围
 the house was extensively damaged by the fire:房子被大火烧毁
-he has written extensively about the project:he撰写了大量关于该项目的文章
+he has written extensively about the project:他撰写了大量关于该项目的文章
 
 do something or have or show qualities worthy of (a reaction which rewards or punishes as appropriate):做某事或具有或表现出值得的品质（适当奖励或惩罚的反应）
 deserve |dɪˈzəːv| Verb/:应得,值得,应得的
@@ -249,7 +249,7 @@ the referee deserves a pat on the back:裁判值得表扬
 cause (a vehicle) to collide violently with something:导致（车辆）与某物剧烈碰撞
 (of an aircraft) fall from the sky and hit the land or sea:（飞机的）从天上掉下来，撞到陆地或海上
 cause (an aircraft) to fall from the sky:导致（一架飞机）从天上掉下来
-move or cause to move with force, speed, and sudden loud noise:move或导致用力、速度和突然的巨响移动
+move or cause to move with force, speed, and sudden loud noise:用力、速度和突然的巨响移动或导致移动
 make a sudden loud noise:突然大声喧哗
 (of shares, a business, etc.) suddenly drop in value or fail:（股票、企业等）突然贬值或倒闭
 be heavily defeated in a sporting competition:在体育比赛中惨败
@@ -274,7 +274,7 @@ a jet crashed 200 yards from the school:一架喷气式飞机在距离学校200�
 the test pilot crashed a Hurricane fighter plane:试飞员撞毁了一架飓风战斗机
 the thunder crashed:雷霆坠毁
 the shares crashed to 329p:股票跌至329便士
-Barcelona crashed out of the European Cup:Barcelona出局欧洲杯
+Barcelona crashed out of the European Cup:巴萨惨遭欧洲杯淘汰
 the project was postponed because the computer crashed:该项目因电脑死机而被推迟
 the cab driver crashed the lights:出租车司机撞灯了
 what was it you said just before I crashed out?:我崩溃前你说了什么？
@@ -283,11 +283,11 @@ a pilot who survived the crash of his plane:一名在飞机失事中幸存下来
 he slammed the phone down with a crash:他砰的一声把手机摔了下来
 the 1987 stock-market crash:1987年股市崩盘
 the crash of the company meant that 150 jobs would go:公司的崩溃意味着150个工作岗位将消失
-system crashes are an everyday hazard:system崩溃是一种日常危险
+system crashes are an everyday hazard:系统崩溃是一种日常危险
 a crash course in Italian:a意大利语速成课程
-crash went the bolt:crash成功了
+crash went the bolt:崩溃了螺栓
 
-state emphatically or publicly:state强调或公开
+state emphatically or publicly:强调或公开陈述
 declare one's support for; uphold; defend:声明支持；坚持;保卫
 accept or confirm the validity of (a judgement or agreement); ratify:接受或确认（判决或协议）的有效性；批准
 make a formal declaration rather than taking an oath:作出正式声明而不是宣誓
@@ -354,12 +354,12 @@ the signal faded away:信号消失
 the brakes faded, needing a firmer push to bring the car to halt:刹车失灵，需要用力推动汽车停下
 the ball faded toward an area left of the green:球向果岭左侧的区域渐行渐远
 he had to fade the ball around a light pole:他不得不在灯杆周围淡出球
-Lovejoy faded him for twenty-five cents:Lovejoy为他褪色了25美分
+Lovejoy faded him for twenty-five cents:洛夫乔伊以二十五美分的价格让他褪色
 the sun can cause colour fade:太阳会导致褪色
 a fade to black would bring the sequence to a close:afadetoblack将结束序列
 when they get to the 18th the ideal shot is a fade:当他们到达18号时，理想的投篮是淡出
-shortly after receiving the snap, he threw a fade to Crabtree:收到快照后不久，他向Crabtree扔了一个淡入淡出
-a fade is extremely versatile and can be adjusted to different hair types and lengths:afade用途广泛，可以根据不同的头发类型和长度进行调整
+shortly after receiving the snap, he threw a fade to Crabtree:收到快照后不久，他向 Crabtree 扔了一个褪色
+a fade is extremely versatile and can be adjusted to different hair types and lengths:褪色非常通用，可以根据不同的头发类型和长度进行调整
 
 a person who takes part in a sporting contest:参加体育比赛的人
 an organization or country engaged in commercial or economic competition with others:与他人进行商业或经济竞争的组织或国家
@@ -367,8 +367,8 @@ competitor |kəmˈpɛtɪtə| Noun/:,竞争对手
 two competitors were banned for taking drugs:两名选手因吸毒被禁赛
 our main industrial competitors:我们的主要工业竞争对手
 
-make (someone) bewildered or perplexed:make（某人）感到困惑或困惑
-make (something) more complex or less easy to understand:make(something)更复杂或更不容易理解
+make (someone) bewildered or perplexed:使（某人）感到困惑或困惑
+make (something) more complex or less easy to understand:使（某事）更复杂或更难理解
 identify wrongly; mistake:识别错误；错误
 confuse |kənˈfjuːz| Verb/:迷惑,混淆
 past and present blurred together, confusing her still further:过去和现在模糊在一起，让她更加困惑
@@ -383,18 +383,18 @@ a new manager was given the task of developing the club's talent:一位新经理
 NATO troops are tasked with separating the warring parties:北约部队的任务是分离交战各方
 it tasked his diplomatic skill to effect his departure in safety:it赋予他的外交技巧以确保他安全离开
 
-make or become less; diminish:makeorbecomeless;减少
+make or become less; diminish:减少或减少；减少
 lessen |ˈlɛsn| Verb/:lessen
 
 confess to be true or to be the case:承认是真实的还是事实
-confess to (a crime or fault, or one's responsibility for it):confessto（犯罪或过错，或对它的责任）
-acknowledge (a failure or fault):acknowledge（失败或故障）
+confess to (a crime or fault, or one's responsibility for it):供认（犯罪或过错，或对它的责任）
+acknowledge (a failure or fault):确认（失败或故障）
 allow (someone) to enter a place:允许（某人）进入一个地方
-receive (a patient) into a hospital for treatment:receive（一个病人）进医院治疗
-allow (a person, country, etc.) to join an organization:allow（一个人、一个国家等）加入一个组织
-allow (someone) to share in a privilege:allow（某人）分享特权
+receive (a patient) into a hospital for treatment:接（病人）到医院治疗
+allow (a person, country, etc.) to join an organization:允许（一个人、国家等）加入一个组织
+allow (someone) to share in a privilege:允许（某人）分享特权
 accept as valid:接受为有效
-allow the possibility of:allow的可能性
+allow the possibility of:允许的可能性
 admit |ədˈmɪt| Verb/:承认
 he was sentenced to prison after admitting 47 charges of burglary:承认47项入室盗窃罪名被判入狱
 after searching for an hour, she finally had to admit defeat:找了一个小时，终于不得不认输

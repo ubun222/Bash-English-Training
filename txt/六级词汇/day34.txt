@@ -67,9 +67,9 @@ the primitive responses we share with many animals:我们与许多动物共有�
 the Fauves saw primitive art as a liberating force:野兽派将原始艺术视为一种解放力量
 the accommodation at the camp was a bit primitive:营地的住宿有点简陋
 primitive material of the universe:宇宙原始物质
-reports of travellers and missionaries described contemporary primitives:reportsoftravellersandMissionaries描述了当代原始人
+reports of travellers and missionaries described contemporary primitives:旅行者和传教士的报告描述了当代的原始人
 the Catalan primitives:加泰罗尼亚原语
-Santa Fe style antiques and Mexican primitives:SantaFe风格的古董和墨西哥原住民
+Santa Fe style antiques and Mexican primitives:圣达菲风格的古董和墨西哥原始物
 the program includes a complete set of drawing primitives:该程序包含一整套绘图原语
 
 
@@ -78,13 +78,13 @@ requiring immediate action or attention:需要立即采取行动或引起注意
 (of a person or their manner) earnest and persistent:（某人或他们的举止）认真和执着
 urgent |ˈəːdʒ(ə)nt| Adjective/:紧急,急,紧迫,迫切,紧迫的
 an urgent demand for more state funding:迫切需要更多的国家资金
-she needs urgent treatment:she需要紧急治疗
+she needs urgent treatment:她需要紧急治疗
 an urgent whisper:紧急耳语
 
-state one's intention to take hostile action against (someone) in retribution for something done or not done:stateone'sintentionofone'sintentiontototakehostileactionagainst(someone)报复某事做了或没做
-state one's intention to do (something undesirable) in retribution:stateone'sintentionofone'sintentiontodo(somethingundoorous)报复
-cause (someone or something) to be vulnerable or at risk, endanger:cause(someoneorsomething)tobevulnerableoratrisk,危及
-seem likely to produce an unpleasant or unwelcome result:seem可能会产生不愉快或不受欢迎的结果
+state one's intention to take hostile action against (someone) in retribution for something done or not done:陈述某人打算对（某人）采取敌对行动以报复某事已做或未做
+state one's intention to do (something undesirable) in retribution:陈述某人打算做（不受欢迎的事情）以报复
+cause (someone or something) to be vulnerable or at risk, endanger:使（某人或某物）变得脆弱或处于危险之中，危及
+seem likely to produce an unpleasant or unwelcome result:似乎可能会产生不愉快或不受欢迎的结果
 (of something undesirable) seem likely to occur:（不受欢迎的事情）似乎很可能发生
 threaten |ˈθrɛtn| Verb/:,恐吓
 how dare you threaten me?:你怎么敢威胁我？
@@ -112,7 +112,7 @@ underfunded | 资金不足,经费不足
 a place for the confinement of people accused or convicted of a crime:被指控或被定罪的人的监禁场所
 put (someone) in jail:把（某人）关进监狱
 jail |dʒeɪl| Noun/Verb/:监狱,坐牢
-he spent 15 years in jail:he在监狱里度过了15年
+he spent 15 years in jail:他在监狱里度过了15年
 the driver was jailed for two years:司机被判入狱两年
 
 the action of assessing someone or something:评价某人或某物的动作
@@ -128,15 +128,15 @@ the rescue attempt was frustrated by bad weather:营救尝试因恶劣天气而�
 in numerous policy areas, central government has been frustrated by local authorities:在许多政策领域，中央政府一直受到地方当局的挫败
 it frustrated me that more couldn't be done for her:令我沮丧的是不能为她做更多
 
-the action of abolishing a system, practice, or institution:actionofabolishingasystem,practice,或institution
+the action of abolishing a system, practice, or institution:废除系统、实践或制度的行动
 abolition |ˌabəˈlɪʃn| Noun/:废除,取消
 the abolition of the death penalty:废除死刑
 
-a person, especially a police officer, whose occupation is to investigate and solve crimes:aperson,especiallyapoliceofficer,其职业是调查和破案
+a person, especially a police officer, whose occupation is to investigate and solve crimes:以调查和解决犯罪为职业的人，尤指警察
 denoting a rank of police officer with investigative duties:表示具有调查职责的警官级别
 concerning crime and its investigation:关于犯罪及其调查
 detective |dɪˈtɛktɪv| Noun/:侦探,探员
-detectives are anxious to interview anyone who saw the car:detectives急于采访任何看到这辆车的人
+detectives are anxious to interview anyone who saw the car:侦探急于采访任何看到这辆车的人
 a detective inspector:一名侦探
 detective work:侦探工作
 
@@ -152,7 +152,7 @@ the process by which a computer database or program becomes debased by alteratio
 the process of decay, putrefaction:腐烂、腐败的过程
 corruption |kəˈrʌpʃn| Noun/:腐败,贪污
 the journalist who wants to expose corruption in high places:想揭露高层腐败的记者
-the corruption of youth was a powerful motif:thecorruptionofyouth是一个强有力的主题
+the corruption of youth was a powerful motif:青年的堕落是一个强有力的主题
 a record of a word's corruption:一个词的腐败记录
 this procedure creates a temporary file to prevent accidental corruption:此过程创建一个临时文件以防止意外损坏
 the potato turned black and rotten with corruption:土豆因腐败变黑腐烂
@@ -167,8 +167,8 @@ some people are intolerant of aspirin:有些人对阿司匹林不耐受
 (of a sharp pointed object) go into or through (something):（尖锐物体的）进入或穿过（某物）
 make (a hole) with a sharp instrument:用锋利的工具打（洞）
 make a hole in (the ears or other part of the body) so as to wear jewellery in them:在（耳朵或身体的其他部位）打个洞，以便在里面戴首饰
-make an opening in or bore a tunnel through:makeanopeninginorboreatunnel穿过
-force a way through, penetrate:forceawaythrough,穿透
+make an opening in or bore a tunnel through:在其中开一个洞或钻一条隧道
+force a way through, penetrate:强行通过，穿透
 pierce |pɪəs| Verb/:,穿刺
 a splinter had pierced the skin:a碎片刺穿了皮肤
 I had to pierce another hole in my belt:我不得不在我的腰带上再刺一个洞
@@ -176,7 +176,7 @@ I pierced my nose and ears:我刺穿了我的鼻子和耳朵
 the dividing wall is pierced by arches:分隔墙被拱门穿透
 they were seeking to pierce the anti-ballistic-missile defences:他们试图突破反弹道导弹防御系统
 
-give (someone) something, typically money, in recognition of loss, suffering, or injury incurred, recompense:give(someone)something,typicallymoney,承认损失，痛苦或伤害，补偿
+give (someone) something, typically money, in recognition of loss, suffering, or injury incurred, recompense:给（某人）一些东西，通常是金钱，以表彰遭受的损失、痛苦或伤害，补偿
 pay (someone) for work performed:pay（某人）完成的工作
 reduce or counteract (something unwelcome or unpleasant) by exerting an opposite force or effect:通过施加相反的力量或效果来减少或抵消（不受欢迎或不愉快的事情）
 act so as to neutralize or correct (a deficiency or abnormality in a physical property or effect):采取行动以抵消或纠正（物理特性或效果的缺陷或异常）
@@ -189,18 +189,18 @@ the output voltage rises, compensating for the original fall:输出电压上升�
 they put on grandiose airs to compensate for their feelings of worthlessness:他们装出浮夸的架子来弥补他们的无价值感
 
 a break or space in an object or between two objects:一个对象或两个对象之间的中断或空间
-a pass or way through a range of hills:apass或waythrougharangeofhills
+a pass or way through a range of hills:穿过一系列山丘的通道或道路
 a space or interval, a break in continuity:一个空间或间隔，连续性的中断
 a difference, especially an undesirable one, between two views or situations:两种观点或情况之间的差异，尤其是不受欢迎的差异
 gap |ɡap| Noun/:,间隙
-he peeped through the gap in the curtains:he透过窗帘的缝隙偷看
+he peeped through the gap in the curtains:他透过窗帘的缝隙偷看
 there are many gaps in our understanding of what happened:我们对发生的事情的理解有很多差距
 the media were bridging the gap between government and people:媒体正在弥合政府与人民之间的鸿沟
 
 the feeling or expression of reverence and adoration for a deity:对神灵的崇敬和崇拜的感觉或表达
 religious rites or ceremonies, constituting a formal expression of reverence for a deity:宗教仪式或仪式，构成对神灵的正式表达
 great admiration or devotion shown towards a person or principle:对某人或原则表现出的极大钦佩或奉献
-honour given to someone in recognition of their merit.:honour授予某人以表彰他们的功劳。
+honour given to someone in recognition of their merit.:授予某人以表彰其功绩的荣誉。
 used in addressing or referring to an important or high-ranking person, especially a magistrate or mayor:用于称呼或提及重要人物或高级人物，尤其是治安官或市长
 show reverence and adoration for (a deity):对（神灵）表示崇敬和崇拜
 take part in a religious ceremony:参加宗教仪式
@@ -212,7 +212,7 @@ the worship of celebrity and wealth:名人和财富的崇拜
 we were soon joined by His Worship the Mayor:市长阁下很快就加入了我们
 the Maya built jungle pyramids to worship their gods:玛雅人建造丛林金字塔来崇拜他们的神
 the family worshipped at Trinity Church:在三一教堂礼拜的家庭
-she adores her sons and they worship her:she崇拜她的儿子，他们崇拜她
+she adores her sons and they worship her:她崇拜她的儿子，他们崇拜她
 
 a room or building for the display or sale of works of art:用于展示或出售艺术品的房间或建筑物
 a collection of pictures:一组图片
@@ -225,8 +225,8 @@ gallery |ˈɡal(ə)ri| Noun/:,廊,图库
 an art gallery:美术馆
 an extensive gallery of colour photographs:丰富的彩色照片画廊
 in the minstrels' gallery, a string orchestra plays themes from film soundtracks:在吟游诗人的画廊，弦乐团演奏电影原声带中的主题
-he lashed a two-iron on to the green, bringing gasps from the gallery:he用两个铁杆猛击果岭，观众席上倒吸一口凉气
-long underground galleries of 3 km or more made it possible to mine under the sea:long3公里或更长的地下通道使海底采矿成为可能
+he lashed a two-iron on to the green, bringing gasps from the gallery:他用两个铁杆猛击果岭，观众席上倒吸一口凉气
+long underground galleries of 3 km or more made it possible to mine under the sea:
 
 a comfortably equipped single-decker bus used for longer journeys:一辆装备舒适的单层巴士，用于长途旅行
 a railway carriage.:火车车厢。
@@ -236,31 +236,31 @@ travel by coach:旅游巴士
 in economy class accommodation in an aircraft or train:在飞机或火车的经济舱住宿
 an instructor or trainer in sport:体育教练或培训师
 a private tutor who gives extra teaching.:提供额外教学的私人教师。
-train or instruct (a team or player):trainorinstruct（团队或球员）
+train or instruct (a team or player):训练或指导（团队或球员）
 give (someone) extra teaching:给（某人）额外的教导
-teach (a subject or sport) as a coach:teach（一门学科或运动）作为教练
+teach (a subject or sport) as a coach:作为教练教（一门学科或一项运动）
 give (someone) instructions as to what to do or say in a particular situation:给（某人）关于在特定情况下做什么或说什么的指示
 give (someone) professional advice on how to attain their goals.:给（某人）关于如何实现他们的目标的专业建议。
 coach |kəʊtʃ| Adverb/Noun/Verb/:教练,指导,辅导员
 fly or coach to the shores of the Mediterranean:乘飞机或长途汽车前往地中海沿岸
 many employees are now flying coach instead of business class to Europe:许多员工现在乘坐经济舱而不是商务舱去欧洲
 a football coach:足球教练
-he moved on to coach the England team:he继续执教英格兰队
-she was coached for stardom by her mother:she是由她的母亲指导成为明星的
-he teaches history and coaches rugby:he教历史和教练橄榄球
-he had improperly coached a witness to testify more credibly:he不恰当地指导证人作证更可信
+he moved on to coach the England team:他继续执教英格兰队
+she was coached for stardom by her mother:她是由她的母亲指导成为明星的
+he teaches history and coaches rugby:他教历史和教练橄榄球
+he had improperly coached a witness to testify more credibly:他不恰当地指导证人作证更可信
 
 decide or announce that (a planned event) will not take place:决定或宣布（计划中的事件）不会发生
-annul or revoke (a formal arrangement which is in effect):annulorrevoke（正式生效的安排）
-abolish or make void (a financial obligation):abolishormakevoid（财务义务）
-(of a factor or circumstance) neutralize or negate the force or effect of (another):(ofafactororcircumstance)抵消或否定(another)的力量或影响
+annul or revoke (a formal arrangement which is in effect):取消或撤销（有效的正式安排）
+abolish or make void (a financial obligation):废除或作废（财务义务）
+(of a factor or circumstance) neutralize or negate the force or effect of (another):（因素或情况的）抵消或否定（另一个）的力量或影响
 delete (an equal factor) from both sides of an equation or from the numerator and denominator of a fraction:从等式两边或分数的分子和分母中删除（一个等式）
-publicly boycott or withdraw support from (a person, organization, etc.) for promoting beliefs that are regarded as socially unacceptable:publiclyboycottorwithdrawsupportfrom(aperson,organization,etc.)促进被认为是社会不可接受的信仰
-mark, pierce, or tear (a ticket or stamp) to show that it has been used or invalidated:mark,pierce,ortear(aticketorstamp)以表明它已被使用或作废
+publicly boycott or withdraw support from (a person, organization, etc.) for promoting beliefs that are regarded as socially unacceptable:公开抵制或撤回对（个人、组织等）宣扬被社会认为不可接受的信仰的支持
+mark, pierce, or tear (a ticket or stamp) to show that it has been used or invalidated:标记、刺穿或撕裂（票或邮票）以表明它已被使用或作废
 a mark made on a postage stamp to show that it has been used:邮票上的标记，表明它已被使用
 a new page or section inserted in a book to replace the original text, typically to correct an error:插入书中的新页面或章节以替换原始文本，通常是为了更正错误
 cancel |ˈkansl| Noun/Verb/:取消,撤销
-he was forced to cancel his visit:he被迫取消访问
+he was forced to cancel his visit:他被迫取消访问
 his visa had been cancelled:他的签证被取消了
 I intend to cancel your debt to me:我打算免除你欠我的债
 the shipping costs cancelled out any savings:运费抵消了任何节省
@@ -270,38 +270,38 @@ cancelling stamps on registered mail:取消挂号邮件上的邮票
 a stamp franked and with an adhesive cancel:a邮票盖销
 
 hit forcibly and deliberately with one's hand or a weapon or other implement:用手、武器或其他工具强行和故意地击打
-inflict (a blow):inflict（一击）
+inflict (a blow):造成（打击）
 accidentally hit (a part of one's body) against something:不小心撞到（身体的一部分）某物
 come into forcible contact or collision with:强行接触或碰撞
-(of a beam or ray of light or heat) fall on (an object or surface):(abeamorrayoflightorheat)落在(物体或表面)
+(of a beam or ray of light or heat) fall on (an object or surface):（一束或一束光或热）落在（一个物体或表面上）
 (in sporting contexts) hit or kick (a ball):（在运动中）击打或踢（球）
-produce (a musical note) by pressing or hitting a key.:produce（音符）通过按下或敲击一个键。
+produce (a musical note) by pressing or hitting a key.:通过按下或敲击一个键来产生（一个音符）。
 (of a disaster, disease, or other unwelcome phenomenon) occur suddenly and have harmful or damaging effects on:（灾难、疾病或其他不受欢迎的现象）突然发生并对人造成有害或破坏性影响
 carry out an aggressive or violent action, typically without warning:进行攻击性或暴力行为，通常没有警告
 cause (someone) to be in a specified state:使（某人）处于特定状态
-(of a thought or idea) come into the mind of (someone) suddenly or unexpectedly:(ofathoughtoridea)突然或出乎意料地进入（某人）的脑海
-cause (someone) to have a particular impression:cause(someone)有特别的印象
+(of a thought or idea) come into the mind of (someone) suddenly or unexpectedly:（思想或想法）突然或出乎意料地进入（某人）的脑海
+cause (someone) to have a particular impression:使（某人）有特别的印象
 find particularly interesting, noticeable, or impressive:发现特别有趣、引人注目或令人印象深刻
-be deeply fond of or infatuated with:bedeeplyfollowedwith或迷恋
-(of a clock) indicate the time by sounding a chime or stroke:(ofaclock)通过敲钟或敲钟来指示时间
-(of time) be indicated by a clock sounding a chime or stroke:(oftime)beindicatedbyaclocksoundingchildorstroke
+be deeply fond of or infatuated with:深深地喜欢或迷恋
+(of a clock) indicate the time by sounding a chime or stroke:（时钟）通过敲钟或敲钟来指示时间
+(of time) be indicated by a clock sounding a chime or stroke:（时间）由钟声或钟声指示
 ignite (a match) by rubbing it briskly against an abrasive surface:点燃（一根火柴），用它在粗糙的表面上轻快地摩擦
 produce (fire or a spark) as a result of friction:由于摩擦而产生（火或火花）
-bring (an electric arc) into being:bring(电弧)intobeing
+bring (an electric arc) into being:使（电弧）产生
 (of employees) refuse to work as a form of organized protest, typically in an attempt to obtain a particular concession or concessions from their employer:（员工）拒绝工作是一种有组织的抗议形式，通常是为了从雇主那里获得特定的让步或让步
 undertake strike action against (an employer):对（雇主）采取罢工行动
-cancel, remove, or cross out with or as if with a pen:cancel、remove或crossoutwithorasifwithapen
+cancel, remove, or cross out with or as if with a pen:用或好像用钢笔取消、删除或划掉
 make (a coin or medal) by stamping metal:通过冲压金属制作（硬币或奖章）
-(in cinematography) make (another print) of a film:(incinematography)make(anotherprint)一部电影
-reach, achieve, or agree to (something involving agreement, balance, or compromise):reach,achieve,oragreeto(某事涉及协议、平衡或妥协)
-(in financial contexts) reach (a figure) by balancing an account:(infinancialcontexts)通过平衡账户达到（数字）
-form (a committee):form（一个委员会）
-discover (gold, minerals, or oil) by drilling or mining:discover(gold,minerals,oroil)通过钻探或采矿
+(in cinematography) make (another print) of a film:（在电影摄影中）制作（另一张）电影
+reach, achieve, or agree to (something involving agreement, balance, or compromise):达到、实现或同意（涉及协议、平衡或妥协的事物）
+(in financial contexts) reach (a figure) by balancing an account:（在财务方面）通过平衡账户达到（一个数字）
+form (a committee):形式（委员会）
+discover (gold, minerals, or oil) by drilling or mining:
 come to or reach:来到或到达
-move or proceed vigorously or purposefully:moveorproceed大力或有目的地
-take down (a tent or the tents of an encampment):takedown（帐篷或营地的帐篷）
-dismantle (theatrical scenery):dismantle（舞台布景）
-lower or take down (a flag or sail), especially as a salute or to signify surrender:lowerortakedown(aflagorsail)，尤指作为敬礼或表示投降
+move or proceed vigorously or purposefully:大力或有目的地移动或进行
+take down (a tent or the tents of an encampment):拆下（帐篷或营地的帐篷）
+dismantle (theatrical scenery):拆除（舞台布景）
+lower or take down (a flag or sail), especially as a salute or to signify surrender:降低或取下（旗帜或帆），尤指作为敬礼或表示投降
 insert (a cutting of a plant) in soil to take root:插入（植物的插条）在土壤中生根
 (of a plant or cutting) develop roots:（植物或插条的）生根
 (of a young oyster) attach itself to a bed:（一只小牡蛎）依附在床上
@@ -315,49 +315,49 @@ an act or instance of jerking or tightening the line to secure a fish that has a
 a discovery of gold, minerals, or oil by drilling or mining:通过钻探或采矿发现黄金、矿物或石油
 a batter's unsuccessful attempt to hit a pitched ball.:a击球手击中投出的球未成功。
 a pitch that passes through the strike zone.:穿过好球区的球场。
-something to one's discredit:somethingtoone'sdiscredit
+something to one's discredit:名誉扫地的东西
 the horizontal or compass direction of a stratum, fault, or other geological feature:地层、断层或其他地质特征的水平或罗盘方向
 strike |strʌk| Noun/Verb/:罢工,击,打击
 he raised his hand, as if to strike me:他举起手，好像要打我
 the armies assembled but never struck a blow:军队集结但从未发动打击
-she fell, striking her head against the side of the boat:she摔倒了，她的头撞到了船的一侧
-he was struck by a car in Whitepark Road:he在WhiteparkRoad被车撞了
+she fell, striking her head against the side of the boat:她摔倒了，她的头撞到了船的一侧
+he was struck by a car in Whitepark Road:他在怀特帕克路被车撞了
 the light struck her ring, reflecting off the diamond:光线照在她的戒指上，在钻石上反射
-he struck the ball into the back of the net:he将球击入网后
+he struck the ball into the back of the net:他将球击入网后
 a major earthquake struck the island:岛上发生大地震
 it was eight months before the murderer struck again:距离凶手再次下手已经过了八个月
 he was struck dumb:他被吓傻了
-a disturbing thought struck Melissa:一个令人不安的念头袭击了Melissa
-Lucy was struck by the ethereal beauty of the scene:Lucy被现场的空灵之美所震撼
-she was rather struck on Angus, wasn't she?:she对Angus很感兴趣，不是吗？
+a disturbing thought struck Melissa:一个令人不安的念头闪过梅丽莎
+Lucy was struck by the ethereal beauty of the scene:露西被这一场景的空灵之美所震撼
+she was rather struck on Angus, wasn't she?:她对安格斯很感兴趣，不是吗？
 eight o'clock struck:八点敲响
 the match went out and he struck another:火柴熄灭了，他又打了一个
 his iron stick struck sparks from the pavement:his的铁棍从人行道上划出火花
 heat is generated by an electric arc struck between two graphitic electrodes:热是由两个石墨电极之间的电弧产生的
-workers may strike over threatened job losses:workers可能因失业威胁而罢工
-photoengravers voted to strike the New York Times:photoengravers投票罢工《纽约时报》
+workers may strike over threatened job losses:工人可能会因失业威胁而罢工
+photoengravers voted to strike the New York Times:制版师投票罢工《纽约时报》
 I will strike his name from the list:我要把他的名字从名单上删掉
-they struck similar medals on behalf of the Normandy veterans:they代表诺曼底退伍军人颁发了类似的奖牌
+they struck similar medals on behalf of the Normandy veterans:他们代表诺曼底退伍军人铸造了类似的奖章
 the film was reissued on a new print struck from the old negative:这部电影是在旧底片上印制的新版上重新发行的
 the team has struck a deal with a sports marketing agency:球队与一家体育营销机构达成协议
 last year's loss was struck after allowing for depreciation of £67 million:去年的亏损是在考虑了6700万英镑的折旧后才出现的
 the government struck a committee to settle the issue:政府成立了一个委员会来解决这个问题
-if they do strike oil, there will be another test well in a year's time:iftheydostrikeoil,therewillbeanothertestwellinayear'stime
+if they do strike oil, there will be another test well in a year's time:如果他们确实开采了石油，一年后还会有另一口试井
 several days out of the village, we struck the Gilgit Road:几天出村，我们走上了吉尔吉特路
-she struck out into the lake with a practised crawl:she熟练地爬进湖里
+she struck out into the lake with a practised crawl:她熟练地爬进湖里
 it took ages to strike camp:罢工花了很长时间
 the minute we finish this evening, they'll start striking the set:我们今晚结束的那一刻，他们将开始打击布景
-the ship struck her German colours:theship撞上了她的德国色彩
+the ship struck her German colours:这艘船撞上了她的德国色彩
 best results are obtained from striking them in a propagator:最好的结果是在繁殖者中击打它们
-small conifers will strike from cuttings:small针叶树将从插条中攻击
+small conifers will strike from cuttings:小针叶树会被插条击中
 there is no better surface for the spat to strike on than another oyster:没有比另一个牡蛎更好的表面让贝壳攻击
-dockers voted for an all-out strike:dockers投票支持全面罢工
+dockers voted for an all-out strike:码头工人投票支持全面罢工
 a rent strike:租金罢工
 the threat of nuclear strikes:核打击的威胁
 his 32nd-minute strike helped the team to end a run of three defeats:他第32分钟的进球帮助球队结束了三连败
-the Lena goldfields strike of 1912:1912年的Lenagoldfields罢工
+the Lena goldfields strike of 1912:
 when they returned from Vietnam they had two strikes against them:当他们从越南回来时，他们遭到了两次打击
-the mine workings follow the strike of the Bonsor Vein:themineworkings跟随BonsorVein的罢工
+the mine workings follow the strike of the Bonsor Vein:矿山作业遵循 Bonsor Vein 的罢工
 
 an act of armed resistance to an established government or leader:对既定政府或领导人的武装抵抗行为
 the action or process of resisting authority, control, or convention:反抗权威、控制或惯例的行为或过程
@@ -373,11 +373,11 @@ distract |dɪˈstrakt| Verb/:转移,分散注意力,分心
 don't allow noise to distract you from your work:不要让噪音分散你的注意力
 it was another attempt to distract attention from the truth:这是另一种转移人们对真相的注意力的尝试
 I tried to distract myself by concentrating on Jane:我试图通过专注于简来分散自己的注意力
-horror and doubt distract His troubl'd thoughts:horroranddoubt分散了他烦恼的思绪
+horror and doubt distract His troubl'd thoughts:恐惧和怀疑分散了他烦恼的思绪
 
-of vital importance, crucial:ofvitalimportant,至关重要的
-giving an authoritative command, peremptory:givingaauthoritativecommand,专横的
-denoting the mood of a verb that expresses a command or exhortation, as in come here!:表示表示命令或劝告的动词语气，如comehere!
+of vital importance, crucial:至关重要的，至关重要的
+giving an authoritative command, peremptory:下达权威命令，强制执行
+denoting the mood of a verb that expresses a command or exhortation, as in come here!:表示表示命令或劝告的动词的语气，如 come here!
 an essential or urgent thing:一件重要的或紧急的事情
 a factor or influence making something necessary:使某事变得必要的因素或影响
 a verb or phrase in the imperative mood.:祈使语气中的动词或短语。
@@ -396,7 +396,7 @@ the geology of the Outer Hebrides:外赫布里底群岛的地质
 an article on the Moon's geology:一篇关于月球地质的文章
 
 move or cause to move slowly or rhythmically backwards and forwards or from side to side:移动或导致缓慢或有节奏地前后或左右移动
-control or influence (a person or course of action):controlorinfluence（一个人或行动过程）
+control or influence (a person or course of action):控制或影响（一个人或行动过程）
 rule, govern:规则，治理
 a rhythmical movement from side to side:从一侧到另一侧的有节奏的运动
 rule, control:规则，控制

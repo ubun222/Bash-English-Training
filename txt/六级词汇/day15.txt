@@ -34,7 +34,7 @@ bridge					桥梁，纽带，消除，弥补
 existing or occurring at or on the surface:存在于或发生在表面或表面上
 situated or occurring on the skin or immediately beneath it:位于或出现在皮肤上或紧贴其下
 appearing to be true or real only until examined more closely:只有在更仔细地检查之前才显得真实或真实
-not thorough, deep, or complete, cursory:notthorough,deep,orcomplete,粗略
+not thorough, deep, or complete, cursory:不彻底、不深入或不完整、粗略
 lacking depth of character or understanding:缺乏性格深度或理解力
 denoting a quantity of a material expressed in terms of area covered rather than linear dimension or volume.:表示以覆盖面积而不是线性尺寸或体积表示的材料量。
 superficial |ˌsuːpəˈfɪʃl| Adjective/:浅,肤浅的,表面上的
@@ -74,34 +74,34 @@ based on or in accordance with what is generally done or believed:基于或根�
 (of a person) greatly or overly concerned with what is generally held to be socially acceptable:（一个人的）非常或过度关注通常被社会接受的事物
 (of a work of art or literature) following traditional forms and genres:（艺术或文学作品的）遵循传统形式和流派
 (of weapons or power) non-nuclear:（武器或力量）非核
-(of a bid) intended to convey a particular meaning according to an agreed convention:(ofabid)旨在根据商定的惯例传达特定含义
+(of a bid) intended to convey a particular meaning according to an agreed convention:（出价的）旨在根据商定的惯例传达特定含义
 conventional |kənˈvɛnʃən(ə)l| Adjective/:传统的,常规,常规的,约定俗成的
 a conventional morality had dictated behaviour:传统的道德规范了行为
 you're a bit too well-brought-up, a bit too conventional:你有点太有教养了，有点太传统了
 conventional love poetry:常规爱情诗
 agreement on reducing conventional forces in Europe:关于削减欧洲常规部队的协议
-West made a conventional bid showing a hand with at least 5 spades:West进行常规叫牌，显示一手至少有5个黑桃的牌
+West made a conventional bid showing a hand with at least 5 spades:韦斯特进行了常规叫牌，亮出至少有 5 张黑桃的牌
 
 a feeling of amazement and admiration, caused by something beautiful, remarkable, or unfamiliar:一种由美丽的、非凡的或不熟悉的事物引起的惊奇和钦佩的感觉
-a thing or a quality of something that causes wonder:athingoraqualityofsomething引起惊奇
+a thing or a quality of something that causes wonder:引起惊奇的事物或事物的品质
 a person or thing regarded as very good, remarkable, or effective:被认为非常好、卓越或有效的人或事物
 having remarkable properties or abilities:具有非凡的特性或能力
 a surprising event or situation:令人惊讶的事件或情况
 wonder |ˈwʌndə| Noun/Verb/:,奇迹,怀疑,惊奇
-he observed the intricacy of the ironwork with the wonder of a child:he以孩子的好奇心观察了铁制品的复杂性
+he observed the intricacy of the ironwork with the wonder of a child:他以孩子的好奇心观察了铁制品的复杂性
 have you ever explored the wonders of a coral reef?:你探索过珊瑚礁的奇观吗？
-we all eat cakes from Gisella—she's a wonder:wealleatcakesfromGisella-she'sawonder
+we all eat cakes from Gisella—she's a wonder:我们都吃 Gisella 的蛋糕——她是个奇迹
 a wonder drug:一种神奇的药物
 it is a wonder that losses are not much greater:奇迹的是损失没有增加多少
 
-too long, slow, or dull, tiresome or monotonous:toolong,slow,ordull,tiresableormonotonous
+too long, slow, or dull, tiresome or monotonous:太长、太慢或沉闷、令人厌烦或单调
 tedious |ˈtiːdɪəs| Adjective/:乏味,乏味的,单调乏味
 a tedious journey:乏味的旅程
 
 lower in rank or position:低级别或职位
 of less or secondary importance:不太重要或次要的
 a person under the authority or control of another within an organization:在组织内受另一个人管辖或控制的人
-treat or regard as of lesser importance than something else:treatorregardaslesserimportantthanother其他事物
+treat or regard as of lesser importance than something else:对待或认为不如其他事物重要
 make subservient to or dependent on something else:屈服于或依赖于其他事物
 subordinate |səˈbɔːdɪnət| Adjective/Noun/Verb/:下属,从属,属下
 his subordinate officers:他的下属
@@ -116,11 +116,11 @@ the rigid supporting structure of an object such as a vehicle, building, or piec
 a boxlike structure of glass or plastic in which seeds or young plants are grown.:一种盒子状的玻璃或塑料结构，种子或幼苗在其中生长。
 an apparatus with a surrounding structure, especially one used in weaving, knitting, or embroidery.:具有环绕结构的器具，尤指用于编织、针织或刺绣的器具。
 the universe, or part of it, regarded as an embracing structure:宇宙，或其中的一部分，被视为一个包容的结构
-a person's body with reference to its size or build:apersonbody参考其尺寸或构造
+a person's body with reference to its size or build:一个人的身体参考其大小或构建
 a basic structure that underlies or supports a system, concept, or text:构成或支持系统、概念或文本的基本结构
 the structure, constitution, or nature of someone or something:某人或某物的结构、构成或性质
 a structural environment within which a class of words or other linguistic units can be correctly used. For example I — him is a frame for a large class of transitive verbs.:可以正确使用一类词或其他语言单位的结构环境。16
-a feature which marks a transition from one section of discourse to another:afeature标志着从一段话到另一段的过渡
+a feature which marks a transition from one section of discourse to another:标志着从一段话到另一段的过渡的特征
 a section of a discourse separated by a frame:由框架分隔的一段话语
 (in semantics) an underlying conceptual structure into which the meanings of a number of related words fit:（在语义学上）一个基本的概念结构，许多相关词的含义都适合
 a social context determining the interpretation of an utterance:决定话语解释的社会背景
@@ -129,11 +129,11 @@ a single picture in a comic strip.:漫画中的单幅图片。
 a graphic panel in a display window, especially in a web browser, which encloses a self-contained section of data and permits multiple independent document viewing.:显示窗口中的图形面板，特别是在网络浏览器中，它包含一个独立的数据部分并允许多个独立的文档查看。
 the triangular structure for positioning the red balls in snooker.:斯诺克中用于定位红球的三角形结构。
 a single game of snooker:一场斯诺克比赛
-place (a picture or photograph) in a frame:place(apictureorphoto)inaframe
-surround so as to create a striking or attractive image:surround以创建引人注目或有吸引力的图像
-formulate (a concept, plan, or system):formulate（概念、计划或系统）
-form or articulate (words):formorarticulate(单词)
-make or construct (something) by fitting parts together or in accordance with a plan:makeorconstruct(something)byfittingpartstogetheror按照计划
+place (a picture or photograph) in a frame:将（图片或照片）放在画框里
+surround so as to create a striking or attractive image:环绕以创建醒目的或有吸引力的图像
+formulate (a concept, plan, or system):制定（概念、计划或系统）
+form or articulate (words):形式或表达（单词）
+make or construct (something) by fitting parts together or in accordance with a plan:通过将零件装配在一起或按照计划制造或建造（某物）
 produce false evidence against (an innocent person) so that they appear guilty:出示针对（无辜者）的虚假证据，使他们看起来有罪
 frame |freɪm| Noun/Verb/:框架,镶边,帧,框
 the wooden frame of the huge bed:大床的木架
@@ -141,24 +141,24 @@ this goodly frame the Earth:这很好地构筑了地球
 a shiver shook her slim frame:一个颤抖摇晃着她苗条的身躯
 the establishment of conditions provides a frame for interpretation:条件的成立提供了解释的框架
 we have in our inward frame various affections:我们内心深处有各种各样的感情
-frames are realized by linguistic items such as ‘well’, ‘right’, and ‘OK’:frames由诸如“well”、“right”和“OK”等语言项目实现
-pragmatically asides step back from the ongoing interpretative frame:pragmatically退出正在进行的解释框架
+frames are realized by linguistic items such as ‘well’, ‘right’, and ‘OK’:框架由语言项目实现，例如“好”、“正确”和“好”
+pragmatically asides step back from the ongoing interpretative frame:务实地从正在进行的解释框架中退后一步
 the frame of verbs of perception:感知动词的框架
 an utterance may mean the opposite of what it says if used within a frame of teasing:如果在戏弄的框架内使用的话，可能意味着与它所说的相反
 video footage slowed down to 20 frames a second:视频片段减慢到每秒20帧
-Jones won the first four frames:Jones赢了前四局
-he had had the photo framed:he把照片装框了
+Jones won the first four frames:琼斯赢了前四局
+he had had the photo framed:他把照片装框了
 a short style cut to frame the face:a短款剪裁以修饰脸部
 staff have proved invaluable in framing the proposals:事实证明，工作人员在制定提案方面发挥了不可估量的作用
 he walked out before she could frame a reply:他在她来不及回复之前就走了出去
 what immortal hand or eye could frame thy fearful symmetry?:什么不朽的手或眼睛可以塑造你可怕的对称？
-he claims he was framed:he声称他被陷害
+he claims he was framed:他声称他被陷害
 
-move (goods) illegally into or out of a country:move(goods)非法进出一个国家
-convey (someone or something) somewhere secretly and illicitly:convey(someoneorsomething)somethingsecretlyandillicitly
+move (goods) illegally into or out of a country:将（货物）非法运进或运出一个国家
+convey (someone or something) somewhere secretly and illicitly:秘密和非法地将（某人或某物）运送到某处
 smuggle |ˈsmʌɡl| Verb/:走私,偷运
-he's been smuggling cigarettes from Gibraltar into Spain:he一直在从直布罗陀走私香烟到西班牙
-he smuggled out a message:he偷偷发了一条消息
+he's been smuggling cigarettes from Gibraltar into Spain:他一直在从直布罗陀走私香烟到西班牙
+he smuggled out a message:他偷偷发了一条消息
 
 the action of repaying a person who has spent or lost money:还给花钱或赔钱的人的动作
 a sum paid to cover money that has been spent or lost:为弥补已花费或丢失的钱而支付的款项
@@ -168,10 +168,10 @@ the family received insurance reimbursements:家人收到保险报销
 
 cease to be visible:不再可见
 cease to exist or be in use:停止存在或使用
-be lost or go missing, become impossible to find:belostorgomissing,变得找不到
-abduct or arrest and kill or detain (a person) for political reasons, without making their fate known:abductorarrestandkillordetail(aperson)forpoliticalreasons,withoutmakeuptheirfast
+be lost or go missing, become impossible to find:丢失或失踪，变得无法找到
+abduct or arrest and kill or detain (a person) for political reasons, without making their fate known:出于政治原因绑架或逮捕、杀害或拘留（某人），但不公开他们的命运
 disappear |ˌdɪsəˈpɪə| Verb/:消失,失踪
-he disappeared into the trees:he消失在树林里
+he disappeared into the trees:他消失在树林里
 the tension had completely disappeared:紧张完全消失了
 my wallet seems to have disappeared:我的钱包好像不见了
 it is estimated that some 7000 people have been disappeared by security forces:据估计，大约有7000人被安全部队失踪
@@ -179,7 +179,7 @@ it is estimated that some 7000 people have been disappeared by security forces:�
 breathe in (air, gas, smoke, etc.):吸入（空气、煤气、烟雾等）
 eat (food) greedily or rapidly:贪婪地或快速地吃（食物）
 inhale |ɪnˈheɪl| Verb/:吸入,吸,吸气
-later on I inhale a box of chocolate cookies while watching cable TV:lateron我一边看有线电视一边吸入一盒巧克力饼干
+later on I inhale a box of chocolate cookies while watching cable TV:后来我一边看有线电视一边吸入一盒巧克力饼干
 
 the greater number:更大的数字
 the number by which the votes cast for one party or candidate exceed those for the next:一个政党或候选人的票数超过下一个政党或候选人的票数
@@ -189,15 +189,15 @@ the age at which a person is legally a full adult, usually either 18 or 21:一�
 the rank or office of a major.:专业的等级或职位。
 majority |məˈdʒɒrɪti| Noun/:多数,大多数人
 in the majority of cases all will go smoothly:在大多数情况下一切都会顺利进行
-Labour retained the seat with a majority of 9,830:Labour以9,830的多数席位保住了席位
-kids get control of the money when they reach the age of majority:kids在成年时可以控制金钱
+Labour retained the seat with a majority of 9,830:工党以 9,830 的多数席位保住了席位
+kids get control of the money when they reach the age of majority:孩子们在成年时可以控制金钱
 
 commit to memory; learn by heart:提交到内存；用心学习
 memorize |ˈmɛmərʌɪz| Verb/:记住,背诵
 he memorized thousands of verses:他背诵了数千节经文
 
 
-increasing or increased in quantity, degree, or force by successive additions:increasingorincreasedinquantity,degree,orforcebysuccessfuladding增加
+increasing or increased in quantity, degree, or force by successive additions:通过连续添加增加或增加数量、程度或力量
 cumulative |ˈkjuːmjʊlətɪv| Adjective/:累积的,累计
 the cumulative effect of two years of drought:两年干旱的累积效应
 
@@ -216,13 +216,13 @@ a person's mouth (used in expressions to do with speaking):一个人的嘴（用
 (among jazz musicians) drums or percussion instruments:（爵士乐手）鼓或打击乐器
 a type of hip-hop music typically characterized by a dark tone and rhythms involving low-pitched kick drums and a very fast hi-hat:一种嘻哈音乐，通常以暗色调和节奏为特征，包括低音鼓和非常快的踩镲
 a place where drugs are sold:卖药的地方
-catch (an animal) in a trap.:catch（一只动物）在陷阱里。
-prevent (someone) from escaping from a place:prevent（某人）逃离某个地方
-have (something, typically a part of the body) held tightly by something so that it cannot be freed:have（某物，通常是身体的一部分）被某物紧紧抓住，使其无法释放
+catch (an animal) in a trap.:把（动物）困在陷阱里。
+prevent (someone) from escaping from a place:阻止（某人）逃离某个地方
+have (something, typically a part of the body) held tightly by something so that it cannot be freed:
 bring (the ball) under control with the foot or other part of the body on receiving it:在接球时用脚或身体其他部位控制住（球）
-trick or deceive (someone) into doing something contrary to their interests or intentions:trick或欺骗（某人）做与他们的利益或意图相反的事情
+trick or deceive (someone) into doing something contrary to their interests or intentions:欺骗或欺骗（某人）做一些违背他们的利益或意图的事情
 put trappings on (a horse):put陷阱（一匹马）
-basalt or a similar dark, fine-grained igneous rock.:basalt或类似的深色细粒火成岩。
+basalt or a similar dark, fine-grained igneous rock.:玄武岩或类似的深色细粒火成岩。
 trap |trap| Noun/Verb/:,困住,陷
 the squirrels ravaged the saplings, despite the baited traps:松鼠蹂躏树苗，尽管有诱饵
 we were fed false information by a double agent and walked straight into a trap:我们被双重间谍提供了虚假信息，直接走进了陷阱
@@ -231,7 +231,7 @@ they fell into the trap of relying too little on equity finance:他们掉进了�
 one fuel filter and water trap are sufficient on the fuel system:一个燃油滤清器和集水器在燃油系统上就足够了
 keep your trap shut!:保持你的陷阱关闭！
 I played the traps a little myself once:我自己玩过一次陷阱
-the LP will feature his raps over a wide range of electronic sounds from dubstep to trap:theLP将在从dubstep到Trap的各种电子声音中展示他的说唱
+the LP will feature his raps over a wide range of electronic sounds from dubstep to trap:LP 将以他的说唱为特色，涵盖从 dubstep 到 trap 的各种电子声音
 a trap full of dealers:一个充满经销商的陷阱
 twenty workers were trapped by flames:20名工人被火焰困住
 he had trapped his finger in a spring-loaded hinge:他的手指被弹簧铰链卡住了
@@ -266,19 +266,19 @@ all the stages in the process interact:过程中的所有阶段相互作用
 the user interacts directly with the library:用户直接与图书馆互动
 
 remove impurities or unwanted elements from (a substance), typically as part of an industrial process:从（物质）中去除杂质或不需要的元素，通常作为工业过程的一部分
-make minor changes so as to improve or clarify (a theory or method):makeminorchanges以便改进或澄清（理论或方法）
+make minor changes so as to improve or clarify (a theory or method):做微小的改变以改进或澄清（理论或方法）
 refine |rɪˈfʌɪn| Verb/:,细化
 sugar was refined by boiling it in huge iron vats:糖是在巨大的铁缸里熬制而成的
 ease of access to computers has refined analysis and presentation of data:易于使用计算机改进了数据分析和呈现
 
-grant (a title, degree, benefit, or right):grant（头衔、学位、福利或权利）
+grant (a title, degree, benefit, or right):授予（头衔、学位、利益或权利）
 have discussions, exchange opinions:进行讨论，交换意见
 confer |kənˈfəː| Verb/:授予,商议
 the Minister may have exceeded the powers conferred on him by Parliament:部长可能已经超出了议会授予他的权力
 the officials were conferring with allies:官员们正在与盟友商谈
 
-(of a person) not identified by name, of unknown name:(ofaperson)notidentifiedbyname,未知的名字
-having no outstanding, individual, or unusual features, unremarkable or impersonal:havingnooutstanding,individual,orunusualfeatures,unremarkableorimpersonal
+(of a person) not identified by name, of unknown name:（某人的）没有名字的，不知名的
+having no outstanding, individual, or unusual features, unremarkable or impersonal:
 anonymous |əˈnɒnɪməs| Adjective/:匿名的,匿名,无名氏
 the donor's wish to remain anonymous:捐赠者希望保持匿名
 his impeccable, slightly anonymous Chelsea flat:他无可挑剔的切尔西公寓
@@ -286,8 +286,8 @@ his impeccable, slightly anonymous Chelsea flat:他无可挑剔的切尔西公�
 a person who comments on events or on a text:对事件或文本发表评论的人
 a person who commentates on a sports match or other event:评论体育比赛或其他活动的人
 commentator |ˈkɒm(ə)nteɪtə| Noun/:评论员,解说员,评论家
-commentators noted that the demonstration was part of a wider strategy:commentators指出，演示是更广泛战略的一部分
-the move electrified spectators and commentators alike:themove让观众和评论员都兴奋不已
+commentators noted that the demonstration was part of a wider strategy:评论员指出，这次示威是更广泛战略的一部分
+the move electrified spectators and commentators alike:这一举动让观众和评论员都为之震惊
 
 having or showing eagerness or enthusiasm:具有或表现出渴望或热情
 interested in or attracted by (someone or something):对（某人或某物）感兴趣或被（某人或某物）吸引
@@ -317,12 +317,12 @@ the body of Johnny was taken by his own people who keened over him:约翰尼的�
 the wind blew and wild birds keened in the sky:风在吹，野鸟在天空鸣叫
 
 compel observance of or compliance with (a law, rule, or obligation):强制遵守或遵守（法律、规则或义务）
-cause (something) to happen by necessity or force:cause(something)因必要或强制而发生
-press home (a demand or argument):presshome（要求或争论）
+cause (something) to happen by necessity or force:使（某事）因必然或强制而发生
+press home (a demand or argument):按回家（要求或争论）
 enforce |ɪnˈfɔːs| Verb/:执行,强制,强制执行
 the role of the police is to enforce the law:警察的作用是执法
 there is no outside agency to enforce cooperation between the players:没有外部机构来强制玩家之间的合作
-my father spoke like a preacher enforcing a precept of religion:myfather说话就像传教士执行宗教戒律
+my father spoke like a preacher enforcing a precept of religion:我父亲说话就像传教士执行宗教戒律
 
 a grocer's shop or business:杂货店或企业
 items of food sold in a grocery or supermarket:杂货店或超市出售的食品
@@ -330,18 +330,18 @@ grocery |ˈɡrəʊs(ə)ri| Noun/:杂货店,食品杂货
 I went to the grocery to buy some fruit:我去杂货店买了些水果
 I bought groceries for the family:我给家人买了杂货
 
-open out (something) so as to extend its surface area, width, or length:openout(something)以扩大其表面积、宽度或长度
+open out (something) so as to extend its surface area, width, or length:打开（某物）以扩大其表面积、宽度或长度
 stretch out (arms, legs, hands, fingers, or wings) so that they are far apart:伸出（手臂、腿、手、手指或翅膀）使它们相距很远
 extend over a large or increasing area:延伸到一个大的或不断增加的区域
 (of a group of people) move apart so as to cover a wider area:（一群人的）分开以覆盖更广阔的区域
-distribute or disperse (something) over an area:distribute或disperse(something)在一个区域
+distribute or disperse (something) over an area:将（某物）分布或散布在一个地区
 gradually reach or cause to reach a wider area or more people:逐渐到达或导致到达更广泛的区域或更多的人
 (of people, animals, or plants) become distributed over a large or larger area:（人、动物或植物的）分布在一个很大或更大的区域
 distribute in a specified way:以指定方式分发
-apply (a substance) to an object or surface in an even layer:apply(asubstance)toanobjectorsurfaceinaeven层
+apply (a substance) to an object or surface in an even layer:将（一种物质）均匀地涂在物体或表面上
 cover (a surface) with a substance in an even layer:用均匀层中的物质覆盖（表面）
 be able to be applied in an even layer:可均匀涂抹
-lay (a table) for a meal.:lay(atable)吃饭。
+lay (a table) for a meal.:
 the fact or process of spreading over an area:在一个地区蔓延的事实或过程
 the extent, width, or area covered by something:某物覆盖的范围、宽度或面积
 the wingspan of a bird:鸟的翼展
@@ -350,69 +350,69 @@ a large farm or ranch.:一个大农场或牧场。
 the range or variety of something:某物的范围或种类
 the difference between two rates or prices:两个费率或价格之间的差异
 a soft paste that can be applied in a layer to bread or other food:一种软糊状物，可以一层一层地涂在面包或其他食物上
-an article or advertisement covering several columns or pages of a newspaper or magazine, especially one on two facing pages:anarticleoradvertisementcoveringalowercolumnorpagesofanewspaperormagazine,especiallyoneonfastfacingpages
+an article or advertisement covering several columns or pages of a newspaper or magazine, especially one on two facing pages:覆盖报纸或杂志的多个专栏或页面的文章或广告，尤指两个对开页上的一篇文章或广告
 a large and impressively elaborate meal:一顿丰盛而精致的大餐
 a bedspread:床罩
 spread |sprɛd| Noun/Verb/:传播,铺开,蔓延,扩散,扩展
 I spread a towel on the sand and sat down:我在沙滩上铺了一条毛巾坐下
 rain over north-west Scotland will spread south-east during the day:苏格兰西北部的雨将在白天向东南传播
-the Marines spread out across the docks:theMarines散布在码头上
-volcanic eruptions spread dust high into the stratosphere:volcaniceruptions将尘埃扩散到平流层
+the Marines spread out across the docks:海军陆战队分散在码头上
+volcanic eruptions spread dust high into the stratosphere:火山喷发将尘埃扩散到平流层
 the owls have spread as far north as Kuala Lumpur:猫头鹰已经向北蔓延至吉隆坡
 you can spread the payments over as long a period as you like:您可以根据需要分期付款
-he sighed, spreading jam on a croissant:he叹了口气，在羊角面包上涂上果酱
+he sighed, spreading jam on a croissant:他叹了口气，在羊角面包上涂上果酱
 spread each slice thinly with mayonnaise:用蛋黄酱薄薄地涂抹每片
 a tub of unsalted butter that spreads so well:一桶涂抹得很好的无盐黄油
 warmer temperatures could help reduce the spread of the disease:温暖的温度可以帮助减少疾病的传播
 the male's antlers can attain a spread of six feet:男性的鹿角可以展开六英尺
-the red-tailed hawk has a four-and-a-half-foot spread:thered-tailedhawk展开四英尺半
+the red-tailed hawk has a four-and-a-half-foot spread:红尾鹰伸展四英尺半
 the green spread of the park:公园的绿地
 a wide spread of ages:广泛的年龄段
 the very narrow spread between borrowing and deposit rates:借款利率和存款利率之间的差距非常小
 low-fat spreads:低脂涂抹酱
 a double-page spread:跨页
-his mother laid on a huge spread:hismother奠定了巨大的传播
+his mother laid on a huge spread:他的母亲躺在一个巨大的价差上
 a patchwork spread:拼布传播
 
-enlist (someone) in the armed forces:enlist（某人）参军
-form (an army or other force) by enlisting new people:form（一支军队或其他力量）通过招募新人
-enrol (someone) as a member or worker in an organization or as a supporter of a cause:enrol（某人）作为组织的成员或工人或作为事业的支持者
-persuade to do or help with something:persuade去做或帮助做某事
-replenish or reinvigorate (numbers, strength, etc.):replenish或reinvigorate（数量、强度等）
+enlist (someone) in the armed forces:征召（某人）入伍
+form (an army or other force) by enlisting new people:通过招募新人组建（军队或其他力量）
+enrol (someone) as a member or worker in an organization or as a supporter of a cause:登记（某人）为组织的成员或工人或作为事业的支持者
+persuade to do or help with something:说服去做或帮助做某事
+replenish or reinvigorate (numbers, strength, etc.):补充或恢复活力（数量、力量等）
 a person newly enlisted in the armed forces and not yet fully trained.:一个新入伍但尚未完全训练的人。
 a new member of an organization or supporter of a cause.:组织的新成员或事业的支持者。
 recruit |rɪˈkruːt| Noun/Verb/:招募,新成员,招,招收,新兵
 we recruit our toughest soldiers from the desert tribes:我们从沙漠部落招募最坚强的士兵
 the weakness of feudal service as a basis for recruiting an army:封建服务作为招募军队基础的弱点
 there are plans to recruit more staff later this year:有计划在今年晚些时候招聘更多员工
-she recruited her children to help run the racket:she招募了她的孩子来帮助运营球拍
-travelling was said to recruit the constitution:travelling据说招宪
+she recruited her children to help run the racket:她招募了她的孩子来帮助运营球拍
+travelling was said to recruit the constitution:据说旅行可以吸收体质
 
-having, done for, or marked by a good or legitimate reason:having,donefor,ormarkedbyagoodorlegitimatereason
+having, done for, or marked by a good or legitimate reason:有充分或合法的理由，为之或标记
 declared or made righteous in the sight of God.:在上帝眼中宣告或称义。
 having been adjusted so that the print fills a space evenly or forms a straight line at the margin:已经调整，使打印均匀地填充一个空间或在边缘形成一条直线
 justified |ˈdʒʌstɪfʌɪd| Adjective/:合理的,有道理的
 the doctors were justified in treating her:医生为她治疗是正当的
 
 (of a person or their behaviour) unconventional and slightly strange:（一个人或他们的行为）非常规的和有点奇怪的
-not placed centrally or not having its axis or other part placed centrally:notplacedcentrallyor其轴或其他部分未居中
+not placed centrally or not having its axis or other part placed centrally:未居中放置或未将其轴或其他部分居中放置
 (of a circle) not centred on the same point as another.:（圆圈的）不以另一个圆心为中心。
 (of an orbit) not circular.:（轨道）不是圆形的。
 a person of unconventional and slightly strange views or behaviour:一个非常规的和有点奇怪的观点或行为的人
 a disc or wheel mounted eccentrically on a revolving shaft in order to transform rotation into backward-and-forward motion, e.g. a cam in an internal combustion engine.:偏心安装在旋转轴上的圆盘或轮子，以便将旋转转换为前后运动，例如1
 eccentric |ɪkˈsɛntrɪk| Adjective/Noun/:偏心,古怪的
-he noted her eccentric appearance:he注意到她古怪的外表
+he noted her eccentric appearance:他注意到她古怪的外表
 a servo driving an eccentric cam:伺服驱动偏心凸轮
-he's seen as a local eccentric:he'sseenasalocaleccentric
+he's seen as a local eccentric:他被视为当地的怪人
 
-a structure carrying a road, path, railway, etc. across a river, road, or other obstacle:astructurecarriedaroad,path,railway,etc.跨越河流、道路或其他障碍物
-something intended to reconcile or connect two seemingly incompatible things:something旨在调和或连接两个看似不相容的事物
+a structure carrying a road, path, railway, etc. across a river, road, or other obstacle:横跨河流、道路或其他障碍物的道路、小径、铁路等结构
+something intended to reconcile or connect two seemingly incompatible things:旨在调和或连接两个看似不相容的事物的事物
 the elevated, enclosed platform on a ship from which the captain and officers direct operations:船长和高级船员指挥操作的船上高架封闭平台
 the upper bony part of a person's nose:人鼻子的上骨部分
 the central part of a pair of glasses, fitting over the bridge of the nose:一副眼镜的中心部分，贴合在鼻梁上
 a partial denture supported by natural teeth on either side.:两侧由天然牙齿支撑的局部义齿。
 the part of a stringed instrument over which the strings are stretched:弦乐器的弦被拉伸的部分
-a bridge passage or middle eight.:abridgepassage或中间八。
+a bridge passage or middle eight.:桥梁通道或中间八个。
 the support for the tip of a billiard cue formed by the hand.:由手形成的台球杆尖端的支撑。
 a long stick with a frame at the end which is used to support a cue for a difficult shot.:一根末端有框架的长棍，用于支撑高难度击球的提示。
 an electric circuit with two branches across which a detector or load is connected, used to measure resistance or other property by equalizing the potential across the two ends of a detector, or to rectify an alternating voltage or current.:具有两个分支的电路，其上连接有检测器或负载，用于通过均衡检测器两端的电位来测量电阻或其他特性，或对交流电压或电流进行整流。
@@ -421,11 +421,11 @@ make (a difference between two groups) smaller or less significant:使（两组�
 a card game related to whist, played by two partnerships of two players who at the beginning of each hand bid for the right to name the trump suit, the highest bid also representing a contract to make a specified number of tricks with a specified suit as trumps:一种与惠斯特有关的纸牌游戏，由两名玩家组成的两个合作伙伴玩，他们在每手牌开始时竞标王牌花色的命名权，最高出价也代表合同，以指定数量的牌9
 bridge |brɪdʒ| Noun/Verb/:桥,架桥,桥梁,大桥
 a bridge across the River Thames:泰晤士河上的一座桥
-a committee which was formed to create a bridge between rival party groups:acommittee的成立是为了在敌对政党团体之间架起一座桥梁
-Talbot stepped across the two gunwales and made his way up to the bridge:Talbot跨过两条船舷，上到舰桥
-he pushed his spectacles further up the bridge of his nose:he将眼镜推到鼻梁上
+a committee which was formed to create a bridge between rival party groups:为在敌对政党团体之间架起桥梁而成立的委员会
+Talbot stepped across the two gunwales and made his way up to the bridge:塔尔博特跨过两条船舷，向舰桥走去
+he pushed his spectacles further up the bridge of his nose:他将眼镜推到鼻梁上
 these sunglasses have a special nose bridge for comfort:这些太阳镜有一个特殊的鼻梁，舒适
 ebony bridges and fingerboards:乌木琴桥和指板
 a covered walkway bridged the gardens:一条有盖人行道桥接花园
 new initiatives were needed to bridge the great abyss of class:需要采取新的举措来弥合阶级的巨大鸿沟
-she plays bridge once a month with a group of friends:she每个月和一群朋友打一次桥牌
+she plays bridge once a month with a group of friends:她每个月和一群朋友打一次桥牌

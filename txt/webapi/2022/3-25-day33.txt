@@ -39,10 +39,10 @@ excessive drinking					酗酒
 
 give a share or a unit of (something) to each of a number of recipients:给多个收件人中的每一个分享或一个单位的（某物）
 supply (goods) to retailers:向零售商供应（商品）
-separate (metal type that has been set up) and return the characters to their separate compartments in a type case.:separate（已设置的金属类型）并将字符返回到它们在类型案例中的单独隔间。
+separate (metal type that has been set up) and return the characters to their separate compartments in a type case.:分离（已设置的金属活字）并将字符放回活字盒中的单独隔间。
 occur throughout an area:发生在整个区域
-spread (a load) over an area:spread（负载）在一个区域上
-spread (a computer system) over several machines, especially over a network:spread（计算机系统）在多台机器上，尤其是在网络上
+spread (a load) over an area:将（负载）散布在一个区域
+spread (a computer system) over several machines, especially over a network:将（计算机系统）分布在多台机器上，尤指通过网络
 use (a term) to include every individual of the class to which it refers:use（一个术语）包括它所指的类的每个人
 distribute |dɪˈstrɪbjuːt| Verb/:分发,分配
 information leaflets are being distributed to hotels:信息传单正在分发给酒店
@@ -61,15 +61,15 @@ the destruction of the rainforest:雨林的破坏
 the wanton destruction of human life:对人类生命的肆意破坏
 gambling was his destruction:gambling是他的毁灭
 
-separate or be separated into parts:separate或被分成几部分
+separate or be separated into parts:分开或分成几部分
 separate (something) into portions and share out among a number of people:象征性地，性别的差异是一个鸿沟2
 allocate (different parts of one's time or efforts) to different activities or places:将（一个人的时间或精力的不同部分）分配到不同的活动或地点
 form a boundary between (two people or things):形成（两个人或事物）之间的边界
 (of a legislative assembly) separate or be separated into two groups for voting:（立法议会的）分开或分成两组投票
-disagree or cause to disagree:disagree或导致不同意
-find how many times (a number) contains another:find多少次（一个数字）包含另一个
+disagree or cause to disagree:不同意或导致不同意
+find how many times (a number) contains another:查找（一个数字）包含另一个的次数
 (of a number) be susceptible of division without a remainder:(一个数)容易被除法而没有余数
-find how many times (a number) is contained in another:find（一个数字）在另一个中包含多少次
+find how many times (a number) is contained in another:查找另一个中包含多少次（一个数字）
 (of a number) be contained in a number without a remainder:(ofanumber)包含在一个没有余数的数字中
 a difference or disagreement between two groups, typically producing tension:两组之间的差异或分歧，通常会产生紧张
 a boundary between two things:两件事之间的界限
@@ -77,7 +77,7 @@ a ridge or line of high ground forming the division between two valleys or river
 divide |dɪˈvʌɪd| Noun/Verb/:划分,分,分裂,分开
 Jack divided up the rest of the cash:Jack把剩下的现金分了
 the last years of her life were divided between Bermuda and Paris:她生命的最后几年在百慕大和巴黎之间
-glass panels divide the bar from the TV room:glass面板将酒吧与电视室隔开
+glass panels divide the bar from the TV room:玻璃面板将酒吧与电视室隔开
 36 divided by 2 equals 18:36除以2等于18
 30 does not divide by 8:30不除以8
 divide 4 into 20:将4除以20
@@ -96,9 +96,9 @@ the best parts of a sporting or other event edited for broadcasting or recording
 a bright or reflective area in a painting, picture, or design.:绘画、图片或设计中的明亮或反光区域。
 a bright tint in the hair, especially one created artificially by bleaching or dyeing.:头发中的一种亮色，尤其是通过漂白或染色人工产生的一种。
 draw special attention to:提请特别注意
-make visually prominent:make视觉上突出
-mark with a highlighter:mark用荧光笔
-mark or select (a piece of text or other element) in an electronic interface:mark或select（一段文本或其他元素）在电子界面中
+make visually prominent:使视觉突出
+mark with a highlighter:用荧光笔标记
+mark or select (a piece of text or other element) in an electronic interface:在电子界面中标记或选择（一段文字或其他元素）
 create highlights in (hair):在（头发）中创建亮点
 highlight |ˈhʌɪlʌɪt| Noun/Verb/:强调,最精彩的部分,突出,突出显示,亮点
 he views that season as the highlight of his career:他认为那个赛季是他职业生涯的亮点
@@ -173,7 +173,7 @@ he's the sort of person who's always punctual:他是那种总是准时的人
 
 obtain something from (a specified source):从（指定来源）获取某些东西
 base a concept on an extension or modification of (another concept):基于（另一个概念）的扩展或修改的概念
-(of a word) have (a specified word, usually of another language) as a root or origin:(ofaword)有(一个指定的词，通常是另一种语言)作为词根或起源
+(of a word) have (a specified word, usually of another language) as a root or origin:（一个词的）有（一个特定的词，通常是另一种语言的）作为词根或起源
 arise from or originate in (a specified source):来自或起源于（指定来源）
 (of a sentence in a natural language) be linked by a set of stages to (its underlying logical form).:（自然语言中的句子）通过一组阶段链接到（其基本逻辑形式）。
 (of a substance) be formed or prepared by (a chemical or physical process affecting another substance):（一种物质的）由（影响另一种物质的化学或物理过程）形成或制备
@@ -181,8 +181,8 @@ obtain (a function or equation) from another by a sequence of logical steps, for
 derive |dɪˈrʌɪv| Verb/:派生,导出
 they derived great comfort from this assurance:他们从这个保证中获得了极大的安慰
 some maintain that he derived the idea of civil disobedience from Thoreau:一些人认为他从梭罗那里得到了公民不服从的想法
-the word ‘punch’ derives from the Hindustani ‘pancha’:“punch”一词源自印度斯坦语“pancha”
-words whose spelling derives from Dr Johnson's incorrect etymology:words，其拼写源自Johnson博士的错误词源
+the word ‘punch’ derives from the Hindustani ‘pancha’:“punch”一词源自印度斯坦语中的“pancha”
+words whose spelling derives from Dr Johnson's incorrect etymology:拼写源自约翰逊博士错误词源的单词
 strong acids are derived from the combustion of fossil fuels:强酸来源于化石燃料的燃烧
 the volume fraction of the soil can then be derived as a function of L:土壤的体积分数可以导出为L的函数
 
@@ -207,19 +207,19 @@ the visual appearance or an image of something when looked at in a particular wa
 a particular way of considering or regarding something, an attitude or opinion:考虑或关于某事、态度或意见的特定方式
 look at or inspect:看或检查
 inspect (a house or other property) with the intention of possibly buying or renting it:inspect（房屋或其他财产），意图可能购买或出租它
-watch (something) on television:watch（某事）在电视上
+watch (something) on television:在电视上看（某事）
 see (a fox) break cover.:see（一只狐狸）打破掩护。
 regard in a particular light or with a particular attitude:以特定的眼光或特定的态度看待
 view |vjuː| Noun/Verb/:看法,看,视图,查看
 the end of the tunnel came into view:隧道尽头映入眼帘
 a fine view of the castle:城堡的美景
-Matisse's view of Collioure:Matisse对科利尤尔的看法
+Matisse's view of Collioure:马蒂斯眼中的科利尤尔
 an aerial view of the military earthworks:军事土方工程鸟瞰图
 strong political views:强烈的政治观点
 the public can view the famous hall with its unique staircase:公众可以通过独特的楼梯看到著名的大厅
 prospective buyers are requested to make an appointment to view the house:准买家请预约看房
 some people record the programme and view it later on their VCR:一些人录制节目并稍后在他们的录像机上观看
-farmers are viewing the rise in rabbit numbers with concern:farmers关注兔子数量的增长
+farmers are viewing the rise in rabbit numbers with concern:农民们对兔子数量的增加表示担忧
 
 in view of | 鉴于,以...的观点,针对
 
@@ -249,11 +249,11 @@ the right to proceed before other traffic:在其他交通之前进行的权利
 priority |prʌɪˈɒrɪti| Noun/:,优先事项,优先权,优先级,优先顺序
 the safety of the country takes priority over any other matter:国家安全高于一切
 playing football wasn't high on my list of priorities:踢足球在我的优先事项列表中并不高
-priority is given to traffic already on the roundabout:priority给予已经在环岛的交通
+priority is given to traffic already on the roundabout:优先考虑已经在环形交叉路口的交通
 
 not permanent:不是永久的
 impermanent |ɪmˈpəːmənənt| Adjective/:暂时的,无常,永恒的
-life has value precisely because it is transient and impermanent:life之所以有价值，正是因为它是短暂的和无常的
+life has value precisely because it is transient and impermanent:生命之所以有价值，正是因为它短暂无常
 
 be a symbol of:是一个象征
 represent by means of symbols:用符号表示
@@ -284,7 +284,7 @@ the people taken into an organization at a particular time:在特定时间进入
 an act of taking people into an organization:一种将人们带入组织的行为
 a place or structure through which something is taken in, e.g. water into a channel or pipe from a river, fuel or air into an engine, etc.:一个地方或结构，通过它来接收某物，例如。水从河流进入通道或管道，燃料或空气进入发动机等。
 the action of taking something in:拿东西的动作
-land reclaimed from a moor or common.:land从荒野或公共地带开垦。
+land reclaimed from a moor or common.:从沼泽或普通土地开垦的土地。
 intake |ˈɪnteɪk| Noun/:,摄入量,进水
 your daily intake of calories:你每天摄入的卡路里
 she heard his sharp intake of breath:她听到他急促的呼吸声
@@ -308,7 +308,7 @@ the most productive employees:最有生产力的员工
 the country's productive capacity:国家的生产能力
 a long and productive career:一个漫长而富有成效的职业生涯
 the hotel was not productive of amusing company:酒店没有有趣的公司
-many suffixes are common and productive:many后缀是常见且富有成效的
+many suffixes are common and productive:许多后缀是常见的和富有成效的
 
 regard with respect or warm approval:尊重或热烈赞同
 look at (something impressive or attractive) with pleasure:高兴地看着（令人印象深刻或有吸引力的东西）
@@ -324,7 +324,7 @@ make disparaging remarks about:做出贬损言论
 (of an action or situation) bring credit or discredit to the relevant parties:（行为或情况）给相关方带来信誉或不信任
 reflect |rɪˈflɛkt| Verb/:反映,体现
 when the sun's rays hit the Earth a lot of the heat is reflected back into space:当太阳光照射地球时，大量的热量被反射回太空
-he could see himself reflected in Keith's mirrored glasses:他可以看到自己在Keith的镜面眼镜中倒影
+he could see himself reflected in Keith's mirrored glasses:他可以在基思的镜面眼镜中看到自己的倒影
 schools should reflect cultural differences:schools应该反映文化差异
 he reflected with sadness on the unhappiness of his marriage:他悲伤地反映了他婚姻的不幸
 the clergy were strictly charged not to reflect on the Catholic religion in their discourses:神职人员被严格要求不要在他们的演讲中反思天主教
@@ -365,15 +365,15 @@ a representative sample of young people in Scotland:苏格兰年轻人的代表�
 the new government lacked a representative assembly:新政府没有代表大会
 free elections and representative democracy:自由选举和代议制民主
 the show would be more representative of how women really are:该节目将更能代表女性的真实面貌
-the bust involves a high degree of representative abstraction:thebust涉及高度代表性抽象
+the bust involves a high degree of representative abstraction:半身像涉及高度的代表性抽象
 the Duke of Gloucester would attend the coronation as the representative of his father, King George V:格洛斯特公爵将作为他父亲乔治五世国王的代表出席加冕典礼
 the District of Columbia's representative in Congress:哥伦比亚特区国会代表
 a PLO representative attending a meeting in Damascus:a巴解组织代表出席在大马士革举行的会议
 a sales representative for Norwich Union:诺里奇联盟的销售代表
-make your own way to the Valley Inn, where you will be contacted by our tour representative:自行前往ValleyInn，我们的旅游代表将与您联系
-fossil representatives of lampreys and hagfishes:fossil七鳃鳗和盲鳗的代表
+make your own way to the Valley Inn, where you will be contacted by our tour representative:自行前往 Valley Inn，我们的旅游代表将与您联系
+fossil representatives of lampreys and hagfishes:七鳃鳗和盲鳗的化石代表
 
-feel or declare that (someone or something) is responsible for a fault or wrong:feel或声明（某人或某事）对错误或错误负责
+feel or declare that (someone or something) is responsible for a fault or wrong:感觉或宣称（某人或某事）对过失或错误负责
 assign the responsibility for a bad or unfortunate situation or phenomenon to (someone or something):将糟糕或不幸的情况或现象的责任分配给（某人或某事）
 blame |bleɪm| Noun/Verb/:责备,责任,怪,指责
 the inquiry blamed the train driver for the accident:查询将事故归咎于火车司机

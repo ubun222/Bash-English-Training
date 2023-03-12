@@ -38,18 +38,18 @@ rare |rɛː| Adjective/:稀有的,罕见,稀有,难得
 a rare genetic disorder:一种罕见的遗传病
 one of Britain's rarest birds, the honey buzzard:英国最稀有的鸟类之一，蜜鸫
 he plays with rare sensitivity:他以罕见的敏感度演奏
-rare roast beef:rare烤牛肉
+rare roast beef:罕见的烤牛肉
 
 
 a check or restraint on something:对某事的检查或约束
 a type of bit with a strap or chain attached which passes under a horse's lower jaw, used as a check.:一种带有皮带或链条的钻头，从马的下颌下方穿过，用作检查。
 a swelling on the back of a horse's hock, caused by spraining a ligament.:a马的飞节后部肿胀，由韧带扭伤引起。
-restrain or keep in check:restrain或keepincheck
+restrain or keep in check:克制或控制
 restrain (a horse) by means of a curb:用路缘限制（一匹马）
-lead (a dog being walked) near the curb to urinate or defecate, in order to avoid soiling buildings, pavements, etc.:lead（一只被遛的狗）靠近路边小便或排便，以避免弄脏建筑物、人行道等。
+lead (a dog being walked) near the curb to urinate or defecate, in order to avoid soiling buildings, pavements, etc.:牵着（被遛的狗）靠近路边小便或排便，以避免弄脏建筑物、人行道等。
 curb |kəːb| Noun/Verb/:抑制,路边,制止,遏制
-plans to introduce tougher curbs on insider dealing:plans对内幕交易实施更严格的限制
-she promised she would curb her temper:she答应过她会克制自己的脾气
+plans to introduce tougher curbs on insider dealing:计划对内幕交易实施更严格的限制
+she promised she would curb her temper:她答应过她会克制自己的脾气
 both men were instinctively curbing their horses:两个人都本能地勒住马匹
 
 favor |
@@ -62,17 +62,17 @@ the effectiveness of productive effort, especially in industry, as measured in t
 the rate of production of new biomass by an individual, population, or community, the fertility or capacity of a given habitat or area:个体、种群或社区产生新生物量的速率，给定栖息地或区域的肥力或容量
 productivity |ˌprɒdʌkˈtɪvɪti| Noun/:生产率,生产力,工作效率
 the long-term productivity of land:土地的长期生产力
-workers have boosted productivity by 30 per cent:workers将生产力提高了30%
+workers have boosted productivity by 30 per cent:工人的生产率提高了 30%
 nutrient-rich waters with high primary productivity:营养丰富、初级生产力高的水域
 
-a system of parts working together in a machine, a piece of machinery:asystemofparts在一台机器中一起工作，一台机器
+a system of parts working together in a machine, a piece of machinery:在一台机器中一起工作的零件系统，一台机器
 a natural or established process by which something takes place or is brought about:某事发生或发生的自然或既定过程
 a contrivance in the plot of a literary work:文学作品情节的设计
 the doctrine that all natural phenomena, including life and thought, can be explained with reference to mechanical or chemical processes.:所有自然现象，包括生命和思想，都可以用机械或化学过程来解释的学说。
 mechanism |ˈmɛkənɪz(ə)m| Noun/:机制,机理,机构,作用
 a third motor powers the tape eject mechanism:第三个电机为磁带弹出机构提供动力
 the immune system's mechanism for detecting pathogens:免疫系统检测病原体的机制
-his Irma La Douce is a musical based on the farce mechanism:hisIrmaLaDouce是一部基于闹剧机制的音乐剧
+his Irma La Douce is a musical based on the farce mechanism:他的 Irma La Douce 是一部基于闹剧机制的音乐剧
 
 
 a type of aircraft which derives both lift and propulsion from one or more sets of horizontally revolving overhead rotors. It is capable of moving vertically and horizontally, the direction of motion being controlled by the pitch of the rotor blades.:一种从一组或多组水平旋转的架空旋翼获得升力和推进力的飞机。5
@@ -90,14 +90,14 @@ one might question the validity of our data:one可能会质疑我们数据的有
 return travel must be within the validity of the ticket:回程必须在客票有效期内
 
 closely connected or appropriate to what is being done or considered:与正在做或正在考虑的事情密切相关或适当
-appropriate to the current time, period, or circumstances, of contemporary interest:appropriatetothecurrenttime,period,orcircumstances,contemporaryinterest
+appropriate to the current time, period, or circumstances, of contemporary interest:适合当代人感兴趣的当前时间、时期或情况
 relevant |ˈrɛlɪv(ə)nt| Adjective/:相关的,有关
 what small companies need is relevant advice:小公司需要的是相关建议
-critics may find themselves unable to stay relevant in a changing world:critics可能会发现自己无法在不断变化的世界中保持相关性
+critics may find themselves unable to stay relevant in a changing world:评论家可能会发现自己无法在不断变化的世界中保持相关性
 
 an extraordinary and welcome event that is not explicable by natural or scientific laws and is therefore attributed to a divine agency:自然或科学法则无法解释的非凡而受欢迎的事件，因此归因于神圣的力量
 a remarkable event or development that brings very welcome consequences:a显着的事件或发展带来非常受欢迎的后果
-an exceptional product or achievement, or an outstanding example of something:anexceptionalproductorachievement,oranoutstandingexampleofsomething某事物的杰出例子
+an exceptional product or achievement, or an outstanding example of something:杰出的产品或成就，或某事的杰出例子
 miracle |ˈmɪrɪkl| Noun/:奇迹,神奇
 the miracle of rising from the grave:从坟墓中复活的奇迹
 it was a miracle that more people hadn't been killed:没有更多的人被杀真是个奇迹
@@ -113,7 +113,7 @@ of doubtful honesty or legality:of可疑的诚实或合法性
 shady |ˈʃeɪdi| Adjective/:,阴暗的,黑幕
 shady woods:阴凉的树林
 they sprawled under a shady carob tree:他们趴在一棵阴凉的角豆树下
-he was involved in his grandmother's shady deals:he参与了他祖母的不正当交易
+he was involved in his grandmother's shady deals:他参与了他祖母的不正当交易
 
 the process of voting in an election:选举中的投票过程
 the number of votes cast in an election:选举中的投票数
@@ -124,14 +124,14 @@ a hornless animal, especially one of a breed of hornless cattle.:一种无角动
 record the opinion or vote of:记录意见或投票
 (of a candidate in an election) receive a specified number of votes:（选举中的候选人）获得指定数量的选票
 check the status of (a device), especially as part of a repeated cycle:检查（设备）的状态，尤其是作为重复循环的一部分
-cut the horns off (an animal, especially a young cow).:cutthehornsoff(ananimal,especiallyayoungcow).
-cut off the top of (a tree or plant), typically to encourage further growth, pollard:cutoffthetopof(atreeorplant)通常是为了促进进一步生长，pollard
+cut the horns off (an animal, especially a young cow).:剪掉牛角（动物，尤其是小母牛）。
+cut off the top of (a tree or plant), typically to encourage further growth, pollard:砍掉（一棵树或植物）的顶部，通常是为了促进进一步生长，pollard
 poll |pəʊl| Noun/Verb/:轮询,投票,民意测验
-the country went to the polls on March 10:thecountry于3月10日进行了投票
+the country went to the polls on March 10:
 the ruling party won 24 seats, narrowly topping the poll:执政党得24席，微弱领先
 the polls have only just closed:投票刚刚结束
 over half of those polled do not believe the prime minister usually tells the truth:超过一半的受访者不相信总理通常会说实话
-the Green candidate polled 3.6 per cent:theGreen候选人的投票率为3.6%
+the Green candidate polled 3.6 per cent:绿党候选人得票率为 3.6%
 the network manager can also use the software to poll each Mac on the net:网络管理员也可以使用该软件轮询网络上的每台Mac
 there were some beautiful willows, and now the idiot Parson has polled them into wretched stumps:曾经有一些美丽的柳树，现在白痴牧师把它们变成了可怜的树桩
 
@@ -139,18 +139,18 @@ an action taken to counteract a danger or threat:为抵消危险或威胁而采�
 countermeasure |ˈkaʊntəˌmɛʒə| Noun/:,反制措施
 for every clever defence that plants devise, some animal seems to be able to come up with a countermeasure:对于植物设计的每一个聪明的防御，一些动物似乎能够想出对策
 
-(of a person) experienced and sophisticated:(ofaperson)经验丰富且老练
-of or concerned with material values or ordinary life rather than a spiritual existence:oforconcernedwithmaterialvaluesorordinarylife而不是精神存在
+(of a person) experienced and sophisticated:（一个人）经验丰富且老练
+of or concerned with material values or ordinary life rather than a spiritual existence:属于或关注物质价值或日常生活而不是精神存在
 worldly |ˈwəːldli| Adjective/:世俗,世俗的,属世的
-she was much more worldly than Nora and dismissed the slur:she比Nora更世俗，并且驳斥了诽谤
+she was much more worldly than Nora and dismissed the slur:她比诺拉更世故，并驳斥了诽谤
 his ambitions for worldly success:他对世俗成功的野心
 
 a person who makes laws, a member of a legislative body:制定法律的人，立法机构的成员
 legislator |ˈlɛdʒɪsleɪtə| Noun/:立法者,立法会议员
-statutes went unread by the legislators who passed them:statutes没有被通过它们的立法者阅读
+statutes went unread by the legislators who passed them:法规未被通过的立法者阅读
 
 an organized course of action to achieve a goal:为实现目标而采取的有组织的行动
-a set of organized actions that a political candidate undertakes in an attempt to win an election:a set of organized actions that a political candidate undertakes in an attempt to win an election
+a set of organized actions that a political candidate undertakes in an attempt to win an election:A set of organized actions that a political candidate undertakes in an attempt to win an election
 a series of military operations intended to achieve a particular objective, confined to a particular area, or involving a specified type of fighting:旨在实现特定目标的一系列军事行动，仅限于特定地区，或涉及特定类型的战斗
 work in an organized and active way towards a particular goal, typically a political or social one:以有组织和积极的方式朝着特定目标工作，通常是政治或社会目标
 campaign |kamˈpeɪn| Noun/Verb/:,领导运动,运动,竞选活动
@@ -163,18 +163,18 @@ the ratio between the amounts staked by the parties to a bet, based on the expec
 the chances or likelihood of something happening or being the case:某事发生或发生的可能性或可能性
 the balance of advantage, superiority in strength, power, or resources:优势的平衡，力量、权力或资源的优势
 odds |ɒdz| Noun/:赔率,胜算
-Nicer is starting at odds of 8-1:Nicer以
-she clung to the lead against all the odds:she不顾一切地保持领先
+Nicer is starting at odds of 8-1:Nicer 以 8-1 的赔率开始
+she clung to the lead against all the odds:她不顾一切地保持领先
 
 a person who tends and rears sheep.:一个照料和饲养羊的人。
 a member of the clergy who provides spiritual care and guidance for a congregation.:为会众提供精神关怀和指导的神职人员。
-tend (sheep) as a shepherd:tend（羊）作为牧羊人
+tend (sheep) as a shepherd:像牧羊人一样照料（羊）
 give guidance to (someone), especially on spiritual matters:给（某人）指导，尤其是在精神问题上
 carefully manage (resources or an organization):仔细管理（资源或组织）
-guide or direct in a particular direction:guide或指向特定方向
+guide or direct in a particular direction:引导或指示特定方向
 shepherd |ˈʃɛpəd| Noun/Verb/:牧羊人,牧童
-although the sheep are shepherded, they're generally only counted when we bring them in:althoughthesheepsareshepreded,theygenerallyonlycountedwhenwebringthemin
-she had to submit the control of her career and money to a group who shepherded her:she不得不将她的事业和金钱的控制权交给一个牧养她的团体
+although the sheep are shepherded, they're generally only counted when we bring them in:
+she had to submit the control of her career and money to a group who shepherded her:她不得不将她的事业和金钱的控制权交给一个牧养她的团体
 it was she who shepherded the library through the current transition:是她带领图书馆度过了当前的过渡期
 I shepherded them through the door:我领着他们进了门
 
@@ -184,15 +184,15 @@ a timetable:时间表
 an appendix to a formal document or statute, especially as a list, table, or inventory:正式文件或法规的附录，尤指清单、表格或清单
 (with reference to the British system of income tax) any of the forms (named ‘A’, ‘B’, etc.) issued for completion and relating to the various classes into which taxable income is divided.:（参照英国所得税制度）为完成而签发的与应税收入划分的各种类别相关的任何表格（命名为“A”、“B”等）。
 arrange or plan (an event) to take place at a particular time:安排或计划（事件）在特定时间发生
-make arrangements for (someone or something) to do something:makearrangementfor(someoneorsomething)做某事
-include (a building or site) in a list for legal preservation or protection:include(abuildingorsite)includeinalistforlegalpreservationorprotection
+make arrangements for (someone or something) to do something:安排（某人或某事）做某事
+include (a building or site) in a list for legal preservation or protection:将（建筑物或地点）列入合法保存或保护清单
 schedule |ˈʃɛdjuːl| Noun/Verb/:日程,安排,时间表,日程安排
 we have drawn up an engineering schedule:我们制定了工程进度表
 take a moment out of your busy schedule:从繁忙的日程中抽出一点时间
 information on airline schedules:航班时刻表信息
 they need a clear schedule of fixtures and fittings:他们需要一个清晰的固定装置和配件时间表
 the release of the single is scheduled for April:单曲发行定于四月
-Cowley Bridge has already been scheduled and protected as an ancient monument:CowleyBridge已被列为古迹保护
+Cowley Bridge has already been scheduled and protected as an ancient monument:考利桥已被列为古迹并受到保护
 
 the means or opportunity to approach or enter a place:接近或进入一个地方的手段或机会
 the right or opportunity to use or benefit from something:使用或受益的权利或机会
@@ -200,16 +200,16 @@ the right or opportunity to approach or see someone:接近或见某人的权利�
 the process of obtaining or retrieving information stored in a computer's memory:获取或检索存储在计算机内存中的信息的过程
 denoting broadcasting produced by minority and specialist interest groups, rather than by professionals:表示由少数群体和专业利益集团制作的广播，而不是由专业人士制作的
 an attack or outburst of an emotion:一种情绪的攻击或爆发
-approach or enter (a place):approachorenter(一个地方)
+approach or enter (a place):接近或进入（一个地方）
 obtain or retrieve (computer data or a file):获取或检索（计算机数据或文件）
 access |ˈaksɛs| Noun/Verb/:使用权,访问,访问权限
-the staircase gives access to the top floor:thestaircase可通往顶层
+the staircase gives access to the top floor:楼梯通往顶层
 do you have access to a computer?:你可以使用电脑吗？
 we were denied access to our grandson:我们被拒绝访问我们的孙子
-this prevents unauthorized access or inadvertent deletion of the file:this防止未经授权的访问或无意删除文件
-access television:access电视
+this prevents unauthorized access or inadvertent deletion of the file:这可以防止未经授权的访问或无意中删除文件
+access television:访问电视
 I was suddenly overcome with an access of rage:我突然被怒火所征服
-single rooms have private facilities accessed via the balcony:single房间有私人设施通过阳台访问
+single rooms have private facilities accessed via the balcony:
 information can be accessed from several files and displayed at the same time:信息可以从多个文件中访问并同时显示
 
 
@@ -218,14 +218,14 @@ a person who habitually goes to bed late and feels energetic in the evening.:一
 owl |aʊl| Noun/:猫头鹰,枭
 
 explain the meaning of (information or actions):解释（信息或行为）的含义
-understand (an action, mood, or way of behaving) as having a particular meaning:understand（动作、情绪或行为方式）具有特定含义
+understand (an action, mood, or way of behaving) as having a particular meaning:理解（动作、情绪或行为方式）具有特定意义
 perform (a dramatic role or piece of music) in a way that conveys one's understanding of the creator's ideas:表演（一个戏剧角色或一段音乐）以传达一个人对创作者想法的理解的方式
 translate orally or into sign language the words of a person speaking a different language:口头或手语翻译说不同语言的人的话
 interpret |ɪnˈtəːprɪt| Verb/:解释,翻译
 the evidence is difficult to interpret:证据难以解释
 he would no longer interpret her silence as indifference:他不会再把她的沉默理解为冷漠
 interpreting the music well takes hours of listening and experimentation:很好地诠释音乐需要数小时的聆听和实验
-I agreed to interpret for Jean-Claude:我同意为Jean-Claude做翻译
+I agreed to interpret for Jean-Claude:我同意为让-克洛德做翻译
 
 the action or process of intervening:介入的动作或过程
 interference by a state in another's affairs:一国干涉他国事务
@@ -241,30 +241,30 @@ express discontent or sorrow over (something):表达对（某事）的不满或�
 bemoan |bɪˈməʊn| Verb/:哀叹,哀悼,悲哀
 it was no use bemoaning her lot:哀叹她的命运是没有用的
 
-cause (something) to occur in a particular way or to have a particular nature:cause(something)以特定方式发生或具有特定性质
-ascertain or establish exactly by research or calculation:ascertainorestablishedexactly通过研究或计算
+cause (something) to occur in a particular way or to have a particular nature:导致（某事）以特定方式发生或具有特定性质
+ascertain or establish exactly by research or calculation:通过研究或计算准确地确定或建立
 specify the value, position, or form of (a mathematical or geometrical object) uniquely.:唯一指定（数学或几何对象）的值、位置或形式。
 firmly decide:坚定的决定
-bring or come to an end.:bring或cometoend。
+bring or come to an end.:带来或结束。
 determine |dɪˈtəːmɪn| Verb/:决定,确定,判断
 it will be her mental attitude that determines her future:心态决定她的未来
-the inquest is entrusted with the task of determining the cause of death:theinquest的任务是确定死因
-he determined on a withdrawal of his forces:he决定撤军
+the inquest is entrusted with the task of determining the cause of death:调查的任务是确定死因
+he determined on a withdrawal of his forces:他决定撤军
 
-become subject to (something unwelcome or unpleasant) as a result of one's own behaviour or actions:becomesubjectto(somethingunwelcomeorununsettled)作为一个人自己的行为或行为的结果
+become subject to (something unwelcome or unpleasant) as a result of one's own behaviour or actions:由于自己的行为或行动而受到（不受欢迎或不愉快的事情）的影响
 incur |ɪnˈkəː| Verb/:招致,发生
 I will pay any expenses incurred:我将支付所产生的任何费用
 
 taking words in their usual or most basic sense without metaphor or exaggeration:在没有隐喻或夸张的情况下，按照通常或最基本的意义来理解单词
 free from exaggeration or distortion:没有夸张或歪曲
-absolute (used to emphasize that a strong expression is deliberately chosen to convey one's feelings):absolute（用于强调刻意选择强烈表达来表达自己的感受）
-(of a translation) representing the exact words of the original text:(ofatranslation)代表原文的确切词
+absolute (used to emphasize that a strong expression is deliberately chosen to convey one's feelings):绝对的（用于强调故意选择强烈的表达来表达一个人的感受）
+(of a translation) representing the exact words of the original text:（翻译的）代表原文的准确词
 (of a visual representation) exactly copied, realistic as opposed to abstract or impressionistic.:（视觉表现）精确复制，逼真而不是抽象或印象派。
 (of a person or performance) lacking imagination, prosaic:（人或表演）缺乏想象力，平淡无奇
-of, in, or expressed by a letter or the letters of the alphabet:of,in,orexpressedbyaletterorthelettersofthealphabetofthelettersofthe字母表的字母
+of, in, or expressed by a letter or the letters of the alphabet:属于、在或由一个字母或字母表中的字母表示
 a misprint of a letter.:一封信的印刷错误。
 literal |ˈlɪt(ə)rəl| Adjective/Noun/:文字,字面,文字的,字面意思
-dreadful in its literal sense, full of dread:dreadful字面意思，充满恐惧
+dreadful in its literal sense, full of dread:字面意义上的可怕，充满恐惧
 you shouldn't take this as a literal record of events:你不应该把它当作事件的文字记录
 fifteen years of literal hell:十五年的地狱
 a literal translation from the Spanish:a西班牙文直译
@@ -278,12 +278,12 @@ a suggested scheme or plan of action, especially in a business context:建议的
 a constitutional proposal, a bill:宪法提案，法案
 an offer of sex made to a person with whom one is not involved, especially one that is made in an unsubtle way:向一个与你无关的人提供性服务，尤其是以一种毫不掩饰的方式提出的
 a project, task, idea, etc. considered in terms of its likely success or difficulty:一个项目、任务、想法等，根据可能的成功或困难来考虑
-make a suggestion of sex to (someone), especially in an unsubtle way:makeasuggestionofsexto(someone),尤其是以一种不微妙的方式
+make a suggestion of sex to (someone), especially in an unsubtle way:向（某人）提出性暗示，尤指以不隐讳的方式
 make an offer or suggestion to:提出要约或建议
 proposition |ˌprɒpəˈzɪʃn| Noun/Verb/:主张,命题,提议
 the proposition that high taxation is undesirable:高税收是不可取的命题
 a detailed investment proposition:详细的投资建议
-Californian voters rejected by a two-to-one majority proposition 128:Californian选民以二比一的多数票拒绝了128
+Californian voters rejected by a two-to-one majority proposition 128:加州选民以二比一的多数票否决了 128
 needless to say, she refused his frank sexual proposition:不用说，她拒绝了他坦诚的性提议
 setting up your own business can seem an attractive proposition:建立自己的企业似乎是一个有吸引力的提议
 she had been propositioned at the party by a subeditor with bad breath:她在派对上被口臭的副主编求婚了

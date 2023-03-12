@@ -52,7 +52,7 @@ critical |ˈkrɪtɪkl| Adjective/:危急,批判的,临界,关键的
 I was very critical of the previous regime:我对前政权很挑剔
 she never won the critical acclaim she sought:她从未赢得过她所寻求的好评
 a critical edition of a Bach sonata:巴赫奏鸣曲的批判版
-professors often find it difficult to encourage critical thinking amongst their students:professors经常发现很难在学生中鼓励批判性思维
+professors often find it difficult to encourage critical thinking amongst their students:教授们经常发现很难在学生中鼓励批判性思维
 the floodwaters had not receded and the situation was still critical:洪水未退，形势依然严峻
 she was critical but stable in Middlesbrough General Hospital:她在米德尔斯堡综合医院很重要但稳定
 temperature is a critical factor in successful fruit storage:温度是成功储存水果的关键因素
@@ -62,7 +62,7 @@ the reactor is due to go critical in October:反应堆将于10月进入临界状
 an instance of buying or selling something:购买或出售某物的实例
 the action of conducting business:开展业务的行为
 an exchange or interaction between people:人与人之间的交流或互动
-published reports of proceedings at the meetings of a learned society.:published学术团体会议的议事报告。
+published reports of proceedings at the meetings of a learned society.:在学术团体的会议上发表议事报告。
 an input message to a computer system dealt with as a single unit of work:一个计算机系统的输入消息，作为单个工作单元处理
 transaction |trɑːnˈzakʃ(ə)n| Noun/:交易
 in an ordinary commercial transaction a delivery date is essential:在普通的商业交易中，交货日期是必不可少的
@@ -80,7 +80,7 @@ a file sent via electronic mail:通过电子邮件发送的文件
 demand something forcefully, not accepting refusal:需求强烈的东西，不接受拒绝
 demand forcefully to have (something):需求强行拥有（某物）
 persist in (doing something):坚持（做某事）
-state positively and assertively:state积极而果断
+state positively and assertively:积极自信地陈述
 insist |ɪnˈsɪst| Verb/:坚持
 she insisted on carrying her own bag:她坚持自己拎包
 he insisted on answers to his allegations:他坚持要对他的指控作出答复
@@ -106,10 +106,10 @@ the subdivision of existing subjects:现有科目的细分
 the Birkenhead police subdivision:伯肯黑德警察局
 
 produce or provide (a natural, agricultural, or industrial product):生产或提供（天然、农业或工业产品）
-produce or generate (a result, gain, or financial return):produce或generate（结果、收益或财务回报）
+produce or generate (a result, gain, or financial return):产生或产生（结果、收益或财务回报）
 give way to arguments, demands, or pressure:让位于争论、要求或压力
 relinquish possession of:放弃拥有
-concede (a point of dispute):concede（争议点）
+concede (a point of dispute):让步（争论点）
 give right of way to other traffic.:让路权给其他交通。
 (of a mass or structure) give way under force or pressure:（质量或结构的）在力或压力下屈服
 an amount produced of an agricultural or industrial product:农业或工业产品的产量
@@ -140,7 +140,7 @@ a small detachment of troops or police officers given a special duty:一小队�
 a special duty assigned to a detachment of troops or police officers:分配给部队或警察分队的特殊职责
 give full information about:给出有关的完整信息
 assign (someone) to undertake a particular task:指派（某人）承担特定任务
-clean (a motor vehicle) thoroughly.:clean（机动车辆）彻底。
+clean (a motor vehicle) thoroughly.:彻底清洁（机动车辆）。
 detail |ˈdiːteɪl| Noun/Verb/:细节,详细说明,详情
 we shall consider every detail of the Bill:我们将考虑法案的每一个细节
 he didn't want them to get sidetracked on a detail of policy:他不希望他们在政策细节上偏离轨道
@@ -161,25 +161,25 @@ capable of causing someone to believe that something is true or real:能够使�
 (of a victory or a winner) leaving no margin of doubt; clear:（胜利或胜利者）毫无疑问；清除
 convincing |kənˈvɪnsɪŋ| Adjective/:令人信服的,有说服力的
 there is no convincing evidence that advertising influences total alcohol consumption:没有令人信服的证据表明广告会影响总饮酒量
-Wales cruised to a convincing win over Ireland:Wales以令人信服的方式战胜爱尔兰
+Wales cruised to a convincing win over Ireland:威尔士以令人信服的优势击败爱尔兰
 
-give (money or goods) for a good cause, for example to a charity:give（金钱或物品）为善的事业，例如慈善机构
+give (money or goods) for a good cause, for example to a charity:为了一个好的事业给予（金钱或物品），例如慈善机构
 allow the removal of (blood or an organ) from one's body for transplantation, transfusion, or research:允许从人体中取出（血液或器官）用于移植、输血或研究
 provide or contribute (electrons or protons).:提供或贡献（电子或质子）。
 donate |də(ʊ)ˈneɪt| Verb/:,捐赠,捐献
 a portion of the proceeds will be donated to charity:部分收益将捐赠给慈善机构
 
-estimate, measure, or note the similarity or dissimilarity between:estimate、measure、或注意两者之间的相似或不同
+estimate, measure, or note the similarity or dissimilarity between:估计、测量或记录两者之间的相似性或不同性
 point out or describe the resemblances with; liken to:指出或描述相似之处；比作
 draw an analogy between one thing and (another) for the purposes of explanation or clarification:为了解释或澄清的目的，在一件事和（另一）之间进行类比
 have a specified relationship with another thing or person in terms of nature or quality:在性质或质量方面与另一个事物或人有特定关系
 be of an equal or similar nature or quality:具有相同或相似的性质或质量
 form the comparative and superlative degrees of (an adjective or an adverb):形成（形容词或副词）的比较级和最高级
 compare |kəmˈpɛː| Verb/:比较,相比
-individual schools compared their facilities with those of others in the area:individual学校将他们的设施与该地区其他学校的设施进行了比较
+individual schools compared their facilities with those of others in the area:个别学校将他们的设施与该地区其他学校的设施进行了比较
 her novel was compared to the work of Daniel Defoe:她的小说被比作丹尼尔笛福的作品
 he compared the religions to different paths towards the peak of the same mountain:他将宗教比作通往同一山峰的不同路径
-salaries compare favourably with those of other professions:salaries与其他职业相比毫不逊色
+salaries compare favourably with those of other professions:薪水与其他职业相比毫不逊色
 the dried stuff just can't compare with the taste and aroma of fresh basil:干的东西根本无法与新鲜罗勒的味道和香气相提并论
 words of one syllable are usually compared by ‘-er’ and ‘-est’:一个音节的单词通常用“-er”和“-est”进行比较
 
@@ -189,15 +189,15 @@ an entry in an account.:帐户中的条目。
 used to introduce each item in a list:用于介绍列表中的每一项
 item |ˈʌɪtɪm| Adverb/Noun/:物品,项目,项
 the items on the agenda:议程上的项目
-item two statute books … item two drums:item两部法规书……item两个鼓
+item two statute books … item two drums:第二项法典……第二项鼓
 
 existing in a material or physical form; not abstract:以物质或物理形式存在；6
 specific; definite:具体;固化
 (of a noun) denoting a material object as opposed to an abstract quality, state, or action.:（名词）表示一个物质对象，而不是抽象的性质、状态或动作。
 a building material made from a mixture of broken stone or gravel, sand, cement, and water, which can be spread or poured into moulds and forms a mass resembling stone on hardening:一种建筑材料，由碎石或砾石、沙子、水泥和水的混合物制成，可以铺展或倒入模具中，并在硬化时形成类似石头的物质
-cover (an area) with concrete:cover（一个区域）用混凝土
+cover (an area) with concrete:用混凝土覆盖（一个区域）
 fix in position with concrete:用混凝土固定
-form (something) into a mass; solidify:form（某物）成一团；13
+form (something) into a mass; solidify:把（某物）做成一团；固化
 make real or concrete instead of abstract:使真实或具体而不是抽象
 concrete |ˈkɒŋkriːt| Adjective/Noun/Verb/:具体的,混凝土,铺设混凝土,具体
 concrete objects like stones:混凝土物体，如石头
@@ -227,11 +227,11 @@ the Latin preposition ‘cum’ governs nouns in the ablative:拉丁介词“cum
 
 arrange (a group of people or things) in classes or categories according to shared qualities or characteristics:根据共同的品质或特征将（一组人或事物）分类或分类
 assign to a particular class or category:分配给特定的类或类别
-designate (documents or information) as officially secret:designate（文件或信息）作为官方机密
+designate (documents or information) as officially secret:指定（文件或信息）为官方机密
 classify |ˈklasɪfʌɪ| Verb/:分类
-mountain peaks are classified according to their shape:mountain山峰按形状分类
+mountain peaks are classified according to their shape:山峰按形状分类
 elements are usually classified as metals or non-metals:元素通常分为金属或非金属
-government officials classified 6.3 million documents in 1992:government官员在1992年对630万份文件进行了分类
+government officials classified 6.3 million documents in 1992:政府官员在 1992 年对 630 万份文件进行了分类
 
 put a limit on; keep under control:设置限制；7
 deprive (someone or something) of freedom of movement or action:剥夺（某人或某物）行动或行动的自由
@@ -249,7 +249,7 @@ set up on a firm or permanent basis:建立在牢固或永久的基础上
 initiate or bring about (contact or communication):发起或带来（联系或沟通）
 achieve permanent acceptance or recognition for:实现永久接受或认可
 introduce (a character, set, or location) into a film or play and allow its identification:在电影或戏剧中引入（一个角色、场景或地点）并允许其识别
-show (something) to be true or certain by determining the facts:show（某事）通过确定事实来证明是真实的或确定的
+show (something) to be true or certain by determining the facts:通过确定事实表明（某事）是真实的或确定的
 ensure that one's remaining cards in (a suit) will be winners (if not trumped) by playing off the high cards in that suit:通过打出该花色中的高牌，确保（花色）中剩余的牌将成为赢家（如果没有被击败）
 establish |ɪˈstablɪʃ| Verb/:建立,设立
 the scheme was established in 1975:该计划成立于1975年
@@ -273,7 +273,7 @@ the rank or office of a major.:专业的军衔或职务。
 majority |məˈdʒɒrɪti| Noun/:多数
 in the majority of cases all will go smoothly:在大多数情况下，一切都会顺利进行
 Labour retained the seat with a majority of 9,830:工党以9,830票的多数保住了席位
-kids get control of the money when they reach the age of majority:kids到了成年就可以控制钱了
+kids get control of the money when they reach the age of majority:孩子们到了成年年龄就可以控制钱
 
 the state of physical touching:物理接触的状态
 caused by or operating through physical touch:由身体接触引起或通过身体接触操作
@@ -292,7 +292,7 @@ the sliding contact of the potentiometer:电位器的滑动触点
 she didn't have her contacts in:她没有她的联系人
 she had little contact with family members:她很少与家人联系
 they have forged contacts with key people in business:他们与商界的关键人物建立了联系
-Francesca had good contacts:Francesca人脉很好
+Francesca had good contacts:弗朗西斯卡有很好的人脉
 all efforts are made to persuade possible contacts of patients with either disease to attend for investigation:尽一切努力说服可能有任何一种疾病患者的接触者参加调查
 anyone with any information should contact Darlington police:任何有任何信息的人都应该联系达灵顿警方
 I winced as my blister contacted the floor:当我的水泡接触到地板时，我畏缩了一下
@@ -357,6 +357,6 @@ he's got previous—theft and wounding:他以前有过——盗窃和伤害
 
 change in character or composition, typically in a comparatively small but significant way:性格或构图的变化，通常以相对较小但重要的方式发生
 make structural changes to (a building):对（建筑物）进行结构更改
-castrate or spay (a domestic animal).:castrate或spay（家畜）。
+castrate or spay (a domestic animal).:阉割或阉割（家畜）。
 alter |ˈɔːltə| Verb/:改变,更改,修改
 plans to alter the dining hall:计划改变食堂

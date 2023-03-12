@@ -72,7 +72,7 @@ continuing to exist or occur over a prolonged period:持续存在或长时间发
 persistent |pəˈsɪst(ə)nt| Adjective/:执着的,坚持不懈
 he has been a persistent critic of the project:他一直对该项目持批评态度
 persistent rain will affect many areas:持续降雨将影响许多地区
-PCBs are persistent environmental contaminants:PCBs是持久的环境污染物
+PCBs are persistent environmental contaminants:多氯联苯是持久性环境污染物
 
 done, given, or acting of one's own free will:完成、给予或按照自己的自由意志行事
 under the conscious control of the brain:在大脑的有意识控制下
@@ -109,8 +109,8 @@ a competitor of above a certain age or of the highest status in a particular spo
 senior |ˈsiːnɪə| Adjective/Noun/:高级的,上级,高级
 senior citizens:老年人
 the senior girls play badminton while the others play hockey:大四女生打羽毛球，其他女生打曲棍球
-McCluskey made an instant impact on his senior debut:McCluskey对他的高级处子秀产生了立竿见影的影响
-Henry James senior:HenryJames高级
+McCluskey made an instant impact on his senior debut:McCluskey 对他的高级处子秀产生了立竿见影的影响
+Henry James senior:亨利詹姆斯高级
 he is a senior Finance Ministry official:他是财政部高级官员
 she was only two years his senior:她只比他大两岁
 the price is £7 for adults and £3.50 for seniors:成人价格为7英镑，老年人价格为3.50英镑
@@ -131,8 +131,8 @@ individual tiny flowers:个人小花
 the individual needs of the children:孩子们的个性化需求
 a casserole served in individual portions:a砂锅，分份食用
 she was surprised at how individual the others' bodies were:她对其他人的身体如此个性感到惊讶
-she creates her own, highly individual landscapes:she创造了她自己的、高度个性化的风景
-boat trips for parties and individuals:boat派对和个人旅行
+she creates her own, highly individual landscapes:她创造了她自己的、高度个性化的风景
+boat trips for parties and individuals:派对和个人乘船游览
 they live in a group or as individuals, depending on the species:他们生活在一个群体或个体中，这取决于物种
 the most selfish, egotistical individual I have ever met:我见过的最自私、自负的人
 
@@ -176,7 +176,7 @@ specialize |ˈspɛʃəlʌɪz| Verb/:专攻,专业化
 he could specialize in tropical medicine:他可以专攻热带医学
 the firm specialized in commercial brochures:专门从事商业宣传册的公司
 a group of writers have specialized in attacking the society they live in:一群作家专门攻击他们所生活的社会
-zooids specialized for different functions:zooids专门用于不同的功能
+zooids specialized for different functions:专门用于不同功能的 Zooids
 
 in a state of peaceful happiness:处于平静幸福的状态
 willing to accept a particular thing; satisfied:愿意接受某件事；11
@@ -247,17 +247,17 @@ a property suitable for occupation by older people:适合长者入住的物业
 an occupation bridge:一个职业桥
 
 the ideas, attitudes, or activities that are shared by most people and regarded as normal or conventional:大多数人共有并被视为正常或常规的想法、态度或活动
-jazz that is neither traditional nor modern, based on the 1930s swing style and consisting especially of solo improvisation on chord sequences:jazz既不传统也不现代，以1930年代的摇摆风格为基础，特别包括和弦序列的即兴独奏
+jazz that is neither traditional nor modern, based on the 1930s swing style and consisting especially of solo improvisation on chord sequences:既不传统也不现代的爵士乐，基于 1930 年代的摇摆风格，尤其是和弦序列的独奏即兴创作
 belonging to or characteristic of the mainstream:属于或主流的特征
 (of a school or class) for students without particular educational requirements arising from physical or intellectual disability or behavioural difficulties:（学校或班级）因身体或智力残疾或行为困难而没有特殊教育要求的学生
 start to treat or regard (something) as being mainstream:开始将（某事）视为主流
-place (a student with particular educational needs) into a mainstream class or school:place（有特殊教育需求的学生）进入主流班级或学校
+place (a student with particular educational needs) into a mainstream class or school:将（有特殊教育需求的学生）安置到主流班级或学校
 mainstream |ˈmeɪnstriːm| Adjective/Noun/Verb/:主流
 they withdrew from the mainstream of European politics:他们退出了欧洲政治的主流
 it was a form of jazz that had strayed away from the mainstream:it是一种偏离主流的爵士乐形式
 mainstream pop music:主流流行音乐
 the state government has supported greater integration of students with disabilities into mainstream schools:州政府支持残疾学生更多地融入主流学校
-vegetarianism has been mainstreamed:vegetarianism已成为主流
+vegetarianism has been mainstreamed:素食主义已成为主流
 the goal is to have the child mainstreamed into a regular classroom:目标是让孩子融入普通课堂
 
 academic study or achievement; learning at a high level:学术学习或成就；高水平学习
@@ -273,7 +273,7 @@ the declarer's undertaking to win the number of tricks bid with a stated suit as
 a formal agreement to marry:正式的结婚协议
 decrease in size, number, or range:减少大小、数量或范围
 (of a muscle) become shorter and tighter in order to effect movement of part of the body:（肌肉）变得更短更紧，以影响身体的一部分运动
-shorten (a word or phrase) by combination or elision:shorten（一个词或短语）通过组合或省略
+shorten (a word or phrase) by combination or elision:通过组合或省略来缩短（单词或短语）
 enter into a formal and legally binding agreement:签订正式且具有法律约束力的协议
 choose to be involved in (a scheme):选择参与（一个计划）
 choose to withdraw from or not become involved in a scheme:选择退出或不参与计划
@@ -282,24 +282,24 @@ impose an obligation on (someone) to do something by means of a formal agreement
 arrange for work to be done by another organization:安排其他组织完成的工作
 formally enter into (a marriage):正式进入（结婚）
 enter into (a friendship or other relationship):进入（友谊或其他关系）
-catch or develop (a disease or infectious agent):catchordevelopment（疾病或传染源）
+catch or develop (a disease or infectious agent):感染或发展（疾病或传染源）
 become liable to pay (a debt):成为有责任支付（债务）
 contract |ˈkɒntrakt| Noun/Verb/:合同,收缩,合约
 he has just signed a contract keeping him with the club:他刚刚签了一份合同，让他留在俱乐部
 the law of contract:合同法
-smuggling bosses routinely put out contracts on witnesses:smuggling老板经常与证人签订合同
-South can make the contract with correct play:South可以用正确的方式签订合同
+smuggling bosses routinely put out contracts on witnesses:走私老板经常与证人签订合同
+South can make the contract with correct play:South 可以通过正确的玩法订立合同
 the contract between the Bride and the Bridegroom was renewed:新娘和新郎之间的合同续签了
-glass contracts as it cools:glass冷却后收缩
+glass contracts as it cools:玻璃在冷却时收缩
 the heart contracts about seventy times a minute:心脏每分钟收缩约七十次
 these sources were called quasistellar objects, which was soon contracted to quasar:这些来源被称为类星体天体，很快就与类星体签约
 the local authority will contract with a wide range of agencies to provide services:地方当局将与广泛的机构签订合同以提供服务
-politically committed members contract into paying the levy:politically承诺的成员签约支付征费
+politically committed members contract into paying the levy:具有政治承诺的成员签订合同支付征税
 plans to encourage people to contract out of the pension scheme:计划鼓励人们退出养老金计划
 a buyer may contract for the right to withhold payment:买方可以签订合同，获得拒绝付款的权利
-health authorities contract a hospital to treat a specific number of patients:health当局与一家医院签约以治疗特定数量的患者
+health authorities contract a hospital to treat a specific number of patients:卫生当局与医院签订合同以治疗特定数量的患者
 local authorities will have to contract out waste management:地方当局将不得不外包废物管理
-kings obtained dispensations to enable them to contract politically advantageous matches:kings获得了特许权，使他们能够签订具有政治优势的比赛
+kings obtained dispensations to enable them to contract politically advantageous matches:国王获得特许权，使他们能够承包政治上有利的比赛
 the patterns of social relationships contracted by men and women differ:男女缔结的社会关系模式不同
 three people contracted a killer virus:三个人感染了致命病毒
 he contracted a debt of £3,300:he欠债3,300英镑
@@ -312,26 +312,26 @@ talk or behaviour regarded as rude or lacking in respect:谈话或行为被视�
 speak impertinently to:无礼地说话
 cheek |tʃiːk| Noun/Verb/:脸颊,颊
 tears rolled down her cheeks:眼泪从她的脸颊滚落
-Gabriel had to bite his cheeks to keep from laughing:Gabriel不得不咬着脸不笑
+Gabriel had to bite his cheeks to keep from laughing:加布里埃尔不得不咬住脸颊才忍住笑出来
 he had the cheek to complain:他厚着脸皮抱怨
-Frankie always got away with cheeking his elders:Frankie总是对他的长辈厚颜无耻
+Frankie always got away with cheeking his elders:弗兰基总是对他的长辈不屑一顾
 
 the dependence of two or more people or things on each other:两个或两个以上的人或事物对彼此的依赖
 interdependence |ˌɪntədɪˈpɛnd(ə)ns| Noun/:相互依存,依存关系
 the new economic interdependence of the two nations:两国新的经济相互依存
 
 bring (goods or services) into a country from abroad for sale:将（商品或服务）从国外带到一个国家进行销售
-introduce (an idea) from a different place or context:introduce（一个想法）来自不同的地方或背景
-transfer (data) into a file or document.:transfer（数据）到文件或文档中。
+introduce (an idea) from a different place or context:从不同的地方或背景介绍（一个想法）
+transfer (data) into a file or document.:将（数据）传输到文件或文档中。
 indicate or signify:指示或表示
-express or make known:express或公开
+express or make known:表达或告知
 a commodity, article, or service brought in from abroad for sale:从国外带入销售的商品、物品或服务
 sales of imported goods or services, or the revenue from such sales:进口商品或服务的销售，或此类销售的收入
 the action or process of importing goods or services:进口商品或服务的行为或过程
 the implicit meaning or significance of something:某事的隐含意义或意义
 great significance; importance:意义重大；16
 import |ɪmˈpɔːt| Noun/Verb/:进口
-supermarkets may no longer import cheap jeans from Bulgaria:supermarkets可能不再从保加利亚进口廉价牛仔裤
+supermarkets may no longer import cheap jeans from Bulgaria:超市可能不再从保加利亚进口廉价牛仔裤
 new beliefs were often imported by sailors:new信念经常由水手输入
 having thus seen, what is imported in a Man's trusting his Heart:已经看到，什么是进口在一个人的信任他的心
 cheap imports from eastern Europe:来自东欧的廉价进口
@@ -340,7 +340,7 @@ the import of live cattle from Canada:从加拿大进口活牛
 the import of her message is clear:她的信息很明确
 pronouncements of world-shaking import:震撼世界的进口发音
 
-literature in the form of prose that describes imaginary events and people.:literature以散文形式描述虚构的事件和人物。
+literature in the form of prose that describes imaginary events and people.:以散文形式描述虚构事件和人物的文学作品。
 something that is invented or untrue:某事是虚构的或不真实的
 a belief or statement that is false but is often held to be true because it is expedient to do so:一种错误的信念或陈述，但通常被认为是正确的，因为这样做是权宜之计
 fiction |ˈfɪkʃn| Noun/:小说
@@ -351,13 +351,13 @@ the treatment and instruction received by a child from its parents throughout it
 upbringing |ˈʌpˌbrɪŋɪŋ| Noun/:教养
 she had had a Christian upbringing:她有过基督徒的成长经历
 
-maintain (something) in its original or existing state:maintain（某物）处于其原始或现有状态
-retain (a condition or state of affairs):retain（条件或状态）
+maintain (something) in its original or existing state:保持（某物）在其原始或现有状态
+retain (a condition or state of affairs):保留（条件或事态）
 maintain or keep alive (a memory or quality):保持或保持活力（记忆或品质）
 keep safe from harm or injury:保持安全免受伤害或伤害
-keep (game or an area where game is found) undisturbed to allow private hunting or shooting.:keep（游戏或发现游戏的区域）不受干扰，允许私人狩猎或射击。
-treat (food) to prevent its decomposition:treat（食物）以防止其分解
-prepare (fruit) for long-term storage by boiling it with sugar:prepare（水果）通过与糖一起煮来长期储存
+keep (game or an area where game is found) undisturbed to allow private hunting or shooting.:保持（游戏或发现游戏的区域）不受干扰，以允许私人狩猎或射击。
+treat (food) to prevent its decomposition:处理（食物）以防止其分解
+prepare (fruit) for long-term storage by boiling it with sugar:将（水果）与糖一起煮沸，以备长期储存
 a sweet food made with fruit preserved in sugar, such as jam or marmalade:一种用糖保存的水果制成的甜食，例如果酱或橘子酱
 a sphere of activity regarded as being reserved for a particular person or group:被视为为特定个人或团体保留的活动范围
 a place where game is protected and kept for private hunting or shooting.:一个为私人狩猎或射击而保护和保存游戏的地方。
@@ -386,7 +386,7 @@ masculine |ˈmaskjʊlɪn| Adjective/Noun/:男性,阳性,阳刚
 he is outstandingly handsome and robust, very masculine:他非常英俊健壮，非常有男子气概
 a masculine voice:男性的声音
 masculine pronouns:阳性代词
-the dance presents the world of the masculine, its raw energy:thedance展现了男性的世界，它的原始能量
+the dance presents the world of the masculine, its raw energy:舞蹈展现了男性的世界，它的原始能量
 
 a person who publicly supports or recommends a particular cause or policy:公开支持或推荐特定事业或政策的人
 a person who puts a case on someone else's behalf:代表他人提起诉讼的人
@@ -395,11 +395,11 @@ a barrister.:一名大律师。
 publicly recommend or support:公开推荐或支持
 advocate |ˈadvəkət| Noun/Verb/:提倡,倡导者,主张,主
 he was an untiring advocate of economic reform:他是经济改革的不懈倡导者
-care managers can become advocates for their clients:care经理可以成为客户的拥护者
-solicitors may act as advocates in Crown Courts:solicitors可以在皇家法院担任辩护律师
-voters supported candidates who advocated an Assembly:voters支持主张召开大会的候选人
+care managers can become advocates for their clients:护理经理可以成为他们客户的代言人
+solicitors may act as advocates in Crown Courts:律师可以在刑事法院担任辩护人
+voters supported candidates who advocated an Assembly:选民支持主张议会的候选人
 
-fine, dry powder consisting of tiny particles of earth or waste matter lying on the ground or on surfaces or carried in the air:sprinkle（粉末状物质）到某物上
+fine, dry powder consisting of tiny particles of earth or waste matter lying on the ground or on surfaces or carried in the air:细小的干粉，由地面上或表面上或空气中携带的泥土或废物的微小颗粒组成
 any material in the form of tiny particles:任何微小颗粒形式的材料
 a fine powder:细粉
 a cloud of dust.:一团尘埃。
@@ -409,7 +409,7 @@ an act of dusting:一种除尘行为
 remove the dust or dirt from the surface of (something) by wiping or brushing it:通过擦拭或刷洗去除（某物）表面的灰尘或污垢
 bring something out for use again after a long period of neglect:在长时间的疏忽后再次拿出来使用
 cover lightly with a powdered substance:用粉末状物质轻轻覆盖
-sprinkle (a powdered substance) on to something:sprinkle（粉末状物质）到某物上
+sprinkle (a powdered substance) on to something:将（粉末状物质）洒在某物上
 beat up or kill someone:殴打或杀死某人
 dust |dʌst| Noun/Verb/:灰尘,擦灰,尘,粉尘,尘埃
 the car sent up clouds of dust:汽车扬起尘土
@@ -417,9 +417,9 @@ coal dust:煤尘
 he ground it into a fine dust:他把它磨成细粉
 scatter my dust and ashes:撒开我的尘土和灰烬
 the soul, that dwells within your dust:灵魂，住在你的尘埃中
-a quick dust, to get rid of the cobwebs:aquick灰尘，摆脱蜘蛛网
+a quick dust, to get rid of the cobwebs:快速除尘，去除蜘蛛网
 I broke the vase I had been dusting:我打碎了我一直在除尘的花瓶
 a number of aircraft will be dusted off and returned to flight:一些飞机将被除尘并返回飞行
 roll out on a surface dusted with icing sugar:铺在撒有糖粉的表面上
-orange powder was dusted over the upper body:orange粉末撒在上半身
+orange powder was dusted over the upper body:橙色粉末撒在上半身
 the officers dusted him up a little bit:警官把他掸掉了一点

@@ -42,12 +42,12 @@ an instructor or trainer in sport:体育教练或教练
 a private tutor who gives extra teaching.:一位提供额外教学的私人导师。
 train or instruct (a team or player):训练或指导（团队或球员）
 give (someone) extra teaching:给（某人）额外的教学
-teach (a subject or sport) as a coach:teach（一门学科或一项运动）作为教练
+teach (a subject or sport) as a coach:作为教练教（一门学科或一项运动）
 give (someone) instructions as to what to do or say in a particular situation:给（某人）关于在特定情况下做什么或说什么的指示
 give (someone) professional advice on how to attain their goals.:给（某人）关于如何实现目标的专业建议。
 coach |kəʊtʃ| Adverb/Noun/Verb/:,指导
 fly or coach to the shores of the Mediterranean:fly或长途汽车前往地中海沿岸
-many employees are now flying coach instead of business class to Europe:many员工现在乘坐长途汽车而不是商务舱飞往欧洲
+many employees are now flying coach instead of business class to Europe:许多员工现在乘坐经济舱而不是商务舱前往欧洲
 a football coach:一名足球教练
 he moved on to coach the England team:他继续执教英格兰队
 she was coached for stardom by her mother:她在妈妈的指导下成为明星
@@ -72,7 +72,7 @@ increase the proportion of a particular isotope in (an element), especially that
 make (someone) wealthy or wealthier:使（某人）变得富有或更富有
 enrich |ɪnˈrɪtʃ| Verb/:丰富
 her exposure to museums enriched her life in France:她在博物馆的接触丰富了她在法国的生活
-porridge oats enriched with extra oat bran:porridge燕麦富含额外的燕麦麸
+porridge oats enriched with extra oat bran:富含额外燕麦麸的燕麦粥
 they announced they would resume building the centrifuges that can enrich uranium to weapons-grade strength:他们宣布他们将继续建造能够将铀浓缩到武器级强度的离心机
 top party members had enriched themselves:top党员发财致富
 
@@ -88,11 +88,11 @@ check the status of (a device), especially as part of a repeated cycle:检查（
 cut the horns off (an animal, especially a young cow).:剪掉牛角（动物，尤其是小母牛）。
 cut off the top of (a tree or plant), typically to encourage further growth; pollard:切断（树或植物）的顶部，通常是为了促进进一步的生长；6
 poll |pəʊl| Noun/Verb/:轮询,投票,民意调查
-the country went to the polls on March 10:thecountry于3月10日进行了投票
+the country went to the polls on March 10:该国于 3 月 10 日进行了投票
 the ruling party won 24 seats, narrowly topping the poll:执政党赢得24席，以微弱优势领先
 the polls have only just closed:投票刚刚结束
 over half of those polled do not believe the prime minister usually tells the truth:超过一半的受访者不相信总理通常会说真话
-the Green candidate polled 3.6 per cent:theGreen候选人投票率3.6%
+the Green candidate polled 3.6 per cent:绿党候选人得票率为 3.6%
 the network manager can also use the software to poll each Mac on the net:网络管理员也可以使用该软件轮询网络上的每台Mac
 there were some beautiful willows, and now the idiot Parson has polled them into wretched stumps:有一些美丽的柳树，现在白痴帕森已经把它们变成了可怜的树桩
 
@@ -161,17 +161,17 @@ an army officer of high rank:一名高级军官
 only two cabinet members had held ministerial rank before:只有两名内阁成员曾担任过部长级别
 persons of rank and breeding:人的等级和教养
 they were drawn up outside their barracks in long ranks:他们在营房外排成长队
-conifer plantations growing in serried ranks:conifer种植园成排生长
+conifer plantations growing in serried ranks:成排生长的针叶树种植园
 the ranks of Britain's unemployed:英国失业者的行列
 he was fined and reduced to the ranks:他被罚款降级
-students ranked the samples in order of preference:students按优先顺序排列样本
-he now ranks third in America:he现在在美国排名第三
+students ranked the samples in order of preference:学生按照偏好对样本进行排序
+he now ranks third in America:他现在在美国排名第三
 the Secretary of State ranks all the other members of the cabinet:国务卿对所有其他内阁成员进行排名
 the tents were ranked in orderly rows:帐篷整齐排列
 clumps of rank grass:草丛
 breathing rank air:呼吸等级空气
 the tea at work is nice but the coffee's pretty rank:工作中的茶很好，但咖啡的等级很高
-rank stupidity:rank愚蠢
+rank stupidity:排名愚蠢
 
 in central or primary respects:在中心或主要方面
 used to make an emphatic statement about the basic truth of something:用于对某事的基本事实做出强调的陈述
@@ -191,10 +191,10 @@ fixed or fastened so as not to give way, become loose, or be lost:固定或紧�
 certain to remain safe and unthreatened:确保保持安全和不受威胁
 protected against attack or other criminal activity:防止攻击或其他犯罪活动
 feeling confident and free from fear or anxiety:感到自信，没有恐惧或焦虑
-feeling no doubts about attaining:feeling毫不怀疑达到
+feeling no doubts about attaining:对实现毫无疑问
 fix or attach (something) firmly so that it cannot be moved or lost:固定或固定（某物），使其不会移动或丢失
 make (a door or container) hard to open; fasten or lock:使（门或容器）难以打开；紧固或锁定
-compress (a blood vessel) to prevent bleeding.:compress（血管）以防止出血。
+compress (a blood vessel) to prevent bleeding.:压迫（血管）以防止流血。
 succeed in obtaining (something), especially with difficulty:成功获得（某物），尤其是有困难
 seek to guarantee repayment of (a loan) by having a right to take possession of an asset in the event of non-payment:寻求通过在不付款的情况下有权占有资产来保证（贷款）的偿还
 protect against threats; make safe:防止威胁；确保安全
@@ -204,16 +204,16 @@ a secure unit for young offenders:一个为年轻罪犯提供的安全单位
 his position as party leader was less than secure:他作为党的领导人的地位不够稳固
 no airport is totally secure:没有机场是完全安全的
 everyone needs to have a home and to feel secure and wanted:每个人都需要有一个家并感到安全和需要
-she remained poised and complacent, secure of admiration:she保持镇定自满，获得钦佩
-pins secure the handle to the main body:pins将手柄固定在主体上
-doors are likely to be well secured at night:doors很可能在晚上得到很好的保护
+she remained poised and complacent, secure of admiration:她保持镇定自满，获得钦佩
+pins secure the handle to the main body:销将手柄固定到主体
+doors are likely to be well secured at night:门在晚上可能会被很好地固定
 the division secured a major contract:该部门获得了一份大合同
 a loan secured on your home:以您的房屋为抵押的贷款
 the government is concerned to secure the economy against too much foreign ownership:政府关注确保经济免受过多外国所有权的影响
 
 explain the meaning of (information or actions):解释（信息或行动）的含义
 understand (an action, mood, or way of behaving) as having a particular meaning:将（一种行为、情绪或行为方式）理解为具有特定含义
-perform (a dramatic role or piece of music) in a way that conveys one's understanding of the creator's ideas:perform（一个戏剧性的角色或一段音乐）以表达对创作者想法的理解的方式
+perform (a dramatic role or piece of music) in a way that conveys one's understanding of the creator's ideas:以传达个人对创作者想法的理解的方式表演（戏剧角色或音乐片段）
 translate orally or into sign language the words of a person speaking a different language:将说不同语言的人的话口头或手语翻译成手语
 interpret |ɪnˈtəːprɪt| Verb/:解释
 the evidence is difficult to interpret:证据难以解释
@@ -225,11 +225,11 @@ indicate the faults of (someone or something) in a disapproving way:以不赞成
 form and express a judgement of (a literary or artistic work):形成并表达对（文学或艺术作品）的判断
 criticize |ˈkrɪtɪsʌɪz| Verb/:批评,批判
 the opposition criticized the government's failure to consult adequately:反对派批评政府未能充分协商
-a literary text may be criticized on two grounds: the semantic and the expressive:一个文学文本可能会受到两个理由-
+a literary text may be criticized on two grounds:一个文学文本可能会受到两个理由的批评
 
 seize (someone) by legal authority and take them into custody:依法扣押（某人）并将其拘留
 seize and detain (a ship) by legal authority:依法扣押（一艘船）
-stop or check (progress or a process):stop或检查（进度或进程）
+stop or check (progress or a process):停止或检查（进度或过程）
 suffer a heart attack:心脏病发作
 attract the attention of (someone):吸引（某人）的注意
 the action of seizing someone and taking them into custody:抓住某人并拘留他们的行为
@@ -246,7 +246,7 @@ a respiratory arrest:a呼吸停止
 have enough money to pay for:有足够的钱来支付
 have (a resource such as money or time) available or to spare:拥有（金钱或时间等资源）可用或空闲
 be able to do something without risk of adverse consequences:能够做某事而不会有不利后果的风险
-provide or supply (an opportunity or facility):provide或供应（机会或设施）
+provide or supply (an opportunity or facility):提供或供应（机会或设施）
 afford |əˈfɔːd| Verb/:买得起,负担得起
 the best that I could afford was a first-floor room:我能负担得起的最好的是一楼的房间
 it was taking up more time than he could afford:这花费的时间超出了他的承受能力
@@ -257,13 +257,13 @@ the process of putting a decision or plan into effect; execution:将决定或计
 implementation |ˌɪmplɪmɛnˈteɪʃn| Noun/:执行,实施
 she was responsible for the implementation of the plan:她负责计划的实施
 
-cause (a process or action) to begin:cause（一个过程或动作）开始
+cause (a process or action) to begin:导致（过程或动作）开始
 admit (someone) into a secret or obscure society or group, typically with a ritual:承认（某人）进入一个秘密或不为人知的社会或团体，通常带有仪式
-introduce someone to (a particular activity or skill, especially a difficult or obscure one):introduce某人（一项特定的活动或技能，尤其是困难或晦涩的）
+introduce someone to (a particular activity or skill, especially a difficult or obscure one):向某人介绍（一项特定的活动或技能，尤其是困难或晦涩的）
 a person who has been initiated into an organization or activity:一个被发起加入组织或活动的人
 initiate |ɪˈnɪʃɪeɪt| Noun/Verb/:发起,开始
 he proposes to initiate discussions on planning procedures:他提议发起关于规划程序的讨论
-she had been formally initiated into the movement:she已正式加入运动
+she had been formally initiated into the movement:她已正式加入运动
 they were initiated into the mysteries of mathematics:他们开始探索数学的奥秘
 an initiate of the cult:邪教的发起者
 
@@ -282,7 +282,7 @@ precise or strict in meaning:精确或严格的含义
 (of a phonetic transcription) showing fine details of accent.:（音标）显示口音的细节。
 denoting or relating to a contest that is won or lost by only a very small margin:表示或与仅以很小的差距获胜或失败的比赛有关
 denoting a vowel pronounced with the root of the tongue drawn back so as to narrow the pharynx.:表示一个元音发音，舌根向后拉，以使咽部变窄。
-become or make less wide:become或缩小宽度
+become or make less wide:变宽或变窄
 almost close (one's eyes) so as to focus on something, or to indicate anger or other emotion:几乎闭上（眼睛）以便专注于某事，或表示愤怒或其他情绪
 become or make more limited in extent or scope:成为或使范围或范围更加有限
 a narrow channel connecting two larger areas of water:连接两个较大水域的狭窄通道
@@ -292,15 +292,15 @@ they ate a narrow range of foods:他们吃的食物范围很窄
 companies fail through their narrow view of what contributes to profit:companies对利润贡献的狭隘观点失败了
 a narrow definition of family can neglect the experiences of many people:家庭的狭隘定义可以忽略很多人的经历
 the home team just hung on for a narrow victory:主队险胜险胜
-there was a car ferry across the narrows of Loch Long:有一辆汽车渡轮穿过LochLong的狭窄地带
+there was a car ferry across the narrows of Loch Long:有一辆汽车渡轮穿过龙湖的狭窄地带
 
-charge (someone) too high a price for goods or a service:charge（某人）对商品或服务的价格过高
+charge (someone) too high a price for goods or a service:向（某人）收取过高的商品或服务价格
 charge someone (a sum) beyond the correct amount:向某人收取（一笔）超出正确金额的费用
 put too much electric charge into (a battery):将过多的电荷放入（电池）
 an excessive charge for goods or a service:对商品或服务的过度收费
 overcharge |ˌəʊvəˈtʃɑːdʒ| Noun/Verb/:,多收费用
 send your bill to the Law Society if you think you've been overcharged:如果您认为自己被多收了费用，请将您的账单发送给律师协会
-large generators can overcharge batteries:large发电机可以对电池过度充电
+large generators can overcharge batteries:大型发电机会使电池过度充电
 an overcharge of £40:多收40英镑
 
 an alternative route that is shorter than the one usually taken:一条比通常走的更短的替代路线
@@ -308,7 +308,7 @@ an accelerated way of doing or achieving something:一种加速做事或实现�
 a record of the address of a file, website, or other data made to enable quick access.:为实现快速访问而制作的文件、网站或其他数据的地址记录。
 shortcut |ˈʃɔːtkʌt| Noun/:捷径
 they were taking a shortcut to town:他们走捷径进城
-teaching no longer offered a shortcut to secure employment:teaching不再提供确保就业的捷径
+teaching no longer offered a shortcut to secure employment:教书不再是就业的捷径
 
 time when one is not working or occupied; free time:不工作或不被占用的时间；5
 use of free time for enjoyment:利用空闲时间享受
@@ -316,9 +316,9 @@ opportunity afforded by free time to do something:空闲时间做某事的机会
 leisure |ˈlɛʒə| Noun/:闲暇,休闲
 people with too much enforced leisure:强迫休闲太多的人
 increased opportunities for leisure:增加休闲机会
-writers with enough leisure to practise their art:writers有足够的空闲时间来练习他们的艺术
+writers with enough leisure to practise their art:有足够空闲时间练习艺术的作家
 
-present or existing from the beginning; first or earliest:present或从一开始就存在；首先或最早
+present or existing from the beginning; first or earliest:从一开始就存在或存在；最先或最早
 created personally by a particular artist, writer, musician, etc.; not a copy:由特定艺术家、作家、音乐家等亲自创作；不是副本
 not dependent on other people's ideas; inventive or novel:不依赖别人的想法；创造性的或新颖的
 the earliest form of something, from which copies may be made:事物的最早形式，可以从中复制
@@ -361,7 +361,7 @@ the markers on the route included two conspicuous black spheres:路线上的标�
 the room was littered with books, maps, and spheres:房间里堆满了书籍、地图和球体
 he sometimes took out his telescope to make sure the spheres were still revolving in good order:他有时会拿出他的望远镜来确保球体仍在正常旋转
 political reforms to match those in the economic sphere:政治改革以匹配经济领域的改革
-mourners, sphered by their dark garb:mourners，被他们的黑暗装束包围
+mourners, sphered by their dark garb:哀悼者，被他们的深色外衣包围
 you, hitherto, have still had goodness sphered within your eyes:你，迄今为止，你的眼中仍然充满善意一个球或地球仪
 
 the music of the spheres | 球体的音乐,领域的音乐
@@ -380,7 +380,7 @@ a profit margin:a利润率
 a sum deposited with a broker to cover the risk of loss on a transaction or account.:一笔存入经纪人的款项，以弥补交易或账户损失的风险。
 an increment to a basic wage, paid for extra skill or responsibility.:增加基本工资，支付额外的技能或责任。
 provide with an edge or border:提供边缘或边框
-annotate or summarize (a text) in the margins:annotate或在边缘总结（文本）
+annotate or summarize (a text) in the margins:在空白处注释或总结（文本）
 deposit an amount of money with a broker as security for (an account or transaction):向经纪人存入一笔钱作为（账户或交易）的担保
 margin |ˈmɑːdʒɪn| Noun/Verb/:利润,保证金
 the eastern margin of the Indian Ocean:印度洋东缘
@@ -413,7 +413,7 @@ a strong feeling of wanting to have something or wishing for something to happen
 strong sexual feeling or appetite:强烈的性感觉或食欲
 something desired.:想要的东西。
 strongly wish for or want (something):强烈希望或想要（某事）
-want (someone) sexually:want（某人）性行为
+want (someone) sexually:想要（某人）发生性关系
 express a wish to:表达一个愿望
 desire |dɪˈzʌɪə| Noun/Verb/:欲望,想要,愿望,渴望
 he resisted public desires for choice in education:他抵制了公众对教育选择的渴望

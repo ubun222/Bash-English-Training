@@ -33,12 +33,12 @@ column						柱子，纵队，列
 analytical						分析的
 \\\\
 
-cause (pain, distress, or difficulty) to become less severe or serious:cause(pain,distress,ordifficulty)变得不那么严重或严重
+cause (pain, distress, or difficulty) to become less severe or serious:导致（疼痛、痛苦或困难）变得不那么严重或严重
 cause (someone) to stop feeling distressed or anxious:使（某人）不再感到痛苦或焦虑
-release (someone) from duty by taking their place:release(someone)取代他们的职责
-bring military support for (a besieged place):bringmilitarysupportfor(一个被围困的地方)
-take (a burden) from someone:take(aburden)from某人
-free someone from (a tiresome responsibility):freesomeonefrom(atiresomeresponsibility)免于某人（令人厌烦的责任）
+release (someone) from duty by taking their place:代替（某人）代替他们的职责
+bring military support for (a besieged place):为（被围困的地方）带来军事支援
+take (a burden) from someone:从某人那里拿走（负担）
+free someone from (a tiresome responsibility):将某人从（令人厌烦的责任）中解放出来
 used ironically to indicate that someone has been deprived of something:讽刺地表示某人被剥夺了某物
 make less tedious or monotonous by the introduction of variety:通过引入多样性来减少乏味或单调
 used as a formal or euphemistic expression for urination or defecation:用作排尿或排便的正式或委婉表达
@@ -47,12 +47,12 @@ relieve |rɪˈliːv| Verb/:缓解,解除,减轻
 the drug was used to promote sleep and to relieve pain:药物用于促进睡眠和减轻疼痛
 he was relieved by her change of tone:他因她语气的改变而松了一口气
 another signalman relieved him at 5.30:另一个信号员在5点30分接替了他
-he dispatched an expedition to relieve the city:he派出远征队解围
-he relieved her of her baggage:he帮她卸下包袱
+he dispatched an expedition to relieve the city:他派出远征队解围
+he relieved her of her baggage:他帮她卸下包袱
 she relieved me of the household chores:她让我摆脱了家务劳动
-he was relieved of his world title:he被解除了他的世界冠军头衔
+he was relieved of his world title:他被解除了他的世界冠军头衔
 the bird's body is black, relieved only by white under the tail:鸟的身体是黑色的，只有尾巴下面是白色的才松了一口气
-train your dog to relieve itself where you want it to:train你的狗在你想要的地方大小便
+train your dog to relieve itself where you want it to:
 the twilight relieving in purple masses the foliage of the island:暮色减轻了岛上树叶的紫色团块
 
 despite the prevailing circumstances:尽管当时的情况
@@ -67,17 +67,17 @@ a temporary stop in action or speech:暂时停止行动或讲话
 a mark over a note or rest that is to be lengthened by an unspecified amount.:在一个音符或休止符上标记一个未指定的长度。
 a control allowing the temporary interruption of recording, playback, or other process.:a允许暂时中断录音、回放或其他过程的控件。
 pause |pɔːz| Noun/Verb/:,停顿
-she paused, at a loss for words:she停顿了一下，不知所措
-she had paused a tape on the VCR:she在录像机上暂停了一盘磁带
+she paused, at a loss for words:她停顿了一下，不知所措
+she had paused a tape on the VCR:她在录像机上暂停了一盘磁带
 she dropped me outside during a brief pause in the rain:她在雨中短暂停留时把我送到外面
 
 set (a boat) in motion by pushing it or allowing it to roll into the water:通过推动或允许它滚入水中来使（船）运动
 set (a newly built ship or boat) afloat for the first time with an official ceremony:set（一艘新造的船或船）首次漂浮并举行正式仪式
-send (a missile, satellite, or spacecraft) on its course:send（导弹、卫星或航天器）在其航线上
-hurl (something) forcefully:hurl（某物）有力地
+send (a missile, satellite, or spacecraft) on its course:
+hurl (something) forcefully:
 make a sudden energetic movement:做一个突然的充满活力的动作
-utter (criticism or a threat) vehemently:utter（批评或威胁）激烈地
-start or set in motion (an activity or enterprise):startorsetinmotion（一项活动或企业）
+utter (criticism or a threat) vehemently:
+start or set in motion (an activity or enterprise):开始或启动（一项活动或企业）
 introduce (a new product or publication) to the public for the first time:第一次向公众介绍（新产品或出版物）
 an act or instance of launching something:发射某物的行为或实例
 an occasion at which a new product or publication is introduced to the public:向公众介绍新产品或出版物的场合
@@ -89,12 +89,12 @@ the ship was launched in 1843 by Prince Albert:这艘船于1843年由阿尔伯�
 they launched two Scud missiles:他们发射了两枚飞毛腿导弹
 a chair was launched at him:一把椅子向他发射
 I launched myself out of bed:我从床上跳起来
-he launched a biting attack on BBC chiefs:he对BBC负责人发起猛烈攻击
+he launched a biting attack on BBC chiefs:他对 BBC 的负责人发起了猛烈的攻击
 the government is to launch a £1.25 million publicity campaign:政府将发起125万英镑的宣传活动
 two new Ford models are to be launched in the US next year:明年将在美国推出两款新福特车型
 the launch of a new campaign against drinking and driving:发起反对酒后驾车的新运动
 a book launch:新书发布会
-she cruised the waterways on a luxury motor launch:she乘坐豪华汽艇在水道上航行
+she cruised the waterways on a luxury motor launch:她乘坐豪华汽艇在水道上航行
 
 a flat, typically one that is well appointed or used for holidays:一套公寓，通常是设备齐全或用于度假的公寓
 a suite of rooms forming one residence, a flat:一套房间组成一个住宅，一个公寓
@@ -119,26 +119,26 @@ provide the stimulus for (an event or process):为（事件或过程）提供刺
 a lively young man.:一个活泼的年轻人。
 engage in courtship:从事求爱
 spark |spɑːk| Noun/Verb/:火花,星火,星
-a log fire was sending sparks on to the rug:alogfire在地毯上发出火花
+a log fire was sending sparks on to the rug:
 there was a spark of light:有一束光
 a tiny spark of anger flared within her:她内心闪过一丝愤怒的火花
 there was a spark between them at their first meeting:他们第一次见面就擦出了火花
-I know a Sparks so I'll get him to look over it:我认识一个Sparks，所以我会让他检查一下
+I know a Sparks so I'll get him to look over it:
 the ignition sparks as soon as the gas is turned on:煤气一打开点火火花
 the explosion sparked a fire:爆炸引发了火灾
 the trial sparked a furious row:审判引发了激烈的争吵
-he went a sparking among the rosy country girls:he在玫瑰色的乡村女孩中引起了轰动
+he went a sparking among the rosy country girls:他在玫瑰色的乡村女孩中引起了轰动
 
 completely remove or get rid of (something):完全移除或摆脱（某物）
 exclude (someone or something) from consideration or further participation:排除（某人或某物）的考虑或进一步参与
-murder (a rival or political opponent):murder（对手或政治对手）
+murder (a rival or political opponent):谋杀（对手或政治对手）
 expel (waste matter) from the body:从体内排出（废物）
-remove (a variable) from an equation, typically by substituting another which is shown by another equation to be equivalent.:remove(avariable)fromaequation,typicallybysubstitutiontoanotherwhichshowedbyanotherequationtoequivalent.从一个方程中删除（一个变量），通常是通过代入另一个等价的方程。
+remove (a variable) from an equation, typically by substituting another which is shown by another equation to be equivalent.:从等式中删除（一个变量），通常是用另一个等式表示的等式代替另一个等式。
 generate (a simple substance) as a product in the course of a reaction involving larger molecules:在涉及较大分子的反应过程中生成（一种简单物质）作为产物
 eliminate |ɪˈlɪmɪneɪt| Verb/:排除,消除,消灭
 a policy that would eliminate inflation:消除通货膨胀的政策
-the police have eliminated Lawrence from their inquiries:警方已将Lawrence排除在调查范围之外
-security agents have started a campaign to eliminate some of the government's opponents:security特工发起了一场运动，以消灭政府的一些反对者
+the police have eliminated Lawrence from their inquiries:警方已将劳伦斯排除在调查范围之外
+security agents have started a campaign to eliminate some of the government's opponents:安全人员开始了一场消灭政府的一些反对者的运动
 this diet claims to eliminate toxins from the body:这种饮食声称可以排除体内毒素
 the acid portion of one molecule reacts with the basic portion of the other, and water is eliminated:一个分子的酸性部分与另一个分子的碱性部分反应，水被消除
 
@@ -146,7 +146,7 @@ not on purpose:不是故意的
 unintentionally |ˌʌnɪnˈtɛnʃənəli| Adverb/:,不经意地
 I may have unintentionally misled some of you:我可能无意中误导了你们中的一些人
 
-resistance or dissent, expressed in action or argument:resistance或异议，以行动或争论表达
+resistance or dissent, expressed in action or argument:在行动或争论中表达的抵抗或异议
 a group of opponents, especially in sport, business, or politics:一群反对者，尤其是在体育、商业或政治领域
 the principal parliamentary party opposed to that in office:反对执政的主要议会党派
 the apparent position of two celestial objects that are directly opposite each other in the sky, especially the position of a planet when opposite the sun.:在天空中彼此直接相对的两个天体的视位置，特别是行星在与太阳相对时的位置。
@@ -175,7 +175,7 @@ most polar birds breed seasonally:大多数极地鸟类季节性繁殖
 the polar radius of Jupiter is 66,550 km:木星的极半径为66550公里
 depression and its polar opposite, mania:抑郁症及其对立面，躁狂症
 
-necessary to make a whole complete, essential or fundamental:necessarytomakeawholecomplete,essentialorfundamental
+necessary to make a whole complete, essential or fundamental:使一个整体完整、必要或基本的必要条件
 included as part of a whole rather than supplied separately:作为整体的一部分包含在内，而不是单独提供
 having all the parts that are necessary to be complete:拥有完成所需的所有部分
 of or denoted by an integer.:of或用整数表示。
@@ -183,19 +183,19 @@ involving only integers, especially as coefficients of a function.:只涉及整�
 a function of which a given function is the derivative, i.e. which yields that function when differentiated, and which may express the area under the curve of a graph of the function.:一个函数，其给定函数是导数，即微分时产生该函数，并且可以表示函数图形曲线下的面积。
 a function satisfying a given differential equation.:满足给定微分方程的函数。
 integral |ˈɪntɪɡr(ə)l| Adjective/Noun/:不可缺少的,积分,整体的
-games are an integral part of the school's curriculum:games是学校课程不可或缺的一部分
+games are an integral part of the school's curriculum:游戏是学校课程不可或缺的一部分
 the unit comes complete with integral pump and heater:该装置配有完整的泵和加热器
 the first integral recording of the ten Mahler symphonies:马勒十首交响曲的首次完整录音
 
-watch over in order to protect or control:watchover为了保护或控制
-watch over (someone) to prevent them from escaping:watchover(someone)防止他们逃跑
+watch over in order to protect or control:监视以保护或控制
+watch over (someone) to prevent them from escaping:看管（某人），防止他们逃跑
 stay close to (an opponent) in order to prevent them getting or passing the ball:靠近（对手）以防止他们得到或传球
 protect against damage or harm:防止损坏或伤害
 take precautions against:采取预防措施
-a person who keeps watch, especially a soldier or other person assigned to protect a person or to control access to a place:apersonwhokeepwatch，尤指士兵或其他被指派保护人员或控制进入某个地方的人
+a person who keeps watch, especially a soldier or other person assigned to protect a person or to control access to a place:看守的人，尤指士兵或其他被指派保护人员或控制进入某个地方的人
 a body of soldiers serving to protect a place or person:为保护一个地方或一个人服务的一群士兵
 the household troops of the British army.:英国军队的家庭部队。
-a member of the Irish police force, a Garda:爱尔兰警察部队的一名成员，一名Garda
+a member of the Irish police force, a Garda:
 a prison warder.:监狱看守。
 a device worn or fitted to prevent injury or damage:为防止受伤或损坏而佩戴或安装的装置
 a defensive posture that is adopted in a boxing or martial arts contest or in a fight:在拳击或武术比赛或打架中采用的防御姿势
@@ -208,13 +208,13 @@ two men were left to guard the stockade:留下两个人看守寨子
 his task was to help guard Japanese prisoners:他的任务是帮助看守日本俘虏
 when a player is so closely guarded he cannot pass the ball:当一名球员被严密防守时，他无法传球
 the company fiercely guarded its independence:公司坚决捍卫其独立性
-farmers must guard against sudden changes in the market:farmers谨防市场突变
+farmers must guard against sudden changes in the market:农户须谨防市场突变
 a security guard:一名保安
 he's the captain of the palace guard:他是宫廷守卫队长
-There's bends all the way from Portlaoise to Carlow. The responsibility for speeding traffic rests with the guards:从Portlaoise到Carlow一路都有弯道。
+There's bends all the way from Portlaoise to Carlow. The responsibility for speeding traffic rests with the guards:从 Portlaoise 到 Carlow 一路都有弯道。超速交通的责任在于警卫
 a retractable blade guard:a可伸缩刀片护罩
-before Seb could raise his guard Boz swung a wild punch:beforeSeb可以提高他的警惕Boz挥舞着一拳
-he let his guard slip enough to make some unwise comments:he放松了警惕，发表了一些不明智的评论
+before Seb could raise his guard Boz swung a wild punch:在 Seb 可以提高警惕之前，Boz 挥出一拳
+he let his guard slip enough to make some unwise comments:他放松了警惕，发表了一些不明智的评论
 
 a part of a tree which grows out from the trunk or from a bough:从树干或树枝长出的树的一部分
 a lateral extension or subdivision extending from the main part of a river, road, railway, etc.:从河流、公路、铁路等的主要部分延伸的横向延伸或细分。
@@ -224,7 +224,7 @@ a conceptual subdivision of a family, subject, group of languages, etc.:一个�
 diverge from the main route or part:从主要路线或部分发散
 (of a tree or plant) bear or send out branches:(树或植物的)长出或发出树枝
 branch |brɑːn(t)ʃ| Noun/Verb/:分支,分岔,科,分公司,分支机构
-Sophie was in the branches of a tree eating an apple:Sophie在树枝上吃苹果
+Sophie was in the branches of a tree eating an apple:苏菲在树枝上吃苹果
 a branch of the Clinton River:克林顿河的一个支流
 he went to work at our Birmingham branch:他去我们的伯明翰分公司工作
 a branch of mathematics called graph theory:数学的一个分支叫做图论
@@ -233,15 +233,15 @@ the road branched off at the market town:集镇分岔路
 this rose has a tendency to branch and spread at the top:这朵玫瑰有在顶部分枝和蔓延的趋势
 
 
-officially attach or connect (a subsidiary group or a person) to an organization:officiallyattachorconnect(asubsidiarygrouporaperson)toanorganization
+officially attach or connect (a subsidiary group or a person) to an organization:正式附属或连接（附属团体或个人）到一个组织
 (of an organization) admit as a member:（组织的）承认为成员
 officially join or become attached to an organization:正式加入或依附于一个组织
 a person or organization officially attached to a larger body:正式隶属于一个更大团体的个人或组织
 affiliate |əˈfɪlɪeɪt| Noun/Verb/:会员,关联公司
-they are national associations affiliated to larger organizations:they是隶属于大型组织的全国性协会
+they are national associations affiliated to larger organizations:他们是隶属于较大组织的全国性协会
 the main party agreed to affiliate four Conservative associations:主要政党同意加入四个保守党协会
 almost all students affiliate to the Students' Union:几乎所有学生都隶属于学生会
-the firm established links with American affiliates:thefirm与美国分支机构建立了联系
+the firm established links with American affiliates:该公司与美国分支机构建立了联系
 
 the supply of water to land or crops to help growth, typically by means of channels:向土地或作物供水以帮助生长，通常通过渠道
 the process of washing out an organ or wound with a continuous flow of water or medication:用持续流动的水或药物冲洗器官或伤口的过程
@@ -254,12 +254,12 @@ an apparatus for cooking or heating that operates by burning fuel or using elect
 a hothouse for plants.:植物温室。
 fumigate or disinfect (a house) with sulphur or other fumes.:用硫磺或其他烟雾熏蒸或消毒（房屋）。
 treat (an object) by heating it in a stove in order to apply a desired surface coating.:通过在炉子中加热来处理（物体），以便应用所需的表面涂层。
-force or raise (plants) in a hothouse.:forceorraise(plants)inahothouse.
+force or raise (plants) in a hothouse.:在温室里强迫或饲养（植物）。
 stove |stəʊv| Noun/Verb/:火炉,炉,炉灶,炉子
 
 worth remembering or easily remembered, especially because of being special or unusual:值得记住或容易记住，特别是因为特别或不寻常
 memorable |ˈmɛm(ə)rəbl| Adjective/:难忘,令人难忘,难忘的
-he recalled memorable moments in his life:he回忆起他生命中难忘的时刻
+he recalled memorable moments in his life:他回忆起他生命中难忘的时刻
 
 the complete removal or destruction of something:完全移除或破坏某物
 the exclusion of someone or something from consideration or further participation:将某人或某物排除在考虑或进一步参与之外
@@ -270,14 +270,14 @@ elimination |ɪˌlɪmɪˈneɪʃn| Noun/:消除,淘汰赛
 the elimination of extreme poverty is a key objective:消除极端贫困是一个关键目标
 a 1-1 draw confirmed their elimination from the tournament:1-1 平局确认他们被淘汰出局
 the treatment promotes the elimination of toxins:治疗促进排除毒素
-Bezout's method of elimination:Bezout的消除法
+Bezout's method of elimination:Bezout 消除法
 a condensation reaction can link together two monosaccharide sugars to form a disaccharide with the elimination of water:a缩合反应可以将两个单糖连接在一起形成双糖并消除水
 
-income, especially when of an organization and of a substantial nature:income，特别是当属于一个组织并且具有实质性时
+income, especially when of an organization and of a substantial nature:收入，特别是当来自一个组织并且具有实质性时
 a state's annual income from which public expenses are met:一个州用于支付公共开支的年收入
 the department of the civil service collecting state revenue:征收国家税收的公务员部门
 revenue |ˈrɛvɪnjuː| Noun/:收入,营收
-traders have lost £10,000 in revenue since the traffic scheme was implemented:traders自交通计划实施以来损失了10,000英镑的收入
+traders have lost £10,000 in revenue since the traffic scheme was implemented:自交通计划实施以来，贸易商损失了 10,000 英镑的收入
 his priority was to raise government revenue and to lower expenditure:his的首要任务是增加政府收入并减少支出
 when the revenue makes a demand for tax, that demand is implicitly backed by the powers of the state:当收入提出征税需求时，该需求得到国家权力的隐含支持
 
@@ -293,13 +293,13 @@ decisive |dɪˈsʌɪsɪv| Adjective/:决定性,果断,果断的,决定性的
 the archers played a decisive part in the victory:弓箭手对胜利起到了决定性的作用
 she had an image of being tough and decisive:她给人的印象是强硬果断
 
-take over the place, position, or role of:takeovertheplace,position,orroleof的位置、职位或角色
-move (something) from its proper or usual position:move(something)fromitsproperorusualposition
+take over the place, position, or role of:接管的地方、职位或角色
+move (something) from its proper or usual position:将（某物）从其适当或通常的位置移开
 force (someone) to leave their home, typically because of war, persecution, or natural disaster:强迫（某人）离开他们的家，通常是因为战争、迫害或自然灾害
-remove (someone) from a job or position of authority:remove(someone)fromajoborpositionofauthority
+remove (someone) from a job or position of authority:将（某人）从工作或权威职位上撤职
 displace |dɪsˈpleɪs| Verb/:取代,置换
-he believes that books may be displaced by the electronic word:he认为电子世界可能会取代书籍
-he seems to have displaced some vertebrae:he似乎移位了一些椎骨
+he believes that books may be displaced by the electronic word:他认为电子世界可能会取代书籍
+he seems to have displaced some vertebrae:他似乎移位了一些椎骨
 thousands of people have been displaced by the civil war:数千人因内战而流离失所
 his aides were discredited and displaced:his的助手名誉扫地和流离失所
 
@@ -320,12 +320,12 @@ neighborhood | 邻里,附近,邻居,邻里关系
 a unit of energy equivalent to the heat energy needed to raise the temperature of 1 gram of water by 1 °C (now often defined as equal to 4.1868 joules).:一个能量单位，相当于将1克水的温度升高1°C所需的热能（现在通常定义为等于4.1868焦耳）。
 a unit of energy, often used to express the nutritional value of foods, equivalent to the heat energy needed to raise the temperature of 1 kilogram of water by 1 °C, and equal to one thousand small calories, a kilocalorie:一个能量单位，常用来表示食物的营养价值，相当于将1公斤水的温度升高1℃所需要的热能，等于一千小卡，大卡
 calorie |ˈkal(ə)ri| Noun/:卡路里,热量
-she advises working on your relationship with food and moving away from counting calories:she建议处理你与食物的关系并远离计算卡路里
+she advises working on your relationship with food and moving away from counting calories:她建议处理你与食物的关系并远离计算卡路里
 
 having or displaying an intense or ferocious aggressiveness:具有或表现出强烈或凶猛的攻击性
 (of the weather or temperature) powerful and destructive:（天气或温度的）强大的和破坏性的
 showing a heartfelt and powerful intensity:表现出由衷而强大的强度
-(of a mechanism) having a jolting and powerful abruptness of action:(ofamechanism)动作突然而有力
+(of a mechanism) having a jolting and powerful abruptness of action:
 fashionable or attractive in a bold or striking way:以大胆或引人注目的方式时尚或有吸引力
 very, extremely:非常非常
 fierce |fɪəs| Adjective/Adverb/:凶猛的,激烈,激烈的,凶
@@ -334,23 +334,23 @@ fierce storms lashed the country:猛烈的风暴袭击了这个国家
 his fierce loyalty:他的忠诚
 the fire door had a fierce pneumatic return:防火门有一个猛烈的气动返回
 the actress looked as fierce and fashion-forward as ever:这位女演员看起来一如既往的凶悍和前卫
-he was fierce proud:he非常骄傲
+he was fierce proud:他非常骄傲
 
 refer to (something) briefly and without going into detail:简单地提及（某事）而不详细
-refer to (someone) as being noteworthy, especially as a potential candidate for a post:referto(someone)asbeingnotable,especiallyasapotentialcandidateforapost
+refer to (someone) as being noteworthy, especially as a potential candidate for a post:指（某人）值得注意，尤指某个职位的潜在候选人
 mention |ˈmɛnʃn| Noun/Verb/:提到,提,提起,提及
-I haven't mentioned it to William yet:我还没跟William提过呢
-he is still regularly mentioned as a possible secretary of state:he仍然经常被提及为可能的国务卿
+I haven't mentioned it to William yet:我还没跟威廉提过
+he is still regularly mentioned as a possible secretary of state:他仍然经常被提及为可能的国务卿
 
-cause to cover a wider area, make larger:causetocoveragreaterarea,使更大
-cause to last longer:cause持续时间更长
+cause to cover a wider area, make larger:导致覆盖更广的区域，使更大
+cause to last longer:导致持续时间更长
 straighten or spread out (the body or a limb or device) at full length:伸直或展开（身体或肢体或装置）全长
 spread from a central point to cover a wider area:从一个中心点传播到更广泛的区域
 occupy a specified area:占据指定区域
 be applicable to:适用于
-hold (something) out towards someone:hold(something)outto某人
+hold (something) out towards someone:向某人伸出（某物）
 offer or make available:提供或提供
-cause (someone or something) to exert the utmost effort:cause（某人或某事）尽最大努力
+cause (someone or something) to exert the utmost effort:使（某人或某物）竭尽全力
 extend |ɪkˈstɛnd| Verb/:延长,延伸,扩展
 the car park has been extended:停车场已扩建
 they asked the government to extend its period of deliberation:他们要求政府延长审议期
@@ -359,8 +359,8 @@ the damage extended 400 yards either side of the shop:商店两侧的损坏扩�
 the mountains extend over the western end of the island:山脉延伸到岛的西端
 her generosity did not extend to all adults:her的慷慨并没有延伸到所有成年人
 I nod and extend my hand:我点头并伸出我的手
-she extended an invitation to her to stay:she邀请她留下来
-horses have the strength of character to extend themselves to their utmost limit:horses具有将自己延伸到极限的风骨
+she extended an invitation to her to stay:她邀请她留下来
+horses have the strength of character to extend themselves to their utmost limit:马有把自己发挥到极致的风骨
 
 an upright pillar, typically cylindrical, supporting an arch, entablature, or other structure or standing alone as a monument:一根直立的柱子，通常是圆柱形的，支撑着拱门、柱顶或其他结构，或者作为纪念碑单独站立
 a vertical, roughly cylindrical thing:一个垂直的，大致圆柱形的东西
@@ -374,13 +374,13 @@ a military force or convoy of ships:军队或船队
 column |ˈkɒləm| Noun/:柱子,柱,专栏,列
 a wide entrance portico of eight Ionic columns:八根离子柱的宽入口门廊
 a great column of smoke:一大团烟雾
-a Spitfire control column:aSpitfire控制栏
+a Spitfire control column:Spitfire 控制柱
 turn to page five, column seven:翻到第五页，第七栏
 list your strengths and weaknesses in two columns:在两栏中列出你的优点和缺点
-he has a weekly column in a Sydney newspaper:he在悉尼一家报纸上有每周专栏
+he has a weekly column in a Sydney newspaper:他在悉尼一家报纸上有每周专栏
 a column of tanks moved north-west:一列坦克向西北方向移动
 a column of 300 to 400 troops:一列300到400名士兵
-Moran had commanded a column in the war:Moran在战争中指挥过一个纵队
+Moran had commanded a column in the war:莫兰在战争中指挥过一个纵队
 
 relating to or using analysis or logical reasoning:关于或使用分析或逻辑推理
 analytical |ˌanəˈlɪtɪkl| Adjective/:分析性的,解析的

@@ -40,10 +40,10 @@ failure to do something:做某事失败
 neglect |nɪˈɡlɛkt| Noun/Verb/:忽视,忽略,疏忽
 the old churchyard has been sadly neglected:可悲的是，古老的墓地被忽视了
 you neglect our advice at your peril:you忽视我们的建议后果自负
-he neglected to write to her:he忘了给她写信
+he neglected to write to her:他忘了给她写信
 the place had a hopeless air of neglect:这个地方有一种被忽视的绝望气氛
-she was accused of child neglect:she被指控忽视儿童
-he was reported for neglect of duty:he被举报玩忽职守
+she was accused of child neglect:她被指控忽视儿童
+he was reported for neglect of duty:他被举报玩忽职守
 
 a fundamental truth or proposition that serves as the foundation for a system of belief or behaviour or for a chain of reasoning:作为信念或行为系统或推理链基础的基本真理或命题
 a rule or belief governing one's behaviour:支配一个人行为的规则或信念
@@ -65,23 +65,23 @@ the active principle of Spanish fly:西班牙苍蝇的活性原理
 
 mark or discolour with something that is not easily removed:用不易去除的东西做标记或褪色
 be marked or be liable to be marked with a stain.:被标记或容易被标记上污点。
-damage or bring disgrace to (the reputation or image of someone or something):damageorbringdistrastto(某人或某事的声誉或形象)
+damage or bring disgrace to (the reputation or image of someone or something):
 colour (a material or object) by applying a penetrative dye or chemical:使用渗透性染料或化学品为（材料或物体）上色
 a coloured patch or dirty mark that is difficult to remove:难以去除的色块或污迹
 a thing that damages or brings disgrace to someone or something's reputation:损害或损害某人或某物名誉的事情
 a penetrative dye or chemical used in colouring a material or object.:用于给材料或物体着色的渗透性染料或化学品。
 a special dye used to colour organic tissue so as to make the structure visible for microscopic examination.:一种特殊染料，用于给有机组织着色，使结构在显微镜检查时可见。
-any of the minor colours used in blazoning and liveries, especially tenné and sanguine.:用于装饰和制服的任何次要颜色，尤其是tenné和sanguine。
+any of the minor colours used in blazoning and liveries, especially tenné and sanguine.:
 stain |steɪn| Noun/Verb/:弄脏,污点,污渍,染色
 her clothing was stained with blood:她的衣服被血染红了
 the awful events would unfairly stain the city's reputation:可怕的事件会不公平地玷污这座城市的声誉
-wood can always be stained to a darker shade:wood总是可以染成深色
+wood can always be stained to a darker shade:木材总是可以被染成深色
 there were mud stains on my shoes:我的鞋上有泥渍
-he regarded his time in gaol as a stain on his character:he认为他在监狱里的时间是他品格上的污点
+he regarded his time in gaol as a stain on his character:他认为他在监狱里的时间是他品格上的污点
 
-give support, confidence, or hope to (someone):givesupport,confidence,orhopeto(某人)
-persuade (someone) to do or continue to do something by giving support and advice:persuade（某人）通过给予支持和建议去做或继续做某事
-stimulate the development of (an activity, state, or belief):stimulate发展（活动、状态或信念）
+give support, confidence, or hope to (someone):给予（某人）支持、信心或希望
+persuade (someone) to do or continue to do something by giving support and advice:通过提供支持和建议说服（某人）做或继续做某事
+stimulate the development of (an activity, state, or belief):刺激（活动、状态或信念）的发展
 encourage |ɪnˈkʌrɪdʒ| Verb/:鼓励,鼓动
 we were encouraged by the success of this venture:我们对这次冒险的成功感到鼓舞
 pupils are encouraged to be creative:学生被鼓励发挥创造力
@@ -91,15 +91,15 @@ capable of causing someone to believe that something is true or real:能够使�
 (of a victory or a winner) leaving no margin of doubt, clear:（胜利或获胜者）毫无疑问，清楚
 convincing |kənˈvɪnsɪŋ| Adjective/:令人信服的,有说服力的
 there is no convincing evidence that advertising influences total alcohol consumption:没有令人信服的证据表明广告会影响酒精消费总量
-Wales cruised to a convincing win over Ireland:Wales以令人信服的优势战胜了爱尔兰
+Wales cruised to a convincing win over Ireland:威尔士以令人信服的优势击败爱尔兰
 
-in a random manner, unsystematically:inarandommanner,unsystematically
+in a random manner, unsystematically:以随机的方式，不系统地
 in a way that does not show care or judgement:以一种不表现出关心或判断的方式
 indiscriminately |ˌɪndɪˈskrɪmɪnətli| Adverb/:不分青红皂白地,胡乱地
 his armies slaughtered men, women, and children indiscriminately:他的军队不分青红皂白地屠杀男人、女人和儿童
 people who are sedentary and who eat indiscriminately:久坐乱吃的人
 
-admirably purposeful, determined, and unwavering:admirably目标明确、坚定不移
+admirably purposeful, determined, and unwavering:令人钦佩的目标明确，坚定不移
 resolute |ˈrɛzəl(j)uːt| Adjective/:坚决,果断,坚决的
 she was resolute and unswerving:她刚毅坚定
 
@@ -111,7 +111,7 @@ indicative |ɪnˈdɪkətɪv| Adjective/Noun/:指示性的,指示性
 having recurrent dreams is not necessarily indicative of any psychological problem:经常做梦并不一定表示有任何心理问题
 
 die, especially in a violent or sudden way:die，尤指以暴力或突然的方式
-suffer complete ruin or destruction:suffercompleteruin或destruction
+suffer complete ruin or destruction:遭受彻底毁灭或破坏
 (of rubber, food, etc.) lose its normal qualities, rot or decay:（橡胶，食品等）失去其正常品质，腐烂或腐烂
 be suffering from extreme cold:遭受极度寒冷
 perish |ˈpɛrɪʃ| Verb/:沦,亡,灭亡,毁灭
@@ -128,13 +128,13 @@ something which is likely to lead to a particular outcome:可能导致特定结�
 a medical prescription:医疗处方
 recipe |ˈrɛsɪpi| Noun/:,配方
 a traditional Yorkshire recipe:一个传统的约克郡食谱
-sky-high interest rates are a recipe for disaster:sky-高利率是灾难的根源
+sky-high interest rates are a recipe for disaster:高利率是灾难的根源
 it would be useless to enumerate all the drugs and recipes for their application which have been tried:列举所有已经尝试过的药物和配方是没有用的
 
 
-more than is necessary, normal, or desirable, immoderate:morethanisnecessary,normal,ordesirable,immoderated
+more than is necessary, normal, or desirable, immoderate:超过必要的、正常的或可取的、过度的
 excessive |ɪkˈsɛsɪv| Adjective/:过多的,过多,过度的,过分
-he was drinking excessive amounts of brandy:he喝了过量的白兰地
+he was drinking excessive amounts of brandy:他喝了过量的白兰地
 
 the quality of being extremely thorough and careful:极其彻底和细心的品质
 severity or strictness:严重性或严格性
@@ -151,7 +151,7 @@ rigours | 严酷,严酷的
 
 
 not having enough of a specified quality or ingredient:没有足够的指定质量或成分
-insufficient or inadequate:insufficient或不足
+insufficient or inadequate:不足或不足
 having an intellectual disability.:有智力障碍。
 deficient |dɪˈfɪʃ(ə)nt| Adjective/:不足的,缺乏
 this diet is deficient in vitamin B:这种饮食缺乏维生素B
@@ -161,7 +161,7 @@ inability to do something successfully, ineptitude:无法成功地做某事，�
 incompetence |ɪnˈkɒmpɪt(ə)ns| Noun/:无能,不称职
 allegations of professional incompetence:专业无能的指控
 
-give (someone) a legal right or a just claim to receive or do something:give(someone)alegalrightorajustclaimtoreceiveordo某事
+give (someone) a legal right or a just claim to receive or do something:给予（某人）接受或做某事的合法权利或正当要求
 give (something) a particular title:给（某物）一个特定的标题
 give (someone) a specified title expressing their rank, office, or character:给（某人）一个特定的头衔来表达他们的等级、职位或性格
 entitle |ɪnˈtʌɪtl| Verb/:权利,授权
@@ -174,37 +174,37 @@ a person willing to take risks or use dishonest methods for personal gain:愿意
 a financial speculator.:金融投机者。
 a mercenary soldier.:雇佣兵。
 adventurer |ədˈvɛn(t)ʃ(ə)rə| Noun/:冒险家,冒险者,探险家
-every year adventurers attempt the Canol Trail using all manner of conveyances:everyyear冒险者使用各种交通工具尝试CanolTrail
+every year adventurers attempt the Canol Trail using all manner of conveyances:每年冒险家都会使用各种交通工具尝试 Canol Trail
 a political adventurer:政治冒险家
 
-make or become faster or quicker:make或becomefaster或faster
-stimulate or become stimulated:stimulate或被刺激
+make or become faster or quicker:使或变得更快或更快
+stimulate or become stimulated:刺激或变得刺激
 give or restore life to:给予或恢复生命
-cause (a fire) to burn.:cause(afire)燃烧。
+cause (a fire) to burn.:使（火）燃烧。
 (of a woman) reach a stage in pregnancy when movements of the fetus can be felt.:（女性）怀孕到了可以感觉到胎动的阶段。
 (of a fetus) begin to show signs of life.:（胎儿）开始出现生命迹象。
 quicken |ˈkwɪk(ə)n| Verb/:加速,加快,加快速度
 on the third day after his death the human body of Jesus was quickened by the Spirit:在他死后的第三天，耶稣的身体被圣灵复活
 
-cause (someone or something) to change course or turn from one direction to another:cause（某人或某事）改变路线或从一个方向转向另一个方向
+cause (someone or something) to change course or turn from one direction to another:使（某人或某事）改变路线或从一个方向转向另一个方向
 (of a vehicle or person) change course:（车辆或人的）改变路线
-reallocate (money or resources) to a different purpose:reallocate（金钱或资源）到不同的目的
-draw (the attention) of someone from something:draw（注意）某人从某事
-entertain or amuse:entertain或amuse
+reallocate (money or resources) to a different purpose:将（金钱或资源）重新分配给不同的目的
+draw (the attention) of someone from something:从某物中吸引（注意）某人
+entertain or amuse:招待或逗乐
 divert |dʌɪˈvəːt| Verb/:转移,分流
 a scheme to divert water from the river to irrigate agricultural land:一项从河流引水灌溉农田的计划
 an aircraft has diverted and will be with you shortly:一架飞机已改道，将很快与您联系
-more of their advertising budget was diverted into promotions:more他们的广告预算被转用于促销活动
+more of their advertising budget was diverted into promotions:他们更多的广告预算被转移到了促销活动中
 public relations policies are sometimes intended to divert attention away from criticism:公共关系政策有时旨在将注意力从批评上转移开
 although the audience members were diverted by this new symphony, critics disliked it:虽然听众被这首新交响曲转移了注意力，但评论家却不喜欢它
 
 put forward (someone or something) with approval as being suitable for a particular purpose or role:提出（某人或某事）并批准适合特定目的或角色
-advise or suggest (something) as a course of action:advise或suggest(something)作为一个行动方案
-advise (someone) to do something:advise（某人）做某事
-make (someone or something) appealing or desirable:make(someoneorsomething)appleatingordesirable
-commend or entrust someone or something to (someone):commend或委托某人或某物给（某人）
+advise or suggest (something) as a course of action:建议或建议（某事）作为一项行动
+advise (someone) to do something:建议（某人）做某事
+make (someone or something) appealing or desirable:使（某人或某事）有吸引力或令人向往
+commend or entrust someone or something to (someone):向（某人）推荐或委托某人或某物
 recommend |ˌrɛkəˈmɛnd| Verb/:,建议
-George had recommended some local architects:George推荐了一些当地的建筑师
+George had recommended some local architects:
 some doctors recommend putting a board under the mattress:一些医生建议在床垫下放一块木板
 you are strongly recommended to seek professional advice:强烈建议您寻求专业意见
 the house had much to recommend it:房子有很多值得推荐的地方
@@ -242,7 +242,7 @@ relating to the running of a home or to family relations:关于家庭经营或�
 of or for use in the home rather than in an industrial or office environment:of或用于家庭而非工业或办公环境
 (of an animal) tame and kept by humans:（动物的）由人类驯服和饲养
 (of a person) fond of family life and running a home:（一个人的）喜欢家庭生活和经营家庭
-existing or occurring inside a particular country, not foreign or international:existingoroccurringinaparticularcountry,notforeignorinternational非外国或国际
+existing or occurring inside a particular country, not foreign or international:存在于或发生在特定国家内部，而不是外国或国际
 a person who is paid to help with cleaning and other menial tasks in a person's home.:有人付钱帮助某人家里打扫卫生和做其他琐碎的工作。
 a violent quarrel between family members, especially a couple:家庭成员之间的激烈争吵，尤其是夫妻之间
 a product not made abroad.:非国外制造的产品。
@@ -250,22 +250,22 @@ domestic |dəˈmɛstɪk| Adjective/Noun/:国内的,佣人,国内,国产
 domestic chores:家务
 domestic water supplies:生活用水
 domestic dogs:家犬
-she was not at all domestic:she根本不是国内的
+she was not at all domestic:她根本不是国内的
 Egypt's domestic affairs:埃及内政
 they are often called to sort out a domestic:他们经常被叫去整理家务
 
 prepare and use (land) for crops or gardening:准备和使用（土地）用于作物或园艺
-break up (soil) in preparation for sowing or planting:breakup(soil)准备播种或种植
-raise or grow (plants), especially on a large scale for commercial purposes:raiseorgrow（植物），尤指为商业目的大规模种植
-grow or maintain (living cells or tissue) in culture:growormaintain(livingcellsortissue)inculture
-try to acquire or develop (a quality or skill):trytoacquireordevelop(aqualityorskill)
-try to win the friendship or favour of (someone):trytowintowinfriendshiporfavorof(某人)
+break up (soil) in preparation for sowing or planting:打碎（土壤）准备播种或种植
+raise or grow (plants), especially on a large scale for commercial purposes:饲养或种植（植物），尤指为商业目的而大规模种植
+grow or maintain (living cells or tissue) in culture:在培养物中生长或维持（活细胞或组织）
+try to acquire or develop (a quality or skill):努力获得或发展（品质或技能）
+try to win the friendship or favour of (someone):试图赢得（某人）的友谊或好感
 try to improve or develop (one's mind).:努力改善或发展（一个人的思想）。
 cultivate |ˈkʌltɪveɪt| Verb/:培育,培养,栽培
 the peasants who cultivated the land became its owners:耕种土地的农民成了它的主人
 they were encouraged to cultivate basic food crops:他们被鼓励种植基本粮食作物
 blood cells that can be most easily cultivated are macrophages:最容易培养的血细胞是巨噬细胞
-he cultivated an air of indifference:he培养了一种冷漠的气氛
+he cultivated an air of indifference:他培养了一种冷漠的气氛
 it helps if you go out of your way to cultivate the local people:如果你不遗余力地培养当地人，它会有所帮助
 
 create or prepare methodically:有条不紊地创建或准备
@@ -277,13 +277,13 @@ the argument is sufficiently clear that it can be formulated mathematically:论�
 a simple roofed structure used for garden storage, to shelter animals, or as a workshop:一个简单的屋顶结构，用于花园储藏、庇护动物或用作车间
 a larger structure for storing or maintaining vehicles or other machinery:用于存储或维护车辆或其他机械的较大结构
 a building for shearing sheep or milking cattle.:剪羊毛或挤牛的建筑物。
-park (a vehicle) in a depot:park（一辆车）在一个仓库
+park (a vehicle) in a depot:将（车辆）停在仓库
 (of a tree or other plant) allow (leaves or fruit) to fall to the ground:（一棵树或其他植物的）允许（叶子或果实）落到地上
 (of a reptile, insect, etc.) allow (its skin or shell) to come off, to be replaced by another one that has grown underneath.:（爬行动物、昆虫等）允许（它的皮肤或外壳）脱落，由下面长出的另一个替代。
 (of a mammal) lose (hair) as a result of moulting, disease, or age.:（哺乳动物的）由于蜕皮、疾病或年龄而失去（毛发）。
 take off (clothes):脱（衣服）
 have the property of repelling (water or a similar substance).:具有排斥性（水或类似物质）。
-discard (something undesirable, superfluous, or outdated):discard（不受欢迎的、多余的或过时的东西）
+discard (something undesirable, superfluous, or outdated):丢弃（不受欢迎的、多余的或过时的东西）
 cast or give off (light):施放或放出（光）
 accidentally allow (something) to fall off or spill:不小心让（某物）掉落或洒落
 eliminate part of (an electrical power load) by disconnecting circuits.:通过断开电路来消除部分（电力负载）。
@@ -301,20 +301,20 @@ extending or reaching throughout the world:扩展或到达全世界
 throughout the world:全世界
 worldwide |ˌwəːl(d)ˈwʌɪd| Adjective/Adverb/:全世界,世界范围内
 worldwide sales of television rights:全球电视转播权销售
-she travels worldwide as a consultant:she作为顾问周游世界
+she travels worldwide as a consultant:她作为顾问周游世界
 
 a display of unnecessary or excessive excitement, activity, or interest:表现出不必要的或过度的兴奋、活动或兴趣
 a protest or dispute of a specified degree or kind:特定程度或种类的抗议或争议
 elaborate or complex procedures, trouble or difficulty:详细或复杂的程序、麻烦或困难
 show unnecessary or excessive concern about something:对某事表现出不必要或过度的关注
 busy oneself restlessly:忙得不可开交
-disturb or bother (someone):disturborbother(某人)
-treat (someone) with excessive attention or affection:treat(someone)withexcessiveattentionoraffection
+disturb or bother (someone):打扰或打扰（某人）
+treat (someone) with excessive attention or affection:以过分的关注或感情对待（某人）
 fuss |fʌs| Noun/Verb/:大惊小怪,小题大做
 I don't know what all the fuss is about:我不知道有什么大惊小怪的
-he didn't put up too much of a fuss:he没有大惊小怪
+he didn't put up too much of a fuss:他没有大惊小怪
 they settled in with very little fuss:他们毫不费力地安顿下来
-she's always fussing about her food:she总是为她的食物而烦恼
+she's always fussing about her food:她总是为她的食物而烦恼
 beside him Kegan was fussing with sheets of paper:在他旁边，基根正忙着处理纸张
 when she cries in her sleep, try not to fuss her:当她在睡梦中哭泣时，尽量不要惊动她
-she flattered and fussed her:she奉承她并大惊小怪
+she flattered and fussed her:她奉承她并大惊小怪

@@ -68,8 +68,8 @@ a famous pioneer of birth control:著名的节育先驱
 the technique was pioneered by a Swiss doctor in the 1930s:这项技术由一位瑞士医生在1930年代首创
 
 strengthen or support physically or mentally:他无法维持正常的谈话
-bear (the weight of an object) without breaking or falling:bear（物体的重量）不折不倒
-undergo or suffer (something unpleasant, especially an injury):undergo或遭受（不愉快的事情，尤其是受伤）
+bear (the weight of an object) without breaking or falling:承受（物体的重量）而不折断或掉落
+undergo or suffer (something unpleasant, especially an injury):经历或遭受（不愉快的事情，尤指伤害）
 cause to continue for an extended period or without interruption:导致长时间或不间断地继续
 (of a performer) represent (a part or character) convincingly:（表演者的）令人信服地代表（部分或角色）
 uphold, affirm, or confirm the justice or validity of:支持、申明或确认其公正性或有效性
@@ -82,7 +82,7 @@ he cannot sustain a normal conversation:他无法维持正常的谈话
 he sustained the role of Creon with burly resilience:他以坚强的韧性维持了克里昂的角色
 the allegations of discrimination were sustained:歧视指控得到维持
 
-dark or poorly lit, especially so as to appear depressing or frightening:dark或光线不足，尤其是显得压抑或可怕
+dark or poorly lit, especially so as to appear depressing or frightening:黑暗或光线不足，尤其是为了显得压抑或可怕
 causing or feeling depression or despondency:导致或感到沮丧或沮丧
 gloomy |ˈɡluːmi| Adjective/:阴沉,阴郁,阴沉的
 a gloomy corridor badly lit by oil lamps:油灯昏暗的走廊
@@ -104,7 +104,7 @@ as part of a regular procedure rather than for a special reason:作为常规程�
 frequently and without proper consideration of the consequences:频繁且没有适当考虑后果
 routinely |ruːˈtiːnli| Adverb/:,经常
 large-scale producers routinely vaccinate their birds against the disease:大型生产者定期为他们的家禽接种该病疫苗
-owners routinely flout local laws about restraining and picking up after their pets:owners经常无视当地有关约束和捡拾宠物的法律
+owners routinely flout local laws about restraining and picking up after their pets:主人经常蔑视当地关于限制和捡起宠物的法律
 
 a fact or situation that is observed to exist or happen, especially one whose cause or explanation is in question:观察到存在或发生的事实或情况，尤其是其原因或解释存在疑问的事实或情况
 a remarkable person or thing:一个了不起的人或事
@@ -117,7 +117,7 @@ the quality or state of being different or diverse; the absence of uniformity or
 a number or range of things of the same general class that are distinct in character or quality:在性质或质量上不同的同一大类的一些或范围的事物
 a thing which differs in some way from others of the same general class or sort; a type:在某些方面与同一类或同类的其他事物不同的事物；一种
 a form of television or theatre entertainment consisting of a series of different types of act, such as singing, dancing, and comedy:一种电视或戏剧娱乐形式，由一系列不同类型的行为组成，例如唱歌、跳舞和喜剧
-a taxonomic category that ranks below subspecies (where present) or species, its members differing from others of the same subspecies or species in minor but permanent or heritable characteristics. Varieties are more often recognized in botany, in which they are designated in the style Apium graveolens var. dulce.:一个低于亚种（如果存在）或物种的分类类别，其成员在次要但永久或可遗传的特征上与相同亚种或物种的其他成员不同。品种在植物学中更常见，其中它们被指定为ApiumGraveolensvar。甜甜的
+a taxonomic category that ranks below subspecies (where present) or species, its members differing from others of the same subspecies or species in minor but permanent or heritable characteristics. Varieties are more often recognized in botany, in which they are designated in the style Apium graveolens var. dulce.:低于亚种（如果存在）或种的分类类别，其成员在次要但永久或可遗传的特征上不同于同一亚种或种的其他成员。品种在植物学中更常见，在植物学中它们被指定为 Apium graveolens var.杜尔塞。
 a cultivated form of a plant.:一种植物的栽培形式。
 a plant or animal which varies in some trivial respect from its immediate parent or type.:一种植物或动物，在某些微不足道的方面与其直接亲本或类型有所不同。
 variety |vəˈrʌɪɪti| Noun/:种类,品种,种类繁多
@@ -126,14 +126,14 @@ the centre offers a variety of leisure activities:the中心提供多种休闲活
 fifty varieties of fresh and frozen pasta:50种新鲜和冷冻意大利面
 
 a viscous secretion of some trees and shrubs that hardens on drying but is soluble in water, and from which adhesives and other products are made.:一些树木和灌木的粘性分泌物，干燥后会变硬，但可溶于水，制成粘合剂和其他产品。
-glue that is used for sticking paper or other light materials together.:glue，用于将纸张或其他轻质材料粘合在一起。
+glue that is used for sticking paper or other light materials together.:用于将纸张或其他轻质材料粘合在一起的胶水。
 a sticky secretion collecting in the corner of the eye.:粘稠的分泌物聚集在眼角。
 a gum tree, especially a eucalyptus.:一棵胶树，尤其是桉树。
 cover with gum or glue:用口香糖或胶水覆盖
 fasten with gum or glue:用口香糖或胶水固定
 clog up a mechanism and prevent it from working properly:阻塞一个机制并阻止它正常工作
 the firm area of flesh around the roots of the teeth in the upper or lower jaw:上颌或下颌牙根周围的硬肉区域
-chew (something) with toothless gums:chew（某物）有无牙牙龈
+chew (something) with toothless gums:用没牙的牙龈咀嚼（某物）
 genito-urinary medicine.:泌尿生殖医学。
 gum |ɡʌm| Noun/Residual/Verb/:胶,树胶,口香糖
 we gummed the photos on to our papers:我们把照片粘在我们的报纸上
@@ -173,7 +173,7 @@ you can save money if you're flexible about where your room is located:如果您
 
 by a notably large amount or to a notably large extent; greatly:明显大量或在很大程度上；大大
 considerably |kənˈsɪd(ə)rəbli| Adverb/:相当,相当大
-things have improved considerably over the last few years:things在过去几年里有了很大的改善
+things have improved considerably over the last few years:在过去的几年里，情况有了很大的改善
 
 in a way that achieves maximum productivity with minimum wasted effort or expense:以一种以最少的努力或费用实现最大生产力的方式
 in a well-organized and competent way:以有条理和称职的方式
@@ -188,7 +188,7 @@ an act of arriving or becoming visible:到达或变得可见的行为
 a process of coming into existence or use:产生或使用的过程
 appearance |əˈpɪərəns| Noun/:外貌,出现,外观
 she checked her appearance in the mirror:她检查了她在镜子里的样子
-she read it with every appearance of interest:she读了它的每一个感兴趣的外观
+she read it with every appearance of interest:她读了它的每一个感兴趣的外观
 he is well known for his television appearances:他以在电视上露面而闻名
 the sudden appearance of her daughter startled her:女儿的突然出现吓了她一跳
 the appearance of the railway:铁路的外观
@@ -203,7 +203,7 @@ hopeful and confident about the future:对未来充满希望和信心
 (of an estimate) unrealistically high:（估计的）不切实际的高
 optimistic |ˌɒptɪˈmɪstɪk| Adjective/:乐观的,看好
 the optimistic mood of the Sixties:六十年代的乐观情绪
-previous estimates of whale numbers may be wildly optimistic:previous对鲸鱼数量的估计可能过于乐观
+previous estimates of whale numbers may be wildly optimistic:先前对鲸鱼数量的估计可能过于乐观
 
 a piece of evidence or information used in the detection of a crime:用于侦破犯罪的证据或信息
 a fact or idea that serves to reveal something or solve a problem:用于揭示某事或解决问题的事实或想法
@@ -213,7 +213,7 @@ clue |kluː| Noun/Verb/:线索,提示
 police officers are still searching for clues:警方仍在寻找线索
 archaeological evidence can give clues about the past:考古证据可以提供关于过去的线索
 a long-pondered clue in a half-completed crossword:一个半完成的填字游戏中深思熟虑的线索
-Stella had clued her in about Peter:Stella向她介绍了Peter
+Stella had clued her in about Peter:斯特拉向她提供了关于彼得的线索
 
 intense sorrow, especially caused by someone's death:强烈的悲伤，尤其是因某人的死亡而引起的
 an instance or cause of intense sorrow:极度悲伤的事例或原因
@@ -243,21 +243,21 @@ the degree to which a substance or device opposes the passage of an electric cur
 a resistor or other circuit component which opposes the passage of an electric current.:电阻器或其他阻止电流通过的电路元件。
 resistance |rɪˈzɪst(ə)ns| Noun/:反抗,抵抗性,电阻,阻力,抵抗
 they displayed a narrow-minded resistance to change:他们对变革表现出狭隘的抵制
-government forces were unable to crush guerrilla-style resistance:government部队无法粉碎游击式抵抗
+government forces were unable to crush guerrilla-style resistance:政府军无法粉碎游击队式的抵抗
 he went underground and joined the resistance:他转入地下，加入抵抗运动
 some of us have a lower resistance to cold than others:我们中的一些人对寒冷的抵抗力比其他人低
-many insects show resistance to at least one chemical:many昆虫对至少一种化学物质表现出抗性
+many insects show resistance to at least one chemical:许多昆虫对至少一种化学物质表现出抗药性
 air resistance was reduced by streamlining:通过流线型降低空气阻力
 
 place or fix (equipment or machinery) in position ready for use:将（设备或机械）放置或固定到位以备使用
-load (software) into a computer:load（软件）到电脑
+load (software) into a computer:将（软件）载入计算机
 place (someone) in a new position of authority, especially with ceremony:将（某人）置于新的权威位置，尤其是在仪式上
 establish (someone) in a new place or condition:建立（某人）在一个新的地方或条件
 install |ɪnˈstɔːl| Verb/:安装,装
 we're planning to install a new shower:我们打算安装一个新的淋浴器
 you may want to install a new version of the program:你可能想安装一个新版本的程序
-he was installed as Prime Minister in 1966:he于1966年就任首相
-Ashley installed herself behind her table:Ashley坐在她的桌子后面
+he was installed as Prime Minister in 1966:他于1966年就任首相
+Ashley installed herself behind her table:阿什莉坐在她的桌子后面
 
 a solemn promise or undertaking:郑重的承诺或承诺
 a promise of a donation to charity:向慈善机构捐款的承诺
@@ -269,8 +269,8 @@ commit (a person or organization) by a solemn promise:commit（个人或组织�
 formally declare or promise that something is or will be the case:正式声明或承诺某事已经或将要发生
 solemnly undertake to do something:郑重承诺做某事
 undertake formally to give:承诺正式给予
-give as security on a loan:give作为贷款担保
-drink to the health of:drink为了健康
+give as security on a loan:提供贷款担保
+drink to the health of:为健康而饮
 pledge |plɛdʒ| Noun/Verb/:保证,承诺
 appeals for emergency relief met with pledges totalling £250,000,000:呼吁紧急救济，得到总额为250,000,000英镑的认捐
 she persuaded Arthur to take the pledge:她说服亚瑟接受承诺
@@ -279,7 +279,7 @@ I have no intention of giving you anything that could be held against me as a pl
 the government pledged itself to deal with environmental problems:政府承诺解决环境问题
 the Prime Minister pledged that there would be no increase in VAT:总理承诺不会增加增值税
 they pledged to continue the campaign for funding:他们承诺继续筹款活动
-Japan pledged $100 million in humanitarian aid:Japan承诺提供1亿美元的人道主义援助
+Japan pledged $100 million in humanitarian aid:日本承诺提供1亿美元的人道主义援助
 the creditor to whom the land is pledged:土地质押的债权人
 in his hand a sculptured goblet, as he pledged the merchant kings:他手里拿着一个雕刻的高脚杯，他向商人国王许诺
 

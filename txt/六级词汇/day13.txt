@@ -32,9 +32,9 @@ deprive						剥夺
 generous						慷慨的，丰厚的
 \\\\
 
-put (someone or something) at risk or in danger:put(someoneorsomething)atrisk或indanger
+put (someone or something) at risk or in danger:使（某人或某物）处于危险或危险之中
 endanger |ɪnˈdeɪn(d)ʒə| Verb/:,危及,威胁
-he was driving in a manner likely to endanger life:he以可能危及生命的方式驾驶
+he was driving in a manner likely to endanger life:他以可能危及生命的方式驾驶
 
 the possibility or likelihood of some future event occurring:某些未来事件发生的可能性或可能性
 a mental picture of a future or anticipated event:未来或预期事件的心理画面
@@ -48,9 +48,9 @@ prospect |ˈprɒspɛkt| Noun/Verb/:展望,前景,勘探
 there was no prospect of a reconciliation:没有和解的希望
 moving to a new home a long distance away can be a worrying prospect:搬到很远的新家可能是一个令人担忧的前景
 the poor prospects for the steel industry:钢铁行业前景不佳
-Norwich's unbeaten heavyweight prospect:Norwich不败的重量级前景
+Norwich's unbeaten heavyweight prospect:诺维奇的不败重量级前景
 additional exploration prospects have been identified in this area:在该地区已确定其他勘探前景
-a viewpoint commanding a magnificent prospect of the estuary:aviewpoint俯瞰河口的壮丽景色
+a viewpoint commanding a magnificent prospect of the estuary:俯瞰河口壮丽景色的观景台
 the company is also prospecting for gold:公司也在找金矿
 many charities are prospecting for new donors:许多慈善机构正在寻找新的捐助者
 
@@ -58,17 +58,17 @@ recognize or find out:认识或找出
 distinguish (someone or something) with difficulty by sight or with the other senses:用视觉或其他感官难以区分（某人或某物）
 discern |dɪˈsəːn| Verb/:,识别,分辨
 I can discern no difference between the two policies:我看不出这两种政策有什么区别
-she could faintly discern the shape of a skull:she可以隐约辨别出头骨的形状
+she could faintly discern the shape of a skull:她可以隐约辨别出头骨的形状
 
-of, by, or appropriate to a law court or judge, relating to the administration of justice:of,by,orappropriatetoalawcourtorjudge,与司法有关
+of, by, or appropriate to a law court or judge, relating to the administration of justice:属于、由或适用于法院或法官的，与司法行政有关的
 judicial |dʒʊˈdɪʃl| Adjective/:司法,司法的,审判的
 a judicial inquiry into the allegations:对指控进行司法调查
 
-weaken or damage (something, especially a faculty or function):weaken或damage（某物，尤其是能力或功能）
+weaken or damage (something, especially a faculty or function):削弱或损坏（某物，尤指能力或功能）
 impair |ɪmˈpɛː| Verb/:妨害,削弱,损害
 a noisy job could permanently impair their hearing:嘈杂的工作可能会永久性地损害他们的听力
 
-a roadside hotel designed primarily for motorists, typically having the rooms arranged in low blocks with parking directly outside.:aroadsidehotelprimarilydesignedformotors,typicallyhavingroomsarrangedinlowblocksandparkingiroundoutside。
+a roadside hotel designed primarily for motorists, typically having the rooms arranged in low blocks with parking directly outside.:主要为驾驶者设计的路边旅馆，通常将房间安排在低矮的街区，停车场就在外面。
 motel |məʊˈtɛl| Noun/:汽车旅馆,旅店
 
 a gesture, action, or sound that is used to convey information or instructions, typically by prearrangement between the parties concerned:用于传达信息或指示的手势、动作或声音，通常由有关各方预先安排
@@ -77,8 +77,8 @@ an event or statement that provides the impulse for an occurrence:为事件提�
 a prearranged convention of bidding or play intended to convey information to one's partner.:预先安排好的竞标或游戏约定，旨在向对方传达信息。
 an electrical impulse or radio wave transmitted or received:发送或接收的电脉冲或无线电波
 an apparatus on a railway, typically a coloured light or a semaphore, giving indications to train drivers of whether or not the line is clear:铁路上的一种装置，通常是彩色灯或信号灯，向火车司机指示线路是否畅通
-convey information or instructions by means of a gesture, action, or sound:conveyinformationorinstructionsbyagesture,action,orsound
-instruct (someone) to do something by means of gestures or signs:instruct（某人）通过手势或手势做某事
+convey information or instructions by means of a gesture, action, or sound:通过手势、动作或声音传达信息或指令
+instruct (someone) to do something by means of gestures or signs:用手势或手势指示（某人）做某事
 (of a cyclist, motorist, or vehicle) indicate an intention to turn in a specified direction using an extended arm or flashing indicator:（骑自行车的人、驾车者或车辆的）使用伸出的手臂或闪烁的指示灯表示有意向指定方向转弯
 indicate the existence or occurrence of (something) by actions or sounds:通过动作或声音表示（某物）的存在或发生
 striking in extent, seriousness, or importance, outstanding:在范围、严肃性或重要性上引人注目，杰出
@@ -89,11 +89,11 @@ the champion's announcement that he was retiring was the signal for scores of jo
 equipment for receiving TV signals:接收电视信号的设备
 the driver of the mail train overran a signal at danger and ran into the rear of an express:邮车司机危险地冲过信号灯，撞到快车尾部
 hold your fire until I signal:在我发出信号之前不要开火
-she signalled Charlotte to be silent:she示意夏洛特保持沉默
-the Community could signal displeasure by refusing to cooperate:theCommunity可以通过拒绝合作来表达不满
-their signal failure to achieve a satisfactory solution to the problem:theirsignalfailure问题达成圆满解决
+she signalled Charlotte to be silent:她示意夏洛特保持沉默
+the Community could signal displeasure by refusing to cooperate:社区可以通过拒绝合作来表达不满
+their signal failure to achieve a satisfactory solution to the problem:他们的信号未能达到令人满意的问题解决方案
 
-treatment intended to relieve or heal a disorder:treatment旨在缓解或治愈疾病
+treatment intended to relieve or heal a disorder:旨在缓解或治愈疾病的治疗
 the treatment of mental conditions by verbal communication and interaction:通过言语交流和互动治疗精神疾病
 therapy |ˈθɛrəpi| Noun/:,疗法
 a course of antibiotic therapy:一个疗程的抗生素治疗
@@ -108,12 +108,12 @@ our company is an equal opportunity employer committed to hiring a diverse workf
 protect (something, especially something of environmental or cultural importance) from harm or destruction:保护（某物，尤指具有环境或文化重要性的东西）免受伤害或破坏
 prevent the wasteful overuse of (a resource):防止浪费地过度使用（资源）
 maintain (a quantity such as energy) at a constant overall total:保持（能量等量）总和不变
-retain (a particular amino acid, nucleotide, or sequence of these) unchanged in different protein or DNA molecules:retain（特定的氨基酸、核苷酸或它们的序列）在不同的蛋白质或DNA分子中保持不变
-preserve (fruit) with sugar.:preserve（水果）加糖。
+retain (a particular amino acid, nucleotide, or sequence of these) unchanged in different protein or DNA molecules:在不同的蛋白质或 DNA 分子中保留（特定的氨基酸、核苷酸或这些的序列）不变
+preserve (fruit) with sugar.:用糖腌制（水果）。
 a sweet food made by preserving fruit with sugar, jam or marmalade:用糖、果酱或果酱保存水果制成的甜食
 conserve |kənˈsəːv| Noun/Verb/:养护,保存,节约
 the funds raised will help conserve endangered meadowlands:筹集的资金将有助于保护濒临灭绝的草地
-industry should conserve more water:industry应该节约更多的水
+industry should conserve more water:工业应该节约更多的水
 the momentum of a system is conserved unless an external force acts on it:一个系统的动量是守恒的，除非有外力作用于它
 the adjacent sequence is conserved over large evolutionary distances:相邻序列在较大的进化距离上是保守的
 pork tenderloin with onion and raisin conserve:猪里脊配洋葱和葡萄干蜜饯
@@ -127,7 +127,7 @@ a three-part adaptation of Hard Times:艰难时期的三部曲改编
 living in groups is an adaptation to increase the efficiency of hunting:群居是提高狩猎效率的一种适应
 
 
-withstand the action or effect of:withstand的动作或效果
+withstand the action or effect of:承受的作用或影响
 try to prevent by action or argument:try通过行动或争论来阻止
 struggle or fight back when pressured or attacked:在受到压力或攻击时进行斗争或反击
 refrain from doing or having (something tempting or unwise):避免做或拥有（诱人或不明智的事情）
@@ -135,7 +135,7 @@ a resistant substance applied as a coating to protect a surface during a process
 resist |rɪˈzɪst| Noun/Verb/:抵抗,抗,抵制,抗拒
 antibodies help us to resist infection:抗体帮助我们抵抗感染
 we will continue to resist changes to the treaty:我们将继续抵制对条约的修改
-he didn't resist despite the weapons he had:hedidn'tresist尽管他有武器
+he didn't resist despite the weapons he had:尽管他有武器，他也没有反抗
 I couldn't resist buying the blouse:我忍不住买了这件衬衫
 new lithographic techniques require their own special resists:新的光刻技术需要他们自己的特殊抗蚀剂
 
@@ -147,17 +147,17 @@ she convinced my father to branch out on his own:她说服我父亲自己开店
 
 
 a load, typically a heavy one.:负载，通常是重负载。
-a duty or misfortune that causes worry, hardship, or distress:adutyormisfortthatcausesworry,hardship,ordistress
+a duty or misfortune that causes worry, hardship, or distress:导致忧虑、困难或痛苦的责任或不幸
 the main responsibility for achieving a specified aim or task:实现特定目标或任务的主要责任
 a ship's carrying capacity, tonnage:船舶的载重量，吨位
 the main theme or gist of a speech, book, or argument.:演讲、书籍或论点的主题或要点。
 the refrain or chorus of a song.:歌曲的副歌或副歌。
 load heavily:重负荷
-cause (someone) worry, hardship, or distress:cause(someone)担心、困难或困扰
+cause (someone) worry, hardship, or distress:使（某人）担心、困难或痛苦
 burden |ˈbəːdn| Noun/Verb/:负担,使烦恼,担子
 the tax burden on low-wage earners:低收入者的税收负担
 the burden of establishing that the authority had misused its powers rests upon the prosecution:确定当局滥用权力的责任在于检方
-the schooner Wyoming, of about 6,000 tons burden:theschoonerWyoming，载重约6000吨
+the schooner Wyoming, of about 6,000 tons burden:怀俄明号帆船，载重约 6,000 吨
 she walked forwards burdened with a wooden box:她背着木箱往前走
 they were not yet burdened with adult responsibility:他们还没有背负成人的责任
 
@@ -167,20 +167,20 @@ payroll |ˈpeɪrəʊl| Noun/:工资单,工资
 there are just three employees on the payroll:工资单上只有三名员工
 small employers with a payroll of less than £45,000:工资单低于45,000英镑的小型雇主
 
-made uniform or whole, united:madeuniformorwhole,统一
+made uniform or whole, united:统一的或整体的，统一的
 unified |ˈjuːnɪfʌɪd| Adjective/:统一,统一的,统合
 a unified system of national education:统一的国民教育体系
 
 be quick to do something:快点做某事
 move or travel hurriedly:匆忙移动或旅行
-cause (something, especially something undesirable) to happen sooner than it otherwise would:cause（某事，尤其是不受欢迎的事情）比其他方式更早发生
+cause (something, especially something undesirable) to happen sooner than it otherwise would:导致（某事，尤指不受欢迎的事情）比其他情况发生得更快
 hasten |ˈheɪsn| Verb/:趋,赶紧,赶快,快点
-he hastened to refute the assertion:he赶紧反驳这个说法
+he hastened to refute the assertion:他赶紧反驳这个说法
 we hastened back to Paris:我们赶回巴黎
 this tragedy probably hastened his own death from heart disease:这场悲剧可能加速了他自己死于心脏病
 
-twist or twine together:twist或twine在一起
-connect or link (two or more things) closely:connectorlink(两个或多个事物)closely
+twist or twine together:拧在一起
+connect or link (two or more things) closely:紧密连接或链接（两个或多个事物）
 intertwine |ˌɪntəˈtwʌɪn| Verb/:交织在一起,缠绕
 as with most traditions, fact and fiction have become inextricably intertwined:与大多数传统一样，事实和虚构已经密不可分地交织在一起
 
@@ -193,11 +193,11 @@ any language must accommodate new concepts:任何语言都必须适应新概念
 making users accommodate to the realities of today's marketplace:让用户适应当今市场的现实
 
 (of a medical practitioner) advise and authorize the use of (a medicine or treatment) for someone, especially in writing:（医生的）建议和授权某人使用（药物或治疗），尤其是书面形式
-recommend (a substance or action) as something beneficial:recommend（物质或行动）作为有益的东西
-state authoritatively or as a rule that (an action or procedure) should be carried out:stateauthoritativelyorasarulethat(actionorprocedure)shouldbecarried
+recommend (a substance or action) as something beneficial:推荐（一种物质或行为）作为有益的东西
+state authoritatively or as a rule that (an action or procedure) should be carried out:权威地或作为规则声明（行动或程序）应该执行
 prescribe |prɪˈskrʌɪb| Verb/:规定,开处方
 her doctor prescribed sleeping tablets:her医生开了安眠药
-marriage is often prescribed as a universal remedy:marriage通常被规定为一种普遍的补救措施
+marriage is often prescribed as a universal remedy:婚姻通常被规定为一种普遍的补救措施
 rules prescribing five acts for a play are purely arbitrary:规则规定一出戏五幕纯属武断
 
 the action of building something, typically a large structure:建造某物的动作，通常是大型结构
@@ -211,13 +211,13 @@ construction |kənˈstrʌkʃn| Noun/:建造,施工,建设
 there was a skyscraper under construction:那里正在建设一座摩天大楼
 50,000 more jobs will go from construction:50,000个工作岗位将从建筑业消失
 the mill is of brick construction:工厂是砖结构的
-the central waterway was a spectacular construction:thecentralwaterway是一个壮观的建筑
-language plays a large part in our construction of reality:language在我们构建现实中起着很大的作用
+the central waterway was a spectacular construction:中央水道是一个壮观的建筑
+language plays a large part in our construction of reality:语言在我们构建现实中起着很大的作用
 you could put an honest construction upon their conduct:你可以对他们的行为进行诚实的解释
 sentence construction:句子结构
 
-suffer (something painful or difficult) patiently:suffer（痛苦或困难的事情）耐心地
-remain in existence, last:remaininexistence，最后
+suffer (something painful or difficult) patiently:耐心地忍受（痛苦或困难的事情）
+remain in existence, last:保持存在，最后
 endure |ɪnˈdjʊə| Verb/:忍受,挨,忍,承受,忍耐
 it seemed impossible that anyone could endure such pain:似乎不可能有人能忍受这样的痛苦
 these cities have endured through time:这些城市经久不衰
@@ -237,8 +237,8 @@ the jury returned unanimous guilty verdicts:陪审团一致作出有罪判决
 the exhibition was juried by a nationally acclaimed artist:展览由一位享誉全国的艺术家担任评审
 we need to get that jury rudder fixed:我们需要修复陪审团的方向舵
 
-high renown or honour won by notable achievements:highrenownorhonorwonby显着的成就
-magnificence or great beauty:magnificence或伟大的美丽
+high renown or honour won by notable achievements:以显着的成就获得的崇高声誉或荣誉
+magnificence or great beauty:辉煌或伟大的美丽
 a thing that is beautiful, impressive, or worthy of praise:一件美丽的、令人印象深刻的或值得赞美的事
 the splendour and bliss of heaven:天堂的辉煌和幸福
 praise, worship, and thanksgiving offered to a deity.:向神灵献上赞美、敬拜和感恩。
@@ -249,12 +249,12 @@ the train has been restored to all its former glory:火车已经恢复了昔日�
 the glories of Paris:巴黎的荣耀
 images of Christ in glory:荣耀中基督的形象
 
-join, fasten, or repair (something) by making stitches with a needle and thread or a sewing machine:join,fasten,orrepair(something)bymakingstitchingwithaneedleandthreeora缝纫机
-attach (something) to something else by sewing:attach(something)tosomethingelse通过缝纫
+join, fasten, or repair (something) by making stitches with a needle and thread or a sewing machine:用针和线或缝纫机缝合、固定或修理（某物）
+attach (something) to something else by sewing:通过缝纫将（某物）附着在其他东西上
 make (a garment) by sewing:缝制（一件衣服）
 sew |səʊn| Verb/:缝,缝纫,缝合
-she sewed the seams and hemmed the border:she缝合接缝并包边
-she could sew the veil on properly in the morning:she可以在早上把面纱缝好
+she sewed the seams and hemmed the border:她缝合接缝并包边
+she could sew the veil on properly in the morning:她可以在早上把面纱缝好
 the two sisters sewed their own dresses:两姐妹自己缝衣服
 
 an area or portion that is distinct from others:与其他区域或部分不同的区域或部分
@@ -267,19 +267,19 @@ sector |ˈsɛktə| Noun/:部门,扇区
 operations in the southern sector of the North Sea:北海南部地区的行动
 the government aimed to reassure the industrial and commercial sector:政府旨在安抚工商界
 
-risky, dangerous:risky,危险的
+risky, dangerous:
 hazardous |ˈhazədəs| Adjective/:危险的,有害的
 we work in hazardous conditions:我们在危险条件下工作
 
-prevent (a person or place) from having or using something:prevent（一个人或地方）拥有或使用某物
-depose (someone, especially a member of the clergy) from office:depose（某人，尤其是神职人员）下台
+prevent (a person or place) from having or using something:阻止（某人或地方）拥有或使用某物
+depose (someone, especially a member of the clergy) from office:罢免（某人，尤指神职人员）的职务
 deprive |dɪˈprʌɪv| Verb/:剥夺,让
 the city was deprived of its water supplies:城市被剥夺了供水
 the Archbishop deprived a considerable number of puritan clergymen:大主教剥夺了相当数量的清教教士
 
 showing a readiness to give more of something, especially money, than is strictly necessary or expected:表示愿意付出比绝对必要或预期更多的东西，尤其是金钱
 showing kindness towards others:善待他人
-(of a thing) larger or more plentiful than is usual or necessary:(ofathing)比通常或必要的更大或更丰富
+(of a thing) larger or more plentiful than is usual or necessary:（事物的）比通常或必要的更大或更丰富
 generous |ˈdʒɛn(ə)rəs| Adjective/:慷慨的,慷慨,大方
 a generous benefactor to the University:大学的慷慨捐助者
 a generous assessment of his work:对他工作的慷慨评价

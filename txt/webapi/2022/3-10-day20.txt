@@ -34,11 +34,11 @@ valid					有效的，合理的
 keep safe or rescue (someone or something) from harm or danger:保持安全或拯救（某人或某物）免受伤害或危险
 prevent (someone) from dying:防止（某人）死亡
 (in Christian use) preserve (a person's soul) from damnation:（在基督教中使用）保护（一个人的灵魂）免受诅咒
-keep (someone) in health (used in exclamations and formulaic expressions):keep（某人）健康（用于感叹词和公式表达）
-keep and store up (something, especially money) for future use:keep并储存起来（一些东西，尤其是钱）以备将来使用
-preserve (something) by not expending or using it:preserve（某物）不消耗或不使用它
+keep (someone) in health (used in exclamations and formulaic expressions):保持（某人）健康（用于感叹词和公式化表达）
+keep and store up (something, especially money) for future use:保留并储存（某物，尤其是金钱）以备将来使用
+preserve (something) by not expending or using it:通过不花费或不使用来保存（某物）
 stop talking:停止说话
-keep (data) by moving a copy to a storage location:keep（数据）通过将副本移动到存储位置
+keep (data) by moving a copy to a storage location:通过将副本移动到存储位置来保留（数据）
 avoid the need to use up or spend (money, time, or other resources):避免用尽或花费（金钱、时间或其他资源）的需要
 avoid, lessen, or guard against:避免、减少或防范
 prevent an opponent from scoring (a goal or point) in a game or from winning (the game):防止对手在比赛中得分（进球或得分）或获胜（比赛）
@@ -47,21 +47,21 @@ prevent an opponent from scoring (a goal or point) in a game or from winning (th
 (in soccer and hockey) an act of preventing an opponent's scoring:（在足球和曲棍球中）阻止对手得分的行为
 an instance of preserving a winning position gained by another pitcher.:保持另一位投手获得的获胜位置的实例。
 an act of saving data to a storage location.:将数据保存到存储位置的行为。
-other than, except for:other除了，除了
+other than, except for:除了，除了
 except:除了
 save |seɪv| Conjunction/Noun/Preposition/Verb/:保存,节省,救球,除了,救
 they brought him in to help save the club from bankruptcy:他们带他来帮助俱乐部免于破产
 the doctors did everything they could to save him:医生们竭尽全力拯救他
-church ladies approach me trying to save my soul:church女士们接近我试图拯救我的灵魂
+church ladies approach me trying to save my soul:教会女士接近我试图拯救我的灵魂
 God save the Queen:上帝保佑女王
 she had never been able to save much from her salary:她从来没能从她的薪水中节省多少
 save your strength till later:把你的力量留到以后
-save it, Joey—I'm in big trouble now:saveit，乔伊——我现在有大麻烦了
+save it, Joey—I'm in big trouble now:救救它，乔伊——我现在有大麻烦了
 this approach saves wear and tear on the books:这种方法可以节省书籍的磨损
 the powerful German saved three match points:强大的德国人挽救了三个赛点
 the keeper made a great save:门将做出精彩扑救
 no one needed to know save herself:没有人需要知道救自己
-little is known of his early life, save that he went to school in Brighton:little知道他的早年生活，除了他在布莱顿上学
+little is known of his early life, save that he went to school in Brighton:除了他在布莱顿上学外，人们对他的早年生活知之甚少
 
 save up | 存起来,节省,省着,攒钱
 
@@ -69,9 +69,9 @@ save up | 存起来,节省,省着,攒钱
 
 
 
-receive (money, property, or a title) as an heir at the death of the previous holder:receive（金钱、财产或头衔）作为前任持有人去世时的继承人
-derive (a quality, characteristic, or predisposition) genetically from one's parents or ancestors.:derive（品质、特征或倾向）遗传自父母或祖先。
-receive or be left with (a situation, object, etc.) from a predecessor or former owner:receive或留下前任或前任所有者的（情况、对象等）
+receive (money, property, or a title) as an heir at the death of the previous holder:在前任持有人去世时作为继承人获得（金钱、财产或头衔）
+derive (a quality, characteristic, or predisposition) genetically from one's parents or ancestors.:从一个人的父母或祖先遗传而来的（品质、特征或倾向）。
+receive or be left with (a situation, object, etc.) from a predecessor or former owner:从前任或前任所有者那里收到或留下（情况、物品等）
 come into possession of (belongings) from someone else:从别人那里得到（财物）
 come into possession of (something) as a right (especially in biblical translations and allusions):作为权利拥有（某物）（尤其是在圣经翻译和典故中）
 inherit |ɪnˈhɛrɪt| Verb/:继承,传承
@@ -88,7 +88,7 @@ cause (something):导致（某事）
 occasion |əˈkeɪʒn| Noun/Verb/:场合,时机
 on one occasion I stayed up until two in the morning:有一次我熬夜到凌晨两点
 she was presented with a gold watch to mark the occasion:她被赠送了一块金表来纪念这一时刻
-by-elections are traditionally an occasion for registering protest votes:by-elections传统上是登记抗议选票的场合
+by-elections are traditionally an occasion for registering protest votes:传统上，补选是登记抗议选票的场合
 something vital must have occasioned this visit:一些重要的东西一定引起了这次访问
 
 the ability to assess and initiate things independently:独立评估和启动事物的能力
@@ -130,7 +130,7 @@ the production cost £50,000, most coming from local sponsors:制作成本为50,
 NBC found a sponsor willing to put the election up on prime time:NBC找到了愿意在黄金时段举行选举的赞助商
 a leading sponsor of the bill:该法案的主要发起人
 they act as sponsors and contacts for new immigrants:他们充当新移民的赞助商和联系人
-Paul has asked me to be his sponsor for confirmation next month:Paul要求我在下个月做他的赞助商
+Paul has asked me to be his sponsor for confirmation next month:保罗要求我下个月成为他的担保人以进行确认
 Joe is being sponsored by a government training scheme:Joe由政府培训计划赞助
 the event is sponsored by Cathay Pacific:该活动由国泰航空赞助
 she wishes to thank all those people who sponsored her:她要感谢所有赞助她的人
@@ -202,7 +202,7 @@ display |dɪˈspleɪ| Noun/Verb/:展示,陈列,显示
 the palace used to display a series of tapestries:宫殿曾经展示过一系列的挂毯
 pressing the F1 key will display a help screen:按F1键将显示帮助屏幕
 both players displayed a great deal of spirit:两位选手都表现出了极大的精神
-she photographed the peacock, which chose that moment to display:she拍摄了孔雀，选择了那个时刻来展示
+she photographed the peacock, which chose that moment to display:她拍摄了孔雀，选择了那个时刻来展示
 a display of fireworks:烟花汇演
 the museum houses an informative display of rocks:the博物馆收藏了丰富的岩石展示
 a hint of malice underlay his display of concern:一丝恶意掩盖了他的关心
@@ -212,18 +212,18 @@ the colour display now costs £400:彩色显示器现在售价400英镑
 the processing and display of high volumes of information:海量信息的处理和展示
 the user may wish to see the previous few words as handwriting before the display changes:用户可能希望在显示变化前看到前面几个字为笔迹
 
-bring and hand over (a letter, parcel, or goods) to the proper recipient or address:bring并将（信件、包裹或货物）交给适当的收件人或地址
-provide (something promised or expected):provide（承诺或预期的东西）
+bring and hand over (a letter, parcel, or goods) to the proper recipient or address:将（信件、包裹或货物）交给适当的收件人或地址
+provide (something promised or expected):提供（承诺或期望的东西）
 formally hand over (someone):正式移交（某人）
-surrender someone or something:surrender某人或某事
+surrender someone or something:交出某人或某物
 acknowledge that one intends to be bound by (a deed), either explicitly by declaration or implicitly by formal handover.:确认一个人打算受（契约）的约束，无论是明确的声明还是隐含的正式移交。
-launch or aim (a blow, ball, or attack):launch或瞄准（打击、球或攻击）
-state in a formal manner:state以正式的方式
+launch or aim (a blow, ball, or attack):发射或瞄准（一击、球或攻击）
+state in a formal manner:以正式的方式陈述
 (of a judge or court) give (a judgement or verdict):（法官或法院）作出（判决或裁决）
 assist in the birth of:协助诞生
 give birth to:生下
 assist (a woman) in giving birth:协助（妇女）分娩
-save, rescue, or set someone or something free from:save、rescue或将某人或某物从
+save, rescue, or set someone or something free from:拯救、营救或使某人或某物摆脱
 deliver |dɪˈlɪvə| Verb/:递送,交付,送达
 the products should be delivered on time:产品应准时交货
 he had been able to deliver votes in huge numbers:他已经能够提供大量选票
@@ -234,7 +234,7 @@ he will deliver a lecture on endangered species:他将就濒危物种发表演�
 the court was due to deliver its verdict:法院应作出判决
 the village midwife delivered the baby:村助产士接生
 the number of women delivering their babies in hospitals increased:在医院分娩的妇女人数增加
-Her Royal Highness The Duchess of Cambridge was safely delivered of a son at 4.24 p.m.:HerRoyalHighness剑桥公爵夫人于下午4点24分安全产下一个儿子。
+Her Royal Highness The Duchess of Cambridge was safely delivered of a son at 4.24 p.m.:剑桥公爵夫人殿下于下午 4 点 24 分安全产下一个儿子。
 deliver us from the nightmare of junk mail:把我们从垃圾邮件的噩梦中拯救出来
 
 surprise or impress (someone) greatly:惊喜或给（某人）留下深刻印象
@@ -253,16 +253,16 @@ the reception of information or entertainment by a mass audience:大众接受信
 a wasting disease, especially pulmonary tuberculosis:一种消耗性疾病，尤其是肺结核
 consumption |kənˈsʌm(p)ʃn| Noun/:消费,消耗,耗
 industrialized countries should reduce their energy consumption:工业化国家应减少能源消耗
-liquor is sold for consumption off the premises:liquor出售用于场外消费
+liquor is sold for consumption off the premises:出售酒类供场外消费
 a daily consumption of 15 cigarettes:每天消费15支香烟
 industry faced a serious challenge in trying to stimulate consumption:行业刺激消费面临严峻挑战
 his confidential speech was not meant for public consumption:他的机密演讲不适合公众消费
 his mother had died of consumption:他的母亲死于消费
 
-use (something) to bad effect or for a bad purpose, misuse:use(something)tobadeffectorforabadpurpose,misuse
+use (something) to bad effect or for a bad purpose, misuse:将（某物）用于不良效果或不良目的，滥用
 make excessive and habitual use of (alcohol or drugs, especially illegal ones):过度和习惯性地使用（酒精或药物，尤其是非法的）
 treat with cruelty or violence, especially regularly or repeatedly:以残忍或暴力对待，尤其是经常或反复
-assault (someone, especially a woman or child) sexually:assault（某人，尤其是妇女或儿童）性行为
+assault (someone, especially a woman or child) sexually:性侵犯（某人，尤其是妇女或儿童）
 masturbate.:手淫。
 use or treat in such a way as to cause damage or harm:以造成损害或伤害的方式使用或处理
 speak to (someone) in an insulting and offensive way:以侮辱和冒犯的方式与（某人）交谈
@@ -290,7 +290,7 @@ large in area:面积大
 covering a large number and wide scope of subjects:涵盖的学科数量多、范围广
 having a wide range of meanings or applications, loosely defined:具有广泛的含义或应用，定义松散
 including many people of many kinds:包括许多各种各样的人
-general, without detail:general，不详
+general, without detail:一般，无细节
 (of a hint) clear and unambiguous, not subtle:（暗示）清晰明确，不微妙
 (of a phonetic transcription) showing only meaningful distinctions in sound and ignoring minor details.:（音标）仅显示声音的有意义的区别，而忽略次要细节。
 somewhat coarse and indecent:有点粗俗和不雅
@@ -317,7 +317,7 @@ extending or reaching throughout the world:延伸或到达世界各地
 throughout the world:全世界
 worldwide |ˌwəːl(d)ˈwʌɪd| Adjective/Adverb/:全世界,全球范围内
 worldwide sales of television rights:全球电视版权销售
-she travels worldwide as a consultant:she作为顾问在世界各地旅行
+she travels worldwide as a consultant:她作为顾问在世界各地旅行
 
 demanding that rules concerning behaviour are obeyed and observed:要求遵守和遵守有关行为的规则
 (of a rule or discipline) demanding total obedience or observance, rigidly enforced:（规则或纪律）要求完全服从或遵守，严格执行
@@ -336,34 +336,34 @@ resources, capability:资源，能力
 means |miːnz| Noun/:方法,意思是,手段,意味着
 technology seen as a means to bring about emancipation:技术被视为实现解放的手段
 he came from a family of very modest means:他出身贫寒家庭
-exclusive hotels that are priced so that only people of means can stay:exclusive酒店的价格，只有有钱人才能入住
+exclusive hotels that are priced so that only people of means can stay:价格合理的独家酒店，只有有钱人才能入住
 every country in the world has the means to make ethanol:世界上每个国家都有制造乙醇的手段
 
-make (previously unknown or secret information) known to others:make（以前未知或秘密信息）为他人所知
+make (previously unknown or secret information) known to others:使（以前未知或秘密的信息）为他人所知
 cause or allow (something) to be seen:导致或允许（某事）被看到
-make (something) known to humans by divine or supernatural means:make(something)通过神圣或超自然的方式为人类所知
+make (something) known to humans by divine or supernatural means:通过神圣或超自然的方式使（某物）为人类所知
 (in a film or television programme) a final revelation of information that has previously been kept from the characters or viewers:（在电影或电视节目中）先前对角色或观众隐藏的信息的最终启示
 either side surface of an aperture in a wall for a door or window:门或窗墙上孔的任一侧面
 reveal |rɪˈviːl| Noun/Verb/:揭示,透露
-Brenda was forced to reveal Robbie's whereabouts:Brenda被迫透露Robbie的下落
+Brenda was forced to reveal Robbie's whereabouts:布伦达被迫透露罗比的下落
 the clouds were breaking up to reveal a clear blue sky:云层散开，露出湛蓝的天空
 the truth revealed at the Incarnation:化身时揭示的真相
 the big reveal at the end of the movie answers all questions:电影结尾的大揭秘回答所有问题
 the gate can be easily fitted to the face or reveal of a window or door aperture:门可以很容易地安装在窗户或门孔的正面或外露处
 
 establish the truth or correctness of (something previously believed or suspected to be the case):该组织已确认任命柯林斯先生为董事总经理
-state with assurance that a report or fact is true:state保证报告或事实是真实的
+state with assurance that a report or fact is true:保证报告或事实是真实的
 reinforce someone in (an opinion or feeling):加强某人的（意见或感觉）
-make (a provisional arrangement or appointment) definite:make（临时安排或任命）确定
-make (a decision or an agreement) formally valid:make（决定或协议）正式生效
-declare (someone) formally to be appointed to a particular post:declare（某人）正式被任命为特定职位
+make (a provisional arrangement or appointment) definite:使（临时安排或任命）明确
+make (a decision or an agreement) formally valid:使（决定或协议）正式生效
+declare (someone) formally to be appointed to a particular post:正式宣布（某人）被任命为特定职位
 administer the religious rite of confirmation to:管理宗教确认仪式
 confirm |kənˈfəːm| Verb/:,证实
 if these fears are confirmed, the outlook for the economy will be dire:如果这些担忧得到证实，经济前景将十分严峻
 two recent experiences have confirmed me in this view:最近的两次经历证实了我的这个观点
 Mr Baker's assistant telephoned to confirm his appointment with the chairman:贝克先生的助理打电话确认与主席的任命
 the organization has confirmed the appointment of Mr Collins as managing director:该组织已确认任命柯林斯先生为董事总经理
-he was confirmed as the new EC peace envoy:he被确认为新任欧共体和平特使
+he was confirmed as the new EC peace envoy:他被确认为新任欧共体和平特使
 he had been baptized and confirmed:他已受洗并被证实
 
 a general agreement:一般协议

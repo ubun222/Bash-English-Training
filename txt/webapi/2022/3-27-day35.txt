@@ -39,9 +39,9 @@ the arrangement of text, illustrations, etc. on a printed page:印刷页面上�
 a supplementary test or assignment given to a student who missed or failed the original one:给错过或未通过原始考试的学生的补充考试或作业
 make-up |ˈmeɪkʌp| Noun/:化妆品,弥补,化妆,补偿,妆容
 she came downstairs, her face still white under her heavy make-up:她下了楼，化了浓妆，脸还是白的
-ozone damages the cellular make-up of plants and trees:ozone破坏植物和树木的细胞组成
+ozone damages the cellular make-up of plants and trees:臭氧破坏植物和树木的细胞构成
 a curiously unexpected timidity in his make-up:他化妆中出人意料的胆怯
-page make-up:page化妆
+page make-up:页面构成
 I would have flunked the course but she let me write a make-up:我本来会不及格的，但她让我补课
 
 the action of reserving something:保留某物的动作
@@ -69,7 +69,7 @@ give one's full attention to a task, work hard:全神贯注，努力工作
 apply |əˈplʌɪ| Verb/:申请,应用,适用于
 you need to apply to the local authority for a grant:你需要向当地政府申请拨款
 she had applied for a number of positions:她申请了多个职位
-prices do not apply to public holiday periods:prices不适用于公共假期
+prices do not apply to public holiday periods:价格不适用于公共假期
 the oil industry has failed to apply appropriate standards of care:石油行业未能采用适当的护理标准
 the sealer can be applied to new wood:密封剂可用于新木材
 smooth over with a cloth, applying even pressure:用布抹平，施加均匀的压力
@@ -77,13 +77,13 @@ for two years, she applied herself to her studies with dedication:两年来，�
 
 give a practical exhibition and explanation of (how a machine, skill, or craft works or is performed):给出一个实际的展示和解释（机器、技能或工艺如何工作或被执行）
 clearly show the existence or truth of (something) by giving proof or evidence:通过提供证据或证据清楚地表明（某事）的存在或真实性
-show (a feeling or quality) by one's actions:show（一种感觉或品质）通过一个人的行动
+show (a feeling or quality) by one's actions:通过一个人的行为表现（一种感觉或品质）
 take part in a public demonstration:参加公开示威
 demonstrate |ˈdɛmənstreɪt| Verb/:证明,演示,表明,示范,显示
 computerized design methods will be demonstrated:计算机化设计方法将被演示
 their shameful silence demonstrates their ineptitude:他们可耻的沉默表明他们的无能
-she began to demonstrate a new-found confidence:she开始表现出新的自信
-thousands demonstrated against illegal deforestation:thousands示威反对非法砍伐森林
+she began to demonstrate a new-found confidence:她开始表现出新的自信
+thousands demonstrated against illegal deforestation:数千人示威反对非法砍伐森林
 
 all of the people born and living at about the same time, regarded collectively:所有在同一时间出生和生活的人，统称为
 the average period, generally considered to be about thirty years, in which children grow up, become adults, and have children of their own:平均时期，一般认为是三十年左右，孩子长大成人，有了自己的孩子
@@ -124,7 +124,7 @@ a solitary ancient in a tweed jacket:穿着粗花呢夹克的孤独古人
 
 profoundly immoral and wicked:非常不道德和邪恶
 (of a force or spirit) embodying or associated with the forces of the devil:（力量或精神的）体现或与魔鬼的力量有关
-harmful or tending to harm:harmful或倾向于伤害
+harmful or tending to harm:有害或趋于有害
 (of a smell or sight) extremely unpleasant:（气味或景象）极其不愉快
 profound immorality and wickedness, especially when regarded as a supernatural force:深刻的不道德和邪恶，尤其是当被视为超自然力量时
 a manifestation of profound immorality and wickedness, especially in people's actions:一种深刻的不道德和邪恶的表现，尤其是在人们的行为中
@@ -160,7 +160,7 @@ personal belongings:个人物品
 cause (something) to happen, bring about:导致（某事）发生，带来
 effect |ɪˈfɛkt| Noun/Verb/:影响,实现,效果,作用,效应
 the lethal effects of hard drugs:硬毒品的致命影响
-wind power can be used to great effect:windpower可以发挥很大的作用
+wind power can be used to great effect:风力可以发挥很大的作用
 the Renner effect:雷纳效应
 gentle music can have a soothing effect:温柔的音乐可以起到舒缓的作用
 the production relied too much on spectacular effects:制作过于依赖壮观的效果
@@ -175,7 +175,7 @@ in effect | 有效,实际上
 
 give all or most of one's time or resources to (a person or activity):将一个人的全部或大部分时间或资源给（一个人或一个活动）
 use a certain amount of space or time to cover (a topic):使用一定的空间或时间来覆盖（一个话题）
-invoke or pronounce a curse upon:invoke或咒骂
+invoke or pronounce a curse upon:调用或发出诅咒
 devote |dɪˈvəʊt| Verb/:奉献,致力于
 I wanted to devote more time to my family:我想把更多的时间花在我的家人身上
 a full page is devoted to each ski run:一个完整的页面专门用于每次滑雪
@@ -189,19 +189,19 @@ furniture or fittings:家具或配件
 appointment |əˈpɔɪntm(ə)nt| Noun/:约定,预约,任命,约会
 she made an appointment with my receptionist:她约了我的接待员
 prior to her appointment as CEO, she served as the company's chief financial officer:在被任命为首席执行官之前，她曾担任公司的首席财务官
-she took up an appointment as head of communications:she被任命为通讯主管
+she took up an appointment as head of communications:她被任命为通讯主管
 government ministers and other political appointments are frequently replaced:government部长和其他政治任命经常被替换
 the room was spartan in its appointments:房间的约会很简陋
 
 assign a job or role to (someone):将工作或角色分配给（某人）
-determine or decide on (a time or a place):determine或决定（时间或地点）
+determine or decide on (a time or a place):确定或决定（时间或地点）
 decree:法令
 decide the disposition of (property of which one is not the owner) under powers granted by the owner:决定根据所有者授予的权力处置（非所有者的财产）
 appoint |əˈpɔɪnt| Verb/:委,任命,委任,指定,指派
 she has been appointed to the board:她已被任命为董事会成员
 they appointed a day in May for the meeting:他们指定了五月的一天开会
 such laws are appointed by God:这样的法律是上帝指定的
-trustees appoint the capital to the beneficiaries:trustees指定资金给受益人
+trustees appoint the capital to the beneficiaries:受托人将资本指定给受益人
 
 well appointed | 设备齐全,布置得很好
 
@@ -214,10 +214,10 @@ resemble |rɪˈzɛmbl| Verb/:类似,像,相似
 some people resemble their dogs:有些人像他们的狗
 
 (of people) gather together in one place for a common purpose:(ofpeople)为一个共同的目的聚集在一个地方
-cause (people or things) to gather together for a common purpose:cause（人或事物）为了一个共同的目的而聚集在一起
+cause (people or things) to gather together for a common purpose:使（人或物）为了共同的目的聚集在一起
 (of male moths) gather for mating in response to a pheromone released by a female:（雄性飞蛾）聚集交配以响应雌性释放的信息素
 fit together the separate component parts of (a machine or other object):将（机器或其他物体）的单独组成部分组合在一起
-translate (a program) from a higher-level programming language into machine code:translate（一个程序）从高级编程语言到机器码
+translate (a program) from a higher-level programming language into machine code:将（程序）从高级编程语言翻译成机器码
 assemble |əˈsɛmbl| Noun/Verb/:集合,组装,装配
 a crowd had assembled outside the gates:a人群聚集在大门外
 he assembled the surviving members of the group for a tour:他召集幸存的团队成员进行巡回演出
@@ -234,12 +234,12 @@ the distance one can see as determined by light and weather conditions:由光线
 the degree to which something has attracted general attention, prominence:某事引起普遍关注的程度，突出
 visibility |ˌvɪzɪˈbɪlɪti| Noun/:能见度,可见性
 a reduction in police presence and visibility on the streets:减少警察在街上的存在和能见度
-visibility was down to 15 yards:visibility下降到15码
+visibility was down to 15 yards:能见度降至 15 码
 the issue began to lose its visibility:问题开始失去知名度
 
 unable to concentrate because one is preoccupied by something worrying or unpleasant:无法集中注意力，因为一个人全神贯注于令人担忧或不愉快的事情
 distracted |dɪˈstraktɪd| Adjective/:分心,愣,心烦意乱的
-Charlotte seemed too distracted to give him much attention:Charlotte似乎太心烦意乱，无法给予他太多关注
+Charlotte seemed too distracted to give him much attention:夏洛特似乎心不在焉，没怎么注意他
 
 a sum of money that is owed or due:一笔欠款或到期的款项
 the state of owing money:欠款状态
@@ -255,17 +255,17 @@ a sports player nominated as eligible to replace another after a match has begun
 a deputy:一名副手
 use or add in place of:使用或添加代替
 act or serve as a substitute:行动或担任替补
-replace (someone or something) with another:replace（某人或某事）与另一个
+replace (someone or something) with another:用另一个代替（某人或某物）
 replace (an atom or group in a molecule, especially a hydrogen atom) with another:用另一个替换（分子中的一个原子或基团，尤其是氢原子）
-replace (a sports player) with a substitute during a match:replace（运动员）在比赛中用替补队员
+replace (a sports player) with a substitute during a match:在比赛中用替补队员替换（运动员）
 substitute |ˈsʌbstɪtjuːt| Noun/Verb/:代替,替代品,替代,替换,取代
 soya milk is used as a substitute for dairy milk:豆浆作为牛奶的替代品
 a father substitute:父亲替补
-Stewart was the Rovers substitute:Stewart是流浪者的替补
+Stewart was the Rovers substitute:斯图尔特是流浪者队的替补
 a sheriff substitute:警长替补
 dried rosemary can be substituted for the fresh herb:干迷迭香可以代替新鲜香草
 I found someone to substitute for me:我找到了可以代替我的人
-customs officers substituted the drugs with another substance:customs官员用另一种物质代替了这些药物
+customs officers substituted the drugs with another substance:海关人员用另一种物质代替了这些药物
 three of the hydrogen atoms of the methane molecule have been substituted by chlorine, bromine or iodine atoms:三个甲烷分子的氢原子被氯、溴或碘原子取代
 he was substituted eleven minutes from time:他在11分钟后被换下
 
@@ -298,7 +298,7 @@ operating at or responding to a particular frequency:以特定频率运行或响
 selective |sɪˈlɛktɪv| Adjective/:可选择的,选择性的,有选择的
 the cow is the result of generations of selective breeding:这头奶牛是几代人选育的结果
 he is very selective in his reading:他的阅读很有选择性
-modern pesticides are more selective in effect:modern农药在效果上更具选择性
+modern pesticides are more selective in effect:现代杀虫剂在效果上更具选择性
 a new marine VHF radio with digital selective calling:一种带有数字选择性呼叫的新型船用甚高频无线电
 
 something, typically money, awarded to someone in recognition of loss, suffering, or injury:某物，通常是金钱，授予某人以表彰其损失、痛苦或伤害
@@ -336,7 +336,7 @@ a thing serving as security for a guarantee.:作为担保物的东西。
 provide a formal assurance, especially that certain conditions will be fulfilled relating to a product, service, or transaction:提供正式保证，尤其是与产品、服务或交易相关的某些条件将得到满足
 provide a guarantee for:提供保证
 provide financial security for, underwrite:提供财务担保，承保
-promise with certainty:promise有把握
+promise with certainty:坚定地承诺
 guarantee |ˌɡarənˈtiː| Noun/Verb/:保证,担保,保障,确保
 we offer a 10-year guarantee against rusting:我们提供10年防锈保证
 a degree is no guarantee of a fast-track career:a学位并不能保证快速的职业生涯

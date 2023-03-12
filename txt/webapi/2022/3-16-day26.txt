@@ -34,7 +34,7 @@ exaggerate							夸大
 a limiting condition or measure, especially a legal one:限制条件或措施，尤指合法的
 the limitation or control of someone or something, or the state of being restricted:对某人或某事的限制或控制，或被限制的状态
 restriction |rɪˈstrɪkʃn| Noun/:限制,限制条件
-planning restrictions on commercial development:planning对商业发展的限制
+planning restrictions on commercial development:商业开发的规划限制
 the restriction of local government power:地方政府权力的限制
 
 lesser in importance, seriousness, or significance:重要性、严肃性或重要性较小
@@ -51,19 +51,19 @@ the minor leagues in baseball or American football:棒球或美式足球的小�
 a student's subsidiary subject or course:学生的附属科目或课程
 a minor term or premise.:一个小术语或前提。
 a small drab moth which has purplish caterpillars that feed on grass.:一只单调的小飞蛾，有紫色的毛毛虫，以草为食。
-study as or qualify in a subsidiary subject at college or university:study作为或有资格在学院或大学的附属科目
+study as or qualify in a subsidiary subject at college or university:在学院或大学学习或获得附属学科的资格
 minor |ˈmʌɪnə| Adjective/Noun/Verb/:次要的,未成年人,次要
-she requested a number of minor alterations:she要求进行一些小改动
+she requested a number of minor alterations:她要求进行一些小改动
 the E flat clarinet sounds a minor third higher than the written notes:降E单簧管的声音比书面音符高三分之一
 Concerto in A minor:A小调协奏曲
 Smith minor:史密斯小调
 the court would take account of the minor's wishes:法院会考虑未成年人的意愿
-Salinas was one of six teams in the minors:Salinas是未成年人中的六支球队之一
+Salinas was one of six teams in the minors:萨利纳斯是未成年人的六支球队之一
 a minor in American Indian studies:美国印第安人研究未成年人
 a bid of two no trumps shows strength in the minors:两个无王牌的出价显示了未成年人的实力
 Clark had minored in Animal Science:Clark曾辅修动物科学
 
-wheat or any other cultivated cereal used as food.:wheat或任何其他用作食物的栽培谷物。
+wheat or any other cultivated cereal used as food.:用作食物的小麦或任何其他栽培谷物。
 the seeds of wheat or other cultivated cereals.:小麦或其他栽培谷物的种子。
 a single fruit or seed of a cereal:谷物的单一果实或种子
 a small hard particle of a substance such as salt or sand:盐或沙子等物质的小硬颗粒
@@ -80,9 +80,9 @@ a person's character or natural tendency.:一个人的性格或自然倾向。
 kermes or cochineal, or dye made from either of these.:kermes或胭脂虫红，或由其中任何一种制成的染料。
 give a rough surface or texture to:给一个粗糙的表面或纹理
 form into grains:形成颗粒
-paint (something, especially furniture or interior surfaces) in imitation of the grain of wood or marble:paint（某物，尤其是家具或内表面）模仿木头或大理石的纹理
-remove hair from (a hide).:removehairfrom(ahide).
-feed (a horse) on grain.:feed（一匹马）在谷物上。
+paint (something, especially furniture or interior surfaces) in imitation of the grain of wood or marble:仿木纹或大理石纹的油漆（某物，尤指家具或内表面）
+remove hair from (a hide).:从（兽皮）上取下毛发。
+feed (a horse) on grain.:用谷物喂（一匹马）。
 grain |ɡreɪn| Noun/Verb/:粮食,颗粒,谷物
 a few grains of corn:几粒玉米
 there wasn't a grain of truth in what he said:他说的一点儿也不真实
@@ -104,7 +104,7 @@ consider to be of a certain quality or standard:考虑具有一定的质量或�
 be regarded in a specified way:被指定对待
 have a high opinion of:对
 be worthy of, merit:值得，值得
-scold (someone) angrily:scold（某人）生气
+scold (someone) angrily:生气地责骂（某人）
 rate |reɪt| Noun/Verb/:,评估,率,速率,费率
 the island has the lowest crime rate in the world:该岛的犯罪率是世界上最低的
 the band is shedding vocalists at an alarming rate:乐队正在以惊人的速度流失歌手
@@ -112,9 +112,9 @@ a £3.40 minimum hourly rate of pay:a£3.40最低时薪
 you'll find our current interest rate very competitive:您会发现我们目前的利率非常有竞争力
 they were asked to rate their ability at different driving manoeuvres:他们被要求评估他们在不同驾驶动作中的能力
 the average life of the new bulb is rated at approximately 500 hours:新灯泡的平均寿命约为500小时
-Atkinson rates him as Europe's top defender:Atkinson将他评为欧洲顶级后卫
-Jeff still rates as one of the nicest people I have ever met:Jeff仍然是我见过的最好的人之一
-Mike certainly rated her, goodness knows why:Mike肯定评价过她，天知道为什么
+Atkinson rates him as Europe's top defender:阿特金森将他评为欧洲顶级后卫
+Jeff still rates as one of the nicest people I have ever met:杰夫仍然被评为我见过的最好的人之一
+Mike certainly rated her, goodness knows why:迈克肯定给她打分了，天知道为什么
 the ambassador rated a bulletproof car and a police escort:大使评价防弹车和警察护送
 he rated the young man soundly for his want of respect:他对这个年轻人的评价很高，因为他缺乏尊重
 
@@ -171,7 +171,7 @@ relating to a large company or group:与大公司或集团有关
 of or shared by all the members of a group:属于或由一个组的所有成员共享
 a corporate company or group.:企业公司或集团。
 corporate |ˈkɔːp(ə)rət| Adjective/Noun/:公司的,企业
-airlines are very keen on their corporate identity:airlines非常热衷于他们的企业形象
+airlines are very keen on their corporate identity:航空公司非常热衷于他们的企业形象
 local authorities, like other corporate bodies, may reduce capital spending:地方当局，与其他公司机构一样，可能会减少资本支出
 the service emphasizes the corporate responsibility of the congregation:服务强调会众的企业责任
 
@@ -226,7 +226,7 @@ a dependant, a hanger-on.:一个依赖，一个衣架。
 client |ˈklʌɪənt| Noun/:客户,顾客
 insurance tailor-made to a client's specific requirements:insurance根据客户的具体要求量身定制
 a client referred for counselling:a客户转介接受咨询
-workstation clients are going to be easy to install:workstation客户端将易于安装
+workstation clients are going to be easy to install:工作站客户端将易于安装
 friendly client programs like this enable you to perform complicated actions in just a mouse press or two:像这样友好的客户端程序使您只需按一两下鼠标就可以执行复杂的操作
 
 a building for housing a motor vehicle or vehicles:用于容纳机动车辆或车辆的建筑物
@@ -251,7 +251,7 @@ weaken (a metal or other material) by repeated variations of stress:weaken(一�
 fatigue |fəˈtiːɡ| Noun/Verb/:,疲倦
 he was nearly dead with fatigue:他快累死了
 buccinator and orbicularis oris muscles showing signs of fatigue:颊肌和口轮匝肌出现疲劳迹象
-votes were showing signs of election fatigue:votes显示出选举疲劳的迹象
+votes were showing signs of election fatigue:投票显示出选举疲劳的迹象
 metal fatigue:金属疲劳
 we're on cookhouse fatigues, sir:我们穿着厨房工作服，先生
 battle fatigues:战斗服
@@ -272,10 +272,10 @@ place a plant in the ground out of doors so it can grow, especially after growin
 bury (someone):bury(某人)
 set or place in a particular position:set或放置在特定位置
 establish (an idea) in someone's mind:在某人的脑海中建立（一个想法）
-secretly place (a bomb that is set to go off at a later time):secretlyplace（一个稍后会引爆的炸弹）
+secretly place (a bomb that is set to go off at a later time):秘密放置（炸弹稍后引爆）
 put or hide (something) among someone's belongings to compromise or incriminate the owner:put或隐藏（某物）在某人的财物中以损害或指控所有者
-send (someone) to join a group or organization to act as a spy or informer:send（某人）加入某个团体或组织，充当间谍或告密者
-found or establish (a colony, city, or community):found或建立（殖民地、城市或社区）
+send (someone) to join a group or organization to act as a spy or informer:派（某人）加入团体或组织充当间谍或告密者
+found or establish (a colony, city, or community):发现或建立（殖民地、城市或社区）
 deposit (young fish, spawn, oysters, etc.) in a river or lake.:deposit（幼鱼、鱼卵、牡蛎等）在河流或湖泊中。
 plant |plɑːnt| Noun/Verb/:植物,种植,厂,工厂
 garden plants:花园植物
@@ -289,9 +289,9 @@ it was raining when we planted him:我们种植他的时候正在下雨
 he planted himself squarely in front of her:他正直地站在她面前
 the seed of doubt is planted in his mind:怀疑的种子在他心中种下
 several incendiary devices were planted in stores:s几个燃烧装置被种植在商店里
-they maintained that the drugs had been planted on them:they坚称药物已被种植在他们身上
+they maintained that the drugs had been planted on them:他们坚称毒品是被种在他们身上的
 he managed to plant an agent in his war council:他设法在他的战争委员会中安插了一名特工
-he was commissioned to plant the order in England:he受委托在英国种植订单
+he was commissioned to plant the order in England:他受委托在英国种植订单
 
 put (someone or something) at risk or in danger:put（某人或某物）处于危险或危险中
 endanger |ɪnˈdeɪn(d)ʒə| Verb/:危害,危及,危在旦夕
@@ -314,9 +314,9 @@ the company is selling most of its commercial banking operations:该公司正在
 
 feel or manipulate with the hands:用手感觉或操作
 (chiefly in soccer) touch (the ball) with the hand or lower arm in contravention of the rules:（主要是足球）违反规则用手或下臂触摸（球）
-manage (a situation or problem):manage（情况或问题）
+manage (a situation or problem):管理（情况或问题）
 have commercial responsibility for:具有商业责任
-receive or deal in (stolen goods):receive或处理（被盗货物）
+receive or deal in (stolen goods):接收或交易（赃物）
 cope or deal with (someone or something):应付或处理（某人或某事）
 conduct oneself in a specified manner:行为规范
 defend oneself physically or verbally:在身体上或口头上为自己辩护
@@ -330,7 +330,7 @@ the feel of goods, especially textiles, when handled:货物的手感，尤其是
 the total amount of money bet over a particular time or at a particular event:特定时间或特定事件下注的总金额
 a large bottle in which spirits are sold, typically holding a half gallon:一个出售烈酒的大瓶子，通常装半加仑
 handle |ˈhandl| Noun/Verb/:处理,拉手,手柄,把手,柄
-heavy paving slabs can be difficult to handle:heavy铺路板可能难以处理
+heavy paving slabs can be difficult to handle:沉重的铺路石可能难以搬运
 he was sent off in the 84th minute for handling the ball:他在第84分钟因持球被红牌罚下
 a lawyer's ability to handle a case properly:律师妥善处理案件的能力
 the advertising company that is handling the account:处理该帐户的广告公司
@@ -344,7 +344,7 @@ a holdall with two carrying handles:一个带两个提手的手提包
 this analogy will help readers to get a handle on the concept:这个类比将帮助读者理解这个概念
 that's some handle for a baby:这是一个婴儿的把手
 she's changed her Twitter handle:她改变了她的推特账号
-fabrics with a softer handle:fabrics，手感更柔软
+fabrics with a softer handle:手感更柔软的面料
 the monthly handle of a couple of casinos in Las Vegas:拉斯维加斯几家赌场的月度处理
 a handle of Jim Beam:吉姆·比姆的手柄
 
@@ -358,7 +358,7 @@ requiring considerable time and effort:需要大量时间和精力
 (of speech or writing style) showing obvious signs of effort and lacking in fluency:（说话或写作风格）表现出明显的努力和不流利的迹象
 laborious |ləˈbɔːrɪəs| Adjective/:费力,吃力的
 years of laborious training:年的艰苦训练
-she wrote in laborious, dictionary-assisted English:she用繁琐的字典辅助英语写作
+she wrote in laborious, dictionary-assisted English:她用繁琐的字典辅助英语写作
 
 strong and barely controllable emotion:强烈而难以控制的情绪
 a state or outburst of strong emotion:强烈情绪的状态或爆发
@@ -373,7 +373,7 @@ a man of impetuous passion:一个热情奔放的人
 oratory in which he gradually works himself up into a passion:oratory，他在其中逐渐激发了自己的热情
 their all-consuming passion for each other:他们对彼此的全部热情
 the English have a passion for gardens:英国人对花园充满热情
-modern furniture is a particular passion of Bill's:modern家具是比尔的特别爱好
+modern furniture is a particular passion of Bill's:现代家具是 Bill 的特别爱好
 meditations on the Passion of Christ:对基督受难的沉思
 an aria from Bach's St Matthew Passion:巴赫《圣马太受难曲》中的咏叹调
 
@@ -394,14 +394,14 @@ bring about inflation of (a currency) or in (an economy):带来（一种货币�
 inflate |ɪnˈfleɪt| Verb/:,充气
 never use an air line on a garage forecourt to inflate your tyres:永远不要在车库前院使用空气管路给轮胎充气
 the mattress inflated:充气床垫
-objectives should be clearly set out so as not to duplicate work and inflate costs:objectives应明确列出，以免重复工作和增加成本
-numbers have been grossly inflated by the local press:numbers被当地媒体严重夸大了
-he has inflated the money supply to allow companies to continue in their old ways:he夸大了货币供应量，以使公司能够以旧的方式继续下去
+objectives should be clearly set out so as not to duplicate work and inflate costs:应明确设定目标，以免重复工作和增加成本
+numbers have been grossly inflated by the local press:当地媒体严重夸大了数字
+he has inflated the money supply to allow companies to continue in their old ways:他夸大了货币供应量，以使公司能够以旧的方式继续下去
 
 having the ability to find quick and clever ways to overcome difficulties:有能力找到快速聪明的方法来克服困难
 resourceful |rɪˈzɔːsf(ʊ)l| Adjective/:足智多谋,机智,资源丰富
-he maintained her reputation for being a resourceful problem-solver:he保持着她作为一个足智多谋的问题解决者的声誉
+he maintained her reputation for being a resourceful problem-solver:他保持着她作为一个足智多谋的问题解决者的声誉
 
-represent (something) as being larger, better, or worse than it really is:represent(something)比实际更大、更好或更差
+represent (something) as being larger, better, or worse than it really is:将（某物）表示为比实际情况更大、更好或更差
 exaggerate |ɪɡˈzadʒəreɪt| Verb/:夸大,夸张,言过其实,夸张的
 he was apt to exaggerate any aches and pains:他很容易夸大任何疼痛和痛苦

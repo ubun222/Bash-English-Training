@@ -42,17 +42,17 @@ his unique interpretation of the Liszt études:他对李斯特练习曲的独特
 
 the fact of having committed a specified or implied offence or crime:犯了特定或暗示的罪行或罪行的事实
 a feeling of having committed wrong or failed in an obligation:一种犯错或未履行义务的感觉
-make (someone) feel guilty, especially in order to induce them to do something:make（某人）感到内疚，尤其是为了诱使他们做某事
+make (someone) feel guilty, especially in order to induce them to do something:使（某人）感到内疚，尤指为了诱使他们做某事
 guilt |ɡɪlt| Noun/Verb/:有罪,内疚,负罪感
 it is the duty of the prosecution to prove the prisoner's guilt:证明犯人有罪是控方的职责
 he remembered with sudden guilt the letter from his mother that he had not yet read:他突然内疚地想起了他母亲的那封他还没有读过的信
-Celeste had been guilted into going by her parents:Celeste因被父母愧疚而去
+Celeste had been guilted into going by her parents:塞莱斯特 (Celeste) 被她的父母认罪
 
 the state of being connected or interconnected:连接或互联的状态
 capacity for the interconnection of platforms, systems, and applications:平台、系统、应用互联的能力
 connectivity |ˌkɒnɛkˈtɪvɪti| Noun/:连通性,互联
 the authorities worked at restoring connectivity between Puerto Rico and the US mainland after Hurricane Hugo:当局在雨果飓风过后致力于恢复波多黎各与美国大陆之间的连通性
-this allows connectivity between Sun and Mac platforms:this允许Sun和Mac平台之间的连接
+this allows connectivity between Sun and Mac platforms:这允许 Sun 和 Mac 平台之间的连接
 
 act or conduct oneself in a specified way, especially towards others:以特定的方式行事或行事，尤其是对他人
 (of a machine or natural phenomenon) work or function in a specified way:（机器或自然现象）以特定方式工作或发挥作用
@@ -93,7 +93,7 @@ a gambling game using two dice, in which the chances are complicated by arbitrar
 a stroke with which a ball is pocketed.:一个球入袋的击球。
 the pocketing of the cue ball off another ball.:母球从另一个球上落袋。
 the pocketing of the object ball.:目标球的口袋。
-say (something) in a tentative way:say(something)试探性的
+say (something) in a tentative way:试探性地说（某事）
 put (something) at risk of being lost:put（某物）有丢失的风险
 hazard |ˈhazəd| Noun/Verb/:冒险,风险,危险,危害
 the hazards of childbirth:分娩的危害
@@ -102,7 +102,7 @@ we can form no calculation concerning the laws of hazard:我们不能形成关�
 he hazarded a guess:他冒险猜测
 the cargo business is too risky to hazard money on:货运业务风险太大，不能冒险
 
-rate (something) insufficiently highly, fail to appreciate:rate(something)不够高，无法欣赏
+rate (something) insufficiently highly, fail to appreciate:评价（某事）不够高，未能欣赏
 underestimate the financial value of (something):低估（某物）的财务价值
 a price below the real value:低于实际价值的价格
 undervalue |ˌʌndəˈvaljuː| Noun/Verb/:低估,价值低估
@@ -120,7 +120,7 @@ of or denoting a physical quantity expressed in terms of a unit mass, volume, or
 a medicine or remedy effective in treating a particular disease or part of the body:一种对治疗特定疾病或身体部位有效的药物或补救措施
 a precise detail:一个精确的细节
 specific |spɪˈsɪfɪk| Adjective/Noun/:具体的,具体,特定
-savings were made by increasing the electricity supply only until it met specific development needs:savings是通过增加电力供应来实现的，直到满足特定的发展需求
+savings were made by increasing the electricity supply only until it met specific development needs:只有在满足特定发展需求时才增加电力供应，从而节省开支
 when ordering goods be specific:订货时要具体
 information needs are often very specific to individuals:信息需求通常因个人而异
 the differences between them can only be on the specific level:他们之间的差异只能在特定的层面上
@@ -139,7 +139,7 @@ the condition of being physically fit and healthy:身体健康状况良好
 an organism's ability to survive and reproduce in a particular environment:一个有机体在特定环境中生存和繁殖的能力
 the quality of being suitable to fulfil a particular role or task:适合完成特定角色或任务的品质
 fitness |ˈfɪtnɪs| Noun/:健康,健身,体能
-disease and lack of fitness are closely related:disease与缺乏体质息息相关
+disease and lack of fitness are closely related:疾病与体质不强密切相关
 if sharp teeth increase fitness, then genes causing teeth to be sharp will increase in frequency:如果锋利的牙齿增加健康，那么导致牙齿锋利的基因会增加频率
 the medical board assessed his fitness for active service:医疗委员会评估他是否适合现役
 
@@ -176,16 +176,16 @@ intended to resemble the appearance of high-quality old furniture:拟仿高品�
 belonging to ancient times:属于远古时代
 old-fashioned or outdated:老式或过时
 showing signs of great age or wear:显示年龄大或磨损的迹象
-make (something) resemble an antique by artificial means:make(something)用人工手段模仿古董
+make (something) resemble an antique by artificial means:用人工方法使（某物）像古董
 search or shop for antiques:搜索或购买古董
 antique |anˈtiːk| Adjective/Noun/Verb/:古董,古老的,古色古香的
-Pauline loves collecting antiques:Pauline喜欢收藏古董
+Pauline loves collecting antiques:Pauline 喜欢收集古董
 an antique clock:一个古董钟
 bookshelves with an antique finish:书架，仿古饰面
 statues of antique gods:古董神像
 antique work practices:古董工作实践
 the kitchen had an antique cooker:厨房有一个古董炊具
-sanding will change the lustre of the sanded spot, especially if the finish has been antiqued:sanding会改变打磨点的光泽，特别是如果饰面已经过仿古
+sanding will change the lustre of the sanded spot, especially if the finish has been antiqued:打磨会改变打磨点的光泽，特别是如果饰面经过仿古处理
 they went antiquing almost every weekend:他们几乎每个周末都去古董
 
 a traditional story, especially one concerning the early history of a people or explaining a natural or social phenomenon, and typically involving supernatural beings or events:一个传统故事，尤其是关于一个民族的早期历史或解释自然或社会现象的故事，通常涉及超自然的生物或事件
@@ -210,12 +210,12 @@ the government was reported to be considering military intervention:据报道政
 two patients were referred for surgical intervention:2名患者被转诊进行手术干预
 as her health worsened, her daughters considered staging an intervention:随着她的健康状况恶化，她的女儿们考虑进行干预
 
-find or discover by investigation:find或通过调查发现
+find or discover by investigation:通过调查发现或发现
 find or describe the origin or development of:查找或描述的起源或发展
 follow or mark the course or position of (something) with one's eye, mind, or finger:用眼睛、思想或手指跟随或标记（某物）的路线或位置
-take (a particular path or route):take（特定路径或路线）
-copy (a drawing, map, or design) by drawing over its lines on a superimposed piece of transparent paper:copy（绘图、地图或设计）通过在重叠的透明纸上绘制线条
-draw (a pattern or line), especially with one's finger or toe:draw（图案或线条），尤指用手指或脚趾
+take (a particular path or route):采取（特定路径或路线）
+copy (a drawing, map, or design) by drawing over its lines on a superimposed piece of transparent paper:通过在叠加的透明纸上绘制线条来复制（绘图、地图或设计）
+draw (a pattern or line), especially with one's finger or toe:画（图案或线条），尤指用手指或脚趾
 give an outline of:给出一个大纲
 a mark, object, or other indication of the existence or passing of something:一个标记、物体或其他表示某物存在或经过的迹象
 a line or pattern displayed by an instrument to show the existence or nature of something which is being recorded or measured.:由仪器显示的线条或图案，以显示正在记录或测量的事物的存在或性质。
@@ -228,14 +228,14 @@ a path or track.:一条路径或轨道。
 the sum of the elements in the principal diagonal of a square matrix.:方阵主对角线元素的总和。
 each of the two side straps, chains, or ropes by which a horse is attached to a vehicle that it is pulling:将马固定在其牵引的车辆上的两条侧带、链条或绳索中的每一个
 trace |treɪs| Noun/Verb/:痕迹,追溯,跟踪,追踪,踪迹
-police are trying to trace a white van seen in the area:police正试图追踪在该地区看到的一辆白色面包车
+police are trying to trace a white van seen in the area:警方正试图追踪在该地区看到的一辆白色面包车
 Bob's book traces his flying career with the RAF:Bob的书追溯了他在英国皇家空军的飞行生涯
 through the binoculars, I traced the path I had taken the night before:通过双筒望远镜，我追踪着前一天晚上走过的路
 a tear traced a lonely path down her cheek:一滴泪沿着她的脸颊划过一条孤独的路
 trace a map of the world on to a large piece of paper:将世界地图追踪到一张大纸上
 she traced a pattern in the dirt with the toe of her shoe:她用鞋尖在泥土上画了一个图案
 the article traces out some of the connections between education, qualifications, and the labour market:这篇文章追溯了教育、资格和劳动力市场之间的一些联系
-remove all traces of the old adhesive:remove所有旧粘合剂的痕迹
+remove all traces of the old adhesive:去除旧粘合剂的所有痕迹
 his body contained traces of amphetamines:他的身体含有苯丙胺的痕迹
 just a trace of a smile:只是一丝微笑
 we've got a trace on the call:我们在通话中找到了踪迹
@@ -245,16 +245,16 @@ a statement or action expressing disapproval of or objection to something:表示
 an organized public demonstration expressing strong objection to an official policy or course of action:一个有组织的公开示威，表达对官方政策或行动方针的强烈反对
 a written declaration, typically by a notary public, that a bill has been presented and payment or acceptance refused.:一份书面声明，通常由公证人作出，表明已提交汇票但拒绝付款或承兑。
 express an objection to what someone has said or done:表达对某人所说或所做的反对
-publicly demonstrate strong objection to an official policy or course of action:publicly强烈反对官方政策或行动方针
-declare (something) firmly and emphatically in response to doubt or accusation:declare（某事）坚定而有力地回应怀疑或指责
+publicly demonstrate strong objection to an official policy or course of action:公开表示强烈反对官方政策或行动方针
+declare (something) firmly and emphatically in response to doubt or accusation:坚定而强调地声明（某事）以回应怀疑或指责
 write or obtain a protest in regard to (a bill).:写或获得关于（法案）的抗议。
 protest |ˈprəʊtɛst| Noun/Verb/:,抗议,拒付
 the British team lodged an official protest:英国队正式提出抗议
-workers staged a protest over rising fuel prices:workers抗议燃油价格上涨
+workers staged a protest over rising fuel prices:工人们抗议燃油价格上涨
 before Muriel could protest, he had filled both glasses:穆里尔还没来得及抗议，他就把两个杯子都灌满了
 doctors and patients protested against plans to cut services at the hospital:医生和患者抗议削减医院服务的计划
 
-supply (a vehicle) with more fuel:supply（车辆）有更多燃料
+supply (a vehicle) with more fuel:为（车辆）提供更多燃料
 (of a vehicle) be supplied with more fuel:（车辆的）获得更多燃料
 refuel |ˌriːˈfjuːəl| Verb/:加油,燃料
 the authorities agreed to refuel the plane:当局同意为飞机加油
@@ -268,13 +268,13 @@ an act of playing the ball, or attempting to do so, when it is in the possession
 an act of seizing and attempting to stop a player in possession of the ball.:抢夺并试图阻止持球球员的行为。
 a player who lines up next to the end along the line of scrimmage.:一名球员，他在争球线的边上排成一列。
 make determined efforts to deal with (a problem or difficult task):下定决心去处理（一个问题或困难的任务）
-initiate discussion with (someone) about a disputed or sensitive issue:initiate与（某人）讨论有争议或敏感的问题
+initiate discussion with (someone) about a disputed or sensitive issue:与（某人）就有争议或敏感的问题发起讨论
 try to take the ball from (an opponent) by intercepting them:尝试通过拦截他们从（对手）手中接球
 try to stop the forward progress of (the ball carrier) by seizing them and knocking them to the ground:试图阻止（持球者）的前进，抓住他们并将他们击倒在地
 tackle |ˈtakl| Noun/Verb/:,用具,解决,铲球
 fishing tackle:钓具
 he was only prevented from scoring by a fine tackle:他只是被一次漂亮的铲球阻止了得分
-police have launched an initiative to tackle rising crime:police发起了一项应对犯罪率上升的倡议
+police have launched an initiative to tackle rising crime:警方已发起一项举措来应对不断上升的犯罪率
 a young man tackled him over why the council had spent money on a swimming pool:一个年轻人向他解释为什么议会在游泳池上花钱
 the first scoring chance came when Orrell tackled Webb:第一个得分机会来自奥雷尔铲倒韦伯
 
@@ -317,8 +317,8 @@ relations in the group were fine:群里关系很好
 anything you want is fine by me, Linda:任何你想要的我都可以，琳达
 ‘I'm fine, just fine. And you?’:‘我很好，很好。
 it was another fine winter day:这是又一个美好的冬日
-Donleavy was a fine figure of a man:Donleavy是一个很好的男人形象
-fine words seemed to produce few practical benefits:finewords似乎没有什么实际的好处
+Donleavy was a fine figure of a man:唐利维是个好人
+fine words seemed to produce few practical benefits:花言巧语似乎没有什么实际好处
 the coin is struck in .986 fine gold:硬币采用0.986纯金铸造
 a fine nylon thread:细尼龙线
 I sharpened the leads to a fine point:我把引线削尖
@@ -332,11 +332,11 @@ be a sign of, strongly suggest:成为的标志，强烈建议
 mention indirectly or briefly:间接或简短地提及
 direct attention to (someone or something) by means of a gesture:通过手势直接注意（某人或某物）
 (of a gauge or meter) register a reading of (a quantity, dimension, etc.):（量规或仪表）记录（数量、尺寸等）的读数
-suggest as a desirable or necessary course of action:suggest作为可取或必要的行动方案
+suggest as a desirable or necessary course of action:建议作为可取或必要的行动方案
 (of a driver or motor vehicle) signal an intention to change lanes or turn using an indicator:（驾驶员或机动车辆）使用指示器发出改变车道或转弯的意图
 indicate |ˈɪndɪkeɪt| Verb/:表明,表示,指出
 dotted lines indicate the text's margins:虚线表示文本的边距
-sales indicate a growing market for such art:sales表明此类艺术品的市场正在增长
+sales indicate a growing market for such art:销售表明此类艺术品的市场正在增长
 the president indicated his willingness to use force against the rebels:总统表示愿意对叛军使用武力
 he indicated Cindy with a brief nod of the head:他向Cindy点了点头
 an external tube is used to indicate fluid level:外管指示液位
@@ -349,7 +349,7 @@ give a fuller version or account of:给出更完整的版本或帐户
 become less reserved in character or behaviour:在性格或行为上变得不那么拘谨
 expand |ɪkˈspand| Verb/:扩张,扩大,扩展,拓展,展开
 the minister expanded on the government's proposals:部长扩展了政府的建议
-Alice opened and expanded in this normality:Alice在这种常态下打开和扩展
+Alice opened and expanded in this normality:爱丽丝在这种常态中打开并扩展
 
 performed or occurring as a result of a sudden impulse or inclination and without premeditation or external stimulus:由于突然的冲动或倾向而没有预谋或外部刺激而进行或发生
 having an open, natural, and uninhibited manner.:具有开放、自然、不羁的态度。
@@ -375,11 +375,11 @@ the film ends rather abruptly:电影结束的很突然
 she barely conceals her irritation and speaks briefly and abruptly to the woman:她几乎不掩饰自己的愤怒，简短而突然地对那个女人说话
 the forested terrain ascends abruptly:林地陡升
 
-convert (waste) into reusable material:convert（废物）转化为可重复使用的材料
-return (material) to a previous stage in a cyclic process:return（材料）到循环过程中的前一个阶段
+convert (waste) into reusable material:将（废物）转化为可重复使用的材料
+return (material) to a previous stage in a cyclic process:将（材料）返回到循环过程中的前一阶段
 use again:再次使用
 recycle |ˌriːˈsʌɪkl| Verb/:,循环利用
-car hulks were recycled into new steel:carhulks被回收成新钢材
+car hulks were recycled into new steel:车壳被回收制成新钢材
 the amino acids are recycled in the synthesis of other proteins:氨基酸在其他蛋白质的合成中被循环利用
 he reserves the right to recycle his own text:他保留回收他自己的文字的权利
 
@@ -391,8 +391,8 @@ roughly made or done, lacking sophistication:大致完成或完成，缺乏复�
 ignorant and uneducated:无知和未受过教育
 rude |ruːd| Adjective/:无礼,粗鲁的,粗鲁,无礼的
 she had been rude to her boss:她对她的老板很粗鲁
-Graham giggled at every rude joke:Graham对每一个粗鲁的笑话都咯咯地笑
+Graham giggled at every rude joke:格雷厄姆对每一个粗鲁的笑话都咯咯地笑
 the war came as a very rude awakening:战争是一个非常粗鲁的觉醒
-Isabel had always been in rude health:Isabel一直很健康
+Isabel had always been in rude health:伊莎贝尔身体一直很差
 a rude coffin:一个粗鲁的棺材
 the new religion was first promulgated by rude men:新宗教最早是由粗鲁的人颁布的

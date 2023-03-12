@@ -57,11 +57,11 @@ used in names of animals or plants resembling others familiar elsewhere, e.g. na
 designed for or built into a given system, especially denoting the language associated with a given processor, computer, or compiler, and programs written in it.:为给定系统设计或内置，尤其表示与给定处理器、计算机或编译器相关的语言，以及用它编写的程序。
 native |ˈneɪtɪv| Adjective/Noun/:本国的,本地人
 a native of Montreal:蒙特利尔人
-New York in the summer was too hot even for the natives:NewYork夏天对当地人来说也太热了
+New York in the summer was too hot even for the natives:夏天的纽约对当地人来说也太热了
 the marigold is a native of southern Europe:万寿菊原产于南欧
 he's a native New Yorker:他是土生土长的纽约人
 a ceremonial native dance from Fiji:来自斐济的仪式性本土舞蹈
-eagle owls aren't native to Britain:eagle猫头鹰不是英国本土的
+eagle owls aren't native to Britain:鹰鸮不是英国本土的
 some last vestige of native wit prompted Guy to say nothing:一些本土机智的最后痕迹促使盖伊什么也没说
 
 a territorial division of some countries, forming the chief unit of local administration:一些国家的领土划分，形成地方行政的主要单位
@@ -93,21 +93,21 @@ a special distinction for proficiency in an examination:a考试熟练度的特�
 a course of degree studies more specialized than for an ordinary pass:比普通通行证更专业的学位课程
 the right of driving off first, having won the previous hole:上一洞赢了先开球的权利
 an ace, king, queen, jack, or ten.:一个王牌、国王、王后、杰克或十人。
-possession in one's hand of at least four of the ace, king, queen, jack, and ten of trumps, or of all four aces in no trumps, for which a bonus is scored.:拥有至少四张A、K、Q、J和十张王牌，或所有四张A都没有王牌，为此获得奖励。
+possession in one's hand of at least four of the ace, king, queen, jack, and ten of trumps, or of all four aces in no trumps, for which a bonus is scored.:手中至少有四张 A、K、Q、J 和十张王牌，或所有四张 A 都没有王牌，因此获得奖励。
 (in whist) an ace, king, queen, or jack of trumps.:（惠斯特）王牌、国王、王后或王牌。
-regard with great respect:regard非常尊重
+regard with great respect:怀着极大的敬意
 pay public respect to:向公众表达敬意
-fulfil (an obligation) or keep (an agreement):fulfil（义务）或保留（协议）
-accept (a bill) or pay (a cheque) when due:accept（账单）或到期时支付（支票）
+fulfil (an obligation) or keep (an agreement):履行（一项义务）或遵守（一项协议）
+accept (a bill) or pay (a cheque) when due:到期时接受（账单）或支付（支票）
 honour |ˈɒnə| Noun/Verb/:荣誉,尊敬,兑现
 his portrait hangs in the place of honour:他的肖像挂在荣誉的地方
 you are an honour to our profession:你是我们职业的荣幸
 I must as a matter of honour avoid any taint of dishonesty:为了荣誉，我必须避免任何不诚实的污点
 she died defending her honour:她为捍卫自己的荣誉而死
-Mrs Young had the honour of being received by the Queen:MrsYoung有幸被女王接见
+Mrs Young had the honour of being received by the Queen:杨夫人有幸受到女王接见
 the highest military honours:最高军事荣誉
-she passed with honours:she以优异的成绩通过
-Kyle had the honour at the last hole:Kyle在最后一洞获得了荣誉
+she passed with honours:她以优异的成绩通过
+Kyle had the honour at the last hole:凯尔在最后一洞获得了荣誉
 they honoured their parents in all they did:他们所做的一切都尊重他们的父母
 talented writers were honoured at a special ceremony:才华横溢的作家在一个特别的仪式上受到表彰
 make sure the franchisees honour the terms of the contract:确保加盟商遵守合同条款
@@ -119,7 +119,7 @@ a piece of writing submitted for publication in a journal, book, etc.:提交在�
 contribution |ˌkɒntrɪˈbjuːʃn| Noun/:贡献
 the agency is mainly financed from voluntary contributions:该机构的资金主要来自自愿捐款
 the major contribution of social scientists to the understanding of political life:社会科学家对理解政治生活的主要贡献
-local historians are requesting contributions for a forthcoming book on the history of the community:local历史学家正在请求为即将出版的关于社区历史的书做出贡献
+local historians are requesting contributions for a forthcoming book on the history of the community:当地历史学家正在为即将出版的关于社区历史的书征集稿件
 
 human beings collectively:人类集体
 the state of being human:人的状态

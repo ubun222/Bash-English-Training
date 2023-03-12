@@ -33,8 +33,8 @@ linger					逗留，留存
 \\\\
 
 intervene in a situation without invitation or necessity:在没有邀请或必要的情况下进行干预
-prevent (a process or activity) from continuing or being carried out properly:prevent（过程或活动）继续或正确执行
-(of a thing) strike against or impede (something) when working:(ofathing)strikeagainstorimpedes(something)工作时
+prevent (a process or activity) from continuing or being carried out properly:阻止（过程或活动）继续或正常进行
+(of a thing) strike against or impede (something) when working:（某物）在工作时打击或阻碍（某物）
 handle or adjust (something) without permission, especially so as to cause damage:未经许可处理或调整（某物），尤其是为了造成损害
 attempt to bribe or intimidate (a witness):企图贿赂或恐吓（证人）
 sexually molest (someone, especially a child).:性骚扰（某人，尤其是儿童）。
@@ -45,19 +45,19 @@ interfere |ˌɪntəˈfɪə| Verb/:干扰,干涉,干扰的
 you promised not to interfere:你答应过不干涉
 a holiday job would interfere with his studies:假期工作会影响他的学习
 the rotors are widely separated and do not interfere with one another:转子间距大，互不干扰
-he admitted interfering with a van:he承认干扰了一辆货车
-they face charges of conspiracy to obstruct justice and interfering with witnesses:they面临串谋妨碍司法公正和干扰证人的指控
+he admitted interfering with a van:他承认干扰了一辆货车
+they face charges of conspiracy to obstruct justice and interfering with witnesses:他们面临串谋妨碍司法公正和干扰证人的指控
 light pulses interfere constructively in a fibre to emit a pulse:光脉冲在光纤中建设性地干涉以发射脉冲
 
 a person who takes part in a contest or competition:参加比赛或比赛的人
 contestant |kənˈtɛst(ə)nt| Noun/:选手,参赛者
 an anxious contestant on a television quiz show:电视问答节目中焦虑的参赛者
 
-deserving or inviting derision or mockery, absurd:deserving或inviting嘲笑或嘲笑，荒谬
+deserving or inviting derision or mockery, absurd:值得或邀请嘲笑或嘲笑，荒谬
 ridiculous |rɪˈdɪkjʊləs| Adjective/:荒谬的,荒谬,可笑,可笑的
 that ridiculous tartan cap:那个可笑的格子呢帽
 
-attractive or appealing in an exotic or exciting way:attractive或以异国情调或令人兴奋的方式吸引人
+attractive or appealing in an exotic or exciting way:以异国情调或令人兴奋的方式吸引或吸引
 (of a person) having a beauty or charm that is sexually attractive:（某人）具有性吸引力的美丽或魅力
 glamorous |ˈɡlam(ə)rəs| Adjective/:迷人的,魅力四射
 being a singer must be such a glamorous lifestyle:当歌手一定是一种光鲜亮丽的生活方式
@@ -65,18 +65,18 @@ one of the world's most glamorous women:世界上最迷人的女人之一
 
 a large enclosed shopping area from which traffic is excluded.:一个封闭的大型购物区，交通被排除在外。
 a sheltered walk or promenade.:有遮蔽的步道或长廊。
-an alley used for pall-mall.:一条用于pall-mall的小巷。
+an alley used for pall-mall.:用于pall-mall的小巷。
 mall |mal| Noun/:购物中心,商场
 
 (in relation to illness) in a persistent and recurring way:（与疾病有关）以持续和反复出现的方式
 in a long-lasting or habitual and problematic way:以一种持久的或习惯性的和有问题的方式
 to a very great extent, extremely:在很大程度上，非常
 chronically |ˈkrɒnɪk(ə)li| Adverb/:长期地,慢性地
-families dealing with a chronically ill child:families处理一个患有慢性病的孩子
+families dealing with a chronically ill child:与慢性病儿童打交道的家庭
 the office is chronically understaffed:办公室长期人手不足
 chronically stupid drivers:长期愚蠢的司机
 
-continuing for a long time or longer than usual, lengthy:continuingforlongtimeorlongerthanusual，冗长
+continuing for a long time or longer than usual, lengthy:持续很长时间或比平常更长的时间，漫长的
 prolonged |prəˈlɒŋd| Adjective/:延长的,长时间的
 the region suffered a prolonged drought:该地区遭受了长期干旱
 
@@ -110,19 +110,19 @@ a new molecular species:一个新的分子物种
 
 a sustained fight between large organized armed forces:大规模有组织的武装部队之间的持续战斗
 a lengthy and difficult conflict or struggle:一场漫长而艰难的冲突或斗争
-struggle tenaciously to achieve or resist something:struggle顽强地实现或抗拒某事
+struggle tenaciously to achieve or resist something:为实现或抗拒某事而顽强地奋斗
 engage in a fight or struggle against:与
 battle |ˈbatl| Noun/Verb/:战斗,战
 the battle lasted for several hours:战斗持续了几个小时
 the battle against ageing:抗衰老之战
 he has been battling against the illness:他一直在与病魔作斗争
-firefighters battled a 9,800-acre brush fire:firefighters扑灭了9,800英亩的丛林大火
+firefighters battled a 9,800-acre brush fire:消防员扑灭了 9,800 英亩的丛林大火
 
 a serious disagreement or argument, typically a protracted one:严重的分歧或争论，通常是旷日持久的
 a prolonged armed struggle:长期的武装斗争
 a state of mind in which a person experiences a clash of opposing feelings or needs:一种心理状态，在这种状态下，一个人会经历对立的感受或需求的冲突
 a serious incompatibility between two or more opinions, principles, or interests:两种或多种观点、原则或利益之间严重不相容
-be incompatible or at variance, clash:beincompatible或atvariance,冲突
+be incompatible or at variance, clash:不相容或不一致，冲突
 conflict |ˈkɒnflɪkt| Noun/Verb/:冲突,矛盾
 the eternal conflict between the sexes:两性之间永恒的冲突
 regional conflicts:地区冲突
@@ -130,20 +130,20 @@ bewildered by her own inner conflict, she could only stand there feeling vulnera
 there was a conflict between his business and domestic life:他的事业和家庭生活之间存在冲突
 parents' and children's interests sometimes conflict:父母和孩子的利益有时会发生冲突
 
-spread throughout (something), pervade:spreadthroughout(something),遍及
+spread throughout (something), pervade:遍及（某物），遍及
 permeate |ˈpəːmɪeɪt| Verb/:渗透,渗入
 the aroma of soup permeated the air:汤的香味弥漫在空气中
 
 wrong, incorrect:错误的，不正确的
 erroneous |ɪˈrəʊnɪəs| Adjective/:,错误的,有错误的
-employers sometimes make erroneous assumptions:employers有时会做出错误的假设
+employers sometimes make erroneous assumptions:雇主有时会做出错误的假设
 
 a separate section or part of a structure or container:结构或容器的单独部分或部分
 a division of a railway carriage marked by partitions:用隔板标记的铁路车厢的一个部分
 a division of a ship's hull:船体的一部分
 an area in which something can be considered in isolation from other things:一个可以独立于其他事物考虑的领域
 a grassy mound or other support depicted below a shield.:盾牌下方的草丘或其他支撑物。
-divide (something) into separate parts or sections:divide(something)intoseparatepartsorsections将（某物）分成单独的部分或部分
+divide (something) into separate parts or sections:将（某物）分成不同的部分或部分
 compartment |kəmˈpɑːtm(ə)nt| Noun/Verb/:车厢,隔间
 there's some ice cream in the freezer compartment:冷冻室里有一些冰淇淋
 a first-class compartment:一个头等舱
@@ -153,8 +153,8 @@ the buildings are to be compartmented by fire walls:建筑物将被防火墙隔�
 
 relating to or denoting a metropolis or large city:关于或表示大都市或大城市
 relating to or denoting the parent state of a colony:关于或表示殖民地的母国
-relating to or denoting a metropolitan or his see:relatingtoordenotingametropolitan或他的领地
-a bishop having authority over the bishops of a province, in particular (in Orthodox Churches) one ranking above archbishop and below patriarch:abishop对一个省份的主教具有权威，特别是（在东正教中）高于大主教和低于牧首的一位
+relating to or denoting a metropolitan or his see:关于或表示大都市或他的见地
+a bishop having authority over the bishops of a province, in particular (in Orthodox Churches) one ranking above archbishop and below patriarch:对一个省的主教有权威的主教，特别是（在东正教中）一个高于大主教和低于牧首的主教
 an inhabitant of a metropolis or large city:大都市或大城市的居民
 metropolitan |ˌmɛtrəˈpɒlɪt(ə)n| Adjective/Noun/:都市的,大都会
 the Boston metropolitan area:波士顿都会区
@@ -163,11 +163,11 @@ a metropolitan bishop:大都会主教
 the post of Metropolitan of Moldavia and Bucovina:摩尔达维亚和布科维纳都主教的职位
 a sophisticated metropolitan:一个复杂的大都市
 
-take and keep a firm hold of, grasp tightly:takeandkeepafirmholdof紧紧抓住
+take and keep a firm hold of, grasp tightly:
 maintain a firm contact, especially by friction:保持牢固的接触，尤其是通过摩擦
 (of an emotion or situation) have a strong or adverse effect on:（情绪或情况）对
-firmly hold the attention or interest of:firmlyhold注意力或兴趣
-a firm hold, a tight grasp:afirmhold,紧紧抓住
+firmly hold the attention or interest of:牢牢抓住对方的注意力或兴趣
+a firm hold, a tight grasp:紧紧抓住
 a manner of holding something:一种拿东西的方式
 the ability of something, especially a wheel or shoe, to maintain a firm contact with a surface:某物（尤其是轮子或鞋子）与表面保持牢固接触的能力
 effective control over something:对某事的有效控制
@@ -180,15 +180,15 @@ a member of a camera crew responsible for moving and setting up equipment.:负�
 grip |ɡrɪp| Noun/Verb/:紧握,握,抓地力,握把
 his knuckles were white as he gripped the steering wheel:他握着方向盘指关节发白
 a sole that really grips well on wet rock:在潮湿的岩石上真正抓地力很好的鞋底
-she was gripped by a feeling of excitement:she被一种兴奋的感觉所控制
+she was gripped by a feeling of excitement:她被一种兴奋的感觉所控制
 we were gripped by the drama:我们被这出戏迷住了
 his arm was held in a vice-like grip:his的手臂被虎钳似的握住
 I've changed my grip and my backswing:我改变了我的握拍和上杆
 these shoes have got no grip:这些鞋子没有抓地力
-he had to take a grip on his nerves:he必须控制住自己的神经
-you've got a good grip on what's going on:you'vegotgotagoodgripofwhat'sgoingon正在发生的事情
+he had to take a grip on his nerves:他必须控制住自己的神经
+you've got a good grip on what's going on:你对正在发生的事情有很好的把握
 handlebar grips:车把把手
-a grip crammed with new clothes:agrip塞满了新衣服
+a grip crammed with new clothes:塞满新衣服的手
 
 compress or squeeze forcefully so as to break, damage, or distort in shape:用力压缩或挤压以致破裂、损坏或变形
 crease or crumple (cloth or paper):折皱或弄皱（布或纸）
@@ -209,15 +209,15 @@ she did have a crush on Dr Russell:她确实迷上了罗素博士
 it turns out she thought you were flirting with her crush:原来她以为你在和她暗恋的人调情
 lemon crush:柠檬美眉
 
-existing or coming before in time, order, or importance:existing或comingbeforeintime,order,orimportance
+existing or coming before in time, order, or importance:在时间、顺序或重要性上存在或在先
 a previous criminal conviction:以前的刑事定罪
 a man who is head of a house or group of houses of certain religious orders:某些宗教团体的一个或一组房屋的负责人
 the man next in rank below an abbot.:地位低于方丈的人。
 the head of a house of friars.:修士之家的院长。
 prior |ˈprʌɪə| Adjective/Noun/:事先的,院长,事先,之前的
-he has a prior engagement this evening:he今晚有约会
-he had no juvenile record, no priors:hehadnojuaryrecord,nopriors
-the English Reformation removed powerful abbots and priors from their seats:theEnglishReformation从他们的座位上移除了强大的修道院院长和修道士
+he has a prior engagement this evening:他今晚有约会
+he had no juvenile record, no priors:他没有少年前科，没有前科
+the English Reformation removed powerful abbots and priors from their seats:
 
 a mathematical relationship or rule expressed in symbols:用符号表示的数学关系或规则
 a set of chemical symbols showing the elements present in a compound and their relative proportions.:一组化学符号，表示化合物中存在的元素及其相对比例。
@@ -227,7 +227,7 @@ a baby's liquid food based on cow's milk or soya protein, given as a substitute 
 a method or procedure for achieving something:实现某事的方法或程序
 a set form of words, especially one used in particular contexts or as a conventional usage:一组单词，尤其是在特定上下文中使用或作为常规用法使用的单词
 a rule or style followed mechanically:机械地遵循的规则或风格
-a stock epithet, phrase, or line repeated for various effects, especially in epic poetry.:astockepithetic,phrase,orlinerepeatedforavariouseffects,especiallyinepicpoetry.
+a stock epithet, phrase, or line repeated for various effects, especially in epic poetry.:为达到不同的效果而反复出现的惯用词、短语或句子，尤其是在史诗中。
 (usually followed by a numeral) a classification of racing car, especially by the engine capacity:（通常后跟数字）赛车的分类，特别是根据发动机容量
 formula |ˈfɔːmjʊlə| Noun/:公式,式,配方
 the formula for the capacitance of a spherical capacitor:球形电容的电容量公式
@@ -265,7 +265,7 @@ attempts to harness solar energy:尝试利用太阳能
 the place to which someone or something is going or being sent:某人或某物要去或被送往的地方
 denoting a place that people will make a special trip to visit:表示人们会专程去参观的地方
 destination |ˌdɛstɪˈneɪʃn| Noun/:目的地,作为目的地的,终点
-Delft is an ideal destination for a relaxing weekend:Delft是休闲周末的理想目的地
+Delft is an ideal destination for a relaxing weekend:代尔夫特是休闲周末的理想目的地
 a destination restaurant:目的地餐厅
 
 relating to an occupation or employment:与职业或工作有关
@@ -290,12 +290,12 @@ a quantity equal to the square of the standard deviation.:一个等于标准差�
 an official dispensation from a rule or regulation, typically a building regulation.:规则或法规的官方豁免，通常是建筑法规。
 variance |ˈvɛːrɪəns| Noun/:方差,差异
 her light tone was at variance with her sudden trembling:她轻快的语气与她突然的颤抖不符
-they were at variance with all their previous allies:theywereadvancedwiththeirallprevious盟友
+they were at variance with all their previous allies:他们与以前的所有盟友都不一致
 
 an object or feature of a landscape or town that is easily seen and recognized from a distance, especially one that enables someone to establish their location:从远处很容易看到和识别的风景或城镇的物体或特征，尤其是使某人能够确定其位置的物体或特征
 a building or monument of historical importance:具有历史意义的建筑物或纪念碑
 the boundary of an area of land, or an object marking this:一块土地的边界，或标记这块土地的物体
-an event or discovery marking an important stage or turning point in something:aneventordiscovery标志着某事的重要阶段或转折点
+an event or discovery marking an important stage or turning point in something:标志着某事的重要阶段或转折点的事件或发现
 landmark |ˈlan(d)mɑːk| Noun/:地标,具有里程碑意义的
 the spire was once a landmark for ships sailing up the river:塔尖曾经是船只逆流而上的地标
 the entire town has been designated a National Historic Landmark:整个城镇已被指定为国家历史地标
@@ -303,9 +303,9 @@ at certain points of the boundary the men would beat the landmark with their sti
 the vaccine is a landmark in the history of preventive medicine:疫苗是预防医学史上的里程碑
 
 stay in a place longer than necessary because of a reluctance to leave:因为不愿离开而在一个地方停留的时间超过了必要的时间
-spend a long time over (something):spendalongtimeover(某事)
+spend a long time over (something):花很长时间（某事）
 be slow to disappear or die:慢慢消失或死亡
 linger |ˈlɪŋɡə| Verb/:萦绕,徘徊,流连忘返
 she lingered in the yard, enjoying the warm sunshine:她在院子里流连，享受着温暖的阳光
-she lingered over her meal:she徘徊在她的饭菜上
+she lingered over her meal:她徘徊在她的饭菜上
 the tradition seems to linger on:这个传统似乎还在延续

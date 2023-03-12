@@ -59,18 +59,18 @@ a range of different things:一系列不同的东西
 the practice or quality of including or involving people from a range of different social and ethnic backgrounds and of different genders, sexual orientations, etc.:包括或涉及来自不同社会和种族背景以及不同性别、性取向等的人的做法或质量。
 diversity |dʌɪˈvəːsɪti| Noun/:多样性
 there was considerable diversity in the style of the reports:报告的风格相当多样化
-newspapers were obliged to allow a diversity of views to be printed:newspapers必须允许印刷多种观点
+newspapers were obliged to allow a diversity of views to be printed:报纸有义务允许印刷不同的观点
 equality and diversity should be supported for their own sake:平等和多样性应该为他们自己的缘故得到支持
 
-leave (a place), usually permanently:leave（一个地方），通常是永久的
+leave (a place), usually permanently:离开（一个地方），通常是永久离开
 (of a tenant) leave rented accommodation:（租户的）离开租住的住所
-resign from (a job):resignfrom(一份工作)
-stop or discontinue (an action or activity):stop或停止（动作或活动）
-behave in a specified way:behave以指定的方式
+resign from (a job):辞去（一份工作）
+stop or discontinue (an action or activity):停止或中止（动作或活动）
+behave in a specified way:以指定的方式行事
 rid of:摆脱
 used in names of various small songbirds found in the Caribbean area, e.g. bananaquit, grassquit.:用于加勒比地区发现的各种小型鸣禽的名称，例如。13
 quit |kwɪt| Adjective/Noun/Verb/:退出,放弃,辞职
-hippies finally quit two sites in Hampshire last night:hippies昨晚终于退出了汉普郡的两个网站
+hippies finally quit two sites in Hampshire last night:嬉皮士昨晚终于退出了汉普郡的两个地点
 the landlord issued a notice to quit:房东发出退出通知
 she quit her job in a pizza restaurant:她辞去了披萨店的工作
 quit moaning!:停止呻吟！
@@ -106,19 +106,19 @@ there are no easy solutions to financial and marital problems:财务和婚姻问
 the solution to this month's crossword:本月填字游戏的解法
 an internet marketing firm specializing in e-commerce solutions:一家专注于电子商务解决方案的网络营销公司
 a solution of ammonia in water:a氨水溶液
-gum tragacanth in solution is best used thinly on paper:gumtragacanth在溶液中最好在纸上薄薄地使用
+gum tragacanth in solution is best used thinly on paper:溶液中的黄芪胶最好薄薄地涂在纸上
 the solution of British supremacy in South Africa:英国在南非的霸权解决方案
 
 the action of hurting or harming someone in return for an injury or wrong suffered at their hands:伤害或伤害某人以换取在他们手中遭受的伤害或错误的行为
 the desire to repay an injury or wrong:想要偿还伤害或错误
 (in sporting contexts) the defeat of a person or team by whom one was beaten in a previous encounter:（在体育环境中）在之前的遭遇中被击败的个人或团队的失败
 inflict hurt or harm on someone for an injury or wrong done to oneself:因对自己造成伤害或错误而对某人造成伤害或伤害
-inflict revenge on behalf of (someone else):inflictrevenge代表（其他人）
-inflict retribution for (a wrong or injury done to oneself or another):inflictretributionfor(对自己或他人造成的错误或伤害)
+inflict revenge on behalf of (someone else):替（他人）报复
+inflict retribution for (a wrong or injury done to oneself or another):报复（对自己或他人造成的错误或伤害）
 revenge |rɪˈvɛn(d)ʒ| Noun/Verb/:复仇,报复,报仇
 other spurned wives have taken public revenge on their husbands:其他被唾弃的妻子公开报复了她们的丈夫
 it was difficult not to be overwhelmed with feelings of hate and revenge:很难不被仇恨和报复的感觉所淹没
-Zimbabwe snatched the game 18–16, but the Spanish had their revenge later:Zimbabwe以16拿下比赛，但后来西班牙人报了仇
+Zimbabwe snatched the game 18–16, but the Spanish had their revenge later:津巴布韦以 18-16 扳回一局，但西班牙人随后进行了报复
 I'll be revenged on the whole pack of you:我会为你报仇雪恨
 it's a pity he chose that way to revenge his sister:可惜他选择了这样的方式来报复他的妹妹
 her brother was slain, and she revenged his death:她哥哥被杀，她为他报仇
@@ -126,11 +126,11 @@ her brother was slain, and she revenged his death:她哥哥被杀，她为他报
 move backwards:向后移动
 cause (a vehicle) to move backwards:导致（车辆）向后移动
 (of an engine) work in a contrary direction:（引擎的）反方向工作
-make (something) the opposite of what it was:make(something)与原来相反
+make (something) the opposite of what it was:使（某物）与原来相反
 exchange (the position or function) of two people or things:两个人或事物的交换（位置或功能）
-revoke or annul (a judgement, sentence, or decree made by a lower court or authority):revoke或annul（下级法院或当局作出的判决、判决或法令）
-turn (something) the other way round or up or inside out:turn(something)反过来或向上或由内向外
-make (type or a design) appear as white in a block of solid colour or a half-tone:make（类型或设计）在纯色块或半色调中显示为白色
+revoke or annul (a judgement, sentence, or decree made by a lower court or authority):撤销或废除（下级法院或当局作出的判决、判决或法令）
+turn (something) the other way round or up or inside out:将（某物）反过来或向上或从里到外
+make (type or a design) appear as white in a block of solid colour or a half-tone:使（字体或设计）在纯色块或半色调中显示为白色
 going in or turned towards the direction opposite to that previously stated:进入或转向与先前所述相反的方向
 operating, behaving, or ordered in a way contrary or opposite to that which is usual or expected:以与通常或预期相反或相反的方式操作、行为或命令
 (of a voltage applied to a semiconductor junction) in the direction which does not allow significant current to flow.:（施加到半导体结的电压）在不允许大量电流流动的方向上。
@@ -159,7 +159,7 @@ the gall actuates a reverse of photosynthesis:胆引起光合作用的逆向
 a knob to lock the box in four-wheel drive for reverse:一个旋钮，用于锁定四轮驱动中的盒子以进行倒车
 his touchdown came after he had scampered 58 yards on a reverse with McMahon:他的达阵是在他与麦克马洪反向跑了58码之后
 he didn't feel homesick—quite the reverse:他没有想家——恰恰相反
-United suffered their heaviest reverse of the season:United遭遇了本赛季最严重的逆转
+United suffered their heaviest reverse of the season:曼联遭遇了本赛季最严重的逆转
 the address is given on the reverse of this leaflet:地址在本传单的背面
 
 enroll | 注册,报名
@@ -191,7 +191,7 @@ each of two or more forces, velocities, or other vectors acting in different dir
 constituting part of a larger whole; constituent:构成更大整体的一部分；组分
 component |kəmˈpəʊnənt| Adjective/Noun/:零件,成分,部件,组件
 an assembly plant for imported components:进口零部件组装厂
-he resolved the motion into horizontal and vertical components:he将运动分解为水平和垂直分量
+he resolved the motion into horizontal and vertical components:他将运动分解为水平和垂直分量
 the component elements of the armed forces:武装部队的组成部分
 
 a group of words taken from a text or speech and repeated by someone other than the original author or speaker:一组词取自文本或演讲，并由原作者或演讲者以外的人重复
@@ -213,15 +213,15 @@ a particular religion:一个特定的宗教
 a strongly held belief:一个坚定的信念
 said to express surprise or emphasis:表示表示惊讶或强调
 faith |feɪθ| Interjection/Noun/:,信心,信念
-this restores one's faith in politicians:this恢复人们对政治家的信心
-bereaved people who have shown supreme faith:bereaved表现出至高无上的信仰的人
+this restores one's faith in politicians:这恢复了人们对政客的信心
+bereaved people who have shown supreme faith:表现出至高无上的信念的丧亲者
 the Christian faith:基督教信仰
 men with strong political faiths:men具有强烈的政治信仰
-faith, I was shown the door myself and came home:faith，我亲自带门回家
+faith, I was shown the door myself and came home:信仰，我自己被带回家了
 
 a person made weak or disabled by illness or injury:一个因疾病或受伤而变得虚弱或残疾的人
 remove (someone) from active service in the armed forces because of injury or illness:将（某人）因受伤或疾病从武装部队中撤出
-disable (someone) by injury or illness:disable（某人）因受伤或生病
+disable (someone) by injury or illness:因受伤或疾病使（某人）失去能力
 (of an official document or procedure) not legally recognized because it contravenes a regulation or law:（官方文件或程序）因违反法规或法律而未被法律承认
 (especially of an argument, statement, or theory) not true because based on erroneous information or unsound reasoning:（尤其是论据、陈述或理论）不正确，因为基于错误的信息或不合理的推理
 (of computer instructions, data, etc.) not conforming to the correct format or specifications.:（计算机指令、数据等）不符合正确的格式或规范。
@@ -230,12 +230,12 @@ she spent the rest of her life as an invalid:她的余生都以病残的身份�
 he was badly wounded and invalided out of the infantry:他受了重伤，因步兵而无效
 an officer invalided by a chest wound:一名军官因胸部受伤而无效
 the will was declared invalid and the children were entitled to the estate:遗嘱被宣布无效，孩子们有权获得遗产
-a comparison is invalid if we are not comparing like with like:a比较无效，如果我们不比较like和like
+a comparison is invalid if we are not comparing like with like:如果我们不进行同类比较，则比较无效
 
 (of an armed force) enter (a country or region) so as to subjugate or occupy it:（军队的）进入（国家或地区）以征服或占领它
 enter (a place, situation, or sphere of activity) in large numbers, especially with intrusive effect:大量进入（一个地方、情况或活动范围），尤其是具有侵入性的效果
 (of a parasite or disease) spread into (an organism or bodily part):（寄生虫或疾病）传播到（有机体或身体部位）
-encroach or intrude on:encroach或侵入
+encroach or intrude on:侵犯或侵入
 invade |ɪnˈveɪd| Verb/:入侵,侵入,侵略
 during the Second World War the island was invaded by the Axis powers:在第二次世界大战期间，该岛被轴心国入侵
 demonstrators invaded the Presidential Palace:示威者闯入总统府
@@ -246,14 +246,14 @@ as a separate entity or entities; not together:作为一个或多个单独的实
 separately |ˈsɛp(ə)rətli| Adverb/:分别地,分别
 they arrived together but left separately:他们一起到达但分开离开
 
-force (a part of one's body or oneself) to make an unusually great effort:force（身体或自己的一部分）做出异常巨大的努力
+force (a part of one's body or oneself) to make an unusually great effort:强迫（身体或自己的一部分）做出异常巨大的努力
 make an unusually great effort:做出异常巨大的努力
-injure (a limb, muscle, or organ) by overexerting it:injure（肢体、肌肉或器官）过度用力
+injure (a limb, muscle, or organ) by overexerting it:用力过度使（肢体、肌肉或器官）受伤
 make severe or excessive demands on:对
 pull or push forcibly at something:拉或强行推某物
-stretch (something) tightly:stretch（某物）紧紧
+stretch (something) tightly:紧紧地拉紧（某物）
 embrace (someone) tightly:紧紧拥抱（某人）
-pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter:pour（主要是液体物质）通过多孔或穿孔的装置或材料，以分离出任何固体物质
+pour (a mainly liquid substance) through a porous or perforated device or material in order to separate out any solid matter:通过多孔或穿孔的设备或材料倒入（主要是液体的物质）以分离出任何固体物质
 cause liquid to drain off (food which has been boiled, soaked, or canned) by using a porous or perforated device:使用多孔或穿孔装置使液体排出（煮沸、浸泡或罐装的食物）
 drain (liquid) off food by using a porous or perforated device:通过使用多孔或穿孔装置排出（液体）食物
 a force tending to pull or stretch something to an extreme or damaging degree:倾向于将某物拉伸或拉伸到极端或破坏程度的力
@@ -270,7 +270,7 @@ strain |streɪn| Noun/Verb/:拉紧,扭伤,应变
 I stopped and listened, straining my ears for any sound:我停下来听，竖起耳朵听任何声音
 his voice was so quiet that I had to strain to hear it:他的声音很安静，我不得不用力才能听到
 on cold days you are more likely to strain a muscle:在寒冷的日子里，你更容易拉伤肌肉
-he strained her tolerance to the limit:he把她的忍耐拉到了极限
+he strained her tolerance to the limit:他把她的忍耐拉到了极限
 the bear strained at the chain around its neck:那只熊用脖子上的链子拉紧了
 the barbed wire fence was strained to posts six feet high:带刺铁丝网被拉紧到六英尺高的柱子上
 she strained the infant to her bosom again:她再次把婴儿拉到她的怀里
@@ -309,24 +309,24 @@ a single turn of rope, thread, or cable round a drum or reel.:一圈绳索、线
 a layer or sheet of cotton or wool, wound on a roller during manufacture.:一层或一层棉或羊毛，在制造过程中缠绕在滚筒上。
 (in a lapping machine) a rotating disc with a coating of fine abrasive for polishing.:（在研磨机中）带有用于抛光的精细磨料涂层的旋转盘。
 a polishing tool of a special shape, coated or impregnated with an abrasive.:一种特殊形状的抛光工具，涂有或浸渍有磨料。
-overtake (a competitor in a race) to become one or more laps ahead:overtake（比赛中的竞争对手）领先一圈或多圈
+overtake (a competitor in a race) to become one or more laps ahead:超车（比赛中的竞争对手）领先一圈或多圈
 (of a competitor in a race) complete a lap, especially in a specified time:（比赛中的参赛者）完成一圈，尤其是在规定时间内
-wrap or enfold someone or something in (something soft):wrap或将某人或某物包裹在（柔软的东西）中
-project beyond or overlap something:project超出或重叠的东西
-polish (metal, glass, or a gem) with a lapping machine:polish（金属、玻璃或宝石）用研磨机
+wrap or enfold someone or something in (something soft):将某人或某物包裹或包裹在（柔软的东西）中
+project beyond or overlap something:超出或重叠某物
+polish (metal, glass, or a gem) with a lapping machine:用研磨机抛光（金属、玻璃或宝石）
 (of an animal) take up (liquid) with quick movements of the tongue:（动物的）用舌头快速运动来吸收（液体）
 accept something eagerly and with obvious pleasure:以明显的喜悦热切接受某事
-(of water) wash against (something) with a gentle rippling sound:(ofwater)用柔和的涟漪声冲向（某物）
+(of water) wash against (something) with a gentle rippling sound:（水）用柔和的涟漪声冲洗（某物）
 the action or sound of water washing gently against something:水轻轻地冲向某物的动作或声音
 lap |lap| Noun/Verb/:圈,一圈
 come and sit on my lap:过来坐在我的腿上
 she stood up and brushed the crumbs from the lap of her dress:她站起身来拂去裙子上的碎屑
-heavy rain stopped the race after 18 laps:heavyrain18圈后停止比赛
+heavy rain stopped the race after 18 laps:大雨使比赛在 18 圈后停止
 everyone did ten laps of the pool:每个人都在泳池里跑了十圈
 we caught a cab for the last lap of our journey:我们在旅途的最后一圈打了一辆出租车
 cut to the depth and width of the lap:cut到搭接的深度和宽度
 they have sufficient lap to act compositely:他们有足够的圈速来综合行动
-she lapped all of her rivals in the 3,000 metres:she在3,000米跑完所有对手
+she lapped all of her rivals in the 3,000 metres:她在 3,000 米比赛中超越了所有对手
 Mansell lapped two tenths of a second faster than anyone else:Mansell的圈速比任何人都快十分之二秒
 he was lapped in blankets:他被裹在毯子里
 the water lapped over the edges:水流过边缘
@@ -354,10 +354,10 @@ an unusual or amusing person:一个不寻常或有趣的人
 a printed or written letter or symbol.:印刷或书写的字母或符号。
 a symbol representing a letter or number.:代表字母或数字的符号。
 a characteristic, especially one that assists in the identification of a species.:一种特征，尤其是有助于识别物种的特征。
-inscribe or write (something).:inscribe或写（某事）。
+inscribe or write (something).:题写或书写（某物）。
 describe:描述
 character |ˈkarɪktə| Noun/Verb/:特点,字符,字,性格
-running away was not in keeping with her character:runningaway不符合她的性格
+running away was not in keeping with her character:逃跑不符合她的性格
 gas lamps give the area its character:煤气灯赋予该地区特色
 the island is full of character:岛上充满个性
 she had character as well as beauty:她既有性格又有美貌
@@ -374,14 +374,14 @@ widespread |ˈwʌɪdsprɛd| Adjective/:广泛,普遍
 there was widespread support for the war:战争得到广泛支持
 
 change the position of:改变位置
-change (the position, time, or order of something):change（某物的位置、时间或顺序）
+change (the position, time, or order of something):改变（某物的位置、时间或顺序）
 rearrange |ˌriːəˈreɪn(d)ʒ| Verb/:改编,重新排列
 she rearranged her skirt as she sat back in her chair:她坐在椅子上重新整理裙子
 he had rearranged his schedule:他重新安排了他的日程安排
 
 admit or cause (someone) to be admitted to hospital for treatment:承认或导致（某人）入院治疗
 hospitalize |ˈhɒspɪtəlʌɪz| Verb/:住院,住院治疗
-Casey was hospitalized for chest pains:Casey因胸痛住院
+Casey was hospitalized for chest pains:凯西因胸痛住院
 
 help or benefit:help或好处
 use or take advantage of (an opportunity or available resource):使用或利用（机会或可用资源）
@@ -428,7 +428,7 @@ favouring or characterized by social equality; egalitarian:赞成或以社会平
 (in the US) relating to the Democratic Party:（在美国）与民主党有关
 democratic |ˌdɛməˈkratɪk| Adjective/:民主的,民主主义
 democratic countries:民主国家
-cycling is a very democratic activity which can be enjoyed by anyone:cycling是一项非常民主的活动，任何人都可以享受
+cycling is a very democratic activity which can be enjoyed by anyone:骑自行车是一项非常民主的活动，任何人都可以享受
 a Democratic fundraiser:a民主党筹款活动
 
 only just; almost not:仅仅只是;几乎不
@@ -444,7 +444,7 @@ disappear suddenly and completely:突然彻底消失
 gradually cease to exist:逐渐不复存在
 become zero.:变为零。
 vanish |ˈvanɪʃ| Verb/:消失
-Moira vanished without trace:Moira消失得无影无踪
+Moira vanished without trace:莫伊拉消失得无影无踪
 the environment is under threat—hedgerows and woodlands are vanishing:环境受到威胁——灌木丛和林地正在消失
 
 a family member or paid helper who regularly looks after a child or a sick, elderly, or disabled person.:经常照看孩子或病人、老人或残疾人的家庭成员或有偿佣工。

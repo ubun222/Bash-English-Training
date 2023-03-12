@@ -32,21 +32,21 @@ ethnic						民族的
 
 having or showing intense and eager enjoyment, interest, or approval:具有或表现出强烈而热切的享受、兴趣或赞同
 enthusiastic |ɪnˌθjuːzɪˈastɪk| Adjective/:热情的,热情,热心,热烈,热心的
-he could be wildly enthusiastic about a project:he可能对一个项目充满热情
+he could be wildly enthusiastic about a project:他可能对一个项目充满热情
 
-a small device that releases a spring or catch and so sets off a mechanism, especially in order to fire a gun:asmalldevicethatreleasesaspringorcatchandsosettingamechanism,尤指为了开枪
-an event that is the cause of a particular action, process, or situation:anevent是特定动作、过程或情况的原因
-cause (a device) to function:cause(adevice)运行
-cause (an event or situation) to happen or exist:cause（事件或情况）发生或存在
+a small device that releases a spring or catch and so sets off a mechanism, especially in order to fire a gun:释放弹簧或锁扣并因此启动机构的小型装置，尤指为了开枪
+an event that is the cause of a particular action, process, or situation:作为特定行动、过程或情况的原因的事件
+cause (a device) to function:使（设备）起作用
+cause (an event or situation) to happen or exist:导致（事件或情况）发生或存在
 (of an event or situation) cause (someone) to do something:（事件或情况）导致（某人）做某事
 (especially of something read, seen, or heard) distress (someone), typically as a result of arousing feelings or memories associated with a particular traumatic experience:（尤指读到、看到或听到的东西）痛苦（某人），通常是由于唤起与特定创伤经历相关的感觉或记忆的结果
 trigger |ˈtrɪɡə| Noun/Verb/:扳机,触发,触发器
 he pulled the trigger of the shotgun:他扣下猎枪的扳机
 the trigger for the strike was the closure of a mine:罢工的导火索是一座矿山的关闭
-burglars fled empty-handed after triggering the alarm:burglars触发警报后空手而逃
+burglars fled empty-handed after triggering the alarm:窃贼触发警报后空手而逃
 an allergy can be triggered by stress or overwork:过敏可能由压力或过度劳累引发
-the death of Helen's father triggered her to follow a childhood dream and become a falconer:Helen父亲的去世促使她追寻儿时的梦想，成为一名驯鹰人
-she started crying and told me that my news had really triggered her:she开始哭了，告诉我我的消息真的触动了她
+the death of Helen's father triggered her to follow a childhood dream and become a falconer:海伦父亲的去世促使她追寻儿时的梦想，成为一名猎鹰人
+she started crying and told me that my news had really triggered her:她开始哭了，告诉我我的消息真的触动了她
 
 absolutely necessary, extremely important:绝对必要，极其重要
 fundamental or central to the nature of something or someone:事物或某人的本质的基本或核心
@@ -58,7 +58,7 @@ essential |ɪˈsɛnʃl| Adjective/Noun/:,必需品,必要,必不可少的,必要
 the essential weakness of the plaintiff's case:原告案件的根本弱点
 essential hypertension:原发性高血压
 we only had the bare essentials in the way of equipment:我们只有最基本的设备
-he was quick to grasp the essentials of an opponent's argument:he很快就掌握了对手论点的要点
+he was quick to grasp the essentials of an opponent's argument:他很快就掌握了对手论点的要点
 
 a list of items to be discussed at a formal meeting:正式会议上要讨论的项目清单
 a plan of things to be done or problems to be addressed:要完成的事情或要解决的问题的计划
@@ -67,7 +67,7 @@ an appointment diary.:约会日记。
 agenda |əˈdʒɛndə| Noun/:议程,日程
 the question of nuclear weapons had been removed from the agenda:核武器问题已从议程中删除
 he vowed to put jobs at the top of his agenda:他发誓要把工作放在他议程的首位
-Miller has his own agenda and it has nothing to do with football:Miller有自己的议程，与足球无关
+Miller has his own agenda and it has nothing to do with football:米勒有他自己的议程，这与足球无关
 
 
 owe |əʊ| Verb/:,必需品,必要,必不可少的,必要的
@@ -85,7 +85,7 @@ a concern for justice, peace, and genuine respect for people:关注正义、和�
 the justice of his case:他的案子的正义
 a tragic miscarriage of justice:悲惨的误判
 
-a person who donates something, especially money to charity:apersonwhodonatessomething,especiallymoneytocharity捐钱的人
+a person who donates something, especially money to charity:捐赠东西的人，尤指捐钱给慈善机构的人
 a person who provides blood, an organ, or semen for transplantation, transfusion, etc.:为移植、输血等提供血液、器官或精液的人。
 an atom or molecule that provides a pair of electrons in forming a coordinate bond.:提供一对电子形成配位键的原子或分子。
 an impurity atom in a semiconductor which contributes a conducting electron to the material.:半导体中的杂质原子，它为材料提供导电电子。
@@ -99,8 +99,8 @@ convict |kənˈvɪkt| Noun/Verb/:定罪,囚犯,犯人,囚徒,罪犯
 the thieves were convicted of the robbery:小偷被判犯有抢劫罪
 two escaped convicts kidnapped them at gunpoint:两个逃犯持枪绑架了他们
 
-estimate (something) to be smaller or less important than it really is:estimate(something)比实际更小或更不重要
-regard (someone) as less capable than they really are:regard（某人）的能力不如他们实际的能力
+estimate (something) to be smaller or less important than it really is:估计（某事）比实际情况更小或更不重要
+regard (someone) as less capable than they really are:认为（某人）的能力不如他们实际的能力
 an estimate that is too low:太低的估计
 underestimate |ʌndərˈɛstɪmeɪt| Noun/Verb/:低估,小看
 they have grossly underestimated the extent of the problem:他们严重低估了问题的严重程度
@@ -146,9 +146,9 @@ bacteria | 细菌,菌,微生物
 
 
 
-successfully bring about or reach (a desired objective or result) by effort, skill, or courage:successfullybringoutorreach(adesiredobjectiveorresult)通过努力、技能或勇气
+successfully bring about or reach (a desired objective or result) by effort, skill, or courage:通过努力、技能或勇气成功实现或达到（期望的目标或结果）
 achieve |əˈtʃiːv| Verb/:达到,实现
-he achieved his ambition to become a press photographer:he实现了成为新闻摄影师的抱负
+he achieved his ambition to become a press photographer:他实现了成为新闻摄影师的抱负
 
 a light blow or a jolting collision:轻轻一击或颠簸碰撞
 (on a person's birthday) a custom by which the person is lifted by the arms and legs and let down on to the ground, once for each year of their age:（在一个人的生日）一个人被举起胳膊和腿放在地上的习俗，每岁一次
@@ -161,12 +161,12 @@ an increase:增加
 (in an online forum) an act of posting on an inactive thread in order to move it to the top of the list of active threads:（在在线论坛中）在非活动线程上发帖以将其移动到活动线程列表顶部的行为
 a loosely woven fleeced cotton fabric used in upholstery and as lining material.:a用于室内装潢和衬里材料的松散编织起绒棉织物。
 knock or run into someone or something with a jolt:敲击或撞到某人或某物
-hurt or damage (something) by striking it on something else:hurtordamage(something)bystrongingitonsomething其他东西
+hurt or damage (something) by striking it on something else:通过撞击其他东西来伤害或损坏（某物）
 (in a race) gain a bump against.:（在比赛中）撞到。
 move or travel with a succession of jolting movements:以一连串的颠簸运动移动或旅行
-push (something) jerkily in a specified direction:push(something)jerkilyinaspecifieddirection
+push (something) jerkily in a specified direction:向指定方向猛推（某物）
 (of an airline) refuse (a passenger) a reserved place on a flight as a consequence of deliberate overbooking:（航空公司的）因故意超售而拒绝（乘客）预订航班座位
-displace from a job or role, especially in favour of someone else:displacefromajoborrole,尤其是为了支持别人
+displace from a job or role, especially in favour of someone else:取代工作或角色，尤其是为了支持别人
 (in an online forum) post on (an inactive thread) in order to move it to the top of the list of active threads:（在在线论坛中）在（非活动线程）上发帖，以便将其移至活动线程列表的顶部
 bump |bʌmp| Noun/Verb/:撞,肿块,磕碰,颠簸,碰撞
 a nasty bump on the head:头上有个讨厌的肿块
@@ -176,11 +176,11 @@ her mosquito bites had come up in huge red bumps:her蚊虫叮咬处出现了巨�
 there was a bump in the number of outbound flights:出境航班数量激增
 I'm giving this thread a well-deserved bump:我给这个线程一个当之无愧的碰撞
 I almost bumped into him:我差点撞到他
-she bumped her head on the sink:she把头撞到水槽上
+she bumped her head on the sink:她把头撞到水槽上
 the car bumped along the rutted track:汽车在车辙印上颠簸
-she had to bump the pushchair down the steps:she不得不把婴儿车撞下台阶
+she had to bump the pushchair down the steps:她不得不把婴儿车撞下台阶
 if you check in on time and are bumped, you will be entitled to a full refund:如果您按时入住但遇到阻碍，您将有权获得全额退款
-she was bumped for a youthful model:she碰上了一个年轻的模特
+she was bumped for a youthful model:她碰上了一个年轻的模特
 if no one responds after 24 hours, you can bump your thread:如果24小时后没人回复，你可以顶帖
 
 the fact or state of living or having objective reality:生活或拥有客观现实的事实或状态
@@ -199,18 +199,18 @@ he believed in the essential unity of all existence:他相信所有存在的本�
 
 clean (an area) by brushing away dirt or litter:清洁（一个区域）通过刷掉污垢或垃圾
 move or remove (dirt or litter) by brushing it away:通过刷掉它来移动或去除（污垢或垃圾）
-move or push (someone or something) with great force:moveorpush(someoneorsomething)用力
-brush (hair) back from one's face or upwards:brush（头发）从脸上或向上
+move or push (someone or something) with great force:用力移动或推动（某人或某物）
+brush (hair) back from one's face or upwards:将（头发）从一个人的脸向后梳或向上梳
 hit (the ball) on the leg side by bringing the bat across the body from a half-kneeling position; hit a ball delivered by (a bowler) with such a stroke.:在腿侧击球（球），将球棒从半跪姿横过身体；用这样的击球击打（投球手）投出的球。
-move swiftly and smoothly:move迅速而平稳
-cause to move swiftly and smoothly:cause迅速而顺利地行动
+move swiftly and smoothly:轻快地移动
+cause to move swiftly and smoothly:导致快速平稳地移动
 (of a person) move in a confident and stately manner:（一个人的）动作自信而庄严
-affect (an area or place) swiftly and widely:affect（一个区域或地方）迅速而广泛
+affect (an area or place) swiftly and widely:迅速而广泛地影响（一个地区或地方）
 (of a geographical or natural feature) extend continuously in a particular direction, especially in a curve:（地理或自然特征的）在特定方向上连续延伸，尤其是在曲线上
 win all the games in (a series); take each of the winning or main places in (a contest or event):win（系列赛）中的所有比赛；获得（比赛或活动）中的每个获胜或主要位置
-search (an area) for something:search（一个区域）找东西
-examine (a place or object) for electronic listening devices:examine（一个地方或物体）用于电子监听设备
-cover (an entire area) with a gun:cover（整个区域）用枪
+search (an area) for something:搜索（一个区域）某物
+examine (a place or object) for electronic listening devices:检查（一个地方或物体）是否有电子收听装置
+cover (an entire area) with a gun:用枪覆盖（整个区域）
 an act of sweeping something with a brush:用刷子扫东西的行为
 a long, swift curving movement:一个长而迅速的曲线运动
 the movement of a beam across the screen of a cathode ray tube.:光束穿过阴极射线管屏幕的运动。
@@ -235,7 +235,7 @@ a large black car swept past the open windows:一辆黑色的大车从敞开的�
 he swept his hand round the room:他在房间里扫了一眼
 she swept magnificently from the hall:她华丽地从大厅里扫过
 the rebellion had swept through all four of the country's provinces:叛乱席卷全国四个省份
-green forests swept down the hillsides:green森林席卷山坡
+green forests swept down the hillsides:绿色的森林席卷山坡
 we knew we had to sweep these three home games:we知道我们必须横扫这三场主场比赛
 the detective swept the room for hair and fingerprints:侦探扫了房间的头发和指纹
 the line is swept every fifteen minutes:每十五分钟扫一扫
@@ -255,7 +255,7 @@ having or showing sharp powers of judgement, astute:具有或表现出敏锐的�
 (of a blow) severe:（一击）严重的
 mischievous, malicious.:恶作剧，恶意。
 shrewd |ʃruːd| Adjective/:精明,精明的,机灵的
-she was shrewd enough to guess the motive behind his gesture:she足够精明，猜到了他手势背后的动机
+she was shrewd enough to guess the motive behind his gesture:她足够精明，猜到了他手势背后的动机
 a shrewd east wind:精明的东风
 a bayonet's shrewd thrust:刺刀的精明刺击
 
@@ -266,7 +266,7 @@ decorate (a page or letter in a manuscript) by hand with gold, silver, or colour
 illuminate |ɪˈl(j)uːmɪneɪt| Verb/:照亮,照明,阐明
 a flash of lightning illuminated the house:一道闪电照亮了房子
 placing the events of the 1930s in a broader historical context helps to illuminate their significance:将1930年代的事件置于更广泛的历史背景下有助于阐明其重要性
-this is a carefully written, large-format manuscript illuminated by Leonardo Bellini:这是一份精心编写的大幅面手稿，由莱昂纳多贝里尼(LeonardoBellini)照亮
+this is a carefully written, large-format manuscript illuminated by Leonardo Bellini:这是一本精心编写的大幅面手稿，由莱昂纳多·贝里尼 (Leonardo Bellini) 照亮
 
 a kingdom:一个王国
 a field or domain of activity or interest:活动或感兴趣的领域或领域
@@ -277,12 +277,12 @@ the realm of applied chemistry:应用化学领域
 this zoogeographical realm includes Africa south of the Atlas Mountains:这个动物地理领域包括阿特拉斯山脉以南的非洲
 
 a design plan or other technical drawing:一份设计方案或其他技术图纸
-something which acts as a plan, model, or template for others:something充当其他人的计划、模型或模板
-draw up (a plan or model):drawup（计划或模型）
+something which acts as a plan, model, or template for others:
+draw up (a plan or model):
 blueprint |ˈbluːprɪnt| Noun/Verb/:蓝图,设计图
 they are redrawing office blueprints to include large shared spaces:他们正在重新绘制办公室蓝图以包括大型共享空间
 the scheme was a blueprint for future development programmes:该计划是未来发展计划的蓝图
-the landscape architect blueprinted a ten-year plan for regeneration of the magnificent formal gardens:thelandscapearchitect制定了宏伟的规则式花园重建十年计划
+the landscape architect blueprinted a ten-year plan for regeneration of the magnificent formal gardens:景观设计师为宏伟的规则式花园的重建制定了十年计划
 
 a regular payment made by the state to people of or above the official retirement age and to some widows and disabled people:a国家定期向法定退休年龄或以上的人以及一些寡妇和残疾人支付的款项
 a regular payment made during a person's retirement from an investment fund to which that person or their employer has contributed during their working life:a在一个人退休期间从该人或其雇主在其工作生涯中捐助的投资基金中定期支付的款项
@@ -293,7 +293,7 @@ a small hotel or boarding house in France and other European countries.:法国�
 pension |ˈpɛnʃn| Noun/Verb/:养老金,退休金,抚恤金
 men can draw a pension from the age of sixty-five:男性从六十五岁开始可以领取养老金
 he was pensioned off from the army after the war:战后他从军队退休了
-garden sheds were raided to bring out machines long since pensioned off:gardensheds被突击搜查，以取出退休后很久的机器
+garden sheds were raided to bring out machines long since pensioned off:花园的棚子被抬高，用来生产早已退休的机器
 
 the process or activity of running a business, organization, etc.:经营企业、组织等的过程或活动。
 the people responsible for running a business, organization, etc.:负责经营企业、组织等的人。
@@ -329,31 +329,31 @@ a continuous articulated metal band around the wheels of a heavy vehicle such as
 a continuous line of copper or other conductive material on a printed circuit board, used to connect parts of a circuit:印刷电路板上的铜或其他导电材料的连续线，用于连接电路的各个部分
 the transverse distance between a vehicle's wheels:车轮之间的横向距离
 a group in which schoolchildren of the same age and ability are taught.:一个由同龄和同能力的学生组成的小组。
-follow the trail or movements of (someone or something), typically in order to find them or note their course:followthetrailormovementsof(someoneorsomething)，通常是为了找到他们或记下他们的路线
+follow the trail or movements of (someone or something), typically in order to find them or note their course:跟随（某人或某物）的足迹或运动，通常是为了找到他们或记下他们的路线
 note the progress or course of:注意进展或过程
-follow a particular course:follow特定课程
-(of a stylus) follow (a groove in a record):(ofastylus)follow（唱片上的凹槽）
+follow a particular course:遵循特定的课程
+(of a stylus) follow (a groove in a record):（手写笔的）跟随（唱片上的凹槽）
 (of a film or television camera) move in relation to the subject being filmed:（电影或电视摄影机的）相对于拍摄对象的移动
 (of wheels) run so that the back ones are exactly in the track of the front ones.:（轮子）运行，使后面的轮子正好在前面轮子的轨道上。
 (of a tunable circuit or component) vary in frequency in the same way as another circuit or component, so that the frequency difference between them remains constant.:（可调谐电路或组件）的频率变化方式与另一个电路或组件相同，因此它们之间的频率差保持不变。
 tow (a canoe) along a waterway from the bank:tow（独木舟）从河岸沿着水道
 track |trak| Noun/Verb/:追踪,小径,跟踪,轨道,履带
-follow the track to the farm:followthetrack到农场
+follow the track to the farm:按照轨道到农场
 a Formula One Grand Prix track:一级方程式大奖赛赛道
 the four running disciplines of track, road, country, and fell:田径、公路、乡村、摔倒四大跑步项目
-he followed the tracks made by the cars in the snow:he跟随汽车在雪地里留下的足迹
+he followed the tracks made by the cars in the snow:他跟随汽车在雪地里留下的足迹
 I didn't want them on my track:我不想让他们跟踪我
 in terms of social arrangements, you are not too far off the track:在社交安排方面，你并没有偏离轨道太远
-commuters had to leave trains to walk along the tracks:commuters不得不离开火车沿着铁轨行走
-the CD contains early Elvis Presley tracks:theCD包含早期猫王曲目
+commuters had to leave trains to walk along the tracks:通勤者不得不离开火车沿着铁轨行走
+the CD contains early Elvis Presley tracks:该 CD 包含早期的猫王曲目
 extremely thin tracks are not able to withstand much heat when soldering:极细的走线在焊接时无法承受太多的热量
 the undercarriage was fully retractable inwards into the wing, with a 90 inch track:起落架完全可向内收进机翼，有一条90英寸的轨道
 secondary radars that track the aircraft in flight:跟踪飞行中飞机的二次雷达
-City have been tracking the striker since the summer:City自夏天以来一直在追踪这名前锋
-the storm was tracking across the ground at 30 mph:thestorm以每小时30英里的速度穿过地面
-the pickup's stylus must faithfully track undulations:thepickup的手写笔必须忠实地跟踪起伏
+City have been tracking the striker since the summer:自夏天以来，曼城一直在追踪这名前锋
+the storm was tracking across the ground at 30 mph:风暴以每小时 30 英里的速度穿过地面
+the pickup's stylus must faithfully track undulations:拾音器的手写笔必须忠实地追踪起伏
 the camera eventually tracked away:相机最终被追踪
-he was going to track the canoe up the ice-hung rapids:hewasgoingtotrackthecanoeuptheice-hungrapids
+he was going to track the canoe up the ice-hung rapids:他打算沿着冰悬的激流追踪独木舟
 
 think about (something) carefully, especially before making a decision or reaching a conclusion:仔细考虑（某事），尤其是在做出决定或得出结论之前
 ponder |ˈpɒndə| Verb/:思考,深思,深思熟虑
@@ -363,11 +363,11 @@ I pondered the question of what clothes to wear for the occasion:我在琢磨这
 the abode of Adam and Eve before the Fall in the biblical account of the Creation, the Garden of Eden.:亚当和夏娃在圣经创世记载中堕落之前的居所，伊甸园。
 an ideal or idyllic place or state:一个理想的或田园诗般的地方或状态
 paradise |ˈparədʌɪs| Noun/:天堂,乐园,世外桃源
-martyrs who die in battle with the ungodly earn instant transmission to paradise:martyrs在与不敬虔的人的战斗中死去，立即获得天堂的传送
+martyrs who die in battle with the ungodly earn instant transmission to paradise:在与不敬虔的人战斗中死去的烈士立即获得天堂的传送
 the surrounding countryside is a walker's paradise:周围的乡村是步行者的天堂
 
-of or belonging to a population group or subgroup made up of people who share a common cultural background or descent:oforbelongtoapopulationgrouporsubgroup由具有共同文化背景或血统的人组成
-denoting origin by birth or descent rather than by present nationality:denotingoriginbybirthordescent而不是现在的国籍
+of or belonging to a population group or subgroup made up of people who share a common cultural background or descent:属于或属于由具有共同文化背景或血统的人组成的人口群体或子群体
+denoting origin by birth or descent rather than by present nationality:用出生或血统而不是现在的国籍来表示出身
 characteristic of or belonging to a non-Western cultural tradition:具有或属于非西方文化传统的特征
 neither Christian nor Jewish, pagan.:既不是基督徒也不是犹太人，异教徒。
 a member of an ethnic minority.:少数民族成员。

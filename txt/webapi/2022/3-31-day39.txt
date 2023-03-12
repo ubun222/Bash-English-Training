@@ -25,18 +25,18 @@ resolve						决定，解决
 \\\\
 
 give (something, especially money) in order to help achieve or provide something:give（某物，尤其是金钱）以帮助实现或提供某物
-help to cause or bring about:help导致或带来
+help to cause or bring about:帮助引起或带来
 supply (an article) for publication in a newspaper, magazine, or journal:supply（一篇文章）用于在报纸、杂志或期刊上发表
 give one's views in a discussion:在讨论中发表自己的观点
 contribute |kənˈtrɪbjuːt| Verb/:贡献,有助于,做出贡献
-taxpayers had contributed £141.8 million towards the cost of local services:taxpayers为当地服务成本贡献了1.418亿英镑
+taxpayers had contributed £141.8 million towards the cost of local services:纳税人为当地服务成本贡献了 1.418 亿英镑
 the government imposed a tax on fuels which contributed to global warming:政府对导致全球变暖的燃料征税
 he contributed articles to the magazine:他为杂志投稿
 he did not contribute to the meetings:他没有参加会议
 
 cause (someone) to feel awkward, self-conscious, or ashamed:使（某人）感到尴尬、自觉或羞愧
 be caused financial difficulties:be造成经济困难
-hamper or impede (a person or action):hamperorimpede(一个人或一个动作)
+hamper or impede (a person or action):阻碍或妨碍（某人或行动）
 make difficult or intricate, complicate:使困难或错综复杂，复杂化
 embarrass |ɪmˈbarəs| Verb/:尴尬,难为情
 she wouldn't embarrass either of them by making a scene:她不会因为闹剧而让他们中的任何一个都难堪
@@ -62,11 +62,11 @@ tending or designed to stick to things on contact:倾向于或旨在坚持接触
 (of a substance) glutinous, viscous:（物质的）粘稠的，粘稠的
 (of prices, interest rates, or wages) slow to change or react to change.:（价格、利率或工资）变化缓慢或对变化做出反应。
 (of the weather) hot and humid, muggy:（天气）炎热潮湿，闷热
-damp with sweat:dampwith汗水
+damp with sweat:被汗水打湿
 involving problems, difficult or awkward:涉及问题，困难或尴尬
 (of a website or its content) attracting a long visit or repeat visits from users:（网站或其内容）吸引用户长期访问或重复访问
 (of a thread in an online forum) set to remain at the top of the other threads regardless of when it was last updated:（在线论坛中的一个线程）设置为保持在其他线程的顶部，无论它上次更新是什么时候
-long-lasting or persistent:long-lasting或持久
+long-lasting or persistent:持久或持久
 a piece of paper with an adhesive strip on one side, used for leaving messages or reminders.:一张单面有胶条的纸，用于留言或提醒。
 (in an online forum) a thread containing important information that is set to remain at the top of the other threads regardless of when it was last updated:（在线论坛中）包含重要信息的线程，无论上次更新时间如何，该线程都设置在其他线程的顶部
 sticky |ˈstɪki| Adjective/Noun/:黏,粘性的,粘
@@ -91,8 +91,8 @@ invite (someone) to engage in a contest:邀请（某人）参加比赛
 enter into competition with or opposition against:进入竞争或反对
 make a rival claim to or threaten someone's hold on (a position):使对手声称或威胁某人的（职位）
 invite (someone) to do or say something that one thinks will be difficult or impossible:邀请（某人）做或说某人认为困难或不可能的事情
-make demands on, prove testing to:make要求，证明测试
-dispute the truth or validity of:dispute真实性或有效性
+make demands on, prove testing to:提出要求，证明测试
+dispute the truth or validity of:质疑的真实性或有效性
 object to (a jury member):反对（陪审团成员）
 (of a guard) order (someone) to prove their identity:（警卫）命令（某人）证明自己的身份
 administer an immunogenic or infectious agent to an animal or person, in order to study the resulting immune response or measure the efficacy of a vaccine:向动物或人施用免疫原性或传染性因子，以研究由此产生的免疫反应或测量疫苗的功效
@@ -102,7 +102,7 @@ the traverse of the ridge is a challenge for experienced climbers:山脊的穿�
 he is desperate for a third world title challenge:他渴望第三次世界冠军挑战
 a challenge to the legality of the banning order:对禁令合法性的挑战
 I heard the challenge ‘Who goes there?’:我听到了挑战“谁去那里？”
-challenge trials have yielded positive results when carefully and ethically conducted:challenge试验在谨慎和合乎道德的情况下取得了积极的结果
+challenge trials have yielded positive results when carefully and ethically conducted:在谨慎和合乎道德的情况下，挑战试验取得了积极的成果
 he challenged one of my men to a duel:他向我的一个手下发起决斗
 the beauty industry as we know it is being challenged by a group of pioneers hoping to change the way we see our bodies:我们所知道的美容行业正面临着一群希望改变我们看待身体的方式的先驱者的挑战
 they were challenging his leadership:他们在挑战他的领导能力
@@ -125,7 +125,7 @@ excess |ˈɛksɛs| Adjective/Noun/:过量的,超过,过量,过剩,多余的
 are you suffering from an excess of stress in your life?:你的生活压力过大吗？
 as regards other cancers in this age group, there is a small excess during 1984—90:关于这个年龄组的其他癌症，在1990年间有小幅过剩
 there is no issue as to excess of jurisdiction:没有超越管辖权的问题
-bouts of alcoholic excess:bouts酒精过量
+bouts of alcoholic excess:酒精过量发作
 the worst excesses of the French Revolution:法国大革命最严重的过激行为
 we will deduct the excess from the loss and then pay up to the policy limit:我们将从损失中扣除超出部分，然后支付至保单限额
 trim any excess fat off the meat:去除肉上多余的脂肪
@@ -137,11 +137,11 @@ excesses | 过激行为,过分
 
 
 
-enlist (someone) in the armed forces:enlist（某人）在武装部队
+enlist (someone) in the armed forces:使（某人）入伍
 form (an army or other force) by enlisting new people:通过招募新人形成（军队或其他部队）
-enrol (someone) as a member or worker in an organization or as a supporter of a cause:enrol（某人）作为组织的成员或工作人员或作为事业的支持者
+enrol (someone) as a member or worker in an organization or as a supporter of a cause:登记（某人）为组织的成员或工人或作为事业的支持者
 persuade to do or help with something:说服做某事或帮助某事
-replenish or reinvigorate (numbers, strength, etc.):replenish或reinvigorate（数字、力量等）
+replenish or reinvigorate (numbers, strength, etc.):补充或恢复活力（数量、力量等）
 a person newly enlisted in the armed forces and not yet fully trained.:一个新入伍但尚未完全训练的人。
 a new member of an organization or supporter of a cause.:组织的新成员或事业的支持者。
 recruit |rɪˈkruːt| Noun/Verb/:招募,新成员,招,招收,新兵
@@ -149,9 +149,9 @@ we recruit our toughest soldiers from the desert tribes:我们从沙漠部落招
 the weakness of feudal service as a basis for recruiting an army:以封建制度为征兵基础的弱点
 there are plans to recruit more staff later this year:计划在今年晚些时候招聘更多员工
 she recruited her children to help run the racket:她招募她的孩子来帮助打球拍
-travelling was said to recruit the constitution:travelling据说招募宪法
+travelling was said to recruit the constitution:据说旅行可以吸收体质
 
-state too strongly, exaggerate:state太强烈，夸张
+state too strongly, exaggerate:陈述过于强烈，夸大
 overstate |ˌəʊvəˈsteɪt| Verb/:夸大,夸大其词,夸大了
 I overstated my case to make my point:我夸大了我的观点以表达我的观点
 
@@ -186,17 +186,17 @@ at a conservative estimate | 保守估计,保守的估计
 
 
 
-replenish (a store) with fresh stock or supplies:replenish（商店）有新鲜的库存或用品
+replenish (a store) with fresh stock or supplies:用新鲜的存货或用品补充（商店）
 restock |ˌriːˈstɒk| Verb/:补货,重新进货
 work began at once to restock the fishery:工作立即开始补充渔业资源
 
-declare (someone) to be guilty of a criminal offence by the verdict of a jury or the decision of a judge in a court of law:declare（某人）根据陪审团的裁决或法院法官的决定犯有刑事罪行
+declare (someone) to be guilty of a criminal offence by the verdict of a jury or the decision of a judge in a court of law:根据陪审团的裁决或法院法官的决定宣布（某人）犯有刑事罪
 a person found guilty of a criminal offence and serving a sentence of imprisonment:a被判犯有刑事罪行并正在服刑的人
 convict |kənˈvɪkt| Noun/Verb/:定罪,囚犯,犯人,囚徒,有罪
 the thieves were convicted of the robbery:盗贼被判抢劫罪
 two escaped convicts kidnapped them at gunpoint:two逃犯在枪口下绑架了他们
 
-make or become deep or deeper:makeor变得更深或更深
+make or become deep or deeper:使或变得深或更深
 deepen |ˈdiːp(ə)n| Verb/:深化,加深
 
 a large receptacle or storage chamber, especially for liquid or gas.:一个大的容器或储存室，特别是液体或气体。
@@ -207,7 +207,7 @@ a heavy armoured fighting vehicle carrying guns and moving on a continuous artic
 a cell in a police station or jail.:警察局或监狱的牢房。
 fill the tank of a vehicle with fuel:给车辆的油箱加满燃料
 drink heavily, become drunk:大量饮酒，醉酒
-fail completely, especially at great financial cost:fail完全失败，尤其是付出巨大的经济代价
+fail completely, especially at great financial cost:完全失败，尤其是在巨大的财务成本下
 (in sport) deliberately lose or fail to finish (a match):（运动中）故意输掉或未能完成（一场比赛）
 defeat heavily:大败
 tank |taŋk| Noun/Verb/:坦克,倒闭,罐
@@ -217,7 +217,7 @@ the cars stopped to tank up:汽车停下来加油
 they get tanked up before the game:他们在比赛开始前就气喘吁吁
 the previous movie had tanked at the box office:前一部电影票房惨淡
 the powerful baseliner had tanked the match:强大的底线选手在比赛中败下阵来
-Rangers tanked the local side 8–0:Rangers以
+Rangers tanked the local side 8–0:游骑兵队以 8-0 击败了当地球队
 
 consisting in or characterized by the absence rather than the presence of distinguishing features.:包含或以不存在而不是存在显着特征为特征。
 expressing or implying denial, disagreement, or refusal:表达或暗示否认、不同意或拒绝
@@ -242,9 +242,9 @@ the part of an electric circuit that is at a lower electrical potential than ano
 a number less than zero.:小于零的数字。
 refuse to accept, reject:拒绝接受，拒绝
 prove to be untrue:证明是不真实的
-render ineffective, neutralize:render无效，中和
+render ineffective, neutralize:使无效，中和
 negative |ˈnɛɡətɪv| Adjective/Noun/Verb/:消极的,拒绝,负,负片,阴性
-that, I take it, was a negative answer:that，我认为，是一个否定的答案
+that, I take it, was a negative answer:我认为那是一个否定的答案
 a negative test result:a阴性检测结果
 all the patients have tested negative for TB:所有患者的结核病检测结果均为阴性
 they were described as having negative vulnerability to water entry:他们被描述为对进水有负面的脆弱性
@@ -252,8 +252,8 @@ they were described as having negative vulnerability to water entry:他们被描
 the new tax was having a negative effect on car sales:新税对汽车销售产生负面影响
 the industry suffered negative growth in the 1990s:行业在1990年代遭遇负增长
 she replied in the negative:她的回答是否定的
-confidence will not be instilled by harping solely on the negative:confidence不会通过仅仅在消极方面进行灌输来灌输
-photographs and negatives should be supplied for enlargement purposes:photographs和底片应提供用于放大目的
+confidence will not be instilled by harping solely on the negative:仅仅在消极方面喋喋不休是不会增强信心的
+photographs and negatives should be supplied for enlargement purposes:应提供照片和底片以供放大
 the percentage of false negatives generated by a cancer test was of great concern:癌症检测产生的假阴性百分比令人担忧
 the bill was negatived on second reading by 130 votes to 129:该法案在二读时以130票对129票被否决
 the insurer's main arguments were negatived by Lawrence:保险公司的主要论点被劳伦斯否定
@@ -264,18 +264,18 @@ increase in rate, amount, or extent:增加速率、数量或范围
 undergo a change in velocity:经历速度变化
 accelerate |əkˈsɛləreɪt| Verb/:加速,加快,在
 the car accelerated towards her:汽车向她加速
-inflation started to accelerate:inflation开始加速
+inflation started to accelerate:通胀开始加速
 
 an area of land under the jurisdiction of a ruler or state:统治者或国家管辖的土地
 an area defended by an animal or group of animals against others of the same sex or species:一个由动物或动物群保卫的区域，以对抗其他同性或物种
 an area defended by a team or player in a game or sport.:在比赛或运动中由球队或球员防守的区域。
 an area in which one has certain rights or for which one has responsibility with regard to a particular type of activity:一个人拥有某些权利或对特定类型的活动负有责任的领域
-land with a specified characteristic:land具有指定特征
+land with a specified characteristic:具有特定特征的土地
 (especially in the US, Canada, or Australia) an organized division of a country that is not yet admitted to the full rights of a state.:（尤其是在美国、加拿大或澳大利亚）一个国家的有组织的部门，尚未获得国家的全部权利。
 an area of knowledge, activity, or experience:知识、活动或经验的领域
 territory |ˈtɛrɪt(ə)ri| Noun/:领土,领地,地域
-both countries accused the other of encroaching on their territory:both国家指责对方侵犯其领土
-male blackbirds try to attract as many females to their territory as possible:maleblackbirds试图吸引尽可能多的雌性到它们的领地
+both countries accused the other of encroaching on their territory:两国都指责对方侵犯其领土
+male blackbirds try to attract as many females to their territory as possible:雄性黑鸟试图吸引尽可能多的雌性黑鸟进入它们的领地
 don't go committing murders on my territory:不要在我的地盘上杀人
 woodland territory:林地领地
 the contentious territory of clinical standards:临床标准的争议领域
@@ -303,7 +303,7 @@ there are plenty of distractions such as sailing:有很多让人分心的事情�
 her uncharacteristic air of distraction:她一反常态的分心神气
 
 settle or find a solution to (a problem or contentious matter):解决或找到解决方案（问题或有争议的问题）
-cause (a symptom or condition) to heal or subside:she收到的信息增强了她的决心2
+cause (a symptom or condition) to heal or subside:她收到的信息增强了她的决心2
 (of a symptom or condition) heal or subside:（症状或状况的）痊愈或消退
 (with reference to a discord) pass or cause to pass into a concord during the course of harmonic change:（指不和谐）在谐波变化过程中通过或导致进入和谐
 decide firmly on a course of action:坚定地决定行动方针
@@ -319,9 +319,9 @@ a formal resolution by a legislative body or public meeting.:立法机构或公�
 resolve |rɪˈzɒlv| Noun/Verb/:解决,决心,解析
 the firm aims to resolve problems within 30 days:公司的目标是在30天内解决问题
 endoscopic biliary drainage can rapidly resolve jaundice:内镜胆道引流可快速解决黄疸
-symptoms resolved after a median of four weeks:symptoms在中位数4周后得到解决
+symptoms resolved after a median of four weeks:症状在中位数 4 周后消退
 the executive resolved that a strike would be detrimental to all concerned:行政人员决定罢工将对所有相关人员造成不利影响
 the ability to resolve facts into their legal categories:将事实分解为法律类别的能力
 the orange light resolved itself into four roadwork lanterns:橙色的光变成了四个修路灯
-Hubble was able to resolve six variable stars in M31:Hubble能够分辨出M31中的六颗变星
-she received information that strengthened her resolve:she收到的信息增强了她的决心
+Hubble was able to resolve six variable stars in M31:哈勃能够分辨出 M31 中的六颗变星
+she received information that strengthened her resolve:她收到的信息增强了她的决心

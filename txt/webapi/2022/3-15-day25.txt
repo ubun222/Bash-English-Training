@@ -75,7 +75,7 @@ a related group of repressed or partly repressed emotionally significant ideas w
 a strong or disproportionate concern or anxiety about something:对某事的强烈或不成比例的担忧或焦虑
 an ion or molecule in which one or more groups are linked to a metal atom by coordinate bonds:一种离子或分子，其中一个或多个基团通过配位键与金属原子相连
 any loosely bonded species formed by the association of two molecules:任何由两个分子结合形成的松散结合的物质
-make (an atom or compound) form a complex with another:make（一个原子或化合物）与另一个形成复合物
+make (an atom or compound) form a complex with another:使（一个原子或化合物）与另一个形成络合物
 complex |ˈkɒmplɛks| Adjective/Noun/Verb/:复杂的,建筑群,复杂,复合,复
 a complex network of water channels:一个复杂的水道网络
 a complex personality:复杂的性格
@@ -88,16 +88,16 @@ cross-linked protein–DNA complexes:交联蛋白-DNA复合物
 the DNA was complexed with the nuclear extract:DNA与核提取物复合
 
 discover the exact place or position of:发现确切的地点或位置
-situate in a particular place:situate在一个特定的地方
-place within a particular context:place在特定的上下文中
+situate in a particular place:位于一个特定的地方
+place within a particular context:放置在特定的上下文中
 establish oneself or one's business in a specified place:在指定地点成立自己或自己的企业
 locate |lə(ʊ)ˈkeɪt| Verb/:定位,找到
-engineers were working to locate the fault:engineers正在努力定位故障
+engineers were working to locate the fault:工程师正在努力定位故障
 these popular apartments are centrally located:这些受欢迎的公寓位于市中心
 they locate their policies in terms of wealth creation:他们根据财富创造来定位他们的政策
 his marketing strategy has been to locate in small towns:他的营销策略一直是定位在小城镇
 
-make or become tight or tighter:makeor变得更紧或更紧
+make or become tight or tighter:使或变得紧或更紧
 tighten |ˈtʌɪtn| Verb/:,收紧,拧紧
 
 the branch of science concerned with the nature and properties of matter and energy. The subject matter of physics includes mechanics, heat, light and other radiation, sound, electricity, magnetism, and the structure of atoms.:与物质和能量的性质和特性有关的科学分支。物理学的主题包括力学、热、光和其他辐射、声、电、磁和原子结构。
@@ -114,20 +114,20 @@ tell (someone) officially that they can or must leave a place or situation.:正�
 allow (a patient) to leave hospital because they are judged fit:允许（患者）离开医院，因为他们被认为合适
 dismiss from the armed forces or police:解雇武装部队或警察
 release from the custody or restraint of the law:解除羁押或法律约束
-relieve (a juror or jury) from serving in a case:relieve（陪审员或陪审团）在案件中任职
+relieve (a juror or jury) from serving in a case:免除（陪审员或陪审团）在案件中的任职
 allow (a liquid, gas, or other substance) to flow out from where it has been confined:允许（液体、气体或其他物质）从它被限制的地方流出
 (of an orifice or diseased tissue) emit (pus or other liquid):（孔口或病变组织的）排出（脓液或其他液体）
 release or neutralize the electric charge of (an electric field, battery, or other object):释放或中和（电场、电池或其他物体）的电荷
 (of a person) fire (a gun or missile):（人的）开火（枪或导弹）
 (of a firearm) be fired:（枪支的）被开火
 unload (goods or passengers) from a ship:从船上卸载（货物或乘客）
-allow (an emotion) to be expressed:allow（一种情绪）被表达
+allow (an emotion) to be expressed:允许（情绪）表达
 do all that is required to perform (a duty) or fulfil (a responsibility):do所有需要执行（职责）或履行（责任）
-pay off (a debt):payoff（债务）
+pay off (a debt):还清（债务）
 release (a party) from a contract or obligation:解除（一方）合同或义务
-relieve (a bankrupt) of residual liability:relieve（破产人）的剩余责任
+relieve (a bankrupt) of residual liability:免除（破产人）剩余责任
 (of a judge or court) cancel (an order of a court):（法官或法院的）取消（法院的命令）
-cancel (a contract) because of completion or breach:cancel（合同）因完成或违约
+cancel (a contract) because of completion or breach:由于完成或违约而取消（合同）
 the action of discharging someone from a hospital or from the armed forces or police:将某人从医院或武装部队或警察中释放的行为
 an act of releasing someone from the custody or restraint of the law:将某人从法律的羁押或限制中释放出来的行为
 the action of discharging a liquid, gas, or other substance:排出液体、气体或其他物质的动作
@@ -141,9 +141,9 @@ the payment of a debt:偿还债务
 the relief of a bankrupt from residual liability:破产人的剩余责任的救济
 the cancellation of an order of a court:法院命令的取消
 discharge |dɪsˈtʃɑːdʒ| Noun/Verb/:释放,卸货,排出,放电,出院
-Mark was taken away in an ambulance but later discharged:Mark被救护车带走，但后来出院
+Mark was taken away in an ambulance but later discharged:马克被救护车带走，但后来出院了
 his memory was impaired and he was discharged from the RAF:他的记忆力受损，他从英国皇家空军退役
-she was conditionally discharged for two years at Oxford Crown Court:she在牛津皇家法院有条件地出院两年
+she was conditionally discharged for two years at Oxford Crown Court:她在牛津皇家法院有条件地出院两年
 if the jury cannot agree, it should be discharged:如果陪审团不能达成一致，则应退庭
 industrial plants discharge highly toxic materials into rivers:工业工厂向河流排放剧毒物质
 the swelling will eventually break down and discharge pus:肿胀最终会分解并排出脓液
@@ -159,7 +159,7 @@ first-time bankrupts are discharged automatically after three years:首次破产
 the court may discharge a care order on the application of the child:法院可根据儿童的申请解除照料令
 an existing mortgage to be discharged on completion:一个现有的抵押贷款将在完成后解除
 referrals can be discussed before discharge from hospital:referrals可以在出院前讨论
-she was given an absolute discharge after admitting breaking a smoking ban:she在承认违反禁烟令后获得了绝对出院
+she was given an absolute discharge after admitting breaking a smoking ban:她在承认违反禁烟令后获得了绝对出院
 those germs might lead to vaginal discharge:那些细菌可能导致阴道分泌物
 industrial discharge has turned the river into an open sewer:工业排放已将河流变成明渠
 slow discharge of a condenser is fundamental to oscillatory circuits:电容器的缓慢放电是振荡电路的基础
@@ -168,16 +168,16 @@ a police permit for discharge of an air gun:a释放气枪的警察许可证
 freight for discharge:货运卸货
 directors must use skill in the discharge of their duties:董事在履行职责时必须运用技能
 money paid in discharge of a claim:在解除索赔时支付的钱
-machinery to rehabilitate the bankrupt through the process of discharge:machinery通过出院流程为破产者平反
+machinery to rehabilitate the bankrupt through the process of discharge:通过解除程序使破产人重生的机械
 an application for discharge of a supervision order:解除监管令的申请
 
-modern and recently developed:modern和最近开发的
+modern and recently developed:现代和最近开发的
 far on or ahead in development or progress:远在或领先于发展或进步
 having or suitable for a high level of knowledge or skill:具有或适合高水平的知识或技能
 (of a clock or watch) showing a time ahead of the correct time:（时钟或手表）显示正确时间之前的时间
 advanced |ədˈvɑːnst| Adjective/:,高级,先进
 the team developed advanced techniques for measuring and controlling the noise of the submarines:该团队开发了先进的技术来测量和控制潜艇的噪音
-negotiations are at an advanced stage:negotiations处于后期阶段
+negotiations are at an advanced stage:谈判进入后期
 the content of at least some programmes should be at an advanced level:至少有些节目的内容应该是高级的
 my watch is advanced:我的手表是高级的
 
@@ -209,7 +209,7 @@ no longer new and interesting or exciting:不再新鲜、有趣或令人兴奋
 make or become stale:make或变得陈旧
 (of an animal, especially a horse) urinate:（动物，尤指马）小便
 stale |steɪl| Adjective/Verb/:陈旧,过时,陈旧的
-stale bread:stale面包
+stale bread:不新鲜的面包
 their marriage had gone stale:他们的婚姻已经过时了
 a top executive tends to get stale:a高层管理人员往往会变得陈旧
 justifications for adverse possession go beyond stale claims:逆权管有的理由超越过时的索赔
@@ -217,7 +217,7 @@ the horse staled while he was riding:这匹马在骑马时变质了
 
 relaxed and unconcerned:放松和不关心
 made or done without much thought or premeditation:在没有太多思考或预谋的情况下完成或完成
-done or acting in a desultory way:done或胡作非为
+done or acting in a desultory way:随意地做或做
 done or acting without sufficient care or thoroughness:done或在没有足够小心或彻底的情况下采取行动
 not regular or permanent.:不是定期或永久的。
 employed or established on a temporary or irregular basis:受雇或临时或不定期成立
@@ -239,8 +239,8 @@ they don't do one-night stands or casual flings:他们不做一夜情或随便�
 he pretended it was a casual meeting:他假装这是一个随意的会议
 a casual short-sleeved shirt:a休闲短袖衬衫
 a number of casuals became regular customers:一些散客成为常客
-the business employs eight full-time sales staff and ten casuals:thebusiness雇佣了8名全职销售人员和10名临时工
-she designs women's casuals:she设计女士休闲装
+the business employs eight full-time sales staff and ten casuals:该企业雇佣了八名全职销售人员和十名临时工
+she designs women's casuals:她设计女士休闲装
 
 comply with rules, standards, or laws:遵守规则、标准或法律
 (of a person) behave according to socially acceptable conventions or standards:（某人）按照社会可接受的惯例或标准行事
@@ -273,7 +273,7 @@ disapprove of:不赞成
 a facial expression indicating disapproval, displeasure, or concentration, characterized by a furrowing of one's brows:表示不赞成、不高兴或集中注意力的面部表情，特点是皱起眉头
 frown |fraʊn| Noun/Verb/:皱眉,愁眉苦脸,皱着眉头
 he frowned as he reread the letter:他重读这封信时皱起眉头
-promiscuity was frowned upon:promiscuity不受欢迎
+promiscuity was frowned upon:滥交是不受欢迎的
 a frown of disapproval:不赞成的皱眉
 
 (typically of something regarded as good) become smaller, fewer, or less, decrease:（通常被认为是好的东西）变得更小、更少或更少、减少
@@ -288,18 +288,18 @@ a disease in which the bodily strength gradually fails, especially tuberculosis:
 decline |dɪˈklʌɪn| Noun/Verb/:衰退,婉拒,下降,拒绝,衰落
 the birth rate continued to decline:出生率持续下降
 her health began to decline:她的健康开始下降
-Caroline declined the coffee:Caroline拒绝了咖啡
+Caroline declined the coffee:卡罗琳谢绝了咖啡
 the sun began to creep round to the west and to decline:太阳开始向西爬行并下降
 the wearisome creatures of the world declining to their rest:世界上令人厌烦的生物不愿安息
 a serious decline in bird numbers:鸟类数量严重下降
-this Evening from the Sun's decline arriv'd:thisEveningfrom太阳的衰落到达
+this Evening from the Sun's decline arriv'd:This Evening from the Sun's decline arriv'd 太阳落日的傍晚
 he died at his brother's of a deep decline:他死在了他兄弟的衰弱中
 
 have a specified beginning:有一个指定的开头
 create or initiate (something):create或启动（某事）
 originate |əˈrɪdʒɪneɪt| Verb/:起源,发起,发源地
 the word originated as a marketing term:这个词起源于一个营销术语
-he is responsible for originating this particular cliché:he负责制造这个特定的陈词滥调
+he is responsible for originating this particular cliché:他负责制造这个特定的陈词滥调
 
 the possibility or likelihood of some future event occurring:某些未来事件发生的可能性或可能性
 a mental picture of a future or anticipated event:未来或预期事件的心理图景
@@ -351,7 +351,7 @@ the virus of cruelty that is latent in all human beings:潜伏在所有人体内
 
 prepare and use (land) for crops or gardening:为庄稼或园艺准备和使用（土地）
 break up (soil) in preparation for sowing or planting:分解（土壤）为播种或种植做准备
-raise or grow (plants), especially on a large scale for commercial purposes:raiseorgrow(plants),特别是大规模用于商业目的
+raise or grow (plants), especially on a large scale for commercial purposes:饲养或种植（植物），尤指为商业目的而大规模种植
 grow or maintain (living cells or tissue) in culture:在培养中生长或维持（活细胞或组织）
 try to acquire or develop (a quality or skill):尝试获得或发展（一种品质或技能）
 try to win the friendship or favour of (someone):尝试赢得（某人）的友谊或青睐
@@ -379,7 +379,7 @@ reluctant |rɪˈlʌkt(ə)nt| Adjective/:不情愿的,勉强
 (of a person) wretchedly unhappy or uncomfortable:（某人）非常不开心或不舒服
 causing unhappiness or discomfort:引起不快或不适
 (of a person) habitually morose:（一个人的）习惯性地闷闷不乐
-contemptible (used as a term of abuse or for emphasis):contemptible（用作滥用或强调的术语）
+contemptible (used as a term of abuse or for emphasis):可鄙的（用作辱骂或强调）
 pitiably small or inadequate:可怜的小或不足
 miserly:吝啬
 miserable |ˈmɪz(ə)rəbl| Adjective/:悲惨的,惨,悲惨,可怜

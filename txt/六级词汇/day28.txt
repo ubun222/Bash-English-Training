@@ -21,7 +21,7 @@ strip					脱掉衣服，除去，剥夺，条
 tackle				处理，阻截
 steady				稳定的，均匀的
 minority				少数，未成年
-aspirational			志向
+aspirational			有志向的
 discipline				纪律，惩罚，训导
 threshold				门槛，关口
 soar					高飞，升高
@@ -40,7 +40,7 @@ transport in a shuttle:班车运输
 shuttle |ˈʃʌt(ə)l| Noun/Verb/:穿梭,梭,班车,航天飞机
 the nine o'clock shuttle from Edinburgh:爱丁堡九点钟班车
 the Secretary of State shuttled to and fro seeking compromise:国务卿穿梭求妥协
-the river taxi shuttled employees between the newspaper's offices and the capital:therivertaxi在报社办公室和首都之间接送员工
+the river taxi shuttled employees between the newspaper's offices and the capital:河上出租车在报社办公室和首都之间接送员工
 
 a frightening or unpleasant dream:一个可怕的或不愉快的梦
 a very unpleasant or frightening experience or prospect:非常不愉快或可怕的经历或前景
@@ -50,24 +50,24 @@ I had nightmares after watching the horror movie:看了恐怖片做噩梦了
 the nightmare of racial hatred:种族仇恨的噩梦
 buying wine can be a nightmare if you don't know enough about it:如果你不够了解，买酒可能是一场噩梦
 
-cause to feel sudden shock or alarm:cause感到突然震惊或惊慌
+cause to feel sudden shock or alarm:使感到突然震惊或惊慌
 startle |ˈstɑːtl| Verb/:惊吓,骇,吓一跳,惊
 a sudden sound in the doorway startled her:门口突然传来的声音把她吓了一跳
 
 scattered pieces of rubbish or remains:散落的垃圾或残骸
 loose natural material consisting especially of broken pieces of rock:松散的天然材料，尤其由碎石块组成
 debris |ˈdɛbriː| Noun/:碎片,杂物
-workmen were clearing the roads of the debris from shattered buildings:workmen正在清理道路上破碎建筑物的碎片
+workmen were clearing the roads of the debris from shattered buildings:工人们正在清理道路上破碎建筑物的碎片
 a stable arrangement of planets, comets, and debris orbiting the sun:行星、彗星和围绕太阳运行的碎片的稳定排列
 
-(of people) gather together in one place for a common purpose:(ofpeople)为了共同的目的聚集在一个地方
-cause (people or things) to gather together for a common purpose:cause（人或物）为了共同的目的聚集在一起
+(of people) gather together in one place for a common purpose:（人）为了共同的目的聚集在一个地方
+cause (people or things) to gather together for a common purpose:使（人或物）为了共同的目的聚集在一起
 (of male moths) gather for mating in response to a pheromone released by a female:（雄性飞蛾）聚集交配以响应雌性释放的信息素
-fit together the separate component parts of (a machine or other object):fittogethertheseparatecomponentpartsof(amachineorotherobject)的
-translate (a program) from a higher-level programming language into machine code:translate(aprogram)从高级编程语言到机器码
+fit together the separate component parts of (a machine or other object):将（机器或其他物体）的独立组成部分组装在一起
+translate (a program) from a higher-level programming language into machine code:将（程序）从高级编程语言翻译成机器码
 assemble |əˈsɛmbl| Noun/Verb/:集合,组装,装配
 a crowd had assembled outside the gates:一群人聚集在大门外
-he assembled the surviving members of the group for a tour:he召集幸存的团队成员进行巡回演出
+he assembled the surviving members of the group for a tour:他召集幸存的团队成员进行巡回演出
 the males assemble and hang by their front legs within a yard or two of the female:雄性在雌性一两码范围内聚集并用前腿悬挂
 my new machine is being assembled and my old one dismantled:我的新机器正在组装，我的旧机器正在拆除
 assemble the program and produce a file suitable to input to the simulator:组装程序并生成适合输入到模拟器的文件
@@ -87,9 +87,9 @@ of or near a coast:海岸或海岸附近
 coastal |ˈkəʊstl| Adjective/:沿海,海岸,沿海的,海岸的
 coastal erosion:海岸侵蚀
 
-abandon (a person, cause, or organization) in a way considered disloyal or treacherous:abandon(aperson,cause,ororganization)以被认为不忠诚或背信弃义的方式
-(of people) leave (a place), causing it to appear empty:(ofpeople)离开(aplace)，使它显得空荡荡的
-(of a quality or ability) fail (someone) when most needed:(ofaqualityorability)在最需要的时候失败（某人）
+abandon (a person, cause, or organization) in a way considered disloyal or treacherous:以被认为不忠或背信弃义的方式放弃（一个人、事业或组织）
+(of people) leave (a place), causing it to appear empty:（人）离开（地方），使它显得空旷
+(of a quality or ability) fail (someone) when most needed:（具有某种品质或能力）在最需要的时候失败（某人）
 illegally leave the armed forces:非法离开军队
 a waterless, desolate area of land with little or no vegetation, typically one covered with sand:一块无水、荒凉的土地，很少或没有植被，通常覆盖着沙子
 a situation or place considered dull and uninteresting:被认为沉闷无趣的情况或地方
@@ -103,55 +103,55 @@ her luck deserted her:她的运气抛弃了她
 his life in the regiment had been such a hell that he decided to desert:他在团里的生活简直是地狱，以至于他决定开小差
 the desert of the Sinai peninsula is a harsh place:西奈半岛的沙漠是一个严酷的地方
 a cultural desert:文化沙漠
-overgrazing has created desert conditions:overgrazing创造了沙漠条件
+overgrazing has created desert conditions:过度放牧造成了沙漠条件
 desert wastes:沙漠废物
 
 look with difficulty or concentration at someone or something:艰难地或专注地看着某人或某物
 be just visible:只是可见
-come into view, appear:comeintoview,出现
+come into view, appear:进入视野，出现
 a member of the nobility in Britain or Ireland, comprising the ranks of duke, marquess, earl, viscount, and baron:不列颠或爱尔兰的贵族成员，包括公爵、侯爵、伯爵、子爵和男爵
 a person of the same age, status, or ability as another specified person:与另一特定人具有相同年龄、地位或能力的人
 make or become equal with:使或变得等于
 peer |pɪə| Noun/Verb/:同行,同龄人
-Faye peered at her with suspicion:Faye怀疑地看着她
-the towers peer over the roofs:thetowers窥视屋顶
+Faye peered at her with suspicion:菲伊怀疑地看着她
+the towers peer over the roofs:塔楼俯瞰屋顶
 for yet a many of your horsemen peer:因为你的许多骑士同行
 hereditary peers could still dominate the proceedings of the House of Lords:世袭贵族仍然可以主导上议院的议事程序
-he has incurred much criticism from his academic peers:he受到学术同行的批评
+he has incurred much criticism from his academic peers:他受到学术同行的批评
 
-be an expression of or give a tangible or visible form to (an idea, quality, or feeling):beexpressionoforgiveatangibleorvisibleformto(一个想法，品质，或感觉)
-provide (a spirit) with a physical form:provide（精神）有形体
-include or contain (something) as a constituent part:includeorcontain(something)作为一个组成部分
-form (people) into a body, especially for military purposes:form(people)intoabody,尤指用于军事目的
+be an expression of or give a tangible or visible form to (an idea, quality, or feeling):表达或赋予（想法，品质或感觉）有形或可见的形式
+provide (a spirit) with a physical form:为（精神）提供物质形态
+include or contain (something) as a constituent part:包括或包含（某物）作为组成部分
+form (people) into a body, especially for military purposes:将（人）形成一个身体，尤指用于军事目的
 embody |ɪmˈbɒdi| Verb/:体现,具身
 a national team that embodies competitive spirit and skill:一支体现竞技精神和技术的国家队
 nothing of the personality of the Spirit as embodied in Jesus will be lost:体现在耶稣身上的圣灵的人格不会丢失
 the changes in law embodied in the Children Act:《儿童法》所体现的法律变化
-Livius embodied the population of the town:Livius体现了该镇的人口
+Livius embodied the population of the town:利维乌斯体现了该镇的人口
 
-feeling, showing, or expressing sympathy:feeling,showing,orexpressingsympathy表示同情
+feeling, showing, or expressing sympathy:感觉、表现或表达同情
 showing approval of or favour towards an idea or action:表示赞同或支持某个想法或行动
-(of a person) attracting the liking of others:(ofaperson)吸引别人的喜欢
+(of a person) attracting the liking of others:（某人）吸引别人的喜欢
 (of a structure) designed in a sensitive or appropriate way:（结构的）以敏感或适当的方式设计
 relating to or denoting the part of the autonomic nervous system consisting of nerves arising from ganglia near the middle part of the spinal cord, supplying the internal organs, blood vessels, and glands, and balancing the action of the parasympathetic nerves.:关于或表示自主神经系统的一部分，由脊髓中部附近的神经节发出的神经组成，供应内脏、血管和腺体，并平衡副交感神经的作用。
 relating to, producing, or denoting an effect which arises in response to a similar action elsewhere.:关于、产生或表示响应其他地方的类似行为而产生的效果。
 sympathetic |ˌsɪmpəˈθɛtɪk| Adjective/:,富有同情心的
-she was sympathetic towards staff with family problems:she对有家庭问题的员工表示同情
-he was sympathetic to evolutionary ideas:he同情进化论
-Hubbell is a more sympathetic character:Hubbell是一个更有同情心的角色
+she was sympathetic towards staff with family problems:她对有家庭问题的员工表示同情
+he was sympathetic to evolutionary ideas:他同情进化论
+Hubbell is a more sympathetic character:哈贝尔是一个更有同情心的角色
 buildings that were sympathetic to their surroundings:与周围环境相得益彰的建筑
 
 help or support:帮助或支持
-a person or thing that can be called on if necessary, a reserve:apersonorthingthatcanbecalledifnecessary,储备
+a person or thing that can be called on if necessary, a reserve:必要时可以召集的人或事物，储备
 a copy of a file or other item of data made in case the original is lost or damaged:一份文件或其他数据项的副本，以防原件丢失或损坏
 the procedure for making backup copies of files or other items of data:制作文件或其他数据项目备份副本的程序
 an accumulation of something caused by a blockage, as in traffic or water:由于堵塞造成的东西堆积，如在交通或水中
 backup |ˈbakʌp| Noun/:备份,后备
 no police backup could be expected:预计不会有警察支援
-I've got a security force as backup:I'vegotasecurityforceasbackup
+I've got a security force as backup:我有一支安全部队作为后援
 make a backup of any important files:对所有重要文件进行备份
 automatic online backup:自动在线备份
-there are long backups on all routes:所有路由都有longbackup
+there are long backups on all routes:所有路线都有长备份
 
 in particular, especially:尤其是，尤其是
 in a way that is striking or remarkable:以一种引人注目或非凡的方式
@@ -174,20 +174,20 @@ literary work in which the expression of feelings and ideas is given intensity b
 a quality of beauty and intensity of emotion regarded as characteristic of poems:被视为诗歌特征的美的品质和情感的强烈
 something regarded as comparable to poetry in its beauty:在美感上堪比诗歌的东西
 poetry |ˈpəʊɪtri| Noun/:诗歌,诗
-he felt a desire to investigate through poetry the subjects of pain and death:he感到渴望通过诗歌来探究痛苦和死亡的主题
+he felt a desire to investigate through poetry the subjects of pain and death:他感到渴望通过诗歌来探究痛苦和死亡的主题
 poetry and fire are nicely balanced in the music:诗歌和火在音乐中得到了很好的平衡
 the music department is housed in a building which is pure poetry:音乐系坐落在一栋纯诗的建筑里
 
 make an unjust or prejudicial distinction in the treatment of different categories of people, especially on the grounds of ethnicity, sex, age, or disability:在对待不同类别的人时做出不公正或有偏见的区分，特别是基于种族、性别、年龄或残疾
-recognize a distinction, differentiate:recognizeadistinction,区分
-perceive or constitute the difference in or between:perceiveorconstructioninorbetween差异
+recognize a distinction, differentiate:识别区别，区分
+perceive or constitute the difference in or between:感知或构成两者之间的差异
 discriminate |dɪˈskrɪmɪneɪt| Verb/:,鉴别,歧视,区别对待
 existing employment policies discriminate against women:现行就业政策歧视女性
-babies can discriminate between different facial expressions:babies可以区分不同的面部表情
+babies can discriminate between different facial expressions:婴儿可以区分不同的面部表情
 features that discriminate this species from other gastropods:将这个物种与其他腹足动物区分开来的特征
 
 set or adjust (something) again:再次设置或调整（某物）
-adjust or adapt to a changed situation:adjust或adapttoachangedsituation
+adjust or adapt to a changed situation:调整或适应变化的情况
 readjust |ˌriːəˈdʒʌst| Verb/:重新调整,调整
 I readjusted the rear-view mirror:我重新调整了后视镜
 it can take years to readjust to this situation:可能需要数年时间才能重新适应这种情况
@@ -211,9 +211,9 @@ remove the stems from (tobacco).:去掉（烟草）的茎。
 milk (a cow) to the last drop.:牛奶（一头牛）到最后一滴。
 leave bare of accessories or fittings:保留配件或配件
 remove the accessory fittings of or take apart (a machine, motor vehicle, etc.) to inspect or adjust it:拆下（机器、机动车等）的附件或拆开检查或调整
-deprive someone of (rank, power, or property):deprive某人的（等级、权力或财产）
+deprive someone of (rank, power, or property):剥夺某人的（地位、权力或财产）
 sell off (the assets of a company) for profit.:卖掉（公司的资产）以获取利润。
-divest (a bond) of its interest coupons so that it and they may be sold separately.:divest(abond)它的息票，以便它和它们可以分开出售。
+divest (a bond) of its interest coupons so that it and they may be sold separately.:剥离（债券）的息票，以便它和它们可以分开出售。
 tear the thread or teeth from (a screw, gearwheel, etc.).:撕下（螺丝、齿轮等）的螺纹或齿。
 (of a screw, gearwheel, etc.) lose its thread or teeth.:（螺丝钉、齿轮等）失去螺纹或齿。
 (of a bullet) be fired from a rifled gun without spin owing to a loss of surface.:（子弹的）由于失去表面而从线膛枪中发射而没有旋转。
@@ -229,9 +229,9 @@ a programme broadcast regularly at the same time:一个节目同时定时播出
 strip |strɪp| Noun/Verb/:条,脱光,跳闸,脱衣舞,带
 they stripped the bed:他们拆了床
 I was tempted to strip off for a swim:我很想脱掉衣服去游泳
-she stripped off her shirt:she脱下她的衬衫
+she stripped off her shirt:她脱下她的衬衫
 the floorboards can be stripped, sanded, and polished:地板可以剥离、打磨和抛光
-thieves stripped the room of luggage:thieves偷走了房间里的行李
+thieves stripped the room of luggage:窃贼偷走了房间里的行李
 the tank was stripped down piece by piece:坦克被一块一块拆下来
 the lieutenant was stripped of his rank:中尉被剥夺军衔
 she got drunk and did a strip on top of the piano:她喝醉了，在钢琴上脱衣舞
@@ -240,7 +240,7 @@ the team's away strip is a garish mix of red, white, and blue:球队的客场球
 the offensive gained a strip of territory a mile wide:攻势获得了一英里宽的领土
 we went to a discount centre in a strip near where we work:we去了我们工作地点附近的一个折扣中心
 the company had purchased 67,423 kg of steel strip:公司采购钢带67423公斤
-he hosts a weekly two-hour advice strip:he主持每周两小时的建议栏目
+he hosts a weekly two-hour advice strip:他主持每周两小时的建议栏目
 
 the equipment required for a task or sport:任务或运动所需的设备
 a man's genitals.:男人的生殖器。
@@ -250,21 +250,21 @@ an act of playing the ball, or attempting to do so, when it is in the possession
 an act of seizing and attempting to stop a player in possession of the ball.:抓住并试图阻止控球球员的行为。
 a player who lines up next to the end along the line of scrimmage.:一名球员沿着争球线排在最后一队。
 make determined efforts to deal with (a problem or difficult task):下定决心去处理（一个问题或艰巨的任务）
-initiate discussion with (someone) about a disputed or sensitive issue:initiate与（某人）讨论有争议或敏感的问题
+initiate discussion with (someone) about a disputed or sensitive issue:与（某人）就有争议或敏感的问题发起讨论
 try to take the ball from (an opponent) by intercepting them:尝试通过拦截从（对手）手中夺走球
 try to stop the forward progress of (the ball carrier) by seizing them and knocking them to the ground:试图通过抓住他们并将他们击倒在地来阻止（持球者）的前进
 tackle |ˈtakl| Noun/Verb/:,用具,解决,铲球
 fishing tackle:渔具
-he was only prevented from scoring by a fine tackle:he只是被一次漂亮的铲球阻止了得分
-police have launched an initiative to tackle rising crime:police发起了一项应对犯罪率上升的倡议
+he was only prevented from scoring by a fine tackle:他只是被一次漂亮的铲球阻止了得分
+police have launched an initiative to tackle rising crime:警方发起了一项应对犯罪率上升的举措
 a young man tackled him over why the council had spent money on a swimming pool:一个年轻人质问他为什么议会要花钱建游泳池
-the first scoring chance came when Orrell tackled Webb:Orrell铲断Webb时第一次得分机会来了
+the first scoring chance came when Orrell tackled Webb:第一个得分机会来自于奥雷尔铲断韦伯
 
 firmly fixed, supported, or balanced, not shaking or moving:牢固地固定、支撑或平衡，不晃动或移动
 not faltering or wavering, controlled:不要犹豫或动摇，要控制
-(of a person) sensible, reliable, and self-restrained:(ofaperson)理智、可靠、有节制
+(of a person) sensible, reliable, and self-restrained:（人）理智、可靠、有节制
 regular, even, and continuous in development, frequency, or intensity:在发展、频率或强度方面有规律、均匀和持续
-not changing, regular and established:notchanging,regularandestablished固定不变
+not changing, regular and established:不变，有规律，既定
 (of a ship) moving without deviation from its course.:（船的）在不偏离航向的情况下移动。
 steady |ˈstɛdi| Adjective/Interjection/Noun/Verb/:稳定的,使平稳,稳定地,稳定,平稳
 the lighter the camera, the harder it is to hold steady:相机越轻越难拿稳
@@ -279,7 +279,7 @@ a small group of people within a community or country, differing from the main p
 the state or period of being under the age of full legal responsibility:未达到完全法定责任年龄的状态或时期
 minority |mʌɪˈnɒrɪti| Noun/:,少数,少数人
 only a minority of properties are rented:只有少数房产出租
-a blocking minority of 23 votes:ablockingminority23票
+a blocking minority of 23 votes:
 ethnic minorities:少数民族
 intrigues between factions striving to make the king their puppet continued throughout his minority:努力使国王成为他们的傀儡的派系之间的阴谋在他的少数时期继续存在
 
@@ -292,15 +292,15 @@ the controlled behaviour resulting from such training:这种训练导致的受�
 activity that provides mental or physical training:提供心理或身体训练的活动
 a system of rules of conduct:行为准则体系
 a branch of knowledge, typically one studied in higher education:知识的一个分支，通常是在高等教育中学习的
-train (someone) to obey rules or a code of behaviour, using punishment to correct disobedience:train（某人）遵守规则或行为准则，使用惩罚来纠正不服从行为
+train (someone) to obey rules or a code of behaviour, using punishment to correct disobedience:训练（某人）遵守规则或行为准则，使用惩罚来纠正不服从行为
 punish or rebuke formally for an offence:对罪行进行正式的惩罚或斥责
 train oneself to do something in a controlled and habitual way:训练自己以有节制和习惯的方式做某事
 discipline |ˈdɪsɪplɪn| Noun/Verb/:纪律,惩罚,学科,规矩
 a lack of proper parental and school discipline:缺乏适当的父母和学校纪律
-he was able to maintain discipline among his men:he能够在手下维持纪律
-the tariqa offered spiritual discipline:thetariqa提供精神纪律
-he doesn't have to submit to normal disciplines:he不必服从正常的纪律
-sociology is a fairly new discipline:sociology是一门相当新的学科
+he was able to maintain discipline among his men:他能够在手下维持纪律
+the tariqa offered spiritual discipline:tariqa 提供精神纪律
+he doesn't have to submit to normal disciplines:他不必服从正常的纪律
+sociology is a fairly new discipline:社会学是一门相当新的学科
 many parents have been afraid to discipline their children:许多父母害怕管教他们的孩子
 a member of staff was to be disciplined by management:一名员工将受到管理层的纪律处分
 every month discipline yourself to go through the file:每个月训练自己浏览文件
@@ -311,13 +311,13 @@ the beginning of an airport runway on which an aircraft is attempting to land.:�
 the magnitude or intensity that must be exceeded for a certain reaction, phenomenon, result, or condition to occur or be manifested:为使某种反应、现象、结果或条件发生或表现而必须超过的幅度或强度
 the maximum level of radiation or a concentration of a substance considered to be acceptable or safe:被认为可接受或安全的最大辐射水平或物质浓度
 the level at which one starts to feel or react to something:一个人开始对某事有感觉或反应的水平
-a level, rate, or amount at which something comes into effect:alevel,rate,oramount在什么东西开始生效
+a level, rate, or amount at which something comes into effect:某事开始生效的水平、速度或数量
 threshold |ˈθrɛʃ(h)əʊld| Noun/:临界点,阈,阈值
-he stood on the threshold of Sheila's bedroom:he站在Sheila卧室的门槛上
+he stood on the threshold of Sheila's bedroom:他站在希拉卧室的门槛上
 she was on the threshold of a dazzling career:她正处于耀眼的职业生涯的门槛上
 nothing happens until the signal passes the threshold:在信号超过阈值之前什么都不会发生
 their water would meet the safety threshold of 50 milligrams of nitrates per litre:他们的水将达到每升50毫克硝酸盐的安全阈值
-he has a low boredom threshold:he的无聊阈值很低
+he has a low boredom threshold:他的无聊阈值很低
 the inheritance tax threshold:遗产税起征点
 
 fly or rise high in the air:高高飞翔
@@ -330,13 +330,13 @@ the cost of living continued to soar:生活成本持续飙升
 
 not level or smooth:不水平或光滑
 not regular, consistent, or equal:不规则、一致或相等
-(of a contest) not equally balanced:(ofacontest)不平等
+(of a contest) not equally balanced:（竞赛的）不平衡的
 uneven |ʌnˈiːvn| Adjective/:不均匀的,参差不齐,不均匀
 the floors are cracked and uneven:地板开裂不平整
 the uneven distribution of resources:资源分配不均
-Fran struggled briefly but soon gave up the uneven match:Fran短暂挣扎，但很快放弃了不平衡的比赛
+Fran struggled briefly but soon gave up the uneven match:弗兰短暂挣扎，但很快就放弃了这场不平衡的比赛
 
-decisive or critical, especially in the success or failure of something:decisiveorcritical，尤其是在某事的成功或失败时
+decisive or critical, especially in the success or failure of something:决定性的或关键的，尤其是在某事的成败方面
 of great importance:非常重要
 excellent.:优秀。
 crucial |ˈkruːʃl| Adjective/:至关重要的,关键
@@ -348,8 +348,8 @@ physical sports and games of any kind.:体育运动和任何类型的游戏。
 athletics |aθˈlɛtɪks| Noun/:竞技,田径,竞技体育
 
 
-(of a person) lacking the necessities of life, very poor:(ofaperson)缺乏生活必需品，非常贫穷
-(of circumstances) characterized by poverty:(ofcircumstances)以贫困为特征
+(of a person) lacking the necessities of life, very poor:（人）缺乏生活必需品，非常贫穷
+(of circumstances) characterized by poverty:（情况）以贫困为特征
 (of a person) needing emotional support, insecure.:（一个人的）需要情感支持，没有安全感。
 needy |ˈniːdi| Adjective/:有需要的,贫困的
 needy and elderly people:有需要人士及长者

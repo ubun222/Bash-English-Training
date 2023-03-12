@@ -46,7 +46,7 @@ speak to (someone) for the first time about a proposal or request:第一次与�
 start to deal with (a situation or problem) in a certain way:开始以某种方式处理（情况或问题）
 a way of dealing with a situation or problem:处理情况或问题的方法
 an initial proposal or request made to someone:向某人提出的初步建议或请求
-behaviour intended to propose personal or sexual relations with someone:behaviour打算与某人建立个人或性关系
+behaviour intended to propose personal or sexual relations with someone:意图向某人提出个人或性关系的行为
 the action of coming near or nearer to someone or something in distance or time:在一定距离或时间上接近或接近某人或某物的动作
 an approximation to something:某事物的近似值
 the part of an aircraft's flight in which it descends gradually towards an airfield or runway for landing:飞机飞行中逐渐下降到机场或跑道着陆的部分
@@ -59,11 +59,11 @@ the department had been approached about funding:该部门已就资金问题接�
 one must approach the matter with caution:one必须谨慎处理此事
 we need a whole new approach to the job:我们需要一种全新的工作方式
 the landowner made an approach to the developer:土地所有者与开发商接洽
-feminine resistance to his approaches:feminine抵制他的方法
+feminine resistance to his approaches:女性对他的方法的抵制
 the approach of winter:冬天的来临
 the past is impossible to recall with any approach to accuracy:过去是不可能用任何方法来准确回忆的
 the aircraft completed the approach and touched down:飞机完成进近并着陆
-the northern approaches to London:theNorthern通往伦敦的道路
+the northern approaches to London:通往伦敦的北部通道
 
 the process or activity of running a business, organization, etc.:经营企业、组织等的过程或活动。
 the people responsible for running a business, organization, etc.:负责经营企业、组织等的人员。
@@ -111,7 +111,7 @@ of a normal or ordinary kind:普通的或普通的
 not pretentious or arrogant; ordinary and friendly:不自命不凡；普通而友善
 denoting merchandise, especially food or clothing, of average or standard size:表示平均或标准尺寸的商品，尤其是食品或衣服
 (in surfing and other board sports) with the left leg in front of the right on the board:（在冲浪和其他板类运动中）左腿在板上右前
-(of a word) following the normal pattern of inflection:(ofaword)遵循正常的变形模式
+(of a word) following the normal pattern of inflection:（一个词的）遵循正常的词形变化模式
 (of a figure) having all sides and all angles equal:（一个图形的）所有边和所有角度都相等
 (of a solid) bounded by a number of equal figures.:（一个实体）由多个相等的数字包围。
 a regular customer, member of a team, etc.:普通客户、团队成员等
@@ -133,7 +133,7 @@ I couldn't get an appointment with my regular barber:我无法与我的常规理
 egg pasta is richer than regular pasta:egg意大利面比普通意大利面更丰富
 he's a regular guy, not a glamour puss:他是个普通人，不是魅力十足的猫
 a shake and regular fries:a奶昔和普通薯条
-Elkerton is a regular footer:Elkerton是常规页脚
+Elkerton is a regular footer:埃尔克顿是一个普通的脚手
 a regular verb:一个规则动词
 a regular polygon:一个正多边形
 pub regulars:pub常客
@@ -141,7 +141,7 @@ the garrison consisted of 200 regulars:驻军由200名常客组成
 
 an act of miscalculating; an error or misjudgement:误判行为；错误或误判
 miscalculation |ˌmɪskalkjʊˈleɪʃn| Noun/:误算,计算错误
-miscalculations were made in counting properties:miscalculations在计数属性中进行
+miscalculations were made in counting properties:在计算属性时发生了错误计算
 
 make it difficult for (someone) to do something or for (something) to happen:使（某人）难以做某事或（某事）发生
 (especially of a bodily part) rear; hind:（尤其是身体部分的）后部；后
@@ -161,7 +161,7 @@ selection |sɪˈlɛkʃn| Noun/:,挑选
 such men decided the selection of candidates:这样的人决定了候选人的选择
 the publication of a selection of his poems:出版他的诗选
 the restaurant offers a wide selection of hot and cold dishes:the餐厅提供多种冷热菜肴
-I make Dayflower the selection for the Irish 1000 Guineas:我让Dayflower成为爱尔兰1000吉尼的选择
+I make Dayflower the selection for the Irish 1000 Guineas:我让 Dayflower 成为 Irish 1000 Guineas 的选择
 your selection may not contain two different data types:您的选择可能不包含两种不同的数据类型
 there has been more than enough time for selection to generate specific DNA sequences of the required length:已经有足够的时间进行选择以生成所需长度的特定DNA序列
 blocks ranging in area from 158 to 3,102 acres have been thrown open for selection:面积从 158 英亩到 3,102 英亩不等的街区已开放供选择
@@ -169,7 +169,7 @@ blocks ranging in area from 158 to 3,102 acres have been thrown open for selecti
 the alternate rising and falling of the sea, usually twice in each lunar day at a particular place, due to the attraction of the moon and sun:海面的交替上升和下降，由于月亮和太阳的吸引，通常每个阴历日在特定地点两次
 the water as affected by the tide:受潮汐影响的水
 a powerful surge of feeling or trend of events:强烈的感觉或事件趋势
-drift with or as if with the tide.:drift随潮或仿佛随潮。
+drift with or as if with the tide.:随波逐流或仿佛随波逐流。
 (of a ship) work in or out of harbour with the help of the tide.:（船舶）在潮汐的帮助下进出港口。
 tide |tʌɪd| Noun/Verb/:浪潮,潮,潮汐,潮流
 the changing patterns of the tides:潮汐的变化规律
@@ -179,7 +179,7 @@ he drifted into sleep on a tide of euphoria:他在欣喜若狂的浪潮中睡着
 higher in rank, status, or quality:等级、地位或质量更高
 of high standard or quality:高标准或高质量
 greater in size or power:更大的尺寸或功率
-above yielding to or being influenced by:above屈服于或受其影响
+above yielding to or being influenced by:超越屈服于或受其影响
 having or showing an overly high opinion of oneself; conceited:对自己有过高的评价；自负
 (of a letter, figure, or symbol) written or printed above the line.:（一个字母、图形或符号）写在或印在横线上。
 further above or out; higher in position.:进一步高于或超出；地位较高。
@@ -248,25 +248,25 @@ liberation |ˌlɪbəˈreɪʃn| Noun/:解放
 the liberation of all political prisoners:解放所有政治犯
 the struggle for women's liberation:妇女解放斗争
 
-notice or perceive (something) and register it as being significant:notice或感知（某事）并将其注册为重要的
-watch (someone or something) carefully and attentively:watch（某人或某事）仔细而专心
+notice or perceive (something) and register it as being significant:注意或感知（某事）并将其记录为重要
+watch (someone or something) carefully and attentively:仔细、专心地观察（某人或某物）
 take note of or detect (something) in the course of a scientific study:在科学研究过程中注意或发现（某事）
 make a remark:发表评论
 fulfil or comply with (a social, legal, ethical, or religious obligation):履行或遵守（社会、法律、道德或宗教义务）
 maintain (silence) in compliance with a rule or custom, or temporarily as a mark of respect:保持（沉默）遵守规则或习俗，或暂时作为尊重的标志
 perform or take part in (a rite or ceremony):执行或参加（仪式或仪式）
-celebrate or acknowledge (an anniversary):celebrate或确认（周年纪念日）
+celebrate or acknowledge (an anniversary):庆祝或承认（周年纪念日）
 observe |əbˈzəːv| Verb/:观察
 Rob stood in the hallway, from where he could observe the happenings on the street:Rob站在走廊里，他可以从那里观察街上发生的事情
 the behaviour observed in groups of chimpanzees:在黑猩猩群体中观察到的行为
 a tribunal must observe the principles of natural justice:a法庭必须遵守自然正义的原则
 a minute's silence will be observed:将默哀一分钟
-relations gather to observe the funeral rites:relations聚集在一起观察葬礼
+relations gather to observe the funeral rites:相关人员聚集在一起观看葬礼
 they observed the one-year anniversary of the flood:他们观察洪水一周年
 
 an organization having a particular purpose, especially one that is involved with science, education, or a specific profession:具有特定目的的组织，尤其是涉及科学、教育或特定专业的组织
 a commentary, treatise, or summary of principles, especially concerning law:a评论、论文或原则摘要，尤其是关于法律的
-introduce or establish (a scheme, undertaking, or policy):introduce或建立（计划、承诺或政策）
+introduce or establish (a scheme, undertaking, or policy):引入或建立（计划、承诺或政策）
 begin (legal proceedings) in a court:begin（法律程序）在法庭上
 appoint (someone) to a position, especially as a cleric:任命（某人）到某个职位，尤其是作为牧师
 institute |ˈɪnstɪtjuːt| Noun/Verb/:研究所,学院
@@ -287,7 +287,7 @@ very bad or unpleasant:我们离高速公路很远1
 extremely shocking; horrific:极其震撼；可怕的
 (of a person) very unwell or troubled:（一个人的）非常不舒服或烦恼
 used to emphasize the extent of something, especially something unpleasant or negative:用于强调某事的程度，尤其是不愉快或消极的事
-inspiring reverential wonder or fear.:inspiring虔诚的惊奇或恐惧。
+inspiring reverential wonder or fear.:激发虔诚的惊奇或恐惧。
 awfully; very:糟糕透了；2
 awful |ˈɔːf(ʊ)l| Adjective/Adverb/:可怕,可怕的
 the place smelled awful:这个地方闻起来很糟糕
@@ -303,7 +303,7 @@ the department in a hospital which provides immediate treatment:提供即时治�
 the Second World War.:第二次世界大战。
 a reserve runner in horse racing.:一个赛马的后备赛跑者。
 emergency |ɪˈməːdʒ(ə)nsi| Noun/:紧急情况
-personal alarms for use in an emergency:personal警报用于紧急情况
+personal alarms for use in an emergency:紧急情况下使用的个人警报器
 an emergency operation to save his sight:紧急手术以挽救他的视力
 the hospital treated two hundred emergencies:医院收治了200起急症
 a doctor in emergency cleaned the wound:急诊医生清理伤口
@@ -335,11 +335,11 @@ don't stress—there's plenty of time to get a grip on the situation:不要紧�
 set (a boat) in motion by pushing it or allowing it to roll into the water:set（一艘船）通过推动它或让它滚入水中来运动
 set (a newly built ship or boat) afloat for the first time with an official ceremony:set（一艘新建的船或小船）第一次在正式仪式上漂浮
 send (a missile, satellite, or spacecraft) on its course:send（导弹、卫星或航天器）在其航向中
-hurl (something) forcefully:hurl(某事)用力
+hurl (something) forcefully:用力投掷（某物）
 make a sudden energetic movement:做一个突然的精力充沛的运动
-utter (criticism or a threat) vehemently:utter（批评或威胁）激烈
+utter (criticism or a threat) vehemently:激烈地说（批评或威胁）
 start or set in motion (an activity or enterprise):start或启动（一项活动或企业）
-introduce (a new product or publication) to the public for the first time:introduce（新产品或出版物）首次公开
+introduce (a new product or publication) to the public for the first time:首次向公众介绍（新产品或出版物）
 an act or instance of launching something:启动某物的行为或实例
 an occasion at which a new product or publication is introduced to the public:向公众介绍新产品或出版物的场合
 a large motorboat, used especially for short trips:a大型摩托艇，专门用于短途旅行
@@ -355,7 +355,7 @@ the government is to launch a £1.25 million publicity campaign:the政府将发�
 two new Ford models are to be launched in the US next year:两款福特新车型将于明年在美国上市
 the launch of a new campaign against drinking and driving:发起新的酒后驾驶运动
 a book launch:新书发布会
-she cruised the waterways on a luxury motor launch:she乘坐豪华汽艇在水道上航行
+she cruised the waterways on a luxury motor launch:她乘坐豪华汽艇在水道上航行
 
 think or assume that something is true or probable but lack proof or certain knowledge:认为或假设某事是真实的或可能的，但缺乏证据或某些知识
 used to make a suggestion or a hesitant admission:用于提出建议或犹豫是否承认
@@ -370,7 +370,7 @@ the procedure supposes that a will has already been proved:程序假设遗嘱已
 I'm supposed to be meeting someone at the airport:我应该在机场见人
 I shouldn't have been in the study—I'm not supposed to go in there:我不应该在书房里——我不应该去那里
 
-take (something) away or off from the position occupied:take（某物）离开或离开占据的位置
+take (something) away or off from the position occupied:从占据的位置拿走（某物）或离开
 take off (clothing):起飞（衣服）
 change one's home or place of residence by moving to (another place):通过搬到（另一个地方）改变自己的家或居住地
 compel (someone) by law to move to another area:强制（某人）依法搬到另一个地区
@@ -383,9 +383,9 @@ a form or division in some British schools:一些英国学校的表格或部门
 remove |rɪˈmuːv| Noun/Verb/:消除,距离,去掉,删除
 Customs officials removed documents from the premises:海关官员从该处所取走文件
 he sat down and quickly removed his shoes and socks:他坐下，迅速脱掉鞋袜
-he removed to Wales and began afresh:he移居威尔士并重新开始
+he removed to Wales and began afresh:他移居威尔士并重新开始
 a man is removed to the tribal district of his forbears:一个人被移到他祖先的部落地区
-exchange controls have finally been removed:exchange控件终于被移除了
+exchange controls have finally been removed:外汇管制终于取消
 he was removed from his teaching position:他被免职
 it is an isolated place, far removed from the London art world:it是一个与世隔绝的地方，远离伦敦艺术界
 an explanation that is far removed from the truth:一个与事实相去甚远的解释
@@ -412,7 +412,7 @@ they were suffering from exposure:他们遭受暴露
 his exposure to the banking system:他对银行系统的敞口
 New Delhi increased its exposure to hard loans:新德里增加了硬贷款的敞口
 she took her life for fear of exposure as a spy:她因害怕暴露为间谍而自杀
-scientific findings receive regular exposure in the media:scientific发现定期在媒体上曝光
+scientific findings receive regular exposure in the media:科学发现经常在媒体上曝光
 a camera which would give a picture immediately after exposure:一台曝光后立即拍照的相机
 an exposure of 0.5 seconds at f/5.6:f/5.6曝光0.5秒
 the exposure is perfect—a gentle slope to the south-west:曝光完美——西南方向缓坡展望
@@ -420,9 +420,9 @@ the exposure is perfect—a gentle slope to the south-west:曝光完美——西
 support or actively encourage (a cause, venture, etc.); further the progress of:支持或积极鼓励（事业、冒险等）；7
 give publicity to (a product, organization, or venture) so as to increase sales or public awareness:宣传（产品、组织或企业）以提高销量或提高公众知名度
 attempt to ensure the passing of (a private Act of Parliament):试图确保通过（议会的私人法案）
-raise (someone) to a higher position or rank:raise（某人）到更高的职位或等级
-transfer (a sports team) to a higher division of a league:transfer（一个运动队）到一个联赛的更高级别
-exchange (a pawn) for a more powerful piece of the same colour, typically a queen, when it reaches the opponent's end of the board.:exchange（棋子）当它到达对手的棋盘末端时，换取更强大的相同颜色的棋子，通常是皇后。
+raise (someone) to a higher position or rank:将（某人）提升到更高的职位或级别
+transfer (a sports team) to a higher division of a league:将（运动队）转移到联赛的更高级别
+exchange (a pawn) for a more powerful piece of the same colour, typically a queen, when it reaches the opponent's end of the board.:当棋子到达对手的棋盘末端时，将（棋子）换成更强大的同色棋子，通常是皇后。
 enable (a relatively low card) to win a trick by playing off the higher ones first:使（一张相对低的牌）通过先打出高牌来赢得一墩牌
 (of an additive) act as a promoter of (a catalyst).:（添加剂）充当（催化剂）的促进剂。
 promote |prəˈməʊt| Verb/:推动,促进
@@ -431,15 +431,15 @@ they are using famous personalities to promote the library nationally:他们正�
 the government of the day would not be promoting the bill:当时的政府不会宣传该法案
 she was promoted to General Manager:她晋升为总经理
 they were promoted from the Third Division last season:他们上赛季从三级联赛晋级
-East will win with the ace and lead a heart, promoting the ♠9:East将赢得ace并引导心脏，推动♠
+East will win with the ace and lead a heart, promoting the ♠9:东将以王牌取胜，带领一颗心，推动♠9
 
-occupy or attract (someone's interest or attention):occupy或吸引（某人的兴趣或注意力）
+occupy or attract (someone's interest or attention):占据或吸引（某人的兴趣或注意力）
 involve someone in (a conversation or discussion):让某人参与（对话或讨论）
-participate or become involved in:participate或参与
+participate or become involved in:参与或参与
 establish a meaningful contact or connection with:建立有意义的联系或联系
 arrange to employ or hire (someone):安排雇用或雇用（某人）
 pledge or enter into a contract to do something:承诺或订立合同做某事
-reserve (accommodation, a place, etc.) in advance:reserve（住宿、地点等）提前
+reserve (accommodation, a place, etc.) in advance:提前预定（住宿、地点等）
 (with reference to a part of a machine or engine) move into position so as to come into operation:（参照机器或发动机的一部分）移动到位以便开始工作
 (of fencers or swordsmen) bring (weapons) together preparatory to fighting.:（剑士或剑士）将（武器）聚集在一起准备战斗。
 enter into combat with (an enemy):与（一个敌人）战斗
@@ -472,7 +472,7 @@ a person who works very hard without proper remuneration or appreciation:努力�
 a person who is excessively dependent upon or controlled by something:过度依赖或控制某事的人
 a device, or part of one, directly controlled by another:一个设备，或一个设备的一部分，由另一个设备直接控制
 work excessively hard:工作过分努力
-subject (a device) to control by another:subject（一个设备）被另一个控制
+subject (a device) to control by another:主体（设备）由另一个控制
 make (someone) a slave; enslave.:使（某人）成为奴隶；奴役。
 slave |sleɪv| Noun/Verb/:奴隶
 they kidnapped entire towns and turned the inhabitants into slaves:他们绑架了整个城镇并将居民变成奴隶

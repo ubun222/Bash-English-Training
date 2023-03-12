@@ -34,14 +34,14 @@ promotional					广告宣传的，晋升的
 
 a thing that is borrowed, especially a sum of money that is expected to be paid back with interest:借来的东西，尤指预期会连本带息偿还的一笔钱
 an act of lending something to someone:向某人借东西的行为
-lend (a sum of money or item of property):lend（一笔钱或财产）
+lend (a sum of money or item of property):借出（一笔钱或财产）
 a lane or narrow path, especially one leading to open ground:一条小路或狭窄的小路，尤其是通往开阔地面的
 an open, uncultivated piece of land where cows are milked.:一块开阔的、未开垦的土地，供奶牛挤奶。
 loan |ləʊn| Noun/Verb/:贷款,借出,借贷
-borrowers can take out a loan for £84,000:borrowers可以贷款84,000英镑
+borrowers can take out a loan for £84,000:借款人可以获得 84,000 英镑的贷款
 she offered to buy him dinner in return for the loan of the flat:她提出请他吃饭以换取公寓的贷款
 the computer was loaned to us by the theatre:这台电脑是剧院借给我们的
-Whitehouse Loan:Whitehouse贷款
+Whitehouse Loan:白宫贷款
 
 the body of words used in a particular language:特定语言中使用的词的主体
 the words used in a particular subject or sphere of activity or on a particular occasion:在特定主题或活动领域或特定场合使用的词语
@@ -52,7 +52,7 @@ vocabulary |və(ʊ)ˈkabjʊləri| Noun/:词汇,词汇表
 a comparison of the vocabularies of different languages:不同语言词汇的比较
 the vocabulary of law:法律词汇
 he had a wide vocabulary:他的词汇量很广
-dance companies have their own vocabularies of movement:dance公司有自己的运动词汇
+dance companies have their own vocabularies of movement:舞蹈团有自己的动作词汇
 
 provide (a book, newspaper, etc.) with pictures:提供（一本书、报纸等）和图片
 explain or make (something) clear by using examples, charts, pictures, etc.:用例子、图表、图片等来解释或使（某事）清楚。
@@ -73,7 +73,7 @@ the excess or surplus not able to be accommodated by an available space:可用�
 the generation of a number or other data item which is too large for the assigned location or memory space.:生成的数字或其他数据项对于分配的位置或内存空间来说太大了。
 overflow |ˌəʊvəˈfləʊ| Noun/Verb/:溢出,溢流,溢
 chemicals overflowed from a storage tank:化学品从储罐溢出
-boxes overflowing with bright flowers:boxes开满了鲜艳的花朵
+boxes overflowing with bright flowers:装满鲜艳花朵的盒子
 the waiting area was overflowing:等候区人满为患
 her hair overflowed her shoulders:她的头发溢出了她的肩膀
 her heart overflowed with joy:她的心洋溢着喜悦
@@ -81,7 +81,7 @@ there was some overflow after heavy rainfall:大雨过后有一些溢出
 to accommodate the overflow five more offices have been built:以容纳溢出的另外五个办公室已建成
 
 indulge in daydreaming about something desired:沉迷于对想要的东西做白日梦
-imagine (something that one wants to happen):imagine（想要发生的事情）
+imagine (something that one wants to happen):想象（某人想要发生的事情）
 fantasize |ˈfantəsʌɪz| Verb/:,幻想起来
 he sometimes fantasized about emigrating:他有时会幻想移民
 one might fantasize the death of someone seen as a threat:one可能会幻想某人的死亡被视为威胁
@@ -104,7 +104,7 @@ universal |ˌjuːnɪˈvəːsl| Adjective/Noun/:普遍的,普遍,通用
 universal adult suffrage:成人普选
 
 produce or create:生产或创造
-produce (energy, especially electricity).:produce（能源，尤其是电力）。
+produce (energy, especially electricity).:生产（能源，特别是电力）。
 produce (a set or sequence of items) by performing specified mathematical or logical operations on an initial set.:通过对初始集合执行指定的数学或逻辑运算来产生（一组或一系列项目）。
 produce (a sentence or other unit, especially a well-formed one) by the application of a finite set of rules to lexical or other linguistic input.:通过将一组有限的规则应用于词汇或其他语言输入来产生（一个句子或其他单元，尤其是一个格式良好的单元）。
 form (a line, surface, or solid) by notionally moving a point, line, or surface.:通过在概念上移动点、线或面来形成（线、面或实体）。
@@ -125,18 +125,18 @@ take a moment out of your busy schedule:从繁忙的日程中抽出一点时间
 information on airline schedules:航班时刻表信息
 they need a clear schedule of fixtures and fittings:他们需要明确的固定装置和配件时间表
 the release of the single is scheduled for April:单曲预定4月发行
-Cowley Bridge has already been scheduled and protected as an ancient monument:CowleyBridge已被预定并保护为古迹
+Cowley Bridge has already been scheduled and protected as an ancient monument:考利桥已被列为古迹并受到保护
 
 relapse into bad ways or error:重蹈坏道或错误
 backslide |ˈbakslʌɪd| Verb/:倒退,后滑
-there are many things that can cause slimmers to backslide:有很多事情会导致slimmers倒退
+there are many things that can cause slimmers to backslide:有很多事情会导致减肥者倒退
 
 a minute portion of matter:一小部分物质
 any of numerous subatomic constituents of the physical world that interact with each other, including electrons, neutrinos, photons, and alpha particles.:物理世界中相互作用的众多亚原子成分中的任何一种，包括电子、中微子、光子和阿尔法粒子。
 a hypothetical object having mass but no physical size.:一个有质量但没有物理尺寸的假设物体。
 the least possible amount:尽可能少的数量
-(in English) any of the class of words such as in, up, off, over, used with verbs to make phrasal verbs.:（英语）任何一类词，如in、up、off、over，与动词一起构成短语动词。
-(in ancient Greek) any of a class of words used for contrast and emphasis, such as de and ge.:（在古希腊语中）用于对比和强调的任何一类词，例如de和ge。
+(in English) any of the class of words such as in, up, off, over, used with verbs to make phrasal verbs.:（在英语中）任何一类词，例如 in、up、off、over，与动词一起使用来构成短语动词。
+(in ancient Greek) any of a class of words used for contrast and emphasis, such as de and ge.:（在古希腊语中）用于对比和强调的任何一类词，例如 de 和 ge。
 particle |ˈpɑːtɪkl| Noun/:,颗粒
 tiny particles of dust:微小的灰尘颗粒
 he agrees without hearing the least particle of evidence:他没有听到丝毫证据就同意了
@@ -170,7 +170,7 @@ reproduce |ˌriːprəˈdjuːs| Verb/:复制,重现,再生产
 his works are reproduced on postcards and posters:他的作品被复制在明信片和海报上
 you'll be amazed to see how well half-tones reproduce:你会惊讶地看到半色调的再现效果
 the problems are difficult to reproduce in the laboratory:实验室难以重现的问题
-bacteria normally divide and reproduce themselves every twenty minutes:bacteria通常每20分钟分裂和繁殖一次
+bacteria normally divide and reproduce themselves every twenty minutes:细菌通常每二十分钟分裂和繁殖一次
 
 make or become worse:使或变得更糟
 worsen |ˈwəːsn| Verb/:,加重
@@ -180,7 +180,7 @@ a screeching or humming sound resulting from the return of a fraction of the out
 the modification or control of a process or system by its results or effects, for example in a biochemical pathway or behavioural response.:通过其结果或影响对过程或系统进行修改或控制，例如在生化途径或行为反应中。
 feedback |ˈfiːdbak| Noun/:回馈,反馈,反馈意见
 throughout this process we have obtained valuable feedback:在整个过程中，我们获得了宝贵的反馈
-Punk Rock Girl opens the disc with plenty of guitar feedback:PunkRockGirl打开光盘，有大量吉他反馈
+Punk Rock Girl opens the disc with plenty of guitar feedback:Punk Rock Girl 以大量的吉他反馈开场
 
 equal in value, amount, function, meaning, etc.:等于价值、数量、功能、意义等。
 having the same or a similar effect as:具有相同或相似的效果
@@ -195,30 +195,30 @@ the French equivalent of the Bank of England:相当于法国的英格兰银行
 voluntarily leave a job or office:自愿离开工作或办公室
 give up (an office, privilege, etc.):放弃（办公室、特权等）
 end a game by conceding defeat without being checkmated:通过承认失败而不被将死来结束游戏
-accept that something undesirable cannot be avoided:accept不受欢迎的事情无法避免
+accept that something undesirable cannot be avoided:接受无法避免一些不受欢迎的事情
 surrender oneself to another's guidance:臣服于他人的指导
 resign |rɪˈzʌɪn| Verb/:辞职,下台
 he resigned from from the company in protest of the treatment of his co-workers:他从公司辞职以抗议同事的待遇
 four deputies resigned their seats:4名代表辞职
 he lost his Queen and resigned in 45 moves:他失去了他的女王并在45步中辞职
-she resigned herself to a lengthy session:she辞职参加了长时间的会议
+she resigned herself to a lengthy session:她辞职参加了长时间的会议
 he vows to resign himself to her direction:他发誓要听从她的指示
 
 provide (someone) with a reason for doing something:提供（某人）做某事的理由
 cause (someone) to have interest in or enthusiasm for something:使（某人）对某事有兴趣或热情
-request (something) and present facts and arguments in support of one's request:request（某事）并提出事实和论据以支持某人的请求
+request (something) and present facts and arguments in support of one's request:请求（某事）并提出事实和论据以支持某人的请求
 motivate |ˈməʊtɪveɪt| Verb/:激励,动机
 he was primarily motivated by the desire for profit:他主要是出于对利润的渴望
 it is the teacher's job to motivate the child at school:在学校激励孩子是老师的工作
-he said he would motivate funds to upgrade the food stalls:he表示会动员资金升级大排档
+he said he would motivate funds to upgrade the food stalls:他表示会动员资金升级大排档
 
-force or oblige (someone) to do something:force或强制（某人）做某事
+force or oblige (someone) to do something:强迫或迫使（某人）做某事
 bring about (something) by the use of force or pressure:通过使用武力或压力带来（某事）
-force to come or go in a particular direction:force来或去一个特定的方向
+force to come or go in a particular direction:强制朝特定方向前进或前进
 compel |kəmˈpɛl| Verb/:迫使,强迫
 a sense of duty compelled Harry to answer her questions:一种责任感迫使哈利回答她的问题
 they may compel a witness's attendance at court by issue of a summons:他们可以发出传票强迫证人出庭
-by heav'n's high will compell'd from shore to shore:byheav'n'shighwillforce'd从岸到岸
+by heav'n's high will compell'd from shore to shore:由天堂的高处将迫使从岸到岸
 
 compel respect | 强制尊重,强迫性
 
@@ -228,7 +228,7 @@ compel respect | 强制尊重,强迫性
 
 examine and make corrections or alterations to (written or printed matter):检查并修正或更改（书面或印刷品）
 reconsider and amend (something), especially in the light of further evidence or to reflect a changed situation:重新考虑和修改（某事），尤其是根据进一步的证据或反映情况的变化
-reread work done previously to improve one's knowledge of a subject, typically to prepare for an examination:reread以前所做的工作，以提高自己对某个学科的知识，通常是为了准备考试
+reread work done previously to improve one's knowledge of a subject, typically to prepare for an examination:重读以前完成的工作以提高一个人对某一学科的知识，通常是为了准备考试
 a proof including corrections made in an earlier proof:a证明，包括在较早证明中所做的更正
 revise |rɪˈvʌɪz| Noun/Verb/:修订,修改,修正
 the book was published in 1960 and revised in 1968:本书于1960年出版，1968年修订
@@ -236,8 +236,8 @@ the agency revised its procedures in as a result of the fire:该机构因火灾�
 students frantically revising for exams:学生为考试疯狂复习
 I handed in the revises this morning:我今天早上提交了修改
 
-make slightly wet:make微湿
-make less strong or intense:make不那么强烈或强烈
+make slightly wet:稍微弄湿
+make less strong or intense:降低强度或强度
 reduce the amplitude of (a sound source):降低（一个声源）的振幅
 dampen |ˈdamp(ə)n| Verb/:,抑制,阻尼
 the fine rain dampened her face:细雨打湿了她的脸
@@ -251,7 +251,7 @@ a long period of peace and prosperity:长期的和平与繁荣
 (of a liquid, gas, or electricity) move steadily and continuously in a current or stream:（液体、气体或电）在电流或流中稳定连续地移动
 (of the sea or a tidal river) move towards the land, rise.:（大海或潮汐河流的）向陆地移动，上升。
 go from one place to another in a steady stream, typically in large numbers:源源不断地从一个地方到另一个地方，通常人数众多
-proceed or be produced continuously and effortlessly:proceed或被连续和毫不费力地生产
+proceed or be produced continuously and effortlessly:连续和毫不费力地进行或生产
 (of clothing or hair) hang loosely in an easy and graceful manner:(衣服或头发的)飘逸飘逸
 be available in copious quantities:大量供应
 be caused by:是由
@@ -276,7 +276,7 @@ a constant flow of people:人流不断
 human beings collectively:人类集体
 the state of being human:人的状态
 the quality of being humane, benevolence:人道、仁爱的品质
-learning concerned with human culture, especially literature, history, art, music, and philosophy.:learning关注人类文化，尤其是文学、历史、艺术、音乐和哲学。
+learning concerned with human culture, especially literature, history, art, music, and philosophy.:学习与人类文化有关的知识，尤其是文学、历史、艺术、音乐和哲学。
 humanity |hjʊˈmanɪti| Noun/:人性,人类
 appalling crimes against humanity:骇人听闻的反人类罪
 our differences matter but our common humanity matters more:我们的差异很重要，但我们共同的人性更重要
@@ -304,20 +304,20 @@ follow or chase (someone or something):跟随或追逐（某人或某事）
 persistently seek to form a sexual relationship with (someone):坚持不懈地寻求与（某人）发生性关系
 seek to attain or accomplish (a goal) over a long period:寻求在很长一段时间内达到或完成（目标）
 (of something unpleasant) persistently afflict (someone):（令人不快的）持续折磨（某人）
-continue or proceed along (a path or route):continue或继续（路径或路线）
-engage in (an activity or course of action):engagein（活动或行动过程）
+continue or proceed along (a path or route):继续或沿着（路径或路线）前进
+engage in (an activity or course of action):从事（一项活动或行动方针）
 continue to investigate or explore (an idea or argument):继续调查或探索（一个想法或论点）
 pursue |pəˈsjuː| Verb/:追求,奉行,追寻
 the officer pursued the van:警官追赶货车
-Sophie was being pursued by a number of men:Sophie被许多男人追捕
+Sophie was being pursued by a number of men:索菲被许多男人追赶
 should people pursue their own happiness at the expense of others?:人们应该以牺牲他人为代价追求自己的幸福吗？
 mercy lasts as long as sin pursues man:慈悲一直持续到罪恶追随人为止
 the road pursued a straight course over the scrubland:这条路在灌木丛中直奔
-Andrew was determined to pursue a computer career:Andrew决心从事计算机事业
+Andrew was determined to pursue a computer career:安德鲁决心从事计算机事业
 we shall not pursue the matter any further:我们将不再追究此事
 
 make changes in something established, especially by introducing new methods, ideas, or products:对已建立的事物进行改变，尤其是通过引入新的方法、想法或产品
-introduce (something new, especially a product):introduce（新事物，尤其是产品）
+introduce (something new, especially a product):介绍（新事物，尤其是产品）
 innovate |ˈɪnəveɪt| Verb/:创新,在
 the company's failure to diversify and innovate competitively:公司未能在竞争中进行多元化和创新
 we continue to innovate new products:我们不断创新新产品
@@ -329,11 +329,11 @@ a factory fitted with machinery for a particular manufacturing process:一个为
 a piece of manufacturing machinery.:一台制造机械。
 an engine.:一个引擎。
 a boxing match or a fist fight.:拳击比赛或拳打脚踢。
-grind (something) in a mill:grind（某物）在磨坊中
+grind (something) in a mill:在磨坊里研磨（某物）
 cut or shape (metal) with a rotating tool:cutorshape(metal)witha旋转工具
 produce regular ribbed markings on the edge of (a coin) as a protection against illegal clipping:在（硬币）的边缘制作规则的肋状标记，以防止非法剪裁
 (of people or animals) move around in a confused mass:（人或动物）混乱地四处走动
-thicken (wool or another animal fibre) by fulling it:thicken（羊毛或其他动物纤维）通过填充它
+thicken (wool or another animal fibre) by fulling it:通过填充使其变厚（羊毛或其他动物纤维）
 a monetary unit used only in calculations, worth one thousandth of a dollar.:仅用于计算的货币单位，价值千分之一美元。
 mill |mɪl| Noun/Verb/:,磨机,磨坊
 a direct steam-driven flour mill:a直接蒸汽驱动面粉厂
