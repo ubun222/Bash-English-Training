@@ -14,7 +14,7 @@ apk add git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
 bash 
-1.9.2.sh -api  # 答题辅助 通关模式 优化ish
+./1.9.2.sh -api  # 答题辅助 通关模式 优化ish
 ```
 3. Termux
 ```
@@ -22,7 +22,7 @@ apt-get install git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
 bash 
-1.9.2.sh -ap  # 答题辅助 通关模式
+./1.9.2.sh -ap  # 答题辅助 通关模式
 ```
 4. 若安装git或bash失败，请先update和upgrade包管理命令。
 5. json翻译还需要另外安装gawk，可能自带的awk无法使用trans。
