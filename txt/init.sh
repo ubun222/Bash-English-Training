@@ -63,7 +63,7 @@ printf ""
 else
 ylineraw="$(printf "%s" "$ylineraw" | grep -v ^"${theword} |" )"
 vlineraw="$(cat "$reftxt" | grep  -A 30 ^"${theword} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $1}' | grep -v  "[	\\]" )"
-echo -e "\n$ylineraw\n$vlineraw\n" >> $txt1 && outped=1  # && printf "\033[32m(已收录%s的详细释义和例句)\033[0m" "$theword" 
+printf "\n%s\n%s\n"  "$ylineraw" "$vlineraw" >> $txt1 && outped=1  # && printf "\033[32m(已收录%s的详细释义和例句)\033[0m" "$theword" 
 fi
 fi
 
