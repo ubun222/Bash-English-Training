@@ -906,8 +906,9 @@ n11=$((n1+a0))
 list=1
 wlist=$n11
 thetxt=$(echo "$txt" | tr -s '	' | head -n$((nn/2)))
+printf "\033[?25l"
+echo
 while read line;do
-
 cha=$((nn/2))
 #outputed=$(($((list100/$((cha))))/4))
 if [[ $cha -gt 25 ]];then
@@ -916,19 +917,20 @@ output=$((list100/$((cha))))
  #echo $output
  output25=$((output/4))
 trial=$((output25-outputed))
-[[ $trial -eq 1  ]] && str="$str"█
+[[ $trial -eq 1  ]] && str="$str"=
 outputed=${output25:-0}
-printf "\033[?25l\033[k\r                          ]${output}\r ${str}\r["
+[[  "$COLUMN" -gt 30  ]] && printf "\033[k\r\033[2m--------------------------\033[0m]%s\r %s\r[" "${output}%" "${str}"
+[[  "$COLUMN" -le 30  ]] && printf "%s\r" "${output}%"
 #[[ ${#str} = 25 ]] && str=
 elif [[ $cha -le 25 ]];then
 list100=$(($((list*100))))
 output=$((list100/$((cha))))
 output5=$((output/20))                                 
 trial=$((output5-outputed))                            
-[[ $trial -eq 1 ]] && str="$str"█████
+[[ $trial -eq 1 ]] && str="$str"=====
 outputed=${output5:-0}                                 
-printf "\033[?25l\033[k\r                          ]${output}\r ${str}\r["
-
+[[  "$COLUMN" -gt 30  ]] && printf "\033[k\r\033[2m--------------------------\033[0m]%s\r %s\r[" "${output}%" "${str}"
+[[  "$COLUMN" -le 30  ]] && printf "%s\r" "${output}%"
 fi
 [[ ${#str} -eq 25 ]] && str=
 
@@ -1853,7 +1855,7 @@ while true;do
 
 if [[  $bd -ne 1   ]]  && [[  $waiting -eq 0   ]];then
 printf "\033[6n"
-read -t 0.8 -s -d \[ bscanf
+read -t 0.25 -s -d \[ bscanf
 [[  "$?" -ne 0  ]] && continue
 bd=1
 ib=${#bscanf}
@@ -1861,7 +1863,7 @@ waiting=1
 [[  "$ib" -le "1"   ]] && bscanf=""  && waiting=0
 bscanf="${bscanf%%"$bb"}" 
 #[[  "$waiting" -eq "1"   ]] && bscanf="$needpt"
-read -t 0.8 -s -d \R pos1
+read -t 0.25 -s -d \R pos1
 [[  "$?" -ne 0  ]] && continue
 else
 ##read -t 0.8 -s -d \[ 
@@ -1888,7 +1890,7 @@ stty -echo
 fi
 
 while true;do
-printf "\033[6n" && read -t 0.8 -s -d \[  && read -t 0.8 -s  -d \R pos2
+printf "\033[6n" && read -t 0.25 -s -d \[  && read -t 0.25 -s  -d \R pos2
 [[  "$?" -ne 0  ]] && continue 
 break
 done
@@ -2834,8 +2836,9 @@ allrw=$(echo "$allrw" | tr  ' ' '/' )
 nn=$((n/2))
 list=1
 cha=$((n/2))
+printf "\033[?25l"
+echo
 while read line;do
-
 #outputed=$(($((list100/$((cha))))/4))
 if [[ $cha -gt 25 ]];then
 list100=$(($((list*100))))
@@ -2843,19 +2846,20 @@ output=$((list100/$((cha))))
  #echo $output
  output25=$((output/4))
 trial=$((output25-outputed))
-[[ $trial -eq 1  ]] && str="$str"█
+[[ $trial -eq 1  ]] && str="$str"=
 outputed=${output25:-0}
-printf "\033[?25l\033[k\r                          ]${output}\r ${str}\r["
+[[  "$COLUMN" -gt 30  ]] && printf "\033[k\r\033[2m--------------------------\033[0m]%s\r %s\r[" "${output}%" "${str}"
+[[  "$COLUMN" -le 30  ]] && printf "%s\r" "${output}%"
 #[[ ${#str} = 25 ]] && str=
 elif [[ $cha -le 25 ]];then
 list100=$(($((list*100))))
 output=$((list100/$((cha))))
 output5=$((output/20))
 trial=$((output5-outputed))
-[[ $trial -eq 1 ]] && str="$str"█████
+[[ $trial -eq 1 ]] && str="$str"=====
 outputed=${output5:-0}
-printf "\033[?25l\033[k\r                          ]${output}\r ${str}\r["
-
+[[  "$COLUMN" -gt 30  ]] && printf "\033[k\r\033[2m--------------------------\033[0m]%s\r %s\r[" "${output}%" "${str}"
+[[  "$COLUMN" -le 30  ]] && printf "%s\r" "${output}%"
 fi
 [[ ${#str} -eq 25 ]] && str=
 lleft=$(printf "%s" "$line" | awk '{printf $1}' | tr "/" " " )
@@ -3953,7 +3957,7 @@ FUN()
    clear
 #printf "\033[s"
 stty -echo
-printf "\033[1B\033[2m$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training\n"
+printf "\033[1B\033[2m$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training${title# }${aspace}-\n"
 
 for i in $(seq $((COLUMN)));do
 
@@ -3973,7 +3977,7 @@ printf "\r\033[2A"
 sleep 0.02
 printf "\n\033[1D$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training"
 sleep 0.02
-printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training\n"
+printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training${title# }${aspace}-\n"
 sleep 0.02
 echo
 sleep 0.02
