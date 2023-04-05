@@ -1943,6 +1943,7 @@ if [[  ${vback} -eq "1"   ]] &&  [[   "$which" == "zh"  ]] ;then
 # now2=1
 break
 fi
+continue
 #stty -echo
 #now3=
 #[[  $wherec -eq $COLUMN  ]]  && break
@@ -2928,9 +2929,9 @@ replace1()
 #eval "$1=\$(echo \"\$$1\" | sed \"s/$answer1/\\\\\\033[0m\\\\\\033[1m$answer1\\\\\\033[0m\\\\\\033[3m\\\\\\033[2m/g\" )"
 #eval "pronounce=\$(printf \"%s\" "\$$1" | awk -F'|' '{printf \$2}')"
 #eval "$1=\$(echo \"\$$1\" | sed \"s/"$pronounce"/\\\\\\033[0m\\\\\\033[1m$pronounce\\\\\\033[0m\\\\\\033[3m\\\\\\033[2m/g\" )"
-eval "$1=\$(echo \"\$$1\" | sed \"s/$answer1/\${_m0}\${_m0}$answer1\${_m0}\${_m3}\${_m2}/g\" )"
-eval "pronounce=\$(printf \"%s\" "\$$1" | awk -F'|' '{printf \$2}')"
-eval "$1=\$(echo \"\$$1\" | sed \"s/"$pronounce"/\${_m0}\${_m1}$pronounce\${_m0}\${_m3}\${_m2}/g\" )"
+#eval "pronounce=\$(printf \"%s\" "\$$1" | awk 'BEGIN{RS=\"|\"}{printf \$2\$3\$4\$5}')"
+eval "$1=\$(printf \"%s\" \"\$$1\" | sed \"s/\"\$answer1\"/\${_m0}\${_m0}$answer1\${_m0}\${_m3}\${_m2}/\" )"
+#eval "$1=\$(printf \"\$$1\" | sed \"s/"$pronounce"/\${_m0}\${_m1}$pronounce\${_m0}\${_m3}\${_m2}/\" )"
 
 }
 
@@ -4819,9 +4820,9 @@ read
 stdin
 
 calendar && _verify && loadcontent && FUN && exit
-
+txtp=
 tno=0
-
+calenda=0
 getfromline $* && preload && loadcontent &&  FUN1 && exit
 [[  "$?" -eq '2' ]] && _verify && loadcontent && FUN  && exit
 alldata=
