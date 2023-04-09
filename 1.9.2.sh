@@ -1559,7 +1559,7 @@ if [[  "$locate" ==  ""  ]]  ;then
 
 #None=$(cat /dev/null)
 
-Ylineraw="$(echo  "$content" | grep -B 30 ^"${answer1} [^A-Z^a-z]" | head -n31 | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  '[\	]' | grep -v ^"[ ]" )"
+Ylineraw="$(echo  "$content" | grep -B 30 ^"${answer1} [/|]" | head -n31 | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  '[\	]' | grep -v ^"[ ]" )"
 Vlineraw="$(echo  "$content" | grep -e "\\b${answer1}\\(ed\\|ing\\|s\\)\\?\\b" | grep -v "	" | grep -v "\\|" )"
 #Vlineraw="$(echo "$Vlineraw1" | grep   -v '|')"
 #Vpreline="$(echo "$content" | grep  "${answer1} |")"
