@@ -41,6 +41,12 @@ read -n1 D <<EOF
 `printf  "\004"`
 EOF
 
+read -n1 x01 <<EOF
+`printf  "\x01"`
+EOF
+read -n1 x19 <<EOF
+`printf  "\x19"`
+EOF
 #up1=$(printf "\033[1A")
 
 #mmm=2
@@ -1554,7 +1560,7 @@ if [[  "$locate" ==  ""  ]]  ;then
 #None=$(cat /dev/null)
 
 Ylineraw="$(echo  "$content" | grep -B 30 ^"${answer1} [^A-Z^a-z]" | head -n31 | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  '[\	]' | grep -v ^"[ ]" )"
-Vlineraw="$(echo  "$content" | grep "${answer1}[. ][A-Za-z]" | grep -v "	" )"
+Vlineraw="$(echo  "$content" | grep -e "\\b${answer1}\\(ed\\|ing\\|s\\)\\?\\b" | grep -v "	" | grep -v "\\|" )"
 #Vlineraw="$(echo "$Vlineraw1" | grep   -v '|')"
 #Vpreline="$(echo "$content" | grep  "${answer1} |")"
 
@@ -1588,9 +1594,9 @@ locate="$(cat "${therw}" | grep -e  ^"${answer1}	" )"
 if [[  "$locate" !=  ""  ]];then
 locate="$(cat "${therw}" | grep -n ^"${answer1} |" | head -n1 | awk -F: '{print $1}')"
 #echo $locate
-Dlinerawn="$(cat "$therw"  | grep  -B 40 ^"${answer1} |" |   awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  "[	|\\]"|  wc -l )"
+Dlinerawn="$(cat "$therw"  | grep  -B 60 ^"${answer1} |" |   awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  "[	|\\]"|  wc -l )"
 Dtop=$((locate-Dlinerawn+1))
-Dlinerawn="$(cat "$therw"  | grep  -A 40 ^"${answer1} |" |  awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $1}' | grep -v '[	\]' | wc -l )"
+Dlinerawn="$(cat "$therw"  | grep  -A 60 ^"${answer1} |" |  awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $1}' | grep -v '[	\]' | wc -l )"
 Dend=$((locate+Dlinerawn-1))
 #echo $Dtop
 #echo $Dend
@@ -2352,7 +2358,7 @@ else
 continue
 fi
 
-elif [[  $ascanf  !=  [$B\'a-zA-Z'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]] ;then
+elif [[  $ascanf  !=  [$B\'a-zA-Z${x01}-${x19}'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]] ;then
 #[[  $now4 -eq 1  ]] && 
 zscanf="$(printf "$zscanf${ascanf}")"
 scanf="$(printf "$scanf${ascanf}")"
