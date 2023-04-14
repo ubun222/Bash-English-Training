@@ -3148,7 +3148,7 @@ answe="${#answer}"
 pureanswer2="$(echo "$ss" | sed -n "${mm},${mm}p")"
 inquiry="$(printf %s  "$pureanswer2" | sed s/"$answer"/$bot/g)"
 #echo $middle
-counts1=0
+counts1=1
 fresh()
 {
 st=0
