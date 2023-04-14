@@ -68,7 +68,7 @@ thei=$(($thei+1))
 atop=""
 aif="if [[  \"\$m\" -ge \"$thei\"  ]] && [[  \"\$m\" -le \"$lasti\"  ]] ;then
 echo \"$iii\"
-#return \"\$i\"
+
 fi
 "
 allif="$allif
@@ -1163,14 +1163,14 @@ if [[  "$isright" -eq "1"  ]] || ifright ;then
 #sleep 0.005
 #[[  "$auto" -eq "1"  ]] && sleep 0.001
 hide=1
-ishprt   "\033[${COL}C%s\r"  ${tline}
+ishprt   "\r\033[${COL}C%s\r"  ${tline}
 elif [[ "${scanf:-0}" = "0" ]]; then
 #sleep 0.0001
-ishprt  "\033[${COL}C%s\r"  ${nline}
+ishprt  "\r\033[${COL}C%s\r"  ${nline}
 RC=1
 else
 #sleep 0.0001
-ishprt   "\033[${COL}C%s\r"  ${fline}
+ishprt   "\r\033[${COL}C%s\r"  ${fline}
 RC=1
 fi
 #printf  "\033[0m\033[2A"
@@ -1528,13 +1528,12 @@ fi
 if [[  "$RC" -ne 1  ]]  && [[  "$passd" -eq 1   ]];then
 #[[  ${lr1} != ""  ]] && m4="$((m2/2))"
 
-if [[  $mode == 3  ]];then
-
+if [[  $mode == 3  ]] || [[  $premode == 2  ]] ;then
 rangem="$(echo "$rangem" | grep -v  ^"${m}"$ )"
     gcounts=$((gcounts+1))
+   [[  $premode == 2  ]] && m0=$((${m0}-1))
 else
 rangem="$(echo "$rangem" | grep -v  ^"${m2}"$ )"
-
     gcounts=$((gcounts+1))
 fi
 fi
@@ -2486,7 +2485,7 @@ frontier="$((it-answe+is+1))"
 fi
 
 if  [[  "$is" -ge  1   ]] && [[  "$is" -le "$iq" ]] ;then
-insert="-"
+insert="$(printf "\033[0m-")"
 elif [[  "$is" -ge  1   ]] && [[  "$is" -gt "$iq" ]] ;then
 insert=" "
 fi
@@ -3062,7 +3061,7 @@ targets=${targets:-/dev/null}
 #echo $linenum
 #[[ "$targets" != ' ' && "$targets" != '        ' ]] && (cat $(echo  $targets | tr ' ' '\n' )| grep -a  -B 5 "${answer1} |" | tr -s '\n' > /dev/tty) >&/dev/null
 #echo
-lineraw1="$(printf "%s"  "$content" | grep  "${answer1}" | grep -v  "[	\\]" )"
+lineraw1="$(printf "%s"  "$content" | grep  "\\b${answer1}\\(ed\\|ing\\|s\\)\\?\\b" | grep -v  "[	\\]" )"
 #lineraw="$(echo "$lineraw1" | grep  -v '|' | sed "s/$answer1/\\\033[1m\\\033[33m$answer1\\\033[0m/g" )"
 lineraw="$(printf "%s" "$lineraw1" | grep  -v '|')"
 theline="$(printf "%s" "$lineraw1"| grep "${answer1} |"  | head -n1)"
@@ -3096,7 +3095,7 @@ p="$theline" &&  sprep
 done
 fi
 theleft=$((ii-gi))
-if [[  "$passd" -eq 1   ]] ; then
+if [[  "$passd" -eq 1   ]] && ( [[  $premode -eq 1  ]] || [[  $premode -eq 2  ]] ); then
 theleft=$((constn-gcounts))
 fi
 printf "\033[0m"
@@ -3109,37 +3108,45 @@ _FUN()
 {
  #printf "\nI，有中文释义${spaces#               }${spaces#            }II，无中文释义"
  #read -n1 mode
- 
- echo  "$strs"
- for gi in `seq 99`;do
+ ii=99
+ gcounts=0
+ [[  "$passd" -eq 1   ]] && ii=9999 && constn=$((n/2))
+ ishprt  "$strs"
+   m0=$((n/2))
+   m=$((n/2))
+  [[  "$passd" -eq 1   ]] && rangem="$(seq $m)"
+ for gi in `seq $ii`;do
+[[  "$passd" -eq 1   ]] && [[  $((constn)) -eq $gcounts  ]] && echo 过关了!!!  && return 0
+#[[  $passd -eq 1  ]] && [[  "$RC" -eq 0  ]] && m0=$((${m0}-1))
+RC=
  bot=
  ss=0
- m=$((n/2))
 #echo $m
-m=$(($RANDOM%$m+1))
+m=$(($RANDOM%${m}+1))
+ [[  "$passd" -eq 1   ]] && m=$(($RANDOM%${m0}+1))
+ [[  "$passd" -eq 1   ]] && m="$(echo "$rangem" | sed -n "$m,${m}p")"
 ##echo "$txt"
 answer="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
 answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
 iq=${#answer}
 aiq=$iq
 for t in `seq $iq`;do
-
 bot="$bot"-
 done
 
 #bot="${bot#-}"
 #bot=$(printf "\033[3m$bot\033[0m")
 #echo $answer
-ss="$(echo "$content" | grep -a  "[ ]$answer[^    ][^|    ][^     |]...")"
-[[  "$ss" == ''  ]] && continue
+ss="$(echo "$content" | grep -a  "\\b$answer\\(ed\\|ing\\|s\\|es\\)\\?\\b[^	][^|    ][^     |]...")"
+[[  "$ss" == ''  ]] && m0=$((${m0}-1)) && rangem="$(echo "$rangem" | grep -v  ^"${m}"$ )" && gcounts=$((gcounts+1))  && continue
 linenum="$(echo "$ss" | wc -l )"
 mm=$(($RANDOM%$linenum+1))
 #echo $mm
 answerd="$(printf "\033[5m\033[4m${answer:0:1}\033[0m")"
 answe="${#answer}"
 #echo $answe
-pureanswer="$(echo "$ss" | sed -n "${mm},${mm}p")"
-inquiry="$(printf %s  "$pureanswer" | sed s/"$answer"/$bot/g)"
+pureanswer2="$(echo "$ss" | sed -n "${mm},${mm}p")"
+inquiry="$(printf %s  "$pureanswer2" | sed s/"$answer"/$bot/g)"
 #echo $middle
 counts1=0
 fresh()
@@ -3187,7 +3194,7 @@ fi
 done
 inquiry="${inquiry:0:$st}~${inquiry:$st}"
 #front="${front:0:$addwhere} ${front:$addwhere}"
-pureanswer="${pureanswer:0:$st}~${pureanswer:$st}"
+pureanswer2="${pureanswer2:0:$st}~${pureanswer2:$st}"
 else
 break
 fi
@@ -3224,7 +3231,7 @@ frontup="$((it-aiq+1+qi))"
 frontup=$((frontup%COLUMN))
 [[  "$frontup" -ne "0"  ]] &&  printf "$answerd\b"
 [[  "$frontup" -eq "0"  ]] && printf "$answerd\b\033[1C"
-printf "\033[1m"
+#printf "\033[1m"
 iq=$aiq
 answer1=$answer
 Readen
@@ -3256,25 +3263,34 @@ fi
 if [[  "$scanf" == "$answer"  ]];then
 #printf "%${COL}s%s" $tline
 #[[  "$up" -ne "0"  ]] && printf "\033[${up}B"
-(printf   "$(printf  "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[32m${answer}\\\033[0m"/g)" ) 2>/dev/null
-echo
+(printf   "$(printf  "$pureanswer2" | sed s/"$answer"/"\\\033[1m\\\33[32m${answer}\\\033[0m"/g)" ) 2>/dev/null
+m=$((m*2))
+colourp 2>/dev/null
+m=$((m/2))
+#echo
 printf  "\r$answer $answer2"
 #sedd= "\\\033[1m\\\E[32m$answer\\\033[0m"
 #printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[32m${answer}\\\033[0m"/g)"
 #printf "\n$enter$answer $answer2"
-printf  \\n$strs\\n
+ishprt  "\n$strs\n"
 elif [[  "$scanf" == ''  ]];then
 #printf "\r%${COL}s%s\r" $nline
 #printf "$(printf "$pureanswer" | sed s/"$answer"/\\\033[1m\\\E[31m$scanf\\\033[0m/g)"
-(printf  "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[33m${answer}\\\033[0m"/g)") 2>/dev/null
-echo
+(printf  "$(printf "$pureanswer2" | sed s/"$answer"/"\\\033[1m\\\33[33m${answer}\\\033[0m"/g)") 2>/dev/null
+m=$((m*2))
+colourp 2>/dev/null
+m=$((m/2))
+#echo
 echo "$answer $answer2"
 #printf "\033[2B"
-printf  %s\\n "$strs"
+ishprt  "%s\n" "$strs"
 else
 #printf "\r%${COL}s%s\r" $fline
-(printf  "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[31m${answer}\\\033[0m"/g)") 2>/dev/null
-echo
+(printf  "$(printf "$pureanswer2" | sed s/"$answer"/"\\\033[1m\\\33[31m${answer}\\\033[0m"/g)") 2>/dev/null
+m=$((m*2))
+colourp 2>/dev/null
+m=$((m/2))
+#echo
 echo "$answer $answer2"
 #printf "\n$enter$answer $answer2"
 printf  %s\\n "$strs"
@@ -3990,7 +4006,7 @@ echo
 sleep 0.02
 stty echo
 printf  "\033[0m\033[?25l"
-[[  "$record" == "1"  ]] || [[  "$passd" == "1"  ]] && [[  "$calenda" == "1"  ]]  && printf "I,提词器 " &&  read   premode && gcounts=0
+[[  "$record" == "1"  ]] || [[  "$passd" == "1"  ]] && [[  "$calenda" == "1"  ]]  && printf "I,提词器${spaces#              }II,完形填空 " &&  read   premode && gcounts=0
 [[  "$record" != "1"  ]] && [[  "$passd" != "1"  ]] && [[  "$calenda" == "1"  ]]  && printf "I,提词器${spaces#              }II,完形填空${spaces#                }III,四选一"  &&  read  premode
 [[  "$calenda" != "1"  ]]  && printf "I,提词器${spaces#              }II,完形填空${spaces#                }III,四选一"  &&  read  premode
 #printf "\033[1A"
@@ -4315,8 +4331,8 @@ echo
 sleep 0.02
 stty echo
 printf  "\033[0m\033[?25l"
-printf "I,提词器"
-[[  "$passd" -ne  1  ]] && [[  "$record" -ne  1  ]] && printf "${spaces#              }II,完形填空${spaces#                }III,四选一"
+printf "I,提词器${spaces#              }II,完形填空"
+[[  "$record" -ne  1  ]] && printf "${spaces#                }III,四选一"
 read  premode
 if [[  "${premode:-1}" -eq 2  ]];then
 _FUN
