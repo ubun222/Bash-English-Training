@@ -1528,10 +1528,13 @@ fi
 if [[  "$RC" -ne 1  ]]  && [[  "$passd" -eq 1   ]];then
 #[[  ${lr1} != ""  ]] && m4="$((m2/2))"
 
-if [[  $mode == 3  ]] || [[  $premode == 2  ]] ;then
+if [[  $premode == 2  ]] ;then
 rangem="$(echo "$rangem" | grep -v  ^"$((m/2))"$ )"
     gcounts=$((gcounts+1))
-   [[  $premode == 2  ]] && m0=$((${m0}-1))
+ m0=$((${m0}-1))
+elif [[  $mode == 3  ]] ;then
+rangem="$(echo "$rangem" | grep -v  ^"$((m))"$ )"
+    gcounts=$((gcounts+1))
 else
 rangem="$(echo "$rangem" | grep -v  ^"${m2}"$ )"
     gcounts=$((gcounts+1))
