@@ -162,6 +162,7 @@ fi
 
 
 elif [[  "$ascanf"  ==  ''  ]] || [[  "$ascanf"  ==  "$CR"  ]] ;then
+stty echo
 break
 fi
 
@@ -712,9 +713,9 @@ printf "$(date  +"%Y-%m-%d %H\033[5m:\033[0m\033[2m\033[3m%M\033[5m:\033[0m\033[
 
 echo
 printf "\033[?25l"
-echo $strs
-printf "\033[2A"
-printf "\033[2m\033[3m"
+ishprt "$strs\n"
+ishprt "\033[2A\033[2m\033[3m"
+#printf "\033[2m\033[3m"
 while true;do
 sleep 0.25 &&  read -s -t0   && read -s -t1 && break
 sleep 0.25 &&  read -s -t0   && read -s -t1 && break
@@ -2173,9 +2174,7 @@ fi
 #stty echo
 }
 
-read -n1 _1B5B <<EOF
-`printf  "\x1b\x5b"`
-EOF
+_1B5B="$(printf "\x1b")"
 
 
 
@@ -2670,7 +2669,7 @@ backscanf=
 #for i in $(seq $is);do
 #backscanf="$backscanf$Back"
 #done
-printf  "$fascanf"
+printf "%s" "$fascanf"
 #printf "$ascanf"
 #ls
 #echo 1
@@ -2717,9 +2716,11 @@ continue
 fi
 fascanf=
 done
-
-alltxt="$(echo "$alltxt" | grep "$fscanf")" 2>/dev/null
-[[  "$(echo "$alltxt" | wc -l)"  -ge "18"  ]] && echo "$strs" && return 1 
+ 
+[[  "$fscanf" !=  ""  ]] && alltxt="$(echo "$alltxt" | grep $fscanf)" 2>/dev/null
+alltxtn=$(echo "$alltxt" | wc -l)
+[[  "$alltxtn"  -ge $((n/2-1))  ]] && echo "$strs" && return 1 
+[[  "$alltxtn"  -ge 18  ]] && printf "找到${alltxtn}个单词\n" && continue
 [[  "$fscanf" == ""  ]]  && [[  "$alltxt" != ""  ]] && xwords="$(echo "$alltxt" | awk  'BEGIN{FS="	"}{print $1}' | sort | uniq )" && findx && [[  "$calenda" -eq 1   ]] &&  cd "$cpath" && echo 退出 && echo "$strs"  && return 0
 [[  "$alltxt" == ""  ]] && echo 找不到"$fscanf" && alltxt="$txt" && continue
 
@@ -3001,12 +3002,14 @@ replace1 p
 }
 yes()
 {
+  [[  "$premode" -eq 3  ]] && m=$((m*2))
 sleep 0.01 &&  read -s -t0   && read -s -t1
     printf "\033[0m"
 targets=${targets:-/dev/null}
 
 row=$(eval "$allif")
 eval thept=\${pt$row}
+[[  "$premode" -eq 3  ]] && m=$((m/2))
     lineraw="$(cat "$thept" | grep  -B 30 ^"${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  "[	\\]" )"
 
 #echo "$lie
@@ -3271,11 +3274,11 @@ m=$((m*2))
 colourp 2>/dev/null
 m=$((m/2))
 #echo
-printf  "\r$answer $answer2"
+tprep1  "$answer $answer2" "\n"
 #sedd= "\\\033[1m\\\E[32m$answer\\\033[0m"
 #printf "$(printf "$pureanswer" | sed s/"$answer"/"\\\033[1m\\\33[32m${answer}\\\033[0m"/g)"
 #printf "\n$enter$answer $answer2"
-ishprt  "\n$strs\n"
+ishprt  "$strs\n"
 elif [[  "$scanf" == ''  ]];then
 #printf "\r%${COL}s%s\r" $nline
 #printf "$(printf "$pureanswer" | sed s/"$answer"/\\\033[1m\\\E[31m$scanf\\\033[0m/g)"
@@ -3284,7 +3287,7 @@ m=$((m*2))
 colourp 2>/dev/null
 m=$((m/2))
 #echo
-echo "$answer $answer2"
+tprep1 "$answer $answer2" "\n"
 #printf "\033[2B"
 ishprt  "%s\n" "$strs"
 else
@@ -3294,7 +3297,7 @@ m=$((m*2))
 colourp 2>/dev/null
 m=$((m/2))
 #echo
-echo "$answer $answer2"
+tprep1 "$answer $answer2" "\n"
 #printf "\n$enter$answer $answer2"
 printf  %s\\n "$strs"
 fi
@@ -3454,6 +3457,7 @@ getin=0;
 order=1;
 once=0;
 while true ;do
+WSAD=
 if [[  $getin -eq 0  ]] ;then
 IFS=$newline
 read -s -n1   ascanf
@@ -3470,7 +3474,7 @@ printf "$enter"
 break
 fi
 
-if [[  "$once" -ne 0  ]];then
+if [[  "$once" -ne 0  ]] && [[  "$ascanf"  !=  "$_1B5B"  ]];then
 eval theam=\$am$order
 ishprt "$enter$theam"
 eval ishprt "\$down_$order"
@@ -3494,9 +3498,15 @@ getin=$sub
 fi
 
 if [[  "$ascanf"  ==  "$_1B5B"  ]] ;then
-read -n1 && read -n1 WSAD 
+while read -n1 WSAD ;do
+[[  "$WSAD" == [ABC]  ]] && break
+done
 [[  "$once" -eq 0  ]] && printf "\033[K" && ishprt "\033[$((down5-1))A${enter}"
 [[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter"  && continue
+eval theam=\$am$order
+ishprt "$enter$theam"
+eval ishprt "\$down_$order"
+ishprt "$enter"
 if [[  "$WSAD" ==  "B"  ]] ;then
 eval down=\${down$order}
 order=$((order+1))
@@ -3781,6 +3791,7 @@ order=1
 #printf "$enter\033[K"
 
 while true ;do
+WSAD=
 if [[  $getin -eq 0  ]] ;then
 IFS=$newline
 read -s -n1   ascanf
@@ -3797,12 +3808,13 @@ printf "$enter"
 break
 fi
 
-if [[  "$once" -ne 0  ]];then
+if [[  "$once" -ne 0  ]] && [[  "$ascanf" !=  "$_1B5B"  ]];then
 eval theam=\$am$order
 printf "$enter"
 ishprt "  $theam"
 printf "$enter"
 fi
+
 
 if [[  "$ascanf"  ==  [1234]  ]];then
 [[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}"
@@ -3818,9 +3830,16 @@ getin=$sub
 fi
 
 if [[  "$ascanf"  ==  "$_1B5B"  ]] ;then
-read  -n1 && read -n1 WSAD
+
+while read -n1 WSAD ;do
+[[  "$WSAD" == [ABC]  ]] && break
+done
 [[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}"
 [[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
+eval theam=\$am$order
+printf "$enter"
+ishprt "  $theam"
+printf "$enter"
 if [[  "$WSAD" ==  "B"  ]] ;then
 eval down=\${down$order}
 order=$((order+1))
