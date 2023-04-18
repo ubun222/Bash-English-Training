@@ -14,7 +14,7 @@ apk add git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
 bash 
-./1.9.2.sh -api  # 答题辅助 通关模式 优化ish
+./1.9.5.sh -api  # 答题辅助 通关模式 优化ish
 ```
 3. Termux
 ```
@@ -22,7 +22,7 @@ apt-get install git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
 bash 
-./1.9.2.sh -ap  # 答题辅助 通关模式
+./1.9.5.sh -ap  # 答题辅助 通关模式
 ```
 4. 若安装git或bash失败，请先update和upgrade包管理命令。
 5. json翻译还需要另外安装gawk，可能自带的awk无法使用trans。
@@ -43,10 +43,10 @@ bash
 3. 四选一
 #### tips
 0. 红黄绿○指示出现时: 按y仅打印详细释义 按Y打印详细释义后跳过; 按v仅打印例句  按V打印例句后跳过; 按S/s跳过; 按回车以继续;
-1. CTRL+Z 暂停，然后 fg 继续 （全局适用）
-2. CTRL+C 退出 （全局适用）
+1. CTRL+Z 暂停，然后 fg 继续 
+2. CTRL+C 退出 
 3. *CTRL+D 查询（非全局适用）
 4. *TAB键答题提示（非全局适用）
-5. \\\\\\\\\\以下的详细部分 定位标识符默认为 | 即单词需要以 "word | ..."为中心 例句应在该标识符号以下直至第一个空行，详细释义应在该标识符号以上直至第一个空行.
+5. \\\\\\\\\\以下的详细部分 定位标识符默认为 除[ae]以外的所有音标 即单词需要以 "word... 音标 ..."为中心 例句(v)应在该行以下直至第一个空行，详细释义(y)应在该行以上直至第一个空行。
 
 
