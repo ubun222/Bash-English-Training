@@ -1562,8 +1562,8 @@ if [[  "$locate" ==  ""  ]]  ;then
 
 #None=$(cat /dev/null)
 
-Ylineraw="$(echo  "$content" | grep -B 30 ^"${answer1} [/|]" | head -n31 | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  '[\	]' | grep -v ^"[ ]" )"
-Vlineraw="$(echo  "$content" | grep -e "\\b${answer1}\\(ed\\|ing\\|s\\)\\?\\b" | grep -v "	" | grep -v "\\|" )"
+Ylineraw="$(echo  "$content" | grep -B 30 ^"${answer1}\s.*[ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" | head -n31 | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  '[\	]' | grep -v ^"[ ]" )"
+Vlineraw="$(echo  "$content" | grep  "\\b${answer1}\\(ed\\|ing\\|s\\)\\?\\b" | grep -v "	" | grep -v "[ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]" )"
 #Vlineraw="$(echo "$Vlineraw1" | grep   -v '|')"
 #Vpreline="$(echo "$content" | grep  "${answer1} |")"
 
@@ -2597,7 +2597,7 @@ echo $strs
 echo "在词表中：$target"
 printf "释义：\n\033[1m\033[3m$find\033[0m\n" | tr -s "\t"
 ##read
-find1=$(cat "$target" | grep -a    -B 30 "^${1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]')
+find1=$(cat "$target" | grep -a    -B 30 ^"${1}\s.*[ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]')
 if [[  "$find1" != ""  ]];then
 echo $strs
 echo "在详细释义中：$target"
@@ -3010,12 +3010,12 @@ targets=${targets:-/dev/null}
 row=$(eval "$allif")
 eval thept=\${pt$row}
 [[  "$premode" -eq 3  ]] && m=$((m/2))
-    lineraw="$(cat "$thept" | grep  -B 30 ^"${answer1} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  "[	\\]" )"
+    lineraw="$(cat "$thept" | grep  -B 30 ^"${answer1}\s.*[ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  "[	\\]" )"
 
 #echo "$lie
     #preline="$(echo  "$content" | grep -B 1 ^"${answer1} |" )"
     theline="$(printf "%s" "$lineraw" | tail -n1)"
-    lineraw="$(printf "%s" "$lineraw" | grep -v ^"${answer1} |" )"
+    lineraw="$(printf "%s" "$lineraw" | grep -v "[ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]")"
     #echo "$theline"
    # [[  "$preline" ==  ''  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] &&  echo '该单词还未收录哦，赶紧去补全吧！'&& echo @第"$gi"题 && return 0
  #   linenum=$(echo  "$content"|  grep -a   -v  $'\t'   |  grep -a   -B 30 "^${answer1} |"  | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]' | grep -a  -v "^${answer1} |" | wc -l)
@@ -3069,8 +3069,8 @@ targets=${targets:-/dev/null}
 #echo
 lineraw1="$(printf "%s"  "$content" | grep  "\\b${answer1}\\(ed\\|ing\\|s\\)\\?\\b" | grep -v  "[	\\]" )"
 #lineraw="$(echo "$lineraw1" | grep  -v '|' | sed "s/$answer1/\\\033[1m\\\033[33m$answer1\\\033[0m/g" )"
-lineraw="$(printf "%s" "$lineraw1" | grep  -v '|')"
-theline="$(printf "%s" "$lineraw1"| grep "${answer1} |"  | head -n1)"
+lineraw="$(printf "%s" "$lineraw1" | grep  -v "[ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]")"
+theline="$(printf "%s" "$lineraw1"| grep ^"${answer1}\s.*[ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+"  | head -n1)"
 
 #linenum=$(echo "$lineraw" | wc -l)
 linenum1=$(echo "$lineraw1" | wc -l)
