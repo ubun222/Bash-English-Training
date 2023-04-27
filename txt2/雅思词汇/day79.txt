@@ -1,0 +1,590 @@
+complex						复杂的，建筑群，情节
+consent					同意
+hubbub					喧闹声，骚动
+shaft					矿井，柄，轴，欺骗
+a shaft of				一道
+caption					标题，字幕
+harbour								港口，藏匿
+tumble					跌倒，坠落，暴跌，杂乱
+sink									下沉，衰弱，毁掉，投入，挖掘
+patron				赞助人，顾客
+flu						流感
+column						柱子，纵队，列
+overrun				横行于，超出，超越限度，超时
+etiquette			礼节，规矩
+deduct						扣除
+dense				密度大的，浓密的，茂密的
+tinge				些许，略带一丝
+a tinge of			一丝
+congruent			一致的，全等的
+crouch				蹲伏
+conserve						节省，储存，保护
+fahrenheit			华氏的
+corporation					大公司
+quench				止，扑灭，抑制
+alarm				担忧，警报
+nasty				令人难受的，恶狠狠的，严重的，下流的
+shovel				铁铲，挖掘机，胡乱塞入
+suspicious					怀疑的，可疑的
+trunk									树干，躯干，行李箱
+ovation				热烈鼓掌
+saddle				马鞍，使肩负重担
+tragedy					灾难，悲剧
+\\\\\\\\
+
+adj. 由很多相互关联的不同事物或部分组成的，即复杂的；还可指难以理解的，即难懂的，费解的:
+n. [C] 对某事的不正常忧虑:
+n. [C] 尤用于构成复合词，指不正常的精神状态；情结:
+n. [C] 相关联的一组事物:
+n. [C] 坐落在同一地方的，类型相似的一群建筑:
+adj.（单词或句子）复合的（即由一个主要部分和一个或多个其他部分组成的，具体可指词根加有词缀或主句含有从句）:
+complex |['kɒmpleks]
+complex machinery 结构复杂的机器 
+the complex structure of the human brain 错综复杂的人脑构造 
+complex argument, complex problem, complex subject 难懂的论证；难懂的问题；难懂的科目 
+a complex system of voting 一套复杂的表决机制 
+This is a highly complex matter. 这件事非常复杂。
+technically complex surgery 技术上复杂的外科手术
+to have a complex about ... 对…的不正常忧虑 
+Don’t nag him about his handwriting or he’ll get a complex. 别总是指责他的书写，要不然他一写字就紧张。
+to give sb complex 令某人产生心理症结
+persecution complex 受迫害妄想症 
+inferiority, superiority complex 自卑感；优越感 
+to suffer from a guilt complex 蒙受负罪感之苦
+a complex of issues 一组相关的问题
+huge, large, vast complex 巨大的建筑群 
+entertainment, leisure, shopping, sports complex 娱乐中心；休闲娱乐中心；购物中心；体育中心 
+apartment（美）, factory, hospital, housing, museum, office complex 公寓楼群；厂区；医院综合楼；住宅区；博物馆楼群；办公楼群 
+industrial, military complex 工业区；军事区
+
+vi. [相对正式] ~ (to sth) 同意、准许:
+n. [U] ~ (to sth) 同意，尤指当权者给与的同意、准许:
+n. [C] 正式的批准文件，批文:
+consent |[kənˈsent]
+When she told them what she intended they readily consented. 她告诉他们她的打算时，他们欣然同意。
+He reluctantly consented to his daughter's marriage. 他勉强同意了女儿的婚事。
+She finally consented to answer our questions. 她最终同意回答我们的问题。
+He finally consented to go. 他最终同意去了。
+He asked Ginny if she would consent to a small celebration after the christening. 他问金尼是否同意在洗礼之后小小地庆祝一下。
+He has kindly consented to give us some of his valuable time. 他真好，答应抽出一些宝贵的时间给我们。
+Children under 16 cannot give consent to medical treatment. 16岁以下的儿童不得自行同意接受治疗。
+The written consent of a parent is required. 要求有家长的书面同意。
+to refuse/withhold your consent 拒不同意 
+He is charged with taking a car without the owner's consent. 他因未征得车主的同意自行开走车而受到指控。
+She was chosen as leader by common consent (= everyone agreed to the choice). 大家一致同意选她为领导人。
+By mutual consent they didn't go out (= they both agreed not to). 按照双方同意，他们没有约会。
+At approximately 11:30 p.m., Pollard finally gave his consent to the search. 大概晚上11点半的时候，波拉德最终同意进行搜查。
+Can my child be medically examined without my consent? 能不经我的同意就对我的孩子进行体检吗？
+By common consent their talk avoided the reason for their being there at all. 双方达成共识，他们的谈话对他们去那儿的原因完全避而不谈。
+He left the company by mutual consent last September. 去年9月，经双方同意，他离开了公司。
+Completion of the survey was taken as implied consent to participate. 完成调查表被视为同意参加调查。
+Your silence implies tacit consent to these proposals. 你的沉默意味着你默许这些提议。
+Doctors must obtain the informed consent of all patients before giving any treatment. 在进行任何治疗前，医生必须得到病人的之情同意。
+No action can be taken without the prior consent of the owner. 没有物主的事先同意，不得采取任何行动。
+formal, written consent 正式同意；书面同意 
+oral（美）, verbal consent 口头同意 
+presumed consent（美）推定同意 
+spousal consent（美）配偶的同意 
+consent document, consent form 同意文件；同意书 
+The article is reprinted by consent of the author. 该文章是经作者同意才重印的。
+
+You can describe a situation where there is great confusion or excitement as a hubbub. 混乱; 骚动
+A hubbub is a noise made by a lot of people all talking or shouting at the same time. 喧嚷; 吵闹声
+hubbub |英 ['hʌbʌb]  美 ['hʌbʌb]| n. 喧哗；骚动/
+In all the hubbub over the election, one might be excused for missing yesterday's announcement.在选举造成的一片混乱中，没有听到昨天的公告也是情有可原的。
+There was a hubbub of excited conversation from over a thousand people.有一千多人在兴高采烈地大声谈话，场面无比喧闹。
+
+
+vt. [非正式] 不公平地对待某人:
+vt. [非正式] 欺骗某人:
+n. [C] [文学] ~ of fear 一阵害怕传遍全身的强烈感觉:
+n. [C] [文学] ~ of pain, fear, etc. 一阵（疼痛、害怕等）传遍全身的强烈感觉:
+n. [C] [文学] ~ of light, sunlight, etc. 一束，一道（光、阳光等）:
+n. [正式] ~ of sth 意在激怒别人的机智的话:
+n. [C]（常构成复合词）（机器的）轴、传动轴:
+n. [C] [文学] ~ of pain 一阵疼痛传遍全身的强烈感觉:
+n. [C]（高尔夫球棒的）杆:
+n. [C]（矛的）杆:
+n. [C]（箭的）杆:
+n. [C]（常构成复合词）电梯的升降机井；通风井；竖井:
+n. [usually pl.] 马车的辕:
+shaft |[ʃɑ:ft;美ʃæft]
+Shafts of fear ran through her as she heard footsteps behind her. 她听见身后有脚步声，感到一阵毛骨悚然。
+Shafts of fear ran through her as she heard footsteps behind her. 她听见身后有脚步声，感到一阵毛骨悚然。
+A shaft of moonlight fell on the lake. 一束月光照在湖面上。
+A brilliant shaft of sunlight burst through the doorway. 一束耀眼的阳光从门口照射进来。
+a shaft of inspiration（比喻用法）一道灵感之光
+a shaft of wit 机智的调侃
+a drive shaft 驱动轴 
+the propeller shaft 螺旋桨的传动轴
+golf clubs with steel shafts 带钢杆的高尔夫球棒
+deep shaft 深井 
+vertical shaft 竖井 
+narrow shaft 窄井 
+elevator（美）, lift（英）电梯井 
+She almost fell down an elevator shaft. 她差一点儿跌进电梯井。
+mine shaft（通常用mineshaft）矿井 
+air, ventilation shaft 通风井 
+The body had been thrown down a disused shaft. 尸体被扔进了一个废弃的矿井里。
+The workers go down to the tunnels through a vertical shaft sunk from the top of the cliff. 工人们经过一个从悬崖顶部开掘的竖井进入隧道。
+They lowered him down to the bottom of the deep shaft. 他们把他放到深深的井底。
+
+n. [C] 印在一幅图片或卡通画等下面的解释或描述性文字（即说明文字）。虽然有时也可称为“标题”，不过是对该图的一种说明性文字:
+The local paper featured me standing on a stepladder with a caption, “Wendy climbs the ladder to success.” 当地的报纸刊登了一幅我站在活梯上的特写，下面写着:
+vt. 给图片、照片等加上说明性文字:
+caption |['kæpʃən]
+
+
+vt. 1 长时间怀有某种想法、思想或感情、情绪、秘密（尤指负面的东西）:
+2 含有…并允许其发展:
+vt. 窝藏或庇护躲避警察的人，让他们呆在自己的房子或国家并提供庇护。强调给被窝藏或被庇护者提供一个场所供其藏身:
+n. [C, U] 海岸的一个港口，被陆地或结实的围墙所保护，船只可在此躲避风雨。一般只强调对船只的庇护功能，而不太强调装货卸货功能:
+harbour |['hɑːbə]（美harbor）
+to harbour a grudge 怀有积怨（或怀恨在心）
+to harbour many germs 藏有很多病菌
+to harbour suspects 窝藏嫌犯
+pearl harbour 珍珠港 
+deep harbour 深水港 
+good, safe, sheltered harbour 良港；安全港；避风港 
+picturesque harbour 风景如画的海港 
+fishing harbour 渔港 
+natural harbor 天然港口 
+harbour wall 港口防波堤 
+harbour town 港口小镇 
+harbour area 港区 
+harbour entrance 港口入口 
+harbour authority（英）港务局 
+The fishing fleet is in harbour. 渔船队停泊在港湾里。
+
+If water tumbles, it flows quickly over an uneven surface. (水流) 翻滚
+Tumble is also a noun. (价格或水平的) 暴跌
+If prices or levels of something are tumbling, they are decreasing rapidly. (价格或水平) 暴跌
+Tumble is also a noun. 摔
+If someone or something tumbles somewhere, they fall there with a rolling or bouncing movement. 摔倒
+tumble |英 ['tʌmb(ə)l]  美 ['tʌmbl]| vi. 摔倒；倒塌；滚动；打滚；仓惶地行动/vt. 使摔倒；使滚翻；弄乱/n. 跌倒；翻筋斗；跌跤/
+Waterfalls crash and tumble over rocks.瀑布在岩石上撞击翻滚。
+Oil prices took a tumble yesterday.石油价格昨天一阵暴跌。
+Share prices continued to tumble today on the Tokyo stock market.东京股市今天的股票价格继续暴跌。
+Profit after taxes tumbled by half to $15.8 million.税后利润猛降了一半，跌到了1580万美元。
+He injured his ribs in a tumble from his horse.他从马上摔下来伤了肋骨。
+A small boy tumbled off the porch.一个小男孩从门廊上摔了下去。
+
+
+vi. 1（在数量、体积、强度等方面）减少、降低或减弱:
+2 陷入某种状态:
+vi.（心情）沮丧，或（情绪）低落:
+vt. [非正式] 阻止某人或某人的计划，使其失败:
+vi. 声音变低或变小，相当于fade:
+vi.（人）向下移动（尤指倒下或坐下），相当于collapse:
+vt.＆vi.（锋利的牙齿）深深地切入（结实的东西）:
+vt. 通过挖掘的方式将…放入地下，如埋入:
+n. [C] [尤美]（浴室内固定在墙上有水龙头的，用于洗脸洗手的）洗脸盆，此时相当于washbasin:
+n. [C]（厨房里有水龙头的用于洗碗碟的）洗涤池，洗碗槽:
+vt. [英，非正式] 快速喝…（尤指快速喝大量的酒）:
+vi. 1 在液体（如水）或柔软物质（如泥）里下沉，下陷，沉没。是此义的常规用词:
+2（物体）慢慢向下运动，即下沉、下陷、沉降等:
+vt. 在地上挖掘一个深洞或深坑（如打水井或挖矿井等），相当于drill:
+vt.（在高尔夫或斯诺克运动中）将球击入洞或袋:
+vt. 投入资金（以期赚取更多的金钱），可视为一种比喻用法:
+adj. [英] 只用于名词前，位于社会条件差的贫困地区的（如位于贫民窟的）:
+vt. 击沉舰船等:
+sink |[sɪŋk]
+The pound has sunk to its lowest recorded level against the dollar. 英镑对美元的比价降到了有记录以来的最低水平。
+He is clearly sinking fast. 很明显，他的身体状况在急剧恶化。
+Share prices would have sunk. 股票价格本来会下跌。
+Pay increases have sunk to around seven percent. 工资增长已下降到7％左右。
+The newspaper has sunk to a new low. 这家报纸的销量降到了历史新低。
+The project gradually sank into oblivion. 该项目渐渐被淡忘。
+My heart sank. 我心情沮丧。
+He rapidly sank into depression. 他很快变得消沉抑郁。
+I’ve just sunk my chances of getting the job. 我葬送了得到那份工作的机会。
+If the car breaks down, we’ll be sunk. 要是车坏了，咱们可就惨了。
+Her voice sank to a whisper. 她的声音变成了耳语。
+I sank into an armchair. 我坐到扶手椅上。
+She sank gracefully down onto a cushion at his feet. 她优雅地坐到他脚边的垫子上。
+The old man had sunk to his knees. 老头跪在了地上。
+wearily sink 疲惫地坐下（或疲惫地倒下）
+to sink into an bed 躺倒在床上
+She sank to the ground and started to cry. 她瘫倒在地，哭了起来。
+I sank my teeth into a peppermint cream. 我的牙齿咬住了一块薄荷奶油糖。
+to sink a post into the ground 在地上埋入一根杆子
+The bathroom is furnished with 2 toilets, 2 showers, and 2 sinks. 卫生间里装有2个便池，2个淋浴器和2个洗脸盆。
+The sink was full of dirty dishes. 水池里满是脏碟子。
+kitchen sink 厨房洗碗槽 
+She was at the sink, washing the dishes. 她正在水槽旁洗碗。
+The ship sank to the bottom of the sea. 船沉入海底。
+We watched the boat sink beneath the waves. 我们看着小船被波涛吞没。
+He was in waist-deep and sinking fast. 他陷到了齐腰深的地方，而且还在快速下沉。
+The wheels started to sink into the mud. 车轮渐渐陷进泥里。
+His boots sank deep into the mud. 他的靴子深深地陷进了泥里。
+My feet sank deep into the soft sand. 我们的双脚深深陷进松软的沙子里。
+The sun was sinking in the west. 太阳西坠。
+The foundations of the building are starting to sink. 楼房的地基开始下陷。
+to sink a well 掘水井 
+to sink a mine挖矿井
+He sank a 12-foot putt to win the match. 他以一记12英尺的轻击入洞赢了比赛。
+He has already sunk $25 million into the project. 他已经在这个项目上投入了2500万美元。
+the misery of life in sink estates 贫民窟里的悲惨生活 
+a sink school 贫困地区的学校
+a battleship sunk by a torpedo 被鱼雷击沉的战列舰 
+to sink the enemy’s ship 击沉敌舰
+
+n. [正式] 商店、饭馆、酒吧、旅馆等的常客、顾客:
+He spent the night at the Savoy: like so many of its patrons, he could not resist the exclusively English cooking. 他在萨沃伊酒店过了夜:
+n. 1 [C] 艺术家或作家的赞助人、资助者:
+2 [C] 组织机构（例如慈善机构）或活动的一个著名赞助人（其名字常出现于该组织或该活动的广告宣传等活动中）:
+patron |[ˈpeɪtrən]
+Patrons are requested not to smoke. 请顾客不要吸烟。
+influential, powerful patron 有影响力的赞助人；有权势的赞助人 
+aristocratic, wealthy patron 贵族赞助人；富有的赞助人 
+Frederick the Great was the patron of many artists. 腓特烈大帝是许多艺术家的赞助人。
+Catherine the Great was a patron of the arts and sciences. 叶卡捷琳娜大帝资助发展艺术和科学。
+Fiona and Alastair have become patrons of the National Missing Person's Helpline. 菲奥娜和阿拉斯泰尔已经成为国家失踪人口服务热线的代言人。
+
+n. [U] 流行性感冒，即流感:
+flu |[flu:]
+I got the flu. 我得了流感。
+mild flu 轻度流感 
+bad flu 严重流感 
+avian, bird flu 禽流感 
+flu virus 流感病毒 
+flu symptoms 流感症状 
+flu victim 流感患者 
+flu season 流感高发季节
+
+n. [C]（人或车辆排成行移动的）长队:
+n. 1 [C]（缩略形式为col.）（书、报纸印刷页上的分立的）竖栏:
+2 [C]（图表等的）纵行（数字或字）:
+n. [C] 报刊杂志的关于某一主题的专栏:
+n. [C] 圆柱形物:
+n. [C] 高高的、竖着的坚固的柱子，通常为圆形石柱（用以支撑建筑物或作为纪念之用）:
+column |[ˈkɒləm;美ˈkɑ:ləm]
+a long column of troops and tanks 部队和坦克的长列纵队 
+There were reports of columns of military vehicles appearing on the streets. 有报道说几队军用车辆出现在街头。
+armoured column 装甲纵队 
+to march in columns 列纵队前进 
+the head of the column 队列的排头
+a column of text 一栏正文 
+a dictionary with two columns per page 每页有两栏正文的字典 
+Put a mark in the appropriate column. 在适当的栏里标上记号。
+Their divorce filled a lot of column inches in the national papers (= got a lot of attention). 他们的离婚引起了多家全国性报纸的关注。
+In The Dictionary of Quotations, there are no fewer than one and a half columns devoted to 'kiss'. 在《引语词典》中，“亲吻”这一条目不下一栏半。
+to add up a column of figures 把纵行数字相加 
+We had stupidly been looking at the wrong column of figures. 我们稀里糊涂，看串了数字栏。
+weekly column 每周专栏 
+newspaper column 报纸专栏 
+advice（美）, agony（英）, correspondence, editorial, financial, gossip, leader（英）, letters, obituary, op-ed（美）, opinion, personal column （报刊杂志上的）“为您解忧”专栏；答读者问专栏；通信栏；社论专栏；财经专栏；漫谈专栏；社评专栏；读者来信栏；讣告栏；署名评论专栏；评论栏；私人广告栏 
+column inches 专栏版面 
+So many column inches are devoted to film stars. 如此多的专栏版面都用于对电影明星的报道。
+She saw his name in an obituary column. 她在讣告栏中看到了他的名字。
+a weekly column on films showing in London 评论在首都上映的电影的每周专栏 
+I always read her column in the local paper. 我一直读她在当地报纸上的专栏文章。
+His name features frequently in the social columns of the tabloid newspapers. 他的名字频繁地出现在各种小报社会专栏的显著位置上。
+She also writes a regular column for the Times Educational Supplement. 她也定期为《泰晤士报高等教育增刊》写专栏文章。
+He has a regular column in a weekly newspaper. 他在一份周报上开了一个固定专栏。
+The explosion sent a column of smoke thousands of feet into the air. 爆炸在空中形成了几千英尺高的烟柱。
+colonnades of fluted Doric columns 饰有凹槽的多立斯柱廊 
+classical column 古典石柱 
+concrete, marble, stone column 混凝土柱；大理石柱；石柱 
+The temple is supported by marble columns. 这座庙宇由大理石柱支撑。
+The roof is supported by four huge columns. 房间由四根巨大的石柱支撑。
+Nelson's Column in London 伦敦的纳尔逊纪念柱
+
+If costs overrun, they are higher than was planned or expected. (费用) 超支
+If you say that a place is overrun with things that you consider undesirable, you mean that there are a large number of them there. 泛滥成灾的
+If an army or an armed force overruns a place, area, or country, it succeeds in occupying it very quickly. 迅速占领
+overrun |英 [əʊvə'rʌn]  美 ['ovərʌn]| n. 泛滥成灾；超出限度/vt. 泛滥；超过；蹂躏/vi. 泛滥；蔓延/
+Costs overran the budget by about 30%.花费超出了预算约30％。
+We should stop the nonsense of taxpayers trying to finance joint weapons whose costs always overrun hugely.我们应该制止纳税人设法资助费用总是大大超支的联合武器开发的这种胡闹。
+The hotel has been ordered to close because it is overrun by mice and rats.这家旅馆因为到处都是老鼠，已经被勒令关闭。
+A group of rebels overran the port area and most of the northern suburbs.一群叛乱分子迅速占领了港口地区及绝大部分北部郊区。
+
+
+n. [U]（尤指特定阶层的）礼仪，礼节:
+n. [U]（尤指特定行业的）行为规范，规矩:
+etiquette |[ˈetɪket;-kət]
+social etiquette 社交礼仪 
+the rules of diplomatic etiquette 外交礼节的规则 
+He showed his contempt for social etiquette by not wearing a tie. 他不打领带以显示对社交礼仪的不屑。
+What's the correct/proper etiquette when addressing a judge? 称呼法官时，正确的礼节是什么? 
+He did not know the proper etiquette for greeting people of such high rank. 他不知道欢迎这样高级别的人物采用什么样的礼仪才合适。
+the strict etiquette of palace life 宫廷生活的严格礼仪 
+She considered it poor etiquette to invite people over and then cancel just the day before. 她认为发出邀请后又在前一天将其取消是很不得体的。
+email, phone etiquette 电邮礼仪；电话礼仪 
+How good is your email etiquette? 你写电子邮件的礼仪规范如何? 
+a business etiquette expert 商务礼仪专家 
+a breach of court etiquette 违反宫廷礼仪 
+This was such a great breach of etiquette, he hardly knew what to do. 这是严重失礼的行为，他几乎手足无措。
+Etiquette requires that winners make a speech. 从礼节上说，获胜者应该发表获胜感言。
+He is an expert on matters of etiquette. 他是礼仪事务的专家。
+the rules of etiquette 礼仪规范 
+She knew how to address bishops according to the rules of etiquette. 她知道按礼仪规范该怎样称呼主教。
+advice on etiquette 在礼节方面的忠告
+medical, legal, professional etiquette 医学界的规矩；法律界的行规；行业规范 
+I don't know the etiquette required here. 我不清楚这里的规矩。
+The lawyer was accused of a breach of professional etiquette. 这位律师被指控违反了行规。
+
+vt. [常用被动式] ~ sth (from sth)（从总量中）扣除，减去:
+deduct |[dɪˈdʌkt]
+The cost of your uniform will be deducted from your wages. 制服费将从你的工资中扣除。
+This amount will be automatically deducted from your salary. 这一金额将从你的工资中自动扣除。
+The company deducted this payment from his compensation. 公司从他获得的赔偿金中扣去了这笔付款。
+Tax is deducted at source.（at source为英式用法）从一开始就已扣除了税款。
+Ten points will be deducted for a wrong answer. 答错一题扣十分。
+Up to 5% of marks in the exams will be deducted for spelling mistakes. 试卷中最多将会有 5% 的分数因为拼写错误而被扣掉。
+
+In science, a dense substance is very heavy in relation to its volume. (物质) 密度大的
+Dense fog or smoke is difficult to see through because it is very heavy and dark. (烟、雾等) 浓重的
+densely 稠密地
+Something that is dense contains a lot of things or people in a small area. 稠密的
+dense |英 [dens]  美 [dɛns]| adj. 稠密的；浓厚的；愚钝的/
+...a small dense star.…一颗密度大的小恒星。
+A dense column of smoke rose several miles into the air.一柱浓烟升上几英里高的天空。
+Java is a densely populated island.爪哇是一个人口稠密的岛屿。
+Where Bucharest now stands, there once was a large, dense forest.现在的布加勒斯特所在地曾经是一片茂密的大森林。
+
+
+n. [usually sing.] 少量（颜色、感情、品质）:
+vt. [常用被动式] ~ sth (with sth)（轻微地）给…着色，给…染色:
+vt. [常用被动式] ~ sth (with sth) 使略带…感情（或品质）:
+tinge |[tɪndʒ]
+His skin had an unhealthy greyish tinge. 他的皮肤有种不健康的淡灰色。
+There was a faint pink tinge to the sky. 天空略带一点淡淡的粉红色。
+The sky had a slight pink tinge to it. 天空略带点儿淡粉色。
+blue with a slight tinge of purple 略带点儿紫的蓝色 
+a slight reddish tinge 略带淡淡的红色 
+to feel a tinge of envy 感到几分妒忌 
+Could there have been a slight tinge of envy in Eva's voice? 伊娃的声音里可能会有一丝羡慕吗？
+She felt a tinge of guilt. 她感到一丝内疚。
+white petals tinged with blue 略带蓝色的白花瓣
+a look of surprise tinged with disapproval 带有几分不满的惊奇神情
+
+If one thing is congruent with another thing, they are similar or fit together well. 相似的; 合适的
+congruent |英 ['kɒŋgrʊənt]  美 ['kɑŋɡruənt]| adj. 适合的，一致的；全等的；和谐的/
+They want to work in an organization whose values are congruent with their own.他们想在一家与他们自己的价值观相同的组织里工作。
+
+
+vi. ~ over sth 俯身接近…:
+vi. 蹲、蹲下:
+n. [sing.] 蹲着的姿势:
+crouch |[kraʊtʃ]
+He crouched over the papers on his desk. 他俯身看他桌上的文件。
+Meantime, here I crouch over a cup of tea in my unheated study. 与此同时，在没有暖气的书房里，我只能就着一杯茶取暖。
+sitting crouched over the steering wheel 俯身坐在方向盘前 
+They crouched over the dead animal. 他们俯身看那只死去的动物。
+He crouched down beside her. 他在她的旁边蹲了下来。
+We crouched down to avoid being seen. 我们蹲下以免被发现。
+She was crouching behind the sofa. 她正蹲在沙发后面。
+Doyle crouched behind a hedge. 多伊尔蹲在篱笆后面。
+We were crouching in the bushes. 我们蹲在树丛里。
+I crouched on the ground. 我蹲在地上。
+The hare crouches low on the ground. 野兔贴着地面蹲着。
+She dropped to a crouch. 她俯身蹲了下来。
+
+protect (something, especially something of environmental or cultural importance) from harm or destruction:protect（某物，尤其是具有环境或文化重要性的东西）免受伤害或破坏
+prevent the wasteful overuse of (a resource):防止对（资源）的浪费性过度使用
+maintain (a quantity such as energy) at a constant overall total:maintain（一个量，如能量）在一个恒定的总和
+retain (a particular amino acid, nucleotide, or sequence of these) unchanged in different protein or DNA molecules:retain（特定的氨基酸、核苷酸或它们的序列）在不同的蛋白质或DNA分子中保持不变
+preserve (fruit) with sugar.:preserve（水果）加糖。
+a preparation made by preserving fruit with sugar; jam or marmalade:用糖保存水果制成的制剂；果酱或果酱
+conserve |kənˈsəːv| Noun/Verb/:养护,保存
+the funds raised will help conserve endangered meadowlands:筹集的资金将有助于保护濒临灭绝的草地
+industry should conserve more water:industry应该节约更多的水
+the momentum of a system is conserved unless an external force acts on it:除非有外力作用，否则系统的动量守恒
+the adjacent sequence is conserved over large evolutionary distances:相邻序列在大进化距离上是保守的
+pork tenderloin with onion and raisin conserve:猪肉里脊配洋葱和葡萄干保存
+
+Fahrenheit is also a noun. 华氏温标
+Fahrenheit is a scale for measuring temperature, in which water freezes at 32 degrees and boils at 212 degrees. It is represented by the symbol °F. 华氏的
+fahrenheit || adj. 华氏的；华氏温度计的/n. 华氏温度计；华氏温标/
+He was asked for the boiling point of water in Fahrenheit.有人问他华氏温标下水的沸点。
+By mid-morning, the temperature was already above 100 degrees Fahrenheit.到上午10点左右，气温已超过华氏100度了。
+
+
+n. 1 [C] 大公司:
+2 [C] 在法律上被视为一个单体的一个组织或一群组织，即法人，法人团体:
+n. [C] 英式英语中还可指被选举出来以管理一个大型城镇或城市（兼提供公共服务）的一群人，即市政委员会:
+corporation |[͵kɔ:pə'reɪʃn][͵kɔ:pə'reɪʃn]
+big, giant, huge, large, major corporation 大公司 
+powerful corporation 强大的公司 
+foreign corporation 外国公司 
+multinational, transnational corporation 跨国公司 
+private corporation 私营公司 
+broadcasting, finance, oil corporation 广播公司；金融公司；石油公司 
+for-profit, non-profit corporation 营利性公司；非营利性公司 
+parent corporation（美）母公司 
+the Chrysler corporation 克莱斯勒公司 
+corporation tax（英）公司所得税 
+urban development corporations 城市开发集团公司
+
+If someone who is thirsty quenches their thirst, they lose their thirst by having a drink. (通过喝水) 解 (渴)
+quench |英 [kwen(t)ʃ]  美 [kwɛntʃ]| vt. 熄灭，[机] 淬火；解渴；结束；冷浸/vi. 熄灭；平息/
+He stopped to quench his thirst at a stream.他停在一条小溪边喝水解渴。
+
+
+n. 1 [C] 常用单数，指危险或问题发生时的警报:
+2 [C] 报警器:
+vt. 给门等安装报警器:
+n. [C] 闹钟，相当于alarm clock:
+vt. 使某人担忧或害怕，相当于worry:
+n. [U] 危险或令人不快之事发生时，某人所感到的惊恐或担忧:
+alarm |[ə'lɑːm]
+I hammered on all the doors to raise the alarm. 我敲所有的门让大家警觉。
+The police were called, but it was a false alarm. 打电话叫了警察，却是一场虚惊。
+The guard raised the alarm when he discovered that six prisoners had escaped. 狱警发现跑了六名犯人后发出了警报。
+Many birds give alarm calls to warn of danger. 许多鸟都会发出危险警报。
+fire, smoke alarm 火警报警器；烟雾报警器 
+burglar, security, car alarm 防盗报警器；安全报警器；车辆报警器 
+alarm bell, alarm system 警铃；报警系统
+The alarm went off at 7 o’clock. 闹钟7点钟响了。
+alarm call（英）（美为wake-up call）（旅馆的）叫早电话 
+I set my alarm for 6.30. 我把闹钟定在6点30分。
+The captain knew there was an engine fault but didn’t want to alarm the passengers. 船长知道一台发动机出了故障，不过他不想惊动乘客。
+a sense of alarm 恐慌 
+unnecessary alarm 不必要的担心 
+The school’s policies have caused alarm among parents. 学校的政策引起了家长们的恐慌。
+Many people have expressed alarm at the plans. 许多人对这些计划表示担忧。
+He shouted out in alarm. 他惊慌地喊叫起来。
+
+adj.（某事物）邋遢的:
+adj. 不友好的:
+adj. 危险的:
+n. [pl.] 危害别人的人或事物:
+adj. 冒犯无礼的；下流的:
+adj. 严重的:
+adj. 极坏的、极令人不悦的、令人厌恶的:
+I had a nasty feeling that he would follow me. 我有一种极糟糕的预感:
+n. [pl.] 令人不快的人或事物:
+adj. 令人担忧的且难对付的，如棘手的:
+nasty |[ˈnɑ:sti;美ˈnæsti]
+his nasty little house in Balham 他在巴勒姆的脏乱小屋
+She was nasty about everyone. 她对谁都很凶。
+Don't be so nasty to your brother. 别对你弟弟那么凶。
+The guards looked really nasty. 卫兵们看起来真凶。
+the nastier side of her character 她个性较为恶毒的一面 
+to make nasty remarks about sb 说某人的坏话 
+to have a nasty temper 脾气坏 
+This divorce could turn nasty. 这场离婚可能会撕破脸。
+a nasty bend (= dangerous for cars going fast) 危险的弯道 
+Things could turn nasty (= dangerous) if we're not careful. 如果我们不小心，事情可能会变得很危险。           
+evil organizations, peopled with nasties 充斥着恶棍的邪恶组织 
+Decaffeinated coffee still contains some stimulants and other nasties linked with cancer. 脱咖啡因的咖啡仍含一些刺激物和其他可能致癌的有害物质。
+to have a nasty mind 思想肮脏 
+nasty jokes 下流的笑话
+a nasty accident 严重事故 
+an extremely nasty murder 令人发指的谋杀 
+a nasty injury 重伤 
+My little granddaughter caught her heel in the spokes of her bicycle — it was a very nasty wound. 我小孙女的脚跟夹到自行车的轮辐里了，伤得很严重。
+Lili had a nasty chest infection. 莉莉胸部感染很严重。
+The news gave me a nasty shock. 这消息可把我吓死了。
+He had a nasty moment when he thought he'd lost his passport. 他以为护照丢了，苦恼极了。
+This coffee has a nasty taste. 这咖啡真难喝。
+Don't buy that coat─it looks cheap and nasty. 别买那件外套——一看就是便宜货。
+a room full of cheap and nasty ornaments 满是廉价难看装饰物的屋子 
+Life has a nasty habit of repeating itself. 生活总是令人厌烦地重复着。
+That was a nasty little trick. 这是个可恶的小骗局。
+What nasty little snobs you all are. 你们全都是些可恶的势利小人。
+A spokesman said this firm action had defused a very nasty situation. 一位发言人称这一坚决的行动缓和了极为棘手的局面。  
+
+If you shovel something somewhere, you push a lot of it quickly into that place. 把…大量送入
+If you shovel earth, coal, or snow, you lift and move it with a shovel. 用铲挖; 铲起
+A shovel is a tool with a long handle that is used for lifting and moving earth, coal, or snow. 铲
+shovel |英 ['ʃʌv(ə)l]  美 ['ʃʌvl]| n. 铁铲；一铲的量；铲车/vt. 铲除；用铲挖；把…胡乱塞入/vi. 铲/
+There was silence, except for Randall, who was obliviously shovelling food into his mouth.到处一片寂静，除了正在忘乎所以地把食物大口大口地塞进嘴里的兰德尔。
+He has to get out and shovel snow.他不得不出去铲雪。
+...a coal shovel.…一把煤铲。
+
+
+adj. 1 ~ (of/about sb/sth) 感觉某人可能做了坏事的（而没有任何证据）:
+2（某事的对错或合法性、某人或某事物）令人怀疑的:
+3 ~ (of sb/sth) 不愿意或不能够信任某人或某事物的，即不信任的、持怀疑态度的。相当于sceptical:
+suspicious |[səˈspɪʃəs]
+They became suspicious of his behaviour and contacted the police. 他们开始觉得他行为可疑，便报了警。
+Two officers on patrol became suspicious of two men in a car. 两名巡警开始对一辆车里的两个人起了疑心。
+A woman kept prisoner in a basement was rescued after suspicious neighbours tipped off police. 觉得情况可疑的邻居们报警后，被囚禁在地下室里的一名女子获了救。
+a suspicious look 怀疑的神情 
+You have a very suspicious mind (= you always think that people are behaving in an illegal or dishonest way). 你疑心很重。
+I have a naturally suspicious mind. 我天生多疑。
+He has his father's suspicious nature. 他像他父亲一样生性多疑。
+He was rightly suspicious of meeting me until I reassured him I was not writing about him. 当然他很不放心见我，直到我再一次向他保证我不是在写他。
+I think they're starting to get suspicious. 我觉得他们开始起疑心了。
+Something about her smile made him suspicious. 她的这种笑容让他顿生怀疑。
+His voice grew slightly suspicious. 他的声音里开始略带怀疑。
+Voters are rightly suspicious of attempts to save money in the area of education. 选民怀疑当局企图削减教育经费是有根据的。
+Didn't you notice anything suspicious in his behaviour? 你难道没有注意到他行为有可疑之处？
+She died in suspicious circumstances. 她死得蹊跷。
+Police are not treating the fire as suspicious. 警方认为这场火灾没有可疑之处。
+It was all very suspicious. 这一切十分可疑。
+He reported that two suspicious-looking characters had approached Callendar. 他报告说两个形迹可疑的人曾跟卡伦德接触过。
+Nottingham police last night found what they described as a suspicious package. 诺丁汉警方昨晚找到了他们声称的可疑包裹。
+We have to carry on as usual or it would look suspicious. 我们得照常进行，否则就会引起怀疑。I find it very suspicious that he left halfway through the morning. 他上午中途离开，我感到非常蹊跷。
+Police are treating both fires as suspicious. 警方将两起火灾当成可疑事件处理。
+He was seen acting in a highly suspicious manner. 有人发现他的行为举止非常可疑。
+Inform the police immediately if you see anything suspicious. 如发现任何可疑情况，请立刻通知警方。
+I was highly suspicious of his motives. 我非常怀疑他的动机。
+They were somewhat suspicious about her past. 他们对她的过去有些怀疑。
+Many were suspicious of reform. 很多人对改革持怀疑态度。
+Parents have every right to be suspicious of what the experts tell them. 父母有权质疑专家对他们说的话。
+She remained deeply suspicious of computers. 她对电脑还是没有信心。
+
+n. 1 [C] [美；英用boot] 汽车后部的行李箱:
+2 [C] 用于存储或运输衣物、书籍等的有盖大箱子:
+n. [pl.] trunks 可表示男士游泳裤:
+n. [C] 象鼻子:
+n. [C] 树干:
+n. [C, usually sing.] 人体的躯干（即除了头、四肢以外的部分）。是医学中表示此义的常规用词:
+trunk |[trʌŋk]
+car trunk 汽车行李箱 
+He slammed the trunk shut. 他砰地关上了行李箱。
+old trunk 旧衣箱 
+steamer trunk（可放在船舱床位下的）扁行李箱
+bathing, swimming trunks 男士泳裤 
+a pair of trunks 一条游泳裤
+The elephant reached out with his trunk. 那头大象伸出它的鼻子。
+tree trunk 树干 
+hollow trunk 中空的树干 
+the trunk of a human body 人体的躯干
+
+n. [C] 观众对某个表演者或讲话者给予的热烈鼓掌:
+ovation |[əʊˈveɪʃn;美oʊ-]
+enthusiastic, huge, long, loud, thunderous（尤美）ovation 热情的欢迎；热烈的掌声；长时间的掌声；响亮的掌声；雷鸣般的掌声 
+The audience gave her a standing ovation for her performance. 观众起立为她的表演鼓掌。
+The soloist got a ten-minute standing ovation (= in which people stand up from their seats). 独奏演员受到了长达十分钟的起立鼓掌欢呼。
+He received the longest ovation of the evening. 他得到了晚会上最持久的掌声。
+He came off the field to a huge ovation. 他在热烈的欢呼声中离开了运动场。
+The final piece won her an enthusiastic ovation from the audience. 最后一支曲子为她赢得了观众热烈的掌声。
+They had lost by a wide margin, but their supporters gave them a defiant, loyal ovation. 他们以较大的差距败北，但支持者们还是给予了热烈的掌声，以示对对手的不服和对他们的忠诚。
+
+vt. 使承担（责任、任务）:
+n. [C] 动物（如羊、兔或鹿）的脊背上的肉:
+n. [C] 马鞍:
+vt. 把马鞍放到马背上:
+n. [sing.] in the ~ 在位、掌权:
+n. [C]（自行车或摩托车的）车座:
+saddle |[ˈsædl]
+The war devastated the economy and saddled the country with a huge foreign debt. 战争拖垮了经济，使该国欠下了巨额外债。
+I've been saddled with organizing the conference. 我被派担当组织会议的重任。
+The company was saddled with debts of £12 million. 公司背着1 200万英镑的债务。
+She swung herself into the saddle. 她飞身上马。
+Three weeks after the accident he was back in the saddle. 出事后三个星期，他就又骑上马了。
+Why don't we saddle a couple of horses and go for a ride? 我们何不找几匹马套上马鞍出去遛遛？           
+The armed forces and the hardliners are now going to be in the saddle. 武装部队和奉行强硬路线的人即将掌权。
+
+n. [C, U] 悲惨的事（尤指涉及到死亡）:
+n. [C, U]（戏剧中的）悲剧、悲剧作品:
+tragedy |[ˈtrædʒədi]
+family, human, personal, private tragedy 家庭悲剧；人类悲剧；个人悲剧 
+national tragedy 国家悲剧 
+A family's outing ended in tragedy when their boat capsized. 一家人出游，结果船翻了，以一场悲剧告终。
+We don't know what caused the tragedy. 我们不知道是什么造成了悲剧。
+Tragedy struck when their eight-year-old daughter was knocked down by a car. 悲剧发生，他们八岁的女儿被车撞了。
+Tragedy struck the family when their son was hit by a car and killed. 这个家庭惨遭不幸，他们的儿子被汽车撞死了。
+She had seen the tragedy unfold. 她看到了悲剧一步步展开。
+The closure of the factory is a tragedy for the whole community. 工厂的关闭是整个社区的悲剧。
+It's a tragedy that she died so young. 她英年早逝是一大悲哀。
+The whole affair ended in tragedy. 整个事件以悲剧而告终。
+They have suffered an enormous personal tragedy. 他们遭逢了巨大的个人不幸。
+Maskell's life had not been without tragedy. 马斯克尔的生活亦有过变故。
+Shakespeare's tragedies 莎士比亚的悲剧 
+Greek tragedy 希腊悲剧 
+The story has elements of tragedy and farce. 这个故事兼有悲剧与闹剧的元素。

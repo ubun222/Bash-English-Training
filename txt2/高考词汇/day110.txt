@@ -1,0 +1,466 @@
+burglar							入室盗贼
+owner								物主
+grow								生长，增强，开始
+beautiful							美丽的，出色的
+fierce							凶猛的，强烈的
+pedestrian							行人，乏味的
+court								法庭，宫廷，球场，恋爱
+badminton							羽毛球运动
+postbox							邮箱
+photo								照片
+onion								洋葱
+meat								肉，实质
+Atlantic							大西洋的
+voyage							航行
+excellent							极好的
+telegraph							电报
+breakthrough						突破，突围
+cause								原因，理由，事业，引起
+swap								交换
+nervous							局促不安的，绷紧的，神经的
+thorough							彻底的，全面的，缜密的
+seal								海豹，密封，印章，保证，达成
+tissue							生物组织，纸巾
+a tissue of						一系列
+damp								潮湿的
+condemn							谴责，判处，迫使...接受困境
+yawn								打哈欠
+biology							生物学，生理
+announcement						通告
+punish							惩罚
+army								陆军，大群
+\\\\\\\\
+
+n. [C] 非法进入建筑物实施盗窃的人，即入室窃贼:
+burglar |['bə:ɡlə]
+professional burglar（英）职业入室窃贼 
+cat burglar 飞贼 
+The burglar had broken in through a window. 盗贼从窗户闯入。
+Burglars had already struck twice that week in their street. 那个星期盗贼已两次光顾了他们那条街。
+burglar alarm 防盗警报
+
+n. [C] 某事物的所有人，即物主，拥有者:
+owner |['əʊnə]
+I’m part owner of the restaurant. 这家餐馆有我的份额。
+The stolen painting has now been returned to its rightful owner. 失窃的画已物归原主。
+business, car, dog, factory, home, land, property owner 企业主；车主；狗的主人；厂主；房主；土地所有者；业主 
+the owner of the farm 农场主
+
+vi. grow (in sth) 尺寸、数量、强度或品质的增长:
+vt. 指业务在规模、品质或数量上扩大、增加:
+vi. 1 经过一段时间而变得拥有某种品质或感情，即逐渐变得:
+2 逐渐开始做某事:
+vi. 人或动物长大、生长、发育。是一个常规用词:
+vt.＆vi. 1 植物在某地生长、发育；使植物生长、发育，此时也可叫种植、栽植:
+2 头发或指甲变长；使头发或指甲变长:
+vi. 长大、生长、发育。是此义的常规用词:
+vt.＆vi. 头发或指甲变长；使头发或指甲变长:
+vi. grow (as sth) 指人提升某种品质或培养某种技能:
+grow |[ɡrəʊ]
+to grow in size 尺寸增加 
+The Chinese economy has grown at a record pace. 中国经济以创纪录的速度增长。
+Profits are expected to grow by 10% next year. 预计明年的利润会增长一成。
+The town grew into a city. 原来的小镇发展成了城市。
+to grow the business 扩展业务 
+The business has grown exponentially over the past ten years. 在过去十年中，该企业发展越来越快。
+to grow old 逐渐变老 
+to grow impatient 逐渐失去耐心 
+She continued to grow in confidence. 她的信心越来越强。
+It grew dark and I decided to go home. 天渐渐黑了，我决定回家。
+You’ll grow to adapt to the new environment. 你会逐渐适应新环境的。
+Your son has grown. 你儿子又见长了。
+The small puppy quickly grew into a very large dog. 小狗很快长成了大狗。
+Potatoes grow well. 土豆长势不错。
+to grow wheat 种植小麦 
+organically grown produce 有机农产品 
+a plant which is easy to grow 一种易于栽培的植物 
+grow sth from seed 用种子栽培… 
+Let my hair grow. 我要留头发。
+to grow hair 留头发 
+to grow a beard 留胡子
+to grow taller 长高 
+Your son has grown. 你儿子又见长了。
+to grow to maturity 成熟；成年 
+Let my hair grow. 我要留头发。
+to grow a beard 留胡子
+to continue to grow as a musician 作为音乐家继续有所提高
+
+adj. 美丽的，漂亮的，令感官或头脑愉悦的。是一个常规用词，常用于形容女子、地方、事物等的外表。极为常用:
+adj. 非常好的，非常巧妙的，技巧非常熟练的:
+beautiful |['bju:tɪfl]
+beautiful woman, beautiful face, beautiful voice, beautiful poem, beautiful smell, beautiful evening 漂亮的女人；漂亮的面孔；美妙的声音；美妙的诗歌；美妙的香味；美妙的夜晚 
+beautiful countryside, beautiful weather, beautiful music 美丽的乡村；美好的天气；美妙的音乐 
+We did all we could do to make the room beautiful. 我们尽可能把房间布置得漂亮些。
+What beautiful timing! 时间把握得正好！
+
+adj.（尤指人或动物以令人害怕的方式）发怒且具有攻击性的。如凶猛的、凶狠的、凶残的:
+adj.（情感）强烈的、猛烈的:
+adj.（天气状况或温度）狂暴或恶劣的并可能造成损害的:
+adj.（尤指行动、动作或情感）强烈的、猛烈的:
+fierce |[fɪəs]
+a fierce dog 恶狗 
+fierce eyes 凶狠的目光 
+He suddenly looked fierce. 他突然面露凶相。
+She spoke in a fierce whisper. 她恶狠狠地低声说话。
+fierce loyalty 极度的忠诚
+fierce wind 狂风 
+the fierce heat of the flames 火焰的炽热高温
+fierce loyalty 极度的忠诚 
+the scene of fierce fighting 激烈战斗的场面 
+He launched a fierce attack on the Democrats. 他对民主党人发动了猛烈的抨击。
+Competition from abroad became fiercer. 来自国外的竞争有所加剧。
+
+adj. 平庸乏味的、没有任何想象力或不激动人心的、无趣的:
+n. [C] 行人，尤指城镇中的行人:
+adj. 只作前置定语，行人使用的，或与行人有关的:
+pedestrian |[pə'destrɪən]
+His style is so pedestrian that the book becomes a real bore. 他的文风太平庸，以致那本书成了一本真正乏味的书。
+pedestrian area 步行区 
+pedestrian accidents 行人事故
+
+vt. 1 试图取悦某人以获取自己想要的东西，尤指某人（或某个组织等）的支持:
+2 [正式] 试图获得…，即追求（多指追求名望）:
+vt. [正式] 做可能导致不良后果的事，即招致:
+vt. [过时] 向女子求爱，求婚:
+vi. [过时] be courting 可表示男女（结婚前）恋爱:
+n. [C] 体育运动中可指篮球、网球、羽毛球、壁球等的球场:
+n. 1 [C, U] 国王或女王、皇后居住的地方，即王宫，宫廷:
+2 [sing.] the court 可指王室人员，如国王、王后、其他人员等:
+n. [C] 建筑物的宽敞开放的区域，常有玻璃房顶:
+n. [C] 英国用于一些大型宅第的名称:
+n. [C] 与courtyard同义，即庭院:
+n. 1 [C, U] 法院，法庭:
+2 [sing.] the court 可指全体出庭人员，尤指审判人员，如法官和陪审员:
+n. [C] 用于公寓街区的名称，短街道的名称:
+court |[kɔ:t][kɔ:t]
+to court his supporters 讨好他的支持者 
+to court the media 取悦媒体 
+The band has actively courted a young audience. 该乐队已积极争取到年轻观众的支持。
+to court publicity, to court popularity 追求名望
+to court disaster, to court controversy, to court danger 招灾惹祸；招致争议；招致危险
+basketball, squash, tennis court 篮球场；壁球馆；网球场 
+clay, grass, hard court 红土网球场；草地网球场；硬地网球场 
+an indoor volleyball court 室内排球场
+He was presented at the court. 他在王宫受到了接见。
+imperial, royal court 宫廷 
+to be known in court circles 在宫廷圈内广为人知 
+court jester 宫廷弄臣 
+life at court 宫廷生活 
+the food court at the shopping mall 大型购物中心的食品区
+civil, criminal court 民事法庭；刑事法庭 
+military court 军事法庭 
+circuit, district（均美）court 巡回法院；地区法院 
+Appeal Court, High Court（均为英格兰和威尔士用法）上诉法院；高等法院 
+higher, superior court 上级法院；高级法院 
+supreme court 最高法院 
+lower court 下级法院 
+juvenile court 少年法庭 
+divorce court 离婚法庭 
+court clerk 法庭书记员 
+court trial 庭审 
+court summons 法庭传票 
+court decision, court ruling 法院判决；法院裁决 
+court appearance 出庭 
+court date 庭审日期 
+court procedure 庭审程序 
+court costs 诉讼费 
+to go to court 打官司 
+to take sb to court 把某人告上法庭 
+Please tell the court what happened. 请向法庭陈述事件的经过。
+
+n. [U] 羽毛球运动:
+badminton |['bædmɪntən]
+a badminton court 羽毛球场 
+a badminton racket 羽毛球拍
+
+A postbox is a metal box in a public place, where you put letters and small parcels to be collected. They are then sorted and delivered. Compare . 邮箱
+postbox |英 ['pəʊs(t)bɒks]  美 ['postbɑks]| n. 邮箱/
+And with a trembling hand, he dropped the letters into the postbox.他颤抖的手把信投进了邮箱。
+
+
+n. [C] 照片。是一个简单用词:
+photo |['fəʊtəʊ]
+Let’s take a photo! 我们拍张照吧！（美式英语常用take a picture）
+a colour photo 彩色照片 
+signed photo 签名照 
+photo session（社交活动中与名人拍照的）拍照时间段 
+photo story 照片故事 
+photo gallery 照相馆
+
+n. [C, U] 洋葱:
+onion |['ʌnjən]
+raw onion 生洋葱 
+slice onion 切洋葱片 
+onion ring 洋葱圈
+
+n. [U, C] 被作为食物的（动物或禽鸟的）肉；某类供食用的肉:
+n. [U] meat (of sth) 某事物的重要（或有趣）的部分，相当于substance:
+meat |[mi:t]
+meat-eating animals 食肉动物 
+I’m not a great meat eater. 我吃肉不多。
+salted, smoked meat 腌肉；烟熏肉 
+frozen meat 冻肉 
+meat production 肉类生产 
+meat consumption 肉类消费
+This chapter contains the real meat of the writer’s argument. 这一章包含了作者的主要论点。
+
+n. [sing.] the Atlantic或the Atlantic Ocean可指大西洋:
+adj. 大西洋的:
+Atlantic |[ət'læntɪk]
+The Atlantic Ocean separates America from Europe. 大西洋把美洲和欧洲分隔开来。
+Atlantic currents大西洋洋流 
+the Atlantic Coast大西洋海岸
+
+n. [C] 一次长途旅行（尤指在海上或太空航行）:
+vi. [文学]（尤指乘船进行长距离）航行:
+voyage |['vɒɪɪdӡ]
+a voyage in space 太空旅行 
+sea voyage 海上航行 
+transatlantic voyage 横越大西洋的航行 
+solo voyage 单人航行 
+homeward, return voyage 返航；归航 
+first voyage 首航 
+Going to college can be a voyage of discovery.（比喻用法）上大学可能是一次发现之旅。
+to voyage through the Indian ocean 穿越印度洋
+
+adj. 适合于:
+adj. 善于:
+adj. 1 极好的，如优秀的、杰出的:
+2 用于表明你对某事感到非常愉快，或以表明你赞同某事:
+excellent |['eksələnt]
+These potatoes are excellent for baking. 这些土豆适合烘烤。
+Clancey was excellent at keeping the kids under control. 克兰西非常善于管教孩子。  
+excellent meal, excellent service 美味佳肴；优质服务 
+At $300 the bike is excellent value. 这辆自行车300美元太合算了。
+She speaks excellent French. 她法语说得好极了。
+The school is considered excellent. 这所学校被认为很优秀。
+You can all come? Excellent! 你们都能来？太好了！
+
+If someone telegraphs something that they are planning or intending to do, they make it obvious, either deliberately or accidentally, that they are going to do it. 流露 (要做某事)
+To telegraph someone means to send them a message by telegraph. 发电报给
+telegraph |英 ['telɪgrɑːf]  美 ['tɛlɪɡræf]| n. [通信] 电报机，电报/vt. 电汇；流露出；打电报给…/vi. 打电报/
+The commission telegraphed its decision earlier this month by telling an official to prepare the order.该委员会本月早些时候通过让一个官员准备那项命令流露了其要做的决定。
+Churchill telegraphed an urgent message to Wavell.丘吉尔给韦维尔发了一个急电。
+
+
+n. [C]（可能会产生一项协议或成就的）重大进展或突破:
+breakthrough |['breɪkθru:]
+a significant breakthrough in negotiations 谈判中的重大突破 
+a major breakthrough in cancer research 癌症研究中的重要突破 
+scientific breakthrough 科学上的突破
+
+vt. 使某事（尤指坏事或令人不快的事）发生:
+n. 1 [C] 是某事发生的原因，起因（可以是人、事物或事件）:
+2 [U] cause (for sth)（感情或行为方式的）理由，缘故:
+n. [C] 人们所支持并为之奋斗的一个组织或思想，可称为理想:
+n. [C] 人们所支持并为之奋斗的一个组织或思想，可称为事业，目标，思想:
+n. [C] 诉诸法庭的案件，即诉讼案。cause强调在原告（该原告是一个尊重法律的人）看来对其有利的“诉讼案”，原告发起一个cause的目的暗含着对正义的追求。在用法搭配上，可以说一个action或suit被commenced（即诉讼被“提起”），但是一个cause（而非action）则通常被tried（即案件被“审理”）:
+cause |[kɔ:z]
+Do they know what caused the fire? 他们知道引起这场火灾的原因吗？
+deaths caused by dangerous driving 危险驾驶造成的死亡 
+The poor harvest caused prices to rise sharply. 收成不好导致物价急剧上涨。
+to cause trouble 惹麻烦 
+to cause problems 造成问题
+cause and effect 因果 
+the cause of death 死因 
+Unemployment is a major cause of poverty. 失业是贫困的主要原因。
+There is no cause for concern. 没有理由担忧。
+We have good cause to believe that he was involved in the crime. 我们有充分的理由相信他涉嫌此案。
+humanitarian, political, social cause 人道主义理想；政治理想；社会理想
+charitable, political, social cause 慈善事业；政治理想；社会理想 
+communist cause 共产主义事业 
+good cause 崇高的事业 
+worthy cause 有价值的事业 
+to fight for the cause 为此项事业而奋斗 
+He pleaded the cause of the local peasants. 他为了当地农民的利益奔走呼号。
+
+swap sth for sth 与某人交换东西:
+vi. swap (over) 与某人交换工作等:
+swap sb/sth (over) 用一个人或事物来替换另一个人或事物，即替换、换掉、换成:
+n. 1 [usually sing.]（人或事物的）交换:
+2 [C] 被交换的事物或人:
+swap |[swɒp]
+vt.＆vi. swap (sth) (with sb) 
+Can we swap places? I can’t see the screen. 咱俩交换一下座位好不好？我看不见银幕。
+to swap stories 相互讲故事 
+I swapped him my magazine for his book. 我拿我的杂志换了他的书。
+I’ll drive there and then we’ll swap over on the way back. 去的时候我开车，回来的时候咱俩再倒换过来。
+I think I’ll swap this sweater for one in another colour. 我想把这件毛衣换成一件其他颜色的。
+I’m going to swap you over. Mike will go first and Jon will go second. 我打算把你俩掉换一下。迈克先去，乔恩后去。
+Let’s do a swap. You work Friday night and I’ll do Saturday. 咱俩调个班吧。你星期五晚间上，我星期六上。
+house, land swap 房屋交换；土地交换 
+Let’s do a straight swap--your guitar for my bike. 咱们直接交换吧，你的吉他换我的自行车。
+swap deal（英）置换交易 
+a spy swap made between East and West Germany 东西德之间的间谍交换 
+Most of my football stickers are swaps. 我的足球图文标签多数都是跟别人换来的。
+
+adj. 1 nervous (about/of sth)（对某事）焦虑的或惶恐的、担忧的。是一个常规用词:
+2 易于担心或害怕的，即神经质的，胆怯的:
+adj. 与神经系统有关的（且常影响人的心理或情绪的）:
+nervous |['nə:vəs]
+Sit down--you’re making me nervous! 坐下吧——你站着让我很紧张！
+Consumers are very nervous about the future. 消费者对未来非常忧虑。
+The horse may be nervous of cars. 这匹马可能害怕汽车。
+I felt really nervous before the interview. 面试前我感到惶恐不安。
+a nervous glance 胆怯的一瞥 
+She was a nervous girl. 她是个神经兮兮的女孩儿。
+nervous condition, nervous disease, nervous disorder 神经系统疾病；神经紊乱 
+She was in a state of nervous exhaustion. 她的神经处于极度疲劳的状态。
+
+adj. 通常不用于名词前，（人）做事非常仔细且对细节给予极大关注的:
+adj. 1 被执行得彻底的；对于细节给予极大关注的。如彻底的、完全的；深入的、细致的、透彻的:
+2 [英，非正式] 用于强调某人或某事物多么糟糕或令人心烦，如十足的、完完全全的、彻头彻尾的，相当于complete:
+thorough |['θʌrə]
+She’s very thorough and conscientious. 她勤勤恳恳，一丝不苟。
+a thorough knowledge of the subject 对这一学科的透彻了解 
+a thorough investigation 全面调查 
+Everything was in a thorough mess. 一切都是乱七八糟的。
+
+vt. seal from 使与…隔绝:
+n. [C] 海豹:
+vt. 1 seal sth (up/down) 把信封等物品开着的一端用胶封上:
+2 seal sth (up) (with sth) 常用被动式，将容器等密封住，或将裂缝等填塞住，尤指使气体、液体能不能漏出:
+3 seal sth (with sth) 常用被动式，用一种物质盖住…的表面（以将其保护起来）:
+n. 1 [C] 容器、机器等上的密封装置，如一种物质，或一个金属条等，用以填充裂缝，从而防止空气或液体等进出；还可指容器或开口等的封了的部分:
+2 [C] 信件或盒子上的封口物，在打开信件或盒子前需要将其撕开，如封蜡、封条等:
+vt.（警方、军方等）关闭边境或出口，以防止人们穿过一个地方，即封锁地区:
+n. [C] 印在一份文件上的印章或图章，该图案带有某人或某个机构的权威性，也因此而表明了该文件的真实性:
+vt. [正式] 使…明确确定下来，这样就不能够被更改或争论:
+n. [sing.] 将某事明确确定下来的事物，如信物:
+seal |[si:l]
+The nuclear plant would be effectively sealed off from the world. 该核电厂将与外界完全隔离开。
+baby seal 小海豹 
+seal colony 海豹群
+to seal the envelope 封上信封 
+He sealed the bag tightly with tape. 他用胶带将袋子牢牢封住。
+to seal the food in plastic bags 将食品封入各塑料袋中 
+The unit is completely sealed. 这个装置处于完全密封状态。
+a hermetically sealed container 真空密封的容器 
+The surface of the table has been sealed with paint. 桌子的表面已经刷上了油漆。
+a rubber seal on the lid 盖子上的密封橡胶垫 
+to check the seal 检查封口 
+The seal on the box broke. 盒子上的封口破了。
+to break the wax seal 揭去封蜡
+to seal the border between the two countries 封锁两国之间的边界 
+Police sealed off the area. 警方封锁了该地区。
+royal seal 王室印章 
+a paper bearing the presidential seal（美）一份盖有总统印章的文件 
+He broke the seal and opened the envelope. 他撕下封条，拆开了信封。
+to seal a deal 达成一笔交易 
+to seal a contract 订立合同 
+to seal friendship 交朋友 
+The election will seal his destiny one way or the other. 这场选举将决定他的去留命运。
+a seal on our friendship 我们之间友谊的见证 
+a seal of love 爱情的见证（或爱情的信物等）
+a seal of approval 批准
+
+n. [C]（尤指用作手帕的）纸巾，面巾纸:
+n. [U] 也可用tissue paper，指（用于包装易碎物品的）薄纸:
+n. [U] 有时也用复数形式tissues，指（人、动植物细胞的）组织:
+tissue |['tɪʃu:]
+a box of tissues 一盒纸巾 
+paper tissue 纸巾 
+toilet tissue 卫生纸 
+He wiped his nose on a tissue. 他用纸巾擦了擦鼻子。
+a small package wrapped in tissue paper 一个小包裹，用薄棉纸包着
+animal, human, plant tissue 动物组织；人体组织；植物组织 
+body, brain, lung tissue 身体组织；脑组织；肺组织 
+connective tissue 结缔组织 
+soft tissue 软组织
+
+vt. 抑制或减弱（感情等）。相当于dampen:
+adj.（常令人不悦地）潮湿的，微湿的:
+n. [U] [英] 潮湿的状态；墙壁等上面的潮湿区域:
+vt. 弄潮湿，使潮湿。相当于dampen:
+damp |[dæmp]
+The cottage was cold and damp. 这小屋又冷又湿。
+damp clothes 潮湿的衣服 
+The old house smells of damp. 这老房子散发出一股潮气。
+She damped a towel and wrapped it round his leg. 她弄湿毛巾，把它裹在他的腿上。
+
+vt. condemn sb/sth (for/as sth) 针对某人或某事表达强烈的不赞成，常出于道德原因，即谴责，指责:
+vt. condemn sb to sth 迫使某人接受一个困难或令人不快的情况，相当于doom，常用被动式:
+vt. condemn sth (as sth) 正式说出（即宣告）使用…不够安全，常用被动式:
+vt. 1 condemn sb (to sth) 表“宣判”时，一般是做出惩罚性判决（而非做出无罪判决），如宣判某人有罪，尤指宣判死刑；宣告某项财产（如土地）收归国有；宣告某建筑物不适宜居住；判定食品、饮料等不适宜食用、饮用或消费；海商法中可指判决船只被没收充公、判决为战利品、或判决船只不适于使用或航行。与sentence多有交集，常用被动式:
+2 表明某人有…罪:
+condemn |[kən'dem]
+The government issued a statement condemning the killings. 政府发表声明谴责这些凶杀事件。
+He was condemned as lacking integrity. 他被指责为不够正直。
+She publicly condemned the deal. 她公开指责这桩交易。
+They were condemned to a life of hardship. 他们不得不过着艰难的生活。
+He was condemned to spend the rest of the football season on the bench. 他无可奈何地只得在这个足球赛季剩下的时间里做替补队员。
+a condemned building 一座已宣告不能居住的危楼 
+The meat was condemned as unfit to eat. 这种肉被宣告不宜食用。
+He was condemned to death for murder. 他因谋杀罪而被判处死刑。
+to be condemned to hang 被处以绞刑 
+She is condemned out of her own mouth. 她自己说的话表明她有罪责。
+
+n. [usually sing.] [非正式] 令人厌烦的事情或观点等:
+vi.（大洞或大空间）非常宽的，且经常令人感到恐惧并难以逾越的:
+vi. 打哈欠:
+n. [C] 哈欠:
+n. [usually sing.] [非正式] 令人厌烦的事情或观点:
+yawn |[jɔ:n]
+The meeting was one big yawn from start to finish. 这个会议自始至终都无聊透顶。
+A crevasse yawned at his feet. 他的脚下是一条张开大口的裂缝。
+a yawning gap between rich and poor（比喻用法）贫富之间的一条鸿沟
+She yawned, and stretched lazily. 她打了个哈欠，伸了个懒腰。
+to stifle a yawn 忍住哈欠 
+to give a huge yawn 打个大哈欠 
+collective yawn（比喻用法）集体不感兴趣
+
+n. [U] 机体或细胞的作用方式，即生物机理:
+n. [U] 生物学:
+biology |[baɪ'ɒlədӡɪ]
+the biology of the drug 该药物的作用机理
+a degree in biology 生物学学位 
+cellular, marine, molecular biology 细胞生物学；海洋生物学；分子生物学
+
+n. [U] 将某事公开告知给人们的一种行为，即宣布，宣告:
+n. [C]（将某事通知给人们的）一份口头或书面陈述，即公告，通告，布告等:
+announcement |[ə'naʊnsmənt]
+Announcement of the verdict was accompanied by cheers. 在一片欢呼声中宣布了判决。
+the announcement of a peace agreement 和平协议的公布 
+Announcements of births, marriages and deaths appear in some newspapers. 有些报纸刊登出生、结婚、死亡通告。
+formal, official announcement 正式通告；官方通告 
+government announcement 政府公告 
+earnings announcement by the company 该公司的收入公告 
+retirement, wedding announcement（均美）退休公告；结婚公告 
+to make an announcement 发布通告
+
+vt. punish yourself (for sth) 为已发生的事责怪自己，即自责:
+vt. 1 punish sb (for sth/for doing sth) 使某人因犯罪或犯错而遭到处罚，即惩罚。是此义的常规用词，极为常用:
+2 punish sth (by/with sth) 为某一罪行而设定处罚:
+punish |['pʌnɪʃ]
+physically punish 体罚 
+He will be severely punished for his crimes. 他将会因所犯的罪行而受到严惩。
+Those found guilty will be punished accordingly. 有罪者将受到相应的处罚。
+Offenders will be punished with a £500 fine. 违者将被处以500英镑的罚款。
+to be punished with the death penalty 被判处死罪 
+to punish children by making them go hungry 以挨饿来惩罚孩子
+
+n. [C] 单数名词，指一大群人或事物，尤指以某种方式来组织起来的，或在某一活动中所涉及的一大群人或事物:
+n. [C] 单数名词，指陆上作战部队，即陆军:
+army |['ɑ:mi]['ɑːmɪ]
+an army of advisers 一大批顾问 
+an army of ants 一大群蚂蚁 
+an army of reporters 一大群记者 
+a small army of volunteers 人数不多的志愿者 
+an army of loyal customers 一个忠诚的消费群体
+professional, regular army 职业军队；正规军 
+ragtag army（非正式用法）人员混杂的军队 
+reserve army 预备役部队 
+volunteer army 志愿军 
+allied army 盟军 
+enemy army 敌军 
+guerrilla army 游击队 
+rebel, revolutionary army 叛军；革命军 
+army officer, army official 军官；部队要员 
+army soldiers, army troops 陆军战士；军队 
+army division 陆军的一个师 
+army career 军旅生涯 
+army base 军事基地 
+army helicopter 军用直升机 
+army uniform 军装 
+army wife 军嫂 
+He led the army into battle. 他率领部队投入战斗。

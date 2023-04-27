@@ -1,0 +1,786 @@
+forecast							天气预报，预测
+drunk								醉的
+whom								谁
+mind								思维，意见，记忆，意愿，注意，介意
+mind you							说真的，请注意
+sideways							向旁边的，向旁边，侧身
+spare								闲置的，简朴的，备用品，匀出，放过，免去
+unique							唯一的，独特的
+export							出口，传播
+success							成功
+mess								脏乱，污渍，食堂，瞎闹
+mess with							惹
+no messing							不要胡闹
+airmail							航空邮政
+innocent							无罪的，无害的
+care								小心，忧虑，想要，喜欢，关心
+take care of						照顾，处理
+grand								壮观的，傲慢的，极好的
+triangle							三角形
+full								满的，吃饱的，直接的
+in full							完全的
+translation						译文，翻译
+pound								磅，英镑，捣碎，砸，收容所
+count								数数，计算，重要，认为
+count towards						被计入
+Or								或者，还是，否则
+paddle							短桨，涉水，用桨划，掌掴
+invitation							邀请，鼓励
+test								试验，测验，化验，考验
+bathtub							澡盆
+opinion							看法，观点，评价
+delight							愉快，使高兴
+thirst							口渴，渴望
+register							登记簿，登记，提出，取得
+opening							开幕式，洞，机遇
+puzzle							谜，使困惑，苦思冥想
+\\\\\\\\
+
+n. [C]（基于现有的信息对未来将要发生的事所进行的）预测:
+vt. 基于现有的信息对未来将要发生的事进行预测，类似于predict:
+forecast |['fɔ:kɑːst]
+economic, financial, market, weather forecast 经济预测；财务预测；市场预测；天气预报 
+The interest rate is in line with the forecast. 利率与预测的结果一致。
+Experts are forecasting a recovery in the economy. 专家预测经济将复苏。
+The report forecasts that prices will rise by 3% next month. 报告预测下月物价将上涨3%。
+Snow is forecast for tomorrow. 预报明天有雪。
+
+adj. [正式] drunk with sth（由于某种情感或情况而）陶醉，沉醉，飘飘然，忘乎所以:
+adj. 常不作前置定语，指喝醉的。是此义的常规用词:
+n. [C] 醉酒者，或经常酗酒者。不太常用:
+drunk |[drʌŋk]
+drunk with success 因成功而飘飘然 
+She was almost drunk with all these new impressions. 所有这些新的感想使她飘飘然起来。
+The wine had made him drunk. 他喝葡萄酒喝醉了。
+She was arrested for drunk driving.（尤美）她因为酒驾被捕。
+A drunk lay in the alley. 一个醉汉倒在巷子里。
+
+used instead of ‘who’ as the object of a verb or preposition:用于代替“谁”作为动词或介词的宾语
+whom |huːm| Pronoun/:,是谁
+
+n. [C] 心思、兴趣等:
+vt.＆vi. 1 尤用于疑问句或否定句，不用于被动句，指对某事烦恼，苦恼，焦虑，担忧，介意:
+2 用于请求允许做某事，或礼貌客气地要求某人做某事，即介意:
+3 not mind 无被动式，指不关心…，不在乎…，不考虑…:
+vt. not mind doing sth 愿意（或乐意）去做某事:
+vt. [美，爱尔兰] 注意某人所说的话并遵守之，即听从:
+And the moral of the story is: always mind your mother! 这个故事的寓意是:
+vt. [尤英] [美通常用watch] 关心，照看（某人或某物），相当于look after:
+n. [C] 非常聪明的人，富有才智的人:
+n. 1 [C, U] 人的头脑或大脑（能够使人意识到…、知道…、思考或感觉…）:
+2 [C] 思考或推理的能力；智慧；思维方式。此时相当于head，二者无明显差别:
+n. [C, usually sing.] 记忆力:
+vt. [英] [英美也用watch] 用于告诉某人对…小心一点，或警告其当心危险:
+mind |[maɪnd]
+Keep your mind on your work! 专心干你的活吧！
+Her mind is completely occupied by the new baby. 她一心扑在刚出世的宝宝身上。
+The lecture dragged on and my mind wandered. 演讲没完没了的，我心不在焉了。
+He gave his mind to the arrangements for the next day. 他认真考虑第二天的安排。
+I don’t mind the cold--it’s the rain I don’t like. 冷我不在乎，我是讨厌下雨。
+Did she mind not getting the job? 她没得到这份工作是不是很介意？
+He wouldn’t have minded so much if she’d told him the truth. 如果她把真相告诉他，他就不会那么担忧了。
+Do your parents mind you leaving home? 你父母舍得你离开家吗？
+He minded that he hadn’t been asked. 没被邀请，他很是耿耿于怀。
+Do you mind if I open the window? 我打开窗户你介意吗？
+Would you mind explaining that again, please? 请你再解释一遍行吗？
+‘Would you like tea or coffee?’ ‘I don’t mind--either’s fine.’ “你是要茶还是要咖啡？”“无所谓——什么都行。” 
+I didn’t mind about the money. 钱的事我不在乎。
+Don’t mind her--she didn’t mean what she said. 别理她——她只是随便说说。
+Don’t mind me--I’ll just sit here quietly. 别管我——我就在这儿静静地坐坐。
+Nobody really minded much about what happened to them. 没人真正在意他们的遭遇。
+I don’t mind helping if you can’t find anyone else. 如果你找不到别人，我乐意帮忙。
+I wouldn’t mind a coffee. 我很想喝杯咖啡。
+Who’s minding the children this evening? 今晚谁看孩子？
+Could you mind my bags for a moment? 你能不能照看一下我的袋子？
+to mind the shop 照看商店
+She was one of the greatest minds of her generation. 她是她那一代人中最聪慧的人之一。
+She was in a disturbed state of mind. 她脑子里一片混乱。
+the complex nature of the human mind 人脑的复杂特性 
+conscious, subconscious, unconscious mind 显意识；潜意识；无意识 
+Our subconscious mind tries to protect us. 我们的潜意识会想要保护我们。
+to have a brilliant mind 拥有非凡的智力 
+She had a lively and enquiring mind. 她思维活跃，善于探索。
+I’ve no idea how her mind works! 我真不知道她是怎么想的！
+You have a good mind. 你很有才智。
+logical mind 逻辑思维
+When I saw the exam questions my mind just went blank. 我看到考题时，脑子里一下子变得一片空白。
+Sorry--your name has gone right out of my mind. 对不起——我完全想不起你的名字了。
+Mind that step! 注意台阶！
+Mind your head! 小心，别碰着头！
+Mind your language! 说话注意点！
+Mind you don’t cut yourself--that knife’s very sharp. 小心别伤着——这刀子很快。
+You must be home for dinner, mind. 记住，你一定得回来吃饭。
+
+adv. 1 到一侧；朝向一侧；从一侧:
+2 用一个侧面朝前，即侧着:
+sideways |['saɪdweɪz]
+He looked sideways at her. 他斜着眼看她。
+The truck skidded sideways across the road. 卡车横着滑到公路另一侧。
+He has been moved sideways. 他平级调动工作了。
+She sat sideways on the chair. 她侧坐在椅子上。
+
+vt. [正式] spare sb/sth (from sth)（尤指当其他人未逃脱时）允许其逃离伤害、损害或死亡，即饶恕；赦免；放过等:
+vt. 1（不吝惜时间、金钱）尽一切努力以达成…或把某事做好:
+2 not spare yourself 不遗余力地工作:
+vt. 1 spare sb/yourself (from) sth 为…免除或省去（痛苦、麻烦等）令人不快的经历:
+2 [正式] 幸免:
+adj.（人）瘦的，且通常还很高的:
+n. [C] 备用品，尤指汽车的备用轮胎:
+adj. 只作前置定语，备用的；外加的:
+adj. 1 常作前置定语，指现在用不着的（或不需要的），即闲置的:
+2（时间）空闲的，空余的:
+spare (sb) sth 抽出；拨出；匀出；留出（时间）；剩下（未使用的或不需要的时间）:
+2（不吝惜时间）尽一切努力以达成…或把某事做好:
+spare (sb) sth 抽出；拨出；匀出；留出（金钱、房间、心思等）；剩下（未使用的或不需要的金钱、空间等）:
+spare (sb) sth 抽出；拨出；匀出；留出（金钱、房间、心思等）；剩下（未使用的或不需要的金钱、空间等）:
+n. [pl.] [尤英] spares 可指（机器的）备品，备件，相当于spare parts:
+vt.（不吝惜金钱）尽一切努力以达成…或把某事做好:
+spare (sb) sth 抽出；拨出；匀出；留出（金钱）；剩下（未使用的或不需要的金钱）:
+n. [C] 汽车的备用轮胎:
+spare |[spεə][spεə]
+They killed the men but spared the children. 他们杀了大人，但留下了孩子。
+We have lost everything, but our lives have been spared. 我们失去了一切，但保住了性命。
+He spared no effort to make her happy again. 为使她重新快乐起来，他想尽了办法。
+No expense was spared in furnishing the new office. 装潢新办公室不惜工本。
+He wanted to spare his mother any anxiety. 他不想让母亲有丝毫的担忧。
+Please spare me the gruesome details. 那些让人毛骨悚然的细节就请你不要讲了。
+to spare a trip 免得跑一趟 
+I wanted to spare Tom the embarrassment of discussing this subject. 我想使汤姆免遭讨论这个话题的尴尬。
+During the bombing only one house was spared. 在轰炸中，只有一座房子幸免。
+The storm largely spared Houston and surrounding districts. 暴风雨基本未危害到休斯敦及其周边地区。
+The children were spared from the virus. 孩子们没被病毒感染。
+to get the spare out of the boot/trunk 从汽车行李箱中取出备用轮胎 
+Give me the boot key and I’ll get the spare. 给我行李箱钥匙，我去配一把备用。
+spare key, spare tyre 备用钥匙；备用轮胎 
+spare clothes 额外准备的衣服
+a spare bedroom 闲置的卧室 
+I haven’t got any spare cash. 我手头没有多余的现金。
+Are there any tickets going spare? 有多余的票吗？
+He’s studying music in his spare time. 他在空闲时间学音乐。
+I haven’t had a spare moment this morning. 我一上午一会儿也没闲着。
+vt. 1 spare sth/sb (for sb/sth) 
+to spare the time 抽出时间 
+to spare 10 minutes 抽出10分钟 
+We should get there with half an hour to spare. 我们应该提前半个小时到那儿。
+He spared no effort to make her happy again. 为使她重新快乐起来，他想尽了办法。
+vt. spare sth/sb (for sb/sth) 
+We can only spare one room for you. 我们只能给你腾出一个房间。
+Could you spare one of your staff to help us out? 你能不能从你手下抽调一个人过来帮帮我们？
+to spare a thought for sb 为某人着想 
+She hardly spared him a second glance. 她几乎没看他第二眼。
+Can you spare some money for the homeless? 你能否为无家可归的人出点儿钱呢？
+vt. spare sth/sb (for sb/sth) 
+We can only spare one room for you. 我们只能给你腾出一个房间。
+Could you spare one of your staff to help us out? 你能不能从你手下抽调一个人过来帮帮我们？
+to spare a thought for sb 为某人着想 
+She hardly spared him a second glance. 她几乎没看他第二眼。
+Can you spare some money for the homeless? 你能否为无家可归的人出点儿钱呢？
+It can be difficult to get spares for some older makes of car. 有些旧型号汽车可能不好买配件。
+No expense was spared in furnishing the new office. 装修新办公室不惜工本。
+vt. spare sth/sb (for sb/sth) 
+to spare some money 拨出点儿钱 
+Have you any money to spare? 你还有余钱吗？
+to get the spare out of the trunk 从汽车行李箱中取出备用轮胎
+
+adj. 1 非常特殊的，如独特的；非常不寻常的，如罕见的:
+2 unique (to sb/sth) 仅属于某个人（或某个地点、事物）的，或仅与其有关的，如特有的，独具的:
+adj.（某个种类中）唯一的，独一无二的:
+unique |[ju:'ni:k]
+a unique talent 奇才 
+a unique opportunity 难得的机会 
+The deal will put the company in a unique position to export goods to Eastern Europe. 这项协议给予这家公司向东欧输出商品的特殊地位。
+The city has an atmosphere which is quite unique. 这座城市有一种十分独特的氛围。
+The koala is unique to Australia. 树袋熊是澳大利亚独有的。
+Everyone’s fingerprints are unique. 每个人的指纹都是独一无二的。
+The magnificent light makes this place unique. 绚丽的灯光使得这个地方显得很独特。
+Although such a case is rare, it is by no means unique. 这种情况很罕见，但并非绝无仅有。
+
+vt. 将思想、活动等引入另一国或地区:
+vt. 将数据输出、调出或导出:
+n. [C] 常用复数，指被出口至另一国的产品或服务:
+n. [U, C] 可数名词时为复数， 商品或服务的出口贸易:
+vt.＆vi. export (sth) (to sb) 将商品或服务出口到另一国:
+export |['ekspɔ:t][ɪk'spɔ:t]
+American pop music has been exported around the world. 美国流行音乐已传播到世界各地。
+to export file 导出文件
+the country’s major exports 该国的主要出口产品 
+Coffee is the country’s biggest export. 咖啡是该国最多的出口产品。
+illegal export 非法出口 
+capital, commodity export 资本输出；商品出口 
+beef export 牛肉出口 
+live export 活动物出口 
+volume of exports 出口量 
+export crop, export goods 出口作物；出口商品 
+export controls, export quota, export restrictions, export subsidy, export tax 出口管控；出口配额；出口限制；出口补贴；出口关税 
+export order 出口订单 
+The island export fruit. 该岛出口水果。
+90% of the engines are exported to Europe. 90%的发动机都出口到欧洲。
+to be widely exported 被出口到很多地方 
+illegally exported works of art 非法出口的艺术作品 
+Last year 2 000 birds were exported from the island. 去年有2 000只鸟从这个海岛输出。
+
+n. 1 [U] success (in sth/in doing sth) 成功、发财、成名、更高社会地位的成功获取。是一个常规用词，极为常用:
+2 [C] 成功的人或事物:
+success |[sək'ses]
+What’s the secret of your success? 你成功的秘诀是什么？
+I didn’t have much success in finding a job. 我找工作没什么结果。
+She tried to persuade them, without success. 她试图说服他们，但没有成功。
+artistic, business, economic success 艺术成就；生意成功；经济成就 
+academic, electoral, professional success 学术成就；选举获胜；专业成就 
+material, worldly success 物质上的成功；世俗意义上的成功 
+The party was a big success. 这次聚会非常成功。
+He’s proud of his daughter’s successes. 他为女儿的种种成就感到自豪。
+She wasn’t a success as a teacher. 她教书没教出什么名堂。
+He was determined to make a success of the business. 他决心把这门生意做好。
+
+n. [C, usually sing.] 一种肮脏或不整洁的状态:
+n. [sing.] 一个脏或不整洁（如衣着头发不整洁）的人:
+vt. [尤美，非正式] 使某事物脏或不整洁:
+n. [sing.] [非正式] 遇到严重问题且精神状况糟糕的一个人:
+n. [sing.] [美，非正式] a mess of sth 许多、大量的某事物:
+n. [U, C] [非正式] 动物（通常是一只狗或一只猫）的粪便:
+vi.（动物）随地便溺:
+n. [C] 也可用mess hall，在美语里尤其如此，武装力量（如军队）的一栋（或一间）食堂:
+n. [C, usually sing.] 充满问题或麻烦的一种处境（通常由于组织得欠佳或某人所犯下的一些错误），可称为麻烦、困境、混乱:
+mess |[mes]
+The room was in a mess. 这个房间杂乱不堪。
+My hair’s a real mess! 我的头发太乱了。
+You’re a mess! 你真邋遢！
+Careful--you’re messing my hair. 小心——你弄乱我的头发了。
+There’s a mess of fish down there, so get your lines in the water. 那底下有很多鱼，快下钩吧。
+the officers’ mess 军官食堂
+economic, financial, emotional mess 经济困境；财务上的混乱状态；感情上的混乱状态 
+My life’s becoming a big mess. 我的生活正变为一团乱麻。
+I’ve really made a mess of things! 我真把事情搞糟了！
+The whole situation is a mess. 整个情形一团糟。
+Let’s try to sort out the mess. 我们来收拾一下残局吧。
+
+n. [U] 用航空来运送信件、包裹、货物等的一套系统，即航空邮递:
+airmail |['eəmeɪl]
+Send it by airmail. 将它空邮寄出。
+
+adj. 1（问题、话语或评论等）不想给某人造成伤害或烦恼的，即无恶意或无冒犯之意的:
+2 涉世不深的，尤指很少经历过性、邪恶或坏事的，即天真无邪的、纯真的:
+n. [C] 阅历浅的人，天真单纯的人，尤指小孩子:
+adj. 1 innocent (of sth) 没有犯罪或犯错的，是此义的常规用词:
+2 只作前置定语，在犯罪或战争等事件中，无辜而受到伤害或被杀的:
+innocent |['ɪnəsnt]
+innocent question, innocent remark, innocent fun 无恶意的问题；无恶意的话语；无恶意的玩笑（或纯属娱乐）
+The circumstance could be perfectly innocent, but suspicions have been raised. 虽然情况显得没有任何危险，但还是有人表示怀疑。
+an innocent young child 天真无邪的小孩子 
+She was sixteen and sweetly innocent. 她当时十六岁，纯真可爱。
+a hopeless innocent 一个无可救药的无知者
+the innocent party 无过错的一方 
+He pleaded innocent to the charges. 他对各项指控均申辩自己是清白的。
+I had always believed her innocent. 我一直相信她是清白的。
+The court found her innocent of the crime. 法庭判决她无罪。
+innocent victims of a terrorist attack 恐怖袭击的无辜受害者 
+to kill innocent civilians 杀害无辜平民
+
+vi. 努力去做某事。不常用:
+vt.＆vi. care (about sth) 感到某事是重要的，并值得为之担忧，即关注，担忧，在乎:
+vi. care (about sb) 喜欢或爱某人，并为发生在此人身上的事而担忧，即关心，关怀:
+n. [U] 对自己正在做的事情所采取的小心或谨慎的态度（以确保将事情做好，或避免产生错误或损坏），即小心，谨慎:
+n. [C, usually pl., U] [正式] 担忧，焦虑；让人焦虑或烦恼的事:
+n. [U] 对某人或某事物的看护或照料（即提供所需的东西以确保其健康或确保其受到保护）:
+care |[keə]
+I’ve done this job more times than I care to remember. 这事我都记不清做了多少遍了。
+I don’t care what he thinks. 我才不管他怎么想呢。
+She doesn’t seem to care that he’s been married four times before. 她似乎不介意他以前结过四次婚。
+He really cares about the environment. 他真的很注重环保。
+The information is there for anyone who cares enough to find it. 信息就在那里，只有留意它的人才会发现它。
+He genuinely cares about his employees. 他真诚地关心他的雇员。
+You genuinely care for him, don’t you? 你真的中意他，不是吗？
+She chose her words with care. 她措辞谨慎。
+Fragile--handle with care! 易碎物品——小心轻放！
+He takes the utmost care of his appearance. 他对自己的外表极其在意。
+to writing with painstaking care 一丝不苟地写
+He looked as if he didn’t have a care in the world. 他看上去好像什么事都不操心似的。
+intensive care unit 重症监护室 
+clinical care 临床护理 
+home care 家庭护理 
+spiritual care 精神上的照顾 
+child care（通常用childcare）儿童看护 
+skin care products 护肤品 
+client care（尤英）客户关怀 
+to take care of his books 保管他的书 
+to take care of the plants 照料植物 
+I’ll take care of hiring the car. 租车的事儿我来办。
+Many historic sites are in the care of the Trust. 许多历史遗迹是由这家信托公司管理的。
+
+adj. 1 令人印象深刻且巨大（或重要）的:
+2 只用于名词前，Grand用于恢宏或巨大的建筑物等的名称中:
+3 需要投入很多努力、金钱或时间才能成功的，意在达到恢弘效果的:
+adj.（人）由于富有或来自较高的社会阶层而行为傲慢的，高高在上的:
+adj. [方言或非正式] 非常令人享受的:
+adj. 1 令人印象深刻且巨大（或重要）的:
+2 只用于名词前，Grand用于恢宏或巨大的建筑物等的名称中:
+3 需要投入很多努力、金钱或时间才能成功的，意在达到恢弘效果的:
+adj. Grand用于社会地位极高的人的称号当中:
+n. [C] 大钢琴，相当于grand piano:
+n. [C] [非正式] 1000美元；1000英镑:
+adj. [方言或非正式] 非常好的，非常令人享受的，出色的:
+grand |[ɡrænd]
+It’s not a very grand house. 这房子并不是十分富丽堂皇。
+The wedding was a very grand occasion. 婚礼场面非常隆重。
+the Grand Canyon 大峡谷 
+We stayed at the Grand Hotel. 我们住在格兰酒店。
+grand design, grand plan, grand strategy 宏伟的蓝图；宏大的计划；重大的战略思想 
+New Yorkers built their city on a grand scale. 纽约人大规模地建造自己的城市。
+I had a grand day out at the seaside. 我在海边痛痛快快玩了一天。
+It’s not a very grand house. 这房子并不是十分富丽堂皇。
+The wedding was a very grand occasion. 婚礼场面非常隆重。
+the Grand Canyon 大峡谷 
+We stayed at the Grand Hotel. 我们住在格兰酒店。
+grand design, grand plan, grand strategy 宏伟的蓝图；宏大的计划；重大的战略思想 
+New Yorkers built their city on a grand scale. 纽约人大规模地建造自己的城市。
+the Grand Duchess Elena 大公夫人埃琳娜
+It’ll cost you five grand! 这要花去你5000块钱！
+I had a grand day out at the seaside. 我在海边痛痛快快玩了一天。
+Thanks. That’ll be grand! 谢谢。那太棒了！
+Fred did a grand job of painting the house. 弗雷德粉刷房子干得很出色。
+
+n. [C] 涉及三个人复杂关系的一种情况，即三角关系:
+n. 1 [C] 三角形；三角形物体:
+2 [C] [美] [英为set square] 一个角为90°的三角板或三角尺（用来画直线段和角）:
+n. [C] 一种简单的由一长片的金属弯曲而成的三角形打击乐器（用另一片金属来击打）:
+triangle |['traɪæŋɡl]
+a love triangle 三角恋爱
+Cut the sandwiches into triangles. 把三明治切成三角形。
+equilateral triangle 等边三角形 
+right（美）, right-angled（英）triangle 直角三角形 
+the apex of a triangle 三角形的顶点 
+to play the triangle 演奏三角铁
+
+adj. 常用于名词前，完全的，完整的，详尽的，无遗失的:
+adj.（音调、嗓音）低沉、强烈且丰富浓郁的:
+adj. 1 full of sth 拥有或包含很大数量的某事物的:
+2 full of sth（人）关于某事物思考（或谈论）得很多的:
+adj. 常用于名词前，尽量达到最高水平（或最大数量）的，相当于maximum:
+adj.（人或身体部位）大且圆的，即丰满的，圆鼓鼓的（full有时作为fat的一种委婉说法）:
+adj.（音调、嗓音）低沉、强烈且丰富浓郁的:
+adj. full (of sth) 拥有或包含尽量多的；没有空的空间的，此时可称为满的。是一个基础用词:
+adj. 忙碌的，有很多活动的。不常用:
+adj. 英也用full up，吃饱了的:
+adj.（味道）强烈且丰富浓郁的:
+adj.（衣服）肥大的，宽松的:
+adj.（月亮）圆的，满的:
+adj. 只用于名词前，用于强调数量或数额，如足足的，整整的:
+adj. full of sth（人）关于某事物谈论得很多的:
+adj. full of sth（人）关于某事物思考得很多的:
+adv. full in/on sth 直接地，径直地，相当于directly:
+adj.（音调、嗓音）低沉、强烈且丰富浓郁的:
+full |[fʊl][fʊl]
+Full details are available on request. 详情备索。
+I still don’t think we’ve heard the full story. 我还是认为我们未了解全部情况。
+a full refund 全额退回的款项 
+full name 全名 
+full membership 正式成员资格
+He draws a unique full sound from the instrument. 他用乐器奏出了独特圆浑的音调。
+The sky was full of brightly coloured fireworks. 满天都是色彩绚丽的焰火。
+Life is full of coincidences. 生活中巧合很多。
+Our new brochure is crammed full of inspirational ideas. 我们新的小册子中启发性的妙计比比皆是。
+animals pumped full of antibiotics 注入大量抗生素的动物 
+She was full of admiration for the care she had received. 她对所受到的关怀照顾赞叹不已。
+He smiled, his eyes full of laughter. 他露出了笑容，双眼也满含着笑意。
+The kitchen was absolutely full of flies! 厨房里满是苍蝇！
+He was full of his new job and everything he’d been doing. 他滔滔不绝地谈他的新工作和他所做的一切。
+Many people don’t use their computers to their full potential. 很多人没有充分利用他们计算机的全部潜在功能。
+measures to achieve full employment 力求充分就业的措施 
+Students should take full advantage of the university’s facilities. 学生应该充分利用大学的设施。
+at full speed 全速
+her full lips 她丰满的嘴唇 
+women with a fuller figure 体形较丰满的女士
+He draws a unique full sound from the instrument. 他用乐器奏出了独特圆浑的音调。
+My suitcase was full of books. 我的提箱装满了书。
+The garage is getting full of junk again. 车库里又开始堆满乱七八糟的东西。
+The bottle was half full of water. 瓶子装了半瓶水。
+Sorry, the hotel is full up tonight.（英）对不起，今晚旅馆客满。
+a full life 忙碌的生活 
+Her life was too full to find time for hobbies. 她的生活太忙，没有从事业余爱好的时间。
+No more for me, thanks--I’m full up. 谢谢，我不要了——我已经饱了。
+a full stomach 饱餐
+the full fruity flavour of the wine 这葡萄酒浓郁的水果味
+a full skirt 宽裙
+The moon was full. 圆月圆了。
+She is a full four inches shorter than her sister. 她比姐姐足足矮四英寸。
+He was full of his new job. 他滔滔不绝地讲他的新工作。
+She looked him full in the face. 她径直望着他的脸。
+He draws a unique full sound from the instrument. 他用乐器奏出了独特圆浑的音调。
+
+n. [U] translation (of sth) into sth 转变到一种不同形式的过程，即转变；转化:
+n. [C, U] 译文；译本；译作:
+translation (from sth) (into sth) 将一种语言翻译成另一种语言的过程，即翻译:
+translation |[træns'leɪʃn]
+the translation of theory into practice 从理论到实践的转化
+a translation of the Iliad《伊利亚特》的一种译本
+an error in translation 误译 
+direct, word-for-word translation 直译；逐词翻译 
+literary, poetic translation 文学翻译；诗歌翻译 
+simultaneous translation 同声翻译 
+A great writer survives any translation. 一位伟大的作家经得住任何翻译。
+
+vi. 走路时脚步发出噪音，即咚咚地走:
+n. [C] 流浪猫狗的收容所。不太常用:
+n. [C] 一种重量单位，相当于0.454千克，即磅:
+vt. 1 pound (away) (at/against/on sth) 用力多次击打，尤指发出很多噪音，相当于hammer:
+2 pound sth (to/into sth) 为把某物击碎而多次击打:
+vi. 锤击般地疼痛:
+vi. 心脏急速而大声地跳动，即怦怦地跳，也可指血液怦怦地流动。强调声音大:
+vi. pound (out) 指音乐大声播放:
+n. 1 [C] 英国的货币单位，相当于100便士，即英镑:
+2 [C] 英国以外的其它一些国家的货币单位，即镑:
+3 [C] the pound 为单数名词，在财经领域指英镑相对于其他国家货币的币值:
+vt. 在一段时间内对一个地区狂轰滥炸，在词义范围上，pound隶属于bomb，但pound更强调轰炸的猛烈性:
+pound |[paʊnd]
+She pounded along the corridor. 她在走廊里咚咚地走过。
+cages at the local pound 本地流浪宠物收容所的笼子
+half a pound of butter 半磅黄油
+Someone was pounding at the door. 有人在砰砰地敲门。
+The factory’s machinery pounded away day and night. 工厂的机器昼夜轰鸣。
+She pounded him with her fists. 她用拳头一个劲地擂他。
+The seeds were pounded to a fine powder. 子粒被捣成了细粉。
+Her head began to pound. 她的头开始怦怦地抽痛。
+a pounding headache 锤击般的头痛
+Her heart was pounding with excitement. 她激动得心脏怦怦直跳。
+The blood was pounding in his ears. 他听到血液在耳中怦怦搏动的声音。
+Rock music was pounding out from the jukebox. 自动点唱机高声播放着摇滚乐。
+a ten-pound note 一张十英镑的钞票 
+a pound coin 一英镑的硬币 
+a million pounds 一百万英镑 
+the weakness of the pound (against other currencies) 英镑疲软
+The area is still being pounded by rebel guns. 该地区仍然遭受着叛军炮火的轰击。
+
+count as sb/sth 以某种方式来看待…，即认为，看作，算作；被以某种方式来看待…，即被认为，被看作，被算作:
+vi. count (from sb) (to/up to sth)（按正确顺序）数数:
+vt.＆vi. count (sth) (up) 计算（或清点）一个群体中的人、事物等的总数:
+vt. 计算总数的时候把…包括在内，即算在内:
+n. 1 [usually sing.] 数出总数:
+2 [usually sing.]（从1开始按顺序所做的）数数或点数:
+n. 1 [usually sing.] 所数出的总数:
+2 [usually sing.] [术语]（某物质或某面积中所包含的某事物的）量的计数，即数目，数量:
+n. [usually pl.]（讨论或争论的）论点，观点，问题，事项，相当于point，不过远没有point常用:
+vt.＆vi. 被正式接受、接纳或认可；正式接受、接纳或认可:
+n. [C] 在欧洲一些国家可指一种贵族封号——伯爵，相当于英国的earl:
+n. [C] 某人被指控所犯下的罪行:
+vi. count (for sth) 重要。相当于matter，但不如matter常用:
+count |[kaʊnt][kaʊnt]
+vt.＆vi. count sb/sth (as) sb/sth 
+For tax purposes that money counts/is counted as income. 那笔钱算作收入，需要纳税。
+I count him among my closest friends. 我把他看作我一个最亲密的朋友。
+I count myself lucky to have known him. 和他相识，我觉得很幸运。
+Billy can’t count yet. 比利还不会数数。
+to count from 1 to 10 从1数到10 
+The diet is based on counting calories. 这个饮食安排以热量统计为根据。
+She began to count up how many guests they had to invite. 她开始计算他们得邀请多少位客人。
+There are 12 weeks to go, counting from today. 从今天算起还有12个星期。
+We have invited 50 people, not counting the children. 不算小孩，我们邀请了50人。
+We did a quick count of the children and there were none missing. 我们很快地数了数孩子，一个都不少。
+He was knocked to the ground and stayed down for a count of eight.（拳击用语）他被击倒在地，躺在地上直至数到八。
+The body count stands at 24. 死亡人数总计为24人。
+total count 总数 
+accurate count 准确的计数 
+low count 低计数 
+blood, calorie count 血细胞计数；卡路里计数 
+pollen count 花粉计数 
+The company now has a head count of around 70 staff. 该公司现有大约70名员工。
+I disagree with you on both counts. 我对你的两种观点均不敢苟同。
+Don’t go over that line or your throw won’t count. 别越过那条线，否则你的投掷就会被判无效。
+Applications received after 1 July will not be counted. 7月1日以后收到的申请书将不予受理。
+Count Tolstoy 托尔斯泰伯爵 
+a Polish count 波兰伯爵
+She appeared in court on three counts of fraud. 她因三项诈骗罪而出庭受审。
+felony count（美）重罪指控 
+to be charged with two counts of murder 被控两项谋杀罪状
+Every point in this game counts. 这场比赛每一分都很重要。
+The fact that she had apologized counted for nothing with him. 她已道歉，但他认为这是没有用的。
+It’s the thought that counts. 贵在心意。
+What counts is what they do with the money. 重要的是他们用这笔钱做什么。
+
+used to link alternatives:用于链接备选方案
+introducing a synonym or explanation of a preceding word or phrase:引入前面单词或短语的同义词或解释
+otherwise (used to introduce the consequences of something not being done or not being the case):otherwise（用于介绍某事不做或不做的后果）
+introducing an afterthought, usually in the form of a question:
+either:要么
+a logical operation which gives the value one if at least one operand has the value one, and otherwise gives a value of zero.:一种逻辑运算，如果至少一个操作数的值为1，则其值为1，否则为0。
+denoting a gate circuit which produces an output if there is a signal on any of its inputs.:表示一个门电路，如果其任何输入端有信号，则该门电路产生一个输出。
+gold or yellow, as a heraldic tincture:gold或黄色，作为纹章酊剂
+operational research.:运筹学。
+Oregon (in official postal use).:Oregon（官方邮政使用）。
+other ranks (as opposed to commissioned officers).:other等级（相对于委任军官）。
+Or |ɔː| Conjunction/Noun/Residual/:或者,要么,或,还是
+a cup of tea or coffee:一杯茶或咖啡
+yoga is a series of postures, or asanas:yoga是一系列姿势，或体式
+hurry up, or you'll miss it all:快点，不然你会错过的
+John's indifference—or was it?—left her unsettled:约翰的冷漠——或者是吗？——让她不安
+to love is the one way to know or God or man:去爱是认识上帝或人的唯一方式
+
+n. [sing.] [英] 赤脚在浅水中行走:
+vi. [英；美用wade] 在海、湖等水域中赤脚行走（或站立）在浅水处，即蹚水:
+n. [C] 机具的桨状工具或桨状部分，尤指食物搅拌器的浆叶:
+n. [C] [美] 乒乓球的一个球拍:
+n. [C] [美] 用于惩罚儿童的一片有柄的木头，可以叫戒尺:
+vi. [美] 用一片木头打孩子来作为惩罚:
+vt.＆vi. 用桨划船。不如row常用:
+n. [C]（短）船桨:
+paddle |['pædl]
+to go for a paddle 蹚水玩儿 
+to go paddling 戏水 
+Wear sandals when you paddle. 玩水的时候穿上凉鞋。
+to paddle the canoe 划独木舟 
+to paddle downstream 划船顺流而下
+I pushed myself across with the paddle. 我自己划桨过去。
+
+invitation to sth 鼓励某人去做某事（尤指坏事）的一件事，即对某人起鼓励或怂恿作用的事件:
+n. 1 [C, U] invitation (to sth/to do sth)（口头或书面形式的）邀请（请求某人去做某事或去某地）:
+2 [C] 请柬或请帖:
+invitation |[͵ɪnvɪ'teɪʃn]
+Leaving the doors unlocked is an open invitation to burglars. 出门不上锁无异于开门揖盗。
+to take up sb’s invitation 接受某人的邀请 
+to decline invitation（正式用法）谢绝邀请 
+invitation list（尤美）邀请名单 
+A concert was held at the invitation of the mayor. 在市长的邀请下举办了一场音乐会。
+dinner, party, wedding invitation 晚宴请柬；聚会请柬；婚礼请柬 
+invitation card 请柬 
+Have you received your invitation to the exhibition? 你收到展览会请柬了吗？
+Admission is by invitation only. 凭请柬入场。
+
+test sth out（对产品、机器、物质等）进行测试，检测（以看其是否质量过关、运行良好或为发现更多信息）:
+2 检验理论、假说等:
+n. 1 [C] 对机器、产品等所进行的质量检验，或对物质等所做的检测等:
+2 [C] 对某种情况的考查，检测:
+n. [C] 医疗检查或化验:
+vt.＆vi. test sb/sth (for sth) 检查身体，化验血液等:
+n. [C] test (on sth) 对知识、能力等所做的检验，考查。与examination相比，test除了检验知识，还可检验各种能力（如智力、体能等），而examination一般只强调检验知识，因此test的使用范围较为广泛，可以是各种类别、各种形式的测试。而且examination是一种正式用法，test则无此限制:
+vt.＆vi. 对某人进行知识或能力的测试:
+n. [C]（对实力等的）考验:
+vt.（困难状况等）考验（实力、能力等）:
+test |[test]
+vt. 1 test sth (on sth/for sth) 
+to test the product 检测产品 
+to test the car 测试汽车 
+to test the substance 检测物质 
+You should test your brakes regularly. 你应该定期检查刹车。
+Squeeze the fruit to test for ripeness. 捏一下水果查看成熟程度。
+tried and tested techniques 经过检验的技术 
+to test out his hypothesis 验证他的假说 
+to test the theory experimentally 用实验检验一下这个理论
+flight, safety test 飞行试验；安全测试 
+crash test 碰撞试验 
+nuclear test 核试验 
+test data, test statistics 测试数据 
+test conditions 测试环境 
+The company is using the library as a test bed for its new software. 公司正利用图书馆作为其新软件的试验基地。
+test range 试验场 
+test drive 试驾 
+test pilot 试飞员 
+The new drink went down well in the test trials. 这种新饮料试饮反响不错。
+test methods 测试方法 
+test instruments 测试仪器 
+The software is still at the test stage. 这款软件仍然处于测试阶段。
+a test on the engine 引擎检测 
+means test（对申请补助者的）经济情况调查 
+The judge applied the wrong test in coming to his decision. 法官做出裁决时使用了错误的测试。
+test case 判例案件
+medical test 医学检验 
+screening tests for cancer 癌症筛查 
+forensic test 法医检验 
+hearing test 听力检查 
+blood, DNA, urine test 验血；DNA检测；尿检 
+drug test 兴奋剂检测 
+fitness test 体能测验 
+breath test 呼吸酒精测试 
+personality, psychological test 人格测验；心理测验 
+lie-detector test 测谎试验 
+to test for heart disease 检查心脏病 
+I’m having my eyes tested tomorrow. 明天我要去检查一下眼睛。
+to test positive for HIV 艾滋病病毒化验呈阳性 
+standardized test 标准化考试 
+listening, oral, practical, written test 听力测试；口试；实践能力测试；笔试 
+cloze test 完形填空测试 
+intelligence, IQ, mental test 智力测试；智商测试；心理测试 
+endurance test 耐力测试 
+language, memory, spelling test 语言测试；记忆力测试；拼写测试 
+placement test 定级考试 
+driving test 驾驶考试 
+screen test 试镜 
+test paper, test questions 试卷；考题 
+a test in mathematics 数学测试 
+a test on French Revolution 关于法国大革命的测验 
+to test your English 测试你的英语水平 
+The training tested his body to the very limit. 这项训练最大程度地测试了他的体格。
+It will be a major test of your patience. 这将是对你耐心的极大考验。
+The calls for tax reform pose a severe test for the government. 税改呼声对政府构成了严峻的考验。
+The pay dispute has really put her management skills to the test. 工资争端使她的管理能力受到了极大考验。
+political test 政治考验 
+to stand the test of time 经得起时间的考验
+to test your stamina 考验你的耐力 
+to test your strength 考验你的实力 
+to test my temper 考验我的脾气
+
+n. [C] [尤美]（大且长的）浴缸或浴盆，相当于bath（tub为英美的非正式用法）:
+bathtub |['bɑːθtʌb]
+
+
+n. [C] 一位专业人士所给出的建议或意见:
+opinion (that ...) 对某人或某事物（而非对一个事实）的意见、想法、看法。是此义的常规用词:
+2 [U]（一个群体的）观点或信念、信仰:
+opinion |[ə'pɪnjən]
+They called in a psychologist to give an independent opinion. 他们征询一位心理学家的独立意见。
+I’d like a second opinion (= advice from another person) before I make a decision. 我在做决定之前，想听听别人的意见。
+to give opinions 提出意见 
+I’ve recently changed my opinion of her. 我最近改变了对她的看法。
+Everyone had an opinion on the subject. 大家对这个问题都有自己的看法。
+in my opinion 依我看 
+Opinion is divided on the issue. 大家在这件事情上存在分歧。
+There is a wide body of opinion that supports this proposal. 支持这项提议的大有人在。
+world opinion 国际舆论 
+expert, professional opinion 专家观点；专业观点 
+academic, legal, political opinion 学术界观点；法律界观点；政界观点 
+opinion poll 民意测验 
+opinion leader 舆论引导者
+
+n. [C] 令人高兴的事，即乐事，乐趣，相当于joy:
+vt. 给予某人很多快乐或享受:
+n. [U] 一种强烈的愉悦感，即高兴，快乐，相当于joy。程度较深:
+delight |[dɪ'laɪt]
+the delights of living in the country 生活在乡村的乐趣 
+culinary delight 烹饪的乐趣 
+earthly delight 尘世间的乐事 
+This guitar is a delight to play. 这吉他弹起来很惬意。
+The baby was a constant delight. 这个婴儿不断给人带来喜悦。
+This news will delight his fans all over the world. 这消息将使全世界崇拜他的人都感到高兴。
+Jane squealed with sheer delight when she saw the monkeys. 简看到猴子时高兴得尖叫起来。
+He takes (great) delight in proving others wrong. 他以证实别人出错为（一大）快事。
+childish, childlike delight 天真的快乐；孩子般的快乐 
+aesthetic, sensory, sensual, spiritual delight 审美愉悦；感官愉悦；精神愉悦 
+To my great delight, they offered me the job. 他们给了我这份工作，令我非常高兴。
+a cry of delight 快乐的叫喊
+
+n. [sing.] thirst (for sth) 对…的强烈渴望，即渴求。与hunger类似，但不如hunger常用:
+n. 1 [U, sing.] 感到口渴，想要喝水，即口渴。是此义的常规用词:
+2 [U] 没有足够的水供饮用，即缺水:
+thirst |[θə:st]
+a thirst for truth 对真理的渴求 
+a thirst for knowledge 对知识的渴求
+to drink water to quench your thirst 喝水来解渴 
+After walking five miles, they had worked up a great thirst. 走了五英里，他们口干舌燥。
+They died of thirst. 他们因缺水而死。
+
+vt.＆vi. [正式] 无被动式，表达或流露出某种感情:
+register (sb) as sth 登记，注册，挂号:
+n. [C] 登记表；登记簿，注册簿。用于逐条记录类似的信息:
+vt.＆vi. 测量仪器（或其他事物通过测量仪器）显示（读数），或记录（读数）:
+vt. [正式]（正式地或公开地、清楚地）提出意见，发表主张，表达感情或看法:
+vt.＆vi. 常用于否定句，无被动式，指注意到并记住…；被记住:
+n. [C] [美]（供暖或制冷设备上使冷热空气吹进室内的）调风口，节气门:
+n. [C]（人的嗓音或乐器的）声区，声域，音区，音域:
+n. [C] [美]（商店、酒吧、饭店等的）现金出纳机，收银机，与cash register同义:
+vt. 常用被动式，通过挂号来邮寄…:
+n. [C, U]（书面语或口语中）适合特定场合使用的语体风格，即语域:
+vt.＆vi. 常用于否定句，无被动式，指注意到并记住…；被注意到，留下印象:
+register |['redӡɪstə]
+Surprise again registered on her face. 她的脸上再次流露出惊讶的表情。
+Her face registered disapproval. 她脸上流露出不赞同的神色。
+vt.＆vi. register (at/for/with sth) 
+register sth (in sth) 
+to register at the school 在学校注册 
+to register to vote 登记投票 
+to register a marriage 登记结婚 
+to register a trademark 注册一个商标 
+to register at a hotel 在酒店登记 
+to register with a doctor 挂医生的号 
+to register for English classes 报名修英语课 
+guest（尤美）, hotel（尤英）register 客人登记册；旅馆登记册 
+social register 社交界名人录 
+attendance register（英）出席人员登记表 
+electoral register（尤英）选民登记名册 
+marriage register 婚姻登记簿 
+class register（英）班级名册 
+an entry in a register, an entry on a register（尤英）登记簿的条目
+The earthquake registered 7.6 on the Richter scale. 这次地震显示为里氏7.6级。
+It will only register on sophisticated X-ray equipment. 只有在先进的X光设备上它才会显示出来。
+The stock exchange has registered huge losses this week. 本周证券交易遭到重创。
+to register dissatisfaction with the King 表达对国王的不满 
+China has registered a protest over foreign intervention. 中国已对外国干涉正式提出了抗议。
+I told him my name, but it obviously didn’t register. 我把名字告诉了他，但他显然没有在意。
+He vaguely registered that the women had gone. 他模糊地记得那些妇人已经走了。
+high, middle register 高音区；中音区 
+the lower register of the piano 钢琴的低音区 
+vocal register 声区 
+chest, head register 胸声区；（发出高音的）头声区
+a registered letter 一封挂号信 
+to register a letter 挂号寄信
+formal register 正式语体 
+to adopt an informal register（英）采用非正式语体
+I told him my name, but it obviously didn’t register. 我把名字告诉了他，但他显然没有在意。
+She had barely registered his presence. 她几乎没注意到他在场。
+His eyes failed to register Susan’s surprise. 他没注意到苏珊吃惊的样子。
+The pain that stung her hand did not seem to register. 她似乎没注意到手上的蛰痛。
+Slowly, my mind began to register where I was: in the hospital. 慢慢地，我开始注意到我呆的地方竟是一家医院。
+
+n. [C] 一个空缺的职位，相当于vacancy。是一个简单用词:
+n. [C, usually sing.] 某事物的开始、开端或第一部分，与ending相反:
+adj. 只用于名词前，开始的；开篇的；第一。与closing相反:
+n. [C] 衣服的开襟或开口部分（其打开和闭合可使穿衣服更容易）:
+n. [C, U] 开演，与closing相反:
+n. [C, usually sing.] 庆祝某个公共活动开始的一场仪式，可称为开幕式；庆祝一栋新建筑、一条公路等首次投入使用的一场仪式，如落成典礼、通车仪式等:
+n. [C, usually sing.] 某事物的开始、开端或第一部分，与ending相反:
+adj. 只用于名词前，开始的；开篇的；第一。与closing相反:
+n. [C, U]（花朵的）开放:
+n. [C, U] 使某事物打开或开放的行为或过程；某事物打开或开放的行为或过程。即开，打开，展开，开放等，与closing相反:
+n. [C] 某人或某事物能够从中通过的一个空间或孔洞:
+n. [C, U] 商业机构的开门，做生意，与closing相反:
+n. [C, usually sing.] 开篇，与ending相反:
+adj. 只用于名词前，开篇的，与closing相反:
+n. [C]（对某人来说）一次好机会，一次良机:
+opening |['əʊpənɪŋ]
+There are several openings in the sales department. 销售部有几个空缺。
+She is the strongest candidate to fill this opening. 她是此空缺最有竞争力的人选。
+The movie has an exciting opening. 电影的开头非常刺激。
+chess opening 国际象棋的开局 
+the opening to the novel 该小说的开篇
+his opening remarks 他的开场白 
+the opening chapter of the book 该书的第一章
+The skirt has a side opening. 这裙子是侧面开口的。
+the opening of the new play 新剧的开演
+the opening of the Olympic Games 奥林匹克运动会开幕式 
+the official opening of the new hospital 新建医院的落成典礼 
+opening ceremony 开幕式
+The movie has an exciting opening. 电影的开头非常刺激。
+chess opening 国际象棋的开局 
+the famous opening to the novel 该小说著名的开头 
+his opening remarks 他的开场白
+the opening of a flower 花朵的绽放
+the opening of a flower 花朵的绽放 
+the opening of the new play 新剧的开演 
+Late opening of supermarkets is common in Britain now. 现在超市开门较晚的情况在英国司空见惯。
+an opening in the roof 屋顶的小开口 
+an window opening 窗口 
+to cut an opening in the fence 在篱笆上开个口 
+the opening to the kitchen 厨房的小窗口
+late opening of supermarkets 超市开门时间晚
+the famous opening to the novel 该小说著名的开头 
+the opening chapter of the book 该书的第一章
+Winning the competition was the opening she needed for her career. 在这次比赛中获胜是她未来职业发展的良好开端。
+too miss a good opening in the game 在比赛中错过一个好机会 
+to create an opening 创造机会 
+a political opening 政治机遇
+
+vt. 使某人对某事感到迷惑或困惑。也较为常用:
+n. 1 [C] 智力问题（也可叫“谜”），智力游戏或智力玩具（需要仔细思考才能答对或拼装正确）:
+2 [usually sing.] 难以理解或解释的（或谜一样的）人、事物或事件:
+vi. puzzle over sth 对某事苦苦思索或仔细琢磨（以试图去找出答案或做出解释）。不太常用:
+puzzle |['pʌzl]
+It often puzzles me. 这常常让我不解。
+What puzzles me is why he did that. 令我不解的是为什么他会那样做。
+crossword, jigsaw（英）puzzle 填字游戏；拼图玩具 
+logic, number puzzle 逻辑游戏；数字游戏 
+puzzle book 猜谜书 
+puzzle game 猜谜游戏 
+puzzle piece 拼图的一片 
+His death remains a puzzle. 他的死仍然是个谜。
+scientific, theoretical puzzle 科学难题；理论难题 
+They’re trying to solve the puzzle of how gravity works. 他们在尝试解开重力的作用原理之谜。
+The origin of the word is something of a puzzle. 这个词的起源有点儿让人困惑。
+I puzzle over every detail of the matter. 我苦苦思索这个问题的每一个细节。

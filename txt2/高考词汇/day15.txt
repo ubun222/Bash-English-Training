@@ -1,0 +1,695 @@
+particular					特别的，挑剔的，细节
+bid					出价，争取，表达，命令
+battery					电池，一系列
+tape					带子，胶带，终点线，磁带
+tape up					用带子捆紧
+later					后来的
+envelope					信封，膜，包袋
+push the envelope					发挥到极致
+short					短的，矮的，短暂的，不足的
+short of					除...之外
+sell short					卖空
+insect					昆虫
+might					可能，可以，应该，威力，气力
+zone					地带，区段
+industrial zone					工业区
+paint					油漆，颜料，描绘，绘画
+spring					春天，跳跃，弹簧，泉
+sprang					跳跃，飞快行动，触发
+sprung					跳跃，飞快行动，触发
+spring a mine					使地雷爆炸
+spring into action					迅速行动起来
+personally					亲自
+personally speaking					就本人而言
+directory					名录簿，目录
+up above					在高处
+up against					靠近，接触，遭遇
+warehouse					仓库
+freeway					高速干道
+that					那
+again					再一次，而且
+then again					不过
+digital					数码的，手指的
+random					随机的，随意的
+maximum					最大的
+maximums					最大限度
+horse					马
+monkey					猴子
+flight					飞，班机，逃走
+flight of fancy					奇思怪想
+a flight of					一段，一系列
+coin					硬币，铸造
+coin a phrase					套用一句老话
+willingness					乐意
+pork					猪肉
+abolish					废除，取消
+flood					洪水，大量，淹没
+\\\\\\\\
+
+adj. particular (about/over sth)（对自己所喜欢的东西）非常明确的，（对自己所选择的东西）非常仔细的，即讲究的，挑剔的，相当于fussy:
+adj. 只用于名词前，比平常要更大（或更好、程度更深等）的，不寻常的，格外的，特别的:
+n. [pl.] [正式] particulars 可指（关于财产、业务、工作岗位等的）详细书面材料:
+adj. 只用于名词前，用于强调你正指的是特定的一个人、事物或类别（而非其他类似者），即特指的，相当于specific:
+n. [usually pl.] [正式]（尤指正式写下的）一个事实或细节、详情:
+particular |[pə'tɪkjələ]
+She’s very particular about her clothes. 她对衣着特别挑剔。
+We must pay particular attention to this point. 我们必须特别注意这一点。
+These documents are of particular interest. 这些文件让人尤其感兴趣。
+Application forms and further particulars are available from the Personnel Office. 申请表及其他详细资料可向人事部索取。
+There is one particular patient I’d like you to see. 我想让你见一个病人。
+Is there a particular type of book he enjoys? 他有特别喜爱的哪一类书籍吗？
+The police officer took down all the particulars of the burglary. 这名警察记下了窃案发生的详细情况。
+The nurse asked me for my particulars. 护士向我询问了我的个人资料。
+The new contract will be the same in every particular as the old one. 新合同与旧合同的各项细节将完全相同。
+
+vi. 尝试去做、去取得或达到…，相当于attempt，尤用于报刊:
+bid (to do sth) 尝试去做、去取得或达到…，尤用于报刊:
+vt.＆vi.（某些纸牌游戏中）叫牌:
+n. [C]（某些纸牌游戏中的）叫牌，叫出的点数:
+vt. 告诉某人做某事，吩咐，此义用于旧时，或用于文学作品中:
+vt. bid (sb) good morning, farewell, etc. 向某人问候、道别等，为正式用法:
+vt.＆vi. 买方出价，尤指在拍卖中喊价:
+vi. bid (for sth) 投标，相当于tender，美式为bid (on sth):
+n. 1 [C] bid (for sth) 买方的出价，尤指拍卖或招投标过程中的“出价”。从词义范围上讲，bid是一种offer:
+2 [C] bid (for sth) 投标，相当于tender，美式为bid (on sth):
+bid |[bɪd]
+The team is bidding to retain its place in the league. 这个队正争取保住它在联赛中的位置。
+a bid for power 权力之争 
+a desperate bid to escape from his attackers 拼命躲避攻击他的人 
+election bid 竞选 
+Olympic bid 申奥 
+College presidents supported his bid for the position. 大学校长们支持他竞争这个职位。
+a bid for freedom 努力获得自由
+She bid four hearts. 她叫四个红桃。
+The master bade her to close the window. 主人吩咐她把窗户关上。
+I bade farewell to Tom. 我告别了汤姆。
+We wanted to buy the chairs but another couple were bidding against us. 我们想买下那几把椅子，但另一对夫妇在同我们较劲出价。
+Two dealers bid against each other for the table. 两个商人为这张桌子互相竞价。
+She bid $10 000 for the painting. 她出价1万美元购买这幅画。
+We have successfully bid for the contract. 我们竞标成功，得到了这份合同。
+At the auction, the highest bid for the picture was £200. 拍卖会上，这幅画的最高出价为200英镑。
+Any more bids? 还有谁出更高的价吗？
+opening, starting bid 首次出价 
+final bid 最终出价 
+winning bid 中标价 
+competitive bid 有竞争力的报价 
+a bid of £100 100英镑的出价 
+to bid on a computer（美）出价买一台电脑 
+hostile bid（商业用语）恶意出价 
+to launch a takeover bid for the company 收购该公司 
+He made a cash bid for the company. 他提出以现金收购这家公司。
+The company submitted a bid for the contract to clean the hospital. 该公司投标承包这家医院的清洁工作。
+They have invited bids for the property. 他们为这块地产招标。
+bid price 投标价 
+bid process 投标过程
+
+n. [C] 包含一个或多个单芯电池（cell）的一种装置，可称为“电池”、“电池组”:
+n. 1 [C] battery (of sth) 同种类的大量事物或人，即一系列；一批；一群等:
+2 [C] [术语] 在某一地的一排或一组设备（如一排大炮、灯或电脑）:
+n. [C] [英] 常用作形容词，指养殖场使用的层架式饲养笼（如此类鸡笼）（由很多小笼子组合在一起所形成）:
+n. [U] [美] 对人身进行殴打的罪行，即殴打罪:
+battery |['bætərɪ]
+a rechargeable battery 可充电的电池 
+The battery is flat. 电池没电了。
+dead, flat battery 电量用完了的电池 
+spare battery 备用电池 
+car, laptop, phone battery 汽车蓄电池（电瓶）；笔记本电脑电池；手机电池 
+battery life 电池寿命 
+battery pack 电池组
+He faced a battery of questions. 他面临一连串的问题。
+a battery of reporters 一大批记者 
+a battery of tests 一系列测试 
+a battery of guns 一排大炮 
+anti-aircraft battery 高射炮组 
+a battery hen 层架式养鸡笼养的母鸡 
+battery eggs 层架式养鸡场所产的蛋
+He punched a man in a club and was charged with battery. 他在一家俱乐部里打了人，结果被指控犯了殴打罪。
+
+vt. 用一台特殊的机器把…录在磁带上:
+vt. 用带子系紧:
+vt. 1 tape sth (up) 用胶带粘住:
+2 用胶带把…粘到另一个事物上:
+n. [U] 一面有粘性物质的，用于粘合东西的一条狭长材料，可称为胶带:
+n. 1 [U] 用于记录声音、图像等信息的磁性材料，为一条狭长的带子:
+2 [C] 录上了信息（如声音、图像等）的一个盒式磁带:
+n. [C]（塑料、布质或易弯曲的金属所制成的用于测量长度的）尺子，如卷尺，皮尺。相当于tape measure:
+n. [C, U] 用于捆扎或作为标签的一条狭长材料:
+vt. [美] tape sth (up) 用绷带包扎伤口:
+n. [C] 速度比赛的终点线（为一条带状材料）:
+tape |[teɪp]
+Private conversations between the two had been taped and sent to a newspaper. 这两个人的私下谈话被录下音来送给了一家报社。
+Put it in a box and tape it up securely. 把这个放进盒子里，再用带子系牢。
+Someone had taped a message on the door. 有人用胶带把一张留言条贴在了门上。
+The wires are taped firmly together. 这些电线用胶带牢牢地封在一起。
+The lid was taped down to hold it in place. 盖子用胶布固定住了。
+The box was all taped up. 盒子用胶带密封严实。
+adhesive tape 胶带 
+packing tape 包装胶带 
+electrical（尤美）, insulating（尤英）tape 电工胶带；绝缘胶带 
+paper, plastic tape 纸胶带；塑料胶带 
+double-sided tape 双面胶带
+His albums are available on tape and CD. 他的歌曲专辑有磁带和光盘出售。
+magnetic tape 磁带 
+cassette tape 盒式磁带 
+music tape 音乐盒带 
+video tape（通常用videotape）录像盒带 
+demo, master, original tape 样带；母带；原带 
+blank tape 空白盒带
+a steel tape measure 钢卷尺
+The papers were tied together with a tape. 报纸用带子捆了起来。
+to get the cut taped up 用绷带把伤口包扎起来
+the finishing tape 终点线
+
+at a time in the near future, soon or afterwards:在不久的将来，不久或之后的某个时间
+goodbye for the present, see you later.:goodbyefornow，再见。
+later |ˈleɪtə| Adjective/Adverb/Interjection/:之后,以后的,后来,后,以后
+I'll see you later:稍后再见
+
+n. [C] 信封:
+n. [C] 用于保存纸张文件的扁平塑料封皮:
+envelope |['envɪləʊp]
+writing paper and envelopes 信纸和信封 
+prepaid envelope 预付邮资的信封 
+a self-addressed stamped envelope（美）一个贴足邮票并写明回邮地址的信封 
+He quickly stuffed the money back into the envelope. 他迅速把钱塞回信封里。
+envelope of certificates 证书的封套
+
+adj. short (with sb) 只作表语，（人）说话用词很少因而显得无礼的:
+adj. 1（时间）短的。是此义的常规用词，最为常用:
+2 只作前置定语，指一段时间看起来过得很快的，即短短的:
+adj. 易怒的:
+adj. 1 short (of sth) 只作表语，指不足；短缺:
+2 [非正式] short on sth 缺乏，缺少（某种品质）:
+3 只作表语，指紧俏；紧缺:
+4 short (of sth) 只作表语，指少于（某个数量等），未达到（某个距离等）:
+adv. 1 go short of或run short of 可表示缺少；不足:
+2 未达到所需或所期望地:
+adj.（人）个子矮的:
+adv.（时间或进程）中断；过早地（终止）:
+n. [U] [英，非正式] 少量烈酒（例如威士忌）:
+n. [C] [非正式]（尤指在正片前放映的）电影短片:
+n. [U] [非正式]（电路的）短路，相当于short circuit:
+vt.＆vi. [非正式]（电路）短路:
+adj.（空间长度）短的（可指本来就短的，也可指比通常要短的）:
+adj. short of breath（呼吸）短促的，困难的（如由于疾病所致）:
+adj.（演讲、书信、图书等）简短的:
+adj. short for sth（名称或单词）简略的；缩写的:
+adj.（元音）短音的:
+short |[ʃɔ:t]
+I’m sorry I was short with you earlier--I had other things on my mind. 对不起，我刚才对你怠慢了——我脑子里在想别的事。
+I’m going to France for a short break. 我打算去法国度个短假。
+Which is the shortest day of the year? 一年中哪一天最短？
+She has a very short memory. 她的记性很差，时间一长就忘。
+Life’s too short. 人生很短。
+just two short years ago 就在短短两年前
+a woman with a short temper 一个脾气暴躁的女人
+I’m a little short (= of money) this month. 这个月我手头有点紧。
+She is not short of excuses when things go wrong. 事情出了差错，她老有借口。
+Government forces are running short of fuel. 政府军正缺少燃料。
+to be in short supply 供给短缺 
+If space is very short, that door can be moved. 如果空间非常紧张，那扇门可以移开。
+He was a big strapping guy but short on brains. 他五大三粗，但头脑简单。
+Money was short at that time. 那时候，钱紧缺。
+Her last throw was only three centimetres short of the world record. 她的最后一掷距世界纪录只差三厘米。
+The team was five players short. 球队还缺五名球员。
+She was just short of her 90th birthday when she died. 她去世时就快过90岁生日了。
+He stopped a hundred yards short of the building. 他停在离那座建筑还有一百码远的地方。
+Mothers regularly go short of food to ensure their children have enough. 为了保证自己的孩子吃饱饭，做母亲的经常忍饥挨饿。
+They had run short of fuel. 他们燃料不够用了。
+All too often you pitch the ball short. 你投球老是距离不够。
+a short man 矮小的男子
+a career tragically cut short by illness 因病不幸中断的职业生涯 
+I’m afraid I’m going to have to stop you short there, as time is running out. 时间快到了，恐怕我得就此打断你了。
+short hair 短发 
+short walk 短距离步行 
+short skirt 短裙
+a short extract from Shakespeare’s Two Gentlemen of Verona 莎士比亚戏剧《两位维罗纳绅士》中的一个简短片段 
+a short book 一本小书
+Call me Jo--it’s short for Joanna. 叫我乔好了——这是乔安娜的简称。
+file transfer protocol or FTP for short“file transfer protocol（文件传输协议）”或简称“FTP” 
+the short vowel in ‘full’ full中的短元音
+
+n. [C] 昆虫:
+insect |['ɪnsekt]
+flying insect 飞虫 
+aquatic insect 水生昆虫 
+beneficial insect 益虫 
+harmful, poisonous insect 害虫；有毒昆虫 
+bloodsucking insect 吸血的昆虫 
+insect attack 虫害 
+insect bite 昆虫咬伤 
+insect eggs 昆虫卵 
+insect spray 喷雾杀虫剂
+
+modal verb. [英] 用于礼貌地提出请求:
+n. [U] [正式或文学] 强大的力量、能量或影响力，也可叫威力:
+modal verb. 用于表示对某人可以做（或本可以做）而未做某事表示生气或不满，即本应该:
+modal verb. 用于表明你对某事不感到意外:
+modal verb. 用于强调已提出了的一个重点:
+modal verb. 1 may的过去式，用于转述某人已说过的话:
+2 用于表示某事是可能的:
+3 [正式] 用于询问信息:
+might |[maɪt]
+Might I use your phone? 我可以用一下你的电话吗？
+If I might just say something … 要是叫我说… 
+Might I make a suggestion? 我可以提个建议么？
+Might I ask what you’re doing here? 我可以问问你在这里做什么吗？
+America’s military might 美国的军事力量 
+I pushed the rock with all my might. 我用尽全力推这块石头。
+I think you might at least offer to help! 我认为你至少应该主动提出帮忙吧！
+You might have told me that before! 你以前就该告诉我这件事！
+I might have guessed it was you! 我一猜就是你！
+‘And where is the money coming from?’‘You might well ask!’ “钱又从哪里来呢？”“你这就问到点子上了！”
+He said he might come tomorrow. 他说他明天可能来。
+He might get there in time, but I can’t be sure. 他有可能准时到达，但我不敢肯定。
+You might be right. 你或许是对的。
+How might the plans be improved upon? 这些计划还能怎么改进呢？
+And who might she be? 那么她会是谁呢？
+
+vt. 1 zone sth (for sth) 常用被动式，（根据某个目的）将一片土地划为某一用途:
+2 将一片土地划分成若干更小的区域:
+n. 1 [C] 有某个特色或用途的一片地区或地带:
+2 [C] 出于组织的目的，从一个更大的区域中划分出来的若干区域之一:
+3 [C]（地球表面假想出来的与赤道平行的）气候带:
+n. [C] 抽象地带:
+n. [C]（尤指有别于周围的）区域或（物体的）部分:
+n. [C]（身体上尤指有别于周围的）区域或部分:
+zone |[zəʊn]
+The town centre was zoned for office development. 镇中心被划定为写字楼开发区。
+The land was zoned for commercial purposes. 这块地被划为商业用地。
+border zone 边境地区 
+military, war zone 军事区；战区 
+buffer, exclusion, no-fly, no-go zone 缓冲地带；隔离区；禁飞区；禁区 
+occupation zone 占领区 
+danger zone 危险区 
+disaster zone 灾区 
+safe, safety, security zone 安全区；安全地带 
+smoke-free zone 无烟区等 
+coastal zone 沿海地区 
+an oxygen-depleted dead zone at the bottom of the sea 海底的无氧死区 
+fishing, free-trade, industrial zone 捕鱼区；自由贸易区；工业区 
+time zone 时区 
+earthquake zone 地震带 
+landing zone 着陆场 
+end zone（美式橄榄球的）球门区 
+postal charges to countries in zone 2 到位于第2邮区的国家的邮资 
+autonomous zone 自治区 
+school zone（美）学校区 
+climate zone 气候带 
+tropical zone 热带
+the twilight zone between living and merely existing zone 介于生活和挨日子之间的模糊状态 
+The Internet has become a free-fire zone for conspiracy theories. 互联网对各种阴谋论毫无限制。
+relegation zone（英）（体育比赛的）降级区 
+Students are unwilling to step outside their comfort zone. 学生们都贪恋自己的舒适区，不愿改变。
+When the needle enters the red zone the engine is too hot. 指针进入红色区域时，发动机就过热了。
+the vulnerable zones of the body 身体的脆弱区域
+the vulnerable zones of the body 身体的脆弱区域
+
+vt.（在指甲、嘴唇等部位）施用化妆品:
+vt. paint sb/sth (as sth) 把…描绘成…，相当于portray:
+n. [pl.] 绘画用的颜料:
+paint sth (on sth) 用颜料来画:
+n. [U] 用刷子在…表面上粉刷的一种液体，即油漆、涂料（可以是为了颜色美观，也可以是对被粉刷对象起保护作用）。是此义的常规用词:
+n. [sing.]（…表面上干燥的）油漆涂层:
+vt.＆vi. paint sth (with sth)（给墙、物体等）刷油漆，刷涂料:
+paint sth (on sth) 用颜料来写:
+paint |[peɪnt]
+The report paints a grim picture of the war zone. 该报道描绘了战区阴森的画面。
+The article paints him as a cruel criminal. 文章把他描绘成了一个残忍的犯罪分子。
+oil, watercolour/watercolor paints 油画颜料；水彩画颜料 
+an artist working with acrylic paints 用丙烯颜料作画的画家
+vt.＆vi. paint (in sth) 
+to paint pictures 画画 
+to paint a volcano 画一座火山 
+to paint yellow lines on roads 在马路上画黄线 
+to paint portraits 画肖像 
+I paint in oils. 我画油画。
+She paints well. 她很会画画。
+a can of blue paint 一罐蓝色油漆 
+thick paint 稠油漆 
+fresh paint 新漆 
+Wet paint! 油漆未干！
+metallic paint 金属漆 
+lead paint 含铅漆 
+exterior paint 外墙涂料 
+a coat of paint 一层油漆 
+paint roller 油漆滚刷 
+paint gun 喷漆枪 
+paint pot 油漆罐
+The paint is starting to peel off. 油漆开始起皮脱落了。
+chipped, loose, peeling paint 脱落了的油漆；松裂的油漆；正在剥落的油漆
+We painted the walls light green. 我们将墙壁粉刷成了淡绿色。
+Paint the box all over with varnish. 用清漆把整个盒子刷一下。
+vt.＆vi. paint (in sth) 
+to paint slogans on walls 用油漆在墙上写标语
+
+vt. [非正式] 帮助被拘禁者逃跑:
+n. [U, C] 春天，春季:
+n. [U, sing.] 活力；朝气:
+n. [C] 一个快速且突然的向上或向前的跳跃:
+vi.（人或动物）突然移动且朝某个方向快速地运动一下，类似于leap:
+vi.（物体）突然且猛烈地移动（如弹向某个方向）:
+vi. 是…的结果，即起源于…:
+vt. spring sth (on sb) 让某人意想不到地去做某事:
+vi. 突然出现或来到某处:
+n. [U] 弹性；弹力。常指“强烈回弹的一种能力”，强调回弹之强烈，是elasticity的一种:
+n. [C] 泉（即水从地下自然地流出地表的一个地方）；也可指泉水:
+vt. spring sth (on sb) 让某人意想不到地去问某事或说某事:
+n. [C] 弹簧，发条（或类似原理的装置）:
+spring |[sprɪŋ]
+Plans to spring the hostages have failed. 营救人质的计划失败了。
+There’s a feeling of spring in the air today. 今天可以感到一点春天的气息。
+early spring 早春 
+wet spring 多雨的春天 
+spring rain 春雨 
+spring season 春季
+She walked along with a spring in her step. 她迈着轻快的步伐向前走去。
+With a spring, the cat leapt on to the table. 猫一跃跳上桌子。
+He turned off the alarm and sprang out of bed. 他关掉闹钟，从床上跳了下来。
+He sprang out of the car. 他从车里跳了出来。
+The cat crouched ready to spring. 那猫弓起背准备跳。
+He sprang back in alarm. 他惊慌地往后一跳。
+spring to attention（士兵）突然立正 
+to spring to his feet 霍地站起来
+The branch sprang back and hit him in the face. 树枝弹回来打在他脸上。
+Sadly when the lid of the boot sprang open, it was empty. 可惜，当后备箱盖弹开时，里面是空的。
+She turned the key and the lid sprang open. 她一拧钥匙，盖子啪地打开了。
+Ethiopia’s art springs from its early Christian as well as its Muslim heritage. 埃塞俄比亚的艺术起源于其早期的基督教和穆斯林教遗产。
+She sprang a surprise by winning the tournament. 这次比赛她获得冠军，爆了个大冷门。
+Tears sprang to her eyes. 她眼里一下子涌出了泪水。
+The mattress has lost its spring. 那个床垫失去弹性了。
+deliciously cool spring water 甘洌的泉水 
+hot, thermal spring 温泉 
+bubbling spring 汩汩的泉水 
+mineral, natural spring 矿泉；天然泉水 
+mountain, underground spring 山泉；地下泉水 
+I’m sorry to spring it on you, but I’ve been offered another job. 我很抱歉这样突然告诉您，我另有工作了。
+Tom sprang a new idea on him. 汤姆突然告诉他一个新想法。
+coiled spring 螺旋弹簧 
+bed, box spring（美）床垫弹簧 
+Most of the springs have gone in the sofa. 沙发的大部分弹簧都坏掉了。
+
+
+sprang | 突然出现,跳起来
+
+(of a vehicle or item of furniture) fitted or cushioned with springs:（车辆或家具）装有或缓冲弹簧
+(of a floor) designed to provide a shock-absorbing, resilient surface:（地板）设计用于提供减震、有弹性的表面
+sprung |sprʌŋ| Adjective/Verb/:涌现,突然出现的
+a sprung divan base and sprung mattress offer the ultimate in comfort:a弹簧沙发底座和弹簧床垫提供极致的舒适感
+the revamped facilities include two new bars and a fully sprung dance floor:改造后的设施包括两个新酒吧和一个全弹簧舞池
+
+adv. 有意冒犯地，无礼地:
+adv. 1 用于表明你正在就某事表达你自己的观点，即就本人而言:
+2 由本人亲自执行（而非由其他人代劳），即本人、亲自:
+3 个别地、单独地，而非一群人地，相当于individually:
+4 与某人的个人生活有关地（而非与其工作或正式职位有关），即私人地:
+personally |['pə:sənəlɪ]
+I’m sure she didn’t mean it personally. 我相信她绝无冒犯之意。
+Personally, I prefer the second option. 就我个人而言，我倾向第二种选择。
+All letters will be answered personally. 一切信函都将由本人亲自答复。
+Do you know him personally? 你本人认识他吗？
+You will be held personally responsible for any loss or breakage. 如有丢失或损坏，将由你个人负责。
+Have you had any dealings with any of the suspects, either personally or professionally? 你是否与任何嫌疑人有过私人或业务来往？
+
+n. 1 [C] 各种名录（通常按字母顺序排列），如电话号码簿、某个行业的公司名录（包含各公司的名称和地址）:
+2 [C]（国际互联网网站上的用于查询某个主题的信息的）专题名录:
+n. [C]（计算机磁盘中文件或程序的）目录:
+directory |[dəˈrektəri;dɪ-;daɪ-]
+a directory of names and numbers 姓名号码簿 
+a directory of European Trade Associations 欧洲同业公会名录 
+business, telephone, trade（尤英）directory 企业名录；电话簿；行业名录 
+I found the company's name in a trade directory. 我在行业名录上找到了这家公司的名字。
+searchable directory 可查询名录 
+a searchable directory of lawyers and law firms 律师和律师事务所的查询名录 
+city（尤美）, local directory 城市名录；本地名录 
+the 1801 Philadelphia city directory 1801年费城名录 
+membership directory（尤美）会员名录 
+the association's 2009 membership directory 2009年协会会员名录 
+a comprehensive directory of training resources 培训资源的综合名录 
+She decided to check the business directory for the address. 她决定在企业名录中查阅地址。
+Names are listed alphabetically in the directory. 名录中的名称按字母顺序排列。
+Internet, online, Web directory 网络名录 
+an online directory that shows who lives at what address 显示用户住址的网络名录 
+Yahoo is the oldest and best-known Web directory service. 雅虎是最早且最知名的互联网目录服务网站。
+This option lets you create new files or directories. 用这个选项你可以创建新的文件或目录。
+
+n. [C] 存储大量商品的仓库，货栈，尤指在将货物运送至商店进行销售前进行存储的仓库:
+warehouse |['weəhaʊs]
+distribution, retail, wholesale warehouse 分销仓库；零售仓库；批发仓库 
+cotton warehouse 棉花仓库 
+dockside warehouse 码头仓库 
+data warehouse（技术用语）数据库 
+warehouse worker 仓库工人 
+warehouse district（尤美）仓储区 
+warehouse space 仓储空间 
+warehouse store（美）仓储超市 
+warehouse sale（美）仓库特卖 
+A large quantity of goods are piled up in the warehouse. 大量商品正堆积在仓库里。
+
+n. [C] 指美国的高速公路:
+freeway |['fri:weɪ]
+The speed limit on the freeway is 60 mph. 这条高速公路的限速为每小时60英里。
+major freeway 主要的高速公路 
+eight-lane freeway 八车道的高速公路 
+busy freeway 繁忙的高速公路 
+freeway entrance 高速公路入口 
+freeway exit 高速公路出口 
+freeway overpass 高速公路立交桥 
+freeway chase 高速公路追击 
+an accident on the freeway 高速公路上的一起事故
+
+conj. 用于某些动词、形容词和名词后，引出从句:
+adv. 1 用手势来表示某事物的多少、长度、大小等，即那样，那么:
+2 not (all) that 不是非常，不很，不像所说的那样，不那么:
+3 [英，非正式] 用于强调程度，即那么:
+conj. 1 so … that … 用于表示一个结果，即“如此…以致于…”:
+2 用于表示一个希望或愿望，即“多么”:
+that |[ðæt]
+She said (that) the story was true. 她说这件事是真的。
+It’s possible (that) he has not received the letter. 可能他还没有收到那封信。
+The fact (that) he’s older than me is not relevant. 他比我年纪大这一事实无关紧要。
+I can’t walk that far. 我走不了那么远。
+It’s about that long. 大约有那么长。
+It isn’t all that cold. 天没那么冷。
+There aren’t that many people here. 这里并没有那么多人。
+I was that scared I didn’t know what to do. 我非常害怕，以至不知如何是好。
+She was so tired (that) she couldn’t think straight. 她累得昏头昏脑。
+Oh, that I could see him again! 啊，我多想能再见到他！
+
+adv.（在原有数量的基础上）增加:
+adv. 1 再一次；又一次。是此义的常规用词:
+2 用于让某人把某事再说一遍:
+adv. 表明某人或事物处于其最初所在的地点或状态，即返回原处；复原:
+adv. 1 用于对刚说过的话做出添加，即再说；其次:
+2 then/there again 用于引出与刚说过的话相对照的事实或看法，即再说，另一方面:
+again |[ə'ɡeɪn]
+The cost is about half as much again as it was two years ago. 现在的价格比两年前提高约一半。
+I’d like the same again. 我想再来一份同样的。
+When will I see you again? 我何时能再见到你？
+Once again, the train was late. 火车又晚点了。
+again and again 一再 
+Could you say it again, please? 请再说一遍好吗？ 
+He was glad to be home again. 他很高兴又回到家了。
+You’ll soon feel well again. 你很快就会康复的。
+And again, we must think of the cost. 再说，我们必须考虑成本。
+We might buy it but then again we might not. 我们可能买，不过也可能不买。
+You may be happy to buy imitation leather, and then again, you may wonder what you’re getting for your money. 你可能乐于买仿制皮革，然后你也许又想知道你花的钱买到的是什么。
+
+n. [U] 数字电视:
+adj. 1 利用数字技术来实现拍摄、通信等用途的，即数字的，数码的:
+2（钟表等）用数字（而非指针）来显示信息的，即数字显示的:
+n. [U] 数字电视:
+digital |['dɪdʒɪtl]
+How long have you had digital? 你们的数字电视买了多长时间了？
+digital camera 数码照相机 
+digital satellite 数字卫星 
+digital technology 数码技术 
+a digital watch 数字表 
+a digital display 数字显示 
+How long have you had digital? 你们有数字电视多长时间了？ 
+
+adj. 常作前置定语，指未经某人事先决定而被执行（或被选择等）的；也可指（执行或选择等）没有任何规则的。可叫做随机的、随意的等:
+n. [sing.] at random可指未经事先计划或决定地；或没有任何规则地。即随意、随机、胡乱等:
+adj. 常作前置定语，指未经某人事先决定而被执行（或被选择等）的；也可指（执行或选择等）没有任何规则的。可叫做随机的等。是此义的常规用词:
+n. [sing.] at random可指未经事先计划或决定地；或没有任何规则地。即随机、胡乱等:
+random |['rændəm]
+the random killing of innocent people 对无辜者的随意杀戮 
+The terrorists fired into the crowd at random. 恐怖分子胡乱向人群开枪。
+random sample 随机抽样 
+random selection 随机选取 
+a seemingly random sequence of numbers 一个似乎随机的数字序列 
+She opened the book at random and started reading. 她随意翻到一页就看了起来。
+Names were chosen at random from a list. 名字是从名单里随机选取的。
+
+adj. 只作前置定语，最大的；最多的；最大极限的等:
+n. [usually sing.] 最大量；最大尺寸；最大速度；最高限度等:
+adv. 最多（是一种限度，而非用于比较）:
+maximum |['mæksɪməm]
+maximum speed, maximum temperature 最快速度；最高气温 
+maximum effect 最佳效果 
+maximum efficiency 最高的效率 
+maximum height 最大高度 
+a maximum of 30 children in a class 每班至多30名学生 
+What is the absolute maximum you can afford to pay? 你最多能出多少钱？
+a maximum of two years in prison 最长监禁两年 
+a drive of four hours at the maximum 驾车最多四小时的路程 
+He is using his talents to the maximum. 他正在最大限度地施展自己的才华。
+We need an 6 grams a day maximum. 我们一天最多还需要6克。
+
+
+maximums | 最大值,上限
+
+n. [C] 马:
+horse |[hɔ:s]
+fast horse 快马 
+wild horse 野马 
+race horse（通常用racehorse）赛马 
+horse hooves 马蹄 
+horse race 赛马 
+a horse and carriage, a horse and cart 马车
+
+n. [C] [非正式] 顽皮的孩子，淘气鬼。是一个形象化用法:
+n. [C] 猴子:
+monkey |['mʌŋkɪ]
+a little monkey 小淘气
+a troop of monkeys 一群猴子
+
+n. [U, sing.] 从危险或困难处境中的逃脱、躲避、逃走:
+n. [C] 一起飞行的一群鸟:
+n. [C] flight of fancy/imagination 可指异想天开而不且实际的想法。不常用:
+n. 1 [U]（动物）飞行、飞翔；也可指飞行能力:
+2 [U] 物体在空气中的运动，即飞行；也可指此种飞行的方向:
+vt. [英] 常用被动式，在体育运动中可指熟练地踢、击、投掷球或镖等，使其飞向目标:
+n. [C] 两层楼之间的一段台阶或楼梯:
+n. [C] 一起飞行的一群飞机:
+n. [C] 行驶于某个特定路线的飞机，即航班。强调航线的固定性:
+n. 1 [C]（尤指飞机的）空中航行、航程:
+2 [U]（飞行器）飞行、飞翔；也可指飞行能力:
+flight |[flaɪt]
+The thief was often in flight. 这个小偷经常躲来躲去。
+She was in flight from domestic violence. 她那时在躲避家庭暴力。
+the flight of refugees from the civil war 难民躲避内战 
+The army was defeated and the king put to flight. 军队被打败，国王落荒而逃。
+The cheetah took flight. 猎豹逃走了。
+a flight into the unknown 结果未卜的逃离
+a flight of geese 一群飞雁
+Barn owls are capable of flight at 56 days. 仓鸮出生后56天就能飞行。
+a flock of geese in flight 一群飞翔的大雁 
+Don’t get into the line of flight of the bees. 不要挡着蜜蜂飞行的路线。
+the flight of a ball 球的飞行 
+the line of flight of a golf ball 高尔夫球的飞行路线
+a flight of stairs, a flight of steps 一段楼梯；一段台阶
+an aircraft of the flight 一个机群中的一架
+BA flight 286 was two hours late. 英国航空286次航班晚点两个小时。
+relief flights 用于救援的班机 
+inbound, return flight 进港航班；返程航班 
+connecting flight 转接航班 
+shuttle flight 往返航班 
+regular, scheduled flight 定期航班 
+charter flight 包机 
+weekly flight 每周一次的航班 
+direct flight 直达航班 
+short flight 短途航班 
+night flight 夜间航班 
+cargo, passenger flight 货运航班；客运航班 
+cheap flight 廉价航班 
+flight number 航班号 
+flight schedule 航班时刻表 
+flight delay 航班晚点 
+flight cancellation 航班取消
+The flight will take eight hours. 此次飞行将需要八个小时。
+balloon, plane, rocket flight 搭乘热气球飞行；搭乘飞机飞行；搭乘火箭飞行 
+round-trip flight（美）往返飞行 
+I hope you enjoy the flight. 希望你航程愉快。
+Please refrain from smoking during the flight. 飞机航行期间请勿吸烟。
+flight safety 飞行安全 
+soaring, sustained flight 高空飞行；持续飞行 
+low-level flight 低空飞行 
+horizontal, level flight 水平飞行 
+high-speed flight 高速飞行 
+manned space flight 载人太空飞行 
+relief flight 救援飞行 
+military flight 军事飞行 
+reconnaissance, surveillance flight 侦查飞行 
+a routine training flight 常规飞行演练 
+flight operations 飞行活动 
+flight time 飞行时间 
+flight crew 机组人员 
+flight school 飞行学校 
+flight instruments 飞行仪表 
+flight recorder 黑匣子（飞行记录器）
+flight simulator 飞行模拟器 
+flight path 飞行路线 
+
+n. 1 [C] 一枚硬币:
+2 [U] 硬币的统称，即金属制造的钱币:
+vt. 用金属铸造硬币:
+vt. 创造一个新词或短语（后来其他人也开始使用该词或短语）:
+coin |[kɒɪn]
+a euro coin 一枚欧元硬币 
+gold coins 金币 
+coins jingling in his pockets 在他口袋里叮当作响的硬币 
+notes and coin 纸币和硬币 
+gold, silver coin 金币；银币 
+antique coin 古币 
+commemorative coin 纪念币 
+counterfeit, fake coin 伪币；假币 
+The term ‘cardboard city’ was coined to describe communities of homeless people living in cardboard boxes. 人们创造了cardboard city一词，用来指居住在纸板棚屋里无家可归者的居住区。
+
+n. [U, sing.] 愿意、乐意:
+willingness |['wɪlɪŋnəs;美ˈwɪlɪŋnɪs]
+The success of this type of therapy depends on the patients' willingness to try to solve their problems. 这种疗法能否奏效取决于病人是否有解决问题的意愿。
+The new government has shown a willingness to listen and learn. 新政府表现出愿意倾听与学习的姿态。
+Workers' leaders have expressed their willingness to cooperate. 工人领袖表达了合作的意愿。
+In her willingness to help them, she quite forgot that she wasn't as strong as she had been. 她很想帮助他们，完全忘了自己已经不像以前那么强壮了。
+
+n. [U] 猪肉（常为新鲜的，未用盐腌过或未用烟熏过的猪肉）:
+pork |[pɔ:k]
+a leg of pork 猪腿肉 
+roast pork 烤猪肉 
+pork sausage 猪肉香肠 
+pork butcher（尤英）猪肉贩
+
+vt. 正式终结一项法律、制度、习俗等，即废除:
+abolish |[ə'bɒlɪʃ]
+to abolish the death penalty 废除死刑 
+The tax should be abolished. 这种税应该取消。
+Foreign exchange controls were largely abolished. 外汇管制基本已取消。
+to abolish quotas on immigrants 取消移民人数限额
+
+vt.＆vi. 发动机因汽油加得太满而不启动，即溢流；或使发动机溢流:
+vt.＆vi. 指思想或感情突然且强烈地影响到某人:
+n. [C] flood (of sth) 大量的…、大批的…:
+vt. flood sth (with sth) 充满大量的…；使充满大量的…:
+vt.＆vi. 指光传递到某处，或覆盖…:
+vt.＆vi. 指颜色突然传递到某处，或覆盖…:
+vi. flood in/into/out of sth 大量地到达或去某地，即大量涌入或蜂拥而出:
+vt. flood sb/sth with 常用被动式，往某地大量运送某事物:
+n. [C, U] 洪水或水灾:
+vt.＆vi. 1（如河流或管道）灌满水；使灌满水:
+2 河流泛滥:
+vt.＆vi. 指思想突然且强烈地影响到某人:
+flood |[flʌd][flʌd]
+Memories of his childhood came flooding back. 他童年的往事涌上心头。
+A great sense of relief flooded over him. 他深感宽慰。
+the flood of refugees out of Syria and into Germany 大批逃离叙利亚的难民涌入德国 
+a flood of complaints 大量投诉 
+The child was in floods of tears. 小孩哭得跟个泪人儿似的。
+She was inundated by floods of fan mail. 她收到了崇拜者雪片般的来信。
+Writing about St. John’s brings back a flood of nostalgic memories. 对圣约翰的记述使往事如潮水般涌上心头。
+Cheap imported goods are flooding the market. 廉价进口商品充斥着市场。
+She drew the curtains and the sunlight flooded in. 她拉开窗帘，阳光照了进来。
+The earth was flooded with evening light. 大地一片暮色。
+The colour flooded her cheeks. 她双颊刷的一下红了。
+Large numbers of immigrants flooded into the area. 大批移民涌入了这个地区。
+Inquiries flooded in from all over the world. 问询从世界各地如潮水般涌来。
+My desk was flooded with books. 我的课桌上堆满了书。
+flash flood 骤发的洪水 
+summer flood 夏季洪水 
+flood damage 洪涝灾害 
+flood victim 洪灾灾民 
+flood prevention, flood relief 防汛；排涝 
+The river was in flood. 河水泛滥了。
+The kitchen flooded. 厨房被水淹了。
+The river flooded. 河水泛滥了。
+The river flooded acres of farming land. 河水淹没了大片农田。

@@ -1,0 +1,639 @@
+import						进口，含义，重要性
+adverse			不利的
+technique							方法，技术，技巧
+circle				圆，圈子，围绕，盘旋
+medium								中等的，媒介
+official				官员的
+divert				使...转向，改变...的用途，使愉悦
+agitate			使焦虑，搅动，鼓动
+maneuver			熟练谨慎的移动，操纵，策略
+room for manoeuvres	回旋余地
+manoeuvres			演习
+allowance							补贴，限量
+nickname			绰号
+adverb				副词
+spiritual						精神的
+artery				动脉，干线
+merit							价值，荣誉，长处，值得
+bacterium			细菌
+current						当前的，流行的，电流，趋势
+bottom						底部，根源，尽头
+verify				证实，核对
+security							安全，担保，保障，证券
+induce						劝说，导致
+prosperous			富有的，繁荣的
+cohesive			团结的
+merchandise			商品，买卖
+resign						辞职
+battery								电池，一系列
+motivate						促动
+alleviate						减轻
+senate				理事会，元老院
+Senate				参议院
+portray			画，描绘，扮演
+\\\\\\\\
+
+import sth (into ...) 将思想、风俗等从一国引入至另一国，即输入，引进:
+import sth (into ...) 将数据导入或输入:
+n. [C] 单数名词，the import (of sth)指意思，含义，尤指不能立即理解（或难以理解）的含义，为正式用法。不常用:
+n. [C] 常用复数，表示从另一国进口的产品或服务:
+n. [U, C] 可数名词时为复数，产品或服务的进口:
+import sth (into ...) 将产品、服务从一国引入至另一国，即进口:
+n. [U] 重要性，为正式用法:
+import |[ɪm'pɔ:t]
+vt.＆vi. import sth (from ...) 
+customs imported from the West 从西方传入的风俗习惯
+vt.＆vi. import sth (from ...) 
+to import data 导入数据
+It is difficult to understand the full import of this statement. 很难理解这份声明的全部含意。
+food imports from abroad 从外国进口的食品 
+the demand for imports 对进口商品的需求
+imports and exports 进出口 
+the import of hazardous waste 危险废弃物的进口 
+annual import 年进口量 
+total import 进口总额 
+illegal import 非法进口 
+coal import 煤炭进口 
+import duty, import tariff 进口关税 
+import quota 进口配额 
+a ban on imports, a restriction on imports 进口禁令；进口限制 
+vt.＆vi. import sth (from ...) 
+to import raw materials 进口原材料 
+goods imported from Japan into the US 从日本输入到美国的货品
+matters of great import 非常重要的事情
+
+preventing success or development; harmful; unfavourable:
+adverse |ˈadvəːs| Adjective/:不利的,负面的
+taxes are having an adverse effect on production:taxes对生产有不利影响
+
+n. 1 [U, C]（在某一艺术、体育或其他实践性的活动中所采用的）技巧或技艺（该技巧或技艺可通过训练和实践来获得）:
+2 [U, C] 技术，此时其含义与technology相近，但technique一般只强调其实用性，而不太强调该技术的系统性和学术性:
+technique |[tek'ni:k]
+swimming technique 游泳技术 
+cooking, painting, singing, narrative technique 烹饪技巧；油画技巧；歌唱技巧；叙事手法 
+reading techniques 阅读技巧 
+communication, dating, exam, management, marketing, problem-solving, relaxation, research, sales, teaching technique 交流技巧；约会技巧；应试技巧；管理技巧；营销技巧；解决问题的技巧；放松方法；研究方法；销售技巧；教学技巧 
+analytical, medical, photographic, scientific technique 分析技术；医疗技术；摄影技术；科学技巧 
+building, farming, manufacturing technique 建造技术；农业技术；制造技术 
+techniques for the storage of data 数据存储技术 
+advanced technique 先进的技术 
+modern freezing techniques 现代冷冻技术 
+techniques in farm management 管理农场的技术
+
+n. [C] [英] [美英也用balcony]（剧院或电影院的）上层弧形看台（看台上设有观众席）:
+n. 1 [C] 一个完全的圆形，圆。是几何中“圆形”的常规用词，最为常用:
+2 [C] 圆形周围的一条边缘线，即圆周；圆圈:
+vt.＆vi. 在一个物体或地方周围形成圆环，即环绕:
+vt.＆vi. circle (around) (above/over sb/sth)（尤指在空中）做环状运动，如盘旋等:
+n. [C]（相同兴趣、职业等的人所形成的）圈子:
+n. [C] 圆形物；或由一群人（或事物）构成的环状:
+vt.＆vi. circle (around) (above/over sb/sth)（尤指在空中）做环状运动，如盘旋等:
+vt. 围绕…画圈或画圆:
+circle |['sə:kl]
+We had seats in the circle. 我们坐的是楼座座位。
+dress, upper circle 楼厅前座；楼厅后座
+concentric circle 同心圆 
+half circle 半圆 
+the area of a circle, the radius of a circle 圆的面积；圆的半径 
+Draw a circle. 画一个圆圈。
+He turned the car in a tight circle. 他将车来了个急转弯。
+Arctic circle 北极圈 
+The planets move in circles around the sun. 行星绕着太阳旋转。
+This is the road that circles the city. 这就是那条环城路。
+Seagulls circled around above his head. 海鸥在他的头顶上盘旋。
+There were two helicopters circling around. 有两架直升飞机在周围盘旋。
+family, academic, artistic, business, political, social circles 家族圈子；学术界；艺术界；商界；政界；社交圈 
+a wide circle of acquaintances 交游广泛 
+He has a small circle of friends. 他有一个小小的朋友圈子。
+a circle of trees 一圈树 
+a circle of chairs 一圈椅子 
+The children stood in a circle. 孩子们站成一圈。
+The stones form a complete circle. 这些石头构成一个完整的圆圈。
+Cut out two circles of paper. 剪出两个圆形纸片。
+The plane circled, awaiting permission to land. 飞机盘旋着，等待着陆指令。
+Spelling mistakes are circled in red ink. 拼写错误都用红笔圈了出来。
+to circle her birthday on the calendar 在日历上把她的生日圈起来
+
+adj. 常用于名词前，指（尺寸、规模、程度等）中等的，相当于average:
+n. [C]（用于某一目的的）手段、工具、方法等。主要指表达观点或与人沟通时所采用的表现方式或交流手段:
+n. [C] 生物学中可指…所生存的环境，培养基，或…（借以传输）的介质:
+n. [C]（信息等传播的）媒介，手段，方法:
+n. [C]（用于某一目的的）手段、工具、方法等。主要指表达观点或与人沟通时所采用的表现方式或交流手段:
+n. [C] 画家从事创作所采用的材料或形式:
+n. [C] 音乐家从事文艺创作所采用的材料或形式:
+n. [C] 画家、作家、音乐家等从事文艺创作所采用的材料或形式。本质上是艺术家用以传达思想的媒介:
+n. [C] 作家从事文艺创作所采用的材料或形式:
+n. [C] 自称能够在死者与生者之间传递信息的人，可叫做通灵的人或灵媒:
+adj. 常用于名词前，指位于两个尺寸、数量、长度、温度等中间的，即中等的，相当于average:
+adv. 中等程度地:
+medium |['mi:dɪəm]
+medium-size car 中型汽车 
+medium-size business 中型企业 
+medium-size town 中等城镇 
+a man of medium build 中等身材的人 
+There are three sizes--small, medium and large. 有三种尺寸——小号、中号和大号。
+Cook over a medium heat for 15 minutes. 用中火煮15分钟。
+a medium dry white wine 中度干白葡萄酒 
+Choose medium to large tomatoes. 选取中到大个的西红柿。
+English is the medium of instruction. 用英语进行教学。
+Video is a good medium for learning a foreign language. 视频是一种学习外语的好方法。
+She used her novels as a medium for encouraging political debate. 她把自己的小说作为鼓励政治辩论的手段。
+The bacteria were growing in a sugar medium. 细菌在糖基中生长。
+Blood is the medium in which oxygen is carried to all parts of the body. 血液是把氧气输送到身体各部分的媒介。
+Television is the modern medium of communication. 电视是现代传媒。
+advertising, broadcast medium 广告媒介；广播媒介 
+mass medium 大众传播媒介 
+digital, electronic, print, printed, visual medium 数字媒介；电子媒介；印刷媒介；视觉媒介 
+recording, storage medium 记录介质；存储介质
+English is the medium of instruction. 用英语进行教学。
+Video is a good medium for learning a foreign language. 视频是一种学习外语的好方法。
+She used her novels as a medium for encouraging political debate. 她把自己的小说作为鼓励政治辩论的手段。
+the medium of paint 绘画的媒介 
+Watercolour is his favourite medium. 水彩是他最喜欢的表现方式。
+the medium of paint 绘画的媒介 
+the medium of poetry 诗歌的媒介 
+the medium of drama 戏剧的媒介 
+artistic medium 艺术表现媒介 
+photographic medium 摄影表现方式 
+Watercolour is his favourite medium. 水彩画是他最喜欢的表现方式。
+the medium of poetry 诗歌的媒介 
+the medium of drama 戏剧的媒介
+Bruce Willis says he has been talking to his dead brother through a medium. 布鲁斯·威利斯说他一直在通过一位灵媒和他死去的兄弟交谈。
+medium-size car 中型汽车 
+medium-size business 中型企业 
+medium-size town 中等城镇 
+a man of medium build 中等身材的人 
+Cook over a medium heat for 15 minutes. 用中火煮15分钟。
+a medium dry white wine 中度干白葡萄酒 
+Choose medium to large tomatoes. 选取中到大个的西红柿。
+a medium dose 中等剂量 
+medium levels of sodium 中等含钠量
+a medium-hot pan 中温的平底锅 
+medium brown hair 中褐色的头发
+
+n. [C] 常构成复合词，指一个大组织中的官员、要员:
+adj. 1 公职的，公务的，即与一定的官方职位相关的，只作前置定语:
+2 尤指处于官方职位的人所说、所做或所同意的，即官方的、正式的、官方授权的，常作前置定语:
+3 被告知公众（但未必真实）的，即据官方的，只作前置定语:
+4 正式，且有官方人员出席的，即官方场合的，只作前置定语。与unofficial相反:
+n. [C] 常构成复合词，指政府官员、政府要员:
+official |[ə'fɪʃl][ə'fɪʃl]
+high-ranking official 高级职员 
+junior, minor official 初级职员；小职员 
+administration, departmental official 行政主管；部门主管 
+the official responsible for handling the case 负责处理此案的官员 
+corrupt official 贪官 
+bank, company, union official 银行官员；公司官员；工会官员
+official responsibilities 公务 
+the Prime Minister’s official residence 首相官邸 
+official engagement 公务 
+to make an official visit to Paris 到巴黎进行一次公务访问 
+official announcement, official statement, official decision 官方公告；官方声明；官方决定 
+official figures 官方数字 
+according to official statistics 根据官方统计 
+official inquiry 官方调查 
+official language 官方语言 
+The news is not yet official. 这消息尚未经官方证实。
+the official version of the event 此事的官方版本 
+official story 官方说法 
+official function, official reception 官方聚会；官方招待会 
+official opening 正式开幕
+high-ranking, prominent, senior, top official 高级职员；高级官员；要员 
+junior, minor official 初级职员；小职员 
+local, provincial official 地方官员；省级官员 
+public official 公务员 
+administration, departmental, federal, government, state official 行政主管；部门主管；联邦要员；政府要员；州要员 
+the official responsible for handling the case 负责处理此案的官员 
+corrupt official 贪官 
+council, court, customs, intelligence, military, ministry（尤英）, royal official 议会官员；法院官员；海关官员；情报官员；军方官员；部级官员；王室官员
+
+If you say that someone diverts your attention from something important or serious, you disapprove of them behaving or talking in a way that stops you thinking about it. 转移…的注意力
+To divert a phone call means to send it to a different number or place from the one that was dialled by the person making the call. 转接 (电话)
+To divert money or resources means to cause them to be used for a different purpose. 转移
+To divert vehicles or travellers means to make them follow a different route or go to a different destination than they originally intended. You can also say that someone or something diverts from a particular route or to a particular place. 使改道; 改道
+divert |英 [daɪ'vɜːt; dɪ-]  美 [dɪˈvɚt]| vt. 转移；使…欢娱；使…转向/vi. 转移/n. (Divert)人名；(法)迪韦尔/
+They want to divert the attention of the people from the real issues.他们想把人民的注意力从真正的问题上转移开。
+He instructed the switchboard staff to divert all Laura's calls to him.他通知接线员把劳拉打来的所有电话都转给他。
+A wave of deadly bombings has forced the United States to divert funds from reconstruction to security.一系列致命的炸弹袭击迫使美国将资金从重建转向安全防御。
+Abington Memorial Hospital has been diverting trauma patients to other hospitals because it does not have enough surgeons.由于缺乏足够的外科医生，阿宾顿纪念医院一直在将外伤病人转到其他医院。
+We diverted a plane to rescue 100 passengers.我们改变飞机航线以拯救100名乘客。
+
+
+vt. [术语] 搅动或摇动某事物（尤指液体），使其做圆形运动:
+vt. 使某人愤怒、焦虑或紧张:
+vi. ~ (for/against sth)（尤指为法律、社会状况等的改变而）激烈争论，如鼓动、煽动:
+agitate |[ˈædʒɪteɪt]
+All you need to do is gently agitate the water with a finger or paintbrush. 你只需要用手指或刷子轻轻地搅动水。
+Its molecules can be agitated by microwave energy. 微波能量可以搅动分子。
+The thought of them getting her possessions when she dies agitates her. 一想到他们可能会在她死后得到她的财产，她就心绪不安。
+political groups agitating for social change 鼓吹社会变革的政治团体 
+Her family are agitating to have her transferred to a prison in the UK. 她的家人正多方游说要把她转到英国监狱。
+The women who worked in these mills had begun to agitate for better conditions. 在这些工厂里做工的妇女们开始抗议要求改善工作条件。
+
+ “The smaller the bird, the more viscous the air is,” he said, which is partly why hummingbirds can maneuver so well and for so long.  鸟儿越小，空气就越有粘性“ ，他说。 这也部分说明了为什么蜂鸟能飞行的那么好那么久的原因。
+ First off, Obama will have little room to maneuver in the support and operations budget, even if he pulls our troops out of Iraq.  即使他把军队全部撤出伊拉克，在支持性和经营性预算方面奥巴马很快也没有多少回旋余地。
+ All the fighters landed safely on the airport after the military maneuver.  在军事演习后，所有战斗机都安全降落在机场上。
+maneuver |英 [mə'nʊvə]  美 [mə'nʊvɚ; mə'njʊvɚ]| n. [军] 机动；演习；策略；调遣/vi. [军] 机动；演习；调遣；用计谋/vt. [军] 机动；演习；用计；调遣/
+
+
+
+Military manoeuvres are training exercises which involve the movement of soldiers and equipment over a large area. 演习
+Manoeuvre is also a noun. 操控手段
+If you manoeuvre a situation, you change it in a clever and skilful way so that you can benefit from it. 操控
+Manoeuvre is also a noun. 移动
+If you manoeuvre something into or out of an awkward position, you skilfully move it there. (熟练地) 移动
+manoeuvres |英/美 [mə'nuːvə]| vi. 调动；演习；用策略/vt. 诱使；操纵；耍花招/n. 策略（等于maneuvre）/
+Allied troops begin manoeuvres tomorrow to show how quickly forces could be mobilized in case of a new invasion.盟军部队明天开始演习，来展示一旦发生新的入侵，军队能以多快的速度集结起来。
+The company announced a series of manoeuvres to raise cash and reduce debt.这家公司宣布了一系列筹措现金、减少债务的手段。
+The president has tried to manoeuvre the campaign away from himself.总统试图操控该活动，使其远离自身。
+The chopper shot upward in a manoeuvre matched by the other pilot.这架直升飞机向上冲去，另一架飞机也以相同的移动方向冲了上去。
+I manoeuvred my way among the tables to the back corner of the place.我在那些桌子间穿行，来到那地方后面的角落。
+That will allow them to manoeuvre the satellite into the shuttle's cargo bay.那将使得他们能把人造卫星移入飞船的货物舱。
+
+
+n. [C] [尤美] 零花钱:
+n. [C] 为了补偿职工特殊（或额外）的劳动消耗所支付的“津贴”、“补贴”、“补助”，也可指因其他特殊原因支付给职工的“津贴”，其目的是减小物价水平对职工工资收入的影响。可以定期发放，也可以按次发放。还可指因特殊原因所获得的一定折扣，类似于discount，算是一种变相的补贴:
+n. [C] 因特殊原因所获得的一定折扣，类似于discount，算是一种变相的补贴:
+n. [C] 英国英语中可指免税额（本质上是一种额度）:
+n. [C] 在某一情况下对某一事物的限额、限量:
+allowance |[ə'laʊəns]
+annual, daily, monthly, weekly allowance 每年的补贴；每天的补贴；每月的补贴；每周的补贴 
+attendance, child, disability allowance（国家支付的）护理津贴；子女津贴；伤残津贴 
+living, housing, travel allowance 生活补贴；住房补贴；差旅补贴 
+an allowance of $20 a day 每天20美元补贴 
+personal tax allowances 个人所得免税额
+tax allowance 免税额 
+You’re entitled to a baggage allowance of 28 kilos. 你可以免费携带28公斤的行李。
+holiday allowance（英）规定的休假天数 
+daily allowance of vitamin C 维生素C的每日摄取量
+
+n. [C] 绰号（是一种非正式的，常含有幽默意味的称呼）:
+vt. [常用被动式] 给某人或某事物起绰号:
+nickname |[ˈnɪkneɪm]
+childhood nickname 儿时的绰号 
+affectionate nickname 亲昵的绰号 
+He used the nickname 'Brutus'. 他用了“布鲁图斯”这一绰号。
+He got his nickname 'Ash' from his heavy smoking. 他由于烟瘾极大而得了一个“烟灰”的外号。
+Their nickname for the club was 'Muscle Alley'. 他们给俱乐部起的外号是“肌肉胡同”。
+She was nicknamed ‘The Ice Queen’. 她外号叫“冰上王后”。
+The newspaper was once nicknamed The Thunderer. 这家报社曾被称为“怒吼者”。
+
+n. [C] [语法] 副词:
+adverb |[ˈædvɜ:b;美-vɜ:rb]
+In ‘speak kindly’, ‘incredibly deep’, ‘just in time’ and ‘too quickly’, ‘kindly’, ‘incredibly’, ‘just’ and ‘too’ are all adverbs. 在speak kindly、incredibly deep、just in time和too quickly四个短语中，kindly、incredibly、just和too都是副词。
+interrogative, sentence adverb 疑问副词；句子副词 
+Adverbs modify/qualify verbs. 副词修饰动词。
+an adverb of degree, an adverb of manner, an adverb of place, an adverb of time 程度副词；方式副词；地点副词；时间副词
+
+adj. 与人类的精神或心灵（而非肉体或外在事物）有关的，即精神的，心灵的。反义词为material:
+n. [C] 也可用Negro spiritual（不过Negro一词具有很强的冒犯性），指最初由美国的黑人奴隶所唱的一种宗教歌曲，即灵歌:
+adj. 与宗教有关的，即宗教的。不如religious常用:
+spiritual |['spɪrɪtʃuəl]
+spiritual development 精神上的发展 
+a lack of spiritual values in the modern world 现代世界精神价值的缺失 
+spiritual welfare 心理健康 
+This is a deeply spiritual piece of music. 这是一首能深深打动心灵的乐曲。
+a truly spiritual experience 真正的心灵体验 
+The music had an almost spiritual quality. 这支乐曲几乎已具有了精神意义。
+a spiritual leader 宗教领袖
+
+n. [C] 一条大型且重要的河流，即干流:
+n. [C] 动脉:
+n. [C] 一条大型且重要的道路、铁路线等，即干线:
+artery |[ˈɑ:təri;美ˈɑ:rt-]
+the point where the Ohio River, itself a great artery, joins the Mississippi 本身就是一条主干河道的俄亥俄河和密西西比河的交汇处
+main, major artery 主动脉 
+blocked, clogged artery 堵塞的动脉；阻塞的动脉 
+narrowed artery 变窄的动脉 
+severed artery 切断的动脉 
+The surgeon will widen her arteries. 外科医生将给她扩张动脉。
+Too much fatty food will make your arteries more likely to clog up. 吃太多的高脂肪食物会阻塞动脉。
+artery wall 动脉壁 
+artery blockage 动脉堵塞 
+She suffers from hardening of the arteries. 她患有动脉硬化。
+patients suffering from blocked arteries 患动脉栓塞的病人
+Clarence Street was one of the northbound arteries of the central business district. 克拉伦斯街是中央商业区北段部分的主干路之一。
+
+n. 1 [C] [英]（学校或大学考试或作业的）良好（是一种成绩等级）:
+2 [C] [英]（在学校操行好而获得的）良好（是一种品德等级）:
+vt. [不用于进行时] [正式] 应得、值得受到:
+n. [U] [正式] 好的且值得赞扬、奖赏或钦佩的品质，如价值:
+n. 1 [U] [正式] 好的且值得赞扬、奖赏或钦佩的品质，如美德、优点:
+2 [C, usually pl.] 值得赞扬、奖赏或钦佩的品特征，如优点、长处:
+merit |[ˈmerɪt]
+He claims that their success was not merited. 他声称他们不应该获得成功。
+The question hardly merits an answer. 这个问题简直不值得回答。
+Such ideas merit careful consideration. 这样的想法值得斟酌。
+The case does not merit further investigation. 这个案子不值得进一步调查。
+He said he had done nothing wrong to merit a criminal investigation. 他说自己没有干坏事，不应该受到刑事调查。
+academic, aesthetic, architectural, intellectual, legal, literary, musical, scientific, technical merit 学术价值；美学价值；建筑价值；知识价值；法律价值；文学价值；音乐价值；科学价值；技术价值 
+The movie has no artistic merit whatsoever. 这部电影毫无艺术价值。
+I found no artistic merit in this film. 我没发现这部影片有任何艺术价值。
+Box-office success mattered more than artistic merit. 票房上的成功比艺术价值更重要。
+a work of outstanding artistic merit 具有杰出艺术价值的作品 
+The plan is entirely without merit. 这个计划毫无价值。
+The argument seemed to have considerable merit. 这个论点似乎颇有价值。
+She proved her merit as a serious actress. 她证明了自己作为一名严肃演员的价值。
+She saw the merit in this arrangement. 她看到了这种安排的优点。
+I find no merit at all in any of the arguments. 我发现这些争论毫无意义。
+a lawsuit that lacked any real merit 毫无是处的诉讼
+She received a merit award for outstanding work. 她因为工作表现突出而获得了优秀奖。
+Films are given a rating of one to five stars according to merit. 影片根据优劣按一到五星评级。
+Prizes are awarded entirely on merit. 奖项完全根据表现来颁发。
+There is lots of merit to the idea. 这个想法有许多优点。
+I can see no merit in excluding the child from school. 我看不出开除这个孩子的学籍有什么好处。
+The winners are ranked in order of merit.（英）获胜者按照成绩排序。
+They weighed up the relative merits of the four candidates. 他们对四名候选人各自的优点作了比较。
+We need to consider the relative merits of both makes of dishwasher. 我们需要权衡两种品牌洗碗机相比较而言的优点。
+We need to assess the merits of both proposals before making our decision. 做出决定之前，我们需要对两个提案的优缺点进行评估。
+I began to question the merits of these new technologies. 我开始质疑这些新技术的优点。
+They have been persuaded of the merits of peace. 他们被劝服，认识到了和平的好处。
+the technical merits of a film 一部电影技术上的长处
+
+n. [sing.] 细菌（其复数为bacteria）:
+bacterium |[bæk'tɪərɪəm]
+to kill bacterium 杀菌（常用复数形式，即to kill bacteria）
+harmful bacteria 有害细菌 
+beneficial, healthy bacteria 有益的细菌；有益健康的细菌 
+a strain of bacteria 一个菌株
+
+adj. 为大多数人所使用或接受的，如通用的、流通的、流行的:
+n. [C]（思想、观点、感情等在一群人之中的）潮流:
+adj. [只用于名词前] 现在发生的、当前的、现在的:
+n. [C] 电流:
+n. [C]（海洋、江河、湖泊的）水流:
+n. [C]（朝某个方向流动的）气流:
+current |[ˈkʌrənt;美ˈkɜ:r-]
+words that are no longer current 已不再通用的词 
+This custom was still current in the late 1960s. 这种习俗在20世纪60年代末仍然很普遍。
+Current thinking suggests that toxins only have a small part to play in the build up of cellulite. 目前普遍认为，毒素对皮下脂肪团堆积影响不大。
+Each party represents a distinct current of thought. 每个党派代表一种不同的思潮。
+A strong current of nationalism runs through ideology and politics in the Arab world. 一股强烈的民族主义思潮涌入阿拉伯世界的思想体系和政治体系。
+Ministers are worried by this current of anti-government feeling. 部长们对这股反政府情绪感到担忧。           
+current prices 时价 
+a budget for the current year 今年的预算 
+your current employer 你现在的雇主 
+The current situation is very different to that in 1990. 当前的形势与1990年截然不同。
+He plans to repeal a number of current policies. 他计划废除一些当前的政策。
+electric, electrical current 电流 
+a 15 amp electrical current 15安培的电流 
+alternating current 交流电 
+direct current 直流电 
+input, invard current 输入电流 
+output, outward current 输出电流 
+Check all your wiring before switching on the current. 开启电流前要检查所有供电线路。
+Measure the current flowing in the wire. 测量电线中的电流。
+A powerful electric current is passed through a piece of graphite. 给一块石墨通入强电流。
+Under normal conditions, the ocean currents of the tropical Pacific travel from east to west. 在正常情况下，太平洋的热带洋流自东向西流。
+The prevailing current flows from east to west. 盛行洋流是自东往西流动的。
+He swam to the shore against a strong current. 他逆着急流游向岸边。
+The couple were swept away by the strong current. 这对夫妻被巨大的水流卷走了。
+The strong current carried the boat downstream. 急流将船冲向下游。
+The boat was carried along in the current. 船顺流而下。
+It's easier to go with the current. 顺流而下比较容易。
+water current 水流 
+rip, off-shore current 离岸流 
+tidal current 潮流 
+cold, warm current 寒流；暖流
+Birds use warm air currents to help their flight. 鸟利用暖气流助飞。
+convection current 对流 
+a current of air 一股气流 
+I felt a current of cool air blowing in my face. 我觉得脸上有一阵冷风吹过。         
+
+n. [sing.] bottom (of sth)（在一个班级或清单等中）最低（或最末）的位置；在此位置上（即排名最后）的一个人或一个团队等:
+adj. 名次在最低的位置的:
+n. [C] 根本原因:
+n. [C] 真实情况:
+n. [C, usually pl.] 一套服装（该套服装由上下两部分组成）的下半部分，如套装的裙或裤子:
+n. [sing.]（湖、河、游泳池、井、山谷等的）底部。在本组含义最广。bottom仅表示水体的底部，并不强调该底部的任何特征:
+n. 1 [C, usually sing.] bottom (of sth) 某事物最底端的部分，即底部、最下部:
+2 [C, usually sing.] bottom (of sth) 某事物的朝下的底部，通常看不到:
+3 [C, usually sing.] bottom (of sth) 一个容器内的最低的表面（即其内底表面）:
+adj. 1 –bottomed 构成形容词，指有某类底部的:
+2 只用于名词前，在最低、最后的地方（或位置）的，如底部的、最后的:
+n. [sing.] [尤英] the bottom (of sth) 某事物距离你（或距离你的住宅等）最远的部分，可称为尽头:
+adj. 只用于名词前，在最远的地方（或位置）的，如尽头的:
+n. [C] [尤英] 身体部位的臀部或屁股，相当于backside或behind:
+n. [C]（船）吃水线以下的部分，相当于hull:
+vi. bottom out可指（价格、一种恶劣局势等）停止恶化:
+bottom |['bɒtəm]
+a team at the bottom of the league 联盟排名最后的一个队 
+I was always bottom of the class in math. 我的数学成绩总是班上最后一名。
+He started at the bottom and worked his way up through the company. 他从公司最底层干起，一步步升至高层。 
+We came bottom with 12 points. 我们以12分垫底儿。
+I’d love to know what lies at the bottom of all this. 我想知道这一切究竟是怎么一回事。
+to go to bottom 弄清真相
+a bikini bottom 比基尼泳装的短裤 
+a pair of tracksuit bottoms 一条运动裤
+He dived in and hit his head on the bottom. 他跳进水里，头撞到了水底。
+the bottom of a swimming pool 游泳池的底 
+the bottom of a well 井底 
+the bottom of the sea 海底 
+the bottom of the valley 谷底
+at the bottom of each page 在每页的底部 
+The book I want is right at the bottom. 我想要的书就压在底层。
+the bottom of the steps 楼梯底部 
+bottom end, bottom half 底端；下半部 
+the bottom of the hill 山脚 
+The manufacturer’s name is on the bottom of the plate. 厂家的名称在盘子背面。
+I found some coins at the bottom of my bag. 我在我的手提包底找到了几枚硬币。
+Line the bottom of the cage with newspaper. 给笼子底部垫上报纸。
+a flat-bottomed boat 平底船 
+the bottom line (on a page)（一页的）最末一行 
+your bottom lip 下嘴唇 
+the bottom step (of a flight of stairs)（楼梯的）最低一级 
+on the bottom shelf 在架子底层 
+bottom drawer 下面的抽屉 
+in the bottom right-hand corner of the page 在这一页的右下角 
+the bottom end of the price range 最低价位 
+to go up a hill in bottom gear 用低档爬山
+the bottom of the street 街道的尽头 
+the bottom of the garden 花园的尽头 
+the bottom end of the road 道路的尽头
+bare bottom 光屁股 
+to slap bottom 打屁股
+The recession is finally beginning to show signs of bottoming out. 经济衰退终于出现了走出谷底的迹象。
+
+vt. 核实…的真实性或准确性:
+vt. 证明、证实（某事的真实性或正确性）:
+verify |[ˈverɪfaɪ]
+to verify authenticity 核实真实性 
+We have no way of verifying his story. 我们无法核实他所说的情况。
+Please verify that there is sufficient memory available before loading the program. 请在核实有足够的内存后再安装程序。
+I'll leave you to verify whether these claims are true. 我让你来查核这些说法是否属实。
+I verified the source from which I had that information. 我核实了我所获消息的来源。
+A clerk simply verifies that the payment and invoice amount match. 职员只是核实付款和发票上的数额是否一致。
+Further experiments will be carried out to verify this result. 需要进一步的实验以核实这个结果。
+Her version of events was verified by neighbours. 她对这些事件的说法已得到邻居的证实。
+The government has not verified any of those reports. 政府还没有证实那些报告中的任何一个。
+I can verify that it takes about thirty seconds. 我能证明，这大约要用30秒的时间。           
+
+n. 1 [U] 对一个国家、建筑物或人所采取的保护措施，使其免受攻击或损害。强调因预先做好了防御措施而具有安全感:
+2 [U] 对未来可能发生的坏事所采取的保护性措施:
+3 [U] 公司或机构中的保安部门:
+n. [U] 安全感，安心:
+n. [U] 复数形式securities可指证券，形式上是一种单据或凭证。它是各种有价证券的总称，包括股票、债券等:
+n. [U, C] 贷款的抵押品:
+security |[sɪ'kjʊərɪtɪ]
+national, state security 国家安全 
+aviation, airport, border, port security 航空安全；机场安全；边境安全；口岸安全 
+personal, home security 人身安全；家庭安全 
+computer, data, information, network security 计算机安全；数据安全；信息安全；网络安全 
+security apparatus, security force, security services 安全机构；安全部队 
+security expert, security officer, security official, security guard 安全专家；安全官员；保安人员 
+security matters, security measures, security issue, security situation 安全事务；安全措施；安全问题；安全形势 
+security concerns, security risk, security threat 安全隐患；危险分子；安全威胁 
+security breach 违反安全规定 
+security check 安全检查 
+security camera, security device, security video 监控摄像头；安保设施；监控录像 
+The bars are to provide security against break-ins. 这些铁条是为了防止盗贼进入。
+financial security 财务担保 
+Job security is a thing of the past. 稳定的工作是过去的事了。
+Security was/were called to the incident. 保安人员被叫到事发现场。
+a feeling of security, a sense of security 安全感 
+emotional, psychological security 情感上的安全感；心理上的安全感 
+economic, financial security 经济保障；财务保障 
+job security 就业保障 
+energy, food security 能源安全；粮食安全
+company, government, Treasury（尤美）securities 公司证券；政府证券；国库券 
+high-yield, top-rated securities 高收益的证券；最高信用评级的证券 
+securities company, securities firm 证券公司 
+securities market 证券市场 
+securities broker 证券经纪人
+She pledged her necklace as security for a loan. 她用项链作抵押申请贷款。
+The bank will make a loan against the security of the lender’s house. 银行将会凭借款人的住房抵押提供贷款。
+
+vt. [正式] 诱使某人去做某事:
+vt. [正式] 引起，导致:
+vt. [正式] 劝说某人去做某事:
+vt. [医学] 引产、催生:
+induce |[ɪnˈdju:s;美-du:s]
+Nothing would induce me to take the job. 没有什么能诱使我接受这份工作。
+drugs which induce sleep 使人昏昏欲睡的药物 
+a drug-induced coma 药物引起的昏迷状态 
+Doctors said surgery could induce a heart attack. 医生们说手术有可能引起心脏病发作。
+an economic crisis induced by high oil prices 由高油价引发的经济危机
+I would do anything to induce them to stay. 我会想尽一切办法劝他们留下来。
+More than 4,000 teachers were induced to take early retirement. 4000 多名教师被说服提前退休。
+an induced labour 引产 
+We'll have to induce her. 我们得给她引产。
+He might decide that it is best to induce labour. 他也许决定最好引产。
+
+adj.（人们、地方、经济等）有钱且成功的，如繁荣的、兴旺的、富裕的:
+prosperous |[ˈprɒspərəs;美ˈprɑ:s-]
+economically prosperous 经济上繁荣 
+prosperous countries 繁荣的国家 
+this once prosperous region 这个一度繁荣的地区 
+The place looks more prosperous than ever. 这地方显得空前繁荣。
+Suburbs sprawled out to provide homes for the newly prosperous. 市郊无序地向外扩张以便为新富起来的人提供住房。
+the youngest son of a relatively prosperous British family 一个相对富裕的英国家族中最小的儿子
+
+Something that is cohesive consists of parts that fit together well and form a united whole. 有聚合力的
+cohesive |英 [kəʊ'hiːsɪv]  美 [ko'hisɪv]| adj. 凝聚的；有结合力的；紧密结合的；有粘着力的/
+"Daring Adventures" from '86 is a far more cohesive and successful album.1986年出的《勇敢的冒险》是一张极富凝聚力、极成功的唱片集。
+
+
+vt.（用广告等）销售…:
+n. 1 [U] [正式] 供买卖的货品；商店里出售的货物:
+2 [U] 与某个事件或组织机构有关的（或对此事件或组织机构起宣传作用的）商品，如相关商品、指定商品:
+merchandise |[ˈmɜ:tʃəndaɪs;-daɪz;美ˈmɜ:rtʃ-]
+general merchandise 百货 
+branded merchandise 名牌商品 
+licensed merchandise（尤美）特许商品 
+quality merchandise 优质商品 
+free merchandise 免费货品 
+a sub-standard piece of merchandise 一件不合格的商品 
+The company carries a wide range of merchandise. 这家公司提供各种各样的商品。
+official Olympic merchandise 奥林匹克运动会正式指定商品
+
+resign (as sth)（从公司、组织机构等）辞去职务，辞职:
+resign |[rɪ'zaɪn]
+vt.＆vi. resign (from sth) 
+He resigned as chairman. 他辞去了主席一职。
+
+n. [C] 包含一个或多个单芯电池（cell）的一种装置，可称为“电池”、“电池组”:
+n. 1 [C] battery (of sth) 同种类的大量事物或人，即一系列；一批；一群等:
+2 [C] [术语] 在某一地的一排或一组设备（如一排大炮、灯或电脑）:
+n. [C] [英] 常用作形容词，指养殖场使用的层架式饲养笼（如此类鸡笼）（由很多小笼子组合在一起所形成）:
+n. [U] [美] 对人身进行殴打的罪行，即殴打罪:
+battery |['bætərɪ]
+a rechargeable battery 可充电的电池 
+The battery is flat. 电池没电了。
+dead, flat battery 电量用完了的电池 
+spare battery 备用电池 
+car, laptop, phone battery 汽车蓄电池（电瓶）；笔记本电脑电池；手机电池 
+battery life 电池寿命 
+battery pack 电池组
+He faced a battery of questions. 他面临一连串的问题。
+a battery of reporters 一大批记者 
+a battery of tests 一系列测试 
+a battery of guns 一排大炮 
+anti-aircraft battery 高射炮组 
+a battery hen 层架式养鸡笼养的母鸡 
+battery eggs 层架式养鸡场所产的蛋
+He punched a man in a club and was charged with battery. 他在一家俱乐部里打了人，结果被指控犯了殴打罪。
+
+vt. 促使某人想要做某事（尤指难事、需要付出努力之事），如激励:
+vt. [常用被动式]（尤指心理或情绪）成为某人做某事（或某人的行为方式）的动机或原因:
+vt. [南非，正式] 就所说的话给出理由或原因:
+motivate |[ˈməʊtɪveɪt;美ˈmoʊ-][ˈməʊtɪveɪt;美ˈmoʊ-]
+She's very good at motivating her students. 她非常擅长激励她的学生。
+to motivate employees to work more efficiently 促使员工更加卓有成效地工作
+He is motivated entirely by self-interest. 他做事完全出于私利。
+The crime was not politically motivated. 该犯罪行为没有政治动机。
+They are motivated by a need to achieve. 对成功的渴望激励着他们。
+Please motivate your answer to question 5. 请解释你对第5题所作的回答。
+
+vt. 减轻、缓和、缓解。相当于ease:
+vt. 减轻、缓解:
+alleviate |[əˈli:vieɪt]
+to alleviate suffering 减轻苦难 
+Nowadays, a great deal can be done to alleviate back pain. 如今，减轻背部疼痛可以有许多方法。
+the problem of alleviating mass poverty 摆脱普遍贫困的难题 
+A number of measures were taken to alleviate the problem. 采取了一系列措施缓解这个问题。
+These problems have been greatly alleviated by the passing of the new Act. 新条例的通过使这些问题得以大大缓解。
+These measures are designed to alleviate the situation. 这些措施旨在缓和局势。
+Her words did little to alleviate his fears. 她的话没怎么减轻他的恐惧感。
+Nowadays, a great deal can be done to alleviate back pain. 如今，减轻背部疼痛可以有许多方法。
+
+n.（通常用the Senate）[C] 某些国家的大学理事会，大学评议会:
+n.（通常用the Senate）1 [sing.] 参议院（美国、澳大利亚、加拿大、法国等国家的两个立法机构之一；美国许多州议会也设有参议院）:
+2 [sing.] 古罗马的元老院:
+senate |[ˈsenət]
+the senate of London University 伦敦大学评议会 
+By the time I was Vice Chancellor, Senate had become a much larger and a much more democratic body. 到了我当校长的时候，大学评议会的人员规模已显著扩大，也变得更加民主了。
+The new bill would remove student representation from the university Senate. 新议案将取消大学评议会中的学生代表。
+a member of the Senate 参议员 
+a Senate committee 参议院委员会 
+The Senate is expected to pass the bill shortly. 预计参议院不久就会通过此议案。
+
+The Senate is the governing council at some universities. (某些大学的) 评议会
+The Senate is the smaller and more important of the two parts of the legislature in some US states and in some countries, for example, the United States and Australia. (美国、澳大利亚等国的) 参议院
+Senate |英 ['senɪt]  美 ['sɛnət]| n. 参议院，上院；（古罗马的）元老院/
+By the time I was vice chancellor, the Senate had become a much larger and a much more democratic body.到我做副校长的那个时候，大学评议会已经成为一个更大、更民主的机构了。
+The Senate is expected to pass the bill shortly.预计参议院将很快通过这项议案。
+
+
+vt. 在一幅画中展示某人或某事物；在一篇文章中描述某人或某事物。如描绘或描写:
+vt. ~ sb/sth (as sb/sth) 将…描绘成…（尤指描绘得不全面或不准确）。如表现、刻画:
+vt.（在电影中）扮演某个角色:
+vt. 在一篇文章中描述某人或某事物:
+vt. ~ sb/sth (as sb/sth) 将…描绘成…（尤指描绘得不全面或不准确）:
+vt. 在一幅画中展示某人或某事物。如描绘或描写:
+vt.（在电影中）扮演某个角色:
+portray |[pɔ:ˈtreɪ;美pɔ:rˈt-]
+the landscape as portrayed by painters such as Claude and Poussin 克劳德和普桑等画家所描绘的风景 
+The museum collection vividly portrays the heritage of 200 years of canals. 博物馆的藏品生动地再现了运河200年的历史。
+this northern novelist, who accurately portrays provincial domestic life. 这位准确描述外省家庭生活的北方小说家 
+an incident that graphically portrays the dangers associated with this sport 形象地反映该项体育运动存在危险的事件 
+Throughout the trial, he portrayed himself as the victim. 在审讯过程中，他始终把自己说成是受害者。
+She says the programme portrayed her as a 'lady of easy virtue'. 她说这个节目把她刻画成了一个“水性杨花的女人”。
+complaints about the way women are portrayed in adverts 投诉在广告中如此刻画女性
+In 1975 he portrayed the king in a Los Angeles revival of 'Camelot'. 他1975年在洛杉矶重新上演的剧目《卡米洛》中扮演国王。
+this northern novelist, who accurately portrays provincial domestic life. 这位准确描述外省家庭生活的北方小说家 
+Throughout the trial, he portrayed himself as the victim. 在审讯过程中，他始终把自己说成是受害者。
+the landscape as portrayed by painters such as Claude and Poussin 克劳德和普桑等画家所描绘的风景 
+The museum collection vividly portrays the heritage of 200 years of canals. 博物馆的藏品生动地再现了运河200年的历史。
+an incident that graphically portrays the dangers associated with this sport 形象地反映该项体育运动存在危险的事件
+Her father will be portrayed by Sean Connery. 肖恩·康纳利将饰演她的父亲。
+the busty and rumbustious Mrs Hall, excellently portrayed by Toni Palmer 由托妮·帕默精彩演绎的胸部丰满、吵吵嚷嚷的霍尔太太

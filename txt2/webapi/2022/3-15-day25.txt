@@ -1,0 +1,657 @@
+committee						委员会
+civilian						平民，平民的
+domestic						国内的，家里的
+complex						复杂的，建筑群，情节
+locate						把...设置在
+tighten						使变紧，使更严格
+physics						物理学
+foothold						立足处
+discharge						解雇，流出，履行，出院
+advanced						高级的，先进的，晚期的
+in advance						预先
+complicated					复杂的，棘手的
+needy							贫穷的
+stale							不新鲜的，厌倦的
+casual						偶然的，随意的，临时工，便装
+conform						遵从，符合
+recharge						给...充电
+annually						每年
+frown							皱眉
+decline						下降，恶化，婉拒
+originate						起源，创作，引发
+prospect						希望，景色，潜在客户，勘探
+prospects						成功机会
+curious						好奇的
+incentive						刺激，优惠
+virus							病毒，毒害
+cultivate						耕作，培养，建立
+potential						潜在的，可能的，潜力
+reluctant						不情愿的
+miserable						痛苦的，不幸的
+persuasion						说服，信仰
+competitiveness					竞争意识，竞争力
+\\\\\\\\
+
+n. [C] 被选出来（通常由一个更大的组织所选出来）的负责做出决策或处理某一事务的一群人，即委员会。政治领域较常见:
+committee |[kə'mɪtɪ]
+a committee meeting 委员会的会议 
+central committee 中央委员会 
+standing committee 常务委员会 
+ad hoc, special committee 临时委员会；特别委员会 
+senate committee 参议院委员会 
+executive, management, steering committee 执行委员会；管理委员会；指导委员会 
+advisory, consultative committee 顾问委员会；咨询委员会 
+disciplinary, investigating, planning committee 纪律委员会；调查委员会；计划委员会 
+finance committee 财务委员会 
+a committee on the safety of medicines 医药安全委员会 
+a committee of experts 专家委员会
+
+n. [C] 平民、老百姓，是一个与军人或警察相对的概念，强调武力上的一种弱势地位:
+adj. 用于表示非军事的人或事物，如平民的、民用的:
+civilian |[sɪ'vɪljən]
+unarmed civilian 手无寸铁的平民 
+the killing of innocent civilians 屠杀无辜平民 
+ordinary civilian 普通平民 
+local civilian 当地平民 
+the country’s civilian population 该国家的平民人口 
+civilian casualties 平民伤亡
+
+adj.（动物）驯养的，作为宠物来饲养的、非野生的:
+adj. [只用于名词前] 1 家用的、家庭的、家务的:
+2 喜爱家庭生活的、享受家庭乐趣的、乐于操持家务的:
+n. [C]（也可用domestic help或domestic worker）家庭里的佣人、家政工:
+n. [C] [英，非正式] 家庭成员之间的纠纷或矛盾:
+adj.（动物）驯养的，非野生的:
+adj. [常用于名词前] 本国的、国内的:
+domestic |[dəˈmestɪk]
+a domestic cat 家猫
+domestic appliances 家用器具 
+a plan for sharing domestic chores 分担家务活的计划 
+the growing problem of domestic violence (= violence between members of the same family) 日趋严重的家庭暴力问题 
+I was called out to attend a domestic dispute. 我被叫出去解决一场家庭纠纷。
+It was a scene of such domestic bliss. 这是一幅家庭如此幸福的画面。
+domestic service (= the work of a servant in a large house) 家政服务 
+domestic help (= help with the work in a house; the person or people who do this work) 家务帮助；家佣 
+I'm not a very domestic sort of person. 我不是那种很喜欢待在家里的人。
+She was kind and domestic and put her family before her part-time job. 她人很好也顾家，把家庭看得比兼职工作更为重要。
+The police were called to sort out a domestic. 已叫警察来解决家庭纠纷。
+domestic animal 家畜        
+domestic affairs, domestic politics 国内事务；国内政治 domestic flights (= to and from places within a country) 国内航班 
+Output consists of both exports and sales on the domestic market. 产量包括出口和国内市场销售两部分。
+
+adj. 由很多相互关联的不同事物或部分组成的，即复杂的；还可指难以理解的，即难懂的，费解的:
+n. [C] 对某事的不正常忧虑:
+n. [C] 尤用于构成复合词，指不正常的精神状态；情结:
+n. [C] 相关联的一组事物:
+n. [C] 坐落在同一地方的，类型相似的一群建筑:
+adj.（单词或句子）复合的（即由一个主要部分和一个或多个其他部分组成的，具体可指词根加有词缀或主句含有从句）:
+complex |['kɒmpleks]
+complex machinery 结构复杂的机器 
+the complex structure of the human brain 错综复杂的人脑构造 
+complex argument, complex problem, complex subject 难懂的论证；难懂的问题；难懂的科目 
+a complex system of voting 一套复杂的表决机制 
+This is a highly complex matter. 这件事非常复杂。
+technically complex surgery 技术上复杂的外科手术
+to have a complex about ... 对…的不正常忧虑 
+Don’t nag him about his handwriting or he’ll get a complex. 别总是指责他的书写，要不然他一写字就紧张。
+to give sb complex 令某人产生心理症结
+persecution complex 受迫害妄想症 
+inferiority, superiority complex 自卑感；优越感 
+to suffer from a guilt complex 蒙受负罪感之苦
+a complex of issues 一组相关的问题
+huge, large, vast complex 巨大的建筑群 
+entertainment, leisure, shopping, sports complex 娱乐中心；休闲娱乐中心；购物中心；体育中心 
+apartment（美）, factory, hospital, housing, museum, office complex 公寓楼群；厂区；医院综合楼；住宅区；博物馆楼群；办公楼群 
+industrial, military complex 工业区；军事区
+
+vt. 把…安置在（或建造于）某地:
+vi. [尤美]（在某地）创办公司或企业:
+vt. 找出或确定…的准确位置:
+locate |[ləʊˈkeɪt;美ˈloʊkeɪt]
+They located their headquarters in Swindon. 他们把总部设在了斯温登。
+Tudor Court represents your opportunity to locate at the heart of the new Birmingham. 都铎宛，您在新伯明翰中心区置业的好机会。
+The hotel is centrally located between Dam Square and Central Station. 宾馆位于水坝广场和中央火车站之间，处于中心地段。
+Courtrooms are typically located in the interior of the building. 法庭通常位于大楼的内部。
+Tribal lands are primarily located in remote rural regions. 部族土地基本上都处在偏远的乡村地区。
+Two people can meet in virtual reality even if physically located in different continents. 两个人即便身处不同的大陆，也可以在虚拟现实中相遇。
+The Web connects members regardless of where they are located geographically.无论成员身处什么地理位置，网络都把他们连在了一起。
+The hotel is conveniently located within walking distance of the beach. 宾馆离海滩步行就可以到，很方便。
+There are tax breaks for businesses that locate in rural areas. 在农村地区创办企业享有税收减免。
+tax breaks for businesses that locate in run-down neighbor-hoods 针对开办在老旧街区的商户的减税措施 
+Atlanta was voted the best city in which to locate a business by more than 400 chief executives. 逾400名行政总裁投票推选亚特兰大为最适宜开办公司的城市。
+The company has increased the share of jobs located overseas. 公司增加了海外岗位的比例。
+The mechanic located the fault immediately. 机修工立即找到了出故障的地方。
+Rescue planes are trying to locate the missing sailors. 救援飞机正在努力查明失踪水手的下落。
+The scientists want to locate the position of the gene on a chromosome. 科学家们希望找出该基因在染色体中的位置。
+We've simply been unable to locate him. 我们就是没办法找到他。
+The machine can accurately locate radioactive material. 这台机器能准确地确定放射性物质的位置。
+We haven't yet been able to locate a suitable site. 我们仍然没能找到一个合适的场所。
+Some stars are very easy to locate with a telescope. 有些星星用望远镜可以很容易地找到。
+She took time to help me locate research materials. 她花时间帮我找研究材料。
+
+vt.&vi. ~ (sth) (up)（使）抓紧、攥紧:
+vt.&vi.（使）绷紧，拉紧（绳子、链子）:
+vt.&vi. 拧紧，旋紧（螺钉、螺丝帽、盖子等）:
+vt.&vi.（使）（政府或组织机构）严格控制（一群人或一项活动）:
+vt. ~ (sth) (up) 使（规定、政策、制度）更加严格，如加强:
+vi.（身体部位）变僵硬，产生憋闷感，产生阻塞感:
+tighten |[ˈtaɪtn]
+She tightened her grip on his arm. 她抓他的手臂抓得更紧了。
+Luke answered by tightening his grip on her shoulder. 卢克的回应就是把她的肩头抓得更紧了。
+Her arms tightened about his neck in gratitude. 她充满感激，把他的脖子搂得更紧了。
+His hand tightened painfully around her wrist. 他的手紧紧握住她的手腕，弄得她生疼。
+Her grip seemed to tighten on the door handle. 她似乎把门把手抓得更紧了。
+Her fingers tightened unconsciously with every jolt she received. 她每受一次颠簸，她的手指都会无意识地并拢。
+The anchorman flung his whole weight back, tightening the rope. 那个压阵队员使尽了全身力气往后拽，把绳子拉得紧紧的。
+The cables tightened and he was lifted gradually from the deck. 缆绳绷紧了，他被慢慢地吊离了甲板。
+to tighten a rope/knot 绷紧绳子；打紧结 
+The rope holding the boat suddenly tightened and broke. 系船的绳子突然绷断了。
+I used my thumbnail to tighten the screw on my lamp. 我用拇指指甲把台灯上的螺钉拧紧了。
+All the bolts were fully tightened. 所有的螺钉都拧紧了。
+The nuts weren't properly tightened and the wheel came off. 螺母没拧紧，轮子脱落了。
+to tighten a lid 拧紧盖子
+He knows he has considerable support for his plans to tighten his grip on the machinery of central government. 他清楚有相当多的人支持他对中央政府机构加强控制的计划。
+As the regime's grip on the mainland tightened over the next few years, hundreds of thousands more people fled south. 随着后来几年那个政权加强对大陆的控制，又有数十万人逃往南方。
+to tighten security 加强安全措施 
+The United States plans to tighten the economic sanctions currently in place. 美国计划加大现有经济制裁的力度。
+They have tightened security along the border. 他们加强了边境的安全工作。
+His mouth tightened into a thin hard line. 他的嘴紧绷成—道细缝。
+Sofia's throat had tightened and she couldn't speak. 索菲娅喉咙哽住了，说不出话来。
+His words made her throat tighten. 他的话使她喉咙发紧。
+She saw his jaw tighten and his face lose its colour. 她看见他的下巴绷紧，脸色煞白。
+Her face tightened with pain. 她痛得紧绷着脸。
+He felt his stomach tighten. 他感到肚子发紧。
+He saw his father's jaw tighten in irritation. 他看到父亲气得紧咬牙关。
+
+n. [U] 物理学:
+physics |['fɪzɪks]
+classical physics 经典物理学 
+modern physics 现代物理学 
+applied, theoretical physics 应用物理学；理论物理学 
+nuclear physics 核物理学 
+college, university physics 大学物理 
+the law of physics 物理定律
+
+n. [C] 攀登时足可踩的缝、洞、树枝等:
+n. [usually sing.]（可以此发展或取得成功的）立足点、稳固地位:
+foothold |[ˈfʊthəʊld;美-hoʊld]
+He lowered his legs until he felt he had a solid foothold on the rockface beneath him. 他把腿向下伸，直到他感觉稳稳地踩住下面的石头。
+firm, secure foothold 稳当的踏脚处 
+He found a secure foothold and pulled himself up. 他找到了一个稳当的踏脚处并爬了上去。
+She scrabbled for a foothold on the steep grassy bank. 她在长满草的陡岸边摸索踩脚的地方。
+The company has a firm foothold in this market. 该公司在这个市场已经站稳了脚跟。
+The company is trying to gain a foothold in the European market. 这个公司正设法立足欧洲市场。
+If British business is to have a successful future, companies must establish a firm foothold in Europe. 如果英国公司想在未来成功发展，就必须在欧洲建立稳固的基础。
+I hope the book will provide a foothold for students of the subject. 我希望这本书能让本专业的学生打下基础。
+
+vt. [常用被动式] ~ sb (from sth) 给予某人正式许可，让其离开一份工作；使某人丢掉一份工作（如解雇）:
+n. [U, C] ~ (from sth) 免职:
+vt. [常用被动式] ~ sb (from sth) 给予某人正式许可，让其离开一个地方:
+n. [U, C] ~ (from sth) 正式准许（或告诉）某人让其离开某地，尤指让某人出院、退伍或将其免职:
+vt.&vi. ~ (sth) (into sth)（气体或液体）排出、放出、流出:
+n. [U, C]（液体或气体的）排出、放出、流出；也可指此类排放物质或流出物质:
+vt. [正式] 尽一切必要之努力来履行或完成某项职责、责任、义务:
+n. [U] [正式]（任务或职责的）履行，执行:
+n. [U, C] 放电:
+vt.&vi. [术语] 发（力）；放（电）:
+vt. [正式] 清偿（债务）:
+n. [U] [正式]（债务的）清偿:
+vt. [正式]（某人）开火、击发（枪、炮）:
+n. [C]（枪、炮的）击发:
+n. [C]（从监狱或法庭中）释放:
+vt. [常用被动式] 允许某人离开监狱或法庭，即释放:
+discharge |[dɪsˈtʃɑ:dʒ;美-ˈtʃɑ:rdʒ]
+He was discharged from the army following his injury. 他受伤后就退伍了。
+He was found guilty and dishonourably discharged from the army. 他被判有罪，被开除军籍。
+She was discharged from the police force for bad conduct. 她因行为不轨被清除出警察队伍。
+Patients were being discharged from the hospital too early. 病人都过早获准出院。
+She had discharged herself against medical advice. 她不听医嘱擅自出院了。
+He has a broken nose but may be discharged today. 他鼻梁断了，但或许今天就能出院。
+He was discharged from the army following his injury. 他受伤后就退伍了。
+He was found guilty and dishonourably discharged from the army. 他被判有罪，被开除军籍。
+She was discharged from the police force for bad conduct. 她因行为不轨被清除出警察队伍。
+honourable discharge 光荣退役
+The river is diverted through the power station before discharging into the sea. 这条河改道经水电站后流入大海。
+The factory was fined for discharging chemicals into the river. 这家工厂因往河里排放化学物质而被罚款。
+Raw sewage was discharged from the treatment plant directly into the river. 未经处理的污水从处理厂直接排入河中。
+The resulting salty water will be discharged at sea. 所产生的盐水将被排入大海。
+The bird had trouble breathing and was discharging blood from the nostrils. 那只鸟呼吸困难，并且鼻孔里还在流血。
+industrial, sewage, waste discharge 工业排放；污水排放；废物排放 
+radioactive discharge（尤英） 放射性物质的排放 
+All discharges and disposals of radioactive waste from Springfields were within relevant limits. 斯普林菲尔德所有放射性废料的排放和处理都在限定的范围之内。
+a ban on the discharge of toxic waste 禁止有毒废物的排放 
+nasal, vaginal discharge (= from the nose/vagina) 鼻涕；阴道分泌物 
+a thick discharge from the nose 浓鼻涕 
+They develop a fever and a watery discharge from their eyes. 他们开始发烧，眼睛里分泌出一种水状物。
+I will faithfully discharge my duties. 我将忠诚地履行我的职责。
+to discharge your responsibilities, to discharge your obligations 履行责任；履行义务 
+the quiet competence with which he discharged his many college duties 他得以胜任众多大学职务的那种内秀           
+the discharge of obligations 义务的履行
+thunder and lightning caused by electrical discharges 由放电产生的雷电 
+Lightning is caused by clouds discharging electricity. 闪电是由云层放电产生的。
+The goods will be sold for a fraction of their value in order to discharge the debt. 货物将被贱价卖出以清偿债务。
+the discharge of debts 债务的清偿
+Lewis was tried for unlawfully and dangerously discharging a weapon. 刘易斯因非法和不安全的开枪而受到了审判。
+The police officer accidentally discharged a firearm while unloading it. 警官在给枪退弹时不小心走了火。
+an accidental discharge from a dropped gun 枪掉在地上走火
+absolute discharge（英）无条件释放 
+conditional discharge （英） 有条件释放 
+He was given an absolute discharge but banned from driving for 12 months. 他获得无条件释放，但12个月内禁止驾驶。
+to conditionally discharge（英）有条件释放 
+He was conditionally discharged after admitting the theft. 他承认偷盗行为后被有条件地释放了。
+She was formally discharged by the court. 她被法庭正式释放。
+
+adj. 处于发展的晚期或后期的:
+adj. 1（技术、设备、方法、设计、制度、国家等）先进的:
+2（学生）程度高的；（课程）高阶段的:
+adj. 高龄的、年事已高的:
+adj.（疾病）处于晚期的:
+advanced |[ədˈvɑ:nst;美-ˈvænst]
+the advanced stages of the disease 疾病晚期 
+'Medicare' is available to victims of advanced kidney disease. 老年医疗保险也适用于肾病晚期患者。
+The disease was too far advanced for doctors to operate. 病已发展到晚期，即使医生做手术也于事无补了。
+His ideas should be more advanced by the time the Committee meets in Edinburgh in October. 到委员会10月份在爱丁堡开会时，他的观点应该更为成熟了。
+advanced technology 先进技术 
+the most advanced optical telescope in the world 世界上最先进的光学望远镜 
+advanced industrial societies 先进的工业社会 
+a technologically advanced society 科技发达的社会 
+a highly advanced economy 高度发达的经济 
+Without more training or advanced technical skills, they'll lose their jobs. 没有进一步的培训或高级技能的话，他们就会丢掉工作。
+The course is suitable for beginners and advanced students. 本课程适合初学者及程度较高者。
+The lab has recently been updated to allow for more advanced courses. 实验室最近经过更新，可以上更高阶的课程了。
+There were only three of us on the advanced course. 只有我们三人学高级课程。
+The gentleman, despite his advanced years, helped Kathryn back to her seat. 这位绅士，尽管年事已高，仍然帮着凯瑟琳回到座位上。
+the advanced stages of the disease 疾病晚期 
+'Medicare' is available to victims of advanced kidney disease. 老年医疗保险也适用于肾病晚期患者。
+The disease was too far advanced for doctors to operate. 病已发展到晚期，即使医生做手术也于事无补了。
+
+adj. 由很多相联系的事物或部分组成的（即复杂的）；难以理解的；难处理的:
+complicated |[ˈkɒmplɪkeɪtɪd;美ˈkɑ:m-]
+a complicated system 复杂的系统 
+a very complicated voting system 非常复杂的选举体制 
+The instructions look very complicated. 这说明书看起来很难懂。
+It's all very complicated─but I'll try and explain. 尽管这一切都很难理解，但我会尽力解释。
+It all sounds very complicated. 听起来一切都非常复杂。
+This is where the story gets complicated. 故事从这儿开始变得复杂起来。
+The situation in Lebanon is very complicated. 黎巴嫩的情况十分复杂。
+The world of finance is fiendishly complicated. 金融界极度复杂。
+
+adj.（人）缺乏自信的；需要精神支持的:
+adj.（人）没有足够的衣食、住房、医疗等基本生活条件的，即贫穷的:
+n. [pl.] the needy可指贫困的人（即没有足够的基本生活条件者）:
+needy |[ˈni:di]
+emotionally needy 情感上需要支持的
+a multinational force aimed at ensuring that food and medicine get to needy Somalis 旨在确保将食物和药品送至贫困的索马里民众手中的多国部队 
+a woman who looked needy 一个看起来贫穷的女人 
+financially needy 经济上穷困的 
+the children of poor and needy parents来自贫困家庭的孩子 
+
+adj.（因持续做某事时间太长而）厌倦的、腻烦的、不能再把事情做好（或不能再产生新创意的）:
+adj. 1（食物，尤指面包和糕点）不新鲜的、吃起来味道不正常的:
+2（空气、烟等）不新鲜的、难闻的:
+3（所说或所做的事情等）陈腐的、没新意的、老掉牙的:
+stale |[steɪl]
+After ten years in the job, she felt stale and needed a change. 在那个岗位干了十年之后，她觉得腻了，需要换换工作。
+I believe in progression, in taking risks, in never getting stale. 我崇尚进取、冒险和永不倦怠。
+This bread's going stale. 面包已经不新鲜了。
+Their daily diet consisted of a lump of stale bread, a bowl of rice and stale water. 他们的日常饮食包括一块不新鲜的面包、一碗米饭和变味的水。
+stale cigarette smoke 难闻的烟味儿 
+The atmosphere was stale with cigarette smoke. 烟味儿令空气污浊。
+The room smelled musty and stale. 这个房间闻起来有股发霉的味儿。
+the smell of stale sweat 汗臭味 
+A layer of smoke hung low in the stale air. 一层烟雾低悬在污浊的空气中。
+stale jokes 老掉牙的笑话 
+The Government, he said, were sticking to stale ideas. 他说政府仍在抱残守缺。
+His subject matter has grown stale. 他的题目已经不新鲜了。
+Their marriage had gone stale. 他们的婚姻已了无热情。
+Her relationship with Mark has become stale. 她和马克之间已经没有新鲜感了。
+
+adj. 非正式的:
+adj. 常作前置定语，（关系）感情不深的，疏远的:
+adj. 1 常作前置定语，不在乎的，不多想的，看起来不担心的，不想表明某事对你是重要的:
+2 常作前置定语，不注意细节的，即马虎的，疏忽的:
+n. [pl.] casuals可表示非正式的鞋，即便鞋:
+n. [pl.] casuals可表示非正式的服装或鞋，即休闲服，便装:
+adj. 非正式的:
+adj. [英] 常作前置定语，（工作）临时的或不定期的:
+n. [C] 临时工:
+adj. 只作前置定语，偶然发生的，碰巧做某事的，或未经计划的:
+casual |['kæӡuəl]
+casual clothes 便装 
+family parties and other casual occasions 家庭聚会和其他非正式场合
+a casual acquaintance 泛泛之交 
+a casual friendship 一般的友谊
+a casual manner 漫不经心的样子 
+a casual remark 不经意说出的话 
+a casual attitude 无所谓的态度 
+a casual glance 随便扫一眼 
+It’s obvious even to the casual observer. 即便再马虎的人也能一眼看明白是怎么回事。
+dressed in casuals 穿着便装 
+casual clothes 便装
+casual worker, casual labour 临时工 
+to do casual work 做零工 
+They are employed on a casual basis. 他们被雇为临时工。
+casual encounter, casual meeting 不期而遇；邂逅 
+a casual passer-by 碰巧过路的人 
+The disease is not spread by casual contact. 此病不会通过偶然接触传染。
+a casual remark 随意说的话
+
+vi. ~ (to sth) 在思想或行为上与群体或社会里的大多数人一致，如顺从、顺应、随大流:
+vi. ~ to/with sth 遵守一项规则、法律等:
+vi. ~ to sth 与某事物的样式、类型等相一致、相符合、相吻合:
+conform |[kənˈfɔ:m;美-ˈfɔ:rm]
+There is considerable pressure on teenagers to conform. 年轻人被大力要求顺应主流。
+Many children who can't or don't conform are often bullied. 很多不能或不去随大流的小孩常常被人欺负。
+He did not feel obliged to conform to the rules that applied to ordinary men. 他觉得自己没义务去遵守那些普通人才会去遵守的规定。
+He refused to conform to the local customs. 他拒绝遵从当地的风俗习惯。
+The toys fail to conform to current safety standards. 这些玩具不符合现行的安全标准。
+This equipment conforms fully with the latest safety regulations. 这件设备完全符合最新的安全规定。
+The building does not conform with safety regulations. 这座建筑物不符合安全条例。
+The accountant's reports appear to conform with the requirements of professional standards. 会计师的报告看起来符合专业标准。
+The Night Rider lamp has been designed to conform to new British Standard safety requirements. “夜行者”灯的设计符合新的英国安全标准的要求。
+The meat market can continue only if it is radically overhauled to conform with strict European standards. 肉类市场只有经过彻底的大检查，严格遵守欧洲标准，才能继续营业。
+All companies are required to conform to these rules. 所有公司都必须遵守这些规定。
+to force science to conform with a political or social ideology 迫使科学与政治或社会意识形态保持一致 
+It did not conform to the usual stereotype of an industrial city. 这和一座常规的工业城市那种千篇一律的格局不一样。
+I am well aware that we all conform to one stereotype or another. 我们所有人都能找到某种与自己相似的模式化形象，这一点我很清楚。
+Like most 'peacetime wars' it did not conform to preconceived ideas. 如同大多数“和平时代的战争”一样，这与我们的预想不同。           
+
+restore electrical energy in (a battery or a battery-operated device) by connecting it to a power supply:通过将其连接到电源来恢复（电池或电池供电设备）中的电能
+(of a battery or battery-operated device) be refilled with electrical energy:（电池或电池供电的设备）重新充满电能
+refill (a cup, glass, or other container) with liquid:refill（杯子、玻璃杯或其他容器）装满液体
+be refilled:被补充
+(of a person) return to a normal state of mind or strength after a period of exertion:（人）经过一段时间的劳累后，精神或力量恢复正常状态
+the replenishment of an aquifer by the absorption of water:通过吸水补充含水层
+recharge |ˌriːˈtʃɑːdʒ| Noun/Verb/:,再充电
+he plugged his razor in to recharge it:
+the drill takes about three hours to recharge:电钻充电大约需要三个小时
+we recharged our glasses:我们给我们的眼镜充电
+the rate at which the aquifer recharges naturally:含水层自然补给的速率
+she needs a bit of time to recharge after giving so much of herself:她在付出了这么多之后需要一点时间来充电
+extensive areas of trees reduce recharge to the underlying aquifers:大面积的树木减少了对下层含水层的补给
+
+once a year; every year:一年一次；每年
+annually |ˈanjʊəli| Adverb/:每年,每年一次
+the prize is awarded annually:该奖项每年颁发一次
+
+vi. ~ (at sb/sth)（因恼怒、担心、困惑、全神贯注等而）皱眉；蹙额:
+n. [usually sing.]（因恼怒、担心、困惑、全神贯注等所做的）皱眉；蹙额:
+frown |[fraʊn]
+What are you frowning at me for? 你为什么朝我皱眉头？
+Nancy shook her head, frowning. 南希摇了摇头，皱着眉头。
+He frowned at her anxiously. 他不安地朝她皱了皱眉。
+She studied the letter, frowning thoughtfully. 她仔细地读了那封信，皱眉陷入了沉思。
+He looked at the coded message, frowning in/with concentration. 他盯着密码文，皱起眉头陷入了沉思。
+He frowned with annoyance.他恼怒地皱起眉头。
+She looked up with a puzzled frown on her face. 她抬头望着，满脸困惑，双眉紧锁。
+deep, heavy frown 紧皱的眉头 
+faint, little, slight, small, tiny frown 轻皱的眉头；微皱的眉 
+confused, puzzled, thoughtful, worried frown 茫然的皱眉；困惑的皱眉；沉思的皱眉；忧虑的皱眉 
+disapproving frown 表示不赞同的皱眉 
+angry, fierce frown 怒锁眉头 
+The boy gave a small frown. 小男孩微微皱了一下眉。
+She wore a worried frown. 她忧愁地皱着眉头。
+Her face creased into a frown. 她一副愁眉苦脸的样子。
+His brows drew together in a frown. 他眉头紧锁。
+Her frown grew deeper at the memory. 她想起这一往事、眉头皱得更紧了。
+A frown of concern creased her forehead. 她因担心而前额皱了起来。
+A frown marred his handsome features. 紧皱的眉头让他英俊的面容发生了扭曲。
+A frown crossed her brow. 她双眉紧锁。
+frown line 眉纹 
+a frown of concentration, a frown of concern 皱起眉头集中精神；皱眉表示不安 
+a frown on your face 脸上的不悦 
+a slight frown of disapproval 略显不赞成的脸色
+
+vi. 变得更小、更少等:
+decline (of sth)（某事物的数量、价值、质量等的）持续降低、减少、下降:
+n. 衰落:
+vi. 衰退:
+vt.＆vi. [正式] 礼貌地拒绝接受；礼貌地拒绝去做某事。常翻译为“谢绝”:
+vt.＆vi. 一个名词、形容词或代词根据其在句中的作用（如是否作一个动词的主语或宾语、是否是单数或复数等）而变化形式；使发生上述词形变化:
+decline |[dɪ'klaɪn]
+Profits declined by 6% this year. 今年利润减少了6%。
+The number of full-time staff has declined from 300 to just 50. 全职员工的数量从300人下降到区区50人。
+to decline in size 规模下降
+a small decline in the company’s profits 公司利润的略有减少 
+the decline of public transport 公共交通的减少 
+mental, physical decline 智力下降；体力下降 
+population, price decline 人口减少；价格降低 
+a steep decline in sales 销售额的陡降 
+a sharp decline in educational standards 教育水平的急剧下滑
+a steady decline in manufacturing 制造业的持续衰退 
+economic, urban decline 经济衰退；城市衰落 
+the moral decline of the nation 这个民族的道德沦丧 
+national decline 民族衰落 
+the decline of business 生意下滑 
+the decline and fall of a great civilization 一个伟大文明的衰落
+Support for the party continues to decline. 对该党的支持继续下降。
+Her health was declining rapidly. 她的健康状况迅速恶化。
+The economy has declined sharply in recent years. 近几年经济急剧下滑。
+The market for these products is declining fast. 这些产品的市场正在迅速萎缩。
+to decline an offer, to decline an invitation 谢绝对方的主动帮助；谢绝对方的邀请 
+I offered to give them a lift but they declined. 我主动邀请他们搭车，但他们婉言谢绝了。
+Their spokesman declined to comment on the allegations. 他们的发言人拒绝对这些指控加以评论。
+
+vi. [正式] 在某地或某种情况中头一次发生或出现，即起源、发源于:
+vt. [正式] 创立、创建、发明新事物:
+originate |[əˈrɪdʒɪneɪt]
+The disease is thought to have originated in the tropics. 这种疾病据说起源于热带地区。
+The disease originated in Africa. 这种病源于非洲。
+All carbohydrates originate from plants. 所有的碳水化合物均来自植物。
+He believes that all religions originated from a single source. 他认为所有的宗教都有同一个本源。
+to originate an idea 创立一种思想 
+Locke originated this theory in the 17th century. 洛克于17世纪创立了这个理论。
+
+n. [C] ~ (for sth) 竞赛中的有望获胜者:
+vi. ~ (for sth) 在一片区域内寻找黄金、矿物、石油等:
+n. [C] [正式] 一片土地等的一个开阔景色:
+n. 1 [sing.] ~ (of sth/of doing sth) 前景、展望、设想:
+They now face the prospect of having to wear a cycling helmet by law. 他们现在面临的情形是:
+2 [pl.] prospects (for/of sth) 成功的前景:
+n. [pl.] prospects (for/of sth) 成功的机会:
+~ (that…)（某事将要发生的）可能性:
+prospect |[ˈprɒspekt;美ˈprɑ:s-]
+She is one of Canada's best prospects for a gold medal. 她是加拿大最有希望夺金的选手之一。
+a list of the hot new prospects on the literary scene 文坛上一连串炙手可热的新秀
+Thousands moved to the area to prospect for gold. 数以千计的人涌入那个地区淘金。
+He had prospected for minerals everywhere from the Gobi Desert to the Transvaal. 他已在从戈壁沙漠到德兰士瓦的无数地方勘探过矿藏。
+In fact, the oil companies are already prospecting not far from here. 事实上，石油公司已经在离此不远处进行勘探。
+to prospect for new clients（比喻用法）寻找新客户
+a delightful prospect of the lake 令人心旷神怡的湖上风光
+an exciting prospect 令人兴奋的前景 
+I don't relish the prospect of having to share an office. 一想到将来要和别人共用一间办公室我就感到不快。
+Travelling alone around the world is a daunting prospect. 想象着将要只身走遍世界颇令人心悸。
+The prospect of becoming a father filled him with alarm. 一想到将为人父他就满怀忧思。
+After supper he'd put his feet up and read. It was a pleasant prospect. 晚饭后，他会架起脚来看书。想起来就让人愉快。
+future, long-term prospects前程；远景 
+development, economic, growth prospects发展前景；经济前景；增长前景 
+career, employment, job prospects职业前景；就业前景；工作前途 
+survival prospects生存前景 
+Their prospects of employment look better than last year. 他们的就业前景看起来好于去年。
+At 25 he was an unemployed musician with no prospects. 25岁的他是个没有工作、前途渺茫的乐师。
+Long-term prospects for the economy have improved. 长期的经济前景已有所改善。
+I chose to work abroad to improve my career prospects. 我选择出国工作以求在事业上有更好的发展。
+a detailed review of the company's prospects 对该公司前景的详细考查
+promotion prospects（尤英）（美式通常用prospects for promotion）晋升机会 
+election, electoral, re-election prospect 获选的机会；重新当选的机会 
+This position offers excellent promotion prospects. 这一职位有极好的晋升机会。
+Getting the right qualifications will enhance your employment prospects. 取得一些适当的资格证明将大大提高你的就业机会。
+What are the prospects of promotion in this job? 做这份工作有多少晋升的机会？
+There is no immediate prospect of peace. 短期内没有和平的可能。
+A place in the semi-finals is in prospect (= likely to happen). 可望争得半决赛权。
+There's a reasonable prospect that his debts will be paid. 有理由相信他会偿还债务的。
+Unfortunately, there is little prospect of seeing these big questions answered. 不幸的是，几乎不可能看到这些重大问题得到回复。
+The prospects for peace in the country's eight-year civil war are becoming brighter. 该国经历八年内战之后重归和平的前景正逐渐变得光明。
+Major developments are in prospect for the company. 公司可望有大的发展。
+There is little prospect of any improvement in the weather. 天气几乎没有好转的可能。           
+
+
+prospects | 前景,展望
+
+curious (to do sth) 有强烈的欲望去了解某事物的，即好奇的，相当于inquisitive:
+adj. curious (that ...) 奇怪且不寻常的。但不如strange常用:
+curious |['kjʊərɪəs]
+adj. curious (about sth) 
+I was curious to find out what she had said. 我真想弄清楚她说了些什么。
+Everyone was curious as to why Mark was leaving. 马克为什么要离去，大家都感到好奇。
+to make me curious 使我感到好奇 
+a curious boy 好奇心强的男孩子 
+Puppies are naturally curious. 小狗天生好奇。
+a curious feeling 奇特的感觉 
+a slightly curious statement 有点儿奇怪的陈述 
+It was curious that she didn’t tell anyone. 她没有告诉任何人，这很反常。
+
+n. [C, U] ~ (for/to sb/sth) (to do sth) 对人的刺激、激励、鼓励:
+incentive |[ɪnˈsentɪv]
+political incentive 政治激励 
+commercial, economic, financial, fiscal, monetary incentive 商业刺激；经济刺激；金融刺激；财政刺激；金钱刺激 
+cash incentive 现金奖励 
+material incentive 物质激励 
+price, tax incentive 价格刺激；税收奖励 
+sales 销售激励 
+investment incentive 投资激励 
+performance, work incentive 业绩奖励；工作奖励 
+employee incentives such as bonuses and commission 奖金、提成之类的雇员奖励措施 
+federal, government incentive 联邦奖励；政府奖励 
+It was thought that this would act as an incentive for couples to adopt older children. 人们认为这将会对夫妇们收养大一些的孩子起到激励作用。
+She had the added incentive of being within reach of the world record. 世界纪录触手可及，这使她又有了新的动力。
+The government has created tax incentives to encourage investment. 政府已经出台了税收优惠措施鼓励投资。
+companies that receive government incentives 得到政府奖励的公司 
+High taxation rates have undermined work incentives. 高税率削弱了工作激励措施的作用。
+incentive plan, incentive programme/program, incentive scheme（英）, incentive structure 激励方案；奖励制度 
+an incentive system based on supervisors' evaluations 以督导员的评价为基础的激励制度 
+The company operates a share incentive scheme for its workers. 该公司对员工实行股权激励机制。
+incentive policy 激励政策 
+incentive award, incentive bonus, incentive fee, incentive package, incentive pay, incentive payment 激励奖品；奖金；一揽子激励措施；奖励工资 
+an incentive to investment 对投资的鼓励 
+Companies have every incentive to put up prices. 各公司都有充足的理由涨价。
+There is a lack of incentive to undertake new investment.新投资缺乏动力。
+There is no incentive for people to save fuel. 没有使人们节约燃料的鼓励办法。
+There is little or no incentive to adopt such measures. 几乎没有什么激励政策来促使人们采取这些措施。
+Many companies in Britain are keen on the idea of tax incentives for R&D. 英国许多公司都很欢迎以税收优惠的方式来鼓励研发的想法。
+There was little incentive to conduct research. 对从事研究的激励微乎其微。
+US companies faced a clear incentive to downsize. 美国公司面临明确的裁员压力。
+direct financial incentives to have smaller families 鼓励缩小家庭规模的直接财政刺激
+
+n. [C]（在人或动植物中能引起疾病的）病毒:
+n. [C] 计算机病毒:
+n. [C] [非正式] 由病毒引起的疾病，即病毒性疾病:
+virus |['vaɪərəs]
+flu virus 流感病毒 
+virus infection 病毒感染 
+deadly virus 致命的病毒
+computer, email virus 计算机病毒；电子邮件病毒 
+virus protection, virus scanning 病毒防护；病毒扫描
+There was a virus going around the village. 那个村庄里流行着一种病毒性疾病。
+
+vt. [有时贬] 建立友谊、获得支持:
+vt. 逐渐形成某种态度、言行方式、形象、技能等:
+vt. 开垦、耕作（土地）:
+vt. 种植、栽培、培育（植物或庄稼）:
+cultivate |[ˈkʌltɪveɪt]
+He purposely tried to cultivate good relations with the press. 他特意设法与新闻界搞好关系。
+It helps if you go out of your way to cultivate the local people. 主动结交当地人大有好处。
+Howe carefully cultivated Daniel C. Roper, the Assistant Postmaster General. 豪谨慎地和邮政副部长丹尼尔·C.罗珀拉近关系。
+Estonia has done much to cultivate the friendship of western European countries. 爱沙尼亚努力发展与西欧国家的友谊。
+She cultivated an air of sophistication. 她养成了一派精明练达的气度。
+He has written eight books and has cultivated the image of an elder statesman. 他已经写了八本书，树立起了其政界元老的形象。
+This modern image is actively cultivated by the company. 公司积极塑造其现代形象。
+Cultivating a positive mental attitude towards yourself can reap tremendous benefits. 培养一种自信的积极心态会让人受益匪浅。
+The land here has been intensively cultivated for generations. 这片土地经过了几代人的精耕细作。
+The land around here has never been cultivated. 这一带的土地从未开垦过。
+the few patches of cultivated land 为数不多的几小块耕地 
+She also cultivated a small garden of her own. 她还耕种了一片属于自己的小园子。
+The people cultivate mainly rice and beans. 这里的人们主要种植稻子和豆类。
+Olives have been cultivated successfully in southern Australia. 橄榄树已在澳大利亚南部栽培成功。
+
+n. [U] 存在并可以得到开发的品质，如潜力、潜质，相当于promise:
+n. [U, C] 物理学中可指电场或电路中两点之间的电压数之差，即电势、电位、电压:
+adj. 只用于名词前，指在未来可能发展成某事物的，或在未来可能得到发展的。即潜在的、可能的，相当于possible:
+n. [U] potential (for/for doing sth) 某事发生（或得到发展、被使用）的可能性:
+potential |[pə'tenʃl]
+He has the potential to become a world-class musician. 他有潜力成为世界级的音乐家。
+You aren’t using your computer to its full potential. 你没有充分发挥计算机的潜能。
+commercial, economic potential 商业潜力；经济潜力 
+an industry that has the potential for growth 有发展潜力的行业 
+the product’s potential 这款产品的潜力 
+The house has a lot of potential. 这所房子颇具潜力。
+potential customers 潜在的客户 
+a potential prime minister 未来的首相 
+potential problems 潜在的问题 
+a potential source 潜在的来源
+the potential for change 变革的可能性 
+excellent potential for increasing sales 增加销售的大好机遇
+
+adj. ~ (to do sth) 不情愿的、勉强的:
+reluctant |[rɪˈlʌktənt]
+reluctant agreement 勉强同意 
+She was reluctant to admit she was wrong. 她不愿承认自己有错。
+He finally gave a reluctant smile. 他最后露出了一丝无可奈何的微笑。
+a reluctant hero (= a person who does not want to be called a hero) 不情愿做英雄的英雄 
+Mr Spero was reluctant to ask for help. 斯佩罗先生不愿意寻求帮助。
+The police are very reluctant to get involved in this sort of thing. 警方很不愿意卷入这类事情。
+Students may feel reluctant to ask questions. 学生可能不愿意提问。
+For a moment, he felt almost reluctant to leave. 他一时感到几乎不愿意离开。
+She was curiously reluctant to talk about the experience. 很奇怪，她不愿谈论那次经历。
+Children are sometimes understandably reluctant to wear glasses. 孩子们有时不愿意戴眼镜，这是可以理解的。           
+
+adj.（某人）非常不悦的；非常难受的:
+adj. 1（地方、形势等）令人非常不悦或难受的:
+2（失败）悲惨的，彻底的:
+adj. [贬] [只用于名词前]（人）脾气乖戾且不友好的:
+adj. 数量太少的:
+adj.（天气）阴郁的，令人苦恼的:
+miserable |[ˈmɪzrəbl]
+We were cold, wet and thoroughly miserable. 我们又冷又湿，难受极了。
+Don't look so miserable! 别一副闷闷不乐的样子！
+She knows how to make life miserable for her employees. 她知道如何整治她的雇员。
+I took a series of badly paid secretarial jobs which made me really miserable. 我做了几份薪酬微薄的秘书工作，这让我非常郁闷。
+She went to bed, miserable and depressed. 她伤心而沮丧地上床睡觉。
+We got home feeling tired and miserable. 我们回到家，感到又累又沮丧。
+He felt absolutely miserable about his exams. 他感觉考试考得精透了。
+miserable housing conditions 恶劣的住房条件 
+I spent a miserable weekend alone at home. 我独自一人在家度过了一个惨兮兮的周末。
+There was nothing at all in this miserable place to distract him. 这个鬼地方根本没有什么东西可以让他分心。
+The play was a miserable failure. 这部话剧是个可悲的失败。
+The film was a miserable commercial failure both in Italy and in the United States. 这部电影在意大利和美国均遭遇票房惨败。
+He was a miserable old devil. 他真是个令人厌烦的老家伙。
+He always was a miserable man. He never spoke to me nor anybody else. 他的脾气总是很糟。他从不跟我或其他任何人讲话。
+How can anyone live on such a miserable wage? 这么少的工资让人怎么活呀？
+Our speed over the ground was a miserable 2.2 knots. 我们在接近地面时的航速仅为2.2节。
+It has so far accepted a miserable 1,100 refugees from the former Yugoslavia. 迄今为止，从前南斯拉夫接收的难民只有区区1,100人。
+It was a grey, wet, miserable day. 那是阴郁灰暗、潮湿多雨的一天。
+It was very cold, damp and miserable. 天气非常寒冷潮湿，令人难受。
+What a miserable day (= cold and wet)! 多么难受的一天呀！
+
+n. [C, U] 信仰，尤指宗教信仰或政治信仰:
+n. [U] 劝说、说服:
+n. [C, U] 宗教信仰:
+persuasion |[pəˈsweɪʒn;美pərˈs-]
+political, religious persuasion 政治信仰；宗教信仰 
+sexual persuasion 性取向 
+discrimination on the grounds of a person's sexual persuasion 基于性取向的歧视 
+The meeting is open to people of all political persuasions. 持任何政治信仰的人都可以参加这个会议。
+He was basically of liberal persuasion. 他基本上持自由派的观点。
+young people of every persuasion 持各种信仰的年轻人 
+Fortunately for me, my kids are of the persuasion that their failings are of their own making. 对我来说幸运的是，我的孩子们相信失败是他们自己造成的。
+It didn't take much persuasion to get her to tell us where he was. 我们没费什么口舌就让她说出了他的下落。
+After a little gentle persuasion, he agreed to come. 耐心劝说一下，他就同意来了。
+She has great powers of persuasion. 她的游说能力极强。
+Only after much persuasion from Ellis had she agreed to hold a show at all. 埃利斯劝了她半天后她才同意办一场展览。
+She was using all her powers of persuasion to induce the Griffins to remain in Rollway. 她在极力劝说格里芬斯一家留在罗尔威。
+I think with a little persuasion we can get her to come here. 我认为，我们只要稍微劝劝她，就能说动她来这里。
+I had to use a little gentle persuasion to get her to agree. 我不得不温和地劝了她一会儿她才同意。
+She didn't need much persuasion. 她不需要太多的劝说。
+She is uncertain of what she wants and is open to persuasion. 她拿不准自己想要什么，愿意听听别人的说法。
+She is very charming, and skilled in the art ofpersuasion. 她很有魅力，而且很懂得如何说服别人。
+He will use every means of persuasion to make her stay. 他将使用一切手段说服她留下。
+I used all of my powers of persuasion to get Jay to come back.我使出所有本事劝杰伊回来。
+religious persuasion 宗教信仰
+
+possession of a strong desire to be more successful than others:拥有比别人更成功的强烈愿望
+the quality of being as good as or better than others of a comparable nature:与同等性质的其他人一样好或更好的质量
+the quality of comparing well with rival traders in terms of pricing:在定价方面与竞争对手交易者进行比较的质量
+competitiveness |kəmˈpɛtɪtɪvnɪs| Noun/:竞争力,竞技
+a lot of people get wrapped up in competitiveness and jealousy:很多人都陷入了竞争和嫉妒之中
+the competitiveness of the agricultural sector:农业部门的竞争力
+shoppers are often pleasantly surprised by the competitiveness of the prices:shoppers常常对价格的竞争力感到惊喜

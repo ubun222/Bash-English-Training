@@ -1,0 +1,773 @@
+library					图书馆
+nutrition					营养的供给
+may					可能，可以，尽管，但愿，树
+might					可能，可以，尽管，但愿
+shake					摇动，使震惊，动摇，握手
+shook					摇动，使震惊，动摇，握手
+shaken					摇动，使震惊，动摇，握手
+worthwhile					值得的
+quilt					被子
+myself					我自己
+tease					打趣
+tease out					理顺
+book					书，预订
+books					账目，记录
+modern					现代的，近代的，最新的
+sorry					抱歉的，难过的，后悔的
+parallel					平行的，同时的，纬线
+on a parallel with					与...类似
+evident					明显的
+snack					快餐，小食品
+possibly					也许，尽全力的
+your					你的，你们的，大家的
+authority					权力，权威，来源
+the authorities					当局
+northern					北方的
+by					被，用，经过，在...之前
+by day as well as by night					夜以继日
+following					接下来的，下列的，顺向的，追随者
+seashell					海贝壳
+pair					一对，一套，把...配对
+explore					勘查，探索
+partner					合伙人，伙伴
+spread					展开，涂，覆盖，传播，范围
+Swiss					瑞士的
+microscope					显微镜
+monument					纪念馆，典范，遗迹
+slow					缓慢的，迟钝的，减速
+worse					使变得更糟
+\\\\\\\\
+
+n. [C] [正式] 图书、音乐等的私人收藏（通常只有主人许可才可借阅）:
+n. [C]（某人的）书房。与study未见明显差别，只是study似乎更为常用:
+n. 1 [C] 图书馆，藏书阁，是一栋建筑:
+2 [C] 建筑物内（如学校、医院等）的图书室，阅览室:
+n. [C] 由同一公司出版的外观相似的一系列图书、磁带等，即系列丛书，文库:
+library |['laɪbrərɪ]
+a diverse library of Chinese music 收藏有多种多样的中国音乐 
+to add to my library 添加到我的收藏 
+film, music, picture, video library 电影收藏；音乐收藏；图片收藏；视频收藏 
+The family possessed an extensive library. 这个家庭有大量的藏书。
+I finished my reading in my library. 我是在书房读完的。
+public library 公共图书馆 
+private library 私人图书馆 
+school, university library 学校图书馆；大学图书馆 
+library catalogue 图书馆的目录 
+library card, library ticket（英）借书证 
+library staff 图书馆的工作人员 
+hospital, prison library 医院阅览室；监狱阅览室
+a library of Chinese classics 中国文学名著系列丛书
+
+n. [U] 生物吸收营养的过程:
+nutrition |[nju:'trɪʃn]
+sources of nutrition 营养来源 
+adequate nutrition 足够的营养 
+human nutrition 人体营养 
+nutrition facts, nutrition information 营养成分表 
+nutrition consultant 营养师 
+nutrition research 营养研究 
+
+modal verb. [正式] 用于表示愿望或希望，即但愿:
+modal verb. 1 [正式] 用于征求许可，或给予许可:
+2 [正式] 用于礼貌性地做出评论或提问:
+modal verb. [正式] 用于表明某事的目的:
+n. [U] 山楂花:
+modal verb. 1 用于说明某事是可能的:
+2 在引入一个新的观点或论点之前，用于承认…属实:
+may |[meɪ]
+May she rest in peace. 愿她安息。
+Business has been thriving in the past year. Long may it continue to do so. 在过去的一年里生意蒸蒸日上。但愿这种情况能持续下去。
+May I come in? 我可以进来吗？
+You may come in if you wish. 你想进来就进来吧。
+You look lovely, if I may say so. 我觉得你看上去很可爱。
+May I ask why you took that decision? 我可否问一下你为什么要做出那样的决定？
+If I may just add one thing … 我想再补充一点…
+There is a need for more resources so that all children may have a decent education. 需要更多的财力支持，让所有的孩子都受到良好的教育。
+The bag has narrow straps, so it may be worn over the shoulder or carried in the hand. 这个书包有细长带子，所以它可以用肩挎，也可以用手拎。
+That may or may not be true. 这可能是真的，也可能不是。
+He may have missed his train. 他可能没赶上火车。
+I may be back next year. 我可能明年回来。
+He may be a good father but he’s a terrible husband. 他或许是一位好父亲，但却是个很糟糕的丈夫。
+I may be almost 50, but there’s not much I’ve forgotten. 我是快五十岁了，但我没忘记多少事情。
+
+modal verb. [英] 用于礼貌地提出请求:
+n. [U] [正式或文学] 强大的力量、能量或影响力，也可叫威力:
+modal verb. 用于表示对某人可以做（或本可以做）而未做某事表示生气或不满，即本应该:
+modal verb. 用于表明你对某事不感到意外:
+modal verb. 用于强调已提出了的一个重点:
+modal verb. 1 may的过去式，用于转述某人已说过的话:
+2 用于表示某事是可能的:
+3 [正式] 用于询问信息:
+might |[maɪt]
+Might I use your phone? 我可以用一下你的电话吗？
+If I might just say something … 要是叫我说… 
+Might I make a suggestion? 我可以提个建议么？
+Might I ask what you’re doing here? 我可以问问你在这里做什么吗？
+America’s military might 美国的军事力量 
+I pushed the rock with all my might. 我用尽全力推这块石头。
+I think you might at least offer to help! 我认为你至少应该主动提出帮忙吧！
+You might have told me that before! 你以前就该告诉我这件事！
+I might have guessed it was you! 我一猜就是你！
+‘And where is the money coming from?’‘You might well ask!’ “钱又从哪里来呢？”“你这就问到点子上了！”
+He said he might come tomorrow. 他说他明天可能来。
+He might get there in time, but I can’t be sure. 他有可能准时到达，但我不敢肯定。
+You might be right. 你或许是对的。
+How might the plans be improved upon? 这些计划还能怎么改进呢？
+And who might she be? 那么她会是谁呢？
+
+vt. shake sb (up) 使某人非常震惊或烦恼，动摇人的信心（使其烦恼且不能冷静思考），因此常是负面事件或消息所造成的震惊:
+vt. 使信念或观点动摇:
+shake sb by the hand（与某人）握手（以表示寒暄问候或同意某事）:
+vt. 因愤怒而朝某人挥舞拳头或其他物体（如棍棒）:
+vt. shake your head 摇头（以表示拒绝、悲伤、不赞成、怀疑等）:
+n. [C, usually sing.] 摇头:
+vt. 通过摇动或抖动让某物朝某个方向移动:
+vt. shake sth (off) 去除或摆脱…:
+n. [C] 奶昔（一种饮料），相当于milkshake:
+vt.＆vi.（物品、建筑物、人等）做一些从一侧到另一侧（或上下方向）的短距离快速运动，即摇动，抖动，颤动，震动；也可表示使…摇动，抖动，颤动，震动:
+n. [C, usually sing.]（对某人或某物进行的）摇动；抖动；颤动；甩动；晃动:
+vi. 1 shake (with sth) 身体由于寒冷、恐惧、紧张、愤怒、哭泣、大笑等原因而颤抖，发抖，哆嗦，相当于tremble:
+2 shake (with sth)（某人的嗓音）颤抖（通常由于紧张、烦恼或生气）:
+n. [pl.] [非正式] the shakes可表示身体由于恐惧、疾病、酒精摄入过量等所发生的颤抖，哆嗦:
+shake |[ʃeɪk]
+He was badly shaken by the news of her death. 听到她的死讯，他大为震惊。
+The accident really shook her up. 出了事故，她烦透了。
+The incident had shaken her faith in him. 这件事动摇了她对他的信心。
+to shake the confidence of the industry 动摇行业的信心
+vt. shake sb’s hand 
+shake hands (with sb) (on sth) 
+They shook hands on the deal. 他们达成了协议，相互握手祝贺。
+Our host shook each of us warmly by the hand. 主人热情地和我们每个人握手。  
+Tom shook his gun at him. 汤姆冲他挥舞着枪。
+She shook her head in disbelief. 她摇了摇头，表示不相信。
+a firm shake of his head 他坚定的摇头 
+a sad shake of her head 她悲伤的摇头
+She bent down to shake a pebble out of her shoe. 她弯下腰，把鞋里的一粒石子抖出来。
+She shook some pepper onto her sandwich. 她在她的三明治上撒了些胡椒。
+He shook the blankets vigorously to get rid of the dust. 他使劲儿抖动毯子以抖掉尘土。
+I can’t seem to shake off this cold. 这场感冒我好像老好不了。
+He couldn’t shake the feeling that there was something wrong. 他总感觉有什么地方不对头。
+a strawberry shake 一杯草莓奶昔
+The whole house shakes when a train goes past. 火车驶过时，整座房子都颤动起来。
+to shake buildings 震动建筑物 
+Shake the bottle well before use. 使用前摇匀瓶内物品。
+He shook her violently by the shoulders. 他抓着她的肩膀使劲摇晃。
+She shook her hair loose. 她头一摇，头发就散开了。
+to shake a thermometer 甩体温计 
+The dog shook himself. 那条狗摇头摆尾。
+a firm shake of his head 他的坚定摇头 
+Give the bottle a good shake before opening. 打开瓶子前，先使劲摇一摇。
+Give the tablecloth a good shake before putting it away. 桌布收起来之前要好好抖一抖。
+She gave him a shake to wake him. 她摇摇他，把他叫醒。
+Give your body a bit of a shake. 轻轻晃动身体。
+He gave himself a mental shake and got down to work. 他振作了一下精神，然后开始认真工作。
+He was shaking with fear. 他吓得发抖。
+He roared with laughter, shaking in his chair. 他放声大笑，身子在椅子里直颤。
+My hands started shaking nervously. 我的手开始紧张得抖个不停。
+My body was shaking from the cold. 我冷得浑身发抖。
+She was shaking with anger. 她气得浑身发抖。
+to shake with sobs 一边抽泣一边发抖 
+His voice shaking with rage. 他气得声音发抖。
+I always get the shakes before exams. 考试前，我总是紧张得发抖。
+
+emotionally or physically disturbed, upset:情绪或身体上的不安，心烦意乱
+keen on, enthusiastic about:keenon,热衷于
+a set of components ready for assembly into a box or cask.:一组准备组装成盒子或木桶的组件。
+shook |ʃʊk| Adjective/Noun/Verb/:,震动了
+she looks pretty shook up from the letter:她从信中看起来很震惊
+those stories you read about where two blokes get shook on the same sheila:那些你读到的关于两个男人在同一个希拉上摇晃的故事
+
+adj. [名词前不常用] 震惊的；烦恼的；恐惧的:
+adj. [名词前不常用] 恐惧的:
+shaken |[ˈʃeɪkən]
+The woman was left shaken by the attack. 这个女子受到袭击吓坏。
+The experience left him deeply shaken. 这次经历令他甚为震惊。
+She was left badly shaken by her ordeal. 她为她遭受的折磨深感震惊。
+Are you all right? You look a little shaken. 你还好吧?你好像有点儿受惊。
+He was visibly shaken by what had happened. 他显然对发生的事大为吃惊。
+She was visibly shaken by the news. 那条消息显然令她感到震惊。
+The woman was left shaken by the attack. 这个女子受到袭击吓坏。
+
+worthwhile (doing sth) 站在人的角度，认为…是值得的，值得在其上面花费时间、金钱或努力的，值得费周章的:
+worthwhile |['wə:θ'waɪl]
+adj. worthwhile (to do sth) 
+a worthwhile cause 高尚的事业 
+socially worthwhile goals 有社会价值的目标 
+The smile on her face made it all worthwhile. 她脸上的笑容使得这一切都非常值得。
+High prices in the UK make it worthwhile for buyers to look abroad. 英国的高价足以使买主把视线转向国外。
+You might find it worthwhile to consult a lawyer. 你可能会发现向律师咨询很值得。
+The gamble seemed hardly worthwhile. 这种冒险似乎并不值得。
+
+n. 1 [C] 两层之间有柔软物质的一种装饰性床罩，即加衬芯床罩:
+2 [C] [英]（填充了羽绒或其他柔软物质以起到保暖作用的）被子，相当于duvet:
+quilt |[kwɪlt]
+handmade quilt 手工制作的被子 
+quilt pattern 被子图案 
+
+used by a speaker to refer to himself or herself as the object of a verb or preposition when he or she is the subject of the clause:当他或她是从句的主语时，说话者用来将他或她自己称为动词或介词的宾语
+I or me personally (used to emphasize the speaker):我或我个人（用于强调说话者）
+used by a speaker to refer to himself or herself, I:说话者用来指代他或她自己，我
+myself |mʌɪˈsɛlf| Pronoun/:我,我自己,本人
+I hurt myself by accident:我不小心伤到了自己
+I myself am unsure how this problem should be handled:我自己不确定应该如何处理这个问题
+myself presented to him a bronze sword:myself送给他一把青铜剑
+
+n. [usually sing.] [贬] 勾引别人的人（即假装为某人所吸引，撩拨起对方后拒绝与其发生性关系的一个人）:
+vt.＆vi. [贬] 对某人做出性挑逗（尤指不想与被挑逗者发生性关系）:
+vt.＆vi.（友好地、或令人恼怒或尴尬地）取笑或嘲笑某人，开某人的玩笑:
+vt.（尤指通过抚摸、拽尾巴等方式）惹恼或招惹、逗弄一只动物:
+n. 1 [usually sing.] 爱捉弄别人的一个人，爱拿别人开玩笑的一个人（尤指通过对别人说谎或不说出别人想知道的事情）:
+2 [usually sing.] 戏弄，捉弄，取笑:
+vt. 1 将某事物轻轻地分成不同的部分并使其分开，如梳理:
+2 [美] 将头发按照其生长方向的反方向梳起（以使其看起来更浓密），相当于backcomb:
+tease |[ti:z]
+I used to get teased about my name. 过去别人总拿我的名字开玩笑。
+Jane used to tease him about his clothes. 简过去常常笑话他的衣着。
+Don’t get upset--I was only teasing. 别生气——我逗你玩儿呢。
+to tease wool into strands 把羊毛梳成缕 
+
+n. [C] 装订成册的一套东西，如邮票、票等:
+vt. 在英国的非正式用法中可指裁判将犯规运动员进行记名警告:
+n. [C] 复数形式books可表示企业的账簿或账目，在词义上相当于accounts，但books是一个生活化、口语化用词:
+vt.＆vi. 尤用于英式英语，指预订旅馆的房间、饭店的坐席、剧院的座位等:
+vt. 1 预订机票:
+2 和歌手等预约演出日期:
+n. 1 [C] 书，书籍。是此义的基础用词和常规用词:
+2 [C] 大型著作（如《圣经》）的篇，卷，部。此时相当于part，二者几无区别，但不如part常用:
+n. [C] 书写用的本子。相当于notebook，不过不太如notebook常用:
+vt. 警察因某人可能犯罪而将其记录在案，为非正式用法:
+book |[bʊk]
+a book of stamps, a book of tickets 一封邮票；一本票券 
+cheque book 支票簿 
+address, order book 地址簿；订货簿 
+phone book 电话号码簿
+to do the books for us 给我们记账 
+to cook the books（非正式用法）做假账
+Book online early to avoid disappointment. 及早在线预约，以免痛失良机。
+to book a table for two 预订一个二人桌位 
+The performance is booked up. 演出票被订完了。
+We’re fully booked. 预订已满。
+to book a seat in advance 提前预订一个座位 
+Book with Suntours! 预订太阳旅行社旅游项目！
+I’ve booked you on the 10 o’clock flight. 我给你订了10点钟的飞机票。
+to book a band 预约一支乐队
+best-selling book 畅销书 
+famous book 名著 
+library book 馆藏书 
+audio book 有声书籍 
+children’s, comic, reading book 儿童书籍；漫画书；读本 
+travel book 旅行手册 
+reference book 参考书 
+how-to book 指南 
+set book（英）指定用书 
+history book 历史书 
+book title 书名 
+book review 书评 
+the books of the Bible 《圣经》中各卷
+an exercise book 练习本
+The police booked him for robbery. 他因抢劫而被警方记录在案。
+
+
+books | 图书,书籍
+
+adj. 1 只用于名词前，现代的；当代的；近代的。“当代的”之义与contemporary相近:
+2 只用于名词前，（艺术、音乐、舞蹈、时装、建筑等的风格）新式的，有别于传统的，与contemporary意思相近:
+3（通常含褒义）运用最新的技术、设计、材料等的，相当于up-to-date:
+4（行为、思想等的方式）新式的，超前的且大部分公众未必接受的:
+modern |['mɒdn]
+modern life 现代生活 
+Modern European history 欧洲近代史 
+modern art, modern architecture, modern dance 现代艺术；现代建筑；现代舞 
+a modern computer system 时新的电脑系统 
+modern methods of farming 现代化的耕作方式 
+the most modern hospital in London 伦敦最先进的医院 
+It was a very modern school for its time. 这是当时很现代化的一所学校。
+modern ideas 新式的观点 
+She is very modern in outlook. 她的看法很时髦。
+
+sorry (to do sth) 不用于名词前，对已发生的事表示失望，且希望自己曾经不那样做（或希望自己未做过此事），即后悔的:
+exclamation. 1 用于对某事表示道歉:
+2 [尤英] 用于请求某人重复其所说过的但你未听清的话:
+3 当自己说错话时，用于纠正自己所说的话:
+sorry (for/about sth) 不用于名词前，对于已发生的某事感到悲伤和惭愧的，即歉疚的，过意不去的:
+sorry (to see, hear, etc.) 不用于名词前，感到悲伤和同情的:
+2 只用于名词前，非常悲伤的（尤指使你感到同情或对其持否定态度的），如悲惨的，可怜的等:
+adj. 只用于名词前，非常糟糕的:
+sorry |['sɒrɪ]
+adj. sorry (that ...) 
+She was sorry that she’d lost contact with Mary. 她后悔跟玛丽失去了联系。
+You’ll be sorry if I catch you! 要是让我抓着，你会后悔的！
+I was genuinely sorry to be leaving college. 大学毕业时，我打心底里舍不得离去。
+Sorry I’m late! 对不起，我来晚了！
+Sorry to bother you, but could I speak to you for a moment? 不好意思打搅你，我能不能跟你说几句话？
+He didn’t even say sorry. 他连句道歉的话也没有说。
+Sorry? Could you repeat the question? 你说什么？能不能把你的问题再说一遍？
+Take the first turning, sorry, the third turning on the right. 到第一个——不——到第三个路口往右拐。
+adj. sorry (that ...) 
+We’re very sorry about the damage to your car. 弄坏了您的车，我们真是过意不去。
+She was sorry that she’d lost her temper. 她为自己发了脾气而感到愧疚。
+If you say you’re sorry we’ll forgive you. 你要是道歉，我们就原谅你。
+adj. 1 sorry (that ...) 
+We’re sorry to hear that your father’s in hospital. 听说你父亲住院了，我们心里都不好受。
+No one is sorrier than I am about what happened. 发生了这样的事，我比谁都难过。
+They were a sorry sight when they eventually got off the boat. 他们最终从船上下来，一副惨兮兮的样子。
+The business is in a sorry state. 公司境况真是糟糕。
+
+vt. 与…一样好，即媲美，比得上，相当于equal:
+adj. 同时发生的:
+vt. 与…同时发生:
+n. [C]（也可用parallel of latitude）（地球或地图上的）纬线（是一种虚拟的线）:
+adj. parallel (to/with sth)（两条或多条线）平行的。是此义的常规用词，最为常用:
+adv. 平行:
+adj. 计算机技术中可指同时涉及若干项计算处理过程的，即并行的:
+adj. 极相似的:
+adv. 极相似地:
+n. 1 [C, U]（尤指在不同地点或不同时间与另一者）极为相似的一个人、情况或事件，即极相似的对应者，相当于equivalent:
+2 [C, usually pl.] 相似的特征或特点:
+vt. 与…相似:
+parallel |['pærəlel]
+a level of achievement that has never been paralleled 绝无仅有的成就
+parallel trends 并行发展的趋势 
+The rise in unemployment is paralleled by an increase in petty crime. 在失业率上升的同时，轻度犯罪也跟着增长。
+Often there are emotional reasons paralleling the financial ones. 经济原因常常伴有情感原因。
+the 49th parallel 第49度纬线
+two parallel lines 两条平行线 
+The road and the canal are parallel to each other. 道路与运河平行。
+The plane flew parallel to the coast. 飞机沿海岸线飞行。
+parallel processing 并行处理
+a parallel case 同类型事例 
+parallel talks between the two countries’ foreign ministers 两国外长之间相似的谈话
+Their instincts do not always run parallel with ours. 他们的直觉并不总是与我们的同步。
+These ideas have parallels in Freud’s thought too. 这些观念在弗洛伊德的思想中也有极相似之处。
+This is an achievement without parallel in modern times. 这是现代无可比拟的成就。
+This tradition has no parallel in our culture. 这种传统在我们的文化中是没有的。
+a parallel between his experience and mine 他和我的经历之间的相似之处 
+She saw an obvious parallel with her sister’s predicament. 她明显和她姐姐一样身处困境。
+Their legal system parallels our own. 他们的法律制度与我们的相似。
+His remarks paralleled those of the president. 他的评论与总统的评论相同。
+
+evident (in/from sth) 清楚的，容易被看到的，即显而易见的、显然的，相当于obvious:
+evident |['evɪdənt]
+adj. evident (to sb) (that ...) 
+It was fairly evident from her tone of voice that she disapproved. 从她说话的语调看，她显然不同意。
+It was evident to me that the mission would fail. 在我看来，这项任务明显会失败。
+Their symptoms may be less evident to their caregivers. 在护工看来，他们的症状也许不那么明显。
+
+n. [C] [非正式]（通常指匆匆吃的）少量餐食，如点心、快餐（这种餐食做起来或吃起来比较快）；小吃、零嘴（如巧克力）:
+vi. ~ on sth 吃小吃、吃点心、吃快餐（在主餐之间吃，或代替主餐）:
+n. [C] [澳大利亚，非正式] 容易办到的事，如小事一桩、小菜一碟:
+snack |[snæk]
+I only have time for a snack at lunchtime. 中午，我的时间只够吃点心。
+Lunch was a snack in the fields. 午饭是在野外吃的便餐。
+light, little, small snack 小吃；点心 
+quick snack 快餐；匆匆吃点东西 
+We stopped for a quick snack. 我们停下来匆匆吃了点东西。
+healthy, nutritious snack 健康快餐；营养快餐 
+salty, savoury/savory（尤英）snack 咸味点心；美味点心 
+sugary, sweet snack 甜点 
+Do you eat sweets, cakes or sugary snacks? 你吃糖果、蛋糕或甜点吗？
+cold, hot snack 冷食快餐；热食快餐 
+bedtime（尤美）, late-night, lunch-time, mid-afternoon, mid-morning, midnight snack 睡前点心；宵夜；午间快餐；下午茶；上午茶点 
+bar snack 酒吧小吃 
+Do you serve bar snacks? 你这儿卖不卖快餐？
+Order bar snacks with your drinks. 叫点小吃配你的饮料吧。
+to stop for a snack 停下来吃点东西 
+I made myself a light snack. 我为自己准备了些小吃。
+A bar service provides drinks and snacks throughout the day.吧台全天提供饮料和茶点。
+snack food 零食 
+snack lunch, snack meal（均英）快餐午饭；快餐饭 
+Most office staff prefer a snack lunch to a sit-down meal. 大部分办公室职员都喜欢快餐午饭而非在餐厅正式用餐。
+snack time 茶点时间 
+snack bar, snack counter 快餐店；快餐柜台 
+snack machine零食自动售货机 
+I got a drink from the hotel snack machine. 我在宾馆的自动售货机上买了杯饮料。
+It's healthier to snack on fruit rather than chocolate. 作为点心，水果比巧克力更有益于健康。
+Instead of snacking on crisps and chocolate, nibble on celery or carrot. 不要把薯片和巧克力当零食来吃，要吃些芹菜和胡萝卜。
+She would improve her diet if she ate less fried food and snacked less. 如果她少吃油炸食品和零食的话，她的饮食结构就会有所改观。
+It'll be a snack. 这不过是小事一桩。
+
+perhaps (used to indicate doubt or hesitancy):perhaps（用于表示怀疑或犹豫）
+used in polite requests:用于礼貌请求
+in accordance with what is likely or achievable.:根据可能或可实现的。
+used to emphasize that one feels that something is surprising, or bewildering:用于强调某人觉得某事令人惊讶或令人困惑
+used to emphasize that someone has or will put all their effort into something:
+possibly |ˈpɒsɪbli| Adverb/:可能,可能的
+he found himself alone, possibly the only survivor:他发现自己独自一人，可能是唯一的幸存者
+could you possibly pour me another cup of tea?:你能再给我倒杯茶吗？
+what can you possibly mean?:你可能是什么意思？
+be as noisy as you possibly can:尽可能吵闹
+
+belonging to or associated with the person or people that the speaker is addressing:属于或与说话者所针对的人或人相关联
+belonging to or associated with any person in general:一般属于或与任何人有关联
+used to denote someone or something that is familiar or typical of its kind:用于表示熟悉的或同类典型的某人或某事
+used when addressing the holder of certain titles:在称呼某些头衔的持有人时使用
+your |jɔː| Determiner/:您的,你的
+what is your name?:你叫什么名字？
+the sight is enough to break your heart:眼前的景象足以让你心碎
+I'm just your average man in the street:我只是街上的普通人
+Your Majesty:陛下
+
+n. [U]（关于去做某事的）官方或正式许可，即批准，授权:
+n. [U] 因人们对某人的知识或官方职位的尊敬，而使该人具有的影响他人的能力，即权威，威信，影响力:
+n. [C] authority (on sth)指一个拥有专门知识的人，即专家，学术权威。虽然有时也可称为“专家”，但侧重于强调某人在学术领域相对于其他人的一种权威性，因此叫“权威”比较恰当，暗示出一种高高在上的等级性。一个expert或specialist如果在一个领域有领头羊的作用，就是一个authority。如果达不到这种级别，虽然仍是一个expert或specialist，但一般不称为authority:
+n. 1 [U] 对人下达指令的权力，即权威:
+2 [U] authority (to do sth)表示做某事的权力:
+n. [C] 有权做出决定的人或组织，或在一个国家或地区拥有某种职责（responsibility）的人或组织，即当权者，当局，官方，常用复数，如:
+authority |[ɔ:'θɒrɪtɪ][ɔ:'θɒrɪtɪ]
+He took the car without authority. 他未经许可就把车开走了。
+the authority of the president 总统的批准 
+We acted under the authority of the UN. 我们是经联合国授权行动的。
+He spoke with authority on the topic. 他就这个课题发表了权威意见。
+an authority on criminal law 刑法权威 
+world authority 世界级权威 
+He bore an air of authority. 他显出一副权威的样子。
+absolute authority 绝对权威 
+constitutional, governmental, judicial, political, presidential, regulatory authority 宪法的权力；政府权力；司法权力；政治权力；总统的权力；监管的权力 
+divine authority 神权 
+moral authority 道德权威 
+parental authority 父母的权威 
+adult authority figures such as parents and teachers 成年权威人物，例如父母和老师 
+authority as tsar 沙皇的权力 
+to demonstrate his authority 展示他的权力 
+to challenge my authority 挑战我的权威 
+someone in authority 当权者 
+The agency may have exceeded its authority. 该机构也许越权行事了。
+He refuses to relinquish authority over the design process. 他拒绝交出对设计过程的控制权。
+Only the manager has the authority to sign cheques. 只有经理才有权签支票。
+Parents have the authority to discipline their children. 父母有权管教孩子。
+federal, local, municipal authorities 联邦当局；地方当局；市政当局 
+civil, civilian, military authorities 民政部门；军事部门 
+education, health authorities 教育部门；卫生部门 
+German authority 德国当局
+
+adj. 常用于名词前，位于北方的；面向北方的；与世界（或地区）的北部有关的；具有世界（或地区）北部的典型特征的；来自一个地区、州或国家的北部的:
+northern |['nɔ:ðən]（缩写为N或No.）
+Northern Ireland 北爱尔兰
+
+prep. 用于发誓，意为“以…的名义”:
+prep. 用于补充信息，所补充的信息是关于某人来自何地、或其职业等:
+prep. 在…期间:
+prep. 不迟于…；在某个时间之前:
+prep. 用以说明某事发生的速率:
+prep. 用于表示某人所触及或抓住等的某人或某物的一部分:
+prep. 常用于表被动的动词后，以表明动作或行为的发出者或造成者:
+prep. 用于不带the的名词前，表示某事的发生是由于…:
+prep. 用于补充信息，所补充的信息可以是关于某人来自何地:
+adv. 表示保存或保留某事物以供将来使用:
+prep. 表示（动作或行为的）方式:
+prep. 用以表明…的程度或数量:
+prep. 用于表示尺寸:
+prep. 用于乘法或除法运算:
+prep. 1 从…来看，按照…，依…:
+2 与the连用，表示被买、卖或测量的时间段或数量:
+prep. 经过某人或某个事物:
+adv. 经过，相当于past:
+prep. 在…旁边，靠近…:
+adv. 在旁边:
+adv. 表示保存或保留某事物以供将来使用:
+prep. 表示（动作或行为的）方式:
+prep. 短暂拜访某地:
+adv. 短暂地，例如短暂拜访某人:
+prep. 用于补充信息，所补充的信息可以是某人的职业:
+prep. 乘坐（车辆）:
+prep. 用以表明…的程度:
+by |[baɪ][baɪ]
+I swear by God ... 我以上帝之名发誓…
+He is a teacher by profession. 他的职业是教师。
+by birth 在血统上（或祖籍）
+She is kind by nature. 她天性善良。
+to work by night 在夜间工作 
+by day 在白天
+Hand in your work by this weekend. 本周末之前把你的作业交上来。
+by now 到目前为止 
+By the time (that) you reaches our office I will have left there. 你到我们办公室的时候，我已经离开那里了。
+step by step 一步一步地 
+day by day 一天一天地 
+bit by bit 一点一点地
+The boy took her by the hand. 那个男孩抓住她的手。
+The thief was spotted by a police. 那个小偷被一个警察发现了。 
+I met him by chance (or by accident) when I was out for a walk. 我昨天出去散步的时候偶然间遇到了他。
+I opened the poisonous bottle by mistake. 我误开了那个有毒的瓶子。
+by birth 在血统上（或祖籍等）
+I’ve put some money by for buying a new bike. 我已经存了些钱，准备买辆自行车。
+by bus 乘坐公交车 
+to finish the task by seeking others’ help 通过向别人求助来完成这项任务 
+to read a book by candlelight 借助于烛光看书
+Economic growth rates went up by 0.3%. 经济增长率上涨了0.3%。
+It would be better by far to deposit the sum of money. 这要比把这笔钱存到银行里好得多。
+a small room 3metres by 2 metres 一间3米长2米宽的小房间
+12 multiplied by 5 equals 60. 12乘以5等于60。
+12 divided by 4 equals 3. 12除以4等于3。
+It is prohibited by law. 依照法律，这是被禁止的。
+I knew he was lying to me by his eyes. 当时看他的眼神，我就知道他正对我撒谎。
+He’s paid by the day. 他的报酬是按天计算的。
+to rent the house by the month 按月租房 
+to sell it by the kilogram 按千克出售 
+His car passed close by me. 他的车从我身旁驶过。
+He walked by me without a word. 他从我身旁走过，一句话也没说。
+I just went by. 我直接走过去了。
+The boy stood by a tree. 男孩站在一棵树旁。
+My cup is by the book. 我的杯子在书旁边。
+I stood by. 我站在旁边。
+I’ve put some money by for buying a new bike. 我已经存了些钱，准备买辆自行车。
+by bus 乘坐公交车 
+to finish the task by seeking others’ help 通过向别人求助来完成这项任务 
+to read a book by candlelight 借助于烛光看书
+to stop by his house 顺便去他家拜访 
+to come by next afternoon 明天下午顺便过来 
+I’ll stop by after dinner. 晚饭后我会过来待会儿。
+He is a teacher by profession. 他的职业是教师。
+by bus 乘坐公交车 
+It would be better by far to deposit the sum of money. 这要比把这笔钱存到银行里好得多。
+
+n. [usually sing.] 一群支持者、拥护者、追随者:
+prep. 在（某事）以后:
+prep. 由于:
+adj.（船只或车辆）顺风的:
+adj. 1 the following…（时间上）接着的:
+2 the following… 下述的、下列的:
+Write down the following information: name of product, type, date purchased and price. 请写明如下信息:
+n. [sing.] the following 在谈论中表示接下来要谈到的，即下述、下列、如下（动词用单数还是复数取决于后面谈及人、事物的单复数）:
+The following have been chosen to take part: Watts, Hodges and Lennox. 已选定下列人员参加:
+following |[ˈfɒləʊɪŋ;美ˈfɑ:loʊɪŋ]
+The band has a huge following in Italy. 这个乐队在意大利有一大批热心的追随者。
+dedicated, devoted, faithful, fanatical, loyal following 忠实的追随者；狂热的追随者 
+enthusiastic following 热心追随者 
+They enjoy a cult following in Japan. 他们在日本有一批铁杆追随者。
+Top Burgundies attract a fanatical following among wine buffs. 顶级勃艮第葡萄酒在葡葡酒酒迷中吸引了一批狂热的拥趸。
+He took charge of the family business following his father's death. 父亲死后他就接管了家族企业。
+In the centuries following Christ's death, Christians genuinely believed the world was about to end. 在耶稣死后的几个世纪里，基督徒们真的相信世界将要灭亡。
+Following a day of medical research, the conference focused on educational practices. 在就医学研究专题讨论一天后，会议接下来的主题集中在教学实践上。
+The following wind and eastward running tide had given us a very pleasant, lazy sail. 顺风和向东的潮水使我们的航行很惬意、很省力。
+the following afternoon, the following week, the following month, the following year 第二天下午；第二周；第二个月；第二年 
+They arrived on Monday evening and we got there the following day. 他们是星期一晚上到的，我们次日也抵达那里。
+The following day the picture appeared on the front pages of every newspaper in the world. 第二天照片出现在全世界所有报纸的头版。
+We went to dinner the following Monday evening. 接下来那个周一的晚上，我们一起去吃了晚餐。
+Answer the following questions. 回答下列问题。
+The method of helping such patients is explained in the following chapters. 关于如何帮助这种病人，下面章节中将会作出解释。
+The following is a summary of events. 现将重大事件综述如下。
+
+n. [C] 海贝壳:
+seashell |['si:ʃel]
+
+
+pair A and B (together) 常用被动式，指把两个人（或事物）配对，使成对:
+n. [C]（同时养育的）两个同类的鸟（或兽）:
+vi. [术语]（兽或鸟）配对以繁殖，即交配。日常生活中不常用:
+n. 1 [C] 同种类的两件事物（尤指二者被共同使用或穿戴、佩戴）:
+2 [C] 由两个相连接的部分所构成的一个物体:
+3 [C] 两个共同做某事（或有某种关系）的两个人:
+4 [C]（同时养育的）两个同类的鸟（或兽）:
+n. [C] 一起拉马车的两匹马:
+pair |[peə]
+vt. pair A with B 
+All the shoes on the floor were neatly paired. 地板上的鞋子都整齐成双地摆着。
+The trainees will then be paired with experienced managers. 这些实习生之后将被配给有经验的经理们。
+a breeding pair 用于繁殖的一对 
+a pair of swans 一对天鹅 
+Many of the species pair for life. 许多物种都终生配对。
+a pair of socks 一双袜子 
+a matching pair of vases 一对花瓶 
+a huge pair of eyes 一双大眼睛 
+These candles only come in pairs. 这些蜡烛只成对出售。
+a pair of trousers 一条裤子 
+a pair of glasses 一副眼镜 
+a pair of scissors 一把剪刀 
+A pair of teenage boys were smoking cigarettes. 两个青少年正在抽烟。
+They make an odd pair. 他们俩真的不相配。
+The students worked in pairs. 学生们每两人一组学习。
+a breeding pair 用于繁殖的一对 
+a pair of swans 一对天鹅 
+a carriage and pair 双驾马车
+
+vt. 彻底而细致地探究某事物（以期对其了解得更多），相当于analyse:
+vt.＆vi. explore (sth) (for sth) 在某片地域或某个国家穿行以期对其进行了解，如勘探、勘察、探索、考察:
+vt. 用手（或身体的其他部位）去感觉某事物，如探察，有一种探索的意味:
+explore |[ɪk'splɔ:]
+These ideas will be explored in more detail in chapter 7. 这些观点将在第7章做更详细的探讨。
+These questions have not been fully explored yet. 这些问题还没有充分探讨。
+The city is best explored on foot. 最好是徒步考察这个城市。
+to explore the land 勘查土地 
+companies exploring for oil 石油勘探公司
+She explored the sand with her toes. 她用脚趾感觉沙的情况。
+
+n. [C] 与另一国达成协议的一个组织，即伙伴组织:
+n. [C] 配偶或性伴侣。与couple相比，partner更强调各方的合作属性:
+n. [C] 与你共同从事某一活动（如跳舞或玩游戏）的一个人，即搭档:
+vt. 在跳舞、游戏等活动中成为某人的搭档:
+n. [C]（公司等的）合伙人（共同拥有一家公司且共享利润等）:
+n. [C] 与另一国达成协议的一个国家或组织，即伙伴国或伙伴组织:
+partner |['pɑːtnə]
+strategic, trading partner 战略伙伴；贸易伙伴 
+Britain’s partner in the aeronautic project 英国在航空工程上的合作伙伴
+female partner 女友 
+marriage partner 配偶 
+sex partner 性伴侣 
+committed partner 忠实的伴侣 
+unmarried partner 未婚伴侣 
+life partner 终生伴侣
+tennis, dancing, training, conversational, drinking partner 网球搭档；舞伴；陪练；对话伙伴；酒友 
+The old political sparring partners are now firm friends. 这对昔日政治上的老对头现在是挚友。
+Gerry offered to partner me at tennis. 格里提出和我搭档打网球。
+a partner in a law firm 法律事务所的合伙人 
+active, managing partner 参与经营的合伙人；执行合伙人 
+senior partner 主要合伙人 
+founding partner 创始合伙人 
+partner company, partner institution, partner organization 公司的合作伙伴；机构的合作伙伴；组织的合作伙伴 
+business, corporate partner 生意伙伴
+alliance, coalition partner 盟友 
+strategic, trading partner 战略伙伴；贸易伙伴 
+Britain’s partner in the aeronautic project 英国在航空工程上的合作伙伴
+
+vt. spread sth (out) (over sth) 把…划分成各部分后分配到不同的时间（即分若干次来进行），或分配给不同的人等（即分摊）:
+vt. spread sth (out) 张开或伸开手臂、腿脚、手指等:
+n. [C, usually sing.]（人或事物的）多样，广泛:
+n. [C] [美] 相当于bedspread，即（作为装饰用的）床罩（套在床上、床单上或毛毯上等）:
+n. [C, U] 抹在面包上的柔软食物:
+spread (B with A) 把一种物质涂抹到食物的表面；或能够被涂抹到食物表面:
+n. [C] [非正式]（尤指为特殊场合准备的）一顿丰盛的饭食:
+spread (B with A) 把一种物质涂抹到食物的表面；或能够被涂抹到食物表面:
+n. [C, usually sing.] [美] spread (of sth) 一片水域:
+n. [C, usually sing.] [美] spread (of sth) 一片陆地。强调该片土地在空间上的连续性和广阔感:
+n. [C, usually sing.] spread (of sth)（某事物所覆盖的）面积。不常用:
+n. [C, usually sing.] spread (of sth)（某事物的）宽度:
+vt. spread sth (out) (on/over sth) 展开或打开折叠品，让其覆盖一个更大的区域:
+spread (B with A) 把一种物质涂抹到…的表面；或能够被涂抹到…表面:
+vt. spread sth (out) (on/over sth) 把物品摊开，让其覆盖一个更大的区域:
+vt.＆vi. 事物覆盖（或使…覆盖）一个越来越大的区域，即蔓延，扩散等:
+vi. spread (out) 覆盖一大片区域，即延伸，扩张等:
+n. [C, usually sing.] spread (of sth) 涉及的区域或活动范围:
+vt. 使…分布于（或分散于）不同的地方:
+vt.＆vi. 在人们之间流传，传播；或使流传，使传播。是一个常规用词，极为常用:
+n. [U] 传播，蔓延，散布，扩展等:
+vt.＆vi. 疾病在人们之间传播；或使疾病传播。是此义的常规用词，极为常用:
+n. [U] 疾病的传播，蔓延:
+n. [U] 在商业和金融领域可指（两种比率或价格的）差额，尤指股票买卖的价差:
+n. [C] 书籍、报刊或杂志上（在一张纸上的）相反的两页:
+spread |[spred]
+to spread the food over ten days 把食物分散在十天里吃  
+to pay monthly and spread the cost of the machine 把这台机器的费用按月分期支付 
+The meeting will be spread over three days. 本届会议将分三天举行。
+The course takes forty hours, spread over twenty weeks. 这门课程共需四十个小时，分二十周上完。
+to spread the task between the departments 把任务分摊给各部门 
+to spread the state’s wealth more evenly 更加平均地分配国家财富
+Spread your legs. 把你的腿伸开。
+Spread your arms. 张开双臂。
+a broad spread of opinions 各种各样的观点
+cheese spread 奶酪酱 
+Use a low-fat spread instead of butter. 抹点低脂肪的东西吧，不要抹黄油了。
+vt.＆vi. spread (A on/over B) 
+to spread butter on a piece of toast 在烤面包片上抹黄油
+He had laid on a huge spread for the party. 他为聚会安排了丰盛的食物。 
+vt.＆vi. spread (A on/over B) 
+to spread the mixture in the cake pan 把该混合物摊在蛋糕烤盘里
+a vast spread of water 一片浩瀚的水域
+He has a huge spread in this country. 他在该国拥有大片土地。
+His arms have a spread of nearly two metres. 他的臂展近两米。
+to spread the map on a desk 在桌子上展开地图 
+to spread a plastic on the desk 在桌子上铺上塑料 
+to spread a towel on the grass 把一块毛巾铺在草坪上 
+He had a newspaper spread open on his knee. 他把报纸展开放在膝上。
+The bird spread its wings. 鸟儿展开翅膀。
+vt.＆vi. spread (A on/over B) 
+to spread butter on a piece of toast 在烤面包片上抹黄油 
+to spread the paint evenly 均匀地刷油漆
+to spread pictures on the desk 把一些照片摊在书桌上 
+The fire rapidly spread to adjoining buildings. 大火迅速蔓延到了临近的建筑物。
+Water began to spread across the floor. 水开始漫过地板。
+A smile spread slowly across her face. 她脸上慢慢绽开微笑。
+A red stain was spreading across his shirt. 一个红色的污渍正在他的衬衫上渗开。
+Its roots spread widely. 它的根蔓生得很开。
+The stream spread out beneath us. 溪流在我们下方延伸。
+The corporation has a good geographical spread of branches in this country. 该公司在该国开设的分支机构地理分布相当广。
+Seeds are spread by the wind. 种子是随风传播的。
+The company has 50 branches spread all over the country. 该公司有50家分支机构分布在全国各地。
+With four markets to manage, there’s a danger that’s she’s spreading herself too thin. 她要管理四个市场，恐怕会分身乏术。
+to spread rumours about sb 散布关于某人的谣言 
+The news spread like wildfire. 这消息传得快极了。
+the sense of fear spreading in residential neighbourhoods 在住宅区蔓延的恐惧感 
+Her confidence had spread throughout the team. 她的信心感染了全体队员。
+The disease is spread easily by mosquitoes. 这种疾病很容易通过蚊子来传播。
+His fame had spread far and wide. 他声名远扬。
+The effects of this policy spread far beyond children now at school. 这一政策的影响已经远远超出了在校儿童的范围。
+Use of smartphones spread rapidly during that period. 在那段时期，智能手机的使用迅速普及开来。
+Expertise in this field is very thinly spread across the country. 该领域的专门技术在该国没有怎么得到推广。
+The industrial revolution is spreading across the world. 工业革命正向全世界扩散。
+the spread of information, the spread of disease, the spread of fire 信息的逐渐传播；疾病的传播；火势的蔓延 
+the spread of a city into the surrounding areas 城市向周边地区的扩展
+The disease is spread easily by mosquitoes. 这种疾病很容易通过蚊子来传播。
+the spread of disease 疾病的传播
+Market makers earn their livings from the spread between buying and selling prices. 炒股者赚取股票买卖的价格差。
+A photograph of the star adorned the centre/center spread. 那位明星的照片刊登在中间跨页上。
+double spread 横贯两版的文章 
+five-page spread 五页的版面 
+full-page spread 一整版的广告 
+fashion, photo spread 时装广告；图片广告
+
+relating to Switzerland or its people.:与瑞士或其人民有关。
+a native or inhabitant of Switzerland, or a person of Swiss descent.:瑞士本地人或居民，或瑞士血统的人。
+Swiss |swɪs| Adjective/Noun/:瑞士人,瑞士
+
+n. [C] 显微镜:
+microscope |['maɪkrəskəʊp]
+electron microscope 电子显微镜 
+powerful microscope 高倍显微镜 
+microscope slide 显微镜载物玻璃片 
+In the play, love and marriage are put under the microscope.（比喻用法）这部话剧对爱情和婚姻进行了细致入微的探讨。
+
+n. [C] monument to sth 被视为典范的（某人的）品质或事迹:
+n. 1 [C] monument (to sb/sth) 纪念某个著名的人物或历史事件的碑（常是石碑）、建筑物、雕像等。是一个广义用词:
+2 [C] 历史上对…有重要意义的建筑物（如城堡或桥梁等），即历史遗迹，或有价值的历史建筑:
+monument |['mɒnjumənt]
+This book is a monument to his talent as a philosopher. 这部著作是展现他哲学家才华的不朽之作。
+A monument to the event was erected in the city. 在这座城市为此次事件修建了一座纪念碑。
+The new boat is a fitting monument to the crew members who lost their lives. 新船是对遇难船员最好的纪念。
+funerary monument 墓碑 
+religious monument 宗教纪念碑 
+stone monument 石碑 
+ancient, historic, historical monument 古迹；历史遗迹 
+national monument 国家级遗址 
+the best preserved Roman monument in Britain 英国保存最完好的古罗马遗址
+
+slow (in) doing sth 犹豫着去做某事的，或不立即去做某事的，如迟迟不…的，慢吞吞的:
+adj. 不用于名词前，钟表走得慢的:
+adj. 1 移动（或进行、完成）得慢的；花费很长一段时间的；慢的:
+2 行进得慢的；或不允许你行进得快的。即慢速的，低速的:
+adv. 尤用于比较级、最高级形式或构成复合词，指速度慢地，缓慢地，相当于slowly:
+vt.＆vi. slow (sth/sb) (down/up) 放慢速度或降低活跃度；使某事物或某人放慢速度或降低活跃度:
+adj. 不是非常忙碌的；几乎没有行动的。如冷清的，相当于sluggish:
+adj. 学得慢的；理解力差的，迟钝的，不聪明的:
+adj. 摄影中可指胶片曝光慢的:
+slow |[sləʊ]
+adj. slow to do sth 
+She wasn’t slow to realize what was going on. 她很快就意识到出了什么事。
+They were very slow paying me. 他们迟迟不付钱给我。
+My watch is five minutes slow. 我的手表慢五分钟。
+a slow driver 开车慢的人 
+Progress was slower than expected. 进展比预计的缓慢。
+She gave a slow smile. 她慢慢地笑了笑。
+My computer is noticeably slower than before. 我的计算机明显比以前慢了。
+He was noticeably slow to respond. 他明显反应迟缓。
+Civil court proceedings are notoriously slow. 众所周知，民事诉讼程序非常耗时。
+I missed the fast train and had to get the slow one. 我误了快车，只得坐慢车。
+Could you go a little slower? 你能走慢点吗？
+slow-drying paint 慢干漆 
+Drive slow!（美）慢点儿开！
+The car slowed down. 汽车放慢了速度。
+Economic growth is expected to slow. 预计经济增长将放缓。
+The game slowed up a little in the second half. 比赛在下半场节奏略微放慢了一些。
+You must slow down (= work less hard) or you’ll make yourself ill. 你得松松劲，不然会累病的。
+to slow her breathing 稳住她的呼吸 
+Time seemed to slow down as she fell. 她倒下时时间好像慢了下来。
+Sales are slow. 销售不旺。
+He’s the slowest in the class. 他是班里最迟钝的。
+
+of poorer quality or lower standard, less good or desirable:质量较差或标准较低，不太好或可取
+more serious or severe:更严重或更严重
+more reprehensible or evil:更应受谴责或更邪恶
+more ill or unhappy:更多生病或不快乐
+worse |wəːs| Adjective/Adverb/Noun/:更差,更糟,更糟糕的是
+the accommodation was awful and the food was worse:住宿很糟糕，食物更糟糕
+the movement made the pain worse:运动使疼痛加重
+it is worse to intend harm than to be indifferent:故意伤害比漠不关心更糟糕
+he felt worse, and groped his way back to bed:他感觉更糟，摸索着回到床上

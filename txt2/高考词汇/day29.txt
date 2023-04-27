@@ -1,0 +1,661 @@
+select				挑选，精选的
+thunder				雷声，怒吼
+ancestor				祖先，原型
+tend				趋向，照料
+bowl				碗，木球，使滚动
+pretend				假装，自称，假想的
+majority				大多数
+minute				分，片刻，瞬间，记录...的要点
+weather				天气，使受日晒雨淋
+suggestion				建议，迹象，心理暗示
+sunrise				日出
+alike				相同的，相似的
+district				区域
+compulsory				必修的
+Tibet				西藏
+lay				安放，放，提交
+stomach				胃，腹部，胃口，欲望，欣然接受
+damage				损坏
+damages				损害赔偿金
+cough				咳嗽
+shut				关上，夹住，停止营业，关上的
+anniversary				周年纪念日
+coat				外套，层，覆盖
+ham				火腿肉
+ham up				过火的表演
+depth				深度，强烈，立体感
+depths				最深处
+somebody				某人，重要人物
+requirement				需要，必备条件，规定
+guard				警戒，警卫队，防护装置，保卫
+superman				超人
+artist				艺术家，能手
+prove				证明
+prove oneself				展示自己
+\\\\\\\\
+
+vt. 在计算机屏幕上选定；（尤指从一个菜单中）选择:
+select sb/sth (from sth)（通常根据一种制度）从一群人或事物中选择某人或某事物，如挑选、选拔:
+adj. 1 只用于名词前，被从一大群的人或事物中仔细挑选出来的最好者，如精选的:
+2（一个社团、俱乐部、地方等）由有很多金钱或有较高社会地位的人所使用的，相当于exclusive:
+select |[sɪ'lekt]
+Select the text you want to format by holding down the left button on your mouse. 按住鼠标左键选取你想要格式化的文本。
+Select ‘New Mail’ from the ‘Send’ menu. 从“发送”菜单中选择“新邮件”。
+vt. select sb/sth (as/for sth) 
+He hasn’t been selected for the team. 他未能入选进队。
+She was selected as the parliamentary candidate for Bath. 她被选为巴斯选区的议员候选人。
+a randomly selected sample of 23 schools 随机抽选的23所学校 
+selected poems of T.S. Eliot T.S.艾略特诗选 
+This model is available at selected stores only. 这种款式只在特定商店有售。
+Students select modules according to their interests. 学生根据个人兴趣选择学习模块。
+The program automatically selects data. 程序会自动筛选数据。
+a select wine list 名优葡萄酒目录 
+Only a select few have been invited to the wedding. 婚礼只邀请了几个至亲好友参加。
+They live in a very select area. 他们住在一个上层人士住宅区。
+a select club 名流俱乐部
+
+vt.＆vi. 非常大声且愤怒地喊叫等，为文学用语:
+n. [U] 雷鸣般的响声，轰隆声:
+vi. 发出雷鸣般大而低沉的声音:
+vi. 轰隆隆地快速移动:
+vt. [非正式] 使某事物非常快速地移动到某处:
+vt.＆vi. 非常大声且愤怒地抱怨等，为文学用语:
+n. [U] 雷，雷声:
+vi. 打雷:
+thunder |['θʌndə]
+the thunder of the sea on the rocks 海浪拍击礁石的轰隆声 
+the thunder of hoofs 雷鸣般的马蹄声 
+thundering traffic 轰隆隆的来往车辆 
+A voice thundered in my ear. 我耳边响起了雷鸣般的说话声。
+The tanks thundered through the village. 坦克轰隆隆地从村庄中开过。
+She thundered against his opinion. 她大声谴责他的观点。
+a clap of thunder 一声霹雳 
+a roll of thunder 雷声轰隆隆 
+There was thunder and lightning last night. 昨夜雷电交加。
+The windows were shaken by a tremendous crash of thunder. 窗子被一声巨大的闷雷震得乱晃。
+thunder clap（通常用thunderclap）惊雷；霹雳 
+It thundered a when I was watching TV. 我当时正在看电视，然后打了一个雷。
+
+n. [C] 人的祖先，相当于forebear:
+n. [C] 动物的原种（即某个现代动物的祖先）:
+n. [C] 机器的原型，相当于forerunner:
+ancestor |['ænsestə]
+direct ancestor 直系祖先 
+distant, remote ancestor 远祖 
+human ancestor 人类的祖先 
+literary, spiritual（比喻用法）ancestor 文学先祖；精神先祖
+The two species share a common ancestor. 这两个物种有一个共同的祖先。
+the ancestor of the modern bicycle 现代自行车的原型
+
+vt. [美]（在商店、酒吧等）招待或服务顾客:
+vt.＆vi. tend (to) sb/sth 照料；照看；护理。是一个基础用词:
+vi. 很有可能以某种方式做某事或发生某事，因为通常都是这样子的。即往往会，常常会:
+vi. tend (to/towards sth) 朝向某个方向或常具有某种品质或特征，即趋向:
+tend |[tend]
+He had a job tending bar in San Francisco. 他在旧金山做酒吧服务员。
+a shepherd tending his sheep 照看羊的牧人 
+Doctors and nurses tended the injured. 医生和护士护理受伤者。
+He tended to her every need. 他照管她的一切需要。
+She lovingly tended her garden. 她悉心打理她的花园。
+Women tend to live longer than men. 女人往往比男人长寿。
+When I’m tired, I tend to make mistakes. 我累了就容易出错。
+His views tend towards the extreme. 他的观点趋于偏激。
+Prices have tended downwards over recent years. 近年来物价趋于下降。
+I tend to think that... 我倾向于认为…
+
+vi. [英]（尤指在一个交通工具里）朝某个方向快速移动，如快速行驶:
+n. [C] 一些物体的碗状部分:
+n. [C] 尤用于构成复合词，指深的、圆形的、广口的盘子（用于盛放食物或液体），可称为碗，钵，盆等:
+n. [C] [尤美] 构成名称，指一个大的、圆形的、露天的（即没有屋顶的）剧场（用于户外的音乐会表演等）。是一个形象化用词:
+n. [C] 也可用bowlful，指一碗，一钵或一盆等的量:
+vt. bowl sb (out) 板球运动中可指通过击中三柱门而把击球员杀出局:
+n. [C] [美] 构成名词，美式足球中可指在主要赛季之后，强队间所进行的一场比赛，可称为强队季后赛:
+n. 1 [C] 草地滚球游戏和保龄球运动中所用的一个沉重的木球:
+2 [U]（美也用lawn bowling）bowls指草地滚球游戏（在一个平坦光滑的草地上，游戏者轮流滚球，使其尽量与小球靠近）:
+vt.＆vi. 1（草地滚球游戏和保龄球运动中）滚球，投球（让球滚动）:
+2 板球运动中可指把球投给击球员:
+bowl |[bəʊl]
+Soon we were bowling along the country roads. 我们不久便在乡村的公路上疾驰了。
+the bowl of a spoon 勺子头 
+toilet, lavatory bowl 马桶
+china, glass bowl 瓷碗；玻璃碗 
+food bowl 饭碗 
+soup bowl 汤碗 
+mixing, serving bowl 搅拌用的碗；上菜碗 
+begging bowl（比喻用法）讨饭用的碗 
+a washing-up bowl full of dirty dishes（英）盛满脏碟子的洗涤盆 
+goldfish bowl 金鱼缸
+the Hollywood Bowl 好莱坞露天剧场
+a bowl of soup 一碗汤 
+a bowl of cherries 一碗樱桃
+the Super Bowl 超级杯季后赛
+
+adj. [非正式] 常用于名词前，常为儿童用语，非真实的，想象的:
+vt.＆vi. 1 pretend (to sb) (that ...) 假装或佯装（以使别人相信虚假的事情）。是一个常规用词:
+2（尤指儿童）在游戏中想象某事是真的，如扮作，模拟:
+vt.＆vi. pretend (to sth) 通常用于否定句和疑问句，宣称（自己是…、自己做某事或自己拥有某东西），如自诩，自称，自认为等:
+pretend |[prɪ'tend]
+pretend cakes 假蛋糕
+He pretended to his family that everything was fine. 他对家人佯称一切都好。
+We pretended (that) nothing had happened. 我们假装什么事情也没发生。
+He pretended to his boss that he’d written the article. 他向老板撒谎说那篇文章是他写的。
+I can’t go on pretending any longer. 我再也装不下去了。
+Let’s pretend (that) we’re astronauts. 咱们装扮成太空人吧。
+I can’t pretend to any great musical talent. 我不能妄称自己多有音乐天赋。
+I don’t pretend (that) I know much about the subject, but … 我不敢说自己对这个主题有多了解，但是… 
+The book doesn’t pretend to be a great work of literature. 这本书并未自封为文学杰作。
+
+n. [sing.] majority (of sb/sth)（一群人或事物中的）最大的一部分，即大多数，大部分。是此义的常规用词，最为常用:
+n. 1 [C] [英] majority (over sb)（一个政党在一场选举中）获胜的票数；（在一场讨论等活动中）一方获胜时比对手多出的票数:
+2 [C] [美]（选举中的获胜者）比其余各方票数总和所多出的票数:
+n. [U] 成年的法定年龄:
+majority |[mə'dӡɒrɪtɪ][mə'dӡɒrɪtɪ]
+the majority of people 大多数人 
+in the vast majority of cases 在绝大多数情况下 
+the silent majority 沉默的大多数 
+moral majority 道德多数派 
+majority language, majority religion 大语种；主流宗教 
+majority opinion 多数人的观点 
+majority decision 多数人的决定
+She was elected with a majority of 749. 她以749票的多数票当选。
+an overall majority 绝对多数票 
+a huge majority 非常多的多数票赞 
+160-seat majority 160席的优势 
+to win two-thirds majority 赢得三分之二的多数票 
+
+vt. 将会议上所说的某事写进会议记录:
+n. 1 [pl.] the minutes 可指在正式会议上对发言或决定所做的总结或记录，即会议记录，会议纪要:
+2 [C] 关于某个主题的简短笔记，（尤指提出某个行动方案的）简短记录:
+adj.（最高级为minutest，无比较级）细致入微的、详细的:
+n. [C]（缩写为min.）分钟:
+n. [sing.] [非正式] 非常短暂的一段时间，即一会儿:
+n. [sing.] 时刻（是一个确切的时间点）:
+adj.（最高级为minutest，无比较级）极小的:
+n. [C] 分（为角度单位，即六十分之一度）:
+minute |['mɪnɪt][maɪˈnju:t;NorthAmericanEnglishalso-ˈnu:t]
+I’d like that last remark to be minuted. 我希望把刚才那句话记录在案。
+You don’t need to minute that. 你不必记录那些。
+He’d been reading the minutes of the last meeting. 他一直在看上次会议的记录。
+minute examination, minute inspection 细致的检查；细致的视察 
+She remembered everything in minute detail/in the minutest detail(s). 她记得每一件事的细节。
+The party was planned in the minutest detail. 聚会策划极为详细。
+It’s four minutes to six. 差四分钟六点。
+Boil the rice for 20 minutes. 将米煮20分钟。
+It only takes a minute to make a salad. 只要一会儿就能做好色拉。
+the last minute 最后一刻 
+Could you wait a minute, please? 请你等一会儿，好吗？
+I’ll be with you in a minute. 我一会儿就来。
+The ship sank within minutes. 转眼间船就沉没了。
+Tell him I want to see him the minute he arrives. 他到了让他马上来见我。
+Come here this minute! 马上到这儿来！
+At that very minute, Tom walked in. 就在这时候，汤姆走了进来。
+The kitchen on the boat is minute. 小船上的厨房小极了。
+minute amounts of chemicals in the water 水中含量极小的化学成分 
+Only a minute amount is needed. 只需要很少的一点点。           
+37 degrees 30 minutes (37˚ 30′) 37度30分
+
+vt. 经受住，或平安地渡过困难时期:
+n. 1 [U] 天气:
+2 [C] [非正式] the weather 可指气象预报:
+vt.＆vi. 因日晒、风吹、雨淋等天气原因而褪色或变形等:
+weather |['weðə]
+The company has managed to weather the storm. 该公司设法渡过了这场风暴。
+bad weather 恶劣的天气 
+cold weather 寒冷的天气 
+bright, clear weather 晴朗的天气 
+dry weather 干燥的天气 
+extreme weather 极端天气 
+Next day the weather turned cold. 第二天天气就变冷了。
+weather conditions 天气状况 
+Atlantic weather systems 大西洋气候系统 
+weather forecast, weather report 天气预报；气象报告 
+weather information 气象信息 
+weather satellite, weather station 气象卫星；气象站 
+weather chart, weather map 气象图 
+a change in the weather 天气的变化 
+The wooden post weathers to a grey colour. 这个木杆褪成了灰色。
+The stone has weathered badly. 这块石头已经严重风化了。
+to naturally weather 自然地风化
+
+n. [C, usually sing.] 某事物的些微标记，即迹象，相当于trace:
+n. [U, C, usually sing.] 认为某事（尤指坏事）属实的一个理由，相当于hint:
+suggestion (that ...) 为某人提出的一个供其考虑的想法或计划，即建议，提议。可以是正式的专业性建议，也可以是非正式非专业性的提议。且不强调该提议对最终决策结果有多大的影响:
+n. [U] 通过让人产生联想而把某个观念嵌入到人的头脑中，如暗示:
+suggestion |[sə'dӡestʃən]
+She looked at me with just a suggestion of a smile. 她看着我，脸上带着一丝笑意。
+Her eyes contained a strong suggestion of mischief. 她的眼神里流露出明显的恶作剧的神情。
+At the slightest suggestion of criticism, he loses his temper. 即使是一丁点儿批评，他都会发脾气。
+A spokesman dismissed any suggestion of a boardroom rift. 发言人的话打消了人们关于董事会不和的所有推测。
+There was no suggestion that he was doing anything illegal. 说他在从事非法活动无任何根据。
+Do you have any suggestions? 你有什么建议吗？
+We are open to suggestions. 我们愿意听取大家的建议。
+They made three specific suggestions. 他们提出了三条明确的建议。
+Most advertisements work through suggestion. 多数广告都是通过暗示而发挥作用。
+hypnotic suggestion 催眠暗示 
+to remove the pain by the power of suggestion 用暗示的力量消除病痛
+
+the time in the morning when the sun appears or full daylight arrives:早晨太阳出现或日光充足的时间
+the colours and light visible in the sky on an occasion of the sun's first appearance in the morning, considered as a view or spectacle:早晨太阳首次出现时天空中可见的颜色和光线，被视为景观或奇观
+sunrise |ˈsʌnrʌɪz| Noun/:日出,黎明
+an hour before sunrise:日出前一小时
+a spectacular sunrise over the summit of the mountain:山顶壮观的日出
+
+adj. 不用于名词前，非常相像的，十分相似的。程度通常较深:
+adv. 1 十分相像地，非常相似地:
+2 用于已提到过的两个人或两个群体之后，表示两者都；同样地:
+alike |[ə'laɪk]
+My sister and I do not look alike. 我和我妹妹外貌不相像。
+The two towns are very much alike in size and population. 这两个城镇在规模和人口方面都极为相似。
+They tried to treat all their children alike. 他们尽量对自己的孩子一视同仁。
+Good management benefits employers and employees alike. 良好的管理对雇主和雇员同样有利。
+
+n. 1 [C] 一国（或一个城镇）的一个地区，尤指具有某些特征的地区:
+2 [C] 一个国家、城镇或州邦出于管理（尤指行政管理）之目的而划分出来的若干区域（可称为行政区、管区等）之一（各区域之间具有正式或官方的界线）:
+district |['dɪstrɪkt]
+Fire crews from all the surrounding districts helped to fight the fires. 来自周边各区的消防人员参与扑火。
+central, downtown（美）district 中心区；闹市区 
+remote district 偏僻地区 
+northern district 北方地区 
+rich, wealthy district 富裕地区 
+historic district 历史名胜区 
+conservation district（美）保护区 
+coastal, country, local, urban district 沿海地区；乡村地区；当地；市区 
+business, commercial, industrial, residential district 商业区；工业区；住宅区 
+arts, shopping district 艺术区；购物区 
+Times Square is the entertainment district of New York. 时代广场是纽约的娱乐区。
+mining district（美）采矿区 
+tax district 税务区 
+administrative district 行政区 
+electoral, polling, voting district（美）选区；投票区 
+Republican district 共和党占上风的区 
+military, school（美）district 军事区；学区 
+red-light district 红灯区 
+district council 区政务委员会 
+district court（美国的）地区法庭
+
+adj. 因法律或规则而必须得到执行的，如强制性的，相当于mandatory。与voluntary相反:
+compulsory |[kəm'pʌlsərɪ]
+It is compulsory for all motorcyclists to wear helmets. 所有骑摩托车的人都必须戴头盔，这是强制性的。
+English is a compulsory subject at this level. 英语在这一级别是必修科目。
+compulsory education, compulsory schooling 义务教育 
+compulsory redundancies 强制裁员
+
+a mountainous region in Asia on the northern side of the Himalayas, since 1965 forming an autonomous region in the west of China, population 2,840,000 (est. 2007), official languages, Tibetan and Chinese, capital, Lhasa.:亚洲喜马拉雅山北侧山区，自1965年在中国西部形成自治区，人口284万（2007年估计），官方语言藏汉，首都拉萨。
+Tibet |tɪˈbɛt| Noun/:西藏,藏,中国西藏
+
+vt. 1 把…放在某个位置（尤指轻轻地或小心地放置）:
+2 lay sth (down) 把…放下（尤指放在地板上）以准备使用，即铺，铺放，铺设:
+3 [正式] 使…处于某种位置或状态（尤指使其处于困境），相当于place:
+4 与名词连用构成短语，其含义与和该名词相关的动词相同:
+adj. 只作前置定语，指在某一学科上没有专业知识或专业资质的，即外行的，非专业的:
+vt. 1 与一些名词连用，以谈论为某事做正式的准备。如奠定基础或制定规划等:
+2 从细节方面来准备某事，即周密准备或筹划:
+vt. [英；旧时] 在桌子上摆放刀叉、盘子等餐具（准备用餐），相当于set:
+vt.＆vi.（鸟、昆虫、鱼等）下蛋，产卵:
+vt. 向某人提出一项建议、提议或一则信息（以供其考虑或在此基础上做决定）:
+lay B with A（在某物上）摊开，涂，敷；用一层…覆盖…:
+vt. 摆好木头、柴或煤以生火:
+adj. 在基督教堂里没有正式职位的，即平信徒的；在俗的；俗家的:
+vt. 对…下赌金；下赌注:
+lay |[leɪ]
+He laid the plates down on the table. 他把盘子放到桌上。
+He laid a hand on my arm. 他把手搭在我的胳膊上。
+She laid aside her book. 她把书放到一旁。
+Relatives laid wreaths on the grave. 死者亲属在墓前献了花圈。
+The horse laid back its ears. 那匹马把耳朵往后竖着。
+to lay carpet, to lay cable, to lay pipe 铺地毯；铺设电缆；铺设管道 
+The foundations of the house are being laid today. 今天正在给房子打地基。
+to lay a responsibility on sb 把责任加于某人身上 
+to lay a burden on sb 把重担加于某人身上 
+to lay sb under an obligation to do sth 使某人承担做某事的义务 
+to lay the blame on sb 归咎于某人 
+The police laid charges against him of a crime. 警方起诉他一项罪名。
+Our teacher lays great stress on good spelling. 我们老师着力强调要拼写正确。
+His book explains the theory for the lay public. 他的书为大众阐明了这个理论。
+It is difficult for a lay person to gain access to medical libraries. 非专业人员很难进入医学图书馆。
+to lay the basis for something 为某事奠定基础 
+to lay plans for something 为某事制定规划 
+to lay a trap for sb 给某人设下圈套 
+She began to lay her plans for her escape. 开始周密策划准备逃走。
+to lay the table 摆好餐具准备用餐
+The hens are not laying well. 母鸡现在不爱下蛋。
+The bill was laid before Parliament. 议案已提交议会审议。
+vt. lay A (on/over B) 
+He laid newspaper on the floor. 他在地板上铺了报纸。
+to lay a blanket over him 给他盖上毛毯 
+The grapes were laid to dry on racks. 葡萄被摊放在架子上晾干。
+a lay preacher 在俗传道员
+to lay a bet 下赌注 
+She had laid $100 on the favourite. 她在那匹特别喜爱的马上下注100美元。
+
+vt. 尤用于否定句或疑问句，指能够接受并享受…（其用于否定句时表示不能忍受）；喜欢和某人相处:
+n. [C]（大多数人所不具有的）忍耐力（是一种对…不觉得恶心的忍耐力）:
+vt. 尤用于否定句或疑问句，指能吃得下:
+n. [C] 腹部，肚子。是由“胃”衍生出来的一个义项，与belly在用法上未见明显区别，也算常用:
+n. [C] 胃，胃脏:
+stomach |['stʌmək]
+I can’t stomach horror films. 我受不了恐怖片。
+I could never stomach the cruelty involved in the wounding of animals. 我永远无法忍受伤害动物的残暴行为。
+I find her very hard to stomach. 我觉得很难和她相处。
+Surgery demands a strong stomach. 外科手术通常需要极强的忍耐力。
+I can’t stomach the meal. 我吃不下饭。
+to kick him in the stomach 踢在他的肚子上 
+My stomach is in knots. 我的肚子拧劲儿疼。
+stomach muscles 腹肌 
+I lay on my stomach on the beach. 我趴在海滩上。
+stomach ache, stomach pain, stomach cancer 胃痛；胃癌 
+stomach acid 胃酸 
+to have an upset stomach 胃部不适 
+Avoid exercising on a full stomach. 避免饱腹运动。
+
+vt. 损害、伤害、破坏（某事物或某人）。在行为上也算是一种广义上的损害，与harm类似。不过harm的程度无轻重之分，而damage一般程度较重:
+n. 1 [U] damage (to sth) 对某事物造成的有形的损坏或破坏（使其吸引力、有用性或价值降低）:
+2 [U] damage (to sb/sth) 对某人或某事物有害的效果或作用，即损害，伤害:
+n. 1 [U] damage (to sth) 对某人的心理或感情造成的伤害。程度较重:
+2 [U] damage (to sb/sth) 对某人或某事物的有害的效果或作用，即损害，伤害:
+vt. 损害、伤害、破坏（某人）:
+n. 1 [U] damage (to sth) 对某事物造成的有形的损坏或破坏（使其吸引力、有用性或价值降低）。尤指严重损害:
+2 [U] damage (to sb/sth) 对某人或某事物有害的效果或作用，即损害，伤害:
+vt. 损害、伤害、破坏（某人）:
+n. [pl.] damages 可指法院判定的由特定的人、公司等赔偿给某人的一笔钱（因赔偿方对此人造成了伤害），即损害赔偿金。是此义的常规用词，极为常用:
+damage |['dæmɪdӡ]
+Several vehicles were damaged in the crash. 好几辆汽车在撞车事故中损坏了。
+Smoking seriously damages your health. 吸烟严重损害健康。
+The allegations are likely to damage his political career. 这些指控有可能伤及他的政治生涯。
+emotionally damaged children 感情上受伤害的孩子 
+The building was badly damaged by fire. 这座建筑遭到火灾的严重破坏。
+emotional, environmental, mechanical, physical, psychological, structural damage 感情伤害；环境破坏；机械损伤；身体伤害；心理伤害；结构损坏 
+brain, liver damage 脑部损伤；肝脏损伤 
+fire, smoke, bomb, storm damage 火灾损失；烟雾熏坏；炸弹毁坏；暴风雨破坏 
+The earthquake caused damage to property estimated at $6 million. 地震造成大约600万美元的财产损失。
+Make sure you insure your camera against loss or damage. 一定要给你的照相机投保，以防丢失或损坏。
+The insurance policy covers the building for accidental damage. 这份保单承保这座建筑的意外毁损。
+serious damage to the country’s economy 对国家经济造成的严重破坏 
+The incident did permanent damage to relations between the two countries. 这起事件对两国关系造成了永久的损害。
+damage to a person’s reputation 对个人名誉的损害 
+criminal, malicious, wilful damage（均英，法律用语）刑事损害；蓄意损害 
+lasting damage to the environment 对环境的持久破坏
+emotional, psychological damage 感情伤害；心理伤害 
+damage to a person’s reputation 对个人名誉的损害
+emotionally damaged children 感情上受伤害的孩子
+physical damage 身体伤害 
+brain, liver, nerve damage 脑损伤；肝损伤；神经损伤 
+criminal, malicious, wilful damage（均英，法律用语）刑事损害；恶意损害；蓄意损害 
+Smoking seriously damages your health. 吸烟严重损害健康。
+emotionally damaged children 感情上受伤害的孩子
+civil damages 民事赔偿金 
+damages for personal injury 人身伤害赔偿金 
+to pay damages 支付损害赔偿金 
+to sue for damages 起诉对方以要求赔偿 
+She was awarded £6 000 (in) damages. 她被判予6000英镑的损害赔偿金。
+to assess the damages 评定损害赔偿额 
+to claim $15 million in damages 索取1500万美元的损害赔偿金
+
+
+damages | 损害赔偿,损坏
+
+vi.（发动机）突然发出刺耳的声音:
+vi. 咳嗽:
+vt. cough sth (up) 把…（如血、痰等）从喉咙或肺中咳出:
+n. 1 [C] 咳嗽，或咳嗽声:
+2 [C] 使人咳嗽的疾病:
+cough |[kɔ:f]
+to begin to cough violently 开始剧烈地咳嗽 
+I can’t stop coughing. 我咳嗽不止。
+to have a coughing fit 一阵咳嗽 
+to cough politely 斯文地咳嗽 
+to cough blood 咳血 
+to cough mucus 咳出粘液 
+to cough phlegm 咳痰 
+Coughs can spread infections. 咳嗽能传播疾病。
+He gave a little cough to attract my attention. 他轻轻地咳了一声以引起我的注意。
+to have a dry cough 干咳 
+to have a persistent cough 顽固的咳嗽 
+to have a hacking cough 频繁地咳嗽 
+I can’t seem to shake off the cough. 我的咳嗽好像老也好不了。
+to stifle a cough 忍住咳嗽 
+cough medicine, cough syrup 止咳药；止咳糖浆
+
+vt.＆vi. 闭上（眼睛等）。与close未见明显差别:
+adj. 不用于名词前，（眼睛、嘴等）关闭，合拢，相当于closed:
+adv.（眼睛、嘴等）关闭，合拢:
+vt.＆vi. 使某事物关闭；变得关闭（或合上）:
+adv. 关闭，合拢:
+adj. 不用于名词前，关闭，合拢，相当于closed:
+vt.＆vi. [英]（一家商店、餐馆等）停止营业，关门，打烊；使（一家商店、餐馆等）停止营业，关门，打烊。此时词义与close无明显差别:
+adj. [英] 停止营业，相当于closed:
+vt.＆vi. 合上（书）；（书）（合上）。单纯在词义上，与close几无区别，只是close此时仅为及物动词:
+adv. 合上（书籍或文件等）:
+shut |[ʃʌt]
+She shut her eyes. 她闭上眼。
+Keep your eyes shut. 别睁开眼睛。
+Keep your mouth shut. 别张开嘴。
+His jaw was clenched shut. 他咬紧牙关。
+I clamped my mouth shut. 我双唇紧闭。
+She squeezed her eyes shut. 她紧闭双眼。
+to shut the door, to shut the suitcase, to shut eyes, to shut the book 关门；合上手提箱；闭上眼睛；合上书 
+The window won’t shut. 这窗子关不上。
+She slammed the door shut. 她咣的一声把门关上了。
+The window blew shut. 窗户被风吹得关上了。
+The windows were sealed shut. 窗户被封住了。
+He slammed the case shut. 他砰的一声合上了箱子。
+She snapped shut a file on her desk. 她啪的一声把桌子上的文件合上了。
+The curtains were drawn shut. 帘子拉上了。
+His jaw was clenched shut. 他咬紧牙关。
+I clamped my mouth shut. 我双唇紧闭。
+She squeezed her eyes shut to keep the tears from coming. 她紧闭双眼，不让泪水涌出来。
+The door was shut. 门关着。
+Keep your eyes shut. 别睁开眼睛。
+Afraid to ask seemingly stupid questions, I kept my mouth shut.（比喻用法）我担心自己提出的问题听上去很蠢，所以一直闭着嘴不作声。
+The bank shuts at 4. 那家银行4点钟关门。
+The bank is shut now. 银行现在不营业。
+The park is now shut for the winter. 现在是冬季，这个公园不开放。
+He shut his book. 他合上书。
+She snapped shut a file on her desk. 她啪的一声把桌子上的文件合上了。
+
+n. [C]（重要或特殊事件的）周年纪念日:
+anniversary |[͵ænɪ'və:sərɪ]
+on the anniversary of his wife’s death 在他妻子去世的周年忌日 
+to celebrate your wedding anniversary 庆祝结婚纪念日
+
+vt. coat sth (with/in sth) 给食物涂上（或覆盖上）一层…:
+vt. coat sth (with/in sth) 给食物涂上（或覆盖上）一层…:
+n. [C] 外套。是此义的常规用词:
+n. [C] 涂料层，或其他覆盖在一个表面上的物质层:
+n. [C] 动物的皮毛:
+vt. coat sth (with/in sth) 给…涂上（或覆盖上）一层…:
+coat |[kəʊt]
+to coat the meat with salt 给肉撒上盐 
+Coat the fish in the sauce. 把鱼裹上一层调味酱。
+Liberally coat the fish fillets with flour. 把鱼柳裹上厚厚的面粉。
+winter coat 冬季外套 
+waterproof coat 防水外套 
+leather coat 皮革外套 
+tail coat（通常用tailcoat）燕尾服 
+laboratory, white coat 实验室白大褂 
+coat collar, coat pocket 外衣衣领；外衣口袋 
+coat hook 外衣挂钩
+a coat of paint 一层油漆
+a dog with a long shaggy coat 皮毛又长又蓬乱的狗 
+The dog sheds its winter coat once the weather becomes warmer. 这条狗天一变暖就会蜕掉过冬的毛。
+to coat the meat with salt 给肉撒上盐 
+The fabric has been specially coated to improve its water resistance. 这种布料加了特别涂层，所以更能防水。
+The furniture was thickly coated with dust. 家具上覆盖着厚厚的一层灰。
+
+n. [C, U] 用盐腌过或用烟熏过的猪大腿肉（作为食物），即火腿；还可指此种火腿肉:
+n. [C] [非正式] 常用作形容词，指表演糟糕的演员（尤指通过夸张情绪而演砸的演员）:
+n. [C] 无线电通讯爱好者（而非以之为工作的人）:
+n. [C, usually pl.] [非正式]（人膝盖以上的）大腿后部:
+ham |[hæm]
+a slice of ham 一片火腿 
+a ham sandwich 火腿三明治 
+smoked ham 熏火腿
+a ham actor 表演过火的演员
+a radio ham 无线电通讯爱好者
+
+n. 1 [U] 感觉或感情的强度和力量，即深厚；诚挚；强烈等:
+2 [C, usually pl.]（具有文学性）眼神的最深处:
+n. [C] 城府:
+n. [C, usually pl.]（具有文学性）…的最深处；…的最极端（或最严重）的部分:
+n. [U]（一种颜色的）浓度或强度:
+n. [C, usually pl.]（具有文学性）…的最深时段:
+n. [pl.] 指距地区边缘较远的地方:
+n. 1 [C, U] 从某事物的顶部（或表面）到其底部的距离，即深度:
+2 [C, U] 从某事物的前部到其后部的距离:
+n. [U] [术语]（图画的）立体感:
+n. [U] [术语]（艺术品或图画、照片等的）立体感:
+n. [U] [术语]（照片的）立体感:
+n. [U] [褒]（知识的）渊博或深刻:
+n. [U]（情况的）严重程度:
+depth |[depθ]
+the depth of his feelings for her 他对她的深情 
+music of great emotional depth 饱含深情的音乐 
+The rejection plunged her into the dark depths of despair. 遭到拒绝使她陷入了绝望的深渊。
+the depth of feeling against the war 强烈的反战情绪 
+He gazed into the depths of her eyes. 他深深凝望着她的眼睛。
+I suspect she has hidden depths. 我怀疑她深藏不露。
+the depths of the ocean 海洋深处 
+in the depths of winter 在隆冬季节 
+She was in the depths of despair 她处于绝望的深渊。
+He gazed into the depths of her eyes. 他深深凝望着她的眼睛。
+Strong light will affect the depth of colour of your carpets. 强烈的阳光会使地毯退色。
+in the depths of winter 在隆冬时节
+the depths of the countryside 乡村深处 
+to live in the depths of the country 住在偏远地区
+What’s the depth of the water here? 这儿的水有多深？
+They dug down to a depth of two metres. 他们挖到两米深。
+The depth of the shelves is 30 centimetres. 书架的深度为30厘米。
+the depth of a cut 切口深度
+a writer of great wisdom and depth 有卓越智慧和洞察力的作家 
+great depth of knowledge 高深的知识 
+His ideas lack depth. 他的想法缺乏深度。
+the depth of her knowledge 她知识的渊博 
+Her paintings reveal hidden depths. 她的画作透露出隐含的洞察力。
+I studied phonology in depth at college. 我在大学里深入学习了音系学。
+great depth of understanding 很深刻的理解力
+the depth of the crisis 此次危机的严重程度
+
+
+depths | 深度,深处
+
+some person, someone.:某人，某人。
+a person of importance or authority:重要或权威的人
+somebody |ˈsʌmbədi| Pronoun/:某人,有人
+I'd like to be somebody:我想成为某人
+
+n. [pl.] [正式] 通常用requirements，你所需要（或想要）的东西:
+n. [C] [正式] 你为了去做其他事而必须拥有的东西，即必要条件或必备条件:
+requirement |[rɪ'kwaɪəmənt]
+the basic requirements of life 基本生活所需 
+a software package to meet your requirements 满足你需要的一个软件包 
+These goods are surplus to requirements. 这些货物超过了我们的需要。
+daily requirements of vitamin C 每日所需的维生素C 
+business requirements 业务需求 
+customer, market requirements 顾客需求；市场需求 
+course requirements 课程要求 
+food, nutritional requirements 食物需求；营养需求 
+information requirements 信息需求 
+labour/labor requirements 劳动力需求 
+capital, energy, performance requirements 资金需求；能源需求；性能需求 
+I have some very simple requirements. 我有一些很简单的要求。
+What is the minimum entrance requirement for this course? 这个学程的基本入学条件是什么？
+eligibility requirement 合格要求 
+technical requirement 技术要求 
+environmental requirement 环境方面的要求 
+safety, security requirement 安全方面的要求 
+visa requirement 签证要求 
+legal, procedural requirement 法定的要求；程序上的要求
+
+vt. 保护信息或自己拥有的优势:
+vt. 1 站在某地、某人或某物附近以看护并保护之，即守卫，护卫:
+2 看守某人以防止其逃跑，如看守囚犯:
+3 保护自己拥有的优势:
+n. [U] 警戒、保卫、看守，是一种行为或职责:
+n. 1 [C] 看守某地或某人的人，即卫兵、警卫员或狱警等:
+2 [C] 一队卫兵或一群安保人员:
+n. [C] 常构成复合词，指罩在人的身体部位上，对人起防护作用的装置:
+n. [C] 常构成复合词，指罩在机器部件上，对机器起防护作用的装置:
+n. 1 [C] 篮球中的一名后卫运动员:
+2 [C] 美式足球中指中锋两侧的哨锋:
+n. [U] 防御姿势，尤指在拳击或击剑等运动中摆出的防御姿势:
+n. [C] the Guards 为复数名词，在英国和其他一些国家可指守卫国王或王后等的禁军、御林军、禁卫军:
+n. [C] 在英国英语中可指火车的列车员，不过此义正变得过时:
+guard |[ɡɑːd]
+You must guard your identity. 你必须保守自己的身份。
+closely guarded secret, tightly guarded privacy 严守的秘密；受到严密保护的隐私
+The dog was guarding its owner’s luggage. 狗守护着主人的行李。
+He was under instructions to guard the key with his life. 他奉命要拼死守住钥匙。
+a bird carefully guarding its eggs 小心护蛋的鸟 
+political leaders guarded by the police 由警方保卫的政界领袖们 
+pop stars who need to be guarded from their fans 需要保护以免受歌迷骚扰的流行歌星 
+They guard the city against attack. 他们保护城市免受袭击。
+The military base is closely guarded. 这个军事基地守卫森严。
+The prisoners were guarded by soldiers. 犯人由士兵看守。
+She jealously guarded her position of power. 她警觉地守护着自己的权位。
+24-hour guard 24小时守卫 
+The accused was taken to court under armed guard. 被告在武装戒护下到达法庭。
+military, police guard 军事护卫；警方护卫 
+guard duty, guard dog 警戒任务；看门狗 
+One of the men kept guard, while the other broke into the house. 一人放哨，另一人则闯进了房子里。
+Matt relaxed a little, dropping his guard. 马特放松了一下，警惕性也降低了。
+The question seemed to catch him off his guard.（比喻用法）这个问题似乎让他措手不及。
+border, gate（美）, prison, security guard 边防卫士；门卫；监狱看守人员；保安人员 
+personal, private guard 私人保安 
+military guard 军事警卫员 
+The building is protected by armed guards. 大楼由武装警卫把守。
+civil, presidential, royal guard 国民卫队；总统卫队；皇家卫队 
+honour, advance, elite guard 仪仗队；先遣卫队；精英卫队 
+The President always travels with an armed guard. 总统出行均有武装卫队保驾。
+shin, shoulder, wrist guard（运动时戴的）护胫，护肩，护腕
+Ensure the guard is in place before operating the machine. 一定要在防护装置放到位后再开机器。
+trigger guard 扳机护圈 
+fire guard（室内取暖炉的）炉挡
+to keep up guard 保持防御姿势
+
+a US cartoon, TV, and film character having great strength, the ability to fly, and other extraordinary powers.:一个美国卡通、电视和电影角色，拥有强大的力量、飞行能力和其他非凡的力量。
+a man with exceptional physical or mental ability:一个身体或精神能力出众的人
+superman |ˈsuːpəman| Noun/:超人,超级人
+appearing in that number of races would have taxed the strength of a superman:出现在这么多场比赛中会消耗超人的力量
+
+n. [C] 专业演员或表演艺术家（如音乐家、演员或舞蹈家）:
+n. [C] 创造影视作品的艺术家:
+n. [C] 画家。是一种统称:
+n. 1 [C] 艺术家，尤指画家:
+2 [C] 创造文学、影视等其它作品的艺术家:
+artist |['ɑːtɪst]
+guest artist 特邀艺人 
+solo artist 独奏家；独唱家 
+recording artist 录音师 
+escape artist 逃脱术表演者 
+rap artist 说唱歌手 
+to sign an artist 签下一名艺人
+watercolour/watercolor artist 水彩画家 
+Impressionist artist 印象派画家 
+landscape artist 风景画家
+folk artist 民间艺术家 
+abstract artist 抽象艺术家 
+watercolour/watercolor artist 水彩画家 
+Impressionist artist 印象派画家 
+landscape artist 风景画家 
+graffiti, pavement（英）, sidewalk（美）artist 涂鸦艺术家；街头艺术家 
+comic artist 漫画艺术家 
+The artist is writing a novel. 这位文学艺术家正在写一本小说。
+musical artists 音乐家 
+ceramic, graphic artist 陶瓷艺术家；平面造型师 
+make-up, tattoo artist 化妆师；纹身师 
+an artist in the kitchen（比喻用法）烹饪大师
+
+linking verb.（在一段时间后）发现（或被发现）是，相当于turn out:
+vt. 1 prove yourself (to sb) 向别人展示自己在某方面的才能或能力:
+2 prove yourself sth/to be sth 向别人展示你是某类人或你有某种品质:
+vi. 面包在烘焙前由于发酵作用而隆起，相当于rise:
+vt. prove sth (to sb) 用事实、证据等表明某事是真的，即证明、证实:
+prove |[pru:v]
+The opposition proved too strong for him. 这个对手过于强劲，使得他难以招架。
+Shares in the industry proved a poor investment. 事实证明投资这个行业的股票是一个失败。
+The promotion proved to be a turning point in his career. 这次晋升证明是他职业生涯的一个转折点。
+He constantly feels he has to prove himself to others. 他时常觉得自己必须向人一展身手。
+He proved himself determined to succeed. 他向人证明了自己不达目的不罢休。
+to prove her innocence 证明她的清白 
+‘I know you’re lying.’ ‘Prove it!’ “我知道你在撒谎。”“拿出证据来！” 
+Their reaction just proves my point. 他们的反应恰恰证明了我的观点。

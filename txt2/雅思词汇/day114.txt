@@ -1,0 +1,819 @@
+literacy					读写能力，专业知识
+affirm				断言，申明
+denounce					告发，谴责
+defect					瑕疵，缺陷，叛变
+knit				编织，使紧密结合
+marvelous					令人惊奇的，极好的
+haunt				常去，缠绕，生息地
+preach				说教，宣讲
+tariff				关税
+prime					首要的，最好的，盛年，事先指点
+mist								薄雾
+agony					极度
+pick					挑选，采摘，拿起，剔，选择
+tournament								锦标赛
+genius							天才，才干，特征
+flicker				闪烁，摆动
+hierarchy			等级制度，统治集团
+distinguish						区分，使得以区分
+chamber				腔，舱
+credentials			资格
+invigilate			监考
+recover							收复，恢复，挽回，利用，康复
+artillery				大炮
+ventilate				使...通风，公开表达
+reproach			责备，耻辱
+dump						垃圾场，讨厌的地方，转存，倾倒，抛弃
+volume			册，容积，音量，量
+coalition		联盟
+opening							开幕式，洞，机遇
+hit						击，到达，遇到
+\\\\\\\\
+
+n. [U] 读写能力:
+literacy |[ˈlɪtərəsi]
+a campaign to promote adult literacy 提高成人文化水平的运动 
+basic literacy skills 基本的读写技巧 
+different methods for acquiring literacy 学会读写的不同方法 
+literacy campaign, literacy initiative（美）, literacy programme/program 扫盲运动；扫盲倡议；扫盲计划 
+literacy curriculum（美）扫盲课程 
+literacy class, literacy course 扫盲班；扫盲课 
+literacy test 读写测试 
+literacy level, literacy rate 读写水平；识字率 
+Many adults have some problems with literacy and numeracy. 很多成年人在读写和计算方面都有困难。
+computer, information（美）literacy 计算机素养；信息素养 
+cultural, financial, media, science, technological literacy （均尤美）文化素养；金融素养；媒体素养；科学素养；技术素养 
+a movement to promote financial literacy among women 提高妇女金融素养的运动 
+critical literacy（美）批判意识
+
+vt. [正式] 坚定或公开地申明（某事属实或对某事表示强烈支持）:
+vt.（一个事件）证明（某事正确或存在）:
+affirm |[əˈfɜ:m;美əˈfɜ:rm]
+Both sides affirmed their commitment to the ceasefire. 双方均申明答应停火。
+I can affirm that no one will lose their job. 我可以肯定，谁都不会丢掉工作。
+The House of Lords affirmed that the terms of a contract cannot be rewritten retrospectively. 上议院申明合同条款改写后不具备追溯效力。
+a speech in which he affirmed a commitment to lower taxes 他做出减税承诺的演讲
+Everything I had accomplished seemed to affirm that opinion. 我所取得的一切似乎都证明那个观点是对的。
+
+vt. ~ sb/sth (as sth) 谴责、斥责:
+vt. 向警方或当局告发、检举（某人的非法政治活动）:
+denounce |[dɪˈnaʊns]
+She publicly denounced the government's handling of the crisis. 她公开谴责政府处理这场危机的方式。
+The government was bitterly denounced for the emergency measures. 政府因紧急措施遭到了强烈谴责。
+The project was denounced as a scandalous waste of public money. 这项工程被斥责为挥霍公款，令人愤慨。
+The letter called for trade union freedom and civil rights, but did not openly denounce the regime. 这封信呼吁保障工会自由和公民权利，但没有公开谴责该政权。
+German leaders denounced the attacks and pleaded for tolerance. 德国领导人谴责袭击活动，恳请各方克制。
+He was publicly denounced as a traitor. 他被公开谴责为叛徒。
+These new regulations have been widely denounced. 这些新规遭到广泛谴责。
+They were denounced as spies. 有人检举他们，说他们是间谍。
+Someone must have denounced them to the authorities. 一定有人向当局告发了他们。
+Many people denounced their neighbours to the secret police. 许多人向秘密警察告发自己的邻居。
+informers who might denounce you at any moment 随时都可能告发你们的那些告密者
+
+vi. ~ (from sth) (to sth) 背叛一个政党、国家等（而投入敌方怀抱）:
+n. [C] 身体缺陷:
+n. [C] 某事物的缺点、缺陷:
+defect |[ˈdi:fekt;dɪˈfekt]
+He tried to defect to the West last year. 去年他试图叛逃到西方。
+He defected from the party in the late 1970s. 他在20世纪70年代后期叛出了该党。
+birth, congenital, genetic defect 出生缺陷；先天缺陷；遗传缺陷 
+All lambs are checked for birth defects when they are born. 所有羔羊出生时都要检查是否有先天缺陷。
+developmental, physical, visual, eye, speech defect 发育缺陷；身体缺陷；视力缺陷；语言缺陷 
+The child had a mild heart defect. 这孩子有轻微的心脏缺陷。
+He has a congenital heart defect. 他有先天性心脏缺陷。
+He was born with a hearing defect. 他患有先天性听力缺损。
+This is a physical defect that cannot be cured. 这种身体缺陷是无法治愈的。
+character defect 性格缺陷 
+a defect of her character 她性格上的缺陷
+construction（尤美）, manufacturing, mechanical（尤英）, structural defect 建筑缺陷；制造缺陷；机械缺陷；结构缺陷 
+A defect in the aircraft caused the crash. 飞机的一个缺陷导致了这起坠毁事故。
+The builders agreed to remedy the structural defects. 建筑商答应纠正结构上的缺陷。
+a defect in the glass 玻璃杯的缺陷 
+a fundamental defect in the product 这种产品的一个根本缺陷 
+Goods with slight defects are sold at half price. 有轻微瑕疵的货品以半价出售。
+birth, congenital, genetic defect 出生缺陷；先天缺陷；遗传缺陷 
+All lambs are checked for birth defects when they are born. 所有羔羊出生时都要检查是否有先天缺陷。
+developmental, physical, visual, eye, speech defect 发育缺陷；身体缺陷；视力缺陷；语言缺陷 
+The child had a mild heart defect. 这孩子有轻微的心脏缺陷。
+He has a congenital heart defect. 他有先天性心脏缺陷。
+He was born with a hearing defect. 他患有先天性听力缺损。
+This is a physical defect that cannot be cured. 这种身体缺陷是无法治愈的。
+character defect 性格缺陷 
+a defect of her character 她性格上的缺陷 
+The book contains serious defects. 这本书有严重的缺陷。
+major defects in the education system 教育体制的重大缺陷
+
+When broken bones knit, the broken pieces grow together again. (骨头) 愈合
+Knit is also a combining form. 紧密连接 (用于合成词中)
+If someone or something knits things or people together, they make them fit or work together closely and successfully. 紧密连接
+Knit is also a combining form. 编织 (用于合成词中)
+If you knit something, especially an article of clothing, you make it from wool or a similar thread by using two knitting needles or a machine. 编织
+knit |英 [nɪt]  美 [nɪt]| vi. 编织；结合；皱眉/vt. 编织；结合/n. 编织衣物；编织法/
+The bone hasn't knitted together properly.骨头还没有完全愈合。
+...a closer-knit family.…一个连接更为紧密的家庭。
+The best thing about sports is that they knit the whole family close together.体育运动最大的好处就是将全家紧密连接在一起。
+Ferris wore a heavy knit sweater.菲立斯穿着一件织得厚厚的毛衣。
+I have already started knitting baby clothes.我已经开始织婴儿的衣服了。
+I had endless hours to knit and sew.我有无数的时间来缝缝织织。
+
+
+
+marvelous | 奇妙,了不起,奇妙的
+
+vt. 鬼魂在某地出没或缠着某人:
+vt.（不愉快的事）萦绕于脑际，难以忘却:
+vt. 长期不断地困扰（某人）:
+n. [C] 某人常去的一个地方；某人消磨时光的地方（因为此人喜欢这个地方）:
+haunt |[hɔ:nt]
+a castle which is reputedly haunted（reputedly尤为英式用法）据说闹鬼的一座城堡 
+His ghost is said to haunt some of the rooms, banging a toy drum. 据说他的鬼魂经常敲着玩具鼓出没在其中的一些房间里。
+A headless rider haunts the country lanes. 一个无头骑士常出没于乡间的小路上。
+He said he would come back to haunt her. 他说他会变成鬼魂回来纠缠她。
+The memory of that day still haunts me. 我的脑海中常常回想起那天的情景。
+For years she was haunted by guilt. 多年来她一直感到愧疚。
+the great fear that still haunts her 她至今仍然挥之不去的巨大恐惧 
+The decision to leave her children now haunts her. 抛下孩子们的决定现在总让她不安。
+He will be haunted forever by his failed attempt to rescue the children. 未能成功解救孩子们的经历将使他永难释怀。
+He would always be haunted by that scene in Well Park. 他永远无法摆脱威尔公园里的那一幕。
+These visions continued to haunt her for many years. 多年来这些景象一直在她脑海里萦绕。
+That decision came back to haunt him in later life. 那个决定使他后半生一直不安。
+The stigma of being a bankrupt is likely to haunt him for the rest of his life. 破产的耻辱可能会让他余生不得安宁。
+old, popular（尤英）, regular, usual haunt 常去消磨时光的地方；大众喜爱的地方；常去的地方 
+tourist haunt（尤英）旅游胜地 
+The area was a popular tourist haunt. 此地是游客常来之处。
+We've been back to some of our old haunts.（go back to尤为英式用法）我们回到了以前常去的一些地方。
+The pub is a favourite haunt of artists. 这家酒吧是艺术家最爱光顾的地方。
+The Channel Islands are a favourite summer haunt for UK and French yachtsmen alike. 海峡群岛是英国和法国的帆船运动爱好者夏日最爱去的地方。
+
+If someone gives you advice in a very serious, boring way, you can say that they are preaching at you. 说教
+When people preach a belief or a course of action, they try to persuade other people to accept the belief or to take the course of action. 宣扬
+When a member of the clergy preaches a sermon, he or she gives a talk on a religious or moral subject during a religious service. 布 (道); 布道
+preach |英 [priːtʃ]  美 [pritʃ]| vt. 说教；讲道；鼓吹；传道；反复灌输/vi. 说教；讲道；鼓吹；宣扬/n. 说教/
+"Don't preach at me," he shouted.“不要对我说教，”他喊道。
+Health experts are now preaching that even a little exercise is far better than none at all.如今，健康专家宣扬说，即使少量的运动也比一点不运动要好得多。
+He said he was trying to preach peace and tolerance to his people.他说他正试图向他的人民宣扬和平与宽容。
+The bishop preached to a crowd of several hundred local people.主教向一群几百名当地人布道。
+At High Mass the priest preached a sermon on the devil.在大弥撒仪式上，牧师布了一次有关魔鬼的道。
+
+
+n. [C] 旅馆、饭店或服务公司的收费或价目表:
+n. [C] 关税:
+n. [C] [英，法律] 量刑标准:
+tariff |[ˈtærɪf]
+The daily tariff includes accommodation and unlimited use of the pool and gymnasium. 日常费用包括住宿以及游泳池和健身房的不限时使用。
+electricity tariffs and telephone charges 电费和电话费
+America wants to eliminate tariffs on items such as electronics. 美国打算取消电子产品等的关税。
+British industry was sheltered from foreign competition by protective tariffs. 英国工业凭借保护性关税免受国际竞争的影响。
+The European Union has threatened retaliatory tarrif. 欧盟威胁要征收报复性关税。
+The US could impose punitive tariffs of up to 100% on some countries' exports. 美国可能会对某些国家的出口商品征收高达100%的惩罚性关税。
+import tariff 进口关税 
+agricultural tariff 农业关税 
+steel tariff 钢铁关税 
+a 27% across-the-board tariff on all goods from America 对所有来自美国的商品征收的27%的全面关税 
+a 40% level of tariffs on imports 40%的进口关税 
+The agreement fixed tariffs for foreign goods coming into Japan at 5%. 协议规定对进入日本的外国商品征收5%的关税。
+tariff reduction 关税下调 
+tariff structure 关税结构 
+tariff policy 关税政策 
+tariff rate 关税税率 
+the aim of removing all tariff barriers by next year 明年以前清除所有关税壁垒的目标 
+the removal of tariff protection for farmers 取消对农民的关税保护 
+They set a tariff of 36% on British wool cloth. 他们对英国的毛料征收36%的关税 
+a reduction in tariff/tariffs 关税的下调
+
+If someone primes a bomb or a gun, they prepare it so that it is ready to explode or fire. 事先准备 (炸弹、枪)
+If you prime someone to do something, you prepare them to do it, for example, by giving them information about it beforehand. 事先交代 (某人做某事)
+If someone or something is in their prime, they are at the stage in their existence when they are at their strongest, most active, or most successful. 鼎盛时期
+You use prime to describe an example of a particular kind of thing that is absolutely typical. 最典型的
+You use prime to describe something that is of the best possible quality. 最佳的
+You use prime to describe something that is most important in a situation. 主要的
+prime |英 [praɪm]  美 [praɪm]| adj. 主要的；最好的；基本的/adv. 极好地/n. 初期；青年；精华；全盛时期/vt. 使准备好；填装/vi. 作准备/n. (Prime)人名；(英)普赖姆；(德)普里梅/
+He kept a primed shotgun in his office.他在办公室放了一杆装好子弹的散弹猎枪。
+He was priming the bomb to go off in an hour's time.他在事先准备炸弹在一小时后爆炸。
+Marianne had not known until Arnold primed her for her duties that she was to be the sole female.直到阿诺德向她交待她的职责时，玛丽安娜才知道她将是惟一的女性。
+Claire wished she'd primed Sarah beforehand.克莱尔希望她事先交代过萨拉。
+We've had a series of athletes trying to come back well past their prime.我们有不少早已过了鼎盛时期的运动员在试图复出。
+Maybe I'm just coming into my prime now.可能我刚迈入我的最佳时期。
+The prime example is Macy's, once the undisputed king of California retailers.最典型的例子是梅西百货，曾是加州零售商们公认的王者。
+The location of these beaches makes them prime sites for development.这些海滩的位置使它们成为开发的最佳选址。
+It could be a prime target for guerrilla attack.它会是游击队进攻的一个主要目标。
+Political stability, meanwhile, will be a prime concern.与此同时，政治稳定将是头等大事。
+
+
+mist (over) 指眼睛含着泪水，或使眼睛含着泪水:
+n. [sing.] 液体喷雾，例如从喷雾罐里喷出的雾。远不如spray常用:
+vt. 朝植物的叶片喷雾:
+n. [U, C] 地面上的薄雾、水汽:
+mist (over) 某事物（如玻璃）结满雾气（而模糊不清），或使其结满雾气:
+mist |[mɪst]
+vt.＆vi. mist (sth) (up) 
+Tears misted her eyes. 泪水模糊了她的双眼。
+His eyes misted over as he saw the scene. 当他看到那个场景的时候，他的眼中噙满了泪水。
+dense, heavy, thick mist 浓雾；大雾 
+fine, light, slight, thin mist 细雾；轻雾；薄雾 
+swirling mist 盘旋弥漫的雾 
+hazy mist 朦胧的薄雾 
+red, white mist 红雾；白雾 
+morning mist 早晨的薄雾 
+autumn mist（英语）秋天的薄雾 
+sea mist 海上的雾气 
+the mist over the lake 湖上的雾气 
+to vanish in the mist 消失在雾中 
+The fact is lost in the mists of time.（比喻用法）事实由于年代久远而变得模糊不清。
+vt.＆vi. mist (sth) (up) 
+The glass was misted up with condensation. 玻璃上凝满了水珠，一片模糊。
+My glasses misted up. 我的眼镜蒙上了一层雾气。
+
+n. [U, C] 精神上的极度痛苦:
+n. [U, C] 肉体上的极度痛苦:
+agony |[ˈægəni]
+mental agony 精神上的痛苦 
+It was agony not knowing where the children were. 孩子们下落不明真让人揪心。
+She waited in an agony of suspense. 她提心吊胆地等待。
+The worst agonies of the war were now beginning. 战争最深重的苦难现在开始了。
+Don't prolong the agony--just tell me the result! 别再让我着急了——快告诉我结果吧！
+He endured agonies of loneliness. 他忍受着寂寞的痛苦。
+They went through agony in the search for their missing relatives. 他们在寻找失散亲人的过程中经历了极大的痛苦。
+She was causing David a great deal of agony. 她让戴维饱受痛苦。
+She mumbled an apology in an agony of embarrassment. 她极为尴尬地咕哝着道了歉。                  
+physical agony 肉体上的痛苦 
+She called out in agony. 她疼得叫出声来。
+His face was contorted in agony as he tried to lift himself out of the chair. 他试图从椅子上站起来，痛得脸都变了形。
+Jack collapsed in agony on the floor. 杰克十分痛苦地瘫倒在地板上。
+The soldier died in agony. 这个士兵痛苦地死去。
+A new machine may save thousands of animals from the agony of drug tests. 一种新型机器也许可以将成千上万的动物从药物试验的痛苦中解脱出来。
+The little creature squirmed in its death agonies. 这个小生命快要死了，正痛苦地扭动着身体。
+
+vt. 从植物或树上采摘花、水果、叶子等:
+vt. 将…用手指或手从某处拿走:
+vt. pick a fight with sb可表示故意挑衅（以打架）:
+vt.（尤指用手指）摘掉，剔除或掐去某物，如从…上摘掉小片或小块…:
+n. [C] 镐（一种工具，用于刨挖等劳动），与pickaxe同义:
+n. [C] 镐（一种工具，用于刨挖等劳动），与pickaxe同义:
+vt. 从一群人或事物中进行选择，即挑选:
+n. 1 [sing.] 挑选；选择:
+2 [C] 被选中的人或事物:
+vt.＆vi. [美]（用手指）弹拨（乐器的弦），相当于pluck:
+vt. 不用钥匙而打开锁头（如小偷用铁丝撬锁）:
+n. [sing.] the pick of sth 可指一个群体中最好的一个或若干个个体，即精华。与cream未见明显差别:
+pick |[pɪk][pɪk]
+to pick grapes 摘葡萄 
+flowers freshly picked from the garden 刚从花园采的鲜花
+He picked the napkin from his lap and placed it alongside his plate. 他从腿上拿起餐巾，放在他的盘子旁边。 
+He picked a fight with a waiter and landed in jail. 他找茬儿和服务员打架，结果锒铛入狱。
+She picked bits of fluff from his sweater. 她摘掉他毛衣上的绒毛。
+He picked the nuts off the top of the cake. 他把蛋糕上面的果仁拿掉。
+to pick your nose 抠鼻子 
+to pick your teeth 剔牙 
+The dogs picked the bones clean. 狗把骨头啃得干干净净。
+picks and shovels 镐与平锹
+picks and shovels 镐与平锹
+Pick a number from one to twenty. 从一至二十中挑选一个数字。
+She picked the best cake for herself. 她为自己挑了一块最好的蛋糕。
+He picked his words carefully. 他用词细心谨慎。
+to pick a good time 挑个好时间 
+He has been picked to play in this week’s game. 他已入选参加本周的比赛。
+They picked Jane as the captain. 他们选了简任队长。
+Have you been picked for the team? 你被选入队中了吗？
+Which do you want? Take your pick. 你想要哪个？自己挑吧。
+She was his pick for best actress. 她是他选中的最佳女演员。  
+He picked the lock deftly. 他熟练地撬开了锁。
+We’re reviewing the pick of this month’s new books. 我们正在做本月的精品新书评介。
+They are the pick of the school’s football players. 他们是该校足球队的精英。
+
+n. [C] 一种体育比赛（具体含义为一群运动员或队伍进行比赛，每场比赛的获胜者可以晋级到下一场，失败者则离开，直到剩下最后一名运动员或一只队伍），可以叫锦标赛:
+tournament |['tʊənəmənt]
+basketball tournament 篮球锦标赛 
+tournament golf 高尔夫球锦标赛 
+qualifying, ranking, World Cup tournament 资格赛；排名赛；世界杯比赛 
+knockout, round-robin tournament（均尤英）淘汰赛；循环赛 
+club, open tournament 俱乐部赛；公开赛 
+invitational tournament 邀请赛 
+amateur, professional tournament 业余锦标赛；职业锦标赛 
+tournament winner 锦标赛获胜者 
+tournament sponsor 锦标赛赞助商
+
+n. 1 [U] 天才（或天资、天赋）的智力，如天分:
+2 [sing.] ~ for sth/for doing sth 特别的才能或本领:
+n. [C] 天才人物、某领域的天才:
+genius |[ˈdʒi:niəs]
+the genius of Shakespeare 莎士比亚的天才 
+Her idea was a stroke of genius. 她的主意是聪明的一着。
+This is the mark of her real genius as a designer. 这展现了她作为设计师的真正天赋。
+The man had genius and had made his mark in the aviation world. 这人很有天赋，在航空界非常出名。
+In a flash of pure genius, she realized the answer to the problem. 她灵感一闪，就知道了问题的答案。
+It was a stroke of genius on my part to avoid such awkward questions. 我灵机一动回避了这些尴尬的问题。
+She has a genius for sorting things out. 她非常擅长处理问题。
+His genius lies in his ability to convey pure terror in his work. 他的天才在于他能够在作品中传达真正的恐怖。
+a writer of genius 天才的作家 
+a statesman of genius 天才的政治家 
+his genius for pinpointing the absurd 他能准确指出荒谬之处的天赋 
+He had a genius for making people feel at home. 他有一种能够使人感觉轻松自在的本领。
+boy genius 天才男孩 
+artistic, comic, computer, literary, mathematical, military, musical, scientific genius 艺术天才；喜剧天才；计算机天才；文学天才；数学天才；军事天才；音乐天才；科学天才 
+He's a genius at organizing people. 他是人员组织方面的天才。
+You don't have to be a genius to see that they are in love! 傻子也能看出他们相爱了！
+Chaplin was not just a genius, he was among the most influential figures in film history. 卓别林不仅仅是天才，也是电影史上最有影响力的人物之一。
+
+vi.（情绪、思想等）短时间闪现、一闪而过:
+n. [usually sing.] ~ (of sth)（情感、情绪的）闪现、一闪而过:
+‘He'll soon be here,’ she thought, with a flicker of excitement. 她带着一丝兴奋想到:
+vi.（眼睛）快速瞟过:
+vi.（灯光或火焰）闪烁、忽隐忽现:
+n. [usually sing.] ~ (of sth)（灯光或火焰的）闪现、摇曳、忽隐忽现:
+vi. 小幅快速地移动:
+n. [usually sing.] ~ (of sth)（身体部位的）小幅快速的运动:
+flicker |[ˈflɪkə(r)]
+Anger flickered in his eyes. 他眼中闪现出一股怒火。
+A smile flickered across Vincent's grey features. 文森特苍白的面孔上掠过一丝微笑。
+a shadow of disquiet flickering over his face 他脸上闪过的不安的阴影
+a flicker of hope, a flicker of doubt, a flicker of interest 希望的闪现；怀疑的闪现；兴趣的闪现 
+European stock markets showed barely a flicker of interest in the election result. 欧洲股市对选举结果几乎没什么反应。
+He felt a flicker of regret. 他突然感到一丝悔意。
+She felt a brief flicker of jealousy. 一瞬间她感到一丝妒意。
+A flicker of guilt crossed his face. 他脸上闪过一丝愧疚。
+A flicker of a smile crossed her face. 她脸上闪过一丝微笑。
+She caught the faintest flicker of amusement on his face. 她捕捉到他脸上一闪而过的笑意。
+He looked at me, a flicker of amusement in his cold eyes. 他看着我，冷酷的眼神里闪过一丝嘲笑。
+She spoke without any flicker of fear. 她说话毫无畏惧。
+The witness stared at the accused but she showed not a flicker of recognition. 证人盯着被告席，但她完全认不出来。
+Dirk's eyes flickered towards the pistol. 德克的眼睛瞟向那把手枪。
+His gaze flickered over her. 他很快地看了她一眼。
+His dark eyes flickered over her face. 他深色的眼睛在她的脸上瞟过。
+The lights flickered and went out. 灯光闪了闪就熄了。
+The lights flickered on and off. 灯光若隐若现。
+Fluorescent lights flickered, and then the room was brilliantly, blindingly bright. 荧光灯闪了几下，接着屋子里豁然大亮，刺得人睁不开眼。
+A television flickered in the corner. 电视机在角落里时明时暗地变换着画面。
+the flickering screen of the television 图像在抖动的电视荧光屏 
+The television screen flickered into life. 电视屏幕闪了一下，出现了图像。
+He saw a flicker of light in the darkness. 他在黑暗中看到一丝光亮。
+the flicker of a television 电视画面的闪动 
+candle flicker 烛光的摇曳 
+The brief flicker of a candle flame caught our eyes. 我们看到烛火闪了一下。
+The candle gave one last flicker and went out. 蜡烛最后闪了一下，熄灭了。
+The police stamped out the last flickers of freedom.（比喻用法）警察把最后的一点儿自由全都扼杀了。
+Her eyelids flickered as she slept. 她睡觉时眼睑不停地眨动。
+In a moment her eyelids flickered, then opened. 她的眼皮随即动了一下，然后睁开了眼睛。
+A few moments later her eyelids flickered open. 过了一会儿，她的眼睛眨了几下睁开了。
+Katherine's eyes flickered open. 凯特忽闪着睁开双眼。
+Her eyes flickered nervously in anticipation. 她紧张而期待地眨着眼睛。
+the flicker of an eyelid 眼睑的跳动 
+A flicker of movement caught her eye. 什么东西一晃引起了她的注意。
+
+n. [C] 掌控一家大型组织机构（如基督教会）的一群人，可称为“统治集团”:
+n. [C, U] 等级制度，尤指一个社会或一个组织机构的等级制度:
+n. [C] [正式]（思想、信仰的）等级体系，分级结构:
+hierarchy |[ˈhaɪərɑ:ki;美-rɑ:rki]
+high up in the party hierarchy 高居政党统治集团的上层 
+There was a range of opinion within the political hierarchy on the issue. 这个问题在政治统治集团中存在多种意见。
+strict hierarchy 严格的等级制度 
+the rigid class hierarchy of rural society 农村社会严格的等级制度 
+administrative, bureaucratic, corporate, management, managerial, organizational hierarchy 行政管理层级；官僚等级制度；公司层级；管理等级制度；管理层级；组织层级结构 
+caste, class, racial social hierarchy 种姓等级制度；阶级制度；种族等级制度；社会等级制度 
+gender hierarchy 性别等级制度 
+dominance hierarchy（动物的）优势等级 
+Catholic, church, ecclesiastical, religious 天主教教会等级制度；教会等级制度；基督教会等级制度；宗教等级制度 
+political hierarchy 政治等级制度 
+judicial, military hierarchy 司法等级制；军队等级制 
+A new management hierarchy was created within the company. 公司内部建立了一套新的管理层级制度。
+She's quite high up in the management hierarchy. 她位居管理层要职。
+There was a clear hierarchy of power in the company. 公司内部权力等级分明。
+Like most other American companies with a rigid hierarchy, workers and managers had strictly defined duties. 和其他多数拥有严格等级制度的美国公司一样，这里的工人和管理人员都有界定严格的职责。
+He joined the party in 1966 and quickly moved up the hierarchy. 他1966年加入这个政党，很快就升到高层。
+She rose up the Tory hierarchy by the local government route. 她通过地方政府的渠道在保守党的等级制度中一步步地晋升。
+She is above me in the hierarchy. 她的级别比我高。
+sb's level in a hierarchy 某人在等级制度中的层级
+The notion of 'cultural imperialism' implies a hierarchy of cultures, some of which are stronger than others. “文化扩张主义”意味着一种文化等级体系的存在，其中有些文化要比其他文化更强大。
+a hierarchy of needs 不同层次的需要
+
+vt. distinguish yourself (as sth) 将某事做得如此好，以致于人们注意并仰慕你，如使著名:
+distinguish A from B 辨别两个人（或事物）之间的差异，即区分，辨别，相当于differentiate。是一个常规用词:
+vt. distinguish A (from B) 成为使两个人（或动物、事物）相互区分开的特征，如使有别于…:
+vt. 能够听到某事物，相当于differentiate或make out:
+vt. 能够看到某事物，相当于differentiate或make out:
+distinguish |[dɪs'tɪŋɡwɪʃ]
+She has already distinguished herself as an athlete. 作为运动员她已享有盛名。
+vt.＆vi. distinguish (between) A and B 
+to distinguish between right and wrong 明辨是非 
+The plant can be readily distinguished. 这种植物很容易识别。
+to distinguish between cause and effect 区分因果 
+to distinguish between fact and fiction in this book 分辨书中的真实内容和虚构内容 
+She could not distinguish one child from another. 她无法把这两个孩子区分开。
+What was it that distinguished her from her classmates? 是什么使得她有别于班上其他同学呢？
+distinguishing marks 区别性的标记
+I could not distinguish her words, but she sounded agitated. 我听不清她说的话，但听得出她紧张不安。
+
+n. [C] 某地的行业协会，如商会:
+n. [pl.] 法官的办公室:
+n. [C]（古老的用法）卧室；私人房间:
+n. [C]（人体、植物体内的）腔、室:
+n. [C] 各面几乎完全封闭的地下洞穴:
+n. [C]（机器内的）腔、室:
+n. [pl.] 大律师（barrister）的事务所:
+n. [C] 一国的议会、议院:
+n. [C]（构成复合词）用于特定用途的一个房间:
+n. [C]（公共建筑中的）大型会议厅:
+chamber |[ˈtʃeɪmbə(r)]
+chamber of commerce 商会
+the chambers of the heart 心腔
+They found themselves in a vast underground chamber. 他们发现他们进入了一个地下大洞穴。
+the chambers of the heart 心腔 
+the rocket's combustion chamber 火箭燃烧室 
+the chamber of a gun (= the part that holds the bullets) 枪膛
+the Lower/Upper Chamber (= in Britain, the House of Commons/House of Lords) 下/上议院（英国为the House of Commons 
+House of Lords）the Chamber of Deputies in the Italian parliament 意大利国会的下议院 
+Under Senate rules, the chamber must vote on the bill by this Friday. 根据规定，参议院必须在本星期五以前投票表决此项议案。
+More than 80 parties are contesting seats in the two-chamber parliament. 有80多个党派在竞争两院的议席。
+Signor Amato's government has only a 16-seat majority in the Chamber of Deputies. 阿马托先生的政府在下议院仅以16席的优势占有多数席位。
+elected chamber 经选举产生的议院 
+she believes there should be an elected second chamber to replace the House of Lords. 她认为应该由一个经选举产生的第二院来代替上议院。
+legislative, parliamentary chamber 立法院；行政院 
+chamber of commerce 商会
+For many, the dentist's surgery remains a torture chamber. 对许多人来说，牙医的治疗室一直是间受刑室。
+Divers transfer from the water to a decompression chamber. 潜水员从水里转入减压舱。
+dark, darkened chamber 暗室 
+private, secret chamber 密室 
+sub-terranean，underground chamber 地下洞穴；地下室 
+burial, tomb chamber 墓室 
+a Bronze Age burial chamber 青铜器时代的墓室 
+gas, torture chamber 毒气室；刑讯室 
+Millions died in the gas chambers in the war. 战争期间数百万人死于毒气室。
+echo, vacuum chamber 回声室；真空室 
+chamber door 房门
+high-ceilinged, vaulted chamber 高屋顶会议厅；圆拱顶会议厅 
+conference, council（尤英）, debating chamber 会议厅；会议室；辩论厅 
+the Senate chamber, the House chamber 参议院会议厅；众议院会议厅 
+The members left the council chamber. 议员离开了会议厅。
+We are going to make sure we are in the council chamber every time he speaks. 每次他发表讲话我们都会确保赶到市议会会议厅去。
+
+n. [pl.] ~ (as/for sth)（某人做某事的）资格、资历:
+n. [pl.] 资格证书；证件:
+credentials |[krəˈdenʃlz]
+He has all the credentials for the job. 他做这项工作完全够格。
+She will first have to establish her leadership credentials. 她得首先证明她有担任领导的资格。
+First, he had to establish his credentials as a researcher. 首先，他得证明自己有资格做研究员。
+her credentials as a Bach specialist 她作为巴赫研究专家的资历 
+I can testify to the credentials of the clientele. 我可以证明委托人的资质。
+She always had the right credentials to make it in the world of country music.她总会有合适的资历在乡村音乐界获得成功。
+academic, educational, teaching credentials 学术资历；教育资历；教学资历 
+diplomatic, military, political, professional, scientific credentials 外交资历；军事资历；政治资历；专业资历；科学资历 
+conservative, democratic, socialist credentials 保守党的资历；民主党的资历；社会党的资历 
+national-security credentials（美）国家安全方面的资历 
+Actor Brent Everet has impressive credentials. 演员布伦特·埃弗里特的资历令人印象深刻。
+They had already established their credentials as architects with office buildings. 他们建造了许多办公大楼，已确立了自己作为建筑师的资格。
+Rush questioned his credentials to lead the group.拉什对他领导该团体的资格表示怀疑。
+Britain's new ambassador to Lebanon has presented his credentials to the President. 英国驻黎巴嫩的新任大使已将国书递交给总统。
+media, press（美）credentials 媒体资格证书；记者资格证书 
+Nearly 200 reporters applied for press credentials to cover the case. 近200名记者申请报道此案的资格证。
+
+
+invigilate |英 [ɪnˈvɪdʒɪleɪt]  美 [ɪnˈvɪdʒɪleɪt]| v. （英）监考，看守/
+
+
+
+vt. 1 recover sth (from sb/sth) 找回或找到（丢失或失窃的东西）:
+2 重新获得曾失去的位置或地位（即从弱势或困境中好转）:
+vi. 1 recover (from sth)（从伤病中）康复，即恢复健康，痊愈:
+2 recover (from sth)（人从不愉快的事件、经历或时间段中）恢复:
+vt. 恢复身心状态（如恢复意识）:
+vt. recover sth (from sb/sth) 全额收回（已花掉、投资或被拖欠的钱款）:
+vi. recover (from sth)（事物从困境中）恢复:
+recover |[rɪ'kʌvə]
+to recover stolen goods 找回被盗物品 
+Seventy bodies were recovered from the wreckage. 从残骸中找到了七十具尸体。
+He recovered his lead in the second half. 他下半场再次领先。
+to recover from an ankle injury 脚踝伤痊愈 
+to recover from his operation 他从手术中恢复过来 
+He is recovering well. 他恢复得不错。
+to recover from the death of his mother 从他母亲去世的悲痛中恢复过来 
+to recover her breath 她呼吸恢复正常 
+to recover consciousness 恢复意识 
+to recover eyesight 恢复视力 
+He seemed upset but quickly recovered himself. 他显得心烦意乱，但很快就静下心来。
+After a minute she recovered enough to speak. 她歇了一分钟，有了力气开口说话。 
+Legal action is being taken to recover the money. 正采取法律途径来收回那笔钱。
+The economy is beginning to recover. 经济正开始复苏。
+
+n. [U]（常指有轮子的）大型重炮:
+n. [sing.] the artillery指炮兵部队:
+artillery |[ɑ:ˈtɪləri;美ɑ:rˈt-]
+field artillery 野战炮 
+anti-aircraft artillery 高射炮 
+air-defence/air-defense artillery 防空炮 
+rocket artillery 火箭炮 
+long-range artillery 远程炮 
+enemy artillery 敌人的大炮；敌方炮火 
+artillery attack, artillery barrage, artillery bombardment, artillery fire, artillery strike 炮火袭击；炮火网；炮击；炮火 
+artillery system 火炮系统 
+artillery piece, artillery shell 弹片；炮弹壳 
+artillery ammunition, artillery cannon, artillery gun, artillery projectile, artillery rocket, artillery weapon 火炮弹药；加农炮；大炮；炮弹；火箭弹；炮兵武器 
+artillery round 炮弹 
+artillery battalion, artillery battery, artillery brigade, artillery regiment, artillery train, artillery unit 炮兵营；炮兵连；炮兵旅；炮兵团；炮兵辎重队；炮兵部队 
+The soldiers of the artillery train had panicked. 炮兵辎重队的士兵已惊慌失措。
+nuclear artillery units 核炮部队 
+artillery commander, artillery officer 炮兵指挥官；炮兵军官 
+The town is under heavy artillery fire. 该市镇处于密集的炮火之下。
+the sound of artillery fire 炮火声 
+Using tanks and heavy artillery, they seized the town. 他们倚仗坦克和重型火炮占领了这个镇。
+At some stage he left the Artillery to command a radar unit. 有段时间他离开了炮兵部队去指挥一支雷达小分队。
+
+vt. [正式] 公开表达感情或意见:
+vt. 使（房间、建筑物等）通风、通气:
+ventilate |[ˈventɪleɪt]
+He did not think it the job of officials to ventilate their doubts or daydreams. 他认为公开提出自己的疑问或不切实际的想法并非官员们的分内之事。
+a well-ventilated room 通风良好的房间 
+Make sure that the room is well ventilated. 要确保房间通风良好。
+The bathroom is ventilated by means of an extractor fan. 这个浴室使用抽风扇通风。
+Ventilate the room properly when paint stripping. 当油漆开始剥落时，要给房间适当通风。
+The building is naturally ventilated. 这栋楼依靠自然通风。
+The pit is ventilated by a steel fan. 矿井中用钢制通风机来保持空气流通。
+
+n. 1 [U] [正式] 羞耻、丢脸、没面子:
+2 [sing.] [正式] 给…带来耻辱的人或事物，常指给某个群体带来耻辱的人或事物:
+~ yourself (with sth) 自责、内疚:
+~ sb (with sth/with doing sth) 责备、批评:
+~ yourself (with sth) 自责、内疚:
+n. 1 [U] [正式] 责备、批评:
+2 [C] [正式] 责备的话语、批评的言辞:
+reproach |[rɪˈprəʊtʃ;美-ˈproʊtʃ]
+Her actions brought reproach upon herself. 她的举动使她很丢面子。
+The shootings and bombings were 'a scandal and reproach to all of us in Europe'. 这些枪杀和轰炸事件是“我们所有欧洲人的丑闻和耻辱”。
+Paul saw this as a reproach to himself. 保罗把这看成是自己的耻辱。
+He reproached himself for not telling her the truth. 他因为没有告诉她真相而自责。
+You've no reason to reproach yourself, no reason to feel shame. 你没有理由自责，也没有理由感到惭愧。
+We begin to reproach ourselves for not having been more careful. 我们开始自责起来，怪自己不够小心。
+She was reproached by colleagues for leaking the story to the press. 她因为将这件事透露给新闻媒体而受到同事的指责。
+She is quick to reproach anyone who doesn't live up to her own high standards. 只要有人不符合她自己的高标准，她马上就会加以指责。
+She had not even reproached him for breaking his promise. 她甚至没有责怪他违背诺言。
+He reproached himself for not telling her the truth. 他因为没有告诉她真相而自责。
+You've no reason to reproach yourself, no reason to feel shame. 你没有理由自责，也没有理由感到惭愧。
+We begin to reproach ourselves for not having been more careful. 我们开始自责起来，怪自己不够小心。
+His voice was full of reproach. 他的话完全是一种责备的语气。
+There was mild reproach in his tone. 他的语气中带有一丝责备。
+He gave Helen a look of bitter reproach. 他怪罪地看了海伦一眼。
+She had never uttered a word of reproach. 她一句责怪的话也没说。
+The captain's behaviour is above/beyond reproach (= you cannot criticize it). 队长的行为无可厚非。
+He looked at her with reproach. 他用责备的目光看着她。
+Women in public life must be beyond reproach. 女性参与公众生活无可非议。
+He listened to his wife's bitter reproaches. 他听着妻子严厉的责备。
+
+n. [C] [非正式，贬] 脏地方；令人讨厌的地方:
+vi. [非正式，尤美] ~ on sb 不公平地对待、亏待:
+vi. [非正式，尤美] ~ on sb 严厉批评，如非难:
+vt. 随意丢弃或扔掉自己不想要的东西（尤指扔在一个不合适的地方）:
+vt. 不再支持、摒弃（政策、想法等）:
+vt. [非正式] ~ sb/sth (on sb) 丢掉某人或某事，或将其推卸给别人处理:
+vt. [非正式] 与某人结束恋爱关系:
+vt. 随便乱放:
+n. 1 [C] 垃圾场；废料堆:
+2 [C]（也可用mine dump）[南非]（提炼黄金后的）废砂堆:
+vt. 快速而随意地倾倒:
+vt. [计算机] 转存（信息或数据）（即将信息或数据存到别的地方）:
+n. [U, C] [计算机] 数据的转存；转存的内容:
+n. 1 [C] 垃圾场；废料堆:
+2 [C]（也可用mine dump）[南非]（提炼黄金后的）废砂堆:
+vt. 快速而随意地倾倒:
+n. [C] [俚语] 拉屎:
+vt. [商业]（通常指为占领海外市场）向国外低价倾销商品:
+n. [C]（军队中粮食、武器等军需品的）临时存放处:
+dump |[dʌmp]
+How can you live in this dump? 你怎么会住在这种肮脏地方？
+'What a dump!' Christabel said, standing in the doorway of the youth hostel. “真够脏乱的！”克丽丝特布尔站在青年旅社的门口说道。
+He was a nice guy, Mona. He didn't dump on me. 莫娜,他是个不错的家伙，没有亏待我。
+He dumped the boxes down in the kitchen. 他把盒子扔在厨房里。
+The getaway car was dumped near a motorway tunnel. 逃亡用的车被丢弃在高速公路隧道附近。
+The dead body was just dumped by the roadside. 这具死尸就扔在路边。
+They carried him down to the beach and dumped him unceremoniously in the freezing water. 他们把他抬到海滩，然后随随便便地就扔进了冰冷的海水里。
+We dumped our bags at the nearby Grand Hotel and hurried towards the market. 我们把包扔在附近的格兰德酒店后就匆匆赶往集市。
+He got my haversack from the cab and dumped it at my feet. 他把我的背包从出租车上取来丢到我脚下。
+Ministers believed it was vital to dump the poll tax before the election. 大臣们认为在大选前停止征收人头税至关重要。
+He's got no right to keep dumping his problems on me. 他没有权利总是把他的问题推到我身上。
+I was sometimes dumped with my grandmother or left with highly unsuitable au pairs. 有时我被扔给奶奶照看，或者被交给毫无经验的临时保姆。
+He can't cope and dumps his two teenage boys on them to be looked after. 他应付不过来，只能将他那两个十来岁的儿子交给他们代为照看。
+Did you hear he's dumped his girlfriend? 他已把女朋友给甩了，你听说了吗？
+I thought he was going to dump me for another girl. 我以为他要为了另一个女孩而和我分手。
+She was dumped by her long-term lover after five years. 五年后她被相恋多年的恋人抛弃了。
+Just dump your stuff over there--we'll sort it out later. 就把你的东西堆在那儿吧——我们以后再整理。
+garbage（尤美）, refuse, rubbish（英）, trash（美）, waste dump 垃圾堆；垃圾场；废品堆 
+the cleaning up of a toxic waste dump 对一个有毒废料堆的清理 
+nuclear dump 核废料堆 
+a new dump for nuclear waste 核废物的新倾倒场 
+city, town dump 城市垃圾场；城镇垃圾场 
+Local residents have organized a protest against the planned dump site. 当地居民就垃圾场选址组织了抗议活动。
+dump truck（美）自卸卡车 
+Radioactive waste has been found at the dump. 在垃圾堆里发现了放射性废物。
+They took the mattress to the dump. 他们把床垫扔到了垃圾堆。
+the municipal dump 市垃圾场 
+companies that bring their rubbish straight to the dump 将其废弃物直接运送至垃圾场的公司 
+The walled garden was used as a dump. 带围墙的花园被用作了垃圾场。
+She's feeling a bit down in the dumps and needs cheering up.（比喻用法）她情绪有点低落，需要振奋起来。
+Too much toxic waste is being dumped at sea. 太多的有毒废料在向大海里倾倒。
+The company had illegally dumped toxic waste. 该公司非法倾倒有毒废料。
+A million tonnes of untreated sewage is dumped into the sea. 一百万吨未经处理的污水被倾倒进了海里。
+The waste is often simply dumped overboard. 废弃物常被直接倾倒到船外。
+The sewage was dumped at sea.（at sea尤为英式用法；美式英语尤用in the ocean）污水被倾倒在海上。
+It can take a couple of hours to dump a thousand telephone numbers into a 128k EPROM pack. 将1，000个电话号码转存到一个128k的EPROM芯片要花好几个小时。
+All the data is then dumped into the main computer. 所有数据随后被转存至主计算机。
+a screen dump 屏幕转储
+garbage（尤美）, refuse, rubbish（英）, trash（美）, waste dump 垃圾堆；垃圾场；废品堆 
+the cleaning up of a toxic waste dump 对一个有毒废料堆的清理 
+nuclear dump 核废料堆 
+a new dump for nuclear waste 核废物的新倾倒场 
+city, town dump 城市垃圾场；城镇垃圾场 
+Local residents have organized a protest against the planned dump site. 当地居民就垃圾场选址组织了抗议活动。
+dump truck（美）自卸卡车 
+Radioactive waste has been found at the dump. 在垃圾堆里发现了放射性废物。
+They took the mattress to the dump. 他们把床垫扔到了垃圾堆。
+the municipal dump 市垃圾场 
+companies that bring their rubbish straight to the dump 将其废弃物直接运送至垃圾场的公司 
+The walled garden was used as a dump. 带围墙的花园被用作了垃圾场。
+She's feeling a bit down in the dumps and needs cheering up.（比喻用法）她情绪有点低落，需要振奋起来。
+Too much toxic waste is being dumped at sea. 太多的有毒废料在向大海里倾倒。
+The company had illegally dumped toxic waste. 该公司非法倾倒有毒废料。
+A million tonnes of untreated sewage is dumped into the sea. 一百万吨未经处理的污水被倾倒进了海里。
+The waste is often simply dumped overboard. 废弃物常被直接倾倒到船外。
+The sewage was dumped at sea.（at sea尤为英式用法；美式英语尤用in the ocean）污水被倾倒在海上。
+to have a dump 拉屎
+It produces more than it needs, then dumps its surplus onto the world market. 当产量超过需求时,过剩的产品便倾销到世界市场。
+an ammunition dump 弹药临时堆积处
+
+n. [不可数名词]（电视、广播等的）音量:
+n. [U, C]（事物的）体积；（容器的）容积、容量:
+n. [U, C] 某事物的数额、数量:
+n. 1 [C]（缩写为vol.）成套书籍中的一卷、一册:
+n. [C] [正式] 书籍:
+volume |[ˈvɒlju:m;美ˈvɑ:l-;-jəm]
+to turn the volume up 把音量调大 
+He turned down the volume. 他调低了音量。
+He came to complain about the volume of the music. 他过来抱怨音乐的音量。
+the volume control on the television 电视机上的音量控制键 
+The car stereo was on at full volume. 汽车里的立体声音响开到了最大音量。
+How do you measure the volume of a gas? 你如何计量气体的体积？
+It is 2,300 metres above sea level, so a given volume of air contains only about one-third as much oxygen as it would at sea level. 这是在海拔2,300米的高空，因此一定体积空气的含氧量只有海平面处的约1/3。
+When egg whites are beaten they can rise to seven or eight times their original volume. 蛋清打散后，体积可增至原来的七八倍。
+They sell screws and nails by volume. 他们按体积出售螺丝钉和钉子。
+jars of different volumes 不同容量的罐子 
+the total volume of the containers 集装箱的总容量 
+two litres in volume 容积为两升           
+the sheer volume (= large amount) of business 大量业务 
+Sales volumes fell 0.2% in June. 六月份的销售额下降了0.2%。
+production volume 生产量 
+the volume of employment 雇佣的数量 
+the volume of export 出口量 
+volume discount 数量折扣 
+This work has grown in volume recently. 这项工作的量最近增加了。
+New roads are being built to cope with the increased volume of traffic. 正在修建新的道路以应付增加了的交通量。
+the sheer volume of traffic and accidents 交通流量之大、事故之多 
+The sheer volume of fiction produced is staggering. 创作的小说数量之巨令人吃惊。
+urine volume 尿量
+an encyclopedia in 20 volumes 一套20卷的百科全书 
+the first volume of his autobiography 他自传的第一卷 
+Her poems are now available in a single volume. 她的诗现在出了单卷本。
+bound volumes of the magazine 杂志的合订本 
+a volume of journal 一卷期刊          
+a library of over 50 000 volumes 藏书5万多册的图书馆 
+a slim volume of poetry 薄薄的一本诗集 
+a volume of short stories 一卷短篇小说 
+a volume on ancient history 一卷古代历史 
+a 125-page volume 一本125页的书 
+bound, leather-bound volume 精装本；皮装本 
+a companion volume to the one on African wildlife 那本非洲野生动植物图书的姊妹篇 
+Only a specialist shop would have this rare volume. 只有一家特别的商店才可能有这种珍本。
+
+n. [U] 两个或多个团体的联合、结合:
+n. [C] 由若干不同群体（尤指政治团体）组成的一个联盟（共同协作以达成一个目标）:
+n. [C] 两党或多党所形成的一个联合政府:
+coalition |[ˌkəʊəˈlɪʃn;美ˌkoʊə-]
+They didn't rule out coalition with the Social Democrats. 他们不排除与社会民主党人结盟的可能性。  
+a grand coalition of various environmental groups 环保组织大联盟 
+a coalition of environmental and consumer groups 环境保护和消费者团体的联盟 
+a broad-based coalition of religious and community groups 有广泛基础的宗教和社会团体联盟 
+left-wing coalition 左翼联盟 
+two-party coalition 两党联盟 
+governing coalition 执政联盟 
+opposition coalition 反对派联盟 
+wartime coalition 战时联盟 
+political coalition 政治联盟 
+a coalition led by the Socialist Party 社会党领导的联盟 
+coalition government 联合政府 
+coalition member, coalition partner, coalition party, coalition spokesman 联盟成员；联盟伙伴；联合党派；联盟发言人 
+coalition forces, coalition troops 联军；联盟部队 
+The two parties governed in coalition for four years. 这两个党联合执政四年。
+a coalition between the Socialists and Communists 社会党人和共产党人的联合 
+a broad coalition of democratic and republican groups 民主团体和共和团体的广泛联合 
+They formed a coalition with the Greens. 他们与绿党结成了联盟。He had been opposed by a coalition of about 50 civil rights, women's and Latino organizations. 大约有50个民权组织、女性社团和拉丁裔社团联合起来反对他。
+to form a coalition 组成联合政府 
+the biggest party in the government coalition 联合政府中最大的党派 
+Since June the country has had a coalition government. 从6月份起，该国一直由一个联合政府执掌政权。
+It took five months for the coalition to agree on and publish a medium-term economic programme. 联合政府花了五个月的时间才达成并公布了一项中期经济计划。
+
+n. [C] 一个空缺的职位，相当于vacancy。是一个简单用词:
+n. [C, usually sing.] 某事物的开始、开端或第一部分，与ending相反:
+adj. 只用于名词前，开始的；开篇的；第一。与closing相反:
+n. [C] 衣服的开襟或开口部分（其打开和闭合可使穿衣服更容易）:
+n. [C, U] 开演，与closing相反:
+n. [C, usually sing.] 庆祝某个公共活动开始的一场仪式，可称为开幕式；庆祝一栋新建筑、一条公路等首次投入使用的一场仪式，如落成典礼、通车仪式等:
+n. [C, usually sing.] 某事物的开始、开端或第一部分，与ending相反:
+adj. 只用于名词前，开始的；开篇的；第一。与closing相反:
+n. [C, U]（花朵的）开放:
+n. [C, U] 使某事物打开或开放的行为或过程；某事物打开或开放的行为或过程。即开，打开，展开，开放等，与closing相反:
+n. [C] 某人或某事物能够从中通过的一个空间或孔洞:
+n. [C, U] 商业机构的开门，做生意，与closing相反:
+n. [C, usually sing.] 开篇，与ending相反:
+adj. 只用于名词前，开篇的，与closing相反:
+n. [C]（对某人来说）一次好机会，一次良机:
+opening |['əʊpənɪŋ]
+There are several openings in the sales department. 销售部有几个空缺。
+She is the strongest candidate to fill this opening. 她是此空缺最有竞争力的人选。
+The movie has an exciting opening. 电影的开头非常刺激。
+chess opening 国际象棋的开局 
+the opening to the novel 该小说的开篇
+his opening remarks 他的开场白 
+the opening chapter of the book 该书的第一章
+The skirt has a side opening. 这裙子是侧面开口的。
+the opening of the new play 新剧的开演
+the opening of the Olympic Games 奥林匹克运动会开幕式 
+the official opening of the new hospital 新建医院的落成典礼 
+opening ceremony 开幕式
+The movie has an exciting opening. 电影的开头非常刺激。
+chess opening 国际象棋的开局 
+the famous opening to the novel 该小说著名的开头 
+his opening remarks 他的开场白
+the opening of a flower 花朵的绽放
+the opening of a flower 花朵的绽放 
+the opening of the new play 新剧的开演 
+Late opening of supermarkets is common in Britain now. 现在超市开门较晚的情况在英国司空见惯。
+an opening in the roof 屋顶的小开口 
+an window opening 窗口 
+to cut an opening in the fence 在篱笆上开个口 
+the opening to the kitchen 厨房的小窗口
+late opening of supermarkets 超市开门时间晚
+the famous opening to the novel 该小说著名的开头 
+the opening chapter of the book 该书的第一章
+Winning the competition was the opening she needed for her career. 在这次比赛中获胜是她未来职业发展的良好开端。
+too miss a good opening in the game 在比赛中错过一个好机会 
+to create an opening 创造机会 
+a political opening 政治机遇
+
+vt. [非正式] 经历困难或不快的事:
+n. [C] [俚语，尤美] 一场暴力犯罪或凶杀:
+vt.＆vi. 对…产生坏的影响，常是严重的坏影响，即打击，危害:
+vt. 1 到达某地:
+2 达到某一水平，为新闻通讯用语:
+n. 1 [C] 非常受欢迎的人或事物，尤指娱乐业的事物:
+2 [C] 成功的流行歌曲或唱片:
+n. [C] 计算机技术中可指搜索的结果，例如在互联网上搜索出来的结果:
+vt. [非正式] 使突然想起:
+vt. hit sb/sth (with sth) 用手或握着的物体快速而用力地击打:
+n. [C] 用手或手中的工具所做的击打:
+vt. [非正式] 按，压，例如按压按钮以操作机器等:
+vt. 1 用力撞上…，尤指碰撞造成损伤:
+2 hit sth (on/against sth) 使身体部位碰上…:
+n. [C] [俚语] 一次使用毒品的数量，即毒品的一剂:
+vt. 体育中可指击球得分:
+n. [C]（被扔出的物体）击中或命中:
+vt. 用棒球棒等击球:
+vt. 常用被动式，指子弹、炸弹、导弹（或子弹的射击者、炸弹的投掷者）等命中，为此义的基础通用词:
+n. [C]（被扔出或发射出的物体）击中或命中:
+vt.＆vi. 攻击，进攻，袭击。其词义范围和色彩相当于attack，但远不如attack常用:
+vt. [非正式] 使突然意识到:
+hit |[hɪt][hɪt]
+to hit a problem 遇到问题 
+to hit trouble 遇到麻烦
+She was at the top of the terrorists’ hit list. 她曾位居恐怖分子暗杀名单的榜首。
+Which services are on the government’s hit list?（比喻用法）哪些服务部门被列入政府裁撤的名单？
+hit man, hit squad 职业杀手；杀手队
+The earthquake hit the country. 该国遭遇了地震。
+A snowstorm hit the region last night. 该地昨夜遭到暴风雪袭击。
+This policy may hit the poor. 这项政策可能会损害穷人的利益。
+Our department has been badly hit by the cutbacks. 我们部门因为经费削减而受到很大影响。
+Some businesses have been hit very hard by the rise in interest rates. 一些企业因为加息而严重受挫。
+The disease didn’t hit me. 那场疾病没有对我产生影响。
+I hit the city last night. 我昨晚到了该城市。
+Temperatures will hit 38°tomorrow. 明天气温将高达38度。
+I had hit the lowest point in my life at that time. 我当时已经跌到了人生中的最低谷。
+The show was a real hit. 那场演出大受欢迎。
+The film was a massive hit. 那部电影取得了巨大成功。
+pop hit（尤英）流行金曲 
+hit album, hit single 畅销专辑；畅销单曲
+to get a hit 找到搜索结果
+It suddenly hit me. 我猛然想起。
+His father often hit him when he was a child. 他小时候总挨老爸打。
+I was so angry, I wanted to hit him. 我气得想揍他一顿。
+She hit him with a stick. 她用棍子打他。
+He was hit directly in the back. 他的后背被直接打中。
+to hit the nail 敲钉子 
+I gave him a good hit. 我用力打了他一下。
+to hit the brakes 踩刹车
+The car hit the wall. 车撞在了墙上。
+A taxi almost hit him as he was crossing the street. 他过马路时差点儿被一辆出租车撞上。
+He was hit by a falling object. 他被一个下落的物体击中。
+I hit my head on the corner of the desk. 我的头磕到桌角了。
+to hit a home run 打出本垒打 
+At last he managed to score a hit. 他最后总算打中了。
+to hit the ball hard 大力击球
+The terrorist was hit by the police. 那名恐怖分子被警方击中。
+The city was hit by bombs. 这座城市曾遭到轰炸。
+The building took a direct hit by a bomber. 那栋建筑物被轰炸机直接命中。
+The commander gave an order to hit the enemy next morning. 指挥官命令第二天早上袭击敌人。
+It hit me that I still have a chance. 我突然意识到自己还有机会。

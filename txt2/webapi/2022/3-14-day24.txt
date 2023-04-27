@@ -1,0 +1,699 @@
+overcome						战胜，压倒
+bride							新娘
+engagement						订婚，约会，雇用，交战
+household						家庭
+evaluate						评价，评判
+saint							圣徒
+delay							推迟，延误，拖延
+private						私人的，秘密的，内向的，私立的
+definition						释义，清楚
+influential					有影响力的
+recommend						推荐，建议，托付
+frontier						边界，前沿
+concern						担心，私事，公司，与...有关
+organ							器官
+cite							引用，举例，嘉奖
+mechanism						机械装置，机制，途径
+contest						比赛，辩驳
+symptom						症状，征兆
+deadline						最后期限
+domination						统治，主宰，控制
+figure						数字，人物，身材，插图，合乎情理，认为
+imply							暗示，意味着
+curiosity						好奇，珍稀物
+induce						劝说，导致
+acknowledge					承认，认可，感谢
+gym							体操馆
+chef							厨师
+sensible						明智的，实用的，意识到的
+outline						轮廓，提纲，概述
+react							作出反应，有不良反应
+\\\\\\\\
+
+vt.（在自己达成某事的过程中）成功处理（或管控）阻碍事情进展的问题，即克服，解决:
+vt. 战胜某人，击败某人:
+vt. 常用被动式，受到某事物的极大（或强烈）影响，相当于overwhelm:
+overcome |[͵əʊvə'kʌm]
+She overcame injury to win the Olympic gold medal. 她克服了伤痛，赢得了奥运会金牌。
+to overcome their differences on the issue 弥合在该问题上的分歧 
+He eventually overcame his disability. 他最终克服了自己的缺陷。
+Therapy helped her to overcome her fear. 治疗帮助她战胜了恐惧。
+methods designed to overcome these problems 用于克服这些难题的方法
+In the final game Sweden easily overcame France. 在决赛中，瑞典队轻松战胜了法国队。
+Her parents were overcome with grief at the funeral. 在葬礼上她的父母悲痛欲绝。
+She was quite overcome by their kindness. 她因他们的热情而感到手足无措。
+She was almost overcome by a tide of relief. 强烈的解脱感使她几乎不能自持。
+Several firefighters had been overcome by smoke and fumes. 有几名消防员被烟气熏倒了。
+He was suddenly overcome with remorse for the harm he had done. 他猛然对由自己所造成的伤害感到懊悔不已。
+
+n. [C] 新娘；即将（或刚刚）结婚的女子:
+bride |[braɪd]
+Everyone raised their glasses to toast the bride and groom. 所有人举杯为新娘和新郎祝酒。
+
+n. [U, C] [英] 雇用、聘用:
+n. [U] [正式] ~ (with sb/sth)（与…的）密切关系，如参与:
+n. [C]（尤指正式的或与工作有关的）约定、约会、预约:
+n. [C] ~ (to sb) 订婚、订婚期间:
+n. [C, U] [术语] 两支军队等之间的战斗:
+n. [U] [正式] ~ (with sb/sth)（与…的）密切关系，如（对…的）了解:
+engagement |[ɪnˈgeɪdʒmənt]
+The terms of engagement are to be agreed in writing. 聘用条款应有书面协议。
+his serious intellectual engagement with this issue 他对这个问题认真理智的处理 
+emotional, imaginative, intellectual engagement 情感投入；富有想象力的参与；智力投入 
+civic（美）, political engagement 公民参与；政治参与 
+Higher education can contribute to civic engagement. 高等教育能够促进公民参与。
+the decline in political engagement 政治参与的减少 
+the lack of engagement in politics 缺乏政治参与 
+engagement book, engagement diary 预约簿；预约日志 
+He has a number of social engagements next week. 他下周有几次社交约会。
+It was her first official engagement. 那是她第一次正式约会。
+I had to refuse because of a prior engagement. 我因为已经有预约只好拒绝了。
+He had an engagement at a restaurant in Greek Street at eight. 他八点在希腊街的一个餐厅有个约会。
+business-related social engagements 与公事有关的社交约会 
+Mrs Meyer regrets that she is unable to attend owing to a previous engagement. 迈耶夫人因有约在先而不能前来，她对此表示遗憾。
+important engagement 重要的约会 
+business engagement 商务约会 
+dinner, lunch engagement 正餐约会；午餐约会 
+speaking engagement 特约演讲 
+The prime minister will carry out no official public engagements during the month of August. 八月份首相不会举行官方的公众活动。
+The president was forced to cancel all public engagements. 总统被迫取消了所有的公众活动。
+He had an important engagement with his financial adviser. 他与他的财务顾问有一个很重要的约谈。
+engagement ring 订婚戒指 
+engagement party 订婚宴会 
+He announced his engagement to his long-time girlfriend. 他宣布与相处已久的女友订婚。
+Their engagement was announced in the local paper. 他们订婚的消息已在当地报纸上公布。
+She has broken off her engagement to Charles. 她已解除同查尔斯的婚约。
+I've broken off my engagement to Arthur. 我已经解除了与阿瑟的婚约。
+Announcing our engagement was a relief. 宣布婚约让我们松了一口气。
+long, short engagement 长婚约期；短婚约期 
+I felt our engagement was quite an unhappy time. 我觉得我们订婚期间非常不愉快。
+The general tried to avoid an engagement with the enemy. 将军竭力避免与敌军交火。
+The constitution prohibits them from military engagement on foreign soil. 宪法禁止他们在外国采取军事行动。
+Feminist criticism is a starting point for a deeper engagement with the text. 女性主义批评理论是更深刻地理解这个文本的切入点。
+Her views are based on years of engagement with the problems of the inner city. 她的观点是以多年对市内中心区问题的了解为基础的。
+
+adj. 家喻户晓的；众人皆知的:
+My agent told me, 'This'll make your name a household word.' 我的经纪人告诉我:
+n. 1 [C] 一家人；住在同一幢房子里的一群人:
+2 [sing.] 家；家务:
+adj.（用于王室警卫队名称中）皇家的:
+household |[ˈhaʊshəʊld;美-hoʊld]
+Today, fashion designers are household names. 今天，时装设计师是家喻户晓的人物。
+growing up in a male-only household 在一个只有男性的家庭里长大 
+Many poor households are experiencing real hardship. 很多贫穷家庭正经历严重的困难。
+Most households now own at least one car. 大多数家庭现在至少有一辆汽车。
+The head of the household is responsible for completing the form. 户主负责填写表格。
+The average household spends more on housing than on food. 一般家庭在住房上的花销多于食物。
+rural, urban household 乡村家庭；城市家庭 
+poor, wealthy household 贫穷家庭；富裕家庭 
+He was a member of the royal household. 他是王室成员。
+middle-class, working-class household 中产阶级家庭；工人阶级家庭 
+high-income, low-income household 高收入家庭；低收入家庭 
+family, married-couple, single-parent, single-person household 家庭；夫妻家庭；单亲家庭；单身家庭 
+households headed by a single parent单亲支撑的家庭 
+Becoming an adult and setting up a household no longer mean the same thing. 长大成人与成家立室已不再是一回事了。
+My husband gave me cash to manage the household, but none of it was ever my own. 丈夫给我钱来持家，但这些钱一毫一厘都不属于我。
+household appliance, household contents（尤英）, household furniture, household goods, household item, household product 家用电器；家居财物；家具；家庭用品 
+The household contents are covered by a separate insurance policy. 家庭财物上了单独的保险。
+household cleaner 家用清洁剂 
+household bills, household budget, household debt, household expenditure, household expenses, household income, household savings 家庭账单；家庭预算；家庭债务；家庭开支；家庭开销；家庭收入；家庭储蓄 
+household chore, household duties, household task 家务 
+household garbage（美）, household rubbish（英）, household trash（美）, household waste 生活垃圾
+the Household Cavalry Mounted Regiment 皇家骑兵团
+
+vt.＆vi. 在一番仔细考量之后对某事物的数量、价值、品质所给出的观点，即评估，评价。词义相当于assess，且二者都极为常用。但evaluate相对正式，且assess仅为及物动词:
+evaluate |[ɪ'væljueɪt]
+to evaluate the safety of the new drug 评估这种新药的安全性 
+The evidence should be carefully evaluated. 这项证据应当仔细地鉴定。
+These probabilities can be evaluated empirically. 这些可能性可以通过实验加以验证。
+criteria used to evaluate employees’ performance 员工业绩评定标准
+
+n. 1 [C]（因其言行而被基督教会追封的）圣人，圣徒:
+2 [C] 特别善良、仁爱或有耐心的人，即圣人般的人:
+saint |[seɪnt;or,inBritishusebeforenames,
+Buddhist, Catholic, Christian saint 佛教圣徒；天主教圣徒；基督教圣徒 
+St Nicholas is the patron saint of children. 圣尼古拉是儿童的守护神。
+St John 圣约翰 
+St Valentine's Day 圣瓦伦丁节（情人节）
+The children were all named after saints. 这些孩子都取了圣徒的名字。
+She's a saint to go on living with that man. 能继续和那个男人一起生活，她简直是圣人。
+My girlfriend is a saint to put up with me. 能够忍受我，我的女朋友真的很有耐心。
+His behaviour would try the patience of a saint. 他的行为就是再有修养的人也难以忍受。
+
+vt.＆vi. 延迟；推迟。既可指主动推迟、拖延，也可指被动耽误、耽搁。其含义最为广泛，也最为常用（表“推迟”时，不如postpone正式和常用）:
+vt. 使某人迟到或耽搁；使某人做某事更慢:
+n. 1 [C]（由于发生的问题所导致的）拖延或耽搁的一段时间，即被动耽搁的一段时间（一般不太表示“主动推迟的一段时间”）:
+2 [C, U] 延迟或耽搁（是一种情况或行为）（可以是主动、也可以是被动）:
+delay |[dɪ'leɪ]
+The judge will delay his verdict. 法官将推迟判决。
+He delayed telling her the news. 他没有马上把消息告诉她。
+I wanted to delay my departure until June 2018. 我想把启程时间推迟到2018年6月。
+These drugs can significantly delay the onset of the disease. 这些药可以大大延缓这种病的发作。
+Can you delay him in some way? 你能用什么办法拖延他一下吗？
+His arrival was seriously delayed by a late train. 因为火车晚点，他晚到了很长时间。
+a two-hour delay 两小时的延误 
+a delay of several weeks 数星期的延误 
+There’s no time for delay. 没有时间了，不能拖延了。
+Report it to the police without delay. 赶快将此事报告警方。
+The project has been plagued by delays. 这个项目一直被拖来拖去。
+I apologize for the delay in replying to you. 我为耽搁了回信向您道歉。
+delays in getting to the airport 去机场路上的延误 
+
+adj. 1 常作前置定语，指专门为某个人（或群体）所拥有或使用的，而非公用的，即私有的，私用的，不对外开放的:
+2（会谈、讨论、会晤、会议等活动）私下的，私密的:
+private conversations, private talks 私下谈话；秘密会谈 3（情感、想法或信息）不想让别人知道的，即内心的，隐秘的，私下的:
+adj. 常作前置定语，指人不愿与别人分享想法或向他人吐露感情的，即内向的:
+adj.（某个地方）不大可能受打扰的，即清静的，僻静的:
+adj. 常作前置定语，指与工作或官职无关的，即私人的:
+adj.（金钱）由资产或其他来源获得的，而非挣得的:
+adj. 只作前置定语，指一个人为自己工作（而非为群体、公司或国家）的，代表其自己来行事的，尤指在医疗或教育领域:
+adj. 常作前置定语，指（机构）非国有的，即私有的，私立的，民营的:
+n. [C] [英] 级别最低的士兵，即列兵:
+adj. 常作前置定语，（功课）由教师等向一个人或一小组的人私人传授的（教师等由此获得经济回报）:
+private |['praɪvɪt]
+private property, private clubs 私人财产；不对外开放的俱乐部 
+The door is marked “Private.” 门上写着“闲人免进”。
+private thoughts, private grief 私下的想法；内心的悲痛
+a private person 内向的人
+a private place 僻静的地方
+private life 私生活
+a private income 一笔私人收入 
+private doctors 私人医生 
+a private visit 私访
+private companies 民营企业 
+private schools 私立学校
+He was then a private. 他当时是一名列兵。
+Private Bush 列兵布什
+to give private French lessons 向私人教授法语
+
+n. [U] 清晰度；清晰、分明:
+n. 1 [C, U]（尤指词典里给出的）定义，释义:
+2 [C] 定义:
+n. [U] 清晰、分明、明确:
+definition |[ˌdefɪˈnɪʃn]
+The definition of the digital TV pictures is excellent. 数字电视图像的清晰度很高。
+clear simple definitions 简单明了的释义 
+Neighbours by definition live close by (= this is what being a neighbour means). 按照释义，“邻居”就要居住在邻近的地方。
+There is no general agreement on a standard definition of intelligence. “智力”一词目前还没有一个普遍认可的标准释义。
+The term partner' requires careful definition. partner这个词需要慎重定义。
+My definition of a good hospice is one where some of the patients start feeling too good to die. 我对“好的晚期病人安养院”的定义是一个能让一些病人开始感到生有所恋的地方。
+According to a strict definition, the expenses of a self-employed person can be deducted from tax. 根据严格的定义，个体经营者的开支可从税款中扣除。
+formal, official, statutory definition 正式的定义；官方的定义；法律上的定义 
+The firm falls within the statutory definition of a 'small company'. 这家公司属于法律上定义的"小公司"。
+dictionary definition 字典定义 
+legal definition 法律定义 
+The mathematical definition of an even number is one that is exactly divisible by 2. 偶数在数学上的定义是能被2整除的数。
+accepted, conventional, standard, textbook, traditional definition 公认的定义；常规定义；标准定义；课本上的定义；传统的定义 
+workable, working definition 初步的定义 
+We need a good working definition of 'pollution'. 我们需要为"污染"下一个合适的初步定义。
+This unusual building barely fits the definition of a house. 这幢独特的建筑几乎称不上房子。
+He has expanded the definition of sculpture. 他扩展了对雕塑的定义。
+According to a strict definition of 'assault', she was not assaulted. 根据"侵犯他人身体"的严格定义，她并没有受到侵犯。
+A clinic for women would, by definition, deal with pregnancy and childbirth. 妇科诊所据其定义负责处理妊娠和分娩事宜。
+Under the broader definition of 'poverty', thousands more people would be included. 根据"贫困"的广义定义，还有数以千计的人要包括在内。
+What's your definition of happiness? 你对幸福的定义是什么？
+They have adopted a very narrow definition of success. 他们采用了一种非常严格的关于"成功"的定义。
+The author provides a clear definition of cultural awareness. 作者给文化意识下了一个清楚的定义。
+She refused to accept the definition of woman as man's subordinate. 她拒绝接受女人是男人附属品的定义。
+Give your brows extra definition with Outdoor Girl's Eyebrow Pencil in Brown. 用“户外女孩”品牌的棕色眉笔更加清晰地勾勒出眉形。
+The speakers criticised his new programme for lack of definition. 几位发言者批评他的新方案不够清楚明确。
+
+adj. ~ (in sth/in doing sth) 很有影响力的:
+influential |[ˌɪnfluˈenʃl]
+a highly influential book 十分有影响力的书 
+She is one of the most influential figures in local politics. 她是本地政坛举足轻重的人物。
+It helps to have influential friends. 有几个位高权重的朋友很有好处。
+the influential position of president of the chamber 很有影响力的议院议长之位 
+The committee was influential in formulating government policy on employment. 委员会左右着政府就业政策的制定。
+As a writer she was hugely influential. 作为—名作家，她有巨大的影响力。
+The group was influential in setting up the new schools. 该团体对这些新学校的设立颇有影响。
+
+vt. recommend sb/sth (to sb) 使…看起来吸引人（或使其显得好），相当于commend:
+vt. 提出一个行动方案以供考虑；建议某人去做某事。即建议、提议。其含义结合了suggest和advise，不过不如二者常用:
+vt. recommend sb/sth (to sb) (for/as sth) 告诉某人…是好的或有用的，或某人适合某一工作岗位等，即推荐，举荐，介绍等。是此义的常规用词:
+recommend |[rekə'mend]
+This system has much to recommend it. 这套系统有很多可取之处。
+Your idea has much to recommend it. 你的主意有许多可取之处。
+The report recommended a 10% pay increase. 报告提议工资增加10%。
+the recommended dose 建议使用的剂量 
+a recommended price of $50 建议售价50美元 
+I recommend (that) he see a lawyer. 我建议他去找个律师。
+It is strongly recommended that the machines should be checked every year. 强烈建议每年把机器检修一次。
+Can you recommend a good hotel? 你能推荐一家好的饭店吗？
+She was recommended for the post by a colleague. 她获得同事推荐到这个岗位。
+I definitely recommend this movie. 我大力推荐这部电影。
+
+n. [C, usually pl.] frontier (of sth) 某事物（尤指某一学科或活动）的尖端或边缘:
+frontier (with sth) 两地（常是两国）之间的边界线；也可指此种边界线附近的地区:
+2 [sing.] the frontier（尤指19世纪美国西部的）开发地区的边缘地带（人们在此居住并建设城镇，更远的地方则被视为荒野和未知地带）:
+frontier |['frʌntɪə]
+to push back the frontiers of physics 开拓物理学领域 
+technological frontier 技术前沿 
+Space is the final frontier for us to explore. 太空是我们探索的最后一个领域。
+the frontier between India and Pakistan 印度和巴基斯坦之间的边界 
+frontier town 边陲小镇 
+eastern frontier 东部边界 
+to cross the frontier 越过边界 
+frontier controls, frontier post 边境检查站；边境哨所 
+frontier guard 边防战士 
+frontier zone 边境地带 
+people living on the German frontier 居住在德国边境地区的人 
+America’s wild frontier 美国的荒野地带 
+the western frontier 西部的边疆地带 
+frontier town 边疆城镇 
+frontier spirit 边疆精神
+
+n. 1 [C]（对一个人、一个组织等来说）重要的事:
+2 [C, usually sing.] [正式] 某人负责的一件事；或其有权知道的一件事:
+vt. 1 常用被动式，影响某人、涉及或牵涉某人。是一个常规用词:
+2 也可用be concerned with sth 关于…，与…有关，涉及:
+n. [U] 保护并帮助某人或某事物的一种愿望，可称为关爱或关心:
+vt. concern yourself with/about sth对某事物感兴趣:
+vt. 让某人担忧:
+concern (that ...) 担忧，担心，忧虑（尤指很多人共同的忧虑）:
+n. [C, usually sing.] [正式] 某人负责的一件事:
+n. [C] 一家公司或企业，相当于firm，但不常用:
+vt. [正式] be concerned to do sth认为（去做某事）重要:
+concern |[kən'sə:n]
+the government’s primary concern 政府的头等大事 
+a common concern for new parents 初为人父母者共同关心的事 
+I have other, more pressing concerns. 我还有其他更要紧的事。
+environmental, privacy, safety, security concern 涉及环境的事情；关系隐私的事；安全问题 
+Practical necessity overrides any other concerns. 实际需要压倒一切。
+This matter is their concern. 这件事由他们负责。
+How much money I make is none of your concern. 我赚多少钱没有必要告诉你。
+Don’t interfere in what doesn’t concern you. 不要管与自己无关的事。
+Where our children’s education is concerned, no compromise is acceptable. 在事关我们的孩子的教育问题上，那是毫无妥协余地的。
+Everyone who was directly concerned in the incident has now resigned. 所有与该事件有直接牵连的人现在均已辞职。
+The story concerns the prince’s efforts to rescue Pamina. 这故事讲的是王子奋力解救帕米娜。
+The book is primarily concerned with Soviet-American relations during the Cold War. 这部书主要讲的是冷战时期的苏美关系。
+This chapter concerns itself with the historical background. 本章旨在讲述历史背景。
+One major difference between these computers concerns the way in which they store information. 这些计算机之间的一个主要差异就是其储存信息的方式。
+parents’ concern for their children 父母对子女的关爱
+He didn’t concern himself with the details. 他对细节不感兴趣。
+What concerns me is our lack of preparation for the change. 让我担心的是我们对事态的变化缺乏准备。
+It really concerns me that he doesn’t eat properly. 他不好好吃饭，确实令我担心。
+There is growing concern about violence on television. 人们对电视上充斥暴力内容的忧虑日益加重。
+There is concern for her safety. 大家担心她的安全。
+The report expressed concern over continuing high unemployment. 报告表达了对失业率居高不下的忧虑。
+This matter is their concern. 这件事由他们负责。
+a major publishing concern 一家大型出版公司
+She was concerned to write about situations that everybody could identify with. 她认为有必要写出让大家都能看得清楚的事态的本来面目。
+
+n. [C] [正式] 官方机构（其隶属于一个更大的组织，且秉持特定的宗旨）:
+n. [C]（人或动植物的）器官。是此义的常规用词和专业用词，最为常用:
+n. [C] [正式]（政府或其他组织的）报刊、杂志等新闻媒体或宣传工具:
+n. 1 [C] 管风琴:
+2 [C] 风琴:
+organ |['ɔ:ɡən]
+the organs of government 政府机关 
+administrative, constitutional（英）, judicial（尤英）, political, security organ 行政机构；立宪机构；司法机构；政治机构；安全机构 
+the central organs of state 国家的中央机关
+digestive, sex organ 消化器官；性器官 
+human organ 人体器官 
+organ donation 器官捐赠 
+organ failure 器官衰竭
+The People’s Daily is the official organ of the Chinese Communist Party.《人民日报》是中国共产党的官方报纸。
+the official organ of the American Association for Cancer Research 美国癌症研究协会的官方报刊
+to play the organ 演奏管风琴 
+organ music 管风琴曲 
+pipe organ 管风琴 
+an electric organ 电子琴 
+mouth organ 口琴 
+church organ 教堂风琴 
+organ pipe 风琴音管
+
+vt. [正式] ~ sb (for sth)（正式或公开）嘉奖、表彰某人:
+vt. [正式] ~ sth (as sth) 提及某事作为例子:
+vt. [正式] [法律]（在案件中）正式提出某人的名字:
+vt. [正式] [法律] 传唤、传讯（某人出庭）:
+vt. [正式] ~ sth (as sth) 提及某事作为原因或例子，或为支持自己的观点:
+vt. [正式] [法律]（在案件中）正式提出某人的名字；提出一个原因作为案件的正式原因:
+vt. [正式] 以口头或书面的形式引用、援引（一本书、一个作者等的文字）。相当于quote:
+cite |[saɪt]
+He was cited for bravery. 他因表现勇敢而得到嘉奖。
+He cites just one example. 他只引用了一个例子。
+This is similar to the example cited above. 这和上面所举的例子类似。
+He cited the fall in unemployment as one of the government's successes. 他举出失业人数下降作为政府的一项功绩。
+Three admirals and a top Navy civilian will be cited for failing to act on reports of sexual assaults. 三位海军上将和一位海军高级文员将被指名，原因是他们在接到性侵犯的举报后没有采取任何行动。
+She was cited in the divorce proceedings. 她在离婚诉讼中被传唤。
+The judge ruled a mistrial and cited the prosecutors for outrageous misconduct. 法官裁定为无效审判，并以严重渎职为名传讯了检察官。
+He cited his heavy workload as the reason for his breakdown. 他说繁重的工作负荷是导致他累垮的原因。
+He cites just one example. 他只引用了一个例子。
+This is similar to the example cited above. 这和上面所举的例子类似。
+The most commonly cited reasons for stopping the treatment were side effects. 停用这种治疗方法最常搬出的理由是副作用。
+He cited the fall in unemployment as one of the government's successes. 他举出失业人数下降作为政府的一项功绩。
+They cited Alex's refusal to return to the marital home. 他们引证了亚历克斯拒绝回到婚后的家中一事。
+Three admirals and a top Navy civilian will be cited for failing to act on reports of sexual assaults. 三位海军上将和一位海军高级文员将被指名，原因是他们在接到性侵犯的举报后没有采取任何行动。
+She cites a favourite poem by George Herbert. 她引用了自己最喜爱的一首乔治·赫伯特的诗。
+
+n. [C] 一套机械装置、机件:
+n. 1 [C]（达成某事所用的）方法、机制:
+2 [C]（生物体执行某项功能所采用的）机制:
+mechanism |[ˈmekənɪzəm]
+firing, locking, steering, trigger, winding mechanism 击发机构；锁闭机构；转向机构；触发机构；卷绕装置 
+This activates the train's tilt mechanism. 这就能启动火车的倾斜装置。
+The gun froze, jamming the mechanism. 枪受到冰冻，卡住了击发装置。
+The door locking mechanism doesn't work. 门锁坏了。
+a delicate watch mechanism 精致的手表机件 
+A bomb has been detonated by a special mechanism. 炸弹由一个专门装置引爆。
+mechanisms for dealing with complaints from the general public 处理大众不满意见的机构 
+There's no mechanism for punishing arms exporters who break the rules. 对违规的武器出口商实施惩罚尚无执行机制。
+the clumsy and ineffective mechanism of price controls 方法笨拙、效率低下的价格控制机制 
+an effective mechanism for enforcing the rules 执行规章的有效机制 
+He suggested an alternative mechanism for providing public services. 他提出了另一套提供公共服务的机制。
+social mechanism 社会机制 
+coping, feedback mechanism 应对机制；反馈机制 
+The system provides a mechanism whereby information is fed back into the market. 这套系统提供了一种将信息反馈回市场的机制。
+The government is held accountable through the mechanism of regular general elections. 通过定期大选的机制使政府负起责任。
+avoidance, defence/defense, escape, protective, repair, survival mechanism 回避机制；防御机制；逃避机制；保护机制；修复机制；求生机制 
+The body has defence mechanisms against many diseases.人体具有抵抗多种疾病的防御机制。
+Pain acts as a natural defence mechanism. 疼痛算是一种自然防护机制的作用。
+cellular, genetic, immunological, molecular, neural, physiological, psychological mechanism 细胞机制；遗传机制；免疫机制；分子机制；神经机制；生理机制；心理机制 
+Scientists have been unable to explain the exact mechanism behind this effect. 科学家一直不能解释这种效应背后的确切机制。
+This activates the body's thirst mechanism. 这会触发身体的口渴机制。
+physiological mechanisms regulating the release of hormones 调节荷尔蒙释放的生理机制 
+the balance mechanism in the ears 耳内的平衡机制 
+a survival mechanism, a means of coping with intolerable stress 一种生存机制，一种应对无法承受的压力的方法
+
+vt. 争取赢得比赛:
+vt. 争夺权力等:
+n. 1 [C] 比赛、竞赛:
+2 [C] ~ (for sth) 对控制权或权力的争夺；选举:
+3 [C] 竞争:
+vt. 正式反对一个决定或陈述，如争辩、提出异议:
+n. [C] 选举:
+vt. 正式反对一个决定或陈述，如争辩、提出异议:
+contest |[kənˈtest][ˈkɒntest;美ˈkɑ:n-]
+a fiercely contested game 竞争十分激烈的比赛 
+a closely contested regional flower show 各方争奇斗艳、难分高下的地区花卉展 
+Three candidates contested the leadership. 有三位候选人角逐领导权。
+He quickly won his party's nomination to contest the elections. 他很快获得了本党提名,角逐大选。
+The election was bitterly contested. 选举竞争激烈。
+beauty, song, talent, popularity, writing contest 选美比赛；歌咏比赛；才艺比赛；人气比拼；写作比赛 
+athletic（尤美）, sporting（尤英）, sports（尤美） contest 田径比赛；体育竞赛 
+global, international, local, national, regional contest 全球赛事；国际赛事；地方赛事；全国赛事；地区赛事 
+to enter a contest, to win a contest, to lose a contest 参加比赛；赢得比赛；比赛失败 
+a contest of strength 实力的较量 
+We have three major beauty contests a year. 我们每年举办三次大型的选美比赛。
+The contest was too one-sided to be exciting. 这场比赛太一边倒，没什么意思。
+This contest is wide open: any of half a dozen teams could win it. 这场比赛胜负难料，其中六个队都有机会获胜。
+The contestants are eliminated one by one until the last two compete in a head-to-head contest. 参赛选手一个一个被淘汰，最后只剩下两名选手一对一较量。
+Few contests in the recent history of British boxing have been as thrilling. 英国近年的拳击比赛中很少有如此激动人心的。
+Jackson has injured his knee and is now out of the contest. 杰克逊膝盖受伤，现已退出比赛。
+the contest between these two great boxers 这两名伟大的拳击手之间的比赛 
+The New Zealanders are looking forward to future contests with South Africa. 新西兰人盼望着将来同南非进行更多比赛。
+a contest for the leadership of the party 争夺政党的领导权 
+a clear contest between church and state 教会与政府之间明显的争斗 
+A third candidate has entered the contest for the Republican nomination. 第三位候选人加入了角逐共和党提名的行列。
+In the animal kingdom intruders usually lose contests over territories. 在动物王国里，入侵者通常在领地争夺中被击败。
+The other bidders for the contract complained that it had not been a fair contest. 其他竞标人抱怨该合同的竞标不公平。
+Gender discrimination is a hotly contested issue. 性别歧视是一个争论激烈的话题。
+His views on evolution are strongly contested by other scientists. 他的进化论观点遭到其他科学家的强烈质疑。
+Defence lawyers successfully contested the case. 被告律师对此案进行了成功的辩护。
+to contest a will 对遗嘱提出质疑 
+The divorce was not contested. 这桩离婚案没有人提出异议。
+Your former employer has to reply within 14 days in order to contest the case. 你的前任雇主若对本案存有异议，必须在14天内予以答复。
+election/electoral, gubernatorial（美）, leadership（尤英）, political, presidential contest 竞选；州长竞选；领导层竞选；政治选举；总统竞选
+Defence lawyers successfully contested the case. 被告律师对此案进行了成功的辩护。
+
+n. [C] 某事（尤指坏事）的征兆:
+n. [C]（疾病的）症状，症候，通常用symptoms:
+symptom |['sɪmptəm]
+It is just a symptom of a larger problem. 这只是一个更大问题的征兆。
+The unemployment issue is just one symptom of the poor state of the economy. 失业问题不过是经济不景气的一个征兆。
+Symptoms include a headache and fever. 症状包括头痛和发热。
+typical, common symptoms 典型症状；常见症状 
+clinical symptoms 临床症状 
+mild symptoms 轻微的症状 
+respiratory symptoms 呼吸系统症状 
+allergic, asthma, flu, menopausal symptoms 过敏症状；哮喘症状；流感症状；更年期症状 
+depressive symptoms 抑郁症症状 
+If symptoms do not improve after a week, see your doctor. 一周后如果症状不见改善，请就医。
+
+n. [sing.] deadline (for sth) 最后期限或截止日期（在此时必须完成某事）。是此义的常规用词，最为常用:
+deadline |['dedlaɪn]
+The deadline for applications is 30 April. 提交申请书的截止日期是4月30日。
+the deadline for entries 报名参赛的截止期限 
+to extend the deadline 延长期限 
+He missed the deadline. 他错过了截止日期。
+
+n. [U] 统治；控制:
+n. [U] 统治:
+domination |[ˌdɒmɪˈneɪʃn;美ˌdɑ:-]
+cultural, economic, ideological, military, political domination 文化上的控制；经济上的控制；意识形态上的控制；军事上的控制；政治上的控制 
+class, racial domination 阶级统治；种族统治 
+male, patriarchal, white domination 男性统治；父权统治；白人统治 
+colonial, foreign, imperial, Western domination 殖民统治；外国势力统治；帝国统治；西方主宰 
+global, world domination 世界性的主宰地位 
+corporate domination 企业支配地位 
+market domination 市场支配地位 
+countries that seek world domination 谋求主宰世界的国家 
+They achieved political domination of the area. 他们获得了该地区的政治支配地位。
+The company has struggled to maintain its domination in the marketplace. 公司奋力维持其市场支配地位。
+companies fighting for domination of the software market 争取控制软件市场的公司 
+The country came under foreign domination. 该国受到外国势力的控制。
+The country longs to be free of colonial domination. 该国渴望摆脱殖民统治。
+their economic domination over East Asia 他们对东亚经济上的控制
+class, racial domination 阶级统治；种族统治 
+male, patriarchal, white domination 男性统治；父权统治；白人统治 
+colonial, foreign, imperial, Western domination 殖民统治；外国势力统治；帝国统治；西方主宰 
+The country came under foreign domination. 该国受到外国势力的控制。
+The country longs to be free of colonial domination. 该国渴望摆脱殖民统治。
+
+vt. [非正式] 想或认为（某事将发生或属实）:
+vi. figure (as sth) (in/among sth) 无被动形式，指出现于…或被包括于…中，是某个进程、情况等的一部分（常是重要部分），相当于feature:
+n. [C] 人的身材或体形，尤指女性的好身材。是此义的常规用词:
+n. [C]（书籍或杂志中的有数字编号的）图表:
+n. [C]（几何学中由线或面所构成的）图形，尤指规则图形:
+vt. [美] 计算（数量或成本等）。词义上相当于calculate:
+n. 1 [C, often pl.] 数字，尤指官方资料中的统计数字:
+2 [C] 0到9（包含0到9）之间的十个个位数字；还可指位数:
+n. [C] 某类人，常指重要人士，即人物:
+n. [C] 冰上表演的一系列动作或花样:
+n. [C] 人或动物等的雕像，塑像:
+n. [C]（绘画中的）人或动物:
+n. [C]（故事中的）人或动物:
+n. [pl.] [非正式] figures 可表示算术，相当于arithmetic:
+n. [C]（远处的）人的轮廓，或（看不清楚的）人影:
+figure |['fɪɡə]
+He figured that he had learned a lot from the experience. 他想他从这次经历中学到了很多。
+I figure the sensible thing to do is to wait. 我认为，明智的做法是等待。
+That’s what I figured. 这就是我的看法。
+Environmental protection figured prominently in the report. 环境保护出现在报告中的显要位置。
+Nuclear disarmament is likely to figure prominently in the talks. 核裁军很可能是这次会谈的重点。
+He didn’t think their suggestions figure at all. 他认为他们的意见无足轻重。
+It did not figure high on my list of priorities. 这不在我最优先处理的事项之内。
+Vegetables hardly figure at all in their diet. 他们的食谱中几乎见不到蔬菜。
+This man did not figure among the suspects. 这名男子不在嫌疑犯之列。
+curvy figure 有曲线美的身材 
+sexy figure 性感的体形 
+slim figure 苗条的身材 
+large figure 魁梧的身材 
+towering figure 高大的身材 
+tiny figure 娇小的身材 
+She takes pride in her figure. 她为她的身材感到骄傲。
+He cut a dashing figure in his uniform. 他穿着制服，非常潇洒。
+a fine figure of a man 身材很好的男子
+See Figure 8. 见表8。
+a regular five-sided figure 一个规则的五边形 
+a solid figure 立体图形
+official figure 官方数字 
+latest figure 最新数字 
+inflated figure 夸大的数字 
+target figure 目标数字 
+attendance, sales, trade figure 出席人数；销售数字；贸易数字 
+the inflation figure 通货膨胀的数字 
+unemployment figure 失业数字 
+audience figure（尤英）观众数字 
+real figure 真实的数字 
+The figures on the screen read 8:45 a.m. 屏幕上的数字显示上午8点45分。
+the figure ‘3’ 数字“3” 
+a six-figure salary 六位数的薪水 
+single figures 一位数 
+double figures 两位数 
+high figure 高数值
+a figure of authority 权威人士 
+a leading figure in the music industry 音乐界的一位重要人物 
+public figure 公众人物 
+senior figure 资深人士 
+He was a familiar figure in the town. 小镇上的人都认识他。
+tragic figure 悲剧人物 
+ridiculous figure 可笑的人物 
+heroic, legendary, mythological figure 英雄人物；传奇人物；神话中的人物 
+historical figure 历史人物 
+literary, political figure 文学作品中的人物；政治人物 
+a figure of fun 有趣的人
+a life-size bronze figure 一个真人大小的铜像 
+a stone figure of a lion 一座石狮子雕像
+The major figure in the painting is her mother. 画中的主角是她的妈妈。
+the central figure in the photo 照片里的中心人物 
+figure painter 人体画画家 
+figure drawing, figure painting 人体绘画
+He is good at figures. 他擅长算术。
+the dim figure of him 他模糊的身影 
+human figure 人影 
+masked figure 戴着面具的人形 
+seated, standing figure 坐着的人；站着的人 
+approaching figure 走近的人 
+sleeping figure 睡着的人 
+lone figure 孤单的人 
+
+vt. 说明或表明某事是真实的或存在的:
+vt.（一个事件或一种情况）意味着…，需要:
+vt.（一个事件或一种情况）意味着…:
+vt. 以不直接说出来的方式来表明自己的所思所想所感或某事是真实的，即暗示:
+imply |[ɪmˈplaɪ]
+The survey implies (that) more people are moving house than was thought. 调查显示，准备搬家的人口比想象的要多。
+Exports in June rose 1.5%, implying that the economy was stronger than many investors had realized. 6 月份出口上升 1.5%,表明经济比许多投资者所认为的更要坚挺。
+The fact that she was here implies a degree of interest. 她到场就说明了她有一定程度的兴趣。
+The project implies an enormous investment in training. 这个项目需要在培训方面做巨大的投资。
+This does not necessarily imply that children achieve better results in private schools. 这未必意味着孩子们上私立学校就会取得更好的成绩。
+They believe that submission in no way implies inferiority. 他们认为服从绝不意味着低人一等。
+A 'frontier-free' Europe implies a greatly increased market for all economic operators. “无国界的”欧洲对所有经营者来说都意味着一个大大扩展了的市场。
+Are you implying (that) I am wrong? 你的意思是不是说我错了？
+I disliked the implied criticism in his voice. 我讨厌他暗中批评的口吻。
+I never meant to imply any criticism. 我从来没有想要批评的意思。
+The letter seems to imply that the minister knew about the business deals. 这封信似乎暗示总裁知道这几笔商业交易。
+The article falsely implied that he was responsible for the accident. 文章错误地暗示他应该对事故负责。
+The statement logically implies a certain conclusion. 这一陈述在逻辑上隐含着一个特定的结论。
+This statement should not be taken to imply that the government is exonerated of all blame. 不应认为这一陈述暗示政府可以免受指责。
+the express or implied terms of the contract 合同里明示或暗含的条件
+
+a strong desire to know or learn something:强烈渴望了解或学习某事
+an unusual or interesting object or fact:一个不寻常或有趣的物体或事实
+curiosity |ˌkjʊərɪˈɒsɪti| Noun/:好奇心,兴趣
+filled with curiosity, she peered through the window:充满好奇，她透过窗户凝视
+he showed them some of the curiosities of the house:他向他们展示了这所房子的一些奇特之处
+
+vt. [正式] 诱使某人去做某事:
+vt. [正式] 引起，导致:
+vt. [正式] 劝说某人去做某事:
+vt. [医学] 引产、催生:
+induce |[ɪnˈdju:s;美-du:s]
+Nothing would induce me to take the job. 没有什么能诱使我接受这份工作。
+drugs which induce sleep 使人昏昏欲睡的药物 
+a drug-induced coma 药物引起的昏迷状态 
+Doctors said surgery could induce a heart attack. 医生们说手术有可能引起心脏病发作。
+an economic crisis induced by high oil prices 由高油价引发的经济危机
+I would do anything to induce them to stay. 我会想尽一切办法劝他们留下来。
+More than 4,000 teachers were induced to take early retirement. 4000 多名教师被说服提前退休。
+an induced labour 引产 
+We'll have to induce her. 我们得给她引产。
+He might decide that it is best to induce labour. 他也许决定最好引产。
+
+vt. 认为…属实；认为…拥有某种权威或地位:
+vt. 1 承认…属实:
+2 acknowledge sb/sth (as sth) 承认某人或某事物拥有某种权威或地位，相当于recognize:
+vt. 对自己所得到的帮助向对方给予公开感谢:
+vt. 告诉某人你已经收到了其所邮寄或发送给你的东西:
+vt. 通过微笑、挥手等方式来表明你已注意到了某人或某事物，可称为致意:
+acknowledge |[ək'nɒlɪdӡ]
+It is generally acknowledged to be true. 普遍认为那是真的。
+He is widely acknowledged as the best player in the world. 普遍认为他是世界最佳球员。
+He acknowledged publicly that he might have made a mistake. 他当众承认自己可能犯了个错误。
+He was forced to acknowledge the truth. 他被迫承认了实情。
+The country acknowledged his claim to the throne. 这个国家承认了他继承王位的权利。
+The peace settlement effectively acknowledged the country’s independence. 这一和平协议事实上承认了该国的独立。
+I gratefully acknowledge financial support from several local businesses. 我对本地几家企业的资助表示感谢。
+Please acknowledge receipt of this letter. 信收到后请复函告知。
+I hereby acknowledge receipt of your letter of July 25. 特此告知贵方7月25日之来函已收悉。
+I was standing right next to her, but she didn’t even acknowledge me. 我就站在她身边，可是她理都不理我。
+
+n. [C] [非正式；正式为gymnasium] jungle gym在美式英语中可表示儿童攀爬架:
+n. [C] [非正式；正式为gymnasium]（例如学校的）室内体育馆或健身房:
+n. [U] [非正式] 尤指在学校的室内体育馆里所从事的体育活动:
+n. [C] [非正式] 健身俱乐部:
+gym |[dӡɪm]
+school gym 学校体育馆 
+indoor gym 室内体育馆 
+climbing gym（美）攀岩馆 
+to work out at the gym 在健身房里锻炼
+to enjoy gym 喜欢做体育运动 
+gym session（尤英）,gym class（尤美）体育课 
+gym equipment 健身器材 
+gym bag, gym clothes, gym shoes, gym socks, gym shorts（均尤美）运动包；运动衣；运动鞋；运动袜；运动短裤 
+gym teacher（尤美）体育教师
+I joined the local gym. 我加入了当地的健身俱乐部。
+gym membership 健身俱乐部会员资格 
+
+n. [C] 一个专业厨师（尤指餐馆、饭店等的最高等级厨师，即主厨，厨师长）:
+chef |[ʃef]
+head, master chef 大厨；厨师长 
+apprentice chef 学徒厨师 
+pastry chef 面点师 
+top chef 顶级厨师
+
+adj.（衣服、鞋等）朴素而实用的:
+adj.（行为或决定）基于理性和经验（而非感情）做出的，即明智的、合理的:
+adj. 1（行为或决定）基于理性和经验（而非感情）做出的，即明智的:
+2（人）能够基于理性和经验（而非感情）做出合理判断的，即理智的、明智的:
+adj. [正式或文学] 意识到、认识到:
+sensible |[ˈsensəbl]
+sensible shoes 朴实而舒适的鞋 
+Wear loose clothing and sensible footwear. 穿上宽松的衣服和舒服的鞋子。
+It might be sensible to get a solicitor. 也许应该请一个诉状律师。
+The sensible thing is to leave them alone. 别去管他们才是明智的。
+I think the sensible thing would be to take a taxi home. 我想还是坐出租车回去的好。
+In the state I was in, this seemed a perfectly sensible remark. 根据我当时的情况，这么说似乎完全合乎情理。
+Are you going out to search for it at this time of night? It seems hardly sensible. 你打算夜里这个时候出去找吗？这好像不那么明智。
+I think that's a very sensible idea. 我看这个主意很妥当。
+This approach seems very sensible to me. 在我看来，这个方法似乎很明智。
+That advice sounds sensible enough. 那个建议听起来相当合理。
+Say something sensible. 说点正经的。
+It might be sensible to get a solicitor. 也许应该请一个诉状律师。
+The sensible thing is to leave them alone. 别去管他们才是明智的。
+I think the sensible thing would be to take a taxi home. 我想还是坐出租车回去的好。
+Are you going out to search for it at this time of night? It seems hardly sensible. 你打算夜里这个时候出去找吗？这好像不那么明智。
+I think that's a very sensible idea. 我看这个主意很妥当。
+This approach seems very sensible to me. 在我看来，这个方法似乎很明智。
+Say something sensible. 说点正经的。
+She was a sensible girl and did not panic. 她是一个理智的女孩，没有惊慌失措。
+Oh come on, let's be sensible about this. 噢，得了吧，我们还是理智地对待此事吧。
+She's a sensible sort of person. 她属于那种通情达理的人。
+He's usually very sensible. 他做事通常很理智。
+I am sensible of the fact that mathematics is not a popular subject. 我知道数学课不受欢迎。
+
+vt. 常用被动式，显示（或映衬出）…的轮廓:
+n. [C] 轮廓线；或（不展示细节的）略图:
+vt. outline sth (to sb) 概述；略述。相当于sketch:
+n. [C] 轮廓线；或（不展示细节的）略图:
+vt. 常用被动式，勾勒…的外形:
+n. [C] 概述；梗概。本质上具有一种框架性。这种框架性通常有两种表现形式，第一，用编号一一简要列出所陈述的内容（这些内容进行详细论述和充实后，就成了一个完整的论述）。此时也可叫“提纲”；第二，通过一段较长的文字来“概述”原本很长的内容，但依然保持原内容的脉络、层次、思想:
+outline |['aʊtlaɪn]
+They saw the huge building outlined against the sky. 他们看见了在天空的映衬下那座巨大建筑的轮廓。
+clear, sharp, vague outline 清晰的轮廓；模糊不清的轮廓 
+the dim outlines of the house 房子的模糊轮廓 
+outline drawing, outline map 轮廓画；略图 
+to cut around the outline 沿着轮廓剪 
+He sketched the street in outline only. 他只勾画了街道的略图。
+We outlined our proposals to the committee. 我们向委员会提纲挈领地讲了讲我们的提案。
+He roughly outlined the plot of the opera. 他粗略地概述了该歌剧的剧情。
+outline drawing, outline map 轮廓画；略图 
+He sketched the street in outline only. 他只勾画了街道的略图。
+This is a brief outline of the events. 这就是事件的梗概。
+an outline agreement 协议纲要 
+Following is an outline of the survey findings. 以下是调查结果的概要。
+broad, general outline 粗略的提纲 
+course outline 课程大纲 
+Write an outline for your essay. 写出你的文章的提纲。
+Here’s the plan in outline. 这是计划的提纲。
+
+vi. react against sb/sth 与…作对（尤指故意作对）；反抗。不常用:
+vi. react (to sth) (by doing sth) 由于…（或针对…）而发生某种变化或做出某种行为，即起反应；（对…）做出反应；回应（与respond和reply类似，主语一般是做出反应的人等，一般可互换）:
+react (together) 在化学中可指（不同的物质相遇后）起化学反应，发生化学变化:
+vi. 生物体接触某种或某些物质（如吃进食物、施用药物、吸入…、触摸…等）后发生不良反应:
+react |[rɪ'ækt]
+Most young people react against traditional values. 很多年轻人反对传统的价值观。
+to react against his practice 反对他的做法
+Local residents have reacted angrily to the news. 当地居民对这一消息表示愤怒。
+Her family reacted with horror when she told them. 她告诉她的家人后家人们惊骇不已。
+I nudged her but she didn’t react. 我用胳膊肘捅了她一下，可她没有反应。
+The market reacted by falling a further two points. 股市的反应是再下跌两个百分点。
+The police must be able to react swiftly in an emergency. 警方在面对紧急情况时必须能迅速做出反应。
+The industry has been slow to react to these breakthroughs in technology. 该行业对技术上的这些突破反应迟缓。
+The committee reacted positively to the proposals. 委员会对这些提议做出了积极回应。
+vi. react (with sth) 
+Iron reacts with water and air to produce rust. 铁和水及空气发生反应产生铁锈。
+to react to certain food additives 对某些食品添加剂产生不良反应 
+Someone allergic to milk is likely to react to cheese. 对牛奶过敏的人可能会对奶酪也有不良反应。

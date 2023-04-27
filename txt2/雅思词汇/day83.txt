@@ -1,0 +1,603 @@
+itinerary					旅行日程
+array					系列，数组，服装，排列
+planetarium				天文馆
+gland					腺，密封套
+exquisite					姣好的，精致的，得体的，剧烈的
+deputy					副手，代理，议员
+ridiculous					可笑的，荒唐的
+reconcile					使和好，使...一致，使...将就，调解
+funnel					漏斗，烟囱，输送
+shell					壳
+succinct					简明的
+eminent			名声显赫的，杰出的
+jam				堵塞，障碍，困境，用力推，卡住
+terminate				终止，解雇，结束
+temporary									短期的，临时的
+rage				狂怒，时尚，肆虐
+span							持续时间段，范围，跨越，持续
+dialect					方言
+proficiency				熟练
+pilgrim					朝圣者
+shrink					缩小，退缩，回避
+radius				半径
+oar					桨
+web					蜘蛛网
+diplomat				外交官
+database								数据库
+standing				名声，地位，常设的，站立的
+cellar									地窖，藏酒
+cooperate				合作，配合
+dictate						口述，支配，命令
+\\\\\\\\
+
+n. [C] 行程计划（包括了路线和要去的地点）:
+itinerary |[aɪˈtɪnərəri;美aɪˈtɪnəreri]
+tour, travel itinerary 游览行程；旅游行程 
+We had to follow a very detailed itinerary. 我们不得不按照一份很详尽的行程计划安排事宜。
+Your itinerary includes a visit to Stonehenge. 您的行程包括参观巨石阵。
+Historic sites are featured prominently in their itineraries. 他们的行程安排以古迹参观为主。
+The National Gallery is on most tourists' itinerary. 大多数游客的行程中都有参观国家美术馆一项。
+The next place on our itinerary was Tokyo. 我们行程的下一站是东京。
+
+n. [C] [术语] 横排或竖排排列的一组数字、符号或数值，即数列、数组、阵列:
+vt. [常用被动式] [正式] 布置或排列一组事物，使其看起来更顺眼:
+n. [C] 物品的布置、陈列:
+n. [C] [计算机] 在计算机中组织或储存相关数据的一种方式，即数组、阵列:
+n. 1 [usually sing.] 一大群人或一大堆事物:
+2 [C]（多个望远镜、太阳能电池板之类的仪器设备连接在一起构成的）阵列:
+vt. [常用被动式] [正式] 把兵力配置在阵地上（以做好打仗的准备）:
+array |[əˈreɪ]
+methods which can be used to create an ordered array of molecules within materials 能使材料内部的分子有序排列的方法
+Jars of all shapes and sizes were arrayed on the shelves. 在搁架上整齐地排列着大大小小各式各样的罐子。
+There was an impressive array of pill bottles stacked on top of the fridge. 冰箱上显眼地摆放着许多药瓶。
+We visited the local markets and saw wonderful arrays of fruit and vegetables. 我们去了当地的市场，看见了一排排摆放整齐的水果和蔬菜。
+The image is then stored on the computer hard disk as a vast array of black or white dots. 这幅图像当时就以大量黑点或白点排列的形式被存入电脑硬盘。
+a dazzling array of talent 耀眼的大批天才 
+Channel 4 has lined up an array of stars for the coming season. 4频道为下一季储备了大批明星。
+A dazzling array of celebrities are expected at the Mayfair gallery to see the pictures. 梅费尔美术馆期待星光璀璨的各界名流来欣赏这些画。
+a vast array of bottles of different shapes and sizes 一大批形状大小不一的瓶子 
+Florists have access to a whole array of flowers. 花店老板能搞到所有品种的鲜花。
+The store offers a bewildering array of garden tools. 这家商店的园艺工具令人目不暇接。
+It is difficult to choose from the vast array of wines. 很难从这么多种葡萄酒中做出选择。
+The customer is faced with a formidable array of products. 顾客要面对数量大得惊人的产品。
+The city has the usual array of social problems. 这个城市有一系列常见的社会问题。
+Her writing covers a wide array of topics. 她的作品涵盖的主题十分广泛。
+a seemingly endless array of options 一长串似乎无穷无尽的选择 
+As the deadline approached she experienced a bewildering array of emotions. 随着最后期限的临近，她开始心绪纷乱，不知所措。
+
+
+planetarium |英 [,plænɪ'teərɪəm]  美 ['plænə'tɛrɪəm]| n. 天文馆；行星仪/
+
+
+
+n. [C]（人或动物的）腺:
+gland |[glænd]
+enlarged, swollen gland 肿胀的腺体 
+adrenal, pineal, pituitary, thyroid gland 肾上腺；松果腺；垂体腺；甲状腺等 
+lymph, salivary, sweat gland 淋巴腺；涎腺；汗腺 
+the hormones secreted by our endocrine glands 人体内分泌腺分泌的荷尔蒙 
+Her glands are swollen. 她的腺体肿胀。
+a snake's poison glands 蛇的毒腺 
+Female ants release pheromones from their scent glands. 雌蚁的臭腺中能释放出信息素。
+
+adj. 极其美丽的，制作得极精细的，如精美的、精致的:
+adj. 雅致的、高雅的:
+adj. [正式]（气味）强烈的:
+adj. [正式]（味道）浓烈的:
+adj. [正式]（感觉）强烈的、剧烈的:
+adj. [正式] 微妙的；敏锐的；敏感的:
+exquisite |[ɪkˈskwɪzɪt;ˈekskwɪzɪt]
+exquisite craftsmanship 精美的工艺 
+I was admiring the exquisite workmanship in the mosaic. 我当时正在欣赏镶嵌画的精湛做工。
+exquisite porcelain 精美的瓷器 
+the exquisite delicacy of the embroidery 刺绣的精美 
+The Indians brought in exquisite beadwork to sell. 印第安人带了精美的珠饰来卖。
+Mr Zhang's photography is exquisite. 张先生的摄影作品非常精美。
+exquisite little hotel 精美的小旅店 
+a tree with exquisite blooms 鲜花盛开的树
+The room was decorated in exquisite taste. 这个房间的装饰情趣高雅。
+Her good breeding shows in her exquisite manners. 她高雅的举止显示出她良好的教养。
+fruits full of exquisite fragrance and flavour 香气扑鼻的水果
+exquisite flavour 浓郁的味道         
+exquisite pain, exquisite agony 剧烈的疼痛；极大的痛苦 
+exquisite pleasure, exquisite sweetness 极大的快乐 
+exquisite sensation 强烈的感受 
+She peeled it with exquisite care. 她小心翼翼地削皮。
+exquisite flavour 浓郁的味道 
+fruits full of exquisite fragrance and flavour 香气扑鼻的水果
+an exquisite sense of timing 时间安排上恰到好处的感觉 
+exquisite logic 精妙的逻辑
+
+n. [C] 领导的副职、副手（领导不在的时候代替领导行事），是领导手下最重要的一个人:
+n. [C] 某些国家的议员:
+n. [C]（在美国）协助地方治安官办案的警官:
+deputy |[ˈdepjuti]
+deputy chair, deputy chairman, deputy chief, deputy director, deputy editor, deputy governor, deputy head, deputy leader, deputy manager, deputy minister, deputy president 副主席；副董事长；副局长；副主管；副主编；副州长；副校长；副职领导；副经理；副部长；副总统 
+He was appointed deputy head of the school. 他被委任为副校长。
+I'm acting as deputy till the manager returns. 我在经理回来之前代行他的职务。
+She is acting as deputy to the chairman of the board. 她在代行董事会主席的职务。
+Jack Lang, France's minister for culture, and his deputy, Catherine Tasca 法国文化部长杰克·朗和他的副部长凯瑟琳·塔斯卡 
+the academy's deputy director, Vladimir Kudryatsev 学院副院长弗拉基米尔·库德里亚夫采夫 
+a former deputy chairman of the Democratic Party 民主党的一位前任副主席 
+A new deputy has not yet been appointed. 尚未任命新的助手。
+The president appealed to deputies to approve the plan quickly. 总统呼吁议员尽快通过这一方案。
+parliamentary deputy 议会议员 
+opposition deputy 反对派议员 
+right-wing deputy 右翼议员 
+Three women were among the 77 deputies elected. 77名选出的议员中有3名是女性。
+
+adj. 非常愚蠢或不合理的，荒缪的，荒唐的，相当于absurd或ludicrous。但在口语中ridiculous远比absurd常用:
+ridiculous |[rɪ'dɪkjələs]
+I look ridiculous in this hat. 我戴这顶帽子看上去很可笑。
+Don’t be ridiculous! You can’t pay £50 for a T-shirt! 别犯傻了！怎么能花50英镑买一件T恤衫！
+a sense of the ridiculous（尤英）荒唐感
+
+restore friendly relations between:恢复友好关系
+settle (a quarrel):settle（争吵）
+make or show to be compatible:make或show兼容
+make someone accept (a disagreeable or unwelcome thing):makesomeoneaccept（令人不快或不受欢迎的事情）
+make (one account) consistent with another, especially by allowing for transactions begun but not yet completed:使（一个帐户）与另一个帐户保持一致，尤其是允许交易开始但尚未完成
+reconcile |ˈrɛk(ə)nsʌɪl| Verb/:调和,和解
+the king and the archbishop were publicly reconciled:国王和大主教公开和解
+advice on how to reconcile the conflict:关于如何调和冲突的建议
+the agreement had to be reconciled with the city's new international relations policy:该协议必须与该市新的国际关系政策相协调
+he was reconciled to leaving:他甘心离开
+it is not necessary to reconcile the cost accounts to the financial accounts:没有必要将成本账户与财务账户进行核对
+
+If you funnel money, goods, or information from one place or group to another, you cause it to be sent there as it becomes available. 传送 (资金、商品、信息等)
+If something funnels somewhere or is funnelled there, it is directed through a narrow space. 使经过狭窄空间; 经过狭窄空间
+You can describe as a funnel something that is narrow, or narrow at one end, through which a substance flows and is directed. 漏斗状物
+A funnel is a metal chimney on a ship or railway engine powered by steam. (蒸汽轮船或火车机车的) 烟囱
+A funnel is an object with a wide, circular top and a narrow short tube at the bottom. Funnels are used to pour liquids into containers which have a small opening, for example, bottles. 漏斗
+funnel |英 ['fʌn(ə)l]  美 ['fʌnl]| n. 漏斗；烟囱/vt. 通过漏斗或烟囱等；使成漏斗形/vi. 通过漏斗等；成漏斗形/
+He secretly funnelled credit-card information to counterfeiters.他秘密地将信用卡信息传送给了伪造者们。
+The winds came from the north, across the plains, funnelling down the valley.风从北方吹来，刮过平原，穿过山谷。
+Along the road, funnels of dark grey smoke rose from bombed villages.沿那条公路，暗灰色烟成漏斗状从遭到轰炸的村庄里升起。
+...a ship with three masts and two funnels.…一艘有3根桅杆和2个烟囱的轮船。
+Rain falls through the funnel into the jar below.雨水通过漏斗落进下面的罐子里。
+
+
+n. 1 [sing.] 人的表面性格、表面人格、表面感情、外表:
+2 [sing.] 某人的自我封闭的外壳，算是一种比喻用法:
+n. [C] 某事物（例如房屋或船舶）遭遇火灾或炸弹袭击后剩下的空架子、框架、壳体:
+n. [C, U]（蛋等的）壳:
+n. [C, U]（坚果等的）壳:
+vt. 给坚果、豌豆、虾等去壳:
+n. [C, U]（海贝、龟、蜗牛、蟹等动物的）壳:
+n. [C] 物体的硬外壳:
+vt.&vi. 朝着…发起炮击、炮轰:
+n. 1 [C] 炮弹:
+2 [C] [美]（子弹或炮弹的）弹壳；弹药管或弹药筒。相当于cartridge:
+shell |[ʃel]
+She had developed a shell of indifference. 她养成一副冷漠的外表。
+She had built up a protective shell of indifference around herself. 她给自己建了个冷漠的“保护壳”，躲了进去。
+Her normally shy son had come out of his shell. 她那平时很害羞的儿子已经开始与人交往了。
+He's really come out of his shell since he met Marie. 自从遇见玛丽以后，他真的变开朗了。
+a lonely boy struggling to emerge from his shell 一个努力想要走出自我封闭的孤独男孩 
+to get/go/retreat/withdraw into your shell 变得羞怯（或内向、孤僻）
+The house was now a shell gutted by flames. 房子烧得只剩个空骨架了。
+the shells of burned buildings 大厦被烧毁后露出的框架 
+The fire reduced the school to a hollow shell. 这场大火把学校烧得只剩一个空架子了。
+The solid feel of the car's shell is impressive. 这辆汽车的外壳给人的感觉异常坚固。
+My life has been an empty shell since he died.（比喻用法）他死后，我的生活就成了一个徒有其表的空壳子。
+I had become a hollow shell.（比喻用法）我已变成了一具空壳。           
+egg shell（通常用eggshell）蛋壳 
+Once the eggs have hatched the shells are left behind. 一旦鸡蛋孵化后，蛋壳就没用了。
+peanut, walnut 花生壳；胡桃壳 
+earrings made out of coconut shell 用椰子壳做的耳坠 
+They cracked the nuts and removed their shells. 他们砸开坚果,剥去硬壳。         
+She shelled and ate a few nuts. 她剥了几个坚果吃了。
+shelled prawns 去了皮的对虾           
+sea shell（通常用seashell）海贝壳 
+conch, cowrie, mussel, oyster, snail shell 海螺壳；宝贝壳；贻贝壳；牡蛎壳；蜗牛壳 
+tortoise shell（通常用tortoiseshell）龟壳 
+creatures that have shells 有壳类动物 
+The snail went back into its shell. 蜗牛缩回壳里。
+We collected shells on the beach. 我们在海滩拾贝壳。
+Remove the mussels from their shells. 把贻贝从壳中取出。
+Male crabs shed their shells twice a year. 公螃蟹每年蜕壳两次。
+the body shell of a car 车身外壳
+They shelled the city all night. 他们整夜炮轰那座城市。
+The rebels shelled the densely-populated suburbs near the port. 叛乱者炮轰了港口附近人口密集的郊区。
+Just as they were leaving the rebels started shelling. 他们正撤离时，叛军开始炮击。
+unexploded shell 未爆炸的炮弹 
+a heap of spent brass shells from a machine gun 一堆废旧的机关枪铜弹壳 
+anti-aircraft, artillery, cannon, mortar, shotgun, tank 高射炮炮弹；火炮炮弹；加农炮炮弹；迫击炮炮弹；猎枪子弹；坦克炮炮弹 
+depleted uranium, high-explosive shell 贫铀弹；高爆炸弹 
+tank-busting guns that fired depleted uranium shells 发射贫铀弹的反坦克炮 
+The telltale sound of an incoming shell was heard. 能清晰地听到炮弹正呼啸而来。
+A shell flew over his head and exploded in front of him. 一枚炮弹飞过他的头顶，在他面前爆炸。
+Two shells hit the roof. 两枚炮弹击中了房顶。
+They braved heavy shell fire to rescue the wounded. 他们顶着密集的炮火营救伤员。
+shell shock 弹震症（或称战斗疲劳症）
+soldiers suffering from shell shock 患弹震症的士兵 
+shell case, shell casing, shell fragments, shell splinter 炮弹壳；炮弹碎片 
+shell crater, shell hole 弹坑 
+spent shell 废旧弹壳
+
+adj. [褒] 用语简练但表达清楚的，即言简意赅的:
+succinct |[səkˈsɪŋkt]
+Keep your answers as succinct as possible. 你们的答案要尽可能简洁明了。
+a succinct explanation 简明的解释 
+The book gives an admirably succinct account of the technology and its history. 这本书极其简明扼要地介绍了这项技术及其发展史。
+If you have something to say make sure that it is accurate, succinct and to the point. 在阐述观点时一定要准确、简洁、中肯。
+
+adj.（尤指某一专业领域的人）著名且受尊重的:
+adj.（良好的品质）不寻常的、非凡的、杰出的:
+eminent |[ˈemɪnənt]
+an eminent architect 著名的建筑师 
+an eminent scientist 著名的科学家
+a man of eminent good sense 极其明智的人
+
+vt.＆vi. jam (sth) (up) 变得不能移动或不能运转；使…变得不能移动或不能运转:
+n. [C] 指机器因某个部位被某物卡住而停止工作:
+vt. 1 用很大力气将某物推至某处；也可指把某物胡乱地塞进或放入某处:
+2 jam sth (up) (with sb/sth) 指…挤满了大量人或事物，使其难以正常运转，如道路或电话线挤满或占满了…:
+vt.＆vi. 把人或事物放进一个狭小的空间，在此空间内（由于空间狭小而）难以移动，即塞进:
+n. [U, C] 把水果和糖煮在一起所制成的一种浓稠的甜食，常用罐装出售并涂抹在面包上，即果酱:
+vt. [术语] 干扰无线电或电子信号，使其难以被接收或被清晰听到:
+vt.＆vi. jam (sth) (up) 变得不能移动或不能运转；使…变得不能移动或不能运转:
+n. [C] 在某个地方有太多的人或交通工具，以致于彼此难以或不可能移动，即交通拥堵、交通堵塞。是一个形象化用法，较为常用:
+vt. jam sth (up) (with sb/sth) 道路挤满或占满了…:
+jam |[dӡæm]
+The gun jammed. 枪卡壳了。
+to jam the machine 卡住机器
+a paper jam in the printer 打印机卡纸了
+to jam the door with a large stone 用一块大石头将门顶住 
+to jam a finger in his left ear 把一只手指塞进左耳 
+to jam a hand into a pocket 把一只手塞进兜里 
+The cupboards were jammed full of old newspapers. 橱柜里塞满了旧报纸。
+The room is jammed tight with furniture. 房间里堆满了家具。
+People constantly jammed the street. 街上经常挤满了人。
+The traffic was jammed solid on the bridge. 桥上车辆堵得水泄不通。
+to jam into the classroom 挤进教室 
+The children were jammed into the minibus. 孩子们被塞入一辆小型公共汽车里。
+We were jammed together shoulder to shoulder. 我们肩靠肩紧紧挤成了一团。
+strawberry jam 草莓果酱 
+jam sandwich 果酱三明治 
+home-made jam 自制果酱
+to jam the transmissions electronically 用电子手段干扰发射
+The gun jammed 枪卡壳了。
+to jam the machine 卡住机器
+a traffic jam 交通堵塞 
+People constantly jammed the street. 街上经常挤满了人。
+The traffic will just jam up our village. 车辆将会把我们村子堵得水泄不通。
+The traffic was jammed solid on the bridge. 桥上车辆堵得水泄不通。
+The airport was jammed with people. 机场挤满了人。
+
+vi. [正式]（公共汽车或火车）到达终点站:
+vt.&vi. [正式]（使）某事停止:
+terminate |[ˈtɜ:mɪneɪt;美ˈtɜ:rm-]
+This train terminates at London Victoria. 这趟列车的终点站是伦敦维多利亚火车站。
+His contract terminates at the end of the season. 他的合同在本赛季末终止。
+Your contract of employment terminates in December. 你的聘约十二月份到期。
+Either party has the right to terminate the agreement. 任何一方均有权中止本协议。
+Her next remark abruptly terminated the conversation. 她接下来说的话使谈话戛然而止。
+This federal intervention effectively terminated the strike. 这次联邦干预有效地终止了罢工。
+to terminate a pregnancy (= to perform or have an abortion) 终止妊娠（堕胎）
+
+adj. 持续（或将要持续）一小段时间的，即短暂的，暂时的；被使用一小段时间的，非长久的，即临时的。与permanent相反:
+temporary |['tempərərɪ]
+temporary relief from pain 疼痛的短暂缓解 
+temporary work 临时工作 
+temporary accommodation 临时住所 
+temporary measure, temporary arrangement 临时措施；临时安排 
+Most adolescent problems are temporary. 多数青春期的问题都是暂时的。
+
+vt.&vi. ~ (at/against/about sb/sth)（尤指通过喊叫）向某人或某事大发怒火:
+n. 1 [U, C]（难以抑制的）暴怒、狂怒:
+2 [U]（构成复合词）（某种情况引起的）愤怒和暴力行为:
+vi. ~ (on)（暴风雨、战斗、争论等）猛烈地继续:
+vi. [澳大利亚，新西兰；俚语] 外出玩个痛苦、出去作乐:
+vi.（疾病、火焰等）迅速蔓延:
+vi.（疾病、火焰等）迅速蔓延:
+vi.（疾病）迅速蔓延:
+rage |[reɪdʒ]
+‘That's unfair! ’ she raged. “这不公平！”她愤怒地喊道。
+Monroe was on the phone, raging about her mistreatment by the brothers. 门罗正在打电话，怒不可遏地说着她被这几个兄弟虐待的事。
+Inside, Frannie was raging. 弗兰妮正在屋里大发脾气。
+She was still raging about the treatment she had received. 她仍对自己受到的待遇愤怒不已。
+I raged inwardly against his injustice. 我对他的不公正之举怒火满腔。
+The team was left raging at the referee's decision. 全队对裁判的裁决感到非常气愤。
+She tried to control the fury raging within her. 她竭力控制内心激烈的怒火。           
+His face was dark with rage. 他气得面色铁青。
+Sue stormed out of the room in a rage. 休怒气冲冲地走了出去。
+He flies into a rage if you even mention the subject. 你只要一提起这个话题，他就会暴跳如雷。
+He was red-cheeked with rage. 他气得满脸通红。
+She was burning with impotent rage. 她怒火中烧却无能为力。
+He punched the wall in a fit of rage. 盛怒之下他用拳头猛击墙壁。
+He glared at me, quite beside himself with rage. 他瞪着我，怒不可遏。
+Her eyes were burning with rage. 她的眼中充满怒气。
+I was seething with rage. 我怒火中烧。/‘How dare you!’ she said, her face contorted with rage. “你竟敢这样！”她说道，脸都气歪了。
+He was literally shaking with rage. 他简直气得浑身发抖。
+Her voice was trembling with rage. 她气得话音发颤。
+The people vented their rage on government buildings. 人们把怒气都发泄在政府大楼上了。
+His answer only seemed to fuel her rage. 他的回答似乎只是激起了她更大的愤怒。
+He managed to master his rage. 他设法压住了怒火。
+He felt rage boil up inside him. 他感到胸中怒气沸腾。
+Her rage boiled over as she burst into tears. 她放声大哭，再也无法控制。
+She felt the rage building up inside her. 她感到胸中怒火越来越盛。
+Blind rage consumed him. 他被一股无名怒火所吞噬。
+His rage suddenly erupted. 他勃然大怒。
+His rage was beginning to subside. 他的怒气开始消退。
+She was speechless with rage. 她气得说不出话来。
+He was boiling with rage at the unfairness of it all. 他对这一切的不公平感到怒不可遏。
+He gave a roar of rage and punched me in the face. 他怒吼一声，猛地一拳打在我脸上。
+tears of rage 愤怒的泪水 
+He was prone to violent rages. 他动辄大发雷霆。
+She started hitting him in a drunken rage. 她酩酊大醉，怒气冲天地开始打他。
+If something's too difficult she gets in a rage. 如果事情太难，她就会大发脾气。
+She killed him in a rage of despair. 她在极度绝望之下杀了他。
+He was in a towering rage about his lost watch. 他因丢了手表而暴怒不已。
+He flew into a rage at the insult. 他因遭此侮辱而勃然大怒。
+He left in a rage of humiliation. 他羞愤离去。
+a case of trolley rage in the supermarket 超市里一起由手推车引起的暴力事件 
+Cabin crews are reporting up to nine cases of air rage a week. 乘务人员一周内报告的飞机上闹事行为多达九起。
+A motorist was assaulted in a road rage attack. 一名司机在一起路怒事件中被殴打。
+The blizzard was still raging outside. 外面暴风雪仍在肆虐。
+The storm raged unabated. 暴风雨继续肆虐。
+The riots raged for three days. 暴乱持续了三天。
+the fierce arguments raging over the future of the Holy City 关于圣城未来的激烈争论 
+The argument still rages on. 辩论仍在激烈地进行着。
+Even the dogs were quiet while the heated quarrel raged around them. 他们吵得不可开交的时候，连狗都安静了。
+Forest fires were raging out of control. 森林大火迅速蔓延，失去了控制。
+Train services were halted as the fire raged for more than four hours. 火灾肆虐超过四个小时，期间列车停止了运行。
+A flu epidemic raged through Europe. 流感在整个欧洲肆虐。
+Forest fires were raging out of control. 森林大火迅速蔓延，失去了控制。
+Train services were halted as the fire raged for more than four hours. 火灾肆虐超过四个小时，期间列车停止了运行。
+A flu epidemic raged through Europe. 流感在整个欧洲肆虐。
+A flu epidemic raged through Europe. 流感在整个欧洲肆虐。
+
+vt. 包括一大片地区；包含很多事物:
+n. [C] 某事所持续（或能够持续）的时间:
+vt. 持续一整段时间；包括一整段时间内的所有部分:
+adj. [名词前不常用] spick and span（也可用spic and span）指整洁干净的:
+n. 1 [C] 宽度:
+2 [C] 桥或拱的两个垂直支撑体之间的部分，即墩距、跨距、跨度:
+vt.（桥等建筑物）横跨、跨越:
+n. [C] ~ (of sth) 范围；包括的种类:
+n. [C] 桥或拱的两个垂直支撑体之间的部分，即墩距:
+span |[spæn]
+The operation, which spanned nine countries, resulted in 200 arrests. 这次行动涉及九个国家，逮捕了200人。
+Bernstein's compositions spanned all aspects of music, from symphonies to musicals. 伯恩斯坦创作的乐曲涉及了从交响乐到音乐剧等音乐的各个方面。
+a remarkable man whose interests spanned almost every aspect of nature 一个兴趣广泛、几乎涉猎了自然学科所有领域的杰出男性
+a span of time 时间的跨度 
+a span of years 年份的跨度 
+I worked with him over a span of six years. 我和他共事达六年之久。
+The project must be completed within a specific time span. 这项工程必须在规定期限内完成。
+Developments were monitored over a span of two years. 对开发的监控持续两年。
+Gradually the time span between sessions will increase. 会议之间的间隔将逐渐延长。
+The speech continued well beyond its allotted span. 这场演讲大大超出了原定的时间。
+The book covers the entire span of Arab history. 这本书跨越了整个阿拉伯的历史。
+natural span（尤英）自然寿命 
+to prolong life beyond its natural span 延年益寿 
+time span 时间长度 
+The average lifespan of an American is 75 years. 美国人的平均寿命是75岁。
+The batteries had a life span of six hours. 这些电池的寿命为 6 小时。
+attention, concentration（尤英）, memory span 注意力持续时间；记忆保持时间 
+Small children have a short attention span. 幼儿注意力持续时间短。           
+His acting career spanned 55 years. 他的演艺生涯长达55年。
+His professional career spanned 16 years. 他的职业生涯持续了 16 年。
+The film, spanning almost a quarter-century, tells the story of Henry Hill. 这部时间跨度将近四分之一世纪的影片讲述的是亨利·希尔的故事。
+Family photos spanning five generations were stolen. 一家五代人的照片失窃了。          
+Their house is always spick and span. 他们家总是收拾得清清爽爽。
+The kite has a span of 1.5 metres. 风筝宽1.5米。
+It is a very pretty butterfly, with a 2 inch wing span. 这是一只非常美丽的蝴蝶，翼展 2 英寸。
+It may be that you are unaware of where your hip joint is; it is not at the waist but a good hand span below it. 这也许是因为你并不晓得髋关节的位置，它不在腰部，而是位于腰部以下一手拃宽处。
+The bridge crosses the river in a single span. 河上的桥为单跨桥。
+The bridge has a clear span of 36 metres. 这座桥净跨径为36米。
+a series of bridges spanning the river 架在河上的一系列桥梁 
+the humped iron bridge spanning the railway 横越铁路的铁拱桥 
+Travellers get from one side to the other by walking across a footbridge that spans a little stream. 游客通过一座横跨小溪的步行桥从一边来到另一边。
+Managers have a wide span of control. 经理的职权范围很大。
+These forests cover a broad span of latitudes. 这些森林绵延在多个纬度上。
+a broad span of interests 广泛的兴趣
+The bridge crosses the river in a single span. 河上的桥为单跨桥。
+
+n. [C, U] 方言:
+dialect |[ˈdaɪəlekt]
+native dialect 本地方言 
+northern dialect 北方方言 
+Italian dialect 意大利方言 
+the Yorkshire dialect 约克郡方言 
+Black dialect 黑人方言 
+dialect form 方言形式 
+dialect word 方言词语 
+dialect speaker 讲方言的人 
+dialect group 方言群体 
+dialect poetry 方言诗歌 
+In the fifties, many Italians spoke only local dialect. 在 20 世纪 50 年代，许多意大利人只会说当地方言。
+They began to speak rapidly in dialect. 他们开始叽里呱啦地说起地方话来。
+
+n. [U] ~ (in sth/in doing sth) 熟练度:
+proficiency |[prəˈfɪʃnsi]
+a high level of oral proficiency in English 一口流利的英语 
+Evidence of basic proficiency in English is part of the admission requirement. 英语基本熟练是入学条件之一。
+a certificate for proficiency in English 英语水平证书 
+Not all students were developing high proficiency in Spanish. 并非所有学生对西班牙语都学得很精通。
+Mary of them had only limited proficiency in English. 他们中许多人的英语水平有限。|academic, technical proficiency 学术水平；技术水平 
+language, oral, reading, written proficiency 语言水平；口语水平；阅读水平；写作水平 
+cycling（尤英）, skiing proficiency 骑自行车的熟练度；滑雪的熟练程度 
+He taught himself to carve to a high degree of proficiency. 他自学雕刻，达到了很高的水平。
+He acquired greater proficiency after a three-month intensive course. 上了三个月的强化课后，他的水平得以提高。
+The test has been widely used for assessing English proficiency. 该测试已被广泛用于评估英语水平。
+proficiency assessment, proficiency examination, proficiency test水平评估；水平考试；水平测试 
+a language proficiency test 语言水平测试 
+proficiency level, proficiency standard 熟练程度；熟练标准
+
+Pilgrims are people who journey to a holy place for a religious reason. 朝圣者
+pilgrim |英 ['pɪlgrɪm]  美 ['pɪlɡrɪm]| n. 朝圣者；漫游者；（美）最初的移民/vi. 去朝圣；漫游/n. (Pilgrim)人名；(英、德)皮尔格林/
+This is where pilgrims to the abbey would pay their first devotions.这儿就是来此修道院的朝圣者做第一次祈祷的地方。
+
+
+vt.＆vi.（尤指在过热的水中洗涤后）变得更小（即缩水）；使衣物等缩水:
+vi. 由于害怕或震惊而从某事物处退缩回来或从其移开，相当于cower:
+vt.＆vi. 在尺寸或数量上变得更小；使…在尺寸或数量上变得更小:
+n. [C] [俚或幽默] 一个精神病学家，或一个心理学家:
+shrink |[ʃrɪŋk]
+My sweater shrank in the wash. 我的毛衣缩水了。
+She shrank back in terror. 她恐惧地往后退。
+He shrank back against the wall. 他向后退到了墙根。
+The child shrank from her touch. 那孩子躲开了她的触摸。
+The tumour had shrunk to the size of a pea. 肿瘤已缩小到豌豆大小。
+The market for their products is shrinking. 市场对他们产品的需求在减少。
+Television in a sense has shrunk the world. 从某种意义上说电视把世界缩小了。
+We are competing in a market that is shrinking fast. 我们在争夺迅速萎缩的市场。
+Their share of the market has shrunk from 14% to 5%. 他们的市场份额从14%缩小到5%。
+Their profits shrank by 4% last year. 去年他们的利润降低了4%。
+Households have been shrinking in size but increasing in number. 家庭规模缩小了，但家庭数量增加了。
+I’ve seen a shrink already. 我已经看过心理专家了。
+
+n. [C]（圆的）半径；半径长度:
+n. [C] 以一个点为圆心，以某个距离为半径所覆盖的圆心区域范围:
+n. [C] [解剖学]（前臂上的）桡骨:
+radius |[ˈreɪdiəs]
+radius of a circle 圆的半径 
+He indicated a semicircle with a radius of about thirty miles. 他标示出了一个半径大约为30英里的半圆形。
+They deliver to within a 5-mile radius of the store. 他们在距离商场5英里的范围内送货上门。
+Nigel has searched for work in a ten-mile radius around his home. 奈杰尔一直在他家周围10英里的范围内找工作。
+
+n. [C]（柄比较长的）船桨:
+oar |[ɔ:(r)]
+He pulled as hard as he could on the oars. 他拼命地划桨。
+We each took an oar. 我们每人持一支桨。
+oar lock（通常用oarlock）（美）（英式英语用row-lock）桨架
+
+n. [C] 一些禽鸟等动物（如鸭子、青蛙）的蹼:
+n. [sing.] the Web可指计算机的互联网，也称万维网（World Wide Web）。在词义上与Internet没有明显区别，不过Internet使用范围更广，也更为常用:
+n. [C] 彼此紧密联系在一起的若干事物，即网状的、错综复杂的事物。主要强调整体上的复杂性，有时还有危险性（如汉语中的“天罗地网”），而不关心内部各节点之间是否具有交互性（通常没有交互性，但偶尔也有）。此外，web还通常作为一个整体而和外部事物之间发生作用，如作为“蜘蛛网”来捉飞虫、作为“罗网”来捕获某事物等（对同一个事物，如果说它是一个network，则强调其系统性和交互性，如果说它是一个web，则强调其复杂性和迷乱感）:
+n. [C] 彼此紧密联系在一起的一些道路，即道路网。不过其一般只强调道路的复杂交错，而不太强调各交通站点之间的交通往来活动:
+n. [C] 蜘蛛网:
+web |[web]
+Web page 网页 
+Web address 网址 
+Web browser 网络浏览器 
+Web network 网络 
+I found the information on the Web. 我在网上找到了这条消息。
+a web of streets 纵横交错的街道 
+a web of relationships 关系网 
+a complex web of financial dealings 一张复杂的金融交易网 
+The mass media form a web of communications. 大众传媒形成一个信息传递网络。
+a web of deceit 骗局 
+a web of lies 一套谎言
+a web of streets 纵横交错的街道
+spider（尤美）, spider’s（尤英）web 蜘蛛网 
+A spider had spun a perfect web outside the window. 蜘蛛在窗外结了一张完整的网。
+
+n. [C] 善于处理人际关系的人:
+n. [C]（旧时用diplomatist）外交官:
+diplomat |[ˈdɪpləmæt]
+Washington's top diplomat in Havana 华盛顿驻哈瓦那的最高级别的外交官 
+the chief Cuban diplomat in the United States 古巴驻美国首席外交官 
+two of the world's most prominent diplomats 世界上最杰出的外交官中的两位 
+foreign diplomat 外国的外交官 
+career, professional diplomat 职业外交家 
+American diplomat 美国外交官 
+a Western diplomat in Islamabad 一名驻伊斯兰堡的西方外交官 
+He served as a diplomat in Russia before the war. 战前他任驻俄罗斯的外交官。
+
+n. [C] [计算机] （储存在计算机中的）数据库、资料库:
+n. [C]（储存在计算机中并可以调用的）数据库:
+database |['deɪtəbeɪs][ˈdeɪtəbeɪs;NorthAmericanEnglishalsoˈdætə-]
+public database 公共数据库 
+computer, computerized, electronic database 计算机数据库；计算机化数据库；电子数据库 
+online database 在线数据库 
+We're trying to create our own computerized database. 我们正努力建立我们自己的计算机化数据库。
+The database is updated monthly. 数据库每月更新。
+The new database contains 200 000 images. 新数据库包含20万张图片。
+database application, database engine, database server, database software, database system 数据库应用；数据库引擎；数据库服务器；数据库软件；数据库系统 
+database technology 数据库技术 
+database design, database development 数据库设计；数据库开发 
+database management 数据库管理 
+database access, database search 数据库访问；数据库搜索 
+database administrator 数据库管理员 
+database entry 数据库条目 
+We have over 8 000 customer names in our database. 我们的数据库里有8，000 多名客户的姓名。
+The information is stored on a large database. 信息存储在一个大型数据库里。
+a very large database of information 一个很大的信息数据库 
+They maintain a database of hotels that cater for businesswomen. 他们维护着一个服务于商界女性的酒店资料库。
+computer, electronic database 计算机数据库；电子数据库 
+online database 在线数据库 
+database technology 数据库技术 
+database entry 数据库条目
+
+n. [C]（党派或个人的）支持率、受欢迎程度:
+n. [U] 某人或某事物在一个群体或组织内的名声:
+adj. [只用于名词前] 长期存在的、永久性的、常设的:
+n. [U] 某事持续的时间:
+n. [pl.] standings可指（运动员或运动队比赛成绩的）排名、名次:
+adj. [只用于名词前] 站着进行的:
+n. [U] 某人或某事物在一个群体或组织内的地位、级别。相当于status:
+standing |[ˈstændɪŋ][ˈstændɪŋ]
+But, as the opinion poll shows, the party's standing with the people at large has never been so low. 但是民意调查显示，该党在公众中的支持率从未这么低过。
+Mrs Thatcher's standing was much higher in the US than at home. 撒切尔夫人在美国要比在本国更受欢迎。
+public standing 在公众中的声望 
+She was appointed for her high standing with the general public. 她因在公众中享有很高的声望而获任命。
+the low standing of politicians with the public 在公众中声望低的政治人物 
+national standing 国内声誉 
+an artist of international standing 具有国际名望的艺术家 
+academic, moral, professional standing学术声望；道德声望；职业声望 
+Professor Greenan has a high standing in the academic world. 格林南教授在学术界名望颇高。
+her low standing among her fellow scientists 她在科学家同行中较低的声望 
+His standing as a movie director has risen in recent years. 近年来他作为电影导演声誉日隆。
+his international standing in cancer research 他在癌症研究领域的国际声望 
+He has improved his country's standing abroad. 他提高了自己国家的国际声望。
+a standing charge (= an amount of money that you pay in order to use a service, such as gas or water)（英式英语）长期支付的开销 
+a standing committee 常务委员会 
+Israel has a relatively small standing army and its strength is based on its reserves. 以色列的常备军规模相对较小，其军事实力主要在于它的预备役部队。
+It's a standing joke (= something that a group of people regularly laugh at). 那是一个活笑柄。
+We have a standing invitation to visit them anytime. 他们邀请我们随时去他们家做客。
+Elizabeth had a standing invitation to stay with her. 伊丽莎白受到邀请，可以随时去她家住。
+a friendship of many years' standing 多年的友情 
+Their relationship is of many years' standing. 他们的关系已经持续很多年了。
+a Congressman of 24 years' standing 有24年资历的国会议员 
+My girlfriend of long standing left me. 我多年的女朋友离开了我。
+Britain is 11th in the team standings. 英国在各队排名中位列第11位。
+standing jump, standing start 立定跳远；站立式起跑 
+The speaker got a standing ovation (= people stood up to clap after the speech). 演讲者赢得了听众的起立鼓掌。
+academic, economic, financial, legal, moral, political, professional, social standing学术声望；经济地位；金融地位；法律地位；道德声望；政治地位；职业声望；社会地位 
+She married into a family of higher social standing. 她嫁进了一个社会地位比她高的家庭。
+The contract has no legal standing. 那份合同在法律上没有约束力。
+a student in good standing with the college 深受学院赏识的学生 
+a member in good standing（美式英语）正式成员 
+a member in good standing of the movement 该运动的正式成员
+
+n. 1 [C]（通常用于存放物品的）地下室、地窖:
+2 [C]（私人或饭店的）酒窖。相当于wine cellar:
+cellar |[ˈselə(r)]
+damp, dark cellar 潮湿的地下室；黑暗的地下室 
+vaulted cellar 拱状地窖 
+coal, root（美）煤窖；储藏根用蔬菜的地窖 
+storm cellar（美）防风地下室 
+pub cellar（英）地下室酒馆 
+beer cellar（尤英）地下室啤酒馆 
+disused cellar 废弃的地下室 
+cellar door, cellar stairs（尤美）, cellar steps 地下室门；地下室楼梯；地下室台阶 
+cellar bar（尤英）地下室酒吧 
+The box of papers had been stored in a cellar at the family home. 那箱文件一直藏在家中的地窖里。
+the restaurant's extensive wine cellar 饭店藏酒品种繁多的酒窖 
+I went down into the cellar for more wine.我到地下室去再取了些酒。
+
+vi. ~ (with sb) (in/on sth) 与别人合作、协作（以达成某事）:
+vi. 按照某人的要求来做事以对此人起到帮助作用，如协助、配合:
+cooperate |[kəʊˈɒpəreɪt;美koʊˈɑ:p-]
+They had cooperated closely in the planning of the project. 他们曾密切合作，共同规划这一项目。
+The two companies are cooperating in the development of a new engine. 两家公司正在合作开发一种新的发动机。
+We are cooperating on a research project. 我们正在合作搞一个研究项目。
+The UN had been co-operating with the State Department on a plan to find countries willing to take the refugees. 联合国一直都在与美国国务院合作推进一项计划，寻找愿意接纳难民的国家。
+The two groups agreed to cooperate with each other. 这两个组同意相互协作。
+The couple spoke about how they would co-operate in the raising of their child. 这对夫妇讲述了他们将如何共同抚养孩子。
+Their captors told them they would be killed unless they cooperated. 抓住他们的人说如果他们不配合就杀掉他们。
+The plan failed because the soldiers refused to co-operate. 因为士兵们不肯配合，这项计划宣告失败。
+He has said he will cooperate fully with the police enquiries. 他说他将全力配合警方的调查。
+The firm has agreed to cooperate with the employment survey. 这家公司已同意配合进行就业调查。
+
+state or order authoritatively:state或权威命令
+control or decisively affect, determine:控制或决定性影响，确定
+say or read aloud (words to be typed, written down, or recorded on tape):说或大声朗读（要打字、写下来或记录在磁带上的单词）
+an order or principle that must be obeyed:必须遵守的命令或原则
+dictate |dɪkˈteɪt| Noun/Verb/:听写,发号施令,口授
+the tsar's attempts to dictate policy:沙皇试图制定政策
+choice is often dictated by availability:choice通常由可用性决定
+I have four letters to dictate:我有四个字母要口授
+the dictates of fashion:时尚的主宰

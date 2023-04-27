@@ -1,0 +1,817 @@
+position					位置，姿势，状况，立场，摆放
+solid							固体的，纯的，挤满的，连续的
+mobile						可移动的，适应性强的
+identification						坚定，认同
+convenience						方便，便利设施
+logic					逻辑学，理由
+immediate						立即的，紧急的，最近的，直接的
+autonomy				自治，自主
+crystal				结晶体，水晶，清澈的
+local						本地人，邻近的
+process						过程，加工，处理
+great						大的，强烈的，伟大的，出色的
+revolution							革命，天体运行
+ban							明令禁止，禁令
+competition					竞争，比赛
+marine						海洋的，航海的
+significance							重要性，意义
+panic							恐慌
+satisfactory				令人满意的，尚可的
+factor			因素
+perspective				透视法，观点
+impetus				动力，促进因素
+announce							宣布，介绍
+contract					合同，感染，收缩
+entertainment					娱乐，款待
+detective						侦探
+radioactive							放射性的
+follow						跟随，继承
+database								数据库
+vigorous				有力的，强健的，坚决的
+\\\\\\\\
+
+n. [C] [正式]（工作上的）职位或职务，相当于post:
+n. 1 [C, usually sing.] position (to do sth)（某人所处的）情况，处境，情势或状况（尤指对人有左右或支配能力的情势，即人们能做什么或不能做什么，要在一定程度上取决于该情况）:
+2 [sing.]（做某事的）适当位置:
+n. [C] position (on sth)（针对某一主题的）态度，也可叫立场:
+n. [C] 速度比赛，各种竞赛或测试中（与其他人对比时所产生）的名次:
+vt. 把…置于某个位置上，相当于place:
+n. [C, U] 某事物的放置方式:
+n. [C, U] 某人的坐立方式，即姿势，姿态:
+n. [C] position (on sth)（针对某一主题的）观点:
+n. 1 [C] …所位于的地方，即位置:
+2 [U]（恰当或正确的）地方或位置:
+n. [C] 速度比赛，各种竞赛或测试中（与其他人对比时所产生）的名次:
+n. [C] 在一些团队性体育比赛中，可指某名队员所处的位置和其所拥有的职责，可以叫职责，位置或角色:
+n. [C, usually pl.] 战争中可指阵地:
+n. [C, U] 一个人与其他人（或一个组织与其他组织）相比较时所处的重要性水平，即地位，等级（主要指社会地位）:
+position |[pə'zɪʃn]
+to apply for the position of Sales Director 申请销售总监一职 
+full-time, part-time position 全职岗位；兼职岗位 
+senior position 高级职位 
+junior position 初级职务 
+official position 官职 
+skilled position 需要技能的职位 
+administrative, management position 行政职务；管理职务 
+staff position 员工职位 
+a faculty position at Iowa State University 在艾奥瓦州立大学的教职
+business, economic, financial, legal position 商业状况；经济状况；财务状况；法律地位 
+competitive position 竞争态势 
+strategic position 战略地位 
+bargaining, negotiating position 谈判中的地位 
+trading position 贸易形势 
+a difficult position 困境 
+embarrassing, awkward position 尴尬的处境 
+I am not in a position to comment. 我不便发表评论。
+the party’s position on education reforms 该党对教育改革的态度 
+She has made her position very clear. 她明确表示了自己的立场。
+official, political position 官方立场；政治立场
+By the ninth hour the car was running in eighth position. 比赛进行到第九个小时的时候该赛车跑在第八位。
+Position the cursor where you want the new margins to begin. 将光标放在你所要的新页边空白开端。
+Large television screens were positioned at either end of the stadium. 体育场的两端安装了大型电视屏幕。
+She quickly positioned herself behind the desk. 她迅速在桌子后面就位。
+The company is now well positioned to compete in foreign markets. 现在这家公司已准备好在国外市场竞争。
+The markers were not positioned centrally. 标记没有放在中心位置。
+Police marksmen were positioned on the roof. 警方的神枪手布置在屋顶上。
+Keep the box in an upright position. 把盒子竖着放。
+kneeling, sitting, standing position 跪姿；坐姿；站姿 
+sleeping, lying position 睡姿；卧姿 
+foetal position 胎位 
+Make sure that you are working in a comfortable position. 工作时一定要保持舒适的姿势。
+My arms were aching so I shifted (my) position slightly. 我胳膊疼了，所以稍微变了变姿势。
+My parents always took the position that early nights meant healthy children. 我的父母总是认为孩子早睡就会身体健康。
+ideological, philosophical, theoretical position 意识形态观点；哲学观点；理论观点
+Where would be the best position for the lights? 这些灯装在什么位置最好？
+geographical position 地理位置 
+military, strategic position 军事位置；战略位置 
+Hordes of journalists jostled for position outside the conference hall. 大批记者在会场外争抢位置。
+Arrows indicate the positions of the aircraft. 箭头表示飞机的位置。
+Fix the pieces in position before gluing them together. 先将各部分的位置摆好，再用胶水粘起来。
+Is everybody in position? 大家都就位了吗？
+Please get into position. 请各就各位。
+The guards took up their positions on either side of the door. 卫兵们在门两边站好。
+United’s win moved them up to third position. 联队的胜利使他们排名升至第三。
+By the ninth hour the car was running in eighth position. 比赛进行到第九个小时的时候该赛车跑在第八位。
+What position does he play? 他打哪个位置？
+They attacked the enemy positions at dawn. 黎明时分，他们向敌军阵地发起进攻。
+Wealth and position were not important to her. 财富与地位对她并不重要。
+social position 社会地位 
+a position of authority, a position of power, a position of influence 有权势的地位；有影响力的地位 
+her pre-eminent position among today’s writers 她在当代作家中的杰出地位 
+The firm gained a dominant position in the market. 公司获得了市场的主导地位。
+
+adj. 意见完全一致的，或意见完全统一的:
+adj. 只作前置定语，完全由某种材料制成的，即纯…的:
+adj. 非正式，（一段时间）无暂停的，即连续的，不间断的:
+adj.（色彩）纯色的，单色的:
+adj. 内部无孔洞或空间的；非中空的。如实心的:
+adj. 1 坚硬的:
+2 结实的，坚固的:
+adj. 固体的（即非液体或气体的）:
+n. [C]（物质或物体）固体:
+n. [C] 几何学中可指立体图形:
+adj. 几何学中可指立体的，立方的（而非平面的）:
+adj. 可依靠的，可信赖的，有坚实基础的。是一种形象化用法，也较为常用:
+adj. 1 制作精良的:
+2 不错的（但并不出色或独特）:
+solid |['sɒlɪd]
+The strike was solid, supported by all the members. 这次罢工是统一行动，得到所有成员的支持。
+a solid gold bracelet 纯金手镯 
+solid wood doors 纯木门
+a solid week 整整一星期 
+two solid years 整整两年 
+It rained for two hours solid this afternoon. 今天下午连着下了两个小时的雨。
+solid black 纯黑色
+solid rock 实心岩石 
+The train station was packed solid with people. 火车站里人挤得水泄不通。
+The boat bumped against a solid object. 船撞到了硬物上。
+The water was frozen solid. 水冻硬实了。
+These chains seem fairly solid. 这些链子看着挺结实。
+Banks are built to look solid to reassure their customers. 银行修建得看上去很坚固，以使顾客放心。
+solid surface 固体表面 
+solid fuel 固体燃料 
+solid waste 固体垃圾 
+liquids and solids 液体与固体 
+The baby is not yet on solids. 婴儿还不能吃固体食物。
+a solid figure 立体图形
+solid evidence 可靠的证据 
+This provided a solid foundation for their marriage. 这为他们的婚姻提供了坚实的基础。
+The Irish team were solid as a rock in defence. 爱尔兰队的防守坚如磐石。
+a solid and stable man 可靠而稳重的男子 
+solid support 坚定的支持
+The songwriting quality is consistently solid. 歌曲创作的质量一直很可靠。
+2004 was a year of solid achievement. 2004年是颇有成绩的一年。
+He’s a solid player. 他是个相当不错的运动员。
+
+adj. 1 常用于名词前，非固定于一地，且可被方便快捷地移动的:
+2 常不用于名词前，（人）能够轻松地到处移动（如走动）的，如行动方便的，腿脚灵便的:
+3（人）易于变换自己的社会阶层、工作岗位或居住地的，即流动性的:
+adj.（脸或面部特征）易于变化且经常变化的:
+n. [C] 线绳悬挂着一些小物件所构成的一个小装饰品，悬挂在天花板上，可随风摆动。如风铃:
+n. [C] [英] 移动电话，手机，相当于mobile phone:
+adj. 常不用于名词前，（人）能够轻松地到处移动（如走动）的，如行动方便的，腿脚灵便的:
+adj. 常不用于名词前，（人）能够轻松地到处移动（如走动）的:
+mobile |['məʊbaɪl]
+mobile equipment 可移动装备 
+a mobile shop 流动商店 
+The barbecue is fully mobile. 烤架可以整个儿移动。
+people who are less mobile 行动不便的人 
+Babies start to get mobile around the age of eight months. 婴儿在八个月左右开始爬来爬去。
+You really need to be mobile (= have a car) if you live in the country. 如果你住在乡村，你确实要有一辆汽车。
+downwardly mobile members of society 社会地位下降的人们 
+a geographically mobile population 在各地流动的人口 
+Call me on my mobile. 打手机给我。
+What’s your mobile number? 你的手机号码是多少？
+the mobile networks 移动电话网络公司 
+a kitchen especially designed for the people who are less mobile 专门为行动不便的人设计的厨房 
+Babies start to get mobile around the age of eight months. 婴儿在八个月左右开始爬来爬去。
+You really need to be mobile (= have a car) if you live in the country. 如果你住在乡村，你确实要有一辆汽车。
+
+n. [U, C] identification (of sb) (with sb/sth) 在不同的人（或事物）之间建立紧密联系的过程，即密切联系:
+n. [U, C] 鉴定，验明，辨认（人或事物）:
+n. [U, C] identification (with sb/sth) 对…的一种强烈感情，例如同情、理解或支持:
+n. [U] 证明身份的正式文件:
+n. [U] 识别…的存在、重要性或真实性，即确认:
+identification |[aɪ͵dentɪfɪ'keɪʃn]
+the voters’ identification of the Democrats with high taxes 选民把民主党和高税收画上等号
+the identification of the crash victims 对事故伤亡者的鉴别 
+She was unable to make a positive identification of the suspect. 她不能确切指认嫌疑人。
+fingerprint, radio frequency, visual identification 指纹识别；射频识别；视觉识别 
+identification bracelet, identification label, identification technology 识别腕带；识别标签；识别技术 
+identification code 识别码 
+Each product has a number for easy identification. 每件产品都有号码以便于识别。
+identification procedure 鉴定程序
+her emotional identification with the play’s heroine 她与剧中女主人公在情感上的共鸣 
+their identification with the struggle for independence 他们对争取独立的斗争的支持
+identification card, identification document, identification papers 身份证；身份证明文件；身份证明文书 
+Can I see some identification, please? 请出示一下身份证件好吗？
+Always carry some identification. 要随时携带能证明身份的证件。
+My only means of identification was my credit card. 唯一能证明我身份的就是我这张信用卡了。
+early identification of adolescents at risk for violence 对有遭受暴力侵害危险的青少年的早期确认 
+the early identification of health problems 健康问题的早期确认
+
+n. [U]（对某人来说）有用，便利，适宜或适合:
+n. [C] 有用，且能使做事更方便、更快捷或更舒适的事物:
+convenience |[kən'vi:njəns]
+We have provided seats for the convenience of our customers. 为方便顾客我们备有座位。
+convenience food 方便食品 
+convenience store（尤美）便利店 
+Call me at your convenience. 方便的时候给我打个电话。
+marriage of convenience 基于实际利益的婚姻 
+at your earliest convenience (= as soon as possible)（商业用语）请在方便时尽早 
+We leave the keys near the front door for the sake of convenience. 为了方便起见，我们把钥匙放在前门附近。
+It was a great convenience to have the school so near. 学校这么近真是太方便了。
+The house had all the modern conveniences. 这座房子拥有所有现代化便利设施。
+
+n. 1 [U]（某类人或某个活动领域特有的）思维方式；解释方法；逻辑:
+2 [U, sing.] 道理，逻辑性或合理性:
+n. [U] [计算机] 逻辑系统；操作规则:
+n. [U] [哲学] 逻辑学:
+logic |[ˈlɒdʒɪk;美ˈlɑ:dʒɪk]
+The two parts of the plan were governed by the same logic. 计划的两个部分均受到了同一思维方式的制约。
+compelling, impeccable, inexorable logic 令人信服的推理；无懈可击的逻辑推理；无法改变的推理 
+faulty, flawed logic 错误的逻辑推理 
+In their faulty logic, this is a great injustice. 按照他们的错误逻辑，这是严重的不公正。
+perverse, strange, twisted logic 荒谬的逻辑；奇怪的逻辑；反常的逻辑 
+This is clearly a case of circular logic. 这显然是循环推理。
+The plan had a simple logic to it. 该计划包含着简单的逻辑。
+He understood the basic logic of deterrence. 他理解威慑的基本逻辑。
+inherent, inner, internal, underlying logic 内在的逻辑 
+The music has its own inner logic. 这音乐有其内在的逻辑。
+business, commercial, economic, political, scientific logic 经营逻辑；商业逻辑；经济逻辑；政治逻辑；科学逻辑 
+It's a stupid decision that completely defies logic. 这个决定很愚蠢，完全违背了逻辑。
+You can't use the same logic in dealing with children. 对孩子你不能用同样的逻辑。
+They questioned the logic underlying his actions. 他们质疑他行为背后的逻辑。
+What's the logic behind this decision? 这一决定背后的逻辑是什么? 
+There doesn't seem to be any logic in the move. 这一行动似乎毫无道理。
+The logic of this argument is very obscure. 这一论据的逻辑很费解。
+Linking the proposals in a single package did have a certain logic. 把这些提议联系起来成为一揽子提议确有一定的道理。
+There is no logic to/in any of their claims. 他们的任何索赔都不具正当的理由。
+I don't follow the logic of your argument. 我不明白你的论点逻辑性何在。
+There would be no logic in upsetting the agreements. 把协议推翻在逻辑上站不住脚。
+formal logic 形式逻辑 
+mathematical logic 数理逻辑 
+deductive, inductive logic 演绎逻辑；归纳逻辑 
+fuzzy 模糊逻辑 
+Philosophers use logic to prove their arguments. 哲学家用逻辑推理来证明他们的论点。
+the rules of logic 逻辑学规则
+
+adj. 立即的、立刻的:
+adj. [常用于名词前] 迫切的:
+adj. [只用于名词前]（在时间上）紧接着的:
+adj. [常用于名词前] 目前的；当前的:
+adj. [只用于名词前]（关系）直系的:
+adj. [只用于名词前]（在空间上）接近的；附近的:
+adj. 1 [只用于名词前]（关系或级别）最接近的，直系的，直接的:
+2 [只用于名词前] 产生直接结果的:
+immediate |[ɪˈmi:diət]
+an immediate reaction, immediate response 即时的反应；即时的回应 
+to take immediate action 立刻采取行动 
+My immediate reaction was just disgust. 我当时的第一反应就是反感。
+The effect seems immediate. 效果似乎马上就显现出来了。
+The painkillers brought almost immediate relief. 止痛药几乎立即缓解了疼痛。
+Our immediate concern is to help the families of those who died. 我们的当务之急是帮助那些死者的亲属。
+The effects of global warming, while not immediate, are potentially catastrophic. 全球气温上升的后果虽然并非即时发生，但可能潜伏着大灾难。
+Relief agencies say the immediate problem is not a lack of food, but transportation. 救援机构称最紧迫的问题不是食物匮乏,而是运输不畅。
+The prospects for the immediate future are good. 短期内前景乐观。
+my immediate predecessor in the job (= the person who had the job just before me) 我的职位的前一任 
+In the immediate aftermath of the riots, a mood of hope and reconciliation sprang up. 暴乱过后紧接着出现了期待未来与盼望和解的气氛。
+The hospital says she's out of immediate danger. 医院说她眼下已没有危险。
+The funeral was attended by her immediate family (= her parents, children, brothers and sisters) only. 只有她的直系亲属参加了葬礼。
+Only a handful had returned to work in the immediate vicinity. 仅有几个人回到临近地区工作。
+I was seated at Sauter's immediate left. 我紧挨着索特左手边坐着。
+The director is standing on her immediate right. 主管就挨在她的右边站着。
+The funeral was attended by her immediate family (= her parents, children, brothers and sisters) only. 只有她的直系亲属参加了葬礼。
+He is my immediate superior (= the person directly above me) in the company. 他在公司里是我的顶头上司。
+The immediate cause of death is unknown. 造成死亡的直接原因不明。
+
+n. [U]（一个国家、地区或组织机构的）自治；自治权；自主权:
+n. 1 [U]（一个国家、地区或组织机构的）自治；自治权；自主权:
+2 [U]（一个人的）自主；自主权:
+autonomy |[ɔ:ˈtɒnəmi;美ɔ:ˈtɑ:n-]
+a campaign in Wales for greater autonomy 威尔士争取更大自治权的运动 
+Activists stepped up their demands for local autonomy last month. 上个月激进分子对地方自治的呼声更高了。
+The cantons and communes of Switzerland have preserved their autonomy. 瑞士的州和市镇仍然享有自治权。
+The Act granted limited autonomy to the republics. 该法案赋予各共和国的自治权是有限的。
+local, national, regional autonomy 地方自治；国家自治；区域自治
+a campaign in Wales for greater autonomy 威尔士争取更大自治权的运动 
+Activists stepped up their demands for local autonomy last month. 上个月激进分子对地方自治的呼声更高了。
+The cantons and communes of Switzerland have preserved their autonomy. 瑞士的州和市镇仍然享有自治权。
+The Act granted limited autonomy to the republics. 该法案赋予各共和国的自治权是有限的。
+local, national, regional autonomy 地方自治；国家自治；区域自治 
+administrative, cultural, economic, financial, managerial, political, professional autonomy 行政自主权；文化自主权；经济自主权；财政自主权；管理自主权；政治自主权；专业自主权 
+demands for cultural autonomy 文化自主权的要求 
+The subsidiary companies will now have more autonomy. 这些附属公司现在将拥有更多的自主权。
+Head office is giving the regional offices more autonomy. 总公司将给地区分公司更多的自主权。
+Schools have gained greater autonomy from government control. 学校已从政府那里获得了更大的自主权。
+giving individuals greater autonomy in their own lives 在生活中给个人更大自主权的 
+an individual's right to exercise autonomy 个人行使自主权的权利 
+patient, teacher, worker autonomy 患者的自主权；教师的自主权；工人的自主权 
+Each of the area managers enjoys considerable autonomy in the running of his own area. 每个区域经理在他们各自负责的地区的运营上都享有高度的自主权。
+
+n. [C] [美] 手表表面的一片玻璃或塑料，即表蒙子:
+n. [U] 水晶玻璃杯；水晶玻璃容器:
+n. [C] 物质的晶体、结晶体:
+n. [U] 高质量的玻璃，如水晶玻璃:
+n. [U, C] 水晶（如石英，用于制作珠宝饰物）:
+crystal |[ˈkrɪstl]
+Get out your best china and crystal. 拿出你最好的瓷器和水晶玻璃器皿。
+crystal glasses 水晶玻璃杯
+single crystal 单晶体 
+small, tiny crystal 小晶体 
+large crystal 大晶体 
+ice, snow crystal 冰晶；雪晶 
+quartz, rock crystal 石英晶体；水晶 
+salt crystal 食盐结晶 
+Ice crystals had formed on the window. 窗户挂上了冰晶。
+crystal chandelier, crystal vase 水晶玻璃枝形吊灯；水晶玻璃花瓶 
+Some of the finest drinking glasses are made from lead crystal. 一些最高档的酒杯是用铅晶质玻璃制成的。
+a pair of crystal earrings 一对水晶耳环 
+a strand of crystal beads 一串水晶珠子
+
+n. [C] [美] 工会的地方分会:
+n. [C] [英，非正式] 住处附近的酒吧:
+adj. 常作前置定语，医学上可指（身体上）局部的:
+adj. 常作前置定语，与谈论的地方或你所居住的地方有关的，即当地的，本地的:
+adj. 常作前置定语，指（政府）地方的:
+n. [usually pl.] 当地人，本地人，当地居民:
+n. [C] [美]（沿线每站都停的）公共汽车:
+n. [C] [美]（沿线每站都停的）火车:
+local |['ləʊkl]['ləʊkl]
+local anaesthetic
+a local resident 当地居民 
+a local man 本地人 
+a local farmer 当地的农民 
+a local school 本地学校 
+local paper 本地报纸 
+local dialect 当地方言
+local government 地方政府
+to meet the locals 与当地人见面 
+The locals are very friendly. 当地居民非常友好。  
+
+vt. 正式处理一份文件、一个请求、事情等:
+vt. 将原材料、事物等进行加工或处理（以将其改变或保存等）（而并不专门表示“制造”一个东西，因为制造通常包括多个环节，如加工、组装等。而process通常只是其中某个或某些环节所采取的手段。如将原材料process成可供下一步使用的成品材料）:
+n. [C] 做某事（或制作某东西）的一种方法（尤指工业中采用的方法），如做事方法，工艺流程，工序等:
+n. 1 [C] 为达到某一结果而做的一系列事情，即过程。是一个常规用词，极为常用:
+2 [C] 发生的一系列事情（尤指导致自然变化的一系列事情），如过程:
+vt. 在计算机中对数据进行处理:
+process |['prəʊses]
+It will take a week for your application to be processed. 审核你的申请需要一周时间。
+It was a second later when I fully processed what he had said. 一秒钟之后我就完全明白了他的话是什么意思。
+My brain slowly processed the fact that I was free to leave. 我慢慢才反应过来我可以自由地离开。
+highly processed food 深加工食品 
+The berries are processed into juice or sauce. 浆果被加工成果汁或果酱。
+I sent three rolls of film away to be processed. 我送了三个胶卷去冲印。
+sewage processing plant 污水处理厂 
+The plant is then processed for dye. 然后对这种植物进行加工以获取染料。
+industrial, manufacturing, production process 工业生产流程；制造过程；生产工序 
+decision-making, planning process 决策过程；筹划过程 
+voting process 表决过程 
+registration process 登记程序 
+cognitive, learning, mental, thought, thinking process 认知过程；学习过程；心理过程；思维过程 
+selection, testing process 选拔过程；测试过程 
+review process 审核过程 
+judicial, legal process 司法程序；法律程序 
+approval process 批准过程 
+democratic, political, peace, historical process 民主进程；政治进程；和平进程；历史进程 
+We’re in the process of selling our house. 我们正在出售自家的住宅。
+chemical process 化学过程 
+ageing/aging, developmental, evolutionary, healing process 衰老过程；发育过程；进化过程；愈合过程
+This information is processed by the computer. 此信息是由计算机处理的。
+
+adj. [非正式] great for (doing) sth 对某事物来说非常合适或有用的:
+adj. 常用于名词前，巨大的；尺寸或数量比通常情况更大的:
+adj. 有很高的地位或很大影响力的:
+adj. [非正式] great at (doing sth) 通常不用于名词前，能把某事做好的，如擅长、精通:
+adj. great-附加在家庭成员的称呼上，表示更高或更低一辈的亲属关系:
+adj. 只用于名词前，用于相似种类的动植物中较大者的名称前:
+adj. Greater与城市名连用，以描述一个包括市中心和其周围的一大片地区在内的区域:
+adj. 身心状况极佳的，即身体健康的、精神愉悦的。强调身体的健康程度或精神愉悦程度之高:
+adj. 只用于名词前，重要的、重大的、令人印象深刻的:
+adj. 只用于名词前，用于现场强调对某人或某事物的一个描述:
+adj. 1 [非正式] 只用于名词前，用于强调一个表示尺寸或质量的形容词，即很:
+2 程度或数量比通常情况大得多的，如非常的、很多的、极大的:
+adj. 1 [非正式] 非常好的或非常令人愉悦的:
+2 能力和品质极好并因此而受到众多人敬仰的，如伟大的、卓越的、杰出的:
+adv. [非正式，非标准] 很好地、极好地:
+n. [usually pl.] [非正式] 一个非常著名和成功的人或事物:
+great |[ɡreɪt]
+This gadget’s great for opening jars. 这小玩意儿开广口瓶挺好。
+Try this cream--it’s great for spots. 试试这种乳霜吧——对皮肤斑点挺有效。
+A great crowd had gathered. 一大群人聚集在一起。
+People were arriving in great numbers. 人们大批到来。
+the great majority of people 大多数人 
+He must have fallen from a great height. 他肯定是从很高的地方摔下来的。
+She lived to a great age. 她活了很大岁数。
+There’s a great big hole in this sleeve. 这只袖子上有个非常大的洞。
+Don’t worry. It’s no great loss. 别担心，这不是什么大损失。
+the great powers 强国 
+We can make this country great again. 我们可以使这个国家再次强大起来。
+Alexander the Great 亚历山大大帝
+She’s great at chess. 她国际象棋下得很好。
+my great-aunt (= my father’s or mother’s aunt) 我的姑婆；我的姨婆 
+her great-grandson (= the grandson of her son or daughter) 她的曾孙 
+my great-great-grandfather (= the grandfather of my grandfather) 我的高祖
+the great tit 大山雀
+Greater London 大伦敦
+She seemed in great spirits. 她好像心情很不错。
+Everyone’s in great form. 每个人的状态都很好。
+I feel great today. 我今天感觉特别好。
+The wedding was a great occasion. 这婚礼可是一大盛典。
+the great day 重大日子 
+The great thing is to get it done quickly. 重要的是尽快将它完成。
+one great advantage of this metal 这种金属最大的一个优点
+We are great friends. 我们是最要好的朋友。
+I’ve never been a great reader (= I do not read much). 我从来都不大看书。
+She’s a great talker. 她是个话匣子。
+a great big pile of books 很大一摞书 
+a great thick slice of cake 厚厚的一大片蛋糕 
+a matter of great importance 非常重要的事 
+The concert had been a great success. 音乐会非常成功。
+Her death was a great shock to us all. 她的死使我们所有人都感到非常震惊。
+It gives me great pleasure to welcome you here today. 今天能在这里欢迎您是我极大的荣幸。
+You’ve been a great help. 你帮了大忙。
+It’s great to see you again. 很高兴再次见到你。
+What a great goal! 这球进得真妙！
+We had a great time in Madrid. 我们在马德里玩得很开心。
+That’ll be great, thanks. 太好了，谢谢。
+That’s really great news! 真是个好消息啊！
+the world’s greatest violinist 世界上最伟大的小提琴家 
+a great man 伟人
+Well done. You did great. 干得好。你干得真棒。
+He was one of boxing’s all-time greats. 他是一位空前的拳击好手。
+
+n. [C] revolution (in sth)（对很多人产生影响的）一种条件（工作方式、信念等）的巨大改变，即巨变，重大变革:
+n. 1 [C, U] revolution (around/on sth) 环绕一个点所进行的旋转，尤指某一星体围绕另一星体运行:
+2 [C] 被固定到一个中心点上的事物所做的旋转运动，（例如在一个汽车引擎中）:
+n. [C] 很多人所持有的改变一国政府的企图，尤指通过暴力行动，即革命:
+revolution |[͵revə'lu:ʃn][͵revə'lu:ʃn]
+agricultural, computer, industrial, information, social revolution 农业变革；计算机革命；工业革命；信息革命；社会变革 
+a revolution in people’s leisure activities 人们休闲活动的巨大变化 
+Marketing has undergone a revolution in recent years. 市场营销近年经历了一场革命。
+the revolution of the earth around the sun 地球环绕太阳的公转 
+The earth turns through one complete revolution every 24 hours. 地球每24小时旋转一周。
+rotating at 300 revolutions per minute 以每分钟300转的速度旋转 
+One full revolution of the knob will open the hatch. 把门柄转一圈就可以打开舱门。
+violent revolution 暴力革命 
+bloodless revolution 不流血的革命 
+democratic revolution 民主革命 
+proletarian revolution 无产阶级革命 
+to foment revolution 煽动革命 
+the revolution which overthrew the old regime 推翻旧政权的革命
+
+vt. 1（官方或正式地）禁止，取缔，相当于prohibit。与forbid相比，ban和prohibit具有更强的法律色彩（但此时prohibit还可以是不及物动词）:
+2 ban sb from sth/from doing sth 常用被动式，（尤指正式地）指示某人不要做某事或去某地，即禁止:
+n. [C] ban (on sth) 官方或正式的禁令:
+ban |[bɑːn]
+Chemical weapons are banned internationally. 国际上禁止使用化学武器。
+to ban online gambling 禁止网上赌博 
+to ban tobacco advertising 禁止烟草广告 
+He was banned from the Olympics for failing a drug test. 他因为药检不合格而被禁止参加奥运会比赛。
+He was banned from the meeting. 他被取消了出席会议的资格。
+He was banned from driving for six months.（英）他被禁止驾驶六个月。
+She’s been banned from leaving Greece. 她被禁止离开希腊。
+a ban on smoking 禁烟令 
+overtime ban 禁止加班 
+driving ban 禁驾令 
+a nuclear test ban treaty 禁止核试验条约 
+The ban on exports has been eased. 出口禁令现在已经松动。
+
+competition (for sth)（为某种资源而）竞争，角逐:
+2 [C] 比赛，竞赛:
+n. [sing.] the competition 可指竞争对手，竞争者:
+n. [C] 体育比赛，竞赛:
+n. [U] 竞争性的组织所售卖的产品或服务:
+competition |[kɒmpɪ'tɪʃn]
+fair competition 公平竞争 
+friendly competition 友好的竞争 
+to fight off competition from overseas companies 击退来自外国公司的竞争 
+They won the order against fierce international competition. 他们在激烈的国际竞争中赢得了订单。
+Fierce competition exists between schools in the area. 该地区的学校之间存在着激烈的竞争。
+a competition for the best chef 最佳厨师比赛 
+a knockout competition 淘汰赛 
+sporting（英）, sports（美）competition 体育比赛 
+dancing, piano, surfing, photo competition 舞蹈比赛；钢琴比赛；冲浪比赛；摄影比赛 
+competition winner 比赛获胜者
+to beat the competition 打败竞争对手 
+This car consistently outperforms the competition. 这辆车的性能始终未被超越过。
+a surfing competition 冲浪比赛 
+knockout competition 淘汰赛 
+sporting（英）, sports（美）competition 体育比赛 
+body-building competition 健美比赛 
+We’re going to have a competition to see who can swim the fastest. 我们打算比一比，看谁游得最快。
+to be challenged by some stiff competition 遭遇一些强劲竞争产品的挑战
+
+Marine is used to describe things relating to ships and their movement at sea. 海事的
+Marine is used to describe things relating to the sea or to the animals and plants that live in the sea. 海洋的
+A marine is a member of an armed force, for example the U.S. Marine Corps or the Royal Marines, who is specially trained for military duties at sea as well as on land. 海军陆战队士兵
+marine |英 [mə'riːn]  美 [mə'rin]| adj. 船舶的；海生的；海产的；航海的，海运的/n. 海运业；舰队；水兵；（海军）士兵或军官/n. (Marine)人名；(西)马里内；(英)马林/
+...a lawyer specializing in marine law.…一名专攻海事法的律师。
+...breeding grounds for marine life.…海洋生物的繁殖地。
+A small number of Marines were wounded.几名海军陆战队士兵受了伤。
+
+
+n. [U, C] 某事物的意思或含义。不常用:
+n. [U, C] 某事物的重要性，尤指对将来发生的事所具有的重要性，此时可称为意义:
+significance |[sɪɡ'nɪfɪkəns]
+She couldn’t grasp the full significance of what he had said. 她未能充分领会他那番话的意思。
+Do these symbols have any particular significance? 这些符号有什么特别的含义吗？
+a decision of major political significance 一项具有重大政治意义的决定 
+practical, strategic, symbolic, theoretical significance 实际意义；战略意义；象征意义；理论意义 
+economic, historical, moral, social significance 经济意义；历史意义；道德意义；社会意义 
+a meal that has particular significance for a Jewish family 对犹太家庭有特殊意义的一顿饭
+
+n. 1 [U, C, usually sing.] 突然产生的一阵巨大且难以抑制的恐惧（使人难以清晰地思考），可称为惊恐或恐慌。是此义的常规用词，最为常用:
+2 [C] 人心惶恐不安的一种局面（在该局面中人们担忧焦虑、不经仔细思考就匆匆行动）:
+vt.＆vi. 惊慌失措（以致说些蠢话、做些蠢事或危险的事等）；使某人惊慌失措:
+panic |['pænɪk]
+a panic decision 慌乱中做出的决定 
+panic reaction, panic symptoms 恐慌反应；恐慌症状 
+a look of panic 惊恐的神色 
+She went into a blind panic when she couldn’t find the exit. 她找不到出口，陷入了莫名的恐慌之中。
+News of the losses caused (a) panic among investors. 亏损的消息令投资者人心惶惶。
+a last-minute panic 事到临头手忙脚乱 
+panic buying, panic selling 恐慌购买；恐慌抛售 
+panic about food contamination 对食物污染的恐慌 
+public panic 公众的恐慌 
+financial panic 金融恐慌 
+They fled in panic as the fire took hold. 火势起来时，他们惊慌逃出。
+panic button 紧急按钮
+I panicked when I saw smoke coming out of the engine. 我看见发动机冒烟时，吓得手足无措。
+The gunfire panicked the horses. 枪声惊到了马匹。       
+
+adj. 令人满意的:
+satisfactory |[ˌsætɪsˈfæktəri]
+satisfactory explanation, satisfactory answer, satisfactory solution, satisfactory conclusion 令人满意的解释；站得住脚的回答；可行的解决办法；足以服人的结论 
+I never got a satisfactory answer. 我从未得到令我满意的答复。
+It seemed a very satisfactory arrangement. 这似乎是个非常令人满意的安排。
+The arrangement has proved mutually satisfactory. 这一安排结果令双方都很满意。
+The work is satisfactory but not outstanding. 工作做得可以，但不出色。
+The existing law is not entirely/wholly satisfactory. 现行法律并不十分完善。
+It was all most satisfactory. 一切都非常令人满意。
+The results were not entirely satisfactory. 结果不尽如人意。
+We hope this proposal is satisfactory to you. 我们希望这一方案能让您满意。
+
+n. [C]（造成或影响某事的）因素:
+n. [C] 系数:
+vt. [常用被动式] ~ sth (to sth) 将（工资等）与（物价水平等）挂钩；使…指数化:
+n. [C] [数学] 因子、因数:
+n. [C] a factor of 增减（一般是增加）的倍数:
+n. [U] [医学] 凝血因子:
+factor |[ˈfæktə(r)]
+demographic, economic, environmental, genetic, political, psychological, situational, social factor 人口统计因素；经济因素；环境因素；遗传因素；政治因素；心理因素；情景因素；社会因素 
+The human factor is crucial to success in team management. 人的因素对于团队的成功管理至关重要。
+Physical activity is an important factor in maintaining fitness. 进行体育活动是保持身体健康的一个重要因素。
+This is regarded as the crucial factor in deciding who should get priority. 这被当成是决定谁有优先权的关键因素。
+Money proved to be the deciding factor. 钱被证明是决定性因素。
+contributing, contributory factor促成因素 
+Poor organization was certainly a contributory factor to the crisis. 组织不善肯定是导致危机的因素之一。
+complicating factor 使情况变得复杂的因素 
+A complicating factor is her parents' refusal to cooperate with the police. 她的父母拒不与警方合作，这使情况变复杂了。
+limiting factor 限制因素 
+The appeal judges spoke of strong mitigating factors in the case. 上诉法官谈到了本案中一些明显可从轻处置的因素。
+aggravating factor 使情况恶化的因素 
+The closure of the mine was the single most important factor in the town's decline. 矿井的关闭是这个镇子衰败的唯一最重要的因素。
+Look for the common factor in all these cases. 寻找所有这些情况的共通点。
+External factors in the production of disease include pollution of the environment. 引起疾病的外部因素包括环境污染。
+causal, causative 成因 
+Studies have established that smoking is a risk factor for cancer. 研究表明吸烟有致癌的风险。
+A variety of other factors will be taken into account. 其它各种各样的因素都将考虑进去。
+the contextual factors which operate to hinder understanding 妨碍理解的上下文因素 
+environmental factors which predispose children to middle-ear infections 易造成儿童感染中耳炎的环境因素 
+one of the factors that influenced his decision 影响他做出决定的因素之一 
+We examine how economic and social factors interact. 我们考察经济和社会因素如何相互起作用。There are several factors at play here. 这里有好几个因素在起作用。
+the main factors behind the dollar's weakness 造成美元疲软的主要因素 
+a key factor in the decision 做出这一决定的一个关键因素 
+The outcome will depend on a number of factors. 结果将取决于若干因素。
+a suntan lotion with a protection factor of 10 防护系数为10的防晒油 
+The wind-chill factor will make it seem colder. 风寒系数大，会使人觉得比实际温度更冷一些。
+Minimum pensions and wages are to be indexed to inflation. 最低养老金和最低工资要与通货膨胀挂钩。
+1, 2, 3, 4, 6 and 12 are the factors of 12. 1、2、3、4、6 和 12 是 12 的因子。
+The real wage of the average worker has increased by a factor of over ten in the last 70 years. 近70年来工人的实际工资平均增长超过了十倍。
+The cost of butter quadrupled and bread prices increased by a factor of five. 黄油价格涨了四倍，面包价格涨了五倍。
+Haemophiliacs have no factor 8 in their blood. 血友病患者的血液中缺乏凝血因子 VIII。
+
+n. [C] ~ (on sth) 对某事的某种态度，思考…的一个方法，可称为视角、观点。尤指受到自己的信仰和经历影响而产生的看待问题的视角:
+n. [C] 景观，尤指在其中可以看到远处的景观:
+n. [U] 理智地思考问题或做决策的能力:
+n. [U] 绘图中的透视法:
+perspective |[pəˈspektɪv;美pərˈs-]
+cultural, political, social, theoretical perspective 文化视角；政治视角；社会视角；理论视角 
+The book adopts a historical perspective. 这本书是从历史的视角来写的。
+a feminist perspective in philosophy 女性视角下的哲学 
+multicultural education based on a global perspective 基于全球视角的多元文化教育 
+His experience abroad provides a wider perspective on the problem. 他在国外的经历使他以更广阔的视角看待这个问题。
+This website puts a completely different perspective on world news. 这个网站从一种截然不同的视角出发解读国际新闻。
+This latest study explores stress from a unique perspective. 这项最新研究通过一个独特的视角探讨压力。
+stories told from multiple perspectives 从多个角度讲述的故事 
+personal perspective 个人视角 
+Try to see the issue from a different perspective. 试以不同的角度看待这件事。
+a report that looks at the education system from the perspective of deaf people 从聋人的角度看待教育制度的一份报告 
+The author brings a balanced perspective to these complex issues. 笔者给这些复杂的问题带来了一个平衡协调的观点。
+We should view this from the perspective of the people involved. 我们应该设身处地地看待这件事。
+a shift in perspective 视角的转换 
+The death of his father has given him a new perspective on life. 父亲的去世让他对人生有了新的认识。
+When you reach middle age, you get a different perspective on life. 人到中年，就会从不同的角度认识生活。
+a perspective of the whole valley 山谷全景
+a sense of perspective 洞察力 
+Remember to keep things in perspective. 记住要客观看待事物。
+Try to keep these issues in perspective. 要尽量恰当地处理这些问题。
+Talking to others can often help to put your own problems into perspective. 跟别人谈谈往往有助于正确看待自己的问题。
+Let's get this into perspective. 我们要客观看待这一点。
+Her death put everything else into perspective. 她的死使人们开始正视所有其他事情。
+It is important not to let things get out of perspective. 重要的是不要把事情轻重倒置。
+It's easy to lose perspective on things when you are under stress. 在压力下容易对事情做出错误判断。
+the laws of perspective 透视法则 
+horizontal, vertical perspective 水平透视法；垂直透视法 
+distorted perspective 扭曲的透视效果 
+We learnt how to draw buildings in perspective. 我们学习如何用透视法画建筑物。
+That tree is out of perspective. 那棵树画得不成比例。
+
+~ (to sth/to do sth) 促使一个进程（或活动）加速的因素，可称为动力:
+n. [U] [术语] 促使某事物移动的力量或能量，可称为动量、动力、惯性:
+impetus |[ˈɪmpɪtəs]
+Much of the impetus for change came from customers' opinions. 变革的主要动力来自顾客的意见。
+The movement is steadily gaining impetus. 这项运动得到稳步推动。
+With the death of its founder, the campaign lost much of its impetus. 这项运动因为创始人逝世而势头大减。
+The main impetus behind the move west was to find gold and other minerals. 西进运动的主要推动力是寻找黄金和其它矿物。
+the impetus towards urban development 城市发展的推动力 
+This decision will give renewed impetus to the economic regeneration of east London. 这一决定会给东伦敦的经济复苏带来新的推动力。
+the impetus for arms control agreements 推动签订军备控制协议的力量 
+The debate seems to have lost much of its initial impetus. 辩论会似乎没有开始时那么大的冲劲了。
+His disappointment in the World Championships provided the necessary impetus to give everything for this final race. 他在锦标赛中的失利反而给了他必要的刺激，使他为这次决赛全力以赴。
+She was restless and needed a new impetus for her talent. 她躁动不安,需要为自己的才华找到新的突破口。
+The slope added impetus to his speed. 这个斜坡让他的速度更快。
+
+vt.（在广播或电视中）播报节目，如播音。是“播音”的常规用词:
+vt. 1 announce (sth) (to sb) 正式地将某事（尤指一个决定、一项计划等）告知给某人，即正式宣布或宣告:
+2 大声且（或）严肃地说出某事，即声称，宣称:
+vt. 1 announce yourself/sb 当某人到达某地时，将该人的名字告知给别人:
+2（尤指通过扬声器）在公共场合发布关于某事的信息，即广播通知:
+announce |[ə'naʊns]
+The government yesterday announced to the media plans to create a million new jobs. 政府在昨天向媒体宣布了创造一百万个新工作的计划。
+The company proudly announced the launch of its new range of cars. 该公司骄傲地宣布其新系列轿车的推出。
+Mr and Mrs James are pleased to announce the engagement of their daughter, Louise. 詹姆斯先生和太太高兴地宣布他们的女儿露易丝订婚。
+She announced that she’d given up smoking. 她宣称她已戒烟。
+‘I’m hungry!’ he loudly announced.“我饿了！”他大声说道。
+Would you announce the guests as they arrive? 客人到达时请你通报他们的姓名好吗？
+Has our flight been announced yet? 广播通知了我们的航班没有？
+
+~ (for sth/to do sth) 合同、契约、合约，是一份正式的书面协议:
+2 [C] [非正式] ~ (on sb) 雇佣杀人的协议或合同:
+vt.&vi.（使）变得更少或更小，即收缩:
+vt. [医学] 染病、得病:
+vt.&vi. 订立雇佣合同或契约:
+vt. ~ a marriage/an alliance (with sb) [正式] 与某人正式订立婚约；与…正式缔结同盟:
+contract |[kənˈtrækt][ˈkɒntrækt;美ˈkɑ:n-]
+~ (between A and B) 
+to enter into/sign/make a contract with the supplier 与供应商签订合同 
+a contract for the supply of vehicles 车辆供应合约 
+to win/be awarded a contract to build a new school 获得承建一所新学校的合同 
+These clauses form part of the contract between buyer and seller. 这些条款构成买卖双方所签合同的一部分。
+a contract of employment 雇用合同 
+a contract worker (= one employed on a contract for a fixed period of time) 合同工 
+I was on a three-year contract that expired last week. 我签订的三年期合同已于上周期满。
+Under the terms of the contract the job should have been finished yesterday. 根据合同的条款，这项工作本应于昨天完成。
+She is under contract to (= has a contract to work for) a major American computer firm. 她已签约为一家大的美国计算机公司工作。
+The offer has been accepted, subject to contract (= the agreement is not official until the contract is signed). 此报价已获接受，尚需以签约为准。
+They were sued for breach of contract (= not keeping to a contract). 他们被指控违约。
+The company won a prestigious contract for work on Europe's tallest building. 这家公司赢得了一份极为重要的合同，参与建设欧洲最高的大厦。
+He was given a seven-year contract with an annual salary of $150,000. 他签下了一份为期7年的合同，年薪为15万美元。
+The convictions resulted in the local crime bosses putting a contract on him. 这些判罪导致当地犯罪团伙的老大们要雇凶杀他。
+The police advised her to get out of town because there was a contract on her life. 警方建议她离开这个城市，因为有人雇杀手杀她。
+Glass contracts as it cools. 玻璃遇冷收缩。
+The heart muscles contract to expel the blood. 心脏肌肉收缩以挤压出血液。
+The exercise consists of stretching and contracting the leg muscles. 此项训练包括伸展和收缩腿部肌肉。
+New research shows that an excess of meat and salt can contract muscles. 新的研究表明，过量食用肉类和盐可能会导致肌肉收缩。
+a contracting market 萎缩的市场 
+The manufacturing economy contracted in October for the sixth consecutive month. 10月，制造业经济已经连续第6个月出现萎缩状况。
+‘I will ’ and ‘I shall ’ are usually contracted to ‘I'll ’ (= made shorter). I will和I shall通常缩约为I 'll。           
+to contract a virus, to contract a disease 感染病毒；感染疾病 
+He contracted AIDS from a blood transfusion. 他因为输血而感染了艾滋病。
+Ovarian cancer is the sixth most common cancer contracted by women. 卵巢癌是女性常患的第六大癌症。
+The player is contracted to play until August. 这位选手签约参加比赛到八月份。
+Several computer engineers have been contracted to the finance department. 有几位计算机工程师与财务部门签订了合同。
+She has contracted to work 20 hours a week. 她已签订合同，每周工作20小时。
+You can contract with us to deliver your cargo. 你可以跟我们签订送货合同。
+The Boston Museum of Fine Arts has already contracted to lease part of its collection to a museum in Japan. 波士顿美术博物馆已经签订合同，将其部分藏品租借给日本一家博物馆。
+She contracted a formal marriage to a British ex-serviceman. 她和一个英国退役军人正式订婚了。
+
+n. [U, C] 用于使人娱乐的电影、音乐等，即娱乐活动；还可指某项娱乐活动:
+n. [U]（对某人的）招待；款待；娱乐:
+entertainment |[entə'teɪnmənt]
+live entertainment 现场直播的娱乐节目 
+the half-time entertainment at football games 足球比赛的中场表演 
+family, home entertainment 家庭娱乐活动 
+Movies were the new mass entertainment. 电影是新的群众性娱乐方式。
+interactive entertainment 互动娱乐活动 
+musical, sports entertainment 音乐娱乐节目；体育娱乐节目 
+entertainment company, entertainment industry, entertainment world 娱乐公司；娱乐业；娱乐圈 
+entertainment programme/program 娱乐节目 
+entertainment news 娱乐新闻
+a budget for the entertainment of clients 用于招待客户的专项开支
+
+n. 1 [C] 以侦查犯罪和逮捕罪犯为职业的人，即侦探，尤指警探:
+2 [C] 受雇于人的私人侦探:
+detective |[dɪ'tektɪv]
+detectives from the anti-terrorist squad 反恐小队的侦探 
+undercover detective 卧底侦探 
+store detective 商店的保安 
+police detective 警探 
+amateur detective 业余侦探 
+fictional detective 小说中虚构的侦探 
+homicide detective（美）凶杀案侦探 
+detectives investigating the case 调查此案的侦探 
+detective agency 侦探社 
+to do some detective work on this 就此事进行调查 
+detective novel 侦探小说 
+detective hero 侦探英雄 
+She hired a private detective to follow her husband. 她雇了个私家侦探跟踪丈夫。
+
+adj. 放射性的；有辐射的:
+radioactive |[reɪdɪəʊ'æktɪv]
+radioactive waste 放射性废物
+
+vt.（书籍或电影）涉及…生活；或有关…的发展:
+vt.＆vi. 跟踪。是此义的基本通用词，可以是公开跟着，也可以是秘密跟着:
+vt. 非常仔细地听，即倾听:
+vt. 1（视线）随…而动:
+2 非常仔细地看，即密切注视:
+vt. 沿着道路、小路等行进:
+vt.＆vi. 1 follow (from sth) 是…的逻辑结果:
+Several conclusions follow on from his statement. 从他的叙述中可以得出一些结论。2（按时间或顺序）因…而发生:
+vt. 接受建议、指示等并依其行事:
+vt.＆vi. 在…后面跟着，即跟随。是一个常规用词，最常用:
+vt.＆vi.（按时间或顺序）在…后发生或因…而发生:
+vt. follow sth (up) with sth 在…之后做某事:
+vt.＆vi. 在饮食中可指接下来的食物是…（如下一道菜是…）:
+vt.＆vi. 理解（某种解释或…的意思）。不过常用于否定句，偶尔才用于肯定句:
+vt. 按某种方式（或方向）发展；以某种方式发生:
+vt. 接受…为指导、领导或榜样，或效仿…，即追随、效仿等（如信奉宗教或政治主张等）:
+vt.（道路、小路等）沿着某事物的方向延伸，或与…平行:
+vt. 对…产生浓厚的兴趣并关注之（常是随时关注）:
+follow |['fɒləʊ]
+The novel follows the fortunes of a village community in Scotland. 小说叙述了苏格兰一个村落的变迁。
+As she walked home, she had the feeling she was being followed. 走在回家的路上，她总觉得有人在跟踪她。
+following every word of the story 一字不漏地专心听故事 
+Ann’s eyes followed a police car as it drove slowly past. 安的眼睛注视着一辆缓缓开过的警车。
+Her eyes followed him everywhere. 她一直在注视着他。
+Follow this road until you get to the school. 沿着这条路走到学校。
+follow the map 按照地图走
+If a = b and b = c it follows that a = c. 设a = b，b = c，则a = c。
+If the explanation is right, two things follow. 如果该解释正确，那么就会产生两种情形。
+Any argument was always followed by a few days of silence. 争吵过后总会有几天互不搭理。
+Other problems may follow. 其它问题也许会随之而来。
+to follow a diet 按照规定饮食 
+Follow my instructions very carefully. 要认真听从我的指令。
+Why didn’t you follow my advice? 你为什么不听我的劝告？
+Follow me please. 请跟我走。
+He followed Jane to New York, where she was preparing an exhibition. 他跟随简去了纽约，她正在那儿准备一个展览。
+Johnson finished first, closely followed by Stevens and Higgins. 约翰逊第一个冲过终点，史蒂文斯和希金斯紧随其后。
+The dog followed obediently at her heels. 那只狗听话地跟在她身后。
+You go ahead and we’ll follow on later. 你先走，我们随后就来。
+Any argument was always followed by a few days of silence. 争吵过后总会有几天互不搭理。
+A period of unrest followed the president’s resignation. 总统辞职之后有一段时期的动荡。
+Other problems may follow. 其它问题也许会随之而来。
+What follows is an eye-witness account. 接下来是目击者的陈述。
+Follow your treatment with plenty of rest. 你治疗以后要多休息。
+The main course was followed by fresh fruit. 主菜以后是新鲜水果。
+I’m sorry, but I don’t quite follow you. 很抱歉，我不太明白你的意思。
+The plot is almost impossible to follow. 故事情节几乎叫人看不懂。
+His argument was difficult to follow. 他的论点很难理解。
+The day followed the usual pattern. 这一天和平常过得一样。
+His release turned out to follow the pattern set by that of the other six hostages. 他的获释方式结果和其他六名人质相同。
+They followed the teachings of Buddha. 他们信佛教。
+He always followed the latest fashions. 他总是紧跟服装潮流。
+I don’t want you to follow my example and rush into marriage. 我不希望你走我的老路，匆忙结婚。
+He followed his father and became a surgeon. 他子承父志，成了一名外科医生。
+The movie follows the book faithfully. 这部电影忠于原著。
+to follow star 崇拜明星 
+Other companies are likely to follow Z-Quest in applying for an exemption. 其他公司很有可能仿效Z-Quest公司申请豁免。
+The lane follows the edge of a wood for about a mile. 小路沿树林边延伸约一英里。
+Our route follows the Pacific coast through those neighbourhoods. 我们一路沿着太平洋海岸，穿过那些街区。
+to follow the football match 关注这场足球赛
+
+n. [C] [计算机] （储存在计算机中的）数据库、资料库:
+n. [C]（储存在计算机中并可以调用的）数据库:
+database |['deɪtəbeɪs][ˈdeɪtəbeɪs;NorthAmericanEnglishalsoˈdætə-]
+public database 公共数据库 
+computer, computerized, electronic database 计算机数据库；计算机化数据库；电子数据库 
+online database 在线数据库 
+We're trying to create our own computerized database. 我们正努力建立我们自己的计算机化数据库。
+The database is updated monthly. 数据库每月更新。
+The new database contains 200 000 images. 新数据库包含20万张图片。
+database application, database engine, database server, database software, database system 数据库应用；数据库引擎；数据库服务器；数据库软件；数据库系统 
+database technology 数据库技术 
+database design, database development 数据库设计；数据库开发 
+database management 数据库管理 
+database access, database search 数据库访问；数据库搜索 
+database administrator 数据库管理员 
+database entry 数据库条目 
+We have over 8 000 customer names in our database. 我们的数据库里有8，000 多名客户的姓名。
+The information is stored on a large database. 信息存储在一个大型数据库里。
+a very large database of information 一个很大的信息数据库 
+They maintain a database of hotels that cater for businesswomen. 他们维护着一个服务于商界女性的酒店资料库。
+computer, electronic database 计算机数据库；电子数据库 
+online database 在线数据库 
+database technology 数据库技术 
+database entry 数据库条目
+
+adj.（人对某项活动的态度）坚决的:
+adj.（人）做事充满精力和热情的；（活动）需要投入很多精力和热情的:
+adj. 强壮且健康的:
+adj.（身体活动）剧烈的、强度大的（通常做短时的重复性动作）:
+vigorous |[ˈvɪgərəs]
+a vigorous opponent of the government 坚决反对政府的人 
+The group is not vigorous enough in its opposition to the proposals. 该团体对那些提案持异议，但态度不够强硬。
+Sir Robert was a strong and vigorous politician. 罗伯特爵士是位坚定而又活跃的政治家。
+a vigorous campaign against tax fraud 坚决打击骗税的运动 
+Sir Robert was a strong and vigorous politician. 罗伯特爵士是位坚定而又活跃的政治家。
+the most vigorous critics of the government 言辞最为激烈的政府批评家们 
+They are leading a very vigorous campaign to get the chairman removed. 他们正在领导一次激烈运动，要把主席赶下台。
+a vigorous young man 身强力壮的年轻人 
+This plant is a vigorous grower. 这种植物生长起来茂盛茁壮。
+Very vigorous exercise can increase the risk of heart attacks. 运动太过剧烈会增大心脏病发作的风险。
+African dance is vigorous, but full of subtlety. 非洲舞蹈强劲奔放，但又处处透着细腻。
+Take vigorous exercise for several hours a week. 每周做几个小时剧烈运动。
+He isn't used to such vigorous exercise. 他不习惯这样的剧烈运动。

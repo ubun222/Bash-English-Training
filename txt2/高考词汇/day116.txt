@@ -1,0 +1,729 @@
+fur							毛皮，水垢
+trainer						教练员，运动鞋
+encourage						鼓励，怂恿，促使
+road							道路，街道，途径
+punishment						惩罚
+place							地点，场所，座位，地位，名次，放置
+parking						停车，停车场
+machine						机器，机构
+tell							讲，告诉，表明
+tell off						责备
+tell on						告发
+think							思索，认为，打算，想象
+nearby						在附近，附近的
+human							人的，人
+range							种类，系列，范围，排列，延伸
+complex						复杂的，建筑群，情节
+fever							发烧，亢奋，痴迷
+royal							王室的
+brave							勇敢的，美好的
+irrigate						灌溉，冲洗
+desert						抛弃，背离，沙漠
+urban							城市的
+splendid						壮丽的，极好的
+Asian							亚洲的
+conversation					谈话，交谈
+rescue						解救
+lamp							灯
+lecture						讲座，训斥
+teacher						教师
+beg							乞讨，恳求
+trust							相信，托付，希望
+trust oneself to do				敢于做某事物
+\\\\\\\\
+
+n. 1 [U] 动物带毛的皮肤，即毛皮，可用于制作服装:
+2 [U] 人造毛皮:
+3 [C] 由毛皮（真实毛皮或人造毛皮）所制成的衣服、围脖等服装:
+n. [U] [英] 水管或烧水壶等事物中的水垢:
+n. [U] 哺乳动物身上的毛:
+n. [U] 舌苔，尤指生病时候的舌苔:
+fur |[fə:]
+animal fur 动物毛皮 
+fox fur 狐狸毛皮 
+fur industry, fur trade 毛皮业；毛皮贸易 
+fur jacket, fur collar 毛皮夹克；毛皮领子 
+fake, synthetic fur 假毛皮；合成毛皮 
+a woman in fur 穿着毛皮外套的女人 
+She was wearing her fur. 她穿着毛皮衣服。
+cat’s fur 猫毛
+
+n. [C, usually pl.]（也可用training shoe）[均英]（美式英语用sneaker）运动鞋；便鞋:
+n. [C] 教人或动物某项运动技能的一个人，如驯兽师；教练员:
+n. [C] 教人或动物某项技能的一个人，如教员；驯兽师；教练员:
+trainer |[ˈtreɪnə(r)]
+a pair of trainers 一双运动鞋
+athletic（美）, boxing, football trainer 体育教练员；拳击教练员；足球教练员 
+fitness trainer 健身教练 
+animal, dog, horse, racehorse trainer 驯兽师；驯狗员；驯马师；赛马训练师 
+champion, winning trainer 冠军的教练；获胜方的教练 
+Her trainer had decided she shouldn't run in the race. 她的教练决定她不应参加赛跑。
+teacher trainer 教师培训师 
+animal, dog, horse trainer 驯兽师；驯狗员；驯马师 
+corporate trainer 企业培训师 
+certified trainer 经过认证的培训师 
+professional trainer 专业培训师；职业教练
+
+vt. encourage sb (in sth) 给予某人支持、勇气或希望，即激励，鼓励，支持。是此义的常规用词:
+vt.＆vi. encourage sth (in sb/sth) 使某事发生或发展的可能性变得更大，即促进，助长，刺激:
+vt.＆vi. 劝说某人去做某事（其主要劝说手段为:
+使此人做此事变得容易，或使其相信这是一件好事）:
+encourage |[ɪn'kʌrɪdӡ]
+My parents have always encouraged me in my choice of career. 在我选择职业时父母总是鼓励我。
+She especially encouraged young scientists. 她特别鼓励年轻的科学家们。
+to encourage investment in these areas 鼓励在这些地区投资
+Some computer games encourage violent behaviour in young children. 有些电脑游戏助长儿童的暴力行为。
+Music and lighting are used to encourage shoppers to buy more. 用音乐和灯光刺激购物者买更多的东西。
+to encourage discrimination 助长歧视
+Banks actively encourage people to borrow money. 银行积极鼓动人们贷款。
+
+n. [C]（实现或达成某事时所采用的）方法、途径、过程:
+n. [C]（实现或达成某事时所采用的）方法、途径、过程:
+n. 1 [C]（人类所修建的有硬质路面的）公路:
+2 [C] 用于道路名称，尤用于城镇道路的名称:
+road |[rəʊd]
+We have no choice, even though you don’t like to go down this road. 虽然你不想采用这种办法，但我们别无选择。
+to be on the road to success（比喻用法）在通往成功的路上 
+the road of peace 和平之路
+We have no choice, even though you don’t like to go down this road. 虽然你不想采用这种办法，但我们别无选择。
+to be on the road to success（比喻用法）在通往成功的路上 
+the road of peace 和平之路
+main, major, national road 公路干线；大路；国道 
+back, small road 偏僻的路；小路 
+asphalt, blacktop（美）, gravel road 沥青路；柏油路；石子路 
+bad, poor, rough road 不好走的路；不平的道路 
+bumpy road 颠簸的路 
+the old dirt road to the village 通往村庄的老土路 
+difficult road（常用作比喻义）难走的路 
+private, public road 私家道路；公路 
+dead-end road（常用作比喻义）死胡同 
+east-west road 东西向的路 
+country, desert, forest, mountain road 乡间公路；沙漠公路；林道；山路 
+road sign 路标 
+road bridge, road tunnel 公路桥；公路隧道 
+road closure 道路封闭 
+road block（roadblock）路障 
+road network 公路网络 
+road building, road construction 公路建设 
+road accident 道路事故 
+road conditions 路况 
+road test 路考 
+road rage 公路暴怒（指司机之间因驾驶问题而大动肝火）
+68 xx Road xx路68号
+
+n. [U] 粗暴对待，虐待，糟蹋，被对待的对象可以是人，也可以是事物:
+n. [U, C] punishment (for sth) 对某人所进行的惩罚，处罚，可以是惩罚的过程，也可以是惩罚的结果。是此义的常规用词，极为常用:
+punishment |['pʌnɪʃmənt]
+The table took the most punishment given by the children. 这张桌子被孩子们糟蹋得最严重。
+The carpet by the door takes the most punishment. 门边的地毯磨损得最厉害。
+capital punishment 死刑 
+physical punishment 体罚 
+harsh punishment 严惩 
+to take punishment 接受惩罚 
+crime and punishment 罪与罚 
+a system of reward and punishment 一套奖惩制度
+
+n. [C] 作为某一运动队的队员（或委员会的成员、机构的成员等）的身份或资格，即队员身份；队员资格:
+n. [sing.]（在一种情况或活动中去做某事的）一个好时机或阶段:
+n. [C, usually sing.]（速度比赛或其他竞赛中）获胜者的名次:
+vt. 经过与其他…相比较而把…排名次:
+vt.＆vi.（人、运动队或马匹）在速度比赛中获得某一名次，即排名:
+vt. 通常用于否定句，指能够认出，辨认出，识别出:
+vt. 1 把…放在某个位置（尤指小心地、稳妥地或从容地放置）:
+2 使某人（如自己）处于某种情况中，此时比put更正式:
+3 place sth (on sth/doing sth) 用于表达某人对…所持有的态度（宾语常为emphasis或blame）:
+place sb (with sb/sth) 为某人找到合适的家庭或工作等:
+vt.（就某事）下指示；或请求某事发生（尤用于打赌、下订单或打广告）:
+vt. 经过与其他…相比较而把…归类，划归:
+n. [sing.] [非正式] 住宅；公寓:
+n. [sing.] [非正式] 某人的家:
+n. [sing.] Place（缩写为Pl.）可用于作为（一个广场的）名称的一部分:
+n. [C]（十进制小数点后的）位:
+n. [C]（一篇讲话的）某个点，或称某处，尤指某人在某时所说到的位置:
+n. [C] 位置；座位等（尤指可为人或车辆所占用，或正被占用的位置）:
+n. 1 [C] 某一位置；地点；地方；场所；区域:
+2 [C] 某一城镇或建筑物等:
+3 [C] 尤用于构成复合词或词组，指（有某种用途的）一座建筑物或一片土地:
+4 [C] 某事物表面上的某个区域（尤指身体上的某处）:
+5 [C]（一本书、一篇讲话或一首乐曲等的）某个点，或称某处，尤指某人在某时所读到的位置:
+6 [sing.] 用于any、no、some或every之后，意思与anywhere、nowhere、somewhere或everywhere相同:
+7 [C] …的自然的（或恰当的、常处的、应在的）位置:
+8 [C] 通常与否定词连用，指（对某人来说）合适的或安全的处所:
+9 [sing.] Place（缩写为Pl.）可用于作为（一条短街道或广场的）名称的一部分:
+adv. [美] 去各地（指去各种令人愉悦或有趣的地方）:
+n. [C] 身体上的某处。与part未见明显区别:
+n. [C, usually sing.]（速度比赛或其他竞赛中）获胜者的名次:
+n. [C] 作为某一运动队的队员的身份或资格，即队员身份；队员资格:
+n. [C]（一首乐曲的）某个点，或称某处（如听到或演奏到的某处）:
+n. [C] 加入（或参加）…的机会，尤指进入学校（如大学）的求学机会，或参加某门课程的学习的机会。是一个简单用词:
+n. [sing.] Place（缩写为Pl.）可用于作为（一条短街道的）名称的一部分:
+n. [sing.] place (in sth) 某人（或某事物）在一个社会、体系或某种情况中（通常是与他人或其他事物的关系中）所扮演的角色、所起的作用或所具有的重要性，即身份；地位；资格等:
+place |[pleɪs]
+She has won a place in the Olympic team. 她已获得奥运代表队的队员资格。
+It seemed an appropriate place to end somehow. 似乎到了该结束的时候了。
+Second place went to the Moroccan athlete. 摩洛哥运动员获得了第二名。
+He has risen to second place in the opinion polls. 他在民意调查中排名已升至第二位。
+I would place her among the top five tennis players in the world. 我会把她排在世界五大顶尖网球选手之列。
+Nursing attracts people who place relationships high on their list of priorities. 对重视人际关系的人，护理工作很有吸引力。
+He was placed fifth in last Saturday’s race. 在上周六的径赛中，他名列第五。
+I’ve seen her before but I just can’t place her. 我从前见过她，不过现在认不出她来。
+His accent was impossible to place. 他的口音无法辨认。
+He placed his hand on her shoulder. 他把手搭在她的肩上。
+The books were placed on the shelf. 那些书放在书架上。
+She placed a silver whistle firmly between her lips. 她把一个银哨子稳稳地衔在嘴里。
+The table was placed centrally. 桌子放在正中央。
+A bomb had been placed under the seat. 座位下面放了一枚炸弹。
+The parking areas in the town are few, but strategically placed. 城内停车场虽少，但都设在关键地方。
+to place sb in command 让某人指挥 
+She was placed in the care of an uncle. 她由一位叔父照顾。
+His resignation placed us in a difficult position. 他的辞职使我们不知所措。
+The job places great demands on me. 这项工作对我的要求很高。
+to place sb under pressure 使某人处于压力之下 
+The crisis could well place the relationship at risk. 这场危机很可能使这个关系岌岌可危。
+highly placed officials in the government 身居高位的政府官员 
+Great emphasis is placed on education. 教育受到高度重视。
+to be place the blame on her colleagues 把责任推到她同事身上
+vt. place sb (in sth) 
+The children were placed with foster parents. 这些小孩已安顿好，交给寄养父母了。
+They managed to place six women in paid positions. 他们设法为六名妇女安排了有报酬的工作。
+to place an order 下订单 
+to place a bet 下赌注 
+to place an advertisement in the local paper 在当地报纸上登广告
+The authorities have placed the drug in Class A, the same category as heroin and cocaine. 当局已把这种毒品定为A级，与海洛因和可卡因属同一类。
+I’m fed up with living with my parents, so I’m looking for a place of my own. 我腻烦跟父母同住了，所以正在找一个属于自己的住处。
+What about dinner at my place? 到我家吃晚饭好不好？
+The number is correct to three decimal places. 这个数目精确到小数点后三位数。
+Excuse me, I seem to have lost my place. 对不起，我好像忘了说到哪儿了。
+Come and sit here--I’ve saved you a place. 到这儿来坐吧。我给你留了个座位。
+The boy returned to his place. 男孩回到了自己的座位上。
+She showed them to their places. 她领他们入座。
+Is this the place where it happened? 这就是事发现场吗？
+This would be a good place for a picnic. 这可是个野餐的好地方。
+I can’t be in two places at once. 我不能同时身处两地。
+I can’t remember all the places we visited in Thailand. 我记不清在泰国参观过的所有地方。
+The police searched the place. 警察搜查了那个地方。
+We were looking for a place to eat. 我们想找个吃饭的地方。
+meeting place 聚会地点 
+hiding, resting place 藏身处；休息处 
+eating places 餐馆 
+place of work 工作单位 
+He broke his arm in three places. 他胳膊上有三处骨折。
+The paint was peeling off the wall in places. 墙上有几处油漆剥落了。
+She had marked her place with a bookmark. 她把书签夹在读到的地方。
+The poor guy obviously didn’t have any place to go for Easter. 这个可怜的家伙显然复活节没有任何地方可去。
+Is there a place on the form to put your address? 表格上有填写地址的空白吗？
+Put it back in its place when you’ve finished with it. 用完放回原处。
+These streets are no place for a child to be out alone at night. 这些街道可不是小孩子夜间单独去的地方。
+This is not the place for an argument. 这里不是争论的地方。
+66 Portland Place 波特兰街66号
+I don’t have money to go places. 我没有钱到处玩。
+He broke his arm in three places. 他胳膊上有三处骨折。
+The pain is always in the same place. 疼痛总是在同一个地方。
+Second place went to the British athlete. 英国运动员获得了第二名。
+She has won a place in the Olympic team. 她已获得奥运代表队的队员资格。
+his place on the team（尤美）他在该队的位置 
+his place in the team（尤英）他在该队的位置
+college, nursery, school, university place 学院学籍；幼儿园入园名额；学校入学名额；大学入学名额 
+She’s been offered a place at Bath to study Business. 她已被录取到巴斯大学读商科。
+There are very few places left on the course. 这门课程没剩几个学生名额了。
+66 Portland Place 波特兰街66号
+They want to see more women take their place higher up the corporate or professional ladder. 他们希望看到更多女性担任公司或职业阶梯上更高的职位。
+It’s not your place to give advice. 还轮不到你来做指导。
+He holds a special place in her affections. 他在她的感情中占有特殊的位置。
+I’m sorry--I was forgetting my place. 对我起，我忘了自己的身份。
+At first she tried to take charge of the meeting but I soon put her in her place. 起先她试图控制会议，但是我很快就让她规规矩矩的了。
+a statesman who is assured a place in history 在历史上占有一席的政治家 
+Accurate reporting takes second place to lurid detail. 准确的报道在其次，耸人听闻的细节最重要。
+Anecdotes have no place in an academic essay. 学术文章容不得奇闻逸事。
+Housing occupied a prominent place in the discussions. 住房问题在讨论中占据了突出的地位。
+Dance has a central place in their culture. 在他们的文化中，舞蹈处于中心地位。
+
+n. 1 [U] 停车，泊车:
+2 [U] 用于停车的一个空间或区域，即停车场，停车位:
+parking |['pɑːkɪŋ]
+Parking is not allowed here. 此处禁止停车。
+illegal parking 违规停车 
+car parking（尤英）泊车 
+parking area 停车区 
+parking space 停车位 
+parking fee（尤美）停车费 
+parking ticket 违章停车罚款通知单 
+The parking is limited. 停车位有限。
+The hotel has ample parking. 这家酒店有充足的停车位。
+free parking 免费停车场 
+street parking 街边泊车处 
+underground parking 地下停车场
+
+n. [C] 控制着一个组织（或控制该组织的一部分）的一群人；也可指一个大型的管控良好的组织或体系:
+vt.＆vi. [术语] 用机器来制造…或将…加工成型:
+n. [C] [常贬] 做事机械呆板的人（这种人感情不外露或感情影响不到他们的工作）:
+n. 1 [C] 常构成复合词，机器。本义是由各个零件所组成的一个有机整体，该整体利用机械原理和动力来执行某项工作或任务。是此义的常规用词，极为常用:
+2 [C] [非正式] 某种机器，是对该机器不提全称时的简略说法:
+machine |[mə'ʃi:n]
+party, political machine 政党机构；政治机器 
+marketing, propaganda, publicity machine 营销系统；宣传机器 
+military, war machine 军事组织；战争机器 
+state machine（尤英）国家机器 
+machine politician 党棍 
+a cog in the machine（比喻用法）（大机构或大项目中）无足轻重的成员 
+The department ran like a well-oiled machine after the reorganisation. 该部门重组之后像上足了油的机器一样高效运转。
+to machine the raw material 加工原材料
+automatic, electronic machine 自动化机械；电子仪器 
+sophisticated machine 精密仪器 
+sewing, video, washing machine 缝纫机；录像机；洗衣机 
+fax machine 传真机 
+ATM, cash machine 自动柜员机；自动取款机 
+exercise machine 健身器械 
+coffee machine 咖啡机 
+vending machine（投币式）自动售货机 
+X-ray machine X光机 
+machine operator 机器操作员 
+machine parts 机器零部件 
+The new machines of the computer company will be shipped next month. 该电脑公司将于下个月发布新机器。
+
+vt.（文章、标记等）提供关于…的信息，即说明，显示:
+vt. 命令或建议（某人去做某事），即命令，指示，吩咐，叮嘱等。尤用于日常生活中，军事场合极少使用:
+vt. tell A from B 将一个事物（或人）与另一者区分开，即区分，辨别，辨认，分辨，识别等。是一个简单用词:
+vi. tell (on sb) 对…产生影响或效果（尤指负面影响或效果）。不太常用:
+vt.（仪器）提供关于…的信息，即显示。是一个拟人用词:
+vt. 用言语来表达，即讲述，说，表达:
+tell sth to sb（人）通过口头或书面的形式向某人提供信息，即告诉，告知。是此义的基本且常规用词，最为常用:
+vt. 用言语来表达，即讲述，说，表达:
+vi. 让某人知道一个秘密，即泄露（秘密），告发。是一个简单用词:
+vt.＆vi. 确切地判断。是一个简单用词:
+vt.＆vi. 确切地知道（或看出）:
+tell |[tel]
+The advertisement told us very little about the product. 这则广告提供的产品信息很少。
+The sound of his breathing told her (that) he was asleep. 她从他呼吸的声音中听出来他睡着了。
+He was told to sit down and wait. 有人吩咐他坐下等着。
+Do what I tell you. 你要照我的吩咐做。
+The doctor told me (that) I should eat less fat. 医生嘱咐我要少吃油腻食物。
+‘Calm down,’ he told her firmly.“镇静。”他对她厉声命令道。
+I kept telling myself to keep calm. 我不断叮嘱自己要保持冷静。
+There was a sign telling motorists to slow down. 有一个让汽车司机减速的指示牌。
+to tell the difference between the two versions 分辨出这两个版本的区别 
+Can you tell Tom from his twin brother? 你能分得出汤姆和他的孪生弟弟吗？
+The strain was beginning to tell on the rescue team. 过度的疲劳开始让救援队吃不消了。
+This gauge tells you how much fuel you have left. 这个油表显示还剩多少燃料。
+to tell stories, to tell jokes, to tell lies 讲故事；说笑话；撒谎 
+to tell the truth 说实话 
+I can’t tell you how happy I am. 我无法向你表达我多么高兴。
+vt. tell sb (sth) 
+He told the story to all his friends. 他把这件事告诉了所有的朋友。
+Tell me where you live. 告诉我你住哪儿？
+to tell stories, to tell jokes, to tell lies 讲故事；说笑话；撒谎 
+to tell the truth 说实话 
+I can’t tell you how happy I am. 我无法向你表达我多么高兴。
+Promise you won’t tell. 你要保证不往外讲。
+‘Who are you going out with tonight?’ ‘That would be telling!’ (= it’s a secret) “你今晚要和谁约会？”“那可不能讲！”（是个秘密）
+As far as I can tell, she’s enjoying the course. 据我判断，她喜欢这门课程。
+The only way to tell if you like something is by trying it. 要知道是否喜欢一件事情，唯一的办法是试一试。
+I think he’s happy. It’s hard to tell. 我想他是幸福的。这很难说。
+I could tell (that) he was angry from his expression. 从他的表情我看得出他生气了。
+‘That’s not an original.’ ‘How can you tell?’ “那不是原来的东西。”“你怎么知道的？”
+
+vt.＆vi. 1 think (about sth) 对…有某种意见或观点，即认为:
+2 认为（某人或某物具有某种功能）:
+vt.＆vi. 当作:
+vi. 为…着想:
+vt.＆vi. 打算，计划:
+vt.＆vi. 1 think (about sth) 用大脑进行思考（形成关联性的想法以解决问题等），或称思索。是此义的常规用词，含义最为基础、广泛:
+2 通常用于进行时，（在头脑中）想或琢磨（主意、字词、图像等）:
+3 用于对自己当初所做过或经历过的事情做出评论（该事情现在看来让人感到惊讶、愚蠢或荒唐）:
+4 用于使说话语气不太肯定，或较为委婉:
+5 [非正式] 无被动式，指以某种方式来想，或想某一主题:
+vi. 1 考虑（采取某行动）:
+2 用于引出一个例子（或为自己正在谈论的东西做出更精确的解释）:
+vt. 1（在某一时刻）心想:
+2 用于疑问句，表示生气或吃惊:
+n. [sing.] [英] 思考:
+vt.＆vi. 想到:
+vi. 想出（一个主意）:
+vt.＆vi. 对…评价（高）。常与much、highly等词连用:
+vt.＆vi. 记得；想起。本身是一个概括用词，不太常用:
+vt.＆vi. 无被动式，想象…:
+vt.＆vi. 无被动式，指形成对…的想法，可叫做猜想:
+vt.＆vi. 预料，料想。是一个简单用词:
+think |[θɪŋk][θɪŋk]
+Do you think (that) they’ll come? 你认为他们会来吗？
+I didn’t think you liked sports. 我原以为你不喜好运动。
+He ought to resign, I think. 我看他应该辞职。
+It was once thought that the sun travelled around the earth. 人们曾经认为太阳绕着地球转。
+What did you think about the idea? 你认为这个想法怎么样？
+I wouldn’t have thought him capable of it. 我不会想到他能干这事。
+We all thought of him as a father. 我们都当他是一位父亲。
+He thinks of it as his home. 他把这儿当作自己的家。
+I’m only thinking of you. 我只是在为你着想。
+I think I’ll go for a swim. 我想去游泳。
+I’m thinking in terms of about 70 guests at the wedding. 我打算邀请70位嘉宾参加婚礼。
+Are animals able to think? 动物会思考吗？
+Let me think. 让我想一想。
+All he ever thinks about is money. 他满脑子想的只是钱。
+I have often thought about this problem. 我经常思考这个问题。
+I often think of Jane. 我经常想起简。
+You’re very quiet. What are you thinking? 你一声不吭，在想什么？
+To think I left you alone in a strange place. 想想我居然把你留在一个陌生的地方。
+When I think of how you’ve behaved and the trouble you’ve caused! 想想你的行为，还有你惹的麻烦！
+I thought we could go out tonight. 我本想我们今晚可以出去。
+Do you think you could open the window? 请打开窗子好吗？
+‘You’ve made a mistake.’ ‘I don’t think so.’ “你出错了。”“我想不会吧。”
+I thought he was seventeen years old. 我觉得他有十七岁。
+The storm is thought to be responsible for as many as four deaths. 这场暴风雨据信造成多达四人死亡。
+Let’s think positive. 咱们往好的方面想吧。
+You need to think big. 你要敢想。
+to think like the machine 像机器那样思考 
+If you want to make money, you’ve got to think money. 你要想赚钱，就得一门心思琢磨钱。
+Martin was thinking of taking legal action against Zuckerman. 马丁正考虑起诉朱克曼。
+The parts of the enterprise which are scientifically the most exciting are unlikely to be militarily useful. I am thinking here of the development of new kinds of lasers. 这份计划中，从科学角度看最让人兴奋的部分在军事上却可能无用。我指的是新型激光研发。
+She must be sick, Tatiana thought. 她一定是病了，塔蒂亚娜心想。
+What were you thinking of? You shouldn’t steal. 你当时在想什么？你不该偷东西。
+I’ve had a long, hard think about it. 我已经苦苦思考那个问题好长时间了。
+I didn’t think to tell her. 我没有想到要告诉她。
+Nobody could think of anything to say. 谁也想不出什么话说。
+I was trying to think what else we had to do. 我在努力想我们还得做些什么。
+He thought of another way of making electricity. 他想出另一种发电的方法。
+To tell the truth, I don’t think much of psychiatrists. 说实话，我认为精神病医生不怎么样。
+Everyone in my family thought very highly of him. 我们家的所有人都非常钦佩他。
+I can’t think where I put the keys. 我想不起把钥匙放哪儿了。
+Just think--we’ll be lying on the beach this time tomorrow. 想想看，明天这个时候我们就躺在海滩上了。
+Try to think yourself into the role. 尽量发挥想象力，使自己进入角色。
+We couldn’t think where you’d gone. 我们猜想不出来你到哪里去了。
+I never thought (that) I’d see her again. 我从未料想到还会见到她。
+The job took longer than we thought. 这项工作用的时间比我们预想的多。
+
+adj. 常用于名词前，（在位置上）附近的，临近的，不远的:
+adv. 在附近，不远:
+nearby |['nɪəbaɪ]
+a nearby town 附近的一个小镇 
+nearby residents 附近的居民 
+at a nearby table 在附近的一张桌子旁 
+They live nearby. 他们住在附近。
+The car is parked nearby. 车就停在附近。
+The helicopter crashed to earth nearby. 直升机坠毁在附近的地面上。
+
+adj. 与大多数的普通人有相同的情感或感情的，如有人情味的:
+adj. 1 只用于名词前，人的（而非动物、机器或神的）:
+2 显示人类特有的弱点的（意味着其他人不应对某人苛责过多的）:
+n. [C] 也可用human being，一个人（而非一只动物或一部机器）:
+human |['hju:mən]
+He’s really very human. 他确实很有人情味。
+politicians who have the human touch 平易近人的政治人物
+human body, human brain 人体；人脑 
+human behavior 人的行为 
+This food is not fit for human consumption. 这种食物不适合人食用。
+human geography 人文地理学 
+Firefighters formed a human chain to carry the children to safety. 消防队员组成人链把孩子们送到了安全的地方。
+human weaknesses 人性的弱点 
+human error 人为的失误 
+It’s only human to want the best for your children. 为自己的孩子谋求最好的条件是人之常情。
+Dogs can hear much better than humans. 狗的听觉比人灵敏得多。
+That is no way to treat another human being. 那绝不是对待他人的方式。
+
+vt.＆vi. 目光（在一个区域）四处移动。强调目光移动的范围较大:
+vt.＆vi.（在一个区域）徘徊；漫步；四处移动。不如wander常用:
+vt. [正式]（将人或事物按一定位置或顺序）排列，排序:
+n. 1 [C]（尤指旧时的）大炉灶（可以燃烧各种燃料，且一直可以燃烧，用于烹饪）:
+2 [C] [美] 厨灶，相当于英国的cooker:
+n. [C] 一条（或一组）山脉（可以是mountains或hills）。强调一种整体感:
+n. [C, usually sing.] range (of sth)（同类型的）一系列（事物）:
+n. 1 [C, usually sing.]（变动或浮动的）范围，界限，区间:
+2 [C, U] 可被看到（或听到）的距离，即视觉（或听觉）范围:
+range between A and B（在一定的数量、尺寸、程度等范围内）变化，变动（包括上下两个顶点在内）:
+2 range (from A to B) 包括（从…到…）之间的各类事物:
+n. [C] 高尔夫球练习场:
+n. [sing.] [美] the range 可指（饲养奶牛等的）大牧场；乳牛场:
+n. [C]（某类型的）一系列产品:
+n. [C] 可以练习射击，或测试炸弹等的一片地域，即靶场；射击场；炸弹试验场:
+n. [C, U]（枪炮或其他武器的）射程；射击距离:
+n. [C]（车辆）加一次油可行驶的路程:
+range |[reɪndӡ]
+Her eyes ranged the room. 她的目光在屋子里来回扫视。
+He ranges far and wide in search of inspiration for his paintings. 他四处徘徊，以寻找绘画的灵感。
+The delegates ranged themselves around the table. 代表依次在桌子周围就座。
+Spectators were ranged along the whole route of the procession. 旁观者排列在整个游行路线的两侧。
+Cook the meat on a low heat on top of the range. 把肉放在炉灶上用文火炖着。
+electric, gas range 电炉；煤气炉 
+cooking, kitchen range 炉灶
+the great mountain range of the Alps 雄伟的阿尔卑斯山脉
+The hotel offers a wide range of facilities. 这家酒店提供各种各样的设施。
+a full range of activities 各种活动
+an increase in the range of 0 to 3 per cent 0到3个百分点的增长幅度 
+This was outside the range of his experience. 这超出了他的阅历。
+ability, age, price range 能力范围；年龄范围；价格幅度 
+Many factors limit women’s range of job choices. 诸多因素制约着女性选择工作的范围。
+hearing, visual（均尤美）range 听觉范围；视觉范围 
+It’s outside my range of vision. 它超出了我的视力范围。
+The receiver has a maximum range of about 30 feet. 这台接收器的最远接收范围大约为30英尺。
+vi. 1 range from A to B 
+to range in size from A to B 尺寸在A到B之间变动 
+They range in price from $3 to $15. 它们的价格在3到15美元之间变化。
+The disease ranges widely in severity. 这种病的严重程度千差万别。
+She has had a number of different jobs, ranging from chef to swimming instructor. 她做过许多不同的工作，从大厨到游泳教练。
+The conversation ranged widely. 谈话所涉及的范围很广。
+Accommodation ranges from tourist class to luxury hotels. 住宿条件从经济型旅馆至豪华型宾馆不等。
+driving, practice range 高尔夫球练习场
+He grazed his cattle on the open range. 他在开阔的大牧场上放他的牛。
+product range 产品种类 
+a full range of financial services 全方位的金融服务 
+Come and see our new range of furniture. 来看看我们的新家具系列吧。
+archery, bombing, firing, shooting range 射箭场；轰炸靶场；靶场；射击场
+This missile has a range of 500 miles. 这款导弹的射程为500英里。
+The missiles are effective over a long range. 这些导弹可有效打击远程目标。
+He shot her at point-blank range. 他近距离射中了她。
+Don’t shoot yet--he’s still out of range. 先别开枪，他还在射程之外。
+
+adj. 由很多相互关联的不同事物或部分组成的，即复杂的；还可指难以理解的，即难懂的，费解的:
+n. [C] 对某事的不正常忧虑:
+n. [C] 尤用于构成复合词，指不正常的精神状态；情结:
+n. [C] 相关联的一组事物:
+n. [C] 坐落在同一地方的，类型相似的一群建筑:
+adj.（单词或句子）复合的（即由一个主要部分和一个或多个其他部分组成的，具体可指词根加有词缀或主句含有从句）:
+complex |['kɒmpleks]
+complex machinery 结构复杂的机器 
+the complex structure of the human brain 错综复杂的人脑构造 
+complex argument, complex problem, complex subject 难懂的论证；难懂的问题；难懂的科目 
+a complex system of voting 一套复杂的表决机制 
+This is a highly complex matter. 这件事非常复杂。
+technically complex surgery 技术上复杂的外科手术
+to have a complex about ... 对…的不正常忧虑 
+Don’t nag him about his handwriting or he’ll get a complex. 别总是指责他的书写，要不然他一写字就紧张。
+to give sb complex 令某人产生心理症结
+persecution complex 受迫害妄想症 
+inferiority, superiority complex 自卑感；优越感 
+to suffer from a guilt complex 蒙受负罪感之苦
+a complex of issues 一组相关的问题
+huge, large, vast complex 巨大的建筑群 
+entertainment, leisure, shopping, sports complex 娱乐中心；休闲娱乐中心；购物中心；体育中心 
+apartment（美）, factory, hospital, housing, museum, office complex 公寓楼群；厂区；医院综合楼；住宅区；博物馆楼群；办公楼群 
+industrial, military complex 工业区；军事区
+
+n. [U] 尤用于构成复合词，指狂热:
+n. [sing.] fever (of sth) 紧张激动的状态。不过一般要与其他类似的词（如anxiety、impatience等）构成fever of sth结构，才可表示此义:
+n. [C, U] 指身体体温高于正常水平，即发烧，发热:
+n. [C, U] [旧时] 主要用于构成复合词，指某类热病:
+fever |['fi:və]
+baseball, election, gold, war fever 棒球热；选举热；淘金热；战争狂热
+She was in a fever of anxiety about him. 她为他感到焦虑。
+to wait in a fever of impatience 焦急不安地等待
+She had a very high fever. 她发高烧。
+mild, slight fever 低烧 
+persistent fever 持续发烧 
+drugs which can help to bring down the fever 有助于退烧的药
+dengue fever 登革热 
+rheumatic, scarlet fever 风湿热；猩红热
+
+adj. 1 关于（或属于）国王或女王的，即国王的，女王的，王室的，皇家的，只作前置定语:
+2 用于服务于王室或受王室赞助的组织名称，只作前置定语，如:
+3 盛大的，适合于国王或女王的，在语义上类似于splendid，只作前置定语:
+n. [C] 常用复数，表示皇室成员，为非正式用法:
+royal |['rɒɪəl]
+the royal family 王室 
+the royal household 王室 
+the Royal Navy 英国皇家海军 
+the Royal Society for the Protection of Birds 皇家鸟类保护协会 
+to be given a royal welcome 受到盛大的欢迎 
+The royals have always been patronizing this programme. 皇室成员一直在资助这个项目。
+
+adj. 1（人）勇敢的，愿意去做困难、危险或痛苦的事而无所畏惧的，相当于courageous:
+2（行动或行为）需要勇气的；或表现出勇气的:
+vt. 为达成某事而不得不去处理困难或令人不快的事，即勇敢面对:
+n. [pl.] the brave（统称）勇敢的人:
+adj. [有时讽刺] brave new 新得令人印象深刻的，即新颖的，崭新的:
+n. [C] [旧时] 美洲本地的印第安武士:
+brave |[breɪv]
+Be brave! 勇敢一些！
+I wasn’t brave enough to tell her what I thought of her. 我当时没有勇气告诉她我对她的看法。
+The vodka had made me brave. 伏特加酒给我壮了胆。
+brave decision 有勇气的决定 
+She died after a brave fight against cancer. 她在同癌症进行了顽强的抗争之后死去了。
+He felt homesick, but made a brave attempt to appear cheerful. 他很想家，但却竭力表现得很高兴。
+He did not feel up to braving the journalists at the airport. 他怯于在机场直接面对记者。
+They braved the elements (= went outside in spite of the bad weather) to attend the march. 他们不顾天气恶劣参加了游行。
+the home of the brave 勇士的家园
+a brave new Britain 令人叹为观止的新英国
+
+irrigation 灌溉
+To irrigate land means to supply it with water in order to help crops grow. 灌溉
+irrigate |英 ['ɪrɪgeɪt]  美 ['ɪrəget]| vt. 灌溉；冲洗；使清新/vi. 灌溉；冲洗/
+The agricultural land is hilly and the irrigation poor.这片农田多丘陵，而且灌溉条件很差。
+None of the water from Lake Powell is used to irrigate the area.鲍威尔湖的水没有被用来灌溉这一地区。
+
+
+vt.＆vi. 未经许可而擅自离开部队:
+vt. 1 抛弃或遗弃某人（使其得不到帮助或支持、供养等），相当于abandon，但不如abandon常用:
+2 停止使用、购买或支持等…:
+vt. 1 常用被动式，从某地离开（使该地变空），相当于abandon:
+2（某种品质在某人需要的时候）背离（这个人）:
+n. [C, U] 沙漠；荒漠:
+desert |['dezət][dɪ'zət]
+Large numbers of soldiers deserted as defeat became inevitable. 战败已成定局，许多士兵开小差跑了。
+She was deserted by her husband. 她被丈夫遗弃了。
+to desert teaching for politics 弃教从政 
+to desert his urban life 放弃他的都市生活
+The villages had been deserted. 这些村庄已经荒无人烟了。
+The owl seems to have deserted its nest. 这只猫头鹰似乎不要这个窝了。
+Poor farmers are deserting their parched farm fields and coming here looking for jobs. 贫穷的农民丢下干旱的农田，来这里找工作。
+Her courage seemed to desert her for a moment. 她一时间似乎失去了勇气。
+the Sahara Desert 撒哈拉大沙漠 
+vast desert 广袤的沙漠 
+Arctic, polar desert 北极荒漠；极地荒原 
+desert area, desert region, desert country 沙漠地区；沙漠国家 
+desert plant 沙漠植物 
+cultural desert（比喻用法）文化沙漠
+
+adj. 与一个城市（city）或城镇（town）相关的，即城市的、都市的、城镇的:
+urban |['ə:bən]
+damage to both urban and rural environments 对城乡环境的破坏 
+urban areas 城镇地区 
+urban life 城市生活 
+urban development 城市发展 
+urban sprawl 城市扩张
+
+adj. [尤英] 壮丽的，雄伟的，华丽的，豪华的等:
+adj. 1 [尤英，旧时] 极好的，非常好的，相当于great:
+2 [尤英] 令人印象非常深刻的；非常美丽或漂亮的。如壮丽的，雄伟的，华丽的，豪华的等:
+exclamation. [旧时，尤英] 用于表示你赞成某事，或表示你高兴、满意:
+splendid |['splendɪd]
+splendid scenery 壮丽的风景
+What a splendid idea! 这主意妙极了！
+We’ve all had a splendid time. 我们大家都玩得很开心。
+splendid scenery 壮丽的风景 
+a really splendid evening 非常美好的夜晚 
+The meal was quite splendid! 这顿饭简直太棒了！ 
+You’re both coming? Splendid! 你们俩都要来？太好了！
+
+n. [C] 亚洲人:
+adj. 亚洲的:
+Asian |['eɪʃn]
+The shops were run by Asians. 这些商店是由亚洲人经营的。
+Asian music 亚洲音乐
+
+n. [C, U] conversation (with sb) (about sth) 一小群人（或仅仅两个人）所进行的非正式交谈:
+conversation |[͵kɒnvə'seɪʃn]
+Don was deep in conversation with the girl on his right. 唐与他右边的女孩在专心交谈。
+The conversation turned to gardening. 话题转到了园艺上。
+brief, short conversation 简短的交谈 
+We engaged in a long conversation. 我们进行了一次长谈。
+everyday conversation 日常谈话 
+casual, informal conversation 闲谈 
+private conversation 私下的谈话 
+phone conversation 电话交谈 
+overheard conversation 无意中听到的谈话 
+
+vt. rescue sb/sth (from sth/sb) 将…从危险或有害的处境中解救出来，即营救，救援，抢救。其含义已为save所涵盖，但是，第一，rescue虽然偶尔可表示“救”事物和“救”情况，但主要表示“救”生命，且常指在一次具体的行动中通过制定周详的计划、协调各环节、调度各方资源来“营救”或“救援”处于危险中的人。虽然此时也可换为save，但save往往过于强调结果，而rescue则往往更能反映救援的过程，以及该过程的紧张性、惊险性和待救人员当时紧张而期盼的心理；第二，save可以是短期的或长期的“救”，而rescue一般仅指短期的“救”，通常是一次具体的行动:
+n. 1 [U] 救援，营救，获救:
+2 [C] 营救行动:
+rescue |['reskju:]
+He rescued a child from drowning. 他救起了一名落水儿童。
+They were eventually rescued by helicopter. 他们最后被直升机救走了。
+The house was rescued from demolition. 这所房子保住了，可以不拆。
+You rescued me from an embarrassing situation. 我正感到尴尬，你为我解了围。
+the rescue of a man from a burning building 从燃烧着的大楼中营救一名男子 
+The navy are on a search and rescue mission. 海军正在执行搜救任务。
+a mountain rescue team 高山救援队 
+rescue service 救援服务 
+rescue helicopter, rescue vehicle 救援直升机；抢救车辆 
+rescue dog, rescue equipment 搜救犬；救援装备 
+a financial rescue package for the company 对该公司的一揽子财务救助计划 
+A wealthy benefactor came to their rescue with a generous donation. 一位富有的赞助人慷慨解囊挽救了他们。
+mountain, water rescue, hostage rescue, helicopter rescue, financial rescue 高山救援；水上救援；人质营救；直升机救援；财务救助
+
+n. [C] 可以产生热射线并用于医学和科学之目的的一种电气装置:
+n. [C] 利用电、油、燃气来发光的一种装置，即灯:
+n. [C] 可以产生热射线并用于医学和科学之目的的一种电气装置:
+lamp |[læmp][læmp]
+infrared, ultraviolet lamp 红外线灯；紫外线灯
+bedside, desk, floor, overhead（美）lamp 床头灯；台灯；落地灯；顶灯 
+electric, oil lamp 电灯；油灯 
+street lamp（英）街灯 
+fluorescent, incandescent lamp 荧光灯；白炽灯 
+heat lamp 加热灯 
+magic lamp 神灯
+infrared, ultraviolet lamp 红外线灯；紫外线灯
+
+lecture sb (about doing sth)（尤指以令被批评者烦恼的方式来对其进行）批评，责备，训斥，告诫:
+n. [C]（因某人或某一群人犯错而对其进行的冗长的）训斥，批评，教训，责备:
+n. [C] lecture (to sb) (on/about sth) 面对一群人针对某个主题所做的演讲:
+n. [C] lecture (to sb) (on/about sth) 大学的讲座，讲课:
+vi. lecture (in/on sth)（尤指在大学里）讲授，讲课，做讲座:
+lecture |['lektʃə]
+vt. lecture sb (about/on sth) 
+to lecture me about my work 对我的工作指手画脚 
+The teacher lectured him about his not finishing his homework. 老师批评他未完成作业。
+She gave me a stern lecture on ingratitude. 她严厉地数落我如何忘恩负义。
+I got a lecture from Dad about not coming home on time. 我没有按时回家，受到了爸爸的训斥。
+I don’t need any lectures from you on responsibility. 用不着你来教育我要担当责任。
+impromptu lecture 即兴演讲 
+public lecture 公开演讲 
+inaugural, introductory lecture 就职演说；开场演说 
+keynote lecture 主题演讲 
+memorial lecture 纪念演说
+to attend a lecture on American history by Professor Tom 听汤姆教授的关于美国历史的讲座 
+lecture hall 讲堂 
+a lecture entitled ‘How to Prevent Food Poisoning’ 题为《怎样防止食物中毒》的讲座 
+to lecture on the history of art 讲授艺术史 
+to lecture in Chinese literature 讲授中国文学
+
+n. [C] 在学校里（或其他相似机构）以教书为职业的人，即教师。是此义的基础用词和常规用词:
+teacher |['ti:tʃə]
+a public school teacher（美）公立学校教师 
+nursery-school, preschool teacher 幼儿园教师；学前教育教师 
+elementary teacher（美国的）小学教师 
+college, university（尤英）teacher 大学教师 
+senior teacher 高级教师 
+student teacher 实习教师 
+part-time teacher 兼职教师 
+history teacher 历史教师 
+dance, piano teacher 舞蹈教师；钢琴教师 
+spiritual teacher 精神导师 
+teacher education 师范教育 
+teacher shortage 师资短缺 
+
+beg (sth) (of/from sb)（尤指以一种焦虑的方式）向某人请求某东西（因为你非常想要或需要它），如乞求、恳求、哀求等:
+vi. 狗蹲坐在后腿上将前爪抬起以等待被给予某东西:
+beg sth (from sb)（尤指在街上）向别人乞讨（食物、金钱等）:
+beg |[beɡ]
+vt.＆vi. beg (sb) (for sth) 
+I managed to beg a lift from a passing motorist. 我设法求得一位开车路过的人让我搭车。
+She begged him not to go. 她求他别离开。
+He begged to be told the truth. 他请求把真相告诉他。
+to beg for mercy 求饶 
+We humbly beg you to show mercy. 我们恳请您发发慈悲。
+to beg for forgiveness 恳求原谅 
+to beg for help 恳求帮助
+vt.＆vi. beg (for sth) (from sb) 
+to beg food from passers-by 向路人乞讨食物 
+The children were forced to beg for food in the streets. 那些孩子被迫在大街上讨饭。
+We managed to beg a meal from the cafe owner. 我们设法向咖啡馆老板讨了一顿饭。
+a begging letter（要钱的）索求信
+
+n. [C] [尤美] 商业上可指托拉斯（为一种商业垄断组织，即为减少竞争、操控价格而非法联合起来的一些商业公司）:
+vt. 1 对某人有信心，相信某人是善良的、真诚的、诚实的等，即信任，信赖。程度较深。与rely近似，但rely为不及物动词:
+2 相信（或认为）某事物是真实的或正确的，或可依赖的:
+n. [U] trust (in sb/sth) 相信某人（或某事物）是好的、真诚的、诚实的等，且相信其不会伤害或戏弄你，即信任，信赖:
+vt. [正式] 希望或期望某事属实:
+n. 1 [C] [尤英] 信托机构或团体:
+2 [C, U] 在某人达到某一年龄前，将给予他（或她）的金钱或财产委托给一个组织或团体来管理的一种法律安排，可称为信托；也可指以此种方式来处置的一笔金钱或财产，即信托财产:
+trust |[trʌst]
+anti-trust laws 反托拉斯法
+the only person I truly trusted 我唯一真正信任的人 
+I was afraid to trust anyone after that. 从那以后我不敢再信任任何人。
+I’d trust her with my life. 我愿把生命托付给她。
+He trusted her judgement. 他相信她的判断力。
+Don’t trust what the newspapers say! 别相信报纸上的话！
+to earn their trust 赢得他们的信任 
+She will not betray your trust. 她不会辜负你对她的信任。
+He was appointed to a position of trust. 他被委以重任。
+They had little trust for outsiders. 他们对外人很不信任。
+consumer, public trust 消费者的信任；公众的信任 
+mutual trust 互信 
+We have absolute trust in the teachers. 我们对老师完全信任。
+I trust (that) you have no objections to our proposals? 我想你不反对我们的建议吧？
+I stumbled along in the dark, trusting to luck to find the right door. 我跌跌撞撞地在黑暗中摸索前进，想凭运气找到那扇正确的门。
+independent trust 独立信托机构 
+charitable trust 慈善信托机构 
+The trust owns the land and the buildings. 土地和房产归信托机构所有。
+trust account, trust assets 信托账户；信托资产 
+the value of the trust 信托金额 
+He set up a trust for his children. 他为子女安排好了信托财产。
+His father put the money in trust for him until he was 21. 他爸爸将这笔钱委托他人代管，直到他21岁。

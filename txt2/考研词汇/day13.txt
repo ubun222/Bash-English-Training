@@ -1,0 +1,588 @@
+infect			传染，污染，影响
+advent			出现，到来
+visible					看得见的，明显的
+money				钱，工资，财产
+hesitate			犹豫，有顾虑
+exceed				超过，超出
+meditate			冥想，沉思，谋划
+prosecute				起诉，继续进行
+visit						访问
+valley									山谷
+acrobat			杂技演员
+exceedingly			非常
+supermarket						超市
+polite				有礼貌的，礼节性的
+particular					特别的，挑剔的，细节
+degenerate			恶化，堕落的
+eligible			有资格的，合意的
+incur				招致，引起
+occupation						居住，占领，职业
+apology								道歉
+malignant			恶意的，恶性的
+fragrant						香的
+contempt			蔑视
+assembly							人群，集会，立法机构
+transform					改变
+article					物件，文章，条款，冠词
+disperse			散去，驱散
+progress							进步，行进，持续
+suffice			足以，满足...的需要
+close									近的，亲密的，严密的，关上，结束
+\\\\\\\\
+
+vt. 影响:
+vt. 使计算机病毒从一台电脑上传播到另一台电脑上:
+vt. 使某人、某地、某事物感染某种感情（即拥有和别人一样的感情）:
+vt. ~ sb/sth (with sth) 使一种疾病传染给一个人、动物或植物:
+vt. [常用被动式] 使一种物质含有能传播疾病的有害细菌，即（有害细菌）污染（某种物质）:
+infect |[ɪnˈfekt]
+He thought they might infect others with their bourgeois ideas. 他认为他们可以用他们的资产阶级思想去影响别人。
+This virus infected thousands of computers within days. 这种病毒在短短几天内感染了数千台计算机。
+She infected the children with her enthusiasm for music. 她对音乐的热爱感染了孩子们。
+For an instant I was infected by her fear. 有那么一会儿她的恐惧也传染给了我。
+It is not possible to infect another person through kissing. 接吻不可能把这种病传染给他人。
+people infected with HIV 染上艾滋病病毒的人 
+A single mosquito can infect a large number of people. 一只蚊子就可以感染很多人。
+objects used by an infected person 被感染者使用过的物品 
+eggs infected with salmonella 带沙门氏菌的鸡蛋 
+The birds infect the milk. 鸟污染了牛奶。
+a virus which is spread mainly by infected blood 主要通过被污染的血液传播的病毒
+
+Theadventof an important event, invention, or situation is the fact of it starting or coming into existence. 出现
+advent |英/美 ['ædvɛnt]| n. 到来；出现；基督降临；基督降临节/
+The advent of the computer has brought this sort of task within the bounds of possibility.电脑的出现使这种任务的完成成为可能。
+
+
+adj. 容易被看见的:
+adj. 明显的，能被注意到的:
+adj.（商品、资产等）有形的:
+visible |[ˈvɪzəbl]
+The house is clearly visible from the beach. 从海滩可以清楚地看到那所房子。
+We cut the trees down to make the lake visible from the house. 我们把树砍倒，这样在屋里就能看见湖了。
+The mountains were just visible, dusky and black. 黑黝黝的群山朦胧可辨。
+The flat boats were barely visible. 扁平的小船几乎看不见。
+The sea was now out, leaving the wreck fully visible. 现在潮退了，沉船完全露了出来。
+The warning lights were clearly visible. 警示信号灯清晰可见。
+The election poster was clearly visible from the street. 选举海报在街头颇为醒目。
+She stood, half visible in the dim light. 她站在那里，在昏暗的光线下朦胧可辨。
+A figure was dimly visible in the evening gloom. 沉沉的暮色里一个身影隐约可见。
+He was immediately visible to me. 我一眼就能看见他。
+Its contents were visible to all of them. 里面的东西他们全都看得见。
+a bacterium visible to the human eye 一种肉眼可见的细菌 
+Most stars are not visible to the naked eye. 大多数星星肉眼看不见。
+The scars remained visible all her life. 这些伤疤伴随了她一生。            
+He showed no visible sign of emotion. 他丝毫不露声色。
+She made a visible effort to control her anger. 看得出她竭力控制自己不发火。
+His relief was all too visible. 他显然如释重负。
+her quite visible embarrassment 她的十分明显的尴尬 
+a visible police presence 明显有警察在场 
+visible benefits 显而易见的实惠 
+The most visible sign of the intensity of the crisis is unemployment. 预示危机严重程度的一个最显著的迹象就是失业情况。
+Italy has a highly visible environmental movement. 意大利展开了声势浩大的环保运动。
+In the UK visible imports have traditionally been greater than visible exports. 英国，传统上有形产品的进口一直大于出口。
+
+n. 1 [U] 流通或功能意义上的钱，如收入、薪水等:
+2 [U] 实体意义上的钱，即钱币，钞票:
+3 [C] 复数形式moneys或monies为旧时或法律用语，表示被分散的若干笔钱，即款项:
+n. [U] 一个人的财产，财富。是一个简单用词:
+money |['mʌnɪ]
+How much money is there in my account? 我的账上有多少钱？
+lunch money 午饭钱 
+extra money 外快 
+taxpayers’ money 纳税人的钱 
+paper money 纸币 
+counterfeit money 伪钞 
+money management 理财 
+money laundering 洗钱 
+I counted the money carefully. 我仔细点了这笔钱。
+to change my money into dollars 把我的钱兑换成美元 
+a statement of all monies paid into your account 存入你的账户的所有金额的清单
+He lost all his money. 他失去了全部财产。
+The family made their money in the 18th century. 这个家族在18世纪创下了家业。
+
+vi. 1 hesitate (about/over sth)由于感到不确定或紧张而言行缓慢，即犹豫:
+2 担心做某事（尤指由于不确定这样做是否正确或合适），即顾虑:
+hesitate |['hezɪteɪt]
+She hesitated before replying. 她犹豫了一下才回答。
+I barely hesitated before saying yes. 我几乎没有犹豫就同意了。
+Please do not hesitate to contact me if you have any queries. 如果有疑问就请尽管和我联系。
+He was hesitating between a glass of wine and an orange juice. 他正拿不定主意，不知道该要葡萄酒还是橙汁。
+
+vt. [正式] 超过（某一数量、数字等）:
+vt. [正式] 超越（法律、权限、命令等的）限制:
+exceed |[ɪkˈsi:d]
+The price will not exceed £100. 价格不会超过100英镑。
+Its research budget exceeds $700 million a year. 其研究预算每年超过7亿美元。
+The demand for places at some schools exceeds the supply. 某些学校的入学申请人数超过了招生。
+His achievements have exceeded expectations. 他的成就出乎预料。
+The House voted by 327 votes to 93, comfortably exceeding the required two-thirds majority. 议会以327 票赞同 93 票反对通过、这大大超过了所要求的三分之二多数票。
+Their numbers barely exceed 100 in the wild. 它们在自然环境中的数量勉强超过100。
+Summer temperatures rarely exceed 27°C. 夏季气温很少超过27摄氏度。
+Income is expected to exceed expenditure. 收入有望超过支出。
+She was exceeding the speed limit (= driving faster than is allowed). 当时她超速驾驶。
+The officers had exceeded their authority. 这些官员超越了他们的权限。
+I would be exceeding my powers if I ordered the march to be halted. 如果我命令停止游行，我就越权了。
+
+vt. [正式] 在头脑中策划某事、考虑去做某事:
+vi. ~ (on/upon sth) 安静地沉思，尤指宗教冥想或为了使身心安宁而沉思:
+vi. 长时间仔细而深沉地思考:
+meditate |[ˈmedɪteɪt]
+They were meditating revenge. 他们在谋划进行报复。
+I was meditating, and reached a higher state of consciousness. 我在冥想，并进入了一个更高的意识境界。
+He meditated on the problem. 他仔细斟酌着这个问题。
+On the day her son began school, she meditated on the uncertainties of his future. 儿子开始上学的那一天，她就在考虑他未来的种种不确定因素了。
+
+vt. [正式] 继续参与某事或继续做某事:
+vt.&vi. ~ (sb) (for sth/doing sth) 正式起诉某人（某项罪行）:
+vt.&vi. 担任控方律师:
+prosecute |[ˈprɒsɪkju:t;美ˈprɑ:s-]
+They had overwhelming public support to prosecute the war. 绝大多数民众支持他们继续进行这场战争。
+The company was prosecuted for breaching the Health and Safety Act. 这家公司被控违反《卫生安全条例》。
+Trespassers will be prosecuted (= a notice telling people to keep out of a particular area). 闲人莫入，违者必究。
+The police decided not to prosecute. 警方决定不予起诉。
+The police have decided not to prosecute because the evidence is not strong enough. 由于证据不足，警方已决定不起诉。
+Photographs taken by roadside cameras will soon be enough to prosecute drivers for speeding. 路边电子眼拍下的照片很快将足以起诉超速的司机。
+prosecuting counsel, prosecuting lawyer, prosecuting attorney 原告律师 
+James Spencer, prosecuting, claimed that the witness was lying. 原告律师詹姆斯·斯潘塞指称证人在撒谎。
+The attorney who will prosecute the case says he cannot reveal how much money is involved. 将对此案提起公诉的律师说他不能透露具体的涉案金额。
+
+vt.（正式地）视察或巡视（例如执行检查任务，或给出指导意见）:
+vt. 参观（一个地方）:
+n. [C] visit (to sb/sth) (from sb)（对某地的）参观:
+vt. 访问（互联网上的网站）:
+n. [C] 对互联网网站的访问:
+vt.＆vi. 在某地短暂地逗留或停留:
+n. [C]（在某地的）短暂逗留:
+vt. 看望、探访、拜访（一个人）或访问（一个地方）。是此义的常规用词，且仅为及物动词:
+n. [C] visit (to sb/sth) (from sb)（对某人的）看望、探访、拜访；（对某地的）访问:
+n. [C] [美，非正式] visit (with sb)（两人或多人非正式的）碰面并交谈:
+visit |['vɪzɪt]
+government inspectors visiting schools 视察学校的政府检察员
+to visit the museum 参观博物馆 
+to pay a visit to the local museum 参观一下当地的博物馆 
+site visit 实地参观
+For more information, visit our website. 欲知详情，请访问我们的网站。
+Visits to our website have doubled in a year. 我们网站的访问人次一年内翻了一番。
+We don’t live here. We’re just visiting. 我们不住在这里，只作短期停留。
+The lake is also visited by seals in the summer. 夏天也有海豹游到这个湖里来。
+She went to visit relatives in Wales. 她去威尔士看望亲戚了。
+The Prime Minister is visiting Japan at the moment. 首相目前正在访问日本。
+to visit dentist 看牙医 
+It’s my first visit to New York. 这是我第一次去纽约。
+They’re on an exchange visit to France. 他们到法国进行互访。
+We had a visit from the police last night. 昨晚警察来我们家了。
+a visit to the doctor 看医生 
+She enjoyed the frequent visits of her grandchildren. 她喜欢孙辈常来看望自己。
+formal, official, state visit 正式访问；官方访问；国事访问 
+social, unofficial visit 社交拜访；私下的访问 
+She received a personal visit from the store manager. 商店经理亲自登门拜访。
+
+n. [C]（山丘或山岳之间的）山谷（常有河流流过）；也可指河流流过的一片土地，即流域:
+valley |['vælɪ]
+forested valley 林木覆盖的谷地 
+mountain, river valley 山谷；河谷 
+valley bottom 谷底 
+a small town set in a valley 坐落在山谷中的一座小镇 
+Missouri valley 密苏里河流域 
+lower, upper valley 下游流域；上游流域
+
+
+acrobat |英 ['ækrəbæt]  美 ['ækrəbæt]| n. 杂技演员，特技演员；随机应变者；翻云覆雨者，善变者/
+
+
+
+Exceedingly means very or very much. 极其
+exceedingly |英 [ɪk'siːdɪŋlɪ; ek-]  美 [ɪk'sidɪŋli]| adv. 非常；极其；极度地；极端/
+We had an exceedingly good lunch.我们吃了一顿极其丰盛的午餐。
+
+
+n. [C] 超级市场，超市，是一种大型食品及居家用品商店，美式英语也用grocery store:
+supermarket |['sju:pə͵mɑːkɪt]
+high-street（英）, neighborhood（美）supermarket 商业街的超市；居民区的超市 
+out-of-town supermarket（英）市郊的超市 
+supermarket chain, supermarket giant 连锁超市；大型超市 
+supermarket checkout, supermarket shelf 超市付款台；超市货架 
+supermarket brand 超市品牌 
+supermarket manager 超市经理
+
+adj. 1（对其他人的感情）拥有或表现出良好礼节和尊重的，如有礼貌的，客气的，相当于courteous:
+2 礼节性的但并不总是真诚的，即客套的，应酬的:
+3 只用于名词前，来自于上流社会的:
+polite |[pə'laɪt]
+Please be polite to our guests. 请礼貌对待我们的客人。
+We were all too polite to object. 我们都太客气了，没有反对。
+a polite smile 礼貌的微笑 
+His manner was coolly polite and impersonal. 他的态度冷淡客气、公事公办。
+I don’t know how to make polite conversation. 我不知道怎么说应酬话。
+polite applause 礼貌性的掌声 
+‘Bum’ is not a word we use in polite company.“屁股”可不是我们当着文雅人的面儿说的字眼儿。
+
+adj. particular (about/over sth)（对自己所喜欢的东西）非常明确的，（对自己所选择的东西）非常仔细的，即讲究的，挑剔的，相当于fussy:
+adj. 只用于名词前，比平常要更大（或更好、程度更深等）的，不寻常的，格外的，特别的:
+n. [pl.] [正式] particulars 可指（关于财产、业务、工作岗位等的）详细书面材料:
+adj. 只用于名词前，用于强调你正指的是特定的一个人、事物或类别（而非其他类似者），即特指的，相当于specific:
+n. [usually pl.] [正式]（尤指正式写下的）一个事实或细节、详情:
+particular |[pə'tɪkjələ]
+She’s very particular about her clothes. 她对衣着特别挑剔。
+We must pay particular attention to this point. 我们必须特别注意这一点。
+These documents are of particular interest. 这些文件让人尤其感兴趣。
+Application forms and further particulars are available from the Personnel Office. 申请表及其他详细资料可向人事部索取。
+There is one particular patient I’d like you to see. 我想让你见一个病人。
+Is there a particular type of book he enjoys? 他有特别喜爱的哪一类书籍吗？
+The police officer took down all the particulars of the burglary. 这名警察记下了窃案发生的详细情况。
+The nurse asked me for my particulars. 护士向我询问了我的个人资料。
+The new contract will be the same in every particular as the old one. 新合同与旧合同的各项细节将完全相同。
+
+adj. 颓废的:
+adj. [术语] 退化的；缺乏通常需要的事物的:
+adj. 道德堕落的:
+adj. 道德堕落的、颓废的:
+n. [C] 道德堕落的人:
+vi. ~ (into sth) 变得更糟，如恶化:
+degenerate |[dɪˈdʒenəreɪt]
+a degenerate popular culture 颓废的大众文化
+the degenerate attitudes he found among some of his fellow officers 他在一些警队同僚身上发现的腐化态度
+a degenerate popular culture 颓废的大众文化 
+a group of degenerate computer hackers 一群堕落的计算机黑客 
+the degenerate attitudes he found among some of his fellow officers 他在一些警队同僚身上发现的腐化态度 
+The march degenerated into a riot. 示威游行变成了暴动。
+The solemn event rapidly degenerated into farce. 这一庄重的活动迅速演化为一场闹剧。
+Her health degenerated quickly. 她的健康状况迅速恶化。
+Inactivity can make your joints stiff, and the bones may begin to degenerate. 长期不活动会导致关节僵硬，骨骼也可能开始退化。
+From then on the whole tone of the campaign began to degenerate. 从那时起，整个活动的基调开始变质。           
+
+having the right to do or obtain something; satisfying the appropriate conditions:拥有做某事或获得某事的权利；满足适当的条件
+(of a person) desirable or suitable as a partner in marriage:（某人的）理想的或适合作为婚姻伴侣的
+eligible |ˈɛlɪdʒɪb(ə)l| Adjective/:有资格的,合格,符合条件
+customers who are eligible for discounts:有资格享受折扣的客户
+the world's most eligible bachelor:世界上最有资格的单身汉
+
+If you incur something unpleasant, it happens to you because of something you have done. 招致; 蒙受
+incur |英 [ɪn'kɜː]  美 [ɪn'kɝ]| vt. 招致，引发；蒙受/
+The government had also incurred huge debts.政府也已承受了大笔债务。
+
+
+n. [C] 花费时间的方式，尤指花费业余时间的方式:
+n. [U] 对建筑物、房屋、土地等的使用（如居住），即占用。为正式用法:
+n. [C] 一份工作或职业。使用场合相对正式:
+n. [U] 对一地的军事占领，也可指占领期:
+occupation |[͵ɒkju'peɪʃn]
+Her main occupation seems to be shopping. 逛商店购物似乎是她的主要消遣。
+land occupation 土地占用 
+You can only take up occupation once the tenancy has been signed.（英）你签了租赁合同后才能入住。
+The houses will be ready for occupation by March.（尤英）这些房子三月份便可入住。
+Please state your name, age and occupation below. 请在下面写上姓名、年龄和职业。
+full-time occupation 全职工作 
+managerial, professional, technical occupation 管理工作；专业工作；技术工作 
+unskilled occupation 无需一定技能的职业 
+blue-collar, white-collar occupation 蓝领职业；白领职业 
+service occupations such as cleaning and catering 诸如清洁、餐饮之类的服务业工作 
+civilian occupation文职工作 
+dangerous occupation 危险职业
+foreign occupation 外国占领 
+military occupation 军事占领 
+colonial occupation 殖民占领 
+illegal occupation 非法占领 
+occupation force 占领军 
+during the occupation 占领期间 
+Part of Britain was under Roman occupation. 不列颠的部分领土曾被罗马人占领。
+
+n. 1 [C, U] apology (to sb) (for sth) 道歉（或谢罪）的言辞或话语:
+2 [C, usually pl.] 因不能赴会或必须提前离开所进行的致歉:
+apology |[ə'pɒlədӡɪ]
+a letter of apology 道歉信 
+a full written apology 一份正式的书面道歉 
+She certainly owes you an apology. 她当然应该向你道歉。
+Please accept my sincere apologies. 请接受我诚挚的歉意。
+She made her apologies and left early.（正式）她致歉后就提前离开了。
+
+If you say that someone is malignant, you think they are cruel and like to cause harm. 恶毒的
+A malignant tumour or disease is out of control and likely to cause death. 恶性的
+malignant |英 [mə'lɪgnənt]  美 [mə'lɪgnənt]| adj. [医] 恶性的；有害的；有恶意的/n. 保王党员；怀恶意的人/
+He said that we were evil, malignant, and mean.他说我们邪恶、恶毒、卑鄙。
+She developed a malignant breast tumour.她得了恶性乳腺瘤。
+
+
+adj. 气味宜人的、芳香的:
+fragrant |[ˈfreɪgrənt]
+fragrant herbs, fragrant flowers, fragrant oils 芳草；香花；香油 
+The air was fragrant with lavender. 空气中弥漫着薰衣草香。
+The air was fragrant with scents from the sea and the hills. 空气中荡漾着山和海的芬芳气息。
+a garden full of wonderfully fragrant flowers 花香四溢的花园
+
+n. 1 [U, sing.] ~ (for sb/sth) 认为…没有价值因而不值得尊重，如蔑视、轻蔑、鄙视:
+2 [U, sing.] ~ for sth（对规则、危险等的）不担心或不害怕，如置之度外:
+3 [U, sing.] 藐视法庭（罪），相当于contempt of court:
+n. [U, sing.] ~ for sth（对规则、危险等的）不担心或不害怕，如置之度外:
+n. [U, sing.] ~ for sth（对规则、危险等的）无视、不理会:
+contempt |[kənˈtempt]
+She looked at him with barely disguised contempt. 她看着他，几乎毫不掩饰自己的轻蔑。
+I shall treat that suggestion with the contempt it deserves. 我对那项建议当然会不屑一顾。
+His treatment of his children is beneath contempt (= so unacceptable that it is not even worth feeling contempt for). 他对待自己子女的那种行径为人所不齿。
+Politicians seem to be generally held in contempt by ordinary people. 一般百姓似乎普遍看不起从政者。
+They had shown a contempt for the values she thought important. 他们对她所认为重要的价值表示蔑视。
+He has contempt for those beyond his immediate family circle. 他鄙视直系亲属圈子以外的人。
+I hope voters will treat his advice with the contempt it deserves. 我希望选民们给予其建议应有的鄙视。
+Small wonder that many voters hold their politicians in contempt. 无怪乎很多选民看不起他们的政治家。
+She'd developed what she considered a healthy contempt for authority.（healthy尤为英式用法）她养成了蔑视权威的习惯，认为这是正常合理的。
+He felt nothing but contempt for them. 他对他们只有蔑视。
+Politicians seem to be generally held in contempt by the police. 政治人物似乎通常都受到警方的蔑视。
+He has a deep contempt for racists. 他对种族主义者极端蔑视。
+His treatment of his children is beneath contempt (= so bad it is not even worth feeling contempt for). 他对自己的孩子这么狠，真让人不齿。
+The firefighters showed a contempt for their own safety. 那些消防队员已把他们自己的安全置之度外。
+His remarks betray a staggering contempt for the truth (= are completely false). 他的话表明他完全无视事情的真相。
+civil, criminal contempt 民事藐视法庭罪；刑事藐视法庭罪 
+He could be jailed for two years for contempt. 他由于藐视法庭可能被监禁两年。
+She was held in contempt for refusing to testify. 她因拒绝作证而被判藐视法庭罪。
+The firefighters showed a contempt for their own safety. 那些消防队员已把他们自己的安全置之度外。
+His remarks betray a staggering contempt for the truth (= are completely false). 他的话表明他完全无视事情的真相。
+
+n. [C, U] 全校师生的集会，通常在早晨，以发布信息、讨论学校事务或共同祈祷。如晨会，朝会:
+n. [U, C]（一群人为某一目的所进行的）聚集、集合；也可指此类集合者:
+n. [U] 某事物（如车辆、家具）的装配、组装:
+n. [C]（也可用Assembly）由选举产生的、定期开会并为一个地区或国家制定决策或法律的一群人，如议会:
+n. [U, C]（一群人为某一目的所举行的）集会；也可指此类集会者:
+assembly |[əˈsembli]
+school assembly 全校大会 
+morning assembly 晨会 
+We hold an assembly every morning. 我们每天都有晨会。
+assembly hall 晨会礼堂 
+The announcement was made during morning assembly. 这是在晨会时宣布的。
+By 9, the juniors are in the hall for assembly. 到9点时，三年级学生都在大厅里等待参加晨会。
+a long room with a stage at one end for assemblies 一端设有早会用的高台的狭长房间
+When the fire alarm sounds, leave the building and proceed to your assembly point. 火灾警报一响，请离开大楼，前往你们的集合地点。
+a car assembly plant 汽车装配厂 
+workers on the assembly line 装配线上的工人 
+assembly operation, assembly process, assembly work 组装作业；组装过程；组装工作 
+This factory deals with final assembly and testing. 这家工厂负责总装和调试。
+Some assembly is required. 有些部分需要组装一下。
+Putting the bookcase together should be a simple assembly job. 组装书橱应该是个简单的装配活。
+For the rest of the day, he worked on the assembly of an explosive device. 在那天余下的时间里，他继续组装爆炸装置。          
+elected, representative assembly 选举出来的议会；代表大会 
+constitutional, consultative, general, legislative assembly 立宪会议；协商大会；全体会议；立法会议 
+local, national, provincial, regional, state, federal assembly 地方议会；国民议会；省议会；地区议会；州议会；联邦议会 
+the California Assembly 美国加利福尼亚州众议院 
+the UN General Assembly 联合国大会 
+an assembly of party members from the Russian republic 俄罗斯共和国的党员代表大会 
+Power has been handed over to provincial and regional assemblies. 权力已移交给省和地区议会。
+The national assembly has voted to adopt the budget. 国民议会已表决通过预算。
+This country voted for its National Assembly this week. 该国本周进行了国民议会的选举。
+Provincial assemblies meet once a year. 省议会每年召开一次。
+The assembly voted to delay the legislation to allow further consultation to take place. 议会投票决定暂缓立法以便进一步磋商。
+assembly member 议会议员 
+assembly seat 议会席位 
+assembly building, assembly room 议会大厦；会议室 
+a meeting/session of the assembly 议会的一次会议 
+These issues have been discussed in the regional assemblies. 这些问题已经在当地议会里讨论过了。
+They were accused of unlawful assembly. 他们被控非法集会。
+They demanded the right to hold peaceful assemblies. 他们要求取得和平集会的权利。
+the right of assembly (= the right to gather freely) 集会的权利 
+He was to address a public assembly on the issue. 他要对公众集会发表演说谈论这个问题。
+an assembly of women Olympic gold-medal winners 奥林匹克金牌女性获得者的集会 
+He waited until complete quiet settled on the assembly. 他一直等到集会的人群完全安静下来。
+They were fighting for freedom of speech and freedom of assembly. 他们为言论自由和集会自由而斗争。
+The US Constitution guarantees free speech, freedom of assembly and equal protection. 美国宪法保证言论自由、集会自由和受到平等保护的权利。
+
+vt. transform sth/sb (from sth) (into sth) 1 改变某事物的形态，相当于convert:
+2（某事物的外观或性质、特征）完全改变，尤指使其变得更好:
+transform |[træns'fɔ:m]
+The photochemical reactions transform the light into electrical impulses. 光化学反应使光变为电脉冲。
+A new colour scheme will transform your bedroom. 新的色彩调配将使你的卧室焕然一新。
+It was an event that would transform my life. 那是能够彻底改变我一生的一件事。
+The riots radically transformed the situation. 暴乱彻底改变了局势。
+He seems to have been miraculously transformed into a first-class player. 他似乎奇迹般地变成了一名一流球员。
+The place was transformed from a quiet town into a busy port. 这个地方由一个安静的小镇变为繁忙的港口。
+the power of religion to transform our hearts and minds 能够改变心灵和思想的宗教力量
+
+n. [C] [正式] 物品（尤指整套物品中的一件）:
+n. [C]（报刊杂志上关于某个主题的）文章:
+n. [C]（协议、契约、合同等的）条款:
+n. [C] 冠词:
+article |['ɑːtɪkl]
+articles of clothing 衣物 
+all articles of value 所有值钱的东西 
+household, toilet article 家居用品；厕所用品 
+The finished article takes two months to manufacture. 制造这个成品耗时两个月。
+an article in Newsweek《新闻周刊》上的一篇文章 
+news article 新闻稿 
+review article 评论文章 
+academic, scholarly, scientific article 学术论文；学术文章；科技文章 
+peer-reviewed article 同行评议的文章 
+journal, magazine, newspaper article 期刊文章；杂志文章；报纸文章 
+online article 网上的文章 
+related article 相关文章 
+to contribute an article 投稿
+to violate an article of the convention 违反该公约中的一项条款 
+the key articles of the constitution 宪法的主要条款 
+The actions of the organization violate Article 12 of the treaty. 该组织的行为违反了条约第12款。
+Article 10 provides that all businesses must be registered correctly. 第10条规定所有企业必须依法登记注册。
+The judge ordered the child’s return home under Article 12 of the Convention. 法官根据公约第12款的规定下令将孩子送回家。
+The terms of Article 3 will be changed by the new government. 新政府将对第三款的规定进行修改。
+definite, indefinite article 定冠词；不定冠词
+
+vt.&vi.（使）动态地散开:
+vt.&vi.（使）静态地散布:
+vt.（使）散播到一个广大的区域:
+disperse |[dɪˈspɜ:s;美dɪˈspɜ:rs]
+The fog began to disperse. 雾开始散了。
+The crowd dispersed quickly. 人群很快便散开了。
+Police dispersed the protesters with tear gas. 警察用催泪弹驱散了抗议者。
+The population in this area is quite widely dispersed. 这一地区人口稀疏。
+Members of her family are now dispersed around the world. 现在她的家人分散在世界各地。
+spatially disperse 空间上分散 
+geographically dispersed political and economic power 地理上分散分布的政治和经济力量 
+The bird-feeding system evenly disperses food and water. 这一禽鸟喂养系统均衡地散布食物和水。
+The seeds are dispersed by the wind. 这些种子由风传播。
+Warm air rises and disperses throughout the building. 暖空气上升，遍及全楼。
+The oil appeared to be dispersing. 油好像在扩散。
+The intense currents disperse the sewage. 急流冲散了污水。           
+
+vi. 时间推移或流逝，相当于go on:
+vi. [正式] 向前行进:
+n. [U] 向前行进；或朝向某地的行进:
+vi.（在一段时间内）进步，进展，改进，相当于advance:
+n. [U] 提高（或发展）的过程；或接近于取得某成就（或完成某事）的过程。即进步，进展，进度，进程:
+progress |['prəʊɡres][prə'ɡres]
+The weather became colder as the day progressed. 天色越晚，天气就越冷。
+The line of traffic progressed slowly through the town. 车流缓慢地穿过城镇。
+Cases can take months to progress through the courts.（比喻用法）案件可能需要好几个月才能审结。
+She watched his slow progress down the steep slope. 她望着他慢慢走下陡坡。
+There wasn’t much traffic so we made good progress. 来往车辆不多，所以我们开得很快。
+The course allows students to progress at their own speed. 本课程允许学生按各自的进度学习。
+to progress toward a new kind of art 朝着一种新的艺术形式发展
+The talks are progressing very well. 谈判进展良好。
+The work is progressing slowly. 工作进展缓慢。
+He felt he still needed to progress further in his learning. 他感觉自己在学业上仍需进一步提高。
+to progress rapidly in your career 在你的职业生涯中迅速进步 
+student progress 学生的进步 
+economic, medical, social, technical progress 经济进步；医疗进步；社会进步；技术进步 
+human progress 人类的进步 
+material progress 物质方面的进步 
+moral, spiritual progress 道德上的进步；精神上的进步 
+We have made great progress in controlling inflation. 我们在抑制通货膨胀方面取得了巨大进展。
+a progress report on the project 工程进度报告 
+his steady progress from petty theft to serious crime 他从小偷小摸慢慢发展成重罪犯的过程
+
+Suffice it to say or suffice to say is used at the beginning of a statement to indicate that what you are saying is obvious, or that you will only give a short explanation. 不必多言
+If you say that something will suffice, you mean it will be enough to achieve a purpose or to fulfil a need. 足够
+suffice |英 [sə'faɪs]  美 [sə'faɪs]| vt. 使满足；足够…用；合格/vi. 足够；有能力/
+Suffice it to say that afterwards we never met again.不必多言，后来我们再也没见过面。
+A cover letter should never exceed one page; often a far shorter letter will suffice.附信绝不应超过一页；通常一封更短的信就足够了。
+
+
+adj. close (about sth) 1 只作表语，（对自己的个人信息）守口如瓶的:
+2 只作前置定语，指（对秘密）守卫严密的:
+adj. [英] 只作表语，指不喜欢花钱的，即吝啬的，小气的:
+adj. 只作前置定语，（对…的检查或观察等）全面而细致的，周密的:
+adj. 只作前置定语，指戒备森严的，守卫严密的:
+close (together) 常作表语，指（在时间上）靠近的。非常常用:
+vi.（在时间上）接近（某人或某事物）:
+adj.（在竞争或选举中）以微弱差距获胜（或可能获胜）的，即势均力敌的，实力相差无几的，旗鼓相当的:
+adj.（空间）紧凑的，密集的，无空隙或空隙极小的:
+adv. 紧挨着:
+vt.＆vi. 使两个人或事物之间的距离或差别更小；或（距离或差别）缩小、变窄:
+adj.（联系）紧密的，密切的:
+vt.＆vi. 闭上眼睛；或眼睛闭上。是此义的一个基础用词:
+vt.＆vi. cloth (sth) about/around/over sb/sth 把某人或某物牢牢掌控住（如抱住、握住等）:
+vt.＆vi. 结束（一次交谈、一个事件或事情等）；或使…结束:
+n. [sing.] [正式]（一段时间或一场活动的）结束:
+adj. 剪得很短的，剪得接近皮肤的:
+adj.（天气或房间因不通风而）闷热的。不如heavy常用:
+adj.（家庭关系）亲近的:
+vt.＆vi. 停演:
+vt.＆vi. 1（将门、窗、盖子等）关闭，关上（以盖住一个孔洞、缝隙或开口等）；或（门、窗、盖子等）关闭，关上:
+2 close (sth) (to sb/sth) 暂时关闭一个地方；或使一个地方暂时关闭（例如商店、工厂、学校、博物馆、银行、机场、道路、边境等）（这意味着在该地的工作或活动停止一段时间）:
+3 永久关闭一个地方或活动；或使一个地方或活动永久关闭（例如工厂、商店、公司、学校等）:
+vt. close sth (up) 把书、雨伞等事物合上:
+adj. close (to sth)（与其他事物）酷似的；或（数量上）几乎相等的:
+adj. 1 close (to sb)（人的关系）亲密的。是一个常规用词，最为常用:
+2（工作或活动上与某人）关系密切的（尤指经常看到对方或经常与对方交谈）:
+3（联系、接触或合作）紧密的，密切的:
+close (together) 常作表语，指（在空间上）靠近的:
+adv. 近地，靠近地，不远地:
+vi.（在空间上）接近（某人或某事物）:
+vi. 金融领域可指（股票或货币市场在某一天以某个价格）收盘:
+vt. close sth (up) 把（书）合上:
+n. [U] 一座天主教教堂所属的周围场地及建筑物:
+n. [C] [英] 尤用于街道名称，指一端不通的街道，即死胡同:
+adj.（元音）闭塞音的（即发音时口形相对闭合的）:
+close (to doing sth) 只作表语，指几乎处于某种状态的；很可能快要做某事的:
+2 用于描述某事（常指危险或令人不快的情况）几乎要发生，即险些，差一点儿:
+close |[kləʊz]
+She was close about her past. 她对她的过去守口如瓶。
+a close secret 严加保守的秘密
+He’s very close with his money. 他花钱很小气。
+He took a close look at the book. 他仔细看了那本书。
+close examination 周密的探查 
+Pay close attention to what he is telling you. 仔细听他说给你的话。
+He was kept under close arrest. 他被严密监禁。
+adj. close (to sb/sth) 
+They are close to each other in age. 他们彼此的年龄很接近。
+Our birthdays are very close together. 我们的生日挨得很近。
+The audition drew closer. 试演日益临近。
+I was within 15 seconds of the guy in second place and closing on him. 我当时和第2名相距15秒，而且逐步向他接近。
+a close contest between the two parties 两党之间势均力敌的较量 
+Our team came a close second. 我们对以微弱差距屈居第二。
+The match is going to be close. 这将是一场势均力敌的比赛。
+close print 密集的印刷字体 
+They advanced in close formation. 他们排着密集的队形前进。
+to sit close together 紧挨着坐在一起 
+to follow close behind 紧跟在后面 
+She held him close. 她紧紧地抱着他。
+to close the gap between rich and poor 缩小贫富差距 
+The gap between the two teams is closing. 两队之间的差距正在缩小。
+There is a close connection between pain and tension. 疼痛和紧张之间有紧密的关联。 
+to close your eyes 闭上你的眼睛 
+My eyes closed. 我闭上了眼睛。
+He closed his hand over her. 他牢牢抓住她的手。
+to close the case 结案 
+to close an investigation 结束调查 
+to close an account 注销账户 
+The matter has closed. 此事已了结。
+The offer closes at the end of the week. 优惠将在本周末结束。
+at the close of the 20th century 在20世纪末 
+His life was drawing to a close. 他的生命正走向终点。
+to bring the meeting to a close 结束会议
+a close haircut 剪到齐根的头发 
+a close shave 刮剃干净
+close relatives 近亲
+The play closed after just three nights. 这部剧仅上映了三晚就停演了。
+to close the window, to close the curtains 关上窗户；拉上窗帘 
+I heard the door close. 我听到门关上了。
+Shops close only on Christmas. 商店只在圣诞日停业。
+The museum will be closed to the public for a month. 博物馆将对公众关闭一个月。
+Government troops closed the airport. 政府军临时关闭了机场。
+The government closed the border crossing. 政府封锁了那个边境通道。
+Tomorrow college officially closes for the vacation. 明天学院就正式放假了。
+That factory’s been closed down now. 那家工厂现在已经倒闭了。
+The hospital closed at the end of last year. 这家医院去年年底关闭了。
+The club was closed by the police. 那家俱乐部被警方查封了。
+The play closed after just three nights. 这部剧仅上演了三个晚上就停演了。
+to close the book 合上那本书 
+to close an umbrella 合上伞 
+There’s a close resemblance. 彼此之间有着极强的相似性。
+Her feeling for him is close to hatred. 她对他的感情近乎仇恨。
+The total is close to 35% of the salary. 总数接近薪水的35%。 
+a close friend 一位密友 
+She is very close to her father. 她和父亲很亲。
+They’re a very close family. 他们全家彼此亲密无间。
+his closest political adviser 与他关系最密切的政治顾问 
+The college has close links with many other institutions. 这所学院与许多其他机构有着密切的联系。
+He has kept in close contact with the victim’s family. 他与受害人的家属保持着密切的联系。
+adj. close (to sb/sth) 
+His hands were close to the stove. 他把手靠近炉子。
+He moved closer. 他靠得更近了。
+The bank is close to the hospital. 那家银行靠近这家医院。
+He was shot at close range. 他遭到了近距离枪击。
+Don’t come too close! 别靠得太近。
+I couldn’t get close enough to see. 我无法靠得很近去看清楚。
+closing prices 收盘价 
+Shares in the company closed at 280p. 该公司的股票收盘价为280便士。
+to close the book 合上那本书
+adj. 1 close (to sth) 
+She sounded close to tears. 她听起来就要哭了。
+The agreement is close. 协议就要达成了。
+He was close to death. 他就要死了。
+The new school is close to completion. 这座新学校就要竣工了。
+That was close--that car nearly hit me. 好险！那辆车差点儿撞上我。
+I caught the train in the end but it was close. 我最后总算赶上了那趟火车，但也够悬的。

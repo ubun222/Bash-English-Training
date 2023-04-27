@@ -1,0 +1,639 @@
+inference			推断
+summon				召唤，召集
+observe							注意到，观察，遵守，庆祝
+exotic					来自异国的，异常迷人的
+superior							上等的，更好的，上司
+single							仅一个的
+spectacle					精彩的表演，奇观
+equilibrium			均衡，平静，平衡
+soluble				可溶的，可解开的
+gale							大风
+crust				面包皮，硬层
+junction				会合处，交叉路口
+heap										堆，大量，倾注
+mourn							哀悼
+hound				猎狗，纠缠
+mutation				突变，转变
+mantle				壁炉台
+superfluous			多余的
+set						放置，设定，镶嵌，落下，一套，固定的
+insert							插入
+portray								画，描绘
+studio						制作公司
+ashamed							惭愧的
+arise								产生，起身，升起
+repel			击退，使厌恶，排斥
+flux				不断的变动
+raw								生的，未经处理的，无经验的，不公正的
+elapse			流逝
+diffuse				使...扩散，传播
+delicate								精美的，易损的，纤弱的，精密的
+\\\\\\\\
+
+n. [C] 推断得出的结果，即结论:
+n. [U] 推断、推理:
+inference |[ˈɪnfərəns]
+to draw/make inferences from the data 根据资料推论出结果 
+There were two inferences to be drawn from her letter. 由她的信可以得出两个结论。
+The clear inference is that the universe is expanding. 显然结论是宇宙在扩大。
+In the absence of detailed documentary evidence, we can only make inferences about Minoan religion. 由于没有详细的文献佐证，对于弥诺斯宗教我们只能作出一些推测。
+The value of data depends on our skill in drawing inferences from it. 数据的价值取决于我们从中作出推论的能力。
+inferences based on their answers to a number of set questions 根据他们对一些固定问题的回答而得出的推论
+If he is guilty then, by inference, so is his wife (= it is logical to think so, from the same evidence). 如果他有罪，那么由此可以推断他的妻子也同样有罪。
+It had an extremely tiny head and, by inference, a tiny brain. 它的头极小，由此推断其脑容量也非常小。
+
+vt. [正式] 吁求、请求、争取获得某事物:
+vt. ~ sb (to sth) [正式] 命令某人来见你:
+vt. ~ sth (up)（尤指在身处困境时）在内心深处唤起一种力量，如鼓起勇气、使出力气等:
+vt. [正式] 召集或召开一个正式会议:
+vt. [正式] 传唤（某人出庭）:
+summon |[ˈsʌmən]
+to summon assistance, to summon help, to summon reinforcements 请求援助；请求帮助；请求增援         
+In May 1688 he was urgently summoned to London. 1688年5月，他被紧急召往伦敦。
+She summoned the waiter. 她召唤服务员过来。
+He summoned a doctor and hurried over. 他叫了医生，然后匆忙赶了过来。
+Suddenly we were summoned to the interview room. 突然我们被叫进了面试的房间。
+She was duly summoned for an interview. 她获得正式通知去参加面试。
+She was summoned back to his office. 她被召回他的办公室。
+I was recently summoned for jury duty. 我最近被召来做陪审员。
+She was trying to summon up the courage to leave him. 当时她试图鼓起勇气离开他。
+It took her a full month to summon the courage to tell her mother. 她用了整整一个月才鼓足勇气告诉了妈妈。
+I couldn't even summon the energy to get out of bed. 我甚至连下床的力气都没有。
+He could hardly summon the strength to stand up. 他几乎连站起来的力气都没有了。
+She managed to summon up a smile. 她勉强挤出一丝笑容。
+to summon a meeting 召集会议               
+He was summoned to appear before the magistrates. 他被传唤在地方法院出庭。
+He has been summoned from New York to give evidence at the trial. 他被从纽约召来出庭作证。
+
+vt. [正式] 观察到，看到，注意到:
+vt.＆vi. [正式]（尤指为了解…而）仔细观察:
+vt. [正式] 遵守法律、规则、习俗等:
+vt. [正式] 庆祝节日、生日等。不常用:
+vt.＆vi. [正式] 说话，做出评论，评述。此义与comment难见差别，只是observe为正式用法:
+observe |[əb'zə:v]
+to observe a big spot on the surface of the planet 观察到那颗行星表面的一个大斑点 
+to have observed some changes 观察到一些变化 
+I observed a man walked into the room. 我看到一个人走进了那个房间。
+I observed that my book was on his desk. 我发现我的书在他的桌子上。
+to observe the planet 观测那颗行星 
+to observe the patient 观察那个病人 
+to observe his behaviour 观察他的行为 
+to observe the class 观摩课堂 
+You can learn a lot by simply observing. 仅仅通过观察就能学到很多东西。
+He was being observed from the window. 别人正透过窗户观察他。
+She stood there, quietly observing the domestic scene. 她站在那儿默默地看着家中的这一幕。
+to observe the rules 遵守规则 
+to observe the ceasefire 遵守该项停火协议 
+to observe three minutes’ silence 默哀三分钟 
+This procedure must be correctly observed. 必须正确遵守这一程序。
+to observe Christmas 过圣诞节
+The police observe that the criminals will be punished eventually by law. 警方表示犯罪分子终将受到法律的制裁。
+He observed that he would come. 他说他会来的。
+She correctly observed that there was very little difference between the two parties on domestic policies. 她恰如其分地指出两党在国内政策上鲜有分歧。
+‘You took your time,’ he observed coolly.“你不必着急。”他沉着地说。
+The only certainties in this world, as Benjamin Franklin famously observed, are death and taxes. 这个世界上确定无疑的事，如本杰明·富兰克林那句名言所说，唯有死亡和税收。
+‘It’s easy to say that,’ she observed to Michael, ‘but can you prove it!’ “那样说说很容易，”她对迈克尔说，“但是你能证明吗？”
+
+adj. 来自（或在）异国（尤指热带国家）的；因来自异国而显得令人兴奋或不寻常的，即异国情调的、异国风味的、奇异的:
+exotic |[ɪgˈzɒtɪk;美ɪgˈzɑ:tɪk]
+brightly-coloured exotic flowers 色彩鲜艳的异国花卉 
+exotic plants, exotic animal, exotic beast, exotic birds 异国植物；异国动物；异国的野兽；异国的鸟儿 
+exotic perfume, exotic spice 异国的香水；异国的香料 
+exotic species, exotic creature 异国物种；异国生物 
+exotic fruit, exotic food, exotic delicacy, exotic flavour 异国水果；异国食物；异国美食；异国风味 
+She travels to all kinds of exotic locations all over the world. 她走遍了全世界所有具有奇异风情的地方。
+She flits from one exotic location to another. 她辗转于异国他乡。            
+
+adj. superior (to sb)（在职位上）更高的:
+n. [C] 职位更高的一个人，即上级，上司:
+adj. [贬] 通过行为来表现出自己的优越感的，高傲的（即认为自己比别人好），相当于arrogant。比proud略常用:
+n. [C] 用于宗教团体领袖的头衔:
+adj. superior (to sb)（在级别、重要性上）更高的:
+n. [C] 级别、地位更高的一个人:
+adj.（尤用于广告）品质非常好的；比同类中的（或相似的）其他事物更好的，即出众的:
+adj. superior (to sb/sth) 在品质上比其他…更好的（或更强于…的）:
+superior |[sju:'pɪərɪə]
+my superior officer 我的上级军官 
+He’s my immediate superior. 他是我的顶头上司。
+I’m going to complain to your superiors. 我要去找你的上级投诉。
+a superior manner 神气活现的态度 
+He always looks so superior. 他总是显得那么有优越感。
+She felt (herself) superior to the other children. 她觉得自己比其他孩子优越。
+Mother Superior 修女会院长
+superior status 更高的地位 
+a superior court of law 上级法院
+your social superiors 社会地位比自己高的人
+superior apartments 高级公寓套房
+Liverpool were clearly the superior team. 利物浦队明显更胜一筹。
+The enemy won because of their superior numbers. 敌人由于在人数上占优而取胜。
+What is it that makes this technique superior? 这种技术的优越之处是什么？
+genetically, intellectually superior 基因上占优势；智力上占优势
+
+adj. 1 只作前置定语，只有一个的，即单一的、单个的:
+2 只作前置定语，用于强调特指某个人或事物:
+adj. 只作前置定语，仅供一个人使用的，即单人的:
+n. [C]（旅馆等的）单人房间:
+adj. 指人未婚或未有恋爱关系的，即单身的:
+n. [pl.] singles 可表示未婚或无恋爱伴侣者，即单身者:
+n. [U] singles 在体育运动（尤指网球运动）中可指（一场或一系列的）单打比赛:
+n. 1 [C] 板球中的一分打:
+2 [C] 棒球中的一垒打:
+n. [C]（常指流行音乐的）单曲；还可指刻录了单曲的磁带、唱片等:
+n. [C] [美] 一元纸币:
+adj. [英；英美还均可用one-way] 只作前置定语，（票等）单程的:
+n. [C] [英] 单程票:
+single |['sɪŋɡl]
+a single machine 单个的一台机器 
+single currency 单一货币 
+a single day 仅仅一天 
+every single day 每一天，天天 
+every single house 每一座房子 
+the single most important factor 最重要的一个因素
+a single room 单人房间 
+a single bed 单人床 
+It’s $50 for a single, and $80 for a double. 单人间50美元，双人间80美元。
+She is still single. 她仍然单身。
+a singles club 单身俱乐部 
+a party for singles 单身者聚会
+the men’s singles champion 男子单打冠军 
+singles final, singles match 单打决赛；单打比赛 
+singles player 单打选手 
+to play in the singles 参加单打比赛
+hit single 热门单曲 
+lead single 主打单曲 
+breakthrough single 成名单曲 
+dance, pop single 舞曲单曲；流行单曲 
+singles collection 单曲集 
+to release a new single 发布新的单曲
+the single fare 单程票价 
+How much is a single to London? 去伦敦的单程票多少钱？
+
+n. 1 [C, U] 精彩的表演；壮观的事件:
+2 [C] 壮观的景象:
+n. [sing.] 奇特的现象，意外的情况:
+n. [pl.] [正式] spectacles可指眼镜，相当于glasses:
+spectacle |[ˈspektəkl]
+The carnival parade was a magnificent spectacle. 狂欢节游行场面热烈，蔚为大观。
+94,000 people turned up for the spectacle. 94,000 人参加了这一盛大活动。
+a director passionate about music and spectacle 对音乐和盛大演出充满激情的指挥 
+The sunset was a stunning spectacle. 夕阳西斜，异常壮观。
+I remember the sad spectacle of her standing in her wedding dress, covered in mud. 我记得她穿着婚纱、满身泥污站在那儿的凄惨样。
+a pair of spectacles 一副眼镜 
+a spectacle case (= to put your glasses in) 眼镜盒 
+He looked at me over the tops of his spectacles. 他从眼镜框的上方看了看我。
+He peered at the waiter over his spectacles. 他从眼镜上方窥视那个服务员。
+thick spectacle frames 厚厚的眼镜框 
+She pushed her spectacles further up her nose and sighed. 她把眼镜又往鼻子上推了推，叹了口气。
+Her wire-framed spectacles were perched on the end of her nose. 她的金属框眼镜架在鼻尖上。
+
+Someone's equilibrium is their normal calm state of mind. 平静
+Equilibrium is a balance between several different influences or aspects of a situation. 平衡
+equilibrium |英 [,iːkwɪ'lɪbrɪəm; ,ekwɪ-]  美 [,ikwɪ'lɪbrɪəm]| n. 均衡；平静；保持平衡的能力/
+I paused in the hall to take three deep breaths to restore my equilibrium.我在那个大厅停下，深吸了3口气以恢复平静。
+Stocks seesawed ever lower until prices found some new level of equilibrium.股票进一步震荡下跌，直到找到某个新的平衡。
+
+
+adj. [正式]（一个问题）可解决的；可解的:
+adj. ~ (in sth) 可溶的:
+soluble |[ˈsɒljəbl;美ˈsɑ:l-]
+soluble aspirin 可溶性阿司匹林 
+It is a highly soluble gas. 这是一种高溶解性气体。
+Glucose is soluble in water. 葡萄糖可溶于水。
+Uranium is soluble in sea water. 铀可溶解于海水。
+The salt was easily soluble in water. 盐易溶于水。
+The red dye on the leather is water-soluble. 皮革上的这种红色染料可溶于水。
+fat-soluble vitamins 脂溶性的维生素      
+
+a very strong wind:风很大
+(on the Beaufort scale) a wind of force 8 (34–40 knots or 63–74 km/h).:（在博福特级）8级强风（40节或74公里/小时）。
+a storm at sea.:海上风暴。
+an outburst of laughter:一阵笑声
+gale |ɡeɪl| Noun/:大风,狂风
+I slept well despite the howling gales outside:尽管外面狂风呼啸，我还是睡得很好
+she collapsed into gales of laughter:她陷入狂笑中
+
+n. 1 [C, U] 面包皮:
+2 [C, usually sing.] 糕饼（尤指馅饼）的酥皮:
+n. [C] 地壳:
+n. [C, U]（尤指软物或液体上面或周围的）坚硬层、硬表面:
+n. [sing.] earn a ~ 谋生，尤指通过做不愿意做的工作来谋生:
+crust |[krʌst]
+bread crust 面包皮 
+sandwiches with the crusts cut off 切掉面包皮的三明治 
+We saved a few crusts of bread for the birds. 我们留下一些面包皮喂小鸟。
+pastry, pie, pizza crust 油酥糕饼皮；馅饼皮；比萨饼皮 
+Bake until the crust is golden. 把糕饼烤至外皮呈金黄色。
+Earthquakes leave scars in the earth's crust. 地震会在地壳上留下裂痕。
+Put the lid on properly, or a crust will form on the paints. 把盖子盖好，否则颜料表层会硬化。
+a thin crust of ice 一层薄冰 
+As the water evaporates, a crust of salt is left on the surface of the soil. 随着水分的蒸发，地面上留下了一层结晶盐。
+The mud had formed a thick crust on the surface of the road. 路面上结了一层又厚又硬的泥。
+In his early days, he would do almost anything to earn a crust from the sport. 早年为了能在体育界混口饭吃，他几乎什么都做。
+
+n. [C] 两条或多条电缆、河流或其它事物的接合点:
+n. [C] [尤英] [美通常用intersection] 两条或多条公路（或铁路）交叉的路口、汇合处、枢纽站:
+junction |[ˈdʒʌŋkʃn]
+a telephone junction box 电话分线盒       
+motorway junction（美国的）高速公路交叉口 
+road junction 道路交叉口 
+railway junction（英）铁路枢纽站 
+Turn off the motorway at junction 6. 在6号交叉口驶出高速公路。
+The college is on the Manchester road, by the junction with the A5. 学院在曼彻斯特路上，靠近与A5号公路的交叉口。
+Follow the road to a junction and turn left. 沿着这条路到交叉路口，然后左转。
+Leave the M1 at junction 25. 在25号交叉路口驶离1号高速公路。
+It was near the junction of City Road and Old Street. 那是在城市路与老街的交叉路口附近。
+
+an untidy collection of objects placed haphazardly on top of each other:一个杂乱无章的物体集合
+an amount of a particular loose substance:一定量的特定松散物质
+a large amount or number of:大量或数量
+an untidy or dilapidated place or vehicle:一个不整洁或破旧的地方或车辆
+a great deal:很多
+put (objects or a loose substance) in a heap:put（对象或松散的物质）在堆中
+load something copiously with:load大量的东西
+form a heap:
+direct a great deal of praise, abuse, criticism, etc. at (someone or something):direct对（某人或某事）的大量表扬、辱骂、批评等
+give someone or something (a great deal of praise, abuse, criticism, etc.):给予某人或某物（大量的赞美、辱骂、批评等）
+heap |hiːp| Adverb/Noun/Verb/:堆,堆积
+we have heaps of room:我们有很多房间
+they climbed back in the heap and headed home:他们爬回堆里回家
+‘How do you like Maggie?’ ‘I like you heaps better!’:“你喜欢玛吉吗？”“我更喜欢你！”
+she heaped logs on the fire:她把原木堆在火上
+he heaped his plate with rice:他在盘子里堆满了米饭
+clouds heaped higher in the west:clouds在西部堆积得更高
+she heaped praise on the public for its generosity as charity donations continued to pour in:she对公众的慷慨大加赞赏，慈善捐款不断涌入
+the film has been heaped with praise by critics and audiences alike:这部电影得到了评论家和观众的一致好评
+
+vt.＆vi. mourn (for sb/sth) 由于某人的离世而感到（或表现出）悲伤；因某事物不再存在或不再和以前相同而感到悲伤。相当于grieve for:
+mourn |[mɔ:n]
+He was still mourning his brother’s death. 他仍然在为哥哥的去世而悲伤。
+Today we mourn for all those who died in two world wars. 今天，我们向所有在两次世界大战中死难的人表示哀悼。
+They mourn the passing of a simpler way of life. 他们对逝去的较为淳朴的生活感到惋惜。
+She mourned for her lost childhood. 她为逝去的童年而伤感。   
+
+vt. 追踪、追逐某人（尤指为了从其身上得到…或向其问问题）:
+vt.（常指通过不断批评而）逼迫（某人辞职或离开某地）:
+vt. 纠缠某人（尤指为了从其身上得到…或向其问问题）:
+n. [C] 猎狗:
+hound |[haʊnd]
+They were hounded day and night by the press. 他们日夜遭到新闻界的跟踪。
+There is a general view around that he has been hounded out of office by the press. 人们普遍认为他不堪舆论压力被迫离职。
+Newcomers are constantly hounding them for advice. 新人总是一刻不停地缠着向他们讨教。
+hunting hound 猎犬 
+a pack of hounds 一群猎狗 
+We could hear the hounds barking at the fox. 我们可以听到猎狗正对着狐狸汪汪叫。
+The hounds picked up the scent of the fox. 猎狗嗅到了那只狐狸的气味。
+In this sport, hounds chase an artificial scent.在这项运动中，猎狗追踪的是一种人工臭迹。
+Days off were spent riding to hounds(= hunting with horses and dogs).（英）休息日尽骑着马带上猎狗打猎了。
+His chief interest in life is hunting with hounds. 他生活的最大爱好就是带着猎狗去打猎。
+
+n. [U, C]（形式或结构的）转变，改变:
+n. [U, C] [生物学] 生物的基因变异:
+mutation |[mju:ˈteɪʃn]
+vowel mutation（语言学）元音变化
+cells affected by mutation 受到突变影响的细胞 
+rare mutation 罕见的变异 
+cell, gene, genetic mutation 细胞变异；基因突变 
+The protein contained a mutation. 这种蛋白质有一个变异。
+The genetic material has suffered a mutation. 这种基因材料发生了突变。
+Mutations were introduced in the region using various techniques. 人们运用各种技术把变种引入这个地区。
+These cells carry a mutation affecting the prevention mechanism. 这些细胞携带有影响预防机制的变异。
+mutation rate 突变率      
+
+A mantle of something is a layer of it covering a surface, for example a layer of snow on the ground. 覆盖物; 幕; 罩
+If you take on the mantle of something such as a profession or an important job, you take on the responsibilities and duties which must be fulfilled by anyone who has this profession or job. (职业或工作的)责任; 职责
+mantle |英 ['mænt(ə)l]  美 ['mæntl]| n. 地幔；斗篷；覆盖物/vi. 覆盖；脸红/vt. 覆盖/n. (Mantle)人名；(英、意)曼特尔/
+The parks and squares looked grim under a mantle of soot and ash.在一层烟尘的笼罩下，这些公园和广场显得阴沉沉的。
+We have the rare opportunity to seize the mantle of national leadership.这次是我们担当国家领导职责的天赐良机。
+
+
+adj. 比需要或想要的还多的，即过剩的、多余的:
+superfluous |[su:ˈpɜ:fluəs;sju:-;美su:ˈpɜ:rf-]
+She gave him a look that made words superfluous. 她给他一个眼神就足够的，无需多说什么了。
+My presence at the afternoon's proceedings was superfluous. 我去参加下午的活动是多此一举。
+I rid myself of many superfluous belongings and habits that bothered me. 我把很多无用的物品都丢掉了，并且改掉了一些让我烦心的习惯。           
+
+vt. 常用被动式，指把戏剧、书籍或电影中的情节设定在某个背景下（如时间、地点等）:
+adj. 指把戏剧、书籍或电影中的情节设定在某个背景下（如时间、地点等）的，即以…为背景的:
+adj. 指观点或意见不太可能改变的，即固定的，固执的:
+vi. 指太阳或月亮落到地平线以下:
+vt. 1 将…置于某地或某位置:
+2 使…处于某种状态；使…开始:
+set B with A 常用被动式，指将宝石镶嵌到首饰上:
+adj. 被嵌入…表面的:
+set sb (to do sth) 给某人分配或布置任务、工作:
+2 设置陷阱:
+set to do sth 为某事或为做某事做好准备的:
+vt. 1 树立榜样或标准（以使其他人仿效该榜样或达到该标准）:
+2 设定目标:
+3 设定某个价值:
+vt. 常用被动式，指使脸上现出坚定的表情:
+n. [sing.] set of sth 指脸上或身体所做出的某一固定的表情或姿态，尤指坚定的表情或姿态:
+adj. 常作前置定语，指人的表情呆板的，不自然的:
+vt. 为湿头发固定发型（使头发在干了之后保持该发型）:
+n. [sing.] 头发的定型，做头发:
+vt. 1 设定钟表或机器（使其准备工作）:
+2 将钟表或其他装置调（或拨）到某一点或某一水平上:
+n. [C] 接收电视或广播信号的装置，如电视机，或收音机:
+vt. set a/the table 将餐具摆放到餐桌上（以准备吃饭）:
+adj. 只作前置定语，指餐馆的饭菜价格固定且选择范围有限的，即套（餐）的:
+vt. 常用被动式，指把电影中的情节设定在某个背景下（如时间、地点等）:
+adj. 指把电影中的情节设定在某个背景下（如时间、地点等）的，即以…为背景的:
+n. 1 [C] 电影、戏剧等的舞台布景:
+2 [C, U] 戏剧等的舞台（此时不常用），或电影的摄影场:
+vi. 变得坚硬，即凝固，凝结:
+n. [sing.] 变成固体或坚硬的状态，即凝固，凝结:
+n. [C] 指供移植的植物秧苗、插枝、球茎等:
+n. [C] 数学集合:
+n. 1 [C] 一组、一套或一副类似的事物:
+2 [C] 配套使用的一组物品，如玩游戏所用的物品:
+adj. 处于或位于某一位置的:
+n. [C] [有时贬] 拥有相同利益（或兴趣）且经常在一起交往的一群人:
+vt. [术语] 用机器或电脑等为书籍或报纸等排版（以供印刷）。是此义的一个简单用词:
+vt.＆vi. 为断了的骨头复位，接骨:
+n. [C] 在体育运动中，可指网球或排球比赛等的局，盘:
+vt. set sth (to sth) 为歌词（如诗歌或其他文字）谱曲或配乐:
+n. [C] 在流行音乐中可指在一场音乐会上由一个音乐人或一组乐手所表演的一组歌曲或乐曲:
+vt. 常用被动式，指把戏剧中的情节设定在某个背景下（如时间、地点等）:
+adj. 把戏剧中的情节设定在某个背景下（如时间、地点等）的，即以…为背景的:
+n. [C] [英] 学校中在某一学科上能力出众的一批学生:
+adj. [英] 指图书被指定用于学习某一门课程的:
+adj. 常作前置定语，指安排好的，确定的，固定的:
+vt. 安排、确定或决定:
+set to do sth 有可能做某事的；某事有可能发生或将要发生的:
+set |[set]
+The film is set in Paris in the 1920s. 这部电影以20世纪20年代的巴黎为背景。
+The film is set in a small Northeastern town. 这部电影是以东北部一个小城镇为背景的。
+set ideas 不变的思想 
+set opinions 不变的观点 
+She was set on going to the cinema. 她执意要去这家电影院。
+Her father is dead set against the marriage. 她父亲铁了心地反对这门亲事。
+The government is now set on increasing taxes. 政府现已下决心加税。
+The sun set behind the mountain. 太阳落到山后。
+to set the toy down on the floor 把玩具放到地板上 
+to set the evidence in front of him 把证据摆放在他面前 
+A cottage is set in the forest. 一个小木屋坐落在这片森林里。
+to set me thinking 引发我的思考 
+The house was set on fire. 那栋房屋被放火了。
+to set the machine in motion 启动机器 
+to set me at my ease 使我感到轻松 
+to set the prisoners free 将囚犯释放 
+3 set A in B 
+The necklace was set with a diamond. 这条项链上镶有一颗钻石。
+a gate set in a wall 砌在墙中的门
+vt. 1 set sth (for sb) 
+to set him a difficult task 给他布置艰难的任务 
+to set a trap for him 给他设置一个陷阱
+adj. set for sth 
+Be set to leave by 8 o’clock. 做好准备，最晚8点出发。
+Get set ... Go! 预备——跑！
+Are you all set? Let’s go! 你们都准备好了吗？咱们走！
+to set a high standard 设定一个高标准 
+to set a good example 树立一个好榜样 
+to set new record 创造新的纪录 
+to set a precedent 开先例 
+to set a new fashion 开创一种新时尚 
+I’ve set myself clear objectives. 我已经给自己设定了明确的目标。
+She sets a high value on autonomy. 她高度重视自主权。
+His jaw was set in a determined manner. 他下巴紧绷，一副绝不动摇的表情。
+the firm set of his face 他脸上那副坚定的表情 
+a set smile 僵硬的笑容 
+Her face took on a set expression. 她表情凝滞。
+She had her hair washed and set. 她去洗了头发，做了发型。
+A set cost $5. 做发型5美元。
+I set my alarm for 6 o’clock. 我把闹钟设定在6点钟。
+to set the watch by the TV 对照电视来调表 
+to set the camera 设定相机 
+to set the volume high 把音量调大
+in front of the television set 在电视机前（常指看电视）
+The table was set for eight guests. 桌子上摆放了八位客人的餐具。
+a set meal 一份套餐 
+a set lunch 午餐套餐
+The film is set in Paris in the 1920s. 这部电影以20世纪20年代的巴黎为背景。
+The film is set in a small Northeastern town. 这部电影是以东北部一个小镇为背景的。
+film（尤英）, movie（尤美）, stage, studio set 电影场景；舞台布景；摄影棚布景 
+set design 布景设计 
+Off set, the two actors became close friends. 这两位演员在台下成了好朋友。
+The crew had a lot of fun on set. 演职人员在拍摄现场工作很愉快。
+the set glue 凝固的胶水 
+The concrete had set hard. 混凝土已经凝固得很硬了。
+willow sets 柳树插枝
+set theory 集合理论
+a set of laws 一套法律 
+a set of rules 一套规则 
+a set of conditions 一组条件 
+a set of standards 一套标准 
+a set of challenges, a set of issues 一系列挑战；一系列问题 
+a set of data 一组数据 
+a set of characteristics 一组特征。
+a completely different skill set 一套完全不同的技能 
+chemistry, chess set 一套化学用具；一副国际象棋 
+a set of clothes 一套衣服 
+a set of furniture 一套家具 
+dinner, tea set 一套餐具；一套茶具 
+to be bought as a set 成套购买 
+a set of novels 一套小说 
+data set 数据集 
+a computer’s instruction set 计算机的指令集
+The park is set in the centre of the city. 该公园位于这座城市的中心位置。
+A cottage is set in the forest. 一个小木屋坐落在这片森林里。
+to have close-set eyes 两眼靠得很近
+a literary set 文学圈子 
+the smart set 上层社会
+to set the broken leg 接上腿上的断骨
+in the first set 在首盘比赛中 
+set point 盘点 
+Nadal won in straight sets (= his opponent won none). 纳达尔一盘未失，赢得比赛。
+to set the poem to music 为那首诗谱曲
+to be in the top set for physics 物理成绩名列前茅
+a set book 指定用书
+a set number of computers 固定数目的电脑 
+to follow a set pattern 遵循一种固定的模式 
+a set period of training 一段固定的培训期 
+He was given a set job to do. 分配给他的工作是预先确定好的。
+to set a deadline of this Friday 设定本周五为最后期限 
+to set a date for the wedding 确定婚期 
+to set strict limits on smoking in public places 为在公共场合吸烟设定严格的限制
+adj. set for sth 
+He was set to become one of the greatest tennis players of the world. 他有可能成为世界上最伟大的网球运动员之一。
+Prices look set to rise again. 看来价格还要上涨。
+He looks set for victory. 看样子他能赢。
+
+vt. insert sth (into sth) 将…添加到一段文字中:
+vt. insert sth (in/into/between sth) 将某事物放入另一事物中，或将其放入两个事物之间，如插入，嵌入等:
+n. [C] insert (in sth) 被放入（或被添加入）其他事物中的一个事物:
+vt. insert sth (into sth) 将…添加到一段文字或图片中:
+n. [C] insert (in sth) 书籍（或报刊、杂志）中额外添加的一部分（尤指广告附加页）:
+insert |[ɪn'sə:t]
+Position the cursor where you want to insert a word. 把光标移到你想插入字词的地方。
+Insert coins into the slot. 把硬币放进投币口。
+They inserted a tube in his mouth to help him breathe. 他们在他嘴里插了根导管帮助他呼吸。
+Fine needles are gently inserted into the patient’s skin. 尖细的针头轻轻扎进病人的皮肤。
+These inserts fit inside any style of shoe. 这些鞋垫适合任何式样的鞋。
+to insert a word, to insert a paragraph 插入一个字词；插入一个段落 
+The artist digitally inserted himself into the picture. 这位艺术家用数字的方式把自己的形象插入这张图中。
+an 8-page insert on the new car models 附加的8页新款汽车广告
+
+vt. 在一幅画中展示某人或某事物；在一篇文章中描述某人或某事物。如描绘或描写:
+vt. ~ sb/sth (as sb/sth) 将…描绘成…（尤指描绘得不全面或不准确）。如表现、刻画:
+vt.（在电影中）扮演某个角色:
+vt. 在一篇文章中描述某人或某事物:
+vt. ~ sb/sth (as sb/sth) 将…描绘成…（尤指描绘得不全面或不准确）:
+vt. 在一幅画中展示某人或某事物。如描绘或描写:
+vt.（在电影中）扮演某个角色:
+portray |[pɔ:ˈtreɪ;美pɔ:rˈt-]
+the landscape as portrayed by painters such as Claude and Poussin 克劳德和普桑等画家所描绘的风景 
+The museum collection vividly portrays the heritage of 200 years of canals. 博物馆的藏品生动地再现了运河200年的历史。
+this northern novelist, who accurately portrays provincial domestic life. 这位准确描述外省家庭生活的北方小说家 
+an incident that graphically portrays the dangers associated with this sport 形象地反映该项体育运动存在危险的事件 
+Throughout the trial, he portrayed himself as the victim. 在审讯过程中，他始终把自己说成是受害者。
+She says the programme portrayed her as a 'lady of easy virtue'. 她说这个节目把她刻画成了一个“水性杨花的女人”。
+complaints about the way women are portrayed in adverts 投诉在广告中如此刻画女性
+In 1975 he portrayed the king in a Los Angeles revival of 'Camelot'. 他1975年在洛杉矶重新上演的剧目《卡米洛》中扮演国王。
+this northern novelist, who accurately portrays provincial domestic life. 这位准确描述外省家庭生活的北方小说家 
+Throughout the trial, he portrayed himself as the victim. 在审讯过程中，他始终把自己说成是受害者。
+the landscape as portrayed by painters such as Claude and Poussin 克劳德和普桑等画家所描绘的风景 
+The museum collection vividly portrays the heritage of 200 years of canals. 博物馆的藏品生动地再现了运河200年的历史。
+an incident that graphically portrays the dangers associated with this sport 形象地反映该项体育运动存在危险的事件
+Her father will be portrayed by Sean Connery. 肖恩·康纳利将饰演她的父亲。
+the busty and rumbustious Mrs Hall, excellently portrayed by Toni Palmer 由托妮·帕默精彩演绎的胸部丰满、吵吵嚷嚷的霍尔太太
+
+n. 1 [C] 电影的摄影棚:
+2 [C] 电影公司或制片厂:
+n. [C] 广播或电视节目的演播室，音乐的录音棚:
+n. [C] 艺术家的工作室:
+n. [C] 舞蹈的练功房:
+n. [C] 单间公寓（带厨房和卫生间）:
+studio |['stju:dɪəʊ]
+film studio 电影制片厂 
+a major Hollywood studio 好莱坞一家大型电影公司工作 
+studio executive, studio head 电影公司高管
+broadcast, production, radio, sound, television studio 播音室；制作室；电台直播间；录音棚；电视演播室 
+music studio 音乐工作室 
+studio work 录制工作 
+a studio audience for a television sitcom 情景喜剧录制现场的观众
+art, artist’s, design, photographer’s, photographic, photography, sculptor’s studio 画室；艺术工作室；设计工作室；摄影工作室；照相馆；雕塑家的工作室 
+home studio 家庭工作室 
+private studio（尤美）私人工作室
+dance studio 舞蹈练功房
+studio flat（英）, studio apartment（美）单间公寓
+
+ashamed (to be sth) 对某人或某事（如自己做过的某事）表示惭愧、羞愧或尴尬:
+2 ashamed to do sth 因惭愧或尴尬而不愿去做某事，即羞于去做某事:
+ashamed |[ə'ʃeɪmd]
+adj. 1 ashamed (of sth/sb/yourself) 
+ashamed (that ...) 
+She was ashamed of what she had done. 她为自己的所作所为感到惭愧。
+I’ve done nothing to be ashamed about. 我没有做任何亏心事。
+I feel almost ashamed that I’ve been so lucky. 真有点不好意思，我太幸运了。
+I’m ashamed to say that I lied to her. 我真不好意思说我向她撒了谎。
+I cried at the end and I’m not ashamed to admit it. 最后我哭了，我并不耻于承认哭过。
+
+vi. [旧时或文学] 站起来（或称起立，起身）:
+vi. [更正式] arise (out of/from sth) 由某一情况所引起，或因某一情况而产生:
+vi. 1 [更正式]（尤指一个问题或困境）发生；产生；出现，相当于occur:
+2 [正式] 开始存在或发展，即出现；产生；开始发展:
+3 [文学]（一座山、高大建筑物等）随着人的走近而逐渐显现在眼前:
+vi. [旧时或文学] 起床:
+vi. [旧时]（为某事）群起抗议、反对或群起斗争:
+arise |[ə'raɪz]
+injuries arising out of a road accident 道路交通事故造成的伤害 
+Violence typically arises out of anger. 暴力通常是由怒气引起的。
+Some learning difficulties arise from the way children are taught. 一些学习障碍源于对孩子的教育方式。
+A problem has arisen. 出现了问题。 
+A new crisis has arisen. 新危机已经出现。
+We keep them informed of any changes as they arise. 如有任何变化，我们随时通知他们。
+Children should be disciplined when the need arises. 必要时孩子应该受到管教。
+A storm arose during the night. 夜间暴风雨大作。
+Several new industries arose in the town. 城里出现了好几种新行业。
+He arose at dawn. 他黎明即起。
+The peasants arose against their masters. 农民奋起反抗奴役他们的人。
+
+repelled 厌恶的; 反感的
+If something repels you, you find it horrible and disgusting. 使厌恶; 使反感
+When an army repels an attack, they successfully fight and drive back soldiers from another army who have attacked them. 击退; 打退
+repel |英 [rɪ'pel]  美 [rɪ'pɛl]| vt. 击退；抵制；使厌恶；使不愉快/
+She was very striking but in some way I felt repelled.她非常吸引人，但是我觉得有些反感。
+...a violent excitement that frightened and repelled her.…使她害怕和厌恶的一次暴力骚动。
+They have fifty thousand troops along the border ready to repel any attack.他们沿边界有5万军队，随时准备击退任何进攻。
+
+
+If something is in a state of flux, it is constantly changing. 不断的变动
+flux |英 [flʌks]  美 [flʌks]| n. [流][机] 流量；变迁；不稳定；流出/vt. 使熔融；用焊剂处理/vi. 熔化；流出/n. (Flux)人名；(德)弗卢克斯；(英)弗勒克斯/
+Education remains in a state of flux which will take some time to settle down.教育处于不断的变化中，需要一段时间才能稳定下来。
+
+
+adj.（描述）诚实的、直接的，且有时令人震惊的:
+adj.（语言）粗鲁的:
+adj. 常用于名词前，（人）对于一份工作或一项活动来说生疏并因此而没有经验或技能的:
+adj. 1 常用于名词前，（材料）处于自然状态的，未经改变（或使用、制成其他东西）的:
+2 常用于名词前，（信息）未经处理（因而不便于使用和理解）的，可称为原始的:
+3 常用于名词前，（情感或品质）有力的且自然的，未经控制或训练的，如粗犷的:
+adj.（天气）非常寒冷的，如严寒的:
+adj.（食物）生的，未烹制的:
+adj.（身体部位）由于皮肤损伤而红肿且疼痛的:
+raw |[rɔ:]
+a raw portrayal of working-class life 工人阶级生活的真实写照 
+raw language (= containing many sexual details)（英）粗鲁的语言
+raw language（英）粗鲁的语言
+a raw beginner 没有经验的新手 
+raw recruits (= for example, in the army) 未经训练的新兵
+raw sugar 原糖 
+raw data 原始数据 
+songs full of raw emotion 充满豪放情感的歌曲 
+raw talent 天生的才能
+a raw north wind 寒冷的北风 
+a wet raw winter 寒冷潮湿的冬天
+raw meat 生肉 
+These fish are often eaten raw. 这些鱼常用来生吃。
+There were raw patches on her feet where the shoes had rubbed. 她的双脚被鞋子磨破了好几块皮。
+
+When time elapses, it passes. (时间) 流逝
+elapse |英 [ɪ'læps]  美 [ɪ'læps]| vi. 消逝；时间过去/n. 流逝；时间的过去/
+Forty-eight hours have elapsed since his arrest.他被捕后48小时已经过去了。
+
+
+diffusion 扩散
+To diffuse or be diffused through something means to move and spread through it. 扩散
+If something diffuses light, it causes the light to spread weakly in different directions. 使 (光线) 漫射
+To diffuse a feeling, especially an undesirable one, means to cause it to weaken and lose its power to affect people. 缓解; 消除
+diffusion (对知识、消息等的) 传播; 散布
+If something such as knowledge or information is diffused, or if it diffuses somewhere, it is made known over a wide area or to a lot of people. 传播 (知识、消息等); 散布
+diffuse |英 [dɪ'fjuːz]  美 [dɪ'fjus]| adj. 弥漫的；散开的/vt. 扩散；传播；漫射/vi. 传播；四散/
+There are data on the rates of diffusion of molecules.有一些关于分子的扩散速率的数据。
+It allows nicotine to diffuse slowly and steadily into the bloodstream.它使尼古丁缓慢、稳步地扩散到血液当中。
+Diffusing a light also reduces its power.使光线漫射也会减弱其能量。
+The presidents will meet to try and diffuse the tensions that threaten to reignite the conflict.总统们将举行会晤以试图缓解可能重新引发冲突的紧张局面。
+...the development and diffusion of ideas.…思想的发展和传播。
+...to diffuse new ideas obtained from elsewhere.…传播从别处获得的新思想。
+Over time, however, the technology is diffused and adopted by other countries.然而，随着时间的推移，这项技术在其它国家得以传播并使用。
+
+
+adj. 小，但拥有漂亮的形状或外观的，即小巧玲珑的:
+adj. 1 以一种非常精细或细致的方式被制作或被形成的，如精密的，精细的，精致的:
+2 表现出（或需要）熟练的技巧（细心、或小心处理）的。程度较深:
+adj.（气味）轻且令人愉悦的，不浓烈的，如清香的:
+adj.（颜色）轻且令人愉悦的，不浓烈的，如柔和的:
+adj. 易损的，易碎的，脆弱的，相当于fragile（二者无明显区别，一般可通用。但表示关系、形势或情感“脆弱”时，一般用fragile）:
+adj.（味道）轻且令人愉悦的，不浓烈的，如清淡的，相当于subtle:
+adj.（气味）轻且令人愉悦的，不浓烈的，如清淡的:
+adj.（人）不强壮且容易生病的，即虚弱的。也强调身体的脆弱性，不太如fragile常用:
+delicate |['delɪkɪt]
+his delicate hands 他纤细的手 
+Her bones felt as delicate as a bird’s. 她的骨头摸上去像小鸟的骨头一样纤细。
+The glasses looked very delicate. 这幅眼镜看上去很精致。
+the delicate mechanisms of a clock 钟的精密机件 
+I admired your delicate handling of the situation. 我赞赏你应付这种局面的娴熟技巧。
+a delicate problem 微妙的问题 
+delicate surgical operation 精细的外科手术 
+a delicate subject 敏感的话题 
+a politically delicate situation 微妙的政治形势
+delicate fragrance 清新的芳香
+a river scene painted in delicate watercolours 用柔和的水彩画的河景
+delicate china teacups 易碎的瓷茶杯 
+the most delicate organs of the body 身体上最脆弱的器官 
+delicate skin 娇嫩的皮肤 
+the delicate ecological balance 脆弱的生态平衡 
+delicate fabrics 精细的织物
+delicate flavor 鲜美的味道
+delicate flavor 鲜美的味道
+delicate child, delicate constitution 纤弱的孩子；纤弱的体质

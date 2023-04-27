@@ -1,0 +1,607 @@
+highlight							最精彩的部分
+formidable					难克服的，令人钦佩的
+verbal						口头的，动词的
+menu								菜单
+accessory					附件，装饰品，从犯
+legend						传说，铭文
+assumption						假定，获得，承担
+pronounce							发...的音，宣布，宣判
+continue						持续，继续，延伸
+perceive					察觉，把...看作
+proposition					主张，计划，提议，任务
+be susceptible to				容易感染，容易遭受
+be susceptible of				容许
+obsolete					淘汰的，过期的
+invisible					看不见的，隐藏的
+daylight							日光
+create						创造，引起，发脾气
+cathedral								总教堂
+centigrade						摄氏的
+levy						税，征收
+catalog					目录，一系列
+married						已婚的，婚姻的
+political							政治的
+band						乐队，波段，带状物，戒指，分类
+ascertain					查明
+accuracy						精确
+inform							通知
+opposite								对立面，对面的，相反的
+precede				先于，地位高于
+preceding			在前的
+hero				英雄，男主角
+postman									邮递员
+\\\\\\\\
+
+vt. 将（文本的某部分）用彩笔做标记；将（计算机屏幕的某区域）做高亮标记（使其更醒目）:
+vt. 挑染（将部分头发染成浅色）:
+n. [pl.] highlights 挑染的头发；（头发经阳光照射后产生强光效果的）浅色部分:
+n. [pl.] highlights [术语]（图画的）强光部分:
+n. [pl.] highlights [术语]（照片的）强光部分:
+vt. 强调、凸显:
+n. [C] 最好（或最精彩、最激动人心）的部分:
+highlight |[ˈhaɪlaɪt]
+the relevant maps with the route highlighted in yellow 用黄色荧光笔标出路线的相关地图 
+I've highlighted the important passages in yellow. 我用黄色标出了重要段落。
+Highlight the chosen area by clicking and holding down the left mouse button. 点击并摁住鼠标左键将所选区域高亮显示。
+The report highlights the major problems facing society today. 报告特别强调了当今社会所面临的主要问题。
+Last year Collins wrote a moving ballad which highlighted the plight of the homeless. 去年，柯林斯写了一首动人的抒情歌曲，突出描绘了无家可归者的苦境。
+Once again, the 'Free Press' prefers not to highlight these facts. “自由新闻”组织再次故意不去突出强调这些事实。
+These figures clearly highlight the difference in world living standards. 这些数据凸显出世界各地生活水平的差异。
+The needs of these children were dramatically highlighted by the Action Group. 行动组令人印象深刻地凸显出这些孩子的各种需要。
+The talks merely highlighted the great gulf in understanding between the two sides. 数次会谈仅仅凸显出双方的严重分歧。
+The incident has sadly only served to highlight the differences within the party. 令人痛心的是，这一事件只是凸显了政党内部存在的种种分歧。
+The real highlight of the trip for me was the visit to the Tower of London. 对我来说，这次旅行中最有趣的是伦敦塔之行。
+personal highlight 个人生活中最闪亮的片段 
+comic, football, musical, sporting（英）, sports（美）highlight 喜剧集锦；足球集锦；音乐集锦；体育集锦 
+career highlight 职业生涯中的闪亮之处 
+edited highlights（英）, recorded highlights（英）, video highlights 剪辑过的精彩片段；录制的精彩片段；视频集锦 
+Recorded highlights of the match will be shown later tonight. 比赛的精彩录像片段将会在今晚晚些时候播出。
+a match that is likely to prove one of the highlights of the tournament 可能是本次联赛中最精彩的比赛之一 
+streamed video highlights from today's news 今日新闻要点的流视频 
+The highlight of the week was Saturday's firework display. 本周的亮点是星期六的焰火。
+The highlight of my day used to be cooking Meg a meal when she came in from work. 过去，我一天中最有意思的事就是在梅格下班回到家时为她做顿饭。
+
+adj.（人、事物或情况）（由于太强大，或太令人印象深刻，或由于看似很困难而）可怕的（有时让人尊敬的，此事可称为令人敬畏的）:
+adj.（人、事物、情况、困难、任务等）可怕的、令人敬畏的；难对付的；艰巨的:
+formidable |[ˈfɔ:mɪdəbl;fəˈmɪd-;美ˈfɔ:rm-;fərˈm-]
+In debate he was a formidable opponent. 在辩论中他是位难应付的对手。
+She has a formidable list of qualifications. 她有一长串令人敬畏的资历。
+Marsalis has a formidable reputation in both jazz and classical music. 马萨利斯在爵士乐和古典音乐领域都有极高的声望。
+The two players together make a formidable combination. 这两个队员配对儿，难以对付。
+The task was a formidable one. 这任务非常艰巨。
+The task looks formidable. 这任务看起来很艰难。
+They had to overcome formidable obstacles. 他们得克服重重障碍。
+Men found her formidable. 男人们觉得她很可怕。
+She has a formidable list of qualifications. 她有一长串令人敬畏的资历。
+a formidable competition record 令人生畏的比赛记录 
+formidable talent 令人敬畏的天才 
+She has a formidable intellect. 他有令人生畏的才智。
+Marsalis has a formidable reputation in both jazz and classical music. 马萨利斯在爵士乐和古典音乐领域都有极高的声望。
+He had a formidable stage presence. 他台风霸气。
+The customer is faced with a formidable array of products. 顾客面对数量大得惊人的产品。
+formidable force 可怕的力量 
+formidable bulk 可怕的大家伙 
+In debate he was a formidable opponent. 在辩论中他是位难应付的对手。
+The two players together make a formidable combination. 这两个队员配对儿，难以对付。
+formidable personality 难对付的性格 
+formidable enemy 难对付的敌人 
+formidable warrior 难对付的勇士 
+formidable fortress 坚固的要塞 
+They had to overcome formidable obstacles. 他们得克服重重障碍。
+a formidable barrier to communication 沟通的巨大障碍 
+The task was a formidable one. 这任务非常艰巨。
+We have a formidable task ahead of us. 我们面临着一项艰巨的任务。
+
+In grammar, verbal means relating to a verb. 动词的
+You use verbal to indicate that something is connected with words and the use of words. 词语的; 文字的
+verbally 口头地
+You use verbal to indicate that something is expressed in speech rather than in writing or action. 口头的
+verbal |英 ['vɜːb(ə)l]  美 ['vɝbl]| adj. 口头的；言语的；动词的；照字面的/n. 动词的非谓语形式/
+...a verbal noun.…一个动名词。
+The test has scores for verbal skills, mathematical skills, and abstract reasoning skills.该项测试对文字表达技能、数学技能和抽象推理技能进行记分。
+Dave drank heavily and became verbally abusive.戴夫喝多了，嘴里脏话连篇。
+They were jostled and subjected to a torrent of verbal abuse.他们被推来搡去，并受到了潮水般的辱骂。
+
+
+n. [C]（餐馆等的）菜单:
+n. [C] 饭菜:
+n. [C] 计算机屏幕上显示的（功能选择）菜单，选项:
+menu |['menju:]
+special menu 特色菜单 
+set menu 套餐菜单 
+lunch menu 午餐菜单 
+dessert menu 甜点单 
+drinks menu 酒水单 
+May we have the menu? 我们可以看一下菜单吗？
+What’s on the menu this evening? 今晚有些什么菜？ 
+Try out the menu on a few friends. 请几个朋友来尝尝这道菜。
+Passengers are offered a daily choice of menu. 乘客可以选择每天的饭菜。
+edit, help menu 编辑菜单；帮助菜单 
+a pull-down menu 下拉式菜单 
+main menu 主菜单 
+menu item 菜单项 
+menu interface 菜单界面
+
+adj. [术语] 辅助的、次要的，如副的:
+n. [usually pl.] 穿着的或携带的配饰（用以和衣服搭配），如皮带、围巾、包等:
+n. [usually pl.] 机器设备等的附件、配件；起装饰作用的附属物:
+n. [C] [法律] ~ (to sth) 罪犯的从犯、同谋、帮凶:
+accessory |[əkˈsesəri]
+the accessory muscles of respiration 副呼吸肌 
+Forster established the essentiality of minerals as accessory food factors required for maintaining life. 福斯特证实了矿物质作为辅助食物因子在维持生命方面的重要性。
+optional accessory 自选配件 
+fashionable, stylish accessory 时尚饰品；时髦的饰品 
+This silk scarf is the perfect accessory for stylish summer evenings. 这条丝巾是时尚夏夜的理想配饰。
+fashion, hair accessory 时装饰品；发饰 
+travel accessory 旅游时的附带用品
+essential, must-have accessory 必不可少的附件；必备的配件 
+car accessory 汽车配件 
+bicycle accessories 自行车附件 
+a range of furnishings and accessories for the home 各种各样的家居装饰物及配件 
+an exclusive range of hand-made bedroom and bathroom accessories 独家经营的一系列手工卧室和浴室配件
+He was charged with being an accessory to murder. 他被控为谋杀罪的从犯。
+She was charged with being an accessory to the embezzlement of funds. 她被指控为这起挪用公款案的从犯。
+an accessory before/after the fact(= a person who knows about a crime before/after it was committed and protects the criminal）（法律）事前/事后从犯 
+If you were tying to the police, then you have been an accessory after the fact for all these years. 你若对警察撒了谎，那么你这些年来就一直在犯事后包庇罪。
+
+n. [C]（尤指某领域中的）传奇性的人物:
+n. [C] [术语] 地图（或书中图表）的解释:
+n. [C, U]（可真可假的）传奇故事、传说（可以发生在过去，也可以发生在现在）:
+n. [C] [正式]（标志、徽记、硬币等物品上的）铭文:
+legend |[ˈledʒənd]
+She was a legend in her own lifetime. 她在世的时候就是一个传奇人物。
+living legend 活生生的传奇人物 o movie stars who become living legends 成为活传奇的影星 
+basketball, music, rock, screen legend 篮球界的传奇；音乐传奇；摇滚乐的传奇人物；银幕传奇 
+Hollywood legend 好莱坞的传奇
+old legend 古老的传说 
+Greek legend 希腊传说 
+the legend of Robin Hood 罗宾汉的传奇故事 
+the heroes of Greek legend 希腊传说中的英雄 
+the legends of ancient Greece 古希腊传说 
+Legend has it that the lake was formed by the tears of a god. 据传说这个湖是一位神仙的眼泪积聚而成的。
+The incident has since become a family legend. 此事自此成为了家族传奇。
+His frequent brushes with death are the stuff of legend among the press. 他频繁地与死神擦肩而过，成了报章杂志的热门猛料。
+The story of how she was rescued has already passed into legend. 她被救的经历已经成了传奇故事。
+He told us the legend of the ghostly horseman. 他给我们讲幽灵骑士的传说。
+The legend of his supernatural origins lives on. 他不是肉体凡胎的传说仍在流传。
+Legend says that the forest is cursed. 传说那是一片受了诅咒的森林。
+According to ancient legend, the river is a goddess. 据古代传说，这条河是位女神。
+There have always been stories of human giants in Celtic legend and mythology. 凯尔特神话传说中一直都有巨人的故事。
+legends about the Vikings关于维京人的传说 
+The story is part of the ancient legend of King Arthur.这个故事是亚瑟王的古老传说的一部分。
+Legend has it that the Bridge of Sighs got its name from the cries of prisoners being led across it.传说叹息桥的名字源于囚犯过桥时发出的叹息声。
+the myths and legends of Mexico 墨西哥神话传说 
+The island has long been the subject of legend. 这座岛屿长期以来一直是传说的主题。
+
+n. [C] 假设性的认为:
+n. [C, U] [正式] assumption of sth（责任的）承担:
+n. [C]（在没有证据的前提下做出的）假设、假定:
+n. [C, U] [正式] assumption of sth（权力的）开始拥有，即取得:
+assumption |[ə'sʌmpʃn]
+There is an underlying assumption that the unemployed are reluctant to work. 人们都下意识地认为失业的人不愿意工作。
+We need to challenge some of the basic assumptions of Western philosophy. 我们有必要向西方哲学的某些基本假设提出质疑。
+Dr Subroto questioned the scientific assumption on which the global warming theory is based. 苏布罗托博士质疑全球变暖理论所依据的科学假设。
+Your argument is based on a set of questionable assumptions. 你的论证建立在一套有问题的假设上。
+the assumptions underlying their beliefs 构成他们信仰的基础的种种假设 
+Lots of evidence supports this assumption. 许多证据支持该假设。
+We are working on the assumption that the techniques are safe. 我们是在假定这些技术安全可靠的前提下工作的。
+It was impossible to make assumptions about people's reactions. 臆断人们的反应是不可能的。
+His actions were based on a false assumption. 他的行为基于错误的设想。
+They have taken a wrong turning in their assumption that all men and women think alike. 他们错误地设想所有男女均见解一致。
+There is an underlying assumption that the unemployed are reluctant to work. 人们都下意识地认为失业的人不愿意工作。
+shared assumptions between teachers and parents 老师和家长共同的假设 
+She's always making assumptions about how much money people have. 她总在猜人们有多少钱。
+I set the table for eight people, on the assumption that Jo would come. 我假定乔也会来，所以准备了八个人的餐具。
+We are working on the assumption that everyone invited will turn up. 我们假定了每一个人都会应邀出席并正就此做出安排。
+assumptions about how women should behave 关于女性应如何行事的种种假设
+The government have retained the support which greeted their assumption of power last March. 自从在刚过去的三月掌权以来，政府的支持率依旧未减。
+their assumption of control 他们的取得控制
+
+vt.（正式、官方或公开地）宣布或发表意见（此时与announce和declare几无差别），一般不太用于日常生活中的非正式场合（而announce和declare则可表示非正式场合中“正式宣布”）:
+vt. 发一个字词或字母的音，即发音。是此义的常规用词:
+pronounce |[prə'naʊns]
+He pronounced the country to be in a state of war. 他宣布全国进入战争状态。
+The committee has pronounced in favour/favor of the merger. 委员会已表示支持合并。
+The judge will pronounce sentence today. 法官将于今天宣判。
+She pronounced him the winner of the competition. 她宣布他是竞赛的优胜者。
+I now pronounce you man and wife. 我现在正式宣布你们结为夫妻。
+She was pronounced dead on arrival at the hospital. 到达医院时她被宣告已经死亡。
+to pronounce an opinion 发表意见 
+Reality TV was officially pronounced dead by the critics. 评论界正式宣布真人秀没有生命力。
+He pronounced himself delighted with the judge’s decision. 他宣布自己对法官的判决感到高兴。
+Very few people can pronounce my name correctly. 很少有人能把我的名字念正确。
+The ‘b’ in lamb is not pronounced. lamb中的b不发音。
+
+vi. continue (as sth) 仍然在某一职位上，即留任:
+vi. 朝相同的方向走去（或移动）:
+vt.＆vi. 1 保持存在或发生（而不停止），即继续存在、继续发生。是“继续”的常规用词:
+2 continue (with sth) 继续做某事（而不停止）:
+to continue with the project 继续做这个项目 3（停顿一段时间后）开始或再次开始，即继续，相当于resume:
+vi. continue (as sth) 仍然在某一职位上或条件中，即留任、维持原状:
+vi.（停顿后）再次开始说，即继续说、接着说:
+vi. 朝相同的方向延伸:
+continue |[kən'tɪnju:]
+I want you to continue as project manager. 我要你留任项目经理。
+She will continue in her present job until a replacement can be found. 在找到替换人员以前，她将继续做她目前的工作。
+He continued on his way. 他继续走他的路。
+The exhibition continues until 25 July. 展览要持续到7月25日。
+to continue for three months 持续三个月 
+The rain continued to fall all afternoon. 这场雨整整下了一下午。
+She wanted to continue working until she was 60. 她想要继续工作到 60 岁。
+The story continues in our next issue. 这篇故事我们将在下一期里继续刊载。
+I want you to continue as project manager. 我要你留任项目经理。
+Please continue--I didn’t mean to interrupt. 请继续往下说，我并非有意打断你的话。
+‘In fact,’ he continued, ‘I’d like to congratulate you.’ “其实，”他接着说，“我想向你表示祝贺。” 
+The path continued over rough, rocky ground. 这条小路穿过了崎岖不平的石头地。
+
+vt. ~ sb/sth (as sth) 以某种方式理解…，如看作、视为、认为:
+vt. 注意到、觉察到（尤指不明显的东西）:
+vt. 意识到（尤指不明显的东西）:
+perceive |[pəˈsi:v;美pərˈs-]
+This discovery was perceived as a major breakthrough. 这一发现被视为一项重大突破。
+She did not perceive herself as disabled. 她没有把自己看成残疾人。
+They were widely perceived to have been unlucky. 人们普遍认为他们的运气不佳。
+Stress is widely perceived as contributing to coronary heart disease. 压力被广泛认为是导致冠心病的一个因素。
+The General's words were perceived as a threat by neighbouring countries. 将军说的话被邻国看作是一种威胁。
+It is widely perceived as a women's health problem, but it does also affect men. 这被广泛看作是女性健康问题，但实际上也影响男性。           
+to dimly perceive the baby in the presence of a huge shape 隐约注意到婴儿胎位的大形状 
+the world of directly perceived objects 直接感知的物质世界 
+I perceived a change in his behaviour. 我注意到他举止有些改变。
+The patient was perceived to have difficulty in breathing. 发现病人呼吸困难。
+'Precisely what other problems do you perceive?' she asked. “你究竟还发现了什么问题？”她问道。
+Risks are perceived differently by different people. 不同的人对风险的感知程度不同。
+The industrial bias of canal building can be readily perceived by looking at Figure 7.3. 从图7.3中可以很容易地看出开凿运河主要出于工业目的。
+She perceived that all was not well. 她意识到并非一切都顺利。
+A key task is to get pupils to perceive for themselves the relationship between success and effort. 关键任务是让学生们自己认识到成功和努力之间的关系。
+The remedy for the problem was only dimly perceived by scientists until recently. 直到最近科学家们才隐约意识到解决该问题的办法。
+
+n. [C] 打算去做的事情；待处理的问题或任务。尤指（难办或诱人的）事情，任务:
+vt. 直接向某人提出性要求，即求欢:
+n. [C] [数学] 命题:
+n. [C]（尤指业务上的）提议、建议、提出的行动计划（提出建议者和倾听者通常共同执行该提议）:
+n. [C] [正式] 观点、见解:
+n. [sing.]（也可用Proposition）（美国）法律修正议案:
+proposition |[ˌprɒpəˈzɪʃn;美ˌprɑ:p-]
+Getting a work permit in the UK is not always a simple proposition. 在英国获得工作许可证往往不是一件简单的事情。
+Getting a job is not always a simple proposition. 找工作并不总是一件简单的事。
+Even among seasoned mountaineers Pinnacle Ridge is considered quite a tough proposition. 即使在经验丰富的登山者中，平纳克尔峰也被认为是很难攀登的。
+Making easy money has always been an attractive proposition. 轻松赚钱总是件诱人的事。
+difficult, tricky proposition 棘手的事 
+expensive proposition 费钱的事 
+all-or-nothing proposition（美）孤注一掷的事 
+dangerous, dicey（美）, risky proposition 危险的事；碰运气的事；冒险的事 
+Running the business was one thing. Getting it to make a profit was a different proposition altogether. 经营管理企业是一回事，要能使之盈利则完全是另一回事。
+She was propositioned by a strange man in the bar. 酒吧里有个陌生男人向她求欢。
+He had allegedly tried to proposition a colleague. 据说他曾试图向一名同事求欢。
+business, commercial, economic, paying proposition 业务上的提议；商业上的提议；经济方面的提议；带来利润的提议 
+I'd like to put a business proposition to you. 我想向您提个业务上的建议。
+I want to make you a proposition. 我想给你提一个建议。
+He was trying to make it look like an attractive proposition. 他正设法使他的计划显得吸引人。
+You came to see me at my office the other day with a business proposition. 几天前你带着一份商业提案来我的办公室见我。
+losing proposition（尤美）亏本的提议 
+Ring up your agent in New York and put your proposition to him. 给你在纽约的代理人打电话，把你的建议告诉他。
+Her assessment is based on the proposition that power corrupts. 她的分析是建立在权力使人堕落的观点上的。
+The proposition that democracies do not fight each other is based on a tiny historical sample. 认为民主国家互不争斗的观点是以一个极小的历史样本为根据的。
+basic, central, fundamental proposition 基本主张；主要主张 
+true proposition 真实看法 
+abstract, empirical, existential, general, theoretical proposition 抽象的观点；基于经验的观点；存在主义的论点；总的论点；理论观点 
+dubious proposition 可疑的观点 
+simple proposition 简单的想法 
+a set of proposition 一套主张 
+The book puts forward a number of propositions about the nature of language. 这本书对语言的本质提出了一些见解。
+How did you vote on Proposition 8? 对于第8项修正案你是怎么投的票？
+Vote Yes on Proposition 136, but No on Propositions 129, 133 and 134. 对第136号修正案投赞成票，但对第129号、133号和134号修正案投反对票。
+
+adj. 由于新东西已经被发明出来而不再被使用的，如被淘汰的、被废弃的、过时的:
+obsolete |[ˈɒbsəli:t;美ˌɑ:bsəˈli:t]
+obsolete technology 过时技术 
+With technological changes many traditional skills have become obsolete. 随着技术的革新，许多传统技艺已被淘汰。
+So much equipment becomes obsolete almost as soon as it's made. 这么多设备几乎一生产出来就要被淘汰。
+Their work is now rendered obsolete by machines. 他们的工作已被机器淘汰。
+
+adj. 1 ~ (to sb/sth) 某事物（如因为透明、隐匿或极小）不能被看见的，隐形的:
+2（故事中的人或事物）隐身的、隐形的:
+3 [常用于名词前] 无形（但确实有效果或影响）的:
+4 [经济学]（收入）无形的（与服务而非商品有关，如银行业或旅游业的收入）:
+n. [pl.] invisibles可指赚取无形收入的服务行业（如银行业、旅游业）:
+adj. 被人忽视的、不为人注意的:
+invisible |[ɪnˈvɪzəbl]
+The belt is invisible even under the thinnest garments. 这种腰带即便在最薄的衣衫下都看不出来。
+stars invisible to the naked eye 肉眼看不见的星球 
+She felt invisible in the crowd. 她觉得自己淹没在人群中。
+The lines were so finely etched as to be invisible from a distance. 线条被蚀刻得如此精细，在远处看都看不见。
+Infrared light is invisible to the human eye. 人眼看不见红外线。
+It's interesting how women are rendered invisible in these statistics. 从这些统计数字中根本看不出女性的存在，所用的手法真是有趣。
+The Invisible Man《隐形人》
+a wizard who could make himself invisible 能隐身的术士 
+He wished that he could make himself invisible. 他希望自己能够隐身。
+Parents fear they might overstep these invisible boundaries. 父母担心他们可能会逾越这些无形的界限。
+Her father's face had suddenly tightened as though he was being strangled by invisible hands. 她父亲的脸突然僵硬了，仿佛是被无形的双手扼住了脖子。
+invisible earnings 无形收益 
+Tourism is Britain's single biggest invisible export. 旅游业是英国最大的一项无形输出。
+The revenue from tourism is the biggest single item in the country's invisible earnings. 旅游业收入是该国无形收益当中最大的一项。
+It was strange, how invisible a clerk could feel. 一名办事员会感到如此受人忽视，令人觉得不可思议。
+The problems of the poor are largely invisible. 穷人的问题大多不受重视。
+
+n. [U] 白昼、白天:
+n. [U] 日光:
+daylight |[ˈdeɪlaɪt]
+The public has access during daylight hours. 日间公众可以进入。
+The machines roar incessantly during the hours of daylight. 机器在白天隆隆地响个不停。
+I can see better in daylight. 白天我看得比较清楚。
+The street looks very different in daylight. 在白天大街显得很不一样。
+They left before daylight (= before the sun had risen). 他们天亮前就走了。
+She was up before daylight. 天还没亮她就起床了。
+By daylight the fire was almost under control.到天亮时，火势基本被控制住了。
+Quinn returned shortly after daylight yesterday morning. 昨天早上天刚亮奎因就回来了。
+It was still daylight but all the cars had their headlights on. 还是大白天，但所有汽车的前灯都亮起来了。
+Lack of daylight can make people feel depressed. 日晒不足会让人情绪低落。
+broad, full daylight光天化日 
+He was robbed in broad daylight. 他在光天化日之下被抢了。
+A girl was attacked on a train in broad daylight. 光天化日之下，一个女孩在火车上遭到了袭击。
+The recent murder happened in broad daylight in a supposedly 'safe' part of London. 最近的这起谋杀案是光天化日之下在伦敦一个据称“安全”的城区发生的。
+bright daylight 灿烂的阳光 
+I prefer to work in natural daylight. 我喜欢在自然光线下工作。
+The thin curtains let in the daylight. 阳光透过薄薄的窗帘照了进来。
+The shutters were closed to keep out the daylight. 百叶窗关着，遮住了阳光。
+They emerged from the church into the bright daylight. 他们走出教堂来到明亮的日光下。
+The prisoners emerged blinking into the daylight. 囚犯们眯着眼睛走进明亮的日光中。
+A little daylight was filtering through the curtains. 一缕阳光透过窗帘照射进来。
+He drew back the curtains and the daylight flooded in.他拉开窗帘，阳光照了进来。
+The daylight penetrated to the far corners of the room。阳光透进房间，连远处的角落都能照到。
+Around 6a.m. daylight broke. 将近早上6点的时候，天开始透亮。
+The evening turned cool as daylight faded. 傍晚的天气随着日光渐弱转凉了。
+
+vt. 给予某人一个特定的等级或头衔，如授予、册封:
+vt. 引起、造成或产生（某种感觉或印象）:
+vt. 使某事发生或存在，如创造:
+create |[krɪ'eɪt]
+The government has created eight new peers. 政府新封了八个贵族。
+He was created a baronet in 1715. 他于1715年被封为准男爵。
+The company is trying to create a young energetic image. 该公司正试图塑造一个充满活力的年轻形象。
+The announcement only succeeded in creating confusion. 那通告反而引起了混乱。
+They’ve painted it red to create a feeling of warmth. 他们把它刷成红色以营造一种温暖的感觉。
+Scientists disagree about how the universe was created. 科学家对宇宙是怎样形成的有分歧。
+to create wealth 创造财富 
+to create jobs 创造就业机会 
+Create a new directory and put all your files into it. 创建一个新的目录，然后把你所有的文件都放进去。
+Try this new dish, created by our head chef. 品尝一下这道新菜吧，是我们厨师长首创的。
+
+n. [C] 一个地区有主教的大教堂，即主教座堂、教区总教堂:
+cathedral |[kəˈθi:drəl]
+St Paul's Cathedral 圣保罗大教堂 
+magnificent Cathedral 庄严的大教堂 
+baroque, Gothic, medieval Cathedral 巴洛克式大教堂；哥特式大教堂；中世纪大教堂 
+Anglican, Catholic Cathedral 圣公会大教堂；天主教大教堂 
+The great Gothic Cathedral dominates the city. 那座宏伟的哥特式大教堂俯瞰整个城市。
+Cathedral city（尤英）大教堂所在城市 
+the cathedral city of Canterbury 有主教座堂的坎特伯雷市 
+Cathedral church（尤英）大教堂 
+Cathedral bell, Cathedral spire 大教堂的钟；大教堂的尖顶 
+Cathedral choir, Cathedral organist 大教堂的唱诗班；大教堂的管风琴手 
+We went to mass in the Cathedral. 我们去大教堂做弥撒。
+
+adj. 摄氏的，摄氏度的，等于Celsius:
+n. [U] 摄氏度:
+centigrade |['sentɪɡreɪd]
+a temperature of 37 degrees centigrade 37摄氏度的温度 
+temperatures in centigrade and Fahrenheit 摄氏和华氏温度 
+water temperature in centigrade 用摄氏度表示的水温
+
+n. [C] ~ (on sth) 征收额，尤指税款:
+vt. ~ sth (on sb/sth) 行使官方权力来征收（税款等）:
+levy |[ˈlevi]
+to put/impose a levy on oil imports 对进口石油征税 
+an annual motorway levy on all drivers 以所有司机为征收对象的高速公路年税 
+a tax levied by the government on excess company profits 政府对公司超额利润征收的税 
+They levied religious taxes on Christian commercial transactions. 他们对基督徒的商业交易征收宗教税。
+Taxes should not be levied without the authority of Parliament. 未经议会授权不得征税。
+
+ In this discussion, the emphasis is on the catalog asset, but the treatment is applicable to any asset group.  在当前的讨论中，重点是在目录资产上，但是处理方法对于任何资产组都是适用的。
+ It uses the information from the statistics in the system catalog.  它使用来自系统编目中统计信息中的信息。
+ Next, upload the files to the catalog.  接下来，将文件上传到目录。
+catalog |英 ['kætəlɒɡ]  美 ['kætəlɔg]| n. [图情][计] 目录；登记/vt. 登记；为…编目录/vi. 编目录；按确定价格收入目录（等于catalogue）/
+
+
+
+adj. ~ to sth 专心于某事的；献身于某事的；致力于某事的:
+adj. 1 已婚的:
+2 [只用于名词前] 婚姻的；结婚的:
+married |[ˈmærid]
+My brother is married to his job. 我弟弟一心扑在工作上。
+She was a very strict Christian who was married to her job. 她是个虔诚的基督徒，对工作全身心投入。
+I have little time for women because I'm married to my cricket, so I'm leaving the arrangements to my sister. 我把全部心思都放在了板球上，很少有时间交女友，所以便把约会一事交由姐姐来安排。
+married man, married woman 已婚男子；已婚女子 
+Is he married? 他结婚了吗？
+All her friends are now married with children. 她的所有朋友都已结婚生子。
+a happily married couple 一对幸福结合的伉俪 
+She's married to John. 她嫁给了约翰。
+She is married to an Englishman. 她嫁给了一个英格兰人。
+She's married to an actor. 她嫁给了一个演员。
+When did you get married? 你什么时候结的婚?
+Rachel and David are getting married on Saturday. 雷切尔和戴维将在星期六结婚。
+How long have you been married? 你结婚多长时间了？
+We have been married for 14 years. 我们已经结婚14年了。
+The newly married couple left for their honeymoon in Spain. 这对新婚夫妇动身到西班牙度蜜月去了。
+I wouldn't have felt properly married if it hadn't been a church wedding. 如果不是在教堂举行了婚礼，我还不会觉得已真正结了婚。
+Are you enjoying married life? 你喜欢你的婚姻生活吗？
+Her married name (= the family name of her husband) is Jones. 她婚后随夫姓琼斯。
+For the first ten years of our married life we lived in a farm-house. 我们结婚的头十年住在一座农舍里。
+
+adj. 1 与国家、政府或公共事务有关的:
+2 与不同的政治团体相关的，尤指与各党派的政策和争斗有关的:
+3（人）关心政治的，政治上活跃的，或有坚定政治信仰的:
+4 与一个组织内的权力、地位等相关的，即争权夺利的，人事纠纷的:
+political |[pə'lɪtɪkl]
+political power 政治权力 
+a political prisoner 政治犯 
+a highly political issue 高度政治化的问题 
+political works 具有政治性的作品 
+political decision 政治性的决定 
+I have no intention of getting political. 我无意涉及政治。
+political debate, political party, political leader 政治辩论；政治党派；政治领袖 
+What are your political sympathies? 你认同哪个政党？
+She became very political at university. 她上大学时开始十分热衷于政治。
+I’m not a political animal. 我不是搞政治的那种人。
+The company is full of political disputes. 这家公司内部充满了人事纠纷。
+to be dismissed for political reasons 因为人事上的原因而被解雇
+
+n. [C] 绕在…周围的、细的、扁平的、戴在头上或手腕上的装饰性带子或圆环:
+n. [C] 绕在…周围（如用以捆绑或加固、或构成服饰的一部分）的一条细的、扁平的带子或圆圈:
+n. [C]（无线电波的）波段或频带:
+n. [C] 带状（如颜色带、光带、衣服等事物上的条纹等）:
+vt. 常用被动式，在…周围加上不同颜色或材料的条:
+n. [C]（因有共同的兴趣、信仰、观点或想法等而聚在一起共同做某事的）一群人，即趣味相投的群体:
+n. [C] 带状物（如颜色带、光带、土地带、衣服等事物上的条纹等）:
+vt. 常用被动式，在…周围加上不同颜色或材料的条:
+n. 1 [C]（演奏流行音乐、爵士乐、摇滚乐等的）乐队（通常还包括一名或若干名歌手）。该词是乐队的常规用词:
+2 [C]（演奏管乐和打击乐的）乐队:
+n. [C]（数目、年龄、价格等的）范围，段（可用于计数或测量之目的）:
+vt. [英] 常用被动式，将价格、收入等划分档次或等级:
+band |[bænd]
+a wrist-band 腕带 
+to tie her hair back in a band 用一条带子把她的头发扎在后面 
+He wears a band of silver on his finger. 他戴着一枚银戒指。
+to place a metal band around his broken leg 在他受伤的腿上安装一个金属箍
+band of frequencies 频带 
+a 20-50 metre band 20-50米的波段
+a white plate with a red band around the edge 带红边的白盘子 
+This insect is banded black and yellow. 这只昆虫有黑色和黄色的条纹。
+a small band of rebels 一小股叛乱份子 
+a band of outlaws 一帮歹徒 
+a band of soldiers 一群士兵 
+a band of volunteers 一批志愿者 
+select band（尤英）精英群体 
+merry band 快活的一伙人
+bands of woods 一行行的树林 
+a white plate with a red band around the edge 带红边的白盘子 
+This insect is banded black and yellow. 这只昆虫有黑色和黄色的条纹。
+a singer in a rock band 摇滚乐队的歌手 
+a drummer with a jazz band 爵士乐队的鼓手 
+big band 大型乐队 
+string, wind band 弦乐队；管乐队 
+backing band 伴奏乐队 
+school band 校乐队 
+band leader 乐队首席 
+a military band 军乐队
+age, price, tax band 年龄段；价格范围；课税等级
+Salary is banded according to job performance. 薪水是按工作绩效划分等级的。
+Tax is banded according to income. 赋税是按收入划分等级的。
+
+vt. [正式] 找出或查明关于某事的真实情况或正确信息:
+ascertain |[ˌæsəˈteɪn;美ˌæsərˈt-]
+It can be difficult to ascertain the facts. 可能难以查明事实真相。
+I ascertained that the driver was not badly hurt. 我已查清，驾驶员伤势不重。
+It should be ascertained that the plans comply with the law. 须要弄清楚，这些计划要合法。
+The police are trying to ascertain what really happened. 警方正设法查清到底发生了什么。
+Could you ascertain whether she will be coming to the meeting? 请你弄清楚她来不来开会好吗？
+It must be ascertained if the land is still owned by the government. 必须确定这块土地是否仍属于政府所有。
+Through doing this, the teacher will be able to ascertain the extent to which the child understands what he is reading. 这样一来，老师就能确定孩子们对他所读的内容理解多少了。
+Once they had ascertained that he was not a spy, they agreed to release him. 一旦确认他并非间谍，他们即同意将他释放。
+The geographical spread of the industry in the 16th century is hard to ascertain, for much of it is poorly recorded. 该行业在第16世纪的地理分布状况很难查清，因为历史记录很少。           
+
+n. [U] 准确、精确或正确（是一种状态）；熟练地做某事而不出差错的能力（如准确、精确或正确的程度）:
+accuracy |['ækjərəsɪ]
+the accuracy of the information 信息的准确性 
+factual, scientific accuracy 事实的准确度；科学的准确性 
+to achieve historical accuracy in every detail 让每个细节都与历史吻合 
+the accuracy of data 数据的准确性 
+the accuracy of forecasts 预报的准确性 
+the accuracy of his statement 他的陈述的准确性 
+She hits the ball with great accuracy. 她击球十分准确。
+The needle has to be positioned with pinpoint accuracy. 针刺的位置必须精确无误。
+The missiles are capable of a very high degree of accuracy. 这些导弹的命中精度非常高。
+
+vt. [正式] 对某事有影响:
+vt. inform sb (of/about sth)（尤指正式地）将某事告知给某人，即知会，通知:
+vt. inform yourself (of/about sth) 找出关于某事物的信息，即了解:
+inform |[ɪn'fɔ:m]
+Religion informs every aspect of their lives. 宗教影响着他们生活的各个方面。
+Please inform us of any changes of address. 地址若有变动请随时通知我们。
+‘He’s already left,’ she informed us.“他已经走了。”她告诉我们说。
+I am not advising you. I am merely informing you of the situation. 我不是在给你提建议，我只是把情况告诉你而已。
+Patients were informed adequately of the risks. 充分告知了患者相关的风险。
+I regret to inform you that you have been unsuccessful in your application. 我遗憾地通知您，您的申请未能成功。
+We need time to inform ourselves thoroughly of the problem. 我们需要时间对这个问题有个透彻的了解。
+
+prep. 在电影或戏剧中与某人合演，即联袂演出:
+adj. 常用于名词前，与某事物截然不同的:
+n. [C] 与…截然相反或对立的人或事物:
+adj. 1 只用于名词前，处于某个区域的另一侧且常与…相面对的:
+2 用于名词后，指面对（说话者或其他人或事物）的:
+adv. 对面:
+prep. 处于某个区域的另一侧，且常与…相面对:
+opposite |['ɒpəzɪt]
+She starred opposite Tom Hanks. 她与汤姆·汉克斯联袂主演。
+in the opposite direction 在反方向上 
+She tried calming him down but it seemed to be having the opposite effect. 她试着让他平静下来，却似乎火上浇油了。
+students at opposite ends of the ability range 能力差距两极的学生
+Hot and cold are opposites. 热和冷是对立面。
+What is the opposite of heavy? 重的反义词是什么？
+Exactly the opposite is true. 事实恰恰相反。
+In temperament, she was the complete opposite to her sister. 她和她姐姐的性格截然不同。
+The effect was exactly the opposite to what he intended. 效果与他的意图正好相反。
+opposites attract 异性相吸
+Answers are given on the opposite page. 答案在对页上。
+on the opposite side of the road 在马路对面 
+the opposite end of the country 该国的另一端 
+the opposite corner of the room 房间里的另一个对角 
+the house directly opposite 正对面的房子 
+He sat down in the chair opposite. 他在对面的椅子上坐了下来。
+He lives opposite. 他住在对面。
+See opposite for further details. 详情见对页。
+He looked up at the buildings opposite. 他抬头看了看对面那些楼。
+I sat opposite him during the meal. 席间我坐在他的对面。
+The bank is opposite the supermarket. 银行在超市对面。
+Write your address opposite your name. 在姓名旁边写上你的地址。
+
+vt.&vi.（在时间上）在…之前发生（或出现）:
+vt.&vi.（顺序）先于:
+vt.&vi.（句、段、章节）在…之前:
+vt.&vi.（位置）在…前面:
+precede |[prɪˈsi:d]
+the years preceding the war 战前的几年 
+His resignation was preceded by weeks of speculation. 在他辞职之前，有关的猜测已持续了几个星期。
+Intensive negotiations between the main parties preceded the vote. 主要政党在选举前进行了集中的谈判。
+The earthquake was preceded by a loud roar and lasted 20 seconds. 地震前有一阵巨大的轰隆声，持续了20秒钟。
+She preceded me in the job. 她是我这工作的前任。
+in the moments which immediately preceded the earthquake 就在地震发生之前的时刻 
+Victories are often preceded by minor setbacks. 胜利之前常常会遇到一些小挫折。
+He gestured to Alice to precede them from the room. 他给艾丽斯做手势，让她在他们前面离开房间。
+She preceded him out of the room. 她先于他走出屋子。
+See the preceding chapter. 请见前一章。
+Look at the information that precedes the paragraph in question. 查看正在讨论的这段文字前面的信息。
+Repeat the exercises described in the preceding section. 把前一节要求的练习重做一遍。
+They were preceded by mounted cowboys. 他们前面是骑马的牛仔们。
+
+You refer to the period of time or the thing immediately before the one that you are talking about as the preceding one. 前面的
+preceding |英 [prɪ'siːdɪŋ]  美 ['prisidɪŋ]| adj. 在前的；前述的/v. 在...之前（precede的ing形式）/
+She informed us that eighteen members of the staff had left during the preceding year.她当时告知我们，18位教职员在此前的一年里离开了。
+As we saw in the preceding chapter, groups can be powerful agents of socialization.如我们在前一章所见，团组可以是社会化的有力动因。
+
+
+n. 1 [C] 英雄，尤指男英雄:
+2 [C] 所崇拜的对象，即偶像，尤指男性偶像:
+n. [C] 在北美英语中可指长卷三明治，即将长卷面包纵向切开，内夹各种食物，也叫潜艇三明治（submarine sandwich或submarine）:
+n. [C] 书籍、戏剧、电影或故事等艺术形式中的男主人公，男主角:
+hero |['hɪərəʊ]
+the brave heroes who died for their country 为国捐躯的勇士 
+folk, national hero 民间的英雄；民族英雄 
+fictional, mythical hero 虚构的英雄；神话中的英雄 
+war hero 战争英雄 
+Olympic hero 奥运英雄 
+He was hailed as a hero after the rescue. 那次营救行动之后他就被誉为英雄。
+hero figure 英雄形象 
+a boyhood hero 少年时的偶像 
+Bugs Bunny was one of my childhood heroes. 兔八哥是我儿时的偶像之一。
+comic, football, musical hero 漫画英雄；足球偶像；音乐偶像 
+Einstein is the all-time hero of many scientists. 爱因斯坦是众多科学家心中无与伦比的英雄。
+the hero of the novel 这部小说的主人公 
+romantic, tragic hero 言情剧主角；悲剧主角 
+action hero 动作片主角 
+Tom Cruise played the hero. 汤姆·克鲁斯扮演主角。
+
+n. [C] [尤英] 邮递员、邮差:
+postman |['pəʊstmən]
+The dog is chasing a postman. 那条狗在追一个邮递员。
+village postman 村里的邮递员

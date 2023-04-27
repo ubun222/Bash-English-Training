@@ -1,0 +1,653 @@
+illegal						非法的，犯规的
+statistics						统计数据，统计学
+level							水平的，不相上下的，平静的
+cosy							舒适的，亲密的
+tight							紧的，挤满的，难对付的，小气的
+shadow						阴影，少许
+continent						大陆
+roundabout						旋转木马，迂回的
+connection						联系，连接，熟人
+bottom						底部，根源，尽头
+printer						打印机
+aboard						在...上
+writing						书写，文字，笔迹
+writings						作品
+bleed							流血，悲伤
+spy							间谍，密探，看见
+soldier						士兵，从军
+temperature					温度，体温
+both							两个
+fresh							新鲜的，新的，凉爽的
+kingdom						王国，界，领域
+boating						划船
+tendency						倾向，趋势
+concert						音乐会，合作
+consume						吃，喝，耗尽，充满
+refresh						更新
+broad							宽阔的，广泛的
+camp							营地，阵营
+gale							大风
+\\\\\\\\
+
+adj. 不为法律所允许的，即不合法的，违法的，非法的:
+n. [C] [美] 在一国中非法生活或工作的人，即非法移民，非法劳工:
+illegal |[ɪ'li:ɡl]
+illegal action 违法行为 
+His action was ruled illegal. 他的行为被裁定为违法。
+Such acts are technically illegal. 这样的行为严格说来是不合法的。
+Some illegals were hired to work in this factory. 这家工厂曾雇用非法劳工。
+
+n. [U] statistics 可表示统计学:
+statistics |[stə'tɪstɪks]
+a course in statistics 一门统计学课程
+
+n. [C]（看待、回应、应对或理解事物的）某种方式；思考的层次:
+vt. 完全摧毁一栋建筑或一些树木，即夷平，相当于raze。与其它表示“毁灭”的词相比，level更强调毁灭后所形成的“平地感”，即所有原本站立在地面上的事物（如房屋或树木）已完全变成平地的一部分，不再凸出于地面:
+adj. [尤英] level (with sb) 体育运动中可指与某人得分相同的:
+adj.（声音或目光）无任何感情的，即平静的；冷静的；平稳的。相当于even:
+vt.（指责或批评）针对:
+vt. level sth (at sb) 对准或瞄准某人（尤指用枪）。暗示出枪口与目标之间直线相对，强调一种直接性和准确性。与point异曲同工:
+n. [C] 水平仪，相当于spirit level:
+n. [C, U]（与地面相对的）高度:
+n. [C] 土地的地层。并不强调沉积，也并不常用:
+n. [C, U]（与地面或过去的位置相对的）高度。与height有交集，在交集部分，二者可互换使用:
+adj. level (with sth) 与…有相同的高度、位置、地位、价值等的。所形容的对象常可用高低标准来衡量:
+vt.＆vi. 使相等；使平等；使相似:
+adj.（某人）接近（某人或某事物）的:
+adv. 接近（某人或某事物）:
+vt.（指责或批评）针对:
+vt. level sth (at sb) 对准或瞄准某人（尤指用枪）。暗示出枪口与目标之间直线相对，强调一种直接性和准确性。与point异曲同工:
+n. [C] 水平仪，相当于spirit level:
+adj. 表面平坦且没有斜坡的。与flat未见明显差别:
+vt. level sth (off/out) 使…平坦或平整:
+n. [C] 建筑物的楼层。不过依然带有几何上的层级色彩。在使用上虽然与本组其它词没什么区别，但不如floor常用:
+n. 1 [C]（某事某情况下，A事物中所存在的B事物的）数量（具体可叫做程度、浓度等）:
+2 [C, U] 某种标准、水平或品质、品级，程度上的差别。是“水平”的常规用词:
+3 [U, C]（规模、重要性或尺寸上的）级别，如组织或机构中的等级:
+level |['levl]['levl]
+Fables can be understood on various levels. 寓言可从不同的角度去理解。
+conscious, subconscious, unconscious level 意识层面；潜意识层面；无意识层面 
+practical, theoretical, political, tactical, micro level 实际层面；理论层面；政治层面；战术层面；微观层面 
+On a personal level, I would like to thank Jean for all the help she has given me. 从个人的角度，我愿感谢琼给予我的一切帮助。
+The blast levelled several buildings in the area. 那次爆炸把当地几座建筑物夷为平地。
+The storm levelled sugar plantations. 这场暴风雨夷平了甘蔗种植园。
+France took an early lead but Wales soon drew level. 法国队开始领先，但很快就被威尔士队把比分扳平。
+a level gaze 目光平静的凝视
+Allegations of corruption were levelled at him and his family. 对腐败的指控是针对他和他的家人的。
+I had a gun levelled at my head. 有一支枪对准了我的头。
+the water level of the Mississippi River 密西西比河的水位 
+the problem of rising sea levels 海平面日益升高的问题 
+to raise the level of the bank 加高堤岸 
+one metre below ground level 地面下一米深的地方 
+200 m above sea level 海拔200米 
+The plane was flying at a very low level. 飞机正在超低空飞行。
+below the level of the clouds 在云层以下
+Archaeologists found pottery in the lowest level of the site. 考古学家在挖掘现场的最下层发现了陶器。
+ground, sea, water level 地平面；海平面；水位 
+eye, knee level 平视高度；膝盖高度 
+The plane was flying at a very low level. 飞机当时正在超低空飞行。
+below the level of the clouds 在云层以下
+Are these pictures level? 这些画挂齐了吗？
+to keep wages level with inflation 使工资与通货膨胀保持相同的水平 
+She drew level with the police car. 她开车赶上来和警车并排行驶。
+The top of the water came level with her chin. 水面已经到她的下巴了。
+Davies levelled the score at 2 all.（英）戴维斯把比分扳成2:2平。
+until they were level with the door 直到他们接近门口时 
+We drew level with the gates. 我们向大门口接近。
+Allegations of corruption were levelled at him and his family. 对腐败的指控是针对他和他的家人的。
+I had a gun levelled at my head. 有一支枪对准了我的头。
+Pitch the tent on level ground. 把帐篷搭建在平地上。
+Make sure you get the shelf level before screwing it in. 拧螺丝之前一定要将架子放平。
+Keep the pot level, or you’ll spill the coffee. 把壶端平，否则会把咖啡洒出来。
+If you’re laying tiles, the floor will need to be levelled first. 你如果要铺瓷砖，得先整平地面。
+The library is all on one level. 图书馆全部在同一层楼上。
+a multi-level parking lot 多层停车场 
+Take the elevator to Level Four. 乘电梯到四层。
+the level of alcohol in the blood 血液中的酒精含量 
+blood-sugar level 血糖水平 
+radiation level 辐射量 
+a relatively low level of crime 相对低的罪案数字 
+low pollution levels 轻度污染 
+poverty level 贫困程度 
+Industrial output has reached record levels. 工业产量已达到创纪录的水平。
+a high level of achievement 高水平的成就 
+students at intermediate level 中等水平的学生 
+a computer game with 15 levels 15个级别的电脑游戏 
+He studied French to degree level. 他的法语学到了拿学位的水平。
+I refuse to sink to their level. 我不愿堕落到他们那种地步。
+the lowest level of inflation 最低水平的通货膨胀 
+Her illness has reached an advanced level. 她的病已经是晚期。
+difficulty level 难度 
+fitness level 健康水平 
+educational level 教育水平
+to take my career to the next level 让我的事业提升一个层次 
+the upper levels of the civil service 高级公务员 
+international, national, regional level 国际级别；国家级别；地区级别 
+grass-roots level 基层民众 
+He rose to the level of general manager. 他升到了总经理的级别。
+
+adj.（尤指由于空间狭小而）温暖舒适且安全的，相当于snug:
+adj. [常贬] 容易且便利，但不一定诚实或恰当的:
+adj. 友好的且私密的，如亲密无间的。形容亲近的程度比较深:
+cosy |['kəʊzɪ]（美cozy）
+a cosy little room 温暖舒适的小房间 
+cosy feeling 惬意的感觉 
+I felt warm and cosy sitting by the fire. 坐在炉火旁，我感到暖和舒服极了。
+The firm has a cosy relationship with the Ministry of Defence. 这家公司与国防部关系默契。
+The danger is that things get too cosy. 危险在于一切都来得太容易。
+a cosy chat with a friend 与朋友亲切的闲聊
+
+adj. [非正式，贬] 不想花费太多钱的，小气的，吝啬的，不慷慨大方的，相当于mean:
+adj.（控制）非常严密的、严格的、严厉的:
+adj. 表情看起来（或嗓音听起来）显得紧张、焦虑、烦躁、忐忑、生气等的:
+adj. 竞赛（或速度比赛）的赛跑选手（或团队等）之间看起来同样好的，即不相上下的，势均力敌的，旗鼓相当的等，相当于close:
+adj.（金钱或时间）因不足而难以处置的，如紧的；拮据的；不宽裕的:
+adj. 1 被牢牢地系（或控制）在某个位置上；难以移动或难以解开的:
+2 被拉紧（或绷紧）而不能再拉长的:
+adv. 紧紧地，牢固地:
+adj. 嗓音听起来显得紧张、焦虑、烦躁、忐忑、生气等的:
+adj. 常用于名词前，（人或事物）被包得紧密靠拢的，彼此之间几乎没有空间的:
+adj.（时间）因不足而难以处置的，如紧的:
+adj. [旧时，非正式] 不常用于名词前，指喝醉的，相当于tipsy:
+adj. 衣服紧身的或贴身的（有时不舒服的）:
+adj. -tight 构成复合词，指不允许所提到的某种物质进入的，如不漏…的；不透…的；防…的:
+adj.（与其他人的关系）紧密的、密切的、亲密的。不太常用:
+adj. 身体部位（由于疾病或情感而）感到疼痛或不适的，相当于constricted:
+adj.（金钱）因不足而难以处置的，如紧的；拮据的；不宽裕的:
+adj.（弯曲或曲线）急转的，陡的（而非平缓的）:
+tight |[taɪt]
+He’s very tight with his money. 他花钱很小气。
+keep tight control over sth 对某事严加控制 
+We need tighter security at the airport. 我们需要在机场实行更加严密的安保措施。
+‘I’m sorry,’ she said, with a tight smile.“对不起。”她勉强一笑说。
+a tight race 势均力敌的比赛
+We have a very tight budget. 我们的预算很紧。
+The president has a tight schedule today. 总统今天的日程排满了。
+I think we’d better leave--time’s getting very tight. 我想我们最好走吧——时间很紧了。
+He kept a tight grip on her arm. 他紧紧抓住她的胳膊。
+He held his children tight. 他紧紧地抱着他的孩子。
+The screw was so tight that it wouldn’t move. 螺丝太紧，拧不开。
+The rope was stretched tight. 这绳子拉得很紧。
+Every muscle in her face was drawn tight. 她脸上每一块肌肉都绷得紧紧的。
+Hold tight! 抓紧了！
+His fists were clenched tight. 他紧握双拳。
+There was a tight group of people around the speaker. 演讲人周围严严实实地挤了一群人。
+With six of us in the car it was a tight squeeze. 小轿车里坐了我们六个人，挤得很。
+My suitcase was packed tight. 我的衣箱塞得满满的。
+a tight schedule 繁忙的日程 
+I think we’d better leave--time’s getting very tight. 我想我们最好走吧——时间很紧了。
+a tight pair of jeans 一条紧身牛仔裤 
+These shoes are much too tight. 这双鞋太紧了。
+The new sweater was a tight fit. 这件新毛衣很贴身。
+measures to make your home weathertight 使你家防风雨的措施
+a tight community 团结的社区
+He complained of having a tight chest. 他主诉胸部憋闷。
+Her throat felt tight, just looking at her baby. 她喉咙哽咽得说不出话来，只是看着她的婴儿。
+We have a very tight budget. 我们的预算很紧。
+The driver slowed down at a tight bend in the road. 驾驶员在道路急转弯处慢了下来。
+The plane flew around in a tight circle. 飞机绕着小圈盘旋。
+
+n. [sing.] shadow of sth 某事物的非常少的数量，即少许，一丁点儿，相当于hint:
+vt. 紧密跟踪并监视某人（常是秘密地盯梢）。与follow相比，shadow一般只表示秘密跟踪，且与被跟踪者保持的距离相对较近:
+vt. 用影子来覆盖…，即在…上投下（或覆盖）阴影:
+n. 1 [C]（光线由于受到…遮挡而在…表面形成的）影子，阴影:
+2 [U] 也可用shadows，某地（或…上）的昏暗处，阴暗处，背光处（尤指很难看清谁或什么在那里）:
+n. [sing.] shadow of sb/sth … 的强烈影响（通常指坏的影响）:
+n. [C] 一直跟着其他人（或动物）的一个人（或动物），即形影不离的人或动物:
+n. [C] 非真实或不可能得到的事物，即虚幻的事物:
+n. [pl.] 眼睛下方由于疲劳等所形成的黑眼袋或黑眼圈:
+vt. 与正在做某项工作的人在一起进行学习，即实地学习:
+n. [C] 在野内阁成员（或影子内阁成员）:
+adj. [英] 只作前置定语，政治上可指影子内阁（即主要反对党的一些高级政治家，如果该政党赢得下次选举，这些人将成为政府部长或大臣）的:
+shadow |['ʃædəʊ]['ʃædəʊ]
+A shadow of a smile touched his mouth. 他嘴角露出一丝笑意。
+She knew beyond a shadow of a doubt that he was lying. 她十分清楚地知道，他在说谎。
+He was shadowed for a week by the secret police. 他被秘密警察盯梢了一个星期。
+The president is constantly shadowed by bodyguards. 该总统总是有保镖紧随其后。
+A wide-brimmed hat shadowed her face. 一顶宽边帽把她的脸罩在阴影中。
+The bay was shadowed by magnificent cliffs. 巍峨的悬崖把海湾笼罩在阴影里。
+The shadows lengthened as the sun went down. 随着太阳西下，影子越拉越长。
+The shadows of the clouds passed over us. 云朵的影子从我们头上掠过。
+He didn’t want to cast a shadow on their happiness.（比喻用法）他不想给他们的幸福蒙上阴影。
+I thought I saw a figure standing in the shadows. 我好像看见阴暗处站着一个人。
+Most of the lake was in shadow. 那个湖的大部分都在背阴中。
+The new leader wants to escape from the shadow of his predecessor. 新任领导想要摆脱前任的影响。
+These people have been living for years under the shadow of fear. 这些人多年来一直生活在恐惧的阴影中。
+You can’t spend all your life chasing shadows. 你不能一辈子追求虚无缥缈的东西。
+It is often helpful for teachers to shadow managers in industry. 教师跟随业界的管理人员实地学习，常常会很有收获。
+He attacked his shadow. 他抨击其在野对手。
+the shadow Chancellor 影子内阁的财政大臣 
+the shadow Cabinet 影子内阁
+
+n. 1 [C] 地球上的七大洲之一:
+2 [sing.] the Continent欧洲大陆的主要部分（不包括英国和爱尔兰）:
+continent |['kɒntɪnənt]
+African continent 非洲 
+The evidence that the continents have drifted is overwhelming. 大陆漂移的证据无可辩驳。
+
+n. 1 [C] [美为merry-go-round] 游乐园的旋转木马:
+2 [C] 公园、学校等的圆形旋转设施，供孩子们坐或站在上面:
+adj. 常作前置定语，指说话兜圈子的、迂回的、拐弯抹角的:
+adj. 常作前置定语，指做事迂回的:
+n. [C] [英] [美为traffic circle或rotary] 一个多车汇聚的环形地带，所有的车必须沿同一个方向行进，即交通环岛，或转盘路:
+roundabout |['raʊndəbaʊt]
+He told me, in a roundabout way, that he would borrow money from me. 他拐弯抹角地告诉我他缺钱，要从我这里借钱。
+I will leave today on a roundabout route for Paris. 我今天绕道前往巴黎。
+a difficult and roundabout trip 艰难而曲折的行程
+At the roundabout, take the second exit. 到环岛后，走第二个出口。
+
+connection (with sth)（两个事实、观念、事物、区域等的）联系、关联，相当于link:
+2 [C] 人与某个外界事物或事件之间的关系:
+3 [C] 人际关系，组织之间的关系，人与组织之间的关系:
+4 [C, usually pl.] 你所知道的、能够在你的社会生活或专业领域为你提供帮助或建议的一个人或一个组织机构（如有社交关系或业务关系的人或机构），相当于contact:
+n. 1 [U, C] connection (to sth)（行为意义上的）连接；（状态意义上的）处于被连接的状态:
+2 [C] 将两个部分连接起来的一个点，即连接点，尤指电力系统中的接头:
+n. [pl.] connections 可指亲属，但非近亲，即远亲:
+n. 1 [U, C] connection (to sth)（行为意义上的）连接；（状态意义上的）处于被连接的状态:
+2 [C] 将两个部分连接起来的一个点，即连接点，尤指电力系统中的接头:
+n. [C] 将两个部分连接起来的一个点，即连接点，尤指电力系统中的接头:
+n. [C, usually pl.] 去另外一地时所乘坐的交通工具:
+n. [C] 乘客在车站或机场从一辆火车（或公共汽车、飞机）上下来后所立刻能够乘坐的、准备从车站或机场发出的另一辆火车（或公共汽车、飞机）:
+connection |[kə'nekʃən]
+causal connection 因果关系 
+a connection between air pollution and asthma 空气污染与哮喘之间的联系 
+the connection between crime and alcohol 犯罪和酗酒之间的关系 
+a set of connections among brain regions 大脑各个区域间的一系列关联 
+His death had no connection with drugs. 他的死与毒品无关。
+emotional, spiritual connection 情感联系；精神联系 
+We need to feel a connection to nature. 我们需要感觉到与大自然的联系。
+What is your connection with the school? 你跟这所学校是什么关系？
+He denied any connection to the scam. 他否认与该骗局有关。
+His deepest connection is with his father, Frank Sr. 与他感情最深厚的人是他的父亲老弗兰克。
+This helps companies strengthen their connections to their customers. 这有助于公司加强与客户的联系。
+She wanted to sever all her connections with the company. 她想断绝和那家公司的所有联系。
+business, family, personal, professional, social connection 业务关系；家庭关系；私人关系；职业关系；社会关系 
+He got his job through connections. 他通过关系找到了工作。
+Connection to the gas supply was delayed for three days. 接通煤气延迟了三天。
+phone, mobile connection 电话接头；移动通信连接 
+broadband, cable, Internet, wireless connection 宽带连接；电缆连接；互联网连接；无线连接 
+If you break the connection, the light won’t come on. 如果断开连接，灯就不亮了。
+She is British but also has German connections. 她是英国人，但也有德国亲戚。
+I’m having problems with my Internet connection. 我的互联网连接有问题。
+phone connection 电话接头 
+mobile connection 移动通信连接 
+broadband, Internet, wireless connection 宽带连接；互联网连接；无线连接
+phone connection 电话接头 
+mobile connection 移动通信连接
+There are good bus and train connections between the resort and major cities. 在度假胜地与主要城市之间有着便利的汽车和火车运输。
+We arrived in good time for the connection to Paris. 我们到达时有充分的时间赶上去巴黎的联运。
+
+n. [sing.] bottom (of sth)（在一个班级或清单等中）最低（或最末）的位置；在此位置上（即排名最后）的一个人或一个团队等:
+adj. 名次在最低的位置的:
+n. [C] 根本原因:
+n. [C] 真实情况:
+n. [C, usually pl.] 一套服装（该套服装由上下两部分组成）的下半部分，如套装的裙或裤子:
+n. [sing.]（湖、河、游泳池、井、山谷等的）底部。在本组含义最广。bottom仅表示水体的底部，并不强调该底部的任何特征:
+n. 1 [C, usually sing.] bottom (of sth) 某事物最底端的部分，即底部、最下部:
+2 [C, usually sing.] bottom (of sth) 某事物的朝下的底部，通常看不到:
+3 [C, usually sing.] bottom (of sth) 一个容器内的最低的表面（即其内底表面）:
+adj. 1 –bottomed 构成形容词，指有某类底部的:
+2 只用于名词前，在最低、最后的地方（或位置）的，如底部的、最后的:
+n. [sing.] [尤英] the bottom (of sth) 某事物距离你（或距离你的住宅等）最远的部分，可称为尽头:
+adj. 只用于名词前，在最远的地方（或位置）的，如尽头的:
+n. [C] [尤英] 身体部位的臀部或屁股，相当于backside或behind:
+n. [C]（船）吃水线以下的部分，相当于hull:
+vi. bottom out可指（价格、一种恶劣局势等）停止恶化:
+bottom |['bɒtəm]
+a team at the bottom of the league 联盟排名最后的一个队 
+I was always bottom of the class in math. 我的数学成绩总是班上最后一名。
+He started at the bottom and worked his way up through the company. 他从公司最底层干起，一步步升至高层。 
+We came bottom with 12 points. 我们以12分垫底儿。
+I’d love to know what lies at the bottom of all this. 我想知道这一切究竟是怎么一回事。
+to go to bottom 弄清真相
+a bikini bottom 比基尼泳装的短裤 
+a pair of tracksuit bottoms 一条运动裤
+He dived in and hit his head on the bottom. 他跳进水里，头撞到了水底。
+the bottom of a swimming pool 游泳池的底 
+the bottom of a well 井底 
+the bottom of the sea 海底 
+the bottom of the valley 谷底
+at the bottom of each page 在每页的底部 
+The book I want is right at the bottom. 我想要的书就压在底层。
+the bottom of the steps 楼梯底部 
+bottom end, bottom half 底端；下半部 
+the bottom of the hill 山脚 
+The manufacturer’s name is on the bottom of the plate. 厂家的名称在盘子背面。
+I found some coins at the bottom of my bag. 我在我的手提包底找到了几枚硬币。
+Line the bottom of the cage with newspaper. 给笼子底部垫上报纸。
+a flat-bottomed boat 平底船 
+the bottom line (on a page)（一页的）最末一行 
+your bottom lip 下嘴唇 
+the bottom step (of a flight of stairs)（楼梯的）最低一级 
+on the bottom shelf 在架子底层 
+bottom drawer 下面的抽屉 
+in the bottom right-hand corner of the page 在这一页的右下角 
+the bottom end of the price range 最低价位 
+to go up a hill in bottom gear 用低档爬山
+the bottom of the street 街道的尽头 
+the bottom of the garden 花园的尽头 
+the bottom end of the road 道路的尽头
+bare bottom 光屁股 
+to slap bottom 打屁股
+The recession is finally beginning to show signs of bottoming out. 经济衰退终于出现了走出谷底的迹象。
+
+n. [C]（尤指与计算机相连的）打印机:
+n. 1 [C] 印刷商；印刷工人；印刷公司:
+2 [C] printer's（其复数形式为printers）可指印刷厂:
+printer |[ˈprɪntə(r)]
+black-and-white, colour/color, monochrome printer 黑白打印机；彩色打印机；单色打印机 
+computer printer 计算机打印机 
+office printer 办公室打印机 
+desktop printer 台式打印机 
+dot, matrix, inkjet, laser printer 点阵打印机；喷墨打印机；激光打印机 
+wide-format printer（美）宽幅打印机 
+compatible printer 可兼容的打印机 
+Connect the printer to your PC. 把打印机和你的个人电脑连接起来。
+You can print to any networked printer in the building. 你可以用本楼的任何一台连网打印机打印。
+The printer won't print for some reason. 打印机不知道为什么不能打印了。
+printer cartridge, printer ink, printer toner 打印机墨盒；打印机墨水；打印机碳粉 
+printer paper 打印纸 
+printer tray 打印机纸盒 
+Can you check to see if the printer cable is still plugged into your computer? 你能检查一下，看看打印机的电线是否还插在电脑上? 
+printer port 打印机端口 
+printer driver 打印机驱动程序 
+printer icon 打印机图标
+book printer 书籍印刷商 
+commercial printer 商业印刷公司 
+master printer 熟练的印刷工人 
+jobbing printer（英）零件印刷工 
+The printer has run off 2 000 copies of the leaflet. 印刷公司已印制了2，000份传单。
+The manuscript had already been sent off to the printers. 原稿已经寄给印刷厂了。
+
+adv., prep.（尤英）在船（或飞机、公交、火车）上；到船（或飞机、公交、火车）上，相当于on board:
+aboard |[ə'bɔ:d]
+We went aboard. 我们上了船。
+He was already aboard the plane. 他已经登机了。
+Welcome aboard! 欢迎乘坐（或欢迎加入）！
+
+n. 1 [U]（尤指评论语言风格时的）文字作品，文章:
+2 [pl.] writings可尤指某一作者有关某一专题的全部篇章:
+n. [U] 某人的笔迹；字迹:
+n. 1 [U]（与阅读、讲话相并列的）写、书写活动:
+2 [U]（尤指作为一份工作的）写作活动（如写书、写文章等）:
+n. [U]（已被书写或印在…上的）文字:
+n. [pl.] writings可尤指某一作者有关某一专题的全部著作:
+writing |[ˈraɪtɪŋ]
+The review is a brilliant piece of writing. 这篇评论很精彩。
+The writing is brutally tough and savagely humorous. 该作品带有残酷的强悍和野性的幽默感。
+It was such a brilliant piece of writing. 这真是一篇才华横溢的文章。
+It was a little difficult to read your writing. 你写的字有点不好认。
+I think it's due to being left handed that he's got terrible writing. 我想他的书写这么糟糕是因为他是左撇子。
+Who's this from? I don't recognize the writing. 这是谁写来的？我辨认不出笔迹。
+Our son's having problems with his reading and writing (= at school). 我们儿子在读写方面有困难。
+a writing case (= containing paper, pens, etc.) 文具盒 
+Only later did she discover a talent for writing. 她后来才发现自己的写作天分。
+She had begun to be a little bored with novel writing. 她开始对写小说有些厌倦了。
+He is leaving the band to concentrate on his writing. 他要离开乐队去专职写作。
+creative writing 文学创作 
+feminist, travel writing 女权主义文章的写作；游记的写作
+There was writing all over the desk. 书桌上写满了字。
+'It's from a notebook,' the sheriff said, 'And there's writing on it.'. “这是在一个笔记本里找到的，”法官道，“上面还有文字。”
+If you have a complaint about your holiday, please inform us in writing. 如果您对您的假日有什么意见，请书面告知我们。
+His experiences in India influenced his later writings. 他在印度的经历影响了他后来的著作。
+the writings of Hegel 黑格尔的著作 
+Althusser's writings are focused mainly on France. 阿尔都塞的著作主要是论述法国的。
+The pieces he is reading are adapted from the writings of Michael Frayn. 他目前阅读的作品改编自迈克尔·弗雷恩的著作。
+
+
+writings | ,文字
+
+vi.（颜色或物质）掺混或渗开（到其他颜色或物质里）:
+vt. 从某事物上放掉气体或液体以使其正常运转:
+vt. [非正式] bleed sb (for sth) 长期榨取某人的钱财或其他资源。强调时间上的长期性、不间断性以及对对方造成长期持续性的伤害。可理解为形象化的“放血”:
+vi.（尤指因受伤或患病而）出血，流血:
+vt.（旧时所用的）通过放血来给人治病:
+bleed |[bli:d]
+The colours have bled into each other. 这些颜色已经相互掺混起来了。
+His ex-wife is bleeding him for every penny he has. 他的前妻不断榨取他的每一分钱。
+Your head is bleeding. 你的头流血了。
+He slowly bled to death. 他慢慢地失血而死。
+
+vt. 文学或正式用语，指突然看见（或注意到）…:
+n. [C] 间谍或密探，即试图收集关于另一个国家、组织或个人的秘密信息的人，尤指受雇于政府或警方的间谍。是此义的基础用词，极为常用:
+vi. 收集关于另一个国家、组织或个人的秘密信息，即从事间谍活动:
+spy |[spaɪ]
+In the distance we spied the Pacific for the first time. 在远处，我们突然第一次看到了太平洋。
+enemy, foreign, government, industrial spy 敌方间谍；外国间谍；政府间谍；行业间谍 
+police spy 警方密探 
+suspected spy 疑似间谍 
+top spy 高级间谍 
+Soviet spy 苏联间谍 
+spy novel 间谍小说 
+spy camera, spy plane, spy satellite 间谍相机；间谍飞机；间谍卫星 
+spy network, spy ring 间谍网 
+spy agency（尤美）间谍机构 
+spy chief 间谍头目 
+He spied for his government for more than ten years. 他做过十多年的政府间谍。
+
+n. [C] 军人，尤指士兵（通常不包括军官）。是此义的常规用词:
+soldier |['səʊldӡə]
+professional, regular soldier 职业军人；正规军人 
+volunteer soldier 志愿兵 
+common, ordinary soldier 普通士兵 
+retired soldier 退伍军人 
+active-duty soldier 现役军人 
+child soldier 娃娃兵 
+fellow soldier 战友 
+wounded soldier 伤兵 
+combat soldier 战士 
+foot soldier 步兵 
+army soldier 陆军士兵 
+enemy soldier 敌军 
+toy soldier 玩具兵 
+a company of soldiers 一个连队的士兵 
+He decided to enlist as a soldier. 他决定应征入伍。
+
+n. [C] 人们在特定场合的感情氛围:
+n. [C, U] 某事物的温度；某地的温度或气温。是此义的常规用词，最为常用:
+n. [C, U] 人的体温:
+temperature |['tempərɪtʃə]
+There’s been a noticeable rise in the political temperature. 政治气氛明显升温。
+high temperature 高温 
+boiling, freezing temperature 沸腾温度；冻结温度 
+daytime temperature 日间气温 
+summer temperature 夏季气温 
+water temperature 水温 
+room temperature 室温
+She’s running a temperature. 她在发烧。
+high temperature 高烧 
+slight temperature 微烧 
+to take his temperature 给他量体温 
+to bring down his temperature 给她退烧
+
+used for emphasis to refer to two people or things, regarded and identified together:用于强调，指两个人或事物，一起考虑和认同
+used for emphasis to refer to two people or things, regarded and identified together:用于强调，指代两个人或事物，一起考虑和认同
+used for emphasis to refer to two people or things, regarded and identified together:用于强调，指两个人或事物，一起考虑和认同
+used before the first of two alternatives to emphasize that the statement being made applies to each (the other alternative being introduced by ‘and’):在两个备选方案中的第一个之前使用，以强调所做的陈述适用于每个备选方案（另一个备选方案由“和”引入）
+both |bəʊθ| Adverb/Determiner/Predeterminer/Pronoun/:两个都,都,两者,两者都有
+the film has won favour with both young and old:这部电影老少皆宜
+
+adj. 1 常用于名词前，令人愉悦地干净（或纯洁、凉爽）的，如清新的、凉爽的:
+2 看上去洁净的、明亮（或鲜明）且有吸引力的:
+adj. [非正式] fresh (with sb) 不用于名词前，粗鲁而太自信，从而对别人缺乏尊重的；或以此方式而对异性太放肆的:
+adj. fresh from sth 刚从某地来的；刚有过某种经历的:
+adv. [尤美，非正式] fresh out of sth 刚供给完（如刚卖完）某东西:
+adj. 常不用于名词前，精力充沛的:
+adj. 看上去鲜明且有吸引力的:
+adj. fresh from sth 刚从某地来的；刚有过某种经历的:
+adj. 1 常用于名词前，（空气）清新凉爽的。比cool更强调“凉”而“新”的感觉:
+2 [英]（天气）凉爽且有一些风的:
+3（风）有点大且有点冷的，如凉飕飕的，相当于brisk:
+adj. 1（通常指食物）新鲜的（如刚采摘且未冷冻、脱水或被保存在罐中的）。常令人愉悦:
+2 最近制作成的，或最近被体验过的:
+3 常用于名词前，新的或不同的（可添加到某事物上或替代某事物的）:
+adj. 常用于名词前，（水）不含盐的，即淡水的:
+fresh |[freʃ]
+a toothpaste that leaves a nice fresh taste in your mouth 在口中留下舒适清凉味道的牙膏 
+fresh air 新鲜空气 
+He looked fresh and neat in a clean white shirt. 他穿上干净的白衬衫显得清爽利落。
+fresh colours 鲜艳的色彩 
+a fresh complexion 白净的肤色
+Don’t get fresh with me! 别对我无礼！
+students fresh from college 刚刚毕业的大学生 
+fresh from her success at the Olympic Games 刚从奥运会凯旋归来的她 
+Sorry, we’re fresh out of milk. 对不起，牛奶我们刚卖完。
+Regular exercise will help you feel fresher. 经常锻炼会使你感觉更加精力充沛。
+I managed to sleep on the plane and arrived feeling as fresh as a daisy. 我总算在飞机上睡了觉，到达时精神焕发。
+fresh colours 鲜亮的色彩 
+a fresh complexion 白净的肤色
+students fresh from college 刚刚毕业的大学生
+a toothpaste that leaves a nice fresh taste in your mouth 在口中留下舒适清凉味道的牙膏 
+Let’s go and get some fresh air. 咱们出去呼吸点新鲜空气。
+It’s fresh this morning. 今天早上凉飕飕的。
+a fresh breeze 清新的微风
+fresh bread, fresh flowers 刚出炉的面包；鲜花 
+fresh fruit and vegetables 新鲜水果和蔬菜 
+Put it in the refrigerator to keep it fresh. 把它放到冰箱里保鲜。
+fresh tracks in the snow 雪地上的新脚印 
+It’s still fresh in my mind. 我记忆犹新。
+fresh evidence, fresh approach, fresh start, fresh coffee 新证据；新方法；新的开始；新咖啡 
+a fresh coat of paint 刚刷的一层油漆
+There is a shortage of fresh water on the island. 岛上缺少淡水。
+
+n. [C] 生物学中可指生物的五大类别之一，即界:
+n. [C] 由某个人所控制的区域，或某个事物或思想的领域（该事物或思想在该领域中占有重要地位）:
+n. [C] 由一个国王或女王所统治的国家，即王国:
+n. 1 [C] 自然界的三界之一（是一种对自然界的传统划分方法）:
+2 [C] 生物学中可指生物的五大类别之一，即界:
+kingdom |['kɪŋdəm]
+the United Kingdom 联合王国 
+independent kingdom 独立王国 
+the ancient kingdom of Kaffa 古卡法王国 
+the kingdom of God (= heaven) 天国 
+the animal, vegetable and mineral kingdoms 动物界、植物界及矿物界 
+
+rowing or sailing in boats as a sport or form of recreation:划船或划船作为一种运动或娱乐形式
+boating |ˈbəʊtɪŋ| Noun/:划船,泛舟
+he was the happiest with his family and friends and enjoyed boating:他和家人朋友在一起最开心，喜欢划船
+
+tendency (to/towards sth) 性情（使人以某种方式来行事的因素，且常指不好的性情或偏好、倾向等）:
+n. [C] [英]（政党内的）极端派别:
+tendency (to/towards sth) 发展出来的新习性或习惯，即趋势；趋向。相当于trend:
+tendency (to/towards sth) 倾向；偏好等（使人以某种方式来行事的因素，且常指不好的偏好、倾向等）:
+tendency |['tendənsɪ]['tendənsɪ]
+I have a tendency to talk too much when I’m nervous. 我紧张时总爱唠叨。
+She has a strong natural tendency towards caution. 她天生非常小心谨慎。
+He displayed artistic tendencies at an early age. 他小时候就显示出了艺术气质。
+criminal tendency 犯罪倾向 
+homosexual tendency 同性恋倾向
+There is a growing tendency among employers to hire casual staff. 雇主雇用临时职员有增加的趋势。
+Industry showed a tendency towards/toward centralized administration. 工业领域显示出集中化管理的趋势。
+I have a tendency to talk too much when I’m nervous. 我紧张时总爱唠叨。
+There is a tendency for this disease to run in families. 这种疾病易在家族里遗传。
+She has a strong natural tendency towards caution. 她天生非常小心谨慎。
+There’s a growing tendency for women to marry later. 女性越来越倾向于晚婚。
+criminal tendency 犯罪倾向 
+He displayed artistic tendencies at an early age. 他小时候就显示出了艺术气质。
+
+n. [C] 音乐会:
+concert |['kɒnsət]
+big concert 大型音乐会 
+live concert 实况直播音乐会 
+open-air concert 露天音乐会 
+rock concert 摇滚音乐会 
+symphony concert 交响音乐会 
+concert ticket 音乐会门票 
+concert tour 巡回音乐会 
+a concert for charity 一场慈善音乐会
+
+vt. [正式]（火）完全烧毁:
+vt. 消耗、耗费（时间）:
+vt. [正式] consume sb (with sth) 常用被动式，表示使某人充满某种强烈感情:
+vt. [正式] 消耗、耗费（燃料、能量或时间等）:
+vt. [正式] 吃，喝:
+consume |[kən'sju:m]
+The hotel was quickly consumed by fire. 那座旅馆很快被大火吞噬。
+Carolyn was consumed with guilt. 卡罗琳深感内疚。
+Rage consumed him. 他无比愤怒。
+The electricity industry consumes large amounts of fossil fuels. 电力工业消耗大量的化石燃料。
+He had consumed a large quantity of alcohol. 他喝了大量的酒。
+
+vt. 使某人感到不再那么劳累，使其恢复精力:
+vt. 使某人不再那么热，使其凉爽:
+vt. [尤美，非正式] 给某人的杯子重新倒满或斟满:
+vt.＆vi. 计算机技术中可指获取最新信息（如通过在屏幕上点击按钮而获取一个网页的最新信息），可称为刷新，更新:
+vt. refresh your/sb’s memory（尤指在可被看到或听到的东西的帮助下）提醒自己（或某人）某事，可称为提示，使想起，相当于jog:
+refresh |[rɪ'freʃ]
+The long sleep had refreshed her. 一场酣睡使她重又精力充沛。
+He refreshed himself with a cool shower. 他冲了个凉水澡凉快凉快。
+Let me refresh your glass. 我给你再斟一杯吧。
+Click here to refresh this document. 点击此处以刷新此文件。
+The page refreshes automatically. 页面会自动更新。
+He had to refresh his memory by looking at his notes. 他不得不靠看笔记来提醒自己。
+
+adj.（所给予的暗示）明显的:
+adj. [美] 以性作为笑料的，即粗俗滑稽的:
+adj. 包含各种各样的人或事物的，即广泛的:
+adj. 1 宽阔的；广阔的。相当于wide。此时一般可以和wide互换使用:
+2 用于表示距离的量度之后，以表明某事物的宽度。此时通常也可以和wide互换使用:
+3（陆地或水域）开阔的，辽阔的:
+adj.（人）口音重的，乡音浓的，让人一听就知道从哪儿来的，相当于strong，但不太如strong常用:
+adj. 只作前置定语，指概括的，笼统的，广义的，不具体的:
+broad |[brɔ:d]
+a broad hint 明确的暗示
+broad humor 粗俗的幽默
+a broad range of products 各种各样的产品 
+a broad spectrum of interests 广泛的兴趣 
+There is broad support for the government’s policies. 政府的政策得到了广泛的支持。
+He questioned whether the curriculum was broad enough in scope. 他对学校课程设置面是否够宽有疑问。
+broad street, broad river 宽阔的街道；宽广的河流 
+broad shoulders 宽肩 
+a broad smile 咧嘴笑 
+two metres broad and one metre high 两米宽，一米高 
+a broad expanse of water 一片辽阔的水域
+the broad outline of a proposal 提案的纲要 
+broad agreement 意见大致相同 
+She’s a feminist, in the broadest sense of the word. 广义而言，她算是个女权主义者。
+in broad terms 从大体上说
+
+adj. 风格或方式夸张的，尤指故意搞笑的:
+vi. 1 扎营，露营，宿营:
+2 camp (out) 短时间暂住在某人的房子中，（也可在屋外）尤指住宿人没有床:
+n. 1 [C, U] 指人搭建帐篷并在其中暂时居住的一块地方，即营地:
+2 [C] 用于构成复合词，尤指政府提供的供人们长期居住的营帐，如难民营、囚犯拘留营:
+adj. 指男子或其举止故意带女子气的，相当于effeminate:
+n. [C, U] 度假营:
+vi. 野营，尤指假日野营:
+n. [C] 比赛中的一方及其支持者，即阵营:
+n. [C] 比赛中的一方及其支持者，即阵营:
+n. [C, U] 军队的兵营。是一片地方，而非quarter那样指营房建筑。camp具体可指设立在野外，供士兵们临时居住的营区；也可指军队平时所驻扎的营区（士兵们可在此进行训练）；还可指战争中的战俘营或集中营:
+n. [C] 持相同观点（且与持不同观点的人相对立）的一群人，即阵营:
+camp |[kæmp][kæmp]
+The movie is a camp celebration of the fashion industry. 这部电影夸张地颂扬时装行业。
+I camped overnight in a field. 我在田野里露营过夜。
+I’m camping out at a friend’s apartment at the moment. 我目前暂时寄宿在朋友的住处。
+Let’s return to camp. 咱们回营地吧。
+temporary camp 临时营地 
+to set up a base camp 建立大本营 
+Gypsy camp 吉普赛人的营地 
+camp site（通常用campsite）营地 
+concentration, labour/labor, POW, prisoner-of-war camp 集中营；劳改营；战俘营 
+refugee camp 难民营 
+army camp 军营 
+training camp 训练营 
+rebel, terrorist camp 叛乱者的营地；恐怖分子的营地
+a tennis camp 网球度假营 
+summer camp 夏令营 
+basketball camp（尤美）篮球度假营 
+They go camping in France every year. 他们每年去法国野营。
+There was an air of confidence in the England camp. 英格兰队阵营中信心十足。
+the England camp 英格兰队阵营
+an army camp 军营
+the socialist camp 社会主义阵营 
+hostile, opposing camp 敌对阵营；反对派阵营 
+ideological, political camp 意识形态阵营；政治集团 
+armed camp 武装集团
+
+a very strong wind:风很大
+(on the Beaufort scale) a wind of force 8 (34–40 knots or 63–74 km/h).:（在博福特级）8级强风（40节或74公里/小时）。
+a storm at sea.:海上风暴。
+an outburst of laughter:一阵笑声
+gale |ɡeɪl| Noun/:大风,狂风
+I slept well despite the howling gales outside:尽管外面狂风呼啸，我还是睡得很好
+she collapsed into gales of laughter:她陷入狂笑中

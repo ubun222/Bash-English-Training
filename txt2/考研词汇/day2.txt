@@ -1,0 +1,679 @@
+solution					解决办法，溶液，答案
+decision					决定，判决，果断
+care						小心，忧虑，想要，喜欢，关心
+politician					政治家
+critical					批评性的，关键的，评论家的
+obtain					获得，赢得，存在
+resistant					抵抗...的
+pose						摆姿势，构成
+vivid						鲜艳的，清晰的，生动的
+millimeter					毫米
+shiver					颤抖
+escalate					使...上涨，恶化
+graduate					研究生的，毕业，渐进，将...分等级
+spirit					精神，灵魂，实质，心境，偷偷带走
+contradiction				矛盾，反驳
+value						价值，重要，值，重视
+bathe						浸洗，沿着...流淌，使沉浸，游泳
+success					成功的，受好评的，通过的，一帆风顺的
+genuine					真的，真诚的
+port						港口，射击孔
+currency					货币，通行
+prosperity					繁荣
+expand					扩大，增加
+woman						女人
+manage					完成，管理
+exceptional				例外的，杰出的
+satisfaction				满足感，补偿，自满
+mood						心情，坏心情，气氛
+enterprise					企业，事业
+consequently				因此
+\\\\\\\\
+
+n. [C] ~ (to sth) 问题的解决办法，或艰难局面的处理手段:
+n. [U] 在液体中的溶解过程:
+n. [C, U] 溶液:
+n. [C] ~ (to sth) 谜题或数学题的答案:
+solution |[səˈlu:ʃn]
+There's no simple solution to this problem. 这个问题没有简单的解决办法。
+the ability to sort out simple, effective solutions to practical problems 找出简单有效的方法解决实际问题的能力 
+Although he has sought to find a peaceful solution, he is facing pressure to use greater military force. 尽管他试图寻求和平解决，但现在却面临使用更多武力的压力。
+Attempts to find a solution have failed. 试图找到解决办法的种种努力全都失败了。
+Do you have a better solution? 你有更好的解决办法吗？
+the solution of glucose in water 葡萄糖在水中的溶解
+an alkaline solution 碱溶液 
+saline solution 盐溶液 
+a warm solution of liquid detergent 热洗涤剂溶液 
+Vitamins in solution are more affected than those in solid foods. 溶液里的维生素比固体食物里的维生素受到的影响更大。
+the solution to crossword No. 19721 第 19721 号纵横字谜的答案 
+The solution to last week's quiz is on page 81. 上星期测验的答案在第81页。
+
+decision (to do sth) 在思考和讨论了最佳选项之后所做出的一种选择或判断，即（做出的）决定:
+2 [U] 也可用decisiveness，明确而快速地对某事做出决定的能力，即决断力、果断:
+3 [U] 对某事做出决策的过程，即做决定，做决策:
+decision |[dɪ'sɪӡən]
+The final decision is yours.（英）最终的决定权属于你。
+a difficult decision on her future 事关她前途的一个艰难决定 
+last-minute decision 最后一刻做出的决定 
+to make the final decision 做出最终决定 
+This is not a job for someone who lacks decision. 不果断的人不适宜做这份工作。
+The moment of decision had arrived. 决策的时刻已经到了。
+
+vi. 努力去做某事。不常用:
+vt.＆vi. care (about sth) 感到某事是重要的，并值得为之担忧，即关注，担忧，在乎:
+vi. care (about sb) 喜欢或爱某人，并为发生在此人身上的事而担忧，即关心，关怀:
+n. [U] 对自己正在做的事情所采取的小心或谨慎的态度（以确保将事情做好，或避免产生错误或损坏），即小心，谨慎:
+n. [C, usually pl., U] [正式] 担忧，焦虑；让人焦虑或烦恼的事:
+n. [U] 对某人或某事物的看护或照料（即提供所需的东西以确保其健康或确保其受到保护）:
+care |[keə]
+I’ve done this job more times than I care to remember. 这事我都记不清做了多少遍了。
+I don’t care what he thinks. 我才不管他怎么想呢。
+She doesn’t seem to care that he’s been married four times before. 她似乎不介意他以前结过四次婚。
+He really cares about the environment. 他真的很注重环保。
+The information is there for anyone who cares enough to find it. 信息就在那里，只有留意它的人才会发现它。
+He genuinely cares about his employees. 他真诚地关心他的雇员。
+You genuinely care for him, don’t you? 你真的中意他，不是吗？
+She chose her words with care. 她措辞谨慎。
+Fragile--handle with care! 易碎物品——小心轻放！
+He takes the utmost care of his appearance. 他对自己的外表极其在意。
+to writing with painstaking care 一丝不苟地写
+He looked as if he didn’t have a care in the world. 他看上去好像什么事都不操心似的。
+intensive care unit 重症监护室 
+clinical care 临床护理 
+home care 家庭护理 
+spiritual care 精神上的照顾 
+child care（通常用childcare）儿童看护 
+skin care products 护肤品 
+client care（尤英）客户关怀 
+to take care of his books 保管他的书 
+to take care of the plants 照料植物 
+I’ll take care of hiring the car. 租车的事儿我来办。
+Many historic sites are in the care of the Trust. 许多历史遗迹是由这家信托公司管理的。
+
+n. [C] 组织内的投机钻营者，见风使舵者，为贬义:
+n. 1 [C] 职业从政者，尤指政府成员。一般可指各层次的从政者，与statesman有一定交集，但statesman的褒义色彩比较浓厚，而politician此时为中性色彩:
+2 [C] 政客，为贬义。politician还可扩展为组织内的投机钻营者，也含贬义:
+politician |[pɒlɪ'tɪʃn][pɒlɪ'tɪʃn]
+popular, senior politician 受欢迎的政治家；政治元老 
+career, professional politician 职业政治家 
+local politician 地方从政者 
+left-wing politician 左翼政治家 
+Republican politician 共和党从政者 
+corrupt politician 腐败的政客 
+to lobby politicians 游说政客
+
+adj. ~ (of sb/sth) 对某人或某事物表示批评的:
+adj. ~ (of sb/sth) 对某人或某事物表示挑剔的:
+adj. [只用于名词前] 根据（艺术、音乐、文学等）评论家的判断或评论的:
+adj. 有公正（或审慎）的判断力的:
+adj.（局势、病情等）严重的；不确定的且可能有危险的，如危急的:
+adj.（对未来某一局势的影响）极为重要的、关键的:
+critical |[ˈkrɪtɪkl]
+critical comment, critical report 批判性的评论；批判性的报道 
+Tom's parents were highly critical of the school. 汤姆的父母对学校提出了强烈的批评。
+His report is highly critical of the trial judge. 他在报告中对主审法官有颇多批评。
+a few dozen intellectuals who've been critical of the regime 几十名一直批判该政权的知识分子 
+I think you're being overly critical. 我觉得你批评得太过了。
+She became openly critical of party policy. 她开始公开批评党的政策。
+The report was highly critical of the railway's poor safety record. 报告严厉批评了该铁路糟糕的安全记录。
+The supervisor is always very critical. 主管总是很挑剔。
+the film director's greatest critical success 那位电影导演从评论界获得的最大成功 
+In her day she never received the critical acclaim (= praise from the critics) she deserved. 她一生从未受到过评论家应当给她的赞扬。
+The film met with considerable critical and public acclaim. 该影片受到了影评人和公众的高度评价。
+The show was also a resounding critical success. 这次演出同样好评如潮。
+Students are encouraged to develop critical thinking instead of accepting opinions without questioning them. 要鼓励学生培养判断力，而非不加质疑地接受各种观点。
+We need to become critical text-readers. 我们需要培养对文章的评判能力。
+Marx's work was more than a critical study of capitalist production. 马克思的著作不仅仅是对资本主义生产的批判性研究。
+a critical moment in our country's history 我国历史上的危急关头 
+The German authorities are considering an airlift if the situation becomes critical. 如果局势变得危急，德国当局将考虑实施空运。
+Its day-to-day finances are in a critical state. 其日常财务状况十分糟糕。
+The first 24 hours after the operation are the most critical. 病人手术后头24小时是最危险的。
+Ten of the injured are said to be in critical condition. 据说伤者中有10人情况危急。
+One of the victims of the fire remains in a critical condition. 大火的一位受害者依然病情危急。
+a critical factor in the election campaign 竞选活动的关键因素 
+Reducing levels of carbon dioxide in the atmosphere is of critical importance. 减少大气层中的二氧化碳含量极其重要。
+Your decision is critical to our future. 你的决定对我们的将来至关重要。
+The incident happened at a critical point in the campaign. 该事件发生在竞选活动的关键时期。
+Environmentalists say a critical factor in the city's pollution is its population. 环境保护主义者说造成该城市污染问题的一个关键因素是其人口数量。
+Maintaining control of the budget is absolutely critical for success. 控制住预算对于成功极为重要。
+This reorganization is critical to the long-term future of the company. 这次重组对公司的长远发展至关重要。
+
+vi. [正式]（规则、制度、习俗等）存在，适用，相当于apply:
+vi. [正式]（规则、制度、习俗等）存在，适用，相当于apply:
+vt. [正式] 获得某事物（尤指通过付出努力而获得）:
+vt. [正式] 获得某事物（尤指通过付出努力而获得）:
+obtain |[əb'teɪn]
+These conditions no longer obtain. 这些条件不再适用。
+These conditions no longer obtain. 这些条件不再适用。
+to obtain advice, to obtain information, to obtain data, to obtain permission, to obtain authorization, to obtain offer, to obtain score 得到忠告；得到信息；得到数据；得到许可；得到授权；获得报价；得到分数 
+to obtain a copy of the report 弄到这份报告的一个副本 
+goods which are difficult to obtain 难弄到的商品 
+to obtain the patients’ consent 征得病人的同意
+goods which are difficult to obtain 难弄到的商品
+
+adj. ~ (to sth) 抵制或阻止某事的:
+adj. 1 ~ (to sth) 对…有抵抗力的:
+2 -resistant 用于构成形容词，指抗…的、耐…的:
+resistant |[rɪˈzɪstənt]
+Elderly people are not always resistant to change. 上了年纪的人并不总是抵制变革。
+Some people are very resistant to the idea of exercise. 有些人十分反对锻炼。
+plants that are resistant to disease 抗病植株 
+The body may be less resistant if it is cold. 天冷时，身体的抵抗力会下降。
+a metal that is highly resistant to corrosion 极耐腐蚀的金属 
+disease-resistant plants 抗病植株 
+fire-resistant materials 耐火材料
+
+present or constitute (a problem or danger):present或构成（问题或危险）
+raise (a question or matter for consideration):raise（考虑的问题或事项）
+assume a particular position in order to be photographed, painted, or drawn:假设一个特定的位置，以便被拍照、绘画或绘制
+place (someone) in a particular position in order to be photographed, painted, or drawn:将（某人）置于特定位置以便拍照、绘画或绘画
+pretend to be (someone or something):假装是（某人或某物）
+behave affectedly in order to impress others:为了给别人留下深刻印象而做事
+a way of standing or sitting, especially in order to be photographed, painted, or drawn:一种站立或坐着的方式，尤其是为了拍照、绘画或绘画
+a particular way of behaving adopted in order to impress or to give a false impression:为了给人留下深刻印象或给人一种虚假印象而采用的特定行为方式
+puzzle or perplex (someone) with a question or problem:puzzle或困惑（某人）有疑问或问题
+pose |pəʊz| Noun/Verb/:摆姿势,构成
+the sheer number of visitors is posing a threat to the area:数量庞大的游客对该地区构成威胁
+the statement posed more questions than it answered:该声明提出的问题比它回答的要多
+the prime minister posed for photographers:首相为摄影师合影
+he posed her on the sofa:他把她摆在沙发上
+an armed gang posed as policemen to ambush a postman:一个武装团伙冒充警察伏击邮递员
+some people like to drive kit cars, but most just like to pose in them:有些人喜欢开套件车，但大多数人只是喜欢摆姿势
+photographs of boxers in ferocious poses:拳击手凶猛姿势的照片
+the man dropped his pose of amiability:那个男人放弃了他和蔼可亲的姿势
+we have thus posed the mathematician and the historian:我们因此提出了数学家和历史学家
+
+adj.（光）非常明亮的。不太常用:
+adj.（颜色）非常明亮的:
+adj. 1（记忆、描述等）在头脑里产生非常清晰的图片的，即生动的，逼真的，相当于graphic:
+2（人的想象）能够在头脑中对观念、情况等轻易地形成图片的:
+vivid |['vɪvɪd]
+vivid blue eyes 碧蓝的眼睛
+vivid memories 清晰的记忆 
+a vivid account of his life 对他生活的生动描述 
+a vivid imagination 生动逼真的想象 
+to be vivid in sb’s mind 在某人脑海中栩栩如生 
+
+ We're also good at seeing big clouds of small particles of dust. ... But in between dust grains up to a millimeter in size and the smallest planets we can see, we're blind.  我们也同样擅长于发现那些一大堆的尘埃...但是如果要去发现那些毫米级的尘埃，和那些我们能看到的最小的行星，我们几乎就成了盲人。
+ On average these mosses grow at the glacial speed of 1 millimeter per year—and some of the turfs are meters thick.  平均来说，这些苔藓以每年大约1毫米的极慢速度生长，而某些草皮有数米厚。
+ A micrometer is one thousandth of one millimeter.  一微米是一毫米的千分之一。
+millimeter |英 ['mɪlɪˌmi:tə]  美 ['mɪləˌmitə]| n. [计量] 毫米/
+
+
+
+vi. ~ (with sth)（人）（因寒冷、恐惧、激动等）颤抖、哆嗦:
+n. 1 [C]（因寒冷、恐惧、激动等）颤抖、哆嗦:
+‘I'm scared, ’ she admitted, with a shiver. 她颤抖着承认说:
+2 [pl.] the shivers指（因恐惧或发高烧）寒战、寒噤:
+shiver |[ˈʃɪvə(r)]
+to shiver with cold, to shiver with excitement, to shiver with pleasure 冷得发抖；激动得发抖；高兴得发抖等 
+Don't stand outside shivering─come inside and get warm! 别站在外面冻得打哆嗦了——进来暖暖身子吧！
+He shivered in the cold. 他冻得发抖。
+Her body ached and shivered from the frosty air. 冰冷的空气冻得她全身疼痛，不停地打战。
+He shivered at the thought of the cold, dark sea. 那寒冷黑暗的大海，他想想都吓得发抖。
+I was sitting on the floor shivering with fear. 我坐在地板上，吓得发抖。
+He shivered at the thought of having to run for election.（比喻用法）他一想到要参加竞选就浑身哆嗦。
+He shivered at the thought of it. 他一想到这件事就打哆嗦。
+She shivered involuntarily as he approached her. 他离她越来越近，她不由自主地颤抖起来。
+His cruel and callous comments made me shiver. 他残酷无情的批评令我胆寒。
+A shiver of unease ran through the audience. 一阵不安的战栗在观众中迅速蔓延。
+The sound of his voice sent shivers down her spine. 一听见他的说话声，她就背上一阵阵发冷。
+His appearance sent a cold shiver down her spine. 他的出现令她脊梁骨一阵发凉。
+He felt a cold shiver of fear run through him. 他吓得打了一个寒战。
+a shiver of fear 吓得发抖 
+Her beautiful voice sends shivers down your spine. 她那甜美的声音令人震颤。
+a delicious shiver of pleasure 快乐的战栗 
+She gave a little shiver and laughed. 她身子微颤，笑了起来。
+He felt a shiver of excitement. 他兴奋得发抖。
+She tried to suppress a shiver of anticipation. 她试图控制住自己满怀期待的颤抖。
+I don't like him. He gives me the shivers. 我不喜欢他，一见他我就不寒而栗。
+Just thinking about flying gives me the shivers. 一想到要坐飞机我就不寒而栗。
+I get the shivers when I think about it. 一想到这件事我就不寒而栗。
+Symptoms include headaches, vomiting and the shivers. 症状包括头痛、呕吐和打寒噤。
+
+vt.&vi. ~ (sth) (into sth)（使）恶性上涨:
+vt.&vi. ~ (sth) (into sth)（使）变得更大、更糟、更严重等，如（使）逐步扩大、升级、不断恶化、加剧:
+escalate |[ˈeskəleɪt]
+Prices had recently escalated dramatically. 近来价格急剧上涨。
+the escalating costs of health care 逐渐增加的医疗费用 
+The cost of raw materials has escalated sharply. 原料的成本急剧上涨。
+The budget escalated to £32 million. 预算增加至3200万英傍。
+The fighting escalated into a full-scale war. 这场交战逐步扩大为全面战争。
+We do not want to escalate the war. 我们不想让战争升级。
+a small local disagreement that escalates to civil war 升级为内战的小规模地方争端 
+The protests escalated into five days of rioting. 抗议升级为为期五天的骚乱。
+Both unions and management fear the dispute could escalate. 工会和管理层都担心争端会升级。
+Violence between the two sides has been steadily escalating. 双方的暴力冲突在逐步升级。
+The risks gradually escalate. 风险逐步升级。
+Prices had recently escalated dramatically. 近来价格急剧上涨。
+the escalating costs of health care 逐渐增加的医疗费用 
+The cost of raw materials has escalated sharply. 原料的成本急剧上涨。
+The budget escalated to £32 million. 预算增加至3200万英傍。
+
+vi. graduate (from sth) to sth 逐渐晋升到一个更重要的职位上。强调晋升过程的平缓性（而非一蹴而就）:
+vi. graduate (from sth) to sth（从做不太困难或重要的事）逐渐过渡到（做更困难或更重要的事），尤指升迁到一个更重要的职位上:
+n. 1 [C] graduate (in sth) 拥有大学学位的人，即大学毕业生。是此义的常规用词:
+2 [C] 研究生:
+3 [C] [美] 学校毕业生，中小学毕业生:
+graduate (from ...) 从大学获得学位，尤指获得学士学位，即大学毕业:
+2 [美] graduate (from ...) 毕业，尤指中学毕业:
+vt. [美] graduate sb (from sth) 授予某人学位或毕业文凭等:
+graduate |['ɡrædӡueɪt]
+He graduated to general manager of the company. 他晋升为公司的总经理。
+He graduated to general manager of the company. 他晋升为公司的总经理。
+She graduated from being small roles in movies to being main characters. 她从扮演电影中的小角色逐步过渡到扮演主角。
+a graduate of Oxford 牛津大学毕业生 
+college, university, medical-school graduate 大学毕业生；医学院毕业生 
+history graduate 历史专业毕业生 
+doctoral graduate（美）博士毕业生 
+graduate trainee（英）刚毕业的实习生 
+graduate recruitment（英）毕业生招聘 
+graduate course, graduate degree 研究生课程；研究生学位 
+graduate school（美）研究生院 
+a high school graduate 中学毕业生
+vi. 1 graduate (in sth) 
+to graduate in English 获得英语学士学位 
+to graduate from Oxford with a degree in Politics 从牛津大学毕业，获政治学学士学位 
+to graduate from high school 从高中毕业 
+The university graduated 2000 students last year. 去年这所大学有2000人毕业。
+
+n. 1 [sing.] 某事物的典型（或最重要的）品质或属性，如精髓，基本精神，本质:
+2 [U] 某事物的真实意义或目的，可称为实质:
+n. [sing.] 气氛:
+n. [sing.] 心态；态度:
+n. 1 [U, C] 人的精神或心灵（而非肉体）（包括思想、感情或性格等）:
+2 [pl.] spirits 可指人的情绪涨落或心理状态的起伏:
+3 [U] 勇气、决心或精力、活力:
+4 [U, sing.]（对一个团体、队伍或社会的）忠诚，忠心:
+vt. 以一种快速、秘密或神秘的方式带走某人或某事物:
+n. [C]（人们认为人死后不会破灭的）灵魂，鬼魂，幽灵（表“灵魂”时，相当于soul，二者此时未见明显区别，只是soul为常规用法）:
+n. [C, usually pl.] [尤英] 烈性酒:
+n. [U] 工业或医疗上所用的一种特殊酒精，即工业酒精；医用酒精:
+n. [C] 总是与形容词连用，指某种类型的人:
+n. [C] [旧时] 想象中（或虚拟）的一种具有魔法的生物，例如小精灵，仙子，小妖精:
+spirit |['spɪrɪt]
+the spirit of the age 时代精神 
+She embodies the spirit of revolution. 她体现了革命精神。
+a spirit of adventure 冒险精神 
+democratic spirit 民主精神 
+creative spirit 创新精神 
+entrepreneurial spirit 事业心 
+The movie is true to the spirit of the book. 影片忠实于原著精神。
+Obey the spirit, not the letter of the law. 要依照法律的精神实质，而不是字面意思。
+an edict that violates the spirit of the Geneva Convention 违背《日内瓦公约》精神的法令 
+Christmas spirit 圣诞气氛 
+I was just getting to the spirit of things when the party suddenly ended. 我还没感受到气氛聚会就突然结束了。
+They brought the spirit of carnival to their concerts. 他们给演唱会带来狂欢的气氛。 
+right spirit 正确的态度 
+a spirit of goodwill 友善的态度 
+a spirit of cooperation 合作的态度 
+‘OK, I’ll try.’ ‘That’s the spirit.’ “好吧，我来试试。”“这就对了。” 
+The party went well because everyone entered into the spirit of things. 晚会很成功，因为每个人都很投入。
+the power of the human spirit to overcome difficulties 人类克服困难的精神力量 
+the triumph of the human spirit 人类的精神胜利 
+I will be with you in spirit. 我在精神上支持你。
+You must try and keep your spirits up. 你必须设法保持高昂的情绪。
+My spirits sank at the prospect of starting all over again. 想到一切都得从头再来，我的情绪一下子低落了。
+She isn’t in the best of spirits today. 她今天的情绪不是很好。
+He sang with great spirit. 他满怀豪情地唱着歌。
+to break his spirit 摧毁他的意志 
+adventurous, competitive, fighting, indomitable, pioneer spirit 冒险精神；竞争精神；斗志；不屈不挠的精神；先驱精神 
+community, team spirit 集体精神；团队精神 
+to promote spirit 发扬精神
+After the concert, the band was spirited away before their fans could get near them. 音乐会结束后，乐队没等歌迷们靠近就神秘地消失了。
+Many people believe the spirit lives on after death. 许多人相信死后灵魂仍然活着。
+ancestral spirit 祖先的灵魂 
+evil, malevolent spirit 邪灵；恶鬼 
+restless spirit 不得安息的鬼魂 
+spirit guide 灵魂导师 
+the Holy Spirit 圣灵 
+the spirits of the dead 亡灵
+a bottle of spirits 一瓶烈酒
+leading spirit（尤英）领袖 
+moving spirit 推动者 
+She was a guiding spirit in primary education. 她是初等教育的引路人。
+mean spirit 吝啬鬼 
+brave, proud spirit 勇者；骄傲的人 
+free spirit 自由的人
+
+n. [U, C] 反驳、驳斥:
+n. [C, U] ~ (between A and B) （事实、看法、行动等的）不一致，矛盾，对立:
+contradiction |[ˌkɒntrəˈdɪkʃn;美ˌkɑ:n-]
+I think I can say, without fear of contradiction, that… 就算有人反驳，我也胆敢说… 
+Now you say you both left at ten--that's a contradiction of your last statement. 你现在说你们俩是十点钟离开的，这可和你上次的说法不一致。
+There is a contradiction between the two sets of figures. 这两组数据相互矛盾。
+His public speeches are in direct contradiction to his personal lifestyle. 他的公开言论与他本人的生活方式恰恰相反。
+the contradictions between her private life and the public persona 她的私生活与公众形象之间的巨大反差 
+The performance seemed to me unpardonable, a contradiction of all that the Olympics is supposed to be. 在我看来，这次的表现是不可宽恕的，和奥运精神完全相悖。
+How can we resolve this apparent contradiction? 我们怎样才能解决这个明显的矛盾呢？
+A public service run for profit -- a contradiction in terms if there ever was one. 以营利为目的的公共服务机构——这是典型的用词上的自相矛盾（如果真有这种说法的话）。
+There's a basic contradiction in the whole idea of paying for justice. 用金钱换取公正这一想法存在着一个基本的矛盾。
+logical contradiction 逻辑上的矛盾 
+inner, internal contradiction 内在矛盾；内部矛盾 
+That's in direct contradiction to what he said yesterday. 这一说法同他昨天所说的有直接矛盾。
+That's a contradiction of what you just said. 这话与你刚才所说的相矛盾。
+The idea is almost a contradiction in terms. 这主意本身几乎就是自相矛盾的。
+There is an apparent contradiction between the needs of workers and those of employers.工人的需要同雇主的需要之间存在明显的矛盾。
+
+n. [C] 数学中的值，数值:
+n. [C] values 复数表示关于是非的信念，或生命、生活的价值观:
+n. 1 [U, C] 某事物的价值，尤指商品的价值:
+2 [U] 某事物与其价格相比时的划算程度，尤用于英式英语:
+vt. value sth (at sth) 给…估算（或定下）金钱价格，即估价，定价:
+value sb/sth (for sth) 认为…重要，即重视:
+n. [U] 有用性或重要性，相当于benefit:
+value |['vælju:]
+Let y have the value 33. 假设y的值为33。
+the dominant values of a society 一个社会的主流价值观 
+traditional values 传统的价值观 
+human values 人的价值观 
+cultural, educational, political, social values 文化观念；教育观念；政治观念；社会观念 
+moral, religious, spiritual values 道德观念；宗教信仰；精神观念 
+family values 家庭观念 
+Western values 西方的价值观 
+parental values 父母的价值 
+a set of values 一套价值观
+land, property value 土地价值；房地产价值 
+Use current market values to determine the worth of your assets. 用当前的市场价值来确定你的资产价值。
+rental value 租赁价值 
+net value 净值 
+shareholder value 股东价值 
+the high value of the pound 英镑的高币值 
+monetary value 货币价值 
+a share with a nominal value of $50 面值为50美元的股票 
+face value of a coin 一枚硬币的面值 
+the resale value of a car 汽车的转卖价值 
+The piano has held its value. 这架钢琴保持了原有价值。
+a painting to the value of one million pound 价值达100万英镑的一幅油画 
+high production values 高产值 
+The winner will receive a prize to the value of £800. 获胜者将得到价值为800英镑的奖励。
+Our products deliver value. 我们的产品很划算。
+Though a little more expensive, the larger model gives better value for money. 尽管较大的一款稍微贵了点儿，但是更划算一些。
+The property has been valued at over $2 million. 这处房地产估价为200多万美元。
+vt. value sb/sth (as sth) 
+I really value him as a friend. 我真的把他视为好朋友。
+The area is valued for its vineyards. 这个地区因它的葡萄园而受到重视。
+a valued member of staff 职工中受重视的一员 
+to value the ordinary things in life 珍视生活中的平凡事 
+Tulips are valued for their beauty. 郁金香因美丽而受到青睐。
+He hated to be valued for his looks alone. 他讨厌别人只看重他的相貌。
+the value of regular exercise 经常锻炼的好处 
+the nutritional value of eggs 鸡蛋的营养价值 
+The arrival of canals was of great value to many industries. 运河的出现对许多行业具有重大的意义。
+The necklace had sentimental value for her. 那条项链对她有纪念意义。
+news, social value 新闻价值；社会价值 
+practical, symbolic value 实际用途；象征意义 
+aesthetic, entertainment value 审美价值；娱乐价值 
+He places a high value on marriage. 他把婚姻看得很重。
+He didn’t say anything of value. 他没讲什么有意义的话。
+Pottery fragments are of great value to historians. 陶瓷碎片对于历史学家很有价值。
+
+vt. [文学] bathe sth (in sth) 用光线来填充或覆盖:
+vt.＆vi. [美] 给某人洗澡；洗澡。相当于bath:
+vt. 用水清洗某事物（尤指身体部位）:
+vi. [旧时]（到海、河等水体中）享受游泳:
+n. [sing.] [英，非正式]（在海、河等中水体的）游泳:
+bathe |[beɪð]
+The moon bathed the countryside in a silver light. 月光下的乡村沐浴在一片银辉之中。
+to bathe the baby 给婴儿洗澡 
+I bathe every day. 我每天洗澡。
+to bathe the wound 清洗伤口
+to go for a bathe 去游泳
+
+n. 1 [U] success (in sth/in doing sth) 成功、发财、成名、更高社会地位的成功获取。是一个常规用词，极为常用:
+2 [C] 成功的人或事物:
+success |[sək'ses]
+What’s the secret of your success? 你成功的秘诀是什么？
+I didn’t have much success in finding a job. 我找工作没什么结果。
+She tried to persuade them, without success. 她试图说服他们，但没有成功。
+artistic, business, economic success 艺术成就；生意成功；经济成就 
+academic, electoral, professional success 学术成就；选举获胜；专业成就 
+material, worldly success 物质上的成功；世俗意义上的成功 
+The party was a big success. 这次聚会非常成功。
+He’s proud of his daughter’s successes. 他为女儿的种种成就感到自豪。
+She wasn’t a success as a teacher. 她教书没教出什么名堂。
+He was determined to make a success of the business. 他决心把这门生意做好。
+
+adj.（人或感情）真诚的、诚实的、可信赖的:
+adj. 真的、名副其实的:
+genuine |[ˈdʒenjuɪn]
+a very genuine person 非常诚实可信的人 
+I'm convinced she is absolutely genuine. 我确信她绝对是真诚的。
+His offer sounded genuine enough. 他的建议听起来够诚恳。
+He made a genuine attempt to improve conditions. 他真心实意地努力改善环境。
+genuine concern for others 对他人真诚的关心 
+There was genuine joy in this room. 房间里洋溢着发自内心的快乐。
+If this offer is genuine I will gladly accept it. 如果这份帮助是诚心的，我欣然接受。
+Is the painting a genuine Picasso? 这幅画是毕加索的真迹吗？
+Fake designer watches are sold at a fraction of the price of the genuine article. 伪造的设计师名牌手表以真品若干分之一的价格出售。
+Only genuine refugees can apply for asylum. 只有真正的难民才能申请政治避难。
+genuine leather 真皮 
+The document is not considered genuine. 这份文件被认为是伪造的。
+Her happiness was perfectly genuine. 她确实很快乐。
+
+n. 1 [U] 葡萄牙所产的一种甜味浓郁的深红色葡萄酒，常在餐后引用，即波尔特葡萄酒:
+2 [C] 一杯波尔特葡萄酒:
+n. [C] 输入或输出的端口，即计算机上与外部设备相连接的一个地方（这种连接常用一根线缆）:
+vt. 将软件（或程序）从一个系统或一部机器移植到另一个系统或机器上:
+n. [U] 飞机等的左侧，即左舷:
+n. 1 [C] 拥有港口（海或江河的港口）的一个城镇或城市（该港口尤指船只可以装货卸货的一个地方）:
+2 [C, U] 船只装货、卸货、躲避风暴、乘客上船下船的一个地方，即港口。带有很浓的商业味道:
+n. [U] 船等的左侧，即左舷:
+port |[pɔ:t]
+to have a glass of port after dinner 饭后来一杯波尔特葡萄酒 
+to attach the device to a PC throuth standard ports 将该设备通过标准端口和电脑相连
+a major port 一个重要的港口城市 
+port area, port city, port town 港口地区；港口城市；港口城镇 
+a port of call 沿途停靠港 
+naval port 军港 
+coastal, foreign, home, sea port 沿海港口；外国港口；船籍港；海港 
+Channel port 英吉利海峡的港口 
+cargo, commercial, ferry, fishing port 货运港；商务港；渡船码头；渔港 
+port authority 港务局 
+a port of entry 入境口岸
+to turn to port 向左转
+
+n. [U] 被很多人使用或接受，即流行:
+n. [C, U] 一国在交易流通过程中发挥交换之媒介作用的物品，即“通货”，因绝大部分情况下都是钱币充当此媒介，故也常称为“货币”。currency是本组其它表示“钱币”之词的基础，是一个高度概括性的学术概念，强调钱币作为一个系统而具有的流通性和媒介属性:
+currency |['kʌrənsɪ]
+The term ‘post-industrial’ now has wide currency.“后工业化”这个术语现已广为使用。
+The qualification has gained currency all over the world. 这种资质在全世界都得到了普遍认可。
+This belief has general currency. 这种信仰广泛流行。
+national currency 本国货币 
+foreign currency 外币 
+Japanese currency 日本货币 
+weak currency 疲软货币 
+hard currency 硬通货 
+paper currency 纸币 
+currency exchange 货币兑换 
+currency markets 货币市场 
+currency devaluation 货币贬值 
+currency system 货币体系（或货币制度）
+currency reform 货币改革
+
+n. [U]（尤指经济方面的）繁荣、兴旺、昌盛:
+prosperity |[prɒˈsperəti;美prɑ:ˈs-]
+The country is enjoying a period of peace and prosperity. 国家正值国泰民安、繁荣昌盛的时期。
+a new era of peace and prosperity 和平繁荣的新时代 
+Japan's economic prosperity 日本的经济繁荣 
+material prosperity 物质的丰富 
+national prosperity国家的繁荣 
+personal prosperity 个人的富足 
+an area with a level of prosperity higher than the national average 发达程度高于全国平均水平的地区 
+The growth of tourism brought prosperity to the island. 旅游业的发展给这座岛带来了繁荣。
+The island's prosperity depends on its fishing industry. 这个岛的繁荣有赖于渔业。
+Our future prosperity depends on economic growth. 我们未来的繁荣昌盛依赖经济的发展。
+
+vt.＆vi. 数量变得更大；使…的数量变得更大，与contract相反:
+vt.＆vi. 1 尺寸变得更大；使…的尺寸变得更大，与contract相反:
+2 扩展（业务）；（业务）扩展（即开设更多的分公司、赚更多的钱等）:
+vi. 谈论更多；往自己正在说的内容里添加更多细节，如详述:
+vt.＆vi. 重要性变得更大；使…的重要性变得更大:
+expand |[ɪk'spænd]
+Student numbers are expanding rapidly. 学生人数在迅速增加。
+A child’s vocabulary expands through reading. 孩子的词汇量通过阅读得到扩大。
+Metals expand when they are heated. 金属受热会膨胀。
+to expand the role of family doctors 扩大家庭医生的作用 
+to expand the airport 扩建机场 
+The town has expanded into a city. 该镇已发展成为一个城市。
+to expand the business 扩展业务 
+an expanding economy 不断发展的经济 
+Internet companies expanding abroad 向海外扩展的互联网公司 
+Several brands have successfully expanded their market presence. 好几个品牌成功地扩大了市场份额。
+I needed to expand my possibilities of making a living. 我需要拓展我的谋生途径。
+I repeated the question and waited for her to expand. 我把问题重复了一遍，等着她详细回答。
+The new system expanded the role of family doctors. 新体制放大了家庭医生的作用。
+
+n. [C] [有时贬] 一个妻子或性伙伴:
+n. 1 [C] 一个成年女子、妇女:
+2 [U]（统称）女子、女人:
+3 [C] 构成复合词，来自某地的一个女人、工作或兴趣为…的一个女人:
+4 [sing.] [旧时] 以一种生气或重要的方式对一个女人的粗鲁称呼:
+n. [C] 女工人（尤指做手工劳动的女工）:
+woman |['wʊmən]
+He’s got a new woman in his life. 他生活中又有了一个女人。
+men, women and children 男人、女人和儿童 
+a woman doctor 女医生 
+young woman 年轻女子 
+old woman 老妇人 
+She’s all woman!（非正式用法）她是典型的女人！
+an Englishwoman 英格兰女人 
+a businesswoman 女商人 
+a Congresswoman 女议员 
+a horsewoman 女骑师 
+Be quiet, woman! 安静，你这个臭娘儿们！
+to have a woman to do the cleaning 雇一位女工打扫卫生
+
+vt.＆vi. 成功做成某事（尤指困难的事）:
+vi. manage (with/without sb/sth) 能够解决问题、处理困难局面等，相当于cope:
+vt. 1 能够在某一时间做某事:
+2 能够处理或应对…:
+vt. 1 明智地使用金钱、时间、信息等:
+2 使…处于控制之下:
+vt.＆vi. 管理、负责或控制（一家公司、一支团队、一个组织等）。是此义的一个基础且常规的用词，含义最具有概括性，也最为常用:
+vi. manage (on sth) 没有很多金钱而能够活下去:
+manage |['mænɪdӡ]
+In spite of his disappointment, he managed a weak smile. 尽管他很失望，他还是勉强露出一丝淡淡的微笑。
+Can you manage another piece of cake? 你还能再吃块蛋糕吗？
+We managed to get to the airport in time. 我们设法及时赶到了机场。
+I can manage perfectly well on my own, thank you. 我自己完全能应付，谢谢。
+I don’t know how she manages on her own with four kids. 我真不知道她一个人是怎么养活她那四个孩子的。
+We couldn’t have managed without you. 没有你，我们就办不成了。
+Let’s meet up again--can you manage next week sometime? 我们再见一次面吧——下周找个时间，行吗？
+Can you manage that suitcase? 你弄得动那个箱子吗？
+Don’t tell me how to manage my affairs. 用不着你来告诉我怎样管我自己的事。
+to manage your data 管理你的数据 
+to manage your time 管理你的时间 
+The condition can be easily managed by simple dietary adjustments. 这种病可以通过简单的饮食调整轻松加以管控。
+to manage an unruly child 管住一个桀骜不驯的孩子 
+to manage a factory, to manage a hotel, to manage a soccer team 管理工厂；管理酒店；给足球队当教练 
+to manage a department, to manage a project 负责一个部门；负责一个项目 
+an exchange rate system that will be tightly managed by the central bank 受中央银行严密监管的汇率体系 
+to manage your portfolio 管理你的投资组合
+He has to manage on less than £100 a week. 他就靠每周不到100英镑来维持生活。
+
+adj. 非常不寻常的，即异常的、特别的、特殊的、例外的:
+adj. 杰出的、优秀的、卓越的:
+exceptional |[ɪkˈsepʃənl]
+This deadline will be extended only in exceptional circumstances. 只有在特殊情况下才会延长最后期限。
+if the courts hold that this case is exceptional 如果法庭认为这是个特殊案例 
+School governors have the discretion to allow parents to withdraw pupils in exceptional circumstances. 督学可以酌情允许父母在特殊情况下让学生退学。
+At the age of five he showed exceptional talent as a musician. 他五岁时就表现出非凡的音乐才能。
+children with exceptional ability 具有非凡才能的孩子们 
+His translation is exceptional in its poetic quality. 他的译作非常有诗意。
+The quality of the recording is quite exceptional. 录音质量相当不错。
+
+n. [U] [正式] 处理投诉、抱怨、债务、伤害等事务时所采取的一种可接受的方式:
+n. [U, C] 当自己已实现了某事，或自己所期望发生的事情确实已发生之时所拥有的一种好心情，即满意、满足、欣慰；也可指令人满意、满足或欣慰之事:
+n. [U] 满足需要或欲望的行为，如满足、实现、达到等:
+satisfaction |[͵sætɪs'fækʃən]
+I complained to the manager but I didn’t get any satisfaction. 我向经理投诉，但问题丝毫没有得到解决。
+smile of satisfaction 满意的笑容 
+She looked back on her career with great satisfaction. 回顾自己的职业生涯，她深感欣慰。
+a feeling of satisfaction, a sense of satisfaction 满足感 
+emotional satisfaction 情感满足 
+customer satisfaction 顾客满意度 
+level of job satisfaction 工作满足感
+the satisfaction of desires 欲望的满足 
+the satisfaction of your ambitions 抱负的实现
+
+n. [sing.]（一群人或某地的）气氛、氛围:
+n. [C] [sing.]（群体的）意愿:
+n. [C] [sing.]（群体的）态度、心态:
+n. [C] 愤怒或不耐烦的情绪:
+n. [C] 心情、情绪:
+n. 1 [C]（语法）表达语气的动词屈折变化:
+2 [C]（语法）动词的语气:
+mood |[mu:d]
+The mood of the meeting was distinctly pessimistic. 这次会议的气氛显然很悲观。
+The movie captures the mood of the interwar years perfectly. 这部电影恰如其分地捕捉到了两次世界大战中间这些年的氛围。
+First set the mood with music. 首先用音乐烘托气氛。
+It was Christmas and everyone was in festive mood. 圣诞节到了，每个人都沉浸在节日的欢乐气氛中。
+The right music sets the mood for such a great moment. 合适的音乐能为如此重大的时刻营造气氛。
+His comments pretty much killed the mood for the rest of the show. 他的解说基本上毁掉了演出剩余部分的气氛。
+I wanted different moods in each room. 我想让每个房间都感觉不一样。
+The government seemed to be in tune with the popular mood. 政府似乎和民众的意愿是一致的。
+They largely misread the mood of the electorate. 他们很大程度上误读了选民的意图。
+The crowd's mood abruptly turned violent. 人群的情绪突然变得暴烈起来。          
+I wonder why he's in such a mood today. 我不知道他为什么今天脾气这么坏。
+She was in one of her moods (= one of her regular periods of being angry or impatient). 她又闹情绪了。
+She's in a good mood today (= happy and friendly). 她今天心情很好。
+He's always in a bad mood (= unhappy, or angry and impatient). 他总是情绪不好。
+to be in a foul/filthy mood 情绪很差 
+Some addicts suffer violent mood swings (= changes of mood) if deprived of the drug. 一些吸毒成瘾的人一旦没有毒品就会出现情绪的激烈波动。
+She was in an upbeat mood about the future of the company. 她对公司的未来充满信心。
+I can't keep up with his constantly changing moods. 他喜怒无常，让我无所适从。
+The workers were in defiant mood as they entered the tribunal. 员工们走进仲裁法庭时看上去蔑视一切。
+The music helped to put them in a more relaxed mood. 音乐使他们心情更加放松。
+Choose clothes to match your mood. 要选择适合你心情的衣服。
+The weather seemed to reflect his dark mood. 天气阴沉沉的，正如他阴郁的心情。
+He seemed able to read her mood. 他似乎能读懂她的心情。
+He could sense her gloomy mood. 他能感觉到她忧郁的心境。
+| capture a film that has captured the mood of the moment | gauge 
+Not wanting to dampen her good mood, I quickly changed the subject. 因为不想影响她的好心情，我很快改变了话题。
+It immediately brightened her mood and brought a smile to her face. 这立刻让她心情开朗，满面笑容。
+Serotonin is a brain chemical which regulates mood. 血清素是一种调整情绪的大脑化合物。
+His mood lifted as he concentrated on his driving. 他集中精力开车时，心情又好了起来。
+After the accident he suffered violent mood swings. 出事之后，他的情绪波动很大。
+mood state 心境 
+the challenge of coping with negative mood states 应对负面情绪状态的挑战 
+Mood disorders can disrupt relationships. 情绪障碍可能扰乱人际关系。
+I tried to make him laugh, but he was in no mood for jokes. 我尽力想逗他笑，可他根本就没心思听笑话。
+He was in no mood for being polite to visitors. 他当时没心思以礼待客。
+I'm just not in the mood for a party tonight. 我今晚就是没心情参加聚会。
+Instantly he felt her change of mood. 他立刻感到了她情绪上的变化。
+She could be a very funny girl when the mood struck her. 她心情好的时候会变得很风趣。
+the indicative mood, the imperative mood, the subjunctive mood 陈述语气；祈使语气；虚拟语气           
+
+n. [U] 想出新项目并促使其成功的能力，即创业精神，事业心。含褒义。与initiative词义相近:
+n. 1 [C] 公司，企业。该词是将创建者和经营者的开拓精神和冒险精神具象化后所形成的一个“公司”概念，暗含了一种勇敢进取、竭尽全力的企业家精神，因此汉语中将其翻译为“企业”最为恰当。但并不表明公司的某种类型:
+2 [C] 某人所做（或所尝试）的一个困难的或重要的新事情，即事业。与venture近义:
+3 [U] 创立（并管理）新公司的活动，即企业发展、企业经营、企业活动:
+enterprise |['entəpraɪz]
+I thought she showed great enterprise. 我认为她表现出了强烈的事业心。
+a spirit of enterprise 创业精神 
+a job in which enterprise is rewarded 事业进取精神有回报的一份工作
+small and medium-sized enterprises 中小型企业 
+large, large-scale enterprise 大型企业 
+small, small-scale enterprise 小型企业 
+family, private enterprise 家族企业；私人企业 
+public, state, state-owned enterprise 公立企业；国有企业 
+multinational enterprise 跨国公司 
+business, commercial, for-profit（尤美）enterprise 商业企业；营利性企业 
+economic, farming, industrial, manufacturing enterprise 经济实体；农垦企业；工业企业；制造企业 
+great enterprise 伟大的计划 
+ambitious enterprise 野心勃勃的规划 
+collective, cooperative enterprise 集体项目；协作项目 
+business enterprise 企业规划 
+criminal enterprise 犯罪计划 
+academic, research, scientific enterprise 学术项目；研究项目；科学项目 
+to encourage enterprise 鼓励企业发展 
+an enterprise culture（尤英）经商文化 
+free, private enterprise 自由经营；私营 
+corporate, individual enterprise 企业经营；个体经营
+
+adv. 因此，所以:
+consequently |[ˈkɒnsɪkwəntli;美ˈkɑ:nsəkwentli]
+This poses a threat to agriculture and the food chain, and consequently to human health. 这会对农业和食物链造成威胁，由此而危及人的健康。
+He had sustained a broken back while working in the mines. Consequently, he spent the rest of his life in a wheelchair. 他在矿井里工作时被压断了脊骨，结果，下半辈子都与轮椅为伴了。
+Relations between the two companies had, consequently, never been close. 因此，两家公司之间的关系一直都不太亲密。

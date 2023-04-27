@@ -1,0 +1,677 @@
+commercial							商业的，商务的，大型的，广告
+generator				发电机，制造者
+cape					披肩，海角
+intervene					介入，阻碍
+mercy						仁慈，宽容力，幸运的事
+prevent						阻止
+capable					能干的，可能的
+tractor				拖拉机
+visual					视觉的
+simulate				假装，模拟，模仿
+valuable				很值钱的，重要的
+productive							高产的，富有成效的
+detect						查明，发现
+fracture				骨折，裂缝，断裂
+sensation				感激，察觉，轰动
+improve							改善，增加，减少
+recall					召回，回忆起，使...恢复
+affection							喜爱，爱情
+formulate					构想，制定，创立，表达
+conversely				相反的
+graceful				优雅的，得体的
+monkey					猴子
+positive				确定的，乐观的，十足的，正的，优点
+access									入口，享用机会，进入，存取
+panel					嵌板，控制板，专家咨询组
+erect						直立的，建造，竖起
+oppose						反对，抵制
+void					空白，无效的
+consumption				消耗，消费，接受
+ambassador				大使
+\\\\\\\\
+
+adj. 1 与买卖货品或服务相关的，即商业的，贸易的，常作前置定语:
+2 营利的，或以营利为目的的，即商业性的，只作前置定语:
+3 与质量、产品研发或公共服务相比，更关注利润和市场的，即商业化的，含贬义:
+4 商用的:
+5（电视或广播电台）以发布商业广告为生（或牟利）的，即商业性的:
+adj.（电视或广播电台）以发布商业广告为生（或牟利）的，即商业性的:
+n. [C] 广播电台或电视上播放的一条广告:
+commercial |[kə'mə:ʃl]
+the commercial heart of the city 该城市的商业中心 
+commercial baby foods 市面上的婴儿食品 
+commercial flights 商业飞行 
+The movie was not a commercial success. 这部电影票房收入不佳。
+Their more recent music is far too commercial. 他们最近的音乐过分商业化了。
+commercial vehicle 商用车辆 
+commercial radio station, commercial TV channel 商业电台；商业电视频道
+commercial radio station, commercial TV channel 商业电台；商业电视频道 
+radio, TV commercial 电台广告；电视广告 
+car commercial 汽车广告 
+30-second commercial 30秒广告 
+campaign commercial（美）竞选广告 
+The actress decided to do commercials. 这位女演员决定去拍商业广告。
+The company has made commercials for leading car manufacturers. 这家公司为一流的汽车生产商制作过广告。
+The movie was full of commercial breaks. 这部电影里插播了好多广告。
+She’s in a commercial for cars. 她出现在一个汽车广告中。
+
+n. [C] 促使…发生的人（或事物）:
+n. [C] 发电机，是此义的常规用词:
+n. [C] 用于产生某种物质的一台机器，即发生器:
+n. [C] [英] 电力公司:
+generator |[ˈdʒenəreɪtə(r)]
+The US economy is still an impressive generator of new jobs. 美国经济依然在创造着数量惊人的新就业机会。
+The company has been a very good cash generator. 这家公司盈利状况一直相当好。
+diesel, gas, petrol（英）, steam, wind generator 柴油发电机；燃气发电机；汽油发电机；蒸汽发电机；风力发电机 
+electrical, electricity, power generator 发电机 
+portable generator 便携发电机 
+emergency generator 应急发电机 
+A water turbine drives the generator. 这台发电机是靠水轮机驱动的。
+The wind generator delivers 120 watts in a strong breeze. 这台风力发电机强风时可以发120瓦电。
+The factory's emergency generators were used during the power cut. 工厂应急发电机在停电期间用上了。
+The museum uses smells and smoke generators to create atmosphere. 博物馆利用气味和烟雾发生器制造气氛。    
+the UK's major electricity generator 英国主要的电力公司
+
+A cape is a short cloak. 披肩
+A cape is a large piece of land that sticks out into the sea from the coast. 海角; 岬
+cape |英 [keɪp]  美 [kep]| n. [地理] 海角，岬；披肩/n. (Cape)人名；(塞)察佩；(英)凯普/
+...a woollen cape.…一件羊毛披肩。
+Naomi James became the first woman to sail solo around the world via Cape Horn.内奥米·詹姆斯成为第一位独自经合恩角进行环球航行的女子。
+
+
+vi. [正式] 存在于两个时间点之间:
+vi. ~ (in sth)（某人、某个组织机构或国家）出面、介入、干涉、干预某事（以改善局面或提供帮助）:
+vi.（某事的发生）阻碍、阻挠、干扰（另一事的发生）:
+vt.&vi. 插嘴；打断（别人的话）:
+vi. [正式] 存在于两个地点之间:
+intervene |[ˌɪntəˈvi:n;美-tərˈv-]
+I saw nothing of her during the years that intervened. 这期间的几年中我根本没有见过她。
+The situation calmed down when police intervened. 警方干预后，局势平息下来。
+Intervening militarily will not bring peace. 军事干预不会带来和平。
+Eventually, the army was forced to intervene. 最终军队被迫介入。
+The Government is doing nothing to intervene in the crisis. 政府没有采取任何行动对这次危机进行干预。
+Government often intervenes decisively in major professional issues in medicine. 政府经常果断介入医药界重大专业问题。
+Our government has no right to intervene. 我们的政府无权干预。
+The UN refused to intervene. 联合国拒绝干预。
+The President intervened personally in the crisis. 总统亲自出面处理这场危机。
+Local people feel strongly about the proposed development but are virtually powerless to intervene.当地民众对所提出的开发方案反应强烈，但实际上却无力介入其中。
+They would not intervene against the rebels themselves. 他们自己不会插手反对叛乱分子。
+Nurses should be ready to intervene on behalf of their patients. 为了病人的利益护士应该时刻准备介入。
+She went over to intervene between the two men. 她走过去为两个男人进行调解。
+She was reluctant to intervene in what was essentially a private dispute. 她不愿介入这种本质上属于私人性质的争端。
+She might have been killed if the neighbours hadn't intervened. 要不是邻居介入，她可能会没命了。
+The ambassador intervened personally on behalf of the children. 大使代表孩子们亲自出而处理此事。
+attempts to intervene with the authorities on the prisoners' behalf 代表犯人与当局交涉的尝试 
+They were planning to get married and then the war intervened. 他们正准备结婚，不巧却因爆发战事而受阻。
+The South African mailboat arrived on Friday mornings unless bad weather intervened. 除非受恶劣天气干扰,南非邮船一般在星期五上午抵达。
+I pray that death may not intervene to prevent our meeting with my darling children. 我祈祷死亡不要阻挠我们与我亲爱的孩子们见一面。
+Hattie intervened and told me to stop it. 哈蒂打断我，叫我停下来。
+'I've told you he's not here,' Irena intervened. “我告诉你了他不在这里,”伊雷娜插话说。
+‘But,’ she intervened, ‘what about the others?’ “但是，”她插嘴说，“其他的怎么办呢？”
+
+n. [U]（对你有权进行伤害或惩罚的对象所采取的）善良或宽恕态度，即仁慈，宽恕:
+adj. 通讯报导中可用于描述一次特殊的行程，该行程的目的为去外地帮助极其需要帮助的人（例如病人或因战争而无家可归的人）:
+n. [C, usually sing.] [非正式] 一种被感激的事件或情况（常由于其阻止了不幸的事发生），可叫做幸运或恩惠:
+mercy |['mə:sɪ]
+He asked for mercy for the crimes he had committed. 他请求对他所犯的罪行予以宽恕。
+They showed no mercy to their hostages. 他们对人质丝毫不讲仁慈。
+The terrorists are completely without mercy. 恐怖分子毫无人性。
+a mercy mission to West Africa 一次前往西非的慈善之旅
+It’s a mercy she wasn’t seriously hurt. 幸运的是她伤势不重。
+be grateful for small mercies, be thankful for small mercies 感激点滴恩惠；庆幸情况还不算太坏
+
+vt. prevent sb/sth (from doing sth) 防止某人做某事；防止某事发生。是一个常规用词:
+vt. prevent sb/sth (from doing sth) 阻止某人做某事；阻止某事发生。具体可称为阻止、阻碍、阻挠等:
+prevent |[prɪ'vent]
+The accident could have been prevented. 这次事故本来是可以避免的。
+to prevent sunburn 防止晒伤 
+prevent the disease from spreading 防止疾病蔓延
+These barriers prevent new companies from entering the market. 这些障碍使新公司无法进入市场。
+No one can prevent you from attending this meeting. 没有人能阻止你参加这次会议。
+
+adj. 1 ~ of sth/of doing sth（某人或某事物）有做某事所必须的能力或才能的:
+2（某人）有能力把某事做好的:
+capable |[ˈkeɪpəbl]
+He's quite capable of lying to get out of trouble. 靠撒谎渡过难关他挺有一套。
+I'm perfectly capable of doing it myself, thank you. 谢谢，我完全有能力自己做。
+She could hardly believe him capable of such kindness. 她几乎不敢相信他会这么体贴。
+She is more than capable of doing it herself. 她完全有能力自己做。
+He was barely capable of writing his own name. 他几乎连自己的名字都不会写。
+He was not physically capable of climbing out of the window. 他体力不够，无法爬出窗外。
+You are capable of better work than this. 你有能力做得比这更好。
+He appeared hardly capable of conducting a coherent conversation. 他好像连话都说不清楚。
+The kitchen is capable of catering for several hundred people. 厨房能同时容纳数百人进餐。
+She's a very capable speaker. 她能说会道。
+She seems very capable. 她好像很能干。
+He has proved himself a highly capable manager.他已证明自己是个非常能干的经理。
+Her husband was such a fine, capable man. 她丈夫又体贴又能干。
+She's a very capable teacher. 她是一位能力很强的教师。
+I'll leave the organization in your capable hands. 我要把组织工作交给你这位能手。
+
+n. 1 [C] 拖拉机，尤用于牵引农用机械:
+2 [C] [美] 牵引车的车头（司机坐在其中）:
+tractor |['træktə]
+agricultural, farm tractor 农用拖拉机 
+lawn tractor（美）除草机 
+diesel tractor（尤美）柴油拖拉机 
+tractor driver 拖拉机司机 
+The truck was an 18-wheeler with a yellow tractor. 这辆卡车有16个轮子，还有一个黄色牵引车头。
+
+adj. 视力的，视觉的:
+n. [C] 视觉资料（例如图片、图表、影片等，其目的在于使所展示或解释的内容更易于理解或更有趣）:
+visual |['vɪӡjʊəl]
+the visual arts 视觉艺术 
+visual impact 视觉冲击（或视觉印象）
+visual memory 视觉记忆
+the use of visuals 视觉资料的运用
+
+vt. 模仿一种行为或感情:
+vt. 用计算机、模型等模拟某种真实存在的条件（通常为了研究或训练之目的）:
+vt. 模仿、冒充、被做得看起来像其它事物:
+simulate |[ˈsɪmjuleɪt]
+They rolled about on the Gilligan Road, simulating a bloodthirsty fight. 他们在吉利根路上翻滚，模拟一场暴力厮杀。
+He performed a simulated striptease. 他模仿了一段脱衣舞表演。
+I tried to simulate surprise at the news. 听到这个消息后，我竭力装出一副吃惊的样子。
+Computer software can be used to simulate conditions on the seabed. 计算机软件可用于模拟海底状况。
+The device simulates conditions in space quite closely. 这种装置逼真地模拟了太空环境。
+The scientist developed one model to simulate a full year of the globe's climate. 这名科学家研制了一个模型来模拟地球全年的气候。
+Cars are tested to see how much damage they suffer in simulated crashes. 已经对车辆进行了测试以确定其在模拟撞车试验中会遭受多大的损坏。
+a gas heater that simulates a coal fire 模仿煤炉的煤气暖炉 
+The wood had been painted to simulate stone. 木头上刷了漆以看起来像块石头。
+Smoke was used to simulate steam coming from a smashed radiator. 用烟来模拟从撞碎的散热器中冒出的蒸汽。
+
+adj. 很值钱的，贵重的，其反义词为valueless或worthless:
+adj. valuable (to sb/sth) 很有用的，或很重要的，即宝贵的。强调某事物本身的有用性，常指某件物品因其本身的实用价值而“很值钱的”。这种价值能够带来切实的金钱回报（即可以用于售卖或交换），但其真正的价值含量未必能用具体的物质财富数额来衡量:
+valuable |['væljʊəbl]
+valuable antiques 贵重的古玩 
+Luckily, nothing valuable was stolen. 幸运的是，没有贵重物品失窃。
+economically valuable 经济价值高 
+commercially valuable expertise 具有商业价值的专门技术
+a valuable experience 宝贵的经验 
+valuable information 宝贵的信息 
+This advice was to prove valuable. 这忠告证明是有益的。
+ecologically valuable species 具有生态价值的物种 
+Good eyesight is a quality which is extremely valuable for a hunting animal. 敏锐的视力对猎食动物来说非常重要。
+documents that are enormously valuable to historians 对历史学家来说弥足珍贵的文献
+
+adj. [正式] ~ of sth 唤起感情:
+adj. 1 生产货物的、种植庄稼的，尤指生产大量货物或庄稼的，如高产的:
+2 富有成效的、很有收获的:
+adj. [正式] ~ of sth 引起、导致:
+adj. [正式] ~ of sth 创造…的；生产…的；产生…的:
+adj. 种植庄稼的，尤指生产大量庄稼的，如高产的:
+productive |[prəˈdʌktɪv]
+a play productive of the strongest emotions 唤起强烈感情的一出戏
+highly productive farming land 高产农田 
+productive workers 高效工人 
+Training makes workers highly productive. 培训提高了工人们的生产力。
+More productive farmers have been able to provide cheaper food. 农民提高产量就能使食物更加便宜。
+a productive meeting 有成效的会议 
+My time spent in the library was very productive. 我花在图书馆的时间很有收获。
+He was hopeful that the next round of talks would also be productive. 他对下一轮会谈同样富有成效满怀希望。
+I was sorry he had left, although I soon developed a productive relationship with his successors. 虽然我很快就和他的继任者建立了良好的关系，但是我仍然对他的离开感到遗憾。
+a play productive of the strongest emotions 唤起强烈感情的一出戏
+Land, labor and capital are all productive of wealth. 土地、劳动和资本都能创造财富。
+highly productive farming land 高产农田 
+More productive farmers have been able to provide cheaper food. 农民提高产量就能使食物更加便宜。
+
+vt. 侦测、发现、查明某事（尤指难以发现或查明的事）:
+vt. 觉察、发觉（难以发觉的…）:
+detect |[dɪˈtekt]
+The tests are designed to detect the disease early. 这些检查旨在早期查出疾病。
+Some cancers can now be cured if they are detected early. 现在有些癌症如果能早期发现是可以治愈的。
+an instrument that can detect small amounts of radiation 能检测微量辐射的仪器 
+Some substances can be detected fairly easily. 有些物质可以相当容易地检测出来。
+a machine that is sensitive enough to detect tiny amounts of explosives 灵敏度足以检测出微量炸药的机器 
+The test failed to detect any illegal substances. 检验未能检出任何非法物质。
+a means of detecting sth 检测…的手段 
+Arnold could detect a certain sadness in the old man's face. 阿诺德能觉察到老人脸上的一丝悲伤。
+Do I detect a note of criticism? 这好像带有批评的口吻吧？
+
+vt.&vi. [正式]（使）（团体、组织机构等）分裂:
+vt.&vi.（使）断裂、破裂:
+n. 1 [C] 骨头或其它硬物的破裂状态，尤指骨折:
+2 [U] 骨头或其它硬物的破裂（是一种事实）:
+n. 1 [C] 骨头的破裂状态，尤指骨折:
+2 [U] 骨头的破裂（是一种事实）:
+vt.&vi.（使）骨头破裂:
+fracture |[ˈfræktʃə(r)]
+Many people predicted that the party would fracture and split. 很多人预言该党将分崩离析。
+The company was fractured into several smaller groups. 这家公司被肢解成几家小公司。
+His policy risks fracturing the coalition. 他的政策有分裂联盟的风险。
+It might be a society that could fracture along class lines. 它可能成为一个阶级分化的社会。
+His leg fractured in two places. 他的一条腿有两处骨折。
+She fell and fractured her skull. 她跌倒摔裂了颅骨。
+You've fractured a rib, maybe more than one. 你的一根肋骨断了，可能不止一根。
+One strut had fractured and been crudely repaired in several places. 一根撑木出现了裂痕，有几处已进行了粗略的修补。
+a fractured pipeline 破裂的管道
+a fracture of the leg 腿骨骨折 
+skull fracture 颅骨骨折 
+spinal fracture 脊柱骨折 
+hairline fracture 细微骨裂 
+compound, simple fracture (= one in which the broken bone comes/does not come through the skin) 复合（开放）骨折；单纯（闭合）骨折 
+He suffered a stress fracture of the right foot. 他右脚应力骨折。
+At least one-third of all women over ninety have sustained a hip fracture. 超过90岁的所有女性中至少有1/3已经出现髋骨骨折。
+Old people's bones are more prone to fracture. 老人更易骨折。
+a fracture of the leg 腿骨骨折 
+skull fracture 颅骨骨折 
+spinal fracture 脊柱骨折 
+hairline fracture 细微骨裂 
+compound, simple fracture (= one in which the broken bone comes/does not come through the skin) 复合（开放）骨折；单纯（闭合）骨折 
+He suffered a stress fracture of the right foot. 他右脚应力骨折。
+At least one-third of all women over ninety have sustained a hip fracture. 超过90岁的所有女性中至少有1/3已经出现髋骨骨折。
+Old people's bones are more prone to fracture. 老人更易骨折。
+His leg fractured in two places. 他的一条腿有两处骨折。
+She fell and fractured her skull. 她跌倒摔裂了颅骨。
+You've fractured a rib, maybe more than one. 你的一根肋骨断了，可能不止一根。
+
+n. 1 [C] 身体的感觉、感知:
+2 [C, usually sing.]（某种经历或回忆等所产生的）难以解释的一种感觉:
+n. [U] 通过触觉所具有的感觉能力、感知能力。相当于feeling:
+n. [C, usually sing., U]（在很多人之间引起的）轰动；哗然；引起轰动的一个人或事物:
+sensation |[senˈseɪʃn]
+burning, choking, prickling, stinging, tingling sensation 烧灼的感觉；窒息的感觉；刺痛的感觉；蜇刺的感觉；麻刺的感觉 
+cold sensation 冷冰冰的感觉 
+hot, warm sensation 灼热的感觉；温暖的感觉 
+pain, taste sensation 痛感；口感 
+For a special taste sensation, try our gourmet coffee. 要享受特别的口感，就品尝一下我们的极品咖啡吧。
+He felt a burning sensation in his eyes. 他觉得眼睛有灼热感。
+A sensation of burning or tingling may be experienced in the hands. 双手可能会有种刺痛感或灼热感。
+I had a strange sensation in my leg. 我的腿有些异样的感觉。
+He felt a tingling sensation down his side. 他身体一侧有麻刺感。
+A warm tingling sensation spread to her fingers. 一种暖烘烘麻酥酥的感觉一直蔓延到她的指尖。
+A wonderful sensation filled his body. 一种美妙的感觉传遍他的全身。
+Most people enjoy the sensation of eating. 大多数人享受吃东西的乐趣。
+He described the sensation of plunging downhill at 130 mph. 他描述了以130英里的时速坠落山下的感受。
+the sensation of sand between your toes 沙粒在脚趾间的感觉 
+Floating can be a very pleasant sensation. 漂浮会是一种非常惬意的感觉。
+I had a sensation of falling, as if in a dream. 我有一种坠落的感觉，像在梦中似的。
+He had the eerie sensation of being watched. 他不安地感到有人在监视他。
+When I arrived, I had the sensation that she had been expecting me. 我到那儿后，感觉到她一直在等着我。
+It's a funny sensation to know someone's talking about you in a language you don't understand. 知道有人正用一种你听不懂的语言谈论你，这种感觉很奇怪。
+I had the eerie sensation that I was not alone. 我有一种诡异的感觉，觉得我并非独自一人。
+A strange sensation came over her. 一种奇怪的感觉向她袭来。
+He was overwhelmed by a sensation of fear. 他感到极度恐惧。
+She felt a sinking sensation in the pit of her stomach. 她的内心深处有一种不祥之感。
+She seemed to have lost all sensation in her arms. 她的两条胳膊好像完全失去知觉了。
+She had no sensation in her hands. 她双手没有知觉。
+The pain was so bad that she lost all sensation. 太疼了，疼得她都失去了知觉。
+nerve damage which can lead to loss of sensation in the limbs 会导致四肢麻木的神经损伤
+News of his arrest caused a sensation. 他被捕的消息引起了轰动。
+The movie caused a sensation among critics. 这部影片在评论界引起了轰动。
+She was just 14 when she caused a sensation at the Montreal Olympics. 她在蒙特利尔奥运会上引起轰动时才 14 岁。
+The band became a sensation overnight. 一夜之间，这支乐队名声大振。
+the film that turned her into an overnight sensation 使她一夜间名声大噪的影片 
+literary, media, pop（尤英）, singing, tennis sensation 文学领域的轰动；媒体轰动；流行音乐领域的轰动；演唱领域的大事；网球领域的轰动 
+The series became a media sensation in the early 1950s. 该系列在20世纪50年代初引起了媒体轰动。
+The young singer is hoping to become America's newest media sensation. 这名年轻歌手希望成为轰动美国媒体的新人。
+rookie（美）, teen, teenage（尤英）sensation 引起轰动的新手；引起轰动的神童；引起轰动的少年 
+Golf's latest teen sensation is 14-year-old Michael Woo. 最近引起轰动的高尔夫神童是14岁的迈克尔·吴。
+Teenage boxing sensation Amir Khan returned to Britain a hero. 拳击神童阿米尔汗回到英国时已然是名人了。
+
+vt.＆vi. 变得比以前更好；使某人或某事物比以前更好。如改进、改善。是一个常规用词:
+improve |[ɪm'pru:v]
+His quality of life has improved. 他的生活质量改善了。
+The doctor says she should continue to improve (= after an illness). 医生说她还会继续康复。
+to improve my French 提高我的法语水平 
+The situation has improved dramatically. 情况已大为改善。
+Working and living conditions have generally improved. 工作和生活条件总体上有所改善。
+The weather should continue to improve. 天气应该会继续好转。
+to improve efficiency 提高效率 
+to improve performance 提高业绩 
+the improved version of the website 网站的改良版
+
+vt. 命令某人返回，即召回:
+vt. 召回、收回（残次货品等）:
+n. [sing.] 召回令、回归请求:
+n. [U]（对过去发生之事的）记忆力、记性:
+vt.&vi. [正式]（不用于进行时）记起、回忆起:
+Her teacher recalled: 'She was always on about modelling.' 她的老师回忆说:
+vt.（不用于进行时）使某人想起某事:
+recall |[rɪˈkɔ:l]
+Both countries recalled their ambassadors. 两个国家都召回了各自的大使。
+He was recalled to military duty. 他被召回执行军事任务。
+Parliament was recalled from its summer recess. 国会在夏季休会之后又重新开议。
+They have both been recalled to the Welsh squad (= selected as members of the team after a time when they were not selected). 他们俩都被重新召回了威尔士队。
+Dean Richards was recalled to the England squad for the match with Wales. 迪安·理查兹被召回英格兰队参加对阵威尔士的比赛。
+I had done enough after being recalled against Pakistan to have got on the tour to India. 在被征召入队参加与巴基斯坦的比赛后，我为前往印度的行程做了充分准备。
+The company has recalled all the faulty hairdryers. 公司召回了所有有问题的吹风机。
+The company said it was recalling one of its drugs. 这个公司说正在召回他们生产的一种药。
+More than 3,000 cars were recalled yesterday because of a brake problem. 3,000多辆汽车因为刹车问题昨天被召回。
+Thomas's recall to the Welsh team 让托马斯回归威尔士队的要求
+He had a good memory, and total recall of her spoken words. 他记忆力很好，她当时说的话他全都记得起来。
+She has amazing powers of recall. 她有惊人的记忆力。
+to have instant recall (= to be able to remember sth immediately) 有快速记忆的能力 
+to have total recall (= to be able to remember all the details of sth) 记得所有细节 
+The ground has been polluted beyond recall. 这片土地已被污染得面目全非。
+the realities of operating a traditional canal boat can be readily imagined, even if the life itself is beyond recall 经营一艘传统的运河船的现实情形很容易想象，尽管那种生活本身已经无法忆起了。
+She could not recall his name. 她想不起他的名字。
+If I recall correctly, he lives in Luton. 如果我没记错的话，他住在卢顿。
+She could easily recall the smell of the orange groves. 她常常回忆起那个柑橘园的芳香。
+I am old enough now to wistfully recall moments of my youth. 我现在一把年纪了，每当想起年轻的岁月时就会感到怅然若失。
+He could still recall that first meeting clearly. 他还能清晰地记起初次见面的情景。
+I seem to recall that she said she was going away. 我似乎记得她说过打算离开。
+I recall reading in an interview that he loved to cook. 我想起读到过他在一次访谈中谈到喜欢做饭。
+I can't recall meeting her before. 我想不起来以前曾经见过她。
+He recalled that she always came home late on Wednesdays. 他回想起她星期三总是很晚回家。
+Can you recall exactly what happened? 你能记起到底发生了什么事吗？
+Henderson recalled that he first met Pollard during a business trip to Washington. 亨德森记起他第一次见到波拉德是在一次去华盛顿出差的时候。
+As I recall, you're not on the board, Joe; you're only a minor shareholder. 我记得你并没有进董事会，乔，你只是一个小股东而已。
+You will recall that I sent you a warning of troubled times. Well now, almost everything I forecast has come about. 你还记得我警告过你时局会出现动荡吧。现在看来，几乎我预测的每件事都发生了。
+The poem recalls Eliot's ‘The Waste Land’. 这首诗令人想起艾略特的《荒原》。
+
+n. 1 [U, sing.] affection (for sb/sth) 非常喜欢（或热爱）某人（或某事物）并对其表示关心，可称为关爱、关怀等:
+2 [pl.] [正式] affections 一个人所怀有的爱恋之情:
+affection |[ə'fekʃn]
+Mr Darcy’s affection for his sister 达西先生对他妹妹的关爱之情 
+Children need lots of love and affection. 孩子需要多多疼爱和关怀。
+She had developed a real affection for him. 她逐渐对他产生了真爱。
+He didn’t show his wife any affection. 他没有向妻子表示一点爱。
+The teacher showed affection to all her students. 这位老师对她所有的学生都充满了爱。
+She was held in deep affection by all her students. 她的学生都十分爱戴她。
+I have a great affection for New York. 我很喜欢纽约。
+He has a great affection for animals. 他非常喜爱动物。
+Anne had two men trying to win her affections. 安妮有两个男人追求。
+The object of his affections was a singer. 他的意中人是个歌手。
+
+vt. 仔细规划、构想、准备、制订:
+vt. 制作、制造:
+vt. 准备:
+vt. 制订:
+vt. 确切表达（想法、观点）:
+formulate |[ˈfɔ:mjuleɪt;美ˈfɔ:rm-]
+to formulate a policy, to formulate a theory, to formulate a proposal 制订政策；创立理论；准备建议 
+Little by little, he formulated his plan for escape. 他一点一点地设计构思出了逃跑的方案。
+The compost is specially formulated for pot plants. 此混合肥料专门用于盆栽植物。
+This new kitchen cleaner is formulated to cut through grease and dirt. 这种新的厨房清洁剂能去除油渍和污垢。
+products that are specially formulated for safe use on leather 为保证安全地用于皮革上而经过专门处理的产品
+to formulate a proposal 准备建议
+to formulate a policy, to formulate a theory 制订政策；创立理论
+She has lots of good ideas, but she has difficulty formulating them. 她有很多好的想法，但就是不善于表达。
+I was impressed by the way he could formulate his ideas. 他陈述观点的方式让我印象深刻。
+His ideas are always very carefully formulated. 他总是非常认真地阐述自己的想法。
+
+You say conversely to indicate that the situation you are about to describe is the opposite or reverse of the one you have just described. 相反地
+conversely |英 ['kɒnvɜːslɪ; kən'vɜːslɪ]  美 ['kɑnvɝsli]| adv. 相反地/
+Malaysia and Indonesia rely on open markets for forest and fishery products. Conversely, some Asian countries are highly protectionist.马来西亚和印度尼西亚依靠开放的市场获取林业和渔业产品。与之相反的是，一些亚洲国家是高度的保护贸易论者。
+
+
+adj. 1（人的动物的动作或体形）优美的、优雅的:
+2（事物）优美的、雅致的、动人的:
+adj.（尤指在困境中）行为得体的、有风度的:
+graceful |[ˈgreɪsfl]
+The dancers were all tall and graceful. 这些舞蹈演员都个子高高的，动作十分优雅。
+He gave a graceful bow to the audience. 他优雅地向观众鞠了一躬。
+His movements were so graceful they seemed effortless. 他的动作优美自如，看起来毫不费劲。
+graceful sweep 优美的摆动 
+graceful ballerinas 优雅的芭蕾舞女演员 
+graceful swan 优美的天鹅 
+the graceful curves of the hills 连绵起伏的丘陵美景 
+A graceful medieval cathedral 典雅的中世纪大教堂 
+graceful room 雅致的房间 
+His handwriting, from earliest young manhood, was flowing and graceful. 他的字从小就写得流畅优美。
+graceful poem 优美的诗歌           
+His father had always taught him to be graceful in defeat. 他父亲总是教导他输了也要有风度。
+Aubrey could think of no graceful way to escape Corbet's company. 奥布里想不出有什么得体的办法能摆脱科比特。
+He was charming, cheerful, and graceful under pressure. 他在重压之下依然开朗迷人，风度优雅。
+
+n. [C] [非正式] 顽皮的孩子，淘气鬼。是一个形象化用法:
+n. [C] 猴子:
+monkey |['mʌŋkɪ]
+a little monkey 小淘气
+a troop of monkeys 一群猴子
+
+adj. positive (about sth)（心态）积极乐观的，自信的。从词义上来说，optimistic只是positive的一种表现形式:
+adj.（回应）积极的，如表示赞同的，表示支持（或拥护）的，表示鼓励的:
+adj.（电学术语）正电的，正极的:
+adj.（数量或数目）正数的（即比0大的）:
+adj. 在科学试验中可指某种物质或某种生理条件是存在的，即阳性的:
+n. [C]（化验或试验所呈现的）阳性结果或阳性反应:
+positive (that ...)（人）完全确信…是正确的或真实的:
+adj. [非正式] 只作前置定语，指完全的，绝对的:
+adj.（证据或信息）确凿的，明确的:
+adj. 1 以解决问题为目的的，或产生成功的结果的，即积极的，建设性的:
+2 好的，有用的:
+n. [C, U] 好的（或有用的）品质或方面，即优点，积极的方面:
+positive |['pɒzɪtɪv]
+a positive attitude 积极乐观的态度 
+a positive view 乐观的观点 
+a positive outlook 乐观的前景 
+Be positive about your future. 你要积极面对未来。
+He is more positive about his new job. 他对他的新工作更有信心。
+The report ended on a positive note. 报告的结尾显得很乐观。
+They have a very positive response to the idea. 他们对这个想法反应良好。
+a positive charge 正电荷 
+the positive terminal of a battery 电池的正极
+negative and positive numbers 正负数
+The test proved positive. 测试结果呈阳性。
+He tested positive for HIV. 他艾滋病病毒测试呈阳性。
+adj. positive (about sth) 
+I can’t be positive about what time it happened. 我说不准这事是什么时间发生的。
+“Jack’s never late. You sure he said eight?”--“Positive.” “杰克从来不迟到，你肯定他说的是8点？”——“肯定。” 
+I’m absolutely positive it was him. 我绝对肯定就是他。
+It was a positive miracle that he survived. 他能够生还，完全是个奇迹。
+positive evidence 确凿证据 
+to take positive action 采取积极行动 
+to take positive steps to deal with the problem 采取积极步骤来解决这个问题 
+to make a positive decision 做出积极的决定 
+positive changes 积极的改变 
+to make a positive contribution to the discussion 在讨论中献计献策 
+to have a positive influence on him 对他有积极的影响 
+This policy has had a positive effect on employment. 这项政策对就业有积极影响。
+Take your weaknesses and translate them into positives. 把你自己的弱点变成优点。
+He prefers to focus on the positive. 他更愿意关注积极面。
+
+n. [U] access (to sth) 见到（或接触到）某人或某事物的机会或权利:
+vt. [正式] 到达（或进入）某事物:
+vt. [正式] 使用某事物:
+n. [U] access (to sth) 使用某事物的机会或权利:
+vt. 访问或存取计算机文件（即打开一份计算机文件以获取或添加信息）:
+n. [U] access (to sth) 使用某种信息技术的机会或权利:
+vt. [正式] 使用某事物:
+n. [U] access (to sth) 使用某事物的机会或权利:
+n. [U] access (to sth) 进入（或达到）某地的一种途径:
+access |['ækses]
+Journalists were denied access to the President. 记者被挡住，无法见到总统。
+Many divorced fathers only have access to their children at weekends. 很多离婚父亲只有在周末才有权见到自己的孩子。
+access to confidential information 接触机密情报的机会 
+He was finally granted access to the medical records. 他最终获准查看病例。
+The loft can be accessed by a ladder. 搭梯子可以上阁楼。
+Students must have access to good resources. 学生们一定有机会使用好的资源。
+Students have easy access to libraries. 学生享用图书馆的资源很方便。
+Access to this information is severely restricted. 这一信息的使用受到极为严格的限制。
+Men and women should have equal access to education. 男女应当享有平等的受教育权。
+to access confidential files 存取机密文件 
+You need a password to get access to the computer system. 使用这个计算机系统需要口令。
+broadband, Internet, wireless access 宽带接入；互联网接入；无线接入
+Students must have access to good resources. 学生们一定有机会使用好的资源。
+Students have easy access to libraries. 学生享用图书馆的资源很方便。
+Access to this information is severely restricted. 这一信息的使用受到极为严格的限制。
+Men and women should have equal access to education. 男女应当享有平等的受教育权。
+There is good wheelchair access to most facilities. 坐轮椅可以方便地到达多数设施。
+The police gained access through a broken window. 警察从一扇破窗户里钻了进去。
+The only access to the farmhouse is across the fields. 去那农舍的唯一通路是穿过田野。
+public access 公共通道 
+vehicle, vehicular（英）access 车辆专用通道 
+access road, access route（进出某处的）行车通道；进入的路线
+
+n. [C] 一群就某事给出建议或发表观点的专家，即专家小组；电视或广播上的就某个有趣话题进行讨论的一群人，即讨论小组:
+vt. [常用被动式] 用扁平的木条、玻璃等覆盖或装饰一个表面，即给…镶板:
+n. [C] 车辆或机械上的控制板、仪表盘:
+n. [C] 车辆或机械上的控制板、仪表盘:
+n. 1 [C]（门、墙等大表面上的正方形或矩形）嵌板（可以是木质的、玻璃或金属材质的）:
+2 [C] 构成车辆外框架的一片金属板:
+3 [C] 衣服上的一块布料，如镶条，嵌条，饰片:
+n. [C]（也可用jury panel）[panel和jury panel均尤美] 陪审团:
+panel |[ˈpænl]
+all-star（美）, blue-ribbon（美）panel 全明星专家小组；一流的专家小组 
+a distinguished panel of academics 杰出的学术小组 
+expert panel 专家组 
+He assembled a panel of scholars to advise him. 他组织了一个学者小组为他出谋划策。
+independent panel 独立的专家小组 
+international panel 国际专家小组 
+advisory, arbitration, judging, review panel 顾问小组；仲裁小组；评审小组；审核小组 
+interview, interviewing, selection panel（均尤英） 面试小组；遴选委员会 
+jury panel（尤美） 陪审团 
+He joins our panel of journalists. 他加入了我们的记者团。
+He will head a panel to discuss the topic. 他将领导一个专门小组讨论这个议题。
+We asked a panel of experts to review the products. 我们要求专家小组审查那些产品。
+a panel of scientists drawn from universities 从各大学里抽调的科学专家小组 
+The panel consists of ten attorneys. 专门小组由十名律师组成。
+The panel concluded that there was no scientific basis for the claim. 专家组的结论是，该项索赔没有科学依据。
+The panel ruled that the men must remain in prison. 专家组裁定那些人必须留在监狱里。
+The panel voted unanimously for its approval. 专家组投票一致同意。
+panel member 专家小组的成员 
+panel interview 专家小组面试 
+panel discussion 专家小组讨论 
+panel presentation 专家小组发言 
+panel session 小组会议 
+panel report, panel review, panel study 专家小组的报告；专家小组的评论；专家小组的研究 
+The head of department serves on the advisory panel. 系主任是顾问小组的成员。
+an independent panel on takeovers and mergers 负责收购合并事务的独立小组 
+The winners were chosen by a panel of judges. 获胜者是由裁判小组选出的。We have two politicians on tonight's panel. 今天晚上出席座谈会的有两位政界人士。
+All the writers on the panel agreed Quinn's book should be singled out for special praise. 专门小组的所有作家一致认为奎因的书应该单独挑出来予以特别表扬。
+panel game（英）小组智力竞赛节目 
+The comedian will chair a new TV panel game. 这名戏剧演员将在一个新的小组智力竞赛电视节目中担任主持。
+glass-panelled, wood-panelled door 镶玻璃的门；镶木板的门 
+The walls were panelled in oak. 墙壁镶了橡木饰片。           
+control, display, instrument panel 控制面板；显示面板；仪表盘 
+A red light flashed on the control panel. 控制面板上的一只红灯在闪。
+The equipment was extremely sophisticated and was monitored from a central control-panel. 这台设备极为复杂，由中央控制面板进行监控。
+They had failed to recognise signs on their instrument panel indicating a serious problem. 他们没有注意到仪表板上显示的重大故障信号。           
+control, display, instrument panel 控制面板；显示面板；仪表盘 
+A red light flashed on the control panel. 控制面板上的一只红灯在闪。
+The equipment was extremely sophisticated and was monitored from a central control-panel. 这台设备极为复杂，由中央控制面板进行监控。
+They had failed to recognise signs on their instrument panel indicating a serious problem. 他们没有注意到仪表板上显示的重大故障信号。           
+ceiling, door, wall panel 天花板镶板；门心板；护墙板 
+the frosted glass panel set in the centre of the door 门中间镶嵌的磨砂玻璃板 
+One of the glass panels in the front door was cracked. 前门的一块方玻璃破裂了。
+sliding panel 滑动板 
+removable panel 可拆卸的面板 
+recessed panel 嵌入式面板 
+secret panel 隐藏式面板 
+glass, wood panel 玻璃面板；木质面板 
+decorative panel 装饰面板 
+solar panel 太阳能电池板 
+The central panel depicts St George. 中央面板上画的是圣乔治。
+front, rear panel 前罩板；后罩板 
+body panel 车身板件 
+A rear body panel needed replacing after the accident. 事故之后，车身的一块后车板需要更换。
+panel beater, panel beating（均英）汽车钣金工；钣金加工 
+He works as a panel beater in a local garage. 他在当地一家修车厂做钣金维修工。
+The trousers have double thickness knee panels for extra protection. 这条裤子上有双倍厚的护膝片以加强保护。
+
+vt. [正式] 设置障碍:
+vt. [正式] 建造建筑物；搭建帐篷:
+vt. [正式] 创建机构；建立体制；创立理论:
+adj.（阴茎或乳头）因性兴奋而勃起的、坚挺的:
+adj. [正式] 垂直的；竖直的；直立的。相当于straight:
+erect |[ɪˈrekt]
+Police had to erect barriers to keep crowds back. 警察得设立路障来阻截人群。
+Opposition demonstrators have erected barricades in roads leading to the parliament building. 反对派示威者已经在通往国会大厦的道路上设置了路障。
+to erect trade barriers 设置贸易壁垒
+The church was erected in 1582. 此教堂建于1582年。
+the newly erected station buildings 新建的车站建筑 
+An electric fence was erected around the campus. 校园四周安装了带电的围栏。
+A large monument was erected on the battlefield. 战场上矗立起一座大型纪念碑。
+to erect a tent 搭帐篷 
+The event will take place in a specially erected marquee. 这个活动将在一个专门搭建的搭帐篷里举行。
+Japanese proprietors are erecting a complex infrastructure of political influence throughout America. 日本商人正在美国各地建立复杂的、具有政治影响力的基础结构。
+He erected a new doctrine of precedent. 他创立了一套新的判例原则。
+He was standing perfectly erect. 他站得笔直。
+Her head was erect and her back was straight. 她抬头挺胸。
+Stand with your arms by your side and your head erect. 手放两边，昂首站立。
+She held her head erect as she walked proudly up to the platform. 她昂着头自豪地走向讲台。
+Stand reasonably erect, your arms hanging naturally. 挺身站直，双臂自然下垂。
+He sat very erect, listening intently. 他坐得笔直，专心地听着。
+Keep your trunk erect throughout the exercise. 在整个练习过程中都要挺直身躯。
+
+vt. 与某人竞争，对垒或角逐:
+vt. 强烈不赞成某人的计划、政策等，且尝试将其改变或阻止其成功，即反对、阻挠、抵制（计划、政策等）:
+oppose |[ə'pəʊz]
+He intends to oppose the prime minister in the leadership election. 在领导选举中，他欲与首相一决高下。
+They would vigorously oppose such a policy. 他们强烈反对这一政策。
+The ban was initially opposed by the US. 这一禁令首先遭到美国的反对。
+
+n. [C] [文学]（感情的）空白:
+adj. [法律]（合同、协议等）无效的:
+adj. [正式] ~ of sth 没有:
+adj. [正式] 空的:
+n. 1 [usually sing.] [正式或文学] 大大的空荡空间:
+2 [C] [文学]（情形的）空白:
+vt. [正式] 排泄（大小便）:
+vt. [法律] 正式宣布…在法律上无效:
+void |[vɔɪd]
+an aching void of loneliness 痛苦的孤寂感 
+The void left by his mother's death was never filled. 他母亲死后留下的空虚感永远没能填补上。
+It seemed that nothing could fill the aching black void left by Rachel's death. 雷切尔去世造成的痛苦空虚感似乎用什么都无法填补。
+The agreement was declared void. 该协议已宣布无效。
+The election was declared null and void. 这次选举被宣布无效。
+The original elections were declared void by the former military ruler. 前军事领导人宣布最初的选举无效。
+an impediment which rendered the marriage void 一个令婚姻无效的障碍
+The sky was void of stars. 天空没有一颗星星。
+He rose, his face void of emotion as he walked towards the door. 他站起来，面无表情地朝门口走去。
+The treaty is now void of absolute commitments. 条约现在失去了绝对的约束力。
+void spaces 空位
+Below him was nothing but a black void. 他下面只是一片漆黑。
+The ship moved silently through the black void. 船静悄悄地划过漆黑的夜。
+He stared into the dark void where the battle had been fought. 他凝望着那片漆黑的空旷之地，那次战役就是在这里进行的。
+His death has left a void in the cricketing world which can never be filled. 他的死给板球界留下一个永远无法填补的空白。
+The Supreme Court threw out the confession and voided his conviction for murder. 最高法院驳回了供词，宣布他谋杀罪名不成立。
+
+n. [U]（能量、食物或材料的）消耗；也可指消耗量:
+n. [U] 做某事或说某话供某个人（或群体）享用（即使做事者或说话者的内心真实想法非常不同）:
+n. [U] 吃；喝:
+n. [U] 做某事或说某话供某个人（或群体）享用（即使做事者或说话者的内心真实想法非常不同）:
+n. [U] [过时用法] 一种严重的肺病，如肺痨、肺结核:
+n. [U]（对商品或服务的）消费:
+consumption |[kənˈsʌmpʃn]
+electricity, energy, fuel, gas, gasoline（美）, oil, petrol（英）, power consumption 耗电量；能源消耗；燃料消耗；煤气消耗；汽油消耗；石油消耗；电力消耗 
+water consumption 水的消耗 
+the production of fuel for domestic consumption (= to be used in the country where it is produced) 供国内消耗的燃料生产 
+Gas and oil consumption always increases in cold weather. 燃气和燃油的消耗量在天冷时总会增加。
+the country with the highest fuel consumption in the world 世界上消耗燃料最多的国家 
+Reducing our annual consumption of energy is an important first step. 减少我们的能量年消耗是重要的第一步。
+Her speech to party members was not intended for public consumption (= to be heard by the public). 她对党员发表的讲话并不打算公诸大众。
+The documents were not for public consumption. 这些文件不对公众公开。
+The hardline speech appears to be mostly for domestic consumption. 强硬路线的讲话似乎主要是说给国内人听的。
+The report was obviously designed for the consumption of members of the War Committee. 该报告显然是为战争委员会的委员们撰写的。
+Most of the wine was unfit for human consumption. 这些酒中大部分都不适于人类饮用。
+The average daily consumption of fruit and vegetables is around 200 grams. 每日平均果蔬摄入量约为200克。
+The meat was declared unfit for human consumption. 这种肉被宣布不适于人食用。
+Doctors say that we need to increase their consumption of fruit and vegetables. 医生们说我们需要多给他们吃水果和蔬菜。
+You need to reduce your alcohol consumption. 你要少饮酒。
+Her speech to party members was not intended for public consumption (= to be heard by the public). 她对党员发表的讲话并不打算公诸大众。
+The documents were not for public consumption. 这些文件不对公众公开。
+The hardline speech appears to be mostly for domestic consumption. 强硬路线的讲话似乎主要是说给国内人听的。
+The report was obviously designed for the consumption of members of the War Committee. 该报告显然是为战争委员会的委员们撰写的。
+Consumption rather than saving has become the central feature of contemporary societies. 现代社会的主要特征是消费而不是储蓄。
+Recycling the waste from our increased consumption is better than burning it. 对我们增加消费产生的垃圾进行回收要好过将其焚烧。
+The production and consumption of goods and services is the ultimate aim of all economic endeavour. 生产并消费商品和服务是一切经济活动的终极目标。
+conspicuous consumption (= buying expensive goods in order to impress people and show how rich you are）炫耀性消费 
+It is important that the recovery be export-led rather than led by domestic consumption. 经济复苏应由出口而不是国内消费带动，这一点很重要。
+Half of the small crop was kept for home consumption. 不多的粮食收成中，一半被留作国内消费。
+household consumption 家庭消费 
+individual, personal consumption 个人消费 
+mass consumption 大众消费 
+public consumption公共消费 
+private consumption 私人消费 
+households that save for future consumption 为未来消费存钱的家庭 
+alcohol, beer, cigarette, drug, food, meat, tobacco, wine 酒类消费；啤酒消费；香烟消费；药品消费；食品消费；肉类消费；葡萄酒消费 
+The industry faced a serious challenge in trying to stimulate consumption. 在刺激消费方面，该行业曾面临严峻挑战。
+consumption expenditure 消费开支 
+consumption levels 消费水平 
+consumption rate 消耗率
+consumption habits, consumption patterns 消费习惯；消费模式 
+consumption goods 消费品 
+consumption tax 消费税
+
+n. [C] 比喻用法中可指某事物的最佳代表:
+n. [C] 一国驻另一国的大使:
+ambassador |[æm'bæsədə][æm'bæsədə]
+He’s a great ambassador for the sport of bodybuilding. 他是杰出的健美运动形象大使。
+the British Ambassador in Rome 英国驻罗马大使 
+unofficial ambassador 非官方大使 
+special ambassador 特使 
+goodwill ambassador 亲善大使 
+to send an ambassador to Paris 派遣一名使臣去巴黎

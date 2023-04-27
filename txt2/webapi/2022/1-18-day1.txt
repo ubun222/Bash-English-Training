@@ -1,0 +1,694 @@
+access					入口，享用机会，进入，存取
+project				项目
+intention				意图
+equivalence				相等
+negotiate				谈判，通过，转让
+disappointing				令人失望的
+alternative				可供替代的，非传统的，选择
+generous				慷慨的，丰厚的
+biological				生物的
+strategy				战略，策略
+paradox				悖论，矛盾的人或事物
+primary				主要的，最初的
+standpoint				立场
+grab					抓住，霸占，赶紧做，吸引
+crucial				至关重要的
+flaw					瑕疵，错误，毁掉
+depress					使沮丧，使萧条，按下
+obstacle				障碍
+automatic				自动的，无意识的，必然的，自动挡
+passionate				充满激情的，多情的
+gambling				赌博
+logic					逻辑学，理由
+theory					学说，理论
+download				下载
+signal					信号，标志，传达，表明
+authoritative				专断的，权威性的
+smooth					光滑的，平坦的，圆润的，顺利的，磨平
+institution				习俗，福利机构，金融机构，知名人士
+vehicle				机动车，手段
+plague					瘟疫，灾祸，困扰
+\\\\\\\\
+
+n. [U] access (to sth) 见到（或接触到）某人或某事物的机会或权利:
+vt. [正式] 到达（或进入）某事物:
+vt. [正式] 使用某事物:
+n. [U] access (to sth) 使用某事物的机会或权利:
+vt. 访问或存取计算机文件（即打开一份计算机文件以获取或添加信息）:
+n. [U] access (to sth) 使用某种信息技术的机会或权利:
+vt. [正式] 使用某事物:
+n. [U] access (to sth) 使用某事物的机会或权利:
+n. [U] access (to sth) 进入（或达到）某地的一种途径:
+access |['ækses]
+Journalists were denied access to the President. 记者被挡住，无法见到总统。
+Many divorced fathers only have access to their children at weekends. 很多离婚父亲只有在周末才有权见到自己的孩子。
+access to confidential information 接触机密情报的机会 
+He was finally granted access to the medical records. 他最终获准查看病例。
+The loft can be accessed by a ladder. 搭梯子可以上阁楼。
+Students must have access to good resources. 学生们一定有机会使用好的资源。
+Students have easy access to libraries. 学生享用图书馆的资源很方便。
+Access to this information is severely restricted. 这一信息的使用受到极为严格的限制。
+Men and women should have equal access to education. 男女应当享有平等的受教育权。
+to access confidential files 存取机密文件 
+You need a password to get access to the computer system. 使用这个计算机系统需要口令。
+broadband, Internet, wireless access 宽带接入；互联网接入；无线接入
+Students must have access to good resources. 学生们一定有机会使用好的资源。
+Students have easy access to libraries. 学生享用图书馆的资源很方便。
+Access to this information is severely restricted. 这一信息的使用受到极为严格的限制。
+Men and women should have equal access to education. 男女应当享有平等的受教育权。
+There is good wheelchair access to most facilities. 坐轮椅可以方便地到达多数设施。
+The police gained access through a broken window. 警察从一扇破窗户里钻了进去。
+The only access to the farmhouse is across the fields. 去那农舍的唯一通路是穿过田野。
+public access 公共通道 
+vehicle, vehicular（英）access 车辆专用通道 
+access road, access route（进出某处的）行车通道；进入的路线
+
+n. 1 [C] 规划的一项工作，旨在研究…以获取信息、生产新产品、改善某事物等。比programme更强调一种目标感，且涉及更多执行层面的事情。因此将project翻译为“项目”或“工程”比较合适。（而programme常指一种概念上或书面上的、着眼于长期的、关乎群体的综合性“计划”、“规划”或“方案”，在汉语中有时翻译为“项目”，不过性质依然是一种规划，不能因为这种翻译方式就把programme加入过多的实施层面的因素；另外，其词根词缀也表明这是一种预先写出或画出来的计划）如:
+2 [C] 北美英语中还可指为贫困家庭所实施的住房工程，常由政府出资:
+vt. project (yourself) 把某人（如自己）或某事物以某种方式呈现给他人，尤指给人良好印象，即表现:
+n. [C] 在一段时间内，学生对某一学科所做的细致研究或调查:
+vt. 为一项未来的活动或工程等拟定计划，即规划，计划，常用被动式:
+n. [C] 某人所感兴趣的（或想要引起人们关注的）一系列目标、想法或活动，即方案，计划:
+vt. 1 project sth (on/onto sth) 将光线、影像等投射到一个平面上（或屏幕上）:
+2 将某物抛上去或抛离…:
+vt. 预测、估计现存的事物（或正发生的事件）在将来的尺寸、成本或数量，相当于forecast，但不如forecast常用:
+vi. 从一个边缘或平面突出来，相当于protrude，为正式用法:
+project |['prɒdʒekt,'prəʊ-]
+pilot project 试点工程 
+research project 研究项目 
+building, construction, restoration project 建筑工程；建设工程；修复工程 
+development, educational, environmental project 开发项目；教育工程；环境工程 
+The wedding became her pet project. 婚礼成了她特别倾心的事项。
+The project aims to reduce homelessness. 该项目旨在减少无家可归者的人数。
+project management 项目管理 
+project director, project team 项目总监；项目团队 
+project budget 项目预算 
+Going into the projects alone is dangerous. 只身进入公房区是危险的。
+to project a positive image of the company 树立公司的正面形象 
+She projects an air of calm self-confidence. 她表现出镇定自若的神态。
+He projected himself as a man worth listening to. 他装成很有见地的样子。
+a history project 历史学科的专题研究 
+The final term will be devoted to project work. 最后一学期的时间将全部用于专题研究。
+thesis project（美）论文课题 
+My class is doing a project on medieval towns. 我们班正在进行一项关于中世纪城镇的研究。
+The next edition of the book is projected for publication in March. 本书的下一版计划于三月发行。
+The projected housing development will go ahead next year. 计划中的住宅建设将于明年动工。
+a political project 政治方案 
+investment project 投资方案 
+an ambitious project to translate all the works of Plato 一项翻译柏拉图所有著作的艰巨计划 
+Images are projected onto the retina of the eye. 影像被投射到眼睛的视网膜上。
+Actors must learn to project their voices. 演员必须学会放开声音。
+the powerful men who would project him into The White House（比喻用法）能使他平步进入白宫的有力人士
+A growth rate of 4% is projected for next year. 预计明年的增长率为4%。
+The unemployment rate has been projected to fall. 据预测失业率将下降。
+a building with balconies projecting out over the street 阳台伸出到街上的楼房
+
+intention (to do sth) intention (that ...) 打算，计划:
+intention (to do sth) intention (that ...) 目的，意图:
+intention |[ɪn'tenʃn]
+He left England with the intention of travelling in Africa. 他离开英格兰，打算去非洲旅行。
+I have no intention of changing jobs. 我无意变换工作。
+The authority has announced its intention to crack down on illegal parking. 官方宣布了打击违章停车的计划。
+She may never reveal her true intentions. 她可能永远都不会透露真实意图。
+The general intention behind the project is a good one. 该项目背后的意图是好的。
+
+the condition of being equal or equivalent in value, worth, function, etc.:价值、价值、功能等相等或相等的条件。
+equivalence |ɪˈkwɪvələns| Noun/:等价
+knowledge of equivalence of units is required:需要单位等价知识
+
+vt. 通过正式商讨来达成（协议）:
+vi. negotiate (with sb) (for/about sth) 尝试通过正式商讨而达成一项协议，即谈判，磋商，协商:
+vt. 通过正式商讨来安排或同意某事，即商定，达成（协议）:
+vt. 成功通过或越过一个艰难路段:
+negotiate |[nɪ'ɡəʊʃɪeɪt]
+to negotiate a deal, to negotiate a contract 达成交易；订立合同 
+We successfully negotiated the release of the hostages. 我们成功达成了释放人质的协议。
+The government will not negotiate with terrorists. 政府不会和恐怖分子谈判。
+We have been negotiating for more pay. 我们一直在为增加工资进行谈判。
+Rents are individually negotiated between landlord and tenant. 租金由房东和房客单独协商。
+We are negotiating for the release of the prisoners. 我们正在就释放囚犯一事进行谈判。
+negotiating skills 谈判技巧 
+to negotiate a deal, to negotiate a contract, to negotiate a treaty, to negotiate a settlement 达成交易；商定合同；商定条约内容；商定解决措施 
+We successfully negotiated the release of the hostages. 我们成功达成了释放人质的协议。
+The climbers had to negotiate a steep rock face. 攀登者必须攀越陡峭的岩壁。
+He successfully negotiated the slippery steps. 他顺利地走过了打滑的台阶。
+
+adj. 令人失望的:
+disappointing |[ˌdɪsəˈpɔɪntɪŋ]
+disappointing result, disappointing performance 令人失望的结果；令人失望的演出 
+The outcome of the court case was disappointing for the family involved. 诉讼案的结果使得涉及本案的这家人非常失望。
+The wine was excellent, but the food was disappointing. 酒棒极了，但是饭菜却让人不敢恭维。
+The recession is largely blamed for the disappointing response to the appeal. 对此呼吁的反应令人失望，主要归咎于经济衰退。
+The movie was terribly disappointing. 这电影太让人失望了。
+This was very disappointing for all the fans watching the game. 这令观看比赛的广大粉丝大失所望。
+That was very disappointing to me. 那令我非常失望。
+
+adj. 只用于名词前，与通常或传统的行为方式不同的，如非传统的、另类的:
+adj.（美尤用alternate）可替代其它事物而被使用的，即替代性的:
+n. [C] 在两个或更多可能性之中你可选择去做的某事（或可选择去拥有的某事物）:
+alternative |[ɔ:l'tə:nətɪv]
+alternative comedy, alternative lifestyles, alternative values 非传统喜剧；非传统生活方式；非传统价值观 
+alternative energy (= electricity or power that is produced using the energy from the sun, wind, water, etc.) 非传统能源（指太阳能、风能、水能等）
+alternative method, alternative solution 替代性方法；替代方案
+You can be paid in cash weekly or by cheque monthly; those are the two alternatives. 你的工资可以按周以现金支取，或按月以支票支取。二者可选其一。
+We had no alternative but to fire Gibson. 我们别无选择，只有辞退吉布森。
+Is there a viable alternative to prison? 除入狱外还有无其他可行的选择？
+a healthier alternative to fried chicken 比炸鸡更健康的另一选择 
+alternatives to fossil fuels 化石燃料的替代物
+
+adj. [褒]（对待人们）宽宏大量的，仁慈的；愿意看到人或事物的好的方面的:
+adj. [褒] generous (with sth) 慷慨大方的，慷慨给予的，是一个常规用词。词义与mean相反:
+adj. [褒] 比必需的量更多的，即充足的。相当于lavish:
+adj. [褒] 大的:
+generous |['dʒenərəs]
+generous mind 宽阔的胸怀 
+She’s very generous with her praise. 她毫不吝惜赞美之词。
+generous benefactor 慷慨的捐助者 
+to be generous with your time 不吝惜时间 
+to be generous in giving help 乐于助人 
+generous gift 丰厚的礼物 
+Thank you for your donation. It was very generous of you. 感谢您的捐款，您真是慷慨大方。
+John’s become very generous with the wine! 约翰不停地奉上美酒！
+The review panel criticized the payments as overly generous. 审查小组批评这些开销太过手松。
+a generous helping of meat 一大份肉 
+The car has a generous amount of space. 这辆汽车的空间很大。
+
+relating to biology or living organisms.:与生物学或活的有机体有关。
+(of a detergent or other cleaning product) containing enzymes to assist the process of cleaning.:（洗涤剂或其他清洁产品）含有酶以协助清洁过程。
+relating to or involving the use of microorganisms or toxins of biological origin as weapons of war.:涉及或涉及使用微生物或生物来源的毒素作为战争武器。
+(of a member of a person's family) genetically related; related by blood:（一个人的家庭成员）遗传相关的；有血缘关系
+a substance of biological origin used as a drug, vaccine, pesticide, etc.:用作药物、疫苗、杀虫剂等的生物来源物质。
+biological |ˌbʌɪəˈlɒdʒɪkl| Adjective/Noun/:生物
+his biological mother:他的亲生母亲
+a wide spectrum of biologicals are produced from animal cells in culture:广泛的生物制品是由培养的动物细胞生产的
+
+n. [U] 制定计划（或巧妙地实施计划）的过程，如策划、规划、统筹安排:
+~ (to do sth) 为达到某一目的所制定的行动计划（尤指长期的行动计划），即策略、战略:
+2 [U, C]（尤指战争中的）战略、战略学；战略部署:
+~ (to do sth) 为达到某一目的所制定的行动计划（尤指长期的行动计划），即策略、战略:
+2 [U, C]（尤指战争中的）战略、战略学；战略部署:
+strategy |[ˈstrætədʒi]
+marketing strategy 营销策划
+long-term, medium-term, short-term strategy 长期策略；中期策略；短期策略 
+The overall strategy is good, but one or two of the details could be improved. 他们的总体策略还不错，只是有一两处细节还需改进。
+a key strategy to increase sales 提高销量的关键策略 
+comprehensive strategy 全面的策略 
+a global marketing strategy 全球营销战略 
+grand strategy 宏大的战略 
+The committee drew up a draft strategy for dealing with future floods.（draft尤为英式用法）委员会草拟了一份应对未来洪灾的策略。
+The government has employed a dual strategy to achieve these two objectives. 为了完成这两个目标，政府采取了双管齐下的策略。
+The company adopted aggressive marketing strategies to sell its products. 这家公司采取了积极的营销策略销售其产品。
+Her rudeness was a deliberate strategy to provoke him. 她的无礼是有预谋的，故意要激怒他。
+economics-based strategy 以经济为基础的策略 
+market-oriented strategy 以市场为导向的策略 
+a customer-oriented business strategy 以顾客为导向的经营策略 
+We all have different coping strategies for times of stress. 我们都有不同的应对紧急情况的策略。
+survival strategy 生存策略 
+No one has yet come up with an exit strategy for the troops. 还没有人提出能使部队退出的策略。
+campaign, election, electoral, government, political strategy 竞选策略；选举策略；政府策略；政治策略 
+instructional（美）, pedagogic, teaching strategy 指导性策略；教学策略 
+learning strategy 学习策略 
+business, commercial, company, corporate, financial, investment, management, marketing, pricing, product, promotional, recruitment, research, sales strategy 经营策略；商业策略；公司策略；企业策略；财务策略；投资策略；管理策略；营销策略；定价策略；产品策略；促销策略；招募策略；研究策略；销售策略 
+economic, energy, environmental, industrial, legislative strategy 经济战略；能源战略；环境战略；工业战略；立法战略 
+A coherent strategy for getting more people back to work needs to be developed. 需要制定一项连贯的策略，以使更多的人重新就业。
+The charity is drawing up a strategy to meet the needs of the homeless. 慈善机构正在拟定一项计划，以满足无家可归者的需要。
+It is certainly a strategy worth exploring. 这一策略确实值得探讨。
+They're pursuing a strategy of massive retaliation. 他们奉行大规模报复策略。
+The document sets out the government's new strategy. 文件阐述了政府的新战略。
+The company will now focus its strategy on its core business areas. 公司即将把战略重心放到核心业务领域。
+a strategy aimed at reducing the risk of accidents 旨在降低事故风险的策略 
+This strategy relies on property prices continuing to rise. 该战略的前提是资产价格持续上涨。
+The company's financial strategy is not working. 公司的财务策略没有奏效。
+strategy development, strategy formulation 战略制定；战略构想 
+strategy meeting, strategy session（尤美）战略会议；战略会晤 
+strategy review 战略回顾 
+strategy document, strategy paper 战略档案；战略文件 
+a strategy game set during the Civil War 内战期间的战略对局 
+the key idea in their strategy 他们战略中的关键思想 
+to develop an effective strategy for change 为追求变革制定一种有效的策略 
+to develop a strategy for dealing with unemployment 制订解决失业问题的对策 
+the party's strategy on poverty 该党针对贫困的策略 
+a comprehensive strategy towards regional development 针对区域性开发的综合战略 
+The coming year may herald a change in strategy for major publishers. 对大出版商来说，即将到来的一年可能意味着战略的改变。
+Their single-minded pursuit of this controversial strategy led to their fall from power. 一意孤行地奉行这项有争议的策略导致了他们的倒台。
+He pretended that resigning was part of his long-term career strategy. 他假装辞职是他长远职业规划的一部分。
+military strategy 军事战略 
+I've just been explaining the basic principles of strategy to my generals. 我刚刚一直在向各位将军解释战略学的基本原理。
+defence strategies 防御部署
+long-term, medium-term, short-term strategy 长期策略；中期策略；短期策略 
+The overall strategy is good, but one or two of the details could be improved. 他们的总体策略还不错，只是有一两处细节还需改进。
+a key strategy to increase sales 提高销量的关键策略 
+comprehensive strategy 全面的策略 
+a global marketing strategy 全球营销战略 
+grand strategy 宏大的战略 
+The committee drew up a draft strategy for dealing with future floods.（draft尤为英式用法）委员会草拟了一份应对未来洪灾的策略。
+The government has employed a dual strategy to achieve these two objectives. 为了完成这两个目标，政府采取了双管齐下的策略。
+The company adopted aggressive marketing strategies to sell its products. 这家公司采取了积极的营销策略销售其产品。
+Her rudeness was a deliberate strategy to provoke him. 她的无礼是有预谋的，故意要激怒他。
+economics-based strategy 以经济为基础的策略 
+market-oriented strategy 以市场为导向的策略 
+a customer-oriented business strategy 以顾客为导向的经营策略 
+We all have different coping strategies for times of stress. 我们都有不同的应对紧急情况的策略。
+survival strategy 生存策略 
+No one has yet come up with an exit strategy for the troops. 还没有人提出能使部队退出的策略。
+campaign, election, electoral, government, political strategy 竞选策略；选举策略；政府策略；政治策略 
+instructional（美）, pedagogic, teaching strategy 指导性策略；教学策略 
+learning strategy 学习策略 
+business, commercial, company, corporate, financial, investment, management, marketing, pricing, product, promotional, recruitment, research, sales strategy 经营策略；商业策略；公司策略；企业策略；财务策略；投资策略；管理策略；营销策略；定价策略；产品策略；促销策略；招募策略；研究策略；销售策略 
+economic, energy, environmental, industrial, legislative strategy 经济战略；能源战略；环境战略；工业战略；立法战略 
+A coherent strategy for getting more people back to work needs to be developed. 需要制定一项连贯的策略，以使更多的人重新就业。
+The charity is drawing up a strategy to meet the needs of the homeless. 慈善机构正在拟定一项计划，以满足无家可归者的需要。
+It is certainly a strategy worth exploring. 这一策略确实值得探讨。
+They're pursuing a strategy of massive retaliation. 他们奉行大规模报复策略。
+The document sets out the government's new strategy. 文件阐述了政府的新战略。
+The company will now focus its strategy on its core business areas. 公司即将把战略重心放到核心业务领域。
+a strategy aimed at reducing the risk of accidents 旨在降低事故风险的策略 
+This strategy relies on property prices continuing to rise. 该战略的前提是资产价格持续上涨。
+The company's financial strategy is not working. 公司的财务策略没有奏效。
+strategy development, strategy formulation 战略制定；战略构想 
+strategy meeting, strategy session（尤美）战略会议；战略会晤 
+strategy review 战略回顾 
+strategy document, strategy paper 战略档案；战略文件 
+a strategy game set during the Civil War 内战期间的战略对局 
+the key idea in their strategy 他们战略中的关键思想 
+to develop an effective strategy for change 为追求变革制定一种有效的策略 
+to develop a strategy for dealing with unemployment 制订解决失业问题的对策 
+the party's strategy on poverty 该党针对贫困的策略 
+a comprehensive strategy towards regional development 针对区域性开发的综合战略 
+The coming year may herald a change in strategy for major publishers. 对大出版商来说，即将到来的一年可能意味着战略的改变。
+Their single-minded pursuit of this controversial strategy led to their fall from power. 一意孤行地奉行这项有争议的策略导致了他们的倒台。
+He pretended that resigning was part of his long-term career strategy. 他假装辞职是他长远职业规划的一部分。
+military strategy 军事战略 
+I've just been explaining the basic principles of strategy to my generals. 我刚刚一直在向各位将军解释战略学的基本原理。
+defence strategies 防御部署
+
+n. 1 [C] 矛盾的人、事物或情况（因此看起来比较奇怪）:
+2 [C, U] 似是而非（或自相矛盾）的言语；似是而非（或自相矛盾）的言语的使用:
+paradox |[ˈpærədɒks;美-dɑ:ks]
+He was a paradox--a loner who loved to chat to strangers. 他真是个矛盾人物，生性孤僻却又喜欢和陌生人闲聊。
+It is a curious paradox that professional comedians often have unhappy personal lives. 这真是个奇怪的矛盾现象——职业喜剧演员的私人生活往往并不快乐。
+The paradox is that the region's most dynamic economies have the most primitive financial systems. 矛盾之处在于这个地区最有活力的经济体却有着最落后的金融体系。
+The paradox of exercise is that while using a lot of energy it seems to generate more. 锻炼奇怪的地方在于它会越活动越有劲。
+The facts pose something of a paradox. 这些事实有自相矛盾之处。
+The paradox about time is that it seems to go faster as we become older and less active。时间的矛盾之处在于，我们年纪渐长不如以前活跃的时候，它似乎走得更快了。
+the paradox between the real and the ideal 现实与理想之间的矛盾 
+the paradox in the relationship between creativity and psychosis 创造力和精神病二者关系中的矛盾 
+The author tackles one of the deepest paradoxes of life. 作者就人生中的一个最大矛盾进行了探讨。
+By a curious paradox, the team became less motivated the more games it won.这个队赢的场次越多越没有动力，真是一个奇怪的矛盾。
+‘More haste, less speed ’ is a well-known paradox. “欲速则不达”是人们熟知的似非而是的隽语。
+It's a work full of paradox and ambiguity. 这部作品充满了似非而是及模棱两可之处。
+The story contains many levels of paradox. 这个故事存在多重悖论。
+Although I'm so successful I'm really rather a failure. That's a paradox, isn't it? 虽然我非常成功，可事实上我却是个相当失败的人。这句话自相矛盾，是吧？
+
+adj. 常用于名词前，最初发展（或发生）的、最早的。不如initial常用:
+adj. [尤英] 只用于名词前，与大约五到十一岁的儿童教育有关的，如初等教育的、小学教育的:
+n. [C] 也可用primary election，在美国可指某一地区举行的初选（该初选会选出候选人以参加将来的一场重要选举）:
+adj. 常用于名词前，主要的、最重要的、基本的，相当于prime:
+primary |['praɪmərɪ]['praɪmərɪ]
+primary causes 最初的原因 
+The disease is still in its primary stage. 这病尚处于初始阶段。
+primary teachers 小学教师
+the Illinois primary 伊利诺伊州的初选 
+the presidential primaries 总统候选人初选
+the primary aim of this course 这门课的主要目的 
+Our primary concern must be the children. 我们首先要关心的必须是儿童。
+Good health care is of primary importance. 良好的医疗保健是重中之重。
+
+n. [usually sing.] 立场、观点:
+standpoint |[ˈstændpɔɪnt]
+political, theoretical standpoint 政治立场；理论角度 
+He is writing from the standpoint of someone who knows what life is like in prison. 他从一个了解监狱生活的人的立场写作。
+He believes that from a military standpoint, the situation is under control. 他认为从军事角度看，形势已得到了控制。
+From my standpoint, you know, this thing is just ridiculous. 你要知道，依我看，这事简直太荒唐了。
+We must approach the problem from a different standpoint. 我们必须换一种角度来处理这个问题。
+We should try to adopt a more positive standpoint. 我们应该尽力采取更加积极的立场。
+From the standpoint of women, this looks like a policy of discrimination. 从女性的立场出发，这一政策似乎有歧视之嫌。
+
+vt. 吸引某人的注意力:
+vt. 抓紧时间做某事:
+vt. 抓紧时间拿、取，尤指匆忙地拿、取:
+vt.&vi. ~ sth (from sb/sth) 用手突然抓住、牢牢抓住或粗鲁地抓住:
+vi. ~ at/for sth 试图抓住或夺取:
+n. [usually sing.] ~ (at/for sb/sth) 突然的抓取或抢夺:
+vt. 快速吃、喝，尤指匆忙地吃、喝:
+n. [C] [计算机] 抓取（或截取、采集）的图像:
+vt.&vi. ~ sth (from sb/sth) 用手突然抓住以夺取:
+vi. ~ at/for sth 试图夺取:
+vt. 为自己取得某东西，尤指自私或贪婪地捞取、赚取、抢占:
+n. 1 [usually sing.] ~ (at/for sb/sth) 突然的抢夺:
+2 [C] ~ for sth 夺取权力、捞取名声等:
+n. [C] 用于抓吊货物的一件设备，例如带有长长的颈部的抓具、抓斗:
+vt.&vi. ~ (at sth) 抓住机会:
+grab |[græb]
+Grab that waiter, Mary Ann. 玛丽·安，叫那位侍者过来。
+I'll see if I can grab the waitress and get the bill. 我来看能不能引起服务员的注意，让她拿账单来。
+I jumped on the wall to grab the attention of the crowd. 为了吸引那群人的注意，我纵身跃上墙头。
+Glasgow's drugs problem has grabbed the headlines tonight (= been published as an important story in the newspapers). 格拉斯哥的毒品问题成了今晚报纸的头条新闻。
+I managed to grab a couple of hours' sleep on the plane. 我在飞机上抓紧时间睡了两个钟头。
+Grab a seat, I won't keep you a moment. 赶紧找个座位吧，我不会耽误你太多工夫。
+Grab a beer. 拿瓶啤酒来。
+She grabbed the child's hand and ran. 她抓住孩子的手就跑。
+He grabbed hold of me and wouldn't let go. 他抓住我不松手。
+I managed to grab her hand. 我抓到了她的手。
+He grabbed hold of a handrail to save himself from falling. 他紧紧抓住扶手以免摔倒。
+Jim grabbed a cake from the plate. 吉姆从盘子里抓了一块蛋糕。
+I grabbed him by the neck. 我掐住他的脖子。
+Don't grab─there's plenty for everyone. 别抢——多着呢，人人都有。
+Somebody tried to grab her handbag from her. 有个人想抢她的手提包。
+He was clumsily trying to grab at Alfred's arms. 他笨手笨脚地想抓住艾尔弗雷德的手臂。
+She grabbed at the branch, missed and fell. 她抓树枝，可没抓着，就跌倒了。
+Kate grabbed for the robber's gun. 凯特拼命去夺抢劫者的枪。
+He made a grab for her bag. 他突然去抢她的手提包。
+Let's grab a sandwich before we go. 咱们赶快吃个三明治就走吧。
+a screen grab from Wednesday's programme 从星期三的节目中抓取的荧屏图像
+Don't grab─there's plenty for everyone. 别抢——多着呢，人人都有。
+Somebody tried to grab her handbag from her. 有个人想抢她的手提包。
+Kate grabbed for the robber's gun. 凯特拼命去夺抢劫者的枪。
+By the time we arrived, someone had grabbed all the good seats. 我们到达时，所有的好位子都给人占了。
+He made a grab for her bag. 他突然去抢她的手提包。
+a grab for personal power 对个人权力的巧取豪夺
+This was my big chance and I grabbed it with both hands. 这是我的大好机会，我紧紧抓住。
+She grabbed the chance of a job interview. 她抓住了一次求职面试的机会。
+He grabbed at the opportunity to buy his castle. 他抓住机会买下了他的城堡。
+He'll grab at any excuse to avoid doing the dishes. 他会随便找个借口来逃避洗碗。
+
+~ (that…) 至关重要的、关键的（因会影响其它事情）:
+crucial |[ˈkru:ʃl]
+adj. ~ (to/for sth) 
+crucial factor, crucial issue, crucial decision 关键性的因素；关键性的问题；关键性的决定 
+topics of crucial importance 至关重要的课题 
+Winning this contract is crucial to the success of the company. 赢得这份合同对这家公司的成败至关重要。
+The next few weeks are going to be crucial. 今后几个星期是关键。
+It is crucial that we get this right. 我们把这个问题弄明白是极其重要的。
+Parents play a crucial role in preparing their child for school. 父母对孩子做好上学的准备起着至关重要的作用。
+He wasn't there at the crucial moment (= when he was needed most). 紧要关头他却不在那里。
+He had administrators under him but took the crucial decisions himself. 他手下有管理人员，但重要的决策仍由他自己来做。
+the most crucial election campaign for years 几年来最重要的竞选活动 
+It's absolutely crucial that we get this right. 我们要理解这个问题，这极为关键。
+The talks are crucial for the success of the plan. 这些谈判对计划的成败至关重要。
+Secrecy is crucial to this police operation. 保密对警方的这次行动至关重要。
+
+n. [C] ~ (in sth) 错误:
+n. [C] ~ (in sth) 裂痕、裂隙:
+n. 1 [C] ~ (in sth) 缺陷、瑕疵:
+2 [C] ~ (in sb/sth) 某人性格上的弱点、缺点:
+flaw |[flɔ:]
+The argument is full of fundamental flaws. 这段论述充满根本性的错误。
+There were, however, a number of crucial flaws in his monetary theory. 但是，他的货币理论中存在若干关键性错误。
+Almost all of these studies have serious flaws. 几乎所有这些研究中都存在严重谬误。
+It took me a long time to find the flaw in her logic. 我花了很长时间才找到她逻辑上的破绽。           
+Unfortunately, this plate has a slight flaw in it. 可惜这个盘子有个小小的裂痕。
+Engineers have identified serious design flaws in the proposed nuclear waste dump. 工程师们已确认拟建的核废料处理站存在严重的设计缺陷。
+The report reveals fatal flaws in security at the airport. 报告揭示了机场安全的致命缺陷。
+Flaws have appeared in the new version of the software. 软件的新版本中出现了若干漏洞。
+The markets have exposed the fatal flaw in the government's economic policy. 市场已经暴露出政府经济政策中存在的致命缺陷。
+There is always a flaw in the character of a tragic hero. 悲剧主角总有性格上的缺陷。
+The only flaw in his character seems to be a short temper. 他性格中的唯一缺点好像就是脾气急。
+
+If something depresses prices, wages, or figures, it causes them to become less. 使降低
+If someone or something depresses you, they make you feel sad and disappointed. 使沮丧
+depress |英 [dɪ'pres]  美 [dɪ'prɛs]| vt. 压抑；使沮丧；使萧条/
+The stronger U.S. dollar depressed sales.更坚挺的美元使销售量下降。
+I must admit the state of the country depresses me.我必须承认国家的形势令我沮丧。
+
+
+n. 1 [C] ~ (to sth/to doing sth)（阻止某人达成某事的）障碍、绊脚石:
+2 [C] 前进道路上的障碍物、绊脚石:
+n. [C] 障碍赛马运动中需要马跳过的栅栏、障碍:
+obstacle |[ˈɒbstəkl;美ˈɑ:b-]
+The release of prisoners remains an obstacle in the path of a peace agreement. 释放战俘问题仍然是和谈道路上的一个障碍。
+Lack of money has proved an almost insurmountable obstacle. 缺乏资金已成为一个几乎无法逾越的障碍。
+legal obstacle 法律障碍 
+political obstacle 政治障碍 
+The attitude of the unions is a serious obstacle. 工会的态度是一大障碍。
+Lack of childcare provision can be a major obstacle for women wishing to work. 缺少儿童保育服务对希望上班的妇女来说是一大障碍。
+The huge distances involved have proved an obstacle to communication between villages. 村庄之间间隔太远，阻碍了村庄之间的通讯。
+A lack of qualifications can be a major obstacle to finding a job. 学历不足可能成为谋职的主要障碍。
+He was determined to overcome all obstacles in his way. 他决心克服阻挡他的一切障碍。
+the joy of overcoming seemingly impossible obstacles 排除看似无法逾越的障碍所带来的快乐 
+The area was full of streams and bogs and other natural obstacles. 此地遍布小溪、泥潭和其他天然障碍。
+Most competition cars will only roll over if they hit an obstacle. 大多数赛车只有在撞上障碍物时才会翻车。
+He left her to navigate her own way round the trolleys and other obstacles. 他扔下她一个人在一堆手推车和其他障碍物之间绕来绕去。          
+
+n. [C] 只要扣动扳机就能持续发射子弹的枪支，如自动手枪或自动步枪:
+n. [C] [英] 自动变速汽车，自动换挡汽车:
+adj. 由于某种行为或情况而必然发生的，也可叫当然的:
+adj. 不需要思考就得到执行或发生的，即下意识的，不假思索的，相当于instinctive。且与unconscious也描述的是同样的情况，只是描述的角度不同而已:
+adj.（机器、装置等）自动的，无需人工操作的:
+automatic |[͵ɔ:tə'mætɪk]
+He drew his automatic and began running in the direction of the sounds. 他拔出自动枪，朝发出声音的方向跑去。
+A fine for this offence is automatic. 这种违法行为当然要罚款。
+Promotion was almost automatic after two or three years. 两三年后几乎是自动获得晋升。
+Breathing is an automatic function of the body. 呼吸是一种无意识的身体功能。
+My reaction was automatic. 我的反应是不由自主的。
+automatic doors 自动门 
+an automatic rifle 自动步枪 
+The machine is fully automatic. 这台机器是全自动的。
+
+having, showing, or caused by strong feelings or beliefs:拥有、表现出或由强烈的感觉或信念引起
+arising from intense feelings of sexual love:源于强烈的性爱感觉
+passionate |ˈpaʃənət| Adjective/:热情的,多情
+passionate pleas for help:passionate请求帮助
+a passionate kiss:一个热情的吻
+
+n. [U] 赌博、赌钱:
+gambling |[ˈgæmblɪŋ]
+Gambling is a form of entertainment. 赌博是一种娱乐。
+He went to a psychiatrist about his compulsive gambling. 他去看精神科医生以戒除赌瘾。
+The police are trying to stop all illegal gambling. 警方正设法禁止一切非法赌博活动。
+legal, legalized gambling 合法赌博 
+interactive, Internet, online 互动赌博；互联网赌博；线上赌博 
+casino, casino-stye gambling 赌场赌博 
+gambling casino, gambling club（尤英）, gambling den 赌场；赌博俱乐部；赌窟 
+gambling table 赌桌 
+gambling site, gambling web-site 赌博网站 
+gambling business, gambling operation 赌博业；赌博活动 
+gambling industry 博彩业 
+gambling debt 赌债 
+She ran up gambling debts worth thousands. 她的赌债累计已达数干英镑。
+gambling revenue 赌博收入 
+gambling laws, gambling legislation 赌博法；赌博立法 
+gambling man 赌徒 
+If I were a gambling man, I'd put my money on him resigning soon. 我要是个赌徒的话，就会赌他马上辞职。
+gambling addict 嗜赌者 
+gambling addiction, gambling habit, gambling problem 嗜赌成瘾；好赌；赌瘾           
+
+n. 1 [U]（某类人或某个活动领域特有的）思维方式；解释方法；逻辑:
+2 [U, sing.] 道理，逻辑性或合理性:
+n. [U] [计算机] 逻辑系统；操作规则:
+n. [U] [哲学] 逻辑学:
+logic |[ˈlɒdʒɪk;美ˈlɑ:dʒɪk]
+The two parts of the plan were governed by the same logic. 计划的两个部分均受到了同一思维方式的制约。
+compelling, impeccable, inexorable logic 令人信服的推理；无懈可击的逻辑推理；无法改变的推理 
+faulty, flawed logic 错误的逻辑推理 
+In their faulty logic, this is a great injustice. 按照他们的错误逻辑，这是严重的不公正。
+perverse, strange, twisted logic 荒谬的逻辑；奇怪的逻辑；反常的逻辑 
+This is clearly a case of circular logic. 这显然是循环推理。
+The plan had a simple logic to it. 该计划包含着简单的逻辑。
+He understood the basic logic of deterrence. 他理解威慑的基本逻辑。
+inherent, inner, internal, underlying logic 内在的逻辑 
+The music has its own inner logic. 这音乐有其内在的逻辑。
+business, commercial, economic, political, scientific logic 经营逻辑；商业逻辑；经济逻辑；政治逻辑；科学逻辑 
+It's a stupid decision that completely defies logic. 这个决定很愚蠢，完全违背了逻辑。
+You can't use the same logic in dealing with children. 对孩子你不能用同样的逻辑。
+They questioned the logic underlying his actions. 他们质疑他行为背后的逻辑。
+What's the logic behind this decision? 这一决定背后的逻辑是什么? 
+There doesn't seem to be any logic in the move. 这一行动似乎毫无道理。
+The logic of this argument is very obscure. 这一论据的逻辑很费解。
+Linking the proposals in a single package did have a certain logic. 把这些提议联系起来成为一揽子提议确有一定的道理。
+There is no logic to/in any of their claims. 他们的任何索赔都不具正当的理由。
+I don't follow the logic of your argument. 我不明白你的论点逻辑性何在。
+There would be no logic in upsetting the agreements. 把协议推翻在逻辑上站不住脚。
+formal logic 形式逻辑 
+mathematical logic 数理逻辑 
+deductive, inductive logic 演绎逻辑；归纳逻辑 
+fuzzy 模糊逻辑 
+Philosophers use logic to prove their arguments. 哲学家用逻辑推理来证明他们的论点。
+the rules of logic 逻辑学规则
+
+n. [C] theory (that)（虽未经证明，但提出者相信是正确的）观点（或看法，意见，推测）:
+n. 1 [C, U] 试图解释某事物的一种正式想法或一系列想法，即理论，学说:
+2 [U] 某一实践性学科或技能所基于的理论或原理，即基础理论:
+theory |['θɪərɪ]
+There was a theory that he didn’t love her. 有种观点认为他不爱她。
+I have this theory that ... 依我看… 
+Police are working on the theory that the murderer was known to the family. 警方的工作基于一种猜测，即凶手是那家人的熟人。
+One of her pet theories is that people who restrict their calorie intake live longer. 她中意的论调之一就是限制热量摄入的人更长寿。
+a conspiracy theory 阴谋论
+the theory of relativity 相对论 
+to produce a new theory about the origin of language 提出一个关于语言起源的新理论 
+economic theory 经济学理论 
+Marxist theory 马克思主义理论 
+chaos, evolutionary, game, number, probability, quantum theory 混沌理论；进化论；博弈论；数论；概率论；量子理论 
+a set of theory 一套理论 
+music theory 乐理 
+to put (the) theory into practice 把理论运用到实践中 
+In theory, these machines should last for ten years. 理论上，这些机器应该能用十年。
+
+n. [sing.] 已下载的数据资料:
+vt. 下载:
+download |['daʊn͵ləʊd]
+to download the material to the disk 将资料下载到磁盘里
+
+vt. 成为（…存在或某事极有可能发生的）标志，即预示，相当于indicate。二者未见明显差别:
+n. [C] 作为…的存在或发生之标志的一次事件、行动或一个事实，也可叫做标志，信号，相当于indication:
+vt. 做某事以表达自己的感情或观点:
+n. [C]（例如向收音机或电视机）传输声音、图像或消息等的一系列电波，即信号:
+n. [C]（向某人或某事物传递信息、指令、警告等所用的）信号，暗号，类似于sign:
+vt.＆vi. signal (to sb) 向某人发信号（如做出某种动作或发出某种声音）来传达消息、命令等:
+n. [C]（尤指铁路和公路上的）指示灯，信号灯，红绿灯:
+adj. [正式] 只作前置定语，重要的，重大的:
+signal |['sɪɡnəl]
+This announcement signalled a clear change of policy. 这则声明预示政策有明显的改变。
+The scandal surely signals the end of his political career. 毫无疑问，这桩丑闻预示他的政治生涯就此结束。
+A fall in demand does not necessarily signal the death of the industry. 需求的减少并不一定意味着该行业走向穷途末路。
+The rise in inflation is a clear signal that the government’s policies are not working. 通货膨胀率的上升清楚地表明，政府的政策不起作用。
+Chest pains can be a warning signal of heart problems. 胸部疼痛可能是心脏病的报警信号。
+Reducing prison sentences would send the wrong signals to criminals. 减刑会向犯罪分子发出错误的信号。
+He signalled his discontent by refusing to vote. 他拒绝投票以示不满。
+She has signalled (that) she is willing to stand as a candidate. 她表示愿意作为候选人参加竞选。
+audio, digital, electrical, light, radar, satellite, television signal 音频信号；数字信号；电信号；光信号；雷达信号；卫星信号；电视信号 
+signal strength 信号强度
+They fired three distress signals. 他们发射了三次遇难求救信号。
+prearranged signal事先约定的信号 
+alarm, danger signal 报警信号；危险信号 
+hand, smoke signal 手势；烟雾信号 
+The insect’s yellow spots act as a warning signal to its predators. 昆虫身上的黄点是向其天敌发出的警告信号。
+She made a signal for the car to stop. 她打了个手势，让汽车停下了。
+Don’t fire until I signal. 等我发出信号后再开枪。
+Did you signal before you turned right? 右转弯前你示意了吗？
+She tried to signal to the bus driver to stop. 她试图打手势让公共汽车司机停车。
+The referee signalled a foul. 裁判鸣哨示意犯规。
+He signalled to the waiter for the bill. 他示意服务员结账。
+She signalled (that) it was time to leave. 她示意该走了。
+The traffic signals were on red. 交通信号灯亮着红灯。
+a stop signal 停车信号 
+signal failure（英）信号灯故障 
+railroad（美）, railway（英）signal 铁路信号灯
+a signal honour 极大的荣誉
+
+able to be trusted as being accurate or true; reliable:能够被信任为准确或真实；可靠的
+(of a text) considered to be the best of its kind and unlikely to be improved upon:(ofatext)被认为是同类中最好的，不太可能改进
+commanding and self-confident; likely to be respected and obeyed:指挥和自信；可能会受到尊重和服从
+proceeding from an official source and requiring compliance or obedience:来自官方来源并要求遵守或服从
+authoritative |ɔːˈθɒrɪtətɪv| Adjective/:权威性,权威的
+clear, authoritative information and advice:clear，权威信息和建议
+this is likely to become the authoritative study of the subject:this很有可能成为该学科的权威研究
+his voice was calm and authoritative:他的声音平静而权威
+authoritative directives:authoritative指令
+
+adj.（某种液体混合物）没有任何结块的，混合均匀的:
+adj.（嗓音或音乐）悦耳的，圆润的，没有任何粗糙感或令人不悦的声音的:
+adj.（运动）平稳且规则的，没有任何停止和启动的，如稳定而流畅的:
+adj. [常贬] 人（尤指男人和其行为）非常有礼貌且让人感觉愉悦但常不是真诚的，可称为圆滑的、八面玲珑的，相当于smarmy:
+vt. smooth sth on/into/over sth 将一层柔软物质均匀置于食物表面:
+adj.（饮料或味道）宜人且不苦涩的，如醇和的，香醇的:
+vt. smooth sth on/into/over sth 将一层柔软物质均匀置于某个表面上:
+adj. 完全平整、平坦、平滑、光滑的，没有任何隆起、坑洼或粗糙区域的。是此义的常规用词。与rough相对立:
+vt. smooth sth (back/down/out) 使某事物平整、平坦、平滑或光滑:
+adj. 发生或持续得顺利（而不遇到任何问题）的:
+smooth |[smu:ð]
+Mix the flour with the milk to form a smooth paste. 把面粉和牛奶和成均匀的面糊。
+The car’s improved suspension gives you a smoother ride. 汽车悬架经过改进，乘坐起来更平稳。
+The plane made a smooth landing. 飞机平稳降落。
+She swung herself over the gate in one smooth movement. 她从门上一跃而过。
+I don’t like him. He’s far too smooth for me. 我不喜欢他。我觉得他太圆滑。
+a smooth operator 八面玲珑的滑头
+Smooth the icing over the top of the cake. 在蛋糕顶上均匀地铺一层糖霜。
+This coffee has a smooth, rich taste. 这种咖啡味道醇厚。
+Smooth the icing over the top of the cake. 在蛋糕顶上均匀地一层糖霜。
+to make your skin feel soft and smooth 使皮肤柔软光滑 
+The water was as smooth as glass. 水平如镜。
+Over the years, the stone steps had worn smooth. 日久天长，石阶已经磨得光溜溜的了。
+He took the letter and smoothed it flat on the table. 他接过信，在桌上展平。
+She smoothed his hair gently. 她轻轻地抚平他的头发。
+Use an iron to smooth out any creases. 用熨斗把褶皱熨平。
+the smooth running of the business 公司的平稳运转 
+a smooth transfer of political power 政权的顺利交接 
+a fairly smooth transition to democracy 向民主制度相当顺利的过渡 
+The process of negotiation was not entirely smooth. 谈判过程并非一帆风顺。
+
+n. 1 [C] 拥有某一宗旨的大型重要机构，如大学、教堂、银行等:
+2 [C] [常贬] 社会福利机构，如照顾老年人、儿童或精神病患者的福利机构、孤儿院、收容所等:
+n. [C] [非正式，幽默] 因长时间在某地（或从事某项工作）而广为人知的一个人:
+n. [U] 建立或制定一个新的体系、制度、法律、规程等:
+n. [C] 在某一群人中由来已久的风俗或制度（该风俗或制度常被作为该社会群体的典型特征）:
+n. [C] 拥有某一宗旨的大型重要机构，其含义包括大学:
+institution |[͵ɪnstɪ'tju:ʃn]
+government institution 政府机构 
+non-profit institution 非营利性机构 
+academic, education, research institution 学术机构；教育机构；研究机构 
+banking, financial institution 银行机构；金融机构 
+charitable, legal, military, religious, medical institution 慈善机构；法律机构；军事机构；宗教机构；医疗机构 
+He has been in an institution since he was six. 他六岁起就在孤儿院生活。
+mental institution 精神病院 
+correctional（美）, penal institution 管教机构；刑罚机构 
+state institution（美）国家收容机构
+an institution around the town 镇子里的知名人士
+the official institution of censorship 审查制度的正式建立
+the institution of marriage 婚姻制度 
+a national institution 民族风俗 
+cultural, legal, political, religious, social institution 文化习俗；法律制度；政治制度；宗教习俗；社会习俗 
+mainstream institution 主流习俗 
+the institution of slavery 奴隶制
+academic, education, higher-education, research institution 学术机构；教育机构；高等教育机构；研究机构 
+a medical institution 医学院校
+
+n. [C] vehicle (for sth) 表达思想、感情、或达成某事所使用的媒介，即手段，工具:
+n. [C] launch vehicle 可表示运载火箭:
+n. [C] vehicle (for sth) 表达思想、感情、或达成某事所使用的媒介，即手段，工具:
+n. [C] [相对正式] 交通工具的总称，尤指车辆，又尤指机动车辆。是此义的常规用词，极为常用:
+vehicle |['vi:ɪkl]
+His art is a vehicle for his self-expression. 他的艺术是他借以表达自己的一种工具。
+an investment vehicle 投资工具 
+The play is a perfect vehicle for her talents. 这出戏让她能够充分发挥自己的才华。
+the main vehicle of communication for students 学生相互交流的主要媒介
+His art is a vehicle for his self-expression. 他的艺术是他借以表达自己的一种工具。
+an investment vehicle 投资工具 
+The play is a perfect vehicle for her talents. 这出戏让她能够充分发挥自己的才华。
+the main vehicle of communication for students 学生相互交流的主要媒介
+launch vehicle 运载火箭 
+horse-drawn, motor vehicle 马拉的交通工具；机动车辆 
+electric, hybrid vehicle 电动车；混合动力车 
+diesel vehicle 柴油车 
+tracked, wheeled vehicle 履带车辆；有轮车辆 
+off-road vehicle 越野车 
+sport utility vehicle（缩写为SUV）运动型多功能车 
+luxury vehicle 豪华车 
+private vehicle 私家车 
+passenger vehicle 客车 
+commercial vehicle 商用车 
+goods vehicle（英）货车 
+rescue vehicle 救援车辆 
+police vehicle 警车 
+fighting, military vehicle 战车；军车 
+vehicle emissions 机动车尾气排放 
+vehicle maintenance 车辆维护
+
+n. [C] ~ of sth（某一事物肆虐造成的）灾害、祸患:
+vt. ~ sb/sth (with sth)（尤指通过要求某事物、要求别人的注意等而）给某人造成烦扰或麻烦，如纠缠:
+n. 1 [U]（也可用the plague）老鼠传播的一种疾病，可引起发热、肿胀且通常致死，即腺鼠疫、腹股沟淋巴结鼠疫。相当于bubonic plague:
+2 [C] 导致很多人死亡的一种传染病:
+n. [C] 令人头疼的事物，如烦扰:
+vt. ~ sb/sth (with sth) 给某人或某事物造成一段时间的痛苦或麻烦:
+plague |[pleɪg]
+The region has just suffered a plague of locusts. 该地区刚刚遭受了蝗灾。
+The city is suffering a plague of rats. 这座城市正在闹鼠灾。
+Last year there was a plague of robbery and housebreaking. 去年抢劫和入室行窃成灾。
+Rock stars have to get used to being plagued by autograph hunters. 摇滚歌星必须习惯歌迷要求签名的纠缠。
+I'm not going to plague you with a lot more questions, Miss Culver. 卡尔弗小姐，我不会再问更多的问题来烦你了。
+Tommy Cook had been plaguing Pinner for months. 汤米·库克已纠缠平纳好几个月了。
+a fresh outbreak of plague 新一轮鼠疫的爆发 
+illnesses such as smallpox, typhus and the plague 像天花、伤寒和鼠疫这样的疾病 
+Bubonic plague struck London in 1665. 1665年伦敦爆发了腺鼠疫。
+Nearly a third of the population died in the Great Plague. 近三分之一的人口在伦敦大瘟疫中丧生。
+the plague of AIDS 艾滋病这种严重的传染病 
+A cholera plague had been killing many prisoners of war at the time. 当时霍乱疫情已在夺去很多战俘的生命。
+Fleas spread plague from animals to humans. 跳蚤将鼠疫从动物传染给人类
+Inflation will remain a recurrent plague. 通货膨胀将继续成为周期性的烦扰。
+Tim seems to have escaped the cynicism which is the absolute plague of our generation. 蒂姆好像并没有染上我们这代人愤世嫉俗的通病。
+to be plagued by doubt 为疑虑所困扰 
+Financial problems are plaguing the company. 财政问题使这家公司焦头烂额。
+The team has been plagued by injury this season. 本赛季这支队一直为队员受伤所困扰。
+She was plagued by weakness, fatigue, and dizziness. 她感觉体虚、疲倦、头昏眼花。
+Fears about job security plague nearly half the workforce. 几乎一半的员工担心失业。

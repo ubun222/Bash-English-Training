@@ -1,0 +1,788 @@
+react					做出反应，有不良反应
+offer					提出，给予，具备，提议
+offer oneself					自告奋勇
+bend					使弯曲，使...朝向
+constant					持续的，不变的，常数
+guilty					有罪的，内疚的
+web					蜘蛛网
+a web of lies					谎话连篇
+description					描述，种类
+fear					害怕，担忧
+choose					选择，决定
+prisoner					犯人
+towel					毛巾，纸巾
+tiny					极小的，幼小的
+tension					紧张，电压，绷紧
+cover					遮盖，包裹，处理，报导，支付
+covers					被子
+cover for					顶替
+tree					树木
+wonderful					令人赞叹的，绝妙的
+position					位置，姿势，状况，立场，摆放
+position oneself					使位于
+yard					码，庭院，堆场
+yards					很长的距离
+else					其他，另外
+or else					要不然，或者
+expand					扩大，增加
+country					国家，乡下，地带
+the country					全国人民
+below					在...下面
+press					按，压，抱紧，催促
+the press					新闻界
+press ahead					推动
+saucer					茶托
+literature					文学，宣传册
+meanwhile					同时，相比之下
+ridiculous					可笑的，荒唐的
+least					最少的，最轻微的
+at least					至少
+\\\\\\\\
+
+vi. react against sb/sth 与…作对（尤指故意作对）；反抗。不常用:
+vi. react (to sth) (by doing sth) 由于…（或针对…）而发生某种变化或做出某种行为，即起反应；（对…）做出反应；回应（与respond和reply类似，主语一般是做出反应的人等，一般可互换）:
+react (together) 在化学中可指（不同的物质相遇后）起化学反应，发生化学变化:
+vi. 生物体接触某种或某些物质（如吃进食物、施用药物、吸入…、触摸…等）后发生不良反应:
+react |[rɪ'ækt]
+Most young people react against traditional values. 很多年轻人反对传统的价值观。
+to react against his practice 反对他的做法
+Local residents have reacted angrily to the news. 当地居民对这一消息表示愤怒。
+Her family reacted with horror when she told them. 她告诉她的家人后家人们惊骇不已。
+I nudged her but she didn’t react. 我用胳膊肘捅了她一下，可她没有反应。
+The market reacted by falling a further two points. 股市的反应是再下跌两个百分点。
+The police must be able to react swiftly in an emergency. 警方在面对紧急情况时必须能迅速做出反应。
+The industry has been slow to react to these breakthroughs in technology. 该行业对技术上的这些突破反应迟缓。
+The committee reacted positively to the proposals. 委员会对这些提议做出了积极回应。
+vi. react (with sth) 
+Iron reacts with water and air to produce rust. 铁和水及空气发生反应产生铁锈。
+to react to certain food additives 对某些食品添加剂产生不良反应 
+Someone allergic to milk is likely to react to cheese. 对牛奶过敏的人可能会对奶酪也有不良反应。
+
+offer sb sth 表示你愿意为某人去做某事:
+vt. 1 表示一个人、组织机构等愿意把某事物、任务、机会等给予某人:
+2 表示某事物能提供…:
+n. [C] offer (of sth/to do sth) 表示你愿意为某人去做某事或愿意把某事物给某人的一种行为:
+vt.＆vi. 给出可以支付给对方的价格:
+n. [C] offer (for sth) 某人愿意为某事物所支付的一笔钱，即买方的出价:
+n. [C] 在正常价格基础上的减价（通常为短期减价）:
+vt. [正式] offer sth/sb (up) (to sb) 把某事物给上帝或神灵，即奉献、祭献。但其宾语还可以是祈祷（即向神“献上”祈祷，旨在祈求神的保佑）:
+offer |['ɒfə,'ɔ:-]
+vt.＆vi. offer sth (to sb) (for sth) 
+The kids offered to do the dishes. 孩子们主动要求洗盘子。
+He offered some useful advice. 他提出了一些有用的建议。
+They decided to offer the job to Jo. 他们决定把这份工作给乔。
+She offered drinks to her guests. 她给客人端了些饮料。
+He did not offer any explanation for his behaviour. 他没有对自己的行为做出任何解释。
+The hotel offers excellent facilities for families. 本旅馆提供优良的家庭服务设施。
+the protection that life insurance can offer 寿险所能提供的保障 
+This investment is likely to offer a higher return. 这项投资很可能会带来较高的回报。
+The job didn’t offer any prospects for promotion. 这份工作没有任何升迁的希望。
+Thank you for your kind offer of help. 谢谢你的好心帮助。
+I accepted her offer to pay. 她要付款，我同意了。
+an offer of marriage 求婚 
+job offer 就业机会的提供（或招聘录取通知书）
+She received an offer from the University of Warwick.（英）她接到了华威大学的录取通知书。
+to offer any more 出更高的价钱 
+to offere over £100 000 for the house 出价10多万英镑购买这所房子 
+Tom offered him 500 dollars to do the work. 汤姆愿出500元雇他做这份工作。
+I’ve had an offer of $2 500 for the car. 有人向我出价2500美元买这辆汽车。
+He made me an offer I couldn’t refuse. 他提出了一个我不能拒绝的报价。
+The original price was £500, but I’m open to offers. 原价为500英镑，但价钱还可以再商量。
+to get a higher offer 得到更高的出价 
+Don’t just accept the first offer. 不要直接接受第一次报价。
+special offer 特价优惠 
+cheap offer（英）廉价 
+an introductory offer 推广优惠 
+They have an offer on beer at the moment. 他们此刻正在打折卖啤酒。
+I got the conditioner in a free offer with my shampoo. 我买洗发水时免费获赠了护发素。
+We offered up our prayers for the men’s safe return. 我们祈求上苍保佑他们平安归来。
+
+vt.＆vi. 1（尤指人的身体部位，如头部）朝某个方向倾斜，如弯曲；使其朝某个方向倾斜。是此义的常规用词:
+2 胳膊、腿等弯曲；使胳膊、腿等弯曲:
+vt.＆vi.（河流）改变方向以形成一个弧度或角度；使（河流）改变方向以形成一个弧度或角度:
+n. [C] 河流的拐弯:
+vt.＆vi. 改变方向以形成一个弧度或角度；使…改变方向以形成一个弧度或角度:
+vt. 把某物用力弯曲成一个角度或弧线。是一个常规用词:
+n. [pl.] the bends可指潜水员因过快浮出水面所造成的剧烈疼痛和呼吸困难，即减压病，潜涵病:
+vt.＆vi.（道路）改变方向以形成一个弧度或角度；使（道路）改变方向以形成一个弧度或角度:
+n. [C] 道路的拐弯:
+bend |[bend][bend]
+I bent down and tied my shoelace. 我弯下身来系鞋带。
+He bent his head and kissed her. 他低下头吻了她。
+She was bent over her desk writing a letter. 她伏案写信。
+Bend your knees. 膝盖弯曲。
+Lie flat and let your knees bend. 平躺曲膝。
+a wide bend in the river 河流的一个缓弯
+Glass and water both bend light. 玻璃和水都折光。
+Mark the pipe where you want to bend it. 在管子上要弄弯的地方做个记号。
+The knives were bent out of shape. 那些刀已经弯曲变形了。
+He bent the wire into the shape of a square. 他把铁丝折成正方形。
+The road bent sharply to the right. 路向右急转弯。
+a sharp bend in the road 道路的急拐弯 
+mountain roads with blind bends 有隐蔽弯角的山道 
+a left-hand bend 左转弯 
+final bend（速度比赛的）最后一个弯道 
+a series of bends 一连串的弯道 
+Slow down on the tight bends. 急转弯处减速慢行。
+The car vanished around a bend. 汽车转过弯道后消失不见了。
+
+adj. 常作前置定语，一直都在发生的，或重复发生的，即持续不断的，重复的:
+adj.（尤指数量或水平）不变的，恒定的，相当于fixed:
+n. [C] [术语] 常数，常量:
+constant |['kɒnstənt]
+constant interruptions 无休止的干扰 
+a constant stream of visitors all day 整天络绎不绝的游客 
+Babies need constant attention. 婴儿一刻也离不开人。
+This entrance is in constant use. 此入口经常使用。
+a constant threat 一个持续的威胁
+a constant speed 恒定速度 
+The level of unemployment remains fairly constant at around 10%. 失业率一直维持在10%左右，比较稳定。
+All variables except one must be held constant. 除了一个变量以外，其他所有变量必须保持恒定。
+
+adj. guilty (about sth) 因做了错事或未做本应该做的事而感到内疚的，惭愧的。程度通常较重:
+adj. 1 guilty (of sth) 犯了罪的；为某件坏事负责任的，即有过失或罪责的:
+2（行为、行动或事实）罪恶的:
+guilty |['ɡɪltɪ]
+I feel so guilty. 我深感内疚。
+She has a terribly guilty conscience about it. 她对此有强烈的负罪感。
+the guilty party 有罪的一方当事人 
+He was found guilty of murder. 他被判犯有谋杀罪。
+He pleaded guilty to starting the fire. 他承认自己犯了纵火罪。
+The jury voted not guilty on all counts. 陪审团表决认定各项指控均不成立。
+a guilty secret 一个罪恶的秘密
+
+n. [C] 一些禽鸟等动物（如鸭子、青蛙）的蹼:
+n. [sing.] the Web可指计算机的互联网，也称万维网（World Wide Web）。在词义上与Internet没有明显区别，不过Internet使用范围更广，也更为常用:
+n. [C] 彼此紧密联系在一起的若干事物，即网状的、错综复杂的事物。主要强调整体上的复杂性，有时还有危险性（如汉语中的“天罗地网”），而不关心内部各节点之间是否具有交互性（通常没有交互性，但偶尔也有）。此外，web还通常作为一个整体而和外部事物之间发生作用，如作为“蜘蛛网”来捉飞虫、作为“罗网”来捕获某事物等（对同一个事物，如果说它是一个network，则强调其系统性和交互性，如果说它是一个web，则强调其复杂性和迷乱感）:
+n. [C] 彼此紧密联系在一起的一些道路，即道路网。不过其一般只强调道路的复杂交错，而不太强调各交通站点之间的交通往来活动:
+n. [C] 蜘蛛网:
+web |[web]
+Web page 网页 
+Web address 网址 
+Web browser 网络浏览器 
+Web network 网络 
+I found the information on the Web. 我在网上找到了这条消息。
+a web of streets 纵横交错的街道 
+a web of relationships 关系网 
+a complex web of financial dealings 一张复杂的金融交易网 
+The mass media form a web of communications. 大众传媒形成一个信息传递网络。
+a web of deceit 骗局 
+a web of lies 一套谎言
+a web of streets 纵横交错的街道
+spider（尤美）, spider’s（尤英）web 蜘蛛网 
+A spider had spun a perfect web outside the window. 蜘蛛在窗外结了一张完整的网。
+
+n. [C] 用于of some, all, every. etc. description结构，表示类型:
+n. 1 [C, U] 描写；描述；形容；说明:
+2 [U] beyond description或defy description 可用于强调…非常不平常、令人印象深刻、糟糕或极端等，即无法形容:
+description |[dɪs'krɪpʃən]
+Events of this description occurred daily. 这类事情每天都在发生。
+cars of every description 各种类型的车 
+His money came from trade of some description. 他的钱是做某种生意赚来的。
+medals, coins and things of that description 纪念章、硬币以及诸如此类的东西
+to give a detailed description of the procedure 对程序做详尽的说明 
+the novelist’s powers of description 小说家的叙述才能 
+a vivid description of his life 对他的生活的生动描述 
+verbal, written description 口头描述；书面描述 
+job description 职务说明 
+a pain that goes beyond description 一种难以形容的痛苦 
+His face was so odd that it defies description. 他的脸长得特别古怪，简直无法形容。
+
+vt.＆vi. 感到某件坏事可能已经发生（或将有可能发生），即担心，担忧:
+fear (that ...) 处于危险之中时、坏事可能发生时、吓人的事发生时所具有的担忧的心境:
+fear (that ...) 处于危险之中时、坏事可能发生时、吓人的事发生时所具有的一种糟糕的感觉，即害怕，恐惧。是此义的常规用词，极为常用:
+vt.＆vi. 害怕、惧怕或畏惧（某人、某事物、做某事）:
+vi. [正式] I fear用于告诉某人你认为某件坏事已经发生或属实:
+fear |[fɪə]
+It is feared (that) he may have been kidnapped. 人们担心他可能被绑架了。
+to fear for his safety 担心他的安全 
+Never fear, I shall return. 别担心，我会回来的。
+fear (for sb/sth) 
+We lived in constant fear of losing our jobs. 我们一直生活在担心失去工作的阴影里。
+her fears for her son’s safety 她对儿子安全的担忧 
+his fears for the future 他对未来的担忧
+fear (for sb/sth) 
+(a) fear of the spiders 害怕蜘蛛 
+The boy showed no fear. 这个男孩毫无惧色。
+He was shaking with fear. 他吓得发抖。
+Public fears about the disease increased. 公众对该疾病的恐惧越来越强烈。
+childhood fear 孩提时代的恐惧 
+a fear of failure 害怕失败
+All his employees fear him. 他的雇员都怕他。
+She feared to tell him the truth.（正式）她不敢把真相告诉他。
+This disease is greatly feared. 这种病非常可怕。
+He learned to fear and respect this force of nature. 他学会对这种自然力量表示敬畏。
+They are unlikely to get here on time, I fear. 恐怕他们不大可能准时到达这里。
+‘He must be dead then?’ ‘I fear so.’ “那么他肯定死了？”“恐怕是这样。”
+
+vi. 更喜欢（或宁愿、情愿）去做某事；决定去做某事:
+choose (A) (from B) /choose sb/sth as sth 在一些现成的人（或事物）之间进行选择:
+choose |[tʃu:z]
+Employees can retire at 60 if they choose. 如果雇员愿意的话，可在60岁退休。
+Many people choose not to marry. 许多人情愿不结婚。
+vt.＆vi. choose (between A and/or B) 
+You choose, I can’t decide. 你来选吧，我拿不定主意。
+There are several different models to choose from. 有几个不同型号可供选择。
+This site has been chosen for the new school. 这块场地已被选作新学校的校址。
+We chose Paul Stubbs as/for chairperson. 我们选保罗·斯塔布斯当主席。
+Sarah chose her words carefully. 萨拉措辞谨慎。
+
+n. [C] 被敌人捕获并被关押起来的人，即俘虏:
+n. 1 [C] 囚犯，或被羁押等候审判者:
+2 [C] 被劫匪等捕获并被关押起来的人，即俘虏:
+n. [C] 比喻用法中可指与非战争或非罪行有关的囚禁者:
+prisoner |['prɪznə]
+a prisoner of war 战俘 
+Many soldiers were taken prisoner. 许多士兵被俘。
+to capture 80 prisoners 抓获80名俘虏
+prisoners serving life sentences 被判无期徒刑的囚犯 
+a prisoner of conscience 政治犯 
+political prisoners 政治犯 
+life prisoner（尤英）无期徒刑的囚犯 
+short-term prisoner（英）短期监禁的囚犯 
+remand prisoner（英）还押候审的犯人 
+condemned prisoner 已判刑的犯人 
+death-row prisoner 死囚犯 
+escaped prisoner 逃犯 
+released prisoner 获释的囚犯 
+model prisoner 模范囚犯 
+fellow prisoner 同监犯人 
+They are holding her prisoner and demanding a large ransom. 他们把她劫持了，并索要巨额赎金。
+to be kept prisoner in a basement room 被关在一间地下室
+She is afraid to go out and has become a virtual prisoner in her own home. 她不敢出门，实际上已成了关在家中的囚犯。
+
+n. [C] 用于擦干事物（尤指擦干身体）的一块布或纸，如毛巾，纸巾等:
+vt. towel yourself/sb/sth (down) 用毛巾、纸巾等擦干…:
+towel |['taʊəl]
+dry towel 干毛巾 
+cotton, paper towel 棉质毛巾；纸质毛巾 
+bath towel 浴巾 
+dish towel（通常用dishtowel）（美）擦碗巾 
+hand towel 手巾 
+sanitary towel（英）（美式英语用sanitary napkin）卫生巾
+to towel his wet hair 擦干他湿漉漉的头发 
+I towelled myself dry. 我用毛巾把身体擦干。
+
+adj. 数量极小的:
+adj. 尺寸（或数量）极小的:
+tiny |['taɪnɪ]
+Only a tiny minority hold such extreme views. 只有极少数人持这样极端的观点。
+her tiny budget 她少量的预算
+tiny baby, tiny budget 纤弱的婴儿；微小的预算 
+a tiny minority 极少数 
+little tiny fingers 小小的手指
+
+n. [U] 心理情绪上的紧张、担忧:
+n. 1 [U, C] tension (between A and B) 人与人之间关系紧张的局势或状态，即互不信任，且存在突然爆发冲突的可能性:
+2 [U] 作家或电影导演制造的紧张气氛，是一种恐惧且令人兴奋的气氛:
+3 [U] 物理上的紧绷的状态或程度:
+n. [C, U] tension (between A and B) 不同的利益、需求、力量、争论、影响力等因素之间的冲突或矛盾:
+n. [U] 肌肉紧张:
+tension |['tenʃn]
+inner tension 内心的紧张 
+emotional, nervous tension 情绪紧张；神经紧张 
+tension headache 紧张性头痛 
+Laughter can be a great release of tension. 大笑能有效地释放紧张情绪。
+political, racial tension 政治关系紧张；种族关系紧张 
+renewed tension with France 与法国再度紧张的关系 
+family, internal, regional tension 家庭紧张；内部紧张；地区紧张 
+There is mounting tension along the border. 边境局势日趋紧张。
+tension in meetings 会议上的紧张气氛 
+a tension in the air 气氛紧张 
+tension between local youths and the police 当地青年和警察之间的紧张关系 
+tension between her parents 她父母之间的紧张关系 
+As the movie progresses the tension builds. 随着电影剧情的发展，气氛越来越紧张。
+The movie lacks dramatic tension. 这部影片缺乏戏剧张力。
+to adjust the string tension of a tennis racket 调节网球拍的网张力 
+Stay clear of cables which are under tension. 远离紧绷的缆绳。
+The metal is weak in tension. 这种金属张力很差。
+There is often a tension between the aims of the company and the wishes of the employees. 公司的目标和雇员的愿望之间经常存在矛盾。
+muscle tension 肌肉紧张 
+to ease the tension in my body 缓解我身体的紧张 
+I feel some tension in my shoulders. 我感觉双肩有些发紧。
+
+vt. 涉及:
+vt.（规律）适用于（某些人、事或情况）:
+vt. cover yourself (against sth) 采取行动以使自己免遭责备:
+vt. 1 cover sth (with sth) 把…放在…上面或前面以对其进行隐藏，即掩盖，遮盖:
+2（某事物）盖住另一事物以对其进行隐藏，即掩盖，遮盖:
+n. [C, usually sing.] cover (for sth) 看起来诚实、正直或真实，实则对某人的真实身份、感情或违法事情起到掩盖作用的活动或行为，即掩饰:
+vt. 1 cover sth (with sth) 把…放在…上面或前面以对其进行保护，即掩盖，遮盖:
+2（某事物）盖住另一事物以对其进行保护，即掩盖，遮盖:
+3 用枪掩护某人:
+n. 1 [U] 躲避处（可抵御恶劣天气或攻击）:
+2 [U] 在某人的进攻过程中、处于危险之中、或被攻击的过程中所提供的掩护、防护（常指用武器进行的掩护）:
+vt. 包括，包含；涉及；处理。是一个形象化用法。一般仅指某个事物在范围上“涵盖”了…，而不表示contain那种空间上“容纳”某些事物:
+vt. cover sb/sth in/with sth 在…上面放置或撒上、洒上、溅上、铺上一层液体或灰尘、其他事物等:
+vt. 走过（或称穿行越过）一段路程:
+vi. cover for sb 为避免他人陷入麻烦而编造一个谎言或借口:
+vi. cover for sb（当某人不在时）代替其进行工作或代其履行职责:
+n. [U] 当其他人不在或人手不够时，某人替代这些人进行工作，即代劳:
+vt. 用枪瞄准一个地方或一个人（以致无人可逃跑或开枪）:
+n. [pl.] the covers可指床上的盖具，如床单；床罩；毯子；被子等:
+n. [C] 放在某物体上面的事物（该事物通常对被覆盖物起保护或装饰作用），即覆盖物；遮蔽物；套子；罩子等:
+n. [U] 生长在一个地区的树木和植物，即自然植被。是由众多单棵植物所构成的一个面积广大的植被群，强调对地面的覆盖效果:
+vt.（在讲座、课程或书籍中）论及（某一主题）。是一个形象化用词和概括性用词，其本身含义较广:
+vt. 在电视、报纸等媒体上报道一次新闻事件；在电视上播出一次事件。本身是一个广义用词，与report不同，cover此时仅为及物动词:
+vt. 1 cover sth (with sth) 把…放在…上面或前面以对其进行隐藏或保护，即掩盖，遮盖:
+2（某事物）盖住另一事物以对其进行隐藏或保护，即掩盖，遮盖:
+3 覆盖在…表面上:
+4 覆盖（或占）一片面积:
+n. [U] 云层对天空的遮盖，或雪对大地的遮盖等:
+vt. 用枪瞄准一个地方或一个人（以致无人可逃跑或开枪）:
+vt. 翻唱（原来由另一乐队或歌手演唱的歌曲）:
+n. [C] 歌曲的翻唱版本，相当于cover version:
+vt.（钱币）足以支付，够付。其主语既可以是人，也可以是钱，还可以是赚钱的活动。不过cover比afford更强调金钱的充足程度，以及由于金钱的充足而带来的安全感和解决问题的能力:
+vt. cover sb/sth (against/for sth) 通过保险来保护某人，使其免受损失、伤害等。与protect词义相似。不过表此义时比protect常用:
+n. [U] [英] [美用coverage] cover (agaist sth) 保险公司所提供的保险。强调保单的覆盖范围和保险给人带来的安全感，是一种形象化的用法。词义上已为insurance所涵盖，且使用频率次于insurance:
+vi. 包庇（做秘密或非法事情的人）。是此义的一个基础用词。但并不强调采用何种方法来包庇:
+n. [C] 图书或杂志的封皮。是此义的常规用词:
+cover |['kʌvə]
+The lectures covered a lot of ground. 这些讲座涉及的内容极为广泛丰富。
+The law covers four categories of experiments. 这一原理适用于四类试验。
+One reason doctors take temperatures is to cover themselves against negligence claims. 医生测量体温的一个原因是免得被指玩忽职守而遭受索赔。
+She covered her face with her hands. 她双手掩面。
+She used twigs to cover up the hole. 她用小树枝盖住洞口。
+He covered the body with a cloth. 他用一块布盖住那具尸体。
+He laughed to cover his nervousness.（比喻用法）他哈哈大笑以掩饰紧张的心情。
+to cover his embarrassment（比喻用法）掩饰他的尴尬 
+Her hair partially covered her face. 她的头发把脸遮住了一部分。
+spies operating under diplomatic cover 以外交身份为掩护进行活动的间谍 
+The guard believed her cover story. 卫兵相信了她的假话。
+The club is a cover for various criminal activities. 该俱乐部为各种犯罪活动提供掩护。
+He realized his cover had been blown. 他意识到自己的身份已经暴露了。
+Her over-confident attitude was a cover for her nervousness. 她以过分自信的态度来掩饰她紧张的心情。
+He covered the body with a cloth. 他用一块布盖住那具尸体。
+a black patch which covered his left eye 盖在他左眼上的黑眼罩 
+Cover me while I move forward. 掩护我前进。
+Everyone ran for cover when it started to rain. 雨下起来时，大家都跑着找地方避雨。
+They sought cover from the wind. 他们寻找避风的地方。
+After the explosion the street was full of people running for cover. 爆炸发生以后，满街的人都奔跑躲避。
+The deer broke cover as the hunters approached. 猎人接近时，鹿从躲藏的地方跑了出来。
+air cover for ground operations 为地面行动提供空中掩护 
+They move under cover of darkness. 他们在黑夜的掩护下行进。
+The survey covers all aspects of the business. 调查范围涵盖了这家企业的各个方面。
+The lectures covered a lot of ground. 这些讲座涉及的内容极为广泛丰富。
+the sales team covering the northern part of the country 负责该国北部地区的销售团队 
+Do the rules cover a case like this? 这些规则适用于这样一种情况吗？
+We’ve hardly covered a quarter of the course. 这门课程我们连四分之一都没完成。
+The tax may be extended to cover books. 该税可能要扩大范围，把图书也包括在内。
+The wind blew in from the desert and covered everything with sand. 风从沙漠那边吹来，把一切都蒙上了一层沙子。
+The desk was covered with papers. 书桌上铺了些报纸。
+The cars were all covered in snow. 汽车全都埋在雪里了。
+The children were completely covered with mud. 孩子们满身是泥。
+They walked for a long time and covered a good deal of ground. 他们步行了很长时间，走了好长的一段路。
+It would not be easy to cover ten miles on that amount of petrol. 要靠那点儿汽油跑十英里可不容易。
+I have to go out for a minute--will you cover for me if anyone asks where I am? 我得出去一会儿，假如有人问起我在哪里，你能为我搪塞一下吗？
+I’m covering for Jane while she’s on leave. 简休假期间我顶替她工作。
+to organize cover for staff who are absent 安排他人顶替缺席的员工
+The police covered the exits to the building. 警方用枪封锁了那栋大楼的出口。
+Don’t move--we’ve got you covered! 不许动！我们的枪口正对着你呢！
+She slid under the covers. 她钻进了被窝。
+bed covers 床上铺盖 
+thick, warm covers 厚厚的铺盖；温暖的铺盖 
+thin covers 薄薄的铺盖
+a plastic waterproof cover for the stroller 手推童车的塑料防水篷 
+a sofa with washable covers 一张沙发套可拆洗的沙发 
+protective cover 保护套 
+dust cover 防尘罩 
+cushion, mattress, pillow（美）, seat cover 靠垫套；床垫套；枕套；座套 
+album cover 专辑封面 
+the cover of the bin 垃圾桶盖 
+a cover for the swimming pool 游泳池的顶棚
+forest, vegetation cover 森林覆盖；植被 
+plants that provide good ground cover 给地面提供良好覆盖的植物
+Introduction to Chemistry aims to cover important topics in organic chemistry.《化学入门》意在论及有机化学的重要问题。
+The BBC will cover all the major games of the tournament. 英国广播公司将报道这次锦标赛的所有重要赛事。
+She covered her face with her hands. 她双手掩面。
+to cover up the hole 盖住洞口 
+He covered the body with a cloth. 他用一块布盖住那具尸体。
+He laughed to cover his nervousness.（比喻用法）他哈哈大笑以掩饰紧张的心情。
+a black patch which covered his left eye 盖在他左眼上的黑眼罩 
+Her hair partially covered her face. 她的头发把脸遮住了一部分。
+Snow covered the ground. 大雪覆盖了大地。
+Much of the country is covered by forest. 森林覆盖着这个国家的大片土地。
+The clouds covered the entire sky. 乌云遮蔽了整个天空。
+The reserve covers an area of some 1 140 square kilometres. 保护区占地面积大约为1140平方公里。
+cloud, ice, snow cover 云层；冰盖；积雪层
+The police covered the exits to the building. 警方用枪封锁了那栋大楼的出口。
+Don’t move--we’ve got you covered! 不许动！我们的枪口正对着你呢！
+to cover an old number 翻唱一首老歌
+$100 should cover your expenses. 100美元该足够支付你的费用了。
+Your parents will have to cover your tuition fees. 你的父母得支付你的学费。
+The show barely covered its costs. 这场演出勉强够本。
+The payments he gets barely cover his expenses. 他赚的钱几乎不够他花的。
+Are you fully covered for fire and theft? 你是否买了足够的火险和失窃险？
+Does this policy cover my husband to drive? 这份保险单是否保我丈夫的驾车险？
+This policy should cover you against accidental injury. 这份保险单保意外伤害险。
+accident cover 事故保险 
+fire, health, life, medical cover 火险；健康险；人寿保险；医疗险 
+cover against accidental damage 意外损害保险 
+comprehensive, full cover 综合保险；全险 
+additional cover 附加保险 
+insurance cover 保险范围 
+This company provides wider cover. 该公司提供的保险覆盖面更广。 
+Why would she cover for someone who was trying to kill her? 她为何要包庇那个试图要杀死她的人呢？
+a small book with a green cover 一本绿色封面的小册子 
+He always reads the paper from cover to cover. 他总是把报纸从头到尾全看一遍。
+back, front cover 封底；封面 
+book, magazine cover 图书封面；杂志封面 
+cover image, cover story, cover character 封面图片；封面故事；封面人物 
+
+
+covers | 盖子,封面,涵盖
+
+n. [C] 树，树木:
+tree |[tri:]
+fruit tree 果树 
+pine tree 松树 
+evergreen tree 常绿树 
+coniferous tree 针叶树 
+Christmas tree 圣诞树 
+tree root 树根 
+tree rings 树的年轮
+
+adj. 令人感到惊讶或赞叹的，相当于remarkable:
+adj. 极好的，精彩的；极令人高兴或愉快的:
+wonderful |['wʌndəfl]
+It’s wonderful what you can do when you have to. 在迫不得已时，人的潜能令人惊叹。
+the strange and wonderful world of traditional Chinese stories 传统中国故事的奇妙世界 
+wonderful marketing ideas 新奇的营销创意
+a wonderful surprise 一个惊喜 
+We had a wonderful time last night. 我们昨晚过得非常愉快。
+You’ve all been absolutely wonderful! 你们真是都太好了！
+It's wonderful to see you! 看到你真叫人高兴！
+The weather was absolutely wonderful. 天气非常好。
+
+n. [C] [正式]（工作上的）职位或职务，相当于post:
+n. 1 [C, usually sing.] position (to do sth)（某人所处的）情况，处境，情势或状况（尤指对人有左右或支配能力的情势，即人们能做什么或不能做什么，要在一定程度上取决于该情况）:
+2 [sing.]（做某事的）适当位置:
+n. [C] position (on sth)（针对某一主题的）态度，也可叫立场:
+n. [C] 速度比赛，各种竞赛或测试中（与其他人对比时所产生）的名次:
+vt. 把…置于某个位置上，相当于place:
+n. [C, U] 某事物的放置方式:
+n. [C, U] 某人的坐立方式，即姿势，姿态:
+n. [C] position (on sth)（针对某一主题的）观点:
+n. 1 [C] …所位于的地方，即位置:
+2 [U]（恰当或正确的）地方或位置:
+n. [C] 速度比赛，各种竞赛或测试中（与其他人对比时所产生）的名次:
+n. [C] 在一些团队性体育比赛中，可指某名队员所处的位置和其所拥有的职责，可以叫职责，位置或角色:
+n. [C, usually pl.] 战争中可指阵地:
+n. [C, U] 一个人与其他人（或一个组织与其他组织）相比较时所处的重要性水平，即地位，等级（主要指社会地位）:
+position |[pə'zɪʃn]
+to apply for the position of Sales Director 申请销售总监一职 
+full-time, part-time position 全职岗位；兼职岗位 
+senior position 高级职位 
+junior position 初级职务 
+official position 官职 
+skilled position 需要技能的职位 
+administrative, management position 行政职务；管理职务 
+staff position 员工职位 
+a faculty position at Iowa State University 在艾奥瓦州立大学的教职
+business, economic, financial, legal position 商业状况；经济状况；财务状况；法律地位 
+competitive position 竞争态势 
+strategic position 战略地位 
+bargaining, negotiating position 谈判中的地位 
+trading position 贸易形势 
+a difficult position 困境 
+embarrassing, awkward position 尴尬的处境 
+I am not in a position to comment. 我不便发表评论。
+the party’s position on education reforms 该党对教育改革的态度 
+She has made her position very clear. 她明确表示了自己的立场。
+official, political position 官方立场；政治立场
+By the ninth hour the car was running in eighth position. 比赛进行到第九个小时的时候该赛车跑在第八位。
+Position the cursor where you want the new margins to begin. 将光标放在你所要的新页边空白开端。
+Large television screens were positioned at either end of the stadium. 体育场的两端安装了大型电视屏幕。
+She quickly positioned herself behind the desk. 她迅速在桌子后面就位。
+The company is now well positioned to compete in foreign markets. 现在这家公司已准备好在国外市场竞争。
+The markers were not positioned centrally. 标记没有放在中心位置。
+Police marksmen were positioned on the roof. 警方的神枪手布置在屋顶上。
+Keep the box in an upright position. 把盒子竖着放。
+kneeling, sitting, standing position 跪姿；坐姿；站姿 
+sleeping, lying position 睡姿；卧姿 
+foetal position 胎位 
+Make sure that you are working in a comfortable position. 工作时一定要保持舒适的姿势。
+My arms were aching so I shifted (my) position slightly. 我胳膊疼了，所以稍微变了变姿势。
+My parents always took the position that early nights meant healthy children. 我的父母总是认为孩子早睡就会身体健康。
+ideological, philosophical, theoretical position 意识形态观点；哲学观点；理论观点
+Where would be the best position for the lights? 这些灯装在什么位置最好？
+geographical position 地理位置 
+military, strategic position 军事位置；战略位置 
+Hordes of journalists jostled for position outside the conference hall. 大批记者在会场外争抢位置。
+Arrows indicate the positions of the aircraft. 箭头表示飞机的位置。
+Fix the pieces in position before gluing them together. 先将各部分的位置摆好，再用胶水粘起来。
+Is everybody in position? 大家都就位了吗？
+Please get into position. 请各就各位。
+The guards took up their positions on either side of the door. 卫兵们在门两边站好。
+United’s win moved them up to third position. 联队的胜利使他们排名升至第三。
+By the ninth hour the car was running in eighth position. 比赛进行到第九个小时的时候该赛车跑在第八位。
+What position does he play? 他打哪个位置？
+They attacked the enemy positions at dawn. 黎明时分，他们向敌军阵地发起进攻。
+Wealth and position were not important to her. 财富与地位对她并不重要。
+social position 社会地位 
+a position of authority, a position of power, a position of influence 有权势的地位；有影响力的地位 
+her pre-eminent position among today’s writers 她在当代作家中的杰出地位 
+The firm gained a dominant position in the market. 公司获得了市场的主导地位。
+
+n. [C] 通常构成复合词，指用于某个特殊目的或事情的一片场地:
+n. [C] 码（长度单位，等于3英尺或0.9144米，缩写为yd）:
+n. [C] [美]（住宅旁或周围的）园圃，花园，果园，菜园等（常带有一片草坪），相当于英式英语的garden:
+n. [C] [英] 院子（建筑物外面的一片区域，常由硬质地面和一个围墙构成）:
+yard |[jɑːd]
+lumber yard（通常用lumberyard）（美）, timber yard（英）贮木场 
+freight, rail yard 货场；铁路调车场 
+shipbuilding yard 造船厂 
+repair yard 修理厂 
+a builder’s yard（英）建筑场地
+It’s 500 yards from here. 距这里五百码。
+back yard（通常用backyard）, front yard, side yard 后花园；前花园；侧花园 
+to water the yard 给园子浇水
+front yard 前院 
+back yard（通常用backyard）后院 
+rear yard（尤英）后院 
+farm yard（通常用farmyard）, school yard（尤美）农家场院；学校操场 
+prison yard（监狱里的）犯人放风场地 
+The yard was enclosed by a high wire fence. 院子四周围着高高的铁丝网。
+
+
+yards | 码,围场
+
+adv. 用于疑问句或nothing、nobody、something、anything等之后。1 除了已提到的事物之外还有…，即别的、其他的:
+2 不同的，另外的:
+else |[els]
+What else did he say? 他还说了些什么？
+I don’t want anything else, thanks. 我不要别的东西了，谢谢。
+Ask somebody else to help you. 另请个人来帮帮你吧。
+Haven’t you got anything else to wear? 你没有其他穿的了吗？
+What else could I do? 我还能怎么办呢？
+
+vt.＆vi. 数量变得更大；使…的数量变得更大，与contract相反:
+vt.＆vi. 1 尺寸变得更大；使…的尺寸变得更大，与contract相反:
+2 扩展（业务）；（业务）扩展（即开设更多的分公司、赚更多的钱等）:
+vi. 谈论更多；往自己正在说的内容里添加更多细节，如详述:
+vt.＆vi. 重要性变得更大；使…的重要性变得更大:
+expand |[ɪk'spænd]
+Student numbers are expanding rapidly. 学生人数在迅速增加。
+A child’s vocabulary expands through reading. 孩子的词汇量通过阅读得到扩大。
+Metals expand when they are heated. 金属受热会膨胀。
+to expand the role of family doctors 扩大家庭医生的作用 
+to expand the airport 扩建机场 
+The town has expanded into a city. 该镇已发展成为一个城市。
+to expand the business 扩展业务 
+an expanding economy 不断发展的经济 
+Internet companies expanding abroad 向海外扩展的互联网公司 
+Several brands have successfully expanded their market presence. 好几个品牌成功地扩大了市场份额。
+I needed to expand my possibilities of making a living. 我需要拓展我的谋生途径。
+I repeated the question and waited for her to expand. 我把问题重复了一遍，等着她详细回答。
+The new system expanded the role of family doctors. 新体制放大了家庭医生的作用。
+
+n. [U] 常置于形容词后，一片土地，尤指具有某种自然特征、适于某一目的或与某个人或某些人有关的一个地区:
+n. [U] 一种美国传统的南部与西部音乐，即乡村与西部音乐，相当于country and western:
+n. [sing.] the country 一国的全体人民，整体意义上的国民、全民。由country的“国家”之义衍生而来，本身并不强调任何特征或感情色彩:
+n. [sing.] the country 城镇以外的任何地区，包括土地、树木、农场等，即乡村、乡下:
+n. [C] 国家、国。是此义的基础用词，使用范围最广:
+country |['kʌntrɪ]['kʌntrɪ]
+a stretch of country 一片地区 
+desert, hill, mountain, open, wooded country 沙漠地带；丘陵地带；山区；空旷地带；树木繁茂的地区 
+farming, wine country 农业区；葡萄酒产区 
+hunting, walking（均尤英）country 狩猎区；徒步旅行区域 
+to explore Thomas Hardy country 踏访托马斯·哈代小说描写的地区
+pop, folk and country 流行、民间和乡村音乐 
+to play country music 演奏乡村音乐
+the support of the country 国民的支持 
+the country as a whole 全体国民
+country life 乡村生活 
+country air 乡村的空气 
+country road 乡间公路 
+country cottage 乡间小屋 
+country fair 乡村集市 
+country folk 乡民 
+to live in the country 住在乡下
+beautiful, great country 美丽的国家；伟大的国家 
+developed country 发达国家 
+home, native, own country 祖国 
+host country 东道国 
+neighbouring/neighboring country 邻国 
+sovereign country（尤美）主权国家 
+neutral country 中立国 
+Western country 西方国家 
+English-speaking country 讲英语的国家 
+member country 成员国 
+socialist country 社会主义国家 
+I love my country. 我爱我的祖国。
+The two countries signed a basic treaty of cooperation. 两国签署了一项基本的合作条约。
+Over 30 countries participated in the Games. 有30多个国家参加了这次运动会。
+
+prep.（职位）低于:
+adv. 处于一个相对低的职级，即下级:
+prep. below ground或below the ground 可表示在地表下:
+prep.（数量、比率等）少于；（标准、水平等）低于:
+adv.（温度）零度以下:
+prep. 在…下面；到…下面:
+adv. 在下面；到下面:
+prep. 在下文；到下文:
+adv. 在下文中:
+prep. 1（标准、水平等）低于:
+2（级别、地位、重要性）低于:
+adv. 处于一个相对低的级别，即下级:
+prep.（重要性）低于:
+below |[bɪ'ləʊ]
+A police sergeant is below an inspector. 巡佐的级别低于巡官。
+Such people often experience less stress than those in the ranks immediately below them. 这些人经受的压力通常比那些职位刚好低于他们的人要小。
+This ruling applies to the ranks of Inspector and below. 这项规定适用于巡官及以下人员。
+900 feet below ground 地表以下900英尺
+The temperatures remained below freezing all day. 气温一整天都保持在冰点以下。
+Night temperatures can drop below 15 degrees Celsius. 夜间温度可能会降到15摄氏度以下。
+The thermometer had dropped to a record 40 below (= -40 degrees). 温度计降到了创纪录的零下40度。
+temperatures at zero or below 零度或零度以下
+He dived below the surface of the water. 他潜入了水下。
+The sun had already sunk below the horizon. 太阳已沉下地平线。
+Please do not write below this line. 请不要写到这条线下面。
+Skirts will be worn below the knee. 穿裙子要过膝。
+an apartment directly below Tom’s 汤姆家正下方的公寓 
+They live on the floor below. 他们住在下一层楼。
+a view to the street below 楼下街景 
+I could still see the airport buildings far below. 我还能远远地看到下方的机场建筑。
+See below for references. 见本页末参考资料。
+We climbed down a rope-ladder to the boat below. 我们沿着绳梯爬到了下边的小船上。
+Please do not write below this line. 请不要写到这条线下面。
+Please write to me at the address below. 请按以下地址给我写信。
+See below (= at the bottom of the page) for references. 见本页末参考资料。
+Her work was well below average for the class. 她的功课远在班上的中等水平以下。
+
+vi. 涌上心头:
+vt.（尤指深情地）紧握某人的手或胳膊:
+vi. 指人群拥挤（或推搡）着移动:
+press sb (into sth/into doing sth) 付出极大的努力以劝说或强迫某人去做某事:
+vi. press for sth 可表示竭力劝说某人（使其给予你…或同意…）:
+vt. 用熨斗把衣服熨平或烫平:
+n. [C, usually sing.] 熨衣服:
+n. [C] [爱尔兰或苏格兰] 一种大型橱柜，常有一些架子，可以装衣服、书籍等:
+vt.（通过用力量或重量而）从水果或蔬菜中榨汁:
+n. [sing.]（争抢空间或争抢着运动的）一大群人或事物，相当于throng:
+vt. 坚决地表达或重复（观点、要求或事情）:
+n. [sing.] the press或the Press 可指为报刊杂志工作的记者和摄影师，也可叫新闻工作者，或新闻界:
+n. [sing.] 报刊和杂志，也可叫纸质媒体。在词义范围上隶属于media:
+n. [sing., U]（报刊所刊印的对某人或某事的）报道或评论，也可指这种报道或评论的数量:
+n. [C, usually sing.] 用手或所持有的工具对…进行按压的行为:
+press sth together 对…施加压力；或被施加压力。即挤，推等:
+vt. 1 press sth into/onto sth 将…压入、按入或塞进…:
+2 通过施加压力（如在…上放重物）而将…压平或压扁:
+n. [C, U] 印刷书籍、报刊等的机器，即印刷机；还可指印刷的过程:
+n. [C] 印刷和出版书籍的机构，即出版社，印刷所等:
+n. [C, U] 印刷的过程:
+vt. 用压力将某种材料压成…:
+vt.＆vi. 按压设备的部位（以使其运转）:
+n. [C] 尤用于构成复合词，指用于对某事物施加压力（以使其变得平坦或从中榨取液体）的一种设备，可以叫压平机，压榨机或榨汁机:
+press |[pres]
+A host of unwelcome thoughts were pressing in on him.（比喻用法）一大堆恼人的心事涌上他的心头。
+The photographers pressed around the film star. 摄影记者们在这位电影明星周围挤来挤去。
+The crowd pressed forward. 人群向前挤。
+vt. press sb (for sth) 
+The bank is pressing him for repayment of the loan. 银行正在催他偿还贷款。
+to press them to make a quick decision 催促他们尽快做出决定 
+Trade unions are pressing him to stand firm. 各工会正在极力劝说他坚持立场。
+I did not press him further on the issue. 我没有在这一问题上再逼他。
+The public are now pressing for changes in law. 公众正在竭力争取法律的修改。
+‘Are you sure?’ she pressed gently.“你能确定吗？”她温和地追问。
+his neatly pressed suit 他熨得笔挺的西装
+The shirt needs a press. 这件衬衫需要熨一熨。
+the press of bodies all moving the same way 拥向同一方向的人群
+I don’t want to press the point, but you do owe me $500. 我不想总提这一点，但你确实欠我500美元。
+He strongly pressed his point of view. 他竭力推销自己的观点。
+He is still pressing his claim for compensation. 她仍然坚持索赔。
+He was determined to press his case at the highest level. 他决心把事情闹到最高层。
+The press was/were not allowed to attend the trial. 该场庭审谢绝了新闻采访。
+press photographer 摄影记者 
+press box 记者席 
+press pass 记者通行证 
+press conference 记者招待会（或新闻发布会）
+He issued a press statement insisting on his innocence. 他向新闻界发表声明，坚称自己是清白的。
+The story has been reported in the press and on television. 该事件已在报刊和电视上报道了。
+Associated Press 美联社 
+press release 新闻稿（或通讯稿）
+financial press 金融报纸 
+free press 新闻自由 
+press office 新闻办公室 
+press secretary, press spokesman 新闻秘书；新闻发言人 
+press agency 通讯社
+The website has had a bad press recently. 这家网站最近受到新闻界的责难。
+I gave the bell another press. 我又按了一下铃。
+The engine starts at the press of the button. 按一下这个按钮，发动机就会启动。
+vt.＆vi. press (sth/sb/yourself) against sth 
+press sth to sth 
+He pressed his back against the door. 他用背部顶着门。
+His body was pressing against the wall. 他的身体紧贴着墙。
+She pressed her face against the window. 她把脸贴在窗户上。
+She pressed a handkerchief to her nose. 她用手帕捂住鼻子。
+She pressed her lips together. 她紧抿着双唇。
+Her lips softly pressed her baby’s cheek. 她的双唇柔和地贴在她孩子的脸颊上。
+She curled up, her knees pressed tightly to her chest. 她蜷缩起来，膝盖紧紧贴住胸部。
+Bella pressed her face into the pillow. 贝拉把脸埋进枕头里。
+He pressed the lid firmly shut. 他用力压盖子，把它合得紧紧的。
+She pressed on the doorbell. 她按了按门铃。
+He pressed a coin into her hand. 他把一枚硬币塞进她的手里。
+Press the soil flat with the back of a spade. 用铁锹背把土拍平。
+printing press 印刷机 
+to go to press 付印 
+Their new book is in press. 他们的新书正在印刷。
+a story that is hot off the press 刚刚见报的新闻报道 
+Stop the presses! Dan has had a haircut!（讽刺用法）特大新闻！丹理发了！
+Harvard University Press 哈佛大学出版社
+to go to press 付印 
+Their new book is in press. 他们的新书正在印刷。
+The car bodies are pressed out of sheets of metal. 汽车车身是用板金压制成的。
+to press a button 按下按钮 
+to press a switch 按下开关 
+to press any key 按任意键 
+She pressed down hard on the gas pedal. 她用力踩下油门踏板。
+a garlic press 压蒜机
+
+n. [C]（小且圆的）茶碟，茶托（上面用于放一个杯子）；也可指茶碟状物:
+saucer |['sɔ:sə]
+cups and saucers 茶杯和茶碟
+
+n. [U] 文学；文学作品:
+n. [U]（旨在销售产品或提出建议的）书面资料:
+n. [U] 某一学科的文献、资料、著作:
+literature |['lɪtərɪtʃə]
+Chinese literature 中国文学 
+popular literature 大众文学 
+classic works of literature 经典文学作品
+promotional, sales literature 促销资料；推销资料 
+literature about the new product 有关这款新产品的宣传资料 
+I picked up some literature about pensions. 我偶然得到一些关于退休金的资料。
+the literature on economic policy 关于经济政策的文献 
+historical, medical, scientific literature 历史文献；医学文献；科学文献 
+professional（尤美）, scholarly literature 专业文献；学术文献
+
+adv. 1（也可用非正式的meantime）在其他事情发生的期间，即同时，与此同时:
+2（也可用非正式的meantime）在两个时间（或事件）之间的一段时间内，即期间:
+n. 1 [sing.] [英] for the meanwhile持续一小段时间，即一会儿，暂时:
+2 [sing.] in the meanwhile在两个时间（或事件）之间，即在此期间或与此同时:
+adv. 用于对比一个情况的两个方面（尤其是完全对立的两个方面）:
+meanwhile |['mi:nwaɪl]
+Bob spent fifteen months alone on his yacht. Ann, meanwhile, took care of the children on her own. 鲍勃独自在他的游艇上待了十五个月。在这段时间，安一个人照顾孩子。
+The doctor will see you again next week. Meanwhile, you must rest as much as possible. 医生下周还会给你看病。在此期间，你一定要尽可能多休息。
+We need some new curtains, but these will do for the meanwhile. 我们需要一些新的窗帘，但这些暂时还可以用。
+I hope to go to medical school eventually. In the meanwhile, I am going to study chemistry. 我希望最终能上医学院。这期间我打算学化学。
+Stress can be extremely damaging to your health. Exercise, meanwhile, can reduce its effects. 压力会严重损害你的健康，锻炼则可以减少这些影响。
+He had always found his wife’s mother a bit annoying. The mother-daughter relationship, meanwhile, was close. 他总是觉得他的岳母有点烦人。另一方面，她们母女之间的关系很亲近。
+
+adj. 非常愚蠢或不合理的，荒缪的，荒唐的，相当于absurd或ludicrous。但在口语中ridiculous远比absurd常用:
+ridiculous |[rɪ'dɪkjələs]
+I look ridiculous in this hat. 我戴这顶帽子看上去很可笑。
+Don’t be ridiculous! You can’t pay £50 for a T-shirt! 别犯傻了！怎么能花50英镑买一件T恤衫！
+a sense of the ridiculous（尤英）荒唐感
+
+det., pron. 常用the least，（数额等）最少的:
+det., pron. 常用the least，（尺寸）最小的:
+det., pron. 常用the least，（程度）最轻的:
+adv. 程度最小地，如最少，最小，微不足道等:
+least |[li:st]
+the least experience 经验最少 
+She never had the least idea what to do about it. 这事怎么办，她一点主意都没有。
+It’s the least I can do to help. 这是我所能帮忙做的最起码的事。
+How others see me is the least of my worries. 别人怎么看我，我一点都不在乎。
+He always turns up just when you least expect him. 他总是在你最意料不到的时候出现。
+She chose the least expensive of the hotels. 她挑了一家最便宜的旅馆。

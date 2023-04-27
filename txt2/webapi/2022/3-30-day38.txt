@@ -1,0 +1,725 @@
+interpretation						理解，说明，口译
+guilt								有罪，内疚
+connectivity						连接
+behave							表现
+instruct							教导，吩咐
+infinite							无限的，极大的
+hazard							危险
+undervalue							对...估价太低，轻视
+specific							详细的，特有的
+specifics					详情
+appealing							有吸引力的，恳求的
+fitness							健康，适合
+physical fitness					身体健康
+conclusion							结尾，结论
+absent							缺席的，缺乏的
+antique							古董
+myth								神话故事，错误观念
+intervention						干涉
+trace								痕迹，微量，小路，查出
+protest							抗议，抱怨
+refuel							给...加燃料，加剧
+tackle							处理，阻截
+finance							资金，财政
+finances							财力
+fine								罚款，极好的
+indicate							表明，暗示
+expand							扩大，增加
+spontaneous						主动的，自然的，淳朴的
+offense							犯罪，冒犯，进攻
+abruptly							突然的，陡峭的
+recycle							回收利用
+rude								粗鲁的，猥亵的，简陋的
+\\\\\\\\
+
+n. [C, U] 一个人对戏剧角色等的演绎方式、表演方式:
+n. [C, U] 某种方式的解释或说明:
+n. [C, U] 某种方式的理解:
+n. [C, U] 一个人对乐曲的演绎方式、演奏方式:
+interpretation |[ɪnˌtɜ:prɪˈteɪʃn;美-ˌtɜ:rp-]
+a modern interpretation of ‘King Lear’《李尔王》的现代演绎 
+her full-bodied interpretation of the role of Micaela 她对米凯拉这个角色全身心的演绎 
+The film lends itself to a fairly straightforward interpretation. 该影片适合采用比较直白的表演方式。
+Her evidence suggests a different interpretation of the events. 她的证据显示这些事件可能有另外一种解释。
+It is not possible for everyone to put their own interpretation on the law. 不可能让每个人自行阐释法律。
+The opposition Conservative Party put a different interpretation on the figures. 反对党保守党对这些数字提出一番不同的解释。
+Analysis and interpretation is a very personal thing. 分析与说明是个很主观的事情。
+artistic interpretation 艺术的诠释 
+historical, textual, theological interpretation 历史角度的诠释；基于文本的解释；神学的解释 
+feminist historical interpretations of marriage customs 女性主义关于婚俗的历史解读 
+Biblical, scriptural（尤美）interpretation《圣经》解释 
+His writings reflect his conservative views on Biblical interpretation. 他的作品反映了他对《圣经》解读所持的保守观点。
+constitutional（尤美）, judicial, statutory interpretation 宪法解释；司法解释；法规解释 
+In any system of law, there is an inevitable element of judicial interpretation. 在任何法律体系中都不可避免地存在着司法解释。
+Scientists made an interpretation based on the data available. 科学家根据掌握的数据作出了解释。
+Most modern historians support this interpretation. 多数现代历史学家支持这种解释。
+She challenges many orthodox interpretations of religious texts. 她质疑宗教文本的许多正统解释。
+His work defies simplistic interpretation. 他的作品不能进行简单化的解释。
+It is possible to put an entirely different interpretation on her comments. 对她的那些评论作出完全不同的解释是可能的。
+Dreams are open to interpretation (= they can be explained in different ways). 梦可以作各种诠释。
+The wording of this section of the contract is open to interpretation. 合同中这一部分的措辞可以有不同的理解。
+The meaning of the incident is open to subjective interpretation. 这一事件的意义可能见仁见智。
+In practice, this law is often given a wide interpretation by the police. 在实际操作中，警察对这条法律的理解常常很宽泛。
+
+n. [U] ~ (about sth) 内疚、悔恨、负罪感:
+n. [U]（为做错的事或发生过的坏事所承担的）罪责、责任、罪过:
+n. [U] 犯罪、有罪、罪行:
+guilt |[gɪlt]
+She had feelings of guilt about leaving her children and going to work. 她因离开自己的孩子去工作而感到内疚。
+Many survivors were left with a sense of guilt. 许多幸存者都有内疚感。
+a guilt complex (= an exaggerated sense of guilt) 内疚情结 
+guilt feelings 负罪感 
+She was trying to lay a guilt trip on me. 她想方设法说些让我感到内疚的话。
+Her emotions had ranged from anger to guilt in the space of a few seconds. 几秒钟的时间里，她经历了从愤怒到内疚的情感变化。
+Some cancer patients experience strong feelings of guilt. 一些癌症病人懊悔不已。
+lingering guilt 挥之不去的负罪感 
+These actions are merely intended to assuage white liberal guilt. 这些举动只是为减轻白人自由主义的负罪感而已。
+They feel a sense of collective guilt for the Holocaust. 他们对纳粹大屠杀都有一种集体负罪感。
+survivor guilt 幸存者的负罪感 
+You needn't feel any guilt about me. 你用不着因为我而内疚。
+Talking to her helped to assuage my guilt. 和她交谈减轻了我的负罪感。
+He had no feelings of guilt over what he had done. 他对自己的所作所为毫不感到内疚。
+the burden of guilt that she carried with her 她所承受的良心谴责
+The investigation will try to find out where the guilt for the disaster really lies. 此调查将尽力查出灾难的真正责任所在。
+There is no doubt as to where the guilt lies. 罪责在哪一方面是毫无疑问的。
+His guilt was proved beyond all doubt by the prosecution. 他的罪行已被原告方证实确凿无疑。
+I took his silence as an admission of guilt. 我认为他沉默就是承认自己有错。
+The trial is concerned only with the determination of guilt according to criminal law. 依照刑法规定，审判仅涉及定罪。
+You weren't convinced of Mr Matthews' guilt. 你不相信马修斯先生有罪。
+Many of the accused would deny their guilt to the magistrates. 许多被告会在地方法官面前否认自己有罪。
+It might be difficult to prove his guilt. 要证明他的罪行可能很难。
+proof of guilt 罪证
+
+the state of being connected or interconnected:连接或互联的状态
+capacity for the interconnection of platforms, systems, and applications:平台、系统、应用互联的能力
+connectivity |ˌkɒnɛkˈtɪvɪti| Noun/:连通性,互联
+the authorities worked at restoring connectivity between Puerto Rico and the US mainland after Hurricane Hugo:当局在雨果飓风过后致力于恢复波多黎各与美国大陆之间的连通性
+this allows connectivity between Sun and Mac platforms:this允许Sun和Mac平台之间的连接
+
+vt.＆vi. behave (yourself) 表现得正确或有礼貌:
+vi. [术语] 以某种方式自然地移动:
+vi. [术语] 以某种方式自然地反应等:
+vi. 以一定的方式来做事，如行为，表现，相当于act:
+adj. -behaved 构成形容词，表现得…的:
+behave |[bɪ'heɪv]
+Will you kids just behave! 孩子们，规矩点儿！
+She doesn’t know how to behave in public. 她在公共场合举止无措。
+He behaved very badly towards their guests. 他对客人们很不礼貌。 
+a study of how metals behave under pressure 对于金属受压反应的研究
+The doctor behaved very unprofessionally. 那位医生的做法十分不专业。
+He behaved like a true gentleman. 他的行为像个真正的绅士。
+She behaved with great dignity. 她显得很尊贵。
+He behaved as if nothing had happened. 他显得像是什么都没发生过。
+They behave differently when you’re not around. 你不在时他们就是另一副脸孔。
+Humans and machines sometimes behave similarly. 人和机器有时行为相似。
+People behave according to their own understanding of situations. 人们根据他们自己对情况的理解行事。
+well-behaved children 表现好的孩子
+
+vt.＆vi. [正式] 告诉某人去做某事，尤指以一种正式或官方的方式来告诉，即指示，命令，吩咐，嘱咐:
+vt. [正式] 常用被动式，把某事告诉或通知给某人:
+vt. [正式] instruct sb (in sth) 教给某人一门科目，尤指传授一项实用技能:
+vt. [法律] 雇某人（尤指律师）代表你处理法律事宜，即委托:
+instruct |[ɪn'strʌkt]
+Doctors often instruct patients to exercise. 医生经常嘱咐病人要锻炼身体。
+He instructed to arrest the suspect. 他下令逮捕犯罪嫌疑人。
+You were explicitly instructed to wait here. 已明确告诉你就在此等候。
+I took the antibiotics as instructed. 我按照说明服用了抗生素。
+I have been instructed that they will not come. 我已获悉他们不会来了。
+to instruct her in nursing techniques 教给她护理技术
+
+adj. 1 极大的；无法衡量的:
+2 无限的、无穷无尽的:
+n. [sing.] the infinite可指无穷无尽的事物:
+n. [sing.] the infinite可指上帝:
+infinite |[ˈɪnfɪnət]
+an infinite variety of plants 数不清的植物种类 
+an almost infinite variety of shades 多得几乎数不清的色彩 
+an infinite variety of landscapes 变化万千的风景 
+With infinite care, John shifted position. 约翰小心翼翼地挪动了位置。
+a teacher with infinite patience 有无比耐心的教师 
+The company in its infinite wisdom decided to close the staff restaurant (= they thought it was a good thing to do, but nobody else agreed).（讽刺用法）公司以无比的智慧决定关掉职工食堂。
+an infinite universe 无垠的宇宙 
+an infinite number of atoms 无穷多的原子 
+Obviously, no company has infinite resources. 显然，没有哪个公司的资源是无限的。
+
+~ (of sth/of doing sth) 危险的事物、造成危害的事物:
+vt. 向某人给出一个你知道有可能是错误的建议，即斗胆提出建议、做出无把握的猜测:
+hazard |[ˈhæzəd;美-ərd]
+a serious fire hazard 严重的火灾隐患 
+safety hazard 安全隐患 
+hazard lights (= flashing lights on a car that warn other drivers of possible danger)（汽车上的）危险警示灯 
+Holes in the pavement are a hazard for blind people. 人行道上的坑对盲人来说有危险。Stairs are a hazard for young children. 楼梯对小孩子来说有危险。
+Everybody is aware of the hazards of smoking. 大家都明白吸烟的危害。
+A new report suggests that chewing-gum may be a health hazard. 一份新报告指出，口香糖可能对健康有害。
+Oil leaking from a barge in the Mississippi River poses a hazard to the drinking water of New Orleans. 密西西比河上驳船漏油事件危及新奥尔良市的饮用水。
+The burning of industrial waste is a major hazard to human health. 焚烧工业废物对人类健康是一大危害。
+industrial hazards such as excessive noise and pollution 诸如过量噪声和污染等工业危害 
+Production of these chemicals poses serious environmental hazards. 生产这些化学品会严重危害环境。
+Loneliness is one of the occupational hazards of being a writer. 孤独是作家所面临的一大职业危险。
+The worst hazard we faced was having our money stolen. 我们遇到的最糟糕的事就是钱被偷了。
+Go in September if you want to avoid the hazard of extreme heat. 如果想避开高温酷暑，那就九月份去。
+Companies should have systems for dealing with work hazards. 公司应该有职业风险应对系统。
+exposure to hazards 曝露于危险因素
+Would you like to hazard a guess? 你想猜猜看吗？
+'Fifteen or sixteen?' He hazarded. “15或16？” 他试着猜道。
+I would hazard a guess that they'll do fairly well in the next election. 我斗胆猜测，他们在下一轮竞选中会有不错的表现。
+‘Is it Tom you're going with? ’ she hazarded. “你是要和汤姆一起去吗？”她冒失地问。
+
+rate (something) insufficiently highly, fail to appreciate:rate(something)不够高，无法欣赏
+underestimate the financial value of (something):低估（某物）的财务价值
+a price below the real value:低于实际价值的价格
+undervalue |ˌʌndəˈvaljuː| Noun/Verb/:低估,价值低估
+through overfamiliarity, it is easy to undervalue this concerto:过分熟悉，很容易低估这首协奏曲
+the company's assets were undervalued in its balance sheet:公司资产在其资产负债表中被低估
+his truck was sold at an undervalue:他的卡车被低估了
+
+adj. [正式] specific to sth 只存在于一个地方，或只限定在同一事物上的，即特有的，独特的，相当于peculiar:
+adj. 1 详细且准确的，可称为明确具体的，相当于precise:
+2 常用于名词前，只与一个特定的事物有关的，即特定的，相当于particular:
+specific |[spə'sɪfɪk]
+a belief that is specific to this part of Africa 非洲这一地区特有的一种观念 
+These heart issues are specific to women. 这些心脏问题是妇女独有的。
+specific instructions 明确的指示 
+‘I’d like your help tomorrow.’ ‘Can you be more specific?’ “我想让你明天来帮帮我。”“你能不能说得具体些？”
+She was very specific about the type she wanted. 她对自己想要的类型十分明确。
+children’s television programmes aimed at a specific age group 针对特定年龄段的少儿电视节目 
+The money was collected for a specific purpose. 这笔钱是为一个特定用途而收取的。
+children with specific learning difficulties (= in one area only) 某一方面有学习困难的儿童 
+These values are culturally specific, not naturally given. 这些价值观具有文化特征，并非天然形成。
+
+The specifics of a subject are the details of it that need to be considered. 细节
+specifics |英/美 [spə'sɪfɪks]| n. 细节；特性（specific的复数）；详情/
+Things improved when we got down to the specifics.情况在我们开始认真讨论细节时有了改善。
+
+
+adj. 有吸引力的、令人感兴趣的:
+adj.（表情或语气）恳求的、可怜的、希望获得同情的:
+appealing |[əˈpi:lɪŋ]
+These toys are not immediately appealing to children. 这些玩具不会让孩子们一眼就看上。
+Spending the holidays in Britain wasn't a prospect that I found particularly appealing. 在英国度假对我并不特别有吸引力。
+That's a very appealing idea. 那是个十分吸引人的想法。
+The large salary made their offer even more appealing to him. 高薪使他们的录用通知书对他更具吸引力。
+I find his manner very appealing. 我发现他的举止非常有吸引力。
+There was a sense of humour to what he did that I found very appealing. 他举手投足间流露出一种幽默感，我觉得很有魅力。           
+‘Would you really help? ’ he said with an appealing look. “你真的愿意帮忙吗？”他满脸恳求地说。
+She gave him a soft appealing look that would have melted solid ice. 她恳求地看了他一眼，温柔的眼神足以融化坚冰。
+
+n. [U] ~ for sth/to do sth 适合（某事物或做某事）、称职:
+n. [U]（身体的）健康且强壮，即健壮:
+fitness |[ˈfɪtnəs]
+He convinced us of his fitness for the task. 他使我们相信他适合做这项工作。
+There were doubts about her fitness to hold office. 她是否称职还不确定。
+a magazine on health and fitness 卫生与健康杂志 
+a high level of physical fitness 高水平体质 
+You need a good level of physical fitness for this sport. 健康状况良好才能进行这种运动。
+full, peak fitness身体很棒;最佳状态 
+low fitness 身体不适 
+physical fitness 身体健康 
+cardiorespiratory，cardiovascular fitness 心肺适能；心血管健康 
+mental fitness 心理健康 
+match fitness（英）比赛状态 
+Tomkins is back to match-and is expected to play in the final. 汤姆金斯恢复了比赛状态，有望参加决赛。
+He has attained peak fitness this season. 这个赛季他的体能达到了顶峰。
+Regular exercise helps to maintain physical fitness. 经常运动有助于保持身体健康。
+A special trainer has been brought in to work on her fitness. 特别聘任了一位教练负责改善她的体能。
+The coach has given him a week to prove his fitness. 教练给他一周的时间证明自己身体状态良好。
+First, determine your present fitness level.首先、确定你目前的身体状况。
+fitness training 健身训练 
+fitness plan, fitness programme/program, fitness regime, fitness regimen（美）, fitness routine 健身计划；健身方案；有规则的健身活动；日常的健身运动 
+fitness class 健身训练班 
+fitness equipment 健身器材 
+fitness video 健身录像 
+fitness assessment, fitness check（英）, fitness test 健康状况评估；体能测定 
+fitness goal 健身目标 
+fitness centre/center, fitness club, fitness facility 健身中心；健身俱乐部；健身设施 
+fitness buff, fitness enthusiast, fitness fanatic, fitness freak 健身达人；健身爱好者；健身狂 
+fitness consultant, fitness expert, fitness guru 健身顾问；健身专家；健身权威人士 
+fitness coach, fitness instructor, fitness trainer 健身教练；健身教员；健身训练员 
+fitness industry 健身行业 
+Skiing offers many fitness benefits. 滑雪对健康的好处很多。
+Walking is good for health and fitness. 走路有利健康。
+
+n. [C]（对一种情况中所有相关信息进行思考后得出的）结论:
+n. [C, usually sing.] 某事物（如讲话或一篇文字）的结尾，结束:
+n. [U] 正式（或官方）协议的最终达成、签订、缔结等。相当于completion:
+conclusion |[kən'klu:ӡn]
+to reach a conclusion, to draw a conclusion 得出结论 
+Don’t go jumping to conclusions before you know the facts. 了解事实之前，不要匆匆下结论。
+He bases his conclusions on very limited research. 他的结论建立在十分有限的研究基础上。
+the conclusion of the book 这部书的结尾 
+the story’s ultimate conclusion 故事的最终结局 
+In conclusion, I would like to thank you all. 最后，我想对你们所有人表示感谢。
+This performance was a fitting conclusion to his career. 本次演出为他的职业生涯画上了圆满的句号。
+the successful conclusion of a trade treaty 贸易条约的成功签署
+
+adj. absent (from sth) 由于疾病等而不在某地的，即缺席的:
+vt. [正式] absent yourself (from sth) 缺席或不参加（本应该到场的一个场合）:
+adj.（对自己周围所发生的事）心不在焉的（即对这些事没有真正表现出观看或思考的）:
+adj. absent (from sth) 不存在于某事物中:
+absent |['æbsənt,æb'sent]['æbsənt]
+He was absent from work for two weeks. 他两个星期没有上班了。
+to be absent from the meeting 没有到会 
+to be absent without leave 未经许可而缺席 
+He had absented himself from the office for the day. 这一天他没有去办公室上班。
+an absent expression 心不在焉的神情
+Love was totally absent from his childhood. 他童年时根本没有得到过爱。
+He now played with a passion that had been strangely absent from his previous performance. 他现在满怀激情地演出，奇怪的是，以前他演出时未见他有此激情。
+
+n. [C] 古董，文物:
+adj. 常作前置定语，（家具、首饰、珠宝等）古老且常贵重的:
+antique |[æn'ti:k]
+fine antique 精美的古董 
+precious antique 珍贵的古董 
+genuine antique 古董真品 
+to collect antique 收集文物 
+antique dealer 古董商 
+antique shop, antiques store（美）古玩店 
+an antique bowl 一只古董碗
+
+n. [C, U] 很多人相信，但实际并不存在（或错误）的事，如错误的看法（或认识），编造的话:
+Women have peddled the myth that all decent men are either married or gay. 女人们中间流传有这样的荒诞说法:
+n. [C, U] 古代的神话故事:
+myth |[mɪθ]
+It is time to dispel the myth of a classless society (= to show that it does not exist). 该消除那种无阶级社会的神话了。
+Contrary to popular myth, women are not worse drivers than men. 都说女人开车比男人差，其实不然。
+Contrary to the popular myth, women are not reckless spendthrifts. 和人们的普遍观念恰恰相反，女性并不是胡乱挥霍者。
+There is a great myth that people who wear glasses are more intelligent. 有种荒诞无稽的看法，认为戴眼镜的人更聪明。
+It's a total myth that this causes blindness. 说这会导致失明纯属无稽之谈。
+People's faith in the Emperor was based on the myth that he was infallible. 人们效忠君主是基于对皇帝永不犯错的迷信。
+We are trying to lay to rest the myths surrounding mental illness. 我们试图使围绕精神疾病产生的种种错误观念寿终正寝。 
+A myth has grown up that Fleming didn't realize the potential of penicillin. 形成了一种错误的说法，认为弗莱明没意识到青霉素潜在的价值。
+The myth persists that men are more intelligent than women. 男人比女人聪明的荒诞说法仍然存在。
+a popular myth about twins 流传广泛的关于双胞胎的无稽之谈 
+an attempt to perpetuate the myth of racial superiority 使种族优越论的鬼话流传下去的企图
+ancient Greek myths 古希腊神话 
+religious myth 宗教神话 
+Biblical myth《圣经》神话 
+Christian, Greek, Norse, Roman myth 基督教神话；希腊神话；古斯堪的纳维亚神话；罗马神话 
+a creation myth (= that explains how the world began) 创世的神话 
+the heroes of myth and legend 神话和传说中的英雄 
+the myth about the golden apple 有关金苹果的神话 
+The battle has become part of national myth. 这场战役已成为民族神话的一部分。
+historical, political myth 历史传说；政治神话 
+The propaganda of both sides relies heavily on historical myth. 双方的宣传都主要依据历史传说。
+romantic myth 浪漫传奇 
+an outlaw who has now assumed the status of heroic myth 现在已俨然成为英雄传奇人物的逃犯 
+Propaganda has turned the former president into a heroic myth. 前总统已被宣传为一个英雄传奇。
+
+n. [U, C] ~ (in sth) 干涉、干预:
+intervention |[ˌɪntəˈvenʃn;美-tərˈv-]
+the role of the United States and its intervention in the internal affairs of many countries 美国扮演的角色以及其对多国内政的干涉 
+direct intervention to stop abuses of the environment 为阻止对环境的破坏而进行的直接干预 
+A full-scale riot was prevented by the timely intervention of the police. 大规模暴乱因为警方的及时介入而得到制止上。
+the Emperor's personal intervention 皇帝的亲自介入 
+He has made repeated calls for government intervention to save the steel industry. 他多次呼吁政府介入干预以挽救钢铁工业。
+external, foreign, outside intervention 外部干预；外国干涉；外来干预 
+armed, military intervention 武装干涉;军事干预 
+We would resist any armed intervention from outside in our country's affairs. 我们将抵制任何来自外部的对我国事务的武装干涉。
+This is not a humanitarian intervention, it is a brutal invasion. 这不是人道主义干预，而是野蛮的侵略。
+police intervention 警方的干预 
+judicial, legal intervention 司法介入；法律干预 
+clinical, medical, surgical intervention 临床介入；医疗介入；手术治疗 
+behavioural/behavioral, psychological intervention 行为干预；心理干预 
+educational intervention 教育干预 
+economic, political, social intervention 经济干预；政治干涉；社会干预 
+divine, supernatural intervention 神灵的介入；超自然力的介入 
+The victory was seen as the direct result of divine intervention. 这场胜利被视为神灵干预的直接结果。
+human, manual intervention 人为干预；手工介入 
+The automatic process can be completed with very little manual intervention. 这一自动化过程只需极少的手工操作即可完成。
+to make a forceful intervention in a dispute 对争端进行强有力的干预 
+The public demanded active intervention. 公众要求积极干预。
+We will always resist foreign intervention in our country. 我们会永远抵制外国对我国的干涉。
+The threat does not justify government intervention. 这一威胁不是政府进行干预的正当理由。
+armed intervention against the rebels 针对叛乱分子的武装干预 
+intervention by a senior judge 高级法官的调停 
+He was furious at this intervention from the press. 他对来自新闻界的这次干预感到怒不可遏。
+government's intervention in the dispute 政府对这起纠纷的干预 
+state intervention on behalf of the industry 政府代表该产业实施的干预 
+It was necessary to exercise her ministerial powers of intervention in order to protect the public.（powers of intervention尤为英式用法）为了保护公众，她有必要动用作为部长的干预权。
+He claimed that the state has a special right of intervention in company affairs.（right of intervention尤为英式用法）他宣称国家有干预公司事务的特权。
+
+n. 1 [C, U] 表明某人或某事物过去曾存在或出现的一个标记、物体或迹象，如遗迹、痕迹、踪迹:
+2 [sing.] sink without (a) ~（某人或某事物）迅速销声匿迹、迅速沉寂:
+vt.（用手指或脚尖等在表面上）绘出、勾勒出某事物的外形或轮廓:
+n. [C] ~ of sth 某事物的极少量:
+vt. ~ sb/sth (to sth) 通过仔细寻找而找到某人或某事物:
+vt. ~ sth (back) (to sth) 寻找某事物的起源或原因:
+n. [C] [术语] 机器获取信息后，在纸上或屏幕上显示的一条线或一个图形:
+vt. 描述（事物的过程或发展）:
+n. [C, usually pl.] 用于把马和其所拉的车拴在一起的两根皮质长绳子之一:
+vt. ~ sb/sth (to sth) 通过仔细寻找而找到某人或某事物:
+vt. ~ sth (back) (to sth) 寻找某事物的起源或原因:
+vt. ~ sth (out) 在一个表面上画线:
+vt.（用手指或脚尖等在表面上）绘出、勾勒出某事物的外形或轮廓:
+vt.（把一张透明的纸覆盖在地图或图画上，然后）在透明的纸上复制或描摹地图或图画:
+trace |[treɪs][treɪs]
+archaeological, historical trace 考古遗迹；历史遗迹 
+indelible, permanent trace 抹不掉的印记；永久的印记 
+memory trace（术语）记忆痕迹 
+It's exciting to discover traces of earlier civilizations. 发现以前文明的遗迹，真令人兴奋。
+The local church has traces of fifteenth-century frescoes. 当地教堂仍留有 15 世纪壁画的遗迹。
+Little trace is left of how Stone Age people lived. 石器时代人类的生活状况几乎无迹可寻。
+Traces still remain of the old brewery. 老酒厂仍然有迹可寻。
+There's been no trace of my aunt and uncle. 没有我姑姑、姑夫的踪迹。
+Police searched the area but found no trace of the escaped prisoners. 警方搜索了那一地区，但未发现越狱逃犯的任何踪迹。
+e burglar had left several traces of his presence. 窃贼在现场留下了几处痕迹。
+The search party had found no trace of the missing climbers. 搜救队没有找到失踪登山者的踪迹。
+Remove all traces of rust with a small wire brush. 用小钢丝刷擦去所有锈迹。
+Years of living in England had eliminated all trace of her American accent. 她因多年居住在英国，美国口音已荡然无存。
+‘No thanks,’ she said, with a trace of irritation in her voice. “不，谢了。”她说，声音里带着一丝恼怒。
+without trace（英）, without a trace 无影无踪 
+The plane was lost without a trace over the Atlantic. 飞机在飞越大西洋上空时消失得无影无踪。
+The ship had vanished without (a) trace. 那艘船消失得无影无踪。
+The ship seems to have sunk without trace. 那艘船似乎已经沉没，无迹可寻。
+The Social Democratic Party has sunk without trace at these elections. 社会民主党在这些选举中已销声匿迹。
+Pop groups are like Olympic swimmers — they hit gold once, then they sink without trace. 流行乐队就像奥林匹克游泳选手——拿到一次金牌后就无声无息了。
+He traced the route on the map. 他在地图上勾画出了路线。
+I traced the course of the river on the map. 我在地图上勾勒出这条河的流向。
+She lightly traced the outline of his face with her finger. 她轻轻地用手指去感觉他脸的轮廓。
+A tear traced a path down her cheek. 一滴眼泪沿着她的面颊流了下来。          
+trace amount 微量 
+trace element, trace gas, trace metal, trace mineral 微量元素；微量气体；微量金属；微量矿物 
+Seaweed is rich in vitamins and trace elements. 海藻含有丰富的维生素和微量元素。
+The post-mortem revealed traces of poison in his stomach. 验尸发现他胃中有微量毒物。
+The water was found to contain traces of cocaine. 发现水里含有微量可卡因。
+Wash them in cold water to remove all traces of sand. 用冷水冲洗它们以清除所有的沙子。
+He took great pains to write on his subject without a trace of sensationalism. 他尽力不带一丝哗众取宠的色彩来写作他的题材。
+There was not the faintest trace of irony in her voice. 她的声音里没有一丁点儿的讽刺意味。
+She spoke without a trace of bitterness. 她说话时一点儿也不伤感。
+a trace of amusement, a trace of anxiety, a trace of a smile 有点儿觉得好笑；有一丝忧虑；有一缕微笑
+We finally traced him to an address in Chicago. 我们终于追查到他在芝加哥的一个地址。
+Police are anxious to trace two men seen leaving the house just before 8am. 早上将近8点时有人看到两名男子离开那所房子，警方急于找到他们。
+Police have been unable to trace her movements during her final days. 警方无法追踪到她最后几天的行程。
+The stolen paintings have been successfully traced to a London warehouse. 失窃的画已成功地在伦敦的一个仓库中找到。
+We are currently trying to trace the whereabouts of certain sums of money. 我们目前正试图找到某些钱款的下落。
+She could trace her family tree back to the 16th century. 她能把本族家谱追溯到16世纪。
+The exhibition traces the history of graphic design in America from the 19th century to the present. 展览追溯了美国从19世纪至今的平面设计历史。
+Words have over the centuries acquired meanings not easily traced in dictionaries. 经过了数百年，词语的有些含义在词典里已难以查到来源。
+The origins of the custom are difficult to trace. 很难追溯这种风俗的起源。
+I first went there to trace my roots, visiting my mum's home island of Jamaica. 我最初到那里是为了寻根，探访我妈妈的故乡牙买加岛。
+The leak was eventually traced to a broken seal. 最后查出泄漏是由于密封处破裂所致。
+The police traced the call (= used special electronic equipment to find out who made the telephone call) to her ex-husband's number. 警方用追踪装置查出是她前夫的电话号码打出的电话。
+The trace showed a normal heart rhythm. 描记图表明心率正常。
+Her book traces the town's history from Saxon times to the present day. 她的书描述的是这个市镇从撒克逊时代到现在的历史。
+Police are anxious to trace two men seen leaving the house just before 8am. 早上将近8点时有人看到两名男子离开那所房子，警方急于找到他们。
+Police have been unable to trace her movements during her final days. 警方无法追踪到她最后几天的行程。
+The police traced the call (= used special electronic equipment to find out who made the telephone call) to her ex-husband's number. 警方用追踪装置查出是她前夫的电话号码打出的电话。
+She traced a line in the sand. 她在沙地上画了一条线。
+He traced the route on the map. 他在地图上勾画出了路线。
+I traced the course of the river on the map. 我在地图上勾勒出这条河的流向。
+She lightly traced the outline of his face with her finger. 她轻轻地用手指去感觉他脸的轮廓。
+A tear traced a path down her cheek. 一滴眼泪沿着她的面颊流了下来。
+She learned to draw by tracing pictures out of old storybooks. 她通过描摹旧故事书上的图画学会了画画。
+
+n. [sing.] under ~ 表达了反对之后不情愿地，如无奈地、不服气地:
+n. [C] 强烈的申明、声明或断言:
+vt.（尤指被指控时，或人们不相信你时）坚决地表示某事是真实的，也可称为申辩:
+vt.（尤指被指控时，或人们不相信你时）坚决地表示某事是真实的，也可称为申辩:
+n. [U, C] ~ (against sth) 抗议、抗议书、抗议行动；强烈的反对:
+vt.&vi. ~ (about/against/at sth) 抗议、反对，尤指公开地抗议或反对:
+protest |[ˈprəʊtest;美ˈproʊ-]
+She wrote a letter of apology but only under protest. 她无奈之下写了一封致歉信。
+The strikers returned to work, but under protest. 罢工工人不情愿地返回了工作岗位。
+That was how she usually dealt with their protests that she was spoiling her grandchildren. 当他们坚持说她是在溺爱孙儿，她通常会作出那样的回应。
+‘That's not what you said earlier!’ Jane protested. “你当初不是这么说的！”简争辩说。
+When we tried to protest that Mo was beaten up they didn't believe us. 我们试图申明莫遭到了毒打，他们却不相信我们。
+'I never said any of that to her,' he protested. “我从来没有对她那么说过，”他申辩道。
+She has always protested her innocence. 她一直坚持说自己是无辜的。
+He protested that the journey was too far by car. 他坚持说路途太远，不宜开汽车去。
+‘That's not what you said earlier!’ Jane protested. “你当初不是这么说的！”简争辩说。
+When we tried to protest that Mo was beaten up they didn't believe us. 我们试图申明莫遭到了毒打，他们却不相信我们。
+'I never said any of that to her,' he protested. “我从来没有对她那么说过，”他申辩道。           
+peaceful protest 和平抗议 
+sit-down protest（英）静坐抗议 
+mass protest 群众性抗议 
+anti-government, anti-war, political protest 反政府抗议；反战抗议；政治抗议 
+rooftop（英）, street protest 在屋顶进行的抗议；街头抗议 
+a rooftop protest by prison inmates 监狱犯人在屋顶上进行的抗议 
+street protests by residents 居民发起的抗议 
+The new tax sparked a wave of public protest. 新税引发了公众的抗议浪潮。
+The announcement raised a storm of protest. 这个声明引起了一场抗议风潮。
+The Samoan team lodged a formal protest against the decision. 萨摩亚队针对这项决定提出了正式抗议。
+The workers staged a protest against the proposed changes in their contracts. 工人们进行抗议，反对拟议中的对他们合同的修改。
+The government has made an official protest. 政府已经提出了正式抗议。
+protest group, protest movement 抗议组织；抗议运动 
+protest demonstration, protest march, protest meeting, protest rally 抗议示威；抗议游行；抗议会议；抗议集会 
+protest strike（尤英）罢工抗议 
+protest petition（尤英）抗议请愿 
+protest vote 抗议投票 
+protest song 抗议歌曲 
+Prisoners shouted and hurled slates in protest. 囚犯们大声呼喊并投掷石块表示抗议。
+The crowd dispersed without protest. 人群没有抗议就散去了。
+She accepted the charge without protest. 她一声未吭地接受了指控。
+a protest about the new bypass 就新的旁道提出的抗议 
+a student protest over tuition fees 学生就学费一事提出的抗议 
+The announcement brought cries of protest from the crowd. 公告在人群中引发了抗议的呼声。
+a letter of protest 抗议信 
+in protest at（尤英）, in protest of（尤美） 抗议… 
+The party boycotted the election in protest at alleged vote rigging. 该党对选举进行了抵制，以抗议所谓的投票舞弊。
+The unions called a two-hour strike in protest at the railway authority's announcement. 各工会号召罢工两小时，以对铁路当局所发通告表示抗议。
+The director resigned in protest at the decision. 主任辞职以示抗议这项决定。
+Winters quit the company board in protest of her plans. 温特斯退出了公司董事会，以表示对她的计划的抗议。
+The building work will go ahead, despite protests from local residents. 尽管当地居民反对，建筑工程将照样进行。
+The riot began as a peaceful protest. 暴乱是从一场和平抗议开始的。
+Students took to the streets to protest against the decision. 学生们走上街头，抗议这项决定。
+Groups of women took to the streets to protest against the arrests. 成群结队的妇女上街抗议逮捕行动。
+The students were protesting at overcrowding in the university hostels. 学生们在抗议大学宿舍过于拥挤。
+The victim's widow protested at the leniency of the sentence. 受害人的遗孀抗议判决太轻。
+There's no use protesting, I won't change my mind. 抗议没有用，我决不改变主意。
+They fully intend to protest the decision.（美）他们决意反对这项决定。
+the right to protest peacefully 和平抗议的权利 
+When he tried to protest, she insisted. 他试图抗议，但她却坚持这样做。
+Crowds gathered to protest about the police violence. 人群聚集起来抗议警察的暴力。
+Many people protested over the tax increase. 很多人对加税提出抗议。
+They were protesting against the proposed agreement. 他们举行抗议反对提出的协议。
+Many people have protested at the cuts in state benefits. 很多人都对削减国家福利提出了抗议。
+We have protested to the government. 我们已经向政府提出了抗议。
+They were exercising their lawful right to protest. 他们行使自己合法抗议的权利。
+
+supply (a vehicle) with more fuel:supply（车辆）有更多燃料
+(of a vehicle) be supplied with more fuel:（车辆的）获得更多燃料
+refuel |ˌriːˈfjuːəl| Verb/:加油,燃料
+the authorities agreed to refuel the plane:当局同意为飞机加油
+the chopper went to refuel:直升机去加油
+
+vt.（果断或高效地）应付，处理，解决（难题、困难局面或任务）:
+vt. 对施用暴力或威胁手段的人进行制止或反击，如抓获、给以颜色:
+n. [U]（吊拉物体用的）索具，滑轮组:
+vt. ~ sb (about sth)（坦率地）向某人交涉（困难情况）:
+vt. ~ sb (about sth)（坦率地）向某人提起（问题）:
+n. [C] [美]（美式足球中的）负责以擒抱方式进行的阻截的队员:
+vt.&vi.（在足球、曲棍球等运动中）抢球:
+vt.&vi.（在橄榄球或美式足球中）以擒抱摔倒的方式来阻截对方前进:
+n. 1 [C]（足球等运动中的）抢球:
+2 [C]（橄榄球或美式足球中的）以擒抱方式进行的阻截:
+n. [U]（做某项体育运动或活动所用的）用具，尤指渔具:
+tackle |[ˈtækl]
+The government is determined to tackle inflation. 政府决心解决通货膨胀问题。
+The first reason to tackle these problems is to save children's lives. 果断处理这些问题的首要原因是为了挽救孩子们的生命。
+The problem is being tackled with a range of measures. 这个问题正通过一系列措施予以处理。
+The drugs problem has to be tackled head-on. 对于毒品问题必须迎头痛击。
+We are failing to tackle the key issues. 我们在处理关键问题方面受到挫折。
+Firemen later tackled the blaze. 消防队员们后来扑灭了这场大火。
+He tackled a masked intruder at his home. 他在家里抓住了一个私自闯入的蒙面人。
+He claims Pasolini overtook and tackled him, pushing him into the dirt. 他声称帕索利尼追上去打他，把他推倒在烂泥里。
+I finally hoisted him up with a block and tackle. 我最终用滑轮组把他拉了上去。
+I tackled him about the money he owed me. 我就他欠我钱的事与他进行了交涉。
+I tackled him about how anyone could live amidst so much poverty. 我坦率地问他，人在如此贫穷的环境中如何还能生存。
+defensive, offensive tackle 防守截锋；进攻截锋 
+left, right tackle 左截锋；右截锋 
+nose tackle 正截锋
+He was tackled just outside the penalty area. 他就在罚球区外让对方把球抢断。
+Foley tackled the quarterback. 福利成功拦截了四分卫。
+He can run fast and tackle hard. 他跑得快，阻截凶猛。
+bad, crunching, late tackle（均英）恶意铲球；粗暴铲球；铲球过迟 
+cover, scything, sliding tackle（均英）补位铲球；抡脚铲球；倒地铲球 
+a crunching tackle from her opponent 对手对她的粗暴铲断 
+He was booked for a tackle from behind on Morris. 他因从背后铲断莫里斯而被记名警告。
+She lost the ball in a tackle. 她在抢断中丢了球。
+high tackle（橄榄球比赛中的）过高扑搂 
+Their captain was sent off for a high tackle on Cooper. 他们的队长因过高扑搂库珀被罚下场。
+flying tackle 鱼跃扑接 
+A security guard brought him down with a flying tackle. 一名保安飞身把他扑倒。
+football（美）, rugby tackle 美式橄榄球的扑搂；英式橄榄球扑搂 
+He bruised his arm making a tackle against the Browns. 他在对布朗队的比赛中扑搂时擦伤了手臂。
+fishing tackle 渔具
+
+n. [U] finance (for sth) 用于运营企业或项目、开展活动的资金（美式英语通常用financing）:
+vt. 为一个项目提供资金，与fund近义:
+n. [U]（尤指政府或商业组织）管理资金的活动，即金融、财务、财政:
+n. [C] finances 复数表示对于一个人、组织或国家来说可用的资金；还可指管理上述资金的方式。即财务状况:
+finance |['faɪnæns]
+cheap finance 低息贷款 
+private, public finance 私人资金；公共资金 
+equity finance 股本融资 
+housing, mortgage finance 住房贷款；按揭贷款 
+the finance for education available to local government 当地政府可用的教育资金 
+to provide finance for the project 为该项目提供资金 
+a source of finance 资金来源 
+privately, publicly finance 私人出资；公共出资 
+the money needed to finance the redevelopment 再开发所需要的资金 
+The project was financed jointly by the Chinese and British governments. 该项目由中英两国政府联合出资。
+He took a job to finance his stay in Germany. 他找了一份工作以赚钱支付在德国的费用。
+a diploma in banking and finance 银行与金融学文凭 
+international finance 国际金融 
+finance company 金融公司 
+finance industry 金融业 
+company finance 公司财务 
+personal finance 个人财务 
+finance director 财务总监 
+government, public, state finance 政府财政；公共财政；国家财政 
+finance officer 财政官员 
+company finances 公司财力 
+government, public, state finances 政府财力；公共财力；国家财力 
+family, personal, private finances 家庭经济状况；个人经济状况 
+the state of sb’s finances 某人的财务状况 
+tight finances 紧张的财务状况 
+to plan your finances for a comfortable life 安排资金以便过上舒服的生活 
+The company’s finances are (in) a mess. 该公司的财务状况一团糟。
+We don’t have the finances to throw a big party. 我们没钱举办大型聚会。
+
+
+finances | 财政,财务,财务状况
+
+adj. 1 常作前置定语，看上去令人愉快的，即好看的，漂亮的:
+2 常作前置定语，精美的，精巧而吸引人的:
+3 物品或衣服品质好的，精美的，华贵的:
+adj. 用作感叹词，用于向某人表示一个行动、建议或决定是可接受的，即同意，可以，没问题:
+adj. [术语] 指金属只含一种物质的，不含其他物质因而不减低该金属的质量的，即纯的，无杂质的:
+adj. 开心的:
+adj. 用于表示对某事物满意:
+adv. [非正式] 以一种可接受或足够好的方式，令人满意地，即不错地:
+adj. 1 纤细的，非常细的:
+2 常作前置定语，难以看出或难以描述的:
+3 由极细微的颗粒组成或制成的:
+adj. 只作前置定语，（人）好的，有道德的，值得尊敬的:
+adj.（人）健康的，身体好的。是一个简单用词:
+n. [C] 由于破坏法律、法规或规则而被处以的罚款、罚金:
+vt. fine sb (sth) (for sth/for doing sth) 常用被动式，向某人或组织等处以罚金:
+adj. [尤英] 指天气晴朗的，可以是白天，也可以是晚上:
+adj. 指词语或话语听起来很重要很华丽，但实际上并没什么实际内容或作用的，即辞藻华丽的，语言华而不实的:
+adj. 常作前置定语，很好的，高质量的:
+fine |[faɪn]
+a fine view of the forest 森林美景 
+a fine-looking girl 漂亮女孩 
+fine features 清秀面容 
+fine clothes 华丽的服装
+That’s fine by me. 我认为没问题。
+Fine. 好吧。
+fine gold 纯金
+“How are you?” “Fine, thank you.” “你好吗？”“好，谢谢。”
+Your performance was fine. 你的表演很不错。
+This paper’s not very good quality, but it’s fine for rough work. 这种纸质量不是很好，但用来打草稿很不错。
+You’re doing fine. 你做得蛮不错。
+The machine is working fine. 机器运转良好。
+fine hairs on her arms 她胳膊上纤细的绒毛 
+a fine tip 纤细的尖 
+a fine thread 细线 
+Her hair is very fine. 她的头发非常细。
+the fine detail 细微之处 
+a fine distinction 细微的差别 
+a fine line between love and hate 爱恨只在一线间 
+fine sand 细沙
+a fine man 一个优秀的人（或品德高尚的人）
+George looks fine now. 乔治现在看起来身体很不错。
+physically fine 身体好 
+to pay a heavy fine 支付一笔巨额罚款 
+five-hundred-pound fine 五百英镑的罚款 
+parking, speeding fine 违法停车罚款；超速驾驶罚款 
+criminal fine 刑事犯罪罚款 
+a maximum fine of $800 最高罚金是800美元。
+The factory was fined $8 000 for polluting the environment. 这家工厂由于污染环境而被处以8000美元的罚款。
+to be heavily fined 被处以高额罚款 
+He got fined £200 for parking illegally. 他由于非法停车被罚200英镑。
+a fine day 晴朗的一天 
+a fine night 晴朗的夜晚 
+It’s turned out fine again today. 今天天气又转晴了。
+fine words 华而不实的辞藻
+a fine book 一本好书 
+a fine performance 精彩的演出 
+fine wines 美酒
+
+vt. indicate sb/sth (to sb)（尤指通过将头指向或移向某个方向而）使某人注意到…，即指示出:
+vt. 成为…的标志，或表明某事可能（或很可能）发生，即象征，预示等:
+vt.（不用通过言语的方式）显示信息:
+vt.＆vi. 表明（某事属实或存在）。是一个常规用词，极为常用:
+vt.（测量仪器）显示某一量度:
+vt. [正式] 常用被动式，有必要；或被建议（常因为有必要而被建议）:
+vt. indicate sth (to sb) 提及某事（尤指间接提及），即暗示，示意:
+vt. indicate sb/sth (to sb)（尤指通过将头指向或移向某个方向而）使某人注意到…，即指示出:
+vt.＆vi. [英]（用灯光或手臂）表明你的交通工具要改变方向，即打行车转向信号，相当于signal:
+vt. 以书面的形式给出信息，即写出，写明，注明:
+indicate |['ɪndɪkeɪt]
+He indicated where the furniture was to go. 他指示家具要如何摆放。
+A red sky at night often indicates fine weather the next day. 夜空呈红色往往预示第二天天气晴朗。
+Early results indicate that the government will be returned to power. 早期的结果预示该政府将重新执政。
+The results are indicated in Table 2. 结果列在表2中。
+These figures indicate to me that the company is in serious trouble. 这些数字使我意识到该公司处境艰难。
+Expense does not necessarily indicate worth. 费用未必能反映价值。
+Research indicates that eating habits are changing fast. 研究显示，饮食习惯正迅速改变。
+This sign usually indicates a pedestrian zone. 这个符号通常表示步行区域。
+He has declared support for women, but his actions have indicated otherwise. 他嘴上声称支持妇女，但其行为却正相反。
+The temperature gauge indicates 90˚F. 温度计显示90华氏度。
+A course of chemotherapy was indicated. 建议进行化疗。
+He indicated his willingness to cooperate. 他透露出了合作的意愿。
+She indicated the quickest route on a map. 她在地图上给我们指出了最快捷的路线。
+Always indicate before moving into another lane. 开入其它车道前一定要打转向灯。
+He indicated left and then turned right. 他打出的是左转信号，然后却向右转了。
+You are allowed 20kgs of baggage unless indicated otherwise on your ticket. 除非票上另有注明，否则可携带行李为20公斤。
+Please indicate clearly which colour you require. 请标明您要求的颜色。
+
+vt.＆vi. 数量变得更大；使…的数量变得更大，与contract相反:
+vt.＆vi. 1 尺寸变得更大；使…的尺寸变得更大，与contract相反:
+2 扩展（业务）；（业务）扩展（即开设更多的分公司、赚更多的钱等）:
+vi. 谈论更多；往自己正在说的内容里添加更多细节，如详述:
+vt.＆vi. 重要性变得更大；使…的重要性变得更大:
+expand |[ɪk'spænd]
+Student numbers are expanding rapidly. 学生人数在迅速增加。
+A child’s vocabulary expands through reading. 孩子的词汇量通过阅读得到扩大。
+Metals expand when they are heated. 金属受热会膨胀。
+to expand the role of family doctors 扩大家庭医生的作用 
+to expand the airport 扩建机场 
+The town has expanded into a city. 该镇已发展成为一个城市。
+to expand the business 扩展业务 
+an expanding economy 不断发展的经济 
+Internet companies expanding abroad 向海外扩展的互联网公司 
+Several brands have successfully expanded their market presence. 好几个品牌成功地扩大了市场份额。
+I needed to expand my possibilities of making a living. 我需要拓展我的谋生途径。
+I repeated the question and waited for her to expand. 我把问题重复了一遍，等着她详细回答。
+The new system expanded the role of family doctors. 新体制放大了家庭医生的作用。
+
+adj. 经常心血来潮的:
+adj. 未经筹划而完成的，如自发的:
+adj. 1 [术语] 自然发生的、自身造成的（非外界原因造成的）:
+2 自然完成的（而非被强迫完成的，或非刻意完成的）:
+spontaneous |[spɒnˈteɪniəs;美spɑ:n-]
+a spontaneous offer of help 主动提出帮助 
+The audience burst into spontaneous applause. 观众自发地鼓起掌来。
+Diana's house was crowded with happy people whose spontaneous outbursts of song were accompanied by lively music. 戴安娜的家里挤满了兴奋的人们，他们伴着欢快的音乐不由自主地引吭高歌。
+spontaneous remission of the disease 疾病的自然缓解 
+I had another spontaneous miscarriage at around the 16th to 18th week. 我在大约第16至18孕周时又经历了一次自然流产。
+a spontaneous explosion 自爆 
+a tape recording of spontaneous speech 一段自然讲话的磁带录音 
+a wonderfully spontaneous performance of the piece 对那支乐曲极其淳朴自然的演奏
+
+
+offense |
+
+suddenly and unexpectedly:突然和意外
+in a rude or curt manner:以粗鲁或粗鲁的方式
+steeply, precipitously:陡峭的，陡峭的
+abruptly |əˈbrʌp(t)li| Adverb/:,突然地
+the film ends rather abruptly:电影结束的很突然
+she barely conceals her irritation and speaks briefly and abruptly to the woman:她几乎不掩饰自己的愤怒，简短而突然地对那个女人说话
+the forested terrain ascends abruptly:林地陡升
+
+vt. 再次使用相同的想法、方法、玩笑等:
+vt. 再次使用相同的想法、方法、玩笑等:
+vt. 对事物的回收利用、再利用:
+recycle |[͵ri:'saɪkl]
+to recycle the idea 再次使用那个点子 
+to recycle his arguments 重复他的论点
+to recycle the idea 再次使用那个点子 
+to recycle his arguments 重复他的论点
+to recycle domestic waste 回收利用生活垃圾 
+recycled paper 再生纸 
+These materials are recycled into other packaging products. 这些材料被回收后制成其他包装产品。
+The packaging can be recycled. 包装可以回收。
+recycled waste, recycled materials 回收的废物；循环使用的材料
+
+rude (to do sth) 对别人和别人的感情缺乏尊重的，即无礼的，粗鲁的，粗野的，相当于impolite。是此义的常规用词:
+adj. [文学] 制作得简单的、粗糙原始的，相当于primitive:
+adj. [正式] 只用于名词前，突然的、令人不悦的且意想不到的:
+adj. [尤英] [美常用crude] 与性或身体相关并使人感到冒犯或尴尬的，如下流的:
+rude |[ru:d]
+adj. rude (to sb) (about sb/sth) 
+rude comment 粗鲁的批评 
+She was very rude about my driving. 她对我的开车方法横加指责。
+It’s rude to speak when you’re eating. 吃东西的时候说话不礼貌。
+I hope you won’t think me rude if I leave early. 如果我提早离开，希望你不要认为我无礼。
+rude shacks 简陋的小屋
+to get a rude shock 大吃一惊 
+If the players think they can win this match easily, they are in for a rude awakening. 如果选手们认为他们可以轻而易举地赢得这场比赛，他们会遭到当头棒喝。
+rude gesture 下流的手势 
+Someone made a rude noise. 有人发出了淫猥的声音。
+The joke is too rude to repeat. 这个笑话太下流，不宜重复。

@@ -1,0 +1,546 @@
+publication			出版
+treatise			专著
+scrutiny			仔细的审查
+emphasis			重视
+violent				暴力的
+urge				欲望
+repression			压抑
+premise				前提
+reflect				映出，显示，深思
+quotidian			平常的
+epiphenomenon			附带现象
+consolidation			巩固，加强
+mental				智力的，内心的，精神健康的
+resemblance			相似之处
+dub				把...称为
+hypothesis			假设，学说
+individual			个人，个体
+indeed				确实
+adolescence			青春期
+adulthood			成年
+algorithm			算法
+veteran				老兵
+intense				强烈的，紧张的
+exposure			揭发，暴露，亮相
+conflict			冲突
+aggression			侵犯
+military			军事的
+pass muster			被认为合格
+admittedly			诚然
+\\\\\\\\
+
+n. 1 [U, C]（书刊、杂志等的）出版；发行:
+2 [C]（书刊、杂志等）出版物；发行物:
+n. [U] 在报纸、报告等上面发表、刊登、公布（使其为公众所知晓）:
+publication |[ˌpʌblɪˈkeɪʃn]
+the publication of his first novel 他首部小说的出版 
+the posthumous publication this year of his unedited journals 在他去世后于今年出版的他那未经编辑的日记 
+The book is scheduled for publication in the spring. 该书定于春季出版。
+electronic, online, print publication 电子出版；在线出版；印刷出版 
+publication date 出版日期 
+His writing has appeared in many other print and online publications. 他的写作还以许多印刷出版物和在线出版物的形式出现。
+Our German sister publication, Diese Woche', went out of business. 我们在德国的姊妹刊物《每周关注》停刊了。
+government, official publication 政府出版物；官方出版物 
+specialist publication（尤英）专业出版物 
+glossy publication（尤英）用高光纸印刷的出版物 
+academic, business, industry, scholarly, scientific, trade publication 学术出版物；商业出版物；工业出版物；科学出版物；贸易出版物 
+She has several publications to her name on local history. 她出版了几部有关当地历史的书。
+They have started legal proceedings against two publications which spoke of an affair. 他们开始对两本提及一桩婚外情的出版物提起法律诉讼。
+a delay in the publication of the exam results 考试成绩的延期公布 
+The newspaper continues to defend its publication of the photographs. 这家报纸继续为刊登这些照片辩护。
+A spokesman said: 'We have no comment regarding the publication of these photographs.' 一位发言人说，“对于这些照片的公之于众，我们不予置评。”
+
+n. [C] ~ (on sth) 正式的长篇专题论文:
+treatise |[ˈtri:tɪs;-tɪz]
+Locke's Treatise on Civil Government 洛克的《政府论》
+
+n. [U] [正式] 仔细检查，认真彻底的审查:
+scrutiny |[ˈskru:təni]
+The company has come under intense scrutiny because of its environmental record. 这家公司因不良环保记录而受到严格审查。
+international, judicial, media, public, scientific scrutiny 国际监督；司法审查；媒体监督；议会审查；公众监督；科学审查 
+The activities of the committee are subject to public scrutiny. 委员会的活动受公众的监督。
+The documents should be available for public scrutiny. 这些文件须公之于世，交由公众审议。
+The President promised a government open to public scrutiny. 总统承诺政府将接受公众监督。
+His private life came under media scrutiny. 他的私生活受到媒体的密切关注。
+congressional, parliamentary scrutiny（美国的）国会审查；（英国的）议会审查 
+The testimony of the chief witness doesn't bear scrutiny. 主要证人的证词经不起推敲。
+Her argument doesn't really stand up to scrutiny. 她的观点经不起认真推敲。
+The company is under scrutiny by the authorities. 该公司正在接受当局的审查。
+I realized I was being subjected to intense scrutiny by a group of children. 我意识到自己正受到一帮孩子的严密监事。
+Foreign policy has come under close scrutiny recently. 近来，政府的外交政策受到了认真彻底的审查。
+
+n. [U, C] 说话或写字时，对某个词或短语的重读:
+n. 1 [U, C] ~ (on/upon sth) 给予某事的特别重要性，如强调、重视:
+2 [U, C] 说话或写字时，对某个词或短语的强调（如通过在说话时加重语气来强调，或通过在文字下面划线来强调）:
+emphasis |[ˈemfəsɪs]
+The emphasis is on the first syllable of the last word. 重音在最后一个单词的第一个音节上。
+Put the emphasis on the second syllable. 重读第二个音节。
+to put/lay/place emphasis on sth 强调（或重视）某事 
+There has been a shift of emphasis from manufacturing to service industries. 重点已经从制造业向服务行业转移。
+The emphasis is very much on learning the spoken language. 重点主要放在学习口语上。
+The course has a vocational emphasis. 这门课程着重职业培训。
+We provide all types of information, with an emphasis on legal advice. 我们提供各种信息服务，尤其是法律咨询。
+The examples we will look at have quite different emphases. 我们将要观察的例子所强调的重点很不相同。
+Too much emphasis is placed on research. 过分强调研究的重要性。
+Grant puts a special emphasis on weather in his paintings. 格兰特在他的绘画中特别注重天气。
+schools that put a heavy emphasis on sporting achievement 非常重视体育成绩的学校 
+Little emphasis was placed on educating people about the dangers. 几乎不重视教育人们如何应对危险。
+with the new emphasis on individuality and creative expression 把新重点放在个性和创新性表达上 
+We discussed where the main emphasis should be placed. 我们讨论了主要的重点应放在哪里。
+Examine the events leading to the war, with particular emphasis on France's role in them. 研究导致战争的事件，重点关注法国在这些事件中扮演的角色。
+Both subjects should be given equal emphasis. 应给予两门课程同等的重视。
+I believe the education system places undue emphasis on exam results. 我认为这个教育制度过分重视考试成绩。
+a cultural emphasis on education achievement 注重教育成果的文化 
+The company lays great emphasis on customer care. 公司非常重视对顾客的关怀。
+Education received special emphasis. 教育受到了特别重视。
+The Democrats shifted the emphasis away from direct taxation. 民主党人不再强调直接征税。
+In recent years, the emphasis has moved away from punishing drug addicts towards helping them. 近几年，重点已从惩罚吸毒者转为帮助他们。
+The emphasis is on keeping fit rather than developing lots of muscles. 重点是保持健康而不是练出一身肌肉。
+The emphasis is on the first syllable of the last word. 重音在最后一个单词的第一个音节上。
+Put the emphasis on the second syllable. 重读第二个音节。
+‘I can assure you, ’ she added with emphasis, ‘the figures are correct. ’ “我可以向你保证，”她加重语气补充道，“这些数字是正确的。” 
+'I might have known it!' Miss Burnett said with emphasis. “我早该料到了！”伯内特小姐加重语气说。
+‘I’, he said with great emphasis, ‘was the one.’“我，”他特别强调说，“就是那个人。”
+His slight emphasis on the word ‘Lady’ was definitely mocking. 他稍稍强调“女士”一词，这无疑是一种讽刺。
+He put extra emphasis on the word 'never'. 他额外强调“绝不”这个词。
+She repeated the question with emphasis. 她强调地重复了问题。
+
+adj. 表现出强烈感情的，或由其引起的:
+adj. 指颜色极其明亮的，即鲜艳夺目的:
+adj. 涉及肢体暴力的，或由肢体暴力引起的。是此义的基础和常规用词，最为常用:
+adj. 非常强烈而突然的，即猛烈的，剧烈的，强烈的:
+violent |['vaɪələnt]
+There was a violent reaction from the public. 公众反应强烈。
+Her dress was a violent pink. 她的连衣裙是非常鲜艳的粉红色。
+violent crime 暴力犯罪 
+violent clashes 暴力冲突 
+The crowd suddenly turned violent. 人群中突然有人开始大打出手。
+violent games 暴力游戏 
+violent movies 暴力电影 
+a violent man 粗暴的人 
+to be violent toward sb 对某人动粗 
+She started to get violent. 她开始变得暴虐。
+He met with a violent death. 他遭暴力致死。
+violent opposition to the programme 对该项目的强烈反对 
+violent stomachache 剧烈的胃疼 
+a violent change 剧烈的变化 
+a violent explosion 猛烈的爆炸 
+a violent storm 猛烈的暴风雨 
+a violent dislike 强烈的厌恶
+
+n. [C] urge (to do sth) 去做某事的一种强烈欲望。常具有即时性和突发性:
+vt. [正式]（尤指通过推动或强迫的方式）使一个人（或一只动物）朝某个方向行进得更快，如驱赶、鞭策:
+vt. 1 建议或努力尝试去劝说某人（让其去做某事），即力劝:
+2 urge sth (on/upon sb) 极力推荐（或竭力主张）某事:
+urge |[ə:dӡ]
+I had a sudden urge to hit him. 我突然很想揍他一顿。
+an instinctive urge to tap your feet to the beat of the music 双脚随着音乐节奏轻打拍子的本能冲动 
+the urge to reproduce 繁殖的欲望 
+the human urge to control the environment 人类控制环境的欲望 
+biological, creative, sexual urge 生理上的冲动；创作冲动；性冲动 
+I suppressed a strong urge to yawn. 我强忍着不打哈欠。
+to satisfy her urge for revenge 满足她的报复欲
+He urged his horse forward. 他策马前行。
+She urged him to stay. 她力劝他留下。
+The report urged that all children be taught to swim. 这份报告呼吁给所有的儿童教授游泳。
+He has repeatedly urged the government to do something about this. 他不断敦促政府处理此事。
+The situation is dangerous, and the UN is urging caution. 局势岌岌可危，联合国力主谨慎行事。
+
+n. [U]（对感情和欲望，且尤指性欲的）压抑、抑制、克制:
+n. [U]（用武力对人们的）压制、镇压:
+repression |[rɪˈpreʃn]
+emotional repression 感情的压抑 
+sexual repression 性压抑 
+the repression of his feelings about men 他对男人情感的压抑
+bloody, brutal, ruthless, violent repression 血腥镇压；残酷镇压；无情镇压；暴力镇压 
+social repression 社会压制 
+her attempts to combat censorship and political repression 她反抗审查制度和政治压制的努力 
+the religious repression during his rule 他统治期间采取的宗教压制 
+government, military, police, state repression 政府压制；军事镇压；警察镇压；国家的压制 
+The trade unions suffered brutal repression after the coup. 政变后工会遭到了残酷镇压。
+Reports claimed that civilians were being subjected to ruthless repression. 报道声称平民正遭受无情镇压。
+Streams of migrants are fleeing war, repression and poverty. 逃离战争、镇压和贫困的移民络绎不绝。
+repression against ethnic minorities 对少数民族的镇压 
+repression by the state 国家的压制 
+a target of/for repression 镇压的对象 
+a society conditioned by violence and repression 受暴力和镇压制约的社会 
+the repressions of the 1930s 20世纪30年代的镇压
+
+n. [pl.] premises可指（企业或机构使用的）房屋及土地、经营场所、办公场所:
+n. [C] [正式]（论证或思想的）前提、假设（论证或思想以此为基础进行阐发）:
+premise |[ˈpremɪs]
+The company is moving to new premises next month. 公司下个月将迁往新的办公场所。
+The congregation has been looking for alternative premises for some time. 一段时间以来，会众一直在寻找替代场所。
+business, church, club, commercial, company, factory, hospital, hotel, industrial, office, retail, school, shop（尤英） premises 企业及其附属场地；教堂及其附属场地；俱乐部及其附属场地；商业场所及其附属场地；公司经营场地；工厂及其附属场地；医院及其附属场地；旅馆及其附属场地；工业场所及其附属场地；写字楼及其附属场地；零售场所及其附属场地；学校及其附属场地；商店及其附属场地 
+The police have the power to enter the premises at any time. 警方有权随时进入经营场所。
+No alcohol may be consumed on the premises. 场区内禁止饮酒。
+Police were called to escort her off the premises. 召来警察护送她离场。
+There is a kitchen on the premises. 该处有一个厨房。
+Smoking is strictly forbidden on school premises. 校内严禁吸烟。
+the basic premise of her argument 她的论证的基本前提 
+a false premise 错误的前提 
+His reasoning is based on the premise that all people are equally capable of good and evil. 他的推理是以人可以为善亦可以为恶为前提的。
+
+vt. 显示、表明或表达（事物的本质或人的态度、情感等），即反映。是一个常规用词:
+vi. 使人对…产生好或坏的印象:
+vt.（从一个表面上）反射（声音等）:
+vt. 1 reflect sb/sth (in sth) 常用被动式，指在某事物（如镜子、水、玻璃等）的表面上反映或映出…的图像:
+2（从一个表面上）反射（光）。是此义的常规用词:
+vt.（从一个表面上）反射（热量等）:
+vt.＆vi. reflect (on/upon sth) 细致且深深地思考某事，即认真思考，沉思:
+vt.（某人）想到…:
+reflect |[ri'flekt][rɪ'flekt]
+Our newspaper aims to reflect the views of the local community. 我们的报纸旨在反映当地人民的心声。
+The punishment should adequately reflect the revulsion felt by most people for this appalling crime. 量刑应充分反映出大多数人对这一骇人听闻的罪行的深恶痛绝。
+This year’s budget simply reflects the fact that we have fewer people out of work. 本年度的预算仅仅反映出失业人口有所减少。
+The views expressed in this article do not necessarily reflect those of the editor. 文章中反映出的观点不一定是编者的观点。
+Senegalese culture strongly reflects influence from Islamic rulers. 塞内加尔文化明显反映出受穆斯林统治者的影响。
+The exhibition is designed to reflect the diversity of the nation and its regions. 本次展览旨在反映该国民族和地域的多样性。
+The condition of the house is reflected in its low price. 这所房子的状况从其低廉的价格中可见一斑。
+The affair hardly reflected well on the president. 这个事件很难让人对那位总统有好印象。
+This kind of conduct reflects very poorly on you. 这种行为会让你很丢脸。
+information that may reflect negatively on research participants 可能给参与研究者的声誉带来负面影响的信息
+His face was reflected in the mirror. 他的脸映照在镜子里。
+She could see herself reflected in his eyes. 她在他的眼中看到了自己的样子。
+The windows reflected the bright afternoon sunlight. 窗户反射着午后明媚的阳光。
+In Milton’s poem, Satan, even after his fall, dimly reflects his former glory.（比喻用法）在弥尔顿的诗中，撒旦即便失败后也能依稀显出昔日的荣光。
+The heat is reflected back into space. 热量被反射回太空。
+Before I decide, I need time to reflect. 在做出决定以前，我需要时间考虑。
+We should all give ourselves time to reflect. 我们都应该给自己时间来深思。
+He reflected ruefully that his money didn’t buy as much as it used to. 他懊恼地想着自己的钱已经贬值。
+She paused to reflect on what she had achieved. 她停下来，回想自己所取得的成绩。
+Things were very much changed since before the war, he reflected. 从战争开始前情况就已经发生了很大的变化，他想到。
+
+of or occurring every day; daily:of或每天发生；日常的
+ordinary or everyday; mundane:普通或日常；世俗的
+denoting the malignant form of malaria.:表示疟疾的恶性形式。
+quotidian |kwɒˈtɪdɪən| Adjective/:日常,日常生活的
+the car sped noisily off through the quotidian traffic:汽车在日常交通中嘈杂地疾驰而去
+his story is an achingly human one, mired in quotidian details:他的故事是一个令人痛心的人性故事，深陷于日常细节中
+
+a secondary effect or by-product.:a次要效应或副产品。
+a secondary symptom, occurring simultaneously with a disease or condition but not directly related to it.:a次要症状，与疾病或病症同时发生但与其没有直接关系。
+a mental state regarded as a by-product of brain activity.:一种被视为大脑活动副产品的精神状态。
+epiphenomenon |ˌɛpɪfəˈnɒmɪnə| Noun/:附带现象,副现象
+
+the action or process of making something stronger or more solid:使某物变得更强大或更坚固的动作或过程
+the action or process of combining a number of things into a single more effective or coherent whole:
+the action or process of combining a number of financial accounts or funds into a single overall account or set of accounts:将多个金融账户或资金组合成一个单一的整体账户或一组账户的动作或过程
+consolidation |kənˌsɒlɪˈdeɪʃ(ə)n| Noun/:合并
+the permanent consolidation of peace:永久巩固和平
+a consolidation of data within an enterprise:a企业内的数据整合
+a business selling debt consolidation services:a销售债务合并服务的企业
+
+adj. [英，俚] 常不用于名词前，疯狂，发疯:
+adj. 常用于名词前，与精神相连的（或发生在头脑中的），涉及思考过程的。即精神的，智力的:
+adj. 常用于名词前，与精神的健康状态有关的，或与精神疾病的治疗有关的，相当于psychological:
+mental |['mentl]
+Watch him. He’s mental. 小心，他疯了。
+My dad will go mental when he finds out. 我爸要是发现了，他会气疯的。
+the mental process of remembering 记忆的心理过程 
+Do you have a mental picture of what it will look like? 在你脑子里它会是什么样子？
+I made a mental note to talk to her about it. 我记着要去和她谈谈这事儿。
+He has a complete mental block when it comes to physics. 他对物理一窍不通。
+mental health 精神健康 
+mental illness, mental hospital 精神病；精神病院 
+She was suffering from physical and mental exhaustion. 她当时已经精疲力竭。
+
+~ (between A and B) 相似、相像；相似之处:
+resemblance |[rɪˈzembləns]
+She bears an uncanny resemblance to Dido. 她跟迪多长得出奇地像。
+The resemblance between the two signatures was remarkable. 两个签名的相似之处非常明显。
+The movie bears little resemblance to the original novel. 电影和原著相去甚远。
+There was a remarkable resemblance between him and Pete. 他和皮特之间有着惊人的相似之处。
+Our tour prices bore little resemblance to those in the holiday brochures. 我们的旅游报价和那些度假手册里的价格相去甚远。
+two actors bearing little resemblance to each other 彼此几乎没什么相似之处的两位演员physical resemblance 体貌上的相似 
+family resemblance 家人间的相似 
+The story of the movie bears more than a passing resemblance to "Tom Sawyer'. 这部影片的情节与《汤姆·索亚历险记》不只是一点点的相似。
+They are both called Brad, but there the resemblance ends(= they are not similar to each other in any other way). 他们俩都叫布拉德，不过除此之外别无相似之处。
+There is a close resemblance between her and her daughter. 她和她女儿长得很像。
+Crocodiles still have a strong resemblance to their ancestors. 鳄鱼和它们的祖先仍然极其相似。
+
+give an unofficial name or nickname to:给一个非官方的名字或昵称
+make (someone) a knight by the ritual touching of the shoulder with a sword:通过用剑触摸肩膀的仪式使（某人）成为骑士
+dress (an artificial fishing fly) with strands of fur or wool or with other material:dress（一种人造钓鱼苍蝇），带有一缕毛皮或羊毛或其他材料
+incorporate (fur, wool, or other materials) into a fishing fly.:incorporate（毛皮、羊毛或其他材料）成鱼蝇。
+smear (leather) with grease.:用油脂涂抹（皮革）。
+provide (a film) with a soundtrack in a different language from the original:provide（一部电影）的配乐与原作的语言不同
+add (sound effects or music) to a film or recording:将（音效或音乐）添加到电影或录音中
+make a copy of (a sound or video recording).:制作（录音或录像）的副本。
+transfer (a recording) from one medium to another.:transfer（录音）从一种媒体到另一种媒体。
+combine (two or more sound recordings) into one composite soundtrack:
+an instance of dubbing sound effects or music:一个配音音效或音乐的实例
+a style of popular music originating from the remixing of recorded music (especially reggae), typically with the removal of some vocals and instruments and the accentuation of bass guitar.:一种流行音乐风格，源自对录制音乐（尤其是雷鬼音乐）的混音，通常会去除一些人声和乐器以及低音吉他的重音。
+an inexperienced or unskilful person.:一个没有经验或不熟练的人。
+misplay (a shot).:misplay（一枪）。
+pay up; make a contribution.:支付;20
+dub |dʌb| Noun/Verb/:配音
+the media dubbed anorexia ‘the slimming disease’:媒体将厌食症称为“减肥病”
+he should be dubbed Sir Hubert:他应该被称为休伯特爵士
+the film will be dubbed into French and Flemish:电影将被配音成法语和佛兰芒语
+background sound can be dubbed in at the editing stage:背景声音可以在剪辑阶段配音
+the level of the dub can be controlled manually:
+
+n. [C]（有少量事实依据但未被完全证实的）假说，假设:
+n. [U] 凭空的猜测、猜想:
+hypothesis |[haɪˈpɒθəsɪs;美-ˈpɑ:θ-]
+Scientists have proposed a bold hypothesis. 科学家提出了一个大胆的假设。
+Different hypotheses have been put forward to explain why these foods are more likely to cause problems. 人们已经提出不同的假说来解释为什么这些食物更有可能带来问题。
+A number of hypotheses have been put forward. 已经提出了几个假说。
+Work will now begin to test the hypothesis in rats. 现在将开始在老鼠身上做实验以验证该假设。
+These observations appear to support our working hypothesis. 这些观察结果看来与我们暂时的假设一致。
+scientific hypothesis 科学假说 
+It is possible to make a hypothesis on the basis of this graph. 以这张图表为基础做出假设是可能的。
+None of the hypotheses can be rejected at this stage. 在现阶段，任何一个假设都不能排除。
+Her hypothesis concerns the role of electromagnetic radiation. 她的假说涉及到电磁辐射的作用。
+The hypothesis predicts that children will perform better on task A than on task B. 这一假设预计孩子们完成任务A将比完成任务B更出色。
+Her study is based on the hypothesis that language simplification is possible. 她的研究基于语言可以简化这样一个假设。
+an interesting hypothesis about the development of language 关于语言发展的一个有趣假说 
+a hypothesis about the function of dreams 关于梦的作用的假说 
+The results confirmed his hypothesis on the use of modal verbs. 结果证实了他的关于情态动词用法的假设。
+It would be pointless to engage in hypothesis before we have the facts. 在我们还没掌握事实的情况下瞎猜是毫无意义的。
+
+adj. 1 [只用于名词前]（常用于each之后）单独的、个别的:
+2 [常贬] 独特的、与众不同的:
+adj. [只用于名词前] 一个人的；供一个人用的:
+n. 1 [C] 个人:
+2 [C] 与众不同的人、有个性的人:
+n. [C] [非正式，常贬] 某类人，尤指古怪的人:
+individual |[ˌɪndɪˈvɪdʒuəl]
+We interviewed each individual member of the community. 我们采访了社区中的每个成员。
+The minister refused to comment on individual cases. 那位部长拒绝对具体个案发表评论。
+a highly individual style of dress 十分有个性的衣着风格
+respect for individual freedom 对个人自由的尊重 
+an individual pizza 供一人食用的比萨饼 
+The competition is open to both teams and individuals. 团队和个人均可参加比赛。
+Treatment depends on the individual involved. 治疗方式因人而异。
+donations from private individuals (= ordinary people rather than companies, etc.) 私人捐赠 
+outstanding, talented individual 杰出的人；有天赋的人 
+key individual 关键人物 
+powerful individual 有权势的人 
+creative individual 有创造力的人 
+average, ordinary individual 一般人；普通人 
+private individual 私人 
+The motives influencing a particular individual may change from time to time. 影响特定个体的动机可能会随时改变。
+autonomous, independent individual 自主的个体；独立个体 
+Society does not consist of isolated individuals, but people in a network of relationships. 社会不是一个个孤立的个体，而是由相互关联的人构成的。
+unique individual 独特的人 
+a group of like-minded individuals 一群志同道合的人 
+We welcome applications from suitably qualified individuals. 我们欢迎符合条件的个人提出申请。
+We know that all human individuals are unique. 我们知道所有人类个体都是独一无二的。
+The teacher should treat each pupil as an individual. 教师应该把每位学生当成一个独立的个体来对待。
+Although individuals vary widely, the bones of the average female skeleton are smaller and lighter than the male. 尽管个体差异很大，但一般来说，女性的骨骼与男性相比更小、更轻。
+No single individual had done so much for the development of the motor vehicle. 没有哪一个人对机动车的发展作出过如此大的贡献。
+The needs of the community outweigh those of any single. 群体的需要重于任何个人的需要。
+the freedom of the individual 个人的自由 
+It's up to the individual concerned to contact the police. 应该由相关人员来决定是否与警方联系。
+Each course has to be tailored to the needs of the individual. 每门课程都必须根据个人的需要而设计。
+respect for the individual 对个人的尊重 
+Eating habits are bound to vary from individual to individual. 饮食习惯肯定因人而异。
+She's grown into quite an individual. 她已经长成了一个相当有个性的人。
+She had taken a group of individuals and made them into a superb team. 她接管了个性各异的一组人并把他们打造成了一个卓越的团队。
+an odd-looking individual 模样怪异的人 
+So this individual came up and demanded money. 于是这个怪人就走上前来要钱。
+
+adv. [正式，尤英] 用于给一个陈述添加信息，如其实、实际上:
+adv. [非正式] 用于重复某人已问过的一个问题，并表示你不知道答案:
+adv. 1 用于强调一个肯定的陈述或答复:
+2 [尤英] 用于very和形容词或副词之后，以强调一个陈述、描述等:
+3 [尤英，非正式] 用于表明你对某事感到惊讶，或觉得某事物荒谬:
+indeed |[ɪn'di:d]
+I don’t mind at all. Indeed, I would be delighted to help. 我根本不介意。其实，我倒很乐意帮忙。
+‘Why did he do it?’ ‘Why indeed?’ “他为什么那样做？”“是呀，为什么呢？”
+‘Was he very angry?’ ‘Indeed he was.’ “他很生气吗？”“的确很生气。”
+It is indeed a remarkable achievement. 这的确是个非凡的成就。
+Thank you very much indeed! 真的很感谢您！
+I was very sad indeed to hear of your father’s death. 听到令尊大人去世，我感到非常难过。
+A ghost indeed! I’ve never heard anything so silly. 真是见鬼！我可从没听说过这样无聊的事。
+
+n. [U]（人的一生中）从孩童发育成成年人的一段时期，即青春期，相当于puberty:
+adolescence |[͵ædə'lesns]
+late adolescence 青春期后期
+
+n. [U] 成年的状态:
+adulthood |[ˈædʌlthʊd;əˈdʌlt-]
+a child reaching adulthood 已成年的孩子 
+Few people nowadays are able to maintain friendships into adulthood. 如今很少有人能将友谊维持到成年。
+His problems began in early adulthood. 他刚刚成年就有了麻烦。
+Her childhood problems persisted into adulthood. 她儿时的问题一直持续到了成年。
+a step towards/toward adulthood 向着成年迈出的一步
+
+a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer:在计算或其他解决问题的操作中要遵循的过程或规则集，尤其是计算机
+algorithm |ˈalɡərɪð(ə)m| Noun/:algorith,arithetic
+a basic algorithm for division:一种除法的基本算法
+
+n. [C]（也可用美式非正式的vet）（尤指经历过战争的）老兵、老战士:
+n. [C] 在某一领域经验极其丰富的一个人:
+veteran |[ˈvetərən]
+combat（尤美）, war veteran 经历过战争的老兵 
+army, military, navy veteran 陆军老兵；退伍军人；海军老兵 
+decorated veteran（尤美）佩戴勋章的老兵 
+battle-hardened veteran 久经沙场的老兵 
+retired veteran 退伍老兵 
+disabled, wounded veteran 伤残的老兵；受伤的老兵 
+returning veteran（尤美）返乡的老兵 
+Vietnam, World War Two veteran 参加过越战的老兵；参加过二战的老兵 
+Were veterans honoured and adequately rewarded for their sacrifice? 付出牺牲的老兵得到尊重和应有的回报了吗?
+veterans who served in Vietnam 参加过越战的老兵 
+Veterans returned to heroes' welcomes. 老兵回家时受到了英雄般的欢迎。
+a veteran of World War Two 参加过二战的老兵 
+They approved a $1.1 billion package of pay increases for the veterans of the Persian Gulf War. 他们通过了对参加过波斯湾战争的老兵增发共计11亿美元的一揽子提案。
+He is now a grizzled veteran of TV shows. 他现在头发斑白，是位资深的电视节目主持人。
+He's a seasoned veteran of the political establishment. 他是位经验丰富的政坛老手。
+wily veteran 诡计多端的老手 
+an eight-year veteran of the New York Yankees 在纽约扬基队打了八年球的老队员 
+industry veteran 业界老手 
+veteran campaigner, veteran leader, veteran politician 资深的活动家；经验丰富的领袖；资深政治人物 
+veteran broadcaster, veteran reporter 资深播音员；资深记者 
+veteran actor, veteran director 经验丰富的演员；资深导演 
+veteran defender, veteran pitcher, veteran player, veteran quarterback 经验丰富的防守队员；经验丰富的投球手；经验丰富的球员；经验丰富的四分卫 
+a veteran of numerous political campaigns 多次参加政治运动的老手 
+the veteran British actor, Sir Richard Attenborough 英国资深演员理查德·阿滕伯勒爵士 
+Tony Benn, the veteran Labour MP and former Cabinet minister 托尼·本，一位经验丰富的工党下院议员和前内阁部长
+
+adj.（目光）有穿透力的、洞悉一切的:
+adj. 1 程度很深的，如极端的、强烈的、剧烈的:
+2 严肃的且短时间内有大量活动的，如激烈的:
+3（一个人对…）有十分强烈的感情、观点或想法的:
+intense |[ɪnˈtens]
+I felt so self-conscious under Luke's mother's intense gaze. 在卢克母亲审视的目光下，我感到极不自在。
+He gazed at me with those intense blue eyes. 他用那双深邃的蓝眼睛凝视着我。
+intense heat, intense cold, intense pain 酷热；严寒；剧痛 
+The President is under intense pressure to resign. 总统承受着沉重的辞职压力。
+the intense blue of her eyes 她眼睛的深蓝色 
+intense interest, intense pleasure, intense desire, intense anger 浓厚的兴趣；十分快乐；强烈的欲望；极端愤怒 
+He was sweating from the intense heat. 高温酷热让他大汗淋漓。
+Suddenly the room filled with intense light. 突然,刺眼的强光照亮了整个房间。
+intense competition 激烈的竞争 
+The battle for third place was intense. 第三名的争夺紧张激烈。
+It was a period of intense activity. 那是活动激烈的时期。
+The military on both sides are involved in intense activity. 双方的武装力量都有密集动作。
+an intense look 热切的神情 
+He's very intense about everything. 他对一切都很热心。
+I know he's an intense player, but he does enjoy what he's doing. 我知道他是个拼命三郎,但他确实喜欢自己所做的事。
+She is taller than I imagined, more adult, more intense. 她比我想象的更高、更成熟、更热切。
+
+n. 1 [U] ~ (to sth) 暴露于（危险、有害或令人不悦的环境）:
+2 [U]（对某人或某事物的坏的、不道德的或非法的事实的）揭露:
+3 [U] 让通常处于隐藏状态下的事物暴露、显露出来:
+n. [U]（一个人、公司、产品等）在电视、报纸等媒体上被报道:
+n. [U] 极端寒冷所冻出来的病:
+n. 1 [C]（拍照所用的）单张底片、胶卷:
+2 [C]（拍照的）曝光时间、曝光量:
+exposure |[ɪkˈspəʊʒə(r);美-ˈspoʊ-]
+Exposure to lead is known to damage the brains of young children. 众所周知，接触铅对幼儿的大脑有害。
+the potential exposure of people to nuclear waste 核废料对人们造成辐射的潜在风险 
+prolonged exposure to harmful radiation 长时间接触有害辐射 
+chemical, radiation, sun exposure 受化学品影响；暴露于辐射；日光照射 
+asbestos, pesticide exposure 接触到石棉；接触到杀虫剂 
+long-term human exposure to mercury 人长时间接触水银 
+80% of patients with this form of cancer have had some occupational exposure to asbestos. 这种癌症的患者中有80%曾在工作中接触过石棉。
+prenatal exposure to cigarette smoke 孕期接触香烟 
+She suffered a massive exposure to toxic chemicals. 她大量接触到有毒化学物质。
+The report recommends people to avoid prolonged exposure to sunlight. 报告建议人们应避免晒太阳时间过长。
+the company's exposure on the foreign exchange markets (= to the risk of making financial losses) 公司面对外汇市场的风险 
+Banks will seek to minimize their exposure to risk. 银行会试图将他们面临的风险最小化。
+We try to give our children exposure to other cultures. 我们试图让孩子更多地接触其他文化。
+exposure as a liar and a fraud 说谎者和骗子的面目被揭露 
+the exposure of illegal currency deals 对非法交易货币的揭露 
+the exposure of Anthony Blunt as a former Soviet spy 安东尼·布伦特前苏联间谍身份的曝光 
+Their sporting reputation has suffered enormously from Johnson's exposure. 由于约翰逊东窗事发，他们的体育声誉受到了严重损害。
+full exposure of the links between government officials and the arms trade 政府官员与军火交易关系的完全揭露 
+public exposure 公开揭露 
+Her new movie has had a lot of exposure in the media. 她的新片媒体有很多报道。
+All the candidates have been getting an enormous amount of exposure on television and in the press. 所有候选人都在电视和报刊上频频亮相。
+media, press, television exposure 媒体报道；新闻宣传；电视宣传 
+He receives regular exposure in the papers.（regular尤为英式用法）他经常在报纸上露面。
+The magazine aims to give exposure to the work of women artists. 这本杂志的目的是推广女性艺术家的作品。
+a would-be television personality who is constantly trying to get media exposure 总是试图得到媒体报道想要成为电视名人的人
+Two climbers were brought in suffering from exposure. 两名登山者因冻僵被带了进来。
+He was suffering from exposure and shock but his condition was said to be stable. 他被冻伤了，而且出现了休克，但是据说情况稳定。
+At least two people died of exposure in Chicago overnight. 昨天晚上，芝加哥至少有两人冻死。
+There are three exposures left on this roll of film. 这卷胶卷还有三张没拍。
+Larger drawings tend to require two or three exposures to cover them. 较大的图画往往需要两三张胶片才能拍下来。
+I used a long exposure for this one. 我这张照片用的曝光时间长。
+A tripod also lets you shoot long exposures at night. 三脚架也可以让你在晚上长时间曝光。
+an exposure of 1/18sec at f/11 1/18秒f/11光圈的曝光量
+
+n. [C] 观点、想法、感情、意愿等事物之间的抵触、冲突、矛盾，难以抉择的情况:
+vi. conflict (with sth) 两种观点、信念、说法等相冲突，矛盾，与clash同义:
+conflict (over sth) 人、群体或国家之间的冲突、争执、分歧。是“冲突”的常规用词:
+n. [C] 军事冲突:
+conflict |['kɒnflɪkt]
+a conflict between love and duty 爱情与责任之间的矛盾 
+Her diary was a record of her inner conflict. 她的日记记录了她内心的矛盾。
+emotional, ideological conflict 情感上的分歧；意识形态上的分歧 
+in direct conflict with his wishes 与他的愿望截然相反 
+the conflict between science and religion 科学和宗教之间的矛盾 
+a serious conflict of opinion 观点上的严重分歧
+conflicting emotions, conflicting interests, conflicting values 相互矛盾的感情；相互冲突的利益；相互冲突的价值观 
+These results conflict with earlier findings. 这些结果与早期的发现相矛盾。
+His opinions conflicted with mine. 他的看法与我的相左。
+international, regional conflict 国际冲突；地区冲突 
+family, generational conflict 家庭内的矛盾；不同年代人之间的矛盾 
+class, cultural, ethnic, political, religious conflict 阶级冲突；文化冲突；族群冲突；政治冲突；宗教冲突 
+a conflict of interest 利益冲突 
+John often comes into conflict with his boss. 约翰经常和他的老板发生争执。
+a conflict over ownership of the land 就土地所有权问题产生的争执 
+the inherent conflict between what farmers and environmentalists want 农民的需求与环保主义者的愿望之间固有的矛盾
+armed, military conflict 武装冲突；军事冲突
+
+n. [U]（一国对另一国的）侵略:
+n. [U] 好斗性、攻击性:
+n. [U]（一个人对另一个人的）暴力和攻击行为，即侵犯:
+aggression |[əˈgreʃn]
+a display of naked aggression 赤裸裸的侵略表现 
+The president announced that the country would not tolerate foreign aggression. 总统宣布该国绝不会容忍外敌入侵。
+American aggression 美国的侵犯 
+armed, military aggression 武装侵略；军事侵略 
+unprovoked military aggression 无端的军事侵犯 
+the threat of massive military aggression 大规模军事侵略的威胁 
+Aggression by one nationality against another often leads to war. 一个民族对另一民族的挑衅往往会导致战争。
+The research shows that computer games may cause aggression. 研究显示，电脑游戏可能引起好斗情绪。
+Aggression is by no means a male-only trait. 好斗性绝非男性才具有的特征。
+to release pent-up aggression 释放被压抑的敌对情绪 
+the brutality and aggression displayed by the soldiers 士兵所表现出来的残忍和好斗 
+He managed to channel his aggression into sport. 他设法将对抗情绪转移到体育运动上。
+Do toy guns encourage aggression? 玩具枪会助长好斗情绪吗？
+It showed no aggression towards other dogs. 它未对其它狗表现出攻击性。           
+physical, sexual, verbal aggression 身体上的侵犯；性侵犯；言语侵犯 
+Acts of aggression against local shop owners should be reported to the police. 对于当地店主遭到的侵犯应该报警。
+The raid was an unjustifiable act of aggression. 那次偷袭是一种不正当的侵略行径。        
+
+adj. 1 [常用于名词前] 军事的、军队的、军用的:
+2（组织性和纪律性）军人作风的、军人般的:
+adj. 陆军的:
+n. [sing.] the military 指军队、军方、军人（表军人时尤指高级军官）:
+military |[ˈmɪlətri;美-teri]
+military training, military intelligence 军事训练；军事情报 
+military coup 军事政变 
+military uniform 军服 
+We may have to take military action. 我们可能不得不采取军事行动。
+The president is sending in almost 20,000 military personnel to help with the relief efforts. 总统将派出近2万名军事人员协助救灾工作。
+Your working day will need to be organized with military precision. 需要对你的工作日进行精确有序的安排。
+He has a military bearing, never failing to carry himself erect. 他有一种军人的风姿，身板总是挺得笔直。
+The attack has caused severe damage to American naval and military forces. 这次攻击给美国的海军和陆军都造成了重创。
+The country has twice been occupied by foreign military. 该国曾两度被外国军队占领。
+all-volunteer, volunteer, professional, regular military 志愿军；职业化军队；正规军队 
+powerful, strong military 强大的军队 
+large military 大规模的军队 
+modern military 现代军队 
+uniformed military 现役正规军 
+active, active-duty military 现役军队 
+Did you serve in the military? 你当过兵吗？
+I wasn't surprised to learn that he'd served in the military. 得知他在军队中服过役，我并不感到意外。
+He joined the military and served in the war. 他参了军，上了战场。
+He left the military in 1993 and became a security gard. 他1993年退役，成了一名保安。
+The government called in the military to deal with the riots. 政府调来军队镇压暴乱。
+The country maintains a strong military purely for defence/defense. 该国保有一支强大的纯防御性军队。
+efforts to transform the military into a 21st-century fighting force 把军队转型为21世纪作战力量的努力 
+reports of growing discontent among the military 有关军中不满情绪日益强烈的报告 
+a member of the military 军中的一员 
+The bombing has been far more widespread than the military will admit. 轰炸的范围远远大于军方愿意承认的范围。
+
+used to express a concession or recognition that something is the case:用于表达对某事的让步或承认
+admittedly |ədˈmɪtɪdli| Adverb/:诚然,不可否认
+admittedly, the salary was not wonderful:诚然，薪水并不理想

@@ -1,0 +1,885 @@
+customer				顾客，家伙
+cast				描述，铸造，抛，全体演员，类型
+million				一百万
+millions				数百万，大量
+custom				习俗，习惯，惠顾
+extra				额外的
+evaluate				评价，评判
+suit				套装，诉讼，适合
+suit oneself				照自己的意愿
+servant				职员，奉献者
+Wednesday				星期三
+after				在...以后，由于，尽管
+attempt				企图
+retire				退休，退下
+return				返回
+celebrate				庆祝，主持
+switch				开关，转变，改变
+cure				治愈，解决，晒干
+primary				主要的，最初的
+keep				使保持
+pyramid				金字塔，锥体
+afford				支付得起，提供
+cut				切，挖出，减少
+ban				明令禁止，禁令
+tablet				刻写板，药片，小块
+head				头，头脑
+foreigner				外国人
+willing				乐意的，志愿的
+mineral				矿物
+shade				阴影，色度，些许，差别，窗帘
+various				许多的，各种各样的，多样化的
+\\\\\\\\
+
+n. [C] 购买产品或服务的顾客，客户。是此义的基础用词:
+customer |['kʌstəmə]
+long-standing, long-time, loyal customer 长期的客户；忠实的客户 
+regular customer 常客 
+old customer 老客户 
+repeat customer（美）回头客 
+potential customer 潜在的客户 
+foreign customer 外国客户 
+corporate, retail customer 公司客户；零售客户 
+customer relation, customer service 客户关系；客户服务 
+customer demands 客户需求 
+customer loyalty 顾客的忠诚度 
+customer complaints 顾客的投诉 
+customer base 客户群
+
+n. [sing.] [英，非正式]（人或事物的）外表，外貌:
+n. [sing.] [英，非正式]（人或事物的）特性、特征:
+vt. 朝某个方向投以笑容:
+vt. cast doubt/aspersions (on/upon sth) 说（或做、表明）使人怀疑某事物（或使人认为某人不那么诚实、善良等）的事情:
+vt. 朝某个方向看，即投以（目光）。不太常用:
+vt. [文学]（尤指用力）将某人或某事物扔（或投、掷、抛等）向某地:
+vt. 使光、影子等出现在某个地方，即投射（光线、影子等）。与throw难见明显差别:
+vt. cast sth (in sth) 将滚热的液态金属等倒入模具容器中使其成为某种形状，即浇铸:
+n. [C]（一出戏剧或一部电影的）全体演员:
+vt.＆vi. cast sb (as sb)（为一部电影、戏剧等）选择演员（以扮演不同的角色）；选择某一演员（以扮演某一角色）:
+vt. 蛇蜕皮，相当于shed:
+cast sb (in sth) 以某种方式来描写或呈现、表现某人。其宾语只是人:
+vt. 朝某个方向看、笑等，即投以（目光、笑容等）:
+n. [C] 用于制造物件的一个有一定形状的容器，即模子，模具，铸模，相当于mould:
+n. [C]（固定骨折部位的）石膏夹，相当于plaster cast:
+vt.＆vi. 将钓鱼线的一端（如鱼钩）投入河流等水体中:
+n. [C] 投、抛、扔、掷等（尤指抛出钓鱼线）:
+vt. 马偶然踢掉马蹄铁:
+n. [C] 将滚热的液态金属等倒入模具容器中所制造出来的物体，即铸件，铸造品:
+vt. cast a/your vote/ballot (for sb/sth) 为…投票（或表决）:
+cast |[kɑːst][kɑːst][pleɪ]
+I disliked the arrogant cast to her mouth. 我不喜欢她傲慢的口吻。
+He has an unusual cast of mind. 他的思想与众不同。
+She cast a welcoming smile in his direction. 她向他微笑以示欢迎。
+This latest evidence casts serious doubt on his version of events. 最新的证据使人们十分怀疑他对事件的说法。
+The box was cast into the river. 盒子被扔进了河里。
+to cast anchor 抛锚停泊
+The setting sun cast an orange glow over the mountains. 橘红色的夕阳辉映着群山。
+The sad news cast a shadow over the proceedings.（比喻用法）这个坏消息给事件的进程蒙上了一层阴影。
+a statue cast in bronze 青铜铸像 
+an artist cast in the mould of Miro（比喻用法）风格酷似米罗的一位艺术家
+an all-star cast 全明星阵容 
+a cast list 演员表 
+supporting cast 配角演员 
+original cast 原班人马 
+Who is in the cast? 演员都有谁？
+The play is being cast in the US. 目前正在美国挑选这部戏的演员。
+He has cast her as an ambitious lawyer in his latest movie. 他选定她在他最近的一部影片里扮演一名雄心勃勃的律师。
+vt. cast sb (as sth) 
+He cast himself as an innocent victim. 他把自己说成是一个无辜的受害者。
+The press cast her in the role of ‘the other woman’. 新闻界把她描述成“第三者”的角色。
+She cast a welcoming smile in his direction. 她向他微笑以示欢迎。
+Her leg’s in a cast. 她的一条腿打上了石膏。
+
+the number equivalent to the product of a thousand and a thousand, 1,000,000 or 10⁶:等于一千和一千、1,000,000或10的乘积的数字⁶
+the numbers from a million to a billion.:从一百万到十亿的数字。
+several million things or people:几百万个事物或人
+an unspecified but very large number or amount of something:一个未指定但非常大的数量或数量的东西
+a million pounds or dollars:一百万英镑或美元
+the bulk of the population:大部分人口
+million |ˈmɪljən| Numeral/:百万,亿
+a million people will benefit:100万人将受益
+millions of TV viewers:百万电视观众
+I've got millions of beer bottles in my cellar:我的地窖里有数百万瓶啤酒
+the author is set to make millions:作者准备赚几百万
+movies for the millions:movies数百万
+
+
+millions | 百万,数以百万计
+
+adj. [尤美] 只用于名词前，为某人设计并建造的、为某人设计并制作的，即订做的、订制的，相当于custom-built或custom-made:
+n. [sing.] [正式或文学] 一个人惯常的行为方式，即个人习惯或习性，相当于habit或practice:
+n. [C, U] custom (of doing sth) 一个社会或社区里被认可或接受的行为方式或做事方式，即习俗、风俗:
+n. [U] [英，正式]（英美也用business）顾客或客户在商店或公司里购买产品的情况，可称为惠顾、光顾:
+custom |['kʌstəm]
+a custom motorcycle 订制的摩托车
+It was her custom to rise early. 早起是她的习惯。
+the custom of giving presents at Christmas 在圣诞节赠送礼物的习俗 
+local, native（尤美）custom 当地风俗 
+family custom 家族习俗 
+marriage, religious, social custom 婚俗；宗教习俗；社会风俗
+Thank you for your custom. Please call again. 谢谢您的惠顾，请下次再来。
+We’ve lost a lot of custom since prices went up. 自从价格上涨以来我们失去了很多生意。
+
+adv. 额外，另外，外加（即比通常的、比所认为或所期待的、比已存在的要多）:
+adj. 比通常的（或所认为的、所期待的、已存在的）要多的，如额外的、外加的、附加的，相当于additional:
+n. [C] 被附加到某事物上的一个非通常的（或非标准的、非必要的）且造成更多花费的事物，如额外收费的事物:
+adj. 格外的，相当于additional:
+adv. 与一个形容词或副词连用，超出通常的范围或程度等，即格外，分外，特别:
+n. [C] 受雇在一部电影里扮演一个非常小的角色的一个人（通常为一个人或一群群众演员）:
+extra |['ekstrə]
+charge extra, pay extra, cost extra 另外收费；另付；额外花费 
+I need to earn a bit extra this month. 我这个月需要挣点外快。
+The rate for a room is £30, but breakfast is extra. 一个房间收费30英镑，但早餐另计。
+Breakfast is provided at no extra charge. 供应早餐，不另收费。
+extra work 额外工作 
+an extra pint of milk 外加的一品脱牛奶 
+The government has promised an extra £1 billion for health care. 政府承诺为医疗保健再拨款10亿英镑。
+Take extra care on the roads this evening. 今晚在路上要格外小心。
+Metallic paint is an optional extra.（英）喷金属漆是自由选择的，要额外收费。
+Regular guests also get added extras like free room service. 常客还可以获得额外服务，如免费客房服务。
+Optional extras include anti-lock brakes and an electric sunroof. 可选择的附加品包括防抱死制动系统和一个电动遮阳篷。
+Take extra care on the roads this evening. 今晚在路上要格外小心。
+You need to be extra careful not to make any mistakes. 你要格外小心，别犯错误。
+an extra large T-shirt 一件特大号的T恤衫 
+She tried extra hard. 她特别努力。
+
+vt.＆vi. 在一番仔细考量之后对某事物的数量、价值、品质所给出的观点，即评估，评价。词义相当于assess，且二者都极为常用。但evaluate相对正式，且assess仅为及物动词:
+evaluate |[ɪ'væljueɪt]
+to evaluate the safety of the new drug 评估这种新药的安全性 
+The evidence should be carefully evaluated. 这项证据应当仔细地鉴定。
+These probabilities can be evaluated empirically. 这些可能性可以通过实验加以验证。
+criteria used to evaluate employees’ performance 员工业绩评定标准
+
+n. [usually pl.] [非正式] 一家公司（或一个组织）中居于一个重要职位的管理人员（尤指财务方面的或拥有很大影响力的一个高管）:
+vt. 1 对某人方便或有用，可称为合适:
+2 [尤英] 通常用于否定句，对…来说正确或好，即适合，有利于:
+vt.（尤指服装、颜色等）使你看起来更有吸引力，即合身，相配:
+n. 1 [C] 用同样的布料做成的一套衣服（包括夹克和裤子或裙子），即套装，有时可指一套西装或西服:
+2 [C] 为某一活动所穿的一套衣服:
+n. [C] 一副扑克牌中任意的四种同花色的牌之一:
+n. [C] 法律诉讼或起诉，相当于lawsuit:
+suit |[sju:t]
+Choose a computer to suit your particular needs. 选一台适合你个人需要的电脑。
+If we met at 2, would that suit you? 我们两点钟见面，你方便吗？
+If you want to go by bus, that suits me fine. 要是你想坐公交车走，那对我也合适。
+It would suit me fine if I never have to see them again. 最好别再让我见到他们。
+Country life suits me down to the ground! 乡村生活对我来说再适合不过了！
+a shampoo designed to suit all hair types 适合所有发质的一款洗发水 
+This hot weather doesn’t suit me. 天这么热，我真受不了。
+Blue suits you. You should wear it more often. 你适合穿蓝色。你该多穿蓝色衣服。
+I don’t think this coat really suits me. 我觉得这件外套不适合我。
+tailored suit 定做的套装 
+summer suit 夏季套装 
+business, formal, lounge（英）suit 商务套装；正装；休闲套装 
+leisure suit（美）便服套装 
+Two men in suits came out of the hotel. 两名穿西装的男子走出了宾馆。
+a suit of armour 一套盔甲 
+bathing, swim, diving suit 泳装；游泳衣；潜水服 
+jogging（英）, ski suit 慢跑运动服；滑雪服 
+biohazard, protective suit 防化服；防护服 
+flying, pressure suit 飞行服；增压服 
+clown suit 小丑服
+The suits are called hearts, clubs, diamonds and spades. 扑克牌的四种花色分别叫红桃、梅花、方块和黑桃。
+civil suit（尤美）民事诉讼 
+divorce suit 离婚诉讼 
+antitrust, discrimination suit 反垄断诉讼；歧视诉讼 
+to bring, to file suit 提起诉讼；起诉 
+to drop suit 放弃诉讼 
+to defend suit 为诉讼辩护 
+to win suit 胜诉 
+to lose suit 败诉 
+to settle the suit 了结这场官司 
+a suit over a disputed estate 一起关于地产纠纷的诉讼 
+A suit has been filed against the company. 该公司已被起诉。
+
+n. [C] 为一家公司（或一个组织机构）工作的一个人，即雇员、职员:
+n. [C] 受某事物控制的一个人或事物:
+n. [C] 在另一个人的宅子里为其工作（例如为其做饭、做清洁等）的一个人，可称为仆人或佣人:
+servant |['sə:vənt]
+public, civil（尤英）servant 公务员 
+a servant of the people 公仆 
+farm servant（尤英）农场雇工 
+a good servant to this club 这家俱乐部的一名优秀职员
+He was willing to make himself a servant of his art. 他甘愿献身于自己的艺术。
+They treat their mother like a servant. 他们像对待佣人一样对待自己的母亲。
+loyal, male servant 忠诚的仆人；男仆 
+personal, household servant 私人侍从；家仆 
+palace, royal servant 王宫仆从；王室仆从 
+a servant of God 神职人员
+
+the day of the week before Thursday and following Tuesday:周四前一周的一天和下周二
+on Wednesday:周三
+on Wednesdays, each Wednesday:每周三，每周三
+Wednesday |ˈwɛnzdeɪ| Adverb/Noun/:,星期三
+a report goes before the councillors on Wednesday:a报告于周三提交给议员
+see you Wednesday:周三见
+Wednesdays, the jazz DJ hosts a jam session:Wednesdays，爵士DJ主持即兴演奏会
+
+prep. 以同样的名字命名:
+prep. 关于…:
+prep. 与…对照或对比:
+prep. ... after ... 用于表明某事多次（或不断地）发生:
+prep. 1（时间）在…以后。是一个常规用词:
+2 after- 构成形容词，指发生在（某时或某事）之后的:
+conj. 在（某时或某事）之后:
+adv. 后来，以后:
+adj. [旧时] 只用于名词前，以后的，后来的:
+prep. 尝试去找到…:
+prep. 由于（或鉴于）已发生的事:
+prep. 尽管，虽然（发生了某事）。不常见:
+prep.（次序或重要性）挨着…并在其后面，即仅次于:
+prep. 以某人（或某事物）的方式，模仿，仿照:
+prep.（某人离开后）跟在其后面（或在其身后喊叫、瞪眼等）:
+prep. 表示某地在另一地以外的更远的某处:
+prep. 尝试去找到、得到或抓住…:
+prep. 尝试去抓住…。仅表示“追捕”的过程，而不表示追捕的结果（seize、get等词仅表示“已经抓住”，是一种结果）:
+prep. 写在（页面上某内容的）后面或下面:
+prep.（重要性）挨着…并在其后面，即仅次于:
+after |['ɑːftə]
+He persuaded Virginia to name the baby after him. 他劝弗吉妮亚给孩子命以他的名字。
+She asked after you (= how you were). 她问候你。
+It was pleasantly cool in the house after the sticky heat outside. 与户外的湿热相比，屋里真是凉爽惬意。
+day after day of hot weather 日复一日的炎热天气 
+time after time 一再
+We’ll leave after lunch. 我们将在午饭后动身。
+After winning the prize she became famous overnight. 她获奖后一夜之间成名了。
+an after-school club 课外活动俱乐部 
+after-dinner mints 餐后薄荷糖 
+I’ll call you after I’ve spoken to them. 我和他们谈了以后就给你打电话。
+soon after 不久以后 
+ever after 从此以后 
+Tomorrow. Or the day after. 明天。或者后天。
+in after years 在以后的岁月中
+The police are after him. 警方正在追捕他。
+He’s after a job at our place. 他到我们这儿找工作。
+I’ll never forgive him after what he said. 由于他说了那些话，我永远也不会原谅他。
+Your name comes after mine in the list. 在名单上你的名字在我的后面。
+He’s the tallest, after Richard. 除了理查德，他的个子最高。
+After you. 请您先走。
+After Germany, America is Britain’s second-biggest customer. 仅次于德国，美国是英国的第二大客户。
+a painting after Goya 一幅仿戈雅的画  
+Shut the door after you. 随手关门。
+I’m always having to clean up after the children. 孩子们离开以后，我总得打扫一番。
+He ran after her with the book. 他拿着那本书在后面追赶她。
+She was left staring after him. 她目不转睛地望着他离去的背影。
+“Come back!” he called after me.“回来！”他在我身后冲我喊。
+a station 134 miles after the train starts its journey 在火车出发后的134英里以外的一个车站 
+The police are after him. 警方正在追捕他。
+He’s after a job at our place. 他到我们这儿找工作。
+They were after the money. 他们想得到这笔钱。
+The police are after him. 警方正在追捕他。
+I wrote my name after Tom’s at the bottom of the page. 我把我的名字写在了这页最下面汤姆的名字之后。
+After Germany, America is Britain’s second-biggest customer. 仅次于德国，美国是英国的第二大客户。
+
+vt.＆vi. 努力去做某事（尤指难事）:
+n. [C] attempt (on sth) 为超越某事物所付出的努力（例如在一场体育比赛中的出色表现）:
+n. [C] attempt (on sb/sb’s life) 杀人企图:
+vt.＆vi. 尝试去做某事（尤指难事）:
+attempt (at sth/at doing sth) 对某事（尤指难事）所进行的尝试（常以失败而告终）:
+attempt |[ə'tempt]
+I will attempt to answer all your questions. 我将努力回答你的所有问题。
+his attempt on the world land speed record 他为创造陆上速度世界纪录所做的努力 
+Someone has made an attempt on the President’s life. 有人企图刺杀总统。
+Do not attempt to repair this yourself. 不要试图自己修理这个东西。
+The prisoners attempted an escape, but failed. 囚犯企图逃跑，但失败了。
+Two factories were closed in an attempt to cut costs. 为削减成本，关闭了两家工厂。
+I passed my driving test at the first attempt. 我考汽车驾驶执照一次就通过了。
+vain attempt 徒劳之举 
+escape, rescue, suicide attempt 逃跑企图；救援努力；自杀企图
+
+retire (as sth)（尤指因达到某一年龄或由于疾病而）退职，辞职；使退职，使辞职:
+vi. [正式] 离开一个地方（尤指去一个更安静或更私密的地方）:
+vi. [正式] 军队从战斗中撤退（以进行休整）:
+vi. retire (from sth) 体育运动中（常指因伤）退出比赛:
+vi. [文学] 上床睡觉，就寝:
+retire |[rɪ'taɪə]
+vt.＆vi. retire (from sth) 
+retiring age 退休年龄 
+In a few years, I’ll be eligible to retire. 再过几年我就可以退休了。
+He officially retired from the day-to-day operations of his company. 他正式退出了公司的日常运营。
+The jury retired to consider the evidence. 陪审团退庭对证据进行评判。
+After dinner he likes to retire to his study. 晚饭后，他喜欢躲到书房里去。
+She fell badly, and had to retire from the game. 她摔得很重，只好退出比赛。
+He was forced to retire because of injury at the age of 26. 他26岁时因受伤而被迫退出。
+I retired late that evening. 那天晚上我睡得晚。
+
+vi. 1 return (to ...) (from ...) 回来，回去，返回:
+2（感觉或特质）重现，恢复，相当于reappear或resurface:
+3 return (to sth) 重新讨论先前的话题，或重新回到先前的活动:
+4 return to sth 恢复到先前的状态:
+vt. return sb/sth (to sb/sth) 带回，送回，归还:
+n. 1 [C] 单数名词，return (to ...) (from ...) 回来，返回，归来:
+2 [U, sing.] 归还，退回，放回:
+3 [C] 单数名词，return (of sth) 感觉或状态的恢复，重现，相当于reappearance:
+4 [C] 单数名词，return to sth 先前的情况或活动的恢复:
+vt.（以相同的事物或行为来）回报，回应:
+n. [C] 回报，回应:
+n. [C] 剧院或体育赛事的退票:
+n. [U] 返回键，回车键:
+n. [C] 向政府或其它机构提供某种信息的一份正式报告或陈述:
+vt. return sb/sth (to sb/sth) 送回，归还:
+n. [U, sing.] 归还，退回，放回:
+vi.（身体状态）重现，恢复，相当于reappear或resurface。需要注意的是，该词指的是“恢复”到原来的状态，如果原来的状态是疾病或疼痛，那么恢复的结果也是疾病或疼痛。所以该词并非纯粹表示“疾病痊愈”:
+n. [C] 单数名词，return (of sth) 身体状态的恢复，重现，相当于reappearance:
+n. [C] 体育赛事的退票:
+vt. 网球中将球击回:
+n. [C] 网球和一些其他运动中的击回球:
+vt. 商业领域可指带来（或产生）利润或损失:
+n. [U, C] 利润上的回报，收益，是金融领域表示“收益”的专业用词，常见于各种金融术语，强调该利润是对于投资者的一种回报。单从词义上看，相当于earnings或yield:
+return sb (as sth) 英式英语中可指政治选举，常用被动式:
+vt. return a verdict 指法官或陪审团应正式请求而“宣告”一个裁决:
+n. [C] 往返票:
+return |[rɪ'tə:n][rɪ'tə:n]
+I returned from work to find the house empty. 我下班回来，发现屋里空无一人。
+to return to his seat 回到他的座位上 
+She had recently returned from Paris. 她最近刚从巴黎回来。
+to return to boxing 重返拳坛 
+My strength was slowly returning to me. 我的体力慢慢恢复了。
+Her symptoms returned periodically. 她的症状时不时地出现。
+His conversation returns repeatedly to the same subjects. 他谈话时总是反复回到相同的主题上。
+Lack of cash forced her to return to work. 因为缺钱，她不得不回去工作。
+Train services have returned to normal after the strike. 罢工过后，列车运营已经恢复正常。
+He refused to return my money. 他拒绝归还我的钱。
+The asylum seekers are to be forcibly returned to their home countries. 寻求政治庇护者将被强制遣返回原籍国。
+He promised to visit us on his return. 他答应一回来就来看我们。
+I saw the play on its return to Broadway. 这部戏重回百老汇时我看了。
+return date 返回日期 
+return flight, return journey, return trip 返程航班；回程 
+return ticket 返程票 
+The judge ordered the return of the child to his mother. 法官命令将孩子送还他的母亲。
+He demanded the return of his money. 他要求归还他的钱。
+the return of spring 春之归来 
+a return of my doubts 我的疑心又起 
+his return to power 他的重新掌权 
+a full return to health 完全恢复健康 
+the player’s return to top form 选手恢复最佳状态 
+a return to profitability 重新开始盈利 
+a return to traditional living 回归传统生活方式
+to return a favour, to return a greeting, to return a stare 报答；回应问候；回瞪一眼 
+It’s time we returned their invitation. 该我们回请他们了。
+He did not return her love. 他没有回报她的爱。
+to returning the compliment 回应称赞 
+Kevin gladly returned her hug. 凯文高兴地回了她一个拥抱。
+to return her call, to return her messages 给她回电话； 回复她的短信 
+to return fire 用枪炮还击
+return address, return call, return email, return message 回信地址；电话回话；回复的电子邮件；回复的信息 
+She gave them help, and asked for nothing in return. 她帮助了他们，而且不求回报。
+To exit this option, press return. 要退出这个选项，就按返回键。
+census returns 人口普查报告 
+election returns 选举结果报告
+He refused to return our money. 他拒绝归还我们的钱。
+She never returned the book to me. 她从未把那本书还给我。
+to return the goods to the store 把货退给商店 
+the return of books to the library 将书归还图书馆 
+He demanded the return of his money. 他要求退还他的钱。
+the return of his property 归还他的财产 
+the return of the child to his mother 将孩子送还给他的母亲
+My strength was slowly returning to me. 我的体力慢慢恢复了。
+Her symptoms returned periodically. 她的症状时不时地出现。
+His headache returned instantly. 他很快头痛复发了。
+the tears that threatened to return 眼看又要流出来的眼泪 
+a full return of health 完全恢复健康
+to return a service, to return a shot 击回发球；击回抽球 
+a powerful return of serve 有力的迎击发球
+to return a high rate of interest 有很高的利息回报 
+The company returned a loss of £1 million. 公司亏损达100万英镑。
+economic, financial return 经济收益；财务回报 
+investment return 投资回报 
+fast, quick return 快速的回报 
+annual return 年收益 
+expected return 预期收益 
+net return 净收益 
+a high rate of return on capital 资本的高回报率
+vt. return sb (to sth) 
+The jury returned a verdict of not guilty. 陪审团做出了无罪判决。
+‘Brighton, please.’ ‘Single or return?’ “买一张到布赖顿的票。”“单程的还是往返的？”
+the return fare to London 到伦敦的往返票价 
+day, period return 当日往返票；限期往返票 
+economy return 经济舱往返票 
+
+vt. [正式] 赞扬（或歌颂、颂扬）…:
+vt.＆vi. 通过做某件特别的事来表明一天（或一个活动）是重要的，即庆祝、庆贺:
+vt. 主持宗教仪式（尤指圣餐）:
+celebrate |['selɪbreɪt]
+a movie celebrating the his life and work 颂扬他生平事迹的影片
+Jake’s passed his exams. We’re going out to celebrate. 杰克已通过考试，我们要出去庆祝一下。
+We celebrated our 10th wedding anniversary in Paris. 我们在巴黎庆祝结婚10周年。
+to celebrate New Year 庆贺新年
+
+switch (sth) (over/around/round) 做一小段时间其他人的工作（或在不同的时间工作）以使其他人能够在你通常工作的时间做你的工作，即调班，或称临时调换工作时间，相当于swap:
+switch sth (over/around/round) 交换；掉换；对调。相当于swap:
+switch (between A and B)（从一者到另一者）转变或转移；使…（从一者到另一者）转变或转移:
+switch (from A to B) 指从一者到另一者所进行的转变（尤指突然且彻底的转变）:
+n. [C] 电路的开关（如按钮式开关）；上下扳动的（电力设备或机器的）闸:
+n. [C] 细且易于弯曲的棍子:
+n. [C] [美]（铁路的）转辙器，道岔:
+switch |[swɪtʃ]
+vt.＆vi. switch (sth) (with sb) 
+I can’t work next weekend--will you switch with me? 下周末我不能上班——咱俩调个班好吗？
+vt. switch sth (with sth) 
+The dates of the last two exams have been switched. 最后两门考试的日期调换了。
+I see you’ve switched the furniture around. 我看出来你把家具重新摆设了。
+We asked them if they would switch places with us. 我们问他们是否愿意和我们互换座位。 
+vt.＆vi. switch (sth) (over) (from sth) (to sth) 
+to switch to a market economy 向市场经济转变 
+to switch between documents on screen 在屏幕上的文件之间切换 
+to switch between TV channels 切换电视频道 
+When did you switch jobs? 你们什么时候调动工作的？
+My mother’s interest had switched to my health. 我母亲的兴趣已转移到我的健康上来了。
+My mind suddenly switched back to my conversation with Jeremy. 我的思绪突然回到了与杰里米的谈话上。
+He decided to switch tactics. 他决定改变策略。
+He switched his allegiance from the British to the French. 他不再效忠英国，转而效忠法国。
+She made the switch from full-time to part-time work. 她从全职工作转为兼职工作。
+a policy switch 政策的转变 
+a tactical switch（尤英）战术的转变 
+He’s a classical singer who has made the switch over to pop. 他是古典歌手，已改唱流行歌曲。
+their abrupt switch in allegiance 他们立场的突然转变
+a light switch 电灯开关 
+master, power switch 总开关；电源开关 
+electric, electrical switch 电开关；电气开关 
+the switch for the air conditioning 空调的开关
+a riding switch 马鞭
+
+vt. 解决（问题）。有一种“纠正”的色彩。不太常用:
+n. [C] cure (for sth)（问题等的）解决方法，或（糟糕状况等的）改善措施:
+vt. cure sb of sth 纠正某人的行为（尤指纠正不良行为）:
+vt.（用干燥、烟熏、腌制等方法）加工处理食物（以使其能够长久保存）:
+vt.（用干燥、烟熏、腌制等方法）加工处理食物、烟草、动物皮等（以使其能够长久保存）:
+vt. 1 治愈（疾病或损伤）:
+2 治愈（患病或受伤的人或动物）:
+n. 1 [C] cure (for sth)（治愈伤病的）药物或疗法。表“疗法”时，treatment一般指具体的疗法种类或名称，而cure常表示疗法的有效程度:
+2 [C] 治疗，或治愈的过程:
+cure |[kjʊə]
+to cure the country’s economic troubles 解决该国的经济困难
+the magic cure for inflation 解决通货膨胀的神奇方法 
+a cure for poverty 解决贫困问题的措施 
+Science cannot provide a cure for all the world’s problems. 科学不可能解决世界上所有的问题。
+to cure him of drinking 纠正（或戒掉）他的饮酒习惯
+The meat was cured and smoked over the fire. 肉在火上经过了烟熏处理。
+The meat was cured and smoked over the fire. 肉在火上经过了烟熏处理。
+to cure his injury 治愈他的伤 
+This disease cannot be cured. 这种病治不好。
+Will you be able to cure him, Doctor? 医生，你能把他治好吗？
+He was now completely cured of his illness. 他现在彻底痊愈了。
+instant, miracle, wonder cure 快速疗法；神奇疗法；特效疗法 
+rest cure 静养疗法 
+There is no known cure for the disease. 这种疾病目前还无法医治。
+If the disease is detected early, it has a cure. 如果早点发现，这病是可以医治的。
+No one can effect a cure if the disease has spread too far. 如果这种疾病已严重扩散，那么没有人能够医治。
+These drugs can sometimes effect miraculous cures. 这些药有时有神奇的疗效。
+miraculous cure 奇迹般的痊愈 
+complete, permanent cure 完全治愈；根治 
+
+adj. 常用于名词前，最初发展（或发生）的、最早的。不如initial常用:
+adj. [尤英] 只用于名词前，与大约五到十一岁的儿童教育有关的，如初等教育的、小学教育的:
+n. [C] 也可用primary election，在美国可指某一地区举行的初选（该初选会选出候选人以参加将来的一场重要选举）:
+adj. 常用于名词前，主要的、最重要的、基本的，相当于prime:
+primary |['praɪmərɪ]['praɪmərɪ]
+primary causes 最初的原因 
+The disease is still in its primary stage. 这病尚处于初始阶段。
+primary teachers 小学教师
+the Illinois primary 伊利诺伊州的初选 
+the presidential primaries 总统候选人初选
+the primary aim of this course 这门课的主要目的 
+Our primary concern must be the children. 我们首先要关心的必须是儿童。
+Good health care is of primary importance. 良好的医疗保健是重中之重。
+
+vt. 记下或记载、记录（日记、账目、记录等）:
+keep sth secret (from sb) 保守（秘密）:
+vi. keep off sth、keep away from sth或keep out of sth 可指避开…。一般表示一种状态:
+vt. [正式] keep sb (from sth) 保护某人使其免受或免遭…:
+keep an appointment 恪守（承诺）；遵守（约定）。是一个简单用词:
+vt.＆vi. 1 处于某种条件、状态或位置；使…处于某种条件、状态或位置。即保持。是一个简单用词:
+2 留在（或被留在）某一位置或地点:
+vi. keep (on) doing sth 继续做某事；重复做某事:
+vt. 使某人耽搁或延误。是一种主动耽搁、耽误（造成耽搁的因素常是事件）:
+vt. [正式] keep sb (from sth) 阻止。是一个简单用词:
+vt. 1 继续持有或保有…而不退还（或不扔掉），继续控制，即留着:
+keep sb sth 为某人保留或留下:
+3 把…放置（或存放）在某处:
+n. [U] 一个人的生活必需品（如食物、衣服等）:
+vi.（食物）保持不坏。是一个基础用词:
+vt. [英] 供养（某人的生活），养活（如为其花钱买食物等）:
+vt. 1 继续持有或保有…而不退还（或不扔掉），继续控制，即留着:
+keep sb sth 为某人保留或留下:
+3 把…放置（或存放）在某处:
+vi. [非正式] 用于询问或谈论某人的健康:
+vt. [英] keep a goal/wicket（在足球、曲棍球、板球等体育运动中）把守球门，即守门:
+vt. 拥有并照顾动物，即养，饲养:
+n. [U] 一个人的生活必需品（如食物、衣服等）；还可指这些生活必需品的费用或成本:
+vt. [尤英] 拥有并管理（一家商店或餐馆）:
+n. [C] 中世纪城堡的主楼（供人们居住）:
+keep |[ki:p][ki:p]
+to keep a diary, to keep an account, to keep a record 记日记；记账；做记录 
+Keep a note of where each item can be found. 把每样物品的位置记录下来。
+vt. keep a secret 
+Can you keep a secret? 你能保守秘密吗？
+She kept her past secret from us all. 她对我们所有人都避而不谈她的过去。
+She knew that Tom was keeping something from her. 她知道汤姆正有事瞒着她。
+to keep off sweet foods 不吃甜食
+May the Lord bless you and keep you. 愿上帝祝福你、保佑你（用于基督教的祈祷）。
+to keep the boy from harm 不让这个男孩受到伤害
+vt. keep your promise/word 
+She kept her promise to visit them. 她遵守诺言去看望了他们。
+He failed to keep his appointment at the clinic. 他未能按预约的时间去诊所。
+to keep balance 保持平衡 
+to keep warm 保暖 
+He kept his coat on. 他一直穿着外套。
+I’m very sorry to keep you waiting. 对不起，让你久等了。
+The noise kept him awake. 噪音让他一直睡不着。
+Keep away from the doors while the train is moving. 列车运行时请远离车门。
+He kept his head down, hiding his features. 他一直低着头藏住脸。
+Keep smiling! 要保持笑容！
+Don’t keep on interrupting me! 别老是跟我打岔！
+She forced herself to keep going. 她强迫自己坚持下去。
+You’re an hour late--what kept you? 你晚了一小时——什么事把你给耽误了？
+Sorry to keep you, Jack. 抱歉耽搁你了，杰克。
+Embarrassment has kept me from doing all sorts of things. 难为情使得我什么也做不了。
+Here’s a five dollar bill--please keep the change. 这是一张五元的钞票——零钱就不用找了。
+I keep all her letters. 我把她所有的信都保留着。
+to keep a tight grip on a country 牢牢控制一个国家 
+Please keep a seat for me. 请给我留个座位。
+Keep your passport in a safe place. 把你的护照放在安全的地方。
+She kept her money under the mattress. 她把钱存放在床垫下面。
+Finish off the pie--it won’t keep. 把馅饼都吃了吧——搁不住。
+Milk should keep well in a refrigerator. 牛奶应该放在冰箱里保存。
+He scarcely earns enough to keep himself and his family. 他挣的钱几乎不够养活他自己和家人。
+I just cannot afford to keep myself. 我连自己也养活不。
+Here’s a five dollar bill--please keep the change. 这是一张五元的钞票——零钱就不用找了。
+I keep all her letters. 我把她所有的信都保留着。
+to keep a tight grip on a country 牢牢控制一个国家 
+Please keep a seat for me. 请给我留个座位。
+Keep your passport in a safe place. 把你的护照放在安全的地方。
+She kept her money under the mattress. 她把钱存放在床垫下面。
+How is your mother keeping? 你母亲身体好吗？
+We’re all keeping well. 我们都很健康。
+She hasn’t been keeping too well lately. 她最近身体一直不太好。
+to keep chickens, to keep bees, to keep goats 养鸡；养蜜蜂；养山羊
+He will earn his keep on local farms while studying. 学习期间，他将在当地农场赚取生活费。
+to keep a grocer’s shop 开个杂货店
+the first stone-built castle keep in Britain 英国第一座石建中世纪城堡主楼
+
+n. [C] 人类组织的金字塔形结构或组织系统:
+n. [C] 几何学中的角锥体（其底面可以是正方形，也可以是三角形等）:
+n. [C] 金字塔形（或角锥形）的一堆东西:
+n. [C] 金字塔形（或角锥形）的一个物体或一堆东西:
+n. [C] 金字塔:
+pyramid |['pɪrəmɪd]
+to be set at the top of the social pyramid 位于社会金字塔的顶层 
+a management pyramid 金字塔式的管理体系
+a pyramid of cans 被摆成金字塔形的罐头 
+The plate was piled a pyramid of food. 盘子里的食物堆成了金字塔形。
+a pyramid of cans 被摆成金字塔形的罐头 
+The plate was piled a pyramid of food. 盘子里的食物堆成了金字塔形。
+the Pyramids and Sphinx 金字塔和狮身人面像
+
+vt.＆vi. 常与can，could或be able to连用，尤用于否定句或疑问句，指有足够的时间去做某事，即花得起时间，无被动式:
+vt.＆vi. 常与can或could连用，尤用于否定句和疑问句，指承担得起后果，无被动式:
+vt. 将…提供给某人，为正式用法。主语可以是物:
+vt.＆vi. 常与can，could或be able to连用，尤用于否定句或疑问句，指买得起，其主语是人。无被动式:
+afford |[ə'fɔ:d]
+She felt she couldn’t afford any more time off work. 她觉得再也抽不出时间歇班了。
+They could ill afford to lose any more staff.（正式）他们再也损失不起任何员工了。
+We cannot afford to ignore this warning. 我们对这个警告绝不能等闲视之。
+We cannot afford any more delays. 我们不能再有任何耽搁了。
+The tree affords some shelter from the sun. 这棵树可以挡一挡太阳。 
+I couldn’t afford £50 for a ticket. 我拿不出50英镑买一张票。
+I couldn’t possibly afford to eat in that restaurant. 那家饭馆我根本吃不起。
+She can well afford to pay for herself. 她自己完全能够付得起钱。
+
+vt. 完全与某人断绝关系:
+vt. cut sb (from sth) 割断束缚某人的绳子等物品（而让其逃跑）:
+vt.（尤指用锋利或尖利的工具，如刀或剪刀等）在某物上弄出一个口子或伤口:
+n. [C] 由锋利物品所造成的开口或破口:
+n. [C]（尤指钱的）份数，份额。不太常用:
+cut sth (from ...) (to ...) 减少，削减。是一个形象化用词:
+n. [C] cut (in sth)（数量、尺寸、供给等的）减少，削减:
+vt. cut sth (in/into sth) 用刀等将某物切成若干份:
+vt.（在感情上）伤害某人。是一种形象化用法:
+vt. cut sth (from sth) 删除，删减，删节:
+n. [C] cut (in sth) 对电影、戏剧、文章等所做的删减，删节:
+vt. 1 [非正式] 让人停止做某事:
+2 完全与某人终止沟通:
+vt. cut sb/sth off 打断:
+vt. cut sb/sth off 阻断去路:
+vt. 将头发、指甲等剪短，即修剪:
+n. [usually sing.] 理发；或理出来的发型:
+vi. cut (from sth) to sth（电影、电视或无线电广播中）切换场景:
+vt. 剪裁服装，常用被动式:
+n. [C] 从动物躯体上割下的一块肉:
+n. [usually sing.]（服装所剪裁出来的）式样或款式:
+vt. 1 电影、磁带等的剪辑，剪接:
+2 cut sth (from sth) 删减（电影）:
+n. [C] cut (in sth) 对电影等所做的删减，删节:
+vt.＆vi.（纸牌游戏中可指为了决定谁先出牌而）切牌或抽牌:
+vt.（几何学中可指一条线与另一条线）相交:
+vt.＆vi. 对文档等进行剪切:
+vt. 完全与某人终止沟通:
+cut sth (for sb) 用刀等从某物上切下，割下:
+2 cut sth (in sth) 用刀等将某种材料切、削、剪、凿等成某个形状:
+3 将头发、指甲、草等剪短，即修剪:
+vi. 1 能够切割，或能够用于切割:
+2 能够被切割:
+vt.（尤指用锋利或尖利的工具，如刀或剪刀等）在某物上弄出一个伤口:
+n. [C] 由锋利物品所造成的伤口:
+vt. cut a tooth 开始长出（新牙）:
+vt. cut a disk, etc. 灌制唱片，制作激光唱片等:
+vi. 1（通常用于指令）停止拍摄或录音、录像:
+2 cut (from sth) to sth（电影、电视或无线电广播中）切换场景:
+cut sth (from ...) (to ...) 减少，削减。是一个形象化用词:
+vt. [尤美，非正式] 旷课，逃学:
+vt. cut sth (with sth) 把毒品（如海洛因等）与另一种物质混合:
+cut |[kʌt]
+She has cut the tie with her mother. 她已经和她的妈妈断绝了关系。
+The driver was cut from the wreckage. 司机是别人将汽车残骸割开后被救出的。
+to cut through the metal 切割金属 
+He cut his finger on a piece of glass. 一块玻璃把他的手指划破了。
+He had fallen and cut his head open. 他跌了一跤，把头磕破了。
+She picked up the knife and cut into the meat. 她拿起刀来切入肉中。
+The boat cut through the water.（比喻用法）船划破水面而行。
+Make a small cut in the shell with a knife. 用刀子在这个壳上切一个小口。
+a clean cut 光洁的切口
+The agency has taken a cut of the money awarded to its client. 这个代理商已从奖给其客户的钱中抽取了一份。
+He takes a cut of the profits. 他获得了一份利润。
+vt. cut sth (by ...) 
+to cut prices 减价 
+to cut taxes 减税 
+to cut spending 削减开支 
+to cut the cost 削减成本 
+to cut production 削减产量 
+to cut salary 减薪 
+I’m trying to cut down on fatty foods. 我现在尽量少吃含脂肪多的食物。
+Social work services have been cut back drastically. 社会工作机构已被大量裁减掉。
+His career was cut short by injury. 他因伤提早结束了职业生涯。 
+cost, price, pay, spending cut 成本削减；减价；减薪；开支缩减 
+budget, job, staff cut 预算削减；工作岗位削减；裁员 
+a 1.5 percent cut in interest rates 利率下调1.5% 
+to cut the apple in half 把苹果切成两半 
+to cut the meat into slices 把肉切成片 
+to cut the string 剪断绳子 
+I can’t cut through this wood. 我劈不开这块木头。
+The bus was cut in two by the train. 那辆公交车被火车撞成了两截。
+His remarks cut her deeply. 他的那些话深深伤害了她。
+The scene was cut from the movie. 这场戏在这部电影中被删除了。
+to cut the essay from 8 000 to 5 000 把这篇文章从8000字删减到5000字
+to make some cuts in the text 对文本做些删节
+Cut the chatter and get on with your work. 别闲聊了，继续干活儿吧。
+His thoughts were abruptly cut off by a blinding flash of pain. 一阵令人眼前一黑的疼痛突然打断了他的思绪。
+They were completely cut off from the outside world. 他们完全与世隔绝了。
+to cut your nails 剪指甲 
+I wanted my hair cut short. 我想把头发剪短。
+$30 for a cut and blow-dry 剪吹价格30美元 
+My hair could do with a cut. 我该理发了。
+hair cut（通常用haircut）理发；发型 
+short cut 短发 
+crew cut 平头
+The scene cuts from the classroom to the playground. 镜头从教室切换到操场。
+The dress was cut high in the leg. 这件连衣裙的腿部开口很高。
+a cheap cut 一块便宜的肉 
+a good cut of beef 一块上好的牛肉
+the elegant cut of her dress 她的连衣裙的优雅款式 
+The scene was cut from the movie. 这场戏在这部电影中被删除了。
+Place the cards face down on the table and cut them. 把扑克牌正面朝下放在桌上，然后切牌。
+The line cuts the circle at two points. 这条线与圆相交于两点。
+You can cut and paste between different programs. 你可以在不同的程序之间剪切和粘贴。
+vt. 1 cut sth (from sth) 
+cut (sb) sth 
+to cut a slice from the loaf 从一条面包上切下一片 
+to cut them all a piece of birthday cake 给他们每人切一块生日蛋糕 
+a bunch of cut flowers 一束剪下的花朵 
+Some trees had been cut down. 有些树已被砍倒了。
+to cut a hole in the pipe 在管子上切开一个口子 
+The climbers cut steps in the ice. 登山者在冰上凿出供脚踩的台阶。
+to cut your nails 剪指甲 
+to cut the lawn 修剪草坪 
+I want my hair cut short. 我想把头发剪短。
+to cut away branches from the tree 修剪树枝 
+This knife won’t cut. 这把刀不快。
+The stone cuts easily. 这种石头易于切割。
+He cut his finger on a piece of glass. 一块玻璃把他的手指划破了。
+He cut himself shaving. 他刮胡子把脸刮破了。
+He had fallen and cut his head open. 他跌了一跤，把头磕破了。
+Blood poured from the deep cut on his arm. 鲜血从他手臂上的深深的伤口中涌出。
+He has a small cut on his finger. 他手指上划了一个小口。
+Clean the cut and cover it to prevent infection. 洗净伤口并包扎起来以防感染。
+to cut his first tooth 长出他的第一颗新牙
+to cut a disk 灌制唱片
+The director shouted ‘cut!’ 导演大声喊道“停！” 
+The scene cuts from the classroom to the playground. 镜头从教室切换到操场。
+vt. cut sth (by ...) 
+to cut prices 减价
+to cut class 旷课
+
+vt. 1（官方或正式地）禁止，取缔，相当于prohibit。与forbid相比，ban和prohibit具有更强的法律色彩（但此时prohibit还可以是不及物动词）:
+2 ban sb from sth/from doing sth 常用被动式，（尤指正式地）指示某人不要做某事或去某地，即禁止:
+n. [C] ban (on sth) 官方或正式的禁令:
+ban |[bɑːn]
+Chemical weapons are banned internationally. 国际上禁止使用化学武器。
+to ban online gambling 禁止网上赌博 
+to ban tobacco advertising 禁止烟草广告 
+He was banned from the Olympics for failing a drug test. 他因为药检不合格而被禁止参加奥运会比赛。
+He was banned from the meeting. 他被取消了出席会议的资格。
+He was banned from driving for six months.（英）他被禁止驾驶六个月。
+She’s been banned from leaving Greece. 她被禁止离开希腊。
+a ban on smoking 禁烟令 
+overtime ban 禁止加班 
+driving ban 禁驾令 
+a nuclear test ban treaty 禁止核试验条约 
+The ban on exports has been eased. 出口禁令现在已经松动。
+
+n. [C] [过时，正式] tablet of soap 一块肥皂:
+n. [C]（与药片或药丸形状相似的）其他物质的丸片:
+n. [C] [尤英] 药片，片剂，此时相当于pill:
+n. [C] 在纸张发明出以前，用于铭刻文字的黏土制成或石头制成的碑，匾；现尤用于指固定在墙上用以纪念重要的人或事件的一块碑，匾，牌:
+n. [C] [美] 便笺本:
+tablet |['tæblɪt]
+water purification tablets 净水丸
+half a tablet of aspirin 半片阿斯匹林 
+Take two tablets with water before meals. 每次两片，饭前用水送服。
+sleeping, vitamin tablet 安眠药片；维生素片
+clay, stone, wax tablet 泥碑；石碑；板状蜡碑 
+ancient tablet 古老的碑文 
+We had a memorial tablet put up on the church wall. 我们在教堂墙上挂了一块纪念牌匾。
+
+n. [C, U] 公司、团体或组织的负责人，领导人:
+vt. 领导，掌管。是“领导”的形象化用词，不如lead常用:
+vt. 在页面的顶端或书籍的前部加标题，常用被动式:
+n. [C] 常用单数，head (of sth) 指在一个长而细的物体上，较宽大的一端:
+vi. 表示朝某个方向移动或行进:
+n. [C] 单数名词，指啤酒上面的泡沫:
+n. [C] 单数名词，a head of steam表示在一个密闭空间内的蒸汽压力:
+n. [C] head (of sth) 指植物茎的前端的叶球或头状花序:
+n. [C] 单数名词，the head of the river 指河流的源头，与source同义:
+n. [C] a head 为单数名词，可表示一种量度，指如人或动物的一个头的长度或高度:
+n. [C] 复数名词，head of sth 表示农场或牧群等的牲畜的数目，即头:
+n. [C] 头脑，脑筋，即思考的能力:
+n. [C] 单数名词，the head of sth 指一排人（或车辆）的领头位置:
+vt. 位于名单的排行之首，或排在一队人的前头:
+n. [C] 单数名词，head of sth 指某事物的顶端或最上端:
+n. [C] 单数名词，the head of the table 指桌子周围最重要的一个座位，即上座:
+n. [C] 身体的头部，头。在一般的用法中，几乎是此义的唯一用词（因为其它表示“头”的词极不常用）:
+n. [C] 常用复数，为非正式用法，指持续性的头痛，与headache同义:
+n. [C] 皮肤上斑块儿的脓头，内有黄色液体:
+vt. 足球运动中用头顶球:
+n. [C] 录音机或录像机的磁头:
+n. [U] 复数形式heads可表示硬币上有头像的一面，即正面:
+n. [C] 英式英语中可指学校的校长或院长，常写作Head。是一个简单用词:
+n. [C, U] 政治首脑，是一种比喻用法:
+n. [C] 短语的中心成分，其和整个短语具有相同的语法功能:
+head |[hed][hed]
+department head 部门领导 
+head coach, head teacher（英）, head waiter 主教练；校长；侍者领班 
+head boy (= in a school)（英）男班长 
+the head of the family 一家之主 
+the head of the group 小组组长；集团首领 
+He is only the nominal head of the company. 他只不过是公司的挂名领导罢了。
+to head a research team 领导一个研究小组
+One chapter is headed, “Born to be happy.” 有一章的标题是“天生快乐”。
+the head of a nail 钉子的头
+to head north 朝北走 
+Let’s head back home. 我们回家吧。
+He turned and headed for the door. 他转身朝门口走去。
+Where the market is heading (for)?（比喻用法）市场将朝着什么方向发展？
+She’s a head taller than her little sister. 她比妹妹高出一头。
+12 head of sheep 12头羊
+to keep a clear head 保持清醒的头脑 
+He has a good head for figures. 他很有数学头脑。
+I wish you’d use your head. 我希望你能动动脑子。
+It never entered my head that he might be lying. 我从未想过他会是在撒谎。
+I can’t get that tune out of my head. 我无法忘掉那首曲子。
+Try to put the exams out of your head for tonight. 今晚尽量别去想考试的事。
+He made his way to the head of the line. 他来到队伍的最前端。
+to head the list 位于名单之首 
+to head a march 在游行队伍前列
+at the head of the page 在页眉处 
+The football team was at the head of the league. 这支球队在联赛中排名榜首。
+to sit at the head of the table 坐在上座
+to turn one’s head 转过头 
+throbbing head 头一抽一抽地作痛 
+head injury 头部受伤 
+He could feel his head spinning. 他觉得天旋地转。
+He put his head around the door. 他从门后探出头来。
+a bad head 头很痛
+He headed the ball into the goal. 他把球顶进了球门。
+Heads or tail? 正面还是反面？
+I called heads and it came down tails. 我要了正面，可落下来却是反面朝上。
+the deputy head 副校长
+a head of government, a head of state 政府首脑；国家元首 
+titular head of the Church of England 英国国教名义上的领袖
+
+n. [C]（有时具有冒犯性）1 一个来自国外的人，即外国人:
+2 不属于某地的一个人，如外地人、外来人，此时不太如stranger常用:
+foreigner |['fɒrɪnə]
+to become friends with foreigners 同外国人成为朋友 
+to be regarded as a foreigner by the local folk 被当地人视为外地人
+
+adj. 1 willing (to do sth) 常不用于名词前，愿意（或乐意）做某事的:
+2 常用于名词前，不需要别人去劝说就准备或乐于提供帮助的，即自愿的，乐于提供帮助的:
+adj. 以热情的方式被执行或被给予的，如积极的:
+willing |['wɪlɪŋ]
+I’m perfectly willing to discuss the problem. 我十分乐意讨论这个问题。
+She is always willing to help. 她总是乐于助人。
+willing helpers, willing volunteers 主动帮忙的人；志愿工作者 
+willing support 自愿的支持
+willing helpers 主动帮忙的人 
+She’s very willing. 她非常积极肯干。
+
+n. [C, usually pl.] [英，正式；美用soda] 不含酒精且带有气泡的各种口味的甜饮料，即汽水:
+n. [C, U] 矿物、矿物质:
+mineral |['mɪnərəl]
+trace mineral 微量矿物质 
+rare mineral 稀有矿物 
+minerals found in your bones 存在于骨骼中的矿物质 
+mineral exploration 矿物勘探 
+mineral content 矿物含量
+
+vt. [英，非正式]（在竞赛中）以微弱优势取胜，即险胜:
+vt. 1 shade sb/sth (from/against sth) 防止光线直射到…上面，即给…遮挡光线:
+2 常用被动式，指为灯等加罩子，使其不那么明亮:
+3（一个地方或人）由于受到某物体（如树木）的遮蔽而躲避了强光，即形成荫蔽:
+n. [U] shade (of sth)（某事物下面或背后的）暗淡且凉爽的区域，如树下或建筑物后面由于阳光被遮挡所形成的阴凉处；背阴处；树荫。与shadow比起来，shade还强调温度低:
+n. 1 [C] shade (of sth) 色彩的浓淡或深浅，也可称为色度:
+2 [U] 绘画中的暗淡区域，尤指用这种暗淡区域所产生的层次感或差异感等:
+n. [C] [文学] 一个死人的鬼魂；阴魂；幽灵；鬼:
+n. [pl.] [非正式] 太阳镜，墨镜，相当于sunglasses:
+n. [C, usually pl.] shade of sth（观点、感情等的）一个不同的种类:
+n. [C] 灯等的罩子（能够削弱光线强度）:
+n. [C] [美，也可用window shade] 指窗帘，尤指遮挡光线的卷帘，相当于blind:
+n. [pl.] [非正式] shades of sb/sth 能够让你想起某个人、事物、事件、时间等的东西，具体可称为痕迹，影子，遗风等:
+n. [C]（抽象事物的）略有差异的形式:
+vt. shade sth (in) 把一幅图画等的一部分涂暗（例如涂上一片颜色更深的色彩，或用铅笔画线来涂暗）:
+n. [C, usually pl.] shade of sth（观点、感情等的）一个不同的层次:
+n. [sing.] 一点点；略微。相当于touch:
+shade |[ʃeɪd]
+She shaded her eyes against the fierce sun. 她遮住眼睛，阻挡刺目阳光的照射。
+a square shaded with trees 绿树成荫的广场 
+This plant prefers a lightly shaded position. 这种植物适宜生长在略微阴凉的地方。
+a shaded lamp 有罩的灯 
+The beaches are shaded by palm trees. 海滩上棕榈成荫。
+dappled shade 斑驳的树荫 
+Let’s move into the shade. 咱们到树荫里去吧。
+a plant that grows well in shade 喜阴植物 
+towels in warm shades 暖色调的毛巾 
+In the mornings the sky appeared a heavy shade of mottled grey. 清晨，天空看上去是斑驳的深灰色调。
+His face turned an even deeper shade of red. 他的脸更红了。
+The painting needs more light and shade. 这幅画明暗层次不够。
+shades of opinion（尤英）（比喻用法）各种有细微差别的意见
+I bought a new shade for the lamp. 我给那盏灯买了一个新罩子。
+an eyeshade 遮阳眼罩
+Nancy left the shades down and the lights off. 南希放下帘子，关了灯。
+window shade 窗帘 
+roller shade 卷帘
+short skirts and long boots--shades of the 1960s 短裙和高筒靴——20世纪60年代的余韵
+to convey subtle shades of meaning 表达有微妙差异的意思
+I’m going to shade this part in. 我要把这一部分画得再暗一些。
+What do the shaded areas on the map represent? 地图上颜色深的部分代表什么？
+The word has many shades of meaning. 这个词有很多层意思。
+He was feeling a shade disappointed. 他略感失望。
+
+adj. 1 若干不同的、各种各样的，相当于diverse:
+2 [正式] 具有多个不同特征的，如多姿多彩的，相当于diverse:
+various |['veərɪəs]
+Tents come in various shapes and sizes. 帐篷有各种各样的形状和尺寸。
+various reasons 各种各样的原因 
+There are various ways of doing this. 做这一工作的方法有很多。
+a large and various country 一个多姿多彩的大国

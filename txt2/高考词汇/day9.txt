@@ -1,0 +1,829 @@
+theft					偷窃
+bathe					浸洗，沿着...流淌，使沉浸，游泳
+assistant					助手
+battle					战斗，斗争
+beancurd					豆腐
+front					前面，正面，胸部
+river front					滨河人行道
+cold front					冷锋
+political front					政治领域
+present a united front					表现出团结一致
+a front for					某物的掩护
+front on to					朝向
+work					工作，职业，运转，奏效
+works					工厂，工程
+work clay					制陶
+work towards					努力争取
+work miracles					创造奇迹
+blackboard					黑板
+washroom					盥洗室
+legal					法律的，法定的
+fill					装满，填补，充满
+that fills the bill					那正合适
+crime					罪，犯罪活动
+commit a crime					犯罪
+fifteen					十五
+indeed					确实，实际上，是呀
+clever					聪明的，灵巧的
+refuse					拒绝，垃圾
+whichever					...的那个，无论哪个，究竟哪个
+leftover					剩饭菜，遗留物
+base					底部，根据，基础
+steal a base on					超越某人
+catch sb off base					使某人措手不及
+action					行动，作战，作用，情节，实施
+catholic					天主教的，广泛的
+succeed					成功，继承
+track					足迹，路径，铁轨，跟踪
+few					极少的，一些
+the few					少数人
+a good few people					相当多的人
+city					城市，全市居民
+the City					伦敦城
+Sunday					星期日
+pet					宠物，宠儿，宠爱
+into					到...里，成为，除，迷上
+defeat					失败，击败
+concede defeat					认输
+teenager					青少年
+\\\\\\\\
+
+n. [U, C] theft (of sth) 偷窃，偷窃罪，盗窃案:
+theft |[θeft]
+attempted theft（尤英）未遂的偷窃 
+the wholesale theft of copyrighted music 大规模盗窃版权受保护的音乐 
+car, cattle, laptop theft 汽车盗窃；牛盗窃；笔记本电脑盗窃 
+data theft 数据窃取 
+ID, identity theft 身份盗用 
+a spate of thefts 一连串盗窃案 
+to be accused of theft 被控盗窃罪 
+She admitted the theft of the document. 她承认偷了那份文件。
+
+vt. [文学] bathe sth (in sth) 用光线来填充或覆盖:
+vt.＆vi. [美] 给某人洗澡；洗澡。相当于bath:
+vt. 用水清洗某事物（尤指身体部位）:
+vi. [旧时]（到海、河等水体中）享受游泳:
+n. [sing.] [英，非正式]（在海、河等中水体的）游泳:
+bathe |[beɪð]
+The moon bathed the countryside in a silver light. 月光下的乡村沐浴在一片银辉之中。
+to bathe the baby 给婴儿洗澡 
+I bathe every day. 我每天洗澡。
+to bathe the wound 清洗伤口
+to go for a bathe 去游泳
+
+n. [C]（常指工作中）帮助或支持你的一个人，可称为助理或助手:
+adj. 只用于名词前，常用于头衔，指拥有比其上司低的头衔，并协助该上司工作的，即助理的，副的:
+n. [C] [英]（商店中为顾客提供服务的）店员，售货员，相当于shop assistant:
+n. [C] [英] 在国外教授其本国语言的一名大学生，可称为助教:
+assistant |[ə'sɪstənt]
+administrative, laboratory, production, research assistant 行政助理；实验室助理；生产助理；研究助理 
+patient care assistants 护工 
+personal assistant 私人助理 
+the assistant manager 协理 
+Assistant Chief Constable Owen 助理警察局长欧文 
+Assistant Attorney General William Weld 助理检察总长威廉∙韦尔德
+a sales assistant in a department store 一名百货公司售货员
+teaching assistant 助教
+
+vt.＆vi. battle (with/against sb/sth) 努力去做成困难的事，或与坏事或危险的事作斗争:
+n. 1 [C] battle (with sb) (for sth) 不同的人或团体之间为赢得权力或控制权所进行的竞争、争论、争斗、较量:
+2 [C] battle (against/for sth) 常用单数，指某人为解决一个难题或在一种艰难处境中获得成功所做出的一种坚决的努力，即奋斗，斗争:
+n. [C] 争论:
+n. [C, U]（尤指战争期间的）军事战斗，是“战斗”的常规用词。如果一场battle在原文中是战争双方主力所进行的一定范围内的一场决战，此时汉语中也可翻译为“会战”。但要注意，不要轻易将其翻译为“战役”，因为汉语中的“战役”一词，实际上包含了一系列相互关联的战斗:
+n. [C, U] 群体间的暴力搏斗:
+battle |['bætl]
+The child battled bravely for her life. 这个小女孩为了活下去而勇敢地抗争。
+He battled with cancer for many months. 他与癌症斗争了好多个月。
+Doctors battled in vain to save his life. 医生们奋力挽救他的生命，但没有成功。
+factions battling for control of the party 为争夺党的控制权而进行斗争的派别 
+We battled through the snowstorm. 我们在暴风雪中挣扎。
+He battled his way to the bar. 他费力地走向吧台。
+Competitors battled it out against the clock. 参赛选手为了夺取胜利而争分夺秒。
+a heated battle between the oil industry and environmentalists 石油行业和环保主义者之间的激烈斗争 
+There’s now a real battle at the top of the First Division. 现在甲级队前几名之间要有一番龙争虎斗。
+political battle 政治较量 
+custody, legal battle 监护权之争；法律斗争 
+a battle of ideas, a battle of words 思想交锋；舌战 
+a battle of wills, a battle of wits 意志的较量；智慧的较量 
+her long battle against cancer 她同癌症的长期斗争 
+to fight an uphill battle against prejudice 同偏见作艰苦斗争 
+a battle for survival 一场生死斗 
+My parents believed in leaving me to fight my own battles. 我父母认为应该让我自己去打拼。
+a battle of ideas, a battle of words 思想交锋；舌战 
+bloody battle 血战 
+fierce battle 激战 
+to fight a pitched battle on a plain 在平原上展开激战 
+climactic battle 高潮之战 
+land, naval, sea battle 陆战；海战 
+the coming battle 即将到来的战斗 
+to be sent into battle 被送上战场 
+the Battle of Waterloo 滑铁卢战役 
+He died in battle. 他在战斗中阵亡了。
+gun battle 枪战 
+turf battle（尤美）地盘之争 
+Scores of people have been hurt in running battles with police. 很多人在与警方的持续冲突中受伤。
+
+
+beancurd | 豆腐,豆腐脑
+
+vt. 领导或代表（一个组织、团体等）。不常用:
+n. [sing.] 隐藏感情或真实想法的行为，可叫做表面，外表，（装出的）样子:
+vt. [英] 主持（电视节目、演出等）:
+n. [sing.] [英] the front 可表示沿着海边、湖边或河边等的道路或区域。从陆地上看，强调一种前沿性（即把front看作陆地的边缘）:
+adj.（报纸）头版的:
+n. 1 [C, usually sing.] 事物的前面（或正面）部分，具体指的是前表面:
+2 [sing.] the front 可表示…正面对的方向上的某个位置，即正前方，前面:
+3 [sing.] the front 可表示事物内部的前部:
+adj. 只作前置定语，指前面的；前部的；在前的；正面的:
+vt. 常用被动式，指用…覆盖正面；用…作正面:
+vt.＆vi. front (onto sth) 面向；在…前面；朝向:
+n. [C] 某一活动领域:
+n. [sing.] sb’s front 本义指人体的前部，偶尔也可代指人体的胸部:
+n. [C, usually sing.] 战争中可指发生战斗的地方，即前线，前方。是此义的常规用词:
+n. [sing.] Front 用于政治组织的名称，表示“阵线”:
+n. [C] the west, north, south, east, etc. 指建筑物（尤指教堂朝西、北、东、南等）的面:
+n. [C, usually sing.] front (for sth) 非法（或秘密）组织（或活动）的庇护者，可以是一个人，也可以是一个组织:
+n. [C] 气象领域中，可指冷暖气团相互接触的部位，即锋:
+vt.（为强调而将句子的某一部分）前置:
+adj. 只作前置定语，（元音）舌前位发出的，即舌前的:
+front |[frʌnt][frʌnt]
+He fronts a multinational company. 他领导一家跨国公司。
+A student fronted the band. 这个乐队的主唱歌手曾是一名学生。
+Rudeness is just a front for her shyness. 她的粗鲁只是为了掩盖她的羞怯。
+to present a united front 表现出团结一致的样子 
+false front（尤美）虚伪的外表 
+She put on a brave front, but I knew how miserable she was. 她装出勇敢的样子，但是我知道她有多痛苦。
+to walk along the front 沿河边散步
+the front page 报纸头版
+The front of the building was covered with ivy. 大楼的正面爬满了常春藤。
+the book’ front 书的封面 
+The front of the car was badly damaged. 汽车的前面严重损坏。
+Keep your eyes to the front. 两眼看着正前方。
+There’s a garden at the front of the house. 房子的前面有一座花园。
+to sit on the front of the desk 坐在桌子前 
+to sit in the front of the car 坐在汽车的前座 
+the front of the classroom 教室的前面 
+the front of the book 在前面的书页 
+front teeth 门牙 
+the front wheels of the car 汽车的前轮 
+front row 前排 
+an animal’s front leg 动物的前腿 
+the front room 前屋 
+a glass-fronted bookcase 正面是玻璃的一个书柜    
+The school fronts the hospital. 学校面向着医院。
+The line of houses fronted straight onto the road. 这排房子正对着马路。
+economic front 经济战线 
+academic front 学术领域 
+Progress has been made on all fronts. 各领域都取得了进展。
+She was lying on her front. 她俯卧着。
+I spilled coffee down my front. 我把咖啡溅到了前襟上。
+More troops have been sent to the front. 更多的部队已被派往前线。
+to serve at the front 在前方服役 
+to fight a war on two fronts 在两条战线上作战 
+on the eastern front 在东线战场上 
+battle, war front 战斗前线；战争前线 
+Her husband is fighting at the front. 她的丈夫正在前线打仗。
+the Animal Liberation Front 动物解放阵线
+the west front of the cathedral 大教堂朝西的一面
+The travel company is just a front for drug trafficking. 这家旅行社不过是毒品交易的一个掩护场所。
+a firm later identified by the police as a front for crime syndicates 后来被警方证实是为犯罪团伙做掩护的一家公司
+a cold front 冷锋 
+a warm front 暖锋
+
+n. [U] 不与the连用，表示工作地点或场所。是一个概括用词:
+vi. work (for sth) 付出努力去达成某事，即力争。是一个简单用词:
+n. [C] the works 复数，指所有的事物，全套物品:
+We went to the chip shop and had the works: fish, chips, gherkins, mushy peas. 我们去薯条店吃了套餐:
+vt.＆vi. 移动到某个地点，或达到某个状态，尤指逐渐地:
+vi. 1 work (on sb/sth) 产生想要的结果或作用:
+2 产生某种作用:
+vt. 1 由于努力而造成或产生:
+2 work sth (into sth) 通过挤压、拉伸、撞击等使某种材料成为某一形状或形式:
+n. [U] 行动的结果，某人的作为:
+vt. 使机器、装置等运转，运行:
+vi. 事情进展:
+n. [U] 职责:
+n. [U] 物理学中可指用力量去产生运动，即功，做功:
+n. [C] works 复数，常构成复合词，指工厂:
+vi. 机器或装置等运转，运行。与operate类似，也算是一个常规用词，也较常用。不过operate常指机器设备运转，而work一般可指各种事物运转:
+n. [C] the works 复数，专指机器等的活动部件，相当于mechanism:
+vi. 身体运转。是一个简单用词:
+vi. 指脸或身体部位抽搐、颤动、抽动，是一种正式用法:
+vi. work (in/with sth) 指艺术家等用某种材料来作画或做成其它物品等:
+n. 1 [U] 工作成果，劳动成果，作品:
+2 [C] 一部书籍、音乐或美术作品:
+n. [C] works 复数，常构成复合词，指涉及建造或修理的活动:
+vt. 管理（或经营）…以从中获利:
+vt.＆vi. work (at/on sth) 做体力或脑力劳动，即劳动，工作，干活儿:
+work (as sth) 受雇于…（而从事一项工作）:
+vt. 使某人工作，尤指使其努力地工作或干活儿:
+n. 1 [U] 工作，职业:
+2 [U] 职责和工作内容:
+3 [U] 需要去做的任务:
+4 [U] 对体力或脑力的使用，即劳动:
+5 [U] 工作成果，劳动成果，作品:
+n. [U] 做某项工作所需（或所使用）的材料，尤指书籍、文件等。也是一个广义用词，不过隶属于material，且远没有material常用:
+work |[wə:k]
+I go to work at 8 o’clock. 我8点钟去上班。
+The new legislation concerns health and safety at work. 这项新法规涉及工作场所的健康与安全。
+Her friends from work came to see her in the hospital. 她工作单位的朋友来医院看望她。
+to work for peace 争取和平 
+The committee is working to get the prisoners freed. 委员会正在设法营救那些被监禁的人出狱。
+It will take a while for the drug to work out of your system. 这药得需要一段时间才能排出你的体外。
+I was tied up, but managed to work myself free. 我被捆绑起来，但设法挣脱了绳索。
+The screw had worked loose. 螺丝松动了。
+He worked his way to the top of his profession.（比喻用法）他一步一步努力，终于成为行业内的翘楚。
+The pills the doctor gave me aren’t working. 医生给我的药片不管事。
+My plan worked, and I got them to agree. 我的计划奏效了，我让他们同意了。
+His charm doesn’t work on me. 我不为他的魅力所动。
+Your age can work against you in this job. 你的年纪会妨碍你干这个工作。
+Speaking Italian should work in his favour. 会说意大利语应对他有好处。
+You can make your youth work to your advantage. 你可以打青春牌。
+You can work miracles with very little money if you follow our home decoration tips. 你要是按照我们的家居装饰诀窍行事，就可以用很少的钱产生奇妙的效果。
+to work clay 制陶 
+to work gold 打制金器 
+to work the mixture into a paste 把混合物调成糊状
+The damage is clearly the work of vandals. 这毁损显然是些恣意破坏公物的人所为。
+Do you know how to work the coffee machine? 你会使用咖啡机吗？
+The machine is worked by wind power. 这台机器是以风力驱动的。
+Everything worked very smoothly. 一切都进展得非常顺利。
+The accountant described his work to the sales staff. 会计师向销售部的职员介绍了自己的职责。
+brick, iron, steel works（通常用brickworks等）砖瓦厂；钢铁厂；炼钢厂 
+sewage, treatment works 污水处理厂；处理厂 
+works manager 工厂经理 
+works canteen（英）工厂食堂
+The phone isn’t working. 这部电话坏了。
+It works by electricity. 这是电动的。
+Are they any closer to understanding how the brain works? 他们对大脑功能的了解有进展吗？
+The fish’s eyes can work independently of each other. 鱼的两只眼睛在转动时可以彼此不同步。
+He stared at me in horror, his mouth working. 他恐惧地盯着我，嘴在抽搐着。
+an artist working in oils 油画画家 
+a craftsman working with wool 毛织手工艺人
+Is this all your own work? 这件作品是你独立完成的吗？
+The art collection was his life’s work. 这批艺术品凝结着他毕生的心血。
+the complete works of Tolstoy 托尔斯泰全集 
+piano works 钢琴曲 
+classic work 经典作品 
+literary work 文学作品 
+dramatic work 戏剧作品 
+artistic work 艺术作品 
+photographic work 摄影作品 
+sculptural work 雕刻作品 
+graphic work 平面作品 
+orchestral work 管弦乐作品 
+original work 原作 
+a work of genius 天才之作
+They expanded the shipyards and started engineering works. 他们扩建造船厂，开始了工程施工。
+extensive, major work 大型工程；重点工程 
+road work（英常用roadworks，美常用roadwork）道路施工 
+maintenance, repair, restoration work 维护工程；维修工程；修复工程 
+to work the land (= grow crops on it, etc.) 耕种土地 
+He works a large area (= selling a company’s goods, etc.). 他负责一个大地区的工作。
+She was a skilful speaker who knew how to work a crowd (= to excite them or make them feel sth strongly).（比喻用法）她是个很有技巧的演讲者，善于感召听众。 
+I can’t work because I’m sick. 我病了，干不了活儿。
+He is working on a new novel. 他正在写一部新小说。
+Doctors often work very long hours. 医生经常长时间工作。
+vi. work (for sb/sth) 
+She works for an engineering company. 她在一家工程公司工作。
+to work in education 从事教育工作 
+to work as a teacher 当老师 
+She works herself too hard. 她工作起来太不辞劳苦了。
+full-time, part-time work 全职工作；兼职工作 
+temporary work 临时工作 
+regular, permanent, steady work 稳定的工作 
+manual work 体力劳动 
+administrative, office work 行政工作；办公室工作 
+research work 研究工作 
+agricultural, farm work 农业劳动；农活儿 
+building work 建筑工作 
+work hours 工作时间 
+work area, work environment 工作区；工作环境 
+work clothes 工作服 
+work visa 工作签证 
+to be out of work 失业 
+Police work is mainly routine. 警察的工作主要是常规性事务。
+The accountant described his work to the sales staff. 会计师向销售部的职员介绍了自己的职责。
+There is plenty of work to be done in the garden. 园子里有很多活儿要干。
+domestic work 家务活儿 
+Taking care of a baby is hard work. 照看婴儿是件苦差事。
+I have some work for you to do. 我有些事要你做。
+She earned her grades through hard work. 她的成绩是靠刻苦用功得来的。
+The work of building the bridge took six months. 修建这座桥的用了六个月。
+physical work 体力活儿 
+theoretical work 理论工作 
+academic, educational, scientific work 学术工作；教育工作；科学工作 
+work schedule 工作计划 
+work flow 工作流程 
+work crew（美）工作组 
+work surfaces 工作台 
+The book is an excellent piece of work. 这本书是一部出色的作品。
+Is this all your own work? 这是你独立完成的吗？
+to bring work home 把办公室里的工作材料带回家 
+His work was spread all over the floor. 他工作的材料摊了一地。
+
+
+works | 作品,厂,工作
+
+n. [C] 黑板:
+blackboard |['blækbɔ:d]
+The blackboard was covered with symbols and equations. 黑板上写满了符号和等式。
+
+n. [C] [旧时，美]（尤指公共建筑内的）厕所（toilet）或盥洗室（bathroom）:
+washroom |['wɒʃru:m]
+
+
+adj. 只作前置定语，与法律相关的，即法律的:
+adj. 被法律所允许或要求的，即合法的，法律所要求的:
+legal |['li:ɡl]
+the legal system 法律制度（或法律体系）
+the legal profession 法律专业 
+to take legal action 采取法律行动 
+to seek legal advice 寻求法律咨询 
+the legal aid 法律援助 
+legal services 法律服务 
+legal costs 律师费用 
+legal adviser 法律顾问
+It’s perfectly legal. 这完全合法。
+legal limit 法定限度（尤指酒后驾驶者血液酒精含量的法定限度，但又不止于此，还可指辐射的法定限度等）
+
+vt.（在工作中）担任或充任某个角色、职位等，做某项工作。强调对一个职位空缺的“填充”:
+vt. fill sth (up)（做某事）用光一段时间，即耗去，打发，消磨等:
+vt. fill sb (with sth) 使某人充满一种强烈的感情:
+vt. 满足（人的需要）:
+n. [sing.] your fill (of sth/sb) 你能够接受的最多的量，即填满…的量；足够…的量:
+vt. fill sth (with sth)（声音）充斥在某地:
+vt. fill sth (with sth)（气味）弥漫在某地:
+vt. fill sth (with sth)（光线）照满某地:
+vt.＆vi. fill (sth) (with sth) 使…被某事物充满；变得被某事物充满。是一个常规用词:
+vt. 1 用某种物质堵塞或填补坑洞:
+2 –filled构成形容词，指充满…的:
+3 填补空隙或空白:
+vt. [非正式] fill sb/yourself (up) (with sth) 使…吃饱:
+n. [sing.] your fill (of food/drink) 你能吃饱或喝足的量:
+vt.（公司或机构）委派某人去担任一项职务；（某人）接任:
+vt.（按处方）配药:
+vt.（按订单）供应:
+fill |[fɪl]
+He fills the post satisfactorily (= performs his duties well). 他很尽职。
+the role of sales manager 销售经理的职责 
+to fill the role of diplomat’s wife 担任外交家妻子的角色
+to fill your day 打发你的日子 
+On Thursday night she went to her yoga class, glad to have something to fill up the evening. 星期四晚上她去上了瑜珈课，很高兴有事可做来打发晚上的时间。
+We were all filled with admiration for his achievements. 我们都十分佩服他的成就。
+His work filled me with awe and curiosity. 他的工作使我充满了敬畏和好奇。
+to fill their needs 满足他们的需要 
+She brought him a sense of fun that filled a gap in his life. 她带给他一种快乐的感觉，填补了他生命中的空白。
+I’ve had my fill of entertaining for one week. 我已足足享受了一星期的娱乐活动。
+The siren filled the air. 警报响彻天空。
+to fill a vacuum 填补真空 
+Please fill this glass for me. 请把这个杯子给我倒满。
+The school is filled to capacity. 这所学校已经满员。
+Smoke filled the room. 房间里烟雾弥漫。
+The wind filled the sails. 风吹帆张。
+The room was filling quickly. 房间很快就挤满了人。
+Her eyes suddenly filled with tears. 她的眼里突然噙满了泪水。
+Warehouses fill up with sacks of rice and flour. 仓库里装满了一袋袋大米和面粉。
+The drawers were all filled to the brim. 抽屉都塞得满满的。
+He seemed to fill the room with his presence. 他似乎让整个房间的人都感觉到他的存在。
+fill a hole with earth 用泥土把洞填起来 
+I need to have two teeth filled. 我有两颗牙要补。
+Start by filling in any cracks and gaps between window and door frames and the wall. 先把门窗框架和墙壁之间的所有裂缝和空隙填平。
+a smoke-filled room 烟雾弥漫的一间屋子 
+a fun-filled day 充满欢乐的一天 
+to fill a gap in his life 填补他生命的空白 
+The product has filled a gap in the market. 这个产品填补了市场的空白。
+The kids filled themselves with snacks. 孩子们吃零食吃饱了。
+The vacancy has already been filled. 该空缺已有人接任。
+The pharmacist will fill you a prescription. 药剂师会照处方给你抓药。
+
+n. [sing.] a crime 指不道德的行为，或大错，罪过，表示一种不满:
+n. 1 [U] 违反法律的活动，即犯罪活动:
+2 [C] crime (against sb) 罪，罪行:
+crime |[kraɪm]
+It would be a crime to waste so much time. 如果要浪费这么多时间，真是一种罪过。
+violent crime 暴力犯罪 
+organized crime 有组织的犯罪 
+juvenile, youth crime 青少年犯罪 
+urban crime 城市犯罪 
+street crime 街头犯罪 
+drug, gun, knife crime 毒品犯罪；涉枪犯罪；持刀犯罪 
+sex crime 性犯罪 
+war crime 战争罪行 
+terrorist crime 恐怖主义罪行 
+crime rate 犯罪率 
+crime prevention 罪案预防 
+crime problem 犯罪问题 
+crime group 犯罪团伙 
+crime fiction 犯罪小说 
+crime and punishment 罪与罚 
+to commit a great crime 犯下滔天大罪 
+a violent crime 一起暴力犯罪 
+a crime of passion 一起激情犯罪 
+to check the scene of the crime 勘查犯罪现场 
+The crime occurred in broad daylight. 这起罪行发生在光天化日之下。
+Many crimes are never reported to the police. 许多犯罪案件从未向警方报案。
+
+equivalent to the product of three and five, one more than fourteen, or five more than ten, 15:等价于三与五的乘积，十四比一，或十比五，15
+a size of garment or other merchandise denoted by fifteen.:以十五表示的服装或其他商品的尺寸。
+fifteen years old:十五岁
+a team of fifteen players, especially in rugby.:15名球员组成的球队，尤其是橄榄球。
+(of a film) classified as suitable for people of 15 years and over.:（一部电影）被归类为适合15岁及以上的人。
+the first point won by a player in a game:玩家在游戏中赢得的第一分
+the Jacobite rebellion of 1715.:1715年的雅各布派叛乱。
+fifteen |ˌfɪfˈtiːn| Numeral/:十五,第十五
+all fifteen bedrooms have private facilities:所有十五间卧室都有私人设施
+she must be fifteen by now:她现在必须十五岁了
+when it was fifteen-thirty, I heard my father say, ‘Go easy with the drop shots.’:15点30分，我听到父亲说，‘放轻松点。’
+
+adv. [正式，尤英] 用于给一个陈述添加信息，如其实、实际上:
+adv. [非正式] 用于重复某人已问过的一个问题，并表示你不知道答案:
+adv. 1 用于强调一个肯定的陈述或答复:
+2 [尤英] 用于very和形容词或副词之后，以强调一个陈述、描述等:
+3 [尤英，非正式] 用于表明你对某事感到惊讶，或觉得某事物荒谬:
+indeed |[ɪn'di:d]
+I don’t mind at all. Indeed, I would be delighted to help. 我根本不介意。其实，我倒很乐意帮忙。
+‘Why did he do it?’ ‘Why indeed?’ “他为什么那样做？”“是呀，为什么呢？”
+‘Was he very angry?’ ‘Indeed he was.’ “他很生气吗？”“的确很生气。”
+It is indeed a remarkable achievement. 这的确是个非凡的成就。
+Thank you very much indeed! 真的很感谢您！
+I was very sad indeed to hear of your father’s death. 听到令尊大人去世，我感到非常难过。
+A ghost indeed! I’ve never heard anything so silly. 真是见鬼！我可从没听说过这样无聊的事。
+
+adj. [尤英] clever (at sth) 熟练的，灵巧的:
+adj. [英，非正式，贬] 说话较快且使人恼怒或对听话者不尊敬的，如油腔滑调的，油嘴滑舌的:
+adj. 1 [尤英] 学习或理解起来较快的，即聪明的，聪颖的，相当于intelligent:
+2（如在一件物品的设计上，或在想法或某人的行动上）表现出才智或技能的，如精巧的；精明的:
+clever |['klevə]
+She’s clever at getting what she wants. 她想把什么东西弄到手的时候总是很精的。
+He’s clever with his hands. 他的手很灵巧。
+I’m quite clever at making tasty meals out of nothing. 我很擅长变戏法似的做出美味佳肴。
+Don’t you get clever with me! 别跟我油嘴滑舌的！
+a clever child 聪明伶俐的孩子 
+How clever of you to work it out! 你解决了这个问题真是太聪明了！
+a clever little gadget 精巧的小器具 
+What a clever idea! 这个主意妙啊！
+That wasn’t very clever, was it? 那样做不很明智，是不是？
+
+n. [U] 已被扔掉的废旧材料，即废弃物、垃圾:
+n. [U] 已被扔掉的废旧材料，即废弃物、垃圾:
+vi. 拒绝（某人让你做的事）:
+vt. 1 拒绝（接受别人所给予你的东西），相当于turn down:
+2 拒绝（给予某人所需之物），相当于deny:
+refuse |[rɪ'fju:z][ˈrefju:s]
+domestic, household refuse（均尤英）生活垃圾 
+human refuse 人体垃圾 
+a heap of, a pile of refuse 一堆垃圾 
+People just dump their refuse in the street. 人们干脆把垃圾倒在街上。
+to collect refuse（尤英）收垃圾 
+refuse collection, refuse disposal 垃圾收集；垃圾处理 
+refuse collector（英）垃圾工 
+refuse heap（尤美）垃圾堆 
+the city refuse dump 城市垃圾场
+domestic, household refuse（均尤英）生活垃圾 
+human refuse 人体垃圾 
+a heap of, a pile of refuse 一堆垃圾 
+People just dump their refuse in the street. 人们干脆把垃圾倒在街上。
+to collect refuse（尤英）收垃圾 
+refuse collection, refuse disposal 垃圾收集；垃圾处理 
+refuse collector（英）垃圾工 
+refuse heap（尤美）垃圾堆 
+the city refuse dump 城市垃圾场
+Go on, ask her; she can hardly refuse. 去吧，去求她，她不大会拒绝。
+He flatly refused to discuss the matter. 他断然拒绝商讨这件事。
+She refused to accept that there was a problem. 她拒不承认有问题存在。
+He refused to cooperate. 他拒绝合作。
+The demand for an apology was pointedly refused. 让对方道歉的要求遭到了断然拒绝。
+The Court has repeatedly refused to bend on this point. 法院再三拒绝在这点上予以让步。
+Workers should be entitled to refuse to work under these conditions. 工人应该有权拒绝在这种环境下工作。
+She offered them tea and it seemed churlish to refuse. 她给他们倒茶，拒绝的话好像没礼貌。
+to refused an invitation, to refuse a job offer, to refuse an offer 拒绝邀请；拒绝工作机会；拒绝报价 
+They refused him a visa. 他们拒绝给他签证。
+She would never refuse her kids anything. 她对孩子百依百顺。
+
+used to emphasize a lack of restriction in selecting one of a definite set of alternatives:用于强调在选择一组确定的备选方案时没有限制
+regardless of which:不管是哪个
+used to emphasize a lack of restriction in selecting one of a definite set of alternatives:用于强调在选择一组确定的备选方案时没有限制
+regardless of which:不管是哪个
+whichever |wɪtʃˈɛvə| Determiner/Pronoun/:任何,不论哪一个,取其
+
+adj.（被吃过或用过后）剩余的:
+n. [C] 遗留下来的一个物品、风俗或行为方式。相当于relic:
+n. [usually pl.] 吃剩的食物:
+n. [C] 遗留下来的一个物品、风俗或行为方式。相当于relic:
+leftover |[ˈleftəʊvə(r);美-oʊv-]
+leftover food 剩余的食物 
+Use any leftover meat to make a curry. 要是有剩肉就做咖喱菜。
+Leftover chicken makes a wonderful salad. 剩下的鸡肉可做成一盘美味色拉。
+leftover pieces of wallpaper 剩下的墙纸
+He's a leftover from the hippies in the 1960s. 他是20世纪60年代嬉皮士的残余分子。
+a leftover from the time our planet was first formed. 我们这个星球形成之初的遗迹。
+He dragged a foot when he walked, a leftover from polio. 他走路时一瘸一拐的，那是小儿麻痹的后遗症。
+Refrigerate any leftovers. 把剩菜放进冰箱里。
+The only food I ever got was the family's leftovers. 我所得到的唯一食物就是这家人的残羹剩饭。     
+He's a leftover from the hippies in the 1960s. 他是20世纪60年代嬉皮士的残余分子。
+a leftover from the time our planet was first formed. 我们这个星球形成之初的遗迹。
+He dragged a foot when he walked, a leftover from polio. 他走路时一瘸一拐的，那是小儿麻痹的后遗症。
+
+n. [C, usually sing.] 混合物的首要或主要成分，主要配料:
+adj. 贬值的:
+adj. 伪造的。不过不常用:
+adj. [正式] 卑鄙的，不道德的:
+n. [C] 化学中的碱:
+n. [C, usually sing.] 基数（如十进制的10和二进制的2）:
+n. [C, usually sing.] 事物的底部，可指末端；底座；底层；底面（该表面支撑着整个物体）:
+n. 1 [C] 活动（如商业等）的根据地，大本营，据点，总部等:
+2 [C]（工作、逗留或生活的）主要地点:
+vt. base sb/sth/yourself in ... 常用被动式，以某地为据点或总部等，把总部设在某地:
+n. [C] 棒球或垒球中的一个垒:
+n. [C] 商业领域可指公司的客户群或用户群:
+n. [C, U] 陆军或海军等的军事基地，是此义的基础用词和常规用词:
+n. 1 [C]（思想、事实、情况等的）根据，出发点，相当于basis:
+2 [C, usually sing.]（支持、收入、力量等的）来源（常是人或活动）:
+vt. 以…为基础:
+adj.（质量或价值）低劣的:
+base |[beɪs]
+a base for a sauce 调味汁的主要配料 
+Put some moisturizer on as a base before applying your make-up. 化妆前先擦些润肤霜打底。
+base currency 假币
+base behaviour 卑鄙的行为
+the base of the wall 墙根 
+the base of the head 大脑底部 
+at the base of the spine 在脊柱末端 
+a solid bed base 结实的床座 
+the bread base 底层面包 
+the base of the box 盒子底部 
+rounded base 圆形的底座 
+The statue has a solid concrete base. 这座雕像有个坚固的混凝土底座。
+the base of the company 该公司的总部 
+an ideal base for mountain expeditions 登山探险的理想基地 
+His base is his home in Rome. 他主要居住在罗马的家中。
+to base the company in Shanghai 将公司总部设在上海 
+We’re going to base ourselves in Paris and make trips from there. 我们将以巴黎为根据地到各地旅行。
+client, customer, subscriber, user base 客户群；用户群 
+army, air, air-force, military, missile, naval base 陆军基地；空军基地；军事基地；导弹基地；海军基地 
+The planes have all returned to base. 飞机全部返回了基地。
+His arguments have a sound economic base. 他的论点有充分的经济依据。
+His experience was used as a base for the film. 这部电影取材于他的经历。
+economic, industrial, political, tax base 经济基础；工业基础；政治基础；税收基础 
+The country has a sound commercial base. 这个国家的商业基础稳固。
+a broad base of support 广泛支持 
+a solid base 坚实的基础 
+He used the notes as a base for his lecture. 他用这些笔记作为授课的底子。
+to base the conclusion on the evidence 根据证据得出结论 
+The novels are all loosely based on the author’s life. 所有这些小说都大致以作者的生活经历为素材。
+Their research was based largely on anecdotal evidence. 他们的研究主要以传闻为基础。
+
+vt. 确保某事得以执行或处理:
+n. [U] 令人激动的事件:
+n. [U, C] [术语] 身体部位的移动方式（action movie通常被翻译为“动作片”，但这里的“动作”不是常规意义上的肢体动作，而是包含了暴力打斗、追逐等的一系列激烈肢体动作，因此action movie的英文本义应该是“打斗片”）:
+n. [sing.] 某个组织机构的功能、作用:
+n. [C] 某人所做的事，如行为:
+n. [U] 为使某事发生或为了处理一种情况而做某事的过程，即行动，行为过程:
+n. [U] 故事、戏剧等中的一次事件，即情节:
+n. [U] action of sth (on sth) 一种物质（或化学品）对另一种物质（或化学品）所起的作用:
+n. [sing.]（钢琴、枪炮、钟表等的）各机械部件；也可指各机械部件的活动方式:
+n. [U, C] [术语] 身体部位的作用方式，常用于各种术语（而function则亦可用于各种非术语的语境中）:
+n. [U, C]（战斗、战役或战争中的）作战，战斗:
+n. [C, U] 为阻止一个人或公司做某事，或为了使其为其所犯的错误进行赔付等而采取的法律程序，即诉讼，起诉:
+action |['ækʃn]
+Your request will be actioned. 你的要求会处理的。
+I like films with plenty of action. 我喜欢情节曲折离奇的影片。
+New York is where the action is. 纽约是个热闹活跃的地方。
+He is out of action following an ankle injury. 他脚踝受伤后就没法走动了。
+A fire has put the factory out of action. 一场火灾使工厂陷入瘫痪。
+Her quick action saved the child’s life. 她行动迅速，救了小孩的命。
+Each of us must take responsibility for our own actions. 我们每个人都必须对自己的行为负责。
+Only the priest can perform these actions. 只有神父才能从事这些活动。
+He urged the government to take decisive action against music piracy. 他敦促政府采取果断行动打击音乐盗版。
+strike action 罢工行动 
+Disciplinary action will be taken against students who cheat. 对作弊的学生将予以惩戒。
+to put these ideas into action 将这些想法付诸行动 
+a plan of action 行动计划 
+a course of action 行动方案
+The action takes place in France. 这个故事发生在法国。
+the action of sunlight on the skin 阳光对皮肤的作用
+a study of the action of the liver 对肝功能的研究 
+He is out of action following an ankle injury. 他脚踝受伤后就没法工作了。
+military action 军事行动 
+soldiers killed in action 阵亡战士 
+terrorist action 恐怖主义行动 
+covert action 秘密战斗 
+The war consisted largely of limited actions. 这场战争中的很大一部分战斗都规模有限。
+court action 法庭诉讼 
+civil, criminal, libel, tort action 民事诉讼；行事诉讼；诽谤诉讼；侵权诉讼 
+to bring, to file, to take action 提起诉讼 
+He is considering taking legal action against the company. 他正考虑起诉这家公司。
+
+adj. [正式] 包罗万象的，此时也可叫做广泛的:
+catholic |['kæθəlɪk]
+a man of catholic tastes 一个兴趣广泛的人
+
+vi. 1 succeed (in doing sth) 做成自己所尝试去做的事情；实现目标。如成功:
+succeed (as sth)（在工作、赚钱、获取权力或尊重等方面）成功、有作为:
+vi. succeed (to sth) 从故去的某人那里获得爵位权、财产权等，即继承:
+vt. 紧跟在某人或某事物之后出现并接替其位置，如接替、继任、随后出现，相当于follow:
+succeed |[sək'si:d]
+Our plan succeeded. 我们的计划成功了。
+He succeeded in getting a place at art school. 他被艺术学校录取了。
+I tried to discuss it with her but only succeeded in making her angry. 我本想跟她商量，结果却把她惹火了。
+The appeal is unlikely to succeed. 上诉不大可能赢。
+to succeed at tennis 打好网球 
+We succeeded in repairing the engine. 我们修好了发动机。
+2 succeed (in sth) 
+You will have to work hard if you are to succeed. 要想有所作为，你必须苦干。
+He had hoped to succeed as a violinist. 他曾希望做一名有成就的小提琴家。
+to succeed in our aims 实现我们的目标
+to succeed to the throne 继承王位
+Who succeeded Kennedy as President? 接替肯尼迪任总统的是谁？
+Their early success was succeeded by a period of miserable failure. 他们起初获得成功，但随后有一段惨痛失败的时期。
+Strands of DNA are reproduced through succeeding generations. DNA（脱氧核糖核酸）链通过后代得到复制。
+
+n. [C, usually pl.] 指人、动物或车辆在行走时在地面上留下的痕迹:
+vt. [尤美] 走路时留下脏足迹:
+vt.＆vi. 通过…所留下的标记、记号、信息等来进行寻找，即跟踪、追踪:
+vt. 1（尤指用特殊的电子设备）跟踪、追踪:
+2 跟踪…的进展情况:
+n. [C] 幕帘的滑轨，滑道:
+n. [C]（人或事物所移动的）路径或方向:
+n. [C] 美式英语中可指径赛运动:
+n. [C]（人、动物、汽车、自行车等）赛跑或赛车等运动的跑道:
+n. [C] 唱片、磁带或光盘上的一首乐曲或歌曲:
+n. [C] 磁带或计算机磁盘的音轨，声道（上面记录着音乐或信息）:
+vi. 指摄影机跟踪摄影，或移动摄影:
+vt. [美] 指学校给学生按能力分班或分组:
+n. [C] [美] 火车站的站台（火车由此而停止或发出）:
+n. [C] 大型车辆（如推土机等）的履带:
+n. [C, U] 火车的轨道（包含两根铁轨）:
+n. [C] 由人踩出的，崎岖不平的小道、小径:
+track |[træk]
+animal, car, tyre/tire track 动物足迹；车辙；轮胎印 
+Rabbits had left tracks in the snow. 兔子在雪地上留下了足迹。
+He had been careless, and had done little to cover his tracks.（比喻用法）他很粗心，没怎么隐匿自己的行踪。
+He tracked mud on the floor. 他在地板上踩上了泥脚印。
+We decided to track the wolf. 我们决定跟踪那只狼。
+Our radar began tracking the planes. 我们的雷达开始追踪那些飞机。
+to track the progress of the programme 跟踪该项目的进展情况
+Police are on the track of the thieves. 警方正在追踪窃贼。
+The ship was on a southerly track. 船向南行驶。
+career track 职业发展轨迹 
+forecast track (= the track that a storm, hurricane, etc. is predicted to take)（风暴、飓风等的）预测路径 
+He switched tracks and went back to college. 他变换了人生轨道，又回到了大学。
+Sculpture developed along a similar track to painting. 雕塑沿着与绘画相似的路径发展。
+The country is on the fast track to democracy. 该国已进入奔向民主的快车道。
+to get the team back onto the right track 将队伍带上正轨
+track event 径赛项目 
+track athlete 径赛运动员；赛跑运动员 
+track coach 径赛教练
+the athletics track 田径跑道 
+race track（通常用racetrack）, running track 赛跑跑道 
+indoor, outdoor track 室内跑道；室外跑道 
+training track 训练跑道 
+oval track 椭圆形跑道 
+fast track（赛车的）高速赛道 
+dog, greyhound track 赛狗跑道 
+track race 场地赛 
+track condition 赛道状况
+two track on this CD 这张CD上的两首歌 
+album track 专辑曲目 
+live track 现场版曲目 
+closing track 终曲 
+dance track 舞曲 
+backing track 伴奏曲 
+guitar track 吉他曲 
+track title 曲目名称
+The camera tracked away. 摄影机将镜头推远。
+The train for London is on track 5. 开往伦敦的列车停靠在5号站台。
+rail, train, tram track 火车铁轨；电车轨道 
+double track 双轨 
+elevated track 高架铁轨 
+track layout 轨道布局图
+narrow track 狭窄的小道 
+wide track 宽阔的路 
+steep track 陡峭的路 
+ancient track 古道 
+cinder（尤英）, dirt, mud track 煤渣路；土路；烂泥路 
+cart（尤英）, cycle, ski track 马车道；自行车道；滑雪道 
+single track 单行道 
+farm, forest, mountain track 农场小径；林间小径；山区小径 
+the perimeter track of the airfield 机场边缘的跑道 
+main track 干道 
+The track leads across a field. 小径穿过一块田地。
+When the track forks, take the left fork. 在小道分岔处走左边的岔路。
+
+det., adj. 1 与复数名词和复数动词连用，表示不多，如少:
+2 常用a few，与复数名词和复数动词连用，表示一些，几个:
+pron. 1 很少的人（或事物、地方）:
+2 a few可指一些人（或事物、地方）:
+3 fewer可指不如…一般多，即少于:
+4 the few与复数动词连用，表示一小群人，如少数人:
+few |[fju:]
+Few people understand the difference. 很少有人了解这个差别。
+There seem to be fewer tourists around this year. 今年来访的游客似乎少了。
+We’ve had a few replies. 我们已得到了一些答复。
+I need a few things from the store. 我需要从商店买些东西。
+I try to visit my parents every few weeks. 我尽量每隔几个星期看望一次父母。
+Very few of his books are worth reading. 他的书值得读的太少了。
+You can pass with as few as 25 points. 只需要25分就可以及格。
+Few will argue with this conclusion.（正式用法）很少有人会不同意这个结论。
+I recognized a few of the other people. 我认出了一些其他的人。
+Could you give me a few more details? 你能再给我提供一些详情吗？
+Fewer than 20 students passed all the exams. 不到20个学生考试全部及格。
+There are no fewer than 100 different species in the area. 这个地区有不少于100个的不同物种。
+Real power belongs to the few. 真正的权力掌握在少数人手中。
+
+n. [U] [非正式] 用于其他名词之后，以表明某地充满某种事物，即充满…的地方:
+n. [sing.] [英] the City 可指伦敦最古老的金融商务中心:
+n. [sing.] 全市居民。由city的“城市”之义衍生而来，政治和法律色彩不如citizen浓厚，仅仅表明人口的居住属性:
+n. 1 [C] 城市、都市（比town规模大，且更重要）:
+2 [C] [英] 已由国王或女王授予特权的一个市（通常有一座大教堂cathedral），如特许市:
+3 [C] [美] 已由州政府授予特权的一个市，即特权市:
+city |['sɪtɪ]['sɪtɪ]
+It’s not exactly fun city here is it? 这里并不是好玩的地方，对吧？
+a City stockbroker 伦敦商业区的证券经纪人 
+What is the City’s reaction to the cut in interest rates? 伦敦金融界对削减利率的反应如何？
+The city turned out to welcome the medical team home. 全市居民倾城而出欢迎凯旋的医疗队。
+major city 主要城市 
+small city 小城市 
+sprawling city 大肆扩张的城市 
+coastal city 沿海城市 
+capital city 首都 
+historic city 历史名城 
+city boy 城市男孩 
+the city of York 约克特许市 
+
+the day of the week before Monday and following Saturday, observed by Christians as a day of rest and religious worship and (together with Saturday) forming part of the weekend:周一之前和周六之后的一周中的一天，被基督徒视为休息和宗教崇拜的一天，并且（与周六一起）构成周末的一部分
+the newspapers published each Sunday:每周日出版的报纸
+on Sunday:周日
+on Sundays, each Sunday:周日，每个周日
+Sunday |ˈsʌndeɪ| Adverb/Noun/:星期日,星期天,礼拜天
+they left town on Sunday:他们周日离开了小镇
+she wrote human-interest pieces for the Sundays:她为星期天写了一些人情味的文章
+the concert will be held Sunday:音乐会将于周日举行
+the programme is repeated Sundays at 9 p.m:该节目每周日晚上9点重复
+
+n. [C] [常贬] 被某人给予过多关注的一个人（常被视作对其他人不公平），即宠儿，红人，相当于favourite:
+adj. 只用于名词前，很感兴趣的，很喜欢的:
+n. [C] [英，非正式] 向某人展现喜爱或友好时所用的称呼，如宝贝儿:
+vi. [非正式]（两个人）以调情的方式来亲吻和爱抚:
+vt. [尤美] 慈爱地抚摸（即爱抚）一个动物或孩子:
+n. [C] 作为宠物来养在家里的动物、禽鸟等:
+pet |[pet]
+She’s the teacher’s pet. 她是老师的宝贝疙瘩。
+his pet subject, his pet theory, his pet project 他喜爱的学科；他喜爱的理论；他喜爱的项目
+What’s wrong, pet? 怎么啦，宝贝儿？
+Be a pet and post this letter for me. 乖啊，替我把这封信发了。
+house pet 家养宠物 
+virtual pet 虚拟宠物 
+pet cat 宠物猫 
+pet owner 宠物主人
+
+prep. 关于:
+prep. 到一个时间段上的某一点上:
+prep. 用于表示行动的结果:
+prep. 用于表示状态的变化:
+prep. 用于除数，即除:
+prep. 撞上；碰上等:
+prep. 在某事物里面；进入:
+prep. 在某个方向上，即朝向，对着:
+into |['ɪntu,'ɪntə]
+an inquiry into safety procedures 关于安全程序的调查
+She carried on working late into the night. 她一直工作到了深夜。
+He didn’t get married until he was well into his forties. 他到四十好几才结婚。
+He was shocked into a confession of guilt. 他被吓得认罪了。
+The fruit can be made into jam. 这种水果可以制成果酱。
+Can you translate this passage into German? 你能把这一段文字译成德语吗？
+They came into power in 2003. 他们于2003年上台掌权。
+She was sliding into depression. 她逐渐消沉下去。
+3 into 24 is 8. 24除以3等于8。
+The truck crashed into a parked car. 卡车撞上了一辆停放着的汽车。
+Come into the house. 进屋里来吧。
+She dived into the water. 她潜入水中。
+He threw the letter into the fire. 他把信扔进了火里。
+She turned and walked off into the night.（比喻用法）她转过身去，走进黑夜里。
+Speak clearly into the microphone. 清楚地对着麦克风讲话。
+Driving into the sun, we had to shade our eyes. 面向太阳开车，我们只好遮挡着眼睛。
+
+vt. 正式用法，指一项任务或一个问题难住或难倒某人:
+n. [U, C] 在战斗、游戏、竞赛等活动中失败，挫败，也可指未达成自己想实现的目标:
+vt. 在战争、比赛（包括体育比赛）、竞争等活动中战胜或击败某人，相当于beat。二者常可互换:
+n. [C] 常用单数，指击败或战胜…的行动:
+vt. 使失败，即挫败，阻挠。可以是挫败一次行动或计划，也可以是阻挠一项动议或辩论等:
+defeat |[dɪ'fi:t]
+The instruction manual completely defeated me. 这操作指南把我完全弄糊涂了。
+election defeat 竞选失败 
+to reverse a defeat 扭转败局 
+a military defeat 军事上的失败 
+The team went down to their fifth consecutive defeat. 该队连续第五次失利。
+a narrow defeat 惜败 
+to admit defeat 认输
+Our team was narrowly defeated in the final. 我们队在决赛中惜败。
+a defeated army 败军 
+to defeat the terrorists 打败恐怖分子 
+The senator was decisively defeated by his rivals. 这位参议员被对手彻底击败。
+the defeat of fascism 战胜法西斯主义
+The motion was defeated by 19 votes. 这项动议以19票反对被否决。
+Staying late at the office to discuss shorter working hours rather defeats the object of the exercise! 迟迟待在办公室讨论缩短工作时间恰恰是在阻挠这一目标的实现！
+
+n. [C] 也可用非正式的teen，此时尤用于美式英语。指13至19岁之间的一个人，可称为青少年:
+teenager |['ti:n͵eɪdӡə]
+older, young teenager 十七八岁的青少年；十四五岁的少年

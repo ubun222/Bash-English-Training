@@ -1,0 +1,625 @@
+escort				护送部队，护卫
+lottery				碰运气的事
+retain						保留，记住，挡住
+undercharge			少收钱
+synonym				同义词
+turf					草地，势力范围
+owe						欠，把...归因于
+deplete				耗尽
+fort					堡垒
+delude				欺骗
+ingenious				心灵手巧的
+compare							比较
+inland						内陆的，国内的
+suppress					镇压，封锁，克制
+terror							恐惧，恐怖的事物
+procedure							程序
+pretext					借口
+flap						袋盖，拍打，襟翼，惊慌，振动
+obsolete					淘汰的，过期的
+deliberate						故意的，慎重的，仔细讨论，认真考虑
+oath						宣誓，咒骂
+depletion					耗尽
+forecast							天气预报，预测
+sore					易疼痛的，气恼的，紧迫的，痛处
+metric				公制的
+plead				乞求，声援，申辩
+wrench				扳手，猛扭，痛苦
+surgeon							外科医生
+compensation					补偿
+reference							提及，引用，考虑，参考，关系
+\\\\\\\\
+
+n. 1 [C] [正式或旧时] 陪同某人参加社交活动的人（尤指男人）:
+2 [C] 受雇陪同某人外出社交的人（尤指女人）:
+n. [C, U] 与某人或某事物同行，以对其进行保护的一个人、一群人或车辆，即护送者、护卫队、护卫舰（或车队、飞机）:
+vt.&vi. 护送、护卫（其过程中也可给受保护指路或带路）:
+escort |[ˈeskɔ:t;美ˈeskɔ:rt]
+an escort service/agency 社交陪伴服务社
+armed, military, motorcycle, police, security escort 武装护卫队；军事护卫队；摩托车护卫队；警察护卫队；安全护卫队 
+Armed escorts are provided for visiting heads of state. 来访的国家元首由武装卫队护送。
+The army provided a small armed escort for the delegation. 军方为代表团配备了小型武装卫队。
+an escort for the Queen's car 女王座驾的护卫队 
+an escort of ten soldiers 由十名士兵组成的一支护卫队 
+Prisoners are taken to court under police escort. 囚犯由警察押送带上法庭。
+She had a police escort to the hospital. 她由警察护送到医院。
+The referee needed a police escort as he left the stadium. 裁判在离开运动场时需要警察护送。
+The opposition leader was arrested and taken to the capital under escort. 反对派领袖被捕后被押送到了首都。
+Can you give us an escort? 你能护送我们一下吗？
+They left with a small escort. 他们在一支小型护卫队的保护下离开了。
+convoy, destroyer, fighter escort（尤美，均为军事用语）护航舰队；护航驱逐舰；战斗机护航编队 
+escort vehicle, escort vessel 护送车辆；护航舰艇 
+escort duty, escort mission（尤美）护卫职责；护卫任务 
+escort service 护送服务 
+The President arrived, escorted by twelve soldiers. 总统在十二名卫兵的护送下到达。
+
+n. [sing.] [常贬] 听天由命的事；全凭运气的事:
+n. [C]（用发行彩票为政府、慈善机构等集资的）抽彩给奖法，博彩:
+lottery |[ˈlɒtəri;美ˈlɑ:t-]
+Some people think that marriage is a lottery. 有些人认为婚姻靠的是运气。
+The stockmarket is a lottery. 股市买卖全看运气。
+Which judges are assigned to a case is always a bit of a lottery. 一个案子安排哪些法官来审理，往往有点看运气。
+national, state lottery 全国的彩票抽奖；州的彩票抽奖 
+We're having a lottery to raise money for homeless families. 我们要举行彩票抽奖为无家可归的人筹款。
+the company that ran the state lottery 经营州彩票抽奖的公司 
+These programs use state lotteries to fund the student awards. 这些项目利用州彩票抽奖来为学生奖项提供资金。
+The lottery has raised millions of pounds. 这批彩票已经筹集了数百万英镑。
+lottery ticket 奖券 
+lottery winner 彩票中奖者 
+lottery jackpot, lottery prize 彩票头奖；彩票奖金 
+a $3 million lottery jackpot 300万美元的彩票头奖 
+lottery win 彩票中奖 
+lottery funds 彩票资金 
+The second ball rolled from the lottery machine. 第二个球从摇奖机里滚了出来。
+I won my car in a lottery. 这辆车是我买彩票中奖得到的。
+A couple scooped £10 million on the national lottery. 一对夫妇购买国家发行的彩票中了1，000万英镑。
+
+vt. [更正式] [法律]（以预付金的形式）聘请律师:
+vt. [更正式] 保持:
+vt. [更正式] 继续容纳某事物:
+vt. [更正式] 继续容纳某事物:
+vt. [更正式] 继续持有或保有:
+vt. [更正式] 保存在记忆中:
+vt. [更正式] 继续容纳某事物:
+vt. [更正式] 继续持有或保有:
+retain |[rɪˈteɪn]
+a retaining fee 给所委托律师的预付辩护费 
+to retain the services of a lawyer 聘定律师 
+He decided to retain him for the trial. 他决定聘请他为出庭律师。
+to retain your independence 保持独立 
+He struggled to retain control of the situation. 他曾努力保持对局势的控制。
+Despite the decay the mosque somehow retained a profound grandeur. 清真寺虽已破败，但不知为何依然十分庄严。
+Her new music largely retains the distinctiveness of the old. 她的新音乐在很大程度上保持了旧式音乐的特色。
+He retains a deep respect for the profession. 他对这个职业仍然深怀敬意。
+She retained her tennis title for the third year. 她第三年保住了网球冠军的头衔。
+He has successfully retained his position as national president of the society. 他成功地保住了自己作为该协会全国主席的职位。
+a soil that retains moisture 保持水分的土壤
+a soil that retains moisture 保持水分的土壤 
+This information is no longer retained within the computer's main memory. 这样的数据不再保留在计算机的主存储器中。
+She has a good memory and finds it easy to retain facts.（比喻用法）她记忆力好，很容易记住事情。
+The immigrants have a right to retain their language. 移民有权保留其语言。
+The house retains much of its original charm. 这所房子保留了许多原有的魅力。
+The interior of the shop still retains a nineteenth-century atmosphere. 这家商店的内部装修仍然保留着十九世纪的风格。
+He retains a deep respect for the profession. 他对这个职业仍然深怀敬意。
+She retained her tennis title for the third year. 她第三年保住了网球冠军的头衔。
+He has successfully retained his position as national president of the society. 他成功地保住了自己作为该协会全国主席的职位。
+He was allowed to retain his parliamentary seat.（英）他获准保留议会席位。
+The president retained her as his chief adviser. 总统让她留任自己的首席顾问。
+She has a good memory and finds it easy to retain facts.（比喻用法）她记忆力好，很容易记住事情。
+a soil that retains moisture 保持水分的土壤 
+This information is no longer retained within the computer's main memory. 这样的数据不再保留在计算机的主存储器中。
+She has a good memory and finds it easy to retain facts.（比喻用法）她记忆力好，很容易记住事情。
+The immigrants have a right to retain their language. 移民有权保留其语言。
+The house retains much of its original charm. 这所房子保留了许多原有的魅力。
+The interior of the shop still retains a nineteenth-century atmosphere. 这家商店的内部装修仍然保留着十九世纪的风格。
+He retains a deep respect for the profession. 他对这个职业仍然深怀敬意。
+She retained her tennis title for the third year. 她第三年保住了网球冠军的头衔。
+He has successfully retained his position as national president of the society. 他成功地保住了自己作为该协会全国主席的职位。
+He was allowed to retain his parliamentary seat.（英）他获准保留议会席位。
+The president retained her as his chief adviser. 总统让她留任自己的首席顾问。
+
+
+undercharge |英 [ˌʌndəˈtʃɑːdʒ]  美 [ˌʌndərˈtʃɑːrdʒ]| vt. 充电不足；索价低于常价；弹药装填不足/n. 充电不足；低的索价；填不够量的火药/
+
+
+
+A synonym is a word or expression which means the same as another word or expression. 同义词
+synonym |英 ['sɪnənɪm]  美 [ˈsɪnənɪm]| n. 同义词；同义字/
+The term "industrial democracy" is often used as a synonym for worker participation.“工业民主”这一词语常被用作“工人参与”的同义词。
+
+
+n. [U] [非正式，尤美] sb’s ~（自己的）地盘:
+Their turf was Paris: its streets, theaters, homes, and parks. 巴黎是他们的地盘:
+n. 1 [U]（包括矮草和一层地皮的）草皮:
+2 [C]（铺草坪用的）草皮块:
+n. [U] [非正式，尤美] sb’s ~（自己的）势力范围:
+n. [U, C] 泥煤、泥炭；泥煤块、泥炭块:
+n. [U] [非正式，尤美] sb’s ~（自己的）赛场:
+n. [sing.] the turf可指赛马运动:
+turf |[tɜ:f;美tɜ:rf]
+On its home turf, the combined bank would be unrivalled. 那家联合银行在它自己的地盘上就无可匹敌了。
+We finally met on his home turf. 我们终于在他家门口相见了。
+We all protect our own turf. 我们都要保护我们自己的地盘。
+I don't want to invade his turf.（invade为美式用法）我不想侵入他的地盘。
+turf battle, turf war 地盘之争 
+turf wars between different factions 不同派别之间的地盘之争
+They shuffled slowly down the turf towards the cliff's edge. 他们拖着脚步沿着草皮慢慢地走向悬崖边。
+artificial turf 人工草坪 
+They still cut turf here for fuel. 在这里他们仍然割草皮作燃料。
+turf field（美）草皮场地 
+The training area includes a synthetic turf field. 训练场包括一块人造草皮场地。
+newly laid turf 新铺的草皮 
+We laid turf to create a lawn. 我们铺设了草皮做草坪。
+Lift the turfs carefully--they can be reused elsewhere. 抬草皮时小心点——它们还能在别处重新利用。
+primitive dwellings made of sods of turf and sticks 由草皮和木条搭建的原始村舍
+The orchestra is on home turf in this repertoire.（比喻用法）乐团演奏这些曲目熟门熟路。
+Supercomputers are familiar turf for IBM. 超级计算机是国际商用机器公司熟悉的领域。
+home turf 主队赛场 
+the team's first success of the season on home turf（= in their own stadium）这个队在主场赢得的本赛季第一场胜利 
+hallowed turf（英）神圣的赛场 
+the hallowed turf of Wembley 神圣赛场温布利（英格兰国家足球队的主场）
+
+owe sb sth 欠人情:
+owe sb sth 归因于，或把成功归功于，感激，得益于:
+3 应给予（某人应得的感激、尊重、忠诚）:
+owe sb sth 把成功归功于，感激，得益于:
+owe sb sth 归因于:
+vt. owe allegiance/loyalty/obedience (to sb) 正式用法，指忠诚于或服从于位高权重者:
+vt. 应给予（某人应得的感激、尊重、忠诚）:
+owe (sb) sth (for sth) 欠债，欠钱:
+owe |[əʊ]
+vt. 1 owe sth to sb 
+I owe a debt of gratitude to all my family. 我很感激我的全家人。
+You owe me a favour! 你还欠我个人情哦！
+I think you owe us an explanation. 我认为你应当给我们一个解释。
+I think we’re owed an apology. 我认为得有人向我们道歉。
+2 owe sth to sb/sth 
+He owes his success to hard work. 他的成功是靠勤奋工作。
+The play owes much to French tragedy. 这部戏颇受法国悲剧的影响。
+I owe everything to him. 我的一切都归功于他。
+I knew that I owed the surgeon my life. 我明白外科医生救了我的命。
+We all owe him more respect. 我们都应当给予他更多尊重。
+vt. owe sth to sb/sth 
+He owes his success to hard work. 他的成功是靠勤奋工作。
+I owe everything to him. 我的一切都归功于他。
+I knew that I owed the surgeon my life. 我明白外科医生救了我的命。
+vt. owe sth to sb/sth 
+He owes his success to hard work. 他的成功是靠勤奋工作。
+The play owes much to French tragedy. 这部戏颇受法国悲剧的影响。
+We all owe him more respect. 我们都应当给予他更多尊敬。
+vt. owe sth (to sb) (for sth) 
+She still owes her father £3 000. 她还欠她父亲3000英镑。
+The country owes billions of dollars to foreign creditors. 这个国家欠外国债权人数十亿元。
+How much do I owe you for the groceries? 买这些杂货我得给你多少钱？
+I’m still owed three days’ leave.（比喻用法）还欠我三天假呢。
+
+vt. [常用被动式] 大量减少某事物（的库存或数量）使其不足，如消耗:
+vt. [常用被动式] 大量消耗某事物（的库存或数量）使其不足:
+deplete |[dɪˈpli:t]
+substances that deplete the ozone layer. 大量消耗臭氧层的物质 
+Food supplies were severely depleted. 食物供应已严重不足。
+They fired in long bursts, which depleted their ammunition. 他们长时间开火，耗尽了弹药。
+Both teams were severely depleted by injuries. 两队都因队员受伤而实力大减。
+substances that deplete the ozone layer. 大量消耗臭氧层的物质 
+Food supplies were severely depleted. 食物供应已严重不足。
+They fired in long bursts, which depleted their ammunition. 他们长时间开火，耗尽了弹药。
+Both teams were severely depleted by injuries. 两队都因队员受伤而实力大减。
+
+n. [C] [美] 士兵居住并训练的一个地方，即兵营、军营:
+n. [C] 要塞；堡垒:
+fort |[fɔ:t;美fɔ:rt]
+Fort Drum 德拉姆堡
+hill fort 山堡 
+border fort（尤美）边境要塞 
+Iron Age, Roman, Saxon fort 铁器时代的要塞；罗马堡垒；撒克逊要塞 
+an Iron Age hill fort 铁器时代的山堡 
+snow fort（美）雪堡 
+Government forces managed to hold the fort. 政府军守住了要塞。
+The fort finally fell after a week of intense fighting. 经过一周的激战，堡垒最终被攻陷了。
+All was calm at the fort that night.那晚城堡内风平浪静。
+
+vt. ~ sb/yourself (into doing sth) 欺骗:
+delude |[dɪˈlu:d]
+Don't be deluded into thinking that we are out of danger yet. 不要误以为我们已脱离危险。
+You poor deluded creature. 你这上了当的可怜虫。
+Television deludes you into thinking you have experienced reality, when you haven't. 电视给人一种经历现实的错觉，而实际上并没有。
+He had been unwittingly deluded by their mystical nonsense. 他不知不觉被他们故弄玄虚的胡说八道给骗了。
+She had been deluding herself that he loved her. 她一直欺骗自己相信他爱着她。
+He's deluding himself if he thinks it's going to be easy. 他要是以为那事很容易，那就是自己欺骗自己。
+The President was deluding himself if he thought he was safe from such action. 总统如果认为这样的行为不会威胁到他，那他就是在自欺欺人。
+We delude ourselves that we are in control. 我们骗自己说我们掌控着局面。
+
+adj. 1（物体、计划、思想等）精巧的、巧妙的:
+2（人）有很多新点子的，善于创造发明的:
+ingenious |[ɪnˈdʒi:niəs]
+an ingenious device 精巧的装置 
+ingenious ways of saving energy 节约能源的巧妙方法 
+a truly ingenious invention 真正有创意的发明 
+Gautier's solution to the puzzle is ingenious. 戈蒂埃破解这道难题的方法很巧妙。
+The idea sounds ingenious. 这个主意听起来真是别出心裁。
+an ingenious cook 心灵手巧的厨师 
+She's very ingenious when it comes to finding excuses. 她很善于找借口。
+
+compare A with/to B 将不同的人或事物进行对比或比较（以看其相似或相异程度）:
+2 compare A to B 表明某人或某事物与其他人或事物相似，如比喻等:
+vi. compare with/to sb/sth与其他人或事物相似（无论其他人或事物是好还是糟），即与…同样好或同样糟:
+vt. compare A to B 相提并论:
+n. [sing.] [文学] beyond/without compare 同类中无与伦比、举世无双:
+compare |[kəm'peə]
+vt. 1 compare A and B 
+to compare their situation and ours 把他们的状况与我们的相比 
+We compared the two reports carefully. 我们仔细地比较了这两份报告。
+Standards in health care have improved enormously compared to 40 years ago. 与40年前相比，卫生保健的水平得到了极大提高。
+This school compares with the best in the country. 这所学校可与全国最好的学校媲美。
+This house doesn’t compare with our previous one. 这房子比不上我们以前的。
+I’ve had some difficulties, but they were nothing compared to yours. 我遇到了一些困难，但与你的困难比起来就不算什么了。
+Their prices compare favourably with those of their competitors. 他们的价格比竞争者的要优惠。
+These mountains do not compare with the Himalayas. 这些山不能与喜马拉雅山相比。
+Few things compare with the joy of walking on a bright spring morning. 没有什么比在阳光明媚的春日早晨散步更惬意的了。
+The critics compared his work to that of Martin Amis. 评论家把他的作品和马丁·埃米斯的相提并论。
+The golfer Tiger Woods is often compared to Jack Nicklaus. 人们常把高尔夫球手“老虎”伍兹与杰克·尼古拉斯相提并论。
+
+adj. [常用于名词前] 在一国的内陆的、在一国的内地的:
+adv. 在（或向）一国的内陆（即远离海岸）:
+inland |[ˌɪnˈlænd]
+inland areas 内陆地区 inland lakes 内陆湖 
+inland sea 内陆海 
+inland mountain 内陆山 
+a rather quiet inland town 颇为宁静的内陆城镇 
+The town lies a few kilometres inland. 这个城市位于内陆几公里处。
+The vast majority live further inland. 大部分人住在更远的内地。
+We travelled further inland the next day. 我们第二天继续向内陆行进。
+It's about 15 minutes' drive inland from Cannes. 从戛纳向内陆方向开车走约需 15 分钟。
+
+vt. [常贬] 隐瞒（消息）:
+vt. 抑制、忍住（自己的感情）:
+vt. 压制、阻止、抑制（某事生长、发展或继续），尤指制止，阻止，抑制（身体的功能或反应）:
+vt. 压制，抑制，阻止（进程或活动）:
+vt. [常贬] 封锁（消息）:
+vt. [常贬]（政府、统治者等）镇压、武力平息（叛乱者或叛乱活动）:
+suppress |[səˈpres]
+At no time did they try to persuade me to suppress the information. 他们从没有试图劝我隐瞒这个消息。
+The wrong criminal is in the dock either because a genuine mistake has been made or because evidence has been suppressed. 冤案错案的出现，要么是因为确实弄错了，要么是因为证据被隐瞒。
+The police were accused of suppressing vital evidence. 警方被指隐瞒关键证据。
+He could no longer suppress his anger. 他再也按捺不住自己的怒火。
+Liz thought of Barry and suppressed a smile. 莉兹想起了巴里，忍住没笑。
+Nicole could barely suppress her laughter. 妮科尔几乎忍不住要笑出声来。
+She was unable to suppress a giggle. 她忍不住咯咯地笑了起来。
+The Professor said that deep sleep allowed suppressed anxieties to surface. 教授说深度睡眠可以使压抑的焦虑情绪得以释放。
+He could hardly suppress his surprise. 他几乎抑制不住自己的惊奇。
+The disloyal thought was instantly suppressed. 这个不忠的念头立刻就被压了下去。
+drugs that suppress the appetite 抑制食欲的药 
+The reproduction and growth of the cancerous cells can be suppressed by bombarding them with radiation. 可以通过放疗杀死癌细胞来抑制其再生和扩散。
+the strongest evidence so far that ultraviolet light can suppress human immune responses 迄今为止可证明紫外线能抑制人体免疫反应的最有力证据 
+The medication effectively suppressed the pain.药物有效地抑制了疼痛。
+'The Government is suppressing inflation by devastating the economy,' he said. 他说，“政府正在通过破坏经济来抑制通货膨胀。” 
+Lawyers said today's ruling would lead to higher prices and would suppress innovation of new products. 律师们称今天的裁决将会抬升价格，并抑制新产品的创新。
+This information had been deliberately suppressed. 这条信息被故意封锁了。
+The rebellion was brutally suppressed. 起义遭到了残酷的镇压。
+A pro-democracy uprising was brutally suppressed.一场争取民主的起义被残酷镇压了。
+They often use violence to suppress opposition. 他们经常使用暴力镇压反抗。
+drug traffickers, who continue to flourish despite international attempts to suppress them 在国际社会强力打击下活动依然猖獗的贩毒分子 
+nationwide demonstrations for democracy, suppressed after 7 weeks by the army 在进行7周后遭到军队镇压的全国性民主示威活动
+
+n. 1 [U, sing.] 一种极度的恐惧感，如惊骇。程度较重:
+2 [C] 使人感到非常害怕的一个人、事物或情形:
+3 [U]（通常出于政治目的的）暴力恐怖行动（或暴力恐怖行动的威胁），相当于terrorism:
+n. [C] [非正式] 给人造成麻烦（或难以控制）的一个人（通常是一个孩子）或一个动物:
+terror |['terə]
+Her eyes were wild with terror. 她的眼睛里充满了恐惧。
+His face was white with terror. 他吓得脸色煞白。
+She lives in terror of losing her job. 她一直胆战心惊地害怕丢了工作。
+He had a real terror of darkness. 他非常害怕黑暗。
+She lived in terror of her father. 她生活在对父亲的恐惧之中。
+The shots sent the crowed fleeing in terror. 枪声吓得人群四散而逃。
+These street gangs have become the terror of the neighbourhood. 这些街头少年团伙使得周围邻里谈之色变。
+Death holds no terrors for me. 死神是吓不倒我的。
+terror campaign, terror war 恐怖活动；恐怖战争 
+terror organization 恐怖组织 
+the war on terror 反恐战争 
+the dictator’s reign of terror 独裁者的恐怖统治
+Their kids are real little terrors. 他们的小孩都是十足的讨厌鬼。
+
+n. 1 [C, U] procedure (for sth) 做某事的一种方式，尤指通常或正确的方式，如程序、手续、步骤:
+2 [U] 做某事的官方或正式的顺序或方法（尤指在商业、法律或政治领域），即程序:
+n. [C] 医学上可指程序或手术。是一个概括性用词，表示手术时不太常用:
+procedure |[prə'si:dӡə]
+emergency procedures 紧急状况的处理程序 
+sampling, testing procedure 取样过程；测试过程 
+experimental procedures 实验过程 
+Making a complaint is quite a simple procedure. 申诉的手续相当简单。
+administrative, application, assessment, legal, operating, safety, security, selection, credit procedure 行政程序；申请程序；评估程序；法律程序；操作程序；安全程序；安保程序；选拔程序；信贷程序 
+There are standard procedures for dismissing staff. 解雇员工有标准的程序。
+medical procedure 医疗程序 
+to perform a routine surgical procedure 做一台常规的外科手术 
+diagnostic, screening procedure 诊断程序；筛查程序 
+cosmetic procedure 美容手术 
+invasive procedure 侵入性手术 
+abortion, transplant procedure 堕胎手术；移植手术
+
+n. [C] ~ (for sth/for doing sth) | ~ (to do sth)（通常指为做坏事所找的）借口、托词:
+pretext |[ˈpri:tekst]
+He excused himself on the pretext of a stomach upset. 他借口自己胃不舒服离开了。
+Several schools banned the game on flimsy pretexts. 几所学校以一些站不住脚的借口禁止了这个游戏。
+This was a false pretext to attack another country. 这是攻击另一个国家的虚假借口。
+They wanted a pretext for subduing the region by force. 他们想找借口用武力征服这个地区。
+The incident was used as a pretext for intervention in the area. 这次事件成了干涉那个地区的借口。
+He considered inventing some pretext for calling her. 他想编个借口给她打电话。
+He disappeared into his study on the pretext that he had work to do there. 他借口有工作要做便钻进了书房。
+Under the pretext of checking her identity, the man had copied down her credit card details. 那个男的以检查她的身份为借口抄下了她信用卡的详细资料。
+He used his research as a pretext for going to Hungary. 他以搞研究为名去了匈牙利。
+He keeps popping into my office on the slightest pretext. 他总是随便找个借口就跑到我的办公室来。
+He left the party early on the pretext of having work to do. 他借口有事要处理，早早离开了聚会。           
+
+n. [sing.] [美]（一个公众人物的言行所导致的）公众的分歧、愤怒或批评:
+n. [sing.] [非正式，尤英] 一种忧虑、混乱且激动的状态，如不安:
+vi. [英，非正式] 忧虑或激动地行事:
+vt.&vi. 挥动手臂（像鸟振翅一样）:
+n. [C, usually sing.]（鸟翅膀、布条、纸片等）上下或左右的快速运动（常发出声音），如振翅、拍击。也可指此类声音:
+vt.&vi.（禽鸟）振翅、拍打翅膀。相当于beat:
+vt.&vi.（使）上下或左右移动，常发出声音，如拍打、拍击、飘动、抖搂:
+n. [C] 沿着一边附于某物上的一片纸、布、金属、皮肤等，呈悬垂状，或用于封口:
+n. [C] 飞行器的襟翼（是机翼的一部分，能上下移动以控制飞行器的上下运动）:
+vt. 语音学中可指发轻拍音:
+n. [C] 语音学中的轻拍音，相当于tap:
+flap |[flæp]
+the flap about the President's business affairs 公众对总统公务的批评
+She gets in a flap over the slightest thing. 极小的事也能令她不安。
+Why did people get in a flap over nuclear energy? 为什么人们对核能惶恐不安呢？
+Wherever he goes there's always a flap. 无论他到哪里，都会引起一阵骚动。
+There's no need to flap─I've got everything under control. 不必担心——一切都已在我控制之中。
+a kid running and flapping her arms. 边跑边挥舞着手臂的小孩子 
+She walked up and down, flapping her arms to keep warm. 她来回走动，挥动着双臂使身体暖和起来。
+With a flap of its wings, the bird was gone. 鸟振翅飞走了。
+the flap of the sails 风帆的鼓胀 
+Nothing to be heard but the soft flap of a silk banner. 万籁俱寂，只有一面绸制旗子轻轻飘动的响声。
+The bird flapped its wings furiously and flew away. 鸟儿使劲儿拍打着翅膀飞走了。
+The gulls flew off, wings flapping. 海鸥扑打着双翅飞走了。
+A pigeon emerges, wings flapping noisily, from the tower. 一只鸽子从塔里钻出来，扑扑地拍打着翅膀。
+Two large birds flapped (= flew) slowly across the water. 两只大鸟振翅缓缓飞过水面。
+The car drove off with its rear door flapping open. 车开走了，车后门拍打着，还没关上。
+a flag flapping in the breeze 旗帜在微风中摆动 
+The sails flapped wildly in the stiff breeze. 船帆在强风中乱摆。
+A gust of wind flapped the tents. 一阵风吹动了帐篷。
+Grey sheets flapped on the clothes line. 灰色的床单在晾衣绳上飘来摆去的。
+They would flap bath towels from their balconies as they chatted. 他们聊天时会在阳台上抖搂浴巾。
+the flap of an envelope 信封的封盖 
+a stylish jacket with leather cuffs and pocket flaps 一件带有皮质袖口和口袋盖的时髦夹克 
+The officer undid the flap of his holster and drew his gun. 警官打开枪套盖，拔出枪。
+I zipped the tent flaps shut. 我拉上了帐篷门帘的拉链。
+He drew back the tent flap and strode out into the blizzard. 他拉开帐篷的门帘，大步走进暴风雪中。
+a loose flap of skin 耷拉着快要掉下的一块皮 
+cat flap（英）（开在门上供猫进出的）猫洞          
+the sudden slowing as the flaps were lowered 襟翼放下时的突然减速 
+The pilot lowered the flaps as the aircraft came into land. 飞机着陆时飞行员放下了襟翼。
+
+adj. 由于新东西已经被发明出来而不再被使用的，如被淘汰的、被废弃的、过时的:
+obsolete |[ˈɒbsəli:t;美ˌɑ:bsəˈli:t]
+obsolete technology 过时技术 
+With technological changes many traditional skills have become obsolete. 随着技术的革新，许多传统技艺已被淘汰。
+So much equipment becomes obsolete almost as soon as it's made. 这么多设备几乎一生产出来就要被淘汰。
+Their work is now rendered obsolete by machines. 他们的工作已被机器淘汰。
+
+adj. 故意的、蓄意的:
+adj.（动作或行为）慢而仔细的，如小心翼翼的、不慌不忙的、从容的:
+vt.&vi.（通常在做重大决定之前）仔细考虑某事:
+deliberate |[dɪˈlɪbərət]
+a deliberate act of vandalism 故意毁坏的行为 
+The speech was a deliberate attempt to embarrass the government. 这一发言故意使政府难堪。
+It has a deliberate policy to introduce world art to Britain. 它在政策上有意识地将世界艺术介绍给英国。
+Witnesses say the firing was deliberate and sustained. 目击者说枪击是蓄意而且持续的。         
+She spoke in a slow and deliberate way. 她说话慢条斯理不慌不忙。
+His movements were gentle and deliberate. 他举止文雅而从容。
+stepping with deliberate slowness up the steep paths 小心翼翼地沿着陡峭的小路慢慢往上走
+The jury deliberated for five days before finding him guilty. 陪审团认真讨论了五天才裁定他有罪。
+They deliberated on whether to continue with the talks. 他们仔细考虑了是否继续谈判的问题。
+She deliberated over the decision for a long time before she made up her mind. 她慎重考虑了好久才下定决心做出这一决定。
+
+n. [C] [旧时]（表示愤怒、惊异等的）咒骂，诅咒的话:
+n. 1 [C]（尤指对个人或国家的）宣誓、誓言:
+2 [sing.]（在法庭上承诺说实话的）誓言:
+oath |[əʊθ;美oʊθ]
+She heard the sound of breaking glass, followed by a muttered oath. 她听到打碎玻璃的响声，接着是低声的咒骂。
+sacred, solemn oath 神圣的誓言 
+blood oath 血誓 
+a doctor's Hippocratic oath 医生的希波克拉底誓言 
+He took an oath of allegiance to his adopted country. 他宣誓效忠于自己移居的国家。
+to swear an oath of allegiance 宣誓效忠 
+an oath of loyalty 效忠宣誓 
+Before giving evidence, witnesses in court have to take the oath (= promise to tell the truth). 作证之前，证人必须当庭宣誓据实作证。
+His girlfriend had gone into the witness box and taken the oath. 他的女朋友进入证人席并立了誓。
+Witnesses must testify under oath. 证人必须先宣誓再作证。
+Under oath, Aston finally admitted that he had lied. 在宣誓的约束下，阿斯顿终于承认自己撒了谎。
+He swore on oath that he had never seen me before.（on尤为英式用法）他发誓说以前从未见过我。
+Only a judge is allowed to administer the oath. 只有法官才可以主持宣誓（仪式）。
+
+n. [U] 大量减少；耗尽:
+depletion |[dɪˈpli:ʃn]
+resource depletion 资源消耗 
+oil, oxygen, ozone depletion 石油的消耗；氧气的消耗；臭氧的消耗 
+the depletion of the ozone layer 臭氧层的损耗 
+Increased consumption of water has led to the rapid depletion of reserves. 用水量的增加导致了水资源迅速枯竭。
+Quota systems were set up to prevent depletion of fish stocks. 建立了限额制度以防止鱼雷资源枯竭。
+
+n. [C]（基于现有的信息对未来将要发生的事所进行的）预测:
+vt. 基于现有的信息对未来将要发生的事进行预测，类似于predict:
+forecast |['fɔ:kɑːst]
+economic, financial, market, weather forecast 经济预测；财务预测；市场预测；天气预报 
+The interest rate is in line with the forecast. 利率与预测的结果一致。
+Experts are forecasting a recovery in the economy. 专家预测经济将复苏。
+The report forecasts that prices will rise by 3% next month. 报告预测下月物价将上涨3%。
+Snow is forecast for tomorrow. 预报明天有雪。
+
+adj. [不用于名词前] ~ (at sb/about sth) [非正式，尤美]（尤指由于受到不公平对待而）气恼的、愤愤不平的:
+adj.（尤指由于感染、发炎、肌肉劳损而）疼痛的（常伴有红肿）:
+n. [C] 皮肤伤口处或感染处的一个疼痛（且常红肿）的部位:
+sore |[sɔ:(r)]
+The result is that they are now all feeling very sore at you. 结果就是，现在他们都对你感到十分恼火。
+They are sore about losing to England in the quarter-finals. 他们对在四分之一决赛里输给英格兰队这件事感到非常懊恼。
+The continuing presence of American troops on Korean soil remains a very sore point with these students. 美国军队继续驻扎在韩国领土上这一事实仍然让这些学生深感气愤。          
+to have a sore throat 嗓子疼 
+His feet were sore after the walk. 他走路把脚都走疼了。
+My stomach is still sore (= painful) after the operation. 手术后，我的胃还在疼。
+My chest is still sore from the surgery. 手术过后我的胸口还在作痛。
+It's years since I've had a sore throat like I did last night. 我的喉咙已经好几年没有像昨晚那样疼了。
+open sores 开放性溃疡 
+oozing sore 流脓的疮 
+I have a recurrent cold sore on my lip. 我的嘴唇上又起了个泡。
+canker sore（美）口腔溃疡 
+canker sores caused by biting the inside of your mouth 误咬口腔内壁引起的溃疡 
+bed sore（通常用bedsore）褥疮 
+Many people in the care home have bedsores. 护理院里许多人都长了褥疮。
+The patient developed pressure sores on the toes of both feet. 病人两只脚的脚趾上都长了褥疮。
+saddle sore 鞍疮 
+This issue is a festering sore between the two countries.（比喻用法）这个问题是两国之间的积怨。
+The border dispute was a running sore in relations between the countries.（比喻用法）边界争端是两国之间关系的痛处。          
+
+Metric means relating to the metric system. 公制的
+metric |英 ['metrɪk]  美 ['mɛtrɪk]| adj. 公制的；米制的；公尺的/n. 度量标准/
+Around 180,000 metric tons of food aid is required.大约需要十八万公吨的食品援助。
+
+
+vt.&vi. ~ (for sb/sth) 为某人或某事声援、支持:
+vt. ~ sth (for sth) 给出…作为借口:
+vi. ~ (with sb) (for sth) 乞求、恳求:
+vt. ~ sth (for sth) 给出…作为解释:
+vt.&vi. ~ (for sb/sth) 为某人或某事辩护:
+vt.&vi. 在法庭上作有罪或无罪答辩:
+vt. 向法庭陈述案情:
+plead |[pli:d]
+She appeared on television to plead the cause of political prisoners everywhere. 她出现在电视上为所有政治犯声援请命。
+He would plead the cause of Russian unity. 他会公开支持俄罗斯的统一。
+Mr Burke, pleading poverty, changed his mind. 伯克先生以自己穷为由改变了主意。
+Mr Giles pleads ignorance as his excuse. 贾尔斯先生把不知情当作自己的借口。           
+She pleaded with him not to go. 她恳求他不要离开。
+She was almost pleading with him. 她几乎是在央求他。
+I was forced to plead for my child's life. 我被迫苦苦哀求给我的孩子一条生路。
+pleading eyes 乞求的眼神 
+He pleaded to be allowed to see his mother one more time. 他恳求准许他再看妈妈一眼。
+‘Do something! ’ she pleaded. “帮帮忙吧！”她央求道。
+The lady pleaded with her daughter to come back home. 这位女士恳求她的女儿回家。
+He was kneeling on the floor pleading for mercy. 他跪在地板上请求宽恕。
+She successfully pleaded their cause with the mayor.（successfully尤为英式用法）她请求市长支持他们的事业，结果如愿以偿。
+The United Nations has pleaded for a halt to the bombing. 联合国已呼吁停止轰炸。
+The teacher was today desperately pleading for new of her son who has disappeared. 老师今天迫切渴望得到她失踪了的儿子的消息。
+His eyes silently pleaded with her. 他默默地用眼神恳求她。           
+He pleaded family problems for his lack of concentration. 他解释说注意力分散是因为有家庭问题。
+He appeared before the Committee to plead his case. 他出现在委员会面前为自己辩护。
+Morris had pleaded guilty to robbery. 莫里斯已承认犯有抢劫罪。
+He pleaded not guilty to the murder. 他不承认犯有谋杀罪。
+How do you plead? (= said by the judge at the start of the trial) 你有何辩护？
+He advised his client to plead insanity (= say that he/she was mentally ill and therefore not responsible for his/her actions). 他建议他的当事人以精神不正常作为辩护理由。
+They hired a top lawyer to plead their case. 他们聘请了一位最好的律师帮他们陈述案情。
+
+~ (at) sth [正式] 使某人感到极大的痛苦或难过（尤指以致哭喊出声）:
+n. [sing.]（不得不离开所爱的一个人或地方时的）痛苦、难受:
+n. [C] [尤美] [英式尤用spanner] 金属扳手:
+vt.&vi. 突然且剧烈地拉或扭、拧…，即猛拉、猛扭、猛拧:
+n. [C, usually sing.] 猛扭；猛拉:
+n. [C] [尤美] [英式尤用spanner] 金属扳手:
+vt. 扭伤身体部位（尤指脚踝或肩膀）:
+n. [C, usually sing.] 扭伤:
+wrench |[rentʃ]
+vt.&vi. ~ sth (from sb) 
+His words wrenched a sob from her. 他的话使得她难过得哭泣起来。
+Her words wrenched at my heart. 她的话使得我心如刀绞。
+a wrenching experience 苦难的经历 
+Leaving home was a terrible wrench for me. 对我来说离开家是件十分痛苦的事。
+I always knew it would be a wrench to leave Essex after all these years. 我一直心里清楚过了这么多年后离开埃塞克斯会非常痛苦。
+Many of the things are of great sentimental value and it is going to be a wrench parting with them. 其中很多东西都具有重要的情感价值，令人难以割舍。
+They wrenched the door open. 他们猛地把门拉开了。
+The bag was wrenched from her grasp. 那只包从她紧握的手里被夺了出来。
+He felt two men wrench the suitcase from his hand. 他感觉有两个人在使劲拽他手里的手提箱。
+He grabbed Ben, wrenching him away from his mother. 他抓住本，把他从他母亲那里一把抢走了。
+She managed to wrench herself free. 她终于设法挣脱出来。
+She wrenched herself from his grasp. 她从他手里挣脱开来。
+He wrenched his arm free. 他把手臂挣脱开来。
+He wrenched off his sneakers. 他使劲儿脱下运动鞋。
+Guy wrenched his mind back to the present.（比喻用法）盖伊的思绪猛地回到现在。
+He had wrenched his ankle badly from the force of the fall. 他因摔倒而严重扭伤了脚踝。
+She wrenched her knee when she fell. 她跌倒时把膝盖扭伤了。
+She stumbled and gave her ankle a painful wrench. 她绊了一跤，把脚踝崴得很痛。
+
+n. [C] 进行外科手术的医生，即外科医生:
+surgeon |['sə:dӡən]
+brain surgeon 脑外科医生 
+plastic surgeon 整形外科医生 
+dental, veterinary surgeon 牙医；兽医 
+army surgeon 军医 
+the surgeon’s knife（常为比喻用法）手术刀；手术
+
+n. [C, usually pl] ~ (for sth) 对不利局面的补偿:
+n. [U, C] ~ (for sth) 因自己（或自己拥有的事物）遭到损害所得到的补偿或赔偿，尤指赔偿的金钱；也可指补偿或赔偿的行为:
+compensation |[ˌkɒmpenˈseɪʃn;美ˌkɑ:m-]
+I wish I were young again, but getting older has its compensations. 我要是能再次年轻就好了，但上了年纪也有上了年纪的好处。
+Helen gained some compensation for her earlier defeat by winning the final open class. 海伦在公开组决赛中取胜，这对她早先的失败算是一种补偿。
+Despite a reduction in earnings there are compensations in moving to the north-east where the quality of life is excellent. 尽管钱会挣得少一点，搬到生活质量高的东北部去还是有很多好处的。
+cash, financial, monetary compensation 现金赔偿；经济补偿；金钱上的补偿 
+deferred compensation 延期的赔偿 
+unemployment compensation（美）失业补偿 
+She got some compensation for damages. 她的损失得到了一些赔偿。
+the rules used for determining compensation 用于确定赔偿的规则 
+If the government is proved negligent, compensation will be payable. 如果证明是政府的疏忽，就应支付赔偿。
+compensation claim 赔偿要求 
+compensation committee（尤美）赔偿委员会 
+compensation costs 赔偿费用 
+compensation fund 赔偿基金 
+compensation insurance（尤美）赔偿保险 
+compensation order（尤英）
+compensation package 有关赔偿的一揽子方案 
+compensation payment 赔偿金 
+compensation benefits（美）赔偿金 
+compensation plan（美）, compensation policy, compensation program（美）, compensation scheme（英）, compensation system 赔偿计划；赔偿政策；赔偿方案；赔偿制度 
+compensation law 赔偿法 
+compensation consultant, compensation handler（均美）赔偿顾问；理赔员 
+She received £7,000 as compensation for her injuries. 她收到7,000英镑受伤赔偿。
+to receive £10 000 in compensation 得到赔偿金 1 万英镑 
+He received one year's salary as compensation for loss of office. 他得到一年的工资作为失业补偿金。
+They will have to pay £5,000 in compensation. 他们得赔偿5,000英镑。
+The money was small compensation for unfair dismissal. 这笔钱是对不公平解雇的少量补偿。
+compensation from the government 政府做出的赔偿 
+There should be compensation for British farmers hit by the slump in demand. 应该给受到需求锐减影响的英国农民提供补偿金。
+
+n. [U] 查询或查阅（信息）:
+vt. [正式] 查阅:
+n. 1 [U] 参考（信息）:
+2 [C] 评判标准，参照物:
+vt. [正式] 参考:
+n. [C]（为方便信息查询所用的）数字、文字或符号，可叫做标记，标识或编号（缩写为ref.）:
+n. 1 [C] 某人所写的推荐信（例如当你找工作的时候，某人写给你的新雇主的推荐信，内容常关于你的性格和能力）:
+2 [C]（例如申请工作的时候）同意给你写推荐信的人，即推荐人；介绍人；证明人。相当于referee:
+n. [C, U] reference (to sb/sth) 说到或写到的（谈及到其他人或事的）事；也可指这种行为，即提到；谈及；涉及:
+n. [U] [正式] reference (to sb/sth)（帮助或意见的）征求，征询:
+n. [C] 书籍或论文等材料中的引文（该引文出自于一本书、一首诗、一部戏剧等）；也可指（注明引文出处的）注释:
+n. [C] 参考书:
+vt. [正式] 给（书等）附参考资料:
+reference |['refərəns]
+The book is organized alphabetically for easy reference. 为了便于查阅，这本书是按字母顺序排列的。
+I wrote down the name of the hotel for future reference. 我记下了这家酒店的名字，以后也许用得着。
+She needs the book for reference purposes. 她需要这本书作参考。
+reference point 参照点 
+reference group 参照组 
+reference sample（科学术语）参照样本 
+People interpret events within their own frame of reference. 人们都根据自己的标准来解读各类事件。
+Unemployment serves as a useful point of reference in examining social problems. 失业情况是研究社会问题的有效参照。
+Our charges are calculated by reference to an hourly rate. 我们的收费是按每小时固定费率计算的。
+The map reference is Y4. 地图编号为Y4。
+Please quote your reference number when making an enquiry. 查询时请报出编号。
+page reference 页码索引
+The firm offered to give her a reference. 公司提出给她开一封推荐信。
+a letter of reference 推荐信 
+His former employer agreed to act as a reference for him. 他的前任雇主答应做他的推荐人。
+The official at the American embassy asked me for two references. 美国大使馆的官员要我提供两名证明人。
+She made no reference to her illness but only to her future plans. 她没有提到她的病，只说了她未来的计划。
+cultural, historical, literary, religious reference 文化指涉；历史上提及；文学指涉；宗教指涉 
+written reference 书面提及 
+one of the earliest references to the game of chess 最早提到象棋的资料之一 
+The article makes no reference to his first marriage. 这篇文章只字未提他的第一次婚姻。
+The emergency nurse can treat minor injuries without reference to a doctor. 急救护士不必征求医生的意见就可处理轻伤。
+The decision was made without reference to local managers. 此决定未征求当地主管的意见。
+a reference from the Koran 一段《可兰经》的引文 
+There is a list of references at the end of each chapter. 每一章的后面都有一组引文出处注释。
+reference book, reference guide, reference manual, reference material, reference source, reference text, reference work 参考书；参考指南；参考资料；参考文献；参考作品 
+reference tool 参考工具（书）
+reference library 参考书阅览室 
+Each chapter is referenced, citing literature up to 2019. 每一章都附有参考书目，引用文献近至2019年。
