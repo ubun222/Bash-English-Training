@@ -38,34 +38,34 @@ Mr Harrison was a regular customer at the Golden Lion:哈里森先生是金狮�
 he's a tough customer:他是个难缠的顾客
 
 cause (light or shadow) to appear on a surface:导致（光或影）出现在表面上
-cause (uncertainty or disapproval) to be associated with something:cause（不确定或不赞成）与某事相关联
-register (a vote):register（一票）
-throw (a net, or the hooked and baited end of (a fishing line) out into the water:throw（网，或（钓鱼线）的钩和带饵的末端）投入水中
-let down (an anchor or sounding line).:letdown（锚点或探测线）。
-throw (something) forcefully in a specified direction:throw(something)用力朝指定方向
-direct (one's eyes or a look) at something:direct（一个人的眼睛或一个眼神）看某事
-shape (metal or other material) by pouring it into a mould while molten:shape（金属或其他材料）在熔化时倒入模具中
+cause (uncertainty or disapproval) to be associated with something:原因（不确定或不赞成）与某事相关联
+register (a vote):注册（一票）
+throw (a net, or the hooked and baited end of (a fishing line) out into the water:将（网，或（鱼线）的带钩和带饵的一端扔到水中
+let down (an anchor or sounding line).:放下（锚或测深线）。
+throw (something) forcefully in a specified direction:朝指定方向用力扔（东西）
+direct (one's eyes or a look) at something:直接（眼睛或眼神）看某物
+shape (metal or other material) by pouring it into a mould while molten:通过在熔化时将其倒入模具中来塑造（金属或其他材料）
 make (a moulded object) by casting metal:通过铸造金属制造（模制物体）
 arrange and present in a specified form or style:排列并以指定的形式或风格呈现
-cause (a magic spell) to take effect:cause（一个魔法咒语）生效
+cause (a magic spell) to take effect:使（魔法咒语）生效
 play (video or audio content from a computer, phone, etc.) on a television screen or other device, usually via a wireless connection, without mirroring the screen of the original device:在电视屏幕或其他设备上播放（来自电脑、手机等的视频或音频内容），通常通过无线连接，无需镜像原始设备的屏幕
-shed (skin or horns) in the process of growth:shed（皮或角）在成长过程中
+shed (skin or horns) in the process of growth:生长过程中脱落（皮肤或角）
 (of a horse) lose (a shoe).:（马的）输（鞋）。
 calculate and record details of (a horoscope):计算和记录（星座）的详细信息
 (in country dancing) change one's position by moving a certain number of places in a certain direction along the outside of the line in which one is dancing:（乡村舞）改变一个人的位置，沿着一个人正在跳舞的那条线的外侧向某个方向移动一定数量的地方
 (of a dog) search in different directions for a lost scent:（一只狗）在不同的方向寻找失去的气味
 let loose (hounds) on a scent:让（猎犬）闻一闻
-immobilize (an animal, especially a cow) by using a rope to cause it to fall on its side.:immobilize（一种动物，尤其是一头牛）用一根绳子使其侧倒。
+immobilize (an animal, especially a cow) by using a rope to cause it to fall on its side.:用绳子固定（一只动物，尤指一头牛），使它侧身倒地。
 cast |kɑːst| Noun/Verb/:投掷,投,全体演员,演员表,铸造
 the moon cast a pale light over the cottages:月亮在小屋上投下淡淡的光
-journalists cast doubt on the government's version of events:journalists质疑政府版本的事件
-votes have been cast in 40 per cent of the seats:votes已投到40%的席位
+journalists cast doubt on the government's version of events:记者质疑政府对事件的说法
+votes have been cast in 40 per cent of the seats:40%的席位已投票
 the fishermen cast a large net around a school of tuna:渔民在一群金枪鱼周围撒下一张大网
 he cast the book down on to the chair angrily:他愤怒地把书扔到椅子上
 she cast down her eyes:她垂下眼帘
 when hammered or cast, bronze could be made into tools:锤打或铸造时，青铜可制成工具
 a bell was cast for the church:为教堂敲响了钟声
-he issued statements cast in tones of reason:he发表了有理有据的声明
+he issued statements cast in tones of reason:他发表了有理有据的声明
 the witch cast a spell on her to turn her into a beast:女巫对她施了咒语，把她变成了野兽
 the app can cast your device's photos and videos:该应用可以投射您设备的照片和视频
 the antlers are cast each year:鹿角每年投
@@ -85,7 +85,7 @@ a million people will benefit:100万人将受益
 millions of TV viewers:百万电视观众
 I've got millions of beer bottles in my cellar:我的地窖里有数百万瓶啤酒
 the author is set to make millions:作者准备赚几百万
-movies for the millions:movies数百万
+movies for the millions:数百万人的电影
 
 millions | 百万,数以百万计
 
@@ -97,7 +97,7 @@ a traditional and widely accepted way of behaving or doing something that is spe
 a thing that one does habitually:一个人习惯性地做的事情
 established usage having the force of law or right.:具有法律效力或权利的既定用法。
 regular dealings with a shop or business by customers:客户与商店或企业的定期交易
-made or done to order, custom-made:made or done to order, 定制的
+made or done to order, custom-made:按订单制造或完成，定制
 custom |ˈkʌstəm| Adjective/Noun/:风俗,定做的,定制,自定义
 the old English custom of dancing round the maypole:英国古老的绕五月柱跳舞的习俗
 it is our custom to visit the Lake District in October:10月份去湖区是我们的习惯
@@ -111,13 +111,13 @@ in addition:另外
 an item in addition to what is usual or strictly necessary:除了通常或绝对必要的项目之外的项目
 an item for which an additional charge is made:附加费用的项目
 a person engaged temporarily to fill out a crowd scene in a film or play:在电影或戏剧中临时参与填充人群场景的人
-a run scored other than from a hit with the bat, credited to the batting side rather than to a batter.:arun得分不是来自击球手，记入击球方而不是击球手。
+a run scored other than from a hit with the bat, credited to the batting side rather than to a batter.:击球得分以外的得分，计入击球方而不是击球手。
 a special issue of a newspaper:报纸特刊
 extra |ˈɛkstrə| Adjective/Adverb/Noun/:额外的,额外的收费项目,额外,多余的
 they offered him an extra thirty-five cents an hour:他们给他额外的一小时三十五美分
-‘crudité’ is so extra—just call it a snack:‘crudité’太特别了——就叫它小吃吧
+‘crudité’ is so extra—just call it a snack:“crudité”太特别了——就叫它零食吧
 he is trying to be extra good:他正在努力变得更好
-installation will cost about £60 extra:installation将额外花费约60英镑
+installation will cost about £60 extra:安装将额外花费约 60 英镑
 I had an education with all the extras:我接受了所有额外的教育
 the price includes all major charges—there are no hidden extras:价格包括所有主要费用——没有隐藏的额外费用
 the film used an army of extras:这部电影使用了大量的临时演员
@@ -175,16 +175,16 @@ on Wednesdays, each Wednesday:每周三，每周三
 Wednesday |ˈwɛnzdeɪ| Adverb/Noun/:,星期三
 a report goes before the councillors on Wednesday:a报告于周三提交给议员
 see you Wednesday:周三见
-Wednesdays, the jazz DJ hosts a jam session:Wednesdays，爵士DJ主持即兴演奏会
+Wednesdays, the jazz DJ hosts a jam session:星期三，爵士乐 DJ 举办即兴演奏会
 
 in the time following (an event or another period of time):在接下来的时间（一个事件或另一个时间段）
 in phrases indicating something happening continuously or repeatedly:in表示某事连续或反复发生的短语
-past (used in specifying a time):past（用于指定时间）
+past (used in specifying a time):过去（用于指定时间）
 behind:后面
 (with reference to looking or speaking) in the direction of someone who is moving further away:（指看着或说话）朝着正在走得更远的人的方向
 in phrases referring to making somewhere clean or tidy again after the actions of a person or animal:在短语中指的是在人或动物的行为之后再次使某处干净或整洁
 in pursuit or quest of:追求或追求
-next to and following in order or importance:nexttoandfollowing按顺序或重要性
+next to and following in order or importance:按顺序或重要性紧随其后
 in allusion to (someone or something with the same or a related name):暗指（具有相同或相关名称的某人或某物）
 in imitation of:模仿的
 during the period of time following an event:在事件发生后的一段时间内
@@ -196,13 +196,13 @@ shortly after their marriage they moved to Colorado:结婚后不久，他们搬�
 I strolled in about ten minutes after two:两点后我逛了大约十分钟
 she went out, shutting the door after her:她出去了，在她身后关上了门
 she stared after him:她盯着他
-visitors will be required to clean up after their dogs:visitors将被要求清理他们的狗
+visitors will be required to clean up after their dogs:游客将被要求清理他们的狗
 they're chasing after something that doesn't exist:他们在追逐不存在的东西
 in their order of priorities health comes after housing:在他们的优先顺序中，健康排在住房之后
 they named her Pauline, after Barbara's mother:他们以芭芭拉的母亲命名她为宝琳
 a drawing after Millet's The Reapers:小米的收割者之后的一幅画
 bath time ended in a flood after the taps were left running:水龙头一直开着，洗澡时间就在洪水中结束了
-Duke Frederick died soon after:DukeFrederick不久后去世
+Duke Frederick died soon after:腓特烈公爵不久就去世了
 he was sorry in after years:他在多年后很抱歉
 the after cabin:后舱
 
@@ -218,15 +218,15 @@ she attempted a comeback in 2001:她试图在2001年卷土重来
 the expedition was the first to attempt Everest:探险队是第一个尝试珠穆朗玛峰的人
 he would not have attempted the life of a friend:他不会尝试朋友的生活
 an attempt on the unclimbed north-east ridge:未攀登的东北山脊上的尝试
-Karakozov made an attempt on the Tsar's life:Karakozov企图刺杀沙皇
+Karakozov made an attempt on the Tsar's life:卡拉科佐夫企图刺杀沙皇
 she picked her first attempt at a letter out of the wastebasket:她第一次尝试从废纸篓中取出一封信
 
 leave one's job and cease to work, typically on reaching the normal age for leaving service:离开工作岗位并停止工作，通常是在达到正常离职年龄时
-compel (an employee) to leave their job, especially before they have reached retirement age:compel（雇员）离职，尤其是在达到退休年龄之前
+compel (an employee) to leave their job, especially before they have reached retirement age:强迫（雇员）离职，尤其是在他们达到退休年龄之前
 (of a player) cease to participate in competitive sport:（运动员）停止参加竞技运动
 (of a sports player) withdraw from a race or match as a result of accident or injury:（运动员）因意外或受伤而退出比赛或比赛
-put out (a batter), cause (a side) to end a turn at bat:putout（击球手），导致（一方）在击球时结束转身
-withdraw to or from a particular place:withdraw到或从一个特定的地方
+put out (a batter), cause (a side) to end a turn at bat:扑灭（击球手），导致（一方）结束击球回合
+withdraw to or from a particular place:退出或退出特定地点
 go to bed:睡觉
 (of a jury) leave the courtroom to decide the verdict of a trial:（陪审团的）离开法庭决定审判的判决
 (of a military force) retreat from an enemy or an attacking position:（军队的）从敌人或进攻位置撤退
@@ -238,28 +238,28 @@ he retired from the Navy in 1986:他于1986年从海军退役
 the Home Office retired him:内政部让他退休
 he retired from football several years ago:他几年前退役了
 he was forced to retire with a damaged oil tank:他因油箱损坏而被迫退休
-Dopson retired twelve batters in a row:Dopson连续退役十二名击球手
-she retired into the bathroom:she退休到浴室
-everyone retired early that night:everyone那天晚上早早退休了
+Dopson retired twelve batters in a row:多普森连续退役十二名击球手
+she retired into the bathroom:她退休到浴室
+everyone retired early that night:那天晚上大家都早早下班了
 the judge finished his summing up and the jury retired:法官总结完毕，陪审团退休
 lack of numbers compelled the British force to retire:缺乏数字迫使英国军队退役
 the general retired all his troops:将军退役了他所有的部队
 the debt is to be retired from state gaming-tax receipts:债务将从州博彩税收据中退还
 
 come or go back to a place or person:来或回一个地方或人
-go back to (a particular situation):gobackto（特定情况）
+go back to (a particular situation):回到（特定情况）
 divert one's attention back to:转移注意力
 (especially of a feeling) reoccur after a period of absence:（尤指一种感觉的）离开一段时间后再次出现
 play the last nine holes in a round of eighteen holes:在一轮十八洞比赛中打最后九洞
 give, put, or send (something) back to a place or person:给、放或送（某物）回一个地方或人
 feel, say, or do (the same feeling, action, etc.) in response:感觉、说或做（相同的感觉、动作等）作为回应
 (in tennis and other sports) hit or send (the ball) back to an opponent:（在网球和其他运动中）击球或送回（球）给对手
-intercept (a pass, kick, or fumble by the opposing team) and run upfield with the ball:intercept（对方球队的传球、踢球或失误）并带球跑到前场
+intercept (a pass, kick, or fumble by the opposing team) and run upfield with the ball:拦截（对方球队的传球、踢球或失误）并带球跑到前场
 (of a judge or jury) state or present (a decision or verdict) in response to a formal request:（法官或陪审团）响应正式请求陈述或提出（决定或裁决）
-lead (a card, especially one of a suit led earlier by one's partner) after taking a trick:lead（一张牌，尤其是由自己的搭档较早领先的花色）
-yield or make (a profit):yield或make（盈利）
+lead (a card, especially one of a suit led earlier by one's partner) after taking a trick:领牌（一张牌，尤指由自己的搭档先领的花色中的一张）
+yield or make (a profit):收益或赚取（利润）
 (of an electorate) elect (a person or party) to office:（选民的）选举（个人或政党）就职
-continue (a wall) in a changed direction, especially at right angles.:continue（一堵墙）在一个改变的方向，尤其是在直角。
+continue (a wall) in a changed direction, especially at right angles.:沿改变的方向继续（一堵墙），尤其是在直角处。
 an act of coming or going back to a place or activity:一个来回一个地方或活动的行为
 an act of going back to an earlier state or situation:回到更早的状态或情况的行为
 the action of returning something:返回某物的动作
@@ -282,15 +282,15 @@ he returned to America in the late autumn:他深秋回到美国
 I'll be glad when things return to normal:一切恢复正常我会很高兴
 he returned to his newspaper:他回到他的报纸
 her appetite had returned:她的胃口恢复了
-McAllister went out in 43 and returned in 32:McAllister43岁出去，32岁回来
+McAllister went out in 43 and returned in 32:麦卡利斯特 43 岁出局，32 岁归来
 complete the application form and return it to this address:填写申请表并寄回此地址
 she returned his kiss:她回了他的吻
 the aim is to make the other side unable to return the ball:目的是让对方无法回球
 they had six passes intercepted—five were returned for touchdowns:他们有六次传球被拦截——五次被传回达阵
 the jury returned the unanimous guilty verdict:陪审团一致作出有罪判决
-he returned a Diamond won by his partner who now played the 10 of Spades:he返回了由他的伙伴赢得的钻石，他现在玩黑桃10
+he returned a Diamond won by his partner who now played the 10 of Spades:他返回了由他的伙伴赢得的钻石，他现在玩黑桃10
 the company returned a profit of £4.3 million:the公司返还了430万英镑的利润
-the city of Glasgow returned eleven Labour MPs:thecityofGlasgow返回了11名工党议员
+the city of Glasgow returned eleven Labour MPs:格拉斯哥市遣返了 11 名工党议员
 he celebrated his safe return from the war:他庆祝他从战争中平安归来
 the designer advocated a return to elegance:设计师倡导回归优雅
 the tape is ready to despatch to you on return of the documents:磁带已准备好在文件归还时寄给您
@@ -298,14 +298,14 @@ it might be worth checking with the box office for returns:可能值得向票房
 a return ticket to the airport:一张去机场的回程机票
 he scored his first Test try in the return at Avignon:他在阿维尼翁的回归中获得了他的第一次测试尝试
 product areas are being developed to produce maximum returns:正在开发产品领域以产生最大回报
-census returns:census返回
-election returns showed his candidate had lost by 304 votes:election返回显示他的候选人以304票之差落败
+census returns:人口普查报告
+election returns showed his candidate had lost by 304 votes:选举结果显示他的候选人以 304 票之差落败
 I campaigned for the return of forty-four MPs:我为四十四名国会议员的回归而竞选
 
-acknowledge (a significant or happy day or event) with a social gathering or enjoyable activity:acknowledge（重要或快乐的一天或事件）与社交聚会或愉快的活动
-reach (a birthday or anniversary):reach（生日或周年纪念日）
-perform (a religious ceremony), in particular officiate at (the Eucharist):perform（宗教仪式），特别是主持（圣体圣事）
-honour or praise publicly:honour或公开表扬
+acknowledge (a significant or happy day or event) with a social gathering or enjoyable activity:通过社交聚会或愉快的活动来感谢（重要或快乐的一天或事件）
+reach (a birthday or anniversary):达到（生日或周年纪念日）
+perform (a religious ceremony), in particular officiate at (the Eucharist):进行（宗教仪式），尤指主持（圣体圣事）
+honour or praise publicly:公开表扬或表扬
 celebrate |ˈsɛlɪbreɪt| Verb/:庆祝,庆,庆祝一下
 they were celebrating their wedding anniversary at a swanky restaurant:他们在一家时髦的餐厅庆祝他们的结婚纪念日
 the programme celebrates its 40th birthday this year:该计划今年庆祝其40岁生日
@@ -320,20 +320,20 @@ a slender, flexible shoot cut from a tree.:从树上剪下来的细长、灵活�
 a set of points on a railway track.:铁路轨道上的一组点。
 a tress of false or detached hair tied at one end, used in hairdressing to supplement natural hair.:一绺假发或脱落发束，用于美发以补充自然发质。
 change the position, direction, or focus of:更改位置、方向或焦点
-adopt (something different) in place of something else, change:adopt（不同的东西）代替别的东西，改变
-substitute (two items) for each other, exchange:substitute（两个项目）互相替换，交换
-beat or flick with or as if with a switch.:beat或轻弹或好像带有一个开关。
+adopt (something different) in place of something else, change:采用（不同的东西）代替其他东西，改变
+substitute (two items) for each other, exchange:互相替代（两项），交换
+beat or flick with or as if with a switch.:用或好像用开关敲打或轻弹。
 switch |swɪtʃ| Noun/Verb/:,开关,交换机
 the guard hit a switch and the gate swung open:守卫按下开关，大门打开
 his friends were surprised at his switch from newspaper owner to farmer:他的朋友们对他从报社老板转变为农民感到惊讶
 the company switched the boats to other routes:公司改船换其他航线
-she's managed to switch careers:she成功转行
+she's managed to switch careers:她成功转行
 after ten minutes, listener and speaker switch roles:十分钟后，听者和说者互换角色
 
 relieve (a person or animal) of the symptoms of a disease or condition:减轻（人或动物）疾病或病症的症状
 eliminate (a disease or condition) with medical treatment:他已经在这种疗法中待了四年2
-solve (a problem):solve（一个问题）
-preserve (meat, fish, tobacco, or an animal skin) by salting, drying, or smoking:preserve（肉、鱼、烟草或动物皮）通过盐腌、干燥或吸烟
+solve (a problem):解决问题）
+preserve (meat, fish, tobacco, or an animal skin) by salting, drying, or smoking:通过盐腌、干燥或熏制来保存（肉、鱼、烟草或动物皮）
 harden (rubber, plastic, concrete, etc.) after manufacture by a chemical process such as vulcanization:硬化（橡胶、塑料、混凝土等）通过硫化等化学工艺制造后
 undergo hardening by a chemical process:经过化学硬化处理
 a substance or treatment that cures a disease or condition:治愈疾病或病症的物质或疗法
@@ -345,7 +345,7 @@ a parish:一个教区
 cure |kjʊə| Noun/Verb/:治愈,药物,治疗,治,医
 he was cured of the disease:他的病痊愈了
 this technology could be used to cure diabetes:这项技术可用于治疗糖尿病
-a bid to trace and cure the gearbox problems:abid追踪和解决变速箱问题
+a bid to trace and cure the gearbox problems:试图追踪和解决变速箱问题
 the early synthetic rubbers were much more difficult to cure than natural rubber:早期合成橡胶比天然橡胶更难硫化
 the mastic takes days to cure:乳香需要几天才能治愈
 the search for a cure for the common cold:寻找治疗普通感冒的方法
@@ -386,21 +386,21 @@ I'm not primarying the president, and no one else should either unless we want t
 have or retain possession of:拥有或保留拥有
 put or store in a regular place:放置或存放在常规位置
 cause to continue in a specified condition, position, course, etc.:导致在指定的条件、位置、路线等中继续。
-continue in a specified condition, position, course, etc.:continue在指定的条件、位置、路线等。
+continue in a specified condition, position, course, etc.:在指定的条件、位置、路线等处继续。
 continue doing or do repeatedly:继续做或重复做
 (of a perishable commodity) remain in good condition:（易腐烂商品）保持良好状态
 retain one's place in or on (a seat or saddle, the ground, etc.) in spite of difficulty:尽管有困难，仍能在（座位或马鞍、地面等）内或上保持自己的位置
 be in a specified state of health:处于指定的健康状态
-make (someone) do something for a period of time:make（某人）做某事一段时间
+make (someone) do something for a period of time:让（某人）做某事一段时间
 cause to be late, delay:导致迟到，延迟
-continue to follow (a path or course):continuetofollow（路径或路线）
+continue to follow (a path or course):继续跟随（一条路或路线）
 provide for the sustenance of (someone):提供给（某人）的食物
 own and look after (an animal) for pleasure or profit:拥有并照顾（动物）以获得乐趣或利益
 own and manage (a shop or business):拥有和管理（商店或企业）
 guard, protect:守卫，保护
-support (someone, especially a woman) financially in return for sexual favours:support（某人，尤其是女性）在经济上换取性好处
-honour or fulfil (a commitment or undertaking):honour或履行（承诺或承诺）
-observe (a religious occasion) in the prescribed manner:observe（宗教场合）以规定的方式
+support (someone, especially a woman) financially in return for sexual favours:在经济上支持（某人，尤其是女性）以换取性恩惠
+honour or fulfil (a commitment or undertaking):兑现或履行（承诺或承诺）
+observe (a religious occasion) in the prescribed manner:以规定的方式观察（宗教场合）
 pay due regard to (a law or custom):pay适当考虑（法律或习惯）
 make written entries in (a diary) on a regular basis:定期在（日记）中进行书面记录
 write down as (a record):写下（记录）
@@ -408,9 +408,9 @@ keep |kɛpt| Noun/Verb/:保持,生活费,继续
 return one copy to me, keeping the other for your files:把一份还给我，另一份留给你的文件
 his personal work was kept securely in an upstairs studio:他的个人作品被安全地保存在楼上的工作室
 the guidance system keeps the machine on course:引导系统使机器保持正常运行
-I kept quiet while Emily talked on:Emily说话时我保持安静
+I kept quiet while Emily talked on:艾米丽继续说话时我保持安静
 he keeps going on about the accident:他一直在谈论事故
-rice will keep almost indefinitely without spoiling:rice几乎可以无限期保存而不会变质
+rice will keep almost indefinitely without spoiling:大米几乎可以无限期保存而不会变质
 can you keep your saddle, or shall I carry you on a pillion?:你能保留你的马鞍，还是让我把你放在后座上？
 he had not been keeping well:他一直没养好
 I have kept her waiting too long:我让她等得太久了
@@ -434,7 +434,7 @@ a structure of more or less pyramidal form, especially in the brain or the renal
 an organization or system that is structured with fewer people or things at each level as one approaches the top:一个组织或系统，当一个人接近高层时，每个级别的人或事都会减少
 a game played on a billiard table with fifteen coloured balls arranged in a triangle and a cue ball.:在台球桌上玩的游戏，十五个彩色球排列成三角形，还有一个母球。
 a system of financial growth achieved by a small initial investment, with subsequent investments being funded by using unrealized profits as collateral:通过少量初始投资实现财务增长的系统，随后的投资以未实现利润作为抵押品进行融资
-stack or arrange in the shape of a pyramid.:stack或排列成金字塔的形状。
+stack or arrange in the shape of a pyramid.:堆叠或排列成金字塔形状。
 achieve a substantial return on (money or property) after making a small initial investment:在进行少量初始投资后获得可观的（金钱或财产）回报
 pyramid |ˈpɪrəmɪd| Noun/Verb/:金字塔,金字塔形
 a pyramid of logs:一个原木金字塔
@@ -446,7 +446,7 @@ a bank can pyramid modest capital into an enormous sum of money:一家银行可�
 have enough money to pay for:有足够的钱来支付
 have (a resource such as money or time) available or to spare:拥有（金钱或时间等资源）可用或空闲
 be able to do something without risk of adverse consequences:能够做某事而不会有不利后果的风险
-provide or supply (an opportunity or facility):provide或供应（机会或设施）
+provide or supply (an opportunity or facility):提供或供应（机会或设施）
 afford |əˈfɔːd| Verb/:买得起,负担得起
 the best that I could afford was a first-floor room:我能负担得起的最好的是一楼的房间
 it was taking up more time than he could afford:这花费的时间超出了他的承受能力
@@ -455,21 +455,21 @@ the rooftop terrace affords beautiful views:屋顶露台享有美丽的景色
 
 make an opening, incision, or wound in (something) with a sharp-edged tool or object:用锋利的工具或物体在（某物）上做一个开口、切口或伤口
 make a deliberate incision in (one's flesh), as a symptom of psychological or emotional distress:故意切开（一个人的肉体），作为心理或情绪困扰的症状
-castrate (an animal, especially a horse).:castrate（一种动物，尤其是马）。
-circumcise (a boy or man).:circumcise（男孩或男人）。
+castrate (an animal, especially a horse).:阉割（动物，尤指马）。
+circumcise (a boy or man).:割礼（男孩或男人）。
 divide into pieces with a knife or other sharp implement:用刀或其他锋利的工具分成几块
-make divisions in (something):make分裂（某事）
-separate (something) into two pieces, sever:separate(something)intotwopieces,sever
+make divisions in (something):对（某物）进行划分
+separate (something) into two pieces, sever:把（某物）分成两部分，切断
 remove (something) from something larger by using a sharp implement:用锋利的工具从更大的东西上移除（某物）
-make or form (something) by using a sharp tool to remove material:makeorform(something)byusingasharptooltoremovematerials
+make or form (something) by using a sharp tool to remove material:通过使用锋利的工具去除材料来制造或形成（某物）
 make or design (a garment) in a particular way:以特定方式制作或设计（服装）
-make (a path, tunnel, or other route) by excavation, digging, or chopping:make（路径、隧道或其他路线）通过挖掘、挖掘或砍伐
-produce (a vinyl record) from a sound recording:produce（黑胶唱片）来自录音
+make (a path, tunnel, or other route) by excavation, digging, or chopping:通过挖掘、挖掘或砍伐来开辟（道路、隧道或其他路线）
+produce (a vinyl record) from a sound recording:从录音中制作（黑胶唱片）
 trim or reduce the length of (grass, hair, etc.) by using a sharp implement:使用锋利的工具修剪或缩短（草、头发等）的长度
 reduce the size, amount, or quantity of:减少大小、数量或数量
 shorten (a text, film, or performance) by removing material:通过删除材料来缩短（文本、电影或表演）
-delete (part of a text or other display) so as to insert a copy of it elsewhere.:delete（文本或其他显示的一部分）以便在别处插入它的副本。
-absent oneself from (something one should normally attend, especially school):absentoneselffrom（通常应该去的地方，尤其是学校）
+delete (part of a text or other display) so as to insert a copy of it elsewhere.:删除（文本或其他显示的一部分）以便在别处插入它的副本。
+absent oneself from (something one should normally attend, especially school):缺席（通常应该参加的事情，尤其是学校）
 end or interrupt the provision of (a supply):结束或中断提供（供应）
 switch off (an engine or a light):关闭（引擎或灯）
 (of a line) cross or intersect (another line):（一条线）交叉或相交（另一条线）
@@ -477,8 +477,8 @@ stop filming or recording:停止拍摄或录音
 move to another shot in a film:移动到电影中的另一个镜头
 make (a film) into a coherent whole by removing parts or placing them in a different order:通过移除部分或以不同的顺序将它们组合成一个连贯的整体
 mix (an illegal drug) with another substance:mix（一种非法药物）与另一种物质
-strike or kick (a ball) with an abrupt, typically downward motion:strike或踢（一个球）以突然的，通常是向下的运动
-slice (the ball).:slice（球）。
+strike or kick (a ball) with an abrupt, typically downward motion:以突然的、通常是向下的动作击打或踢（球）
+slice (the ball).:切（球）。
 hit (the ball) to the off side with the bat held almost horizontally, play such a stroke against (the bowler).:hit（球）在球棒几乎水平保持的情况下打到越位，对（投球手）进行这样的击球。
 (of the ball) turn sharply on pitching.:（球）在投球时急转直下。
 divide a pack of playing cards by lifting a portion from the top, either to reveal a card at random or to place the top portion under the bottom portion:通过从顶部提起一部分来划分一副扑克牌，随机显示一张牌或将顶部放在底部下方
@@ -488,23 +488,23 @@ he cut his toe on a sharp stone:他的脚趾被一块锋利的石头割伤了
 I started cutting myself when I was about 14 and continued for four years:我14岁左右开始割伤自己，持续了四年
 the country was cut into three parts:国家被一分为三
 they cut the rope before he choked:他们在他窒息之前切断了绳索
-bacon was cut from the joints that hung from the ceiling:bacon是从悬挂在天花板上的关节处切下的
-workmen cut a hole in the pipe:workmen在管道上开一个洞
+bacon was cut from the joints that hung from the ceiling:培根是从悬挂在天花板上的接缝处切下来的
+workmen cut a hole in the pipe:工人们在管道上切了一个洞
 Madame Vionnet was the first to cut a dress on the bias, in 1927:维奥内夫人 (Madame Vionnet) 于 1927 年率先剪裁出斜裁连衣裙
 it took engineers a dozen years and the federal government $500 million to cut a road through the canyon:工程师花了十几年时间和联邦政府花费5亿美元在峡谷中开辟一条道路
-quadraphonic LPs had to be cut at a lower volume level than conventional records:quadraphonicLP必须以比传统唱片更低的音量进行剪辑
+quadraphonic LPs had to be cut at a lower volume level than conventional records:四声道 LP 必须以比传统唱片更低的音量进行切割
 Ted was cutting the lawn:Ted正在修剪草坪
 buyers will bargain hard to cut the cost of the house they want:买家会努力讨价还价以降低他们想要的房子的成本
 he had to cut unnecessary additions made to the opening scene:他不得不删掉对开场的不必要的补充
 Robert was cutting class:罗伯特正在上课
 we resolved to cut oil supplies to territories controlled by the rebels:we决定削减对叛军控制地区的石油供应
-Niall brought the car to a halt and cut the engine:Niall让车停下并熄火
-mark the point where the line cuts the vertical axis:mark直线与纵轴相交的点
+Niall brought the car to a halt and cut the engine:Niall 把车停了下来，关掉了引擎
+mark the point where the line cuts the vertical axis:标记线切割垂直轴的点
 ‘Cut’ shouted a voice, followed by ‘Could we do it again, please?’:‘Cut’喊了一声，接着是‘我们可以再做一次吗？
 I like to watch the rushes at home before I start cutting the film:我喜欢在开始剪片之前在家看灯心草
-dealers cut the drugs to stretch their supply:dealers削减药物以扩大供应
-Cook cut the ball back to him:Cook将球切回给他
-let's cut for dealer:let'scutfor经销商
+dealers cut the drugs to stretch their supply:经销商削减药品以扩大供应
+Cook cut the ball back to him:库克将球切回给他
+let's cut for dealer:让我们为经销商削减
 they cut her in public:他们在公共场合砍了她
 
 officially or legally prohibit (something):官方或法律禁止（某事）
@@ -515,7 +515,7 @@ a sentence of outlawry:一个违法的句子
 a curse:诅咒
 a monetary unit of Romania, equal to one hundredth of a leu.:罗马尼亚的货币单位，等于百分之一列伊。
 ban |ban| Noun/Verb/:禁止,禁令,禁,取缔
-parking is banned around the harbour in summer:parking夏季港口周围禁止停车
+parking is banned around the harbour in summer:夏季禁止在海港周围停车
 her son was banned for life from the Centre:她的儿子被中心终身禁止
 a proposed ban on cigarette advertising:a提议的香烟广告禁令
 a ban on dangerous jet-ski riders:禁止危险的摩托艇骑手
@@ -571,11 +571,11 @@ the word that governs all the other words in a phrase in which it is used, havin
 a superficial deposit of rock fragments, formed at the edge of an ice sheet by repeated freezing and thawing and then moved downhill.:一个岩石碎片的浅层沉积物，在冰盖边缘通过反复冻融形成，然后向下移动。
 a group of pheasants:一群野鸡
 head |hɛd| Adjective/Noun/Verb/:头,前往,头部,脑袋
-whatever comes into my head:whatever进入我的脑海
+whatever comes into my head:无论进入我的脑海
 she had a good head for business:她的商业头脑很好
 he was beaten by a head:他被人打了一头
 heads or tails?:正面还是反面？
-stags yearly cast their heads in March:stags每年三月投下他们的头
+stags yearly cast their heads in March:雄鹿每年三月都会低下头
 huge heads of fluffy cream flowers:巨大的蓬松奶油花
 he sat down at the head of the cot:他坐在婴儿床的头上
 at the head of the queue:在队列的最前面
@@ -594,7 +594,7 @@ a piece of work done for private gain without an employer's permission or withou
 foreigner |ˈfɒrɪnə| Noun/:外国人,老外
 the bakery was popular with locals and foreigners alike:面包店深受当地人和外国人的喜爱
 
-ready, eager, or prepared to do something:ready、渴望或准备做某事
+ready, eager, or prepared to do something:准备好、渴望或准备做某事
 given or done readily:给定或容易完成
 willing |ˈwɪlɪŋ| Adjective/:愿意的,愿意,愿,自愿的
 willing and prompt obedience:愿意和及时的服从

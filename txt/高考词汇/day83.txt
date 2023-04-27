@@ -40,7 +40,7 @@ our current revenues are certainly lower than anticipated:我们目前的收入�
 ‘A good idea,’ she agreed. ‘Certainly!’:“一个好主意，”她同意了。
 
 used as the object of a verb or preposition to refer to two or more people or things previously mentioned or easily identified:用作动词或介词的宾语，指两个或两个以上的人或事，前面提到过或容易辨认
-used after the verb ‘to be’ and after ‘than’ or ‘as’:用在动词“tobe”和“than”或“as”之后
+used after the verb ‘to be’ and after ‘than’ or ‘as’:用在动词“to be”之后和“than”或“as”之后
 referring to a person of unspecified sex:指一个未指明性别的人
 referring to a person whose gender identity does not correspond to the traditional binary opposition of male and female:指性别认同不符合传统男女二元对立的人
 themselves:他们自己
@@ -49,7 +49,7 @@ them |ðɛm| Determiner/Pronoun/:他们,它们
 I bathed the kids and read them stories:
 you reckon that's them?:你认为是他们？
 how well do you have to know someone before you call them a friend?:在称某人为朋友之前，您必须了解多少？
-Rowan stopped being a mod on this blog, but we still contact them:Rowan不再是这个博客的模组，但我们仍然与他们联系
+Rowan stopped being a mod on this blog, but we still contact them:Rowan 不再是这个博客的模组，但我们仍然联系他们
 they bethought them of a new expedient:他们想到了一种新的权宜之计
 look at them eyes:看他们的眼睛
 
@@ -61,17 +61,17 @@ arriving at kindergarten ready to learn is vitally important:到达幼儿园准�
 
 an electromagnetic wave with a wavelength in the range 0.001–0.3 m, shorter than that of a normal radio wave but longer than those of infrared radiation. Microwaves are used in radar, in communications, and for heating in microwave ovens and in various industrial processes:一种波长在0.00.3m范围内的电磁波，比普通无线电波短，但比红外辐射长。5
 an oven that uses microwaves to cook or heat food:使用微波炉烹饪或加热食物的烤箱
-cook (food) in a microwave oven:cook（食物）在微波炉中
+cook (food) in a microwave oven:用微波炉煮（食物）
 microwave |ˈmʌɪkrə(ʊ)weɪv| Noun/Verb/:微波,微波炉,微
 a cheesecake was defrosting in the microwave:a芝士蛋糕在微波炉中解冻
 he microwaved some steak out of the freezer:
 
 throw or impel (someone or something) with great force:throw或用很大的力量推动（某人或某物）
-utter (abuse) vehemently:utter（虐待）强烈
+utter (abuse) vehemently:强烈地说（辱骂）
 vomit:呕吐
 a ride in a vehicle, a lift:乘车、乘电梯
 hurl |həːl| Noun/Verb/:,投掷,扔
-rioters hurled a brick through the windscreen:rioters向挡风玻璃投掷砖块
+rioters hurled a brick through the windscreen:暴徒向挡风玻璃扔砖头
 the demonstrators hurled abuse at councillors:示威者辱骂议员
 you make me want to hurl:你让我想投掷
 hey pal, any chance of a hurl?:嘿伙计，有机会投掷吗？
@@ -99,28 +99,28 @@ a fire engine.:一辆消防车。
 a mechanical device or instrument, especially one used in warfare:机械装置或仪器，尤指战争中使用的
 engine |ˈɛn(d)ʒ(ɪ)n| Noun/:引擎,发动机
 the roar of a car engine:汽车引擎的轰鸣声
-exports used to be the engine of growth:exports曾经是增长的引擎
+exports used to be the engine of growth:出口曾是增长引擎
 a siege engine:攻城引擎
 
-raise to a higher position or level:raise到更高的位置或级别
-move (one's eyes or face) to face upwards and look at someone or something:move（一个人的眼睛或脸）向上看某人或某物
+raise to a higher position or level:提升到更高的职位或级别
+move (one's eyes or face) to face upwards and look at someone or something:移动（一个人的眼睛或脸）面朝上看某人或某物
 move upwards, be raised:向上移动，被提升
 (of a cloud, fog, etc.) move upwards or away:（云、雾等）向上或远离
 increase the volume of (one's voice):增加（某人的声音）的音量
-increase (a price or amount):increase（价格或数量）
+increase (a price or amount):增加（价格或数量）
 hit or kick (a ball) high into the air.:击球或踢（球）高空。
 improve the rank or position of (a person or team):提高（个人或团队）的等级或职位
 perform cosmetic surgery on (part of the body) to reduce sagging:对（身体的一部分）进行整容手术以减少下垂
-dig up (plants or root vegetables):digup（植物或根茎类蔬菜）
-pick up and move to a different position:pickup并移动到不同的位置
+dig up (plants or root vegetables):挖掘（植物或块根类蔬菜）
+pick up and move to a different position:拿起并移动到不同的位置
 transport by air:空运
 enable (someone or something) to escape from an unpleasant situation:使（某人或某事）摆脱不愉快的情况
-raise (a person's spirits or confidence):raise（一个人的精神或信心）
+raise (a person's spirits or confidence):提高（一个人的精神或信心）
 (of a person's mood) become happier:（一个人的心情）变得更快乐
 formally remove or end (a legal restriction, decision, or ban):正式删除或结束（法律限制、决定或禁令）
-carry off or win (a prize or event):carryofforwin（奖品或活动）
+carry off or win (a prize or event):夺得或赢得（奖品或活动）
 use (a person's work or ideas) without permission or acknowledgement:未经许可或承认使用（一个人的工作或想法）
-steal (something):steal(某事)
+steal (something):偷（东西）
 arrest (someone):逮捕（某人）
 a platform or compartment housed in a shaft for raising and lowering people or things to different levels.:安装在竖井中的平台或隔间，用于将人或物提升和降低到不同的高度。
 a device incorporating a moving cable for carrying people up or down a mountain:一种带有移动电缆的装置，用于载人上下山
@@ -136,31 +136,31 @@ a feeling of confidence or cheerfulness:一种自信或快乐的感觉
 lift |lɪft| Noun/Verb/:电梯,举起,升降机
 he lifted his trophy over his head:他把奖杯举过头顶
 he lifted his eyes for an instant:他瞬间抬起了眼睛
-Thomas's eyelids drowsily lifted:Thomas眼皮昏昏沉沉的抬起
+Thomas's eyelids drowsily lifted:托马斯的眼皮昏昏欲睡地抬起
 the factory smoke hung low, never lifted:工厂烟低垂，永不消散
 she lifted her voice in a great shout:她大声喊叫
-the building society lifted its interest rates by 0.75 of a point:thebuildingSociety加息0.75个百分点
+the building society lifted its interest rates by 0.75 of a point:房屋互助协会将利率提高了 0.75 个百分点
 this victory lifted United into third place:这场胜利将曼联提升到第三位
-surgeons lift and remove excess skin from the face and neck:surgeons提升并去除面部和颈部多余的皮肤
+surgeons lift and remove excess skin from the face and neck:外科医生从面部和颈部提起并去除多余的皮肤
 the end of September is the time to lift and store carrots:九月末是提萝卜的时候
 he lifted her down from the pony's back:他把她从小马背上抱下来
 a helicopter lifted 11 crew to safety from the ship:a直升机将11名船员从船上救起
 the best way to lift nations out of poverty is through trade:使国家摆脱贫困的最佳方式是通过贸易
 we heard inspiring talks which lifted our spirits:我们听到鼓舞人心的演讲，鼓舞了我们的士气
 suddenly his heart lifted and he could have wept with relief:突然，他的心都振作起来了，他本可以如释重负地哭泣
-the European Community lifted its oil embargo against South Africa:theEuropeanCommunity解除对南非的石油禁运
-she staged a magnificent comeback to lift the British Open title:she华丽复出，夺得英国公开赛冠军
-this is a hackneyed adventure lifted straight from a vintage Lassie episode:this是一个老套的冒险，直接取自老式的Lassie剧集
+the European Community lifted its oil embargo against South Africa:欧洲共同体解除对南非的石油禁运
+she staged a magnificent comeback to lift the British Open title:她华丽复出，夺得英国公开赛冠军
+this is a hackneyed adventure lifted straight from a vintage Lassie episode:这是直接从经典的 Lassie 插曲中提取的陈腐冒险
 he had been caught lifting a coat from a department store:他被抓到从百货公司拿起一件外套
 that night the army came and lifted Buckley:那天晚上，军队来了，举起了巴克利
-Alice went up to the second floor in the lift:Alice乘电梯上二楼
+Alice went up to the second floor in the lift:爱丽丝乘电梯上了二楼
 we zigzagged across the mountain from one lift to the next:we曲折穿过山，从一部电梯到另一部
-weightlifters attempting a particularly heavy lift:weightlifters尝试特别重的举重
-separate engines provide lift and generate forward speed:separate引擎提供升力并产生前进速度
-the Puma tactical transport helicopter has a total lift of up to 5,500 lb:thePuma战术运输直升机总升力高达5,500磅
+weightlifters attempting a particularly heavy lift:尝试举重物的举重运动员
+separate engines provide lift and generate forward speed:独立的发动机提供升力并产生前进速度
+the Puma tactical transport helicopter has a total lift of up to 5,500 lb:Puma 战术运输直升机的总升力高达 5,500 磅
 the company has already produced a 10 per cent lift in profits:该公司的利润已经增长了10%
 in a speech he adopted the President's familiar hand motions—it was a lift:在一次演讲中，他采用了总统熟悉的手势——那是电梯
-Miss Green is giving me a lift to school:MissGreen送我去学校
+Miss Green is giving me a lift to school:格林小姐要载我去学校
 winning this match has given everyone a lift:赢得这场比赛让每个人都振作起来
 
 all round a particular place or thing:围绕一个特定的地方或事物
@@ -216,7 +216,7 @@ crop |krɒp| Noun/Verb/:庄稼,收获,作物,农作物
 the main crops were oats and barley:主要农作物是燕麦和大麦
 a heavy crop of fruit:一大堆水果
 he had a thick crop of wiry hair:他有一头浓密的头发
-failure to observe sound practice leads to a lamb crop at weaning of around 50–60 per cent:failure观察良好的实践导致断奶时羔羊产量约为60%
+failure to observe sound practice leads to a lamb crop at weaning of around 50–60 per cent:未能遵守良好的做法会导致断奶时羔羊产量下降约 50-60%
 the current crop of politicians:当前的政客
 she has her hair cut in a short crop:她剪了短发
 the parent waxbill partially digests food in its crop:父蜡嘴鸟部分消化其作物中的食物
@@ -234,7 +234,7 @@ the subjective case.:主观案例。
 subjective |səbˈdʒɛktɪv| Adjective/Noun/:主观,主观的
 his views are highly subjective:他的观点非常主观
 
-feel or declare that (someone or something) is responsible for a fault or wrong:feel或声明（某人或某事）对错误或错误负责
+feel or declare that (someone or something) is responsible for a fault or wrong:感觉或宣称（某人或某事）对过失或错误负责
 assign the responsibility for a bad or unfortunate situation or phenomenon to (someone or something):将糟糕或不幸的情况或现象的责任分配给（某人或某事）
 blame |bleɪm| Noun/Verb/:责备,责任,怪,指责
 the inquiry blamed the train driver for the accident:查询将事故归咎于火车司机
@@ -243,7 +243,7 @@ they blame youth crime on unemployment:他们将青年犯罪归咎于失业
 a place for a domestic fire, especially a grate or hearth at the base of a chimney:家庭生火的地方，尤其是烟囱底部的炉排或壁炉
 a structure surrounding a fireplace:围绕壁炉的结构
 fireplace |ˈfʌɪəpleɪs| Noun/:fireplace,grateontheear
-Tess cleared the ashes from the fireplace:Tess清除壁炉上的灰烬
+Tess cleared the ashes from the fireplace:苔丝清除了壁炉里的灰烬
 a chipped tile fireplace:一个碎砖壁炉
 
 either side of the face below the eye:眼睛下方脸部的任一侧
@@ -254,9 +254,9 @@ talk or behaviour regarded as rude or lacking in respect:谈话或行为被视�
 speak impertinently to:无礼地说话
 cheek |tʃiːk| Noun/Verb/:脸颊,颊,面颊
 tears rolled down her cheeks:眼泪从她的脸颊滚落
-Gabriel had to bite his cheeks to keep from laughing:Gabriel不得不咬着脸不笑
+Gabriel had to bite his cheeks to keep from laughing:加布里埃尔不得不咬住脸颊才忍住笑出来
 he had the cheek to complain:他厚着脸皮抱怨
-Frankie always got away with cheeking his elders:Frankie总是对他的长辈厚颜无耻
+Frankie always got away with cheeking his elders:弗兰基总是对他的长辈不屑一顾
 
 the quality or condition of being fluent.:流利的质量或条件。
 the ability to speak or write a foreign language easily and accurately:轻松准确地说或写外语的能力
@@ -281,11 +281,10 @@ International Association of Poets, Playwrights, Editors, Essayists, and Novelis
 Peruvian nuevo sol(es).:秘鲁新溶胶。
 pen |pɛn| Noun/Residual/Verb/:笔,钢笔,写
 she was forced to support herself by the pen:她被笔逼着养活自己
-Olivia penned award-winning poetry:Olivia创作了屡获殊荣的诗歌
+Olivia penned award-winning poetry:奥利维亚写下获奖诗歌
 a sheep pen:羊圈
-:
 she took the baby out of the pen and played with it:她把宝宝从围栏里拿出来玩
-U-boat pens:U-boat笔
+U-boat pens:潜艇笔
 it was the practice to pen the sheep for clipping:把羊圈起来剪羊毛是一种习惯
 they had been penned up day and night in the house:他们日日夜夜被关在屋子里
 you could get twenty years in a federal pen for shooting your mouth off like that:你可以在联邦笔里呆上20年，因为你这样开枪打死你
@@ -301,7 +300,7 @@ the practice or system of owning slaves:拥有奴隶的做法或制度
 a condition of having to work very hard without proper remuneration or appreciation:
 excessive dependence on or devotion to something:对某事的过度依赖或投入
 slavery |ˈsleɪv(ə)ri| Noun/:奴隶制,奴役
-thousands had been sold into slavery:thousands被卖为奴隶
+thousands had been sold into slavery:数千人被卖为奴隶
 he was resolved to impose a number of reforms, including the abolition of slavery:他决心实施多项改革，包括废除奴隶制
 female domestic slavery:女性家庭奴役
 
@@ -317,8 +316,8 @@ a person admitted to hospital for treatment:一个人入院治疗
 admission |ədˈmɪʃn| Noun/:,入学
 an admission of guilt:认罪
 the evening before her admission to hospital:她入院前一天晚上
-admission is £1 for adults and 50p for children:admission成人1英镑，儿童50便士
-cinema admissions have been rising recently:cinema的录取率最近一直在上升
+admission is £1 for adults and 50p for children:入场费为成人 1 英镑，儿童 50 便士
+cinema admissions have been rising recently:最近电影院入场人数一直在上升
 there was a substantial reduction in hospital admissions:住院人数大幅减少
 
 pressure or tension exerted on a material object:施加在物质上的压力或张力
@@ -359,15 +358,15 @@ not likely to cause or lead to harm or injury, not involving danger or risk:不�
 (of a place) affording security or protection:（地方）提供安全或保护
 cautious and unenterprising:
 based on good reasons or evidence and not likely to be proved wrong:基于充分的理由或证据，不太可能被证明是错误的
-uninjured, with no harm done:uninjured，没有造成任何伤害
-excellent (used to express approval or enthusiasm):excellent（用于表示赞同或热情）
+uninjured, with no harm done:未受伤，没有造成伤害
+excellent (used to express approval or enthusiasm):优秀（用于表示赞同或热情）
 a strong fireproof cabinet with a complex lock, used for the storage of valuables.:一个带有复杂锁的坚固防火柜，用于存放贵重物品。
 a condom.:一个避孕套。
 safe |seɪf| Adjective/Noun/:安全的,保险箱,安全,保险柜
-eggs remain in the damp sand, safe from marine predators:eggs留在潮湿的沙子里，远离海洋捕食者
+eggs remain in the damp sand, safe from marine predators:卵留在潮湿的沙子中，免受海洋捕食者的侵害
 we have to cross the river where it's safe for us to do so:我们必须在安全的地方过河
 put it in a safe place:把它放在一个安全的地方
-MacGregor would be a compromise, the safe choice:MacGregor将是一个妥协，安全的选择
+MacGregor would be a compromise, the safe choice:MacGregor 将是妥协，安全的选择
 the verdict is safe and satisfactory:判决安全满意
 they had returned safe and sound:他们平安归来
 that shirt is real safe:那件衬衫真的很安全

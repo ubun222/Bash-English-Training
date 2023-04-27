@@ -46,7 +46,7 @@ a privately controlled company through which an individual or organization condu
 vehicle |ˈviːɪkl| Noun/:车辆,车,交通工具
 the vehicle was sent skidding across the road:车辆被打滑过马路
 I use paint as a vehicle for my ideas:我用油漆作为我想法的载体
-casein was used as a vehicle for pigments by the medieval painters:casein被中世纪画家用作颜料的载体
+casein was used as a vehicle for pigments by the medieval painters:酪蛋白被中世纪的画家用作颜料的载体
 a vehicle for a star who was one of Hollywood's hottest properties:好莱坞最炙手可热的明星的交通工具
 
 a piece of work to be done or undertaken:一项要完成或承担的工作
@@ -71,13 +71,13 @@ those of you looking for adventure can shoot the rapids:那些寻求冒险的人
 
 focus all one's attention on a particular object or activity:将所有注意力集中在特定的对象或活动上
 do or deal with (one particular thing) above all others:做或处理（一件特定的事情）高于一切
-gather (people or things) together in a common location:gather（人或事物）聚集在一个共同的位置
+gather (people or things) together in a common location:将（人或物）聚集在一个共同的地点
 come together in a common location:聚集在一个共同的地方
 increase the strength or proportion of (a substance or solution) by removing or reducing the other diluting agent or by selective accumulation of atoms or molecules:通过去除或减少其他稀释剂或通过原子或分子的选择性积累来增加（物质或溶液）的强度或比例
 a substance made by removing or reducing the diluting agent, a concentrated form of something:一种通过去除或减少稀释剂制成的物质，某种东西的浓缩形式
 concentrate |ˈkɒnsntreɪt| Noun/Verb/:集中,浓缩物,浓缩,专心
 she couldn't concentrate on the film:
-Luke wants to concentrate on his film career:Luke想专注于他的电影事业
+Luke wants to concentrate on his film career:卢克想专注于他的电影事业
 the nation's wealth was concentrated in the hands of the governing elite:国家财富集中在执政精英手中
 troops were concentrating at the western front:部队集中在西部前线
 plants and microorganisms can concentrate metals from the environment:植物和微生物可以从环境中浓缩金属
@@ -105,18 +105,18 @@ the bottom's fallen out of the market:底部已经跌出市场
 future development cannot be left to the market:未来的发展不能留给市场
 the sale of the company's shares on world markets:在世界市场上出售公司股票
 the product was marketed under the name ‘aspirin’:该产品以“阿司匹林”的名义销售
-sheep farmers are still unable to market their lambs:sheep农民仍然无法销售他们的羔羊
+sheep farmers are still unable to market their lambs:养羊户仍然无法销售他们的羊羔
 then I have to go uptown and market:然后我必须去住宅区和市场
 
 break open or apart suddenly and violently, especially as a result of an impact or internal pressure:突然猛烈地打开或分开，尤其是由于撞击或内部压力
 cause to burst:导致爆裂
 be so full as almost to break open:饱得几乎要裂开
-feel a very strong or irrepressible emotion or impulse:feel一种非常强烈或无法抑制的情绪或冲动
-issue suddenly and uncontrollably:issue突然无法控制
+feel a very strong or irrepressible emotion or impulse:感到非常强烈或无法抑制的情绪或冲动
+issue suddenly and uncontrollably:突然且无法控制地发出
 open suddenly and forcibly:突然强行打开
 move suddenly and violently:猛烈移动
 suddenly begin doing or producing something:突然开始做或生产某事
-separate (continuous stationery) into single sheets.:separate（连续文具）成单张。
+separate (continuous stationery) into single sheets.:将（连续文具）分成单张纸。
 an instance of breaking or splitting as a result of internal pressure or puncturing, an explosion:由于内部压力或刺破、爆炸造成的断裂或分裂实例
 a sudden brief outbreak:突然短暂的爆发
 a sudden issuing forth:突然发出
@@ -129,7 +129,7 @@ he was bursting with joy and excitement:他欣喜若狂
 the words burst from him in an angry rush:他气急败坏地说出话来
 a door burst open and a girl raced out:一扇门突然打开，一个女孩跑了出来
 he burst into the room without knocking:他没有敲门就冲进房间
-Sophie burst out laughing:Sophie哈哈大笑
+Sophie burst out laughing:索菲哈哈大笑
 the mortar bursts were further away than before:迫击炮比以前更远了
 a burst of activity:一阵活动
 her breath was coming in short bursts:她的呼吸是短暂的
@@ -150,7 +150,7 @@ be bursting to do | 忙得不可开交,迫不及待地去做
 a mountain or hill, typically conical, having a crater or vent through which lava, rock fragments, hot vapour, and gas are or have been erupted from the earth's crust.:一座山或丘陵，通常为圆锥形，有火山口或通风口，熔岩、岩石碎片、热蒸汽和气体从地壳喷发或已经喷发。
 a state or situation which is liable to erupt into anger or violence:容易爆发愤怒或暴力的状态或情况
 volcano |vɒlˈkeɪnəʊ| Noun/:,火
-Clare had been building up a silent volcano of resentment:Clare一直在建造一座沉默的怨恨火山
+Clare had been building up a silent volcano of resentment:克莱尔一直在建造一座无声的怨恨火山
 
 an implement with a handle and a block of bristles, hair, or wire, used especially for cleaning, applying a liquid or powder to a surface, or arranging the hair:一种带有手柄和刷毛、头发或金属丝块的工具，特别用于清洁、将液体或粉末涂在表面上或整理头发
 an act of sweeping, applying, or arranging with a brush or with one's hand:用刷子或用手扫、涂或整理的动作
@@ -162,12 +162,12 @@ a piece of carbon or metal serving as an electrical contact with a moving part i
 women regarded sexually:女性被性视
 remove (dust or dirt) by sweeping or scrubbing:通过清扫或擦洗去除（灰尘或污垢）
 use a brush or one's hand to remove dust or dirt from (something):用刷子或手清除（某物）上的灰尘或污垢
-clean (one's teeth) with a toothbrush.:clean（一个人的牙齿）用牙刷。
+clean (one's teeth) with a toothbrush.:用牙刷清洁（某人的牙齿）。
 arrange (one's hair) by running a brush through it:整理（头发），用刷子穿过它
 apply a liquid to (a surface) with a brush:用刷子将液体涂抹在（表面）上
 touch something lightly and gently:轻轻轻触某物
-push (something) away with a quick movement of the hand:push(something)awaywithaquickmoveofthehand
-undergrowth, small trees, and shrubs:undergrowth、小树和灌木
+push (something) away with a quick movement of the hand:用手的快速移动将（某物）推开
+undergrowth, small trees, and shrubs:灌木丛、小乔木和灌木
 cut brushwood:cut灌木
 dense forest.:茂密的森林。
 brush |brʌʃ| Noun/Verb/:刷子,刷,画笔
@@ -179,10 +179,9 @@ a brush with death:与死神擦肩而过
 we'll be able to brush the mud off easily:我们将能够轻松刷掉泥土
 once you've had it professionally cleaned, be sure to brush your coat after each wear:经过专业清洁后，请务必在每次穿着后刷一下外套
 she carefully made up her face and brushed her long auburn hair:她精心化妆，梳理着长长的赤褐色头发
-:
 their fingers brushed as she took the glass from him:当她从他手中接过杯子时，他们的手指擦过
 she brushed a wisp of hair away from her face:她拂去脸上的一缕头发
-trees and brush alongside the fields and channels are home to birds and other wildlife:trees和灌木丛沿田野和渠道是鸟类和其他野生动物的家园
+trees and brush alongside the fields and channels are home to birds and other wildlife:田野和河道旁的树木和灌木丛是鸟类和其他野生动物的家园
 volunteers worked at the site, piling up stacks of brush which city workers would later haul off:
 
 brush aside | 刷到一边,拨开
@@ -205,7 +204,6 @@ brush up | 刷,刷起来
 
 one's native country.:one的祖国。
 motherland |ˈmʌðəland| Noun/:,家乡
-:
 
 the organ of hearing and balance in humans and other vertebrates, especially the external part of this.:人类和其他脊椎动物的听觉和平衡器官，尤其是它的外部。
 an organ sensitive to sound in other animals.:其他动物对声音敏感的器官。
@@ -214,8 +212,7 @@ used to refer to a person's willingness to listen to others:用于表示一个�
 the seed-bearing head or spike of a cereal plant.:谷类植物的结籽头或穗。
 a head of maize.:一个玉米头。
 ear |ɪə| Noun/:耳朵,耳,听
-:
-she offers a sympathetic ear to worried pet owners:she对担心的宠物主人表示同情
+she offers a sympathetic ear to worried pet owners:她对担心的宠物主人表示同情
 
 a roughly circular line, route, or movement that starts and finishes at the same place:在同一地点开始和结束的大致圆形线、路线或运动
 a track used for motor racing, horse racing, or athletics:用于赛车、赛马或田径运动的赛道
@@ -227,10 +224,10 @@ a group of local Methodist Churches forming an administrative unit:一群地方�
 a chain of theatres or cinemas under a single management:单一管理下的连锁影院或电影院
 a complete and closed path around which a circulating electric current can flow:一个完整且封闭的路径，循环电流可以围绕该路径流动
 a system of electrical conductors and components forming an electrical circuit:形成电路的电导体和组件系统
-move all the way around (a place or thing):moveallthewayaround(一个地方或事物)
+move all the way around (a place or thing):一路走来走去（一个地方或事物）
 circuit |ˈsəːkɪt| Noun/Verb/:电路,循环
 I ran a circuit of the village:我在村里跑了一圈
-Hockenheim was a fast circuit but was regarded as one of the safest:Hockenheim是一条快速赛道，但被认为是最安全的赛道之一
+Hockenheim was a fast circuit but was regarded as one of the safest:霍根海姆是一条快速赛道，但被认为是最安全的赛道之一
 the alternative cabaret circuit:另类歌舞表演圈
 the six circuits of England and Wales replaced the old system of assizes:英格兰和威尔士六巡回赛取代了旧的巡回审判制度
 the success of any chapel or Methodist circuit depended on the minister:任何教堂或卫理公会巡回的成功取决于牧师
@@ -253,7 +250,7 @@ an attack on a piece or pawn which is thereby pinned.:对被固定的棋子或�
 a half-firkin cask for beer.:一个半桶装啤酒。
 attach or fasten with a pin or pins:用一个或多个销钉固定或固定
 hold (someone) firmly in a specified position so they are unable to move:将（某人）牢牢固定在指定位置，使其无法移动
-hinder or prevent (a piece or pawn) from moving because of the danger to a more valuable piece standing behind it along the line of an attack:hinder或阻止（棋子或棋子）移动，因为沿着攻击线站在它后面的更有价值的棋子有危险
+hinder or prevent (a piece or pawn) from moving because of the danger to a more valuable piece standing behind it along the line of an attack:阻碍或阻止（棋子或棋子）移动，因为对沿着攻击线站在它后面的更有价值的棋子有危险
 an identifying number allocated to an individual by a bank or other organization and used for validating electronic transactions.:银行或其他组织分配给个人的识别号码，用于验证电子交易。
 pin |pɪn| Noun/Verb/:别针,钉住,销,针,引脚
 a gold and diamond lapel pin:a金色和钻石翻领别针
@@ -274,17 +271,17 @@ be due to:由于
 be a member of (a particular group or organization):
 (of a person) have an affinity for a specified place or situation:（某人）对特定的地方或情况有亲和力
 have the right personal or social qualities to be a member of a particular group:具有成为特定群体成员的正确个人或社会品质
-(of a thing) be rightly placed in a specified position:(ofathing)被正确放置在指定位置
+(of a thing) be rightly placed in a specified position:（事物）正确地放置在指定的位置
 be rightly assigned to a specified category:被正确分配到指定的类别
 belong |bɪˈlɒŋ| Verb/:属于,属,归属
 the vehicle did not belong to him:这辆车不属于他
 most of the credit belongs to Paul:大部分功劳属于保罗
-the race belonged completely to Fogarty:比赛完全属于Fogarty
+the race belonged completely to Fogarty:比赛完全属于福格蒂
 he belonged to the local cricket club:他属于当地的板球俱乐部
 she is a stranger, and doesn't belong here:她是个陌生人，不属于这里
-young people are generally very anxious to belong:young人通常非常渴望归属感
+young people are generally very anxious to belong:年轻人通常非常渴望归属感
 he put the rifle back in the locker where it belonged:他把步枪放回原来的储物柜
-these compounds belong to a class of chemical mediators called kairomones:这些化合物属于一类称为kairomones的化学介质
+these compounds belong to a class of chemical mediators called kairomones:这些化合物属于一类称为利他素的化学介质
 
 a sense of belonging | 归属感,一种归属感
 
@@ -300,7 +297,7 @@ brotherhood |ˈbrʌðəhʊd| Noun/:兄弟情谊,手足之情
 the bonds of brotherhood:兄弟情谊
 a gesture of solidarity and brotherhood:团结和兄弟情谊的姿态
 a religious brotherhood:一个宗教兄弟会
-the United Brotherhood of Carpenters and Joiners of America:theUnitedBrotherhoodofCarpentersandJoinersofAmerica
+the United Brotherhood of Carpenters and Joiners of America:美国木匠联合兄弟会
 
 vocal or instrumental sounds (or both) combined in such a way as to produce beauty of form, harmony, and expression of emotion:声乐或器乐（或两者）以产生形式美、和谐美和情感表达的方式结合
 the art or science of composing or performing music:作曲或演奏音乐的艺术或科学
@@ -311,7 +308,7 @@ music |ˈmjuːzɪk| Noun/:音乐,听
 couples were dancing to the music:情侣随着音乐起舞
 he devoted his life to music:他将一生献给音乐
 the background music of softly lapping water:轻拍水的背景音乐
-Tony learned to read music:Tony学会了阅读音乐
+Tony learned to read music:托尼学会了识谱
 the music was open on a stand:音乐在展台上开放
 
 read music | 读音乐,阅读音乐
@@ -329,9 +326,9 @@ a member of a religious order of men:一个宗教组织的成员
 a member of a fundamentalist Protestant denomination:原教旨主义新教教派成员
 used to express annoyance or surprise:用于表示烦恼或惊讶
 brother |ˈbrʌðə| Interjection/Noun/:兄弟,天哪,哥哥,弟弟,哥
-he recognized her from her strong resemblance to her brother:he认出了她，因为她与她的兄弟非常相似
+he recognized her from her strong resemblance to her brother:他认出了她，因为她与她的兄弟非常相似
 the time is coming, brothers, for us to act:时候到了，兄弟们，我们该行动了
-brothers and sisters, holla if you feel this:brothersandSisters，如果你有这种感觉，你好
+brothers and sisters, holla if you feel this:兄弟姐妹们，如果你们有这种感觉，就呼啦啦
 the machine is almost identical to its larger brother:这台机器几乎和它的大哥一模一样
 a Benedictine brother:一个本笃会的兄弟
 the Plymouth Brethren:普利茅斯弟兄会
@@ -345,7 +342,7 @@ they found him pleasant and cooperative:他们觉得他很愉快和合作
 
 anxious or troubled about actual or potential problems:对实际或潜在的问题感到焦虑或烦恼
 worried |ˈwʌrɪd| Adjective/:担心,担心的,忧心忡忡
-Michelle knew that her friends were very worried about her:Michelle知道她的朋友很担心她
+Michelle knew that her friends were very worried about her:米歇尔知道她的朋友们很担心她
 
 a domestic fowl kept for its eggs or meat, especially a young one:一只为鸡蛋或肉而饲养的家禽，尤其是幼鸟
 meat from a chicken:鸡肉的肉
@@ -354,7 +351,7 @@ a game in which the first person to lose their nerve and withdraw from a dangero
 cowardly:懦弱
 withdraw from or fail in something through lack of nerve:因缺乏勇气而退出或失败
 chicken |ˈtʃɪk(ɪ)n| Adjective/Noun/Verb/:鸡,临阵退缩,怯懦的,鸡肉
-rationing was still in force and most people kept chickens:rationing仍然有效，大多数人养鸡
+rationing was still in force and most people kept chickens:配给仍然有效，大多数人都养鸡
 roast chicken:烤鸡
 he lay in the road playing chicken:他躺在路上玩鸡
 I was too chicken to go to court:我太胆小了，不敢上法庭
@@ -362,7 +359,7 @@ the referee chickened out of giving a penalty:裁判不敢判罚
 
 give reasons or cite evidence in support of an idea, action, or theory, typically with the aim of persuading others to share one's view:给出理由或引用证据来支持一个想法、行动或理论，通常是为了说服他人分享自己的观点
 persuade someone to do or not to do (something) by giving reasons:通过给出理由说服某人做或不做（某事）
-exchange or express diverging or opposite views, typically in a heated or angry way:exchange或表达不同或相反的观点，通常以激烈或愤怒的方式
+exchange or express diverging or opposite views, typically in a heated or angry way:交换或表达不同或相反的观点，通常以激烈或愤怒的方式
 argue |ˈɑːɡjuː| Verb/:争论,争辩
 I tried to argue him out of it:我试图反驳他
 the two men started arguing in a local pub:两人在当地一家酒吧开始争吵
@@ -373,7 +370,7 @@ put on clothes appropriate for a formal occasion:穿上适合正式场合的衣�
 put clothes on (someone):穿衣服（某人）
 design or supply clothes for (a celebrity):为（名人）设计或供应衣服
 decorate (something) in an artistic or attractive way:以艺术或有吸引力的方式装饰（某物）
-decorate (a ship) with flags for a special occasion.:decorate（一艘船）在特殊场合挂上旗帜。
+decorate (a ship) with flags for a special occasion.:在特殊场合用旗帜装饰（一艘船）。
 arrange or style (hair):排列或风格（头发）
 clean, treat, or apply a dressing to (a wound):清洁、治疗或在（伤口）上涂抹敷料
 clean and prepare (food, especially poultry or shellfish) for cooking or eating:清洁并准备（食物，尤其是家禽或贝类）烹饪或食用
@@ -381,10 +378,10 @@ add a dressing to (a salad):在（沙拉）中添加调料
 apply a fertilizer to (an area of ground or a plant):向（一块土地或植物）施肥
 complete the preparation or manufacture of (leather or fabric) by treating its surface in some way:通过某种方式处理其表面来完成（皮革或织物）的制备或制造
 smooth the surface of (stone):
-draw up (troops) in the proper alignment.:drawup（部队）在适当的对齐。
+draw up (troops) in the proper alignment.:以适当的方式编排（部队）。
 (of troops) come into proper alignment.:（部队）进入适当的对齐。
 (of a man) have the genitals habitually on one or the other side of the fork of the trousers:（男人的）生殖器习惯性地在裤叉的一侧或另一侧
-make (an artificial fly) for use in fishing:make（人造苍蝇）用于钓鱼
+make (an artificial fly) for use in fishing:制作（人工苍蝇）用于捕鱼
 a one-piece garment that covers the body and extends down over the thighs or legs, worn typically by women and girls:一种覆盖身体并向下延伸到大腿或腿部的单件服装，通常由女性和女孩穿着
 clothing of a specified kind for men or women:男士或女士指定种类的服装
 denoting military uniform or other clothing used on formal or ceremonial occasions:表示正式或礼仪场合使用的军装或其他服装
@@ -395,7 +392,7 @@ we dressed for dinner every night:我们每晚都穿着晚餐
 they dressed her in a white hospital gown:他们给她穿了一件白色的病号服
 for over four decades he dressed the royal family:四十多年来，他为王室打扮
 she'd enjoyed dressing the tree when the children were little:她喜欢在孩子们小的时候给树梳妆打扮
-Patrick dressed Michelle's hair in a sculptured, Japanese-type style:Patrick为Michelle的头发披上了雕刻的日式风格
+Patrick dressed Michelle's hair in a sculptured, Japanese-type style:帕特里克为米歇尔梳理日式雕塑发型
 she washed the wound and dressed it with fresh bandages:她清洗伤口并用新绷带包扎
 dress the crab and shell the prawns:给螃蟹穿衣服，给虾去壳
 dress the salad with vinaigrette:给沙拉配上香醋
@@ -416,12 +413,11 @@ she convinced my father to branch out on his own:她说服我父亲自己开店
 
 a person who reports, especially one employed to report news or conduct interviews for the press or broadcasting media.:报道的人，尤其是受雇为新闻或广播媒体报道新闻或进行采访的人。
 reporter |rɪˈpɔːtə| Noun/:记者,报道
-:
 
 the region of the atmosphere and outer space seen from the earth:从地球上看到的大气层和外层空间区域
 heaven, heavenly power:天堂，天上的力量
 hit (a ball) high into the air:hit（一个球）高到空中
-hang (a picture) very high on a wall, especially in an exhibition:hang（一张图片）在墙上很高，尤其是在展览中
+hang (a picture) very high on a wall, especially in an exhibition:将（一幅画）挂在墙上很高的地方，尤指在展览中
 sky |skʌɪ| Noun/Verb/:天空,天
 hundreds of stars were shining in the sky:数百颗星星在天空中闪耀
 the just vengeance of incensed skies:愤怒天空的正义复仇

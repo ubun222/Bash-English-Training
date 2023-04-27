@@ -107,7 +107,7 @@ an argument against something, an objection:10n反对某事的论据，反对
 an outer room, especially in a two-roomed cottage.:11n一个外面的房间，尤其是在一个两居室的小屋里。
 but |bʌt| Adverb/Conjunction/Noun/Preposition/:但,除了,托词,但是,不过
 he stumbled but didn't fall:n他跌跌撞撞但没有跌倒
-one cannot but sympathize:none不得不同情
+one cannot but sympathize:不能不让人同情
 but that's an incredible saving!:n但这是一个令人难以置信的节省！
 I'm sorry, but I can't pay you:n对不起，我不能付钱给你
 it never rains but it pours:n从不下雨，但会倾盆大雨
@@ -163,7 +163,7 @@ a throb or pulsation.:5na悸动或搏动。
 cause (someone) to have a sudden feeling of excitement and pleasure:6n使（某人）突然感到兴奋和愉悦
 experience a sudden feeling of excitement and pleasure:7n体验突然的兴奋和愉悦感
 (of an emotion or sensation) pass with a nervous tremor:8n（一种情绪或感觉）伴随着紧张的颤抖而过去
-quiver or throb.:9nquiver或悸动。
+quiver or throb.:颤抖或悸动。
 thrill |θrɪl| Noun/Verb/:快感,惊险刺激
 the thrill of jumping out of an aeroplane:n从飞机上跳下来的快感
 to ride a winner is always a thrill:n骑赢家总是令人兴奋
@@ -177,7 +177,7 @@ a formal notice of a financial transaction:2n金融交易的正式通知
 information, news:3n信息、新闻
 advice |ədˈvʌɪs| Noun/:建议,忠告
 my advice is to see your doctor:4n我的建议是去看医生
-remittance advices:5nremittance通知
+remittance advices:汇款通知
 the want of fresh advices from Europe:6n需要来自欧洲的新建议
 
 a very large marine mammal with a streamlined hairless body, a horizontal tail fin, and a blowhole on top of the head for breathing.:1n一种非常大的海洋哺乳动物，流线型的无毛身体，水平尾鳍，头顶有一个呼吸孔。
@@ -207,14 +207,14 @@ an underground railway, especially the one in London:6n一条地下铁路，尤�
 a group or movement organized secretly to work against an existing regime:7n一个秘密组织起来反对现有政权的团体或运动
 a member of an underground political group or movement:8n地下政治团体或运动的成员
 a group or movement seeking to explore alternative forms of lifestyle or artistic expression:9n一个寻求探索另类生活方式或艺术表现形式的团体或运动
-lay (cables) below ground level:10nlay（电缆）低于地面
+lay (cables) below ground level:将（电缆）铺设在地面以下
 underground |ˌʌndəˈɡraʊnd| Adjective/Adverb/Noun/Verb/:地下,地下的
 miners working underground:n矿工在地下工作
-many were forced to go underground by the government:nmany被政府强制转入地下
+many were forced to go underground by the government:许多人被政府强制转入地下
 an underground car park:nan地下停车场
 Czech underground literature:n捷克地下文学
 the New York underground art scene:n纽约地下艺术现场
-travel chaos on the Underground:ntravel地下的混乱
+travel chaos on the Underground:地铁旅行混乱
 the French underground:n法国地下
 they appealed to the undergrounds to stop their violent activities:n他们呼吁地下组织停止他们的暴力活动
 the late sixties underground:n地下六十年代末
@@ -242,13 +242,13 @@ a sports match to test the ability of players eligible for selection to a team:3
 a test of individual ability on a motorcycle over rough ground or on a road.:4n摩托车在崎岖不平的地面或道路上的个人能力测试。
 an event in which horses, dogs, or other animals compete or perform:5n马、狗或其他动物比赛或表演的活动
 a person, experience, or situation that tests a person's endurance or forbearance:6n考验一个人的忍耐力或忍耐力的人、经历或情况
-test (something, especially a new product) to assess its suitability or performance:7ntest（某事，尤其是新产品）以评估其适用性或性能
+test (something, especially a new product) to assess its suitability or performance:测试（某物，尤指新产品）以评估其适用性或性能
 (of a horse, dog, or other animal) compete in trials:8n（马、狗或其他动物）参加试炼
 trial |ˈtrʌɪəl| Noun/Verb/:审判,试验,试用版
 the newspaper accounts of the trial:9n审判的报纸报道
 clinical trials must establish whether the new hip replacements are working:n临床试验必须确定新的髋关节置换物是否有效
 he cracked his ankle the week before the final trial:n他在决赛前一周摔断了脚踝
-horse trials:nhorse试验
+horse trials:试马
 this winter has been a trial for me, physically and emotionally:n这个冬天对我来说是一个考验，无论是身体上还是情感上
 teachers all over the UK are trialling the materials:
 the pup trialled on Saturday:n周六受审的小狗
@@ -259,7 +259,7 @@ any plant grown for its root:3n任何为根而生的植物
 the embedded or basal part of a bodily organ or structure such as a hair, tooth, or nail:4n身体器官或结构的嵌入或基部，如头发、牙齿或指甲
 the part of a thing attaching it to a greater or more fundamental whole, the end or base:5n将事物与更大或更基本的整体、末端或基础相连的部分
 the basic cause, source, or origin of something:6n事物的基本原因、来源或起源
-family, ethnic, or cultural origins:7nfamily、种族或文化起源
+family, ethnic, or cultural origins:家庭、种族或文化起源
 denoting or relating to something from a particular ethnic or cultural origin, especially a non-Western one:8n表示或与来自特定种族或文化起源的事物有关，尤其是非西方的
 (in biblical use) a scion, a descendant:9n（圣经用）接穗，后裔
 a morpheme, not necessarily surviving as a word in itself, from which words have been made by the addition of prefixes or suffixes or by other modification:10n一个语素，不一定作为一个词本身存在，通过添加前缀或后缀或其他修饰来组成单词
@@ -280,7 +280,7 @@ have sex with.:23n与发生性关系。
 search unsystematically through an untidy mass or area, rummage:25n不系统地搜索杂乱的杂物或区域，翻找
 an act of rooting:26n生根的行为
 root |ruːt| Noun/Verb/:根,生根,root
-cacti have deep and spreading roots:ncacti根深蒂固
+cacti have deep and spreading roots:仙人掌的根深而广
 you should never wash roots before storing:n你不应该在储存前洗根
 roots like beet and carrot cannot be transplanted:n甜菜、胡萝卜等根不能移植
 her hair was fairer at the roots:n她的头发在根部更白
@@ -289,15 +289,15 @@ money is the root of all evil:n金钱是万恶之源
 it's always nice to return to my roots:n回到我的根总是很好
 roots music:n根音乐
 the root of David:n大卫的根
-many European words stem from this linguistic root:nmany欧洲词源于这个语言词根
+many European words stem from this linguistic root:许多欧洲词源于这个语言根源
 in the sequence the roots of the chords drop by fifths:n在序列中，和弦的根音下降五分之一
 the roots of the equation differ by an integer:n方程的根相差一个整数
-make sure that these files can only be accessed by the root user:n确保这些文件只能被root用户访问
-root your own cuttings from stock plants:nroot您自己从库存植物中提取的插条
+make sure that these files can only be accessed by the root user:确保这些文件只能由 root 用户访问
+root your own cuttings from stock plants:从母株中生根自己的插条
 large trees had rooted in the canal bank:n大树已扎根于运河岸边
-vegetarianism is rooted in Indian culture:nvegetarianism植根于印度文化
+vegetarianism is rooted in Indian culture:素食主义植根于印度文化
 the Latin verb is rooted in an Indo-European word:n拉丁动词源于印欧语单词
-George was rooted to the spot in disbelief:nGeorge难以置信地呆在原地
+George was rooted to the spot in disbelief:乔治难以置信地呆在原地
 we explained how to manually root almost any Android device:nwe解释了如何手动root几乎所有的Android设备
 stray dogs rooting around for bones and scraps:n流浪狗四处寻找骨头和残羹剩饭
 she was rooting through a pile of papers:n她正在翻阅一堆文件
@@ -458,15 +458,15 @@ the end of the batting order, with the weakest batters:13n击球顺序结束，�
 a person secretly following another to observe their movements:14n一个人偷偷跟着另一个人观察他们的动作
 a person's buttocks:15n一个人的臀部
 a woman's genitals.:16n女人的生殖器。
-women collectively regarded in sexual terms:17nwomen在性方面被统称为
+women collectively regarded in sexual terms:女性在性方面被统称为
 the side of a coin without the image of a head on it (used when tossing a coin to determine a winner):18n没有头像的硬币的一面（用于投掷硬币以确定获胜者）
-follow and observe (someone) closely, especially in secret:19nfollow并密切观察（某人），尤其是秘密地
+follow and observe (someone) closely, especially in secret:密切跟踪和观察（某人），尤指秘密地
 follow:20n关注
 provide with a tail:21n提供一个尾巴
 (of an object in flight) drift or curve in a particular direction:22n（飞行中的物体）向特定方向漂移或弯曲
 remove the stalks or ends of (fruit or vegetables) in preparation for cooking.:23n去除（水果或蔬菜）的茎或末端以准备烹饪。
 pull on the end of (a rope) after it has been wrapped round the drum of a winch a few times, in order to prevent slipping when the winch rotates.:24n将绳子在绞盘的卷筒上绕几圈后拉一下，以防绞盘转动时打滑。
-join (one thing) to another.:25njoin（一件事）到另一件事。
+join (one thing) to another.:加入（一件事）到另一件事。
 limitation of ownership, especially of an estate or title limited to a person and their direct descendants:26n所有权限制，尤其是仅限于个人及其直系后代的财产或所有权
 tail |teɪl| Noun/Verb/:尾巴,跟踪,尾,马尾
 the dog's tail began to wag frantically:n狗的尾巴开始疯狂地摇摆
@@ -475,7 +475,7 @@ the fuselage tapers sharply towards the tail:n机身向尾部急剧变细
 he wiped his hands on the tail of his grubby vest:n他在肮脏背心的尾巴上擦了擦手
 the men looked debonair in white tie and tails:n男人们穿着白色的领带和马尾看起来很文雅
 shallow riffles and the tails of pools are prime feeding areas:n浅滩和池尾是主要的喂食区
-the slates are dressed with the bevelled tail and edge characteristic of thick, square stone roofing:ntheslates饰有斜角尾部和厚方形石材屋顶的边缘特征
+the slates are dressed with the bevelled tail and edge characteristic of thick, square stone roofing:石板饰有倾斜的尾部和边缘，这是厚方形石屋面的特征
 a catering truck at the tail of the convoy:n车队尾部的配餐车
 the tail of a hurricane:n飓风的尾巴
 McDermott worked his way through the tail, finishing with ten wickets:nMcDermott一路冲过尾门，完成了十个小门
@@ -486,7 +486,7 @@ the chances of heads and tails in the long run are equal:n从长远来看正面�
 a flock of paparazzi had tailed them all over London:n一群狗仔队在伦敦到处跟踪他们
 they went to their favourite cafe—Owen and Sally tailed along:n他们去了他们最喜欢的咖啡馆——欧文和莎莉跟着
 her calligraphy was topped by banners of black ink and tailed like the haunches of fabulous beasts:n她的书法上面是黑色墨水的横幅，尾巴像神话般的野兽的臀部
-the next pitch tailed in on me at the last second:nthenextpitch在最后一秒追上我
+the next pitch tailed in on me at the last second:下一个音高在最后一秒出现在我身上
 the land was held in tail general:n土地举行尾将军
 
 tails | 尾巴,马尾
@@ -496,7 +496,7 @@ tails | 尾巴,马尾
 
 
 make a solemn statement or promise undertaking to do something or affirming that something is the case:1n郑重声明或承诺承诺做某事或确认某事是事实
-take (an oath):2ntake（宣誓）
+take (an oath):发誓）
 take a solemn oath as to the truth of (a statement):3n就（陈述）的真实性庄严宣誓
 use language of a kind regarded as coarse, blasphemous, or otherwise unacceptable in polite or formal speech in order to express anger or other strong emotion:4n在礼貌或正式的演讲中使用被视为粗俗、亵渎神明或其他不可接受的语言，以表达愤怒或其他强烈情绪
 a word regarded as coarse, blasphemous, or otherwise unacceptable in polite or formal speech, a swear word:
@@ -525,17 +525,17 @@ extending above the normal level:4n超出正常水平
 (of an area) inland and well above sea level:5n（一个地区的）内陆和海平面以上
 performed at, to, or from a considerable height:6n在相当高的高度或从相当高的高度进行
 (of latitude) close to 90°, near the North or South Pole:7n（纬度）接近90°，靠近北极或南极
-great, or greater than normal, in quantity, size, or intensity:8ngreat，或大于正常，在数量、大小或强度上
+great, or greater than normal, in quantity, size, or intensity:在数量、大小或强度上很大，或大于正常
 of large numerical or monetary value:9n具有较大的数值或货币价值
 very favourable:10n非常有利
 extreme in religious or political views:11n极端的宗教或政治观点
 (of a period or movement) at its peak:12n（一个时期或运动的）高峰
 great in rank, status, or importance:13n在等级、地位或重要性方面非常出色
-ranking above others of the same kind:14nranking高于同类
+ranking above others of the same kind:在同类产品中名列前茅
 morally or culturally superior:15n道德或文化优越
 (of a sound or note) having a frequency at the upper end of the auditory range:16n（声音或音符）频率位于听觉范围的上端
 (of a singer or instrument) producing notes of relatively high pitch:17n（歌手或乐器）产生较高音调的音符
-feeling euphoric, especially from the effects of drugs or alcohol:18nfeeling欣快，尤其是来自药物或酒精的影响
+feeling euphoric, especially from the effects of drugs or alcohol:感到欣快，尤其是在药物或酒精的作用下
 (especially of food) unpleasantly strong-smelling because beginning to go bad:19n（尤其是食物）因为开始变质而产生令人不快的强烈气味
 (of game) slightly decomposed and so ready to cook.:20n（游戏）稍微腐烂，可以做饭了。
 (of a vowel) produced with the tongue relatively near the palate.:21n（元音）在舌头相对靠近上颚时产生。
@@ -552,7 +552,7 @@ they had been playing for high stakes:n他们一直在玩高额赌注
 she had no very high opinion of men:n她对男人没有很高的评价
 a man of high Tory opinions:n一个有高度保守党意见的人
 high summer:n盛夏
-both held high office under Lloyd George:nboth在劳合·乔治手下担任要职
+both held high office under Lloyd George:两人都在劳合·乔治手下担任要职
 the last High King of Ireland:n最后一位爱尔兰至高国王
 blurring the distinctions between high art and popular art:n模糊了高雅艺术和流行艺术之间的区别
 a high, squeaky voice:n高亢而尖细的声音

@@ -53,8 +53,8 @@ those who are living:那些活着的人
 a fast bowler.:一个快速投球手。
 quick |kwɪk| Adjective/Adverb/Noun/:快的,快速地,活肉,快,快速的
 in the qualifying session he was two seconds quicker than his teammate:在排位赛中他比队友快了两秒
-Brian gave her a quick look:Brian看了她一眼
-children like to see quick results from their efforts:children喜欢从他们的努力中看到快速的结果
+Brian gave her a quick look:布赖恩快速看了她一眼
+children like to see quick results from their efforts:孩子们喜欢看到他们的努力立竿见影
 it was quick of him to spot the mistake:他很快就发现了错误
 he'll find some place where he can make money quicker:他会找到可以更快赚钱的地方
 the quick and the dead:快与死
@@ -72,7 +72,7 @@ an international conference on the environment:环境国际会议
 he gathered all the men around the baize table for a conference:他召集所有男士围着百色桌开会
 a conference call:电话会议
 an international authority or, if that was not possible, a regional operators' conference:一个国际权威机构，或者，如果不可能的话，一个区域运营商会议
-Colchester regained the lead of the GM Vauxhall Conference:Colchester在通用汽车沃克斯豪尔会议上夺回领先地位
+Colchester regained the lead of the GM Vauxhall Conference:科尔切斯特重新夺回通用汽车沃克斯豪尔会议的领先地位
 I conferenced with a senior analyst at the Congressional Research Service:我与国会研究服务中心的一位高级分析师会面
 
 as an alternative or substitute:作为替代品或替代品
@@ -100,7 +100,7 @@ thoroughly, completely:彻底，完全
 properly |ˈprɒp(ə)li| Adverb/:,正确地
 ensuring the work is carried out properly:确保工作正常进行
 I'm trying to get my mother to behave properly:我正在努力让我妈妈表现得正常
-algebra is, properly speaking, the analysis of equations:algebra准确地说是方程的分析
+algebra is, properly speaking, the analysis of equations:代数，准确地说，是对方程式的分析
 on the first day she felt properly well, Millie sat out on the front steps:在她感觉良好的第一天，米莉坐在前面的台阶上
 
 not qualified or diminished in any way, total:不合格或以任何方式减少，总计
@@ -109,8 +109,8 @@ used for emphasis when expressing an opinion:用于表达意见时的强调
 (of a ruler) having unrestricted power:（统治者的）拥有不受限制的权力
 (of a decree) final:（法令的）最终的
 viewed or existing independently and not in relation to other things, not relative or comparative:查看或独立存在，与其他事物无关，不相对或比较
-(of a construction) syntactically independent of the rest of the sentence, as in dinner being over, we left the table.:(ofaconstruction)在句法上独立于句子的其余部分，就像在晚餐结束时，我们离开了桌子。
-(of a transitive verb) used without an expressed object (e.g. guns kill).:（及物动词）不带表达宾语使用（例如gunskill）。
+(of a construction) syntactically independent of the rest of the sentence, as in dinner being over, we left the table.:（结构）在句法上独立于句子的其余部分，如晚餐结束时，我们离开了桌子。
+(of a transitive verb) used without an expressed object (e.g. guns kill).:（及物动词）不带宾语使用（例如 guns kill）。
 (of an adjective) used without an expressed noun (e.g. the brave).:（形容词）不带表达名词使用（例如勇敢的）。
 a value or principle which is regarded as universally valid or which may be viewed without relation to other things:一种价值或原则，被认为是普遍有效的，或者可以被视为与其他事物无关的价值或原则
 something that exists without being dependent on anything else.:不依赖其他任何事物而存在的事物。
@@ -119,17 +119,17 @@ absolute |ˈabsəluːt| Adjective/Noun/:绝对,绝对的,绝
 absolute secrecy:绝对保密
 the policy is absolute folly:这项政策绝对是愚蠢的
 no one dare challenge her absolute authority:没有人敢挑战她的绝对权威
-Dom Miguel proclaimed himself absolute monarch:DomMiguel宣布自己为绝对君主
+Dom Miguel proclaimed himself absolute monarch:唐·米格尔自封为绝对君主
 the decree of nullity was made absolute:无效的法令是绝对的
 absolute moral standards:绝对的道德标准
-good and evil are presented as absolutes:good和evil被呈现为绝对
+good and evil are presented as absolutes:善恶被呈现为绝对
 
 a thing characteristic of its kind or illustrating a general rule:一个具有同类特征或说明一般规则的事物
 a written problem or exercise designed to illustrate a rule:旨在说明规则的书面问题或练习
 a person or thing regarded in terms of their fitness to be imitated:被认为适合被模仿的人或事物
 be illustrated or exemplified:被说明或举例说明
 example |ɪɡˈzɑːmpl| Noun/Verb/:例子,例,示例
-advertising provides a good example of an industry where dreams have faded:advertising提供了一个梦想已经褪色的行业的好例子
+advertising provides a good example of an industry where dreams have faded:广告是梦想破灭的行业的一个很好的例子
 a workbook and a data set will enable the researcher to follow worked examples:工作簿和数据集将使研究人员能够遵循工作示例
 it is important that parents should set an example:家长要以身作则很重要
 the extent of Allied naval support is exampled by the navigational specialists provided:提供的导航专家以盟军海军支持的程度为例
@@ -139,10 +139,10 @@ a draft of a proposed law presented to parliament for discussion:提交议会讨
 a programme of entertainment at a theatre or cinema:剧院或电影院的娱乐节目
 a banknote:一张钞票
 a poster or handbill:海报或传单
-list (a person or event) in a programme:list（一个人或一个事件）在一个程序中
+list (a person or event) in a programme:在程序中列出（一个人或事件）
 describe or advertise someone or something in a particular way:以特定方式描述或宣传某人或某事
 send a bill to (someone):发送账单给（某人）
-charge (a sum of money):charge（一笔钱）
+charge (a sum of money):收费（一笔钱）
 the beak of a bird, especially when it is slender, flattened, or weak, or belongs to a web-footed bird or a bird of the pigeon family.:鸟的喙，尤其是细长、扁平或软弱，或属于蹼足鸟或鸽科鸟类时。
 the muzzle of a platypus.:鸭嘴兽的嘴。
 the peak of a cap.:顶峰。
@@ -154,7 +154,7 @@ the police:警察
 bill |bɪl| Noun/Verb/:账单,开列账单,法案,帐单,票据
 the bill for their meal came to £17:他们的餐费是17英镑
 a debate over the civil rights bill:关于民权法案的辩论
-she was top of the bill at America's leading vaudeville house:she在美国领先的杂耍表演中名列前茅
+she was top of the bill at America's leading vaudeville house:她在美国领先的杂耍表演中名列前茅
 a ten-dollar bill:一张十美元的钞票
 they were billed to appear but did not show up:他们被要求出现但没有出现
 he was billed as ‘the new Sean Connery’:他被称为“新肖恩康纳利”
@@ -171,7 +171,7 @@ ago:前
 since |sɪns| Adverb/Conjunction/Preposition/:自从,以来,因为,自
 she hasn't spoken to him since last year:她从去年开始就没有和他说过话
 I've felt better since I've been here:自从我来到这里以来，我感觉好多了
-delegates were delighted, since better protection of rhino reserves will help protect other rare species:delegates很高兴，因为更好地保护犀牛保护区将有助于保护其他稀有物种
+delegates were delighted, since better protection of rhino reserves will help protect other rare species:代表们很高兴，因为更好地保护犀牛保护区将有助于保护其他稀有物种
 she ran away on Friday and we haven't seen her since:她周五逃跑了，从那以后我们就再也没有见过她
 the settlement had vanished long since:定居点早就消失了
 
@@ -190,12 +190,12 @@ take (someone) as one's wife or husband in marriage:娶（某人）为婚姻中�
 enter into marriage:结婚
 become a member of (a family) by marriage:通过婚姻成为（家庭）的成员
 (of a parent or guardian) give (a son or daughter) in marriage:（父母或监护人的）给（儿子或女儿）结婚
-join together, combine harmoniously:jointogether，和谐结合
-blend or combine with something:blend或与某物结合
-splice (rope ends) together without increasing their girth.:splice（绳子末端）在一起而不增加它们的周长。
+join together, combine harmoniously:联合起来，和谐地结合
+blend or combine with something:与某物混合或结合
+splice (rope ends) together without increasing their girth.:在不增加周长的情况下将（绳索末端）拼接在一起。
 marry |ˈmari| Interjection/Verb/:结婚,嫁,嫁给
 I was married in church:我在教堂结婚
-Eric asked me to marry him:Eric求我嫁给他
+Eric asked me to marry him:埃里克向我求婚
 they had no plans to marry:他们没有结婚的打算
 both men married into my mother's family:两个男人都嫁给了我母亲的家庭
 her parents married her to a wealthy landowner:她的父母将她嫁给了一位富有的地主
@@ -212,7 +212,7 @@ he adored the Sacred Host:他崇拜神圣的主人
 
 suffering or death caused by lack of food:因缺乏食物而遭受痛苦或死亡
 starvation |stɑːˈveɪʃn| Noun/:饥饿,饿死
-thousands died of starvation:thousands死于饥饿
+thousands died of starvation:数千人死于饥饿
 
 a quantity that fills the hand:一个充满手的数量
 a small number or amount:少量或少量
@@ -230,15 +230,15 @@ a rapid stream of liquid or gas forced out of a small opening:一股快速的液
 a nozzle or narrow opening for sending out a jet of liquid or gas.:一个喷嘴或狭窄的开口，用于喷射液体或气体。
 a jet engine.:喷气发动机。
 an aircraft powered by one or more jet engines:一架由一个或多个喷气发动机驱动的飞机
-spurt out in jets:spurt在喷气机中
+spurt out in jets:在喷气式飞机中喷出
 travel by jet aircraft:乘坐喷气式飞机旅行
 a hard black semi-precious variety of lignite, capable of being carved and highly polished:一种坚硬的黑色半宝石褐煤，可雕刻和高度抛光
 a glossy black colour:有光泽的黑色
-Joint European Torus, a machine for conducting experiments in nuclear fusion, at Culham in Oxfordshire.:JointEuropeanTorus，一台用于进行核聚变实验的机器，位于牛津郡的Culham。
+Joint European Torus, a machine for conducting experiments in nuclear fusion, at Culham in Oxfordshire.:Joint European Torus，一台用于进行核聚变实验的机器，位于牛津郡的卡勒姆。
 jet |dʒɛt| Noun/Residual/Verb/:喷射,喷气机,喷气式飞机
 a jet of boiling water spurted over his hand:一股开水喷在他的手上
 a private jet:一架私人飞机
-blood jetted from his nostrils:blood从他的鼻孔喷出
+blood jetted from his nostrils:鲜血从他的鼻孔喷出
 the newly weds jetted off for a honeymoon in New York:新婚夫妇飞往纽约度蜜月
 
 jet black hair | 乌黑的头发,黑色的头发
@@ -258,15 +258,15 @@ a written order to pay a specified sum.:支付指定金额的书面命令。
 compulsory recruitment for military service:义务征兵服
 a procedure whereby sports players are made available for selection or reselection by the teams in a league, usually with the earlier choices being given to the weaker teams:一种程序，使体育运动员可以由联盟中的球队选择或重新选择，通常较早的选择会给予较弱的球队
 a group or individual selected from a larger group for a special duty, e.g. for military service:从一个更大的群体中选出的一个群体或个人执行特殊职责，例如16
-prepare a preliminary version of (a document):prepare（一份文件）的初步版本
+prepare a preliminary version of (a document):准备（文件）的初步版本
 select (a person or group of people) and bring them somewhere for a certain purpose:选择（一个人或一群人）并出于某种目的将他们带到某个地方
-conscript (someone) for military service:conscript（某人）服兵役
+conscript (someone) for military service:征召（某人）服兵役
 select (a player) for a sports team through the draft:通过选秀为运动队选择（一名球员）
 draft |drɑːft| Adjective/Noun/Verb/:草案,草稿,草拟,起草
 the first draft of the party's manifesto:党的宣言初稿
 a manuscript draft representing the explorer's latest findings:代表探险家最新发现的手稿
 25 million men were subject to the draft:2500万男性应征入伍
-the White Sox chose him in the 13th round of the 1990 draft:theWhiteSox在1990年选秀第13轮选中了他
+the White Sox chose him in the 13th round of the 1990 draft:白袜队在 1990 年选秀第 13 轮选中了他
 the draft and I were sent to the barracks near Folkestone:草案和我被送到福克斯通附近的军营
 I drafted a letter of resignation:我起草了辞职信
 he was drafted in to help fix the engine:他被征召来帮助修理引擎
@@ -313,10 +313,10 @@ distinct in outline or detail, clearly defined:轮廓或细节不同，定义明
 having or showing speed of perception, comprehension, or response:具有或表现出感知、理解或反应的速度
 quick to take advantage, especially in an unscrupulous or dishonest way:快速利用，尤其是以不道德或不诚实的方式
 (of musical sound) above true or normal pitch.:（音乐的声音）高于真实或正常音高。
-(of a note) a semitone higher than a specified note:(ofanote)比指定音符高一个半音
-(of a key) having a sharp or sharps in the signature.:(ofakey)在签名中有一个或多个锐利。
+(of a note) a semitone higher than a specified note:（音符的）比指定音高半音
+(of a key) having a sharp or sharps in the signature.:（钥匙的）签名中有尖锐的或尖锐的。
 (of clothes or their wearer) smart and stylish:（衣服或穿着者）聪明时尚
-precisely (used after an expression of time):precisely（在时间表达式后使用）
+precisely (used after an expression of time):精确地（用在时间表达之后）
 in a sudden or abrupt way:以突然或突然的方式
 above the true or normal pitch of musical sound:高于音乐声音的真实或正常音高
 a musical note raised a semitone above natural pitch.:a音符在自然音高之上提高了一个半音。
@@ -325,12 +325,12 @@ a long, sharply pointed needle used for general sewing.:一种长而尖的针，
 a thing with a sharp edge, such as a blade or a fragment of glass:具有锋利边缘的东西，例如刀片或玻璃碎片
 a swindler or cheat.:一个骗子或作弊者。
 raise the pitch of (a note) by a semitone:将（一个音符）的音高提高一个半音
-cheat or swindle (someone), especially at cards:cheatorswindle(someone),尤其是在打牌时
+cheat or swindle (someone), especially at cards:欺骗或诈骗（某人），尤其是在纸牌上
 sharp |ʃɑːp| Adjective/Adverb/Noun/Verb/:锋利的,升半音,尖锐,急剧
 cut the cake with a very sharp knife:用锋利的刀切蛋糕
 a sharp pencil:一支锋利的铅笔
 I suddenly felt a sharp pain in my back:我突然感到背部一阵剧痛
-fresh goats' milk cheese has a slightly sharper flavour than fromage frais:freshgoats'milkcheese的味道比fromagefrais稍浓
+fresh goats' milk cheese has a slightly sharper flavour than fromage frais:新鲜山羊奶奶酪的味道比新鲜奶酪略重
 there was a sharp crack of thunder:雷声大作
 she feared his sharp tongue:她害怕他尖利的舌头
 her sharp disappointment was tinged with embarrassment:她的强烈失望夹杂着尴尬
@@ -338,7 +338,7 @@ the job was a sharp contrast from her past life:这份工作与她过去的生�
 there was a sharp increase in interest rates:利率急剧上升
 the bus creaked round a sharp hairpin bend:公共汽车在急转弯时吱吱作响
 her sharp eyes missed nothing:她锐利的眼睛一无所有
-Paul's a sharp operator:Paul是个精明的接线员
+Paul's a sharp operator:保罗是一个敏锐的操作员
 F sharp:F锋利
 they were greeted by a young man in a sharp suit:他们受到了一个穿着西装的年轻人的欢迎
 the meeting starts at 7.30 sharp:会议于7.30整开始
@@ -364,20 +364,20 @@ arranged in or constituting a constant or definite pattern, especially with the 
 (of a structure or arrangement) arranged in or constituting a symmetrical or harmonious pattern:（结构或排列）排列成或构成对称或和谐的图案
 (of a flower) having radial symmetry.:（一朵花）具有径向对称性。
 recurring at uniform intervals:以均匀间隔重复
-done or happening frequently:done或经常发生
+done or happening frequently:经常发生或发生
 doing the same thing often or at uniform intervals:经常或以均匀的间隔做同样的事情
 defecating or menstruating at predictable times or intervals:以可预测的时间或间隔排便或来月经
 conforming to or governed by an accepted standard of procedure or convention:符合或受公认的程序或惯例标准约束
 of or belonging to the permanent professional armed forces of a country:属于或属于一个国家的常设专业武装部队
 properly trained or qualified and pursuing a full-time occupation:经过适当培训或合格并从事全职工作
 subject to or bound by religious rule, belonging to a religious or monastic order:服从或受宗教规则约束，属于宗教或修道秩序
-rightly so called, complete, absolute (used for emphasis):rightly所谓的，完整的，绝对的（用于强调）
+rightly so called, complete, absolute (used for emphasis):正所谓，完整的，绝对的（用于强调）
 used, done, or happening on a habitual basis, usual:习惯性地使用、完成或发生，通常
 of a normal or ordinary kind:普通的或普通的
 not pretentious or arrogant, ordinary and friendly:不自命不凡，平凡而友善
 denoting merchandise, especially food or clothing, of average or standard size:表示平均或标准尺寸的商品，尤其是食品或衣服
 (in surfing and other board sports) with the left leg in front of the right on the board:（在冲浪和其他板类运动中）左腿在板上右前
-(of a word) following the normal pattern of inflection:(ofaword)遵循正常的变形模式
+(of a word) following the normal pattern of inflection:（一个词的）遵循正常的词形变化模式
 (of a figure) having all sides and all angles equal:（一个图形的）所有边和所有角度都相等
 (of a solid) bounded by a number of equal figures.:（一个实体）由多个相等的数字包围。
 a regular customer, member of a team, etc.:普通客户、团队成员等
@@ -399,7 +399,7 @@ I couldn't get an appointment with my regular barber:我无法与我的常规理
 egg pasta is richer than regular pasta:egg意大利面比普通意大利面更丰富
 he's a regular guy, not a glamour puss:他是个普通人，不是魅力十足的猫
 a shake and regular fries:a奶昔和普通薯条
-Elkerton is a regular footer:Elkerton是常规页脚
+Elkerton is a regular footer:埃尔克顿是一个普通的脚手
 a regular verb:一个规则动词
 a regular polygon:一个正多边形
 pub regulars:pub常客
@@ -416,7 +416,7 @@ application |ˌaplɪˈkeɪʃn| Noun/:应用,申请,应用程序
 an application for leave:请假申请
 the application of general rules to particular cases:一般规则在特殊情况下的应用
 this principle has no application to the present case:此原则不适用于本案
-paints suitable for application on fabric:paints适用于织物上
+paints suitable for application on fabric:适用于织物的涂料
 an application to relieve muscle pain:一个缓解肌肉疼痛的应用程序
 the job takes a great deal of patience and application:这项工作需要极大的耐心和申请
 a database application:一个数据库应用程序
@@ -429,19 +429,19 @@ the community of scholars and the republic of learning:学者社区和学习共�
 waste material, refuse or litter:废物、垃圾或垃圾
 material that is considered unimportant or valueless:被认为不重要或无价值的材料
 absurd, nonsensical, or worthless talk or ideas:荒谬、荒谬或毫无价值的谈话或想法
-criticize severely and reject as worthless:criticize严厉并拒绝为一文不值
+criticize severely and reject as worthless:严厉批评，一文不值
 very bad, worthless or useless:非常糟糕、毫无价值或无用
 rubbish |ˈrʌbɪʃ| Adjective/Noun/Verb/:垃圾,贬低,废物
-householders may be charged for the removal of non-recyclable rubbish:householders可能会因清除不可回收的垃圾而被收费
+householders may be charged for the removal of non-recyclable rubbish:家庭可能会因清除不可回收垃圾而被收取费用
 she had to sift through the rubbish in every drawer:她必须筛选每个抽屉里的垃圾
-critics said their work was a load of rubbish:critics说他们的工作是一堆垃圾
-he rubbished the idea of a European Community-wide carbon tax:he反对在欧洲共同体范围内征收碳税的想法
+critics said their work was a load of rubbish:批评者说他们的工作是一堆垃圾
+he rubbished the idea of a European Community-wide carbon tax:他反对在欧洲共同体范围内征收碳税的想法
 people might say I was a rubbish manager:人们可能会说我是个垃圾经理
 
 of great weight, difficult to lift or move:重量大，难以举起或移动
 used in questions about weight:用于关于体重的问题
 (of a class of thing) above the average weight, large of its kind:（一类事物）高于平均重量，同类中的大
-weighed down, full of something:weigheddown,充满了一些东西
+weighed down, full of something:沉重，充满了一些东西
 (of a person's head or eyes) feeling weighed down by weariness:（人的头或眼睛）感到疲倦
 of great density, thick or substantial:密度大、厚实的
 not delicate or graceful, coarse:不精致或优雅，粗糙
@@ -463,7 +463,7 @@ mentally oppressive, hard to endure:精神压抑，难以忍受
 feeling or expressing sadness:感受或表达悲伤
 serious or difficult to deal with:严重或难以处理
 (of a person) strict or harsh:（一个人的）严格的或严厉的
-excellent (used as a general term of approval).:excellent（作为认可的总称）。
+excellent (used as a general term of approval).:优秀（用作认可的总称）。
 a thing, such as a vehicle, that is large or heavy of its kind.:一个大的或重的东西，比如一辆汽车。
 a large, strong man, especially one hired for protection:一个大而强壮的人，尤其是一个受雇保护的人
 serious newspapers:认真的报纸
@@ -474,14 +474,14 @@ heavy |ˈhɛvi| Adjective/Adverb/Noun/:重的,保镖,重,沉重,沉重的
 a heavy and bulky load:a沉重而笨重的负载
 how heavy is it?:它有多重？
 heavy artillery:重炮
-branches heavy with blossoms:branches繁花似锦
+branches heavy with blossoms:枝繁叶茂
 a heavy head:一个沉重的头
 heavy grey clouds:沉重的灰云
 he had a big moustache and heavy features:他留着大胡子，五官很重
 a heavy scent of oil:一股浓浓的油香
 a heavy thundery sky:雷雨交加的天空
 a heavy cold:重感冒
-stories heavy on melodrama:stories沉重的情节剧
+stories heavy on melodrama:充满情节剧的故事
 a heavy smoker:一个重度吸烟者
 a heavy blow to the head:头部重击
 heavy work like repairing pathways:繁重的工作，比如修路
@@ -517,8 +517,8 @@ be heavy with | 沉重,沉甸甸的
 
 die through submersion in and inhalation of water:die通过浸入和吸入水中
 deliberately kill (a person or animal) by drowning:故意溺死（人或动物）
-submerge or flood (an area):submerge或洪水（一个区域）
-(of a sound) make (another sound) inaudible by being much louder:(ofasound)使（另一种声音）变大而听不见
+submerge or flood (an area):淹没或淹没（一个区域）
+(of a sound) make (another sound) inaudible by being much louder:（声音）使（另一种声音）变得更大声而听不见
 be overwhelmed by a large amount of something:被大量的东西淹没
 cover or immerse food in:覆盖或浸入食物
 drown |draʊn| Verb/:淹,淹死,溺水
@@ -527,7 +527,7 @@ he immediately drowned four of the dogs:他立即淹死了四只狗
 when the ice melted the valleys were drowned:当冰融化，山谷被淹没
 his voice was drowned out by the approaching engine noise:他的声音被接近的引擎噪音淹没了
 both business and household sectors are drowning in debt:企业和家庭部门都在负债累累
-good pizza is not eight inches thick and drowned in tomato sauce:good比萨饼没有八英寸厚，淹没在番茄酱中
+good pizza is not eight inches thick and drowned in tomato sauce:好的比萨不是八英寸厚，还淹没在番茄酱里
 
 the standard of something as measured against other things of a similar kind, the degree of excellence of something:某事物相对于其他同类事物的衡量标准，某事物的卓越程度
 general excellence of standard or level:标准或水平的一般优秀
@@ -542,7 +542,7 @@ an improvement in product quality:产品质量的提高
 a masterpiece for connoisseurs of quality:质量鉴赏家的杰作
 commanding the admiration of people of quality:令人钦佩的品质
 he's dazed at being called on to speak before quality:他对被要求在质量之前发言感到茫然
-he shows strong leadership qualities:he表现出很强的领导才能
+he shows strong leadership qualities:他表现出很强的领导才能
 he's a quality player:他是一名优秀的球员
 
 a complete list of items, typically one in alphabetical or other systematic order.:完整的项目列表，通常按字母顺序或其他系统顺序排列。
@@ -553,7 +553,7 @@ a list of courses offered by a university or college.:大学或学院提供的�
 a series of unwelcome or unpleasant things:一系列不受欢迎或不愉快的事情
 make a systematic list of (items of the same type):制作（相同类型的项目）的系统列表
 enter (an item) in a catalogue:在目录中输入（项目）
-list (similar situations, qualities, or events) in succession:list（类似的情况、品质或事件）连续
+list (similar situations, qualities, or events) in succession:连续列出（类似的情况、品质或事件）
 catalogue |ˈkatəlɒɡ| Noun/Verb/:目录,编目,首页
 a computerized library catalogue:a计算机化图书馆目录
 a mail-order catalogue:a邮购目录
@@ -573,11 +573,11 @@ a symmetrical three-dimensional shape, either solid or hollow, contained by six 
 a block of something with six sides:一块有六个面的东西
 a partitioned-off area in an office containing a desk, a cubicle.:办公室中的一个分隔区域，包含一张桌子、一个小隔间。
 the product of a number multiplied by its square, represented by a superscript figure 3:一个数乘以它的平方的积，用上标数字表示3
-raise (a number or value) to its cube:raise（一个数字或值）到它的立方体
+raise (a number or value) to its cube:将（一个数字或值）提高到它的立方体
 cut (food) into small cubes:cut（食物）切成小方块
 cube |kjuːb| Noun/Verb/:立方体,立方,多维数据集
 what is the surface area of a 2 cm cube?:2cm立方体的表面积是多少？
 a sugar cube:一个方糖
 a body increasing in weight by the cube of its length:一个物体的重量增加了它的长度的立方
-cube the deviations from the mean:cube与平均值的偏差
+cube the deviations from the mean:立方与平均值的偏差
 I bought sirloin from the butcher and cubed it myself:我从屠夫那里买了牛腩，自己切了块

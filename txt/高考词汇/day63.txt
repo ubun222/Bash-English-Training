@@ -59,8 +59,8 @@ a particular religion:一个特定的宗教
 a strongly held belief:一个坚定的信念
 said to express surprise or emphasis:表示表示惊讶或强调
 faith |feɪθ| Interjection/Noun/:信仰,信心,信念
-this restores one's faith in politicians:this恢复人们对政治家的信心
-bereaved people who have shown supreme faith:bereaved表现出至高无上的信仰的人
+this restores one's faith in politicians:这恢复了人们对政客的信心
+bereaved people who have shown supreme faith:表现出至高无上的信念的丧亲者
 the Christian faith:基督教信仰
 men with strong political faiths:men具有强烈的政治信仰
 faith, I was shown the door myself and came home:faith，我亲自带门回家
@@ -110,9 +110,9 @@ the generation of a turbulent boundary layer between the surface of a body and a
 separation |ˌsɛpəˈreɪʃn| Noun/:分离,分开
 the damage that might arise from the separation of parents and children:父母与子女分离可能带来的伤害
 legal grounds for divorce or separation:离婚或分居的法律依据
-prose structured into short sentences with meaningful separation into paragraphs:prose结构成短句，有意义地分成段落
+prose structured into short sentences with meaningful separation into paragraphs:散文结构成短句，有意义地分成段落
 an improved method of lead separation:一种改进的铅分离方法
-religion involved the separation of the sacred and the profane:religion涉及神圣与世俗的分离
+religion involved the separation of the sacred and the profane:宗教涉及神圣与世俗的分离
 use two transmitters for full stereo separation:使用两个发射器实现全立体声分离
 
 point out, show:指出，显示
@@ -120,13 +120,13 @@ be a sign of, strongly suggest:
 mention indirectly or briefly:间接或简短地提及
 direct attention to (someone or something) by means of a gesture:通过手势直接注意（某人或某物）
 (of a gauge or meter) register a reading of (a quantity, dimension, etc.):（量规或仪表）记录（数量、尺寸等）的读数
-suggest as a desirable or necessary course of action:suggest作为可取或必要的行动方案
+suggest as a desirable or necessary course of action:建议作为可取或必要的行动方案
 (of a driver or motor vehicle) signal an intention to change lanes or turn using an indicator:（驾驶员或机动车辆）使用指示器发出改变车道或转弯的意图
 indicate |ˈɪndɪkeɪt| Verb/:表明,表示,指出
 dotted lines indicate the text's margins:虚线表示文本的边距
-sales indicate a growing market for such art:sales表明此类艺术品的市场正在增长
+sales indicate a growing market for such art:销售表明此类艺术品的市场正在增长
 the president indicated his willingness to use force against the rebels:总统表示愿意对叛军使用武力
-he indicated Cindy with a brief nod of the head:他向Cindy点了点头
+he indicated Cindy with a brief nod of the head:他向辛迪示意了一下头
 an external tube is used to indicate fluid level:外管指示液位
 treatment for shock may be indicated:可能需要治疗休克
 Cal indicated and moved across the road:Cal指示并穿过马路
@@ -168,10 +168,10 @@ specifically identified to the exclusion of anything else:明确标识排除其�
 express |ɪkˈsprɛs| Adjective/Adverb/Noun/Verb/:表示,表现,表达,特快的,特快列车
 he expressed complete satisfaction:他表示完全满意
 with a diplomatic smile, she expressed herself more subtly:带着外交的微笑，她更巧妙地表达了自己
-constants can be expressed in terms of the Fourier transform:constants可以用傅里叶变换表示
+constants can be expressed in terms of the Fourier transform:常数可以用傅里叶变换表示
 she would express her milk using a pump and take it home for her baby:她会用吸奶器挤奶，然后带回家给她的宝宝吃
 the genes are expressed in a variety of cell lines:基因在多种细胞系中表达
-executives have their own express lift direct to floor 42:executives有自己的直达电梯直达42楼
+executives have their own express lift direct to floor 42:高管们有自己的直达 42 层的快速电梯
 an express train bound for Innsbruck:开往因斯布鲁克的特快列车
 an express letter:一封快递信
 I got my wife to send my gloves express to the hotel:我让我的妻子把我的手套快递寄到酒店
@@ -215,10 +215,10 @@ a wide, fast road:一条宽而快的道路
 I keep my watch fifteen minutes fast:我的手表快十五分钟
 he made a rope fast to each corner:他在每个角落都系了一根绳子
 they remained fast friends:他们仍然是好朋友
-a 35-mm colour film which is ten times faster than Kodacolor II:a35毫米彩色胶片，比KodacolorII快十倍
+a 35-mm colour film which is ten times faster than Kodacolor II:比 Kodacolor II 快十倍的 35 毫米彩色胶片
 the dyes are boiled with the yarn to produce a fast colour:染料与纱线一起煮沸以产生牢固的颜色
 the fast life she led in London:她在伦敦过的快生活
-Mammy said, ‘Stop asking questions, you too damn farse.’:Mammy说：“别问问题了，你这该死的胡说八道。”
+Mammy said, ‘Stop asking questions, you too damn farse.’:嬷嬷说：“别问了，你他妈的太胡闹了。”
 he was driving too fast:他开得太快了
 we're going to have to get to the bottom of this fast:我们将不得不在这个快速的底部找到
 the ship was held fast by the anchor chain:船被锚链固定住
@@ -273,16 +273,16 @@ of a suitable size for carrying in a pocket:大小适合放在口袋里携带
 on a small scale:小规模
 put into one's pocket:装进口袋
 take or receive (money or other valuables) for oneself, especially dishonestly:为自己取或收（金钱或其他贵重物品），尤其是不诚实的
-drive (a ball) into a pocket:drive（一个球）入袋
+drive (a ball) into a pocket:将（球）打入袋中
 enclose as though in a pocket:像装在口袋里一样
-suppress (one's feelings) and proceed despite them:suppress（一个人的感觉），尽管他们继续前进
+suppress (one's feelings) and proceed despite them:压抑（一个人的感受）并尽管如此继续
 pocket |ˈpɒkɪt| Adjective/Noun/Verb/:口袋,放入口袋,兜,袋,袖珍
 she fished for her door key in her coat pocket:她在外套口袋里找门钥匙
 the pack has two main compartments and four pockets:该包有两个主隔层和四个口袋
 the food was all priced to suit the hard-up airman's pocket:食物的价格都适合硬汉飞行员的口袋
 some of the gardens still had pockets of dirty snow in them:一些花园里仍然有几袋脏雪
 there were pockets of disaffection in parts of the country:该国部分地区存在不满情绪
-consumers are paying the same for 10 kg pockets of potatoes as they paid for 15 kg pockets last year:consumers为10公斤袋装土豆支付的费用与去年购买15公斤袋装土豆的价格相同
+consumers are paying the same for 10 kg pockets of potatoes as they paid for 15 kg pockets last year:消费者为 10 公斤袋装土豆支付的费用与他们去年为 15 公斤袋装土豆支付的费用相同
 a pocket German dictionary:一本袖珍德语词典
 a 6,000 acre pocket paradise:a6,000英亩的袖珍天堂
 she watched him lock up and pocket the key:她看着他把钥匙锁起来
@@ -300,7 +300,7 @@ pocket pride | 口袋骄傲,口袋自豪感
 the spiritual or immaterial part of a human being or animal, regarded as immortal:人类或动物的精神或非物质部分，被认为是不朽的
 a person's moral or emotional nature or sense of identity:一个人的道德或情感本质或认同感
 emotional or intellectual energy or intensity, especially as revealed in a work of art or an artistic performance:情感或智力的能量或强度，尤其是在艺术作品或艺术表演中表现出来的
-black American culture or ethnic pride.:black美国文化或民族自豪感。
+black American culture or ethnic pride.:美国黑人文化或民族自豪感。
 soul music:灵魂音乐
 the essence or embodiment of a specified quality:特定品质的本质或体现
 an individual person:个人
@@ -328,7 +328,7 @@ a conceptual subdivision of a family, subject, group of languages, etc.:一个�
 diverge from the main route or part:从主要路线或部分发散
 (of a tree or plant) bear or send out branches:(树或植物的)长出或发出树枝
 branch |brɑːn(t)ʃ| Noun/Verb/:分支,分岔,科,分公司,分支机构
-Sophie was in the branches of a tree eating an apple:Sophie在树枝上吃苹果
+Sophie was in the branches of a tree eating an apple:苏菲在树枝上吃苹果
 a branch of the Clinton River:克林顿河的一个支流
 he went to work at our Birmingham branch:他去我们的伯明翰分公司工作
 a branch of mathematics called graph theory:数学的一个分支叫做图论
@@ -357,11 +357,11 @@ branch out | 另辟蹊径,分支出去,分出
 the pointed or rounded end or extremity of something slender or tapering:细长或变细的东西的尖或圆的末端或末端
 a small piece or part fitted to the end of an object:安装在物体末端的一小块或部分
 attach to or cover the end or extremity of:附加或覆盖的末端或末端
-colour (something) at its end or edge:color（某物）在其末端或边缘
+colour (something) at its end or edge:末端或边缘的颜色（某物）
 (in bookbinding) paste a single page, typically an illustration, to the neighbouring page of a book by a thin line of paste down its inner margin:（装订中）将单页（通常是插图）粘贴到书的相邻页上，在书的内边缘用一条细线粘贴
-overbalance so as to fall or turn over:overbalance以便跌倒或翻身
+overbalance so as to fall or turn over:失去平衡以致跌倒或翻身
 be or cause to be in a sloping position with one end or side higher than the other:成为或导致处于倾斜位置，一端或一侧高于另一侧
-cause (the contents of a container) to be emptied out by holding it at an angle:cause（容器的内容物）以一定角度将其清空
+cause (the contents of a container) to be emptied out by holding it at an angle:使（容器的内容物）以一定角度握住而倒空
 rain heavily.:大雨。
 strike or touch lightly:罢工或轻轻触摸
 cause (an object) to move somewhere by striking or touching it lightly:通过轻轻敲击或触摸（物体）移动某处
@@ -372,21 +372,21 @@ a sum of money given to someone as a reward for a service:一笔钱给某人作�
 a small but useful piece of practical advice:一个小而有用的实用建议
 a prediction or piece of expert information about the likely winner of a race or contest:关于比赛或竞赛可能获胜者的预测或专家信息
 give (someone) a sum of money as a reward for a service:给（某人）一笔钱作为对某项服务的奖励
-predict as likely to win or achieve something:predict可能会赢得或取得成就
+predict as likely to win or achieve something:预测有可能赢得或取得某事
 tip |tɪp| Noun/Verb/:小费,提示,倾倒,尖
-George pressed the tips of his fingers together:George指尖合拢
+George pressed the tips of his fingers together:乔治将指尖压在一起
 the rubber tip of the walking stick:手杖的橡胶头
 the peaks of the mountains were tipped with snow:山峰被雪覆盖
 the black outer feathers are tipped with white:黑色外层羽毛有白色尖端
 tipped in here is a clipping from a magazine:这里是杂志的剪报
-Sarah tipped the washing-up water down the sink:Sarah把洗碗水倒进水槽
+Sarah tipped the washing-up water down the sink:莎拉把洗碗水倒进水槽
 I tipped his hoof with the handle of a knife:我用刀柄打翻了他的蹄子
 his twenty-yard shot was tipped over the bar by Nixon:他的20码射门被尼克松击倒在横梁上
 a rubbish tip:一个垃圾提示
 your room's an absolute tip!:你的房间绝对是小费！
 he never leaves a tip:他从不给小费
-handy tips for decorating a small flat:handy小贴士装修小公寓
-Barry had a hot tip:Barry有一个热门提示
+handy tips for decorating a small flat:小户型装修小贴士
+Barry had a hot tip:巴里有一个热门提示
 Christine was widely tipped to get the job:Christine被广泛认为会得到这份工作
 
 be in a tip | 小费,给点小费
@@ -438,7 +438,7 @@ a floating beam used to contain oil spills or to form a barrier across the mouth
 boom |buːm| Interjection/Noun/Verb/:繁荣,热潮
 the deep boom of the bass drum:大鼓深沉的轰隆声
 the boom of the bittern may be enjoyed in the country:卤水的繁荣可能会在该国享受
-thunder boomed in the sky:thunder在天空中轰鸣
+thunder boomed in the sky:雷声在天空中轰鸣
 ‘Stop right there,’ boomed the Headmaster:“停在那儿，”校长大声说
 a dozen bitterns boom mysteriously from the reeds:一打卤水从芦苇中神秘地冒出
 the boat was lifted up and then boom, down it went:小船被抬起然后轰隆隆，它就下去了
@@ -480,7 +480,7 @@ a garment for the foot and lower part of the leg, typically knitted from wool, c
 a removable inner sole placed inside a shoe or boot for added warmth or to improve the fit.:一个可拆卸的内底，放置在鞋子或靴子内，以增加温暖或改善合脚性。
 a white marking on the lower part of a horse's leg, not extending as far as the knee or hock:马腿下部的白色标记，没有延伸到膝盖或飞节
 a hard blow:重击
-force or emphasis:force或强调
+force or emphasis:强制或强调
 sock |sɒk| Noun/Verb/:短袜,重击,袜子,袜
 a Welsh pony mare, black with four white socks:a威尔士小马母马，黑色配四只白色袜子
 a sock on the jaw:下巴上的袜子
@@ -514,7 +514,7 @@ known about by many people:很多人都知道
 excellent:优秀
 famous |ˈfeɪməs| Adjective/:著名的,著名
 a famous star:知名明星
-Galway stormed to a famous victory:Galway取得了著名的胜利
+Galway stormed to a famous victory:戈尔韦冲进了著名的胜利
 
 a fine white or translucent vitrified ceramic material:一种精细的白色或半透明陶瓷材料
 household tableware or other objects made from china or a similar material:家用餐具或其他由中国或类似材料制成的物品
@@ -537,12 +537,11 @@ he had been a superlative teacher but his health was gone and he was now a passe
 
 a popular name for a gull.:海鸥的流行名称。
 seagull |ˈsiːɡʌl| Noun/:海鸥,鸥
-:
 
 at what time:什么时候
 how soon:多快
 in what circumstances:在什么情况下
-at or on which (referring to a time or circumstance):at或onwhich（指时间或情况）
+at or on which (referring to a time or circumstance):在或在什么时候（指时间或情况）
 at or during the time that:在或期间
 after:之后
 at any time that, whenever:at任何时候，无论何时
@@ -575,7 +574,7 @@ sketch (a coat of arms) in outline, with the colours indicated by letters or sig
 intended or used to deceive or mystify, or to create an illusion:意图或用于欺骗或神秘化，或制造幻觉
 liable to fail, defective:容易失败，有缺陷
 trick |trɪk| Adjective/Noun/Verb/:诡计,欺骗,招,特技,把戏
-he's a double-dealer capable of any mean trick:he是个双发牌手，能做出任何卑鄙的伎俩
+he's a double-dealer capable of any mean trick:他是个双发牌手，能做出任何卑鄙的伎俩
 she thought Elaine was playing some trick on her:她以为伊莱恩在捉弄她
 I thought I saw a flicker of emotion, but it was probably a trick of the light:我以为我看到了一丝情绪，但这可能是光的诡计
 he did conjuring tricks for his daughters:他为他的女儿们做了魔术
@@ -598,23 +597,23 @@ look at someone unwaveringly:不动摇地看着某人
 decide or settle on (a specific price, date, course of action, etc.):决定或解决（具体价格、日期、行动方案等）
 arrange (something) on a permanent basis:arrange（某事）在永久的基础上
 establish the exact location of (something) by using radar or visual bearings or astronomical observation:通过使用雷达或目视方位或天文观测确定（某物）的确切位置
-settle the form of (a language).:settle（一种语言）的形式。
+settle the form of (a language).:确定（一种语言）的形式。
 assign or determine (a person's liability or responsibility) for legal purposes:为法律目的分配或确定（一个人的责任或责任）
 mend or repair:mend或修理
 put (a bad or unwelcome situation) right:put（糟糕或不受欢迎的情况）对
 do the necessary work to improve or adapt something:做必要的工作来改进或调整某些东西
-tidy or neaten (something, especially one's hair, clothes, or make-up):tidyorquieten（某事，尤其是头发、衣服或化妆）
+tidy or neaten (something, especially one's hair, clothes, or make-up):整理或整理（某物，尤其是头发、衣服或化妆品）
 make arrangements for (something), organize:安排（某事），组织
 arrange for someone to have something, provide someone with something:安排某人拥有某物，提供某人某物
 prepare or arrange for the provision of (food or drink):
 be intending or planning to do something:be打算或计划做某事
-make (a dye, photographic image, or drawing) permanent:make（染料、摄影图像或绘画）永久
+make (a dye, photographic image, or drawing) permanent:使（染料、照片或图画）永久化
 preserve or stabilize (a specimen) with a chemical substance prior to microscopy or other examination:在显微镜检查或其他检查之前用化学物质保存或稳定（标本）
 (of a plant or microorganism) assimilate (nitrogen or carbon dioxide) by forming a non-gaseous compound:（植物或微生物）通过形成非气态化合物同化（氮或二氧化碳）
 influence the outcome of (something, especially a race, match, or election) by illegal or underhand means:以非法或不正当手段影响（某事，尤其是比赛、比赛或选举）的结果
 take revenge on or punish (someone):报复或惩罚（某人）
 take an injection of a narcotic drug.:打一针麻醉药。
-castrate or spay (an animal), neuter.:castrate或spay（动物），中性。
+castrate or spay (an animal), neuter.:阉割或阉割（动物），绝育。
 a difficult or awkward situation from which it is hard to extricate oneself, a predicament:一种难以自拔的困难或尴尬处境，困境
 a dose of a narcotic drug to which one is addicted:一剂让人上瘾的麻醉药
 an experience of something from which one derives great pleasure or stimulation:对某事的体验，从中获得极大的乐趣或刺激
@@ -625,7 +624,7 @@ fix |fɪks| Noun/Verb/:使固定,解决方法,固定,修复,解决
 they had candles fixed to their helmets:他们的头盔上固定了蜡烛
 Ben nodded, his eyes fixed on the ground:Ben点点头，眼睛盯着地面
 her gaze fixed on Jess:她的目光固定在杰斯身上
-Cowley fixed him with a cold stare:Cowley冷冷地盯着他
+Cowley fixed him with a cold stare:考利冷冷地盯着他
 no date has yet been fixed for a hearing:尚未确定听证会日期
 the rate of interest is fixed for the life of the loan:利率在贷款期限内是固定的
 having made landfall, he fixed his position:登陆后，他确定了自己的位置
@@ -633,13 +632,13 @@ there are no facts which fix the defendant with liability:没有认定被告人�
 you've forgotten to fix that shelf:你忘了修那个架子
 the international community should not rely on the UN to fix the world's problems:国际社会不应依赖联合国来解决世界问题
 we were trying to fix up the house so that it became vaguely comfortable:我们试图把房子修好，让它变得隐约舒适
-Laura was fixing her hair:Laura正在整理头发
-Harry's fixed up a meeting:Harry安排了一个会议
+Laura was fixing her hair:劳拉正在整理她的头发
+Harry's fixed up a meeting:哈里安排了一次会面
 I'll fix you up with a room:我会给你安排一个房间
 I'm fixing to call the state patrol:我正准备给州巡逻队打电话
-he perfected a process of fixing a photographic likeness on a silver plate:he完善了将摄影肖像固定在银盘上的过程
+he perfected a process of fixing a photographic likeness on a silver plate:他完善了将摄影肖像固定在银盘上的过程
 specimens were fixed in buffered formalin:标本固定在缓冲福尔马林中
-lupins fix gaseous nitrogen in their root nodules:lupins将气态氮固定在它们的根瘤中
+lupins fix gaseous nitrogen in their root nodules:羽扇豆在根瘤中固定气态氮
 the club attempted to fix last Thursday's league match:俱乐部试图修复上周四的联赛
 that little swine–I'll fix him next time:那只小猪——下次我会治好他的
 how on earth did you get into such a fix?:你到底是怎么做这样的修复的？

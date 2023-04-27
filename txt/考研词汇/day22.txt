@@ -31,4 +31,578 @@ detach oneself			挣脱
 immerse				浸泡，使...沉浸
 immerse oneself			专心
 partial				部分的，偏袒的，钟爱
-\\\\
+\\\\\\\\
+
+vt. 1 abandon sb (to sth) 离开某人（尤指离开你所负责的人）并不想回来，如遗弃、抛弃（某人）:
+2 abandon sth (to sb/sth) 离开一个事物或地方（尤指因为不可能停留，或停留就有危险），即不得以而离开，相当于leave:
+3 停止支持（或停止帮助）某人；放弃某个信念:
+4 放弃做某事（尤指在其结束之前）:
+vt. [文学] abandon yourself to sth 深深地陷入（或沉湎于）某种情感:
+vt. 停止做某事（尤指在其结束之前），即中止；也可指停止拥有某事物，即不再拥有:
+n. [U] [正式] 某人的一种放纵或放任的行为方式（不考虑别人对此的看法）:
+abandon |[ə'bændən]
+The baby had been abandoned by its mother. 这个婴儿被母亲遗弃了。
+Snow forced many drivers to abandon their vehicles. 大雪迫使许多驾驶者弃车步行。
+They had to abandon their lands to the invading forces. 他们不得不舍弃土地，让侵略军占领。
+He gave the order to abandon ship. 他下令弃船（因船快要沉没）。
+The country abandoned its political leaders after the war. 战后该国人民不再拥护他们的政治领袖。
+He has abandoned his Darwinist principles. 他已放弃了达尔文主义信念。
+to abandon a principle 放弃原则 
+to abandon the policy 废除政策 
+He abandoned the army for politics. 他弃戎从政。
+to abandoned her teaching career 放弃她的教师职业 
+The government does not propose to abandon the project altogether. 政府并不打算完全放弃这个计划。
+He abandoned himself to despair. 他陷入绝望。
+They abandoned the match because of rain. 因为下雨，他们中止了比赛。
+She abandoned hope of any reconciliation. 她对和解已不再抱有希望。
+The plans for reform were quietly abandoned. 改革的若干计划都悄无声息地终止了。
+He signed cheques with careless abandon. 他无所顾忌地乱开支票。
+
+n. [C, U] 计算机内存储信息的部分，即存储器；还可指其存储信息的空间数量，即内存量（或称内存）:
+n. [C, U] memory (for sth) 记忆的能力，即记忆力，记性。是此义的常规用词，最为常用:
+n. 1 [U] 某人的记忆所及的时期:
+2 [C]（对过去事件的）记忆，回忆，相当于recollection:
+3 [U] [正式] 在某人死后对其所拥有的记忆，即对逝者的记忆:
+memory |['memərɪ]
+computer, system memory 计算机内存；系统内存 
+cache memory 高速缓冲存储器 
+flash memory 闪速存储器 
+memory stick 内存条
+I have a bad memory for names. 我不善于记名字。
+She can recite the whole poem from memory. 她能背诵全诗。
+loss of memory 记忆的丧失 
+the nation’s collective memory 民族的集体记忆 
+cultural, historical memory 文化记忆；历史记忆
+There hasn’t been peace in the country in/within my memory. 在我的记忆里，这个国家从没太平过。
+It was the worst storm in recent memory. 最近能记得的风暴中，这是最厉害的一次。
+childhood memories 童年的回忆 
+I have vivid memories of my grandparents. 我依然清楚地记得我的祖父母。
+The photos bring back lots of good memories. 这些照片唤起了许多美好的回忆。
+Her memory lives on. 我们永远怀念她。
+
+n. [C] 图像的投影机；电影的放映机:
+projector |[prəˈdʒektə(r)]
+overhead projector 
+film, movie（美）, slide, video projector 电影放映机；幻灯机；视频放映机 
+digital, LCD projector 数码投影仪；液晶投影仪 
+projector screen 投影屏幕
+
+vi.（尤指大象）吼叫:
+vt. ~ sth (as sth) 自豪或热情地公开谈论某事物，如鼓吹、吹嘘:
+n. [C] 喇叭形物，尤指绽开的水仙花:
+n. [C] 小号、喇叭:
+vt. ~ sth (as sth) 自豪或热情地公开谈论某事物，如宣扬:
+trumpet |[ˈtrʌmpɪt]
+The elephants trumpeted and stamped their feet at their approach. 当他们靠近时，大象又吼又跺脚。
+to trumpet sb's achievements 吹嘘某人的成就 
+Mark Morris, who is trumpeted as the dance talent of his generation 马克·莫里斯，被吹捧为他那一代的舞蹈奇才
+muted trumpet 装有弱音器的小号 
+trumpet blast, trumpet call, trumpet fanfare 号声；响亮的喇叭声 
+the shrill blast of a trumpet 刺耳的号声 
+A wreath was laid on the monument to a fanfare of trumpets. 在响亮的号角声中花圈被献在纪念碑前。
+The government has been trumpeting tourism as a growth industry. 政府一直积极宣扬旅游业是快速发展型产业。
+Their marriage was trumpeted as the society wedding of the year. 他们的联姻被宣扬成当年的豪门良缘。
+
+adj.（借口、谎言等）易于识破的、易看穿的，相当于obvious:
+adj.（玻璃、塑料等）清澈透明的、可以看穿的，与opaque相反:
+adj.（语言、信息等）易于理解的、易懂的，与opaque相反。在本组最不常用:
+transparent |[træns'pærənt]
+a man of transparent honesty 显然很诚实的人 
+a transparent attempt to buy votes 收买选票的明显企图 
+Am I that transparent (= are my intentions that obvious)? 我就那么没有城府？
+The insect’s wings are almost transparent. 这昆虫的翅膀几乎是透明的。
+a campaign to make official documents more transparent 简化公文语言的运动
+
+adj. 有利润的；很可能赢利的:
+adj. 对某人有益的、有好处的:
+profitable |[ˈprɒfɪtəbl;美ˈprɑ:f-]
+a highly profitable business 一家赢利很高的企业b
+a highly profitable chain of stores 收益很高的连锁店 
+The business is not really profitable enough. 实际上公司收益不够好。
+It is usually more profitable to sell direct to the public. 向社会大众直销往往获利较高。
+Drug manufacturing is the most profitable business in America. 制药业是美国利润最丰厚的业务。
+It was profitable for them to produce large amounts of food. 生产大量的食物能让他们获利。
+confident that the venture will prove profitable 对企业盈利充满信心 
+What can be done to keep the business profitable? 能采取什么措施使公司继续盈利呢?      
+She spent a profitable afternoon in the library. 她在图书馆待了一个下午，颇有收获。
+Some churches have found it profitable to hold services during the week. 有些教堂发现在非周末的日子举行礼拜大有益处。
+Cooperation could be mutually profitable. 合作可能对双方都有益。
+collaboration which leads to a profitable exchange of personnel and ideas 有利于人员和观念交流的合作
+
+n. [C] 考试或学校作业的成绩等级，分数等级:
+vt. [尤美] 给学生或其功课等评分:
+n. [C] [术语] 疾病的程度，阶段:
+n. [C] [英] 音乐考试的级别，水平:
+n. [C] [美] 军衔:
+n. [C] 在美国的学制中，可指年级:
+n. [C] [尤美] 地面的斜坡，尤指公路或铁路的斜坡:
+n. 1 [C]（产品或材料的）质量等级，品级:
+2 [C] 活动（如比赛）的级别:
+3 [C] 在一个组织中，可指某人的（能力或职衔的）等级，级别:
+grade sth (as sth) 常用被动式，指把人或事物按照能力、质量、尺寸等进行分级:
+grade |[ɡreɪd]
+a good grade 理想的成绩 
+The oral exam constitutes 10% of the final grade. 口试占总成绩的10%。
+an A-grade essay 一篇得A的文章 
+failing, passing grade（均美）不及格的成绩；及格的成绩 
+course grade（美）课程成绩 
+I need to improve my grades. 我需要提高自己的成绩。
+grade point average（美）平均学分绩点
+to grade the students’ work 对学生们的作业评分 
+to grade papers 评阅试卷 
+to be graded A 被评为甲等 
+I don’t think he graded our essays fairly. 我认为他给我们的作文打分不公平。
+high grade fever 高烧
+lieutenant junior grade 中尉军衔
+to teach first grade 教一年级 
+Sam is in (the) second grade. 萨姆上二年级。
+to start third grade 开始上三年级 
+to skip a grade 跳一级
+to drive up a steep grade 驾车爬上一个陡坡
+a good grade of furniture 高品质家具 
+a piece of high-grade building land 一块优质建筑用地 
+low-grade steel 低等级钢 
+to play top-grade football 踢顶级足球赛事 
+salary grades 工资级别 
+senior grades 高级职位 
+a job at a lower grade 较低职位的工作
+vt. grade sth/sb (by/according to sth) 
+They are graded according to their ability. 将他们按照能力进行分级。
+finely graded nuances of language 语言中仔细区分的细微差别 
+The timber is graded according to its thickness. 木材按厚度分级。
+The containers are graded by size. 容器按尺寸分级。
+
+n. [C] 自行车。是此义的常规用词:
+bicycle |['baɪsɪkl]
+He mounted his bicycle and rode off. 他骑上自行车走了。
+bicycle chain, bicycle pump, bicycle seat 自行车链条；自行车打气筒；自行车车座 
+bicycle helmet 自行车头盔 
+bicycle race 自行车赛
+
+n. [C, usually sing.] 性格、性情:
+n. [C, U] [法律]（财产、金钱的）正式分配:
+n. [C, usually sing.] [正式] 排列、布置:
+n. [C, U] [法律]（财产、金钱的）正式给予或分配，如赠予、让与、分配:
+~ to do sth 行为的倾向:
+disposition |[ˌdɪspəˈzɪʃn]
+to have a cheerful disposition 性情开朗 
+The rides are unsuitable for people of a nervous disposition. 骑马这一活动不适合天性易紧张的人。
+He was a man of decisive action and an adventurous disposition. 他是一个行动果断又爱冒险的人。
+Do people have a natural disposition to be good? 人性本善吗？
+These dogs show a very sociable disposition. 这些狗显得十分合群。
+Judge Stacks was appointed to oversee the disposition of funds. 斯塔克斯法官被指定监督资金的分配。
+to understand the buildings from the disposition of walls and entrances 从墙体门窗布局来识别建筑物
+to have a disposition towards violence 有暴力倾向 
+This has given him a disposition to consider our traditions critically. 这使他倾向以批判眼光看待我们的传统。
+They show no disposition to improvise or to take risks. 他们不愿意临时凑合或冒险。
+
+n. [U] 一种不整洁的状态，缺乏秩序、缺乏组织的状态，即混乱:
+Inside all was disorder: drawers fallen out, shoes and boots scattered. 屋内凌乱不堪:
+n. [C, U] 身体某部位的机能失调、紊乱、疾病、不适:
+n. [U] 一大群人的暴力行为，即骚乱、动乱:
+disorder |[dɪsˈɔ:də(r);美-ˈɔ:rd-]
+The room was in a state of disorder. 房间凌乱不堪。
+The emergency room was in disorder. 急诊室里一片混乱。
+His financial affairs were in complete disorder. 他的财务完全是一笔糊涂账。          
+serious, severe, chronic, common, rare, genetic, inherited disorder 严重的紊乱；慢性病；常见病；罕见病；遗传病 
+blood, brain, bowel disorder 血液病；大脑功能障碍；闹肚子 
+circulatory, eating disorder 循环障碍；进食障碍 
+Anorexia is a common eating disorder. 厌食症是一种常见的进食障碍。
+physical disorder 身体不适 
+behavioural, emotional, mental, nervous, neurological, personality, psychiatric, psychological disorder 行为障碍；情绪障碍；心理障碍；神经错乱；神经性障碍；人格障碍；精神失常；心理障碍 
+attention deficit, bipolar, obsessive compulsive, post-traumatic stress, seasonal affective disorder 注意力障碍；双相型障碍；强迫症；创伤后应激障碍；季节性情感障碍 
+disorders of the digestive system 消化系统紊乱 
+She suffers from a rare blood disorder. 她患有一种罕见的血液病。
+Her doctor diagnosed a theroid disorder. 她的医生诊断她为甲状腺疾病。
+a rare nerve disorder that can cause paralysis of the arms 一种可致手臂瘫痪的罕见的神经疾病 
+a psychiatrist who specializes in eating disorders 一位专门治疗饮食失调的精神病专家
+violent disorder（尤英）暴力骚乱 
+alcohol-related, drink-related（均英）disorder 酒后滋事 
+civil, crowd（英）, public（尤英）, social, political disorder 内乱；群众骚乱；公众骚乱；社会骚乱；政治骚乱 
+youth disorder（英）青年人骚乱 
+outbreak of disorder（尤英）骚乱的爆发 
+Troops were sent in to quell the disorder. 军队被派去平息骚乱。
+The initiative aims to tackle alcohol-related disorder in towns. 这一计划最初旨在处理城市中的酒后滋事问题。
+The police will not tolerate disorder of any kind on our streets. 警方不会容许大街上有任何形式的骚乱。
+new restrictions aimed on preventing social disorder 旨在防止社会动乱的新限制措施 
+He called on the authorities to stop public disorder. 他呼吁当局制止公众骚乱。
+There are other forms of civil disorder — most notably, football hooliganism. 还有其他形式的民众骚乱，最出名的是足球流氓行为。
+
+n. [U]（在一个社会、组织或家庭中所体现的）全体成员之间在权利、地位、优势、责任等方面的平等:
+equality |[ɪ'kwɒlɪtɪ]
+sexual, racial equality 性别平等；种族平等 
+equality between men and women 男女平等 
+equality before the law 法律面前的平等 
+equality of opportunity 机会的平等
+
+vt. 将思想、活动等引入另一国或地区:
+vt. 将数据输出、调出或导出:
+n. [C] 常用复数，指被出口至另一国的产品或服务:
+n. [U, C] 可数名词时为复数， 商品或服务的出口贸易:
+vt.＆vi. export (sth) (to sb) 将商品或服务出口到另一国:
+export |['ekspɔ:t][ɪk'spɔ:t]
+American pop music has been exported around the world. 美国流行音乐已传播到世界各地。
+to export file 导出文件
+the country’s major exports 该国的主要出口产品 
+Coffee is the country’s biggest export. 咖啡是该国最多的出口产品。
+illegal export 非法出口 
+capital, commodity export 资本输出；商品出口 
+beef export 牛肉出口 
+live export 活动物出口 
+volume of exports 出口量 
+export crop, export goods 出口作物；出口商品 
+export controls, export quota, export restrictions, export subsidy, export tax 出口管控；出口配额；出口限制；出口补贴；出口关税 
+export order 出口订单 
+The island export fruit. 该岛出口水果。
+90% of the engines are exported to Europe. 90%的发动机都出口到欧洲。
+to be widely exported 被出口到很多地方 
+illegally exported works of art 非法出口的艺术作品 
+Last year 2 000 birds were exported from the island. 去年有2 000只鸟从这个海岛输出。
+
+vt. 使某人经历不愉快的事情，即使遭受:
+adj. subject to sth 很可能受…影响的（尤指很可能受坏事影响的）:
+adj. subject to sth/sb 在…的权威之下，即受…支配的，服从于…的:
+n. [C] 批评、研究或调查的对象:
+n. [C]（尤指在实验中）用于接受研究的实验对象，即受试者（可以是人，也可以是事物）:
+n. [C] 在谈话中，可指人们所讨论的人、事件或事物，即话题（其本义为处置的主题，是一个基础用词，词义范围较广，话题只是其若干义项中的一个）:
+n. [C] 绘画、摄影等的题材（如人、动物、物品等），表现对象:
+n. [C] 学校的学科，科目（是关于某个学科领域的知识）。是此义的常规用词:
+n. [C] 书籍的主题，题材等。其词义核心是指某种行为所处置的“对象”，是一个广义的基础用词:
+n. [C]（尤指君主制国家的）国民，臣民:
+vt. [正式] subject sth (to sth)（尤指通过武力）让一个国家或一群人臣服，顺从:
+adj. [正式]（只作前置定语）受另一国政府统治的:
+n. [C] 主语:
+adj. subject to sth 为完成…（或获得同意）而取决于…，即视…而定:
+subject |['sʌbdӡɪkt]['sʌbdӡɪkt][səb'dӡekt][səb'dӡekt]
+The man had subjected her to three years of abuse and beatings. 那个男人让她遭受了三年的辱骂和殴打。
+Prices of food may be subject to the drought. 食物价格很可能受干旱气候的影响。
+His illness left him subject to asthma attacks. 他的病使他容易哮喘发作。
+At this stage these proposals are still subject to change. 在这个阶段，这些提议仍然可以更改。
+to be subject to the discipline 受纪律约束 
+Everyone was subject to the whim of the sheikh. 所有人都听命于酋长，由着他随心所欲。
+All the priories were made directly subject to the abbot. 所有小修道院都直接由修道院院长管理。
+He was the subject of criticism. 他成为了被批评的对象。
+two groups of subjects 两组受试者（或两组实验对象）
+control, healthy, human, normal, research, study, test subject（均为科学用语）对照实验对象；健康的实验对象；人类受试者；正常受试者；研究对象；测试对象
+my own views on the subject 我对此问题的个人看法 
+a subject of conversation 交谈的话题 
+to get onto the subject of human nature 谈到人性的话题 
+to get off the subject 偏离了主题 
+to change the subject 换个话题 
+a taboo subject 禁忌话题 
+to speak on the chosen subject 就选定的主题发表演讲 
+his pet subject 他喜欢的话题
+Dogs and flowers are popular subjects for the artist. 狗和花是这位画家喜爱的题材。
+He focused his camera on the subject. 他把相机的焦距调到被拍对象上。
+Maths is my favourite subject. 数学是我最喜欢的科目。
+compulsory, main subject 必修科目；主科 
+optional subject 选修科目 
+art（美）, arts（英）, science subject 文科科目；理科科目 
+What subjects are you taking (= studying) this year? 你今年选修了什么课程？ 
+a book on the subject of Chinese history 一本关于中国历史的书 
+This chapter deals with a very serious subject. 本章涉及的是一个极为严肃的主题。
+He is the subject of the book. 他是本书的主人公。
+a British subject 英国国民 
+his subjects 他的臣民
+The Empire subjected the small country to its rule. 帝国把那个小国置于自己的统治之下。
+subject nations 被他国统治的民族
+The proposal is subject to your approval. 这项提议就等你批准了。
+to be subject to availability 只有在允许的情况下才可以
+
+provide (a house or room) with furniture and fittings:提供（房子或房间）家具和配件
+be a source of, provide:beasourceof,提供
+supply someone with (something), give (something) to someone:supplysomeonewith(something),给某人（某物）
+furnish |ˈfəːnɪʃ| Verb/:装设,提供,供给
+the proprietor has furnished the bedrooms in a variety of styles:业主对卧室进行了各种风格的布置
+fish furnish an important source of protein:fish提供重要的蛋白质来源
+she was able to furnish me with details of the incident:she能够向我提供事件的详细信息
+
+n. [pl.] possibilities 可被成功改进（或做成）的余地，即潜力，相当于potential:
+n. [C, usually pl.]（在某种情况中）可以从不同的事情中选择去做的一件事情:
+n. [C, usually pl.] 机会，契机，相当于opportunity:
+possibility (that ...) 可能，可能性（即不确定性）。是此义的常规用词:
+possibility |[͵pɒsə'bɪlətɪ]
+The house is in a bad state of repair but it has possibilities. 这房子虽亟待修缮，但仍有可资利用的价值。
+to exhaust all the possibilities 用尽一切可能的手段 
+Selling the house is just one possibility that is open to us. 卖掉房子只是我们可以选择的做法之一。
+The course offers a wide range of possibilities for personal development. 该课程为个人发展提供多种机会。
+There is now no possibility that she will make a full recovery. 她现在已不可能完全康复。
+Bankruptcy is a real possibility if sales don’t improve. 如果销售情况得不到改善，真有破产的可能。
+theoretical possibility 理论上的可能性 
+We don’t want to risk the possibility of losing all our money. 我们不想冒失去所有金钱的风险。
+
+n. [C, usually sing.] 非常希望的事，即企盼的事:
+n. 1 [C] prayer (for sb/sth) 对神灵所说的表示感谢或祈求帮助的话语，即祈祷的内容:
+2 [C] 对神灵说话时所说的一种固定形式的祈祷文:
+3 [U] 祈祷或祷告（的行为或习惯）:
+n. [pl.] prayers定期进行的一种宗教祈祷会（人们在该集会中念祈祷词）:
+prayer |[preə]
+My prayer is that one day he will walk again. 我的企盼就是有一天他能重新走路。
+to say your prayers 祷告 
+prayers for the sick 为病人的祈祷 
+She whispered a little prayer. 她低声念了一句祷词。
+They knelt in prayer. 他们跪下祈祷。
+Christian prayer 基督徒的祈祷 
+We had family prayers before breakfast. 我们全家人早餐前在一起做祷告。
+a prayer for peace 祈求和平的祷告
+
+n. [U] 食品、货物或材料的生产、制造，尤指大批量的生产:
+n. [C, U] 电影、戏剧或广播节目的制作、播出、上映；也可指艺术类的作品:
+n. [U] 自然的产生或分泌:
+n. [U] 产品的产量:
+production |[prə'dʌkʃn]
+coal, electricity, energy, oil production 煤炭生产；电力生产；能源生产；石油生产 
+cotton production 棉花生产 
+agricultural, fruit, livestock, meat, milk, wheat production 农业生产；水果生产；家畜生产；肉类生产；奶类生产；小麦生产 
+factory, industrial production 工厂的生产；工业生产 
+steel production 钢铁生产 
+production facility, production line, production plant 生产设施；生产线；制造厂 
+production process, production technique 生产过程；生产技术 
+production worker 生产工人 
+production costs 生产成本 
+production level, production volume 生产水平；产量 
+production quality 生产质量 
+rate of production 生产率 
+the means of production 生产资料
+artistic production 艺术创造 
+stage production 舞台作品 
+studio production 工作室作品 
+TV, video production 电视作品；录像作品 
+film（尤英）, movie（尤美）production 电影作品 
+theatrical production 戏剧作品
+antibody, hormone production 抗体的产生；激素的产生
+annual production 年产量 
+domestic production 国内产量 
+global production 全球产量 
+production increase, production rise 产量上升 
+production levels 产量滑落
+
+continually 频繁地
+Continual events happen again and again. 频繁的
+continually 持续不断地
+A continual process or situation happens or exists without stopping. 持续不断的
+continual |英 [kən'tɪnjʊəl]  美 [kən'tɪnjuəl]| adj. 持续不断的；频繁的/
+Malcolm was continually changing his mind.马尔科姆频频改变其主意。
+...the government's continual demands for cash to finance its chronic deficit.…政府为负担其长期的财政赤字而对现金不断的需求。
+She cried almost continually and threw temper tantrums.她几乎哭个不停，还大发脾气。
+They felt continual pressure to perform well.他们感受到持续不断的、要表演得好的压力。
+The school has been in continual use since 1883.该校自1883年以来一直在不断使用中。
+
+
+n. [C]（常用作形容词）创始性的一个组织机构（其拥有或控制一些同类型的小机构）:
+n. [usually pl.] 一个人的父亲或母亲。是此义的常规用词:
+n. [C]（动植物的）父本或母本，亲本，亲代:
+n. [C]（常用作形容词）母（公司）:
+parent |['peərənt]
+a parent bank and its subsidiaries 总行及其附属银行 
+parent company 母公司
+He’s still living with his parents. 他还和父母住在一起。
+single parent 单亲 
+natural parent 亲生父亲或母亲 
+adopted parent 养父或养母
+the parent bird, the parent tree 亲代鸟；亲代树
+parent company(商业用语) 母公司
+
+vt.＆vi.（人或生物在危险的情况下，如事故或疾病中）存活:
+vt.＆vi.（事物在危险的情况下）遗留下来:
+vt.＆vi.（事物或人设法继续在困境中）生存:
+vt. 比…活的时间长:
+vt.＆vi.（事物在危险的情况下）遗留下来:
+survive |[sə'vaɪv][sə'vaɪv]
+to battle to survive in icy seas 在冰冷的海洋中挣扎求生 
+Lung cancer patients are lucky to survive for five years. 肺癌患者能活五年就算是万幸了。
+He narrowly survived several assassination attempts. 几次暗杀行动让他差点儿丧命。
+She survived through two world wars. 她经历了两次世界大战而幸存。
+They survived on roots and berries. 他们靠吃根茎和浆果活了下来。
+His five chickens survived to adulthood. 他的五只小鸡活到了成年。
+Seedlings survive better in stony soil. 幼苗在多石的土壤中能更好地存活。
+Few buildings survived the war intact. 这场战争过后没有几幢建筑是完好的。
+The frescoes have survived remarkably well. 壁画保存得相当完好。
+Only one copy of the book still survives. 这本书只留下了一个孤本。
+I can’t survive on $50 a week. 一星期50美元，我无法维持生活。
+poor people struggling to survive 为生存而挣扎着的穷人 
+He survived as the party leader. 他继续担任该党领袖。
+Don’t worry, you’ll survive. 别担心，你会没事的。
+Many factories will not survive. 很多工厂将无法存活下去。
+Most women will survive their husbands. 大多数女性比她们的丈夫活得长。
+She survived her husband by eight years. 她的丈夫死后，她又活了八年。
+Few buildings survived the war intact. 这场战争过后没有几幢建筑是完好的。
+The frescoes have survived remarkably well. 壁画保存得相当完好。
+Only one copy of the book still survives. 这本书只留下了一个孤本。
+
+prep. 与…同时:
+prep. 紧挨着…；在…旁边:
+adv. 并排:
+alongside |[ə'lɒŋ'saɪd]
+Traditional beliefs still flourish alongside a modern urban lifestyle. 现代城市生活方式盛行的同时，传统信念仍然大行其道。
+A police car pulled up alongside us. 一辆警车在我们旁边停了下来。
+Nick caught up with me and rode alongside. 尼克赶上了我，并排骑车前进。
+
+vt.（一种情况、一个事件或活动）牵涉或影响某事物:
+vt.（一种情况、一个事件或活动）牵涉或影响某人:
+vt. ~ sb (in sth) 用言行来表明某人参与某事（尤指表明其参与了犯罪）。相当于implicate:
+vt.（一种情况、一个事件或活动）牵涉或影响某事物。有时可翻译为“需要”，相当于entail:
+vt. ~ sb (in sth/in doing sth) 使某人参加、加入、介入:
+vt.（一种情况、一个事件或活动）牵涉或影响某事物。有时可翻译为“包含”:
+vt. ~ sb (in sth) 使某人卷入某事:
+involve |[ɪnˈvɒlv;美ɪnˈvɑ:lv]
+Many of the crimes involved drugs. 许多罪案都与毒品有关。
+A late booking may involve you in extra cost. 预订晚了的话你可能要额外多花钱。
+There was a serious incident involving a group of youths. 有一起涉及一群年轻人的严重事件。
+How many vehicles were involved in the crash? 这次撞车事故涉及多少辆汽车？
+If there was a cover-up, it involved people at the very highest levels of government. 如果有人想要隐瞒实情，那其中就涉及政府部门最高层的人物。
+a riot involving a hundred inmates 有一百名囚犯参与的暴动 
+His confession involved a number of other politicians in the affair. 他的自白供出其他一些政治人物也涉及此事。
+I didn't mean to involve you in all this. 我没打算把你牵连进来。
+Many of the crimes involved drugs. 许多罪案都与毒品有关。
+The job involves me travelling all over the country. 这份工作需要我在全国各地跑。
+The job involves my travelling all over the country.（正式）这份工作需要我在全国各地跑。
+This involved me in a round trip of over 400 miles. 为此我需要往返旅行 400 多英里。
+The reforms will inevitably involve a lot of new paperwork for teachers. 改革难免需要教师做大量新的书面工作。
+Running a kitchen involves a great deal of discipline and speed. 料理好厨房需要把一切都安排得规规矩矩，且要讲求速度。
+Nicky's job as a public relations director involves spending quite a lot of time with other people. 尼基作为公共关系主管，需要花很多时间与别人打交道。
+We want to involve as many people as possible in the celebrations. 我们希望参加庆典的人越多越好。
+Parents should involve themselves in their child's education. 父母应当参与孩子的教育。
+methods that actively involve students in learning 各种使学生积极学习的方法 
+Noel and I do everything together, he involves me in everything. 我和诺埃尔什么事情都一起做，他让我参与所有的事。
+Before too long he started involving me in the more confidential aspects of the job. 不久,他便开始让我介入工作中更机密的方面。
+The test will involve answering questions about a photograph. 考试将包括回答一些关于一张照片的问题。
+Inventions typically involve minor improvements in technology. 发明创造往往包含技术上的改进。
+Any investment involves an element of risk. 任何投资都有一定的风险。            
+I seem to have involved myself in something I don't understand. 我似乎卷入了一件我并不知情的事情当中。
+
+n. [U] ~ (with sb)（因有相同的感情、观点、目标等而）对…表示支持，如团结、同心同德，尤指政治或国际事务中的团结一致、相互支持:
+solidarity |[ˌsɒlɪˈdærəti;美ˌsɑ:l-]
+Demonstrations were held as a gesture of solidarity with the hunger strikers. 人们举行示威游行，以表示对绝食抗议者的支持。
+Supporters want to march tomorrow to show solidarity with their leaders. 为了显示和领袖的同心同德，支持者们希望明天举行游行。
+international, national solidarity 国际社会的的团结一致；全国上下的团结一致 
+communal, community, social solidarity 社区团结；社会团结 
+class, family, group, human, political, racial, union, working-class solidarity 阶级团结；家庭团结；集体团结；人类团结；政治团结；种族团结；工会团结；工人阶级团结 
+Hospital staff staged a protest as a gesture of solidarity with the striking nurses. 医院工作人员举行抗议以示与罢工的护土们团结一致。
+The strike fostered a sense of solidarity among the workers. 这次罢工在工人们中间培养了一种团结意识。
+Various other groups of workers went on strike in solidarity with the train drivers. 其他不同团体的工人进行罢工以示与火车司机们站在一起。
+union solidarity against management 工会团结一致对抗资方 
+The conflict fostered solidarity among Arab oil states. 这场冲突促进了阿拉伯石油生产国之间的团结。
+He expressed his solidarity with the miners. 他表示与矿工们站在一起。
+
+vi. embark on/upon sth 从事，着手，开始（新的或艰难的事情）:
+vt.&vi. 上船；装船:
+embark |[ɪmˈbɑ:k;美ɪmˈbɑ:rk]
+She is about to embark on a diplomatic career. 她即将开始外交生涯。
+He's embarking on a new career as a writer. 他即将开始新的职业生涯——当一名作家。
+The government embarked on a programme of radical economic reform. 政府开始实施一项彻底的经济改革计划。
+The company has recently embarked on a new venture. 公司近期创办了一家新企业。
+She has already embarked on her studies. 她已经着手进行研究。
+She was now ready to embark on her adventure. 她已为探险做好准备。
+We stood on the pier and watched as they embarked. 我们站在突码头上目送他们登船。
+They embarked the troops by night. 他们让部队在夜里上了船。
+They travelled to Portsmouth, where they embarked on the battle cruiser HMS Renown. 他们行至朴次茅斯，在那里登上了英国皇家海军“声望号”战列巡洋舰。
+Bob ordered brigade HQ to embark. 鲍勃命令旅指挥部登船。
+
+vt. ~ sb (into sth/into doing sth) 恐吓；威胁:
+intimidate |[ɪnˈtɪmɪdeɪt]
+Jones had set out to intimidate and dominate Paul. 琼斯开始恐吓并控制保罗。
+Attempts to intimidate people into voting for the governing party did not work. 胁迫人们为执政党投票的企图没有成功。
+They were accused of intimidating people into voting for them. 他们被控胁迫选民投他们的票。
+She refused to be intimidated by their threats. 她没有被他们的威胁吓倒。
+She did not feel intimidated by him. 她并未觉得受到了他的威胁。
+psychologically intimidate 心理恐吓 
+Dissidents were physically intimidated, threatened, and harshly interrogated. 持不同政见者受到了人身恐吓和威胁，并遭受了粗暴的审讯。
+The police had tried to intimidate him into signing a confession. 警方曾试图胁迫他签署认罪书。
+He was not a man to be easily intimidated. 他不是一个能被轻易吓倒的人。
+
+n. [U] [英，正式] 把货物从一地运输到另一地的行为或费用:
+n. [C] [英，还可用coach；美为car] 火车的客车厢:
+n. [C] 旧时载客用的四轮马车。并不强调有篷还是无篷:
+carriage |['kærɪdӡ]
+The carriage is included in the price. 价格中包含了运费。
+railway carriage 火车客车厢 
+first-class carriage 头等列车客车厢 
+no-smoking carriage 禁止吸烟的列车客车厢 
+carriage door 列车客车厢车门 
+There’s a seat in the next carriage. 下一节车厢里有个座位。
+horse-drawn, open carriage 马车；敞篷马车 
+royal carriage 皇家马车
+
+n. [U] [旧时或正式]（重要性或趣味性）引人注目，相当于note:
+remark (how ...) 说出（或写出）关于…的评论或解释，即评论，议论等。相当于comment:
+n. [C] 就…所说出或写出的观点、想法等，即评论，谈论，言论。相当于comment:
+remark |[rɪ'mɑːk]
+The exhibition contains nothing that is worthy of remark. 这次展览没有任何值得看的东西。
+vt.＆vi. remark (on/upon sth/sb) 
+Several people remarked on her outfit. 好几个人对她的服饰发表了看法。
+The judges remarked on the high standard of entries for the competition. 评委们说明了参赛作品的高水准。
+Critics remarked that the play was not original. 评论家们指出这部戏剧缺乏创意。
+She remarked how tired I was looking. 她说我看上去显得特别累。
+to remarked casually 漫不经心地说 
+The similarities between the two have often been remarked on. 人们经常谈到两者的相似之处。
+He remarked to Jane that... 他对简说…
+What exactly did you mean by that last remark? 你最后那句话究竟是什么意思？
+a set of prepared remarks 一通事先准备好的话 
+the careless remark 不小心的话 
+a casual remark to his father 对他父亲随便说的一句话 
+witty remarks 诙谐的话 
+racist remarks 种族主义言论 
+rude remark 无礼的言语 
+personal remark 人身攻击 
+introductory, opening remark 开场白；开幕词 
+closing, final remark 闭幕词；结束语 
+The Pope delivered his remarks before boarding his plane. 教皇在登机之前发表了讲话。
+She made a disparaging remark about men. 她说了一句贬低男人的话。
+
+vt.&vi. ~ (sth) (from sth) 将某事物从一个更大的事物上移除；从某事物上分离开来（即脱离某事物）:
+vt. ~ yourself (from sb/sth) [正式] 使自己挣脱某个人:
+vt. ~ yourself (from sb/sth) [正式] 使自己从某个事件、问题等情况中挣脱出来:
+vt. ~ yourself (from sb/sth) [正式] 使自己离开某些人:
+vt.&vi. ~ (sth) (from sth) 将某事物从一个更大的事物上移除；从某事物上分离开来（即脱离某事物）:
+vt. ~ yourself (from sb/sth) [正式] 使自己挣脱某个人，或离开某些人:
+vt. ~ yourself (from sb/sth) [正式] 使自己从某个事件、问题等情况中挣脱出来:
+vt. [术语] 派遣一队士兵等，尤指让其去执行特殊任务:
+detach |[dɪˈtætʃ]
+Detach the coupon and return it as soon as possible. 将赠券撕下后尽快寄回。
+Detach the white part of the application form and keep it. 把申请表的白色部分撕下存底。
+One of the panels had become detached from the main structure. 一块镶板已从主体结构上脱落。
+The skis should detach from the boot if you fall. 要是你跌倒了，滑雪板就该脱离靴子。
+It is easy to detach the currants from the stems. 很容易就能把醋栗从梗上摘下来。
+She detached herself from his embrace. 她挣脱了他的拥抱。
+I tried to detach myself from the reality of these terrible events. 我尽力使自己从这些可怕事件的现实中摆脱出来。
+It helps them detach themselves from their problems and become more objective. 这有助于他们从所面临的问题中跳出来，变得更客观一些。
+Alexis saw his father detach himself from the group and walk away down the hill by himself. 亚历克西斯看到父亲离开那一群人，独自走下山去了。
+Detach the coupon and return it as soon as possible. 将赠券撕下后尽快寄回。
+Detach the white part of the application form and keep it. 把申请表的白色部分撕下存底。
+One of the panels had become detached from the main structure. 一块镶板已从主体结构上脱落。
+The skis should detach from the boot if you fall. 要是你跌倒了，滑雪板就该脱离靴子。
+It is easy to detach the currants from the stems. 很容易就能把醋栗从梗上摘下来。
+She detached herself from his embrace. 她挣脱了他的拥抱。
+I tried to detach myself from the reality of these terrible events. 我尽力使自己从这些可怕事件的现实中摆脱出来。
+It helps them detach themselves from their problems and become more objective. 这有助于他们从所面临的问题中跳出来，变得更客观一些。           
+
+vt. ~ yourself/sb in sth（使）沉浸于、专心于某事:
+vt. ~ sb/sth (in sth) 使浸没于液体中:
+immerse |[ɪˈmɜ:s;美ɪˈmɜ:rs]
+For six months I totally immersed myself in my work. 六个月来我完全埋头干工作。
+I immediately immersed myself in the task. 我立即专心投入工作。
+Since then I've lived alone and immersed myself in my career. 自那以后,我一直一个人生活,全身心投入我的事业当中。
+Clare and Phil were deeply immersed in conversation in the corner. 克莱尔和菲尔在角落里深谈。
+The electrodes are immersed in liquid. 电极浸没在液体中。
+The seeds need to be completely immersed in water. 种子需要完全浸没在水中。
+
+adj. [过时用法] [名词前不可用] ~ to sb/sth（对某人或某事物）热爱的、钟爱的:
+adj. [名词前不常用] [贬] ~ (towards sb/sth)（对一个人、团队、想法等的）偏爱的、偏心的、偏袒的:
+adj. 部分的、不完全的:
+partial |[ˈpɑ:ʃl;美ˈpɑ:rʃl]
+I'm not partial to mushrooms. 我不太爱吃蘑菇。
+He's become partial to vodka since coming to Russia. 自从来到俄罗斯，他变得偏爱伏特加酒。
+He's very partial to ice cream. 他对冰激凌很是偏爱。
+He's partial to sporty women with blue eyes. 他喜欢爱运动的蓝眼睛女子。
+Mollie confesses she is rather partial to pink. 莫莉承认她偏爱粉红色。
+I'm especially partial to the Latin American music. 我特别偏爱拉丁美洲的音乐。
+I might be accused of being partial. 可能会有人骂我偏心。
+A newspaper criticized the president's proposal, saying that it was partial to Israel. 一家报纸批评总统的提议，称该提议偏袒以色列。
+It was only a partial solution to the problem. 那只是部分地解决了这个问题。
+a partial eclipse of the sun 日偏蚀 
+He managed to reach a partial agreement with both republics. 他设法与两个共和国都达成了部分协议。
+a partial ban on the use of cars in the city 市内部分地段轿车禁行令 
+His efforts met with only partial success. 他的努力只获得了部分成功。
+The information we have is somewhat partial. 我们得到的信息不怎么全面。
+The resulting assessment is necessarily partial and subjective. 评估结果难免会有偏颇和带有主观性。

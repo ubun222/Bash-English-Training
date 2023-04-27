@@ -42,12 +42,12 @@ glove						手套
 diary						记事簿，日记
 \\\\
 
-remove or take away (something) from a particular place or position:remove或从特定位置或位置带走（某物）
+remove or take away (something) from a particular place or position:从特定的地方或位置移除或带走（某物）
 take (money) out of an account:从账户中取出（钱）
 discontinue or no longer provide (something previously supplied or offered):discontinue或不再提供（以前提供或提供的东西）
 say that (a statement one has made) is untrue or unjustified:说（某人所做的声明）不真实或不合理
 (of a man) practise coitus interruptus:（男人的）practice coitus interruptus
-leave or cause to leave a place or situation:leave或导致离开一个地方或情况
+leave or cause to leave a place or situation:离开或导致离开一个地方或情况
 cease to participate in an activity or be a member of a team or organization:停止参加活动或成为团队或组织的成员
 prevent (someone) from participating in an activity:防止（某人）参加某项活动
 depart to another place in search of quiet or privacy:前往另一个地方寻找安静或隐私
@@ -66,7 +66,7 @@ for the cocaine user, it is possible to withdraw without medication:对于可卡
 demand something forcefully, not accepting refusal:需求强烈的东西，不接受拒绝
 demand forcefully to have (something):需求强行拥有（某物）
 persist in (doing something):坚持（做某事）
-state positively and assertively:state积极而果断
+state positively and assertively:积极自信地陈述
 insist |ɪnˈsɪst| Verb/:,执
 she insisted on carrying her own bag:她坚持自己拎包
 he insisted on answers to his allegations:他坚持要对他的指控作出答复
@@ -86,7 +86,7 @@ denoting or performed by a device capable of operating without direct human cont
 (in Kantian moral philosophy) acting in accordance with one's moral duty rather than one's desires.:（在康德道德哲学中）根据自己的道德义务而不是根据自己的愿望行事。
 autonomous |ɔːˈtɒnəməs| Adjective/:自主性,自主,自主的,自治
 the federation included sixteen autonomous republics:联邦包括十六个自治共和国
-school governors are legally autonomous:school州长在法律上是自治的
+school governors are legally autonomous:校董在法律上是自治的
 autonomous underwater vehicles:自主水下航行器
 
 used to refer to the whole quantity or extent of a particular group or thing:用于指特定组或事物的全部数量或范围
@@ -142,29 +142,29 @@ a written representation of a musical composition showing all the vocal and inst
 the music composed for a film or play:为电影或戏剧创作的音乐
 a notch or line cut or scratched into a surface:一个凹口或线切割或划伤表面
 a running account kept by marks against a customer's name, typically in a public house.:以顾客姓名为标志的流水帐，通常在公共场所。
-gain (a point, goal, run, etc.) in a competitive game:gain（得分、进球、跑动等）在竞技游戏中
+gain (a point, goal, run, etc.) in a competitive game:在竞技比赛中获得（得分、进球、跑动等）
 decide on the score to be awarded to (a competitor):决定授予（竞争对手）的分数
-be worth (a number of points):beworth（多分）
+be worth (a number of points):值得（若干分）
 decide on the scores to be awarded in (a match or competition):决定在（比赛或比赛）中获得的分数
 record the score during a game, act as scorer:记录比赛中的得分，充当得分手
 cause (a teammate) to score:使（队友）得分
-secure (a success or an advantage):secure（成功或优势）
-outdo or humiliate (someone) in an argument.:outdo或在争论中羞辱（某人）。
+secure (a success or an advantage):安全（成功或优势）
+outdo or humiliate (someone) in an argument.:在争论中超越或羞辱（某人）。
 buy or acquire (something, typically illegal drugs):buy或获取（某些东西，通常是非法药物）
 succeed in attracting a sexual partner for a casual encounter:成功地吸引了性伴侣进行偶然的邂逅
-orchestrate or arrange (a piece of music), typically for a specified instrument or instruments:orchestrate或编曲（一段音乐），通常用于指定的一种或多种乐器
+orchestrate or arrange (a piece of music), typically for a specified instrument or instruments:orchestrate or arrange (a piece of music)，通常为指定的乐器或乐器
 compose the music for (a film or play):为（电影或戏剧）创作音乐
 cut or scratch a notch or line on (a surface):在（表面）上切割或划痕或划线
-delete text by drawing a line through it.:delete通过画一条线来删除文本。
-record (a total owed) by making marks against a customer's name:record（欠款总额）通过在客户姓名上做标记
-examine (experimentally treated cells, bacterial colonies, etc.), making a record of the number showing a particular character:examine（经过实验处理的细胞、菌落等），记录显示特定字符的数字
+delete text by drawing a line through it.:通过在文本中画一条线来删除文本。
+record (a total owed) by making marks against a customer's name:通过在客户姓名上做标记来记录（总欠款）
+examine (experimentally treated cells, bacterial colonies, etc.), making a record of the number showing a particular character:检查（经过实验处理的细胞、细菌菌落等），记录显示特定特征的数字
 score |skɔː| Noun/Verb/:分数,得分,得分了,评分,比分
 the final score was 4–3 to Royston:最终比分是
 an IQ score of 161:一个IQ分数161
 ‘What's wrong Simon? What's the score?’:‘怎么了西蒙？
-she made her first score from a dealer in Times Square:she在时代广场的经销商处获得了她的第一个分数
+she made her first score from a dealer in Times Square:她在时代广场的经销商处获得了她的第一个分数
 robbers usually case a score a few times before they go in:robbers通常会在他们进去之前得分几次
-a score of men lost their lives in the battle:ascore男人在战斗中丧生
+a score of men lost their lives in the battle:数十人在战斗中丧生
 he sent scores of enthusiastic letters to friends:他给朋友发了几十封热情的信
 a film score:a电影配乐
 check the shaft for scratches and scores:检查杆身是否有划痕和划痕
@@ -175,11 +175,11 @@ the three judges each scored the bout 100–86 for the Panamanian:三位评委�
 the important thing is to score neatly:重要的是得分整齐
 Abe Herbst singled, scoring Norman and Lang:AbeHerbst单挑，得分Norman和Lang
 the band scored a hit single:乐队获得了一首热门单曲
-Sally had scored some acid:Sally得到了一些酸
+Sally had scored some acid:莎莉喝了点酸
 he thought he could score with women by telling crude jokes:他认为他可以通过讲粗俗的笑话来赢得女性的青睐
-the Quartet Suite was scored for flute, violin, viola da gamba, and continuo:theQuartetSuite为长笛、小提琴、violadagamba和continuo配乐
+the Quartet Suite was scored for flute, violin, viola da gamba, and continuo:四重奏组曲是为长笛、小提琴、中提琴和通奏低音谱写的
 he'd previously scored the first and fifth films:他曾为第一和第五部电影配乐
-score the card until you cut through:score卡片直到你切入
+score the card until you cut through:给卡片打分，直到你切穿
 a slate on which the old man scored up vast accounts:一张老头儿记下巨额账目的石板
 the aim should be to score between fifty and one hundred mitotic cells:目标应该是在50到100个有丝分裂细胞之间得分
 
@@ -210,14 +210,14 @@ score out | 得分,出成绩
 keep safe from harm or injury:保持安全免受伤害或伤害
 preserve or guarantee by means of formal or legal measures:通过正式或法律措施保留或保证
 aim to preserve (a threatened species or area) by legislating against hunting, collecting, or development:旨在通过立法禁止狩猎、采集或开发来保护（受威胁的物种或地区）
-shield (a domestic industry) from competition by imposing import duties on foreign goods:shield（国内产业）通过对外国商品征收进口关税来避免竞争
+shield (a domestic industry) from competition by imposing import duties on foreign goods:通过对外国商品征收进口税来保护（国内产业）免受竞争
 restrict access to or use of (data or a memory location):restrict访问或使用（数据或内存位置）
 protect |prəˈtɛkt| Verb/:保护,防护,保
 he tried to protect Kelly from the attack:他试图保护凯利免受攻击
 free speech is protected under Article 33 of the Constitution:言论自由受宪法第33条保护
 the first federal legislation protecting bison was enacted in 1894:第一个保护野牛的联邦立法于1894年颁布
 Japan's Ministry of Trade & Industry erected barriers to protect the country's infant computer industry:日本贸易和工业部设置壁垒保护该国的婴儿计算机产业
-security products are designed to protect information from unauthorized access:security产品旨在保护信息免遭未经授权的访问
+security products are designed to protect information from unauthorized access:安全产品旨在保护信息免遭未经授权的访问
 
 writing with a pen or pencil:用钢笔或铅笔书写
 a person's particular style of writing:一个人的特定写作风格
@@ -233,10 +233,10 @@ call something out loudly:大声喊出某事
 make a high-pitched whistling or buzzing sound:发出尖锐的哨声或嗡嗡声
 (of a person's ear) be affected with a continuous buzzing sound, especially as the after-effect of a blow or loud noise:（人的耳朵）受到持续的嗡嗡声的影响，特别是作为打击或巨响的后遗症
 act as an informer to the police:为警方提供线人
-recount or celebrate in poetry or other literature:recount或在诗歌或其他文学作品中庆祝
+recount or celebrate in poetry or other literature:在诗歌或其他文学作品中叙述或庆祝
 compose poetry:写诗
 sing |saŋ| Noun/Verb/:唱歌,唱,歌唱
-Bella sang to the baby:Bella给宝宝唱歌
+Bella sang to the baby:贝拉给宝宝唱歌
 I asked her to sing some carols:我请她唱几首颂歌
 we sing along to all the songs:我们跟着所有的歌一起唱
 he sang out a greeting:他唱了一句问候
@@ -253,18 +253,18 @@ sing along | 一起唱,跟着唱
 
 
 
-bring and hand over (a letter, parcel, or goods) to the proper recipient or address:bring并将（信件、包裹或货物）交给适当的收件人或地址
-provide (something promised or expected):provide（承诺或预期的东西）
+bring and hand over (a letter, parcel, or goods) to the proper recipient or address:将（信件、包裹或货物）交给适当的收件人或地址
+provide (something promised or expected):提供（承诺或期望的东西）
 formally hand over (someone):正式移交（某人）
-surrender someone or something:surrender某人或某事
+surrender someone or something:交出某人或某物
 acknowledge that one intends to be bound by (a deed), either explicitly by declaration or implicitly by formal handover.:确认一个人打算受（契约）的约束，无论是明确的声明还是隐含的正式移交。
-launch or aim (a blow, ball, or attack):launch或瞄准（打击、球或攻击）
-state in a formal manner:state以正式的方式
+launch or aim (a blow, ball, or attack):发射或瞄准（一击、球或攻击）
+state in a formal manner:以正式的方式陈述
 (of a judge or court) give (a judgement or verdict):（法官或法院）作出（判决或裁决）
 assist in the birth of:协助诞生
 give birth to:生下
 assist (a woman) in giving birth:协助（妇女）分娩
-save, rescue, or set someone or something free from:save、rescue或将某人或某物从
+save, rescue, or set someone or something free from:拯救、营救或使某人或某物摆脱
 deliver |dɪˈlɪvə| Verb/:递送,交付,送达
 the products should be delivered on time:产品应准时交货
 he had been able to deliver votes in huge numbers:他已经能够提供大量选票
@@ -275,7 +275,7 @@ he will deliver a lecture on endangered species:他将就濒危物种发表演�
 the court was due to deliver its verdict:法院应作出判决
 the village midwife delivered the baby:村助产士接生
 the number of women delivering their babies in hospitals increased:在医院分娩的妇女人数增加
-Her Royal Highness The Duchess of Cambridge was safely delivered of a son at 4.24 p.m.:HerRoyalHighness剑桥公爵夫人于下午4点24分安全产下一个儿子。
+Her Royal Highness The Duchess of Cambridge was safely delivered of a son at 4.24 p.m.:剑桥公爵夫人殿下于下午 4 点 24 分安全产下一个儿子。
 deliver us from the nightmare of junk mail:把我们从垃圾邮件的噩梦中拯救出来
 
 what is meant by a word, text, concept, or action:单词、文本、概念或动作的含义
@@ -298,7 +298,7 @@ the glass doors opened on to a balcony with a view of the park:玻璃门通向�
 the condition or period of an animal or plant spending the winter in a dormant state:动物或植物在休眠状态下过冬的状态或时期
 an extended period of remaining inactive or indoors:长时间不活动或在室内
 hibernation |ˌhʌɪbəˈneɪʃn| Noun/:,休眠状态
-grizzly bears gorge on seeds to prepare for hibernation:grizzly熊吃种子准备冬眠
+grizzly bears gorge on seeds to prepare for hibernation:灰熊狼吞虎咽种子为冬眠做准备
 the fair-weather cyclists are emerging from winter hibernation:天气晴朗的自行车手正在从冬眠中走出来
 
 a decorative container without handles, typically made of glass or china and used as an ornament or for displaying cut flowers.:一个没有把手的装饰容器，通常由玻璃或瓷器制成，用作装饰品或展示切花。
@@ -317,7 +317,7 @@ Citizens' Advice Bureau.:公民咨询局。
 Civil Aeronautics Board.:民用航空委员会。
 cab |kab| Noun/Residual/Verb/:出租车,驾驶室
 she hailed a cab:她叫了一辆出租车
-Roger cabbed home:Roger打车回家
+Roger cabbed home:罗杰打车回家
 
 a conclusion or resolution reached after consideration:经过考虑后达成的结论或决议
 the action or process of deciding something or of resolving a question:决定某事或解决问题的行动或过程
@@ -346,8 +346,8 @@ the social composition of villages:村庄的社会构成
 the composition of a new government was announced in November:11月宣布新政府的组成
 a theory is a composition of interrelated facts:a理论是相互关联的事实的组合
 persons who have a touch of madness in their composition:个人作品中带有一丝疯狂
-composition tiles:composition瓷砖
-composition of functions, when defined, is associative:compositionoffunctions,当定义时，是关联的
+composition tiles:组成瓷砖
+composition of functions, when defined, is associative:函数的组合在定义时是关联的
 the composition of forces:部队的组成
 Chopin's most romantic compositions:肖邦最浪漫的作品
 the technical aspects of composition:作曲的技术方面
@@ -355,7 +355,7 @@ we had a class composition, ‘My Best Friend’:我们有一个班级作文，�
 none of the other photographs shared this particular composition:没有其他照片共享这个特殊的构图
 an external contractor providing computerized composition and typesetting:一个提供电脑排版和排版的外部承包商
 he had been released by deed on making a composition with the creditors:他因与债权人达成和解而被释放
-Royalists redeemed their sequestrated estates by paying compositions:Royalists通过支付作品赎回了他们被扣押的财产
+Royalists redeemed their sequestrated estates by paying compositions:保皇党通过支付赎金赎回了他们扣押的财产
 
 a portable shelter made of cloth, supported by one or more poles and stretched tight by cords or loops attached to pegs driven into the ground.:一种由布制成的便携式避难所，由一根或多根杆支撑，并由连接在钉入地面的钉子上的绳索或环拉紧。
 cover with or as if with a tent:用或好像用帐篷覆盖
@@ -391,7 +391,7 @@ edition |ɪˈdɪʃn| Noun/:,修改
 a paperback edition:a平装版
 a first edition:a第一版
 the building was a simpler edition of its namesake:该建筑是其同名的一个更简单的版本
-variations occurred after some of the edition had already been published:variations发生在某些版本已经出版之后
+variations occurred after some of the edition had already been published:在某些版本已经发布之后发生了变化
 the Monday edition will be repeated on Wednesdays:周一版将在周三重复
 
 of or denoting the sex that can bear offspring or produce eggs, distinguished biologically by the production of gametes (ova) that can be fertilized by male gametes:of或表示可以生育后代或产卵的性别，在生物学上通过产生可以由雄性配子受精的配子（卵子）来区分
@@ -420,7 +420,7 @@ expert determination:专家判断
 genetic sex determination:基因性别决定
 
 being the same in quantity, size, degree, or value:数量、大小、程度或价值相同
-(of people) having the same status, rights, or opportunities:(ofpeople)拥有相同的地位、权利或机会
+(of people) having the same status, rights, or opportunities:（人的）具有相同地位、权利或机会的
 uniform in application or effect, without discrimination on any grounds:在应用或效果上一致，没有任何理由的歧视
 evenly or fairly balanced:均匀或相当平衡
 having the ability or resources to meet (a challenge):有能力或资源来迎接（挑战）
@@ -469,11 +469,11 @@ a climbing vine with berries that are dried as black or white peppercorns.:一�
 used in names of other plants which are related or similar to the pepper, e.g. Jamaica pepper, water pepper.:用于与辣椒相关或相似的其他植物的名称，例如：牙买加胡椒，水胡椒。
 a practice game in which a fielder throws at close range to a batter who hits back to the fielder:一场练习赛，守场员近距离投掷击球手，击球手回击守场员
 sprinkle or season (food) with pepper:撒上或用胡椒调味（食物）
-cover or fill with a liberal amount of scattered items:cover或填充大量零散的物品
+cover or fill with a liberal amount of scattered items:覆盖或填充大量分散的物品
 hit repeatedly with small missiles or gunshot:用小导弹或枪击反复击中
-inflict severe punishment or suffering upon:inflict严厉的惩罚或痛苦
+inflict severe punishment or suffering upon:给予严厉的惩罚或痛苦
 pepper |ˈpɛpə| Noun/Verb/:胡椒,胡椒粉,辣椒
-season to taste with salt and pepper:season用盐和胡椒调味
+season to taste with salt and pepper:用盐和胡椒调味
 he liked to play pepper:他喜欢玩辣椒
 I salted and peppered the beef before I browned it:我在牛肉变成褐色之前给它加了盐和胡椒粉
 the script is peppered with four-letter words:脚本中充满了四个字母的单词
@@ -485,7 +485,7 @@ a padded protective covering for the hand used in boxing, cricket, baseball, and
 (of a wicketkeeper, baseball catcher, etc.) catch, deflect, or touch (the ball) with a gloved hand:（守门员、棒球接球手等）戴手套的手接住、偏转或触碰（球）
 glove |ɡlʌv| Noun/Verb/:手套,手
 rubber gloves:橡胶手套
-Vaughan gloved it and got to his knees to throw:Vaughan戴上手套并跪下投掷
+Vaughan gloved it and got to his knees to throw:沃恩给它戴上手套，然后跪下来扔
 
 a book in which one keeps a daily record of events and experiences.:一本记录日常事件和经历的书。
 a book with spaces for each day of the year in which one notes appointments or information.:一本在一年中的每一天都有空格的书，其中记录了约会或信息。

@@ -42,7 +42,7 @@ author					作者，作家
 \\\\
 
 high renown or honour won by notable achievements:以显著成绩获得的高声望或荣誉
-magnificence or great beauty:magnificence或伟大的美丽
+magnificence or great beauty:壮丽或伟大的美丽
 a thing that is beautiful, impressive, or worthy of praise:一件美丽、令人印象深刻或值得称赞的事物
 the splendour and bliss of heaven:天堂的辉煌与幸福
 praise, worship, and thanksgiving offered to a deity.:献给神明的赞美、敬拜和感恩。
@@ -69,7 +69,7 @@ personal belongings:个人物品
 cause (something) to happen, bring about:导致（某事）发生，带来
 effect |ɪˈfɛkt| Noun/Verb/:影响,实现,效果,作用,效应
 the lethal effects of hard drugs:硬毒品的致命影响
-wind power can be used to great effect:windpower可以发挥很大的作用
+wind power can be used to great effect:风力可以发挥很大的作用
 the Renner effect:雷纳效应
 gentle music can have a soothing effect:温柔的音乐可以起到舒缓的作用
 the production relied too much on spectacular effects:制作过于依赖壮观的效果
@@ -100,7 +100,7 @@ he received the report by fax:他收到了传真报告
 the equipment consists of four word processors, a fax, and a photocopier:该设备由四台文字处理器、一台传真机和一台复印机组成
 please fax the agreement to me:请将协议传真给我
 to obtain a brochure fax the agent:获取小册子传真代理
-food fax:food传真
+food fax:食品传真
 
 the particular condition that someone or something is in at a specific time:某人或某物在特定时间所处的特定条件
 a physical condition as regards internal or molecular form or structure:关于内部或分子形式或结构的物理条件
@@ -110,7 +110,7 @@ a nation or territory considered as an organized political community under one g
 an organized political community or area forming part of a federal republic:构成联邦共和国一部分的有组织的政治社区或地区
 the civil government of a country:一个国家的公民政府
 the legislative body in Jersey, Guernsey, and Alderney.:泽西岛、根西岛和奥尔德尼岛的立法机构。
-pomp and ceremony associated with monarchy or high levels of government:pomp和与君主制或高层政府相关的仪式
+pomp and ceremony associated with monarchy or high levels of government:与君主制或高层政府相关的排场和仪式
 involving the ceremony associated with a head of state:涉及与国家元首相关的仪式
 a specified impression taken from an etched or engraved plate at a particular stage:在特定阶段取自蚀刻或雕刻板的指定印模
 a particular printed version of the first edition of a book:一本书第一版的特定印刷版本
@@ -129,7 +129,7 @@ he was buried in state:他被安葬在州
 the Queen paid a state visit to Malaysia:女王对马来西亚进行国事访问
 an oblong plate, dry point, first state of eight:一个长方形盘子，干点，八的第一状态
 there are four states of the first edition:第一版有四种状态
-judges must give both sides an equal opportunity to state their case:judges必须给双方平等的机会来陈述他们的情况
+judges must give both sides an equal opportunity to state their case:法官必须给予双方陈述案情的平等机会
 a bold theme is stated at the beginning, driving the entire ten-minute allegro:一个大胆的主题在开头陈述，带动了整个十分钟的快板
 
 the particular condition that someone or something is in at a specific time:某人或某物在特定时间所处的特定条件
@@ -140,7 +140,7 @@ a nation or territory considered as an organized political community under one g
 an organized political community or area forming part of a federal republic:构成联邦共和国一部分的有组织的政治社区或地区
 the civil government of a country:一个国家的公民政府
 the legislative body in Jersey, Guernsey, and Alderney.:泽西岛、根西岛和奥尔德尼岛的立法机构。
-pomp and ceremony associated with monarchy or high levels of government:pomp和与君主制或高层政府相关的仪式
+pomp and ceremony associated with monarchy or high levels of government:与君主制或高层政府相关的排场和仪式
 involving the ceremony associated with a head of state:涉及与国家元首相关的仪式
 a specified impression taken from an etched or engraved plate at a particular stage:在特定阶段取自蚀刻或雕刻板的指定印模
 a particular printed version of the first edition of a book:一本书第一版的特定印刷版本
@@ -159,7 +159,7 @@ he was buried in state:他被安葬在州
 the Queen paid a state visit to Malaysia:女王对马来西亚进行国事访问
 an oblong plate, dry point, first state of eight:一个长方形盘子，干点，八的第一状态
 there are four states of the first edition:第一版有四种状态
-judges must give both sides an equal opportunity to state their case:judges必须给双方平等的机会来陈述他们的情况
+judges must give both sides an equal opportunity to state their case:法官必须给予双方陈述案情的平等机会
 a bold theme is stated at the beginning, driving the entire ten-minute allegro:一个大胆的主题在开头陈述，带动了整个十分钟的快板
 
 in a state | 处于一种状态,在一个状态
@@ -174,7 +174,7 @@ kind and pleasant:亲切和愉快
 not seriously or unpleasantly competitive or divisive:不认真或不愉快的竞争或分裂
 (of a game or match) not forming part of a serious competition.:（比赛或比赛）不构成严肃比赛的一部分。
 denoting something that is adapted for or is not harmful to a specified thing:表示适用于特定事物或对特定事物无害的事物
-favourable or serviceable:favourable或serviceable
+favourable or serviceable:有利的或有用的
 (of troops or equipment) of, belonging to, or allied with one's own forces:（部队或装备）属于、属于或与自己的部队结盟
 a game or match that does not form part of a serious competition:不属于严肃比赛的游戏或比赛
 friendly |ˈfrɛn(d)li| Adjective/Noun/:友好,友好的,友谊赛,友善
@@ -185,27 +185,27 @@ friendly rivalry between the two schools:两校之间的友好竞争
 an environment-friendly agronomic practice:一种环保的农艺实践
 no one noticed her as she slipped out—it was a friendly night:当她溜出去时没人注意到她——这是一个友好的夜晚
 the risk of blowing up friendly forces is minimized:炸毁友军的风险最小化
-England will play two friendlies in Sardinia:England将在撒丁岛进行两场友谊赛
+England will play two friendlies in Sardinia:英格兰将在撒丁岛进行两场友谊赛
 
 in the direction that one is facing or travelling, towards the front:在一个人面对或行进的方向上，朝向前面
 in or towards the bow or nose of a ship or aircraft.:in或朝向船或飞机的船头或船头。
 in the normal order or sequence:按正常顺序或顺序
-onward so as to make progress:onward以便进步
+onward so as to make progress:前进才能进步
 into a position of prominence or notice:进入显眼或引人注目的位置
 towards the future, ahead in time:面向未来，及时赶超
 to an earlier time:到更早的时间
-directed or facing towards the front or the direction that one is facing or travelling:directed或面向前方或一个人面对或行进的方向
+directed or facing towards the front or the direction that one is facing or travelling:指向或面向前方或一个人面对或行进的方向
 positioned near the enemy lines:位于敌军附近
 situated in or towards the bow or nose of a ship or aircraft:位于或靠近船舶或飞机的船头或船头
 (of a voltage applied to a semiconductor junction) in the direction which allows significant current to flow.:（施加到半导体结的电压）在允许大量电流流动的方向上。
 relating to the future:与未来有关
-progressing towards a successful conclusion:progressing迈向成功的结局
+progressing towards a successful conclusion:朝着圆满的结局前进
 further advanced than expected or required:比预期或要求更先进
 (of a person) bold or overfamiliar in manner:（某人的）举止粗暴或过分熟悉
 an attacking player in football, hockey, or other sports.:足球、曲棍球或其他运动的进攻球员。
 agreements to trade specified assets, typically currency, at a specified price at a certain future date.:协议在未来某个日期以指定价格交易指定资产，通常是货币。
 send (a letter or email) on to a further destination:发送（一封信或电子邮件）到另一个目的地
-dispatch or send (a document or goods):dispatch或发送（文件或货物）
+dispatch or send (a document or goods):发送或发送（文件或货物）
 help to advance (something), promote:help推进（某事），促进
 forward |ˈfɔːwəd| Adjective/Adverb/Noun/Verb/:向前,前部的,寄送,前锋,前进
 he started up the engine and the car moved forward:他发动引擎，汽车向前行驶
@@ -215,7 +215,7 @@ he is pushing forward a political ally:他正在推动一个政治盟友
 looking forward, earnings are expected to hit £7.2 billion:期待，收入预计将达到72亿英镑
 the special issue has been moved forward to November:特刊已移至11月
 forward flight:前向飞行
-troops moved to the forward areas:troops移动到前沿地区
+troops moved to the forward areas:部队转移到前沿地区
 the forward cargo doors:前货舱门
 a twelve-month forward forecast:12个月的远期预测
 the decision is a forward step:这个决定是向前迈出的一步
@@ -234,9 +234,9 @@ a short conversation or an argument:简短的谈话或争论
 a move or short sequence of moves in which both players capture material of comparable value, or particularly the exchange in which one captures a rook in return for a knight or bishop.:一个动作或短序列的动作，双方玩家都获得具有可比价值的材料，或者特别是一个人捕获车以换取骑士或主教的交换。
 give something and receive something of the same kind in return:给予一些东西并得到同样的东西作为回报
 give or receive one thing in place of another:给予或接受一件事代替另一件事
-exchange contracts.:exchange合约。
+exchange contracts.:交换合同。
 exchange |ɪksˈtʃeɪn(d)ʒ| Noun/Verb/:交换,交流,交易所
-negotiations should lead to an exchange of land for peace:negotiations应该导致以土地换和平
+negotiations should lead to an exchange of land for peace:谈判应以土地换和平
 they provided me with currency exchange at competitive rates:他们以有竞争力的价格为我提供货币兑换服务
 the old Corn Exchange:老玉米交易所
 there was a heated exchange:有一场激烈的交流
@@ -289,11 +289,11 @@ fasten (something) to or round someone or something by means of its strings or b
 form (a string, ribbon, or lace) into a knot or bow:将（绳子、丝带或花边）打成结或蝴蝶结
 form (a knot or bow) in a ribbon, lace, etc.:在丝带、花边等中形成（结或蝴蝶结）。
 be fastened with a knot or bow:用结或蝴蝶结固定
-restrict or limit (someone) to a particular situation or place:restrict或限制（某人）特定情况或地点
-connect, link:connect，链接
+restrict or limit (someone) to a particular situation or place:限制或限制（某人）到特定情况或地点
+connect, link:连接、链接
 hold together by a crosspiece or tie:用横梁或领带固定在一起
-unite (written notes) by a tie.:unite（书面笔记）以平局为准。
-perform (two notes) as one unbroken note.:perform（两个音符）作为一个完整的音符。
+unite (written notes) by a tie.:通过领带团结（书面笔记）。
+perform (two notes) as one unbroken note.:演奏（两个音符）作为一个完整的音符。
 achieve the same score or ranking as another competitor or team:获得与其他竞争对手或团队相同的分数或排名
 a piece of string, cord, or similar used for fastening or tying something:一根绳子、绳子或类似的东西，用于固定或系紧某物
 a shoe tied with a lace.:一只用花边系的鞋。
@@ -308,19 +308,19 @@ a sports match between two or more players or teams in which the winners proceed
 tie |tʌɪ| Noun/Verb/:领带,捆绑,扎,系
 they tied Max to a chair:他们把麦克斯绑在椅子上
 Lewis tied on his apron:刘易斯系在他的围裙上
-Renwick bent to tie his shoelace:Renwick弯腰系鞋带
+Renwick bent to tie his shoelace:伦威克弯腰系鞋带
 tie a knot in one end of the cotton:在棉花的一端打个结
 a sarong which ties at the waist:一条系在腰间的围裙
 she didn't want to be like her mother, tied to a feckless man:她不想像她妈妈一样，被一个无能的男人绑着
-more firms are realizing that their fate is tied to the community in which they operate:more公司意识到他们的命运与他们经营所在的社区息息相关
-ceiling joists are used to tie the rafter feet:ceiling托梁用于系椽脚
+more firms are realizing that their fate is tied to the community in which they operate:越来越多的公司意识到他们的命运与他们经营所在的社区息息相关
+ceiling joists are used to tie the rafter feet:天花板托梁用于系椽脚
 Norman needed a par to tie with Nicklaus:Norman需要一个标准杆才能与尼克劳斯并列
 he tightened the tie of his robe:他收紧了袍子的领带
 it is important that we keep family ties strong:重要的是我们保持牢固的家庭关系
 some cities and merchants were freed from feudal ties:一些城市和商人摆脱了封建束缚
 his hand went up to his collar and started to loosen his tie:他的手伸到衣领上，开始解领带
 there was a tie for first place:第一名并列
-Swindon Town have won themselves a third round tie against Oldham:SwindonTown在第三轮对阵奥尔德姆的比赛中获胜
+Swindon Town have won themselves a third round tie against Oldham:斯温顿镇在第三轮对阵奥尔德姆的比赛中获胜
 
 wear a tie | 打领带,系领带
 
@@ -364,7 +364,7 @@ very bad:非常糟糕
 (of a person) having a great need or desire for something:（某人）对某事有很大的需要或渴望
 desperate |ˈdɛsp(ə)rət| Adjective/:绝望的,绝望
 a desperate sadness enveloped Ruth:一种绝望的悲伤笼罩着露丝
-drugs used in a desperate attempt to save his life:drugs用于拼命挽救他的生命
+drugs used in a desperate attempt to save his life:为了挽救他的生命而拼命使用的药物
 there is a desperate shortage of teachers:教师极度短缺
 a desperate criminal:一个绝望的罪犯
 that beer's desperate—it's a wonder you've the nerve to offer it for sale:那瓶啤酒很绝望——你居然有胆量出售它真是个奇迹
@@ -379,7 +379,7 @@ a fillet steak:一块菲力牛排
 braising steak:炖牛排
 
 relating to Great Britain or the United Kingdom, or to its people or language:与大不列颠或联合王国或其人民或语言有关
-of the British Commonwealth or (formerly) the British Empire.:oftheBritishCommonwealth或（以前的）大英帝国。
+of the British Commonwealth or (formerly) the British Empire.:属于英联邦或（以前）大英帝国。
 the British people.:英国人民。
 British |ˈbrɪtɪʃ| Adjective/Noun/:英国,英国人
 the British government:英国政府
@@ -399,20 +399,20 @@ a bad sailor | 坏水手,一个糟糕的水手
 
 have (something) on one's body as clothing, decoration, or protection:身上有（某物）作为衣服、装饰或保护
 habitually have on one's body or be dressed in:习惯性穿在身上或穿着
-exhibit or present (a particular facial expression or appearance):exhibitorpresent（特定的面部表情或外观）
+exhibit or present (a particular facial expression or appearance):展示或展示（特定的面部表情或外表）
 have (one's hair or beard) at a specified length or arranged in a specified style:有（头发或胡须）按规定长度或按规定样式排列
 (of a ship) fly (a flag):（船的）fly（旗帜）
 damage, erode, or destroy by friction or use:因摩擦或使用造成的损坏、侵蚀或破坏
 undergo damage, erosion, or destruction as a result of friction or use:因摩擦或使用而遭受损坏、侵蚀或破坏
 form (a hole, path, etc.) by constant friction or use:通过不断的摩擦或使用形成（孔、路径等）
 withstand continued use or life in a specified way:承受以指定方式继续使用或寿命
-pass (a period of time) in some activity:pass（一段时间）在某项活动中
-tolerate, accept:tolerate，接受
+pass (a period of time) in some activity:通过（一段时间）某项活动
+tolerate, accept:容忍，接受
 clothing suitable for a particular purpose or of a particular type:适合特定用途或特定类型的服装
 the wearing of something or the state of being worn as clothing:某物的穿着或作为衣服穿着的状态
 damage or deterioration sustained from continuous use:持续使用造成的损坏或恶化
 the capacity for withstanding continuous use without damage or deterioration:承受连续使用而不损坏或变质的能力
-bring (a ship) about by turning its head away from the wind:bring(aship)转头远离风
+bring (a ship) about by turning its head away from the wind:将（船）的头转离风而使它航行
 wear |wɔː| Noun/Verb/:穿,服饰,戴,磨损
 he was wearing a dark suit:他穿着深色西装
 although she was a widow, she didn't wear black:虽然是寡妇，但她不穿黑色
@@ -420,7 +420,7 @@ they wear a frozen smile on their faces:他们脸上挂着冰冷的笑容
 the students wore their hair long:学生留长发
 any British registered boat may wear the red ensign:任何在英国注册的船都可以佩戴红旗
 the track has been worn down in part to bare rock:赛道已经部分磨损到光秃秃的岩石上
-mountains are wearing down with each passing second:mountains每一秒都在磨损
+mountains are wearing down with each passing second:群山在消磨每一秒
 the water was forced up through holes it had worn:水被迫通过它磨损的孔
 the leather has worn well:皮革磨损良好
 spinning long stories, wearing half the day:纺长故事，穿半天
@@ -429,7 +429,7 @@ evening wear:晚装
 some new tops for wear in the evening:一些晚上穿的新上衣
 you need to make a deduction for wear and tear on all your belongings:你需要扣除所有物品的磨损
 the suit has about another 10 years of normal wear left in it:这套西装还有大约10年的正常磨损
-Shannon gives the order to wear ship:Shannon下令穿船
+Shannon gives the order to wear ship:香农下令穿船
 
 wear smooth | 穿着光滑,穿起来光滑
 
@@ -477,7 +477,7 @@ after her presentation to Queen Victoria, he had escorted his sister to numerous
 the Earl of Pembroke offered Herbert the presentation of the living of Bremerton:彭布罗克伯爵向赫伯特介绍了布雷默顿的生活
 a breech presentation:a臀位演示
 all patients in this group were symptomatic at initial presentation:该组中的所有患者在初次就诊时都有症状
-depression frequently forms part of the clinical presentation of dementia:depression经常构成痴呆临床表现的一部分
+depression frequently forms part of the clinical presentation of dementia:抑郁症经常构成痴呆症临床表现的一部分
 
 on presentation of your passport | 出示护照时,出示您的护照
 
@@ -498,8 +498,8 @@ Conservative with liberal tendencies, especially as regarded by right-wing Conse
 cover or touch with liquid, moisten:用液体覆盖或接触，弄湿
 (especially of a baby or young child) urinate in or on:（尤其是婴儿或幼儿）在里面或上面小便
 urinate involuntarily:小便不由自主
-infuse (tea) by pouring on boiling water:infuse（茶）倒在沸水中
-liquid that makes something damp:liquid使某些东西变得潮湿
+infuse (tea) by pouring on boiling water:将（茶）倒在开水上冲泡
+liquid that makes something damp:使东西变湿的液体
 rainy weather:阴雨天气
 a drink:一杯饮料
 a person lacking forcefulness or strength of character:一个缺乏坚强或性格力量的人
@@ -521,16 +521,16 @@ I could feel the wet of his tears:我能感觉到他泪水的湿润
 the race was held in the wet:比赛在潮湿的环境中举行
 I took a wet from my bottle:我从瓶子里弄湿了
 there are sorts who look like gangsters and sorts who look like wets:有些人看起来像黑帮，有些人看起来像湿婆
-the wets favoured a change in economic policy:thewets赞成改变经济政策
+the wets favoured a change in economic policy:投资者有利于改变经济政策
 
 keep away from or stop oneself from doing (something):远离或阻止自己做（某事）
-contrive not to meet (someone):contrive不见面（某人）
-not go to or through (a place):notgotoorthrough(aplace)
+contrive not to meet (someone):设法不去见（某人）
+not go to or through (a place):不去或经过（一个地方）
 prevent from happening:防止发生
-repudiate, nullify, or render void (a decree or contract):repudiate、无效或无效（法令或合同）
+repudiate, nullify, or render void (a decree or contract):否认、废除或使无效（法令或合同）
 avoid |əˈvɔɪd| Verb/:避免,忌,回避
 avoid excessive exposure to the sun:避免过度暴露在阳光下
-boys queued up to take Gloria out, but avoided Deirdre:boys排队带Gloria出去，但避开了Deirdre
+boys queued up to take Gloria out, but avoided Deirdre:男孩们排队等着带格洛丽亚出去，但避开了迪尔德丽
 this route avoids downtown Boston:这条路线避开波士顿市中心
 book early to avoid disappointment:提前预订以避免失望
 if the original owner had avoided his contract with the rogue, ownership of the goods would have reverted to him:如果原主人解除了与流氓的合同，货物的所有权将归还给他
@@ -576,5 +576,5 @@ author |ˈɔːθə| Noun/Verb/:作者,笔者,作家
 he is the author of several books on the subject:他是几本关于该主题的书籍的作者
 I had to read authors I disliked:我不得不阅读我不喜欢的作者
 the authors of the peace plan:和平计划的作者
-she has authored several articles on wildlife:she撰写了几篇关于野生动物的文章
+she has authored several articles on wildlife:她撰写了几篇关于野生动物的文章
 the concept has been authored largely by insurance companies:该概念主要由保险公司提出

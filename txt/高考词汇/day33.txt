@@ -130,8 +130,8 @@ valuables | 贵重物品,贵重东西
 cause or allow (something, especially food or drink) to pass down the throat:导致或允许（某物，尤其是食物或饮料）通过喉咙
 perform the muscular movement of the oesophagus required to do this, especially through fear or nervousness:执行此操作所需的食道肌肉运动，尤其是在恐惧或紧张时
 put up with or meekly accept (something unwelcome):忍受或温顺地接受（不受欢迎的事情）
-believe unquestioningly (a lie or unlikely assertion):believe毫无疑问（谎言或不太可能的断言）
-resist expressing (a feeling) or uttering (words):resist表达（一种感觉）或说出（文字）
+believe unquestioningly (a lie or unlikely assertion):毫无疑问地相信（谎言或不太可能的断言）
+resist expressing (a feeling) or uttering (words):拒绝表达（一种感觉）或说出（话语）
 take in and cause to disappear, engulf:吸收并导致消失，吞没
 completely use up (money or resources):完全用尽（金钱或资源）
 an act of swallowing something, especially food or drink:吞咽某物的行为，尤其是食物或饮料
@@ -144,7 +144,7 @@ he seemed ready to swallow any insult:他似乎准备好接受任何侮辱
 she had swallowed his story hook, line, and sinker:她吞下了他的故事钩、线和坠子
 he swallowed his pride:他吞下了他的骄傲
 the dark mist swallowed her up:黑雾吞噬了她
-debts swallowed up most of the money he had got for the house:debts吞噬了他买房子的大部分钱
+debts swallowed up most of the money he had got for the house:债务吞噬了他买房子的大部分钱
 he downed his drink in one swallow:他一口气喝光了酒
 
 of a colour intermediate between green and violet, as of the sky or sea on a sunny day:介于绿色和紫色之间的颜色，如晴天的天空或大海
@@ -168,22 +168,22 @@ a mistake:一个错误
 a nickname for a red-headed person:红发人的昵称
 a supporter of the Conservative Party.:保守党的支持者。
 make or become blue:使或变成蓝色
-heat (metal) so as to give it a greyish-blue finish:heat（金属），使其呈现灰蓝色饰面
-wash (white clothes) with bluing:wash（白色衣服）带蓝色
+heat (metal) so as to give it a greyish-blue finish:加热（金属）使其呈现灰蓝色
+wash (white clothes) with bluing:蓝洗（白色衣服）
 squander or recklessly spend (money):挥霍或肆无忌惮地花钱（钱）
 blue |bluː| Adjective/Noun/Verb/:蓝色的,蓝色,蓝
 the clear blue sky:晴朗的蓝天
-Ashley went blue and I panicked:Ashley变蓝了，我惊慌失措
+Ashley went blue and I panicked:阿什莉脸色发青，我惊慌失措
 a blue jay:一只蓝鸟
 the blue fox:蓝狐
 he's feeling blue:他感觉很沮丧
 a blue movie:一部蓝色电影
 the successful blue candidate:成功的蓝色候选人
 she was dressed in blue:她穿着蓝色
-Susan wore blue:Susan穿蓝色
+Susan wore blue:苏珊穿蓝色
 far out upon the blue were many sails:遥远的蓝色有许多帆
 a flyweight boxing blue:a蝇量级拳击蓝色
-Adrian's brother won a rugby blue in December:Adrian的兄弟在12月赢得了橄榄球蓝
+Adrian's brother won a rugby blue in December:阿德里安的兄弟在 12 月赢得了橄榄球蓝
 did you have a blue or what?:你有蓝色还是什么？
 his tactical blue in saying the opposition wasn't ready to govern:他的战术蓝调说反对派还没有准备好执政
 only an Aussie could make a red-headed man ‘Blue.’:只有澳大利亚人才能把红发男人变成“蓝色”。
@@ -216,10 +216,10 @@ wax |waks| Noun/Verb/:,蜡质
 he didn't get on wax until 1959:他直到1959年才开始上蜡
 I washed and waxed the floor:我洗地板打蜡了
 she waxed her legs when necessary:她在必要时给她的腿打蜡
-he waxed a series of tracks that emphasized his lead guitar work:he为一系列强调他的主音吉他作品的曲目打蜡
+he waxed a series of tracks that emphasized his lead guitar work:他为一系列强调他的主音吉他作品的曲目打蜡
 his anger waxed:他怒火中烧
 they waxed lyrical about the old days:他们对过去充满抒情
-she is in a wax about the delay to the wedding:she对推迟到婚礼感到困惑
+she is in a wax about the delay to the wedding:她对推迟到婚礼感到困惑
 
 to wax and wane | 兴衰,起起伏伏
 
@@ -285,7 +285,7 @@ sometimes I want to do things on my own:有时我想自己做事
 soft, sticky matter resulting from the mixing of earth and water:土和水混合产生的柔软、粘性物质
 information or allegations regarded as damaging or scandalous:被认为具有破坏性或丑闻的信息或指控
 mud |mʌd| Noun/:,泥浆
-ankle deep in mud, we squelched across a meadow:ankle在泥泞中，我们在草地上挤来挤去
+ankle deep in mud, we squelched across a meadow:脚踝深陷泥泞，我们挤过一片草地
 the two sides took over the local media to throw mud at each other:双方接手当地媒体互相泼脏水
 
 as clear as mud | 清如泥,像泥一样清澈
@@ -352,7 +352,7 @@ the half of the field (as divided lengthways through the pitch) away from which 
 a deferential gesture made by drawing back one leg and bending it while keeping the front leg straight.:一种恭敬的姿态，将一条腿向后拉并弯曲，同时保持前腿伸直。
 travel by foot, walk:步行、步行
 run away:逃跑
-propel (a boat) through a tunnel on a canal by pushing with one's legs against the tunnel roof or sides:propel（一艘船）通过运河上的隧道，用双腿推动隧道的屋顶或侧面
+propel (a boat) through a tunnel on a canal by pushing with one's legs against the tunnel roof or sides:用双腿顶着隧道顶部或侧面推动（船）穿过运河上的隧道
 leg |lɛɡ| Noun/Verb/:腿,腿部
 Adams broke his leg:亚当斯摔断了腿
 a roast leg of lamb:烤羊腿
@@ -396,10 +396,10 @@ a smooth ring-shaped groove or guide in which a ball bearing or roller bearing r
 a fenced passageway in a stockyard through which animals pass singly for branding, loading, washing, etc.:牲畜场中的围栏通道，动物单独通过该通道进行标记、装载、清洗等。
 (in weaving) the channel along which the shuttle moves.:（编织中）梭子移动的通道。
 compete with another or others to see who is fastest at covering a set course or achieving an objective:与其他人或其他人竞争，看看谁在完成既定课程或实现目标方面最快
-compete regularly in races as a sport or leisure activity:compete定期参加比赛作为一项运动或休闲活动
-prepare and enter (an animal or vehicle) for races:prepare并进入（动物或车辆）参加比赛
+compete regularly in races as a sport or leisure activity:定期参加比赛作为一项运动或休闲活动
+prepare and enter (an animal or vehicle) for races:准备并进入（动物或车辆）比赛
 move or progress swiftly or at full speed:移动或快速或全速前进
-operate or cause to operate at excessive speed:operate或导致运行速度过快
+operate or cause to operate at excessive speed:超速运行或导致超速运行
 (of a person's heart or pulse) beat faster than usual because of fear or excitement.:（一个人的心脏或脉搏）因为害怕或兴奋而比平时跳得更快。
 each of the major groupings into which humankind is considered (in various theories or contexts) to be divided on the basis of physical characteristics or shared ancestry:人类被认为（在各种理论或背景下）根据身体特征或共同祖先划分的每个主要群体
 the fact or condition of belonging to a racial division or group, or the qualities or characteristics associated with this:属于种族分裂或群体的事实或状况，或与此相关的品质或特征
@@ -411,7 +411,7 @@ a group of people descended from a common ancestor:一群人的共同祖先
 ancestry:祖先
 a ginger root.:一个姜根。
 race |reɪs| Noun/Verb/:种族,比赛
-Hamilton started from pole position and won the race:Hamilton从杆位发车并赢得比赛
+Hamilton started from pole position and won the race:汉密尔顿从杆位发车并赢得比赛
 the race for nuclear power:核电竞赛
 the industrious sun already half his race hath run:勤劳的太阳已经跑了一半
 angling for tuna in turbulent tidal races:在汹涌的潮汐比赛中钓金枪鱼
@@ -439,19 +439,19 @@ stop moving or operating:停止移动或操作
 (of a bus or train) call at a designated place to pick up or set down passengers:（公共汽车或火车的）在指定地点呼叫上落客
 stay somewhere for a short time:在某处短暂停留
 cause (an action, process, or event) to come to an end:导致（动作、过程或事件）结束
-prevent (an action or event) from happening:prevent（动作或事件）发生
+prevent (an action or event) from happening:防止（动作或事件）发生
 prevent or dissuade (someone) from continuing in an activity or achieving an aim:防止或劝阻（某人）继续从事某项活动或实现某个目标
 prevent (someone or something) from performing a specified action or undergoing a specified experience:防止（某人或某物）执行指定的动作或经历指定的经历
 cause or order to cease moving or operating:导致或命令停止移动或操作
 be hit by (a bullet).:被（子弹）击中。
 instruct a bank to withhold payment on (a cheque):指示银行在（支票）上扣留付款
 refuse to supply as usual, withhold or deduct:拒绝照常供应，扣留或扣减
-defeat (an opponent) by a knockout:defeat（对手）被淘汰赛
-pinch back (a plant).:pinchback（植物）。
-block or close up (a hole or leak):block或closeup（一个洞或泄漏）
+defeat (an opponent) by a knockout:击倒（对手）
+pinch back (a plant).:捏回（一株植物）。
+block or close up (a hole or leak):堵塞或关闭（一个洞或泄漏）
 put a filling in (a tooth).:把一个填充物（一颗牙齿）。
 block the mouth of (a fox's earth) prior to a hunt.:在狩猎前堵住（狐狸的土）口。
-plug the upper end of (an organ pipe), giving a note an octave lower.:plug（风琴管）的上端，使音符降低八度。
+plug the upper end of (an organ pipe), giving a note an octave lower.:塞住（风琴管）的上端，使音符降低一个八度。
 obtain the required pitch from (the string of a violin or similar instrument) by pressing at the appropriate point with the finger.:用手指在适当的点按（小提琴或类似乐器的弦）获得所需的音高。
 make (a rope) fast with a stopper.:用塞子使（绳子）快速。
 be or behave in a particular way:be或以特定方式行事
@@ -476,7 +476,7 @@ she stopped giggling:她不再咯咯地笑
 I've stopped eating meat:我已经不吃肉了
 he stopped to look at the view:他停下来看风景
 main-line trains stop at platform 7:干线列车停靠7号站台
-you'll have to stop the night:you'llhavetostopthenight
+you'll have to stop the night:你得停下来过夜
 this harassment has got to be stopped:这种骚扰必须停止
 a security guard was killed trying to stop a raid:一名保安在试图阻止突袭时被杀
 a campaign is under way to stop the bombers:一场阻止轰炸机的运动正在进行中
@@ -494,7 +494,7 @@ the bus was pulling up at her stop:公共汽车停在她的车站
 the shelves have special stops to prevent them from being pulled out too far:货架有特殊的挡块，以防止它们被拉得太远
 MEET YOU AT THE AIRPORT STOP:在机场站遇见你
 a bilabial stop:双唇停止
-if West bids 3♥ now, this will show a heart stop:如果West现在出价3♥，这将表明心跳停止
+if West bids 3♥ now, this will show a heart stop:如果韦斯特现在出价 3♥，这将显示心脏停止
 
 a filling for a tooth.:a补牙。
 stopping |ˈstɒpɪŋ| Noun/:停止,停下来
@@ -524,13 +524,13 @@ separate something from something else with or as if with a screen:用或好像�
 protect (someone) from something dangerous or unpleasant:保护（某人）免受危险或不愉快的事情的影响
 prevent from causing or protect from electromagnetic interference:防止引起或防止电磁干扰
 (in basketball, American football, and ice hockey) obstruct or block (an opponent or their view of play).:（在篮球、美式足球和冰球中）阻碍或阻挡（对手或他们的比赛视野）。
-show (a film or video) or broadcast (a television programme):show（电影或视频）或广播（电视节目）
+show (a film or video) or broadcast (a television programme):放映（电影或视频）或广播（电视节目）
 test (a person or substance) for the presence or absence of a disease:测试（人或物质）是否存在疾病
 check on or investigate (someone), typically to ascertain whether they are suitable for or can be trusted in a particular situation or job:检查或调查（某人），通常是为了确定他们是否适合或在特定情况或工作中是否值得信任
 evaluate or analyse (something) for its suitability for a particular purpose or application:评估或分析（某事）是否适合特定目的或应用
 exclude someone or something after evaluation or investigation:在评估或调查后排除某人或某事
 pass (a substance such as grain or coal) through a large sieve or screen, especially so as to sort it into different sizes:通过一个大筛子或筛子（例如谷物或煤等物质），特别是为了将它分类成不同的大小
-project (a photograph or other image) through a transparent ruled plate so as to be able to reproduce it as a half-tone.:project（照片或其他图像）通过透明直纹板，以便能够将其复制为半色调。
+project (a photograph or other image) through a transparent ruled plate so as to be able to reproduce it as a half-tone.:通过透明直纹板投影（照片或其他图像），以便能够将其复制为半色调。
 screen |skriːn| Noun/Verb/:屏幕,筛查,屏,画面
 he remained hidden behind the screen for prosecution witnesses:他一直隐藏在控方证人的屏幕后面
 his jeep was discreetly parked behind a screen of trees:他的吉普车被小心地停在树屏后面
@@ -539,7 +539,7 @@ a branch whipped across the screen and tore off one of the wipers:一根树枝�
 gauze screens fitted to the doors and windows were tightly closed:安装在门窗上的纱窗紧闭
 a television screen:a电视屏幕
 two historical swashbucklers are due to fill cinema screens this year:两个历史上的霸道总裁今年将出现在电影院银幕上
-she's a star of the track as well as the screen:she是赛道和银幕的明星
+she's a star of the track as well as the screen:她是赛道和银幕的明星
 pressing the F1 key at any time will display a help screen:随时按F1键会显示帮助画面
 services offered by the centre include a health screen for people who have just joined the company:该中心提供的服务包括为刚加入公司的人进行健康筛查
 HMS Prince Leopold and HMS Prince Charles sailed for Shetland with a screen of four destroyers:HMS利奥波德王子号和查尔斯王子号带着四艘驱逐舰的屏幕驶向设得兰群岛
@@ -552,7 +552,7 @@ the show is to be screened by the BBC later this year:该节目将于今年晚�
 outpatients were screened for cervical cancer:门诊病人接受宫颈癌筛查
 all prospective presidential candidates would have to be screened by a preselection committee:所有潜在的总统候选人都必须经过预选委员会的筛选
 only one per cent of rainforest plants have been screened for medical use:只有百分之一的雨林植物被筛选用于医疗用途
-anti-spam software can screen out large amounts of unwanted email:anti-spam软件可以屏蔽大量垃圾邮件
+anti-spam software can screen out large amounts of unwanted email:反垃圾邮件软件可以筛选出大量不需要的电子邮件
 granulated asphalt—manufactured to 40 mm down or screened to 28 mm & 14 mm down:粒状沥青——制造至40毫米以下或筛分至28毫米和14毫米以下
 
 screen out | 筛选出,屏蔽掉,筛选
@@ -592,8 +592,8 @@ lacking emotion, dull and lifeless:缺乏情感，沉闷无生气
 (of a fee, wage, or price) the same in all cases, not varying with changed conditions or in particular cases:（费用、工资或价格）在所有情况下都相同，不会随着条件的变化或特定情况而变化
 (of a denial, contradiction, or refusal) completely definite and firm, absolute:（否认、矛盾或拒绝）完全确定和坚定的，绝对的
 (of musical sound) below true or normal pitch.:（音乐的声音）低于真实或正常音高。
-(of a key) having a flat or flats in the signature.:(ofakey)在签名中有一个或多个单位。
-(of a note) a semitone lower than a specified note:(ofanote)比指定音符低半音
+(of a key) having a flat or flats in the signature.:（钥匙的）签名中有一个或多个单位。
+(of a note) a semitone lower than a specified note:（音符的）比指定音符低半音
 relating to flat racing:关于平地赛车
 in or to a horizontal position:in或到水平位置
 lying in close juxtaposition, especially against another surface:躺得很近，尤其是靠在另一个表面上
@@ -608,11 +608,11 @@ a shoe with a very low heel or no heel:一只鞋跟很低或没有后跟的鞋
 a railway wagon with a flat floor and no sides or roof, a flatcar.:一辆平地无边无顶的铁路货车，一辆平车。
 an upright section of stage scenery mounted on a movable frame.:一个安装在可移动框架上的舞台布景的直立部分。
 a flat tyre:a瘪胎
-flat racing.:flat赛车。
+flat racing.:平地赛车。
 a musical note lowered a semitone below natural pitch.:a音符将自然音高降低了半音。
 the sign ♭, indicating a flat.:符号♭，表示平坦。
-lower (a note) by a semitone:lower（一个音符）半音
-make flat, flatten:makeflat,flatten
+lower (a note) by a semitone:降低（一个音符）一个半音
+make flat, flatten:弄平，弄平
 a set of rooms forming an individual residence, typically on one floor and within a larger building containing a number of such residences.:一组房间形成一个单独的住宅，通常在一个楼层和包含许多此类住宅的较大建筑物内。
 live in or share a flat:住在或合租公寓
 flat |flat| Adjective/Adverb/Noun/Verb/:平坦的,公寓,平躺地,住公寓,平面
@@ -701,12 +701,12 @@ produce (text or a picture) by a printing process:通过印刷工艺制作（文
 (of a newspaper or magazine) publish (a piece of writing) within its pages:（报纸或杂志的）在其页面内发表（一篇文章）
 (of a publisher or printer) arrange for (a book, manuscript, etc.) to be reproduced in large quantities:（出版商或印刷商的）安排（书籍、手稿等）大量复制
 produce a paper copy of (information stored on a computer):制作一份（存储在计算机上的信息）的纸质副本
-produce (a photographic print) from a negative:produce（照片打印）从负片
-write (text) clearly without joining the letters together:write(text)清楚而不将字母连接在一起
-mark (a surface, typically a fabric or garment) with a coloured design or pattern:mark（表面，通常是织物或服装）带有彩色设计或图案
+produce (a photographic print) from a negative:从底片制作（照片）
+write (text) clearly without joining the letters together:把（文字）写清楚，不要把字母连在一起
+mark (a surface, typically a fabric or garment) with a coloured design or pattern:用彩色设计或图案标记（表面，通常是织物或衣服）
 transfer (a design or pattern) to a surface:将（设计或图案）转移到表面
-make (a mark or indentation) by pressing something on a surface or in a soft substance:make（标记或压痕）通过将某物压在表面或柔软的物质上
-mark (the surface of a soft substance):mark（软质表面）
+make (a mark or indentation) by pressing something on a surface or in a soft substance:通过在表面或软物质上按压某物来制作（标记或压痕）
+mark (the surface of a soft substance):标记（软物质的表面）
 fix (something) firmly or indelibly in someone's mind:fix（某事）在某人的脑海中坚定或不可磨灭
 the text appearing in a book, newspaper, or other printed publication, especially with reference to its size, form, or style:出现在书籍、报纸或其他印刷出版物中的文字，尤其是关于其大小、形式或风格的文字
 the state of being available in published form:以出版形式提供的状态
@@ -732,7 +732,7 @@ patterns of birds and trees were printed on the cotton:棉布上印有鸟类和�
 a beetle scurried by, printing tracks in the sand with its busy feet:一只甲虫匆匆而过，用它忙碌的脚印在沙地上留下足迹
 we printed the butter with carved wooden butter moulds:we用雕刻的木制黄油模具打印黄油
 his face was printed on her memory:他的脸印在她的记忆里
-she forced herself to concentrate on the tiny print:she强迫自己专注于小字
+she forced herself to concentrate on the tiny print:她强迫自己专注于小字
 the news will never get into print:新闻永远不会印刷
 the report's contents were widely summarized in the public prints:该报告的内容在公开刊物上得到广泛总结
 the print unions:印刷工会
@@ -740,9 +740,9 @@ there were paw prints everywhere:到处都是爪印
 the FBI matched the prints to those of the robbery suspect:FBI将指纹与抢劫嫌疑人的指纹相匹配
 the walls were hung with sporting prints:墙上挂着运动版画
 please send a black-and-white or colour print to the editor:请将黑白或彩色照片发给编辑
-he screened his own print of the film at festivals around the world:he在世界各地的电影节上放映了他自己的电影版画
-light summer prints:light夏季印花
-the blouse is available in an assortment of colours and prints:theblouse有多种颜色和印花可供选择
+he screened his own print of the film at festivals around the world:他在世界各地的电影节上放映了他自己的电影版画
+light summer prints:浅夏印花
+the blouse is available in an assortment of colours and prints:这件衬衫有多种颜色和印花可供选择
 
 prints | 印刷,印刷品,打印
 
@@ -769,7 +769,7 @@ he died of tuberculosis:他死于肺结核
 many species died out:许多物种灭绝了
 her genius has assured her name will never die:她的天才保证她的名字永不消亡
 after a while, the noise died down:过了一会儿，噪音就平息了
-rhubarb dies back to a crown of buds each winter:rhubarb每年冬天都死回一顶花蕾
+rhubarb dies back to a crown of buds each winter:大黄每年冬天都会枯死，恢复成花冠
 the original founders died off or retired:原创始人去世或退休
 the fire had died and the room was cold:火已经熄灭，房间很冷
 three toasters have died on me:三个烤面包机在我身上死了
@@ -798,14 +798,14 @@ a dull light brown colour reminiscent of a mouse's fur:暗淡的浅棕色让人�
 a small handheld device which is moved across a mat or flat surface to move the cursor on a computer screen:一种小型手持设备，可在垫子或平面上移动以在计算机屏幕上移动光标
 a lump or bruise on or near the eye:眼睛上或附近的肿块或瘀伤
 (of a cat or owl) hunt for or catch mice:（猫或猫头鹰的）寻找或捕捉老鼠
-prowl about as if searching:prowl好像在寻找
+prowl about as if searching:四处寻觅
 use a mouse to move or position a cursor on a computer screen:使用鼠标在计算机屏幕上移动或定位光标
 mouse |mʌɪs| Noun/Verb/:,老鼠,鼠标
-Jane may be a bit of a mouse, but she is very nosy:Jane可能有点像老鼠，但她很爱管闲事
+Jane may be a bit of a mouse, but she is very nosy:简可能有点像老鼠，但她很爱管闲事
 her flaxen hair dulled to mouse:她的亚麻色头发像老鼠一样变钝
 copy the file with a click of the mouse:点击鼠标复制文件
 she touched the mouse under her eye:她摸了眼下的鼠标
-female cats are usually much better at mousing than males:female猫通常比雄性更擅长捕鼠
+female cats are usually much better at mousing than males:母猫通常比公猫更擅长捕鼠
 he was mousing among the books of the old library:他在旧图书馆的书本间徘徊
 simply mouse over any item on the list:只需将鼠标悬停在列表中的任何项目上
 
@@ -824,7 +824,7 @@ pages in a newspaper or magazine, or time between television or radio programmes
 capacity for storage of data in a computer or other digital device:在计算机或其他数字设备中存储数据的容量
 the freedom to live, think, and develop in a way that suits one:以适合自己的方式生活、思考和发展的自由
 one of two possible states of a signal in certain systems.:某些系统中信号的两种可能状态之一。
-position (two or more items) at a distance from one another:position（两个或多个项目）彼此相距一定距离
+position (two or more items) at a distance from one another:将（两个或多个项目）彼此隔开一定距离
 (in printing or writing) put blanks between (words, letters, or lines).:（在打印或书写中）在（单词、字母或行）之间放置空格。
 space |speɪs| Noun/Verb/:空间,使分隔开,太空
 a table took up much of the space:一张桌子占据了大部分空间
@@ -852,7 +852,7 @@ space out | 留出空间,隔开
 happening or done before the usual or expected time:在通常或预期时间之前发生或完成
 (of a plant or crop) flowering or ripening before other varieties:（植物或作物）在其他品种之前开花或成熟
 belonging or happening near the beginning of a particular period:属于或发生在特定时期的开始附近
-done or occurring near the beginning of the day:done或在一天开始时发生
+done or occurring near the beginning of the day:在一天开始时完成或发生
 denoting or belonging to the beginning of a historical period or cultural movement:表示或属于一个历史时期或文化运动的开始
 occurring at the beginning of a sequence:发生在序列的开头
 before the usual or expected time:在通常或预期时间之前

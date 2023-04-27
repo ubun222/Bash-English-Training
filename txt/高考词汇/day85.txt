@@ -55,27 +55,27 @@ an electric circuit which acts as a path for a signal:充当信号路径的电�
 the semiconductor region in a field-effect transistor that forms the main current path between the source and the drain.:在源极和漏极之间形成主要电流路径的场效应晶体管中的半导体区域。
 a tubular passage or duct for liquid:用于液体的管状通道或管道
 a groove or furrow:沟或沟
-direct towards a particular end or object:direct指向特定的目的或对象
+direct towards a particular end or object:指向特定的目的或对象
 cause to pass along or through a specified route or medium:导致沿或通过指定路线或介质
 (of a person) serve as a medium for (a spirit):（人的）充当（精神）的媒介
-emulate or seem to be inspired by:emulate或似乎受到启发
+emulate or seem to be inspired by:模仿或似乎受到启发
 channel |ˈtʃanl| Noun/Verb/:,倾注,频道
 the movement has spread across the Channel:这场运动已经蔓延到整个海峡
-buoys marked the safe limits of the channel:buoys标出航道的安全界限
+buoys marked the safe limits of the channel:浮标标明了航道的安全界限
 the river is confined in a narrow channel:这条河被限制在一个狭窄的河道中
 a new television channel:一个新的电视频道
 they didn't apply through the proper channels:他们没有通过适当的渠道申请
 an audio channel:一个音频通道
-fish eggs have a small channel called the micropyle:fish卵有一个称为微孔的小通道
+fish eggs have a small channel called the micropyle:鱼卵有一个叫做珠孔的小通道
 a solid block of metal that is machined to create channels into which screw-in cartridge valves can be installed:一块实心金属块，经过机加工以形成可安装螺纹插装阀的通道
 the council is to channel public funds into training schemes:理事会将把公共资金用于培训计划
 many countries channel their aid through charities:许多国家通过慈善机构提供援助
-she was channelling the spirit of Billie Holiday:she正在引导BillieHoliday的精神
-Meg Ryan plays Avery as if she's channelling Nicole Kidman:MegRyan扮演艾弗里，好像她在引导妮可基德曼
+she was channelling the spirit of Billie Holiday:她在传达 Billie Holiday 的精神
+Meg Ryan plays Avery as if she's channelling Nicole Kidman:梅格瑞恩扮演艾弗里，就好像她在引导妮可基德曼一样
 
 a rectangular cloth bag stuffed with feathers or other soft materials, used to support the head when lying or sleeping.:一个长方形布袋，里面塞满了羽毛或其他柔软的材料，用来在躺着或睡觉时支撑头部。
 a piece of wood or metal used as a support, a block or bearing.:一块用作支撑、块或轴承的木头或金属。
-rest (one's head) as if on a pillow:rest（一个人的头）好像在枕头上
+rest (one's head) as if on a pillow:像在枕头上一样休息（一个人的头）
 serve as a pillow for:充当枕头
 pillow |ˈpɪləʊ| Noun/Verb/:,枕着,枕
 his head was pillowed on his arm:他的头枕在他的手臂上
@@ -84,7 +84,7 @@ her transparent cheek, all pale and warm, pillow'd his deathlike forehead:她透
 a liquid dish, typically savoury and made by boiling meat, fish, or vegetables etc. in stock or water:一种液体菜肴，通常是咸味的，由肉、鱼或蔬菜等在汤或水中煮沸制成
 a substance or mixture regarded as resembling soup in appearance or consistency:一种在外观或稠度上被视为类似于汤的物质或混合物
 the chemicals in which film is developed.:显影胶片的化学物质。
-nitroglycerine or gelignite, especially as used for safe-breaking.:nitroglycerine或gelignite，特别是用于安全破断。
+nitroglycerine or gelignite, especially as used for safe-breaking.:硝化甘油或 gelignite，特别是用于安全破坏。
 increase the power and efficiency of an engine or other machine:提高发动机或其他机器的功率和效率
 make something more elaborate or impressive:做一些更精致或更令人印象深刻的东西
 soup |suːp| Noun/Verb/:,羹
@@ -100,7 +100,6 @@ analysis |
 
 a sealed plastic unit containing a length of audio tape, videotape, film, etc. wound on a pair of spools, for insertion into a recorder, playback device, or other machine.:一个密封的塑料单元，包含一段录音带、录像带、胶卷等，缠绕在一对线轴上，用于插入录音机、播放设备或其他机器。
 cassette |kəˈsɛt| Noun/:盒式磁带,暗盒
-:
 
 clothes and linen that need to be washed or that have been newly washed:需要洗涤或新洗过的衣服和床单
 the action or process of washing clothes and linen:洗衣服和亚麻布的动作或过程
@@ -119,15 +118,15 @@ a decrease in births:出生人数减少
 
 place, fit, or push (something) into something else:放置、安装或将（某物）推入其他东西
 include (text) in a piece of writing:
-place (a spacecraft or satellite) into an orbit or trajectory:place（航天器或卫星）进入轨道或轨迹
+place (a spacecraft or satellite) into an orbit or trajectory:将（航天器或卫星）放入轨道或轨道
 incorporate (a piece of genetic material) into a chromosome:将（一段遗传物质）整合到染色体中
 (of a muscle or other organ) be attached to a part, especially that which is moved:（肌肉或其他器官）附着在某个部位上，尤指被移动的部位
 a loose page or section in a magazine or other publication, typically one carrying an advertisement.:杂志或其他出版物中的松散页面或部分，通常带有广告。
-a printed card supplied with a CD or DVD and giving information about it.:一张随CD或DVD提供并提供相关信息的印刷卡片。
+a printed card supplied with a CD or DVD and giving information about it.:随 CD 或 DVD 提供并提供相关信息的印刷卡片。
 an ornamental section of cloth or needlework inserted into a garment.:一个装饰部分的布或针线插入衣服。
 a shot inserted in a film or video.:插入电影或视频中的镜头。
 insert |ɪnˈsəːt| Noun/Verb/:插入,插页,插,添加
-Claudia inserted her key in the lock:Claudia将她的钥匙插入锁中
+Claudia inserted her key in the lock:克劳迪娅将她的钥匙插入锁中
 he immediately inserted a clause into later contracts:他立即在后来的合同中插入了一个条款
 he inserted the ship into equatorial orbit:他将飞船送入赤道轨道
 the viral DNA is inserted into the host genome:将病毒DNA插入宿主基因组
@@ -138,7 +137,7 @@ persuasion to do or to continue something:说服去做或继续某事
 the act of trying to stimulate the development of an activity, state, or belief:试图刺激活动、状态或信念发展的行为
 encouragement |ɪnˈkʌrɪdʒm(ə)nt| Noun/:鼓励,激励
 thank you for all your support and encouragement:谢谢大家的支持和鼓励
-incentives and encouragement to play sports:incentives和鼓励运动
+incentives and encouragement to play sports:鼓励和鼓励参加体育运动
 the encouragement of foreign investment:鼓励外商投资
 
 the period between childhood and adult age:童年和成年之间的时期
@@ -174,13 +173,13 @@ a medical examination to determine a person's bodily fitness:体检以确定一�
 stocks held in actual commodities for immediate exchange, for example as opposed to futures:股票在实际商品中用于即时交换，例如相对于期货
 physical |ˈfɪzɪkl| Adjective/Noun/:身体的,体检,物理,物理的,身体上的
 a range of physical and mental challenges:
-less physical sports such as bowls:less保龄球等体育运动
+less physical sports such as bowls:减少保龄球等体育运动
 the physical world:物理世界
 physical laws:物理定律
 at fifty-something, each year's physical was a kind of lottery:五十多岁，每年的体检都是一种抽奖
 the exchange of futures for physicals:期货换实物
 
-make (someone or something) different, alter or modify:make（某人或某事）不同，改变或修改
+make (someone or something) different, alter or modify:使（某人或某物）不同、改变或修改
 become different, be altered or modified:变得不同，被改变或修改
 turn or convert (something) from one state, form, or substance into another:将（某物）从一种状态、形式或实质转变为另一种
 turn or be converted from one state, form, or substance into another:将或从一种状态、形式或实质转变为另一种
@@ -188,9 +187,9 @@ alter in terms of:alter在
 (of traffic lights) move from one colour of signal to another:（红绿灯）从一种颜色的信号灯移动到另一种颜色的信号灯
 (of the moon) arrive at a fresh phase, become new:（月亮）到达一个新的阶段，成为新的
 replace (something) with something else, especially something of the same kind that is newer or better, substitute one thing for (another):replace(something)withsomethingelse,尤其是同类更新或更好的东西，用一个东西代替(another)
-exchange (something) with someone else, giving one thing and receiving something of the same kind in return:exchange（某物）与其他人，给予一件东西并获得相同类型的东西作为回报
+exchange (something) with someone else, giving one thing and receiving something of the same kind in return:与他人交换（某物），给予一件东西并得到同样的东西作为回报
 engage (a different gear) in a motor vehicle:在机动车辆中使用（不同的档位）
-exchange (a sum of money) for the same sum in a different currency or denomination:exchange（一笔钱）以不同的货币或面额换取相同的金额
+exchange (a sum of money) for the same sum in a different currency or denomination:用不同的货币或面额兑换（一笔钱）相同的金额
 put different clothes on:穿上不同的衣服
 put a clean nappy on (a baby or young child):穿上干净的尿布（婴儿或幼儿）
 move to a different train, bus, etc.:移动到不同的火车、公共汽车等。
@@ -201,15 +200,15 @@ a new or refreshingly different experience:一种新的或令人耳目一新的�
 a clean garment or garments as a replacement for something one is wearing:一件干净的衣服或衣服来代替一个人穿着的东西
 the menopause.:更年期。
 the moon's arrival at a fresh phase, typically at the new moon.:the月亮到达一个新的阶段，通常是在新月。
-coins as opposed to banknotes:coins而不是纸币
-money given in exchange for the same sum in larger units:money换取相同金额的较大单位
-money returned to someone as the balance of the sum paid for something:money返还给某人作为支付某物的余额
+coins as opposed to banknotes:硬币而不是纸币
+money given in exchange for the same sum in larger units:以更大的单位换取相同金额的金钱
+money returned to someone as the balance of the sum paid for something:作为为某物支付的金额的余额返还给某人的钱
 an order in which a peal of bells can be rung.:一个可以敲响钟声的命令。
 a place where merchants met to do business.:一个商人见面做生意的地方。
 change |tʃeɪn(d)ʒ| Noun/Verb/:改变,变化,更改
 both parties voted against proposals to change the law:双方投票反对修改法律的提议
 the nature of the industry is likely to change:行业性质可能会发生变化
-filters change the ammonia into nitrate:filters将氨转化为硝酸盐
+filters change the ammonia into nitrate:过滤器将氨变成硝酸盐
 electronic cigarettes use liquid nicotine which changes into vapour when heated:电子烟使用液态尼古丁，加热后会变成蒸汽
 the ferns began to change shape:蕨类植物开始改变形状
 they stopped at the corner, waiting for the lights to change:他们停在拐角处，等待灯光改变
@@ -224,8 +223,7 @@ we had to change at Rugby:我们不得不在橄榄球比赛中改变
 the change from a nomadic to an agricultural society:从游牧社会到农业社会的转变
 we need a change of government:我们需要更换政府
 a change came over Eddie's face:埃迪脸上出现了变化
-couscous makes an interesting change from rice:couscous对米饭做了一个有趣的改变
-:
+couscous makes an interesting change from rice:蒸粗麦粉让米饭发生了有趣的变化
 a handful of loose change:少量零钱
 I'd go to the bank and get change:我要去银行找零钱
 I watched him check and pocket his change:我看着他检查并装袋他的零钱
@@ -271,7 +269,7 @@ alternative |ɔːlˈtəːnətɪv| Adjective/Noun/:选择,可替代的,替代品,
 the various alternative methods for resolving disputes:解决争议的各种替代方法
 the facts fit two alternative scenarios:事实符合两种替代方案
 an alternative lifestyle:另一种生活方式
-audiobooks are an interesting alternative to reading:audiobooks是阅读的有趣替代品
+audiobooks are an interesting alternative to reading:有声读物是一种有趣的阅读替代品
 
 kindness |
 
@@ -281,18 +279,18 @@ kindness |
 consent to receive or undertake (something offered):同意接受或承诺（提供的东西）
 give an affirmative answer to (an offer or proposal), say yes to:对（提议或提议）给予肯定回答，对
 say yes to a proposal of marriage from (a man):对（一个男人）的求婚说“是”
-receive as adequate, valid, or suitable:receive充分、有效或合适
+receive as adequate, valid, or suitable:接收充分、有效或合适的
 regard favourably or with approval, welcome:好评或同意，欢迎
-(of a thing) be designed to allow (something) to be inserted or applied:(ofathing)被设计成允许插入或应用(something)
-believe or come to recognize (a proposition) as valid or correct:believe或承认（命题）有效或正确
+(of a thing) be designed to allow (something) to be inserted or applied:（某物的）被设计成允许（某物）被插入或应用
+believe or come to recognize (a proposition) as valid or correct:相信或认识到（一个命题）是有效的或正确的
 take upon oneself (a responsibility or liability), acknowledge:自己承担（责任或义务），承认
-tolerate or submit to (something unpleasant or undesired):tolerate或提交给（不愉快或不受欢迎的事情）
+tolerate or submit to (something unpleasant or undesired):容忍或服从（不愉快或不受欢迎的事情）
 accept |əkˈsɛpt| Verb/:接受,收
 he accepted a pen as a present:他接受了一支笔作为礼物
 he would accept their offer and see what happened:他会接受他们的提议，看看发生了什么
 what if Elizabeth accepted Darcy the first time?:如果伊丽莎白第一次接受达西会怎样？
 the college accepted her as a student:学院收她为学生
-the Irish never accepted him as one of them:theIrish从不接受他为他们中的一员
+the Irish never accepted him as one of them:爱尔兰人从未接受过他是他们中的一员
 vending machines that accepted 100-yen coins for cans of beer:
 this tentative explanation came to be accepted by the men:这个暂定的解释被男人们接受了
 Jenkins is willing to accept his responsibility:Jenkins愿意承担他的责任
@@ -332,14 +330,14 @@ so as not to be obstructed or cluttered:以免被阻碍或杂乱
 completely:完全
 all the way to:一直到
 remove an obstruction or unwanted item or items from:
-free (land) for cultivation or building by removing vegetation or existing structures:free（土地）通过移除植被或现有结构进行耕种或建筑
+free (land) for cultivation or building by removing vegetation or existing structures:通过移除植被或现有结构来释放（土地）用于耕种或建设
 cause people to leave (a building or place):导致人们离开（建筑物或地方）
 gradually go away or disappear:逐渐消失或消失
 become free of cloud or rain:无云无雨
 (of a person's face or expression) assume a happier aspect following confusion or distress:（一个人的脸或表情）在困惑或痛苦之后表现出更快乐的一面
-remove (an obstruction or unwanted item) from somewhere:remove（障碍物或不需要的物品）从某处
+remove (an obstruction or unwanted item) from somewhere:从某处移除（障碍物或不需要的物品）
 (in soccer and other sports) send (the ball) away from the area near one's goal:（在足球和其他运动中）将（球）送离球门附近的区域
-discharge (a debt):discharge（欠债）
+discharge (a debt):解除（债务）
 get past or over (something) safely or without touching it:
 officially show or declare (someone) to be innocent:正式表明或宣布（某人）是无辜的
 give official approval or authorization to:给予官方批准或授权
@@ -352,11 +350,11 @@ it was clear that they were in a trap:很明显他们陷入了陷阱
 every pupil must be clear about what is expected:每个学生都必须清楚自己的期望
 the clear glass of the French windows:落地窗的透明玻璃
 the day was fine and clear:那天天气晴朗
-Norma's clear skin did not need a heavy foundation:Norma的白皙肌肤不需要厚重的粉底
-clear blue delphiniums:clear蓝色飞燕草
+Norma's clear skin did not need a heavy foundation:诺玛的白皙肌肤不需要厚重的粉底
+clear blue delphiniums:清澈的蓝色飞燕草
 a bright, clear flame:明亮、清澈的火焰
 with a clear road ahead he shifted into high gear:前方道路畅通，他换上高速档
-the following Saturday, Mattie had a clear day:接下来的星期六，Mattie天气晴朗
+the following Saturday, Mattie had a clear day:接下来的星期六，马蒂天气晴朗
 after 18 months of treatment he was clear of TB:经过18个月的治疗，他的结核病痊愈了
 in the morning, with a clear head, she would tackle all her problems:早上，头脑清醒，她会解决她所有的问题
 I left the house with a clear conscience:我问心无愧地离开了家
@@ -373,8 +371,8 @@ the wardens shouted a warning and cleared the streets:监狱长大声警告并�
 the fever clears in two to four weeks:发烧在两到四个星期内消失
 we'll go out if the weather clears:如果天气晴朗，我们会出去
 for a moment, Sam was confused; then his expression cleared:有那么一刻，Sam很困惑；
-Karen cleared the dirty plates:Karen清理脏盘子
-McAllister's lob was cleared off the line by Kernaghan:McAllister的吊球被Kernaghan解围
+Karen cleared the dirty plates:凯伦清理脏盘子
+McAllister's lob was cleared off the line by Kernaghan:麦卡利斯特的吊球被克纳汉扑出底线
 at the moment I'm clearing debts:此刻我正在清算债务
 the plane rose high enough to clear the trees:飞机升到足以清除树木的高度
 his sport's ruling body had cleared him of cheating:他的运动的统治机构已经清除了他的作弊行为
@@ -400,12 +398,11 @@ he hit on a novel idea to solve his financial problems:他想出了一个新主�
 
 a person who invented a particular process or device or who invents things as an occupation.:发明特定过程或设备的人，或将发明事物作为职业的人。
 inventor |ɪnˈvɛntə| Noun/:发明者,发明家,创造者
-:
 
 showing or exercising mercy:显示或行使怜悯
-(of an event) coming as a mercy, bringing someone relief from something unpleasant:(ofanevent)仁慈地到来，使某人从不愉快的事情中解脱出来
+(of an event) coming as a mercy, bringing someone relief from something unpleasant:（事件）作为怜悯而来，使某人从不愉快的事情中解脱出来
 merciful |ˈməːsɪf(ʊ)l| Adjective/:仁慈,仁慈的,慈悲的
-William did not believe in being merciful to those who fought against him:William不相信对那些反对他的人是仁慈的
+William did not believe in being merciful to those who fought against him:威廉不相信对那些反对他的人仁慈
 her death was a merciful release:她的死是一个仁慈的释放
 
 the action or activity of buying goods from shops:从商店购买商品的行为或活动
@@ -416,7 +413,6 @@ a bag of shopping:一袋购物
 
 a form of football played by two teams of eleven players with a round ball which may not be handled during play except by the goalkeepers.:一种由两队11名球员组成的足球形式，使用圆形球，在比赛期间只能由守门员处理。
 soccer |ˈsɒkə| Noun/:足球,橄榄球
-:
 
 pan | 平底锅,抨击,泛,锅
 

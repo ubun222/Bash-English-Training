@@ -58,8 +58,8 @@ an inconsiderate or untrustworthy person:一个不体贴或不值得信赖的人
 (in professional wrestling) a wrestler who adopts a mean or unsympathetic persona in the ring:（在职业摔跤中）摔跤手在擂台上采取刻薄或冷漠的角色
 fit or renew a heel on (a shoe or boot):fit或更新鞋跟（鞋子或靴子）
 (of a dog) follow closely behind its owner:（狗）紧跟在主人身后
-strike (the ball) with the heel of the club.:strike（球）与球杆的后跟。
-push or kick (the ball) out of the back of the scrum with one's heel:用脚后跟从scrum后部推或踢（球）
+strike (the ball) with the heel of the club.:用球杆的根部击打（球）。
+push or kick (the ball) out of the back of the scrum with one's heel:用脚后跟将（球）推或踢出 scrum 的后部
 touch the ground with the heel when dancing:跳舞时脚跟着地
 a command to a dog to walk close behind its owner.:一个命令狗走近它的主人。
 (of a boat or ship) lean over owing to the pressure of wind or an uneven load:（船或船）由于风压或负载不均而倾斜
@@ -68,7 +68,7 @@ an instance of a ship heeling.:一个船舶倾斜的实例。
 the degree of incline of a ship's leaning measured from the vertical.:从垂直方向测量的船舶倾斜度。
 set a plant in the ground and cover its roots:在地里种一株植物，盖住它的根
 heel |hiːl| Interjection/Noun/Verb/:脚跟,跟,踵,后跟,鞋跟
-shoes with low heels:shoes低跟鞋
+shoes with low heels:低跟鞋
 he rubbed the heel of his hand against the window:他用手后跟在窗户上擦了擦
 what kind of a heel do you think I am?:你觉得我是什么鞋跟？
 he played the perfect wrestling heel, arrogant, overly aggressive, yet the first to run away when the odds are not in his favour:他打出了完美的摔跤鞋跟，傲慢，过分咄咄逼人，但在不利于他的情况下第一个逃跑
@@ -133,7 +133,7 @@ say in conclusion:最后说
 decide to do something:决定做某事
 conclude |kənˈkluːd| Verb/:得出结论,总结
 an attempt to conclude a ceasefire:达成停火的企图
-the doctors concluded that Esther had suffered a stroke:the医生得出结论，Esther中风了
+the doctors concluded that Esther had suffered a stroke:医生断定以斯帖中风了
 ‘It's a wicked old world,’ she concluded:“这是一个邪恶的旧世界，”她总结道
 we found some bread, which we concluded to eat:我们找到了一些面包，我们决定吃
 
@@ -162,7 +162,7 @@ awkward |ˈɔːkwəd| Adjective/:尴尬的,尴尬,别扭,笨拙,笨拙的
 some awkward questions:一些尴尬的问题
 you're being damned awkward!:你真是太尴尬了！
 you have put me in a very awkward position:你让我处于一个非常尴尬的境地
-Luther's awkward movements impeded his progress:Luther的笨拙动作阻碍了他的进步
+Luther's awkward movements impeded his progress:路德笨拙的动作阻碍了他的进步
 make sure the baby isn't sleeping in an awkward position:确保宝宝没有以尴尬的姿势睡觉
 
 a special watch with buttons that start, stop, and then zero the hands, used to time races.:一个特殊的手表，带有启动、停止和归零按钮，用于计时。
@@ -172,7 +172,7 @@ a painful feeling of humiliation or distress caused by the consciousness of wron
 a loss of respect or esteem, dishonour:失去尊重或尊重，不光彩
 a person, action, or situation that brings a loss of respect or honour:导致失去尊重或荣誉的人、行为或情况
 a regrettable or unfortunate situation or action:令人遗憾或不幸的情况或行动
-make (someone) feel ashamed:make（某人）感到羞愧
+make (someone) feel ashamed:让（某人）感到羞耻
 bring shame to:带来耻辱
 cause (someone) to feel inadequate by outdoing or surpassing them:导致（某人）通过超越或超越他们而感到不足
 used to express sentimental pleasure, especially at something small and endearing:用于表达情感上的快乐，尤其是在小而可爱的事情上
@@ -206,11 +206,11 @@ quiz |kwɪz| Noun/Verb/:,问答
 a sports quiz:体育测验
 the model is to face a police quiz over claims her dogs are intimidating ramblers:模特要面对警方的测验，因为她声称她的狗是恐吓漫步者
 four men have been quizzed about the murder:四名男子被问及谋杀案
-deep-set eyes quizzed her in the candlelight:deep-set眼睛在烛光下问她
+deep-set eyes quizzed her in the candlelight:深陷的眼睛在烛光下询问她
 is it possible he has heard of my foible and is quizzing me?:他有没有可能听说过我的弱点并在问我？
 I am impatient to know if the whole be not one grand quiz:我迫不及待想知道整个不是一场大测验
 two ill-natured quizzes, who were suspected of writing for a very sarcastic paper:两个性情恶劣的小测验，被怀疑为一篇非常讽刺的论文写作
-she means to marry that quiz for the sake of his thousands:she的意思是为了他的成千上万的人而嫁给那个测验
+she means to marry that quiz for the sake of his thousands:她的意思是为了他的成千上万的人而嫁给那个测验
 
 the number equivalent to the product of four and ten, ten less than fifty, 40:等于四和十的乘积的数字，十小于五十，40
 the numbers from forty to forty-nine, especially the years of a century or of a person's life:从四十到四十九的数字，尤其是一个世纪或一个人的一生
@@ -221,20 +221,20 @@ the third point won by a player in a game:玩家在游戏中获得的第三分
 the central North Sea between Scotland and southern Norway, so called from its prevailing depth of forty fathoms or more.:苏格兰和挪威南部之间的北海中部，以其普遍深度四十英寻或以上而得名。
 a shipping forecast area covering the central North Sea east of Scotland.:a航运预报区，覆盖苏格兰以东的北海中部。
 forty |ˈfɔːti| Numeral/:,四十几
-York was only forty miles away:York就在四十英里之外
+York was only forty miles away:约克离这里只有四十英里
 Terry was in his early forties:特里四十出头
 a tall woman of about forty:一个四十岁左右的高个女人
 they were doing about forty:他们大约做了四十
-up forty-love on his serve, he hit two double faults:uplove在他的发球局中，他击中了两个双误
+up forty-love on his serve, he hit two double faults:他的发球得分达到 40 分，他命中了两次双误
 
-awkward in movement or in handling things:awkward运动或处理事物
+awkward in movement or in handling things:动作或拿东西笨拙
 done awkwardly or without skill:笨拙地或没有技巧地完成
 difficult to handle or use, unwieldy:难以处理或使用，笨重
 lacking social skills, tactless:缺乏社交能力，不圆滑
 clumsy |ˈklʌmzi| Adjective/:笨拙,拙,笨手笨脚的
 the cold made his fingers clumsy:寒冷使他的手指变得笨拙
 a very clumsy attempt to park:一个非常笨拙的停车尝试
-clumsy devices:clumsy设备
+clumsy devices:笨拙的设备
 his choice of words was clumsy:他的措辞很笨拙
 
 the solid surface of the earth:地球的固体表面
@@ -253,13 +253,13 @@ a substance used to prepare a surface for painting.:一种用于准备绘画表�
 a piece of wood fixed to a wall as a base for boards, plaster, or joinery.:一块木头固定在墙上，作为木板、灰泥或细木工的底座。
 solid particles, especially of coffee, which form a residue, sediment:固体颗粒，尤其是咖啡，形成残留物、沉淀物
 electrical connection to the earth.:接地的电气连接。
-prohibit or prevent (a pilot or an aircraft) from flying:prohibit或阻止（飞行员或飞机）飞行
+prohibit or prevent (a pilot or an aircraft) from flying:禁止或阻止（飞行员或飞机）飞行
 (of a parent) refuse to allow (a child) to go out socially as a punishment:（父母的）拒绝让（孩子）参加社交活动作为惩罚
 (with reference to a ship) run or go aground:（指船）跑或搁浅
 give (something abstract) a firm theoretical or practical basis:给（抽象的东西）坚实的理论或实践基础
-instruct (someone) thoroughly in a subject:instruct（某人）在一个主题中彻底
+instruct (someone) thoroughly in a subject:彻底指导（某人）某门学科
 place (something) on the ground or touch the ground with (something):将（某物）放在地上或用（某物）触地
-connect (an electrical device) with the ground.:connect（电气设备）与地线。
+connect (an electrical device) with the ground.:将（电气设备）接地。
 (of a batter) hit a pitched ball so that it bounces on the ground:（击球手）击中投出的球，使其在地面上弹起
 (of a batter) be put out by hitting a ball on the ground to a fielder who throws it to or touches first base before the batter touches that base:（击球手）在击球手触及一垒之前将球击到地面上的守场员被扑出或触及一垒
 reduced to fine particles by crushing or mincing:通过压碎或切碎变成细颗粒
@@ -271,7 +271,7 @@ my feet squelched over marshy ground:我的脚踩在沼泽地上
 the airline's ground staff:航空公司的地勤人员
 ground flora:地面植物群
 shore dumping can pollute fishing grounds:岸边倾倒会污染渔场
-the house stands in seven acres of grounds:thehouse占地7英亩
+the house stands in seven acres of grounds:房子矗立在七英亩的土地上
 a football ground:a足球场
 third-year courses cover less ground and go into more depth:三年级课程涵盖更少的领域，更深入
 there are some grounds for optimism:有一些乐观的理由
@@ -310,7 +310,7 @@ grounds | 理由,场地
 
 
 
-allow or cause (something) to be visible:allow或导致（某物）可见
+allow or cause (something) to be visible:允许或导致（某物）可见
 be or become visible:be或变得可见
 offer, exhibit, or produce (something) for inspection:提供、展示或生产（某物）以供检查
 put on display in an exhibition or competition:在展览或比赛中展出
@@ -319,9 +319,9 @@ present (a film or television programme) on a screen for viewing:在屏幕上呈
 indicate (a particular time, measurement, etc.):indicate（特定时间、测量等）
 represent or depict in art:代表或描绘艺术
 allow oneself to be seen, appear in public:允许自己被看到，出现在公众面前
-arrive or turn up for an appointment or at a gathering:arrive或出席约会或聚会
+arrive or turn up for an appointment or at a gathering:到达或出席约会或聚会
 allow (a quality or emotion) to be perceived, display:允许（一种品质或情感）被感知、展示
-accord or treat someone with (a specified quality):accord或以（特定品质）对待某人
+accord or treat someone with (a specified quality):以（特定的品质）给予或对待某人
 (of an emotion) be noticeable:（情绪的）引人注目
 (of a woman) be visibly pregnant:（一个女人的）明显怀孕了
 demonstrate or prove:演示或证明
@@ -354,14 +354,14 @@ it was Frank's turn to show his frustration:现在轮到弗兰克表达他的沮
 he urged his soldiers to show no mercy:他敦促他的士兵不要手下留情
 he tried not to let his relief show:他尽量不让他的解脱表现出来
 Shirley was four months pregnant and just starting to show:Shirley怀孕四个月了
-experts say this shows the benefit of regular inspections:experts说这显示了定期检查的好处
+experts say this shows the benefit of regular inspections:专家说这表明定期检查的好处
 show them in, please:请给他们看
-Greenough was the only other rider clear in round one, but she failed to show for the tiebreaker:Greenough是唯一一位在第一轮比赛中获胜的车手，但她未能参加决胜局
+Greenough was the only other rider clear in round one, but she failed to show for the tiebreaker:格里诺 (Greenough) 是第一轮中唯一一名脱颖而出的车手，但她未能在决胜局中出场
 spectacular shows of bluebells:壮观的风铃草表演
 a dog show:狗展
 I man a desk in a little office. I don't run the show:我在一间小办公室里管理着一张桌子。我不主持节目
-Joanie was frightened of any show of affection:Joanie害怕任何示爱
-Drew made a show of looking around for firewood:Drew做了一个四处寻找柴火的表演
+Joanie was frightened of any show of affection:乔安妮害怕任何示爱
+Drew made a show of looking around for firewood:德鲁做了一个四处寻找柴火的表演
 now don't make a show of yourself in front of him:现在不要在他面前炫耀自己
 I didn't have a show:我没有演出
 
@@ -383,13 +383,13 @@ show sb up as | 显示某人为,向某人表示
 
 
 
-build (something) again after it has been damaged or destroyed:build（某物）在它被损坏或破坏后再次
+build (something) again after it has been damaged or destroyed:损坏或毁坏后再次建造（某物）
 an instance of rebuilding:重建实例
 a thing that has been rebuilt, especially a vehicle or other machine:已经重建的东西，尤其是车辆或其他机器
 rebuild |riːˈbɪld| Noun/Verb/:重建
 after the earthquake people set about rebuilding their homes:地震后人们开始重建家园
-the Trust have recognized the hard work of all who were involved in this daunting rebuild:theTrust认可所有参与这项艰巨重建的人的辛勤工作
-the rebuilds include a number of Delage cars:重建包括一些Delage汽车
+the Trust have recognized the hard work of all who were involved in this daunting rebuild:信托已经认识到所有参与这项艰巨重建工作的人的辛勤工作
+the rebuilds include a number of Delage cars:重建包括一些 Delage 汽车
 
 a person who is professionally involved in politics, especially as a holder of an elected office:一个专业参与政治的人，特别是作为民选职位的持有人
 a person who acts in a manipulative and devious way, typically to gain advancement within an organization.:以操纵和狡猾的方式行事的人，通常是为了在组织内获得晋升。
@@ -408,7 +408,7 @@ lying towards, near, or facing the north:朝向、靠近或面向北方躺着
 (of a wind) blowing from the north:（风）从北方吹来
 of or denoting the northern part of a specified country, region, or town:of或表示指定国家、地区或城镇的北部
 to or towards the north:to或向北
-above (a particular amount, cost, etc.):above（特定金额、成本等）
+above (a particular amount, cost, etc.):以上（特定金额、费用等）
 north |nɔːθ| Adjective/Adverb/Noun/:北,北方的,朝北,北方
 a bitter wind blew from the north:一阵刺骨的北风
 he drew a circle and marked north, south, east, and west:他画了一个圆圈，标出了北、南、东、西
@@ -416,7 +416,7 @@ there will be heavy wintry showers, particularly in the north:会有大阵雨，
 he hired two lads from the North:他从北方雇了两个小伙子
 delegates from Virginia voted to join the North:来自弗吉尼亚州的代表投票决定加入北方
 the summit was likely to be a failure due to the North's refusal to commit itself to safeguarding species diversity:由于朝鲜拒绝承诺保护物种多样性，峰会可能会以失败告终
-North deals and opens one club:North交易并开设一家具乐部
+North deals and opens one club:北方交易并开设一家具乐部
 the north bank of the river:河北岸
 they were sheltering from the north winds:他们躲避北风
 North Wales:北威尔士
@@ -496,10 +496,10 @@ he guested on the show two weeks ago:他两周前客串了这个节目
 
 any of the fine threadlike strands growing from the skin of humans, mammals, and some other animals:从人类、哺乳动物和其他一些动物的皮肤上长出的细线状股线
 a fine threadlike strand growing from the epidermis of a plant, or forming part of a living cell:从植物表皮长出的细线状链，或形成活细胞的一部分
-hairs collectively, especially those growing on a person's head:hairs统称，尤其是那些长在人头上的
+hairs collectively, especially those growing on a person's head:头发的总称，尤其是长在人头上的头发
 a very small quantity or extent:非常小的数量或程度
 hair |hɛː| Noun/:头发,发,毛
-coarse outer hairs overlie the thick underfur:coarse外毛覆盖在厚厚的底毛上
+coarse outer hairs overlie the thick underfur:粗大的外层毛发覆盖着厚厚的底毛
 scalloped leaves edged with silver hairs:扇形叶子，边缘有银色毛发
 her shoulder-length fair hair:她及肩的金发
 his magic takes him a hair above the competition:his的魔力让他在竞争中脱颖而出
@@ -535,7 +535,7 @@ a friendly form of address:一种友好的地址形式
 used in affectionate requests:用于深情的请求
 (in tennis, squash, and some other sports) a score of zero, nil:（在网球、壁球和其他一些运动中）零分，无
 love |lʌv| Noun/Verb/:爱,喜欢,爱情
-babies fill parents with feelings of love:babies让父母充满爱的感觉
+babies fill parents with feelings of love:婴儿让父母充满爱的感觉
 they were both in love with her:他们都爱上了她
 give her my love:给她我的爱
 take care, lots of love, Judy:保重，多多的爱，朱迪
@@ -556,7 +556,7 @@ a large metal box of a standard design and size used for the transport of goods 
 a discrete environment set up within an operating system in which one or more applications may be run, typically assigned only those resources necessary for the application to function correctly:在操作系统中设置的离散环境，可以在其中运行一个或多个应用程序，通常只分配应用程序正常运行所需的资源
 container |kənˈteɪnə| Noun/:容器,集装箱
 the cakes will keep for up to two weeks if kept in an airtight container:如果放在密封容器中，蛋糕最多可以保存两周
-more containers can run on a server than traditional virtual machines:more容器可以在服务器上运行，而不是传统的虚拟机
+more containers can run on a server than traditional virtual machines:比传统虚拟机更多的容器可以在服务器上运行
 
 a powder obtained by grinding grain, typically wheat, and used to make bread, cakes, and pastry.:一种通过研磨谷物（通常是小麦）获得的粉末，用于制作面包、蛋糕和糕点。
 fine, soft powder obtained by grinding the seeds or roots of starchy vegetables:精细、柔软的粉末，通过研磨淀粉类蔬菜的种子或根获得

@@ -54,9 +54,9 @@ he was convicted of theft:他被判盗窃罪
 
 wash by immersing one's body in water:将身体浸入水中清洗
 soak or wipe gently with liquid to clean or soothe:浸泡或用液体轻轻擦拭以清洁或舒缓
-wash (someone) in a bath:wash（某人）在洗澡
+wash (someone) in a bath:给（某人）洗澡
 swim or spend time in the sea or a lake, river, or pool for pleasure:游泳或在大海、湖泊、河流或游泳池消磨时光
-suffuse or envelop in something:suffuse或包裹在某物中
+suffuse or envelop in something:弥漫或包裹在某物中
 an act or spell of swimming or spending time in the water:游泳或在水中消磨时间的行为或咒语
 bathe |beɪð| Noun/Verb/:洗澡,沐浴
 she was advised to bathe or shower daily:她被建议每天洗澡或淋浴
@@ -114,22 +114,22 @@ present or host (a television or radio programme):present或主持（电视或�
 act as a front or cover for illegal or secret activity:充当非法或秘密活动的掩护或掩护
 adopt a particular expression or form of behaviour to conceal one's genuine feelings:采用特定的表达方式或行为方式来掩饰自己的真实感受
 make an appearance, turn up:露面，出现
-stand face to face with, confront:stand面对面，面对
-articulate (a vowel sound) with the tongue further forward:articulate（元音），舌头更靠前
-place (a sentence element) at the beginning of a sentence instead of in its usual position, for emphasis or as a feature of some dialects, as in horrible it was.:place（一个句子元素）在句子的开头而不是在它通常的位置，用于强调或作为某些方言的特征，就像可怕的那样。
+stand face to face with, confront:面对面站立，面对
+articulate (a vowel sound) with the tongue further forward:舌头向前发声（元音）
+place (a sentence element) at the beginning of a sentence instead of in its usual position, for emphasis or as a feature of some dialects, as in horrible it was.:将（句子成分）放在句子的开头而不是通常的位置，以强调或作为某些方言的特征，如 horrible it was。
 front |frʌnt| Adjective/Noun/Verb/:正面,前面的,面向,面前,前
 a page at the front of the book had been torn out:这本书前面的一页被撕掉了
 she quickly turned her head to face the front:她迅速转头面对前方
 she rolled over on to her front:她翻到身前
-porridge slopped from the tray on to his shirt front:porridge从托盘上掉到他的衬衫前面
+porridge slopped from the tray on to his shirt front:粥从托盘上溅到他的衬衫前襟上
 get your eyes off my front, meathead:把你的眼睛从我面前移开，肉头
 the west front of the Cathedral:大教堂西门前
 his regiment was immediately sent to the front:他的团立即被派往前线
-the Spartans preserving an even and unbroken front:theSpartans保持着平坦和完整的战线
+the Spartans preserving an even and unbroken front:斯巴达人保持着平坦而完整的战线
 there was some good news on the jobs front:在工作方面有一些好消息
 the National Progressive Patriotic Front:全国进步爱国阵线
 she put on a brave front:她勇敢地面对
-the CIA identified the company as a front for a terrorist group:theCIA认定该公司是恐怖组织的前线
+the CIA identified the company as a front for a terrorist group:中央情报局认定该公司是恐怖组织的幌子
 he's got a bit of talent and a lot of front:他有一点天赋和很多前场
 the mark of fool set on his front:在他面前的傻瓜印记
 the front cover of the magazine:杂志封面
@@ -138,9 +138,9 @@ they reached the hedge fronting the garden:他们到达了花园前面的树篱
 a metal box fronted by an alloy panel:一个金属盒子，正面是一块合金面板
 the group is fronted by two girl singers:这个组合是由两位女歌手领衔的
 she is set to front a new BBC show:she将出演新的BBC节目
-he fronted for them in illegal property deals:he在非法财产交易中为他们辩护
-I can't front, I never really listened to much of his music:Ican'tfront,我从来没有真正听过他的音乐
-parents get a bit worried if you don't front up now and then:parents如果你不时不露面，会有点担心
+he fronted for them in illegal property deals:他在非法财产交易中为他们辩护
+I can't front, I never really listened to much of his music:我无法面对，我从来没有真正听过他的音乐
+parents get a bit worried if you don't front up now and then:如果你不时不前来，父母会有点担心
 Tom fronted him with unwavering eyes:Tom用坚定的眼神看着他
 the three velar consonants are normally fronted to some degree:三个软颚音通常在一定程度上前置
 
@@ -190,7 +190,7 @@ the materials for a task:任务的材料
 activity involving construction or repair:涉及建筑或维修的活动
 cosmetic plastic surgery:美容整形外科
 good or moral deeds:善行或道德行为
-a thing or things done or made, the result of an action:a thing or things or things done or made, 行动的结果
+a thing or things done or made, the result of an action:做或做的事情或事情，行动的结果
 a literary or musical composition or other piece of art:a文学或音乐作品或其他艺术作品
 the artistic production of a particular author, composer, or artist, regarded collectively:特定作者、作曲家或艺术家的艺术作品，统称为
 a piece of embroidery, sewing, or knitting, typically made using a specified stitch or method.:一件刺绣、缝纫或针织，通常使用指定的针迹或方法制成。
@@ -256,7 +256,7 @@ washroom |ˈwɒʃruːm| Noun/:卫生间,盥洗室,洗手间
 
 cause (a space or container) to become full or almost full:导致（空间或容器）变满或几乎满
 become full:变满
-insert material to block or close (a gap or opening):insert材料以阻塞或关闭（间隙或开口）
+insert material to block or close (a gap or opening):插入材料以阻塞或关闭（间隙或开口）
 block up (a cavity in a tooth) with cement, amalgam, or gold.:用水泥、汞合金或金堵住（牙齿上的一个洞）。
 (of the wind) blow into (a sail), causing it to curve outwards.:（风）吹进（帆），使它向外弯曲。
 (of a sail) curve out tautly from its supports as the wind blows into it.:（帆）随着风的吹入，从它的支撑上绷紧地弯曲出来。
@@ -275,18 +275,18 @@ the action of filling something, especially of shading in a region of a computer
 (in popular music) a short interjected phrase on a particular instrument:（流行音乐中）特定乐器上的插入短句
 fill |fɪl| Noun/Verb/:填,充满,填满的量,填充,填写
 I filled the bottle with water:我把瓶子装满了水
-Elinor's eyes filled with tears:Elinor的眼里充满了泪水
+Elinor's eyes filled with tears:埃莉诺的眼里充满了泪水
 road engineers planned to fill the hole with concrete:road工程师计划用混凝土填充这个洞
 a pungent smell of garlic filled the air:空气中弥漫着一股刺鼻的大蒜味
 the next few days were filled with meetings:接下来的几天充满了会议
 his presence filled us with foreboding:他的出现让我们充满了不祥的预感
 the board contacted him to say they had already filled the position:董事会联系他说他们已经填补了这个职位
 he had filled the post in an acting capacity for some time:他担任了一段时间的代理职务
-community land trusts are a way to fill the pressing need for housing:community土地信托是满足住房紧迫需求的一种方式
+community land trusts are a way to fill the pressing need for housing:社区土地信托是满足住房紧迫需求的一种方式
 she needed to fill a prescription:她需要开处方
 we have eaten our fill:我们吃饱了
 loose polystyrene fill:松散聚苯乙烯填充
-country-tinged guitar fills:country-tined吉他填充
+country-tinged guitar fills:带有乡村色彩的吉他加花
 
 that fills the bill | 填补了账单,满足了
 
@@ -299,7 +299,7 @@ illegal activities:非法活动
 an action or activity considered to be evil, shameful, or wrong:被认为是邪恶、可耻或错误的行为或活动
 (especially in the army) charge with or find guilty of an offence:（特别是在军队中）指控或被判有罪
 crime |krʌɪm| Noun/Verb/:,罪行,罪
-shoplifting was a serious crime:shoplifting是严重犯罪
+shoplifting was a serious crime:入店行窃是一种严重的犯罪行为
 the victims of crime:犯罪的受害者
 they condemned apartheid as a crime against humanity:他们谴责种族隔离是危害人类罪
 they found the note and I got crimed for it:他们找到了那张纸条，我因此受到了犯罪
@@ -337,21 +337,21 @@ the idea is attractive to many men and indeed to many women:这个想法对许�
 quick to understand, learn, and devise or apply ideas, intelligent:快速理解、学习、设计或应用想法，聪明
 skilled at doing or achieving something, talented:擅长做某事或有所成就，有才华
 showing skill and originality, ingenious:匠心独运，匠心独运
-sensible, well advised:sensible，很好的建议
+sensible, well advised:明智的，很好的建议
 healthy or well:健康或良好
 clever |ˈklɛvə| Adjective/:聪明的,聪明,巧妙,机灵
 she was an extremely clever and studious young woman:她是一个非常聪明好学的年轻女子
 he was very clever at getting what he wanted:他非常聪明地得到他想要的东西
 a simple but clever idea for helping people learn computing:一个帮助人们学习计算的简单而聪明的想法
-Joe had a feeling it wasn't too clever, leaving Dolly alone:Joe觉得不太聪明，让Dolly一个人呆着
+Joe had a feeling it wasn't too clever, leaving Dolly alone:乔觉得让多莉一个人呆着不太聪明
 I was up and about by this time though still not too clever:此时我已经起床了，虽然还不太聪明
 
 indicate or show that one is not willing to do something:表示或表明不愿意做某事
 indicate that one is not willing to accept or grant (something offered or requested):表示不愿意接受或授予（提供或要求的东西）
-(of a thing) fail to perform a required action:(ofathing)未能执行所需的操作
-decline to accept an offer of marriage from (someone):decline接受（某人）的求婚
+(of a thing) fail to perform a required action:（事物的）未能完成要求的动作
+decline to accept an offer of marriage from (someone):拒绝接受（某人）的求婚
 (of a horse) stop short or run aside at (a fence or other obstacle) instead of jumping it:（马的）在（栅栏或其他障碍物）处停住或跑到一边，而不是跳过它
-matter thrown away or rejected as worthless, rubbish:matter被当作毫无价值的垃圾丢弃或拒绝
+matter thrown away or rejected as worthless, rubbish:物质被扔掉或被拒绝为毫无价值的垃圾
 refuse |rɪˈfjuːz| Noun/Verb/:拒绝,垃圾
 I refused to answer:我拒绝回答
 she refused a cigarette:她拒绝抽烟
@@ -369,7 +369,7 @@ whichever |wɪtʃˈɛvə| Determiner/Pronoun/:任何,不论哪一个,取其
 something, especially food, remaining after the rest has been used:某物，尤其是食物，其余用完后剩下的
 remaining, surplus:剩余，剩余
 leftover |ˈlɛftəʊvə| Adjective/Noun/:剩菜,剩饭剩菜
-everyone wanted seconds, so there were no leftovers:everyone想要秒，所以没有剩菜
+everyone wanted seconds, so there were no leftovers:每个人都想要秒，所以没有剩菜
 yesterday's leftover bread:昨天剩下的面包
 
 the lowest part or edge of something, especially the part on which it rests or is supported:某物的最低部分或边缘，尤其是它所在或被支撑的部分
@@ -404,14 +404,14 @@ she sat down at the base of a tree:她坐在树下
 a shoot is produced at the base of the stem:一个芽在茎的基部产生
 the base of the triangle:三角形底边
 the town's economic base collapsed:镇经济基础崩溃
-she uses existing data as the base for the study:she使用现有数据作为研究的基础
+she uses existing data as the base for the study:她使用现有数据作为研究的基础
 a customer base:a客户群
 he headed back to base:他返回基地
-she makes the studio her base:she以工作室为基地
-soaps with a vegetable oil base:soaps以植物油为基础
+she makes the studio her base:她以工作室为基地
+soaps with a vegetable oil base:以植物油为基础的肥皂
 her make-up artist works with base, eye make-up, and lipstick:她的化妆师使用底妆、眼妆和口红
 the film is based on a novel by Pat Conroy:这部电影是根据帕特康罗伊的小说改编的
-the Science Policy Review Unit is based at the University of Sussex:theSciencePolicyReviewUnit设在苏塞克斯大学
+the Science Policy Review Unit is based at the University of Sussex:科学政策审查组设在萨塞克斯大学
 the electorate's baser instincts of greed and selfishness:选民贪婪和自私的本能
 the basest coins in the purse were made in the 620s AD:钱包中最基础的硬币是公元620年代制造的
 
@@ -447,7 +447,7 @@ the rank and file want to call the action off:员工要取消行动
 the action is set in a country house:剧情设定在一栋乡间别墅里
 the weekend sporting action begins on Saturday:周末体育活动周六开始
 lights, camera, action:灯光、相机、动作
-she frequently questioned his actions:she经常质疑他的行为
+she frequently questioned his actions:她经常质疑他的行为
 his actions emphasized his words:他的行动强调了他的话
 the weapon has a smooth action:武器动作流畅
 a piano with an escapement action:带有擒纵机构的钢琴
@@ -494,11 +494,11 @@ a continuous line of copper or other conductive material on a printed circuit bo
 the transverse distance between a vehicle's wheels:车轮之间的横向距离
 a group in which schoolchildren of the same age and ability are taught.:同龄同能力学童的小组。
 follow the trail or movements of (someone or something), typically in order to find them or note their course:跟踪（某人或某物）的踪迹或动作，通常是为了找到他们或注意他们的路线
-note the progress or course of:note进度或过程
+note the progress or course of:注意进度或过程
 follow a particular course:遵循特定的课程
 (of a stylus) follow (a groove in a record):（手写笔）跟随（唱片中的凹槽）
 (of a film or television camera) move in relation to the subject being filmed:（电影或电视摄影机的）相对于被拍摄对象移动
-(of wheels) run so that the back ones are exactly in the track of the front ones.:(of轮子)运行，使后面的那些正好在前面的轨道上。
+(of wheels) run so that the back ones are exactly in the track of the front ones.:（轮子）运行，使后轮正好在前轮的轨道上。
 (of a tunable circuit or component) vary in frequency in the same way as another circuit or component, so that the frequency difference between them remains constant.:（可调谐电路或组件）的频率变化方式与另一个电路或组件相同，因此它们之间的频率差保持不变。
 tow (a canoe) along a waterway from the bank:tow（独木舟）沿岸边的水路
 track |trak| Noun/Verb/:追踪,小径,跟踪,轨道,履带
@@ -508,12 +508,12 @@ the four running disciplines of track, road, country, and fell:田径、公路�
 he followed the tracks made by the cars in the snow:他在雪地里跟随汽车留下的轨迹
 I didn't want them on my track:我不想让他们在我的轨道上
 in terms of social arrangements, you are not too far off the track:在社交安排上，你离正轨也不算太远
-commuters had to leave trains to walk along the tracks:commuters不得不离开火车沿着铁轨行走
-the CD contains early Elvis Presley tracks:theCD包含早期的猫王曲目
+commuters had to leave trains to walk along the tracks:通勤者不得不离开火车沿着铁轨行走
+the CD contains early Elvis Presley tracks:CD 包含早期猫王曲目
 extremely thin tracks are not able to withstand much heat when soldering:极细的走线在焊接时无法承受太多热量
 the undercarriage was fully retractable inwards into the wing, with a 90 inch track:起落架完全可向内收进机翼，带有90英寸的履带
-secondary radars that track the aircraft in flight:secondary雷达跟踪飞行中的飞机
-City have been tracking the striker since the summer:City从夏天开始就一直在追踪这名前锋
+secondary radars that track the aircraft in flight:跟踪飞行中飞机的二次雷达
+City have been tracking the striker since the summer:自夏天以来，曼城一直在追踪这名前锋
 the storm was tracking across the ground at 30 mph:the风暴正以30英里/小时的速度穿过地面
 the pickup's stylus must faithfully track undulations:拾音器的触控笔必须忠实地跟踪起伏
 the camera eventually tracked away:相机最终被追踪
@@ -552,7 +552,7 @@ the financial and commercial institutions located in the City of London:位于�
 city |ˈsɪti| Noun/:城市,市,城
 one of Italy's most beautiful cities:意大利最美丽的城市之一
 the staff were in turmoil—it was panic city:工作人员一片混乱——这是一个恐慌的城市
-the Budget got a stony reception from the City:theBudget受到了纽约市的冷遇
+the Budget got a stony reception from the City:预算案受到了市政府的冷遇
 
 the City | 城市,这座城市
 
@@ -613,12 +613,12 @@ he's into surfing and jet-skiing:他喜欢冲浪和水上摩托
 win a victory over (someone) in a battle or other contest, overcome or beat:在战斗或其他比赛中战胜（某人），战胜或击败
 prevent (someone) from achieving an aim:防止（某人）实现目标
 prevent (an aim) from being achieved:防止（目标）实现
-reject or block (a motion or proposal):rejectorblock（动议或提议）
+reject or block (a motion or proposal):拒绝或阻止（动议或建议）
 be impossible for (someone) to understand:不可能让（某人）理解
-render null and void, annul.:render无效，取消。
+render null and void, annul.:使无效、无效。
 an instance of defeating or being defeated:击败或被击败的实例
 defeat |dɪˈfiːt| Noun/Verb/:打败,击败,失败
-Garibaldi defeated the Neapolitan army:Garibaldi击败那不勒斯军队
+Garibaldi defeated the Neapolitan army:加里波第击败那不勒斯军队
 she was defeated by the last steep hill:她被最后一个陡峭的山丘打败了
 don't cheat by allowing your body to droop—this defeats the object of the exercise:不要通过让你的身体下垂来作弊——这会破坏锻炼的目的
 the amendment was defeated:修改被否决

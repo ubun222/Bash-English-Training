@@ -46,7 +46,7 @@ the emerging drug culture:新兴的毒品文化
 the cells proliferate readily in culture:细胞在培养中容易增殖
 the bacterium was isolated in two blood cultures:细菌在两次血培养中分离出来
 this variety of lettuce is popular for its ease of culture:这种生菜因其易于培养而广受欢迎
-several investigators have attempted to culture biliary cells:several研究人员试图培养胆管细胞
+several investigators have attempted to culture biliary cells:几位研究人员已尝试培养胆道细胞
 
 the action or practice of burying a dead body:埋葬尸体的行为或做法
 a ceremony at which someone's body is buried, a funeral:埋葬某人尸体的仪式，葬礼
@@ -61,9 +61,9 @@ bored |bɔːd| Adjective/:无聊的,使厌烦,无聊,厌烦
 she got bored with staring out of the window:她厌倦了盯着窗外
 large-bored guns:大口径枪
 
-have as belonging to one, own:have属于一个，拥有
+have as belonging to one, own:have 作为属于一个人，拥有
 have possession of as distinct from ownership:拥有不同于所有权
-have as an ability, quality, or characteristic:have作为一种能力、品质或特征
+have as an ability, quality, or characteristic:具有能力、品质或特征
 take for one's own:
 (of a demon or spirit, especially an evil one) have complete power over (someone) and be manifested through their speech or actions:（恶魔或精神，尤其是邪恶的）对（某人）有完全的权力，并通过他们的言语或行为表现出来
 (of an emotion, idea, etc.) dominate the mind of:（一种情感、想法等）支配
@@ -82,9 +82,9 @@ I tried to possess my soul in patience:我试着耐心地占有我的灵魂
 absence of difficulty or effort:没有困难或努力
 absence of rigidity or discomfort, poise:没有僵硬或不适，保持镇定
 freedom from worries or problems:从烦恼或问题中解脱出来
-make (something unpleasant or intense) less serious or severe:make（一些不愉快或强烈的）不太严重或严重
+make (something unpleasant or intense) less serious or severe:使（不愉快或激烈的事情）不那么严重或严重
 become less serious or severe:变得不那么严重或严重
-make (something) happen more easily, facilitate:make（某事）更容易发生，促进
+make (something) happen more easily, facilitate:使（某事）更容易发生，促进
 (of share prices, interest rates, etc.) decrease in value or amount:
 slacken a rope or sail.:松开绳索或帆。
 move carefully or gradually:小心或逐渐移动
@@ -95,7 +95,7 @@ I was always vexed by her self-contained ease:我总是被她自给自足的安�
 a life of wealth and ease:富贵安逸的生活
 a huge road-building programme to ease congestion:一个庞大的道路建设计划，以缓解拥堵
 international tension began to ease:国际紧张局势开始缓和
-Tokyo's dominance of government was deemed to ease efficient contact-making:Tokyo的政府主导地位被认为简化了有效的联系方式
+Tokyo's dominance of government was deemed to ease efficient contact-making:东京对政府的主导地位被认为可以促进有效的联系
 shares eased 6p to 224p:shares从6p降至224p
 I eased down the slope with care:我小心翼翼地缓下斜坡
 she eased off her shoes:她脱掉鞋子
@@ -130,7 +130,7 @@ the forward upper corner of a quadrilateral fore-and-aft sail.:四边形前后�
 throat |θrəʊt| Noun/:喉,喉咙,咽喉
 her throat was parched with thirst:她的喉咙干渴
 a gold pendant gleamed at her throat:一个金吊坠在她的喉咙上闪闪发光
-from a hundred throats came the cry ‘Vive l'Empereur!’:从一百个喉咙里传来了‘Empereur万岁！’的叫喊声。
+from a hundred throats came the cry ‘Vive l'Empereur!’:从一百个喉咙里发出“Vive l'Empereur！”的呼喊声。
 
 having or showing experience, knowledge, and good judgement:拥有或展示经验、知识和良好的判断力
 sensible or prudent:明智或谨慎
@@ -156,12 +156,12 @@ one's particular responsibility or concern:one的特定责任或关注
 a lover or spouse (often as a form of address):一个爱人或配偶（通常作为一种地址形式）
 a thing regarded with affection or familiarity:被喜爱或熟悉的事物
 comparatively small or immature of its kind:
-(of vegetables) picked before reaching their usual size:(of蔬菜)在达到正常大小之前采摘
+(of vegetables) picked before reaching their usual size:（蔬菜）在达到通常大小之前采摘
 treat (someone) as a baby, pamper or be overprotective towards:把（某人）当成婴儿，宠爱或过度保护
 baby |ˈbeɪbi| Adjective/Noun/Verb/:婴儿,小型的,百般呵护,宝宝,宝贝
 his wife's just had a baby:他老婆刚生完孩子
-bats only have one baby a year:bats一年只生一个孩子
-Clara was the baby of the family:Clara是家里的宝贝
+bats only have one baby a year:蝙蝠一年只生一个宝宝
+Clara was the baby of the family:克拉拉是家里的宝贝
 ‘Don't be such a baby!’ she said witheringly:“不要这么小！”她枯萎地说
 ‘This is your baby, Gerry,’ she said, handing him the brief:“这是你的宝贝，格里，”她说，把简报递给他
 my baby left me for another guy:我的宝贝为了另一个人离开了我
@@ -184,13 +184,13 @@ bitter or cutting remarks or tone of voice:苦涩或尖刻的言论或语气
 a molecule or other species which can donate a proton or accept an electron pair in reactions.:在反应中可以提供质子或接受电子对的分子或其他物质。
 the drug LSD:药物迷幻剂
 containing acid or having the properties of an acid, having a pH of less than 7.:
-sharp-tasting or sour:sharp-tastingorsour
+sharp-tasting or sour:酸味或酸味
 (of a person's remarks or tone) bitter or cutting:（一个人的言论或语气）苦涩或切割
 (of a colour) strikingly intense or bright:（一种颜色）非常强烈或明亮
 (of rock, especially lava) containing a relatively high proportion of silica:（岩石，尤其是熔岩）含有较高比例的二氧化硅
 relating to or denoting steel-making processes involving silica-rich refractories and slags:涉及或表示涉及富含二氧化硅的耐火材料和炉渣的炼钢工艺
 acid |ˈasɪd| Adjective/Noun/:酸,酸性
-trees were exposed to mixtures of heavy metals, acids, and overdoses of nutrients:trees暴露于重金属、酸和过量营养物质的混合物中
+trees were exposed to mixtures of heavy metals, acids, and overdoses of nutrients:树木暴露在重金属、酸和过量营养素的混合物中
 she was unable to quell the acid in her voice:她无法平息她声音中的酸味
 she didn't have a clue the sweet had acid in it:她不知道糖果里有酸
 acid soils:酸性土壤
@@ -225,9 +225,9 @@ a group of people constituted as the decision-making body of an organization:一
 the provision of regular meals when one stays somewhere, in return for payment or services:在某处停留时提供定期膳食，以换取付款或服务
 a table set for a meal:一张餐桌
 a distance covered by a vessel in a single tack:一艘船在一个大头钉中经过的距离
-get on or into (a ship, aircraft, or other vehicle):getonorinto(aship,aircraft,orothervehicle)
+get on or into (a ship, aircraft, or other vehicle):登上或进入（轮船、飞机或其他交通工具）
 (of an aircraft) be ready for passengers to get on:（飞机的）准备好让乘客上车
-live and receive regular meals in a house in return for payment or services:live并在家中接受常规膳食以换取付款或服务
+live and receive regular meals in a house in return for payment or services:在房子里生活和定期进餐，以换取报酬或服务
 (of a pupil) live in school during term time:（学生）学期期间住在学校
 provide (a person or animal) with regular meals and somewhere to live in return for payment:提供（人或动物）有规律的膳食和住处以换取报酬
 cover or seal a window or building with pieces of wood:用木块盖住或密封窗户或建筑物
@@ -245,9 +245,9 @@ he looked at the banquet which was spread upon his board:他看着铺在他板�
 we were tacking up to the anchor, shortening cable at each board:我们正在固定锚点，缩短每块板上的电缆
 we boarded the plane for Oslo:we登上飞往奥斯陆的飞机
 Flight 172 to Istanbul is now boarding:飞往伊斯坦布尔的172航班现在登机
-the cousins boarded for a while with Ruby:the表兄弟和Ruby一起登机了一段时间
+the cousins boarded for a while with Ruby:堂兄弟们和Ruby一起寄宿了一段时间
 parents had to cope with their child boarding at a special school:父母不得不应付他们的孩子在特殊学校的寄宿
-dogs may have to be boarded at kennels:dogs可能需要寄养在狗舍
+dogs may have to be boarded at kennels:狗可能必须在狗窝寄宿
 the shop was still boarded up:这家店还是被封了
 when we're not boarding, we're skiing:当我们不登机时，我们在滑雪
 
@@ -267,7 +267,7 @@ increase in rate, amount, or extent:增加速率、数量或范围
 undergo a change in velocity:经历速度变化
 accelerate |əkˈsɛləreɪt| Verb/:加速,加快,在
 the car accelerated towards her:汽车向她加速
-inflation started to accelerate:inflation开始加速
+inflation started to accelerate:通胀开始加速
 
 a fully grown female animal of a domesticated breed of ox, kept to produce milk or beef:一只完全成年的驯养牛的雌性动物，用来生产牛奶或牛肉
 (loosely) a domestic bovine animal, regardless of sex or age.:（松散地）家养的牛，不分性别或年龄。
@@ -290,7 +290,7 @@ travel in a motor vehicle:乘坐机动车辆旅行
 run or move as fast as possible:run或尽可能快地移动
 motor |ˈməʊtə| Adjective/Noun/Verb/:马达,发动机,电动机
 these electric motors are highly reliable:这些电动机非常可靠
-hormones are the motor of the sexual functions:hormones是性功能的发动机
+hormones are the motor of the sexual functions:荷尔蒙是性功能的原动力
 we drove out in my motor:我们开着我的车出去了
 a motor van:一辆面包车
 motor insurance:汽车保险
@@ -342,7 +342,7 @@ winter |ˈwɪntə| Adjective/Noun/Verb/:冬天,过冬,冬季,冬,夏季
 the tree has a good crop of berries in winter:这棵树冬天的浆果丰收
 he seemed a hundred winters old:他好像有一百岁了
 a winter apple:一个冬天的苹果
-birds wintering in the Channel Islands:birds在海峡群岛过冬
+birds wintering in the Channel Islands:在海峡群岛越冬的鸟类
 
 clearly visible or understood, obvious:清晰可见或理解，明显
 seeming real or true, but not necessarily so:看似真实或真实，但不一定如此

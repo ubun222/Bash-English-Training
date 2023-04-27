@@ -56,13 +56,13 @@ a fairly small theatre with 1,300 seats:一个相当小的剧院，有1,300个�
 he's got the worst seat on a horse of anyone I've ever seen:他的坐骑是我见过的最差的
 he lost his seat in the 1997 election:他在1997年的选举中失去了席位
 a safe Labour seat in the North-East:东北部的安全工党席位
-Parliament House was the seat of the Scots Parliament until the Union with England:ParliamentHouse在与英格兰联合之前是苏格兰议会的所在地
+Parliament House was the seat of the Scots Parliament until the Union with England:国会大厦是苏格兰议会的所在地，直到与英格兰联合
 Lamport Hall was the seat of the Isham family for over 400 years:Lamport Hall 是 Isham 家族的居所，已有 400 多年的历史
 if the valve seat is damaged, it can be recut using a special tool:如果阀座损坏，可以使用专用工具重新切割
-Owen seated his guests in the draughty baronial hall:Owen在通风良好的男爵大厅里让他的客人坐下
+Owen seated his guests in the draughty baronial hall:欧文让他的客人在通风良好的贵族大厅就座
 she invited them to be seated:她邀请他们入座
-the jet seats up to 175 passengers:thejet最多可容纳175名乘客
-upper boulders were simply seated in the interstices below:upper巨石只是简单地坐在下面的空隙中
+the jet seats up to 175 passengers:喷气式飞机最多可容纳 175 名乘客
+upper boulders were simply seated in the interstices below:上面的巨石只是简单地坐落在下面的空隙中
 
 a seat of learning | 学习之地,一个学习的地方
 
@@ -108,9 +108,9 @@ be able to bear (the weight of a person or thing):能够承受（人或物的重
 keep going in a particular direction:继续朝着特定的方向前进
 keep or detain (someone):保持或拘留（某人）
 keep possession of (something), typically in the face of a challenge or attack:保持拥有（某物），通常是在面临挑战或攻击时
-keep (someone's interest or attention).:keep（某人的兴趣或关注）。
+keep (someone's interest or attention).:保持（某人的兴趣或注意力）。
 (of a singer or musician) sustain (a note).:（歌手或音乐家的）延音（音符）。
-stay or cause to stay at a certain value or level:stay或导致停留在某个值或水平
+stay or cause to stay at a certain value or level:保持或导致保持在某个值或水平
 (in sport) manage to achieve a draw against (opponents thought likely to win):（在体育运动中）设法与（认为可能获胜的对手）取得平局
 remain secure, intact, or in position without breaking or giving way:保持安全、完整或在适当位置，不会断裂或让路
 (of a favourable condition or situation) continue without changing:（有利的条件或情况）继续不变
@@ -122,14 +122,14 @@ have or be characterized by:具有或具有以下特征
 have in one's possession:拥有
 be in possession of illegal drugs:持有非法毒品
 have or occupy (a job or position):拥有或占据（工作或职位）
-have (a belief or opinion):have（一种信念或意见）
-regard (someone or something) in a specified way:regard（某人或某事）以特定方式
+have (a belief or opinion):有（信念或意见）
+regard (someone or something) in a specified way:以特定的方式看待（某人或某物）
 (of a judge or court) rule, decide:（法官或法院的）规则，决定
-keep or reserve for someone:keep或为某人保留
-maintain (a phone connection) until the person one has called is free to speak:maintain（电话连接）直到被呼叫的人可以自由发言
+keep or reserve for someone:为某人保留或保留
+maintain (a phone connection) until the person one has called is free to speak:保持（电话连接）直到被呼叫的人可以自由发言
 prevent from going ahead or occurring:防止继续或发生
 refrain from adding or using (something, typically an item of food or drink):不要添加或使用（某物，通常是食物或饮料）
-wait or stop doing something:wait或停止做某事
+wait or stop doing something:等待或停止做某事
 restrain oneself:克制自己
 arrange and take part in (a meeting or conversation):安排并参加（会议或谈话）
 an act or manner of grasping something, a grip:抓住某物的动作或方式，抓握
@@ -141,13 +141,13 @@ a large compartment or space in the lower part of a ship or aircraft in which ca
 hold |hɛld| Noun/Verb/:抓住,控制,保持,持有,保留
 she was holding a brown leather suitcase:她拿着一个棕色皮箱
 I held the door open for him:我为他开门
-Mark pulled her into his arms and held her close:Mark把她拉进怀里，紧紧抱住她
+Mark pulled her into his arms and held her close:马克把她搂在怀里，紧紧地抱着她
 I reached up to the nearest branch which seemed likely to hold my weight:我伸手到最近的树枝上，它似乎可以支撑我的体重
 the car holds the corners very well:这辆车的弯道很好
 the ship is holding a south-easterly course:该船正在东南航向
 he held on his way, close behind his friend:他一直在路上，紧跟在他的朋友身后
 the police were holding him on a murder charge:警察以谋杀罪名将他拘捕
-the rebels held the town for many weeks:therebels占领了该镇数周
+the rebels held the town for many weeks:叛军占领了该镇数周之久
 AC Milan were held to a 1–1 draw by Udinese:AC米兰
 the boat's anchor would not hold:船的锚不能固定
 let's hope her luck holds:让我们希望她的好运
@@ -158,7 +158,7 @@ I can hold my drink as well as anyone:我可以像任何人一样拿着我的饮
 I don't know what the future holds:我不知道未来会怎样
 the managing director still holds fifty shares in the company:董事总经理仍持有公司50股股份
 he was holding, and the police hauled him off to jail:他抱着，警察把他拖进监狱
-she held office from 1985 to 90:she任职于1985年至90年
+she held office from 1985 to 90:她任职于1985年至90年
 I feel nothing but pity for someone who holds such chauvinistic views:我对持有这种沙文主义观点的人感到同情
 you can't hold yourself responsible for what happened:你不能让自己对发生的事情负责
 the Court of Appeal held that there was no evidence to support the judge's assessment:上诉法院认为没有证据支持法官的评估
@@ -186,7 +186,7 @@ habit |ˈhabɪt| Noun/Verb/:习惯,习性
 he has an annoying habit of interrupting me:他有个讨厌的习惯打断我
 a cocaine habit:一种可卡因习惯
 a shrub of spreading habit:一种传播习性的灌木
-nuns in long brown habits, black veils, and sandals:nuns身着长长的棕色习惯、黑色面纱和凉鞋
+nuns in long brown habits, black veils, and sandals:穿着长长的棕色衣服、黑色面纱和凉鞋的修女
 the prince has lately visited the copper mines of that kingdom, in the habit of a miner:王子最近以矿工的习惯参观了那个王国的铜矿
 a victim to a consumptive habit:消费习惯的受害者
 a boy habited as a serving lad:一个习惯当服务小伙子的男孩
@@ -261,13 +261,13 @@ under the authority of:根据授权
 under the control or domination of another ruler, country, or government:在另一个统治者、国家或政府的控制或统治下
 conditionally upon:有条件地
 cause or force someone or something to undergo (a particular experience or form of treatment, typically an unwelcome or unpleasant one):导致或强迫某人或某事经历（一种特殊的经历或形式的治疗，通常是不受欢迎或不愉快的）
-bring (a person or country) under one's control or jurisdiction, typically by using force:bring（个人或国家）在某人的控制或管辖下，通常使用武力
+bring (a person or country) under one's control or jurisdiction, typically by using force:将（一个人或国家）置于某人的控制或管辖之下，通常是使用武力
 subject |ˈsʌbdʒɪkt| Adjective/Adverb/Noun/Verb/:主题,取决于,学科,使臣服,科目
 I've said all there is to be said on the subject:关于这个话题我已经说了所有要说的
 the incident was the subject of international condemnation:该事件受到国际谴责
-subjects were asked to complete a questionnaire:subjects被要求填写一份问卷
+subjects were asked to complete a questionnaire:受试者被要求完成问卷
 the chorale-like second subject of the Scherzo:谐谑曲的合唱般的第二主题
-maths is not my best subject:maths不是我最好的科目
+maths is not my best subject:数学不是我最好的科目
 the legislation is applicable only to British subjects:该立法仅适用于英国科目
 he was subject to bouts of manic depression:他患有躁狂抑郁症
 the proposed merger is subject to the approval of the shareholders:拟合并尚需经股东批准
@@ -286,17 +286,17 @@ subject to | 受制于,服从
 utter words so as to convey information, an opinion, a feeling or intention, or an instruction:发声以传达信息、意见、感觉或意图或指示
 (of a text or a symbolic representation) convey specified information or instructions:（文本或符号表示）传达特定的信息或指示
 enable a listener or reader to learn or understand something by conveying or revealing (information or ideas):使听众或读者能够通过传达或揭示（信息或想法）来学习或理解某事
-(of a clock or watch) indicate (a specified time):(钟表的)表示(指定的时间)
+(of a clock or watch) indicate (a specified time):（时钟或手表）指示（指定时间）
 be asserted or reported:被断言或报告
 present a consideration in favour of or excusing (someone or something):提出有利于或原谅（某人或某事）的考虑
 utter the whole of (a speech or other set of words, typically one learned in advance):说出整个（一段演讲或一组词，通常是事先学过的）
-assume something in order to work out what its consequences would be, make a hypothesis:assume某事为了弄清楚它的后果是什么，做一个假设
+assume something in order to work out what its consequences would be, make a hypothesis:假设某事是为了弄清楚它的后果是什么，做一个假设
 used parenthetically to indicate that something is being suggested as possible or likely but not certain:用括号表示某事被建议为可能或可能但不确定
 say |sɛz| Interjection/Noun/Verb/:说,发言权,比如说
 I don't want to say too much:我不想说太多
 the clock says ten past two:时钟说两点十点
 all I can say for him is that he's a better writer than some:我只能对他说他是一个比某些人更好的作家
-the padre finished saying the Nunc Dimittis:教士说完NuncDimittis
+the padre finished saying the Nunc Dimittis:神父说完了 Nunc Dimittis
 let's say we pay in five thousand pounds in the first year:假设我们第一年支付五千英镑
 the form might include, say, a dozen questions:表格可能包括，比如说，十几个问题
 
@@ -313,7 +313,7 @@ the airport terminal was the target of a bomb:机场航站楼是炸弹的目标
 the car met its sales target in record time:这辆车在创纪录的时间内达到了销售目标
 they were the target for a wave of abuse from the press:他们是媒体一波谩骂的目标
 two men were targeted by the attackers:两名男子成为袭击者的目标
-warheads were targeted on a European city:warheads瞄准欧洲城市
+warheads were targeted on a European city:弹头瞄准欧洲城市
 
 a disorder of structure or function in a human, animal, or plant, especially one that has a known cause and a distinctive group of symptoms, signs, or anatomical changes:人类、动物或植物的结构或功能紊乱，尤指具有已知原因和一组独特的症状、体征或解剖学变化的疾病
 a particular quality or disposition regarded as adversely affecting a person or group of people:被认为对一个人或一群人产生不利影响的特定品质或性格
@@ -341,13 +341,13 @@ the land along the edge of a sea, lake, or other large body of water:沿海、�
 the land between ordinary high- and low-water marks.:普通高低水位线之间的土地。
 a country or other geographic area bounded by a coast:以海岸为界的国家或其他地理区域
 a prop or beam set obliquely against something weak or unstable as a support.:斜向设置在薄弱或不稳定物体上的支柱或横梁作为支撑。
-support or hold up something with props or beams:support或用道具或横梁举起东西
+support or hold up something with props or beams:用道具或横梁支撑或举起某物
 support or assist something that would otherwise fail or decline:支持或协助一些否则会失败或拒绝的事情
 shore |ʃɔː| Noun/Verb/:支撑,岸,岸边,海岸
 I took the tiller and made for the shore:我拿着舵柄驶向岸边
-record companies have been anxious to import the music to American shores:record公司一直急于将音乐进口到美国海岸
-rescue workers had to shore up the building, which was in danger of collapse:rescue工作人员不得不支撑建筑物，该建筑物有倒塌的危险
-Congress approved a $700 billion plan to shore up the financial industry:Congress批准了一项7000亿美元的计划以支持金融业
+record companies have been anxious to import the music to American shores:唱片公司一直急于将音乐进口到美国海岸
+rescue workers had to shore up the building, which was in danger of collapse:救援人员不得不支撑建筑物，该建筑物有倒塌的危险
+Congress approved a $700 billion plan to shore up the financial industry:国会批准了一项 7000 亿美元的计划来支撑金融业
 
 shores | 海岸,岸边
 
@@ -417,7 +417,7 @@ congratulations | 祝贺,恭喜你
 
 
 suitable or proper in the circumstances:适合或适当的情况
-take (something) for one's own use, typically without the owner's permission:take（某物）供自己使用，通常未经所有者许可
+take (something) for one's own use, typically without the owner's permission:拿走（某物）供自己使用，通常未经所有者许可
 devote (money or assets) to a special purpose:将（金钱或资产）用于特殊目的
 appropriate |əˈprəʊprɪət| Adjective/Verb/:合适的,挪用,适当,合适,适当的
 this isn't the appropriate time or place:这不是合适的时间或地点
@@ -438,7 +438,7 @@ sharply curved or having an angle:急剧弯曲或有角度
 determined to do or have:决心做或有
 dishonest, corrupt:不诚实，腐败
 stolen.:被盗。
-homosexual (typically used of a man).:homosexual（通常用于男性）。
+homosexual (typically used of a man).:同性恋（通常用于男性）。
 a natural talent or inclination:天赋或倾向
 a stiff grass which is used for lawns and is a component of pasture and hay grasses.:一种用于草坪的硬草，是牧草和干草的组成部分。
 the stiff flowering stalk of a grass:僵硬的小草
@@ -451,29 +451,29 @@ a bent cop:一个弯曲的警察
 a man of a religious bent:一个有宗教倾向的人
 those nasty bents of ryegrass that are very efficient at ducking the mower:那些讨厌的黑麦草弯曲，它们在躲避割草机时非常有效
 
-shape or force (something straight) into a curve or angle:shape或力量（直的东西）变成曲线或角度
+shape or force (something straight) into a curve or angle:将（直线的东西）形状或用力变成曲线或角度
 (of something straight) be shaped or forced into a curve or angle:（直的东西）被塑造或强迫成曲线或角度
 (of a road, river, or path) deviate from a straight line in a specified direction:（道路、河流或路径的）偏离指定方向的直线
 (of a person) incline the body downwards from the vertical:(人的)身体从垂直方向向下倾斜
-move (a jointed part of the body) to an angled position:move（身体的关节部分）到一个有角度的位置
-force or be forced to submit:force或被迫提交
+move (a jointed part of the body) to an angled position:将（身体的关节部分）移动到一个倾斜的位置
+force or be forced to submit:强制或被迫提交
 interpret or modify (a rule) to suit someone:解释或修改（规则）以适合某人
-direct (one's attention or energies) to a task:direct（一个人的注意力或精力）完成一项任务
-attach (a sail or cable) by means of a knot:attach（帆或缆绳）通过一个结
+direct (one's attention or energies) to a task:将（一个人的注意力或精力）引导到一项任务上
+attach (a sail or cable) by means of a knot:用结系（帆或缆）
 a curve in a road, river, path, or racing circuit:道路、河流、小路或赛道中的弯道
 a curved or angled part of something:某物的弯曲或成角度的部分
 a kind of knot used to join two ropes together, or to tie a rope to another object, e.g. a carrick bend.:一种用于将两条绳索连接在一起的结，或将绳索系在另一个物体上，例如。卡里克弯
 decompression sickness, especially in divers.:减压病，尤其是潜水员。
-an ordinary in the form of a broad diagonal stripe from top left (dexter chief) to bottom right (sinister base) of a shield or part of one:一个普通的盾牌或盾牌的一部分，从左上角（dexterChief）到右下角（险恶的底部）呈宽斜条纹形式
+an ordinary in the form of a broad diagonal stripe from top left (dexter chief) to bottom right (sinister base) of a shield or part of one:从盾牌的左上角（dexter chief）到右下角（sinister base）或盾牌的一部分的宽斜条纹形式的普通
 bend |bɛnd| Noun/Verb/:弯曲,弯,屈,折弯
 the wire has to be bent back tightly:电线必须向后弯紧
-poppies bending in the wind:poppies在风中弯曲
+poppies bending in the wind:罂粟在风中弯曲
 the road bent left and then right:这条路向左然后向右弯曲
-she bent down and yanked out the flex:she弯下腰，猛拉出flex
+she bent down and yanked out the flex:她弯下腰，拉出软线
 extend your left leg and bend your right:左腿伸直，右腿弯曲
 we cannot bend the rules, even for Darren:我们不能改变规则，即使是达伦
-Eric bent all his efforts to persuading them to donate some blankets:Eric竭尽全力说服他们捐赠一些毯子
-sailors were bending sails to the spars:sailors向桅杆弯曲帆
+Eric bent all his efforts to persuading them to donate some blankets:埃里克竭尽全力说服他们捐出一些毯子
+sailors were bending sails to the spars:水手们正在将帆向桅杆弯曲
 the van screeched round a bend:面包车在拐弯时发出尖叫声
 make a bend in the wire:使电线弯曲
 a narrow bend, either dexter or sinister, lying across the other charges on a shield:一个狭窄的弯道，无论是敏捷的还是险恶的，横跨盾牌上的其他电荷
@@ -488,13 +488,13 @@ the two men could get life sentences if they are convicted:这两名男子如果
 the rest, as they say, is history:其余的，正如他们所说，是历史
 they cut my water off:他们切断了我的水源
 ask a friend if they could help:询问朋友是否可以提供帮助
-Asher thought they were the only non-binary person at school until a couple of weeks ago:Asher直到几周前还以为他们是学校里唯一的非二进制人
+Asher thought they were the only non-binary person at school until a couple of weeks ago:直到几周前，Asher 还认为他们是学校里唯一的非二元性别者
 
 go in a specified direction or manner, change position:朝指定的方向或方式前进，改变位置
 change the place, position, or state of:更改位置、位置或状态
 change one's place of residence or work:改变居住地或工作地
 (of a player) change the position of a piece in a board game:（玩家的）改变棋子在棋盘游戏中的位置
-depart, start off:depart，开始
+depart, start off:出发，出发
 hurry up:快点
 go quickly:快点去
 (with reference to merchandise) sell or be sold:(参照商品)卖或被卖
@@ -506,7 +506,7 @@ arouse a strong feeling, especially of sorrow or sympathy, in (someone):在（�
 stir up (an emotion) in someone:在某人身上激起（一种情绪）
 propose for discussion and resolution at a meeting or legislative assembly:建议在会议或立法会议上讨论和决议
 apply formally to (a court or assembly) for something:正式向（法院或集会）申请某事
-empty (the bowels):empty（肠子）
+empty (the bowels):清空（肠子）
 a change of place, position, or state:地点、位置或状态的改变
 a change of house or business premises:房屋或营业场所的变化
 an act that initiates or advances a process or plan:启动或推进流程或计划的行为
@@ -516,13 +516,13 @@ move |muːv| Noun/Verb/:移动,动起来
 she moved to the door:她搬到门口
 she moved the tray to a side table:她把托盘移到边桌
 his family moved to London when he was a child:他的家人在他还是个孩子的时候搬到了伦敦
-White has forced his opponent to move:White迫使对手移动
-let's move—it's time we started shopping:let'smove—我们该开始购物了
+White has forced his opponent to move:白方迫使他的对手走
+let's move—it's time we started shopping:出发吧——是时候开始购物了
 come on—move it!:来吧——动起来！
-Kennings was really moving when he made contact with a tyre at the hairpin and flipped over:Kennings在发夹处接触到轮胎并翻转时真的很感动
-aircraft design had moved forward a long way:aircraftdesign取得了长足的进步
+Kennings was really moving when he made contact with a tyre at the hairpin and flipped over:当肯宁斯在发夹处与轮胎接触并翻倒时，他真的动了
+aircraft design had moved forward a long way:飞机设计已经向前迈进了很长一段路
 the school moved over to the new course in 1987:学校于1987年迁入新课程
-hardliners may yet move against him, but their success might be limited:hardliners可能会反对他，但他们的成功可能是有限的
+hardliners may yet move against him, but their success might be limited:强硬派可能仍会反对他，但他们的成功可能有限
 his deep love of music moved him to take lessons with Dr Hill:他对音乐的热爱促使他跟随希尔博士上课
 she felt deeply moved by this picture of his plight:她被这张他的困境照片深深感动
 he justly moves one's derision:他理直气壮地取笑
@@ -530,16 +530,16 @@ she intends to move an amendment to the Bill:她打算动议对该法案的修�
 his family moved the Special Court for adequate ‘maintenance expenses’ to run the household:他的家人为了足够的“维持费用”搬到了特别法庭来经营这个家庭
 if you haven't moved your bowels today you'd better do it now:如果你今天还没有大便，你最好现在就去做
 she made a sudden move towards me:她突然向我走来
-Annie mourned her move from the noisy, crowded town to the peace of the countryside:Annie哀悼她从嘈杂拥挤的小镇搬到宁静的乡村
+Annie mourned her move from the noisy, crowded town to the peace of the countryside:安妮为自己从喧闹、拥挤的城镇搬到宁静的乡村而悲痛不已
 my next move is to talk to Matthew:我的下一步是和马修谈谈
-Robson began a move which saw Webb run from the halfway line down the right:Robson开始移动，看到韦伯从中线跑到右边
-in this position Karpov had to seal his 41st move:inthisposition卡尔波夫必须完成他的第41步
+Robson began a move which saw Webb run from the halfway line down the right:罗布森开始移动，看到韦伯从中线跑到右边
+in this position Karpov had to seal his 41st move:在这个位置上，卡尔波夫不得不锁定他的第 41 步
 
 a large bird of prey with a massive hooked bill and long broad wings, known for its keen sight and powerful soaring flight.:一种大型猛禽，长着巨大的钩状喙和长而宽的翅膀，以其敏锐的视力和强大的翱翔飞行而闻名。
 a figure of an eagle, especially as a symbol of the US.:鹰的形象，特别是作为美国的象征。
 a score of two strokes under par at a hole:一个洞低于标准杆两杆的成绩
 a former gold coin worth ten dollars.:一枚价值十美元的前金币。
-play (a hole) in two strokes under par:play（一个洞）低于标准杆两杆
+play (a hole) in two strokes under par:打（一洞）低于标准杆两杆
 eagle |ˈiːɡl| Noun/Verb/:鹰,老鹰,雕
 he eagled the last to share fourth place:他抢到最后一个分享第四名
 

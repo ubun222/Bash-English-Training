@@ -52,7 +52,6 @@ a pair of nylons:一对尼龙
 
 a carved or cast figure of a person or animal, especially one that is life-size or larger.:人或动物的雕刻或铸造人物，尤其是真人大小或更大的人物。
 statue |ˈstatʃuː| Noun/:雕像,塑像
-:
 
 a person who sees an event, typically a crime or accident, take place:看到事件（通常是犯罪或事故）发生的人
 a person giving sworn testimony to a court of law or the police:向法院或警察宣誓作证的人
@@ -69,16 +68,15 @@ be a sign or proof of (something), serve as evidence:beasignorproofof(something)
 used to introduce an example that proves a preceding statement:用于介绍证明前面陈述的例子
 openly profess one's religious faith:公开承认自己的宗教信仰
 witness |ˈwɪtnɪs| Noun/Verb/:见证,见证人,证人,目睹,目击者
-police are appealing for witnesses to the accident:police正在呼吁事故的目击者
+police are appealing for witnesses to the accident:警方呼吁事故目击者提供线索
 a key witness at the trial:审判中的关键证人
 a deed signed in the presence of a witness:在证人面前签署的契约
 the memorial service was witness to the wide circle of his interests:追悼会见证了他广泛的兴趣
-:
 they will be able to give witness of their faith and confidence in God:他们将能够见证他们对上帝的信心和信心
 staff who witnessed the murder:目击谋杀案的工作人员
 the clerk witnessed her signature:店员见证了她的签名
 what we are witnessing is the birth of a new political entity:我们正在见证一个新政治实体的诞生
-the 1980s witnessed an unprecedented increase in the scope of the electronic media:the1980s见证了电子媒体范围的空前扩大
+the 1980s witnessed an unprecedented increase in the scope of the electronic media:80 年代见证了电子媒体范围的空前扩大
 the mid-1980s saw an intensification of interest in community care, as witnessed by the publication of four major reports:themid-1980s见证了对社区护理的兴趣增强，四份主要报告的出版证明了这一点
 the nuclear family is a vulnerable institution—witness the rates of marital breakdown:核心家庭是一个脆弱的机构——见证婚姻破裂的比率
 one of the purposes of his coming was to nerve the disciples to witness to Jesus:他来的一个目的是让门徒们为耶稣作见证
@@ -89,7 +87,7 @@ characterized by or causing hardships or problems:以困难或问题为特征或
 difficult |ˈdɪfɪklt| Adjective/:难的,难,困难,难以,困难的
 she had a difficult decision to make:她做了一个艰难的决定
 a difficult economic climate:艰难的经济环境
-Lily could be difficult:Lily可能很难
+Lily could be difficult:百合可能很难
 
 concerned with the principles of right and wrong behaviour:关注行为对错原则
 concerned with or derived from the code of behaviour that is considered right or acceptable in a particular society:关注或源自特定社会认为正确或可接受的行为准则
@@ -115,9 +113,9 @@ without evidence, they can't bring a charge:没有证据，他们不能提出指
 there was no obvious evidence of a break-in:没有明显的闯入证据
 the quality of the bracelet, as evidenced by the workmanship, is exceptional:手链的质量，从做工上可以看出，非常出色
 
-flow rapidly in a steady stream:flow快速源源不断
+flow rapidly in a steady stream:快速稳定地流动
 cause (a liquid) to flow from a container in a steady stream:导致（液体）从容器中源源不断地流出
-prepare and serve (a drink):prepareandserve(一杯饮料)
+prepare and serve (a drink):准备和服务（一杯饮料）
 come or go in a steady stream and in large numbers:来来往往，人数众多
 (of rain) fall heavily:(雨)大雨倾盆
 pour |pɔː| Verb/:倒,倾,倾吐
@@ -130,11 +128,11 @@ the storm clouds gathered and the rain poured down:乌云密布，大雨倾盆
 a diagrammatic representation of an area of land or sea showing physical features, cities, roads, etc.:显示物理特征、城市、道路等的陆地或海洋区域的图解表示。
 a two-dimensional representation of the positions of stars or other astronomical objects:恒星或其他天文物体位置的二维表示
 a diagram or collection of data showing the spatial arrangement or distribution of something over an area:一个图表或数据集合，显示某物在一个区域内的空间排列或分布
-a representation of the sequence of genes on a chromosome or genome, or of bases in a DNA or RNA molecule:染色体或基因组上基因序列的表示，或DNA或RNA分子中碱基的表示
+a representation of the sequence of genes on a chromosome or genome, or of bases in a DNA or RNA molecule:染色体或基因组上基因序列的表示，或 DNA 或 RNA 分子中碱基的表示
 a person's face:一个人的脸
-represent (an area) on a map, make a map of:represent（一个区域）在一张地图上，制作一张地图
+represent (an area) on a map, make a map of:在地图上表示（一个区域），制作一张地图
 record in detail the spatial distribution of (something):详细记录（某物）的空间分布
-associate (a group of elements or qualities) with an equivalent group, according to a particular formula or model:associate（一组元素或质量）与一个等效组，根据特定的公式或模型
+associate (a group of elements or qualities) with an equivalent group, according to a particular formula or model:根据特定的公式或模型，将（一组元素或质量）与等价组相关联
 be associated with or linked to (an equivalent group):与（同等组）有关联或联系
 associate each element of (a set) with an element of another set:将（一个集合）的每个元素与另一个集合的一个元素相关联
 map |map| Noun/Verb/:地图,绘制地图,图,映射
@@ -143,7 +141,7 @@ she went inside to check a star map:她进去查看星图
 an electron density map:一个电子密度图
 a physical and genetic map of the entire human genome:整个人类基因组的物理和遗传图谱
 you ought to know my map by now:你现在应该知道我的地图了
-inaccessible parts will be mapped from the air:inaccessible部分将从空中映射
+inaccessible parts will be mapped from the air:无法接近的部分将从空中映射
 the project to map the human genome:绘制人类基因组图的项目
 the transformational rules map deep structures into surface structures:转换规则将深层结构映射到表层结构
 it is not obvious that the subprocesses of language will map on to individual brain areas:语言的子过程将映射到各个大脑区域并不明显
@@ -186,19 +184,19 @@ an agreement or settlement of a dispute that is reached by each side making conc
 an intermediate state between conflicting alternatives reached by mutual concession:通过相互让步达成的相互冲突的备选方案之间的中间状态
 the expedient acceptance of standards that are lower than is desirable:权宜之计接受低于理想的标准
 settle a dispute by mutual concession:通过相互让步解决争端
-expediently accept standards that are lower than is desirable:expediently接受低于期望的标准
+expediently accept standards that are lower than is desirable:方便地接受低于预期的标准
 weaken or harm by accepting standards that are lower than is desirable:通过接受低于期望的标准而削弱或伤害
 bring into disrepute or danger by indiscreet, foolish, or reckless behaviour:因轻率、愚蠢或鲁莽的行为而名誉扫地或陷入危险
 cause to become vulnerable or function less effectively:导致变得脆弱或运作效率降低
 compromise |ˈkɒmprəmʌɪz| Noun/Verb/:妥协,让步,在
 eventually they reached a compromise:最终他们达成了妥协
 a compromise between the freedom of the individual and the need to ensure orderly government:个人自由与确保有序政府的需要之间的妥协
-sexism should be tackled without compromise:sexism应该毫不妥协地解决
+sexism should be tackled without compromise:性别歧视应该毫不妥协地解决
 in the end we compromised and deferred the issue:最后我们妥协并推迟了这个问题
 we were not prepared to compromise on safety:我们不准备在安全上妥协
 he won't accept any decisions which compromise his principles:他不会接受任何有损其原则的决定
 situations in which his troops could be compromised:他的部队可能受到威胁的情况
-yo-yo dieting can compromise your immune system:yo-yo节食会损害你的免疫系统
+yo-yo dieting can compromise your immune system:溜溜球节食会损害您的免疫系统
 
 compromise oneself | 妥协,妥协自己
 
@@ -210,7 +208,7 @@ a reason or reasons for acting or behaving in a particular way:以特定方式�
 desire or willingness to do something, enthusiasm:渴望或愿意做某事，热情
 a set of facts and arguments used in support of a proposal:一组用于支持提案的事实和论据
 motivation |ˌməʊtɪˈveɪʃn| Noun/:动机,激励
-escape can be a strong motivation for travel:escape可以成为旅行的强大动力
+escape can be a strong motivation for travel:逃离可能是旅行的强大动力
 keep staff up to date and maintain interest and motivation:让员工保持最新状态并保持兴趣和积极性
 the following proposal and motivation is submitted for consideration:提交以下提案和动机以供考虑
 
@@ -247,11 +245,11 @@ the main events of a play, novel, film, or similar work, devised and presented b
 a small piece of ground marked out for a purpose such as building or gardening:一小块标记用于建筑或园艺等目的的地面
 a graph showing the relation between two variables.:显示两个变量之间关系的图表。
 a diagram, chart, or map.:
-secretly make plans to carry out (an illegal or harmful action):secretly制定计划执行（非法或有害行为）
+secretly make plans to carry out (an illegal or harmful action):暗中制定实施（非法或有害行为）的计划
 devise the sequence of events in (a play, novel, film, or similar work):设计（戏剧、小说、电影或类似作品）中的事件顺序
-mark (a route or position) on a chart:mark（路线或位置）在图表上
+mark (a route or position) on a chart:在图表上标记（路线或位置）
 mark out or allocate (points) on a graph:在图表上标记或分配（点）
-make (a curve) by marking out a number of points on a graph:make（一条曲线）通过在图表上标出一些点
+make (a curve) by marking out a number of points on a graph:通过在图表上标出一些点来制作（一条曲线）
 illustrate by use of a graph:用图表说明
 plot |plɒt| Noun/Verb/:阴谋,密谋,情节,剧情
 the plot consists almost entirely of a man and woman falling in love:剧情几乎全是一男一女坠入爱河
@@ -269,7 +267,7 @@ an offer of something enticing as a means of persuasion (often contrasted with t
 a nickname for a red-haired person:红发人的昵称
 carrot |ˈkarət| Noun/:萝卜,胡萝卜,红萝卜
 roast lamb with peas and carrots:烤羊肉配豌豆和胡萝卜
-carrots will promote cooperation over the environment far more effectively than sticks:carrots将比大棒更有效地促进环境合作
+carrots will promote cooperation over the environment far more effectively than sticks:胡萝卜比大棒更能促进环境合作
 He pulled her red plaits and said in a loud whisper, ‘Carrots! Carrots!’:他扯了扯她的红辫，低声说，‘胡萝卜！萝卜！'
 
 not anything, no single thing:不是任何东西，没有任何东西
@@ -297,7 +295,7 @@ the ability of someone or something to influence decisions or actions:某人或�
 the importance attributed to something:归因于某事的重要性
 a factor associated with one of a set of numerical quantities, used to represent its importance relative to the other members of the set.:与一组数字量中的一个相关的因子，用于表示其相对于该组其他成员的重要性。
 the surface density of cloth, used as a measure of its quality.:布的表面密度，用来衡量其质量。
-hold (something) down by placing a heavy object on top of it:hold（某物）通过在它上面放一个重物来放下
+hold (something) down by placing a heavy object on top of it:用重物压住（某物）
 attach a heavy object to (something), especially so as to make it stay in place:将重物附在（某物）上，尤其是为了使它保持在原位
 attribute importance or value to:属性重要性或价值
 be planned or arranged so as to put a specified person, group, or factor in a position of advantage or disadvantage:被计划或安排以使特定的人、群体或因素处于有利或不利的位置
@@ -334,7 +332,7 @@ a person or thing that may help or save someone:可以帮助或拯救某人的�
 grounds for believing that something good may happen:有理由相信好事可能会发生
 a feeling of trust:一种信任感
 want something to happen or be the case:想要某事发生或成为这种情况
-intend if possible to do something:intend如果可能的话做某事
+intend if possible to do something:如果可能的话打算做某事
 hope |həʊp| Noun/Verb/:希望,盼
 he looked through her belongings in the hope of coming across some information:
 their only hope is surgery:他们唯一的希望是手术
@@ -345,12 +343,11 @@ we're hoping to address all these issues:我们希望解决所有这些问题
 
 a large, heavy motor vehicle for transporting goods or troops, a truck:用于运输货物或部队的大型重型机动车辆，卡车
 lorry |ˈlɒri| Noun/:,卡车,罗里
-:
 
 in a manner that makes a lot of noise:以一种很吵的方式
 in a manner that stridently seeks to attract attention to one's views:以一种强烈地试图引起人们对自己观点的关注的方式
 noisily |ˈnɔɪzɪli| Adverb/:吵闹,吵吵嚷嚷
-helicopters hovered noisily overhead:helicopters在头顶喧闹地盘旋
+helicopters hovered noisily overhead:直升机在头顶嘈杂地盘旋
 he has noisily criticized pension reform plans:他大声批评养老金改革计划
 
 a visible mass of condensed watery vapour floating in the atmosphere, typically high above the general level of the ground:漂浮在大气中的可见的凝结水蒸气团，通常高于地面的一般水平
@@ -359,18 +356,16 @@ a large number of insects or birds moving together:大量昆虫或鸟类一起�
 an opaque patch within a transparent substance.:透明物质内的不透明补丁。
 used to refer to a state or cause of gloom, suspicion, trouble, or worry:用于表示忧郁、怀疑、麻烦或担忧的状态或原因
 a frowning or depressed look:皱眉或沮丧的表情
-networked computing facilities providing remote data storage and processing services via the internet:networked计算设施通过互联网提供远程数据存储和处理服务
+networked computing facilities providing remote data storage and processing services via the internet:通过互联网提供远程数据存储和处理服务的联网计算设施
 (of the sky) become overcast or gloomy:（天空的）变得阴沉或阴沉
-darken (the sky) with cloud:darken（天空）有云
-make or become less clear or transparent:make或变得不那么清晰或不透明
-make (a matter or mental process) unclear or uncertain:make（事物或心理过程）不清楚或不确定
+darken (the sky) with cloud:用云使（天空）变暗
+make or become less clear or transparent:使或变得不那么清晰或透明
+make (a matter or mental process) unclear or uncertain:使（事物或心理过程）不清楚或不确定
 spoil (something):spoil（东西）
 (of someone's face or eyes) show an emotion such as worry, sorrow, or anger:（某人的脸或眼睛）表现出忧虑、悲伤或愤怒等情绪
 (of an emotion such as worry, sorrow, or anger) show in (someone's face):（表示担心、悲伤或愤怒等情绪）表现在（某人的脸上）
 cloud |klaʊd| Noun/Verb/:云,使模糊,云计算
 the sun had disappeared behind a cloud:太阳消失在云层后面
-:
-:
 the only cloud on the immediate horizon is raising a mortgage:眼前唯一的阴云正在筹集抵押贷款
 a cloud passed over Jessica's face:一朵云从杰西卡的脸上掠过
 there's a rich, complex, shared data store in the cloud:云中有一个丰富、复杂、共享的数据存储
@@ -379,19 +374,19 @@ the western sky was still clouded:西方的天空仍然乌云密布
 don't allow your personal feelings to cloud your judgement:不要让你的个人感受影响你的判断
 the general election was clouded by violence:大选被暴力笼罩
 his expression clouded over:他的表情阴云密布
-suspicion clouded her face:suspicion遮住了她的脸
+suspicion clouded her face:怀疑蒙上了她的脸
 
 a matter dealt with in a text, discourse, or conversation, a subject:在文本、话语或对话中处理的问题，一个主题
 that part of a sentence about which something is said, typically the first major constituent.:句子中所说的部分，通常是第一个主要成分。
 topic |ˈtɒpɪk| Noun/:话题,主题,题目
-sleep deprivation became a frequent topic of conversation:sleepdeprivation成为经常谈论的话题
+sleep deprivation became a frequent topic of conversation:睡眠不足成为话题
 
-squeeze (someone) tightly in one's arms, typically to express affection:squeeze（某人）紧紧地抱在怀里，通常是为了表达爱意
+squeeze (someone) tightly in one's arms, typically to express affection:将（某人）紧紧地抱在怀里，通常表示爱意
 hold (something) closely or tightly round or against part of one's body:握住（某物）紧紧地或紧紧地环绕或靠在身体的某个部位
 fit tightly round:紧身圆形
 keep close to:保持靠近
 congratulate or be pleased with oneself:祝贺或对自己感到满意
-cherish or cling to (something such as a belief):cherish或坚持（诸如信念之类的东西）
+cherish or cling to (something such as a belief):珍惜或坚持（如信仰）
 an act of holding someone tightly in one's arms, typically to express affection:一种将某人紧紧抱在怀里的行为，通常是为了表达爱意
 a squeezing grip in wrestling.:摔跤中的紧握。
 hug |hʌɡ| Noun/Verb/:拥抱,搂,抱着
@@ -410,21 +405,21 @@ hug oneself | 拥抱自己,抱抱
 
 
 the relative extent of something, a thing's overall dimensions or magnitude, how big something is:某事物的相对范围，事物的整体尺寸或大小，事物有多大
-extensive dimensions or magnitude:extensive尺寸或量级
+extensive dimensions or magnitude:广泛的维度或规模
 each of the classes, typically numbered, into which garments or other articles are divided according to how large they are:每个类别，通常有编号，服装或其他物品根据它们的大小分为哪些类别
 a person or garment corresponding to a particular numbered size:与特定编号尺寸相对应的人或衣服
-alter or sort in terms of size or according to size:alter或按大小排序或按大小排序
-estimate or measure something's dimensions:estimate或测量某物的尺寸
+alter or sort in terms of size or according to size:根据大小或根据大小更改或排序
+estimate or measure something's dimensions:估计或测量某物的尺寸
 form an estimate or rough judgement of someone or something:形成对某人或某事的估计或粗略判断
 having a specified size, sized:有一个指定的大小，大小
 a gelatinous solution used in glazing paper, stiffening textiles, and preparing plastered walls for decoration.:一种凝胶状溶液，用于上光纸、硬化纺织品和准备抹灰墙进行装饰。
-treat with size to glaze or stiffen:treat与大小一起上釉或变硬
+treat with size to glaze or stiffen:用尺寸处理以上釉或变硬
 size |sʌɪz| Adjective/Noun/Verb/:尺寸,测量大小,大小
 the schools varied in size:大小不一的学校
 she seemed slightly awed by the size of the building:她似乎对这座建筑的大小感到有些敬畏
 I can never find anything in my size:我永远找不到像我这样的尺码的东西
 she's a size 10:她的尺码为10
-twist drills are sized in millimetres:twist钻头尺寸以毫米为单位
+twist drills are sized in millimetres:麻花钻的尺寸以毫米为单位
 she was trying to size up a room with a tape measure:她试图用卷尺测量房间的大小
 the two men sized each other up:两人互相打量
-marble-size chunks of hail:marble大小的冰雹块
+marble-size chunks of hail:大理石大小的冰雹块

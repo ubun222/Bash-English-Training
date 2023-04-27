@@ -28,4 +28,660 @@ demonstrate					示范操作，证明，表露
 basin						盆地，流域
 price								价格，代价，给...定价
 marginal			微不足道的，非主流的，边缘的
-\\\\
+\\\\\\\\
+
+~ (that…) 反对；异议:
+objection |[əbˈdʒekʃn]
+I have no objection to him coming to stay. 我不反对他来小住。
+I'd like to come too, if you have no objection. 如果你不反对，我也想来。
+The main objection to the plan was that it would cost too much. 反对这个计划的主要理由是费用过高。
+to raise an objection to sth 对…提出异议 
+No objections were raised at the time. 当时没人提出异议。
+I have no objection to banks making money. 我对银行营利并不抵触。
+I no longer have any objection to your going to see her. 我不会再因为你去见她而不高兴。
+The proposal will go ahead despite strong objections from the public. 尽管公众强烈反对，这项提案仍将付诸实施。
+Some managers have recently raised objection to the PFA handling these negotiations. 一些主教练最近就英格兰职业足球运动员协会负责这些谈判提出了异议。
+Despite objections by the White House, the Senate voted today to cut off aid. 参议院不顾白宫的反对于今天投票决定中止援助。
+
+vi. pale in/by comparison结构可表示显得逊色，相形见绌:
+adj.（光线）不强烈明亮的，即暗淡的，微弱的:
+adj.（颜色）浅色的，淡色的:
+vi. pale (at sth) 变得比平常白，变苍白:
+adj.（人、人脸等常由于疾病、惊吓、震惊等而变得）苍白的。是此义的常规用词:
+vi. pale (at sth) 变得比平常白，变苍白:
+pale |[peɪl]
+When someone you love has a life-threatening illness, everything else pales in comparison. 当你所爱的人得了致命的疾病时，其他的一切就都显得不重要了。
+the cold pale light of dawn 破晓时分的微微寒光 
+pale blue 浅蓝色 
+a pale sky 灰白的天空 
+He paled visibly at the sight of the police car. 他一看见警车，脸色刷地就变白了。
+The blue of the sky paled to a light grey. 天空的蓝色变成了浅灰色。
+She looked pale and tired. 她看起来苍白而疲惫。
+pale with fear 吓得脸色煞白 
+He went pale as the news sank in. 他听明白那个消息后，脸变得惨白。
+He paled visibly at the sight of the police car. 他一看见警车，脸色刷地就变白了。
+
+n. [C] 对…的安排（或呈现）的方式或顺序，即程式，形式:
+n. [C] 对某事的总体安排、计划、设计等:
+n. [C] 电影、音乐录制品等的格式:
+n. [C] 计算机上所存储或运行的数据的格式:
+vt. 对计算机磁盘进行格式化（使其有空间来存储数据）:
+vt. [术语] 在屏幕上安排文本的版式（使其可以在电脑上以某种方式显示）:
+n. [C] 图书、杂志等的形状和尺寸，也可叫做版式或开本:
+vt. [术语] 在某页上安排文本的版式（使其可以印刷）。与set几无区别，不过比set略为常用:
+format |['fɔ:mæt]
+to explain the format of the programme 解释这个节目的程式 
+All the lectures follow the same basic format. 所有的讲座都沿袭同一基本形式。
+the format of the conference 会议的形式
+the format of the quiz show 智力竞赛节目的总体安排
+His latest album is available on all formats. 他的最新专辑有各种格式可以买到。
+digital format 数码格式 
+DVD format DVD格式
+file format 文件格式 
+PDF format PDF格式
+to format a disk 对磁盘进行格式化
+When text is saved from a Web page, it is often very badly formatted with many short lines. 文本从网页上另存时版式通常会变乱，出现很多短行。
+They’ve brought out the magazine in a new format. 他们用新的版式出版该杂志。
+large format 大开本 
+The book is now available in a slightly smaller format. 这本书现在有略小一些的开本在售。
+
+n. [C, U] 由人的口中所发出的（说话或唱歌的）声音:
+adj. -voiced 用于构成形容词，指有某种嗓音的:
+vt. 表达观点、感情等:
+n. [C] 内心中（或已表达出来）的意见、态度或感情、心声等:
+n. [sing.] voice (in sth) 表达看法（并影响决策）的权利:
+n. [sing.] the active/passive voice主动语态或被动语态:
+vt. 发浊音:
+n. [U] 浊音（由声带震动所发出的元音和某些辅音）:
+voice |[vɒɪs]
+to say in a low voice 低声说 
+to raise your voice 提高嗓门 
+cold voice 冷淡的声音 
+angry voice 生气的声音 
+singing, speaking voice 歌声；说话声 
+female voice 女声 
+voice lessons 声乐课 
+the computer’s voice recognition capability 计算机的语音识别能力 
+low-voiced 嗓门低的
+to voice concern 表示关切（或担心）
+to voice doubts 表示怀疑 
+to voice objections 表示反对 
+to voice complaints 表示不满 
+to voice criticisms 表示批评
+to refuse to listen to the voice of the opposition 拒绝听取反对意见 
+the voice of the people 人民的呼声 
+the voice of reason 理性的声音 
+a writer with a highly distinctive voice 一位见解极为独特的作家 
+Many senior politicians have lent their voices to the campaign. 很多资深从政者发声以声援这场运动。
+An inner voice told him that what he had done was wrong. 内心有个声音告诉他，他做错了。
+The main character was crazy, hearing voices in his head. 主人公疯了，他听到自己脑子里有好几个声音在说话。
+to have a voice in the decision-making process 在决策的过程中有发言权 
+Refugees have been unable to find a voice in politics. 难民一直没能享有政治发言权。
+
+Your abdomen is the part of your body below your chest where your stomach and intestines are. 腹部
+abdomen |英 ['æbdəmən; æb'dəʊmən]  美 ['æbdəmən]| n. 腹部；下腹；腹腔/
+He went into the hospital to undergo tests for a pain in his abdomen.他去了医院接受对他的腹部疼痛进行的各项检查。
+
+
+adj.（食物）用香料调味的、（尝起来或闻起来）辣的:
+adj. [非正式]（故事、新闻等）刺激的，有点令人震惊的:
+spicy |[ˈspaɪsi]
+Thai food is hot and spicy. 泰国菜味道辛辣浓烈。
+a spicy tomato and coriander sauce 番茄芫荽香辣酱 
+The soup tasted mildly spicy. 汤尝起来略有点儿辣。
+a deliciously spicy aroma 香辣的气味儿
+
+vt. 明确说明:
+vt.（尤指通过给出具体的信息）说明:
+vt. 具体指定:
+vt.（尤指通过给出具体的信息）明确规定:
+specify |[ˈspesɪfaɪ]
+He has not specified what action he would like them to take. 他尚未明确说明自己希望他们采取什么样的行动。
+She did not specify precisely how many people were involved in the incident. 她没有确切说明这起事件涉及多少人。
+Are all the details correctly specified? 所有细节都准确无误地说清楚了吗？
+Remember to specify your size when ordering clothes. 订购服装时记着要详细说明你要的号码。
+Unless otherwise specified, all fields have a maximum length of 20 characters. 除非另作说明，每个字段最大长度是20个字符。
+They specified a spacious entrance hall. 他们专门指定要一个宽敞的大门厅。
+Each computer is uniquely specified by its serial number. 每台计算机都有单独指定的序列号。
+The contract clearly specifies who can operate the machinery. 合同明确规定谁可以操作机器。
+The regulations specify that calculators may not be used in the examination. 考试规则明确规定考试时不得使用计算器。
+Each recipe specifies the size of egg to be used. 每种菜谱都具体规定了所用鸡蛋的大小。
+One rule specifies that learner drivers must be supervised by adults. 一条规则明确规定，见习驾驶员必须有成人的监督。
+
+adj. 1 只用于名词前，现代的；当代的；近代的。“当代的”之义与contemporary相近:
+2 只用于名词前，（艺术、音乐、舞蹈、时装、建筑等的风格）新式的，有别于传统的，与contemporary意思相近:
+3（通常含褒义）运用最新的技术、设计、材料等的，相当于up-to-date:
+4（行为、思想等的方式）新式的，超前的且大部分公众未必接受的:
+modern |['mɒdn]
+modern life 现代生活 
+Modern European history 欧洲近代史 
+modern art, modern architecture, modern dance 现代艺术；现代建筑；现代舞 
+a modern computer system 时新的电脑系统 
+modern methods of farming 现代化的耕作方式 
+the most modern hospital in London 伦敦最先进的医院 
+It was a very modern school for its time. 这是当时很现代化的一所学校。
+modern ideas 新式的观点 
+She is very modern in outlook. 她的看法很时髦。
+
+n. [U] 某人或某事物因其社会地位（或其所做的事情）而得到的尊重或敬仰，如威信、威望、声望:
+adj. 因其看起来重要或昂贵而受人羡慕和尊敬的，如名贵的、讲究派头的。相当于luxury:
+adj. [只用于名词前] 带来尊敬和敬仰的（即令人敬仰的）；重要的:
+prestige |[preˈsti:ʒ]
+personal prestige 个人声望 
+military, political, social prestige 军事威望；政治声望；社会声望 
+academic, intellectual prestige 学术声望 
+occupational prestige（美）职业声望 
+Winning the prize carries immense prestige. 获奖带来很高的声望。
+efforts to build up the prestige of the United Nations 为树立联合国的威望所作的努力 
+It was his responsibility for foreign affairs that gained him international prestige. 他在负责处理外交事务的过程中赢得了国际声望。
+an international company that enjoys immense prestige 声名显赫的跨国公司 
+Lavish hospitality allows the host to gain prestige. 盛情的款待使主人获得声望。
+Different jobs are accorded different levels of prestige. 不同的工作被赋予不同的社会声望。
+Owning landed property confers prestige. 拥有地产给人以声望。
+The royal couple's prestige was damaged by the allegations. 这对王室夫妇的威信因这些指控而受损。
+the party's prestige among the public 该政党在公众中的威望 
+The post carried great prestige within the police force. 这个职位在警察系统内很受尊重。
+Doctors have suffered a loss of prestige following a spate of scandals. 接二连三的丑闻使医生名誉扫地。
+Wearing designer clothes is a matter of personal prestige for many teenagers. 对很多青少年来说，穿名牌服装是一件关于个人声望的事。
+There is a lot of prestige attached to owning a car like this. 拥有这样一部汽车会显得很气派。
+jobs with low prestige 地位低微的工作
+such prestige cars as Cadillac, Mercedes, Porsche and Jaguar. 像凯迪拉克、奔驰、保时捷和捷豹这样气派的汽车          
+a prestige job 体面的工作
+
+put clothes on (oneself or someone), dress:穿衣服（自己或某人），穿衣服
+provide (someone) with clothes:给（某人）提供衣服
+endow with a particular quality:赋予特定的品质
+clothe |klad| Verb/:衣服,穿上
+Francesca was clothed in white:Francesca身着白衣
+they already had eight children to feed and clothe:他们已经有八个孩子要吃穿
+it is clothed with an aura of respectability:它披着可敬的光环
+
+n. [U] 律师，即拥有专业法律资质，向人们提供法律咨询，并在法庭上代表原告或被告的人:
+lawyer |['lɔ:jə]
+defence/defense, prosecuting lawyer 辩护律师；控方律师 
+court-appointed lawyer（尤美）法庭指定的律师 
+private lawyer（尤美）私人律师 
+civilian lawyer 民法律师 
+civil, criminal, divorce, patent, tax lawyer 民事案律师；刑事案律师；离婚案律师；专利纠纷律师；税务律师
+
+An enclosure is an area of land that is surrounded by a wall or fence and that is used for a particular purpose. 围场
+enclosure |英 [ɪn'kləʊʒə; en-]  美 [ɪn'kloʒɚ]| n. 附件；围墙；围场/
+This enclosure was so vast that the outermost wall could hardly be seen.这块圈地大得几乎看不见它最外面的围墙。
+
+
+n. [C] 广义上的“发动机”或“马达”，指利用电或燃料来产生动力以驱动机器、交通工具、船只等运转的一种装置:
+adj. 只作前置定语，有引擎的；利用发动机来驱动的:
+adj. [术语] 只作前置定语，与身体的肌肉运动有关的；与（控制身体的）运动神经有关的:
+adj. 只作前置定语，与机动车有关的，即机动车的、汽车的:
+motor |['məʊtə]
+to start the motor 发动引擎 
+large, powerful motor 大功率发动机 
+small, tiny motor 小型发动机；微型发动机 
+diesel, electric motor 柴油发动机；电动机 
+rocket motor 火箭发动机 
+motor vehicles 机动车辆
+motor activity 肌肉运动 
+motor and sensory functions 运动功能和感觉功能
+the motor industry 汽车产业 
+a motor accident 机动车事故 
+motor insurance 汽车保险
+
+n. 1 [C] addition (to sth)（被添加到另外一个事物上的）增加物；添加物:
+2 [U] addition (of sth) 将…添加到另外一个…上的行为，即增加；添加:
+n. [U] 加；加法。反义词为subtraction:
+addition |[ə'dɪʃn]
+the latest addition to our range of cars 我们汽车系列新增加的款式 
+an addition to the family 这家新添的一口人（又生了一个孩子）
+building, room addition 建筑物的扩建部分；房间的扩建部分 
+the addition of eggs 加鸡蛋 
+the addition of a picnic site 增添一个野餐场所
+children learning addition and subtraction 学习加减法的儿童 
+She can do addition. 她会做加法。
+
+n. 1 [C] 规划的一项工作，旨在研究…以获取信息、生产新产品、改善某事物等。比programme更强调一种目标感，且涉及更多执行层面的事情。因此将project翻译为“项目”或“工程”比较合适。（而programme常指一种概念上或书面上的、着眼于长期的、关乎群体的综合性“计划”、“规划”或“方案”，在汉语中有时翻译为“项目”，不过性质依然是一种规划，不能因为这种翻译方式就把programme加入过多的实施层面的因素；另外，其词根词缀也表明这是一种预先写出或画出来的计划）如:
+2 [C] 北美英语中还可指为贫困家庭所实施的住房工程，常由政府出资:
+vt. project (yourself) 把某人（如自己）或某事物以某种方式呈现给他人，尤指给人良好印象，即表现:
+n. [C] 在一段时间内，学生对某一学科所做的细致研究或调查:
+vt. 为一项未来的活动或工程等拟定计划，即规划，计划，常用被动式:
+n. [C] 某人所感兴趣的（或想要引起人们关注的）一系列目标、想法或活动，即方案，计划:
+vt. 1 project sth (on/onto sth) 将光线、影像等投射到一个平面上（或屏幕上）:
+2 将某物抛上去或抛离…:
+vt. 预测、估计现存的事物（或正发生的事件）在将来的尺寸、成本或数量，相当于forecast，但不如forecast常用:
+vi. 从一个边缘或平面突出来，相当于protrude，为正式用法:
+project |['prɒdʒekt,'prəʊ-]
+pilot project 试点工程 
+research project 研究项目 
+building, construction, restoration project 建筑工程；建设工程；修复工程 
+development, educational, environmental project 开发项目；教育工程；环境工程 
+The wedding became her pet project. 婚礼成了她特别倾心的事项。
+The project aims to reduce homelessness. 该项目旨在减少无家可归者的人数。
+project management 项目管理 
+project director, project team 项目总监；项目团队 
+project budget 项目预算 
+Going into the projects alone is dangerous. 只身进入公房区是危险的。
+to project a positive image of the company 树立公司的正面形象 
+She projects an air of calm self-confidence. 她表现出镇定自若的神态。
+He projected himself as a man worth listening to. 他装成很有见地的样子。
+a history project 历史学科的专题研究 
+The final term will be devoted to project work. 最后一学期的时间将全部用于专题研究。
+thesis project（美）论文课题 
+My class is doing a project on medieval towns. 我们班正在进行一项关于中世纪城镇的研究。
+The next edition of the book is projected for publication in March. 本书的下一版计划于三月发行。
+The projected housing development will go ahead next year. 计划中的住宅建设将于明年动工。
+a political project 政治方案 
+investment project 投资方案 
+an ambitious project to translate all the works of Plato 一项翻译柏拉图所有著作的艰巨计划 
+Images are projected onto the retina of the eye. 影像被投射到眼睛的视网膜上。
+Actors must learn to project their voices. 演员必须学会放开声音。
+the powerful men who would project him into The White House（比喻用法）能使他平步进入白宫的有力人士
+A growth rate of 4% is projected for next year. 预计明年的增长率为4%。
+The unemployment rate has been projected to fall. 据预测失业率将下降。
+a building with balconies projecting out over the street 阳台伸出到街上的楼房
+
+n. [U, C] 银牌，相当于silver medal:
+vt. 尤用于文学，使某事物具有银色光泽:
+n. [U] 银色；银白色；银灰色:
+adj. 银色的；银灰色的；银白色的:
+vt. 尤用于文学，使某事物变成银色:
+n. [U] 银元素或银金属:
+vt. 常用被动式，在…的表面镀上（或包上）薄薄的一层银（或似银的物质）:
+n. [U] 由银所制成的盘子、装饰物等，即银器（也可用the silver）:
+n. [U] 用银（或似银的金属）所制成的硬币，可叫做银币:
+silver |['sɪlvə]
+She won silver in last year’s championships. 她在去年的锦标赛上获得银牌。
+Moonlight was silvering the countryside. 月光下的乡村泛着银光。
+a silver car 银灰色汽车 
+silver hair 银发 
+a silver chain 银链 
+pure, solid silver 纯银 
+silver mine 银矿 
+They’ve had to sell the family silver. 他们不得已卖掉家传的银器。
+the basement where $150 000 in silver was buried 埋着15万美元银币的地下室
+
+vt. ~ sth (in/into/within sth) 把某事物包括进来，使其成为某事物（如一个更大的群体、体系、思想等）的一部分，如纳入、并入:
+vt. [商业] [常用被动式] 注册成立一家公司:
+incorporate |[ɪnˈkɔ:pəreɪt;美-ˈkɔ:rp-]
+The territory was formally incorporated into the Russian Empire in 1876. 这片领土于1876年正式划入俄罗斯帝国版图。
+the countries which were forcibly incorporated into the empire 被强行并入该帝国的一些国家 
+In 1940 the area was incorporated as part of the city of London. 该地区于1940年并入伦敦市，成为它的一部分。
+The agreement would allow the rebels to be incorporated into a new national police force. 协议将允许把叛军收编入一支新的国家警备部队。
+These new features can easily be incorporated. 这些新特色很容易加以吸纳。
+We have incorporated all the latest safety features into the design. 我们在设计中纳入了所有最新的安全装置。
+The new car design incorporates all the latest safety features. 新的汽车设计包括了所有最新的安全配备。
+The new cars will incorporate a number of major improvements. 新款汽车会有若干重大改进。
+The computer components are incorporated seamlessly. 这些计算机部件是无缝组和的。
+These conditions must be expressly incorporated into the contract of employment. 这些条件必须明确地写进雇佣合同中。
+Many of your suggestions have been incorporated in the plan. 你的很多建议已纳入计划中。
+The party vowed to incorporate environmental considerations into all its policies. 该党宣誓要把环境因素纳入它所有的政策当中。
+The data is now incorporated in the total figures. 该数据现已计入总数之中。
+We can incorporate this information into our report. 我们可以在报告中加入这条信息。
+Results are incorporated within personalized medical records. 结果写入了个人医疗记录之中。
+The life cycle typically incorporates the following stages. 生命周期通常包括以下几个阶段。
+The company was incorporated in 2002. 这家公司成立于2002年。
+
+vt. 从某人或某事物处逃脱，或避免遇到某人:
+vt. 逃避，规避（尤指法律或道德责任）:
+vt. 回避（处理某事）:
+vt. [正式] 想不出；不发生:
+vt.（成功、光荣、爱情等）与某人无缘:
+vt. 回避（谈论某事）:
+evade |[ɪˈveɪd]
+He managed to evade capture and escaped over the border. 他设法摆脱了追捕并逃过了边境。For two weeks they evaded the press. 他们有两周一直避而不见记者。
+They narrowly evaded a police car which was approaching. 他们险些没避开赶过来的警车。
+Under the pretence of lighting a candle, she evades him and disappears. 她假装点蜡烛，避开他消失了。
+She turned and gazed at the river, evading his eyes. 她转身凝视着那条河，避开他的目光。
+to evade payment of taxes 逃税 
+By his own admission, he evaded taxes as a Florida real-estate speculator. 他亲口承认自己在佛罗里达从事房地产投机生意时逃过税。
+Delegates accused them of trying to evade responsibility for the failures of the past five years. 代表们指责他们企图逃避过去5年中多次失败应负的责任。
+She is trying to evade all responsibility for her behaviour. 她在试图逃避应为自己的行为承担的所有责任。
+Too many companies, she says, are evading the issue. 她说太多公司都在回避这个问题。
+The answer evaded him (= he could not think of it). 他答不上来。
+Happiness, which had been so elusive in Henry's life, still evaded him. 亨利生活中过去一直难以捕捉的幸福仍旧与他无缘。
+When she sat down at her desk she found that the words evaded her. 当她在桌前坐下时，却发现自己不知道该说些什么了。
+Her response was simply to evade the problem altogether. 她的回答就是干脆回避了整个问题。
+to evade answering a question 避而不答某一问题
+
+adj. sensitive (to sth) 意识到并能够理解他人和他人的感觉的，即善解人意的，体贴的:
+adj. 1 sensitive (about/to sth) 容易被冒犯或生气的，即易怒的，神经过敏的:
+2（信息、话题）不得不谨慎对待的（因为其可能会冒犯别人或使别人生气），即敏感的:
+adj. sensitive (to sth) 能够测量出微小的变化的，即对微小变化敏感的:
+adj. 能够理解艺术、音乐和文学并能通过其表达自己的，即对（艺术、音乐、文学）敏感的:
+adj. sensitive (to sth)（对低温、光、食物等）反应过敏的（即反应过快或过大）:
+sensitive |['sensɪtɪv]
+She is very sensitive to other people’s feelings. 她很能体谅他人的感受。
+Her experiences had made her sensitive to other people’s troubles. 她的经历使她善于体察他人的烦恼。
+Researchers tried to remain sensitive to local issues. 研究者努力体察地方事务。
+a sensitive man 善解人意的男子 
+Horses are very sensitive to their riders’ moods. 马能敏锐地感受到骑马人的情绪。
+You’re far too sensitive. 你也太敏感了。
+He’s very sensitive about his weight. 他很忌讳别人说他胖。
+She’s very sensitive to criticism. 她一听批评就急。
+Teenagers are often very sensitive about their appearance. 青少年常常对自己的外表很在意。
+Health care is a sensitive issue. 医疗卫生是一个敏感问题。
+commercially sensitive information 商业上的敏感信息 
+culturally sensitive policies 文化上的敏感政策 
+The information was deemed too sensitive to be broadcast. 这条消息被认为过于敏感而不宜报道。
+a sensitive instrument 灵敏的仪器 
+The equipment is highly sensitive. 这套设备灵敏度很高。
+sensitive to the slightest movement 对极轻微的移动都很敏感 
+The Stock Exchange is very sensitive to political change.（比喻用法）证券市场对政局变化非常敏感。
+an actor’s sensitive reading of the poem 演员对那首诗富有表现力的朗诵 
+a sensitive portrait 栩栩如生的画像 
+sensitive areas of the body 身体的敏感区域 
+My teeth are very sensitive to cold food. 我的牙齿对冷食过敏。
+These drugs can make skin extremely sensitive to sunlight. 这些药物会造成皮肤对日照极度敏感。
+
+adj. 1 [常含贬义] 倾向于遵循全社会约定俗成的做法或惯例的，平凡普通的，也许不是非常有趣的，即（行为观念等）依照惯例的，墨守成规的，遵从习俗的，普通平凡的:
+2 常作前置定语，遵循传统（或长久以来的做法）的:
+adj. 常作前置定语，（尤指武器）非核的，即常规的:
+conventional |[kən'venʃənl]
+conventional behaviour, conventional morality 循规蹈矩的行为；传统的道德规范 
+She’s very conventional in her views. 她的观点很守旧。
+conventional methods, conventional approaches 传统方法 
+in the conventional sense 从传统意义上来说
+conventional forces, conventional weapons, conventional arms 常规部队；常规武器 
+a conventional power station 常规动力发电站
+
+vt. 完全与某人断绝关系:
+vt. cut sb (from sth) 割断束缚某人的绳子等物品（而让其逃跑）:
+vt.（尤指用锋利或尖利的工具，如刀或剪刀等）在某物上弄出一个口子或伤口:
+n. [C] 由锋利物品所造成的开口或破口:
+n. [C]（尤指钱的）份数，份额。不太常用:
+cut sth (from ...) (to ...) 减少，削减。是一个形象化用词:
+n. [C] cut (in sth)（数量、尺寸、供给等的）减少，削减:
+vt. cut sth (in/into sth) 用刀等将某物切成若干份:
+vt.（在感情上）伤害某人。是一种形象化用法:
+vt. cut sth (from sth) 删除，删减，删节:
+n. [C] cut (in sth) 对电影、戏剧、文章等所做的删减，删节:
+vt. 1 [非正式] 让人停止做某事:
+2 完全与某人终止沟通:
+vt. cut sb/sth off 打断:
+vt. cut sb/sth off 阻断去路:
+vt. 将头发、指甲等剪短，即修剪:
+n. [usually sing.] 理发；或理出来的发型:
+vi. cut (from sth) to sth（电影、电视或无线电广播中）切换场景:
+vt. 剪裁服装，常用被动式:
+n. [C] 从动物躯体上割下的一块肉:
+n. [usually sing.]（服装所剪裁出来的）式样或款式:
+vt. 1 电影、磁带等的剪辑，剪接:
+2 cut sth (from sth) 删减（电影）:
+n. [C] cut (in sth) 对电影等所做的删减，删节:
+vt.＆vi.（纸牌游戏中可指为了决定谁先出牌而）切牌或抽牌:
+vt.（几何学中可指一条线与另一条线）相交:
+vt.＆vi. 对文档等进行剪切:
+vt. 完全与某人终止沟通:
+cut sth (for sb) 用刀等从某物上切下，割下:
+2 cut sth (in sth) 用刀等将某种材料切、削、剪、凿等成某个形状:
+3 将头发、指甲、草等剪短，即修剪:
+vi. 1 能够切割，或能够用于切割:
+2 能够被切割:
+vt.（尤指用锋利或尖利的工具，如刀或剪刀等）在某物上弄出一个伤口:
+n. [C] 由锋利物品所造成的伤口:
+vt. cut a tooth 开始长出（新牙）:
+vt. cut a disk, etc. 灌制唱片，制作激光唱片等:
+vi. 1（通常用于指令）停止拍摄或录音、录像:
+2 cut (from sth) to sth（电影、电视或无线电广播中）切换场景:
+cut sth (from ...) (to ...) 减少，削减。是一个形象化用词:
+vt. [尤美，非正式] 旷课，逃学:
+vt. cut sth (with sth) 把毒品（如海洛因等）与另一种物质混合:
+cut |[kʌt]
+She has cut the tie with her mother. 她已经和她的妈妈断绝了关系。
+The driver was cut from the wreckage. 司机是别人将汽车残骸割开后被救出的。
+to cut through the metal 切割金属 
+He cut his finger on a piece of glass. 一块玻璃把他的手指划破了。
+He had fallen and cut his head open. 他跌了一跤，把头磕破了。
+She picked up the knife and cut into the meat. 她拿起刀来切入肉中。
+The boat cut through the water.（比喻用法）船划破水面而行。
+Make a small cut in the shell with a knife. 用刀子在这个壳上切一个小口。
+a clean cut 光洁的切口
+The agency has taken a cut of the money awarded to its client. 这个代理商已从奖给其客户的钱中抽取了一份。
+He takes a cut of the profits. 他获得了一份利润。
+vt. cut sth (by ...) 
+to cut prices 减价 
+to cut taxes 减税 
+to cut spending 削减开支 
+to cut the cost 削减成本 
+to cut production 削减产量 
+to cut salary 减薪 
+I’m trying to cut down on fatty foods. 我现在尽量少吃含脂肪多的食物。
+Social work services have been cut back drastically. 社会工作机构已被大量裁减掉。
+His career was cut short by injury. 他因伤提早结束了职业生涯。 
+cost, price, pay, spending cut 成本削减；减价；减薪；开支缩减 
+budget, job, staff cut 预算削减；工作岗位削减；裁员 
+a 1.5 percent cut in interest rates 利率下调1.5% 
+to cut the apple in half 把苹果切成两半 
+to cut the meat into slices 把肉切成片 
+to cut the string 剪断绳子 
+I can’t cut through this wood. 我劈不开这块木头。
+The bus was cut in two by the train. 那辆公交车被火车撞成了两截。
+His remarks cut her deeply. 他的那些话深深伤害了她。
+The scene was cut from the movie. 这场戏在这部电影中被删除了。
+to cut the essay from 8 000 to 5 000 把这篇文章从8000字删减到5000字
+to make some cuts in the text 对文本做些删节
+Cut the chatter and get on with your work. 别闲聊了，继续干活儿吧。
+His thoughts were abruptly cut off by a blinding flash of pain. 一阵令人眼前一黑的疼痛突然打断了他的思绪。
+They were completely cut off from the outside world. 他们完全与世隔绝了。
+to cut your nails 剪指甲 
+I wanted my hair cut short. 我想把头发剪短。
+$30 for a cut and blow-dry 剪吹价格30美元 
+My hair could do with a cut. 我该理发了。
+hair cut（通常用haircut）理发；发型 
+short cut 短发 
+crew cut 平头
+The scene cuts from the classroom to the playground. 镜头从教室切换到操场。
+The dress was cut high in the leg. 这件连衣裙的腿部开口很高。
+a cheap cut 一块便宜的肉 
+a good cut of beef 一块上好的牛肉
+the elegant cut of her dress 她的连衣裙的优雅款式 
+The scene was cut from the movie. 这场戏在这部电影中被删除了。
+Place the cards face down on the table and cut them. 把扑克牌正面朝下放在桌上，然后切牌。
+The line cuts the circle at two points. 这条线与圆相交于两点。
+You can cut and paste between different programs. 你可以在不同的程序之间剪切和粘贴。
+vt. 1 cut sth (from sth) 
+cut (sb) sth 
+to cut a slice from the loaf 从一条面包上切下一片 
+to cut them all a piece of birthday cake 给他们每人切一块生日蛋糕 
+a bunch of cut flowers 一束剪下的花朵 
+Some trees had been cut down. 有些树已被砍倒了。
+to cut a hole in the pipe 在管子上切开一个口子 
+The climbers cut steps in the ice. 登山者在冰上凿出供脚踩的台阶。
+to cut your nails 剪指甲 
+to cut the lawn 修剪草坪 
+I want my hair cut short. 我想把头发剪短。
+to cut away branches from the tree 修剪树枝 
+This knife won’t cut. 这把刀不快。
+The stone cuts easily. 这种石头易于切割。
+He cut his finger on a piece of glass. 一块玻璃把他的手指划破了。
+He cut himself shaving. 他刮胡子把脸刮破了。
+He had fallen and cut his head open. 他跌了一跤，把头磕破了。
+Blood poured from the deep cut on his arm. 鲜血从他手臂上的深深的伤口中涌出。
+He has a small cut on his finger. 他手指上划了一个小口。
+Clean the cut and cover it to prevent infection. 洗净伤口并包扎起来以防感染。
+to cut his first tooth 长出他的第一颗新牙
+to cut a disk 灌制唱片
+The director shouted ‘cut!’ 导演大声喊道“停！” 
+The scene cuts from the classroom to the playground. 镜头从教室切换到操场。
+vt. cut sth (by ...) 
+to cut prices 减价
+to cut class 旷课
+
+adj. 个人隐私的（常指性方面的）:
+adj.（地方或情形）宜于密切关系的；温馨的；便于发生性关系的:
+adj.（事物间的联系）密切的、紧密的:
+adj. ~ (with sb) [法律] 有性关系的、有恋爱关系的:
+vt. ~ sth (to sb) [正式] 向某人间接透露你的所想所思或意图:
+n. [C] 亲密的私人朋友:
+adj.（人）关系亲密的:
+adj.（知识）非常详尽且透彻的:
+intimate |[ˈɪntɪmət]
+The article revealed intimate details about his family life. 文章披露了他的家庭生活中的隐私。
+I hate to interrupt your intimate conversation but we do have an assignment to discuss. 我实在不愿打断你们的私人谈话,但是我们确实有事要谈。
+the most intimate parts of his body 他的身体的最隐私部位
+an intimate restaurant 幽静温馨的餐厅 
+He knew an intimate little bar where they would not be disturbed. 他知道一处适合幽会的小酒吧，他们在那里不会受到打扰。
+an intimate candlelit dinner for two 温馨的二人烛光晚餐 
+intimate atmosphere 温馨的气氛
+an intimate connection between class and educational success 社会阶层和优良教育之间的密切联系 
+an intimate connection between madness and wisdom 疯狂与智慧的密切关联 
+France has kept the most intimate links with its former African territories. 法国与其前非洲属地一直保持着最密切的联系。
+I just won't discuss my intimate relationships. 我就是不想讨论我的恋爱关系。
+their intimate moments with their boyfriends 她们与男友共浴爱河的时刻
+He has already intimated to us his intention to retire. 他已经向我们透露了他要退休的打算。
+He went on to intimate that he was indeed contemplating a shake-up of the company. 他继续暗示他确实在考虑对公司进行一次大改组。
+He had intimated to the French and Russians his readiness to come to a settlement. 他已经向法国人和俄国人暗示他愿意达成协议。
+intimate friends 密友 
+We're not on intimate terms with our neighbours. 我们和邻居来往不多。
+an intimate knowledge of the English countryside 对英格兰乡村的透彻了解 
+He surprised me with his intimate knowledge of Schopenhauer. 他对叔本华的深刻了解让我很吃惊。
+
+vt. [正式，贬] 为给别人留下印象而使用或穿着某事物，即炫耀性地使用或穿戴，相当于put on:
+vt. 常用被动式，使某人拥有强烈的悲伤、同情等感情:
+vt. 常用被动式，在某人或某事物中产生一个变化，即影响:
+vt.＆vi. [正式] 假装感觉（或假装思考）某事:
+vt. [正式，贬] 为给别人留下印象而穿着…，即炫耀性地穿戴，相当于put on:
+vt. 常用被动式，（一种疾病）侵袭某人或身体的某个部位；使某人生病。也算常用:
+affect |[ə'fekt]
+I wish he wouldn’t affect that ridiculous accent. 但愿他别故意装出那种可笑的腔调。
+Her death affected him deeply. 她的死令他悲痛欲绝。
+How will these changes affect us? 这些变化对我们会有什么影响？
+Your opinion will not affect my decision. 你的意见不会影响我的决定。
+Sales did not seem unduly affected. 销售似乎并未受到过分的影响。
+developments that are likely to affect the environment 一些很有可能影响环境的开发 
+The south of the country was worst affected by the drought. 该国南方旱情最严重。
+She affected a calmness she did not feel. 她强装镇静。
+The condition affects one in five women. 每五个妇女就有一人患有这种疾病。
+Rub the cream into the affected areas. 把乳膏揉进感染处。
+
+n. 1 [C] 负责会议事务的一个人（其告诉发言者何时可以讲话等），即会议主持人（或大会主席）:
+2 [C] 负责公司等组织的一个人，即董事长等:
+n. [C] 负责委员会等的一个人，即委员长、主席等:
+chairman |['tʃeəmən]['tʃeəmən]
+company chairman 公司董事长 
+the chairman of the board of governors (= of a school) 校董事会主席
+campaign（美）, commission, committee, party chairman 竞选事务主席；委员会主席；党主席 
+deputy, vice chairman 副主席 
+honorary chairman 荣誉主席
+
+adj. 1 important (to sb) 对人们或事物具有重大影响的、有重大价值的，即重要的。是一个基础且常规的用词，最常用:
+2（一个人）拥有很大影响力（或权威）的:
+important |[ɪm'pɔ:tnt]
+important decision, important factor 重要决定；重要因素 
+I have an important announcement to make. 我要宣布一件重要的事情。
+historically important buildings 具有重大历史意义的建筑 
+Spending time with children is important to me. 对我而言，和孩子们共度时光很重要。
+an important member of the team 举足轻重的一位队员 
+He made me feel important by asking me lots of questions about myself. 他问了许多关于我自己的问题，让我感觉自己很重要。
+
+vt. [常用被动式]（鸟群或兽群）围成一圈来攻击（另一只鸟或另一只动物）:
+n. [C] [澳大利亚；新西兰] 一群动物:
+vt. [常用被动式]（人群）围拢在一个人身边（想要与此人说话，或想要热情地接近此人，或带有恶意地接近此人）:
+n. 1 [C, sing.] 一大群人，尤指一大群暴民:
+2 [C, usually sing.] [非正式] 一群有共同点的人:
+n. [sing.] [非正式] the Mob可指犯罪团伙；黑手党:
+mob |[mɒb;美mɑ:b]
+a mob of cattle 一群牛
+Her car was mobbed by the media. 她的车被媒体团团围住了。
+They found themselves being mobbed in the street for autographs. 他们发现自己被索要签名的人群围堵在大街上。
+angry, unruly mob 愤怒的暴民；失控的暴民 
+lynch mob 用私刑的暴民 
+The mob was/were preparing to storm the building. 聚集的群众准备猛攻大楼。
+an excited mob of fans 一群激动的球迷 
+mob rule (= a situation in which a mob has control, rather than people in authority) 暴民统治 
+They have been exercising what amounts to mob rule. 他们一直在实行相当于暴政的统治。
+mob mentality从众心理 
+mob violence 暴民的暴力行为 
+Bottles and cans were hurled on the terraces by the mob. 暴徒向看台扔瓶子和罐子。
+The inspectors watched a growing mob of demonstrators gathering. 督察们看见越来越多愤怒的示威者聚集到一起。
+If they continue like this there is a danger of the mob taking over. 如果他们继续这样下去，就有可能被暴动的群众控制局面。
+All the usual mob were there. 所有成员都在那里。
+casinos that the Mob had operated 黑社会经营的赌场 
+It was a Mob killing. 这是一宗黑社会犯下的杀人案件。
+
+vt.（通过自己的行为来）表示、表达、表现、显露（自己拥有某种品质、感情或观念）:
+vt. ~ sth (to sb) 示范、演示（运行的原理、做事的步骤等）:
+~ (in favour/support of sth) 集会示威、游行示威（以抗议或支持…）:
+vt. ~ sth (to sb)（通过给出证据来）明确地证明、证实:
+demonstrate |[ˈdemənstreɪt]
+You need to demonstrate more self-control. 你应该表现出更强的自制力。
+We want to demonstrate our commitment to human rights. 我们想表明我们对人权的信念。
+Have they, for example, demonstrated a commitment to democracy? 例如，他们是否已表现出会致力于民主？
+The government's going to great lengths to demonstrate its military might. 该政府正不遗余力地展示其军事力量。
+Her job involves demonstrating new educational software. 她的工作包括演示新的教学软件。
+The BBC has just successfully demonstrated a new digital radio transmission system. 英国广播公司刚刚成功地演示了一套新的数字无线电传输系统。
+He flew the prototype to West Raynham to demonstrate it to a group of senior officers. 他将原型空运到西雷纳姆，向一批高级军官作演示。
+vi. ~ (against sth) 
+students demonstrating against the war 举行反战示威游行的学生 
+They are demonstrating in favour of free higher education. 他们举行示威游行，要求实行免费高等教育。
+30,000 angry farmers demonstrated against possible cuts in subsidies. 3万名愤怒的农场主示威抗议可能对农产品补贴进行的削减。
+In the cities vast crowds have been demonstrating for change. 在城市里，大批的人群举行示威游行，要求进行变革。
+Campaigners were demonstrating against the slaughter of dolphins. 活动人士示威抗议宰杀海豚。
+Their objective was to demonstrate peacefully for civil rights. 他们的目标是为公民权利而进行和平示威。
+These results demonstrate convincingly that our campaign is working. 这些结果有力地证明，我们的运动正在发挥作用。
+Let me demonstrate to you some of the difficulties we are facing. 我来向你说明一下我们面临的一些困难。
+His sudden departure had demonstrated how unreliable he was. 他突然离去，这说明他是多么不可靠。
+The theories were demonstrated to be false. 这些理论已被证明是错误的。
+It has been demonstrated that this drug is effective. 这药已证实是有效的。
+The study demonstrates beyond doubt the effectiveness of the new drug. 研究毫无疑问地证明了这种新药的效力。
+This tragedy graphically demonstrates the dangers of extreme sports. 这个悲剧活生生地表明了极限运动的危险。
+The study also demonstrated a direct link between obesity and mortality. 该研究还表明了肥胖症和死亡率之间存在直接的联系。
+You have to demonstrate that you are reliable. 你得证明自己是靠得住的。
+The President must demonstrate to the country that he is really in control. 总统必须向全国证明一切确实在他的掌控之下。
+
+n. 1 [C] [尤英]（浴室内固定在墙上有水龙头的）洗脸盆，相当于washbasin:
+2 [C]（盛装液体的）盆；英国英语中可指（调配食物的）盆:
+n. [C] 英国英语中可指（调配食物的）盆:
+n. [C] 一条大河周围的一片土地（各条溪流流进此地），即流域:
+n. [C] [术语]（地球表面的）盆地（可指陆地上的盆地，也可指海洋中的凹地，此时可称为海盆）:
+n. [C]（液体等）一盆的量:
+n. [C] 被遮挡起来的一片水域（为船只提供一个安全的港口），可称为港池；内港；内湾；船坞。可算作是harbour的一种类型:
+basin |['beɪsn]
+Water dripped into a basin at the back of the room. 水滴入房间后面的一个盆里。
+a pudding basin 布丁盆
+a pudding basin 布丁盆
+the Amazon Basin 亚马逊河流域
+countries around the Pacific Basin 太平洋海盆周围的国家
+a basin of water 一盆水
+a yacht basin 停放游艇的内港
+
+price (for sth/for doing sth) 代价:
+n. [C, U] 价格，价钱:
+vt. 1 price sth (at sth) 为…定价（用be priced）:
+2 price sth (up) 在商品上标出价格，可以写上，也可以贴上价签:
+3 比较相同事物的各种类型的价格:
+price |[praɪs]
+Criticism is part of the price of leadership. 挨批评是当领导要付出的部分代价。
+Giving up his job was a small price to pay for his children’s happiness. 放弃工作是他为子女幸福所付出的小小代价。
+The team paid a heavy price for its lack of preparation. 这支队伍由于准备不足而付出了沉重的代价。
+The cost of a policy premium is a small price to pay for peace of mind. 若能换个心安，花钱买个保险算不了什么。
+the price of freedom, the price of success 自由的代价；成功的代价
+discounted, rock-bottom price 打折价；抄底价 
+asking, purchase price 开价；购买价 
+recommended（尤英）, suggested（尤美）price 建议价格 
+retail price 零售价 
+wholesale price 批发价格 
+full, half price 全价；半价 
+market price 市场价 
+ticket price 票价 
+commodity price 商品价格 
+food price 食品价格 
+price range 价格范围 
+price increase 价格上涨 
+price fluctuation 价格起伏 
+price war 价格战 
+price tag 价格标签 
+price list 价格表 
+You can’t put a price on happiness. 你不能以金钱来衡量幸福。
+a reasonably priced house 定价合理的一座房子 
+It is priced too high. 定价过高。
+to be priced at $60 定价为60美元 
+Tickets are priced between £10 to £80. 票价定在10英镑到80英镑之间。
+We priced various models before buying this one. 我们比较了多种型号的价格以后才买了这一款。 
+
+Marginal activities, costs, or taxes are not the main part of a business or an economic system, but often make the difference between its success or failure, and are therefore important to control. 边际的
+If you describe people as marginal, you mean that they are not involved in the main events or developments in society because they are poor or have no power. 无足轻重的
+If you describe something as marginal, you mean that it is small or not very important. 微小的
+marginal |英 ['mɑːdʒɪn(ə)l]  美 ['mɑrdʒɪnl]| adj. 边缘的；临界的；末端的/
+The analysts applaud the cuts in marginal businesses, but insist the company must make deeper sacrifices.分析家们赞同对边际业务的削减，但坚持认为公司必须作出更大牺牲。
+The tribunals were established for the well-integrated members of society and not for marginal individuals.这个特别法庭是为社会中的主流人群设立的，而不是为了无足轻重的小人物。
+This is a marginal improvement on October.这是对10月份的一个小小的改进。
+

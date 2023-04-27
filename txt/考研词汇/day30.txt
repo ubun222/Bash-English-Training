@@ -30,4 +30,714 @@ limitation			限制
 simplify							简化
 collect						收集，使镇定，积聚起，获取
 bank								岸，堆积，银行
-\\\\
+\\\\\\\\
+
+vt.&vi.（使）沿曲线运动:
+n. [C] 曲线图:
+n. [C] 曲线；弧线:
+n. [C] 曲面；弯曲:
+vt.&vi.（使）呈曲线形:
+n. [C] [美]（也可用curve ball）（在棒球运动中表示投向击球员的）曲线球:
+At the last minute, I threw them a curve ball by saying, 'We're going to bring spouses'.（比喻用法）在最后一刻，我给他们出了一个难题，说:
+n. [C] [美] 公路的弯道:
+curve |[kɜ:v;美kɜ:rv]
+The ball curved strangely in the air. 球在空中划出一道奇异的弧线。
+The ball curved through the air. 球在空中沿曲线运动。
+steep curve 陡曲线 
+bell curve钟形曲线 
+normal curve, standard curve 正态曲线；标准曲线 
+growth curve 增长曲线 
+grading(= of students' grades) curve（美）（学生）分数曲线 
+learning curve（= the rate at which you learn sth new）学习曲线 
+grade on a curve (= to adjust scores so that they fit a normal curve）（美）按成绩分布曲线来调整分数 
+to plot a curve on a graph 在图上绘出一条曲线 
+the unemployment-income curve (= a line on a graph showing the relationship between the number of unemployed people and national income)（术语）失业与国民收入曲线 
+Each firm will face a downward-sloping demand curve. 每一家企业都将面临需求曲线的下滑。
+Was it just a temporary blip on an otherwise healthy growth curve? 这是否是原本良好的增长曲线中暂时的偏离？
+sharp, tight curve 锐曲线 
+sweeping, wide curve 大半径曲线 
+sensual, voluptuous curve 性感的曲线 
+the voluptuous curve of her hips 她性感的臀部曲线 
+the curve of his lips 他嘴唇的曲线 
+the delicate curve of her ear 她耳朵的优美曲线 
+feminine curves, womanly curves 女性的曲线；女人的曲线 
+the natural curve of your spine 你脊柱的自然弯曲 
+the curve of his neck 他颈部的曲线 
+The evening dress hugged her curves beautifully. 这件晚礼服紧贴她的身材曲线，显得非常美丽。
+a pattern of straight lines and curves 直线与曲线交织的图案 
+The road follows the coast in a wide curve. 公路沿海岸线延伸，成了—个弯。
+The seats were arranged to form a curve. 座位被排成了一条弧线。
+Her spine curved. 她的脊柱弯曲了。
+The track curved away below him. 他脚下的小径蜿蜒地伸向远方。
+The road curved around the bay. 那条路沿海湾呈曲线伸展。
+The road curved away around the back of the hill. 公路在山后蜿蜒开去。
+The path curved down to the bay. 小路朝着海湾的方向蜿蜒而下。
+His lips curved in a smile. 他咧嘴笑了。
+His mouth curved into a smile. 他咧嘴微笑。
+One of the journalists threw the senator a curve (= surprised him by asking a difficult question).（比喻用法）一名记者向那位参议员提出了一个出乎意料的难题。
+The road went around in a tight curve. 公路拐了一个急弯。
+He slowed down to negotiate the curve. 他减速以通过弯道。
+The car vanished around a curve. 那辆车拐了个弯，消失了。
+Slow down at the curves. 弯道处要减速慢行。
+A good motorcyclist leans into the curves. 好的摩托车手身体会随着弯道倾斜。
+a curve in the road 道路上的拐弯处 
+The driver lost control on a curve and the vehicle hit a tree. 司机在拐弯处失控，撞在了一棵树上。
+
+n. [sing.]（在某人的生活中）某一特别的兴趣，或重大的影响:
+n. [U, C] 宗教（包括宗教信仰和宗教活动）（此时不可数）；某一种宗教或宗教派别（此时可数）。是此义的常规用词:
+religion |[rɪ'lɪdӡən]
+For her, music is an absolute religion. 对她来说，音乐就是她的信仰。
+minority religion 少数人的宗教 
+state religion 国教 
+native religion 本土的宗教 
+Eastern religion 东方宗教 
+Jewish religion 犹太教 
+the Christian religion 基督教 
+She has no religion. 她没有宗教信仰。
+to find religion 皈依宗教 
+an follower of a religion 宗教信徒
+
+adj.（论点、结论）非基于全部事实（因而不正确）的，如站不住脚的:
+~ sb (out of sth) 伤病使某人退出兵役:
+adj. 1（法律上或官方）不承认的；无效的:
+2 [计算机] 计算机不能识别的:
+n. [C] 由于长期生病而需要别人照顾的人:
+invalid |[ɪnˈvælɪd]
+an invalid argument 站不住脚的论点 
+We think that those arguments are rendered invalid by the hard facts on the ground. 我们认为那些论点当场即被确凿的事实驳倒了。
+He was invalided out of the army in 1943. 他于1943年因伤病退伍。
+The contract was declared invalid. 合同被宣布无效。
+The trial was stopped and the results declared invalid. 审判被中止，判决结果被宣布无效。
+We cannot accept liability if you are refused entry because of invalid documents. 如果你因证件无效被拒入内，我们不承担责任。
+The treaty was declared invalid because it had not been ratified. 条约没有得到批准，因此被宣布无效。
+People with invalid papers are deported to another country. 持无效证件的人被驱逐到别国。
+This action would render the agreement invalid. 这一行动会导致协议无效。
+An error code will be displayed if any invalid information has been entered. 输入了无效信息将显示错误代码。
+invalid characters 无效字符
+She had been a delicate child and her parents had treated her as an invalid. 她小时候很虚弱，父母就把她当个病人照料。
+I hate being treated as an invalid. 我讨厌被人当作伤病号对待。
+his invalid wife 他的体弱多病的妻子
+
+adj. [只用于名词前]（虽然不…但）实际上的、事实上的:
+adj. 有效的，能产生预期效果的，能成功的:
+adj. 有效的，能产生预期效果的，能成功的:
+adj. [正式]（法律、协议、规则等）生效的、起作用的:
+effective |[ɪˈfektɪv]
+the effective, if not the actual, leader of the party 虽未居其位却实际上是党的领导人 
+He has now taken effective control of the country. 他目前已有效地控制了这个国家。
+They have had effective control of the area since the security forces left. 自从安全部队撤离后，他们实际上控制了该地区。
+a restructuring that would have resulted in an effective increase on one of their most popular excursion fares 原本会使他们最热门的一条短途旅游线路的费用出现实质性上涨的调整
+Long prison sentences can be a very effective deterrent for offenders. 判处长期徒刑可对违法者起到强有力的威慑作用。
+The project looks at how we could be more effective in encouraging students to enter teacher training. 该项目着眼于我们如何能够更加有效地鼓励学生参与教师培训。
+I admire the effective use of colour in her paintings. 我很欣赏她绘画作品中的色彩效果。
+We find advertising on the radio very effective. 我们发现在收音机里做广告很有用。
+a highly effective technique 非常有效的技术 
+What makes a speech politically effective? 什么能使一次演说产生政治效应?
+This method is effective enough with greenfly. 这种方法足以对付蚜虫。
+Sneezes are devastatingly effective at spreading infection. 打喷嚏极易传染疾病。
+effective at keeping out the wind 能有效地挡风 
+effective in helping people to stop smoking 有效地帮助人们戒烟
+Simple antibiotics are effective against this organism. 一般的抗生素能够有效对抗这种微生物。
+Aspirin is a simple but highly effective treatment. 阿司匹林药片治疗方法简便，效果却非常显著。
+drugs that are effective against cancer 治疗癌症的有效药物 
+The drug is generally effective in reducing pain. 这种药通常对疼痛有缓解作用。
+The new speed limit on this road becomes effective from 1 June. 这条路上新的限速规定自6月1日起生效。
+The new rules will become effective in the next few days. 新规定将在几天后生效。
+directly effective treaty provisions 直接生效的条约条款
+
+If something is predominant, it is more important or noticeable than anything else in a set of people or things. 主导性的
+predominant |英 [prɪ'dɒmɪnənt]  美 [prɪ'dɑmənənt]| adj. 主要的；卓越的；支配的；有力的；有影响的/
+Mandy's predominant emotion was confusion.曼迪的主导情绪是困惑。
+
+
+n. [U] 几何图形，几何形状，几何结构:
+n. [U] 几何学:
+geometry |[dӡɪ'ɒmɪtrɪ]
+the geometry of an arch 拱形的几何结构
+analytic geometry 解析几何 
+solid geometry 立体几何
+
+n. [C] 不良情况（如某类人、态度或社会问题）的典型观点、典型表现、典型行为:
+n. [C]（某一疾病的）综合征、综合症状:
+syndrome |[ˈsɪndrəʊm;美-droʊm]
+With teenagers, be prepared for the ‘Me, me, me! ’ syndrome (= they think of themselves first) . 跟青少年在一起，对他们那种凡事只想到“我、我、我！”的典型心理不要大惊小怪。
+It's a bit like the exam syndrome where you write down everything you know regardless of what has been asked. 不论问题是什么就把所知道的统统写上，这有些像典型的考试心理。
+Scientists call this the 'it won't affect me' syndrome. 科学家把这种现象称为“我无所谓”的典型表现。
+PMS or premenstrual syndrome 经前综合征 
+This syndrome is associated with frequent coughing. 这种综合征与经常咳嗽有关。
+Irritable bowel syndrome seems to affect more women than men. 女性比男性更易患肠易激综合征。
+The syndrome is more likely to strike those whose immune systems are already below par. 这种综合征更容易对那些免疫系统已经低于正常水平的人构成威胁。
+acute syndrome 急性综合征 
+clinical syndrome 临床综合征 
+Asperger's syndrome 阿斯伯格综合征 
+This phenomenon has become known as the ‘Californian syndrome’. 这种现象已被称为“加利福尼亚综合征”。
+This syndrome mostly affects women in their forties. 这种综合征多出现在四十多岁的女性身上。
+Chronic fatigue syndrome is characterized by severe physical and mental fatigue. 慢性疲劳综合症的特点是极度的身体和精神疲劳。
+
+n. [C] 人们在特定场合的感情氛围:
+n. [C, U] 某事物的温度；某地的温度或气温。是此义的常规用词，最为常用:
+n. [C, U] 人的体温:
+temperature |['tempərɪtʃə]
+There’s been a noticeable rise in the political temperature. 政治气氛明显升温。
+high temperature 高温 
+boiling, freezing temperature 沸腾温度；冻结温度 
+daytime temperature 日间气温 
+summer temperature 夏季气温 
+water temperature 水温 
+room temperature 室温
+She’s running a temperature. 她在发烧。
+high temperature 高烧 
+slight temperature 微烧 
+to take his temperature 给他量体温 
+to bring down his temperature 给她退烧
+
+n. 1 [C, U]（对价值、表现、本质等的）评价、评估、鉴定:
+2 [C, U] [英]（官方或正式的常带考核性质的）评定，评价:
+appraisal |[əˈpreɪzl]
+He had read many detailed critical appraisals of her work. 他读了许多详细评论她的作品的文章。
+She was honest in her appraisal of her team's chances. 她对自己队获胜机会的估计是诚实的。
+What is needed in such cases is a calm appraisal of the situation. 在此类情况下需要对形势有一个冷静的评估。
+Self-appraisal is never easy. 进行自我评价向来很难。
+He was asked to give an independent appraisal. 他被要求作出独立的评价。
+She made an appraisal of the other guests. 她对其他客人作了判断。
+I have my appraisal today. 我今天与上司见面讨论我的工作表现。
+economic, financial appraisal（均尤英）经济评估；财务评估 
+project appraisal（英）项目评估 
+performance, staff, teacher appraisal（均英）业绩评价；员工考评；教师评估 
+a formal system of performance appraisal 工作表现评估的正式体系 
+appraisal interview（英）考评面谈 
+We are holding staff appraisal interviews. 我们正在进行员工考评面谈。
+Staff problems should be addressed through training and appraisals. 职员问题应该通过培训和考核评定来解决。
+an appraisal of your financial standing 对你的财务状况的评估 
+A detailed appraisal of the plan will now be carried out. 现将对这一计划作详细的评估。
+
+vt. 虚构或编造没有的事情（以欺骗别人）:
+vt. 发明以前没有过的东西:
+invent |[ɪn'vent]
+to invent an excuse 编造一个借口 
+to invent a story 编造一个故事 
+to invent an imaginary wife 虚构一个假想的妻子
+to invent the first telephone 发明第一台电话 
+to invent the modern stand-up comedy act 发明现代单口喜剧的表演方式 
+to invent the diary as a literary form 创立日记体文学形式
+
+n. 1 [C] [商业] ~ (in/of/on sth) 垄断；专营服务；被垄断的商品（或服务）:
+2 [usually sing.] ~ in/of/on sth（对某事物的）独占、独自使用；只属于一个人（或一个群体）:
+n. [C] “大富翁”游戏（是一种棋类游戏，游戏者以玩具钞票买卖房地产）:
+n. [C] [商业] 垄断企业、专卖者:
+monopoly |[məˈnɒpəli;美məˈnɑ:p-]
+government, state monopoly 政府垄断；国家专营 
+local, national monopoly 地方的垄断；全国范围的垄断 
+The company has a virtual monopoly in world markets. 这家公司实际上垄断着国际市场。
+companies who are challenging the state monopolies 挑战国家垄断地位的那些公司 
+attempts to break the company's monopoly of the sugar industry 打破该公司在食糖业垄断地位的种种努力 
+The company was able to exploit its monopoly position. 这家公司得以利用其垄断地位。
+monopoly power 垄断势力 
+The company used its monopoly control to charge exorbitant fees. 该公司利用其垄断控制地位收取畸高的费用。
+They created a monopoly in the export of wool.他们垄断了羊毛出口。
+One company holds a monopoly of the raw materials. 一家公司垄断着原材料。
+The company lost its monopoly on exporting beer to India. 这家公司失去了向印度出口啤酒的专营权。
+They will fight to maintain their monopoly over local bus services. 他们会拼命维护在当地公交行业的垄断地位。
+Russian moves to end a state monopoly on land ownership 俄国人采取的终止国家垄断土地所有权的措施 
+the governing party's monopoly over the media 执政党对媒体的垄断 
+In the past central government had a monopoly on television broadcasting. 过去，中央政府对电视节目播放实行垄断。
+Electricity, gas and water were considered to be natural monopolies. 电、煤气和水垄断经营过去被认为是理所当然的。
+Water is a natural monopoly. 供水是自然垄断行业。
+Managers do not have a monopoly on stress. 并不只是经营管理者有压力。
+A good education should not be the monopoly of the rich. 良好的教育不应该成为富人的专利。
+Women do not have a monopoly on feelings of betrayal. 被出卖的感觉并非只有女性才有。
+public, state, state-controlled, state-owned monopoly 国家垄断组织；国有垄断组织 
+the privatization of state-owned monopolies such as the gas and electricity industries 煤气、电力等国有垄断行业的私有化 
+giant, powerful monopoly 垄断巨头；势力强大的垄断组织 
+private monopoly 私人垄断组织 
+statutory monopoly 合法的垄断组织 
+gas, oil monopoly 天然气垄断企业；原油垄断企业 
+the giant gas monopoly Gazprom 天然气垄断巨头俄罗斯天然气工业股份公司 
+media monopoly 媒体垄断组织
+
+n. 1 [C] 存在的事物:
+2 [U] ~ (of sth) 存在:
+n. 1 [C] 发生的事情:
+2 [U] ~ (of sth) 发生:
+occurrence |[əˈkʌrəns;美əˈkɜ:r-]
+The program counts the number of occurrences of any word, within the text. 这个程序可以统计任何单词在文本中出现的次数。
+These mild fits are quite a common occurrence in babies. 这种轻微的病症在婴儿中很常见。
+words with a high frequency of occurrence 高频词
+His visits became a regular occurrence. 他的拜访成了家常便饭。
+Complaints seemed to be an everyday occurrence. 似乎每天都有投诉。
+The food queues have become a daily occurrence across the country. 排队购买食品的长龙已成了全国各地每日可见的景象。
+Vandalism used to be a rare occurrence here. 过去这里很少发生故意破坏公物的事。
+a link between the occurrence of skin cancer and the use of computer monitors 皮肤癌的发生与使用电脑显示器之间的关联 
+The greatest occurrence of coronary heart disease is in those over 65. 65岁以上者是冠心病的最高发人群。
+
+vt. [正式] 达到某一年龄、水平或状况:
+vt.（通常在付出很多努力之后）成功获得或取得某东西:
+attain |[ə'teɪn]
+The cheetah can attain speeds of up to 97 kph. 猎豹的奔跑速度每小时可达97公里。
+Most of our students attained five ‘A’ grades in their exams. 我们多数学生的考试成绩是五个优。
+
+n. [C]（事件或历史的）遗留问题:
+n. [C]（事件或历史的）遗留问题:
+n. [C] 死者留下的遗产:
+legacy |[ˈlegəsi]
+Future generations will be left with a legacy of pollution and destruction. 留给子孙后代的将是环境的污染与破坏。
+a programme to overcome the legacy of inequality and injustice created by Apartheid 旨在消除种族隔离政策所遗留的不平等与不公正问题的项目 
+The old system has left a mixed legacy. 旧制度留下的遗产有好有坏。
+His influence on younger musicians is perhaps his greatest legacy. 对年轻音乐人的影响或许就是他最伟大的遗产。
+cultural legacy 文化遗产 
+These problems have arisen as a result of historical legacies. 这些问题是历史造成的。
+bitter legacy 遗留下的苦果 
+the enduring legacy bequeathed by the war years 战争年代遗留下来的长期问题 
+Such attitudes are a legacy from colonial times. 这些观念是殖民地时期遗留下来的。
+a great legacy of technical innovation 技术革新的伟大遗产
+Future generations will be left with a legacy of pollution and destruction. 留给子孙后代的将是环境的污染与破坏。
+a programme to overcome the legacy of inequality and injustice created by Apartheid 旨在消除种族隔离政策所遗留的不平等与不公正问题的项目 
+The old system has left a mixed legacy. 旧制度留下的遗产有好有坏。
+His influence on younger musicians is perhaps his greatest legacy. 对年轻音乐人的影响或许就是他最伟大的遗产。
+cultural legacy 文化遗产 
+These problems have arisen as a result of historical legacies. 这些问题是历史造成的。
+bitter legacy 遗留下的苦果 
+the enduring legacy bequeathed by the war years 战争年代遗留下来的长期问题 
+Such attitudes are a legacy from colonial times. 这些观念是殖民地时期遗留下来的。
+a great legacy of technical innovation 技术革新的伟大遗产
+They each received a legacy of $5 000. 他们每人得到了5 000元的遗产。
+You could make a real difference to someone's life by leaving them a generous legacy. 慷慨留下您的遗产，改写他人的人生。
+He received a large legacy from his uncle. 他得到了叔叔留下的大笔遗产。
+She left her the money in a legacy. 她把这笔钱遗赠给了她。
+She is the heir to a legacy of £1 million. 她是100万英镑遗产的继承人。
+
+a solid substance that has a conductivity between that of an insulator and that of most metals, either due to the addition of an impurity or because of temperature effects. Devices made of semiconductors, notably silicon, are essential components of most electronic circuits.:一种导电性介于绝缘体和大多数金属之间的固体物质，这是由于添加了杂质或由于温度影响。由半导体（尤其是硅）制成的器件是大多数电子电路的重要组成部分。
+semiconductor |ˌsɛmɪkənˈdʌktə| Noun/:半导体
+
+vt. [美] 用力量将某事物与其他事物分离开，相当于英式的prise:
+n. 1 [C] 给予某人的奖、奖励、奖金、奖品、奖项（因其赢得了比赛或在工作中表现出色）。是一种广义上的“奖”（有时可用于具体奖项名称），此时其词义范围与award极其类似，甚至很多情况下可互换。但是，第一，award尤指官方颁发的奖，而prize则无此限制；第二，prize还可指在彩票中抽中的奖；第三，两个词都含有一定的竞争性和荣誉性，但是prize的涵盖范围更广，在个别情况下只含有荣誉性（而无竞争性），比如consolation prize（安慰奖）:
+2 [C] 难以达成（或难以获得）的极重要或极有价值的事情或事物:
+adj. 只用于名词前，（尤指一只动物、一株花或蔬菜）足够好因而在一场比赛中赢得一个奖项的:
+adj.（同类中）可作为一个极好的典范的:
+vt. prize sth (for sth) 常用被动式，高度重视某事物（如珍视），相当于treasure:
+prize |[praɪz]
+the Nobel Peace prize 诺贝尔和平奖 
+first, second prize 头奖；二等奖 
+consolation prize 安慰奖 
+cash prize 现金奖 
+The prize was presented by the mayor. 奖项由市长颁发。
+The prize went to the long-haired cat. 奖项由那只长毛猫获得。
+a prize worth over $3 000 价值3000多美元的奖品 
+prize winner（通常用prizewinner）获奖者 
+prize money 奖金 
+prize competition, prize draw（英）大奖赛；抽奖 
+World peace is the greatest prize of all. 世界和平是最可贵的珍宝。
+The presidency is the ultimate prize. 总统的职位是最高的奖励。
+glittering prize（尤英）辉煌的成就
+prize cattle 能获奖的牛
+a prize student 模范学生 
+He’s a prize specimen of the human race! 他是人中楷模！
+He’s a prize idiot.（非正式用法）他是个十足的蠢猪。
+an era when honesty was prized above all other virtues 尊诚实为美德之首的时代 
+The berries are prized for their healing properties. 这些浆果因有治疗作用而备受喜爱。
+a precious thing to be prized above all else 一件比其他所有东西都更被看重的珍品 
+The library is prized as the finest of its kind in England. 这家图书馆被认为是英格兰同类图书馆中最好的。
+
+vt.&vi. ~ (sth) (from sb) 继承（逝者的金钱、财产等）:
+vt. ~ (sth) (from sb) 接替某人的职责，如继任:
+vt. ~ (sth) (from sb) 经遗传获得（品质、身体特征等）:
+inherit |[ɪnˈherɪt]
+She inherited a fortune from her father. 她从她父亲那里继承了一大笔财富。
+He has no son to inherit his land. 他没有儿子来继承田产。
+paintings that he inherited from his father 他从父亲那里继承来的油画 
+He stood to inherit (= was likely to inherit)property worth over five million.当时他很有可能继承价值 500 多万的财产。
+She inherited some money from her mother. 她从母亲那里继承了一笔钱。
+policies inherited from the previous administration 因袭上届政府的政策 
+The government inherited an impossible situation from its predecessors. 这届政府从前任那里接过了一个非常棘手的烂摊子。
+Our legal system inherited laws from the English system. 我们的司法体系沿袭了英国的法律体系。
+He has inherited his mother's patience. 这种耐心是母亲遗传给他的。
+an inherited disease 遗传病 
+How many of these traits are genetically inherited? 这些特征中有多少是遗传的?
+We inherit from our parents many of our physical characteristics. 我们的许多身体特征都是从父母那里遗传而来的。
+Her children have inherited her love of sport. 她的孩子们继承了她对运动的热爱。
+
+n. [C] 作为某事物名字的词或短语，尤指某种语言中的术语，用语:
+vt. 用某个名字或词语来描述…，即把…称作:
+This material is variously termed ash, clinker, cinders or slag. 这种材料有多种叫法:
+n. 1 [C] 某事持续的一段时间，一段固定或有限的时间，即期，期限，任期等:
+2 [sing.] 正式用法，指到期，期满，尤指协议等的到期:
+n. [C] 数列、方程等的项:
+n. [C] 某种用语、说法:
+n. [C, U] [尤英，美也用trimester] 学校中一年的三个学期之一:
+n. [C, pl.] terms 可表示协议、条约等的条款:
+term |[tə:m]
+specific, descriptive, common, technical term 特定用语；描述性术语；常用术语；专业术语 
+basic, key term 基本术语；关键术语 
+derogatory, pejorative term 贬称；蔑称 
+legal, medical, musical term 法律术语；医学术语；音乐术语 
+The term ‘acid rain’ was coined in the 19th century.“酸雨”这个术语是19世纪创造出来的。
+I think we can apply the term ‘genius’ to the painter. 我想我们可以称这位画家为“天才”。
+At his age, he can hardly be termed a young man. 到了这个年纪，他称不上是年轻人了。
+His condition would be more accurately termed as ‘chronic fatigue’. 更准确地说，他的病叫做“慢性疲劳”。
+jail, prison term 服刑期 
+The contract was for a fixed term of five years. 合同为五年固定期限。
+presidential term 总统任期 
+In the long term, our efforts will pay off. 从长远来看，我们的努力会得到回报。
+Her baby was born at term. 她的宝宝足月降生了。
+the term of the loan 贷款期限 
+His life had reached its natural term. 他已尽其天年。
+colloquial, slang term 口语说法；俚语说法 
+a term of abuse, a term of endearment 骂人的字眼；亲昵的说法 
+ambiguous, vague term 模棱两可的用语；模糊的用语 
+mild, strong term 温和的措辞；强硬的措辞 
+glowing terms 热情洋溢的措辞 
+I let them know in no uncertain terms how disappointed I was. 我明确地让他们知道我是多么失望。 
+college, school, university（英）term 学院的学期；学校的学期；大学的学期 
+spring term 春季学期 
+term paper（美）学期论文
+the terms of the agreement 该协议的各项条款 
+terms and conditions 条款 
+contract, credit, peace term 合同条款；信贷条款；和平条款 
+to set the terms of the debate 设定辩论的规则 
+under the terms of the alliance 根据盟约规定 
+The dispute was resolved on amicable terms. 争端在友好的气氛中得以解决。
+
+n. [U] 人道；仁慈:
+n. 1 [U]（统称）人；人类:
+2 [U] 人（而非神、非动物、非机器、非物体）:
+n. [pl.] (the) humanities可指人文学科（如历史、哲学、文学等）:
+humanity |[hju:ˈmænəti]
+The judge was praised for his courage and humanity. 法官的勇气和人道受到称赞。
+a man who's almost lost his humanity in his bitter hatred of his rivals 因痛恨竞争对手而几乎丧失人性的男子 
+Guilt and a sense of common humanity make people less harsh. 内疚感和人类的博爱使得人们少了几分严酷。
+They face charges of committing crimes against humanity. 他们被控犯有反人类罪。
+a young lawyer full of illusions and love of humanity 满脑子幻想并且博爱的年轻律师 
+The story was used to emphasize the humanity of Jesus. 人们用这个故事来强调耶稣人性的一面。
+united by a sense of common humanity 因一种同是人的情感而团结在一起 
+a man who's almost lost his humanity in his bitter hatred of his rivals 因痛恨竞争对手而几乎丧失人性的男子
+students majoring in the humanities 主修人文学科的学生
+
+n. 1 [C, usually pl.]（为达成某事所用的）战术、策略、手段、招数:
+2 [pl.] tactics 指军警所用的战术:
+n. 1 [C, usually pl.]（为达成某事所用的）战术、策略、手段、招数:
+2 [pl.] tactics 指军警所用的战术:
+tactic |[ˈtæktɪk]
+subtle tactic 巧妙的战术 
+Some players see injuring their opponent as a legitimate tactic. 有些运动员把使对手受伤看作正当的战术。
+revolutionary, violent tactic 革命手段；暴力手段 
+aggressive, bully-boy（英）, bullying, hardball（美）, heavy-handed, strong-arm tactic 积极主动的策略；欺凌手段；强硬策略；高压手段；强制手段 
+non-violent, softly-softly 非暴力手段；耐心细致的方式 
+smear tactic 抹黑手段 
+avoidance, delaying, diversionary, spoiling, stalling tactic 回避策略；拖延战术；牵制战术；破坏战术 
+Children are adept at delaying tactics. 孩子们很会磨蹭 
+time-wasting tactic 浪费时间的战术 
+The coach was criticized for his negative tactics. 教练由于采用消极战术而受到了批评。
+short-term tactic 短期策略 
+campaigning, marketing, negotiating, promotional, sales tactic 竞选策略；营销策略；谈判策略；促销策略；销售策略 
+parliamentary, political tactic 议会策略；政治策略 
+She decided on a stalling tactic. 她决定采取拖延战术。
+the temptation to use underhand tactics 使用卑鄙手段的诱惑 
+They were desperate enough to try shock tactics. 他们不顾一切要采用震惊战术。
+I refuse to stoop to such bullying tactics. 我拒绝下作到使用这种霸道手段。
+They would do well to switch tactics. 他们最好转变一下策略。
+Longer races demand different tactics. 较长距离的速度竞赛需要采取不同的战术。
+His strong-arm tactics paid off. 
+Teachers learn tactics for dealing with aggressive children. 老师们应学习对付爱惹是生非的孩子的策略。
+We use a variety of tactics to make learning fun. 我们运用各种策略使学习有趣起来。
+They tried all kinds of tactics to get us to go. 他们施尽所有的招数想让我们去。
+This was just the latest in a series of delaying tactics. 这只是一系列拖延战术中的一个新花招。
+The manager discussed tactics with his team. 经理和他手下的一班人讨论了策略问题。
+Confrontation is not always the best tactic. 对抗并非总是上策。
+What sort of tactics will the President use to rally the people behind him? 总统会用什么样的策略把人们号召起来支持他呢？
+He pressed on in the hope that a few others would join him. The tactic paid off. 他硬着头皮干下去，希望能有几个人加入进来。这一招奏效了。
+guerrilla, militant, military, naval, police, tactics 游击战术；军事战术；海军战术；警方战术 
+intimidation, psychological tactics 恫吓战术；心理战术 
+interrogation tactics 审讯策略
+subtle tactic 巧妙的战术 
+Some players see injuring their opponent as a legitimate tactic. 有些运动员把使对手受伤看作正当的战术。
+revolutionary, violent tactic 革命手段；暴力手段 
+aggressive, bully-boy（英）, bullying, hardball（美）, heavy-handed, strong-arm tactic 积极主动的策略；欺凌手段；强硬策略；高压手段；强制手段 
+non-violent, softly-softly 非暴力手段；耐心细致的方式 
+smear tactic 抹黑手段 
+avoidance, delaying, diversionary, spoiling, stalling tactic 回避策略；拖延战术；牵制战术；破坏战术 
+Children are adept at delaying tactics. 孩子们很会磨蹭 
+time-wasting tactic 浪费时间的战术 
+The coach was criticized for his negative tactics. 教练由于采用消极战术而受到了批评。
+short-term tactic 短期策略 
+campaigning, marketing, negotiating, promotional, sales tactic 竞选策略；营销策略；谈判策略；促销策略；销售策略 
+parliamentary, political tactic 议会策略；政治策略 
+She decided on a stalling tactic. 她决定采取拖延战术。
+the temptation to use underhand tactics 使用卑鄙手段的诱惑 
+They were desperate enough to try shock tactics. 他们不顾一切要采用震惊战术。
+I refuse to stoop to such bullying tactics. 我拒绝下作到使用这种霸道手段。
+They would do well to switch tactics. 他们最好转变一下策略。
+Longer races demand different tactics. 较长距离的速度竞赛需要采取不同的战术。
+His strong-arm tactics paid off. 
+Teachers learn tactics for dealing with aggressive children. 老师们应学习对付爱惹是生非的孩子的策略。
+We use a variety of tactics to make learning fun. 我们运用各种策略使学习有趣起来。
+They tried all kinds of tactics to get us to go. 他们施尽所有的招数想让我们去。
+This was just the latest in a series of delaying tactics. 这只是一系列拖延战术中的一个新花招。
+The manager discussed tactics with his team. 经理和他手下的一班人讨论了策略问题。
+Confrontation is not always the best tactic. 对抗并非总是上策。
+What sort of tactics will the President use to rally the people behind him? 总统会用什么样的策略把人们号召起来支持他呢？
+He pressed on in the hope that a few others would join him. The tactic paid off. 他硬着头皮干下去，希望能有几个人加入进来。这一招奏效了。
+guerrilla, militant, military, naval, police, tactics 游击战术；军事战术；海军战术；警方战术 
+intimidation, psychological tactics 恫吓战术；心理战术 
+interrogation tactics 审讯策略
+
+
+tactics |英 ['tæktɪks]  美 ['tæktɪks]| n. 策略；战术；用兵学/
+
+
+
+n. [C] 千米，公里（距离单位，等于1000米）:
+kilometre |['kɪləmi:tə]（美kilometer）
+only one kilometre from the border 距离边境只有一公里
+
+adj. 1 通常用于名词前，不是通常的，不同于一般的，如特殊的，特别的，不寻常的，不一般的，相当于exceptional:
+2 为某一目的所组织（或安排）的；针对某一特定目的的:
+3 为特定的一个人（或一群人）所使用的；专门针对特定的一个人（或一群人）的:
+4 只用于名词前，比通常情况更好的（或更多的）:
+n. [C] 人们通常不能获得，而只针对某一目的（或在某一场合）来提供的东西，如特别活动（或节目），特制产品等:
+n. [C] 特色饮食:
+n. [C] 人们通常不能获得，而只针对某一目的（或在某一场合）来提供的东西，如特别活动（或节目）等:
+n. [C] [尤美，非正式] 一家商店或餐馆中某一特定产品的低于通常的一个价格，即特价:
+n. [C] 人们通常不能获得，而只针对某一目的（或在某一场合）来提供的东西，如特制产品等:
+adj. 比其他一些事物更重要的；比一般事物或情况应得到（或得到）更多关注的:
+special |['speʃl]
+The school will only allow this in special circumstances. 学校只有在特殊情况下才会同意这种事。
+Some of the officials have special privileges. 有些官员享受特权。
+There is something special about this place. 这个地方有几分特别。
+special event 特设活动 
+These teachers need special training. 这些教师需要专门的培训。
+She has a special way of smiling. 她微笑的样子有些特别。
+He sent a special message to the men. 他给那些人专门去了一封信。
+As an only child she got special attention. 她是个独生女，所以备受关爱。
+Please take special care of it. 请对它多加关照。
+The restaurant has daily specials. 这家餐馆有每日特色菜。
+a TV special 电视特别节目 
+comedy, election special 喜剧特辑；选举特辑
+The menu changes regularly and there are daily specials to choose from. 菜谱定期更换，而且每天都有特色菜供选择。
+TV special 电视特别节目 
+holiday special（尤美）假期特别节目 
+comedy special 喜剧特辑 
+election special 选举特辑 
+two-hour special 两小时的特辑
+There’s a special on coffee this week. 本周咖啡特价。
+What are your special interests? 你有哪些主要的爱好？
+She’s a very special friend. 她是我特别要好的朋友。
+Our special guest on next week’s show will be … 我们下周节目的特邀嘉宾是… 
+Don’t lose it--it’s special. 别丢了——这可不是一般的东西。
+
+n. [U, sing.]（问题、分歧等的）解决或消除:
+n. 1 [U] 坚定、坚决（的品质）:
+2 [C] ~ (to do sth)（关于做某事或不做某事的）坚定的决定或决心:
+n. [C] 委员会（尤指通过表决的方式）通过的决议、正式决定:
+n. [U, sing.]（计算机屏幕、打印机、印刷机等产生的图像的）清晰度、分辨率:
+resolution |[ˌrezəˈlu:ʃn]
+The government is pressing for an early resolution of the dispute. 政府正在不断敦促早日解决这起纠纷。
+the successful resolution of a dispute involving UN inspectors in Baghdad 涉及联合国驻巴格达观察员的争端的成功解决 
+in order to find a peaceful resolution to the crisis 为了和平解决此次危机 
+Hopes of a peaceful resolution to the conflict were fading. 和平解决冲突的希望日渐渺茫。
+methods of conflict resolution 解决冲突的方法 
+the non-violent resolution of conflict 冲突的非暴力解决 
+the likelihood of achieving a satisfactory resolution to the problem 妥善解决该问题的可能性
+The reforms owe a great deal to the resolution of one man. 这些改革主要归功于一个人的坚定决心。
+'I think I'll try a hypnotist,' I said with sudden resolution. “我会找催眠师试试，”我突然坚决地说。
+She showed great resolution in her dealings with management. 她与管理人员打交道时态度十分坚决。
+They made a resolution to lose all the weight gained during the Christmas period. 他们下定决心要减去圣诞期间增加的体重。
+She made a resolution to visit her relatives more often. 她决定要多走走亲戚。
+Have you made any New Year's resolutions (= for example, to give up smoking from 1 January)? 你有什么新年计划吗？
+I made a New Year's resolution to give up smoking. 我决心在新的一年把烟戒掉。
+a draft resolution on the occupied territories 针对被占领领土的决议草案 
+a joint US-British resolution 美英联合决议 
+congressional, Security Council, Senate, shareholder, UN resolution 国会决议；安理会决议；参议院决议；股东决议；联合国决议 
+war resolution 战争决议 
+budget resolution（美）预算决议 
+The legislature has approved a resolution calling for the removal of such advertising. 立法机构通过了一项决议，要求取消此类广告。
+The resolution was carried unanimously. 决议获一致通过。
+The resolution called for the resumption of negotiations. 决议要求恢复谈判。
+a resolution declaring independence 宣布独立的决议 
+The assembly adopted a resolution approving the plan. 大会采纳了通过该方案的决议。
+a resolution condemning the invasion 谴责入侵的决议 
+weapons banned under Resolution 687 687号决议禁止使用的武器 
+The General Assembly rejected the resolution on the subject of arms control. 联合国大会否决了关于军备控制的决议。
+He replied that the UN had passed two major resolutions calling for a complete withdrawal. 他答复说联合国已经通过了两项号召全面撤军的重要决议。
+high-resolution graphics 高清晰度的图形 
+image, screen resolution 图像分辨率；屏幕分辨率 
+a monitor capable of a 1,024 by 768 pixel resolution 1,024×768像素的显示器 
+24-bit resolution 24比特分辨率 
+Now this machine gives us such high resolution that we can see very small specks of calcium. 现在这台机器可以呈现很高的分辨率，我们可以看见非常小的钙微粒。
+
+exclamation. [尤美，非正式] 用于表示惊奇，愤怒等，即哇！天哪！:
+exclamation. [尤美，非正式] 用于表示愤怒，即天哪！:
+n. [sing.] [旧时，正式] 男仆:
+vt. 在某个岗位上工作或负责某个岗位；负责操作一个机器；为某地的工作配备人员，相当于crew或staff:
+n. [C]（有时含贬义）丈夫、情人或男友:
+n. [C] 国际象棋中的棋子:
+n. 1 [U] 特定历史时期的人类，也可指广义上的人类，不过是一种代指:
+2 [C] [文学，或旧时]（不论性别的）人（有些人不喜欢这种用法）:
+3 [C]（构成复合词）（来自某地、从事某种工作或有某种兴趣等的）人:
+4 [C]（喜欢某事或做某事的）人:
+5 [C] 为某一组织工作的人；支持某一组织的人；来自某一城镇的人等:
+n. 1 [C] 成年男子:
+2 [C] 勇敢强壮的人；尤其具有雄性气质的男人，男子汉:
+n. 1 [sing.] [尤美，非正式] 用于称呼一个男人，如哥们儿:
+2 [sing.] [旧时] 以一种生气或不耐烦的方式对某人做出的称呼:
+n. 1 [C, usually pl.] 遵照上司指令的男性工人:
+2 [C] 上门服务的人:
+n. [C, usually pl.] 遵照上司的指令的战士，不包括军官，此时是一种非正式用法:
+man |[mæn]
+Man, that was great! 哇，太棒了！
+My man will drive you home. 我的仆人会开车送你回家。
+French soldiers manned roadblocks in the capital city. 法国士兵控制了首都的路障。
+the person manning the phone at the complaint department 在投诉部负责接听电话的人
+What’s her new man like? 她的新男友怎么样？
+I now pronounce you man and wife. 我现在正式宣布你们结为夫妇。
+the damage caused by man to the environment 人类给环境带来的破坏 
+primitive man 原始人 
+Stone Age man 石器时代的人类 
+In man the brain is highly developed. 人类的大脑高度发达。
+All men must die. 所有的人都会死的。
+The chick initially has no fear of man. 小鸡最初不怕人。
+a Frenchman 法国人 
+a businessman 生意人 
+a medical man 医务工作者 
+a sportsman 运动员 
+betting man, gambling man, drinking man, fighting man 赌徒；酒鬼；打架的人 
+the BBC’s man in Moscow 英国广播公司驻莫斯科的新闻记者 
+a loyal Republican Party man 一名忠诚的共和党人 
+a Yale man 耶鲁人
+elderly, young man 年长的男人；年轻男子 
+grown man 成年男子 
+brave man 勇敢的男子 
+charming man 有魅力的男人 
+quiet man 安静的男子 
+bad, horrible man 坏男人；可怕的男人 
+married man 已婚男子 
+family man 顾家的男人 
+professional man 职业男性 
+Come on, now--be a man. 快点儿，像个男子汉的样子。
+She’s more of a man than he is. 她比他有男子气。
+Nice shirt, man! 好漂亮的衬衣啊，哥儿们！
+Hey man. Back off! 喂，伙计，退后！
+Don’t just stand there, man--get a doctor! 你这家伙，别只是站着——赶紧去找医生呀！
+the gas man 煤气工人 
+The man’s coming to repair the TV today. 修理工今天来修电视。
+The officer refused to let his men take part in the operation. 这名军官拒绝让他的士兵参加这次军事行动。
+
+adj. 圆形的；环形的；圆的:
+n. [C]（同时送达很多人的）印刷通知:
+n. [C]（同时送达很多人的）印刷信函:
+adj. 沿着环形移动的，如（旅程或路线）环行的，巡回的:
+adj.（一封信）在一大群人中间送达或传阅的:
+n. [C]（同时送达很多人的）印刷广告:
+adj.（论点或理论）循环论证的（以一种观点证明另一观点，接着再用后一种观点反过来去证明前一观点）:
+circular |[ˈsɜ:kjələ(r);美ˈsɜ:rk-]
+a circular building 圆形建筑物 
+The house looks almost circular. 这房子看起来几乎是圆的。
+a circular hole twelve feet wide and two feet deep 十二英尺宽，两英尺深的圆坑 
+The crater was two miles across and roughly circular. 这个火山口有两英里宽，大致呈圆形。
+He had round unblinking eyes and a perfectly circular head. 他的眼睛圆溜溜的，一眨不眨，脑袋也圆圆的。
+The proposal has been widely publicized in BBC-TV press information circulars sent to 1,800 newspapers. 在英国广播公司电视台发送给1,800家报社的新闻通报中，这项提议得到了广泛的宣传。
+a circular tour of the city 环城游览 
+Both sides of the river can be explored on this circular walk. 沿着这条环行线路走一圈，河的两边都可以看到。
+
+n. 1 [U] 棒球运动:
+2 [C] 棒球运动所用的球，即棒球:
+baseball |['beɪsbɔ:l]
+baseball game 棒球比赛 
+baseball team 棒球队 
+baseball coach 棒球教练 
+baseball field 棒球场 
+baseball bat, baseball glove 棒球球棒；棒球手套 
+baseball cap, baseball hat 棒球帽 
+baseball practice 棒球训练 
+to throw baseball 掷棒球 
+to hit baseball 击棒球 
+to catch baseball 接棒球
+
+A limitation is a fact or situation that allows only some actions and makes others impossible. 限制因素
+If you talk about the limitations of someone or something, you mean that they can only do some things and not others, or cannot do something very well. 局限
+A limitation on something is a rule or decision which prevents that thing from growing or extending beyond certain limits. 限定
+The limitation of something is the act or process of controlling or reducing it. 限制
+limitation |英 [lɪmɪ'teɪʃ(ə)n]  美 [,lɪmɪ'teʃən]| n. 限制；限度；极限；追诉时效；有效期限；缺陷/
+This drug has one important limitation. Its effects only last six hours.这种药物有一个很大的限制因素，其药效只能持续6个小时。
+I realized how possible it was to overcome your limitations, to achieve well beyond what you believe yourself capable of.我意识到如何有可能克服自身的局限，取得自认为力不能及的成就。
+...a limitation on the tax deductions for people who make more than $100,000 a year.…对年收入高于10万美元者在减税上的限定。
+All the talk had been about the limitation of nuclear weapons.整个会谈都是关于核武器的限制。
+
+
+vt. 使某事做起来（或理解起来）容易，如使简化，使简易:
+simplify |['sɪmplɪfaɪ]
+The whole process has now been greatly simplified. 现在整个流程都大大简化了。
+to simplify applications 简化申请程序 
+I hope his appointment will simplify matters. 我希望他任命以后事情会好办一些。
+a simplified version of the story for young children 供小朋友阅读的一个故事简写本 
+He presents the theory in a grossly simplified form. 他极其简明地陈述了这个理论。
+
+vi. 人们来到一个地方而形成一个更大的群体，如聚集、集合，相当于gather:
+vt.＆vi. 在一个地方的数量逐渐增加；在一个地方逐渐获得越来越多的某东西。如积聚、积累，相当于accumulate:
+vt. 1 collect sth (from sb/sth) 从不同的人或地方那里把一些东西弄到一起，可称为收集、采集，相当于gather:
+2 作为一种业余爱好而购买或寻找某类东西并将其保留起来，即收藏、搜集、收集:
+vt. collect sb/sth (from ...) 去某地把某人或某事物带走，如领走、取走等:
+adj. [美]（电话）由受话人付费的:
+vt.＆vi. 收到（某事物）；赢得或获得（某事物）。不常用:
+vt.＆vi. 收到金钱；赢得或获得金钱等。不常用:
+vt. 收取别人欠你的钱款，即收欠款、收账（如到其住宅处去收账）:
+vt.＆vi. collect (sth) (for sth) 让人们为了某个目的而给你钱，如募捐:
+collect |[kə'lekt]
+A crowd began to collect in front of the embassy. 人群开始在大使馆前面聚集。
+Dirt had collected in the corners of the room. 房间的角落里积满了灰尘。
+We seem to have collected an enormous number of boxes (= without intending to). 我们似乎无意中积存了大量的盒子。
+That guitar’s been sitting collecting dust for years now. 那把吉他至今已尘封多年。
+to collect data, to collect evidence, to collect information, to collect signatures 收集数据；收集证据；收集信息；收集签名 
+Samples were collected from over 200 patients. 已从200多名病人身上取样。
+to collect stamps 集邮
+to collect the garbage 收运垃圾 
+The package is waiting to be collected. 这包裹在等人领取。
+She’s gone to collect her son from school.（英）她到学校接她儿子去了。
+to make a collect call 打对方付费的电话
+She collected £8 000 in compensation. 她得到了8000英镑赔偿金。
+to collect a prize, to collect a medal 获奖；赢得奖牌
+She collected £800 in compensation. 她得到了800英镑赔偿金。
+collect rent, collect debts, collect tax 收租金；讨债；征税
+We’re collecting for local charities. 我们正在为当地慈善机构募捐。
+We collected over £300 for the appeal. 我们为此呼吁募集了300多英镑。
+
+vt. bank sth (up) 使某物堆积起来:
+n. [C] 收集起来的一定数量的事物，即收集物:
+n. [C] 贮存某事物的地方，即库:
+n. [C] 河（或湖）边或其附近的地区，即岸、畔、堤（表示湖畔时，与shore有交集。shore偶尔也可表示河岸，不过此时是在强调河流的宽度，现实中极不常见）:
+n. 1 [C]（尤指被风吹到一起的）积云或积雪等:
+2 [C] 一排或一系列同类物品，尤指机器:
+vt. bank sth (up) 用灰等封火，使其缓慢地燃烧:
+n. [C] 贮存某事物的地方，即库:
+n. [C] 像“堤”一样的土地形态，如垄、埂:
+vt. 把钱存入银行:
+vi. bank (with/at …) 可指在银行开立账户:
+n. [C] 银行，可指银行机构，也可指银行的建筑物:
+vi. 飞机转向时斜着飞行:
+n. [C] 可指路面拐弯处的（便于车辆快速行驶的）边坡:
+n. [C]（尤指被风吹到一起的）积云或积雪等:
+n. [C]（尤指被风吹到一起的）积雪:
+n. [C] 赌博中庄家的赌本、筹码:
+bank |[bæŋk][bæŋk]
+They banked the earth (up) into a mound. 他们把土堆成一个土丘。
+a bank of knowledge 知识宝库 
+blood, sperm bank 血库；精子库
+canal, river bank 运河堤岸；河岸 
+a house on the bank 河畔的一座房子 
+to wave on the opposite bank 在对岸挥手 
+The river had burst its banks after torrential rain. 暴雨过后河水决堤了。
+a vast bank of cloud 一大片云 
+a bank of lights, a bank of computers 一排灯；一排计算机 
+a huge bank of switches and buttons 一大排开关和按钮
+The fire was banked up. 炉火被封了起来。
+a bank of knowledge 知识宝库 
+blood, sperm bank 血库；精子库
+low banks of earth between the rice fields 稻田之间的低矮田埂 
+The children ran down the grassy bank. 孩子们沿着长满草的斜坡跑下。
+to bank £10 million in two years 两年内在银行存1000万英镑 
+The family had banked with Coutts for generations. 那家几代人都在库茨银行存钱。
+central, commercial, investment, savings bank 中央银行；商业银行；投资银行；储蓄银行 
+overseas bank 海外银行 
+bank account, bank deposit 银行账户；银行存款 
+bank manager 银行经理
+The plane banked steeply to the left. 飞机向左做高度倾斜飞行。
+a vast bank of cloud 一大片云

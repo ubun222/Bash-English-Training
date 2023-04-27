@@ -45,7 +45,7 @@ decade |ˈdɛkeɪd| Noun/:十年,年代
 he taught at the university for nearly a decade:他在大学任教近十年
 the fourth decade of the nineteenth century:十九世纪的第四个十年
 a local priest led the mourners in a decade of the rosary:一位当地牧师带领哀悼者参加了十年的玫瑰经
-power per decade of frequency:power每十倍频率
+power per decade of frequency:每十年频率的功率
 
 the length of the space between two points:两点之间的空间长度
 the condition of being far off, remoteness:远离、遥远的条件
@@ -60,7 +60,7 @@ the scheduled length of a fight:预定的战斗时间
 the avoidance of familiarity, reserve:避免熟悉，保留
 distance |ˈdɪst(ə)ns| Noun/Verb/:距离,保持距离,间距
 I cycled the short distance home:我骑着短途回家
-distance makes things look small:distance让事情看起来很小
+distance makes things look small:距离使事物显得渺小
 watching them from a distance:从远处看他们
 I heard police sirens in the distance:我听到远处的警笛声
 the sort of goal which remains in the memory even at a distance of six years:那种即使相隔六年仍留在记忆中的目标
@@ -69,7 +69,7 @@ he stormed home by a distance in the Handicap Chase:他在障碍追逐赛中从�
 he has won his first five fights inside the distance:他在远距离内赢得了前五场比赛
 a mix of warmth and distance makes a good neighbour:温暖与距离的结合造就了好邻居
 
-lasting or intended to last or remain unchanged indefinitely:lasting或打算持续或无限期保持不变
+lasting or intended to last or remain unchanged indefinitely:持续或打算持续或无限期保持不变
 lasting or continuing without interruption:持续或不间断地继续
 a perm for the hair:烫头发
 permanent |ˈpəːmənənt| Adjective/Noun/:永恒的,烫发,常驻,永久,常设
@@ -87,22 +87,22 @@ a thing conferred as a distinction, especially an official award for bravery or 
 a special distinction for proficiency in an examination:a考试熟练程度的特殊区别
 a course of degree studies more specialized than for an ordinary pass:比普通通行证更专业的学位课程
 the right of driving off first, having won the previous hole:先开球的权利，赢得了上一洞
-an ace, king, queen, jack, or ten.:一张A、K、Q、J或10。
+an ace, king, queen, jack, or ten.:A、K、Q、J 或 10。
 possession in one's hand of at least four of the ace, king, queen, jack, and ten of trumps, or of all four aces in no trumps, for which a bonus is scored.:possession在一个人的手中至少有四个A、K、Q、J和10个王牌，或者所有四个A都没有王牌，获得奖金。
-(in whist) an ace, king, queen, or jack of trumps.:(inwhist)一张王牌、王牌、王后或王牌。
+(in whist) an ace, king, queen, or jack of trumps.:（惠斯特）王牌、王牌、王后或王牌。
 regard with great respect:怀着极大的敬意
 pay public respect to:向公众表示敬意
-fulfil (an obligation) or keep (an agreement):fulfil（义务）或保持（协议）
-accept (a bill) or pay (a cheque) when due:accept（账单）或支付（支票）到期时
+fulfil (an obligation) or keep (an agreement):履行（一项义务）或遵守（一项协议）
+accept (a bill) or pay (a cheque) when due:到期时接受（账单）或支付（支票）
 honour |ˈɒnə| Noun/Verb/:荣誉,尊敬,兑现,荣耀
 his portrait hangs in the place of honour:他的肖像挂在荣誉的地方
 you are an honour to our profession:你是我们职业的荣幸
 I must as a matter of honour avoid any taint of dishonesty:为了荣誉，我必须避免任何不诚实的污点
 she died defending her honour:她为捍卫自己的荣誉而死
-Mrs Young had the honour of being received by the Queen:MrsYoung有幸被女王接见
+Mrs Young had the honour of being received by the Queen:杨夫人有幸受到女王接见
 the highest military honours:最高军事荣誉
 she passed with honours:她以优异成绩通过
-Kyle had the honour at the last hole:Kyle在最后一洞获得了荣誉
+Kyle had the honour at the last hole:凯尔在最后一洞获得了荣誉
 they honoured their parents in all they did:他们所做的一切都孝敬父母
 talented writers were honoured at a special ceremony:才华横溢的作家在特别仪式上获得荣誉
 make sure the franchisees honour the terms of the contract:确保加盟商遵守合同条款
@@ -192,7 +192,7 @@ she slogged her way round the supermarket doing the weekly shop:她在超市兜�
 an auto repair shop:一家汽车修理厂
 the machine shop:机械车间
 she pointed to the classroom ceiling—‘I live here, over the shop.’:她指着教室的天花板——“我住在这里，在商店那边。”
-she shopped for groceries twice a week:she每周买两次杂货
+she shopped for groceries twice a week:她每周买两次杂货
 they shopped around for cheaper food:他们四处寻找更便宜的食物
 she shopped her husband to bosses for taking tools home:她把她的丈夫买给老板，因为她把工具带回家
 I reckon you shopped the image:我认为你购买了图片
@@ -273,7 +273,7 @@ denoting the length of each side of a square shape or object:表示正方形或�
 at right angles, perpendicular:直角，垂直
 in a direction transversely across the field or pitch:在横向穿过场地或球场的方向
 having or denoting an aspect of 90°:具有或表示90°的一个方面
-level or parallel:level或并行
+level or parallel:水平或平行
 properly arranged, in good order:安排得当，井井有条
 compatible or in agreement:兼容或一致
 fair and honest:公平诚实
@@ -284,15 +284,15 @@ old-fashioned or boringly conventional:老式或无聊的传统
 directly, straight:直接，直
 fairly, honestly:公平，诚实
 in a direction transversely across the field or pitch:在横向穿过场地或球场的方向
-make square or rectangular, give a square or rectangular cross section to:makesquareorrectangle,给一个正方形或长方形的横截面
+make square or rectangular, give a square or rectangular cross section to:制作正方形或长方形，给出正方形或长方形的横截面
 mark out in squares:用方块标出
-multiply (a number) by itself:multiply（一个数字）本身
-balance (an account):balance（一个账户）
+multiply (a number) by itself:乘以（一个数）本身
+balance (an account):会）
 make the score of (a match or game) even:使（一场比赛或比赛）的比分相等
 bring (one's shoulders) into a position in which they appear square and broad, typically to prepare oneself for a difficult task or event:把（一个人的肩膀）放在一个看起来方正而宽阔的位置，通常是为了让自己为困难的任务或事件做好准备
 adopt a posture of defence.:采取防御姿态。
-secure the help or acquiescence of (someone), especially by offering an inducement:secure（某人）的帮助或默许，尤其是通过提供诱因
-pass (a ball) across the field, especially towards the centre.:pass（一个球）穿过球场，尤其是向中路。
+secure the help or acquiescence of (someone), especially by offering an inducement:获得（某人）的帮助或默许，尤指通过提供诱因
+pass (a ball) across the field, especially towards the centre.:将（球）传过场地，尤指向中心传球。
 set (a yard or other part of a ship) at right angles to the keel or other point of reference.:set（船坞或船的其他部分）与龙骨或其他参考点成直角。
 (of a planet) have a square aspect with (another planet or position):（一颗行星）与（另一颗行星或位置）呈四分相
 square |skwɛː| Adjective/Adverb/Noun/Verb/:正方形,正方形的,挺直身子,正对着,广场
@@ -314,15 +314,15 @@ he was short and square:他又矮又小
 30,000 square feet of new gallery space:30,000平方英尺的新画廊空间
 the office was fifteen feet square:办公室是十五英尺见方
 these lines must be square to the top and bottom marked edges:这些线必须与顶部和底部标记的边缘成直角
-Keen's square pass was rammed home first time by Bishop:Keen的方传球第一次被Bishop撞回家
+Keen's square pass was rammed home first time by Bishop:基恩的方形传球被毕肖普第一次撞到家
 Jupiter is square to the Sun:木星与太阳四分相
 place two pieces of wood one on top of the other, ensuring that they are exactly square:将两块木头放在另一块上面，确保它们完全是正方形的
 we should get everything square before we leave:我们应该在我们离开之前把一切都摆平
-he wanted to make sure we were square with the court's decision and not subject to a lawsuit:he想确保我们与法院的判决一致并且不受诉讼
+he wanted to make sure we were square with the court's decision and not subject to a lawsuit:他想确保我们与法院的判决一致并且不受诉讼
 she'd been as square with him as anybody could be:她和他一样待人接物
 an acknowledgement that we are square:承认我们是正直的
 the goal brought the match all square once again:这个进球再次让比赛全面展开
-Elvis was anything but square:Elvis绝不是方形的
+Elvis was anything but square:埃尔维斯绝不是方形的
 the ball hit me square in the forehead:球正中我的额头
 I'd acted square with him:我对他采取了直言不讳的态度
 the ball bounced almost square to the left:球几乎弹到了左边
@@ -330,7 +330,7 @@ you can square off the other edge:你可以摆正另一边
 that this watercolour was a first draft is made clear by the fact that the sheet of paper has been squared:这幅水彩画是初稿，这张纸已经被摆正，这一点很清楚
 5 squared equals 25:5的平方等于25
 institutions are anxious to square their books before the election:机构急于在选举前整理他们的账目
-chin up, shoulders squared, she stepped into the room:chinup，肩膀挺直，她走进房间
+chin up, shoulders squared, she stepped into the room:抬起下巴，挺直肩膀，她走进了房间
 faced with such declarations, politicians were resolved to squash or square the press:面对这样的声明，政客们决心压制或压制媒体
 Saturn squares the Sun on the 17th:土星在17日四分太阳
 
@@ -346,7 +346,7 @@ square with | 正方形,与
 
 
 
-just behaviour or treatment:just行为或待遇
+just behaviour or treatment:只是行为或治疗
 the quality of being fair and reasonable:公平合理的品质
 the administration of the law or authority in maintaining this:维护此法律或权力的管理
 a judge or magistrate, in particular a judge of the Supreme Court of a country or state.:一名法官或地方法官，特别是一个国家或州的最高法院法官。
@@ -378,7 +378,7 @@ the animal world:动物世界
 they were a legend in the world of British theatre:他们是英国戏剧界的传奇人物
 he felt his whole world had collapsed:他觉得他的整个世界都崩溃了
 he has almost completely withdrawn from the world:他几乎完全退出了这个世界
-parents are not viewed as the primary educators of their own children, either in the world or in the Church:parents不被视为自己孩子的主要教育者，无论是在世界上还是在教会中
+parents are not viewed as the primary educators of their own children, either in the world or in the Church:无论是在世界上还是在教会中，父母都不被视为自己孩子的主要教育者
 in this world and the next:今世与来世
 
 (introducing a conditional clause) on the condition or supposition that, in the event that:（引入条件子句）在条件或假设上，如果
@@ -391,7 +391,7 @@ expressing an opinion:表达意见
 expressing surprise or regret:表示惊讶或遗憾
 (with implied reservation) and perhaps not:（有隐含保留）也许不是
 used to admit something as being possible but relatively insignificant:曾经承认某事是可能的但相对无关紧要
-despite being (used before an adjective or adverb to introduce a contrast):despitebeing（在形容词或副词之前使用以引入对比）
+despite being (used before an adjective or adverb to introduce a contrast):尽管被（用在形容词或副词之前以引入对比）
 a condition or supposition:一个条件或假设
 intermediate frequency.:中频。
 if |ɪf| Conjunction/Noun/Residual/:如果,假如
@@ -401,7 +401,7 @@ if I go out she gets nasty:如果我出去她会很讨厌
 if it takes me seven years, I shall do it:如果我需要七年，我会做到的
 he asked if we would like some coffee:他问我们要不要喝杯咖啡
 if I could just use the phone, I'll get a taxi:如果我能用电话，我会叫出租车
-that's a jolly long walk, if you don't mind my saying so:that'sajolllylongwalk,ifyoudon'tmindmy这样说
+that's a jolly long walk, if you don't mind my saying so:如果你不介意我这么说的话，那真是一段愉快的长途跋涉
 well, if it isn't Frank!:好吧，如果不是弗兰克！
 the new leaders have little if any control:新领导人几乎没有控制权
 if there was any weakness, it was naivety:如果有任何弱点，那就是天真
@@ -433,7 +433,7 @@ a state or quality of uncleanliness:不洁的状态或质量
 information about someone's activities or private life that could prove damaging if revealed:有关某人的活动或私人生活的信息，如果泄露可能会被证明是有害的
 dirt |dəːt| Noun/:污垢,灰尘,脏东西
 Jo wiped the dirt off her face:Jo擦去脸上的污垢
-Michael threw a handful of dirt on to the coffin:Michael把一把泥土扔到棺材上
+Michael threw a handful of dirt on to the coffin:迈克尔往棺材上撒了一把土
 a lawn covered in dog dirt:一个被狗泥覆盖的草坪
 the sweat and dirt of industry:工业的汗水和污垢
 is there any dirt on Desmond?:戴斯蒙德身上有污垢吗？
@@ -465,15 +465,15 @@ mix |mɪks| Noun/Verb/:混合,混音
 peppercorns are sometimes mixed with other spices:peppercorns有时与其他香料混合
 oil and water don't mix:油和水不要混合
 mixing concrete is hard physical work:搅拌混凝土是一项艰苦的体力活
-he continues to mix an off-hand sense of humour with a sharp insight:he继续将一种随意的幽默感与敏锐的洞察力混合在一起
+he continues to mix an off-hand sense of humour with a sharp insight:他继续将一种随意的幽默感与敏锐的洞察力混合在一起
 the people he mixed with were nothing to do with show business:跟他混的人跟演艺圈没什么关系
 up to eight tracks can be mixed simultaneously:最多可同时混音八首曲目
 it was everyone's dream to mix their album in their front room:在前厅混音是每个人的梦想
-Keith mixes great house music, featuring tunes with an African, Latin, and soulful flavour:Keith混合了很棒的家庭音乐，具有非洲、拉丁和深情风味的曲调
+Keith mixes great house music, featuring tunes with an African, Latin, and soulful flavour:基思 (Keith) 混合了很棒的浩室音乐，以具有非洲、拉丁和深情风味的曲调为特色
 the decor is a fascinating mix of antique and modern:the装饰是古典与现代的迷人组合
 the school has a good social mix:学校有很好的社交组合
 arriving at the correct mix of full-time to part-time staff:到达全职和兼职员工的正确组合
-cake mixes have made cooking easier:cakemix让烹饪变得更轻松
+cake mixes have made cooking easier:蛋糕粉让烹饪变得更容易
 a dance mix version of ‘This Charming Man’:《这个迷人的男人》的舞蹈混音版
 a group of young women groove in a circle to a DJ mix of Missy Elliot, the Young Gunz, and Kelis:一群年轻女性围成一圈，听着MissyElliot、YoungGunz和Kelis的DJ混音
 titling mixes are added when vision and sound are still on separate film:当视觉和声音仍然在单独的电影中时添加字幕混音
@@ -506,13 +506,13 @@ a strong leader:强大的领导者
 there is a strong argument for decentralization:有强烈的去中心化论据
 his imagery made a strong impression on the critics:他的形象给评论家留下了深刻的印象
 the government were urged to take strong measures against the perpetrators of violence:政府被敦促对暴力肇事者采取强有力的措施
-cotton is strong, hard-wearing, and easy to handle:cotton结实、耐磨、易打理
+cotton is strong, hard-wearing, and easy to handle:棉花结实、耐磨且易于处理
 despite his strong constitution, constant worry and exposure to the elements had worn him down:尽管他的体质很强壮，不断的担心和暴露在恶劣的环境中使他筋疲力尽
 driving on these motorways requires strong nerves:在这些高速公路上行驶需要强大的神经
 he was a man of strong, though unconventional, religious beliefs:他是一个有着强烈但非传统的宗教信仰的人
 a strong smell:强烈的气味
 she should wear strong colours:她应该穿强烈的颜色
-strong cheese:strong奶酪
+strong cheese:浓奶酪
 a cup of strong coffee:一杯浓咖啡
 a hostile crowd several thousands strong:a敌对人群数千人
 
@@ -559,12 +559,12 @@ provide an adequate supply of food for:提供充足的食物供应
 give fertilizer to (a plant):给（植物）施肥
 put fuel on (a fire).:put燃料（着火）。
 encourage the growth of:鼓励成长
-satisfy (a drug habit):satisfy（吸毒习惯）
+satisfy (a drug habit):满足（吸毒习惯）
 supply with material or power:提供材料或电源
 put into a machine:放入机器
 insert further coins into (a meter) to extend the time for which it operates.:将更多硬币插入（一米）以延长其运行时间。
-supply (someone) with (information, ideas, etc.):supply（某人）与（信息、想法等）
-prompt (an actor) with (a line):prompt（演员）与（台词）
+supply (someone) with (information, ideas, etc.):向（某人）提供（信息、想法等）
+prompt (an actor) with (a line):用（台词）提示（演员）
 (in ball games) pass (the ball) to a player.:（在球类比赛中）将（球）传给一名球员。
 cause to pass gradually and steadily, typically through a confined space:导致逐渐而稳定地通过，通常通过狭窄的空间
 influence or contribute to:影响或贡献于
@@ -588,8 +588,8 @@ users who commit crime to feed their habit:为养成习惯而犯罪的用户
 a radial circuit fed by a 20 amp fuse:a径向电路，由20安培保险丝供电
 the programs are fed into the computer:程序输入电脑
 I think he is feeding his old employer commercial secrets:我觉得他是在喂老雇主的商业机密
-you were still in the wings feeding Micky his lines:你还在为Micky提供他的台词
-make holes through which to feed the cables:make孔，用于馈送电缆
+you were still in the wings feeding Micky his lines:你还在为 Micky 提供他的台词
+make holes through which to feed the cables:打孔以穿过电缆
 has your art history background fed into the artwork you produce?:您的艺术史背景是否融入了您制作的艺术品？
 it could take time for higher earnings and dividends to feed through to investors:更高的收益和股息可能需要一段时间才能传递给投资者
 the baby's morning feed:宝宝的早饭
@@ -597,4 +597,4 @@ I gave him a big feed of rashers and eggs and mashed potatoes:我给了他一大
 the crops are grown for animal feed:这些农作物是为了动物饲料而种植的
 a paper feed:a进纸
 a satellite feed from Washington:来自华盛顿的卫星馈送
-most blogs and news sites offer RSS feeds of their latest content:most博客和新闻网站提供最新内容的RSS提要
+most blogs and news sites offer RSS feeds of their latest content:大多数博客和新闻站点都提供最新内容的 RSS 提要

@@ -56,25 +56,25 @@ the keyhole-shaped area marked on the court near each basket:球场上标记在�
 of crucial importance:至关重要
 enter or operate on (data) by means of a computer keyboard or telephone keypad:通过计算机键盘或电话键盘输入或操作（数据）
 fasten (something) in position with a pin, wedge, or bolt:用销钉、楔子或螺栓将（某物）固定到位
-roughen (a surface) to help the adhesion of plaster or other material:roughen（一个表面）帮助石膏或其他材料的粘附
-word (an advertisement in a periodical), typically by varying the form of the address given, so as to identify the publication generating particular responses:word（期刊中的广告），通常通过改变给定地址的形式，以识别产生特定响应的出版物
-vandalize (a car) by scraping its paint with a key.:vandalize（一辆汽车）用钥匙刮掉它的油漆。
+roughen (a surface) to help the adhesion of plaster or other material:粗糙化（表面）以帮助粘附石膏或其他材料
+word (an advertisement in a periodical), typically by varying the form of the address given, so as to identify the publication generating particular responses:Word（期刊中的广告），通常通过改变给定地址的形式来识别产生特定响应的出版物
+vandalize (a car) by scraping its paint with a key.:用钥匙刮漆来破坏（汽车）。
 be the crucial factor in achieving:成为实现目标的关键因素
 a low-lying island or reef, especially in the Caribbean:一个低洼的岛屿或礁石，尤其是在加勒比海
 key |kiː| Adjective/Noun/Verb/:钥匙,输入,关键的,键,关键
 there were two keys to the cupboard:橱柜有两把钥匙
 Nat turned the key in the ignition:Nat在点火开关中转动钥匙
-press the ENTER key:按ENTER键
+press the ENTER key:按回车键
 a piece composed solely for the white keys on the piano:一首专为钢琴上的白键而作的曲子
-discipline seems to be the key to her success:discipline似乎是她成功的关键
+discipline seems to be the key to her success:纪律似乎是她成功的关键
 a key at the back of the book provides the answers:本书后面的一个键提供了答案
 it took him some time to find the key, the connection between the code and the Odyssey:他花了一些时间才找到钥匙，密码和奥德赛之间的联系
 the key of E minor:E小调
 his voice had changed to a lower key:他的声音变小了
 it was like the sixties all over again, in a new, more austerely intellectual key:这就像六十年代的重演，在一个新的、更朴素的知识钥匙中
-these mauves, lime greens, and saffron yellows recall the high key of El Greco's palette:这些淡紫色、柠檬绿和藏红花黄色让人想起ElGreco调色板的高调
+these mauves, lime greens, and saffron yellows recall the high key of El Greco's palette:这些紫红色、柠檬绿和藏红花黄色让人想起埃尔格列柯调色板的高调
 he hit another jumper from the top of the key:他又一次从关键顶跳投命中
-she became a key figure in the suffragette movement:she成为女权运动的关键人物
+she became a key figure in the suffragette movement:她成为女权运动的关键人物
 not everyone can key data quickly and accurately:不是每个人都能快速准确地键入数据
 the coils may be keyed into the slots by fibre wedges:线圈可以通过光纤楔入槽中
 a wooden float with nails driven through it is used to key the wall surface between coats:一个木头浮子，钉子穿过它，用于固定涂层之间的墙面
@@ -100,13 +100,13 @@ sixty years old:六十岁
 a size of garment or other merchandise denoted by sixty.:
 sixty |ˈsɪksti| Numeral/:,第六十
 a crew of sixty:60名船员
-Morris was in his early sixties:Morris六十出头
+Morris was in his early sixties:莫里斯六十出头
 they were doing sixty:他们正在做六十
 he retired at sixty:他六十岁退休
 
 the first month of the year, in the northern hemisphere usually considered the second month of winter:一年的第一个月，在北半球通常被认为是冬天的第二个月
 January |ˈdʒanjʊəri| Noun/:一月,月
-Sophie was two in January:Sophie一月份是两个
+Sophie was two in January:索菲一月份两岁
 
 (of food) cooked in hot fat or oil:（食物）用热脂肪或油烹制
 exhausted or worn out:精疲力竭或疲惫不堪
@@ -114,11 +114,10 @@ under the influence of alcohol or drugs:在酒精或药物的影响下
 fried |frʌɪd| Adjective/Verb/:油炸,炸,油煎,炒
 a breakfast of fried eggs and bacon:一份煎鸡蛋和培根早餐
 I had just come from doing a shoot and I was really fried:我刚拍完照片，我真的很煎熬
-Ronnie broke out a bottle of Scotch—we all got pretty fried:Ronnie拿出一瓶苏格兰威士忌——我们都被炸得很厉害
+Ronnie broke out a bottle of Scotch—we all got pretty fried:罗尼打开了一瓶苏格兰威士忌——我们都被炸得够呛
 
 the SI unit of mass (equivalent to approximately 2.205 lb), first introduced as a unit of mass for the metric system.:SI质量单位（相当于大约2.205磅），首先作为公制的质量单位引入。
 kilogram |ˈkɪləɡram| Noun/:公斤,千克
-:
 
 having an even and regular surface, free from perceptible projections, lumps, or indentations:具有均匀和规则的表面，没有明显的突起、肿块或凹痕
 (of a liquid) with an even consistency, without lumps:（液体）均匀稠度，无结块
@@ -130,8 +129,8 @@ denoting the face of a tennis or squash racket without the projecting loops from
 (of food or drink) without harshness or bitterness:（食物或饮料的）没有刺激或苦涩
 give (something) a flat, regular surface or appearance:给（某物）一个平坦、规则的表面或外观
 modify (a graph, curve, etc.) so as to lessen irregularities:修改（图形、曲线等）以减少不规则性
-deal successfully with (a problem or difficulty):deal成功处理（问题或困难）
-free (a course of action) from difficulties or problems:free（一种行动）摆脱困难或问题
+deal successfully with (a problem or difficulty):成功地处理（问题或困难）
+free (a course of action) from difficulties or problems:从困难或问题中解脱（行动方针）
 in a way that is without difficulties:以一种没有困难的方式
 smooth |smuːð| Adjective/Adverb/Verb/:光滑的,抚平,光滑,平滑,平稳
 smooth flat rocks:光滑平坦的岩石
@@ -142,7 +141,7 @@ the group's expansion into the US market was not quite so smooth:the集团进军
 his voice was infuriatingly smooth:他的声音平滑得令人发指
 a lovely, smooth, very fruity wine:一款可爱、顺滑、果味浓郁的葡萄酒
 she smoothed out the newspaper:她把报纸弄平了
-values are collected over a long period of time so that fluctuations are smoothed out:values是在很长一段时间内收集的，以便平滑波动
+values are collected over a long period of time so that fluctuations are smoothed out:值是在很长一段时间内收集的，以便消除波动
 these doctrinal disputes were smoothed over:这些教义上的争论被平息了
 a conference would be held to smooth the way for the establishment of the provisional government:
 the course of true love never did run smooth:真爱之路从来都不是一帆风顺的
@@ -163,7 +162,7 @@ situated on or in the inside:位于内部或内部
 (in soccer and other sports) denoting positions nearer to the centre of the field:（在足球和其他运动中）表示更靠近场地中心的位置
 known or done by someone within a group or organization:已知或由团体或组织内的某人完成
 situated with the boundaries or confines of:位于
-moving so as to end up within:moving最终在
+moving so as to end up within:移动以结束内部
 within (a person's body or mind), typically with reference to sensations of self-awareness:
 (in soccer, rugby, and other sports) closer to the centre of the field than (another player):（在足球、橄榄球和其他运动中）比（其他球员）更靠近场地中心
 in less than (the period of time specified):in小于（指定的时间段）
@@ -182,7 +181,7 @@ an inside pocket:an内兜
 an inside forward:an内线前锋
 they were accused of selling shares while in possession of inside information:他们被指控在掌握内幕消息时出售股票
 a radio was playing inside the flat:公寓里正在播放收音机
-Anatoly reached inside his shirt and brought out a map:Anatoly把手伸进衬衫里拿出一张地图
+Anatoly reached inside his shirt and brought out a map:阿纳托利把手伸进衬衫，拿出一张地图
 she felt a stirring of life inside her:她觉得她内心充满了生机
 he went inside Graves and scored near the post:他进入格雷夫斯并在门柱附近得分
 the oven will have paid for itself inside 18 months:烤箱将在18个月内收回成本
@@ -190,7 +189,7 @@ Mr Jackson is waiting for you inside:杰克逊先生在里面等你
 we walked inside:我们走进去
 I was screaming inside:我在里面尖叫
 she was sentenced to three years inside:她被判入狱三年
-Bennett cut inside and passed to Ventham:Bennett内切并传给文瑟姆
+Bennett cut inside and passed to Ventham:贝内特内切并传球给文瑟姆
 
 insides | 内脏,里面
 
@@ -205,7 +204,7 @@ inside out | ,由内而外,从里到外
 
 
 constituting number two in a sequence, coming after the first in time or order, 2nd:按顺序构成第二个，在时间或顺序上排在第一个之后，第二个
-secondly (used to introduce a second point or reason):secondly（用于介绍第二点或理由）
+secondly (used to introduce a second point or reason):其次（用于介绍第二点或理由）
 an interval spanning two consecutive notes in a diatonic scale.:一个以全音阶跨越两个连续音符的音程。
 the note which is higher by a second interval than the tonic of a diatonic scale or root of a chord.:比全音阶的主音或和弦的根音高第二个音程的音符。
 the second in a sequence of a vehicle's gears:车辆齿轮序列中的第二个
@@ -222,14 +221,14 @@ goods of an inferior quality.:质量低劣的商品。
 the reserve team of a sports club.:某体育俱乐部预备队。
 coarse flour, or bread made from it.:粗面粉，或者用它做的面包。
 an attendant assisting a combatant in a duel or boxing match.:一名服务员在决斗或拳击比赛中协助战斗人员。
-a Cub or Brownie chosen by their pack to assist the Sixer and replace them when they are absent.:aCub或Brownie由他们的团队选择来协助76人并在他们缺席时替换他们。
+a Cub or Brownie chosen by their pack to assist the Sixer and replace them when they are absent.:由他们的狼群选择的 Cub 或 Brownie 来协助 76 人并在他们缺席时代替他们。
 formally support or endorse (a nomination or resolution or its proposer) as a necessary preliminary to adoption or further discussion:正式支持或认可（提名或决议或其提议者）作为通过或进一步讨论的必要预备
-express agreement with:express同意
-support, back up:support,备份
+express agreement with:明确同意
+support, back up:支持，支持
 a sixtieth of a minute of time, which as the SI unit of time is defined in terms of the natural periodicity of the radiation of a caesium-133 atom.:六十分之一分钟的时间，作为SI时间单位，根据铯133原子辐射的自然周期性定义。
 a very short time:很短的时间
 a sixtieth of a minute of angular distance.:六十分之一分钟的角距离。
-transfer (a military officer or other official or worker) temporarily to other employment or another position:transfer（军官或其他官员或工人）临时调到其他工作或其他职位
+transfer (a military officer or other official or worker) temporarily to other employment or another position:暂时将（军官或其他官员或工人）转移到其他工作或其他职位
 second |ˈsɛk(ə)nd| Noun/Numeral/Verb/:第二,秒,附议,其次
 he married for a second time:他第二次结婚
 second, they are lightly regulated; and third, they do business with non-resident clients:second，监管较宽松；第三，他们与非居民客户做生意
@@ -269,7 +268,7 @@ the title of the heir apparent of a Scottish viscount or baron.:苏格兰子爵�
 an original recording, film, or document from which copies can be made:可复制的原始录音、电影或文件
 having or showing very great skill or proficiency:拥有或表现出非常出色的技能或熟练程度
 denoting a person skilled in a particular trade and able to teach others:表示擅长特定行业并能够教授他人的人
-main, principal:main,校长
+main, principal:主要的，主要的
 acquire complete knowledge or skill in (a subject, technique, or art):获得（学科、技术或艺术）的完整知识或技能
 gain control of, overcome:控制，克服
 make a master copy of (a film or recording):制作（电影或录音）的母版
@@ -286,7 +285,7 @@ follow in the footsteps of the masters and paint in locations made famous by the
 a chess master:国际象棋大师
 a master's degree:硕士学位
 I had a master's in computer engineering:我拥有计算机工程硕士学位
-Master James Wishart:MasterJamesWishart
+Master James Wishart:詹姆斯威沙特大师
 you don't have to be a master chef in order to cook meat properly:您不必成为大厨也能正确烹调肉类
 a master bricklayer:瓦工大师
 the apartment's master bathroom has a free-standing oval bathtub:公寓的主浴室有一个独立的椭圆形浴缸
@@ -319,7 +318,7 @@ a small detachment of troops:一小支部队
 each of the eight rows of eight squares on a chessboard running away from the player towards the opponent.:棋盘上八行八格中的每一个，从玩家向对手跑去。
 (of a group of people) walk one behind the other, typically in an orderly and solemn manner:（一群人）一个接一个地走，通常有条不紊而庄重
 a tool with a roughened surface or surfaces, typically of steel, used for smoothing or shaping a hard material.:具有粗糙表面的工具，通常是钢制的，用于平滑或塑造硬质材料。
-smooth or shape with a file:smooth或带文件的形状
+smooth or shape with a file:使用锉刀平滑或整形
 remove something by grinding it off with a file.:用锉刀磨掉一些东西。
 file |fʌɪl| Noun/Verb/:文件,提交,档案
 a file of correspondence:一个信件文件
@@ -328,21 +327,21 @@ you can save the file to your hard disk:你可以把文件保存到你的硬盘
 what progress has the Prime Minister made on the unity file?:总理在统一文件上取得了哪些进展？
 the contract, when signed, is filed:合同一经签署即归档
 criminal charges were filed against the firm:对公司提起刑事指控
-files of tourists stream up the narrow lanes of Mont St Michel:files的游客在圣米歇尔山的狭窄小巷中流淌
+files of tourists stream up the narrow lanes of Mont St Michel:游客的文件流过圣米歇尔山的狭窄小巷
 a file of English soldiers had ridden out from Perth:一群英国士兵从珀斯出发
 the mourners filed into the church:哀悼者涌入教堂
 never file your nails from the centre to the sides:从不把你的指甲从中间往两边锉
 
 constituting number seven in a sequence, 7th:构成序列中的第7个，第7个
 the seventh finisher or position in a race or competition:比赛或比赛中的第七名或位置
-seventhly (used to introduce a seventh point or reason).:seventhly（用于介绍第七点或理由）。
+seventhly (used to introduce a seventh point or reason).:第七（用于介绍第七点或原因）。
 an interval spanning seven consecutive notes in a diatonic scale.:以全音阶跨越七个连续音符的音程。
 the note which is higher by a seventh than the tonic of a diatonic scale or root of a chord.:
 a chord in which the seventh note of the scale forms an important component.:一个和弦，其中音阶的第七个音符是一个重要的组成部分。
 each of seven equal parts into which something is or may be divided.:某事物被或可能被分成的七个相等部分中的每一个。
 seventh |ˈsɛvnθ| Numeral/:第七,第七名
 his seventh goal of the season:他本赛季的第七个进球
-Jo Richardson came seventh:JoRichardson排名第七
+Jo Richardson came seventh:乔·理查森排名第七
 
 an educational institution or establishment, in particular one providing higher education or specialized professional or vocational training:一个教育机构或机构，特别是提供高等教育或专业或职业培训的机构
 any of the independent institutions into which certain universities are separated, each having its own teaching staff, students, and buildings:某些大学分开的任何独立机构，每个机构都有自己的教职员工、学生和建筑物
@@ -361,7 +360,7 @@ a right or privilege, especially a statutory one:一项权利或特权，尤其�
 the personification of liberty as a female figure:作为女性形象的自由人格化
 the power or scope to act as one pleases:随心所欲的权力或范围
 a person's freedom from control by fate or necessity.:一个人不受命运或必然控制的自由。
-shore leave granted to a sailor.:shore休假授予水手。
+shore leave granted to a sailor.:授予水手的上岸假。
 a presumptuous remark or action:冒昧的言论或行为
 liberty |ˈlɪbəti| Noun/:自由,解放
 compulsory retirement would interfere with individual liberty:强制退休会干扰个人自由
@@ -372,7 +371,7 @@ individuals should enjoy the liberty to pursue their own preferences:个人应�
 how did he know what she was thinking?—it was a liberty!:他怎么知道她在想什么？——这是一种自由！
 
 (of wind) move creating an air current:（风）移动产生气流
-(of wind) cause (something) to move, propel:(ofwind)使（某物）移动，推动
+(of wind) cause (something) to move, propel:（风）使（某物）移动，推动
 be carried, driven, or moved by the wind or an air current:被风或气流携带、驱动或移动
 leave a place:离开一个地方
 expel air through pursed lips:通过撅起的嘴唇排出空气
@@ -382,16 +381,16 @@ force air through the mouth into (an instrument or device) in order to make a so
 (of an instrument or device) make a sound when air is forced into it:（仪器或设备的）当空气被强制进入时发出声音
 sound (the horn of a vehicle):sound（汽车喇叭）
 play jazz or rock music in an unrestrained style:无拘无束地演奏爵士乐或摇滚乐
-force air through a tube into (molten glass) in order to create an artefact:force空气通过管子进入（熔融玻璃），以制造人工制品
+force air through a tube into (molten glass) in order to create an artefact:迫使空气通过管子进入（熔融玻璃）以制造人工制品
 remove the contents of (an egg) by forcing air through it.:通过强制空气通过它来去除（鸡蛋）的内容物。
 (of a whale) eject air and vapour through the blowhole.:（鲸鱼）通过气孔喷出空气和蒸汽。
 (of an explosion or explosive device) displace violently or send flying:(爆炸或爆炸装置的)剧烈位移或飞散
 (of a vehicle tyre) burst suddenly while the vehicle is in motion:（汽车轮胎）在车辆行驶时突然爆裂
-burst or cause to burst due to pressure or overheating:burst或因压力或过热导致爆裂
+burst or cause to burst due to pressure or overheating:由于压力或过热而爆裂或导致爆裂
 (with reference to an electric circuit) burn out or be caused to burn out through overloading:(参照电路)烧毁或过载烧毁
 spend recklessly:肆无忌惮地花钱
-waste (an opportunity):waste（一个机会）
-expose (a stratagem):expose（一个策略）
+waste (an opportunity):浪费（一个机会）
+expose (a stratagem):暴露（计谋）
 used in various expressions to express surprise or as a mild oath:用于各种表达方式，表示惊讶或温和的誓言
 perform fellatio on (a man).:对（一个男人）进行口交。
 be extremely bad or unwelcome:非常糟糕或不受欢迎
@@ -401,7 +400,7 @@ a cold breeze was blowing in off the sea:一阵冷风从海面吹来
 a gust of wind blew a cloud of smoke into his face:一阵风把一团烟雾吹到他脸上
 it was so windy that the tent nearly blew away:风太大，帐篷差点被吹走
 I'd better blow:我最好吹
-Will took a deep breath, and blew:Will深吸一口气，吹了
+Will took a deep breath, and blew:威尔深吸一口气，吹了口气
 he blew cigar smoke in her face:他往她脸上吹雪茄烟
 Uncle Albert was soon puffing and blowing:阿尔伯特叔叔很快就喘不过气来了
 the umpire blew his whistle:裁判吹响了他的哨声
@@ -419,7 +418,6 @@ a man whose cover was blown:一个掩饰被炸毁的男人
 
 a set of printed or written questions with a choice of answers, devised for the purposes of a survey or statistical study.:为调查或统计研究的目的而设计的一组印刷或书面问题，带有选择的答案。
 questionnaire |ˌk(w)ɛstʃəˈnɛː| Noun/:,调查表
-:
 
 the annual Christian festival celebrating Christ's birth, held on 25 December in the Western Church:一年一度的庆祝基督诞生的基督教节日，12月25日在西方教会举行
 the period immediately before and after 25 December:紧接在12月25日前后的时期
@@ -468,7 +466,7 @@ she was implacable, despite her mild exterior:尽管外表温和，但她却是�
 (of a firearm) self-loading and able to fire continuously until the ammunition is exhausted or the pressure on the trigger is released:（枪支的）自动装弹并能够连续射击，直到弹药耗尽或扳机上的压力被释放
 (of a motor vehicle or its transmission) using gears that change by themselves according to speed and acceleration:（机动车辆或其变速器）使用根据速度和加速度自行改变的齿轮
 done or occurring spontaneously, without conscious thought or attention:完成或自发发生，没有有意识的思考或注意
-done or occurring as a matter of course and without debate:done或理所当然地发生，无需辩论
+done or occurring as a matter of course and without debate:毫无争议地完成或发生
 (especially of a legal sanction) given or imposed as a necessary and inevitable result of a fixed rule or particular set of circumstances:（尤其是法律制裁）作为固定规则或特定情况的必要和不可避免的结果而给予或施加
 a gun that continues firing until the ammunition is exhausted or the pressure on the trigger is released:持续射击直到弹药耗尽或扳机压力释放的枪
 a vehicle with automatic transmission:自动变速箱车辆
@@ -478,7 +476,7 @@ an automatic kettle that switches itself off when it boils:一个煮沸时自动
 automatic weapons:自动武器
 a four-speed automatic gearbox:a四速自动变速箱
 automatic physical functions such as breathing:自动呼吸等物理功能
-he is the automatic choice for the senior team:he是高级团队的自动选择
+he is the automatic choice for the senior team:他是高级团队的自动选择
 he received an automatic one-match suspension:他被自动禁赛一场
 the rapid fire of automatics:自动化的快速发展
 a Mercedes 300SL five-speed automatic:a奔驰300SL五速自动
@@ -512,7 +510,7 @@ clasp, intertwine:扣环，交织
 a torch of pitch and tow for lighting the way in dark streets.:一盏纵横交错的火炬，用于在黑暗的街道上照亮道路。
 link |lɪŋk| Noun/Verb/:关联,连接,链接,链路,连结
 a commission to investigate a link between pollution and forest decline:a委员会调查污染与森林衰退之间的联系
-he retained strong links with the media:he与媒体保持密切联系
+he retained strong links with the media:他与媒体保持密切联系
 sign language interpreters represent a vital link between the deaf and hearing communities:手语翻译是聋人和听力社区之间的重要纽带
 they set up a satellite link with Tokyo:他们与东京建立了卫星链接
 a chain made of steel links:钢链节
@@ -528,10 +526,10 @@ having all the necessary components or features neatly fitted into a small space
 composed or made up of:组成或组成
 exert force on (something) so that it becomes more dense, compress:对（某物）施力，使其变得更密集，压缩
 become compressed by the exertion of force:被施力压缩
-form (something) by pressing its component parts firmly together:form（某物）通过将其组成部分牢固地压在一起
+form (something) by pressing its component parts firmly together:通过将（某物）的组成部分牢固地压在一起形成（某物）
 express in fewer words, condense:用更少的词表达，浓缩
 a small flat case containing face powder, a mirror, and a powder puff.:一个小扁平盒，里面装着爽身粉、一面镜子和一个粉扑。
-something that is a small and conveniently shaped example of its kind, in particular a compact camera:something是同类产品中体积小且造型方便的示例，尤其是紧凑型相机
+something that is a small and conveniently shaped example of its kind, in particular a compact camera:同类产品中体积小且形状方便的示例，尤其是紧凑型相机
 a mass of powdered metal compacted together in preparation for sintering:一大块金属粉末压实在一起，为烧结做准备
 a formal agreement or contract between two or more parties:两方或多方之间的正式协议或合同
 make or enter into (a formal agreement) with another party or parties:与另一方或多方订立或签订（正式协议）
@@ -539,7 +537,7 @@ compact |kəmˈpakt| Adjective/Noun/Verb/:袖珍的,小型汽车,压实,紧凑,�
 a compact cluster of houses:一个紧凑的房屋群
 this compact car has plenty of boot space:这辆紧凑型车有足够的后备箱空间
 a compact summary of the play:剧情简介
-towns compact of wooden houses:towns紧凑型木屋
+towns compact of wooden houses:城镇紧凑的木屋
 the rubbish was taken to the depot to be compacted:垃圾被带到仓库进行压实
 the snow hardened and compacted:雪变硬并压实
 the foundation of the walls, compacted of Granite and Lime:墙的基础，花岗岩和石灰压实
@@ -561,7 +559,7 @@ about |əˈbaʊt| Adverb/Preposition/:关于,大约,约
 I was thinking about you:我在想你
 there's nothing we can do about it:我们无能为力
 she looked about the room:她看了看房间
-rugs were strewn about the hall:rugs散落在大厅里
+rugs were strewn about the hall:地毯散落在大厅里
 there was a look about her that said everything:她的表情说明了一切
 men were floundering about:men正在苦苦挣扎
 there was a lot of flu about:有很多流感
@@ -574,18 +572,17 @@ denoting a train or bus serving a particular district, with frequent stops:表�
 denoting a variable or other entity that is only available for use in one part of a program.:表示只能在程序的一部分中使用的变量或其他实体。
 denoting a device that can be accessed without the use of a network.:表示无需使用网络即可访问的设备。
 an inhabitant of a particular area or neighbourhood:特定区域或社区的居民
-a pub convenient to a person's home:apub方便到一个人的家
+a pub convenient to a person's home:一个人家方便的酒吧
 a local train or bus service:当地火车或巴士服务
 a local branch of an organization, especially a trade union.:一个组织的当地分支机构，尤其是工会。
 a floor trader who trades on their own account, rather than on behalf of other investors.:以自己的账户而不是代表其他投资者进行交易的场内交易者。
 local |ˈləʊkl| Adjective/Noun/:,当地人,本地,当地,地方
 researching local history:研究当地历史
-the village has an excellent local bus service:theVillage拥有一流的当地巴士服务
+the village has an excellent local bus service:该村有一流的当地巴士服务
 a local infection:局部感染
 the street was full of locals and tourists:这条街上到处都是当地人和游客
 a pint in the local:a品脱在当地
-catch the local into New Delhi:catch当地人进入新德里
+catch the local into New Delhi:赶上当地人进入新德里
 
 a colourless, odourless, highly flammable gas, the chemical element of atomic number 1.:一种无色、无味、高度易燃气体，原子序数为1的化学元素。
 hydrogen |ˈhʌɪdrədʒ(ə)n| Noun/:氢,氢气,水
-:

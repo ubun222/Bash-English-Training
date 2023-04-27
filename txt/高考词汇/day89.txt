@@ -87,7 +87,7 @@ entry |ˈɛntri| Noun/:入口,条目,输入,进入
 the door was locked, but he forced an entry:门被锁了，但他强行进入
 the entry to a block of flats:公寓楼的入口
 people seeking entry to Australia:人寻求进入澳大利亚
-more young people are postponing their entry into full-time work:more年轻人推迟进入全职工作
+more young people are postponing their entry into full-time work:越来越多的年轻人推迟开始全职工作
 a fluffed entry:一个蓬松的条目
 the diamonds are still not established, so South must gamble on finding an extra entry to the dummy:钻石还没有建立，所以南方必须赌一把，寻找一个额外的入口进入假人
 the entries in the cash book:现金簿中的条目
@@ -129,13 +129,13 @@ she picked up a rock and beaned him on the forehead:她捡起一块石头，在�
 
 of the type previously mentioned:前面提到的类型
 of the type about to be mentioned:即将提到的类型
-to so high a degree, so great (often used to emphasize a quality):tosohighdegree,sogreat（常用于强调一种品质）
+to so high a degree, so great (often used to emphasize a quality):To so high a degree, so great（常用于强调品质）
 of the type previously mentioned:前面提到的类型
 of the type about to be mentioned:即将提到的类型
-to so high a degree, so great (often used to emphasize a quality):tosohighdegree,sogreat（常用于强调一种品质）
+to so high a degree, so great (often used to emphasize a quality):To so high a degree, so great（常用于强调品质）
 of the type previously mentioned:前面提到的类型
 of the type about to be mentioned:即将提到的类型
-to so high a degree, so great (often used to emphasize a quality):tosohighdegree,sogreat（常用于强调一种品质）
+to so high a degree, so great (often used to emphasize a quality):To so high a degree, so great（常用于强调品质）
 such |sʌtʃ| Determiner/Predeterminer/Pronoun/:这样的,这样,这种
 I have been involved in many such courses:我参加过很多这样的课程
 there is no such thing as a free lunch:天下没有免费的午餐
@@ -204,7 +204,7 @@ they urged the troops not to fire on their fellow citizens:他们敦促部队不
 
 gather together or acquire an increasing number or quantity of:聚集或获得越来越多的
 gradually gather or acquire (a resulting whole):逐渐收集或获取（产生的整体）
-gather, build up:gather，建立
+gather, build up:聚集，建立
 accumulate |əˈkjuːmjʊleɪt| Verb/:积累,累积,积聚
 investigators have yet to accumulate enough evidence:调查员尚未积累足够的证据
 her goal was to accumulate a huge fortune:她的目标是积累巨额财富
@@ -212,7 +212,7 @@ the toxin accumulated in their bodies:体内积累的毒素
 
 
 a dramatic work in one or more acts, set to music for singers and instrumentalists:一部或多幕戏剧作品，为歌手和乐器演奏者配乐
-operas as a genre of classical music:operas作为古典音乐的一种流派
+operas as a genre of classical music:歌剧作为古典音乐的一种类型
 a building for the performance of opera:歌剧表演楼
 opera |ˈɒp(ə)rə| Noun/:,歌剧院,戏
 it was the best performance of the opera he had ever heard:这是他听过的最好的歌剧表演
@@ -246,7 +246,7 @@ deserving contempt:值得鄙视
 miserly:吝啬
 at or for a low price:at或低价
 cheap |tʃiːp| Adjective/Adverb/:,廉价,贱,低廉,低价地
-local buses were reliable and cheap:local巴士既可靠又便宜
+local buses were reliable and cheap:当地巴士既可靠又便宜
 a cheap restaurant:便宜的餐厅
 cheap, shoddy goods:便宜，伪劣商品
 her moment of cheap triumph:她的廉价胜利时刻
@@ -256,7 +256,6 @@ a house that was going cheap because of the war:一栋因为战争而变得便�
 
 a hoofed grazing or browsing animal, with branched bony antlers that are shed annually and typically borne only by the male.:一种有蹄的放牧或觅食动物，有分枝的骨质鹿角，每年脱落，通常只由雄性承担。
 deer |dɪə| Noun/:鹿,麋
-:
 
 the route or direction followed by a ship, aircraft, road, or river:船舶、飞机、道路或河流所遵循的路线或方向
 the way in which something progresses or develops:事物进展或发展的方式
@@ -296,7 +295,7 @@ she glared at him, her cheeks flushing:她瞪着他，脸颊通红
 he glared defiance at the pistols pointing at him:他蔑视着指着他的手枪
 the sun glared out of a clear blue sky:太阳从湛蓝的天空中闪耀
 she gave Harley a glare of contempt:她轻蔑地瞪了哈利一眼
-Murray narrowed his eyes against the glare of the sun:Murray对着刺眼的阳光眯起眼睛
+Murray narrowed his eyes against the glare of the sun:默里在刺眼的阳光下眯起眼睛
 he carried on his life in the full glare of publicity:他在宣传照耀下继续他的生活
 the pomp and glare of rhetoric:华丽的花言巧语
 
@@ -305,10 +304,10 @@ go on foot for recreation and exercise:步行去娱乐和锻炼
 travel over (a route or area) on foot:步行穿越（路线或区域）
 move in a similar way to walking, but using one's hands or a support such as stilts:以类似于步行的方式移动，但使用双手或高跷等支撑物
 (of a quadruped) proceed with the slowest gait, always having at least two feet on the ground at once.:（四足动物）以最慢的步态前进，总是同时至少有两只脚在地面上。
-ride (a horse) at the slowest pace:ride（一匹马）以最慢的速度
+ride (a horse) at the slowest pace:以最慢的速度骑（马）
 guide, accompany, or escort (someone) on foot:步行引导、陪伴或护送（某人）
 take (a dog) out for exercise:带（一只狗）出去锻炼
-train and look after (a hound puppy).:train并照顾（一只猎犬）。
+train and look after (a hound puppy).:训练和照顾（猎犬小狗）。
 (of a thing) go missing or be stolen:（事物的）失踪或被盗
 abandon or suddenly withdraw from a job or commitment:放弃或突然退出工作或承诺
 be released from suspicion or from a charge:从怀疑或指控中释放出来
@@ -333,7 +332,7 @@ walk humbly with your God:谦卑地与你的上帝同行
 
 shed tears:流泪
 utter or express with tears:发声或含泪表达
-mourn for, shed tears over:mournfor,流泪
+mourn for, shed tears over:哀悼，为之流泪
 exude liquid:渗出液
 a fit or period of weeping:
 weep |wɛpt| Noun/Verb/:,泣,哭,流泪
@@ -348,7 +347,7 @@ outstanding, impressive:优秀，令人印象深刻
 excellent, marvellous:优秀，了不起
 a diamond of brilliant cut:一颗明亮切割的钻石
 brilliant |ˈbrɪlj(ə)nt| Adjective/Noun/:杰出的,辉煌,精彩纷呈
-brilliant sunshine illuminated the scene:brilliant阳光照亮了现场
+brilliant sunshine illuminated the scene:灿烂的阳光照亮了现场
 a brilliant young mathematician:一位才华横溢的年轻数学家
 his brilliant career at Harvard:他在哈佛的辉煌职业生涯
 we had a brilliant time:我们度过了一段美好的时光
@@ -359,8 +358,8 @@ radioactive |ˌreɪdɪəʊˈaktɪv| Adjective/:放射性的,放射性
 radioactive decay:放射性衰变
 
 move one's hand to and fro in greeting or as a signal:手来回打招呼或作为信号
-move (one's hand or arm, or something held in one's hand) to and fro:move（一个人的手或手臂，或一个人手里拿着的东西）来回移动
-convey (a greeting or other message) by waving one's hand or something held in it:convey（问候或其他信息）通过挥手或握在其中的东西
+move (one's hand or arm, or something held in one's hand) to and fro:来回移动（一个人的手或手臂，或手里拿着的东西）
+convey (a greeting or other message) by waving one's hand or something held in it:通过挥手或握在手中的东西来传达（问候或其他信息）
 instruct (someone) to move in a particular direction by moving one's hand:指示（某人）通过移动自己的手向特定方向移动
 move to and fro with a swaying motion while remaining fixed to one point:以摇摆的动作来回移动，同时保持固定在一个点
 style (hair) so that it curls slightly:style（头发）使其略微卷曲
@@ -400,7 +399,6 @@ a wave of | 一波,一波的
 
 the women's section of the US Naval Reserve, established in 1942, or, since 1948, of the US Navy.:美国海军预备役女子部，成立于1942年，或者自1948年以来，美国海军成立。
 waves |weɪvz| Noun/:波浪,波
-:
 
 a large vault, typically an underground one, for burying the dead.:一个大的地下室，通常是地下的，用于埋葬死者。
 an enclosure for a corpse cut in the earth or in rock.:在泥土或岩石中切割尸体的围栏。
@@ -409,12 +407,12 @@ used in similes and metaphors to refer to a place or situation that is extremely
 death:死亡
 tomb |tuːm| Noun/:,坟墓
 the house was as quiet as a tomb:房子安静得像坟墓
-none escape the tomb:none逃离坟墓
+none escape the tomb:无人逃出坟墓
 
 take hold of suddenly and forcibly:突然强行抓住
 take forcible possession of:强行占有
 (of the police or another authority) take possession of (something) by warrant or legal right:（警察或其他当局的）通过手令或合法权利占有（某物）
-take (an opportunity) eagerly and decisively:take（一个机会）急切而果断
+take (an opportunity) eagerly and decisively:急切而果断地抓住（机会）
 (of a feeling or pain) affect (someone) suddenly or acutely:（感觉或痛苦）突然或剧烈地影响（某人）
 strongly appeal to or attract (the imagination or attention):强烈吸引或吸引（想象力或注意力）
 understand (something) quickly or clearly:理解（某事）快速或清晰
@@ -423,13 +421,13 @@ fasten or attach (someone or something) to something by binding with turns of ro
 seize |siːz| Verb/:抢占,把握,抓住,夺取
 she jumped up and seized his arm:她跳起来抓住他的胳膊
 army rebels seized an air force base:军队叛军占领了一个空军基地
-police have seized 726 lb of cocaine:police查获了726磅可卡因
+police have seized 726 lb of cocaine:警方缴获了 726 磅可卡因
 he seized his chance to attack as Carr hesitated:他在卡尔犹豫的时候抓住了进攻的机会
 he was seized by the most dreadful fear:他被最可怕的恐惧抓住了
 the story of the king's escape seized the public imagination:王者越狱的故事抓住了大众的想象
 he always strains to seize the most sombre truths:他总是竭力抓住最阴暗的真相
 I realized that the mechanism had seized:我意识到机制已经卡住了
-Jack was seized to the gun and had his two dozen lashes:Jack被抓到枪上，被抽了两打鞭子
+Jack was seized to the gun and had his two dozen lashes:杰克被抓住了枪，鞭打了两打
 
 
 a plan or drawing produced to show the look and function or workings of a building, garment, or other object before it is made:为显示建筑物、服装或其他物体在制作之前的外观、功能或工作原理而制作的平面图或图纸
@@ -441,9 +439,9 @@ decide upon the look and functioning of (a building, garment, or other object), 
 do or plan (something) with a specific purpose in mind:做或计划（某事）有一个特定的目的
 design |dɪˈzʌɪn| Noun/Verb/:设计,外观
 he has just unveiled his design for the new museum:他刚刚公布了他为新博物馆设计的作品
-good design can help the reader understand complicated information:gooddesign可以帮助读者理解复杂的信息
-inside, the design reverts to turn-of-the-century luxe:inside，设计回归世纪之交的奢华
-pottery with a lovely blue and white design:pottery蓝白相间的可爱设计
+good design can help the reader understand complicated information:好的设计可以帮助读者理解复杂的信息
+inside, the design reverts to turn-of-the-century luxe:在内部，设计恢复了世纪之交的奢华
+pottery with a lovely blue and white design:带有可爱蓝白相间图案的陶器
 the appearance of design in the universe:宇宙中的设计外观
 a number of architectural students were designing a factory:一些建筑系学生正在设计一家工厂
 

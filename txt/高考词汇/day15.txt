@@ -59,9 +59,9 @@ when handling or checking cash the cashier should exercise particular care:在�
 she is very particular about cleanliness:她很讲究清洁
 he is wrong in every particular:他在每一个细节上都错了
 a clerk took the woman's particulars:一个职员拿走了女人的资料
-universals can be simultaneously exemplified by different particulars in different places:universals可以同时体现在不同地方的不同细节
+universals can be simultaneously exemplified by different particulars in different places:共相可以同时由不同地方的不同细节来举例说明
 
-offer (a certain price) for something, especially at an auction:offer（某个价格）某物，尤其是在拍卖会上
+offer (a certain price) for something, especially at an auction:出价（一定价格）某物，尤指在拍卖会上
 (of a contractor) offer to do (work) for a stated price, tender for:（承包商的）提议以规定的价格进行（工作），投标
 make a statement during the auction undertaking to make (a certain number of tricks with a stated suit as trumps) if the bid is successful and one becomes the declarer:在竞拍承诺中作出声明（一定数量的把戏，以已声明的花色为将牌），如果叫牌成功并成为庄家
 make an effort or attempt to achieve:作出努力或试图达到
@@ -70,13 +70,13 @@ an offer to buy the shares of a company in order to gain control of it:购买公
 an offer to do work or supply goods at a stated price, a tender:以规定价格提供工作或供应货物的报价，投标
 an undertaking by a player in the auction to make a stated number of tricks with a stated suit as trumps:玩家在拍卖中承诺以规定的花色作为将牌进行规定数量的把戏
 an attempt or effort to achieve something:实现某事的尝试或努力
-utter (a greeting or farewell) to:utter（问候或告别）
-command or order (someone) to do something:command或命令（某人）做某事
+utter (a greeting or farewell) to:说（问候或告别）
+command or order (someone) to do something:命令或命令（某人）做某事
 invite (someone) to do something:邀请（某人）做某事
 bid |bɪd| Noun/Verb/:投标,出价
 a consortium of dealers bid a world record price for a snuff box:a经销商财团以创世界纪录的价格购买鼻烟盒
 nineteen companies have indicated their intention to bid for the contract:19家公司表示有意投标
-North bids four hearts:North出价四颗心
+North bids four hearts:北标四心
 at the fur tables, several buyers make bids for the pelts:在皮草桌上，几位买家为毛皮出价
 a takeover bid:a收购要约
 a number of businessmen were keen to make a bid for the £75 million contract:一些商人热衷于竞标价值7500万英镑的合同
@@ -98,7 +98,7 @@ battery |ˈbat(ə)ri| Noun/:电池,充电
 a camera battery:a相机电池
 anti-aircraft missile batteries:防空导弹电池
 a battery of equipment to monitor blood pressure:一组血压监测设备
-children are given a battery of tests:children接受了一系列测试
+children are given a battery of tests:给孩子们一系列的测试
 battery farming:电池养殖
 any act which puts a person in immediate and reasonable fear of battery:任何使人立即和合理地害怕电池的行为
 
@@ -130,7 +130,7 @@ tape up | 录音,用胶带粘起来
 
 
 at a time in the near future, soon or afterwards:在不久的将来，不久或之后的某个时间
-goodbye for the present, see you later.:goodbyefornow，再见。
+goodbye for the present, see you later.:暂时告别，待会再见。
 later |ˈleɪtə| Adjective/Adverb/Interjection/:之后,以后的,后来,后,以后
 I'll see you later:稍后再见
 
@@ -182,7 +182,7 @@ a person who sells short.:一个卖空的人。
 short-dated stocks.:短期股票。
 a mixture of bran and coarse flour.:麸皮和粗面粉的混合物。
 short-circuit or cause to short-circuit:短路或导致短路
-sell (stocks or other securities or commodities) in advance of acquiring them, with the aim of making a profit when the price falls:sell（股票或其他证券或商品）在购买之前出售，目的是在价格下跌时获利
+sell (stocks or other securities or commodities) in advance of acquiring them, with the aim of making a profit when the price falls:提前卖出（股票或其他证券或商品），以期在价格下跌时获利
 short |ʃɔːt| Adjective/Adverb/Noun/Verb/:短的,缺少,电影短片,短,简短的
 short dark hair:黑色短发
 the hotel is a short walk from the sea:酒店距离大海仅几步之遥
@@ -245,13 +245,13 @@ an encircling band or stripe of distinctive colour, texture, or character.:具�
 a belt or girdle worn round a person's body.:围在人身上的腰带或腰带。
 divide into or assign to zones:划分或分配到区域
 divide (a town or piece of land) into areas subject to particular restrictions on development and use:将（一个城镇或一块土地）划分为受特定开发和使用限制的区域
-designate (a specific area) for use or development as a particular zone in planning:designate（特定区域）作为规划中的特定区域使用或开发
-encircle as or with a band or stripe.:encircle作为或与带或条纹。
+designate (a specific area) for use or development as a particular zone in planning:在规划中指定（特定区域）作为特定区域使用或开发
+encircle as or with a band or stripe.:环绕成带状或带状或条纹状。
 zone |zəʊn| Noun/Verb/:区,地带
 a pedestrian zone:a步行区
 a zone of easterly winds:东风区
 I was in the zone, completing the first nine holes in one under par:我在区域内，以低于标准杆的成绩完成了前九个洞
-the park has been zoned into four distinct bioregions, each with its own ecological identity:thepark被划分为四个不同的生物区，每个生物区都有自己的生态特征
+the park has been zoned into four distinct bioregions, each with its own ecological identity:公园被划分为四个不同的生物区，每个都有自己的生态特征
 Houston, he told us, was the only town in the country that was zoned properly:他告诉我们，休斯顿是该国唯一被适当分区的城镇
 the land is zoned for housing:这块土地被划为住房
 
@@ -262,7 +262,7 @@ industrial zone | 工业区,工业园区
 
 
 a coloured substance which is spread over a surface and dries to leave a thin decorative or protective coating:一种有色物质，散布在表面上，干燥后留下一层薄薄的装饰或保护涂层
-an act of painting something:flyingbehindhills减少敌人用雷达画你的能力2
+an act of painting something:绘画某物的行为
 cosmetic make-up:化妆品
 the function or capability of producing graphics, especially those that mimic the effect of real paint:产生图形的功能或能力，尤其是那些模仿真实油漆效果的图形
 a piebald horse:花斑马
@@ -270,7 +270,7 @@ the rectangular area marked near the basket at each end of the court:球场两�
 cover the surface of (something) with paint:用油漆覆盖（某物）的表面
 apply cosmetics to (the skin):给（皮肤）涂抹化妆品
 apply (a liquid) to a surface with a brush.:用刷子将（液体）涂抹在表面上。
-depict (someone or something) or produce (a picture) with paint:depict（某人或某物）或用颜料制作（一张图片）
+depict (someone or something) or produce (a picture) with paint:用颜料描绘（某人或某物）或制作（一幅画）
 give a description of:给出描述
 create (a graphic or screen display) using a paint program:create（图形或屏幕显示）使用绘图程序
 display a mark representing (an aircraft or vehicle) on a radar screen:在雷达屏幕上显示代表（飞机或车辆）的标记
@@ -283,21 +283,21 @@ she couldn't have been more than fourteen but her face was thickly painted:她�
 I painted a woman sitting next to a table lamp:我画了一个坐在台灯旁边的女人
 the city is not as bad as it is painted:这座城市并没有画的那么糟糕
 the program enables you to paint images on your screen:该程序使您可以在屏幕上绘制图像
-flying behind hills lessens the enemy's ability to paint you with radar:flyingbehindhills减少敌人用雷达画你的能力
+flying behind hills lessens the enemy's ability to paint you with radar:在山后飞行会削弱敌人用雷达标记你的能力
 
 move or jump suddenly or rapidly upwards or forwards:向上或向前突然或快速移动或跳跃
 move rapidly or suddenly from a constrained position by or as if by the action of a spring:通过或好像通过弹簧的作用从受限位置快速或突然移动
 operate suddenly by means of a mechanism:通过机制突然操作
 cause (a game bird) to rise from cover.:导致（一只猎鸟）从掩体中升起。
 bring about the escape or release of (a prisoner):带来（囚犯）的逃跑或释放
-originate or arise from:originate或来自
+originate or arise from:起源于或产生于
 appear suddenly or unexpectedly from:突然或出人意料地出现
 suddenly develop or appear:突然发展或出现
 present or propose something suddenly or unexpectedly to (someone):向（某人）突然或出人意料地提出或提议某事
 (especially of wood) become warped or split.:（尤其是木头）变形或裂开。
 (of a boat) suffer splitting of (a mast or other part).:（一艘船）遭受（桅杆或其他部分）分裂。
 pay for:支付
-spend (money):spend（钱）
+spend (money):破费）
 come upon (an illicit activity or its perpetrator):来吧（非法活动或其肇事者）
 the season after winter and before summer, in which vegetation begins to appear, in the northern hemisphere from March to May and in the southern hemisphere from September to November:冬后夏前的季节，植被开始出现的季节，北半球从三月到五月，南半球从九月到十一月
 the period from the vernal equinox to the summer solstice.:春分到夏至这段时间。
@@ -316,7 +316,7 @@ I sprang out of bed:我从床上跳起来
 the drawer sprang open:抽屉突然打开
 the engine sprang into life:引擎开始生机
 the president sought to spring the hostages:总统试图劫持人质
-madness and creativity could spring from the same source:madness和创造力可以同源
+madness and creativity could spring from the same source:疯狂和创造力可能来自同一源头
 tears sprang from his eyes:泪水从他的眼中涌出
 a terrible storm sprang up:一场可怕的风暴突然袭来
 we decided to spring a surprise on them:我们决定给他们一个惊喜
@@ -391,8 +391,8 @@ up against | 反对,对抗
 a large building where raw materials or manufactured goods may be stored prior to their distribution for sale.:一个大型建筑物，原材料或制成品可以在其分销之前储存起来以供销售。
 a large wholesale or retail store:一家大型批发或零售店
 store (goods) in a warehouse:store（货物）在一个仓库
-place (imported goods) in a bonded warehouse pending the payment of import duty.:place（进口货物）在保税仓库等待支付进口关税。
-place (a prisoner or a psychiatric patient) in a large, impersonal institution in which their problems are not satisfactorily addressed:place（囚犯或精神病患者）在一个大型的、非个人的机构中，他们的问题没有得到令人满意的解决
+place (imported goods) in a bonded warehouse pending the payment of import duty.:将（进口货物）放置在保税仓库等待支付进口关税。
+place (a prisoner or a psychiatric patient) in a large, impersonal institution in which their problems are not satisfactorily addressed:将（囚犯或精神病患者）安置在一个大型的、没有人情味的机构中，他们的问题没有得到令人满意的解决
 warehouse |ˈwɛːhaʊs| Noun/Verb/:仓库,仓储
 a discount warehouse:a折扣仓库
 the pallets were warehoused the following day:托盘次日入库
@@ -407,10 +407,10 @@ referring to the more distant of two things near to the speaker (the other, if s
 referring to a specific thing previously mentioned, known, or understood:指先前提及、已知或理解的特定事物
 used in singling out someone or something and ascribing a distinctive feature to them:用于挑出某人或某物并赋予他们独特的特征
 expressing strong agreement with a description just given:表示非常同意刚刚给出的描述
-used instead of ‘which’, ‘who’, ‘whom’, or ‘when’ to introduce a defining clause, especially one essential to identification:用于代替“which”、“who”、“whom”或“when”来引入定义从句，尤其是对识别至关重要的从句
+used instead of ‘which’, ‘who’, ‘whom’, or ‘when’ to introduce a defining clause, especially one essential to identification:用于代替“which”、“who”、“who”或“when”来引入定义从句，尤其是识别所必需的
 that |ðəʊz| Adverb/Conjunction/Determiner/Pronoun/:那,那就是
 that's his wife over there:那边是他老婆
-this is stronger than that:this比那个强
+this is stronger than that:这个比那个强
 that's a good idea:这是个好主意
 it is part of human nature to be attracted to that which is aesthetically pleasing:人的本性是被审美上令人愉悦的事物所吸引
 ‘He's a fussy man.’ ‘He is that.’:“他是个挑剔的人。”“他就是那样。”
@@ -500,7 +500,7 @@ monkey |ˈmʌŋki| Noun/Verb/:,猴子,猿
 where have you been, you little monkey!:你去哪儿了，小猴子！
 I saw them monkeying about by the shop:我看到他们在店里胡闹
 don't monkey with that lock!:不要拿那把锁开玩笑！
-then marched the Three who monkeyed our Great and Dead:then行军三人谁耍弄我们的伟大和死者
+then marched the Three who monkeyed our Great and Dead:然后三人行进，他们嘲笑我们的伟人和死者
 
 the action or process of flying through the air:空中飞行的动作或过程
 an act of flying, a journey made through the air or in space, especially a timetabled journey made by an airline:飞行行为，空中或太空旅行，尤指航空公司按时间表安排的旅行
@@ -518,8 +518,8 @@ a selection of small portions of a particular type of food or drink (especially 
 an extravagant or far-fetched idea or thought process:一个奢侈或牵强的想法或思维过程
 the tail of a dart.:飞镖的尾巴。
 (in soccer, cricket, etc.) deliver (a ball) with well-judged trajectory and pace:（在足球、板球等方面）以良好判断的轨迹和速度传球（一个球）
-provide (an arrow or dart) with feathers or vanes:provide（箭头或飞镖）带有羽毛或叶片
-shoot (wildfowl) in flight:shoot（野禽）在飞行中
+provide (an arrow or dart) with feathers or vanes:提供（箭或飞镖）羽毛或叶片
+shoot (wildfowl) in flight:在飞行中射击（野禽）
 flight |flʌɪt| Noun/Verb/:航班,射击,飞行
 an eagle in flight:一只飞翔的鹰
 a return flight from Gatwick to Berlin:a从盖特威克机场到柏林的回程航班
@@ -549,10 +549,10 @@ a flight of | 一次飞行,一个航班
 
 
 a flat disc or piece of metal with an official stamp, used as money:一张带有官方印章的平盘或金属片，用作货币
-money in the form of coins:money硬币形式
+money in the form of coins:硬币形式的钱
 one of the suits in some tarot packs, corresponding to pentacles in others.:一些塔罗牌中的一套，对应于其他的五角星。
-make (coins) by stamping metal:make（硬币）冲压金属
-make (metal) into coins.:make（金属）成硬币。
+make (coins) by stamping metal:用冲压金属制造（硬币）
+make (metal) into coins.:将（金属）制成硬币。
 earn a lot of (money) quickly and easily:快速轻松地赚很多（钱）
 invent (a new word or phrase):发明（一个新词或短语）
 coin |kɔɪn| Noun/Verb/:硬币,钱币
@@ -560,7 +560,7 @@ she opened her purse and took out a coin:她打开钱包，取出一枚硬币
 large amounts of coin and precious metal:大量硬币和贵金属
 guineas and half-guineas were coined:几内亚和半几内亚被创造出来
 the company was coining it in at the rate of £90 a second:该公司以每秒90英镑的速度创造了它
-he coined the term ‘desktop publishing’:he创造了“桌面出版”一词
+he coined the term ‘desktop publishing’:他创造了“桌面出版”一词
 
 coin a phrase | 造句,造一个词组
 
@@ -596,7 +596,7 @@ become covered or submerged by a flood:被洪水覆盖或淹没
 overfill the carburettor of (an engine) with petrol, causing the engine to fail to start.:（发动机）化油器加满汽油，导致发动机无法启动。
 arrive in overwhelming amounts or quantities:以压倒性的数量或数量到达
 completely fill or suffuse:完全充满或充满
-overwhelm with large amounts or quantities:overwhelm大量或大量
+overwhelm with large amounts or quantities:大量或数量不堪重负
 (of a woman) experience a uterine haemorrhage.:（一名妇女）经历子宫出血。
 flood |flʌd| Noun/Verb/:洪水,淹没,洪
 the villagers had been cut off by floods and landslides:村民被洪水和山体滑坡切断
@@ -604,6 +604,6 @@ she burst into floods of tears:她泪如雨下
 his column provoked a flood of complaints:他的专栏引发了大量的投诉
 the dam burst, flooding a small town:大坝决堤，淹没了一个小镇
 part of the vessel flooded:部分船只被淹
-sunlight flooded in at the windows:sunlight涌入窗户
+sunlight flooded in at the windows:阳光照进窗户
 she flooded the room with light:她用灯光照亮了房间
 our switchboard was flooded with calls:我们的总机被电话淹没了

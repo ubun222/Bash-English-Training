@@ -59,7 +59,7 @@ a lineman positioned nearest the sideline:距离边线最近的前锋
 end |ɛnd| Noun/Verb/:结尾,结束,端,最后
 the end of the year:年底
 the party called for an end to violence:党呼吁结束暴力
-you will go to church and there's an end of it:youwillgotoChurchandthere'saend它结束了它
+you will go to church and there's an end of it:你会去教堂，然后就结束了
 he realized that his end was near:他意识到他的末日快到了
 the end of that man is peace:那个人的结局是和平
 the church at the end of the road:路尽头的教堂
@@ -79,9 +79,9 @@ permissions to reproduce copyright material:复制版权材料的许可
 
 take, hold, or deploy (something) as a means of accomplishing or achieving something, employ:采取，持有或部署（某事）作为完成或实现某事的手段，采用
 treat (someone) in a particular way:以特定方式对待（某人）
-exploit (a person or situation) for one's own advantage:exploit（某人或情况）为自己谋利
+exploit (a person or situation) for one's own advantage:利用（人或情况）为自己谋取利益
 apply (a name or title) to oneself:向自己申请（名字或头衔）
-take (an illegal drug):take（非法药物）
+take (an illegal drug):服用（非法药物）
 take or consume (an amount) from a limited supply:从有限的供应中获取或消耗（数量）
 describing an action or situation that was done repeatedly or existed for a period in the past:描述重复进行或在过去一段时间内存在的动作或情况
 be or become familiar with (someone or something) through experience:成为或通过经验熟悉（某人或某事）
@@ -103,11 +103,11 @@ we have used all the available funds:我们已使用所有可用资金
 this road used to be a dirt track:这条路曾经是土路
 she was used to getting what she wanted:她习惯于得到她想要的东西
 I could use another cup of coffee:我可以再喝一杯咖啡
-modern trains are now in use:modern列车正在使用中
+modern trains are now in use:现代火车现已投入使用
 the horse lost the use of his hind legs:这匹马失去了后腿的用途
 the herb has various culinary uses:这种药草有多种烹饪用途
 what's the use of crying?:哭有什么用？
-theft and dealing financed their heroin use:theft和交易资助了他们吸食海洛因
+theft and dealing financed their heroin use:盗窃和交易资助了他们吸食海洛因
 
 the faculty of perceiving sounds:感知声音的能力
 the range within which sounds may be heard, earshot:可以听到声音的范围，听得见
@@ -124,14 +124,14 @@ Peter and Nita have endured years of being treated with condescension and disres
 a strong, hard magnetic silvery-grey metal, the chemical element of atomic number 26, much used as a material for construction and manufacturing, especially in the form of steel.:一种强磁性银灰色金属，原子序数为26的化学元素，广泛用作建筑和制造材料，尤其是钢的形式。
 used figuratively as a symbol or type of firmness, strength, or resistance:
 a tool or implement now or originally made of iron:现在或最初由铁制成的工具或器具
-metal supports for a malformed leg.:metal支持畸形腿。
+metal supports for a malformed leg.:畸形腿的金属支架。
 fetters or handcuffs.:脚镣或手铐。
 stirrups.:马镫。
 a handheld implement, typically an electrical one, with a heated flat steel base, used to smooth clothes, sheets, etc.:一种手持工具，通常是电动工具，带有加热的扁钢底座，用于平滑衣服、床单等。
 a golf club with a metal head (typically with a numeral indicating the degree to which the head is angled in order to loft the ball):带有金属杆头的高尔夫球杆（通常带有一个数字，表示杆头倾斜的角度以便将球放出）
 a shot made with an iron:用铁杆击球
 a meteorite containing a high proportion of iron.:一颗含有高比例铁的陨石。
-smooth (clothes, sheets, etc.) with an iron.:smooth（衣服、床单等）用熨斗。
+smooth (clothes, sheets, etc.) with an iron.:用熨斗熨平（衣服、床单等）。
 iron |ˈʌɪən| Noun/Verb/:铁,熨,坚强的,熨斗
 her father had a will of iron:她的父亲有钢铁般的意志
 a caulking iron:a填缝铁
@@ -147,7 +147,7 @@ a thing given in recognition of service, effort, or achievement:为表彰服务�
 a fair return for good or bad behaviour:良好或不良行为的公平回报
 a sum offered for information leading to the solving of a crime, the detection of a criminal, etc.:提供有助于解决犯罪、侦查犯罪等的信息的款项。
 give something to (someone) in recognition of their services, efforts, or achievements:给（某人）一些东西，以表彰他们的服务、努力或成就
-show one's appreciation of (an action or quality):showone's欣赏（一个动作或质量）
+show one's appreciation of (an action or quality):表示对（行为或品质）的欣赏
 receive what one deserves:receive应得的
 reward |rɪˈwɔːd| Noun/Verb/:报酬,奖励,赏,奖金,回报
 the holiday was a reward for 40 years' service with the company:
@@ -193,7 +193,7 @@ feel oneself | 感觉自己,自我感觉
 
 an exchange of diverging or opposite views, typically a heated or angry one:交换不同或相反的观点，通常是激烈或愤怒的
 a reason or set of reasons given in support of an idea, action or theory:为支持一个想法、行动或理论而给出的一个或一组理由
-an independent variable associated with a function or proposition and determining its value. For example, in the expression y = F(x₁, x₂), the arguments of the function F are x₁ and x₂, and the value is y.:与功能或命题相关联并确定其值的自变量。例如，在表达式yu003dF(x₁,x₂)中，函数F的参数是x₁和x₂，值是y。
+an independent variable associated with a function or proposition and determining its value. For example, in the expression y = F(x₁, x₂), the arguments of the function F are x₁ and x₂, and the value is y.:与函数或命题相关并决定其值的自变量。例如，在表达式 y = F(x₁, x₂) 中，函数 F 的参数是 x₁ 和 x₂，值为 y。
 any of the noun phrases in a clause that are related directly to the verb, typically the subject, direct object, and indirect object.:从句中与动词直接相关的任何名词短语，通常是主语、直接宾语和间接宾语。
 a summary of the subject matter of a book.:一本书的主题摘要。
 argument |ˈɑːɡjʊm(ə)nt| Noun/:争论,论据
@@ -213,10 +213,10 @@ an unusual or amusing person:一个不寻常或有趣的人
 a printed or written letter or symbol.:一个印刷或书面的字母或符号。
 a symbol representing a letter or number.:代表字母或数字的符号。
 a characteristic, especially one that assists in the identification of a species.:一种特征，尤其是有助于识别物种的特征。
-inscribe or write (something).:inscribe或写（某事）。
+inscribe or write (something).:题写或书写（某物）。
 describe:describe
 character |ˈkarɪktə| Noun/Verb/:特点,字符,字,性格
-running away was not in keeping with her character:runningaway不符合她的性格
+running away was not in keeping with her character:逃跑不符合她的性格
 gas lamps give the area its character:
 the island is full of character:岛上充满个性
 she had character as well as beauty:她既有性格又有美貌
@@ -240,7 +240,7 @@ hat |hat| Noun/:帽子,帽
 a black straw hat:一顶黑色草帽
 wearing her scientific hat she is director of a pharmacology research group:戴上她的科学帽，她是一个药理学研究小组的主任
 
-make or become better:makeor变得更好
+make or become better:使或变得更好
 develop or increase in mental capacity by education or experience:通过教育或经验发展或增加心智能力
 achieve or produce something better than:实现或产生比
 improve |ɪmˈpruːv| Verb/:提升,提高,改善,改进
@@ -250,12 +250,12 @@ they are trying to improve on the tired old style:他们正在努力改善疲惫
 be unsuccessful in achieving one's goal:没有成功实现自己的目标
 be unsuccessful in (an examination or interview):不成功（考试或面试）
 (of a person or a commodity) be unable to meet the standards set by (a test of quality or eligibility):（人或商品的）不能达到（质量或资格检验）规定的标准
-judge (a candidate in an examination or test) not to have passed:judge（考试或测试中的候选人）未通过
+judge (a candidate in an examination or test) not to have passed:法官（参加考试或测验的考生）未通过
 neglect to do something:neglect做某事
 behave in a way contrary to expectations by not doing something:行为与预期相反，不做某事
 used to express a strong belief that something must be the case:用于表达一种强烈的信念，即某事一定是这样的
 used to indicate that something invariably happens:用于表示某事总是会发生
-desert or let down (someone):desert或让（某人）失望
+desert or let down (someone):抛弃或让（某人）失望
 cease to work properly, break down:停止正常工作，崩溃
 become weaker or of poorer quality:变得更弱或质量更差
 (of rain or a crop or supply) be insufficient when needed or expected:（雨或农作物或供应）在需要或预期时不足
@@ -267,7 +267,7 @@ he failed in his attempt to secure election:他试图确保选举失败
 she failed her finals:她在决赛中失败了
 a player has failed a drugs test:一名球员未能通过药检
 the criteria used to pass or fail the candidate:用于通过或不通过候选人的标准
-commuter chaos has again failed to materialize:commuter混乱再次未能实现
+commuter chaos has again failed to materialize:通勤混乱再次未能实现
 she cannot have failed to be aware of the situation:她不可能不知道情况
 such comments never failed to annoy him:这样的评论总是惹恼他
 at the last moment her nerve failed her:在最后一刻，她的神经让她失望了
@@ -324,11 +324,11 @@ things done to express interest in or please someone:为了表达对某人的兴
 a position assumed by a soldier, standing very straight with the feet together and the arms straight down the sides of the body:一个士兵采取的姿势，双脚并拢，手臂伸直在身体两侧
 an order to assume a straight standing position.:命令采取笔直站立的姿势。
 attention |əˈtɛnʃn| Noun/:注意力,立正,注意,关注
-he drew attention to three spelling mistakes:he提请注意三个拼写错误
+he drew attention to three spelling mistakes:他提请注意三个拼写错误
 he turned his attention to the educational system:他把注意力转向了教育系统
 her business needed her attention:她的生意需要她的关注
 she felt flattered by his attentions:她对他的关注感到受宠若惊
-Saunders stood stolidly to attention:Saunders呆呆地站着注意
+Saunders stood stolidly to attention:桑德斯坚定地立正
 
 (typically of something regarded as good) become smaller, fewer, or less, decrease:（通常被认为是好的东西）变得更小、更少或更少、减少
 diminish in strength or quality, deteriorate:强度或质量下降，恶化
@@ -342,11 +342,11 @@ a disease in which the bodily strength gradually fails, especially tuberculosis:
 decline |dɪˈklʌɪn| Noun/Verb/:衰退,婉拒,下降,拒绝,衰落
 the birth rate continued to decline:出生率持续下降
 her health began to decline:她的健康开始下降
-Caroline declined the coffee:Caroline拒绝了咖啡
+Caroline declined the coffee:卡罗琳谢绝了咖啡
 the sun began to creep round to the west and to decline:太阳开始向西爬行并下降
 the wearisome creatures of the world declining to their rest:世界上令人厌烦的生物不愿安息
 a serious decline in bird numbers:鸟类数量严重下降
-this Evening from the Sun's decline arriv'd:thisEveningfrom太阳的衰落到达
+this Evening from the Sun's decline arriv'd:This Evening from the Sun's decline arriv'd 太阳落日的傍晚
 he died at his brother's of a deep decline:他死在了他兄弟的衰弱中
 
 skillfully | 熟练地,巧妙地

@@ -36,10 +36,9 @@ for openers							首先
 
 a man who broadcasts a description and forecast of weather conditions.:一个播报天气状况描述和预报的人。
 weatherman |ˈwɛðəman| Noun/:气象员,天气预报员
-:
 
 officially allow (someone) to do something:正式允许（某人）做某事
-authorize or allow (something):authorize或允许（某事）
+authorize or allow (something):授权或允许（某事）
 provide an opportunity or scope for (something) to take place, make possible:为（某事）发生提供机会或范围，使之成为可能
 allow for, admit of:允许，承认
 an official document giving someone authorization to do something:授权某人做某事的官方文件
@@ -61,7 +60,7 @@ the end part of a person's arm beyond the wrist, including the palm, fingers, an
 a prehensile organ resembling the hand and forming the end part of a limb of various mammals, such as that on all four limbs of a monkey.:一种类似手的可抓握器官，形成各种哺乳动物肢体的末端，例如猴子四肢的末端。
 a person's arm, including the hand:一个人的手臂，包括手
 operated by or held in the hand:操作或握在手中
-done or made manually rather than by machine:done或手工制作而不是机器制作
+done or made manually rather than by machine:手工完成或制作而不是机器
 a round of applause:一片掌声
 a person's handwriting:一个人的笔迹
 a pledge of marriage by a woman:一个女人的婚姻誓言
@@ -82,7 +81,7 @@ hand |hand| Noun/Verb/:手,递,手掌
 he was leading her by the hand:他牵着她的手
 that dog bite me on mi hand, right below the elbow:那条狗咬我的手，肘部正下方
 hand luggage:手提行李
-hand signals:hand信号
+hand signals:手势
 his fans gave him a big hand:他的粉丝给了他很大的帮助
 he inscribed the statement in a bold hand:他用粗体字写下了这句话
 he wrote to request the hand of her daughter in marriage:他写信请求女儿结婚
@@ -95,7 +94,7 @@ I'm a great hand at inventing:我擅长发明
 a factory hand:a厂手
 he's got a good hand:他有一手好牌
 they played a hand of whist:他们打了惠斯特牌
-declarer won in hand and led ♣J:declarer赢在手领先♣J
+declarer won in hand and led ♣J:庄家赢了，领先了♣J
 mottled hands of bananas:斑驳的香蕉手
 
 get, acquire, or secure (something):get、获取或保护（某事）
@@ -110,9 +109,9 @@ something of great value that is worth struggling to achieve:值得努力实现�
 an enemy ship captured during the course of naval warfare:一艘在海战中被俘的敌舰
 having been or likely to be awarded a prize in a competition:已经或可能在比赛中获奖
 denoting something for which a prize is awarded:表示获得奖励的东西
-excellent of its kind, outstanding:excellent同类中的佼佼者
+excellent of its kind, outstanding:出类拔萃，出类拔萃
 complete, utter:完成，完全
-value extremely highly:value极高
+value extremely highly:价值极高
 prize |prʌɪz| Adjective/Noun/Verb/:奖,奖金,奖品
 Britain's most prestigious prize for contemporary art:英国最负盛名的当代艺术奖
 the star prize in the charity raffle:慈善抽奖明星奖
@@ -126,8 +125,8 @@ the berries were prized for their healing properties:这些浆果因其治疗功
 
 in a state of peaceful happiness:处于平静幸福的状态
 willing to accept a particular thing, satisfied:愿意接受某件事，满意
-satisfy (someone):satisfy（某人）
-accept as adequate despite wanting more or better:acceptaswell尽管想要更多或更好
+satisfy (someone):满足（某人）
+accept as adequate despite wanting more or better:尽管想要更多或更好，但还是足够接受
 a state of satisfaction:
 a member of the British House of Lords who votes for a particular motion.:英国上议院议员，投票支持某项议案。
 the things that are held or included in something:持有或包含在某事物中的事物
@@ -152,7 +151,7 @@ without doubt, definitely:毫无疑问，绝对
 firmly |ˈfəːmli| Adverb/:牢牢,坚定地,坚决
 the door remained firmly shut:门一直紧闭
 I had her wrist grasped firmly in my hand:我的手紧紧地抓住她的手腕
-the council is firmly committed to raising standards in education:theCouncil坚定地致力于提高教育标准
+the council is firmly committed to raising standards in education:该委员会坚定地致力于提高教育标准
 I firmly believe that we could do better:我坚信我们可以做得更好
 
 the property possessed by an object of producing different sensations on the eye as a result of the way it reflects or emits light:物体因反射或发射光的方式而在眼睛上产生不同感觉的特性
@@ -164,7 +163,7 @@ any of the major conventional colours used in coats of arms (gules, vert, sable,
 any of the balls other than the white cue ball and the reds:除白母球和红球以外的任何球
 pigmentation of the skin, especially as an indication of someone's ethnicity:皮肤色素沉着，尤其是作为某人种族的标志
 a group of people considered as being distinguished by skin pigmentation:一群被认为以皮肤色素沉着为特征的人
-vivid appearance resulting from the juxtaposition of many bright things:vivid外观由许多明亮的事物并置而成
+vivid appearance resulting from the juxtaposition of many bright things:许多明亮的事物并置形成的生动外观
 features that lend a particularly interesting quality to something:特征赋予事物特别有趣的品质
 variety of musical tone or expression:多种音调或表达方式
 an item or items of a particular colour worn to identify or distinguish an individual or a member of a group, in particular a jockey or a member of a sports team:一种或多种特定颜色的物品，用于识别或区分个人或团体成员，特别是骑师或运动队成员
@@ -174,12 +173,12 @@ a shade of meaning:一种含义
 a quantized property of quarks which can take three values (designated blue, green, and red) for each flavour.:夸克的一种量化属性，可以为每种风味取三个值（指定为蓝色、绿色和红色）。
 change the colour of (something) by painting, dyeing, or shading it:通过绘画、染色或阴影改变（某物）的颜色
 take on a different colour:采取不同的颜色
-fill (a shape or outline) with colour:fill（形状或轮廓）用颜色
+fill (a shape or outline) with colour:用颜色填充（形状或轮廓）
 make vivid or picturesque:使生动或如画
 (of a person or their skin) show embarrassment or shame by becoming red, blush:（一个人或他们的皮肤）变红、脸红表示尴尬或羞耻
 cause (a person's skin) to change in colour:导致（一个人的皮肤）变色
 (of an emotion) imbue (a person's voice) with a particular tone:（情感的）赋予（一个人的声音）一种特定的语气
-influence, especially in a negative way, distort:influence，尤其是以消极的方式，扭曲
+influence, especially in a negative way, distort:影响，尤其是负面影响，会扭曲
 misrepresent by distortion or exaggeration:歪曲或夸大其词
 colour |ˈkʌlə| Noun/Verb/:颜色,涂色,彩色,色,色彩
 the lights flickered and changed colour:灯光闪烁变颜色
@@ -187,8 +186,8 @@ a rich brown colour:丰富的棕色
 he has shot the whole film in colour:他拍摄了整部电影的彩色
 there was some colour back in his face:他的脸上有一些颜色
 lip colour:唇色
-Hendry potted the last four colours to win 5–4:Hendry灌入最后四种颜色以
-discrimination on the basis of colour:discrimination基于颜色
+Hendry potted the last four colours to win 5–4:亨德利投进最后四种颜色，以 5–4 获胜
+discrimination on the basis of colour:基于颜色的歧视
 all colours and nationalities:所有颜色和国籍
 for colour, plant groups of winter-flowering pansies:用于颜色，冬季开花的三色堇植物群
 a town full of colour and character:一个充满色彩和个性的小镇
@@ -196,15 +195,15 @@ orchestral colour:管弦乐色
 it was Devon Loch's first victory in the colours of his royal owner:这是德文湖以他的皇室主人的颜色获得的第一次胜利
 all over the world countries which had long been administered by others were hoisting their own colours:全世界长期被别人管理的国家正在亮起自己的颜色
 many events in her past had taken on a different colour:她过去的许多事件都呈现出不同的颜色
-he coloured her hair with a selection of blonde and brown shades:he用一系列金色和棕色调给她的头发上色
+he coloured her hair with a selection of blonde and brown shades:他用一系列金色和棕色调给她的头发上色
 the foliage will not colour well if the soil is too rich:如果土壤太肥，叶子不会很好地着色
 he hated finger-painting and colouring in pictures:他讨厌手指画和涂色
-he has coloured the dance with gestures from cabaret and vaudeville:he用歌舞表演和杂耍表演的手势为舞蹈增色不少
+he has coloured the dance with gestures from cabaret and vaudeville:他用歌舞表演和杂耍表演的手势为舞蹈增色不少
 she coloured slightly:她微微上色
-rage coloured his pale complexion:rage染上了他苍白的肤色
-surprise coloured her voice:surprise为她的声音着色
+rage coloured his pale complexion:愤怒染上了他苍白的肤色
+surprise coloured her voice:她的声音充满了惊喜
 the experiences had coloured her whole existence:这些经历影响了她的整个存在
-witnesses might colour evidence to make a story saleable:witnesses可能会为证据着色以使故事畅销
+witnesses might colour evidence to make a story saleable:证人可能会为证据涂上颜色以使故事更畅销
 
 colours | ,上色,色彩
 
@@ -217,7 +216,7 @@ in need of sleep or rest, weary:需要睡觉或休息，疲倦
 bored or impatient with:无聊或不耐烦
 (especially of a statement or idea) boring or uninteresting because overfamiliar:（尤指陈述或想法）因为太熟悉而无聊或无趣
 tired |ˈtʌɪəd| Adjective/:疲劳的,累,疲倦,累了,很累
-Fisher rubbed his tired eyes:Fisher揉了揉疲惫的眼睛
+Fisher rubbed his tired eyes:费舍尔揉了揉疲惫的眼睛
 a few boxes of tired vegetables:几盒疲倦的蔬菜
 I have to look after these animals when you get tired of them:当你厌倦了这些动物时，我必须照顾它们
 tired clichés like the ‘information revolution’:疲倦的陈词滥调，例如“信息革命”
@@ -247,7 +246,7 @@ a major sports tournament or competition, especially in golf or tennis:一个大
 (in the UK) each of the five main flat races of the horse-racing season.:（在英国）赛马赛季的五场主要平地比赛中的每一场。
 classic |ˈklasɪk| Adjective/Noun/:经典的,经典作品,经典,经典之作
 a classic novel:一部经典小说
-this classic navy blazer:this经典的海军蓝西装外套
+this classic navy blazer:这件经典的海军西装外套
 Hamlet is the classic example of a tragedy:哈姆雷特是悲剧的经典例子
 his books have become classics:他的书已经成为经典
 he's hoping that tomorrow's game will be a classic:他希望明天的比赛能成为经典
@@ -275,7 +274,7 @@ a former weight and unit of currency, used especially by the ancient Romans and 
 talent |ˈtalənt| Noun/:天赋,人才,才能
 he possesses more talent than any other player:他拥有比任何其他球员更多的天赋
 I signed all the talent in Rome:我签下了罗马所有的天才
-most Saturday nights I have this urge to go on the hunt for new talent:most星期六晚上我有这种寻找新人才的冲动
+most Saturday nights I have this urge to go on the hunt for new talent:大多数星期六晚上，我都有继续寻找新人才的冲动
 a mighty steed bought from a Thessalian merchant for thirteen talents:一匹强大的骏马，从一个塞萨利亚商人处以13塔利特的价格购买
 
 more than two but not many:两个以上但不多
@@ -325,7 +324,7 @@ adopt |əˈdɒpt| Verb/:,采用,采取,通过,收养
 there are many people eager to adopt a baby:有很多人渴望领养孩子
 this approach has been adopted by many big banks:这种方式已经被很多大银行采用
 he adopted a patronizing tone:他采取了一种居高临下的语气
-she was recently adopted as Labour candidate for the constituency:she最近被选为选区的工党候选人
+she was recently adopted as Labour candidate for the constituency:她最近被选为选区的工党候选人
 the committee voted 5–1 to adopt the proposal:委员会以5票对1票通过该提案
 
 the joint between the thigh and the lower leg in humans:人体大腿和小腿之间的关节
@@ -344,7 +343,7 @@ a printed publication (usually issued daily or weekly) consisting of folded unst
 the organization responsible for producing a particular newspaper:负责制作特定报纸的组织
 newspaper |ˈnjuːzpeɪpə| Noun/:,报,日报
 all the newspapers carried the story:所有的报纸都报道了这个故事
-Ms Henry joined the newspaper 10 months ago:MsHenry10个月前加入报纸
+Ms Henry joined the newspaper 10 months ago:亨利女士 10 个月前加入报社
 
 remaining the same in all cases and at all times, unchanging in form or character:在任何情况下和任何时候都保持不变，形式或性质不变
 of a similar form or character to another or others:与另一个或其他人具有相似的形式或特征
@@ -358,7 +357,7 @@ blocks of stone of uniform size:块大小均匀的石头
 a uniform package of amenities at a choice of hotels:精选酒店的统一配套设施
 black uniform jackets:黑色制服外套
 airline pilots in dark blue uniforms:航空公司飞行员身穿深蓝色制服
-uniforms were already on the scene:uniforms已经在现场
+uniforms were already on the scene:制服已经在现场
 
 bear all or part of the weight of, hold up:承受全部或部分重量，撑起
 give assistance to, especially financially:给予援助，尤其是在经济上
@@ -384,7 +383,7 @@ the government gives £2,500 million a year to support the voluntary sector:政�
 my main concern was to support my family:我主要关心的是养家糊口
 the land had lost its capacity to support life:这片土地已经失去了维持生命的能力
 the proposal was supported by many delegates:该提案得到了许多代表的支持
-fans should always support their team fully, no matter what:fans无论如何都应该全力支持他们的球队
+fans should always support their team fully, no matter what:无论如何，球迷都应该全力支持他们的球队
 the studies support our findings:这些研究支持我们的发现
 the new versions do not support the graphical user interface standard:新版本不支持图形用户界面标准
 at work during the day I could support the grief:白天工作我可以承受悲伤
@@ -416,7 +415,6 @@ two courses cover the fundamentals of microbiology:two课程涵盖微生物学�
 
 the edge of a road.:路边。
 wayside |ˈweɪsʌɪd| Noun/:路边,道旁
-:
 
 an act of asking politely or formally for something:礼貌或正式地要求某事的行为
 a thing that is asked for:一个被要求的东西
@@ -435,11 +433,11 @@ the letter requested him to report to London:这封信要求他到伦敦报到
 
 a solid fuel made by heating coal in the absence of air so that the volatile components are driven off.:一种固体燃料，通过在没有空气的情况下加热煤，从而驱除挥发性成分而制成。
 carbon residue left after the incomplete combustion of petrol or other fuels.:汽油或其他燃料不完全燃烧后留下的残炭。
-convert (coal) into coke:convert（煤）成焦炭
+convert (coal) into coke:将（煤）转化为焦炭
 coke |kəʊk| Noun/Verb/:可乐,可口可乐,焦炭
 certain operators were coking this coal on a small scale:某些运营商正在小规模炼焦这种煤
 
-at, into, or across the space separating (two objects or regions):at,into,oracrossthespace分隔（两个对象或区域）
+at, into, or across the space separating (two objects or regions):在、进入或跨越空间分离（两个物体或区域）
 in the period separating (two points in time):套练习，中间不休息2
 in the interval separating (two points on a scale):在区间分离（一个刻度上的两个点）
 indicating a connection or relationship involving two or more parties:表示涉及两方或多方的联系或关系
@@ -471,7 +469,7 @@ a player who opens the batting.:一名开场的球员。
 the player who makes the first bid in the auction.:在拍卖中最先出价的玩家。
 opener |ˈəʊp(ə)nə| Noun/:,揭幕战
 a tin opener:开罐器
-Denver stuffed Buffalo 22–7 in the season opener:Denver在赛季揭幕战中以22比7击败布法罗
+Denver stuffed Buffalo 22–7 in the season opener:丹佛在赛季揭幕战中以 22-7 击败布法罗
 Bannister equalized after Armstrong's opener for Palace:班尼斯特在阿姆斯特朗为宫殿揭幕战后扳平比分
 we blurted out the obvious opener:we脱口而出明显的开场白
 

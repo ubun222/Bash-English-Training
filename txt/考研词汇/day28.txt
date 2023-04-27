@@ -29,4 +29,574 @@ accustomed						习惯的
 composite				复合的，合成物
 oblige					强迫，帮助
 diameter						直径
-\\\\
+\\\\\\\\
+
+prep. 也可用except for，用于将一个事物或人排除在陈述之外，即除…之外:
+conj. except (that ...) 用于提及的一个事物之前，该事物使得一个陈述的完全正确性得以打破，如除了、只是:
+vt. [正式] except sb/sth (from sth) 常用被动式，不把（某人或某事物）包括在内:
+except |[ɪk'sept]
+We work every day except Sunday. 我们除星期天外每天都工作。
+They all came except Matt. 除马特外他们都来了。
+I had nothing on except for my socks. 我除了短袜什么都没穿。
+I didn’t tell him anything except that I needed the money. 我什么都没告诉他，只是说我需要钱。
+Our dresses were the same except mine was red. 我们的连衣裙是一样的，只是我的那件是红色的。
+Children under five are excepted from the survey. 五岁以下的儿童不在调查之列。
+The sanctions ban the sale of any products excepting medical supplies and food. 国际制裁禁止销售医药用品和食物以外的任何产品。
+Tours are arranged all year round (January excepted). 全年都提供观光旅游（一月份除外）。
+
+vt. [正式] 给予…特权或优待，相当于favour:
+n. 1 [C] 某个人或团体所拥有的一种特殊权利或待遇:
+2 [U] [贬] 富人或权贵阶层所拥有的特权，特殊待遇:
+3 [C, U] [术语] 做或说…而不受惩罚的一种特权，即免责特权:
+n. [sing.] 荣幸。表达了对有机会做某事感到骄傲或幸运，或表达对某人、某事的感激，或表达自己对…的尊重或尊敬:
+n. 1 [C] 某个人或团体所拥有的一种特殊权利:
+2 [U] [贬] 富人或权贵阶层所拥有的特权:
+3 [C, U] [术语] 做或说…而不受惩罚的一种特权，即免责特权:
+privilege |['prɪvɪlɪdӡ]
+This policy will privilege the poor. 这项政策将给予穷人优待。
+to abolish special privileges for government officials 取消政府官员的特权 
+Club members have special privileges, like free use of the pool. 俱乐部会员享有特殊待遇，如可免费使用泳池。
+class, diplomatic privilege 阶级特权；外交特权 
+a son of privilege and wealth 富贵人家的子弟 
+It’s a great privilege to work with such a brilliant team. 与这样一群有才华的人共事，我感到三生有幸。
+It is a great privilege to be attending this conference. 能参加本次会议是莫大的荣幸。
+She had the rare privilege of a viewing of his private art collection. 她观赏了他个人收藏的艺术品，真是荣幸之至。
+to abolish special privileges for government officials 取消政府官员的特权 
+class, diplomatic privilege 阶级特权；外交特权 
+a son of privilege and wealth 富贵人家的子弟 
+
+adj. [正式]（一家公司中的一个职位）空缺的:
+adj.（一个人的目光、表情等）表明某人没有思考任何事的，如无神的、茫然的、呆滞的:
+adj.（一个座位、旅馆房间、房屋等）空的，未被占用的，相当于unoccupied:
+vacant |['veɪkənt]
+Situations Vacant (= a section in a newspaper where jobs are advertised)（英）（报纸上的）招聘广告栏目 
+A job fell vacant in the accounting department. 财务部出现了一个空缺。
+a vacant look 呆滞的目光
+vacant properties 未被占用的房地产 
+The seat next to him was vacant. 他旁边的座位空着。
+a vacant lot (= a piece of land in a city that is not being used)（尤美）一块闲置的地皮
+
+vt. 认为…是…；把…认为是…，是一种正式用法，且常用被动式:
+n. [C] 互联网、电子邮件等的账户、账号:
+n. [C] 对已发生事件的书面或口头描述:
+n. [C] 对一种思想或想法、理论、过程的解释或说明、叙述。其含义比explanation要模糊和广泛，其所解释的对象也比较多元化，而不像explanation那样一般仅限于对原因和原理的解释:
+n. [C] 对已发生事件的书面或口头报告:
+n. [C] 对已发生事件的书面或口头叙述:
+n. [C] 对已发生事件的书面或口头报道。不太常用:
+n. [C] 商业中的老顾客，老客户，尤指在商家处有赊账记录的客户:
+n. 1 [C] 在银行等机构所拥有的账户；在经济金融领域之外的其它各领域中所开立的非金融性账户，如电子邮件账户等:
+2 [C] 常用复数，表示商业账目，为会计学上表示“账目”之义的常规和专业用词:
+n. [C] 商店或公司、企业中记录赊购或赊销事项的账户，因此可称为“赊购账户”或“赊销账户”。（其本质是一个“账户”。英式英语也可用credit account，美式英语也可用charge account）:
+account |[ə'kaʊnt]
+In English law a person is accounted innocent until they are proved guilty. 按英格兰法律，一个人未经证实有罪之前被视为无罪。
+The event was accounted a success. 人们认为这次活动是成功的。
+Internet, email account 互联网账号；电子邮件账号
+biblical account《圣经》中的描述 
+by all accounts (= according to what people say) 根据各方面的说法
+the Biblical account of the creation of the world《圣经》对创世的解释
+a glowing account of her son’s progress 一份热情赞扬她儿子进步的报告
+Can you give us an account of what happened? 你能给我们讲述一下事情的经过吗？
+She gave the police a full account of the incident. 她向警方详尽叙述了所发生的事情。
+By his own account he had an unhappy childhood. 据他自己说，他的童年不快乐。
+media, news（美）account 媒体报道；新闻报道 
+the newspaper account of the trial 报纸对这次审判的报道
+The company has lost two accounts. 这家公司失去了两个老客户。
+bank account 银行账户 
+current account 活期账户 
+investment, savings account 投资账户；储蓄账户 
+personal account 个人账户 
+business account 公司账户 
+account number 账号 
+account balance 账户余额 
+the accounts department 会计部门 
+account book 账簿 
+profit and loss account 损益账 
+accounts payable, accounts receivable 应付账款；应收账款 
+The accounts are all in order. 所有账目都清清楚楚。
+Put it on my account please. 请记在我的赊购账上。
+We have accounts with our suppliers. 我们与供应商实行赊购制。
+expense account（由公司报销费用的）报销账户 
+to settle the account 清账 
+Call a cab on account. 打电话以赊账方式叫辆出租车。
+
+n. [pl.] 衣服、服装。是一个概括性用词，其概念已经涵盖了裤子、裙子、夹克等，各种衣服都是一种clothes:
+clothes |[kləʊðz]
+I bought some new clothes for the trip. 我为这次旅行买了一些新衣服。
+She has no clothes sense. 她不懂穿着打扮。
+a set of clothes 一套衣服 
+summer clothes 夏装 
+outdoor clothes 户外穿的衣服 
+baby, mourning, night, school, sports clothes 婴儿服；丧服；睡衣；校服；运动装 
+outer clothes 外衣 
+civilian clothes 平民装束 
+casual clothes 便装 
+clothes shop（尤英）, clothes store（美）服装店 
+clothes designer 服装设计师 
+clothes washer（美）洗衣机
+
+n. [U] 法庭上的证据。是此义的常规用词，极为常用:
+vt. [正式] 常用被动式，证明或表明…，作为…的证据，相当于testify to:
+evidence (to suggest, show, etc.) 让人相信某事的事实、迹象或物体，即证据，根据。是一个常规用词，最常用:
+evidence |['evɪdəns]
+prima facie evidence（法律用语）初步证据 
+corroborative evidence 佐证 
+to withhold crucial evidence 隐瞒关键证据 
+circumstantial evidence 间接证据 
+to give false evidence 作伪证 
+to destroy evidence 销毁证据 
+The court was shown photographic evidence. 有人向法庭出示了影像证据。
+The legal profession is still a largely male world, as evidenced by the small number of women judges. 法律界在很大程度上仍然是男人的世界，这一点从女法官的人数屈指可数即可得到证实。
+evidence (that ...) 
+documentary, photographic evidence 书面证据；影像证据 
+archaeological evidence 考古学证据 
+DNA, forensic, scientific evidence DNA证据；法医证据；科学证据 
+false evidence 假证据 
+convincing evidence 可靠的证据 
+There is ample evidence that the world is getting hotter. 有大量的证据表明全球正在变暖。
+The room bore evidence of a struggle. 房间里有搏斗过的痕迹。
+
+n. [C] [生物学] 生长在相同地区的一群植物和动物，即（动植物的）群落:
+n. [C] 具有相同宗教、种族、工作等背景的一群人，如团体、社团、界:
+n. 1 [sing.]（居住在同一地区的人所构成的）社区、社会:
+2 [U] 对自己所居住的地区所具有的一种归属感，如社区意识、社区精神:
+community |[kəˈmju:nəti]
+the Polish community in London 在伦敦的波兰侨民团体 
+ethnic, expatriate, immigrant, minority community 民族团体；侨民社区；移民社区；少数民族社区 
+indigenous, native（美）community 原住民社区；本地人社区 
+faith, religious community 宗教社区 
+the Asian community in Britain 英国的亚裔社区 
+The police haven't really done anything for the black community in particular. 警方并未真正特意为黑人群体做什么。
+Christian, Muslim community 基督教团体；穆斯林团体 
+farming, mining community 农业界；矿业界 
+academic, business, intelligence, medical, scientific community 学术界；商业界；知识界；医学界；科学界 
+gay, lesbian community 同性恋圈子；女同性恋圈子 
+blogging, online, virtual community 博客社区；网上社区；虚拟社区 
+divisions within the scientific community 科学家群体内的分化
+The local community was shocked by the murders. 当地社会对这些谋杀案感到震惊。
+health workers based in the community (= working with people in a local area) 以社区为基地的保健工作人员 
+good community relations with the police 社区与警方之间的良好关系 
+He's well liked by people in the community. 社区的人都非常喜欢他。
+'The community are getting impatient,' said a representative of the Residents' Association. “社区居民开始不耐烦了，”居民协会的一位代表说。
+international community (= the countries of the world as a group) 国际社会 
+disadvantaged, low-income（美）, poor, under-served（美）处于弱势的社区；低收入的社区；贫穷的社区；服务水平低下的社区 
+coastal, rural, village community 沿海社区；乡村社区；农村社区 
+urban 城市社区 
+gated, residential, retirement community（均美）封闭式社区；居民区；退休社区 
+community service, community work 社区服务；社区工作 
+community policing 社区警务 
+community care（英）社区关怀 
+community centre/center 社区中心 
+community college, community garden, community hospital, community library, community park（均美）社区学院；社区花园；社区医院；社区图书馆；社区公园 
+community relations 社区关系 
+community action, community development, community outreach 社区行动；社区发展；社区扩展服务 
+community involvement, community participation 社区参与 
+community activist, community leader, community organizer（美）社区活动家；社区领袖；社区组织者 
+community group, community organization 社区团体；社区组织 
+an initiative that should benefit the community at large 将会造福整个社区的倡议 
+a pillar of the community（= a strong supporter of the community) 社区的支柱 
+There is a strong sense of community in this town. 这个镇上有一种强烈的社区意识。
+community spirit 团体精神 
+A supportive house for eight to ten older people, each with his or her own room, provides privacy and a sense of community. 一幢扶助性住宅可供8至10位老人居住，每个人都有自己单独的房间，在这里，他们既能独处，又有社区归属感。
+Two of our greatest strengths are diversity and community. 我们最大的两个优势是多样性和团体精神。
+
+n. [C] 常构成复合词，一块布（常用于某一特殊用途，尤用于清洁物品或盖桌子，即抹布，桌布）:
+n. [U] 用棉花、羊毛、丝绸等纺织（或编织）成的织物，布料:
+n. [sing.] [文学] the cloth可用于统称基督教的牧师（或神父）群体:
+cloth |[klɒθ]
+Wipe the table with a damp cloth. 用湿布擦桌子。
+dry cloth 干布 
+cleaning, polishing cloth 清洁布；上光布 
+dish cloth（通常用dishcloth）洗碗布 
+table cloth（通常用tablecloth）桌布
+cotton cloth 棉布料 
+cloth industry, cloth manufacturer, cloth merchant 布料行业；布料生产商；布料商人
+a man of the cloth 一位牧师
+
+adv. 在一段时间或一系列事件的最后（或最终）:
+eventually |[ɪ'ventʃʊəlɪ]
+Our flight eventually left five hours late. 我们的班机最终晚了五个小时起飞。
+
+If something appals you, it disgusts you because it seems so bad or unpleasant. 使厌恶
+appal |英 [ə'pɔːl]  美 [ə'pɔl]| vt. 使惊骇；惊吓/vi. 减弱；变得苍白；令人发腻/
+The new-found strength of local militancy appals many observers.新发现的地方军事行动战斗力让很多观察员厌恶。
+
+
+vt. 1 在一些事物中，把具有某些共同特征的事物划分到一个组里去（以此来将所有这些事物分类或归类）。是一个基础用词:
+2 classify sb/sth as sth 确定某人或某事物该属于哪个组别，如划定、界定:
+classify |['klæsɪfaɪ]
+The books in the library are classified according to subject. 图书馆的书按学科分类。
+Patients are classified into three categories. 病人被归为三种类型。
+Only five of these accidents were classified as major. 这些事故中只有五起被判定为重大事故。
+
+n. [C] 组织机构中的大型且重要的部门。不如department常用，但比section要常用一些:
+division (of sth) (into sth) 分开（或分隔、分配）的过称或结果:
+n. [U] 除或除法:
+division (between A and B)（尤指一个社会或组织的成员之间）在观点、生活方式等方面的差异、分歧或不和:
+n. [C] 在英国可指体育比赛（尤指足球比赛）所划分出的一个组别，即级:
+n. [C] 一种军队编制，相当于师:
+n. [C]（划分…的）边界线:
+n. [C] [术语]（英国议会的）分组表决（以投票支持或反对…）:
+division |[dɪ'vɪӡn][dɪ'vɪӡn]
+the bank’s Latin American division 该银行的拉丁美洲部 
+manufacturing, marketing, sales, training division 制造部；营销部；销售部；培训部 
+administrative division 行政部门 
+division director 部门主管
+cell division 细胞分裂 
+the division of labour between the sexes 男女分工 
+a fair division of time and resources 时间和资源的合理分配 
+the division of wealth 财富分配 
+the division of the population into age groups 把人口分成不同的年龄组 
+division into two states 分裂成两个国家 
+division between good and evil 划分善与恶 
+an unequal division of the cake 不均等的蛋糕切分 
+the traditional division of language into grammar and vocabulary 把语言分为语法和词汇的传统划分 
+hierarchical division between ‘workers’ and ‘management’ “工人”和“管理层”之间的等级划分 
+In selling there is a broad division into direct and indirect methods. 销售可大致分为直接销售和间接销售。 
+the division sign (÷) 除号 
+Can you do division? 你会做除法运算吗？
+division by three 用三除
+a deep division 严重分歧 
+factional divisions within the party 党内的派系分歧 
+divisions between rich and poor 贫富差异 
+class, cultural, gender, ideological, racial division 阶层差异；文化差异；性别差异；意识形态差异；种族差异 
+to heal divisions 弥合裂隙
+a first-division team 甲级队 
+lightweight division（拳击等运动中的）轻量级 
+division game（美）同级别的比赛 
+the senior division of the chess league 国际象棋联赛高级组比赛
+airborne, armoured/armored, infantry division 空降师；装甲师；步兵师 
+division commander 师长 
+division headquarters 师部
+A hedge forms the division between their land and ours. 他们的土地与我们的土地之间以一道树篱隔开。
+The Bill was read without a division. 议案未经分组表决就宣读通过了。
+
+n. [U] 人类（所有人，被作为一个大的整体）。是“人类”的一个常规用词:
+mankind |[͵mæn'kaɪnd]
+the history of mankind 人类的历史 
+an invention for the good of all mankind 造福全人类的一项发明 
+the evolution of mankind 人类的进化 
+the fate of mankind 人类的命运
+
+adj. 1 [常用于名词前] 独自做某事的:
+2（人、事物或地方）单独的，没有其他人或事物相伴的，如单个的、孤零零的:
+adj.（人或动物）独处的、独居的:
+n. [C] [正式] 独居者:
+adj. [常用于名词前]（尤用于否定句和疑问句）唯一的、仅有的:
+n. [U] [非正式] 单独监禁，单独禁闭，相当于solitary confinement:
+solitary |[ˈsɒlətri;美ˈsɑ:ləteri]
+She enjoys long solitary walks. 她喜欢独自长距离散步。
+His evenings were spent in solitary drinking. 他晚上的时间都是靠独自喝闷酒打发。
+the occasional solitary figure making a study of wildflowers or grasses. 偶尔出现的研究野花野草的孤单身影 
+A solitary light burned dimly in the hall. 大厅里点着一盏孤灯，发出昏暗的光。
+a solitary farm 一个孤零零的农场
+He was a solitary child. 他是一个孤僻的孩子。
+Paul was a shy, pleasant, solitary man. 保罗是一个羞怯、友善、惯于独处的男人。
+He led a solitary life. 他过着独居生活。
+Tigers are solitary animals. 虎是独居动物。
+There was not a solitary shred of evidence (= none at all). 一丁点证据都没有。
+Tom was in solitary across the way from me. 汤姆在我对面被单独监禁。
+
+method (for sth/for doing sth) 做某事所使用的一种方法。是一个基础且常规的用词，极为常用:
+n. [U] 计划（并组织）得很好的一种品质，即有条不紊、条理:
+method (for sth/for doing sth) 做某事所使用的一种方法。是一个基础且常规的用词，极为常用:
+method |['meθəd]
+a new method of solving the problem 一种解决问题的新方法 
+research, scientific, training, working methods 研究方法；科学方法；训练方法；工作方法 
+modern farming methods 现代耕种方法 
+analytical, experimental, mathematical, quantitative, statistical method 分析法；实验方法；数学方法；定量法；统计方法
+a new method of solving the problem 一种解决问题的新方法 
+research, scientific, training, working methods 研究方法；科学方法；训练方法；工作方法 
+modern farming methods 现代耕种方法 
+analytical, experimental, mathematical, quantitative, statistical method 分析法；实验方法；数学方法；定量法；统计方法
+
+n. [C]（重要或特殊事件的）周年纪念日:
+anniversary |[͵ænɪ'və:sərɪ]
+on the anniversary of his wife’s death 在他妻子去世的周年忌日 
+to celebrate your wedding anniversary 庆祝结婚纪念日
+
+vi. 在某处存在:
+vi. [正式] 发生:
+vi. 在某处出现:
+occur |[ə'kə:]
+Sugar occurs naturally in fruit. 水果天然含糖分。
+When exactly did the incident occur? 这一事件究竟是什么时候发生的？
+Something unexpected occurred. 发生了一件出乎意料的事。
+These chemical changes occur naturally. 这些化学变化是自然发生的。
+Opportunities for learning occur spontaneously every day. 学习的机会每天都会自然而然地出现。
+the problems that occur among people living together 合居者中出现的各种问题 
+A significant improvement occurred in patients given the drug. 服用该药的病人出现明显改善。
+
+vt. 1 support sb/sth (in sth)（通过言语或表示赞同等方式来）帮助或鼓励某人或某事，即支持，相当于back。是“支持”的常规用词，含义极为广泛，也极为常用:
+2（当某人需要的时候）给予（或准备给予）其帮助:
+n. 1 [U] support (for sth) 因赞同某人并希望其成功而对其所提供的鼓励和帮助，即支持:
+2 [U] 对处于困境或不悦境地的某人或某个群体所给予的同情和帮助（如给予生活费）:
+vt. 支撑某人或某事物（以防止其倒掉）:
+n. 1 [C] 支撑物（可防止某事物倒掉）:
+2 [U]（对某物的）牢固支撑（以防止其倒掉）:
+n. [C] 穿戴在身上，对受伤或脆弱的身体部位起固定作用的东西:
+vt. 提供一切必需品（尤指金钱）以使某人或某事物能够生活或存在，即养活，维持:
+vt.（计算机或计算机系统）支持（某一程序、语言、装置等），即可在该计算机上使用该程序、语言、装置等:
+vt. [英] 喜欢某一支运动队、观看其比赛等，即支持:
+n. [U] 流行音乐会上在主要演出者之前进行表演的一支乐队或一位歌手，即助演嘉宾:
+vt.（流行乐队或歌手在流行音乐会上）在主要演出者之前进行表演，即当助演，当演出嘉宾:
+n. [U]（公司向其客户提供的）技术支持（如电脑的技术支持）:
+vt. 通过给予金钱来帮助或鼓励某事，即资助，赞助，相当于sponsor。但support是一个基础的广义用词:
+vt. 为某事提供证据，帮助表明某事属实，相当于corroborate:
+n. [U] 证据，依据（可协助证实某事属实或正确）:
+support |[sə'pɔ:t]
+to support a proposal 支持一项提议 
+to support the president 拥护总统 
+to support the view 支持这个观点 
+These policies were widely supported in the country. 这些政策在该国受到广泛支持。
+an organization that supports people with AIDS 一个向艾滋病患者提供援助的组织 
+The company will support customers in Europe. 这家公司将向欧洲客户提供技术支持。
+Only a few people spoke in support of the proposal. 只有几个人表示支持这一提议。
+The candidate enjoys the firm support of local industry. 候选人受到当地产业界的坚定支持。
+Democratic support 民主党的支持 
+parental support 父母的支持 
+emotional, moral support 感情上的支持；道义上的支持 
+Her family and friends have given her lots of support. 家人和朋友给了她许多帮助。
+child, family, social support 子女抚养费；家庭赡养费；社会资助 
+income support（英）低收入补助金 
+She has no visible means of support. 她没有明确的生计来源。
+organizations that provide support and advice to small businesses 为小型企业提供帮助和建议的机构 
+international support 国际援助 
+financial support 财务资助 
+political, technical support 政治支持；技术支持 
+government support 政府支持 
+air, intelligence support 空中支援；情报支援 
+He’s on life support at the moment. 目前他正靠医疗设备维持着生命。
+a platform supported by concrete pillars 混凝土支柱支撑的平台 
+Support the baby’s head when you hold it. 你抱婴儿时要把头扶好。
+The supports under the bridge were starting to bend. 桥下的支柱开始弯曲。
+roof support 房顶支柱 
+When my father died, Jim was a real support.（比喻用法）我父亲死后，吉姆成了真正的顶梁柱。
+I wrapped a bandage around my ankle to give it some support. 我在脚踝上缠上绷带，好把它固定住。
+He held onto his wife for support as he left the hospital. 他在妻子的搀扶下离开了医院。
+The piece of wood under the mattress is to give my back extra support. 床垫下的木板会使我的背部得到额外的支撑。
+support beam, support structure 支撑梁；支撑结构
+knee support 护膝 
+back support 护背
+Mark has two children to support from his first marriage. 马克得扶养他第一次婚姻生的两个孩子。
+He turned to crime to support his drug habit. 他为维持吸毒的恶习而走上犯罪的道路。
+The atmosphere of Mars could not support life. 生命无法在火星的大气环境下生存。
+This digital audio player supports multiple formats. 这台数字音频播放器支持多种格式。
+Which team do you support? 你喜欢哪个队？
+The support (act) has yet to be confirmed. 助演尚未确定。
+They were supported by a local Liverpool band. 利物浦当地的一支乐队为他们作助兴演出。
+customer, tech support 客户服务（部）；技术支持（部）
+We offer free technical support. 我们免费提供技术支持。
+to support the project 对该项目提供资助 
+financially support 财务上支持 
+Her parents supported her all through college. 她的父母供她上完了大学。
+The witness’s story was not supported by the evidence. 目击者的描述与证据不符。
+The sample adequately supports this conclusion. 样本充分证实了这一结论。
+These results indirectly support the hypothesis. 这些结果间接证明了这一假设。
+Research has generally supported these predictions. 调查研究普遍支持这些预测。
+Our results clearly support this view. 我们得到的结果明确支持这个观点。
+The statistics offer further support for our theory. 这些统计数字为我们的理论提供了进一步的依据。
+
+n. 1 [U] 费用，价钱。词义与cost差不多，但expense是一种正式用法，且更强调花钱的痛苦性:
+2 [C] 复数形式expenses可表示为某个目的的开支:
+3 [C] 复数形式expenses可表示由雇主报销的费用或开支:
+n. [C] 常用单数，让你花钱的东西:
+expense |[ɪk'spens]
+at great expense 花了一大笔费用 
+additional expense 额外花费 
+monthly housing expense 每月的住房开销 
+personal expense 个人花费 
+to travel at the taxpayer’s expense 花纳税人的钱去旅行 
+No expense was spared. 花多少钱都在所不惜。
+The project is well worth the expense. 这项工程花的钱很值。
+The bridge was built at public expense. 这座桥是政府出资修建的。
+personal, living, household expenses 个人开支；生活开销；家庭开支 
+administrative, maintenance, operating, operational（均尤美）expenses 管理开销；维护花费；运营费用 
+business expenses 因公支出 
+travel expenses 差旅费 
+childcare, legal, medical expenses 孩子照管费用；律师费；医疗费 
+funeral expenses 丧葬费 
+incidental expenses 杂费 
+ongoing expenses 经常性开支 
+a fund with low expenses 低成本资金 
+deductible expenses 可抵扣的费用 
+capital expenses 资本支出 
+depreciation, interest（均尤美）expenses 折旧费用；利息支出 
+to take a client out for a meal on expenses（英）用业务费请客户外出就餐 
+an all-expenses-paid trip 费用全数报销的旅行 
+expenses claim（尤英）费用申请
+Running a car is a big expense. 养一辆车开销很大。
+
+If something approximates something else, it is similar to it but is not exactly the same. 近似于
+An idea or description that is approximate is not intended to be precise or accurate, but to give some indication of what something is like. 大概的 (观点或描述等)
+approximately 大概地
+An approximate number, time, or position is close to the correct number, time, or position, but is not exact. 大概的 (数字、时间或方位等)
+approximate |英 [ə'prɒksɪmət]  美 [ə'prɑksɪmət]| vt. 近似；使…接近；粗略估计/vi. 接近于；近似于/adj. [数] 近似的；大概的/
+The mixture described below will approximate it, but is not exactly the same.下面所描述的混合物会与之近似，但不完全一样。
+They did not have even an approximate idea what the Germans really wanted.他们对于德国人真正想要什么甚至没有一个大致概念。
+Approximately $150 million is to be spent on improvements.大概1.5亿美元将花在改进上。
+The approximate cost varies from around $150 to $250.大致的费用在$150至$250之间不等。
+
+
+adj. beneficial (to sth/sb) 对于改善一种情况有利的，有益的，有帮助的，有用的，相当于advantageous或favourable:
+beneficial |[͵benɪ'fɪʃl]
+A good diet is beneficial to health. 良好的饮食有益于健康。
+The arrangement was mutually beneficial. 这种安排对彼此都有利。
+economically, environmentally, socially beneficial 对经济有益；对环境有益；对社会有益 
+I think it would be beneficial for each committee member to have a copy. 我认为委员会成员人手一份比较好。
+
+n. 1 [U] 某人因自己的坏行为而失掉别人的尊重，如羞耻、丢脸:
+2 [sing.] a ~ (to sb/sth) 令人感到羞耻的人（或事）:
+vt. 自己的坏行为使自己或别人丢脸（或蒙羞）:
+vt. be disgraced 使名誉扫地（通常失去权位）:
+disgrace |[dɪsˈgreɪs]
+Her behaviour has brought disgrace on her family. 她的行为使家人蒙羞。
+She has brought disgrace upon womankind. 她的行为让女性蒙羞。
+His crime had brought disgrace upon his whole family.他的罪行使整个家庭蒙羞。
+The swimmer was sent home from the Olympics in disgrace. 这位游泳运动员很不光彩地从奥运会上被遣送回国。
+His vice president also had to resign in disgrace. 他的副总统也被迫不光彩地辞去职务。
+Sam was in disgrace with his parents. 萨姆已失宠于他的父母。
+Their father fell into disgrace and lost his business. 他们的父亲名誉扫地，丢了生意。
+He's in disgrace for having left his room in a mess. 他房间里乱七八精、真是丢脸。
+There's no disgrace in being poor. 贫穷并不是什么丢脸的事情。
+Republican leaders called him a disgrace to the party. 共和党领导人称他是全党的耻辱。
+Your homework is an absolute disgrace. 你做的作业太丢人了。
+The way the sales were handled was a complete disgrace. 这种销售手段为人所不齿。
+The national airline is a disgrace. 国家航空公司真可耻。
+That sort of behaviour is a disgrace to the legal profession. 这种行为是法律界的耻辱。
+public disgrace 公众的耻辱 
+The state of our roads is a national disgrace. 我们的道路状况是国家的耻辱。
+The filthy streets are a disgrace to the town. 肮脏的街道简直是给小镇丢脸。
+It's a disgrace that (= it is very wrong that) they are paid so little. 他们的报酬如此微薄，太不像话了。
+What went on was a scandal. It was a disgrace to Britain. 发生的一切是个丑闻，是给英国抹黑。
+This room is an absolute disgrace (= because it is very dirty/untidy). 这个房间真丢人!
+I disgraced myself by drinking far too much. 我喝酒过多出了洋相。
+I've disgraced myself by the actions I've taken. 我的行为让我颜面尽失。
+He had disgraced the family name. 他玷污了家族的名声。
+He was publicly disgraced and sent into exile. 他被当众贬谪，放逐异乡。
+disgraced politician, disgraced leader 失势的从政者；失势的领导人
+
+n. [C, U] ~ (for sth) 认为某种工作或生活方式特别适合自己的一种信念:
+n. 1 [C] 某人认为特别适合自己的一种工作、职业或生活方式:
+2 [C, U] ~ (for sth) 认为某种工作或生活方式特别适合自己的一种信念:
+n. [C, U] 认为自己是被神选中的一个牧师或修女的一种信念，可称为圣召、神召:
+vocation |[vəʊˈkeɪʃn;美voʊ-]
+He has a vocation for teaching. 他是教书的材料。
+She seems to have a vocation for healing. 看来她具备治病救人的才能。
+She is a doctor with a strong sense of vocation. 她是一位具有强烈使命感的医生。
+This is a job that demands a sense of vocation. 这是一份需要具备使命感的工作。
+Nursing is not just a job─it's a vocation. 护理不仅仅是一项工作，而且还是一种职业。
+She struggled for years to find her true vocation. 她多年来苦苦寻找真正适合自己的职业。
+She believes that she has found her true vocation in life. 她相信自己找到了真正适合自己的职业。
+He is desperate to pursue his vocation as an artist. 他不顾一切地追求艺术事业。
+You missed your vocation─you should have been an actor. 你干错行了，你本该当演员。
+She feels that she missed her vocation by not working with children.（英）她觉得自己没有从事跟小孩子打交道的职业是入错了行。
+Her vocation is her work as an actress. 她的职业就是当演员。
+She has no vocation for teaching. 她不是当老师的料。
+Diana was a young mission school teacher convinced of her vocation to provide support for her schoolgirl pupils. 黛安娜是教会学校的一名年轻老师，她深信帮助学校的女学生是其天职。
+He has a vocation for teaching. 他是教书的材料。
+She seems to have a vocation for healing. 看来她具备治病救人的才能。
+She is a doctor with a strong sense of vocation. 她是一位具有强烈使命感的医生。
+This is a job that demands a sense of vocation. 这是一份需要具备使命感的工作。
+a vocation to the priesthood 司铎圣召
+
+
+used to emphasize the speaker's belief that what is said is true:用于强调说话者相信所说的是真的
+used to indicate that a statement is made as a concession or contrasted with another:
+used to express complete agreement with something that has just been said:
+certainly |ˈsəːt(ɪ)nli| Adverb/:当然,一定,肯定的
+the prestigious address certainly adds to the firm's appeal:著名的地址无疑增加了公司的吸引力
+our current revenues are certainly lower than anticipated:我们目前的收入肯定低于预期
+‘A good idea,’ she agreed. ‘Certainly!’:“一个好主意，”她同意了。
+
+adj. 级别上最高的，即总管的，首席的:
+adj. 1 指未限定在一个人或事物的一个部分或一个方面的，即整体的，全身的，全面的:
+2（条目、项目或活动）多种的，或不重要以致没必要被各自提及的:
+adj. 通常的，一般的，常作前置定语:
+adj. 在数量上涉及（或影响）到全部（或大多数）人、地方、事物的，即普遍的:
+n. [C] 将军:
+adj. 1 大体的，笼统的，概括性的，即只包括最重要的部分，而不包括细枝末节的，相当于overall:
+2（方向或地区）大致的:
+3 指未限定在某一学科、用途或活动的，即非专门的，综合的:
+general |['dӡenərəl]
+the general manager 总经理 
+the Inspector General of Police 警察总监
+a general anaesthetic 全身麻醉 
+The building was in a general state of disrepair. 整座建筑处于失修状态。
+general costs 总的花费
+As a general rule (= usually) he did what he could to be helpful. 一般情况下他都尽力给予帮助。
+The general opinion is that the conference was a success. 普遍认为这次会议是成功的。
+general belief, general consensus 普遍的信念；普遍的共识 
+books of general interest (= of interest to most people) 普遍感兴趣的书籍 
+The bad weather has been fairly general (= has affected most areas). 坏天气影响到的范围相当大。
+four-star general 四星上将 
+General Tom Parker 汤姆·帕克将军
+a general idea 大体的想法 
+I know how it works in general terms. 我大致知道其中的运作原理。
+a general description 大致的描述 
+They fired in the general direction of the enemy. 他们向敌军所在的大致方向开了枪。
+the general area 大致区域 
+a general hospital 综合医院 
+general education 普通教育 
+We shall at this stage keep the discussion fairly general. 我们在此阶段应保持相当广泛的讨论。
+
+n. [C]（如用塑料、铁丝、柳条等编织成的）篮，篓，筐（用于盛放或搬运…）:
+n. [C] 一篮（或一篓、一筐）的量:
+n. [C] 投篮所得到的一分:
+n. [C]（篮球运动中的）球篮:
+n. [C] 经济学中可指一些（不同的货物或货币）:
+basket |['bɑːskɪt]
+bamboo, wire basket 竹篮；铁丝筐 
+fruit, shopping basket 水果篮；购物筐 
+waste basket（美）废纸篓 
+bicycle basket 自行车筐 
+flower basket 花篮
+a basket of fruit 一筐水果
+to make, to score basket 投篮得分
+to shoot basket 投篮 
+to sink basket 投球入篮
+the value of the rupee against a basket of currencies 卢比对各种货币的比值
+
+adj. [正式] 常用于名词前，通常的、惯常的，相当于habitual:
+adj. accustomed to sth/to doing sth 对某事物熟悉的并认为其是平常的，即习惯于，相当于used to:
+accustomed |[ə'kʌstəmd]
+his accustomed seat 他常坐的座位
+My eyes slowly grew accustomed to the dark. 我的眼睛慢慢适应了黑暗。
+She was a person accustomed to having eight hours’ sleep a night. 她是那种习惯每晚睡八个小时的人。
+He was well accustomed to hard work. 他早已习惯了艰苦的工作。
+
+adj. [只用于名词前] 由不同部分组成的；由不同材料制成的:
+n. [C] 由不同部分组成的事物；由不同材料制成的事物:
+n. [C] [美] 相当于Identikit，即艾登蒂基特容貌拼图（根据目击者描述拼制出人的面部像，尤指警方要捉拿的人）:
+composite |[ˈkɒmpəzɪt;美kəmˈpɑ:zət]
+a composite picture (= one made from several pictures) 拼图 
+Galton devised a method of creating composite pictures in which the features of different faces were superimposed over one another. 高尔顿发明了一种把不同人的五官相互叠加在一起的制作合成照片的方法。
+Through interviews and old photos we put together a composite picture of life in the village a hundred years ago. 通过采访和获得的老照片，我们拼出了一副一百年前该村庄的生活图画。
+The document was a composite of information from various sources. 这份文件是不同来源信息的综合。
+
+vt.&vi. ~ sb (by doing sth) | ~ sb (with sth) 根据某人的要求（或根据自己对某人的动机的知晓）来帮忙:
+vt. [常用被动式]（法律、规定或形势）迫使某人去做某事:
+oblige |[əˈblaɪdʒ]
+Call me if you need any help─I'd be happy to oblige. 若有需要，尽管给我打电话。我很乐意帮忙。
+The staff are always willing to oblige. 员工们总是有求必应。
+Will you oblige by filling in this form? 劳驾您填一下这张表格好吗？
+Would you oblige me with some information? 拜托您给我提供些信息好吗？
+He obliged with very straightforward answers. 他坦率地给予了答复。
+duly oblige（英）一如期待地效劳 
+The fans were looking for another goal and Owen duly obliged (= scored). 正当球迷们期待再入一球时，欧文不负众望射门得分。
+Parents are obliged by law to send their children to school. 法律规定父母必须送子女入学。
+I felt obliged to ask them to dinner. 我不得不请他们吃饭。
+He suffered a serious injury that obliged him to give up work. 他受伤严重，不得已只好放弃工作。
+
+n. [C] [术语] 测量仪器的放大率、放大倍数:
+n. [C] 直径:
+diameter |[daɪˈæmɪtə(r)]
+a lens magnifying 300 diameters (= making sth look 300 times larger than it really is) 放大300倍的透镜
+the diameter of a tree trunk 树干的直径 
+a tube less than a fifth of the diameter of a human hair 直径不足人的头发直径五分之一的电子管 
+a length of 22-mm diameter steel pipe 一段直径为 22 毫米的钢管 
+The mirror is ten inches in diameter. 镜子的直径是10英寸。
+The dome is 42.3 meters in diameter. 这个穹顶直径为42.3米。
+inner, inside, internal diameter 内径 
+The tubes have an internal diameter of 2 mm. 管子的内径是2毫米 
+external, outer, outside diameter 外径 
+a method of calculating the diameter of the earth 计算地球直径的一种方法

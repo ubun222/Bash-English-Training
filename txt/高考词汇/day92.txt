@@ -38,7 +38,7 @@ chain									链条，一系列
 \\\\
 
 seek to lessen the blame attaching to (a fault or offence), try to justify:寻求减轻对（过错或冒犯）的指责，尝试为自己辩护
-forgive (someone) for a fault or offence:forgive（某人）的过错或冒犯
+forgive (someone) for a fault or offence:原谅（某人）的错误或冒犯
 overlook or make allowances for:忽略或考虑
 (of a fact) serve to mitigate (a person or act):(ofafact)减轻（某人或行为）的影响
 release (someone) from a duty or requirement:释放（某人）的职责或要求
@@ -46,7 +46,7 @@ release (someone) from a duty or requirement:释放（某人）的职责或要�
 say politely that one is leaving:礼貌地说某人要走了
 (used by school pupils) be allowed to leave the room, especially to go to the toilet:（小学生使用）被允许离开房间，尤其是上厕所
 a reason or explanation given to justify a fault or offence:为过失或冒犯辩护的理由或解释
-a reason put forward to conceal the real reason for an action, a pretext:areason提出来掩盖一个行动的真正原因，一个借口
+a reason put forward to conceal the real reason for an action, a pretext:为隐瞒行动的真正原因而提出的理由，借口
 a note written by a doctor or parent excusing a pupil from school.:医生或家长为学生免学而写的便条。
 a poor or inadequate example of:一个糟糕或不充分的例子
 excuse |ɪkˈskjuːz| Noun/Verb/:借口,辩解,原谅
@@ -86,21 +86,21 @@ a flash of forked lightning.:一道分叉的闪电。
 a simultaneous attack on two or more pieces by one.:一个同时攻击两个或多个棋子。
 (especially of a route) divide into two parts:（尤其是路线的）分为两部分
 take or constitute one route or the other at the point where a route divides:
-split (a process) into two or more independent processes:split（一个进程）分成两个或多个独立进程
+split (a process) into two or more independent processes:将（一个进程）拆分成两个或多个独立的进程
 dig or move (something) with a fork:dig或用叉子移动（某物）
-attack (two pieces) simultaneously with one:attack（两件）同时与一件
+attack (two pieces) simultaneously with one:与一个同时攻击（两个）
 fork |fɔːk| Noun/Verb/:叉子,叉,叉起,分叉
 a hot fork buffet:a热叉自助餐
 turn right at the next fork:在下一个岔路口右转
 the left fork goes on to the village:左叉继续往村里走
 the place where the road forks:岔路口的地方
-we forked north-west for Rannoch:we为Rannoch向西北分叉
+we forked north-west for Rannoch:我们向西北方向分叉前往兰诺赫
 the attack can only work against a server that forks separate processes to handle client requests:该攻击只能针对分叉不同进程来处理客户端请求的服务器
-fork in some compost:fork在一些堆肥中
+fork in some compost:叉一些堆肥
 he has forked my bishop and knight:他分叉了我的主教和骑士
 
 give a polite word of recognition or sign of welcome when meeting (someone):与（某人）见面时礼貌地表示认可或表示欢迎
-receive or acknowledge (something) in a specified way:receive或以指定方式确认（某事）
+receive or acknowledge (something) in a specified way:以特定方式接收或确认（某物）
 (especially of a sight or sound) become apparent to (a person arriving somewhere):（尤指景象或声音）对（到达某处的人）变得明显
 weep, cry:哭泣，哭泣
 greet |ɡriːt| Verb/:迎接,打招呼,问候
@@ -110,7 +110,7 @@ Sam threw open the door and was greeted by a cacophony of noise:Sam推开门，�
 he sat down on the armchair and started to greet:他坐在扶手椅上开始打招呼
 
 address a prayer to God or another deity:向上帝或其他神灵祈祷
-wish or hope strongly for a particular outcome or situation:wish或强烈希望特定的结果或情况
+wish or hope strongly for a particular outcome or situation:强烈希望或希望特定的结果或情况
 used as a preface to polite requests or instructions:用作礼貌请求或指示的前言
 used as a way of adding ironic or sarcastic emphasis to a question:用作向问题添加讽刺或讽刺强调的方式
 pray |preɪ| Adverb/Verb/:祈祷,祈求,祷告
@@ -127,7 +127,7 @@ brown colour or pigment:棕色或颜料
 brown clothes or material:棕色衣服或材料
 a brown thing, in particular the brown ball in snooker.:一个棕色的东西，尤其是斯诺克的棕色球。
 a satyrid butterfly, which typically has brown wings with small eyespots.:a色狼蝴蝶，通常有棕色的翅膀和小眼点。
-make or become brown, typically by cooking:makeorbecomebrown,通常通过烹饪
+make or become brown, typically by cooking:使或变成棕色，通常是通过烹饪
 brown |braʊn| Adjective/Noun/Verb/:棕色的,棕色,变成棕色,褐色,布朗
 an old brown coat:一件旧棕色外套
 a slice of brown toast with low fat spread:一片低脂吐司
@@ -182,9 +182,9 @@ a £3.40 minimum hourly rate of pay:a£3.40最低时薪
 you'll find our current interest rate very competitive:您会发现我们目前的利率非常有竞争力
 they were asked to rate their ability at different driving manoeuvres:他们被要求评估他们在不同驾驶动作中的能力
 the average life of the new bulb is rated at approximately 500 hours:新灯泡的平均寿命约为500小时
-Atkinson rates him as Europe's top defender:Atkinson将他评为欧洲顶级后卫
-Jeff still rates as one of the nicest people I have ever met:Jeff仍然是我见过的最好的人之一
-Mike certainly rated her, goodness knows why:Mike肯定评价过她，天知道为什么
+Atkinson rates him as Europe's top defender:阿特金森将他评为欧洲顶级后卫
+Jeff still rates as one of the nicest people I have ever met:杰夫仍然被评为我见过的最好的人之一
+Mike certainly rated her, goodness knows why:迈克肯定给她打分了，天知道为什么
 the ambassador rated a bulletproof car and a police escort:大使评价防弹车和警察护送
 he rated the young man soundly for his want of respect:他对这个年轻人的评价很高，因为他缺乏尊重
 
@@ -219,32 +219,32 @@ the system | 系统,制度
 
 
 describe or draw attention to (a product, service, or event) in a public medium in order to promote sales or attendance:在公共媒体上描述或引起对（产品、服务或事件）的关注，以促进销售或出席
-publicize information about (a vacancy):publicize关于（空缺）的信息
+publicize information about (a vacancy):公布有关（职位空缺）的信息
 make (a quality or fact) known:使（品质或事实）为人所知
 notify (someone) of something:通知（某人）某事
 advertise |ˈadvətʌɪz| Verb/:广告,做广告,刊登广告
 a billboard advertising beer:a广告牌广告啤酒
 for every job we advertise we get a hundred applicants:对于我们宣传的每项工作，我们都会收到一百个申请人
-Meryl coughed briefly to advertise her presence:Meryl短暂咳嗽以宣传她的存在
+Meryl coughed briefly to advertise her presence:梅丽尔短暂地咳嗽了一下，以表明她的存在
 some prisoners advertised the French of this terrible danger:一些囚犯向法国人宣传这种可怕的危险
 
 a solid material which is typically hard, shiny, malleable, fusible, and ductile, with good electrical and thermal conductivity (e.g. iron, gold, silver, and aluminium, and alloys such as steel):一种固体材料，通常坚硬、有光泽、有延展性、易熔和延展性，具有良好的导电性和导热性（例如铁、金、银和铝，以及钢等合金）
 the steel tracks of a railway:铁路的钢轨
-gold and silver (as tinctures in blazoning).:gold和silver（作为燃烧的酊剂）。
+gold and silver (as tinctures in blazoning).:黄金和白银（作为装饰中的酊剂）。
 broken stone for use in making roads:用于修路的碎石
 molten glass before it is blown or cast.:熔融玻璃在吹制或浇铸前。
 heavy metal or similar rock music:重金属或类似摇滚音乐
 make or mend (a road) with road metal:
 metal |ˈmɛtl| Noun/Verb/:金属,金属材质
 an adjustable pole made of metal:可调节的金属杆
-the locomotive is presently being made ready for operation over Network SouthEast metals:thelocomotive目前正准备在NetworkSouthEastmetal上运行
+the locomotive is presently being made ready for operation over Network SouthEast metals:该机车目前正准备在网络东南金属上运行
 the work also involves dealing with rock aggregates for potential use as suitable road metal:这项工作还涉及处理可能用作合适道路金属的岩石骨料
 industrial music is a blend of metal and techno:工业音乐融合了金属和技术
 several miles of the old road had been metalled with crushed stone:几英里的老路被碎石覆盖
 
 stop feeling angry or resentful towards (someone) for an offence, flaw, or mistake:停止对（某人）的冒犯、缺陷或错误感到愤怒或怨恨
 no longer feel angry about or wish to punish (an offence, flaw, or mistake):不再对惩罚（罪行、缺陷或错误）感到愤怒或希望惩罚
-cancel (a debt):cancel（债务）
+cancel (a debt):取消（债务）
 used in polite expressions as a request to excuse one's foibles, ignorance, or impoliteness:用于礼貌的表达，请求原谅自己的弱点、无知或不礼貌
 forgive |fəˈɡeɪv| Verb/:,宥,宽恕
 I'll never forgive David for the way he treated her:我永远不会原谅大卫对待她的方式
@@ -266,7 +266,7 @@ used ironically to express the belief that something is unlikely or does not exi
 make or become fat:变胖或变胖
 fat |fat| Adjective/Noun/Verb/:胖的,脂肪,胖子
 whales and seals insulate themselves with layers of fat:鲸鱼和海豹用脂肪层隔离自己
-sizzling fat:sizzlingfat
+sizzling fat:铁板肥肉
 he was a tall man, running to fat:他是个高个子，快要胖了
 some 40 per cent of our daily calories are derived from dietary fats:大约40%的每日卡路里来自膳食脂肪
 the driver was a fat wheezing man:司机是个气喘吁吁的胖子
@@ -306,7 +306,7 @@ a group of things or people:一群事物或人
 a group of accumulated items of a particular kind:一组特定种类的累积物品
 a book or recording containing various texts, poems, songs, etc.:包含各种文本、诗歌、歌曲等的书籍或录音。
 a range of new clothes produced by a fashion house:时装屋生产的一系列新衣服
-college examinations held at the beginning or end of a term, especially at Oxford University.:college考试在学期开始或结束时举行，尤其是在牛津大学。
+college examinations held at the beginning or end of a term, especially at Oxford University.:在学期开始或结束时举行的大学考试，尤其是在牛津大学。
 collection |kəˈlɛkʃn| Noun/:收藏,采集,集合,收藏品
 the collection of data:数据的收集
 withdrawal of the Sunday collections:withdrawal周日收藏
@@ -340,14 +340,14 @@ interesting because full of variety:有趣，因为种类繁多
 rich |rɪtʃ| Adjective/:富有的,丰富,富,有钱人
 a rich and famous family:豪门世家
 rich countries can afford to spend money on the environment:富国有能力为环境花钱
-rich mahogany furniture:rich红木家具
+rich mahogany furniture:丰富的红木家具
 not all footballers enjoy rich rewards from the game:并非所有足球运动员都能从比赛中获得丰厚的回报
 the rich flora and fauna of the forest:森林丰富的动植物
 many vegetables and fruits are rich in vitamins:许多蔬菜和水果富含维生素
-dishes with wonderfully rich sauces:dishes配上非常浓郁的酱汁
+dishes with wonderfully rich sauces:配上浓郁酱汁的菜肴
 a rich and hoppy best bitter:a浓郁的酒花最好的苦味
 crank the engine until it fires and return the mixture to ‘rich’:曲轴发动机直到它点火并将混合物恢复到“浓”
-novels have always been a rich source of material for the film industry:novels一直是电影行业的丰富素材来源
+novels have always been a rich source of material for the film industry:小说一直是电影业丰富的素材来源
 the city is surrounded by rich agricultural land:城市周围环绕着肥沃的农田
 one of the richest phosphate mines in the West:西方最富有的磷矿之一
 his rich bass voice:他丰富的低音
@@ -357,19 +357,18 @@ these comments are a bit rich coming from a woman with no money worries:这些�
 material wealth:物质财富
 valuable or abundant resources:宝贵或丰富的资源
 riches |ˈrɪtʃɪz| Noun/:富有,财富
-riches beyond their wildest dreams:riches超越他们最疯狂的梦想
+riches beyond their wildest dreams:超出他们最疯狂梦想的财富
 the riches of the world's waters:世界水域的财富
 
 clothing worn under other clothes, typically next to the skin.:clothing穿在其他衣服下面，通常紧贴皮肤。
 underwear |ˈʌndəwɛː| Noun/:,内裤
-:
 
 (of a person or animal) have severe difficulty in breathing because of a constricted or obstructed throat or a lack of air:（人或动物）由于喉咙收缩或阻塞或空气不足而严重呼吸困难
 cause (a person or animal) to choke:导致（人或动物）窒息
 prevent (a plant) from growing by depriving it of light, air, or nourishment:通过剥夺光、空气或营养来阻止（植物）生长
 prevent or inhibit the occurrence or development of:防止或抑制的发生或发展
 (in sports) fail to perform at a crucial point of a game or contest as a result of nervousness:（运动中）由于紧张而未能在比赛或比赛的关键时刻表现出色
-fill (a space) so as to make movement difficult or impossible:fill（一个空格）使移动变得困难或不可能
+fill (a space) so as to make movement difficult or impossible:填满（空间）使移动困难或不可能
 make (someone) speechless with a strong feeling or emotion:使（某人）因强烈的感觉或情绪而无言以对
 enrich the fuel mixture in (a petrol engine) by reducing the intake of air:通过减少空气的摄入来丰富（汽油发动机）中的燃料混合物
 a valve in the carburettor of a petrol engine that is used to reduce the amount of air in the fuel mixture when the engine is started:汽油发动机化油器中的阀门，用于在发动机启动时减少燃料混合物中的空气量
@@ -379,16 +378,16 @@ an inductance coil used to smooth the variations of an alternating current or to
 a sound produced by a person or animal having difficulty in breathing:由呼吸困难的人或动物发出的声音
 the inedible mass of silky fibres at the centre of a globe artichoke.:洋蓟中心不可食用的丝质纤维团。
 choke |tʃəʊk| Noun/Verb/:呛,窒息
-Willie choked on a mouthful of tea:Willie被一口茶噎住了
+Willie choked on a mouthful of tea:威利被一口茶噎住了
 the toys contained parts that could choke a very young child:玩具中的部件可能会窒息年幼的孩子
 the bracken will choke the wild gladiolus:蕨菜会窒息野生唐菖蒲
-piracy will choke the creation and distribution of music:piracy将扼杀音乐的创作和发行
+piracy will choke the creation and distribution of music:盗版将扼杀音乐的创作和发行
 we were the only team not to choke when it came to the crunch:we是唯一一个在关键时刻没有窒息的团队
 the roads were choked with traffic:道路交通堵塞
 he was choked with fury:他被愤怒呛住了
 carbon monoxide results during a cold start, when an engine is choked:一氧化碳在冷启动期间产生，当发动机阻塞时
 an automatic choke:一个自动扼流圈
-he pulled the choke out to its full extent:he将扼流圈拉到最大程度
+he pulled the choke out to its full extent:他将扼流圈拉到最大程度
 many guns may not have the right choke:许多枪可能没有合适的扼流圈
 a little choke of laughter:有点哽咽的笑声
 
@@ -411,7 +410,7 @@ used in names of plants that resemble the elder in leaf or flower, e.g. ground e
 elder |ˈɛldə| Adjective/Noun/:长老,长者,长辈
 my elder daughter:我的大女儿
 Pliny the Elder:老普林尼
-schoolchildren were no less fascinated than their elders:schoolchildren的着迷程度不亚于他们的长辈
+schoolchildren were no less fascinated than their elders:学童们对他们的长辈同样着迷
 she was two years his elder:她比他大两岁
 a council of village elders:村长理事会
 he left the Church of which he had been an elder:
@@ -526,21 +525,21 @@ a connected series of mountains:一连串的山脉
 a group of hotels, restaurants, or shops owned by the same company:同一家公司拥有的一组酒店、餐厅或商店
 a situation in which the sale of a house or flat is dependent on the prospective buyer selling their own or the seller buying another first:a房屋或公寓的销售取决于潜在买家出售自己的房屋或卖家先购买另一套房屋或公寓的情况
 a part of a molecule consisting of a number of atoms bonded together in a linear sequence.:分子的一部分，由以线性顺序结合在一起的许多原子组成。
-a figure in a quadrille or similar dance, in which dancers meet and pass each other in a continuous sequence.:quadrille或类似舞蹈中的人物，其中舞者以连续的顺序相遇并相互传递。
+a figure in a quadrille or similar dance, in which dancers meet and pass each other in a continuous sequence.:quadrille 或类似舞蹈中的一个人物，其中舞者以连续的顺序相遇并相互通过。
 a jointed measuring line consisting of linked metal rods.:a由连接的金属棒组成的连接测量线。
 a measure of length equivalent to a chain (66 ft).:相当于链条（66英尺）的长度。
 a structure of planks projecting horizontally from a sailing ship's sides abreast of the masts, used to widen the basis for the shrouds.:一种木板结构，从与桅杆并排的帆船两侧水平突出，用于加宽护罩的基础。
-fasten or secure with a chain:fasten或用链条固定
-confine with a chain:confine与链
+fasten or secure with a chain:用链条固定或固定
+confine with a chain:用链条限制
 chain |tʃeɪn| Noun/Verb/:链,用链子拴住,连锁,链条
 he slid the bolts on the front door and put the safety chain across:他滑动前门上的螺栓并将安全链穿过
 a tall man with a heavy gold chain round his neck:一个脖子上挂着沉重金链子的高个子男人
-workers secured by the chains of the labour market:workers受劳动力市场链的保护
+workers secured by the chains of the labour market:受劳动力市场链条保护的工人
 he kept the chain of buckets supplied with water:他保持着水桶的供应
 the action would initiate a chain of events:该动作将引发一系列事件
 a mountain chain:a山链
 the agency is part of a nationwide chain:该机构是全国连锁店的一部分
-our offer was accepted this morning and there's no chain:我们的offer今天早上被接受了，没有连锁
+our offer was accepted this morning and there's no chain:今天早上我们的报价被接受了，没有连锁店
 she chained her bicycle to the railings:她把自行车拴在栏杆上
 he had been chained up:他被锁起来了
 

@@ -77,7 +77,7 @@ he had a little accident, but I washed his shorts out:他出了点小意外，�
 the pregnancy was an accident:怀孕是个意外
 members belong to the House of Lords through hereditary right or accident of birth:成员通过世袭权或出生意外属于上议院
 
-right or appropriate for a particular person, purpose, or situation:right或适合特定的人、目的或情况
+right or appropriate for a particular person, purpose, or situation:适合特定的人、目的或情况
 suitable |ˈsuːtəbl| Adjective/:合适的,适当,适合
 these toys are not suitable for children under five:这些玩具不适合五岁以下的儿童
 
@@ -88,17 +88,17 @@ a jockey:骑师
 a guide or leader.:一个向导或领导者。
 a television or radio programme made to test audience reaction with a view to the production of a series:为测试观众反应而制作的电视或广播节目，以制作系列节目
 an unmodulated reference signal transmitted with another signal for the purposes of control or synchronization.:为了控制或同步的目的，与另一个信号一起传输的未调制参考信号。
-done as an experiment or test before being introduced more widely:done在被更广泛地介绍之前作为实验或测试
+done as an experiment or test before being introduced more widely:在更广泛地引入之前作为实验或测试完成
 be the pilot of (an aircraft or ship):成为（飞机或船舶）的飞行员
-guide or steer:guide或steer
-test (a scheme, project, etc.) before introducing it more widely:test（一个方案、项目等）在更广泛地介绍之前
+guide or steer:引导或操纵
+test (a scheme, project, etc.) before introducing it more widely:在更广泛地介绍之前测试（方案、项目等）
 pilot |ˈpʌɪlət| Adjective/Noun/Verb/:飞行员,试行,试验性的,驾驶,试点
 a strike by local airline pilots:当地航空公司飞行员罢工
-many expected him to get the job as Desert Orchid's pilot:many希望他能得到沙漠兰花飞行员的工作
-he returns to our TV screens in a pilot for a Channel 4 sitcom:he在第4频道情景喜剧的试播节目中回到我们的电视屏幕
+many expected him to get the job as Desert Orchid's pilot:许多人希望他能得到沙漠兰花飞行员的工作
+he returns to our TV screens in a pilot for a Channel 4 sitcom:他在第4频道情景喜剧的试播节目中回到我们的电视屏幕
 a pilot scheme for training workers:工人培训试验计划
 he piloted the helicopter from Paris to Deauville:他驾驶直升机从巴黎飞往多维尔
-Melissa piloted her through the booking hall:Melissa带她穿过预订大厅
+Melissa piloted her through the booking hall:梅丽莎领着她穿过订票大厅
 one-day workshops for part-time staff were piloted in June:
 
 the emotions or conduct of friends, the state of being friends:朋友的情绪或行为，做朋友的状态
@@ -119,7 +119,7 @@ the right or opportunity to speak next in debate:
 (in the Stock Exchange) the large central hall where trading takes place:（在证券交易所）进行交易的大型中央大厅
 provide (a room or area) with a floor:提供（房间或区域）有地板
 knock (someone) to the ground, especially with a punch:knock（某人）倒地，尤其是一拳
-baffle (someone) completely:baffle（某人）完全
+baffle (someone) completely:完全挡住（某人）
 floor |flɔː| Noun/Verb/:地面,铺设地板,地板,楼,楼层
 a wooden floor:a木地板
 the ocean floor:海底
@@ -141,7 +141,7 @@ move, change, or create by or as if by magic:通过或仿佛通过魔法移动�
 magic |ˈmadʒɪk| Adjective/Noun/Verb/:魔法,神奇的,用魔法变出,魔术,魔
 suddenly, as if by magic, the doors start to open:突然间，门好像被施了魔法一样打开了
 the magic of the theatre:剧院的魔力
-he's been working his magic on New Zealand movies for the past two decades:he在过去的二十年里一直在新西兰电影中发挥他的魔力
+he's been working his magic on New Zealand movies for the past two decades:他在过去的二十年里一直在新西兰电影中发挥他的魔力
 a magic wand:一根魔杖
 confidence is the magic ingredient needed to spark recovery:confidence是激发恢复所需的神奇成分
 it was a great time, magic:这是一段美好的时光，魔法
@@ -152,7 +152,7 @@ open or spread out from a folded position:从折叠位置打开或展开
 reveal or disclose (thoughts or information):reveal或透露（想法或信息）
 unfold |ʌnˈfəʊld| Verb/:展开,开展
 there was a fascinating scene unfolding before me:眼前出现了一个迷人的场景
-Eva unfolded her secret exploits to Mattie:Eva向Mattie展示了她的秘密功绩
+Eva unfolded her secret exploits to Mattie:伊娃向玛蒂展示了她的秘密功绩
 
 the tenth month of the year, in the northern hemisphere usually considered the second month of autumn:一年的第十个月，在北半球通常认为是秋天的第二个月
 October |ɒkˈtəʊbə| Noun/:十月,月
@@ -187,7 +187,7 @@ lounge around | 闲逛,在周围闲逛
 a narrow passage of water connecting two seas or two other large areas of water:连接两个海洋或两个其他大片水域的狭窄水道
 used in reference to a situation characterized by a specified degree of trouble or difficulty:用于指以特定程度的麻烦或困难为特征的情况
 (of a place) of limited spatial capacity, narrow or cramped:
-close, strict, or rigorous:close,strict,orstrict
+close, strict, or rigorous:关闭、严格或严密
 strait |streɪt| Adjective/Noun/:海峡,在
 the economy is in dire straits:经济陷入困境
 the road was so strait that a handful of men might have defended it:这条路是如此狭窄，以至于少数人可能会为它辩护
@@ -209,7 +209,7 @@ a group of minerals, rocks, or fossils occurring together and characteristic of 
 suite |swiːt| Noun/:套房,套间
 a suite of reception rooms:一套接待室
 there is plenty of space for a dining table and a three-piece suite:有足够的空间放置餐桌和三件套套房
-the Royal Saloon was built for the use of the Queen and her suite:theRoyalSaloon专为女王和她的套房而建
+the Royal Saloon was built for the use of the Queen and her suite:皇家沙龙专供女王及其随从使用
 potassic rock suites are a characteristic feature of the area:potassicrock套房是该地区的特色
 
 full of life and energy, active and outgoing:充满活力和活力，积极外向
@@ -232,7 +232,6 @@ lively breeze | 活泼的微风,生机勃勃
 a thin cylinder of finely cut tobacco rolled in paper for smoking.:一个薄筒状细切烟丝，卷成卷烟用的纸。
 an object similar to a cigarette containing a narcotic or herbal substance.:一个类似于香烟的物品，含有麻醉剂或草药物质。
 cigarette |ˌsɪɡəˈrɛt| Noun/:香烟,烟,卷烟
-:
 
 hometown | ,故乡,老家
 
@@ -242,7 +241,7 @@ hometown | ,故乡,老家
 
 in a short time, soon:很快，很快
 in a few words, briefly:简而言之
-abruptly, sharply, or curtly:abruptly，尖锐地，或生硬地
+abruptly, sharply, or curtly:突然地、尖锐地或草率地
 shortly |ˈʃɔːtli| Adverb/:不久,很快
 the new database will shortly be available for consultation:新的数据库将很快提供咨询
 they received a letter shortly outlining the proposals:他们很快收到了一封概述提案的信
@@ -250,11 +249,11 @@ they received a letter shortly outlining the proposals:他们很快收到了一�
 
 a weapon consisting of a thin, straight stick with a sharp point, designed to be shot from a bow:一种武器，由一根细而直的棍子组成，尖头，设计用于从弓上射击
 a mark or sign resembling an arrow, used to show direction or position:类似箭头的标记或符号，用于表示方向或位置
-move or appear to move swiftly and directly:move或出现快速而直接的移动
+move or appear to move swiftly and directly:移动或看起来快速直接地移动
 arrow |ˈarəʊ| Noun/Verb/:,箭头,方向
 I've never used a bow and arrow:我从没用过弓箭
 we followed a series of arrows:我们跟随了一系列的箭头
-lights arrowed down into the airport:lights向下箭头进入机场
+lights arrowed down into the airport:灯向下箭头进入机场
 
 expressing possibility:表达可能性
 used when admitting that something is so before making another, more important point:
@@ -262,7 +261,7 @@ used to ask for or to give permission:用于请求或给予许可
 expressing a wish or hope:表达愿望或希望
 the hawthorn or its blossom:山楂或其花朵
 the fifth month of the year, in the northern hemisphere usually considered the last month of spring:一年的第五个月，在北半球通常被认为是春天的最后一个月
-one's bloom or prime:one'sbloomorprime
+one's bloom or prime:一个人的盛开或盛年
 May |mʌɪt| Noun/Verb/:可能,五月,可以,可,5月
 that may be true:这可能是真的
 they may have been old-fashioned but they were excellent teachers:他们可能已经过时，但他们是优秀的老师
@@ -270,9 +269,9 @@ you may confirm my identity with your Case Officer, if you wish:如果您愿意�
 may she rest in peace:愿她安息
 the may is just barely starting to open here, but leaves are out:themay刚刚开始在这里营业，但树叶都出来了
 the new model makes its showroom debut in May:新车型5月亮相展厅
-others murmured that their May was passing:others低声说他们的五月就要过去了
+others murmured that their May was passing:其他人低声说他们的五月即将过去
 
-join or fasten (something) to something else:join或将（某物）固定到其他物上
+join or fasten (something) to something else:加入或固定（某物）到其他东西
 add or fasten (a related document) to another, or to an email:添加或固定（相关文档）到另一个，或电子邮件
 include (a condition) as part of an agreement:include（条件）作为协议的一部分
 accompany (a person or group) without being invited:
@@ -281,7 +280,6 @@ attribute importance or value to:属性重要性或价值
 (of importance or value) be attributed to:（重要性或价值）归因于
 seize (a person or property) by legal authority:seize（个人或财产）由法律授权
 attach |əˈtatʃ| Verb/:附,连接,附上,附加
-:
 I attach a copy of the memo for your information:我附上一份备忘录副本供您参考
 the Commission can attach appropriate conditions to the operation of the agreement:委员会可以为协议的运行附加适当的条件
 they were all too ready to attach themselves to you for the whole day:他们已经准备好整天依附在你身上了
@@ -296,18 +294,18 @@ fortnight |ˈfɔːtnʌɪt| Noun/:,两周,两个星期
 he told me that he was going away for a fortnight:他告诉我他要离开两周
 the final will take place on Saturday fortnight:决赛将于两周后的星期六举行
 
-make (something) visible by uncovering it:make(something)通过揭开它可见
+make (something) visible by uncovering it:通过揭开（某物）使它可见
 cause someone to be vulnerable or at risk:导致某人易受伤害或处于危险之中
-introduce someone to (a subject or area of knowledge):introduce某人（一个学科或知识领域）
+introduce someone to (a subject or area of knowledge):向某人介绍（一个学科或知识领域）
 publicly and indecently display one's genitals.:公开不雅地展示自己的生殖器。
-leave (a child) in the open to die.:leave（一个孩子）在露天死。
+leave (a child) in the open to die.:把（一个孩子）留在空旷的地方等死。
 reveal the true, objectionable nature of (someone or something):揭示（某人或某事）的真实、令人反感的本质
-make (something embarrassing or damaging) public:make(一些令人尴尬或破坏性的)public
+make (something embarrassing or damaging) public:公开（令人尴尬或有害的事情）
 subject (photographic film) to light when operating a camera.:subject（摄影胶片）在操作相机时点亮。
 expose |ɪkˈspəʊz| Noun/Verb/:暴露,露出,曝光
 at low tide the sands are exposed:退潮时沙子露出来
 many newcomers are exposing themselves to injury:很多新人都在受伤
-students were exposed to statistics in high school:students在高中时接触过统计数据
+students were exposed to statistics in high school:学生在高中时接触过统计数据
 he has been exposed as a liar and a traitor:他被曝是骗子和叛徒
 the situation exposed a conflict within the government:局势暴露了政府内部的冲突
 
@@ -332,7 +330,7 @@ ski |skiː| Noun/Verb/:滑雪,滑雪板
 a pair of skis:一对滑雪板
 a ski instructor:滑雪教练
 they skied down the mountain:他们滑雪下山
-off-piste spring snow is easy to ski:off-piste春雪好滑雪
+off-piste spring snow is easy to ski:越野春雪很容易滑雪
 
 direct sunlight unbroken by cloud, especially over a comparatively large area:不受云影响的直射阳光，尤其是在相对较大的区域
 cheerfulness, happiness:快乐、快乐
@@ -349,11 +347,11 @@ a government-subsidized housing development with relatively low rents:一个租�
 estimate or forecast (something) on the basis of present trends or data:根据当前趋势或数据估计或预测（某事）
 plan (a scheme or undertaking):plan（计划或承诺）
 extend outwards beyond something else, protrude:extent向外超出其他东西，突出
-throw or cause to move forward or outward:throw或导致向前或向外移动
+throw or cause to move forward or outward:投掷或导致向前或向外移动
 cause (light, shadow, or an image) to fall on a surface:导致（光、影或图像）落在表面上
 cause (a sound) to be heard at a distance:导致（声音）在远处被听到
 imagine (oneself, a situation, etc.) as having moved to a different place or time:想像（自己、情况等）移动到不同的地方或时间
-present or promote (a particular view or image):present或promote（特定视图或图像）
+present or promote (a particular view or image):呈现或宣传（特定观点或图像）
 present (someone or something) in a particular way:present（某人或某事）以特定方式
 display (an emotion or quality) in one's behaviour:在一个人的行为中表现（一种情绪或品质）
 attribute or transfer an emotion or desire to (another person), especially unconsciously:属性或将情感或欲望转移给（另一个人），尤其是无意识的
@@ -370,7 +368,7 @@ I noticed a slip of paper projecting from the book:我注意到一张纸条从�
 seeds are projected from the tree:
 the one light projected shadows on the wall:一盏灯投射在墙上的阴影
 being audible depends on your ability to project your voice:被听见取决于你发出声音的能力
-people may be projecting the present into the past:people可能会将现在投射到过去
+people may be projecting the present into the past:人们可能会将现在投射到过去
 he strives to project an image of youth:他努力塑造年轻的形象
 she liked to project herself more as a friend than a doctor:她更喜欢把自己塑造成朋友而不是医生
 everyone would be amazed that a young girl could project such depths of emotion:每个人都会惊讶于一个年轻女孩能表现出如此深刻的情感

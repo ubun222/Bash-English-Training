@@ -36,7 +36,7 @@ period									一段时间，课时
 run or travel somewhere in a great hurry:run或匆忙地去某个地方旅行
 strike or fling (something) somewhere with great force, especially so as to have a destructive effect, hurl:strike或用很大的力量扔（某物）某处，尤其是为了产生破坏性效果，投掷
 come into forceful contact with something:强行接触某物
-destroy or frustrate (hopes or expectations):destroy或沮丧（希望或期望）
+destroy or frustrate (hopes or expectations):破坏或挫败（希望或期望）
 cause (someone) to lose confidence:导致（某人）失去信心
 used to express mild annoyance:用于表示轻微的烦恼
 an act of running somewhere suddenly and hastily:突然匆忙跑到某个地方的行为
@@ -54,11 +54,10 @@ the ship was dashed upon the rocks:船撞到礁石上
 a gust of rain dashed against the bricks:一阵雨打在砖头上
 the budget dashed hopes of an increase in funding:预算使增加资金的希望破灭
 I won't tell Stuart—I think he'd be dashed:我不会告诉斯图尔特——我想他会崩溃的
-:
 she made a dash for the door:她冲向门口
-a 20-mile dash to the airport:amile冲刺到机场
+a 20-mile dash to the airport:20 英里冲刺到机场
 the 100 m dash:100米冲刺
-whisky with a dash of soda:whisky加少许苏打水
+whisky with a dash of soda:威士忌加少许苏打水
 a casual atmosphere with a dash of sophistication:带有一丝精致的休闲氛围
 he has youthful energy, dash, and charisma:他年轻有活力，有冲劲，有魅力
 an indicator on the dash tells you what gear you are in:仪表板上的指示器告诉你你在什么档位
@@ -91,7 +90,7 @@ young men and women with ambition:有抱负的青年男女
 come or go into (a place):来或进入（一个地方）
 used as a stage direction to indicate when a character comes on stage:用作舞台方向，指示角色何时上台
 come or be introduced into:来或被介绍
-penetrate (something):penetrate（某事）
+penetrate (something):穿透（某物）
 (of a man) insert the penis into the vagina of (a woman).:（男性）将阴茎插入（女性）的阴道。
 begin to be involved in:开始参与
 become a member of or start working in (an institution or profession):成为（机构或专业）的成员或开始工作
@@ -99,7 +98,7 @@ register as a competitor or participant in (a tournament, race, or exam):注册�
 start or reach (a stage or period of time) in an activity or situation:开始或到达（一个阶段或一段时间）活动或情况
 (of a particular performer in an ensemble) start or resume playing or singing.:（合奏中的特定表演者）开始或继续演奏或唱歌。
 write or key (information) in a book, computer, etc.:在书本、电脑等中写入或键入（信息）。
-submit (a statement) in an official capacity:submit（声明）以官方身份
+submit (a statement) in an official capacity:以官方身份提交（声明）
 a key on a computer keyboard which is used to perform various functions, such as executing a command or selecting options on a menu.:计算机键盘上的一个键，用于执行各种功能，例如执行命令或选择菜单上的选项。
 enter |ˈɛntə| Noun/Verb/:进入,输入,请输入
 she entered the kitchen:她进了厨房
@@ -110,7 +109,7 @@ in 1941 America entered the war:1941年美国参战
 he entered the army as a cadet:他以学员的身份参军
 they won every race they entered:他们赢得了他们参加的每一场比赛
 the election campaign entered its final phase:竞选活动进入最后阶段
-children can enter the data into the computer:children可以将数据输入电脑
+children can enter the data into the computer:孩子们可以将数据输入电脑
 a solicitor entered a plea of guilty on her behalf:a律师代表她认罪
 
 having the power, skill, means, or opportunity to do something:拥有做某事的权力、技能、手段或机会
@@ -145,7 +144,7 @@ a person or thing perceived as wonderful or perfect:一个被认为是美妙或�
 experience dreams during sleep:在睡眠中体验梦境
 see, hear, or feel (something) in a dream:在梦中看到、听到或感觉到（某事）
 indulge in daydreams or fantasies about something greatly desired:沉迷于对非常渴望的事物的白日梦或幻想
-contemplate the possibility of doing something or that something might be the case:contemplate做某事的可能性或某事可能是这种情况
+contemplate the possibility of doing something or that something might be the case:考虑做某事的可能性或可能发生的事情
 dream |driːm| Noun/Verb/:梦,做梦,理想的,梦想,梦幻
 I had a recurrent dream about falling from great heights:我经常梦见从高处坠落
 he had been walking around in a dream all day:他整天在梦里走来走去
@@ -159,7 +158,6 @@ I wouldn't dream of foisting myself on you:我做梦也不会想把自己强加�
 
 a shelf on which books can be stored.:一个可以存放书籍的架子。
 bookshelf |ˈbʊkʃɛlf| Noun/:书架,书柜
-:
 
 
 analyze | 分析,解析
@@ -176,7 +174,7 @@ a female individual, one:一个女性个体，一个
 woman |ˈwɪmɪn| Noun/:女士,女人,妇女,女子
 a drawing of a young woman:一个年轻女子的画
 thousands of women were laid off:千名女性被解雇
-she was the first Oxford woman to take a first in Physics:she是牛津大学第一位获得物理学第一的女性
+she was the first Oxford woman to take a first in Physics:她是牛津大学第一位获得物理学第一的女性
 don't be daft, woman!:别傻了，女人！
 a daily woman:一个日常的女人
 he wondered whether Billy had his woman with him:他想知道比利是否和他的女人在一起
@@ -207,9 +205,9 @@ yoghurt | 酸奶,乳
 
 
 form (something) by putting parts together or combining substances, create:form（某物）通过将部分组合在一起或组合物质，创建
-alter something so that it forms (something else):alter一些东西，使它形成（别的东西）
-compose or draw up (something written or abstract):compose或草拟（书面或抽象的东西）
-prepare (a dish, drink, or meal):prepare（一道菜、饮料或一餐）
+alter something so that it forms (something else):改变某物使其形成（其他东西）
+compose or draw up (something written or abstract):撰写或绘制（书面或抽象的东西）
+prepare (a dish, drink, or meal):准备（一道菜、饮料或饭菜）
 arrange bedclothes tidily on (a bed) ready for use:把被褥整齐地放在（床）上，待用
 arrange and light materials for (a fire).:为（火）安排和点燃材料。
 complete or close (a circuit).:完成或关闭（电路）。
@@ -217,18 +215,18 @@ cause (something) to exist or come about, bring about:导致（某事）存在�
 cause to become or seem:导致成为或看起来
 carry out, perform, or produce (a specified action or sound):执行、执行或产生（指定的动作或声音）
 (in soccer) enable a teammate to score (a goal) by one's play.:（在足球中）使队友能够通过自己的比赛得分（进球）。
-communicate or express (an idea, request, or requirement):communicateorexpress（一个想法、请求或要求）
+communicate or express (an idea, request, or requirement):沟通或表达（想法、请求或要求）
 enter into a contract of (marriage):
 appoint or designate (someone) to a position:任命或指定（某人）到某个职位
-represent or cause to appear in a specified way:represent或导致以指定方式出现
+represent or cause to appear in a specified way:以指定方式表示或导致出现
 cause to be successful:导致成功
 compel (someone) to do something:强迫（某人）做某事
 constitute, amount to:构成，等于
 be suitable for or likely to develop into:适合或可能发展成
 consider to be, estimate as:认为是，估计为
-agree or decide on (a specified arrangement):agree或决定（指定的安排）
-gain or earn (money or profit):gainor赚（钱或利润）
-score (a specified number of runs):score（指定的运行次数）
+agree or decide on (a specified arrangement):同意或决定（指定的安排）
+gain or earn (money or profit):获得或赚取（金钱或利润）
+score (a specified number of runs):分数（指定的运行次数）
 manage to arrive at (a place) within a specified time or catch (a train or other form of transport):设法在规定时间内到达（地点）或赶上（火车或其他交通工具）
 become successful:
 succeed in reaching safety or in surviving:成功到达安全或生存
@@ -236,15 +234,15 @@ achieve a place in:取得一席之地
 achieve the rank of:达到等级
 prepare to go in a particular direction:准备朝一个特定的方向前进
 act as if one is about to perform an action:表现得好像一个人即将执行某项动作
-induce (someone) to have sex with one:induce(someone)tohavesexwithone
+induce (someone) to have sex with one:引诱（某人）与某人发生性关系
 (in bridge, whist, etc.) win (a trick).:（在桥牌、惠斯特等）赢（一招）。
 win a trick with (a card).:用（一张牌）赢一招。
 win the number of tricks that fulfils (a contract).:win完成的技巧数（合同）。
-shuffle (cards) for dealing.:shuffle（牌）进行交易。
+shuffle (cards) for dealing.:洗牌（牌）发牌。
 (of the tide) begin to flow or ebb.:（潮）开始潮起潮落。
 make |meɪd| Noun/Verb/:制作,型号,使,让
 my grandmother made a dress for me:我的祖母为我做了一件衣服
-buffalo's milk can be made into cheese:buffalo的牛奶可以做成奶酪
+buffalo's milk can be made into cheese:水牛的牛奶可以制成奶酪
 make a list of all the points you can think of:列出你能想到的所有要点
 she was making lunch for Lucy and Francis:她正在为露西和弗朗西斯做午餐
 after breakfast you'd have until 8.25 to make your bed:早餐后，您必须在8.25之前整理床铺
@@ -266,11 +264,11 @@ he made a century:他创造了一个世纪
 we've got a lot to do if you're going to make the shuttle:如果你要搭班车，我们还有很多事要做
 he waited confidently for his band to make it:他满怀信心地等待他的乐队成功
 the pilot didn't make it—his neck's broken:飞行员没能成功——他的脖子断了
-Australia should make the final:Australia应该进入决赛
+Australia should make the final:澳大利亚应该进入决赛
 he wasn't going to make captain:他不会成为队长
 he struggled to his feet and made towards the car:他挣扎着站了起来，朝汽车走去
 she made as if to leave the room:她好像要离开房间
-he had been trying to make Cynthia for two years now:he已经尝试制作Cynthia两年了
+he had been trying to make Cynthia for two years now:两年来他一直在努力塑造辛西娅
 
 make the summit | 登顶,登上顶峰
 
@@ -287,10 +285,10 @@ in an inevitable but undesirable way:以一种不可避免但不受欢迎的方�
 only |ˈəʊnli| Adjective/Adverb/Conjunction/:只要,仅有的,可是,只有,仅
 there are only a limited number of tickets available:
 deaths from heart disease have only declined by 10 per cent:死于心脏病的人数仅下降了10%
-genes that were discovered only last year:genes去年才被发现
+genes that were discovered only last year:去年才发现的基因
 a final report reached him only on January 15:a最终报告仅在1月15日到达他
 she turned into the car park, only to find her way blocked:她转入停车场，却发现自己的路被挡住了
-rebellion will only bring more unhappiness:rebellion只会带来更多的不快
+rebellion will only bring more unhappiness:叛逆只会带来更多的不快乐
 
 only too | 也只是,只有太
 
@@ -302,7 +300,7 @@ the name of a book, composition, or other artistic work:一本书、作品或其
 a caption or credit in a film or broadcast:一份题为《失落的土地》的报告2
 a book, magazine, or newspaper considered as a publication:被视为出版物的书籍、杂志或报纸
 a name that describes someone's position or job:描述某人职位或工作的名称
-a word such as Lord or Dame that is used before someone's name, or a form that is used instead of someone's name, to indicate high social or official rank:在某人的名字之前使用的诸如LordorDame之类的词，或代替某人名字使用的形式，以表示较高的社会或官方地位
+a word such as Lord or Dame that is used before someone's name, or a form that is used instead of someone's name, to indicate high social or official rank:在某人姓名前使用的词，例如 Lord 或 Dame，或用于代替某人姓名的形式，以表示较高的社会或官方地位
 a word such as Mrs or Dr that is used before someone's name to indicate their profession or marital status:一个词，例如夫人或博士，用于某人的名字之前，以表明他们的职业或婚姻状况
 a descriptive or distinctive name that is earned or chosen:获得或选择的描述性或独特名称
 the position of being the champion of a major sports competition:重大体育赛事冠军的位置
@@ -312,9 +310,9 @@ a parish church in Rome under a cardinal.:罗马红衣主教的教区教堂。
 give a name to (a book, composition, or other work):给（一本书、作文或其他作品）命名
 title |ˈtʌɪtl| Noun/Verb/:,加标题,称号,头衔
 the author and title of the book:本书的作者和书名
-Rumbelows will get exclusive sponsorship with opening and closing titles:Rumbelows将获得开幕式和闭幕式的独家赞助
+Rumbelows will get exclusive sponsorship with opening and closing titles:Rumbelows 将获得开幕式和闭幕式的独家赞助
 the company publishes 400 titles a year:该公司每年出版400本刊物
-Leese assumed the title of director general:Leese就任总干事
+Leese assumed the title of director general:Leese 就任总干事
 he will inherit the title of Duke of Marlborough:他将继承马尔伯勒公爵的头衔
 the title Professor is reserved for one or two members of a department:教授的头衔是为一个部门的一两个成员保留的
 the restaurant deserved the title of Best Restaurant of the Year:the餐厅当之无愧的年度最佳餐厅称号
@@ -342,51 +340,51 @@ your card cannot be used to withdraw more than your daily limit from cash machin
 a pack of cards:一包卡片
 they were playing interminable cards:他们在玩没完没了的牌
 a nine-race card:一张九种族卡
-He laughed: ‘You're a card, you know’:他笑了-
+He laughed:他笑了
 
 write or name the letters that form (a word) in correct sequence:以正确的顺序写出或命名构成（一个词）的字母
 (of letters) make up or form (a word):（字母）组成或形成（一个词）
 be a sign or characteristic of:是一个标志或特征
-mean or have as a result:mean或结果
+mean or have as a result:意思或结果
 a form of words used as a magical charm or incantation:一种用作魔法咒语或咒语的词语
 a state of enchantment caused by a magic spell:一种魔法造成的魔法状态
 an ability to control or influence people as though one had magical power over them:一种控制或影响人们的能力，就好像一个人对他们有魔力一样
 a short period:短期
 a period spent in an activity:在活动中花费的时间
 a period of rest from work.:下班休息一段时间。
-a series of overs during a session of play in which a particular bowler bowls:aseriesoversduringasessionofplaywhereaspecificbowlerBowls
+a series of overs during a session of play in which a particular bowler bowls:在特定投球手投球的比赛期间的一系列轮换
 allow (someone) to rest briefly by taking their place in an activity:允许（某人）在活动中占据一席之地来短暂休息
 take a brief rest:休息一下
 a splinter of wood.:一块木头。
 spell |spɛl| Noun/Verb/:拼写,拼,咒语
-Dolly spelled her name:Dolly拼写了她的名字
+Dolly spelled her name:多莉拼写她的名字
 the letters spell the word ‘how’:字母拼写单词“如何”
-she had the chic, efficient look that spells Milan:she拥有米兰特有的别致、高效外观
+she had the chic, efficient look that spells Milan:她拥有米兰特有的别致、高效外观
 the plans would spell disaster for the economy:这些计划会给经济带来灾难
 a spell is laid on the door to prevent entry:门上放了一道咒语以防止进入
 the magician may cast a spell on himself:魔术师可以对自己施咒
 he woke from her spell:他从她的咒语中醒来
 I want to get away from racing for a spell:我想摆脱比赛的咒语
 a spell of greenhouse work:一段温室工作
-he usually produces only one good spell in a Test:he通常在测试中只产生一个好的咒语
+he usually produces only one good spell in a Test:他通常在测试中只产生一个好的咒语
 I got sleepy and needed her to spell me for a while at the wheel:我困了，需要她在方向盘上拼一下我
 I'll spell for a bit:我会拼一下
 
 be successful or victorious in (a contest or conflict):在（竞赛或冲突）中取得成功或胜利
 acquire or secure as a result of a contest, conflict, bet, or other endeavour:
-gain (a person's attention, support, or love), typically gradually or by effort:gain（一个人的关注、支持或爱），通常是逐渐或通过努力
+gain (a person's attention, support, or love), typically gradually or by effort:获得（一个人的关注、支持或爱），通常是逐渐地或通过努力
 gain the support or favour of someone by action or persuasion:通过行动或说服获得某人的支持或青睐
 manage to succeed or achieve something by effort:设法成功或通过努力取得成就
 manage to reach (a place) by effort:设法通过努力到达（一个地方）
 obtain (ore) from a mine.:从矿山中获得（矿石）。
 dry (hay) by exposure to the air.:dry（干草）暴露在空气中。
 win |wʌn| Noun/Verb/:赢,赢得,获胜
-United won four games in a row:United连赢四场
+United won four games in a row:曼联连胜四场
 there are hundreds of prizes to be won:有数百个奖品等你来赢取
 you will find it difficult to win back their attention:你会发现很难赢回他们的注意力
 her sense of humour had won him over at once:她的幽默感立刻征服了他
 a determination to win through against all the odds:战胜一切困难的决心
-many lived to win the great cave:many为赢得大洞穴而活
+many lived to win the great cave:许多人活着赢得了大洞穴
 
 a person who has surpassed all rivals in a sporting contest or other competition:在体育比赛或其他比赛中超越所有对手的人
 a person who vigorously supports or defends a person or cause:大力支持或捍卫某人或事业的人
@@ -398,8 +396,8 @@ he became the determined champion of a free press:他成为新闻自由的坚定
 he championed the rights of the working class and the poor:他捍卫工人阶级和穷人的权利
 ‘Thank ye, lad,’ the farmer said. ‘That's champion.’:‘谢谢你，小伙子，’农夫说。
 
-make (a statement or situation) less confused and more comprehensible:make（陈述或情况）不那么混乱，更容易理解
-melt (butter) in order to separate out the water and milk solids:melt（黄油）以分离出水和乳固体
+make (a statement or situation) less confused and more comprehensible:使（陈述或情况）不那么混乱，更容易理解
+melt (butter) in order to separate out the water and milk solids:融化（黄油）以分离出水和乳固体
 clarify |ˈklarɪfʌɪ| Verb/:,澄清
 the report managed to clarify the government's position:报告阐明了政府的立场
 clarify the butter by using a spoon to skim off the foam:用勺子撇去泡沫，澄清黄油
@@ -418,7 +416,7 @@ Shakespeare's comedies:莎士比亚的喜剧
 satiric comedy:讽刺喜剧
 
 an account of someone's life written by someone else.:别人写的关于某人生活的记述。
-biographies considered as a literary genre:biographies被认为是一种文学体裁
+biographies considered as a literary genre:传记被认为是一种文学体裁
 the course of a person's life:一个人的一生
 biography |bʌɪˈɒɡrəfi| Noun/:传,传记,个人简介
 the basic difference of approach to autobiography and biography:自传方式与传记方式的基本区别
@@ -430,12 +428,12 @@ a measuring device such as a speedometer, taximeter, or milometer:一种测量�
 an electronic device used to initiate and synchronize internal operations.:用于启动和同步内部操作的电子设备。
 a downy spherical seed head, especially that of a dandelion.:一个柔软的球形种子头，尤其是蒲公英的头。
 a person's face:一个人的脸
-attain or register (a specified time, distance, or speed):attain或注册（指定的时间、距离或速度）
-achieve (a victory):achieve（胜利）
-record as attaining a specified time or rate:record达到指定的时间或速率
+attain or register (a specified time, distance, or speed):达到或登记（指定的时间、距离或速度）
+achieve (a victory):取得（胜利）
+record as attaining a specified time or rate:记录为达到指定的时间或速率
 notice or watch:通知或观看
 hit (someone), especially on the head:hit（某人），尤其是头部
-wind back the milometer of (a car) illegally in order to make the vehicle appear to have travelled fewer miles than it really has:wind非法退回（汽车）的里程数，以使车辆看起来行驶的里程数比实际行驶的里程数少
+wind back the milometer of (a car) illegally in order to make the vehicle appear to have travelled fewer miles than it really has:非法调回（汽车）的里程数，使车辆看起来行驶的里程数比实际行驶的里程数少
 an ornamental pattern woven or embroidered on the side of a stocking or sock near the ankle.:在靠近脚踝的长袜或短袜侧面编织或刺绣的装饰图案。
 clock |klɒk| Noun/Verb/:钟,测速,时钟,钟表
 the church clock struck four:教堂钟敲四下
@@ -443,7 +441,7 @@ this stage is played against the clock:这个阶段分秒必争
 a car with over 82,000 miles on the clock:一辆行驶超过82,000英里的汽车
 I thought I recognized your clock:我以为我认出了你的时钟
 I clocked nearly nine hours of uninterrupted sleep:我连续睡了将近九个小时
-she clocked her 39th victory of the season:she赢得了本赛季的第39场胜利
+she clocked her 39th victory of the season:她赢得了本赛季的第39场胜利
 the tower operators clocked a gust at 185 mph:the塔操作员以每小时185英里的速度记录阵风
 I noticed him clocking her in the mirror:我注意到他在镜子里给她计时
 someone clocked him for no good reason:某人无缘无故地给他打了钟
@@ -464,15 +462,15 @@ her place of employ:她的工作地点
 constituting number six in a sequence, 6th:构成序列中的第6个，第6个
 the sixth finisher or position in a race or competition:比赛或比赛中的第六名或位置
 the sixth form of a school or college:学校或学院的第六形式
-sixthly (used to introduce a sixth point or reason):sixthly（用于介绍第六点或理由）
-an interval spanning six consecutive notes in a diatonic major or minor scale, e.g. C to A (major sixth) or A to F (minor sixth).:一个跨全音阶大调或小调音阶中六个连续音符的音程，例如C到A（大六）或A到F（小六）。
+sixthly (used to introduce a sixth point or reason):Sixthly（用于介绍第六点或理由）
+an interval spanning six consecutive notes in a diatonic major or minor scale, e.g. C to A (major sixth) or A to F (minor sixth).:在全音阶大调或小调音阶中跨越六个连续音符的音程，例如C 到 A（大六度）或 A 到 F（小六度）。
 the note which is higher by a sixth than the tonic of a scale or root of a chord.:比和弦的音阶主音或根音高六分之一的音符。
 each of six equal parts into which something is or may be divided:一个东西被或可能被分成的六个相等的部分中的每一个
 sixth |sɪk(s)θ| Numeral/:第六,第六名
 her sixth novel:她的第六部小说
 he could only finish sixth:他只能获得第六名
 the naughtiest girl in the sixth:第六届最淘气的女孩
-sixth, given all the facts there is no logical reason why we can't make a decision:sixth，鉴于所有事实，我们无法做出决定没有合乎逻辑的理由
+sixth, given all the facts there is no logical reason why we can't make a decision:第六，鉴于所有事实，没有合乎逻辑的理由让我们无法做出决定
 a sixth of the total population:总人口的六分之一
 
 do physical harm or damage to (someone):对（某人）造成身体伤害或损害
@@ -505,7 +503,7 @@ he had long periods of depression:他有长期的抑郁症
 the early medieval period:中世纪早期
 the Cretaceous period:白垩纪
 two periods of PE are allocated on the timetable:两期PE在时间表上分配
-the Lightnings ran at the Leafs hard in a very rough first period:theLightnings在非常艰难的第一阶段向Leafs猛烈奔跑
+the Lightnings ran at the Leafs hard in a very rough first period:闪电队在第一个非常艰难的时期艰难地跑向了叶子队
 she's got her period:她来了月经
-he is the sole owner of the trademark, period:he是该商标的唯一所有者，期间
+he is the sole owner of the trademark, period:他是该商标的唯一所有者，期间
 an attractive and beautifully modernized period house:一个有吸引力和美丽的现代化时期的房子

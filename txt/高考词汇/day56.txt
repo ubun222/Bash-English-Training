@@ -43,18 +43,18 @@ discover				查明，发现
 \\\\
 
 put or let something down quickly or briefly in or into (liquid):将某物快速或短暂地放入或放入（液体）中
-immerse (sheep) in a chemical solution that kills parasites.:immerse（羊）在杀死寄生虫的化学溶液中。
+immerse (sheep) in a chemical solution that kills parasites.:将（绵羊）浸入杀死寄生虫的化学溶液中。
 make (a candle) by immersing a wick repeatedly in hot wax.:通过将灯芯反复浸入热蜡中来制作（蜡烛）。
-baptize (someone) by immersion in water.:baptize（某人）浸入水中。
+baptize (someone) by immersion in water.:浸入水中为（某人）施洗。
 put a hand or implement into (a bag or container) in order to take something out:将手或工具放入（袋子或容器）以取出东西
 spend from or make use of (one's financial resources):花费或利用（某人的财务资源）
 read only parts of (a publication or document):只读部分（出版物或文件）
-sink, drop, or slope downwards:sink、下降或向下倾斜
+sink, drop, or slope downwards:下沉、下降或向下倾斜
 (of a level or amount) become lower or smaller, typically temporarily:（水平或数量）变低或变小，通常是暂时的
-lower or move (something) downwards:lower或向下移动（某物）
+lower or move (something) downwards:降低或向下移动（某物）
 lower the beam of (a vehicle's headlights).:降低（车辆前灯）的光束。
 miss an opportunity, fail.:错失良机，失败。
-pick (someone's pocket).:pick（某人的口袋）。
+pick (someone's pocket).:捡（某人的口袋）。
 a brief swim:短暂的游泳
 a brief immersion in liquid.:短暂浸入液体中。
 a thick sauce in which pieces of food are dipped before eating:一种浓酱汁，在食用前将食物块浸入其中
@@ -69,7 +69,7 @@ a stupid or foolish person.:一个愚蠢或愚蠢的人。
 a pickpocket.:一个扒手。
 a candle made by immersing a wick repeatedly in hot wax.:通过将灯芯反复浸入热蜡中制成的蜡烛。
 document image processing, a system for the digital storage and retrieval of documents as scanned images.:documentimageprocessing，用于将文档作为扫描图像进行数字存储和检索的系统。
-dual in-line package, a package for an integrated circuit consisting of a rectangular sealed unit with two parallel rows of downward-pointing pins.:dualin-linepackage，一种集成电路封装，由一个矩形密封单元和两排平行向下的引脚组成。
+dual in-line package, a package for an integrated circuit consisting of a rectangular sealed unit with two parallel rows of downward-pointing pins.:双列直插式封装，一种集成电路封装，由一个矩形密封单元和两排平行的向下引脚组成。
 dip |dɪp| Noun/Residual/Verb/:蘸,浸,倾角
 he dipped a brush in the paint:他用刷子蘸了颜料
 Ian dipped into his briefcase and pulled out a photograph:Ian把手伸进公文包，拿出一张照片
@@ -94,7 +94,7 @@ go for a dip | 游泳,去泡一泡,去畅游
 a style or method of cooking, especially as characteristic of a particular country, region, or establishment:一种烹饪方式或方法，尤指特定国家、地区或机构的特色
 food cooked in a certain way:以某种方式烹制的食物
 cuisine |kwɪˈziːn| Noun/:美食,料理
-much Venetian cuisine is based on seafood:much威尼斯美食以海鲜为主
+much Venetian cuisine is based on seafood:许多威尼斯美食以海鲜为主
 we spent the evening sampling the local cuisine:我们在晚上品尝了当地美食
 
 French cuisine | 法国美食,法国菜,法式料理
@@ -115,12 +115,12 @@ daughter |ˈdɔːtə| Noun/:女儿,女孩儿,她
 we are the sons and daughters of Adam:我们是亚当的儿女
 the heptathlete could become one of Yorkshire's most famous daughters:七项全能运动员可能成为约克郡最著名的女儿之一
 a daughter of the dry savannas of Africa:非洲干旱稀树草原的女儿
-Italian, the eldest daughter of ancient Latin:Italian，古拉丁长女
+Italian, the eldest daughter of ancient Latin:意大利人，古拉丁语的长女
 as radon gas decays it produces daughters that attach themselves to dust particles:当氡气衰变时，它会产生附着在尘埃颗粒上的子代
 
 an article or substance that is manufactured or refined for sale:一种为销售而制造或精制的物品或物质
 a substance produced during a natural, chemical, or manufacturing process:在天然、化学或制造过程中产生的物质
-commercially manufactured articles, especially recordings, viewed collectively:commercially制造的文章，尤其是录音，集体查看
+commercially manufactured articles, especially recordings, viewed collectively:商业制造的物品，尤其是录音，统称为
 a thing or person that is the result of an action or process:作为行动或过程结果的事物或人
 a person whose character and identity have been formed by a particular period or situation:一个人的性格和身份是由特定时期或情况形成的
 a quantity obtained by multiplying quantities together, or from an analogous algebraic operation.:通过将数量相乘或通过类似的代数运算获得的数量。
@@ -146,9 +146,9 @@ the charge of gas or vapour mixed with air which is admitted to the cylinder of 
 an organ stop in which each key sounds a group of small pipes of different pitches, giving a very bright tone.:一个风琴停顿，每个琴键发出一组不同音高的小管，发出非常明亮的音调。
 mixture |ˈmɪkstʃə| Noun/:,合剂,混合
 form the mixture into a manageable dough:将混合物制成易于处理的面团
-the old town is a mixture of narrow medieval streets and 18th-century architecture:theoldtown融合了中世纪狭窄的街道和18世纪的建筑
+the old town is a mixture of narrow medieval streets and 18th-century architecture:老城区混合了狭窄的中世纪街道和 18 世纪的建筑
 he was a curious mixture, an unpredictable man:他是一个奇怪的混合体，一个不可预测的人
-newer pilots often leave their mixture rich during an entire flight:newer飞行员经常在整个飞行过程中留下丰富的混合物
+newer pilots often leave their mixture rich during an entire flight:新飞行员经常在整个飞行过程中保持混合气浓
 
 a word or set of words by which a person or thing is known, addressed, or referred to:一个词或一组词，通过它来认识、称呼或提及一个人或事物
 a famous person:专门针对利基市场的知名品牌2
@@ -168,8 +168,8 @@ the big race will lure the top names:大比赛将吸引顶级名流
 the school has gained a name for excellence:学校以卓越着称
 hundreds of diseases had not yet been isolated or named:数百种疾病尚未分离或命名
 the dead man has been named as John Mackintosh:死者被命名为约翰麦金托什
-she was named as Student of the Year:she被评为年度学生
-the sea is as crystal clear as any spot in the Caribbean you might care to name:thesea晶莹剔透，就像加勒比海任何一个你可能想命名的地方一样
+she was named as Student of the Year:她被评为年度学生
+the sea is as crystal clear as any spot in the Caribbean you might care to name:大海清澈如加勒比海任何一处您可能想说的名字
 he was named to head a joint UN–OAS diplomatic effort:he被任命为联合国-美洲国家组织联合外交努力的负责人
 the club have asked United to name their price for the striker:俱乐部已要求曼联为这名前锋命名
 specialized name brands geared to niche markets:专门针对利基市场的知名品牌
@@ -188,17 +188,15 @@ call sb names | 呼唤某人的名字,称呼某人
 
 a metric unit of capacity, formerly defined as the volume of one kilogram of water under standard conditions, now equal to 1,000 cubic centimetres (about 1.75 pints):a公制容量单位，以前定义为标准条件下一公斤水的体积，现在等于1,000立方厘米（约1.75品脱）
 litre |ˈliːtə| Noun/:升,公升,一公升
-:
 
 a tropical storm in the region of the Indian or western Pacific oceans.:印度洋或西太平洋地区的热带风暴。
 typhoon |tʌɪˈfuːn| Noun/:台风,台风暴
-:
 
-giving or ready to give help:giving或准备提供帮助
+giving or ready to give help:提供或准备提供帮助
 useful:有用
 helpful |ˈhɛlpf(ʊ)l| Adjective/:有帮助,乐于助人的
 people are friendly and helpful:人们友善且乐于助人
-pages of helpful information:pages有用信息
+pages of helpful information:有用信息的页面
 
 say or estimate that (a specified thing) will happen in the future or will be a consequence of something:说或估计（特定的事情）将来会发生或将是某事的结果
 predict |prɪˈdɪkt| Verb/:,预计,预言
@@ -225,27 +223,27 @@ foolish |ˈfuːlɪʃ| Adjective/:愚蠢的,傻
 he was foolish enough to confide in her:他傻到向她倾诉
 
 move in a circular direction wholly or partly round an axis or point:在圆周方向上完全或部分绕轴或点移动
-perform (a somersault or cartwheel):perform（翻筋斗或侧手翻）
+perform (a somersault or cartwheel):表演（翻筋斗或侧手翻）
 twist or sprain (an ankle):扭伤或扭伤（脚踝）
-move (something) so that it is in a different position in relation to its surroundings or its previous position:move(something)使其相对于周围环境或之前的位置处于不同的位置
+move (something) so that it is in a different position in relation to its surroundings or its previous position:移动（某物），使其相对于周围环境或之前的位置处于不同的位置
 change the position of one's body so that one is facing in a different direction:改变一个人的身体位置，使一个人面向不同的方向
-move (something) so as to be aimed or pointed in a particular direction:move（某物）以便瞄准或指向特定方向
-change or cause to change direction:change或导致改变方向
+move (something) so as to be aimed or pointed in a particular direction:移动（某物）以瞄准或指向特定方向
+change or cause to change direction:改变或导致改变方向
 (of the tide) change from flood to ebb or vice versa:（潮汐）从洪水变为退潮，反之亦然
 move (a page) over so that it is flat against the previous or next page:move(apage)over，使其与上一页或下一页平齐
 fold or unfold (fabric or a piece of a garment) in the specified way:按指定方式折叠或展开（织物或一件衣服）
-pass round (the flank or defensive lines of an army) so as to attack it from the side or rear:passround（军队的侧翼或防线）以便从侧面或后方攻击它
+pass round (the flank or defensive lines of an army) so as to attack it from the side or rear:绕过（军队的侧翼或防线）以便从侧面或后方攻击它
 bend back (the edge of a blade) so as to make it blunt:向后弯曲（刀片的边缘）使其变钝
-remake (a garment or a sheet), putting the worn outer side on the inside:remake（一件衣服或一张床单），将磨损的外侧放在内侧
+remake (a garment or a sheet), putting the worn outer side on the inside:翻新（一件衣服或一张床单），把破旧的外面放在里面
 change or cause to change in nature, state, form, or colour, become or make:改变或导致改变性质、状态、形式或颜色，成为或使
 send or put into a specified place or condition:发送或放入指定地点或条件
-pass the age or time of:pass的年龄或时间
+pass the age or time of:通过的年龄或时间
 (of leaves) change colour in the autumn:(叶子的)秋天变色
 (with reference to the stomach) make or become nauseated:（关于胃）使或变得恶心
 (with reference to milk) make or become sour.:（指牛奶）变酸或变酸。
-shape (something) on a lathe:shape（某物）在车床上
+shape (something) on a lathe:在车床上塑造（某物）
 give a graceful or elegant form to:给一个优雅或优雅的形式
-make (a profit).:make（盈利）。
+make (a profit).:赚取（利润）。
 turn |təːn| Noun/Verb/:转动,转弯处,转,转身
 the boy shot up off the ground and turned a somersault in the air:那个男孩从地上跳起来，在空中翻了个筋斗
 Wright turned his ankle in the first minute of the game:赖特在比赛的第一分钟扭伤了脚踝
@@ -257,7 +255,7 @@ she turned a page noisily:她大声翻页
 he turned up the collar of his coat:他把大衣的领子翻起来
 there was still the sea, by way of which the Persians hoped to turn all mountain or isthmus defence lines:那里仍然是大海，波斯人希望通过它来扭转所有山区或地峡的防线
 thou hast also turned the edge of his sword:你也扭转了他的剑刃
-a sheet that Mrs Dibb wanted turned sides to middle:Dibb夫人想要的一张床单将两边翻到中间
+a sheet that Mrs Dibb wanted turned sides to middle:迪布夫人想要的床单将两边翻到中间
 the dogs were turned loose on the crowd:the狗在人群中散开
 I've just turned forty:我刚四十岁
 the chestnut leaves were turning:栗子叶在转动
@@ -300,7 +298,7 @@ the local area covered by one of the short-range transmitters in a cellular tele
 a mobile phone.:一部手机。
 cell |sɛl| Noun/:细胞,单元格
 the authorities locked all remaining inmates in their cells:当局将所有剩余的囚犯锁在牢房里
-terrorist cells:terrorist牢房
+terrorist cells:恐怖组织
 a button cell for a quartz watch:用于石英表的纽扣电池
 
 terrorist cells | 恐怖细胞,恐怖组织
@@ -336,9 +334,9 @@ boring |ˈbɔːrɪŋ| Adjective/:无聊的,无聊,乏味
 I've got a boring job in an office:我在办公室有一份无聊的工作
 
 easily perceived or understood, clear, self-evident, or apparent:易于感知或理解、清晰、不言而喻或明显
-predictable and lacking in subtlety:predictable且缺乏微妙之处
+predictable and lacking in subtlety:可预测且缺乏微妙之处
 obvious |ˈɒbvɪəs| Adjective/:明显的,明显,显而易见
-unemployment has been the most obvious cost of the recession:unemployment一直是经济衰退最明显的成本
+unemployment has been the most obvious cost of the recession:失业是经济衰退最明显的代价
 it was an obvious remark to make:这是一个明显的评论
 
 the obvious | 显而易见的,明显
@@ -355,7 +353,7 @@ behaviour involving physical force intended to hurt, damage, or kill someone or 
 the unlawful exercise of physical force or intimidation by the exhibition of such force.:非法使用武力或使用武力进行恐吓。
 strength of emotion or of a destructive natural force:情感或破坏性自然力量的力量
 violence |ˈvʌɪələns| Noun/:暴力,武
-violence erupted in protest marches:violence在抗议游行中爆发
+violence erupted in protest marches:抗议游行中爆发暴力
 the violence of her own feelings:她自己感情的暴力
 
 a collectable object such as a piece of furniture or work of art that has a high value because of its age and quality:一件可收藏的物品，例如一件家具或艺术品，由于其年代和质量而具有很高的价值
@@ -364,16 +362,16 @@ intended to resemble the appearance of high-quality old furniture:拟仿高品�
 belonging to ancient times:
 old-fashioned or outdated:老式或过时
 showing signs of great age or wear:显示年龄大或磨损的迹象
-make (something) resemble an antique by artificial means:make(something)用人工手段模仿古董
+make (something) resemble an antique by artificial means:用人工方法使（某物）像古董
 search or shop for antiques:搜索或购买古董
 antique |anˈtiːk| Adjective/Noun/Verb/:古董,古老的,古色古香的
-Pauline loves collecting antiques:Pauline喜欢收藏古董
+Pauline loves collecting antiques:Pauline 喜欢收集古董
 an antique clock:一个古董钟
 bookshelves with an antique finish:书架，仿古饰面
 statues of antique gods:古董神像
 antique work practices:古董工作实践
 the kitchen had an antique cooker:厨房有一个古董炊具
-sanding will change the lustre of the sanded spot, especially if the finish has been antiqued:sanding会改变打磨点的光泽，特别是如果饰面已经过仿古
+sanding will change the lustre of the sanded spot, especially if the finish has been antiqued:打磨会改变打磨点的光泽，特别是如果饰面经过仿古处理
 they went antiquing almost every weekend:他们几乎每个周末都去古董
 
 a scientific procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact:用于发现、检验假设或证明已知事实的科学程序
@@ -382,13 +380,12 @@ perform a scientific procedure, especially in a laboratory, to determine somethi
 try out new ideas or methods:尝试新的想法或方法
 experiment |ɪkˈspɛrɪm(ə)nt| Noun/Verb/:实验,做实验,试验,尝试
 a laboratory which carried out experiments on pigs:一个对猪进行实验的实验室
-the farm is an ongoing experiment in sustainable living:thefarm是一项正在进行的可持续生活实验
-:
+the farm is an ongoing experiment in sustainable living:农场是可持续生活的持续实验
 the designers experimented with new ideas in lighting:设计师们尝试了新的照明理念
 
 an area of open land, especially one planted with crops or pasture, typically bounded by hedges or fences:一片开阔的土地，尤其是种植农作物或牧场的土地，通常以树篱或栅栏为界
 a piece of land used for a particular purpose, especially an area marked out for a game or sport:一块用于特定目的的土地，尤其是划定用于比赛或运动的区域
-fielders collectively, or the manner in which they are spread over the pitch:fielders集体，或他们在球场上的分布方式
+fielders collectively, or the manner in which they are spread over the pitch:守场员集体，或他们在球场上的分布方式
 a fielder.:外野手。
 a large area of land or water completely covered in a particular substance, especially snow or ice:大面积的土地或水域完全被某种物质所覆盖，尤其是雪或冰
 an area rich in a natural product, typically oil or gas:富含天然产品的地区，通常是石油或天然气
@@ -406,14 +403,14 @@ the region in which a particular condition prevails, especially one in which a f
 the force exerted or potentially exerted in a field:在场中施加或可能施加的力
 a system subject to two binary operations analogous to those for the multiplication and addition of real numbers, and having similar commutative and distributive laws.:一个系统受到两个二进制运算的影响，类似于实数的乘法和加法运算，并且具有相似的交换律和分配律。
 attempt to catch or stop the ball and return it after it has been hit by the batter, thereby preventing runs being scored or base runners advancing.:试图接住或停止击球后将球送回，从而防止得分或跑垒员前进。
-catch or stop (the ball) and return it:catchorstop（球）并返回
+catch or stop (the ball) and return it:接住或停止（球）并将其返回
 send out (a team or individual) to play in a game:派出（团队或个人）参加比赛
 (of a political party) put up (a candidate) to stand in an election:（政党的）提出（候选人）参加选举
-deploy (an army):deploy（一支军队）
-deal with (a difficult question, phone call, etc.).:deal处理（难题、电话等）。
+deploy (an army):部署（军队）
+deal with (a difficult question, phone call, etc.).:处理（难题、电话等）。
 carried out or working in the natural environment, rather than in a laboratory or office:在自然环境中进行或工作，而不是在实验室或办公室
 (of military equipment) light and mobile for use on campaign:（军事装备）轻型和移动式，用于战役
-used in names of animals or plants found in the open country, rather than among buildings or as cultivated varieties, e.g.: field mouse.:用于在开阔地带发现的动物或植物的名称，而不是在建筑物中或作为栽培品种，例如
+used in names of animals or plants found in the open country, rather than among buildings or as cultivated varieties, e.g.:用于在野外发现的动物或植物的名称，而不是在建筑物之间或作为栽培品种，例如
 denoting a game played outdoors on a marked field.:表示在户外标记的场地上进行的游戏。
 field |fiːld| Adjective/Noun/Verb/:场地,选派,领域,场
 a wheat field:一片麦田
@@ -422,21 +419,21 @@ he sees the ball early and strokes it through the gap in the field:他很早就�
 an ice field:an冰原
 a gas field:a气田
 a field of battle:战场
-many a bloody field was to be fought:many一场血腥的战场要打
+many a bloody field was to be fought:许多血腥的战场要打
 we talked to professionals in various fields:我们与各个领域的专业人士进行了交谈
-he destroyed the rest of the field with a devastating injection of speed:he以毁灭性的速度摧毁了场地的其余部分
+he destroyed the rest of the field with a devastating injection of speed:他以毁灭性的速度摧毁了场地的其余部分
 fifty white stars on a blue field:50颗白色星星在蓝色的田野上
 the variation in the strength of the field:场强的变化
 his swinging bunt was fielded by the Chicago catcher:他的短打被芝加哥接球手击中
-Leeds fielded a team of youngsters:Leeds派出了一队年轻人
+Leeds fielded a team of youngsters:利兹队派出了一群年轻人
 the Ecology party fielded 109 candidates:生态党派出109名候选人
-Russia was committed to fielding 800,000 men:Russia承诺派出800,000名士兵
-field observations and interviews:field观察和采访
+Russia was committed to fielding 800,000 men:俄罗斯承诺部署 800,000 人
+field observations and interviews:实地观察和访谈
 field artillery:野战炮兵
 
 a small bag used by a woman to carry everyday personal items.:一个女人用来装日常个人物品的小包。
 a confrontation that does not lead to serious fighting, especially among soccer players.:不会导致严重战斗的对抗，尤其是在足球运动员之间。
-verbally attack or crush (a person or idea) ruthlessly and forcefully (typically used of a woman):verbally无情而有力地攻击或粉碎（一个人或一个想法）（通常用于女性）
+verbally attack or crush (a person or idea) ruthlessly and forcefully (typically used of a woman):无情而有力地口头攻击或粉碎（一个人或想法）（通常用于女性）
 handbag |ˈhan(d)baɡ| Noun/Verb/:手提包,手袋
 I saw her last week and got handbagged for 15 minutes:我上周见过她，被包了15分钟
 
@@ -464,7 +461,7 @@ rich, ripe flavours emanate from this wine:丰富、成熟的风味从这款酒�
 land ripe for development:土地成熟
 a population ripe with discontent:一个充满不满情绪的人口
 she lived to a ripe old age:她活到了高龄
-ripe females will stop and spawn with one or more males:ripe雌性将停止并与一个或多个雄性一起产卵
+ripe females will stop and spawn with one or more males:成熟的雌性会停下来与一只或多只雄性产卵
 I think my language may have been a little ripe outside the church:我觉得我的语言在教堂外可能有点成熟
 
 a ripe cheese | 成熟的奶酪,一个成熟的奶酪
@@ -476,26 +473,25 @@ a ripe cheese | 成熟的奶酪,一个成熟的奶酪
 a poor smallholder or agricultural labourer of low social status (chiefly in historical use or with reference to subsistence farming in poorer countries):社会地位低下的贫穷小农或农业劳动者（主要用于历史用途或涉及较贫穷国家的自给农业）
 an ignorant, rude, or unsophisticated person:一个无知、粗鲁或不成熟的人
 peasant |ˈpɛznt| Noun/:农民,农夫
-peasants left the farms to work in industry:peasants离开农场从事工业工作
+peasants left the farms to work in industry:农民离开农场从事工业工作
 ‘That is a civilized drink, you peasant’:‘这是文明的饮料，你这个农民’
 
 the sport of competing in track and field events, including running races and various competitions in jumping and throwing.:田径比赛项目，包括跑步比赛和各种跳跃、投掷比赛。
 physical sports and games of any kind.:体育运动和任何类型的游戏。
 athletics |aθˈlɛtɪks| Noun/:竞技,田径,竞技体育
-:
 
-find unexpectedly or during a search:find意外或在搜索过程中
-become aware of (a fact or situation):become意识到（一个事实或情况）
+find unexpectedly or during a search:意外发现或在搜索过程中发现
+become aware of (a fact or situation):意识到（事实或情况）
 be the first to find or observe (a place, substance, or scientific phenomenon):成为第一个发现或观察（一个地方、物质或科学现象）的人
 show interest in (an activity or subject) for the first time:
 be the first to recognize the potential of (an actor or performer):成为第一个认识到（演员或表演者）潜力的人
 divulge (a secret):泄露（秘密）
 disclose the identity of (someone):公开（某人）的身份
-display (a quality or feeling):display（一种品质或感觉）
+display (a quality or feeling):显示（质量或感觉）
 discover |dɪˈskʌvə| Verb/:发现,探索
 firemen discovered a body in the debris:firemen在废墟中发现了一具尸体
 the courage to discover the truth and possibly be disappointed:发现真相但可能会失望的勇气
-Fleming discovered penicillin early in the twentieth century:Fleming在二十世纪初发现了青霉素
+Fleming discovered penicillin early in the twentieth century:弗莱明在二十世纪初发现了青霉素
 a teenager who has recently discovered fashion:一个最近发现时尚的少年
 I discovered the band back in the mid 70s:我在70年代中期发现了这个乐队
 they contain some secrets which Time will discover:它们包含一些时间会发现的秘密

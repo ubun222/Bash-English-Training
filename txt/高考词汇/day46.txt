@@ -49,20 +49,20 @@ lying towards, near, or facing the south:朝南、靠近或朝南躺着
 (of a wind) blowing from the south.:（风）从南方吹来。
 of or denoting the southern part of an area, city, or country or its inhabitants:of或表示一个地区、城市或国家或其居民的南部
 to or towards the south:to或向南
-below (a particular amount, cost, etc.):below（特定金额、成本等）
+below (a particular amount, cost, etc.):以下（特定数量、成本等）
 move towards the south:向南移动
 (of a celestial object) cross the meridian.:（天体）过经。
 south |saʊθ| Adjective/Adverb/Noun/Verb/:南,南方的,朝南,南方
 the breeze came from the south:微风来自南方
 he was staying in the south of France:他住在法国南部
 his stock acquired a reputation for excellence, especially in the midlands and the south:his的股票获得了卓越的声誉，尤其是在中部和南部
-Paul grew up in the South in a Southern Baptist church:Paul在南方的一个美南浸信会教堂长大
+Paul grew up in the South in a Southern Baptist church:保罗在南方浸信会教堂长大
 if the South joins in accepting global environmental standards, the North will help the South to develop economically:如果南方加入接受全球环境标准，北方将帮助南方经济发展
 South's hand did not look right for a rebid in no trumps:South的牌看起来不适合在没有王牌的情况下再叫
 the south coast:南海岸
 South America:南美
 they journeyed south along the valley:他们沿着山谷向南行驶
-media spending last year was south of $1 million:media去年的支出为100万美元以南
+media spending last year was south of $1 million:去年的媒体支出低于 100 万美元
 the wind southed a point or two:风向南一两点
 
 able to move or be moved freely or easily:能够自由或轻松地移动或移动
@@ -82,7 +82,7 @@ a mobile library visits once a fortnight:a移动图书馆每两周访问一次
 at first the regiment's role was to act as a mobile reserve:起初该团的作用是充当机动预备队
 the next generation of mobile networks:下一代移动网络
 an increasingly mobile society:一个日益流动的社会
-brightly coloured mobiles rotated from the ceiling:brightlycolouredmobiles从天花板旋转
+brightly coloured mobiles rotated from the ceiling:从天花板上旋转的色彩鲜艳的手机
 we telephoned from our mobile to theirs:we用我们的手机给他们打电话
 the biggest growth area in games right now is in mobile:目前游戏中最大的增长领域是移动
 
@@ -102,14 +102,14 @@ out of doors | 户外,在门外
 
 a number of connected items or names written or printed consecutively, typically one below the other:一些连续书写或打印的相关项目或名称，通常一个在另一个之下
 a formal structure analogous to a list, by which items of data can be stored or processed in a definite order.:一种类似于列表的形式结构，通过它可以按确定的顺序存储或处理数据项。
-palisades enclosing an area for a tournament.:palisades围成一个锦标赛区域。
+palisades enclosing an area for a tournament.:围绕比赛区域的栅栏。
 the scene of a contest or combat.:比赛或战斗的场景。
 a selvedge of a piece of fabric.:一块布边。
 make a list of:列出清单
 include or enter in a list:include或输入列表
 be on a list of products at (a specified price):be在（指定价格）的产品列表中
-give (a building, company, etc.) listed status.:give（建筑物、公司等）列出状态。
-enlist for military service:enlist服兵役
+give (a building, company, etc.) listed status.:赋予（建筑物、公司等）上市地位。
+enlist for military service:应征入伍
 (of a ship) lean over to one side, typically because of a leak or unbalanced cargo:（船舶）向一侧倾斜，通常是因为泄漏或货物不平衡
 an instance of a ship listing to one side.:向一侧列出的船舶实例。
 want, like:想要，喜欢
@@ -118,7 +118,7 @@ list |lɪst| Noun/Verb/:列表,列出,清单
 consult the list of drugs on page 326:查阅第326页的药物清单
 I have listed four reasons below:我在下面列出了四个原因
 local offices are listed in the phone book:本地办事处列在电话簿中
-the bottom-of-the-line Mercedes lists for $52,050:thebottom-of-the-lineMercedes售价52,050美元
+the bottom-of-the-line Mercedes lists for $52,050:最底层的梅赛德斯标价 52,050 美元
 I listed myself for a soldier:我把自己列为军人
 the ship was listing badly:这艘船严重挂牌
 I have little list to write:我没有什么要写的清单
@@ -127,11 +127,11 @@ a telephone device transmitting and receiving a visual image as well as sound.:�
 videophone |ˈvɪdɪə(ʊ)fəʊn| Noun/:可视电话,视频电话
 
 containing nothing, not filled or occupied:不包含任何内容，未填充或占用
-(of a set) containing no members or elements.:(ofaset)不包含任何成员或元素。
+(of a set) containing no members or elements.:（集合的）不包含任何成员或元素。
 (of words or a gesture) lacking meaning or sincerity:（词或手势）缺乏意义或诚意
 having no value or purpose:没有价值或目的
-remove all the contents of (a container):remove（一个容器）的所有内容
-remove (the contents) from a container:remove（内容）从容器中
+remove all the contents of (a container):删除（容器）的所有内容
+remove (the contents) from a container:从容器中取出（内容物）
 (of a place) be vacated by people in it:（一个地方）被里面的人腾空
 (of a river) flow into (the sea or a lake):（河流的）流入（大海或湖泊）
 a bottle or glass left empty of its contents:一个瓶子或玻璃杯里面的东西是空的
@@ -192,7 +192,7 @@ transparent blue water:透明蓝水
 the residents will see through any transparent attempt to buy their votes:居民将看穿任何透明的购买选票的企图
 you'd be no good at poker—you're too transparent:你不会打牌——你太透明了
 if you had transparent government procurement, corruption would go away:如果你有透明的政府采购，腐败就会消失
-CFCs and water vapour are virtually transparent to incoming short-wave solar radiation:CFCs和水蒸气对入射的短波太阳辐射几乎是透明的
+CFCs and water vapour are virtually transparent to incoming short-wave solar radiation:CFC 和水蒸气对入射的短波太阳辐射几乎是透明的
 
 accept or yield to a superior force or to the authority or will of another person:接受或屈服于上级力量或他人的权威或意志
 agree to refer a matter to a third party for decision or adjudication:同意将事项提交第三方决定或裁决
@@ -222,14 +222,14 @@ what exactly are you looking for?:你到底在找什么？
 
 unfasten, untie, or loosen (something):解开、解开或松开（某事）
 cancel or reverse the effects or results of (a previous action or measure):取消或逆转（先前的行动或措施）的影响或结果
-cancel (the last command executed by a computer):cancel（计算机执行的最后一条命令）
+cancel (the last command executed by a computer):取消（计算机执行的最后一条命令）
 cause the downfall or ruin of:导致
 a feature of a computer program that allows a user to cancel or reverse the last command executed:计算机程序的一项功能，允许用户取消或撤销上次执行的命令
 undo |ʌnˈdɪd| Noun/Verb/:撤消,撤销
 the knot was difficult to undo:这个结很难解开
 there wasn't any way Evelyn could undo the damage:伊芙琳无法挽回伤害
 you can frequently undo the error if you notice it in time:如果您及时发现错误，您可以经常撤消错误
-Iago's hatred of women undoes him:Iago对女性的仇恨使他失去了信心
+Iago's hatred of women undoes him:伊阿古对女人的仇恨摧毁了他
 
 noticeably happy and optimistic:明显快乐和乐观
 causing happiness by its nature or appearance:从本质或外表上引起幸福
@@ -252,7 +252,7 @@ disaster |dɪˈzɑːstə| Noun/:灾难,灾害,在
 159 people died in the disaster:159人在灾难中丧生
 a disaster movie:一部灾难片
 a string of personal disasters:一系列个人灾难
-lunch had turned out to be a total disaster:lunch原来是一场彻头彻尾的灾难
+lunch had turned out to be a total disaster:午餐结果完全是一场灾难
 
 done, produced, or occurring every day or every weekday:每天或每个工作日完成、产生或发生
 relating to the period of a single day:关于一天的时间段
@@ -262,7 +262,7 @@ a woman who is employed to clean someone else's house each day.:每天受雇打�
 the first prints from cinematographic takes, the rushes:电影拍摄的第一张照片，灯芯草
 daily |ˈdeɪli| Adjective/Adverb/Noun/:日常的,每天,每日,日报,日常
 a daily newspaper:一份日报
-boats can be hired for a daily rate:boats可以按日租用
+boats can be hired for a daily rate:可以按日租用船只
 the museum is open daily:博物馆每天开放
 the trial was reported in all the popular dailies:所有流行的日报都报道了审判
 as a co-producer he has to view the dailies:作为联合制片人，他必须查看样片
@@ -279,7 +279,7 @@ expressing gratitude or acknowledgement for something:对某事表示感谢或�
 cheers |ˈtʃɪəz| Interjection/:干杯,欢呼
 ‘Cheers,’ she said, raising her glass:“干杯，”她举起酒杯说
 ‘Cheers, Jack, see you later.’:‘干杯，杰克，待会见。’
-Billy tossed him the key. ‘Cheers, pal.’:Billy把钥匙扔给他。
+Billy tossed him the key. ‘Cheers, pal.’:比利把钥匙扔给他。 “干杯，伙计。”
 
 each of the four divisions of the year (spring, summer, autumn, and winter) marked by particular weather patterns and daylight hours, resulting from the earth's changing position with regard to the sun.:一年中的四个部分（春季、夏季、秋季和冬季）中的每一个都以特定的天气模式和白天时间为标志，这是由于地球相对于太阳的位置变化造成的。
 a period of the year characterized by a particular climatic feature or marked by a particular activity, event, or festivity:一年中以特定气候特征为特征或以特定活动、事件或节日为标志的时期
@@ -292,7 +292,7 @@ a set or sequence of related television programmes, a series:一组或一系列�
 a period when a female mammal is ready to mate:雌性哺乳动物准备交配的时期
 add salt, herbs, pepper, or other spices to (food):向（食物）中添加盐、香草、胡椒或其他香料
 add a quality or feature to (something), especially so as to make it more lively or exciting:为（某物）添加品质或特征，尤其是为了使它更生动或令人兴奋
-make (wood) suitable for use as timber by adjusting its moisture content to that of the environment in which it will be used:make（木材）通过将其水分含量调整到使用环境的水分含量而适合用作木材
+make (wood) suitable for use as timber by adjusting its moisture content to that of the environment in which it will be used:使（木头）通过调整其水分含量以适应其使用环境的水分含量而适合用作木材
 season |ˈsiːzn| Noun/Verb/:季节,调味,季,赛季
 the rainy season:雨季
 the English cricket season is almost upon us:英国板球赛季快到了
@@ -305,8 +305,8 @@ season the soup to taste with salt and pepper:用盐和胡椒调味汤
 his conversation is seasoned liberally with exclamation points and punch lines:他的谈话充满了感叹号和妙语
 I collect and season most of my wood:我收集并调味我的大部分木材
 
-Of food or drink: skilfully, properly, or thoroughly enhanced with seasoning, giving a good flavour.:食物或饮料
-Of a material: fully matured or prepared for use, especially (of timber) thoroughly dried and hardened.:完全成熟或准备使用的材料，尤其是（木材）彻底干燥和硬化的。
+Of food or drink:食物或饮料
+Of a material:材质的
 Having extensive experience in a particular activity or occupation, well-practised, much experienced.:对某项活动或职业有丰富的经验，训练有素，经验丰富。
 well-seasoned Adjective/:经验丰富的,熟透的
 
@@ -345,7 +345,7 @@ the car industry:汽车行业
 the Shakespeare industry:莎士比亚产业
 the kitchen became a hive of industry:厨房成为工业的蜂巢
 
-in, at, or to that place or position:in,at,ortothatplaceorposition
+in, at, or to that place or position:在那个地方或位置，在那个地方或位置
 used when gesturing to indicate the place intended:用手势表示预定地点
 at that point (in speech, performance, writing, etc.):那时（在演讲、表演、写作等方面）
 in that respect, on that issue:在这方面，关于那个问题
@@ -379,7 +379,7 @@ there again | 又来了,又在那里
 
 the scientific study of the physiology, structure, genetics, ecology, distribution, classification, and economic importance of plants.:植物的生理学、结构、遗传学、生态学、分布、分类和经济重要性的科学研究。
 the plant life of a particular region, habitat, or geological period:特定地区、栖息地或地质时期的植物生命
-merino wool, especially from Australia.:merino羊毛，尤其是来自澳大利亚的羊毛。
+merino wool, especially from Australia.:美利奴羊毛，特别是来自澳大利亚。
 botany |ˈbɒtəni| Noun/:,植物
 the botany of North America:北美植物学
 
@@ -387,10 +387,10 @@ it is unfortunate that:不幸的是
 unfortunately |ʌnˈfɔːtʃənətli| Adverb/:很遗憾,不幸,可惜,不幸的是
 unfortunately, we do not have the time to interview every applicant:不幸的是，我们没有时间面试每个申请人
 
-obtain or secure (something wanted or desirable):obtain或secure（想要或想要的东西）
+obtain or secure (something wanted or desirable):获得或获得（想要或想要的东西）
 benefit:好处
 win over to one's interest or views:赢得一个人的兴趣或观点
-reach or arrive at (a destination):reach或到达（目的地）
+reach or arrive at (a destination):到达或到达（目的地）
 increase the amount or rate of (something, typically weight or speed):增加（某事，通常是重量或速度）的数量或速度
 increase in value:增值
 (of a clock or watch) become fast by (a specific amount of time):（时钟或手表）变快（特定时间）
@@ -399,7 +399,7 @@ a thing that is achieved or acquired:实现或获得的东西
 the factor by which power or voltage is increased in an amplifier or other electronic device, usually expressed as a logarithm:放大器或其他电子设备中功率或电压增加的因素，通常以对数表示
 gain |ɡeɪn| Noun/Verb/:获得,增益
 we gained entry to the car in five seconds:我们在五秒钟内进入汽车
-managers would gain from greater openness:managers将受益于更大的开放性
+managers would gain from greater openness:管理者将从更大的开放中获益
 to gratify the queen, and gain the court:取悦王后，获得宫廷
 we gained the ridge:我们获得了山脊
 I have gained weight over the years:我这些年来体重增加了
@@ -419,14 +419,14 @@ at the same time:同时
 without interruption, continuously:不间断，连续
 self-confident, level-headed, or well organized:自信、头脑冷静或组织良好
 together |təˈɡɛðə| Adjective/Adverb/:一起,办事牢靠的,共同,大家
-together they climbed the dark stairs:together他们爬上了黑暗的楼梯
+together they climbed the dark stairs:他们一起爬上黑暗的楼梯
 she held her hands together as if she was praying:她双手合十，仿佛在祈祷
 taken together, these measures would significantly improve people's chances of surviving a coach crash:综合起来，这些措施将显着提高人们在车祸中幸存的机会
 the experience has brought us together:经验让我们走到了一起
 they split up after ten years together:他们在一起十年后分手了
 he won the confidence of the government and the rebels, but could not bring the two sides together:他赢得了政府和叛军的信任，但无法让双方走到一起
 they both spoke together:他们俩一起说话
-she sits for hours together in the lotus position:she以莲花姿势一起坐了几个小时
+she sits for hours together in the lotus position:她以莲花姿势一起坐了几个小时
 she looks a very together young woman:她看起来是个非常合得来的年轻女人
 
 together with | 和...一起,连同,与
@@ -441,22 +441,22 @@ go to see (someone or something) for a specific purpose, such as to give or rece
 chat:聊天
 access and view (a website or web page):访问和查看（网站或网页）
 (chiefly in biblical use) (of God) come to (a person or place) in order to bring comfort or salvation:（主要在圣经中使用）（上帝的）来到（一个人或一个地方）以带来安慰或救赎
-inflict (something harmful or unpleasant) on someone:inflict（有害或不愉快的）某人
+inflict (something harmful or unpleasant) on someone:对某人造成（有害或不愉快的事情）
 (of something harmful or unpleasant) afflict (someone):（有害或不愉快的）折磨（某人）
-punish (a person or wrongful act):punish（一个人或不法行为）
+punish (a person or wrongful act):惩罚（某人或不法行为）
 an act of going to see a person or place as a guest, tourist, etc.:作为客人、游客等去见某人或某地的行为。
 a temporary stay with a person or at a place:与某人或某地的临时逗留
 a chat:一个聊天
 visit |ˈvɪzɪt| Noun/Verb/:访问,参观
 I came to visit my grandmother:我来看望祖母
 they would like to visit Oxford:他们想去牛津
-inspectors visit all the hotels:inspector参观所有酒店
+inspectors visit all the hotels:检查员走访所有酒店
 there was nothing to do but visit with one another:没什么可做的，只能互相拜访
 high entertainment value is one good reason to visit the site's ultra-cool home page:高娱乐价值是访问该网站超酷主页的好理由之一
 He shall visit earth in mercy:他将仁慈地访问地球
 the mockery visited upon him by his schoolmates:同学们对他的嘲讽
 they were visited with epidemics of a strange disease:他们被一种奇怪的流行病所拜访
-offences were visited with the loss of eyes or ears:offences因失去眼睛或耳朵而被访问
+offences were visited with the loss of eyes or ears:在失去眼睛或耳朵的情况下对罪行进行了调查
 I'll pay him a visit soon:我马上去拜访他
 she was on a visit to the United States:她正在美国访问
 a telephone visit:电话拜访

@@ -45,10 +45,10 @@ order about						支使
 support or actively encourage (a cause, venture, etc.), further the progress of:支持或积极鼓励（事业、创业等），进一步推进
 give publicity to (a product, organization, or venture) so as to increase sales or public awareness:宣传（产品、组织或企业）以提高销量或提高公众知名度
 attempt to ensure the passing of (a private Act of Parliament):试图确保通过（议会的私人法案）
-raise (someone) to a higher position or rank:raise（某人）到更高的职位或等级
-transfer (a sports team) to a higher division of a league:transfer（一个运动队）到一个联赛的更高级别
-exchange (a pawn) for a more powerful piece of the same colour, typically a queen, when it reaches the opponent's end of the board.:exchange（棋子）当它到达对手的棋盘末端时，换取更强大的相同颜色的棋子，通常是皇后。
-enable (a relatively low card) to win a trick by playing off the higher ones first:enable（一张相对较低的牌）通过先打出较高的牌来赢得一招
+raise (someone) to a higher position or rank:将（某人）提升到更高的职位或级别
+transfer (a sports team) to a higher division of a league:将（运动队）转移到联赛的更高级别
+exchange (a pawn) for a more powerful piece of the same colour, typically a queen, when it reaches the opponent's end of the board.:当棋子到达对手的棋盘末端时，将（棋子）换成更强大的同色棋子，通常是皇后。
+enable (a relatively low card) to win a trick by playing off the higher ones first:使（一张相对较低的牌）通过先打出较高的牌来赢得一墩牌
 (of an additive) act as a promoter of (a catalyst).:（添加剂）充当（催化剂）的促进剂。
 promote |prəˈməʊt| Verb/:推动,促进,推广
 some regulation is still required to promote competition:仍然需要一些监管来促进竞争
@@ -56,7 +56,7 @@ they are using famous personalities to promote the library nationally:他们正�
 the government of the day would not be promoting the bill:当时的政府不会宣传该法案
 she was promoted to General Manager:她晋升为总经理
 they were promoted from the Third Division last season:他们上赛季从三级联赛晋级
-East will win with the ace and lead a heart, promoting the ♠9:East将赢得ace并引导心脏，推动♠
+East will win with the ace and lead a heart, promoting the ♠9:东将以王牌取胜，带领一颗心，推动♠9
 
 a group of people who work on and operate a ship, aircraft, etc.:一群在船舶、飞机等上工作和操作的人。
 a group of people working on a ship, aircraft, etc. other than the officers:除军官以外在船舶、飞机等上工作的一群人
@@ -94,7 +94,7 @@ the future, especially the near future:未来，尤其是不久的将来
 tomorrow |tʊˈmɒrəʊ| Adverb/Noun/:,明日,未来
 I'll see you tomorrow:明天见
 I have work to do tomorrow morning:我明天早上有工作要做
-fickle buyers who may be gone tomorrow:fickle买家明天可能会离开
+fickle buyers who may be gone tomorrow:善变的买家明天可能就会离开
 tomorrow is going to be a special day:明天将是一个特殊的日子
 today's engineers are tomorrow's buyers:今天的工程师是明天的买家
 
@@ -105,15 +105,15 @@ a brief experience of something, conveying its basic character:对某事的简�
 a person's liking for particular flavours:一个人对特定口味的喜好
 a person's tendency to like or be interested in something:一个人喜欢或对某事感兴趣的倾向
 the ability to discern what is of good quality or of a high aesthetic standard:辨别优质或高审美标准的能力
-conformity or failure to conform with generally held views concerning what is offensive or acceptable:conformity或不符合普遍持有的关于令人反感或可接受的观点
-perceive or experience the flavour of:perceive或体验一下味道
+conformity or failure to conform with generally held views concerning what is offensive or acceptable:遵守或不遵守关于什么是令人反感或可接受的普遍观点
+perceive or experience the flavour of:感知或体验的味道
 have a specified flavour:有特定的风味
 sample the flavour of (food or drink) by taking it into the mouth:品尝（食物或饮料）的味道，含在嘴里
 eat or drink a small portion of:吃或喝一小部分
 have experience of:有经验
 taste |teɪst| Noun/Verb/:品尝,味道,味,品味
 the wine had a fruity taste:酒有果味
-birds do not have a highly developed sense of taste:birds没有高度发达的味觉
+birds do not have a highly developed sense of taste:鸟类没有高度发达的味觉
 try a taste of cheese:尝尝奶酪
 it was his first taste of serious action:这是他第一次尝试严肃的行动
 this pudding is too sweet for my taste:这个布丁对我来说太甜了
@@ -162,9 +162,9 @@ a sum of money paid as bail.:一笔作为保释金支付的款项。
 a pattern in which bricks are laid in order to ensure the strength of the resulting structure:一种铺设砖块以确保最终结构强度的模式
 join or be joined securely to something else, especially by means of an adhesive substance, heat, or pressure:join或被牢固地连接到其他东西上，尤其是通过粘性物质、热或压力
 establish a relationship or link with someone based on shared feelings, interests, or experiences:基于共同的感受、兴趣或经历与某人建立关系或联系
-join or be joined by a chemical bond:join或通过化学键连接
+join or be joined by a chemical bond:通过化学键连接或被连接
 lay (bricks) in an overlapping pattern so as to form a strong structure.:lay（砖）以重叠的方式形成一个坚固的结构。
-place (dutiable goods) in bond:place（应税货物）在债券
+place (dutiable goods) in bond:将（应税货物）置于债券中
 bond |bɒnd| Noun/Verb/:纽带,债券,键
 there was a bond of understanding between them:他们之间有一种默契
 there was no effective bond between the concrete and the steel:混凝土与钢筋之间没有有效结合
@@ -172,7 +172,7 @@ each carbon atom uses three electrons to form bonds with the adjacent atoms:每�
 he stooped over the trussed man and tested his bonds:他弯下身子，试探他的绳索
 English bond:英语债券
 the failure to properly bond with their children:未能与孩子建立适当的联系
-assets may have to be sold or bonded to provide cash for the payment of this tax:assets可能必须出售或保税以提供现金来支付此税款
+assets may have to be sold or bonded to provide cash for the payment of this tax:可能必须出售或抵押资产以提供现金支付此税款
 
 the front part of a person's head from the forehead to the chin, or the corresponding part in an animal:人的前额从前额到下巴的部分，或动物的相应部分
 an expression shown on the face:脸上的表情
@@ -207,7 +207,7 @@ this season's squad has a lot of old faces in it:本赛季的阵容中有很多�
 he turned to face her:他转身面对她
 the house faces due east:房子朝正东
 the men had faced about to the front:男人们正对着前方
-honesty forced her to face facts:honesty强迫她面对事实
+honesty forced her to face facts:诚实迫使她面对事实
 each defendant faced a maximum sentence of 10 years:每名被告面临最高10年的刑期
 two other large newspaper companies reported financial results that highlight the difficulties facing the industry:另外两家大型报业公司报告的财务业绩突显了该行业面临的困难
 the external basement walls were faced with granite slabs:地下室外墙采用花岗岩板
@@ -245,7 +245,7 @@ a screen of fighter aircraft or anti-aircraft artillery.:战斗机或高射炮�
 a thing that includes or contains many different elements or parts:包含或包含许多不同元素或部分的事物
 the gelatinous disc of a jellyfish, which it contracts and expands to move through the water.:水母的凝胶状圆盘，它收缩和膨胀以在水中移动。
 umbrella |ʌmˈbrɛlə| Noun/:伞,雨伞,保护伞
-Europe sought a measure of independence from the US defence umbrella:Europe寻求独立于美国国防保护伞的措施
+Europe sought a measure of independence from the US defence umbrella:欧洲寻求在一定程度上独立于美国的防御保护伞
 the umbrella body for more than 100 training organizations:100多家培训机构的总括机构
 
 an establishment for the sale of beer and other drinks, and sometimes also food, to be consumed on the premises:一个出售啤酒和其他饮料，有时还有食品的场所，在场所内消费
@@ -338,13 +338,13 @@ account for | 占,考虑到
 
 
 to the utmost or most absolute extent or degree, absolutely, completely:到最大或最绝对的程度或程度，绝对，完全
-very, really (used as an intensifier):very,really(用作增强词)
+very, really (used as an intensifier):非常，真的（用作增强剂）
 all the way:一路
 to a certain or fairly significant extent or degree, fairly:在一定或相当重要的程度上或程度，公平
 quite |kwʌɪt| Adverb/Interjection/:相当,很
 it's quite out of the question:这完全不可能
 ‘You've no intention of coming back?’ ‘I'm quite sorry, but no, I have not.’:“你不打算回来？”“我很抱歉，但不，我没有。”
-dresses quite from Port of Spain:dresses相当来自西班牙港
+dresses quite from Port of Spain:来自西班牙港的连衣裙
 it's quite warm outside:外面很暖和
 
 quite so | 这么,相当,非常
@@ -395,7 +395,7 @@ he drained his glass and replaced it on the bar:他喝光了酒杯，把它放�
 
 a person's ability to see:一个人的视觉能力
 eyesight |ˈʌɪsʌɪt| Noun/:眼力,视力
-poor eyesight ended his plans for a naval career:poor视力结束了他的海军生涯计划
+poor eyesight ended his plans for a naval career:视力不佳结束了他的海军生涯计划
 
 (of a person or part of the body) shake involuntarily, typically as a result of anxiety, excitement, or frailty:（一个人或身体的一部分）不由自主地颤抖，通常是由于焦虑、兴奋或虚弱
 (of a person's voice) sound unsteady or hesitant:（人的声音）声音不稳定或犹豫不决
@@ -404,7 +404,7 @@ be in a state of extreme apprehension:处于极度忧虑的状态
 a trembling feeling, movement, or sound:颤抖的感觉、动作或声音
 a physical or emotional condition marked by trembling.:以颤抖为特征的身体或情绪状况。
 tremble |ˈtrɛmbl| Noun/Verb/:颤抖,发抖,战栗
-Isobel was trembling with excitement:Isobel兴奋得发抖
+Isobel was trembling with excitement:伊泽贝尔激动得浑身发抖
 her voice trembled as she described how much she missed him:当她描述她多么想念他时，她的声音颤抖着
 the earth trembled beneath their feet:大地在他们脚下颤抖
 there was a slight tremble in his voice:他的声音有些颤抖
@@ -488,8 +488,8 @@ the number of elements in a finite group.:有限群中的元素个数。
 the number of rows or columns in a square matrix.:方阵中的行数或列数。
 give an authoritative instruction to do something:给出权威的指示去做某事
 continually tell someone to do things in an overbearing way:不断地告诉别人做事霸道
-command (something) to be done or (someone) to be treated in a particular way:command（某事）要完成或（某人）要以特定方式对待
-request (something) to be made, supplied, or served:request(something)tobemade,供应,或服务
+command (something) to be done or (someone) to be treated in a particular way:命令（某事）完成或（某人）以特定方式对待
+request (something) to be made, supplied, or served:要求制作、供应或送达（某物）
 arrange (something) in a methodical way:有条不紊地安排（某事）
 order |ˈɔːdə| Noun/Verb/:命令,顺序,订购,令
 I filed the cards in alphabetical order:我按字母顺序提交了卡片
@@ -511,7 +511,7 @@ the higher orders of insects:高等昆虫
 the platoon changed from drill order into PT kit:排从训练命令变成了PT套件
 she resented being ordered about:她讨厌被命令
 he ordered the anchor dropped:他下令抛锚
-my mate ordered the tickets last week:mymate上周订了票
+my mate ordered the tickets last week:我朋友上周订的票
 all entries are ordered by date:所有条目按日期排序
 
 order about | 使唤,摆布,订购,订购大约

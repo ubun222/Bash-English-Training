@@ -60,7 +60,7 @@ the old man lay propped up on cushions:老人靠在垫子上
 the old quarter of the town:老城区
 he gave his old clothes away:他把旧衣服送人了
 I wish she'd shut up—it's getting old:我希望她闭嘴——它变老了
-valuation under the old rating system was inexact:valuation在旧评级系统下不准确
+valuation under the old rating system was inexact:旧评级系统下的估值不准确
 we moved back into our old house:我们搬回了我们的老房子
 we greeted each other like old friends:我们像老朋友一样互相打招呼
 an old Etonian:一个老伊顿人
@@ -104,22 +104,22 @@ I told you, it's all right, and anyway, it was my fault:我告诉过你，没关
 ‘Poor John always enjoyed a drink. Anyway, he died last year.’:‘可怜的约翰总是喜欢喝一杯。无论如何，他去年去世了。
 nobody invited Miss Honey to sit down but she sat down anyway:没有人邀请霍尼小姐坐下，但她还是坐了下来
 
-cook (food) in hot fat or oil, typically in a shallow pan:cook（食物）在热脂肪或油中，通常在浅锅中
+cook (food) in hot fat or oil, typically in a shallow pan:用热脂肪或油烹调（食物），通常是在浅锅中
 (of food) be cooked in hot fat or oil:（食物的）在热脂肪或油中烹制
 (of a person) burn or overheat:（人的）烧伤或过热
-destroy:destroy
+destroy:破坏
 execute or be executed by electrocution:执行或被电刑
 French fries, chips.:炸薯条，薯条。
 a fried dish or meal:炒菜或饭菜
 any of various types of offal, usually eaten fried.:任何各种内脏，通常油炸食用。
 a social gathering where fried food is served:提供油炸食品的社交聚会
-young fish, especially when newly hatched.:young鱼，尤其是刚孵化的时候。
+young fish, especially when newly hatched.:幼鱼，尤其是刚孵化的。
 the young of other animals produced in large numbers, such as frogs.:其他大量繁殖的动物的幼崽，如青蛙。
 fry |frʌɪ| Noun/Verb/:炒,鱼苗,炸,油炸
 she fried a rasher of bacon, a sausage and a slice of bread:她炸了一片培根、一根香肠和一片面包
 put half a dozen steaks to fry in a pan:把半打牛排放在平底锅里煎
 with the sea and sun and wind you'll fry if you don't take care:大海，阳光，风，一不小心就炸了
-drugs fry the brain:drugs炒脑
+drugs fry the brain:毒品炸毁大脑
 would you like a fry in the morning?:早上要炸吗？
 you'll explore islands and stop for a fish fry:你将探索岛屿并停下来吃鱼
 
@@ -149,13 +149,13 @@ be in a situation where one is likely to do something:be在一个人可能会做
 be at a particular level, value, or stage:处于特定的水平、价值或阶段
 act in a specified capacity:以指定身份行事
 (of a stallion) be available for breeding.:（种马）可供繁殖。
-withstand (an experience or test) without being damaged:withstand（一种体验或测试）而不被损坏
+withstand (an experience or test) without being damaged:经得起（一次经历或考验）而不被损坏
 be able to endure or tolerate:能够忍受或容忍
 be a candidate in an election:成为选举中的候选人
 provide (food or drink) for (someone) at one's own expense:自费为（某人）提供（食物或饮料）
 act as umpire in a cricket match.:在板球比赛中担任裁判。
 stand |stʊd| Noun/Verb/:站立,立场,站,支架
-Lionel stood in the doorway:Lionel站在门口
+Lionel stood in the doorway:莱昂内尔站在门口
 he pushed back his chair and stood:他推开椅子站了起来
 she stood aside to let them enter:她站在一旁让他们进来
 don't stand the plant in direct sunlight:不要让植物在阳光直射下
@@ -163,13 +163,13 @@ the town stood on a hill:小镇矗立在一座小山上
 after the storms only one house was left standing:暴风雨过后，只剩下一所房子
 my decision stands:我的决定不变
 the train now standing at platform 3:火车现在站在3号站台
-soil where water stands in winter:soil冬天有水的地方
+soil where water stands in winter:冬天有水的土壤
 pour boiling water over the fruit and leave it to stand for 5 minutes:把开水倒在水果上，静置5分钟
 the ship was standing north:船在北边
 since mother's death the house had stood empty:自从母亲去世后，房子一直空着
-students should consider where they stand on this issue:students应该考虑他们在这个问题上的立场
-Sampson was a small man, standing 5 ft 4 in tall:Sampson是个矮个子，身高5英尺4英寸
-investors stood to lose heavily:investors将遭受重创
+students should consider where they stand on this issue:学生应该考虑他们在这个问题上的立场
+Sampson was a small man, standing 5 ft 4 in tall:桑普森个子矮小，身高 5 英尺 4 英寸
+investors stood to lose heavily:投资者将损失惨重
 the budget stood at £2,000 million per annum:预算为每年20亿英镑
 he stood security for the government's borrowings:他为政府借款提供担保
 small, stable boats that could stand the punishment of heavy seas:小型稳定的船，可以经受巨浪的惩罚
@@ -191,7 +191,6 @@ stand for | 代表,表示,为
 
 an island country and continent in the southern hemisphere, in the south-western Pacific Ocean, a member state of the Commonwealth of Nations, population 28,500,000 (estimated 2015), capital, Canberra, official language, English.:南半球的一个岛国和大陆，在西南太平洋，英联邦成员国，人口28,500,000（2015年估计），首都堪培拉，官方语言，英语。
 Australia |ɒˈstreɪlɪə| Noun/:澳大利亚,澳洲
-:
 
 return to a normal state of health, mind, or strength:恢复正常的健康、精神或力量状态
 (of a person) be well again:（一个人的）又好起来了
@@ -199,17 +198,17 @@ find or regain possession of (something stolen or lost):找到或重新拥有（
 regain control of (oneself or of a physical or mental state):
 regain or secure (money spent or lost or compensation) by legal process or the making of profits:通过法律程序或盈利获得或确保（花费或损失的钱或补偿）
 make up for (a loss in position or time):弥补（位置或时间的损失）
-remove or extract (an energy source or industrial chemical) for use, reuse, or waste treatment:remove或提取（能源或工业化学品）以供使用、再利用或废物处理
+remove or extract (an energy source or industrial chemical) for use, reuse, or waste treatment:移除或提取（能源或工业化学品）以供使用、再利用或废物处理
 a defined position of a firearm forming part of a military drill:构成军事演习一部分的枪支的定义位置
 recover |rɪˈkʌvə| Noun/Verb/:恢复,回收,复原
-Neil is still recovering from shock:Neil仍在从震惊中恢复过来
+Neil is still recovering from shock:尼尔仍在从震惊中恢复过来
 you'll be fully recovered before you know it:你会在不知不觉中完全康复
-police recovered a stolen video:police找回了一段被盗的视频
+police recovered a stolen video:警方找到了一段被盗的视频
 he recovered his balance and sped on:他恢复平衡并加速前进
-many companies recovered their costs within six months:many公司在六个月内收回成本
+many companies recovered their costs within six months:许多公司在六个月内收回成本
 the French recovered the lead:法国人恢复领先
 only 13 per cent of CFC refrigerant was being recovered from domestic fridges:只有13%的CFC制冷剂是从家用冰箱中回收的
-bring the firelock to the recover:bringthefirelocktotherecovery
+bring the firelock to the recover:把火锁带到恢复
 
 a unit of liquid or dry capacity equal to one eighth of a gallon, in Britain equal to 0.568 litre and in the US equal to 0.473 litre (for liquid measure) or 0.551 litre (for dry measure).:液体或干容量单位等于八分之一加仑，在英国等于0.568升，在美国等于0.473升（液体计量）或0.551升（干计量）。
 a pint of beer:一品脱啤酒
@@ -225,10 +224,10 @@ used figuratively to refer to a rapacious, ferocious, or voracious person or thi
 a man who habitually seduces women:一个习惯性勾引女人的男人
 a gay man who habitually seduces men or adopts an active role with a partner.:一个习惯性勾引男人或与伴侣一起扮演积极角色的男同性恋者。
 a harsh or out-of-tune effect produced when playing particular notes or intervals on a musical instrument, caused either by the instrument's construction or by divergence from equal temperament.:在乐器上演奏特定音符或音程时产生的刺耳或走调效果，由乐器的构造或与等律的分歧引起。
-devour (food) greedily:devour（食物）贪婪地
+devour (food) greedily:贪婪地吞食（食物）
 wolf |wʊlvz| Noun/Verb/:狼,狼吞虎咽,灰
 he calls the media ravening wolves:他称媒体为掠食之狼
-he's the archetypal wolf in Armani threads:he是Armani主题中的原型狼
+he's the archetypal wolf in Armani threads:他是阿玛尼系列中的典型狼
 he wolfed down his breakfast:他狼吞虎咽地吃早餐
 
 an animal, as distinct from a human being:一种动物，不同于人类
@@ -243,12 +242,12 @@ as fellow creatures on this planet, animals deserve respect:作为这个星球�
 a creature from outer space:来自外太空的生物
 you heartless creature!:你这个无情的家伙！
 the village teacher was expected to be the creature of his employer:村里的老师应该是他雇主的产物
-dress, jewels, and other transitory creatures:dress、珠宝和其他短暂的生物
+dress, jewels, and other transitory creatures:衣服、珠宝和其他短暂的生物
 
 a set of words that is complete in itself, typically containing a subject and predicate, conveying a statement, question, exclamation, or command, and consisting of a main clause and sometimes one or more subordinate clauses.:一组本身完整的词，通常包含一个主语和谓语，传达一个陈述、问题、感叹词或命令，并由一个主句和一个或多个从句组成。
 a series of signs or symbols expressing a proposition in an artificial or logical language.:一系列用人工或逻辑语言表达命题的符号或符号。
 the punishment assigned to a defendant found guilty by a court, or fixed by law for a particular offence:对被法院判定有罪或由法律针对特定罪行确定的被告的惩罚
-declare the punishment decided for (an offender):declare对（罪犯）的处罚决定
+declare the punishment decided for (an offender):宣布对（犯罪者）的处罚决定
 sentence |ˈsɛnt(ə)ns| Noun/Verb/:句子,判决,句,判,判处
 her husband is serving a three-year sentence for fraud:她的丈夫因诈骗被判三年徒刑
 ten army officers were sentenced to life imprisonment:10名军官被判处无期徒刑
@@ -260,7 +259,7 @@ denoting someone who is homeless:表示无家可归的人
 relating to the outlook, values, or lifestyle of those young people who are perceived as composing a fashionable urban subculture:
 street |striːt| Noun/:街道,街,街头
 the narrow, winding streets of Edinburgh:爱丁堡狭窄蜿蜒的街道
-every week, fans stop me in the street:everyweek，粉丝在街上拦住我
+every week, fans stop me in the street:每个星期，粉丝都会在街上拦住我
 the street kids of the city:城市街头的孩子们
 London street style:伦敦街头风
 
@@ -279,18 +278,18 @@ a symbolic expression of the fact that two quantities are equal, an equation.:�
 equality |ɪˈkwɒlɪti| Noun/:平等,公平
 an organization aiming to promote racial equality:一个旨在促进种族平等的组织
 
-make or show a connection between:make或显示之间的联系
+make or show a connection between:建立或显示两者之间的联系
 be causally connected:有因果关系
 be connected by blood or marriage:血缘或姻缘
 have reference to, concern:有参考，关注
-feel sympathy for or identify with:feel同情或认同
+feel sympathy for or identify with:同情或认同
 give an account of, narrate:交代，叙述
 relate |rɪˈleɪt| Verb/:涉及,有关,关联,相关
 the study examines social change within the city and relates it to developments in the country as a whole:
 high unemployment is related to high crime rates:高失业率与高犯罪率有关
 he was related to my mother:他和我妈妈有关
 the new legislation related to corporate activities:与企业活动有关的新立法
-kids related to him because he was so rebellious:kids和他有关，因为他太叛逆了
+kids related to him because he was so rebellious:孩子们和他有亲戚关系，因为他太叛逆了
 various versions of the story have been related by the locals:各种版本的故事已经被当地人关联
 
 relate to |
@@ -302,7 +301,7 @@ the fact or state of being independent:独立的事实或状态
 independence |ˌɪndɪˈpɛnd(ə)ns| Noun/:独立,独立性,自主性
 Argentina gained independence from Spain in 1816:阿根廷于1816年从西班牙获得独立
 
-readily, of one's own free will:readily，出于自己的自由意志
+readily, of one's own free will:随心所欲，随心所欲
 willingly |ˈwɪlɪŋli| Adverb/:心甘情愿,甘心
 she went willingly:她心甘情愿地去了
 
@@ -325,7 +324,7 @@ these salts yield basic solutions comparable in strength with the mineral alkali
 a coarse-grained, basic, plutonic rock:a粗粒、基本、深成岩
 I learnt the basics of programming on a course:我在一门课程中学习了编程的基础知识
 people are facing a shortage of basics like flour:人们面临面粉等基本食品的短缺
-you could write your own software in the BASIC programming language:你可以用BASIC编程语言编写自己的软件
+you could write your own software in the BASIC programming language:你可以用 BASIC 编程语言编写你自己的软件
 
 basics | 基本,基础知识,基本情况
 
@@ -355,14 +354,14 @@ a conceptual area:一个概念区
 the space between the rifling grooves in a gun.:枪膛线槽之间的空间。
 put (someone or something) on land from a boat:把（某人或某物）从船上放到陆地上
 go ashore, disembark:上岸，下船
-bring (a fish) to land with a net or rod:bring（一条鱼）用网或鱼竿降落
+bring (a fish) to land with a net or rod:用网或竿把（鱼）带到岸上
 succeed in obtaining or achieving (something desirable), especially in the face of competition:
 come down through the air and rest on the ground or another surface:从空中下来，在地面或其他表面上休息
 bring (an aircraft or spacecraft) to the ground or the surface of water in a controlled way:以受控方式将（飞机或航天器）带到地面或水面
 reach the ground after falling or jumping:跌倒或跳跃后到达地面
 (of an object) come to rest after falling or being thrown:(物体的)跌倒或被抛后静止
 (of something undesirable or unexpected) arrive suddenly:（不受欢迎或意想不到的）突然到来
-inflict (a blow) on someone:inflict（打击）某人
+inflict (a blow) on someone:对某人造成（打击）
 a state of Germany or Austria.:德国或奥地利的一个州。
 land |land| Noun/Verb/:土地,降落,登陆,地,国土
 the reptiles lay their eggs on land:爬行动物在陆地上产卵
@@ -376,7 +375,7 @@ you're living in a fantasy land:你生活在一个幻想的土地上
 he landed his troops at Hastings:他在黑斯廷斯登陆
 the marines landed at a small jetty:海军陆战队在一个小码头登陆
 he landed 43 on Saturday:他周六降落43
-she landed the starring role in a new film:she在一部新电影中担任主角
+she landed the starring role in a new film:她在一部新电影中担任主角
 we will shortly be landing at Gatwick:we将很快降落在盖特威克机场
 the co-pilot landed the plane:副驾驶降落飞机
 he leapt over the fence and landed nimbly on his feet:他跳过栅栏，灵活地站起来
@@ -449,35 +448,35 @@ introduce | 介绍,介绍一下
 
 sit on and control the movement of (an animal, typically a horse):坐在上面并控制（动物，通常是马）的运动
 travel on a horse or other animal:骑马或其他动物旅行
-sit on and control (a bicycle or motorcycle):sitonandcontrol（自行车或摩托车）
+sit on and control (a bicycle or motorcycle):坐上并控制（自行车或摩托车）
 travel in (a vehicle) or on (a public transport system) as a passenger:以乘客身份乘坐（车辆）或乘坐（公共交通系统）
 go through or over (an area) on a horse, bicycle, etc.:骑马、自行车等穿过或越过（一个区域）。
 compete in (a race) on a horse, bicycle, or motorcycle:骑马、自行车或摩托车参加（比赛）
 (of a vehicle, animal, racetrack, etc.) be of a particular character for riding on or in:（车辆、动物、赛马场等）具有特定的骑乘特征
-transport (someone) in a vehicle:transport（某人）在车上
-transport (goods):transport（货物）
+transport (someone) in a vehicle:用车辆运送（某人）
+transport (goods):运输（货物）
 be carried or supported by (something moving with great momentum):被（以巨大的动力移动的东西）携带或支撑
-move so as to project or overlap:move以便投影或重叠
+move so as to project or overlap:移动以投影或重叠
 (of a vessel) sail or float:（船）航行或漂浮
 be full of or dominated by:充满或被支配
-yield to (a blow) so as to reduce its impact:yieldto（一击）以减少其影响
+yield to (a blow) so as to reduce its impact:屈服于（一击）以减少其影响
 have sex with.:与发生性关系。
 annoy, pester, or tease:惹恼、纠缠或取笑
 ride |rəʊd| Noun/Verb/:骑,短途旅程,乘车
-Jane and Rory were riding their ponies:Jane和Rory骑着他们的小马
+Jane and Rory were riding their ponies:简和罗里骑着他们的小马
 we rode on horseback:我们骑在马背上
 he rode a Harley Davidson across the United States:他骑着哈雷戴维森穿越美国
-she rides the bus across 42nd Street:she乘公共汽车穿过第42街
-ride the full length of the Ridgeway:ride整个Ridgeway
+she rides the bus across 42nd Street:她乘公共汽车穿过第42街
+ride the full length of the Ridgeway:骑行完整的 Ridgeway
 I rode a good race:我参加了一场精彩的比赛
-the Metro rode as well as some cars of twice the price:theMetro乘坐的还有一些价格翻倍的车
+the Metro rode as well as some cars of twice the price:乘坐地铁以及一些价格两倍的汽车
 the taxi driver rode Kate to the airport:出租车司机载凯特去机场
-neighbours rode loads of prickly pear to feed their animals:neighbours骑着一大堆仙人球喂他们的动物
+neighbours rode loads of prickly pear to feed their animals:邻居们骑着大量的刺梨来喂养他们的动物
 a stream of young surfers fighting the elements to ride the waves:一群年轻的冲浪者与元素搏斗，乘风破浪
 when two lithospheric plates collide, one tends to ride over the other:当两个岩石圈板块发生碰撞时，一个倾向于超越另一个
 a large cedar barque rode at anchor:a大雪松驳船停泊
 you must not think him ridden with angst:你千万不要以为他心烦意乱
-Harrison drew back his jaw as if riding the blow:Harrison缩回下巴，仿佛乘风破浪
+Harrison drew back his jaw as if riding the blow:哈里森缩回了下巴，仿佛受到了打击
 if you don't give all the kids a chance to play, the parents ride you:如果你不给所有孩子玩的机会，父母骑你
 
 ride on |
@@ -534,15 +533,15 @@ pay attention to, heed:注意，注意
 attention to or concern for something:注意或关心某事
 liking and respect, esteem:喜欢和尊重，尊重
 a steady or significant look:稳定或重要的外观
-best wishes (used to express friendliness in greetings):bestwish（用于表示友好的问候）
+best wishes (used to express friendliness in greetings):Best wishes（用于在问候中表达友好）
 regard |rɪˈɡɑːd| Noun/Verb/:看待,关注,尊重,考虑
 she regarded London as her base:她认为伦敦是她的基地
-Professor Ryker regarded him with a faint smile:Ryker教授淡淡一笑看着他
+Professor Ryker regarded him with a faint smile:莱克教授微笑着看着他
 he talk'd very wisely, but I regarded him not:他说话很聪明，但我不认为他
 if these things regarded only myself, I could stand it with composure:如果这些事情只看我自己，我可以冷静地忍受
 the court must have regard to the principle of welfare:法院必须考虑福利原则
 they hold dolphins in high regard:他们高度重视海豚
-he shifted uneasily before their clear regard:he在他们明确的注视下不安地动了动
+he shifted uneasily before their clear regard:他在他们明确的注视下不安地动了动
 give her my regards:向她问好
 
 regards |
