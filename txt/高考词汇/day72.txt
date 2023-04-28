@@ -50,10 +50,10 @@ a grade above a pass in an examination.:a成绩高于考试及格。
 acknowledgement of merit in an examination which is reflected in the marks awarded:在考试中的成绩确认，这反映在所授予的分数中
 the quality of being believed or credited:被信任或信任的质量
 good reputation:良好的声誉
-publicly acknowledge a contributor's role in the production of (something published or broadcast):publicly承认贡献者在制作（出版或广播的东西）中的作用
-ascribe (an achievement or good quality) to someone:ascribe（成就或良好品质）给某人
+publicly acknowledge a contributor's role in the production of (something published or broadcast):公开承认贡献者在制作（出版或广播的东西）中的作用
+ascribe (an achievement or good quality) to someone:将（成就或良好品质）归因于某人
 add (an amount of money) to an account:add（金额）到一个账户
-believe (something surprising or unlikely):believe（令人惊讶或不太可能）
+believe (something surprising or unlikely):相信（令人惊讶或不太可能的事情）
 credit |ˈkrɛdɪt| Noun/Verb/:信用,存入金额,贷
 I've got unlimited credit:我有无限的信用
 the bank refused to extend their credit:银行拒绝提供信贷
@@ -65,7 +65,7 @@ the fans are a credit to the club:球迷是俱乐部的功劳
 the closing credits finished rolling:收尾学分完成滚动
 a student can earn one unit of academic credit:一个学生可以获得一个学分
 the National Certificate consists of twelve credits:国家证书由十二个学分组成
-candidates will receive credit for accuracy and style:candidates将因其准确性和风格而获得荣誉
+candidates will receive credit for accuracy and style:候选人将因准确性和风格而获得学分
 the abstract philosophy of Cicero has lost its credit:西塞罗的抽象哲学失去了信誉
 John Gilpin was a citizen of credit and renown:JohnGilpin是一个有信誉的公民
 the screenplay is credited to one American and two Japanese writers:剧本出自一位美国作家和两位日本作家之手
@@ -83,19 +83,19 @@ absorb |əbˈzɔːb| Verb/:吸收,吸
 buildings can be designed to absorb and retain heat:
 she absorbed the information in silence:她默默地吸收信息
 the family firm was absorbed into a larger group:家族企业被吸收进一个更大的集团
-arms spending absorbs roughly two per cent of the national income:arms支出吸收了大约2%的国民收入
-deep-pile carpets absorbed all sound of the outside world:deep-pile地毯吸收了外界所有的声音
+arms spending absorbs roughly two per cent of the national income:军备开支约占国民收入的 2%
+deep-pile carpets absorbed all sound of the outside world:厚厚的地毯吸收了外界的所有声音
 she sat in an armchair, absorbed in a book:她坐在扶手椅上，全神贯注地看一本书
 
-obtain from (a number) another which contains the first number a specified number of times:obtainfrom(anumber)another包含指定次数的第一个数字
+obtain from (a number) another which contains the first number a specified number of times:从（一个数字）中获取另一个包含第一个数字指定次数的数字
 increase or cause to increase greatly in number or quantity:增加或导致数量或数量大幅增加
 (of an animal or other organism) increase in number by reproducing:（动物或其他有机体）通过繁殖增加数量
-propagate (plants):propagate（植物）
+propagate (plants):繁殖（植物）
 in several different ways or respects:
 multiply |ˈmʌltɪplʌɪ| Adverb/Verb/:乘,相乘,倍增
 multiply fourteen by nineteen:将十四乘以十九
 listeria and other bacteria were able to multiply in very low temperatures:李斯特菌和其他细菌能够在非常低的温度下繁殖
-researchers multiply these varieties to provide new plants for the farmers:researchers繁殖这些品种，为农民提供新植物
+researchers multiply these varieties to provide new plants for the farmers:研究人员繁殖这些品种，为农民提供新植物
 multiply injured patients:多人受伤患者
 
 a food in the form of a paste or solid block made from roasted and ground cacao seeds, typically sweetened and eaten as confectionery:一种由烘烤和磨碎的可可种子制成的糊状或固体块状食物，通常加糖并作为糖果食用
@@ -129,21 +129,20 @@ ball |bɔːl| Noun/Verb/:球,捏成球形,滚
 a cricket ball:一个板球
 a ball of wool:一个羊毛球
 he comes across a group of kids playing ball:他遇到一群孩子在打球
-kids have been playing ball in that lot for almost a hundred years:kids在那个地段玩了将近一百年
+kids have been playing ball in that lot for almost a hundred years:孩子们在那儿玩球已经将近一百年了
 his half century came off only forty balls:他的半个世纪只掉了四十个球
 Whelan sent a long ball to Goddard:Whelan长传给戈达德
 he ignored it completely, and the umpire called it a ball:他完全无视，裁判称这是一个球
 Robert balled up his napkin and threw it on to his plate:罗伯特把他的餐巾卷起来扔到他的盘子里
 she balled her fist so that the nails dug into her palms:她攥紧了拳头，指甲都陷进了她的掌心
 the fishing nets eventually ball up and sink:渔网最终成球沉没
-Anne danced with the captain at a fancy-dress ball:Anne在化装舞会上与队长共舞
+Anne danced with the captain at a fancy-dress ball:安妮在化装舞会上与船长共舞
 
 testicles.:睾丸。
 courage or nerve.:勇气或勇气。
 nonsense, rubbish (often said to express strong disagreement).:废话，垃圾（常说表达强烈不同意）。
-bungle or mismanage something.:bungle或管理不善。
+bungle or mismanage something.:搞砸或管理不善。
 balls |bɔːlz| Noun/Verb/:球,球类
-:
 
 an order to a bank to pay a stated sum from the drawer's account, written on a specially printed form:向银行发出的从出票人账户中支付规定金额的订单，写在专门打印的表格上
 cheque |tʃɛk| Noun/:查看,检查,核对
@@ -151,13 +150,11 @@ they presented him with a cheque for £4,000:他们给了他一张4,000英镑的
 
 a country in northern Asia and eastern Europe, population 143,500,000 (estimated 2015), official language, Russian, capital, Moscow.:一个位于亚洲北部和东欧的国家，人口143,500,000（估计2015年），官方语言，俄语，首都，莫斯科。
 Russia |ˈrʌʃə| Noun/:俄罗斯,俄国
-:
 
 a native of Tibet or a person of Tibetan descent.:西藏人或藏族后裔。
 the Sino-Tibetan language of Tibet, spoken by about 4 million people in Tibet and in neighbouring areas of China, India, and Nepal.:西藏的汉藏语系，在西藏以及中国、印度和尼泊尔的周边地区约有400万人使用。
 relating to Tibet, its people, or its language.:与西藏、西藏人民或语言有关。
 Tibetan |tɪˈbɛtn| Adjective/Noun/:藏,藏族,藏语,藏文
-:
 
 a building for religious worship, especially in religions other than Christianity.:用于宗教崇拜的建筑物，尤其是在基督教以外的宗教中。
 either of two successive religious buildings of the Jews in Jerusalem. The first (957–586 BC) was built by Solomon and destroyed by Nebuchadnezzar, it contained the Ark of the Covenant. The second (515 BC–AD 70) was enlarged by Herod the Great from 20 BC and destroyed by the Romans during a Jewish revolt, all that remains is the Wailing Wall.:耶路撒冷犹太人连续两座宗教建筑中的任何一座。第一个（公元前9586年）由所罗门建造并被尼布甲尼撒摧毁，它包含约柜。第二个（公元前515年至公元70年）由希律大帝从公元前20年开始扩建，并在犹太人起义期间被罗马人摧毁，只剩下哭墙。
@@ -169,7 +166,7 @@ a group of buildings in Fleet Street, London, which stand on land formerly occup
 the flat part of either side of the head between the forehead and the ear:额头与耳朵之间的头部两侧平坦部分
 a device in a loom for keeping the cloth stretched.:织布机中用于保持布料拉伸的装置。
 temple |ˈtɛmpl| Noun/:寺庙,庙,庙宇
-June treats her body like a temple: she takes yoga classes every day:June把自己的身体当成寺庙-
+June treats her body like a temple:June 把她的身体当成一座寺庙
 a temple of science:科学殿堂
 a man with curly hair greying at the temples:一个鬓角花白的卷发男人
 
@@ -187,16 +184,16 @@ discharge a gun or other weapon in order to propel (a bullet or projectile):释�
 discharge (a gun or other weapon):discharge（枪或其他武器）
 (of a gun) be discharged:（枪）被开除
 (of a nerve or muscle cell) generate an impulse or contraction:（神经或肌肉细胞）产生冲动或收缩
-direct (questions or statements, especially unwelcome ones) towards someone in rapid succession:direct（问题或陈述，尤其是不受欢迎的）对某人快速连续
+direct (questions or statements, especially unwelcome ones) towards someone in rapid succession:快速连续地直接（问题或陈述，尤其是不受欢迎的）某人
 send a message aggressively:积极发送消息
-dismiss (an employee) from a job:dismiss（员工）从工作中
-supply (a furnace, engine, etc.) with fuel:supply（熔炉、发动机等）和燃料
+dismiss (an employee) from a job:解雇（雇员）一份工作
+supply (a furnace, engine, etc.) with fuel:供应（熔炉、发动机等）燃料
 (of an internal combustion engine) undergo ignition of its fuel when started:（内燃机）启动时燃料点火
-start (an engine or other device):start（引擎或其他设备）
+start (an engine or other device):启动（引擎或其他设备）
 set fire to:放火
-stimulate or excite (the imagination or an emotion):stimulate或excite（想象力或情感）
-fill (someone) with enthusiasm:fill（某人）充满热情
-show sudden anger:show突然生气
+stimulate or excite (the imagination or an emotion):刺激或激发（想象力或情绪）
+fill (someone) with enthusiasm:使（某人）充满热情
+show sudden anger:表现出突然的愤怒
 bake or dry (pottery, bricks, etc.) in a kiln:在窑中烘烤或干燥（陶器、砖块等）
 fire |ˈfʌɪə| Noun/Verb/:火,开火,消防
 his house was destroyed by fire:他的房子被大火烧毁
@@ -206,7 +203,7 @@ she was freezing and keeping the fire low to save money:她冻僵了，为了省
 the fire of their religious conviction:他们的宗教信仰之火
 their soft smiles light the air like a star's fire:他们温柔的微笑像星星的火一样照亮了空气
 a burst of machine-gun fire:一阵机关枪扫射
-he directed his fire against policies promoting American capital flight:he抨击促进美国资本外逃的政策
+he directed his fire against policies promoting American capital flight:他抨击促进美国资本外逃的政策
 he fired a shot at the retreating prisoners:他向撤退的囚犯开了一枪
 another gang fired a pistol through the window of a hostel:另一个团伙用手枪从旅馆的窗户里开枪
 the first gun fired:第一枪打响
@@ -218,17 +215,17 @@ liquefied petroleum gas can fire room heaters:液化石油气可燃室内取暖�
 the engine fired and she pushed her foot down on the accelerator:引擎点火，她把脚踩在油门上
 with a flick of his wrist he fired up the chainsaw:手腕一甩，他启动了电锯
 I fired the straw:我点燃了稻草
-India fired my imagination:India激发了我的想象力
+India fired my imagination:印度激发了我的想象力
 he was fired up for last season's FA Cup final:他为上赛季的足总杯决赛兴奋不已
 If I were to hear anyone speak slightingly of you, I should fire up in a moment:如果我听到有人轻描淡写地谈论你，我应该马上火起来
 methane gas is being used to fire bricks at a nearby factory:甲烷气体正在附近的一家工厂烧砖
 
 cause (someone) to feel very enthusiastic and eager:使（某人）感到非常热情和渴望
 arouse (someone) sexually:唤起（某人）性行为
-give rise to (a feeling or reaction):giveto(一种感觉或反应)
+give rise to (a feeling or reaction):引起（感觉或反应）
 produce a state of increased energy or activity in (a physical or biological system):在（物理或生物系统）中产生能量或活动增加的状态
 excite |ɪkˈsʌɪt| Verb/:激发,兴奋
-flying still excites me:flying仍然让我兴奋
+flying still excites me:飞行仍然让我兴奋
 his Mediterranean vibrancy excited and stimulated her:他的地中海活力让她兴奋不已
 the ability to excite interest in others:激发他人兴趣的能力
 the energy of an electron is sufficient to excite the atom:电子的能量足以激发原子
@@ -238,9 +235,9 @@ a quantity or amount of something, especially as dealt with in one commercial tr
 a piece of land, especially one considered as part of an estate:一块土地，尤其是被视为庄园一部分的土地
 a group of people of a specified sort:一组特定类型的人
 a portion of a larger body of air or other fluid considered as a discrete element:被视为离散元素的较大空气或其他流体的一部分
-make (something) into a parcel by wrapping it:make(something)通过包裹它变成一个包裹
+make (something) into a parcel by wrapping it:把（某物）包裹起来做成包裹
 divide into portions and then distribute:分成几份再分发
-wrap (rope) with strips of tarred canvas, before binding it with yarn as part of a traditional technique to reduce chafing.:wrap（绳子）用涂了焦油的帆布条，然后用纱线将其捆绑，作为减少擦伤的传统技术的一部分。
+wrap (rope) with strips of tarred canvas, before binding it with yarn as part of a traditional technique to reduce chafing.:用涂焦油的帆布条包裹（绳子），然后用纱线绑起来作为传统技术的一部分，以减少擦伤。
 parcel |ˈpɑːsl| Noun/Verb/:包裹,打包,包
 the lorry was carrying a large number of Royal Mail parcels:卡车上载着大量皇家邮政包裹
 a parcel of shares:a股
@@ -268,13 +265,13 @@ cease attending (a school or college) or working for (an organization):停止就
 allow or cause to remain:允许或导致留下
 remain to be used or dealt with:留待使用或处理
 go away from a place without taking (someone or something):离开一个地方而不带走（某人或某物）
-abandon (a spouse or partner):abandon（配偶或伴侣）
+abandon (a spouse or partner):放弃（配偶或伴侣）
 have as (a surviving relative) after one's death:死后作为（幸存的亲属）
-bequeath (property) to a person or other beneficiary by a will:bequeath（财产）通过遗嘱给一个人或其他受益人
+bequeath (property) to a person or other beneficiary by a will:通过遗嘱将（财产）遗赠给某人或其他受益人
 cause (someone or something) to be in a particular state or position:导致（某人或某事）处于特定状态或位置
 let (someone) do or deal with something without offering help or assistance:让（某人）在不提供帮助或帮助的情况下做或处理某事
 cause to remain as a trace or record:导致留下痕迹或记录
-deposit or entrust to be kept, collected, or attended to:deposit或委托保管、收集或照管
+deposit or entrust to be kept, collected, or attended to:保管、收取或照管的押金或委托
 (in snooker, croquet, and other games) the position in which a player leaves the balls for the next player.:（在斯诺克、槌球和其他游戏中）一名球员将球留给下一名球员的位置。
 time when one has permission to be absent from work or from duty in the armed forces:获准在部队缺勤或缺勤的时间
 permission:权限
@@ -282,7 +279,7 @@ permission:权限
 leave |lɛft| Noun/Verb/:离开,休假,假,假期,请假
 she left London on June 6:她于6月6日离开伦敦
 at the age of sixteen he left home:16岁离家出走
-she is leaving the BBC after 20 years:she在20年后离开BBC
+she is leaving the BBC after 20 years:她将在 20 年后离开 BBC
 the parts he disliked he would alter and the parts he didn't dislike he'd leave:他不喜欢的部分他会改变，他不喜欢的部分他会离开
 she pours her brother's whiskey into what's left of her beer:她把她哥哥的威士忌倒进她剩下的啤酒里
 the table was left in the house by the previous owner:这张桌子是前任主人留在房子里的
@@ -295,13 +292,13 @@ dark fruit that would leave purple stains on the table napkins:深色水果，�
 she left a note for me:她给我留了一张纸条
 Joe was home on leave:Joe休假在家
 the Secretary of State wishes to seek leave to appeal:国务卿希望寻求上诉许可
-trees leaved, wild flowers burst in profusion on the far side of the lake.:trees落叶，野花盛开在湖的另一边。
+trees leaved, wild flowers burst in profusion on the far side of the lake.:树木落叶，野花在湖的另一边盛开。
 
 feel or manipulate with the hands:用手感觉或操作
 (chiefly in soccer) touch (the ball) with the hand or lower arm in contravention of the rules:（主要是足球）违反规则用手或下臂触摸（球）
-manage (a situation or problem):manage（情况或问题）
+manage (a situation or problem):管理（情况或问题）
 have commercial responsibility for:具有商业责任
-receive or deal in (stolen goods):receive或处理（被盗货物）
+receive or deal in (stolen goods):接收或交易（赃物）
 cope or deal with (someone or something):应付或处理（某人或某事）
 conduct oneself in a specified manner:行为规范
 defend oneself physically or verbally:在身体上或口头上为自己辩护
@@ -315,7 +312,7 @@ the feel of goods, especially textiles, when handled:货物的手感，尤其是
 the total amount of money bet over a particular time or at a particular event:特定时间或特定事件下注的总金额
 a large bottle in which spirits are sold, typically holding a half gallon:一个出售烈酒的大瓶子，通常装半加仑
 handle |ˈhandl| Noun/Verb/:处理,拉手,手柄,把手,柄
-heavy paving slabs can be difficult to handle:heavy铺路板可能难以处理
+heavy paving slabs can be difficult to handle:沉重的铺路石可能难以处理
 he was sent off in the 84th minute for handling the ball:他在第84分钟因持球被红牌罚下
 a lawyer's ability to handle a case properly:律师妥善处理案件的能力
 the advertising company that is handling the account:处理该帐户的广告公司
@@ -329,14 +326,13 @@ a holdall with two carrying handles:一个带两个提手的手提包
 this analogy will help readers to get a handle on the concept:这个类比将帮助读者理解这个概念
 that's some handle for a baby:这是一个婴儿的把手
 she's changed her Twitter handle:她改变了她的推特账号
-fabrics with a softer handle:fabrics，手感更柔软
+fabrics with a softer handle:手感更柔软的面料
 the monthly handle of a couple of casinos in Las Vegas:拉斯维加斯几家赌场的月度处理
 a handle of Jim Beam:吉姆·比姆的手柄
 
 an electric torch.:一个手电筒。
 a flashing light used for signals and in lighthouses.:用于信号和灯塔的闪光灯。
 flashlight |ˈflaʃlʌɪt| Noun/:手电筒,手电
-:
 
 a panel of keys that operate a computer or typewriter.:一组操作电脑或打字机的按键。
 a set of keys on a piano or similar musical instrument.:钢琴或类似乐器上的一组琴键。
@@ -344,7 +340,7 @@ an electronic musical instrument with keys arranged as on a piano:一种电子�
 enter (data) by means of a keyboard:通过键盘输入（数据）
 keyboard |ˈkiːbɔːd| Noun/Verb/:键盘,用键盘输入,按键
 she plays keyboards and guitar:她会弹键盘和吉他
-entries would be keyboarded:entry将被键盘输入
+entries would be keyboarded:输入将被键盘输入
 
 a person who applies for a job or is nominated for election:一个申请工作或被提名参选的人
 a person taking an examination:参加考试的人
@@ -359,7 +355,7 @@ take a photograph of:拍照
 appear in a particular way when in a photograph:在照片中以特定方式出现
 photograph |ˈfəʊtəɡrɑːf| Noun/Verb/:照片,摄影,拍照,图片
 a photograph of her father:她父亲的照片
-she has photographed all of the major ballet companies worldwide:she拍摄了全球所有主要的芭蕾舞团
+she has photographed all of the major ballet companies worldwide:她拍摄了全球所有主要的芭蕾舞团
 that cityscape photographs well:那个城市景观拍得很好
 
 a hard, brittle substance, typically transparent or translucent, made by fusing sand with soda and lime and cooling rapidly. It is used to make windows, drinking containers, and other articles:一种坚硬、易碎的物质，通常是透明或半透明的，由沙子与苏打和石灰熔融并迅速冷却制成。7
@@ -391,7 +387,6 @@ a glass of | 一杯,玻璃
 a pair of lenses set in a frame resting on the nose and ears, used to correct or assist defective eyesight.:一副镜片，放在鼻子和耳朵上的框架中，用于矫正或帮助有缺陷的视力。
 a pair of binoculars.:一副双筒望远镜。
 glasses |ˈɡlɑːsɪz| Noun/:眼镜,玻璃
-:
 
 the transmission of customs or beliefs from generation to generation, or the fact of being passed on in this way:风俗或信仰世代相传，或以这种方式传承的事实
 a long-established custom or belief that has been passed on from one generation to another:从一代传到另一代的由来已久的习俗或信仰
@@ -403,15 +398,13 @@ a doctrine believed to have divine authority though not in the scriptures.:一�
 tradition |trəˈdɪʃn| Noun/:传统,习俗
 members of different castes have by tradition been associated with specific occupations:不同种姓的成员传统上与特定职业相关联
 Japan's unique cultural traditions:日本独特的文化传统
-visionary works in the tradition of William Blake:visionary在威廉布莱克的传统中工作
+visionary works in the tradition of William Blake:威廉布莱克传统的有远见的作品
 
-:
 these |ðiːz| Determiner/Pronoun/:这些,在
-:
 
 different from, not similar to:不同，不相似
 in contrast to, differently from:
-uncharacteristic of (someone):uncharacteristicof(someone)
+uncharacteristic of (someone):（某人）的反常特征
 dissimilar or different from each other:不相似或彼此不同
 not like, different from:不喜欢，不同于
 be regarded with distaste or hostility, be unpopular:被厌恶或敌视，不受欢迎
@@ -428,7 +421,7 @@ I cut about 300 of my 400 friends and unliked about 20–30 pages:我删掉了�
 not often, rarely:不经常，很少
 not common, infrequent:不常见，不常见
 seldom |ˈsɛldəm| Adjective/Adverb/:很少,不常
-Islay is seldom visited by tourists:Islay很少有游客参观
+Islay is seldom visited by tourists:艾莱岛很少有游客光顾
 a great but seldom pleasure:一种很棒但很少有的乐趣
 
 cause to feel happy and satisfied:使感到快乐和满足
@@ -452,7 +445,7 @@ please oneself | 取悦自己,请自已
 
 
 succeed in dealing with (a problem or difficulty):成功处理（问题或困难）
-defeat (an opponent):defeat（对手）
+defeat (an opponent):击败（对手）
 (of a feeling or emotion) overpower or overwhelm:（感觉或情绪）压倒或压倒
 overcome |ˌəʊvəˈkeɪm| Verb/:克服,战胜
 he overcame his pain for a time:他暂时克服了痛苦
@@ -483,8 +476,8 @@ publicly recommend or support:
 advocate |ˈadvəkət| Noun/Verb/:提倡,倡导者,主张,主
 he was an untiring advocate of economic reform:他是经济改革的不懈倡导者
 care managers can become advocates for their clients:care经理可以成为客户的拥护者
-solicitors may act as advocates in Crown Courts:solicitors可以在皇家法院担任辩护律师
-voters supported candidates who advocated an Assembly:voters支持主张召开大会的候选人
+solicitors may act as advocates in Crown Courts:律师可以在刑事法院担任辩护人
+voters supported candidates who advocated an Assembly:选民支持主张议会的候选人
 
 (of a region) having many mountains.:（一个地区的）有许多山脉。
 very large, huge:非常大，巨大
@@ -500,7 +493,7 @@ a size of garment or other merchandise denoted by four.:以四表示的服装或
 a playing card or domino with four pips.:一张纸牌或多米诺骨牌，有四个点。
 a four-oared rowing boat or its crew:四桨划艇或其船员
 four |fɔː| Numeral/:四,四个
-Francesca's got four brothers:Francesca有四个兄弟
+Francesca's got four brothers:弗朗西斯卡有四个兄弟
 the girls walked in pairs or fours:女孩们成对或成对走
 I began to read at four:我四点开始读书
 it's half past four:现在是四点半

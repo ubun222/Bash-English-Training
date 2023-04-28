@@ -1,0 +1,584 @@
+role				角色，作用
+remind						提醒，使想起
+torture			酷刑，折磨，拷问
+condense			使...凝结，使...凝缩
+exclusively		仅仅，独家的
+integral						必需的，完整的，内置的，整数的
+token			代金券，象征，象征性的
+shift						挪动，转移
+taxation			征税，税收
+tow				拖
+In tow			紧随，陪伴着
+reliable						可靠的，准确的
+deft				熟练的，巧妙的
+potion			饮剂
+disarray			杂乱，混乱
+overall				总体的
+resource			资源，智谋
+resources		财力，人力，才智
+species					种
+platform								舞台，政纲，平台
+elastic			有弹性的
+tenancy			租赁
+minimal				最小的
+inevitable								必然发生的
+contradict					与...相矛盾，反驳
+subsidy						补贴
+flare				火光，照明灯，闪耀，爆发，张大
+digest						消化，理解，摘要
+din							嘈杂声，轰鸣声
+to din sth into sb	反复叮嘱
+shoal				鱼群，一大群人，浅水处，沙洲，陷阱
+hasty									匆忙的，草率的
+insulate					使隔绝，使...绝缘，使分离
+\\\\\\\\
+
+n. [C]（一个主体在一个组织、社会、关系中所拥有或被认为拥有的）职能、作用、角色、位置:
+n. [C] 在一种情况或一项活动中，某人或某事物所卷入的程度（即在多大程度上卷入了该情况或活动）；也可指该人或事物对该情况或活动所造成的影响:
+n. [C]（戏剧、电影等表演活动中演员的）角色:
+role |[rəʊl]
+the role of the teacher in the classroom 教师在课堂上的作用 
+Every member of staff must have a clear role. 每一名员工都应该各司其职。
+Many staff perform multiple roles. 许多员工身兼数职。
+managerial, regulatory, supervisory role 管理职能；监督职能 
+leadership role 领导职能 
+parental role 家长的职责 
+military, political, economic, social, strategic role 军事地位；政治地位；经济地位；社会地位；战略地位
+the role of diet in preventing disease 饮食在预防疾病中的作用 
+The media play a major role in influencing people’s opinions. 媒体在影响民意方面发挥着重要作用。
+leading role 主角 
+dramatic role 戏剧角色 
+supporting role 配角 
+comic, tragic role 喜剧角色；悲剧角色 
+TV role 电视角色
+
+vt. remind sb (about/of sth) 帮助某人记起某事（尤指其必须去做的重要的事），如提醒。是此义的常规用词。不过要注意，其主语未必一定是人:
+remind |[rɪ'maɪnd]
+Remind me to phone Alan before I go out. 提醒我在出去之前给艾伦打电话。
+Passengers are reminded (that) no smoking is allowed on this train. 旅客们请注意，本次列车禁止吸烟。
+Can someone remind me what I should do next? 谁能告诉我下一步该做什么？
+I am often reminded of my former boss. 有人经常向我提起我的前老板。
+Reading the note suddenly reminded me of my appointment with Angela. 看笔记时，我突然记起与安杰拉的约会。
+The building reminded me strongly of my old school. 这栋建筑特别强烈地使我想起母校。
+
+n. [U, C] [非正式]（精神上的）痛苦、折磨；引起痛苦或折磨的事物:
+vt. [常用被动式] 使某人痛苦或煎熬:
+n. [U, C] [非正式]（肉体上的）痛苦、折磨；引起痛苦或折磨的事物:
+n. [U, C]（为了惩罚某人、获取情报或迫使某人去做某事所进行的）拷打、拷问、酷刑:
+vt. [常用被动式] 拷打、拷问、施酷刑:
+torture |[ˈtɔ:tʃə(r);美ˈtɔ:rtʃ-]
+mental, psychological torture 精神折磨；心理折磨 
+The interview was sheer torture from start to finish. 这次面试从头至尾使人备受煎熬。
+Waiting for the result was torture. 等待结果的过程是一种折磨。
+He spent his life tortured by the memories of his childhood. 童年的记忆使他痛苦了一辈子。
+He would not torture her further by trying to argue with her. 他不愿与她争辩，让她更痛苦。
+She tortured herself with fantasies of Bob and his new girlfriend. 她想象着鲍勃和他的新女友在一起的情形，心里备受煎熬。
+physical torture 肉体折磨 
+The friction of the sheets against his skin was torture 被单摩擦着他的皮肤，简直像是酷刑。
+Many of the refugees have suffered torture. 许多难民都遭受过拷打。
+the use of torture 施酷刑 
+terrible instruments of torture 可怕的刑讯工具 
+His confessions were made under torture. 他被屈打成招。
+I heard stories of gruesome tortures in prisons. 我听说过监狱里令人毛骨悚然的刑讯。
+torture camp, torture chamber, torture room 酷刑营；酷刑室 
+torture device 刑具 
+torture method, torture technique 酷刑方法；酷刑手段 
+torture victim 酷刑受害者 
+The prisoners were routinely tortured. 囚犯经常遭受酷刑。
+Many of the rebels were captured and tortured by secret police. 反叛者中许多人被捕并遭受到秘密警察的酷刑。
+He was tortured into giving them the information. 他受不住酷刑被迫向他们供出了情报。
+French police are convinced that she was tortured and killed. 法国警方确信她是被拷打致死。
+Three members of the group had been tortured to death. 该团体中有三个人被拷打致死。
+
+vt. ~ sth (into sth) 压缩或缩减文字、信息等:
+vt.&vi.（使）气体凝结成液体:
+vt.&vi.（使）液体失水变浓稠:
+condense |[kənˈdens]
+The article was condensed into just two pages. 这篇文章被简缩成两页。
+We have learnt how to condense serious messages into short, self-contained sentences. 我们已经学会了如何把重要的信息压缩成简短独立的句子。
+The English translation may have been condensed into a single more readable book. 英译本可能被压缩成了更具可读性的单行本。
+The author has condensed a great deal of material into just 100 pages. 作者在短短100页中浓缩了大量信息。
+Steam condenses into water when it cools. 蒸汽冷却时凝结为水。
+The steam was condensed rapidly by injecting cold water into the cylinder. 由于汽缸中注入了冷水，蒸汽迅速凝结了。
+Water vapour condenses to form clouds. 水蒸气凝结形成云。
+The compressed gas is cooled and condenses into a liquid. 压缩气体经冷却凝结成液态。
+Condense the soup by boiling it for several minutes. 煮几分钟把汤熬浓。
+
+Exclusively is used to refer to situations or activities that involve only the thing or things mentioned, and nothing else. 排他地; 独占地
+exclusively |英 [ɪk'skluːsɪvlɪ]  美 [ɪk'sklʊsɪvli]| adv. 唯一地；专有地；排外地/
+...an exclusively male domain.…一个由男性独占的领域。
+
+
+adj. [常用于名词前] 完整的，某事物拥有其全部部分的:
+adj. [常用于名词前] 作为某事物的一部分而被包含的（而非分别供应的）:
+adj. ~ (to sth) 是某事物的不可或缺的一部分的:
+integral |[ˈɪntɪgrəl;ɪnˈteg-]
+an integral system 完整的系统
+All models have an integral CD player. 所有型号都有内置的激光唱片机。
+Music is an integral part of the school's curriculum. 音乐是这所学校的课程中基本的一环。
+Rituals and festivals form an integral part of every human society. 仪式与节日构成了任何人类社会不可缺少的一部分。
+Anxiety is integral to the human condition. 焦虑是人类的基本生存状况之一。
+Practical experience is integral to the course. 这门课程也包括实践经验。
+
+n. [C]（感觉、事实、事件等的）象征、标志:
+adj. [只用于名词前] 1 装样子的、敷衍的、装点门面的:
+2（行为）象征性的（该行为象征着做事者对某事是认真对待的，并且会履行承诺或日后会做得更多）:
+3（小额款项）象征性的（付款或收费）:
+n. [C] 用以代替金钱来作为支付工具或启动某些机器一片圆形金属或塑料，可称为代币、专用辅币:
+n. 1 [C] [英] 商店中的代金券:
+2 [C] 购买某一商品时所得到的赠券（该券可以收集起来用于兑换物品）:
+token |[ˈtəʊkən;美ˈtoʊ-]
+Please accept this small gift as a token of our gratitude. 区区薄礼，以表谢忱，请笑纳。
+As a token of goodwill, I'm going to write another letter. 为了证明我的善意，我打算再写一封信。
+love token 爱情信物
+The government has only made a token gesture towards helping the unemployed. 政府只不过是做做样子表示了一下对失业者的帮助。
+There was one token woman on the committee (= a woman who is included in the group to make it look as if women are always included, although that is not true). 委员会中有一位装点门面的女性委员。
+The government agreed to send a small token force to the area. 政府同意派遣一小支象征性的部队到那一地区。
+a one-day token strike 一天的象征性罢工 
+We charge only a token fee for use of the facilities. 我们对使用这些设施只收取象征性的费用。
+a parking token 停车专用辅币           
+a £20 book token 价值20英镑的购书券 
+record, gift token 唱片券；礼物券 
+Collect six tokens for a free T-shirt. 收集到六张礼券可以换一件T恤衫。
+
+vt. 去除污迹等。相当于get rid of:
+vt.&vi. ~ (yourself) [英，非正式] 快速移动，相当于hurry:
+vt.&vi. ~ (sth) (from…) (to…)（使）从一地移动到另一地:
+vi. ~ (from…) (to/towards/toward…)（一种情况、观点、态度、政策等）变动:
+vt. ~ sth (from…) (to/towards/toward…) 改变对某事的观点或态度，或改变做事方式:
+vt. ~ responsibility/blame (for sth) (onto sb) 转嫁责任，既可以是转嫁工作上的职责，也可以是转嫁做错事的责任:
+n. 1 [C] ~ (in sth) 时空位置或方向的改变:
+2 [C] 其它方面的转变、改变、变迁:
+n. [C] 直筒式女连衣裙:
+n. [C] 旧时妇女穿的直筒式内衣:
+n. [U] [计算机]（计算机键盘或打字机上的）转换（键），换档（键）:
+vt. 卖货，尤指出售难卖的货物:
+n. [C] 工作的轮班:
+n. [C] 轮班职工:
+vi. [美] 驾驶的过程中换挡:
+shift |[ʃɪft]
+a detergent that shifts even the most stubborn stains 能去除极顽固的污渍的洗涤剂
+Like many plays, this one shifts back and forth in time and place. 和许多剧一样，这部剧也是在时空上来回变换。
+The action of the novel shifts from Paris to London. 小说情节从巴黎移到了伦敦。
+Government grants are being shifted away from the capital to the regions. 政府拨款正逐步从首都转向地方。
+He shifted his gaze from the child to her. 他把目光从孩子身上移到她身上。
+Could you help me shift some furniture? 你能帮我挪几件家具吗？
+He stopped, shifting his cane to his left hand. 他停了下来，将手杖移到左手。
+He shifted from foot to foot. 他从一只脚换到另一只脚。
+She shifted her weight from one foot to the other. 她把身体的重量从一只脚换到另一只脚上。
+She shifted uncomfortably in her chair. 她在椅子上不安地动来动去。
+Public attitudes towards marriage have shifted over the past 50 years. 50年来，公众对婚姻的态度已经改变。
+Attitudes to mental illness have shifted in recent years. 最近几年对精神病的态度已有所改变。
+His sympathies rapidly shifted to the side of the workers. 他的同情心很快转到了工人一边。
+The balance of power shifted away from workers towards employers. 力量均势从工人向雇主倾斜。
+These changes will shift the balance more towards/toward science subjects. 这些变化将进一步使天平向理科倾斜。
+The emphasis should be shifted more towards Parliament. 重点应更多地转向议会。
+I felt the advantage had suddenly shifted away from us. 我感到我们突然失去了优势。
+constantly shifting alliances 不断变更的同盟 
+We need to shift the focus of this debate. 我们需要转换一下辩论的焦点。
+The new policy shifted the emphasis away from fighting inflation. 新政策不再把重点放在抑制通货膨胀上。
+He tried to shift the blame for his mistakes onto his colleagues. 他自己犯了错误，却试图把责任推给同事。
+It was a vain attempt to shift the responsibility for the murder to somebody else. 试图将谋杀的罪责转嫁给他人是徒劳的。
+to shift the blame onto the government 把犯错的责任推给政府 
+Their husbands try to shift the blame by accusing them of having 'suspicious minds'. 她们的丈夫指责她们“疑心太重”，试图以此来推诿责任。
+We cannot simply shift the responsibility onto someone else. 我们不能简单地把责任推给别人。
+a shift in direction 方向的改变 
+climate, cultural, demographic, population, ideological, policy, power shift 气候变化；文化变迁；人口变化；意识形态转变；政策改变；权力转移 
+paradigm shift 思维模式的转变 
+These climate shifts occurred over less than a decade. 气候变化是在不到十年内出现的。
+a shift in public opinion 民意的改变 
+a shift in attitude, a shift in perspective 态度的转变；视角的转变 
+The moment marked a significant shift in attitudes to the war. 这一刻标志着对战争的态度有了重大转变。
+I detected a subtle shift towards our point of view. 我觉察到了一丝倾向赞同我方观点的细微变化。
+a shift in emphasis, a shift in mood, a shift in tone 着重点的变化；心情的变化；语气的变化 
+a shift in focus, a shift in policy, a shift in strategy 焦点的改变；政策的改变；战略的转变 
+one factor which may explain the president's policy shift 也许可以解释总统政策变化的一个因素 
+These proposals represent a dramatic shift in policy. 这些提案表明了政策的重大变化。
+the shift away from direct taxation 从直接税收的转变 
+a sudden shift to the right in politics 政治上的突然右倾 
+a shift towards part-time farming 向兼营农业的转变 
+The industry has undergone a fundamental shift in recent years. 该行业近年来经历了根本性的变革。
+The toy industry is undergoing a seismic shift as more products are manufactured overseas. 因越来越多的产品在海外生产，玩具行业正经历一场巨大的变革。
+the many shifts between verse and prose that occur in Shakespeare 莎士比亚作品中在诗体和散文体之间的诸多转换
+a shift key 转换键
+They cut prices drastically to try and shift stock. 他们大幅度降价，试图销出存货。
+Some suppliers were selling at a loss to shift stock. 一些供应商赔本销售存货。          
+double, long, split（尤英） shift 两班制；长班；轮班 
+I agreed to work double shifts for a few weeks. 我同意上几周双班。
+day, early shift 白班；早班 
+late, swing（美） shift 晚班；（三班制中的）中班 
+graveyard（尤美）, night, overnight shift 夜班 
+eight-hour, ten-hour shift 八小时工作制；十小时工作制 
+to work an eight-hour shift 按每班八小时轮班工作 
+afternoon, evening, morning, weekend shift 下午班；晚班；上午班；周末班 
+I'm doing the early shift this week. 这周我上早班。
+He works the night shift. 他上夜班 
+I didn't realize that I'd have to work shifts. 我没想到我还得轮班。
+workers coming home from the afternoon shift 上完下午班回家的工人们 
+It was 8.00 a.m. and the nurses were changing shifts. 早上8点，护士们正在交班。
+My husband has changed his shifts, from the afternoon shift to the night one. 我丈夫已换了当班时间，从下午班变成了夜班。
+shift work 轮班作业 
+shift manager, shift worker 轮班工作的经理；轮班工作的工人 
+shift pattern, shift system（均英）轮班模式；倒班制 
+They'd altered his shift pattern twice in the past fortnight. 上个月他们让他换了两次班。
+The shift change took place at 10 p.m. 换班时间是晚上10点。
+a decision for the chief nurse on each shift 各班次值班护士长需要做的一个决定
+The night shift has/have just come off duty. 上夜班的刚刚下班。
+to shift into second gear 换成二挡       
+
+n. 1 [U] 税款:
+2 [U] 税收制度:
+taxation |[tækˈseɪʃn]
+to reduce taxation 减税 
+The result will be higher taxation. 结果将是征收更高的税。
+the heavy taxation on smokers and drinkers 对吸烟者和饮酒者征收的重税 
+the inability to levy sufficient taxation to meet the costs of government 税收不足以满足政府的开支需要 
+If the government raises direct taxation, it will lose votes. 政府提高直接税会失去选票。
+Any profits made are totally exempt from taxation. 所获利润完全免税。
+The hospital was funded from taxation. 这家医院的资金来自税收。
+the power to raise funds through taxation 通过税收筹集资金的权力 
+increased taxation on oil companies 对石油公司的增税 
+The party's policy is to reduce the burden of taxation on the poor. 该党的政策是减轻穷人的纳税负担。
+The charge was seen as just another form of taxation. 这项收费被视为另一种形式的税收。
+They were treated as a married couple for taxation purposes. 计算税额时他们被视同已婚夫妇。
+taxation policy, taxation system 税收政策；税收制度 
+changes in the taxation structure 税制结构的变化 
+progressive, redistributive taxation 累进税；再分配税 
+the proposal to eliminate the double taxation of dividends 消除对红利进行双重征税的提议 
+corporate, income（尤美）, property taxation 公司税；所得税；财产税
+
+vt. 在车辆后面用绳子或锁链拖拽另一辆汽车或船只:
+n. [sing.] 在一台车辆后面用绳子或锁链对另一台车辆所做的拖拽、牵引:
+tow |[təʊ;美toʊ]
+Our car was towed away by the police. 我们的汽车被警察拖走了。
+They threatened to tow away my car. 他们威胁要拖走我的车。
+He had been using the vehicle to tow his work trailer. 他一直用这辆车牵引他的活动工作室。
+The car broke down and we had to get somebody to give us a tow. 汽车抛锚了，我们只得让人拖走。
+A truck driver gave me a tow to the nearest garage. 一个卡车司机把我的车拖到了最近的汽车修理厂。
+tow bar, tow line（通常用towline）, tow rope 牵引杆；拖索；纤绳 
+tow truck（尤美）, tow vehicle 牵引车；拖运车 
+The ship, whose engine had failed, is now safely under tow. 引擎失灵的船正被安全地拖着走。           
+
+adj. 1 可信赖（能把某事做好）的；可依靠的。相当于dependable:
+2 很可能是正确或真实的，即真实可信的，可靠的:
+reliable |[rɪ'laɪəbl]
+We are looking for someone who is reliable and hard-working. 我们在物色可靠而又勤奋的人。
+a reliable friend 可信赖的朋友 
+My car’s not as reliable as it used to be. 我的车不像过去那样靠得住了。
+It has a highly reliable control system. 它有一套极可靠的控制系统。
+Our information comes from a reliable source. 我们的消息来源可靠。
+a reliable witness 可信的目击证人 
+reliable data 可靠的数据 
+This statement is not reliable as evidence. 这一陈述作为证据是不可靠的。
+
+deftly 灵巧地
+A deft action is skilful and often quick. 灵巧的
+deft |英/美 [deft]| adj. 灵巧的；机敏的；敏捷熟练的/
+One of the waiting servants deftly caught him as he fell.就在他要跌到时，侍候的一名佣人敏捷地扶住了他。
+With a deft flick of his wrist, he extinguished the match.他的手腕灵巧地一抖，就熄灭了火柴。
+
+
+A potion is a drink that contains medicine, poison, or something that is supposed to have magic powers. (含药、毒或有魔力的) 饮剂
+potion |英 ['pəʊʃ(ə)n]  美 ['poʃən]| n. 一剂；一服；饮剂/
+...a magic potion that will make Siegfried forget Brunnhilde and fall in love with Gutrune.…一种会使齐格弗里德忘掉布伦希德尔德而爱上古特鲁内娜的魔剂。
+
+
+n. 1 [U] 情况的混乱:
+2 [U] 凌乱、不整齐:
+disarray |[ˌdɪsəˈreɪ]
+The peace talks broke up in disarray. 和谈在混乱中破裂了。
+The meeting broke up in disarray. 会议在一片混乱中散会了。
+Our plans were thrown into disarray by her arrival. 我们的计划因她的到来而陷入一片混乱。
+12,000 crossed the border in one day alone, throwing evacuation plans into disarray. 仅一天中就有1.2万人越过边境，这使得撤退计划全被打乱了。
+The nation is in disarray following rioting led by the military. 军队发动暴乱之后国家陷入混乱中。
+a period of disarray within the party 党内的一段混乱时期 
+financial disarray 财务混乱 
+His personal life fell into disarray when his wife left him. 妻子弃他而去后，他的个人生活陷入一片混乱。
+a state of disarray 混乱状态 
+She was left lying on her side and her clothes were in disarray. 发现她时她侧躺着，且衣衫不整。
+He found the room in disarray, with food dumped on the floor and drawers pulled open. 他发现屋里凌乱不堪，地上丢弃着食物，抽屉大开。
+
+taking everything into account:考虑到一切
+taken as a whole; in all:综合考虑；在所有
+a loose-fitting coat or one-piece garment worn over ordinary clothes for protection against dirt or heavy wear:一件宽松的外套或一件式的衣服，穿在普通衣服上，以防止脏污或重度磨损
+close-fitting trousers formerly worn as part of an army uniform, now only on ceremonial or formal occasions.:close-fit裤子以前作为军装的一部分穿着，现在只在仪式或正式场合穿着。
+dungarees.:工装裤。
+overall |ˈəʊvərɔːl| Adjective/Adverb/Noun/:总体,全面的,总计,工装连衣裤,整体
+the governors and head have overall responsibility for managing the school:校长和校长全面负责管理学校
+overall, 10,000 jobs will go:整体，10,000个工作岗位将消失
+men in grubby blue overalls:men穿着肮脏的蓝色工作服
+
+n. 1 [C, usually pl.]（一个国家、组织机构或个人所利用的）资源（尤指用于增加财富）:
+2 [C] 有助于实现目标的东西，尤指给教师和学生提供信息的一本书、一件设备等:
+n. [pl.] resources 可指个人的品质（诸如帮助某人应对困境的勇气和想象力、才智、谋略）:
+resource |[rɪˈsɔ:s;-ˈzɔ:s;美ˈri:sɔ:rs;rɪˈsɔ:rs]
+untapped resource 未开发的资源 
+material, physical resource 物质资源 
+energy, food, mineral, oil, water resource 能源；食物资源；矿产资源；石油资源；水资源 
+capital, economic, financial resource 资金资源；经济资源；财力 
+The school has limited financial resources. 学校的财力有限。
+human, manpower, staff resource 人力资源；员工资源 
+national, public resource 国有资源；公共资源 
+Australia is a country rich in natural resources. 澳大利亚是个自然资源很丰富的国家。
+the exploitation of minerals and other natural resources 矿产和其他自然资源的开发 
+resources like coal, tungsten, oil and copper 煤、钨、石油和铜之类的资源 
+Today we are overpopulated, straining the earth's resources. 现在我们人口过多，致使地球资源使用过度。
+We'll get by if we pool our resources. 如果我们把资源集中起来，还能勉强撑过去。
+More resources need to be committed to the development. 需要将更多的资源用于开发。
+They are focusing their resources on improving the infrastructure. 他们正将资源集中用于改善基础设施。
+to mobilize resources in the community to provide shelter for the homeless 动用社区资源为无家可归者提供住处 
+We need to manage our resources better. 我们需要更好地管理资源。
+resource exploitation 资源开发 
+resource use, resource utilization 资源利用 
+resource allocation, resource management 资源分配；资源管理 
+We must make the most efficient use of the available resources. 我们必须最有效地利用现有资源。
+We do not have the resources (= money) to update our computer software. 我们没有钱来更新我们的电脑软件。
+Some families don't have the resources to feed themselves properly. 有些家庭无力维持生活。
+There's a great shortage of resource materials in many schools. 很多学校物资都十分短缺。
+educational, information, learning, library, teaching 教育资源；信息资源；学习资源；图书馆资源；教学资源 
+The library is an enormous resource for historians of medieval France. 对于研究中世纪法兰西的历史学家来说，该图书馆是一个巨大的资源宝库。
+The database could be used as a teaching resource in colleges. 数据库可以用作大学里的一种教学辅助手段。
+Time is your most valuable resource, especially in examinations. 时间是最宝贵的资源，特别是在考试的时候。
+resource books for teachers 教师参考书 
+computer, electronic, technical resource 计算机资源；电子资源；技术资源 
+Internet, online, Web resource 互联网资源；线上资源；网络资源 
+cultural resource 文化资源
+He has no inner resources and hates being alone. 他没有什么内在精神寄托，因而害怕独处。
+She is someone of considerable personal resources. 她才华横溢。
+
+A country's resources are the things that it has and can use to increase its wealth, such as coal, oil, or land. 资源
+The resources of an organization or person are the materials, money, and other things that they have and can use in order to function properly. 财力
+resources |英 [rɪˈsɔːsiz]  美 [risɔrsiz]| n. [计][环境] 资源；物力（resource的复数）/v. 向…提供资金（resource的第三人称单数）/
+...resources like coal, tungsten, oil, and copper.…像煤、钨、石油和铜等资源。
+Some families don't have the resources to feed themselves adequately.一些家庭没有钱填饱肚子。
+
+
+n. [C]（动植物的）物种、种:
+species |[ˈspi:ʃi:z]
+a rare species of beetle 一种稀有甲虫 
+There are many species of dog(s). 狗有许多种。
+a conservation area for endangered species 濒危物种保护区 
+Pandas are an endangered species. 熊猫是濒危物种。
+There are several thousand species of trees here. 这里有几千种树。
+the threat posed by non-native invasive species 非本地物种入侵带来的威胁 
+The area is rich in different plant species. 该地区植物物种丰富。
+the development of the human species 人类的进化 
+Similar species of fish occur in Mongolia. 相似的鱼类物种在蒙古出现。
+a native species of fish 一种本地鱼 
+a member of a species 物种成员 
+animal, bird, insect, mammal, tree species 动物物种；鸟类物种；昆虫物种；哺乳类物种；树木物种
+
+n. [C] 鞋子的厚鞋底:
+n. [C] 一个高出地面的舞台（供表演者进行演出）:
+n. [C] 计算机平台或软件平台。强调为各种计算机操作提供一套基础系统:
+n. 1 [C] 一个凸起的平面，例如可在上面放置设备或进行操控的平台:
+2 [C] 一个高出地面的讲台或舞台（供演讲者或表演者进行演讲、授课或演出）:
+n. [C] 一个高出地面的讲台（供演讲者进行演讲或授课）:
+n. [usually sing.] 一个政党在参加竞选时所宣称的施政纲领，即其当选后要达成的目标。是一种潜在的、计划中的、尚未执行的policy:
+n. [C] 火车站或地铁站的站台、月台（供乘客上下车）:
+n. [C] [英] 双层公共汽车后部的上下车出入口:
+n. [C]（供某人公开表达其意见或供其在某一领域获得发展的）机会或地点:
+platform |['plætfɔ:m]['plætfɔ:m]
+platform shoes 厚底鞋
+The singer jumped down from the platform. 那位歌手从舞台上跳了下来。
+Windows platform Windows操作系统平台 
+software platform 软件平台
+an oil platform 石油钻井平台 
+a viewing platform 观景台 
+a launch platform 发射平台 
+a rocky platform 岩石平台 
+The singer jumped down from the platform. 那位歌手从舞台上跳了下来。
+The king mounted the platform to loud cheers. 国王在高声的欢呼声中登上讲台。
+Union leaders shared the platform with business leaders in debate. 工会领袖与企业领导同台辩论。
+The king mounted the platform to loud cheers. 国王在高声的欢呼声中登上讲台。
+Union leaders shared the platform with business leaders in debate on the future of the industry. 工会领袖与企业领导就行业的前景同台辩论。
+political platform 政治纲领 
+party platform 党纲 
+election, electoral platform 竞选纲领 
+to announce a platform of economic reform 宣布一份关于经济改革的施政纲领
+railway（英）, station, subway（美）, tube（英）platform 火车站台；地铁站台 
+The train now standing at platform 3 is for London.（英）开往伦敦的列车停靠在3号站台。
+He ran along the platform to catch the train. 他沿着站台跑去赶火车。
+Thank you to provide this platform for us to give our opinions. 感谢您提供这样一个平台，能够让我们发表各自的意见。
+He regarded the magazine as a platform to voice his opinions to the public. 他把这份杂志看作是一个自己对公众发表意见的阵地。
+
+adj.（想法、计划、政策等）可改变的、可被改变的:
+adj. 可被拉伸并恢复至原来的尺寸和形状的，即有弹性的:
+n. [U]（橡胶制成的）松紧带、橡皮筋，相当于rubber band:
+adj. 用松紧带制成的:
+elastic |[ɪˈlæstɪk]
+Our plans are fairly elastic. 我们的计划有相当大的灵活性。
+an elastic interpretation of the rules of boxing 对拳击规则的灵活解释 
+If export and import demand is elastic, then the change in trade volumes will operate to remove the surplus. 如果进出口需求具有灵活性，那么贸易额的变化则可能会抵消盈余。
+elastic materials 弹性材料 
+an elastic rope 有弹性的绳子 
+Beat it until the dough is slightly elastic. 一直搅打，直至生面团略有弹性。
+a piece of elastic 一根松紧带 
+This skirt needs some new elastic in the waist. 这条裙子需要换一根松紧腰带。
+my shorts with the elastic waist 我那件束腰的短裤 
+loose elastic 失去弹性的松紧带 
+hair elastic（美）发带 
+The elastic in these socks has gone.（英）短袜上的松紧带失去了弹性。
+an elastic headband 松紧头箍
+
+n. 1 [C] （房屋、土地等的）租用期限，租赁期限:
+2 [C, U]（房屋或土地的）租用，租赁:
+tenancy |[ˈtenənsi]
+a three-month tenancy 三个月的租期 
+Tenants should check their tenancy agreements closely. 租户应该认真核对租赁合同。
+His father took over the tenancy of the farm 40 years ago. 他父亲40年前租下了这座农场。
+property held in joint tenancy 共同租赁的房产
+
+Something that is minimal is very small in quantity, value, or degree. 尽可能少的; 最低限度的
+minimal |英 ['mɪnɪm(ə)l]  美 ['mɪnɪməl]| adj. 最低的；最小限度的/
+The cooperation between the two is minimal.两者之间的合作是最低程度的。
+
+
+adj. [只用于名词前]（常幽默）总会发生的（以致于让人每次都期待的），如照例必有的、惯常的:
+adj. 不可避免的；无法防止的:
+n. [sing.] the inevitable可指不可避免的事、必然发生的事:
+inevitable |[ɪnˈevɪtəbl]
+the English and their inevitable cups of tea 英格兰人和他们例行的饮茶
+It was an inevitable consequence of the decision. 那是这个决定的必然后果。
+It was inevitable that there would be job losses. 裁员已是不可避免的事。
+A rise in the interest rates seems inevitable. 提高利率似乎是不可避免的。
+If the case succeeds, it is inevitable that other trials will follow. 如果该案胜诉,其他审判必然随之而来。
+The defeat had inevitable consequences for British policy. 战败对英国政策不可避免地产生了影响。
+The scandal made her resignation inevitable. 丑闻使得她不得不辞职。
+They came to see defeat as inevitable. 他们逐渐认识到失败是不可避免的。
+She bowed to the inevitable (= accepted a situation in which she had no choice）and resigned. 她迫于无奈，只得辞职。
+You have to accept the inevitable. 你得接受必然发生的事。
+The inevitable happened--I forgot my passport. 逃不掉的事情发生了——我忘了带护照。
+
+vt. 反驳，驳斥（即认为某人所说的是错的，而相反的才是对的）:
+vt.（一些陈述或证据）彼此相反，以致一定有一个是错误的，即相反，相抵触，相矛盾:
+contradict |[kɒntrə'dɪkt]
+All evening her husband contradicted everything she said. 整个晚上她说什么丈夫都反驳。
+You’ve just contradicted yourself. 你恰好与你以前说的自相矛盾。
+The two stories contradict each other. 这两种说法相互抵触。
+John’s account of the event directly contradicts Stephen’s. 约翰对这件事的陈述直接同斯蒂芬的相矛盾。
+
+n. [C, U] 政府或其它权威机构给予某个行业或公司的补贴（以降低其生产成本，从而使卖家可以降低产品售价，提高市场竞争力）:
+subsidy |[ˈsʌbsədi]
+direct subsidy 直接补贴 
+hidden subsidy 隐性补贴 
+The help that the government gives the industry amounts to an indirect subsidy. 政府给予这项产业的支持无异于一笔间接补贴。
+annual subsidy 年度补贴 
+domestic, EU, federal, government, public, state subsidy 国内补贴；欧盟补贴；政府补贴；公共补贴；国家补贴 
+corporate（尤美）, financial, tax（尤美）, taxpayer（美）subsidy 公司补贴；财务补贴；税收补贴；纳税人补贴 
+agricultural, childcare, export, farm, food, housing subsidy 农业补贴；育儿补贴；出口补贴；农场补贴；食品补贴；住房补贴 
+illegal subsidy 非法补贴 
+The level of subsidy given to farmers is to be reduced. 对农户的补贴水平将被降低。
+The Arts Council granted them a small subsidy. 艺术委员会拨给他们一小笔补贴。
+Export subsidies have been reduced by 20%. 出口补贴已降低了20%。
+subsidy payments 补贴款项 
+subsidy scheme（英）, subsidy system 补贴方案；补贴机制 
+subsidy cuts 补贴削减 
+state subsidies for rice producers 国家对水稻种植户的补贴 
+subsidies on basic goods and services 基础商品和服务补贴 
+subsidies to agriculture 农业补贴 
+The government cut spending through reductions in state subsidies to industry. 政府通过削减国家对工业的补贴来减少开支。
+They've also slashed state subsidies to utilities and transportation. 他们还大幅削减了对公共事业和交通运输的政府补贴。
+the abolition of subsidies, the removal of subsidies, the withdrawal of subsidies 补贴的废止；补贴的取消 
+protests against the removal of subsidies on basic commodities 对取消基本商品补贴的抗议
+
+vi. ~ up（疾病、伤势）突然复发或再次疼痛:
+vt.&vi.（人或动物）（尤指因生气或难过）（使）鼻孔张开:
+n. [usually sing.] 短暂的明亮（但是不稳）的光:
+vi. 脸突然变红:
+vi.（连衣裙等）底部展开、呈喇叭形展开:
+n. [C] 逐渐展开的一种形状，如喇叭形:
+n. [pl.]（英式英语也可用flared trousers）[非正式] flares 可指喇叭裤（即底部像喇叭形状一样的裤子）:
+vi. 愤怒且凶狠地说:
+n. [C]（尤指作为一种信号的）闪光装置；还可指以此方式点燃的火焰:
+vi.（通常指短时间但是不稳定地）明亮燃烧、突然烧旺:
+n. [usually sing.] 短暂的明亮（但是不稳）的火焰:
+vi. ~ (up)（尤指愤怒、暴力、麻烦、冲突等）突然变得更猛烈:
+n. [C] 愤怒等的突然变猛烈:
+flare |[fleə(r);美fler]
+Students often find that their acne flares up before and during exams. 学生们经常发现在考前和考试期间他们的粉刺会严重起来。
+I turned to Jacky, my nostrils flaring in disgust. 我转过身厌恶地看着杰基，鼻翼呼呼地翕动着。
+He stuck out his tongue and flared his nostrils. 他伸出舌头，鼻翼扇动着。
+The horse backed away, its nostrils flaring with fear. 马向后惊退，吓得鼻翼扇动。
+The flare of the match lit up his face. 火柴的光照亮了他的脸。
+bright flare 明亮的光 
+Radiation comes from the sun during solar flares. 太阳耀斑会引起辐射。
+Colour flared in her cheeks. 她两颊泛起了红晕。
+The sleeves are tight to the elbow, then flare out. 袖子在肘部收紧，接着逐渐展开。
+a simple black dress, cut to flare from the hips 一条简洁的黑裙，剪裁成从胯部向外展开的式样 
+a skirt with a slight flare 下摆略张开的裙子
+a pair of flares 一条喇叭裤
+‘You should have told me! ’ she flared at him. “你应该告诉我的！”她气冲冲地对他说。
+distress（英）, signal（美）flare 求救信号弹；信号弹 
+If they did not see a green flare in ten minutes, they were to launch the attack. 假如在十分钟内还看不见绿色信号弹，他们就会发起进攻。
+The ship's crew sent up a distress flare. 轮船上的船员发射了一枚遇险信号弹。
+The ship sent up distress flares to attract the attention of the coastguard. 这艘船点起了遇险信号以引起海岸警卫队的注意。
+a ship which had fired a distress flare 发出遇险信号弹的一艘船 
+The bomber dropped a flare to illuminate the target. 轰炸机扔下一枚照明弹来照亮目标。
+They could see orange flares burning in the distance. 他们看得见远处闪亮的橙色照明弹。
+Flares lit up the night sky. 照明弹照亮了夜空。
+flare gun 信号枪
+The match flared and went out. 火柴闪亮了一下就熄了。
+A light flared briefly, then went out. 灯闪了一会儿就熄灭了。
+The fire flared into life again. 火又旺了起来。
+Camp fires flared like beacons in the dark. 营火突然熊熊燃烧起来，看上去就像黑暗中的航标灯。
+There was a sudden flare as a fuel tank exploded. 燃油罐爆炸时突然蹿出了火苗。
+Violence flared when the police moved in. 警察逼近时爆发了暴力行为。
+Tempers flared towards the end of the meeting. 会议快结束时群情激愤。
+Tempers flared and harsh words were exchanged. 怒气突然爆发，人们开始恶言相向。
+Even as the President appealed for calm, trouble flared in several American cities. 尽管总统呼吁保持冷静，美国一些城市的骚乱仍有所升级。
+Anger suddenly flared in his eyes. 他突然眼冒怒火。
+She felt a sudden flare of anger. 她突然觉得怒火中烧。
+
+vt. 承受坏消息，即思考一段时间后能够接受该消息并知道如何处理它:
+vt. 理解，领会，领悟。也表示一个事实或结果，不过不太如grasp常用:
+vt.＆vi. 消化（食物）:
+n. [C]（由长文章所压缩而成的）文摘；或文摘汇编。一个digest本身也是一篇完整的文章，只不过是由一篇长文章压缩而成的短文章而已。主体情节、脉络和思想一般并没有改变:
+digest |['daɪdʒest][daɪ'dʒest][dɪ'dʒest,daɪ-]
+All this has upset me. I need time to digest it all. 这一切让我心烦意乱。我需要时间来接受这一切。
+The news was hard to digest. 这一消息让人很难接受。
+to digest information 领会信息
+to allow food to digest 让食物消化 
+to digest meat 消化肉类 
+His body can’t digest fat. 他的身体消化不了脂肪。
+Cheese is very difficult to digest. 奶酪很难消化。
+the Middle East Economic Digest 中东经济文摘 
+a daily news digest 每日新闻摘要
+
+n. [sing.] 持续一段时间（尤指长时间）的喧闹声、喧嚣声、嘈杂声:
+din |[dɪn]
+Who's making that awful din? 谁那么吵? 
+The children were making an awful din. 孩子们吵得厉害。
+They tried to make themselves heard over the din of the crowd. 他们力图让自己的声音盖过人群的喧闹声。
+Charles shouted above the din. 查尔斯在一片喧闹声中大声呼喊。
+She could not be heard above the din of the crowd. 无法透过人群的喧嚣声听清她的话。
+the din of battle（文学用法）战场的喧器              
+
+A shoal of fish is a large group of them swimming together. 鱼群
+shoal |英 [ʃəʊl]  美 [ʃol]| n. 浅滩，沙洲；鱼群；潜在危险/vi. 变浅/vt. 使变浅；驶入/adj. 浅的/
+Among them swam shoals of fish.在他们之中游动着一群群鱼儿。
+
+
+adj. 1 匆忙的、仓促的（尤指会导致不好的结果）:
+2 ~ in doing sth（人）仓促行事的、草率做出决定的、考虑不周的:
+hasty |[ˈheɪsti]
+hasty departure，hasty farewell 急急忙忙的离去；仓促的告别 
+Let's not make any hasty decisions. 我们不要匆忙做决定。
+One company is giving its employees airplane tickets in the event they need to make a hasty escape. 一家公司正在给自己的员工发机票，万一需要就紧急撤离。
+After the hasty meal, the men had moved forward to take up their positions. 匆匆忙忙吃过饭后，大家走出来，各就各位。
+So let's not be hasty. After all, he can't run away. 所以我们不要鲁莽行事。毕竟他是跑不掉的。
+hasty conclusion 仓促的结论 
+hasty retreat 仓促的撤退 
+Perhaps I was too hasty in rejecting his offer. 我拒绝他的提议也许过于草率了。
+
+vt. ~ sth (from/against sth) 用某种材料来隔热、隔音等:
+vt. ~ sb/sth from/against sth 使…免除不愉快的经历或免受不良影响:
+vt. ~ sth (from/against sth) 用某种材料来隔绝电流，即绝缘:
+insulate |[ˈɪnsjuleɪt;美-səl-]
+Home owners are being encouraged to insulate their homes to save energy. 当局鼓励房主给住房加隔热装置以节约能源。
+Is there any way we can insulate our home from the noise? 有什么办法可以使我们的住宅隔音吗？
+to insulate the homes 对住宅进行隔热隔音处理 
+Their wealth had insulated them from reality. 财富将他们与现实隔离。
+They wonder if their community is no longer insulated from big city problems. 他们在想是否大城市的问题离自己的社区也已经不再遥远了。             
+electrical insulating tape 绝缘胶带 
+In order to make it safe, the element is electrically insulated. 为安全起见，该元件作了电绝缘处理。

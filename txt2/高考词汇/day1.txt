@@ -1,0 +1,585 @@
+beddings							寝具
+although							虽然，不过
+effort							努力，试图，成就
+without effort						不费力的
+the war effort						战事
+preference							偏爱
+beneath							在...下方，在...的掩盖下
+currency							货币，通行
+gain currency						开始流行
+warmth							温暖，友善，激动
+adapt								调整...以适用
+steam								水蒸气，蒸煮，快速行进
+steamed fish						清蒸鱼
+steam ahead						进展迅速
+piano								钢琴
+firm								商行
+a firm of accountants				会计师事务所
+bake								烤，晒干
+fish bake							烤鱼
+suggest							建议，推荐，认为，表明，暗示
+suggest itself						出现
+happily							快乐的，幸运的
+changeable							易变的，可改变的
+happen							发生，碰巧
+happen on							偶然发现
+stream							溪流，涌流，一连串，流动
+late								晚的，近末期的，最近的，已故的
+late of							以前
+charge							收取，指责，费用，主管
+treat								对待，处理，款待，治疗，乐趣
+look a treat						看起来棒极了
+my treat							我请客
+simplify							简化
+statesman							政治家
+reservation						预订，保留意见
+a wildlife reservation				野生动物保护区
+framework							构架
+consider							考虑，顾及，认为，凝视
+gram								克
+\\\\\\\\
+
+
+beddings | 床上用品,寝具
+
+conj. 用于对一个陈述进行评论，表示但是，不过，然而。可看作是其“虽然”之义的变相说法:
+conj. 虽然，尽管，即使。一定不要倒装:
+although |[ɔ:l'ðəʊ]
+I felt he was wrong, although I didn’t say so at the time. 我觉得他错了，不过我当时没有说出来。
+Although the sun was shining it wasn’t very warm. 尽管太阳高照，却不是很暖和。
+Although small, the kitchen is well designed. 厨房虽小，但设计巧妙。
+
+n. 1 [U, C]（做某事所需要的）身体（或精神方面）的精力；也可指耗费很大精力的事情:
+2 [C] effort (to do sth) 尝试去做某事（尤指艰难的事）:
+3 [C] 努力去做某事所得到的结果，即努力的结果:
+n. [C] 通常用于名词后，一群人所组织起来的（为做成某件事的）一项活动:
+effort |['efət]
+With (an) effort she managed to stop herself laughing.（英）她好不容易才忍住了笑。
+It’s a long climb to the top, but well worth the effort. 爬到顶上路程很长，虽然费力却很值得。
+You should put more effort into your work. 你应该把更多的精力投入到工作中。
+This can be done quickly and with very little effort. 这事不用费多少劲儿就能很快完成。
+The local clubs are making every effort to interest more young people. 地方俱乐部正在尽一切努力来吸引更多的年轻人。
+We need to make a concerted effort to finish on time. 我们需要通力合作才能按时完成。
+the continuing effort to find the missing girls 为寻找失踪女孩做出的持续努力 
+I’m afraid this essay is a poor effort. 很抱歉，这篇文章写得不好。
+the Russian space effort 俄罗斯航天计划 
+the United Nations’ peacekeeping effort 联合国的维和行动 
+fund-raising, marketing, recruitment effort 筹款活动；营销活动；招聘活动 
+humanitarian, relief, rescue, anti-terrorism effort 人道主义行动；救灾行动；营救行动；反恐行动 
+conservation, rebuilding, reconstruction, restoration effort 保护行动；重建行动；修复活动 
+They launched an AIDS education effort. 他们发起了一场艾滋病教育活动。
+
+n. 1 [U, sing.] preference (for sb/sth)（在一些人或事物中）对一者所怀有的更大的兴趣，即偏爱:
+2 [C] 更喜欢（或最喜欢）的一个东西:
+preference |['prefərəns]
+It’s a matter of personal preference. 那是个人偏好问题。
+Older people tend to express a preference for dark chocolate. 年纪大的人往往表现出对黑巧克力的偏爱。
+Preference is given to students who have passed mathematics and chemistry. 通过数学和化学考试的学生优先考虑。
+a study of consumer preferences 消费者偏好调查 
+policy preference 政策偏好 
+food preference 食物偏好 
+gender preference（美）性别偏好 
+aesthetic preference 审美偏好 
+Do you have any particular preference? 你有什么特别的偏好吗？
+My first preference is for the applicant from Beijing. 我的第一选择是来自北京的申请者。
+
+prep. 在（表面）之下（被隐藏或不明显）:
+adv. 在（或到）…下面（或下方）:
+prep. [正式] 在（或到）…下面（或下方），近似于under:
+adv. 在（或到）…下面（或下方）:
+prep. [正式] 对某人来说不够好，即不如，配不上:
+beneath |[bɪ'ni:θ]
+emotional strains beneath the surface 表面下的情感压力 
+Somewhere deep beneath the surface lay a caring character. 在其外表下心灵深处的某个地方保留着一种关爱别人的品格。
+Her careful make-up hid the signs of age beneath. 她细腻的化妆掩盖了妆容下年龄的痕迹。
+The body was buried beneath a pile of leaves. 尸体被埋在一堆树叶下面。
+The boat sank beneath the waves. 小船被浪吞没了。
+the muscles of his shoulders beneath his T-shirt 他T恤衫下的肩部肌肉 
+parking beneath the theatre 剧院底下的停车库 
+Her careful make-up hid the signs of age beneath. 她细腻的化妆掩盖了妆容下年龄的痕迹。
+On a shelf beneath he spotted a photo album. 在下方的架子上他发现了一本相册。
+He considers such jobs beneath him. 他觉得这种工作有失他的身份。
+They thought she had married beneath her. 他们认为她下嫁了（嫁给了地位比她低的人）。
+
+n. [U] 被很多人使用或接受，即流行:
+n. [C, U] 一国在交易流通过程中发挥交换之媒介作用的物品，即“通货”，因绝大部分情况下都是钱币充当此媒介，故也常称为“货币”。currency是本组其它表示“钱币”之词的基础，是一个高度概括性的学术概念，强调钱币作为一个系统而具有的流通性和媒介属性:
+currency |['kʌrənsɪ]
+The term ‘post-industrial’ now has wide currency.“后工业化”这个术语现已广为使用。
+The qualification has gained currency all over the world. 这种资质在全世界都得到了普遍认可。
+This belief has general currency. 这种信仰广泛流行。
+national currency 本国货币 
+foreign currency 外币 
+Japanese currency 日本货币 
+weak currency 疲软货币 
+hard currency 硬通货 
+paper currency 纸币 
+currency exchange 货币兑换 
+currency markets 货币市场 
+currency devaluation 货币贬值 
+currency system 货币体系（或货币制度）
+currency reform 货币改革
+
+n. [U] 热情，友好:
+n. 1 [U] 温暖，暖和:
+2 [U] 保暖:
+warmth |[wɔ:mθ]
+the warmth of the welcome 热情的欢迎 
+emotional, personal warmth 情感的热忱；性情和善 
+a person without human warmth 不近人情的人
+the comforting warmth of her bed 她的床铺的舒适温暖 
+the pleasant warmth of the fire 温暖的炉火 
+the warmth of the sun 温暖的阳光 
+The warmth spread through her body. 暖流传遍了她的全身。
+Browns and golds add warmth to a room. 褐色和金色会给房间增添温暖。
+Insulation will help retain the house’s warmth. 加隔热层将有助于房子保暖。
+
+vt.＆vi. adapt (yourself) (to sth) 适应（新情况），相当于adjust:
+vt. adapt sth (for sth) 改变…使其适应或适合（新用途、新情况），相当于modify:
+vt. 将一本书（或一部戏剧）改编或改写成戏剧、电影、电视节目等:
+adapt |[ə'dæpt]
+The organisms were forced to adapt in order to survive. 生物被迫适应环境，以求生存。
+It took him a while to adapt himself to his new surroundings. 他过了好一阵子才适应了新环境。
+The children have adapted well to the heat. 孩子们已经很适应炎热的天气了。
+A large organization can be slow to adapt to change. 大机构可能应变迟缓。
+to adapt to the new system 适应新制度 
+We need to assess the new situation and adapt accordingly. 我们需要评估一下新形势以便做出相应的改变。
+Most of these tools have been specially adapted for use by disabled people. 这些工具多数已经过特别改装，供残疾人使用。
+These styles can be adapted to suit individual tastes. 这些式样可以修改，以适应个人不同的爱好。
+Shelves were built to adapt the library for use as an office. 做了个书架，以便将这个图书馆改作一个办公室用。
+Her novel has been adapted for television. 她的小说已改编成了电视节目。
+
+vi.（尤指人）非常快速地去某地:
+vt.＆vi. 将食物放在沸水上用水蒸气来蒸煮，即蒸食物:
+n. 1 [U]（水沸腾后所转化成的）水蒸气:
+2 [U] 由水蒸气的压力所产生的动力，即蒸汽动力（用于为引擎、机器等提供动力）:
+3 [U] 在空气或物体表面由于温度突然下降所形成的小水滴，即水汽，相当于condensation:
+vi. 蒸发；散发蒸汽；冒水汽:
+vi.（船舶等）依靠蒸汽动力行驶:
+steam |[sti:m]
+He spotted her steaming down the corridor towards him. 他看见她沿着走廊向他疾步走来。
+The company is steaming ahead with its investment programme.（比喻用法）公司正抓紧实施自己的投资方案。
+The administration was determined to go full steam ahead with its reform programme.（比喻用法）当局决心全速推进其改革方案。
+steamed fish 蒸鱼
+Steam rose from the boiling kettle. 壶里的水开了，冒着蒸汽。
+a cloud of steam 一团蒸汽 
+steam iron 蒸汽熨斗 
+steam bath 蒸汽浴 
+steam power 蒸汽动力 
+steam train 蒸汽火车 
+The engine is driven by steam. 这台发动机由蒸汽驱动。
+She wiped the steam from her glasses. 她擦去眼镜上的水汽。
+a mug of steaming hot coffee 一大杯热气腾腾的咖啡
+The boat steamed across the lake. 汽船从湖上驶过。
+
+n. [C, U] 钢琴:
+adv.（弹奏或演唱）轻柔地:
+piano |[pɪ'ænəʊ,pɪ'ɑː-]
+to play the piano 弹钢琴 
+piano music 钢琴曲 
+electronic piano 电子钢琴 
+toy piano 玩具钢琴 
+piano key 钢琴的琴键
+
+adj. 1 不太可能改变的，即坚定的，坚决的，确定的:
+Jo held firm: nothing else would do. 乔很坚决:
+2（人的声音或手部的运动）坚决的，有力的:
+adj.（对…的控制）严格的:
+adj. 1（人等的位置、处境或对事物的理解）处于牢牢掌控（或掌握）中的:
+2 被牢固地固定在一地的，即牢固的，相当于secure:
+adj. 1 坚硬的，结实的，不容易压变形的:
+2（人等的行为、位置、处境或对事物的理解）处于牢牢掌控（或掌握）中的:
+adj.（人的声音）坚决的，有力的:
+n. [C] 公司，商号，商行。firm常指以提供服务为主的公司，有些类似于service，但service可指任何类型的服务性组织机构，且比firm更能体现出服务性:
+adj. firm (against sth) （一国的货币等）价值坚挺的:
+firm |[fə:m]
+a firm believer in socialism 坚定信仰社会主义的人 
+a firm agreement, a firm date, a firm decision, a firm offer, a firm promise 不太可能更改的协议；确定的日期；不能更改的决定；不能更改的报价（即实盘）；坚决的保证 
+firm beliefs, firm conclusions, firm principles 坚定不移的信仰；定论；坚定的原则 
+firm evidence 确凿的证据 
+They remained firm friends. 他们依然友情甚笃。
+‘No,’ she repeated, her voice firmer this time.“不。”她重复说，这次语气较为坚决。
+With a firm grip on my hand, he pulled me away. 他紧握我的手把我拉开。
+Her handshake was cool and firm. 她握手镇定而有力。
+firm control, firm discipline, firm leadership 严格的控制；严格的纪律；严格的领导 
+Parents must be firm with their children. 父母必须对子女严格。
+The company now has a firm footing in the marketplace. 现在这家公司在市场上已站稳脚跟。
+a firm grasp of English grammar 对英语语法的牢固掌握 
+We need to keep a firm grip on the situation. 我们需要牢牢地掌控局面。
+Stand the fish tank on a firm base. 把鱼缸放在牢固的基座上。
+No building can stand without firm foundations, and neither can a marriage. 没有稳固的基础，建筑就不牢靠，婚姻也是如此。
+a firm bed 结实的床 
+firm muscles 结实的肌肉 
+These peaches are still firm. 这些桃子还很硬。
+Bake the cakes until they are firm to the touch. 把糕饼烤到摸起来有硬感为止。
+firm control, firm discipline, firm leadership 严格的控制；严格的纪律；严格的领导 
+Parents must be firm with their children. 父母必须对子女严格。
+a firm grasp of English grammar 对英语语法的牢固掌握 
+to keep a firm grip on the situation 牢牢地掌控局面 
+The company now has a firm footing in the marketplace. 现在这家公司在市场上已站稳脚跟。
+‘No,’ she repeated, her voice firmer this time. “不。”她重复说，这次语气较坚决。
+big, large, major firm 大公司 
+medium-sized firm 中型公司 
+small firm 小公司 
+private firm 私人企业 
+family firm 家族企业 
+multinational firm 跨国公司 
+foreign firm 外国公司 
+accountancy（尤英）, accounting（尤美）, audit, auditing, consulting, engineering, law, manufacturing, marketing, PR, software（尤英）, etc. firm 会计师事务所；审计事务所；咨询公司；工程公司；律师事务所；制造公司；营销公司；公关公司；软件公司等 
+a firm specializing in high-tech products 一家专注于高科技产品的公司 
+a partner in a firm 公司合伙人
+The euro remained firm against the dollar. 欧元对美元依然坚挺。
+
+vt.&vi.（使）某物烤硬:
+vi. [非正式]（变得）灼热、炎热；被晒、受炙烤:
+~ (sb) sth（在烤炉里）烘烤、烘焙（食物）:
+n. [C]（蔬菜或鱼与其他配料切碎拌和后经烘烤的）烤菜:
+bake |[beɪk]
+The bricks are left in the kiln to bake. 砖坯放在窑里烧。
+The sun had baked the ground hard. 太阳把地面晒硬了。
+If you closed the windows you baked. 如果把窗户关上，你会热死的。
+Britain bakes in a Mediterranean heatwave. 地中海的热浪炙烤着英国。
+We sat baking in the sun. 我们坐在太阳底下晒得热死了。
+vt.&vi. ~ sth (for sb) 
+The house was filled with the scent of freshly baked bread. 房子里飘着新鲜出炉的烤面包的香味。
+I love to bake. 我喜欢烘烤糕点。
+How did you learn to bake cakes? 你怎么学会烘蛋糕的？
+I'm baking a birthday cake for Alex. 我在给亚历克斯烤生日蛋糕。
+the delicious smell of baking bread 烤制面包的香味 
+Bake the cake for 35 to 50 minutes. 将蛋糕烘35到50分钟。
+The batter rises as it bakes. 烘烤的时候，面糊会膨胀起来。
+baked apples 烤苹果
+an aubergine bake 烤茄子           
+
+vt. suggest sth (to sb) 让某人拥有某个想法；使某人认为某事属实。即使想到，使认为；表明。相当于indicate和show，一般可互换:
+vt. 1 suggest sth (to sb) 提出一个想法或计划供别人考虑，即建议，提议，相当于propose。不如advise那样天然具有目的性或专业性。任何“提出一个想法或计划供别人考虑”的行为都是一种suggest:
+suggest sb/sth (as sth) 向某人举荐或推荐（一个合适的人、事物或方法）（来做某项工作或达成某个目的），相当于recommend:
+vt. 间接陈述某事，即暗示，言下之意是说，相当于imply:
+vt.＆vi. 提出看法:
+suggest |[sə'dӡest]
+All the evidence suggests (that) he stole the money. 所有证据都表明是他偷了钱。
+The symptoms suggest a minor heart attack. 症状显示这是轻微心脏病发作。
+What do these results suggest to you? 照你看，这些结果说明什么呢？
+The novel implicitly suggests that racism can explain the murder. 这本小说含蓄地指出种族歧视是这场谋杀的真正原因。
+I suggest (that) we go out to eat. 我提议我们出去吃吧。
+I would suggest that you see your doctor about this. 我建议你找医生看看这个情况。
+A solution immediately suggested itself to me. 我马上想到了一个解决办法。
+2 suggest sb/sth (for sth) 
+Who would you suggest for the job? 要你说，谁适合这个岗位？
+to suggest a good place to eat 推荐一个吃饭的好地方 
+to suggest a dictionary 推荐一本词典 
+Can you suggest how I might contact him? 我怎么才能联系上他，你能出个主意吗？
+Are you suggesting (that) I’m lazy? 你言下之意是说我懒？
+I would never suggest such a thing. 我根本没有这样的意思。
+to suggest a different explanation for the company’s decline 对公司的衰落给出不同的解释 
+‘Shall I tell them you’re unwell?’ Alice suggested helpfully.“要我告诉他们你病了吗？”艾丽斯好心地问道。
+I am merely suggesting that there is more than one way to view this matter. 我只是想说这个问题可以从不止一个角度来看。
+It seems reasonable to suggest that all life forms on earth share a common origin. 地球上所有的生命形式有着共同的起源，这种说法似乎有道理。
+It is not far-fetched to suggest a connection between them. 说他们之间有联系，这并不牵强。
+
+in a happy way:以快乐的方式
+it is fortunate that:幸运的是
+happily |ˈhapɪli| Adverb/:,快乐地
+Eleanor giggled happily:Eleanor开心地咯咯笑
+happily, today's situation is very different:happyly，今天的情况很不一样
+
+adj. 可能变化的；经常变化的。相当于unpredictable:
+changeable |['tʃeɪndӡəbl]
+The weather is very changeable at this time of year. 年年在这个时候天气都变化无常。
+
+vi. 1 发生，尤指未经计划而发生，即偶然发生。是一个常规用词，最为常用:
+2 作为某事（或某种情况、行为）的结果而发生:
+3（尤指不愉快的事）发生（在某人身上）:
+vt.＆vi. 恰巧或碰巧（做某事或是…）:
+vi. 用于告诉某人某事，尤指当你不同意他们或对其所说的表示恼怒的时候:
+happen |['hæpən]
+You’ll never guess what’s happened! 你根本猜不到出了什么事！
+Accidents like this happen all the time. 此类事故经常发生。
+She pressed the button but nothing happened. 她按下按钮，但什么反应也没有。
+What happens if nobody comes to the party? 要是没有人来参加聚会，会怎么样呢？
+She couldn’t quite believe that all this was actually happening to her. 她简直无法相信这一切居然真的发生在自己身上。 
+She happened to be out when we called. 我们打电话时她刚巧不在家。
+We happened to discover we had a friend in common. 我们碰巧发现我们有个共同的朋友。
+That happens to be my mother you’re talking about! 你们谈论的是我母亲！
+
+vi. 光线强烈地照射:
+stream (with sth)（液体或气体）持续地移动或倾泻出；产生一股持续的液体流或气流:
+vi.（大量的人或东西）一个接一个地移动到某地（如鱼贯而行）:
+vi.（尤指在风中或水中）自由移动:
+n. [C] 一条小的、狭窄的河流，汉语中常称为“溪”、“小溪”:
+vt. 用流式技术来播放视频或音频（即无须待整个文件已下载到计算机上便可播放互联网上的视频或音频文件）:
+n. 1 [C] stream (of sth) 一股持续的液体流、气流、烟、光线等:
+2 [C] stream (of sth/sb) 一股持续的人流、车流或其他事物流:
+3 [C] stream of sth 大量接二连三（或源源不断）发生的事:
+n. [C] [尤英]（把同龄学生按智力编在一起的）班，组:
+vt. [尤英] [美常用track]（在学校中）把学生按能力分班（或分组）:
+n. [C] stream (of sth/sb) 一股持续的人流、车流等。是一个形象化用法:
+stream |[stri:m]
+Sunlight was streaming into the courtyard. 阳光当时正照进那院子。
+vt.＆vi. stream (from sth) 
+Tears streamed down his face. 泪水顺着他的脸往下流。
+a streaming cold 流鼻涕的感冒 
+Blood was streaming from her head. 血从她头上流出来。
+Black smoke streamed from the exhaust. 排气管里冒出黑烟。
+People streamed across the bridge. 桥上行人川流不息。
+Refugees have been streaming into Germany for months. 难民几个月来一直大量涌入德国。
+Her scarf streamed behind her. 她的围巾在身后飘动。
+little, small stream 小溪 
+rushing stream 湍急的溪水 
+bubbling stream 潺潺的小溪 
+mountain, underground stream 山涧；地下溪流 
+The stream flows through a narrow valley. 小溪流过狭窄的山谷。
+A stream of blood flowed from the wound. 一股鲜血从伤口流出来。
+a stream of cigarette smoke 一缕香烟的烟雾 
+air, gas stream 空气流；气体流 
+I’ve had a steady stream of visitors. 我不断有客人。
+a stream of traffic 一股车流 
+a constant stream of letters 源源不断的信件 
+funding stream 资金流 
+audio, data, video stream 音频流；数据流；视频流 
+a constant stream of enquiries 接连不断的询问 
+The agency provided me with a steady stream of work. 这介绍所让我不断有活干。
+a never-ending stream of jokes 接连不断的笑话 
+He let loose a stream of abuse. 他破口大骂起来。
+the stream-of-consciousness technique in modern literature 现代文学的意识流手法
+She was put into the fast stream. 她被分在了快班。
+Pupils are streamed for Maths. 学生上数学课时按能力分成小组。
+Cars filed past in an endless stream. 汽车川流不息，鱼贯而过。
+a stream of traffic 一股车流
+
+adj. 只用于名词前，（一个人）已故的:
+adj. 1 只用于名词前，接近一段时间、一个人的生命等的末尾的:
+2 通常不用于名词前，比预期的时间（或事先安排的时间、通常的时间）到达（或发生、完成）得晚的，如迟到:
+3 接近一天的末尾的。即近日暮的；近深夜的:
+adv. 1 晚于预期的时间；晚于事先安排的时间；晚于通常的时间:
+2 接近于一段时间（或一个人的生命）的末期:
+3 接近于一天的结尾。即临近日暮；接近午夜:
+adj. 只用于名词前，接近一个人的生命的末尾的:
+adv. 接近于一个人的生命的末期:
+late |[leɪt]
+her late husband 她已故的丈夫
+in the late afternoon 傍晚 
+in late summer 夏末 
+She married in her late twenties. 她快三十岁时才结婚。
+later life 晚年 
+the late 1970s 20世纪70年代末 
+I’m sorry I’m late. 对不起，我迟到了。
+My flight was an hour late. 我那趟航班晚点了一小时。
+Because of the cold weather the crops are later this year. 因天气寒冷，农作物今年成熟得晚。
+Interest will be charged for late payment. 逾期付款必须支付利息。
+Let’s go home--it’s getting late. 咱们回家吧，时间不早了。
+What are you doing up at this late hour? 深更半夜的，你在做什么？
+I got up late. 我起床晚了。
+She has to work late tomorrow. 她明天得熬夜工作。
+She married late. 她结婚晚。
+The birthday card arrived three days late. 生日贺卡晚到了三天。
+late in March, late in the afternoon 三月下旬；傍晚 
+It happened late last century. 那件事发生在上个世纪末。
+He became an author late in life. 他到晚年才成为作家。
+late that evening 那天深夜 
+Share prices rose again late in the day. 那天临近收盘时股票价格再次上涨。
+She married in her late twenties. 她快三十岁时才结婚。
+later life 晚年 
+He became an author late in life. 他到晚年才成为作家。
+
+n. 1 [U] 主管某一职责。强调对该职位所管辖的事务负责:
+2 [C] 被照管的人，为正式和幽默说法:
+vt. charge sb (with sth/with doing sth) 公开指责或谴责某人做了错事或坏事，为正式用法:
+n. [C] 指责或谴责某人做了错事或坏事，相当于allegation:
+n. [C] 单数名词，表示引起强烈感情的力量，即感染力，震撼力:
+vt. charge sth (with sth) 文学用语，常用被动式，指使某人充满某种情绪:
+vt.＆vi. 向前猛冲，攻击:
+vi. 向某个方向冲去:
+n. [C] 突然猛冲或暴力猛攻，如士兵的冲锋、动物的猛冲或一些体育运动中运动员的猛攻:
+n. [C] 单数名词，表示任务、职责或责任，为正式用法:
+vt. charge sb with sth 赋予某人一项责任或任务，为正式用法，常用被动式:
+vt. 英国正式用法中可指注满玻璃杯:
+n. [C, U] 电池（或带电物质）的充电量、带电量、电荷:
+vt. charge (sth) (up) 给…充电:
+n. [C, U] charge (for sth) 对商品和服务所进行的要价，收费，是从卖方角度给出的定义:
+charge (sb) sth (for sth) 对商品或服务进行收费，要价:
+n. [C, U] 北美非正式用法中可指赊欠账，词义上相当于account，但不如account常用。不过charge既可指赊欠账户，也可指赊欠行为:
+vt. charge sth to sth 把…记在账上:
+n. [C] 射击或爆炸所需的炸药量:
+vt. 过时用法中可指为枪炮装炸药:
+n. [C] 士兵的冲锋:
+vt.＆vi. 向前猛冲，攻击:
+vt. charge sb (with sth/with doing sth) 正式控告或起诉:
+n. [C, U] 由警方对某人所提起的正式指控，控告:
+n. [C] 突然猛冲或暴力猛攻:
+vi. 向某个方向冲去:
+charge |[tʃɑːdӡ]
+She has charge of the day-to-day running of the business. 她负责掌管日常业务。
+to take charge of the financial side 主管财务工作 
+He took charge of the farm after his father’s death. 他在父亲去世后掌管了农场。
+The conductor has overall charge of the train. 列车长对列车负总责。
+She took personal charge of the files. 她亲自掌管文件。
+The child is under my charge until her mother returns. 这孩子在她妈妈回来之前由我照管。
+I need to feel more in charge of my life. 我需要能在更大程度上掌控自己的生活。
+Opposition MPs charged the minister with neglecting her duty. 反对党议员指责女部长玩忽职守。
+Be careful you don’t leave yourself open to charges of political bias. 你要小心别留下把柄，让人家指责你带有政治偏见。
+The prime minister dismissed the charge that he had misled Parliament. 首相否认了他误导议会的指控。
+the emotional charge of the piano piece 那首钢琴曲扣人心弦的感染力
+The room was charged with hatred. 这个房间里充满了敌意。
+a highly charged atmosphere 一触即发的紧张气氛
+The bull put its head down and charged. 公牛低下头猛冲过来。
+We charged at the enemy. 我们向敌人发起冲锋。
+She charged into the room. 她冲进屋内。
+The children were all charging around outside. 孩子们在外面乱冲乱撞。
+The rhino charged headlong towards/toward us. 犀牛急速地向我们冲来。
+He led the charge down the field. 他努力沿着球场冲杀过去。
+cavalry charge 骑兵或装甲兵的攻击 
+They were driven back by a police baton charge. 他们被警察用警棍赶了回去。
+Young people are leading the charge to clean up the city. 年轻人率先打扫城市卫生。
+His charge was to obtain information. 他的职责是收集信息。
+The governing body is charged with managing the school within its budget. 管理机构负有在预算范围内管理好学校的职责。
+Please charge your glasses and drink a toast to the bride and groom! 请各位斟满酒杯向新娘、新郎敬酒！
+positive, negative charge 正电荷；负电荷 
+Before use, the battery must be charged. 电池使用前必须充电。
+to make a small charge for refreshments 收取少量茶点费 
+fixed, standard charge 固定收费；标准收费 
+additional, extra charge 附加收费；额外收费 
+commission, handling, interest charge 佣金；搬运费；利息费 
+service charge 服务费 
+delivery charge 配送费 
+admission, call charge 入场费；通话费 
+to be free of charge 免费 
+There is no charge for this service. 本项服务免费。
+vt.＆vi. charge (sb/sth) for sth 
+to charge you half price 收你半价 
+to charge for admission 收入场费 
+to charges a commission on all transactions 对所有交易收取手续费 
+What did they charge for the repairs? 他们收了多少修理费？
+The restaurant charged £20 for dinner. 这家餐馆收了20英镑的餐费。
+Calls will be charged at 90 cents a minute. 话费将按每分钟90美分收取。
+to put it on my charge 把它记在我的账上 
+‘Are you paying cash?’ ‘No, it’ll be a charge.’ “你用现金支付吗？”“不，记账吧。”
+The cost is charged directly to the profit and loss account. 成本直接记在损益账上。
+£50 will be charged to your account. 50英镑将记在你的账下。
+Don’t worry. I’ll charge it (= pay by credit card).（美）别担心，我会用信用卡付款的。
+cavalry charge 骑兵或装甲兵的攻击 
+We charged at the enemy. 我们向敌人发起冲锋。
+He was charged with murder. 他被指控犯有谋杀罪。
+Several people were arrested but nobody was charged. 有数人被捕，但均未受到起诉。
+He has been charged in connection with the attack. 他被指控与那起袭击案件有关。
+civil, criminal, disciplinary charge 民事指控；刑事指控；违反纪律指控 
+murder charge 谋杀指控 
+charge sheet（英）案情记录 
+to drop, to withdraw charge 撤销控告；撤回指控 
+to face a charge 面临指控 
+Police have brought a charge of dangerous driving against the man. 警方以危险驾驶罪控告那名男子。
+The court dismissed the charge against him. 法庭驳回了对他的指控。
+They were driven back by a police baton charge.（英）他们被警察用警棍赶了回去。
+The animal might charge at us. 那只动物可能会袭击我们。        
+
+vt. treat sb/sth (with/as/like sth) 以某种方式来对待…:
+vt. 把…看作（或视为）…:
+n. [C] 让人快乐或享受的事（尤指你给予某人的或为其所做的令其享受的事）:
+vt. treat sth (with sth) 利用化学物质或化学反应过程来处理（如清洁、保护、保存等）:
+vt. 以某种方式来讨论…:
+n. [C] 让人快乐或享受的事（尤指你给予某人的或为其所做的令其享受的事）:
+vt. treat sb (for sth) (with sth)（对疾病或损伤进行）治疗:
+vt. treat sb/yourself (to sth) 为别人或自己的享受而付费（尤指为不常享受的东西而付费）:
+treat |[tri:t]
+He treated most of his relatives with indifference. 他对他的大多数亲戚颇为冷淡。
+My parents always treat us like a child. 我父母总把我当孩子看。
+They treat their animals quite badly. 他们对自己养的动物很不好。
+Treat your books with care. 爱惜你的书。
+It will be treated as a case of attempted murder. 这起案件将作为谋杀未遂案件来处理。
+These allegations are being treated very seriously indeed. 这些指控确实正受到认真的对待。
+He treated the idea with suspicion. 他对这个想法持怀疑态度。
+My remark was treated as a joke by him. 他把我的话当作戏言。
+He was treated as a hero. 他被人们当作英雄。
+I’ll take you to the cinema as a special treat. 我带你到电影院享受一下。
+Chocolate is a treat for me. 吃巧克力对我来说是一种享受。
+Let’s go out for dinner, my treat. 咱们到外面去吃饭吧，我请客。
+birthday treat（尤英）生日宴请 
+family treat 家庭宴请 
+frozen treat（美）（甜点等）冷冻的美食 
+musical, visual treat 音乐盛宴；视觉盛宴 
+Snails are a tasty treat for hedgehogs. 蜗牛是刺猬的佳肴。
+wood treated with preservative 经过防腐处理的木材 
+to treat crops with insecticide 给庄稼喷洒杀虫剂 
+chemically treated hair 经过化学处理的头发
+This question is treated in more detail in the next chapter. 这一问题将在下一章得到更详细的阐述。
+I’ll take you to the cinema as a special treat. 我带你到电影院享受一下。
+Chocolate is a treat for me. 吃巧克力对我来说是一种享受。
+Let’s go out for dinner, my treat. 咱们到外面去吃饭吧，我请客。
+birthday treat（尤英）生日宴请 
+family treat 家庭宴请 
+frozen treat（美）（甜点等）冷冻的美食 
+musical, visual treat 音乐盛宴；视觉盛宴 
+Snails are a tasty treat for hedgehogs. 蜗牛是刺猬的佳肴。
+Doctors treated him with aspirin. 医生用阿斯匹林给他治疗。
+He was treated for a minor head wound. 他因头部轻伤而接受治疗。
+The drug is effective at treating depression. 该药对抑郁症有效。
+I’ll treat you to chocolate. 我请你吃巧克力。
+I’m going to treat myself to a new T-shirt. 我打算给自己买件新T恤衫。
+Tomorrow I’ll treat myself to a day’s reading. 明天我要好好享受一天的阅读。
+
+vt. 使某事做起来（或理解起来）容易，如使简化，使简易:
+simplify |['sɪmplɪfaɪ]
+The whole process has now been greatly simplified. 现在整个流程都大大简化了。
+to simplify applications 简化申请程序 
+I hope his appointment will simplify matters. 我希望他任命以后事情会好办一些。
+a simplified version of the story for young children 供小朋友阅读的一个故事简写本 
+He presents the theory in a grossly simplified form. 他极其简明地陈述了这个理论。
+
+n. [C] 一位英明干练、贤明谨慎并受人尊敬的政治领袖，通常级别较高，有明确的褒义色彩:
+statesman |['steɪtsmən]
+the party’s elder statesman 该党元老 
+a world statesman 国际政治家 
+
+n. [C, U] 对一个计划或想法、意见所持有的怀疑态度，即保留意见，怀疑，相当于misgiving:
+n. [C] 美国为北美的土著人划出的居留地，保留地，也可用reserve:
+n. [C] 对飞机、火车上的座位的预订，对旅馆房间等的预订:
+reservation |[͵rezə'veɪʃn]
+I have serious reservations about his ability to do the job. 我非常怀疑他有没有能力胜任这份工作。
+They support the measures without reservation. 他们毫无保留地支持这些措施。
+I have certain reservations regarding several of the clauses in the contract. 我对合同中的几项条款持保留意见。
+My one reservation concerns the performance of the vehicle in wet conditions. 我的一个顾虑是车辆在潮湿环境中的性能。
+to make a reservation 预订 
+airline, flight, travel reservation 航班预订；旅游预订 
+hotel, room（美）reservation 旅馆预订；房间预订 
+dinner, restaurant（均尤美）reservation 晚餐预订；餐馆预订 
+reservation service, reservation system 预订服务；预订系统 
+reservation form 预订表格 
+Do you have an online reservation? 您有在网上预订吗？
+Reservations are recommended. 建议提前预订。
+
+n. [C]（某一体系的）结构:
+n. [C] framework (of/for sth)（作为判断、决定等基础的）一系列信念、观点或准则:
+n. [sing.] 一栋建筑物（或一个物体）的框架、结构（起支撑作用，同时构成了其形状）:
+framework |['freɪmwə:k]
+legal, social, economic framework, historical 法律体系；社会体系；经济体系；历史框架 
+administrative, policy framework 管理体系；政策框架 
+conceptual, intellectual, theoretical framework 概念框架；学术框架；理论框架 
+the basic framework of society 社会的基本结构 
+The needs of individual schools need to be considered in a wider framework. 个别学校的需求应放到一个更广大的体系中去考虑。
+They established a basic framework of ground rules for discussions. 他们为讨论建立了基本规则框架。
+The committee will work within the framework of certain broad objectives. 委员会将在某些大的目标框架内工作。
+The report provides a framework for further research. 报告提供了进一步研究的原则。
+wooden shelves on a steel framework 钢支架上的木隔板
+
+vt. consider sb/sth (as) sth 以某种方式来看待…，即认为，以为，觉得:
+vt. 考虑…，尤指考虑到他人的感情或感受，并在做决策等时候受这种考虑的影响，如体谅，顾及，考虑到:
+vt. [正式] 仔细看…，如端详:
+vt.＆vi. 仔细考虑或思考某事（尤指为了做出一个决定）。比think相对正式:
+consider |[kən'sɪdə]
+He considers himself an expert on the subject. 他认为自己是这门学科的专家。
+Who do you consider (to be) responsible for the accident? 你认为谁对这起事故负有责任？
+He is widely considered to be a future star. 人们普遍认为他将来会成为明星。
+This award is considered (to be) a great honour. 该奖项被视为极大的荣誉。
+These workers are considered (as) a high-risk group. 这些工人被视为高风险人群。 
+You should consider other people before you act. 你在行动之前应当考虑到别人。
+He stood there, considering the painting. 他站在那里，凝视着那幅画。
+ a carefully considered response 一个经过仔细考虑的回复 
+We’re considering buying a new car. 我们在考虑买一辆新车。
+He was considering what to do next. 他在考虑下一步怎么办。
+I’d like some time to consider. 我希望花些时间考虑一下。
+Each case is considered separately. 对每种情况分别进行考虑。
+
+n. [C] –gram写（或画）出来的东西:
+n. [C] 克（重量单位，英式也用gramme，其缩写为g或gm）:
+gram |[ɡræm]
+telegram, hologram 电报；全息图
+A football weighs about 400 grams. 一个足球重约400克。

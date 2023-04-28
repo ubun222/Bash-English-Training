@@ -59,7 +59,7 @@ eventually |ɪˈvɛn(t)ʃʊəli| Adverb/:最终,终于
 eventually, after midnight, I arrived at the hotel:终于，午夜过后，我到了酒店
 
 chance or luck as an arbitrary force affecting human affairs:机会或运气作为影响人类事务的任意力量
-luck, especially good luck:luck，特别好运
+luck, especially good luck:运气特别好
 the success or failure of a person or enterprise over a period of time:一个人或企业在一段时间内的成败
 a large amount of money or assets:大量金钱或资产
 a surprisingly high price or amount of money:钱惊人的高价格或金额
@@ -76,7 +76,7 @@ a person's sense of resolve or determination:一个人的决心或决心
 have as one's intention or objective:有作为一个人的意图或目标
 purpose |ˈpəːpəs| Noun/Verb/:目的,宗旨
 the purpose of the meeting is to appoint a trustee:会议的目的是任命受托人
-state pensions are considered as earned income for tax purposes:state养老金被视为税收收入
+state pensions are considered as earned income for tax purposes:出于税收目的，国家养老金被视为收入
 there was a new sense of purpose in her step as she set off:在她出发时，她的脚步有了新的目标感
 God has allowed suffering, even purposed it:上帝允许苦难，甚至是故意的
 
@@ -102,7 +102,7 @@ carefully stretch and then tense your muscles:小心地伸展然后拉紧你的�
 the future tense:将来时
 
 a structure carrying a road, path, railway, etc. across a river, road, or other obstacle:承载公路、小路、铁路等跨越河流、公路或其他障碍物的结构
-something intended to reconcile or connect two seemingly incompatible things:something旨在调和或连接两个看似不相容的事物
+something intended to reconcile or connect two seemingly incompatible things:旨在调和或连接两个看似不相容的事物的东西
 the elevated, enclosed platform on a ship from which the captain and officers direct operations:船长和高级船员指挥操作的船上的高架封闭平台
 the upper bony part of a person's nose:人鼻子的上骨部分
 the central part of a pair of glasses, fitting over the bridge of the nose:一副眼镜的中央部分，贴合在鼻梁上
@@ -118,7 +118,7 @@ a card game related to whist, played by two partnerships of two players who at t
 bridge |brɪdʒ| Noun/Verb/:桥,架桥,桥梁
 a bridge across the River Thames:泰晤士河上的一座桥
 a committee which was formed to create a bridge between rival party groups:一个委员会，该委员会的成立是为了在敌对的政党团体之间架起一座桥梁
-Talbot stepped across the two gunwales and made his way up to the bridge:Talbot跨过两条船舷，向桥上走去
+Talbot stepped across the two gunwales and made his way up to the bridge:塔尔博特跨过两条船舷，向舰桥走去
 he pushed his spectacles further up the bridge of his nose:他把眼镜推到鼻梁上
 these sunglasses have a special nose bridge for comfort:这些太阳镜有一个特殊的鼻梁，舒适
 ebony bridges and fingerboards:乌木琴桥和指板
@@ -141,11 +141,11 @@ I'm a stranger in these parts:我在这些地方是个陌生人
 he is no stranger to controversy:他对争议并不陌生
 
 set (someone) free from imprisonment, slavery, or oppression:set（某人）免于监禁、奴役或压迫
-free (a place or people) from enemy occupation:free（一个地方或人）从敌人占领
+free (a place or people) from enemy occupation:从敌人的占领中解放（一个地方或人民）
 release (someone) from a situation which limits freedom of thought or behaviour:从限制思想或行为自由的情况中释放（某人）
-free (someone) from social conventions, especially those concerned with accepted sexual roles:free（某人）来自社会习俗，尤其是那些与公认的性角色有关的人
+free (someone) from social conventions, especially those concerned with accepted sexual roles:使（某人）摆脱社会习俗，尤其是那些与公认的性角色有关的习俗
 release (gas, energy, etc.) as a result of chemical reaction or physical decomposition:由于化学反应或物理分解而释放（气体、能量等）
-steal (something):steal（某物）
+steal (something):偷（东西）
 liberate |ˈlɪbəreɪt| Verb/:解放,释放,解放出来
 the serfs had been liberated:农奴解放了
 twelve months earlier Paris had been liberated:12个月前，巴黎解放了
@@ -169,7 +169,7 @@ go out to nightclubs:去夜店
 a heavy stick with a thick end, used as a weapon:一根粗头的重棍，用作武器
 one of the four suits in a conventional pack of playing cards, denoted by a black trefoil.:传统扑克牌中的四种花色之一，用黑色三叶草表示。
 a card of such a suit.:一张这样的花色的牌。
-beat (a person or animal) with a club or similar implement:beat（人或动物）用棍棒或类似工具
+beat (a person or animal) with a club or similar implement:用棍棒或类似工具打（人或动物）
 club |klʌb| Noun/Verb/:俱乐部,用棍棒打,会所
 I belong to a photographic club:我属于摄影社
 a jazz club:a爵士乐俱乐部
@@ -241,7 +241,7 @@ to judge with my proper eyes:用我正确的眼睛来判断
 he is a proper youth!:他是个正经的青年！
 my eyes were all blurry and I couldn't see proper:我的眼睛都模糊了，我看不清楚
 he blotted his copybook good and proper:他把他的字帖擦得干干净净
-we go to the High Mass, with plainsong propers sung by the Ritual Choir:wegotothehighmass,withplainsongpropsbytheRitualChoir
+we go to the High Mass, with plainsong propers sung by the Ritual Choir:我们去参加大弥撒，由仪式合唱团演唱朴素的歌曲
 
 the meal proper | 正餐,适当的膳食
 
@@ -270,15 +270,15 @@ reduce (a product or service) in price:降低（产品或服务）的价格
 buy or sell (a bill of exchange) before its due date at less than its maturity value:在到期日之前以低于其到期价值的价格买入或卖出（汇票）
 regard (a possibility or fact) as being unworthy of consideration because it lacks credibility:认为（一种可能性或事实）不值得考虑，因为它缺乏可信度
 discount |ˈdɪskaʊnt| Noun/Verb/:折扣,打折
-rail commuters get a discount on season tickets:rail通勤者可享受季票折扣
+rail commuters get a discount on season tickets:铁路通勤者获得季票折扣
 a product may carry a price which cannot easily be discounted:一个产品的价格可能无法轻易打折
-one shop has discounted children's trainers:oneshop童鞋打折
+one shop has discounted children's trainers:一家商店有打折的儿童运动鞋
 the bill will be discounted, sold for a sum less than its maturity value:票据将被打折，以低于其到期价值的价格出售
 I'd heard rumours, but discounted them:我听说过谣言，但不以为然
 
-make (someone or something) late or slow:make（某人或某事）迟到或慢
+make (someone or something) late or slow:使（某人或某物）迟到或变慢
 be late or slow, loiter:迟到或慢，闲逛
-postpone or defer (an action):postpone或defer（一个动作）
+postpone or defer (an action):推迟或推迟（一项行动）
 a period of time by which something is late or postponed:某事迟到或推迟的一段时间
 the action of delaying or being delayed:延迟或被延迟的动作
 the time interval between the propagation of an electrical signal and its reception.:电信号的传播和接收之间的时间间隔。
@@ -302,11 +302,11 @@ a car:一辆汽车
 a thing resembling a wheel, in particular a cheese made in the form of a shallow disc:一个类似轮子的东西，特别是一种以浅盘形式制成的奶酪
 an instance of wheeling, a turn or rotation.:一个转动、转弯或旋转的实例。
 a set of short lines, typically five in number and rhyming, concluding the stanza of a poem.:一组短行，通常为五行，押韵，结束一首诗的节。
-push or pull (a vehicle with wheels):pushorpull（带轮子的车辆）
+push or pull (a vehicle with wheels):推或拉（有轮子的车辆）
 carry in or on a vehicle with wheels:在有轮子的车辆中或在有轮子的车辆上携带
 (of a bird or aircraft) fly in a wide circle or curve:（鸟或飞机的）大圆圈或曲线飞行
 turn round quickly so as to face another way:快速转身，以面对另一个方向
-turn or seem to turn on an axis or pivot:turn或似乎在转动轴或枢轴
+turn or seem to turn on an axis or pivot:转动或似乎转动轴或枢轴
 wheel |wiːl| Noun/Verb/:,推,轮,轮子
 a chair on wheels:带轮子的椅子
 the final release from the wheel of life:生命之轮的最终解脱
@@ -315,7 +315,7 @@ his crew know when he wants to take the wheel:他的工作人员知道他什么�
 the wheels of justice:正义之轮
 she's got wheels now:她现在有轮子了
 a small wheel of Brie:一小轮布里干酪
-Luke was wheeling a barrow:Luke正在推着一辆手推车
+Luke was wheeling a barrow:卢克推着手推车
 a young woman is wheeled into the operating theatre:一名年轻女子被推入手术室
 the birds wheeled and dived:鸟儿转着身子俯冲而下
 Robert wheeled round to see the face of Mr Mafouz:罗伯特转身去看马福兹先生的脸
@@ -329,7 +329,7 @@ gear wheel | 齿轮,大齿轮
 
 the indefinite continued progress of existence and events in the past, present, and future regarded as a whole:将过去、现在和未来视为一个整体的存在和事件的无限持续进展
 the continued progress of existence as affecting people and things:影响人和事物的存在的持续进步
-time or an amount of time as reckoned by a conventional standard:time或按常规标准计算的时间量
+time or an amount of time as reckoned by a conventional standard:按常规标准计算的时间或时间量
 the personification of time, typically as an old man with a scythe and hourglass.:时间的化身，通常是一个拿着镰刀和沙漏的老人。
 a point of time as measured in hours and minutes past midnight or noon:一个时间点，以午夜或中午之后的小时和分钟为单位
 a moment or definite portion of time allotted, used, or suitable for a purpose:分配、使用或适合某一目的的片刻或确定部分的时间
@@ -347,7 +347,7 @@ the normal rate of pay for time spent working:工作时间的正常工资率
 the length of time taken to run a race or complete an event or journey:参加比赛或完成一项活动或旅程所花费的时间
 the moment at which the opening hours of a pub end:酒吧营业时间结束的那一刻
 a moment at which play stops temporarily within a game:游戏中游戏暂时停止的时刻
-time as allotted, available, or used:time已分配、可用或已使用
+time as allotted, available, or used:分配的、可用的或使用的时间
 a prison sentence:入狱
 an instance of something happening or being done, an occasion:某事发生或正在做的事例，一个场合
 an event, occasion, or period experienced in a particular way:以特定方式经历的事件、场合或时期
@@ -355,7 +355,7 @@ an event, occasion, or period experienced in a particular way:以特定方式经
 the rhythmic pattern of a piece of music, as expressed by a time signature:一段音乐的节奏模式，用拍号表示
 the tempo at which a piece of music is played or marked to be played.:一段音乐播放或标记为播放的速度。
 plan, schedule, or arrange when (something) should happen or be done:计划、安排或安排（某事）应该发生或完成的时间
-perform (an action) at a particular moment:perform（动作）在特定时刻
+perform (an action) at a particular moment:在特定时刻执行（动作）
 measure the time taken by (a process or activity, or a person doing it):测量（一个过程或活动，或做它的人）所花费的时间
 time |tʌɪm| Noun/Verb/:时间,计时,时
 travel through space and time:穿越时空
@@ -366,7 +366,7 @@ the scheduled departure time:预定出发时间
 it was time to go:是时候走了
 travelling always distorts one's feelings for a time:旅行总是会扭曲一个人的感情一段时间
 Victorian times:维多利亚时代
-times have changed:times变了
+times have changed:时代变了
 the Oxford Times:牛津时报
 I've known a lot of women in my time:我认识很多女人
 in my time that was unheard of:在我闻所未闻的时代
@@ -384,10 +384,10 @@ she was having a rough time of it:她过得很艰难
 eleven times four is forty-four:十一乘四等于四十四
 tunes in waltz time:华尔兹时间的曲调
 the first track race is timed for 11.15:第一场赛道比赛时间为11.15
-Williams timed his pass perfectly from about thirty yards:Williams从大约30码处完美地计时了他的传球
+Williams timed his pass perfectly from about thirty yards:威廉姆斯从大约三十码处完美地把握了他的传球时机
 we were timed and given certificates according to our speed:我们根据我们的速度计时并颁发证书
 
-multiply (a number):multiply（一个数字）
+multiply (a number):乘以（一个数）
 times |tʌɪmz| Verb/:次,时代
 you times the six by four to get twenty-four:you乘以六乘四得到二十四
 
@@ -398,16 +398,16 @@ touch or press (part of a machine or other device) in order to work it:触摸或
 (of a missile or a person aiming one) strike (a target):（导弹或瞄准的人）打击（目标）
 be suddenly and vividly realized by:be恍然大悟
 cause harm or distress to:造成伤害或困扰
-(of a disaster) occur in and cause damage to (an area) suddenly:(灾难的)突然发生并给(地区)造成损害
+(of a disaster) occur in and cause damage to (an area) suddenly:（灾难）突然发生在（一个地区）并造成损害
 attack and rob or kill:攻击和抢劫或杀戮
-reach (a particular level, point, or figure):reach（特定级别、点或图形）
+reach (a particular level, point, or figure):达到（特定水平、点或数字）
 be affected by (an unfortunate and unexpected circumstance or event):被（不幸和意外的情况或事件）影响
 arrive at or go to (a place):到达或去（一个地方）
 (of a product) become available and make an impact on:（产品的）变得可用并产生影响
 take effect:生效
 give (someone) a dose of a drug or an alcoholic drink.:给（某人）一剂药物或酒精饮料。
 engage in a particular pursuit or activity with enthusiasm:热情地从事特定的追求或活动
-propel (a ball) with a bat, racket, stick, etc. to score runs or points in a game.:propel（球）用球棒、球拍、棍子等在比赛中得分或得分。
+propel (a ball) with a bat, racket, stick, etc. to score runs or points in a game.:用球棒、球拍、棍子等推动（球）在比赛中得分或得分。
 score (a run or point) by hitting a ball with a bat, racket, stick, etc.:用球棒、球拍、棍子等击球得分（跑分或得分）。
 an instance of striking or being struck:一个打击或被打击的例子
 a verbal attack:口头攻击
@@ -427,12 +427,12 @@ the sniper fired and hit a third man:狙击手开枪击中第三个人
 the area has been badly hit by pit closures:该地区因停坑而受到严重打击
 the country was hit by a major earthquake:国家遭遇大地震
 if they're cops, maybe it's not a good idea to have them hit:如果他们是警察，也许打他们不是个好主意
-capital spending this year is likely to hit $1,800 million:capital今年的支出可能达到18亿美元
+capital spending this year is likely to hit $1,800 million:今年的资本支出可能达到 18 亿美元
 the opening of the town centre hit a snag:市中心的开放遇到了障碍
 it was still night when we hit the outskirts of London:我们到达伦敦郊区的时候还是晚上
 the latest board game to hit the market:最新上市的棋盘游戏
 we sat waiting for the caffeine to hit:we坐等咖啡因来袭
-we went to Val d'Isère to hit the shops:we去Vald'Isère逛商店
+we went to Val d'Isère to hit the shops:我们去 Val d'Isère 逛商店
 he had hit 25 home runs:他打出25个本垒打
 few structures can withstand a hit from a speeding car:few结构可以承受超速汽车的撞击
 I think people will try to take a hit at my credibility:我认为人们会试图打击我的可信度
@@ -446,12 +446,12 @@ in another hour, I'll need another hit:再过一个小时，我需要再打一�
 a material made from the skin of an animal by tanning or a similar process:一种由动物皮肤通过鞣制或类似工艺制成的材料
 leather clothes, especially those worn by a motorcyclist:皮衣，尤其是摩托车手穿的
 a piece of leather as a polishing cloth.:一块皮革作为抛光布。
-beat or thrash (someone):beat或thrash（某人）
-strike or kick (a ball) very hard:strikeorkick(aball)非常用力
+beat or thrash (someone):殴打或殴打（某人）
+strike or kick (a ball) very hard:非常用力地击打或踢（球）
 leather |ˈlɛðə| Noun/Verb/:皮革,皮,革,真皮
 he was dressed head to toe in black leathers:他从头到脚都穿着黑色皮革
 he caught me and leathered me black and blue:他抓住了我，把我变成了黑色和蓝色
-Carlos took his customary 20-metre sprint up to the ball and leathered it:Carlos用他惯常的20米冲刺冲向球，并把球打了
+Carlos took his customary 20-metre sprint up to the ball and leathered it:卡洛斯将他惯常的 20 米短跑带到了球前
 
 leathers | 皮革,皮革制品
 
@@ -485,12 +485,12 @@ accurate or correct in all details:准确或正确的所有细节
 (of a person) accurate and careful about minor details:（一个人的）对小细节的准确和谨慎
 (of a subject of study) permitting precise measurements as a basis for rigorously testable theories:（研究主题）允许精确测量作为可严格检验的理论的基础
 demand and obtain (something) from someone:需求并从某人那里获得（某物）
-inflict (revenge) on someone:inflict（报复）某人
+inflict (revenge) on someone:对某人造成（报复）
 exact |ɪɡˈzakt| Adjective/Verb/:精确的,强行要求,精确,确切,准确
 the exact details were still being worked out:具体细节仍在制定中
 an exact replica, two feet tall, was constructed:一个精确的复制品，两英尺高，被建造
 she was an exact, clever manager:她是一位精确、聪明的经理
-psychomedicine isn't an exact science yet:psychomedicine还不是一门精确的科学
+psychomedicine isn't an exact science yet:心理医学还不是一门精确的科学
 he exacted promises that another Watergate would never be allowed to happen:他严格承诺永远不会再发生水门事件
 he exacts a cruel revenge against the winning candidate:他对获胜的候选人进行残酷的报复
 

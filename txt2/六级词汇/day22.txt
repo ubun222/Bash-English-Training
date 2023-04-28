@@ -1,0 +1,598 @@
+bribe						贿赂
+guesstimate					约略估计
+negotiation					谈判
+hardship					穷困，艰难，磨难
+badge						徽章，象征
+compromise					妥协，危及，减少
+excess					过量，过多的
+descendant					后代
+fulfill					实现，满足，符合
+collective					集体的
+amend						修改，纠正，改进
+tangled					缠在一起的
+qualification				资格，素质，限定
+recall					召回，回忆起，使...恢复
+adopt						领养，提名，采用
+tasteless					淡而无味的，庸俗的
+drown						淹死，压过
+tragedy					灾难，悲剧
+circulation					循环，传播，流通
+grand						壮观的，傲慢的，极好的，大钢琴
+inadequate					不充分的
+household					家庭
+authorization				授权
+auxiliary					辅助的，辅助物
+adverse					不利的
+descriptive					描写的，记叙的
+trace						痕迹，微量，小路，查出
+bloom						花，风华正茂
+evaluate					评价，评判
+humanistic					人文主义的
+\\\\\\\\
+
+n. [C] 贿赂（即为了让对方替自己做非法之事而给予对方的钱财或贵重物品）:
+~ sb (into doing sth) 向（某人）行贿:
+bribe |[braɪb]
+It was alleged that he had taken bribes while in office. 他被指称在任时收受贿赂。
+He admitted paying bribes to police officers. 他承认贿赂警察。
+He was being investigated for receiving bribes. 他因收受贿赂正在接受调查。
+She had been offered a $50 000 bribe to drop the charges. 有人用5万元贿赂她，要她撤回控告。
+He paid out millions of dollars in bribes. 他行贿数百万美元。
+vt. ~ sb (with sth) 
+He was accused of bribing a senior bank official. 他被指控贿赂一名高级银行官员。
+They bribed the guards with cigarettes. 他们用香烟贿赂看守。
+The government bribed the workers to be quiet. 政府收买工人让其保持沉默。
+She was bribed into handing over secret information. 她被收买交出了机密。
+He managed to bribe his way onto the ship. 他设法行贿混上了船。
+
+A guesstimate is an approximate calculation which is based mainly or entirely on guessing. (凭猜测得出的) 估计
+guesstimate |英 [ˈɡestɪmət]  美 [ˈɡestɪmət]| n. 瞎猜；依推测的估计/vt. 瞎猜；估计/
+The 30 percent figure may be no more than a guesstimate.30%这一数字可能只是个大约的估计。
+
+
+n. [C, usually pl., U]（尤指政治和商业领域的）谈判，协商，磋商:
+negotiation |[nɪˌgəʊʃiˈeɪʃn;美-ˌgoʊʃi-]
+peace, trade, wage negotiations 和谈；贸易洽谈；工资谈判 
+They begin another round of negotiations today. 他们今天开始了另一轮的谈判。
+to enter into/open/conduct negotiations with sb 和某人开始/展开/进行谈判 
+The rent is a matter for negotiation between the landlord and the tenant. 租金可以由房东和租户协商确定。
+A contract is prepared in negotiation with our clients. 我们和客户协商起草了一份合同。
+The issue is still under negotiation. 这个问题还在商讨之中。
+The price is generally open to negotiation. 一般来讲，价格可以商量。
+We have had meaningful negotiations and I believe we are very close to a deal. 我们已进行了有益的磋商，我相信我们很快能成交。
+After 10 years of negotiation, the Senate ratified the strategic arms reduction treaty. 经过10年协商，参议院已经正式批准了《削减战略武器条约》。
+
+n. [U, C]（由于没有足够的钱、食物、衣服等而）艰难且令人不快的一种情形，可称为艰难、困苦、拮据等:
+hardship |['hɑːdʃɪp]
+economic, personal, physical hardship 经济困难；个人磨难；身体上的磨难 
+They are living in genuine hardship. 他们确实生活困难。
+The cold was no real hardship to me. 我并不觉得冷到难熬的地步。
+
+n. 1 [C] [英]（美国英语通常用button指小型金属徽章）（某人佩戴的金属或塑料材质的）徽章（用以标明此人隶属于某个组织机构，或表明此人支持某事、达成了某事、处于某个级别等）:
+2 [C] [英] [美用patch] 缝在制服上的标记、标识:
+3 [C]（某人携带或佩戴的，用于证明其身份的）证章（如警徽）:
+n. [C] [正式] 标志、象征:
+badge |[bædʒ]
+She wore a badge saying ‘Vote for Coates’. 她戴着一枚徽章，上面写着“投科茨一票”。
+All employees have to wear name badges. 所有员工均须佩戴姓名牌。
+button badge（英）纽扣徽章 
+a badge of office（尤英）
+His badge of office, a large gold key, hung around his neck. 他脖子上挂着公职徽章—把大金钥匙。
+merit badge（尤美）荣誉勋章 
+Gates earns a merit badge for his ideas on surviving the recession.（比喻用法，尤美）盖茨为度过萧条时期出谋划策，从而立了一功。
+the school badge 校徽 
+cap badge（英）帽徽 
+blazer, lapel badge（均英）队服徽章；领徽 
+He pulled out a badge and said he was a cop. 他拿出工作证，说他是警察。
+police badge（尤美）警徽 
+badge holder(= an object for holding a badge）（尤英）证章套 
+badge holder（= a person who has a badge）（尤英）徽章持有者 
+parking for disabled badge holders 残疾证持有者专用停车位
+His gun was a badge of power for him. 他的枪对他而言是权力的标志。
+Being a Communist was a badge of honour for thousands of trade union activists. 对数千工会积极分子来说，成为共产党员是荣誉的象征。
+His scars are badges of honour/honor.（比喻用法）他身上的伤疤就是荣誉勋章。
+
+vi. compromise (with sb) (on sth) 为达成协议而向对方妥协（即放弃自己的一些要求）:
+vt.＆vi. compromise (on sth) 做违背自己原则的事；或做达不到自己所设定的标准的事:
+n. 1 [C] 两人或两个群体之间所达成的一份相互妥协的协议，也可称为相互让步、折中。是一个常规用词，最为常用:
+2 [C] compromise (between A and B)（针对一个问题的）一个妥协（或折中）方案（即当该问题中的两项或多项内容不能共存时，对各项做出轻微删减或改动从而使各项共存）:
+3 [U] 达成妥协或和解的过程，即妥协，和解:
+vt. compromise sb/sth/yourself（尤指因行为不是很明智而）使某人陷入危险或受到怀疑，可称为损害或危害:
+compromise |['kɒmprəmaɪz]
+Neither side is prepared to compromise. 双方都不愿意妥协。
+to compromise with the opposition party 向反对党派让步 
+I refuse to compromise my principles. 我拒绝在原则问题上妥协。
+We are not prepared to compromise on safety standards. 我们不愿在安全标准上妥协。
+After lengthy talks the two sides finally reached a compromise. 双方经过长期的商谈终于达成了妥协。
+This model represents the best compromise between price and quality. 这种型号是价格和质量间的最佳折中方案。
+to seek a compromise 寻求一种折中办法 
+Compromise is an inevitable part of life. 妥协是生活不可避免的一部分。
+political compromise 政治上的妥协 
+compromise agreement 和解协议 
+compromise candidate 折中人选
+She had already compromised herself by accepting his invitation. 她接受了他的邀请，这件事已经使她的声誉受到了损害。
+Defeat at this stage would compromise their chances of reaching the finals of the competition. 在这个阶段的失败会减少他们进入决赛的机会。
+The affair seriously compromised the party’s prospects of success. 这一事件严重影响了该党在选举中获胜的机会。
+
+n. 1 [sing, U] ~ (of sth) 比需要的、合理的或可接受的还多，即超过、过度:
+2 [C, U] 超过的数量:
+adj. [只用于名词前] 超过必要、通常或合法数量的，如超额的:
+n. [pl.] excesses 不可接受的、非法的或不道德的极端行为，如放肆行为、越轨行为:
+n. [C, usually sing.] [英] [美用deductible] 保险中的免赔额（即需要自己支付的那部分）:
+excess |[ɪkˈses]
+Are you suffering from an excess of stress in your life? 你生活中的压力太大吗？
+In an excess of enthusiasm I agreed to work late. 我一时热情过度答应了工作到很晚。
+His statements cannot be simply dismissed as rhetorical excess. 不能简单地把他的陈述斥之为夸大之词。
+verbal excess 话语啰嗦 
+alcoholic excess（英）过量饮酒 
+He started drinking to excess after losing his job. 他失业后便开始酗酒了。
+I was reasonably fit, played a lot of tennis, and didn't smoke or drink to excess. 我相当健康，经常打网球，不怎么吸烟，也不酗酒。
+'Avoid excess' is the golden rule for a healthy life. 健康生活的一条黄金法则就是“避免过度”。
+Polyunsaturated oils are essential for health. Excess is harmful, however. 多不饱和油对健康很重要。但是，食用过量就会有害。
+The drug can be harmful if taken in excess. 过量服用药物是有害的。
+Red meat, eaten to excess, is very high in fat and calories. 过量食用的红肉中脂肪和卡路里含量很高。
+The energy value of dried fruits is considerably in excess of that of fresh items. 干果的能量值大大超过新鲜水果。
+The car can travel at speeds in excess of 90 miles per hour. 该车的车速能达到每小时90英里以上。
+a large excess of gas 严重过量的煤气 
+An excess of house plants in a small flat can be oppressive. 在小公寓中摆放过多室内植物会让人觉得很压抑。
+Avoid deposits in excess of £20,000 in any one account. 单一账户存款勿超过两万英镑。
+The increase will not be in excess of (= more than) two per cent. 增加幅度不会超过百分之二。
+You can throw away any excess. 凡超量的你都可以扔掉。
+We cover costs up to £600 and then you pay the excess. 我们最多支付600英镑的费用，超过的部分由你支付。
+The major reason for excess weight is excess eating. 体重超标的主要原因是饮食过量。
+Excess food is stored as fat. 多余的食物作为脂肪贮存起来。
+After cooking the fish, pour off any excess fat. 烹完鱼后，倒掉多余的油。
+Driving with excess alcohol in the blood is a serious offence. 血液里酒精含量过高时驾车是严重的违法行为。
+a letter demanding an excess fare of £20 要求额外付20英镑邮资的信 
+Staff who have to travel farther can claim excess travel expenses. 需要到更远的地方出差的职员可以领取额外差旅费。
+adolescent excess 青春期的放肆 
+She said she was sick of her life of excess. 她说她厌倦了自己无节制的生活。
+We need a free press to curb government excesses. 我们需要新闻自由来约束政府的越轨行为。
+Washington has always been a city of wretched excesses.（美）华盛顿一直是一个极度放纵的城市。
+the worst excesses committed by the occupying army 占领军犯下的残忍暴行
+There is an excess of £100 on each claim under this policy. 本保险单每次索赔均有 100 英镑的免赔额。
+The company wanted £1,800 for a policy with a £500 excess for under-21s. 那家公司想要办理单价1,800英镑的保单，并且要求21岁以下人员承担价值500英镑的免赔额。
+
+n. [C]（由过去类似物发展而来的）派生物:
+n. [C] 一个人的后代、后裔、子孙:
+n. [C] 植物的后代:
+n. [C] 由一门语言派生出来的一支语系:
+descendant |[dɪˈsendənt]
+His design was a descendant of a 1956 device. 他的设计是从一个 1956 年的装置衍生而来的。
+They are the descendants of plants imported by the early settlers. 它们是早期移民带来的一些植物的后代。
+Quechua, the lineal descendant of the Inca language 克丘亚语——印加语的直系派生语言
+He was an O'Conor and a direct descendant of the last High King of Ireland. 他属于奥康纳家族，是爱尔兰最后一位君王的嫡系后裔。
+Many of them are descendants of the original settlers. 他们中许多人都是早期移民的后裔。
+They are descendants of the original English and Scottish settlers. 他们是最初的英格兰和苏格兰定居者的后代。
+Lord Cochrane and his descendants 科克伦勋爵及其后裔 
+immediate descendant 直接后代 
+distant, remote descendant 远亲后代 
+living, modern descendant 在世的后人；现代的后裔 
+He is Brecht's spiritual descendant. 他是布莱希特的精神传人。
+They are the descendants of plants imported by the early settlers. 它们是早期移民带来的一些植物的后代。
+Quechua, the lineal descendant of the Inca language 克丘亚语——印加语的直系派生语言
+
+ I know that I have a purpose in this world and I live to fulfill this purpose.  我知道我来到这个世上是有目标的，我活着就是为了实现这个目标。
+ Ask yourself, "To what extent do my actions enable me to fulfill myself?  问下你自己：“我的行动到底多大程度上满足了自己的目标？”
+ And that is why we can fulfill our destiny.  这就是为什么我们能实现我们的命运。
+fulfill |英/美 [ful'fil]| vt. 履行；实现；满足；使结束（等于fulfil）/
+
+
+
+adj. 1 [常用于名词前] 为一群人所共有的；或涉及到整个人类群体或社会的:
+2 [常用于名词前] 用于指全体成员的:
+n. [C] 共同拥有并运用一家企业或一个农场的一群人；也可指此类企业或农场。可称为企业集团、合作农场、集体企业:
+n. [C] 共同拥有并运用一个农场的一群人；也可指此类农场。可称为合作农场:
+n. [C] 共同拥有并运用一家企业的一群人；也可指此类企业。可称为企业集团、集体企业:
+collective |[kəˈlektɪv]
+collective leadership, collective decision-making, collective responsibility, collective wisdom 集体领导；集体决策；共同责任；集体的智慧 
+It was a collective decision. 这是集体的决定。
+collective memory (= things that a group of people or a community know or remember, that are often passed from parents to children) 集体记忆 
+The country's politicians are already heaving a collective sigh of relief. 该国的政界人士均已松了口气。
+The collective name for mast, boom and sails on a boat is the ‘rig ’. 船的桅杆、帆桁和帆总称为“索具”。
+Social science is a collective name, covering a series of individual sciences. 社会科学是一个统称，涵盖一系列的独立学科。
+Their collective volume wasn't very large. 他们的总量不是太大。
+an independent collective making films for television 为电视制作影片的独立集体企业 
+He will see that he is participating in all the decisions of the collective. 他会确保自己参与集体企业的各项决策。
+an independent collective making films for television 为电视制作影片的独立集体企业 
+He will see that he is participating in all the decisions of the collective. 他会确保自己参与集体企业的各项决策。           
+
+vt. 轻微修改法律、文件、声明等，使其更正确或更好，即修正、修订:
+amend |[əˈmend]
+to amend act, to amend bill, to amend constitution 修订法案；修订宪法 
+to amend treaty 修订条约 
+to amend clause 修订条款 
+to amend schedule 修订日程表 
+He asked to see the amended version. 他要求看修订本。
+The president agreed to amend the constitution and allow multi-party elections. 总统同意修订宪法，允许多党选举。
+'You must admit that the man has got charm,' said Nicolson. 'Glamour,' amended Wells. “你必须承认这个男人有魅力，”尼科尔森说。“是诱惑力，”韦尔斯纠正说。
+
+adj. 复杂且难以理解的，如纠缠不清的:
+adj. 混乱缠结在一起的:
+tangled |[ˈtæŋgld]
+tangled financial affairs 错综复杂的财务
+My hair got all tangled. 我的头发乱七八槽的。
+My legs got hopelessly tangled in the rope. 我的双腿被绳子死死缠住。
+tangled bed clothes 凌乱的床上用品
+
+n. 1 [C] 为某一工作或活动所需的一项技能（或一种经验），现实中可称为资格、资历:
+2 [U] 通过一项考核、完成一门训练课程、达到做某项工作（或参加某项比赛）所需的标准（是一种已达成了的既定事实）。即获得资格、合格、达到标准:
+n. [C, usually pl.] [英] 所通过的考试，或成功学完的课程，现实中可称为学历、资格:
+n. [C, U] 你对某一陈述所附加的一条限定性信息（可限定此陈述的效用或其所适用的情况），相当于proviso:
+qualification |[͵kwɒlɪfɪ'keɪʃn]
+Previous teaching experience is a necessary qualification for this job. 教学经验是从事这项工作的一个必备条件。
+He held no formal qualification in law. 他在法律方面不具备任何正式的资质。
+Nurses in training should be given a guarantee of employment following qualification. 接受培训的护士取得资格后应有工作保障。
+A victory in this game will earn them qualification for the World Cup. 这场比赛的胜利将使他们取得世界杯的参赛资格。
+academic, educational, professional, vocational qualifications 学术资历；教育学历；专业资质；职业资历 
+nursing, teaching qualification 护理资格；教学资格 
+He left school with no formal qualifications. 他离开学校没有获得正式学历。
+In this job, experience counts for more than paper qualifications. 干这项工作，经验比文凭更重要。
+The plan was approved without qualification. 这项计划获得无条件批准。
+I agree with his view, with a few qualifications. 我同意他的观点，但是有一些保留。
+The term ‘population’ as used here requires qualification. 这里使用的“人口”一词需要限定一下。
+
+vt. 命令某人返回，即召回:
+vt. 召回、收回（残次货品等）:
+n. [sing.] 召回令、回归请求:
+n. [U]（对过去发生之事的）记忆力、记性:
+vt.&vi. [正式]（不用于进行时）记起、回忆起:
+Her teacher recalled: 'She was always on about modelling.' 她的老师回忆说:
+vt.（不用于进行时）使某人想起某事:
+recall |[rɪˈkɔ:l]
+Both countries recalled their ambassadors. 两个国家都召回了各自的大使。
+He was recalled to military duty. 他被召回执行军事任务。
+Parliament was recalled from its summer recess. 国会在夏季休会之后又重新开议。
+They have both been recalled to the Welsh squad (= selected as members of the team after a time when they were not selected). 他们俩都被重新召回了威尔士队。
+Dean Richards was recalled to the England squad for the match with Wales. 迪安·理查兹被召回英格兰队参加对阵威尔士的比赛。
+I had done enough after being recalled against Pakistan to have got on the tour to India. 在被征召入队参加与巴基斯坦的比赛后，我为前往印度的行程做了充分准备。
+The company has recalled all the faulty hairdryers. 公司召回了所有有问题的吹风机。
+The company said it was recalling one of its drugs. 这个公司说正在召回他们生产的一种药。
+More than 3,000 cars were recalled yesterday because of a brake problem. 3,000多辆汽车因为刹车问题昨天被召回。
+Thomas's recall to the Welsh team 让托马斯回归威尔士队的要求
+He had a good memory, and total recall of her spoken words. 他记忆力很好，她当时说的话他全都记得起来。
+She has amazing powers of recall. 她有惊人的记忆力。
+to have instant recall (= to be able to remember sth immediately) 有快速记忆的能力 
+to have total recall (= to be able to remember all the details of sth) 记得所有细节 
+The ground has been polluted beyond recall. 这片土地已被污染得面目全非。
+the realities of operating a traditional canal boat can be readily imagined, even if the life itself is beyond recall 经营一艘传统的运河船的现实情形很容易想象，尽管那种生活本身已经无法忆起了。
+She could not recall his name. 她想不起他的名字。
+If I recall correctly, he lives in Luton. 如果我没记错的话，他住在卢顿。
+She could easily recall the smell of the orange groves. 她常常回忆起那个柑橘园的芳香。
+I am old enough now to wistfully recall moments of my youth. 我现在一把年纪了，每当想起年轻的岁月时就会感到怅然若失。
+He could still recall that first meeting clearly. 他还能清晰地记起初次见面的情景。
+I seem to recall that she said she was going away. 我似乎记得她说过打算离开。
+I recall reading in an interview that he loved to cook. 我想起读到过他在一次访谈中谈到喜欢做饭。
+I can't recall meeting her before. 我想不起来以前曾经见过她。
+He recalled that she always came home late on Wednesdays. 他回想起她星期三总是很晚回家。
+Can you recall exactly what happened? 你能记起到底发生了什么事吗？
+Henderson recalled that he first met Pollard during a business trip to Washington. 亨德森记起他第一次见到波拉德是在一次去华盛顿出差的时候。
+As I recall, you're not on the board, Joe; you're only a minor shareholder. 我记得你并没有进董事会，乔，你只是一个小股东而已。
+You will recall that I sent you a warning of troubled times. Well now, almost everything I forecast has come about. 你还记得我警告过你时局会出现动荡吧。现在看来，几乎我预测的每件事都发生了。
+The poem recalls Eliot's ‘The Waste Land’. 这首诗令人想起艾略特的《荒原》。
+
+vt.（通过表决而）正式接纳一项建议或政策:
+vt. 承袭（一个风俗）等:
+vt. 1 采用（某种方法）；采取（某种态度）。是此义的常规用词:
+2 [正式] 采用（某种举止、说话或表达等方式）:
+3 选用（一个新名字）等:
+vt. 移居（到某国）:
+vt.＆vi. 收养或领养（别人的孩子）:
+vt. 1 采用（某种方法）；采取（某种态度）。是此义的常规用词:
+2 [正式] 采用（某种举止、说话或表达等方式）:
+3 选用（一个新名字）等:
+vt. [英] adopt sb (as sth) 在政治领域可指选定（某人为竞选的候选人）或选举（某人为代表）:
+adopt |[ə'dɒpt][ə'dɒpt]
+to adopt a resolution 通过一项决议 
+The council is expected to adopt the new policy at its next meeting. 委员会有望在下次会议上正式通过这项新政策。
+to adopt a title 袭用头衔 
+to adopt a practice 承袭习俗
+All three teams adopted different approaches to the problem. 三个队处理这个问题的方法各不相同。
+The policy has not yet been formally adopted. 这一政策还未被正式采纳。
+He adopted an air of indifference. 他摆出一副满不在乎的样子。
+to adopt a name, to adopt a language 取名；采用某语言
+to adopt a child 领养孩子 
+She was forced to have her baby adopted. 她被迫将自己的婴儿交与他人收养。
+All three teams adopted different approaches to the problem. 三个队处理这个问题的方法各不相同。
+The policy has not yet been formally adopted. 这一政策还未被正式采纳。
+He adopted an air of indifference. 他摆出一副满不在乎的样子。
+to adopt a name, to adopt a language 取名；采用某语言
+She was adopted as parliamentary candidate. 她被推举为议员候选人。
+
+adj. 对人们所公认的好东西（或高品质东西）缺乏鉴赏或选择的能力，即品味（或格调）低下的，俗气的:
+adj. 冒犯性的且不合适的，如不雅的，不得体的，粗俗的，煞风景的:
+adj. 几乎没有（或没有）滋味的:
+tasteless |['teɪstlɪs]
+tasteless decorations 俗不可耐的装饰品
+tasteless jokes 粗俗的笑话
+tasteless soup 淡而无味的汤
+
+vt.&vi. 淹死:
+vt. ~ sb/sth (out) 声音盖过…:
+vt. ~ sth (in sth) 作为比喻用法，可指被大量事物“淹没”:
+vt. ~ sth (in sth) 浸透、浸泡、淹没:
+drown |[draʊn]
+Two children drowned after falling into the river. 两个孩子掉进河里淹死了。
+He had attempted to rescue the drowning man. 他曾试图去救那个溺水的男人。
+She tried to drown herself. 她试图投水自杀。
+He was drowned at sea. 他淹死在海里。
+They had drowned the unwanted kittens. 他们把没人要的小猫淹死了。
+Forty-eight people have drowned after their boat capsized during a storm. 他们的船在暴风雨中倾覆后有 48 人溺亡。
+A child can drown in only a few inches of water. 儿童在只有几英寸深的水中就可能溺亡。
+She turned up the radio to drown out the noise from next door. 她开大了收音机的音量以压过隔壁房间的吵闹声。
+Clapping drowned the speaker's words for a moment. 鼓掌声一度淹没了发言人的声音。
+The conversation was drowned by the arrival of the taxi. 到来的出租车的声音压过了谈话的声音。
+We were drowning in data but starved of information. 我们淹没在大量的数据中却找不到有用的信息。
+people who gradually find themselves drowning in debt 渐渐发现自己债台高筑的人们
+The fruit was drowned in cream. 水果在奶油里泡过。          
+
+n. [C, U] 悲惨的事（尤指涉及到死亡）:
+n. [C, U]（戏剧中的）悲剧、悲剧作品:
+tragedy |[ˈtrædʒədi]
+family, human, personal, private tragedy 家庭悲剧；人类悲剧；个人悲剧 
+national tragedy 国家悲剧 
+A family's outing ended in tragedy when their boat capsized. 一家人出游，结果船翻了，以一场悲剧告终。
+We don't know what caused the tragedy. 我们不知道是什么造成了悲剧。
+Tragedy struck when their eight-year-old daughter was knocked down by a car. 悲剧发生，他们八岁的女儿被车撞了。
+Tragedy struck the family when their son was hit by a car and killed. 这个家庭惨遭不幸，他们的儿子被汽车撞死了。
+She had seen the tragedy unfold. 她看到了悲剧一步步展开。
+The closure of the factory is a tragedy for the whole community. 工厂的关闭是整个社区的悲剧。
+It's a tragedy that she died so young. 她英年早逝是一大悲哀。
+The whole affair ended in tragedy. 整个事件以悲剧而告终。
+They have suffered an enormous personal tragedy. 他们遭逢了巨大的个人不幸。
+Maskell's life had not been without tragedy. 马斯克尔的生活亦有过变故。
+Shakespeare's tragedies 莎士比亚的悲剧 
+Greek tragedy 希腊悲剧 
+The story has elements of tragedy and farce. 这个故事兼有悲剧与闹剧的元素。
+
+n. [U, C]（气、水等的）在一个系统或机器内的环流、循环:
+n. [U] 在人与人之间传递、流传、流通:
+n. [U]（某段时间的）社交活动、交际:
+n. [C, usually sing.]（报刊或杂志的）发行量:
+n. [C] 血液循环:
+circulation |[ˌsɜ:kjəˈleɪʃn;美ˌsɜ:rk-]
+the circulation of money, the circulation of information, the circulation of ideas 货币的流通；消息的传播；观念的流行 
+Restricted circulation of the report will reduce the risk of leaks outside the ministry. 有限制地传阅这份报告会降低泄露到部外的风险。
+Copies of the magazine were withdrawn from circulation. 这期杂志被收回，不再销售。
+A number of forged tickets are in circulation. 有一些假入场券在流通。
+The coins were taken out of circulation. 这种硬币已停止流通。
+the amount of money in circulation 流通的货币量 
+The supply of money in circulation was drastically reduced overnight. 流通领域的货币供应量一夜骤减。
+The new coins will go into general circulation next year. 新铸币将于明年进入全面流通。
+a society like America, with perhaps 180 million guns in circulation 像美国这样一个约有1.8亿支枪流散在外的社会
+Anne has been ill but now she's back in circulation. 安妮一直生病，但现在又回来参加社交活动了。
+Political trials were being used to keep prominent activists out of circulation. 通过对著名活动家进行政治审判使其从公众视线中消失。
+I had been out of circulation for a month and knew that many friends would be there. 我有一个月深居简出，不过我知道许多朋友正等着我。
+I was out of circulation for months after the baby was born. 孩子出生后我有几个月都没有参加社交活动。
+a daily circulation of more than one million 日发行量超过一百万份 
+The newspaper has a daily circulation of 20 000. 这份报纸的日发行量为2万份。
+The Daily News once had the highest circulation of any daily in the country.《每日新闻报》的发行量曾位居全国所有日报之首。
+The paper has proved unable to maintain its circulation figures. 事实证明这家报纸难以维持其发行量。
+circulation area 发行区域
+Regular exercise will improve blood circulation. 经常锻炼会促进血液循环。
+I have poor circulation. 我的血液循环不好。
+cold spots in the fingers caused by poor circulation 血液循环不畅导致的手指上的冻疮 
+to have a massage to stimulate your circulation 以按摩来刺激血液循环 
+the circulation of the blood 血液循环 
+Anyone with heart, lung or circulation problems should seek medical advice before flying. 有心肺疾病或血液循环问题的人在乘坐飞机前应寻求医生建议。
+
+adj. 1 令人印象深刻且巨大（或重要）的:
+2 只用于名词前，Grand用于恢宏或巨大的建筑物等的名称中:
+3 需要投入很多努力、金钱或时间才能成功的，意在达到恢弘效果的:
+adj.（人）由于富有或来自较高的社会阶层而行为傲慢的，高高在上的:
+adj. [方言或非正式] 非常令人享受的:
+adj. 1 令人印象深刻且巨大（或重要）的:
+2 只用于名词前，Grand用于恢宏或巨大的建筑物等的名称中:
+3 需要投入很多努力、金钱或时间才能成功的，意在达到恢弘效果的:
+adj. Grand用于社会地位极高的人的称号当中:
+n. [C] 大钢琴，相当于grand piano:
+n. [C] [非正式] 1000美元；1000英镑:
+adj. [方言或非正式] 非常好的，非常令人享受的，出色的:
+grand |[ɡrænd]
+It’s not a very grand house. 这房子并不是十分富丽堂皇。
+The wedding was a very grand occasion. 婚礼场面非常隆重。
+the Grand Canyon 大峡谷 
+We stayed at the Grand Hotel. 我们住在格兰酒店。
+grand design, grand plan, grand strategy 宏伟的蓝图；宏大的计划；重大的战略思想 
+New Yorkers built their city on a grand scale. 纽约人大规模地建造自己的城市。
+I had a grand day out at the seaside. 我在海边痛痛快快玩了一天。
+It’s not a very grand house. 这房子并不是十分富丽堂皇。
+The wedding was a very grand occasion. 婚礼场面非常隆重。
+the Grand Canyon 大峡谷 
+We stayed at the Grand Hotel. 我们住在格兰酒店。
+grand design, grand plan, grand strategy 宏伟的蓝图；宏大的计划；重大的战略思想 
+New Yorkers built their city on a grand scale. 纽约人大规模地建造自己的城市。
+the Grand Duchess Elena 大公夫人埃琳娜
+It’ll cost you five grand! 这要花去你5000块钱！
+I had a grand day out at the seaside. 我在海边痛痛快快玩了一天。
+Thanks. That’ll be grand! 谢谢。那太棒了！
+Fred did a grand job of painting the house. 弗雷德粉刷房子干得很出色。
+
+~ (to do sth) 不够的、不足的、不充分的:
+adj. 1（人）没有足够的能力或信心去处理一种情况的。相当于incompetent:
+2（事物）不够好的，没有足够能力的:
+inadequate |[ɪnˈædɪkwət]
+adj. ~ (for sth) 
+The food supplies are inadequate to meet the needs of the hungry. 食物供应还不足以应付饥民的需求。
+Supplies of food and medicines are inadequate. 食物和药品供应不足。
+The problem goes far beyond inadequate staffing. 问题远非人手不足那么简单。
+These precautions have been judged inadequate. 这些防范措施被认为不够周全。
+His wages were pitifully inadequate for the needs of his growing family. 他工资少得可怜，不够养活添丁增口的家庭。
+I felt totally inadequate as a parent. 我觉得我作为父亲（或母亲）完全不称职。
+I still feel inadequate, useless and mixed up. 我仍然感到自己能力不够，毫无用处，整个儿一团糟。
+He felt painfully inadequate in the crisis. 意识到自己在这场危机中无能为力，他感到很痛苦。
+I suddenly felt extremely inadequate as I compared myself to him. 我把自己跟他一比，突然觉得自己根本不称职。
+She was inadequate to the demands of the job. 她无法达到这份工作的要求。
+The staff seemed not only insensitive, but professionally inadequate. 员工不仅缺乏敏感度，而且也不够专业。
+People, despite their intelligence, are curiously inadequate at communicating with horses. 人类虽然很有智慧，但在与马交流方面却出奇地愚笨。
+This computer is clearly inadequate for my needs. 这台计算机显然不能满足我的需要。
+The helicopters are inadequate to the demands of modern combat. 这些直升机不能满足现代战斗的需求。
+The system is inadequate for the tasks it has to perform. 这个系统要完成它的任务还不够完善。
+
+adj. 家喻户晓的；众人皆知的:
+My agent told me, 'This'll make your name a household word.' 我的经纪人告诉我:
+n. 1 [C] 一家人；住在同一幢房子里的一群人:
+2 [sing.] 家；家务:
+adj.（用于王室警卫队名称中）皇家的:
+household |[ˈhaʊshəʊld;美-hoʊld]
+Today, fashion designers are household names. 今天，时装设计师是家喻户晓的人物。
+growing up in a male-only household 在一个只有男性的家庭里长大 
+Many poor households are experiencing real hardship. 很多贫穷家庭正经历严重的困难。
+Most households now own at least one car. 大多数家庭现在至少有一辆汽车。
+The head of the household is responsible for completing the form. 户主负责填写表格。
+The average household spends more on housing than on food. 一般家庭在住房上的花销多于食物。
+rural, urban household 乡村家庭；城市家庭 
+poor, wealthy household 贫穷家庭；富裕家庭 
+He was a member of the royal household. 他是王室成员。
+middle-class, working-class household 中产阶级家庭；工人阶级家庭 
+high-income, low-income household 高收入家庭；低收入家庭 
+family, married-couple, single-parent, single-person household 家庭；夫妻家庭；单亲家庭；单身家庭 
+households headed by a single parent单亲支撑的家庭 
+Becoming an adult and setting up a household no longer mean the same thing. 长大成人与成家立室已不再是一回事了。
+My husband gave me cash to manage the household, but none of it was ever my own. 丈夫给我钱来持家，但这些钱一毫一厘都不属于我。
+household appliance, household contents（尤英）, household furniture, household goods, household item, household product 家用电器；家居财物；家具；家庭用品 
+The household contents are covered by a separate insurance policy. 家庭财物上了单独的保险。
+household cleaner 家用清洁剂 
+household bills, household budget, household debt, household expenditure, household expenses, household income, household savings 家庭账单；家庭预算；家庭债务；家庭开支；家庭开销；家庭收入；家庭储蓄 
+household chore, household duties, household task 家务 
+household garbage（美）, household rubbish（英）, household trash（美）, household waste 生活垃圾
+the Household Cavalry Mounted Regiment 皇家骑兵团
+
+n. 1 [U, C] 官方对某事的批准、授权:
+2 [C] 官方的批准书、授权书:
+authorization |[ˌɔ:θəraɪˈzeɪʃn;美ˌɔ:θərəˈzeɪʃn]
+You may not enter the security area without authorization. 未经批准不得进入警戒地区。
+Who gave the authorization to release the data? 谁授权发表这些资料的？
+It would certainly be within his power to authorize a police raid like that. 他绝对有权批准那样的一次警方突袭行动。
+We are willing to authorize the president to use force if necessary. 我们愿意授权总统在必要的时候使用武力。
+formal, official, written authorization 正式许可；官方授权；书面授权 
+They secured congressional authorization for a new hydro-electric dam.（congressional authorization指美国的国会的许可）他们获得了国会的许可，修建一座坝式水力发电站。
+You will need prior authorization from your bank. 你需要事先得到你的开户银行的许可。
+We cannot act without the explicit authorization of the board. 没有董事会的明确许可，我们什么也不能做。
+He asked for authorization to proceed with the plan. 他请求批准继续推行这个计划。
+The government will probably refuse authorization under these conditions. 在这些情况下政府很可能会拒绝批准。
+You cannot take a day off without authorization. 未经批准不得休假。
+Formal authorization for the trip was given last week. 这次行程上周得到正式批准。
+The change of plan would require authorization from the president. 变更计划需要得到总统的批准。
+Can I see your authorization? 我能看你的授权书吗？
+
+An auxiliary is a person who is employed to assist other people in their work. Auxiliaries are often medical workers or members of the armed forces. 助手
+Auxiliary staff and troops assist other staff and troops. 后备的
+Auxiliary equipment is extra equipment that is available for use when necessary. 备用的
+auxiliary |英 [ɔːg'zɪlɪərɪ; ɒg-]  美 [ɔːɡ'zɪlɪəri]| n. 助动词；辅助者，辅助物；附属机构/adj. 辅助的；副的；附加的/
+Nursing auxiliaries provide basic care, but are not qualified nurses.助理护士们提供基本护理，但没有护士资格。
+The government's first concern was to augment the army and auxiliary forces.政府首要关注的是扩充军队与后备军。
+...an auxiliary motor.…一台备用的发动机。
+
+
+preventing success or development; harmful; unfavourable:
+adverse |ˈadvəːs| Adjective/:不利的,负面的
+taxes are having an adverse effect on production:taxes对生产有不利影响
+
+adj. 1 描写的:
+2 [语言学] 描写性的（描述语言的实际应用而非使用规则）:
+descriptive |[dɪˈskrɪptɪv]
+the descriptive passages in the novel 小说中的描写性段落 
+The passage is purely descriptive. 这段文字纯粹是叙述性的。
+his descriptive way of writing 他的描写性写作手法 
+The term I used was meant to be purely descriptive (= not judging). 我所用的措辞是纯叙述性的（并非作出判断）。
+a highly descriptive account of her journey through Africa 有关她穿越非洲之旅的生动描述 
+The terms are descriptive of strong emotion. 这些词语用于描述强烈的情感。
+
+n. 1 [C, U] 表明某人或某事物过去曾存在或出现的一个标记、物体或迹象，如遗迹、痕迹、踪迹:
+2 [sing.] sink without (a) ~（某人或某事物）迅速销声匿迹、迅速沉寂:
+vt.（用手指或脚尖等在表面上）绘出、勾勒出某事物的外形或轮廓:
+n. [C] ~ of sth 某事物的极少量:
+vt. ~ sb/sth (to sth) 通过仔细寻找而找到某人或某事物:
+vt. ~ sth (back) (to sth) 寻找某事物的起源或原因:
+n. [C] [术语] 机器获取信息后，在纸上或屏幕上显示的一条线或一个图形:
+vt. 描述（事物的过程或发展）:
+n. [C, usually pl.] 用于把马和其所拉的车拴在一起的两根皮质长绳子之一:
+vt. ~ sb/sth (to sth) 通过仔细寻找而找到某人或某事物:
+vt. ~ sth (back) (to sth) 寻找某事物的起源或原因:
+vt. ~ sth (out) 在一个表面上画线:
+vt.（用手指或脚尖等在表面上）绘出、勾勒出某事物的外形或轮廓:
+vt.（把一张透明的纸覆盖在地图或图画上，然后）在透明的纸上复制或描摹地图或图画:
+trace |[treɪs][treɪs]
+archaeological, historical trace 考古遗迹；历史遗迹 
+indelible, permanent trace 抹不掉的印记；永久的印记 
+memory trace（术语）记忆痕迹 
+It's exciting to discover traces of earlier civilizations. 发现以前文明的遗迹，真令人兴奋。
+The local church has traces of fifteenth-century frescoes. 当地教堂仍留有 15 世纪壁画的遗迹。
+Little trace is left of how Stone Age people lived. 石器时代人类的生活状况几乎无迹可寻。
+Traces still remain of the old brewery. 老酒厂仍然有迹可寻。
+There's been no trace of my aunt and uncle. 没有我姑姑、姑夫的踪迹。
+Police searched the area but found no trace of the escaped prisoners. 警方搜索了那一地区，但未发现越狱逃犯的任何踪迹。
+e burglar had left several traces of his presence. 窃贼在现场留下了几处痕迹。
+The search party had found no trace of the missing climbers. 搜救队没有找到失踪登山者的踪迹。
+Remove all traces of rust with a small wire brush. 用小钢丝刷擦去所有锈迹。
+Years of living in England had eliminated all trace of her American accent. 她因多年居住在英国，美国口音已荡然无存。
+‘No thanks,’ she said, with a trace of irritation in her voice. “不，谢了。”她说，声音里带着一丝恼怒。
+without trace（英）, without a trace 无影无踪 
+The plane was lost without a trace over the Atlantic. 飞机在飞越大西洋上空时消失得无影无踪。
+The ship had vanished without (a) trace. 那艘船消失得无影无踪。
+The ship seems to have sunk without trace. 那艘船似乎已经沉没，无迹可寻。
+The Social Democratic Party has sunk without trace at these elections. 社会民主党在这些选举中已销声匿迹。
+Pop groups are like Olympic swimmers — they hit gold once, then they sink without trace. 流行乐队就像奥林匹克游泳选手——拿到一次金牌后就无声无息了。
+He traced the route on the map. 他在地图上勾画出了路线。
+I traced the course of the river on the map. 我在地图上勾勒出这条河的流向。
+She lightly traced the outline of his face with her finger. 她轻轻地用手指去感觉他脸的轮廓。
+A tear traced a path down her cheek. 一滴眼泪沿着她的面颊流了下来。          
+trace amount 微量 
+trace element, trace gas, trace metal, trace mineral 微量元素；微量气体；微量金属；微量矿物 
+Seaweed is rich in vitamins and trace elements. 海藻含有丰富的维生素和微量元素。
+The post-mortem revealed traces of poison in his stomach. 验尸发现他胃中有微量毒物。
+The water was found to contain traces of cocaine. 发现水里含有微量可卡因。
+Wash them in cold water to remove all traces of sand. 用冷水冲洗它们以清除所有的沙子。
+He took great pains to write on his subject without a trace of sensationalism. 他尽力不带一丝哗众取宠的色彩来写作他的题材。
+There was not the faintest trace of irony in her voice. 她的声音里没有一丁点儿的讽刺意味。
+She spoke without a trace of bitterness. 她说话时一点儿也不伤感。
+a trace of amusement, a trace of anxiety, a trace of a smile 有点儿觉得好笑；有一丝忧虑；有一缕微笑
+We finally traced him to an address in Chicago. 我们终于追查到他在芝加哥的一个地址。
+Police are anxious to trace two men seen leaving the house just before 8am. 早上将近8点时有人看到两名男子离开那所房子，警方急于找到他们。
+Police have been unable to trace her movements during her final days. 警方无法追踪到她最后几天的行程。
+The stolen paintings have been successfully traced to a London warehouse. 失窃的画已成功地在伦敦的一个仓库中找到。
+We are currently trying to trace the whereabouts of certain sums of money. 我们目前正试图找到某些钱款的下落。
+She could trace her family tree back to the 16th century. 她能把本族家谱追溯到16世纪。
+The exhibition traces the history of graphic design in America from the 19th century to the present. 展览追溯了美国从19世纪至今的平面设计历史。
+Words have over the centuries acquired meanings not easily traced in dictionaries. 经过了数百年，词语的有些含义在词典里已难以查到来源。
+The origins of the custom are difficult to trace. 很难追溯这种风俗的起源。
+I first went there to trace my roots, visiting my mum's home island of Jamaica. 我最初到那里是为了寻根，探访我妈妈的故乡牙买加岛。
+The leak was eventually traced to a broken seal. 最后查出泄漏是由于密封处破裂所致。
+The police traced the call (= used special electronic equipment to find out who made the telephone call) to her ex-husband's number. 警方用追踪装置查出是她前夫的电话号码打出的电话。
+The trace showed a normal heart rhythm. 描记图表明心率正常。
+Her book traces the town's history from Saxon times to the present day. 她的书描述的是这个市镇从撒克逊时代到现在的历史。
+Police are anxious to trace two men seen leaving the house just before 8am. 早上将近8点时有人看到两名男子离开那所房子，警方急于找到他们。
+Police have been unable to trace her movements during her final days. 警方无法追踪到她最后几天的行程。
+The police traced the call (= used special electronic equipment to find out who made the telephone call) to her ex-husband's number. 警方用追踪装置查出是她前夫的电话号码打出的电话。
+She traced a line in the sand. 她在沙地上画了一条线。
+He traced the route on the map. 他在地图上勾画出了路线。
+I traced the course of the river on the map. 我在地图上勾勒出这条河的流向。
+She lightly traced the outline of his face with her finger. 她轻轻地用手指去感觉他脸的轮廓。
+A tear traced a path down her cheek. 一滴眼泪沿着她的面颊流了下来。
+She learned to draw by tracing pictures out of old storybooks. 她通过描摹旧故事书上的图画学会了画画。
+
+If something such as someone's skin has a bloom, it has a fresh and healthy appearance. 红润
+If someone or something blooms, they develop good, attractive, or successful qualities. 蓬勃发展
+When a plant or tree blooms, it produces flowers. When a flower blooms, it opens. 开花; (花) 开
+A plant or tree that is in bloom has flowers on it. 开花
+A bloom is the flower on a plant. 花
+bloom |英 [bluːm]  美 [blum]| n. 花；青春；旺盛/vt. 使开花；使茂盛/vi. 开花；茂盛/n. (Bloom)人名；(瑞典、西)布洛姆；(英)布卢姆/
+The skin loses its youthful bloom.皮肤失去了年轻时的红润。
+Not many economies bloomed in 1990, least of all gold exporters like Australia.没有几个国家的经济在1990年蓬勃发展，尤其是像澳大利亚这样的金矿出口国。
+This plant blooms between May and June.这种植物在五六月间开花。
+...a pink climbing rose in full bloom.…一朵盛开的粉色攀缘玫瑰。
+The sweet fragrance of the white blooms makes this climber a favourite.白色花朵散发出的甜香使这株藤蔓成了宠儿。
+
+
+vt.＆vi. 在一番仔细考量之后对某事物的数量、价值、品质所给出的观点，即评估，评价。词义相当于assess，且二者都极为常用。但evaluate相对正式，且assess仅为及物动词:
+evaluate |[ɪ'væljueɪt]
+to evaluate the safety of the new drug 评估这种新药的安全性 
+The evidence should be carefully evaluated. 这项证据应当仔细地鉴定。
+These probabilities can be evaluated empirically. 这些可能性可以通过实验加以验证。
+criteria used to evaluate employees’ performance 员工业绩评定标准
+
+A humanistic idea, condition, or practice relates to humanism. 人文主义的
+humanistic |英 [,hjuːmə'nɪstɪk]  美 [,hjʊmən'ɪstɪk]| adj. 人文主义的；人道主义的/
+Religious values can often differ greatly from humanistic morals.宗教价值观常常和人文主义道德观相去甚远。
+

@@ -55,14 +55,14 @@ singer |ˈsɪŋə| Noun/:歌手,演唱
 a pop singer:流行歌手
 
 obtain the temporary use of (something) for an agreed payment:为约定的付款获得（某物）的临时使用权
-employ (someone) for wages:employ（某人）的工资
-employ for a short time to do a particular job:employ短期从事某项工作
+employ (someone) for wages:雇用（某人）赚取工资
+employ for a short time to do a particular job:短期受雇从事特定工作
 the action of hiring someone or something:雇用某人或某事的行为
 a person who is hired, an employee:一个被雇用的人，一个雇员
 hire |ˈhʌɪə| Noun/Verb/:聘请,租赁,雇用,出租,租用
 we flew to San Diego, hired a car, and headed for Las Vegas:我们飞往圣地亚哥，租了一辆车，前往拉斯维加斯
 management hired and fired labour in line with demand:管理层根据需求雇佣和解雇劳动力
-Wilmot hired a private detective to follow him:Wilmot聘请私家侦探跟踪他
+Wilmot hired a private detective to follow him:威尔莫特聘请了一名私家侦探跟踪他
 car hire is recommended:租车推荐
 new hires go through six months of training:new员工接受了六个月的培训
 
@@ -77,16 +77,16 @@ deadline |ˈdɛdlʌɪn| Noun/:最后期限,期限,限期,截止日期
 the deadline for submissions is Friday 5th February:提交的截止日期是2月5日星期五
 
 take property unlawfully from (a person or place) by force or threat of force:以武力或以武力威胁从（人或地方）非法获取财产
-overcharge (someone) for something:overcharge（某人）为某事
+overcharge (someone) for something:为某事向（某人）多收费用
 steal:偷
 deprive someone of (something needed or deserved):剥夺某人（需要或应得的东西）
-deprive (an opposing player) of the ball:deprive（对方球员）的球
+deprive (an opposing player) of the ball:剥夺（对方球员）球权
 rob |rɒb| Verb/:抢,抢劫,掠
 he tried, with three others, to rob a bank:他试图和另外三个人一起抢劫一家银行
 Bob thinks my suit cost £70, and even then he thinks I was robbed:Bob认为我的西装价值70英镑，即使这样他也认为我被抢劫了
 someone had robbed my jacket:有人抢了我的夹克
 poor health has robbed her of a normal social life:糟糕的健康剥夺了她正常的社交生活
-Hughes robbed Vonk yards inside the City half:Hughes抢劫了城市半场内的Vonk码
+Hughes robbed Vonk yards inside the City half:休斯抢劫了曼城半场内的冯克球场
 
 robbing | 抢劫,抢夺
 
@@ -111,11 +111,11 @@ barter.:易货。
 the payment of workers in kind or with vouchers rather than money.:以实物或代金券而非金钱支付工人。
 small wares.:小商品。
 odds and ends.:奇数和结束。
-market-garden produce, especially vegetables:market-garden农产品，尤其是蔬菜
-barter or exchange.:barter或交换。
+market-garden produce, especially vegetables:市场菜园产品，尤其是蔬菜
+barter or exchange.:易货或交换。
 truck |trʌk| Noun/Verb/:卡车,用卡车装运,货车
 the food was trucked to St Petersburg:食物被卡车运到圣彼得堡
-private contractors were trucking for Denali:private承包商正在为Denali运送卡车
+private contractors were trucking for Denali:私人承包商正在为 Denali 卡车运输
 my mate walked confidently behind them and trucked on through!:我的伙伴自信地跟在他们身后，继续前进！
 
 truck produce | 卡车生产,卡车产品
@@ -136,13 +136,13 @@ an art gallery:一个艺术画廊
 an extensive gallery of colour photographs:一个广泛的彩色照片画廊
 in the minstrels' gallery, a string orchestra plays themes from film soundtracks:在吟游诗人的画廊里，一个弦乐队演奏电影配乐的主题
 he lashed a two-iron on to the green, bringing gasps from the gallery:他用两号铁杆猛击果岭，让观众们倒吸一口凉气
-long underground galleries of 3 km or more made it possible to mine under the sea:long3公里或以上的地下通道使海底采矿成为可能
+long underground galleries of 3 km or more made it possible to mine under the sea:3 公里或更长的地下长廊使海底采矿成为可能
 
 an apparatus for cooking or heating that operates by burning fuel or using electricity.:一种通过燃烧燃料或用电来操作的烹饪或取暖设备。
 a hothouse for plants.:植物温室。
-fumigate or disinfect (a house) with sulphur or other fumes.:fumigate或用硫磺或其他烟雾消毒（房屋）。
+fumigate or disinfect (a house) with sulphur or other fumes.:用硫磺或其他烟雾熏蒸或消毒（房屋）。
 treat (an object) by heating it in a stove in order to apply a desired surface coating.:处理（一个物体）通过在炉子中加热它以施加所需的表面涂层。
-force or raise (plants) in a hothouse.:force或在温室中饲养（植物）。
+force or raise (plants) in a hothouse.:在温室中强迫或饲养（植物）。
 stove |stəʊv| Noun/Verb/:火炉,炉,炉灶,炉子
 
 peaceful in character or intent:性格或意图和平
@@ -158,8 +158,8 @@ ripen |ˈrʌɪp(ə)n| Verb/:熟,成熟,熟透
 feeling pleasure or happiness:feeling快乐或幸福
 causing happiness:带来幸福
 grateful:感激
-willing and eager (to do something):willingandeager(做某事)
-make happy, please:make快乐，请
+willing and eager (to do something):愿意并渴望（做某事）
+make happy, please:请让快乐
 a gladiolus:唐菖蒲
 glad |ɡlad| Adjective/Noun/Verb/:高兴的,高兴,很高兴
 glad tidings:喜讯
@@ -191,13 +191,13 @@ give information about or instruction in (a subject or skill):提供有关（主
 work as a teacher:当老师
 cause (someone) to learn or understand something by example or experience:使（某人）通过例子或经验来学习或理解某事
 encourage someone to accept (something) as a fact or principle:鼓励某人接受（某事）作为事实或原则
-make (someone) less inclined to do something:make（某人）不太愿意做某事
+make (someone) less inclined to do something:使（某人）不太愿意做某事
 a teacher:一位老师
 teach |tɔːt| Noun/Verb/:教,教导
 she taught him to read:她教他读书
 he came one day each week to teach painting:他每周来一天教绘画
 she teaches at the local high school:她在当地高中任教
-travelling taught me that not everyone shared my beliefs:travelling告诉我，不是每个人都认同我的信念
+travelling taught me that not everyone shared my beliefs:旅行告诉我不是每个人都认同我的信仰
 the philosophy teaches self-control:哲学教导自我控制
 I'll teach you to throw rocks at my windows:我会教你向我的窗户扔石头
 she came to say ‘Hi!’ to her old teach:她来跟她的老老师打招呼
@@ -207,7 +207,7 @@ minced and seasoned meat encased in a skin and cooked or preserved, sold mainly 
 an object shaped like a sausage:香肠形状的物体
 used as an affectionate form of address, especially to a child:用作亲切的称呼，尤其是对孩子
 sausage |ˈsɒsɪdʒ| Noun/:香肠,肠衣
-smoked German sausage:smoked德国香肠
+smoked German sausage:烟熏德国香肠
 her hair hung in glossy black sausage curls:她的头发挂在有光泽的黑色香肠卷发上
 ‘Silly sausage,’ he teased:“愚蠢的香肠，”他戏弄道
 
@@ -219,17 +219,17 @@ northeast | 东北,东北方向
 
 an arrangement by which a company or the state undertakes to provide a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a specified premium:公司或国家承诺为特定损失、损害、疾病或死亡提供赔偿保证以换取特定保费的安排
 the business of providing insurance:提供保险的业务
-money paid for insurance:money支付保险费
-money paid out as compensation under an insurance policy:money根据保险单支付作为补偿
+money paid for insurance:为保险支付的钱
+money paid out as compensation under an insurance policy:根据保险单支付的赔偿金
 a thing providing protection against a possible eventuality:a提供保护以防止可能发生的事情
 insurance |ɪnˈʃʊərəns| Noun/:保险,美国
 many new borrowers take out insurance against unemployment or sickness:许多新借款人购买了失业或疾病保险
-Howard is in insurance:Howard有保险
+Howard is in insurance:霍华德在保险
 my insurance has gone up:我的保险涨价了
 when will I be able to collect the insurance?:我什么时候可以领取保险？
 jackets were hung on the back of their chairs, insurance against an encounter with air-conditioning:夹克被挂在他们的椅背上，以防遇到空调
 
-untidy or dirty:untidy或脏
+untidy or dirty:凌乱或肮脏
 generating or involving mess:产生或涉及混乱
 (of a situation) confused and difficult to deal with:（一种情况）困惑和难以处理
 messy |ˈmɛsi| Adjective/:乱,杂乱的,杂乱,凌乱的,凌乱
@@ -266,7 +266,7 @@ staff |stɑːf| Noun/Verb/:职员,配备人员,员工,人员,职工
 a staff of 600:600名员工
 the Polish General and his staff:波兰将军和他的手下
 a shepherd's staff:牧羊人的杖
-legal advice centres are staffed by volunteer lawyers:legal咨询中心由志愿律师组成
+legal advice centres are staffed by volunteer lawyers:法律咨询中心由志愿律师组成
 
 a restaurant provided by an organization such as a college, factory, or company for its students or staff.:由大学、工厂或公司等组织为其学生或员工提供的餐厅。
 a small water bottle, as used by soldiers or campers.:一个小水瓶，供士兵或露营者使用。
@@ -276,16 +276,16 @@ canteen |kanˈtiːn| Noun/:食堂,水壶,餐厅
 come into or be in contact with:进入或接触
 bring one's hand or another part of one's body into contact with:用手或身体的其他部位接触
 come or bring into mutual contact:来或相互联系
-strike (a ball) lightly in a specified direction:strike（一个球）在指定方向轻轻一击
+strike (a ball) lightly in a specified direction:朝指定方向轻击（球）
 be tangent to (a curve or surface) at a certain point.:在某一点与（曲线或曲面）相切。
-handle in order to interfere with, alter, or otherwise affect:handle以干扰、改变或以其他方式影响
+handle in order to interfere with, alter, or otherwise affect:处理以干扰、改变或以其他方式影响
 cause harm to (someone):对（某人）造成伤害
 consume or use (food, drink, money, etc.):消费或使用（食物、饮料、金钱等）
 used to indicate that something is avoided or rejected:用于表示某事被回避或拒绝
 affect or concern:影响或关注
 (of a quality or expression) be or become visible or apparent in:（性质或表达）在或变得可见或明显
 produce feelings of affection, gratitude, or sympathy in:产生亲情、感激或同情的感觉
-reach (a specified level or amount):reach（指定级别或数量）
+reach (a specified level or amount):达到（指定的水平或数量）
 be comparable to in quality or excellence:在质量或卓越上可媲美
 an act of touching someone or something:触摸某人或某物的行为
 the faculty of perception through physical contact, especially with the fingers:通过身体接触，尤其是手指的感知能力
@@ -311,15 +311,15 @@ he was good only for the jobs that nobody else would touch:他只适合别人不
 a tenth of state companies have been touched by privatization:a十分之一的国有企业已被私有化
 the voice was touched by hysteria:声音被歇斯底里感动
 she was touched by her friend's loyalty:她被朋友的忠诚感动
-sales touched twenty grand last year:sales去年达到了二十大
+sales touched twenty grand last year:去年销售额达到二十大
 there's no one who can touch him at lightweight judo:轻柔柔道没人能碰他
 her touch on his shoulder was hesitant:她抚摸他的肩膀犹豫不决
 reading by touch:触摸阅读
-Viennese instruments with their too delicate touch:Viennese乐器，触感过于细腻
+Viennese instruments with their too delicate touch:触感过于细腻的维也纳乐器
 add a touch of vinegar:加一点醋
 the film's most inventive touch:这部电影最有创意的触感
 later he showed a surer political touch:后来他表现出更坚定的政治风格
-getting caught looks so incompetent, as though we're losing our touch:getting看起来很无能，好像我们正在失去联系
+getting caught looks so incompetent, as though we're losing our touch:被抓住看起来很无能，好像我们失去了联系
 his clearance went directly into touch:他的许可直接联系了
 I only tolerated him because he was good for a touch now and then:我只是容忍他，因为他偶尔会碰一下
 you must put your fate to the touch:你必须把你的命运放在手上
@@ -335,7 +335,7 @@ the quality of having light-coloured hair or a pale complexion:浅色头发或�
 beauty:美女
 fairness |ˈfɛːnəs| Noun/:,公正
 part of my role is to ensure fairness to all parties:我的职责之一是确保对各方公平
-descriptions emphasize the fairness of her skin:descriptions强调她皮肤的白皙度
+descriptions emphasize the fairness of her skin:描述强调了她皮肤的白皙
 the maiden allows her fairness to lead her to trouble:少女任凭她的公平给她带来麻烦
 
 give a spoken or written account of something that one has observed, heard, done, or investigated:口头或书面说明观察、听到、做过或调查过的事情
@@ -358,13 +358,13 @@ report |rɪˈpɔːt| Noun/Verb/:报告,举报
 the public disliked the way that the media reported on the scandal:公众不喜欢媒体报道丑闻的方式
 undisclosed illegalities are reported to the company's directors:未披露的违法行为向公司董事举报
 the Chairman shall report the Bill to the House:主席应向众议院报告该法案
-Stewart is to report to a probation office on Monday:Stewart将于周一到缓刑办公室报到
+Stewart is to report to a probation office on Monday:斯图尔特将于周一到缓刑办公室报到
 he reports to the chairman of the committee:他向委员会主席报告
 the chairman's annual report:董事长年报
 according to press reports, the plan faced considerable opposition:根据新闻报道，该计划面临相当大的反对
-reports were circulating that the chairman was about to resign:reports传出董事长即将辞职
+reports were circulating that the chairman was about to resign:传出董事长要辞职的消息
 all our horses are very gentle and are accustomed to hearing the report of a .22:我们所有的马都非常温和，习惯于听到0.22的报告
-whatsoever things are lovely and of good report:whatsoever事情是可爱的和好的报告
+whatsoever things are lovely and of good report:凡是可爱的，有好名声的
 
 the part of a person's or animal's body connecting the head to the rest of the body:人或动物身体连接头部和身体其他部位的部分
 the part of a garment that is around or close to the neck:围绕或靠近脖子的衣服部分
@@ -379,7 +379,7 @@ a column of solidified lava or igneous rock formed in a volcanic vent, especiall
 a narrow supporting part in a plant, especially the terminal part of the fruiting body in a fern, bryophyte, or fungus.:植物中狭窄的支撑部分，尤其是蕨类植物、苔藓植物或真菌子实体的末端部分。
 the length of a horse's head and neck as a measure of its lead in a race:马的头和脖子的长度作为它在比赛中领先的衡量标准
 (of two people) kiss and caress amorously:（两人的）亲吻爱抚
-swallow (something, especially a drink):swallow（某事，尤其是饮料）
+swallow (something, especially a drink):吞下（某物，尤其是饮料）
 form a narrowed part at a particular point when subjected to tension:在受到拉力时在特定点形成变窄的部分
 neck |nɛk| Noun/Verb/:脖子,搂着脖子亲吻,颈部,颈,头颈
 she had a silver crucifix around her neck:她脖子上挂着一个银十字架
@@ -389,7 +389,7 @@ he'll be stuck with a loan around his neck:他会被贷款困在脖子上
 he seized the neck of the whisky bottle:他抓住了威士忌酒瓶的脖子
 the narrow neck of land between loch and sea:湖与海之间狭长的陆地
 the neck of the womb, usually called the cervix:子宫颈，通常称为子宫颈
-Dolpour won by a neck from Wood Dancer:Dolpour赢了WoodDancer的脖子
+Dolpour won by a neck from Wood Dancer:Dolpour 以 Wood Dancer 的脖子获胜
 we started necking on the sofa:我们开始在沙发上缩颈
 after necking some beers, we left the bar:喝了几杯啤酒，我们离开了酒吧
 the nylon filament necks down to a fraction of its original diameter:尼龙长丝缩至其原始直径的一小部分
@@ -416,7 +416,7 @@ a part of the body, especially a limb.:身体的一部分，尤其是肢体。
 used euphemistically to refer to the penis.:委婉地指代阴茎。
 member |ˈmɛmbə| Noun/:成员,会员,构件
 interest from members of the public:来自公众的兴趣
-she's an active member of Greenpeace:she是绿色和平组织的活跃成员
+she's an active member of Greenpeace:她是绿色和平组织的活跃成员
 Member of Parliament for Stretford:斯特雷特福德国会议员
 Member of the Order of the British Empire:大英帝国勋章成员
 the main member that joins the front and rear axles:连接前后桥的主要构件
@@ -432,5 +432,5 @@ constitution |ˌkɒnstɪˈtjuːʃn| Noun/:宪法,构成,章程
 Britain lacks a codified constitution:英国缺乏成文宪法
 the genetic constitution of a species:物种的遗传构成
 the constitution of a police authority:警察机关的宪法
-pregnancy had weakened her constitution:pregnancy削弱了她的体质
+pregnancy had weakened her constitution:怀孕削弱了她的体质
 the individual's constitution is commonly described as his nature:个人的体质通常被描述为他的本性

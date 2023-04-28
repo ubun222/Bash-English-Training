@@ -1,0 +1,651 @@
+material				材料，内容，人才，物质的，重要的
+be material to			与...相关
+materials				用具
+conduct				行为，处理，指挥
+association				协会，联合，联想
+collide				碰撞，冲突
+industrious				勤奋的，勤劳的
+fascinate				迷住
+prevalence				流行
+exert					施加，利用
+exert oneself			努力
+minor					较小的，未成年人
+tempting				诱人的
+appropriation			挪用
+injustice				不公正
+irrelevant				无关紧要的，不相关的
+registration			登记，注册
+democracy				民主国家
+grateful				感激的
+offense				犯罪，冒犯，进攻
+atmosphere				空气，大气，气氛
+approach				接近，接洽，处理，通道
+rival					竞争对手
+commitment				承诺，责任感，花费
+furious				狂怒的，激烈的
+accurate				精确的
+abstract				抽象的，抽象，提取
+deprivation				剥夺，缺乏，贫困
+designate				命名，指派
+turtle				海龟
+expertise				专长
+vessel				船，容器，导管
+ventilate				使...通风，公开表达
+\\\\\\\\
+
+n. [U, C] 布料。强调其作为一种材料。不如cloth常用:
+n. [U] 用以创作电影等所需的素材:
+n. [U] 表演的曲目、剧目、节目:
+adj. 只作前置定语，与物质世界相关的，而非与思想或精神相关的。与physical词义极其相近，但physical强调“存在于现实世界”，而material则表示“与现实世界有关”，如果非要做出区别，那么可以说material与现实世界的关系更为松散自由，只要“有关”即可:
+n. [U, C] 固态物质。一般是一种微观概念，物理尺寸较小，常为颗粒状:
+n. [C, U]（用于制作…的）材料，即原料:
+n. [U] 用以创作书籍、电影、戏剧等所需的素材:
+n. [U] 用以创作书籍所需的素材:
+adj. 只作前置定语，指与占有物或金钱相关的，而非与精神需求相关的:
+n. [C, usually pl., U] 指某一活动所需的文字材料、文本资料（或其它视觉资料、听觉资料等）。其词义范围最广，涵盖了本组其它各词:
+adj. [正式或法律] material (to sth)（在法律或学术辩论中的证据或信息）重要的，直接相关的，需得到考虑的:
+material |[mə'tɪərɪəl]
+a piece of thick material 一块厚布料 
+What material is this coat made of? 这件外套是用什么料子做的？
+to collect material for the film 为该部影片收集素材
+to play new material 表演新的曲目
+the material world 物质世界
+a conducting material 导电物质 
+combustible, hazardous, radioactive, toxic material 可燃物；危险品；放射性物质；有毒物质 
+genetically modified material 转基因物质 
+organic material 有机物质
+higher raw material costs 更高的原材料成本 
+building, construction material 建筑材料 
+natural, organic material 天然材料；有机材料 
+recyclable material 可回收材料 
+synthetic material 合成材料 
+biological material 生物材料 
+industrial material 工业材料 
+drawing, writing material 绘画材料；书写用品
+to collect material for the film 为该部影片收集素材 
+The letters were used as source material in this new biography. 这本新传记把这些信件用作原始资料。
+to collect material for the new book 为创作这本新书而收集素材 
+The letters were used as source material in this new biography. 这本新传记把这些信件用作原始资料。
+material comforts 物质享受 
+training material 培训资料 
+confidential, sensitive material 保密资料；敏感资料 
+reading material 阅读材料 
+instructional, teaching, reference material 讲义；参考资料 
+promotional material 宣传推广资料 
+additional material 补充资料 
+historical material 历史资料 
+original material on the First World War 关于第一次世界大战的原始资料
+material evidence 重要证据 
+material information 重要信息
+
+
+materials | 材料,素材
+
+n. [U] [正式] conduct of sth 一种业务（或活动）的组织和管理方式:
+n. [U] [正式] 一个人在某地（或在某种情况下）的行为，举止:
+vt. [正式] conduct yourself ... 以某种方式来表现（behave）:
+vt. 安排或并执行某一活动，如进行。较为常用:
+vt. [术语]（一种物质）传导（热或电）:
+vt.＆vi. 指挥（一群人的歌唱或音乐演奏）。是此义的常规用词:
+n. [U] [正式] 对战争的指挥或领导方式:
+vt. 带领或引导某人穿过一个地方（或在一个地方转）:
+conduct |['kɒndʌkt][kən'dʌkt]
+He was responsible for the proper conduct of community life. 他负责社区生活的正常运作。
+the day-to-day conduct of the business of the company 公司业务的日常管理
+The prisoner was released early for good conduct. 这个囚犯因表现良好而提前获得释放。
+immoral, unprofessional conduct 不道德的行为；不专业的行为 
+violent, criminal, illegal conduct 暴力行为；犯罪行为；违法行为 
+human, personal, sexual conduct 人类行为；个人行为；性行为 
+the business conduct of this bank 这家银行的商业行为 
+rules governing police conduct 管理警察行为的规范 
+He was asked to explain his conduct. 人们要求他对自己的行为做出解释。
+code of conduct 行为规范
+He conducted himself far better than expected. 他表现得比预料的要好得多。
+He always conducted himself as a gentleman. 他总是表现得像个绅士。
+They have conducted themselves in a very professional manner. 他们表现出非常专业的样子。
+to conduct an experiment, to conduct an inquiry 进行一项实验；进行一次询问 
+a survey conducted jointly by two teams of researchers 由两个研究小组联合进行的一项调查 
+We regularly conduct safety inspections. 我们定期进行安全检查。
+The negotiations have been conducted in a positive manner. 已积极进行过谈判。
+Copper conducts electricity well. 铜的导电性好。
+a concert conducted by Sir Colin Davis 由科林·戴维斯爵士指挥的一场音乐会
+the government’s conduct of the war 政府对战争的指挥方式
+a conducted tour 有导游陪同的游览之旅 
+The guide conducted us around the ruins of the ancient city. 导游带领我们游览了古城遗迹。
+
+n. [C] 一群人为某一目的而结成的正式团体，即协会，社团，联盟等，相当于organization。强调团体或个人之间所形成的一种较为正式的或事务性的关系:
+n. [C, U] association (with sb/sth)（不同的人或组织之间的）联系或关系:
+n. [U] 事物间的因果关系:
+n. [C, usually pl.] 头脑中所激发出的联系性想法，即联想。是此义的常规用词:
+association |[ə͵səʊsɪ'eɪʃn,ə͵səʊʃɪ'eɪ-]
+the Football Association 足球协会 
+a residents’ association 居民联合会 
+private, public, voluntary association 私人社团；公共社团；志愿团体 
+arts, business, consumer, political, student, trade association 艺术团体；商业联合会；消费者协会；政治团体；学生社团；行业协会 
+a professional association for music teachers 音乐教师专业协会
+his alleged association with terrorist groups 他被指称的与恐怖组织的关联 
+the association between the two countries 两国之间的联系 
+freedom of association 结社自由 
+the traditional association of the Democrats with minority interests 民主党与少数利益集团之间的传统联系 
+His association with such criminals can only destroy him. 与这样的罪犯为伍只会毁了他。
+an association between smoking and cancer 吸烟与癌症之间的因果关系
+The seaside had all sorts of pleasant associations with childhood holidays for me. 海滨使我联想起童年假期的各种愉快情景。
+The cat soon made the association between human beings and food. 这只猫很快就把人类与食物联系起来。
+Tourists visit the city for its historical associations. 游人来该城市观光是因为其丰富的历史内涵。
+to trigger associations 引发联想
+
+vi. ~ (with sth/sb)（两个人、车辆等）相撞、碰撞:
+vi. [正式] ~ (with sb) (over sth)（人、意见、目标等）严重不一致、冲突、抵触:
+collide |[kəˈlaɪd]
+Two trains collided head-on in north-eastern Germany early this morning. 今天早上德国东北部两列火车迎面相撞。
+His car nearly collided with a bus. 他的汽车差点儿与一辆公交车相撞。
+The car and the van collided head-on in thick fog. 那辆小轿车和货车在浓雾中迎面相撞。
+The car collided head-on with the van. 那辆小轿车与货车迎面相撞。
+Racing up the stairs, he almost collided with Daisy. 他飞奔上楼，差点撞到黛西。
+As he fell, his head collided with the table. 他跌倒时头部撞上了桌子。
+They regularly collide over policy decisions. 他们经常在政策决策上发生冲突。
+The aims of the negotiators in New York again seem likely to collide with the aims of the warriors in the field. 看来，纽约谈判人员的目标可能会再次与战场上勇士们的目标发生冲突。
+In the next two years, Nasser regularly collided with the different Western powers, who refused to arm him. 随后的两年里，纳赛尔不断与拒绝为他提供武器装备的几个西方大国发生冲突。
+
+diligent and hard-working:勤奋努力
+industrious |ɪnˈdʌstrɪəs| Adjective/:,勤奋,勤劳的
+an industrious people striving to make their country prosperous:勤劳的人民为国家富强而奋斗
+
+vt.&vi. 深深吸引某人、迷住某人:
+fascinate |[ˈfæsɪneɪt]
+China has always fascinated me. 中国一直令我心驰神往。
+It was a question that had fascinated him since he was a boy. 这是他自幼就着迷的问题。
+Politics fascinated Franklin's father. 政治让富兰克林的父亲着迷。
+She fascinated him, both on and off stage. 不管是台上还是台下的她，都让他着迷。
+The private lives of movie stars never fail to fascinate. 电影明星的私生活总为人所津津乐道。
+
+the fact or condition of being prevalent; commonness:流行的事实或条件；共性
+prevalence |ˈprɛv(ə)ləns| Noun/:患病率,流行程度
+the prevalence of obesity in adults:成人肥胖患病率
+
+vt. ~ yourself 做出极大的身体或精神上的努力:
+vt.（对某人或某事物）行使权力或施加影响力:
+vt.（对某人或某事物）行使权力或施加影响力:
+exert |[ɪgˈzɜ:t;美ɪgˈzɜ:rt]
+In order to be successful he would have to exert himself. 他必须努力才能成功。
+Do not exert yourself unnecessarily. 不要做无谓的努力。
+He exerted all his authority to make them accept the plan. 他利用他的所有权力让他们接受这个计划。
+He exerted considerable influence on the thinking of the scientific community on these issues. 他极大地影响了科学界对这些问题的看法。
+The moon exerts a force on the earth that causes the tides. 月球对地球的吸引力引起潮汐。
+The cyst was causing swelling and exerting pressure on her brain. 那个囊肿正在引起肿胀，压迫着她的大脑。
+He exerted all his authority to make them accept the plan. 他利用他的所有权力让他们接受这个计划。
+He exerted considerable influence on the thinking of the scientific community on these issues. 他极大地影响了科学界对这些问题的看法。
+The moon exerts a force on the earth that causes the tides. 月球对地球的吸引力引起潮汐。
+The cyst was causing swelling and exerting pressure on her brain. 那个囊肿正在引起肿胀，压迫着她的大脑。
+
+adj. [常用于名词前] 些微的、些许的:
+adj. [常用于名词前] 较小的:
+n. [C] [法律]（未到法定成年年龄而无需负法律责任的）未成年人（在英国和美国多数州指未满18岁的人，在法律上仍然视为儿童）:
+adj. [音乐] 小调的；小音阶的:
+n. [C] [尤美]（美国大学中的）辅修生:
+n. [C] [尤美]（美国大学中的）辅修科目:
+vi. [美] ~ in sth（在大学里）辅修（某个科目）:
+adj. [常用于名词前] 次要的:
+adj. [常用于名词前] 轻微的，不严重的:
+minor |[ˈmaɪnə(r)]
+There may be some minor changes to the schedule. 时间安排也许会有些小小的变动。
+a minor road 小路
+It is an offence to serve alcohol to minors. 向未成年人提供含酒精的饮料是违法的。
+the key of C minor C小调 
+the unfinished sonata movement in F minor 未完成的F小调奏鸣曲乐章
+a geology minor 地质学辅修生
+I'm minoring in computer science. 我辅修计算机科学。
+Women played a relatively minor role in the organization. 在这个组织中，妇女发挥着相对次要的作用。
+She is known in Italy for a number of minor roles in films. 她因在电影中饰演了一些配角而在意大利为人所知。
+minor injuries 轻伤 
+Sarah had been plagued continually by a series of minor illnesses. 萨拉一直小病缠身。
+His mother had to go to the hospital for minor surgery. 他母亲得去医院做一个小手术。
+This is a very minor operation and there is very little risk involved. 这是个很小的手术，没有什么风险。
+youths imprisoned for minor offences 因犯轻罪而被关押的年轻人 
+Western officials say the problem is minor, and should be quickly overcome. 西方官员称这个问题并不严重，应该很快就会解决。
+That's a relatively minor matter--we can leave it till later. 相对来说那是件小事，我们可以留待以后解决。
+
+appealing to or attracting someone, even if wrong or unwise:吸引或吸引某人，即使是错误或不明智的
+tempting |ˈtɛm(p)tɪŋ| Adjective/:诱人的,诱惑
+a tempting financial offer:诱人的财务报价
+
+the action of appropriating something:挪用某物的动作
+the deliberate reworking of images and styles from earlier, well-known works of art:对早期知名艺术作品的图像和风格进行有意的改造
+a sum of money allocated officially for a particular use:一笔正式分配给特定用途的钱
+appropriation |əˌprəʊprɪˈeɪʃn| Noun/:拨款,挪用
+dishonest appropriation of property:不诚实挪用财产
+the hallmark of postmodernism has turned out to be appropriation:后现代主义的标志原来是挪用
+success in obtaining appropriations for projects:成功获得项目拨款
+
+n. [U, C] 不公正、不公平:
+injustice |[ɪnˈdʒʌstɪs]
+fighting against poverty and injustice 与贫困和不公平斗争 
+a burning sense of injustice 强烈感觉到遭受不公正待遇 
+She was enraged at the injustice of the remark. 她被那句话的不公激怒了。
+The report exposes the injustices of the system. 报告揭露了这个制度的种种不公正。
+They'll continue to fight injustice. 他们将继续与不公平现象作斗争。
+They resented the injustices of the system. 他们怨恨制度的种种不公。
+The article does them both an injustice. 那篇文章对他们俩都不公。
+economic, political, racial, social injustice 经济上的不公；政治上的不公；种族上的不公；社会的不公平 
+He suffered the injustice of being punished for a crime which he did not commit. 他未犯罪而受罚，蒙受了不白之冤。
+The trial was regarded as the greatest injustice of the post-war criminal justice system. 那次审判被认为是战后刑事司法体系中最不公正的一次。
+She remains adamant that an injustice was done. 她依然坚持认为那件事不公平。
+We may have been doing him an injustice (= criticizing him unfairly). This work is good. 我们可能委屈他了，其实这件作品很不错。
+a novel that sets out to expose social injustice 旨在揭露社会不公的一部小说 
+They see the injustice and want to help. 他们看到了其中的不公，因而想要出手相助。
+She was acclaimed for speaking out against injustice. 她因为大胆抨击不公现象而受到赞扬。
+people who work hard to correct society's injustices 致力于纠正社会种种不公现象的人 
+a terrible injustice by the police 警察极为不公正的行为 
+It would be an injustice to the man to imprison him for life. 判处终身监禁对他是不公平的。
+She was overwhelmed by the injustice of it all (= of the situation). 不公平的现状让她受不了。
+a victim of injustice 不公行为的受害者
+
+adj. ~ (to sth/sb) 不相关的:
+adj. 无关紧要的:
+irrelevant |[ɪˈreləvənt]
+irrelevant remarks 不相关的言论 
+irrelevant details 不相关的细节 
+That evidence is irrelevant to the case. 那条证据与本案无关。
+The government decided that their testimony would be irrelevant to the case. 政府认定他们的证词与案件不相关。
+Many people consider politics irrelevant to their lives. 许多人认为政治与他们的生活不相干。
+This argument is entirely irrelevant to the question of who is right. 这个论据与谁是谁非这个问题毫不相关。
+It's all irrelevant to me. 这一切与我毫不相干。
+Whether I believe you or not is irrelevant now. 我是否相信你，现在已无关紧要了。
+Their old hard-won skills were irrelevant. 他们以往辛苦学得的技能没什么大用处。
+The choice of subject matter is irrelevant. 题材的选择无关紧要。
+The UN is becoming increasingly irrelevant. 联合国正变得越来越无关紧要了。
+These issues are largely irrelevant and distract us from attending to the real questions. 这些问题大体上无关紧要，却转移了我们对真正问题的注意力。
+
+n. [U] [英]（课堂上教师看着学生名单对学生进行的）点名（以确定学生是否来上课）:
+n. 1 [U, C] 登记；注册；挂号:
+2 [U, C] 用于记录登记或注册信息的一个文档:
+n. [C] [英] 车辆牌照上的一系列字母和号码，相当于registration number:
+registration |[ˌredʒɪˈstreɪʃn]
+formal registration 正式注册 
+compulsory, mandatory registration 强制性的登记 
+They have campaigned strongly for compulsory registration of dogs. 他们强烈呼吁实行犬类强制登记。
+complimentary, free registration 免费注册 
+a complimentary registration for the 2002 meeting of the society 免费注册该协会2002年大会 
+states that allow same-day voter registration（same-day为美式用法）允许选民当日注册的州 
+on-site registration for this week's events（on-site为美式用法）本周活动的现场登记 
+online registration 在线注册 
+civil registration of births 公民的出生登记 
+the registration of a child's birth 婴儿出生登记 
+birth, death registration（均尤英）出生登记；死亡登记 
+class, course, student registration 班级登记；课程登记；学生登记 
+the registration of students for a course 学生的选课登记 
+voter registration 选民登记 
+car, vehicle, company（英）, domain-name, gun, land, product, trademark registration 汽车登记；车辆登记；公司注册；域名登记；枪支登记；土地登记；产品注册；商标注册；车辆登记 
+VAT registration（英）增值税登记 
+conference, convention, meeting registration 会议注册 
+party registration（美）政党登记 
+his Democratic party registration 他加入民主党的登记 
+the registration of letters and parcels 信件和包裹的挂号 
+registration fees 注册费 
+registration requirement 注册要求 
+registration deadline 注册截止日期 
+registration number 登记号码 
+registration desk, registration office 登记处；注册办公室 
+registration form 登记表 
+With the high voter registration, many will be voting for the first time. 登记选民数量的上升意味着许多人将第一次参加投票。
+
+n. 1 [U] 民主政体、民主制度:
+2 [C] 民主国家:
+3 [U]（公司、组织机构等的内部的）民主精神、民主权利、民主管理制度、民主作风:
+democracy |[dɪˈmɒkrəsi;美-ˈmɑ:k-]
+political democracy 政治民主 
+constitutional, parliamentary, participatory, representative democracy 立宪民主；议会民主；参与式民主；代议制民主 
+multi-party democracy 多党民主 
+Western democracy 西方民主 
+people who believe in true democracy 相信有真正民主的人们 
+The military regime has promised to restore democracy soon. 军事政权承诺将很快恢复民主。
+a pro-democracy demonstration in the capital 首都的亲民主示威 
+the road to democracy 通往民主之路（或称民主进程）
+the principles of democracy 民主原则 
+the spread of democracy in Eastern Europe 民主制度在东欧的传播 
+Western democracies 西方民主国家 
+We live in a multi-party democracy. 我们生活在一个多党制民主国家。
+I thought we were supposed to be living in a democracy. 我还以为我们应该是生活在一个民主国家里。
+The new democracies face tough challenges. 这些新兴的民主国家面临着严峻挑战。
+the fight for justice and democracy 为正义和民主的斗争 
+the union's emphasis on industrial democracy 该工会对行业民主的强调
+
+grateful (that ...)（由于某人做了对你好的事或按照你的要求做了某事而）感到（或表现出）感谢的，即感激的。其感激的对象通常是人或事情:
+2（尤用于一封书信或一个正式场合）用于提出一个请求，如感激不尽，请:
+grateful |['ɡreɪtfl]
+adj. 1 grateful (to sb) (for sth) 
+grateful (to do sth) 
+I’m really grateful for your help. 对你的帮助我真的感激不尽。
+Kate gave him a grateful smile. 凯特感激地对他笑了笑。
+I’m just grateful the injury is not as bad as we’d feared. 伤势并不像我们担心的那么严重，我对此真是庆幸不已。
+She seems to think I should be grateful to have a job at all. 她似乎认为我有份工作就该谢天谢地了。
+I would be grateful if you could send the completed form back as soon as possible. 请尽快将表格填好寄回。
+We would be grateful for any information you can give us. 如能提供信息我们将感激不尽。
+
+
+offense |
+
+n. [C, U]（某地、某种情况或某个群体中的）气氛，氛围。是一个常规用词:
+n. 1 [sing.] the atmosphere 可指（围绕地球的）大气，大气层，大气圈（是一种气体混合物）:
+2 [C]（围绕其他行星或恒星等天体的）气体（常是混合气体）:
+n. [C]（房间、封闭空间或某处的）空气:
+atmosphere |['ætməsfɪə]
+a party atmosphere 聚会的气氛 
+a friendly atmosphere 友好的气氛 
+a romantic atmosphere 浪漫的气氛 
+The restaurant has a comfortable atmosphere. 这家餐馆的氛围令人很舒服。
+He grew up in an atmosphere of violence. 他在暴力的环境中长大。
+The old house is full of atmosphere. 这座老房子情趣盎然。
+an atmosphere of hostility and tension 敌对和紧张的气氛 
+political, academic atmosphere 政治氛围；学术气氛 
+Earth’s atmosphere 地球大气层 
+lower, upper atmosphere 低层大气；高层大气 
+pollution of the atmosphere 大气污染 
+Saturn’s atmosphere 土星的大气
+heavy, humid, oppressive, polluted, stuffy atmosphere 沉闷的空气；潮湿的空气；压抑的空气；被污染的空气；闷热的空气 
+the atmosphere of towns and cities 城镇的空气 
+These plants love warm, humid atmospheres. 这些植物喜欢温暖潮湿的空气。
+Last night’s storm had cleared the atmosphere. 昨夜的暴风雨使空气变得清新。
+
+vt.（以某种方式）开始处理一个问题、任务、情况等:
+vt.＆vi.（在时间上）靠近，接近:
+n. [sing.]（时间上的）靠近，接近:
+vt.（在数额、水平、质量、风格或状态上）接近:
+n. [C] approach (to sth) 对待或处理…的一种方式，方法；做事或思考（如处理问题或任务）的一种方式，方法。相对正式:
+approach sb (about doing sth) 对某人说某事，尤指向其索要…或向对方提出要做某事:
+n. [C] 对某人说某事的一种行为，尤指提出…（如建议、要求或请求）:
+n. [sing.]（与提到过的事物）相似的一个事物:
+vt.＆vi.（在空间上）靠近，接近:
+n. [sing.]（空间上的）靠近，接近:
+n. [C] approach (to sth) 对待或处理…的一种方式，方法；做事或思考（如处理问题或任务）的一种方式，方法。相对正式:
+n. [C] 飞机飞行过程中的进场，或进场着陆:
+n. [C]（通向某地的）一条小路、公路等:
+approach |[ə'prəʊtʃ]
+to approach a problem, to approach an issue 处理问题
+Winter is approaching. 冬天就要来临。
+the approach of spring 春天的来临
+profits approaching 3 million dollars 接近300万元的利润 
+Few writers approach his richness of language. 他语言之丰富很少有作家能望其项背。
+Here Wordsworth’s verse movement closely approaches that of Gray. 在这一点上，华兹华斯的诗歌韵律在风格上和格雷的非常接近。
+The school has decided to adopt a different approach to discipline. 学校决定采取另外一种方式解决纪律问题。
+She took the wrong approach in her dealings with them. 她用错误的手段和他们打交道。
+We will be exploring different approaches to gathering information. 我们将探索收集信息的不同方法。
+vt. approach sb (about/for sth) 
+She approached the bank for a loan. 她向银行申请贷款。
+We have been approached by a number of companies. 一些公司已和我们接洽。
+It’s best to approach her directly. 最好直接和她谈。
+Have you approached John about doing a concert? 开音乐会的事你和约翰谈过了吗？
+The club has made an approach to a local company for sponsorship. 俱乐部已向当地一家公司寻求赞助。
+She resented his persistent approaches. 她对他没完没了的纠缠极为反感。
+There had already been approaches from buyers interested in our company. 已有一些对我们公司感兴趣的买主来接洽了。
+That’s the nearest approach to an apology you’ll get from him. 那是他所能做出的最似歉意的表示。          
+We heard the sound of an approaching car. 我们听见一辆汽车驶近的声音。
+When I approached the room, they grew silent. 当我走近时屋子时，他们变得沉默了。
+The army approached from the south. 军队从南面靠近。
+She hadn’t heard his approach. 她没有听见他走近的声音。
+at his approach 当他走近时 
+The children fell silent at the approach of their teacher. 老师一来，孩子们变得鸦雀无声。
+The school has decided to adopt a different approach to discipline. 学校决定采取另外一种方式解决纪律问题。
+She took the wrong approach in her dealings with them. 她用错误的手段和他们打交道。
+We will be exploring different approaches to gathering information. 我们将探索收集信息的不同方法。
+to begin the final approach to the runway 开始着陆进入跑道
+All the approaches to the palace were guarded by troops. 通往宫殿的所有道路都有军队守卫。
+a new approach road to the port 去港口的一条新路 
+The path serves as an approach to the boathouse. 这条小路是通向那个船库的一条路径。
+
+vt. ~ sb/sth (for/in sth) 与…一样好或坏，即匹敌、比得上:
+n. [C] ~ (to sb/sth) (for sth) 政治、商业、体育等领域的竞争对手（可以是一个人、一家公司、一个国家或一个事物等）:
+rival |[ˈraɪvl]
+You will find scenery to rival anything you can see in the Alps. 你能看到的景色可与你在阿尔卑斯山所见的任何景色相媲美。
+Cassette recorders cannot rival the sound quality of CDs. 卡式磁带录音机的音质无法和CD相媲美。
+An epidemic to rival that which killed 26,000 in 1989 may hit the UK. 一种流行病可能会袭击英国，其危害程度不亚于1989年导致26,000人丧生的疾病。
+political rival 政治对手 
+presidential rival 竞选总统的对手 
+Conservative rival 保守党的对手 
+They're old political rivals. 他们是政坛上的老对手。
+rival candidate 候选人竞争者 
+rival clan, rival faction, rival gang, rival group, rival tribe 敌对的家族；敌对的派系；敌对的团伙；敌对的团体；敌对的部落 
+business rival 商业对手 
+The Japanese are our biggest economic rivals. 日本人是我们最大的经济竞争对手。
+The business needed to receive profits and compete with new rivals. 该公司需要恢复利润并且与新对手竞争。
+The company is well equipped to compete with its international rivals. 该公司条件优越，足以和国际对手竞争。
+The company faces big rivals in Europe and Asia. 该公司在欧洲和亚洲都要面对强劲的竞争对手。
+rival company, rival firm, rival organization 竞争对手公司；对立的机构 
+rival bid, rival offer 竞争投标；竞争的出价 
+The two teams have always been rivals. 这两个队一直是竞争对手。
+She has no rivals for the job. 没有任何对手和她争这份工作。
+They wind up as romantic rivals for the same woman. 他们最后因为追求同一个女人而成为情敌。
+They were rivals in love. 他们是情敌。
+They were rivals for her love. 为了得到她的爱他们成了情敌。
+She is now regarded as the greatest potential rival to Jane. 她现在被认为是简最大的潜在对手。
+Those two have been friendly rivals since they first met. 那两个人从第一次见面就成了友好的对手。
+He eliminated his rivals with brutal efficiency. 他残忍而又利落地消灭了自己的对手。
+rival claim 对立的权利要求 
+rival theory 对立的理论
+Grand it may be, but this cathedral is no rival to the great cathedral of Amiens. 这个教堂虽然很雄伟，却绝对不能和亚眠大教堂相匹敌。
+This latest design has no rivals (= it is easily the best design available). 这种最新款式独领风骚。
+
+commitment to do sth 承诺（去做某事或以某种方式来行事）；承诺（支持某人或某事）；允诺承担；保证。程度通常较重:
+n. 1 [U] commitment (to sb/sth) 努力工作的意愿，将精力和时间投入到某项工作或活动中的意愿，即对工作或某项活动的献身、奉献、投入:
+2 [U, C] commitment (of sth) (to sth)（为达成某事而）同意去使用金钱、时间或人力，可称为花费；使用等:
+n. [C] 已承诺（或已同意）去做的一件事；不得不去做的一件事。可称为责任:
+commitment |[kə'mɪtmənt]
+She doesn’t want to make a big emotional commitment to Steve at the moment. 她不想在此刻对史蒂夫在感情上做出重大的承诺。
+the company’s commitment to providing quality at a reasonable price 这家公司保证供货质优价廉的承诺 
+the government’s commitment to public services 政府对公共服务事业做出的承诺 
+to make a firm commitment 做出坚决承诺
+A career as an actor requires one hundred per cent commitment. 干演员这一行需要百分之百的投入。
+The company is making a long-term commitment to breaking into the American market. 公司长期致力于打入美国市场。
+his lifelong commitment to the socialist cause 他对社会主义事业的毕生奉献 
+the commitment of resources to education 对教育的资源投入 
+a heavy commitment of capital 巨额的资金投入 
+time commitment 时间投入 
+a commitment energy 花费精力
+business, family, social, teaching commitment 商业上的责任；家庭责任；社会义务；教学义务 
+She can’t meet her financial commitments. 她无法履行自己的财务责任。
+to honour commitments on reduction of air pollution 履行减少空气污染的义务
+
+~ (that…) 狂怒的、暴怒的:
+2 带有很大怒气的:
+adj. 高速的:
+adj. 耗费很多精力的（如激烈的、猛烈的）:
+furious |[ˈfjʊəriəs;美ˈfjʊr-]
+adj. 1 ~ (with sb) 
+~ (at sth/sb) 
+She was absolutely furious at having been deceived. 她受了骗，怒不可遏。
+He was furious with himself for letting things get so out of control. 他生自己的气，怪自己竟让事情搞得如此不可收拾。
+I'm furious that I wasn't told about it. 这事没有跟我说，我十分气愤。
+He is furious at the way his wife has been treated. 妻子受到的待遇让他感到异常愤怒。
+I am furious that it has taken so long to uncover what really happened. 花了这么长的时间才弄清楚究竟发生了什么事，这让我怒向胆边生。
+Their incompetence made me furious. 他们的无能今我大为光火。
+I'm still furious with him。我仍然对他十分恼火。
+I got absolutely furious with him. 我对他十分恼火。
+The President was reportedly furious at the comment. 报道称总统对这一评论大为光火。
+He was simply furious about what had happened to his mother. 他母亲的遭遇让他火冒三丈。
+The president is said to be furious at the newspaper report. 据说总统对报纸的报道大动肝火。
+You must be furious at me for not telling you sooner. 我没有早点儿告诉你，你一定非常生气。
+She was still furious over suggestions that she had lied to the public. 她对那些暗示她欺骗公众的话仍然怒不可遏。
+She drove off at a furious pace. 她驾车飞驰而去。
+a furious debate 激烈的辩论 
+A furious gunbattle ensued. 一场激烈的枪战随之爆发。
+
+adj. 1（信息、测量、数据或仪器等）能提供精确信息的，即精确的，准确的:
+2（说法、描述、估算、记录等）确切的，恰当的:
+3（行动、模仿）正确的，到位的:
+4（武器、投掷）精准的；（人）射击（或投掷）准的:
+accurate |[ˈækjərət]
+a highly accurate electronic compass 高度精确的电子罗盘仪 
+accurate to within 3mm 精确得误差不超过3毫米 
+Results are accurate to within 0.2 seconds. 结果精确度在0.2秒以内。
+My watch is not very accurate. 我的表走得不很准。
+This may provide a quick and accurate way of monitoring the amount of carbon dioxide in the air. 这也许能提供一个监测空气中二氧化碳含量的既快又准的方法。
+Police have stressed that this is the most accurate description of the killer to date. 警方强调这是迄今对凶手最精确的描述。
+He gave a full and accurate account of his movements. 他完整而准确地叙述了自己的行踪。
+Her assessment turned out to be remarkably accurate. 结果证明她的评估非常准确。
+I think it may take sometime before we can have an accurate assessment of the damage. 我认为我们对损失作出准确的估算可能需要一段时间。
+His predictions proved accurate. 他的预测证明是准确的。
+They were accurate in their prediction that he would change her life drastically. 他们预测得没错，他使她的生活发生了翻天覆地的变化。
+accurate account, accurate calculation 准确的叙述；准确的计算 
+accurate information, accurate data 正确无误的情报；正确无误的资料 
+Accurate records must be kept. 必须保存准确的记录。
+The figures he gave were not strictly accurate. 他所提供的数据并不是很确凿。
+Although this book is historically accurate, it is not a history book这本书虽然史料准确，却不是历史书。
+Marks were given for accurate spelling and punctuation. 因拼写及标点正确而得分。
+his maliciously accurate imitation of Hubert de Burgh 他对休伯特·德伯格到位的恶搞模仿 
+The rifle was extremely accurate. 这把步枪准头极高。
+The pilots, however, were not as accurate as they should be. 然而飞行员并不像他们该达到的水平那样精准。
+
+adj. 1（在想法上）基于普遍观念的（而非针对某个人、事物或情况），即抽象的；纯理论的:
+2 作为一种观念或想法而存在于头脑中的（但是并非客观上的存在）:
+vt. abstract sth (from sth)  把…从某地抽取或分离出来:
+n. [C] 抽象派画作:
+adj.（绘画）抽象（派）的:
+n. [C] 抽象派艺术作品:
+adj.（艺术）抽象（派）的:
+vt. [术语] 写出（书等的）摘要:
+vt. abstract sth (from sth) 把论点提取出来:
+n. [C]（文献等的）摘要，概要。其核心含义是“把复杂的论证或研究作一番简述”，常见于学术性引述和法律方面的引述。在广义上，abstract是一种summary。但summary可置于一篇文章的开头或结尾，而abstract只能置于文章的开头（即标题之下，正文之前）。且abstract更强调论述研究的过程，而summary更强调给出研究的结果:
+abstract |['æbstrækt]
+abstract principles 抽象原理 
+Preschool children are capable of thinking in abstract terms. 学龄前儿童具有抽象思维的能力。
+We may talk of beautiful things but beauty itself is abstract. 我们尽可谈论美的事物，但美本身却是抽象的。
+abstract words such as glory, honour, and courage 诸如光荣、荣誉、勇气这样的抽象词汇 
+abstract concept 抽象概念
+to abstract water from the river 从这条河中抽水
+His abstracts are held in numerous collections. 他的抽象画被纳入到很多收藏中。
+a abstract painting, a abstract drawing 抽象画
+His abstracts are held in numerous collections. 他的抽象画被纳入到很多收藏中。
+a modern abstract painting 一幅现代抽象画 
+a purely abstract drawing 一幅纯粹抽象的绘画
+She abstracted the main points from the argument. 她把论证概括成要点。
+an abstract of the article 这篇文章的一段摘要
+
+n. [U] 对自己所需要或想要的东西（如食物、金钱、住房等）的缺乏:
+n. [U] 对自己所需要或想要的东西（如食物、金钱、住房等）的剥夺:
+n. [U] 对自己所需要或想要的东西（如食物、金钱、住房等）的缺乏，如贫困:
+deprivation |[ˌdeprɪˈveɪʃn]
+the deprivation of war (= the suffering caused by not having enough of some things) 战时的物品匮乏 
+Millions more suffer from serious sleep deprivation caused by long work hours. 另外还有数百万人因工作时间过长而睡眠严重不足。
+material, social deprivation 物质匮乏；社会福利缺失 
+food, oxygen deprivation 食物匮乏；缺氧 
+sensory deprivation 感觉剥夺 
+emotional deprivation 情感剥夺
+neglected children suffering from social deprivation 遭社会遗弃无人照管的孩子 
+long-term patients who face a life of deprivation 面临终生贫困的长期病患 
+economic, material, social deprivation 经济贫困；物质匮乏；社会福利缺失 
+an area of acute social and economic deprivation 社会福利严重缺失、经济极度贫困的地区 
+inner-city, urban deprivation 内城的贫困；城市的贫困 
+rural deprivation（尤英）乡村的贫困 
+Many of the people suffered severe deprivation. 这些人中有许多生活穷困潦倒。
+
+vt. 用某个标记来标明、标示…:
+~ sth (as being sth) 官方命名或官方宣布…具有某个特征；以某种方式描述某事物:
+vt. ~ sb (as) sth 为某一工作或职位来选定或任命某人:
+adj. [正式]（用于名词后）已受委派但尚未上任的；已当选但尚未就职的:
+designate |[ˈdezɪgneɪt]
+The different types are designated by the letters A, B and C. 不同的类型分别用字母A、B和C标明。           
+vt. ~ sth (as) sth 
+This area has been designated (as) a National Park. 本区已定为国家公园。
+a designated nature reserve 指定的自然保护区 
+There are efforts under way to designate the bridge a historic landmark. 人们正在努力将这座桥定为历史遗迹。
+This floor has been designated a no-smoking area. 这楼层已定为无烟区。
+Some of the rooms were designated as offices. 其中一些房间被指定用作办公室。
+designated seats for the elderly 老人专座 
+a man interviewed in one of our studies whom we shall designate as E 在我们的一项研究中接受访谈的男子，我们称之为 E 
+Several pupils were designated as having moderate or severe learning difficulties. 几名学生被认定有一定或严重学习困难。
+scholarships designated for minorities 专门给予少数族裔学生的奖学金 
+The director is allowed to designate his/her successor. 主任获准选定自己的继任人。
+Who has she designated (as) her deputy? 她委任了谁为她的副手？
+the man designated to succeed the president 被指派接替校长职务的男人 
+to designate someone as the spokesperson 指派某人为发言人
+an interview with the director designate 与未到任主任的面谈 
+Japan's Prime Minister-designate is completing his Cabinet today. 日本的当选首相今日将完成组阁。
+
+a large marine reptile with a bony or leathery shell and flippers, coming ashore annually on sandy beaches to lay eggs.:一种大型海洋爬行动物，带有骨质或革质外壳和鳍状肢，每年都会在沙滩上岸产卵。
+the flesh of a sea turtle, especially the green turtle, used chiefly for soup.:海龟的肉，尤其是绿海龟，主要用来做汤。
+a freshwater reptile related to the sea turtles and tortoises.:一种与海龟和乌龟有关的淡水爬行动物。
+any reptile of the order Chelonia, including the terrapins and tortoises.:任何龟目爬行动物，包括水龟和陆龟。
+a directional cursor in a computer graphics system which can be instructed to move around a screen.:计算机图形系统中的方向光标，可以指示它在屏幕上移动。
+turtle |ˈtəːtl| Noun/:龟,鳖,乌龟,甲鱼
+
+n. [U] ~ (in sth/in doing sth) 在某一学科、活动或工作领域的专门技能、专长:
+n. [U] ~ (in sth/in doing sth) 在某一学科、活动或工作领域的专门知识:
+expertise |[ˌekspɜ:ˈti:z;美-pɜ:rˈt-]
+They have considerable expertise in dealing with oil spills. 他们在处理溢油问题方面非常在行。
+particular, special, specialist（尤英）, specific expertise 特别知识；专门技能 
+They met regularly to develop their collective expertise. 他们定期会晤，共同提高专业技术。
+in-house expertise 内部技术 
+We sometimes have to call on outside expertise. 我们有时得借助外部的专业技术。
+This project builds on the existing expertise of our staff. 该项目以我们工作人员的现有专业技术为基础。
+We need to discover what relevant expertise is available to us. 我们需要找出有哪些我们可利用的相关技术。
+academic, business, clinical, engineering, financial, legal, management, managerial, marketing, medical, professional, scientific, technical, technological expertise 学术知识；商业知识；临床知识；工程知识；金融知识；法律知识；管理知识；经营知识；营销知识；医学知识；专业知识；科学知识；技术知识；科技知识 
+We have the expertise to help you run your business. 我们有帮助你经营自己业务的专门知识。
+The problem is that most local authorities lack the expertise to deal sensibly in this market. 问题是大多数地方政府都缺乏合理应对这个市场的专门知识。
+Each area of the curriculum should be led by a staff member with appropriate expertise. 课程的每个领域都应由具备适当专业知识的教师领导。
+An outsider will lack the necessary expertise to run the company. 门外汉会缺乏公司运营的必要的专业知识。
+staff expertise 职员的专业知识 
+subject expertise 学科知识 
+A high degree of expertise is required for this work. 这项工作需要高水平的专业知识。
+She has great expertise in these matters. 她在这些问题上有很强的专业知识。
+Professor Simpson provided expertise in engineering. 辛普森教授提供了工程方而的专业知识。
+How could he apply his academic expertise to practical matters? 他是 如何将学术知识应用到实践中的?
+He will bring a great deal of expertise to bear on this issue. 他将运用丰富的专业知识解决这个问题。
+The project brings together expertise in teaching and library provision. 这个项目集合了教学和图书馆服务两方面的专业知识。
+We need to draw on the professional expertise of a large number of teachers. 我们需要借助众多教师的专业知识。
+The teachers would be available to share expertise and offer advice. 教师们将到场分享他们的专业知识并提出建议。
+I have gained expertise in specialist financial areas. 我已经获得专门金融领域的专业知识。
+She brings expertise on general financial and technical matters.她带来关于一般金融和技术问题的专业知识。
+The variety of technology requires a wide range of expertise. 技术的多样化需要各种专业知识的配合。
+
+n. [C] [旧时或术语] 盛装液体的容器，器皿（如碗、杯等）:
+n. [C]（植物的）导管:
+n. [C]（人或动物的）血管，脉管:
+n. [C] [正式] 大船、大轮船:
+vessel |[ˈvesl]
+a Bronze Age drinking vessel 青铜器时代的饮具 
+He makes decorative vessels in copper, stainless steel and silver. 他用铜、不锈钢和银制造装饰性器皿。
+storage vessels 储物容器 
+It is a scientific fact that empty vessels make the most noise. 空容器发出的声音最响，这是经过科学证明的事实。
+ritual, sacred vessel 祭器；圣器 
+ancient bronze ritual vessels 古代的青铜礼器 
+bronze, ceramic, glass, pottery, wooden vessel 青铜器皿；陶瓷器皿；玻璃器皿；陶制器皿；木制器皿
+stranded, stricken vessel 搁浅的船只；遇险的船只 
+seaworthy vessel 适于航海的船只 
+sailing, steam vessel 帆船；蒸汽船 
+ocean-going, seagoing vessel 远洋轮船；海船 
+fishing vessel 渔船 
+cargo, commercial, container, freight（尤英）, merchant vessel 货轮；商船；集装箱船；货运轮船 
+naval vessel 军舰 
+escort, patrol, Supply, support, survey, transport vessel 护航舰；巡逻舰；补给舰；支援舰；勘测船；运输舰 
+passenger vessel 客轮 
+research vessel 科考船 
+foreign vessel 外国轮船 
+enemy vessel 敌舰 
+high-speed vessel 快艇 
+He was accused of operating the vessel while drunk. 他被控醉酒驾船。
+The vessel was registered in Bermuda. 这条船是在百慕大注册的。
+A salvage team failed to refloat the vessel. 打捞队没能使这艘船重新浮上水面。
+The Navy seized any vessel caught trading with the enemy. 海军扣押了被发现与敌人做生意的所有船只。
+Police boarded and searched the vessel. 警察登船搜查。
+The captain of the boat was accused of ramming a patrol vessel. 小船的船长被指控撞击一艘巡逻艇。
+It was one of the largest vessels afloat. 那是在水上航行的最大船只之一。
+The damaged vessel sailed on for another 50 miles. 受损的船又航行了50 英里。
+a French vessel bound for Nigeria 一艘驶往尼日利亚的法国船 
+The vessel finally entered port after thirty days at sea. 经过三十天的海上航行，这艘船终于驶入港口。
+The vessel carried a crew of 130. 这艘船上载有130名船员。
+The vessel flooded and began to sink. 船身进水，开始下沉。
+They managed to haul the survivors aboard the vessel. 他们设法将幸存者都拖上了船。
+A rescue boat managed to come alongside the crippled vessel. 一艘救援船设法靠在了受损船的旁边。
+A fire broke out on board the vessel. 船上起火了。
+A Moroccan fishing vessel and a South Korean cargo ship collided in rough seas. 一艘摩洛哥渔船与一艘韩国货船在波涛汹涌的大海上相撞了。
+
+vt. [正式] 公开表达感情或意见:
+vt. 使（房间、建筑物等）通风、通气:
+ventilate |[ˈventɪleɪt]
+He did not think it the job of officials to ventilate their doubts or daydreams. 他认为公开提出自己的疑问或不切实际的想法并非官员们的分内之事。
+a well-ventilated room 通风良好的房间 
+Make sure that the room is well ventilated. 要确保房间通风良好。
+The bathroom is ventilated by means of an extractor fan. 这个浴室使用抽风扇通风。
+Ventilate the room properly when paint stripping. 当油漆开始剥落时，要给房间适当通风。
+The building is naturally ventilated. 这栋楼依靠自然通风。
+The pit is ventilated by a steel fan. 矿井中用钢制通风机来保持空气流通。

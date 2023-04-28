@@ -67,7 +67,7 @@ denoting or relating to people who have a habit or addiction that causes difficu
 problem |ˈprɒbləm| Adjective/Noun/:问题,惹麻烦的,难题
 they have financial problems:他们有财务问题
 motivation of staff can also be a problem:员工的积极性也可能是一个问题
-practitioners help families develop strategies for managing problem behaviour in teens:practitioners帮助家庭制定管理青少年问题行为的策略
+practitioners help families develop strategies for managing problem behaviour in teens:从业者帮助家庭制定管理青少年问题行为的策略
 friends and family of problem drinkers often live every day with uncertainty, deceit, and emotional and physical abuse:酗酒者的朋友和家人常常每天都生活在不确定、欺骗、情感和身体虐待中
 
 (in the first person) expressing the future tense:（第一人称）表示将来时
@@ -87,7 +87,7 @@ employed by:受雇于
 having (the thing mentioned) as a purpose or function:将（提到的东西）作为目的或功能
 having (the thing mentioned) as a reason or cause:有（提到的事情）作为原因或原因
 having (the place mentioned) as a destination:有（提到的地方）作为目的地
-representing (the thing mentioned):representing（提到的事情）
+representing (the thing mentioned):代表（提到的东西）
 in place of or in exchange for:代替或换取
 charged as (a price):按（价格）收费
 in relation to the expected norm of:关于预期的规范
@@ -96,11 +96,11 @@ indicating the extent of (a distance):表示（距离）的范围
 indicating an occasion in a series:表示系列中的一个场合
 for |fɔː| Conjunction/Preposition/:为了,由于,对于,为
 troops who had fought for Napoleon:为拿破仑而战的军队
-she is responsible for the efficient running of their department:she负责部门的高效运作
+she is responsible for the efficient running of their department:她负责部门的高效运作
 I got a present for you:我给你准备了礼物
 she is a tutor for the Open University:她是开放大学的导师
 networks for the exchange of information:networks用于信息交换
-Aileen is proud of her family for their support:Aileen为家人的支持感到自豪
+Aileen is proud of her family for their support:艾琳为家人的支持感到自豪
 they are leaving for London tomorrow:他们明天要去伦敦
 the ‘F’ is for Fascinating:the‘F’是迷人的
 will you swap these two bottles for that one?:你会把这两瓶换成那瓶吗？
@@ -129,7 +129,7 @@ the car makes driving in the city a pleasure:汽车让城市里的驾驶成为�
 the touch of his fingers gave her such pleasure:他手指的抚摸给了她如此快感
 pleasure boats:游船
 tell me what will pleasure you:告诉我什么会让你开心
-risky verbal exchanges that the pair might pleasure in:risky两人可能喜欢的口头交流
+risky verbal exchanges that the pair might pleasure in:两人可能喜欢的冒险口头交流
 
 an arrangement to meet someone at a particular time and place:在特定时间和地点与某人会面的安排
 an act of assigning a job or position to someone:将工作或职位分配给某人的行为
@@ -139,8 +139,8 @@ furniture or fittings:家具或配件
 appointment |əˈpɔɪntm(ə)nt| Noun/:约定,预约,任命,约会
 she made an appointment with my receptionist:她约了我的接待员
 prior to her appointment as CEO, she served as the company's chief financial officer:在被任命为首席执行官之前，她曾担任公司的首席财务官
-she took up an appointment as head of communications:she被任命为通讯主管
-government ministers and other political appointments are frequently replaced:government部长和其他政治任命经常被替换
+she took up an appointment as head of communications:她被任命为通讯主管
+government ministers and other political appointments are frequently replaced:政府部长和其他政治任命经常更换
 the room was spartan in its appointments:房间的约会很简陋
 
 by appointment | 预约,通过预约
@@ -166,7 +166,7 @@ would you pour the wine, please?:请你倒酒好吗？
 who would live here?:谁会住在这里？
 I would imagine that they're home by now:我想他们现在已经到家了
 they would say that, wouldn't they?:他们会这么说，不是吗？
-would that he had lived to finish it:would他活着完成它
+would that he had lived to finish it:他会活着完成它吗
 
 a child of one's son or daughter.:一个儿子或女儿的孩子。
 grandchild |ˈɡran(d)tʃʌɪld| Noun/:孙子,外孙
@@ -183,7 +183,7 @@ an interval during which atmospheric and astronomical circumstances are suitable
 a range of electromagnetic wavelengths for which a medium (especially the atmosphere) is transparent.:一个介质（尤其是大气）透明的电磁波长范围。
 strips of metal foil dispersed in the air to obstruct radar detection.:条金属箔散布在空中，阻碍雷达探测。
 window |ˈwɪndəʊ| Noun/:窗户,窗口,橱窗
-thieves smashed a window and took £600:thieves砸碎窗户并拿走了600英镑
+thieves smashed a window and took £600:小偷砸碎了窗户，偷走了 600 英镑
 television is a window on the world:television是世界之窗
 the parliamentary recess offers a good window for a bid:议会休会提供了一个很好的投标窗口
 
@@ -192,7 +192,7 @@ an instance of redirecting something from one address to another, such as an ema
 a configuration that brings about a redirect:导致重定向的配置
 redirect |ˈriːdɪrɛkt| Noun/Verb/:重定向,改道
 get the post office to redirect your mail:让邮局重定向您的邮件
-when you're in Australia entering google.com into your browser will usually result in a redirect to google.com.au:当您在澳大利亚时，在浏览器中输入google.com通常会导致重定向到google.com.au
+when you're in Australia entering google.com into your browser will usually result in a redirect to google.com.au:当您在澳大利亚时，在浏览器中输入 google.com 通常会重定向到 google.com.au
 to get messages sent to your GetMail account, you need to set up a redirect from your main email account:要将邮件发送到您的GetMail帐户，您需要从您的主电子邮件帐户设置重定向
 
 a daughter of one's brother or sister, or of one's brother-in-law or sister-in-law:兄弟姐妹的女儿，或姐夫或嫂子的女儿
@@ -203,12 +203,12 @@ a combustible black or dark brown rock consisting chiefly of carbonized plant ma
 a piece of coal:一块煤
 a red-hot piece of coal or other material in a fire:一块烧红的煤或其他材料在火中
 provide with a supply of coal:提供煤炭供应
-mine or extract coal:mine或采煤
+mine or extract coal:开采或提取煤炭
 coal |kəʊl| Noun/Verb/:煤炭,煤
 two bags of coal:两袋煤
 men were loading coals into a wagon:men正在把煤装进货车
 the glowing coals:发光的煤
-ships had to be coaled and supplied:ships必须装煤并供应
+ships had to be coaled and supplied:船只必须加煤和补给
 we have now finished coaling at the site:我们现在已经完成了现场的装煤
 
 a large continuous extent of land that includes the greater part of a country or territory, as opposed to offshore islands and detached territories:一大片连续的土地，包括一个国家或领土的大部分，而不是近海岛屿和独立领土
@@ -233,7 +233,7 @@ the property of a complex system whose behaviour is so unpredictable as to appea
 the formless matter supposed to have existed before the creation of the universe.:在宇宙创造之前就应该存在的无形物质。
 the first created being, from which came the primeval deities Gaia, Tartarus, Erebus, and Nyx.:第一个受造物，从那里诞生了盖亚、塔尔塔罗斯、厄瑞巴斯和尼克斯。
 chaos |ˈkeɪɒs| Noun/:混乱,混沌
-snow caused chaos in the region:snow在该地区造成混乱
+snow caused chaos in the region:雪在该地区造成混乱
 
 having or showing behaviour that is respectful and considerate of other people:有或表现出尊重和体谅他人的行为
 relating to people who regard themselves as more cultured and refined than others:与认为自己比其他人更有文化和精致的人有关
@@ -287,7 +287,7 @@ a Chinese meal:一顿中餐
 a Chinese restaurant:一家中餐厅
 Chinese |ˌtʃʌɪˈniːz| Adjective/Noun/:中国人,中国的,中文,中国语訳
 a takeaway Chinese washed down with Chardonnay:一个外卖中国人用霞多丽冲下来
-we found a Chinese in Soho:我们在Soho发现了一个中国人
+we found a Chinese in Soho:我们在Soho找到了一个中国人
 
 the day of the week before Tuesday and following Sunday:每周二之前和之后的周日
 on Monday:周一
@@ -300,11 +300,11 @@ the restaurant is closed Mondays:餐厅周一休息
 keep safe or rescue (someone or something) from harm or danger:保持安全或拯救（某人或某物）免受伤害或危险
 prevent (someone) from dying:防止（某人）死亡
 (in Christian use) preserve (a person's soul) from damnation:（在基督教中使用）保护（一个人的灵魂）免受诅咒
-keep (someone) in health (used in exclamations and formulaic expressions):keep（某人）健康（用于感叹词和公式表达）
-keep and store up (something, especially money) for future use:keep并储存起来（一些东西，尤其是钱）以备将来使用
-preserve (something) by not expending or using it:preserve（某物）不消耗或不使用它
+keep (someone) in health (used in exclamations and formulaic expressions):保持（某人）健康（用于感叹词和公式化表达）
+keep and store up (something, especially money) for future use:保留并储存（某物，尤其是金钱）以备将来使用
+preserve (something) by not expending or using it:通过不花费或不使用来保存（某物）
 stop talking:停止说话
-keep (data) by moving a copy to a storage location:keep（数据）通过将副本移动到存储位置
+keep (data) by moving a copy to a storage location:通过将副本移动到存储位置来保留（数据）
 avoid the need to use up or spend (money, time, or other resources):避免用尽或花费（金钱、时间或其他资源）的需要
 avoid, lessen, or guard against:避免、减少或防范
 prevent an opponent from scoring (a goal or point) in a game or from winning (the game):防止对手在比赛中得分（进球或得分）或获胜（比赛）
@@ -313,7 +313,7 @@ prevent an opponent from scoring (a goal or point) in a game or from winning (th
 (in soccer and hockey) an act of preventing an opponent's scoring:（在足球和曲棍球中）阻止对手得分的行为
 an instance of preserving a winning position gained by another pitcher.:保持另一位投手获得的获胜位置的实例。
 an act of saving data to a storage location.:将数据保存到存储位置的行为。
-other than, except for:other除了，除了
+other than, except for:除了，除了
 except:除了
 save |seɪv| Conjunction/Noun/Preposition/Verb/:节省,除了,救,保存,救球
 they brought him in to help save the club from bankruptcy:他们带他来帮助俱乐部免于破产
@@ -322,12 +322,12 @@ church ladies approach me trying to save my soul:church女士们接近我试图�
 God save the Queen:上帝保佑女王
 she had never been able to save much from her salary:她从来没能从她的薪水中存下太多钱
 save your strength till later:把你的力量留到以后
-save it, Joey—I'm in big trouble now:saveit，乔伊——我现在有大麻烦了
+save it, Joey—I'm in big trouble now:救救它，乔伊——我现在有大麻烦了
 this approach saves wear and tear on the books:这种方法可以节省书籍的磨损
 the powerful German saved three match points:强大的德国人挽救了三个赛点
 the keeper made a great save:门将做出精彩扑救
 no one needed to know save herself:没有人需要知道救自己
-little is known of his early life, save that he went to school in Brighton:little知道他的早年生活，除了他在布莱顿上学
+little is known of his early life, save that he went to school in Brighton:除了他在布莱顿上学外，人们对他的早年生活知之甚少
 
 the part around the neck of a shirt, blouse, jacket or coat, either upright or turned over:衬衫、衬衫、夹克或外套脖子周围的部分，无论是直立的还是翻转的
 a band put around the neck of an animal, used to restrain, control, or identify it:系在动物脖子上的带子，用来约束、控制或识别它
@@ -339,14 +339,14 @@ a cut of bacon taken from the neck of a pig.:从猪脖子上切下的一块培�
 the part of a plant where the stem joins the roots.:植物的茎与根相连的部分。
 put a collar on (an animal):给（动物）戴上项圈
 seize or apprehend (someone):抓住或逮捕（某人）
-stop (someone) in order to talk to them:stop（某人）以便与他们交谈
+stop (someone) in order to talk to them:停下（某人）以便与他们交谈
 collar |ˈkɒlə| Noun/Verb/:衣领,抓住,领,领子
 a shirt collar:a衬衫领
 the first step is to choose a collar that fits the dog properly:第一步是选择适合狗的项圈
 the drake has a narrow black collar:德雷克有一个狭窄的黑色领子
 a shire horse leaning into its collar:一匹靠在衣领上的郡马
 the animal had been captured, collared, and released by federal researchers:这只动物已被联邦研究人员捕获、戴上项圈并释放
-police collared the culprit:police逮捕了罪魁祸首
+police collared the culprit:警方将罪魁祸首绳之以法
 he collared a departing guest for some last words:他为即将离去的客人戴上了项圈
 
 a small round mark or spot:一个小圆形标记或斑点
@@ -355,10 +355,10 @@ a small round mark used to denote the lengthening of a note or rest by half, or 
 the shorter signal of the two used in Morse code.:摩尔斯电码中使用的两者中较短的信号。
 used to refer to an object that appears tiny because it is far away:用来指代因为距离很远而显得很小的物体
 used to indicate the punctuation separating parts of an email or website address:用于表示分隔电子邮件或网站地址部分的标点符号
-mark with a small spot or spots:mark有一个或多个小点
+mark with a small spot or spots:用一个或多个小点标记
 (of a number of items) be scattered over (an area):（若干项）散布在（一个区域）
 place a dot over (a letter):在（一个字母）上加一个点
-mark (a note or rest) to show that the time value is increased by half:mark（一个音符或休止符）表示时间值增加一半
+mark (a note or rest) to show that the time value is increased by half:标记（一个音符或休止符）表示时间值增加一半
 hit (someone):hit（某人）
 a dowry from which only the interest or annual income was available to the husband.:嫁妆，丈夫只能从中获得利息或年收入。
 directly observed therapy, a method of supervising patients to ensure that they take medication as directed.:直接观察疗法，一种监督患者以确保他们按照指示服药的方法。
@@ -369,7 +369,7 @@ a symbol depicted in coloured dots:一个用彩色圆点描绘的符号
 they were mere dots on the horizon now:他们现在只是地平线上的点点滴滴
 OUP dot com:OUP.com
 wet spots of rain began to dot his shirt:wet雨点开始打点他的衬衫
-churches dot the countryside:churches点缀乡村
+churches dot the countryside:教堂点缀在乡村
 you need to dot the i:你需要点i
 you can turn a reel into a hornpipe by slowing it down a bit and dotting the quavers:你可以把卷轴变慢一点，然后点在颤音上
 ‘You want to dot him one,’ he said:“你想给他点一个，”他说
@@ -396,12 +396,12 @@ an instructor or trainer in sport:体育教练或教练
 a private tutor who gives extra teaching.:提供额外教学的私人教师。
 train or instruct (a team or player):训练或指导（团队或球员）
 give (someone) extra teaching:给（某人）额外的教学
-teach (a subject or sport) as a coach:teach（一门学科或一项运动）作为教练
+teach (a subject or sport) as a coach:作为教练教（一门学科或一项运动）
 give (someone) instructions as to what to do or say in a particular situation:给（某人）关于在特定情况下做什么或说什么的指示
 give (someone) professional advice on how to attain their goals.:给（某人）关于如何实现目标的专业建议。
 coach |kəʊtʃ| Adverb/Noun/Verb/:,指导,教练员
 fly or coach to the shores of the Mediterranean:fly或长途汽车前往地中海沿岸
-many employees are now flying coach instead of business class to Europe:many员工现在乘坐长途汽车而不是商务舱飞往欧洲
+many employees are now flying coach instead of business class to Europe:许多员工现在乘坐经济舱而不是商务舱前往欧洲
 a football coach:一名足球教练
 he moved on to coach the England team:他继续执教英格兰队
 she was coached for stardom by her mother:她在妈妈的指导下成为明星
@@ -430,10 +430,10 @@ a vocal part in a composition.:作曲中的声乐部分。
 a constituent part in a fugue.:赋格的组成部分。
 each of the notes or sounds able to be produced simultaneously by a musical instrument (especially an electronic one) or a computer.:能够由乐器（尤其是电子乐器）或计算机同时产生的每个音符或声音。
 (in an electronic musical instrument) each of a number of preset or programmable tones.:（在电子乐器中）多个预设或可编程音调中的每一个。
-sound uttered with resonance of the vocal cords (used in the pronunciation of vowels and certain consonants).:sound发出声带共振（用于元音和某些辅音的发音）。
+sound uttered with resonance of the vocal cords (used in the pronunciation of vowels and certain consonants).:声带共振发出的声音（用于元音和某些辅音的发音）。
 a form or set of forms of a verb showing the relation of the subject to the action:表示主语与动作关系的动词形式或一组形式
-express (something) in words:express（某事）用文字表达
-utter (a speech sound) with resonance of the vocal cords (e.g. b, d, g, v, z):utter（语音）与声带共振（例如b、d、g、v、z）
+express (something) in words:用文字表达（某事）
+utter (a speech sound) with resonance of the vocal cords (e.g. b, d, g, v, z):发出声带共鸣（例如 b、d、g、v、z）的声音（语音）
 regulate the tone quality of (organ pipes or a piano).:调节（风琴管或钢琴）的音质。
 voice |vɔɪs| Noun/Verb/:嗓音,表达,语音,声音,话
 Meg raised her voice:Meg提高嗓门

@@ -1,0 +1,615 @@
+terminal						晚期的，终点的，站，终端
+correspond						相符，相当，通信
+war						战争，竞争
+sleepy						困倦的，宁静
+surprise						惊喜，出人意料，意外的
+snowman						雪人
+search						搜寻，搜查，搜索
+toothache						牙痛
+wash						洗，冲走
+classroom						教室
+nephew						侄子
+cap						便帽，盖子，覆盖，胜过
+aggression						敌对情绪，侵犯
+notebook						笔记本，笔记本电脑
+bonus						奖金，分红
+drop						掉下，写，放弃，下降，结束，少量
+not a drop						一点也没有
+a drop in the ocean						沧海一粟
+a drop in the bucket						沧海一粟
+just a drop						就一点儿
+circus						马戏，喧闹的场面
+amount						数量，金额
+amount to						总计，相当于
+bounce						反弹，颠簸，弹性
+bounce back						重整旗鼓
+married						已婚的，婚姻的
+none						全无，没有人
+none too						一点也不，毫不
+arrive						到达，来临，成功
+steady						稳定的，均匀的
+museum						博物馆
+enjoyable						令人愉快的
+headache						头痛
+hopeful						抱有希望的，给人以希望的
+event						事件，可能发生的事，社交场合，比赛项目
+ache						疼痛，痛苦
+\\\\\\\\
+
+adj. [正式或术语] 常用于名词前，处于一段时间的末端的:
+n. [C] [术语]（电路或电器设备的）线路接头，即端子:
+n. [C]（计算机技术中的）终端或终端机（该终端与一个中央计算机系统相连）:
+adj. [正式或术语] 常用于名词前，处于某事物的末端的，末梢的:
+adj. 1（疾病）不能得到治疗且将导致死亡的（过程常是缓慢的），即晚期的:
+2（人）患有晚期疾病的:
+n. [C]（火车、公共汽车或船的）始发站或终点站（可以是一个地方，也可以是一栋建筑或一组建筑）。是一个专业用法:
+n. [C]（机场的）航空站，航站楼（为一栋或一组建筑，用于接收或发送旅客）:
+adj.（情况）一定会恶化且最终结束的，即不可救药的，无可挽回的:
+terminal |['tə:mɪnl]
+terminal examinations 期末考试
+negative terminal 负极端子 
+the positive terminal of the battery 电池的正极
+computer, Internet terminal 计算机终端；互联网终端 
+data terminal 数据终端 
+mobile, wireless terminal 移动终端；无线终端 
+terminal screen 终端显示器
+a terminal branch of a tree 树的末端枝条
+He has terminal lung cancer. 他患有晚期肺癌。
+The illness is usually terminal. 这种病通常为不治之症。
+She’s suffering from terminal boredom.（比喻用法）她现在感到烦得要死。
+a terminal patient 晚期病人
+rail, subway（美）, train terminal 铁路枢纽站；地铁枢纽站；火车枢纽站 
+bus terminal 公交车总站 
+cruise, cruise-ship, ferry terminal 游轮码头；轮渡码头 
+passenger terminal 客运枢纽站 
+container terminal 集装箱码头 
+oil terminal 石油码头
+airport terminal 机场航站楼
+The industry is in terminal decline. 这个行业每况愈下，一蹶不振。
+
+vi. [正式] correspond (with sb) 给某人写信并收到其回信，即与某人通书信:
+vi. 1 correspond (to/with sth) 和…相同；与…相符。相当于agree或tally:
+2 correspond (to sth) 和其它事物类似或相同，相当于equivalent:
+correspond |[kɒrɪ'spɒnd]
+We corresponded regularly. 我们定期通信。
+Your account of events does not correspond with hers. 你对事件的陈述与她说的不相符。
+The written record of the conversation doesn’t correspond to what was actually said. 那次谈话的文字记录与原话不符。
+The movement of the dot on the screen corresponds exactly with the movement of the control lever. 屏幕上圆点的移动与控制杆的移动完全一致。
+The British job of Lecturer corresponds roughly to the US Associate Professor. 英国的讲师职位大致相当于美国的副教授。
+The word corresponds roughly in meaning to our ‘homesickness’. 这个词的意思大致相当于我们的“思乡”一词。
+
+n. 1 [C, U]（群体、公司、国家等之间的）激烈竞争、对抗、冲突、斗争:
+2 [U, sing.] war (against/on sb/sth) 为消灭有害事物所进行的长期斗争:
+n. [U, C] 战争，战争状态:
+war |[wɔ:]
+class, culture（尤美）war 阶级斗争；文化战争 
+turf war（帮派）地盘争夺战 
+price war 价格战 
+economic, trade war 经济战；贸易战 
+The government has declared war on drug dealers. 政府已向贩毒分子宣战。
+the war against crime 打击犯罪
+civil, world war 内战；世界大战 
+nuclear war 核战争 
+conventional war 常规战争 
+cold war 冷战 
+holy war 圣战 
+Korean War 朝鲜战争 
+war victims 战争受害者 
+war zone 战区 
+war criminal 战犯 
+a country at war 交战国 
+the outbreak of war 战争的爆发 
+to wage war 发动战争 
+to entered the war 参战
+
+adj.（地方）安静的，冷清的，没多少事发生的（即不热闹的）:
+adj. 困的，想睡的:
+sleepy |['sli:pɪ]
+The town remains sleepy despite the activity all around it. 尽管周围很热闹，小镇仍然沉寂。
+a sleepy boy 打瞌睡的男孩 
+I was beginning to feel amazingly sleepy. 我开始感觉到特别困。
+
+vt. 1 使某人感到惊奇、诧异或意外。可以是好事、坏事，也可以是不好不坏的事:
+2 突然且意外地攻击、发现等某人:
+n. 1 [C] 意想不到或突然发生的（即令人惊奇的）一次事件、一则消息等。常是好事，也可以是坏事:
+surprise (at seeing, hearing, etc.) 被意外（或突然）事件（或消息）所引起的一种感情，即惊讶、惊奇、意外:
+3 [U] 让人惊奇的做事方法:
+vt. 突然且意外地发现某人:
+vt. 突然且意外地攻击某人，强调进攻的突然性和意外性（一般是令敌人意外）:
+surprise |[sə'praɪz]
+The outcome did not surprise me at all. 我对这个结果一点儿也不意外。
+It wouldn’t surprise me if they got married. 如果他们俩结婚，我不会觉得奇怪。
+They wanted to surprise their mother and get the breakfast ready. 他们想把早饭做好，给母亲一个惊喜。
+The army attacked at night to surprise the rebels. 军队在夜间发起攻击，把叛乱者打了个措手不及。
+We arrived home early and surprised a burglar trying to break in. 我们回家早，无意中发现一个窃贼正要入室行窃。
+What a nice surprise! 真是让人惊喜！
+Her letter came as a complete surprise. 万万没想到会收到她的信。
+surprise victory 意外的成功 
+surprise defeat 意外的失败 
+surprise attack 突袭 
+a look of surprise 惊讶的表情 
+She looked up in surprise. 她惊讶地抬起头。
+I got a surprise when I saw the bill. 一看账单我吃了一惊。
+To everyone’s surprise, the plan succeeded. 出乎所有人的意料，那个计划竟然取得了成功。
+After the initial surprise I got to like the place. 最初的惊讶过后，我喜欢上了这个地方。
+mock surprise 假装吃惊 
+A successful campaign should have an element of surprise. 成功的宣传活动需有出奇制胜之处。
+We surprised a burglar trying to break in. 我们无意中发现一个窃贼正要入室行窃。
+The army attacked at night to surprise the rebels. 军队在夜间发起攻击，把叛乱者打了个措手不及。
+
+a representation of a human figure created with compressed snow.:用压缩雪创造的人物形象。
+snowman |ˈsnəʊman| Noun/:雪人,雪侠
+
+vt.＆vi. search (sth) (for sth/sb) 在某一地搜寻，搜查，搜索:
+vt. search sb (for sth) 尤指警察为找到隐藏的东西而搜查，搜身等:
+n. [C] search (for sb/sth) 寻找，尤指仔细寻找，即搜寻，搜查，搜索。是此义的常规用词，极为常用:
+n. [C] 在数据库中或互联网上进行的搜索、检索:
+vi. search (for sth) 思索，细想，尤指为找到问题的答案。与puzzle类似，但puzzle的过程通常比search更辛苦:
+search |[sə:tʃ]
+She searched in vain for her passport. 她翻找自己的护照，但没找着。
+The customs officers searched through our bags. 海关官员搜遍了我们的行李。
+He searched in his pocket and found a few coins. 他在口袋里摸来摸去，找到了几枚硬币。
+to search for the missing child 寻找那个失踪的孩子 
+actively searching for something to keep the conversation going 为使谈话继续积极寻找话题 
+to search for a stick 找根棍子 
+to search for a job 找工作 
+Visitors are regularly searched as they enter the building. 参观者进入大楼时要接受例行的搜身检查。
+The youths were arrested and searched for anything that would incriminate them. 警察逮捕了那些年轻人，并进行搜身，看能不能找到可以认定他们有罪的物证。
+massive, random, routine search 大规模搜索；胡乱搜索；例行搜查 
+police search 警方搜查 
+house-to-house search 挨家挨户的搜查 
+body search 搜身 
+search team 搜寻队 
+search warrant 搜查证 
+We’re constantly in search of new talent. 我们一直在寻找新人才。
+the search for oil off the coast 近海石油勘探 
+She went into the kitchen in search of a drink. 她进了厨房，想找点喝的。
+The search for a cure goes on. 人们还在继续探寻治疗方法。
+computer, database, online, Web search 计算机搜索；数据库搜索；在线搜索；网络搜索 
+I did an Internet search for free music sites. 我在互联网上搜索免费的音乐网站。
+advanced, keyword search 高级搜索；关键词搜索 
+search engine 搜索引擎 
+search box 搜索栏 
+search results 搜索结果
+He searched desperately for something to say. 他搜肠刮肚，想找点话说。
+
+n. [U, C, usually sing.] 牙痛:
+toothache |['tu:θeɪk]
+I’ve got toothache.（英）我牙疼。
+
+vt. 用水（通常也用肥皂）来清洁某事物或某人，如洗、洗涤:
+vt.＆vi. [尤英] wash (yourself) 用水（通常也用肥皂）来清洁自己，如洗澡、洗脸、洗手:
+vi.（衣服、织物等）能够经得住洗涤而不褪色或不被损坏，如耐洗:
+n. [C, usually sing.] [尤英] 用水（通常也用肥皂）对某事物或某人所做的清洁，如洗、洗涤、洗刷、清洗:
+n. [C, U] 用于清洁皮肤的一种含有肥皂的液体，有时可称为肥皂液:
+vt.＆vi.（水）朝某个方向流动，或将某人（或某事物）朝某个方向运送。如流动、把…冲向…:
+n. [C] 置于一个表面上的薄薄的一层液体（尤指油漆或涂料），不太常用:
+n. [sing.] the wash（尤指在船航行过程中其后部出现的）一片剧烈运动的波浪区域（可称为船的尾流）（此时与wake未见明显区别）；也可指此时发出的声音，即船的尾流声:
+wash |[wɒʃ]
+The coat need washing. 这件外套该洗了。
+to wash the car 冲洗汽车 
+to wash your hands 洗手 
+to wash the wound 清洗伤口 
+freshly washed hair 刚洗过的头发 
+to wash the fruit 洗水果 
+The beach had been washed clean by the tide. 海滩让潮水冲刷得干干净净。
+I washed and changed before going out. 我洗了个澡，换好衣服，然后才出去。
+This sweater washes well. 这件毛衣很耐洗。
+My sweater shrank in the wash. 我的毛衣洗后缩水了。
+car wash 洗车 
+He had a quick wash and shave. 他迅速地洗了脸又刮了胡子。
+an antiseptic skin wash 抗菌净肤液
+Water washed over the deck. 水从甲板上流过。
+Pieces of the wreckage were washed ashore. 沉船残骸的碎片被冲到了岸上。
+He was washed overboard by a huge wave. 一个巨浪把他从船上掀进海里。
+The walls were covered with a pale yellow wash. 墙壁刷了一层薄的浅黄色涂料。
+the wash of a passing ferry 驶过的渡船掀起的波浪 
+They listened to the wash of waves on the beach. 他们听着波浪拍击海滩的声音。
+
+n. [C] 教室:
+classroom |['klɑːsru:m]
+in the classroom 在教室里 
+classroom teaching 课堂教学 
+classroom activities 课堂活动
+
+n. [C] 兄弟（或姐妹）的儿子；丈夫（或妻子）的兄弟（或姐妹）的儿子。即侄子；外甥:
+nephew |['nevju:,'nefju:]
+my nephew 我的侄子（或外甥）
+
+n. [C]（尤指在玩具枪里）装火药的一个小纸容器:
+n. [C]（钢笔、瓶子等的）帽，盖:
+n. 1 [C] 前面有帽舌的一种软帽（尤为男子所戴，常作为制服的一部分）:
+2 [C] 通常构成复合词，为某一目的所戴的一种较紧的软帽:
+vt. cap sth (with sth) 常用被动式，用…覆盖…顶部（或端部）:
+vt. 常用被动式，在牙齿外面包上一层人工材料（使其更好看），相当于crown:
+n. [C] [英] 体育运动中可指（校队、国家队等的）队员帽；还可指被选入国家队并代表国家进行比赛的运动员:
+vt. [英] 常用被动式，（为某一体育比赛）将某人选入国家队:
+n. [C] 可被某一大型机构（或在某种情况下）所花费或借得的一笔资金的额度上限:
+vt. [尤英] 常用被动式，限制为某事物所收取或支出的资金额度:
+n. [C] 一些大学师生在某些特别仪式上所戴的有正方形平顶的软帽:
+vt. [尤英] 说得或做得比以往更有趣、更令人印象深刻等:
+cap |[kæp]
+hub, lens cap 轮毂罩；镜头盖 
+The bottle has a screw cap. 这个瓶子有一个螺旋盖。
+school cap（尤英）学生帽 
+ball（美）, baseball cap 球帽；棒球帽 
+flat, peaked（均尤英）cap 低顶圆帽；鸭舌帽 
+shower cap 浴帽 
+bathing, swim（美）, swimming（尤英）cap 泳帽
+mountains capped with snow 被雪覆盖的山峰
+He’s had his front teeth capped. 他包了门牙。
+He won his first cap for England against France. 他首次被选为英格兰队的队员与法国队比赛。
+There are three new caps in the side. 这一方有三名新队员。
+He has been capped for England. 他已入选英格兰队。
+to place a cap on local council spending 给地方议会的经费支出规定最高限额 
+a capped mortgage 限额按揭
+What an amazing story. Can anyone cap that? 这真是个精彩的故事！还有人能讲得更精彩吗？
+
+n. [U]（一国对另一国的）侵略:
+n. [U] 好斗性、攻击性:
+n. [U]（一个人对另一个人的）暴力和攻击行为，即侵犯:
+aggression |[əˈgreʃn]
+a display of naked aggression 赤裸裸的侵略表现 
+The president announced that the country would not tolerate foreign aggression. 总统宣布该国绝不会容忍外敌入侵。
+American aggression 美国的侵犯 
+armed, military aggression 武装侵略；军事侵略 
+unprovoked military aggression 无端的军事侵犯 
+the threat of massive military aggression 大规模军事侵略的威胁 
+Aggression by one nationality against another often leads to war. 一个民族对另一民族的挑衅往往会导致战争。
+The research shows that computer games may cause aggression. 研究显示，电脑游戏可能引起好斗情绪。
+Aggression is by no means a male-only trait. 好斗性绝非男性才具有的特征。
+to release pent-up aggression 释放被压抑的敌对情绪 
+the brutality and aggression displayed by the soldiers 士兵所表现出来的残忍和好斗 
+He managed to channel his aggression into sport. 他设法将对抗情绪转移到体育运动上。
+Do toy guns encourage aggression? 玩具枪会助长好斗情绪吗？
+It showed no aggression towards other dogs. 它未对其它狗表现出攻击性。           
+physical, sexual, verbal aggression 身体上的侵犯；性侵犯；言语侵犯 
+Acts of aggression against local shop owners should be reported to the police. 对于当地店主遭到的侵犯应该报警。
+The raid was an unjustifiable act of aggression. 那次偷袭是一种不正当的侵略行径。        
+
+n. [C] 笔记本电脑:
+n. 1 [C] 写字用的笔记本:
+2 [C] [美] 学生做功课用的练习本:
+notebook |['nəʊtbʊk]
+a notebook computer 笔记本电脑
+to bring out a notebook from the pocket 从口袋里掏出一个笔记本 
+
+n. [C] 尤指在工资或酬劳基础之上所加的一笔额外的钱，即奖金。其词义范围也涵盖了“津贴”，但英语中“津贴”更常用allowance:
+n. [C] 尤指在工资或酬劳基础之上所加的一笔额外的钱，即红利。原本是利润的一部分，只是被分配下去作为了一种额外的奖励:
+n. [C] 超出期待（即比期待的更多或更好）的任何令人愉悦的事物，即意外收获:
+bonus |['bəʊnəs]
+extra, special bonus 额外奖金；特别津贴 
+annual, Christmas（尤英）, year-end（美）bonus 年度奖金；圣诞节奖金；年终奖金 
+loyalty（英）, performance bonus 忠诚奖；业绩奖金 
+no-claims（英）bonus 无索赔奖励 
+bonus payment 奖金支付 
+to receive a cash bonus of $500 for high levels of productivity 因为工作效率高而得到500美元的现金奖励
+bonus scheme（英）分红计划
+Being able to walk to work is an added bonus of the new job. 能够步行去上班是这份新工作额外的好处。
+The house is comfortable, and as an added bonus, it’s near my work. 这所房子很舒适，而且还有额外的好处——离我工作的地方很近。
+The sunshine on the final day was a welcome bonus for the spectators. 决赛当天阳光明媚，观众心情格外好。
+
+vt. 某人被一支运动队或一个组织除名或解职。暗示此人对该组织已不再重要:
+vt. 不再与某人（如朋友）往来，与某人（如朋友）断绝联系:
+vt. 1 drop sb/sth (from sth)（偶然或故意地）遗漏；省略；不予考虑等:
+2 停止做某事（或讨论某事）；不再继续某事。也可叫放弃（想法、行动、习惯等）:
+vi. 由于精疲力竭而不能再继续做某事，即放弃:
+vt.＆vi. 变得（或使…变得）更弱、更低或更少，相当于fall:
+n. [C, usually sing.] drop (in sth)（某事物的数量、水平、数字等的）下降；下跌；减少:
+vt.＆vi. [正式] 眼睛向下看:
+vt.＆vi. [正式] 眼睛向下看，垂下眼睛:
+vt.＆vi. 人的身体或身体部位下降到一个更低的位置（常指疲劳无生气地瘫倒或下垂）:
+vt. drop a stitch 编织过程中漏针、脱针或掉针等:
+n. [C] 小球状糖果:
+n. 1 [C] 圆形的液滴（如水滴，水珠）:
+2 [C, usually sing.] 少量液体:
+vi. drop (away) (from sth) 急剧向下倾斜:
+n. [sing.] 从一个高点到一个低点的距离，即落差:
+vt. drop a hint（通过说…或做某事来向别人）暗示自己的想法。不常用:
+vt.＆vi. 1（偶然地）落下，掉下；或使落下:
+2（故意）降下；使降落，使落下:
+n. [pl.] drops 可指滴入眼睛、耳朵或鼻子里的液体药品，即滴剂:
+vt. drop sb a line/note（给某人）寄送短小的信件:
+vt. drop sb/sth (off)（车辆等）中途卸客或中途卸货（也可理解为把…送到某地并将其放下）:
+n. [C]（用车辆或飞机所进行的）运送或空投:
+drop |[drɒp]
+He has been dropped from his job as sales director. 他已经被拿掉了销售总监的职务。
+He has been quietly dropped from the England team. 他被英格兰队悄然除名。
+She’s dropped most of her old friends. 她已与多数老朋友停止了来往。
+She’s been dropped from the team because of injury. 她因受伤而未被列入队员名单。
+He spoke with a cockney accent and dropped his aitches. 他讲话带着伦敦东区的口音，把词首的h音给吞掉了。
+I dropped German when I was 14. 我14岁后就没再学德语。
+Drop everything and come at once! 放下所有事情赶快来吧！
+Can’t we just let the matter drop? 难道我们就不能放下这件事吗？
+to drop the subject 不再谈这个话题 
+to drop the charges against her 撤销对她的指控 
+to drop the idea 放弃这个想法 
+He suddenly dropped his habitual banter. 他突然不再像往常一样开玩笑。
+to drop border controls 停止边境管制 
+drop in favour/favor of … 取消后代之以… 
+She looked about to drop. 她看上去要放弃了。
+Temperatures can drop to freezing at night. 晚上气温能降到零度以下。
+She dropped her voice dramatically. 她突然压低了声音。
+The Dutch team have dropped to fifth place. 荷兰队已降至第五名。
+The price of oil has dropped significantly. 油价已大幅下降。
+The number of children in the class has dropped from 25 to 18. 班里的孩子数量已从25人降至18人。
+His blood pressure had dropped severely. 他的血压严重地下降。
+You must drop your speed in built-up areas. 在房屋密集区必须放慢速度。
+At last the wind dropped. 风势终于减弱了。
+a drop in wages 工资的下调 
+pressure, price, temperature drop 压力下降；价格下降；温度下降 
+The restaurant has suffered a big drop in trade. 这家餐馆生意骤减。
+Her eyes dropped to her lap. 她双目低垂，看着自己的腿。
+Her eyes dropped to her lap. 她双目低垂，看着自己的腿。
+He staggered in and dropped into a chair. 他蹒跚着走进来，一屁股坐在椅子上。
+I feel ready to drop. 我感到快累垮了。
+She let her head drop. 她把头垂了下来。
+He slowly dropped to the floor. 他缓慢地倒在地板上。
+His arms dropped limply to his sides. 他的双臂无力地垂到了身体两侧。
+Her mouth dropped open in disbelief. 她张着嘴，满脸怀疑。
+Her heart dropped like a stone at this news.（比喻用法）听到这个消息她心头一沉。
+fruit drops 水果糖 
+cough drops 止咳糖
+a drop of blood 一滴血 
+a drop of blue ink 一滴蓝墨水 
+We mustn’t waste a single drop. 我们不应该浪费一滴水。
+tiny drops of sweat 一滴滴小汗珠 
+rain drop（通常用raindrop）雨滴 
+Could I have a drop more milk in my coffee, please? 给我在咖啡里多加点牛奶好吗？
+I haven’t touched a drop all evening. 整个晚上我滴酒未沾。
+The land dropped steeply away into a small valley. 地势陡降，变成一个小山谷。
+There was a sheer drop of fifty metres to the rocks below. 距下面的岩石有五十米的垂直距离。
+The cliff plunged in a sheer drop down to the beach. 悬崖陡峭，直下海滩。
+long drop 大落差
+Jerry dropped hints that he and Julie were talking about getting married. 杰里露出口风说他同朱莉已谈婚论嫁了。
+The climber slipped and dropped to his death. 攀登者一失足掉下去摔死了。
+I dropped my glasses. 我不小心掉了眼镜。
+Medical supplies are being dropped into the stricken area. 正在向灾区空投医药用品。
+television footage of bombs dropping on the city 多枚炸弹投向该城市的电视片段 
+He dropped his trousers.（英）他松开腰带，裤子掉下去。
+He felt hot tears dropping onto his fingers. 他感到热泪滴在他的手指上。
+Drop the noodles into the water. 把面条下到水里。
+eye drops 眼药水 
+to have these drops in his eyes 把这些药水滴进他的眼睛里
+Drop me a line when you get there. 你到那儿后给我写封信。
+Can you drop me near the bank? 你可以让我在银行附近下车吗？
+Just drop me off at the airport. 把我送到飞机场下车就行。
+You left your jacket, but I can drop it off on my way to work tomorrow. 你忘了拿你的夹克，不过我可以在明天上班的路上顺便捎给你。
+to organize food drops to civilians in the war zone 组织力量向战区平民运送食物 
+a parachute drop 降落伞空投
+
+n. 1 [C] 马戏团:
+2 [sing.] the circus可指马戏表演（常在一个大帐篷里进行）:
+n. [C]（古罗马）露天圆形竞技场（用于举办公共赛事）:
+n. [C] [英]（用于某些地名）城镇中若干条街道相汇聚所形成的一片圆形开阔地域，可称为圆形广场，或环形交叉路口:
+n. [sing.] [非正式，贬] 吸引很多人注意的一群人或一次事件:
+circus |['sə:kəs]
+We took the children to the circus. 我们带孩子们去看了马戏表演。
+Piccadilly Circus 皮卡迪利广场
+A media circus surrounded the royal couple wherever they went. 无论王室夫妇走到何处，他们的身后都会跟着一大群媒体记者。
+the American electoral circus 美国大选的热闹场面
+
+n. [C, U] amount (of sth) 尤与不可数名词连用，指数量或数额。有一种“总量”或“总额”的色彩，且通常不算是一种正式用法。此时单纯在词义上相当于quantity:
+vi. amount to后接某一总数，可表示总计:
+vi. amount to sth 等于…，与…相同:
+n. [C, U]（钱的）金额:
+amount |[ə'maʊnt]
+an amount of time 一段时间 
+a considerable amount of money 一大笔钱 
+an amount of information 一些信息 
+an amount of help 一些帮助 
+huge amounts of data 大量数据 
+high amounts of oxygen 大量氧气
+Consumer spending on sports-related items amounted to $9.75 billion. 消费者在体育相关用品上的消费总共达到了97.5亿美元。
+His earnings are said to amount to £300 000 per annum. 据说他每年的酬金高达30万英镑。
+They gave me some help in the beginning but it did not amount to much. 起初他们给了我一些帮助，但帮助不大。
+Her answer amounted to a complete refusal. 她的答复等于完全拒绝。
+Their actions amount to a breach of contract. 他们的行为已属违反合同。
+It’ll cost a lot--well, take a lot of time, but it amounts to the same thing. 会花很多——哦，得花大量时间，不过反正都是一回事。
+to refund any amount due to you 退还你应得的所有款项 
+a bill for the full amount 全额账单
+
+vt. [尤美，非正式] bounce sb (from sth) 迫使某人离开一个工作岗位、团队等:
+n. [C] 突然增加:
+vt. [尤美，非正式] bounce sb (from sth) 迫使某人离开一个地点等:
+n. [U, C] 一个人所具有的精力、活力:
+vi.（一个人在某事物上）上下蹦跳:
+n. [C] 弹跳、跳动:
+vi. 1 朝某个方向上下颠簸着行进:
+2（一个人）有活力地（如蹦蹦跳跳地、活泼兴奋地）去某地或到某处:
+n. [U] 头发的富有弹性的特质，或称为蓬松，而非平平塌塌:
+vt. 把小孩放在膝上颠着玩儿:
+n. [U] 弹性或反弹力，是一种反弹（或使某事物反弹）的能力:
+vt.＆vi. bounce (sth) (back) 电子邮件被系统退回（因系统无法投递）:
+vt. bounce ideas (off sb)/(around) 将自己的想法或主意告诉某人，以此来试探别人对此事的想法:
+vt.＆vi. 上下晃动；使某事物上下晃动:
+vt.＆vi. 从撞击的表面弹起或弹离:
+n. [C] 弹起:
+vt.＆vi. [非正式]（支票）被银行拒付退回（因余额不足）:
+bounce |[baʊns]
+He was soon bounced from the post. 他不久被解职。
+a bounce in popularity（美）声望的增加
+All her old bounce was back. 她完全恢复了以往的活力。
+There was a bounce to his step. 他的步伐矫健有力。
+She bounced up and down excitedly on the bed. 她兴奋地在床上蹦蹦跳跳。
+The bus bounced down the hill. 公共汽车颠簸着开下山去。
+He bounced across the room to greet them. 他兴奋地冲过房间去迎接他们。
+hair lacking in bounce 没有弹性的头发
+There’s not much bounce left in these balls. 这些球已没有多少弹性了。
+He bounced ideas off colleagues everywhere he went. 他在同事中逢人便试探性地大讲他的想法。
+Her hair bounced as she walked. 她走起路来头发上下晃动。
+The ball bounced twice before he could reach it. 球弹了两次他才接到。
+She bounced the ball against the wall. 她对着墙打球。
+Short sound waves bounce off even small objects. 短声波即使遇到小物体都会发生反射。
+The light bounced off the river and dazzled her. 河面上波光粼粼，令她目眩。
+The idea had been bouncing around in my head for some time.（比喻用法）有一段时间，这个念头一直在我的脑海里挥之不去。
+one bounce of the ball 球的一次弹起
+
+adj. ~ to sth 专心于某事的；献身于某事的；致力于某事的:
+adj. 1 已婚的:
+2 [只用于名词前] 婚姻的；结婚的:
+married |[ˈmærid]
+My brother is married to his job. 我弟弟一心扑在工作上。
+She was a very strict Christian who was married to her job. 她是个虔诚的基督徒，对工作全身心投入。
+I have little time for women because I'm married to my cricket, so I'm leaving the arrangements to my sister. 我把全部心思都放在了板球上，很少有时间交女友，所以便把约会一事交由姐姐来安排。
+married man, married woman 已婚男子；已婚女子 
+Is he married? 他结婚了吗？
+All her friends are now married with children. 她的所有朋友都已结婚生子。
+a happily married couple 一对幸福结合的伉俪 
+She's married to John. 她嫁给了约翰。
+She is married to an Englishman. 她嫁给了一个英格兰人。
+She's married to an actor. 她嫁给了一个演员。
+When did you get married? 你什么时候结的婚?
+Rachel and David are getting married on Saturday. 雷切尔和戴维将在星期六结婚。
+How long have you been married? 你结婚多长时间了？
+We have been married for 14 years. 我们已经结婚14年了。
+The newly married couple left for their honeymoon in Spain. 这对新婚夫妇动身到西班牙度蜜月去了。
+I wouldn't have felt properly married if it hadn't been a church wedding. 如果不是在教堂举行了婚礼，我还不会觉得已真正结了婚。
+Are you enjoying married life? 你喜欢你的婚姻生活吗？
+Her married name (= the family name of her husband) is Jones. 她婚后随夫姓琼斯。
+For the first ten years of our married life we lived in a farm-house. 我们结婚的头十年住在一座农舍里。
+
+adv. 1 与the加比较级连用，表示一点都不，绝无:
+2 与too加形容词或副词连用，表示绝不，不是非常，不怎么:
+none |[nʌn]
+She told me what it meant at great length but I’m afraid I’m none the wiser. 她费尽口舌给我解释它的意思，可我恐怕还是不明白。
+He seems none the worse for the experience. 他的这次经历似乎一点没有给他造成伤害。
+She was looking none too pleased. 她看上去一点也不高兴。
+
+vi. 1 arrive (at/in/on ...)（缩写为arr.）到达一个地方（尤指在一段旅程的末尾）。是一个常规用词:
+2（东西）被带给某人:
+vi.（一次事件或一个时刻，尤指自己所等待的事件或时刻）发生或到来:
+arrive |[ə'raɪv]
+We should be arriving shortly. 我们马上就到。
+We arrived at the hotel late. 我们很晚才到旅馆。
+I was pleased to hear you arrived home safely. 听说你平安到家我很高兴。
+The train arrived at the station 20 minutes late. 火车迟了20分钟到站。
+The police arrived to arrest him. 警察赶来逮捕了他。
+The package failed to arrive. 包裹没有寄到。
+We waited an hour for our lunch to arrive. 我们等午饭等了一小时。
+The new product will arrive on supermarket shelves early next year. 明年初该新产品就会在超级市场上架。
+The wedding day finally arrived. 婚礼这一天终于到来了。
+The baby arrived (= was born) early. 婴儿早早地出生了。
+
+exclamation. 1 [正变得过时] steady on 用于告诉某人，让其谨慎处理自己正在说的话或正在做的事（例如由于其言行极端或不合适）:
+2 用于告诉对方小心，如注意、当心、小心:
+adj. 牢牢地固定（或支撑、平衡）住的，不摇晃或不太可能下落的，如稳的、平稳的、稳固的（其含义已将stable包括，但steady更强调“稳”，有一种保持平衡的意味）:
+vt.＆vi. steady (yourself/sb/sth) 防止…移动（或震动、下落）；停止移动（或震动、下落）:
+adj. 1 以一种匀速和规律的方式逐渐发展（或成长等）的，如稳步的、匀速的，相当于constant:
+2 不发生变化或进程不被打断的，如稳定的、恒定的，相当于regular:
+3（人）沉稳理智的，可被依靠的:
+vi. 停止变化，且再次变得有规律，如恢复平稳、稳定下来:
+adv. 稳定且不变化或不震动、不摇动的，如稳定地、稳固地、持续地:
+vt. 使某人或某事物平静（或冷静、镇定）:
+steady |['stedɪ]
+Steady on! You can’t say things like that about somebody you’ve never met. 注意点！你从没见过的人，不要这样议论人家。
+Steady! Don’t fall off. 小心！别摔下来。
+He held the boat steady as she got in. 他把船稳住，让她上了船。
+Such fine work requires a steady hand. 做这样精细的工作手要稳。
+Hold the ladder steady! 扶稳梯子！
+His gaze was rock steady. 他目不转睛地盯着看。
+She steadied herself against the wall. 她靠墙站稳。
+The lift rocked slightly, steadied, and the doors opened. 电梯微微一晃又稳了下来，接着门开了。
+five years of steady economic growth 经济持续五年的稳步增长 
+a steady decline in numbers 数量逐渐下降 
+We are making slow but steady progress. 我们虽然缓慢但是在稳步前进。
+a steady stream of visitors 稳定的客流 
+His breathing was steady. 他呼吸平稳。
+steady job, steady income, steady price, steady pace, steady relationship, steady girlfriend 稳定的工作；稳定的收入；稳定的价格；稳定的速度；稳定的关系；关系稳定的女朋友 
+Inflation seems to be holding steady. 通货膨胀似乎稳定下来了。
+Her heartbeat steadied. 她的心跳平稳下来。
+The pound steadied against the dollar. 英镑对美元的汇率稳定下来。
+In trading today the dollar held steady against the yen. 在今天的交易中，美元对日元的汇率保持稳定。
+He took a few deep breaths to steady his nerves. 他深深地吸了几口气，让自己平静下来。
+
+n. [C] 博物馆:
+museum |[mju'zɪəm]
+national museum 国家博物馆 
+history museum 历史博物馆 
+military museum 军事博物馆 
+the Museum of Modern Art 现代艺术馆 
+wax museum 蜡像馆 
+open-air, outdoor museum 露天博物馆 
+living, working（尤英）museum 活的博物馆 
+virtual museum 虚拟博物馆 
+museum collection 博物馆收藏品 
+museum tour, museum visit 到博物馆参观
+
+adj.（事物）有乐趣的，令人愉快的。通常持续时间偏长，常发自内心，有一种略为深沉的满足感:
+enjoyable |[ɪn'dӡɒɪəbl]
+an enjoyable weekend, enjoyable experience 令人愉快的周末；令人愉悦的经历 
+It was much more enjoyable than I had expected. 这比我预期的有趣得多。
+the most enjoyable activity they did 他们做的最有趣的活动 
+I always try to make my lessons enjoyable. 我总是设法使我的课有意思。
+We had a most enjoyable evening. 我们度过了一个非常愉快的夜晚。
+
+n. [C] 头部疼痛，即头痛:
+n. [C] 令人头疼的人、事物或事情:
+headache |['hedeɪk]
+Red wine gives me a headache. 我喝红酒会头痛。
+I have a splitting headache. 我头痛欲裂。
+dull headache 隐隐的头疼 
+pounding, throbbing headache 像是有东西敲击的头痛；一抽一抽的头疼 
+tension headache 紧张型头疼 
+migraine headache 偏头痛 
+headache pill 头痛止疼片
+The factory’s biggest headache is the increase in the prices of the raw materials. 最令这家工厂头疼的是原材料价格的上涨。
+These regulations have created major headaches for many businesses. 这些规定给很多公司造成了大麻烦。
+
+n. [C] 希望在某事上获得成功的一个人:
+hopeful (about sth) 通常不用于名词前，（人）认为自己所期望的事将会发生的，即抱有希望的，相当于optimistic:
+2 只用于名词前，（一个人的行为）表现出希望的:
+3（一个事物）给人以希望的:
+hopeful |['həʊpfl]
+50 young hopefuls are trying for a place in the England team. 50名雄心勃勃的年轻人亟欲跻身英格兰队。
+adj. 1 hopeful (that ...) 
+He is not very hopeful about the outcome of the interview. 他对面试的结果不抱很大希望。
+Don’t get too hopeful. We may not be able to go. 别抱太大希望，我们也可能去不了。
+The police remained hopeful that she would be found alive. 警方仍然对找到活着的她持乐观态度。
+a hopeful smile 一个充满希望的微笑 
+The latest trade figures are a hopeful sign. 最新贸易数字令人鼓舞。
+The future did not seem very hopeful. 前景似乎不太乐观。
+
+n. [C]（所发生的）事件，尤指特殊或重大的事件:
+n. [C]（有计划、有组织的）公共活动、社会活动或社交场合（如体育赛事）:
+n. [C]（体育运动的）体育赛事；比赛项目:
+event |[ɪ'vent]
+A new inquiry into the event was opened last week. 对该事件的新一轮调查已于上周启动。
+catastrophic, tragic event 灾变性事件；悲剧事件 
+Outside big cities, murder is a rare event. 大城市以外地区很少发生凶杀案。
+in-depth articles related to current events 对时事进行深入分析的文章 
+historical, political event 历史事件；政治事件 
+Carter related the events of the past hour to him. 卡特对他讲述了过去一小时发生的事。
+Today is the hospital’s fiftieth anniversary, and there will be a party to mark the event. 今天是医院建院五十周年，将会举行晚会来庆祝。
+popular, inaugural event 群众活动；就职仪式 
+charity, fund-raising, musical, social, gala, sporting, community event 慈善活动；筹款活动；音乐盛事；社交活动；欢庆活动；体育赛事；社区活动 
+annual, black-tie event 一年一度的活动；要求正装出席的活动 
+We had a huge party, and hired a photographer to record the event. 我们举办了一场大型晚会并请了摄影师录制。
+international event 国际赛事 
+individual, team event 个人比赛项目；团体比赛项目 
+women’s event 女子比赛项目 
+field, track event 田赛；径赛 
+distance, sprint event 长距离赛事；短距离赛事 
+freestyle event 自由泳比赛 
+Olympic event 奥林匹克赛事 
+two-day event 为期两天的比赛
+
+vi. [正式] ache for sb/sth 对…有强烈的愿望，即渴望:
+vi. 心里难受:
+n. [C] 内心的痛苦。有一种沉闷感:
+vi. 感到一种持续性的钝痛，即疼痛，隐痛:
+n. [C] 常构成复合词，指身体部位的持续性疼痛:
+ache |[eɪk]
+I’m aching for home. 我现在很想回家。
+I’m aching to see her. 我渴望见到她。
+It makes my heart ache to hear the news.（比喻用法）听到这个消息，我心里真难过。
+an deep ache in my heart 我心中深切的痛 
+the ache of loneliness inside him 他内心的孤苦
+I still really ache from all that running yesterday. 昨天跑了那么久的步，我到现在还浑身疼痛。
+My left foot ached a little. 我的左脚有点疼。
+constant, dull, throbbing ache 持续不断的痛；隐痛；抽痛 
+stomach, tummy ache 胃痛；肚子痛 
+He was always complaining about his various aches and pains. 他老抱怨自己身上这疼那疼的。
+muscular aches and pains 肌肉疼痛 
+a nagging ache in her knee 她膝盖那无法摆脱的疼痛 
+to ease the ache in the back 缓解背部疼痛

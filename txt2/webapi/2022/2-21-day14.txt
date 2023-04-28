@@ -1,0 +1,673 @@
+structure						结构，条理性，建筑物，安排
+architect						设计师
+frame							构架，身躯，画面，衬着
+amaze							使大为惊奇
+affirmation						肯定
+intelligent						有才智的
+code							密码，规范
+burden						重负，要旨，烦扰
+absorb						吸收，掌握，吸引，吞并
+instruction						教导，命令，说明
+admission						准许进入，承认
+additional						额外的
+prejudice						偏见，侵害
+process						过程，加工，处理
+elegant						优雅的，简明的
+hospitable						友好的，适宜的
+refreshing						提神的
+ensure						保证
+frighten						使...惊恐
+civilized						文明的，有礼貌的
+approval						赞同，批准
+publicize						宣传
+resident						居民，常住的
+considerate						体贴的
+twist							转动，缠绕，弯曲，打结，转折
+citizen						公民
+stake							桩，赌注，股，奖金
+keenly						渴望的，敏锐的，激烈的
+superficial						外表的，粗略的，肤浅的
+flexibility						柔韧性，灵活性
+\\\\\\\\
+
+n. 1 [U, C] 某事物的结构、构造:
+2 [C] 由各部分组成的一个结构体，尤指建筑物:
+3 [U, C]（对各部分）精心组织、周密安排:
+vt. ~ sth (around sth) 使形成体系；系统安排；精心组织:
+vt. ~ sth (around sth) 使形成体系；系统安排；精心组织:
+n. [U, C]（对各部分）精心组织、周密安排:
+vt. ~ sth (around sth) 精心组织:
+n. [C] 由各部分组成的一个建筑物:
+n. [U, C] 语言学中的结构:
+structure |[ˈstrʌktʃə(r)]
+The building is very simple in structure. 该建筑物结构非常简单。
+concrete, steel, wooden structure 混凝土结构；钢结构；木质结构 
+The flimsy structure of the vehicle could not withstand even mild impacts. 这辆车结构粗劣，连轻微的碰撞也经受不起。
+internal structure 内部结构 
+underlying structure 底层结构 
+logical structure 符合逻辑的结构 
+The overall structure of the book is divided into three components. 这本书的总体结构分为三部分。
+solid, three-dimensional structure 立体结构；三维结构 
+anatomical, body, bone, skeletal/skeleton structure 解剖结构；人体结构；骨骼结构 
+atomic, cell/cellular, chemical, molecular structure 原子结构；细胞结构；化学结构；分子结构 
+The cells are stacked up to form a honeycomb structure. 细胞堆叠形成蜂窝状结构。
+The cell walls of plants are of a fairly rigid structure. 植物的细胞壁构造坚实。
+grammatical, language, linguistic, sentence, syntactic structure 语法结构；语言结构；句子结构；句法结构 
+administrative, bureaucratic, committee, control, corporate, hierarchical, institutional, management, organizational, power structure 行政架构；官僚体系；委员会架构；控制体系；公司架构；等级体系；机构体系；管理结构；组织结构；权力结构 
+There are weaknesses in the structure of the organization. 该组织结构上有一些缺陷。
+economic, financial, political structure 经济结构；金融结构；政治结构 
+the social structure of the village 该村的社会结构 
+democratic, federal structure 民主架构；联邦架构 
+class structure 阶级结构 
+family, household structure 家庭结构 
+pay, salary, wage, price, tax structure 工资结构；价格结构；税收结构 
+The job lacked a basic career structure. 这一工作缺乏基本的职业发展体系。
+stone, brick, wooden structure 石结构建筑物；砖结构建筑物；木结构建筑物 
+The house was a handsome four-story brick structure. 这所房子是一幢造型美观的四层砖砌建筑物。
+About half of those funds has gone to repair public roads, structures and bridges. 那些基金中大约有一半已被用来维修公路、公共建筑物和桥梁。
+The feet are highly specialised structures made up of 26 small delicate bones. 脚的结构非常特殊，由 26 块细小的骨头组成。
+Your essay needs (a) structure. 你这篇文章组织不好。
+a very loosely structured organization 结构相当松散的组织 
+The company is structured into two divisions. 该公司由两个部门组成。
+The organization is structured according to business principles. 该机构是按照商业原则组织起来的。
+The nation was structured as a federation of states. 整个国家形成了州联邦的体系。
+a complex but highly structured complaints procedure 一个复杂但高度结构化的投诉程序 
+By structuring the course this way, we're forced to produce something the companies think is valuable. 这样制定发展规划后，我们不得不生产各公司认为有价值的东西。
+The exhibition is structured around the themes of work and leisure. 展览是围绕工作与休闲的主题来布置的。
+Make use of the toys in structured group activities. 在精心安排的分组活动中可以使用这些玩具。
+How well does the teacher structure the lessons? 老师对课程组织安排得如何？
+The teaching is structured around three topics. 教学围绕三个话题组织展开。
+She had structured her arguments very carefully. 她的论据组织得很周密。
+a tightly structured drama 编排紧凑的剧本 
+Relations between women and men are structured by gender. 男女之间的关系是建立在性别差异基础上的。
+Make use of the toys in structured group activities. 在精心安排的分组活动中可以使用这些玩具。
+How well does the teacher structure the lessons? 老师对课程组织安排得如何？
+The teaching is structured around three topics. 教学围绕三个话题组织展开。
+a tightly structured drama 编排紧凑的剧本
+Your essay needs (a) structure. 你这篇文章组织不好。
+The exhibition is structured around the themes of work and leisure. 展览是围绕工作与休闲的主题来布置的。        
+stone, brick, wooden structure 石结构建筑物；砖结构建筑物；木结构建筑物 
+The house was a handsome four-story brick structure. 这所房子是一幢造型美观的四层砖砌建筑物。
+About half of those funds has gone to repair public roads, structures and bridges. 那些基金中大约有一半已被用来维修公路、公共建筑物和桥梁。
+grammatical, language, linguistic, sentence, syntactic structure 语法结构；语言结构；句子结构；句法结构
+
+n. [C]（思想、事件、形势的）设计者，缔造者，创造者:
+n. [C] 一个以设计建筑为职业的人，即建筑师:
+architect |['ɑːkɪtekt]
+He was one of the principal architects of the revolution. 他是那次革命的主要发动者之一。
+Jones was the architect of the team’s first goal. 琼斯是球队入第一球的进攻发起者。
+the principal architect of the constitution 宪法的主设计师
+landscape, naval, residential（美）architect 景观设计师；军舰设计师；住宅设计师 
+The house was designed by architect Louis Kahn. 这所房子是由建筑师路易斯·卡恩设计的。
+
+vt. [常用被动式] ~ sb (for sth) 作伪证陷害（清白的人）:
+n. 1 [C]（图画、门、玻璃等的）框架:
+2 [C]（家具、建筑物、车辆等的）起支撑作用的框架:
+3 [C, usually pl.] 眼镜框:
+4 [sing.]（构成某事物背景的）总的思想或结构框架:
+5 [C] [计算机] 网页上的图文框（即可以用滚轴滚动着浏览的一个单独页面）:
+vt. [正式] 拟定，制定（计划或制度）:
+n. [C, usually sing.] 人或动物骨架，尤指体型、身材:
+n. [C]（电影的）帧、一幅画面:
+vt.（以某种方式）表达:
+vt. [常用被动式] 给…做框；给…镶边:
+n. [C]（斯诺克、保龄球等运动中的）一轮、一回、一局:
+n. [C] 花园中的冷床，阳畦（保护育种或幼苗抗寒的床框）。相当于cold frame:
+n. [C]（连环漫画中的）一幅画:
+frame |[freɪm]
+He claimed that he had been framed by the police. 他声称自己被警察设计陷害了。
+I need to find out who tried to frame me. 我得找出是谁企图诬陷我。
+door, window frame 门框；窗框 
+photo, photograph, picture frame 相框；画框 
+metal, steel, wire, wood, wooden frame 金属框；钢框；金属丝框；木框 
+pictures in gold frames 镶金色框的画 
+Estelle kept a photograph of her mother in a silver frame on the kitchen mantelpiece. 埃丝特尔把母亲的一张镶银框的照片挂在厨房壁炉台上。
+aluminium window frames 铝窗框 
+With difficulty he released the mattress from the metal frame, and groped beneath it. 他费了很大力气才把床垫从金属架上移开，然后在下面摸索。
+He supplied housebuilders with modern timber frames. 他给房屋建筑商提供了现代的木构架。
+He lives in a white-painted frame house behind a picket fence up in Connecticut. 他住在康涅狄格州北部一个漆成白色的木制房子里，屋子前面竖着尖桩篱栅。
+the frame of an aircraft, the frame of a car, the frame of a bicycle 
+gold-rimmed frames 金边眼镜框 
+He was wearing new spectacles with gold wire frames. 他戴了一副新的金边眼镜。
+In this course we hope to look at literature in the frame of its social and historical context. 在本课程中，我们希望从社会和历史背景的整体结构来看文学。
+After the war, a convention was set up to frame a constitution. 战后，为制定宪法组织了一次会议。
+athletic, big, bony, lanky, large, lean, muscular, petite, powerful, skinny, slender, slight, small, tall, thin, wiry frame 强健的身材；硕大的身材；瘦削的身材；瘦长的身材；高大的身材；精瘦的身材；肌肉发达的身材；娇小的身材；强健的身材；干瘦的身材；苗条的身材；纤细的身材；瘦小的身材；高挑的身材；瘦弱的身材；精瘦结实的身材 
+She has a small frame. 她身材瘦小。
+man with a lean, athletic frame 身材瘦削健美的男子 
+Their belts are pulled tight against their bony frames. 他们的腰带紧紧裹着瘦骨嶙峋的身体。
+Standard 8mm projects at 16 frames per second. 标准的8毫米的胶片每秒放映16组镜头。
+You'll have to be careful how you frame the question. 如何提出这个问题，你得慎重。
+The story is framed in a format that is part thriller, part love story. 情节的展开模式既像惊险小说，又像爱情故事。
+He framed this question three different ways in search of an answer. 为了寻求答案，他以三种不同方式提出了这个问题。
+The picture is now ready to be mounted and framed. 这幅画现在可以装裱加框了。
+On the wall is a large framed photograph. 墙上挂着一张大幅的镶框照片。
+Her blonde hair framed her face. 她的金发衬着面庞。
+He stood there, head back, framed against the blue sky. 他站在那里，头向后仰，衬托在蓝天下。
+The swimming pool is framed by tropical gardens. 泳池周围都是栽种热带花卉的花园。
+An elegant occasional table is framed in the window. 一张雅致的供重大活动使用的餐桌被摆放在橱窗里。
+
+vt. 使某人非常惊讶:
+amaze |[ə'meɪz]
+His skill as a dancer really amazed me. 他的舞技真让我大吃一惊。
+It amazed her that he could be so calm at such a time. 在这个时候他还能如此冷静，真让她感到惊讶。
+
+the action or process of affirming something:肯定某事的动作或过程
+a formal declaration by a person who declines to take an oath.:拒绝宣誓的人的正式声明。
+emotional support or encouragement:情感支持或鼓励
+affirmation |ˌafəˈmeɪʃn| Noun/:肯定,确认
+he nodded in affirmation:他点头肯定
+the lack of one or both parents' affirmation leaves some children emotionally crippled:缺乏父母一方或双方的肯定会使一些孩子情绪低落
+
+having or showing intelligence, especially of a high level:具有或表现出智力，尤其是高水平的
+(of a device or building) able to vary its state or action in response to varying situations and past experience.:（设备或建筑物的）能够根据不同的情况和过去的经验改变其状态或动作。
+(of a computer terminal) incorporating a microprocessor and having its own processing capability.:（计算机终端的）包含微处理器并具有自己的处理能力。
+intelligent |ɪnˈtɛlɪdʒ(ə)nt| Adjective/:,智能
+Anna is intelligent and hard-working:Anna聪明勤奋
+
+n. [C, U]（常构成复合词）密码:
+vt. 把信息译成密码:
+n. 1 [C] 有某种含义的一个信号体系:
+2 [C] 邮政编码；电话的区号:
+vt. 为…编码（以进行分类）:
+n. [C] 为社会或群体所接纳的道德准则或行为规范:
+There is an unwritten code that says 'Do not date your best friend's ex'. 有一条不成文的准则:
+vt. [计算机] 编程序、编码:
+n. [U] [计算机] 编码:
+n. [C] 国家或大型机构的法典；法规:
+code |[kəʊd;美koʊd]
+to break/crack a code 破译密码 
+It's written in code. 那是用密码写的。
+Tap your code number into the machine. 把你的密码数字输入机器。
+They used elaborate secret codes, as when the names of trees stood for letters. 他们使用了复杂的暗号，比如用树的名称代表字母。
+secret code 密码 
+Morse code 摩斯密码 
+code word, code name, code phrase（情报人员、任务或工程项目的）代号 
+All the messages were in code. 所有信息都用了密码。
+bar, charge（英）code 条形码；价格码 
+security code 安全码 
+DNA, genetic code 脱氧核糖核酸编码；基因码 
+It will need different microchips to reconvert the digital code back into normal TV signals. 把数字信号重新转换回通常的电视信号需要另外的微芯片。
+If you can't remember your number, write it in code in a diary. 如果记不住自己的号码，可以用代码记在日记簿里。
+post code（通常用postcode）（英）邮编 
+postal code（英）邮编 
+zip code（美）邮编 
+area（尤美）, dialling（英）code 电话的区号
+Each order is coded separately. 每份订单都单独编号。
+The machines were coded so we could tell them apart. 机器都编了号，便于我们区分。
+He devised a way of coding every statement uniquely. 他设计了一种把每句话进行独特编码的方法。
+ethical, moral, professional code 道德规范；职业规范 
+dress code 着装规定 
+a code of behaviour/conduct 行为守则 
+a code of ethics 道德规范 
+a code of honour 礼仪准则 
+The profession has a strict code of practice. 该职业有一套严格的行业守则。
+binary code (= a system of computer programming instructions) 二进制编码 
+executable, HTML, source code 可执行文件代码；超文本标记语言代码；源代码 
+malicious code 恶意代码 
+error code（计算机上的）错误代码 
+code generator 编码发生器；编码生成程序              
+civil, criminal, disciplinary, penal, tax code 民法典；刑法典；纪律规章；税则 
+the Highway Code (= the official rules for users of public roads in Britain)（英国）《公路法规》
+Article 159 of the Turkish Penal Code.《土耳其刑法法典》第159条 
+local building codes 地方建筑法规
+
+a burden (on/to sb)（困难、艰巨、沉重、惹人忧虑的）职责、责任等，可称为重担或负担:
+vt. burden sb/yourself (with sth) 使某人担负起沉重艰巨的职责、责任等:
+n. [C] [正式] 难以携带的重担，即重负:
+vt. be burdened with sth可表示携带着重物:
+burden |['bə:dn]
+debt, economic, emotional burden 债务负担；经济负担；感情负担 
+to shoulder the burden of childcare 担负起照顾孩子的重担 
+He was beginning to feel a burden to his family. 他开始觉得自己对家人是个累赘。
+She carried a huge burden of guilt for what she had done. 她对自己的所作所为深感内疚。
+the burden of proof（法律用语）举证责任
+They have burdened themselves with a high mortgage. 他们负担了一笔很高的按揭借款。
+I don’t want to burden you with my worries. 我不想让你为我的烦恼操心。
+The women carried their burdens on their backs. 那些女人背负重物。
+to pick up burden 拿起重物 
+beast of burden 役畜 
+She burdened with two heavy suitcases. 她提着两只沉重的手提箱。
+
+vt. 使专注于…，使全神贯注:
+vt. 常用被动式，使（小事物）并入到（大事物）:
+vt. 用尽大量时间，即耗费，消耗:
+vt. 应对、承担、承受（变化、结果、费用等）:
+vt. 用尽大量某事物（尤指金钱或时间），即耗费，消耗:
+vt. 1 吸收（液体、气体或其他物质）:
+2 吸收（光、热、能量等）:
+3 减轻（打击、碰撞等的）作用，使缓冲:
+vt. 吸收或消化、理解（信息）:
+vt.（身体）吸收（液体、气体或其他物质）:
+vt. 用尽大量金钱，即耗费，消耗。其主语是消耗钱的东西，而不是花钱者（这点与cost类似）:
+absorb |[əb'zɔ:b;-sɔ:b][əb'zɔ:b;-sɔ:b]
+His work absorbed him completely. 他的工作让他全心投入。
+to absorb the influx of refugees 接纳涌入的难民 
+This town has been absorbed into the city. 这个镇子已被并入了城市。
+These committees were absorbed into the local government machine. 这些委员会被并入到当地的政府机构中。
+to absorb large losses 承受巨大损失
+It absorbed vast amounts of capital. 它消耗掉了大量资本。
+to absorb carbon dioxide 吸收二氧化碳 
+to absorb moisture 吸收水分 
+Nutrients are absorbed into the bloodstream. 营养成分被吸收进血液中。
+to absorb energy 吸收能量 
+to absorb heat 吸收热量 
+absorb the impact of the foot striking the ground 缓冲脚踏在地面上所产生的冲击力
+to absorb the information 吸收信息
+to be easily absorbed into the skin 易被皮肤吸收 
+Nutrients are absorbed into the bloodstream. 营养成分被吸收进血液中。
+It aborbed vast amounts of capital. 它消耗掉了大量资本。
+
+n. [pl.] instructions (on how to do sth) 操作指南，或用法说明，相当于directions:
+adj. 只作前置定语，说明操作方法或使用方法的:
+n. [C] 计算机的指令。它可以是一个编码，也可以是一串数据序列。其作用在于定义并执行一项操作或任务。其直接发出者一般为计算机本身:
+instruction (that ...) 指示，命令，吩咐，相当于order:
+n. [U] [正式] instruction (in sth) 传授，教授，指导:
+instruction |[ɪn'strʌkʃn]
+This material gives instructions for using the machine. 这份材料给出了机器的使用说明。
+verbal, written instructions 口头说明；书面说明 
+packet instructions（英）包装上的说明 
+technical instructions 技术说明 
+safety instructions 安全操作指南 
+cooking, operating, washing instructions 烹饪说明；操作指南；洗涤说明 
+installation instructions 安装指南 
+the instructions on medicines 药品上的说明 
+He gave her detailed instructions on the procedure to be followed. 他把要进行的步骤向她做了详细的说明。
+instruction book, instruction booklet, instruction manual 说明书；说明手册；操作手册
+a set of instructions 一套指令 
+CPUs are designed to process instructions in a predictable order. 中央处理器按预定顺序处理各种指令。
+instruction set 指令集
+I have strict instructions not to let anyone else in. 我接到严格的命令，不准任何其他人进入。
+written instruction 书面指示 
+She is acting under direct instructions from the president. 她直接听候总裁调遣。
+We acted according to the instructions we received. 我们奉命行事。
+The director sat in his chair barking instructions at the cast. 导演坐在椅子里对着演员大声发出指令。
+the referee’s instructions 裁判的指令 
+trainer’s instructions 教练的指令
+to give instruction in safety 给予安全指导 
+formal instruction in music 正式的音乐指导 
+individualized instruction 个性化指导 
+practical, professional, technical instruction 实践指导；专业指导；技术指导 
+classroom instruction 课堂教学 
+moral, religious instruction 道德教导；教义传授 
+language instruction 语言教学 
+reading instruction 阅读指导
+under instruction（尤英）在指导下 
+medium of instruction 教学语言 
+The information is for the instruction of passengers. 这些信息旨在为乘客提供指导。
+
+n. [U, C] admission (to sth) 接受某人进入某个机构、组织等:
+admission (that ...)（对坏事，令人不快的事或令人尴尬的事的）承认，尤指对过错或罪行的承认:
+n. [U, C] admission (to sth) 进入一个地方或加入一个机构、组织等的权利:
+n. [U] 进入某地或参加某项活动等所需支付的费用，即入场费，门票费等。词义为fee所涵盖，但fee此时是可数名词:
+n. [U, C] admission (to sth) 接受某人入学，如录取、招生:
+admission |[əd'mɪʃn]
+to gain admission to the organization 获准加入该组织 
+the university admission office 大学招生办公室 
+admission criteria 录取标准
+an admission of failure, an admission of guilt, an admission of liability 承认失败；承认有罪；承认有责任 
+It’s an admission that he has done that. 这等于承认是他干了那件事。
+tacit admission 默认 
+grudging admission 勉强承认
+admission to the UN 加入联合国 
+He’s applied for admission to the local college. 他已向当地的大学申请入学。
+hospital admission for heart disease 因心脏病而入院 
+emergency admissions to hospital 紧急入院 
+Admission to the park begins at 8:30. 8:30开始入园。
+free, half-price admission 免费入场；半价入场 
+cinema（英）, theatre/theater admission 进电影院；进剧院
+$10 admission 入场费10美元 
+admission charge, admission fee, admission price 入场费；入场价 
+What’s the admission? 门票多少钱？
+The admission is free. 门票免费
+to gain admission to one of the best schools 被最好的一所学校录取 
+the university admission office 大学招生办公室
+
+added, extra, or supplementary to what is already present or available:已存在或可用的内容的添加、额外或补充
+additional |əˈdɪʃən(ə)l| Adjective/:额外的,额外,附加
+we require additional information:我们需要更多信息
+
+n. [U, C] prejudice (against sb/sth) 对一个人、一个群体、一种习俗等所怀有的一种偏爱:
+vt. prejudice sb (against sb/sth) 影响某人以使其对某人或某事物产生偏爱，相当于bias:
+n. [U, C] prejudice (against sb/sth) 对一个人、一个群体、一种习俗等所怀有的一种不好的偏见（是一种非理性的讨厌的态度），尤指基于该人、该群体、该习俗等的种族、宗教、性别等所形成的偏见:
+vt. prejudice sb (against sb/sth) 影响某人以使其对某人或某事物产生偏见，相当于bias:
+vt. [正式] 对某事物产生损害，即有损于某事物。常为法律用语，此时有“削弱；使欠公平”之义:
+prejudice |['predӡudɪs]
+I must admit to a prejudice in favour of British universities. 我得承认我对英国大学有所偏爱。
+Newspaper reports had unfairly prejudiced the jury in her favour/favor. 看了报纸的报道后，陪审团的天平不公平地向她倾斜了。
+class, racial, sexist, social prejudice 阶级偏见；种族偏见；性别偏见；社会偏见 
+prejudice towards immigrants 对移民的成见 
+Their decision was based on ignorance and prejudice. 他们的决定是由于无知和偏见。
+The prosecution lawyers have been trying to prejudice the jury against her. 控方律师一直力图使陪审团对她形成偏见。
+Any delay will prejudice the child’s welfare. 任何延误都会损及这个孩子的身心健康。
+This could seriously prejudice her safety. 这可能对她的安全很不利。
+She did not disclose evidence that was likely to prejudice her client’s case. 她没有公开很可能对其委托人案件不利的证据。
+
+vt. 正式处理一份文件、一个请求、事情等:
+vt. 将原材料、事物等进行加工或处理（以将其改变或保存等）（而并不专门表示“制造”一个东西，因为制造通常包括多个环节，如加工、组装等。而process通常只是其中某个或某些环节所采取的手段。如将原材料process成可供下一步使用的成品材料）:
+n. [C] 做某事（或制作某东西）的一种方法（尤指工业中采用的方法），如做事方法，工艺流程，工序等:
+n. 1 [C] 为达到某一结果而做的一系列事情，即过程。是一个常规用词，极为常用:
+2 [C] 发生的一系列事情（尤指导致自然变化的一系列事情），如过程:
+vt. 在计算机中对数据进行处理:
+process |['prəʊses]
+It will take a week for your application to be processed. 审核你的申请需要一周时间。
+It was a second later when I fully processed what he had said. 一秒钟之后我就完全明白了他的话是什么意思。
+My brain slowly processed the fact that I was free to leave. 我慢慢才反应过来我可以自由地离开。
+highly processed food 深加工食品 
+The berries are processed into juice or sauce. 浆果被加工成果汁或果酱。
+I sent three rolls of film away to be processed. 我送了三个胶卷去冲印。
+sewage processing plant 污水处理厂 
+The plant is then processed for dye. 然后对这种植物进行加工以获取染料。
+industrial, manufacturing, production process 工业生产流程；制造过程；生产工序 
+decision-making, planning process 决策过程；筹划过程 
+voting process 表决过程 
+registration process 登记程序 
+cognitive, learning, mental, thought, thinking process 认知过程；学习过程；心理过程；思维过程 
+selection, testing process 选拔过程；测试过程 
+review process 审核过程 
+judicial, legal process 司法程序；法律程序 
+approval process 批准过程 
+democratic, political, peace, historical process 民主进程；政治进程；和平进程；历史进程 
+We’re in the process of selling our house. 我们正在出售自家的住宅。
+chemical process 化学过程 
+ageing/aging, developmental, evolutionary, healing process 衰老过程；发育过程；进化过程；愈合过程
+This information is processed by the computer. 此信息是由计算机处理的。
+
+adj. 1（人或其行为、举止）有一种美好的风格和魅力的，即优美的，文雅的，相当于stylish:
+2（衣服、地方、事物）有吸引力且设计精良的，如雅致的，讲究的，精美的:
+adj.（计划或想法）聪明但简洁的，简要的，简练的。具有一定的褒义:
+elegant |['elɪgənt]
+She was tall and elegant. 她身材修长，优雅大方。
+his elegant wife 他优雅的妻子 
+elegant dress 高雅的连衣裙 
+elegant room, elegant restaurant 雅致的房间；雅致的餐厅 
+the beautifully elegant spire of the church 教堂那座漂亮雅致的尖塔 
+an elegant solution to the problem 解决这个问题的简要方法
+
+friendly and welcoming to visitors or guests:友好和欢迎访客或客人
+(of an environment) pleasant and favourable for living in:（环境的）宜人的，有利于居住的
+hospitable |hɒˈspɪtəbl| Adjective/:好客,好客的,热情好客
+two friendly, hospitable brothers run the hotel:两个友好、好客的兄弟经营酒店
+one of the least hospitable places in North America:北美最不友好的地方之一
+
+adj.（沐浴或饮料）使人减轻疲劳的的:
+adj.（沐浴或饮料）使人凉爽的:
+adj.（好的事物）令人耳目一新的；别具一格的:
+refreshing |[rɪˈfreʃɪŋ]
+The water was cold and wonderfully refreshing. 水很凉，特别解乏提神。
+refreshing drink 提神的饮料 
+Herbs have been used for centuries to make refreshing drinks. 草药用于调制提神饮品已有好几个世纪了。
+refreshing shower 凉爽的淋浴
+It's refreshing to hear somebody speaking common sense. 听到有人说话通情达理真是令人耳目一新。
+It made a refreshing change to see a good old-fashioned movie. 换换口味，看一部经典的老式电影会让人觉得耳目一新。
+It made a refreshing change to be taken seriously for once. 总算有一次受到认真对待，这变化真是令人耳目一新。
+
+vt. 确保某事发生:
+ensure |[ɪnˈʃʊə(r);-ˈʃɔ:(r);美ɪnˈʃʊr]
+The book ensured his success. 这本书保证了他的成功。
+Please ensure (that) all lights are switched off. 请务必将所有灯都关掉。
+Britain's negotiators had ensured that the treaty which resulted was a significant change in direction. 英国谈判代表已经确保由此而签订的条约将是方向上的重大改变。
+Ensure that it is written into your contract. 确保把这一点写入合同中。
+The system not only ensures maximum discounts, but also helps the company track usage. 这一制度不仅保证产品最大限度的优惠，而且能帮助公司追踪产品的使用。
+The alternative simply ensures that the problem will get worse. 另一种方案只会使问题变得更糟。
+We must take steps now to ensure the survival of these animals. 我们现在必须采取措施确保这些动物能生存下去。
+provisions designed to ensure safe conditions of work 旨在确保工作环境安全的规定 
+It is important to ensure that delegates have been properly briefed. 重要的是要确保代表们事先了解基本情况。
+The therapist must treat the cause of the problem, thereby ensuring the symptoms do not return. 治疗专家必须从病根上着手治疗，以确保此类症状不会复发。          
+
+vt.＆vi. 使某人突然感到害怕，如吓唬:
+frighten |['fraɪtn]
+She’s not easily frightened. 她不是轻易能吓倒的。
+The prospect of war really frightens me. 战争的即将到来真的把我吓坏了。
+Don’t creep around like that! You frightened me to death! 不要这样蹑手蹑脚地到处走！你吓死我了！
+I didn’t mean to frighten you. 我不是故意想吓你的。
+
+at an advanced stage of social and cultural development:处于社会和文化发展的高级阶段
+polite and well-mannered:彬彬有礼
+civilized |ˈsɪvəlʌɪzd| Adjective/:文明的,文明
+a civilized society:文明社会
+I went to talk to them and we had a very civilized conversation:我去和他们交谈，我们进行了非常文明的交谈
+
+n. [U] 认为某人或某事物是好的、可接受的或合适的；对某人或某事物所持有的一种积极态度。即赞成:
+n. [U, C] approval (for sth) (from sb) 对某事物（尤指一项计划或请求）的批准或许可:
+n. [U] on approval 可表示（商品买卖中的）一段时间的免费试用（直到你最终决定买或不买）:
+approval |[ə'pru:vl]
+to win sb’s approval 赢得某人的赞同 
+Do the plans meet with your approval? 这些计划你赞成吗？
+Several people nodded in approval. 好几个人点头表示同意。
+The latest poll has him at 47% approval and 49% disapproval. 最新的民意调查显示他获得47%的赞成票，49%的反对票。
+The plan will be submitted to the committee for official approval. 该计划将提交委员会正式批准。
+The proposal is subject to approval by the shareholders. 这项建议须得到股东的批准。
+All development requires the prior approval of the planning authority. 所有的开发都必须事先得到规划当局的批准。
+tacit approval 默许 
+written approval 书面批准 
+regulatory approval 监管机构的许可 
+court, government, presidential approval 法庭的批准；政府的批准；总统的批准 
+voter approval 选民的同意 
+parental approval 父母的同意 
+drug approval 药物审批
+
+vt. 报道:
+vt. 宣传；推广:
+publicize |[ˈpʌblɪsaɪz]
+They flew to Europe to publicize the plight of the refugees. 他们飞往欧洲报道难民的惨状。
+a widely publicized speech (= that has received a lot of attention on television, in newspapers, etc.) 一篇受到广泛报道的讲话
+The author appeared on television to publicize her latest book. 那位作家上电视宣传她的新书。
+He was in London publicizing his new biography of Kennedy. 他在伦敦推销他新出版的肯尼迪传。
+He never publicized his plans. 他从未宣传过他的计划。
+her highly publicized affair with a leading politician 她与一位政界头面人物广为人知的风流韵事
+
+adj.（大机构的专家）特聘的:
+n. [C] 旅馆的住宿者:
+adj. 1 在某地居住的:
+2（医生或教师）住在任职地的:
+n. [C] 美国的高级专科住院实习医生:
+adj.（医生）住在任职地的:
+n. [C] 某地的一个居民、住户:
+resident |[ˈrezɪdənt]
+Having begun her career at Gray's Pottery, she stayed there as resident designer for seven years. 在格雷陶器场开始自己的职业生涯后，她在那里做了七年的特聘设计师。
+Tom's our resident expert (= our own expert) on foreign movies. 汤姆是我们自己的外国电影专家。
+The hotel restaurant is open to non-residents. 旅店的餐馆对外开放。
+the town's resident population (= not tourists or visitors) 镇上的居民 
+to be resident abroad, to be resident in the US 常驻国外；常驻美国 
+He moved to Belgium in 1990 to live with his son, who had been resident in Brussels since 1967. 他于1990年搬到比利时和儿子一起住。他儿子自1967年起就住在布鲁塞尔。
+The morning after your arrival, you meet with the resident physician for a private consultation. 到达后的第二天早上，你就去见住院医生，进行私人问诊。
+The morning after your arrival, you meet with the resident physician for a private consultation. 到达后的第二天早上，你就去见住院医生，进行私人问诊。
+a resident of the United States 美国的居民 
+There were confrontations between local residents and the police. 当地居民和警察之间有过冲突。
+The Archbishop called upon the government to build more low cost homes for local residents. 大主教呼吁政府为当地居民建造更多低成本的住宅。
+More than 10 percent of Munich residents live below the poverty line. 超过10％的慕尼黑居民生活在贫困线以下。
+
+adj. 总是为其他人的愿望或感情着想的；小心谨慎以不去伤害或打扰、烦扰到其他人的。相当于thoughtful:
+considerate |[kən'sɪdərɪt]
+She is always considerate towards her employees. 她总能体谅她的雇员。
+It was very considerate of him to wait. 他一直在等候着，真是体贴人。
+
+vt.＆vi. 1 扭转或转动身体部位（其余部位保持不动）:
+2 快速且剧烈地转动或扭动身体，并经常改变方向:
+n. [C] 身体的扭动、转动等:
+vi. twist (round/around sth) 缠绕在某事物周围生长:
+vi.（江河等）弯曲且经常改变方向，如曲折、蜿蜒、盘旋:
+n. [C]（江河等的）急转弯处:
+vt. 故意曲解某人所说过的话；为得到好处或伤害别人而歪曲事实。相当于misrepresent:
+vt. 用手转动或旋转某事物:
+n. [C] 用手对某事物进行的转动、旋转:
+n. [C] 一个故事或情况的意外转折（或发展）:
+vt. 将某事物缠绕在一个物体上。与wind存在一定交集，不过twist还可表示一种“纠缠”的形式:
+vi. twist (round/around sth) 缠绕在某事物周围而移动或生长:
+vt. 1 把某事物弯曲或扭曲成某一形状。且twist更多情况下表示“扭曲”:
+2 twist sth (into sth) 把线等捻（或搓、绞）在一起，使其更长或更粗:
+vt.＆vi. 把某事物弯曲或扭曲到一个非正常或非自然的形状或位置:
+n. [C] 用手对某事物进行的转动、旋转、拧、捻、搓等:
+n. [C] 被扭成某一形状的东西:
+vt. 扭伤或崴伤身体部位（尤指脚踝、手腕或膝盖）:
+vi.（道路等）弯曲且经常改变方向，如曲折、蜿蜒、盘旋:
+n. [C]（道路等的）急转弯处:
+twist |[twɪst][twɪst][twɪst]
+She twisted slightly in her chair to look up at him. 她在椅子里略转过身抬头朝他望去。
+He twisted sideways to face her. 他侧扭过身体去面对着她。
+I twisted and turned to avoid being caught. 我左躲右闪免得被捉住。
+He managed to twist himself free. 他挣脱了出来。
+He managed to twist himself round in the restricted space. 他设法在有限的空间内转过身来。
+She fired again and saw the creature twist violently. 她又开了一枪，见那动物剧烈地扭动着躯体。
+He gave a shy smile and a little twist of his head. 他羞怯地笑了笑，略微扭了一下头。
+a wry twist to her lips 她揶揄地噘了噘嘴
+The road twists and turns. 这条路迂回曲折。
+the twists and turns of the river 这条河弯弯曲曲的地方
+You always twist everything I say. 你总是歪曲我说的每一句话。
+to twist the facts 歪曲事实
+Twist the knob to the left to open the door. 向左转动手柄把门打开。
+Nervously I twisted the ring on my finger. 我紧张地转动着手指上的戒指。
+He finished him off with a quick twist of the knife. 他迅速将刀一转结果了他的性命。
+The disappearance of a vital witness added a new twist to the case. 一名重要证人失踪，令诉讼出现了新的变数。
+a twist of fate 命运的转折 
+The movie has some unexpected twists. 这部电影里有一些意想不到的曲折变化。
+twist ending（尤美）峰回路转的结局 
+a twist in the plot 情节的转折 
+the twists and turns of his political career 他政治生涯的一波三折 
+the twists and turns in the economy 经济的风云变幻 
+classic French dishes with a twist 带有新花样的经典法式佳肴
+She twisted a scarf around her head. 她用一条围巾裹住了头。
+I twisted the bandage around his leg. 我把他的腿缠上绷带。
+Her black hair was twisted up into a knot on the top of her head. 她的黑发盘在头顶挽成一个发髻。
+The telephone cable has got twisted. 电话线缠绕在一起了。
+A snake was twisting around his arm. 一条蛇缠绕在他的手臂上。
+Twist the wire to form a circle. 把铁丝弯成一个环。
+They had twisted the sheets into a rope and escaped by climbing down it. 他们把床单绞成绳子，缘绳而下逃走了。
+Amanda nervously twisted her hair. 阿曼达紧张地捻着她的头发。
+Her face twisted in anger. 她气得脸都变形了。
+His mouth twisted bitterly. 他痛苦地歪着嘴。
+My stomach twisted into knots. 我的胃扭成了一团。
+She gave the lid another twist and it came off. 她又拧了一下，盖儿开了。
+He finished him off with a quick twist of the knife. 他迅速将刀一转结果了他的性命。
+mineral water with a twist of lemon 加了一片柠檬的矿泉水
+He twisted my arm behind my back. 他把我的胳膊扭到背后。
+She fell and twisted her ankle. 她摔了一下，把脚脖子崴了。
+narrow twisting streets 狭窄弯曲的街道 
+a twisting staircase 盘旋而上的楼梯 
+the twists and turns of the mountain road 山路的曲折蜿蜒 
+a sharp twist in the road 路上的急转弯
+
+n. [C] 某个城市或城镇的居民，市民。尤指在该地区享有某些政治权利（如选举权或被选举权）的人:
+n. [C] 某国的公民。指因出身或其他自然原因而被接纳为某国国民的一个人，是一种政治和法律概念。公民对国家负有效忠的义务，享有参与政治活动的权利，同时国家对公民有保护的义务:
+citizen |['sɪtɪzn]
+the citizens of Budapest 布达佩斯市民
+an Australian citizen 澳大利亚公民 
+full citizen 正式公民 
+the ordinary citizen 普通公民 
+second-class citizen 二等公民 
+fellow citizens 同胞 
+to visit France as a private citizen 以平民身份访问法国 
+law-abiding citizen 守法的公民
+
+n. [pl.] the…stakes 比赛、竞争:
+vt. 提出权利要求、主张权利:
+n. [sing.] at ~ 成败都有可能、处于成败关头、有风险、处于危险境地:
+n. [C] 冒的风险:
+vt. ~ sth (on sth)（就某事）以金钱或重要的东西来冒险:
+n. [pl.] stakes 赛马中获胜者得到的奖金:
+vt. ~ sth (up) 用桩支撑某事物:
+n. [C] 带尖的木桩或金属桩（一端埋在地下，用于支撑某事物，或作为某地的标记）:
+n. [U] stakes 用于某些赛马的名称，即…赛:
+n. [C] 某人在一家公司投的钱，即股本、股份:
+n. [sing.] the stake 指木质火刑柱（以前将人绑在上面烧死作为惩罚）:
+vt. ~ sth (on sth)（就某事）以金钱或重要的东西来打赌:
+n. [C] 在速度比赛、游戏等活动中下的赌注（尤指金钱）:
+n. [sing.] ~ in sth（在公司、计划等中的）重大利益，重大利害关系:
+stake |[steɪk]
+Britain lags behind in the European childcare stakes. 英国在儿童保育方面落后于欧洲其他国家。
+She was determined to win in the fashion stakes. 她决意要在时装比赛中获胜。
+Beckham was high in the popularity stakes. 贝克汉姆的受欢迎程度很高。
+Jane is determined to stake her claim as an actress. 简决心主张自己作为一名女演员的权利。
+Baguet's success staked his claim for a place in Belgium's world championship team. 巴古埃特的成功使他有资格成为比利时世界锦标赛参赛队伍中的一员。         
+We cannot afford to take risks when peoples' lives are at stake. 现在人命交关，不容我们有闪失。
+He will face the investigation with his reputation at stake. 他将面临调查，声名难保。
+The prize at stake is a place in the final. 这次如果获胜，便能进入决赛。
+The tension was naturally high for a game with so much at stake. 对于一场成败攸关的比赛来说气氛自然非常紧张。
+At stake is the success or failure of world trade talks. 世界贸易谈判正处于成败的重要关头。
+With so much at stake, we can't afford to make mistakes. 事关重大，我们绝对不能犯错误。
+By arresting the organisation's two top leaders the government and the army have now raised the stakes. 逮捕了该组织的两名主要头目后，政府和军队现在面临的风险更大了。
+emotional stake 情感堵住 
+The political stakes are high. 政治赌注很高。
+She staked her political career on tax reform, and lost. 她把自己的政治前程押在税制改革上，结果赌输了。
+He has staked his reputation on the outcome. 他将自己的名声赌在了这个结果上。
+That's him over there─I'd stake my life on it (= I am completely confident). 就是那边那个人——我敢拿脑袋打赌。
+to stake newly planted trees 用木桩支撑新植的树
+controlling, large, majority, significant, substantial stake 控制性股权；多数权益；多数股份；数额相当大的股本 
+minority, small stake 少数股权；少量股份 
+direct stake 直接股份 
+financial, equity, ownership（尤美）stake 财政权益；股权；所有权股份 
+IBM will take an 18% ownership stake in the new company. 国际商用机器公司将占用新公司18%的所有权股份。
+She acquired a 4% direct stake in the business. 她获得了这家公司4%的直接股份。           
+Joan of Arc was burnt at the stake. 圣女贞德被处以火刑。
+He staked £25 on the favourite (= for example, in horse racing). 他在那匹众人看好的马上押了25英镑。
+She staked her political career on tax reform, and lost. 她把自己的政治前程押在税制改革上，结果赌输了。
+He has staked his reputation on the outcome. 他将自己的名声赌在了这个结果上。
+That's him over there─I'd stake my life on it (= I am completely confident). 就是那边那个人——我敢拿脑袋打赌。
+How much was the stake (= how much did you bet)? 下了多少注？
+They were playing cards for high stakes (= a lot of money). 他们当时正在打扑克，赌注很高。
+They always play for high stakes. 他们总是下大赌注。
+The game was usually played for high stakes between two large groups. 游戏通常在两大集团之间进行，下的赌注一般都很大。
+emotional stake 情感堵住 
+The political stakes are high. 政治赌注很高。          
+She has a personal stake in the success of the play. 这出戏成功与否对她个人有重大利害关系。
+He has a personal stake in the outcome of the war. 战争的结果与他有切身的利害关系。
+Many young people no longer feel they have a stake in society. 很多年轻人不再觉得他们与社会休戚相关。
+He was eager to return to a more entrepreneurial role in which he had a big financial stake in his own efforts. 他渴望回到一个更多参与创业的角色，那样他所付出的努力会与自己的经济利益息息相关。
+Detectives now believe the Mafia also had a stake in the plot and killed him when it went wrong. 侦探们现在相信黑手党在这个阴谋中也有利害关系，并在事败后杀了他。
+
+in an eager or enthusiastic manner:以热切或热情的方式
+intensely:强烈
+cheaply; competitively:
+keenly |ˈkiːnli| Adverb/:,热切地
+one of this year's most keenly anticipated movies:今年最受期待的电影之一
+they are keenly aware of the problems of their community:他们敏锐地意识到他们社区的问题
+the car is keenly priced:这辆车的价格很贵
+
+adj. [贬]（感情、关系）浅薄的、缺乏深度的:
+adj. 1 表面上真实或重要的（实际上仔细观察后并非如此）:
+2（伤口或损坏）表层的、不严重的:
+3 [术语] 某事物的表层的、浅表的:
+adj. 1 [常贬] 研究或观察得不仔细、不彻底的，只看表面现象的，即粗略的、肤浅的:
+2 [贬]（人）肤浅的、对…缺乏深刻理解的:
+superficial |[ˌsu:pəˈfɪʃl;ˌsju:-;美ˌsu:pərˈf-]
+a superficial friendship 浅薄的交情 
+The guests engaged in superficial chatter. 客人闲聊起来。
+superficial differences, superficial similarities 表面的相异之处；表面的相似之处 
+Despite these superficial resemblances, this is a darker work than her earlier novels. 尽管表面上有一些相似之处，但这本著作实际要比她以前的小说悲观。
+The movie bears a fairly superficial resemblance to the original novel. 该影片只是表面上与原著相似。
+Spain may well look different but the changes are superficial. 西班牙可能看起来与以前有很大不同，但这些变化都是表面上的。
+When you first meet her, she gives a superficial impression of warmth and friendliness. 初次见面时，她总给人以热情亲切的表面印象。
+His roommate had been pleasant on a superficial level. 他的舍友只是表面上装和气。
+He began to feel he could cope, on a purely superficial level, at least. 他开始觉得自己能应付，至少单从表面上看可以。
+a superficial injury 皮外伤 
+superficial burns 表面烧伤 
+The 69-year-old clergyman escaped with superficial wounds. 69岁的牧师幸免于难，只受了点皮肉伤。
+The explosion caused superficial damage to the fortified house. 这次爆炸只对这所加固过的房屋造成了轻微破坏。
+superficial veins 浅静脉 
+superficial blood vessels in the forearm 前臂的表层血管 
+a superficial deposit of acidic soils 沉积在表层的酸性土壤
+a superficial analysis 粗略的分析 
+Their arguments do not withstand the most superficial scrutiny. 他们的论据经不起一点推敲。
+The book shows only a superficial understanding of the historical context. 这部书表现出对历史背景肤浅的理解。
+The tone of his book is consistently negative, occasionally arrogant, and often superficial. 他的书基调一贯是负面消极的，有时还有点儿傲慢自大，且常常流于肤浅。
+She's so superficial! 她太肤浅了！
+This guy is a superficial yuppie with no intellect whatsoever. 这个家伙是个肤浅的雅皮士，没有什么头脑。
+
+n. [U] 灵活（的安排）:
+n. [U] 柔软灵活性:
+flexibility |[ˌfleksəˈbɪləti]
+Computers offer a much greater degree of flexibility in the way work is organized. 利用计算机，工作安排可以灵活得多。
+German workers accept the need for greater flexibility in the face of global competition. 面对全球竞争，德国工人接受了要有更大弹性这一要求。
+financial flexibility 财务弹性 
+Management systems can be built that increase operational flexibility. 可以建立起能提高操作弹性的管理体制。
+labour/labor, market flexibility 劳动力弹性；市场弹性 
+The work involves a considerable degree of flexibility. 从事该工作需要很强的灵活性。
+You have considerable flexibility in this job and can choose how to do things. 你的这份工作有相当大的灵活性，可以自己选择做事方法。
+The new range of machines will bring flexibility to your business computing. 新型机器系列将使你们的商务计算机处理更加灵活。
+The courses are designed to allow maximum flexibility. 课程的设置具有最大的灵活性。
+an initiative to encourage greater flexibility in teaching and learning 鼓励加大教与学灵活性的举措 
+This will give schools greater flexibility in their use of resources. 这将使学校在资源利用上更加灵活。
+flexibility over the deadline 最后期限的弹性 
+There is a need for greater flexibility in the way the network is managed. 网络的管理方式需要更大的灵活性。
+exercises to develop the flexibility of dancers' bodies 增加跳舞者身体柔软度的训练动作 
+The treatment increased the flexibility of her muscles. 这项治疗提高了她肌肉的弹性。

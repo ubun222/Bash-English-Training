@@ -1,0 +1,746 @@
+exception						例外，异议
+sustainable						可持续性的
+trigger						板机
+intend						想要，计划，意指
+spread						展开，涂，覆盖，传播，范围
+estimate						估计，评价
+technique						方法，技术，技巧
+include						包括
+academic						学业的
+distinctive						特别的
+consist						组成
+bid							出价，争取，表达，命令
+benefit						益处，获益
+downsize						精简
+avoid							避免，避开
+gender						性别
+interracial						种族间的
+complaint						抱怨，抗议，疾病
+pattern						图案，榜样，模式，模仿，样品
+mood							心情，坏心情，气氛
+the indicative mood				陈述语气
+sympathy						同情，支持，意气相投
+discount						折扣，不予考虑，贴现
+value							价值，重要，值，重视
+moral values					道德观
+altitude						海拔，纬度
+groundsheet						防潮布
+evolutionary					进化的，演变的
+implement						工具，实施
+dominant						支配的，显眼的，首要的
+scope							范围，领域，机会
+suspect						推测，怀疑，嫌疑犯，不可信的
+\\\\\\\\
+
+n. 1 [C] 一般情况以外的人（或事物），即例外:
+2 [C] 不遵循某一规则的事物:
+exception |[ɪkˈsepʃn]
+Most of the buildings in the town are modern, but the church is an exception. 城里大多是现代建筑，不过教堂是个例外。
+With very few exceptions, private schools get the best exam results. 私立学校的考试成绩是最好的，很少有例外情况。
+Nobody had much money at the time and I was no exception. 那时候谁都没有很多钱，我也不例外。
+Most industries have suffered badly in the recession, but there have been a few notable exceptions. 在经济衰退期间大多数产业受到严重影响，但有几个明显的例外。
+My family grew closer over the years. The only exception was my aunt. 这些年来我的家人之间越来越亲近，唯一的例外是我姑姑。
+all American presidents, with the sole exception of Carter 除了卡特之外的所有美国总统 
+all of them--with the partial exception of Ireland 所有国家——爱尔兰部分地区除外 
+There are occasional exceptions to my generalization. 我的概括偶然也有例外。
+There was an interesting exception to this general pattern. 此通用模式有一个有意思的例外。
+There should be specific exceptions written into the plan. 那些特定的例外情况应该写到这个计划中去。
+We are making a special exception for Emma because of her condition. 因为艾玛的情况特殊，我们把她作为例外。
+With the possible exception of the US, no other nation experienced a more severe depression.可能除了美国之外，其他国家没有经历过更加严重的萧条。
+With a few honourable honorable exceptions, politicians kept quiet about the corruption.除了几位值得尊敬的政治家外，其他政界人士对腐败缄口不提。
+No parking is allowed, but an exception is made for disabled drivers. 此处禁止停车，但对残疾驾车者例外。
+The reform bill carves out several specific exceptions for treatment of health expenses.（carve out为美式用法）这项改革法案为医疗支出的处理开创了几个特定的先例。She asked the state Supreme Court to grant an exception. 她请求州最高法院准许将其作为一种例外。
+Such initiatives remain the exception, rather than the rule. 这些倡议依然是例外，而不是常规。
+The whole of the island was flooded with the exception of a small area in the north. 除了北部一小块地方以外，整个岛都被淹没了。
+Without exception, all employees must carry their identity card with them at all times. 所有雇员无一例外地任何时候都要带着身份证。
+Guide dogs are the one exception to the store's ban on dogs. 这家商店禁止带狗入内，但导盲犬除外。
+The weather had been rainy for days, and the day of the race was no exception. 天一直下雨，比赛那天也不例外。
+With a few exceptions, the songwriting is very good. 除个别地方外，这首歌写得很好。
+Good writing is unfortunately the exception rather than the rule (= it is unusual). 可惜优秀的文字作品真是可遇不可求。
+Nowadays a job for life is very much the exception rather than the rule. 现在终身职业只是例外而不是常规了。
+There are always a lot of exceptions to grammar rules. 语法规则总是有很多例外。
+They represent an exception to the rule. 他们代表的是这项规定的例外情况。
+Most of his family are sports enthusiasts, but he's the exception to the rule. 他家中大部分人都是体育迷，但他是个例外
+
+adj. 1（对自然资源和能源的利用）可持续的，不破坏环境的:
+2（计划、方法、体制等）可持续长时间的:
+sustainable |[səˈsteɪnəbl]
+the management, conservation and sustainable development of forests 森林的管理、保护和可持续发展 
+sustainable forest management 合理的森林管理 
+sustainable forestry 可持续的林业 
+Try to buy wood that you know has come from a sustainable source. 尽量购买来自可持续发展林的木材。
+an environmentally sustainable society 保持生态环境平衡的社会 
+sustainable exploitation 可持续的开发利用 
+sustainable resource 可持续的资源 
+sustainable tourism 可持续的旅游业 
+sustainable economic growth 经济的可持续增长 
+The creation of an efficient and sustainable transport system is critical to the long-term future of London. 建立一套高效稳定的交通体系对伦敦的长远发展意义重大。
+a sustainable recovery in consumer spending 消费支出的持续性复苏
+
+vt. ~ sth (off) 使某事突然发生，即引发:
+~ (to sth/to do sth)（尤指引发不良反应或发展的）起因，诱因:
+vt. 使一个装置启动:
+n. 1 [C] 枪的扳机:
+2 [C] 炸弹的引爆器:
+trigger |[ˈtrɪgə(r)]
+the incident which triggered the outbreak of the First World War 导致第一次世界大战爆发的事件 
+The current recession was triggered by a slump in consumer spending 目前的经济衰退是由消费支出骤跌引起的。
+Nuts can trigger off a violent allergic reaction. 坚果可以引起严重的过敏反应。
+The trigger for the strike was the closure of yet another factory. 触发这次罢工的是另一家工厂的关闭。
+Stress may act as a trigger for these illnesses. 压力可能会成为引发这些疾病的原因。
+to trigger an alarm 触发警报器 
+The bomb was triggered by a wire. 那颗炸弹是由一根导线引爆的。
+to pull/squeeze the trigger 扣动扳机 
+He kept his finger on the trigger. 他的手指一直勾着扳机。
+Her finger tightened on the trigger as she heard footsteps approaching. 她听到脚步声越来越近，便用手指紧扣扳机。
+trigger devices for nuclear weapons 核武器的引爆器
+
+vt.＆vi.（在头脑中对要做的事情）计划，打算。极为常用:
+intend sth (as sth) 意思是…，意指，类似于mean，但远不如mean常用:
+intend |[ɪn'tend]
+I never intended to hurt you. 我从来都没想伤害你。
+The bomb was probably intended for him. 那颗炸弹很可能是要炸他。
+It is intended that production will start at the end of the month. 计划月底将开始生产。
+vt. intend sth (by sth) 
+What exactly did you intend by that remark? 你那句话到底想说什么？
+He intended it as a joke. 他只是想开个玩笑。
+
+vt. spread sth (out) (over sth) 把…划分成各部分后分配到不同的时间（即分若干次来进行），或分配给不同的人等（即分摊）:
+vt. spread sth (out) 张开或伸开手臂、腿脚、手指等:
+n. [C, usually sing.]（人或事物的）多样，广泛:
+n. [C] [美] 相当于bedspread，即（作为装饰用的）床罩（套在床上、床单上或毛毯上等）:
+n. [C, U] 抹在面包上的柔软食物:
+spread (B with A) 把一种物质涂抹到食物的表面；或能够被涂抹到食物表面:
+n. [C] [非正式]（尤指为特殊场合准备的）一顿丰盛的饭食:
+spread (B with A) 把一种物质涂抹到食物的表面；或能够被涂抹到食物表面:
+n. [C, usually sing.] [美] spread (of sth) 一片水域:
+n. [C, usually sing.] [美] spread (of sth) 一片陆地。强调该片土地在空间上的连续性和广阔感:
+n. [C, usually sing.] spread (of sth)（某事物所覆盖的）面积。不常用:
+n. [C, usually sing.] spread (of sth)（某事物的）宽度:
+vt. spread sth (out) (on/over sth) 展开或打开折叠品，让其覆盖一个更大的区域:
+spread (B with A) 把一种物质涂抹到…的表面；或能够被涂抹到…表面:
+vt. spread sth (out) (on/over sth) 把物品摊开，让其覆盖一个更大的区域:
+vt.＆vi. 事物覆盖（或使…覆盖）一个越来越大的区域，即蔓延，扩散等:
+vi. spread (out) 覆盖一大片区域，即延伸，扩张等:
+n. [C, usually sing.] spread (of sth) 涉及的区域或活动范围:
+vt. 使…分布于（或分散于）不同的地方:
+vt.＆vi. 在人们之间流传，传播；或使流传，使传播。是一个常规用词，极为常用:
+n. [U] 传播，蔓延，散布，扩展等:
+vt.＆vi. 疾病在人们之间传播；或使疾病传播。是此义的常规用词，极为常用:
+n. [U] 疾病的传播，蔓延:
+n. [U] 在商业和金融领域可指（两种比率或价格的）差额，尤指股票买卖的价差:
+n. [C] 书籍、报刊或杂志上（在一张纸上的）相反的两页:
+spread |[spred]
+to spread the food over ten days 把食物分散在十天里吃  
+to pay monthly and spread the cost of the machine 把这台机器的费用按月分期支付 
+The meeting will be spread over three days. 本届会议将分三天举行。
+The course takes forty hours, spread over twenty weeks. 这门课程共需四十个小时，分二十周上完。
+to spread the task between the departments 把任务分摊给各部门 
+to spread the state’s wealth more evenly 更加平均地分配国家财富
+Spread your legs. 把你的腿伸开。
+Spread your arms. 张开双臂。
+a broad spread of opinions 各种各样的观点
+cheese spread 奶酪酱 
+Use a low-fat spread instead of butter. 抹点低脂肪的东西吧，不要抹黄油了。
+vt.＆vi. spread (A on/over B) 
+to spread butter on a piece of toast 在烤面包片上抹黄油
+He had laid on a huge spread for the party. 他为聚会安排了丰盛的食物。 
+vt.＆vi. spread (A on/over B) 
+to spread the mixture in the cake pan 把该混合物摊在蛋糕烤盘里
+a vast spread of water 一片浩瀚的水域
+He has a huge spread in this country. 他在该国拥有大片土地。
+His arms have a spread of nearly two metres. 他的臂展近两米。
+to spread the map on a desk 在桌子上展开地图 
+to spread a plastic on the desk 在桌子上铺上塑料 
+to spread a towel on the grass 把一块毛巾铺在草坪上 
+He had a newspaper spread open on his knee. 他把报纸展开放在膝上。
+The bird spread its wings. 鸟儿展开翅膀。
+vt.＆vi. spread (A on/over B) 
+to spread butter on a piece of toast 在烤面包片上抹黄油 
+to spread the paint evenly 均匀地刷油漆
+to spread pictures on the desk 把一些照片摊在书桌上 
+The fire rapidly spread to adjoining buildings. 大火迅速蔓延到了临近的建筑物。
+Water began to spread across the floor. 水开始漫过地板。
+A smile spread slowly across her face. 她脸上慢慢绽开微笑。
+A red stain was spreading across his shirt. 一个红色的污渍正在他的衬衫上渗开。
+Its roots spread widely. 它的根蔓生得很开。
+The stream spread out beneath us. 溪流在我们下方延伸。
+The corporation has a good geographical spread of branches in this country. 该公司在该国开设的分支机构地理分布相当广。
+Seeds are spread by the wind. 种子是随风传播的。
+The company has 50 branches spread all over the country. 该公司有50家分支机构分布在全国各地。
+With four markets to manage, there’s a danger that’s she’s spreading herself too thin. 她要管理四个市场，恐怕会分身乏术。
+to spread rumours about sb 散布关于某人的谣言 
+The news spread like wildfire. 这消息传得快极了。
+the sense of fear spreading in residential neighbourhoods 在住宅区蔓延的恐惧感 
+Her confidence had spread throughout the team. 她的信心感染了全体队员。
+The disease is spread easily by mosquitoes. 这种疾病很容易通过蚊子来传播。
+His fame had spread far and wide. 他声名远扬。
+The effects of this policy spread far beyond children now at school. 这一政策的影响已经远远超出了在校儿童的范围。
+Use of smartphones spread rapidly during that period. 在那段时期，智能手机的使用迅速普及开来。
+Expertise in this field is very thinly spread across the country. 该领域的专门技术在该国没有怎么得到推广。
+The industrial revolution is spreading across the world. 工业革命正向全世界扩散。
+the spread of information, the spread of disease, the spread of fire 信息的逐渐传播；疾病的传播；火势的蔓延 
+the spread of a city into the surrounding areas 城市向周边地区的扩展
+The disease is spread easily by mosquitoes. 这种疾病很容易通过蚊子来传播。
+the spread of disease 疾病的传播
+Market makers earn their livings from the spread between buying and selling prices. 炒股者赚取股票买卖的价格差。
+A photograph of the star adorned the centre/center spread. 那位明星的照片刊登在中间跨页上。
+double spread 横贯两版的文章 
+five-page spread 五页的版面 
+full-page spread 一整版的广告 
+fashion, photo spread 时装广告；图片广告
+
+vt. [常用被动式] ~ sth (at sth) 估计、估算（成本、尺寸、价值等）:
+n. 1 [C]（对数量、成本等的）估计、估价、估算:
+2 [C]（基于现有证据而对一个人或一种情况进行的）评价、评估、判断:
+3 [C]（让员工提交的）估算单、预算书（是对项目成本的估算）:
+estimate |[ˈestɪmət]
+The satellite will cost an estimated £400 million. 这颗卫星估计要耗资4亿英镑。
+Police estimate the crowd at 30 000. 警方估计聚集的人有3万。
+The deal is estimated to be worth around $1.5 million. 这笔交易估计价值150万元左右。
+We estimated (that) it would cost about €5 000. 我们估计要花费大约 5 000 欧元。
+It is estimated (that) the project will last four years. 据估计，这项工程将持续四年。
+It is hard to estimate how many children suffer from dyslexia. 很难估计有多少孩子有诵读困难。
+how to roughly estimate your caloric intake 如何粗略估算热量摄入 
+It is conservatively estimated that not less than half a million people died in the famine. 据保守估计，死于这场饥荒的人数不下五十万。
+This made it possible to estimate the effect of workplace ventilation. 这样就能够估计工作场所的通风效果。
+The results of the survey were used to estimate the preferences of the population at large. 调查结果已用于估计公众的大致喜好。
+I can give you a rough estimate of the amount of wood you will need. 我可以粗略估计一下你所需要的木材量。
+a ballpark estimate (= an approximate estimate) 大致相近的估计 
+official government estimates of traffic growth over the next decade 政府对今后十年交通增长的正式估计 
+At least 5 000 people were killed, and that's a conservative estimate (= the real figure will be higher). 至少5 000人丧生，这还是个保守的估计。
+the official estimate of the election result 竞选结果的官方预测 
+This figure is five times the original estimate. 这个数据是最初估算的五倍。
+Current estimates suggest that supplies will run out within six months. 据目前估计，供给品将在六个月之内用尽。
+Inflation could rise by 15% according to the latest estimate. 据最新估计，通货膨胀率可能上升15%。
+optimistic, pessimistic estimate 乐观的估计；悲观的估计 
+cost, earnings estimate 成本估计；收入估算 
+population estimate 人口估算 
+casualty estimate 伤亡估算 
+I hadn't been far wrong in my estimate of his grandson's capabilities. 我对他孙子的能力的判断还不算太离谱。
+The shop also offers a curtain-making and fitting service. Quotes and estimates can be prepared by computer on the spot. 那家商店还提供窗帘制作和安装服务，而且可以用计算机现场制作报价单和预算书。
+
+n. 1 [U, C]（在某一艺术、体育或其他实践性的活动中所采用的）技巧或技艺（该技巧或技艺可通过训练和实践来获得）:
+2 [U, C] 技术，此时其含义与technology相近，但technique一般只强调其实用性，而不太强调该技术的系统性和学术性:
+technique |[tek'ni:k]
+swimming technique 游泳技术 
+cooking, painting, singing, narrative technique 烹饪技巧；油画技巧；歌唱技巧；叙事手法 
+reading techniques 阅读技巧 
+communication, dating, exam, management, marketing, problem-solving, relaxation, research, sales, teaching technique 交流技巧；约会技巧；应试技巧；管理技巧；营销技巧；解决问题的技巧；放松方法；研究方法；销售技巧；教学技巧 
+analytical, medical, photographic, scientific technique 分析技术；医疗技术；摄影技术；科学技巧 
+building, farming, manufacturing technique 建造技术；农业技术；制造技术 
+techniques for the storage of data 数据存储技术 
+advanced technique 先进的技术 
+modern freezing techniques 现代冷冻技术 
+techniques in farm management 管理农场的技术
+
+vt. 1 某事物以其他事物作为其一部分，可称为包含、包括。一般也不表示空间上的“容纳”，而表示“包括”在概念上能明确界定的一些部分，且该词后面也不必列出所有组成部分（如这份文件“包含”文字和图片等）:
+2 include sb/sth (as/in/on sth) 使某人或某事物成为其他事物的一部分:
+include |[ɪn'klu:d]
+The tour included a visit to the Science Museum. 这次游览包括参观科学博物馆。
+Does the price include tax? 这个价钱是否包括税款？
+Your duties include typing letters and answering the telephone. 你的职责包括打信件和接电话。
+You should include some examples in your essay. 你应该在文章里举一些例子。
+We all went, me included. 我们都去了，连我在内。
+Representatives from the country were included as observers at the conference. 这个国家的代表都被列为会议的观察员。
+
+n. [C] 高校中的学者:
+adj. 1 常作前置定语，指与学术工作有关的，即学术上的:
+2 与学校有关的，即学校的:
+3 学术的，而非实际的或技术的:
+4 指某人善于学习的，学习好的:
+5 指一种讨论或情况不切实际的、空谈的、学究的、纯理论而不考虑实际情况的（且因此而不重要的）:
+academic |[ækə'demɪk]
+a group of academics 一批学者
+academic standards 学术水平 
+an academic career 学术生涯 
+an academic year 学年 
+an academic approach 学术的方法 
+academic subjects 学科 
+academic qualifications 学术资历 
+It is purely academic. 这是纯学术性的。
+less academic children 学习不太好的孩子 
+to be purely academic 完全不切实际
+
+adj. 独特的、有特色的:
+distinctive |[dɪˈstɪŋktɪv]
+clothes with a distinctive style 式样独特的衣服 
+the distinctive odour of chlorine 氯气特有的气味 
+a distinctive blue and yellow flag 特殊的蓝黄旗 
+The male bird has distinctive white markings on its head. 雄鸟的头上有明显的白色斑纹。
+The shell has a highly distinctive pattern. 这枚贝壳的图案很独特。
+to be visually distinctive 视觉效果独特
+
+vi. consist of sth 由（一些事物或人）构成。这些人或事物是并列关系，且通过某种组合形式来共同构成一个有机整体:
+vi. [正式] consist in sth 拥有某事物作为主要或唯一的部分、或拥有其作为特征，可翻译为在于:
+consist |[kən'sɪst]
+The committee consists of ten members. 委员会由十人组成。
+Their diet consisted largely of vegetables. 他们的日常饮食以蔬菜为主。
+Most of her work consisted of editing pictures. 她的工作多半为编辑图片。
+Their conversation consisted almost entirely of gossip. 他们的谈话几乎全是些闲言碎语。
+a gas station that basically consists of two gas pumps and a vending machine 主要由两台汽油泵和一台自动售货机构成的加油站 
+The settlements often consist of simple huts. 定居点常常由简易的棚屋构成。
+The beauty of the city consists in its magnificent buildings. 这座城市的美就在于它那些宏伟的建筑。
+True education does not consist in simply being taught facts. 真正的教育并不在于简单地讲授事实。
+
+vi. 尝试去做、去取得或达到…，相当于attempt，尤用于报刊:
+bid (to do sth) 尝试去做、去取得或达到…，尤用于报刊:
+vt.＆vi.（某些纸牌游戏中）叫牌:
+n. [C]（某些纸牌游戏中的）叫牌，叫出的点数:
+vt. 告诉某人做某事，吩咐，此义用于旧时，或用于文学作品中:
+vt. bid (sb) good morning, farewell, etc. 向某人问候、道别等，为正式用法:
+vt.＆vi. 买方出价，尤指在拍卖中喊价:
+vi. bid (for sth) 投标，相当于tender，美式为bid (on sth):
+n. 1 [C] bid (for sth) 买方的出价，尤指拍卖或招投标过程中的“出价”。从词义范围上讲，bid是一种offer:
+2 [C] bid (for sth) 投标，相当于tender，美式为bid (on sth):
+bid |[bɪd]
+The team is bidding to retain its place in the league. 这个队正争取保住它在联赛中的位置。
+a bid for power 权力之争 
+a desperate bid to escape from his attackers 拼命躲避攻击他的人 
+election bid 竞选 
+Olympic bid 申奥 
+College presidents supported his bid for the position. 大学校长们支持他竞争这个职位。
+a bid for freedom 努力获得自由
+She bid four hearts. 她叫四个红桃。
+The master bade her to close the window. 主人吩咐她把窗户关上。
+I bade farewell to Tom. 我告别了汤姆。
+We wanted to buy the chairs but another couple were bidding against us. 我们想买下那几把椅子，但另一对夫妇在同我们较劲出价。
+Two dealers bid against each other for the table. 两个商人为这张桌子互相竞价。
+She bid $10 000 for the painting. 她出价1万美元购买这幅画。
+We have successfully bid for the contract. 我们竞标成功，得到了这份合同。
+At the auction, the highest bid for the picture was £200. 拍卖会上，这幅画的最高出价为200英镑。
+Any more bids? 还有谁出更高的价吗？
+opening, starting bid 首次出价 
+final bid 最终出价 
+winning bid 中标价 
+competitive bid 有竞争力的报价 
+a bid of £100 100英镑的出价 
+to bid on a computer（美）出价买一台电脑 
+hostile bid（商业用语）恶意出价 
+to launch a takeover bid for the company 收购该公司 
+He made a cash bid for the company. 他提出以现金收购这家公司。
+The company submitted a bid for the contract to clean the hospital. 该公司投标承包这家医院的清洁工作。
+They have invited bids for the property. 他们为这块地产招标。
+bid price 投标价 
+bid process 投标过程
+
+n. [C] 一场活动，例如为某人或某个慈善组织而筹款所组织的一场宴会:
+n. [C] 一场活动，例如为某人或某个慈善组织而筹款所组织的一场表演:
+n. 1 [U, C] [英] 政府向因失业、疾病等原因而需要钱款资助的人所提供的金钱，可看作一种福利:
+2 [C, usually pl.]（从公司所得到的份内酬劳之外的）福利或奖金:
+n. [C] 一场活动，例如为某人或某个慈善组织而筹款所组织的一场表演、一场宴会等:
+n. [C, usually pl.]（从保险公司得到的）保险金:
+n. [U, C]（某事物所给予你的）优势；（某事物所具有的）用处或益处。是此义的常规用词，最为常用:
+vt.（在某个方面）对于某人（或对于改善其生活）有用，有好处:
+vi. benefit (from/by sth) 由于某事物而处于一种更好的境况中，即得益于:
+benefit |['benɪfɪt]
+a benefit concert 慈善音乐会
+welfare benefit 福利金 
+state benefit 国家救济金 
+cash benefit 现金津贴 
+child, disability, housing, maternity, sickness, social-security benefit 子女补助；残疾补助；住房津贴；生育津贴；疾病补助；社会保障金 
+pension, retirement benefit 养老金；退休津贴 
+jobless, unemployment benefit 失业救济金 
+fringe benefit（薪金外的）附加福利 
+employee, retiree（均美）benefit 员工津贴；退休人员补助 
+benefits package 一揽子福利待遇 
+benefit match, benefit concert 义赛；慈善音乐会
+insurance benefit 保险赔偿金 
+The insurance plan will provide substantial cash benefits to your family in case of your death. 投保人一旦死亡，该项保险将给其家属支付相当可观的保险金。
+I’ve had the benefit of a good education. 我得益于受过良好教育。
+He couldn’t see the benefit of arguing any longer. 他看不出再争论下去有什么好处。
+mutual benefit 互惠互利 
+practical benefit 实惠 
+public benefit 公共利益 
+personal benefit 个人利益 
+clinical, economic, material, nutritional, social benefit 临床效用；经济效益；物质利益；营养价值；社会效益 
+fitness, health benefit 对身体的益处
+The new law clearly benefits those earning the most money. 新法律显然使那些收入最高的人受益。
+We benefited directly from the reorganization. 我们从重组中直接受益。
+
+make (a company or organization) smaller by eliminating staff positions:通过取消员工职位使（公司或组织）更小
+(of a company) eliminate staff positions:（某公司）裁减员工职位
+move to a smaller place of residence:搬到一个较小的居住地
+make (something) smaller:make(something)更小
+downsize |ˈdaʊnsʌɪz| Verb/:缩小规模,缩小尺寸
+a TV news producer told what happened after her network downsized the newsroom:a电视新闻制作人讲述了她的网络缩小新闻编辑室后发生的事情
+recession forced many companies to downsize:recession迫使许多公司缩减规模
+I am downsizing from a large five-bedroom house to a two-bedroom flat:我正在从五居室的大房子缩小到两居室的公寓
+I downsized the rear wheel to 26 inches:我把后轮缩小到26英寸
+
+vt. 防止（或避免）坏事发生。是“避免”的常规用词，最为常用:
+vt. 1 躲开或避开（某人或某事物）；尝试不去做某事（即避免做某事）:
+2 避免自己撞到某东西:
+avoid |[ə'vɒɪd]
+The accident could have been avoided. 这起事故本来是可以避免的。
+The name was changed to avoid confusion with another firm. 改名是为了避免和另一家公司混淆。
+to avoid soil being washed away 防止土壤流失 
+to avoid conflict 避免冲突 
+I scrupulously avoid artificial additives when I buy food. 购买食品时我仔细地避开有人工添加剂的食物。
+They narrowly avoided defeat in the semifinal. 他们在半决赛中险些败下阵来。
+He’s been avoiding me all week. 整整一个星期他一直在回避我。
+to avoid my eyes 躲避我的目光 
+I left early to avoid the rush hour. 我早早动身以避开交通高峰时刻。
+to avoid mentioning his divorce 避免提及他离婚的事 
+He avoided answering the question. 他避开了这个问题，没有回答。
+She swerved to avoid a bicycle. 她猛打方向盘以免撞上一辆自行车。
+He ducked to avoid a low branch. 他迅速低下头以免撞上矮树枝。         
+
+n. 1 [C, U] 性别:
+2 [C] 统称男性（或女性）:
+n. [C, U]（语法）（用于某些语言中）性（阳性、阴性和中性，不同的性有不同的词尾等）:
+gender |[ˈdʒendə(r)]
+issues of class, race and gender 阶级、种族和性别问题 
+gender relations 两性关系 
+gender differences, gender divisions, gender gap 两性差别；性别差异；两性之间的鸿沟 
+gender equality, gender equity（尤美）性别平等 
+gender bias, gender discrimination, gender imbalance, gender inequality 性别偏见；性别歧视；性别失衡；性别不平等 
+The government is working on tackling gender inequalities in employment. 政府正在着手解决就业中的性别不平等问题。
+gender identity, gender norm, gender role, gender stereotype 性别认同；性别规范；性别角色；性别成见 
+Managers may value different qualities in men than in women, reinforcing gender stereotypes. 管理者可能会在男性和女性身上看重不同的才干，这就进一步强化了性别成见。
+gender issues, gender politics 性别问题；性别政治 
+gender roles 性别角色 
+Women are sometimes denied opportunities solely because of their gender. 妇女有时仅仅因为性别而无法获得种种机会。
+While her observations may be true about some men, they could hardly apply to the entire gender. 虽然她的评论就某些男人而言可能是正确的，但绝不适用于所有男性。
+the different abilities and skills of the two genders 两性具备的不同能力和技能 
+female, male gender 女性；男性 
+opposite gender 不同的性别
+In French the adjective must agree with the noun in number and gender. 法语中形容词必须在数和性上与名词一致。
+In both Welsh and Irish the word for 'moon' is of feminine gender. 在威尔士语和爱尔兰语中，表示“月亮”的词是阴性的。           
+
+existing between or involving different racial or ethnic groups:存在或涉及不同种族或族裔群体
+interracial |ˌɪntəˈreɪʃl| Adjective/:异族,跨种族的
+interracial conflict:异族冲突
+
+~ (that…) 不满的原因；作出的抱怨、埋怨:
+2 [U] 抱怨或埋怨的行为:
+n. [C]（尤指不严重、常影响身体某部位的）疾病:
+~ (that…) 投诉、控告:
+2 [U] 投诉或控告的行为:
+complaint |[kəmˈpleɪnt]
+If you have a complaint about shoes bought from a shop covered by the Footwear Code, there are several ways of putting the matter right. 如果对在Footwear Code旗下零售店里买的鞋有不满意的地方，有几种解决问题的方式。
+I've got no complaints about them. 对他们我没什么意见。
+I believe you have a complaint against one of our nurses. 我认为你对我们的一位护士有怨言。
+I'd like to make a complaint about the noise. 我要就噪音问题提出投诉。
+a complaint that he had been unfairly treated 抱怨说他受到了不公正待遇 
+My only complaint is that the website is a little difficult to use. 我唯一的不满是这网站使用起来有点儿难。
+One of the chief complaints is the cost. 主要的意见之一是成本问题。
+I have a complaint about the food. 我对这些食物有意见。
+a complaint about working conditions 对工作条件的不满 
+a complaint from a customer 顾客的抱怨 
+a complaint of unfair dismissal 对不正当解雇的投诉! 
+to make a complaint to the authorities 向当局申诉 
+I can see no grounds for complaint. 我看没理由抱怨。
+The way I was treated gave me no cause for complaint. 我得到的待遇让我没有理由抱恶。
+a chorus of complaint 一片抱怨声 
+a matter of complaint（英，法律）抱怨的事由 
+Eczema is a common skin complaint which often runs in families. 湿疹是一种常见的皮肤病，通常具遗传性。
+minor complaint 小病 
+chronic complaint 慢性病 
+Not being able to sleep at night is a very common complaint. 晚上睡不好觉是很常见的毛病。
+back, chest complaint 背部疾病；胸部疾病 
+physical complaint 身体疾病 
+medical complaint 疾病 
+He has a minor skin complaint. 他有轻微的皮肤病。
+The most common complaint is about poor service. 最常见的投诉与服务差有关。
+We received a number of complaints from customers about the lack of parking facilities. 我们收到了来自顾客的许多投诉，抱怨缺乏停车设施。
+There's been a record number of complaints about the standard of service on Britain's railways. 有关英国铁路服务水平的投诉空前的多。
+People have been reluctant to make formal complaints to the police. 人们不愿向警方作出正式投诉。
+I'd like to make a complaint about the noise. 我要就噪音问题提出投诉。
+a formal complaint 正式控告 
+to file/lodge (= make) a complaint（正式）提出控告 
+consumer, customer complaint 消费者投诉；顾客投诉 
+citizen complaint（美）市民投诉 
+civil, criminal（美）民事投诉；刑事投诉 
+discrimination, harassment complaint 歧视投诉；骚扰投诉 
+ethics complaint（美）道德方面的投诉 
+He brought a complaint against his former manager. 他投诉他以前的经理。
+They filed a complaint with the Commission. 他们向委员会操交投诉。
+We have had some serious complaints from parents. 找们收到家长的一些严正投诉。
+The tribunal heard complaints against the director. 审理委员会听取了对那名主管的控告。complaints arising from late payment 由拖欠付款引发的投诉 
+a complaint against the police 对警方提出的控告 
+a complaint of unfair dismissal 对不正当解雇的投诉! 
+to make a complaint to the authorities 向当局申诉 
+complaint procedure（美）, complaints procedure（英）, complaint system（美）申诉程序；投诉程序；控告制度 
+complaint letter（尤美）（英美通常用letter of complaint）投诉信 
+complaint form 投诉表
+
+n. [C]（材料、地毯、音乐等东西上的）对于线条、形状、颜色、声音等的规则排列，作为一种图案或式样:
+vt. 在某事物上形成一个规则的（由一些线条或形状构成的）图案（或花样）:
+n. [usually sing.] 可供效仿的一个杰出典范:
+n. [C] 某事发生或被执行的通常方式，即模式:
+vt. [术语] 造成某种行为发展，或促成某种行为模式的形成:
+n. 1 [C]（沿着…的周围切割出来的、用于制作某东西的）模型、底样、纸样等:
+2 [C] 帮助你选择某事物的样式的一小块材料、纸张等，即样品、样本，相当于sample:
+pattern |['pætn]
+a pattern of diamonds 菱形图案 
+abstract, geometric pattern 抽象图案；几何图案 
+camouflage, floral, striped pattern 迷彩图案；花卉图案；条纹图案 
+regular pattern 规则的样式 
+random pattern 随机图样 
+drum, sound pattern 鼓点模式；声音模式 
+rhythmic patterns 节奏模式 
+the pattern on the carpet 地毯上的图案 
+Frost patterned the window. 霜在窗子上形成了图案。
+a landscape patterned by vineyards 由一片片葡萄园构成的风景图
+This system sets the pattern for others to follow. 这个系统堪为他人仿效的典范。
+changing patterns of behaviour 行为的变化模式 
+The murders all seem to follow a (similar) pattern. 这些凶杀案如出一辙。
+There is no set pattern for these meetings. 这些会议没有固定的模式。
+Her speech patterns are very distinctive. 她的讲话方式很有特色。
+sleep pattern 睡眠模式 
+spending pattern 消费模式 
+weather pattern 天气模式 
+patterns of thought 思维模式 
+Adult behaviour is often patterned by childhood experiences. 成年人的行为模式往往是童年经历造成的。
+a knitting pattern 编织图样 
+She bought a dress pattern and some material. 她买了一幅衣服纸样和一些衣料。
+wallpaper patterns 壁纸样品
+
+n. [sing.]（一群人或某地的）气氛、氛围:
+n. [C] [sing.]（群体的）意愿:
+n. [C] [sing.]（群体的）态度、心态:
+n. [C] 愤怒或不耐烦的情绪:
+n. [C] 心情、情绪:
+n. 1 [C]（语法）表达语气的动词屈折变化:
+2 [C]（语法）动词的语气:
+mood |[mu:d]
+The mood of the meeting was distinctly pessimistic. 这次会议的气氛显然很悲观。
+The movie captures the mood of the interwar years perfectly. 这部电影恰如其分地捕捉到了两次世界大战中间这些年的氛围。
+First set the mood with music. 首先用音乐烘托气氛。
+It was Christmas and everyone was in festive mood. 圣诞节到了，每个人都沉浸在节日的欢乐气氛中。
+The right music sets the mood for such a great moment. 合适的音乐能为如此重大的时刻营造气氛。
+His comments pretty much killed the mood for the rest of the show. 他的解说基本上毁掉了演出剩余部分的气氛。
+I wanted different moods in each room. 我想让每个房间都感觉不一样。
+The government seemed to be in tune with the popular mood. 政府似乎和民众的意愿是一致的。
+They largely misread the mood of the electorate. 他们很大程度上误读了选民的意图。
+The crowd's mood abruptly turned violent. 人群的情绪突然变得暴烈起来。          
+I wonder why he's in such a mood today. 我不知道他为什么今天脾气这么坏。
+She was in one of her moods (= one of her regular periods of being angry or impatient). 她又闹情绪了。
+She's in a good mood today (= happy and friendly). 她今天心情很好。
+He's always in a bad mood (= unhappy, or angry and impatient). 他总是情绪不好。
+to be in a foul/filthy mood 情绪很差 
+Some addicts suffer violent mood swings (= changes of mood) if deprived of the drug. 一些吸毒成瘾的人一旦没有毒品就会出现情绪的激烈波动。
+She was in an upbeat mood about the future of the company. 她对公司的未来充满信心。
+I can't keep up with his constantly changing moods. 他喜怒无常，让我无所适从。
+The workers were in defiant mood as they entered the tribunal. 员工们走进仲裁法庭时看上去蔑视一切。
+The music helped to put them in a more relaxed mood. 音乐使他们心情更加放松。
+Choose clothes to match your mood. 要选择适合你心情的衣服。
+The weather seemed to reflect his dark mood. 天气阴沉沉的，正如他阴郁的心情。
+He seemed able to read her mood. 他似乎能读懂她的心情。
+He could sense her gloomy mood. 他能感觉到她忧郁的心境。
+| capture a film that has captured the mood of the moment | gauge 
+Not wanting to dampen her good mood, I quickly changed the subject. 因为不想影响她的好心情，我很快改变了话题。
+It immediately brightened her mood and brought a smile to her face. 这立刻让她心情开朗，满面笑容。
+Serotonin is a brain chemical which regulates mood. 血清素是一种调整情绪的大脑化合物。
+His mood lifted as he concentrated on his driving. 他集中精力开车时，心情又好了起来。
+After the accident he suffered violent mood swings. 出事之后，他的情绪波动很大。
+mood state 心境 
+the challenge of coping with negative mood states 应对负面情绪状态的挑战 
+Mood disorders can disrupt relationships. 情绪障碍可能扰乱人际关系。
+I tried to make him laugh, but he was in no mood for jokes. 我尽力想逗他笑，可他根本就没心思听笑话。
+He was in no mood for being polite to visitors. 他当时没心思以礼待客。
+I'm just not in the mood for a party tonight. 我今晚就是没心情参加聚会。
+Instantly he felt her change of mood. 他立刻感到了她情绪上的变化。
+She could be a very funny girl when the mood struck her. 她心情好的时候会变得很风趣。
+the indicative mood, the imperative mood, the subjunctive mood 陈述语气；祈使语气；虚拟语气           
+
+n. [U, C, usually pl.] 对某人的同情（表明你理解并关心对方所面临的问题）。是此义的常规用词:
+n. [U, C, usually pl.] 对一个想法或观点、一项事业、一个组织等表示支持或赞同的一种行为，即支持，赞同:
+n. [U] 拥有相似观点或兴趣的人们之间的友谊或相互理解，即意气相投:
+sympathy |['sɪmpəθɪ]
+I have no sympathy for Jane, it’s all her own fault. 我不同情简，那都是她自己的错。
+Our heartfelt sympathy goes out to the victims of the war. 我们对战争的受害者表示由衷的同情。
+She expressed her deepest sympathy for him. 她向他表达了最深切的同情。
+to waste sympathy 浪费同情心 
+I don’t want your sympathy! 我不想要你的同情！ 
+Nurses came out on strike in sympathy with the doctors. 护士们罢工以声援医生们。
+The government showed sympathy to their cause. 政府对他们的事业表示了支持。
+Her sympathies lie with the anti-abortion lobby. 她支持反堕胎院外活动集团。
+There was no personal sympathy between them. 他们个人之间全无相投之处。
+
+vt. discount sth (as sth) 是一种正式用法，表示认为（或说）…不重要、不真实或不相关，即不理会，相当于dismiss。但不常用:
+n. [C,U] discount on/off sth 价格折扣，指从正常价格里砍掉的数额，是此义的常规用词，最为常用。与reduction近似:
+vt. 打折出售，同义词为reduce:
+discount |['dɪskaʊnt]
+We cannot discount the possibility of further strikes. 我们不能低估再次发生罢工的可能性。
+The news reports were being discounted as propaganda. 人们认为这些新闻报道不过是为了宣传，不可全信。
+special discount 特别优惠 
+group discount 团体折扣 
+cash discount 现金折扣 
+bulk discount 大宗购买折扣 
+discount coupon（尤美）, discount voucher（英）优惠券 
+discount price 优惠价 
+discount shop, discount store 折扣商店 
+discount airline（美）廉价航空 
+to be entitled/allowed to a discount 享受折扣价 
+Tickets are available to members at a discount. 会员可以优惠价购票。
+Customers are allowed a discount of 10% on orders over $500. 订单超过500美元的顾客可以享受9折优惠。
+Do you give any discount? 你们打折吗？
+discounted prices, discounted fares 打折价；打折票价
+
+n. [C] 数学中的值，数值:
+n. [C] values 复数表示关于是非的信念，或生命、生活的价值观:
+n. 1 [U, C] 某事物的价值，尤指商品的价值:
+2 [U] 某事物与其价格相比时的划算程度，尤用于英式英语:
+vt. value sth (at sth) 给…估算（或定下）金钱价格，即估价，定价:
+value sb/sth (for sth) 认为…重要，即重视:
+n. [U] 有用性或重要性，相当于benefit:
+value |['vælju:]
+Let y have the value 33. 假设y的值为33。
+the dominant values of a society 一个社会的主流价值观 
+traditional values 传统的价值观 
+human values 人的价值观 
+cultural, educational, political, social values 文化观念；教育观念；政治观念；社会观念 
+moral, religious, spiritual values 道德观念；宗教信仰；精神观念 
+family values 家庭观念 
+Western values 西方的价值观 
+parental values 父母的价值 
+a set of values 一套价值观
+land, property value 土地价值；房地产价值 
+Use current market values to determine the worth of your assets. 用当前的市场价值来确定你的资产价值。
+rental value 租赁价值 
+net value 净值 
+shareholder value 股东价值 
+the high value of the pound 英镑的高币值 
+monetary value 货币价值 
+a share with a nominal value of $50 面值为50美元的股票 
+face value of a coin 一枚硬币的面值 
+the resale value of a car 汽车的转卖价值 
+The piano has held its value. 这架钢琴保持了原有价值。
+a painting to the value of one million pound 价值达100万英镑的一幅油画 
+high production values 高产值 
+The winner will receive a prize to the value of £800. 获胜者将得到价值为800英镑的奖励。
+Our products deliver value. 我们的产品很划算。
+Though a little more expensive, the larger model gives better value for money. 尽管较大的一款稍微贵了点儿，但是更划算一些。
+The property has been valued at over $2 million. 这处房地产估价为200多万美元。
+vt. value sb/sth (as sth) 
+I really value him as a friend. 我真的把他视为好朋友。
+The area is valued for its vineyards. 这个地区因它的葡萄园而受到重视。
+a valued member of staff 职工中受重视的一员 
+to value the ordinary things in life 珍视生活中的平凡事 
+Tulips are valued for their beauty. 郁金香因美丽而受到青睐。
+He hated to be valued for his looks alone. 他讨厌别人只看重他的相貌。
+the value of regular exercise 经常锻炼的好处 
+the nutritional value of eggs 鸡蛋的营养价值 
+The arrival of canals was of great value to many industries. 运河的出现对许多行业具有重大的意义。
+The necklace had sentimental value for her. 那条项链对她有纪念意义。
+news, social value 新闻价值；社会价值 
+practical, symbolic value 实际用途；象征意义 
+aesthetic, entertainment value 审美价值；娱乐价值 
+He places a high value on marriage. 他把婚姻看得很重。
+He didn’t say anything of value. 他没讲什么有意义的话。
+Pottery fragments are of great value to historians. 陶瓷碎片对于历史学家很有价值。
+
+n. [C, usually sing.] 高出海平面的高度，即海拔高度。是此义的常规用词:
+n. [C, usually pl., U] 海拔高的一个地方:
+altitude |['æltɪtju:d]
+We are flying at an altitude of 6 000 metres. 我们的飞行高度是6000米。
+high altitude 高海拔 
+The plane suddenly started to lose altitude. 飞机突然开始下降。
+high altitudes 高海拔地区 
+It’s harder to breaths at altitude. 在高海拔地区呼吸更加困难。
+altitude sickness 高山病 
+altitude training 高原训练
+
+a waterproof sheet spread on the ground inside a tent.:一张防水布，铺在帐篷内的地面上。
+groundsheet |ˈɡraʊn(d)ʃiːt| Noun/:地垫,底片
+
+relating to or denoting the process by which different kinds of living organism are believed to have developed from earlier forms:与或表示不同种类的生物体被认为从早期形式发展而来的过程
+relating to the gradual development of something:
+relating to a pattern of movements or manoeuvres:与动作或动作模式有关
+evolutionary |ˌiːvəˈl(j)uːʃən(ə)ri| Adjective/:进化的,进化论的
+Darwinian evolutionary theory:达尔文进化论
+updating technology is an evolutionary process:更新技术是一个进化过程
+evolutionary tactics:进化策略
+
+vt. 使官方决定得以生效、实施、执行、贯彻:
+n. [C] 工具，器具，常指简单的户外用具:
+n. [C] 工具，器具，常指简单的户外用具:
+implement |[ˈɪmplɪment]
+to implement policies 执行政策 
+The proposed changes were never actually implemented. 提出的改革方案从未切实贯彻执行过。
+These reforms have now been widely implemented in schools. 这些改革措施现在已在各学校广泛实施。
+The government failed to implement the plan. 政府未能实施这一计划。
+The decision will be difficult to implement. 这项决定难易落实。
+agricultural, farm, garden implement 农具；园艺工具 
+digging, writing implement 挖掘工具 
+flint, metal, stone, wooden implement 燧石工具；金属器具；石器；木质工具 
+Make sure that all sharp implements, such as scythes, have covers. 确保所有的锋利器具——例如长柄大镰刀，都有保护套。
+kitchen, surgical implement 厨房用具；手术器具 
+cooking, writing implement 厨具；书写工具
+agricultural, farm, garden implement 农具；园艺工具 
+digging, writing implement 挖掘工具 
+flint, metal, stone, wooden implement 燧石工具；金属器具；石器；木质工具 
+Make sure that all sharp implements, such as scythes, have covers. 确保所有的锋利器具——例如长柄大镰刀，都有保护套。
+kitchen, surgical implement 厨房用具；手术器具 
+cooking, writing implement 厨具；书写工具
+
+adj. [生物学]（基因）显性的，优势的:
+adj. 首要的、最重要的、占支配地位的、显著的:
+dominant |[ˈdɒmɪnənt;美ˈdɑ:m-]
+Because it is carried by a dominant gene, an affected individual can expect about half of his or her children to inherit the illness. 因为它是由显性基因携带，所以感染者的孩子会有约50％的可能性遗传该疾病。
+The firm has achieved a dominant position in the world market. 这家公司在国际市场上占有举足轻重的地位。
+The dominant feature of the room was the large fireplace. 这间屋子要数那个大壁炉最显眼了。
+a change which would maintain his party's dominant position in Scotland 将使他的政党在苏格兰继续占据支配地位的变化 
+She was a dominant figure in the French film industry. 她在法国电影界是个举足轻重的人物。
+the economically dominant class 经济上占优势的阶层
+
+vt. [非正式] 仔细看；彻底检查:
+n. [U] -scope 用于构成名词，指用于观察…的一台仪器:
+n. [U]（一个主题、组织机构、活动等的）范围:
+~ (for sb) (to do sth)（去做某事，或去实现某事的）机会或能力:
+scope |[skəʊp;美skoʊp]
+His eyes scoped the room, trying to spot her in the crowd. 他环顾房间四周，想在人群中找到她。
+microscope 显微镜 
+telescope 望远镜
+These issues were outside the scope of the article. 这些问题不属本文论述范围。
+The subject lies outside the scope of this book. 这个题目超出了本书的范围。
+This subject lies beyond the scope of our investigation. 这一问题超出了我们的考察范围。
+the scope of a novel 小说所涉及的范围 
+This is a novel of epic scope and grand passion. 这部小说场面宏大，气势磅礴。
+The scope of the exhibition is disappointingly narrow. 展品的范围很窄，令人失望。
+These criteria were used to determine the scope of the curriculum. 这些标准用以确定课程范围。
+He promised to widen the organisation's scope of activity. 他许诺拓宽该组织的活动范围。
+The sheer scope of the project was impressive. 项目的宏大规模令人惊叹。
+The survey is too limited in (its) scope. 调查的范围太窄了。
+Our powers are limited in scope. 我们的权限不大。
+These disputes fall within the scope of the local courts. 处理这些纠纷属于地方法院的职权范围。
+global, international, national scope 全球范围；国际范围；全国范围 
+The geographical scope of product markets has widened since the war. 战后产品市场的地理范围扩大了。
+First try to do something that is within your scope. 你先试着做一件自己力所能及的事。
+Her job offers very little scope for promotion. 干着那样的工作，她几乎没有机会得到提拔。
+He believed in giving his staff scope for initiative. 他认为应给员工提供发挥主动性的机会。
+There is limited scope for creativity in my job. 我的工作发挥创造力的空间有限。
+These courses give students more scope for developing their own ideas. 这些课程给学生提供了更多机会来完善自己的想法。
+There's still plenty of scope for improvement. 还有很大的改进余地。
+The extra money will give us the scope to improve our facilities. 有了这笔额外资金，我们就能把设备加以改进了。
+Banks had increased scope to develop new financial products. 银行已为开发新的金融产品留出了更大余地。
+In her new house she had full scope for her passion for gardening. 在新房子里，她有充分的空间释放自己对园艺的热情。
+
+vt.＆vi. 认为某事有可能是真的，或很有可能发生，尤其是坏事，但没有明确证据，即怀疑，觉得，是一种含糊说法:
+vt. 感觉…可疑，或不信任。常含有敌意:
+adj. 可能是错的，因而靠不住的，即不可信的，相当于questionable:
+vt. suspect sb (of sth/of doing sth) 怀疑某人有罪，但没有明确证据:
+adj. 疑有危险的，或疑似非法的，相当于suspicious:
+n. [C] 被怀疑犯了罪或做错了事的人，即嫌疑人，可疑对象:
+suspect |[sə'spekt]
+I suspect it is just the tip of the iceberg. 我怀疑那只是冰山一角。
+I suspect your answer is wrong. 我觉得你的答案是错误的。
+I began to suspect (that) they were trying to get rid of me. 我开始觉察出，他们试图摆脱掉我（或除掉我）。
+If you suspect a gas leak, do not turn on an electric light. 假如你怀疑有煤气泄漏，不要打开电灯。
+I suspected her motives in offering to help. 她主动要帮忙，我怀疑她的动机。
+I suspected that he had not been telling the truth. 我怀疑他在撒谎。
+These revelations only prove what I suspected all along. 这些揭露的事实恰好证明了我一直以来的怀疑。
+The theory is rendered suspect. 该理论受到怀疑。
+Some of the evidence was deeply suspect. 有些证据非常可疑。
+morally suspect 道德上令人怀疑 
+politically suspect citizens 政治上可疑的公民
+He was wrongly suspected of theft. 有人错误地怀疑他有偷窃行为。
+Whom do the police suspect? 警方怀疑谁？
+The drug is suspected of causing over 200 deaths. 人们怀疑这种药物造成200多人死亡。
+It was widely suspected that they had been acting on orders. 人们普遍怀疑他们是奉命采取行动的。
+a suspect package 可疑包裹
+criminal, murder, terror suspect 犯罪嫌疑人；谋杀嫌疑人；恐怖嫌疑人 
+the prime suspect in the case 此案的头号嫌疑人 
+He was arrested as the suspect in the bombing. 他因涉嫌该起爆炸案而被捕。

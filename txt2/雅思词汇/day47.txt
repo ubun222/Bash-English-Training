@@ -1,0 +1,686 @@
+distort					使...扭曲，歪曲
+corpse				尸体
+entity				实体
+wander					游荡，闲逛
+acute							极度的，急性的，锐角的
+delectable			美味的，迷人的
+context						环境，上下文
+dominate						统治，主宰，占优势
+flyover				立交桥
+quaint				古色古香的，老派的
+dispose				使倾向于，布置
+regulate						控制，调节
+antibiotic			抗生素
+influence							影响，势力，作用
+vein			血管，矿脉，纹路，语调
+obsession	着迷，执念
+capital								大写字母，首都，好处
+swerve		突然转向，背离
+remnant		剩余部分，残迹
+tilt			倾斜，尝试，倾向
+pass				通过，行进，转移
+opaque		不透明的，浑浊的，难懂的
+prestige					威望，有声望的
+precipice		悬崖，险境
+outskirts		市郊，边缘
+refusal						拒绝
+patrol		巡逻
+ambassador				大使
+shower							阵雨，一阵，淋浴，乌合之众，使纷纷降落
+dilapidated		破旧的
+\\\\\\\\
+
+vt. 改变某事物的形状、外观或声音（使其变得奇怪）:
+vt. 歪曲或改变事实、观点等使其不再正确或真实:
+distort |[dɪˈstɔ:t;美dɪˈstɔ:rt]
+a fairground mirror that distorts your shape 露天游乐场的哈哈镜 
+A painter may exaggerate or distort shapes and forms. 画家可能会对线条和形状进行夸大或扭曲。
+His size was persistently distorted by the cartoonists. 漫画家们总是把他画得变形了。
+The loudspeaker seemed to distort his voice. 他的声音从喇叭里传出来好像失真了。
+Newspapers are often guilty of distorting the truth. 报章常犯歪曲事实的错误。
+He was accused of grossly distorting the facts. 他被指责严重歪曲事实。
+The media distorts reality; categorises people as all good or all bad. 媒体会歪曲事实，将人说得不是完美无缺就是一无是处。
+The minister has said his remarks at the weekend have been distorted. 部长说他周末的讲话被曲解了。
+The article gave a distorted picture of his childhood. 这篇文章对他的童年作了歪曲的描述。
+
+n. [C]（尤指人的）尸体:
+vt.&vi. [英，非正式]（在剧院中）（使戏剧演员因忘记台词或止不住笑而）演出僵住:
+corpse |[kɔ:ps;美kɔ:rps]
+human corpse 人的尸体 
+naked corpse 赤裸的尸体 
+bloody, charred, headless, mangled, mutilated corpse 血淋淋的尸；烧焦的尸体；无头尸；残缺不全的 
+decaying, rotting corpse 腐尸 
+bloated corpse 肿胀的尸体 
+dead, lifeless corpse 死尸 
+mummified corpse 木乃伊干尸 
+living, walking corpse 虽生犹死的状态；行尸走肉 
+For over a year he lay in his hospital bed, a living corpse. 一年多来，他躺在医院的病床上，生不如死。
+The corpse had been laid out on a marble slab. 尸体被放在一张大理石板上作了殡葬准备。
+They saw the corpse sprawled on the steps. 他们看到那具尸体四肢伸开躺在台阶上。
+The ground was littered with the corpses of enemy soldiers. 地上横七竖八地躺着敌军的户体。
+
+n. [C] [正式] 作为实体的组织机构:
+n. [C] [正式] 独立存在物，即实体:
+n. [C] [正式] 商业实体:
+entity |[ˈentəti]
+business（尤美）, commercial（尤美）, corporate entity 商业实体；企业实体；公司实体 
+for-profit, non-profit entity（均美）盈利性实体；非盈利性实体 
+The organization would not be a for-profit entity because it would violate guidelines. 此组织不会成为一个盈利性实体，否则会有悖于指导方针。
+federal（尤美）, government（尤美）, governmental entity 联邦实体；政府机构；政府实体 
+national, sovereign entity 民族实体；主权实体 
+private, public entity 私人实体；公共实体 
+economic, legal, political, religious, social entity 经济实体；法律实体；政治实体；宗教实体；社会实体 
+A company is a separate legal entity. 公司是独立的法人实体。
+The two companies will combine to form a new entity. 这两家公司将合并为一个新的实体。
+The unit has become part of a larger department and no longer exists as a separate entity. 这个单位已附属于一个大的部门，不再作为一个实体独立存在。
+These countries can no longer be viewed as a single entity. 这些国家不能再被看成是一个单独的实体。
+North and South will remain separate entities within a commonwealth until the year 2000. 南方和北方将作为一个政治联合体下的两个独立实体继续存在，直至2000年。
+Church and empire were fused in a single entity. 以往教会和帝国融为一体。
+abstract entity 抽象实体 
+artificial entity 人工实体 
+biological, physical entity 生物实体；物理实体 
+living entity 活体 
+the earth as a living entity 作为一个有生命的实体的地球
+business（尤美）, commercial（尤美）, corporate entity 商业实体；企业实体；公司实体 
+for-profit entity（美）盈利性实体 
+private, public entity 私人实体；公共实体 
+economic entity 经济实体 
+A company is a separate legal entity. 公司是独立的法人实体。
+The two companies will combine to form a new entity. 这两家公司将合并为一个新的实体。
+
+vi. wander (away, back, to, etc. sth)（人的思想或想法）走神，开小差，即心不在焉，相当于drift:
+vi.（人的目光）慢慢地从甲事物移动到乙事物，或漫无目的地移动:
+vt.＆vi. 漫无目的或漫无方向地绕着某地随意地走（或走向某地），即漫步。是此义的常规用词:
+n. [sing.] 漫无目的或漫无方向的绕着某地（或朝向某地）的随意走动，即漫步，闲逛，溜达，游荡，徘徊等:
+vi.（河流）蜿蜒，迂回曲折:
+wander (from/off sth)（人或动物）偏离正道或走失:
+vi.（道路）蜿蜒，迂回曲折:
+wander |['wɒndə]
+His mind wandered. 他走神了。
+His attention was beginning to wander. 他的注意力开始分散。
+My thoughts wandered from the exam questions to my interview the next day. 我的心思从试题转到了第二天的面试上。
+His eyes wandered restlessly around the room. 他的眼睛不停地打量着房间。
+Her eyes wandered towards the letter on the desk. 她的目光慢慢地移向桌子上的那封信。
+He wandered the streets aimlessly. 他在街上漫无目的地闲逛。
+He wandered into a bar. 他转悠进了一家酒吧。
+Visitors are free to wander through the gardens. 游客可以自由自在地在花园中游玩。
+The cattle are allowed to wander freely. 牛群可以自由地四处走动。
+a wander around the village 绕着村庄的漫步 
+I went to the garden and had a wander around. 我去花园转了一圈。
+The river wanders through the country. 这条河从这个乡村蜿蜒而过。
+vi. wander (away/off) 
+to wander from the path 从小路上走失 
+They wandered off. 他们走散了。
+My mother didn’t allow me to wander far. 我妈妈不让我走远。
+The road wanders along through the hills. 这条路弯弯曲曲地穿过各个山丘。
+
+adj. 几何中可指角度小于90°的，即锐角的:
+adj. 聪明的，敏锐的，有洞察力的:
+adj.（人或动物的感官）敏锐的，灵敏的:
+adj. 医学中可指（疾病）急性的:
+adj.（标注在元音上的）尖音符号的:
+adj. 指情况十分严重的，严峻的。与severe类似，严重程度较深，二者未见明显差别:
+adj. 指感觉、感情十分激烈的:
+acute |[ə'kju:t]
+an acute angle 锐角
+an acute observer of our society 社会的敏锐观察者 
+His judgement is acute. 他具有敏锐的判断力。
+acute sense of sight 敏锐的视力
+a patient with acute appendicitis 一位急性阑尾炎病人
+There is an acute accent over the letter “e” in the French word “café.” 法语词汇“café”中字母“e”上面有个尖音符号。
+an acute economic crisis 严峻的经济危机 
+an acute shortage of oil 石油的严重短缺 
+the acute problems of environmental pollution 严重的环境污染问题
+acute pain 剧痛 
+Competition for jobs is acute. 求职竞争非常激烈。
+The event has caused acute embarrassment to the company. 本次事件使该公司极为尴尬。
+
+If you describe something, especially food or drink, as delectable, you mean that it is very pleasant. 令人愉快的
+delectable |英 [dɪ'lektəb(ə)l]  美 [dɪ'lɛktəbl]| adj. 美味的；令人愉快的/
+...delectable wine....美味可口的葡萄酒。
+
+
+n. [C, U] 某事发生的背景、来龙去脉（能帮助你理解这件事）:
+n. [C, U] 上下文、语境:
+context |[ˈkɒntekst;美ˈkɑ:n-]
+This speech needs to be set in the context of Britain in the 1960s. 这篇演说需要放到20世纪60年代的英国这一背景之下来看待。
+You have to look at these remarks within the context of the recent scandals. 你得把这些话放在最近的丑闻背景下加以考虑。
+We are doing this work in the context of reforms in the economic, social and cultural spheres. 我们是在对经济、社会、文化诸领域进行改革的背景下从事这项工作的。
+the historical context in which Chaucer wrote 乔叟写作的历史背景 
+His decision can only be understood in context. 只有了解来龙去脉才能明白他的决定。
+Taxation is not popular in principle, merely acceptable in context. 征税基本上是不受欢迎的，在一定情境中才勉强为人接受。
+It is important that we put Jesus into the context of history. 我们将耶稣置于历史环境中来看是很重要的。
+You have to see the problem in a wider context. 你必须从更广阔的背景来看这个问题。
+a work which transcends its immediate historical context and speaks to later generations 一部超越当时历史背景、与后代对话的作品 
+These actions only have meaning within certain specific contexts. 这些行为只有在特定情形下才有意义。
+It is natural to find conflict in the work environment, in the family, or any other human context. 在工作场合、家庭内部，或其他任何与人有关的环境下出现冲突是很正常的。
+experimental, theoretical context 实验背景；理论背景 
+cultural, economic, educational context 文化背景；经济背景；教育背景 
+geographical, historical, legal, literary, political, religious, social context 地理背景；历史背景；法律背景；文学背景；政治背景；宗教背景；社会背景 
+Christian context 基督教背景 
+Institutions provide a context in which individuals can take on different roles. 机构为个体提供能够发挥不同作用的环境。
+How can teachers create the right context for kids? 教师如何才能给孩子们创造适当的环境？
+Similar problems have arisen in other contexts. 在其他情况下也出现过类似的问题。
+a neutral context for sharing and debating ideas 交流思想和进行辩论的中立环境
+You should be able to guess the meaning of the word from the context. 你应该能从上下文猜出这个词的含义。
+to present examples of language in use in an appropriate context 举出在恰当语境中语言运用的例子 
+Without a context, I would have assumed it was written by a man. 如果没有上下文，我会以为这是出自一名男子笔下。
+This quotation has been taken out of context (= repeated without giving the circumstances in which it was said). 这条引语是断章取义。
+Thomas says that he has been taken out of context on the issue. 托马斯说，在这个问题上他的话被断章取义了。
+Quotes can be manipulated and used out of context. 引语可能会被篡改，使用时断章取义。
+
+vt.&vi. 通常以一种令人不快的方式来控制某人或某事物，或对其施加过多影响，可称为支配、左右等:
+vt. 在某事物中具有最重要或最明显的特色:
+vt.（建筑物、山或其它物体）高耸于（一个地区）:
+vt.（建筑物、山或其它物体）俯视（一个地区）:
+vt. [体育] 在比赛中占据主导优势:
+dominate |[ˈdɒmɪneɪt;美ˈdɑ:m-]
+As a child he was dominated by his father. 他小时候由父亲主宰一切。
+He tended to dominate the conversation. 他往往左右着交谈的内容。
+She always says a lot in meetings, but she doesn't dominate. 她在会上总是滔滔不绝，但她的话没什么影响。
+He denied that his country wants to dominate Europe. 他否认他的国家想要控制欧洲。
+Women are no longer dominated by the men in their relationships. 在两性关系中女性不再受制于男性。
+He never let his work dominate his life. 他绝不让工作主宰他的生活。
+The train crash dominated the news. 火车相撞事故成了最重要的新闻。
+to dominate the headline 成为最重要的新闻标题 
+The book is expected to dominate the best-seller lists. 这本书预计会占据畅销书排行榜的榜首。
+countries where life is dominated by war 战事频繁的国家 
+the issues which have dominated Irish politics 主宰爱尔兰政治的一些问题 
+The power station dominates the landscape. 该地区满眼都是发电站。
+His writings on motorized warfare dominated strategic thinking in the 1930s. 他关于机械化战争的文章主宰了20世纪30年代的战略思维。
+The cathedral dominates the city. 大教堂俯视全城。
+its skyline dominated by the central mosque 中央的清真寺高耸天际 
+It's one of the biggest buildings in this area, and it really dominates this whole place. 这是该地区最大的建筑物之一，雄踞在整个地区之上。
+The cathedral dominates the city. 大教堂俯视全城。
+Arsenal dominated the first half of the match. 阿森纳队在上半场比赛中占据上风。
+
+
+flyover |英 ['flaɪəʊvə]  美 ['flaɪovɚ]| n. 天桥；立交桥；立交马路/
+
+
+
+Something that is quaint is attractive because it is old-fashioned. 古雅的
+quaint |英 [kweɪnt]  美 [kwent]| adj. 古雅的；奇怪的；离奇有趣的；做得很精巧的/
+...a small, quaint town with narrow streets and traditional half-timbered houses.…一座古朴的小镇，有着狭窄的街道和传统的半木制房屋。
+
+
+vi. [正式] dispose of sb/sth 成功地处理一个问题或威胁:
+vi. [正式] dispose of sb/sth 杀死某人:
+vi. [正式] dispose of sb/sth 击败某人:
+vt. [正式] ~ sb to/toward(s) sth 使某人以某种方式行事:
+vi. [正式] dispose of sb/sth 去除或清除（不想要或不能保有的）某人或某事物:
+vt. [正式] 以某种方式来安排、布置、排列事物或人:
+dispose |[dɪˈspəʊz;美dɪˈspoʊz]
+That seems to have disposed of most of their arguments. 这样就似乎把他们的大部分论点都驳倒了。
+It took her a mere 20 minutes to dispose of her opponent. 她仅用了20分钟就击败了对手。          
+a drug that disposes the patient towards sleep 使病人想睡觉的药
+the difficulties of disposing of nuclear waste 处理核废料的困难 
+to dispose of rubbish 清除垃圾 
+to dispose of nappy 处理掉尿布 
+to dispose of stolen property 销赃 
+to dispose of stock 清除库存 
+to dispose of asset 处理掉资产 
+to dispose of property 处理掉不动产 
+to dispose of mine 排除地雷 
+to dispose of myth 破除迷信
+
+vt.&vi.（尤指通过规章制度、规则）控制、约束、管理:
+vt. 调节，控制（机器或系统的速度、压力、温度等）:
+regulate |[ˈregjuleɪt]
+The activities of credit companies are regulated by law. 信贷公司的业务受法律的制约。
+It is up to the regulating authority to put the measures into effect. 应该由管理部门落实这些措施。
+The powers of the European Commission to regulate competition are increasing. 欧盟委员会对竞争的监管权越来越大。
+The use of these chemicals is strictly regulated. 这些化学品的使用受到严格管制。
+Tobacco is a federally regulated product. 烟草是属于联邦监管的产品。
+a code of conduct intended to regulate press reporting on the royal family 为管控媒体报道王室信息而订立的一套行为规范
+This valve regulates the flow of water. 这个阀门调节水流。
+As we get older the temperature-regulating mechanisms in the body tend to become a little less efficient. 随着年龄的增长，人体体温调节机制的功能往往会有所弱化。
+
+n. [usually pl.] 抗生素（如青霉素）:
+adj. 抗生素的:
+antibiotic |[ˌæntibaɪˈɒtɪk;美-ˈɑ:tɪk]
+The doctor put her on antibiotics (= told her to take them). 医生要她服用抗生素。
+Your doctor may prescribe a course of antibiotics. 你的医生可能会开一个疗程的抗生素。
+Did you remember to take your antibiotics? 你记着吃抗生素了吗？
+Meat from animals that receive antibiotics could not be classified as organic. 注射过抗生素的动物的肉不能归为有机食品。
+I got an antibiotic for my ear infection. 我买了治疗耳部感染的抗生素。
+an antibiotic drug 抗生素药 
+effective antibiotic treatment 有效的抗生素治疗
+
+vt. 1（尤指通过提供一个可供追随或模仿的范例而）对某人的行为方式或思维方式产生影响:
+2 对某种形势及该形势的发展方式产生影响:
+n. 1 [U, C] influence (on/upon sb/sth) 某人或某事物对一个人的思维方式、行为方式（或对某事物的运行方式、发展方式）所产生的影响或作用。是一个常规用词，极为常用:
+2 [U] influence (over sb/sth) 某人或某事物对其它人或事物的行为方式所具有的影响力、支配力:
+3 [C] influence (on sb/sth) 对一个人的行为方式或思维方式具有影响力的一个人或事物:
+influence |['ɪnflʊəns]
+His writings have influenced the lives of millions. 他的作品影响了千百万人。
+The wording of questions can influence how people answer. 问题的措辞会影响人们的回答。
+He was naive and easily influenced by his friends. 他很幼稚，容易受朋友影响。
+A number of social factors influence life expectancy. 诸多社会因素左右着人的预期寿命。
+Pressure from industry bosses has directly influenced government policy. 来自实业界老板们的压力直接影响了政府政策。
+He had a profound influence on modern poets. 他对现代诗人产生了深远的影响。
+the influence of the climate on agricultural production 气候对农业生产的影响 
+the effects of peer influence on crime 同辈影响在犯罪中的作用 
+Her parents no longer have any real influence over her. 她的父母对她不再有任何真正的影响力了。
+He committed the crime under the influence of drugs. 他是在吸毒后犯罪的。
+The unions have been able to extend their influence over all industries. 工会已将其影响力扩大到所有行业。
+The Internet’s influence is growing every day. 互联网的影响力日益增强。
+His first music teacher was a major influence in his life. 他的第一位音乐老师是他一生中对他影响非常大的人。
+He is a writer who draws upon diverse cultural influences. 他是一位在写作中汲取多种文化养料的作家。
+
+n. [sing, U] 行文（或说话）的某种风格:
+n. [sing, U] 气氛:
+n. [sing, U] 少许、略带:
+n. [sing.] ~ (of sth) 几分，若干（指在某人的行为或工作中常表现出的某种品质）:
+n. [C]（植物叶子上的）叶脉:
+n. [C]（昆虫翅膀上的）翅脉:
+n. [C]（石头、木头、奶酪上的）纹理、纹路:
+n. [sing, U] 行文（或说话）的某种风格、语气:
+n. [C] 矿层；矿脉；岩脉:
+n. [C] 静脉:
+vein |[veɪn]
+It is one of his finest works in a lighter vein. 这是他行文风格轻松活泼的作品中最出色的作品之一。
+Fortunately, the rest of the evening continued in a lighter vein. 值得庆幸的是，那天晚上后来的气氛变得轻松了。
+The team have hit a rich vein of form recently. 近来球队已达到最佳竞技状态。
+The writer tapped into a rich vein of sentiment in the play. 作者在剧中加入了大量的情感元素。
+This Spanish drama has a vein of black humour running through it. 这出西班牙戏剧自始至终都带有几分黑色幽默。
+The striker's rich vein of form this season has seen him net 32 goals. 这位前锋本赛季状态奇佳，进球已达到32个。
+They had tapped a rich vein of information in his secretary. 他们从他的秘书那里摸到了大量信息。
+the serrated edges and veins of the feathery leaves 羽状叶子的锯齿边沿和纹理
+A number of other people commented in a similar vein. 其他一些人也以类似的腔调评论。
+‘And that's not all, ’ he continued in angry vein. “那还不算全部呢。”他生气地继续说道。
+It is one of his finest works in a lighter vein. 这是他行文风格轻松活泼的作品中最出色的作品之一。
+The girl now replies in similar vein. 这个女孩现在以相似的口吻回答。
+a vein of copper 铜矿层 
+a vein of gold 金矿脉 
+a rich and deep vein of limestone 储量丰富的深层石灰石矿脉
+jugular vein 颈静脉 
+hepatic, pulmonary, renal vein（均为医学术语）肝静脉；肺静脉；肾静脉 
+Many veins are found just under the skin. 许多静脉血管就在皮肤下面。
+A blue vein throbbed in his fore-head.他额头上的一根青筋突突直跳。
+broken（尤英）, spider（尤美）, thread（尤英）, varicose vein 破裂的静脉；蛛状静脉曲张；丝状脉纹；曲张的静脉 
+She uses make-up to hide the thread veins in her cheeks. 她靠化妆来遮掩面颊上的红血丝。
+He felt the adrenalin coursing through his veins. 他感觉到自己血脉贲张。
+The philosopher Seneca opened his veins in his bath. 哲学家塞内加在浴缸里割开了自己的静脉。
+The veins stood out on her throat and temples. 她的脖子和太阳穴处青筋暴起。
+There's a drop of Irish blood in her veins. 她有一点儿爱尔兰血统。
+
+n. 1 [U] ~ (with sth/sb) 某人满脑子都是某人或某事的一种非正常状态，如痴迷:
+2 [C] ~ (with sth/sb) 让人想得太多的一个人或事物:
+n. [U] ~ (with sth/sb) 某人满脑子都是某人或某事的一种非正常状态，如着魔；困扰:
+obsession |[əbˈseʃn]
+The media's obsession with the young prince continues. 新闻媒体继续对小王子进行连篇累牍的报道。
+She would try to forget her obsession with Christopher. 她会努力忘记对克里斯托弗的迷恋。
+Fitness has become an obsession with him. 他迷上了健身。
+Don't let this interest of yours become an obsession. 不要让你的这一兴趣迷了心窍。
+He thinks all women have an obsession with shoes. 他认为女人都迷恋鞋。
+I don't understand television's current obsession with reality shows. 我不明白现在电视节目为什么醉心于真人秀。
+95% of patients know their obsessions are irrational. 95％的病人都知道他们的痴迷是不理智的。
+Her fear of flying is bordering on obsession. 她怕坐飞机几乎到了不可救药的地步。
+
+n. 1 [sing.] 用来投资或创办商业机构的一大笔钱，即资本；启动资金:
+2 [U] 不包含利润的那一部分资金，即本金，本钱:
+3 [U] 公司或个人所拥有的财富或财产（可指用于生产产品的建筑或机械设备）:
+n. [U] [术语] 用资金来启动公司的一个群体，即资方:
+n. 1 [C] 首都，也叫capital city:
+2 [C]（某一产业或活动的）有名之地；即…之都:
+n. [C] 建筑中可指柱子（column）的顶端，也可叫做chapiter或cap:
+adj. 只作前置定语，涉及死罪的，可处死刑的:
+n. [C] 大写字母，也可叫capital letter:
+adj. 只作前置定语，（字母表中的字母）大写的:
+adj. [旧时，英] 出色的，极好的，相当于excellent:
+capital |['kæpɪtl]
+risk, venture capital 风险资本 
+start-up capital 启动资金 
+fixed capital 固定资本 
+working capital 营运资本 
+human, intellectual, political（均为比喻用法）capital 人力资本；智力资本；政治资本 
+to raise capital 融资 
+capital and interest 本金和利息 
+Our capital is all tied up in property. 我们的资金都套牢在房地产上无法动用。
+capital assets 资本资产 
+equity capital 股本 
+capital costs 资本成本 
+capital accumulation, capital growth 资本积累；资本增值 
+capital gain 资本收益 
+a return on the capital 资本回报 
+capital market 资本市场 
+capital outflow 资本外流
+capital and labour 资方与劳方
+Beijing is the capital of China. 北京是中国的首都。
+provincial, regional, state capital 省会；地区首府；州府 
+the fast pace of life in the capital 首都的快节奏生活 
+the fashion capital of the world 世界时装之都 
+cultural capital 文化之都 
+finance, financial capital 金融中心城市
+Espionage is a capital offence in this country. 间谍活动在这个国家是死罪。
+Please write in capitals(=in capital letters). 请用大写字母书写。
+English is written with a capital ‘E’. English一词中字母E大写。
+
+vi.（使）（运动中的事物）突然转弯:
+n. [C]（运动中的事物的）突然转向:
+vi.（使）（尤指车辆）突然转弯（尤指为了避免撞到某人或某事物）:
+n. [C]（尤指车辆的）突然转向:
+swerve |[swɜ:v;美swɜ:rv]
+The bus suddenly swerved into his path. 公共汽车突然拐到了他走的路上。
+The ball swerved into the net. 球在空中划了一条弧线，进了球门。
+She swerved sharply to avoid a cyclist. 她猛地急转弯，以躲开一个骑自行车的人。
+The car swerved sharply to avoid the bus. 这辆汽车猛地转向以避让公共汽车。
+Drivers coming in the opposite direction swerved to avoid the bodies. 从对面来的汽车司机急忙转向以免撞到那些尸体。
+The car veered out of control and swerved across the road. 汽车失去控制，突然转向冲过马路。
+Her car swerved off the road into a 6ft high brick wall. 她的车突然转向冲出了马路，撞向 6 英尺高的一面砖墙。
+The bus suddenly swerved into his path. 公共汽车突然拐到了他走的路上。
+The car made a sudden swerve to the left. 汽车突然向左急转。
+
+n. 1 [usually pl.]（其它部分被使用、移除、损坏等之后所剩下的）残余部分、剩余部分:
+2 [C] 卖完布匹后剩下的布头（通常可以将其便宜卖掉）:
+n. 1 [usually pl.]（其它部分被使用、移除、损坏等之后所剩下的）残余部分、剩余部分:
+2 [C] 卖完布匹后剩下的布头（通常可以将其便宜卖掉）:
+remnant |[ˈremnənt]
+The woods are remnants of a huge forest which once covered the whole area. 这片树林只是剩下的一部分，原来这一带是一大片森林。
+After twenty-four hours of fighting, the remnants of the force were fleeing. 战斗持续了24个小时后，该部队残部打算溜掉。
+Beneath the present church were remnants of Roman flooring. 在现在的教堂下面是古罗马时期地面的遗存。
+The museum is one of the last remnants of the 17th-century palace. 博物馆是这座17世纪宫殿最后残存的遗迹之一。
+the tattered remnants of the flag 破旧旗帜残留的布条 
+She still has a chance to scrape together the shattered remnants of her life and move on.（比喻用法）她仍然有机会重整自己以往支离破碎的生活，继续前行。
+Their outdated attitudes are a remnant from colonial days.（比喻用法）他们过时的观念是殖民地时代的残余。
+The woods are remnants of a huge forest which once covered the whole area. 这片树林只是剩下的一部分，原来这一带是一大片森林。
+After twenty-four hours of fighting, the remnants of the force were fleeing. 战斗持续了24个小时后，该部队残部打算溜掉。
+Beneath the present church were remnants of Roman flooring. 在现在的教堂下面是古罗马时期地面的遗存。
+The museum is one of the last remnants of the 17th-century palace. 博物馆是这座17世纪宫殿最后残存的遗迹之一。
+the tattered remnants of the flag 破旧旗帜残留的布条 
+She still has a chance to scrape together the shattered remnants of her life and move on.（比喻用法）她仍然有机会重整自己以往支离破碎的生活，继续前行。
+Their outdated attitudes are a remnant from colonial days.（比喻用法）他们过时的观念是殖民地时代的残余。
+
+n. [C]（意欲赢得某物或战胜某人的）企图，尝试:
+vt.&vi.（使）变得倾斜、倾侧:
+vt.&vi.（略微）倾侧身体部位，仰头，把头歪向一边:
+n. [C] 倾斜、倾侧；倾斜度:
+vt.&vi.（使）变得倾斜、倾侧:
+vt.&vi.（使）倾向于（某个观点或形势）:
+n. [sing.]（对某个观点、形势等的）倾向、偏向:
+tilt |[tɪlt]
+His first tilt at Parliament came in the same year but he failed to win the seat. 同年，他首次尝试进入国会，但没有赢得席位。
+He was determined to use his remaining year with Manchester United for one last tilt at the League title. 他决心利用他效力曼彻斯特联队的剩余一年时间最后一次冲击联赛冠军。
+She aims to have a tilt at the world championship next year. 她的目标是明年问鼎世界冠军。
+Suddenly the boat tilted to one side. 小船突然倾向一侧。
+The ground tilted sharply downwards/downward. 地面急剧下倾。
+The seat tilts forward, when you press this lever. 按这个控制柄，座位就向前倾斜。
+His hat was tilted slightly at an angle. 他的帽子有点歪。
+She tilted the mirror and began to comb her hair. 她斜过镜子开始梳理头发。
+Tilt the mirror away from you. 把镜子向后倾斜。
+Leonard tilted his chair back on two legs and stretched his long body. 伦纳德把椅子向后倾斜，仅以两条腿作支撑，然后舒展开他长长的身躯。
+She tilted her head back and looked up at me with a smile. 她仰起头含笑看着我。
+Mari tilted her head back so that she could look at him. 玛丽把头向后仰，以便能看到他。
+Her face was tilted towards/toward the sky. 她仰面朝天。
+She thought for a minute, her head tilted to one side. 她歪着头想了一会儿。
+His wife tilted his head to the side and inspected the wound. 妻子把他的头侧过去检查他的伤口。
+The table is at a slight tilt. 这桌子有点儿歪。
+He answered with a tilt of his head. 他歪着头回答。
+calculations based on our understanding of the tilt of the earth's axis 基于我们对地轴倾斜度的了解的计算 
+the abrupt tilt of the hill 山势的陡峭 
+I positioned the photo at a slight tilt. 我把照片稍微倾斜着放。
+a tilt to the left 歪向左边
+Suddenly the boat tilted to one side. 小船突然倾向一侧。
+The conditions may tilt the balance in favour of the Kenyan runners. 这些条件可能对肯尼亚赛跑运动员有利。
+Popular opinion has tilted in favour of the socialists. 公众舆论已倒向社会党人一边。
+When the political climate tilted towards fundamentalism he was threatened. 当政治气候倾向于原教旨主义时，他受到了威胁。
+He continued to urge the Conservative Party to tilt rightwards. 他继续敦促保守党奉行右倾路线。
+The chairman also criticised the plan for its tilt towards higher taxes rather than lower spending. 主席也批评该计划倾向于主张高税收而不是低消费。
+
+n. [C] 通行证，或车票等。该证件表明你有权进入或离开一个地方，或有权乘公交、火车等:
+n. [C] 过程中的一个阶段，尤指整体过程中的一个小步骤:
+vt. 花费时间，尤指当你厌烦时或正等着…时，即消磨、打发:
+vi. 时间推移或逝去:
+vt. 指数量变得比某个总量更大，即超过，大于:
+vt. 使某事物沿着某个方向运动；或使某事物运动到某个位置:
+vi. 1 允许…发生:
+2 pass (between A and B) 发生；被说出或被做出:
+vi. 结束，完结:
+vi. pass from sth to/into sth 从一种状态或条件转变到另一种状态或条件:
+vi. 纸牌游戏中可指不出牌或不叫牌，即过:
+vt. pass sth (on sb/sth) 说或陈述某事，尤指正式地，即宣布、声明:
+vi. pass (on sth)（尤指在参加电视智力节目等的小测试时）说你不知道一个问题的答案，即不知道，过:
+vt.＆vi. 移动通过…，或移动到…的另一侧:
+vi. 沿某个方向前进或运动:
+n. 1 [C] 穿过山脉的一条路（这条路可以指穿过山内部的路，也可以指山地表面上的路）:
+2 [C] 从…上面经过、越过或飞过:
+pass sb sth 把…递给（或传给）某人:
+vi. pass to sb（尤指在某人死后）…被转移给另一个人，即遗留给（继承人等）:
+vi. pass (on sth) 说你不想要别人给予你的东西，即免掉:
+vt.（将…作为废物或与废物）排出体外:
+vt.＆vi. pass (sth) (to sb)（在球类运动中，用踢、投掷或击打等方式）传球:
+n. [C] 某些运动中（尤指球类运动）的传球:
+vt.＆vi. 在测验或考试中达到既定的标准，即及格:
+vt. 对某人进行测试，并根据既定的标准准许某人通过，承认其测试合格:
+n. [C] [尤英] 考试中的及格、通过:
+vt. 通过表决来通过一项动议或一部法律等:
+vt. pass belief, understanding, etc. [正式] 超出你能相信、理解等的限度:
+pass |[pɑːs][pɑːs]
+bus, rail pass 公交车票；火车票 
+boarding pass 登机牌 
+security pass 安全通行证 
+hall pass（美）门厅出入证 
+press, VIP pass 记者证；VIP通行证 
+a pass to Disneyland 迪士尼乐园门票
+in the first pass 第一步
+We played games to help pass the time. 我们玩游戏借以消磨时间。
+Ten years had passed quickly and his wife was still not back. 转眼十年过去了，他的妻子仍然没有回来。
+Unemployment has now passed the ten million mark. 失业人数现已突破一千万大关。
+to pass the rope around the post several times to secure it 把绳子在柱子上绕几圈以扎紧
+His remarks passed without comment. 人们对他的讲话未予理睬。
+In the confusion her departure passed unnoticed. 混乱之中，没有人注意到她走了。
+How did such a disaster come to pass?（正式或旧时用法）这样的灾难是怎样发生的？
+I don’t like it, but I’ll let it pass. 我不喜欢，但我也不会反对。
+They’ll never be friends again after all that has passed between them. 他们之间发生了所有那些事情后，再也不会是朋友了。
+We were waiting for the rain to pass. 我们当时正等着雨停。
+I have passed from a child to an adult. 我已经从一个孩子变为了成年人。
+to pass sentence 宣判 
+It’s not for me to pass judgement on his behaviour. 我无权对他的行为做出评判。
+to pass a friendly remark 说句亲切的话
+Pass. 不知道。 
+a passing car 一辆路过的车 
+to pass a barrier 通过一道障碍 
+to pass a bank on the way to the school 在通往学校的路上经过一家银行 
+He passed me without saying a word. 他与我擦肩而过，一句话也没说。
+to pass along the street 沿街行进 
+mountain pass 山口 
+A road was built through the pass. 修建了一条通过隘口的道路。
+We took the high pass over the ridge. 我们从山脊的高山口通过。
+The helicopter made several passes over the base before landing. 直升飞机在基地上空盘旋数次才降落。
+vt. pass sth (to sb) 
+Pass me over the book. 请把那本书递给我。
+On his death, the title passed to his eldest son. 他死后，封号传给长子。
+I’m going to pass on the dinner, if you don’t mind. 您若不介意，吃饭就免了吧。
+to pass blood 便中带血 
+to pass the ball to sb 把球传给某人 
+to pass back to sb 把球回传给某人 
+to pick up a long pass from sb（接到某人的长传）接到某人的长传 
+to play a back pass to the goalkeeper（足球运动中）将球回传给守门员 
+forward pass（橄榄球运动中）向前传球 
+bounce pass（篮球运动中）反弹传球 
+to pass the exam 通过该次考试（或及格）
+to pass him 评定他及格 
+The pass mark is 60. 及格成绩为60分。
+She barely scraped a pass in chemistry. 她化学考试勉强及格。
+pass rate 通过率
+The proposal has been passed by 280 votes to 110. 该议案以280票对110票获得通过。
+to narrowly pass the legislation 勉强通过该项立法
+It passes belief that he could do such a thing. 很难相信他会做出这种事来。
+
+adj.（玻璃、液体等）不透明的、不透光的、浑浊的:
+adj.（说话或写作）难懂的、不清楚的:
+opaque |[əʊˈpeɪk;美oʊ-]
+opaque glass 不透明的玻璃 
+opaque tights 不透明的连裤袜 
+As the lens becomes more opaque, the patient notices a falling off in vision. 随着晶状体变得更浑浊，病人会感到视力减弱。
+These crystals are completely opaque and nearly black. 这些水晶一点儿也不透明，几乎是黑的。
+The glasses looked slightly opaque. 这副眼镜看起来有点儿模糊。
+The windows were nearly opaque with grime. 窗户满是污垢，几乎不透光。
+Add the rice to the pan and cook until it becomes opaque. 把米倒进锅里，煮至透明。
+The jargon in his talk was opaque to me. 他谈话中使用的行话对我是一团迷雾。
+the opaque language of the inspector's reports 巡视员报告中晦涩难懂的语言 
+Both question and answer are rather opaque. 问题和答案都相当晦涩难懂。
+The complex administrative arrangements mean that the decision-making process remains somewhat opaque. 复杂的行政安排意味着决策过程依然有些不透明。
+The system is completely opaque to non-specialists. 在非专业人士看来，该系统完全无法理解。
+
+n. [U] 某人或某事物因其社会地位（或其所做的事情）而得到的尊重或敬仰，如威信、威望、声望:
+adj. 因其看起来重要或昂贵而受人羡慕和尊敬的，如名贵的、讲究派头的。相当于luxury:
+adj. [只用于名词前] 带来尊敬和敬仰的（即令人敬仰的）；重要的:
+prestige |[preˈsti:ʒ]
+personal prestige 个人声望 
+military, political, social prestige 军事威望；政治声望；社会声望 
+academic, intellectual prestige 学术声望 
+occupational prestige（美）职业声望 
+Winning the prize carries immense prestige. 获奖带来很高的声望。
+efforts to build up the prestige of the United Nations 为树立联合国的威望所作的努力 
+It was his responsibility for foreign affairs that gained him international prestige. 他在负责处理外交事务的过程中赢得了国际声望。
+an international company that enjoys immense prestige 声名显赫的跨国公司 
+Lavish hospitality allows the host to gain prestige. 盛情的款待使主人获得声望。
+Different jobs are accorded different levels of prestige. 不同的工作被赋予不同的社会声望。
+Owning landed property confers prestige. 拥有地产给人以声望。
+The royal couple's prestige was damaged by the allegations. 这对王室夫妇的威信因这些指控而受损。
+the party's prestige among the public 该政党在公众中的威望 
+The post carried great prestige within the police force. 这个职位在警察系统内很受尊重。
+Doctors have suffered a loss of prestige following a spate of scandals. 接二连三的丑闻使医生名誉扫地。
+Wearing designer clothes is a matter of personal prestige for many teenagers. 对很多青少年来说，穿名牌服装是一件关于个人声望的事。
+There is a lot of prestige attached to owning a car like this. 拥有这样一部汽车会显得很气派。
+jobs with low prestige 地位低微的工作
+such prestige cars as Cadillac, Mercedes, Porsche and Jaguar. 像凯迪拉克、奔驰、保时捷和捷豹这样气派的汽车          
+a prestige job 体面的工作
+
+n. [C] 险境、绝境、危局:
+n. [C] 非常陡峭且高耸的悬崖、山或岩石:
+precipice |[ˈpresəpɪs]
+The King now stands on the brink of a political precipice. 国王现在处于政治上岌岌可危的境地。
+The country was now on the edge of a precipice (= very close to disaster). 这个国家现在情势岌岌可危。
+I was beginning to admit to myself that our marriage was rolling toward the edge of a precipice. 我内心开始承认我们的婚姻正走向危险的边缘。
+
+n. [pl.] 城镇（或城市）的郊区:
+outskirts |[ˈaʊtskɜ:ts;美-skɜ:rts]
+city outskirts 市郊 
+northern outskirts 北郊等 
+a school in the outskirts of Athens 雅典郊区的一所学校 
+We were driving through the outskirts of Baghdad. 我们正开车穿过巴格达市郊。
+They live on the outskirts of Milan. 他们住在米兰市郊。
+Hours later we reached the outskirts of New York. 我们几小时后到达了纽约市郊。
+
+~ (to do sth) 拒绝（做、给予或接受）:
+refusal |[rɪˈfju:zl]
+the refusal of a request, the refusal of an invitation, the refusal of an offer 拒绝请求；拒绝邀请；拒绝建议 
+His refusal to discuss the matter is very annoying. 他拒绝商量这件事，令人很恼火。
+her refusal to accept change 她对变革的拒绝 
+His letter in response to her request had contained a firm refusal. 对于她的请求他在信中给予了坚决的回绝。
+the panel's point-blank refusal to release the information 委员会断然拒绝披露信息 
+her utter refusal to do anything to help 她全然拒绝帮任何忙 
+the enemy's steadfast refusal to accept defeat 敌人顽固地拒不认输 
+first refusal（英）优先购买权 
+If you decide to sell your car, I hope you'll give me first refusal(= the opportunity to buy it before it is offered to others). 你要是决定把车卖掉，我希望你能给我优先购买权。
+Her appeals for funds to support the cause were met with outright refusals. 她为支持这一事业而筹集资金的呼吁遭到了断然拒绝。
+He accepted my refusal with a shrug. 他耸耸肩，对我的拒绝表示了接受。
+a refusal by a patient to accept the recommended treatment 病人对推荐的治疗方案的拒绝 
+a refusal of consent（英，法律）拒绝同意 
+a refusal of consent to blood transfusions 不同意输血 
+their refusal on religious grounds to perform military service（refusal on...grounds尤为英式用法）出于宗教原因，他们拒绝服兵役
+
+vt.&vi. 对一个地区或移动建筑物进行规律地巡逻或巡查（以看是否安全或是否存在麻烦）:
+n. [C, U] 对一个地区或移动建筑物进行的巡逻或巡查（以看是否存在罪案）:
+vt.（尤指威胁性地以开车或行走的方式）逛荡，闲逛:
+n. [C] 童子军小队:
+n. [C] 军队的巡逻队、巡逻车队、巡逻船队:
+n. [C] 警察巡逻队、巡逻车队、巡逻船队:
+patrol |[pəˈtrəʊl;美pəˈtroʊl]
+Troops patrolled the border day and night. 军队日夜在边境地区巡逻。
+Guards can be seen patrolling everywhere. 到处都能见到保安人员在巡逻。
+Prison officers continued to patrol the grounds within the jail. 狱警继续巡视监狱。
+routine patrol 日常巡逻 
+special patrol（英）特别巡逻 
+armed patrol 武装巡逻 
+mounted patrol 骑马巡逻 
+reconnaissance patrol 侦察巡逻 
+dawn, night patrol 拂晓巡逻；夜间巡逻 
+air, army, military, naval, police, security patrol 空中巡逻；军事巡逻；海上巡逻；警察巡逻；安全巡逻 
+enemy patrol 敌方巡逻 
+border patrol 边境巡逻 
+coastal, shore, harbour/harbor（尤美）, maritime patrol 海岸巡逻；港口巡逻；海上巡逻 
+highway（美）, traffic（英）patrol 公路巡逻；交通巡逻 
+helicopters used for traffic patrols 用于交通巡逻的直升机 
+safety patrol（美）(= to help children cross the street, etc.) 安全巡逻 
+The Italians flew regular patrols over the desert. 意大利当局定期在沙漠上空飞行巡逻。
+They maintain a continuous patrol of the oceans with three submarines. 他们派出三艘潜艇保持不间断的海上巡逻。
+One soldier was killed when his patrol was ambushed. 一名土兵巡逻时遭到伏击身亡。
+patrol duty 巡逻值班 
+Security guards make regular patrols at night. 夜间保安人员定时巡逻。
+a police car on patrol 巡逻的警车 
+police officers on patrol 执行巡逻任务的警察 
+The army is now on patrol in Srinagar and a curfew has been imposed. 军队目前在斯利那加巡逻，且已实行了宵禁。
+Security forces remained on patrol until late into the night. 保安部队继续巡逻至深夜。
+Gangs of youths patrol the streets at night. 夜里成帮结伙的年轻人在街上闲逛。
+naval patrol 海军巡逻队 
+patrol aircraft, patrol boat, patrol car, patrol craft, patrol vehicle, patrol vessel 巡逻机；巡逻船；巡逻车；巡逻艇 
+Guerrillas attacked a patrol with hand grenades. 游击队用手榴弹袭击了巡逻队。
+a border patrol operating near the Burmese frontier 在缅甸边界巡逻的边境巡逻队 
+They sent out four-man patrols to scout the area. 他们派出由四人组成的巡逻队去那一地区侦查。
+police patrol 警察巡逻队 
+patrol aircraft, patrol boat, patrol car, patrol craft, patrol vehicle, patrol vessel 巡逻机；巡逻船；巡逻车；巡逻艇 
+Every police car and foot patrol in the area is on full alert. 该地区每辆警车和每名步行的巡警都处于高度警戒状态。
+The highway patrol has sealed off the area. 公路巡警已经封锁了该地区。
+
+n. [C] 比喻用法中可指某事物的最佳代表:
+n. [C] 一国驻另一国的大使:
+ambassador |[æm'bæsədə][æm'bæsədə]
+He’s a great ambassador for the sport of bodybuilding. 他是杰出的健美运动形象大使。
+the British Ambassador in Rome 英国驻罗马大使 
+unofficial ambassador 非官方大使 
+special ambassador 特使 
+goodwill ambassador 亲善大使 
+to send an ambassador to Paris 派遣一名使臣去巴黎
+
+vt. shower sb with sth 朝某人抛洒…:
+n. 1 [C] 淋浴器:
+2 [C] 淋浴间:
+3 [C] 一个地方（如体育馆等）的浴室:
+4 [C] 淋浴:
+vi. 洗淋浴:
+n. [C] 美式用法中可指为即将结婚或分娩的妇女举行的送礼聚会:
+n. [C] 一起到来或一起落下的大量事物:
+shower down 洒落到…上，尤指大量的小东西洒落:
+vt. shower sb with sth 朝某人抛洒…:
+shower sth on sb 大量地给予某人某东西:
+n. [C] 阵雨或阵雪:
+shower |['ʃaʊə]
+to shower the refugees with rice 朝难民们抛撒大米 
+He was showered with dust. 他身上落了灰尘。
+to turn on the shower 拧开淋浴器 
+electric shower（尤英）电热淋浴器 
+to sing in the shower 在淋浴间唱歌 
+communal shower 公共淋浴间 
+The showers are a mess. 那些浴室一片狼藉。
+hot, warm shower 热水淋浴；温水淋浴 
+brief, quick shower 快速淋浴 
+shower curtain, shower room 淋浴帘；淋浴室 
+shower head 花洒头 
+shower gel 浴液 
+shower cap 浴帽 
+It’s time to shower. 该淋浴了。
+baby shower 新生儿送礼派对 
+wedding shower 婚礼送礼派对 
+shower gift 送礼派对礼品
+a shower of leaves 纷纷落下的叶子 
+a shower of kisses 一阵亲吻 
+dust, meteor shower 尘（阵）雨；流星雨 
+a shower of sparks 一阵洒落的火星子
+vi. shower (down) on sb/sth 
+Sand showered down on the ground. 沙子洒落到地上。
+to shower the refugees with rice 朝难民们抛撒大米 
+He was showered with dust. 他身上落了灰尘。
+vt. shower sb with sth 
+He showered her with gifts. 他送给了她很多礼物。
+scattered showers 零星小雨 
+rain, sleet, snow shower 阵雨；雨夹雪；阵雪 
+heavy, light shower 大阵雨；小阵雨 
+blustery shower 一阵狂风骤雨
+
+adj. 家具和建筑物年代久远且状况极糟的，如破旧的:
+dilapidated |[dɪˈlæpɪdeɪtɪd]
+

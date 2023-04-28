@@ -1,0 +1,579 @@
+fetch						接来，取来，售得，给以
+clumsy						笨拙的，粗劣的，不娴熟的
+establishment				创立，编制，企业
+emit						散发，射出
+entertain					使快乐，款待，怀有
+entertaining					令人愉快的，款待
+irregular					不规则的，不合常规的
+psychologist					心理学家
+era						纪元，时代
+triumph					巨大成功，得意
+detection					发现，侦查
+cozy						舒适的，亲密的
+gallery					美术馆，瞭台，拍卖厅
+enormous					庞大的
+obtain						获得，赢得，存在
+desert						抛弃，背离，沙漠
+aviate						飞行员
+determine					查明，确定
+disappear					消失
+entitle					使享有权利
+relieve					减轻，卸除，调计，方便
+generosity					慷慨
+colleague					同事
+undertake					承担，从事
+convenient					方便的
+preferential					优惠的
+column						柱子，纵队，列
+affectionate					有爱心的，亲昵的
+issue						问题，期，发放，子女
+inquire					询问，打听
+groundless					无根据的
+\\\\\\\\
+
+vt. [尤英] 去某地并把…带回来，如取来等。其过程包含了去和来两个子过程，且为先去后回来:
+vt. 将被售得某个价格，将被卖到某个价格，相当于sell for:
+fetch |[fetʃ]
+to fetch help 去请人帮忙 
+to fetch a doctor 去请医生 
+to fetch the kids from school 去学校接孩子 
+to fetch my bag 去取我的包 
+to fetch water 去取水
+The painting is expected to fetch $800 at auction. 这幅画预计拍卖可得800美元。
+
+adj. 1（人和动物）移动或做起事来笨拙的、不灵巧的:
+2（行动和陈述）无技巧的；或冒犯人的:
+adj.（陈述）无技巧的；或冒犯人的:
+adj. 1（物体）难以移动的；难以使用的；设计欠佳的:
+2（程序）难处理的；太复杂而难以理解或难以使用的:
+clumsy |['klʌmzɪ]
+I spilt your coffee. Sorry--that was clumsy of me. 我弄洒了你的咖啡。对不起，我真是笨手笨脚的。
+His clumsy fingers couldn’t untie the knot. 他的手很笨拙，无法解开这个结。
+She made a clumsy attempt to apologize. 她本想道歉，但词语生硬。
+She made a clumsy attempt to apologize. 她本想道歉，但词语生硬。
+The complaints procedure is clumsy and time-consuming. 申诉程序复杂耗时。 
+
+n. [C] [正式] 组织机构；大型机构；商业机构；旅馆:
+n. [sing.]（通常用the Establishment）[常贬] 一个社会或专业领域中有影响力和权力的一些人，这些人通常反对变革，可称为“当权派”:
+n. [U]（组织机构、国家、关系、市场、体系、节日等的）建立、创立、设立:
+n. [sing.]（通常用the Establishment）[常贬] 一个社会或专业领域中有影响力和权力的一些人，这些人通常反对变革，可称为“当权派”:
+establishment |[ɪˈstæblɪʃmənt]
+educational, research, training establishment 教育机构；研究机构；培训机构 
+a scientific research establishment 科研机构 
+military, religious establishment 军事机构；宗教机构 
+catering, drinking, eating establishment 餐饮机构；饮品店；餐馆 
+licensed establishment（尤英）特许机构 
+commercial, retail establishment（均尤美）商业机构；零售机构 
+shops and other commercial establishments 商店和其他商业单位 
+The hotel is a comfortable and well-run establishment. 这家旅馆环境舒适且经营良好。
+the mainstream political establishment 政治领域的主流当权派 
+academic, art, literary, media, medical, military, musical, scientific establishment 学术界的当权派；技术界的实权人士；文学家的当权派；媒体界的实权人士；医学界的当权派；军事界的当权派；音乐节的当权派；科学界的当权派 
+clerical, ecclesiastical, religious establishment 教会当权者；宗教当权者 
+The British Establishment is very slow to accept change. 英国当权派不轻易接受变革。
+Democratic establishment 民主党的当权者 
+a pillar of the liberal establishment 自由派大佬 
+He challenged the conservative establishment on many things, 他在许多事情上对保守派当权者发起了挑战。
+His abstract paintings offended the art establishment. 他的抽象画触怒了艺术界的权威。
+young people rebelling against the Establishment 反对当权者的年轻人 
+Shopkeepers would once have been pillars of the Tory establishment. 商店店主一度本该成为保守党统治集团的重要支柱。
+What do you expect? This is the Establishment we're taking on. 你还期望什么？我们要应对的是“权威”。
+The speaker announced the establishment of a new college. 发言人宣布了新学院的成立。
+His ideas influenced the establishment of National Portrait Galleries in London and Edinburgh. 他的观念影响了伦敦和爱丁堡两所国家肖像艺术馆的建立。
+the establishment of an independent food and drugs agency 建立一个独立的食品和药品机构 
+This report led to the establishment of a special committee to investigate the matter. 该报道促使成立了一个特别委员会来调查此事。
+We would like to encourage the establishment of new farm businesses. 我们愿意鼓励建立新的农场企业。
+the establishment of private television stations 私人电视台的建立 
+the formal establishment of the republic in 1948 1948年该共和国的正式建立 
+the establishment of diplomatic relations between the countries 国家间外交关系的建立 
+With the establishment of major new markets, the economy is thriving. 随着大型新市场的建立，经济越来越兴旺。
+The months that followed saw the establishment of a strong military presence in the region. 在后来的几个月中该地区出现了大规模的驻军。
+The commission is calling for the establishment of a national holiday. 委员会呼吁设立一个全国性的节日。
+academic, art, literary, media, medical, military, musical, scientific establishment 学术界的当权派；技术界的实权人士；文学家的当权派；媒体界的实权人士；医学界的当权派；军事界的当权派；音乐节的当权派；科学界的当权派 
+His abstract paintings offended the art establishment. 他的抽象画触怒了艺术界的权威。
+What do you expect? This is the Establishment we're taking on. 你还期望什么？我们要应对的是“权威”。
+
+produce and discharge (something, especially gas or radiation):产生和排放（某物，尤其是气体或辐射）
+make (a sound):make（发出声音）
+emit |ɪˈmɪt| Verb/:,发出
+even the best cars emit carbon dioxide:即使是最好的汽车也会排放二氧化碳
+she emitted a sound like laughter:她发出笑声
+
+vt.（不用于进行时）[正式] 心存、怀有（想法、希望、感觉、态度等）:
+vt.&vi. 引起某人的兴趣并让其发笑:
+vt.&vi.（尤指在自己家中）用饮食招待、款待宾客:
+entertain |[ˌentəˈteɪn;美-tərˈt-]
+I wouldn't entertain the idea of such an unsociable job. 我不会考虑从事这种不跟人打交道的工作。
+He had entertained hopes of a reconciliation. 他曾对和解抱有希望。
+to entertain a doubt, to entertain a suspicion 持怀疑态度 
+I feel how foolish I am to entertain doubts. 我竟然心存怀疑，真是太愚蠢了。
+I am amazed that such a crazy idea could be seriously entertained. 有人居然会专注于如此古怪的想法，我感到大为惊讶。
+briefly entertaining hopes that he might keep the affair a secret 曾有一刻希望他能对这件事保守秘密 
+She would make no promises, but was willing to entertain the idea. 她没有作任何承诺，但愿意考虑这个想法。
+He entertained us for hours with his stories and jokes. 他既讲故事又说笑话，把我们逗得乐了好几个小时。
+The aim of the series is both to entertain and inform. 这个系列节目旨在集知识和娱乐为一体。
+games and ideas to entertain children 带给孩子们快乐的游戏和想法 
+They were entertained by top singers, dancers and celebrities. 顶级歌手、舞蹈演员和名人们给他们带来娱乐。
+Everyone was thoroughly entertained.每个人都给逗乐了。
+She entertained us with stories of her travels. 她给我们讲她的旅游见闻以逗我们开心。
+Films can entertain and educate, make you laugh or cry. 电影有娱乐和教育的作用，能引人发笑，也能催人泪下。
+We hired a magician to keep the children entertained. 我们请了一个魔术师来逗孩子们开心。
+I don't like to entertain guests anymore. 我再也不想招待客人了。
+You weren't allowed to entertain men in your rooms even with a chaperone. 即使你有监护人陪同，也不允许在房间里招待男性。
+The job involves a lot of entertaining. 这项工作需要经常设宴招待客人。
+Barbecues are a favourite way of entertaining friends. 烤肉野餐是最受人喜爱的待客方式。
+The Bradfords always entertained lavishly at Christmas. 布拉德福德夫妇在圣诞节总是盛情地款待大家。
+They entertained us to lunch in their new house.（to尤为英式用法）他们请我们在他们的新居吃午饭。
+
+adj. 有趣的且令人发笑的:
+entertaining |[ˌentəˈteɪnɪŋ;美-tərˈt-]
+entertaining speech, entertaining evening 妙趣横生的演讲；令人开心的晚会 
+I found the talk both informative and entertaining. 我认为这次演讲知识与趣味并重。
+She was always so funny and entertaining. 她总是那么风趣，令人愉快。
+He tried to make his speech more entertaining. 他试图让自己的演讲更加有趣。
+The others seemed to find my discomfort hugely entertaining. 我觉得很尴尬，其他人却似乎觉得这非常有趣。
+It was highly entertaining for the people around them. 这件事对他们周围的人来说非常有趣。
+The book is an entertaining and informative read. 这本书集知识性和趣味性于一体。
+
+adj. 时间不规律的:
+adj.（形状）不整齐的；不平整的；参差不齐的:
+adj.（部队）非正规的:
+adj.（行为）欺骗性的；不正常的；不正当的；不合乎常规的:
+adj. [语法] 形式不规则的:
+irregular |[ɪˈregjələ(r)]
+irregular meals 不定时的进食 
+an irregular heartbeat 心律不齐 
+irregular attendance at school 断断续续的上学 
+He visited his parents at irregular intervals. 他不定期地看望父母。
+Cars passed at irregular intervals. 断断续续地有汽车驶过。
+irregular teeth 不整齐的牙齿 
+He had bad teeth, irregular and discolored. 他牙齿长得不好，参差不齐而且有些发黄。
+an irregular outline 不平整的外形 
+The paint was drying in irregular patches. 油漆一片片地慢慢变干了。
+The cells are slightly irregular in shape. 这些细胞的形状略微有些不规则。
+At least 17 different irregular units are engaged in the war. 至少有17个非正规军部队参战。
+an irregular practice 不合常规的做法 
+some somewhat irregular business practices 某些不太合乎常规 
+the minister accused of irregular business practices 被控有违规商业行为的部长的商业行为 
+It would be highly irregular for a police officer to accept money in this way. 警察这样接受金钱严重违反规定。
+His behaviour is highly irregular. 他的行为很不正常。
+'Will you do this for me, Leo? It's the only way.' -- 'It's highly irregular, Ralph.' “利奥，你能为我办这件事吗？这是唯一的办法了。”——“拉尔夫，这么做很不合规矩。”
+an irregular verb 不规则动词
+
+n. [C] 心理学家；心理学研究者:
+psychologist |[saɪˈkɒlədʒɪst;美-ˈkɑ:l-]
+academic, experimental psychologist理论心理学家；实验心理学家 
+behavioural/behavioral, child, cognitive, developmental, educational, evolutionary, forensic, occupational, social, sports psychologist 行为心理学家；儿童心理学家；认知心理学家；发展心理学家；教育心理学家；进化心理学家；司法心理学家；职业心理学家；社会心理学家；运动心理学家 
+consultant psychologist（英）心理学顾问 
+professional psychologist 职业心理学家 He is now a clinical psychologist with a major hospital. 他现在是一家大医院的心理医生。
+Psychologists tested a group of six-year-olds with a video. 心理学家用一段录像对一组六岁的儿童进行了测试。
+chartered（英）, licensed（美）psychologist 特许心理学家；执业心理学家 
+I made an appointment with the school psychologist.（school psychologist尤为美式用法）我已与学校的心理咨询教师约好了时间。/
+
+n. [C]（通常指历史上的）一段时期（尤指因某些特征或某些历史事件而显得与众不同的历史时期）:
+n. [C] [地质学] 地质时期分类中的代:
+era |[ˈɪərə;美ˈɪrə;ˈerə]
+the golden era of radio 无线电广播的黄金时代 
+The room had the elegance of a bygone era. 这个房间有着旧时代的优雅。
+antebellum（美）, pre-war era 南北战争前的时代；战前时代 
+post-war era 战后时代 
+apartheid, civil rights, colonial, post-imperial era 种族隔离时代；民权运动时期；殖民地时代；后帝国时代 
+Communist, Nazi, Soviet era 共产主义时代；纳粹时代；苏维埃时代 
+dotcom era 网络时代 
+Clinton, Thatcher era 克林顿时代；撒切尔时代 
+Edwardian, Napoleonic, Victorian era 爱德华七世时代；拿破仑时代；维多利亚时代 
+the Reagan-Bush era 里根-布什时期 
+Baroque, Classical, Romantic era 巴洛克时代；古典主义时期；浪漫主义时期 
+Christian, Common era 基督纪元；公元 
+the early centuries of the Christian Era 公元最初几个世纪 
+movies of the silent era 默片时代的电影 
+modern era 当今时代 
+the nuclear era 核时代 
+The fall of the Berlin Wall ushered in a whole new era. 柏林墙的倒塌开启了一个全新的时代。
+The country has entered an era of high unemployment. 该国进入了高失业率时期。
+We live in an era of religious uncertainty. 我们生活在一个对宗教怀疑的时代。
+a practice that has survived into the present era 保留到现代的做法 
+a new era in the history of art 艺术史上的一个新纪元 
+It feels like the dawning of a new era. 一个新的时代似乎已经来临。
+be on the threshold of a new era 在新时代的伊始 
+When she left the firm, it was the end of an era (= things were different after that). 她离开公司后，一个时代结束了（后来的情况就大不一样了）。
+
+vi. ~ (over sb/sth) 击败、战胜；成功:
+n. 1 [C, U] ~ (over sb/sth) 巨大的成功、重大成就、伟大胜利:
+2 [U]（从巨大成功或胜利中所获得的）巨大的心满意足或巨大的喜悦:
+n. [sing.] a ~ (of sth) 成功的典范、楷模:
+triumph |[ˈtraɪʌmf]
+As is usual in this kind of movie, good triumphs over evil in the end. 像这类电影的一贯结局一样，善良战胜了邪恶。
+The whole world looked to her as a symbol of good triumphing over evil. 全世界都把她视为正义战胜邪恶的象征。
+He believes that good will always triumph in the end. 他认为善终将取得最后的胜利。
+She was confident that she would ultimately triumph over adversity. 她有信心自己最终能战胜逆境。
+France triumphed 3–0 in the final. 法国队在决赛中以3:0获胜。
+All her life, Kelly had stuck with difficult tasks and challenges, and triumphed. 凯莉一生经历了各种艰巨的任务与挑战，她都一一成功应对了。
+one of the greatest triumphs of modern science 现代科学最重大的成就之一 
+Cataract operations are a triumph of modern surgery, with a success rate of more than 90 percent. 成功率达到 90% 以上的白内障手术是现代外科学的杰出成果。
+artistic, diplomatic, electoral, military, political 艺术上的胜利；外交上的胜利；选举上的胜利；军事上的胜利；政治上的胜利 
+Some Marxists still believe that socialism will one day triumph through world revolution. 一些马克思主义者依然相信社会主义总有一天将通过世界革命取得胜利。
+The union scored a triumph in negotiating a minimum wage within the industry. 工会在行业最低工资问题谈判中取得胜利。
+They hailed the signing of the agreement as a major diplomatic triumph. 他们称协议的签署是一次重大的外交胜利。
+their recent triumph against Brazil 他们最近对巴西的胜利 
+The team enjoyed a memorable triumph last night. 昨晚球队获得了一场难忘的胜利。
+triumph against seemingly insuperable odds 克服看似不可能战胜的困难而取得的胜利 
+The match was a personal triumph for Rivaldo. 这场比赛是里瓦尔多个人的胜利。
+It was a personal triumph over her old rival. 这是她对老对头的个人胜利。
+their triumph in the general election 他们在大选中的胜利 
+the triumph of the human spirit 人类精神的胜利 
+This was her moment of triumph. 这是她的胜利时刻。
+Her victory was hailed as a triumph over adversity. 她的胜利被人们誉为战胜逆境的胜利。
+a shout of triumph 喜悦的欢呼声 
+a grin of triumph 胜利的笑容 
+The winning team returned home in triumph. 球队凯旋而归。
+her look of triumph as she broke the finishing tape 她冲破终点线时胜利的表情 
+The leading runner raised his arms in triumph. 领跑者举起双臂庆祝胜利。
+a sense of triumph 成就感 
+Her sense of triumph was short-lived. 她只感受了片刻成功的喜悦。
+He was laughing with triumph. 他发出胜利的大笑。
+Her arrest was a triumph of international cooperation. 她的被捕是国际合作的成果。          
+
+n. 1 [U] 觉察、发觉:
+2 [U] 发现、查出（隐藏的…）:
+3 [U]（罪案的）侦查、侦破:
+detection |[dɪˈtekʃn]
+Many problems, however, escape detection. 然而许多问题却未被察觉。
+error detection 错误的发觉 
+They are cheating but are sophisticated enough to avoid detection. 他们在作弊，但因为手法老练没有被发现。
+Their prey can sometimes escape detection by remaining still. 有时他们的猎物会静止不动而不被发现。
+Early detection of cancers is vitally important. 癌症的早期查出是极为重要的。
+radiation detection 放射物检测 
+cancer detection 癌症检测 
+the quest to improve breast cancer detection 改进乳腺癌检测方法的探索 
+detection method, detection system, detection technique 检测方法；检测系统；检测技术 
+detection device 检测装置 
+radiation detection equipment 放射物检测设备 
+detection technology 检测技术 
+crime（尤英）, fraud detection 犯罪侦查；欺诈案侦查 
+crime prevention and detection 犯罪的预防和侦查 
+Last year the detection rate for car theft was just 13%. 去年汽车盗窃案的侦破率仅为13%。
+The latest figures show falling fraud detection rates. 最新的数字显示诈骗案的侦破率在下降。
+The most important deterrent for most criminals is the likelihood of detection and arrest. 对大多数罪犯来说，最大的威慑力量是警方可能会破案并将他们逮捕。
+
+
+cozy | 舒适,舒适的
+
+n. [C]（剧场或音乐厅内的）顶层楼座（通常有票价最低的座位）:
+n. [C]（尤指用作某个用途的）一个狭长空间，即长廊:
+n. 1 [C] 美术馆；画廊:
+2 [C] 互联网上的展馆:
+3 [C]（可供观看或买卖字画的）私人字画店:
+n. [C]（艺术作品的）陈列室或展览馆:
+n. [C]（大厅后部或旁边的）楼上区域，可以叫廊台:
+n. [C]（矿坑或洞穴中的）水平巷道:
+gallery |['ɡælərɪ]
+We decided to find cheap tickets in the gallery. 我们决定去找顶层楼座的廉价票。 
+whispering gallery 回音廊 
+shooting gallery 射击场（或打靶场）
+fine-art（美）, picture, portrait, sculpture gallery 美术馆；画廊；肖像画廊；雕塑馆 
+private gallery 私人画廊 
+national gallery 国家美术馆 
+gallery guide 美术馆参观指南 
+interactive, online, virtual gallery 互动式展馆；在线展馆；虚拟展馆 
+photo gallery 图片库 
+I found the painting in the gallery upstairs. 我在楼上的字画店里发现了那副画。
+art, museum gallery 艺术馆；博物馆
+the public gallery of the court 法庭的公共旁听席 
+press gallery 记者席 
+a wide gallery looking down on the floor below 一个可以俯视楼下的宽敞廊台
+
+adj. 极大的、巨大的、庞大的:
+adj. 范围或程度极大的，即极其、十分:
+enormous |[ɪˈnɔ:məs;美ɪˈnɔ:rməs]
+enormous house, enormous dog 巨大的房子；大狗 
+The main bedroom is enormous. 主卧室非常大。
+an enormous amount of time 大量的时间 
+There is, of course, an enormous amount to see. 当然有很多可看的。
+enormous interest 浓厚的兴趣 
+The problems facing the President are enormous. 总统面临的问题是巨大的。
+It was an enormous disappointment. 真是让人万分失望。
+his enormous capacity for brutality 他的穷凶极恶           
+
+vi. [正式]（规则、制度、习俗等）存在，适用，相当于apply:
+vi. [正式]（规则、制度、习俗等）存在，适用，相当于apply:
+vt. [正式] 获得某事物（尤指通过付出努力而获得）:
+vt. [正式] 获得某事物（尤指通过付出努力而获得）:
+obtain |[əb'teɪn]
+These conditions no longer obtain. 这些条件不再适用。
+These conditions no longer obtain. 这些条件不再适用。
+to obtain advice, to obtain information, to obtain data, to obtain permission, to obtain authorization, to obtain offer, to obtain score 得到忠告；得到信息；得到数据；得到许可；得到授权；获得报价；得到分数 
+to obtain a copy of the report 弄到这份报告的一个副本 
+goods which are difficult to obtain 难弄到的商品 
+to obtain the patients’ consent 征得病人的同意
+goods which are difficult to obtain 难弄到的商品
+
+vt.＆vi. 未经许可而擅自离开部队:
+vt. 1 抛弃或遗弃某人（使其得不到帮助或支持、供养等），相当于abandon，但不如abandon常用:
+2 停止使用、购买或支持等…:
+vt. 1 常用被动式，从某地离开（使该地变空），相当于abandon:
+2（某种品质在某人需要的时候）背离（这个人）:
+n. [C, U] 沙漠；荒漠:
+desert |['dezət][dɪ'zət]
+Large numbers of soldiers deserted as defeat became inevitable. 战败已成定局，许多士兵开小差跑了。
+She was deserted by her husband. 她被丈夫遗弃了。
+to desert teaching for politics 弃教从政 
+to desert his urban life 放弃他的都市生活
+The villages had been deserted. 这些村庄已经荒无人烟了。
+The owl seems to have deserted its nest. 这只猫头鹰似乎不要这个窝了。
+Poor farmers are deserting their parched farm fields and coming here looking for jobs. 贫穷的农民丢下干旱的农田，来这里找工作。
+Her courage seemed to desert her for a moment. 她一时间似乎失去了勇气。
+the Sahara Desert 撒哈拉大沙漠 
+vast desert 广袤的沙漠 
+Arctic, polar desert 北极荒漠；极地荒原 
+desert area, desert region, desert country 沙漠地区；沙漠国家 
+desert plant 沙漠植物 
+cultural desert（比喻用法）文化沙漠
+
+pilot or fly in an aircraft:pilot或乘坐飞机
+aviate |ˈeɪvɪeɪt| Verb/:飞行,航空
+
+vt. [正式] 使某事以某种方式发生；或使某事成为某种类型。如决定、支配、影响、形成等:
+vt.＆vi. [正式] determine on sth/to do sth 明确决定去做某事，即决心:
+vt. [正式] 裁决，一般是最终判决（但是初审法院做出的此种判决可以上诉）。具有古语的味道:
+[正式] 正式决定或安排某事，如确定、安排、裁决等:
+vt. [正式] 发现关于某事的事实（如查明）；准确计算出…。相当于establish:
+determine |[dɪ'tə:mɪn]
+determining factors 决定因素 
+Upbringing plays an important part in determining a person’s character. 后天培养对于一个人性格的形成起着重要作用。
+a decision which would ultimately determine the fate of the project 会最终决定该项目命运的一项决策 
+Reproductive success is directly determined by attractiveness to the female. 繁殖成功与否直接取决于对雌性的吸引力。
+They determined to start early. 他们决定早点出发。
+The court determined (that) the defendant should pay the legal costs. 法庭裁决由被告支付诉讼费用。
+A date for the meeting has yet to be determined. 会议日期尚待确定。
+The court determined (that) the defendant should pay the legal costs. 法庭裁决由被告支付诉讼费用。
+We set out to determine exactly what happened that night. 我们着手查明那天晚上发生的事情。
+Computer models help to determine whether a particular area is likely to flood. 计算机模型有助于测定某一特定地区发生洪灾的可能性。
+to determine the cause of the illness 断定病因           
+
+vi. 1 变得看不见，如消失，相当于vanish:
+2 不复存在，相当于vanish:
+3 丢失，或不可能找到，相当于vanish:
+disappear |[͵dɪsə'pɪə]
+The sun disappeared behind a cloud. 太阳消失在一片云之后。
+The plane suddenly disappeared from the radar screen. 飞机突然从雷达屏幕上消失了。
+to disappear from sight 从视野中消失 
+Her nervousness quickly disappeared once she was on stage. 她一走上台紧张情绪便迅速消失了。
+The problem won’t just disappear. 这个问题不会就这样不了了之的。
+Our countryside is disappearing at an alarming rate. 我们的农村地区正在以惊人的速度消亡。
+His symptoms disappeared. 他的症状消失了。
+My pen disappeared. 我的笔不见了。
+Her father disappeared without trace when she was ten. 她十岁时，父亲一去不见踪影。
+
+give (someone) a legal right or a just claim to receive or do something:给予（某人）合法的权利或公正的要求来接受或做某事
+give (something) a particular title:
+give (someone) a specified title expressing their rank, office, or character:给（某人）一个特定的头衔，表达他们的等级、职位或性格
+entitle |ɪnˈtʌɪtl| Verb/:授权,权利
+employees are normally entitled to redundancy pay:员工通常有权获得裁员津贴
+a satire entitled ‘The Rise of the Meritocracy’:一部题为“精英的崛起”的讽刺作品
+they entitled him Sultan:他们称他为苏丹
+
+vt. 解除（或免除）…的职务:
+vt.（尤指通过引入不同的事情）减轻无聊，如调剂:
+vt. 解除或减轻（不悦）:
+vt. 减轻问题的严重性:
+vt. ~ yourself（去厕所的一种委婉说法）方便，解手:
+vt. 解除或减轻（病痛）:
+vt. 接替某人的班，给某人换班:
+vt. 将（城镇等从敌军的围困中）解围:
+relieve |[rɪˈli:v]
+The officer involved was relieved of his duties because he had violated strict guidelines. 那名相关的官员被免除了职务，因为他违反了要求严格的规章制度。
+The party leader has been relieved of his post. 这个党的领导人被免除了职务。
+We played cards to relieve the boredom of the long wait. 长时间等待实在无聊，我们就打扑克来解闷儿。
+Her jokes helped to relieve the tension. 她的笑话缓解了紧张气氛。
+The black and white pattern is relieved by tiny coloured flowers. 五彩缤纷的小花使得黑白图案不那么单调。
+to relieve anxiety, to relieve guilt, to relieve stress 消除焦虑；消除内疚；缓解压力 
+Being able to tell the truth at last seemed to relieve her. 能够最后讲出真话似乎使她感到轻松。
+This should save her from boredom and will also relieve the pressure on you to keep her entertained. 这能使她不会感到厌倦，而且也会减轻你的压力，不必总想着逗她开心。
+Respite care is intended to relieve parents of the burden of caring for disabled children. 暂托服务旨在减轻父母照顾残疾儿童的负担。
+A part-time bookkeeper will relieve you of the burden of chasing unpaid invoices and paying bills. 雇一个兼职会计将使你摆脱追讨未付单据和支付账单的负担。
+A porter relieved her of the three large cases. 一个行李搬运工替她扛了三个大包。
+efforts to relieve poverty 缓解贫困的努力 
+to relieve traffic congestion 缓解交通拥堵
+I had to relieve myself behind a bush. 我只好在树丛后面方便了一下。
+It is not difficult to train your dog to relieve itself on command. 训练你的狗按指令大小便并非难事。
+to relieve the symptoms of a cold 减轻感冒的症状 
+Drugs can relieve much of the pain. 药物能够大大地缓解病痛。
+to relieve a sentry 换岗 
+You'll be relieved at six o'clock. 六点钟有人来换你的班。
+At seven o'clock the night nurse came in to relieve her. 七点钟的时候夜班护士来接她的班。
+The offensive began several days ago as an attempt to relieve the town. 进攻于几天前开始，试图解放这个城镇。
+
+n. [U, sing.] ~ (to/towards sb) 宽宏大量:
+n. [U, sing.] ~ (to/towards sb) 慷慨、大方:
+generosity |[ˌdʒenəˈrɒsəti;美-ˈrɑ:s-]
+a man of great generosity of spirit 宽容大度的人 
+She showed an unusual generosity of spirit to those who had opposed her. 对于那些曾经反对过她的人，她表现出异乎寻常的宽容。
+He treated them with generosity and thoughtfulness. 他待他们宽容大度、体贴周到。
+He thanked them for the extraordinary generosity they had shown. 他感谢他们所表现出的异乎寻常的慷慨。
+Their guests took advantage of their generosity, overstaying their welcome by several days. 客人们借着主人的慷慨又多住了几天，让主人感到不快。
+How can I repay your generosity? 我该怎样报答您的慷慨呢?
+their great generosity to the school 他们为学校慷慨解囊 
+an act of generosity 慷慨之举 
+The hospital has now bought a new body scanner, thanks to the generosity of local fund-raisers. 多亏本地的资金募集者慷慨相助，这家医院现在购置了一台新的人体扫描仪。
+There are stories about his generosity, the massive amounts of money he gave to charities. 有传闻说他向慈善机构慷慨解囊，捐献巨款。
+
+n. [C]（尤指在一个专业领域或一家公司）与你工作的一个人，即同事，同僚。是此义的常规用词:
+colleague |['kɒli:ɡ]
+a colleague of mine from the office 我办公室的一位同事 
+a male colleague 男同事 
+professional, work colleague 同行；同事 
+academic, business, medical colleague 学术上的同事；生意上的同事；医学界的同事 
+a cabinet colleague（尤英）内阁同僚 
+a former colleague 从前的同事
+
+vt.＆vi. [正式] 答应或许诺（你将做某事）。不太常用:
+vt. [正式] 承担任务，承担工作:
+vt. [正式] 使自己对某事负责并开始做这件事:
+undertake |[͵ʌndə'teɪk]
+He undertook to finish the job by Friday. 他答应星期五或之前完成这一工作。
+to undertake a task 承担一项任务 
+to undertake a project 承担一个项目
+University professors both teach and undertake research. 大学教授既要教学又要从事研究工作。
+to undertake a full investigation into the accident 对事故进行全面调查
+
+adj. 1 convenient (for sb/sth)（事情做起来）有用的，方便或快捷的；不造成麻烦的:
+2 convenient (for sth) 距某地近的；易于到达的；近便的:
+convenient |[kən'vi:njənt]
+It is very convenient to pay by credit card. 用信用卡付款非常方便。
+You’ll find these meals quick and convenient to prepare. 你会发现准备这样的饭既快又省事。
+Fruit is a convenient source of vitamins and energy. 水果是维生素和能量的便利来源。
+I can’t see him now--it isn’t convenient. 我现在不便见他。
+I’ll call back at a more convenient time. 在方便的时候我会回电话的。
+The house is very convenient for the shops.（英）从这房子去商店很近便。
+The house is convenient to downtown.（美）这房子去商业区很方便。
+
+of or involving preference or partiality; constituting a favour or privilege:属于或涉及偏好或偏袒；构成恩惠或特权
+(of voting or an election) in which the voter puts candidates in order of preference.:（投票或选举）选民按优先顺序排列候选人。
+(of a creditor) having a claim on the receipt of payment from a debtor which will be met before those of other creditors.:（债权人的）对收到债务人的付款提出要求，该要求将在其他债权人的要求之前得到满足。
+preferential |ˌprɛfəˈrɛnʃl| Adjective/:优惠
+preferential interest rates may be offered to employees:可向员工提供优惠利率
+
+n. [C]（人或车辆排成行移动的）长队:
+n. 1 [C]（缩略形式为col.）（书、报纸印刷页上的分立的）竖栏:
+2 [C]（图表等的）纵行（数字或字）:
+n. [C] 报刊杂志的关于某一主题的专栏:
+n. [C] 圆柱形物:
+n. [C] 高高的、竖着的坚固的柱子，通常为圆形石柱（用以支撑建筑物或作为纪念之用）:
+column |[ˈkɒləm;美ˈkɑ:ləm]
+a long column of troops and tanks 部队和坦克的长列纵队 
+There were reports of columns of military vehicles appearing on the streets. 有报道说几队军用车辆出现在街头。
+armoured column 装甲纵队 
+to march in columns 列纵队前进 
+the head of the column 队列的排头
+a column of text 一栏正文 
+a dictionary with two columns per page 每页有两栏正文的字典 
+Put a mark in the appropriate column. 在适当的栏里标上记号。
+Their divorce filled a lot of column inches in the national papers (= got a lot of attention). 他们的离婚引起了多家全国性报纸的关注。
+In The Dictionary of Quotations, there are no fewer than one and a half columns devoted to 'kiss'. 在《引语词典》中，“亲吻”这一条目不下一栏半。
+to add up a column of figures 把纵行数字相加 
+We had stupidly been looking at the wrong column of figures. 我们稀里糊涂，看串了数字栏。
+weekly column 每周专栏 
+newspaper column 报纸专栏 
+advice（美）, agony（英）, correspondence, editorial, financial, gossip, leader（英）, letters, obituary, op-ed（美）, opinion, personal column （报刊杂志上的）“为您解忧”专栏；答读者问专栏；通信栏；社论专栏；财经专栏；漫谈专栏；社评专栏；读者来信栏；讣告栏；署名评论专栏；评论栏；私人广告栏 
+column inches 专栏版面 
+So many column inches are devoted to film stars. 如此多的专栏版面都用于对电影明星的报道。
+She saw his name in an obituary column. 她在讣告栏中看到了他的名字。
+a weekly column on films showing in London 评论在首都上映的电影的每周专栏 
+I always read her column in the local paper. 我一直读她在当地报纸上的专栏文章。
+His name features frequently in the social columns of the tabloid newspapers. 他的名字频繁地出现在各种小报社会专栏的显著位置上。
+She also writes a regular column for the Times Educational Supplement. 她也定期为《泰晤士报高等教育增刊》写专栏文章。
+He has a regular column in a weekly newspaper. 他在一份周报上开了一个固定专栏。
+The explosion sent a column of smoke thousands of feet into the air. 爆炸在空中形成了几千英尺高的烟柱。
+colonnades of fluted Doric columns 饰有凹槽的多立斯柱廊 
+classical column 古典石柱 
+concrete, marble, stone column 混凝土柱；大理石柱；石柱 
+The temple is supported by marble columns. 这座庙宇由大理石柱支撑。
+The roof is supported by four huge columns. 房间由四根巨大的石柱支撑。
+Nelson's Column in London 伦敦的纳尔逊纪念柱
+
+adj. 对某人表示关爱之情的:
+affectionate |[əˈfekʃənət]
+He is very affectionate towards his children. 他非常疼爱他的孩子。
+They seemed devoted to each other and were openly affectionate. 他们看起来非常恩爱，柔情蜜意溢于言表。
+She gave me a very long and affectionate hug. 她满怀深情地久久拥抱了我。
+an affectionate kiss 亲昵的一吻 
+affectionate letter 爱意满满的信 
+affectionate memory 充满爱意的回忆 
+affectionate pat 关爱的轻拍 
+affectionate tribute 充满爱意的崇敬 
+affectionate greetings 爱意满满的祝福                 
+
+n. [U] 分发:
+n. 1 [C] 人们讨论或争论的一个重要话题或问题:
+2 [C] 某人对某事所抱有的问题或担忧:
+n. [U] [法律] 子女、子嗣:
+vt. ~ sth (to sb) 官方宣布、公布:
+n. [U] 发布:
+~ sb with sth（尤指官方或正式地）把…发给某人:
+vt.（尤指通过官方文件）对某人提起法律诉讼，即发出传讯令或逮捕令等:
+n. 1 [C]（邮票、钱币、股份）的一次发行额（或一套）:
+2 [U] 发行（以供人们购买或使用）:
+vt. 出版、发表杂志、文章等:
+vt. 发行（新的一批邮票、硬币、股票等）:
+n. [C]（一系列报刊或杂志的）一期:
+issue |[ˈɪʃu:;BritishEnglishalsoˈɪsju:]
+the issue of blankets to the refugees 给难民分发毯子
+The economy remains the burning issue within the party. 经济依然是党内急需解决的问题。
+The problem raises wider issues of gender and identity. 这个问题引起了有关性别和身份的更广泛的争议。
+minor, side issue 小事情；次要问题 
+The real issue is where the power lies. 真正的问题是权力在何处。
+the controversial issue of censorship 有争议的审查制度问题 
+sensitive issue 敏感问题 
+live issue 广受关注的问题 
+domestic, global, international, local, national, regional issue 国内问题；全球问题；国际问题；地方问题；国家问题；地区问题 
+commercial, constitutional, economic, educational, environmental, ethical, health, moral, policy, political, social, technical, theoretical issue 商业问题；宪法问题；经济问题；教育问题；环境问题；伦理问题；健康问题；道德问题；政策问题；政治问题；社会问题；技术问题；理论问题 
+This evening we're debating the issue of the legalization of soft drugs. 今晚我们辩论的问题是软性毒品的合法化。
+fundamental issues about working conditions 关于工作条件的根本问题 
+issues concerning the environment 涉及环境的问题 
+The conference examined key issues relating to the reform. 会议探讨了与改革有关的各种关键问题。
+This is a big issue; we need more time to think about it. 这是个重大问题，我们需要花较多的时间考虑。
+The union plans to raise the issue of overtime. 工会打算提出加班的问题。
+The party was divided on this issue. 该党在这一问题上存在分歧。
+You're just avoiding the issue. 你只不过是在回避问题。
+We really need to focus on this one issue and not get sidetracked. 我们确实需要专注这一问题，不能离题。
+Don't confuse the issue. 不要模糊焦点。
+Money is not an issue. 钱不是问题。
+I don't think my private life is the issue here. 我认为问题并非我的私生活。
+I'm not bothered about the cost─you're the one who's making an issue of it. 我不担心费用问题——是你在这个问题上小题大做。
+Because I grew up in a dysfunctional family, anger is a big issue for me. 我是在一个不正常的家庭里长大的，所以乱发脾气是我的一大问题。
+She's always on a diet─she has issues about food. 她经常节食——她担心吃得太多。
+He still has some issues with women (= has problems dealing with them). 他在与女性打交道方面仍有些问题。
+If you have any issues, please call this number. 如有问题，请拨打这个电话号码。
+He died without issue. 他死后无子嗣。           
+They issued a joint statement denying the charges. 他们发表联合声明否认指控。
+The police have issued an appeal for witnesses. 警方发出了寻找目击证人的呼吁。
+the issue of a joint statement by the French and German foreign ministers 法德两国外交部长联合声明的发布
+to issue passports, to issue visas, to issue tickets 签发护照；发签证；签发票证 
+New members will be issued with a temporary identity card. 新成员将配发临时身份卡。
+Work permits were issued to only 5% of those who applied for them. 工作许可证只发给了5%的申请人。
+to issue a writ against sb 传讯某人 
+A warrant has been issued for his arrest. 对他已发出逮捕令。
+The company is planning a new share issue. 公司正计划发行新股。
+a special issue of stamps 特别发行的一套邮票 
+I bought a set of the new stamps on the date of issue. 我在新邮票发行的当天就买了一套。
+We issue a monthly newsletter. 我们出版一份通讯月刊。
+They issued a special set of stamps to mark the occasion. 他们特别发行了一套纪念邮票。
+the July issue of ‘What Car?’ 《哪种汽车？》的七月号 
+The article appeared in issue 25. 该文发表在第25期。
+
+ask for information from someone:向某人询问信息
+ask about the health and well-being of (someone):询问（某人）的健康和福祉
+ask to see or speak to (someone):要求见（某人）或与（某人）交谈
+investigate; look into:调查；调查
+inquire |ɪnˈkwʌɪə| Verb/:查询,询问
+Annie inquired after her parents:Annie问候她的父母
+that was Paul inquiring for you—I told him he couldn't come in:那是保罗替你打听——我告诉他他不能进来
+the task of political sociology is to inquire into the causes of political events:政治社会学的任务是探究政治事件的起因
+
+adj.（恐惧、指控、报道等）无理由的、无根据的:
+groundless |[ˈgraʊndləs]
+groundless allegations 毫无根据的指控 
+Our fears proved groundless. 我们的担心证明是毫无道理的。
+Fears that the world was about to run out of fuel proved groundless. 事实证明对于世界燃料即将耗尽的担忧毫无根据。
+A ministry official described the report as groundless. 一位部级官员称这篇报道纯属子虚乌有。
+Our fears proved totally groundless. 事实证明，我们的担心是完全没有根据的。

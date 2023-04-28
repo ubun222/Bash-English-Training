@@ -1,0 +1,649 @@
+postman									邮递员
+sceptical									怀疑的
+cruel									残忍的
+seem										好像
+access									入口，享用机会，进入，存取
+statement									说明，表态
+ambiguous									有歧义的，意义含糊的
+island									岛屿
+honey									蜂蜜，甜蜜，亲爱的
+wherever									究竟在哪里，在各处，某个地方，在任何情况下
+breathless								气喘吁吁的，极快的，屏息的
+golf										高尔夫球
+danger									危险
+interest									兴趣，趣味，利益，利息，使感兴趣
+interests									利益集团
+flaming									燃烧的，火红的，强烈的，讨厌的
+temporary									短期的，临时的
+accomplish								完成，达到
+stupid									笨的，迷糊的
+glue										胶水，目不转睛
+exercise									锻炼，练习，实施，活动
+exercises									仪式
+winner									获胜者
+sandwich									三明治
+heap										堆，大量，倾注
+heaps of									许多
+heaps									非常
+trend									趋势，倾向
+cellar									地窖，藏酒
+visitor									来客，参观者
+seed										种子，播种
+out										在外面，公开，结束
+breakfast									早饭
+\\\\\\\\
+
+n. [C] [尤英] 邮递员、邮差:
+postman |['pəʊstmən]
+The dog is chasing a postman. 那条狗在追一个邮递员。
+village postman 村里的邮递员
+
+adj. sceptical (about/of sth) 对一种说法（声明或陈述）的真实性表示怀疑的；对某事将要发生表示怀疑的:
+sceptical |['skeptɪkl]（英）（美skeptical）
+I am sceptical about his chances of winning. 我怀疑他取胜的可能性。
+The public remain sceptical of these claims. 公众对这些说法仍持怀疑态度。
+They are highly sceptical of political leaders. 他们对政治领导人极不信任。
+Many were sceptical as to whether the plan would succeed. 许多人对这个计划能否成功持怀疑态度。
+
+adj. 1 cruel (to sb/sth) 指人（或其他生命体）有造成痛苦或苦难的欲望的，即残忍的，残酷的，残暴的，冷酷的:
+2 指情况或事件引起痛苦或苦难的:
+cruel |['krʊəl]
+a cruel dictator 残暴的独裁者 
+a cruel regime 残暴的政权 
+I can’t stand people who are cruel to animals. 我无法容忍虐待动物的人。
+Her eyes were cruel and hard. 她目光冷酷。
+Sometimes you have to be cruel to be kind. 有时候为了某人好你就得对他狠。
+cruel punishment, cruel joke 残酷的惩罚；挖苦人的笑话 
+Her father’s death was a cruel blow. 父亲去世对她是一大打击。
+
+seem like sth 给予是（或做）…的印象，即似乎，好像，看起来，相当于appear:
+2（表达自己的想法、感情或行动时）用于缓和语气，即感到好像，觉得似乎:
+it would seem不确定地（或礼貌地）表明某事属实，即看来好像，似乎:
+seem |[si:m]
+linking verb. 1 seem (to sb) (to be) sth 
+You seem happy. 你好像挺高兴。
+He seems a nice man. 他看来是个好人。
+It seems that they know what they’re doing. 看来他们知道自己在干什么。
+I seem to have left my book at home. 我大概是把书忘在家里了。
+I can’t seem to get started today. 我怕是没法在今天开始了。
+3 it seems 
+It would seem that we all agree. 我们大家似乎都同意。
+It seems only reasonable to ask students to buy a dictionary. 要学生买一本词典，好像也没什么不合情理。
+
+n. [U] access (to sth) 见到（或接触到）某人或某事物的机会或权利:
+vt. [正式] 到达（或进入）某事物:
+vt. [正式] 使用某事物:
+n. [U] access (to sth) 使用某事物的机会或权利:
+vt. 访问或存取计算机文件（即打开一份计算机文件以获取或添加信息）:
+n. [U] access (to sth) 使用某种信息技术的机会或权利:
+vt. [正式] 使用某事物:
+n. [U] access (to sth) 使用某事物的机会或权利:
+n. [U] access (to sth) 进入（或达到）某地的一种途径:
+access |['ækses]
+Journalists were denied access to the President. 记者被挡住，无法见到总统。
+Many divorced fathers only have access to their children at weekends. 很多离婚父亲只有在周末才有权见到自己的孩子。
+access to confidential information 接触机密情报的机会 
+He was finally granted access to the medical records. 他最终获准查看病例。
+The loft can be accessed by a ladder. 搭梯子可以上阁楼。
+Students must have access to good resources. 学生们一定有机会使用好的资源。
+Students have easy access to libraries. 学生享用图书馆的资源很方便。
+Access to this information is severely restricted. 这一信息的使用受到极为严格的限制。
+Men and women should have equal access to education. 男女应当享有平等的受教育权。
+to access confidential files 存取机密文件 
+You need a password to get access to the computer system. 使用这个计算机系统需要口令。
+broadband, Internet, wireless access 宽带接入；互联网接入；无线接入
+Students must have access to good resources. 学生们一定有机会使用好的资源。
+Students have easy access to libraries. 学生享用图书馆的资源很方便。
+Access to this information is severely restricted. 这一信息的使用受到极为严格的限制。
+Men and women should have equal access to education. 男女应当享有平等的受教育权。
+There is good wheelchair access to most facilities. 坐轮椅可以方便地到达多数设施。
+The police gained access through a broken window. 警察从一扇破窗户里钻了进去。
+The only access to the farmhouse is across the fields. 去那农舍的唯一通路是穿过田野。
+public access 公共通道 
+vehicle, vehicular（英）access 车辆专用通道 
+access road, access route（进出某处的）行车通道；进入的路线
+
+n. 1 [C] 一个人（以一种正式或确定的方式）说出或写出的传达信息或观点的东西:
+2 [U] 用文字所进行的阐述或表达，是一种行为。且是一种正式用法，词义上近似于expression，如:
+3 [C] 比喻用法中可指对某事物的一种表征或诠释:
+n. [C] statement (on/about sth) 对于事实或观点的一份正式或官方说明，词义上相当于declaration，如:
+n. [C] 财物报表，结算单:
+statement |['steɪtmənt]
+Are the following statements true or false? 下面的说法对不对？
+Your statement is misleading. 你的表述可能引起误解。
+Is that a statement or a question? 这是在表态呢，还是提出问题呢？
+The play makes a strong political statement. 这出戏表明一种鲜明的政治立场。
+a sweeping statement 一概而论的说法 
+When writing instructions, clarity of statement is the most important thing. 编写操作说明时，表述清晰明白至为重要。
+explanatory statement 解释性说明 
+The clothes you wear are a statement about yourself. 衣着是对自我的一种诠释。
+The two heads of state issued a joint statement. 两国元首发表了一份联合声明。
+formal, official statement 正式声明；官方声明 
+They decided to make a political statement by refusing to vote. 他们决定把拒绝投票作为一种政治声明。
+oral, signed, sworn, written statement 口头声明；签署的声明；誓词；书面声明 
+a statement on human rights 有关人权的声明 
+His lawyer made a brief statement to the press. 他的律师向新闻界发表了简短声明。
+The police will take a statement from each of you. 警方将给你们每个人录一份口供。
+An explicit statement of objectives is vital before the project begins. 项目开始之前，确切地说明目标至关重要。
+the company’s mission statement 该公司的使命宣言 
+He was making a fashion statement by wearing a pink suit.（比喻用法）他穿了套粉色西装，以此彰显其时尚品味。
+bank, credit-card, tax（美）statement 银行结算单；信用卡结算单；税单 
+financial, income（美）, trading（英）statement 财务报表；收入报表；交易报表 
+to file false statements 提交虚假报表
+
+adj. 1（事物）可用不同的方式来理解的（其理解方式多于一种）；有不同意思的。如模棱两可的，含混不清的:
+2 被陈述（或被定义）得不清晰的，如不明确的:
+ambiguous |[æm'bɪɡjʊəs]
+ambiguous word, ambiguous term, ambiguous statement, ambiguous account 模棱两可的词；模棱两可的用语；模棱两可的说法；模棱两可的陈述 
+The paragraph is rendered ambiguous. 这个段落的意思含糊不清。
+He was deliberately ambiguous. 他是故意含糊其辞。
+His role has always been ambiguous. 他的角色一直不明确。
+sexually ambiguous 性观念暧昧 
+a morally ambiguous character 道德观念模糊的人
+
+n. [C] 岛屿，岛。是此义的常规用词:
+n. [C] [英，也用island refuge] [美用safety island]公路中间的一块安全区域，供行人站在此处以避让车辆（待车辆驶过后再穿过该路），等同于traffic island:
+island |['aɪlənd]
+a remote island off the coast of Scotland 一个远离苏格兰海岸的岛 
+coral, tropical island 珊瑚岛；热带岛屿 
+deserted, uninhabited island 荒岛；无人居住的岛屿 
+offshore island 近海岛屿 
+island chain 岛链 
+island nation 岛国
+
+n. [C] [非正式] 你所喜欢的（并认为非常好的）一个人，如可爱的人:
+n. [C] [非正式] 对自己所爱的一个人的一种称呼方式，如亲爱的，宝贝:
+n. [U] 蜂蜜:
+honey |['hʌnɪ]
+He can be a real honey when he wants to be. 他高兴的时候挺招人喜欢的。
+Have you seen my keys, honey? 你看到我的钥匙了吗，宝贝？
+clear honey 纯蜂蜜 
+runny honey 较稀的蜂蜜 
+wild honey 野生蜂蜜 
+honey bee 蜜蜂
+
+conj. 在所有…的情况中，相当于whenever:
+conj. 1 在任何地方:
+2 在…的所有地方，即各处，处处，相当于everywhere:
+adv. 用于疑问句，表示惊奇，意为在哪儿，到哪儿:
+wherever |[weə'evə]
+Use wholegrain breakfast cereals wherever possible. 只要有可能就用全谷物早餐食品。
+Sit wherever you like. 你爱坐在哪儿就坐哪儿。
+Wherever she goes, there are crowds of people waiting to see her. 她所到之处都有成群的人等着见她。
+Wherever can he have gone to? 他究竟会到哪儿去了呢？
+
+adj. [正式] breathless (with sth) 经历（或使人经历）强烈的情感反应的，即屏息的，目瞪口呆的；或令人屏息的，令人目瞪口呆的:
+adj. 1（令人）气喘吁吁的，上气不接下气的:
+2 [正式] 无空气或风的，即令人窒息的:
+breathless |['breθlɪs]
+breathless with terror 吓得目瞪口呆 
+the breathless excitement 无比兴奋
+to maintain a breathless pace 用疾速的步子走 
+By the end of the walk, she was breathless with exertion. 走到最后，她累得上气不接下气。
+the breathless heat of a summer afternoon 夏日午后的闷热
+
+n. [U] 高尔夫球运动:
+golf |[ɡɒlf]
+to enjoy a round of golf 打一场高尔夫球 
+golf course 高尔夫球场 
+golf hole 高尔夫球洞 
+golf club 高尔夫球俱乐部 
+golf ball 高尔夫球
+
+n. 1 [U] danger (of sth) 某事发生并对某人或某事物造成伤害、损害、破坏的可能性，如危险，风险:
+danger that（坏事或令人不悦之事发生的）可能性，如危险:
+3 [C] danger (to sb/sth) 可能会对某人构成危害的一个人或事物:
+danger |['deɪndӡə]
+Danger! Keep Out! 危险！请勿入内！
+danger area, danger zone 危险区域 
+Doctors said she is now out of danger. 医生说她已脱离危险。
+There is no danger of a bush fire now. 目前不存在野外大火的危险。
+The building is in danger of collapsing. 这栋建筑有垮塌的危险。
+Smoking is a serious danger to health. 吸烟严重危害健康。
+Police said the man was a danger to the public. 警方说该名男子对公众是个危险。
+the hidden dangers in your home 家里潜在的危险因素
+
+n. [C] 业余爱好:
+n. 1 [sing., U] interest (in sb/sth) 兴趣，关注:
+2 [U] 趣味，引人关注的性质:
+vt. interest sb/yourself (in sth) 使…感兴趣，使…关注:
+n. [C] 常用复数，指同行业的一群人，或拥有相同目标的一群人，或利益集团:
+n. 1 [U] interest (on sth) 金融领域指利息:
+2 [C] 常用复数，interest (in sth) 指公司的股份，股权，权益:
+n. 1 [C, U] 作可数名词时常用复数，指好处，利益:
+2 [C, U] interest (in sth) 指一个人、国家或组织在一次事件或一种情况中所拥有的利益关系，利害关系:
+interest |['ɪntrɪst]
+artistic interest 艺术方面的爱好 
+Her main interests are music and tennis. 她的主要爱好是音乐和网球。
+He has many hobbies and outside interests. 他有许多闲暇嗜好和业余爱好。
+to take a close interest in... 密切关注… 
+The event attracted a lot of media interest. 该事件得到了媒体的密切关注。
+A sticker on a bag caught my interest. 袋子上的贴纸引起了我的兴趣。
+While in prison he developed an interest in art. 他坐牢时对艺术产生了兴趣。
+I watched with interest. 我兴致勃勃地看着。
+Just out of interest, how much did it cost? 我只是好奇问问，这个花了你多少钱？
+architectural, artistic, historic, historical, scientific interest 建筑魅力；艺术魅力；历史名胜；科学价值 
+academic interest 学术意义 
+There are many places of interest near the city. 这座城市附近有许多有意思的地方。
+These plants will add interest to your garden in winter. 这些植物在冬季会给你的花园增添景致。
+The interest of the painting lies in its unusual use of light. 这幅画吸引人之处在于其独特的用光技巧。
+Politics doesn’t interest me. 我对政治不感兴趣。
+She tried to interest the director in her plan. 她努力使导演对她的方案产生兴趣。
+She has always interested herself in charity work. 她始终关注慈善工作。
+powerful farming interests 强大的农民团体 
+business interests 企业团体
+annual interest 年息 
+compound interest 复利 
+mortgage interest 抵押利息 
+interest payment 利息的支付 
+interest charge 利息的收取 
+to pay interest on a loan 支付借款利息 
+a mortgage with a high rate of interest 高利率的按揭 
+American interests in Europe (= money invested in European countries) 在欧洲的美国权益 
+minority interest 少数股权 
+joint interest 共同拥有的股权 
+banking, business, commercial interest 银行股权；企业股权；商业股权 
+He has controlling interests in several ventures. 他拥有好几家企业的控股股权。
+It’s not in your best interests to let your boss know you’re looking for a new job. 让你的老板知道你想跳槽对你不利。
+national, public interest 国家利益；公众利益 
+class, sectional interest 阶级利益；群体利益 
+corporate, economic, political, strategic interest 公司利益；经济利益；政治利益；战略利益 
+interest group 利益集团 
+Although he was sometimes too strict with his children, he had their best interests at heart. 尽管他有时对孩子们过于严厉，但他是为他们着想。
+I should, at this point, declare my interest. 到了这个时候，我应该申明我的利益关系。
+
+
+interests | 兴趣,利益
+
+burning fiercely and emitting flames:猛烈燃烧并冒出火焰
+very hot:非常热
+of a bright orange or red colour:明亮的橙色或红色
+passionate or violent:热情或暴力
+used for emphasis to express annoyance:用于强调表示烦恼
+(of a gay man) having a manner or appearance regarded as stereotypically homosexual.:（男同性恋者）的举止或外表被认为是典型的同性恋。
+flaming |ˈfleɪmɪŋ| Adjective/:炽盛,燃烧的,火红的
+they dragged her away from the flaming car:他们把她拖离燃烧的汽车
+flaming June:燃烧的六月
+her flaming hair:她燃烧的头发
+a flaming row:一个燃烧的行
+where's that flaming taxi?:那辆燃烧的出租车在哪里？
+
+adj. 持续（或将要持续）一小段时间的，即短暂的，暂时的；被使用一小段时间的，非长久的，即临时的。与permanent相反:
+temporary |['tempərərɪ]
+temporary relief from pain 疼痛的短暂缓解 
+temporary work 临时工作 
+temporary accommodation 临时住所 
+temporary measure, temporary arrangement 临时措施；临时安排 
+Most adolescent problems are temporary. 多数青春期的问题都是暂时的。
+
+vt. 成功做成（或完成）某事，相当于achieve:
+accomplish |[ə'kɒmplɪʃ]
+The first part of the plan has been safely accomplished. 计划的第一部分已顺利完成。
+I don’t feel I’ve accomplished very much today. 我觉得我今天没干成多少事。
+Mission accomplished. 大功告成。
+A rather difficult task had been successfully accomplished. 一项相当艰巨的任务已成功完成了。
+
+adj. [非正式] 只用于名词前，用于强调对某人或某事的恼怒，即恼人的，讨厌的:
+adj. 1 表现出缺乏思想和判断力的，如糊涂的，愚蠢的，欠考虑的，相当于foolish或silly:
+2 [贬]（人）学习或理解起来较慢的，不聪明的。即笨的:
+n. [sing.] [非正式] 用于称呼某人智商不够，即傻瓜，笨蛋（常用于开玩笑）:
+adj. 偶尔也可表示情况窘迫的:
+stupid |['stju:pɪd]
+I can’t get the stupid thing open! 这破玩意儿我怎么也打不开！
+Get your stupid feet off the chair! 把你的臭脚从椅子上挪开！
+a stupid mistake 愚蠢的错误 
+I was stupid enough to believe him. 我真蠢，竟然相信他的话。
+My sister made me look stupid in front of all my friends. 妹妹让我在所有朋友面前出了丑。
+Success has made him stupid. 成功让他昏了头。
+He’ll manage--he isn’t stupid. 他可以的——他不笨。
+Forgetting my notes made me look stupid. 我忘了带笔记，弄得自己像个傻瓜。
+Yes, stupid, it’s you I’m talking to! 对，傻子，我在跟你说话呢！
+The situation is getting stupid. 情况变得越来越不可思议。
+
+vt. 在比喻用法中也可指盯着:
+glue A and B (together) 用胶水将两个东西粘合在一起，相当于stick:
+n. [U, C] 胶水，胶（为一种黏稠物质，起粘合作用）:
+n. [U, C] 胶毒，是某些胶水释放出的可以令神经兴奋或产生幻觉的有毒气体:
+glue |[ɡlu:]
+Her eyes were glued firmly to the computer screen. 她两眼紧盯着电脑屏幕。
+vt. glue A (to/onto B) 
+She glued the label onto the box. 她把标签贴在箱子上。
+Glue the two pieces of cardboard together. 把这两张硬纸板粘在一起。
+Make sure the edges are glued down. 一定要把边缘粘牢。
+a tube of glue 一管胶水 
+He sticks to her like glue.（比喻用法）他形影不离地跟着她。
+He took to sniffing glue. 他吸上了胶毒。
+
+vt. [正式] exercise sb/sth (about sth) 使某人非常焦虑，常用被动式:
+n. [C] exercise (in sth) 为达到特定的结果所进行的活动:
+n. [C] 为提高技能所做的一套动作或训练活动:
+vt. [正式] 行使权力、权利或运用个人品质以达成某事:
+n. [U] exercise of sth 使用权力、权利、技能或品质来使某事发生，即行使，运用:
+n. [pl.] [美] 仪式:
+vt. [正式] 行使权力、权利或运用个人品质以达成某事:
+n. [U] exercise of sth 使用权力、权利、技能或品质来使某事发生，即行使，运用:
+n. 1 [U] 为保持健康或保持强健的状态所做的身体或脑力锻炼，即运动，活动:
+2 [C] 为保持健康或提高技能所做的一套动作或训练活动:
+vt.＆vi. 做体育锻炼（以保持或促进身体健康）；使动物做锻炼:
+vt. 针对身体部位进行体育锻炼:
+n. [C, usually pl.] 士兵或警察的操练或演习，是此义的简单用词，也是一个基础常用词:
+n. [C] 书中的练习题（旨在测试你的知识或练习技能）:
+exercise |['eksəsaɪz]
+She was exercised about the life of herself in the future. 她对自己未来的生活很焦虑。
+academic, intellectual, mental, practical, technical, theoretical exercise 学术活动；智力活动；脑力活动；实际工作；技术工作；理论工作 
+political exercise 政治活动 
+consultation（英）, evaluation, role-playing, team-building exercise 咨询活动；评估活动；角色扮演活动；团队建设的活动 
+cost-cutting, marketing, propaganda, public relations（均尤英）exercise 成本削减活动；营销活动；宣传活动；公关活动 
+an exercise in information exchange 信息交流活动 
+an exercise in self-control 自我控制活动 
+The Government instituted a massive exercise in social control. 政府发起了大规模的社会管控行动。
+The object of the exercise is to increase public awareness of environmental issues. 活动的目的是增强公众对环境问题的意识。
+to perform this exercise in front of the mirror 对着镜子做这个练习 
+an exercises for guitar 吉他练习
+The all-powerful steering committee continued to exercise control. 大权在握的指导委员会继续行使控制权。
+They have the right to exercise self-determination. 他们有自决权。
+to exercise these rights 行使这些权利 
+to exercise influence over others 对别人有影响力 
+It is necessary to exercise caution when making recommendations. 提建议时有必要谨慎一些。
+the exercise of authority, the exercise of power 权力的行使 
+the free exercise of informed choice 知情选择权的自由运用 
+college graduation exercises 大学毕业典礼
+The all-powerful steering committee continued to exercise control. 大权在握的指导委员会继续行使控制权。
+They have the right to exercise self-determination. 他们有自决权。
+to exercise these rights 行使这些权利 
+to exercise influence over others 对别人有影响力 
+It is necessary to exercise caution when making recommendations. 提建议时有必要谨慎一些。
+the exercise of authority, the exercise of power 权力的行使 
+the free exercise of informed choice 知情选择权的自由运用 
+vigorous exercise 剧烈的运动 
+morning exercise 晨练 
+aerobic, weight-bearing exercise 有氧锻炼；负重锻炼 
+endurance exercise 耐力锻炼 
+mental, physical exercise 脑力锻炼；体力锻炼 
+This is a great exercise for the upper back. 这是锻炼背部的好方法。
+exercise equipment 健身器材 
+to repeat the exercise eight times 重复做这个动作八次 
+to do shoulder exercises 做肩部锻炼 
+warm-up exercise 热身运动 
+breathing, relaxing, strengthening, stretching exercise 呼吸练习；放松练习；力量练习；伸展练习 
+leg exercise 腿部运动 
+She exercises three times a week. 她一周锻炼三次。
+to exercise the shoulders 锻炼肩部
+military, naval exercise 军事演习；海军演习 
+We were out on a field exercise. 我们被拉出去进行野外演习。
+live-fire exercise（美）实弹演习 
+tactical exercise 战术演习 
+US forces took part in joint exercises with the British Navy. 美军参加了与英国海军的联合演习。
+exercises in this chapter 本章的练习题 
+written exercise 笔头练习 
+interactive exercise 互动式练习题 
+comprehension, grammar, listening, translation, writing exercise 理解练习；语法练习；听力练习；翻译练习；写作练习
+
+
+exercises | 练习,锻炼
+
+n. 1 [C]（比赛或竞争中的）获胜者:
+2 [usually sing.] [非正式] 成功（或可能成功）的人或事物:
+n. [sing.] 体育运动中可指制胜的一分或一记入球:
+winner |['wɪnə]
+award, competition, medal, title winner 奖项获得者；竞赛获胜者；奖牌得主；冠军得主 
+Nobel Prize winner 诺贝尔奖得主 
+Uruguay were impressive 3-0 winners over Japan. 乌拉圭队以3比0大胜日本队。
+the lucky winner of that week’s biggest lottery prize 那个星期彩票最高奖的幸运赢家 
+Bush was declared the winner of the election. 布什被宣布为大选的获胜者。
+There are no winners in a divorce. 离婚的人都是两败俱伤。
+I think your idea is a winner. 我认为你的想法能够成功。
+He scored the winner at the last minute of the match. 他在比赛的最后一分钟攻入了制胜的一球。
+
+n. 1 [C] 英也可用非正式的sarnie，指（在中间夹了一层肉、奶酪等的）两片面包（常涂有黄油），即三明治:
+2 [C] [英] 构成复合词，指（在中间夹了果酱或奶油的）两层蛋糕，即夹心蛋糕:
+sandwich |['sænwɪdӡ,-tʃ]
+ham sandwich 火腿三明治 
+What would you like in your sandwich? 你的三明治中想夹点儿什么？
+
+an untidy collection of objects placed haphazardly on top of each other:一个杂乱无章的物体集合
+an amount of a particular loose substance:一定量的特定松散物质
+a large amount or number of:大量或数量
+an untidy or dilapidated place or vehicle:一个不整洁或破旧的地方或车辆
+a great deal:很多
+put (objects or a loose substance) in a heap:put（对象或松散的物质）在堆中
+load something copiously with:load大量的东西
+form a heap:
+direct a great deal of praise, abuse, criticism, etc. at (someone or something):direct对（某人或某事）的大量表扬、辱骂、批评等
+give someone or something (a great deal of praise, abuse, criticism, etc.):给予某人或某物（大量的赞美、辱骂、批评等）
+heap |hiːp| Adverb/Noun/Verb/:堆,堆积
+we have heaps of room:我们有很多房间
+they climbed back in the heap and headed home:他们爬回堆里回家
+‘How do you like Maggie?’ ‘I like you heaps better!’:“你喜欢玛吉吗？”“我更喜欢你！”
+she heaped logs on the fire:她把原木堆在火上
+he heaped his plate with rice:他在盘子里堆满了米饭
+clouds heaped higher in the west:clouds在西部堆积得更高
+she heaped praise on the public for its generosity as charity donations continued to pour in:she对公众的慷慨大加赞赏，慈善捐款不断涌入
+the film has been heaped with praise by critics and audiences alike:这部电影得到了评论家和观众的一致好评
+
+
+heaps | 堆,堆积
+
+n. [C] 时尚；风尚:
+n. [C] 衣着时尚；风尚:
+n. [C] trend (towards/in sth) 情况所改变或发展的一个大致方向，即趋势；动态；动向:
+trend |[trend]
+The latest trend is gardening. 最新的时尚是园艺。
+fashion trends 时尚风潮 
+A trend for nostalgia has emerged. 出现了一股怀旧的风潮。
+Linen is on trend again this summer. 亚麻衣料今年夏天再次流行。
+economic, social, political trend 经济趋势；社会趋势；政治趋势 
+current trends in language teaching 当前语言教学的趋势 
+fashion trend 时尚潮流 
+cultural trend 文化的趋势 
+evolutionary, historical trend 演变的趋势；历史的趋势 
+market trend 市场趋势 
+a worrying trend 令人担忧的趋势
+
+n. 1 [C]（通常用于存放物品的）地下室、地窖:
+2 [C]（私人或饭店的）酒窖。相当于wine cellar:
+cellar |[ˈselə(r)]
+damp, dark cellar 潮湿的地下室；黑暗的地下室 
+vaulted cellar 拱状地窖 
+coal, root（美）煤窖；储藏根用蔬菜的地窖 
+storm cellar（美）防风地下室 
+pub cellar（英）地下室酒馆 
+beer cellar（尤英）地下室啤酒馆 
+disused cellar 废弃的地下室 
+cellar door, cellar stairs（尤美）, cellar steps 地下室门；地下室楼梯；地下室台阶 
+cellar bar（尤英）地下室酒吧 
+The box of papers had been stored in a cellar at the family home. 那箱文件一直藏在家中的地窖里。
+the restaurant's extensive wine cellar 饭店藏酒品种繁多的酒窖 
+I went down into the cellar for more wine.我到地下室去再取了些酒。
+
+n. [C] visitor (to ...)（某地的）到访者，来访者，参观者，即游客:
+n. [C] visitor (to ...)（某人或某地的）到访者，来访者，访问者，参观者:
+visitor |['vɪzɪtə]
+international visitor 国际游客 
+holiday visitor（英）度假游客 
+museum, park visitor 博物馆参观者；公园游客
+We’ve got visitors coming this weekend. 本周末我们有客人来访。
+She’s a frequent visitor to the US. 她经常去美国。
+rare visitor 稀客 
+foreign visitor 外宾 
+business visitor（尤英）商务访客 
+hospital, prison（均尤英）visitor医院访客；（探望囚犯以帮助他们的）探监工作者 
+site, website visitor 网站访问者
+
+n. [C, usually pl.] [文学] seed (of sth) 一种感情或过程、发展的起源（起源之后便逐渐发展起来）:
+n. [U] [文学] 某个男人的全部后代，即子孙、后裔:
+n. 1 [C, U] 植物的种子、籽:
+2 [C] [美；英尤用pip] 某些水果的种子:
+3 [U] [过时或幽默用法] 男子的精液:
+vi. 植物产生种子，即结籽:
+vt. seed itself 用自己的种子繁殖出新的植株，即（植物）繁殖:
+vt. 常用被动式，在网球等运动中将选手或体育队按照能力进行排名，确定为种子选手或队伍:
+n. [C] 网球或羽毛球等运动中的种子选手（即根据能力进行排名后名次最靠前的一些选手，在比赛初期为了不让这些高水平选手被淘汰，通常不将高水平选手相互排在一组）:
+vt. seed sth (with) sth 常用被动式，往地里播种。是将名词用作动词，不过不如sow常用:
+seed |[si:d]
+to plant seeds of doubts in his mind 引起他的疑心
+seed corn 玉米种子 
+grass seed 草籽 
+Most seeds are spread by the wind. 大多数种子是由风传播的。
+seed potato 种用马铃薯 
+an apple seed 苹果籽 
+She is seeded second. 她排名第二。（或她被确定为第二号种子选手。）
+top seed 头号种子选手
+a seeded land 一片播了种子的土地
+
+adj.（关于某事的消息或信息）被公开的:
+n. [sing.] 回避（不得不去做的事情）的方法:
+adv., prep. 在隐蔽处躲开（阳光、风、雨等）:
+adv., prep. 不可能；或不被允许:
+adv. 1 out (of sth) 将…（从一个地方、工作职位等）除掉，清除:
+2 out (of sth) 表示某人不再参与某事，即脱身、出局、淘汰、摆脱等:
+prep. 1 out (of sth) 将…（从一个地方、工作职位等）除掉，清除:
+2 out (of sth) 表示某人不再参与某事，即脱身、出局、淘汰、摆脱等:
+adj. [非正式] 打算做某事的:
+adj.（在比赛等活动中）出局的:
+adv., prep. 1 板球、棒球等运动中可指出局:
+2 网球等运动中可指出界:
+adv. 缺少（表示缺少一笔钱的意思时，为美式非正式用法）:
+prep. out of sth 缺少（表示缺少一笔钱的意思时，为美式非正式用法）:
+adv., prep. 清楚大声地（使人能够听见）:
+adv., prep.（火、灯光、燃烧物等）熄灭:
+adj.（灯、火等）熄灭的:
+adv., prep. out of sth 不在（或不再处于）某个状态或条件中:
+adv., prep. out of sth 表示某事发生的原因，即因为，出于。与from一样，二者都是从原因的来源的角度做出的定义:
+adj. out (in sth)（计算、计量）不准确的:
+adv., prep. out of sth 没有（表示缺少一笔钱的意思时，为美式非正式用法）:
+adv., prep. out (of sth) 清除:
+adv., prep. 1 out of sth/sb 来自于:
+2 对所有人均可用；为每个人所知晓（如图书或唱片的出版、面世、面市等）:
+adv., prep. 结束:
+adj. 不再时尚的，过时的:
+adv., prep. 不时尚，不时兴，过时:
+adv., prep. 放假（表示一个过程的结束）:
+adv., prep.（日、月、星辰）可被看见，未被云遮住，即出现:
+adv., prep.（花）完全开放，盛开:
+adj.（花）盛开的:
+adv., prep.（海潮）在退潮期；或退潮:
+adj. 退潮的:
+adv., prep. out of sth 从（某个数目或集）中:
+adv., prep. [非正式] 向他人公开自己的同性恋身份:
+vt. 公开说出某人的同性恋身份（尤指在同性恋者本人不愿公开的情况下）:
+adv., prep. 1 out (of sth) 从某个地方或事物里出来:
+2 out (of sth)（人）不在家或不在工作地点，即外出:
+3 在建筑物外:
+4 out (of sth) 离开某地的边缘:
+5 向外面（看或喊）:
+adv., prep. out (of sth) 远离（某地或陆地）；距离某地或陆地有多远:
+adj.（提议等）不能被接受的:
+adv., prep. out of sth/sb 从…处得到（如从…获得信息或工作等）:
+adv., prep. 图书的出版、面世（或面市）:
+adj.（图书）面世（或面市）的:
+adv., prep. 无知觉；昏迷:
+adv., prep. 网球等运动中可指出界:
+adv., prep. [英，非正式] 罢工:
+adv., prep. 对所有人均可用；为每个人所知晓（如图书或唱片的出版、面世、面市等）:
+adj.（图书、唱片等）面世的、面市的:
+adv., prep.（书籍等）不在图书馆；已被某人借走:
+adv., prep. 到底；完全地:
+adv. 不可能；或不被允许:
+prep. 不可能；或不被允许:
+out |[aʊt]
+The word is out that she has fled the country. 有消息说，她已经逃离了那个国家。
+to desperately look for an out 拼命寻找一条脱身之计
+People can keep out of the sun to avoid skin cancer. 人们可以通过躲开阳光来避免患上皮肤癌。
+They want this government out. 他们想要这届政府下台。
+to get out of the army 离开部队 
+Brown goes on to the semi-finals but Lee is out. 布朗进入了半决赛，但李被淘汰了。
+He got thrown out of the restaurant. 他被逐出了餐馆。
+Brown goes on to the semi-finals but Lee is out. 布朗进入了半决赛，但李被淘汰了。
+It was an awful job and I’m glad to be out of it. 那件差事简直是受罪，不过我很高兴摆脱掉了。
+Most companies these days are just out to make a quick profit. 大多数公司如今只图快速获利。
+The West Indies were all out for 364. 西印度群岛队以364分全队出局。
+The umpire said the ball was out. 裁判员判球出界。
+We’re out of milk. 我们没有牛奶了。
+to be out of work 失业 
+You’re out of luck--I have no money on me. 你真不走运——我身上没带钱。
+I’m out ten thousand dollars! 我缺一万美元！
+to cry out 大声哭 
+to call out 大声叫 
+to shout out 大声喊 
+Read it out loud. 请大声读出来。
+Nobody spoke out in his defence. 没有人站出来替他说话。
+The light went out. 灯灭了。
+The fire had burnt itself out. 火烧尽后熄灭了。
+All the lights were out in the house. 房子里所有的灯都熄灭了。 
+Try and stay out of trouble. 尽量别惹麻烦。
+The plane was out of my sight. 飞机消失在我的视线中。
+Shaun was in the bedroom, out of earshot, watching television. 肖恩在卧室里看电视，听不到。
+The economy is starting to climb out of recession. 经济正开始慢慢走出萧条。
+I asked out of curiosity. 我出于好奇问了问。
+He did it out of spite. 他那么做是出于恶意。
+He took up office out of a sense of duty. 他任职是出于一种责任感。
+Your guess was a long way out. 你的猜测完全错了。
+You were slightly out in your culculations. 你的计算出了点小错。
+The estimate was out by less than $30. 这个估计差了不到30美元。
+a few inches out 几英寸的误差
+We’re out of milk. 我们没有牛奶了。
+to be out of work 失业 
+You’re out of luck--I have no money on me. 你真不走运——我身上没带钱。
+to get stains out 清除污渍 
+He drank his beer out of the bottle. 他从瓶口直接喝啤酒。
+a statue made out of bronze 一尊青铜像 
+to make a building out of wood 用木头建房子 
+a romance straight out of a fairy tale 直接从童话改编的浪漫故事 
+I paid for the damage out of my savings. 我用自己的积蓄赔偿了损失。
+His new book will come out this July. 他的新书将于今年七月出版。
+Word always gets out no matter how careful you are. 无论你多么小心，消息总会走漏。
+Out with it! 你就说出来吧！
+It was July and school was out. 七月，学校放假了。
+Romance is making a comeback. Reality is out. 浪漫正回归；现实已过时。
+Yellow is out this year. 今年黄色不时兴了。
+It was July and school was out. 七月，学校放假了。
+The moon came out. 月亮出来了。
+The wild flowers are coming out. 野花正盛开着。
+Well, the daffodils are out in the gardens! 哇，花园里的水仙花开了！
+The tide/sea is going out. 潮水正在退去。
+The tide/sea is out. 退潮了。
+three out of five 五分之三 
+He scored eight out of ten. 总分十分他得了八分。
+an out gay man 已公开同性恋身份的男子 
+He was out. 他公开了自己的同性恋身份。
+He is outed by one of his friends. 他的一个朋友揭露了他的同性恋身份。
+to ran out into the garden 跑出去，冲进花园 
+She let him out of the house. 她让他离开了那座房子。
+to come out of college 离开大学（如大学毕业）
+Out you go! 滚出去！
+Some coins fell out. 几枚硬币掉了出来。
+to get out of bed 起床 
+He opened the box and out jumped a frog. 他打开盒子，从里面蹦出一只青蛙来。
+He took out his notebook. 他拿出了笔记本。
+I called him but he was out. 我给他打了电话，但是他不在。
+Let’s go out this evening. 咱们今天晚上出去吧。
+It’s hot out. 外面热烘烘的。
+The boy dashed out into the road. 那个男孩向路中间冲去。
+Don’t lean out of the window. 不要探出窗外。
+He was staring out of the window. 他当时正凝视着窗外。
+to work out in Africa 远在非洲工作 
+He lives right out in the country. 他住在远离此地的乡间。
+ten miles out of the port 离港口十英里远 
+They’ve finished their investigations out there. 他们已经完成了在那边的调查。
+That idea is out, I’m afraid. 那个观点恐怕是不能接受的。
+I’ll get the truth out of him. 我会从他那里套出实情。
+Tom hasn’t let the pressure take the fun out of the sport. 汤姆没有让压力夺走这项运动的乐趣。
+His new book will come out this July. 他的新书将于今年七月出版。
+The French edition came out in early 2006. 法文版在2006年初面市。
+His new novel is out now. 他的新小说现已面市。
+He was out for three hours and came round finally. 他昏迷了三个小时，最终苏醒过来了。
+The umpire said the ball was out. 裁判员判球出界。
+His new book will come out this July. 他的新书将于今年七月出版。
+The French edition came out in early 2006. 法文版在2006年年初面市。
+Their new album is out now. 他们的新专辑现已面市。
+The book you wanted is out on loan. 你要的那本书已经借出去了。
+Hear me out before you say anything. 你听我说完再讲话。
+We left them to fight it out. 我们让他们争吵（或打）个输赢。
+Swimming is out until the weather gets warmer. 天气转暖前，游泳是不可能的。
+
+n. [C, U] 一天中的第一顿饭，即早饭，早餐:
+vi. [正式] breakfast (on sth) 吃早饭，吃早餐:
+breakfast |['brekfəst]
+to eat breakfast 吃早餐 
+English breakfast 英式早餐

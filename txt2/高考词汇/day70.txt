@@ -1,0 +1,615 @@
+emperor								皇帝
+bingo									赢了，好
+operator								接线员，操作者，经营者
+apology								道歉
+an apology for							不够格
+pure									纯的，纯洁的，十足的
+devotion								忠诚，挚爱，投入
+grade									等级，年级，斜坡，将...按级分类
+now									现在，当时，如此看来，既然
+wounded								受伤的
+hen									母鸡，雌性的
+opposite								对立面，对面的，相反的
+profit								利润
+courage								勇气
+outstanding							杰出的，显著的
+shelter								庇护所，躲避
+look									看，寻找，朝向，外观
+looks									容貌
+coast									海岸，滑行
+ignore								忽视
+different								不同的
+real									真的，很
+for real								真实的，认真的
+real assets							不动产
+the real								现实
+typical								典型的，特有的
+handy									好用的，手边的
+broken								破碎的，间断的，沮丧的
+aloud									出声的，大声的
+appear								出现，显得，出版，出庭
+barbershop								理发店
+student								学生
+yummy									好吃的
+midnight								午夜
+addition								加法，添加物
+in addition							另外
+in addition to							除...之外
+\\\\\\\\
+
+n. [C] 一个帝国的统治者，即皇帝:
+emperor |['empərə]
+the Roman emperors 罗马皇帝 
+the Emperor Napoleon 拿破仑皇帝 
+the emperor of Japan 日本天皇 
+reigning emperor 在位的皇帝 
+future emperor 皇储
+
+exclamation.（当发现了自己正在寻找的东西，或做成了自己正在做的事情时）用于表示高兴或惊讶:
+n. [U] 宾戈游戏（玩者均持有一张带有数字的卡片，第一个凑齐庄家喊出的全部数字或一组数字者胜出）:
+bingo |['bɪŋɡəʊ]
+The computer program searches, and bingo! We’ve got a match. 电脑程序在搜索，瞧！找到匹配的了。
+to play bingo 玩宾戈游戏 
+a bingo hall 宾戈游戏厅
+
+n. [C] 常构成复合词，操作设备或机器的一个人:
+n. [C] [非正式，尤贬] 善于采用技巧来获取（尤指不诚实地获取）自己想要的东西的一个人，如善于投机钻营者等:
+n. [C] 数学中可指算子:
+n. [C] 英也用telephonist，指电话接线员:
+n. [C] 常构成复合词，经营某一业务（通常是服务业务）的一个人或一家公司。类似于service和firm，但operator更强调运营过程中各部门、各环节之间相互配合的协调性和统一性:
+operator |['ɒpəreɪtə]
+machine, plant operator 机器操作员；设备操作员 
+camera, computer, lathe operator 相机操作员；电脑操作员；车床操作员 
+skilled operator 熟练的操作员
+smooth, slick, shrewd operator 八面玲珑的取巧者；油嘴滑舌的取巧者；工于心计的取巧者
+switchboard, telephone operator 电话总机接线员；电话接线员
+tour operator 经营旅游业者 
+cable-television operator 有线电视运营商 
+network operator 网络服务运营商 
+satellite, telecommunications operator 卫星运营商；电信运营商 
+airline（尤英）, bus（尤英）, train（英）operator 航空公司；公交公司；铁路公司 
+big, large operator 大运营商 
+small operator 小运营商 
+private operator 私人经营者
+
+n. 1 [C, U] apology (to sb) (for sth) 道歉（或谢罪）的言辞或话语:
+2 [C, usually pl.] 因不能赴会或必须提前离开所进行的致歉:
+apology |[ə'pɒlədӡɪ]
+a letter of apology 道歉信 
+a full written apology 一份正式的书面道歉 
+She certainly owes you an apology. 她当然应该向你道歉。
+Please accept my sincere apologies. 请接受我诚挚的歉意。
+She made her apologies and left early.（正式）她致歉后就提前离开了。
+
+adj. 干净且不含任何有害物质的:
+adj. 1 常用于名词前，与其他事物不掺杂的；没有添加物的。如纯的。是一个基础和常规用词:
+2（颜色、声音或光）非常清晰的、纯正的、完美的:
+adj.（声音）非常清晰的、纯正的、完美的:
+adj.（光）非常清晰的、纯正的、完美的:
+adj.（颜色）非常清晰的、纯正的、完美的。是此义的常规用词:
+adj.（尤指性方面）没有邪恶想法或行为的，即纯真无邪的，贞洁的；也可指道德上良好的，即正派的:
+adj.（生物的品种或种族）血统纯正的，纯种的:
+adj. 只用于名词前，（学科）纯理论的（即只关心知识的增长而不关心其实际运用的）:
+adj. 只用于名词前，完全的，纯粹的:
+pure |[pjʊə]
+a bottle of pure water 一瓶纯净水 
+The air was sweet and pure. 空气清新而纯净。
+pure gold 纯金 
+100% pure cotton 100%的纯棉 
+Classical dance in its purest form requires symmetry and balance. 真正的古典舞蹈要求对称与平衡。
+beaches of pure white sand 洁白的沙滩 
+a pure voice 纯净的嗓音
+a pure voice 纯净的嗓音
+pure white 洁白的
+lead a pure life 过纯洁的生活 
+His motives were pure. 他动机纯正。
+be pure in body and mind（文学用语）身心纯洁
+These cattle are one of the purest breeds in Britain. 这些牛是英国最纯的品种之一。
+pure mathematics 纯数学 
+technology as opposed to pure science subjects 相对于纯理论学科的技术
+They met by pure chance. 他们相遇纯属偶然。
+She laughed with pure joy. 她由衷地笑起来。
+
+n. [U, sing.]（对某人或某事物的）极大的关爱或支持:
+n. [U, sing.] 花费大量时间或精力在某事上的行为，如奉献、专心，相当于dedication:
+n. [pl.] devotions 祈祷和其它宗教敬拜行为:
+devotion |[dɪ'vəʊʃn]
+His devotion to his wife and family is touching. 他对妻子和家人的关爱感人至深。
+Their single-minded devotion to the care of the dying was admirable. 他们对垂死者的尽心照顾真是令人钦佩。
+her devotion to duty 她的敬业 
+Her devotion to the job left her with very little free time. 她全身心投入工作，几乎没有闲暇时间。
+her total devotion to her husband 她对丈夫的忠贞不渝 
+a man of deep religious devotion 十分虔诚的宗教信徒
+
+n. [C] 考试或学校作业的成绩等级，分数等级:
+vt. [尤美] 给学生或其功课等评分:
+n. [C] [术语] 疾病的程度，阶段:
+n. [C] [英] 音乐考试的级别，水平:
+n. [C] [美] 军衔:
+n. [C] 在美国的学制中，可指年级:
+n. [C] [尤美] 地面的斜坡，尤指公路或铁路的斜坡:
+n. 1 [C]（产品或材料的）质量等级，品级:
+2 [C] 活动（如比赛）的级别:
+3 [C] 在一个组织中，可指某人的（能力或职衔的）等级，级别:
+grade sth (as sth) 常用被动式，指把人或事物按照能力、质量、尺寸等进行分级:
+grade |[ɡreɪd]
+a good grade 理想的成绩 
+The oral exam constitutes 10% of the final grade. 口试占总成绩的10%。
+an A-grade essay 一篇得A的文章 
+failing, passing grade（均美）不及格的成绩；及格的成绩 
+course grade（美）课程成绩 
+I need to improve my grades. 我需要提高自己的成绩。
+grade point average（美）平均学分绩点
+to grade the students’ work 对学生们的作业评分 
+to grade papers 评阅试卷 
+to be graded A 被评为甲等 
+I don’t think he graded our essays fairly. 我认为他给我们的作文打分不公平。
+high grade fever 高烧
+lieutenant junior grade 中尉军衔
+to teach first grade 教一年级 
+Sam is in (the) second grade. 萨姆上二年级。
+to start third grade 开始上三年级 
+to skip a grade 跳一级
+to drive up a steep grade 驾车爬上一个陡坡
+a good grade of furniture 高品质家具 
+a piece of high-grade building land 一块优质建筑用地 
+low-grade steel 低等级钢 
+to play top-grade football 踢顶级足球赛事 
+salary grades 工资级别 
+senior grades 高级职位 
+a job at a lower grade 较低职位的工作
+vt. grade sth/sb (by/according to sth) 
+They are graded according to their ability. 将他们按照能力进行分级。
+finely graded nuances of language 语言中仔细区分的细微差别 
+The timber is graded according to its thickness. 木材按厚度分级。
+The containers are graded by size. 容器按尺寸分级。
+
+adv. 口语中用于轻微地强调一下请求或命令:
+adv. [非正式] 用于表示对某事物厌烦:
+adv. 从此刻就开始，立刻:
+pron. 立刻，马上:
+adv. 对故事或过去事件进行描述时，now用于指正写道（或正说到）…的时刻，即这会儿，那时候:
+adv. 1 现在，此刻，目前；到现在。是此义的基础用词，含义较广，也极为常用:
+2 在此刻；或从此刻开始:
+pron. 现在:
+adv. 用于表明某一情况是刚刚所发生之事的结果，可称作这样一来:
+conj. now (that) ... 由于（正发生或已发生的事），既然:
+adv. 用于引出和已叙述内容形成对比的内容，即然而。不太常用:
+adv. 口语中用于所叙述信息的承上启下:
+adv. 在改变话题或让对方做某事前，用于引起对方的注意:
+now |[naʊ]
+Come on now. You know you must be hungry. 好了。你看你一定是饿了。
+Come and sit down here, now. 好了，来坐在这里吧。
+Now they want to tax food! 他们竟然要对食品收税！
+What do you want now? 你又想要什么？
+It’s broken. Now I’ll have to get a new one. 旧的破了，我只好去买个新的了。
+I’m sorry, but I must go now. 对不起，但是我得马上走。
+From now on I’ll be more careful. 从今以后，我会更加小心。
+Now is your chance to talk to him. 马上就是你和他谈话的机会了。
+She felt a little better now. 这会儿她觉得好点儿了。（指过去的这会儿，而非现在的这会儿）
+It was too late now for Blake to lock his room door. 布莱克那时锁他的房门已经太晚了。
+Where are you living now? 你现在住在哪里？
+It’s too late now. 现在太晚了。
+He’ll be home by now. 他现在该到家了。
+Start writing now. 现在开始写吧。
+I am now ready to answer your questions. 我现在可以回答你们的问题了。
+Now is the time when we must all live as economically as possible. 现在我们尽量要节俭度日。
+She told me not to repeat it, but now I don’t suppose it matters. 她告诉我不要重复它，但是这样一来我认为它不重要了。
+Now that the kids have left home we’ve got a lot of extra space. 孩子们都离开家了，我们住着就更宽敞了。
+Now you’re settled, why don’t you take up some serious study? 既然你安顿下来了，为什么不做些认真的研究呢？
+Now, if it was me, I’d want to do more than just change the locks. 然而，如果是我，我要做的远不只是换换锁。
+My son went to Aspen, in Colorado. Now he and his wife are people who love a quiet holiday. 我儿子去了科罗拉多的阿斯彭。你要知道，他和他妻子都是喜欢安静假期的人。
+Now, listen to what she’s saying. 嗨，听听她在说什么。
+Now come and sit down. 喂，过来坐下。
+
+inflicted with a wound, injured:受了伤，受伤了
+wounded |ˈwuːndɪd| Adjective/:受伤,受伤的
+a wounded soldier:一名受伤的士兵
+
+n. [C] 母鸡:
+hen |[hen]
+battery, free-range（尤英）hen 笼养的母鸡；放养的母鸡 
+mother hen 鸡妈妈 
+a flock of hens 一群母鸡 
+hen coop（英）, hen house 鸡笼；鸡舍
+
+prep. 在电影或戏剧中与某人合演，即联袂演出:
+adj. 常用于名词前，与某事物截然不同的:
+n. [C] 与…截然相反或对立的人或事物:
+adj. 1 只用于名词前，处于某个区域的另一侧且常与…相面对的:
+2 用于名词后，指面对（说话者或其他人或事物）的:
+adv. 对面:
+prep. 处于某个区域的另一侧，且常与…相面对:
+opposite |['ɒpəzɪt]
+She starred opposite Tom Hanks. 她与汤姆·汉克斯联袂主演。
+in the opposite direction 在反方向上 
+She tried calming him down but it seemed to be having the opposite effect. 她试着让他平静下来，却似乎火上浇油了。
+students at opposite ends of the ability range 能力差距两极的学生
+Hot and cold are opposites. 热和冷是对立面。
+What is the opposite of heavy? 重的反义词是什么？
+Exactly the opposite is true. 事实恰恰相反。
+In temperament, she was the complete opposite to her sister. 她和她姐姐的性格截然不同。
+The effect was exactly the opposite to what he intended. 效果与他的意图正好相反。
+opposites attract 异性相吸
+Answers are given on the opposite page. 答案在对页上。
+on the opposite side of the road 在马路对面 
+the opposite end of the country 该国的另一端 
+the opposite corner of the room 房间里的另一个对角 
+the house directly opposite 正对面的房子 
+He sat down in the chair opposite. 他在对面的椅子上坐了下来。
+He lives opposite. 他住在对面。
+See opposite for further details. 详情见对页。
+He looked up at the buildings opposite. 他抬头看了看对面那些楼。
+I sat opposite him during the meal. 席间我坐在他的对面。
+The bank is opposite the supermarket. 银行在超市对面。
+Write your address opposite your name. 在姓名旁边写上你的地址。
+
+profit from sth 商业利润。是商业上表示“利润”的专业用词，也是一个基础通用词。它是一个很纯粹的概念，仅表示商业活动中赚得的金钱与消耗的金钱之间的差额。词义与loss（亏损）相反:
+n. [U] 正式用法，指从做某事中所获得的好处，裨益。不太常用:
+vt.＆vi. profit (by/from sth) 从某种情况中获得好处，对某人有用、有益:
+profit |['prɒfɪt]
+to make a quick profit 赚快钱 
+expected profit 预期利润 
+gross profit 毛利 
+clear, net profit 净利润 
+pure profit 纯利润 
+an annual profit of £50 000 5万英镑的年利润 
+corporate profit 公司利润 
+personal profit 个人收益 
+profit rate 利润率 
+profit maximization 利润最大化 
+The agency is not run for profit. 该机构不是为了营利。
+Future lawyers could study this text with profit. 未来的律师研读这一文本也许会有裨益。
+Farmers are profiting from the new legislation. 新法规使农民受益。
+We tried to profit by our mistakes. 我们努力从错误中吸取教训。
+Many local people believe the development will profit them. 当地的许多人认为，这项开发将对他们有利。
+
+n. [U]（面对危险、痛苦、逆境等所表现出来的）勇气，是一种正式或夸张用法，具有一定的文学色彩。单论词义，相当于bravery:
+courage |['kʌrɪdӡ]
+He showed great courage and determination. 他表现得十分勇敢和果断。
+courage in the face of danger 面对危险时的胆量 
+intellectual, moral, political courage 智勇；道德勇气；政治胆量 
+It takes courage to sing in public. 在公众场合唱歌需要勇气。
+I didn’t have the courage to tell him. 我没有勇气告诉他。
+He lacked the courage to try something new. 他没有勇气去尝试新事物。
+I finally plucked up enough courage to speak to Rachel. 我终于鼓起勇气可以和蕾切尔讲话了。
+I admire your courage in saying what you think. 我佩服你怎么想就怎么说的勇气。 
+
+adj. 常用于名词前，非常明显的；或非常重要的。如突出的，相当于prominent:
+adj.（款项、工作、困难等）尚未支付的、尚未完成的、尚未解决的等:
+adj.（款项）尚未支付的:
+adj. 极好的、优秀的、杰出的:
+outstanding |[͵aʊt'stændɪŋ]
+the outstanding features of the landscape 这一风景的突出特征
+She has outstanding debts of over £500. 她未清偿的债务超过500英镑。
+A lot of work is still outstanding. 许多工作尚未完成。
+to leave the debt outstanding 保持负债 
+She has outstanding debts of over £500. 她未清偿的债务超过500英镑。
+75% of the amount originally borrowed is still outstanding. 最初的借款仍有75%未偿还。
+outstanding player, outstanding achievement, outstanding success, outstanding performance 杰出的运动员；优秀的成绩；杰出的成就；很棒的演出 
+an area of outstanding natural beauty 一个自然风景极美的地区
+
+vi. shelter (from sth) 待在一个安全的地方使自己免遭恶劣天气或危险，即躲避（风雨或危险）:
+n. [U] shelter (from sth) 对…（如雨、危险或攻击）的躲避:
+vt. shelter sb/sth (from sb/sth) 给…提供一个地方，使其免遭恶劣天气或危险；保护:
+n. 1 [U] 一个可以供人居住的地方，是人类的一项基本需求，即居所，住处。是一个最具概括性的词，其含义包括了各种各样供人居住的地方:
+2 [C] 常构成复合词，建造起来的一个遮蔽物或庇护处（尤指为躲避恶劣天气或攻击）:
+3 [C]（尤指为慈善机构所拥有的）一栋建筑，用以收容无家可归者或受虐待的人或动物，即收容所，庇护所:
+shelter |['ʃeltə]
+We sheltered from the rain in a doorway. 我们在一个门口处避雨。
+to take shelter from the storm 躲避暴风雨 
+to seek shelter from the gunfire 躲避炮火 
+The great tree gave shelter from the wind. 这棵大树挡住了风。
+She was standing in the shelter of the doorway. 她正躲在门口。
+shelter for the night 过夜的地方 
+tax shelter（比喻用法）避税手段 
+Trees shelter the house from the wind. 树给房子挡住了风。
+to shelter the homeless 庇护无家可归者 
+Perhaps I sheltered my daughter too much. 也许我对女儿保护过度了。
+Human beings need food, clothing and shelter. 人类有衣、食、住的需求。
+They built a rough shelter from old pieces of wood. 他们用旧木条搭了一个简陋的窝棚。
+temporary shelter 临时避难所 
+stone, underground, wooden shelter 石屋；地下掩体；木屋 
+air-raid（英）, bomb, bus, emergency shelter 防空洞；公交车候车亭；紧急避难所 
+a shelter for cattle 牛棚 
+animal shelter 动物收养所 
+homeless shelter 无家可归者收容所
+
+n. [sing.] 时尚；式样；风格:
+n. 1 [C, usually sing.] …的外观，外表，外貌，样子。仅指各种事物呈现于人类视觉（而非其他感官）的部分（即被人类视觉所感知的部分），含义的范围比appearance要窄:
+2 [pl.] looks 可指一个人的外表（尤指吸引人的外貌）:
+linking verb. look (to sb) like sb/sth 看起来像，似乎，显得:
+as though ... 与…有相似的外观；有一种（表明某事属实或要发生的）表象，即好像，仿佛:
+look (to sb) like ... 看起来好像，似乎有可能:
+vi. look (for sb/sth) 寻找，寻求。是一个简单用词:
+n. [C, usually sing.] look (for sth/sb) 寻找，查找:
+vi. look (at sb/sth) 把眼睛转到某个方向，即看，瞧。是此义的常规用词:
+n. [C, usually sing.] look (at sb/sth) 看，瞧；考虑:
+n. [C] 眼睛的眼神或脸的表情。是从观看者的角度所下的定义。也较为常用。是“眼神”的一个常规用词:
+n. [C, usually sing.] look (at sb/sth) 考虑:
+vi. 面向某一方向，即朝向，正对:
+vt.＆vi. look (at sth) 注意，留心:
+exclamation.（常在烦恼时）让别人注意你将要说什么:
+look |[lʊk]
+The punk look is back in fashion. 朋克式的装扮又时兴起来了。
+The classic look never goes out of fashion. 经典式样永远不会过时。
+natural look 自然妆 
+They’ve given the place a completely new look. 他们让此地的面貌焕然一新。
+It’s going to rain today by the look of it. 看样子今天要下雨了。
+the overall look of the house 这座房子的整体外观 
+the overall look of the movie 这部电影给人的整体感觉 
+I didn’t like the look of the salad so I didn’t touch it. 我不喜欢那色拉的卖相，所以没吃。
+Joe isn’t getting much sleep from the look of him. 乔看上去睡眠不足。
+a fabric with the look of silk 看起来像丝绸的织物 
+He had classic good looks. 他仪表堂堂。
+boyish, clean-cut looks 稚气的长相；轮廓分明的五官 
+She’s lost her looks. 她姿色已衰。
+That book looks interesting. 那本书好像很有趣。
+You made me look like a complete fool! 你让我大出洋相！
+vi. 1 look (to sb) like sb/sth 
+look (to sb) as if ... 
+That photograph doesn’t look like her at all. 那张照片看上去一点也不像她。
+It looks like rain. 像是要下雨的样子。
+You look as though you slept badly. 你好像没睡好觉。
+2 look (to sb) as if ... 
+as though ... 
+It doesn’t look as if we’ll be moving after all. 看样子我们还是不可能搬迁了。
+I can’t find my book--I’ve looked everywhere. 我找不到我的书——到处都找遍了。
+Where have you been? We’ve been looking for you. 你上哪儿去了？我们一直在找你。
+to look for a job 找工作
+I’ve had a good look for it, but I can’t find it. 我仔细找过了，可是找不着。
+What are you looking at? 你在看什么？
+Look! That’s Tom! 看！是汤姆！
+She looked around helplessly. 她无助地看了看周围。
+to look and see 去看看 
+Look at the machine very carefully before you buy it. 购买机器以前要仔细查看。
+Now is the time to look again at these arguments. 现在是重新审视这些论据的时候了。
+Here, have a look at this. 来，看看这个。
+I want to take a look around. 我想到处看看。
+A look passed between them. 他们互相看了一眼。
+Take a look at these figures! 看一下这些数字吧！ 
+We’ll be taking a close look at these proposals. 我们会仔细审查这些方案。
+to take a look at the topical money issues 研究热门的金钱问题 
+The documentary provides an inside look at life in the army. 该纪录片展现了军营内部的生活。
+He didn’t like the look in her eyes. 他不喜欢她的眼神。
+The two girls exchanged knowing looks. 两个女孩交换了会心的眼神。
+She had a worried look on her face. 她一脸担忧的样子。
+a dirty look 一张臭脸 
+We’ll be taking a close look at these proposals. 我们会仔细审查这些方案。
+to take a fresh look at our these techniques 重新审视一下这些销售技巧
+The house looks east. 这房子朝东。
+The hotel looks out over the harbour. 从这家旅馆朝外看可俯视港湾。
+Look at the time! We’re going to be late. 注意一下时间！我们要迟到了。
+Can’t you look where you’re going? 你走路可不可以小心点儿？
+Look, I think we should go now. 喂，我想我们现在得走了。
+Look, that’s not fair. 注意，那样不公平。
+
+
+looks | 看起来,长相
+
+vi. coast (through/to sth) 不费力地取得成功:
+n. [C, U] 海洋旁边或附近的土地，即海岸；海滨。该词指一国与海洋相接的边缘，包括高于海面而与大陆自然相联的海岛和礁石，但不包括永久位于海面之下的暗礁（而shore则可用以指内水的岸边）:
+vi. 靠近海岸做沿海岸的航行:
+vi. 交通工具（如飞机）不用多少动力而快速平稳地移动:
+vi.（汽车或自行车）移动（尤指不用任何动力而向山坡下滑行，可叫做惯性滑行）:
+vi. [贬] coast (along)（做某事）不出多少力:
+coast |[kəʊst]
+He coasted through his final exams. 他轻松通过了期末考试。
+a village on the coast 沿岸的一个村庄 
+a pretty stretch of coast 一段美丽的海岸线 
+rocky coast 多岩石的海岸 
+east coast 东海岸 
+Atlantic coast 大西洋海岸 
+mainland coast 大陆海岸 
+We spent a day at the coast. 我们在海边度过了一天。
+The plane coasted down the runway. 飞机顺着跑道平稳滑行。
+He pushed in the clutch and coasted to a halt. 他踩下离合器，滑行了一会儿便停下来了。
+She took her feet off the pedals and coasted downhill. 她把脚从自行车的踏板上松开，沿山坡滑行而下。
+You’re just coasting--it’s time to work hard now. 你根本是在应付——现在该努力干了。
+
+vt. 1 不注意或不理会某事物，相当于disregard。一般是主动不理会:
+2 假装没有看到某人（或假装某人没在那里），即假装未见，相当于take no notice of:
+ignore |[ɪɡ'nɔ:]
+He ignored the ‘No Smoking’ sign and lit up a cigarette. 他无视“禁止吸烟”的警示牌，点了根烟。
+to ignore the problem 忽视问题 
+to ignore the risk 忽视风险 
+to ignore my suggestion 忽视我的建议 
+He preferred to ignore these comments. 他宁肯对这些评论置之不理。
+She ignored him and carried on with her work. 她没理他，继续干她的活。
+
+adj. 只用于名词前，分别的，各自的:
+adj. [非正式] 不常用于名词前，不寻常的，与其他人或事物不同的:
+adj. different (from/to/than sb/sth) 与…不同的，有差异的，有区别的。是此义的基础用词和常规用词，最为常用:
+different |['dɪfrənt]
+She offered us five different kinds of cake. 她给我们提供了五种不同的蛋糕。
+customs in different parts of the country 全国各地的风俗 
+I looked it up in three different dictionaries. 我分别在三本词典里查找过。
+‘Did you enjoy the play?’ ‘Well, it was certainly different!’ “你喜欢这出戏吗？”“哦，的确不同凡响！”
+American English is significantly different from British English. 美国英语与英国英语有很大差异。
+People often give very different accounts of the same event. 人们常常对同一件事的叙述大为不同。
+Their customs are very different to ours. 他们的风俗与我们的有很大区别。
+That’s a whole different matter. 那完全是另一回事儿。
+
+adj. 1 真实存在（或发生）的（而非想象或装出来的）:
+2 真正的，正宗的（而非假冒的或非人工的）:
+3 只用于名词前，真正的，真实的，确实的（而非看起来真实的）:
+4 只用于名词前，拥有全部（其应有的）重要品质的（因此配得上因这些品质而得来的称号），即名副其实的:
+adj. 只用于名词前，（金钱或收入）已按物价指数等调整的，按购买力衡量的，即实际的:
+adj. 只用于名词前，用于强调一个状态或品质:
+adv. [美，苏格兰，非正式] 很，非常:
+real |['rɪəl,ri:l]
+It wasn’t a ghost; it was a real person. 那不是鬼魂，是实实在在的人。
+pictures of animals, both real and mythological 现实和神话中的动物图片 
+real life, real world 现实生活；现实世界 
+a real problem 实际的问题 
+We have a real chance of success. 我们确实有获得成功的机会。
+real or imagined threats to national security 对国家安全真实或虚幻的威胁 
+real flowers 真花 
+real leather 真皮 
+The pearls looked real enough. 这些珍珠看起来是真的。
+the real reason 真正的理由 
+real name 真实姓名 
+the real Africa 真实的非洲 
+a real friend 真正的朋友 
+I had no real interest in politics. 我对政治的兴趣不大。
+a real effort 切实的努力 
+real regret 真正的后悔
+Real wage costs have risen by 10%. 实际工资成本增加了10%。
+This represents a reduction of 5% in real terms. 这相当于实际减少了5%。
+a real idiot 十足的白痴 
+a real contrast 鲜明的对比 
+This accident could have produced a real tragedy. 这次事故差一点酿成一场惨剧。
+That tastes real good. 味道好极了。
+He’s a real nice guy. 他是个非常好的人。
+I’m real sorry. 我很抱歉。
+
+adj. 以通常的方式发生的；表明某事物的通常样态的。如一贯的，通常的，相当于normal。强调具有往常的特征:
+adj. 1 typical (of sb/sth) 拥有某个人（或事物、群体）的通常品质或特征的，即典型的、有代表性的，相当于representative:
+2 [常贬] typical (of sb/sth)（通常指别人）以你所认为的方式来行事的，如不出所料的、特有的:
+typical |['tɪpɪkl]
+A typical working day for me begins at 7.30. 我的工作日一般在7:30开始。
+a typical Italian cafe 典型的意大利式小餐馆 
+a typical example of Roman pottery 典型的罗马陶器 
+The weather at the moment is not typical for July. 现在的天气并不是七月份常有的。
+Julia is fairly typical of her age group. 茱莉娅在同龄人中很有代表性。
+Cape Town is by no means typical of South Africa. 开普敦绝对不能代表典型的南非。
+She’s late again--typical!（非正式用法）她又迟到了，一贯如此！
+It was typical of her to forget. 她这个人就是爱忘事。
+He spoke with typical enthusiasm. 他以其特有的热情讲话。
+That’s altogether typical of Tom! 那只有汤姆才干得出来！
+You must not take this attitude as typical of English people. 你决不应该把这当作英国人典型的态度。
+
+adj. 不用于名词前，（用手或工具来制作或修理东西时）技能熟练的:
+adj. [非正式] 1 容易使用的；容易去做的。相当于useful:
+2 handy (for sth/for doing sth) 不用于名词前，所在的位置离某人或某事物近的；位于或储存于一个便利的地方的。即近便，便利（可以是交通近便，也可以是在手边）:
+handy |['hændɪ]
+to be handy around the house 对家里制作修理等杂事很在行 
+to be handy at giving out advice 善于出谋划策 
+Lucy is very handy with a drill. 露西用起钻机来相当得心应手。
+a handy little tool 一个好用的小工具 
+handy tips for removing stains 清除污渍的窍门儿 
+I advise you to buy one--it may come in handy one day. 我建议你买一个，说不定哪天就能派上用场。
+The arrangement was handy for both of us. 这样安排对我们两人都很方便。
+Always keep a cloth handy to wipe up any mess. 手边要常备一块布随时擦拭污渍。
+Have you got a pen handy? 你手头有钢笔吗？
+Our house is very handy for the station.（英）我们家离车站很近。
+
+adj. 常用于名词前，（关系）结束或破裂了的:
+adj. 常用于名词前，（诺言或协议）遭违背的，未履行的:
+adj. 受损的或受伤的，不再完整或不能正常运转的:
+adj. 1 常用于名词前，不连续的，间断的；（过程）被打断的:
+2 破碎的 :
+adj. 常用于名词前，被打扰的:
+adj.（地面）凸凹不平的，坎坷的。颠簸的幅度通常较大:
+adj. 只用于名词前，（人）被疾病或困难折磨得虚弱疲惫的:
+adj.（身体）受损的或受伤的，不再完整或不能正常运转的:
+adj. 只用于名词前，（非母语）说得缓慢且有很多错误的（如结结巴巴的）；不流利的:
+broken |['brəʊkən]
+broken marriage, broken engagement 破裂的婚姻；解除了的婚约
+broken window, broken plate, broken leg 破碎的窗玻璃；破碎的盘子；断了的腿 
+pieces of broken glass 玻璃碎片 
+The TV’s broken. 电视机坏了。
+a single broken white line across the road 横穿马路的一条断断续续的白线 
+broken window, broken plate, broken leg 破碎的窗玻璃；破碎的盘子；断了的腿 
+pieces of broken glass 玻璃碎片
+a night of broken sleep 睡得不踏实的一夜
+an area of broken, rocky ground 一个颠簸、多岩石的地区
+He was a broken man after the failure of his business. 生意失败后他变得心灰意懒。
+a broken leg 一条断腿
+to speak in broken English 说着一口结结巴巴的英语
+
+adv. 1（常指人声）出声地（以使别人能听见）:
+2（常指人声）大声地:
+adv.（常指人声）出声地（以使别人能听见）:
+aloud |[ə'laʊd]
+The teacher listened to the children reading aloud. 老师听着孩子们朗读。
+He read the letter aloud to us. 他把信念给我们听。
+‘What am I going to do?’ she wondered aloud.“我怎么办呢？”她疑惑地说。
+She cried aloud in protest. 她大声抗议。
+The teacher listened to the children reading aloud. 老师听着孩子们朗读。
+He read the letter aloud to us. 他把信大声念给我们听。
+
+linking verb. 给予是（或做）…的印象，即似乎，看起来，显得，相当于seem:
+vi. 到达一个地方:
+vi. 1 开始被看到，如出现。是一个常规用词:
+2 开始存在；开始被知晓；开始被首次使用:
+vi. 参加电影、戏剧、电视节目等的演出:
+vi.（节目）将被播报:
+vi.（书籍）将被出版:
+vi.（内容）将被刊登:
+vi. 1 出庭（作证或受审）:
+2 appear for/on behalf of sb 在法庭上做某人的律师:
+vi. 将在某处被写道或被提及:
+appear |[ə'pɪə]
+He appears a perfectly normal person. 他看上去完全是个正常的人。
+She appeared to be in her late thirties. 看样子她快四十岁了。
+They appeared not to know what was happening. 他们似乎不知道正在发生的事。
+There appears to have been a mistake. 看来有一个差错。
+It appears unlikely that interest rates will fall further. 看来利率不大会再降低。
+By ten o’clock Lee still hadn’t appeared. 到十点钟李仍然没有露面。
+Smoke appeared on the horizon. 地平线上升起了烟。
+A man suddenly appeared in the doorway. 一个男子突然出现在门口。
+Symptoms usually appear within two days. 症状通常在两天内出现。
+When did mammals appear on the earth? 地球上的哺乳动物起源于何时？
+This problem first appeared in the inner cities. 这个问题最初在市区中心出现。
+A new product have recently appeared on the market. 最近市场上出现了一款新产品。
+He appears briefly in the movie as a waiter. 他在这部电影中出演一位戏份很少的服务员。
+She is currently appearing at the Playhouse. 她目前正在剧院演出。
+She regularly appears on television. 她经常上电视。
+His new book will be appearing in the spring. 他的新书将于春季出版。
+to prevent the story from appearing in the national newspapers 阻止全国性报纸刊登这件事
+A man will appear in court today charged with the murder. 一名被控犯谋杀罪的男子今天将出庭受审。
+He has been asked to appear as a witness for the defence. 他已被传唤出庭为被告作证。
+to appear before a court, to appear before a judge 出庭；出庭受审 
+He is the lawyer appearing for the defendant. 他作为被告的辩护律师出庭。
+Your name will appear at the front of the book. 你的名字将出现在书的前页。
+
+n. [U] 理发店四重唱（一种轻音乐，为无乐器伴奏的男声四重唱）:
+n. [C] [尤美] [英常用barber’s] 理发师工作的一个地方，即理发店:
+barbershop |['bɑːbəʃɒp]
+a barbershop quartet 男声四重唱
+
+n. 1 [C] 学校（包括大、中、小学）的学生。是此义的常规用词，极为常用:
+2 [C] [尤美] 尤指中学生:
+3 [C] student of sth 对某一学科非常感兴趣并进行学习的人，即研习者:
+student |['stju:dnt]
+college, university, school student 大学生；学校校生 
+full-time, part-time student 全日制学生；非全日制学生 
+second-year student 二年级学生 
+undergraduate student 本科生 
+master’s student 硕士生 
+fellow student 同学 
+exchange student 交换生 
+law student 法律专业的学生 
+student nurse, student teacher 实习护士；实习教师 
+student numbers 学生数量 
+student loan 学生贷款 
+student dormitory 学生宿舍 
+student protest 学生抗议 
+student fees 学费 
+a high school student 一名中学生 
+a passionate student of geography 一位热衷于地理的学习者 
+a keen student of human nature 一个热衷于探究人性的人
+
+adj. [非正式] 很好吃的，相当于delicious:
+yummy |['jʌmɪ]
+a yummy cake 好吃的蛋糕
+
+n. [U] 午夜十二点，子夜:
+n. [U] [尤美] 深蓝色，相当于midnight blue:
+midnight |['mɪdnaɪt]
+They had to leave at midnight. 他们不得不半夜离开。
+the midnight train 半夜十二点的火车 
+midnight feast（英）, midnight snack 宵夜
+
+n. 1 [C] addition (to sth)（被添加到另外一个事物上的）增加物；添加物:
+2 [U] addition (of sth) 将…添加到另外一个…上的行为，即增加；添加:
+n. [U] 加；加法。反义词为subtraction:
+addition |[ə'dɪʃn]
+the latest addition to our range of cars 我们汽车系列新增加的款式 
+an addition to the family 这家新添的一口人（又生了一个孩子）
+building, room addition 建筑物的扩建部分；房间的扩建部分 
+the addition of eggs 加鸡蛋 
+the addition of a picnic site 增添一个野餐场所
+children learning addition and subtraction 学习加减法的儿童 
+She can do addition. 她会做加法。

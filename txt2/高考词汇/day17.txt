@@ -1,0 +1,673 @@
+packet					盒，包，一大笔钱
+failure					失败，未做，衰退
+apartment					公寓套间
+conscience					良心，内疚
+worldwide					世界范围的
+appendix					阑尾，附录
+Canada					加拿大
+parent					父母
+kill					杀死，使极不舒服
+kill the pain					止痛
+frighten					使...惊恐
+unsafe					不安全的
+term					期限，术语，项，条款，付款，关系
+bureaucratic					官僚主义的
+gown					女礼服，长袍
+crazy					发疯的，愚蠢的，惊人的
+go crazy					发火
+outward					表面的，向外的
+exploit					英雄业绩，开发，剥削
+amorous exploits					风流韵事
+divide					分，分配，分开，除
+line					线，轮廓，排，行，方式
+in line					一致的
+on the line					面临危险
+bag					袋，占有
+bags					行李
+bagging					占有
+bags of					大量
+in the bag					十拿九稳
+sail					帆，航行，掠过，驾驶
+go for a sail					乘船出游
+untrue					不真实的，不精确的
+reading					阅读，读物，读数，解读
+take a reading					查表
+toward					向，接近，对于，用于
+discrimination					歧视，鉴赏力
+interval					间隔，中场休息
+outgoing					友好的，离开的
+subtraction					减法
+\\\\\\\\
+
+n. 1 [C] [英]（用于包装商品的）小型纸质容器，或其小型硬纸板容器:
+2 [C] [美] 装有极少量液体或粉末的一个封闭的塑料（或纸质）小包装，相当于英式的sachet:
+n. [C] 通过计算机网络所发送的一则消息的一个数据包或信息包:
+n. [sing.] [英，非正式] 一大笔钱:
+n. [C] 由纸或厚信封所包起来的一个小东西（以通过邮递、携带等方式来寄送，或作为礼物送给别人），即小包裹:
+n. [C] [美]（为某一用途）作为一个整体来提供的一套文件:
+packet |['pækɪt]
+cigarette packet（英）（美常用cigarette pack）烟盒 
+sugar packet（美）糖包 
+seed packet 种子袋 
+pay packet（英）工资袋；薪资 
+math packet（美）假期数学作业 
+a packet of biscuits 一包饼干 
+a packet of instant cocoa mix 一袋混合速溶可可粉 
+a packet of sugar 一包糖
+That car must have cost a packet. 那辆汽车一定花了一大笔钱。
+A packet of photographs arrived with the mail. 一包照片寄过来了。
+a training packet 一套培训材料
+
+n. [U, C] 机器或身体部位的故障或失灵（身体部位出现故障时可称为疾病，不过failure是从身体部位的功能运转之正常与否的角度来描述的疾病）:
+n. 1 [U]（在做某事或达成某事方面）失败:
+2 [C] 失败的人或事物:
+n. [U, C] failure to do sth（行为意义上的）未做某事（尤指你被期望去做的事）:
+n. [U, C] 身体部位的疾病或功能衰竭（身体部位出现故障时可称为疾病，不过failure是从身体部位的功能运转之正常与否的角度来描述的疾病）:
+n. [U, C] crop/harvest failure（庄稼或收成的）歉收:
+n. [C, U] business failure（公司或企业的）倒闭。是此义的一个基础用词:
+failure |['feɪljə]
+mechanical, structural, technical failure 机械故障；结构故障；技术故障 
+battery, brake, component, computer, engine, equipment, power, system failure 电池的电量不足；刹车失灵；零部件故障；计算机故障；发动机故障；设备故障；停电；系统故障 
+heart, kidney, organ failure 心脏衰竭；肾脏衰竭；器官衰竭
+The success or failure of the plan depends on you. 这项计划的成败取决于你。
+All my efforts ended in failure. 我的一切努力最后都无济于事。
+moral failure 道德败坏 
+academic, financial, military failure 学业失败；财务失败；军事上的失败 
+to admit failure 认输 
+a sense of failure 挫败感 
+The whole thing was a complete failure. 整个事情彻底失败了。
+He was a failure as a manager. 他当管理者并不成功。
+The movie was one of the rare failures in his career. 这部电影是他职业生涯中少有的败笔之一。
+the failure of the United Nations to maintain food supplies 联合国未能维持粮食供应 
+Failure to comply with the regulations will result in prosecution. 不遵守规章制度将被起诉。
+Nothing can excuse your failure to ask my permission. 不管什么原因都不能成为你不征得我允许的借口。
+heart, kidney, liver, organ failure 心力衰竭；肾脏衰竭；肝功能衰竭；器官衰竭
+crop, harvest failure 农作物歉收；收成不好
+bank, business, company, corporate, institutional, market failure 银行破产；公司破产；机构倒闭；市场萧条
+
+n. 1 [C] [尤美]（通常指在同一楼层的）公寓套房:
+2 [C] 度假用的公寓套房:
+3 [usually pl.] [英] 住宅的一个房间，尤指一个大型名宅的一间屋子:
+apartment |[ə'pɑːtmənt]
+comfortable, luxury apartment 舒适的公寓；豪华的公寓 
+studio apartment 单间公寓 
+basement apartment 地下室公寓 
+I share an apartment with two friends. 我和两个朋友合住一套公寓。
+apartment complex 公寓大楼 
+holiday apartment（英）
+You can visit the whole palace except for the private apartments. 整座宫殿除内殿外均可参观。
+royal apartments 王室套房
+
+n. [U, C] 对自己所做过（或未曾做过）的某事所怀有的一种内疚感:
+n. 1 [C, U] 内心的一部分，负责对行为之正误进行判断，即良心，良知:
+2 [U]（做事）凭良心（即使这可能会引起一些问题）:
+conscience |['kɒnʃəns]
+I have a terrible conscience about it. 我对此事深感愧疚。
+He had no conscience about taking his brother’s money. 他对拿哥哥的钱一点儿也不觉得内疚。
+I have a clear conscience. 我问心无愧。
+to have a guilty conscience 问心有愧 
+individual conscience 个人良知 
+moral, social conscience 道德良知；社会良知 
+consumers with an environmental conscience 有环境意识的消费者 
+to followe my conscience 凭我的良心行事 
+to examine your conscience 扪心自省 
+a man of conscience 一个有良知的人 
+freedom of conscience 凭良心行事的自由 
+Jane is the voice of conscience in the play. 简在这部戏中是良知的代言人。
+
+adj.（常作前置定语）影响全世界的；世界各地的:
+adv. 在全世界:
+worldwide |['wə:ld͵waɪd]
+an increase in worldwide sales 全球销售额的增长 
+worldwide attention 全世界的关注 
+a worldwide epidemic 一次世界性的疾病流行 
+We have 8 000 members worldwide. 我们在全世界有8000名成员。
+
+n. [C] 阑尾:
+n. [C] 书籍或文件的附录:
+appendix |[ə'pendɪks]
+He was taken to hospital with a burst appendix. 他阑尾破裂被送进了医院。
+Doctors had to take out his appendix. 医生不得不切除他的阑尾。
+Full details are given in Appendix 7. 详情见附录7。
+
+the second largest country in the world, covering the entire northern half of North America with the exception of Alaska, population 35,900,000 (estimated 2015), official languages, English and French, capital, Ottawa.:世界第二大国家，覆盖除阿拉斯加外的整个北美洲北部，人口35,900,000（估计2015年），官方语言，英语和法语，首都渥太华。
+Canada |ˈkanədə| Noun/:加拿大,澳大利亚
+
+n. [C]（常用作形容词）创始性的一个组织机构（其拥有或控制一些同类型的小机构）:
+n. [usually pl.] 一个人的父亲或母亲。是此义的常规用词:
+n. [C]（动植物的）父本或母本，亲本，亲代:
+n. [C]（常用作形容词）母（公司）:
+parent |['peərənt]
+a parent bank and its subsidiaries 总行及其附属银行 
+parent company 母公司
+He’s still living with his parents. 他还和父母住在一起。
+single parent 单亲 
+natural parent 亲生父亲或母亲 
+adopted parent 养父或养母
+the parent bird, the parent tree 亲代鸟；亲代树
+parent company(商业用语) 母公司
+
+vt.＆vi. 杀死，使死亡。是此义的基础用词:
+n. 1 [C] 杀死，尤指对动物的猎杀:
+2 [C] 已被猎杀致死的动物:
+vt. 消磨时间:
+vt. 想把某人杀死，但只是强调一种对对方行为的极度愤怒:
+vt. 美式英语中可指使某人笑得很多，即笑死了:
+vt. 非正式，通常用于进行时，不用被动式，指引起某人情感上的痛苦:
+vt. 破坏某事使其停止:
+vt. 缓解疼痛:
+vt. 非正式，通常用于进行时，不用被动式，指引起某人肉体上的疼痛:
+vt. 用于否定句时可表示某事难不倒你，或并非看上去那样令人不快，是一种非正式用法:
+kill |[kɪl]
+He admitted killing her but said it was unintentional. 他承认杀死了她，但他说不是故意的。
+They plotted to kill the dictator. 他们密谋刺杀那位独裁者。
+Cancer kills thousands of people every year. 每年数以千计的人死于癌症。
+Their daughter was tragically killed in a road accident. 他们的女儿在一次车祸中惨死。
+Tiredness while driving can kill. 疲劳驾驶会出人命的。
+He tried to kill himself with sleeping pills. 他试图服安眠药自杀。
+soldiers killed in battle 在战斗中阵亡的士兵 
+The animals are killed quickly and humanely. 那些动物被迅速人道地宰杀。
+I bought a spray to kill the weeds. 我买了一种喷剂可以除草。
+Don’t kill yourself trying to get the work done by tomorrow. It can wait.（比喻用法）别为了赶着明天把事情干完而累坏身体。这事可以等一等嘛。
+The lion made a quick kill. 狮子迅速咬死了猎物。
+The hunters moved in for the kill. 猎人们逐渐围上去，准备捕杀猎物。
+The plane prepared to move in for the kill. 飞机已做好击落敌机的准备。
+I was in at the kill when she finally lost her job (= present at the end of an unpleasant process). 我亲眼目睹了她最后失去工作的情景。
+lions feeding on their kill 正在吃猎物的狮子 
+I was killing time when I was chatting with them last afternoon. 我昨天下午和他们聊天简直是浪费时间。 
+I’ll kill him for his losing of my favourite book. 他把我最喜爱的书弄丢了，我要杀了他。
+Dad’s going to kill me when he finds out. 爸爸要是发现了，轻饶不了我。
+Stop it! You’re killing me! 别说了！你都把我笑死了！
+to kill a rumour 平息谣言 
+to kill conversation 使交谈停止 
+to kill his chance 使他失去机会
+to kill the pain 缓解疼痛
+My feet are killing me. 我的脚疼死了。
+The task won’t kill me. 这项工作难不倒我。
+
+vt.＆vi. 使某人突然感到害怕，如吓唬:
+frighten |['fraɪtn]
+She’s not easily frightened. 她不是轻易能吓倒的。
+The prospect of war really frightens me. 战争的即将到来真的把我吓坏了。
+Don’t creep around like that! You frightened me to death! 不要这样蹑手蹑脚地到处走！你吓死我了！
+I didn’t mean to frighten you. 我不是故意想吓你的。
+
+not safe, dangerous:不安全，危险
+(of a verdict or conviction) not based on reliable evidence and likely to constitute a miscarriage of justice:（判决或定罪）不是基于可靠的证据，可能构成误判
+unsafe |ʌnˈseɪf| Adjective/:不安全,危险的
+drinking water in some areas may be unsafe:某些地区的饮用水可能不安全
+because the confession was unreliable the verdict was unsafe and unsatisfactory:因为供词不可靠，所以判决不安全且不令人满意
+
+n. [C] 作为某事物名字的词或短语，尤指某种语言中的术语，用语:
+vt. 用某个名字或词语来描述…，即把…称作:
+This material is variously termed ash, clinker, cinders or slag. 这种材料有多种叫法:
+n. 1 [C] 某事持续的一段时间，一段固定或有限的时间，即期，期限，任期等:
+2 [sing.] 正式用法，指到期，期满，尤指协议等的到期:
+n. [C] 数列、方程等的项:
+n. [C] 某种用语、说法:
+n. [C, U] [尤英，美也用trimester] 学校中一年的三个学期之一:
+n. [C, pl.] terms 可表示协议、条约等的条款:
+term |[tə:m]
+specific, descriptive, common, technical term 特定用语；描述性术语；常用术语；专业术语 
+basic, key term 基本术语；关键术语 
+derogatory, pejorative term 贬称；蔑称 
+legal, medical, musical term 法律术语；医学术语；音乐术语 
+The term ‘acid rain’ was coined in the 19th century.“酸雨”这个术语是19世纪创造出来的。
+I think we can apply the term ‘genius’ to the painter. 我想我们可以称这位画家为“天才”。
+At his age, he can hardly be termed a young man. 到了这个年纪，他称不上是年轻人了。
+His condition would be more accurately termed as ‘chronic fatigue’. 更准确地说，他的病叫做“慢性疲劳”。
+jail, prison term 服刑期 
+The contract was for a fixed term of five years. 合同为五年固定期限。
+presidential term 总统任期 
+In the long term, our efforts will pay off. 从长远来看，我们的努力会得到回报。
+Her baby was born at term. 她的宝宝足月降生了。
+the term of the loan 贷款期限 
+His life had reached its natural term. 他已尽其天年。
+colloquial, slang term 口语说法；俚语说法 
+a term of abuse, a term of endearment 骂人的字眼；亲昵的说法 
+ambiguous, vague term 模棱两可的用语；模糊的用语 
+mild, strong term 温和的措辞；强硬的措辞 
+glowing terms 热情洋溢的措辞 
+I let them know in no uncertain terms how disappointed I was. 我明确地让他们知道我是多么失望。 
+college, school, university（英）term 学院的学期；学校的学期；大学的学期 
+spring term 春季学期 
+term paper（美）学期论文
+the terms of the agreement 该协议的各项条款 
+terms and conditions 条款 
+contract, credit, peace term 合同条款；信贷条款；和平条款 
+to set the terms of the debate 设定辩论的规则 
+under the terms of the alliance 根据盟约规定 
+The dispute was resolved on amicable terms. 争端在友好的气氛中得以解决。
+
+adj. 官僚的，官僚主义的，常含贬义:
+bureaucratic |[͵bjʊərəʊ'krætɪk]
+bureaucratic procedures 官僚程序 
+The organization is highly bureaucratic. 该组织非常官僚。
+
+n. 1 [C]（尤指特别场合穿的）女式长裙；女式长礼服:
+2 [C]（法官、英国律师、大学学生、学者等在特别仪式上穿的）长袍、长外衣:
+n. [C]（尤指在医院穿的）起防护作用的罩衣、外罩:
+gown |[gaʊn]
+floor-length gown 拖地长裙 
+elegant gown 典雅的长批 
+She was dressed in a long flowing gown. 她穿了一件飘逸的长裙。
+strapless gown 无肩带的长裙 
+ball, bridal, evening, wedding gown 舞会礼服；新娘礼服；女式晚礼服；婚纱 
+She wore a white satin gown trimmed with lace. 她穿着一条饰有蕾丝花边的白色锻子长裙。
+academic gown 学位袍 
+a graduation gown 毕业礼服 
+an old headmaster in a flowing black gown 身着宽松黑礼袍的老校长 
+town and gown (= the residents of a university town and the members of its university)（尤英）大学城的居民和大学师生
+a surgeon's gown 外科医生穿的罩衣 
+hospital, surgical gown 医院人员罩衣；外科手术服
+
+adj. 1 [非正式] crazy (about sth) 常构成复合词，对某事物非常热情的或激动的，如热衷的，狂热的:
+2 [非正式] crazy about sb 非常喜欢某人的，爱上某人的:
+adj. [非正式] 非常生气的，非常气愤的:
+adj. [尤美，非正式] 不理智的，愚蠢的，可称为疯狂的:
+adj. [尤美，非正式] 患精神疾病的，精神失常（或错乱）的:
+n. [C] [尤美，非正式] 一个发疯的人，即疯子:
+crazy |['kreɪzɪ]
+Rick is crazy about football. 里克对足球着了迷。
+I’m not crazy about French food. 我并不十分热衷于法国菜。
+The crowd went crazy when the band came on stage. 乐队出场时，观众欣喜若狂。
+I’ve been crazy about him since the first time I saw him. 我从第一次见面就爱上了他。
+That noise is driving me crazy. 那噪声吵得我快疯了。
+She must be crazy to lend him money. 她把钱借给他，一定是疯了。
+What a crazy idea! 这个想法真荒唐！
+I know it sounds crazy but it just might work. 我知道这事听起来很蠢，然而也许就会奏效。
+She’s crazy--she ought to be locked up. 她疯了，应该把她关起来。
+
+adj. 只用于名词前，看起来的，表面的，外表的，而非实际上的:
+adj. 只用于名词前，从某地离开的（尤指还要返回的），即外出的:
+adj. 只用于名词前，从中心（或某个点）向外的:
+outward |['aʊtwəd]
+Mark showed no outward signs of distress. 马克在外表上没有现出沮丧的神色来。
+To all outward appearances they were perfectly happy. 从表面上看他们显得无比幸福。
+She simply observes the outward forms of religion. 她只是表面上信教而已。
+an outward voyage 外出航程 
+an outward journey 外出旅程
+outward movement 向外的运动 
+outward investment 对外投资 
+Managers need to become more outward-looking. 管理人员需要有更广阔的视野。
+
+n. [usually pl.] 英勇、激动人心或引人注目的行为:
+vt. [贬] 利用一个人或一种情况为自己谋利:
+vt. 把某事物运用得好，以从中获得尽可能多的好处，即运用、利用、发挥:
+vt. ~ sth (for sth) 为商业或工业用途而开发或使用某事物:
+vt. [贬] 利用一个人或一种情况为自己谋利:
+vt. 把某事物运用得好，以从中获得尽可能多的好处，即运用、利用、发挥:
+vt. ~ sth (for sth) 为商业或工业用途而开发或使用某事物:
+vt. [贬] 不公平地对待某人，让其干得多赚得少，即剥削、压榨:
+vt. ~ sth (for sth) 为商业或工业用途而开采某事物:
+vt. ~ sth (for sth) 为商业或工业用途而开发某事物:
+exploit |[ɪkˈsplɔɪt]
+the daring exploits of Roman heroes 罗马英雄英勇无畏的行为 
+His courage and exploits were legendary. 他的无畏与英勇事迹是出了名的。
+military, sporting exploit 军事事迹；体育成绩 
+He was always bragging about his sexual exploits. 他总是吹嘘他的风流韵事。
+He exploited his father's name to get himself a job. 他利用他父亲的名声为自己找到一份工作。
+He pursued his own interests, cynically exploiting his privileged position as trustee. 他无所顾忌地利用自己作为受托人的特权地位追逐私利。
+She realized that her youth and inexperience were being exploited. 她意识到自己的年轻和缺乏经验正受人利用。
+She fully exploits the humour of her role in the play. 她在剧中把她那个角色的幽默发挥得淋漓尽致。
+The firm has been successful in exploiting new technology to the full. 这家公司在充分利用新技术方面很成功。
+Birds exploit these wind patterns to the fullest. 鸟类对各种风型的利用达到了极致。
+The architect has cleverly exploited new materials and building techniques. 这位建筑师巧妙地利用了新的材料和建筑技术。
+The team were quick to exploit their competitive advantage. 该团队迅速利用了他们的竞争优势。
+countries exploiting the rainforests for hardwood 为获取硬木而开发热带雨林的国家 
+No minerals have yet been exploited in Antarctica. 南极洲的矿藏还未开采。
+She was keen to exploit her discovery commercially. 她渴望为自己的发现找到商业上的用途。
+He exploited his father's name to get himself a job. 他利用他父亲的名声为自己找到一份工作。
+He pursued his own interests, cynically exploiting his privileged position as trustee. 他无所顾忌地利用自己作为受托人的特权地位追逐私利。
+She realized that her youth and inexperience were being exploited. 她意识到自己的年轻和缺乏经验正受人利用。
+She fully exploits the humour of her role in the play. 她在剧中把她那个角色的幽默发挥得淋漓尽致。
+The firm has been successful in exploiting new technology to the full. 这家公司在充分利用新技术方面很成功。
+Birds exploit these wind patterns to the fullest. 鸟类对各种风型的利用达到了极致。
+The architect has cleverly exploited new materials and building techniques. 这位建筑师巧妙地利用了新的材料和建筑技术。
+The team were quick to exploit their competitive advantage. 该团队迅速利用了他们的竞争优势。
+countries exploiting the rainforests for hardwood 为获取硬木而开发热带雨林的国家 
+No minerals have yet been exploited in Antarctica. 南极洲的矿藏还未开采。
+She was keen to exploit her discovery commercially. 她渴望为自己的发现找到商业上的用途。
+What is being done to stop employers from exploiting young people? 目前有什么措施制止雇主剥削年轻人呢？
+The workers are ruthlessly exploited by their employers. 工人们受到雇主残酷的剥削。
+to sexually exploit 性剥削
+No minerals have yet been exploited in Antarctica. 南极洲的矿藏还未开采。
+countries exploiting the rainforests for hardwood 为获取硬木而开发热带雨林的国家
+
+vt.＆vi. divide (sth) (up) (into sth) 分开或分成各部分；使…分开或分成各部分。相当于split up:
+vt. 1 divide sth (up/out) (between/among sb) 把…分成不同的部分并分配给不同的人等，即分配、分享、分担，相当于share (out):
+2 divide sth (between A and B) 把（时间、精力等）分别用于不同的活动等:
+vt. 1 [正式] divide A from B 使（两个人或事物）分开或分离:
+divide A from B 是（两个人或事物之间的）真实或想象的分界线或障碍，相当于separate (off):
+n. [usually sing.] [尤美]（两个河流体系之间的）分水岭:
+vt.＆vi. 1 divide (sth) by sth 除以:
+2 divide (sth) into sth（数学）除:
+n. [usually sing.] divide (between A and B) 使两群人之间相互分离的差异，且常指重大差异:
+n. [usually sing.] divide (between A and B) 分歧:
+vt. 使两人或多人意见不一致，即使产生分歧，使意见不一，相当于split，不过比split略常用:
+vi.（道路）分岔（即通向不同的方向）:
+divide |[dɪ'vaɪd]
+The cells began to divide rapidly. 细胞迅速分裂。
+A sentence can be divided up into meaningful segments. 一个句子可以划分成有意义的各个部分。
+The physical benefits of exercise can be divided into three factors. 锻炼对身体的好处可以分成三个方面。
+Divide the pastry in half and roll out each piece. 把面团一分为二，把每块都擀平。
+This report is divided broadly into two parts. 该报告大致分为两部分。
+They were randomly divided into three groups. 他们被随机分成三组。
+the point where the river divides in two 河流的分岔点
+We divided the work between us. 我们共同分担这项工作。
+The money was divided equally among his sons. 这笔钱由他的儿子们平分了。
+Divide the sauce among 4 bowls. 把调味汁分到4个碗里。
+He divides his energies between politics and business. 他把精力一部分用在政治上，一部分用在生意上。
+They divided their time between London and Boston. 他们一部分时间在伦敦，一部分时间在波士顿。
+Can it ever be right to divide a mother from her child? 让母子分离难道还有对的时候？
+2 divide sth (off) 
+A fence divides off the western side of the grounds. 篱笆把庭院的西面隔开。
+remote border areas dividing Tamil and Muslim settlements 把泰米尔人和穆斯林居住地分隔开的偏僻边界地区
+30 divided by 6 is 5 (30÷6 = 5). 30除以6等于5。
+Measure the floor area of the greenhouse and divide it by six. 测量温室的地表面积，再除以6。
+5 divides into 30 6 times. 5除30等于6。
+class, cultural, ideological, racial divide 阶级差异；文化差异；意识形态差异；种族差异 
+digital divide 数字鸿沟 
+the divide between rich and poor 贫富差距 
+It’s a friendship which crosses the divide of social class. 这是一种跨越社会阶层差异的友谊。
+a style which straddles the divide between classic and modern 跨越古典与现代界限的一种风格
+religious, party divide 宗教分歧；党派分歧
+Board members were deeply divided on the issue. 董事会成员在这个问题上分歧很大。
+This issue has bitterly divided the community. 这个问题造成社会严重分化。
+an ethnically divided area 一个民族对立的地区 
+Where the path divides, keep right. 来到岔路口就靠右行。
+
+n. [C, usually sing.]（尤指某人公开表明的）一种态度或信念:
+n. [C, usually sing.] 一系列按时间顺序排列的人（如家族谱系）、事物或事件:
+n. [C] 人的轮廓线，外形线:
+n. [C] 做（或思考）某事时所采用的一种方法或方式:
+n. [C] 输送污水的管线:
+n. 1 [C] 一行、一排或一列人或事物（每两个个体之间彼此挨着、或一个在另一个的后面）。是一个简单用词:
+2 [C] [美] 人的队伍或行列，一长队人:
+vt. line sth (with sth) 常用被动式，沿着某事物形成行（或列、排）:
+n. [C] 电影的台词，对白。是一个简单用词:
+n. 1 [C] 一个表面上的一个细长的标记，即线、线条:
+2 [C] 人或事物的边线，轮廓线，外形线:
+n. [C] 电话线路；电话号码:
+n. [C] [非正式]（尤指为达到某一目的所说的）话，言语:
+n. [C, usually sing.] 某人或某事物行进的路线，方向；或其位于的方位:
+n. 1 [C] 地上画出的（尤指运动场的）场地线，界:
+2 [C] 地点或事物之间想象出来的（即虚拟的）分界线:
+3 [C] 思想或行为等之间的界限:
+vt. 1 line sth (with sth) 常用被动式，在某事物的内部用一层其他材料来覆盖，以使该事物保持清洁或使其更强韧等:
+2 在某事物的内部形成一个层:
+n. [sing.] 商业、活动或兴趣的某一类型或领域、范围，为单数名词:
+n. [C] 做（或思考）某事时所采用的一种方法或方式:
+n. [C] 输送污水的管线:
+n. [C] 一段绳子、金属丝、线（thread）、管道（pipe）等（尤指当其被用于某一目的时）:
+n. [C] 水、燃气、电力的输送管线。是一个简单用词和统称（并不强调线路本身的规模大小）:
+n. [C]（人皮肤上的）皱纹或褶子，相当于wrinkle:
+n. [C] [俚] 被散放成一条细线以备吸食的可卡因:
+n. [C] 歌词:
+n. [C] 戏剧的台词，对白。是一个简单用词:
+n. [C] 产品的一个种类，类型:
+n. 1 [C] 工厂的生产线，流水线:
+2 [C] 常用于名词，提供人员或货物的运输服务的公司，即运输公司:
+n. [C] 尤指从前由军队占据并把守的、由一系列防御工事组成的防线、战线、前线。是一种界线的概念（而front是一种方向的概念）:
+n. [C] 一条铁轨，一段铁路线:
+n. [C]（尤指用于某个用途的）一条路线:
+n. 1 [C] 一行文字；一行空白；（歌词或诗的）行:
+2 [pl.] [英] 一些学校对学生进行的抄写惩罚，即让其多次抄写某个句子:
+n. [C, usually sing.] 一系列按重要性排列的人:
+line |[laɪn][laɪn]
+The government is taking a firm line on terrorism. 政府现在对恐怖主义采取强硬的态度。
+He supported the official line on education. 他支持官方的教育理念。
+She came from a long line of doctors. 她来自一个医生世家。
+This novel is the latest of a long line of thrillers that he has written. 这部小说是他写的系列惊险小说中最近出版的一部。
+the line of her jaw 她下巴的轮廓线
+a line of argument 论证方法 
+a line of reasoning 推理方法 
+The police are pursuing a new line of enquiry/inquiry. 警方正在采用一种新的调查方法。
+official, party, political line 官方路线；党的方针；政治路线 
+The actions of investors do not always fall into line with financial theory. 投资者的行为并不总是符合金融理论。
+a line of thought 思路 
+a line of evidence（尤美）证据线索
+a sewer line（美）污水管线
+a line of trees 一排树 
+a line of traffic 汽车长龙 
+The soldiers stood in a line. 士兵们站成一排。
+A line formed at each teller window. 银行每个出纳员的窗口前都排起了队。
+Crowds of people lined the streets to watch the race. 人群站在街道两旁观看赛跑。
+The walls were lined with books. 靠墙是一排排的书。
+to learn lines 背台词 
+a line from the film ‘Casablanca’ 电影《卡萨布兰卡》里的一句台词
+thick line 粗线 
+direct, straight line 直线 
+curved, wavy line 曲线；波浪线 
+horizontal, vertical line 水平线；垂直线 
+diagonal line 对角线 
+parallel line 平行线 
+solid line 实线 
+broken line 虚线 
+the line of her jaw 她下巴的轮廓 
+a beautiful sports car with sleek lines 线条流畅、美观的跑车
+I was talking to John when the line suddenly went dead. 我正和约翰谈话，突然电话断了。
+If you hold the line, I’ll see if she is available. 请你不要挂断电话，我去看看她在不在。
+It’s your mother on the line. 是你母亲打的电话。
+phone line 电话线路 
+fax line 传真线路 
+outside, private line 外线；专用线 
+chat-up line（英）搭讪的话 
+Don’t give me that line about having to work late again. 别再跟我说不得不工作到很晚这样的话。
+Just keep going in a straight line. 照直走。
+The town is in a direct line between London and the coast. 这个镇在伦敦与海岸之间的直线上。
+They followed the line of the river for three miles. 他们沿着那条河走了三英里。
+the line of fire 射击路线 
+You’re right in my line of vision. 你正好挡住了我的视线。
+The ball went over the line. 球越线出界了。
+finish（美）, finishing（英）line 终点线 
+goa line 球门线 
+district, county line 行政区界；郡界 
+state（美）line 州界线 
+the boundary line between two countries 两国之间的边界线 
+Be careful not to cross the line (= the broken line painted down the middle of the road). 小心别越过道路的中界线。
+lines of longitude and latitude 经线和纬线 
+contour line（地图上的）等高线 
+We want to cut across lines of race, sex and religion. 我们要超越种族、性别和宗教的界限。
+There is a fine line between showing interest in what someone is doing and interfering in it. 关心别人正在做的事情和进行干预之间存在着细微的差别。
+Line the pan with greaseproof paper. 在烤盘里垫一层防油纸。
+the membranes that line the nose 在鼻腔里形成的一层内膜
+My line of work pays pretty well. 我的职业报酬颇丰。
+in the art line 在艺术领域
+a line of argument 论证方法 
+a line of reasoning 推理方法 
+The police are pursuing a new line of enquiry/inquiry. 警方正在采用一种新的调查方法。
+official, party, political line 官方路线；党的方针；政治路线 
+The actions of investors do not always fall into line with financial theory. 投资者的行为并不总是符合金融理论。
+a line of thought 思路 
+a line of evidence（尤美）证据线索
+a sewer line（美）污水管线
+a fishing line 钓鱼线 
+He hung the towels out on the line (= clothes line). 他把那些毛巾挂在晒衣绳上。
+They dropped the sails and threw a line to a man on the dock. 他们放下风帆，把船缆抛给码头上的人。
+direct, trunk line 直达线路；干线 
+power, transmission, utility（美）line 电力线；传输线；公共事业管线 
+gas line（美）燃气管线 
+There were two fuel lines coming into the engine. 有两条燃料线路接入发动机。
+He has fine lines around his eyes. 他的眼睛周围有细细的皱纹。
+worry line 愁纹
+the first line of that song 那首歌的头一句歌词
+to learn lines 背台词
+a new line in casual clothes 新款式的休闲装 
+Some lines sell well. 有些种类的货物销售很好。
+a production line 生产线 
+an assembly line 装配线（或组装线）
+shipping, bus line 航运公司；公交公司
+battle, defensive, front line 战线；防线；前线 
+They were trapped behind enemy lines. 他们在敌人后方遭到围困。
+The middle managers were in the firing line of job cuts.（比喻用法）中层管理者处在岗位裁减的最前线。
+A tree had fallen across the line. 一棵树横倒在铁轨上。
+train line 铁路线 
+subway（美）, underground（尤英）line 地铁线路 
+main line 铁路主干线 
+branch（尤英）, commuter, trunk line 铁路支线；通勤铁路线；主干线路
+to block guerrilla supply lines 封锁游击队的补给线
+Look at line 5 of the text. 看正文第5行。
+top line 首行 
+Start each paragraph on a new line. 每一段另起一行。
+the first two lines of that song 那首歌的头两句歌词 
+Orders came down the line from the very top. 命令从最高领导人逐级传达下来。
+a line of command 一系列按职务排序的指挥人员 
+He is second in line to the chairman. 他的地位仅次于主席。
+to be next in line to the throne 为王位继承人
+
+vt. [英，非正式]（在别人做出声称以前）声称拥有…；在别人得到…以前而将其占有，即抢占:
+vt. [非正式] 捕获或猎杀一只动物:
+n. [C, usually sing.] 指一次所猎获的全部鸟或动物:
+n. [C] [英，非正式] bags (of sth) 很多，大量:
+vt. [非正式] 捕获一只动物:
+n. [C, usually sing.] 指一次所猎获的全部鸟或动物:
+vt. bag sth (up) 把…装进袋子:
+n. [C] 生活中的各种袋子，常有手柄，由布、塑料、皮革等制成，可用于日常生活中的各种场景，如购物或旅行:
+n. [C] bag (of sth) 一袋子的数量:
+n. [pl.] bags 可指眼袋或黑眼圈（常由睡眠不足所引起）。词义与shadows未见明显不同，只是bags更常用一些:
+vt. [非正式] 体育运动中可指进球或得分等:
+bag |[bæɡ]
+to bag the seat 占座位
+bags of snacks 很多零食
+Bag the snacks. 把这些零食装进袋子。
+cloth, leather bag 布袋；皮包 
+shopping bag 购物袋 
+travel bag 旅行手提包 
+make-up bag 化妆包 
+a baby changing bag 妈妈包 
+book, school bag 书包 
+camera, sports bag 照相机包；运动包 
+medical bag 医护包 
+body bag 尸袋 
+gift bag 礼品包 
+sleeping bag 睡袋
+a bag of sweets 一袋糖果
+the bags under her eyes 她的眼袋
+to bag a goal 进一球
+
+
+bags | ,装进袋子,袋子,包袋
+
+criticism:批评
+bagging |ˈbaɡɪŋ| Noun/:装袋,袋装
+it's a pretty suspect outfit, deserving of the consistent bagging it gets from customers:这是一套非常可疑的装备，值得从顾客那里得到一致的装袋
+
+vi. 朝某个方向快速且顺利地移动；或指人以一种自信的方式来行走，即昂首而行:
+n. [C] 风车的一组翼板:
+vt.＆vi. 1（船或船上的人）在水上航行:
+2 驾驶或乘坐帆船航行，尤指作为一项体育运动:
+n. [C, U]（为船只航行提供动力的）帆:
+n. [sing.] 乘船所做的一段航行:
+sail |[seɪl]
+clouds sailing across the sky 飘过天空的云彩 
+A stone sailed over his head. 一块石头从他的头顶飞过。
+He sailed past me. 他从我旁边傲然走过。
+to sail around the world 航游世界 
+to sail into harbour 驶入港口 
+The boat sailed gracefully on into the distance. 小船飘然驶向远方。
+He sailed across the Atlantic. 他扬帆横渡大西洋。
+The ferry sailed for Staten Island. 渡船驶往斯塔滕岛。
+go sailing 驾帆船去玩 
+to sail the boat 驾船
+the white sails 片片白帆 
+canvas sail 布帆 
+a pirate ship under full sail 全速行驶的海盗船 
+The sails caught the wind once more. 船帆再次迎风鼓起。 
+to go for a sail 乘船兜风 
+a sail for two hours 两小时的航程
+
+not in accordance with fact or reality, false or incorrect:不符合事实或事实，虚假或不正确
+not faithful or loyal:不忠实或不忠诚
+incorrectly positioned or balanced, not upright or level.:不正确的定位或平衡，不直立或水平。
+untrue |ʌnˈtruː| Adjective/:,虚假的
+these suggestions are totally untrue:这些建议完全不真实
+a despotic sheik can be untrue to his vast seraglio:一个专制的酋长可能不忠于他巨大的后宫
+
+n. [C]（测量仪器上的）读数:
+n. [C] reading (of sth) 对书籍、形势等的理解或诠释:
+n. [U] 阅读（的活动）:
+n. [C] 读书会，朗诵会:
+n. 1 [U] 所阅读的书籍、文章等，即读物，阅读材料:
+2 [C] 在读书会或朗诵会上所朗诵的作品:
+reading |['ri:dɪŋ]
+normal reading 正常读数 
+false reading 错误读数 
+meter, thermometer reading 计量器读数；温度计读数 
+blood-pressure, pressure, temperature reading 血压读数；压力读数；温度读数 
+A reading of 25 or more is abnormally high. 读数在25或25以上都属于异常之高。
+my reading of his character 我对他性格的理解 
+a reading of the text 对这篇文字的理解 
+the reading of events 对事态的看法 
+These paintings often invite an allegorical reading. 这些画常常令人感觉有讽喻意味。
+to love reading 喜欢读书 
+to be good at reading map 会看地图 
+extensive reading on the subject 在该学科上进行的广泛阅读 
+a close reading of the text 对这篇文章的仔细阅读 
+reading habits 阅读习惯 
+reading ability, reading skills 阅读能力；阅读技能 
+reading comprehension 阅读理解 
+reading room 阅览室
+poetry reading 诗歌朗诵会 
+to give a public reading 当众朗诵 
+staged reading（尤美）舞台朗诵
+reading list 阅读书目 
+reading material, reading matter 阅读材料 
+a series of reading books for adolescents 一套青少年读物 
+recommended reading 推荐读物 
+background reading 背景阅读材料 
+bedtime reading 床头读物 
+Their story makes compulsive reading. 他们的故事读起来有趣极了。
+readings from the Psalms 《诗篇》选读
+
+going on, in progress:进行中，进行中
+toward |təˈwɔːd| Adjective/Preposition/:朝向,向着
+is something new toward?:是新事物吗？
+
+n. [U] discrimination (in favour of sb) 在社会上对某个人或某个团体的偏袒:
+n. [U] discrimination (against sb) 在社会上对某个人或某个团体的不公平对待，即歧视:
+n. 1 [U] [褒] 对好的、真的、或高的品质的鉴赏力、识别力、判断力:
+2 [U, C] [正式] 对事物之间差别的识别和理解能力，即识别力，辨别力；也可指被识别的差别:
+discrimination |[dɪs͵krɪmɪ'neɪʃn][dɪs͵krɪmɪ'neɪʃn]
+positive（英）, reverse（美）discrimination 特别照顾；逆向歧视 
+discrimination in favour of the male 偏袒男性
+age, sex, class, racial discrimination 年龄歧视；性别歧视；阶级歧视；种族歧视 
+job discrimination 职业歧视 
+viewpoint discrimination（美）观点歧视 
+Many disabled people suffer discrimination at work. 许多残疾人在工作中遭到歧视。
+to show great discrimination in recognizing the talent 慧眼识英才 
+She showed great discrimination in rejecting the poor quality teas. 她在剔除劣质茶方面显示出高超的鉴别力。
+colour discrimination 色彩辨别力（或颜色差别）
+to learn discrimination between right and wrong 学会分辨是非 
+fine discriminations 细微差别
+
+n. 1 [C] 两次事件（或日期）之间的一段时间间隔:
+2 [usually pl.] 其他事情穿插进来的一小段时间:
+n. [C] [英] [英美也用intermission]（戏剧、电影、音乐会、演出、比赛等的）进程中的短暂时间:
+n. [C] 两个音符之间的音高差异，即音程:
+interval |['ɪntəvl]
+The interval between major earthquakes might be 200 years. 大地震之间的间隔时间可能有200年。
+to leave a wide interval 留出一段较长的间隔期 
+10-minute interval 10分钟的间隔 
+Trains run at fixed intervals. 火车按固定时间间隔发车。
+Meetings are held at monthly intervals. 会议每隔一个月举行一次。
+The day should be mainly dry with sunny intervals.（英）白天大部分时间应无雨，间有阳光。
+She’s delirious, but has lucid intervals. 她神志昏乱，但有时清醒。
+There will be an interval of 20 minutes after the second act. 第二幕结束后将休息20分钟。
+during the interval of the musical “Steppin’ Out.” 在音乐剧《影舞追梦》的幕间休息期间 
+Fraser did not perform until after the interval. 弗雷泽直到中场休息之后才出场。
+an interval of one octave 一个八度音程
+
+adj. 只用于名词前，即将卸任某一责任职位的（即不再对该职位上的事务之对错或功过负责的）:
+adj. 爱交际的，享受别人的陪伴并对别人友好的，外向的，相当于sociable:
+adj. 只用于名词前，从某个地方向外离开（而非向内进入）的，与incoming相反:
+outgoing |['aʊtɡəʊɪŋ]
+the outgoing president, the outgoing government 即将下台的总统；即将倒台的政府
+an outgoing personality 外向的性格
+This telephone should be used for outgoing calls. 这部电话用于打外线。
+outgoing flights, outgoing passengers 出港航班；出港旅客 
+the outgoing tide 退潮
+
+the process or skill of taking one number or amount away from another:从另一个数字或数量中取走一个数字或数量的过程或技巧
+the process of taking a matrix, vector, or other quantity away from another under specific rules to obtain the difference.:在特定规则下将矩阵、向量或其他数量与另一个数量分开以获得差异的过程。
+subtraction |səbˈtrakʃn| Noun/:减法,相减

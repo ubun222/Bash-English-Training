@@ -1,0 +1,811 @@
+poem				诗
+above				在...上面，高于，在空中
+the above				上文提到的事物
+above all				最重要的是
+above suspicion				毋庸置疑
+dinosaur				恐龙，落伍的人
+valuable				很值钱的，重要的
+valuables				贵重物品
+swallow				吞下，吞没，耗尽，相信，燕子
+blue				蓝色的，忧郁的，色情的
+the blue				碧空，碧海
+teamwork				协同工作
+wax				蜡，给...上蜡，增加
+to wax and wane				兴衰
+tyre				轮胎
+hour				小时，时段，时刻
+hours				很长时间，时段
+after hours				下班后，打烊后
+keep early hours				早睡早起
+battleground				战场
+sometimes				有时
+mud				淤泥
+as clear as mud				模糊难懂
+throw mud at				污蔑
+office				办公室，职位
+take office				就职
+offices				救助
+leg				腿，一段，一局
+legged				步行
+long-legged				长腿的
+melon				瓜
+race				竞速，种族
+optional				可选择的
+stop				暂停，靠站，停止
+stopping				停止
+dustbin				垃圾箱
+screen				屏风，屏幕，遮蔽，筛选
+screen out				筛除
+stocking				长筒女袜，圣诞袜
+farming stock				农民世家
+flat				平坦的，瘪的，紧贴的，断然的
+go flat				电用完，走了气
+taste flat				淡而无味
+flat paint				亚光漆
+in ... flat				只用了...
+alone				独自的，单独的，仅仅
+stand alone				独一无二
+all alone				独自一人
+print				字体，出版，印刷
+prints				指纹
+die				死，消亡，骰子，模具
+old habits die hard				旧习难改
+die out				绝迹
+mouse				鼠，鼠标，胆小鬼
+space				空间，区域
+give each other space				互留余地
+space out				使...拉开间距
+early				早的，初期的
+athletic				运动的，健壮的
+\\\\\\\\
+
+n. [C] 诗歌（有时还可指韵文）:
+poem |['pəʊɪm]
+collected, selected poem 诗歌全集；诗歌选集 
+anonymous poem 佚名诗 
+epic, lyric, narrative poem 史诗；抒情诗；叙事诗 
+prose poem 散文诗 
+love, war poem 情诗；战争诗 
+nonsense poem 打油诗 
+a collection of poems 诗集
+
+prep.（职位）在…上面；到…上面:
+adv.（职位）在上面；到上面:
+prep.（声音在音量或清晰度上）超过（另一种声音）:
+prep.（因太善良、太正直而）不至于或不屑于（去做某事）:
+prep.（数目、数量、水平、年龄）超过；多于；大于:
+adv.（在数目、数量、水平、年龄上）超过；多于；大于:
+prep.（空间）在…上面；到…上面:
+adv.（空间）在上面（或较高处）；到上面（或较高处）:
+prep.（因太善良、太正直、太好或太重要而）不至于或不屑于（去做某事）:
+adv. 上文或前文:
+adj. 只作前置定语，（在书信、书籍等中）前文述及的；上述的:
+n. [sing.] the above可指上述内容:
+prep.（地位或等级）在…上面；到…上面:
+adv.（地位或等级）在上面；到上面:
+prep. 在重要性上超过…:
+prep. 在品质上超过…:
+above |[ə'bʌv]
+A captain in the navy ranks above a captain in the army. 海军的captain（上校）军衔比陆军的captain（上尉）高。
+The policemen said they were acting on orders from above. 警察说他们是根据上级命令行事的。
+I couldn’t hear her above the noise of the traffic. 交通嘈杂，我听不见她的声音。
+She’s not above lying when it suits her. 她在适当时机还是会说谎的。
+He’s above suspicion. 他无可置疑。
+He’s above criticism. 他不应受到批评。
+Inflation is above 6%. 通货膨胀超过6%。
+Temperatures have been above average. 气温一直比平均温度高。
+children above the age of 10 10岁以上的儿童 
+above average levels of rainfall 降雨量高于平均水平 
+increases of 5% and above 增加5%或以上 
+A score of 70 or above will get you an ‘A’. 70分或以上就可以得“优”。
+children aged 12 and above 12岁或以上的孩子 
+Banks have been charging 25 percent and above for unsecured loans. 银行一直以来对无担保贷款收取25%或更高的费用。
+He lifted his hands above his head. 他双手举过头顶。
+The water came above our knees. 水淹过了我们的膝盖。
+to fly above the clouds 在云层上方飞行 
+the apartment above mine 我楼上的那套公寓 
+Put it on the shelf above. 把它放到上面的搁板上。
+Seen from above the cars looked tiny. 从高处往下看，车辆显得很小。
+She’s not above lying when it suits her. 她在适当时机还是会说谎的。
+He’s above suspicion. 他无可置疑。
+He’s above criticism. 他不应受到批评。
+This was clearly a failure by someone who thought he was above failure. 这显然是一个自以为不会失败的人所经历的一次失败。
+Several conclusions could be drawn from the results described above. 从上述的各项结果中可以得出一些结论。
+As was stated above, ... 如上所述，… 
+See above, page 35. 见前文，第35页。
+Write to the above address. 请写信到上述地址。
+Please notify us if the above is not correct. 如果上面所说的不正确，请通知我们。
+All the above (= people mentioned above) have passed the exam. 以上各人都通过了考试。
+They finished the year six places above their local rivals. 这一年结束，他们的排名比当地竞争对手超前六个名次。
+I married above myself. 我和比我地位高的人结了婚。
+his tendency to put the team above everything 他的一切以团队为重的倾向
+I rate her above most other players of her age. 我认为她优于大多数同龄选手。
+
+n. [C] [贬] 庞大、低效且落后的组织:
+n. [C] [贬] 过时，且不能因时而变的人或事物:
+n. [C] 恐龙:
+dinosaur |['daɪnəsɔ:]
+industrial dinosaurs 庞大臃肿的工业企业
+
+adj. 很值钱的，贵重的，其反义词为valueless或worthless:
+adj. valuable (to sb/sth) 很有用的，或很重要的，即宝贵的。强调某事物本身的有用性，常指某件物品因其本身的实用价值而“很值钱的”。这种价值能够带来切实的金钱回报（即可以用于售卖或交换），但其真正的价值含量未必能用具体的物质财富数额来衡量:
+valuable |['væljʊəbl]
+valuable antiques 贵重的古玩 
+Luckily, nothing valuable was stolen. 幸运的是，没有贵重物品失窃。
+economically valuable 经济价值高 
+commercially valuable expertise 具有商业价值的专门技术
+a valuable experience 宝贵的经验 
+valuable information 宝贵的信息 
+This advice was to prove valuable. 这忠告证明是有益的。
+ecologically valuable species 具有生态价值的物种 
+Good eyesight is a quality which is extremely valuable for a hunting animal. 敏锐的视力对猎食动物来说非常重要。
+documents that are enormously valuable to historians 对历史学家来说弥足珍贵的文献
+
+
+valuables | 贵重物品,贵重东西
+
+vt. 相信…是真的，即信以为真:
+vt. 没有抱怨或抗议地忍受（侮辱、批评等），即默默忍受:
+vt. 隐藏自己的感情:
+vi.（尤指由于紧张）使喉咙做出类似吞咽东西的动作:
+vt. swallow sb/sth (up) 常用被动式，把某人或某物弄进来，或将其完全覆盖（使其不能被看到或不再单独存在）:
+n. [C] 一次所吞咽的食物或饮料的数量，可称为一口:
+vt.＆vi. 使食物、饮料等从咽喉进入胃里，如咽下，吞下:
+n. [C]（食物或饮料的）咽，吞:
+n. [C] 燕子:
+vt. swallow sb/sth (up) 用尽或用光某事物（尤指花光一笔钱），是一种形象化用法:
+swallow |['swɒləʊ]
+I found her excuse very hard to swallow. 我觉得她的理由很难让人相信。
+He told her a pack of lies, but she swallowed it whole. 他对她讲了一堆谎话，可她全都信以为真。
+He just sat there and swallowed all their remarks. 他就坐在那儿默默地任凭他们评论。
+to swallow your doubts 不流露怀疑 
+You’re going to have to swallow your pride and ask for your job back. 你得放下架子，去求人家给你恢复原职。
+She swallowed hard and told him the bad news. 她硬下心把坏消息告诉了他。
+She swallowed convulsively, determined not to cry. 她抑制不住地咽了几口气，决心不哭出声来。
+He swallowed back the lump in his throat. 他强忍住喉头的哽咽。
+I watched her walk down the road until she was swallowed by the darkness. 我看着她沿公路越走越远，直至消失在黑暗中。
+Large areas of countryside have been swallowed up by towns. 大片大片的乡村地区被城镇吞噬。
+She swallowed down her breakfast in a hurry. 她匆匆吞下了早饭。
+The pills should be swallowed whole. 这些药要吞服。
+She accidentally swallowed a glass bead. 她不小心吞下了一颗玻璃珠。
+Most of my salary gets swallowed (up) by the rent and bills. 我的工资大多支付房租和各种日常费用了。
+
+adj. [非正式] 悲伤的，忧郁的，相当于depressed:
+adj.（颜色）蓝色的，蓝的:
+n. [C, U]（颜色）蓝色，蓝:
+n. [C] [澳大利亚；新西兰] [非正式] 错误:
+adj.（电影、玩笑或故事）涉性的，即黄色的，色情的:
+n. [C] [澳大利亚；新西兰] [非正式] 打架，斗殴，打斗:
+n. [C] [澳大利亚；新西兰] [非正式] 对长着红头发的一个人的称呼，即红发人:
+adj.（人或身体部位）由于寒冷或呼吸困难而发青的，青紫的:
+n. [C] [英] 为牛津大学或剑桥大学参加某项体育比赛的一个人；还可指给予该运动员的头衔:
+blue |[blu:]
+He’d been feeling blue all week. 他整个星期都郁郁寡欢。
+blue eyes 蓝眼睛 
+a blue shirt 蓝色衬衫 
+dark blue 深蓝色 
+She was dressed in blue. 她身着蓝色服装。
+a blue movie 色情片
+Her hands were blue with cold. 她的双手冻得发青。
+
+n. [U]（作为一个团队）良好地共同工作，即团队合作，协同工作，协作，配合:
+teamwork |['ti:mwə:k]
+She stressed the importance of good teamwork. 她强调了团队合作的重要性。
+
+vi. [正式] wax lyrical, wax eloquent, wax sentimental等可表示说话或书写时变得（热情、雄辩、伤感等）起来:
+vt. 用蜡除去身体部位上的毛发:
+n. [U] 蜡；蜂蜡；动物蜡；植物蜡；石蜡等（是一种固态物质，由蜂蜡或各种脂肪及油脂制成，可以用于制成蜡烛、模型等，或给…抛光。加热时会变软。）:
+vi.（月亮）看起来逐渐变得越来越大，直至圆满:
+vt. 用蜡覆盖或涂抹…，即给…上蜡或涂蜡（例如用蜡抛光）:
+n. [U] 耳垢，耳屎:
+wax |[wæks]
+He waxed lyrical on the food at the new restaurant. 他对这家新餐馆的菜肴越说越来劲。
+to wax your legs 用蜡除去你的腿毛
+styling wax for the hair 定型发蜡 
+floor wax 地板蜡 
+wax polish 上光蜡 
+wax crayons 蜡笔
+waxed paper 蜡纸 
+a waxed jacket 上过蜡的夹克 
+to wax the floor 给地板上蜡
+Use a cotton bud to remove the wax from your ears. 用棉花棒清除你耳朵里的耳垢。
+
+n. [C] 轮胎。是此义的常规用词:
+tyre |['taɪə]（美tire）
+I got a flat tyre soon after setting off. 我出发没多久轮胎就瘪了。
+blown（美）, burst（英）tyre 爆裂的轮胎 
+bald, worn tyre 磨平的轮胎；磨损的轮胎 
+spare tyre 备用轮胎 
+front tyre 前轮胎 
+back, rear tyre 后轮胎 
+snow tyre 雪地防滑轮胎 
+off-road, road tyre 越野轮胎；公路轮胎 
+car tyre 汽车轮胎 
+a set of tyres 一组轮胎 
+to let the tyres down 把轮胎的气放掉 
+tyre mark, tyre tracks 轮胎印 
+tyre size 轮胎尺寸 
+tyre tread 轮胎胎面花纹 
+tyre chain（尤美）防滑链
+
+n. [pl.] hours 可指长时间:
+n. 1 [C]（缩写为hr或hr.）小时:
+2 [C, usually sing.] 大约一小时的时间（用于某一目的）:
+n. 1 [sing.] 某个时间点:
+2 [C, usually sing.]（具有文学色彩）重要事情发生的时间或时刻:
+3 [sing.] the hour 可指整点:
+n. 1 [pl.] hours 可指（工作、办公或营业等的）一段固定时间:
+2 [pl.] hours 可指按24小时制给出的时间，通常用于军事或其他官方语言，即点钟:
+hour |['aʊə]
+It took hours getting there. 花了好长时间才到达那里。
+I’ve been waiting for hours. 我等了很久了。
+It will take about an hour to get there. 到那里大约需要一小时。
+I’m paid by the hour. 我是论小时获得报酬的。
+peak, rush hour 高峰时段 
+lunch hour 午餐时间 
+happy hour 欢乐时光（酒吧的酒水减价时间）
+an hour of rest 休息时间
+You can’t turn him away at this hour of the night. 天这么晚了，你不能把他赶走。
+I apologize for calling you at this ungodly hour. 原谅我这种时候给你打电话。
+She thought her last hour had come. 她以为她生命的最后时刻到了。
+She helped me in my hour of need. 她在我困难的时候帮助过我。
+darkest, finest hour 最黑暗的时刻；最美好的时光 
+The clock struck the hour. 钟整点报时。
+ten minutes past the hour 整点过十分
+office, opening, working hours 办公时间；开放时间；工作时间 
+a hospital’s visiting hours 医院的探视时间 
+flexible hours 弹性上班时间 
+He keeps regular hours. 他的作息时间很有规律。
+after hours 下班后 
+the hours of darkness 夜间 
+early hours 凌晨时分
+
+
+hours | 小时,时间
+
+n. [C] 争论的主题，算是一种比喻用法:
+n. [C] 斗争的领域，算是一种比喻用法:
+n. [C] 战场:
+battleground |['bætlɡraʊnd;美ˈbætlˌɡraʊnd]
+the battleground of education 教育这一备受争议的主题
+the battleground of education 教育这一竞争激烈的领域 
+Children's literature is an ideological battleground. 儿童文学是各种意识形态交锋的战场。        
+
+adv. 有时，间或:
+sometimes |['sʌmtaɪmz]
+Sometimes I go by car. 有时我坐车去。
+He sometimes writes to me. 他偶尔给我写封信。
+
+n. [U] 泥，淤泥，泥浆（即软且粘的湿土）:
+mud |[mʌd]
+The car wheels got stuck in the mud. 汽车轮子陷到泥里去了。
+Your boots are covered in mud. 你的靴子上都是泥。
+mud brick, mud house 泥砖；土坯房 
+mud fight 泥地打斗 
+mud bath 泥浴
+
+n. 1 [C] 用于办公的一个房间、一系列房间或一栋建筑物（常配有办公桌），即办公室；办公楼:
+2 [C] 某人的办公室（常配有办公桌）:
+3 [C] 常构成复合词，用于某一目的（尤指提供信息或一项服务）的一个房间或一栋建筑物:
+n. [U, C]（尤指政府中的）重要职位或权力；也可指此种与职位相关的工作和职责:
+n. [C] [美] 医生、牙医或兽医的诊室，门诊处。相当于英式的surgery:
+n. [C] Office用于英国某些政府部门的名称中，在词义上与ministry无明显差别，只是各自用于特定的用法中而已:
+office |['ɒfɪs]['ɒfɪs]
+high-rise office buildings 高层写字楼 
+government office 政府办公楼 
+administrative, press, sales office 行政办公室；新闻办公室 
+newspaper office 报社办公楼 
+Come into my office. 请到我的办公室里来。
+private office 私人办公室 
+to share an office 共用一间办公室 
+the local tourist office 当地旅游办事处 
+overseas office 海外办事处 
+a ticket office 售票处
+the office of treasurer 司库的职务 
+to hold office as a cabinet minister 担任内阁部长 
+high, important office 显赫的职位；要职 
+minor office 较低的职位 
+national, public office 公职 
+judicial, ministerial（尤英）, political office 司法职位；部长级职位；政治职位 
+to run for office 参加竞选 
+to remain in office 继续执政 
+duties of the office 职责 
+a term of office 任期 
+The present government took office in 2005. 现政府于2005年上台执政。
+dentist’s, doctor’s, nurse’s, physician’s, surgeon’s office（均美）牙医诊所；医生诊室；护士办公室；内科诊室；外科诊室
+the Foreign Office 外交部 
+the Home Office 内政部
+
+
+offices | 办公室,办事处
+
+n. [C, U] leg (of sth) 供烹饪和食用的动物腿肉:
+n. [C] 裤腿:
+n. [C] 桌椅等家具的腿:
+adj. -legged 用于构成形容词，指有某个数量（或某类）腿的:
+n. [C]（身体部位的）腿:
+adj. -legged 用于构成形容词，指有某类腿的:
+n. 1 [C] leg (of sth) 一段速度比赛的赛程，相当于section或stage:
+2 [C] [英] 体育比赛中，可指同一回合的两场比赛中的一场:
+n. [C] leg (of sth) 一段旅程，相当于section或stage:
+leg |[leɡ]
+a chicken leg 一只鸡腿 
+roast leg of lamb 烤羊腿
+pant leg（美）, trouser leg（英）裤腿 
+The trousers are too long in the leg. 这条裤子的裤腿太长。
+He rolled up the legs of his jeans. 他卷起了牛仔裤的裤腿。
+the legs of the chair 椅子腿 
+a three-legged table 三条腿的桌子
+right leg 右腿 
+lower, upper leg 小腿；大腿 
+She crossed the finish line on tired legs. 她拖着疲惫的双腿越过终点线。
+leg ache 腿疼 
+leg muscle 腿部肌肉 
+a long-legged insect 长腿昆虫
+final, last leg 最后一段赛程 
+anchor leg（接力的）最后一棒 
+We were on the last leg of our journey. 我们踏上了最后一段旅程。
+outbound leg 出境旅程
+
+having legs of a specified kind or number:具有指定种类或数量的腿
+(of a garment) having parts covering the legs of a specified kind:（服装）有部分覆盖特定类型的腿
+legged |ˈlɛɡɪd| Adjective/:有腿的,腿
+bare-legged women:裸腿女
+wide-legged trousers:阔腿裤
+
+
+long-legged |英/美 ['lɔŋ,lɛɡɪd]| 
+
+
+
+n. [C, U] 甜瓜，瓜:
+melon |['melən]
+a slice of melon 一片瓜
+
+vt.＆vi. race (against) sb/sth 和…进行竞争；参与竞争:
+n. [sing.] race (for sth/to do sth) 一些人、小组或组织所进行的竞争、角逐，尤指为获得政治权力或看谁能最先实现某事而进行的角逐:
+vt.＆vi. 时间快速流逝:
+vt.＆vi.（向某个位置或状态）快速运动；使…快速运动:
+vt.＆vi.（向某个状态）快速运动；使…快速运动:
+n. [C] 动植物的种类、属:
+vi. 大脑（尤指在面临困难或危险时）急速运转:
+vi.（发动机）运转过快:
+vi. 心脏（由于激动或恐惧而）急速跳动:
+vt.＆vi. race (against) sb/sth 和…进行速度比赛；参加速度比赛:
+vt. 让动物或交通工具参加速度比赛:
+race (against sb) 比拼速度的比赛，如赛跑、游泳、赛车等:
+n. 1 [C] 动物比拼速度的比赛:
+2 [pl.] the races 可指在某一地举行的一系列赛马活动，即赛马会:
+n. 1 [C, U] 种族；人种:
+2 [C] 拥有相同的语言、历史、文化等的一群人，即民族:
+race |[reɪs]
+The companies are racing to be the first to seize the market. 那些公司争先恐后占领市场。
+congressional, presidential race 国会竞选；总统竞选 
+arms, space race 军备竞赛；太空竞赛 
+a race between the developing countries 发展中国家之间的竞争 
+They are in a race to bring out the first film drama of his life. 他们争相推出关于他生平的第一部故事片。
+The race is on to find a cure for the disease. 人们开始争相寻找这种疾病的疗法。
+The days seemed to race past. 日子似乎很快就过去了。
+to race across the park to the hospital 急速穿过公园去医院 
+to race up the stairs 迅速冲上楼去 
+He raced his car through the street. 他开着车在街道上飞快地穿行。
+She raced frantically to catch the train. 她拼命地跑着去赶火车。
+Farms and towns raced by. 农场和城镇在眼前掠过。
+Two boys suddenly came racing around the corner. 两个男孩突然从拐角处飞奔而来。
+to race toward economic collapse 迅速走向经济崩溃 
+race against the clock, race against time 争分夺秒 
+The days seemed to race past. 日子似乎很快就过去了。
+to race toward economic collapse 迅速走向经济崩溃
+a race of cattle 一种牛
+My mind was racing. 我的大脑在飞速运转。
+The engine is racing. 引擎飞快地转着。
+racing pulse 急速跳动的脉搏 
+My heart was racing. 我的心脏急速跳动。
+Who will you be racing against in the next round? 下一轮你和谁比赛？
+to race horses 赛马 
+to race motorbikes 赛摩托车
+relay, road race 接力赛；公路赛 
+boat race 划船比赛 
+bicycle, car, motorcycle race 自行车赛；汽车赛；摩托车赛 
+dog, horse race 赛狗；赛马 
+race meet（尤美）, race meeting（英）赛马大会
+dog, horse race 赛狗；赛马 
+race meet（尤美）, race meeting（英）赛马大会 
+human race 人种 
+alien race 异族 
+a child of mixed race 混血儿 
+Jewish race 犹太种族 
+the Mongolian race 蒙古人种 
+master race 优等种族 
+race equality 种族平等 
+race discrimination 种族歧视 
+race riot 种族暴乱 
+the Nordic races 北欧日耳曼民族 
+European races 欧洲各民族
+
+adj. 如果你想要你就可以选择去做（或去拥有）的:
+optional |['ɒpʃənl]
+Certain courses are compulsory, others are optional. 某些课程是必修的，其他是选修的。
+This model comes with a number of optional extras. 这一型号有一系列可供选择的附件，价格另计。
+
+vt.＆vi. 1 不再运动；使…不再运动。即停止；使停止。是一个常规用词，含义最广，也最常见:
+2 进程中断；使进程中断:
+3 结束、终止；使结束、使终止:
+4 不再工作（或起作用）；使…不再工作（或起作用）:
+stop (to do sth) 短时中断某个活动，以去做某事:
+n. [sing.] 停止，使停止，被停止等:
+vt. 1 使…不再运动。即使停止:
+2 使进程中断:
+3 使结束、使终止:
+4 stop sb/sth (from doing sth) [英亦可stop sb/sth (doing sth)] 阻止或防止某人做某事；阻止或防止某事发生:
+vt.＆vi. 1 使…不再工作（或起作用）:
+2 stop sth (from sth) 阻止金钱的支付，即阻止支付:
+n. [sing.] 使停止:
+vt.＆vi. stop sth (up) (with sth) 堵塞孔洞或开口等:
+vt.＆vi. stop (for sth) [英，非正式] 在某地短暂停留，尤指在某人的住宅中，即逗留:
+n. [C] 管风琴的一排音管；也可指管风琴的音栓:
+n. 1 [C] 公共汽车或火车的车站，尤指中途规律性地停车以使乘客上下车的各个车站:
+2 [C] 旅途中的停留时间或停留地点:
+n. [C] [英] 句号，与full stop同义:
+n. [C] 塞音，即将气流憋在嘴中，然后突然将其释放出，由此而发出的音:
+stop |[stɒp]
+A dog stopped her. 一条狗把她拦住了。
+The car stopped. 汽车停了下来。
+Stop your work, let’s have a meeting. 停下你们手中的工作，咱们开个会。
+The question stopped Alice dead in her tracks. 这个问题一下子把艾丽斯问住了。
+The battle has stopped. 战斗已经结束了。
+That phone never stops ringing! 那部电话老是响个不停！
+We need to stop making excuses. 我们不要再找借口了。
+The machine has stopped. 机器停了。
+vi. stop (for sth) 
+Let’s stop for a break. 我们停下来休息一下吧。
+He brought the work to a stop. 他停止了工作。
+She brought the car to an abrupt stop. 她突然把车停了下来。
+to put a stop to all the arguments 结束所有争论 
+a stop for refreshments 停下来去吃东西
+A dog stopped her. 一条狗把她拦住了。
+The question stopped Alice dead in her tracks. 这个问题一下子把艾丽斯问住了。
+to stop him from destroying the garden 阻止他破坏花园 
+to stop air pollution 防止空气污染 
+They tried to stop me from leaving. 他们尝试阻止我离开。
+to stop a cheque 通知银行停止支付支票 
+Stop your ears! 把你的耳朵堵上！
+to stop up an end of the tube 把管子的一头堵上
+I’m not stopping, I must leave. 我不待了，我得走了。
+I get off at the next stop. 我在下一站下车。
+Which is your stop? 你在哪一站下车？
+bus, subway（美）, tube（英）stop 公交车站；地铁站 
+request stop（英）公共汽车的招呼站 
+to miss the stop 坐过站 
+The last stop of my journey is Madrid. 我旅程的最后一站是马德里。
+overnight stop 停留过夜 
+fuel, rest, stop 燃料补给停留；休息时段停留 
+We had a lunch stop at Timperley. 我们在廷珀利停下来吃午饭。
+The cars made two pit stops during the race. 整个赛程中这些车两次停下检修加油。
+campaign stop（美）中途短暂的竞选宣传 
+traffic stop（美）路检（或交通截停）
+stop light, stop sign 停车指示灯；停车标志
+
+a filling for a tooth.:a补牙。
+stopping |ˈstɒpɪŋ| Noun/:停止,停下来
+
+n. [C] [英] [美用garbage can或trash can]（常置于房外的）大垃圾桶（有盖）:
+n. [C] [英] [美用garbage can或trash can]（常置于房外的）大垃圾桶（有盖）:
+dustbin |['dʌstbɪn]
+dustbin bag, dustbin lid 垃圾桶袋；垃圾桶盖 
+These old shoes can go in the dustbin now. 这些旧鞋子现在可以扔进垃圾箱了。
+How regularly are the dustbins emptied? 垃圾箱多长时间清空一次？
+dustbin bag, dustbin lid 垃圾桶袋；垃圾桶盖 
+These old shoes can go in the dustbin now. 这些旧鞋子现在可以扔进垃圾箱了。
+How regularly are the dustbins emptied? 垃圾箱多长时间清空一次？
+
+vt. screen sth/sb (from sth/sb)（把…放在某人或事物的前面或周围来）隐藏（该人或事物），相当于shield:
+n. [C] screen (of sth) 用来做掩蔽的事物:
+vt. screen sth/sb (from sth/sb)（把…放在某人或事物的前面或周围来）隐藏或保护（该人或事物），相当于shield:
+n. 1 [C]（固定或移动的）能隔出一间屋子（或把…挡起来）的隔板、屏风、幕帘、帐等:
+2 [C] screen (of sth) 用来做掩蔽或起保护作用的事物:
+vt. 1（公司、组织等）对员工或想要成为其员工的人进行调查或审查（以看其是否可靠）:
+2 检查某事物（以看其是否合适或你是否想要它，如为确保没有携带武器等而检查人或行李）:
+n. 1 [C]（电影、电视或投影仪的）大屏幕，即银幕:
+2 [sing., U] 常用the screen，（统称）电影或电视:
+vt.（在电影院或电视上）放映电影或播放电视节目:
+n. [C]（电视或电脑的）屏幕:
+vt. screen (sb) (for sth) 常用被动式，指对人们进行体检，以检查其是否患有某一疾病，即筛查:
+n. [C] [尤美] 纱窗或纱门（用以将昆虫隔绝在室外同时保持空气流通的网状门窗）:
+vt. screen sb from sb/sth 保护某人使其免遭危险或不愉快，尤指保护犯法或不道德的人，即包庇，袒护，相当于shield:
+screen |[skri:n]
+Most of the road behind the hotel was screened by an apartment block. 旅馆后面那条路的大部分都被一排公寓楼挡住了。
+All the research was conducted behind a screen of secrecy.（比喻用法）整个研究始终是秘密进行的。
+Dark glasses screened his eyes from the sun. 他戴了一副墨镜，保护眼睛不受阳光照射。
+Most of the road behind the hotel was screened by an apartment block. 旅馆后面那条路的大部分都被一排公寓楼挡住了。
+The nurse put a screen around the bed. 护士绕床拉了一道帘子。
+There is a screen between the two beds. 两张床之间有一道帘子。
+The room was divided by a folding screen. 房间被一个折叠屏风分隔开。
+We planted a screen of tall trees. 我们种下一排大树作为屏障。
+All the research was conducted behind a screen of secrecy.（比喻用法）整个研究始终是秘密进行的。
+Government employees may be screened by the security services. 政府雇员可能要接受安全部门的审查。
+They will screen all their candidates. 他们将审查他们所有的求职者。
+All foster parents are carefully screened. 所有的养父母都经过仔细甄选。
+to screen baggage on a X-ray machine 在X光机上检查行李
+cinema（尤英）, movie（尤美）screen 电影屏幕 
+The movie will be coming to your screens shortly. 这部电影不久就会在你们那里上映。
+He has adapted the play for the screen. 他把那部剧改编成了电影剧本。
+She appears regularly on the small screen. 她频频在电视荧屏上出现。
+screen star 影视明星
+a film to be screened this week 本周放映的一部电影 
+The series is likely to be screened in January. 这部系列剧可能在1月份播放。
+The race will be screened live on TV. 比赛将做电视直播。
+computer screen 计算机屏幕 
+display screen 显示屏
+Men over 55 should be regularly screened for prostate cancer. 55岁以上的男性应定期做前列腺癌检查。
+All pregnant women are to be screened for the infection. 所有孕妇都要做这种传染病筛查。
+screen door, screen window（均美）纱门；纱窗
+
+n. 1 [C] 长筒女袜:
+2 [C] 圣诞袜（圣诞夜小孩在睡觉前所放置的供装圣诞礼物的一只长袜），相当于Christmas stocking:
+stocking |['stɒkɪŋ]
+a pair of silk stockings 一双长筒丝袜 
+fishnet stocking 网眼长筒袜 
+
+adj. 用于强调某事发生的方式之惊人，有时可翻译为仅仅:
+adj. 枯燥的，缺乏趣味或热情的，无趣的:
+adj. 令人感到枯燥的，缺乏趣味或热情的，无趣的:
+adj. 扁平的（宽但不高的）:
+adj.（嗓音）未表现出任何情感的；音调没什么太大变化的。即平淡的；单调的:
+adj.（颜色或图画）色彩单调的；无明暗对比反差的；无景深的:
+adj.（轮胎、球、气球）（通常由于出现孔洞而）没有足够空气的，即撒了气的；瘪了的:
+adj.（饮料）不再有气泡的；不新鲜的:
+n. [pl.] flats可指鞋跟非常平的鞋，即平底鞋:
+vt. [澳大利亚，新西兰] 住在公寓里；也可指合住一套公寓:
+n. [C] [术语] 剧院舞台上的垂直布景:
+adj. [英]（电池）电用完了的:
+n. [C, usually pl.]（尤指水边的）低洼平地:
+adj. 只作前置定语，指（拒绝或否认）不允许协商或讨论、争论的，即断然的，明确的，绝对的:
+adv. [英，非正式] [美为flat out] 断然或直截了当地（拒绝或否认）:
+adj. 1 拥有一个平的水平面的，不弯曲也不倾斜的，即水平的；平坦的:
+2（土地）平坦的（没有任何斜坡或山丘的）:
+3（表面）平滑的（没有任何隆起或坑洞的，不坑坑洼洼的）:
+adv.（尤指贴着另一表面）伸展平直地:
+n. [sing.] the flat of sth（某事物的）平面部分:
+adj. 足弓扁平的:
+n. [sing.] [英] the flat或the Flat可指无障碍平地赛马季:
+adj. 1 用于音符名称后，表示降音的；降半音的。与sharp反义:
+2 音乐中还可指低于标准音高的，即偏低的，反义词为sharp:
+n. [C]（音乐中的）降半音；降音；降号。与sharp反义:
+adv. 音乐中可指低于标准音高地，与sharp反义:
+adj.（商业）不景气的；（生意）萧条的:
+adj.（费率、价格或百分比）固定的，且适合于每一种情况的（一般适用于服务费、广告费等无形商品的费用）:
+n. [C] [英] 一套供居住的房间（包括一间厨房，通常在一栋建筑的一个楼层上），即公寓；单元房。相当于美式的apartment:
+n. [C] [尤美]（常由于孔眼而）撒了气的轮胎；瘪了的轮胎:
+flat |[flæt][flæt]
+You’re sitting behind an engine that’ll move you from 0 to 60mph in six seconds flat. 你现在坐的这辆车的引擎只需6秒钟就能从0加速到每小时60英里。
+He felt very flat after his friends had gone home. 他的朋友们回家后，他感到兴味索然。
+The past few days have seemed comparatively flat and empty. 过去的几天似乎比较平淡和无聊。
+flat shoes 平跟鞋；平底鞋 
+a square flat box 扁平的方盒子
+Her voice was flat and expressionless. 她的声音平淡而呆板。
+flat blocks of colour 单一色调的图块
+a flat tyre 瘪了的轮胎
+The soda was warm and had gone flat. 这汽水是温的，已走了气。
+His mother looked ten years younger in jeans and flats. 他的母亲穿着牛仔裤和平底鞋，看上去年轻了十岁。
+My sister Zoe flats in Auckland. 我妹妹苏怡住在奥克兰的一栋公寓里。
+coastal flat（尤英）沿海平地 
+mud flat（通常用mudflat）泥沼 
+salt, sand flat 盐滩；沙滩 
+tidal flat 潮滩
+Her request was met with a flat refusal. 她的请求被断然拒绝。
+He gave a flat ‘No!’ to one reporter’s question. 他对一名记者提问直截了当地答复“不！”
+a flat denial 断然否认 
+She told me flat she would not speak to me again. 她直截了当地跟我说她再不会理我了。
+They turned it down flat. 他们断然拒绝了。
+flat roofs 平屋顶 
+People used to think the earth was flat. 人们曾经认为地球是平的。
+Exercise is the only way to get a flat stomach after having a baby. 产后只有通过锻炼才能使腹部收平。
+The sea was almost completely flat. 海面上可算是波平如镜。
+a flat and fertile farmland 平坦肥沃的农田 
+I need a flat surface to write on. 我需要一个平面在上面写字。
+a flat rock 平滑的石头
+He lay flat on the ground. 他平躺在地上。
+He knocked me flat on my back. 他撞得我仰面躺倒在地上。
+They pressed themselves flat against the tunnel wall as the train approached. 火车接近时他们身体紧贴着隧道壁。
+I can’t get this material to lie flat. 我没法将这料子展平。
+Shall I fold the paper flat or roll it up? 我是该把这张纸平折还是卷起来？
+the flat of a hand 手掌 
+the flat of a sword 剑面
+The condition of flat feet runs in families. 平足会在家族中遗传。
+That note should be B flat, not B. 那个音应该是降B音，而不是B音。
+The high notes were slightly flat. 这些高音略为偏低。
+There are no sharps or flats in the key of C major. C大调中没有升半音和降半音。
+She had a tendency to sing flat. 她的唱音倾向于偏低。
+The housing market has been flat for months. 住宅市场已有好几个月处于低迷状态。
+Car sales stayed flat. 汽车销量仍不景气。
+Fees are charged at a flat rate. 费用按一个固定的费率收取。
+Interest rates have remained flat. 利率一直保持平稳。
+Do you live in a flat or a house? 你住的是公寓还是独立住宅？
+furnished flat 有家具的公寓 
+one-room, studio flat 单间公寓房 
+bachelor flat 单身公寓 
+holiday flat 度假公寓 
+a block of high-rise flats 一栋高层公寓楼 
+top flat 顶楼公寓
+We got a flat on the way home. 我们在回家的路上有一个轮胎漏气瘪了。
+
+adj.（不用于名词前）＆adv. 1 独自（即没有其他任何人）:
+2 没有其他人（或事物）的帮助:
+adj.（不用于名词前）＆adv. 孤独且不开心，或没有任何朋友。常是一种客观状态:
+adv. 1 用于名词或代词后，以表示所提到的一个人或事物是唯一的一个:
+2 用于名词或代词后，以强调某件事，即仅仅，只:
+adj.（不用于名词前）用于名词或代词后，以表示所提到的一个人或事物是唯一的一个:
+alone |[ə'ləʊn]
+I don’t like going out alone at night. 我不喜欢夜晚单独外出。
+He lives alone. 他独居独处。
+Finally the two of us were alone together. 最后只有我们两人在一起。
+She was sitting all alone in the hall. 她一个人坐在大厅里。
+Tom is not alone in finding Rick hard to work with. 并不只是汤姆一人认为和里克难以共事。
+It’s hard bringing up children alone. 一个人独力抚养孩子是艰难的。
+The assassin said he had acted alone. 暗杀者声称他是单独作案。
+Carol felt all alone in the world. 卡罗尔感到自己在世界上无依无靠。
+I’ve been so alone since you went away. 你走了以后我一直很寂寞。
+You can’t blame anyone else; you alone made the decision. 你不能责怪任何人，是你一人做的决定。
+The shoes alone cost £200. 仅鞋子一项就花了200英镑。
+Tom is not alone in finding Rick hard to work with. 并不只是汤姆一人认为和里克难以共事。
+
+n. [C, usually pl.] 手指或脚等在某事物表面所留下的痕迹:
+vt. print sth (in/on sth)（在松软的表面）压印，印出一个标记:
+vt.（用有油墨的表面）在一个表面或布料上印出图案，即印染:
+n. [U, C]（印上了图案的）棉布或其它材料；也可指这种图案:
+vt. 以印刷的形式出版…，即登载；刊登；发表:
+n. [U]（涉及报刊杂志或图书的）印刷行业或出版界:
+vt.＆vi.（用机器）在纸上印（数字、字母、图画等），打印:
+vt. 印刷（图书、报刊等）:
+n. [C]（将木头或金属的图画刻板涂上油墨后在纸上所印出来的）版画；（用照相制版法制作的）绘画复制品:
+vt.（将胶卷）冲洗成照片:
+n. [C] 专指用底片洗印出来的相片:
+vt.＆vi. 用印刷体写（字母之间笔画不相连接）:
+n. [U] 在纸上印出来的字母、文字或数字等，即印刷字体。偶尔也可指在屏幕上显示的字体（不过此时不如type常用）:
+print |[prɪnt]
+His prints were found on the gun. 在枪上发现了他的指纹。
+The tracks of the large animal were clearly printed in the sand. 这只大型动物的足迹清晰地印在沙滩上。
+The memory of that day was indelibly printed on his brain.（比喻用法）那天的记忆永不磨灭地深印在他的脑海里。
+They had printed their own design on the T-shirt. 他们在T恤衫上印了自己设计的图案。
+a cotton print dress 花布连衣裙 
+a floral print 花卉图案 
+Her mother wore one of her dark summer prints. 她母亲穿了她的一件深色印花布夏装。
+The photo was printed in a local newspaper. 这张照片被刊登在一家本地报纸上。
+to print letters 发表信件
+print journalism, print media 平面媒体 
+print ad 平面广告 
+print edition, print version 印刷版 
+print journalist, print reporter（尤美）, print worker（尤英）报刊记者；印刷工人 
+print run 印数 
+All her books are still in print. 她所有的书仍在印行。
+to be out of print 绝版
+The images are scanned onto computers and digitally printed. 图像扫描到电脑后再以数字打印的形式印出来。
+a dress printed with blue flowers 印有蓝花的连衣裙 
+They printed 30 000 copies of the book. 这本书他们印了3万册。
+a framed set of prints 一组镶框的版画
+I’m having the pictures developed and printed. 我已把照片送去冲印。
+How many sets of prints would you like? 你想洗几套照片？
+a black and white print of Tom as a child 一张汤姆小时候的黑白照片
+Print your name and address clearly in the space provided. 请用印刷体在空白处填写你的姓名和住址。
+clear print 清晰的印刷字体 
+bold print 黑体字 
+large print 大字体 
+fine, small print（法律文件）小号字印刷的附加条款 
+columns of tiny print 一栏栏极小的印刷字 
+the tiny print on the screen 屏幕上的小字
+
+
+prints | 印刷,印刷品,打印
+
+vt.＆vi. [非正式] be dying for或be dying to可表示渴望:
+vi.（机器或设备）停止运转:
+die (for sth)（人或动植物）死亡，凋谢:
+vi. 消失，灭亡:
+n. [C] 模具，压模，冲模:
+n. [C] [尤美] 骰子（如赌场用的骰子）:
+vi. be dying of 可表示（口渴、饥饿、厌倦或好奇得）要命:
+vt.＆vi. [非正式] 强调一种情况令人觉得震惊、尴尬、烦恼或搞笑等，即差点死去:
+die |[daɪ]
+I’m dying for a breath of fresh air. 我真想呼吸点新鲜空气。
+The engine coughed, spluttered, and then suddenly died. 发动机发出喀喀声，噼啪声，然后突然熄火了。
+vt.＆vi. die (of/from sth) 
+to die of/from cancer 死于癌症 
+to die a natural death 尽其天年 
+The flower’s died 那朵花已经凋谢了。
+He died young. 他年纪轻轻就死了。
+Her father died tragically in a car crash. 她的父亲在一场车祸中惨死。
+to die for your country 为国捐躯
+The old customs are dying. 旧的习俗正在消亡。
+Her secret died with her. 她的秘密随同她一起进了坟墓。
+The words died on my lips. 我话到嘴边又缩回去了。
+I’m dying of thirst. 我快渴死了。
+I nearly died when they told me the price. 他们告诉我价格的时候，我差点儿死过去。
+I nearly died of shame. 我羞愧得要死。
+I thought I’d die laughing. 我以为我要笑死了。
+
+n. [C] 老鼠，耗子。是通常意义上的老鼠，也可以是老鼠的总称。纯生物学上的概念，无任何感情色彩:
+n. [C] 鼠标:
+mouse |[maʊs]
+field, house mouse 田鼠；家鼠 
+laboratory mouse 实验用鼠 
+white mouse 白鼠 
+mouse hole 老鼠洞 
+mouse trap（通常用mousetrap）捕鼠器；捕鼠夹
+to click the left mouse button twice 双击鼠标左键 
+wireless mouse 无线鼠标
+
+n. [C, usually sing.] 一段时间:
+n. 1 [U, C] 日常生活中的“空间”，常具有一定的使用价值（强调使用价值时相当于room，如进行活动或放置物品等。此时二者未见明显区别）:
+2 [U] 大而空旷（从而可使人自由运动），即宽敞；空旷；开阔等:
+vt. 以一定间隔（空间间隔或时间间隔）排列:
+n. [U] 天空；或地球大气层以外的宇宙空间，即太空:
+n. [C, U]（无建筑物的）大片空地，即开阔地:
+n. [U] 所有事物所存在（并在其中运动）的空间，是一种物理和哲学概念，与时间相对应:
+n. [U, C] 在书写和印刷中可指（一行、一页或一份文件的）空白处（如空行；空白；空格），即版面:
+n. [U]（人）思考或行动的自由，即属于自己的空间:
+space |[speɪs]
+in the space of five days 五天里 
+They had achieved a lot in a short space of time. 他们在短时间内取得了很大的成绩。
+two-second space 两秒钟的时间 
+to give him a breathing space（比喻用法）给他一段喘息的时间
+That desk takes up too much space. 那张桌子太占地方。
+to make space for an extra chair 腾个地方再放一把椅子 
+disk space 磁盘空间 
+a parking space 停车的空地 
+storage space 储藏空间 
+living space 居住空间 
+personal, private space 个人空间；私人空间 
+The room gives a feeling of space. 这间屋子给人一种宽敞的感觉。
+evenly spaced plants 间隔均匀的秧苗 
+Space the posts about a metre apart. 这些杆子之间要间隔一米左右。
+Make sure the posts are spaced evenly apart. 确保各岗哨之间距离相等。
+Women once again are having fewer children and spacing them further apart. 妇女们又一次开始生育较少的孩子，而且生孩子的时间间隔越来越大。
+air space（通常用airspace）领空 
+to launch satellites into space 发射人造卫星到太空 
+outer space 外太空 
+space exploration 太空探索 
+space travel 太空之旅 
+space agency 航天局 
+space station 空间站
+He loved the wide-open spaces of Australia. 他喜欢澳大利亚的广袤与空旷。
+It is quite possible that space and time are finite. 很有可能空间和时间是有限的。
+physical space 物理空间
+Don’t waste space by leaving a wide margin. 页边不要留太宽，以免浪费版面。
+Leave a space after the comma. 逗号后面要留一个空格。
+Fill in the blank spaces in the table. 填写表格的空白处。
+She was upset and needed space. 她心境不佳，需要一片自己的天地。
+You have to give teenagers plenty of space. 必须给青少年充足的自由空间。
+
+adj. 1（一段时间、一次事件等）早期的，初期的，接近于起始点的:
+2 比通常时间（或比所认为、所期望的时间，比所计划的时间）早到达或早完成的:
+adv. 1 在（一段时间、一次事件、一份工作等的）早期（或初期、开始阶段）:
+2 比通常时间（或比所认为、所期望的时间，比所计划的时间）提早或提前:
+3 earlier 可指在现在之前，或在所提到的时间之前:
+early |['ə:lɪ]
+the early morning 清晨 
+early stages 早期阶段 
+Mozart’s early works 莫扎特的早期作品 
+He’s in his early twenties. 他二十出头。
+Early booking is essential, as space is limited. 座位有限，务必提早预订。
+The bus was ten minutes early. 公共汽车早到了十分钟。
+Let’s make an early start tomorrow. 咱们明天一早就出发吧。
+It’s a little early for lunch. 吃午饭还早了点儿。
+early in the year, early in the morning 年初；一大早 
+We arrived early the next day. 我们第二天很早就到达了。
+The bus came five minutes early. 公共汽车早到了五分钟。
+I woke up early this morning. 我今天早上醒得早。
+The baby arrived earlier than expected. 婴儿早产了。
+As I mentioned earlier … 正如我先前所提到的… 
+a week earlier 一周前 
+She had seen him earlier in the day. 她在那天早些时候见到过他。
+
+adj. 身体健壮的。尤指由于锻炼身体而使身体健壮的:
+adj. 与运动员或田径相关的，即运动的，田径运动的，运动员的:
+athletic |[æθ'letɪk]
+an athletic figure 健壮的体形 
+an athletic build 健壮的体格 
+an athletic girl 健美的女孩
+athletic ability 运动才能 
+an athletic club 运动员俱乐部 
+an athletic coach 体育教练

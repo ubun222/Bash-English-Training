@@ -1,0 +1,717 @@
+massacre				大屠杀，惨败
+waver				消退，犹豫不决，摇曳
+decrepit				老弱的，破旧的
+mortgage				抵押贷款
+hypothesis					假设，学说
+all						全部，唯一，完全的
+finance							资金，财政
+take						携带，拿，取走，减去，测量，接受
+legislate				立法，预测并应对
+permeate					渗透，散布
+cavity				孔，腔
+definite				明确的，明显的，自信的
+skeleton				骨架，构架，纲要
+quarterly				季度的
+textile				纺织品
+textiles				纺织业
+conception			概念，构思，受孕
+jury							陪审团，评委会
+murmur				连续低沉的声音，低声说
+virus							病毒
+gasp					喘气
+fatal							致命的，灾难性的
+altitude								海拔，纬度
+outdo				胜过
+opinion							看法，观点，评价
+decay				腐烂，破损，衰退
+audit				审计，审查
+forthcoming				即将到来的，可得到的，乐于助人的
+anthology				选集
+yarn					纱线，离奇故事
+plaintive				悲伤的
+\\\\\\\\
+
+vt. 屠杀大量人口:
+n. [C, U]（尤指以残忍的方式）杀害很多人，即屠杀:
+n. [C, U] [非正式] 运动或比赛、竞争中的惨败:
+The game was a 10–0 massacre for our team. 这场比赛我们队以0:
+vt. [非正式] 在运动或比赛、竞争中使某人惨败:
+massacre |[ˈmæsəkə(r)]
+300 civilians are believed to have been massacred by the rebels. 据信有300位平民被叛乱分子残杀。
+Troops indiscriminately massacred the defenceless population. 军队肆无忌惮地屠杀手无寸铁的民众。
+the bloody massacre of innocent civilians 对无辜平民的血腥屠杀 
+Nobody survived the massacre. 这次大屠杀无人幸免。
+
+If something wavers, it shakes with very slight movements or changes. 摇摆
+If you waver, you cannot decide about something or you consider changing your mind about something. 犹豫不决; 踌躇
+waver |英 ['weɪvə]  美 ['wevɚ]| vi. 摇曳；踌躇；摆动/n. 动摇；踌躇；挥动者/
+The shadows of the dancers wavered continually.舞者的身影摇摆不停。
+Some military commanders wavered over whether to support the coup.一些军队指挥官对是否支持政变犹豫不决。
+
+
+Something that is decrepit is old and in bad condition. Someone who is decrepit is old and weak. 破旧的; 衰老的
+decrepit |英 [dɪ'krepɪt]  美 [dɪ'krɛpɪt]| adj. 衰老的；破旧的/
+The film had been shot in a decrepit old police station.这部电影拍摄地点在一个破旧的老警察站。
+
+
+n. [C]（也可用非正式的home loan）从银行（或类似机构）借出的一笔用于购置房产、土地等的款项（需要在一定年限内还清），即房屋抵押贷款，也可叫按揭贷款。可指此种钱款，也可指此种按揭贷款协议:
+vt.（根据按揭贷款协议向银行等机构）抵押（房产、土地等）:
+mortgage |[ˈmɔ:gɪdʒ;美ˈmɔ:rg-]
+an increase in mortgage rates 房屋抵押贷款利率的提高 
+a mortgage on the house 一项房产按揭 
+a mortgage of £60 000 6万英镑的按揭贷款 
+monthly mortgage repayments 每月偿还的按揭贷款 
+big, huge mortgage 大笔按揭贷款 
+small mortgage 小额按揭 
+Banks often offer their employees cheap mortgages. 银行经常给员工提供低息按揭贷款。
+reverse mortgage（美）反向抵押 
+fixed-rate mortgage 固定利率按揭 
+home, residential mortgage 住房抵押贷款；住宅抵押贷款 
+He raised the money by taking out a second mortgage on his house. 他通过对自己的房屋办理二次抵押筹集了这笔钱。
+We have a big mortgage. 我们得到了一大笔按揭贷款。
+They were having trouble getting a mortgage. 他们办理按揭货款遇到了困难。
+We'll have to take out a second mortgage to pay for this wedding! 我们将不得不办理第二笔按揭来支付婚礼费用! 
+He wasn't earning enough to pay the mortgage. 他挣的钱不够还按揭。
+There are penalties if you want to redeem your mortgage early. 如果你想提前还清按揭贷款，需要交违约金。
+They fell behind with/on their mortgage, so their home was repossessed.（on为美式用法；with为英式用法）他们没有按时还按揭款，所以房子被收走了。
+mortgage payment, mortgage repayment（英）按揭偿付；按揭还款 
+They were struggling to keep up with their mortgage payments. 他们千方百计按时偿付按揭款。
+mortgage application 抵押贷款申请 
+mortgage loan 抵押贷款 
+mortgage credit 抵押信贷 
+mortgage debt抵押债务 
+mortgage business, mortgage industry, mortgage market 抵押贷款业务；抵押贷款行业；抵押贷款市场 
+mortgage broker, mortgage company, mortgage lender 按揭经纪人；按揭公司；按揭放贷者 
+mortgage finance抵押融资 
+mortgage product 抵押产品 
+mortgage insurance 住房抵押贷款保险 
+mortgage portfolio抵押资产组合 
+mortgage refinancing 转按揭 
+I couldn't get a mortgage on the property. 我未办成该房产的按揭。
+He had to mortgage his house to pay his legal costs. 他不得不把房子抵押出去来付诉讼费。
+They had to mortgage their home to pay the bills. 他们不得不抵押房屋借贷来支付这些款项。
+mortgaged homes 按揭房
+
+n. [C]（有少量事实依据但未被完全证实的）假说，假设:
+n. [U] 凭空的猜测、猜想:
+hypothesis |[haɪˈpɒθəsɪs;美-ˈpɑ:θ-]
+Scientists have proposed a bold hypothesis. 科学家提出了一个大胆的假设。
+Different hypotheses have been put forward to explain why these foods are more likely to cause problems. 人们已经提出不同的假说来解释为什么这些食物更有可能带来问题。
+A number of hypotheses have been put forward. 已经提出了几个假说。
+Work will now begin to test the hypothesis in rats. 现在将开始在老鼠身上做实验以验证该假设。
+These observations appear to support our working hypothesis. 这些观察结果看来与我们暂时的假设一致。
+scientific hypothesis 科学假说 
+It is possible to make a hypothesis on the basis of this graph. 以这张图表为基础做出假设是可能的。
+None of the hypotheses can be rejected at this stage. 在现阶段，任何一个假设都不能排除。
+Her hypothesis concerns the role of electromagnetic radiation. 她的假说涉及到电磁辐射的作用。
+The hypothesis predicts that children will perform better on task A than on task B. 这一假设预计孩子们完成任务A将比完成任务B更出色。
+Her study is based on the hypothesis that language simplification is possible. 她的研究基于语言可以简化这样一个假设。
+an interesting hypothesis about the development of language 关于语言发展的一个有趣假说 
+a hypothesis about the function of dreams 关于梦的作用的假说 
+The results confirmed his hypothesis on the use of modal verbs. 结果证实了他的关于情态动词用法的假设。
+It would be pointless to engage in hypothesis before we have the facts. 在我们还没掌握事实的情况下瞎猜是毫无意义的。
+
+det. 1 与复数名词连用，名词前可用the、this、that、my、her、his等，也可用数词。表示全部，所有，一切:
+2 与不可数名词连用，名词前可用the、this、that、my、her、his等，表示全部，所有，一切:
+3 只由一种事物组成的，或看起来只由一种事物组成的，即唯一；全是；仅仅:
+4 无论什么，任何:
+pron. 1 全部；所有；全体；一切等:
+2 后常接不带that的关系从句（有时也可带that），指唯一的事物；所有的事物；一切:
+det. 与单数名词连用，表示某事在某段时间内一直（或持续）发生，即全部的，整个的:
+adv. 体育运动或比赛、游戏中可指各方，每方:
+adv. 完全地:
+adv. 1 [非正式] 很，非常，十分:
+2 all too ... 用于表示某事超过某人的预期，即太，过分等:
+det. 最大可能的，如极度，尽量:
+all |[ɔ:l]
+All horses are animals, but not all animals are horses. 所有的马都是动物，但并不是所有的动物都是马。
+All my plants have died. 我的花草全死光了。
+All wood tends to shrink. 所有的木头都会收缩。
+You’ve had all the fun and I’ve had all the hard work. 所有的快乐都让你享受了，所有的辛苦都让我尝尽了。
+He has lost all his money. 他失去了所有的钱。
+The magazine was all advertisements. 这份杂志全是广告。
+She was all smiles. 她笑容满面。
+All of the food has gone. 食物全光了。
+They all enjoyed it. 他们都喜欢。
+His last movie was best of all. 他最近的那部电影是他所有电影中最好的。
+All is silent on the island now. 现在这个岛上一片寂静。
+All I want is peace and quiet. 我只要和平安宁。
+It was all that I had. 那就是我所拥有的一切。
+He’s worked hard all year. 他一年到头都在辛勤劳动。
+She was unemployed for all that time. 那段时间她一直失业。
+The score was four all. 比分是四比四平。
+She was dressed all in white. 她穿一身白。
+He lives all alone. 他索居独处。
+The coffee went all over my skirt. 咖啡溅了我一裙子。
+She was all excited. 她非常激动。
+Now don’t get all upset about it. 别再为那件事那么难过了。
+I’m all too aware of the problems. 我实在太明白这些问题了。
+The end of the trip came all too soon. 这次旅行结束得未免太早了。   
+In all honesty, I can’t agree. 说实在的，我不能同意。
+
+n. [U] finance (for sth) 用于运营企业或项目、开展活动的资金（美式英语通常用financing）:
+vt. 为一个项目提供资金，与fund近义:
+n. [U]（尤指政府或商业组织）管理资金的活动，即金融、财务、财政:
+n. [C] finances 复数表示对于一个人、组织或国家来说可用的资金；还可指管理上述资金的方式。即财务状况:
+finance |['faɪnæns]
+cheap finance 低息贷款 
+private, public finance 私人资金；公共资金 
+equity finance 股本融资 
+housing, mortgage finance 住房贷款；按揭贷款 
+the finance for education available to local government 当地政府可用的教育资金 
+to provide finance for the project 为该项目提供资金 
+a source of finance 资金来源 
+privately, publicly finance 私人出资；公共出资 
+the money needed to finance the redevelopment 再开发所需要的资金 
+The project was financed jointly by the Chinese and British governments. 该项目由中英两国政府联合出资。
+He took a job to finance his stay in Germany. 他找了一份工作以赚钱支付在德国的费用。
+a diploma in banking and finance 银行与金融学文凭 
+international finance 国际金融 
+finance company 金融公司 
+finance industry 金融业 
+company finance 公司财务 
+personal finance 个人财务 
+finance director 财务总监 
+government, public, state finance 政府财政；公共财政；国家财政 
+finance officer 财政官员 
+company finances 公司财力 
+government, public, state finances 政府财力；公共财力；国家财力 
+family, personal, private finances 家庭经济状况；个人经济状况 
+the state of sb’s finances 某人的财务状况 
+tight finances 紧张的财务状况 
+to plan your finances for a comfortable life 安排资金以便过上舒服的生活 
+The company’s finances are (in) a mess. 该公司的财务状况一团糟。
+We don’t have the finances to throw a big party. 我们没钱举办大型聚会。
+
+vt. 以某种方式来对待或处理…:
+vt. take sth (from sb) 夺取或占领一个地方，抓住一个人，控制住某事物:
+vt. 经历…，或受到…影响。常经历的是坏事:
+vt. 写下，记录:
+vt. take sth (as sth) 以某种方式来理解、考虑:
+vt. take sb/sth for sb/sth/to be sb/sth 把…看作…，尤指错误地看作（或认为）:
+vt. 因…而需要或要求:
+vt. 能够忍受，容忍。是一个简单用词:
+vt. 有足够的空间而装得下，容纳:
+vt.＆vi. 需要一定的时间，耗费时间:
+vi. 起作用，行得通，成功:
+take (sb) sth 将某物从一地带到另一地:
+2 把人从一地带到另一地:
+3 将…从一个水平、情况等带到（或推向）另一个水平、情况等:
+4 未经允许或由于失误而将…拿走或带走:
+vt. 1 伸出手或胳膊去控制住某物或某人，即拿，握，取，接，抱等。既可表示一种持续的状态（且常表示在“抓住”等这类瞬间动作之后的一种持续掌控的状态），也可表示一种瞬间的结果（即某人先抓住某东西，然后瞬间将其掌控住）。其过程常包含了catch和hold:
+2 拥有某种感情，持有某种观点或态度:
+vt. 就任某个职位，处于某种状态:
+vt. 将…从某地或某人处移开:
+vt. 用投票或调查等方式来获取民意:
+vt. 与名词连用，表示某人的动作、举动等:
+vt. 1 采取行动或措施（以应对某一问题或达到某一目标）。是一个简单用词，但很常用:
+2 采用某种形式:
+vt.（机器等）使用…而运转（或工作）:
+vt. 吃，喝，服用等。是一个简单用词:
+vt. 穿某个尺码的鞋或衣服。是一个简单用词:
+n. [C] 不停机一次连续拍摄的场景或镜头:
+vt. 计量中可指量取或测定…。是一个简单用词:
+take A away 数学中可指减去，相当于subtract:
+vt. take sth (as sth) 以某种方式来理解、考虑。是一个简单用词:
+n. [C] take on sth 某人对某事所持有的观点、看法，是一种非正式用法:
+vt. 越过，跨过，绕过，跳过:
+vt. 就座或占座:
+vt. 1 采取行动或措施（以应对某一问题或达到某一目标）。是一个简单用词，但很常用:
+2 采用某种形式:
+vt.（机器等）使用…而运转（或工作）:
+vt. 选中，买下，或租用:
+vt. 接受或收到。是一个简单用词，日常生活中较常用:
+vt. take sth from sth/out of sth 从某个来源中获得…:
+vt. 接待顾客、患者等。其实其本义是“接收”某人，是一个较中性的词，而不太用于社交场合。是一个简单用词:
+vt. 服用:
+vt. 体育比赛中的运动员从一个固定（或被各方同意的）位置踢出或扔出球:
+vt. 给…拍照，摄影。是一个简单用词，日常生活中比较常用:
+n. [C] 某人所收到的一笔钱，尤指商业行为在一段时间内的收入，即收入额，或称为进项，通常用单数，是一种非正式用法。语义上相当于takings:
+vt. 定期购买报纸或杂志，为正式用法。词义上为subscribe所包含，但take更强调该订阅对象是一种被“选定”的结果:
+vt. 学习（课程）。也是一个简单用词，不太常用，不过比do常用:
+vt. 参加考试或测验。为此义的常规用词:
+take sth 授课或主持宗教活动:
+vt. 乘坐交通工具，走某条道路:
+vt.（动词、名词等用于句子或其他结构中时）有或需要…:
+take |[teɪk]
+He took the criticism surprisingly well. 他对待这一批评的态度竟意外地好。
+These threats are not to be taken lightly. 这些威胁可不能等闲视之。
+She took it in the spirit in which it was intended. 她根据其精神实质来认识此事。
+Harry took his rejection philosophically. 哈里达观地看待自己被拒的事。
+I wanted to be taken seriously as an artist. 我希望别人真正视我为艺术家。
+The rebels succeeded in taking the town. 反叛者攻占了那个城镇。
+The state has taken control of the company. 政府已经接管了这家公司。
+The rebels took him prisoner. 反叛者把他俘虏了。
+The school took the full force of the explosion. 爆炸的全部破坏力都集中在这所学校。
+Can the ropes take the strain? 这些绳子能承受住这一张力吗？
+The team took a terrible beating. 这个队遭到惨败。
+The police officer took my name and address. 警察记下了我的姓名和地址。
+Did you take notes in the class? 你在课堂上做了笔记吗？
+She took what he said as a compliment. 她把他说的看作是称赞。
+How am I supposed to take that remark? 我应该怎么理解那话的意思？
+Taken overall, the project was a success. 总的看来，这个项目是成功的。
+Even the experts took the painting for a genuine Van Gogh. 连行家都误以为这幅画是凡·高的真迹。
+Of course I didn’t do it! What do you take me for (= what sort of person do you think I am)? 那当然不是我干的！你把我当成什么人啦？
+I took the man with him to be his father. 我误以为和他在一起的那个男人是他父亲。
+It only takes one careless driver to cause an accident. 只要有一个粗心大意的司机便会发生车祸。
+It doesn’t take much to make her angry. 她动辄就发脾气。
+She can’t take criticism. 她受不了批评。
+I don’t think I can take much more of this heat. 我觉得再也忍受不了这种高温了。
+I find his attitude a little hard to take. 我觉得他的态度有点儿令人难以接受。
+The bus can take 60 passengers. 这辆公共汽车可容纳60名乘客。
+The tank takes 50 litres. 这罐能装50升。
+It takes about half an hour to get to the airport. 到机场大概需要半小时。
+That cut is taking a long time to heal. 那伤口需要很长时间才能愈合。
+I need a shower--I won’t take long. 我要冲个澡，用不了多长时间。
+The skin graft failed to take. 皮肤移植未能成功。
+vt. 1 take sth (with you) 
+take sth (to sb) 
+I forgot to take my bag with me. 我忘了拿包。
+Take this to the bank for me, would you? 请替我把这送到银行去好吗？
+Shall I take a gift to my host family? 我要不要给主人家带件礼物呢？
+I’ll take you by car. 我开车送你去。
+A boy took us to our room. 服务员带我们到房间。
+I’m taking the kids swimming later. 我待会儿带孩子们去游泳。
+Her talent took her to the top of her profession. 她凭着天赋的才能达到了事业的顶峰。
+The new loan takes the total debt to $100 000. 加上这笔新贷款，负债总额达到10万美元。
+I’d like to take my argument a stage further. 我想把我的论点进行进一步的发挥。
+He believes he has the skills to take the club forward. 他相信他有能力使俱乐部继续发展。
+We’ll take the matter forward at our next meeting. 我们将在下一次会议上进一步讨论这个问题。
+Someone has taken my scarf. 有人把我的围巾拿走了。
+Did the burglars take anything valuable? 入室窃贼偷走了贵重的东西没有？
+The storms took the lives of 50 people.（比喻用法）这场暴风雨夺走了50人的生命。
+I passed him the rope and he took it. 我把绳子递给他，他接了过去。
+He took her hand. 他拉着她的手。
+She took the child in her arms and kissed him. 她把孩子搂在怀里亲吻他。
+to take interest in … 对…感兴趣 
+Don’t take offence (= be offended) at what I said. 我讲的话你别见怪。
+I took a dislike to him. 我对他产生了反感。
+He takes the view that children are responsible for their own actions. 他的观点是孩子应对自己的行为负责。
+The new President takes office in January. 新总统将于一月份就职。
+Will you take your books off the table? 把你的书从桌子上拿走好吗？
+The sign must be taken down. 这个指示牌一定要摘下来。
+He took some keys out of his pocket. 他从口袋里取出几把钥匙。
+My name had been taken off the list. 我的名字从名单上划掉了。
+The new sports centre will take the pressure off the old one.（比喻用法）新的体育运动中心将减轻老体育运动中心的压力。
+to take a vote, to take poll, to take survey 付诸表决；进行民意测验；进行调查
+to take a step 迈步 
+to take a bath 洗澡 
+to take a look 看一看 
+to take a drink 喝一口 
+to take a deep breath 深吸一口气 
+to take a rest 休息一下 
+to take a decision 做出决定
+The government is taking action to combat drug abuse. 政府正在采取措施，打击毒品滥用。
+We need to take a different approach to the problem. 我们应该采用另一种方法来解决这一问题。
+Our next class will take the form of a debate. 我们下一堂课将采用辩论的形式。
+All new cars take unleaded petrol. 所有的新汽车都加无铅汽油。
+Do you take sugar in your coffee? 你的咖啡里要放糖吗？
+The doctor has given me some medicine to take for my cough. 医生已给我开了治咳嗽的药吃。
+He started taking drugs at college. 他上大学时开始吸毒。
+What size shoes do you take? 你穿多大号的鞋？
+We managed to get it right in just two takes. 我们仅拍了两个镜头就把这部分戏拍好了。
+to take sb’s temperature 给某人量体温 
+to take blood pressure 量血压
+vt. take A (away) from B 
+Take 5 from 12 and you’re left with 7. 12减5，剩7。
+80 take away 5 is 75.（非正式用法）80减去5等于75。
+How am I supposed to take that remark? 我应该怎么理解那话的意思？
+What’s his take on the plan? 他对这项计划有什么意见？
+a new take on the Romeo and Juliet story (= a way of presenting it) 对《罗密欧与朱丽叶》故事的重新演绎
+The horse took the first fence well. 那匹马轻快地跃过了第一道栅栏。
+He takes bends much too fast. 他拐弯时车开得太快。
+Are these seats taken? 这些座位有人吗？
+Come in and take a seat. 进来坐下。
+The government is taking action to combat drug abuse. 政府正在采取措施，打击毒品滥用。
+We need to take a different approach to the problem. 我们应该采用另一种方法来解决这一问题。
+Our next class will take the form of a debate. 我们下一堂课将采用辩论的形式。
+All new cars take unleaded petrol. 所有的新汽车都加无铅汽油。
+I’ll take the grey jacket. 我要那件灰色夹克衫。
+to take the job, to take bribes, to take a call, to take the blame for sb, to take advice 接受这份工作；收受贿赂；接电话；代人受过；接受劝告 
+Does the hotel take credit cards? 这家旅馆接受信用卡付款吗？
+Will you take $10 for the book? 这本书10美元你卖吗？
+The store took $100 000 last week. 这家商店上星期的营业额为10万美元。
+She took the news of her father’s death very badly. 她难以接受父亲去世的噩耗。
+Stop crying and take it like a man! 别哭了，像个爷们儿！
+to take water samples 采水样 
+Part of her article is taken straight (= copied) out of my book. 她的文章有一部分是从我的书中抄来的。
+The machine takes its name from its inventor. 这机器是根据发明者的姓名命名的。
+The school doesn’t take boys. 这所学校不收男生。
+The dentist can’t take any new patients. 这位牙科医生接待不了新患者了。
+to take medicine 服药 
+He started taking drugs (= illegal drugs) at college. 他上大学时开始吸毒。
+to take a penalty, to take a free kick, to take a corner 罚点球；罚任意球；开角球
+to take a photograph of sb/sth 给（某人或某物）拍照 
+to have your picture taken 让人给你拍照
+How much is my share of the take? 我的那一份收入是多少？
+We take the ‘Express’. 我们订阅的是《快报》。
+to take a computer course 修一门计算机课程 
+How many subjects are you taking this year? 你今年修多少门课？
+to take driving test 参加驾驶执照考试
+vt. take sb (for sth) 
+The head teacher usually takes us for French. 校长通常给我们上法语课。
+to take the bus 乘公共汽车 
+to take the coast road 走海滨公路 
+Take the second road on the right. 第二个路口向右拐。
+The verb ‘rely’ takes the preposition ‘on’. 动词rely需要和介词on连用。
+
+When a government or state legislates, it passes a new law. 通过 (法律); 立法
+legislate |英 ['ledʒɪsleɪt]  美 ['lɛdʒɪslet]| vt. 用立法规定；通过立法/vi. 立法；制定法律/
+You cannot legislate to change attitudes.你不能靠立法来让人们改变态度。
+Most member countries have already legislated against excessive overtime.大部分成员国已经立法禁止过度加班。
+
+
+vt.&vi. [正式]（液体、气体、气味等）扩散、弥漫、渗透到一个物体或地方的各个部分:
+vt.&vi. [正式]（气体、气味等）扩散、弥漫到一个物体或地方的各个部分:
+vt.&vi. [正式]（思想、感情、态度、影响等）影响某事物的各个部分，即感染、传播、扩散:
+permeate |[ˈpɜ:mieɪt;美ˈpɜ:rm-]
+rainwater permeating through the ground 渗入地下的雨水 
+Eventually, the water will permeate through the surrounding concrete. 最终，水会渗透进周围的混凝土中。
+The smell of leather permeated the room. 屋子里弥漫着皮革的气味。
+The smell of roast beef permeated the air. 空气中弥漫着烤牛肉的香味。
+The smell of leather permeated the room. 屋子里弥漫着皮革的气味。
+The smell of roast beef permeated the air. 空气中弥漫着烤牛肉的香味。
+a belief that permeates all levels of society 深入社会各阶层的一种信念 
+Dissatisfaction among the managers soon permeated down to members of the workforce. 管理人员的不满情绪很快传染给了全体职工。
+Bias against women permeates every level of the judicial system. 司法体制中各个层面都有歧视女性的现象。
+An obvious change of attitude at the top will permeate through the system. 上级态度的明显改变将影响到整个体制。
+Technology permeates the whole of our lives. 技术渗透进我们生活的方方面面。
+
+n. [C] 实心事物的洞、窟窿、腔:
+n. [C] 龋齿的洞:
+cavity |[ˈkævəti]
+chest, abdominal cavity 胸腔；腹腔       
+
+adj. 1 易于看到或易于理解的，即明显的:
+2（形状或颜色）清晰的、分明的:
+adj.（颜色）清晰的:
+~ (that…)（一个人对别人说某事时）对某事的真实性表示肯定、有把握，或表示此事必然会发生:
+adj. 1 ~ (that…)（决定或安排）确定的、肯定的、不可能改变的:
+2（证据或信息）确凿的、确切的:
+n. [sing.] [非正式] 你确信会发生的事；肯定会做某事的人:
+definite |[ˈdefɪnət]
+The look on her face was a definite sign that something was wrong. 一看她的神色就知道出事了。
+There was a definite feeling that things were getting worse. 人们明显感到事情越来越糟。
+There has already been a definite improvement. 已经有了显著的改进。
+That's a very definite possibility. 那是很有可能的。
+Studying his face in the bathroom mirror he wished he had more definite features. 看着浴室镜子中的脸，他真希望自己的五官能够更分明一些。
+I'm definite about this. 我对这事非常肯定。
+Can you give me a definite answer by tomorrow? 你最晚明天能给我一个确定的答复吗？
+Is it definite that he's leaving? 他肯定要离开吗？
+a definite offer of a job 明确给予一份工作 
+They have very definite ideas on how to bring up children. 关于如何培养孩子，他们有非常明确的想法。
+Her Royal Highness has definite views about most things. 女王陛下对大多数事情都有明确的观点。
+We didn't have any definite proof. 我们没有任何确实的证据。
+If you have any definite news of my husband, please let me know. 如果有我丈夫的确切消息，请一定告诉我。
+I've heard rumours, but nothing definite. 我听到一些流言，但都不确定。
+I'm not sure─I can find out for definite if you like. 我没把握——如果你愿意我可以去核实。
+‘We're moving our office to Glasgow. ’ ‘That's a definite, is it? ’ “我们的办事处要搬到格拉斯哥去。”“这事儿定了，是吗？” 
+‘Is Sarah coming to the party? ’ ‘Yes, she's a definite. ’ “萨拉要来参加聚会吗？”“是的，她肯定来。”
+
+n. [sing.] ~ staff, crew, etc. 做某事所需的最少人员:
+n. [C] [非正式] 骨瘦如柴的人或动物:
+n. [C]（支撑人或动物的）骨骼、骨架；骨骼标本:
+n. [usually sing.] 建筑物等的主体骨架、框架:
+n. [usually sing.]（计划、文章等的）梗概、提纲、轮廓:
+skeleton |[ˈskelɪtn]
+There will only be a skeleton staff on duty over the holiday. 假期将只留必需的少数职员值班。
+Only a skeleton staff remains to show anyone interested around the site. 只有一小部分必需的工作人员留在那里，带有兴趣的人参观遗址。
+We managed to operate a skeleton bus service during the strike. 罢工期间，我们设法保持最起码的公共汽车营运。
+The human skeleton consists of 206 bones. 人的骨骼由206块骨头组成。
+dinosaur, fish skeleton 恐龙骨架；鱼骨架 
+external, internal skeleton 外骨骼；内骨骼 
+a partial skeleton of an undiscovered species 未知物种的部分骨架 
+The other skeleton belonged to a young man. 另一具骨架是一名年轻男子的。            
+Only the concrete skeleton of the factory remained. 厂房只剩下混凝土骨架了。
+Only skeletons of buildings remained. 只剩下了建筑物的框架。
+Examples were used to flesh out the skeleton of the argument. 通过例证使干巴巴的论点充实起来。
+a skeleton of policy guidelines 政策纲领的概要
+
+A quarterly is a magazine that is published four times a year, at intervals of three months. 季刊
+Quarterly is also an adverb. 一年四次地; 每季地
+A quarterly event happens four times a year, at intervals of three months. 一年四次的; 每季的
+quarterly |英 ['kwɔːtəlɪ]  美 ['kwɔrtɚli]| adj. 季度的，按季度的；一年四次的/adv. 按季度，[农] 一季一次地；纵横四分地/n. 季刊/n. (Quarterly)人名；(英)夸特利/
+The quarterly had been a forum for sound academic debate.这份季刊曾经是正统学术辩论的论坛。
+It makes no difference whether dividends are paid quarterly or annually.红利是按季度还是按年度支付没有区别。
+...the latest Bank of Japan quarterly survey of 5,000 companies.…日本银行对5000家公司最新的季度调查。
+
+
+n. [C] 纺织品:
+n. [pl.] textiles可指纺织业:
+textile |[ˈtekstaɪl]
+a factory producing a range of textiles 生产一系列纺织品的工厂 
+decorative textiles for the home 家用装饰织品 
+the Scottish textile industry 苏格兰纺织业 
+textile designer 纺织品设计师 
+textile business, textile company, textile factory, textile firm, textile manufacture, textile manufacturer, textile manufacturing, textile mill, textile trade, textile worker 纺织企业；纺织公司；纺织厂；纺织品生产；纺织品生产商；纺织制造业；纺织贸易；纺织工人 
+textile exports 纺织品出口
+Another 75,000 jobs will be lost in textiles and clothing. 纺织和服装业又要减少75,000个工作岗位。
+She has a job in textiles. 她在纺织业工作。
+
+Textiles are the industries concerned with the manufacture of cloth. 纺织业
+Textiles are types of cloth or fabric, especially ones that have been woven. 纺织品
+textiles |英/美 ['tekstail; -til]| n. 纺织品；[纺] 纺织业；纺织面料；纺织品类（textile的复数）/
+Another 75,000 jobs will be lost in textiles and clothing.纺织业和制衣业又将失去7.5万个就业机会。
+...decorative textiles for the home.…家用的装饰性纺织品。
+
+
+n. 1 [U] 构思；构想；设想:
+~ (that…) 理解（认为某事怎样或应该怎样）；观念；看法:
+n. [C, U] 怀孕、受孕:
+conception |[kənˈsepʃn]
+The plan was brilliant in its conception but failed because of lack of money. 尽管这计划构想绝妙，但终因资金不足而告流产。
+The symphony is admirable in conception. 这支交响乐的构思好极了。
+The other fundamental consideration in the conception of a plan is function. 在构思设计图时要考虑的另一个基本因素是功能。
+His work is strikingly fresh in conception. 他的作品构思非常新颖随。
+Marx's conception of social justice 马克思对社会公平概念的理解 
+He has no conception of how difficult life is if you're unemployed. 他不懂得失业后生活会是怎样的艰难。
+You have no conception of what her life is like.你完全不了解她的生活是什么样子。
+My conception of a garden was based on gardens I had visited in England. 我对花园的概念是基于我在英格兰观赏过的花园。
+I see him as someone with not the slightest conception of teamwork. 我认为他丝毫没有团队意识。
+We now have a clearer conception of the problem. 我们现在对这个问题有了更清楚的概念。
+liberal conceptions of the role of the state 关于国家职责的开明观念 
+Christian, Jewish conception 基督教思想；犹太教思想 
+Saussure began developing his conception of linguistics in 1916. 索绪尔在1916年开始逐渐形成自己的语言学思想。
+The Internet challenges traditional conceptions of copyright. 互联网对传统的版权概念形成挑战。
+the moment of conception 受孕的一刻 
+Six weeks after conception your baby is the size of your little fingernail. 怀孕六个星期后，胎儿的大小相当于小拇指的指甲。
+Teenage conceptions have risen steadily in the last ten years. 过去十年中，少女怀孕的现象不断增多。
+conception probability, conception rate 受孕概率；受胎率 
+Sex identity is fixed at conception. 在受孕时婴儿的性别就确定了。
+
+If you say that the jury is out or that the jury is still out on a particular subject, you mean that people in general have still not made a decision or formed an opinion about that subject. 尚无定论
+makeshift 应急的
+A jury is a group of people who choose the winner of a competition. (竞赛的) 评委会
+In a court of law, the jury is the group of people who have been chosen from the general public to listen to the facts about a crime and to decide whether the person accused is guilty or not. 陪审团
+jury |英 ['dʒʊərɪ]  美 ['dʒʊri]| n. [法] 陪审团；评判委员会/adj. 应急的/n. (Jury)人名；(西)胡里；(英、法)朱里；(德)尤里/
+The jury is out on whether or not this is true.这是否属实尚无定论。
+jury-rigged
+I am not surprised that the jury chose to award this novel the prize.我并不惊讶于评委选择给这部小说颁奖。
+The jury convicted Mr. Hampson of all offences.该陪审团裁定汉普森先生的全部罪名成立。
+
+
+vi. [文学] ~ (against sb/sth) 私下抱怨某人或某事:
+vi. 连续发出类似喃喃细语的声音:
+n. [sing.]（也可用murmuring）从背景处接连传来的低沉声音:
+vt.&vi.（难以听到或理解的）低声细语、喃喃细语:
+n. 1 [C] 低语、喃喃细语:
+2 [C]（也可用murmurings）情感的安静表达，如嘟哝、咕哝:
+n. [C] [医学] 胸部的微弱杂音（通常是心脏病的迹象）:
+murmur |[ˈmɜ:mə(r);美ˈmɜ:rm-]
+The wind murmured in the trees. 风在树林中沙沙作响。
+the distant murmur of traffic 远处传来的车辆的嘈杂声 
+The piano music mixes with the murmur of conversation. 钢琴的弹奏声混杂着低低的交谈声。
+I could hear the murmur of the sea. 我能听到大海的呢喃声。      
+She murmured her agreement. 她低声表示同意。
+He murmured something in his sleep. 他在睡梦里嘟囔了些什么。
+She was murmuring in his ear. 她在他耳边悄声说话。
+He turned and murmured something to the professor. 他转身对教授小声说了些什么。
+She murmured a few words of support. 她小声说了几句支持的话。
+‘What a fool I've been,’ he murmured softly.“我以前可真傻。”他轻声嘀咕道。
+'Night, night,' she murmured sleepily. “晚——安——。”她睡意十足地低声说。
+‘Mmm,’ she murmured appreciatively. 她赞赏地嗯了一声。
+She heard him murmur something under his breath. 她听见他低声咕哝了几句。
+He held her tight and murmured to her. 他紧紧搂住她，在她耳旁低语。
+She answered in a faint murmur. 她低声应答。
+They spoke in low murmurs. 他们低声说着话。
+She gave a little murmur. 她低声咕哝了一句。
+Murmurs of ‘Praise God’ went around the circle. 周围的人群发出了“赞美主”的低语声。
+the murmur of voices 窃窃私语声 
+a murmur of agreement, a murmur of approval, a murmur of complaint 表示同意的低语声；表示赞同的低语声；表示抱怨的低语声 
+He paid the extra cost without a murmur (= without complaining at all). 他一声不吭地付了额外的花费。
+They did as they were told, without a murmur. 他们一声不吭地照要求做了。
+polite murmurings of gratitude 有礼貌地连连低声道谢 
+He took the mug of coffee with a murmur of thanks. 他接过那杯咖啡，轻声道了谢。
+The promise of some basic working rights draws murmurs of approval. 对一些基本工作权利的承诺引来一片低声的赞许。
+Already there are murmurs of discontent. 已有一些不满的怨言。
+a general murmur of assent 众人表示赞同的低语声 
+He gave a little murmur of relief. 他轻轻地舒了一口气。
+A murmur of excitement rippled through the audience. 观众一阵激动，发出窃窃私语声。
+A murmur of amusement ran around the room. 轻轻的笑声在屋子里传开了。
+The doctor said James had now developed a heart murmur. 医生说詹姆斯的心脏有杂音。
+
+n. [C]（在人或动植物中能引起疾病的）病毒:
+n. [C] 计算机病毒:
+n. [C] [非正式] 由病毒引起的疾病，即病毒性疾病:
+virus |['vaɪərəs]
+flu virus 流感病毒 
+virus infection 病毒感染 
+deadly virus 致命的病毒
+computer, email virus 计算机病毒；电子邮件病毒 
+virus protection, virus scanning 病毒防护；病毒扫描
+There was a virus going around the village. 那个村庄里流行着一种病毒性疾病。
+
+vi. [英，非正式] be gasping (for sth) 非常想要或需要某事物（尤指饮料或香烟）:
+vt.&vi. ~ (at sth)（尤指由于惊讶或疼痛而）张着嘴快速地深呼吸:
+vt.&vi. ~ (sth) (out) 呼吸困难或说话困难（如气喘吁吁地说）:
+n. [C]（常指由强烈情感引起的）快速的深呼吸:
+gasp |[gɑ:sp;美gæsp]
+She gasped at the wonderful view. 如此美景使她惊讶得屏住了呼吸。
+She gasped at his boldness. 他的放肆令她倒抽一口气。
+They gasped in astonishment at the news. 他们听到这消息惊讶得倒抽了一口气。
+Denis almost gasped aloud in astonishment. 丹尼斯惊讶得差点儿大叫起来。
+‘What was that noise? ’ he gasped. “那是什么声音？”他喘着气问。
+She gasped for air and drew in a lungful of water. 她喘了口气，吸入了一大口水。
+Her breath went and left her gasping for air. 她呼吸困难，大口喘着气。
+I heard myself gasp and cry out. 我听到自己一边喘一边喊。
+The cold made her gasp. 寒冷使得她倒抽了一口凉气。
+‘No!’ she managed to gasp. “不！”她喘着气好不容易喊了出来。
+She was gasping with pain. 她痛得直吸气。
+the last gasp of a dying system of censorship（比喻用法）行将就木的审查制度的最终时刻 
+He snatched a last gasp winner.（比喻用法）他在最后关头一举夺冠。
+He came to the surface of the water gasping for air. 他浮出水面急促地喘着气。
+She managed to gasp out her name. 她终于气喘吁吁地说出了她的名字。
+big, great gasp 大口喘气；喘粗气 
+little, short, small gasp 轻轻的喘气；短促的喘气；轻微的喘气 
+quick, sharp, sudden 急促的喘气；剧烈的喘气；突然的吸气 
+ragged gasp（尤美）急促的喘气 
+audible, loud gasp 听得见的喘息声；大声的喘息 
+shocked, startled, surprised gasp 惊愕的倒吸气 
+strangled gasp 喘不过气 
+involuntary gasp 不自主的呼吸 
+You could hear a collective gasp from the audience. 你可以听到观众一齐发出惊叹。
+The stunt brought shocked gasps from the audience. 特技表演引起了观众的惊呼。
+He was taking in great gasps of air. 他大口大口地吸气。
+‘Listen carefully,’ he said, between gasps of breath.“仔细听好了。”他喘着气说。
+He leant against the railing, his breath coming in short gasps. 他倚着栏杆，急促地喘着气。
+She gave a little gasp of delight. 她欣喜地喘了一口气。
+to give a gasp of horror, to give a gasp of surprise, to give a gasp of relief 惊恐得倒吸一口气；吃惊得倒吸一口气；如释重负地松一口气 
+An audible gasp went round the court as the jury announced the verdict. 陪审团宣布判决的时候，听到法庭上有人倒抽了一口气。
+She gave a small gasp of pain. 她疼得吸了一小口气。
+
+adj. 1（事故或疾病）导致死亡的，即致命的、致死的:
+2（行为）导致灾难或失败的，如灾难性的:
+fatal |[ˈfeɪtl]
+fatal accident, fatal blow, fatal illness 致命的事故；致命的一击；致命的疾病 
+a potentially fatal form of cancer 潜在致死型癌症 
+If she gets ill again it could prove fatal. 如果她再患病，就会有性命之忧。
+the fatal stabbing of a police sergeant 对警官致命的一刺 
+A hospital spokesman said she had suffered a fatal heart attack. 医院发言人说她死于心脏病发作。
+He has not driven since his nearly fatal accident earlier this year.（nearly fatal尤为美式用法；英式用near-fatal）自从今年较早时那次差点儿丧命的车祸之后，他就没有开过车。
+The disease is potentially fatal. 这种疾病可能会致命。
+This kind of accident is almost always fatal for the pilot. 飞行员遇到这类事故，几乎无一幸免于难。
+a chemical which is invariably fatal to small mammals 对小型哺乳动物无一例外会致命的一种化学品 
+fatal error, fatal mistake 灾难性的错误 
+Any delay would be fatal. 任何延误都可能导致失败。
+There was a fatal flaw in the plan. 计划中有一个致命的缺陷。
+It'd be fatal to try and stop them now. 现在要试图制止他们就会导致灾难性后果。
+It would clearly be fatal for Europe to quarrel seriously with America. 欧洲若与美国反目显然会有致命的后果。
+He made the fatal mistake of compromising early. 他犯了过早妥协的致命错误。
+a possibly fatal setback to his plans 可能导致他计划完全失败的因素 
+Her disregard of this advice was ultimately fatal. 她不听这个建议，结局是灾难性的。
+Tax increases have proved fatal to the nation's business community. 事实已证明，加税对该国的企业界造成了致命打击。
+
+n. [C, usually sing.] 高出海平面的高度，即海拔高度。是此义的常规用词:
+n. [C, usually pl., U] 海拔高的一个地方:
+altitude |['æltɪtju:d]
+We are flying at an altitude of 6 000 metres. 我们的飞行高度是6000米。
+high altitude 高海拔 
+The plane suddenly started to lose altitude. 飞机突然开始下降。
+high altitudes 高海拔地区 
+It’s harder to breaths at altitude. 在高海拔地区呼吸更加困难。
+altitude sickness 高山病 
+altitude training 高原训练
+
+You use not to be outdone to introduce an action which someone takes in response to a previous action. 不甘落后
+If you outdo someone, you are a lot more successful than they are at a particular activity. 超过
+outdo |英 [aʊt'duː]  美 [,aʊt'du]| vt. 超过；胜过/
+She wore a lovely tiara but the groom, not to be outdone, had on a very smart embroidered waistcoat.她戴着一个漂亮的冕状头饰，而新郎也不甘示弱，穿了一件很潇洒的刺绣马甲。
+It was important for me to outdo them, to feel better than they were.对我来说重要的是超过他们，感觉比他们更好。
+
+
+n. [C] 一位专业人士所给出的建议或意见:
+opinion (that ...) 对某人或某事物（而非对一个事实）的意见、想法、看法。是此义的常规用词:
+2 [U]（一个群体的）观点或信念、信仰:
+opinion |[ə'pɪnjən]
+They called in a psychologist to give an independent opinion. 他们征询一位心理学家的独立意见。
+I’d like a second opinion (= advice from another person) before I make a decision. 我在做决定之前，想听听别人的意见。
+to give opinions 提出意见 
+I’ve recently changed my opinion of her. 我最近改变了对她的看法。
+Everyone had an opinion on the subject. 大家对这个问题都有自己的看法。
+in my opinion 依我看 
+Opinion is divided on the issue. 大家在这件事情上存在分歧。
+There is a wide body of opinion that supports this proposal. 支持这项提议的大有人在。
+world opinion 国际舆论 
+expert, professional opinion 专家观点；专业观点 
+academic, legal, political opinion 学术界观点；法律界观点；政界观点 
+opinion poll 民意测验 
+opinion leader 舆论引导者
+
+vi.（建筑、地方等）破败，衰落，衰败:
+n. [U]（建筑物、地方等的）破败:
+n. [U]（社会、机构、制度等的）衰败，衰退，衰落:
+vi.（社会、制度、机构等）衰败，衰退，衰落（即人、社会等的影响力减弱）:
+vt.&vi.（使）通过自然过程而腐烂:
+n. [U] 因自然原因或未得到照料而腐烂:
+decay |[dɪˈkeɪ]
+decaying inner city areas 衰败中的旧城区
+The landlord had let the building fall into decay. 房东不管，房子已经破烂不堪。
+industrial decay（尤英）工业衰败 
+urban decay 城市衰落 
+economic decay 经济衰退 
+moral, social decay 道德败坏；社会衰落          
+Popular cinema seems to have decayed. 大众电影似乎已经衰落了。
+Congress has tried dozens of approaches to revitalize decaying urban and rural areas. 国会已试行过数十种方法来重振正在走向衰败的城乡地区。
+decaying standards of morality 日趋低下的道德标准          
+decaying leaves, decaying teeth, decaying food 烂叶；蛀齿；腐烂食物 
+The bodies buried in the fine ash slowly decayed. 埋在灰烬里的尸体慢慢地腐烂了。
+The ground was scattered with decaying leaves. 地上满是腐败的落叶。
+dental（尤英）, tooth decay 蛀牙 
+My dentist could not find any signs of decay. 牙医没发现我的牙齿有任何蛀牙的迹象。
+Smoking accelerates age-related decay in the heart and arteries. 吸烟加速心脏和动脉的老化。
+The wood is treated with preservative to prevent decay. 这块木头用防腐剂作过防腐处理。
+The smell of death and decay hung over the town. 城市上空弥漫着死亡和腐烂的气息。
+physical decay 身体衰弱
+
+vt. 对公司的账目进行审计:
+n. [C, U] 工商业的审计（如财务审计、税务审计）:
+n. [C, U] 对质量或标准的官方检查或审查:
+vt. [美] 旁听大学课程:
+audit |[ˈɔ:dɪt]
+Each year they audit our accounts and certify them as being true and fair. 他们每年对我们进行账务审核，以确保其真实无误。
+an annual audit 年度审计 
+a tax audit 税项审计 
+audit committee 审计委员会 
+audit firm 审计公司 
+audit report 审计报告
+
+adj. [名词前不可用] 乐于提供关于某事的信息的:
+adj. [只用于名词前] 即将发生的、即将出版等的:
+adj. [名词前不可用]（被需要的时候）随时可用的、随时准备好的，相当于available:
+forthcoming |[ˌfɔ:θˈkʌmɪŋ;美ˌfɔ:rθ-]
+She's never very forthcoming about her plans. 她一直不很愿意说出自己的计划。
+She wasn't very forthcoming about where she'd been. 她不太愿意讲她去了哪里。
+the forthcoming elections 即将举行的选举 
+the band's forthcoming UK tour 乐队即将在英国的巡回演出 
+a list of forthcoming books 近期将出版书籍的目录
+Financial support was not forthcoming. 财政支援尚未到手。
+Help was immediately forthcoming. 援助稍后即到。
+They promised that the money would be forthcoming. 他们承诺钱会到位。
+We must first see some real evidence. So far it has not been forthcoming. 我们必须先看到一些实证，而到目前为止并没有看到。
+
+n. [C]（不同作家的作品的）选集:
+anthology |[ænˈθɒlədʒi;美-ˈθɑ:l-]
+an anthology of poetry 诗歌选集 
+literary anthology 文学选集 
+horror, poetry, short-story anthology 恐怖作品选集；诗集；短篇小说选集 
+We have put together an anthology of children's poetry. 我们已经汇编了一本儿童诗选集。
+The essay first appeared in an anthology of feminist criticism. 这篇文章最早出现在一本女权主义批评选集上。
+
+n. [U]（纺出来的，用于编织、制作布料等的）纱线:
+n. [C] [非正式]（尤指夸张的或编造的、经过添油加醋的）长故事:
+yarn |[jɑ:n;美jɑ:rn]
+She still spins the yarn and knits sweaters for her family. 她仍然纺纱为家人织毛线衫。
+vegetable-dyed yarns 用植物染料染过色的纱线 
+cotton, synthetic, wool yarn 棉纱；人造纱；羊毛纱 
+The yarn is woven into a coarse fabric. 纱线被织成了粗布。
+The yarn has to be threaded through the needle. 得把纱线穿进针去。
+There's a knot in the yarn. 纱线上有个结。
+He went on to spin an entertaining yarn about his army days. 他接着给我们杜撰了一个关于他当兵时的有趣故事。
+Galton's life makes a rattling good yarn. 高尔顿的人生就是一个扣人心弦的绝妙故事。
+adventure, seafaring yarn 冒险故事；航海故事 
+He tried to spin us some yarn about how he was collecting for the church. It was all lies. 他试图给我们编一个他如何为教会募捐的故事。那全都是谎言。
+
+A plaintive sound or voice sounds sad. (声音或嗓音) 哀伤的
+plaintive |英 ['pleɪntɪv]  美 ['plentɪv]| adj. 哀伤的；悲哀的/
+They lay on the firm sands, listening to the plaintive cry of the seagulls.他们躺在坚实的沙滩上，听着海鸥的哀鸣。
+

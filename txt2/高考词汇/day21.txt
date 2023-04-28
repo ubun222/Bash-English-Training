@@ -1,0 +1,626 @@
+function				功能，职责，用途
+bird				鸟，姑娘，家伙
+birds of a feather flock together				物以类聚
+classify				将...分类
+explicit				详述的，明确的
+lightning				闪电
+step				迈步，脚印，梯级，步骤
+steps				楼梯
+stepping				迈步
+jog				轻推，刺激，慢跑
+jogging				轻推，刺激，慢跑
+already				已经
+night				夜晚
+drawer				抽屉，制图员
+wooden				木质的，笨拙的
+accessible				容易到达的，易获得的
+passive				被动的，冷漠的
+passive obedience				消极的服从
+wonder				惊奇，奇迹，思忖，想知道
+ought				应该，应当
+transform				改变
+defend				保卫，防守
+kilometre				千米
+talk				谈话，招供，说
+talks				商谈
+girl				女孩子，女儿，女员工
+ambassador				大使
+grass				草，草地，告密
+billion				十亿
+billions				大量
+summary				总结，即决的，概要的
+in summary				总的来说
+Moslem				穆斯林
+wire				金属丝，电线，用金属丝固定
+wire in				给...接通电源
+morning				上午，早晨
+depend				依靠，确信，取决
+depend on it				没问题
+fold				褶，山丘，折叠，包，抱，交叉
+fold in				拌入
+-fold				...倍的，有...部分的
+precise				清晰的，精确的，恰好的
+to be precise				确切的说
+\\\\\\\\
+
+n. [C, U] 职能:
+n. [C, U] 作用，功能，机能，职能。是“功能”的常规用词:
+vi.（作为某物而）起作用:
+vi.（系统等）运转。与operate存在较大的交集，不过function更强调“发挥作用”:
+n. [C] 大型正式的社交宴会。不常用:
+n. [C] 大型正式的社交聚会。不常用:
+n. [C] 在计算机的一个程序中，可指该程序下执行一项基本操作的一个子程序，即子例行程序，子例程:
+n. [C] 函数:
+vi.（机器）运转。是一个相对正式的用法:
+n. [C, U] 身体功能，机能。是此义的一个基础用词，较为常用:
+vi.（身体）运转:
+function |['fʌŋkʃn]
+All members carry out their own particular functions. 所有成员都有各自的职责要履行。
+form and function 形式和功能 
+The committee has a dual function, both advisory and regulatory. 这个委员会具有咨询和监管双重职能。
+All members carry out their own particular functions. 所有成员都有各自的职责要履行。
+The club serves a useful function as a meeting place. 这个俱乐部是一个会面的好地方。
+This room will function as a office. 这间屋子将作为一间办公室。 
+a system in which judges function independently of politics 一套使法官行使其职权时完全不受政治影响的体制 
+The organization functions primarily through volunteer efforts. 这个组织主要通过志愿者发挥作用。
+This model does not describe accurately the way a market economy actually functions. 这一模型没有准确地说明市场经济实际是怎样运行的。
+The city is still functioning. 这座城市仍在运转。
+a private function hosted by him 由他做东的一场私人宴会 
+functions such as weddings 如婚宴等的社交宴会
+charity, official, social function 慈善活动；官方活动；社交活动 
+the hotel’s function room 酒店的多功能厅
+Salary is a function of age and experience.（比喻用法）工资水平取决于年龄和经验。
+a functioning computer 一台功能正常的电脑 
+All the instruments were functioning normally. 所有仪器都在正常工作。
+brain, liver, mental function 脑功能；肝功能；心智功能 
+I can’t function properly without a coffee. 不喝咖啡我无法正常工作。
+Problems arise when the body’s immune system is not functioning adequately. 免疫系统不能充分发挥作用时，身体就会出现问题。
+My brain could barely function through the pain. 我疼得大脑几乎无法思考了。
+
+n. [C] 鸟，禽:
+n. [C] [非正式] 某类人，尤指古怪或不寻常的人:
+bird |[bə:d]
+wild bird 野鸟 
+caged bird 笼中鸟 
+predatory bird 猛禽 
+migratory bird 候鸟 
+forest, woodland, marine bird 林鸟；海鸟 
+bird’s nest 鸟巢 
+bird conservation 鸟类保护 
+bird flu 禽流感
+a rare bird 罕见的一种人 
+a wise old bird 处世老练的人
+
+vt. 1 在一些事物中，把具有某些共同特征的事物划分到一个组里去（以此来将所有这些事物分类或归类）。是一个基础用词:
+2 classify sb/sth as sth 确定某人或某事物该属于哪个组别，如划定、界定:
+classify |['klæsɪfaɪ]
+The books in the library are classified according to subject. 图书馆的书按学科分类。
+Patients are classified into three categories. 病人被归为三种类型。
+Only five of these accidents were classified as major. 这些事故中只有五起被判定为重大事故。
+
+adj. 1（人）说话清晰、准确且开放的，相当于frank:
+2 以一种开放或直接的方式被表达出来的（以致于使人对正在发生的此行为没有怀疑），即不隐晦的；直截了当的:
+adj.（一则陈述或一篇文章）清楚易懂的，清晰且易于理解的。强调信息本身表达得清楚的，类似于clear:
+adj. 以一种开放或直接的方式被做或被展现的（以致于使人对正在发生的此行为没有怀疑），即不隐晦的；直截了当的:
+explicit |[ɪk'splɪsɪt][ɪk'splɪsɪt]
+She was quite explicit about why she had left. 她对自己离开的原因直言不讳。
+The reasons for the decision should be made explicit. 应该直截了当给出决定的理由。
+She made some very explicit references to my personal life. 她毫不隐讳地谈到了我的私生活。
+a highly explicit description of torture 对酷刑的赤裸裸的描述 
+He gave me very explicit directions on how to get there. 他清楚地向我说明了去那儿的路线。
+She told him he needed to improve, without being explicit as to how. 她说他需要改进，却没有明确指出如何去做。
+The information should be made explicit. 信息应该表达清楚。
+a sexually explicit film 一部有露骨性爱场面的影片
+
+adj. 只作前置定语，闪电般迅速或突然的:
+n. [U] 闪电:
+lightning |['laɪtnɪŋ]
+lightning reflexes 飞快的反应
+A flash of lightning lit up the night air. 一道闪电照亮了夜空。
+sheet lightning 片状闪电 
+forked lightning 叉状闪电 
+He was struck by lightning. 他被闪电击中了。
+Lightning hit the tree. 闪电击中了那棵树。
+lightning conductor（英）, lightning rod（美）避雷针 
+lightning strike（美）雷击 
+thunder and lightning 雷电交加
+
+n. [C] 阶段，相当于stage:
+n. 1 [C] 迈步，可以是迈步行走，也可以是把一只脚朝某个方向移动；还可指脚步声:
+2 [C, usually sing.] 某人走路的方式，即步态、步伐:
+vi. 抬起脚步朝某个方向移动，或把脚迈到…上或迈进…里；移动一小段距离:
+n. [pl.] steps [英] 可表示一个四脚折梯，即有四个脚，打开之后形成一个斜坡，故本身可以站立在地面的梯子，不用的时候可折叠起来:
+n. [C] 为达成某事所做的一系列事情中的一个，即步骤，措施:
+n. [C] 一步的距离:
+n. [pl.] steps [英] 可表示一个四脚折梯，即有四个脚，打开之后形成一个斜坡，故本身可以站立在地面的梯子，不用的时候可折叠起来:
+n. [C] 为达成某事所做的一系列事情中的一个，即步骤，措施:
+n. [U] 常构成复合词，健身运动中的踏板操:
+n. [C] [美] 音乐中的音级、度:
+n. [C, usually sing.] 舞蹈中的舞步:
+n. 1 [C] 一个台阶，尤指在同一梯级上若干节台阶中的一个（与专指室内台阶的stair相比，step既可指室内台阶，也可指室外的露天台阶）。step是台阶的常规用词:
+2 [pl.] steps 可指一组台阶或梯级:
+step |[step][step]
+the next step 下一阶段 
+to move on to step 3 进行第3阶段 
+step by step 一步一步地
+to take a step 迈一步 
+I heard steps outside. 我听见外面有脚步声。
+heavy, light step 沉重的脚步；轻轻的脚步 
+careful step 谨慎的脚步 
+shaky, unsteady step 摇摇晃晃的脚步；踉跄的脚步 
+She quickened her step. 她加快了步伐。
+He took a hesitant step towards/toward her. 他犹豫着向她走近了一步。
+to step forward 向前迈步 
+to step aside 闪到一边 
+to step on the moon 登上月球 
+to step on sb’s foot 踩到某人的脚 
+to step onto a bus 上公交车
+a pair of steps 一架折梯
+What’s the next step? 下一步做什么？
+We shall take all necessary steps to prevent public disorder. 我们将采取一切必要的措施防止公共秩序出现混乱。
+careful, precautionary step 谨慎措施；预防措施 
+One false step could mean disaster. 一步走错就可能酿成灾难。
+If you follow all the steps, nothing will go wrong. 如果你遵循所有的步骤，就不会出什么差错。
+The move was a first step in establishing a union. 这一行动是建立联盟的第一步。
+The bank is only a short step from the hospital. 银行离医院只有几步路的距离。
+She was only a step away from the cliff edge. 她离悬崖边只有一步之遥。
+It’s only a few steps further. 再走几步就到了。
+He’d only gone a few steps when he realized he’s left his keys behind. 他刚走了几步，就意识到自己把钥匙落下了。
+The talks mark a step toward peace.（比喻用法）会谈标志着向和平迈出了一步。
+a pair of steps 一架折梯
+What’s the next step? 下一步做什么？
+We shall take all necessary steps to prevent public disorder. 我们将采取一切必要的措施防止公共秩序出现混乱。
+careful, precautionary step 谨慎措施；预防措施 
+One false step could mean disaster. 一步走错就可能酿成灾难。
+If you follow all the steps, nothing will go wrong. 如果你遵循所有的步骤，就不会出什么差错。
+The move was a first step in establishing a union. 这一行动是建立联盟的第一步。
+I don’t know the steps. 我不懂舞步。
+dance step 舞步 
+tango step 探戈舞步 
+She had trouble keeping in step with the others. 她跟不上其他人的舞步。
+a flight of steps 一段台阶 
+to walk down some steps 走下几级台阶 
+door step（通常用doorstep）门阶 
+Mind the step!（尤英）小心台阶！
+front steps 前楼梯 
+back steps 后楼梯 
+concrete, marble, wooden steps 混凝土楼梯；大理石楼梯；木制楼梯
+
+
+steps | 脚步,步骤,台阶
+
+
+stepping | 踏步,踩踏
+
+vt. 轻击、轻撞、轻推等（常是偶然地），相当于nudge:
+n. [sing.] 轻击、轻撞、轻推等（常是偶然的），相当于nudge:
+vi. 慢跑（尤指为锻炼身体）:
+n. [C] 慢跑（尤指为锻炼）:
+jog |[dӡɒɡ]
+to jog her elbow 轻轻碰一下她的胳膊肘儿 
+Avoid jogging the machine. 不要碰那台机器。
+He goes jogging every morning. 他每天早上都慢跑锻炼。
+to jog in place（美）
+She was jogging on the spot to keep warm.（尤英）她原地慢跑以取暖。
+slow jog 慢跑 
+morning jog 清晨的慢跑锻炼 
+He goes for a brisk jog each morning. 他每天早晨都进行轻快的慢跑锻炼。
+
+the activity of running at a steady, gentle pace as a form of physical exercise:以稳定、温和的步伐跑步作为体育锻炼的一种活动
+denoting a garment designed to be worn while jogging:表示专为慢跑而设计的服装
+jogging |ˈdʒɒɡɪŋ| Noun/:,慢跑,跑步的
+some gentle jogging for a few weeks before the event should prevent any aching or stiffness:在活动开始前几周进行一些温和的慢跑应该可以防止任何疼痛或僵硬
+jogging bottoms:慢跑裤
+
+adv. 1 在现在（或过去某一时间）以前，即已经:
+2 对发生得如此之快（或如此之早）的事情表示惊奇，即已经，都:
+3 用于强调一种情况（或一个问题）的存在，即已经:
+already |[ɔ:l'redɪ]
+He has already left. 他已经离开了。
+Is it 10 o’clock already? 都10点钟了？
+I’m already late. 我已经迟到了。
+There are far too many people already. We can’t take any more. 已经有太多的人了。我们再也接待不了啦。
+
+n. 1 [U, C] 夜晚；夜间（人们通常在此期间熟睡）:
+2 [U, C] 傍晚（下午晚些时候到上床睡觉之前的一段时间）；夜晚就寝前的一段时间:
+n. [U, C] 某一特殊事件（或活动）发生（或举行）的夜晚，即…之夜:
+night |[naɪt]
+These animals only come out at night. 这些动物只在夜晚出来。
+I lay awake all night. 我一夜没睡着。
+night duty, night shift 夜班 
+day and night 日日夜夜 
+good night 晚安 
+Tom came for dinner last night. 汤姆昨晚来吃晚饭了。
+Finally night fell. 夜幕终于降临了。
+opening night 首演之夜 
+the last night of the play’s run 这部戏演出的最后一夜 
+a drunken night of partying 酩酊大醉的聚会之夜 
+dance, election night 舞会之夜；选举之夜 
+Halloween night 万圣节之夜 
+a night out 外出玩乐的夜晚
+
+n. [C] 抽屉:
+n. [C] [正式] 开支票的一个人:
+drawer |['drɔ:ə]
+bottom drawer 下层抽屉 
+kitchen drawer 厨房抽屉 
+desk drawer 书桌抽屉 
+cash drawer 现金抽屉 
+underwear drawer 放内衣的抽屉 
+deep drawer 深底抽
+
+made of wood:木头
+like or characteristic of wood:木材的相似或特征
+stiff and awkward in movement or manner:动作或举止僵硬而笨拙
+wooden |ˈwʊdn| Adjective/:木制的,木,木制,木质的
+a wooden toy:一个木制玩具
+a kind of dull wooden sound:一种沉闷的木声
+she is one of the most wooden actresses of all time:she是有史以来最木讷的女演员之一
+
+adj. accessible (to sb) 易于理解的，易懂的。强调信息让人容易理解（其原因可以是信息本身表达得清楚，也可以是其它原因）:
+adj. accessible (to sb)（人）易相处的，易打交道的，易接近的:
+adj. accessible (to sb) 可被到达、进入、使用、看到等的:
+accessible |[ək'sesəbl]
+books that are accessible to a general audience 对于普通读者来说浅显易懂的书籍 
+to make science more accessible to young people 使科学更容易为年轻人所了解
+He is accessible. 他平易近人。
+The remote desert area is accessible only by helicopter. 只有乘直升机才能进入那遥远的荒漠地区。
+All the buildings are accessible for people in wheelchairs. 坐轮椅的人进入所有的大楼不成问题。
+The beach should be accessible to everyone. 海滩应向所有人开放。
+These documents are not accessible to the public. 公众无法看到这些文件。
+to make the system accessible to more people 让该系统服务于更多人
+
+adj. 接受所发生的事（或人们所做的事），而非尝试去改变或反对任何事的。即消极的，被动的:
+adj. 被动语态的:
+n. [sing.] 也可用passive voice，被动语态:
+passive |['pæsɪv]
+He played a passive role in the relationship. 他在他们的关系中处于被动地位。
+TV is a completely passive activity. 看电视完全是一种被动的活动。
+a passive role in the drama 剧中的一个消极的角色
+
+vt.＆vi. wonder (at sth) 对某事感到非常惊讶。可以是对好事、坏事、或不好不坏的事感到惊讶或奇怪。程度通常较深:
+n. 1 [U] 看到或体验到漂亮、不寻常或意想不到的事物或事件时所具有的一种惊讶和羡慕之情，即惊讶、惊叹，相当于awe。常是对美好事物的感叹:
+2 [C] 让你感到满怀惊奇和羡慕的事物或人，可称为奇迹，奇观，奇妙之处等，相当于marvel:
+3 [sing.] [非正式] 在做某事方面比较巧妙的一个人，可称为奇人，能人；看起来非常好或非常有效的一个东西:
+vt.＆vi. wonder (about sth) 想知道（真相、将发生的事、自己该怎样做等），也可称为琢磨:
+vt. 用于礼貌地提问（或请人去做某事）:
+wonder |['wʌndə]
+She wondered at her own stupidity. 她没想到自己竟会这样愚蠢。
+I don’t wonder you’re tired. You’ve had a busy day. 你累了，这我一点儿也不奇怪。你已经忙了一整天。
+He retained a childlike sense of wonder. 他仍然有一种孩子般的好奇感。
+She gazed down in wonder at the city spread below her. 她俯视展现在眼前的城市，惊叹不已。
+She held her breath with wonder and delight. 她惊喜得屏住了呼吸。
+The Grand Canyon is one of the natural wonders of the world. 科罗拉多大峡谷是世界自然奇观之一。
+the wonder of poetry 诗歌的奇妙之处 
+architectural wonder 建筑奇观 
+the wonders of technology 技术奇迹 
+The change of diet has done wonders for my skin. 改变饮食结构对我的皮肤产生了奇效。
+No wonder you’re still single--you never go out! 难怪你还单身——你太宅了！
+Geoff, you’re a wonder! I would never have thought of doing that. 杰夫，你真神了！我从来没想到该那样做。
+a new wonder drug 一种新的特效药
+I wonder who she is. 我在想她到底是谁。
+‘Why do you ask?’ ‘I just wondered.’ “你为什么要问？”“我只不过是好奇。”
+I can’t help wondering if he lost on purpose. 我忍不住想他是不是有意输的。
+I wondered uneasily if anything had happened to the children. 我忐忑不安地揣测孩子们是不是出了什么事。
+I wonder if you can help me. 不知您是否能帮我？
+I was wondering whether you’d like to come to a party. 不知您能否来参加聚会。
+
+modal verb. 1 ought to 用于说明做某事是对的，如应该、应当:
+2 ought to 用于表明你所期望发生的事，如应该:
+3 ought to 用于提出你的忠告、建议或推荐，如应该:
+modal verb. 1 ought to 用于表明可能发生的事，如应该:
+2 ought to 用于表明可能已发生的事（或可能属实的事），如应该:
+ought |[ɔ:t]
+Mark, you’ve got a good wife. You ought to take care of her. 马克，你娶了个好妻子，应该好好待她。
+Nurses ought to earn more. 护士的薪资应该多一点。
+You don’t have to be alone with him and I don’t think you ought to be. 你不必单独跟他呆在一起，而且我认为你也不该这样。
+You ought to ask a lawyer’s advice. 你应当征求一下律师的意见。
+Children ought to be able to read by the age of 7. 儿童7岁时应该识字了。
+If he started out at nine, he ought to be here by now. 他如果九点出发，现在应该到这里了。
+That ought to be enough food for the four of us. 这些食物应该够咱们四个人吃了。
+Oughtn’t the water to have boiled by now? 水现在该开了吧？
+
+vt. transform sth/sb (from sth) (into sth) 1 改变某事物的形态，相当于convert:
+2（某事物的外观或性质、特征）完全改变，尤指使其变得更好:
+transform |[træns'fɔ:m]
+The photochemical reactions transform the light into electrical impulses. 光化学反应使光变为电脉冲。
+A new colour scheme will transform your bedroom. 新的色彩调配将使你的卧室焕然一新。
+It was an event that would transform my life. 那是能够彻底改变我一生的一件事。
+The riots radically transformed the situation. 暴乱彻底改变了局势。
+He seems to have been miraculously transformed into a first-class player. 他似乎奇迹般地变成了一名一流球员。
+The place was transformed from a quiet town into a busy port. 这个地方由一个安静的小镇变为繁忙的港口。
+the power of religion to transform our hearts and minds 能够改变心灵和思想的宗教力量
+
+vt.＆vi. defend (sb/yourself/sth) (from/against sb/sth) 防御或保卫…，以使其免遭攻击:
+vt. 参加比赛或竞争等以保住头衔、席位等:
+vt. defend sb/yourself/sth (from/against sb/sth) 为受到的批评辩解，辨白:
+vt.＆vi. 在体育运动中防守，与attack反义:
+vt. 参加比赛或竞争等以保住头衔、席位等:
+vt.＆vi. defend (sb/yourself/sth) (from/against sb/sth) 防御或保卫领地，以使其免遭攻击:
+vt.＆vi. 在法律上为…辩护，当辩护律师:
+defend |[dɪ'fend]
+to defend against knife attacks 抵御持刀袭击 
+Troops have been sent to defend the borders. 已派出部队去守卫边疆。
+They attacked the left flank, which has only lightly defended. 他们攻击了防御薄弱的左翼。
+Computer users need to ensure their systems are properly defended. 电脑用户需要确保他们的系统做了适当的防护。
+The champion successfully defended his title against the challenger. 这位冠军打败了挑战者，成功卫冕。
+He intends to defend his seat in the next election. 他想在下届选举中寻求连任。
+The company has vigorously defended its decision to reduce the workforce. 该公司竭力为其裁员的决定辩护。
+She defended her department against accusations of incompetence. 她驳斥了认为她所在部门失职的指责。
+How can you defend such behaviour? 你怎能为这种行为辩解呢？
+He is defending champion. 他在参加卫冕赛。
+to defend his title 捍卫他的冠军头衔
+Troops have been sent to defend the borders. 已派出部队去守卫边疆。
+The city was heavily defended against attack. 这座城市严密设防以抵御攻击。
+They attacked the left flank, which has only lightly defended. 他们攻击了防御薄弱的左翼。
+He has employed a top lawyer to defend him. 他请了一位顶尖律师为他辩护。
+
+n. [C] 千米，公里（距离单位，等于1000米）:
+kilometre |['kɪləmi:tə]（美kilometer）
+only one kilometre from the border 距离边境只有一公里
+
+n. 1 [C]（针对某一主题的）专题报告或演讲:
+2 [C] 非正式的讲话或演讲:
+vi. 向某人（如警察或士兵）提供信息（尤指不情愿地），可指供认；招认:
+vt. 说，讲（有理、无理的话）:
+talk of/on sth 与某人说话；讲话；谈话（为传达信息或表达感情、想法等）。与speak类似，也是从某一方（而非所有谈话者）的角度对这种行为进行的描述（不过speak此时仅为不及物动词）:
+2 talk (to/with sb) (about sth)  讨论，谈论，商谈，洽谈（通常指严肃或重大的事）:
+vt. [非正式] be talking sth 用以强调金钱的数额、情况的严重程度等:
+n. [C] talk (with sb) (about sth) 交谈；谈话；讨论；商讨:
+n. [pl.] talks (between A and B) (on/over sth)（政府或组织之间、或雇主和雇员之间正式的）洽谈，会谈，谈判。也可用单数:
+vi. 谈论某人的私生活，即嚼舌头，相当于gossip:
+n. [U] 对别人私生活的谈论，议论:
+n. [U] [非正式]（没有事实或实际行动支持的）空话；空谈:
+talk (that …) 传言；谣言；流言飞语；（对未来可能发生的事件的）揣测。是一个简单用词:
+n. [U] 常构成复合词，指交谈的话题；或说话方式:
+vt.＆vi.（用某种语言）讲，说；或带某种口音:
+talk |[tɔ:k]
+motivational, pep, team（尤英）talk 激励性讲话；动员讲话；对团队的讲话 
+radio, television, TV talk 电台讲话；电视讲话 
+illustrated talk（英）配图解的讲话 
+She gave a talk on her visit to China. 她做了一次访华报告。
+A guide gives a brief talk on the history of the site. 一位导游就这个遗址的历史做了一次简要的讲述。
+to exchange small talk, to make small talk 寒暄；聊家常 
+talk show（尤美）谈话节目；脱口秀
+The police questioned him but he refused to talk. 警察审问他，但他拒不招供。
+She talks a lot of sense. 她讲得很在理。
+You’re talking rubbish!（英）你胡说八道！ 
+vt.＆vi. 1 talk (to/with sb) (about sb/sth) 
+Stop talking and listen! 别说话了，注意听！
+We talked on the phone for over an hour. 我们在电话里谈了一个多小时。
+Who were you talking to just now? 你刚才在跟谁说话？
+We looked around the school and talked with the principal. 我们参观了那所学校，并跟校长进行了交谈。
+Ann and Joe aren’t talking to each other right now. 安和乔两人现在互不理睬。
+When they get together, all they talk about is football. 他们在一起时，谈论的都是足球。
+The two sides in the dispute say they are ready to talk. 争执双方说他们愿意商谈。
+Talk to your doctor if you’re still worried. 如果你仍然不放心，就找医生谈一谈。
+to talk business 谈正事 
+We’re talking £500 for three hours’ work. 咱们讲的可是工作三个小时酬金500英镑。
+I had a long talk with my boss about my career prospects. 我和老板就我的职业前景进行了一次长谈。
+I think it’s time we had a talk. 我认为我们该谈谈了。
+a heart-to-heart talk 推心置腹的谈话 
+There was excited talk of emigrating to America. 有人激动地谈论移民美国的事。
+high-level talk 高层会谈 
+formal, official talk 正式会谈；官方会谈 
+private, secret talk 私人商谈；秘密商谈 
+bilateral talk 双边会谈 
+political talk 政治谈判 
+peace talk 和平谈判 
+merger, trade talk 兼并谈判；贸易谈判 
+Talks between management and workers broke down over the issue of pay. 劳资双方就工资的谈判破裂了。
+Don’t phone me at work--people will talk. 别在上班时间给我打电话，人家会说闲话的。
+Everyone is talking about him. 大家都在议论他。
+There has been a lot of talk about me getting married. 有很多关于我结婚的议论。
+All this talk of the boss resigning is nonsense! 所有关于头儿辞职的话都是瞎说的！
+Don’t pay any attention to her--she’s all talk. 别听她的，她只会动嘴皮子。
+The chairman’s boasts about future profits were just cheap talk. 董事长吹嘘将来的利润，那只是说说而已。
+For all their talk of equality, the boys ended up not doing any cooking. 男孩们张口闭口平等，但是他们最终还是没做饭。
+There was talk in Washington of sending in troops. 华盛顿有派兵的谣传。
+as newspaper talk 报纸上的谣言
+business talk 业务洽谈 
+Spanish street talk 西班牙俚语 
+tough talk 狠话 
+war talk 战争言论 
+talk of the north-south divide 关于南北差距的言论 
+straight talk 直话直说 
+double talk 模棱两可的话 
+dirty talk 脏话 
+sweet talk 甜言蜜语 
+girl talk 女孩之间的话题 
+pillow talk 枕边话语 
+shop talk 有关公事的谈话 
+baby talk 儿语
+The baby is just starting to talk. 这婴儿刚开始咿呀学语。
+to talk (in) Chinese 说汉语
+
+
+talks | ,谈判,谈话
+
+n. [C] 女儿:
+n. [C] 女孩:
+n. [C] [旧时] 男子的女朋友:
+n. [sing.] [常贬] old girl 老妇人（尤指某人的妻子或母亲，此时可称为老婆或老母亲）:
+n. 1 [C] 有时具有冒犯性，指年轻女子，女郎:
+2 [pl.] girls 可指女子对其女性朋友的称呼:
+n. [C] [旧时，冒犯] 通常构成复合词，女工，女职员:
+girl |[ɡə:l]
+Our youngest girl is at college. 我们的小女儿在上大学。
+baby girl 女婴 
+teenage girl 少女
+How is the old girl these days? 老母亲近来好吗？
+Alex is not interested in girls yet. 亚历克斯对女孩子还不感兴趣。
+He married the girl next door. 他与隔壁的一个年轻女子结了婚。
+I’m having a night out with the girls. 我今晚要和女友们外出。
+Good morning, girls! 姑娘们，早上好！
+an office girl 女办事员
+
+n. [C] 比喻用法中可指某事物的最佳代表:
+n. [C] 一国驻另一国的大使:
+ambassador |[æm'bæsədə][æm'bæsədə]
+He’s a great ambassador for the sport of bodybuilding. 他是杰出的健美运动形象大使。
+the British Ambassador in Rome 英国驻罗马大使 
+unofficial ambassador 非官方大使 
+special ambassador 特使 
+goodwill ambassador 亲善大使 
+to send an ambassador to Paris 派遣一名使臣去巴黎
+
+n. 1 [U] 青草、牧草:
+2 [C] 任何一种草，即禾本科植物:
+n. [sing., U] 被草所覆盖的一片地方，即草地、草坪、草场:
+grass |[ɡrɑːs][ɡrɑːs]
+green grass 青草 
+dry grass 干草 
+wild grass 野草 
+a blade of grass 一片草叶 
+grass seed 草籽 
+to play on the grass 在草地上玩耍 
+You’re not allowed to walk on the grass. 请勿踩踏草坪。
+The dog came running through the long grass. 狗穿过高高的草丛跑了过来。
+
+the number equivalent to the product of a thousand and a million; 1,000,000,000 or 10⁹:相当于一千零一百万乘积的数字；1,000,000,000或10⁹
+a very large number or amount of something:一个非常大的数量或数量的东西
+a billion pounds or dollars:十亿英镑或美元
+a million million (1,000,000,000,000 or 10¹²).:百万（1,000,000,000,000或10¹²）。
+billion |ˈbɪljən| Numeral/:十亿,亿
+a world population of nearly 5 billion:全球近50亿人口
+our immune systems are killing billions of germs right now:我们的免疫系统正在杀死数十亿的细菌
+the problem persists despite the billions spent on it:尽管花费了数十亿美元，但问题仍然存在
+
+
+billions | 数十亿,亿万
+
+adj. [有时含贬义] 执行迅速（而不遵从本应遵从的正常过程）的，即从速从简的；草草的:
+n. [C] 对…的要点（而非细节）所做的简短阐述，即总结，概括，概要。在方式上强调简洁，在内容上强调结论，常是一种简洁的结论。表“摘要”时，也是一种总结性摘要，既可放在一篇论文的开头（即标题之下，正文之前），也可放在正文之后。词义范围较广，可以说本组其它表示“摘要”的词，都是一种summary:
+adj. [正式] 总结性的；概括的；概要的:
+summary |['sʌmərɪ]
+summary justice, summary judgement, summary execution 草草判决；草草处决
+The following is a summary of our conclusions. 现将我们的几点结论综述如下。
+financial, statistical summary 财务总结；统计概要 
+news, plot summary 新闻摘要；情节概要 
+her summary of the day’s events 她当天的事务总结 
+in summary 总而言之 
+summary report, summary statement 总结性报告；总结性陈词 
+a summary financial statement 财务报表汇总
+
+n. [C] 伊斯兰教信徒，即穆斯林（Moslem有时被视为一种过时写法。故用Muslim）:
+adj. 与伊斯兰教或穆斯林有关的，即伊斯兰教的；穆斯林的:
+Moslem |['mɒzləm]（=Muslim）
+Muslim countries 穆斯林国家
+
+wire sb/sth to sth 将（某人或某事物）连接到一件设备上（尤指连接到磁带录音机、计算机系统等设备上）:
+2 用金属丝把…连在一起:
+n. [C, U] 用于传输电流或信号的导线。是此义的常规用词:
+vt. wire sth (up) 用导线给（建筑物、设备等）接通电源:
+vt. wire sth (for sth) 给…安装窃听器（以窃听其他人之间的谈话），相当于bug:
+n. [C] [非正式；尤美] 电报，相当于telegram:
+wire sb (sth) 给某人发电报:
+n. [U, C] 细线形式的金属，即金属丝；金属线；一段金属丝（或线）:
+wire sb sth 在银行之间利用电子系统给某人汇款，即电汇:
+n. [sing.] the wire 可指金属丝编制的栅栏，如铁丝网:
+wire |['waɪə]
+vt. 1 wire sb/sth up (to sth) 
+He was wired up to a police tape recorder. 他被连接到了警方的录音机上。
+She was wired up to a heart monitor. 她身上连着一个心脏监护仪。
+electric, electrical, electricity（英）wire 电线 
+earth（英）, ground（美）, live, neutral wire 地线；火线；零线 
+Don’t touch that wire. It’s live. 别碰那根电线，它通着电呢。
+telephone wire 电话线 
+fuse wire 保险丝 
+Many homes were wired for lighting only. 许多住户接通电线只是用来照明。
+The room had been wired for sound. 这个房间已经装上了窃听器。
+to send a wire 发电报 
+He wired the news to us. 他用电报把这个消息通知了我们。
+a coil of copper wire 一卷铜丝 
+a rusty wire 生锈的铁丝 
+a piano wire 钢琴弦 
+wire brush, wire cage, wire fence 钢丝刷子；铁丝笼子；铁丝栅栏
+vt. wire sth (to sb) 
+The bank wired the money to her. 银行将钱电汇给了她。
+They cut the perimeter wire and escaped. 他们剪断了环绕四周的铁丝网逃跑了。
+Behind the wire, the prisoners were exercising. 铁丝网内，囚犯们正在操练。
+
+n. 1 [C] 从人们醒来到中午之间的一段时间（或到午饭前的一段时间），即早晨；上午:
+2 [C] 午夜至正午之间的时间段（即从子夜12:00到中午12:00）:
+adv. mornings 可作为副词，表示在早上，在上午，每天早上（或上午）:
+morning |['mɔ:nɪŋ]
+early morning 清晨 
+I walk to work most mornings. 我大多数早晨步行去上班。
+the morning papers 晨报 
+See you tomorrow morning. 明天上午见。
+I often stayed up until two or three in the morning. 我经常熬夜到凌晨两三点钟。
+I only work mornings. 我只在上午工作。
+
+vi. depend on/upon sb/sth 确信某事将发生，相当于count on:
+vi. depend on/upon sb/sth 确信（或指望）某事将发生，相当于count on:
+vi. 1 depend on/upon sb/sth 依赖并相信（某人或某事物）:
+2 depend on/upon sb/sth (for sth)（为某一目的而）需要其他人（或事物）的金钱、帮助等，如需要，依赖:
+3 depend on/upon sth 受某事物影响；由某事物决定，取决于某事物:
+depend |[dɪ'pend]
+Depend upon it (= you can be sure) we won’t give up. 请相信，我们决不会放弃。
+Depend upon it (= you can be sure) we won’t give up. 请相信，我们决不会放弃。
+Can we depend on you coming in on Sunday? 你星期天能来参加吗？
+You can depend on his coming in on Sunday.（正式）你放心，他星期天一定来参加。
+He was the sort of person you could depend on. 他这个人你是可以依靠的。
+The community depends on the shipping industry for its survival. 这个地区靠航运业维持生活。
+I don’t want to depend too much on my parents. 我不想过度依靠父母。
+Does the quality of teaching depend on class size? 教学质量取决于每个班的人数吗？
+It would depend on the circumstances. 这要视情况而定。
+Whether or not we can go ultimately depends on the weather. 我们是否能去最终取决于天气。
+
+n. [sing.] the fold 可指你对其有归属感的一群人；或拥有共同观点或信仰的一群人:
+vi.（一家公司、一出戏剧等）由于失败而倒闭或停演:
+vi.（一出戏剧等）由于失败而停演:
+n. [C]（地壳岩石层的）褶皱:
+n. [C] [英] 山丘或高山之间的一片空地，如山坳，山谷，山洼。与valley有交集的部分，远不如valley常用:
+fold B round/over A 将某人或某事物用…包裹起来:
+fold sth (back, down, over, etc.) 折叠（尤指纸张或衣服），也可指折叠式的收拢和放置:
+vt.＆vi. fold (sth) (away/down) 将某事物折叠，使其变小或变平，从而更易于存储或携带；可折小，可叠平:
+n. 1 [C] 某事物（尤指衣服）的折叠部分，或其悬垂得像被折叠起来的一部分:
+2 [C] 某事物折叠后所留下的一个标记或一条线，或表明某事物该由此处进行折叠的一个标记或一条线。即折痕、折线:
+n. [C]（用栅栏或墙壁围起来的）羊栏或羊圈:
+vi. 指企业或其他组织由于财务问题或缺乏支持而“倒闭”或“破产”。与close和shut相比，fold仅为不及物动词，且不常用:
+fold |[fəʊld]
+He called on former Republican voters to return to the fold. 他号召昔日拥护共和党的选民重新回到支持共和党的行列。
+the international fold（英）国际社会 
+The indigenous people were brought into the Catholic fold. 这些原住民皈依了天主教。
+His father finally accepted him back into the family fold. 他父亲最终接纳他重返家中。
+the deep folds of the ground 深深的谷地
+vt. fold A in B 
+She gently folded the baby in a blanket. 她轻轻地把婴儿裹在毯子里。
+vt. fold sth (up) 
+He folded the map up and put it in his pocket. 他把地图折叠起来，放进了口袋。
+I folded up the clothes and put them away. 我把衣服叠好收起来。
+The bird folded its wings. 那只鸟收起了翅膀。
+Her hands lay gently folded in her lap. 她十指轻轻交叉着放在腿上。
+The table folds up when not in use. 这张桌子不用时可以折起来。
+When she heard the news, her legs just folded under her (= she fell).（比喻用法）她听到这个消息时两腿发软（倒在地上）。
+The fabric fell in soft folds. 这织物起了柔和的褶。
+She hid the note in a fold in her robe. 她把便条藏在袍子的一个褶皱里。
+loose folds of skin 皮肤松垮的褶皱 
+the loose folds of flesh under her chin 她下巴下松松的肉褶子 
+the heavy folds of his cloak 他斗篷上深深的褶痕
+
+(forming adjectives and adverbs from cardinal numbers) in an amount multiplied by:（由基数构成形容词和副词）的数量乘以
+(forming adjectives and adverbs from cardinal numbers) consisting of so many parts or facets:（由基数构成形容词和副词）由许多部分或方面组成
+-fold |fəʊld| Suffix/:-折叠,-折,折
+threefold:三倍
+twofold:双倍
+
+adj.（尤指对于小细节）细心以使其精确的，如细致的，认真的，一丝不苟的，相当于meticulous。比exact要常用一些:
+adj. 只用于名词前，用于强调某事发生在一个特定的时间，如恰好，就:
+adj. 1 清晰且准确的，即确切的，精确的，明确的等，相当于exact:
+2 只用于名词前，用于强调某事发生在一个特定的时间（或以特定的方式发生），如恰好，就:
+precise |[prɪ'saɪs]
+a skilled and precise worker 熟练而认真的工人 
+precise movements 细微的动作 
+She’s rather prim and precise.（贬义）她拘谨严肃，一丝不苟。
+We were just talking about her when, at that precise moment, she walked in. 我们正谈论着她，恰好在这个时候，她走进来了。
+precise details, precise instructions, precise measurements 确切的细节；明确的指令；精确的尺寸 
+a precise definition 确切的定义 
+mathematically, surgically, technically precise 数学上精确；手术上精确；技术上精确 
+precise terms 准确的术语 
+precise numbers 准确的数字 
+I can be precise about the time of the incident. 我可以准确地说出这件事发生的时间。
+These estimates will become more precise. 这些估测将更为准确。
+We were just talking about her when, at that precise moment, she walked in. 我们正谈论着她，恰好在这个时候，她走进来了。
+Doctors found it hard to establish the precise nature of her illness. 医生们难以判定她的确切病因。

@@ -44,7 +44,7 @@ the action of helping someone by sharing work:通过分享工作帮助某人的�
 the provision of money, resources, or information to help someone:提供金钱、资源或信息来帮助某人
 assistance |əˈsɪst(ə)ns| Noun/:,帮助,援助
 the work was completed with the assistance of carpenters:工作在木匠的协助下完成
-schemes offering financial assistance to employers:schemes为雇主提供经济援助
+schemes offering financial assistance to employers:向雇主提供财政援助的计划
 
 costing a lot of money:花费很多钱
 expensive |ɪkˈspɛnsɪv| Adjective/:昂贵的,昂贵,贵
@@ -55,7 +55,7 @@ a brief journey from home:一次短暂的离家之旅
 an appearance in something, especially a sporting event or film:某事的出现，尤其是体育赛事或电影
 the practice of revealing the sexual or gender identity of a person:揭示一个人的性或性别认同的做法
 outing |ˈaʊtɪŋ| Noun/:郊游,远足
-a family outing to Weston-super-Mare:a家庭出游到Weston-super-Mare
+a family outing to Weston-super-Mare:家庭出游 Weston-super-Mare
 her daily outing to the shops:她每天逛商店
 her first screen outing in three years:她三年来的第一次银幕出游
 LGBT organizations strongly condemn the outing of a transgender person before they are ready to tell their own story:LGBT组织强烈谴责跨性别者在他们准备好讲述自己的故事之前就出柜
@@ -79,13 +79,13 @@ used as a general term of approval:用作批准的总称
 an act or spell of tidying something:整理某物的行为或咒语
 a receptacle for holding small objects or waste scraps:一个盛放小物件或废料的容器
 a detachable ornamental cover for a chair back.:一个可拆卸的椅背装饰套。
-bring order to (something), arrange neatly:bringorderto(something),整齐排列
+bring order to (something), arrange neatly:使（某物）井井有条，整齐排列
 tidy |ˈtʌɪdi| Adjective/Noun/Verb/:整齐的,整理,整洁,整齐,收拾
 his scrupulously tidy apartment:他一丝不苟的整洁公寓
 she was a tidy little girl:她是个整洁的小女孩
 he wrote down her replies in a small, tidy hand:他用小而整齐的手写下了她的回复
 the book will bring in a tidy sum:这本书会带来一笔可观的收入
-City have the backbone of a tidy side:City有整洁的一面
+City have the backbone of a tidy side:城市整洁的脊梁
 she's coming to give his house its Saturday morning tidy:她周六早上要来打扫他的房子
 a cable tidy:一个电缆整理器
 the boys have finally tidied their bedroom:男孩们终于整理好他们的卧室了
@@ -112,7 +112,7 @@ a file manager:一个文件管理器
 causing laughter or amusement, humorous:引起欢笑或逗乐，幽默
 used to emphasize that something is serious or should be taken seriously:用于强调某事很严重或应该认真对待
 difficult to explain or understand, strange or odd:难以解释或理解，奇怪或奇怪
-unusual, especially in such a way as to arouse suspicion:unusual，尤指以引起怀疑的方式
+unusual, especially in such a way as to arouse suspicion:不寻常的，尤其是以引起怀疑的方式
 slightly but undefinably unwell:轻微但不确定的不适
 funny |ˈfʌni| Adjective/Noun/:有趣的,滑稽,好笑
 a funny story:一个有趣的故事
@@ -125,8 +125,8 @@ experience or be subjected to (something bad or unpleasant):体验或受到（�
 be affected by or subject to (an illness or ailment):受或受（疾病或病痛）影响
 become or appear worse in quality:变得或看起来质量更差
 undergo martyrdom or execution.:接受殉道或处决。
-tolerate:tolerate
-allow (someone) to do something:allow（某人）做某事
+tolerate:容忍
+allow (someone) to do something:允许（某人）做某事
 suffer |ˈsʌfə| Verb/:遭受,受苦,挨
 he suffered intense pain:他遭受了剧烈的疼痛
 his daughter suffered from agoraphobia:他的女儿患有广场恐惧症
@@ -136,7 +136,7 @@ my conscience would not suffer me to accept any more:我的良心不会再让我
 
 the subjects comprising a course of study in a school or college:在学校或学院学习课程的科目
 curriculum |kəˈrɪkjʊlə| Noun/:,课程设置
-course components of the school curriculum:course学校课程的组成部分
+course components of the school curriculum:学校课程的课程组成
 
 an instrument with a sharp blade or set of blades, used to remove unwanted hair from the face or body:一种带有锋利刀片或一组刀片的工具，用于去除面部或身体上多余的毛发
 cut with a razor:cut用剃须刀
@@ -190,7 +190,7 @@ extending or moving from one place to another without changing direction or stop
 without intervening factors or intermediaries:无干预因素或中介
 (of light or heat) proceeding from a source without being reflected or blocked:（光或热）从源头发出而没有被反射或阻挡
 (of genealogy) proceeding in continuous succession from parent to child:（家谱）从父母到孩子连续不断地进行
-(of a quotation) taken from someone's words without being changed.:(ofaquote)取自某人的话而没有被改变。
+(of a quotation) taken from someone's words without being changed.:（引用）从某人的话中摘取而没有改变。
 (of taxation) levied on income or profits rather than on goods or services.:（税收）对收入或利润而非商品或服务征收。
 complete (used for emphasis):complete（用于强调）
 (of a person or their behaviour) going straight to the point, frank:（关于一个人或他们的行为）直截了当，坦率地说
@@ -200,10 +200,10 @@ with no one or nothing in between:中间没有人或什么都没有
 by a straight route or without breaking a journey:直行或不中断行程
 control the operations of, manage or govern:control的操作、管理或治理
 supervise and control (a film, play, or other production, or the actors in it):监督和控制（电影、戏剧或其他作品，或其中的演员）
-train and conduct (a group of musicians).:train和conduct（一群音乐家）。
+train and conduct (a group of musicians).:训练和指挥（一群音乐家）。
 aim (something) in a particular direction or at a particular person:aim（某事）在特定的方向或特定的人
 tell or show (someone) how to get somewhere:告诉或显示（某人）如何到达某个地方
-address or give instructions for the delivery of (a letter or parcel):address或指示递送（信件或包裹）
+address or give instructions for the delivery of (a letter or parcel):地址或交付（信件或包裹）的说明
 focus (one's thoughts) on or address (one's efforts) towards something.:关注（一个人的想法）或解决（一个人的努力）某事。
 address a comment to or aim a criticism at:address发表评论或批评
 target a product or advertisement specifically at (someone):将产品或广告专门针对（某人）
@@ -267,7 +267,7 @@ a condition of heightened aggression and unpredictable behaviour occurring annua
 must |mʌst| Adjective/Noun/Verb/:必须,必须做的事,务必,一定
 you must show your ID card:你必须出示你的身份证
 you must try some of this fish:你一定要尝尝这种鱼
-Charlotte, must you put spanners in the works?:Charlotte，你必须把扳手放在工作中吗？
+Charlotte, must you put spanners in the works?:夏洛特，你必须在作品中加入扳手吗？
 there must be something wrong:肯定有问题
 this video is a must for everyone:这个视频是每个人都必须的
 a pervasive smell of must:一股浓浓的味道
@@ -275,7 +275,7 @@ a big old bull elephant in must:一头大公牛大象在必须
 two musth males competing for a female:两个必须的男性竞争一个女性
 
 cause to come to a place or participate in a venture by offering something of interest or advantage:通过提供感兴趣或优势的东西来到一个地方或参与一项冒险活动
-evoke (a specified reaction):evoke（指定的反应）
+evoke (a specified reaction):唤起（特定反应）
 cause (someone) to have a liking for or interest in something:使（某人）喜欢或对某事感兴趣
 have a sexual or romantic interest in:对性或浪漫感兴趣
 exert a force on (an object) that is directed towards the source of the force:对（物体）施加力，指向力的来源
@@ -291,7 +291,7 @@ the fact of being based on sensible or wise thinking:基于明智或明智的想
 the body of knowledge and experience that develops within a specified society or period:在特定社会或时期内发展起来的知识和经验体系
 wisdom |ˈwɪzdəm| Noun/:智慧,智,聪明
 listen to his words of wisdom:听他的智慧之言
-some questioned the wisdom of building the dam so close to an active volcano:some质疑在离活火山如此之近的地方建造大坝是否明智
+some questioned the wisdom of building the dam so close to an active volcano:一些人质疑在如此靠近活火山的地方建造大坝是否明智
 Eastern wisdom:东方智慧
 
 short trousers that reach only to the knees or thighs:只到膝盖或大腿的短裤
@@ -301,13 +301,13 @@ cycling shorts:骑行短裤
 
 obtain or bring about by discussion:通过讨论获得或带来
 try to reach an agreement or compromise by discussion:尝试通过讨论达成协议或妥协
-find a way over or through (an obstacle or difficult route):findawayoverorthrough(障碍物或困难路线)
+find a way over or through (an obstacle or difficult route):Find a way over or through（障碍物或困难路线）
 transfer (a cheque, bill, or other document) to the legal ownership of another person, who thus becomes entitled to any benefit.:将（支票、账单或其他文件）转让给他人的合法所有权，从而有权获得任何利益。
-convert (a cheque) into cash or notes.:convert（支票）成现金或纸币。
+convert (a cheque) into cash or notes.:将（支票）兑换成现金或票据。
 negotiate |nɪˈɡəʊʃɪeɪt| Verb/:谈判,协商
 he negotiated a new contract with the sellers:他与卖家谈判了一份新合同
 they refused to negotiate with the rebels:他们拒绝与叛军谈判
-she cautiously negotiated the hairpin bend:she小心翼翼地通过发夹弯
+she cautiously negotiated the hairpin bend:她小心翼翼地通过发夹弯
 
 a large meal, typically a celebratory one:一顿大餐，通常是庆祝
 a plentiful supply of something enjoyable:a大量供应令人愉快的东西
@@ -331,7 +331,7 @@ of or concerned with the actual doing or use of something rather than with theor
 suitable for a particular purpose:适合特定用途
 (of a person) sensible and realistic in their approach to a situation or problem:（一个人）在处理情况或问题时明智和现实
 (of a person) skilled at manual tasks:（人的）精通手工任务
-so nearly the case that it can be regarded as so, virtual:so差不多的情况，可以算是so，虚的
+so nearly the case that it can be regarded as so, virtual:几乎可以认为是这样的情况，虚拟的
 an examination or lesson in which theories and procedures learned are applied to the actual making or doing of something.:
 practical |ˈpraktɪkl| Adjective/Noun/:实际的,实践课,实用,实际
 there are two obvious practical applications of the research:该研究有两个明显的实际应用

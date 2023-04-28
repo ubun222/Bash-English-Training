@@ -58,7 +58,7 @@ a horse that is slow or difficult to handle.:一匹速度慢或难以驾驭的�
 used in names of dogfishes, e.g. sandy dog, spur-dog.:用于角鲨的名称，例如7
 a mechanical device for gripping.:一种机械夹持装置。
 feet.:英尺。
-barriers used to keep horses off a particular part of the track.:barriers用于让马远离赛道的特定部分。
+barriers used to keep horses off a particular part of the track.:障碍物用于使马匹远离赛道的特定部分。
 dog |dɒɡ| Noun/Verb/:狗,折磨,犬,狗狗
 a night at the dogs:狗之夜
 he was interrupted by cries of ‘dirty dog!’:他被“脏狗！”的叫喊打断了。
@@ -68,7 +68,7 @@ one day she's going to turn dog on you:有一天她会对你发火
 
 having or showing tenacity and grim persistence:具有或表现出坚韧和冷酷的毅力
 dogged |ˈdɒɡɪd| Adjective/:顽固,固执
-success required dogged determination:success需要顽强的决心
+success required dogged determination:成功需要顽强的决心
 
 dog eat dog | 狗吃狗,吃狗肉
 
@@ -113,12 +113,12 @@ junior |ˈdʒuːnɪə| Adjective/Noun/:初级,初中,大三
 junior tennis:青少年网球
 junior pupils:小学生
 his junior year in college:他大学三年级
-John F. Kennedy Junior:JohnF.KennedyJunior
+John F. Kennedy Junior:小约翰·肯尼迪
 a junior minister:a初级部长
 he's five years her junior:他比她小五岁
 first-year juniors:一年级大三
 indoor tennis for juniors:青少年室内网球
-he said: ‘there's Junior,’ referring to his son:he说-
+he said:他说
 an office junior:一个办公室初级
 
 a person who translates from one language into another, especially as a profession:将一种语言翻译成另一种语言的人，尤其是作为一种职业
@@ -178,8 +178,8 @@ morally repugnant:道德上令人反感
 ugly |ˈʌɡli| Adjective/:丑陋,丑陋的,丑
 people in school always told me I was ugly:学校里的人总是告诉我我很丑
 the mood in the room turned ugly:房间里的气氛变得难看
-ugly rumours persisted that there had been a cover-up:ugly一直有谣言说有掩盖
-racism and its most ugly manifestations, racial attacks and harassment:racism及其最丑陋的表现形式、种族攻击和骚扰
+ugly rumours persisted that there had been a cover-up:丑陋的谣言一直存在，说有一个掩盖
+racism and its most ugly manifestations, racial attacks and harassment:种族主义及其最丑陋的表现、种族攻击和骚扰
 
 the study of past events, particularly in human affairs:对过去事件的研究，特别是在人类事务中
 the past considered as a whole:作为一个整体考虑的过去
@@ -236,7 +236,7 @@ the power and prestige of the House of Stewart:斯图尔特家族的权力和威
 a hen house:鸡舍
 a house of prayer:祈祷之家
 a publishing house:某出版社
-help yourself to a drink, compliments of the house!:help自己喝一杯，赞美房子！
+help yourself to a drink, compliments of the house!:随便喝一杯，恭维房子！
 a hundred musicians performed in front of a full house:100位音乐家在座无虚席前表演
 tickets for the first house:第一套房子票
 the Cistercian house at Clairvaux:克莱尔沃的西多会教堂
@@ -244,7 +244,7 @@ a house of 45 boarders:一个有45个寄宿生的房子
 the sixty-member National Council, the country's upper house:国民议会六十人，国家上议院
 the government commanded an overall majority in the House:政府在众议院占多数
 a debate on the motion ‘This house would legalize cannabis’:关于“这所房子将使大麻合法化”的议案的辩论
-DJs specializing in techno, garage, and house:DJ专注于techno、garage和house
+DJs specializing in techno, garage, and house:擅长 techno、garage 和 house 的 DJ
 a house journal:a家杂志
 the house band:家庭乐队
 they converted a disused cinema to house twelve employees:他们将一个废弃的电影院改建为12名员工
@@ -281,7 +281,7 @@ carried by or denoting transportation by sea or overland rather than by air:通�
 rise or come up to the surface of the water or the ground:上升或上升到水面或地面
 come to people's attention, become apparent:引起人们的注意，变得明显
 (of a person) appear after having been asleep:（一个人）睡着后出现
-provide (something, especially a road) with a particular surface:provide（某物，尤其是道路）具有特定的表面
+provide (something, especially a road) with a particular surface:提供（某物，尤其是道路）特定的表面
 surface |ˈsəːfɪs| Adjective/Noun/Verb/:表面,浮出水面,面
 the earth's surface:地球表面
 roll out the dough on a floured surface:将面团铺在撒了面粉的表面上
@@ -292,19 +292,19 @@ surface layers:表面层
 the surface fleet:水面舰队
 surface mail:平邮
 he surfaced from his dive:他从潜水中浮出水面
-the row first surfaced two years ago:therow两年前首次浮出水面
+the row first surfaced two years ago:该行两年前首次浮出水面
 it was almost 11.30 before Anthony surfaced:在安东尼浮出水面之前几乎是11.30
 a small path surfaced with terracotta tiles:一条铺着赤土砖的小路
 
 give all or most of one's time or resources to (a person or activity):将一个人的全部或大部分时间或资源给（一个人或一个活动）
 use a certain amount of space or time to cover (a topic):使用一定的空间或时间来覆盖（一个话题）
-invoke or pronounce a curse upon:invoke或咒骂
+invoke or pronounce a curse upon:调用或发出诅咒
 devote |dɪˈvəʊt| Verb/:奉献,致力于
 I wanted to devote more time to my family:我想把更多的时间花在我的家人身上
 a full page is devoted to each ski run:一个完整的页面专门用于每次滑雪
 the hostile army was devoted with dire execrations to the gods of war:敌对军队对战神充满了可怕的诅咒
 
-help, typically of a practical nature:help，通常具有实用性
+help, typically of a practical nature:帮助，通常是实用的
 financial or material help given to a country or area in need:向有需要的国家或地区提供财务或物质帮助
 a source of help or assistance:帮助或帮助的来源
 a grant of subsidy or tax to a king or queen.:向国王或王后提供补贴或税收。
@@ -315,7 +315,7 @@ Agency for International Development.:国际开发署。
 aid |eɪd| Noun/Residual/Verb/:援助,帮助,辅助,协助
 he saw the pilot slumped in his cockpit and went to his aid:他看到飞行员瘫倒在他的驾驶舱里并去帮助他
 700,000 tons of food aid:70万吨粮食援助
-exercise is an important aid to recovery after heart attacks:exercise是心脏病发作后恢复的重要帮助
+exercise is an important aid to recovery after heart attacks:运动是心脏病发作后恢复的重要帮助
 women were aided in childbirth by midwives:妇女在助产士的帮助下分娩
 diet and exercise aid healthy skin:饮食和运动有助于皮肤健康
 
@@ -324,7 +324,7 @@ each of two or more forces, velocities, or other vectors acting in different dir
 constituting part of a larger whole, constituent:构成一个更大的整体的一部分，组成部分
 component |kəmˈpəʊnənt| Adjective/Noun/:零件,成分,部件,组件,组成部分
 an assembly plant for imported components:进口零部件组装厂
-he resolved the motion into horizontal and vertical components:he将运动分解为水平和垂直分量
+he resolved the motion into horizontal and vertical components:他将运动分解为水平和垂直分量
 the component elements of the armed forces:武装部队的组成部分
 
 all of the people born and living at about the same time, regarded collectively:所有在同一时间出生和生活的人，统称为
@@ -349,7 +349,7 @@ the line along which two surfaces of a solid meet.:实体的两个表面相交�
 an intense, sharp, or striking quality:一种强烈的、尖锐的或引人注目的品质
 a quality or factor which gives superiority over close rivals:一种质量或因素，它比紧密的竞争对手更具优势
 provide with a border or edge:提供边框或边缘
-move or cause to move gradually or furtively in a particular direction:move或导致向特定方向逐渐或偷偷摸摸地移动
+move or cause to move gradually or furtively in a particular direction:向特定方向移动或导致逐渐或偷偷摸摸地移动
 defeat by a small margin:以微弱优势击败
 give an intense or sharp quality to:给予强烈或尖锐的品质
 strike (the ball) with the edge of the bat, strike a ball delivered by (the bowler) with the edge of the bat:用球棒边缘击打（球），用球棒边缘击打（投球手）投出的球
@@ -363,7 +363,7 @@ a flamenco singer brings a primitive edge to the music:一位弗拉门戈歌手�
 his cars have the edge over his rivals':他的车比他的对手更有优势
 the pool is edged with paving:池边铺有铺路石
 Connecticut avoided an upset and edged Yale 49–48:康涅狄格避免爆冷并以48击败耶鲁
-desperation edged her voice:desperation压低了她的声音
+desperation edged her voice:绝望压低了她的声音
 he edged a ball into his pad:他把球塞进了他的垫子里
 you will be edging early, controlling a parallel turn:you将提前开始，控制平行转弯
 
@@ -395,10 +395,10 @@ the health ministry has sole federal responsibility for healthcare:卫生部对�
 
 (of a person, animal, or plant) living, not dead:（人、动物或植物）活着，而不是死去
 continuing in existence or use:继续存在或使用
-alert and active, animated:alert和活跃，动画
+alert and active, animated:警觉、活跃、活跃
 having interest and meaning:有兴趣和意义
 aware of and interested in, responsive to:意识到并感兴趣，响应
-swarming or teeming with:swarming或充满
+swarming or teeming with:蜂拥而至
 alive |əˈlʌɪv| Adjective/:活,活着,活着的
 hopes of finding anyone still alive were fading:找到还活着的人的希望正在消退
 keeping hope alive:保持希望
@@ -436,46 +436,46 @@ a man who takes the active role in anal intercourse with another man.:一个在�
 highest in position, rank, or degree:最高职位、等级或学位
 furthest away from the speaker or a point of reference:距离演讲者或参考点最远
 denoting a flavour (variety) of unstable quark having an electric charge of +2/3. Top quarks have similar properties to up quarks and charm quarks, but are distinguished from them by having a larger mass.:表示具有+2/3电荷的不稳定夸克的味道（品种）。顶夸克具有与上夸克和粲夸克相似的性质，但与它们的区别在于具有更大的质量。
-exceed (an amount, level, or number), be more than:exceed（数量、级别或数字），超过
+exceed (an amount, level, or number), be more than:超过（数量、水平或数量），超过
 be at the highest place or rank in (a list, poll, or league):在（列表、民意调查或联盟）中处于最高位置或排名
 be taller than:高于
-surpass (a person or previous achievement), outdo:surpass（一个人或以前的成就），超越
+surpass (a person or previous achievement), outdo:超越（某人或以前的成就），超过
 appear as the chief performer or attraction at:作为主要表演者或景点出现在
 provide with a top or topping:提供顶部或顶部
-complete (an outfit) with an upper garment, hat, or item of jewellery:complete（一套服装）带有上衣、帽子或珠宝
-remove the top of (a vegetable or fruit) in preparation for cooking:remove（蔬菜或水果）的顶部以准备烹饪
+complete (an outfit) with an upper garment, hat, or item of jewellery:用一件上衣、帽子或首饰完成（一件衣服）
+remove the top of (a vegetable or fruit) in preparation for cooking:去除（蔬菜或水果）的顶部以准备烹饪
 reach the top of (a hill or other elevation):到达（小山或其他海拔）的顶部
 kill:杀死
-mishit (the ball or a stroke) by hitting above the centre of the ball:mishit（球或中风）通过击球中心上方
+mishit (the ball or a stroke) by hitting above the centre of the ball:击中球的中心上方而击中（球或击球）
 at the most:最多
 a conical, spherical, or pear-shaped toy that can be set to spin with a quick twist:一个圆锥形、球形或梨形的玩具，可以设置为快速旋转旋转
 used in names of top shells, e.g. strawberry top.:用于顶级外壳的名称，例如草莓顶部。
-Tongan pa'anga.:Tonganpa'anga。
+Tongan pa'anga.:汤加的影响。
 top |tɒp| Adjective/Adverb/Noun/Residual/Verb/:最佳,顶部,最高的,超过,顶
-Doreen stood at the top of the stairs:Doreen站在楼梯的顶端
+Doreen stood at the top of the stairs:多琳站在楼梯口
 some growers snip off the carrot's green tops in the field:一些种植者在田间剪掉胡萝卜的绿色顶部
 beer bottle tops:啤酒瓶盖
 her talent will take her right to the top:她的才华将带她登上顶峰
 she shouted at the top of her voice:她大声喊道
-professionally you're the tops:professionally你是顶尖的
-long gradients can be surmounted in top:long梯度可以在顶部被超越
+professionally you're the tops:专业你是顶尖的
+long gradients can be surmounted in top:可以在顶部克服长梯度
 he was wearing a hooded top:他穿着连帽上衣
 the bus shelter at the top of the road:马路顶端的公交候车亭
 the top button of his shirt:他衬衫最上面的扣子
 the top end of Fulham Road:富勒姆路的顶端
-losses are expected to top £100 m this year:losses预计今年将超过1亿英镑
+losses are expected to top £100 m this year:预计今年亏损将超过 1 亿英镑
 her debut album topped the charts for five weeks:她的首张专辑连续五周高居榜首
-he topped her by several inches:he高出她几英寸
+he topped her by several inches:他高出她几英寸
 he was baffled as to how he could top his past work:他对如何超越过去的工作感到困惑
-Hopper topped a great night of boxing:Hopper在精彩的拳击之夜中名列前茅
-toast topped with baked beans:toast配上烤豆
+Hopper topped a great night of boxing:霍珀在一个伟大的拳击之夜中名列前茅
+toast topped with baked beans:烤豆吐司
 a white dress topped by a dark cardigan:一件白色连衣裙搭配深色开衫
 I use the sharp edge of an old butcher's knife for topping and the back of the blade for cleaning the roots:我用一把旧屠刀的锋利边缘打顶，刀片背面清洁根部
 they topped a rise and began a slow descent:他们突破了上升并开始缓慢下降
 I wasn't sorry when he topped himself:他超越自己时我并不后悔
 he topped his drive on the fifth hole:他在第五洞打出第一杆
 some civil servant earning twenty-eight thousand a year, tops:一些公务员，年收入2.8万，最高
-children played with simple toys like marbles, wooden tops, ice skates, and dolls:children玩简单的玩具，如弹珠、木制台面、溜冰鞋和洋娃娃
+children played with simple toys like marbles, wooden tops, ice skates, and dolls:孩子们玩简单的玩具，如弹珠、木陀螺、溜冰鞋和洋娃娃
 
 tops | 最高额,上衣,顶部
 
@@ -504,7 +504,7 @@ ethnic minorities:少数族裔
 intrigues between factions striving to make the king their puppet continued throughout his minority:努力让国王成为他们傀儡的派系之间的阴谋在他的少数派中继续存在
 
 possess, own, or hold:拥有、拥有或持有
-possess (a quality, characteristic, or feature):possess（品质、特性或特征）
+possess (a quality, characteristic, or feature):拥有（品质、特性或特征）
 provide or indulge oneself with (something):提供或放纵自己（某事）
 be made up of, comprise:组成，包括
 used to indicate a particular relationship:用于表示特定的关系
@@ -512,14 +512,14 @@ be able to make use of (something available or at one's disposal):能够使用�
 have gained (a qualification):已获得（资格）
 possess as an intellectual attainment, know (a language or subject):拥有一种智力成就，知道（一种语言或学科）
 experience, undergo:经验，经历
-suffer from (an illness, ailment, or disability):sufferfrom（疾病、病痛或残疾）
-let (a feeling or thought) come into one's mind, hold in the mind:let (a feeling or thought) 进入一个人的脑海
+suffer from (an illness, ailment, or disability):患有（疾病、不适或残疾）
+let (a feeling or thought) come into one's mind, hold in the mind:让（一种感觉或想法）进入一个人的脑海，保持在脑海中
 experience or suffer the specified action happening or being done to (something):体验或遭受指定的动作发生或正在对（某事）进行
 cause to be in a particular state or condition:导致处于特定状态或条件
-cause (something) to be done for one by someone else:cause(something)tobedoneforonebyothers
+cause (something) to be done for one by someone else:使（某事）由他人代为完成
 tell or arrange for (someone) to do something for one:告诉或安排（某人）为某人做某事
 have put (someone) at a disadvantage in an argument:使（某人）在争论中处于不利地位
-cheat or deceive (someone):cheat或欺骗（某人）
+cheat or deceive (someone):欺骗或欺骗（某人）
 have sex with.:与发生性关系。
 be obliged or find it necessary to do the specified thing:有义务或认为有必要做指定的事情
 be strongly recommended to do something:be强烈建议做某事
@@ -565,7 +565,7 @@ she's going to have a baby:她要生孩子了
 he had little patience with technological gadgetry:他对科技小玩意没有耐心
 God have mercy on me!:上帝怜悯我！
 I can't have you insulting Tom like that:我不能让你这样侮辱汤姆
-Mary had her back to me:Mary让她回到我身边
+Mary had her back to me:玛丽背对着我
 he had me by the throat:他扼住了我的喉咙
 she had a letter from Mark:她收到了马克的来信
 we're having the children for the weekend:我们周末要带孩子
@@ -631,9 +631,9 @@ careless and indiscreet in what is said:粗心大意，说话轻率
 engaging in casual sexual encounters or relationships:从事偶然的性接触或关系
 loose play:松散的比赛
 set free, release:释放，释放
-make (something) loose, untie or undo:make（某物）松散、解开或撤消
-relax (one's grip):relax（握紧）
-fire (a bullet, arrow, etc.):fire（子弹、箭等）
+make (something) loose, untie or undo:使（某物）松散、解开或撤消
+relax (one's grip):放松（一个人的抓地力）
+fire (a bullet, arrow, etc.):火（子弹、箭等）
 loose |luːs| Adjective/Noun/Verb/:疏松,松动的,流露,松,松散的
 a loose tooth:一颗松动的牙齿
 wear your hair loose:头发松散
@@ -642,10 +642,10 @@ loose bowel movements:大便不畅
 she slipped into a loose T-shirt:她穿上宽松的T恤
 the fabric's loose weave:面料的松散组织
 a loose federation of political groups:一个松散的政治团体联盟
-she swung into her easy, loose stride:she轻松、轻松地迈着大步
+she swung into her easy, loose stride:她轻松、轻松地迈着大步
 a loose interpretation:松散的解释
 there is too much loose talk about the situation:情况谈得太松了
-Lucas punished some loose bowling severely:Lucas严厉惩罚了一些松散的保龄球
+Lucas punished some loose bowling severely:卢卡斯严厉惩罚了一些松散的保龄球
 she ran the risk of being called a loose woman:她冒着被称为放荡女人的风险
 he was in powerful form in the loose:他在松散时处于强大的状态
 the hounds have been loosed:猎犬已被释放
@@ -665,7 +665,7 @@ a number of interlocked or jammed items:一些互锁或卡住的物品
 a short section of a canal or river with gates and sluices at each end which can be opened or closed to change the water level, used for raising and lowering boats:运河或河流的一小段，两端有闸门和水闸，可以打开或关闭以改变水位，用于升降船只
 the turning of the front wheels of a vehicle to change its direction of motion.:车辆前轮的转动以改变其运动方向。
 the maximum extent that the front wheels of a vehicle can be turned.:车辆前轮可以转动的最大程度。
-a player in the second row of a scrum.:Scrum第二排的玩家。
+a player in the second row of a scrum.:scrum 第二排的球员。
 a person or thing that is certain to succeed, a certainty:一个人或事一定会成功的，确定的
 a mechanism for exploding the charge of a gun.:一种用于引爆枪支装药的机制。
 lock |lɒk| Noun/Verb/:锁,上锁,打开

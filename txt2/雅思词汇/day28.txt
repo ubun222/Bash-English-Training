@@ -1,0 +1,602 @@
+trivial				不重要的，无聊的，狭隘的
+ease									容易，轻松自在，减轻，小心的移动
+furnish					为...配备家具，提供
+paraphernalia				各种物件，烦琐的手续
+extent					大小，严重性，程度
+instrumental				对某事物起重要作用，器乐的
+exorbitant					过高的
+combustible				可燃的，易激动的
+address							地址，演说，称呼
+junk									垃圾，丢弃
+reputation								名声
+obstruct			阻挡，堵塞
+enclosure			围场，附件
+telecommunication	电信学，电信
+custodian			保管人，卫士
+meditate			冥想，沉思，谋划
+oblige					强迫，帮助
+versus					相对，对
+timidity			胆怯
+volatile			易挥发的，变化无常的
+indignant					义愤的
+seal								海豹，密封，印章，保证，达成
+sovereign			元首，至高无上的，有主权的
+cute				可爱的，机敏的
+navigation				导航，航行
+shock									震惊，休克
+account						账户，账单，描述，利益
+main					主要的，总管
+repertoire				常规节目，全部本领
+void					空白，无效的
+\\\\\\\\
+
+adj. 不重要的、不严重的、不值得考虑的:
+trivial |[ˈtrɪviəl]
+a trivial detail 细枝末节 
+The director tried to wave aside these issues as trivial details that could be settled later. 主管试图对这些问题置之不理，认为都是些细枝末节的小事，可以稍后解决。
+He made a few essentially trivial changes. 他做了一些实质上无多大意义的变动。
+Apparently trivial clues may turn out to be quite important. 看似微不足道的线索实际上可能相当重要。
+I don't like to visit the doctor just for something trivial. 我不喜欢为一点小毛病就去看医生。
+I know it sounds trivial, but I'm worried about it. 我知道这事听起来微不足道，但我还是放心不下。
+I'll try to fix it ─ but it's not trivial (= it may be difficult to fix). 我要设法修好，不过也不是轻易就能修好的。          
+
+vt.&vi.（使）价格或价值降低:
+n. [U] 舒适安逸、无忧无虑、自在（而没有忧虑、没有问题、没有痛苦）:
+vt.&vi.（使）某事物放松或缓和:
+vt.&vi.（使）某事物的不悦、严重性等减轻:
+vt.&vi.（使）某事物放松或缓和:
+vt.&vi.（使）小心缓缓地移动:
+vt.&vi.（使）痛苦减轻:
+n. [U] 容易、轻而易举:
+vt. 让…更容易:
+ease |[i:z]
+Share prices eased back from yesterday's levels. 股价从昨天的水平上回落了。
+In his retirement, he lived a life of ease. 他退休后过着悠闲舒适的生活。
+Ease your grip on the wheel a little. 握方向盘的手放松一点。
+It would ease my mind (= make me less worried) to know that she was settled. 知道她已安顿下来会使我放心些。
+The plan should ease traffic congestion in the town. 这项计划对城里的交通拥挤状况应该有所缓解。
+The new road should help ease traffic problems. 新修的这条路应该会有助于改善交通状况。
+The heavily falling snow had eased. 漫天大雪变小了。
+The situation would be considerably eased if more money were made available. 如果有更多的资金，情况会大为缓和。
+Tensions between the two countries are beginning to ease. 两国间的紧张关系开始缓和。
+Ease your grip on the wheel a little. 握方向盘的手放松一点。
+He eased slowly forwards. 他缓缓向前移动。
+She eased herself into a chair. 她轻手轻脚地坐到椅子上。
+He eased himself into the driving seat. 他小心翼翼地挪到驾驶座上。
+He eased off his shoes. 他小心翼翼地脱下鞋子。
+I eased my way towards the door. 我小心翼翼地向门口挪去。
+She eased back into the chair and nodded. 她轻手轻脚地坐回到椅子上，点了点头。
+I eased myself slowly out of bed. 我慢慢地挪下床来。
+Jean eased back on the pillows and relaxed. 琼轻轻仰靠到枕头上让自己放松。
+She carefully eased the car out of the garage. 她小心地把车从车库里开出来。
+The pain immediately eased. 疼痛立刻减轻了。
+The pain in my leg gradually eased away. 我腿部的疼痛逐渐消失了。
+He passed the exam with ease. 他轻而易举地通过了考试。
+The ease with which she learns languages is astonishing. 她学习语言之轻松令人惊讶。
+All important points are numbered for ease of reference (= so that you can find them easily). 全部重点均编了号码以便查阅。
+I obtained the drugs with alarming ease.（alarming尤为英式用法）我轻而易举地弄到了这些毒品。
+All questions were handled with equal ease and mastery. 所有的问题都被轻易且巧妙地解决了。
+I was surprised at the apparent ease with which he got into the building. 他显然不费力地就进了大楼，这使我吃惊。
+She returned her opponent's serve with contemptuous ease.（contemptuous尤为英式用法）她不把对手放在眼里，轻而易举地回击了对手的发球。
+The back of the garment is split for ease in walking. 衣服后面的开衩是为了行走方便。
+The whole machine is designed for ease of use. 这整台机器的设计是为了使用方便。
+This computer is popular for its good design and ease of use. 这种计算机因设计巧妙、简单易用而广受欢迎。
+the camera's ease of use in manual mode 相机在手动模式下的易操作性 
+The car brings ease of access to the countryside. 汽车方便了人们去乡间。
+Ramps have been built to ease access for the disabled. 为方便残疾人的出入修建了坡道。
+
+provide (a house or room) with furniture and fittings:提供（房子或房间）家具和配件
+be a source of, provide:beasourceof,提供
+supply someone with (something), give (something) to someone:supplysomeonewith(something),给某人（某物）
+furnish |ˈfəːnɪʃ| Verb/:装设,提供,供给
+the proprietor has furnished the bedrooms in a variety of styles:业主对卧室进行了各种风格的布置
+fish furnish an important source of protein:fish提供重要的蛋白质来源
+she was able to furnish me with details of the incident:she能够向我提供事件的详细信息
+
+You can refer to a large number of objects that someone has with them or that are connected with a particular activity as paraphernalia. (与某活动有关的) 大量用品
+paraphernalia |英 [,pærəfə'neɪlɪə]  美 ['pærəfə'nelɪə]| n. 随身用具；全部有关的事物；设备/
+...a large courtyard full of builders' paraphernalia.…一个充满建筑装备的大院子
+
+
+n. [sing., U] 一个区域的物理面积:
+n. [sing., U] 一个区域的物理范围:
+n. [sing., U] 程度（即多么大、多么重要、多么严重等）:
+extent |[ɪkˈstent]
+The park is about 20 acres in extent. 公园大约有20英亩大。
+Their commitment was only to maintain the extent of forests, not their biodiversity. 他们仅承诺维持现有森林面积，并不保证林区生物的多样性。
+geographical, territorial extent 地理范围；领土范围 
+a statement defining the extent of Latvia's territory 界定拉脱维亚领土范围的声明 
+to reduce the extent of deforestation 缩小森林砍伐的范围 
+You can't see the full extent of the beach from here. 从这儿看不到海滩全貌。
+It is difficult to assess the full extent of the damage. 损失情况难以全面估计。
+She was exaggerating the true extent of the problem. 她在夸大问题的真实程度。
+Those figures actually understate the extent of the problem. 那些数字实际上低估了问题的严重性。
+I was amazed at the extent of his knowledge. 他知识之渊博令我惊奇。
+The government itself has little information on the extent of industrial pollution. 政府本身几乎不了解工业污染的程度。
+Growing up with him soon made me realise the extent of his determination. 和他一起长大让我很快意识到他有多么坚定。
+The overall extent of civilian casualties remained unclear. 平民伤亡总数还不清楚。
+The railway network had reached its greatest extent in route mileage. 铁路网的里程数已达到最大限度。
+We do not yet know the extent of her injuries. 我们还不知道她的伤情。
+The operation revealed the extent of the cancer. 手术揭示出癌变的程度。
+The victory underlined the extent to which Prussia had become a major power. 这场胜利凸显出普鲁士在很大程度上已成为一个大国。
+It was and, to a large extent, still is a good show. 它过去是个好节目，现在在很大程度上仍是个好节目。
+To an extent (= to some degree) East-West distrust continued throughout the war. 从某种程度上来说，东西方之间在整个战争期间一直相互不信任。
+He had withdrawn from the company of his friends to an alarming extent. 他大幅减少和朋友们的来往，已经到了令人担忧的程度。
+At its greatest extent the empire comprised most of western France. 在帝国全盛时期，法国西部的大部分地区均为其领土。
+To some extent, we are all responsible for this tragic situation. 我们在某种程度上都对这一悲惨的状况负有责任。
+The pollution of the forest has seriously affected plant life and, to a lesser extent, wildlife. 森林污染对植物有严重的影响，对野生动物也有一定影响。
+I will answer your questions about this case to the extent possible. 我将尽可能地回答你关于此案的问题。
+People no longer live in small communities to the same extent as they used to. 今天生活在小社区的人不像从前那样多。
+To some extent this was the truth. 在某种程度上，这是事实。
+It's still not clear to what extent this criticism is originating from within the ruling party. 目前仍不清楚这种批评有多少是来自执政党内部。
+To that extent they helped bring about their own destruction. 他们正是如此推波助澜，导致了自己的毁灭。
+He said he didn't like the president, but not to the extent of wanting to kill him. 他说他不喜欢总统，但是还没有到想要刺杀他的地步。
+I became pregnant but this man was very violent towards me to the extent that I lost our baby. 我怀孕了，但是这个男人对我非常粗暴，致使我流产了。
+
+adj. 用乐器演奏的；为乐器谱写的（而非为演唱而谱写的）:
+n. [C] 只用乐器演奏的曲目（而没人唱歌），尤指流行音乐的此种曲目:
+n. [C] [语法] 某些语言中的工具格；工具词（表示一个名词、代词或形容词是主语达成一件事或完成一个行动所使用的工具或方法）:
+adj. ~ (in sth/in doing sth) 对某事的发生起重要作用的:
+instrumental |[ˌɪnstrəˈmentl]
+instrumental music 器乐曲 
+a cassette recording of vocal and instrumental music 有声乐和器乐的磁带录音 
+The songs are largely instrumental. 这些歌曲以器乐为主。
+The album was entirely instrumental. 这张专辑全部都是器乐作品。
+He's created a purely instrumental score. 他已经编写出一首纯器乐的乐谱。
+He was instrumental in bringing about an end to the conflict. 他在终止冲突的过程中起了重要作用。
+In his first years as chairman he was instrumental in raising the company's wider profile. 他任董事长的最初几年为提升公司的知名度起到了积极的推动作用。
+Jesse Jackson was instrumental in the release of some of the hostages. 其中一些人质得以获释多亏了杰西·杰克逊。
+They were highly instrumental in bringing the business to Newtown. 在把业务引入纽敦过程中他们发挥了重大作用。
+
+adj. [正式]（价格、费用等）过高的、高得离谱的:
+exorbitant |[ɪgˈzɔ:bɪtənt;美-ˈzɔ:rb-]
+exorbitant costs, exorbitant fares, exorbitant fees, exorbitant prices, exorbitant rents 过高的花费；过高的交通费；过高的收费；过高的价格；过高的租金 
+Exorbitant housing prices have created an acute shortage of affordable housing for the poor. 过高的房价已经造成了穷人能够买得起的住房严重短缺。
+The rate of interest is grossly exorbitant.（英，法律）利率高得出奇。
+The hotel charges quite exorbitant prices. 这家旅馆收费相当高。          
+
+A combustible material or gas catches fire and burns easily. 易燃的; 可燃的
+combustible |英 [kəm'bʌstɪb(ə)l]  美 [kəm'bʌstəbl]| adj. 易燃的；易激动的；燃烧性的/n. 可燃物；易燃物/
+The ability of coal to release a combustible gas has long been known.煤能够释放易燃气体这一点早已为人所知。
+
+
+vt. [正式] address (yourself to) sth 思考一个问题或情况，并决定如何去处理，即设法处理，对付或解决。也较为常用:
+vt. address sb (as sth) 对某人说话（或写东西给此人）的时候，对其冠以某个名字或头衔，即称呼（某人）:
+n. [C]（某人居住或工作的）地址:
+n. [C] 用计算机查找信息时所使用的一个地址（是一串文字和符号，如互联网地址）:
+n. [C] 在听众或观众前所做的正式讲话，即演说或演讲。场合较为正式而庄重，演讲人通常具有很高的地位:
+vt. 对一群人做正式演讲，演说。且一定是正式演说，场合通常也较为庄重:
+address sth to sb 直接向某人说…:
+vt. address sth (to sb/sth) 常用被动式，在信封等上面写上收信人、收信公司等的姓名和地址；也可指致函给…:
+n. [C]（信件可以被邮寄到的）地址:
+address |[ə'dres]
+Your essay does not address the real issues. 你的论文没有论证实质问题。
+We must address ourselves to the problem of traffic pollution. 我们必须设法解决交通污染问题。
+These concerns were not adequately addressed in the report. 这些问题在报告中没有得到足够的关注。
+The judge should be addressed as ‘Your Honour’. 对法官应该称“法官大人”。
+She did not address him by name. 她没有直呼他的名字。
+name and address 姓名和地址 
+home address 住址 
+people of no fixed address 没有固定居所的人 
+email address 电子邮件地址 
+Internet, Web, website address 互联网网址；网址；网站地址
+commencement（美）, farewell（尤美）, inaugural, keynote, opening address 毕业典礼讲话；告别讲话；就职演说；主旨演讲；开幕词 
+welcoming address 欢迎辞 
+public address 公开讲话 
+radio, television address 广播讲话；电视讲话 
+election address 竞选演说 
+presidential address 总统演说 
+to address a meeting 在会议上发表演讲
+I was surprised when he addressed me in English. 他用英语跟我说话，我很诧异。
+Any questions should be addressed to your teacher. 任何问题都应该向你的老师求教。
+He never addressed her directly. 他从不直接跟她讲话。
+He addressed his comments to the chairman. 他把意见说给主席听。
+The letter was correctly addressed, but delivered to the wrong house. 信上的姓名地址写得都对，但被错投到另一家去了。
+Address your application to the Personnel Manager. 把你的申请信寄给人事经理。
+people of no fixed address 没有固定居所的人 
+home, private address 住址；私人住址 
+business address 办公地址 
+contact address 联系地址 
+forwarding, return address（邮件的）转寄地址；回寄地址 
+postal address（尤英）邮寄地址 
+billing address 账单寄送地址 
+full address 详细地址 
+false address 错误的地址
+
+n. [U] 废旧物品:
+n. [U] 废旧物品:
+n. [U] 作为比喻用法，可指没什么价值的东西:
+junk |[dʒʌŋk]
+I've cleared out all that old junk in the attic. 我把阁楼里所有的废旧杂物都清除干净了。
+junk heap, junk pile 废旧物品堆 
+junk room 废品间 
+junk shop 旧货店 
+There were bits of junk lying around. 到处都是破烂。
+sculptures made from old junk and scrap metal 用废旧物和废金属做成的雕塑 
+He made the boat out of junk materials. 他用废旧材料做了这条船。
+I've cleared out all that old junk in the attic. 我把阁楼里所有的废旧杂物都清除干净了。
+junk heap, junk pile 废旧物品堆 
+junk room 废品间 
+junk shop 旧货店 
+There were bits of junk lying around. 到处都是破烂。
+sculptures made from old junk and scrap metal 用废旧物和废金属做成的雕塑 
+He made the boat out of junk materials. 他用废旧材料做了这条船。
+junk food 垃圾食品 
+junk email, junk mail 垃圾邮件 
+junk bond 垃圾债券（即高风险债券）
+junk science 垃圾科学（即没什么用的科学）
+There's nothing but junk on the TV. 电视上全是些无聊的东西。
+
+reputation (for sth/for doing sth) 人或事物基于过去所发生的事所拥有的名声，名誉。是一个常规用词，极为常用:
+reputation |[͵repju'teɪʃn]
+good, bad reputation 好名声 
+She has built up an enviable reputation as a writer. 她已经成为一名颇有名望的作家。
+international, historical reputation 国际声誉；历史上的声誉 
+corporate, professional reputation 企业声望；专业声誉 
+academic, literary, scientific reputation 学术声誉；文学声誉；科学声誉 
+Her posthumous reputation has begun to grow. 她死后名气开始渐涨。
+He has the reputation of being a hard worker. 他颇有工作勤奋的名声。
+
+vt. 阻挡道路、入口、通道等（使…不能通过）:
+vt. 遮挡视线:
+vt. 妨碍某人（或某事物）做某事，或妨碍某事的进展，尤指故意妨碍:
+vt. 阻挡道路、入口、通道等（使…不能通过）:
+vt. 遮挡视线:
+obstruct |[əbˈstrʌkt][əbˈstrʌkt]
+Tractors and container lorries have completely obstructed the road. 拖拉机和集装箱货车已经将这条路完全堵死了。
+You can't park here, you're obstructing my driveway. 你不能在这里停车，你挡住了我家的车道。
+A number of local people have been arrested for trying to obstruct lorries loaded with logs. 一些当地人因试图阻止满载原木的卡车通行而被逮捕。
+Drivers who park their cars illegally, particularly obstructing traffic flow, deserve to be punished. 非法停车的司机，尤其是那些阻断交通的，应当予以惩处。
+First check that the accident victim doesn't have an obstructed airway. 首先要确保事故受伤者的气道通畅。
+The pillar obstructed our view of the stage. 柱子挡着，我们看不见舞台。
+Claire positioned herself so as not to obstruct David's line of sight. 克莱尔为了不挡住戴维的视线挪了一下位置。
+to wilfully obstruct a police officer in the execution of his duty 蓄意妨碍警察执行公务 
+They were charged with obstructing the police in the course of their duty. 他们被指控妨碍警察执行公务。
+The authorities are obstructing a United Nations investigation. 当局正在阻挠联合国的调查。
+terrorists attempting to obstruct the peace process 企图阻碍和平进程的恐怖分子
+Tractors and container lorries have completely obstructed the road. 拖拉机和集装箱货车已经将这条路完全堵死了。
+You can't park here, you're obstructing my driveway. 你不能在这里停车，你挡住了我家的车道。
+The pillar obstructed our view of the stage. 柱子挡着，我们看不见舞台。
+Claire positioned herself so as not to obstruct David's line of sight. 克莱尔为了不挡住戴维的视线挪了一下位置。
+
+An enclosure is an area of land that is surrounded by a wall or fence and that is used for a particular purpose. 围场
+enclosure |英 [ɪn'kləʊʒə; en-]  美 [ɪn'kloʒɚ]| n. 附件；围墙；围场/
+This enclosure was so vast that the outermost wall could hardly be seen.这块圈地大得几乎看不见它最外面的围墙。
+
+
+
+telecommunication |英 [,telɪkəmjuːnɪ'keɪʃ(ə)n]  美 [,tɛlɪkə,mjʊnə'keʃən]| n. 电讯；[通信] 远程通信；无线电通讯/
+
+
+
+The custodian of a large building such as an office or a school is responsible for cleaning and maintaining it. 看管人
+The custodian of an official building, a company's assets, or something else valuable is the person who is officially in charge of it. 管理员
+custodian |英 [kʌ'stəʊdɪən]  美 [kʌ'stodɪən]| n. 管理人；监护人；保管人/
+Augustine Hancock served as an elementary-school custodian for 20 years.奥古斯丁·汉考克当小学看管人20年了。
+...the custodian of the holy shrines in Mecca and Medina.…在麦加和麦地那的圣地的管理员。
+
+
+vt. [正式] 在头脑中策划某事、考虑去做某事:
+vi. ~ (on/upon sth) 安静地沉思，尤指宗教冥想或为了使身心安宁而沉思:
+vi. 长时间仔细而深沉地思考:
+meditate |[ˈmedɪteɪt]
+They were meditating revenge. 他们在谋划进行报复。
+I was meditating, and reached a higher state of consciousness. 我在冥想，并进入了一个更高的意识境界。
+He meditated on the problem. 他仔细斟酌着这个问题。
+On the day her son began school, she meditated on the uncertainties of his future. 儿子开始上学的那一天，她就在考虑他未来的种种不确定因素了。
+
+vt.&vi. ~ sb (by doing sth) | ~ sb (with sth) 根据某人的要求（或根据自己对某人的动机的知晓）来帮忙:
+vt. [常用被动式]（法律、规定或形势）迫使某人去做某事:
+oblige |[əˈblaɪdʒ]
+Call me if you need any help─I'd be happy to oblige. 若有需要，尽管给我打电话。我很乐意帮忙。
+The staff are always willing to oblige. 员工们总是有求必应。
+Will you oblige by filling in this form? 劳驾您填一下这张表格好吗？
+Would you oblige me with some information? 拜托您给我提供些信息好吗？
+He obliged with very straightforward answers. 他坦率地给予了答复。
+duly oblige（英）一如期待地效劳 
+The fans were looking for another goal and Owen duly obliged (= scored). 正当球迷们期待再入一球时，欧文不负众望射门得分。
+Parents are obliged by law to send their children to school. 法律规定父母必须送子女入学。
+I felt obliged to ask them to dinner. 我不得不请他们吃饭。
+He suffered a serious injury that obliged him to give up work. 他受伤严重，不得已只好放弃工作。
+
+Versus is used in a court of law to indicate that two people or organizations are involved in a law suit. The abbreviation v is also used. (在法庭上) …诉…
+Versus is used to indicate that two teams or people are competing against each other in a sports event. (体育比赛中) …对…
+You use versus to indicate that two figures, ideas, or choices are opposed. 与…相对
+versus |英 ['vɜːsəs]  美 ['vɝsəs]| prep. 对；与...相对；对抗/
+That case became known as Healey versus Jones.那起讼案被称作“希利诉琼斯案”。
+Italy versus Japan is turning out to be a surprisingly well matched competition.意大利对日本队的比赛结果是一场出人意料地势均力敌的比赛。
+Only 18.8% of the class of 1982 had some kind of diploma four years after high school, versus 45% of the class of 1972.相对于1972届学生中有45%在中学毕业4年后获得了某种文凭来说，1982届学生的这一比例只有18.8%。
+
+
+ Anyone who does otherwise, either out of timidity or because of bad advice, is always obliged to keep his knife in his hand.  任何不这样做的人，或出于胆怯，或由于接受了拙劣的建议，总是被迫一直把屠刀提在手中。
+ He twitted his friend with his timidity.  他嘲笑他朋友的胆怯。
+ They mocked at my timidity.  他们耻笑我胆小。
+timidity |英 [tɪ'mɪdətɪ]  美 [tɪ'mɪdəti]| n. 胆怯，胆小；羞怯/
+
+
+
+adj. 1 [常贬]（人或其情绪）易变的、无定性的:
+2（情况、局势）易变的、易变得危险的:
+adj. [术语]（物质）易变成气体的，即易挥发的:
+volatile |[ˈvɒlətaɪl;美ˈvɑ:lətl]
+a highly volatile personality 反复无常的个性 
+He has a volatile temper. 他脾气反复无常。
+He was a dangerously volatile character. 他的性情喜怒无常。
+He accompanied the volatile actress to Hollywood the following year. 第二年他陪着这位情绪无常的女演员去了好莱坞。
+a highly volatile situation from which riots might develop 可能会出现动乱的极不稳定的局势 
+a volatile exchange rate 剧烈波动的汇率 
+There have been riots before and the situation is volatile. 以前曾发生过暴乱，现在局势不太稳定。
+The international oil markets have been highly volatile since the early 1970s. 从20世纪70年代初开始，国际石油市场就一直很不稳定。
+a highly volatile liquid 易挥发的液体 
+Petrol is a volatile substance. 汽油是挥发性物质。
+It's thought that the blast occurred when volatile chemicals exploded. 人们认为，易挥发的化学物质爆炸时产生了冲击波。
+
+~ (that…) 因受到不公对待而感到愤怒或惊讶的，如愤慨的、义愤的:
+indignant |[ɪnˈdɪgnənt]
+adj. ~ (at/about sth) 
+indignant letter, indignant look 愤慨的信函；愤慨的神情 
+She was very indignant at the way she had been treated. 她对于自己受到的待遇大为光火。
+They were indignant that they hadn't been invited. 他们因没有受到邀请而愤愤不平。
+He is indignant at suggestions that they were secret agents. 有人暗示他们可能是特务，这让他非常气愤。
+MPs were indignant that the government had not consulted them. 政府没有事先征求他们的意见，下院议员们感到很愤怒。
+She waxes indignant if anyone tries to contradict her. 如果有人想反驳，她就会愤愤不平。
+'He deserves to be punished, ' she protested, righteously indignant. "他应该受到惩罚。"她义愤填膺地抗议道。
+She became rather indignant over suggestions that she had lied. 有人暗示她说谎，她颇为愤慨。They were quite indignant at his remarks. 他们对他的言论十分恼火。
+
+vt. seal from 使与…隔绝:
+n. [C] 海豹:
+vt. 1 seal sth (up/down) 把信封等物品开着的一端用胶封上:
+2 seal sth (up) (with sth) 常用被动式，将容器等密封住，或将裂缝等填塞住，尤指使气体、液体能不能漏出:
+3 seal sth (with sth) 常用被动式，用一种物质盖住…的表面（以将其保护起来）:
+n. 1 [C] 容器、机器等上的密封装置，如一种物质，或一个金属条等，用以填充裂缝，从而防止空气或液体等进出；还可指容器或开口等的封了的部分:
+2 [C] 信件或盒子上的封口物，在打开信件或盒子前需要将其撕开，如封蜡、封条等:
+vt.（警方、军方等）关闭边境或出口，以防止人们穿过一个地方，即封锁地区:
+n. [C] 印在一份文件上的印章或图章，该图案带有某人或某个机构的权威性，也因此而表明了该文件的真实性:
+vt. [正式] 使…明确确定下来，这样就不能够被更改或争论:
+n. [sing.] 将某事明确确定下来的事物，如信物:
+seal |[si:l]
+The nuclear plant would be effectively sealed off from the world. 该核电厂将与外界完全隔离开。
+baby seal 小海豹 
+seal colony 海豹群
+to seal the envelope 封上信封 
+He sealed the bag tightly with tape. 他用胶带将袋子牢牢封住。
+to seal the food in plastic bags 将食品封入各塑料袋中 
+The unit is completely sealed. 这个装置处于完全密封状态。
+a hermetically sealed container 真空密封的容器 
+The surface of the table has been sealed with paint. 桌子的表面已经刷上了油漆。
+a rubber seal on the lid 盖子上的密封橡胶垫 
+to check the seal 检查封口 
+The seal on the box broke. 盒子上的封口破了。
+to break the wax seal 揭去封蜡
+to seal the border between the two countries 封锁两国之间的边界 
+Police sealed off the area. 警方封锁了该地区。
+royal seal 王室印章 
+a paper bearing the presidential seal（美）一份盖有总统印章的文件 
+He broke the seal and opened the envelope. 他撕下封条，拆开了信封。
+to seal a deal 达成一笔交易 
+to seal a contract 订立合同 
+to seal friendship 交朋友 
+The election will seal his destiny one way or the other. 这场选举将决定他的去留命运。
+a seal on our friendship 我们之间友谊的见证 
+a seal of love 爱情的见证（或爱情的信物等）
+a seal of approval 批准
+
+A sovereign is a king, queen, or other royal ruler of a country. 君主
+Sovereign is used to describe the person or institution that has the highest power in a country. (人或机构的权力) 至高无上的
+A sovereign state or country is independent and not under the authority of any other country. 具有独立主权的
+sovereign |英 ['sɒvrɪn]  美 [sɑvrɪn]| adj. 至高无上的；有主权的；拥有最高统治权的；不折不扣的；极好的/n. 君主；独立国；最高统治者/n. (Sovereign)人名；(英)索夫林/
+In March 1889, she became the first British sovereign to set foot on Spanish soil.1889年3月，她成为首位踏上西班牙国土的英国君主。
+Sovereign power will continue to lie with the Supreme People's Assembly.至高无上的权力将继续掌控在最高人民议会。
+Lithuania and Armenia signed a treaty in Vilnius recognizing each other as independent sovereign states.立陶宛和亚美尼亚在维尔纽斯签订了一份互相承认各自为独立主权国家的协定。
+
+
+adj. 可爱的、漂亮迷人的:
+adj. [非正式，尤美] 有性吸引力的、性感的:
+adj. [非正式，尤美] 精明的、机灵的（有时一个人利用这种精明为自己谋取私利，因而令人反感）:
+cute |[kju:t]
+a cute little baby 可爱的小宝宝 
+a cute kid 可爱的小孩 
+an unbearably cute picture of two kittens (= it seems sentimental)（英式用法）让人爱得不得了的两只小猫的图片 
+Oh, look at that dog! He's so cute. 哦，看看那条狗!它太可爱了。
+a cute little house 一栋漂亮的小房子
+Check out those cute guys over there! 瞧那边那些性感的家伙！
+There was this girl, and I thought she was really cute. 就是这个女孩，我认为她非常性感。
+She had a really cute idea. 她有一个精明绝顶的主意。
+Don't get cute with me! 别跟我耍滑头！
+The President, trying to be cute, said his liberal arts education had not really prepared him for such complicated issues as this. 总统故作精明地说道，自己所接受的文科教育并不能使自己有能力应付如此复杂的问题。
+That's a cute trick. 这是个设计巧妙的骗局。
+
+n. [U]（公务的）执行:
+n. [U] 网站的导航:
+n. [U]（船只的）航行:
+n. [U]（飞行器的）航行:
+n. [U] 为交通工具（如船只）导航、领航:
+navigation |[ˌnævɪˈgeɪʃn]
+an obstruction to navigation（法律，尤英）执行（公务的）障碍
+a well laid out design and easy navigation 布局很好的设计和容易操作的网站导航 
+Web navigation 网络导航 
+Make site navigation easy and intuitive. 使网站导航既简单又直观。
+navigation bar, navigation button, navigation menu 网站导航条；网站定位按钮；网站导航菜单 
+You can use the navigation bar at the bottom of the pictures to zoom in or out. 你可用图片下方的导航条来放大或缩小图片。
+Keep the navigation of your site really simple. 把你的站点导航弄得真正简单些。
+navigation through complex documents 在各种复杂的文件中查阅 
+A mouse or joystick makes navigation simpler. 鼠标或游戏杆使查阅变得更简单。
+the right of navigation through international waters 通过国际水域的航行权 
+freedom of navigation through international waters 在国际水域航行的自由 
+Pack ice around Iceland was becoming a threat to navigation. 冰岛周围的浮冰群曾一度对船只航行构成威胁。
+inland, ocean（尤美）, river, sea（尤英）, underwater navigation 内陆航行；海洋航行；河流航行；海上航行；水下航行 
+Rail and inland navigation together account for 30-50% of the total delivered cost. 铁路与内陆运输共占到全部运送成本的30%至50%。
+the main navigation channel on the far side of the island 该岛远侧的主航道
+accurate navigation 准确的导航 
+safe navigation 安全的导航 
+air, land, marine, maritime navigation 空中导航；陆地导航；海上导航 
+GPS, radio, satellite navigation GPS导航；无线电导航；卫星导航 
+Having used GPS navigation, it's hard to go back to using maps. 用过GPS导航，就很难再像原来那样用地图导航了。
+a maker of in-car navigation systems 车内导航系统的生产商 
+navigation aids, navigation chart, navigation device, navigation equipment, navigation instruments, navigation lights 导航器材；导航图示；导航装置；导航装备；导航仪器；导航灯具 
+a GPS navigation device GPS导航装置 
+navigation beacons for Allied air-craft 引导盟军飞机的导航灯塔 
+small boats equipped with electronic aids to navigation 备有电子导航设备的小船
+
+vt.＆vi.（脏话，不道德的行为等）使人感到受冒犯、气愤或厌恶:
+vt. 使某人震惊或惊愕（常指因涉及死亡、痛苦或因出乎人的意料而让人感到恼怒或不快）:
+n. [C, usually sing., U]（尤指对令人不快的事所产生的）震惊；或令人震惊的事:
+n. [U]（一个人身心所受到的）惊吓。通常较为突然，且程度较重:
+n. [C] 电击，相当于electric shock:
+n. [C, U]（突然撞击或拉拽所产生的）冲击力（如由爆炸、地震等所引起的剧烈震动）:
+n. [U]（尤指头发）浓密的一堆:
+n. [U]（医学上的）休克:
+shock |[ʃɒk]
+to shock people by saying outrageous things 通过说些不堪入耳的话而让人厌恶 
+The movie deliberately set out to shock. 这电影存心恶心人。
+We were all shocked to hear that he had resigned. 听到他辞职的消息，我们都很震惊。
+He was easily shocked. 他动不动就大惊小怪。
+the shock of his death 他的死亡所带来的震惊 
+The news of my promotion came as a shock. 我获提拔的消息着实让我吃了一惊。
+Once the initial shock had worn off, I got to like my new hairstyle. 我刚看到自己的新发型时有些震惊，后来就渐渐喜欢上了。
+economic, emotional shock 经济上的冲击；情感上的冲击 
+culture shock 文化冲击 
+Customers may experience sticker shock when they see the price.（美）顾客看到价签时可能会大吃一惊。
+shock troops 突击部队 
+shock tactics 突击战术 
+shock wave 冲击波；震荡 
+United suffered a shock defeat to Norwich. 曼联队意外输给了诺维奇队。
+shock victory（英，体育用语）突如其来的胜利 
+shock announcement（英）令人震惊的通知 
+The little boy was speechless with shock. 这个小男孩被吓得说不出话来。
+I nearly died of shock when your mother appeared.（非正式用法）你母亲出现时差点儿没把我吓死。
+She looked around in shock. 她惊愕地环顾四周。
+She realized with a sudden shock that she was being followed. 她突然惊恐万分地意识到自己被跟踪了。
+Drivers could be in for a nasty shock when they see the cost of renewing their insurance policies. 看到续签保险单的大笔费用，司机们都会吓一大跳。
+to get a shock 触电 
+electric shock（此时electrical不如electric常用）电击 
+shock therapy 电击疗法 
+the shock of the explosion 爆炸引起的冲击力 
+These barriers can bend and absorb the shock. 这些栅栏会弯曲，并吸收冲击力。
+deep, severe shock 深度休克；严重休克 
+mild shock 轻度休克 
+He was in shock. 他处于休克中。
+
+vt. 认为…是…；把…认为是…，是一种正式用法，且常用被动式:
+n. [C] 互联网、电子邮件等的账户、账号:
+n. [C] 对已发生事件的书面或口头描述:
+n. [C] 对一种思想或想法、理论、过程的解释或说明、叙述。其含义比explanation要模糊和广泛，其所解释的对象也比较多元化，而不像explanation那样一般仅限于对原因和原理的解释:
+n. [C] 对已发生事件的书面或口头报告:
+n. [C] 对已发生事件的书面或口头叙述:
+n. [C] 对已发生事件的书面或口头报道。不太常用:
+n. [C] 商业中的老顾客，老客户，尤指在商家处有赊账记录的客户:
+n. 1 [C] 在银行等机构所拥有的账户；在经济金融领域之外的其它各领域中所开立的非金融性账户，如电子邮件账户等:
+2 [C] 常用复数，表示商业账目，为会计学上表示“账目”之义的常规和专业用词:
+n. [C] 商店或公司、企业中记录赊购或赊销事项的账户，因此可称为“赊购账户”或“赊销账户”。（其本质是一个“账户”。英式英语也可用credit account，美式英语也可用charge account）:
+account |[ə'kaʊnt]
+In English law a person is accounted innocent until they are proved guilty. 按英格兰法律，一个人未经证实有罪之前被视为无罪。
+The event was accounted a success. 人们认为这次活动是成功的。
+Internet, email account 互联网账号；电子邮件账号
+biblical account《圣经》中的描述 
+by all accounts (= according to what people say) 根据各方面的说法
+the Biblical account of the creation of the world《圣经》对创世的解释
+a glowing account of her son’s progress 一份热情赞扬她儿子进步的报告
+Can you give us an account of what happened? 你能给我们讲述一下事情的经过吗？
+She gave the police a full account of the incident. 她向警方详尽叙述了所发生的事情。
+By his own account he had an unhappy childhood. 据他自己说，他的童年不快乐。
+media, news（美）account 媒体报道；新闻报道 
+the newspaper account of the trial 报纸对这次审判的报道
+The company has lost two accounts. 这家公司失去了两个老客户。
+bank account 银行账户 
+current account 活期账户 
+investment, savings account 投资账户；储蓄账户 
+personal account 个人账户 
+business account 公司账户 
+account number 账号 
+account balance 账户余额 
+the accounts department 会计部门 
+account book 账簿 
+profit and loss account 损益账 
+accounts payable, accounts receivable 应付账款；应收账款 
+The accounts are all in order. 所有账目都清清楚楚。
+Put it on my account please. 请记在我的赊购账上。
+We have accounts with our suppliers. 我们与供应商实行赊购制。
+expense account（由公司报销费用的）报销账户 
+to settle the account 清账 
+Call a cab on account. 打电话以赊账方式叫辆出租车。
+
+n. [C]（建筑物中用于排放废物、废水、污水等的）一个大型管道:
+n. [C]（建筑物中用于排放废物、废水、污水等的）一个大型管道:
+n. 1 [C]（将水、燃气、电输送到建筑物的）一条大型管道或大型线缆:
+2 [pl.] [英] 给一栋建筑物或一片区域供水、供气或供电的一个地方，即水源；煤气源；电源。也可指向建筑物供水、燃气、电（或将其从建筑物中输送出去）的系统:
+adj. 只作前置定语，同类中最大的或最重要的，也可叫主要的。是一个基础和常规用词:
+n. [C]（骰子游戏的）一掷:
+main |[meɪn][meɪn]
+gas, water main 煤气总管道；自来水总管道 
+The house is not yet connected to the mains. 这房子还没有通水电。
+an island without mains electricity 没有通电的一个岛 
+Turn the water off at the mains. 把自来水源关掉。
+mains drainage 排水系统 
+mains gas, mains water 燃气供应系统；自来水供应系统 
+Plug the transformer into the mains. 将变压器插入电源。
+The shaver will run off batteries or mains. 这个剃须刀可用电池或电源驱动。
+the main road 大马路 
+the main course (= of a meal) 主菜 
+main meal 正餐 
+the main building 主楼 
+main problems 主要问题 
+The main thing is to stay calm. 最重要的是要保持冷静。
+
+n. [sing.]（一个人或事物的）全部技能（或才能）:
+n. 1 [C]（也可用正式的repertory）（一个演员所能表演的）全部节目或曲目:
+2 [sing.]（某个种类的）全部剧目（或曲目）:
+n. 1 [C]（也可用正式的repertory）（一个演员所能表演的）全部曲目:
+2 [sing.]（某个种类的）全部曲目:
+repertoire |[ˈrepətwɑ:(r);美-pərt-]
+Mike's impressive repertoire of funny stories. 迈克会讲大量有趣故事的非凡才能 
+This has been one of the most successful desserts in my repertoire. 这是我会做的甜点中做得最成功的一种。
+a young child's growing verbal repertoire 小孩不断增长的语言表达能力 
+An actor has to build a character and extend his own emotional repertoire. 演员必须会塑造人物并拓展自己的情感表达技巧。
+a pianist with a wide repertoire 能演奏很多曲子的钢琴师 
+Meredith D'Ambrosio has thousands of songs in her repertoire. 梅雷迪思·丹布罗西奥会唱几千首歌曲。
+He has added considerably to his piano repertoire. 他的钢琴演奏曲目大大增加了。
+She needs to build up a repertoire of pieces. 她需要增加一些曲目。
+His repertoire includes a large number of Scottish folk songs. 他的演出曲目包括许多苏格兰民歌。
+It is no coincidence that the works in the 'standard repertoire' tend to have names. 在“标准剧目”中的作品有各自的名字并非偶然。
+ballets from the classical repertoire 经典剧目中的芭蕾舞剧 
+music, musical repertoire 音乐曲目 
+concert, opera, operatic repertoire 音乐会曲目；歌剧曲目 
+guitar, piano, vocal repertoire 吉他曲目；钢琴曲目；声乐曲目 
+The piece has deservedly entered the violin repertoire. 这首曲子理所当然地列进了小提琴演出曲目。
+a key piece in the standard concert repertoire 标准音乐会曲目中的一个主要作品
+a pianist with a wide repertoire 能演奏很多曲子的钢琴师 
+Meredith D'Ambrosio has thousands of songs in her repertoire. 梅雷迪思·丹布罗西奥会唱几千首歌曲。
+He has added considerably to his piano repertoire. 他的钢琴演奏曲目大大增加了。
+She needs to build up a repertoire of pieces. 她需要增加一些曲目。
+His repertoire includes a large number of Scottish folk songs. 他的演出曲目包括许多苏格兰民歌。
+music, musical repertoire 音乐曲目 
+concert, opera, operatic repertoire 音乐会曲目；歌剧曲目 
+guitar, piano, vocal repertoire 吉他曲目；钢琴曲目；声乐曲目 
+The piece has deservedly entered the violin repertoire. 这首曲子理所当然地列进了小提琴演出曲目。
+a key piece in the standard concert repertoire 标准音乐会曲目中的一个主要作品
+
+n. [C] [文学]（感情的）空白:
+adj. [法律]（合同、协议等）无效的:
+adj. [正式] ~ of sth 没有:
+adj. [正式] 空的:
+n. 1 [usually sing.] [正式或文学] 大大的空荡空间:
+2 [C] [文学]（情形的）空白:
+vt. [正式] 排泄（大小便）:
+vt. [法律] 正式宣布…在法律上无效:
+void |[vɔɪd]
+an aching void of loneliness 痛苦的孤寂感 
+The void left by his mother's death was never filled. 他母亲死后留下的空虚感永远没能填补上。
+It seemed that nothing could fill the aching black void left by Rachel's death. 雷切尔去世造成的痛苦空虚感似乎用什么都无法填补。
+The agreement was declared void. 该协议已宣布无效。
+The election was declared null and void. 这次选举被宣布无效。
+The original elections were declared void by the former military ruler. 前军事领导人宣布最初的选举无效。
+an impediment which rendered the marriage void 一个令婚姻无效的障碍
+The sky was void of stars. 天空没有一颗星星。
+He rose, his face void of emotion as he walked towards the door. 他站起来，面无表情地朝门口走去。
+The treaty is now void of absolute commitments. 条约现在失去了绝对的约束力。
+void spaces 空位
+Below him was nothing but a black void. 他下面只是一片漆黑。
+The ship moved silently through the black void. 船静悄悄地划过漆黑的夜。
+He stared into the dark void where the battle had been fought. 他凝望着那片漆黑的空旷之地，那次战役就是在这里进行的。
+His death has left a void in the cricketing world which can never be filled. 他的死给板球界留下一个永远无法填补的空白。
+The Supreme Court threw out the confession and voided his conviction for murder. 最高法院驳回了供词，宣布他谋杀罪名不成立。

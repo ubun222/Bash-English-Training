@@ -47,7 +47,7 @@ an opening, such as a door, passage, or gate, that allows access to a place:允�
 an act or instance of entering somewhere:进入某处的行为或实例
 the coming of an actor or performer on to a stage:演员或表演者上台
 the right, means, or opportunity to enter somewhere or be a member of an institution, society, or other body:进入某地或成为机构、社会或其他团体成员的权利、手段或机会
-fill (someone) with wonder and delight, holding their entire attention:fill（某人）充满惊奇和喜悦，全神贯注
+fill (someone) with wonder and delight, holding their entire attention:让（某人）充满惊奇和喜悦，吸引他们的全部注意力
 cast a spell on:施法
 entrance |ˈɛntrəns| Noun/Verb/:入口,使出神,进入
 the southern entrance of the palace:
@@ -55,10 +55,10 @@ at their abrupt entrance he rose to his feet:他们突然进来，他站了起�
 her final entrance is as a triumphant princess:她最后的入场是作为一个胜利的公主
 about fifty people attempted to gain entrance:约50人试图进入
 I was entranced by the city's beauty:我被这座城市的美丽迷住了
-Orpheus entranced the wild beasts:Orpheus迷住了野兽
+Orpheus entranced the wild beasts:俄耳甫斯迷住了野兽
 
 tear (something) into pieces:将（某物）撕成碎片
-wrench (something) violently:wrench（某物）猛烈地
+wrench (something) violently:猛烈地扳动（某物）
 cause great emotional pain to:造成巨大的情感痛苦
 rend |rɛnt| Verb/:撕裂,撕开
 snapping teeth that would rend human flesh to shreds:咬断人肉的牙齿
@@ -75,8 +75,8 @@ rent |rɛnt| Noun/Verb/:租,租金,出租,租赁,房租
 I cannot even afford to pay the rent on this flat:我连房租都付不起
 they rented a house together in Sussex:他们在苏塞克斯一起租房子
 he purchased a large tract of land and rented it out to local farmers:他买了一大片土地出租给当地农民
-skis or snowboards rent for $60–80 for six days:skis或滑雪板租金为80美元，为期六天
-Eddie was dismayed by the rent in the roof of the tent:Eddie对帐篷屋顶的租金感到沮丧
+skis or snowboards rent for $60–80 for six days:滑雪板或滑雪板 6 天租金为 60-80 美元
+Eddie was dismayed by the rent in the roof of the tent:埃迪对帐篷屋顶的裂缝感到沮丧
 
 a contest in which people or teams compete against each other in a particular sport:一场比赛，人们或团队在特定运动中相互竞争
 a person or thing that is equal to another in quality or strength:在质量或力量上与另一个人或事物相同的人或事物
@@ -86,12 +86,12 @@ a similar or complementary pair:相似或互补的一对
 the fact or appearance of corresponding:相应的事实或表象
 a person viewed in regard to their eligibility for marriage, especially as regards class or wealth:一个人对婚姻资格的看法，尤其是在阶级或财富方面
 a marriage:婚姻
-correspond or cause to correspond in some essential respect, make or be harmonious:correspond或导致在某些基本方面通信，使或和谐
+correspond or cause to correspond in some essential respect, make or be harmonious:在某些基本方面对应或导致对应，使或和谐
 put (someone or something) together with someone or something else appropriate or harmonious:put（某人或某事）与某人或某事一起适当或和谐
 be equal to (something) in quality or strength:在质量或强度上等于（某事）
 succeed in reaching or equalling (a standard or quality):成功达到或等于（标准或质量）
-equalize (two coupled electrical impedances) so as to bring about the maximum transfer of power from one to the other:equalize（两个耦合电阻抗），以实现从一个到另一个的最大功率传输
-place (a person or group) in competition with another:place（个人或团体）与他人竞争
+equalize (two coupled electrical impedances) so as to bring about the maximum transfer of power from one to the other:均衡（两个耦合电阻抗）以实现从一个到另一个的最大功率传输
+place (a person or group) in competition with another:让（一个人或团体）与另一个人竞争
 a short, thin piece of wood or cardboard used to light a fire, being tipped with a composition that ignites when rubbed against a rough surface:一块用来生火的短而薄的木头或硬纸板，上面涂有一种在粗糙表面摩擦时会点燃的成分
 a piece of wick or cord designed to burn at a uniform rate, used for firing a cannon or lighting gunpowder.:一根灯芯或绳索，旨在以均匀的速度燃烧，用于发射大炮或点燃火药。
 match |matʃ| Noun/Verb/:匹配,火柴,比赛
@@ -101,7 +101,7 @@ the child's identical twin would be a perfect match for organ donation:孩子的
 when the software finds a match, it writes the correct character:当软件找到匹配时，它会写入正确的字符
 the headdresses and bouquet were a perfect match:头饰和花束是绝配
 stones of a perfect match and colour:
-he was an unsuitable match for any of their girls:he不适合他们的任何女孩
+he was an unsuitable match for any of their girls:他不适合他们的任何女孩
 a dynastic match:一场王朝比赛
 try to match the colour scheme and graphics of your site to your business culture:尝试将您网站的配色方案和图形与您的企业文化相匹配
 his anger matched her own:他的怒火与她的怒火不相上下
@@ -112,7 +112,7 @@ he struck a match against the wall:他撞墙了
 
 in a high degree:高度
 used to emphasize that the following description applies without qualification:用于强调以下描述无条件适用
-actual, precise (used to emphasize the exact identity of someone or something):actual，精确（用于强调某人或某物的确切身份）
+actual, precise (used to emphasize the exact identity of someone or something):实际的，精确的（用于强调某人或某物的确切身份）
 real, genuine:真实的，真实的
 emphasizing an extreme point in time or space:强调时间或空间的极端点
 with no addition of anything else, mere:没有添加任何其他东西，仅仅是
@@ -130,7 +130,7 @@ the very thought of drink made him feel sick:一想到喝酒就觉得恶心
 (of a part of the body) red and painful, especially as the result of skin abrasion:（身体的一部分）红色和疼痛，特别是由于皮肤磨损
 (of a person's nerves) very sensitive:（一个人的神经）很敏感
 (of an emotion or quality) strong and undisguised:（情感或品质的）强烈且不加掩饰的
-frank and realistic in the depiction of unpleasant situations:frank和现实地描述不愉快的情况
+frank and realistic in the depiction of unpleasant situations:对不愉快情景的描写坦率而现实
 (of language) coarse or crude, typically in relation to sexual matters:（语言）粗俗或粗鲁，通常与性有关
 (of the weather) cold and damp, bleak:（天气）寒冷潮湿，阴冷
 new to an activity or job and therefore lacking experience or skill:新的活动或工作，因此缺乏经验或技能
@@ -141,13 +141,13 @@ raw eggs:生鸡蛋
 raw silk:生丝
 there were a number of errors in the raw data:原始数据有很多错误
 he scrubbed his hands until they were raw:他擦洗双手直到它们生涩
-Fran's nerves were raw:Fran神经紧张
+Fran's nerves were raw:弗兰神经紧张
 he exuded an air of raw, vibrant masculinity:他散发出一种原始、充满活力的阳刚之气
 a raw, uncompromising portrait:一张原始、不妥协的肖像
 a campaign against raw lyrics in rock music:反对摇滚音乐中原始歌词的运动
 a raw February night:一个原始的二月之夜
 they were replaced by raw recruits:他们被新兵取代
-oversewing is used to neaten raw edges:overswing用于整理毛边
+oversewing is used to neaten raw edges:包缝用于整理毛边
 raw tribesmen found themselves increasingly marginalised:raw部落成员发现自己越来越被边缘化
 
 wildly unreasonable, illogical, or inappropriate:非常不合理、不合逻辑或不恰当
@@ -163,7 +163,7 @@ the state or fact of being possible, likelihood:可能的状态或事实，可�
 a thing that may be chosen or done out of several possible alternatives:可以从几种可能的选择中选择或完成的事情
 unspecified qualities of a promising nature, potential:未指明的有前途的性质，潜力
 possibility |ˌpɒsɪˈbɪlɪti| Noun/:可能性,可能,也许
-relegation remains a distinct possibility:relegation仍然是一个明显的可能性
+relegation remains a distinct possibility:降级仍然是一个明显的可能性
 there is no possibility of any government achieving this level of expenditure:任何政府都不可能达到这一支出水平
 one possibility is to allow all firms to participate:一种可能性是允许所有公司参与
 the house was old but it had possibilities:房子很旧但有可能
@@ -196,26 +196,26 @@ a scapegoat.:替罪羊。
 a person, especially a sports player, who is excellent or the best in their field:一个人，尤其是体育运动员，在他们的领域非常优秀或最好
 goat |ɡəʊt| Noun/:山羊,羊
 just for once, stop acting the goat:就一次，别再演山羊了
-fans will get a chance to see the GOAT one final time in person:fans将有机会最后一次亲眼见到GOAT
+fans will get a chance to see the GOAT one final time in person:球迷将有机会最后一次亲眼看到山羊
 
 the emission of energy as electromagnetic waves or as moving subatomic particles, especially high-energy particles which cause ionization.:以电磁波或移动的亚原子粒子，特别是引起电离的高能粒子的形式发射能量。
 the energy transmitted by radiation:辐射传递的能量
 divergence out from a central point, in particular evolution from an ancestral animal or plant group into a variety of new forms:从一个中心点发散，特别是从一个祖先的动物或植物群进化成各种新的形式
 radiation |ˌreɪdɪˈeɪʃn| Noun/:辐射,放射,放射线
 background radiation:背景辐射
-evolution is a process of radiation not progression:evolution是辐射过程而不是进展过程
+evolution is a process of radiation not progression:进化是辐射的过程而不是进步
 
 a thick cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface which obscures or restricts visibility (to a greater extent than mist, strictly, reducing visibility to below 1 km):一层厚厚的微小水滴云，悬浮在地球表面或地球表面附近的大气中，模糊或限制能见度（比雾更大，严格来说，能见度降低到1公里以下）
 an opaque mass of particles in the air:空气中不透明的大量粒子
-cloudiness which obscures the image on a developed negative or print.:cloudiness模糊了显影底片或印刷品上的图像。
+cloudiness which obscures the image on a developed negative or print.:使显影底片或印刷品上的图像变模糊的浑浊。
 a state or cause of perplexity or confusion:
 (with reference to a glass surface) cover or become covered with steam:（参照玻璃表面）盖上或被蒸汽覆盖
 make (a film, negative, or print) obscure or cloudy.:使（电影、底片或印刷品）模糊或模糊。
-bewilder or puzzle:bewilder或拼图
+bewilder or puzzle:困惑或困惑
 make (an idea or situation) difficult to understand:使（一个想法或情况）难以理解
 spray with an insecticide.:喷洒杀虫剂。
 the grass which grows in a field after a crop of hay has been taken.:收割干草后长在田里的草。
-long grass left standing in a pasture and used as winter grazing.:long草留在牧场上，用作冬季放牧。
+long grass left standing in a pasture and used as winter grazing.:长草留在牧场上，用作冬季放牧。
 fog |fɒɡ| Noun/Verb/:多雾路段,雾,云
 the collision occurred in thick fog:碰撞发生在浓雾中
 a whirling fog of dust:旋转的尘雾
@@ -232,7 +232,7 @@ a living cell in which a virus multiplies.:一个病毒在其中繁殖的活细�
 a person or animal that has received transplanted tissue or a transplanted organ.:接受移植组织或移植器官的人或动物。
 a computer which stores a website or other data that can be accessed over the internet or which provides other services to a network.:存储网站或其他可通过互联网访问的数据或向网络提供其他服务的计算机。
 act as host at (an event) or for (a television or radio programme):担任（活动）或（电视或广播节目）的主持人
-store (a website or other data) on a server or other computer so that it can be accessed over the internet:store（网站或其他数据）在服务器或其他计算机上，以便可以通过Internet访问
+store (a website or other data) on a server or other computer so that it can be accessed over the internet:将（网站或其他数据）存储在服务器或其他计算机上，以便可以通过互联网访问
 a large number of people or things:一大堆人或事
 an army.:一支军队。
 (in biblical use) the angels regarded collectively.:（在圣经中使用）天使的总称。
@@ -243,9 +243,9 @@ host |həʊst| Noun/Verb/:主持人,主办,主机
 they were always gracious hosts at the numerous dinner parties they held for friends:在为朋友举办的众多晚宴上，他们总是很亲切
 your host is Stuart Macmillan:你的主人是斯图尔特麦克米伦
 Innsbruck once played host to the Winter Olympics:因斯布鲁克曾经主办过冬奥会
-Australia is host to some of the world's most dangerous animals:Australia是世界上一些最危险的动物的栖息地
-Canada was asked to host a Commonwealth conference in Ottawa:Canada应邀在渥太华举办英联邦会议
-Columbia University currently hosts some 400 websites:ColumbiaUniversity目前拥有约400个网站
+Australia is host to some of the world's most dangerous animals:澳大利亚拥有一些世界上最危险的动物
+Canada was asked to host a Commonwealth conference in Ottawa:加拿大被要求在渥太华主办英联邦会议
+Columbia University currently hosts some 400 websites:哥伦比亚大学目前拥有大约 400 个网站
 a host of memories rushed into her mind:一大堆回忆涌入她的脑海
 the starry host of heaven:天上的星辰
 there was a host of sparrows under the roof of the house:房顶下有一群麻雀
@@ -269,12 +269,12 @@ outdoors |ˌaʊtˈdɔːz| Adverb/Noun/:户外,户外活动
 it was warm enough to eat outdoors:它足够温暖，可以在户外吃饭
 a lover of the great outdoors:户外运动爱好者
 
-forward or onward movement towards a destination:forward或向前移动到目的地
+forward or onward movement towards a destination:向前或向目的地前进
 a state journey or official tour, especially by royalty.:国家旅行或官方旅行，尤其是皇室旅行。
 development towards an improved or more advanced condition:向改进或更先进的条件发展
 move forward or onward in space or time:在空间或时间上前进或前进
 develop towards an improved or more advanced condition:向改进或更先进的条件发展
-cause (a task or undertaking) to make progress:cause（一项任务或事业）取得进展
+cause (a task or undertaking) to make progress:使（一项任务或事业）取得进展
 progress |ˈprəʊɡrɛs| Noun/Verb/:进步,前进,进展,进展情况
 the darkness did not stop my progress:黑暗并没有阻止我前进
 we are making progress towards equal rights:我们正在朝着平等权利迈进
@@ -298,19 +298,18 @@ a cheese omelette:一个奶酪煎蛋卷
 
 a woman who is the head teacher in a school.:一位女性，她是一所学校的校长。
 headmistress |ˌhɛdˈmɪstrɪs| Noun/:校长,班主任
-:
 
 catch one's foot on something and stumble or fall:踩到某物并跌倒或跌倒
 cause to stumble and fall:导致跌倒
 make a mistake:犯错
 detect or expose someone in a mistake or inconsistency:检测或暴露某人的错误或不一致
 walk, run, or dance with quick light steps:以轻快的步伐行走、奔跑或跳舞
-(of words) flow lightly and easily:(ofwords)轻松流畅地流动
-activate (a mechanism), especially by contact with a switch, catch, or other electrical device:activate（一种机制），尤指通过接触开关、锁扣或其他电气设备
+(of words) flow lightly and easily:（文字）轻而易举地流动
+activate (a mechanism), especially by contact with a switch, catch, or other electrical device:激活（一种机制），尤指通过接触开关、锁扣或其他电气设备
 (of part of an electric circuit) disconnect automatically as a safety measure:（部分电路）作为安全措施自动断开
 release and raise (an anchor) from the seabed by means of a cable.:释放并通过电缆从海床升起（锚）。
-turn (a yard or other object) from a horizontal to a vertical position for lowering.:turn（院子或其他物体）从水平位置到垂直位置以降低。
-experience hallucinations induced by taking a psychedelic drug, especially LSD:experience服用迷幻药引起的幻觉，尤其是LSD
+turn (a yard or other object) from a horizontal to a vertical position for lowering.:将（院子或其他物体）从水平位置转为垂直位置以便降低。
+experience hallucinations induced by taking a psychedelic drug, especially LSD:体验服用迷幻药引起的幻觉，尤其是 LSD
 be behaving in an irrational or crazy way:行为不理性或疯狂
 go on a short journey:去短途旅行
 a journey or excursion, especially for pleasure:旅行或远足，尤其是为了消遣
@@ -327,7 +326,7 @@ a small flock of wildfowl:一小群野禽
 trip |trɪp| Noun/Verb/:旅行,绊倒,行程
 he tripped over his cat:他被他的猫绊倒了
 she shot out her foot to trip him up:她一脚踹了他一脚
-taxpayers often trip up by not declaring taxable income:taxpayers经常因不申报应税收入而绊倒
+taxpayers often trip up by not declaring taxable income:纳税人经常因不申报应税收入而犯错
 the man was determined to trip him up on his economics:那个男人决心要在他的经济上绊倒他
 they tripped up the terrace steps:他们绊倒了露台台阶
 a name which trips off the tongue:一个从舌头上跳下来的名字
@@ -336,14 +335,14 @@ the plugs will trip as soon as any change in current is detected:一旦检测到
 a couple of boys were tripping:几个男孩绊倒了
 you're tripping if you think I'm hanging around:如果你认为我在附近闲逛，你就会绊倒
 when tripping through the Yukon take some time to explore our museums:当穿越育空地区时，花点时间探索我们的博物馆
-Sammy's gone on a school trip:Sammy去学校旅行了
-the dog clocked a tremendous 27.47 secs for the 450 metres trip:thedog在450米的行程中跑出了惊人的27.47秒
-trips and falls cause nearly half of all accidents:trips和跌倒导致近一半的事故
+Sammy's gone on a school trip:萨米去学校旅行了
+the dog clocked a tremendous 27.47 secs for the 450 metres trip:这只狗在 450 米的行程中跑出了惊人的 27.47 秒
+trips and falls cause nearly half of all accidents:绊倒和跌倒占所有事故的近一半
 an occasional trip in the performance:在演出中偶尔出差
-acid trips:acid行程
+acid trips:酸行程
 it was quite a trip talking to you:和你说话真是一次旅行
 I'm not sure if she really liked me or if I was just part of her power trip:我不确定她是否真的喜欢我，或者我只是她力量之旅的一部分
-yonder comes Dalinda; I know her by her trip:yonder来达琳达；我通过她的旅行认识了她
+yonder comes Dalinda; I know her by her trip:那边来了达琳达；我通过她的旅行认识她
 she exchanged her cows for a trip of goats:她用她的奶牛换了一次山羊之旅
 a small trip of dotterel alighted on the cricket field:在板球场上的一次小旅行
 
@@ -367,7 +366,7 @@ the bulk of freight traffic was transported by lorry:大部分货运由卡车运
 he was convicted of theft and transported:他被判犯有盗窃罪并被运送
 the book transported her to new worlds:这本书把她带到了新世界
 she was transported with pleasure:她高兴地被运送
-many possess their own forms of transport:many拥有自己的交通工具
+many possess their own forms of transport:许多人拥有自己的交通工具
 the transport of crude oil:原油运输
 the invasion force sailed from Cadiz in twenty-five transports:入侵部队从加的斯乘坐二十五艘运输船
 art can send people into transports of delight:art可以让人们进入愉悦的交通中
@@ -381,9 +380,9 @@ give vent to anger, amusement, etc. in a sudden and noisy way:以突然吵闹的
 (of the skin) suddenly develop a spot, rash, or mark:（皮肤）突然出现斑点、皮疹或印记
 (of a tooth) break through the gums during normal development:（一颗牙齿）在正常发育过程中突破牙龈
 erupt |ɪˈrʌpt| Verb/:爆发,喷发,喷出
-Mount Pinatubo began erupting in June:MountPinatubo于6月开始喷发
+Mount Pinatubo began erupting in June:皮纳图博火山 6 月开始喷发
 hot lava erupted from the crust:hot熔岩从地壳中喷涌而出
-smoke bombs erupted everywhere:smoke炸弹随处喷发
+smoke bombs erupted everywhere:到处都冒出烟雾弹
 fierce fighting erupted between the army and guerrillas:军队和游击队之间爆发了激烈的战斗
 the soldiers erupted in fits of laughter:士兵们爆发出阵阵大笑
 a boil had erupted on her temple:她的太阳穴长了疖子
@@ -436,9 +435,9 @@ Happy Holidays | 节日快乐,假期快乐,快乐假期
 
 
 take (a liquid) into the mouth and swallow:将（液体）放入口中并吞下
-consume or be in the habit of consuming alcohol:consume或有饮酒的习惯
+consume or be in the habit of consuming alcohol:饮酒或有饮酒的习惯
 (of a plant or a porous substance) absorb (moisture):（植物或多孔物质的）吸收（水分）
-(of wine) have a specified flavour or character when drunk:(ofwine)醉酒时具有特定的风味或特征
+(of wine) have a specified flavour or character when drunk:（酒）喝后有特定的味道或特性
 drink |draŋk| Noun/Verb/:喝,饮料,喝酒,饮
 we sat by the fire, drinking our tea:我们坐在火炉边喝茶
 she doesn't drink or smoke:她不喝酒也不抽烟

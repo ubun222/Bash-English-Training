@@ -1,0 +1,665 @@
+impress					使钦佩，使某人铭记，压印
+association					协会，联合，联想
+package					包裹，一组事物，把...打包
+shark					鲨鱼，诈骗者，行家
+sort					种类，某种，把...分类，有点
+nurse					护士，保姆，护理，搂抱
+enemy					敌人，危害物
+grasp					紧抓，掌握，理解
+movie					电影
+the movies					电影院，电影界
+coincidence					巧合，同时发生，相符
+by sheer coincidence					纯属巧合
+appearance					到来，外表，出版，演出
+garment					衣服
+agricultural					农业的
+become					变成，发生，适合
+western					西方的
+want					要，缉拿，应该，缺乏
+in want					缺衣少食
+worry					担心，烦扰
+law					法律，定律，行为规范
+minus					减去，负的，不利的
+minus pole					负级
+thinking					理性的，思维，意见
+administration					管理，执行，政府
+eye					眼睛，注意，打量
+with a eye to					打算
+in the eyes of					在某人看来
+marriage					婚姻，婚礼，紧密结合
+a proposal of marriage					求婚
+fifty					五十
+broom					扫帚，金雀花
+a new broom sweeps clean					新官上任三把火
+represent					相当于，代表，占据，声称，象征
+near					附近，接近，几乎
+a near tragedy					近乎悲剧
+as near as I can tell					据我所知
+so near and yet so far					功亏一篑
+shabby					破破烂烂的，不公正的
+\\\\\\\\
+
+vt.＆vi. impress sb (with sth/sb)（某事物或某人）给某人留下好印象（使此人产生敬仰或钦佩之情），用在句子中时，其主语是造成印象的一方:
+vt. [正式] impress sth/itself on/upon sth 对某事物（尤指某人的头脑、想象力等）产生很大影响，即给…留下深刻印象，使铭记等:
+vt. [正式] impress sth on/upon sb（通过强调）使某人认识到（或意识到、了解到）某事是多么重要、严重等:
+impress |[ɪm'pres]
+We interviewed a number of candidates but none of them impressed us. 我们和数名申请人进行了面谈，但都没有给我们留下什么印象。
+His sincerity impressed her. 他的真诚打动了她。
+His work really impressed me. 他的作品确实给我留下了深刻印象。
+She impressed us with both the depth and range of her knowledge. 她精深而广博的知识给我们留下了深刻的印象。
+It impressed me that she remembered my name. 令我佩服的是她记得我的名字。
+I was young and easily impressed. 当时我还年轻，很容易被打动。
+The Grand Canyon never fails to impress. 大峡谷永远让人叹为观止。
+Her words impressed themselves on my memory. 她的话语我铭记在心。
+He impressed on us the need for immediate action. 他让我们认识到立刻采取行动的必要性。
+
+n. [C] 一群人为某一目的而结成的正式团体，即协会，社团，联盟等，相当于organization。强调团体或个人之间所形成的一种较为正式的或事务性的关系:
+n. [C, U] association (with sb/sth)（不同的人或组织之间的）联系或关系:
+n. [U] 事物间的因果关系:
+n. [C, usually pl.] 头脑中所激发出的联系性想法，即联想。是此义的常规用词:
+association |[ə͵səʊsɪ'eɪʃn,ə͵səʊʃɪ'eɪ-]
+the Football Association 足球协会 
+a residents’ association 居民联合会 
+private, public, voluntary association 私人社团；公共社团；志愿团体 
+arts, business, consumer, political, student, trade association 艺术团体；商业联合会；消费者协会；政治团体；学生社团；行业协会 
+a professional association for music teachers 音乐教师专业协会
+his alleged association with terrorist groups 他被指称的与恐怖组织的关联 
+the association between the two countries 两国之间的联系 
+freedom of association 结社自由 
+the traditional association of the Democrats with minority interests 民主党与少数利益集团之间的传统联系 
+His association with such criminals can only destroy him. 与这样的罪犯为伍只会毁了他。
+an association between smoking and cancer 吸烟与癌症之间的因果关系
+The seaside had all sorts of pleasant associations with childhood holidays for me. 海滨使我联想起童年假期的各种愉快情景。
+The cat soon made the association between human beings and food. 这只猫很快就把人类与食物联系起来。
+Tourists visit the city for its historical associations. 游人来该城市观光是因为其丰富的历史内涵。
+to trigger associations 引发联想
+
+vt. package sb/sth (as sth) 以某种方式来呈现…，即把…包装成…:
+vt. package sth (up) 将…（装进盒子、袋子等里）包装好（以供售卖或运输）:
+n. [C] [美] 用来包裹东西的一个盒子、袋子等；也可指该盒子（或袋子）里的东西:
+n. [C] 也可用software package，（执行某类任务的）一套程序（作为一个统一的整体来售卖和使用），即软件包:
+n. [C] 也可用package deal，指必须被整个购买或接纳下来的一套东西或想法:
+vt. package sth (up) 将…（装进盒子、袋子等里）包装好（以供售卖或运输）:
+n. [C] [尤美] 由纸或厚信封所包起来的某东西（以通过邮递、携带等方式来寄送，或作为礼物送给别人），即包裹，相当于英式常用的parcel:
+package |['pækɪdӡ]
+an attempt to package news as entertainment 把新闻包装成娱乐形式的尝试
+to packaged food, to packaged goods 包装好的食品；包装好的商品 
+The orders were already packaged up, ready to be sent. 订货已包装好待运。
+Check the list of ingredients on the side of the package. 请检查包装盒侧面的成分清单。
+a package of cookies 一包饼干
+software package 软件包 
+application package 应用软件包
+compensation, incentive, pay package 一整套补偿措施；整套激励计划；一揽子薪酬计划 
+vacation package 一整套度假方案 
+aid, assistance package 一揽子援助方案 
+package deal 一揽子交易 
+a package of measures to assist industry 扶持工业的一揽子措施
+to packaged food, to packaged goods 包装好的食品；包装好的商品 
+The orders were already packaged up, ready to be sent. 订货已包装好待运。
+A large package has arrived for you. 你有一个大包裹来了。
+suspect（英）, suspicious package 可疑包裹 
+to deliver package 递送包裹
+
+n. [C] [非正式，贬] 坑蒙拐骗的人，诈骗者:
+n. [C, U] 鲨鱼:
+shark |[ʃɑːk]
+Several sharks circled beneath the boat. 几条鲨鱼在船下打转。
+shark attack 鲨鱼的攻击 
+shark tooth 鲨鱼的牙齿
+
+vt. [尤英，非正式] 常用被动式，成功处理一个问题；妥当安排某事物或某人:
+n. [C] 在某个方面相似的一群（或一种）人或事物，如种类、类别，相当于kind。但kind还可以是不可数名词:
+vt. sort sth (into sth) 将一些事物（根据其类型等）分配到不同的组里；将一些事物（根据其类型等）按照某种秩序排列；从其他一些事物中分离出某种类型的事物:
+n. [sing.] 计算机技术中可指将数据按照某种顺序进行排列的过程，即分类、排序:
+n. [C, usually sing.] [尤英，非正式] 某一种（或某一类）人:
+sort |[sɔ:t]
+It’s our problem. We’ll get it sorted. 这是我们的问题。我们来处理。
+It’s all sorted. 一切都办妥了。
+It’s time you got yourself sorted. 现在你该把自己的事好好安排一下了。
+Leave them to sort it out among themselves. 让他们自己去解决吧。
+There are all sorts of activities for kids at the campsite.（非正式用法）在营地有为孩子们组织的各种各样的活动。
+This sort of problem is quite common. 这类问题相当普遍。
+He’s the sort of person who only cares about money. 他这种人一心只想着钱。
+The computer sorts the words into alphabetical order. 计算机按字母顺序排列这些单词。
+Rubbish can easily be separated and sorted into plastics, glass and paper. 垃圾很容易分开并归入塑料、玻璃和纸三类。
+Sort the books according to their subject matter. 按照主题把这些书分类。
+We sorted the clothes into piles. 我们把衣服分成堆。
+to do a sort 进行分类
+My brother would never cheat on his wife; he’s not that sort. 我哥哥永远不会背着妻子在外面拈花惹草，他不是那种人。
+
+vt. 小心地抱着，或小心地把…放在身体附近:
+vt. [正式] 在内心中长时间怀有某种强烈的感情、愿望或想法:
+vt. 1 给予…特殊关怀或照料:
+2 照料或护理病人或伤者:
+3 调养伤病:
+n. 1 [C] [旧时] 旧时雇主家中的女保育员（其工作为照料雇主家的婴儿或小孩）:
+2 [C] 进行婴儿或孩童护理的人，如保育员:
+vt.＆vi.（妇女或某些雌性动物）给婴儿哺乳:
+vi.（婴儿）吃母乳:
+n. [C] 护士:
+nurse |[nə:s]
+to nurse her cup of coffee 小心翼翼地捧着她的咖啡
+to nurse the pain of rejection 怀着被拒绝的痛苦 
+to nurse an ambition 胸怀壮志 
+to nurse a grudge 心怀怨恨 
+to nurse a grievance 心怀不满 
+to nurse a desire 心怀渴望
+to nurse tender young plants 悉心照料幼苗 
+to nurse cancer patients 护理癌症病人 
+to nurse my cold 调治感冒 
+to nurse a back injury 疗养背伤 
+to nurse his hurt pride（比喻用法）恢复他的自尊
+baby（美）, nursery（英）nurse 婴儿护士；托儿所保育员 
+wet nurse 乳母；奶妈
+a nursing mother 正在喂奶的母亲 
+to nurse the cubs 给幼崽喂奶 
+head nurse 护士长 
+night nurse 夜班护士 
+emergency nurse 急诊护士 
+specialist nurse 专科护士 
+nurse education 护理教育
+
+n. 1 [C] 敌人，仇人，反对者，对头:
+2 [C] enemy (of sth) 正式用法，指危害物或（阻止…成功的）大敌:
+n. [Sing., C] 敌国，敌军:
+enemy |['enɪmɪ]
+I didn’t want to make an enemy of Mr Evans. 我不想和埃文斯先生为敌。
+He has a lot of enemies in the company. 他在公司里有很多对头。
+Iraq’s traditional enemy, Iran 伊拉克的宿敌伊朗 
+common, perceived enemy 共同的敌人；假想敌 
+invisible, unseen, potential enemy 看不见的敌人；潜在的敌人 
+external, foreign enemy 外敌 
+political, public enemy 政敌；公敌 
+In today’s game England play their old enemy, Scotland. 今天的比赛中，英格兰队将和他们的老对手苏格兰队对阵。
+Birds are the natural enemies of many insect pests. 鸟类是许多害虫的天敌。
+Poverty and ignorance are the enemies of progress. 贫穷和愚昧阻碍进步。
+He has become his own worst enemy. 他成了自己最大的敌人。
+traditional enemy 宿敌 
+external enemies 外敌 
+enemy army 敌军 
+enemy defences, enemy lines, enemy positions 敌军防御工事；敌军防线；敌军阵地 
+enemy camp 敌营 
+enemy action, enemy attack, enemy fire 敌方行动；敌方袭击；敌方火力 
+enemy country 敌国 
+enemy aircraft, enemy ship 敌机；敌舰 
+behind enemy lines 在敌后 
+The document must not fall into enemy hands. 文件一定不能落入敌人手中。
+
+n. [usually sing.] 控制:
+vt. 紧紧抓住或抓牢，相当于grip。表示一个持续的状态:
+n. [usually sing.] 对…的紧抓，紧握；控制。相当于grip:
+n. [usually sing.]（获得或实现…的）能力:
+vt. 完全（或彻底）理解…，即领会，明白，领悟。表示一种事实或结果（而非一个过程）:
+n. [usually sing.]（人）对某个主题（或某些困难事实）的理解或理解力:
+vt. grasp a chance/an opportunity 毫不犹豫地抓住机会（并利用之）:
+grasp |[ɡrɑːsp]
+Don’t let the situation escape from your grasp. 别让局面失去控制。
+He slipped out of our grasp. 他摆脱我们的控制，逃走了。
+Just when victory seemed within grasp, the referee blew his whistle. 就在胜利似乎触手可及之时，裁判的哨声吹响了。
+Kay grasped him by the wrist. 凯紧紧抓住他的手腕。
+Her hands were grasping at his coat. 她双手抓着他的衣服。
+She grasped hold of the banister to support herself. 她抓住楼梯扶手以支撑自己的身体。
+I grabbed him, but he slipped from my grasp. 我紧抓着他，可他还是从我手里溜掉了。
+The ball slipped from her grasp. 球从她的手中滑落。
+The key was on a high shelf, just beyond her grasp. 钥匙在高高的架子上，她够不着。
+He kept the letter firmly in his grasp. 他紧紧地抓着那封信。
+She kicked the gun out of his grasp. 她踢掉他手中的枪。
+Success was within her grasp. 她有把握获得成功。
+She was unable to grasp how to do it. 她弄不明白这事该怎么做。
+It took him some time to grasp that he was now a public figure. 他过了些时候才意识到自己已是个公众人物了。
+I hadn’t really grasped what they were talking about. 我没有真正明白他们在谈论什么。
+He was quick to grasp the basic principles. 他很快掌握了基本原理。
+Some of these concepts are very difficult to grasp. 这些概念中有的难以理解。
+He has a good grasp of German grammar. 他德语语法掌握得很好。
+We have no intuitive grasp of the immensity of time. 我们对时间无限性没有什么感性认识。
+These ideas are all beyond his grasp. 他完全无法理解这些观点。
+a poor grasp of mathematics 数学方面的领悟力不高
+to grasp the opportunity 抓住机会
+
+n. 1 [C] [尤美] 电影，相当于film:
+2 [pl.] [尤美] the movies 可指电影艺术或电影行业，相当于cinema:
+n. [pl.] [尤美] the movies 可指去电影院看电影，相当于cinema:
+movie |['mu:vɪ]
+romance movie 言情片 
+funny movie 搞笑电影 
+violent movie 暴力影片 
+action, disaster, sci-fi, war movie 动作片；灾难片；科幻片；战争片 
+movie director 电影导演 
+movie audience 电影观众 
+movie review 电影评论 
+I’ve always wanted to work in the movies. 我一直想从事电影行业。
+Let’s go to the movies. 咱们去看电影吧。
+
+n. [sing.] [正式] 同时存在，并存:
+n. [sing.] [正式]（两个或多个意见等的）相同，一致:
+n. [C, U]（两件或多件相似或相关的事情）偶然地同时发生，即巧合:
+coincidence |[kəʊ'ɪnsɪdəns]
+the coincidence of inflation and unemployment 通货膨胀与失业的并存
+a coincidence of interests between the two partners 两个合伙人之间利益的一致
+What a coincidence! I wasn’t expecting to see you here. 真巧！我没料到会在这里见到你。
+a series of strange coincidences 一连串奇怪的巧合 
+By coincidence, we both went to the same school. 碰巧我们俩上的是同一所学校。
+
+n. [C, U]（人、事物、行为的）外观，外表，外貌，样子，印象。含义最为广泛，因为其只是从“事物之呈现”的角度来下的定义（即凡是呈现于人类感官的事物，其首先被人类感官所感知的部分都可叫做appearance），而对所形容的事物种类并不做限制:
+n. [C, usually sing.]（尤指意料之外的）抵达，到达:
+n. 1 [C, usually sing.] 某事物开始存在（或开始被看到、被使用）的时刻，即出现:
+2 [C] 出现在公共场合（尤指作为一名表演者、政治家等），或出庭:
+n. [C] 出现在公共场合（尤指作为一名表演者）:
+n. [C, usually sing.] 被广播:
+n. [C, usually sing.] 被发表:
+n. [C] 出庭:
+appearance |[ə'pɪərəns]
+personal appearance 个人仪表 
+He stopped at the mirror to check his appearance. 他停在镜子前检查自己的仪容。
+In outward appearance the two types of tomato are similar. 这两种西红柿外观上很相似。
+the general appearance of the town 城镇的整体面貌 
+Inside, the house had the appearance of a temple. 在里面看，这所房子像座庙。
+the appearance of wood 木头的外观 
+rather bird-like in appearance 外观上非常像鸟 
+He gave every appearance of enjoying himself. 他处处表现得很快活。
+To all appearances he was dead. 从一切迹象来看，他已经死了。
+The report gives an appearance of scientific credibility. 这份报告像是具有科学可信性。
+the sudden appearance of a security guard 保安人员的突然赶到
+the early appearance of daffodils in spring 春来早开的水仙 
+the appearance of organic vegetables in the supermarkets 有机蔬菜在超级市场上市 
+the virus’s first appearance 这种病毒的首次出现 
+the appearance of a new genre in music 一种新的音乐风格的诞生 
+She made a sudden appearance just as we were about to leave. 我们正要离开时，她突然出现了。
+TV appearance 在电视上露面 
+The singer’s first public appearance was at the age of eight. 这位歌手八岁时初次登台演出。
+guest appearance 以嘉宾身份露面 
+She made a cameo appearance in the movie. 她在影片中客串一个小角色。
+an appearance in the party 在聚会上露面 
+the defendant’s appearance in court 被告出庭 
+appearance fee（尤英）（体育用语）出场费 
+stage, TV appearance 舞台演出；在电视上露面 
+The singer had to cancel her scheduled appearance. 这位歌手不得不取消了事先安排的演出。
+She made a cameo appearance in the movie. 她在影片中客串一下。
+the appearance of his private life in the press 他的私生活见诸报端
+court appearance 出庭
+
+n. [C] [正式] 一件衣服:
+garment |['ɡɑːmənt]
+a strange shapeless garment that had once been a jacket 用夹克衫改成的不成形的一件衣服 
+winter garments 冬装 
+outer garment 外衣 
+finished garment 成衣 
+foundation garment 妇女紧身胸衣 
+heavy garment 沉重的衣服 
+knitted, silk garment 针织衫；真丝衣服 
+garment industry 服装行业 
+garment factory 服装厂
+
+adj. 农业的；农艺的:
+agricultural |[͵æɡrɪ'kʌltʃərəl]
+agricultural land 农业用地 
+agricultural policy 农业政策
+
+vt. 1 [正式] 无被动式，适合某人:
+2 [正式] 无被动式，使某人显得好看或漂亮，相当于suit:
+linking verb. 开始作为某事物，即变成、开始变得。是一个常规用词:
+become |[bɪ'kʌm]
+Such behaviour did not become her. 这种举止与她的身份不相称。
+Short hair really becomes you. 你理短发的确很帅。
+It was becoming more and more difficult to live on his salary. 他越来越难以靠他的工资维持生计了。
+She was becoming confused. 她开始糊涂了。
+She became queen in 1952. 她于1952年成为女王。
+The bill will become law next year. 该议案将于明年成为法律。
+
+n. [C]（描写19世纪美国西部，尤指有关牛仔生活的）电影:
+adj. 只用于名词前，也可写作Western，缩写为W，位于西方（或西部）的；面向西方（或西部）的:
+n. [C]（描写19世纪美国西部，尤指有关牛仔生活的）书籍:
+western |['westən]
+John Agar starred in westerns and war films. 约翰·阿加出演过西部片和战争片。
+western Spain 西班牙西部 
+Western Europe 西欧 
+the western slopes of the mountain 山的西坡 
+Western Asia 西亚
+
+n. [C, usually pl.] [正式] 需要（或想要）的东西:
+vt.＆vi. [非正式] 需要（某事物）。其动作发出者是事物:
+vt. 常用被动式，需要某人在场:
+vt.＆vi. 对某事怀有一种渴望或愿望，即要，想要，希望。其动作发出者是人或组织:
+n. [U, sing.] [正式] want of sth（对某东西的）缺少，缺乏:
+vt. [正式] 缺少、缺乏（某东西），相当于be short of:
+n. [U] [正式] 贫穷，贫困:
+vi. [非正式] 用于向某人提出建议，意为应该:
+want |[wɒnt]
+human want 人的需要 
+material want 物质需要 
+Society can’t satisfy all human wants. 社会不可能满足人们各方面的需要。
+We’ll want more furniture for the new office. 我们的新办公室需要添些家具。
+What this house wants is a good clean. 这房子需要好好打扫一下。
+The plants want watering daily. 这些花草需要天天浇水。
+She’s wanted immediately in the director’s office. 她得马上到主任办公室去。
+Excuse me, you’re wanted on the phone. 对不起，有你的电话。
+Do you want some more tea? 你再要点儿茶吗？
+She’s always wanted a large family. 她一直希望生一大群孩子。
+All I want is the truth. 我只想知道实情。
+The party wants her as leader. 这个政党希望由她做领袖。
+I just wanted to know if everything was all right. 我只是想知道是否一切都好。
+Do you want me to help? 你要我帮忙吗？
+We didn’t want this to happen. 我们并不希望发生这样的事情。
+I want it (to be) done as quickly as possible. 我希望这件事尽快完成。
+a want of adequate medical facilities 缺少足够的医疗设施 
+Refugees are dying for want of proper health care. 难民由于缺乏适当的卫生保健而在死亡线上挣扎。
+He doesn’t want courage. 他有的是勇气。
+Thousands of children are living in want. 成千上万的儿童生活在贫困中。
+If possible, you want to avoid alcohol. 你应尽可能避免饮酒。
+He wants to be more careful. 他应多加小心。
+You don’t want to do it like that. 你不应该那样做。
+
+vt.＆vi. worry (about/over sb/sth) 一直想着可能发生的令人不悦的事情（或自己所存在的麻烦、问题等），即担心、担忧、发愁。是此义的常规用词，最为常用:
+vt. worry sb/yourself (about sb/sth) 使担心、使担忧、使发愁:
+n. 1 [U] 担心、忧虑的一种状态，相当于anxiety:
+worry (for/to sb) 令人担忧或发愁的事:
+vt. worry sb (with sth) 烦扰、打扰或使某人不安:
+vt.（狗）通过追赶和咬来攻击动物（尤指一只羊）:
+worry |['wʌrɪ]
+Don’t worry. We have plenty of time. 不必担心。我们有很多时间。
+He’s always worrying about his weight. 他总是为自己的体重发愁。
+There’s no point in worrying over things you can’t change. 对改变不了的事情担心也没用。
+What worries me is how I am going to get another job. 使我发愁的是如何再找到工作。
+He’s worried himself sick about his daughter. 他的女儿可把他愁坏了。
+It worries me that he hasn’t come home yet. 他还没有回家，这叫我放心不下。
+This is a constant source of worry to him. 这时常使他忧心忡忡。
+to be frantic with worry 愁得要命 
+She gave her parents unnecessary worry when she forgot to call them. 她忘记给父母打电话，引起他们不必要的担心。
+business worry 生意上的担忧 
+health worry 健康方面的担心 
+family worry 家庭中的烦恼 
+my greatest worry 我最担心的事 
+The money side of things has been a constant worry. 资金方面一直令人苦恼。
+Try and forget your worries for a little while. 试着暂时忘掉你的烦恼。
+The noise never seems to worry her. 这噪音似乎从不让她厌烦。
+Don’t keep worrying him with a lot of silly questions. 别老用许多愚蠢的问题打扰他。
+Don’t worry the driver with unnecessary requests. 不要提些没必要的要求来打扰驾驶员。
+
+n. [C] 良好行为的规范，或某地（或某情形下）的行为规范:
+n. [C] 机构（或活动）的规则:
+n. [U] 法学:
+n. 1 [C] 商业、自然或科学领域中，可指规律、法则或原理，（在“原理”的义项下相当于principle。不过principle更常用。且principle此时为单数名词，而law为可数名词。另外，law有“规律”之义，而principle一般无此义）:
+2 [C] 解释自然过程的科学定律。此时也相当于principle，且二者同为可数名词，未见明显差别:
+n. 1 [U] 一国或一个社会的整体的法律体系:
+2 [U] 一项法律或法规:
+law (against sth) 针对某项罪行、协议等的一条法律或法规:
+4 [U] 法律作为一门学科或一种职业，即法学，法律行业（或律师行业）:
+5 [sing.] the law 可指在法律体系中工作的人，即执法者，法律机构，如警察:
+law |[lɔ:]
+moral laws 道德准则 
+the unspoken laws of the street 不言而喻的街头行为规范
+the laws of the Church 教会的戒律 
+The first law of kung fu is to defend yourself. 功夫的首要原则是自卫。
+the laws of cricket 板球规则 
+law school 法学院 
+to study law 学习法律
+the laws of supply and demand 供求规律 
+the first law of thermodynamics 热力学第一定律 
+the law of gravity 万有引力定律
+to be against the law 违法 
+to use any means within the law 在法律许可的范围内采用任何手段 
+to be above the law 凌驾于法律之上 
+law enforcement 执法 
+Her’s word was law in the household.（比喻用法）她的话在家就是金科玉律。
+administrative, case, civil, constitutional, criminal law 行政法；判例法；民法；宪法；刑法 
+bankruptcy, business, contract, company law 破产法；商法；合同法；公司法 
+Jewish law 犹太教法 
+federal law 联邦法律 
+Parliament voted for the bill to become law. 议会投票通过，使该议案成为法律。
+the law against the hiring of illegal immigrants 禁止雇用非法移民的法规 
+a new law on food hygiene 针对食品卫生一部新法规 
+strict gun laws 严格的枪支法 
+Judges interpret this law in different ways. 法官们对这条法律的解释各有不同。
+law school 法学院 
+Jane is studying law. 简正在学习法律。
+What made you go into law? 是什么促使你从事律师业的呢？
+a law firm 律师事务所 
+Jim is always getting into trouble with the law. 吉姆总是因惹事落到警察手里。
+
+prep. [非正式] 没有或欠缺（曾经有过的东西），与plus相反:
+prep. [非正式] 没有（曾经有过的东西），与plus相反:
+n. [C]（也可用minus sign）减号，与plus相反:
+prep. 表示温度低于零度，即零下:
+adj. 不用于名词前，用于记分或等级评定系统，指略低于诸如A、B等的分数或级别，与plus相反:
+prep. 将一个数字减去，减:
+adj. 数学中可指小于零的，即负的:
+n. [C] [非正式] 负面品质，即缺点、弊端等，与plus相反:
+adj. 使…显得负面的（或不好的），或使其显得缺乏吸引力:
+minus |['maɪnəs]
+We’re going to be minus a car for a while. 我们要过一段没有车的日子。
+We’re going to be minus a car for a while. 我们要过一段没有车的日子。
+It was minus ten. 气温为零下十度。
+I got (a) B minus (B–) in the test. 这次考试我得了个B–。
+Seven minus three is four (7–3 = 4). 七减去三等于四。
+the former Soviet Union, minus the Baltic republics and Georgia 前苏联，不包括波罗的海诸共和国及格鲁吉亚
+minus figure, minus number 负数 
+minus 65 degrees 零下65 度
+Let’s consider the pluses and minuses of changing the system. 我们来考虑一下改变系统的利弊吧。
+The minuses far outweigh that possible gain. 不利因素远远超过了那可能获得的收益。
+What are the car’s minus points (= the disadvantages)? 这车的缺点是什么？
+On the minus side, rented property is expensive and difficult to find. 不利因素是租房又贵又不好找。
+
+n. [U] 思考某事的过程，如思考，思维:
+adj. 只用于名词前，聪明且有能力认真思考某事的，如有思考力的:
+n. [U] 思想；观念:
+n. [U] 对某事物的想法或见解。此时不常用:
+thinking |['θɪŋkɪŋ]
+This topic requires a lot of deep thinking. 这个课题需要进行大量深刻的思考。
+abstract, analytical, critical thinking 抽象思维；分析性思维；批判性思维 
+creative, innovative thinking 创造性思维；创新思维 
+lateral thinking 横向思维 
+wishful thinking 痴心妄想 
+to do thinking 思考 
+to apply, to use thinking 运用思维 
+to stimulate thinking 激发思考
+the thinking woman’s magazine 理性妇女的杂志
+traditional thinking 传统观念 
+economic, political, scientific thinking 经济思想；政治思想；科学思想 
+educational thinking 教育理念 
+socialist thinking 社会主义思想 
+military, strategic thinking 军事思想；战略思想 
+feminist thinking 女权主义思想 
+government thinking on genetically modified food 政府对转基因食品的看法 
+to sb’s way of thinking 按照某人的看法
+good thinking 好主意 
+What is the current thinking on this question? 目前对这个问题的看法是什么？
+She explained the thinking behind the campaign. 她解释了发起这场运动的想法。
+It was difficult to see what the thinking was behind their decision. 很难看出他们的决定背后有什么想法。
+
+n. [C] 计划、组织和运营一个企业、学校等机构的一群人，即管理部门，行政部门:
+n. 1 [U]（企业、学校或其它机构的）管理，行政。包括计划、组织和运营活动，强调一种组织性、系统性、协调性和程序性:
+2 [U] 对某事的执行方式进行的管控、监管或协调:
+n. [U] 对某人施用药物的行为，为正式用法，如:
+n. [C] 常写作Administration，一国的政府，尤指美国政府:
+n. [U] 政府管理:
+administration |[əd͵mɪnɪs'treɪʃn][əd͵mɪnɪs'treɪʃn]
+university administration 大学行政部门 
+hospital administration 医院的行政部门
+Administration costs are passed on to the customer. 行政费用转嫁给了消费者。
+the day-to-day administration of a company 公司的日常管理工作 
+the Sales Administration department 销售管理部门 
+poor administration 管理不善 
+arts, business, educational, financial administration 艺术管理；企业管理；教育管理；财务管理 
+the administration of justice 司法
+the administration of antibiotics 抗生素的施用 
+intravenous, oral administration 静脉给药；口服 
+drug administration 给药
+federal, local, municipal, provincial, state administration 联邦政府；地方政府；市政府；省政府；州政府 
+the British colonial administration 英国殖民政府 
+civil, royal administration 民政；王政 
+Democratic administration 民主党政府 
+Bush administration 布什政府
+social administration 社会管理 
+government, public administration 政府管理；公共管理
+
+vt. 仔细地看…，尤指因想要…或怀疑…而细看，即注视。是将名词用作动词，不太常用:
+n. [C]（缝纫用针的）针眼儿，针鼻儿:
+n. [C] 衣服上的小金属环，其与挂钩配合可以将衣服扣住，即环扣，风纪扣:
+n. [C] 马铃薯的芽眼:
+n. [C, usually sing.] 看待…的眼光，视角:
+n. [sing.] 看…的能力。是一个生活化用词，相当于汉语的眼力、眼神儿或眼光:
+n. [C] 身体上的眼睛:
+adj. -eyed 用于构成形容词，指有某种眼睛的，或有…只眼睛的:
+n. [sing.] a/the eye of a/the storm, tornado, hurricane, etc. 风暴等的中心区域，即风眼:
+eye |[aɪ]
+She eyed me with alarm. 她警觉地注视着我。
+The children eyed the cakes greedily. 孩子们贪婪地盯着蛋糕。
+to thread the cotton through the eye of the needle 将棉线穿过针眼儿
+to fasten with a hook and eye 用风纪扣扣上
+an eye for moral quality 鉴别人品的眼力 
+to keep a close eye on the economy 密切关注经济情况 
+kindly, sympathetic eye 仁慈的目光；同情的目光 
+experienced, expert eye 有经验的眼光；内行的眼光 
+She can do no wrong in his eyes. 在他看来，她不会做错事。
+In the eyes of the law his knife was an offensive weapon. 从法律上看，他的刀是攻击性武器。
+You need to look at your website through the user’s eyes. 你应该从用户的角度来看自己的网站。
+the eye of an engineer 工程师的眼光 
+He pictured the scene in his mind’s eye. 他在脑海中想象这一场景。
+a keen eye for design 对设计的敏锐眼光
+sharp eye 敏锐的眼力 
+A surgeon needs a good eye and a steady hand. 外科医生需要眼明手稳。
+to open my eye 睁开我的眼睛 
+tears in her eyes 她眼中的泪水 
+I have something in my eyes. 我眼睛里进东西了。
+narrow eye 眯缝的眼睛 
+clear eye 清澈的眼睛 
+eye doctor 眼科医生 
+eye hospital 眼科医院 
+eye operation 眼部手术 
+a blue-eyed boy 蓝眼睛的男孩 
+a three-eyed creature 三眼生物
+The eye of the hurricane hit the area. 飓风中心袭击了该地区。
+
+n. 1 [C] 妻子和丈夫之间的法律关系，即结婚，婚姻。是此义的常规用词:
+2 [U] 已婚的状态:
+3 [C] 婚礼（表此义时，wedding更常用）:
+marriage |['mærɪdʒ]
+All of her children’s marriages ended in divorce. 她的孩子们最终都离了婚。
+an arranged marriage 一桩包办的婚姻 
+late marriage 晚婚 
+They don’t believe in marriage. 他们不相信婚姻。
+to save their marriage 拯救他们的婚姻 
+Their marriage took place in a local church. 他们的婚礼是在当地一所教堂里举行的。
+Christian marriage 基督教 
+civil marriage 世俗婚礼
+
+the number equivalent to the product of five and ten, half of one hundred, 50:等于五和十的乘积，一百的一半，50的数字
+the numbers from 50 to 59, especially the years of a century or of a person's life:从50到59的数字，尤其是一个世纪或一个人的一生
+fifty years old:五十岁
+fifty miles an hour:50英里一小时
+a size of garment or other merchandise denoted by fifty.:以五十表示的服装或其他商品的尺寸。
+a fifty-pound note or fifty-dollar bill.:一张五十英镑的钞票或五十美元的钞票。
+fifty |ˈfɪfti| Numeral/:五十,5
+only fifty per cent of the aircraft were serviceable:只有百分之五十的飞机可以维修
+Elvis is the icon of the Fifties:Elvis是五十年代的偶像
+she looked about fifty:她看起来大约五十岁
+I was doing about fifty:我做了大约五十
+
+n. [C] 用于扫地的扫把或扫帚:
+n. [U] 一种长有小黄花的野生灌木，可称为金雀花:
+broom |[bru:m]
+witch’s broom 女巫的扫帚 
+broom handle 扫帚柄
+
+vt. 作为某事物的一个象征，如象征、代表，相当于symbolize:
+vt. 1 represent sb/sth (as sb/sth)（尤指在图画、图片或图表中）展示某人或某事物，还可称为描绘，相当于depict:
+2 [正式] represent sb/sth (as sth) 以某种方式（尤指可能不公平地）呈现或描述某人或某事物:
+linking verb. 是某事物、等于、相当于，与constitute近义:
+vt. [正式] represent sth (to sb) 向当权者做出正式声明（以使自己的意见被知晓或为表示抗议）:
+vt. 1 常用被动式，作为某个群体的一名成员而在一场活动、会议等场合行事或讲话，即代表:
+2 正式为某人做出行动或发声，以维护其利益:
+3 无被动式，成为某事物的一个例子、典范或表现物，相当于be typical of:
+vt. represent sb/sth (as sb/sth) 在图画中展示某人或某事物，如描绘，相当于depict:
+represent |[͵reprɪ'zent]
+Each colour on the chart represents a different department. 图表中的每一种颜色都代表一个不同的部门。
+Wind direction is represented by arrows. 风向是用箭头表示的。
+The carvings represent a hunting scene. 这些雕刻作品描绘了一幅狩猎的场面。
+The book purported to represent the lives of ordinary people. 这本书声称旨在展现普通人的生活。
+The results are represented in fig.3 below. 结果如下面的图3所示。
+to represent an image accurately 精确显示图像 
+It is not clear what these symbols were intended to represent. 这些符号代表什么还不清楚。
+The risks were represented as negligible. 他们把风险说得微不足道。
+The movie represents women as victims. 该影片把妇女表现为受害者。
+This contract represents 20% of the company’s annual revenue. 这份合约相当于公司20%的年收入。
+This decision represents a significant departure from previous policy. 这个决定意味着在很大程度上背离原先的政策。
+They represented their concerns to the authorities. 他们向当局陈述了他们关心的问题。
+20 contestants representing 8 different countries 代表8个国家的20名参赛者 
+Local businesses are well represented on the committee. 委员会中有许多地方企业的代表。
+The President was represented at the ceremony by the Vice-President. 副总统代表总统出席了这次庆典。
+leaders who truly represent the interests of working families 真正代表工薪家庭利益的领导人 
+organizations claiming to represent farmers 声称代表农民的组织 
+Ms Dale is representing the defendant in the case. 在这个案件当中，戴尔女士为被告作辩护。
+Women are disproportionately represented among welfare recipients. 接受福利救济的人中女性人数过少。
+a project representing all that is good in the community 体现着社区中一切美好形象的工程 
+Those comments do not represent the views of us all. 这些言论并不是我们所有人的看法。
+
+adj. 不久以后:
+adv. 不久以后:
+prep. 时间上临近某事:
+vt.＆vi. [较正式]（在时间上）接近，靠近，临近，相当于approach。但具有一定文学性:
+adj. 随着…而来（在顺序上紧跟着…）:
+adj. near relative/relation（用于描述亲属关系）近亲的。与close未见明显差别:
+adj. 通常用nearest，近似，最相似:
+prep. 与…在品质、质量、尺寸等方面接近，相仿:
+adj. 距离近，不远，相当于close:
+adv. 在附近，距离不远:
+prep. 在…附近；靠近:
+vt.＆vi. [较正式]（在空间上）接近，靠近，临近，相当于approach。但具有一定文学性:
+prep. 拒绝与某人或某物接触:
+adv. 尤用于构成复合词，几乎，差不多:
+adj. 只用于名词前，无比较级或最高级，与…接近的，差不多的（如接近某一状态）:
+prep. 1 用于数词前，指大约，接近，上下:
+2 near (doing) sth 接近某种状态:
+vt.＆vi. [较正式]（在状态上）接近，靠近，临近，相当于approach。但具有一定文学性:
+near |[nɪə]
+The conflict is unlikely to be resolved in the near future. 冲突短期内不可能解决。
+The exams are drawing near. 考试越来越近了。
+My birthday is very near Christmas. 我的生日离圣诞节很近。
+I’ll think about it nearer (to) the time. 到时候我会考虑的。
+near midday 近中午时分 
+near the end of his life 在他的生命快到尽头时 
+The project is nearing completion. 这项工程就要竣工了。
+She was nearing the end of her life. 她已经临近生命的尽头。
+Christmas neared. 快过圣诞节了。
+He must have been nearing fifty. 他肯定快50岁了。
+She has a 12-point lead over her nearest rival. 她领先紧随其后的对手12分。
+near relatives 近亲
+He was the nearest thing to a father she had ever had. 她接触过的人中，他最像个父亲。
+It would appear that the legal profession is the nearest thing to a recession-proof industry. 看起来法律行业最接近于一种不怕经济衰退的行业。
+Nobody else comes near her in intellect. 谁也赶不上她聪明。
+He’s nearer 70 than 60. 他60多岁，快70岁了。
+This colour is nearest (to) the original. 这种颜色最接近原色。
+Often her feelings were nearer hatred than love. 她的感情往往更像是恨，而不是爱。
+His house is very near. 他的房子就在附近。
+Where’s the nearest bank? 最近的银行在哪儿？
+He collapsed into the nearest chair. 他瘫在最近的椅子上。
+A bomb exploded somewhere near. 一颗炸弹在附近爆炸。
+She took a step nearer. 她走近一步。
+Visitors came from near and far. 游客来自四面八方。
+He crouched as near to the door as he could. 他蜷缩在尽可能靠近门的地方。
+Do you live near here? 你住在这附近吗？
+Don’t come near me. 别靠近我。
+He drew his chair nearer the fire. 他把他的椅子向炉火拉近了些。
+We neared the top of the hill. 我们快到山顶了。
+He will absolutely not go near a hospital. 他绝不去医院。
+a near-perfect performance 近乎完美的表演 
+I’m as near certain as can be. 我几乎完全可以确定。
+his near fatal accident two years ago 两年前那场险些让他丧命的事故
+The election proved to be a near disaster for the party. 这次选举对这个党派来说几乎是一场灾难。
+a near impossibility 几乎不可能的事 
+The firm came near to bankruptcy. 这家公司濒临破产。
+She was believed to have died in near poverty. 人们相信，她死时几乎一贫如洗。
+Share prices are near their record high of last year. 股票价格接近去年的最高纪录。
+Profits fell from $11 million to nearer $8 million. 利润从1100万美元下跌到大约800万美元。
+a state near (to) death 濒临死亡 
+She was near to tears. 她就要哭了。
+We came near to being killed. 我们差点丢了性命。
+
+adj. 1（衣服）由于被使用次数太多而破烂的、破旧的，相当于scruffy:
+2（人）衣着破旧的，相当于scruffy:
+3（建筑物、物品等）由于被使用次数太多而破烂的、破旧的，相当于scruffy:
+adj.（行为）不公平的；不合理的。相当于shoddy:
+shabby |['ʃæbɪ]
+shabby old jeans 破旧的牛仔裤 
+The old man was shabby and unkempt. 老头蓬头垢面，衣衫褴褛。
+She tried to make up for her shabby treatment of him. 她先前待他不好，这时候想弥补一下。

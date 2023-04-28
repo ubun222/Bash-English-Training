@@ -53,7 +53,6 @@ he dined outdoors, comforted by the crackling sounds of the fire:他在户外用
 
 the activity of visiting places of interest in a particular location:参观特定地点的名胜古迹的活动
 sightseeing |ˈsʌɪtˌsiːɪŋ| Noun/:,游览
-:
 
 a meeting of an official body, especially a legislature, council, or court of law, to conduct its business:官方机构的会议，尤其是立法机关、理事会或法院，以开展其业务
 a period during which an official body meets regularly to conduct its business:官方机构定期开会开展业务的时期
@@ -66,7 +65,7 @@ session |ˈsɛʃən| Noun/:会议,会话,届会
 the governor called this week's special session to reconsider the decision:州长召集本周的特别会议重新考虑该决定
 legislation to curb wildcat strikes will be introduced during the coming parliamentary session:legislation以遏制野猫罢工将在即将到来的议会会议期间推出
 gym is followed by a training session:gym之后是培训课程
-he did the sessions for a Great Country Hits album:he为GreatCountryHits专辑制作了课程
+he did the sessions for a Great Country Hits album:他为一张 Great Country Hits 专辑做了录音
 it was one hell of a session— we must have drunk about 12 cocktails each:这是一场地狱般的会议——我们每个人一定喝了大约12杯鸡尾酒
 
 an object for a child to play with, typically a model or miniature replica of something:一个供孩子玩耍的物体，通常是某物的模型或微型复制品
@@ -75,13 +74,13 @@ a person treated by another as a source of pleasure or amusement rather than wit
 denoting a diminutive breed or variety of dog:表示小型犬种或品种
 move or handle (an object) absent-mindedly or nervously:心不在焉或紧张不安地移动或处理（物体）
 eat or drink (something) in an unenthusiastic way:以不热情的方式吃或喝（某事）
-consider (an idea or proposal) casually or indecisively:consider（一个想法或提议）随便或优柔寡断
+consider (an idea or proposal) casually or indecisively:漫不经心地或优柔寡断地考虑（一个想法或建议）
 treat (someone or their feelings) in a superficially amorous way:以表面上多情的方式对待（某人或他们的感受）
 toy |tɔɪ| Noun/Verb/:玩具,玩具的,玩弄,游戏
 in 1914 the car was still a rich man's toy:在1914年，汽车仍然是富人的玩具
 a man needed a friend, an ally, not an idol or a toy:男人需要朋友、盟友，而不是偶像或玩具
 a toy poodle:一只玩具贵宾犬
-Alan toyed with his glasses:Alan玩弄他的眼镜
+Alan toyed with his glasses:艾伦玩弄着他的眼镜
 as the courses came and went, she could only toy with her food:课程来来去去，她只能玩弄她的食物
 I was toying with the idea of writing a book:我在玩弄写一本书的想法
 he had been toying with her that day on the river:那天他在河边玩弄她
@@ -91,7 +90,7 @@ the setting of questions on a set text to test understanding, as a school exerci
 inclusion.:包含。
 the inclusion of Nonconformists within the Established Church of England (as proposed in the 17th to 19th centuries but not adopted).:将不墨守成规者纳入英国国教（在17至19世纪提出但未被采纳）。
 comprehension |ˌkɒmprɪˈhɛnʃn| Noun/:理解,理解力,领悟力
-some won't have the least comprehension of what I'm trying to do:some不会对我正在尝试做的事情有最少的理解
+some won't have the least comprehension of what I'm trying to do:有些人对我正在尝试做的事情一无所知
 
 not successful:不成功
 unsuccessful |ˌʌnsəkˈsɛsf(ʊ)l| Adjective/:不成功,失败的
@@ -120,13 +119,13 @@ the quality of being well organized and systematic in thought or action:思想�
 method |ˈmɛθəd| Noun/:方法,法
 a method for software maintenance:一种软件维护方法
 historical study is the rigorous combination of knowledge and method:历史研究是知识与方法的严谨结合
-Paula was at least hip to the Method:Paula至少对方法很满意
+Paula was at least hip to the Method:宝拉至少对这种方法很熟悉
 
 a quantity of precious metals, gems, or other valuable objects:一定数量的贵金属、宝石或其他贵重物品
 a very valuable object:一个非常有价值的物品
 a much loved or highly valued person:一个深爱或高度重视的人
 keep carefully (a valuable or valued item):小心保管（贵重物品）
-value highly:value高度
+value highly:高度重视
 treasure |ˈtrɛʒə| Noun/Verb/:宝藏,珍视,宝,珍宝
 the ransom was to be paid in diamonds and treasure:赎金将以钻石和宝藏支付
 she set out to look at the art treasures:她开始看艺术珍品
@@ -159,7 +158,7 @@ show approval or praise by clapping:通过鼓掌表示赞同或表扬
 show strong approval of (a person or action), praise:显示对（一个人或一个动作）的强烈认可，表扬
 applaud |əˈplɔːd| Verb/:鼓掌,掌声
 the crowd whistled and applauded:人群吹口哨鼓掌
-Jill applauded the decision:Jill为这个决定鼓掌
+Jill applauded the decision:吉尔为这个决定鼓掌
 
 the whole system and structure of a language or of languages in general, usually taken as consisting of syntax and morphology (including inflections) and sometimes also phonology and semantics.:一种语言或一般语言的整个系统和结构，通常被视为由句法和形态（包括变形）组成，有时还包括语音和语义。
 a particular analysis of the system and structure of language or of a specific language:对语言或特定语言的系统和结构的特定分析
@@ -198,19 +197,19 @@ the zodiacal sign or constellation Pisces.:黄道星座或双鱼座。
 used in names of invertebrate animals living wholly in water, e.g. cuttlefish, shellfish, jellyfish.:用于完全生活在水中的无脊椎动物的名称，例如13
 a torpedo.:a鱼雷。
 a person who is strange in a specified way:一个以特定方式奇怪的人
-catch or try to catch fish, typically by using a net or hook and line:catch或尝试捕鱼，通常使用网或鱼钩和线
-catch or try to catch fish in (a particular body of water):catch或尝试在（特定水域）捕鱼
+catch or try to catch fish, typically by using a net or hook and line:捕捉或尝试捕捉鱼，通常使用网或鱼钩和线
+catch or try to catch fish in (a particular body of water):在（特定的水体）中捕捉或试图捕捉鱼
 search by groping or feeling for something concealed:通过摸索或感觉来寻找隐藏的东西
 try subtly or deviously to elicit a response or some information from someone:尝试巧妙地或狡猾地从某人那里得到回应或一些信息
 pull or take something out of water or a receptacle:从水或容器中拉出或取出东西
 a flat plate that is fixed on a beam or across a joint in order to give additional strength.:固定在横梁上或跨接缝以提供额外强度的平板。
 a long, slightly curved piece of wood that is lashed to a ship's damaged mast or spar as a temporary repair.:
-mend or strengthen with a fish.:mend或用鱼加强。
-join (rails in a railway track) with a fishplate.:join（铁轨中的铁轨）带有鱼尾板。
+mend or strengthen with a fish.:用鱼修补或加强。
+join (rails in a railway track) with a fishplate.:用鱼尾板连接（铁轨中的铁轨）。
 fish |fɪʃ| Noun/Verb/:鱼,钓鱼,捕鱼,鱼类
 the huge lakes are now devoid of fish:巨大的湖泊现在没有鱼了
 a dinner of meat, dried fish, and bread:一顿有肉、鱼干和面包的晚餐
-he is generally thought to be a bit of a cold fish:he一般被认为有点冷鱼
+he is generally thought to be a bit of a cold fish:他一般被认为有点冷鱼
 he was fishing for pike:他在钓梭子鱼
 many of the lochs we used to fish are now affected by forestry:许多我们过去捕鱼的湖泊现在都受到林业的影响
 he fished for his registration certificate and held it up to the policeman's torch:他拿起他的登记证，把它举到警察的火炬前
@@ -253,9 +252,9 @@ a hot glowing body of ignited gas that is generated by something on fire:由着�
 a thing compared to a flame's ability to burn fiercely or be extinguished:与火焰猛烈燃烧或熄灭的能力相比的事物
 a brilliant orange-red colour like that of flames:如火焰般绚丽的橙红色
 a vitriolic or abusive message posted on the internet or sent by email, typically in quick response to another message:在互联网上发布或通过电子邮件发送的尖刻或辱骂性消息，通常是为了快速回复另一条消息
-burn and give off flames:burn并放出火焰
+burn and give off flames:燃烧并放出火焰
 set (something) alight:set（某物）着火
-shine or glow like a flame:shine或像火焰一样发光
+shine or glow like a flame:像火焰一样闪耀或发光
 (of a person's face) suddenly become red with intense emotion, especially anger or embarrassment:（一个人的脸）突然变得通红，特别是愤怒或尴尬
 direct a vitriolic or abusive message at (someone) on the internet or via email:在互联网上或通过电子邮件向（某人）发送尖刻或辱骂性信息
 flame |fleɪm| Noun/Verb/:火焰,火
@@ -265,7 +264,7 @@ send out an unsolicited email and you could possibly receive thousands of flames
 a great fire flamed in an open fireplace:在开放式壁炉中燃烧的大火
 warm the whisky slightly, pour over the lobster, and flame it:将威士忌稍微加热，倒在龙虾上，然后点燃
 her thick hair flamed against the light:她浓密的头发在灯光下燃烧
-Jess's cheeks flamed:Jess的脸颊发烫
+Jess's cheeks flamed:杰斯的脸颊发烫
 your opinions and mine are probably different, but please don't flame me:你的意见和我的可能不同，但请不要喷我
 
 the natural agent that stimulates sight and makes things visible:刺激视觉并使事物可见的天然物质
@@ -294,10 +293,10 @@ the plant requires good light:植物需要良好的光照
 a shrewd light entered his eyes:一道精明的光芒进入他的眼中
 leaving the police to do the job according to their lights:让警察照灯办事
 she saw light dawn on the woman's face:她看到了女人脸上的曙光
-sunshine will brighten the natural lights in your hair:sunshine将照亮你头发中的自然光
+sunshine will brighten the natural lights in your hair:阳光会照亮你头发上的自然光
 he asked me for a light:他向我要一盏灯
 the bedroom has a wide bay with leaded lights:卧室有一个带铅灯的宽敞海湾
-volunteers have been the shining lights of the community:volunteers一直是社区的耀眼之光
+volunteers have been the shining lights of the community:志愿者一直是社区的明灯
 
 no person, no one:没有人，没有人
 a person of no importance or authority:一个不重要或无权威的人
@@ -312,32 +311,32 @@ a goal or purpose:一个目标或目的
 a noun or noun phrase governed by an active transitive verb or by a preposition:由主动及物动词或介词支配的名词或名词短语
 a data construct that provides a description of anything known to a computer (such as a processor or a piece of code) and defines its method of operation:一种数据结构，它提供对计算机已知的任何事物（例如处理器或一段代码）的描述并定义其操作方法
 say something to express one's opposition to or disagreement with something:说某事来表达自己对某事的反对或不同意
-cite as a reason against something:cite作为反对某事的理由
+cite as a reason against something:引用作为反对某事的理由
 object |ˈɒbdʒɪkt| Noun/Verb/:目的,反对,对象,客体
 he was dragging a large object:他拖着一个大物件
 disease became the object of investigation:disease成为调查对象
 the Institute was opened with the object of promoting scientific study:研究院以促进科学研究为目标成立
 in Gaelic the word order is verb, subject, object:在盖尔语中，词序是动词、主语、宾语
 the interface treats most items, including cells, graphs, and buttons, as objects:该界面将大多数项目（包括单元格、图形和按钮）视为对象
-Bryant objects this very circumstance to the authenticity of the Iliad:Bryant反对伊利亚特的真实性
+Bryant objects this very circumstance to the authenticity of the Iliad:布莱恩特反对这种情况以证明《伊利亚特》的真实性
 
 a day on which one works:工作的一天
 workday |ˈwəːkdeɪ| Noun/:工作日,个工作日
-Saturdays were workdays for him:Saturdays是他的工作日
+Saturdays were workdays for him:星期六是他的工作日
 
 a thin flexible strip of plastic or other material coated with light-sensitive emulsion for exposure in a camera, used to produce photographs or motion pictures:一条薄薄的塑料或其他涂有感光乳剂的材料，用于在相机中曝光，用于制作照片或电影
 material in the form of a very thin flexible sheet:材料以非常薄的柔性片材的形式
 a thin layer covering a surface:覆盖表面的薄层
 a fine thread or filament:细线或细丝
 a story or event recorded by a camera as a set of moving images and shown in a cinema or on television:一个故事或事件由摄像机记录为一组运动图像并在电影院或电视上放映
-cinema considered as an art or industry:cinema被视为艺术或产业
-capture on film as part of a series of moving images, make a film of (a story, event, or book):captureonfilm作为一系列动态图像的一部分，制作一部（故事、事件或书籍）的电影
+cinema considered as an art or industry:电影被视为一种艺术或行业
+capture on film as part of a series of moving images, make a film of (a story, event, or book):捕捉电影作为一系列移动图像的一部分，制作电影（故事、事件或书籍）
 be well or badly suited to portrayal in a film:无论好坏都适合在电影中扮演
 become or appear to become covered with a thin layer of something:变成或看起来被一层薄薄的东西覆盖
 film |fɪlm| Noun/Verb/:电影,拍摄电影,薄膜,胶卷
 he had already shot a whole roll of film:他已经拍了一整卷胶卷
 clear plastic film between the layers of glass:透明塑料薄膜层间玻璃
-she quickly wiped away the light film of sweat:she迅速擦去那薄薄的汗水膜
+she quickly wiped away the light film of sweat:她迅速擦去那薄薄的汗水膜
 films of silk:丝绸电影
 a horror film:一部恐怖片
 a critical overview of feminist writing on film:对电影女权主义写作的批判性概述
@@ -361,7 +360,7 @@ she was sitting immediately behind me:她就坐在我身后
 they would be the states most immediately affected by any such action:他们将是受任何此类行动最直接影响的州
 let me know immediately she arrives:马上告诉我她来了
 
-fill (someone) with the urge or ability to do or feel something, especially to do something creative:fill（某人）有做或感觉某事的冲动或能力，尤其是做一些有创意的事情
+fill (someone) with the urge or ability to do or feel something, especially to do something creative:使（某人）充满做某事或感受某事的冲动或能力，尤其是做一些有创意的事情
 create (a feeling, especially a positive one) in a person:在一个人身上创造（一种感觉，尤其是积极的感觉）
 animate someone with (a feeling):用（一种感觉）使某人动起来
 give rise to:引起
@@ -437,7 +436,7 @@ an appointment diary.:约会日记。
 agenda |əˈdʒɛndə| Noun/:议程,日程
 the question of nuclear weapons had been removed from the agenda:核武器问题已从议程中删除
 he vowed to put jobs at the top of his agenda:他发誓要把工作放在他议程的首位
-Miller has his own agenda and it has nothing to do with football:Miller有自己的议程，与足球无关
+Miller has his own agenda and it has nothing to do with football:米勒有他自己的议程，这与足球无关
 
 a course or principle of action adopted or proposed by an organization or individual:一个组织或个人采取或提出的行动方针或原则
 prudent or expedient conduct or action:谨慎或权宜的行为或行动

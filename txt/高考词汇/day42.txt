@@ -42,8 +42,8 @@ situated at, forming, or denoting the end of a part or series of parts furthest 
 (of a flower, inflorescence, etc.) borne at the end of a stem or branch:（花、花序等）生于茎或枝的末端
 (of a disease) predicted to lead to death, especially slowly, incurable:（一种疾病）预计会导致死亡，尤其是缓慢的，无法治愈的
 suffering from or relating to a terminal disease:患有或与绝症有关
-extreme and usually beyond cure or alteration (used for emphasis):extreme，通常无法治愈或改变（用于强调）
-done or occurring each school, college, university, or law term:done或发生在每个学校、学院、大学或法律学期
+extreme and usually beyond cure or alteration (used for emphasis):极端且通常无法治愈或改变（用于强调）
+done or occurring each school, college, university, or law term:在每个学校、学院、大学或法律学期完成或发生
 the end of a railway or other transport route, or a station at such a point:铁路或其他运输路线的终点，或该地点的车站
 a departure and arrival building for air passengers at an airport.:机场的航空旅客出发和到达大楼。
 an installation where oil or gas is stored at the end of a pipeline or at a port.:在管道末端或港口储存石油或天然气的装置。
@@ -66,9 +66,9 @@ have a close similarity, match or agree almost exactly:具有高度相似性，�
 be analogous or equivalent in character, form, or function:在字符、形式或功能上相似或相当
 communicate by exchanging letters, emails, or other messages:通过交换信件、电子邮件或其他信息进行交流
 correspond |ˌkɒrɪˈspɒnd| Verb/:对应,通信
-the carved heads described in the poem correspond to a drawing of Edgcote House:诗中描述的雕刻头像对应EdgcoteHouse的图画
+the carved heads described in the poem correspond to a drawing of Edgcote House:诗中描述的雕刻头对应埃奇科特之家的图纸
 the rank of Feldwebel in the German forces nominally corresponded to the British rank of sergeant:德军中费尔德韦贝尔的军衔名义上相当于英国军衔
-Margaret corresponded with him until his death:Margaret一直与他通信直到他去世
+Margaret corresponded with him until his death:玛格丽特与他通信直至他去世
 
 a state of armed conflict between different countries or different groups within a country:不同国家或国家内部不同群体之间的武装冲突状态
 a state of competition or hostility between different people or groups:不同人或群体之间的竞争或敌对状态
@@ -95,7 +95,7 @@ the one-time sleepy world of pensions:一度沉睡的养老金世界
 an unexpected or astonishing event, fact, etc.:意外或惊人的事件、事实等。
 a feeling of mild astonishment or shock caused by something unexpected:一种意外的事情引起的轻微的惊讶或震惊的感觉
 denoting something done or happening unexpectedly:表示某事已完成或意外发生
-denoting a complex method of change-ringing:表示一个复杂的change-ringing方法
+denoting a complex method of change-ringing:表示一个复杂的变化响铃方法
 surprise |səˈprʌɪz| Noun/Verb/:惊喜,使惊喜,令人惊讶的,吃惊
 the announcement came as a complete surprise:公告完全出乎意料
 much to her surprise, she'd missed him:令她惊讶的是，她想念他
@@ -127,8 +127,8 @@ wet or moisten (something) thoroughly:wet或彻底润湿（某物）
 be carried by flowing water:被流水承载
 (especially of waves) sweep or splash in a particular direction:（尤其是波浪）向特定方向扫过或飞溅
 (of a river, sea, or lake) flow through or lap against (a country, coast, etc.):（河流、海洋或湖泊的）流过或接触（国家、海岸等）
-sift metallic particles from (earth or gravel) by running water through it:sift通过流水从（泥土或砾石）中分离出金属颗粒
-brush with a thin coat of dilute paint or ink:brush涂上一层稀薄的油漆或墨水
+sift metallic particles from (earth or gravel) by running water through it:通过流水从（泥土或砾石）中筛出金属颗粒
+brush with a thin coat of dilute paint or ink:刷上一层薄薄的稀释油漆或墨水
 coat inferior metal with (a film of gold or silver from a solution):涂层劣质金属（溶液中的金或银膜）
 seem convincing or genuine:看起来令人信服或真实
 an act of washing something or an instance of being washed:洗东西的动作或被洗的实例
@@ -140,8 +140,8 @@ a medicinal or cleansing solution:一种药用或清洁溶液
 a layer of paint or metal spread thinly on a surface:在表面上薄薄的一层油漆或金属
 silt or gravel carried by a stream or river and deposited as sediment.:淤泥或砾石由溪流或河流携带并作为沉积物沉积。
 a sandbank exposed only at low tide.:一个只在退潮时露出的沙洲。
-kitchen slops and other food waste fed to pigs.:kitchenslops和其他喂给猪的食物垃圾。
-malt fermenting in preparation for distillation.:malt发酵准备蒸馏。
+kitchen slops and other food waste fed to pigs.:用来喂猪的厨房污水和其他食物垃圾。
+malt fermenting in preparation for distillation.:麦芽发酵准备蒸馏。
 a situation or result that is of no benefit to either of two opposing sides:对双方任何一方都无益的情况或结果
 wash |wɒʃ| Noun/Verb/:洗,洗涤,清洗,冲洗
 Auntie Lou had washed all their clothes:楼阿姨把衣服都洗好了
@@ -149,14 +149,14 @@ he reached for the soap and began to wash:他伸手去拿肥皂开始洗
 a linen-mix yarn which washes well:一种很好洗的亚麻混纺纱
 I need someone to cook and wash for me:我需要有人为我做饭和洗衣服
 you are beautiful with your face washed with rain:雨洗脸的你很美
-floods washed away the bridges:floods冲走了桥梁
+floods washed away the bridges:洪水冲毁了桥梁
 an oil slick washed up on the beaches:海滩上的浮油
 the sea began to wash along the decks:大海开始冲刷甲板
 offshore islands washed by warm blue seas:近海岛屿被温暖的蓝色海水冲刷
 the sand has been churned and washed by miners:沙子已经被矿工搅动和清洗过
 the walls were washed with shades of umber:墙壁用深棕色洗过
 copper washed with silver:铜水洗银
-charm won't wash with this crew:charm不会和这个船员一起洗
+charm won't wash with this crew:魅力不会与这个船员一起洗
 her hair needs a wash:她的头发需要洗
 she hung out her Tuesday wash:她在星期二洗衣服
 the wash of a motorboat:摩托艇的洗涤
@@ -188,9 +188,9 @@ a man wearing a raincoat and a flat cap:一个穿着雨衣和平帽的男人
 a shower cap:a浴帽
 he has won three caps for Scotland:他为苏格兰队赢得了三场比赛
 a former naval officer and rugby cap:a前海军军官和橄榄球帽
-school-leavers in cap and gown:school-leavers在帽子和长袍
+school-leavers in cap and gown:毕业帽和长袍
 a glass bottle with a screw cap:一个带螺旋盖的玻璃瓶
-he raised the cap on local authority spending:he提高了地方政府支出的上限
+he raised the cap on local authority spending:他提高了地方政府支出的上限
 
 feelings of anger or antipathy resulting in hostile or violent behaviour, readiness to attack or confront:愤怒或反感情绪导致敌对或暴力行为，准备攻击或对抗
 the action of attacking without provocation:无挑衅的攻击动作
@@ -211,22 +211,22 @@ a distribution of profits to holders of an insurance policy.:向保险单持有�
 an extra and unexpected advantage:一个额外的和意想不到的优势
 bonus |ˈbəʊnəs| Noun/:奖金,红利
 big Christmas bonuses:big圣诞红利
-good weather is an added bonus but the real appeal is the landscape:goodweather是一个额外的好处，但真正吸引人的是风景
+good weather is an added bonus but the real appeal is the landscape:好天气是额外的好处，但真正吸引人的是风景
 
 let or make (something) fall vertically:let或使（某物）垂直下落
 deliver (supplies or troops) by parachute:通过降落伞交付（补给或部队）
-score (a goal) by a drop kick:score（一个进球）由落球
+score (a goal) by a drop kick:踢球得分（进球）
 (of an animal) give birth to (young).:（动物的）生下（年轻的）。
-take (a drug, especially LSD) orally:take（一种药物，尤其是LSD）口服
+take (a drug, especially LSD) orally:口服（一种药物，尤指LSD）口服
 fall vertically:垂直落下
 (of a person) allow oneself to fall, let oneself down without jumping:（一个人的）让自己跌倒，让自己跌倒而不跳
 (of a person or animal) sink to or towards the ground:（人或动物）沉入或沉入地面
-collapse or die from exhaustion:collapse或死于精疲力竭
+collapse or die from exhaustion:崩溃或因疲惫而死
 (of ground) slope steeply down:（地面）陡峭向下倾斜
 make or become lower, weaker, or less:makeor变低、变弱或变小
-abandon or discontinue (a course of action or study):abandon或停止（行动或研究过程）
-discard or exclude (someone or something):discard或排除（某人或某事）
-stop associating with:stop关联
+abandon or discontinue (a course of action or study):放弃或中止（行动或研究的过程）
+discard or exclude (someone or something):丢弃或排除（某人或某物）
+stop associating with:停止关联
 set down or unload (a passenger or goods), especially on the way to somewhere else:放下或卸载（乘客或货物），尤其是在去别的地方的路上
 put or leave in a particular place without ceremony or formality:把或离开一个特定的地方没有仪式或形式
 mention in passing, typically in order to impress:顺便提及，通常是为了给人留下深刻印象
@@ -257,7 +257,7 @@ drop |drɒp| Noun/Verb/:降低,水滴,下降,降,滴
 the fire was caused by someone dropping a lighted cigarette:火灾是由有人掉下点燃的香烟引起的
 the airlift dropped food into the camp:空运把食物送进营地
 he dropped a goal to beat England in the final minute:他在最后一分钟丢球击败英格兰
-he dropped a lot of acid in the Sixties:he在60年代滴了很多酸
+he dropped a lot of acid in the Sixties:他在60年代滴了很多酸
 the spoon dropped with a clatter from her hand:勺子从她手里哐当一声掉了下来
 they escaped by climbing out of the window and dropping to the ground:他们从窗外爬到地上逃走了
 he dropped to his knees in the mud:他跪在泥里
@@ -268,26 +268,26 @@ they were dropped from the team in the reshuffle:他们在改组中被淘汰出�
 I was under pressure from family and friends to drop Barbara:我在家人和朋友的压力下放弃芭芭拉
 his mum dropped him outside and drove off to work:他妈妈把他送到外面然后开车去上班
 just drop it in the post when you've got time:只要你有时间就把它放在帖子里
-she dropped a remark about having been included in the selection:she放弃了关于已被列入选择的评论
-various guest DJs drop quality tunes both old and new:various来宾DJ放弃新旧优质曲调
+she dropped a remark about having been included in the selection:她放弃了关于已被列入选择的评论
+various guest DJs drop quality tunes both old and new:各种嘉宾 DJ 播放新旧优质曲调
 the club have yet to drop a point in the Second Division:俱乐部在乙级联赛中还没有丢一分
 he reckoned I'd dropped forty thousand pounds:他估计我减了四万英镑
-East drops the 10 on the second round:East在第二轮中排名第10
+East drops the 10 on the second round:东在第二轮丢掉 10
 the first drops of rain splashed on the ground:第一滴雨滴落在地上
 there was not a drop of water in sight:看不到一滴水
-he doesn't touch a drop during the week:he一周内一滴不沾
+he doesn't touch a drop during the week:他一周内一滴不沾
 eye drops:眼药水
 they left within five minutes of the drop of the curtain:他们在落下帷幕后五分钟内离开
-the planes finally managed to make the drop:theplanes终于成功降落
+the planes finally managed to make the drop:飞机终于成功降落
 a significant drop in consumer spending:消费者支出大幅下降
 a sheer 1,500-foot drop:一个1,500英尺的高度
 they only just avoided the drop last season:他们只是避免了上赛季的下滑
-do you play for the drop now or finesse the 9?:你现在玩的是drop还是玩9？
+do you play for the drop now or finesse the 9?:您是现在玩 drop 还是精打细算 9？
 I got to the depot and made the drop:我到了仓库并下车了
 the lavatory's water cistern could be used as a letter drop:马桶的水箱可以当信投递
 a chocolate drop:一个巧克力滴
-simple amethyst and diamond drops:simple紫水晶和钻石滴
-warders, standing on planks, invariably flanked the prisoners on the drop:warders，站在木板上，总是在囚犯的侧翼
+simple amethyst and diamond drops:简单的紫水晶和钻石滴
+warders, standing on planks, invariably flanked the prisoners on the drop:看守站在木板上，总是站在囚犯的两侧
 
 not a drop | 不是一滴,一滴也没有
 
@@ -330,9 +330,9 @@ come to be (the total) when added together:成为（总数）加在一起
 be regarded or classified as, be the equivalent of:被视为或归类为，相当于
 develop into, become:发展成，成为
 amount |əˈmaʊnt| Noun/Verb/:数量,总计,量,等于,额
-sport gives an enormous amount of pleasure to many people:sport给许多人带来了极大的乐趣
+sport gives an enormous amount of pleasure to many people:运动给许多人带来了极大的乐趣
 they have spent a colossal amount rebuilding the stadium:他们花费巨资重建体育场
-losses amounted to over 10 million pounds:losses超过1000万英镑
+losses amounted to over 10 million pounds:损失超过1000万英镑
 their actions amounted to a conspiracy:他们的行为等同于阴谋
 you'll never amount to anything:你一事无成
 
@@ -347,16 +347,16 @@ amount to | 相当于,达到
 (of an email) be returned to its sender after failing to reach its destination:（电子邮件的）在未能到达目的地后被退回给发件人
 recover well after a setback or problem:在遇到挫折或问题后恢复良好
 come into sudden forceful contact with, collide with:突然用力接触，碰撞
-jump repeatedly up and down, typically on something springy:jump反复上下，通常在有弹性的东西上
+jump repeatedly up and down, typically on something springy:反复上下跳跃，通常是在有弹性的东西上
 move up and down repeatedly:上下反复移动
 cause (a child) to move lightly up and down on one's knee as a game:使（一个孩子）在一个人的膝盖上轻轻上下移动作为游戏
 (of a vehicle) move jerkily along a bumpy surface:（车辆）在颠簸的路面上颠簸移动
 move in a particular direction in an energetic, happy, or enthusiastic manner:以充满活力、快乐或热情的方式朝特定方向移动
 (of a cheque) be returned by a bank to the payee when there are not enough funds in the drawer's account to meet it:（支票）出票人账户中资金不足以支付时，由银行退还给收款人
 (of a bank) return a cheque to the payee when there are not enough funds in the drawer's account to meet it:（银行的）出票人账户中资金不足时，将支票退还给收款人
-eject (a troublemaker) forcibly from a nightclub or similar establishment.:eject（麻烦制造者）强行离开夜总会或类似场所。
-dismiss (someone) from a job:dismiss（某人）的工作
-pressurize (someone) into doing something, typically by presenting them with a fait accompli:pressurize（某人）去做某事，通常是通过向他们展示既成事实
+eject (a troublemaker) forcibly from a nightclub or similar establishment.:从夜总会或类似场所强行驱逐（麻烦制造者）。
+dismiss (someone) from a job:辞退（某人）一份工作
+pressurize (someone) into doing something, typically by presenting them with a fait accompli:迫使（某人）做某事，通常是向他们展示既成事实
 a rebound of a ball or other object:球或其他物体的反弹
 the ability of a surface to make a ball rebound in a specified way:表面使球以特定方式反弹的能力
 a collision.:一次碰撞。
@@ -366,23 +366,23 @@ exuberant self-confidence:旺盛的自信
 health and body in a person's hair:健康和身体在一个人的头发
 bounce |baʊns| Noun/Verb/:弹跳,反弹
 the ball bounced away and he chased it:球弹开，他追了上去
-short sound waves bounce off even small objects:short声波即使很小的物体也会反弹
+short sound waves bounce off even small objects:短声波即使是小物体也会反弹
 I tried to email him, but the message bounced:我试图给他发电子邮件，但邮件被退回
 the savings rate has already started to bounce back and is sure to rise further:储蓄率已经开始反弹，而且肯定会进一步上升
 people cross the road as slowly as possible, as if daring the cars to bounce them:人们尽可能慢地过马路，好像敢于让汽车把他们弹起来
-Emma was happily bouncing up and down on the mattress:Emma高兴地在床垫上蹦蹦跳跳
+Emma was happily bouncing up and down on the mattress:艾玛高兴地在床垫上蹦来跳去
 the gangplank bounced under his confident step:跳板在他自信的步伐下弹起
 I remember how you used to bounce me on your knee:我记得你过去是如何让我在膝盖上弹跳的
 the car bounced down the narrow track:汽车在狭窄的轨道上反弹
-Linda bounced in through the open front door:Linda从敞开的前门跳了进来
+Linda bounced in through the open front door:琳达从敞开的前门跳了进来
 a further two cheques of £160 also bounced:a另外两张160英镑的支票也被退回
 the bank bounced the cheque:银行退回支票
 those who put in a dismal performance will be bounced from the tour:那些表现糟糕的人将被淘汰出巡演
 the government should beware being bounced into any ill-considered foreign gamble:政府应谨防陷入任何考虑不周的外国赌博
-the wicket was causing the occasional erratic bounce:thewicket导致偶尔出现不稳定的反弹
+the wicket was causing the occasional erratic bounce:检票口偶尔会导致不稳定的弹跳
 a pitch of low bounce:a低弹跳
 every bounce of the truck brought them into fresh contact:卡车的每一次反弹都让他们有了新的接触
-economists agree that there could be a bounce in prices next year:economists同意明年价格可能会反弹
+economists agree that there could be a bounce in prices next year:经济学家一致认为明年价格可能会反弹
 the bounce was now back in Jenny's step:反弹现在又回到了珍妮的脚步
 use conditioner to help hair regain its bounce:使用护发素帮助头发恢复弹性
 
@@ -408,7 +408,7 @@ not any:没有
 no person, no one:没有人，没有人
 by no amount, not at all:没有数量，一点也不
 none |nʌn| Adverb/Noun/Pronoun/:没有任何,没有,绝不,无
-none could match her looks:none比不上她的容貌
+none could match her looks:没有一个能比得上她的长相
 it is made none the easier by the differences in approach:方法上的差异并没有使这变得更容易
 
 none too | 也没有,一个也没有
@@ -421,14 +421,14 @@ reach a place at the end of a journey or a stage in a journey:到达旅程结束
 (of a thing) be brought or delivered:（事物）被带来或交付
 (of an event or a particular moment) happen or come:（事件或特定时刻）发生或到来
 (of a new development or product) come into existence or use:（新的开发或产品的）出现或使用
-reach (a conclusion or decision):reach（结论或决定）
+reach (a conclusion or decision):达到（结论或决定）
 (of a baby) be born:（婴儿的）出生
 achieve success or recognition:获得成功或认可
 arrive |əˈrʌɪv| Verb/:到达,抵达,到
 we arrived at his house and knocked at the door:我们到他家敲门
 the invitation arrived a few days later:邀请几天后到达
 we will be in touch with them when the time arrives:时间到了我们会和他们联系
-microcomputers arrived at the start of the 1970s:microcomputers出现在1970年代初
+microcomputers arrived at the start of the 1970s:微型计算机在 1970 年代初问世
 they arrived at the same conclusion:他们得出了同样的结论
 he will feel jealous when a new baby arrives:新宝宝出生时他会嫉妒
 he still has to pinch himself to be sure he really has arrived:他还得掐自己才能确定他真的到了
@@ -463,7 +463,7 @@ feeling or inspiring optimism about a future event:对未来事件感到或鼓�
 a person likely or hoping to succeed:一个可能或希望成功的人
 hopeful |ˈhəʊpf(ʊ)l| Adjective/Noun/:,满怀希望的
 a hopeful sign:一个充满希望的迹象
-promotion hopefuls Huddersfield:promotion有希望的哈德斯菲尔德
+promotion hopefuls Huddersfield:晋级希望哈德斯菲尔德
 
 a thing that happens or takes place, especially one of importance:发生或发生的事情，尤其是重要的事情
 a planned public or social occasion:一个有计划的公共或社交场合
@@ -471,14 +471,14 @@ each of several particular contests making up a sports competition:构成体育�
 a single occurrence of a process, e.g. the ionization of one atom.:一个进程的单次出现，例如一个原子的电离。
 event |ɪˈvɛnt| Noun/:事件,活动
 the momentous political events of the late 1980s:1980年代后期的重大政治事件
-staff have been holding a number of events to raise money for charity:staff已举办多项活动为慈善筹款
-he repeated the success in the four-lap, 600 cc event:he在四圈600cc赛事中再次取得成功
+staff have been holding a number of events to raise money for charity:员工举办多项活动为慈善事业筹款
+he repeated the success in the four-lap, 600 cc event:他在四圈 600 cc 赛事中再次取得成功
 
 a continuous or prolonged dull pain in a part of one's body:身体某一部位持续或长时间的钝痛
 an emotion experienced with painful or bittersweet intensity:一种痛苦或苦乐参半的情绪
 suffer from a continuous dull pain:遭受持续的钝痛
-feel intense sadness or compassion:feel强烈的悲伤或同情
-feel an intense desire for:feel强烈渴望
+feel intense sadness or compassion:感到强烈的悲伤或同情
+feel an intense desire for:感到强烈的渴望
 ache |eɪk| Noun/Verb/:疼痛,疼
 the ache in her head worsened:她的头疼得更厉害了
 an ache in her heart:心痛

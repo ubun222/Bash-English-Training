@@ -1,0 +1,465 @@
+addict				对...入迷的人
+conventional			传统的
+property			财产，住宅，特性
+to a certain extent		从某种程度来说
+praise				赞美
+stimulate			刺激，促进...的功能
+neurotransmitter		神经递质
+dopamine			多巴胺
+implicate			被涉及，牵连
+desire				渴望
+inherent			内在的，固有的
+brutal				残忍的
+sacrifice			牺牲
+famously			著名的
+psychologist			心理学家
+treadmill			跑步机
+wear off				感觉逐渐消失
+reward				报偿，值得
+hook				勾住
+substance			物质
+agonizing			使人极度痛苦的
+physically			身体上
+depression			忧郁
+anxiety				焦虑
+elite				精英
+tyrannical			残暴的
+substitute			代替品，替代
+\\\\\\\\
+
+n. [C] 对某事入迷（因而花很多时间做此事）的人:
+n. [C] 吸毒成瘾的人:
+addict |[ˈædɪkt]
+a video game addict 游戏机迷 
+She is a TV addict and watches as much as she can. 她是个电视迷，看起电视来没完没了。
+Many young boys become computer adherences. 许多男孩子小小年纪就迷上了电脑。
+cocaine, heroin, drug, nicotine addict 吸食可卡因成瘾的人；吸食海洛因成瘾的人；吸食毒品成瘾的人；吸食尼古丁成瘾的人 
+He's only 24 years old and a drug addict. 他只有24岁，却是个瘾君子。
+
+adj. 1 [常含贬义] 倾向于遵循全社会约定俗成的做法或惯例的，平凡普通的，也许不是非常有趣的，即（行为观念等）依照惯例的，墨守成规的，遵从习俗的，普通平凡的:
+2 常作前置定语，遵循传统（或长久以来的做法）的:
+adj. 常作前置定语，（尤指武器）非核的，即常规的:
+conventional |[kən'venʃənl]
+conventional behaviour, conventional morality 循规蹈矩的行为；传统的道德规范 
+She’s very conventional in her views. 她的观点很守旧。
+conventional methods, conventional approaches 传统方法 
+in the conventional sense 从传统意义上来说
+conventional forces, conventional weapons, conventional arms 常规部队；常规武器 
+a conventional power station 常规动力发电站
+
+n. [C, usually pl.] [正式] 某事物的特性、性质:
+n. 1 [U] 某人所拥有的东西，所有物、财物、财产:
+2 [U, C] 土地和建筑物，即不动产、房地产；也可指建筑物和其周围的土地:
+property |[ˈprɒpəti;美ˈprɑ:pərti]
+biological, chemical, electrical, magnetic, mechanical, physical, structural property 生物特性；化学特性；电的特性；磁性；机械特性；物理特性；结构特性 
+A radio signal has both electrical and magnetic properties. 无线电信号具有电、磁双重属性。
+antiseptic, healing, health-giving（英）, medicinal property 防腐特性；愈合特性；增进健康的特性；药性 
+a plant with medicinal properties 药用植物 
+The medicinal properties of the leaves of this tree have been known for centuries. 这种树叶的药性几个世纪前已为人所知。
+inherent, intrinsic property 固有属性；内在属性 
+basic, essential property 基本属性；根本属性 
+The substance has properties similar to plastic. 该物质的性质类似于塑料。
+personal, private property 个人财产；私有财产 
+Richard could easily destroy her personal property to punish her for walking out on him. 理查德能轻易毁掉她的私人财产来惩罚她对他的背叛。
+Be careful not to damage other people's property. 小心别损及别人的财物。
+common, public property 公共财产 
+This building is government property. 这座大楼是政府的财产。
+intellectual property 知识产权 
+Companies should protect their intellectual property with patents and trademarks. 公司应该通过申请专利和注册商标保护自己的知识产权。
+stolen property 失窃财产 
+lost property（英）丢失的物品 
+I phoned the lost property office to see if someone had found my bag. 我给失物招领处打电话，询问是否有人找到了我的包。
+The market was known as a place where people disposed of stolen property. 大家都知道那个市场是个销赃的地方。
+The firm was found to have infringed intellectual property rights. 这家公司被判侵犯了知识产权。
+Charisma isn't the exclusive property of movie stars. 魅力不是电影明星的独家财产。
+freehold, leasehold property（均英）终身保有的不动产；租赁的房地产 
+detached, semi-detached property（均英）独立式房屋；半独立式房屋 
+separate property 独栋房屋 
+two-bedroom property（尤英）两居室的房屋 
+business, commercial, hotel, residential property 营业地产；商用地产；酒店物业；住宅物业 
+investment property 投资性房地产 
+private property 私有房产 
+This vehicle has been parked on private property. 这辆车停在了私人地产上。
+Students are not allowed on school property outside of school hours. 学生不准在非上课期间进入学校的房子。
+family property 家族物业 
+Cecil inherited a family property near Stamford. 塞西尔继承了斯坦福德附近的一处家族房产。
+beachfront, waterfront property 海滨房产；滨水房产 
+desirable property 令人心仪的房地产 
+They decided to rent out the property while they were abroad. 他们决定在去国外期间把房屋租出去。
+They are living in rented property.（英）他们现在住在租来的房子里。
+We have a potential buyer who wants to view the property. 有个潜在的购房者要来看房。
+The property was valued at £250,000. 这处房地产的估价为25万美元。
+Once the tenants have left, the property will be put on the market. 一旦房客离开，这处房子就会在市场上出售。
+property market, property prices, property values 房地产市场；房地产价格；房地产价值 
+property company, property developer 房地产公司；房地产开发商 
+property owner 房地产所有者 
+property tax 不动产税 
+property law 物业法 
+property crime, property damage 财产犯罪；财产损害 
+a man of property（常为幽默用法）
+How does it feel to be a woman of property? 作为有房子的女人有何种感觉？
+The price of property has risen enormously. 房地产的价格大幅上升了。
+There are a lot of empty properties in the area. 这个地区有大量的闲置房地产。
+
+praise sb/sth (as sth) 对某人或某事物表达赞扬，即称赞，表扬，相当于compliment:
+n. [U] 对某人或某事物的赞美之辞。是此义的常规用词，最为常用:
+n. [U] 对上帝的颂扬或赞颂。与glory未见明显区别:
+vt. 颂扬或赞颂上帝:
+praise |[preɪz]
+vt. praise sb/sth (for sth) 
+She praised his cooking. 她称赞他的厨艺。
+He praised his team for their performance. 他称赞了各队员的表现。
+He praised all his staff highly. 他高度赞扬了所有的员工。
+His teachers are full of praise for the progress he’s making. 老师们对他的进步赞不绝口。
+She wrote poems in praise of freedom. 她写诗讴歌自由。
+to win public praise 赢得公众的赞扬 
+The play has attracted universal praise. 这出戏得到了普遍的好评。
+hymns of praise, songs of praise 赞美诗；颂歌 
+Praise be (to God)! 愿主受赞美！
+Praise the Lord. 赞美上帝！
+Allah be praised. 感谢真主！
+
+vt. 促进某事物的发展，使某事物变得更活跃，如促进、激发、激励:
+vt. 使人对…感兴趣，使人对…兴奋:
+vt. [术语] 促进身体某部位的功能:
+stimulate |[ˈstɪmjuleɪt]
+An interest rate increase directly stimulates saving and reduces real expenditure. 利率的升高直接刺激储蓄，并减少实际支出。
+The economy is recovering, stimulated in part by government spending. 经济正在复苏，部分原因是受政府支出的刺激。
+This tax policy is artificially stimulating demand. 这一税收政策将人为地刺激需求。
+America's priority is rightly to stimulate its economy. 美国的首要任务自然是刺激经济。
+The Russian health service has stimulated public interest in home cures. 俄罗斯的公共医疗服务已经激起了公众对家庭治疗的兴趣。
+The exhibition has stimulated interest in her work. 展览增进了人们对她作品的兴趣。
+The article can be used to stimulate discussion among students. 这篇文章可用来活跃学生的讨论。
+Parents should give children books that stimulate them. 父母应给孩子能启发他们的书。
+I was stimulated to examine my deepest thoughts. 我深受启发，开始审视自己内心深处的想法。
+The conference stimulated him to study the subject in more depth. 这次会议促使他更深入地研究那个课题。
+Bill was stimulated by the challenge. 这个挑战让比尔热情高涨。
+Both men and women are stimulated by erotic photos (= sexually). 色情照片对男女都有刺激作用。
+activities designed to stimulate the children intellectually 旨在刺激儿童智力的一些活动 
+to sexually stimulate, to visually stimulate, to electrically stimulate 在性方面刺激；在视觉方面刺激；电刺激 
+Exercise stimulates the digestive and excretory systems. 锻炼能促进消化和排泄系统的活动。
+The women were given fertility drugs to stimulate the ovaries. 那些妇女得到了促进卵巢功能的生育药。
+The production of melanin in the skin is stimulated by exposure to the sun. 皮肤暴露在阳光下就很容易生成黑色素。
+
+a chemical substance which is released at the end of a nerve fibre by the arrival of a nerve impulse and, by diffusing across the synapse or junction, effects the transfer of the impulse to another nerve fibre, a muscle fibre, or some other structure.:一种化学物质，在神经冲动到达时在神经纤维末端释放，并通过突触或连接处扩散，影响将冲动转移到另一根神经纤维、肌肉纤维或其他一些结构体。
+neurotransmitter |ˌnjʊərəʊtranzˈmɪtə| Noun/:神经递质,神经传导物质
+
+a compound present in the body as a neurotransmitter and a precursor of other substances including adrenaline.:一种存在于体内的化合物，作为神经递质和其他物质（包括肾上腺素）的前体。
+dopamine |ˈdəʊpəmiːn| Noun/:多巴胺,多巴氨
+
+vt. ~ sb (in sth) 一件坏事或一桩罪案把某人牵涉进去:
+vt. ~ sth (in/as sth) 表明（或意指）…是坏事的起因:
+implicate |[ˈɪmplɪkeɪt]
+He tried to avoid saying anything that would implicate him further. 他尽力避免说出任何会进一步牵连他的事情。
+He was obliged to resign when one of his own aides was implicated in a financial scandal. 当他的一位助手牵涉进一起金融丑闻时,他被迫辞职。
+Allegations had appeared in the press implicating the army and police in some of the killings. 有关军方和警方与几起命案有牵连的指控出现在了新闻报道中。
+These groups are very strongly implicated in the violence. 这些团体与这起暴力事件有很大关联。
+He was falsely implicated in an attempted murder case. 他被误认为与一起未遂谋杀案有牵连。
+The results implicate poor hygiene as one cause of the outbreak. 这些结果说明卫生条件差是疾病流行的一个原因。           
+
+vt.＆vi. [正式] 渴望某事物:
+desire (to do sth) 拥有某东西（或做某事）的一种强烈愿望，即渴望。是“渴望”的常规用词:
+2 [C, usually sing.] 被渴望的一个人或事物:
+n. [U, C] desire (for sb) 与某人发生性关系的一种强烈愿望，即情欲:
+vt. 被某人的性吸引力所吸引:
+desire |[dɪ'zaɪə]
+We all desire health and happiness. 我们都渴望健康和幸福。
+The medicine did not achieve the desired effect. 这种药未达到预期效果。
+Fewer people desire to live in the north of the country. 想住在这个国家北方的人就更少了。
+a strong desire for power 强烈的权力欲 
+a desire for money and fame 对名利的欲望 
+a desire to return home 想回家的欲望 
+I have no desire to discuss the matter further.（正式）我不想再谈此事。
+a desire for knowledge 求知欲 
+I suddenly felt an overwhelming desire to laugh. 我突然抑制不住想大笑。
+When she agreed to marry him, he felt he had achieved his heart’s desire. 当她答应嫁给他时，他感到终于得到了心上人。
+She felt a surge of love and desire for him. 她对他骤生爱意，欲火攻心。
+He still desired her. 他依然对她有欲望。
+
+adj. ~ (in sb/sth) 固有的、内在的（即作为…的基本且永恒的部分，且不能被移除的）:
+inherent |[ɪnˈhɪərənt;-ˈher-;美-ˈhɪr-]
+the difficulties inherent in a study of this type 这类研究本身的困难 
+Violence is inherent in our society. 在我们的社会中暴力是难免的。
+an inherent weakness in the design of the machine 机器设计中的内在缺陷 
+Stress is an inherent part of dieting. 节食必定会带来压力。
+the dangers inherent in an outbreak of war 一旦爆发战争所固有的危险
+
+adj.（对令人不悦的事）直截了当的:
+adj. 1 残暴的、兽性的:
+2 不考虑别人的感情的、冷酷的:
+3 残酷无情的、难以忍受的:
+brutal |[ˈbru:tl]
+It was refreshing to talk about themselves and their feelings with brutal honesty. 他们直言不讳地谈论自己和自己的感受，让人觉得耳目一新。
+He took an anguished breath. He had to be brutal and say it. 他痛苦地吸了口气，不得不坦言此事。
+brutal attack, brutal murder, brutal rape, brutal killing 野蛮的攻击；凶残的谋杀；野蛮的强奸；凶残的杀害 
+the brutal suppression of anti-government protests 对反政府抗议的残酷镇压 
+With brutal honesty she told him she did not love him. 她冷酷地直接告诉他，她不爱他。
+The dip in prices this summer will be brutal. 今年夏天价格的大幅下跌将会很残酷。
+The afternoon sun had been brutal. 下午的太阳酷热难挡。
+
+vt. sacrifice sth (for sb/sth) 为更重要或更有价值的事物而牺牲或舍弃…:
+n. [C, U] 为更重要或更有价值的事物而牺牲或舍弃…；也可指被舍弃的事物:
+vt. sacrifice sth (for sb/sth) 为更重要或更有价值的事物而牺牲或舍弃…:
+n. [C, U] 人命的牺牲；也可指被舍弃的人命:
+n. [C, U] sacrifice (to sb) 向神献祭品（祭品常是以某种方式宰杀的动物等）；也可指被献祭的动物等（此时相当于victim）:
+vt.＆vi. 以人或动物来献祭:
+sacrifice |['sækrɪfaɪs]
+She sacrificed everything for her children. 她为子女牺牲了一切。
+to sacrifice a football game to go out with a girl 放弃一场足球赛而去跟一个女孩子约会 
+soldiers who sacrificed their lives for their country 为国捐躯的士兵们 
+The designers have sacrificed speed for fuel economy. 设计者为节省燃料牺牲了速度。
+In her writing, clarity is sometimes sacrificed to brevity. 她的写作有时为追求简短而损害了意思的清晰表达。
+The makers of the product assured us that there had been no sacrifice of quality. 这一产品的制造商向我们保证说他们没有牺牲质量。
+Her parents made sacrifices so that she could have a good education. 为了让她受良好的教育，她的父母作了很多牺牲。
+financial, personal sacrifice 财务上的牺牲；个人牺牲 
+heroic sacrifice 英勇的牺牲 
+soldiers who sacrificed their lives for their country 为国捐躯的士兵们
+heroic sacrifice 英勇的牺牲 
+animal sacrifice 用作祭品的动物 
+religious, ritual sacrifice 宗教祭祀；献祭仪式 
+blood sacrifice 血祭 
+Food and wine were offered as sacrifices to the gods. 食物和酒被作为贡品献给众神。
+to sacrifice a sheep 以一只羊来献祭
+
+excellently:优秀
+in a way that is widely known:以广为人知的方式
+famously |ˈfeɪməsli| Adverb/:著名的,出名
+we got on famously:我们出名了
+they have famously reclusive lifestyles:他们有著名的隐居生活方式
+
+n. [C] 心理学家；心理学研究者:
+psychologist |[saɪˈkɒlədʒɪst;美-ˈkɑ:l-]
+academic, experimental psychologist理论心理学家；实验心理学家 
+behavioural/behavioral, child, cognitive, developmental, educational, evolutionary, forensic, occupational, social, sports psychologist 行为心理学家；儿童心理学家；认知心理学家；发展心理学家；教育心理学家；进化心理学家；司法心理学家；职业心理学家；社会心理学家；运动心理学家 
+consultant psychologist（英）心理学顾问 
+professional psychologist 职业心理学家 He is now a clinical psychologist with a major hospital. 他现在是一家大医院的心理医生。
+Psychologists tested a group of six-year-olds with a video. 心理学家用一段录像对一组六岁的儿童进行了测试。
+chartered（英）, licensed（美）psychologist 特许心理学家；执业心理学家 
+I made an appointment with the school psychologist.（school psychologist尤为美式用法）我已与学校的心理咨询教师约好了时间。/
+
+a large wheel turned by the weight of people or animals treading on steps fitted into its inner surface, formerly used to drive machinery.:一个大轮子，由踩在其内表面的台阶上的人或动物的重量转动，以前用于驱动机器。
+a device used for exercise, consisting of a continuous moving belt on which to walk or run.:一种用于锻炼的设备，由一条连续移动的带组成，可以在上面行走或跑步。
+a job or situation that is tiring, boring, or unpleasant and from which it is hard to escape:令人疲倦、无聊或不愉快且难以摆脱的工作或情况
+treadmill |ˈtrɛdmɪl| Noun/:跑步机,踏车
+the soulless treadmill of urban existence:城市存在的无灵魂跑步机
+
+n. [C, U] 由于做了好事或工作努力等而获得的回报，报酬，奖励。强调一种付出与回报的对等性。与prize有类似之处，但prize更强调奖励的象征意义，奖品形式也比较多样，而reward则强调这笔酬金对酬劳接受者所具有的实际经济意义（如改善生活水平）:
+vt. reward sb (for sth/for doing sth) 由于某人做了好事或工作努力等而给予其报酬，奖励，常用被动式:
+n. [C] 为帮助警察找到罪犯或帮助失主找回丢失物品所获得的悬赏金:
+reward |[rɪ'wɔ:d]
+rewards of investments 投资回报 
+tangible reward 看得见的报酬 
+potential reward 潜在的回报 
+economic, material reward 经济奖励；物质奖励 
+Winning the match was just reward for the effort the team had made. 赢得比赛的胜利是全队付出努力应得的回报。
+Give yourself some time off as a reward. 休息一下吧，就算是犒劳自己。
+reward system 奖赏制度 
+reward and punishment 奖惩 
+Top athletes enjoy rich rewards. 顶级运动员享有丰厚的酬金。
+She was rewarded for her efforts with a cash bonus. 她因自己所作的努力而得到一笔奖金。
+He was duly rewarded for his outstanding contribution to the arts. 他因为在艺术上的杰出成就而获得了应有的奖励。
+highly rewarded occupations 报酬很高的职业 
+He rewarded us handsomely for helping him. 对于我们的帮助，他大加酬谢。
+She started singing to the baby and was rewarded with a smile. 她开始给孩子唱歌，孩子则报以微笑。
+Our patience was finally rewarded. 我们的耐心最终得到了回报。
+The rats are rewarded with food when they press the lever. 老鼠压下杠杆时就会得到食物作为奖励。
+cash reward 现金悬赏 
+A £100 reward has been offered for the return of the necklace. 已悬赏100英镑找寻项链。
+There is a reward for information leading to an arrest. 提供对抓捕罪犯有用信息的人可获得赏金。
+
+vt.＆vi. 用某物（尤指腿、胳膊或手指）钩住或箍住:
+vt.＆vi. 用挂钩来钩住…；被钩住:
+vt.＆vi. 用挂钩来悬挂…；被挂住:
+n. [C]（用于悬挂、钓鱼等的）钩，挂钩:
+n. [C] 拳击中的勾拳:
+vt.（尤指高尔夫球、板球或足球）打曲线球；踢弧线球:
+n. [C]（用于钓鱼的）钩:
+vt. 专指用鱼钩来钓鱼:
+hook |[hʊk]
+He hooked his foot under the stool and dragged it over. 他用脚从底下钩住凳子，把它拖了过去。
+Her thumbs were hooked into the pockets of her jeans. 她的双手拇指钩在牛仔裤袋里。
+Suddenly an arm hooked around my neck. 突然有一条胳臂箍住了我的脖子。
+We hooked the trailer to the back of the car. 我们把拖车挂在汽车尾部。
+a dress that hooks at the back 从后背用钩扣的连衣裙
+picture, curtain, coat hook 挂图钩；窗帘挂钩；挂衣钩 
+a fish hook 鱼钩 
+Hang your towel on the hook. 把你的毛巾挂在钩上。
+a left hook to the jaw 击向下颌的一记左钩拳
+a fish hook 鱼钩
+It was the biggest pike I ever hooked. 那是我钓到的最大的狗鱼。
+She had managed to hook a wealthy husband.（比喻用法）她成功钓到了一位有钱的丈夫。
+
+n. [U] 事实基础、事实根据:
+n. [C] 物质:
+n. [U] …的最重要（或主要）部分，如主旨、要点、实质、基本内容:
+n. [U] a man/woman of ~ [正式] 有钱有势的人:
+n. [U] [正式] 重要性:
+n. [U] 实质性内容:
+substance |[ˈsʌbstəns]
+It was malicious gossip, completely without substance. 这是恶意造谣，完全没有事实根据。
+There is no substance in any of these allegations. 这些指控都毫无根据。
+His disappearance has given added substance to the argument that he stole the money. 他的失踪更是给认为他偷了钱的说法提供了佐证。
+The letters lent substance to the claims. 这些信给索赔诉求提供了依据。
+There's no substance in the story. 这篇报道没有事实根据。
+the substance of the evidence against him 对他不利的证据 
+There was little substance to his claims. 他的说法没什么事实根据。
+There is some substance in what he says. 他的话是有一定根据的。            
+addictive, cancer-causing（尤美）, carcinogenic, dangerous, harmful, hazardous, noxious, poisonous, radioactive, toxic substance 使人上瘾的物质；致癌物质；危险物质；有害物质；有毒物质；放射性物质；毒性物质 
+harmless, innocuous carcinogenic 无害物质 
+Even innocuous substances can sometimes register a positive result in a drug test. 即使无害的物质在药检中有时也会呈阳性。
+banned, controlled, illegal, illicit, prohibited substance 违禁物品；管制物品；非法物品 
+hallucinogenic, mind-altering, psychedelic, psychoactive, psychotropic substance 致幻药品；迷幻剂 
+performance-enhancing substance 兴奋剂 
+a natural substance found in the body of animals 在动物体内发现的一种天然物质 
+chemical substance 化学物质 
+inorganic, organic substance 无机物；有机物 
+pure substance 纯净物 
+soluble, volatile substance 可溶性物质；挥发性物质 
+active, inactive, inert substance 活性物质；非活性物质；惰性物质 
+crystalline, fatty, gooey（非正式）oily, powdery, slimy, sticky, viscous, waxy substance 结晶物；脂肪物质；黏性物质；油类物质；粉状物质；蜡状物质 
+medicinal substance 药物 
+foreign substances that contaminated the experiments 使实验受到污染的异物 
+a bag full of some unknown substance 装满了不明物质的袋子 
+the material substance of which we are made 构成我们自身的实体物质 
+Some frogs produce very toxic substances in their skin. 有些青蛙的皮肤能够分泌剧毒物质。
+The athletes had taken banned substances to increase their strength. 那些运动员服用了违禁药物以增强体力。
+Love and guilt form the substance of his new book. 他的新书主要讲爱情与罪孽。
+I agreed with what she said in substance, though not with every detail. 对于她所说的，虽然不是每个细节我都同意，但基本内容却是赞同的。
+The substance of his discussions doesn't really matter. 他讨论的要点实际上根本不重要。      
+mature men of substance 有钱有势的成熟男人
+matters of substance 重大问题 
+Nothing of any substance was achieved in the meeting. 会议没有取得任何实质性成果。
+It's questionable whether anything of substance has been achieved. 是否已经取得了任何实质性进展还是个问题。
+Syria will attend only if the negotiations deal with issues of substance. 只有在谈判涉及重大问题时叙利亚才会参加。
+The real substance of the report was in the third part. 这篇报告的实质性内容在第三部分。
+The image of him that the media have presented has no substance. 媒体所展示的他的形象很空洞。
+There's no difference in substance between the two points of view. 这两种观点事实上没有差别。
+Nothing of substance was achieved at the meeting. 会议没有取得任何实质性成果。
+
+causing great physical or mental pain:造成巨大的身体或精神痛苦
+agonizing |ˈaɡənʌɪzɪŋ| Adjective/:痛苦的,苦恼的
+an agonizing death:痛苦的死亡
+
+in a manner relating to the body as opposed to the mind:以与身体相关的方式而不是与头脑相关的方式
+in a way that involves bodily contact or activity:以涉及身体接触或活动的方式
+in a way that relates to the real world and things perceived through the senses as opposed to the mind:以一种与现实世界和通过感官而不是头脑感知的事物相关的方式
+in terms of what is possible in the real world:在现实世界中什么是可能的
+physically |ˈfɪzɪkli| Adverb/:身体上,身体上的
+physically demanding work:体力劳动
+he physically assaulted a colleague:他殴打同事
+cyberspace is a virtual place; it does not physically exist:cyberspace是一个虚拟的地方；它在物理上不存在
+it is physically impossible to check every car:检查每一辆车实际上是不可能的
+
+n. [U, C] 极度悲伤而无望的状态，即抑郁、沮丧、消沉:
+n. [C] [术语]（常指下雨引起的）低气压、气压降低:
+n. [C] [正式] 平面上的坑、洼:
+n. [U] 抑郁症:
+n. [C, U] 经济的萧条期、衰退期、不景气:
+depression |[dɪˈpreʃn]
+There was a feeling of gloom and depression in the office when the news of the job cuts was announced. 裁员消息宣布时办公室里一片忧郁和沮丧的气氛。
+I slid into a depression and became morbidly fascinated with death. 我陷入消沉，开始对死亡有种病态的迷恋。
+I was in the depths of depression after receiving my exam results. 拿到考试结果我沮丧极了。
+Rainwater collects in shallow depressions on the ground. 雨水积在地上的浅坑里。
+an area pockmarked by rain-filled depressions 密布着雨水洼的地区 
+The photos show a shallow depression on the planet's surface. 照片显示行星表面有一处浅浅的凹陷。
+She suffered from severe depression after losing her job. 她失业后患了严重的抑郁症。
+mild, minor depression 轻度抑郁；轻微抑郁 
+moderate depression 中度抑郁 
+manic depression 躁狂抑郁症 
+post-natal, post-partum（美）depression 产后抑郁症 
+The actor says he suffers frequent bouts of depression. 那位演员说他经常出现抑郁情绪。
+In a fit of depression, she threw away all her books. 她一时抑郁，扔掉了自己所有的书。
+A period of acute depression can sometimes follow childbirth. 分娩之后可能会有一段时间的急性抑郁期。
+She fell into a black depression and refused to leave her room. 她变得极度抑郁，拒绝离开自己的房间。
+She was diagnosed as having clinical depression. 她被诊断患有临床抑郁症。
+His wife had left him and he was being treated for depression. 妻子离开了他，他正接受抑郁症治疗。
+She was gradually coming out of her depression. 她正逐渐走出抑郁。
+Bereavement can often lead to depression. 丧失亲人常会引发抑郁症。
+a new drug used to treat depression 用于治疗抑郁症的新药 
+Her depression has lifted now. 她的抑郁症现在痊愈了。
+Depression affects a surprising number of people. 受抑郁症困扰者人数惊人。
+He may have killed himself in depression. 他可能是在抑郁的状态中自杀的。
+He's been off work for months with depression. 他患有抑郁症，已经几个月没有工作了。
+The onset of depression often follows a traumatic event. 抑郁症发作常常是在造成心理创伤的事件之后。
+He was in a state of acute depression. 他急性抑郁症正在发作。
+She had been receiving medical treatment for depression. 她一直在接受抑郁症治疗。
+The country was in the grip of (an) economic depression. 当时国家处于经济萧条期。
+the great Depression of the 1930s 20世纪30年代的经济大萧条 
+The housing market has gone into depression. 房地产市场陷入了萧条期。
+The depression seems to be deepening. 萧条状况开来正在加剧。
+
+anxiety for sth 强烈想要去做某事或想要某事发生的一种心情，即渴望:
+n. 1 [U] anxiety (about/over sth) 感到紧张或担心坏事将要发生的一种心理状态，即焦虑，忧虑:
+2 [C] 对某事的担忧、担心或害怕:
+anxiety |[æŋɡ'zaɪətɪ]
+the candidate’s anxiety to win the vote 候选人对选举胜利的渴望 
+the people’s anxiety for the war to end 人民对结束战争的渴望
+the high level of anxiety created by entering a new environment 进入新环境产生的高度焦虑 
+A lot of anxiety surrounds the issue of human cloning. 人们对克隆人的问题很担忧。
+anxiety dream 焦虑梦（由于焦虑而做的梦）
+There are anxieties over the effects of unemployment. 对于失业后果有种种担忧。
+If you’re worried about your health, share your anxieties with your doctor. 你要是担心自己的健康，就把你的忧虑告诉医生吧。
+
+adj. [只用于名词前] 精英的、精锐的、最优秀的:
+n. [C] 社会的精英阶层（即财富、智商等较高的阶层）:
+elite |[eɪˈli:t;ɪˈli:t]
+an elite group of senior officials 一批出类拔萃的高级官员 
+an elite military academy 高级军官学校 
+the elite troops of the President's bodyguard 精锐的总统卫队          
+Public opinion is influenced by the small elite who control the media. 舆论为少数控制着新闻媒介的上层人士所左右。
+In these countries, only the elite can afford an education for their children. 在这些国家里，只有上层人士才供得起子女上学。
+a government comprised mainly of the elite 主要由精英组成的政府 
+governing, power（尤美）, ruling elite 执政集团；权力集团；统治集团 
+He was an influential member of the ruling elite. 他是统治集团中的权势人物。
+powerful, privileged elite 权力阶层；特权阶层 
+corrupt elite 腐败的上层精英 
+educated elite 受过良好教育的精英 
+landed, moneyed（尤美）, wealthy elite 地主精英阶层；有钱的精英阶层；富有的精英阶层 
+metropolitan, urban elite 大都会精英；城市精英 
+local, national elite 地方精英；国家精英 
+foreign elite 国外精英 
+Western elite 西方精英 
+black, white elite 黑人精英；白人精英 
+conservative, liberal elite 保守派精英；自由派精英 
+technocratic elite 技术官僚精英 
+business, corporate, cultural, economic, intellectual, media, military, political, professional, secular, social elite 商界精英；企业精英；文化精英；经济精英；知识分子精英；传媒界精英；军界精英；政界精英；职业精英；世俗化精英；社会精英 
+We have a political elite in this country. 我们国家有一群政治精英。
+These people form an elite who have the power to make decisions. 这些人构成了有决策权的精英集团。
+a club for members of the business elite 商界精英俱乐部 
+a member of the intellectual elite 知识界的精英
+
+adj. 利用自己的权力或权威对别人施加不公平或残暴的行为的，即残暴的:
+adj.（人、政府或组织）暴君的、残暴的、专横的、专制的:
+adj. 利用自己的权力或权威对别人施加不公平或残暴的行为的，即残暴的:
+tyrannical |[tɪˈrænɪkl]
+one of the world's most oppressive and tyrannical regimes. 世上最压迫人、最专制的政权之一 
+Tyrannical Hollywood film moguls ruled their stars' lives. 好莱坞电影巨头操纵着旗下明星的生活。
+He killed his tyrannical father with a blow to the head. 他冲着暴戾的父亲的头部猛击了一下，把他打死了。
+His behavior grew more unpredictable by the day, and increasingly tyrannical. 他的行为越来越难以捉摸，而且愈发残暴。   
+He killed his tyrannical father with a blow to the head. 他冲着暴戾的父亲的头部猛击了一下，把他打死了。
+His behavior grew more unpredictable by the day, and increasingly tyrannical. 他的行为越来越难以捉摸，而且愈发残暴。
+one of the world's most oppressive and tyrannical regimes 世上最压迫人、最专制的政权之一
+one of the world's most oppressive and tyrannical regimes. 世上最压迫人、最专制的政权之一
+
+substitute for sb/sth 代替其他人或事物；用某人或某事物来取代其他人或事物。与replace相比，replace仅为及物动词:
+n. [C] substitute (for sb/sth) 用以代替你通常所使用（或所拥有）的一个人或事物，即替代者、替代物:
+n. [C] 也可用非正式的sub，一场体育比赛中的一名替补运动员（其代替其他人出场）:
+vt.＆vi. 在体育比赛中“替补”出场:
+substitute |['sʌbstɪtju:t]
+vt.＆vi. substitute A (for B) 
+substitute B (with/by A) 
+Nothing can substitute for the advice your doctor is able to give you. 大夫所能给你的忠告是无可替代的。
+Margarine can be substituted for butter in this recipe. 做这道菜可以用人造黄油代替黄油。
+Beckham was substituted in the second half after a knee injury. 下半场贝克汉姆膝盖受伤被换下。
+meat substitute 肉的替代品 
+Paul’s father only saw him as a substitute for his dead brother. 保罗的父亲只是把他当作他死去的哥哥来看待。
+substitute family 收养家庭 
+substitute teacher（美）代课老师 
+The course teaches you the theory but there’s no substitute for practical experience. 这门课教的是理论，但没有任何东西能代替实践经验。
+The local bus service was a poor substitute for their car. 他们坐当地的公交车，这比坐自己的汽车可差远了。
+The television is a poor substitute for human companionship. 用电视来代替人的陪伴是很糟糕的。
+His teacher acted as a father substitute. 老师替代了他父亲的角色。
+The company produces substitutes for engine oil. 这家公司生产机油的替代品。
+There’s no substitute for hard work. 无论什么都代替不了努力工作。
+He was brought on as (a) substitute after half-time. 他作为替补队员在下半场上场。
+He was substituted in the second half after a knee injury. 他在下半场因膝盖受伤被换下。

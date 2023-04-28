@@ -16,7 +16,7 @@ notoriously					众所周知的
 board							木板，膳食，委员会，登上
 pose							摆姿势，构成
 memorandum						备忘录
-puzzling						谜，使困惑，苦思冥想
+puzzling						令人困惑的，费解的
 reliable						可靠的，准确的
 replacement					更换，替代品
 reinforce						增加，加固，证实

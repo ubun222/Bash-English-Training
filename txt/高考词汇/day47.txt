@@ -43,9 +43,9 @@ pick something up:捡东西
 harvest grain or other crops:收获粮食或其他作物
 collect plants, fruits, etc., for food:收集植物、水果等，作为食物
 pull (someone) into one's arms:拉（某人）入怀
-increase in (speed, force, etc.):increasein（速度、力量等）
-infer, understand:infer，明白
-summon up (a mental or physical attribute) for a purpose:summonup（精神或身体属性）为一个目的
+increase in (speed, force, etc.):增加（速度、力量等）
+infer, understand:推断，理解
+summon up (a mental or physical attribute) for a purpose:为某个目的召唤（精神或身体属性）
 gain or recover (one's breath):增益或恢复（一个人的呼吸）
 draw and hold together (fabric or a part of a garment) by running thread through it:将线穿过它并保持在一起（织物或衣服的一部分）
 a part of a garment that is gathered.:收集的衣服的一部分。
@@ -76,10 +76,10 @@ expressing authority or control:表达权威或控制
 expressing preference:表达偏好
 expressing majority:表示多数
 higher in volume or pitch than:音量或音高高于
-higher or more than (a specified number or quantity):higherormorethan(指定数量或数量)
+higher or more than (a specified number or quantity):高于或超过（指定数量或数量）
 expressing passage or trajectory across:表示穿越或轨迹
 beyond and falling or hanging from:beyond跌落或悬挂
-at the other side of, beyond:attheothersideof,Beyond
+at the other side of, beyond:在的另一边，超越
 expressing duration:表示持续时间
 expressing the medium by which something is done, by means of:表达做某事的媒介，通过
 on the subject of:关于
@@ -88,7 +88,7 @@ no longer upset by or missing (a former lover or partner):不再因（前情人�
 weary of or no longer wanting to deal with (something):厌倦或不再想处理（某事）
 expressing passage or trajectory across an area:表示跨区域的通道或轨迹
 in or to the place indicated:in或到指定地点
-beyond and falling or hanging from a point:beyond并从一个点坠落或悬挂
+beyond and falling or hanging from a point:超越并从一个点坠落或悬挂
 used to express action and result:用于表示动作和结果
 used to express repetition of a process:用于表示一个过程的重复
 (in two-way radio communication) used to indicate that the speaker has finished speaking and is awaiting a reply.:（双向无线电通信中）用于表示发言者已说完，正在等待回复。
@@ -107,7 +107,7 @@ there was a slight predominance of boys over girls:男孩略多于女孩
 he shouted over the noise of the taxis:他对着出租车的噪音大喊大叫
 over 40 degrees C:40℃以上
 she trudged over the lawn:她在草坪上跋涉
-he toppled over the side of the boat:he翻倒在船边
+he toppled over the side of the boat:他翻倒在船边
 over the hill is a small village:山上是个小村庄
 you've given us a lot of heartache over the years:这些年来你给了我们很多心痛
 a voice came over the loudspeaker:扩音器里传来一个声音
@@ -121,7 +121,7 @@ she knocked the jug over:她把水壶打翻了
 the car flipped over:车翻了
 the jukebox plays every song twice over:点唱机将每首歌曲播放两次
 the match is over:比赛结束
-skiing is so over, and snowboarding is passé!:skiing就这样结束了，单板滑雪已经过时了！
+skiing is so over, and snowboarding is passé!:滑雪已经结束，单板滑雪也过时了！
 
 used to address or refer to a woman in a polite or respectful way:用于以礼貌或尊重的方式称呼或提及女性
 used to address a woman at the start of a formal or business letter:用于在正式或商务信函的开头称呼女性
@@ -138,7 +138,7 @@ activity done for enjoyment when one is not working:不工作时为享受而完�
 the action or process of creating something again:再次创造事物的动作或过程
 a re-enactment or simulation of something:对某事的重演或模拟
 recreation |ˌrɛkrɪˈeɪʃn| Noun/:,休闲
-she rides for recreation:she骑车消遣
+she rides for recreation:她骑车消遣
 the periodic destruction and recreation of the universe:宇宙的周期性毁灭与再造
 they enjoyed television's recreations of more confident times:他们喜欢电视对更自信时代的再现
 
@@ -163,9 +163,9 @@ he had been diving in the area to test equipment:他一直在该地区潜水以�
 the plane dived as it was buffeted by turbulence at 34,000 ft:飞机在34,000英尺高空受到湍流冲击而俯冲
 a bullet passed close to his head and he dived for cover:一颗子弹靠近他的头部，他潜入掩体
 profits before tax dived by 61 per cent:税前利润下降了61%
-Stein was booked for diving:Stein被预订潜水
+Stein was booked for diving:斯坦因为跳水被黄牌警告
 he hit the sea in a shallow dive:他在一次浅水潜水中下海
-divers should have a good intake of fluid before each dive:divers每次潜水前应摄入充足的液体
+divers should have a good intake of fluid before each dive:潜水员在每次潜水前应该摄入充足的液体
 the jumbo jet went into a dive:大型喷气式飞机俯冲
 she made a dive for the fridge to quench her thirst:她潜入冰箱解渴
 an 11 per cent dive in profits:an利润下降11%
@@ -193,16 +193,16 @@ travel on wings or by aircraft, fly:机翼或飞机旅行，飞行
 move, travel, or be sent quickly, as if flying:移动，旅行，或被快速发送，仿佛在飞翔
 send or convey (something) quickly, as if by air:快速发送或传送（某事），就像空运一样
 enable (someone or something) to fly or move rapidly:使（某人或某物）能够快速飞行或移动
-shoot (a bird) in the wing, so as to prevent flight without causing death:shoot（一只鸟）在机翼中，以防止飞行而不致死
-wound (someone) superficially, especially in the arm or shoulder.:wound（某人）表面上，尤其是在手臂或肩膀上。
+shoot (a bird) in the wing, so as to prevent flight without causing death:向（鸟）的翅膀射击，以防止飞行而不致死亡
+wound (someone) superficially, especially in the arm or shoulder.:使（某人）表面受伤，尤指手臂或肩膀。
 speak or act without preparation, improvise:说话或行动没有准备，即兴发挥
 wing |wɪŋ| Noun/Verb/:翅膀,翼,机翼
 the thought gave wings to her feet:思想为她的双脚插上了翅膀
-Michael earned his wings as a commercial pilot:Michael作为一名商业飞行员赢得了他的翅膀
+Michael earned his wings as a commercial pilot:迈克尔作为一名商业飞行员赢得了他的翅膀
 a maternity wing:a产科翼
 she joined the youth wing of the party at the age of 16:她16岁加入党的青年联队
 some sportsmen make no scruple about firing into the thick of a wing of plover:一些运动员毫不犹豫地向千鸟的厚翼射击
-George satisfied his keen urge to fly by winging homewards with the Royal Air Force:George与皇家空军一起飞回家乡，满足了他对飞行的强烈渴望
+George satisfied his keen urge to fly by winging homewards with the Royal Air Force:乔治与皇家空军一起飞回家，满足了他强烈的飞行欲望
 the prize will be winging its way to you soon:奖品即将送达您
 just jot down the title on a postcard and wing it to us:只需在明信片上记下标题，然后交给我们
 the convent was at some distance, but fear would wing her steps:修道院离她有一段距离，但恐惧会挡住她的脚步
@@ -229,7 +229,7 @@ an unsatisfactory or feeble person or thing:一个不满意或软弱的人或事
 lemon |ˈlɛmən| Noun/:柠檬,浅黄色的,柠
 the juice of seven lemons:七个柠檬汁
 a port and lemon:一个港口和柠檬
-car-makers cannot afford to create lemons:car-makers买不起柠檬
+car-makers cannot afford to create lemons:汽车制造商无力制造柠檬
 
 a thing constituting a piece of evidence about the past, especially an account kept in writing or some other permanent form:构成关于过去的证据的事物，尤指以书面或其他永久形式保存的帐户
 an official report of the proceedings and judgement in a court.:法庭诉讼和判决的正式报告。
@@ -241,8 +241,8 @@ a piece or collection of music reproduced on a record or on another medium:在�
 set down in writing or some other permanent form for later reference:以书面形式或其他永久形式记录下来以供日后参考
 state or set down publicly or officially:state或公开或正式制定
 (of an instrument or observer) show or register (a measurement or result):（仪器或观察者）显示或记录（测量或结果）
-achieve (a certain score or result):achieve（某个分数或结果）
-convert (sound or a performance) into a permanent form for subsequent reproduction or broadcast:convert（声音或表演）为后续复制或广播的永久形式
+achieve (a certain score or result):达到（一定的分数或结果）
+convert (sound or a performance) into a permanent form for subsequent reproduction or broadcast:将（声音或表演）转换为永久形式以便随后的复制或广播
 produce (a programme, or a piece or collection of music) by recording a performance:通过录制表演来制作（一个节目、一段音乐或音乐集）
 record |ˈrɛkɔːd| Noun/Verb/:记录,记载,录音
 you should keep a written record:你应该保留书面记录
@@ -261,7 +261,7 @@ a strip of land covered with sand, shingle, or small stones at the edge of a bod
 run or haul up (a boat or ship) on to a beach:run或将（船或船）拖到海滩上
 (of an angler) land (a fish) on a beach:（垂钓者）在海滩上降落（一条鱼）
 (of a whale or similar animal) become stranded out of the water:（鲸鱼或类似动物的）被搁浅出水
-leave (someone) at a loss:leave（某人）不知所措
+leave (someone) at a loss:让（某人）不知所措
 beach |biːtʃ| Noun/Verb/:海滩,上岸,沙滩
 fabulous sandy beaches:美妙的沙滩
 at the water's edge a rowing boat was beached:在水边，一艘划艇搁浅
@@ -288,7 +288,7 @@ take a moment out of your busy schedule:从繁忙的日程中抽出一点时间
 information on airline schedules:航班时刻表信息
 they need a clear schedule of fixtures and fittings:他们需要明确的固定装置和配件时间表
 the release of the single is scheduled for April:单曲预定4月发行
-Cowley Bridge has already been scheduled and protected as an ancient monument:CowleyBridge已被预定并保护为古迹
+Cowley Bridge has already been scheduled and protected as an ancient monument:考利桥已被列为古迹并受到保护
 
 the hard fibrous material that forms the main substance of the trunk or branches of a tree or shrub, used for fuel or timber:构成树木或灌木的树干或树枝的主要物质的硬纤维材料，用作燃料或木材
 wooden barrels used for storing alcoholic drinks:用于存放酒精饮料的木桶
@@ -336,7 +336,7 @@ walnut |ˈwɔːlnʌt| Noun/:核桃,胡桃木
 relating to Ireland, its people, or the Celtic language traditionally and historically spoken there:与爱尔兰、其人民或当地传统和历史上使用的凯尔特语有关
 (of a statement or action) paradoxical, illogical or apparently so.:（陈述或行动）自相矛盾的、不合逻辑的或显然如此。
 the Celtic language of Ireland.:爱尔兰的凯尔特语。
-the people of Ireland, Irish people collectively.:thepeopleofIreland，爱尔兰人民的统称。
+the people of Ireland, Irish people collectively.:爱尔兰人，爱尔兰人的统称。
 Irish |ˈʌɪrɪʃ| Adjective/Noun/:爱尔兰语,爱尔兰人
 the Irish government:爱尔兰政府
 
@@ -355,7 +355,7 @@ an adverb of manner:方式副词
 what manner of man is he?:他是个什么样的人？
 his arrogance and pompous manner:他的傲慢和浮夸的举止
 didn't your mother teach you any manners?:你妈妈没教过你礼貌吗？
-Trevor apologized for his son's bad manners:Trevor为儿子的不礼貌道歉
+Trevor apologized for his son's bad manners:特雷弗为儿子的无礼行为道歉
 I have no complaints about the performance or road manners:我对表演或道路礼仪没有任何抱怨
 
 manners | 礼仪,举止
@@ -373,7 +373,7 @@ learn manners | 学习礼仪,学会礼貌
 one of two children or animals born at the same birth:两个同时出生的孩子或动物中的一个
 a person or thing that is exactly like another:一个与另一个人完全一样的人或事物
 the zodiacal sign or constellation Gemini.:黄道星座或双子座。
-something containing or consisting of two matching or corresponding parts.:something包含或由两个匹配或对应的部分组成。
+something containing or consisting of two matching or corresponding parts.:包含或由两个匹配或相应部分组成的东西。
 a twin-bedded room:双床房
 a twin-engined aircraft.:一架双引擎飞机。
 a twinned crystal.:双晶。
@@ -382,15 +382,15 @@ forming a matching, complementary, or closely connected pair:形成一个匹配�
 growing in pairs:成对生长
 (of a bedroom) containing two single beds:（一间卧室）包含两张单人床
 (of a crystal) twinned.:（晶体）孪生。
-link (a town or district) with another in a different country or cause (two towns or districts) to be linked, for the purposes of friendship and cultural exchange:link（一个城镇或地区）与另一个国家或地区的另一个人或导致（两个城镇或地区）联系，以建立友谊和文化交流的目的
-link, combine:link，结合
+link (a town or district) with another in a different country or cause (two towns or districts) to be linked, for the purposes of friendship and cultural exchange:出于友谊和文化交流的目的，将（一个城镇或地区）与另一个国家或地区（两个城镇或地区）联系起来
+link, combine:链接、组合
 twin |twɪn| Adjective/Noun/Verb/:双胞胎,双,孪生
 experiments were carried out using sets of identical twins:实验是使用同卵双胞胎组进行的
 there was a bruise on his cheek, a twin to the one on mine:他的脸颊上有一块瘀伤，与我的双胞胎
 the hotel has 54 rooms, of which 4 are twins:酒店拥有54间客房，其中4间是双床间
 she gave birth to twin boys:她生下了双胞胎男孩
 the twin problems of economic failure and social disintegration:经济失败与社会解体的双重问题
-twin seed leaves:twin种子叶
+twin seed leaves:双子叶
 we have twin and three-bedded rooms:我们有双人房和三人房
 the Russian city of Kostroma is twinned with Durham:俄罗斯科斯特罗马市与达勒姆结成双胞胎
 the company twinned its core business of brewing with that of distilling:公司将酿造与蒸馏的核心业务结合起来
@@ -409,7 +409,7 @@ this weekend's powerful earthquake:本周末强烈地震
 his powerful shoulders bulged under his suit:他强壮的肩膀在他的西装下鼓起
 his determination sends a powerful message to the drug industry:他的决心向制药业发出了强有力的信息
 few other topics engender such powerful feelings:很少有其他话题能产生如此强烈的感受
-walking is powerful hot work:walking是强大的热作
+walking is powerful hot work:步行是强大的热工
 
 occurring or done many times at short intervals:在短时间内发生或多次执行
 (of a person) doing something often, habitual:（某人）经常做某事，习惯性的
@@ -427,7 +427,7 @@ a barrier of branches in a stream, constructed by a beaver to provide a deep poo
 an artificial pond or reservoir where rain or spring water is collected for storage:收集雨水或泉水储存的人工池塘或水库
 a rubber sheet used to keep saliva from the teeth during dental operations, or as a prophylactic device during cunnilingus and anilingus.:一种橡胶片，用于在牙科手术期间防止唾液进入牙齿，或在舔阴和肛门时作为预防装置。
 build a dam across (a river or lake):在（河流或湖泊）上修建水坝
-hold back or obstruct (something):hold住或阻碍（某事）
+hold back or obstruct (something):阻止或阻碍（某事）
 the female parent of an animal, especially a domestic mammal:动物的母本，尤其是家养哺乳动物
 decametre(s).:十米。
 dam |dam| Noun/Residual/Verb/:坝,水坝,大坝,坝子
@@ -450,10 +450,10 @@ denoting a linguistic form that can be used in isolation.:表示可以单独使�
 not subject to engagements or obligations:不受约定或义务约束
 (of a facility or piece of equipment) not occupied or in use:（设施或设备）未被占用或使用
 not subject to or affected by (something undesirable):不受（不受欢迎的事物）影响或影响
-given or available without charge:given或免费提供
+given or available without charge:免费给予或提供
 using or expending something without restraint, lavish:无节制地使用或消费某物，奢侈
 frank or unrestrained in speech, expression, or action:frank或在言语、表达或行动上不受约束
-overfamiliar or forward.:overfamiliarorforward。
+overfamiliar or forward.:过分熟悉或前进。
 (of literature or music) not observing the normal conventions of style or form.:（文学或音乐）不遵守风格或形式的正常惯例。
 (of a translation) conveying only the broad sense, not literal.:（翻译）只传达广义的意思，而不是字面意思。
 (of the wind) blowing from a favourable direction to the side or aft of a vessel.:（风）从有利的方向吹向船的侧面或船尾。
@@ -462,7 +462,7 @@ I have no ambitions other than to have a happy life and be free:我没有野心�
 you are free to leave:你可以自由离开
 a free press:a自由新闻
 the poor among the free men joined the slaves against the rich:自由人中的穷人加入了奴隶对抗富人的行列
-the Free Dutch, Free Polish, and Free Norwegian fleets:theFreeDutch、FreePolish和FreeNorway舰队
+the Free Dutch, Free Polish, and Free Norwegian fleets:自由荷兰、自由波兰和自由挪威舰队
 the researchers set the birds free:研究人员放飞了鸟儿
 he tried to kick his legs free:他试图自由踢腿
 the atmosphere of that time contained virtually no free oxygen:当时的大气几乎不含游离氧
@@ -520,7 +520,7 @@ the English curriculum would then be versioned for Northern Ireland, Scotland, a
 relating to or specifically designed for people with a physical or intellectual disability:与身体或智力残疾的人有关或专门为他们设计
 disabled |dɪsˈeɪbld| Adjective/:禁用,残疾人
 facilities for disabled people:残疾人设施
-disabled access is available at all venues:disabled可在所有场地使用
+disabled access is available at all venues:所有场馆均设有残疾人通道
 
 walk in a military manner with a regular measured tread:以军事方式行走，有规律的踏步
 walk quickly and with determination:走路快而有决心
@@ -535,7 +535,7 @@ an area of land on the border between two countries or territories, especially b
 (of a country, territory, or estate) have a common frontier with:（国家、领地或阶层的）与
 the third month of the year, in the northern hemisphere usually considered the first month of spring:一年的第三个月，在北半球通常被认为是春天的第一个月
 march |mɑːtʃ| Noun/Verb/:,抗议游行,游行,行军,三月
-thousands marched behind the coffin:thousands在棺材后面游行
+thousands marched behind the coffin:数千人在棺材后面游行
 without a word she marched from the room:她一言不发地走出了房间
 she gripped Rachel's arm and marched her through the door:她抓住瑞秋的胳膊，带她进了门
 unemployed workers marched from Jarrow to London:失业工人从杰罗游行到伦敦

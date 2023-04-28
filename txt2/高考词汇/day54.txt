@@ -1,0 +1,733 @@
+necessary						必要的，钱
+necessaries						生活必需品
+gold						黄金，金牌，金色
+sympathy						同情，支持，意气相投
+sympathies						慰问，同情心
+tomato						番茄，鲜红色
+create						创造，引起，发脾气
+anyhow						随便的
+declare						宣告，表态
+recommend						推荐，托付
+London						伦敦
+addicted						上瘾的
+focus						重点，聚焦，集中
+forget						忘记
+forget oneself						举止不得体
+sailing						帆船，水运航班
+serious						严肃的，严重的
+dad						爸爸
+scold						责骂
+vacation						假期，放假
+immediate						立即的，紧急的，最近的，直接的
+immediate concerns							当务之急
+an immediate neighbor						近邻
+timetable						时间表
+recycle						回收利用
+fall						落下，发生，失守
+fall ill						生病
+falls						瀑布
+join						连接，加入
+join in						加入
+join on						连接
+join up						会合，参军
+pink						粉红色
+joy						高兴，满足
+muddy						泥泞的，浑浊的
+rest						休息，静止，中止，剩余部分
+rest on						依靠，凝视
+exit						出口，离开
+headline						大标题
+headlines						新闻摘要
+flu						流感
+network						网络
+\\\\\\\\
+
+adj. necessary (for sb/sth) (to do sth) 对于某一目的（或理由）来说是被需要的，即必要的，必需的，相当于essential:
+adj. 只用于名词前，必定存在或发生且不可避免的，即必然的，无法避免的，相当于inevitable:
+necessary |['nesɪsərɪ]
+It may be necessary to buy a new one. 也许有必要买个新的了。
+It doesn’t seem necessary for us to meet. 我们似乎没必要见面。
+I’ll make the necessary arrangements. 我会做一些必要的安排。
+The cold weather has made it necessary to protect the crops. 天气寒冷，庄稼必须加以保护。
+We are here to give help and support when necessary. 如有需要，我们随时提供帮助和支援。 
+This is a necessary consequence of progress. 这是发展的必然后果。
+
+what is needed; essential items 必需品
+necessaries |英/美 ['nɛsəsɛrɪz]| n. 必需品（necessary的复数）/
+the necessaries of life
+
+
+n. [U, C] 金牌，与gold medal同义:
+n. [U, C] 金色:
+adj. 金色的，只作前置定语:
+n. 1 [U] 化学上的金，黄金:
+2 [U] 由黄金制成的钱币、饰品等:
+gold |[ɡəʊld]
+Olympic gold 奥运会金牌 
+She got a gold in the long jump. 她得到一块跳远金牌。
+I love the golds of autumn. 我喜欢秋天的金黄色。
+gold letters 金色字母
+pure gold 纯金 
+real gold 真金 
+18-carat gold 18K的黄金 
+gold mine 金矿 
+gold rush 淘金热 
+gold bar 金条 
+gold coin, gold necklace 金币；金项链 
+gold market, gold reserves 黄金市场；黄金储备 
+Disney remains the gold standard of family entertainment.（比喻用法）迪士尼仍是家庭娱乐的黄金标准。
+His wife was dripping with gold. 他的妻子披金戴银。
+
+n. [U, C, usually pl.] 对某人的同情（表明你理解并关心对方所面临的问题）。是此义的常规用词:
+n. [U, C, usually pl.] 对一个想法或观点、一项事业、一个组织等表示支持或赞同的一种行为，即支持，赞同:
+n. [U] 拥有相似观点或兴趣的人们之间的友谊或相互理解，即意气相投:
+sympathy |['sɪmpəθɪ]
+I have no sympathy for Jane, it’s all her own fault. 我不同情简，那都是她自己的错。
+Our heartfelt sympathy goes out to the victims of the war. 我们对战争的受害者表示由衷的同情。
+She expressed her deepest sympathy for him. 她向他表达了最深切的同情。
+to waste sympathy 浪费同情心 
+I don’t want your sympathy! 我不想要你的同情！ 
+Nurses came out on strike in sympathy with the doctors. 护士们罢工以声援医生们。
+The government showed sympathy to their cause. 政府对他们的事业表示了支持。
+Her sympathies lie with the anti-abortion lobby. 她支持反堕胎院外活动集团。
+There was no personal sympathy between them. 他们个人之间全无相投之处。
+
+If you take some action in sympathy with someone else, you do it in order to show that you support them. 支持
+If you have sympathy with someone's ideas or opinions, you agree with them. 赞同
+If you have sympathy for someone who is in a bad situation, you are sorry for them, and show this in the way you behave toward them. 同情
+sympathies || n. 同情（sympathy的复数）/
+Several hundred workers struck in sympathy with their colleagues.几百名工人举行罢工以示对其工友们的支持。
+Lithuania still commands considerable international sympathy for its cause.立陶宛仍得到相当多对其事业的国际支持。
+I have some sympathy with this point of view.我对这一观点有些赞同。
+I have had very little help from doctors and no sympathy whatsoever.我从医生那儿得到的帮助极少，而且没得到任何同情。
+We expressed our sympathy for her loss.我们对她的损失表示了同情。
+
+
+n. [C, U] 西红柿，番茄:
+tomato |[tə'mɑ:təu,tə'meitəu]
+green, red tomato 青西红柿；红西红柿 
+tomato soup 番茄汤
+
+vt. 给予某人一个特定的等级或头衔，如授予、册封:
+vt. 引起、造成或产生（某种感觉或印象）:
+vt. 使某事发生或存在，如创造:
+create |[krɪ'eɪt]
+The government has created eight new peers. 政府新封了八个贵族。
+He was created a baronet in 1715. 他于1715年被封为准男爵。
+The company is trying to create a young energetic image. 该公司正试图塑造一个充满活力的年轻形象。
+The announcement only succeeded in creating confusion. 那通告反而引起了混乱。
+They’ve painted it red to create a feeling of warmth. 他们把它刷成红色以营造一种温暖的感觉。
+Scientists disagree about how the universe was created. 科学家对宇宙是怎样形成的有分歧。
+to create wealth 创造财富 
+to create jobs 创造就业机会 
+Create a new directory and put all your files into it. 创建一个新的目录，然后把你所有的文件都放进去。
+Try this new dish, created by our head chef. 品尝一下这道新菜吧，是我们厨师长首创的。
+
+adv. 同anyway:
+adv. 随便地；不仔细地；排列得杂乱无章地:
+anyhow |['enɪhaʊ]
+见anyway。（词义与anyway几乎完全相同，只是不如anyway常用）
+She piled the papers in a heap on her desk, just anyhow. 她把文件在桌上随便堆在一起。
+
+vt.＆vi. 1 正式或公开地说出某事，即宣布、宣告。发出消息的主体常是一个官方组织，当然也可以是作为个体的人等。与announce在词义上未见明显差别。但announce仅为及物动词:
+2 坚定而清楚地阐述，即断言，声称，声明。发出断言的主体常是作为个体的人:
+vt.＆vi. 1 向税务部门申报自己的收入:
+2 向一国海关申报应纳税物品:
+declare |[dɪ'kleə]
+The government has declared a state of emergency. 政府已宣布进入紧急状态。
+to declare war 宣战 
+I declare this bridge open. 我宣布大桥正式启用。
+The area has been declared a national park. 该地区已宣布为国家公园。
+The court declared that strike action was illegal. 法庭宣判罢工为非法。
+The contract was declared void. 这份合同被宣布无效。
+The painting was declared to be a forgery. 这幅画被判定为赝品。
+‘I’ll do it!’ Tom declared.“让我来！”汤姆果断地说。
+He declared that he was in love with her. 他声称他已爱上她。
+to proudly declare 骄傲地宣称 
+to declare confidently 自信地宣称 
+Stravinsky famously declared that music expressed nothing. 斯特拉文斯基有一句名言，说音乐什么也不表达。
+All income must be declared. 所有收入必须申报。
+Do you have anything to declare? 你有什么要申报的吗？
+
+vt. recommend sb/sth (to sb) 使…看起来吸引人（或使其显得好），相当于commend:
+vt. 提出一个行动方案以供考虑；建议某人去做某事。即建议、提议。其含义结合了suggest和advise，不过不如二者常用:
+vt. recommend sb/sth (to sb) (for/as sth) 告诉某人…是好的或有用的，或某人适合某一工作岗位等，即推荐，举荐，介绍等。是此义的常规用词:
+recommend |[rekə'mend]
+This system has much to recommend it. 这套系统有很多可取之处。
+Your idea has much to recommend it. 你的主意有许多可取之处。
+The report recommended a 10% pay increase. 报告提议工资增加10%。
+the recommended dose 建议使用的剂量 
+a recommended price of $50 建议售价50美元 
+I recommend (that) he see a lawyer. 我建议他去找个律师。
+It is strongly recommended that the machines should be checked every year. 强烈建议每年把机器检修一次。
+Can you recommend a good hotel? 你能推荐一家好的饭店吗？
+She was recommended for the post by a colleague. 她获得同事推荐到这个岗位。
+I definitely recommend this movie. 我大力推荐这部电影。
+
+
+London |英 [ˈlʌndən]  美 [ˈlʌndən]| n. 伦敦/
+
+
+
+adj. 1 addicted (to sth)不用于名词前，吸毒成瘾的，或使用…成为一种习惯的，做某事成为一种习惯的:
+2 addicted (to sth)不用于名词前，因太感兴趣而花费全部自由时间做某事的，即入迷的:
+adj. addicted (to sth) 不用于名词前，指吸毒成瘾的:
+addicted |[ə'dɪktɪd]
+to become addicted to drugs 吸毒成瘾 
+to become addicted to gambling 嗜赌 
+She had become addicted to painkillers. 她吃止痛药已经上瘾了。
+He’s addicted to computer games. 他迷上了电脑游戏。
+to become addicted to drugs 吸毒成瘾 
+She had become addicted to painkillers. 她吃止痛药已经上瘾了。
+
+vt.＆vi. focus (sth) (on/upon sb/sth) 集中（注意力、精力等）于…上:
+vt.＆vi. focus (sth) (on/upon sb/sth) 集中（注意力、精力等）于…上:
+vt.＆vi.（眼睛、望远镜等）看（强调通过眼睛对焦来看，往往需要付出一定的努力）:
+vt.＆vi. focus (sth) (on sb/sth)（眼睛、摄影机、相机、望远镜等）调节焦距（或使其调节焦距）以清晰地看到…，即对焦；看:
+vt. [术语]（用透镜或镜头等）将光束集中于某个点上:
+n. 1 [U] 眼睛或镜头的焦距（即眼睛或镜头与被视对象之间的距离，该距离能够使人清晰地看到被视对象）；也可指该焦距下的焦点:
+2 [C] 物理学中可指光波经过反射或折射后汇聚而成的焦点；也可指光波的波源。也可用focal point:
+vt. [术语] 用磁线圈将电子束聚集成小点:
+n. [C] 物理学中可指光、声等能量的波经过反射或折射后汇聚而成的焦点；也可指能量波的波源。也可用focal point:
+n. [C] 地震的震源:
+vt.＆vi. focus (sth) (on sb/sth)（眼睛）调节焦距（或使其调节焦距）以清晰地看到…，即对焦；看:
+n. [U] 眼睛的焦距（即眼睛与被视对象之间的距离，该距离能够使人清晰地看到被视对象）；也可指该焦距下的焦点:
+n. [U] 镜头的焦距（即镜头与被视对象之间的距离，该距离能够使人清晰地看到被视对象）；也可指该焦距下的焦点:
+vt.＆vi. focus (sth) (on sb/sth)（摄影机、相机等）调节焦距（或使其调节焦距）以清晰地看到…，即对焦:
+n. [U, C, usually sing.] focus (for/on sth) 人们所最感兴趣的人或事物；将注意力聚焦于某事且使人们对该事件感兴趣的行为:
+focus |['fəʊkəs]
+The discussion focused on three main problems. 讨论集中在三个主要问题上。
+The visit helped to focus world attention on the plight of the refugees. 这次访问促使全世界关注难民困境。
+The attention of the news media was firmly focused on the elections. 新闻媒体密切关注着选举。
+The discussion focused on three main problems. 讨论集中在三个主要问题上。
+Each exercise focuses on a different grammar point. 每个练习各有不同的语法重点。
+The attention of the news media was firmly focused on the elections. 新闻媒体密切关注着选举。
+The study was criticized for being too narrowly focused. 这一研究因关注范围过窄而遭到批评。
+Let your eyes focus on objects that are further away from you. 睁大眼睛看清楚离你较远的物体。
+He focused his blue eyes on her. 他那蓝色的眼睛注视着她。
+It took a few moments for her eyes to focus in the dark. 过了好几分钟她的眼睛才适应了黑暗。
+She blinked and tried to focus. 她眨了眨眼睛试图让自己看清楚。
+Let your eyes focus on objects that are further away from you. 睁大眼睛看清楚离你较远的物体。
+In this scene, the camera focuses on the actor’s face. 在这个镜头中，摄影机对准演员的脸部。
+The children’s faces are badly out of focus in the photograph. 照片上孩子们的脸模糊不清。
+When I got glasses suddenly the whole world came into focus. 我一戴上眼镜，整个世界忽然变得很清晰。
+sharp focus 清晰的聚焦点
+Magnetic coils focus the electron beams into fine spots. 磁线圈将电子束聚焦成细小的点。
+sharp focus 清晰的聚焦点
+His eyes slowly began to focus on the black spot. 他的眼睛开始慢慢聚焦到那个小黑点上。
+She blinked and tried to focus. 她眨了眨眼睛试图让自己看清楚。
+He focused his blue eyes on her. 他那蓝色的眼睛注视着她。
+His focus switched to the little white ball. 他的焦点转移到了那个小白球上。
+When I got glasses suddenly the whole world came into focus. 我一戴上眼镜，整个世界都变得清晰了。
+The children’s faces are badly out of focus in the photograph. 照片上孩子们的脸模糊不清。
+Pictures should be in focus. 照片应该成像清晰。
+The camera focuses on the actor’s face. 摄影机对准演员的脸部。
+It was the main focus of attention at the meeting. 这是会议上关注的主要焦点。
+In today’s lecture the focus will be on tax structures within the European Union. 今天讲课的重点是欧盟内部的税制结构。
+The incident brought the problem of violence in schools into sharp focus. 这次事件使校园暴力成为焦点问题。
+We shall maintain our focus on the needs of the customer. 我们将继续聚焦于顾客的需要。
+
+vt. forget yourself 自己举止不得体:
+vt.＆vi. 1 forget (about) sth 不能记起过去发生的某事（或自己过去知道的信息），即忘记，遗忘。是此义的常规用词:
+2 forget (about) sth 忘记去做本应该做的事；忘记带本应该带的东西；忘记买本应该买的东西:
+3 forget (about) sb/sth 故意不再去想某人或某事:
+4 forget (about) sth 不再考虑某事的可能性:
+forget |[fə'ɡet]
+I’m forgetting myself. I haven’t offered you a drink yet! 我真是不成体统。还没有让您喝点什么呢！
+I’d completely forgotten about the money he owed me. 我完全记不得他欠我的钱了。
+I’ve forgotten where they live exactly. 我忘记了他们的确切住址。
+I’ll never forget hearing this piece of music for the first time. 我永远不会忘记第一次听到这首曲子的情景。
+‘Why weren’t you at the meeting?’ ‘Sorry--I forgot.’ “你为什么没有参加会议？”“对不起，我忘了。”
+I forgot to ask him for his address. 我忘记向他要地址。
+I forgot my purse. 我忘了带钱包。
+Take care, and don’t forget to write. 要保重，别忘了写信。
+Try to forget about what happened. 尽量不再想发生过的事情。
+Forget him! 别把他放在心上！
+Let’s forget our differences and be friends. 咱们别把分歧放在心上，做个朋友吧。
+If I lose this job, we can forget about buying a new car. 要是我丢掉这份工作，我们就别想买新车。
+‘I was hoping you might be able to lend me the money.’ ‘You can forget that!’ “我希望你能借钱给我。”“打消这个念头吧！”
+
+n. 1 [U] 体育中的帆船运动；乘帆船的航行活动:
+n. [C]（在固定的时间从某港口开出的）水运航班:
+sailing |[ˈseɪlɪŋ]
+to go sailing 去进行帆船运动 
+dinghy sailing（英）小帆船运动 
+sailing club, sailing school 帆船俱乐部；帆船学校 
+sailing regatta 帆船赛 
+sailing holiday（英）, sailing trip 航行度假；航海旅行 
+sailing boat（英）（美用sailboat）, sailing craft, sailing dinghy（英）, sailing ship, sailing vessel 帆船；小帆船；大帆船 
+There was swimming and sailing down on the lake. 有人在湖上游泳和扬帆。
+There are six sailings a day. 每天有六个船运航班。
+Ferry companies are providing extra sailings from Calais. 渡船公司加开了从加来出发的航班。
+We'll get the next sailing. 我们将坐下一班船。
+
+adj. 1 需要认真考虑的，严肃的:
+2（人考虑事情）理智严肃的，不愚蠢的，稳重的:
+serious (about doing sth) 真心的，郑重的，不把…当笑话的:
+4（音乐或文学）严肃的（即需要集中精力去理解或鉴赏的）:
+adj. [非正式] 用于强调数量之大:
+adj. [非正式] 用于强调数量之大:
+adj.（问题或情况）糟糕且使人担心或害怕的，即严重的，危急的:
+adj. 重要的，需要重视的:
+serious |['sɪərɪəs]
+a question which deserves serious consideration 一个值得认真考虑的问题 
+a serious article 一篇严肃的文章 
+to face up to the problem in a serious way 认真面对这一问题 
+He’s a very serious man. 他是一个非常严肃的人。
+Be serious for a moment; this is important. 严肃点，这件事很重要。
+3 serious (about sb/sth) 
+Are your serious about resigning? 你真的要辞职吗？
+He’s really serious about her and wants to get engaged. 他对她的确是认真的，他想跟她订婚。
+You think I did it? Be serious! 你认为这是我干的？别开玩笑了！
+serious classical music 严肃的古典音乐
+to earn serious money 挣一大笔钱 
+to do some serious eating 大吃一顿
+to earn serious money 挣一大笔钱
+a serious problem 严重的问题 
+a serious difficulty 严重的困难 
+a serious illness 严重的疾病 
+a serious offence 严重的罪行 
+to cause serious injury 导致重伤 
+to cause serious damage 造成严重破坏 
+to pose a serious threat to public security 对公共安全构成严重威胁 
+The consequences would be very serious. 后果将会很严重。
+a serious allegation 严重的指控 
+This situation could be very serious for her. 情况对她十分不利。
+a serious matter 一件重要的事情 
+a serious opponent 一个不可轻视的对手 
+This is serious. 这件事很重要。
+to get down to serious business 干正经事
+
+n. [C] [非正式]（常用作称呼）爸爸:
+dad |[dæd]
+That’s my dad over there. 那边那位是我爸爸。
+Is it OK if I borrow the car, Dad? 爸爸，借用一下汽车好吗？
+
+vt.＆vi. [正式] scold sb (for sth/for doing sth) 因某人（尤指孩子）做了错事而对其愤怒地讲话，即责骂:
+scold |[skəʊld]
+He scolded them for arriving late. 他嫌他们迟到，训了他们一通。
+Rose scolded the child gently for being naughty. 罗丝温和地批评了那个淘气的孩子。
+
+n. 1 [C] 在英国可指大学的假期或法庭的休庭期；在美国可指学校的假期或法庭的休庭期:
+2 [U, C] [美] 离家出去旅行（或出去休息）的一段时间，即度假期，相当于holiday:
+vi. [美] 在某处度假或休假，相当于holiday:
+vacation |[və'keɪʃn;veɪ-]
+school vacation 学校假期 
+paid vacation 带薪假期 
+summer vacation 暑假 
+annual vacation 年假 
+vacation day 假日 
+vacation pay 假期工资 
+family vacation 家庭度假 
+beach vacation 海滨度假 
+European vacation 去欧洲的度假 
+vacation trip 度假之旅 
+vacation resort 度假胜地 
+vacation cottage 度假小屋 
+They are currently vacationing in Florida. 他们目前正在佛罗里达州度假。
+
+adj. 立即的、立刻的:
+adj. [常用于名词前] 迫切的:
+adj. [只用于名词前]（在时间上）紧接着的:
+adj. [常用于名词前] 目前的；当前的:
+adj. [只用于名词前]（关系）直系的:
+adj. [只用于名词前]（在空间上）接近的；附近的:
+adj. 1 [只用于名词前]（关系或级别）最接近的，直系的，直接的:
+2 [只用于名词前] 产生直接结果的:
+immediate |[ɪˈmi:diət]
+an immediate reaction, immediate response 即时的反应；即时的回应 
+to take immediate action 立刻采取行动 
+My immediate reaction was just disgust. 我当时的第一反应就是反感。
+The effect seems immediate. 效果似乎马上就显现出来了。
+The painkillers brought almost immediate relief. 止痛药几乎立即缓解了疼痛。
+Our immediate concern is to help the families of those who died. 我们的当务之急是帮助那些死者的亲属。
+The effects of global warming, while not immediate, are potentially catastrophic. 全球气温上升的后果虽然并非即时发生，但可能潜伏着大灾难。
+Relief agencies say the immediate problem is not a lack of food, but transportation. 救援机构称最紧迫的问题不是食物匮乏,而是运输不畅。
+The prospects for the immediate future are good. 短期内前景乐观。
+my immediate predecessor in the job (= the person who had the job just before me) 我的职位的前一任 
+In the immediate aftermath of the riots, a mood of hope and reconciliation sprang up. 暴乱过后紧接着出现了期待未来与盼望和解的气氛。
+The hospital says she's out of immediate danger. 医院说她眼下已没有危险。
+The funeral was attended by her immediate family (= her parents, children, brothers and sisters) only. 只有她的直系亲属参加了葬礼。
+Only a handful had returned to work in the immediate vicinity. 仅有几个人回到临近地区工作。
+I was seated at Sauter's immediate left. 我紧挨着索特左手边坐着。
+The director is standing on her immediate right. 主管就挨在她的右边站着。
+The funeral was attended by her immediate family (= her parents, children, brothers and sisters) only. 只有她的直系亲属参加了葬礼。
+He is my immediate superior (= the person directly above me) in the company. 他在公司里是我的顶头上司。
+The immediate cause of death is unknown. 造成死亡的直接原因不明。
+
+n. [C]（对事情进行计划的）时间表，时间安排，时间计划:
+vt. [尤英] 常用被动式，表示为某事安排时间:
+n. [C] [尤英；美常用schedule] 学校的课程表:
+n. [C] [尤英；美常用schedule]（车、船或飞机等交通工具的）时刻表:
+timetable |['taɪmteɪbl]
+to set out a timetable for the task 为该项任务制定时间表 
+a busy timetable 时间安排得很紧 
+The timetable was too optimistic. 这个时间表过于乐观。
+a specific timetable 具体时间表 
+The test for the new product has been timetabled a week later. 新产品的测试已经安排在了一个星期以后。
+The timetable includes English, history and geography. 课程表上包括英语、历史和地理。
+a full timetable of teaching 满满当当的教学任务表 
+school timetable 学校课程表 
+exam timetable 考试时间表 
+bus, train timetable 公交车时刻表；列车时刻表 
+It said in the timetable that a train was due at 5.30. 时刻表上写着5点30分有一趟火车到站。
+
+vt. 再次使用相同的想法、方法、玩笑等:
+vt. 再次使用相同的想法、方法、玩笑等:
+vt. 对事物的回收利用、再利用:
+recycle |[͵ri:'saɪkl]
+to recycle the idea 再次使用那个点子 
+to recycle his arguments 重复他的论点
+to recycle the idea 再次使用那个点子 
+to recycle his arguments 重复他的论点
+to recycle domestic waste 回收利用生活垃圾 
+recycled paper 再生纸 
+These materials are recycled into other packaging products. 这些材料被回收后制成其他包装产品。
+The packaging can be recycled. 包装可以回收。
+recycled waste, recycled materials 回收的废物；循环使用的材料
+
+n. [sing.]（人、组织等由于做错了某事而导致的）威信的丧失；不再受别人尊敬:
+vt.＆vi.（数量、数字、强度等）减少，下降:
+n. [C] fall (in sth)（尺寸、数字、比率、水平等的）减少或降低:
+n. [C] [美] 秋天，相当于autumn:
+n. [sing.] fall (of sth)（政权或经济等的）垮台或崩溃；成功的丧失（即崩溃）；战争中（城市、国家等）的失守、沦陷或灭亡:
+vi. 被打败；沦陷；失守；（政权等）垮台:
+vi.（目光）突然注意到…:
+vi.（常由于非常疲倦而）急匆匆或随意地一头倒下:
+vi.（光线或影子）落在…上:
+vt.＆vi. 进入（某种状态）；开始变成（某事物）:
+vi. 属于（某个等级、类别、群体或责任范围）:
+vi. 1 [文学] fall (on sb/sth)（快速且突然地）来到或出现:
+2（某个庆典或特殊事件）发生在某一天或某个日期，即适逢（某日）:
+3（夜幕或黑暗）降临:
+vi. [文学]（在战斗中）阵亡；被击毙:
+n. [pl.] falls 可尤用于名称，指瀑布，相当于waterfall:
+vi. fall (away/off) 向下倾斜:
+vi. 1（从高处）落下；掉落:
+2 突然倒下（如跌倒；倒塌）:
+n. 1 [C] 落下；下落；跌落；掉落:
+2 [sing.] fall of sth 下落的方式；或发生的方式:
+vi.（毛发或材料）下垂:
+n. [sing.] 下垂:
+n. [sing.] the fall 在《圣经》中可指人类的堕落（即亚当和夏娃违背上帝意旨而被迫离开伊甸园）:
+vi.（雨或雪）降落。其本身并不表示“下雨”，只有放在表示“雨”或“雪”的词后面，才能共同表示“下雨”或“下雪”:
+n. [C] fall (of sth)（雪、岩石等的）降落的数量:
+vi.（重音）落在（某个音节上）:
+fall |[fɔ:l]
+the TV preacher’s spectacular fall from grace 电视布道者威信的遽降
+Their profits have fallen by 30 per cent. 他们的利润减少了30%。
+Prices continued to fall on the stock market today. 今天股票市场价格继续下跌。
+The temperature fell sharply in the night. 夜间温度陡降。
+falling birth rates 下降的出生率 
+Her voice fell to a whisper. 她的声音变小，成了耳语。
+a steep fall in profits 利润的骤降 
+a big fall in unemployment 失业人数的大大减少 
+There was a sharp fall in the value of the dollar. 美元的价值有大幅下降。
+a big fall in house prices 房价的大幅下降 
+The opinion polls show a significant fall in her popularity. 民意调查显示她的支持率明显降低。
+This figure represents a fall of 21% on the same period last year. 这一数字表明与去年同期相比下降了21%。
+in the fall of 2019 在2019年的秋天 
+early fall 初秋 
+fall equinox 秋分
+the fall of the Roman Empire 罗马帝国的灭亡 
+the rise and fall of British industry 英国工业的兴衰 
+the fall of Berlin 柏林的沦陷 
+the fall of the dictator 独裁者的垮台
+The coup failed but the government fell shortly afterwards. 政变虽然流产，但是不久以后政府便垮台了。
+Troy finally fell to the Greeks. 特洛伊城最终落入希腊人之手。
+My eye fell on a curious object. 我突然看到一个奇怪的东西。
+His eye fell upon a note in Grace’s handwriting. 他突然注意到一张有格雷斯笔迹的便条。
+Totally exhausted, he fell into bed. 他疲惫极了，一头倒在了床上。
+the shadow that suddenly fell across the doorway 突然落在门道上的影子 
+A shadow fell across her face. 一片阴影掠过她的脸庞。
+He had fallen asleep on the sofa. 他在沙发上睡着了。
+The book fell open at a page of illustrations. 书翻开在有插图的那一页。
+The room had fallen silent. 整个房间都变得静悄悄的。
+She fell ill. 她病倒了。
+to fall into conversation with sb 与某人攀谈起来 
+The house had fallen into disrepair. 这栋房子已年久失修。
+to fall prey to his charm 被他迷住 
+to fall in love this place 爱上这个地方 
+They fall victim to exploitation. 他们成为了剥削的牺牲品。
+Out of over 400 staff there are just 7 that fall into this category. 400多个职员中只有7人属于这一类。
+The problems generally fall into two categories. 这些问题一般属于两种类别。
+This falls under the heading of scientific research. 这一项属于科研类目。
+That topic falls outside the scope of this thesis. 那个论题偏离了这篇论文论述的范围。
+This case falls outside my jurisdiction. 这个案件不属于我的管辖范围。
+A sudden silence fell. 突然一片鸦雀无声。
+My birthday falls on a Monday this year. 今年我的生日适逢星期一。
+As darkness fell outside, they sat down to eat at long tables. 当外面黑暗降临时，他们坐在长条桌子旁吃饭。
+a memorial to those who fell in the two world wars 两次世界大战阵亡将士纪念碑
+The falls upstream are full of salmon. 上游瀑布一带盛产鲑鱼。
+Niagara Falls 尼亚加拉瀑布
+The land falls away sharply towards the river. 地势向河边陡然倾斜。
+The book had fallen onto the floor. 那本书掉到了地上。
+A kid fell into the river. 一个小孩掉进了河里。
+The handle had fallen off the drawer. 抽屉的拉手掉了。
+falling leaves 正在飘落的叶子 
+He fell from the fourth floor. 他从四层楼上摔了下来。
+Bombs fell in the town. 炸弹落在了镇子里。
+Tears fell freely from her eyes. 她任由泪水夺眶而出。
+She slipped on the ice and fell. 她在冰上滑了一跤。
+I fell over and cut my knee. 我摔倒了，划破了膝盖。
+He stumbled and almost fell. 他绊了一下，几乎摔倒。
+to fall forward 向前跌倒 
+The house was about to fall down. 这座房子摇摇欲坠。
+She was killed in a fall from a horse. 她从马背上掉下来摔死了。
+Luckily a bush broke his fall. 幸运的是，他掉落时有灌木挡了一下。
+He was hurt in a fall at his home yesterday. 昨天他在家摔了一跤，受伤了。
+the fall of the dice 骰子的掷出
+Her hair fell over her shoulders in a mass of curls. 她的鬈发披肩。
+the dark fall of her hair 她那垂泻的黑发
+The rain was falling steadily. 雨不停地下着。
+the snow falling on the fields 落在田野中的雪 
+a heavy fall of snow 一场大雪 
+a rock fall 岩崩 
+a light fall of volcanic ash 落下的一层薄薄的火山灰
+Which syllable does the stress fall on? 重音在哪个音节？
+
+If you fall somewhere, you allow yourself to drop there in a hurried or disorganized way, often because you are very tired. 一头倒下
+Fall is also a noun. 降落
+When rain or snow falls, it comes down from the sky. (雨或雪) 降落
+fallen 倒下的
+Fall down means the same as . 跌倒
+Fall is also a noun. 跌倒
+If a person or structure that is standing somewhere falls, they move from their upright position, so that they are then lying on the ground. 跌倒
+Fall is also a noun. 落下
+If someone or something falls, they move quickly downward onto or toward the ground, by accident or because of a natural force. 落下
+falls |英 [fɔ:ls]  美 [fɔ:ls]| n. [水文] 瀑布；陨石/v. 下降（fall的第三人称单数）/n. (Falls)人名；(英)福尔斯/
+At that point the radio handset fell to pieces.就在那一刻收音机的遥控器摔碎了。
+The falls have always been an insurmountable obstacle for salmon and sea trout.这些瀑布始终是鲑鱼和海鳟鱼不可逾越的障碍。
+Almost without exception these women fall victim to exploitation.几乎毫无例外这些女人都成为了剥削的牺牲品。
+It is almost impossible to visit Florida without falling in love with the state.参观佛罗里达州却不爱上这个州，这几乎是不可能的。
+As darkness fell outside, they sat down to eat at long tables.当外面黑暗降临时，他们坐在长条桌子旁吃饭。
+As he laid the flowers on the table, his eye fell upon a note in Grace's handwriting.他把花放在桌上时，突然注意到一张有格雷斯笔迹的便条。
+Nancy, out of the corner of her eye, saw the shadow that suddenly fell across the doorway.南希从眼角余光看到那突然落在门道上的影子。
+...the oddly named Quasimodo Sunday which falls on the first Sunday after Easter.…被古怪地命名为“卸白衣主日”是复活节后的第一个星期天。
+The problems generally fall into two categories.这些问题一般属于两种类别。
+...the fall of Rome.…罗马的失守。
+Croatian army troops retreated from northern Bosnia and the area fell to the Serbs.克罗地亚军队从波斯尼亚北部撤退，随后该地区失守了，落入塞尔维亚人之手。
+Following the fall of the military dictator in March, the country has had a civilian government.军事独裁者3月垮台之后，该国已有了一个平民政府。
+Regimes fall, revolutions come and go, but places never really change.政权垮台了，革命起起伏伏，但各个地方从未真正改变。
+There was a sharp fall in the value of the dollar.美元的价值有大幅下降。
+The rate of convictions has fallen.有罪判决率已经下降。
+Output will fall by 6%.产量将下降6%。
+Totally exhausted, he tore his clothes off and fell into bed.他疲惫极了，胡乱地脱下衣服便一头倒在了床上。
+One night there was a heavy fall of snow.一天晚上天降大雪。
+Winds reached up to 100 mph in some places with an inch of rain falling within 15 minutes.风在有些地方达到每小时100英里，伴有15分钟内1英寸的降雨量。
+A number of roads have been blocked by fallen trees.一些道路被倒下的树堵住了。
+I hit him so hard he fell down.我使劲地打他，他摔倒了。
+She broke her right leg in a bad fall.她在一次严重的跌倒中右腿骨折了。
+He lost his balance and fell backwards.他失去了平衡，往后跌倒了。
+The woman gripped the shoulders of her man to stop herself from falling.这个女人紧紧抓住了她男人的肩膀以防自己跌倒。
+The helmets are designed to withstand impacts equivalent to a fall from a bicycle.头盔设计成能承受相当于从自行车上摔下来的力度。
+Bombs fell in the town.炸弹落在了城里。
+He has again fallen from his horse.他又一次从马上落下来。
+
+
+vt.＆vi. 成为一个组织机构（或公司、俱乐部等）的一员，即参加、加入。是此义的基础和常规用词:
+vt. 1 参加到其他人正在做的事情中，或与其他人一道去某地:
+2 加入一群人的队列或行列:
+vt.＆vi. 1 将两个或多个事物固定（或连接）在一起:
+2 两个事物或群体结合到一起（或一个事物或群体加入另一个事物或群体）以形成一个事物或群体，如结合、联合、汇合:
+n. [C] 两个事物被固定在一起的一个点，即连接点、连接处:
+vt. 走上一条公路或小路；加入一群人的队列或行列:
+vt. [英] 上火车（或飞机）等:
+join |[dӡɒɪn]
+to join a class, to join a company, to join a political party 参加一个班级；加入一家公司；加入一个政党 
+to join the ranks of the unemployed（比喻用法）加入失业大军 
+Will you join us for lunch? 和我们一起吃午饭好吗？
+Over 200 members of staff joined the strike. 200多名雇员参加了罢工。
+I’m sure you’ll all join me in wishing Ted and Laura a very happy marriage. 我相信大家愿意与我共祝泰德和劳拉喜结良缘。
+Farmers can join together to get better prices. 农户们可以联合起来争取更好的价格。
+I wish he would join in with the other children. 但愿他能和其他孩子一起玩儿。
+Join the two sections of pipe together. 将这两段管子连接在一起。
+The island is joined to the mainland by a bridge. 这个岛有一座桥与大陆相连。
+How do these two pieces join? 这两件东西怎样接合呢？
+Draw a line joining (up) all the crosses. 画条线将所有的十字连接起来。
+the place where the two paths join 两条小路汇合的地方
+The two pieces were stuck together so well that you could hardly see the join. 这两块粘合得太好了，几乎看不出接缝。
+
+adj.（颜色）粉红色的:
+n. [U, C]（颜色）粉红色:
+adj. [英] 只用于名词前，与同性恋者有关的:
+n. [C] 一种园艺植物，拥有粉色、红色或白色的带有香气的花，即香石竹，石竹:
+adj. [非正式，贬] 政治上可指拥有或表现出轻微的左派政治观点的:
+vi. [英] [美为ping]（汽车发动机）由于燃料燃烧异常而发出敲击声:
+pink |[pɪŋk][pɪŋk]
+pale pink roses 淡粉色的玫瑰 
+She went bright pink with embarrassment. 她尴尬得满脸通红。
+She was dressed in pink. 她穿着粉红色的衣服。
+the pink pound 同性恋族群消费力
+
+n. [C] 令人高兴的一个人或事物，如乐事，乐趣。也相当于delight。一般也可互换:
+n. [U] 一种强烈的愉悦感，即高兴，快乐，相当于delight，二者在很多情况下可互换:
+n. [U] [英，非正式] 用于疑问句和否定句，成功或满意、满足:
+joy |[dӡɒɪ]
+the joys of fatherhood 做父亲的乐趣 
+The game was a joy to watch. 这比赛看起来真开心。
+joys and sorrows 快乐与悲伤
+the sheer joy of being with her again 与她重逢的无比喜悦之情 
+to jump for joy 高兴得跳起来 
+I could have shouted with joy. 我差点儿高兴得叫起来。
+childlike joy 孩童般的快乐 
+tears of joy 喜悦的泪水 
+She got no joy out of working. 她从工作中得不到快乐。
+Protesters expressed joy at the government’s decision. 抗议者对政府的决定表示高兴。
+We complained about our rooms but got no joy from the manager. 我们抱怨房间不好，经理却不理会。
+‘Any joy at the shops?’ ‘No, they didn’t have what I wanted.’ “逛商店有收获吗？”“没有，哪里都没有我想要的。”
+
+adj. 1 充满泥的，或被泥覆盖的。如多泥的，泥泞的:
+2（一种液体）含泥的，不干净的，浑浊的:
+vt. 使某事物变得泥泞或浑浊:
+adj.（色彩）不清晰或不鲜艳的，即灰暗的，暗淡的:
+muddy |['dʌstɪ]['mʌdɪ]
+muddy field, muddy track 泥泞的田野；泥泞的小径 
+My boots were all muddy. 我的靴子沾满了泥。
+muddy water 泥水 
+muddy pond 浑浊的池塘
+His new grey jacket was torn and muddied. 他新买的灰色夹克被撕破了，还弄上了泥巴。
+muddy green, muddy brown 暗绿色；暗褐色
+
+n. 1 [sing.] the rest (of sth) 某事物剩余的部分，即其余:
+2 [pl.] the rest (of sth) 其余的人或事物；其他:
+vt.＆vi. 支撑或倚靠；被支撑或被倚靠:
+vi. 停止讨论或处理一件事，即被搁置:
+vi. 被埋葬（be buried的委婉说法）:
+n. [C] 常构成复合词，支撑物；托架等（用于起支撑作用的东西）:
+n. [C, U] rest (from sth)（一段时间活动后的）休息时间。是此义的常规用词:
+vt.＆vi.（一段时间的活动或疾病后）放松；休息（即在一段时间内停止运用身体）:
+n. [C, U] 音符之间的一段时间的停顿，即休止；也可指休止符:
+rest |[rest]
+the rest of my life 我的余生 
+the rest of the day 后半天 
+Take what you want and throw the rest away. 把你想要的拿走，其余的扔掉。
+The first question was difficult, but the rest were pretty easy. 第一个问题很难，但其余的都相当简单。
+His chin rested on his hands. 他双手托着下巴。
+Rest your head on my shoulder. 把头靠在我肩上。
+She rested the ladder against the wall. 她把梯子靠在墙上。
+His hand was resting lazily against the steering wheel. 他的手懒散地搭在方向盘上。
+I settled back, my hands resting in my lap. 我往后一靠，把双手放在大腿上。
+The matter cannot rest there--I intend to sue. 事情不能就此了结——我想上诉。
+She rests beside her husband in the local cemetery. 在当地的墓地里，她长眠在她丈夫的墓旁。
+May he rest in peace. 愿他安息吧。
+an armrest (= for example on a seat or chair) 扶手
+You deserve some rest. 你该休息一下了。
+I apologize for disturbing your rest. 抱歉打扰你休息了。
+rest break, rest day 休息时间；休息日 
+rest home 养老院；疗养院 
+The doctor told me to rest. 医生叫我休息。
+Rest your eyes every half an hour. 每过半小时让眼睛休息一下。
+
+vt.＆vi. [正式] 出去，离开…，可指离开建筑物、舞台、车辆等:
+vi. exit 印在剧本中以指示演员必须退场:
+n. [C] 离开。具体可指广义上的离开一个地方，如房间或建筑物；还可指离开一种情况或活动，如演员从舞台上离开（此时叫退场）:
+n. 1 [C] 公共建筑（或交通工具）的出口:
+2 [C]（可以让车辆从一条道路驶入另一条道路的）一个路口，是公路的一个出口:
+n. [sing.] 退出键:
+vt.＆vi. 退出计算机程序。是此义的常规用词，最为常用:
+exit |['eksɪt,-zɪt]
+to exit the stage 退场 
+to exit via a fire door 从防火安全门走出去 
+The bullet exited through his back. 那颗子弹从他的背部穿出去了。
+emergency doors providing for easy exit in the event of a fire 在发生火灾时方便逃离的紧急救生门 
+The students made a dramatic exit toward the end of his speech. 这些学生在他演讲快结束的时候突然离场。
+Then we made our grand exit. 之后我们华丽退场。
+She was trying to make a graceful exit from public life. 她在设法不失体面地走出公众的视野。
+exit visa 出境签证 
+her exit from the match 她的退赛 
+exit plan 退出计划 
+exit exam（美）毕业考试 
+exit interview（尤美）离职面谈 
+an exit from the party 退党 
+Carole’s abrupt exit from their lives 卡萝尔从他们生活中的突然消失
+supermarket, airport, bus exit 超市的出口；机场的出口；公交车的出口 
+emergency, fire exit 紧急出口；消防出口 
+back, rear exit 后门 
+side exit 侧门 
+east exit 东门
+exit sign 出口标志 
+exit door, exit gate, exit point 出口门；出口 
+exit route 出口路线 
+freeway, highway（均美）exit高速公路出口；公路出口 
+I pulled off the road at the next exit. 我在下一个出口处把车停在了路边。
+You need to take the next exit. 你需要从下一个出口出去。
+exit ramp（尤美）出口匝道 
+exit point 出口点 
+the number of entry and exit points on the main road network 主干道网上标注的出入口的号码 
+They took the exit to the hospital. 他们从通往医院的出口出去。
+Press Exit to return to the desktop. 按退出键返回到桌面。
+to exit the database 退出数据库 
+to exit from this page 退出本页面 
+to exit the application 退出该应用程序
+
+vt. 给一则报道或一篇文章（article）加标题:
+vt.＆vi. 是演出的一个主要表演者:
+n. 1 [C] 报纸的大字标题（尤指印在首页顶端的大字标题）:
+2 [pl.] the headlines 可指电视或广播中，在新闻节目的开始所播报的新闻摘要（即对最重要的一些新闻所做的简短总结）:
+vt.＆vi. 是音乐会的一个主要表演者:
+headline |['hedlaɪn]
+The story was headlined ‘Back to the future’. 报道的标题是“回到未来”。
+The article was headlined “Tell us the truth.” 该文章题为“告诉我们真相。”
+headline news 头条新闻 
+newspaper headline 报纸标题 
+front-page headline 头版标题 
+He always manages to grab the headlines. 他总是设法成为头版人物。
+The story was important enough to make the headlines. 这一报道足以成为头条。
+the news headlines 新闻提要 
+the national headlines 国内新闻提要
+The concert is to be headlined by Elton John. 音乐会的主角将是埃尔顿·约翰。
+
+Someone or something that hits the headlines or grabs the headlines gets a lot of publicity from the media. 成为新闻焦点
+If a newspaper or magazine article is headlined a particular thing, that is the headline that introduces it. 为…加标题
+Theheadlines are the main points of the news which are read on radio or television. 新闻提要
+A headline is the title of a newspaper story, printed in large letters at the top of the story, especially on the front page. (尤指报纸头版的) 标题
+headlines |英/美 ['hedlain]| n. 头条（headline复数形式）；新闻提要，大字标题/v. 给…加标题；出任主角（headline的第三人称单数）/
+El Salvador first hit the world headlines at the beginning of the 1980s.萨尔瓦多首度成为国际媒体的焦点是在20世纪80年代初。
+The article was headlined "Tell us the truth."该文章题为“告诉我们真相。”
+I'm Claudia Polley with the news headlines.我是克劳迪娅•波莉，以下是新闻提要。
+The Sydney Morning Herald carried the headline
+
+
+n. [U] 流行性感冒，即流感:
+flu |[flu:]
+I got the flu. 我得了流感。
+mild flu 轻度流感 
+bad flu 严重流感 
+avian, bird flu 禽流感 
+flu virus 流感病毒 
+flu symptoms 流感症状 
+flu victim 流感患者 
+flu season 流感高发季节
+
+n. [C] 紧密联系起来的一群人或公司等（以交换信息等），如关系网、人际网络等（network和web均可指人或组织之间的“关系网络”，其中network是一个常规用词，强调各节点之间有某种往来，而web则强调这种网络的整体上的复杂性）:
+vi. 商业中可指与别人建立工作关系:
+n. [C] 连接在一起的若干台计算机或其他设备（以共享设备和信息），即互联网络。仅表示一种网络结构（而不表示其它属性），是一个纯技术用语。是本组一个最基础、最广义的用词，包含了各种类型的网络（如局域网、广域网、万维网、国际互联网等）:
+vt. 将一些计算机或其他设备连接成网络（以共享设备或信息）:
+vt. 同时在若干个不同的地区播报广播或电视节目，即联播:
+n. [C] 连接起来的一系列广播电台或电视台（这些电台或电视台同时播放相同的节目），即广播网；电视网:
+n. [C] 复杂的相互交叉并相互连接的一些道路、线路、管道、神经、血管等，即网络；网状系统。强调该网络内部各节点之间由于交换或传递资源而表现出的交互性，以及因这种内部交互而表现出的整体上的系统性:
+n. [C] 复杂的相互交叉并相互连接的一些道路、线路。强调各个交通站点之间的交通往来活动:
+network |['netwə:k]
+a network of friends 朋友网 
+a social network 社交网 
+a terrorist network 恐怖分子的联络网
+In business, it is important to network with as many people as possible on a face to face basis. 在生意场上，与尽可能多的人建立面对面的关系网是重要的。
+computer network 计算机网络 
+communications, mobile network 通讯网络；移动电话网络 
+Wi-Fi, wireless network 无线网络 
+network engineer 网络工程师 
+network address 网址
+broadcast, news, radio, television network 广播网；新闻网；电台网；电视网 
+cable, digital, satellite network 有线网络；数字网络；卫星网络 
+network news, network television 网络新闻；网络电视
+rail, road network 铁路网；道路网 
+canal network 运河网 
+a network of veins 脉络 
+a neural network 神经网络 
+a distribution network 分销网络 
+a financial network 金融网络 
+a network of underground pipes 地下管道网
+train, road network 铁路网；道路网 
+an extensive network of underground tunnels 四通八达的地下隧道网 
+canal network 运河网

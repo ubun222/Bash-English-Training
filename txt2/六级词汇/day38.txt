@@ -1,0 +1,505 @@
+capital					大写字母，首都，好处
+indicate					表明，暗示
+eligible					有资格的，合意的
+procedure					程序
+unrealistic				不切实际的
+occur						发生，出现，被想到
+aggravate					使恶化，惹恼
+frankly					坦率的，显而易见的
+thrilling					令人兴奋的
+irreversible				不可逆转的
+marine					海洋的，航海的
+interracial				种族间的
+grave						坟墓，严重的
+undocumented				无证明文件的，无执照的
+appoint					任命，确定，装设
+rhetorical					修辞的，雄辩的，虚夸的
+momentum					动量，动力
+deserve					应得
+drastically				剧烈的
+particle					颗粒
+miniature					小型的
+merit						价值，荣誉，长处，值得
+category					种类
+liability					不利条件，负债，责任
+hack						砍，踢，窃取
+matter					事情，问题，物质，要紧
+brutal					残忍的
+biodiversity				生物多样性
+subsequently				随后
+bother					打扰，使...不安，费事
+\\\\\\\\
+
+n. 1 [sing.] 用来投资或创办商业机构的一大笔钱，即资本；启动资金:
+2 [U] 不包含利润的那一部分资金，即本金，本钱:
+3 [U] 公司或个人所拥有的财富或财产（可指用于生产产品的建筑或机械设备）:
+n. [U] [术语] 用资金来启动公司的一个群体，即资方:
+n. 1 [C] 首都，也叫capital city:
+2 [C]（某一产业或活动的）有名之地；即…之都:
+n. [C] 建筑中可指柱子（column）的顶端，也可叫做chapiter或cap:
+adj. 只作前置定语，涉及死罪的，可处死刑的:
+n. [C] 大写字母，也可叫capital letter:
+adj. 只作前置定语，（字母表中的字母）大写的:
+adj. [旧时，英] 出色的，极好的，相当于excellent:
+capital |['kæpɪtl]
+risk, venture capital 风险资本 
+start-up capital 启动资金 
+fixed capital 固定资本 
+working capital 营运资本 
+human, intellectual, political（均为比喻用法）capital 人力资本；智力资本；政治资本 
+to raise capital 融资 
+capital and interest 本金和利息 
+Our capital is all tied up in property. 我们的资金都套牢在房地产上无法动用。
+capital assets 资本资产 
+equity capital 股本 
+capital costs 资本成本 
+capital accumulation, capital growth 资本积累；资本增值 
+capital gain 资本收益 
+a return on the capital 资本回报 
+capital market 资本市场 
+capital outflow 资本外流
+capital and labour 资方与劳方
+Beijing is the capital of China. 北京是中国的首都。
+provincial, regional, state capital 省会；地区首府；州府 
+the fast pace of life in the capital 首都的快节奏生活 
+the fashion capital of the world 世界时装之都 
+cultural capital 文化之都 
+finance, financial capital 金融中心城市
+Espionage is a capital offence in this country. 间谍活动在这个国家是死罪。
+Please write in capitals(=in capital letters). 请用大写字母书写。
+English is written with a capital ‘E’. English一词中字母E大写。
+
+vt. indicate sb/sth (to sb)（尤指通过将头指向或移向某个方向而）使某人注意到…，即指示出:
+vt. 成为…的标志，或表明某事可能（或很可能）发生，即象征，预示等:
+vt.（不用通过言语的方式）显示信息:
+vt.＆vi. 表明（某事属实或存在）。是一个常规用词，极为常用:
+vt.（测量仪器）显示某一量度:
+vt. [正式] 常用被动式，有必要；或被建议（常因为有必要而被建议）:
+vt. indicate sth (to sb) 提及某事（尤指间接提及），即暗示，示意:
+vt. indicate sb/sth (to sb)（尤指通过将头指向或移向某个方向而）使某人注意到…，即指示出:
+vt.＆vi. [英]（用灯光或手臂）表明你的交通工具要改变方向，即打行车转向信号，相当于signal:
+vt. 以书面的形式给出信息，即写出，写明，注明:
+indicate |['ɪndɪkeɪt]
+He indicated where the furniture was to go. 他指示家具要如何摆放。
+A red sky at night often indicates fine weather the next day. 夜空呈红色往往预示第二天天气晴朗。
+Early results indicate that the government will be returned to power. 早期的结果预示该政府将重新执政。
+The results are indicated in Table 2. 结果列在表2中。
+These figures indicate to me that the company is in serious trouble. 这些数字使我意识到该公司处境艰难。
+Expense does not necessarily indicate worth. 费用未必能反映价值。
+Research indicates that eating habits are changing fast. 研究显示，饮食习惯正迅速改变。
+This sign usually indicates a pedestrian zone. 这个符号通常表示步行区域。
+He has declared support for women, but his actions have indicated otherwise. 他嘴上声称支持妇女，但其行为却正相反。
+The temperature gauge indicates 90˚F. 温度计显示90华氏度。
+A course of chemotherapy was indicated. 建议进行化疗。
+He indicated his willingness to cooperate. 他透露出了合作的意愿。
+She indicated the quickest route on a map. 她在地图上给我们指出了最快捷的路线。
+Always indicate before moving into another lane. 开入其它车道前一定要打转向灯。
+He indicated left and then turned right. 他打出的是左转信号，然后却向右转了。
+You are allowed 20kgs of baggage unless indicated otherwise on your ticket. 除非票上另有注明，否则可携带行李为20公斤。
+Please indicate clearly which colour you require. 请标明您要求的颜色。
+
+having the right to do or obtain something; satisfying the appropriate conditions:拥有做某事或获得某事的权利；满足适当的条件
+(of a person) desirable or suitable as a partner in marriage:（某人的）理想的或适合作为婚姻伴侣的
+eligible |ˈɛlɪdʒɪb(ə)l| Adjective/:有资格的,合格,符合条件
+customers who are eligible for discounts:有资格享受折扣的客户
+the world's most eligible bachelor:世界上最有资格的单身汉
+
+n. 1 [C, U] procedure (for sth) 做某事的一种方式，尤指通常或正确的方式，如程序、手续、步骤:
+2 [U] 做某事的官方或正式的顺序或方法（尤指在商业、法律或政治领域），即程序:
+n. [C] 医学上可指程序或手术。是一个概括性用词，表示手术时不太常用:
+procedure |[prə'si:dӡə]
+emergency procedures 紧急状况的处理程序 
+sampling, testing procedure 取样过程；测试过程 
+experimental procedures 实验过程 
+Making a complaint is quite a simple procedure. 申诉的手续相当简单。
+administrative, application, assessment, legal, operating, safety, security, selection, credit procedure 行政程序；申请程序；评估程序；法律程序；操作程序；安全程序；安保程序；选拔程序；信贷程序 
+There are standard procedures for dismissing staff. 解雇员工有标准的程序。
+medical procedure 医疗程序 
+to perform a routine surgical procedure 做一台常规的外科手术 
+diagnostic, screening procedure 诊断程序；筛查程序 
+cosmetic procedure 美容手术 
+invasive procedure 侵入性手术 
+abortion, transplant procedure 堕胎手术；移植手术
+
+If you say that someone is being unrealistic, you mean that they do not recognize the truth about a situation, especially about the difficulties involved in something they want to achieve. 不切实际的
+unrealistic |英 [,ʌnrɪə'lɪstɪk]  美 [,ʌnriə'lɪstɪk]| adj. 不切实际的；不实在的/
+It would be unrealistic to expect such a process ever to be completed.期望完成这样一个过程是不现实的。
+There are many who feel that the players are being completely unrealistic in their demands.许多人都觉得那些运动员的要求是完全不切实际的。
+
+
+vi. 在某处存在:
+vi. [正式] 发生:
+vi. 在某处出现:
+occur |[ə'kə:]
+Sugar occurs naturally in fruit. 水果天然含糖分。
+When exactly did the incident occur? 这一事件究竟是什么时候发生的？
+Something unexpected occurred. 发生了一件出乎意料的事。
+These chemical changes occur naturally. 这些化学变化是自然发生的。
+Opportunities for learning occur spontaneously every day. 学习的机会每天都会自然而然地出现。
+the problems that occur among people living together 合居者中出现的各种问题 
+A significant improvement occurred in patients given the drug. 服用该药的病人出现明显改善。
+
+vt. [非正式]（尤指故意地）激怒某人:
+vt. 使（疾病或糟糕的形势）恶化、加重:
+aggravate |[ˈægrəveɪt]
+What aggravates you most about this country? 该国的哪一点让你最恼火？
+Pollution can aggravate asthma. 污染会使气喘加重。
+Their negative reactions have greatly aggravated the situation.他们的消极反应使形势严重恶化。
+Stress and lack of sleep can aggravate the situation. 压力和睡眠不足会使情况恶化。
+He would only aggravate the injury by rubbing it. 他揉擦伤口只会使伤势加重。
+Military intervention will only aggravate the conflict even further. 军事介入只会使冲突加剧。
+
+You use frankly when you are expressing an opinion or feeling to emphasize that you mean what you are saying, especially when the person you are speaking to may not like it. 坦率地说
+frankly |英 ['fræŋklɪ]  美 ['fræŋkli]| adv. 真诚地，坦白地/
+Frankly, Thomas, this question of your loan is beginning to worry me.坦率地说，托马斯，你贷款的问题开始让我担忧。
+"You don't give a damn about my feelings, do you."—"Quite frankly, I don't."“你一点也不在乎我的感情，是吧。” —“坦率地说，是的。”
+
+
+Something that is thrilling is very exciting and enjoyable. 激动人心的
+thrilling |英 ['θrɪlɪŋ]  美 ['θrɪlɪŋ]| adj. 毛骨悚然的；令人兴奋的；颤动的/
+Our wildlife trips offer a thrilling encounter with wildlife in its natural state.我们的野生动植物之旅真是激动人心，使我们接触了自然状态下的野生动植物。
+
+
+adj. 不能回到从前的，如无法复原的、不可逆转的:
+irreversible |[ˌɪrɪˈvɜ:səbl;美-ˈvɜ:rs-]
+irreversible change, irreversible decline, irreversible decision 不可逆转的变化；不能挽救的衰落；不可撤回的决定 
+She could suffer irreversible brain damage if she is not treated within seven days. 如果她在七天之内没有得到治疗，她的大脑有可能遭受不可逆转的损伤。
+The reforms are irreversible. 改革没有回头路。
+
+Marine is used to describe things relating to ships and their movement at sea. 海事的
+Marine is used to describe things relating to the sea or to the animals and plants that live in the sea. 海洋的
+A marine is a member of an armed force, for example the U.S. Marine Corps or the Royal Marines, who is specially trained for military duties at sea as well as on land. 海军陆战队士兵
+marine |英 [mə'riːn]  美 [mə'rin]| adj. 船舶的；海生的；海产的；航海的，海运的/n. 海运业；舰队；水兵；（海军）士兵或军官/n. (Marine)人名；(西)马里内；(英)马林/
+...a lawyer specializing in marine law.…一名专攻海事法的律师。
+...breeding grounds for marine life.…海洋生物的繁殖地。
+A small number of Marines were wounded.几名海军陆战队士兵受了伤。
+
+
+existing between or involving different racial or ethnic groups:存在或涉及不同种族或族裔群体
+interracial |ˌɪntəˈreɪʃl| Adjective/:异族,跨种族的
+interracial conflict:异族冲突
+
+adj.（人）严肃的、庄严的（好像悲伤、重要或令人担忧的事刚刚发生似的）:
+n. [sing.]（常用the grave）[常为文学用法] 死亡、人的去世:
+n. [C] 坟墓、墓穴、坟头:
+adj. [正式]（形势、感情等）非常严重且重大的、让人担忧的，严峻的、深切的:
+grave |[greɪv]
+He looked very grave as he entered the room. 他进屋时表情非常严肃。
+William was up on the roof for some time and when he came down he looked grave. 威廉在屋顶上呆了一段时间，他下来的时候面色凝重。
+Anxiously, she examined his unusually grave face. 她忐忑不安地审视着他异常严肃的脸色。           
+Is there life beyond the grave (= life after death)? 人死后有来生吗？
+The old lady still influences the family from beyond the grave. 这个老太太死后仍影响着全家。
+He followed her to the grave (= died soon after her). 他紧跟着她离开了人世。
+She smoked herself into an early grave (= died young as a result of smoking). 她因抽烟而早逝。
+drinking yourself to an early grave 纵酒而自折其寿 
+Most men would rather go to the grave than own up to feelings of dependency. 大多数男人宁死都不愿承认有依赖感。
+Whenever he goes home he visits his mother's grave. 他每次回家都给母亲上坟。
+We visited Grandma's grave. 我们给祖母扫了墓。
+They used to visit her grave twice a year. 他们以前每年去她的墓前凭吊两次。
+There were flowers on the grave. 坟上有些花。
+She puts fresh flowers on her husband's grave every Sunday. 她每周日都要在丈夫的坟头上放一些鲜花。
+The mourners threw flowers into the open grave. 哀悼者把鲜花投进未掩盖的墓穴。
+Darwin must be turning in his grave at the thought of what is being perpetrated in his name. 一想到冒他之名所做下的那些事，达尔文在九泉之下一定不得安宁。
+The body was found in a shallow grave in a nearby wood. 这具尸体是在一个浅墓穴中发现的。
+His body is buried in an unmarked grave. 他的尸体埋在一个没有标记的坟墓中。
+common, communal（尤英）, mass grave 公共墓地；集体墓地；万人冢 
+The grave was marked by a simple headstone. 坟墓上只竖着一块简陋的墓碑。
+Some of the graves have been desecrated by vandals. 一些坟墓被人肆意破坏了。
+I'll be in my grave by the time that happens! 到那时候我已经命丧黄泉了！
+He rescued her from a watery grave (= saved her from drowning). 他把她从水中救起。
+The magazine isn't trying to ruin his career, the man's digging his own grave by refusing an interview.（比喻用法）这份杂志并非想断送他的事业，而他拒绝接受采访就是在自毁前程。
+The police have expressed grave concern about the missing child's safety. 警方对失踪孩子的安全深表关注。
+The consequences will be very grave if nothing is done. 如果不采取任何措施后果将会是非常严重的。
+We were in grave danger. 我们处于极大的危险之中。
+He said that the situation in his country is very grave. 他说他的国家情况十分危急。
+I have grave doubts that the documents tell the whole story. 我对这些文件能否说明所有的问题深表怀疑。
+
+ And that still doesn't deal with the problem of undocumented environment variables.  而且，这还不能处理那些没有文档化的环境变量的问题。
+ For all his talk of supporting the hopes of the undocumented, his administration has been doubling down on the failed strategy of mass expulsion.  在他所有关于给这些非法移民希望的演说中，他的政府却在“大量驱逐”这个失败的政策上下了双重注。
+ As an extreme case, parameters could be undocumented and the code distributed together with a default parameter set.  举一个极端的例子，可能没有对参数编制文档，而代码与缺省的参数集一起分发。
+undocumented |英 [ʌn'dɒkjʊmentɪd]  美 [,ʌn'dɑkjumɛntɪd]| adj. 无事实证明的；无正式文件的/
+
+
+
+vt. [正式] 常用被动式，安排或确定（时间或地点以做某事）:
+appoint sb (as) sth 选择某人去做某项工作（或出任某一职位、承担某一职责），即任命，委任:
+appoint |[ə'pɒɪnt]
+A date for the meeting is still to be appointed. 会议日期尚待确定。
+the appointed time 规定的时间
+vt. appoint sb (to sth) 
+They appointed him (as) captain of the English team. 他们任命他为英格兰队队长。
+A lawyer was appointed to represent the child. 一位律师被指定为这个孩子的代表律师。
+
+rhetorically 词藻华丽地; (语言) 修辞性地
+Rhetorical language is intended to be grand and impressive. 词藻华丽的; 修辞性的 (语言)
+rhetorically 修辞上地 (设问); 反问地
+A rhetorical question is one that is asked in order to make a statement rather than to get an answer. 修辞上的 (设问); 反问的
+rhetorical |英 [rɪ'tɒrɪk(ə)l]  美 [rɪ'tɔrɪkl]| adj. 修辞的；修辞学的；夸张的/
+Suddenly, the narrator speaks in his most rhetorically elevated mode.突然，讲述者以其最华丽的措辞方式讲起来。
+These arguments may have been used as a rhetorical device to argue for a perpetuation of a United Nations role.这些争论可能已被用作支持联合国角色永存的一种修辞手段。
+"Do these kids know how lucky they are?" Jackson asked rhetorically.“这些孩子知道他们有多幸运吗？”杰克逊反问道。
+He grimaced slightly, obviously expecting no answer to his rhetorical question.他稍稍做了个苦相，显然并不指望对他的修辞性设问有所回答。
+
+
+n. [U] 保持增长或发展的能力，如动力、势头:
+n. 1 [U] 物理运动的冲力:
+2 [U] [术语] 物理学中可指动量，即物体质量与其速度的乘积:
+momentum |[məˈmentəm;美moʊˈm-]
+The fight for his release gathers momentum each day. 争取使他获释的斗争声势日益加强。
+This campaign is really gaining momentum. 该运动的势头越来越猛。
+The campaign for change now has considerable momentum. 改革运动现在势头相当猛。
+She gave fresh momentum to the campaign. 她为这场运动注入了新的活力。
+political momentum 政治推动力 
+the irresistible momentum towards reunification of the two countries 两国再度统一的不可抗拒的势头 
+We must keep up the momentum for reform. 我们必须保持住改革的冲劲。
+We have to keep the momentum of our sales operation going. 我们必须保持销售业务的发展势头。
+The team has lost momentum in recent weeks. 最近几周球队的强劲势头已经减弱。
+They began to lose momentum in the second half of the game. 在比赛的下半场，他们的势头就逐渐减弱。
+Their momentum has gone, and they feel they cannot fight any longer. 他们已经没了冲劲，感到无法继续打下去了。
+to maintain the momentum of the search for a solution 一直劲头十足地去寻求解决方案 
+There's no forward momentum in the movie. 这部影片中找不到前进的动力。
+The vehicle gained momentum as the road dipped. 那辆车顺着坡越跑冲力越大。
+
+vt.＆vi.（由于某人或某事物既往的表现或身份而）应得到某事物，即应得、应受:
+deserve |[dɪ'zə:v]
+You deserve a rest after all that hard work. 辛苦劳累那么久，你该休息一下了。
+The report deserves careful consideration. 这份报告应加以认真考虑。
+One player in particular deserves a mention. 有一名运动员特别值得一提。
+They didn’t deserve to win. 他们不该赢。
+He deserves to be locked up for ever for what he did. 他做了这样的事，应该终身监禁。
+This hotel fully deserves its four-star grading. 这家酒店完全配得上其四星评级。
+to deserve praise 应得到赞扬 
+It’s true she made a mistake but she hardly deserves to lose the job. 她的确犯了错，但不至于就因此丢掉工作。
+
+ But with so many eyes now on this emerging Asian giant, what happens there continues to have an exceptional ability to draw attention and to shift perceptions drastically and suddenly.  但是，现在有如此多的目光注视着这个新兴的亚洲巨人，那里发生的事情能异乎寻常地一再引人注目，突然并彻底地改变人们的看法。
+ And that’s no accident because although this new style of printing comes with many advantages, it is simultaneously drastically transforming the market.  这并不意外，因为尽管这种新的印刷方式有许多优点，它同时也彻底地改变了整个市场。
+ The US, especially the southeast and southwest, have been affected drastically by these fires.  在美国，特别是东南部和西南部，已经受到这些大火的剧烈影响。
+drastically |英/美 ['dræstikəli]| adv. 彻底地；激烈地/
+
+
+
+n. [C] 极小的数量、一点点:
+n. [C]（构成原子的）粒子（例如电子或质子）:
+n. [C] 颗粒、微粒:
+n. [C] [语法] 小品词（与动词构成短语动词的副词或介词）:
+particle |[ˈpɑ:tɪkl;美ˈpɑ:rt-]
+There was not a particle of evidence (= no evidence at all) to support the case. 没有丝毫支持这个论点的证据。
+There is a particle of truth in his statement. 他的陈述中有一点点实话。
+particle physicist 粒子物理学家 
+particle physics 粒子物理学 
+particle theory 粒子理论          
+particles of dust 灰尘 
+dust particles 尘埃 
+a particle of hot metal 热金属微粒
+In ‘She tore up the letter ’, the word ‘up’ is a particle. 在She tore up the letter句中，up是小品词。
+
+adj. [只用于名词前] 很小的、微小的、比通常尺寸小的，常指微缩版的:
+n. 1 [C] 某事物的缩微模型、微型复制品:
+2 [C] 比喻意义上的“缩影”:
+n. [C]（常指人的）微型画像:
+miniature |[ˈmɪnətʃə(r);NorthAmericanEnglishalso-tʃʊr]
+miniature replica 迷你复制版 
+miniature submarine 迷你潜艇模型 
+miniature railway 微型铁路 
+miniature version 微缩版 
+It looks like a miniature version of James Bond's car. 它看上去像一辆小型的詹姆斯·邦德的汽车。
+He looked like a miniature version of his handsome and elegant big brother. 他看上去就像是他那个英俊儒雅的哥哥的迷你版。
+miniature roses 小玫瑰花 
+a rare breed of miniature horses 一种罕见的小矮马
+brandy miniatures (= very small bottles) 小瓶白兰地 
+If it can be done full-size, I can do it in miniature. 如果可以做成与原物相同大小的，我就可以做成缩微的。
+Ecuador provides a perfect introduction to South America; it's a continent in miniature. 厄瓜多尔是认识南美洲的绝佳切入点，它是南美大陆的缩影。
+
+n. 1 [C] [英]（学校或大学考试或作业的）良好（是一种成绩等级）:
+2 [C] [英]（在学校操行好而获得的）良好（是一种品德等级）:
+vt. [不用于进行时] [正式] 应得、值得受到:
+n. [U] [正式] 好的且值得赞扬、奖赏或钦佩的品质，如价值:
+n. 1 [U] [正式] 好的且值得赞扬、奖赏或钦佩的品质，如美德、优点:
+2 [C, usually pl.] 值得赞扬、奖赏或钦佩的品特征，如优点、长处:
+merit |[ˈmerɪt]
+He claims that their success was not merited. 他声称他们不应该获得成功。
+The question hardly merits an answer. 这个问题简直不值得回答。
+Such ideas merit careful consideration. 这样的想法值得斟酌。
+The case does not merit further investigation. 这个案子不值得进一步调查。
+He said he had done nothing wrong to merit a criminal investigation. 他说自己没有干坏事，不应该受到刑事调查。
+academic, aesthetic, architectural, intellectual, legal, literary, musical, scientific, technical merit 学术价值；美学价值；建筑价值；知识价值；法律价值；文学价值；音乐价值；科学价值；技术价值 
+The movie has no artistic merit whatsoever. 这部电影毫无艺术价值。
+I found no artistic merit in this film. 我没发现这部影片有任何艺术价值。
+Box-office success mattered more than artistic merit. 票房上的成功比艺术价值更重要。
+a work of outstanding artistic merit 具有杰出艺术价值的作品 
+The plan is entirely without merit. 这个计划毫无价值。
+The argument seemed to have considerable merit. 这个论点似乎颇有价值。
+She proved her merit as a serious actress. 她证明了自己作为一名严肃演员的价值。
+She saw the merit in this arrangement. 她看到了这种安排的优点。
+I find no merit at all in any of the arguments. 我发现这些争论毫无意义。
+a lawsuit that lacked any real merit 毫无是处的诉讼
+She received a merit award for outstanding work. 她因为工作表现突出而获得了优秀奖。
+Films are given a rating of one to five stars according to merit. 影片根据优劣按一到五星评级。
+Prizes are awarded entirely on merit. 奖项完全根据表现来颁发。
+There is lots of merit to the idea. 这个想法有许多优点。
+I can see no merit in excluding the child from school. 我看不出开除这个孩子的学籍有什么好处。
+The winners are ranked in order of merit.（英）获胜者按照成绩排序。
+They weighed up the relative merits of the four candidates. 他们对四名候选人各自的优点作了比较。
+We need to consider the relative merits of both makes of dishwasher. 我们需要权衡两种品牌洗碗机相比较而言的优点。
+We need to assess the merits of both proposals before making our decision. 做出决定之前，我们需要对两个提案的优缺点进行评估。
+I began to question the merits of these new technologies. 我开始质疑这些新技术的优点。
+They have been persuaded of the merits of peace. 他们被劝服，认识到了和平的好处。
+the technical merits of a film 一部电影技术上的长处
+
+n. [C] 有某些共同特征的一群人或一组事物，即（人或事物的）类别，相当于class:
+category |['kætɪɡərɪ]
+age, gender, income, occupational category 年龄类别；性别；收入类别；职业类别 
+price, size, weight category 价格类别；尺寸类别；重量类别 
+These cities fell into two broad categories. 这些城市分为两大类。
+a higher category of prison 关押重刑犯的监狱 
+
+~ (to do sth)（法律上对某事物的）责任，义务:
+n. [C, usually pl.] 一个人或一家公司所欠的债务，即负债:
+n. [C, usually sing.] [非正式] 惹麻烦的人（或事）:
+liability |[ˌlaɪəˈbɪləti]
+full liability 完全责任 
+legal liability 法律责任 
+criminal liability 刑事责任 
+They have no legal liability for damage to customers' possessions. 他们对客户的财物损失不负有任何法律责任 
+The company cannot accept liability for any damage caused by natural disasters. 该公司对自然灾害造成的任何损失概不承担责任。
+They have denied liability for the accident. 他们否认对事故负有责任。
+The company had assets of $138 million and liabilities of $120.5 million. 该公司资产为1.38亿美元，负债为1.205亿美元。
+The company has liabilities to its employees. 这家公司欠员工的债。
+substantial liabilities 大量债务 
+financial, tax liabilities 财物负债；税务负债 
+He wants to know the precise amount of the liabilities he is taking over. 他想知道自己将要承担的债务的确切数字。
+There is enough money to cover existing liabilities. 有足够的钱偿还现有债务。
+Since his injury, Jones has become more of a liability than an asset to the team. 琼斯负伤以来，与其说他是全队的骨干倒不如说他已成为队里的累赘。
+As the president's prestige continues to fall, they're clearly beginning to consider him a liability. 随着总统的声望持续下跌，他们显然开始视他为负累。
+What was once a vote catching policy, is now a political liability. 这一曾经吸引选票的政策，如今成了政治上的负累。
+
+vt. can/can't ~ it [非正式] 能（或不能）应付某种情形:
+vt.&vi. 大幅缩减（大小、长度）:
+vt.&vi. 大幅降低（价格）:
+vi.（通常用go hacking）[尤英] 骑马消遣:
+vt.&vi. [计算机] ~ (into) (sth) 非法侵入别人的计算机系统:
+vt.&vi. 劈砍某人或某事物:
+n. [C] 劈砍:
+vt.&vi.（在丛林等中）开辟道路:
+vt. 放开大脚猛踢:
+n. [C] 供日常骑的马；供出租的骑用马:
+n. [C] [贬] 写作者，尤指廉价的、受雇为报刊撰写低质量文章的人:
+n. [C] [贬] 为一个组织机构（尤指为一个政客）做艰苦乏味工作的人，如杂务人员:
+n. [C] [贬] 二流政客，即对其政党太过衷心但得不到应有的地位的人:
+vi. [美，非正式] 开出租车:
+n. [C] [美，非正式] 出租车:
+hack |[hæk]
+Lots of people leave this job because they can't hack it. 很多人由于应付不了这项工作而放弃了。
+You have to be strong and confident and never give the slightest impression that you can't hack it. 你必须坚强自信，千万不要给人留下丝毫你应付不来的印象。
+Smith tries to convince them that he can hack it as a police chief. 史密斯试图让他们相信，作为警长自己能应付得了。
+He hacked away at the story, eliminating one character entirely. 他大幅缩短了这篇故事，将其中一个人物彻底砍掉了。      
+The children could be seen hacking across the hillside on their ponies. 可以看到孩子们正骑着小马穿过山坡。
+He hacked into the bank's computer. 他侵入了这家银行的计算机。
+They had hacked secret data. 他们窃取了保密数据。
+The saboteurs had demanded money in return for revealing how they hacked into the systems. 那些故意破坏者索要钱财，以作为透露自己是如何非法进入该电脑系统的交换条件。
+An armed gang barged onto the train and began hacking and shooting anyone in sight. 一伙持械歹徒闯上火车，开始见人就砍、举枪便射。
+The body had been hacked to pieces. 尸体被砍成了碎块。
+They were hacked to death as they tried to escape. 他们企图逃走时被砍死了。
+He was hacked to death by the mob. 他被暴徒砍死了。
+Some were hacked to death with machetes. 有些人被大砍刀砍死。
+I hacked the dead branches off. 我把枯树枝砍掉了。
+She hacked at the hedge with the shears. 她用大剪刀猛剪树篱。
+We undertook the task of hacking our way through the jungle. 我们负责在丛林中开路。
+We hacked away at the bushes. 我们劈开灌木丛。
+They hacked away at the dense vegetation. 他们劈开茂密的草木。           
+He hacked the ball away. 他把球一脚踢开。
+tabloid hacks, always eager to find victims in order to sell newspapers 为了使报纸好卖而总是急于寻找牺牲品的小报蹩脚记者们 
+a hack writer of cheap romances 撰写庸俗的爱情故事的雇佣文人
+Far too many party hacks from the old days still hold influential jobs. 太多以前的老党棍依然身居要职。           
+
+n. [pl.] matters 当前的情况；或你正在谈论的情况，相当于things:
+n. [C] 你必须考虑或处理的一个课题或情况，有时亦可称为事情，相当于affair:
+n. [sing.] 涉及到某事物（或取决于某事物）的一个情况，相当于question:
+n. 1 [U] [术语]（构成世界上一切事物的）客观物质（是一种统称，与精神相对）:
+2 [U] 某种物质或东西。需要注意两点，第一，如果说material仅为固态物质，那么matter则没有此限制，如“水”是一种matter，但不是一种material。第二，当两者都表示固态物质时，理论上可互换，不过现实中还是有一些约定俗成的用法，各自的具体用法请参见本组各词的用法举例:
+n. [U] 某种东西:
+vi. matter (to sb)（对某人、某事物或事件）事关紧要；要紧；有重大影响:
+n. [sing.] the matter (with sb/sth) 用于询问某人是否心烦、不悦等，或询问其是否遇到了问题（a problem），即怎么了:
+matter |['mætə]
+to improve matters 改善目前的状况 
+I’d forgotten the keys, which didn’t help matters. 我忘记带钥匙了，这让情况更糟。
+Matters were made worse by a fire in the warehouse. 仓库失火使得事态更为严重。
+I decided to take matters into my own hands. 我决定亲自处理问题。
+And that is the heart of the matter. 这就是问题的关键所在。
+It’s a private matter. 这是件私事儿。
+They had important matters to discuss. 他们有些重要的问题要讨论。
+pressing matters 紧急的事情 
+some business matters 一些业务方面的事情 
+to consulted matters of policy 咨询一些政策问题 
+It’s a matter for the police. 这事该由警方处理。
+It was no easy matter getting him to change his mind. 让他改变主意可不是件容易的事儿。
+Learning to drive is all a matter of coordination. 学开车主要是靠协调。
+She resigned over a matter of principle. 她因原则问题而辞职。
+Just as a matter of interest, how much did you pay for it? 我只是感兴趣，你这是花多少钱买的？
+the properties of matter 物质的属性 
+organic matter 有机物质 
+solid matter 固态物质 
+inanimate, inorganic matter 无生命物质；无机物 
+decaying matter 腐烂物质 
+dark matter（科学用语）暗物质 
+elimination of waste matter from the body 体内废物的排出
+reading matter 阅读材料 
+printed matter 印刷品
+These things matter a lot to young children. 这些事对小孩子来说很要紧。
+She could find a job. It hardly mattered what. 她能够找到工作，至于什么工作无关紧要。
+It doesn’t matter about the mess. 乱一点儿没关系。
+It didn’t matter to her that he was blind. 他是个盲人，但她不介意。
+What’s the matter? Is there something wrong? 怎么了？出了什么事儿吗？
+Is anything the matter? 有什么问题吗？
+There’s something the matter with my eyes. 我的眼睛出了点毛病。
+What was the matter with the your TV? 你的电视机出了什么问题？
+
+adj.（对令人不悦的事）直截了当的:
+adj. 1 残暴的、兽性的:
+2 不考虑别人的感情的、冷酷的:
+3 残酷无情的、难以忍受的:
+brutal |[ˈbru:tl]
+It was refreshing to talk about themselves and their feelings with brutal honesty. 他们直言不讳地谈论自己和自己的感受，让人觉得耳目一新。
+He took an anguished breath. He had to be brutal and say it. 他痛苦地吸了口气，不得不坦言此事。
+brutal attack, brutal murder, brutal rape, brutal killing 野蛮的攻击；凶残的谋杀；野蛮的强奸；凶残的杀害 
+the brutal suppression of anti-government protests 对反政府抗议的残酷镇压 
+With brutal honesty she told him she did not love him. 她冷酷地直接告诉他，她不爱他。
+The dip in prices this summer will be brutal. 今年夏天价格的大幅下跌将会很残酷。
+The afternoon sun had been brutal. 下午的太阳酷热难挡。
+
+
+biodiversity |英 [,baɪə(ʊ)daɪ'vɜːsɪtɪ]  美 [,baɪodaɪ'vɝsəti]| n. 生物多样性/
+
+
+
+ I subsequently posted it on a UNIX mailing list, and many of the members told me they found it to be a useful tool.  随后我将它公布在一个 UNIX 邮件列表上，结果有许多成员告诉我他们发现这是一个有用的工具。
+ Subsequently, this approach conflicted with the platform independence goals of the project.  随后，这一方法会与项目的平台独立性目标发生冲突。
+ It is about how you operationalize and subsequently capitalize on market opportunity.  它是关于您如何实施并且随后利用市场机会的。
+subsequently |英 ['sʌbsɪkwəntlɪ]  美 ['sʌbsɪkwəntli]| adv. 随后，其后；后来/
+
+
+
+vi. bother (with/about sth)常用于否定句和疑问句，花费时间精力做某事:
+vt. bother sb (about/with sth) 使某人烦恼、担忧或不安:
+n. [sing.] [英] a bother 令人烦恼的一个情况、事物或人，相当于nuisance:
+vt. 打断（或打扰）某人；（当对方不想与你交谈时）搭话烦扰:
+n. [U] 麻烦或困难:
+vt. bother sb (about/with sth) 给某人造成麻烦或痛苦:
+bother |['bɒðə]
+It’s not worth bothering with an umbrella--the car’s just outside. 不必打伞——汽车就停在外面。
+I don’t know why you bother with that crowd. 我弄不懂你为什么和那伙人浪费时间。
+Why bother asking if you’re not really interested? 如果你不是真的感兴趣，干吗费口舌打听呢？
+He didn’t even bother to let me know he was coming. 他甚至连通知都没通知我他要来。
+You don’t sound too bothered about it. 看来你并不十分担心这事。
+I don’t want to bother her with my problems at the moment. 我此刻不想让她为我的事操心。
+I hope I haven’t been a bother. 希望我没烦到你。
+Stop bothering me when I’m working. 我工作时别来烦我。
+Let me know if he bothers you again. 他要是再搅扰你，就告诉我。
+Sorry to bother you, but there’s a call for you. 很抱歉打扰你一下，有你的电话。
+I don’t want to put you to any bother. 我不想给你添乱子。
+‘Thanks for your help!’ ‘It was no bother.’ “多谢你的帮助！”“没什么。”
+Call them and save yourself the bother of going round. 给他们打个电话就免得你亲自去了。
+I wouldn’t go to the bother of making the cakes myself. 我不会找麻烦自己做蛋糕的。
+He’s in a bit of bother with the police. 他跟警方有点儿麻烦。
+That sprained ankle is still bothering her. 她那扭伤的脚踝还在隐隐作痛。
+‘I’m sorry he was so rude to you.’ ‘It doesn’t bother me.’ “对不起，他对你太没礼貌。”“没关系。”

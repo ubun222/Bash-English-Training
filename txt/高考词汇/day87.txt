@@ -40,14 +40,14 @@ we |wiː| Pronoun/:,我
 shall we have a drink?:
 nobody knows kids better than we teachers do:没有人比我们老师更了解孩子
 we should eat as varied and well-balanced a diet as possible:我们应该吃尽可能多样化和均衡的饮食
-thought you wasn't coming to look for we:thought你不是来找我们的
+thought you wasn't coming to look for we:以为你不是来找我们的
 in this section we discuss the reasons for this decision:在本节中，我们将讨论做出此决定的原因
 how are we today?:今天过得好吗？
 
 carry the weight of, support:承载、支撑
 take responsibility for:承担责任
 be able to accept or stand up to:能够接受或承受
-endure (an ordeal or difficulty):endure（磨难或困难）
+endure (an ordeal or difficulty):忍受（考验或困难）
 manage to tolerate (a situation or experience):设法容忍（一种情况或经历）
 strongly dislike:非常不喜欢
 (of a person) carry (someone or something):（人的）携带（某人或某物）
@@ -57,7 +57,7 @@ be called by (a name or title):被（名字或头衔）称呼
 carry or conduct oneself in a specified manner:以特定方式携带或做人
 give birth to (a child):生（一个孩子）
 (of a tree or plant) produce (fruit or flowers):（树或植物的）生产（水果或花）
-turn and proceed in a specified direction:turn并朝指定方向前进
+turn and proceed in a specified direction:转弯并朝指定方向前进
 a large, heavy mammal that walks on the soles of its feet, having thick fur and a very short tail. Bears are related to the dog family but most species are omnivorous.:一种大而重的哺乳动物，用脚底行走，有厚厚的皮毛和非常短的尾巴。熊与狗科有关，但大多数物种是杂食性的。
 a teddy bear.:一只泰迪熊。
 a nickname for Russia.:俄罗斯的昵称。
@@ -74,13 +74,13 @@ she bore the pain stoically:她坚忍地忍受着痛苦
 she could hardly bear his sarcasm:她几乎无法忍受他的讽刺
 I can't bear caviar:我不能忍受鱼子酱
 he was bearing a tray of brimming glasses:他端着一盘满溢的眼镜
-steamboats bear the traveller out of Kerrerra Sound:steamboats载着旅行者离开KerrerraSound
+steamboats bear the traveller out of Kerrerra Sound:汽船载着旅行者离开克雷拉湾
 many of the papers bore his flamboyant signature:许多报纸上都有他华丽的签名
 he bore the surname Tiller:他姓蒂勒
 she bore herself with dignity:她有尊严地忍受着自己
 she bore six daughters:她生了六个女儿
 the squash bears fruit shaped like cucumbers:南瓜结出黄瓜形状的果实
-bear left and follow the old drove road:bear左转，沿着老路行驶
+bear left and follow the old drove road:向左转，沿着旧的车道行驶
 a lumbering bear of a man:一只笨拙的熊
 a bar frequented by bears:熊常去的酒吧
 if I make a mistake he goes mad with rage—he's a bear:如果我犯了一个错误，他会气得发疯——他是一只熊
@@ -104,7 +104,7 @@ a quantity of food or drink that fills or can be put in the mouth:一定量的�
 a long or complicated word or phrase that is difficult to say:一个长的或复杂的单词或短语，很难说
 mouthful |ˈmaʊθfʊl| Noun/:满嘴,一口
 he took a mouthful of beer:他喝了一口啤酒
-poliomyelitis is a bit of a mouthful:poliomyelitis有点拗口
+poliomyelitis is a bit of a mouthful:脊髓灰质炎有点口
 
 express regret for something that one has done wrong:对自己做错的事情表示遗憾
 apologize |əˈpɒlədʒʌɪz| Verb/:道歉,抱歉
@@ -114,7 +114,7 @@ rubbish or waste, especially domestic refuse:垃圾或垃圾，尤其是生活�
 worthless or meaningless material or ideas, rubbish:无价值或无意义的材料或想法，垃圾
 unwanted data in a computer's memory.:计算机内存中不需要的数据。
 garbage |ˈɡɑːbɪdʒ| Noun/:垃圾,废物
-garbage littered the estate:garbage乱扔垃圾
+garbage littered the estate:垃圾遍布庄园
 a store full of overpriced garbage:一家满是高价垃圾的商店
 
 the process or activity of writing or naming the letters of a word:书写或命名一个单词的字母的过程或活动
@@ -141,14 +141,14 @@ a thing learned by experience:从经验中学到的东西
 an experience or event that serves as a warning or encouragement:作为警告或鼓励的经历或事件
 a passage from the Bible read aloud during a church service, especially either of two readings at morning and evening prayer in the Anglican Church:在教堂服务期间大声朗读圣经中的一段，尤其是在圣公会教堂的早晚祈祷中的两次阅读中的任何一种
 instruct or teach (someone):指导或教导（某人）
-rebuke (someone):rebuke（某人）
+rebuke (someone):斥责（某人）
 lesson |ˈlɛsn| Noun/Verb/:课,教训
 an advanced lesson in maths:数学进阶课
 he had a facility for languages and had learned his lessons well:他有语言能力并且学得很好
-lessons should have been learned from two similar collisions:lessons应该已经从两次类似的碰撞中学到了
+lessons should have been learned from two similar collisions:应该从两次类似的碰撞中吸取教训
 let that be a lesson to you!:让这成为你的一个教训！
 he went up to read the first lesson:他上去读第一课
-Oedipus has been lessoned to humility before the throne of Zeus:Oedipus在宙斯的宝座前被教导要谦卑
+Oedipus has been lessoned to humility before the throne of Zeus:俄狄浦斯在宙斯宝座前学会了谦卑
 
 lessons | 课程,经验教训
 
@@ -158,8 +158,8 @@ lessons | 课程,经验教训
 
 a place on the coast where ships may moor in shelter, especially one protected from rough water by piers, jetties, and other artificial structures:海岸上可以停泊船只的地方，尤其是那些有码头、防波堤和其他人造结构保护免受汹涌水影响的地方
 a place of refuge:
-keep (a thought or feeling, typically a negative one) in one's mind, especially secretly:keep（一种想法或感觉，通常是消极的）在一个人的脑海中，尤其是秘密地
-shelter or hide (a criminal or wanted person):shelterorhide（罪犯或通缉犯）
+keep (a thought or feeling, typically a negative one) in one's mind, especially secretly:把（一种想法或感觉，通常是消极的）留在一个人的脑海中，尤其是秘密地
+shelter or hide (a criminal or wanted person):庇护或隐藏（罪犯或通缉犯）
 give a home or shelter to (an organism):给（一个有机体）一个家或庇护所
 carry the germs of (a disease):携带（一种疾病）的病菌
 (of a ship or its crew) moor in a harbour:（船舶或其船员）停泊在港口
@@ -173,7 +173,7 @@ patients who may have been harbouring tuberculosis:可能患有结核病的患�
 he might have harboured in Falmouth:他可能藏身于法尔茅斯
 
 used as the object of a verb or preposition to refer to a female person or animal previously mentioned as the subject of the clause:用作动词或介词的宾语，指代前面提到的作为从句主语的女性或动物
-she or her personally:she或她本人
+she or her personally:她或她本人
 herself |həːˈsɛlf| Pronoun/:她自己,本人
 she had to defend herself:她必须为自己辩护
 she told me herself:她自己告诉我
@@ -188,14 +188,14 @@ expressed in a restrained or understated way:以克制或低调的方式表达
 absence of noise or bustle, silence, calm:没有噪音或喧嚣，安静，平静
 freedom from disturbance or interruption by others:不受他人干扰或干扰
 a peaceful or settled state of affairs in social or political life:社会或政治生活中的和平或稳定状态
-make or become silent, calm, or still:make或变得沉默、平静或静止
+make or become silent, calm, or still:使或变得沉默、平静或静止
 quiet |ˈkwʌɪət| Adjective/Noun/Verb/:安静的,宁静,安静下来,安静,静谧
 the car has a quiet, economical engine:这辆车有一个安静、经济的发动机
 the street below was quiet, little traffic braving the snow:下面的街道很安静，很少有人冒着雪
 all he wanted was a quiet drink:他想要的只是一杯安静的饮料
 we wanted a quiet wedding:我们想要一个安静的婚礼
 his quiet, middle-aged parents:他安静的中年父母
-Molly spoke with quiet confidence:Molly平静自信地说话
+Molly spoke with quiet confidence:莫莉平静而自信地说道
 the ringing of the telephone shattered the early morning quiet:电话铃声打破了清晨的宁静
 he understood her wish for peace and quiet:他理解她对和平与安宁的渴望
 after several months of comparative quiet, the scandal re-erupted in August:经过几个月的相对平静，丑闻在八月再次爆发
@@ -230,7 +230,6 @@ the job will involve taking dictation, drafting letters, and arranging meetings:
 
 the principal church of a diocese, with which the bishop is officially associated:一个教区的主教堂，主教与该教区有正式联系
 cathedral |kəˈθiːdr(ə)l| Noun/:大教堂,教堂
-:
 
 a feeling of deep admiration for someone or something elicited by their abilities, qualities, or achievements:对某人或某物的能力、品质或成就产生的深深钦佩之情
 the state of being admired or respected:被仰慕或尊重的状态
@@ -246,7 +245,6 @@ respect |rɪˈspɛkt| Noun/Verb/:尊重,方面,关于,敬
 the director had a lot of respect for Douglas as an actor:导演非常尊重道格拉斯作为演员
 his first chance in over fifteen years to regain respect in the business:他15年来第一次有机会在业务中重新获得尊重
 give my respects to their Excellencies:向他们的阁下致以我的敬意
-:
 young people's lack of respect for their parents:年轻人不尊重父母
 the findings in this respect have been mixed:这方面的调查结果好坏参半
 she was respected by everyone she worked with:她受到与她共事的每个人的尊重
@@ -272,7 +270,6 @@ expression of the TAT gene is restricted to the parenchymal cells:TAT基因的�
 
 an oxide containing two atoms of oxygen in its molecule or empirical formula.:分子或经验式中含有两个氧原子的氧化物。
 dioxide |dʌɪˈɒksʌɪd| Noun/:二氧化,二氧化碳
-:
 
 a person who lives in a village:一个住在村子里的人
 villager |ˈvɪlɪdʒə| Noun/:,农民
@@ -306,7 +303,7 @@ his face looked grey and drawn:他的脸看起来灰蒙蒙的
 grey, faceless men:灰色，不露面的男人
 the grey economy:灰色经济
 a grey Cape Town suburb:一个灰色的开普敦郊区
-dirty intermediate tones of grey:dirty中间灰色调
+dirty intermediate tones of grey:肮脏的灰色中间调
 the man in grey:灰衣人
 he sighed at the amount of grey at his temple:他叹了口气，因为他太阳穴的灰色量
 he had put on weight and greyed somewhat:他发胖了，有点变白了
@@ -318,9 +315,9 @@ direct the attention of someone to:将某人的注意力转移到
 pass a matter to (a higher body) for a decision:将事情传递给（更高的机构）做出决定
 send or direct someone to a medical specialist:发送或指导某人去看医学专家
 read or otherwise use (a source of information) in order to ascertain something, consult:阅读或以其他方式使用（信息来源）以确定某事，咨询
-trace or attribute something to (someone or something) as a cause or source:trace或将某事归因于（某人或某事）作为原因或来源
+trace or attribute something to (someone or something) as a cause or source:追踪或归因于（某人或某物）作为原因或来源
 regard something as belonging to (a certain period, place, or class):认为某物属于（某个时期、地点或阶级）
-fail (a candidate in an examination):fail（参加考试的考生）
+fail (a candidate in an examination):不及格（考试中的候选人）
 refer |rɪˈfəː| Verb/:,指
 her mother never referred to him again:她妈妈再也没有提到他
 I refer my honourable friend to the reply that I gave some moments ago:我请尊敬的朋友参考我刚才的回复
@@ -353,8 +350,7 @@ a strip of leather, card, or other material, used to mark one's place in a book.
 a record of the address of a website, file, or other data made to enable quick access in future.:网站地址、文件或其他数据的记录，以便将来快速访问。
 record the address of (a website, file, etc.) to enable quick access in future:记录（网站、文件等）的地址，方便日后快速访问
 bookmark |ˈbʊkmɑːk| Noun/Verb/:
-fans will want to bookmark this site:fans想收藏这个网站
+fans will want to bookmark this site:粉丝会想要将此网站添加为书签
 
 a type of personal stereo.:一种个人音响。
 walkman |ˈwɔːkmən| Noun/:随身听,步行
-:

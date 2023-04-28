@@ -1,0 +1,741 @@
+key						钥匙，关键，按键
+sing in key				唱歌搭调
+lung						肺
+sixty						六十
+January					一月
+fried						油煎
+kilogram					千克
+smooth					光滑的，平坦的，圆润的，顺利的，磨平
+reviewer					评论者
+inside					里面，内侧，内幕，监狱
+insides					内脏
+inside out					里面朝外
+second					第二的，另外的，秒，片刻，调遣
+master					能手，主人，硕士，精通，控制
+healthy					健康的，兴旺发达的
+file						锉刀，文件，提交，一行
+seventh					第七
+college					学院，大学，协会
+liberty					自由，放肆
+blow						吹，喘气，喷水，爆裂
+questionnaire				调查表
+Christmas					圣诞节
+father					上帝，神父，父亲，创始人
+everyone					每个人，所有的人
+mild						温和的，味淡的，轻微的
+automatic					自动的，无意识的，必然的，自动挡
+article					物件，文章，条款，冠词
+link						环，交通路线，通讯，关系，连接
+compact					坚实的，小巧紧凑的，协议，压缩
+about						关于，为了，从事于，围绕着，大约，刚
+local						本地人，邻近的
+hydrogen					氢
+\\\\\\\\
+
+n. [C]（用于打开门锁、启动汽车等的）钥匙:
+n. [C]（尤指墨西哥湾内的）小而低的岛屿或礁:
+n. [C]（地图中）对符号的说明:
+n. [C]（计算机或打字机的）键:
+n. [C] 音乐中的调:
+n. [C]（钢琴或其他乐器的）键:
+n. [C]（若干练习或问题的）一系列答案。一个key通常包含了若干个answer:
+vt. 故意用钥匙划坏（汽车）:
+n. [C]（地图或平面图中）对符号的说明:
+key sth (into sth) 用键盘将信息键入电脑，相当于enter。是将名词用作动词，不常用:
+adj. 常作前置定语，最重要的，主要的，关键的。相当于critical或vital:
+n. [usually sing.] key (to sth)（使人能够理解或达成某事的）关键；要诀。相当于secret:
+key |[ki:]
+car, door, house, room key 车钥匙；门钥匙；房屋钥匙；房间钥匙 
+a bunch of keys 一串钥匙 
+I slid the key into the lock and went in. 我把钥匙插入锁孔，打开门进去了。
+the Florida Keys 佛罗里达群岛
+delete, enter, escape, function key 删除键；回车键；退出键；功能键 
+short-cut key 快捷键
+major, minor key 大调；小调 
+high, low key 高调；低调 
+The key changes from C major to A minor. 音调从C大调变为A小调。
+Can we try it in a lower key? 我们能用低一点儿的调试试吗？
+organ, piano key 风琴琴键；钢琴琴键
+Check your answers in the key at the back of the book. 用书后的解答核对答案。
+You will find a key at the front of the book. 你在书的前面会看到一个对书中所用符号（及其所表示的含义）的说明。
+vt. key sth (in) 
+Key (in) your password. 用键盘输入密码。
+key issue, key factor, key point 关键问题；关键因素；要点 
+the key witness 关键证人 
+He was a key figure in the campaign. 他是这场运动的关键人物。
+She played a key role in the dispute. 她在争论中起着举足轻重的作用。
+Good communication is key to our success. 良好的沟通是我们成功的关键。
+the key to success 成功的关键 
+The driver of the car probably holds the key to solving the crime. 这位汽车司机很可能掌握着破获此案的关键证据。
+
+n. [C] 肺，肺脏:
+lung |[lʌŋ]
+a pair of lungs 一对儿肺 
+lung ache, lung hurt 肺部疼痛 
+lung capacity, lung power 肺活量 
+lung cancer 肺癌 
+The smoke was beginning to choke her lungs. 烟开始呛得她难以呼吸。
+
+the number equivalent to the product of six and ten, ten more than fifty, 60:等于六和十的乘积的数字，十比五十，60
+the numbers from sixty to sixty-nine, especially the years of a century or of a person's life:从六十到六十九的数字，尤其是一个世纪或一个人的一生
+sixty miles an hour:60英里一小时
+sixty years old:六十岁
+a size of garment or other merchandise denoted by sixty.:
+sixty |ˈsɪksti| Numeral/:,第六十
+a crew of sixty:60名船员
+Morris was in his early sixties:Morris六十出头
+they were doing sixty:他们正在做六十
+he retired at sixty:他六十岁退休
+
+the first month of the year, in the northern hemisphere usually considered the second month of winter:一年的第一个月，在北半球通常被认为是冬天的第二个月
+January |ˈdʒanjʊəri| Noun/:一月,月
+Sophie was two in January:Sophie一月份是两个
+
+(of food) cooked in hot fat or oil:（食物）用热脂肪或油烹制
+exhausted or worn out:精疲力竭或疲惫不堪
+under the influence of alcohol or drugs:在酒精或药物的影响下
+fried |frʌɪd| Adjective/Verb/:油炸,炸,油煎,炒
+a breakfast of fried eggs and bacon:一份煎鸡蛋和培根早餐
+I had just come from doing a shoot and I was really fried:我刚拍完照片，我真的很煎熬
+Ronnie broke out a bottle of Scotch—we all got pretty fried:Ronnie拿出一瓶苏格兰威士忌——我们都被炸得很厉害
+
+the SI unit of mass (equivalent to approximately 2.205 lb), first introduced as a unit of mass for the metric system.:SI质量单位（相当于大约2.205磅），首先作为公制的质量单位引入。
+kilogram |ˈkɪləɡram| Noun/:公斤,千克
+
+adj.（某种液体混合物）没有任何结块的，混合均匀的:
+adj.（嗓音或音乐）悦耳的，圆润的，没有任何粗糙感或令人不悦的声音的:
+adj.（运动）平稳且规则的，没有任何停止和启动的，如稳定而流畅的:
+adj. [常贬] 人（尤指男人和其行为）非常有礼貌且让人感觉愉悦但常不是真诚的，可称为圆滑的、八面玲珑的，相当于smarmy:
+vt. smooth sth on/into/over sth 将一层柔软物质均匀置于食物表面:
+adj.（饮料或味道）宜人且不苦涩的，如醇和的，香醇的:
+vt. smooth sth on/into/over sth 将一层柔软物质均匀置于某个表面上:
+adj. 完全平整、平坦、平滑、光滑的，没有任何隆起、坑洼或粗糙区域的。是此义的常规用词。与rough相对立:
+vt. smooth sth (back/down/out) 使某事物平整、平坦、平滑或光滑:
+adj. 发生或持续得顺利（而不遇到任何问题）的:
+smooth |[smu:ð]
+Mix the flour with the milk to form a smooth paste. 把面粉和牛奶和成均匀的面糊。
+The car’s improved suspension gives you a smoother ride. 汽车悬架经过改进，乘坐起来更平稳。
+The plane made a smooth landing. 飞机平稳降落。
+She swung herself over the gate in one smooth movement. 她从门上一跃而过。
+I don’t like him. He’s far too smooth for me. 我不喜欢他。我觉得他太圆滑。
+a smooth operator 八面玲珑的滑头
+Smooth the icing over the top of the cake. 在蛋糕顶上均匀地铺一层糖霜。
+This coffee has a smooth, rich taste. 这种咖啡味道醇厚。
+Smooth the icing over the top of the cake. 在蛋糕顶上均匀地一层糖霜。
+to make your skin feel soft and smooth 使皮肤柔软光滑 
+The water was as smooth as glass. 水平如镜。
+Over the years, the stone steps had worn smooth. 日久天长，石阶已经磨得光溜溜的了。
+He took the letter and smoothed it flat on the table. 他接过信，在桌上展平。
+She smoothed his hair gently. 她轻轻地抚平他的头发。
+Use an iron to smooth out any creases. 用熨斗把褶皱熨平。
+the smooth running of the business 公司的平稳运转 
+a smooth transfer of political power 政权的顺利交接 
+a fairly smooth transition to democracy 向民主制度相当顺利的过渡 
+The process of negotiation was not entirely smooth. 谈判过程并非一帆风顺。
+
+a person who writes critical appraisals of books, plays, films, etc. for publication:为出版的书籍、戏剧、电影等撰写批判性评价的人
+a person who formally assesses something with a view to changing it if necessary:一个正式评估某事以期在必要时对其进行更改的人
+reviewer |rɪˈvjuːə| Noun/:,评论者
+she's a reviewer for the Los Angeles Times:她是《洛杉矶时报》的评论员
+a rent reviewer:a租金审查员
+
+adj. 从一个团体或组织的内部成员那里了解到的，或由其内部成员所干的:
+prep. [美尤用inside of] 少于某个时间量:
+prep. [美尤用inside of] 在（或向）…内心:
+adv. 在（或向）内心:
+prep. [美尤用inside of] 在（或向）…里面:
+adv. 在（或向）里面:
+n. [C, usually sing.]（常用the inside）…的内里部分、内侧或内表面:
+adj. 只用于名词前，内部的，里面的:
+n. [pl.] insides 可指人的肠胃:
+adv. [非正式] 在监狱里:
+n. 1 [sing.] the inside 可指公路上靠近路边的部分（尤指慢车道）:
+2 [sing.] the inside 可指道路（或跑道）拐弯处的内侧，里道:
+inside |['ɪn'saɪd]
+inside information 内部情报 
+Any newspaper would pay big money to get the inside story on her marriage. 任何报纸都愿出高价购买关于她婚姻的内情。
+The robbery appeared to have been an inside job. 这次抢劫像是内部人干的。
+The job is unlikely to be finished inside (of) a year. 这项工作不大可能在一年之内完成。
+Inside most of us is a small child screaming for attention. 我们大多数人的内心都藏着一个呼求关注的小孩。
+I pretended not to care but I was screaming inside. 表面上我佯装不在乎，但内心却在高声喊叫。
+Go inside the house. 进屋里吧。
+Inside the box was a gold watch. 盒子里装着一只金表。
+inside China 中国国内 
+You’ll feel better with a good meal inside you. 你肚子饱了感觉就会好些的。
+Inside most of us is a small child screaming for attention.（比喻用法）我们大多数人的内心都藏着一个呼求关注的小孩。
+She shook it to make sure there was nothing inside. 她把它晃了晃，以确定里面没有东西。
+We had to move inside when it started to rain. 开始下雨了，我们只好躲进屋里。
+I pretended not to care but I was screaming inside.（比喻用法）表面上我佯装不在乎，但内心却在高声喊叫。
+The inside of the box was blue. 盒子的内面呈蓝色。
+The door was locked from the inside. 门从里面锁上了。
+The shell is smooth on the inside. 贝壳内壁光滑。
+the insides of the windows 窗户的内侧 
+the inside pages of a newspaper 报纸的内页 
+an inside pocket 里兜 
+I was driving on the inside lane.（英）我当时驾车在慢车道上行驶。
+She was so nervous, her insides were like jelly. 她紧张得六神无主。
+He was sentenced to three years inside. 他被判三年监禁。
+He tried to overtake on the inside. 他试图从慢车道超车。
+The French runner is coming up fast on the inside. 法国的赛跑选手正从内圈迅速赶上来。
+
+
+insides | 内脏,里面
+
+vt. 在一次会议上正式提出支持另一个人的想法、意见等（使其能够得到讨论或表决通过），即附议:
+n. [C] 帮助或支持别人的人，如一场拳击比赛或旧时决斗中的助手:
+vt. 赞同某人所说的:
+det., ordinal number 只作前置定语，另外的，外加的，除了你已经拥有或使用的以外还有…的:
+n. [C]（符号）（简写为sec）秒（时间单位）:
+n. [C]（也可用非正式的sec）一段非常短的时间，即片刻；瞬间。相当于moment:
+det., ordinal number 1（在一系列相似的事件或人中）以第二的顺序发生或到来的:
+2（重要性、尺寸、规模、品质等）居第二位的（后常接形容词最高级）:
+adv. 1（在顺序或重要性上）位于另一个人或事物之后，即以第二名；以第二位:
+2 在演讲或写作中用于列举，即第二，其次，相当于secondly:
+n. [pl.] [非正式] seconds 可指吃过后再上的同种类的一份食物:
+n. [C]（符号）秒（角度单位）:
+n. [C, usually pl.] 由于质量差而被以低价出售的货物，即次品，二等货。其含义已被reject包括，但second只强调质量不达标，而不至于像reject那样，有时被顾客完全拒绝:
+n. [C] 英国大学的一种大学学位等级，即二级学位（upper second为二级上，较好；lower second为二级下，一般）:
+n. [U]（也可用second gear）（车辆的）二档:
+second |['sekənd]
+Any proposal must be seconded by two other members of the committee. 任何提案须有委员会其他两位委员附议。
+The UN secretary-general seconded the appeal for peace. 联合国秘书长支持这项和平呼吁。
+‘Thank God that’s finished.’ ‘I’ll second that! (= I agree)’（非正式用法）“谢天谢地，总算干完了。”“没错！”
+They have a second home in Tuscany. 他们在托斯卡纳还有一个家。
+The light flashes every 5 seconds. 灯光每5秒钟闪一次。
+The seconds ticked by. 时间分分秒秒地流逝。
+I’ll be with you in a second. 我马上就去你那儿。
+This will only take a second. 这只需要一小会儿。
+I hesitated for a second before speaking. 开口说话之前我犹豫了一下。
+Within seconds he had disappeared from view. 他不一会儿就从视野中消失了。
+the second time 第二次 
+He was the second to arrive. 他是第二个到的。
+the Second World War 第二次世界大战 
+Osaka is Japan’s second-largest city. 大坂是日本的第二大城市。
+As a dancer, he is second to none. 他的舞技不亚于任何人。
+The party is still the second strongest in Italy. 该党仍是意大利第二大党。
+She came second in the marathon. 她在马拉松比赛中获得第二名。
+He is a writer first and a scientist second. 他首先是作家，然后才是科学家。
+She did it first because she wanted to, and second because I asked her to. 她做那件事，首先是因为她自己想做，其次是因为我要她做。
+Seconds, anybody? 有谁需要再来一份吗？
+There are seconds if you want them. 你想要的话还有。
+1˚6′10″ (= one degree, six minutes and ten seconds) 1度6分10秒
+He often gets some seconds or unbranded goods. 他经常买一些次品或无牌货。
+When it’s icy, move off in second. 路面有冰时，起步挂二挡。
+
+vt. 1 设法控制住情绪，即掌控情绪:
+2 控制住一个动物或人:
+3 掌控一种困难的局势:
+n. 1 [C] 雇佣仆人为其工作的一个人，即主人:
+2 [C] master of sth 能够掌控局势的一个人，即主宰:
+3 [C] 狗的男主人:
+adj. 只作前置定语，用于描述精于某个职业的人，即精通的，熟练的:
+adj. 常用作形容词，指录音、磁带、电影等的母带（可以此进行复制）:
+n. [C] [旧时] Master用作一种称谓，指对年龄小而不便称作先生（Mr）的男孩的称呼；也用在信封等处的人名前:
+n. [C] 旧时著名的男画家，即绘画大师:
+n. [C] 获得硕士学位的一个人，即硕士:
+n. [C] master (of sth) 在技能上擅长…的人，即能手，专家:
+n. [C] Master用作一种称谓，指英国一些学校（包括大学）的校长，院长:
+vt. 完全地理解或了解…，即掌握。相对正式:
+n. [sing.] master’s（或master’s degree）硕士学位（但在苏格兰则指大学里的初级学位）:
+n. [C] [英，旧时] 男教师，尤指私立学校的男教师:
+n. [C] Master用作一种称谓，指对宗教导师或领袖的一种称呼，即大师，师傅:
+n. [C] 货船的船长:
+adj. 只作前置定语，最大的，最重要的:
+master |['mɑːstə]
+to master his temper 控制住他的脾气 
+to master the situation 掌控局势
+The master ordered him to keep secret. 主人命令他保密。
+slave master 奴隶主 
+corrupt people who would serve any master 愿意效力于任何主子的堕落者 
+He wants to be master of his own destiny. 他想做自己命运的主人。
+the master of future 掌控未来的一个人 
+a political master 掌权的政治人物 
+colonial master 殖民宗主国 
+puppet master 傀儡操控者 
+the dog’s master 狗的男主人
+master craftsman, master chef 技艺高超的工匠；厨艺精湛的大厨 
+master builder, master painter（尤英）建筑大师；绘画大师
+Keep one as a master copy. 留下一盘作为母带。
+the Dutch master, Vincent Van Gogh 荷兰著名男画家文森特·凡·高 
+This portrait is the work of an acknowledged master. 这幅肖像画是一位公认的大师的作品。
+a Master of Science 理科硕士
+a master of the English language 英语语言专家 
+the grand master of physical comedy 肢体喜剧大师 
+chess master 国际象棋大师 
+a master of disguise 善于伪装的人 
+He’s a past master at delaying meetings. 他是拖延会议的老手。
+to master the skill 掌握技能 
+to master a language 掌握一门语言 
+to master a technique 掌握一门技术 
+to master the art of lip-reading 掌握唇读的技巧 
+He has a Master’s in communications from Boston University. 他拥有波士顿大学的通信专业硕士学位。
+Master’s degree, Master’s thesis 硕士学位；硕士论文
+the history master 历史教师
+the master switch 总开关 
+the master bedroom 主卧室 
+the master file 主文件
+
+adj.（组织或系统等）繁荣的:
+adj. 常作前置定语，（常指数量）大而显得成功的，即可观的:
+adj. 正常的，合理的，（态度）明智的:
+adj. 1（生物体）健康的（即没有或很少有疾病的）。是此义的基础用词和常规用词，最为常用:
+2 常作前置定语，有益于健康的:
+3 常作前置定语，表明某人健康状况良好的:
+adj. 1 正常的，合理的，（态度）明智的:
+2（组织或系统等）成功的，繁荣的，运转良好的:
+adj.（组织或系统等）运转良好的:
+healthy |['helθɪ]
+an economically healthy state 一个经济繁荣的国家 
+a healthy economy 繁荣的经济
+healthy profits 可观的利润 
+a healthy bank balance 一大笔银行结余
+to show a healthy curiosity 表现出正常的好奇心
+a healthy child 健康的孩子 
+a healthy animal 健康的动物 
+a healthy tree 健康的树 
+Working in the open air has made him very healthy. 户外劳动使他变得身体强壮。
+mentally, physically healthy 心理健康；身体健康 
+a healthy diet 有益健康的饮食 
+a healthy lifestyle 健康的生活方式 
+a healthy climate 有益健康的气候 
+to have a healthy appetite 胃口好
+to show a healthy curiosity 表现出正常的好奇心 
+to have a healthy attitude to work 持有一种良好的工作态度 
+an economically healthy state 一个经济繁荣的国家 
+a healthy economy 繁荣的经济 
+The machine sounds very healthy. 这部机器听声音运转良好。
+financially healthy 财务状况良好
+The machine sounds very healthy. 这部机器听声音运转良好。
+to be financially healthy 财务状况良好
+
+n. [C] 锉刀，锉:
+n. [sing.] 按前后顺序排成一行的人或事物:
+vi.（人）排成一行，并朝某个方向一个接一个地走去（即排成纵队行进）:
+n. [C]（存储在计算机上的）文件或文件夹。包含了各种类型（如文字、视频、音频、图片、程序等）的文件:
+vt. 在计算机中把文件等归档:
+vt.（新闻记者）发送报道给自己的雇主（如报社）:
+n. [C] 锉刀，锉:
+vt. file sth (away/down, etc.)（用锉）锉掉…、锉成某种形状、锉平滑等:
+vt.＆vi. file (for sth) 法律上可指呈交…（以使其能够得到正式记录或处理），如提起诉讼、投诉或提出请求。较为正式:
+n. 1 [C] 装文件用的容器（如文件柜或折叠式的文件夹等）。是此义的常规用词:
+n. [C] file (on sb) 一个文件夹和其中所包含的信息（例如关于某个人或某个主题的档案）:
+vt. file sth (away) 把文件等按某种顺序放置或保存在某个地方（以方便查找）；把一份文件放入文件夹。即把文件等归档:
+file |[faɪl][faɪl][faɪl]
+They set off in file behind the teacher. 他们跟在教师后面鱼贯出发。
+The doors of the museum opened and the visitors began to file in. 博物馆开门了，参观者鱼贯而入。
+The long line of mourners filed silently past. 一长队哀悼者默默地走过。
+computer, electronic file 计算机文件；电子文件 
+data, text file 数据文件；文本文件 
+system file 系统文件 
+video file 视频文档 
+backup file 备份文件 
+PDF file PDF文件 
+ZIP file 压缩文件 
+file name 文件名 
+file format 文件格式
+electronically file 进行电子归档 
+He had to rush back to the office and file a housing story before the secretaries went home. 他不得不赶回办公室，在秘书们回家之前提交一份有关住房的报道。
+to file your nails 把指甲锉光滑
+to file a claim, to file a complaint, to file a petition, to file a lawsuit 提出索赔；提出申诉；呈交诉状；提起诉讼 
+to file for bankruptcy, to file for divorce 申请破产；申请离婚 
+A copy of the notice must be filed with the court. 必须将通知副本送交法院备案。
+a file of insurance papers 一个保险单文件夹 
+paper file 纸质文件夹 
+six box files bulging with notes 六个装满笔记鼓鼓囊囊的盒式卷宗 
+secret police files 警方秘密档案 
+official file 官方档案 
+personal file 个人档案 
+personnel file 人事档案 
+medical file 病历 
+She closed the file and put it aside. 她合上档案放到一边。
+The forms should be filed alphabetically. 这些表格应该按字母顺序归档。
+Please file it in my ‘Research’ file. 请把它归入我的“研究类”档案。
+to electronically file 进行电子归档 
+She mentally filed the name away for later.（比喻用法）她把这个名字记在心里，以便以后用。
+
+constituting number seven in a sequence, 7th:构成序列中的第7个，第7个
+the seventh finisher or position in a race or competition:比赛或比赛中的第七名或位置
+seventhly (used to introduce a seventh point or reason).:seventhly（用于介绍第七点或理由）。
+an interval spanning seven consecutive notes in a diatonic scale.:以全音阶跨越七个连续音符的音程。
+the note which is higher by a seventh than the tonic of a diatonic scale or root of a chord.:
+a chord in which the seventh note of the scale forms an important component.:一个和弦，其中音阶的第七个音符是一个重要的组成部分。
+each of seven equal parts into which something is or may be divided.:某事物被或可能被分成的七个相等部分中的每一个。
+seventh |ˈsɛvnθ| Numeral/:第七,第七名
+his seventh goal of the season:他本赛季的第七个进球
+Jo Richardson came seventh:JoRichardson排名第七
+
+n. [C, U] 常用于名称中，指由拥有特殊兴趣、职责或影响力的一群专业人士所组成的一个组织，即协会，学会:
+n. [C] college中的教师和（或）学生:
+n. 1 [C, U] 常用于名称，英国的职业技术学院（即在学生接受完中学的义务教育后所进入并学习技能的地方）:
+2 [C, U] 常用于名称，美国的大学（相当于university）:
+3 [C, U] [加]（上完中学后所进入的）高等专科学校或高等职业学院:
+4 [C, U] 一些英国大学（如牛津、剑桥）中的一个学院:
+5 [C] 美国一些大型综合性大学的一个学院:
+6 [C] 尤用于名称中，指英国和其他一些国家的中学，公学，尤指必须交费的中学:
+college |['kɒlɪdӡ]
+the American College of Cardiology 美国心脏病研究学会
+the Royal College of Art 皇家艺术学院 
+military, police, technical college 军事学院；警察学院；技术学院 
+agricultural, music, sports, veterinary college 农业专科学院；音乐专科学院；体育专科学院；兽医专科学院 
+community, local college 社区大学；地方大学 
+private college 私立大学 
+Ivy League college（美）常春藤学院 
+college campus 大学校园 
+college loan 大学助学贷款 
+She’s away at college in Virginia. 她去弗吉尼亚念大学了。
+King’s College, Cambridge 剑桥大学的国王学院 
+a college of education 教育学院 
+the University of Florida College of Law 佛罗里达大学法学院 
+the College of Arts and Sciences 文理学院 
+college dormitory（美）学院宿舍 
+Eton College 伊顿公学 
+tutorial college（英）私立考试辅导学校
+
+n. [C] 单数名词，可能会冒犯某人（或使其恼怒）的一种言行，尤指因为未受许可就做了某事，或因为不尊重该人。即冒犯、放肆或失礼的言行，如:
+n. [C] 免除:
+n. 1 [U] 按照自己的选择自由地去生活，在某种程度上不受其他人、政府或权威的限制:
+2 [U] 非囚犯或奴隶等的状态，即人身自由:
+3 [C] 做某事的合法权力和自由:
+liberty |['lɪbətɪ]
+He took the liberty of reading my files while I was away. 他趁我不在时擅自看我的文件。
+They’ve got a liberty, not even sending me a reply. 他们真无礼，连个答复也不给我。
+liberty from the abuse of police power 免遭滥用警察权力之苦
+the fight for justice and liberty 争取正义和自由的斗争 
+The city won its liberty in the 16th century. 这座城市于16世纪获得自由。
+Women are demanding greater liberty for themselves. 妇女正在为自己争取更大的自由。
+If found guilty, she is in danger of losing her liberty. 如果被判有罪，她将有可能失去自由。
+The right to vote should be a liberty enjoyed by all. 投票权应当是人人享有的合法权利。
+People fear that security cameras could infringe personal liberties. 人们担心保安摄像机会侵犯人身自由。
+The law should protect the liberty of the individual. 法律应该保障个人自由。
+religious liberty 宗教自由 
+I’m not at liberty to reveal the names of the victims. 我没有透露受害人姓名的自由。
+
+vt. 把一次事件、一种情况、一次争论搞成一种极端局面，尤指搞成不确定的或令人不快的局面:
+vt. 英式英语，非正式，用于表示生气，吃惊或不在乎:
+vt. 英式英语，非正式，用于表示生气:
+n. [C] blow (to sb/sth) 使人悲伤或失望的突发性事件，即挫折，打击:
+vt. blow (sb) a kiss 表示向某人送飞吻:
+vt.＆vi. 美式英语，俚语，指突然离开某地:
+vt. 把某物吹出某个形状，如吹制玻璃:
+vt. 非正式，指浪费机会:
+vt.＆vi. 保险丝熔断，或使保险丝熔断:
+vt.＆vi.（植物或花）开放:
+n. [U] 许多开放的花:
+vt. 非正式，指泄露机密或暴露秘密:
+n. [C]（用手、武器等的）打击:
+vt.＆vi. 1 用嘴吹出空气:
+2 被某人的气息吹动；也可指以这种方式来运动:
+vt. 吹出某物，或把某物吹出某个形状:
+vt. 擤鼻子:
+n. [C] 作为吹或擤等动作的名词:
+vt.＆vi. 吹口哨、吹哨子、吹奏乐器等，或口哨、哨子或乐器等吹奏出声音。是此义的常规用词:
+vt. blow sth (on sth) 非正式，指在…上花费或挥霍大量金钱:
+vt. 用炸药炸开:
+vt.＆vi. 1（风）刮或吹:
+2 被风吹动；也可指以这种方式来运动:
+blow |[bləʊ]
+Some people want to blow this event into chaos. 有些人想把这件事搞乱。
+Blow it! We’ve missed the bus. 真该死！我们错过了公交车。
+Well, blow me down! I never thought I’d see you again. 呵，天哪！我以为再也见不到你了。
+I’m blowed if I’m going to (= I certainly will not) let him treat you like that. 我绝不允许他那样对待你。
+Let’s take a taxi and blow (= never mind) the expense. 我们坐出租车吧，别在意费用。
+Blow it! We’ve missed the bus. 真该死！我们错过了公交车。
+I’m blowed if I’m going to let him treat you like that. 我绝不会允许他那样对待你。
+Losing his job came as a terrible blow to him. 失业给他造成了沉重的打击。
+It was a shattering blow to her pride. 那事彻底摧毁了她的自尊心。
+a mortal blow to local industry 对地方工业的致命打击 
+His defeat dealt a crushing blow to the party. 他的失败对该党造成了毁灭性的打击。
+Let’s blow this place. 咱们马上离开这里。
+to blow glass 吹制玻璃器皿
+She blew her chances by arriving late for the interview. 她面试时迟到，结果错过了机会。
+One mistake could blow your cover (= make your real name, job, intentions, etc. known). 一不小心就会让你暴露身份。
+He landed a blow on Hill’s nose. 他对着希尔的鼻子来了一拳。
+He suffered a severe blow to the head. 他头上挨了一记猛击。
+the fatal blow 致命的一击 
+to exchange blows 互相厮打 
+The blow knocked him to the ground. 这一击把他打倒在地。
+The children came to blows over the new toy. 孩子们为了争那件新玩具动起手来。
+He killed the man with a single blow of the hammer. 他一榔头打死了那个人。
+The policeman asked me to blow into the breathalyser. 警察要我对着呼吸检测仪吹气。
+He blew out a stream of smoke 他吐出一股烟。
+He blew on his soup to cool it. 他吹着汤好让它快点儿凉。
+She blew the dust off the book. 她吹掉了书上的灰尘。
+to blow smoke rings 吐烟圈 
+to blow bubbles 吹泡泡 
+to blow glass 吹制玻璃器皿
+to blow one’s nose 擤鼻子 
+Give your nose a good blow. 把你的鼻子擤干净。
+The referee blew his whistle. 裁判吹响了哨子。
+the sound of trumpets blowing 吹喇叭的声音
+He inherited over a million dollars and blew it all on drink and gambling. 他继承了一百多万元，全部挥霍在酗酒和赌博上了。
+The safe had been blown by the thieves. 保险柜被窃贼炸开了。
+A cold wind blew from the east. 东边吹来一股冷风。
+It was blowing hard. 刮着大风。
+see which way the wind is blowing（比喻用法）见风使舵 
+The wind blew the papers off the table. 风把文件从桌子上吹落下来。
+My hat blew off. 我的帽子被风吹走了。
+The door blew open. 门被风吹开了。
+I was almost blown over by the wind. 我被风刮得快站不住了。
+
+n. [C] questionnaire (on/about sth) 书面调查问卷（列出一系列问题，由多人解答，用于从答案中收集信息）:
+questionnaire |[͵kwestʃə'neə]
+online questionnaire 网上问卷 
+a questionnaire on the environment 环境问题调查问卷
+
+n. 1 [U, C]（也可用Christmas Day）圣诞节（12月25日）:
+2 [U, C]（也可用Christmastime）圣诞节期间的一段时间（包括圣诞节当天，也包括与其临近的若干天）:
+Christmas |['krɪsməs]
+Christmas dinner 圣诞大餐 
+Christmas card, Christmas present 圣诞卡；圣诞礼物 
+Christmas tree 圣诞树 
+Christmas Eve 平安夜 
+the Christmas holidays 圣诞节假期 
+There are lots of parties at Christmas. 圣诞节期间有很多聚会。
+
+vt. 创造新的思想（或新的做事方式）:
+n. [C] father (of sth) 创始人，鼻祖，先驱，奠基者等:
+n. [pl.] [文学] fathers 一个人的历代祖先:
+n. [C]（孩子或动物的）父亲:
+vt. 成为某个孩子的父亲，做…的父亲:
+n. [sing.] Father基督徒对上帝的称呼，如天父:
+n. [sing.] Father（缩写为Fr）（尤指罗马天主教和东正教的）神父的头衔:
+father |['fɑːðə]
+the father of modern British sculpture 现代英国雕塑之父
+the land of our fathers 我们祖先的土地
+He is a father of three. 他是三个孩子的父亲。
+single father 单亲父亲 
+natural father 生父 
+adoptive father 养父
+He claims to have fathered over 20 children. 他声称有20多个亲生子女。
+Father, forgive us. 天父，宽恕我们吧。
+God the Father 天父
+Father Dominic 多米尼克神父
+
+pron.（也可用everybody）每个人；所有人:
+everyone |['evrɪwʌn]
+Everyone cheered and clapped. 人人都鼓掌欢呼。
+The police questioned everyone in the room. 警方盘问了房间里的每一个人。
+
+adj. 指人或其行为和善的、随和的:
+adj. 情感轻微的、不强烈的:
+adj. 天气温和的。是一种适中的warm，尤指没有预计的冷（mild指气温“不极端”，既包括不太热，也包括不太冷，而warm仅指不太热）:
+adj. 味道不浓的、不辛辣、不苦的，即淡味的:
+n. [U] 一种淡味啤酒:
+adj. 思维轻微的、不强烈的:
+adj. 不严重的，不强烈的:
+mild |[maɪld]
+a mild man 性情温和的人 
+His voice was deceptively mild. 他的语调给人以温和的假象。
+mild amusement 几分喜悦 
+mild irritation 几分恼怒 
+mild surprise 几分吃惊
+a mild winter 温暖的冬天 
+a mild climate 温和的气候
+a mild flavour 淡淡的味道 
+mild cheese 淡味奶酪
+a look of mild confusion 些许困惑
+a mild punishment 轻微的责罚 
+a soap that is mild on the skin 对皮肤刺激性不强的肥皂 
+a mild drug 温和的药物 
+a mild form of the disease 病情轻微 
+The pain is comparatively mild at the moment. 这一刻疼痛比较轻微。
+
+n. [C] 只要扣动扳机就能持续发射子弹的枪支，如自动手枪或自动步枪:
+n. [C] [英] 自动变速汽车，自动换挡汽车:
+adj. 由于某种行为或情况而必然发生的，也可叫当然的:
+adj. 不需要思考就得到执行或发生的，即下意识的，不假思索的，相当于instinctive。且与unconscious也描述的是同样的情况，只是描述的角度不同而已:
+adj.（机器、装置等）自动的，无需人工操作的:
+automatic |[͵ɔ:tə'mætɪk]
+He drew his automatic and began running in the direction of the sounds. 他拔出自动枪，朝发出声音的方向跑去。
+A fine for this offence is automatic. 这种违法行为当然要罚款。
+Promotion was almost automatic after two or three years. 两三年后几乎是自动获得晋升。
+Breathing is an automatic function of the body. 呼吸是一种无意识的身体功能。
+My reaction was automatic. 我的反应是不由自主的。
+automatic doors 自动门 
+an automatic rifle 自动步枪 
+The machine is fully automatic. 这台机器是全自动的。
+
+n. [C] [正式] 物品（尤指整套物品中的一件）:
+n. [C]（报刊杂志上关于某个主题的）文章:
+n. [C]（协议、契约、合同等的）条款:
+n. [C] 冠词:
+article |['ɑːtɪkl]
+articles of clothing 衣物 
+all articles of value 所有值钱的东西 
+household, toilet article 家居用品；厕所用品 
+The finished article takes two months to manufacture. 制造这个成品耗时两个月。
+an article in Newsweek《新闻周刊》上的一篇文章 
+news article 新闻稿 
+review article 评论文章 
+academic, scholarly, scientific article 学术论文；学术文章；科技文章 
+peer-reviewed article 同行评议的文章 
+journal, magazine, newspaper article 期刊文章；杂志文章；报纸文章 
+online article 网上的文章 
+related article 相关文章 
+to contribute an article 投稿
+to violate an article of the convention 违反该公约中的一项条款 
+the key articles of the constitution 宪法的主要条款 
+The actions of the organization violate Article 12 of the treaty. 该组织的行为违反了条约第12款。
+Article 10 provides that all businesses must be registered correctly. 第10条规定所有企业必须依法登记注册。
+The judge ordered the child’s return home under Article 12 of the Convention. 法官根据公约第12款的规定下令将孩子送回家。
+The terms of Article 3 will be changed by the new government. 新政府将对第三款的规定进行修改。
+definite, indefinite article 定冠词；不定冠词
+
+n. 1 [C] link (between A and B)（两个或多个人或事物之间的）联系，关联，连接:
+link (with sth)（两个或多个人、国家或组织之间的）关系:
+link A and B (together) 常用被动式，（两个事物、事实或情况）相互联系，相关联:
+link A and B (together) 常用被动式，说明或认为（两个事物或两人之间）有联系（或关系），相当于associate:
+link A and B (together) 常用被动式，在两个物体、机器、地点等之间建立物理联系或电子联系，相当于connect:
+link A and B (together) 常用被动式，通过让一个事物穿过另一个事物而把两者联接在一起，如挽住胳膊:
+n. [C] 电子文档中的链接（通过该链接可进入另一个电子文档或链接所在的文档的另一部分）:
+link A and B (together) 常用被动式，在两个机器之间建立物理联系或电子联系。此时相当于connect，二者未见明显区别，常用度也相近:
+2 建立电子文档的链接:
+n. [C] 两人或两地之间的通讯手段:
+link A and B (together) 常用被动式，在两个机器、地点等之间建立物理联系或电子联系，相当于connect:
+n. [C] 链状物的一个环，引申为抽象的环节:
+n. [C] 两人或两地之间的交通路线。强调一种连接性:
+link A and B (together) 常用被动式，在两个地点之间建立物理联系:
+link |[lɪŋk]
+a link between the two murders 那两桩凶杀案之间的关联 
+the link between smoking and lung cancer 吸烟和肺癌之间的关系 
+The common link between the three artists is their age. 三位艺术家的共通之处是他们的年龄。
+historical link 历史渊源 
+causal link 因果关系 
+psychic, telepathic link 心灵感应 
+the city’s traditional link with opera 这座城市与歌剧的传统渊源 
+business（尤英）, economic, trade（尤英）link 生意关系；经济关系；贸易关系 
+diplomatic link（尤英）（英美常用diplomatic ties）外交关系 
+family, genetic link 家族联系；基因联系 
+She has severed her last links with her family. 她已经断绝了与家人的最后联系。 
+vt. 1 link A to/with B 
+Exposure to ultraviolet light is closely linked to skin cancer. 受紫外线照射与皮肤癌紧密相关。
+diseases that might be genetically linked 可能与基因有关联的疾病 
+The problems of the economy are intricately linked to other social issues. 经济问题与其他社会问题有着错综复杂的联系。
+to causally link 成因果关系 
+2 link A to/with B 
+They have linked the break-in to a similar crime in the area last year. 他们认为这起入室盗窃案与去年此地区一类似案件有关。
+Newspapers have linked his name with the singer. 报章报道把他的名字与那名歌手连在一起。
+He has linked the crime to social circumstances. 他认为这起罪案与社会环境有关。
+She has never been romantically linked with anyone. 她从未和任何人有过恋爱关系。
+Christmas will be forever linked to memories of Sam’s death. 圣诞节将永远与对萨姆死亡的记忆联系在一起。
+Scientists have linked the illness to the use of pesticides. 科学家已把这种疾病的发生与农药的使用联系起来。
+vt. link A to/with B 
+The video cameras are linked to a powerful computer. 这些摄像机是与一台功能强大的计算机相连接的。
+The computers are linked into a network. 这些计算机是联网的。
+The two spacecraft will link up in orbit. 两艘宇宙飞船将于轨道上对接。
+The Channel Tunnel links Britain with the rest of Europe. 英吉利海峡隧道把英国和欧洲其他国家连接起来了。
+the road that links Cairo with Alexandria 连接开罗和亚历山大的公路
+vt. link A to/with B 
+They linked arms as they strolled down the street. 他们挽着胳臂沿街漫步而行。
+Internet, text, Web, website link 互联网链接；文本链接；网络链接；网站链接 
+broken link 断开的链接 
+vt. 1 link A to/with B 
+The video cameras are linked to a powerful computer. 这些摄像机是与一台性能强大的计算机相连接的。
+The computers are linked into a network. 这些计算机是联网的。
+to use hypertext to link Internet documents 用超文本来链接互联网文档
+audio, video link 音频连接；视频连接 
+satellite, telephone link 卫星连接；电话连接 
+Internet, network link 互联网连接；网络连接 
+wireless link 无线连接 
+data, digital, email link 数据连接；数字连接；电子邮件连接 
+The driver has a radio link to base. 驾驶员通过无线电链路与总部联系。
+vt. link A to/with B 
+The video cameras are linked to a powerful computer. 这些摄像机是与一台功能强大的计算机相连接的。
+The computers are linked into a network. 这些计算机是联网的。 
+a chain of heavy gold links 一串沉重的金链环 
+The sales manager is regarded as the weakest link in the chain. 销售经理被认为是整个链条中最薄弱的环节。
+Social customs provide a vital link between generations. 社会风俗在代与代之间起到了极其重要的纽带作用。
+Social workers provide a vital link between hospital and community. 社会工作者是医院和社区之间重要的联系纽带。
+air（尤英）, rail, railway（英）, road（尤英）link 航空连接线；铁路连接线；公路连接线 
+a link road 连接道路 
+vt. link A to/with B 
+The Channel Tunnel links Britain with the rest of Europe. 英吉利海峡隧道把英国和欧洲其他国家连接起来了。
+
+n. [C] [正式] 人或国家之间的正式的协定、协议、契约、合约:
+adj. 紧紧压实在一起的:
+vt. [常用被动式] 把…压实或压紧:
+adj. 1 比同类事物小的，即小型的、袖珍的:
+2 空间狭小的、紧凑的、体积小的:
+3（人或动物）矮小而健壮的:
+n. [C] 女用的带镜子的小脂粉盒:
+n. [C] [美] 小汽车:
+compact |[kəmˈpækt;ˈkɒmpækt;美ˈkɑ:m-]
+a compact mass of earth 压得很结实的泥土
+The Smith boy was compacting the trash. 史密斯家的男孩在把垃圾压紧。
+The soil settles and is compacted by the winter rain. 土壤沉积下来，然后在冬雨的作用下变得坚实。
+a layer of compacted snow 压实的一层雪
+a compact camera 袖珍照相机 
+compact version 袖珍版 
+compact volume（书的）袖珍版 
+The kitchen was compact but well equipped. 这间厨房虽然空间小但设备齐全。
+my compact office in Washington 我在华盛顿小而紧凑的办公室 
+the new, more compact Czech government 更为精简的新捷克政府 
+He had a compact and muscular body. 他个子矮小健壮。
+He was compact, probably no taller than me. 他矮小壮实，可能并不比我高。
+He looked physically very powerful, athletic in a compact way. 他看上去非常强壮，像个敦实的运动员。
+
+prep. 用于强调某事的方面:
+prep. 关于、对于（某人或某事物），与某人或某事物有关:
+adj. be about to do sth 可指即将做某事、将要很快做某事:
+prep. 用于强调某事的目的:
+adv. [尤英] 不做特定的一件事，如闲着、无所事事:
+prep. 忙于某事；从事于某事:
+adv. [尤英] 没有一定的秩序；在各个地方。如凌乱地、四处、到处:
+prep. [尤英] 在一个地方的各个部分，如在…四处:
+prep. [文学] 围绕（某人或某事物）:
+adv. [尤英] 在各个方向上、到处、各处:
+prep. [尤英] 在一个地方的很多方向上，如在…各处、在…到处:
+adv. [尤英] 能够在某地被发现，如附近、周围:
+prep. [尤英] 在一个地方（或一个人）的附近；在某个被提到的区域:
+adv. [术语或正式]（交通工具等）掉转方向、掉头、向后转:
+adv. 1 比…多点或少点；比…早点或晚点。如大约、左右，相当于approximately:
+2 几乎，将近，非常接近:
+about |['əbaʊt]
+What was all that about? (= what was the reason for what has just happened?) 这到底是怎么回事？
+a book about flowers 一本关于花卉的书 
+Tell me all about it. 把这件事全部告诉我。
+There’s nothing you can do about it now. 现在你对此毫无办法。
+I was just about to ask you the same thing. 我刚才正要问你同一件事情。
+Movies are all about making money these days. 当今电影就只顾赚钱。
+People were standing about in the road. 人们在路上闲站着。
+Everywhere people were going about their daily business. 无论在哪里人们都在忙着干日常工作。
+And while you’re about it … (= while you’re doing that) 在你干这件事的同时，顺便…
+Her books were lying about on the floor. 她的书在地板上东一本西一本地放着。
+The papers were strewn about the room. 房间里四处乱扔着文件。
+She wore a shawl about her shoulders. 她披了一件披肩。
+The children were rushing about in the garden. 孩子们在花园里跑来跑去。
+We wandered about the town. 我们在城里到处游荡。
+He looked about the room. 他在房间里四下看了看。
+There was nobody about. 附近没有人。
+There’s a lot of flu about. 这一带流感肆虐。
+She’s somewhere about the office. 她在办公室附近。
+He brought the ship about. 他掉转船头。
+It costs about $10. 这大约要花10美元。
+about an hour 一小时左右 
+He arrived (at) about ten. 他是十点钟左右到的。
+I’m just about ready. 我就要准备好了。
+This is about the best we can hope for. 这差不多是我们所能希望的最好结果。
+
+n. [C] [美] 工会的地方分会:
+n. [C] [英，非正式] 住处附近的酒吧:
+adj. 常作前置定语，医学上可指（身体上）局部的:
+adj. 常作前置定语，与谈论的地方或你所居住的地方有关的，即当地的，本地的:
+adj. 常作前置定语，指（政府）地方的:
+n. [usually pl.] 当地人，本地人，当地居民:
+n. [C] [美]（沿线每站都停的）公共汽车:
+n. [C] [美]（沿线每站都停的）火车:
+local |['ləʊkl]['ləʊkl]
+local anaesthetic
+a local resident 当地居民 
+a local man 本地人 
+a local farmer 当地的农民 
+a local school 本地学校 
+local paper 本地报纸 
+local dialect 当地方言
+local government 地方政府
+to meet the locals 与当地人见面 
+The locals are very friendly. 当地居民非常友好。  
+
+n. [U] 氢元素；也可指氢气:
+hydrogen |['haɪdrədӡən]
+

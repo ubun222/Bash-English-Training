@@ -44,16 +44,16 @@ an emphasis on a particular note or chord:强调特定的音符或和弦
 a special or particular emphasis:a特别或特别强调
 a feature which gives a distinctive visual emphasis to something:一个给某物一个独特的视觉强调的特征
 emphasize (a particular feature):emphasize（一个特殊的功能）
-play (a note or beat) with emphasis:play（一个音符或节拍）强调
+play (a note or beat) with emphasis:重点演奏（音符或节拍）
 accent |ˈaks(ə)nt| Noun/Verb/:,强调,重音,重点
 a strong American accent:浓重的美国口音
 the accent falls on the middle syllable:重音落在中间音节上
 a circumflex accent:抑扬顿挫
-short fortissimo accents:shortfortissimo重音
+short fortissimo accents:短的强音
 the accent is on participation:重点在于参与
-blue woodwork and accents of red:blue木制品和红色的口音
-fabrics which accent the background colours in the room:fabrics强调房间的背景颜色
-the quick tempo means there is less scope for accenting offbeat notes:thequicktempo意味着对另类音符进行重音的空间较小
+blue woodwork and accents of red:蓝色木制品和红色调
+fabrics which accent the background colours in the room:强调房间背景颜色的面料
+the quick tempo means there is less scope for accenting offbeat notes:快速的节奏意味着强调另类音符的空间更小
 
 a container used to hold or carry things, typically made from interwoven strips of cane or wire:一个用来装或搬运东西的容器，通常由藤条或金属丝交织而成
 a facility on a website that records items selected by a customer for purchase until the transaction is completed:网站上的设施，用于记录客户选择购买的商品，直到交易完成
@@ -72,19 +72,19 @@ cut the hair off (a part of the body) with a razor:用剃须刀将头发（身�
 cut the hair off the face or another part of the body of (someone) with a razor:用剃刀将（某人）脸部或身体其他部位的头发剪掉
 cut (hair) off with a razor:用剃刀剃掉（头发）
 cut (a thin slice or slices) from the surface of something:cut（薄片或薄片）从某物的表面
-take (a small amount) from something:take（少量）某物
-reduce by a small amount:reduce少量
-pass or send something close to (something else), missing it narrowly:pass或发送接近（其他）的东西，差点错过
+take (a small amount) from something:从某物中取（少量）
+reduce by a small amount:少量减少
+pass or send something close to (something else), missing it narrowly:通过或发送靠近（其他东西）的东西，狭窄地错过它
 an act of shaving hair from the face or a part of the body:从脸上或身体的一部分剃掉头发的行为
 shave |ʃeɪv| Noun/Verb/:刮胡子,剃,刮,剃须
 he washed, shaved, and had breakfast:他洗脸、刮胡子、吃早餐
 she shaved her legs:她剃了腿毛
-the barber shaves customers with a traditional cut-throat razor:thebarber用传统的剃须刀为顾客剃须
+the barber shaves customers with a traditional cut-throat razor:理发师用传统的割喉剃刀为顾客刮胡子
 professional male swimmers shave off their body hair:职业男游泳运动员剃掉身上的毛发
 scrape a large sharp knife across the surface, shaving off rolls of very fine chocolate:在表面刮一把锋利的大刀，刮掉非常细的巧克力卷
-she shaved 0.5 seconds off the British junior record:she比英国少年纪录缩短了0.5秒
+she shaved 0.5 seconds off the British junior record:她比英国少年纪录缩短了0.5秒
 they shaved profit margins:他们削减了利润率
-Scott shaved the post in the 29th minute:Scott在第29分钟铲倒立柱
+Scott shaved the post in the 29th minute:第29分钟，斯科特将立柱铲平
 you need a shave:你需要刮胡子
 
 a narrow shave | 刮胡子,窄剃须
@@ -106,7 +106,7 @@ outer |ˈaʊtə| Adjective/Noun/:,外层
 the outer layer of the skin:外层皮肤
 the outer city bypass:外城绕道
 Outer Mongolia:外蒙古
-boots with stiff leather outers:boots硬皮外层
+boots with stiff leather outers:硬皮外层靴子
 
 a brief record of points or ideas written down as an aid to memory:简短记录点或想法，以帮助记忆
 a short comment on or explanation of a word or passage in a book or article, an annotation:对书籍或文章中的单词或段落的简短评论或解释，注释
@@ -121,9 +121,9 @@ a key of a piano or similar instrument:钢琴或类似乐器的琴键
 a bird's song or call, or a single tone in this:鸟儿的歌声或呼唤，或在此的单音
 a particular quality or tone that reflects or expresses a mood or attitude:反映或表达情绪或态度的特定品质或语气
 any of the basic components of a fragrance or flavour:任何香精或香精的基本成分
-notice or pay particular attention to (something):notice或特别注意（某事）
-remark upon (something) in order to draw attention to it:remarkon(something)以引起人们对它的注意
-record (something) in writing:record（某事）书面
+notice or pay particular attention to (something):注意或特别注意（某事）
+remark upon (something) in order to draw attention to it:评论（某事）以引起注意
+record (something) in writing:以书面形式记录（某事）
 note |nəʊt| Noun/Verb/:笔记,注意,注,注释,备注
 I'll make a note in my diary:我会在我的日记里做个笔记
 see note iv above:见上文注四
@@ -133,7 +133,7 @@ the Secretariat sent a diplomatic note to the embassy protesting about the sale 
 a ten-pound note:一张十英镑的钞票
 a credit note:一张贷方票据
 the last notes of the symphony died away:交响乐的最后一个音符消失了
-black notes:black笔记
+black notes:黑色音符
 the tawny owl has a harsh flight note:茶色猫头鹰的飞行笔记很刺耳
 there was a note of scorn in her voice:她的声音里有一丝轻蔑
 the fresh note of bergamot:新鲜的佛手柑
@@ -163,7 +163,7 @@ pull (someone or something) along forcefully, roughly, or with difficulty:拉（
 take (someone) to or from a place or event, despite their reluctance:带（某人）去或离开一个地方或事件，尽管他们不情愿
 go somewhere wearily, reluctantly, or with difficulty:疲倦地、不情愿地或困难地去某个地方
 (of a person's clothes or an animal's tail) trail along the ground:（人的衣服或动物的尾巴）沿着地面的轨迹
-catch hold of and pull (something):catch抓住并拉动（某物）
+catch hold of and pull (something):抓住并拉动（某物）
 (of a ship) trail (an anchor) along the seabed, drifting in the process:（船的）沿着海床的轨迹（锚），在过程中漂流
 (of an anchor) fail to hold, causing a ship or boat to drift:(锚的)没有抓住，导致船或船漂流
 search the bottom of (a river, lake, or the sea) with grapnels or nets:用抓钩或网搜索（河流、湖泊或大海）的底部
@@ -193,16 +193,16 @@ we dragged the boat up the beach:我们把船拖到海滩上
 my girlfriend is dragging me off to Rhodes for a week:我的女朋友要拖我去罗兹一个星期
 I have to drag myself out of bed each day:我每天都得把自己拖下床
 the nuns walked in meditation, their habits dragging on the grassy verge:修女们在冥想中行走，她们的习惯拖在草地边缘
-desperately, Jinny dragged at his arm:拼命地，Jinny拽着他的胳膊
+desperately, Jinny dragged at his arm:珍妮绝望地拽着他的胳膊
 the coaster was dragging her anchor in St Ives Bay:过山车在圣艾夫斯湾拖着她的锚
 his anchor had dragged and he found himself sailing out to sea:他的锚被拖了，他发现自己要出海了
-frogmen had dragged the local river:frogmen拖了当地的河流
+frogmen had dragged the local river:蛙人拖了当地的河
 the day dragged—eventually it was time for bed:这一天被拖了——终于该睡觉了
 you can move the icons into this group by dragging them in with the mouse:你可以用鼠标把图标拖进这个组
 they were caught dragging on Francis Lewis Blvd:他们在弗朗西斯·刘易斯大道上被抓
 the drag of the current:当前的拖拽
 the coating reduces aerodynamic drag:涂层减少空气阻力
-Larry was turning out to be a drag on her career:Larry原来是她职业生涯的拖累
+Larry was turning out to be a drag on her career:事实证明，拉里拖累了她的职业生涯
 working nine to five can be a drag:朝九晚五工作可能会很累
 he took a long drag on his cigarette:他抽了很长时间的烟
 a fashion show, complete with men in drag:a时装秀，男装扮靓
@@ -216,18 +216,18 @@ the main drag | 主要阻力,主要拖累
 
 
 
-come or bring together for a common purpose or action:come或为了共同的目的或行动而聚集在一起
+come or bring together for a common purpose or action:为了共同的目的或行动而聚在一起
 come or bring together to form a whole:来或聚在一起形成一个整体
 join in marriage:结婚
 unite |juːˈnʌɪt| Verb/:团结,联合,团结起来
-Lady Midlothian united herself to a man of bad character:LadyMidlothian将自己与一个品格不好的人联合起来
+Lady Midlothian united herself to a man of bad character:米德洛锡安夫人与一个性格恶劣的人结盟
 
 Spain |speɪn| Noun/:西班牙,美国
 
 a group of numbers or letters and numbers which are added to a postal address to assist the sorting of mail:一组数字或字母和数字，添加到邮政地址以协助邮件的分类
 an area denoted by a particular postcode:由特定邮政编码表示的区域
 postcode |ˈpəʊs(t)kəʊd| Noun/:邮政编码,邮箱
-buoyant house prices in the capital's smarter postcodes are attributed to city bonuses:buoyant首都更智能邮政编码的房价归功于城市奖金
+buoyant house prices in the capital's smarter postcodes are attributed to city bonuses:首都更聪明的邮政编码地区的房价上涨归因于城市奖金
 
 feeling or showing confidence in oneself or one's abilities or qualities:感觉或表现出对自己或自己的能力或品质的信心
 feeling or showing certainty about something:感觉或表现出对某事的确定性
@@ -270,7 +270,7 @@ a drug or other preparation for the treatment or prevention of disease:治疗或
 medicine |ˈmɛd(ɪ)s(ɪ)n| Noun/:药物,药品,医学,医药,药
 he made distinguished contributions to pathology and medicine:他对病理学和医学做出了杰出贡献
 give her some medicine:给她一些药
-Fleur was murdering him by use of bad medicine:Fleur用坏药谋杀了他
+Fleur was murdering him by use of bad medicine:芙蓉用劣药谋杀了他
 
 set |sɛt| Adjective/Noun/Verb/:药物,药品,医学,医药,药
 
@@ -285,9 +285,9 @@ a device for separating and dressing textile fibres.:一种用于分离和整理
 the lower, fixed cutting piece of a sheep-shearing machine.:剪羊毛机的下部固定切割片。
 a row of brass points for collecting the electricity in an electrostatic generator.:一排黄铜点，用于在静电发生器中收集电力。
 the red fleshy crest on the head of a domestic fowl, especially a cock:家禽，尤其是公鸡头上的红色肉冠
-untangle or arrange (the hair) by drawing a comb through it:untangle或用梳子梳理（头发）
+untangle or arrange (the hair) by drawing a comb through it:用梳子梳理（头发）
 remove something in the hair by drawing a comb through it:用梳子梳理头发，去除头发上的东西
-prepare (wool, flax, or cotton) for manufacture with a comb:prepare（羊毛、亚麻或棉花）用梳子制造
+prepare (wool, flax, or cotton) for manufacture with a comb:用梳子准备（羊毛、亚麻或棉花）制造
 search carefully and systematically:仔细而系统地搜索
 comb |kəʊm| Noun/Verb/:梳子,梳理,梳
 she gave her hair a comb:她给她的头发梳子
@@ -296,7 +296,7 @@ a grey-speckled hen with a red comb and wattles:一只带红色梳子和荆棘�
 she combed her hair and put some lipstick on:她梳理头发，涂上口红
 she combed the burrs out of the dog's coat:她梳理了狗外套上的毛刺
 the wool had been cleaned and combed:羊毛已经清洗和梳理
-police combed the area for the murder weapon:police搜查凶器
+police combed the area for the murder weapon:警方在该地区搜寻凶器
 
 the exchange of a commodity for money, the action of selling something:以商品换钱，卖东西的动作
 a quantity or amount sold:a数量或销售量
@@ -308,7 +308,7 @@ we withdrew it from sale:我们将其从销售中撤回
 price cuts failed to boost sales:降价未能促进销售
 director of sales and marketing:销售和营销总监
 the January sales got under way this week:本周一月份的促销活动开始了
-a bric-a-brac sale will be held at St Cuthbert's Church Centre:abric-a-brac销售将在StCuthbert'sChurchCenter举行
+a bric-a-brac sale will be held at St Cuthbert's Church Centre:圣卡斯伯特教堂中心将举行小古董拍卖会
 
 the action of coming to live permanently in a foreign country:在外国永久居住的行为
 the place at an airport or country's border where government officials check the documents of people entering that country:机场或国家边境的政府官员检查进入该国的人的文件的地方
@@ -331,7 +331,7 @@ process |ˈprəʊsɛs| Noun/Verb/:过程,加工,处理,进程,工艺
 military operations could jeopardize the peace process:军事行动可能危及和平进程
 the ageing process:老化过程
 the manufacturing process is relatively simple:制造过程比较简单
-process inks:process油墨
+process inks:印刷油墨
 the salmon is quickly processed after harvest to preserve the flavour:鲑鱼在收获后迅速加工以保持风味
 the immigration authorities who processed him:处理他的移民当局
 they processed down the aisle:他们沿着过道处理
@@ -341,7 +341,7 @@ the compass point corresponding to east.:东方对应的罗盘点。
 the eastern part of the world or of a specified country, region, or town:世界东部或指定国家、地区或城镇
 the regions or countries lying to the east of Europe, especially China, Japan, and India:位于欧洲东部的地区或国家，尤其是中国、日本和印度
 the former communist states of eastern Europe:东欧前共产主义国家
-the player sitting to the left of North and partnering West:坐在North左边和West搭档的玩家
+the player sitting to the left of North and partnering West:坐在 North 左边并与 West 搭档的玩家
 lying towards, near, or facing the east:朝向、靠近或面向东方
 (of a wind) blowing from the east:（风）从东方吹来
 situated in the part of a church containing the altar or high altar, usually the actual east:位于包含祭坛或高坛的教堂部分，通常是实际的东方
@@ -369,7 +369,7 @@ hurry |ˈhʌri| Noun/Verb/:匆忙,赶快,快点,赶紧的
 we'd better hurry:我们最好快点
 hurry up and finish your meal:快点吃完饭
 she hurried him across the landing:她催他穿过楼梯平台
-formalities were hurried over:formalities匆匆过去
+formalities were hurried over:手续匆忙办完
 in my hurry to leave I knocked over a pile of books:我匆匆离开的时候打翻了一堆书
 there's no hurry to get back:不急着回来
 
@@ -386,7 +386,7 @@ how was your holiday?:你的假期过得怎么样？
 how are the children?:孩子们好吗？
 how old are you?:你几岁？
 how kind it was of him:他对他有多好
-she told us how she had lived out of a suitcase for a week:she告诉我们她是如何在一个手提箱中度过一个星期的
+she told us how she had lived out of a suitcase for a week:她告诉我们她是如何在一个手提箱中度过一个星期的
 I'll do business how I like:我会按照我喜欢的方式做生意
 
 and how | 如何,以及如何,以及怎么做
@@ -432,10 +432,10 @@ a period of time spent practising an activity or skill:一段时间用于练习�
 practice |ˈpraktɪs| Noun/Verb/:实践,练习,做法
 the principles and practice of teaching:教学原则与实践
 he abandoned medical practice for the Church:他放弃了教会的医疗实践
-Dr Apps has a practice in Neasham Road:DrApps在尼沙姆路有一个诊所
+Dr Apps has a practice in Neasham Road:Apps 博士在 Neasham Road 有诊所
 product placement is common practice in American movies:产品植入是美国电影中的常见做法
 it must have taken a lot of practice to become so fluent:它必须经过大量练习才能变得如此流利
-daily choir practices:daily合唱团练习
+daily choir practices:每日合唱团练习
 
 consistently good in quality or performance, able to be trusted:质量或性能始终如一，值得信赖
 a reliable person or thing:可靠的人或事
@@ -459,7 +459,7 @@ evenings | 晚上,夜晚
 
 
 
-distribute (resources or duties) for a particular purpose:distribute（资源或职责）用于特定目的
+distribute (resources or duties) for a particular purpose:为特定目的分配（资源或职责）
 allocate |ˈaləkeɪt| Verb/:分配,拨
 in past years we didn't allocate enough funds to infrastructure maintenance:在过去几年中，我们没有为基础设施维护分配足够的资金
 
@@ -473,17 +473,17 @@ the process of starting to be affected by an ailment or feeling:开始受到疾�
 the process of treating photographic film with chemicals to make a visible image:用化学品处理胶卷以形成可见图像的过程
 the process of bringing one's pieces into play in the opening phase of a game:在游戏开始阶段将自己的棋子发挥作用的过程
 development |dɪˈvɛləpm(ə)nt| Noun/:,开发
-she traces the development of the novel:she追溯小说的发展
+she traces the development of the novel:她追溯小说的发展
 the wings attain their full development several hours after birth:翅膀在出生数小时后得到充分发育
 the latest developments in information technology:最新资讯科技发展
 I don't think there have been any new developments since yesterday:我认为从昨天开始没有任何新的进展
 land suitable for development:适合发展的土地
 a major housing development in Essex:埃塞克斯的主要住宅开发项目
 the development of brittle bones:脆骨的发育
-agitation is carried out while a film is processed to ensure even development:agitation在处理胶片时进行，以确保均匀显影
+agitation is carried out while a film is processed to ensure even development:在处理胶片时进行搅拌以确保均匀显影
 I sought to take advantage of Black's defective development:我试图利用布莱克的缺陷发展
 
 a distinct section of a piece of writing, usually dealing with a single theme and indicated by a new line, indentation, or numbering:一篇文章的不同部分，通常处理一个主题，并由换行、缩进或编号表示
-arrange (a piece of writing) in paragraphs:arrange（一篇文章）在段落中
+arrange (a piece of writing) in paragraphs:将（一篇文章）分成段落
 paragraph |ˈparəɡrɑːf| Noun/Verb/:段落,段,款,第一段
 the concluding paragraph:最后一段

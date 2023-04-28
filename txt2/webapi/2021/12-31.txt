@@ -1,0 +1,882 @@
+native						出生的，当地的，本地人
+county						郡，县
+Ireland						爱尔兰
+meant						意味着，打算，注定
+honour						正义感，荣誉，荣幸，崇敬
+contribution					作用，贡献，捐助
+humanity						人类，人道
+horrific						令人恐惧的
+famine						饥荒
+humanitarian					人道主义
+aid							帮助，救助
+pour							倒出，倾注，蜂拥而来
+stand out						显眼，突出
+starving						挨饿的
+equivalent						相等物，相等的
+remarkably						非同寻常的
+ancestral						祖先的
+march							齐步走，使行进，进展
+designate						命名，指派
+forcibly						强行的
+extortion						敲诈勒索
+violence						暴力，猛烈
+frontiersman					边疆居民
+ultimately						最终，根本上
+a fourth						四分之一
+trail							小径，痕迹，垂下，落后，追踪
+delegation						委托，代表团
+attendance						出席人数，就诊
+monument						纪念馆，典范，遗迹
+feature						特征，方面，以...为特色，占据重要位置
+stainless						无污点的，洁白的
+steel							钢，坚定
+stainless-steel					不锈钢
+shape							形状，状态，特征，使...成形
+bowl							碗，木球，使滚动
+sculpture						雕塑
+assistance						帮助
+tribute						致敬，体现，贡品
+tribe							部落
+alleviate						减轻
+demonstration					示范操作，表达
+empathy						同感
+inspire						鼓舞
+\\\\\\\\
+
+adj. 只用于名词前，（某人）与生俱来的，非后天习得的，相当于innate:
+n. [C] 原产于某地的（或称本地的）动物或植物:
+adj. 1 只作前置定语，与出生（和儿时居住）的地方有关的，即出生地的，儿时居住地的:
+2 只作前置定语，与某人一直或长期居住的地方有关的，即本地的，当地的:
+3 只作前置定语，有时具有冒犯性，指与某国的土著人（尤指白人到来之前或非西方国家的土著人）相关的，即土著的；土著人的:
+n. 1 [C] 出生于某国（或某一地区）的人:
+2 [C] 居住在某一地方的人（尤指长期居住在该地的人），即本地人，当地人，此时在语义上相当于local，但要注意local常用复数:
+3 [C] [旧时，冒犯] 旧时欧洲人用以称呼先于白人居住在某地的人（或一些欧洲人对非西方国家的某个部族之成员的称呼），即土著:
+adj. native (to ...)（动物和植物）天然存在于某地的，即原产于某地的:
+adj. 母语的，第一语言的:
+native |['neɪtɪv]['neɪtɪv]
+native cunning 与生俱来的狡猾
+The kangaroo is a native of Australia. 袋鼠是产于澳大利亚的动物。
+native land, native country, native city 故乡；祖国；故里 
+to visit my native China 回到我的故乡中国 
+native Berliners 土生土长的柏林人 
+a native Northern Californian 土生土长的北加州人 
+native art 土著艺术 
+native people 土著人
+Dr. Aubin is a native of St. Louis. 奥宾医生是圣路易斯人。
+You can always tell the difference between the tourists and the natives. 游客与当地人之间的区别一望便知。
+She speaks Italian like a native. 她的意大利语说得和意大利人一样。
+disputes between early settlers and natives 早期移民和土著之间的纷争 
+They used force to banish the natives from the more fertile land. 他们用武力将土著人驱逐出更加肥沃的土地。
+native species 当地的物种 
+the native plants of America 美国的土生植物 
+native pines 土生松树 
+The tiger is native to India. 这种虎产于印度。
+native language 母语
+
+n. [C]（缩写为Co.）（英国、爱尔兰的）郡；（美国的）县:
+adj. [英，常含贬义] 典型英国上流社会人物的:
+county |[ˈkaʊnti]
+Orange County 奥兰治县 
+He is living now in his mother's home county of Oxfordshire. 他现在居住在他母亲的故乡牛津郡。
+Over 50 events are planned throughout the county. 全县共筹划了50多次活动。
+border（尤英）, coastal, metropolitan, rural, urban（美）county 边境地区的郡；沿海的县；都市郡；乡村郡县；城市郡县 
+the Welsh border counties 威尔士边境地区的郡 
+eastern county 东部郡县 
+historic county（尤英）历史上的郡 
+home county 家乡所在县；伦敦周围的郡 
+He returned to his home county in North Carolina. 他回到了北卡罗来纳州的家乡所在县。
+London and the home counties (= the counties around London）伦敦及周围各郡 
+native county（英）故乡所在郡 
+He was elected MP for his native county of Merioneth. 他获选为故乡梅里奥尼思郡的下院议员。
+London and its surrounding counties 伦敦及周边各郡 
+She represents the county in Parliament.（英）她在议会里代表这个郡。
+The river forms the county boundary. 这条河构成郡的边界。
+county resident（美）县的居民 
+county seat（美）, county town（英）（= where the local government is based）县城；郡首府 
+the town of Sierra Blanca，the county seat of Hudspeth County, Texas 得克萨斯州哈得斯佩思县的县城，谢拉布兰卡镇 
+Trowbridge is the county town of Wiltshire. 特罗布里奇是威尔特郡的首府。
+county commission（美）, county council, county department（美）, county government（尤美）县委员会；郡政务委员会；县政府部门；县政府 
+Fairfax County Department of Family Services 费尔法克斯县家庭服务部 
+county attorney, county clerk, county coroner, county judge, county official, county prosecutor, county sheriff（均美）郡县的律师；郡县的职员；郡县的验尸官；郡县的法官；郡县的官员；郡县的检察官；郡县的治安官 
+county chairman（尤美）, county councillor（尤英）, county executive（尤美）县主席；郡政务委员；县行政执行官 
+county court, county courthouse（美）, county jail（美）郡法院；县法院大楼；县监狱 
+county hospital, county library, county school 郡县的医院；郡县的图书馆；郡县的学校 
+county cricket（英）郡际板球赛 
+county championship, county match(= in cricket)县锦标赛；郡际板球赛 
+people who live in this county 这个郡的居民
+
+an island of the British Isles, lying west of Great Britain. Approximately four fifths of the area of Ireland forms the Republic of Ireland, with the remaining one fifth forming Northern Ireland.:不列颠群岛的一个岛屿，位于英国西部。大约五分之四的爱尔兰组成了爱尔兰共和国，剩下的五分之一组成了北爱尔兰。
+Ireland |ˈʌɪələnd| Noun/:爱尔兰,冰岛
+
+
+meant | 意思是,意味着
+
+n. [pl.] honours或honors可表示优异成绩:
+n. 1 [U] 好的名声或名誉，或来自他人的尊敬，即荣誉（可以因为某人完成了某件重要的事，但原因也不限于此）:
+2 [sing.] honour to sth/sb 引起他人尊敬的人或事物:
+3 [C] 为表彰某人而向其颁发的奖项、正式（或官方）头衔等:
+vt. honour sb/sth (with sth) (for sth) 为某人的事迹或成就等而给予其公开表彰（或给予奖励、头衔、称号）:
+vt. 执行计划安排或履行诺言:
+n. [U] 道义，气节，正义感，即行为符合自己心中的道德原则:
+n. [C] 常用复数，在纸牌游戏中可表示拥有最大点数的一些牌:
+n. 1 [U] 对某人极大的尊敬、崇敬、敬意:
+2 [sing.] 正式用法，表示荣幸，光荣。与privilege有时可互换:
+3 [C] His/Her/Your Honour用于表示对法官或美国市长的敬称，即法官大人，（美国）市长阁下:
+vt. 1 honour sb (with sth) 待某人以尊敬或尊重:
+2 用被动式，be/feel honoured (to do sth) 或 be/feel honoured by sth 表示感到荣幸:
+n. [pl.] honours或honors常用作形容词，表示美国学校的优等班:
+n. [pl.] honours或honors常用作形容词，表示大学的荣誉学位课程:
+honour |['ɒnə]（美honor）
+She holds an MBA with honours from the University of California, Los Angeles. 她以优异的成绩取得了加利福尼亚大学洛杉矶分校的工商管理学硕士文凭。
+He passed with second-class honours. 他以二级优等成绩通过了考试。
+family, national, personal honour 家族荣誉；国家的荣誉；个人荣誉 
+to defend the honour of her profession 维护她所属行业的声誉 
+She brought honour to her country. 她为祖国增了光。
+a matter of honour 关乎名誉的事情 
+a sense of honour 荣誉感 
+a roll of honour（英）（美用honor roll）荣誉名册 
+She is an honour to the profession. 她是这一行业的光荣。
+television’s highest honour 电视界的最高奖项 
+academic, battle, civilian, political honour 学业优异（奖）；战斗勋章；平民荣誉；政治头衔 
+He was buried with full military honours. 他以隆重的军礼下葬。
+He has been honoured with a knighthood for his scientific work. 他因科研成就而获授爵士头衔。
+to honour a contract 履行合约 
+to honour a cheque 承兑支票
+a man of honour 品德高尚的人 
+a man without honour 小人 
+a matter of honour 道义上的事 
+honour code, honour system 品行准则；（考试无监考、监狱无看守等的）信誉制度
+the guest of honour 贵宾 
+the seat of honour 贵宾席 
+They organized a party in his honour. 他们专门为他组织了一场聚会。
+a guard of honour（尤英）仪仗队 
+They stood in silence as a mark of honour to the drowned sailors. 他们默默伫立，向罹难的海员致敬。
+It was a great honour to be invited here today. 今日承蒙邀请至此，深感荣幸。
+Will you do me the honour of dining with me? 您能否赏光与我吃顿便饭？
+No more questions, Your Honour. 没有其他问题了，法官大人。
+The President honoured us with a personal visit. 总统亲临，使我们感到荣幸。
+our honoured guests 我们的贵宾 
+I’m honoured to present this speech. 我很荣幸能够发表本次讲话。
+first-class honours（英）一级荣誉学位 
+honours degree 荣誉学位 
+honours graduate 荣誉学位课程毕业生 
+She earned a bachelor’s degree with honours in English. 她获得了英语学士荣誉学位。
+
+contribution [toward(s) sth/doing sth] 一部书、一本杂志、一个广播节目、一次讨论等的一部分:
+contribution [toward(s) sth/doing sth] 促成引起某事物或促成增加某事物的一种行动或作用，即贡献、促成作用:
+n. [C] 为一本书或一本杂志所撰写的“稿件”。 强调稿件的供应:
+n. 1 [C] 向一个人或一家机构所捐赠的一笔钱（以资助某事），相当于donation:
+2 [C] 你定期向你的雇主或政府所缴纳的一笔钱（以得到医疗保险、养老金等益处）:
+3 [U] 为帮助一个人或一个组织机构，向其进行的捐赠（尤指钱款的捐赠）:
+n. [C] 一部书、一本杂志等的一部分，如“稿件”:
+contribution |[toward(s)sth/doingsth]一部书、一本杂志、一个广播节目、一次讨论等的一部分:[toward(s)sth/doingsth]促成引起某事物或促成增加某事物的一种行动或作用，即贡献、促成作用:[͵kɒntrɪ'bju:ʃn]
+Each of these writers has made an individual contribution to the discussion. 这些作家在这场讨论中个个都发了言。
+All contributions for the May issue must be received by Friday. 所有要在五月这一期发表的稿件必须在星期五以前寄到。
+He made a very positive contribution to the success of the project. 他对项目的成功贡献良多。
+The author acknowledges the contributions of scientist Charles Green. 作者对科学家查尔斯·格林的贡献表示感谢。
+the car’s contribution to the greenhouse effect 汽车对加剧温室效应所起的作用 
+Researchers have argued over the relative contributions of nature and nurture to the human personality. 遗传与后天培养对人性格的影响孰大孰小，研究者们看法不一。
+All contributions for the May issue must be received by Friday. 所有要在五月这一期发表的稿件必须在星期五以前寄到。
+to make a substantial contribution to charity 给慈善事业的一笔大额捐款 
+All contributions will be gratefully received. 我们对所有捐资表示感谢。
+We were asked to make a contribution towards the cost of the meal.（英）我们被要求为饭费出一点儿钱。
+insurance, pension contribution 保险金的定期缴款；养老金的定期缴款 
+Residents made a net contribution to public finances of $2.6 billion. 居民们对公共财政的净贡献额为26亿美元。
+We rely entirely on voluntary contribution. 我们全靠自愿捐赠。
+All contributions for the May issue must be received by Friday. 所有要在五月这一期发表的稿件必须在星期五以前寄到。
+
+n. [U] 人道；仁慈:
+n. 1 [U]（统称）人；人类:
+2 [U] 人（而非神、非动物、非机器、非物体）:
+n. [pl.] (the) humanities可指人文学科（如历史、哲学、文学等）:
+humanity |[hju:ˈmænəti]
+The judge was praised for his courage and humanity. 法官的勇气和人道受到称赞。
+a man who's almost lost his humanity in his bitter hatred of his rivals 因痛恨竞争对手而几乎丧失人性的男子 
+Guilt and a sense of common humanity make people less harsh. 内疚感和人类的博爱使得人们少了几分严酷。
+They face charges of committing crimes against humanity. 他们被控犯有反人类罪。
+a young lawyer full of illusions and love of humanity 满脑子幻想并且博爱的年轻律师 
+The story was used to emphasize the humanity of Jesus. 人们用这个故事来强调耶稣人性的一面。
+united by a sense of common humanity 因一种同是人的情感而团结在一起 
+a man who's almost lost his humanity in his bitter hatred of his rivals 因痛恨竞争对手而几乎丧失人性的男子
+students majoring in the humanities 主修人文学科的学生
+
+adj.（攻击、事故、伤势等）令人震惊的:
+adj.（攻击、事故、伤势等）极其可怕的:
+adj.（事故、伤势等）十分严重的:
+adj. [非正式] 极差的；很不愉快的:
+horrific |[həˈrɪfɪk]
+a horrific murder, horrific accident, horrific attack 骇人听闻的谋杀；骇人听闻的事故；骇人听闻的攻击 
+The slaughter was horrific. 屠杀令人震惊。
+Some of the scenes we witnessed were quite horrific. 我们亲眼目睹的场面之中有些令人毛骨悚然。
+Her injuries were horrific. 她的伤势极为严重。
+We had a horrific trip. 我们的旅行糟糕透顶。
+piling up horrific extra amounts of money on top of your original debt 在你原来债务的基础上又高筑债台
+
+n. [C, U] 一个地区的很多人的长期饥荒（很多人被饿死）:
+famine |[ˈfæmɪn]
+a severe famine 严重饥荒 
+disasters such as floods and famine 水灾和饥荒这一类灾难 
+the threat of widespread famine in the area 这一地区内的大范围的饥荒威胁 
+to raise money for famine relief 为赈济饥荒筹款 
+Thousands of refugees are trapped by war, drought and famine. 成千上万的难民陷于战争、旱灾和饥荒之中。
+The civil war is obstructing distribution of famine relief by aid agencies. 内战阻碍着救援机构对饥荒赈济物资的配给。
+Four million people are now facing famine. 四百万人正面临饥荒。
+countries that regularly suffer famines 经常遭受饥荒的国家 
+When famine strikes, it is often women and children who suffer the most. 发生饥荒时，受害最深的往往是妇女和儿童。
+famine victim 饥荒灾民 
+Thousands of people died during the terrible famine of that year. 数以千计的人在那年的可怕饥荒中丧命。
+
+adj. [常用于名词前] 人道主义的、博爱的:
+humanitarian |[hju:ˌmænɪˈteəriən;美-ˈter-]
+to provide humanitarian aid to the war zone 给战区提供人道主义援助 
+humanitarian issues 人道主义问题 
+a humanitarian organization 慈善机构 
+They are calling for the release of the hostages on humanitarian grounds. 他们站在人道主义立场要求释放人质。
+The expulsion of thousands of people represents a humanitarian catastrophe of enormous proportions. 驱逐成千上万人意味着人道主义的巨大灾难。
+Both countries say their intervention is purely humanitarian. 两国均声称他们的干预完全是出于人道主义目的。
+
+aid sb (with sth) 帮助某人或某事物去做某事（尤指通过使此事更容易），相当于assist，不过不如assist常用:
+n. 1 [U] 送给处于困境中的国家（以帮助其摆脱困境）的资金、食物等，可称为援助物资:
+2 [U]（执行某项任务所需要的）帮助:
+3 [U] [正式]（给予某人的）帮助:
+n. [C]（自己所使用的）用于帮助自己做某事的一件物品、一台机器等:
+n. [C]（自己所使用的）用于帮助自己做某事的一件物品、一台机器等:
+aid |[eɪd][eɪd]
+The new test should aid in the early detection of the disease. 新的检测手段应该有助于早早检查出这种疾病。
+This feature is designed to aid inexperienced users. 这个特色是为帮助没有经验的用户而设计的。
+They were accused of aiding his escape. 他们被控帮助他逃跑。
+Aided by strong winds, the fire quickly spread. 借助大风，火势迅速蔓延。
+emergency aid 紧急援助 
+humanitarian aid 人道主义援助 
+economic, legal, medical, military, relief aid 经济援助；法律援助；医疗援助；军事援助；救济 
+government aid 政府救济 
+international aid 国际援助 
+aid agency 救援机构 
+aid budget 救援预算 
+aid package 整套援助计划 
+He was breathing only with the aid of a ventilator. 他只有靠呼吸器呼吸。
+This job would be impossible without the aid of a computer. 这项工作不用计算机是不行的。
+One of the staff saw he was in difficulty and came to his aid. 一名工作人员见他有困难，便过来帮忙。
+She screamed loudly and two people came to her aid. 她大声尖叫，有两个人赶来帮忙。
+We were collecting money in aid of charity. 我们在为慈善事业筹集善款。
+She is now able to get around with the aid of a walking stick. 她现在能拄着拐杖走路了。
+teaching, training, memory aid 教具；训练辅助器械；记忆辅助设备 
+hearing, walking（英）, navigational aid 助听器；行走辅助器械；导航设备 
+Dictionaries are essential aids to learning. 词典是辅助学习的必备工具。
+teaching, training, memory aid 教具；训练辅助器械；记忆辅助设备 
+hearing, walking（英）, navigational aid 助听器；行走辅助器械；导航设备 
+Dictionaries are essential aids to learning. 词典是辅助学习的必备工具。
+
+vi.（光）以一股的形式持续而快速地流动，如倾泻等。不常用:
+vi. 大量而持续地来到（或去向）某处，相当于flood:
+vt.＆vi. pour (sth) (out) 将饮料从容器中倒出（如倒进杯子里）:
+vt. 使液体或其他物质从容器中以一股的形式持续地流出（尤指通过使该容器处于一定角度），即倾倒:
+vt. 使液体或其他物质从容器中以一股的形式持续地流出（尤指通过使该容器处于一定角度），即倾倒:
+vi.（液体、烟等）以一股的形式持续而快速地流动，如涌流，倾泻等:
+vi. 雨倾盆而下；下大雨:
+pour |[pɔ:]
+Letters of complaint continue to pour in. 投诉信纷至沓来。
+Commuters came pouring out of the station. 通勤上班者涌出车站。
+Will you pour the coffee? 你来倒咖啡好吗？
+Pour the sauce over the pasta. 把酱汁浇在面食上。
+Helen poured out two stiff drinks. 海伦倒了两杯烈酒。
+Pour the sauce over the pasta. 把酱汁浇在面食上。
+He poured out two stiff drinks. 他倒了两杯烈酒。
+Tears poured down his cheeks. 眼泪顺着他的脸颊簌簌地落下。
+Thick black smoke was pouring out of the roof. 黑色浓烟从屋顶滚滚冒出。
+The rain continued to pour down. 大雨哗哗地下个不停。
+It's pouring outside. 外面下着瓢泼大雨。
+It's pouring with rain. 大雨滂沱。
+
+suffering or dying from hunger:因饥饿而受苦或死亡
+starving |ˈstɑːvɪŋ| Adjective/:挨饿,饿死了
+the world's starving children:世界上饥饿的孩子
+
+n. [C] ~ (of/to sth) 相等、相同或对应的的东西、数量、词语、效果等:
+adj. ~ (to sth)（价值、数量、意义、重要性等）相等的、相同的:
+equivalent |[ɪˈkwɪvələnt]
+Send €20 or the equivalent in your own currency. 寄20欧元或等值的贵国货币。
+Creutzfeldt-Jakob disease, the human equivalent of BSE 克罗伊茨费尔特——雅各布病——相当于疯牛病的人类疾病 
+The German ‘Gymnasium’ is the closest equivalent to the grammar school in England. 德语Gymnasium基本上相当于英格兰的文法学校。
+Breathing such polluted air is the equivalent of (= has the same effect as) smoking ten cigarettes a day. 呼吸污染这么严重的空气等于每天抽十支烟。
+The equivalent of two tablespoons of polyunsaturated oils is ample each day. 每天相当于两大汤匙多重不饱和油的量就足够了。
+Even the cheapest car costs the equivalent of 70 years' salary for a government worker. 即使是最便宜的汽车，价格也相当于一个公务员70年的薪水。
+the civil administrator of the West Bank and his equivalent in Gaza 约旦河西岸的民政官和加沙的同职官员 
+the Red Cross emblem, and its equivalent in Muslim countries, the Red Crescent 红十字及其在伊斯兰国家的对应标志——红月牙 
+His party has just suffered the equivalent of a near-fatal heart attack. 他所在的政党刚刚经历了一次类似心脏病突发般几近致命的打击。
+the nearest equivalent we have to a carnival 我们有的与狂欢节最相似的节日 
+the modern equivalent of the Roman baths 罗马浴室的现代版 
+The campaign says that hunters are the moral equivalent of murderers. 这一运动宣称，在道德层面上捕猎者等同于杀人犯。
+These drawings are the visual equivalents of stage whispers. 这些图画等同于舞台上的可视旁边。
+verbal equivalent 意义相同的词语 
+architectural, cinematic, journalistic, literary, musical, sporting（尤英） equivalent 建筑方面的对应物；电影方面的对应物；新闻方面的对应物；文学方面的对应物；音乐方面的对应物；体育方面的对应物 
+the online equivalent of the telephone 与电话相当的在线通讯工具 
+The company has $43.8 million in cash and cash equivalents. 该公司拥有4,380万美元的现金和现金等价物。
+a word which has no direct equivalent in English 在英语中找不到对应词的词语 
+Each sponsor received the equivalent of £1 million worth of advertising. 每位赞助商均获得价值100万英镑的广告收益。
+He's only paid the equivalent of $200. 他只得到了相当于200美元的物品。
+There is no exact male equivalent for witches. 没有和女巫完全对等的男性角色。
+It is the approximate equivalent in height to the Matterhorn. 这个高度与马特峰接近。
+This qualification is the equivalent of a degree. 这一资格相当于大学学位。
+This concert hall has been described as the American equivalent to London's Albert Hall. 这个音乐厅可称得上是美国的伦敦艾伯特音乐厅。
+Eight kilometres is roughly equivalent to five miles. 八公里约等于五英里。
+250 grams or an equivalent amount in ounces 250克或与之等量的盎司 
+the price we would pay elsewhere for a broadly equivalent house 我们在其它地方购置大致相同的房子要付的价钱 
+These first computers were equivalent in power to a modern calculator. 这些最初的计算机与现代计算器功能相同。
+
+in a way that is worthy of attention:以一种值得关注的方式
+to a surprising degree:
+used to express surprise at an event or situation:用于表示对事件或情况感到惊讶
+remarkably |rɪˈmɑːkəbli| Adverb/:显着,引人注目
+you have performed remarkably:你的表现非常出色
+her condition improved remarkably:她的病情明显好转
+remarkably, she hung on to her job:非凡的是，她坚持自己的工作
+
+adj. 祖先的:
+ancestral |[ænˈsestrəl]
+ancestral house 祖宅 
+the family's ancestral home in southern Germany 这个家族在德国南部的祖居 
+the ancestral portraits in the hallway 走廊里祖先的画像 
+the tribe's ancestral lands 部落的祖居地 
+ancestral past 祖先的历史 
+ancestral spirit 祖先的灵魂 
+ancestral tradition 祖先的传统           
+
+vt.＆vi. 时间推移，常为比喻用法:
+n. [C] 时间的推移:
+vt.＆vi. 1 坚定而快速地走向某地:
+2 迫使某人与你一起同行:
+n. [C] 以部队行进的方式来行走:
+vt.＆vi. 迫使某人与你一起同行:
+n. [C] the march of sth为单数名词，表示某事物的稳步发展或进展，常为比喻用法:
+n. [C] 进行曲:
+vt.＆vi.（使）士兵以僵硬而有规律的步调走路，即（使）齐步走，行军，或其它主体与此类似的行进方式:
+n. [C] 行进，行军:
+vt.＆vi. 为了抗议或示威而游行。与demonstrate近义:
+n. [C] 抗议游行或示威游行:
+march |[mɑːtʃ][mɑːtʃ]
+Time marches inexorably on and we still have not made a decision. 时间不断流逝，而我们仍未做决定。
+The clock marched onward to the year 2020. 时钟迈向2020年。
+the march of time 时间的推移
+She marched over to me and demanded an apology. 她毅然走过来，要我向她道歉。
+to briskly march 脚步轻快地行进 
+They marched proudly onto the football field. 他们自豪地步入足球场。
+The guards marched the prisoner away. 卫兵押着囚犯离开了。
+There will be a special march past of competitors.（英）参赛者将列队走过主席台。
+The guards marched the prisoner away. 卫兵押着囚犯离开了。
+the forward march of technology 技术的进步 
+the march of history, the march of progress, the march of science 历史的进程；发展的进程；科学的进程 
+the steady march towards equality 稳步迈向平等的征程
+military march 军队进行曲 
+funeral, wedding march 葬礼进行曲；婚礼进行曲 
+slow march 徐缓的进行曲
+Soldiers were marching up and down. 士兵们来回练习队列行进。
+conscripts learning to march in step 正在学习齐步走的入伍者 
+Quick march!（口令）齐步走！
+They marched 20 miles to reach the capital. 他们行进了20英里才到达首都。
+The invading army marched on Rome. 入侵的军队向罗马进发。
+long march 长途行军 
+forced march 强行军 
+fifty-mile march 五十英里的行军 
+the army’s line of march 部队的行军路线 
+the march eastward 东进 
+The army has been on the march for two weeks. 部队已连续行军两个星期了。
+to march against the war 游行示威反对战争 
+to march for peace 为争取和平而游行 
+The demonstrators marched on the British embassy. 示威者向英国大使馆进发。
+hunger, peace, protest, victory march 反饥饿游行；反战游行；抗议游行；胜利游行 
+peaceful march 和平游行
+
+vt. 用某个标记来标明、标示…:
+~ sth (as being sth) 官方命名或官方宣布…具有某个特征；以某种方式描述某事物:
+vt. ~ sb (as) sth 为某一工作或职位来选定或任命某人:
+adj. [正式]（用于名词后）已受委派但尚未上任的；已当选但尚未就职的:
+designate |[ˈdezɪgneɪt]
+The different types are designated by the letters A, B and C. 不同的类型分别用字母A、B和C标明。           
+vt. ~ sth (as) sth 
+This area has been designated (as) a National Park. 本区已定为国家公园。
+a designated nature reserve 指定的自然保护区 
+There are efforts under way to designate the bridge a historic landmark. 人们正在努力将这座桥定为历史遗迹。
+This floor has been designated a no-smoking area. 这楼层已定为无烟区。
+Some of the rooms were designated as offices. 其中一些房间被指定用作办公室。
+designated seats for the elderly 老人专座 
+a man interviewed in one of our studies whom we shall designate as E 在我们的一项研究中接受访谈的男子，我们称之为 E 
+Several pupils were designated as having moderate or severe learning difficulties. 几名学生被认定有一定或严重学习困难。
+scholarships designated for minorities 专门给予少数族裔学生的奖学金 
+The director is allowed to designate his/her successor. 主任获准选定自己的继任人。
+Who has she designated (as) her deputy? 她委任了谁为她的副手？
+the man designated to succeed the president 被指派接替校长职务的男人 
+to designate someone as the spokesperson 指派某人为发言人
+an interview with the director designate 与未到任主任的面谈 
+Japan's Prime Minister-designate is completing his Cabinet today. 日本的当选首相今日将完成组阁。
+
+using force or violence:使用武力或暴力
+in a forceful way; convincingly:以一种有力的方式；令人信服地
+forcibly |ˈfɔːsɪbli| Adverb/:强制,强行
+no one will be forcibly evicted:没有人会被强行驱逐
+they argued forcibly against the proposal:他们强行反对该提案
+
+n. [U, C] 敲诈、勒索:
+extortion |[ɪkˈstɔ:ʃn;美ɪkˈstɔ:rʃn]
+He was arrested and charged with extortion. 他因敲诈勒索罪被拘捕和控告。
+attempted extortion 敲诈未遂 
+alleged extortion 涉嫌勒索 
+extortion racket 敲诈勒索 
+He was known for running a brutal extortion racket. 他因干过一起残忍的敲诈勒索而出名。
+
+n. [U] 情感的激烈，具有文学色彩:
+n. [U] violence (against sb) 意在伤害或杀害某人的暴力行为:
+n. [U] 身体（或情感）的力量和精力，即激烈，具有文学色彩:
+violence |['vaɪələns]
+the violence in his tone 他语气激烈 
+the violence of her feelings 她的感情之强烈
+physical violence 人身暴力 
+domestic, family violence 家庭暴力 
+racial violence 种族间的暴力冲突 
+terrorist violence 恐怖分子的暴行 
+school violence 校园暴力 
+gun violence 持枪暴行 
+gang, mob violence 帮派暴力；群体暴力 
+teenage, youth violence 青少年暴力行为 
+an act of violence 暴力行为 
+to resort to violence 诉诸暴力
+the violence in his tone 他语气激烈 
+the violence of her feelings 她的感情之强烈
+
+a man living in the region of a frontier, especially that between settled and unsettled country.:一个生活在边境地区的人，尤其是在定居和未定居国家之间的地区。
+frontiersman |ˈfrʌntɪərzmən| Noun/:拓荒者
+
+finally; in the end:终于;到底
+at the most basic level:在最基本的层面
+ultimately |ˈʌltɪmətli| Adverb/:最终,终究
+the largest firms may ultimately become unstoppable:最大的公司最终可能势不可挡
+ultimately he has only himself to blame:最终他只能怪他自己
+
+n. 1 [C] 某人或某事物留下的一长串的痕迹、踪迹:
+2 [C] 尤指打猎时跟踪的足迹、踪迹或气味:
+vt.&vi. ~ (by/in sth)（尤用于进行时）（在比赛或竞争中）落后，失败:
+vt. 通过寻找线索的方式来追踪、跟踪某人或某事物:
+n. [sing.] on the ~ of 努力追踪或寻找某人或某事物:
+vi.（尤指跟在别人后面）疲惫地走，没精打采地慢走:
+vi.（尤指植物）蔓生、蔓延:
+vt.&vi.（被）在某人或某事物后面拖、拉，尤指（被）在地面上拖拽:
+n. [sing.] on the ~ of 努力追踪或寻找某人或某事物:
+vt. 通过寻找线索的方式来追踪、跟踪某人或某事物:
+n. 1 [C] 穿过乡间的一条小路、小径:
+2 [C] 有特定用途的一条路线:
+trail |[treɪl]
+a trail of blood 一连串血迹 
+blood, smoke, vapour trail 血迹；烟迹；（飞机在高空飞行时产生的）凝结尾迹象 
+muddy trail 泥痕 
+wet trail 湿痕 
+false trail 伪造的痕迹 
+The couple laid a false trail to escape the paparazzi. 为了逃避狗仔队，那对情侣伪造了踪迹。
+The tourists left a trail of litter behind them. 游客留下了一路的垃圾。
+Everywhere in the house was a sticky trail of orange juice. 家里到处是泼洒的橙汁留下的黏糊糊的痕迹。
+The hurricane passed, leaving a trail of devastation in its wake. 飓风过后，满目疮痍。
+He left a trail of clues at the scenes of his crimes. 他在犯罪现场留下了一些蛛丝马迹。
+They had to find the kidnappers before the trail went cold. 他们必须在线索变得模糊之前找到绑架者。
+The hounds were following the fox's trail. 猎犬追踪着狐狸的气味。
+The dog had picked up the trail of a rabbit. 狗嗅到了兔子留下的气味。
+The fox had crossed a stream, and the hounds lost the trail. 狐狸穿过了小溪，猎狗失去了它的臭迹。
+Ants follow a scent trail laid down previously. 蚂蚁循着上次留下的臭迹爬。
+Fortunately the trail was still warm (= clear and easy to follow). 庆幸的是痕迹仍然清晰可循。         
+United were trailing 2–0 at half-time. 联队在上半场结束时以0:2落后。
+He scored again, leaving Dartford trailing 3-0 at the break. 他又进球了，使得中场休息时达特福德队以 3: 0 落后。
+We were trailing by five points. 我们落后五分。
+The team are now trailing badly in the league. 现在这个队在联赛中远远落后于其他队。
+They were trailing by 12 points until the last few minutes of the game. 直到比赛的最后几分钟，他们还落后12分。
+The Conservatives are trailing Labour in the opinion polls. 在民意测验中保守党的支持率落后于工党。
+The polls showed the Tories trailing behind the Government by 17 per cent. 民调显示，保守党落后于政府 17 个百分点。
+This country is still trailing badly in scientific research. 这个国家在科研方面仍然大大滞后。
+The police trailed Dale for days. 警方跟踪了戴尔多日。
+Two detectives were trailing him. 两个侦探正在追踪他。
+I trailed her to a shop in Kensington. 我跟踪她来到肯辛顿的一家商店。          
+The police are still on the trail of the escaped prisoner. 警方仍在追捕逃犯。
+Detectives had found several new clues and were back on the murderer's trail. 侦探们发现了一些新的线索，又开始追踪凶手。
+There was a newspaper on the trail of the story. 有一家报纸在追踪报道此事。
+The kids trailed around after us while we shopped for clothes. 我们在商店买衣服时，孩子们无精打采地跟在后面。
+I spent a long afternoon trailing behind him. 整个下午我都拖着步子跟在他身后。
+He trailed through the wet Manhattan streets. 他没精打采地走过曼哈顿湿漉漉的街道。
+I trailed wearily after the others. 我疲惫地拖着步子走在其他人后面。
+They spent their lives trailing around the country. 他们一辈子都在这个国家四处漂泊。
+trailing plants 蔓生植物 
+Computer wires were trailing all over the floor. 地板上布满了计算机的连线。
+A jeep trailing a cloud of dust was speeding in my direction. 一辆吉普车拖着一股扬尘，朝我疾驰而来。
+She came down the stairs slowly, trailing the coat behind her. 她慢慢走下楼梯，大衣在身后拖曳着。
+The bride's dress trailed behind her. 新娘的结婚礼服拖在身后。
+He let his fingers trail in the water. 他把手伸进水里，任水流滑过指间。
+I trailed my hand in the water as the boat moved along. 我把手放在水里，让小船拖着往前划行。
+The police are still on the trail of the escaped prisoner. 警方仍在追捕逃犯。
+Detectives had found several new clues and were back on the murderer's trail. 侦探们发现了一些新的线索，又开始追踪凶手。
+The police trailed Dale for days. 警方跟踪了戴尔多日。
+Two detectives were trailing him. 两个侦探正在追踪他。
+forest, mountain, nature, wooded, woodland trail 森林小道；山区小路；通向自然景观的小路；林荫道；林间小径 
+The trail wends its way through dark forests. 这条小路穿过黑暗的森林。
+He was following a broad trail through the trees. 他沿着林间的一条阔路行进。
+bike, biking, cycle（英）, hiking, jogging, mountain bike, ski, snowmobile, walking trail 自行车小径；徒步旅行小道；慢跑小道；山地自行车小道；滑雪道；雪地车道；步行道 
+cross-country trail 越野小道 
+a tourist trail (= of famous buildings) 游览路线 
+This restaurant is off the tourist trail. 这家餐馆不在游客路线上。
+campaign, comeback, presidential, winning（英） trail（均为比喻用法） 竞选之路；东山再起之路；总统之路；获胜之路 
+politicians on the campaign trail (= travelling around to attract support) 进行巡回宣传的政治人物 
+at the end of a hard day on the election trail 选举巡游途中难熬的一天结束之时 
+After a disastrous few seasons, the team are on the comeback trail. 经历了几个灾难性的赛季之后，队员的状态正在恢复。
+I like to hit the trail early and be finished by eight. 我喜欢早点开始，八点之前就结束。
+We did the Inca trail.（非正式）我们走了印加古道。           
+
+n. [C]（代表一个组织架构、国家等的）代表团:
+n. [U] 将自己的工作职责委派、委托给别人的过程。如授予；委托、委派:
+delegation |[ˌdelɪˈgeɪʃn]
+large, small delegation 大代表团；小代表团 
+high-level, high-powered（尤英）delegation 高级别代表团；阵容强大的代表团 
+international delegation 国际代表团 
+all-party, joint delegation（均英）各党派联合代表团；联合代表团 
+The Prime Minister met with an all-party delegation from the city council. 首相接见了来自市政委员会的各党派联合代表团。
+government, military, official, parliamentary, state, union（英）delegation 政府代表团；军方代表团；官方代表团；议会代表团；州代表团；工会代表团 
+business, peace, trade delegation 商务代表团；和平代表团；贸易代表团 
+A well-known academic will head the delegation. 代表团将由一位著名学者率领。
+a delegation representing the new regime 代表新政权的代表团 
+The delegation included representatives from nine nations. 这个代表团包括来自九个国家的代表。
+an official delegation from Somaliland 来自索马里兰的官方代表团 
+The delegation will visit several Middle Eastern countries for talks. 代表团将到访几个中东国家参加会谈。
+He was sent to New York as part of the Dutch delegation to the United Nations. 他作为出席联合国会议的荷兰代表团成员被派往纽约。
+the Dutch delegation to the United Nations 出席联合国会议的荷兰代表团 
+a delegation of teachers 教师代表团 
+all the ministers in the delegation 代表团中所有的部长 
+a high-powered delegation of Asian businessmen 亚洲企业家组成的阵容强大的代表团 
+the head of a delegation, the leader of a delegation 代表团团长；代表团领队 
+a member of a delegation 代表团成员
+delegation of authority, delegation of decision-making, delegation of responsibility 授予权力；授予决策权；责任委派 
+All managers should learn effective delegation. 所有经理都应该学会有效地把工作授权给下级。
+Many of these tasks can be dealt with by delegation. 这些任务中有不少可以授权给下级处理。
+
+n. 1 [U, C] 出席、到场、上学出勤:
+2 [C, U] 出席人数:
+attendance |[əˈtendəns]
+compulsory, mandatory（尤美）强制参加；不得缺席 
+church, cinema（英）, college, movie（美）, school attendance 去教堂；看电影；上大学；上学等 
+Attendance at these lectures is not compulsory. 这些课不是硬性规定要听的。
+Teachers must keep a record of students' attendances. 老师必须记录学生的出勤情况。
+Her attendance at school was sporadic. 她三天两头旷课。
+Councillor Paul Tisley will be in attendance at the start of the meeting to welcome us. 议员保罗·提斯里将在会议开始时出席，以欢迎我们。
+Police with riot gear and several fire engines are in attendance. 防暴警察和数辆消防车都到了。
+He lived in considerable style, travelling widely, usually with a cook, valet, butler and chauffeur in attendance. 他活得相当潇洒，通常带着厨师、用人、管家和司机到处游玩。
+Weekly attendance at a religious service was the norm. 每周参加一次宗教仪式是常规。
+Regular attendance at lectures is important. 定期参加讲座很重要。
+The ambulances were in attendance within 22 minutes. 救护车 22 分钟就赶到了现场。
+attendance at the meetings 出席会议 
+take attendance（美）（英式英语用take the register）点名 
+Mrs Sakamoto had finished taking attendance. 坂本夫人已经点完名了。
+There was an attendance of 42 at the meeting. 有42人参加了会议。
+Average weekly cinema attendance in February was 2.41 million. 2月份，平均每周的观影人数为241万。
+This year attendances were 28% lower than forecast. 今年的出席人数比预期少28%。
+It was a record attendance for a midweek game. 对于一场周中期进行的比赛，有这么多人到场还是首次。
+Despite falling attendances, the zoo will stay open. 尽管参观人数不断减少，动物园将继续开放。
+The average attendance at sports events increased last year. 去年现场观看体育赛事的平均人数有所增长。
+Average daily school attendance was only 75%. 学生平均每天的出勤率只有75%。
+Building a new stadium has boosted attendances by 40%. 新体育场的修建使观众人数提高了 40%。
+Attendances at the pool always fall in winter. 冬天去游泳的人总会减少。
+Movie attendance soared during the war. 战争期间去看电影的人数陡增。
+attendance figures, attendance numbers（尤美）, attendance rate, attendance record 出席人数；到场人数；出席率；出席记录 
+Attendance figures were up this year. 今年的出席人数上升了。
+
+n. [C] monument to sth 被视为典范的（某人的）品质或事迹:
+n. 1 [C] monument (to sb/sth) 纪念某个著名的人物或历史事件的碑（常是石碑）、建筑物、雕像等。是一个广义用词:
+2 [C] 历史上对…有重要意义的建筑物（如城堡或桥梁等），即历史遗迹，或有价值的历史建筑:
+monument |['mɒnjumənt]
+This book is a monument to his talent as a philosopher. 这部著作是展现他哲学家才华的不朽之作。
+A monument to the event was erected in the city. 在这座城市为此次事件修建了一座纪念碑。
+The new boat is a fitting monument to the crew members who lost their lives. 新船是对遇难船员最好的纪念。
+funerary monument 墓碑 
+religious monument 宗教纪念碑 
+stone monument 石碑 
+ancient, historic, historical monument 古迹；历史遗迹 
+national monument 国家级遗址 
+the best preserved Roman monument in Britain 英国保存最完好的古罗马遗址
+
+a distinctive attribute or aspect of something:某物的独特属性或方面
+a part of the face, such as the mouth or eyes, making a significant contribution to its overall appearance:脸部的一部分，例如嘴巴或眼睛，对其整体外观有重要贡献
+a distinctive characteristic of a linguistic unit, especially a speech sound or vocabulary item, that serves to distinguish it from others of the same type.:一个语言单位的显着特征，尤其是语音或词汇项目，用于将其与其他同类产品区分开来。
+a newspaper or magazine article or a broadcast programme devoted to the treatment of a particular topic, typically at length:一篇报纸或杂志文章或一个专门处理特定主题的广播节目，通常很长
+a full-length film intended as the main item in a cinema programme.:一部旨在作为电影节目主要项目的全长电影。
+have as a prominent attribute or aspect:have作为一个突出的属性或方面
+have as an important actor or participant:有作为一个重要的演员或参与者
+be a significant characteristic of or take an important part in:成为一个显着特征或在其中扮演重要角色
+feature |ˈfiːtʃə| Noun/Verb/:特征,特色是,特性,特点,功能
+a well-appointed house with interesting decorative features:一间设备齐全、装饰有趣的房子
+a dark-haired man with strong, regular features:一个黑头发的男人，有着强壮、规则的特征
+a special feature on children's reference books:儿童参考书特刊
+the hotel features a large lounge, a sauna, and a coin-operated solarium:the酒店设有大型休息室、桑拿浴室和投币式日光浴室
+the film featured Glenn Miller and his Orchestra:这部电影以格伦米勒和他的管弦乐队为特色
+his later paintings feature prominently in the exhibition:他后来的画作在展览中占据突出地位
+
+unmarked by or resistant to stains or discoloration:无痕或抗污渍或变色
+(of a person or their reputation) free from wrongdoing or disgrace:（某人或他们的名誉）没有不法行为或耻辱
+stainless |ˈsteɪnləs| Adjective/:防锈的,不锈钢,不锈钢的
+stainless surfaces can never mellow with use:stainless表面永远不会随着使用而变得柔和
+her supposedly stainless past:她本应不锈的过去
+
+vt. steel yourself (for/against sth) 准备对付或下决心应付令人不快的事:
+n. [U] 钢:
+n. [U] 钢铁工业:
+n. [U] [旧时或文学用法] 兵器:
+steel |[sti:l]
+As she waited, she steeled herself for disappointment. 她等着的时候，就冷了心不指望了。
+He steeled himself to tell them the truth. 他硬下心来把实情告诉了他们。
+Those involved are steeling themselves for the coming battle. 那些参与者正准备应对即将到来的战斗。
+steel pipes 钢管 
+stainless steel 不锈钢 
+steel sheet 钢板 
+steel mill, steel plant, steel works（尤英）轧钢厂；炼钢厂；钢厂
+Steel used to be important in South Wales. 以前钢铁工业在南威尔士很重要。
+a steel worker 炼钢工人 
+a steel town 钢城
+the clash of steel 刀剑相击的哐当声
+
+
+stainless-steel | 不锈钢
+
+n. [U]（所计划或组织出来的）某事物的结构、框架或特征:
+n. [U] 某事物的客观（或物理）条件或状况:
+vt. 对…的发展（或产生）历程产生重要影响:
+vi. 准备做某事，尤指准备击打或踢…:
+n. [C, U] 身体的形状。强调身体的几何形状:
+n. [C, U] 某事物的形状；外形；样子；呈…形状的事物:
+vt. shape A (into B) 使某物成为某种形状，即塑造:
+n. [U] 某人的身体条件或状况。包括了与身体有关的方方面面的状况:
+n. [C] 难以看清楚的一个人或事物，相当于figure:
+shape |[ʃeɪp]
+Will new technology change the shape of broadcasting? 新技术会改变广播的方式吗？
+the future shape of Europe 欧洲的未来格局 
+the shape of Asia’s political map 亚洲政治版图的形势 
+A wonderful idea began to take shape in her brain. 一个绝妙的想法开始在她脑中形成。
+the words we use to give a shape to our feelings 我们用来表达感情的话语 
+This new systems could be the shape of things to come. 这个新系统很有可能代表了未来的发展趋势。
+I can’t stand insects in any shape or form.（英）无论什么样的昆虫我都很害怕。
+to provide money in the shape of student loans 以学生贷款的形式提供资金
+What sort of shape was the car in after the accident? 这车出过事故以后状况如何？
+The company is in good financial shape. 该公司的财务状况良好。
+His ideas had been shaped by his experiences during the war. 他的思想深受战时经历的影响。
+Memory can be profoundly shaped by subsequent experience. 记忆会受到后来经历的深刻影响。
+The media had great influence in shaping public opinion. 媒体对公众意见的影响力很大。
+Money played a major role in shaping his decision. 他做这个决定，钱起了重要作用。
+the role that faith has played in shaping American society 信仰在塑造美国社会中所起的作用
+She was shaping to hit her second shot. 她正准备再一次击球。
+human shape 人形 
+face shape 脸形 
+You can’t change your natural body shape. 天生的体形是无法改变的。
+circular, round, rectangular, square, triangular shape 圆形；矩形；正方形；三角形 
+heart, star shape 心形；星形 
+human shape 人形 
+face shape 脸形 
+geometric shape 几何形状 
+regular shape 规则的形状 
+This old T-shirt has completely lost its shape. 这件旧T恤衫已经穿得完全走样了。
+Shape the dough into a ball. 把和好的面揉成一团。
+This tool is used for shaping wood. 这个工具是用来加工木料的。
+He’s in good shape for a man of his age. 作为那把年纪的人来说，他身体不错。
+physical shape 身体状况 
+to keep in shape, to stay in shape 保持身体健康 
+to be out of shape 身体状况不佳 
+Get your body into shape for the summer! 为了夏天的到来，把身体锻炼好吧！
+ghostly shapes 鬼一样的影子 
+The great grey shape of a tank rolled out of the village. 一个坦克状的巨大灰影从村子里开了出来。
+
+vi. [英]（尤指在一个交通工具里）朝某个方向快速移动，如快速行驶:
+n. [C] 一些物体的碗状部分:
+n. [C] 尤用于构成复合词，指深的、圆形的、广口的盘子（用于盛放食物或液体），可称为碗，钵，盆等:
+n. [C] [尤美] 构成名称，指一个大的、圆形的、露天的（即没有屋顶的）剧场（用于户外的音乐会表演等）。是一个形象化用词:
+n. [C] 也可用bowlful，指一碗，一钵或一盆等的量:
+vt. bowl sb (out) 板球运动中可指通过击中三柱门而把击球员杀出局:
+n. [C] [美] 构成名词，美式足球中可指在主要赛季之后，强队间所进行的一场比赛，可称为强队季后赛:
+n. 1 [C] 草地滚球游戏和保龄球运动中所用的一个沉重的木球:
+2 [U]（美也用lawn bowling）bowls指草地滚球游戏（在一个平坦光滑的草地上，游戏者轮流滚球，使其尽量与小球靠近）:
+vt.＆vi. 1（草地滚球游戏和保龄球运动中）滚球，投球（让球滚动）:
+2 板球运动中可指把球投给击球员:
+bowl |[bəʊl]
+Soon we were bowling along the country roads. 我们不久便在乡村的公路上疾驰了。
+the bowl of a spoon 勺子头 
+toilet, lavatory bowl 马桶
+china, glass bowl 瓷碗；玻璃碗 
+food bowl 饭碗 
+soup bowl 汤碗 
+mixing, serving bowl 搅拌用的碗；上菜碗 
+begging bowl（比喻用法）讨饭用的碗 
+a washing-up bowl full of dirty dishes（英）盛满脏碟子的洗涤盆 
+goldfish bowl 金鱼缸
+the Hollywood Bowl 好莱坞露天剧场
+a bowl of soup 一碗汤 
+a bowl of cherries 一碗樱桃
+the Super Bowl 超级杯季后赛
+
+n. 1 [C, U]（用石头、木头、黏土、金属或其他材料所做成的）雕像或塑像（其中雕像为雕刻而成，塑像为塑造而成）:
+2 [U] 雕塑艺术，雕塑术，雕刻术:
+sculpture |['skʌlptʃə]
+a sculpture of a horse 一匹马的雕塑 
+a marble sculpture of Caesar 凯撒的大理石雕像 
+abstract sculpture 抽象雕塑 
+ancient sculpture 古代雕塑 
+relief sculpture 浮雕 
+monumental sculpture 纪念性雕塑 
+life-size sculpture 真实尺寸雕塑 
+bronze, glass, ice, metal, stone, wooden sculpture 铜塑；玻璃雕塑；冰雕；金属雕塑；石雕；木雕 
+a piece of sculpture 一件雕塑 
+to study sculpture 学习雕塑艺术 
+the techniques of sculpture in wood 木雕艺术
+
+assistance (in doing sth/to do sth) 帮助或支持:
+assistance |[ə'sɪstəns]
+Can I be of any assistance? 我能帮上忙吗？
+Despite his cries, no one came to his assistance. 尽管他喊叫，却没有人来帮助他。
+She offered me practical assistance with my research. 她给我的研究提供了实实在在的帮助。
+assistance in finding a place to stay 在寻找住处上给予的帮助 
+assistance with rent for people on a low income 对低收入者给予的租金方面的补助 
+He can walk only with the assistance of crutches. 他只能靠一副拐杖走路。
+international assistance 国际援助 
+government assistance 政府援助 
+social, welfare assistance 社会救助；福利救助 
+humanitarian assistance 人道主义援助 
+economic, legal, medical, military, technical assistance 经济援助；法律援助；医疗援助；军事援助；技术援助
+
+n. [sing.] ~ to sth/sb（良好效果或影响的）体现，显示:
+n. [U, C] ~ (to sb) 对逝者表达敬意或仰慕的一个行为、陈述或礼物:
+n. [U, C] ~ (to sb) 对逝者表达敬意或仰慕的一个行为、陈述或礼物:
+n. [U, C] ~ (to sb) 对某人（尤指逝者）表达敬意或仰慕的一个行为、陈述或礼物:
+n. [U, C]（尤指在过去）一国向另一国交纳的金钱或贡品（尤指为了获取对方的保护而向其交纳的贡品或贡金）:
+tribute |[ˈtrɪbju:t]
+His recovery is a tribute to the doctors' skill. 他的康复充分显示了各位医生高超的医术。
+His success has been a tribute to hard work, to professionalism. 他的成功充分体现了他的勤劳苦干和敬业精神。
+It is a tribute to Mr Chandler's skill that he has fashioned a fascinating book out of such unpromising material. 钱德勒先生竟然以如此不被看好的素材写出了一本引人入胜的书，这充分证明了他的写作技巧。
+The bridge is a remarkable tribute to the skill of the early engineers. 这座桥标志着早期工程师们的杰出技艺。           
+silent tribute（尤英）默哀 
+Thousands of people stood in silent tribute to the dead president. 数以千计的人为逝去的总统默哀。
+Tributes flooded in when her death was announced. 她去世的消息公布后，人们纷纷表示哀悼。
+floral tributes (= gifts of flowers at a funeral)（英）葬礼献花 
+Floral tributes were piled up outside the church. 教堂外面放满了敬献的花圈。
+The prime minister led the tributes to ‘a great statesman and a decent man’. 首相带领大家向“一位伟大的政治家和正直的人”致敬。
+silent tribute（尤英）默哀 
+Thousands of people stood in silent tribute to the dead president. 数以千计的人为逝去的总统默哀。
+At her funeral her oldest friend paid tribute to her life and work. 在葬礼上，她最早的朋友对她的一生和工作给予了高度的赞扬。
+Tributes flooded in when her death was announced. 她去世的消息公布后，人们纷纷表示哀悼。
+floral tributes (= gifts of flowers at a funeral)（英）葬礼献花 
+Floral tributes were piled up outside the church. 教堂外面放满了敬献的花圈。
+The prime minister led the tributes to ‘a great statesman and a decent man’. 首相带领大家向“一位伟大的政治家和正直的人”致敬。
+anniversary, birthday, memorial tribute 周年纪念日颂词；生日祝词；纪念祝词 
+The couple paid tribute to the helicopter crew who rescued them. 这对夫妇向救了他们性命的直升机机组人员表示敬意和感谢。
+He paid tribute to the organising committee. 他赞扬了组委会。
+This book is a fitting tribute to the bravery of the pioneers. 本书是对先驱们大无畏精神恰如其分的献礼。
+tribute album, tribute concert 致敬唱片；致敬音乐会 
+tribute show 致敬演出 
+He'll be on the road with a Beatles tribute band. 他将参加披头士致敬乐队的巡演。
+The song is a tribute to Roy Orbison. 那首歌是对罗伊·奥比森的致敬。
+
+n. [C] [生物学] 动植物的群、族:
+n. 1 [C] [常贬] 一群人或一个阶层，尤指从事相同活动或行为相同的一群人或一个阶层:
+2 [C] [非正式，或幽默用法] 一大群人:
+n. [C]（有时具有冒犯性）部落，尤指发展中国家的部落:
+tribe |[traɪb]
+a tribe of cats 猫族
+He had a sudden outburst against the whole tribe of actors. 他突然对所有的演员非常反感。
+tribes of talented young people 一群群才华出众的年轻人 
+the particularly unpleasant tribe who argue over the splitting of restaurant and bar bills 那帮为分摊吃喝账单而争吵的令人非常讨厌的家伙 
+One or two of the grandchildren will be there, but not the whole tribe. 一两个孙子孙女会去那里，但并不是所有的人。           
+aboriginal, indigenous, native tribe 土著部落 
+local, neighbouring/neighboring tribe 当地部落；临近部落 
+desert, forest, hill tribe 沙漠部落；森林部落；山区部落 
+nomadic tribe 游牧部落 
+primitive tribe 原始部落 
+barbarian tribe 蛮荒部落 
+hostile, warring tribe 敌对的部落；交战的部落 
+a member of a tribe 部落成员 
+tribes living in remote areas of the Amazonian rainforest 居住在亚马孙河雨林偏远地区的部落 
+three-hundred members of the Xhosa tribe 300 名科萨族人 
+a map of Maryland marked with the names of Indian tribes 标有印第安部落名称的马里兰州地图
+
+vt. 减轻、缓和、缓解。相当于ease:
+vt. 减轻、缓解:
+alleviate |[əˈli:vieɪt]
+to alleviate suffering 减轻苦难 
+Nowadays, a great deal can be done to alleviate back pain. 如今，减轻背部疼痛可以有许多方法。
+the problem of alleviating mass poverty 摆脱普遍贫困的难题 
+A number of measures were taken to alleviate the problem. 采取了一系列措施缓解这个问题。
+These problems have been greatly alleviated by the passing of the new Act. 新条例的通过使这些问题得以大大缓解。
+These measures are designed to alleviate the situation. 这些措施旨在缓和局势。
+Her words did little to alleviate his fears. 她的话没怎么减轻他的恐惧感。
+Nowadays, a great deal can be done to alleviate back pain. 如今，减轻背部疼痛可以有许多方法。
+
+n. [C, U] 给出某事的证据的行为，如表明:
+n. [C] 情感的表达、表露:
+n. [C] 情感或观点的表达、表露:
+n. [C, U]（也可用非正式的demo）（对…的原理或完成过程所进行的）演示:
+n. [C]（尤其在英式英语中，也可用非正式的demo）~ (against sb/sth) （为抗议或支持某人或某事所进行的）集会示威、游行示威:
+n. [C, U] 给出某事的证据的行为，如证明、论证:
+demonstration |[ˌdemənˈstreɪʃn]
+a demonstration of how something that seems simple can turn out to be very complicated 说明看似简单的东西实际上可能非常复杂 
+This is a clear demonstration of how technology has changed. 这清楚地表明了技术已有了怎样的进步。
+This was a very practical demonstration of why the Army trained people to be disciplined. 这很实际地说明了为什么军队要将士兵训练得遵规守纪。
+The strike was a dramatic demonstration of the power of the workforce. 罢工突出地显示了劳动者的力量。
+a public demonstration of affection 公开表露爱慕之情 
+physical demonstrations of affection 身体上的亲昵 
+a demonstration of support for the reforms 表示对改革的支持 
+There's been no public demonstration of opposition to the President. 没有人对总统公开表示反对。
+a public demonstration of affection 公开表露爱慕之情 
+physical demonstrations of affection 身体上的亲昵 
+a demonstration of support for the reforms 表示对改革的支持 
+There's been no public demonstration of opposition to the President. 没有人对总统公开表示反对。
+We were given a brief demonstration of the computer's functions. 有人向我们简短演示了这种计算机的各种功能。
+practical demonstration 实际操作表演 
+technology demonstration 技术示范 
+We provide demonstration of videoconferencing over the Internet. 我们通过互联网演示视频会议。
+cookery（尤英）, cooking（尤美） demonstration 烹饪示范 
+demonstrations of new products 新产品的演示 
+I'll give a quick demonstration of some first-aid techniques. 我将很快地示范一些急救技术。
+to see, to watch demonstration 观看演示
+mass demonstrations against cuts in the health service 反对公共医疗卫生服务经费削减的群众示威游行 
+The president's decision provoked public demonstrations. 总统的决定引发了公众的示威。
+street demonstration 街头示威 
+spontaneous demonstration 自发示威 
+Thousands gathered for a peaceful demonstration. 数千人聚在一起举行和平示威。
+violent demonstration 暴力示威 
+a protest demonstration against the war 反战抗议示威 
+student demonstration 学生示威 
+political demonstration 政治示威 
+anti-war, anti-government, pro-democracy demonstration 反战示威；反政府示威；亲民主示威 
+Taxi drivers staged a demonstration against the new law. 出租车司机举行示威反对新法律。
+to call off demonstration（尤英）取消示威 
+The demonstration was called off at the last minute. 示威在临举行的一刻取消了。
+to disperse demonstration（尤英）驱散示威人情 
+Police in riot gear dispersed the demonstration. 防暴警察驱散了示威人群。
+The government does not wish to provoke further demonstrations. 政府不希望再激起示威活动。
+demonstrations calling for an end to sanctions 呼吁停止制裁的示威 
+The visiting president was greeted by hostile demonstrations. 到访的总统遭遇了充满敌意的示威。
+police intervention at demonstrations 警方对示威的干涉 
+Hundreds were arrested during demonstrations in the capital. 发生在首都的示威游行中几百人被捕。
+demonstrations in protest at the arrests（英，美式将at改为of）反对拘捕的示威 
+Riot police broke up a demonstration by students. 防暴警察驱散了示威的学生。
+student demonstrations in favour of a multi-party system 支持多党制的学生示威 
+mass demonstrations in support of the exiled leader 支持流亡领导人的群众集会
+a demonstration of the connection between the two sets of figures 论证这两组数字间的联系
+
+~ (between A and B) 理解别人的情感、经历等的能力，即共情:
+empathy |[ˈempəθi]
+~ (for sb/sth) 
+the writer's imaginative empathy with his subject 作者把想象中的感情投入到笔下的人物 
+empathy for other people's situations 对他人所处境况的同情 
+Having begun my life in a children's home I have great empathy with the little ones. 由于从小生活在儿童院，我对小家伙们产生了强烈的共鸣。
+The nurse should try to develop empathy between herself and the patient. 护士应当努力与病人建立心理上的沟通。
+I felt real empathy for my mother and what she had been through. 我对母亲和她所经历的一切都深有同感。
+She had a deep empathy with animals. 她对动物有浓浓的爱心。
+a feeling of empathy 同情心 
+a lack of empathy 缺乏同情心
+
+vt. inspire sb (to sth) 给予某人渴望、信心或热情让其去把某事做好，即激励，鼓舞:
+inspire sb (in sth) 使某人拥有或产生某种感情、情感或感觉:
+vt. 常用被动式，激发某人的灵感（尤指艺术灵感）或想象力:
+inspire |[ɪn'spaɪə]
+The actors’ enthusiasm inspired the kids. 演员们的热情鼓舞着孩子们。
+His superb play inspired the team to a thrilling 5–0 win. 他的出色表现使球队士气大振，以5:0大获全胜。
+vt. inspire sb (with sth) 
+to inspire me with confidence 让我产生信心 
+to inspire loyalty 激发忠诚度
+The choice of decor was inspired by a trip to India. 选用这种装饰格调是从一次印度之行中得到的启发。

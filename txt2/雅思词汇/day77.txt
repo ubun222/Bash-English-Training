@@ -1,0 +1,577 @@
+metallic				金属的
+obvious				明确的，明显的
+sentiment				情绪，观点，伤感
+harass				不断骚扰，烦扰
+constrain						限制，强迫
+wretched				悲惨的，极差的
+resent				对...感到愤恨
+offence						犯罪，冒犯，进攻
+precise				清晰的，精确的，恰好的
+overlap					部分重叠，相同之处
+episode		事件
+malice		恶意
+palatable	可口的，可接受的
+carve					雕刻，切开
+mentality		心态
+proposition					主张，计划，提议，任务
+steep							陡峭的，急剧的，浸泡
+hitchhike			免费搭便车
+tumour				肿瘤
+alliance				结盟
+chic					雅致的，时髦的
+denomination			教派，面值
+frown							皱眉
+coerce		强迫
+cumbersome		笨重的，笨拙的
+credit								信贷，信用，赞扬，归于
+rhythm						节奏，韵律，循环往复
+crash								碰撞，倒闭，死机
+toneless		单调的
+\\\\\\\\
+
+Metallic means consisting entirely or partly of metal. 含金属的
+Something that tastes metallic has a bitter, unpleasant taste. 金属腥味的
+Metallic paint or colours shine like metal. 有金属光泽的
+A metallic sound is like the sound of one piece of metal hitting another. (声音) 金属般的
+metallic |英 [mɪ'tælɪk]  美 [mə'tælɪk]| adj. 金属的，含金属的/
+Even the smallest metallic object, whether a nail file or cigarette lighter, is immediately confiscated.即便是最小的金属物品，不论是指甲锉刀还是打火机，都会立刻被没收。
+There was a metallic taste at the back of his throat.他喉咙深处有一股金属的腥味。
+He had painted all the wood with metallic silver paint.他把所有木料涂上了有金属光泽的银漆。
+There was a metallic click and the gates swung open.一声金属碰撞的咔嗒声后，大门打开了。
+
+
+adj. 1 obvious (to sb) (that ...) 容易看到的或易于理解的，相当于clear:
+2 大多数人所认为或同意的，如公认的、当然的:
+adj. [贬] 无趣的、不新鲜的、不表现出想象力的；因对每个人来说都显而易见因而不必要的:
+obvious |['ɒbvɪəs]
+The answer is perfectly obvious! 答案十分明显！
+For obvious reasons, I’d prefer not to give my name. 因为显而易见的原因，我不愿透露自己的姓名。
+His manner made it obvious he didn’t like her. 他的态度清楚地表明他不喜欢她。
+It soon became obvious that the machine did not work. 机器故障很快就显现出来了。
+She was the obvious choice for the job. 她是这一工作的当然人选。
+There’s no obvious solution to the problem. 这个问题尚无公认的解决办法。
+This seemed the most obvious thing to do. 这似乎是最顺理成章的做法。
+The ending was pretty obvious. 结尾十分平淡。
+I may be stating the obvious but without more money the project cannot survive. 我这话可能多余，但是不投入更多资金，项目就难以为继。
+
+n. [U] [有时贬]（尤指对过去的事过度或不当的）伤感、柔情、哀伤等:
+n. [C, U] [正式]（尤指基于思想或情感的）情绪或态度:
+n. [C]（用言辞表达的）观点、见解、感想:
+sentiment |[ˈsentɪmənt]
+mawkish sentiment（尤英）多愁善感 
+The new movie is to be applauded for refusing to drift into mawkish sentiment. 这部新片未落入无病呻吟的俗套，势必会赢得热捧。
+Laura kept that letter out of sentiment. 劳拉因无法释怀而一直保留着那封信。
+The coronation was an occasion for extravagant myth and sentiment. 加冕典礼是极尽奢华和怀旧的仪式。
+There is no room for sentiment in business. 在生意场上心肠不能软。
+consumer, investor sentiment（均尤美）消费者情绪；投资者情绪 
+bearish, bullish sentiment（均尤美）（股市等的）看跌情绪；看涨情绪 
+There was a steep rise in bullish sentiment as foreign investors rushed in. 当外国投资者纷纷进入股市，看涨情绪陡然上升。
+nationalist, patriotic sentiment 民族主义情绪；爱国主义情绪 
+anti-Japanese sentiment 反日情绪 
+anti-war sentiment among the civilian population 平民的反战情绪 
+anti-government sentiment 反政府情绪 
+Public sentiment rapidly turned anti-American. 公众情绪迅速转变，开始反对美国。
+These actions are likely to inflame anti-Western sentiment. 这些行为很可能使人们反西方情绪高涨。
+pro-American sentiment 亲美情绪 
+racist sentiment 种族主义情绪 
+political sentiment 政治情绪 
+moral, religious sentiment 道德情感；宗教情感 
+The people are renowned for their deep religious sentiment. 这些人以笃信宗教著称。
+In the 19th century, anti-Catholic sentiment ran high. 19世纪反天主教情绪高涨。
+It would be a mistake to ignore their strong sentiments on the issue. 无视他们在这个问题上的强烈情绪将是个错误。
+The killings helped arouse popular sentiment against the organization. 杀戮激起了大众对该组织的敌对情绪。
+critical sentiment towards/toward government policy 对政府政策的不满情绪 
+Even though I disagree with you, I appreciate the sentiments that prompt you to speak out. 虽然我的看法和你不同，但我很理解你的想法。
+He's found growing sentiment for military action. 他发现支持采取军事行动的情绪日益高涨。
+This is a sentiment I wholeheartedly agree with. 这种态度我完全赞同。
+Public sentiment is against any change to the law. 公众的意见是反对对该法律作任何修改。
+I must agree with the sentiments expressed by John Prescott. 我不得不对约翰·普雷斯科特的见解表示赞同。
+The Foreign Secretary echoed this sentiment. 外交大臣附和了这一看法。
+He agrees with the sentiments expressed in the editorial. 他同意社论所表达的观点。
+I think his view reflects the sentiment of a lot of fans. 我想他的观点反映了很多追随者的想法。
+public sentiment in favour of state ownership 支持国有制的公众舆论 /‘I don't see why we should change our plans just because of him.’ ‘My sentiments exactly.’“我看不出为什么要因为他而改变我们的计划。”“我也这么想呢。”
+
+vt. [常用被动式] 骚扰、侵扰某人:
+vt. 不断攻击敌人:
+harass |[ˈhærəs;həˈræs]
+She claims she has been sexually harassed at work. 她声称在工作中受到过性骚扰。
+A woman reporter complained one of them sexually harassed her in the locker room. 一名女记者投诉说，他们中有一人在更衣室里对她进行性骚扰。
+He has complained of being harassed by the police. 他投诉受到警方侵扰。We are almost routinely harassed by the police. 警方几乎隔三差五地就找我们的麻烦。
+to racially harass 种族侵扰
+to harass the enemy 骚扰敌人 
+
+To constrain someone or something means to limit their development or force them to behave in a particular way. 限制; 迫使
+constrain |英 [kən'streɪn]  美 [kən'stren]| vt. 驱使；强迫；束缚/
+Women are too often constrained by family commitments and by low expectations.女性往往受家庭职责及低期望值约束。
+
+
+Someone who feels wretched feels very unhappy. 极不愉快的
+You use wretched to describe someone or something that you dislike or feel angry with. 讨厌的
+wretched |英 ['retʃɪd]  美 ['rɛtʃɪd]| adj. 可怜的；卑鄙的；令人苦恼或难受的/
+I feel really confused and wretched.我真的感到迷惑和难过。
+Wretched woman, he thought, why the hell can't she wait?讨厌的女人，他想，她怎么就不能等等呢？
+
+
+vt.（尤指由于感到不公而）愤愤不平、气愤、愤恨、憎恶:
+vt.（尤指由于感到不公而）愤愤不平、气愤、愤恨:
+resent |[rɪˈzent]
+I deeply resented her criticism. 我对她的批评感到非常气愤。
+He bitterly resents being treated like a child. 他十分厌恶被别人当孩子对待。
+She resented him making all the decisions. 她讨厌什么事都要听他的。
+She resented his making all the decisions.（正式）她讨厌什么事都要听他的。
+She resents her mother for being so tough on her. 她怨恨母亲对她太严厉。
+I resent being dependent on her. 我很讨厌自己对她的依赖。
+She bitterly resented the fact that her husband had been so successful. 她对丈夫如此成功感到愤愤不平。
+I deeply resented her criticism. 我对她的批评感到非常气愤。
+She bitterly resented the fact that her husband had been so successful. 她对丈夫如此成功感到愤愤不平。
+
+n. [U] 冒犯或侮辱某人:
+n. [U]（美）进攻型选手:
+n. [U]（美）攻击性打法:
+n. [C] offence (against sb/sth) 违法行为，即罪行:
+offence |[ə'fens]（美offense）
+I meant no offence. 我本无意冒犯。
+No offence intended, but are you sure your calculations are right? 请不要见怪，但你确定你的计算准确无误吗？
+He takes offence at the slightest joke against him. 一丁点儿玩笑他也会生气。
+passers who can initiate the offense 能主动进攻的传球手
+to commit an offence 犯罪 
+capital offence 死罪 
+grave, major, serious offence 严重的罪行；滔天大罪 
+lesser, minor, petty, trivial offence 轻微的罪行；轻罪 
+alleged offence 涉嫌违法 
+first offence 初犯 
+statutory offence（英）制定法上的罪行 
+arrestable（英）, firing（美）, imprisonable（英）, indictable（英）, punishable offence 够拘捕条件的罪行；可导致解雇的行为；够拘押条件的罪行；可起诉的罪行；应予惩罚的罪行 
+criminal, disciplinary（英）offence 刑事犯罪；违纪行为 
+driving（英）, political, sex, sexual, terrorist offence 违章驾驶；政治罪；性犯罪；恐怖主义罪 
+non-violent（尤美）, violent offence 非暴力犯罪；暴力犯罪 
+drug-related offence 涉毒犯罪 
+offences against public decency 有伤风化的犯罪行为
+
+adj.（尤指对于小细节）细心以使其精确的，如细致的，认真的，一丝不苟的，相当于meticulous。比exact要常用一些:
+adj. 只用于名词前，用于强调某事发生在一个特定的时间，如恰好，就:
+adj. 1 清晰且准确的，即确切的，精确的，明确的等，相当于exact:
+2 只用于名词前，用于强调某事发生在一个特定的时间（或以特定的方式发生），如恰好，就:
+precise |[prɪ'saɪs]
+a skilled and precise worker 熟练而认真的工人 
+precise movements 细微的动作 
+She’s rather prim and precise.（贬义）她拘谨严肃，一丝不苟。
+We were just talking about her when, at that precise moment, she walked in. 我们正谈论着她，恰好在这个时候，她走进来了。
+precise details, precise instructions, precise measurements 确切的细节；明确的指令；精确的尺寸 
+a precise definition 确切的定义 
+mathematically, surgically, technically precise 数学上精确；手术上精确；技术上精确 
+precise terms 准确的术语 
+precise numbers 准确的数字 
+I can be precise about the time of the incident. 我可以准确地说出这件事发生的时间。
+These estimates will become more precise. 这些估测将更为准确。
+We were just talking about her when, at that precise moment, she walked in. 我们正谈论着她，恰好在这个时候，她走进来了。
+Doctors found it hard to establish the precise nature of her illness. 医生们难以判定她的确切病因。
+
+n. 1 [C, U] ~ (between sth and sth)（兴趣、知识、责任等的）范围方面的重叠部分:
+2 [C, U]（物体的）重叠部分，重叠量:
+3 [sing.]（两件事发生的）重叠时间，交接时期:
+vt.&vi.（两个物体）部分重叠，交叠:
+vt. 使（两个或多个物体）部分重叠:
+vt.&vi.（两个事件）在主题、人物、时间等因素上部分重叠:
+vt.&vi. ~ (with sth)（兴趣、知识、责任等的）范围的部分重叠:
+overlap |[ˌəʊvəˈlæp;美ˌoʊvərˈlæp]
+There is (a) considerable overlap between the two subjects. 两门科目之间有相当多的共通之处。
+an overlap of 5cm on each roof tile 每片房瓦上5厘米的重叠度 
+There will be an overlap of a week while John teaches Ann the job. 将有一周的交接期供约翰向安解释工作性质。
+A fish's scales overlap each other. 鱼鳞一片片上下交叠。
+The floor was protected with overlapping sheets of newspaper. 地板用一张搭着一张的报纸保护着。
+When the bag is folded flat, the bag bottom overlaps one side of the bag. 袋子平整折起后，底面与一侧交叠。
+Put the two pieces of paper together so that they overlap slightly. 将这两张纸放在一起让它们稍稍重叠。
+You will need to overlap the pieces of wood slightly. 你得使这些木片像鱼鳞片似的搭叠起来。
+Overlap the slices carefully so there are no gaps. 将切片小心翼翼地搭好，中间不留任何空隙。
+Elizabeth met other Oxford intellectuals some of whom overlapped Naomi's world. 伊丽莎白结识了其他一些牛津大学的学者，其中有几位娜奥米也认识。
+Christian holy week overlaps with the beginning of the Jewish holiday of Passover. 基督教的圣周与犹太教逾越节的头几天重叠。
+Our jobs overlap slightly, which sometimes causes difficulties. 我们的工作略有重叠，所以有时引起一些困难。
+The language of science overlaps with that of everyday life. 有些科学用语也用于日常生活。
+a world which overlaps with the newspaper world 与报界交叉的领域 
+The two categories overlap to some extent. 这两个范畴有一定的交叉。
+terms which overlap slightly in meaning 语义略有重叠的术语
+
+n. [C]（人生的）一段经历:
+n. [C]（人生的）一件事件或情况；（小说的）事件或情况:
+n. [C] 一个阶段:
+n. [C]（电视连续剧或广播连续剧的）一集、（杂志连载故事的）一节:
+n. [C] 短暂的患病期、疾病的发作期:
+n. [C]（小说的）片段或情况:
+episode |[ˈepɪsəʊd;美-soʊd]
+I'd like to try and forget the whole episode. 我倒想尽量把那段经历全部忘掉。
+Unfortunately it was a rather sordid episode of my life. 不幸的是，这是我人生中非常不光彩的一段经历。
+I still remember that episode from my childhood. 我依然记得自己童年时期的那一件事。
+This episode is bound to be a deep embarrassment for Washington. 这一事件肯定会让华盛顿非常难堪。
+during a brief episode of socialist rule 实行社会主义制度的短暂时期中 
+an extraordinary episode in American history 美国历史上一个非同寻常的阶段
+The final episode will be shown next Sunday. 下周日将播出最后一集。
+It happened in the final episode of ‘Star Trek’. 这件事发生在《星际迷航》的最后一集里。Don't miss next week's exciting episode! 别错过下周激动人心的一集！
+classic episode 经典的一集 
+pilot episode 试播的一集 
+previous episode 上一集 
+I caught a few episodes of seasons one and two. 我赶上了第一、二季里面的几集。
+The next episode has not yet been filmed. 下一集还未拍摄出来。
+people who'd suffered a third episode of depression in two years. 两年内忧郁症三次发作的人 
+The new drug lessens the severity of pneumonia episodes. 新药减轻了肺炎发作时的痛苦。
+an acute episode of pneumonia 肺炎急性发作期 
+She has only told you about the latest episode in a long history of mental illness. 她只对你讲了漫长的精神病史中最近的一段。
+recurrent episode（医学）复发阶段 
+depressive, manic, psychotic episode（均医学）抑郁发作阶段；躁狂发作阶段；精神病发作阶段
+One of the funniest episodes in the book occurs in Chapter 6. 书中最有趣的片段之一在第6章。
+
+n. [U] 对某人的恶意、怨恨:
+He bore me no malice.（bear尤为英式用法）他对我没有恶意。/‘You're lying,’ he said, without malice. 他并无恶意地说道:
+malice |[ˈmælɪs]
+He sent the letter out of malice. 他出于恶意寄出了这封信。
+She is entirely without malice. 她完全没有恶意。
+There was a strong current of malice in many of his portraits. 他的许多肖像画中都透着一股强烈的怨恨。
+There was no malice on his part. 他并无恶意。
+I bear no malice towards anybody. 我对谁都没有恶意。
+
+adj.（食物或饮料）可口的、美味的:
+adj. ~ (to sb)（想法、方法等）可接受的、合意的:
+palatable |[ˈpælətəbl]
+flavourings and preservatives, designed to make the food look more palatable 用于使食物看起来更加可口的调味料和防腐剂
+Some of the dialogue has been changed to make it more palatable to an American audience. 有些对白有所修改以适应美国观众的口味。
+a palatable way of sacking staff 可以接受的裁员方式 
+That option is not very palatable. 那个选择不太可以接受。
+
+vt. carve sth (out) (for yourself) 无被动式，指努力工作（以取得职业生涯的成功，或赢得名声等）:
+vt.＆vi. 把煮过的肉切成小块以供食用:
+vt.＆vi.（用木头或石头）雕刻成物品、图案等:
+vt. 在表面上刻写:
+carve |[kɑːv]
+She has carved a place for herself in the fashion world. 她已在时装界谋得一席之地。
+He succeeded in carving out a career in the media. 他已在传媒界闯出了一片天地。
+Who’s going to carve the turkey? 谁来把火鸡切成小块？
+The statue was carved out of a single piece of stone. 这座雕像是用整块石料雕成的。
+She carves in both stone and wood. 她既做石雕也做木雕。
+They carved their initials on the desk. 他们把自己姓名的首字母刻在书桌上。
+
+Your mentality is your attitudes and your way of thinking. 心态
+mentality |英 [men'tælɪtɪ]  美 [mɛn'tæləti]| n. 心态；[心理] 智力；精神力；头脑作用/
+...a criminal mentality.…一种犯罪心态。
+
+
+n. [C] 打算去做的事情；待处理的问题或任务。尤指（难办或诱人的）事情，任务:
+vt. 直接向某人提出性要求，即求欢:
+n. [C] [数学] 命题:
+n. [C]（尤指业务上的）提议、建议、提出的行动计划（提出建议者和倾听者通常共同执行该提议）:
+n. [C] [正式] 观点、见解:
+n. [sing.]（也可用Proposition）（美国）法律修正议案:
+proposition |[ˌprɒpəˈzɪʃn;美ˌprɑ:p-]
+Getting a work permit in the UK is not always a simple proposition. 在英国获得工作许可证往往不是一件简单的事情。
+Getting a job is not always a simple proposition. 找工作并不总是一件简单的事。
+Even among seasoned mountaineers Pinnacle Ridge is considered quite a tough proposition. 即使在经验丰富的登山者中，平纳克尔峰也被认为是很难攀登的。
+Making easy money has always been an attractive proposition. 轻松赚钱总是件诱人的事。
+difficult, tricky proposition 棘手的事 
+expensive proposition 费钱的事 
+all-or-nothing proposition（美）孤注一掷的事 
+dangerous, dicey（美）, risky proposition 危险的事；碰运气的事；冒险的事 
+Running the business was one thing. Getting it to make a profit was a different proposition altogether. 经营管理企业是一回事，要能使之盈利则完全是另一回事。
+She was propositioned by a strange man in the bar. 酒吧里有个陌生男人向她求欢。
+He had allegedly tried to proposition a colleague. 据说他曾试图向一名同事求欢。
+business, commercial, economic, paying proposition 业务上的提议；商业上的提议；经济方面的提议；带来利润的提议 
+I'd like to put a business proposition to you. 我想向您提个业务上的建议。
+I want to make you a proposition. 我想给你提一个建议。
+He was trying to make it look like an attractive proposition. 他正设法使他的计划显得吸引人。
+You came to see me at my office the other day with a business proposition. 几天前你带着一份商业提案来我的办公室见我。
+losing proposition（尤美）亏本的提议 
+Ring up your agent in New York and put your proposition to him. 给你在纽约的代理人打电话，把你的建议告诉他。
+Her assessment is based on the proposition that power corrupts. 她的分析是建立在权力使人堕落的观点上的。
+The proposition that democracies do not fight each other is based on a tiny historical sample. 认为民主国家互不争斗的观点是以一个极小的历史样本为根据的。
+basic, central, fundamental proposition 基本主张；主要主张 
+true proposition 真实看法 
+abstract, empirical, existential, general, theoretical proposition 抽象的观点；基于经验的观点；存在主义的论点；总的论点；理论观点 
+dubious proposition 可疑的观点 
+simple proposition 简单的想法 
+a set of proposition 一套主张 
+The book puts forward a number of propositions about the nature of language. 这本书对语言的本质提出了一些见解。
+How did you vote on Proposition 8? 对于第8项修正案你是怎么投的票？
+Vote Yes on Proposition 136, but No on Propositions 129, 133 and 134. 对第136号修正案投赞成票，但对第129号、133号和134号修正案投反对票。
+
+adj. 1（斜坡、山等）陡的；陡峭的:
+2 常作前置定语，（数量的上升或下降）突然且大幅度的，即急剧的，相当于sharp:
+adj. [非正式]（价格或要求）过高的；过分的；不合理的。相当于expensive:
+steep |[sti:p]
+steep hill, steep slope, steep bank 陡峭的山；陡坡；陡岸 
+steep climb, steep drop 陡直的爬升；陡直的下落 
+a steep flight of stairs 一段很陡的楼梯 
+The path grew steeper. 路变得更陡了。
+a steep decline in the birth rate 出生率的骤降 
+a steep rise in unemployment 失业率的激增 
+steep price increases 价格的急剧上涨
+£2 for a cup of coffee seems a little steep to me. 一杯咖啡2英镑在我看来有点贵得离谱。
+
+hitchhiker 搭免费便车的人
+If you hitchhike, you travel by getting rides from passing vehicles without paying. 搭免费便车
+hitchhike |英 ['hɪtʃhaɪk]  美 ['hɪtʃ,haɪk]| vt. 要求（搭便车）/vi. 搭便车/n. 搭便车（旅行）/
+On my way to Vancouver one Friday night I picked up a hitchhiker.在我去温哥华的那个星期五的晚上，我载了一个搭便车的人。
+Neff hitchhiked to New York during his Christmas holiday.内夫在圣诞节休假期间搭免费便车去了纽约。
+
+
+n. [C]（大量细胞聚集生长所形成的）瘤、肿瘤、肿块:
+tumour |[ˈtju:mə(r);美ˈtu:-]
+cancerous tumour 癌性肿瘤 
+malignant tumour 恶性肿瘤 
+benign tumour 良性肿瘤 
+primary tumour 原发性肿瘤 
+inoperable tumour 不能手术的肿瘤 
+lung, brain, breast, kidney tumour 肺部肿瘤；脑瘤；乳房肿瘤；肾脏肿瘤 
+He developed a brain tumour. 他长了脑瘤。
+tumour cell, tumour tissue 肿瘤细胞；肿瘤组织 
+tumour formation, tumour growth 肿瘤形成；肿瘤生长 
+a primary tumour in the breast 乳房内的原发性肿块 
+tumours of the central nervous system 中枢神经系统肿瘤 
+a malignant tumour on the eyelid 眼睑上的恶性肿瘤
+
+n. [C] ~ (with sb/sth) | ~ (between A and B)（国家、政党等为达成统一目标而结成的）联盟、同盟。可以是一种结盟的协议，也可以是结成的团体:
+alliance |[əˈlaɪəns]
+formal, informal alliance 正式同盟；非正式同盟 
+strategic, working alliance 战略同盟；工作同盟 
+an unholy alliance between the Fascists and the Mofiosi 法西斯分子和黑手党成员间的邪恶联盟 
+global, transatlantic, Western alliance 全球联盟；跨大西洋联盟；西方联盟 
+defensive, military alliance 防御同盟；军事同盟 
+electoral（尤英）, political alliance 竞选联盟；政治联盟 
+opposition alliance 抵抗同盟 
+class alliance 阶级同盟 
+marriage alliance 联姻 
+to make an alliance 缔结同盟 
+The two parties were still too much apart to form an alliance. 两党分歧甚大，还远未能结成同盟。
+The Social Democrats are now in alliance with the Greens. 社会民主党现在与绿党结成联盟。
+They are now in a position to govern the state in alliance with either the Free Democrats or the Green Party. 他们现在可以选择与自由民主党人或绿党结盟来执掌国家政权。
+a loose alliance of opposition groups 反对派团体的松散联盟 
+the shifting alliances among the various political groups 各政治团体间不断变换的同盟 
+The government has tried to forge alliances with environmentalists. 政府试图与环保主义者结成联盟。
+Seven more countries have been invited to join the alliance. 另有七个国家受邀加入该联盟。
+The marriage was meant to cement the alliance between the two countries. 这次联姻旨在巩固这两个国家之间的联盟。
+To cement the alliance with England, Charles married Margaret, sister of the English king. 为了巩固与英格兰的联盟，查尔斯娶了英格兰国王的妹妹玛格丽特。
+old alliances against enemies that no longer exist 针对不复存在的敌方的旧联盟 
+an alliance between Britain and France 英国与法国之间的同盟 
+an alliance with Germany 与德国的联盟 
+alliance of convenience 基于利益的联盟 
+It was an alliance of convenience, not of conviction. 这是一个基于利益而非信任的联盟。
+What will be the effect of the alliance between IBM and Apple? 若IBM公司和苹果公司联合将会有什么效果呢？
+They have alliances with other companies. 他们和其它公司有同盟关系。
+The organization is a broad alliance of many different groups. 该组织是很多不同团体的广泛联盟。
+The uneasy alliance between such different people just cannot last. 如此不同的人之间不稳定的联盟维持不了很长时间。
+
+Chic is used to refer to a particular style or to the quality of being chic. 特种风格; 时髦雅致
+Something or someone that is chic is fashionable and sophisticated. 时髦且有品位的
+chic |英 [ʃiːk]  美 [ʃɪk]| n. 时髦；别致的款式/adj. 别致的/n. (Chic)人名；(英)奇克/
+...French designer chic.…法国设计师的特有风格。
+Her gown was very French and very chic.她的礼服是地道的法国风格，非常时髦有品位。
+
+
+The denomination of a banknote or coin is its official value. (货币的) 面额
+A particular denomination is a particular religious group which has slightly different beliefs from other groups within the same faith. 教派
+denomination |英 [dɪ,nɒmɪ'neɪʃ(ə)n]  美 [dɪ,nɑmɪ'neʃən]| n. 面额；名称；教派/
+She paid in cash, in bills of large denominations.她用大面额钞票的现金支付。
+Acceptance of women preachers varies greatly from denomination to denomination.对于女性牧师的接受，各教派差异很大。
+
+
+vi. ~ (at sb/sth)（因恼怒、担心、困惑、全神贯注等而）皱眉；蹙额:
+n. [usually sing.]（因恼怒、担心、困惑、全神贯注等所做的）皱眉；蹙额:
+frown |[fraʊn]
+What are you frowning at me for? 你为什么朝我皱眉头？
+Nancy shook her head, frowning. 南希摇了摇头，皱着眉头。
+He frowned at her anxiously. 他不安地朝她皱了皱眉。
+She studied the letter, frowning thoughtfully. 她仔细地读了那封信，皱眉陷入了沉思。
+He looked at the coded message, frowning in/with concentration. 他盯着密码文，皱起眉头陷入了沉思。
+He frowned with annoyance.他恼怒地皱起眉头。
+She looked up with a puzzled frown on her face. 她抬头望着，满脸困惑，双眉紧锁。
+deep, heavy frown 紧皱的眉头 
+faint, little, slight, small, tiny frown 轻皱的眉头；微皱的眉 
+confused, puzzled, thoughtful, worried frown 茫然的皱眉；困惑的皱眉；沉思的皱眉；忧虑的皱眉 
+disapproving frown 表示不赞同的皱眉 
+angry, fierce frown 怒锁眉头 
+The boy gave a small frown. 小男孩微微皱了一下眉。
+She wore a worried frown. 她忧愁地皱着眉头。
+Her face creased into a frown. 她一副愁眉苦脸的样子。
+His brows drew together in a frown. 他眉头紧锁。
+Her frown grew deeper at the memory. 她想起这一往事、眉头皱得更紧了。
+A frown of concern creased her forehead. 她因担心而前额皱了起来。
+A frown marred his handsome features. 紧皱的眉头让他英俊的面容发生了扭曲。
+A frown crossed her brow. 她双眉紧锁。
+frown line 眉纹 
+a frown of concentration, a frown of concern 皱起眉头集中精神；皱眉表示不安 
+a frown on your face 脸上的不悦 
+a slight frown of disapproval 略显不赞成的脸色
+
+vt. ~ sb (into sth/into doing sth) [正式]（通过威胁）迫使某人去做某事:
+coerce |[kəʊˈɜ:s;美koʊˈɜ:rs]
+He had argued that the government coerced him into pleading guilty. 他辩称是政府强迫他认罪的。
+Clark had somehow been able to coerce Jenny into doing whatever he told her to do. 不知是用什么办法，克拉克总能让珍妮对他言听计从。
+They were coerced into negotiating a settlement. 他们被迫通过谈判解决。
+
+adj. 1 缓慢且复杂的、复杂而低效的:
+2（词语或短语）冗长的、复杂的:
+adj. 大而笨重的、难以搬运或携带的。相当于bulky:
+cumbersome |[ˈkʌmbəsəm;美-bərs-]
+cumbersome legal procedures 繁琐的法律程序 
+to eliminate cumbersome and unnecessary bureaucracy 革除臃肿低效且不必要的官僚主义 
+The proposed regulations are ill-defined and cumbersome and could be unnecessarily costly. 提议的规章制度阐述不清、复杂低效，而且可能会带来不必要的过高花费。
+an old and cumbersome computer system 过时而且低效的计算机系统 
+The organization changed its cumbersome title to something easier to remember. 这家机构把它那复杂累赘的名称改得好记一些了。
+cumbersome machinery 笨重的机器 
+Although the machine looks cumbersome, it is actually easy to use. 尽管这台机器看上去很笨重，操作起来却很容易。
+muffled up in thick and cumbersome clothing 身上裹着厚重的衣服
+
+vt. credit A with B 认为某人或事物拥有好的品质或特点:
+vt. credit sb/sth as sth 常用被动式，认为某人或事物属于某种类型或性质:
+vt. 英式用法，主要用于疑问句和否定句，相信某事，尤指相信令人惊奇或意外的事:
+vt. credit A with B 认为某人或事物拥有好的品质或特点:
+n. 1 [U] credit (for sth) 因做得出色而受到或应受到的称赞、赞扬或认可:
+2 [C] credit to sb/sth 为其它人（或事物）赢得荣誉的一个人或事物:
+n. [C] 大学（在美国也包括中小学）的一个学习单元；还可指学分:
+credit B to A 常用被动式，把…（尤指成就）归于…，认为（或表明）…是…的功劳:
+n. [C] 常用复数，指电影或电视节目中对摄制人员的介绍，常以片头或片尾字幕的形式出现:
+n. [U] 信用，信誉，即出借方对借贷方的信任:
+credit B (to A) 把一笔钱存入某人的银行账户，与debit相反:
+n. 1 [U] in credit表示金钱的结余:
+2 [C, U] 存入银行账户的款项金额；还可指此种存款记录。与debit相反:
+3 [C, U] 某人有权索回的款项，是一种术语:
+n. [U, C] 从银行里借的钱，即所贷的款:
+n. [U] 赊欠，赊购，是一种行为（而非账户）:
+credit |['kredɪt]
+I credited you with a little more sense. 我认为你更理智一些。
+The cheetah is generally credited as the world’s fastest animal. 普遍认为猎豹是世界上跑得最快的动物。
+He’s been promoted--would you credit it? 他升职了，你相信吗？
+I find what he says rather hard to credit. 我觉得他的话很难令人相信。
+I credited you with a little more sense. 我认为你更理智一些。
+I can’t take all the credit for the show’s success--it was a team effort. 演出成功不能都算成我一个人的功劳，这是集体努力的结果。
+Credit will be given in the exam for good spelling. 考试中拼写出色者将受到表扬。
+To her great credit, she does not try to avoid the truth. 她没有试图回避事实，这值得大加赞扬。
+He’s a great credit to the school. 他为学校争光不少。
+My math class is worth three credits. 我的数学课为三个学分。
+college credit（美）大学学分 
+credit hour（美）学分时
+vt. credit A with B 
+The company is credited with inventing the industrial robot. 发明工业机器人是那家公司的功劳。
+All the contributors are credited on the title page. 所有撰稿人的姓名均刊登在扉页上。
+The work has been credited to a 16th-century bishop. 这一作品已被认定出自16世纪的一位主教之手。
+He his widely credited with having started the Middle East peace process. 人们普遍认为是他启动了中东和平进程。
+She was given a programme credit for her work on the costumes for the play. 她为这出戏准备服装，被列入剧目制作人员名单。
+opening credits 片头演职人员名单 
+We left before the final credits began to roll. 片尾演职人员名单还未出现我们就退场了。
+credit rating, credit score, credit scoring 信用等级；信用评分 
+credit history, credit record 信用记录 
+credit file, credit report 信用档案；信用报告 
+credit risk 信用风险 
+a letter of credit 信用证 
+Her credit isn’t good anywhere now. 她借钱不还，弄得声名狼藉。
+vt. credit A (with B) 
+Your account has been credited with $50 000. 已把5万美元存入你的账户。
+The bank credited the oil company with $500 000. 银行向那家石油公司提供50万美元信用贷款。
+My account is in credit. 我的账户上有存款。
+a credit balance of €200 200欧元的贷方余额 
+I have three credits on my bank statement. 我的银行结算单上有三笔存款。
+a tax credit 课税扣除
+bank credit 银行信贷 
+long-term credit 长期贷款 
+consumer credit 消费信贷 
+credit limit 信用额度 
+credit market, credit union 信贷市场；信用合作社 
+to get credit 得到贷款 
+to refuse further credit to the company 拒绝再给那家公司贷款
+I bought it on credit. 这是我赊购的。
+Most stores will offer credit. 大部分商店都准许赊账。
+to issue a credit note 开具一张欠条
+
+n. 1 [U, C] 运动的节奏:
+2 [U, C] 变化的节奏（即有规律的变化）；事件的节奏:
+n. [U, C] 声音的节奏、韵律:
+rhythm |[ˈrɪðəm]
+The boat rocked up and down in rhythm with the sea. 小船随着海浪起伏有致。
+the rhythm of her breathing 她的呼吸节奏 
+cardiac, heart rhythm 心跳的节奏 
+the steady rhythm of his heartbeat 他有规律的心跳 
+a dancer with a natural sense of rhythm (= the ability to move in time to a fixed beat) 天生节奏感很强的舞蹈者 
+Her feet made a steady rhythm on the pavement. 她步伐平稳地走着。
+There's rhythm in her movements. 她的动作很有韵律感。
+the rhythm of the seasons 四季的更迭 
+The movie follows the rhythms of a year on the farm. 这部电影捕捉了农场中一年四季里有规律的变化。
+circadian rhythm（每24小时人或动物体内变化的）昼夜节律 
+natural rhythm of life 生命的自然节律 
+biological rhythms 生物节律 
+My body rhythms had not yet adapted to the ten-hour time difference. 我的生理节律还没有适应十小时的时差。
+changes to our daily rhythms 我们日常生活节奏的变化 
+She soon settled into a regular rhythm. 她很快形成了一种有规律的节奏。
+Tidying the house in the morning fell into an easy rhythm. 早晨清理房子已成为一种节奏轻快的活儿了。
+Williams is having trouble finding her rhythm on the serve. 威廉姆斯找不着发球的节奏。
+Try to disrupt your opponent's rhythm. 想办法打乱你对手的节奏。
+to dance to the rhythm of the music 随着音乐的节奏跳舞 
+Clap to the rhythm of the music. 跟着音乐的节奏鼓掌。
+He was snapping his fingers in rhythm. 他在有节奏地打响指。
+I found myself swaying to the rhythm of the music. 我发觉自己正随着音乐的节奏摇摆。
+I like music with a good rhythm. 我喜欢节奏悦耳的音乐。
+a sense of rhythm 节奏感 
+African, dance, Latin, reggae, samba rhythm 非洲音乐的节奏；舞蹈节奏；拉丁音乐节奏；雷鬼音乐的节奏；桑巴舞曲的节奏 
+jazz rhythms 爵士乐的节奏 
+music with a fast rhythm 节奏快的音乐 
+abnormal, irregular, staccato rhythm 不正常的节奏；不规则的节奏；不连贯的节奏 
+hypnotic rhythm 令人昏昏欲睡的节奏 
+the band's rhythm section 乐队的节奏乐器组 
+He can't seem to play in rhythm. 他的演奏好像不合节拍。
+Her pencil tapped out a staccato rhythm on the desk top. 她用铅笔断断续续地敲着桌面。
+
+vt. [非正式] 未受邀请而参加或出席一个聚会，相当于gatecrash:
+vi. [尤英] 体育运动中可指在一场比赛中败得一塌糊涂，即惨败、溃败:
+adj. 只用于名词前，为达成快速的结果而在短时间内需要付出辛苦和很多努力的，如速成的、应急的:
+n. [usually sing.] 一阵突然的且较大的噪声（例如由某事物的倒下或破碎所产生的巨响）:
+vi. 发出一阵巨响:
+vi. [非正式] crash (out) 入睡；在不常睡觉的地方睡觉:
+n. [C] 计算机技术中可指一个机器或系统（尤指一台计算机或一个计算机系统）突然崩溃:
+vt.＆vi. 计算机系统崩溃（突然停止运行）:
+vt.＆vi. 移动的过程中猛烈地撞上某事物（并造成巨响和损伤）；使某事物以此方式撞上某人或另一事物:
+vi. 医学上可指某人的心脏停止跳动，与arrest在词义上未见明显区别，但不如arrest常用:
+n. [C] 商业机构倒闭、破产等，强调该事实发生的突然性、持续的短促性和结果的凄惨性。词义相当于collapse:
+vi. 倒闭、破产:
+n. [C] 金融和商业领域可指某事物的价格或价值的一次突然且严重的下降，如暴跌、崩盘:
+vi. 在金融和商业领域可指（价格、股票等）失去价值，或突然且迅速地失败:
+n. [C]（美也用wreck）碰撞性的交通事故（通常造成车辆损伤及乘客伤亡）:
+vt.＆vi. crash (sth) (into sth) 一部交通工具撞上其它物体或另一部交通工具等（且造成破坏）:
+crash |[kræʃ]
+The team crashed to their worst defeat this season. 那支队遭遇了本赛季最严重的一次惨败。
+a crash course in computer programming 计算机编程速成课程 
+a crash diet 快速减肥规定饮食
+The tree fell with a great crash. 那棵树哗啦一声倒了。
+The plates fell to the floor with an almighty crash. 那些盘子哗啦一声掉在地上。
+There was a sickening crash as her head hit the ground. 她的头咣当一声磕在地上。
+The bike hit the street and made a loud crash. 自行车咣当一声摔在大街上。
+a distant crash of thunder 远处的雷鸣 
+the crash of the waves 浪涛拍击声 
+Thunder crashed overhead. 头顶上雷声隆隆。
+I was so tired I crashed out on the sofa. 我累极了，在沙发上就睡着了。
+I’ve come to crash on your floor for a couple of nights. 我来你家打几晚地铺。
+The system suddenly crashed. 系统突然崩溃了。
+A brick crashed through the window. 砖块哗啦一声砸入了窗户。
+With a sweep of his hand he sent the glasses crashing to the floor. 他一挥手把眼镜碰到地上摔碎了。
+The door crashed open. 那门砰的一声给砸开了。
+She crashed the door shut behind her. 她随手把门砰的一声关上了。
+bank, dotcom crash 银行倒闭；网络公司倒闭 
+The company crashed with debts of £5 million. 那家公司由于负债500万英镑而告破产。
+property（英）, stock-market crash 房地产暴跌；股市崩盘 
+a crash in share prices 股价暴跌 
+financial crash 财务崩溃 
+Share prices crashed to an all-time low yesterday. 昨天股票价格暴跌到了前所未有的最低纪录。
+air, plane crash 飞机失事 
+car, train crash 汽车撞车事故；火车撞车事故 
+alcohol-related crash 酒驾引起的撞车事故 
+spectacular crash 场面惨烈的撞车事故 
+head-on crash 正面碰撞 
+high-speed crash 高速碰撞 
+She swerved to avoid a crash. 她突然转向以避免相撞。
+The crash claimed three lives. 那起交通事故夺去了三条人命。
+crash victim 交通事故受害者 
+crash site 交通事故现场 
+crash barrier（英）（高速公路的）防撞护栏 
+I was terrified that the plane would crash. 飞机会失事把我吓坏了。
+A truck crashed into the back of a bus. 货车撞上了一辆公交车的尾部。
+He crashed his car into a wall. 他的汽车撞到了墙上。
+
+tonelessly
+toneless |英 [ˈtəʊnləs]  美 [ˈtoʊnləs]| adj. 沉闷的；单调的；缺乏声调的；无声的/
+"That's most kind of him," Eleanor said tonelessly.“他还真好心，”埃莉诺淡淡地说。
+

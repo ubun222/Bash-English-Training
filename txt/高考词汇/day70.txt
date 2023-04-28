@@ -55,7 +55,7 @@ a person who acts in a shrewd or manipulative way:以精明或操纵方式行事
 a symbol or function denoting an operation (e.g. ×, +).:
 operator |ˈɒpəreɪtə| Noun/:操作员,运营商
 a radio operator:无线电操作员
-calls are made through the operator:calls是通过接线员进行的
+calls are made through the operator:通过接线员拨打电话
 a tour operator:a旅行社
 her reputation as a cool, clever operator:她作为一个冷静、聪明的运营商而享有盛誉
 
@@ -104,8 +104,8 @@ a variety of cattle produced by crossing with a superior breed:与优良品种�
 arrange in or allocate to grades, classify or sort:排列或分配到等级，分类或排序
 give a mark to (a student or a piece of work).:给（一个学生或一件作品）打分。
 pass gradually from one level, especially a shade of colour, into another:从一个层次逐渐过渡，尤其是一种颜色，进入另一个层次
-reduce (a road) to an easy gradient.:reduce（一条道路）到一个简单的渐变。
-cross (livestock) with a superior breed.:cross（牲畜）拥有优良品种。
+reduce (a road) to an easy gradient.:将（一条道路）缩小为一个简单的坡度。
+cross (livestock) with a superior breed.:与优良品种杂交（牲畜）。
 grade |ɡreɪd| Noun/Verb/:年级,分级,级,等级,成绩
 sea salt is usually available in coarse or fine grades:seasalt通常有粗品或细品
 clerical and secretarial grades:文秘职系
@@ -118,7 +118,7 @@ the timber is graded according to its thickness:木材按厚度分级
 the sky graded from blue at the top of the shot to white on the horizon:天空从镜头顶部的蓝色渐变到地平线上的白色
 
 at the present time or moment:在当前时间或时刻
-at the time directly following the present moment, immediately:atthetime紧随现在，立即
+at the time directly following the present moment, immediately:在紧接现在时刻之后的时间，立即
 under the present circumstances, as a result of something that has recently happened:在目前的情况下，由于最近发生的事情
 on this further occasion, typically as the latest in a series of annoying situations or events:在这个进一步的场合，通常是一系列恼人的情况或事件中的最新情况
 used to emphasize a particular length of time:用于强调特定的时间长度
@@ -145,7 +145,7 @@ a wounded soldier:一名受伤的士兵
 
 a female bird, especially of a domestic fowl.:一只雌鸟，尤指家禽。
 domestic fowls of either sex.:家禽，男女不限。
-used in names of birds, especially waterbirds of the rail family, e.g. moorhen, native hen.:用于鸟类的名字，尤其是铁路家族的水鸟，例如。moorhen，本地母鸡。
+used in names of birds, especially waterbirds of the rail family, e.g. moorhen, native hen.:用于鸟类的名称，尤其是铁轨科的水鸟，例如母鸡，土鸡。
 a woman who is about to get married and is attending a celebration with female friends and relatives:即将结婚的女性，正在与女性朋友和亲戚一起参加庆祝活动
 used as an affectionate term of address to a girl or woman:用作对女孩或女人的亲切称呼
 a female lobster, crab, or salmon.:一只雌性龙虾、螃蟹或鲑鱼。
@@ -204,7 +204,7 @@ a shielded or safe condition, protection:
 protect or shield from something harmful, especially bad weather:保护或屏蔽有害事物，尤其是恶劣天气
 find refuge or take cover from bad weather or danger:寻找避难所或躲避恶劣天气或危险
 prevent (someone) from having to do or face something difficult or unpleasant:防止（某人）不得不做或面对困难或不愉快的事情
-protect (income) from taxation:protect（收入）免于征税
+protect (income) from taxation:保护（收入）免税
 shelter |ˈʃɛltə| Noun/Verb/:庇护所,遮蔽,庇护,避难所
 huts like this are used as a shelter during the winter:这样的小屋在冬天被用作避难所
 did they give you any breakfast at the shelter?:他们在收容所给你吃早餐了吗？
@@ -217,16 +217,16 @@ only your rental income can be sheltered:只有你的租金收入才能得到保
 
 direct one's gaze toward someone or something or in a specified direction:将目光投向某人或某物或特定方向
 (of a building or room) have an outlook in a specified direction:（建筑物或房间的）有一个特定方向的前景
-ascertain with a quick glance:ascertain快速浏览
+ascertain with a quick glance:一目了然
 attempt to find someone or something:试图找到某人或某事
 express (something) by one's gaze:通过一个人的目光表达（某事）
 think of or regard in a specified way:以特定的方式考虑或考虑
-examine (a matter) and consider what action to take:examine（一件事）并考虑采取什么行动
+examine (a matter) and consider what action to take:检查（某事）并考虑采取什么行动
 have the appearance or give the impression of being:有外表或给人的印象
 show a likelihood of:显示一个可能性
 appear one's normal, healthy self:表现出正常、健康的自己
 rely on (someone) to do or provide something:依靠（某人）做或提供某事
-hope or expect to do something:hope或期望做某事
+hope or expect to do something:希望或期望做某事
 take care, make sure:小心，确保
 an act of directing one's gaze in order to see someone or something:
 an expression of a feeling or thought by looking:通过观察表达一种感觉或想法
@@ -237,19 +237,19 @@ a style or fashion:一种风格或时尚
 used to call attention to what one is going to say:用来提醒人们注意一个人要说什么
 look |lʊk| Interjection/Noun/Verb/:看,看起来
 people were looking at him:人在看着他
-the room looks out over Mylor Harbour:房间俯瞰MylorHarbour
+the room looks out over Mylor Harbour:房间俯瞰迈勒港
 people finishing work don't look where they're going:完成工作的人不看他们要去哪里
 I can't find them—I've looked everywhere:我找不到他们——我到处找
-Poirot looked a question:Poirot看了一个问题
+Poirot looked a question:波洛看着一个问题
 I look at tennis differently from some coaches:我对网球的看法与一些教练不同
-a committee is looking at the financing of the BBC:a委员会正在研究BBC的融资情况
+a committee is looking at the financing of the BBC:一个委员会正在研究 BBC 的融资问题
 her father looked unhappy:她父亲看起来很不高兴
 he just didn't look himself at all:他根本没有看自己
 she will look to you for help:她会向你寻求帮助
-universities are looking to expand their intakes:universities正在寻求扩大招生
+universities are looking to expand their intakes:大学正在寻求扩大入学人数
 Look ye obey the masters of the craft:看你们服从手艺大师
 let me get a closer look:让我仔细看看
-the orderly gave me a funny look:theorderly给了我一个有趣的表情
+the orderly gave me a funny look:勤务兵滑稽地看了我一眼
 the government should take a look at the amount of grant the council receives:政府应该看看理事会收到的赠款金额
 the bedraggled look of the village:村子里破烂不堪的样子
 he had charm, good looks, and an amusing insouciance:他有魅力、漂亮的外表和有趣的漫不经心
@@ -272,7 +272,7 @@ coast |kəʊst| Noun/Verb/:,沿海
 the west coast of Africa:非洲西海岸
 once the coast to the moon had begun, Apollo was separated from the third stage:一旦开始向月球的海岸，阿波罗与第三阶段分离
 they were coasting down a long hill:他们正沿着一座长山滑下
-Colchester coasted to victory:Colchester赢得胜利
+Colchester coasted to victory:科尔切斯特取得胜利
 he coasted down the eastern shore:他沿着东海岸滑行
 
 refuse to take notice of or acknowledge, disregard intentionally:拒绝注意或承认，故意无视
@@ -293,21 +293,21 @@ actually existing as a thing or occurring in fact, not imagined or supposed:实�
 used to emphasize the significance or seriousness of a situation:用于强调情况的重要性或严重性
 relating to something as it is, not merely as it may be described or distinguished:与事物的本来面目相关，而不仅仅是它可能被描述或区分的事物
 (of a thing) not imitation or artificial, genuine:（事物的）不是模仿或人造的，真实的
-true or actual:true或实际
+true or actual:真实或实际
 rightly so called, proper:rightly所谓的，正确的
-complete, utter (used for emphasis):complete,utter(用于强调)
+complete, utter (used for emphasis):完整的，完全的（用于强调）
 adjusted for changes in the value of money, assessed by purchasing power:根据购买力评估的货币价值变化进行调整
 (of a number or quantity) having no imaginary part.:（数字或数量）没有虚部。
 (of an image) of a kind in which the light that forms it actually passes through it, not virtual.:（图像的）一种，其中形成它的光实际上穿过它，而不是虚拟的。
 real |rɪəl| Adjective/Adverb/Noun/:真实的,很,真实,真正,实际
-Julius Caesar was a real person:JuliusCaesar是一个真实的人
+Julius Caesar was a real person:朱利叶斯凯撒是一个真实的人
 there is a real danger of civil war:有内战的真正危险
 Locke's distinction between the real and nominal essence of substances:洛克区分物质的真实本质和名义本质
 the earring was presumably real gold:耳环大概是真金
 his real name is James:他的真名是詹姆斯
 he's my idea of a real man:他是我心目中的真男人
 the tour turned out to be a real disaster:这次巡演变成了一场真正的灾难
-real incomes had fallen by 30 per cent:real收入下降了30%
+real incomes had fallen by 30 per cent:实际收入下降了 30%
 
 for real | 真正的,真的
 
@@ -330,7 +330,7 @@ the real | 真实的,真正的
 having the distinctive qualities of a particular type of person or thing:具有特定类型的人或事物的独特品质
 characteristic of a particular person or thing:特定人或事物的特征
 showing the characteristics expected of or popularly associated with a particular person or thing:显示特定人或事物的预期或普遍相关的特征
-representative as a symbol, symbolic:representative作为符号，象征性的
+representative as a symbol, symbolic:代表为象征，具有象征意义
 typical |ˈtɪpɪkl| Adjective/:典型的,典型,代表性的
 a typical day:一个典型的一天
 he brushed the incident aside with typical good humour:他以典型的幽默将事件置之不理
@@ -372,11 +372,11 @@ come into existence or use:产生或使用
 be published or offered for sale:被出版或出售
 present oneself formally in a court or tribunal:在法庭或法庭上正式出庭
 perform publicly in a film, play, etc.:在电影、戏剧等中公开表演。
-feature or be shown:feature或被显示
+feature or be shown:特写或展示
 arrive at a place:到达一个地方
-seem, give the impression of being:seem，给人的印象是
+seem, give the impression of being:似乎，给人的印象是
 appear |əˈpɪə| Verb/:出现,显现
-smoke appeared on the horizon:smoke出现在地平线上
+smoke appeared on the horizon:烟雾出现在地平线上
 the major life forms appeared on earth:地球上出现的主要生命形式
 the paperback edition didn't appear for another two years:平装版又两年没有出现
 he appeared on six charges of theft:他被控六项盗窃罪
@@ -403,9 +403,9 @@ a student of the free market:自由市场的学生
 highly attractive and desirable:极具吸引力和可取性
 delicious food:美味的食物
 yummy |ˈjʌmi| Adjective/Noun/:好吃,美味
-yummy cream cakes:yummy奶油蛋糕
+yummy cream cakes:美味的奶油蛋糕
 who's that yummy guy with the black hair?:那个黑头发的帅哥是谁？
-plates of homemade yummies:plates自制的yummies
+plates of homemade yummies:自制美味的盘子
 
 twelve o'clock at night:晚上十二点
 the middle period of the night:深夜
@@ -420,7 +420,7 @@ the process of combining matrices, vectors, or other quantities under specific r
 addition |əˈdɪʃn| Noun/:添加,加成,增加,加法
 the hotel has been extended with the addition of more rooms:酒店已经扩建，增加了更多房间
 you will find the coat a useful addition to your wardrobe:你会发现这件外套对你的衣橱很有帮助
-she began with simple arithmetic, addition and then subtraction:she从简单的算术、加法和减法开始
+she began with simple arithmetic, addition and then subtraction:她从简单的算术、加法和减法开始
 
 in addition | 此外,另外,除此之外
 

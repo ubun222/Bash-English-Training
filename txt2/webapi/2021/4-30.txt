@@ -1,0 +1,674 @@
+bet				赌
+timetable			时间表
+normality			正常状态
+prime time			黄金时间
+direct				直接的，指示
+state				状况，说明
+eligible			有资格的，合意的
+vaccination			接种
+turn out			结果是，出现
+accordingly			因此，相应的
+shot up				喷出
+inch				少许，缓慢移动
+indication			迹象
+expectation			预料，希望
+spike				尖，尖峰
+significant			重要的，有意义的
+vaccine				疫苗
+roll-out			首次发布
+hesitant			犹豫的
+uptick				小幅增加
+nationally			全国性的
+as of				在...时
+airfare				飞机票价
+route				路途
+sort				种类，某种，分类
+constraint			限制，强迫
+drive up			提高
+particularly			专门，特别
+burn				烧毁
+make up				组成，补偿
+premium				附加费，优质的
+chief				领袖，首要的
+economist			经济学家
+massive				大的，严重的
+leisure				空闲
+\\\\\\\\
+
+vt.&vi. be ~ing 希望；期待（某事发生）:
+vt. [非正式] 用于表明非常确定某事是真的，或某事很可能发生，如敢说，八成儿:
+n. [C] [非正式] 预计、估计（某事发生，或将要发生）:
+vt.&vi. ~ (sth) (on/against sth)（通过预测赛事的结果来）赌钱、打赌、下赌注:
+n. [C]（通过预测赛事的结果进行的）打赌:
+n. [C] 也可指作为赌注的金钱:
+bet |[bet][bet]
+The party is betting that the presidential race will turn into a battle for younger voters. 该党期待这次总统竞选变成一场争取年轻一代选民的斗争。
+People were betting on a further easing of credit conditions. 人们期待着贷款条件进一步放宽。
+I bet (that) we're too late. 我们八成儿太晚了。
+You can bet (that) the moment I sit down, the phone will ring. 几乎可以肯定，我一坐下，电话铃就会响起来。
+I'll bet you (that) he knows all about it. 我敢说他了解一切。
+I bet you were good at games when you were at school. 我敢说你上学时体育很棒。
+I bet you anything you like he's a pimp. 我敢打包票，他是个皮条客。
+My bet is that they've been held up in traffic. 我估计他们是堵车了。
+My bet is that Canada will win. 我敢说加拿大队会赢。
+You have to be over 16 to bet. 赌博者年龄不得低于16岁。
+He bet $2 000 on the final score of the game. 他下2 000元赌比赛的最后比分。
+She bet me £20 that I wouldn't do it. 她和我打20英镑的赌，说我不会那么做。
+Jockeys are forbidden to bet on the outcome of races. 职业赛马骑师禁止对赛马结果下注。
+I bet £10 on a horse called Premonition. 我在一匹名叫“预兆”的赛马上下了10英镑的赌注。
+to win a bet, to lose a bet 赢一场赌；输一场赌 
+good, safe, sure bet 胜算很大的赌；稳赢的赌 
+fair bet 公平的赌 
+bad bet 胜算不大的赌 
+risky bet 冒险的赌 
+outside bet（= with a very small chance of winning）几无胜算的打赌 
+stupid bet 愚蠢的赌 
+big, huge, large bet 大赌 
+small bet 小赌  
+We are now taking bets on the election result. 我们正在就选举结果打赌。
+I made a bet with a friend. 我跟朋友打了个赌。
+We've got a bet on who's going to arrive first. 我们打了个赌，看谁先到。
+‘Liverpool are bound to win. ’ ‘Do you want a bet? ’ (= I disagree with you, I don't think they will.) “利物浦必胜。”“你敢打赌吗？”
+I hear you're taking bets on whether she'll marry him. 我听说你愿意拿她是否会嫁给他的事和人打赌。
+I did it for a bet (= because sb had agreed to pay me money if I did). 我是为了打赌才这么干的。
+I was tempted to place a large bet. 我禁不住诱惑下了一个大赌注。
+I'm going to place a bet on that white horse. 我要在那匹白马身上下注。
+I had a bet on the three o'clock race. 我把赌注押在三点的那场比赛上。
+He had a bet on the horses. 他在那些马上下了赌注。
+They all put a bet on the race. 他们都对比赛下了赌注。
+I did it for a bet (= because sb had agreed to pay me money if I did). 我是为了打赌才这么干的。
+You can put a bet on almost anything these days. 如今几乎可以对任何东西下赌注。
+
+n. [C]（对事情进行计划的）时间表，时间安排，时间计划:
+vt. [尤英] 常用被动式，表示为某事安排时间:
+n. [C] [尤英；美常用schedule] 学校的课程表:
+n. [C] [尤英；美常用schedule]（车、船或飞机等交通工具的）时刻表:
+timetable |['taɪmteɪbl]
+to set out a timetable for the task 为该项任务制定时间表 
+a busy timetable 时间安排得很紧 
+The timetable was too optimistic. 这个时间表过于乐观。
+a specific timetable 具体时间表 
+The test for the new product has been timetabled a week later. 新产品的测试已经安排在了一个星期以后。
+The timetable includes English, history and geography. 课程表上包括英语、历史和地理。
+a full timetable of teaching 满满当当的教学任务表 
+school timetable 学校课程表 
+exam timetable 考试时间表 
+bus, train timetable 公交车时刻表；列车时刻表 
+It said in the timetable that a train was due at 5.30. 时刻表上写着5点30分有一趟火车到站。
+
+n. [U]（也用normalcy，不过normalcy尤用于美式英语）正常状态，常态:
+normality |[nɔ:ˈmæləti;美nɔ:rˈm-]
+They are hoping for a return to normality now that the war is over. 既然战争结束了，他们希望一切都恢复常态。
+A semblance of normality has returned with people going to work and shops reopening. 随着人们开始上班，商店重新开张，表面上一切又恢复了正常。
+
+vt. 监督、指导某人或某事:
+vt. 控制或管理某人或某事:
+adj. 说话直爽的，坦率的，直截了当的:
+vt. 把注意力集中于某个人或某件事:
+vt. [正式] 下达命令或指示。词义上也相当于order，但direct比较强调运用脑力来分析战局，然后指挥调度下属。如果一个具有极大权力的首领不动脑子而发出命令，用command最能表现他的掌控力，如果是一个运筹帷幄的军师经过仔细分析推理后所发出的命令，用direct最能展现他的指挥才能，如果是一个前线将领，用order则最能体现出其麾下将士对其命令的服从。如果是同一人在不同时间分别处于这三种语境中，则依然可以根据强调的侧重点分别采用这三个词。最后，表示“下命令”时，command、order和direct通常会出现于看似相同的语境中，但要注意它们背后的含义:
+vt. 把注意力、情感或行动集中于某个人或某件事:
+vt. 把目光投向某人:
+adj. 只作前置定语，指光直射的:
+vt. 将话语针对某人:
+direct sth at/against sth/sb 把…对准某个方向或某个人，即瞄准:
+adj. 只作前置定语，（长辈与晚辈的关系）直系的，嫡系的:
+vt.＆vi. 导演电影或戏剧:
+adj. 只作前置定语，指热量直射的:
+vt. 将话语针对某人:
+direct sth at/against sth/sb 把…对准某个方向或某个人，即瞄准:
+adj. 1 常作前置定语，不涉及中间的人或事物的，即直接的，亲自的:
+2 运动路线不拐弯的:
+adv. 不涉及其他人或事物地，即亲自地，直接地:
+vt. [正式] direct sth to ... 把信件等送到某个地方或交给某个人:
+vt.＆vi. 指挥管弦乐队等:
+vt.＆vi. 导演戏剧:
+adj. 指旅程中间不停的，即直达的:
+adv. 指旅程直达地，线路径直地。与through未见明显差别:
+vt. direct sb (to ...) 给某人指路，或为某人带路:
+adj. 指道路不拐弯的，即径直的，笔直的:
+adj. 只作前置定语，正好的，恰好的:
+direct |[dɪ'rekt,daɪ-][dɪ'rekt,daɪ-]
+to direct the navy 指挥海军 
+to direct the traffic 指挥交通
+to direct the project 管理该工程 
+direct day-to-day operations 管理日常工作
+to give a direct answer 做出直截了当的回答 
+He asked me some very direct questions. 他问了我一些很直接的问题。
+a direct discussion 直奔主题的讨论
+My attention was directed to the health of my parents. 我把注意力放在父母的健康上了。
+This merely directs attention away from the real issues. 这只不过是将注意力从真正的问题上转开而已。
+We are directing our efforts towards helping young people. 我们正致力于帮助年轻人。
+The judge directed that the murderer should be sentenced to death. 法官判决杀人犯死刑。
+I have been directed to arrest you. 我奉命逮捕你。
+My attention was directed to the health of my parents. 我把注意力放在父母的健康上了。
+Most of my anger was directed against myself. 我主要是生自己的气。
+Tax cuts have been directed primarily at the better-off. 减税主要是针对较富裕阶层。
+The attacks were directed solely at military targets. 攻击只针对军事目标。
+criticism clearly directed at upper management 明显针对高层的批评 
+We are directing our efforts towards/toward helping young people. 我们正致力于帮助年轻人。
+direct sunlight 阳光直射
+The abuse was directed toward him. 辱骂是针对他的。
+His remark was directed at me. 他的话是冲着我来的。
+vt. direct sth to/towards sth/sb 
+to direct the gun at the murderer 把枪对准杀人犯 
+He directed the light straight in her face. 他用灯光直接照向她的脸。
+The machine directs light onto a special film. 机器把光对准一片特殊的胶片。
+a direct descendant of the King 国王的嫡系后裔
+Who did direct the movie? 这部电影是谁导演的？
+The abuse was directed toward him. 辱骂是针对他的。
+His remark was directed at me. 他的话是冲着我来的。
+vt. direct sth to/towards sth/sb 
+to direct the gun at the murderer 把枪对准杀人犯 
+He directed the light straight in her face. 他用灯光直接照向她的脸。
+The machine directs light onto a special film. 机器把光对准一片特殊的胶片。
+direct result, direct experience, direct contact, direct gaze 直接后果；亲身体验；直接联系；直视 
+to have a direct bearing on ... 与…有直接关系 
+Her manner can be rather direct. 她的方式可能相当直接。
+The album is her most emotionally direct work of date. 这是迄今为止最能直接表达她情感的一个专辑。
+a direct hit 直接命中
+to meet his opponent direct 亲自去见对手 
+to sell direct to consumers 直接向消费者销售
+to direct complaints to the after-sale service department 将投诉寄至售后服务部
+a direct train to London 直达伦敦的火车 
+a direct flight 直飞航班 
+to go direct to London 直达伦敦
+Could you direct me to the train station? 请问去火车站该怎么走？
+to be directed into a dark room 被引到一间漆黑的屋子里 
+a detour that directs you through narrow, dimly lit streets 指引你通过狭窄昏暗街道的一条迂回路线
+a direct route 径直的路线 
+the direct opposite 截然相反
+
+n. [C] 一个人或事物所处于的精神（或情感、身体、客观）状态、状况、情况。是一个常规用词，含义极具概括性:
+n. [C] 一个人或事物所处于的精神（或情感、身体、客观）情况:
+vt.（尤指以一种细致而清晰的方式）正式写出或说出某事，具体可称为陈述、说明。是此义的常规用词:
+vt. 1（尤指以一种细致而清晰的方式）正式写出或说出某事，此时在个别语境中可翻译为“声明”（但并非专门表示“声明”，而是“说明”、“陈述”）:
+2 常用被动式，（尤指以一份书面文件的形式）规定或公布某事的细节:
+adj.（也可用State，只用于名词前）由一国政府所提供、控制、资助或组织的:
+n. [C] 也可用State，国家（尤指一些大国）的一部分，可称为州、邦:
+adj. 也可用State，只用于名词前（尤指美国的）州的、邦的:
+adj.（也可用State，只用于名词前）与一国领袖出席一场官方仪式有关的，如国事的、隆重的:
+n. [U, sing.] 也可用the State，一国的政府:
+n. 1 [C] 也可用State，指政治和法律意义上的国家:
+2 [U, sing.] 也可用the State，一国的政府，不过此时也可看作由政府代表的国家，常翻译为“国”、“国家”:
+3 [U] 国家元首或政府高官所享受的正式礼仪、隆重仪式:
+4 [pl.] [非正式] the State可指美国:
+state |[steɪt][steɪt]
+emotional, mental, psychological state 情绪；精神状况；心理状态 
+a confused state of mind 思绪纷乱 
+He was in a state of permanent depression. 他一直处于消沉状态。
+She was in a state of shock. 她震惊不已。
+The soul has reached a state of perfection. 心灵达到了完美境界。
+state of health 健康状况 
+She slipped into a state of unconsciousness. 她陷入了昏迷。
+the state of the country’s economy 国家的经济状况 
+financial state 财务状况 
+The building is in a bad state of repair. 那座房子破败不堪，需要修缮。
+Jane was in a terrible state after losing her job. 简失业以后，情况很糟。
+a state of affairs 形势；事态 
+a state of emergency 紧急状态
+a state of affairs 事态 
+The brothers’ refusal to work together had brought about this sad state of affairs. 他们兄弟拒绝合作，造成了这种糟糕的局面。
+The facts are clearly stated in the report. 报道对事实作了清楚的说明。
+It was stated that standards at the hospital were dropping. 据称，那家医院的医疗水准在不断下降。
+He has already stated his intention to run for election. 他已声明打算参加竞选。
+The contract was stated to be invalid. 那份合同宣布作废。
+You must arrive at the time stated. 你必须在规定时间到达。
+Do not exceed the stated dose (= of medicine). 不要超过规定的剂量。
+Clearly state your address and telephone number. 清楚地写明你的地址和电话号码。
+The police report stated that he was arrested for allegedly assaulting his wife. 警方报告称，他因涉嫌殴打妻子而被捕。
+state education（英）公办教育 
+state school（可指英国的）公立学校 
+state funding, state subsidy, state support 政府出资；政府补贴；政府扶持 
+state benefit（尤英）政府救济金 
+state spending 政府开支 
+state employee 政府雇员 
+font color="orange">
+Southern states 南部各州 
+swing state 摇摆州（指美国大选中选民举棋不定的州）
+state court, state government 州法院；州政府 
+state university 州立大学 
+state police 州警察
+The President is on a state visit to Moscow. 总统正对莫斯科进行国事访问。
+to be is in Washington on a state visit 在华盛顿进行国事访问 
+the state opening of Parliament 隆重的议会开幕式 
+the power of the State 政府的权力 
+the role of the state 政府的作用 
+The state does not collect enough revenue. 政府没有足够的收入。
+the Baltic States 波罗的海诸国 
+member state 成员国 
+neighbouring/neighboring state 邻国 
+welfare state 福利国家 
+city state 城邦 
+sovereign state 主权国家 
+client state 附庸国 
+democratic, socialist, totalitarian state 民主国家；社会主义国家；极权主义国家 
+to create a modern state 创建一个现代国家 
+an independent state 一个独立的国家 
+Mexico is a secular state 墨西哥是个非宗教国家。
+affairs of state, matters of state 国家事务 
+people who are financially dependent on the state 依靠国家救济的人 
+a state-owned company 国有公司 
+an enemy of the state 国家公敌 
+head of state 国家元首 
+The president was driven in state through the streets. 总统乘车隆重地从街上穿过。
+I’ve never been to the States. 我从未去过美国。
+
+having the right to do or obtain something; satisfying the appropriate conditions:拥有做某事或获得某事的权利；满足适当的条件
+(of a person) desirable or suitable as a partner in marriage:（某人的）理想的或适合作为婚姻伴侣的
+eligible |ˈɛlɪdʒɪb(ə)l| Adjective/:有资格的,合格,符合条件
+customers who are eligible for discounts:有资格享受折扣的客户
+the world's most eligible bachelor:世界上最有资格的单身汉
+
+n. [C, U] 疫苗的接种:
+vaccination |[ˌvæksɪˈneɪʃn]
+flu, measles, MMR, rubella, smallpox vaccination 流感疫苗接种；麻疹疫苗接种；麻腮风三联疫苗接种；风疹疫苗接种；天花疫苗接种 
+routine vaccination 常规疫苗接种 
+emergency vaccination 紧急接种 
+compulsory, mandatory（尤美）vaccination 强制接种 
+voluntary vaccination 自愿接种 
+mass, widespread vaccination 大规模的接种；广泛的疫苗接种 
+childhood vaccination 儿童疫苗接种 
+booster vaccination 强化免疫接种 
+I had a routine tetanus booster vaccination last year. 去年我接种了常规破伤风加强针。
+vaccination campaign, vaccination programme/program, vaccination schedule（尤美）疫苗接种运动；疫苗接种计划；疫苗接种时间表 
+vaccination rate 疫苗接种率 
+Vaccination rates remain below 75% of the at-risk adult population. 高危成年人的疫苗接种率仍然低于75%。
+a vaccination against tetanus 破伤风疫苗的接种 
+Make sure your vaccinations are up to date. 一定要接种最新的疫苗。
+
+adv.（尤用于句首）因此，所以:
+adv. 照着:
+adv. 相应地:
+accordingly |[əˈkɔ:dɪŋli;美əˈkɔ:rd-]
+The cost of materials rose sharply last year. Accordingly, we were forced to increase our prices. 去年材料成本大幅度提高，因此我们被迫加价。
+The workforce have recently been calling for their working hours to be reduced. Many companies have accordingly switched to a five-day week. 工人们最近一直在呼吁缩短工作时间。许多公司于是转成了一周五天工作制。
+We have a different background, a different history. Accordingly, we have the right to different futures. 我们有不同的背景和不同的历史。因此，我们有权拥有不同的未来。
+We have to discover his plans and act accordingly. 我们得找出他的计划，照着办。
+It is a difficult job and they should be paid accordingly. 这是份棘手的工作，他们应得到相应的报酬。
+The new government will make a judgment about its interests and act accordingly. 新政府将对其利害得失做出判断，并采取相应的行动。
+
+vt.＆vi. 朝某个方向缓慢而小心地移动；使…朝某个方向缓慢而小心地移动:
+n. [C] 英寸（长度单位，等于2.54厘米，1英尺等于12英寸，inch缩写为in.）:
+n. [C] 短距离:
+n. [C] 短距离:
+inch |[ɪntʃ]
+She moved forward, inching towards the rope. 她小心翼翼地慢慢向绳子挪过去。
+I inched the car forward. 我开着车小心地缓缓前行。
+He inched his way through the narrow passage. 他一点一点地穿过狭窄的通道。
+a climber inching up a vertical wall of rock 一个沿着陡峭的岩壁缓慢往上攀登的人
+She’s a few inches taller than me. 她比我高几英寸。
+He escaped death by an inch. 他差点丧了命。
+The car missed us by inches. 那辆车险些撞到了我们。
+He was just inches away from scoring. 他只差一点儿就得分了。
+He escaped death by an inch. 他差点儿丧了命。
+The car missed us by inches. 那辆车险些撞到了我们。
+He was just inches away from scoring. 他只差一点儿就得分了。
+
+~ (that…) 表明；标示；显示；象征:
+indication |[ˌɪndɪˈkeɪʃn]
+There are clear indications that the economy is improving. 有明显的迹象显示经济已开始好转。
+He shows every indication (= clear signs) of wanting to accept the post. 他显然想接受这个职位。
+They gave no indication of how the work should be done. 他们根本没说明这项工作该怎样做。
+He gave no indication that he was ready to compromise. 他没有妥协的意思。
+All the indications are that the deal will go ahead as planned. 从所有的迹象看，交易将按计划进行。
+All the indications are that we are going to receive reasonable support from abroad. 所有迹象都表明，我们将从国外获得有力支持。           
+
+n. [U, C] 认为:
+n. 1 [C, usually pl., U] 希望（发生某件好事），即希望，盼望:
+2 [C, usually pl.] 对某事的发生方式或某人的行为方式的一种强烈的、近乎不切实际的期望（或指望）:
+expectation (that ...)（因某事很可能发生而）认为某事将发生，即预料、预期:
+expectation |[͵ekspek'teɪʃn]
+There was a general expectation that he would win. 普遍认为他会获胜。
+She went to college with great expectations. 她满怀希望地进了大学。
+The results exceeded our expectations. 结果超出了我们的期望。
+The numbers attending fell short of expectations. 出席的人数比期望的要少。
+The event did not live up to expectations. 这项比赛有负众望。
+Some parents have unrealistic expectations of their children. 有的父母对孩子的期望不切实际。
+Unfortunately, the new software has failed to meet expectations. 遗憾的是新软件并不理想。
+customer expectation 顾客预期 
+market expectation 市场预期 
+economic expectation 经济预期 
+earnings expectation 收入预期 
+career, life expectation 职业生涯的预期；寿命预期
+The expectation is that property prices will rise. 预计地产价格会上涨。
+Contrary to expectations, interest rates did not rise. 出乎意料的是利率并未上升。
+
+a thin, pointed piece of metal, wood, or another rigid material.:一块薄而尖的金属、木头或其他刚性材料。
+a large stout nail, especially one used to fasten a rail to a railway sleeper.:一根粗大的钉子，尤其是用来将铁轨固定在铁路枕木上的钉子。
+each of several metal points set into the sole of a running shoe to prevent slipping.:几个金属点中的每一个都设置在跑鞋的鞋底中以防止滑倒。
+a pair of running shoes with metal points set into the sole.:一双鞋底有金属点的跑鞋。
+a pointed metal rod standing on a base and used for filing paper items such as bills, or journalistic material considered for publication and rejected.:一根尖头金属棒立在底座上，用于归档纸件，如账单或考虑出版但被拒绝的新闻材料。
+a hypodermic needle.:一个皮下注射针。
+a sharp increase in the magnitude or concentration of something:某物的量级或浓度急剧增加
+a pulse of very short duration in which a rapid increase in voltage is followed by a rapid decrease.:一个持续时间非常短的脉冲，其中电压迅速升高，随后迅速降低。
+a hostel ward offering temporary accommodation for the homeless:a宿舍病房为无家可归者提供临时住所
+impale on or pierce with a sharp point:impale用尖头刺穿或刺穿
+injure (a player) with the spikes on one's shoes.:
+(of a newspaper editor) reject (a story) by or as if by filing it on a spike:（报纸编辑的）拒绝（一个故事）通过或好像通过在尖峰上归档它
+stop the progress of (a plan or undertaking); put an end to:停止（计划或事业）的进展；21
+render (a gun) useless by plugging up the vent with a spike.:render（一把枪）用尖刺堵住通风口没用。
+form into or cover with sharp points:形成或覆盖尖尖
+take on a sharp, pointed shape:采取尖锐、尖锐的形状
+increase and then decrease sharply; reach a peak:先增后减；26
+add alcohol or a drug to contaminate (drink or food) surreptitiously:秘密添加酒精或药物以污染（饮料或食物）
+add sharp or pungent flavouring to (food or drink):在（食物或饮料）中添加强烈或刺激性的调味剂
+enrich (a nuclear reactor or its fuel) with a particular isotope:enrich（核反应堆或其燃料）具有特定同位素
+(in volleyball) hit (the ball) forcefully from a position near the net so that it moves downward into the opposite court.:
+fling (the ball) forcefully to the ground, typically in celebration of a touchdown or victory.:fling（球）有力地落地，通常是为了庆祝触地得分或胜利。
+a flower cluster formed of many flower heads attached directly to a long stem.:一个花簇，由许多直接附着在长茎上的花头组成。
+spike |spʌɪk| Noun/Verb/:长钉,用尖物刺入,穗,扣球
+the oil price spike:油价飙升
+he queued at the soup kitchen or the spike:他在施食厨房或秒杀处排队
+she spiked another oyster:
+the editors deemed the article in bad taste and spiked it:编辑认为这篇文章品味不佳并加了钉
+he doubted they would spike the entire effort over this one negotiation:他怀疑他们会在这次谈判中全力以赴
+his hair was matted and spiked with blood:他的头发乱七八糟，沾满了鲜血
+lightning spiked across the sky:闪电划过天空
+oil prices would spike and fall again:石油价格将再次暴涨和下跌
+she bought me an orange juice and spiked it with vodka:她给我买了一杯橙汁，然后加了伏特加
+spike the liquid with lime or lemon juice:在液体中加入酸橙或柠檬汁
+the plutonium mixture could be spiked with caesium-137:钚混合物可以加入铯137
+
+adj. 显著的:
+adj. 数量相当大的:
+adj. 1 [常用于名词前] 有特别含义的（并非所有人都能理解的），意味深长的。相当于meaningful:
+2 有某种意义的:
+adj. 意义重大的:
+significant |[sɪgˈnɪfɪkənt]
+The results of the experiment are not statistically significant. 从统计学的观点看，实验结果意义不明显。
+There are no significant differences between the two groups of students. 这两组学生没有明显差别。
+Your work has shown a significant improvement. 你的工作有了显著改进。
+It is significant that girls generally do better in examinations than boys. 很明显，女生的考试成绩一般比男生的好。
+A small but significant number of 11-year-olds are illiterate. 数量不多但仍有相当一部分11岁孩子是文盲。
+foods that offer a significant amount of protein 富含蛋白质的食物
+significant look, significant smile 意味深长的眼神；意味深长的微笑 
+Mrs Bycraft gave Rose a significant glance. 拜克拉夫特夫人意味深长地瞥了罗丝一眼。
+It is significant that he changed his will only days before his death. 他在临终前几天修改遗嘱，这很能说明问题。
+a highly significant discovery 有重大意义的发现 
+Time would appear to be the significant factor in this whole drama. 时间似乎是整部剧中一个举足轻重的因素。
+very significant piece of legislation 一条非常重要的法规 
+The move was regarded as significant in Japan. 这一举动在日本被认为意义重大。
+What makes this discovery significant is that it goes against our theory. 这一发现的重要意义在于它与我们的理论背道而驰。
+His records are impressive, but equally significant are the methods that he used to achieve them. 他的记录令人印象深刻，但是同样值得注意的是他取得这些记录的方法。
+These differences are not statistically significant. 这些差异在统计学上意义不大。
+biologically, culturally, historically, militarily, politically significant 生物学上意义重大；文化上意义重大；历史上有重大意义；军事上意义重大；政治上意义重大 
+This development proved highly significant for the whole town. 这一，开发对整个城镇来说意义重大。
+rituals which are deeply significant to Christians 对基督徒具有深刻意义的仪式
+
+n. [C, U] 疫苗:
+vaccine |[ˈvæksi:n;美vækˈsi:n]
+effective, safe vaccine 有效的疫苗；安全的疫苗 
+flu, measles, rubella vaccine 流感疫苗；麻疹尤美；风疹疫苗 
+The polio vaccine has saved millions of lives. 脊髓灰质炎疫苗挽救了数以百万计的生命。
+live vaccine 活疫苗 
+a live vaccine containing the polio virus含有脊髓灰质炎病毒的活疫苗 
+one dose of BCG vaccine 一剂卡介苗 
+The vaccine protects babies and children against tuberculosis. 这种疫苗能防止婴幼儿染上肺结核。
+a vaccine to prevent rubella 预防风疹的疫苗 
+$28 million raised for AIDS vaccine research 为艾滋病疫苗研究而筹集的2，800万美元 
+vaccine production 疫苗生产 
+vaccine maker, vaccine manufacturer 疫苗制造者；疫苗生产商 
+vaccine programme/program 疫苗计划 
+vaccine supply 疫苗供应 
+vaccine shortage 疫苗短缺 
+Researchers are trying to develop a vaccine against the disease. 研究人员正在努力研制预防这种疾病的疫苗。
+a vaccine for meningitis 预防脑膜炎的疫苗 
+There is no vaccine against HIV infection. 现在还没有防艾滋病病毒传染的疫苗。
+Anti-malarial vaccines are now undergoing trials. 抗疟疾的疫苗正在试验阶段。
+Seven million doses of vaccine are annually given to British children. 英国孩子每年要接种七百万剂疫苗。
+
+If a company rolls out a new product or service, or if the product or service rolls out, it is made available to the public. 推出 (新产品或服务)
+roll-out |英/美 [rəul'aut]| n. 初次公开展出；[计] 转出/
+Northern Telecom says its products will roll out over 18 months beginning early next year.北方电讯公司表示其产品将从明年初起用18个多月的时间推出。
+On Thursday Microsoft rolls out its new operating system.在星期四微软推出了它的新操作系统。
+
+
+tentative, unsure, or slow in acting or speaking:在行动或说话方面有犹豫、不确定或缓慢
+hesitant |ˈhɛzɪt(ə)nt| Adjective/:犹豫,犹豫不决的
+clients are hesitant about buying:客户对购买犹豫不决
+
+a small increase or slight upward trend:小幅上升或小幅上升趋势
+uptick |ˈʌptɪk| Noun/:上升,上涨
+an uptick in foreign tourism:外国旅游的增长
+
+in a way that relates to a whole nation:以一种与整个国家相关的方式
+nationally |ˈnaʃ(ə)n(ə)li| Adverb/:,全国范围内
+a nationally recognized brand:全国知名品牌
+
+the price to be paid by an aircraft passenger for a particular journey:飞机乘客为特定旅程支付的价格
+airfare |ˈɛːfɛə| Noun/:机票,机票费用
+save a bundle in airfare by flying standby:通过飞行待机节省机票
+
+n. [C] ~ (to sth) 达成某事的途径、渠道:
+vt.＆vi. 按某条线路来发送信息:
+n. [C] ~ (to sth) 达成某事的途径、渠道:
+n. [C] 公共汽车、火车等的固定或常规路线，或运输货物的常规路线:
+n. [C] 常规航线:
+vt.＆vi. 按某条线路来发送人或事物:
+n. 1 [C] ~ (from A to B) 交通路线:
+2 [C] 公共汽车、火车等的固定或常规路线，或运输货物的常规路线:
+3 [sing.] 用于美国干线公路号码前:
+route |[ru:t;NorthAmericanEnglishalsoraʊt]
+the route to success 成功之路
+Satellites route data all over the globe. 卫星向全球各地传递信息。
+the route to success 成功之路
+sea route 海上航线
+air route 空中航线 
+The airline currently flies this route twice a day. 该航空公司现在每天两次飞这条线路。
+Which is the best route to take? 哪一条是最佳路线？
+the shortest route home 回家最短的路线 
+the quickest route from Florence to Rome 从佛罗伦萨到罗马的最快捷的路线 
+Motorists are advised to find an alternative route during road repairs. 道路整修期间，建议驾驶者换一条路线。
+to plan your route carefully 仔细规划你的路线 
+We retraced our route in an attempt to get back on the right path. 我们沿原路返回，想回到正确的路线上。
+main route 主干路线 
+accessible route 通行的路线 
+east-west route 东西向的路线 
+tourist route 游览路线 
+scenic route 观光路线 
+escape route 逃生路线 
+parade route 游行路线 
+Our route lay straight ahead. 我们的路线就在前方。
+route map 路线图 
+air, overland, sea route 空中航线；陆上线路；海上航线 
+cycle route 自行车路线 
+shipping, supply, trade route 航运路线；补给线路；贸易路线 
+coastal route 沿海路线 
+The house is not on a bus route. 这房子不在公交线上。
+The airline currently flies this route twice a day. 该航空公司现在每天两次飞这条线路。
+Route 66 66号公路
+
+vt. [尤英，非正式] 常用被动式，成功处理一个问题；妥当安排某事物或某人:
+n. [C] 在某个方面相似的一群（或一种）人或事物，如种类、类别，相当于kind。但kind还可以是不可数名词:
+vt. sort sth (into sth) 将一些事物（根据其类型等）分配到不同的组里；将一些事物（根据其类型等）按照某种秩序排列；从其他一些事物中分离出某种类型的事物:
+n. [sing.] 计算机技术中可指将数据按照某种顺序进行排列的过程，即分类、排序:
+n. [C, usually sing.] [尤英，非正式] 某一种（或某一类）人:
+sort |[sɔ:t]
+It’s our problem. We’ll get it sorted. 这是我们的问题。我们来处理。
+It’s all sorted. 一切都办妥了。
+It’s time you got yourself sorted. 现在你该把自己的事好好安排一下了。
+Leave them to sort it out among themselves. 让他们自己去解决吧。
+There are all sorts of activities for kids at the campsite.（非正式用法）在营地有为孩子们组织的各种各样的活动。
+This sort of problem is quite common. 这类问题相当普遍。
+He’s the sort of person who only cares about money. 他这种人一心只想着钱。
+The computer sorts the words into alphabetical order. 计算机按字母顺序排列这些单词。
+Rubbish can easily be separated and sorted into plastics, glass and paper. 垃圾很容易分开并归入塑料、玻璃和纸三类。
+Sort the books according to their subject matter. 按照主题把这些书分类。
+We sorted the clothes into piles. 我们把衣服分成堆。
+to do a sort 进行分类
+My brother would never cheat on his wife; he’s not that sort. 我哥哥永远不会背着妻子在外面拈花惹草，他不是那种人。
+
+n. 1 [C] ~ (on sth) 起限制或约束作用的事物。相当于restriction:
+2 [U] 对人的行为的严格约束、严管:
+constraint |[kənˈstreɪnt]
+Water shortages in the area will be the main constraint on development. 水资源匮乏将是制约该地区发展的一个主要因素。
+The government has placed tight constraints on spending this year. 政府今年实行了严格的开支限制。
+budget, budgetary, financial constraint 预算上的限制；财政上的限制 
+Their decision to abandon the trip was made because of financial constraints. 他们决定放弃这次出游是因为财力有限。
+There are major financial constraints on all schools. 所有的学校都面临严重的财政限制。
+This decision will impose serious constraints on all schools. 这项决定将使所有的学校受到各种严格的限制。
+legal, economic, political constraint 法律约束；经济约束；政治约束 
+space, time, money constraint 空间限制；时间限制；资金限制 
+We have to work within severe constraints. 我们得在严格的限制范围内工作。
+At last we could relax and talk without constraint. 我们终于可以放松下来，无拘无束地谈话了。
+I felt free to speak to her without constraint. 同她说话我感到很自由，不拘束。                  
+
+to a higher degree than is usual or average:比平常或平均水平更高
+used to single out a subject to which a statement is especially applicable:用于挑出一个陈述特别适用的主题
+so as to give special emphasis to a point; specifically:以便特别强调一点；具体来说
+particularly |pəˈtɪkjʊləli| Adverb/:特别,尤其,特别是
+I don't particularly want to be reminded of that time:我特别不想被提醒那个时候
+the team's defence is excellent, particularly their two centre backs:球队的防守非常出色，尤其是他们的两个中后卫
+he particularly asked that I should help you:他特别要求我帮你
+
+vi. burn (with sth) [文学] 有一种强烈的渴望:
+vt.＆vi. 使…烧坏、烧伤、烧死；或烧坏、烧伤、烧死:
+vt. [美，非正式] 使某人非常生气:
+vi. burn (with sth) [文学] 有一种强烈的情感:
+vi. 指灯发出光亮:
+vi. [非正式] 朝某个方向迅速移动:
+vt.＆vi. 食物烧焦；使食物烧焦:
+vt. 刻录光盘等:
+vi. 1 燃烧、烧。是“燃烧”的常规用词，最为常用:
+2 尤用于进行时，指某物着火，或烧着:
+vt.＆vi. 燃料燃烧；使燃料燃烧:
+vt.＆vi. 1 使…烧伤、烧死；或烧伤、烧死:
+2 被太阳、热量、酸等灼伤；灼伤:
+n. [C] 由火、热或酸引起的烫伤、烧伤、灼伤；或被灼伤的痕迹:
+vi. 指身体部位感觉热且疼痛:
+n. [sing.] the burn 可指锻炼过度时肌肉所产生的酸痛感:
+burn |[bə:n]
+I’m burning to finish the task as quick as possible. 我渴望尽快完成任务。
+to burn household waste 焚烧生活垃圾 
+Eight people burned to death in the fire. 八人在火灾中丧生。
+The house was burnt to the ground. 那座房子被彻底烧毁。
+The factory burned down last year. 去年工厂烧毁了。
+His words burnt me. 他的话气死我了。
+to be burning with ambition 满怀远大的抱负 
+to be burning with love 满怀炽热的爱 
+Her eyes burned fiercely. 她的眼中怒火在燃烧。
+He was burning with indignation. 他义愤填膺。
+The light is burning. 灯正亮着。
+Their torches burned brightly in the dark. 他们的火把在黑暗中发出明亮的光。
+The car was burning down the road. 汽车沿着公路疾驰而去。
+I smell something burning in the kitchen. 我闻到厨房里有东西烧焦了。
+I burned the toast. 我把面包片烤糊了。
+The fire is burning. 火在燃烧着。
+The wood is burning. 木头在燃烧着。
+a burning car 一辆着火的汽车 
+The fire was still burning fiercely. 大火仍在熊熊燃烧。
+a furnace that burns gas 煤气熔炉 
+to burn calories 消耗热量 
+This fuel burns most efficiently. 这种燃料燃烧效率最佳。
+Several people were burned to death. 有几个人被烧死了。
+My skin burns easily. 我的皮肤容易晒伤。
+Don’t burn your mouth. 别烫了嘴。
+severe burn 严重的烧伤 
+minor, slight burn 轻度烧伤 
+second-degree burn 二级烧伤 
+chemical, cigarette burn 化学烧伤；香烟灼伤 
+burn mark 灼烧痕迹 
+burn wound 烧伤创面 
+burn injury 烧伤 
+50% burn 50%面积的烧伤
+My forehead is burning. 我前额发烫。
+Her cheeks burned with embarrassment. 她尴尬得面颊发烫。
+
+n. [sing.] at a ~ 被需要但很难获取的，即稀缺的、紧缺的、难以得到的:
+n. [C]（基本费用之外的）额外费用、附加费用:
+n. [sing.] at a ~ 以高于平常的价格（买进或卖出）:
+adj. [只用于名词前] 比通常情况高得非常多的（如昂贵的）:
+n. [C]（一次性或分期缴纳的）保险费:
+n. [sing.] place/put a high ~ on sb/sth 极为珍视、高度重视:
+adj. [只用于名词前] 高品质的:
+premium |[ˈpri:miəm]
+If space is at a premium, choose adaptable furniture that won't fill the room. 如果空间有限，就选择一些不会把房间占得很满的可改装家具。
+Space is at a premium in a one-bedroomed apartment. 单居室公寓的空间是很有限的。
+You have to pay a high premium for express delivery. 快递须付高额的附加费。
+A premium of 10% is paid out after 20 years. 20年后要付清10%的额外费用。
+Even if customers want 'solutions', most are not willing to pay a premium for them. 即使顾客想得到“解决方案”，他们大多数也不愿意为此支付额外费用。
+Callers are charged a premium rate of 48p a minute. 打电话要支付每分钟48便士的附加费。
+The company is charging a pretty hefty premium for access to their network. 该公司正在对登录其网络收取可观的额外费用。
+Electricity companies pay a premium for renewable energy. 电力公司为可再生能源支付额外的费用。
+He eventually sold the shares back to the bank at a premium. 他最后以高价把股票回售给银行。
+Good hotels are at a premium (= difficult to obtain and therefore expensive). 好的酒店收费高。
+bought at a premium of 40% above the current market price 以高于当前市场价格的40%购买 
+premium prices 奇高的价格 
+At the premium end of the market, business is booming. 高端市场业务繁荣。
+a monthly premium of £6.25 每月6.25英镑的保险费 
+Intense competition has kept premiums low. 激烈的竞争使得保险费保持在低位。
+insurance premium 保险费 
+health-care（尤美）, health insurance premium 医疗保险费 
+the rising cost of medical malpractice insurance premiums 医疗事故保险费的成本上升 
+We're struggling to keep up our premiums. 我们正勉力继续支付保险费。
+The insurance company has increased our premiums. 保险公司提高了我们的保险费。
+My insurance premiums increase each year. 我的保险费每年增加。
+The additional premium costs $1 800 a year. 额外保险费每年要花1,800美元。
+premium rate 保险费率 
+premium increase 保险费的提高 
+the premiums for your pension plan 为你的退休金计划支付的保险费 
+Premiums on many cars will go up this year. 今年许多汽车的保险费会上调。
+risk premium 风险溢价 
+There's a risk premium of probably $10 a barrel built into oil prices. 每桶石油的价格中约有10美元的风险溢价。
+equity premium 权益溢价 
+equity risk premiums 权益风险溢价
+I place a high premium on what someone is like as a person. 我非常重视一个人的人品。
+They put a high premium on prevention and primary care. 他们对预防和初级护理极为重视。
+The company places a high premium on customer loyalty. 该公司非常重视客户的忠诚度。
+premium products 优质产品 
+At the premium end of the market, business is booming. 高端市场业务繁荣。
+the most popular premium ice cream in this country 这个国家最受欢迎的优质冰激凌
+
+adj. 1（常写作Chief）级别最高的，即首席的:
+2 –in-chief 用于构成名词，指级别最高的:
+n. [C] 公司或机构中高级别（或最高级别）的一个人，即领导:
+n. 1 [C] 政治上的领导:
+2 [C]（常用作头衔）（一群人或一个社区的）首领:
+adj. 只用于名词前，最重要的，主要的:
+chief |[tʃi:f][tʃi:f]
+the chief financial officer of the company 公司的首席财务官 
+Detective Chief Inspector Williams 探长威廉斯 
+commander-in-chief 总司令 
+corporate, council, fire, industry, union chief 公司总裁；理事会会长；消防队队长；行业领袖；工会领袖 
+branch, division, section chief 分支机构主管；部门主管 
+marketing chief 营销部主管
+tribal, village chief 部落酋长；村长 
+army, intelligence, military, party, police, station, union chief 陆军司令；情报局局长；军事首领；政党领袖；警察局长；站长；工会领袖 
+counterterrorism, education, finance, marketing, etc. chief 反恐负责人；教育部部长；财政部部长；市场营销部主管等 
+chief of staff 参谋长 
+Chief Jack 杰克酋长
+chief cause, chief problem, chief reason 主要原因；主要问题；主要理由 
+chief rivals 主要对手
+
+n. [C] 经济学家:
+economist |[ɪˈkɒnəmɪst;美ɪˈkɑ:n-]
+academic, government, professional economist 理论经济学家；政府经济学家；专业经济学家 
+classical, free-market, Keynesian, liberal, neoclassical economist 古典主义经济学家；自由市场主义经济学家；凯恩斯主义经济学家；自由主义经济学家；新古典主义经济学家 
+conservative, mainstream, progressive economist 保守经济学家；主流经济学家；进步经济学家 
+agricultural, political 农业经济学家；政治经济学家
+
+adj. 1 非常大、重且结实的:
+2 巨大的:
+adj.（疾病）十分严重的:
+massive |[ˈmæsɪv]
+a massive rock 一块巨大的岩石 
+the massive walls of the castle 厚实坚固的城堡围墙 
+Their house is massive.（英，非正式）他们的房子大极了。
+They have a massive great house. 他们有一座非常大的房子。
+The explosion made a massive hole in the ground. 爆炸在地面留下了一个巨大的坑。
+a massive increase in spending 开支的大幅度增加 
+There was evidence of massive fraud. 有证据表明是巨额欺诈。
+massive air attacks 大规模空袭
+He suffered a massive heart attack. 他的心脏病严重发作了。
+
+n. [U] 空闲、休闲、闲暇:
+leisure |[ˈleʒə(r);美ˈli:ʒər]
+leisure hours, time 闲暇时光 
+leisure activities, leisure interests, leisure pursuits 休闲活动；业余爱好 
+leisure centre（英）, leisure complex（尤英）休闲活动中心；休闲综合楼 
+leisure facilities 休闲设施 
+leisure industry 休闲业 
+leisure travel, leisure traveller/traveler 休闲旅游；休闲游客 
+These days we have more money and more leisure to enjoy it. 如今我们有更多的钱和空闲时间来享受了。
+You will be able to stroll at leisure through the gardens. 您可在花园里闲逛。
+He could read all the national papers at his leisure. 他可以悠然阅读所有的全国性报纸。               

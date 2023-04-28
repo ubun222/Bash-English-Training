@@ -61,7 +61,7 @@ chief, principal:首席，校长
 (in an unfavourable sense) pre-eminent of its kind, out-and-out:（在不利的意义上）同类中的佼佼者，彻头彻尾的
 arch- |ɑːtʃ| CombiningForm/:拱-,拱门-,拱——
 archbishop:大主教
-arch-enemy:arch-enemy
+arch-enemy:大敌
 
 a person who writes poems.:一个写诗的人。
 a person possessing special powers of imagination or expression:具有特殊想象力或表达能力的人
@@ -73,11 +73,11 @@ a small sail for keeping the head of a windmill towards the wind.:一个小帆�
 a handheld device, typically folding and shaped like a segment of a circle when spread out, that is waved so as to cool the person holding it:一种手持设备，通常折叠起来，展开时形状像一段圆形，挥动以冷却拿着它的人
 a thing resembling an open fan:一个类似于打开风扇的东西
 a fan-shaped alluvial or talus deposit at the foot of a slope:斜坡脚下的扇形冲积或距骨沉积物
-cool (someone or something) by waving an object to create a current of air:cool（某人或某物）通过挥动物体来产生气流
+cool (someone or something) by waving an object to create a current of air:通过挥动物体产生气流来冷却（某人或某物）
 (of breath or a breeze) blow gently on:（呼吸或微风的）轻轻地吹
-brush or drive away with a waving movement:brush或挥手离开
-swing unsuccessfully at the ball or puck:swing在球或冰球上不成功
-strike out (a batter):strikeout（击球手）
+brush or drive away with a waving movement:挥舞着刷子或开车离开
+swing unsuccessfully at the ball or puck:在球或冰球上挥杆失败
+strike out (a batter):三振（击球手）
 increase the strength of (a fire) by blowing on it or stirring up the air near it:通过对着它吹或搅动它附近的空气来增加（火）的强度
 cause (a belief or emotion) to become stronger or more widespread:使（信念或情绪）变得更强大或更广泛
 disperse or radiate from a central point to cover a wide area:分散或从中心点辐射到大范围覆盖
@@ -91,7 +91,7 @@ he fanned himself with his hat:他用帽子扇风
 his breath fanned her skin as he leant towards her:他靠向她时，他的呼吸扇动着她的皮肤
 a veil of smoke which she fanned away with a jewelled hand:她用宝石般的手扇开的烟雾
 he had fanned 37 times in 83 at-bats:他在83次击球中扇了37次
-Norris fanned nine batters with his screwball:Norris用他的古怪球扇了九个击球手
+Norris fanned nine batters with his screwball:诺里斯用他的神经球煽动了九名击球手
 fanned by an easterly wind, the fire spread rapidly:东风吹起，火势迅速蔓延
 a fury fanned by press coverage:a媒体报道煽动的愤怒
 the arriving passengers began to fan out through the town in search of lodgings:到达的乘客开始在镇上散开寻找住处
@@ -111,14 +111,14 @@ the part of a garment that covers the chest:覆盖胸部的衣服部分
 face and move forwards against or through (something):面对或通过（某物）向前移动
 reach the top of (a hill):到达（山顶）的顶端
 breast |brɛst| Noun/Verb/:胸部,登上顶部,乳房
-Caroline crossed her arms over her breasts:Caroline双臂交叉在胸前
-wild feelings of frustration were rising up in his breast:wild挫败感在他的胸中升起
-Lisa popped a breast of chicken into the microwave:Lisa将鸡胸肉放入微波炉
+Caroline crossed her arms over her breasts:卡罗琳双臂交叉放在胸前
+wild feelings of frustration were rising up in his breast:强烈的挫败感在他的胸中升起
+Lisa popped a breast of chicken into the microwave:丽莎将鸡胸肉放入微波炉
 I watched him breast the wave:我看着他胸前的海浪
 a pair of riders breasted the rise ahead:一对骑手冲上前去
 
 the part of a garment that wholly or partly covers a person's arm:完全或部分覆盖人手臂的衣服部分
-a protective paper or cardboard cover for a record, CD, or DVD:一张唱片、CD或DVD的保护纸或硬纸板封面
+a protective paper or cardboard cover for a record, CD, or DVD:唱片、CD 或 DVD 的保护纸或硬纸板封面
 a protective or connecting tube fitting over or enclosing a rod, spindle, or smaller tube.:在杆、心轴或更小的管上或包围杆、轴或更小管的保护性或连接管配件。
 a windsock.:一个风向袋。
 a drogue towed by an aircraft.:一架飞机拖曳的锥套。
@@ -157,14 +157,14 @@ driven by electrical energy:电能驱动
 the rate of doing work, measured in watts or less frequently horse power.:做功的速度，以瓦特或更少的马力来衡量。
 the product obtained when a number is multiplied by itself a certain number of times:一个数与自身相乘一定次数后得到的乘积
 a large number or amount of something:大量或大量的东西
-supply (a device) with mechanical or electrical energy:supply（设备）用机械能或电能
+supply (a device) with mechanical or electrical energy:为（设备）提供机械能或电能
 switch a device on or off:打开或关闭设备
 move or travel with great speed or force:以极快的速度或力量移动或旅行
-direct (something, especially a ball) with great force:direct（某物，尤其是球）有很大的力量
+direct (something, especially a ball) with great force:用巨大的力量直接（某物，尤其是球）
 power |ˈpaʊə| Noun/Verb/:力量,驱动,功率,权力,电源
 a political process that offers people power over their own lives:一个政治进程，让人们能够掌控自己的生活
 the party had been in power for eight years:党执政八年
-police do not have the power to stop and search:police无权拦截和搜查
+police do not have the power to stop and search:警察无权拦截和搜查
 the sea power of Venice:威尼斯的海上力量
 a great colonial power:一个伟大的殖民大国
 he was a power in the university:他是大学里的强者
@@ -181,8 +181,8 @@ a power drill:a电钻
 there's a power of difference between farming now and when I was a lad:现在的农业和我小时候有很大的不同
 the car is powered by a fuel-injected 3.0-litre engine:该车由燃油喷射3.0升发动机提供动力
 the officer powered up the fighter's radar:军官启动了战斗机的雷达
-he powered round a bend:he过弯
-Nicholas powered a header into the net:Nicholas头球入网
+he powered round a bend:他过弯
+Nicholas powered a header into the net:尼古拉斯头球破门
 
 travelling through (a place) en route to a destination:在前往目的地的途中经过（一个地方）
 by way of, through:通过，通过
@@ -199,7 +199,7 @@ the smallest recognized amount by which a price of a security or future may fluc
 mark (an item) with a tick or select (a box) on a form, questionnaire, etc. to indicate that something has been chosen, checked, approved, or dealt with:在表格、问卷等上用打勾或选择（框）标记（项目），以表明某事已被选择、检查、批准或处理
 (of a clock or other mechanical device) make regular short, sharp sounds, typically one for every second of time that passes:（时钟或其他机械设备）发出有规律的短促尖锐的声音，通常每经过一秒就发出一次
 a parasitic arachnid that attaches itself to the skin of a terrestrial vertebrate from which it sucks blood, leaving the host when sated. Some species transmit diseases, including tularaemia and Lyme disease.:一种寄生蛛形纲动物，它附着在陆生脊椎动物的皮肤上，从那里吸血，饱足后离开宿主。一些物种传播疾病，包括土拉菌病和莱姆病。
-a parasitic louse fly, especially the sheep ked.:a寄生虱蝇，尤其是羊ked。
+a parasitic louse fly, especially the sheep ked.:一种寄生虱蝇，尤其是羊。
 a worthless or contemptible person:一个毫无价值或可鄙的人
 a fabric case stuffed with feathers or other material to form a mattress or pillow.:一个布袋，里面塞满了羽毛或其他材料，形成床垫或枕头。
 tick |tɪk| Noun/Verb/:打钩,钩号,蜱,打勾,勾选
@@ -226,11 +226,11 @@ rest from work or engage in an enjoyable activity so as to become less tired or 
 cause (a limb or muscle) to become less rigid:导致（肢体或肌肉）变得不那么僵硬
 make (something) less firm or tight:使（某物）不那么坚固或紧绷
 straighten or partially uncurl (hair) using a chemical product.:使用化学产品拉直或部分展开（头发）。
-make (a rule or restriction) less strict:make（规则或限制）不那么严格
+make (a rule or restriction) less strict:使（规则或限制）不那么严格
 relax |rɪˈlaks| Verb/:放松,放松一下
 the team relax with a lot of skiing:团队通过大量滑雪来放松身心
 relax the leg by bringing the knee towards the chest:通过将膝盖移向胸部来放松腿部
-Cicely relaxed her hold:Cicely松开手
+Cicely relaxed her hold:Cicely放松了她的抱
 the ministry relaxed some of the restrictions:该部放宽了部分限制
 
 a picture or diagram made with a pencil, pen, or crayon rather than paint:用铅笔、钢笔或蜡笔而不是颜料制作的图片或图表
@@ -261,12 +261,12 @@ a disreputable and violent person:一个声名狼藉和暴力的人
 (on a golf course) longer grass around the fairway and the green:（在高尔夫球场上）球道和果岭周围的长草
 a preliminary sketch:初步草图
 an uncut precious stone:一块未切割的宝石
-work or shape (something) in a rough, preliminary fashion:workorshape(something)inarough,初步的方式
-make uneven:make不均匀
+work or shape (something) in a rough, preliminary fashion:以粗略、初步的方式工作或塑造（某物）
+make uneven:使不均匀
 live in discomfort with only basic necessities:生活在只满足基本必需品的不适中
 rough |rʌf| Adjective/Adverb/Noun/Verb/:粗糙的,暴徒,粗鲁地,粗,粗糙
 they had to carry the victim across the rough, stony ground:他们不得不将受害者抬过崎岖多石的地面
-pushchairs should be capable of withstanding rough treatment:pushchairs应该能够承受粗暴的对待
+pushchairs should be capable of withstanding rough treatment:婴儿车应该能够承受粗暴对待
 the workmen hate going to the rough estates:工人讨厌去粗糙的庄园
 the lifeboat crew braved rough seas to rescue a couple:救生艇船员冒着波涛汹涌的海面营救一对夫妇
 the customers sat at rough wooden tables:顾客们坐在粗糙的木桌旁
@@ -283,7 +283,7 @@ treat 'em rough but treat 'em fair:对待他们粗暴但公平对待他们
 the rear of the column was attacked by roughs:纵队后方被长草袭击
 his second shot lay in the rough:他的第二杆在长草中
 I did a rough to work out the scale of the lettering:我粗略计算了字体的比例
-miners discovered one of the biggest diamond roughs in history:miners发现了历史上最大的钻石原石之一
+miners discovered one of the biggest diamond roughs in history:矿工发现了历史上最大的钻石原石之一
 the piece of glass is now roughed into a circular form:这块玻璃现在被粗加工成圆形
 the water was roughed by the wind:水被风刮过
 she'd had to rough it alone in digs:她不得不独自一人在挖掘中
@@ -293,7 +293,7 @@ systematic |ˌsɪstɪˈmatɪk| Adjective/:系统的,系统化的
 a systematic search of the whole city:全城系统搜索
 
 a person who cuts men's hair and shaves or trims beards as an occupation:一个以剪男人头发和刮胡子或修剪胡须为职业的人
-cut or trim (a man's hair):cutortrim（男人的头发）
+cut or trim (a man's hair):剪或修剪（男人的头发）
 barber |ˈbɑːbə| Noun/Verb/:理发师,理发店
 he had his hair cut at the local barber's:他在当地的理发店剪了头发
 his hair was neatly barbered:他的头发被修剪得很整齐
@@ -310,7 +310,7 @@ any of various periods of civil war or unrest in Ireland, especially in 1919–2
 cause distress or anxiety to:造成困扰或焦虑
 be distressed or anxious about:be苦恼或焦虑
 cause (someone) pain:导致（某人）疼痛
-cause (someone) inconvenience (typically used as a polite way of asking someone to do something):cause(someone)inconvenience（通常用作要求某人做某事的礼貌方式）
+cause (someone) inconvenience (typically used as a polite way of asking someone to do something):给（某人）造成不便（通常用作要求某人做某事的礼貌方式）
 make the effort required to do something:努力做某事
 trouble |ˈtrʌbl| Noun/Verb/:麻烦,烦恼
 I had trouble finding somewhere to park:我找不到停车的地方
@@ -371,10 +371,10 @@ the overall sound of a musical recording, as determined by the way in which it i
 production |prəˈdʌkʃn| Noun/:生产,制作
 banning the production of chemical weapons:禁止生产化学武器
 non-intensive methods of food production:非集约化食品生产方法
-steel production had peaked in 1974:steel的产量在1974年达到顶峰
+steel production had peaked in 1974:钢铁产量在 1974 年达到顶峰
 excess production of collagen by the liver:肝脏产生过多的胶原蛋白
 a production model:a生产型
-members are entitled to a discount on production of their membership card:members有权在制作会员卡时享受折扣
+members are entitled to a discount on production of their membership card:会员有权在出示会员卡时享受折扣
 the film was still in production:这部电影还在制作中
 an exciting new production of La Traviata:茶花女的激动人心的新作品
 the record's production is gloriously relaxed:唱片的制作很轻松
@@ -398,7 +398,7 @@ the liquid song of the birds:鸟儿的液体之歌
 
 the period following the onset of puberty during which a young person develops from a child into an adult:青春期开始后青年从儿童发展为成人的时期
 adolescence |ˌadəˈlɛsns| Noun/:青春期,青少年时期
-Mary spent her childhood and adolescence in Europe:Mary在欧洲度过了她的童年和青春期
+Mary spent her childhood and adolescence in Europe:玛丽在欧洲度过了她的童年和青春期
 
 a person living next door to or very near to the speaker or person referred to:住在说话者或被提及的人隔壁或非常靠近的人
 a person or place in relation to others next or near to it:与旁边或附近的其他人相关的人或地方
@@ -438,7 +438,7 @@ the first form of a school or college.:学校或学院的第一种形式。
 a first edition of a book:一本书的第一版
 foremost in position, rank, or importance:最重要的位置、等级或重要性
 the most pressing, likely, or suitable:最紧迫、最可能或最合适的
-firstly, in the first place (used to introduce a main point or reason):firstly，放在首位（用于介绍要点或理由）
+firstly, in the first place (used to introduce a main point or reason):Firstly, in the first place（用于介绍一个要点或原因）
 in preference, rather (used when strongly rejecting a suggestion or possibility):in优选，而不是（在强烈拒绝建议或可能性时使用）
 the first finisher or position in a race or competition.:比赛或比赛中的第一个完赛者或位置。
 performing the highest or chief of two or more parts for the same instrument or voice:为同一乐器或声音演奏两个或多个声部的最高声部或主要声部
@@ -453,26 +453,26 @@ his first wife:他的第一任妻子
 her first day at school:她上学的第一天
 the first house I came to:我来的第一所房子
 Do you mind if I take a shower first?:你介意我先洗个澡吗？
-she first picked up a guitar out of sheer boredom:she第一次拿起吉他纯粹是因为无聊
+she first picked up a guitar out of sheer boredom:她第一次拿起吉他纯粹是因为无聊
 we travelled by air, a first for both of us:我们乘飞机旅行，我们俩都是第一次
 he stuck the car in first and revved:他先把车卡住，然后加速
 he made it all the way home from first:他从一开始就一路回家
 collectors of modern firsts:现代第一的收藏家
 the doctor's first duty is to respect this right:医生的首要职责是尊重这项权利
 he is the first to admit he was not the best of patients:他是第一个承认自己不是最好的病人的人
-first, it is wrong that the victims should have no remedy:first，受害者不应该得到补救是错误的
+first, it is wrong that the victims should have no remedy:第一，受害者无药可救是错误的
 she longed to go abroad, but not at this man's expense—she'd die first!:她渴望出国，但不以这个男人为代价——她会先死！
 the first violins:第一把小提琴
 First Lord of the Admiralty:第一海军大臣
-chaps with firsts from Oxbridge:chaps是牛津剑桥的第一人
+chaps with firsts from Oxbridge:牛剑第一的小伙子
 he was asked to play for the firsts:他被要求为第一场比赛
-factory firsts, seconds, and discontinued styles:factory第一、第二和停产款式
+factory firsts, seconds, and discontinued styles:工厂第一、第二和停产的款式
 the car plunged nose first into the river:车头先掉进河里
 
 a simplified drawing showing the appearance, structure, or workings of something, a schematic representation:显示某物的外观、结构或工作原理的简化图，示意图
 a figure composed of lines that is used to illustrate a definition or statement or to aid in the proof of a proposition.:由线条组成的图形，用于说明定义或陈述或帮助证明命题。
 a graphical schedule for operating railway locomotives and rolling stock in order to provide a desired service.:用于操作铁路机车和机车车辆以提供所需服务的图形时间表。
-represent (something) in graphic form:represent（某物）以图形形式
+represent (something) in graphic form:以图形形式表示（某物）
 schedule the operations of (a locomotive or train) according to a diagram.:根据图表安排（机车或火车）的运行。
 diagram |ˈdʌɪəɡram| Noun/Verb/:,图,示意图
 a diagram of the living room:客厅示意图
@@ -489,7 +489,7 @@ memory |ˈmɛm(ə)ri| Noun/:记忆,存储,内存
 I've a great memory for faces:我对面孔有很好的记忆力
 he searched his memory frantically for an answer:他疯狂地在记忆中寻找答案
 one of my earliest memories is of sitting on his knee:我最早的记忆之一是坐在他的膝盖上
-clubs devoted to the memory of Sherlock Holmes:clubs致力于纪念福尔摩斯
+clubs devoted to the memory of Sherlock Holmes:致力于纪念夏洛克·福尔摩斯的俱乐部
 the worst slump in recent memory:最近记忆中最严重的低迷
 the module provides 16Mb of memory:模块提供16Mb内存
 
@@ -498,13 +498,13 @@ not satisfied or pleased with (a situation):不满意或不满意（一种情况
 unfortunate:不幸
 unhappy |ʌnˈhapi| Adjective/:不开心,不高兴
 an unhappy marriage:一段不幸福的婚姻
-many were unhappy about the scale of the cuts:many对削减的规模感到不满
+many were unhappy about the scale of the cuts:许多人对削减规模感到不满
 an unhappy coincidence:一个不幸的巧合
 
 far away in space or time:遥远的空间或时间
 (after a measurement) at a specified distance:（测量后）在指定距离
 (of a sound) faint because far away:（声音的）因为远而昏倒
-remote or far apart in resemblance or relationship:remote或相距甚远的相似或关系
+remote or far apart in resemblance or relationship:在相似或关系上遥远或相距甚远
 (of a person) not closely related:（一个人的）没有密切关系的
 (of a person) not intimate, cool or reserved:（某人的）不亲密、冷静或矜持
 not paying attention, remote:不注意，远程
@@ -521,16 +521,16 @@ a barrier, railing, or other upright structure, typically of wood or wire, enclo
 a large upright obstacle in steeplechasing, showjumping, or cross-country.:障碍赛、障碍赛或越野赛中的一个巨大的直立障碍。
 a guard or guide on a plane, saw, or other tool.:飞机、锯子或其他工具上的警卫或向导。
 a person who deals in stolen goods.:经营赃物的人。
-surround or protect with a fence:surround或用栅栏保护
+surround or protect with a fence:用栅栏包围或保护
 enclose or separate an area with a fence:用栅栏围住或分隔一个区域
 use a barrier to exclude someone or something:使用障碍排除某人或某事
-buy or sell (stolen goods):buyorsell（被盗商品）
+buy or sell (stolen goods):买卖（赃物）
 engage in the sport of fencing.:从事击剑运动。
 conduct a discussion or argument in an evasive way:以回避的方式进行讨论或争论
 fence |fɛns| Noun/Verb/:栅栏,圈起,篱笆
 our garden was not fully fenced:我们的花园没有完全围起来
 a small plantation of young trees had been fenced off:一小片幼树种植园被围起来
-walkers may find themselves fenced out of the moor:walkers可能会发现自己被围在荒野之外
+walkers may find themselves fenced out of the moor:步行者可能会发现自己被围在荒野之外
 after stealing your ring, he didn't even know how to fence it:偷了你的戒指后，他甚至不知道怎么围起来
 twelve months of fencing with McLaren had taken a toll on his nerves:12个月的迈凯轮击剑比赛让他的神经受到了打击
 
@@ -539,11 +539,11 @@ an audience, especially one at a sporting event:猖獗的植物会挤掉不那�
 a group of people who are linked by a common interest or activity:一群因共同兴趣或活动而联系在一起的人
 the mass or multitude of ordinary people:广大或众多的普通人
 a large number of things regarded collectively:大量事物的统称
-(of a number of people) fill (a space) almost completely, leaving little or no room for movement:(ofanumberofpeople)几乎完全填满（一个空间），几乎没有或根本没有移动空间
+(of a number of people) fill (a space) almost completely, leaving little or no room for movement:（许多人）几乎完全填满（一个空间），几乎没有或没有活动空间
 (of a number of people) move into (a restricted space):（若干人）搬进（限制空间）
 (of a group of people) form a tightly packed mass around:（一群人）围成一团
-move too close to (someone):move太靠近（某人）
-overwhelm and preoccupy (someone):overwhelm和全神贯注（某人）
+move too close to (someone):离（某人）太近
+overwhelm and preoccupy (someone):压倒和全神贯注（某人）
 exclude someone or something by taking their place:排除某人或某事，取代他们的位置
 crowd |kraʊd| Noun/Verb/:人群,群众
 a huge crowd gathered in the street outside:一大群人聚集在外面的街道上

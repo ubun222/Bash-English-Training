@@ -1,0 +1,821 @@
+figure					数字，人物，身材，插图，合乎情理，认为
+frighten					使...惊恐
+preindustrial				工业化前的
+furnish					为...配备家具，提供
+scarcity					匮乏，稀有
+transform					改变
+misled					误导
+intervene					介入，阻碍
+vary						相异，变化，改变
+bureaucracy					官僚主义，政府官员
+recruiter					征兵人员
+pattern					图案，榜样，模式，模仿，样品
+necessity					必要，必需品
+deny						否认，拒绝给予
+drift						漂流，顺其自然，流动，偏航
+endorsement					支持，认可，宣传
+dare						激，敢，激将
+consultancy					咨询公司，咨询的
+constant					持续的，不变的，常数
+deposit					放下，存放，使...沉积，定金
+transmit					传播，广播
+undermine					暗中颠覆，暗中破坏，侵蚀
+resign					辞职
+respective					各自的
+consent					同意
+reunion					团聚
+premium					附加费，优质的
+interpretation				理解，说明，口译
+concrete					具体的，混凝土
+facility					场所，特色服务，便利，才能
+facilities					设施
+\\\\\\\\
+
+vt. [非正式] 想或认为（某事将发生或属实）:
+vi. figure (as sth) (in/among sth) 无被动形式，指出现于…或被包括于…中，是某个进程、情况等的一部分（常是重要部分），相当于feature:
+n. [C] 人的身材或体形，尤指女性的好身材。是此义的常规用词:
+n. [C]（书籍或杂志中的有数字编号的）图表:
+n. [C]（几何学中由线或面所构成的）图形，尤指规则图形:
+vt. [美] 计算（数量或成本等）。词义上相当于calculate:
+n. 1 [C, often pl.] 数字，尤指官方资料中的统计数字:
+2 [C] 0到9（包含0到9）之间的十个个位数字；还可指位数:
+n. [C] 某类人，常指重要人士，即人物:
+n. [C] 冰上表演的一系列动作或花样:
+n. [C] 人或动物等的雕像，塑像:
+n. [C]（绘画中的）人或动物:
+n. [C]（故事中的）人或动物:
+n. [pl.] [非正式] figures 可表示算术，相当于arithmetic:
+n. [C]（远处的）人的轮廓，或（看不清楚的）人影:
+figure |['fɪɡə]
+He figured that he had learned a lot from the experience. 他想他从这次经历中学到了很多。
+I figure the sensible thing to do is to wait. 我认为，明智的做法是等待。
+That’s what I figured. 这就是我的看法。
+Environmental protection figured prominently in the report. 环境保护出现在报告中的显要位置。
+Nuclear disarmament is likely to figure prominently in the talks. 核裁军很可能是这次会谈的重点。
+He didn’t think their suggestions figure at all. 他认为他们的意见无足轻重。
+It did not figure high on my list of priorities. 这不在我最优先处理的事项之内。
+Vegetables hardly figure at all in their diet. 他们的食谱中几乎见不到蔬菜。
+This man did not figure among the suspects. 这名男子不在嫌疑犯之列。
+curvy figure 有曲线美的身材 
+sexy figure 性感的体形 
+slim figure 苗条的身材 
+large figure 魁梧的身材 
+towering figure 高大的身材 
+tiny figure 娇小的身材 
+She takes pride in her figure. 她为她的身材感到骄傲。
+He cut a dashing figure in his uniform. 他穿着制服，非常潇洒。
+a fine figure of a man 身材很好的男子
+See Figure 8. 见表8。
+a regular five-sided figure 一个规则的五边形 
+a solid figure 立体图形
+official figure 官方数字 
+latest figure 最新数字 
+inflated figure 夸大的数字 
+target figure 目标数字 
+attendance, sales, trade figure 出席人数；销售数字；贸易数字 
+the inflation figure 通货膨胀的数字 
+unemployment figure 失业数字 
+audience figure（尤英）观众数字 
+real figure 真实的数字 
+The figures on the screen read 8:45 a.m. 屏幕上的数字显示上午8点45分。
+the figure ‘3’ 数字“3” 
+a six-figure salary 六位数的薪水 
+single figures 一位数 
+double figures 两位数 
+high figure 高数值
+a figure of authority 权威人士 
+a leading figure in the music industry 音乐界的一位重要人物 
+public figure 公众人物 
+senior figure 资深人士 
+He was a familiar figure in the town. 小镇上的人都认识他。
+tragic figure 悲剧人物 
+ridiculous figure 可笑的人物 
+heroic, legendary, mythological figure 英雄人物；传奇人物；神话中的人物 
+historical figure 历史人物 
+literary, political figure 文学作品中的人物；政治人物 
+a figure of fun 有趣的人
+a life-size bronze figure 一个真人大小的铜像 
+a stone figure of a lion 一座石狮子雕像
+The major figure in the painting is her mother. 画中的主角是她的妈妈。
+the central figure in the photo 照片里的中心人物 
+figure painter 人体画画家 
+figure drawing, figure painting 人体绘画
+He is good at figures. 他擅长算术。
+the dim figure of him 他模糊的身影 
+human figure 人影 
+masked figure 戴着面具的人形 
+seated, standing figure 坐着的人；站着的人 
+approaching figure 走近的人 
+sleeping figure 睡着的人 
+lone figure 孤单的人 
+
+vt.＆vi. 使某人突然感到害怕，如吓唬:
+frighten |['fraɪtn]
+She’s not easily frightened. 她不是轻易能吓倒的。
+The prospect of war really frightens me. 战争的即将到来真的把我吓坏了。
+Don’t creep around like that! You frightened me to death! 不要这样蹑手蹑脚地到处走！你吓死我了！
+I didn’t mean to frighten you. 我不是故意想吓你的。
+
+
+preindustrial | 工业化前,前工业时代
+
+provide (a house or room) with furniture and fittings:提供（房子或房间）家具和配件
+be a source of, provide:beasourceof,提供
+supply someone with (something), give (something) to someone:supplysomeonewith(something),给某人（某物）
+furnish |ˈfəːnɪʃ| Verb/:装设,提供,供给
+the proprietor has furnished the bedrooms in a variety of styles:业主对卧室进行了各种风格的布置
+fish furnish an important source of protein:fish提供重要的蛋白质来源
+she was able to furnish me with details of the incident:she能够向我提供事件的详细信息
+
+n. [U, C] 缺乏（而且还难以获取）:
+scarcity |[ˈskeəsəti;美ˈskers-]
+an ever increasing scarcity of water 水资源的日益匮乏 
+food, land, resource scarcity 食物短缺；土地稀缺；资源稀缺 
+There is a great scarcity of food in the drought-stricken areas. 干旱地区食物严重短缺。
+In times of scarcity, lions will travel great distances in search of food. 在食物短缺时，狮子会到很远的地方觅食。
+artificial scarcity 人为造成的短缺 
+Old properties in the town have acquired a scarcity value. 镇里的老房子变得物以稀为贵。
+
+vt. transform sth/sb (from sth) (into sth) 1 改变某事物的形态，相当于convert:
+2（某事物的外观或性质、特征）完全改变，尤指使其变得更好:
+transform |[træns'fɔ:m]
+The photochemical reactions transform the light into electrical impulses. 光化学反应使光变为电脉冲。
+A new colour scheme will transform your bedroom. 新的色彩调配将使你的卧室焕然一新。
+It was an event that would transform my life. 那是能够彻底改变我一生的一件事。
+The riots radically transformed the situation. 暴乱彻底改变了局势。
+He seems to have been miraculously transformed into a first-class player. 他似乎奇迹般地变成了一名一流球员。
+The place was transformed from a quiet town into a busy port. 这个地方由一个安静的小镇变为繁忙的港口。
+the power of religion to transform our hearts and minds 能够改变心灵和思想的宗教力量
+
+
+misled | 被误导,误入歧途
+
+vi. [正式] 存在于两个时间点之间:
+vi. ~ (in sth)（某人、某个组织机构或国家）出面、介入、干涉、干预某事（以改善局面或提供帮助）:
+vi.（某事的发生）阻碍、阻挠、干扰（另一事的发生）:
+vt.&vi. 插嘴；打断（别人的话）:
+vi. [正式] 存在于两个地点之间:
+intervene |[ˌɪntəˈvi:n;美-tərˈv-]
+I saw nothing of her during the years that intervened. 这期间的几年中我根本没有见过她。
+The situation calmed down when police intervened. 警方干预后，局势平息下来。
+Intervening militarily will not bring peace. 军事干预不会带来和平。
+Eventually, the army was forced to intervene. 最终军队被迫介入。
+The Government is doing nothing to intervene in the crisis. 政府没有采取任何行动对这次危机进行干预。
+Government often intervenes decisively in major professional issues in medicine. 政府经常果断介入医药界重大专业问题。
+Our government has no right to intervene. 我们的政府无权干预。
+The UN refused to intervene. 联合国拒绝干预。
+The President intervened personally in the crisis. 总统亲自出面处理这场危机。
+Local people feel strongly about the proposed development but are virtually powerless to intervene.当地民众对所提出的开发方案反应强烈，但实际上却无力介入其中。
+They would not intervene against the rebels themselves. 他们自己不会插手反对叛乱分子。
+Nurses should be ready to intervene on behalf of their patients. 为了病人的利益护士应该时刻准备介入。
+She went over to intervene between the two men. 她走过去为两个男人进行调解。
+She was reluctant to intervene in what was essentially a private dispute. 她不愿介入这种本质上属于私人性质的争端。
+She might have been killed if the neighbours hadn't intervened. 要不是邻居介入，她可能会没命了。
+The ambassador intervened personally on behalf of the children. 大使代表孩子们亲自出而处理此事。
+attempts to intervene with the authorities on the prisoners' behalf 代表犯人与当局交涉的尝试 
+They were planning to get married and then the war intervened. 他们正准备结婚，不巧却因爆发战事而受阻。
+The South African mailboat arrived on Friday mornings unless bad weather intervened. 除非受恶劣天气干扰,南非邮船一般在星期五上午抵达。
+I pray that death may not intervene to prevent our meeting with my darling children. 我祈祷死亡不要阻挠我们与我亲爱的孩子们见一面。
+Hattie intervened and told me to stop it. 哈蒂打断我，叫我停下来。
+'I've told you he's not here,' Irena intervened. “我告诉你了他不在这里,”伊雷娜插话说。
+‘But,’ she intervened, ‘what about the others?’ “但是，”她插嘴说，“其他的怎么办呢？”
+
+~ (between A and B) 根据情况变化:
+vt. 略微改动:
+vi. ~ (in sth)（一组类似的事物在大小、形状等方面）不同、有差别:
+vary |[ˈveəri;美ˈveri;ˈværi]
+vi. ~ (with sth) 
+~ (from sth to sth) 
+You are welcome to vary the diet. 我们鼓励不时变换饮食。
+The menu varies with the season. 菜单随季节而变动。
+Prices vary according to the type of room you require. 价格随所要求的户型而有所变化。
+The cost of the alcohol duty varies according to the amount of wine in the bottle. 酒税税额随酒瓶容量的大小而有所不同。
+Class numbers vary between 25 and 30. 班级的数目从25到30不等。
+‘What time do you start work?’ ‘ It varies.’ “你几点钟开始工作？”“没准儿。” 
+The speed of the car hardly varied. 汽车的速度几乎没有改变。
+the continuously varying intensities of natural light 自然光不断变换的强度 
+What can be found will inevitably vary according to the area under study. 因为研究范围不同，研究结果不可避免会有所不同。
+Personal preference naturally varies. 个人的偏爱喜好自然各不相同。
+The drug is available in several forms, and dosages vary accordingly. 这种药有几种剂型，服用剂量也相应不同。
+Dictionaries are produced with specific markets in mind, and their contents vary accordingly. 各种词典根据特定的目标市场编写发行，内容也相应地有所不同。
+The availability of good medical care tends to vary inversely with the need for it. 优质医疗服务的可及度往往与需求成反比。
+Voting patterns vary geographically. 选举模式因地域而有所不同。
+The leaf's size varies widely according to the area where it grows. 叶片的大小按生长地区的不同存在着广泛的差异。
+Access to this information varies by social class. 获取这一信息的途径因社会阶层的不同而变化。
+Costs are likely to vary depending on where you live. 费用很有可能随居住地的不同而变化。The danger of a heart attack varies with body weight. 心脏病发作的危险随体重而变化。
+Gender roles vary across cultures. 不同文化里的性别角色各不相同。
+Services offered vary among the main banks. 各大银行提供的服务不尽相同。
+The rate of growth varies considerably between different industries. 不同产业的增长率存在相当大的差异。
+The doses used vary between 2 and 10mg/kg. 用量从每千克2毫克到10毫克不等。
+The situation varies slightly from country to country. 在不同的国家情况稍有不同。
+Its speed varies from 20 mph to 35 mph. 速度在每小时20英里至35英里之间变动。
+a study of how moral values vary with/over time 对道德价值观如何随时间而变化的研究 
+The job enables me to vary the hours I work. 这项工作使我能够调整工作时间。
+The students' work varies considerably in quality. 学生作业的质量甚是参差不齐。
+The quality of the students' work varies considerably. 学生作业的质量甚是参差不齐。
+New techniques were introduced with varying degrees of success. 引进新技术的成功程度不尽相同。
+As they're handmade, each one varies slightly. 由于它们是手工制作的，彼此都会有些微小的差异。
+The text varies from the earlier versions. 这一文本与较早的版本有些不同。
+The sword hardly varied in form from the 12th to the 15th century. 剑的样式从12世纪到15世纪几乎没有什么改变。
+Prices can vary enormously. 价格可能有很大不同。
+The rooms vary in size. 这些房间大小不一。
+
+n. 1 [U] [常贬]（政府或组织机构的）官僚主义；官僚作风:
+2 [U, C]（政府的）官僚体制；实行官僚体制的国家:
+bureaucracy |[bjʊəˈrɒkrəsi;美bjʊˈrɑ:k-]
+cumbersome, excessive, unnecessary bureaucracy 繁琐多余的手续；繁文缛节 
+administrative, corporate bureaucracy 行政的规章手续；公司的规章手续 
+People usually complain about having to deal with too much bureaucracy. 人们经常抱怨不得不应付太多的繁文缛节。
+The organization has promised to eliminate unnecessary bureaucracy. 该组织已承诺消除不必要的规章制度。
+huge, large, massive, vast bureaucracy 庞大的行政体系 
+bloated bureaucracy 臃肿的行政体系 
+federal, government, state bureaucracy 联邦官僚机构；政府官僚机构；国家行政机构 
+the power of the state bureaucracy 国家官僚体制的权力 
+State bureaucracies can tend to stifle enterprise and initiative. 国家的官僚体制往往会扼杀人们的事业心和积极性。
+living in a modern bureaucracy 生活在一个现代官僚体制中
+
+a person whose job is to enlist or enrol people as employees, in the armed forces, or as members of an organization:一个人，其工作是招募或招募人员作为雇员、武装部队或组织的成员
+recruiter |rɪˈkruːtə| Noun/:招聘人员,招聘者
+a recruiter will schedule you for an interview:招聘人员将为您安排面试
+
+n. [C]（材料、地毯、音乐等东西上的）对于线条、形状、颜色、声音等的规则排列，作为一种图案或式样:
+vt. 在某事物上形成一个规则的（由一些线条或形状构成的）图案（或花样）:
+n. [usually sing.] 可供效仿的一个杰出典范:
+n. [C] 某事发生或被执行的通常方式，即模式:
+vt. [术语] 造成某种行为发展，或促成某种行为模式的形成:
+n. 1 [C]（沿着…的周围切割出来的、用于制作某东西的）模型、底样、纸样等:
+2 [C] 帮助你选择某事物的样式的一小块材料、纸张等，即样品、样本，相当于sample:
+pattern |['pætn]
+a pattern of diamonds 菱形图案 
+abstract, geometric pattern 抽象图案；几何图案 
+camouflage, floral, striped pattern 迷彩图案；花卉图案；条纹图案 
+regular pattern 规则的样式 
+random pattern 随机图样 
+drum, sound pattern 鼓点模式；声音模式 
+rhythmic patterns 节奏模式 
+the pattern on the carpet 地毯上的图案 
+Frost patterned the window. 霜在窗子上形成了图案。
+a landscape patterned by vineyards 由一片片葡萄园构成的风景图
+This system sets the pattern for others to follow. 这个系统堪为他人仿效的典范。
+changing patterns of behaviour 行为的变化模式 
+The murders all seem to follow a (similar) pattern. 这些凶杀案如出一辙。
+There is no set pattern for these meetings. 这些会议没有固定的模式。
+Her speech patterns are very distinctive. 她的讲话方式很有特色。
+sleep pattern 睡眠模式 
+spending pattern 消费模式 
+weather pattern 天气模式 
+patterns of thought 思维模式 
+Adult behaviour is often patterned by childhood experiences. 成年人的行为模式往往是童年经历造成的。
+a knitting pattern 编织图样 
+She bought a dress pattern and some material. 她买了一幅衣服纸样和一些衣料。
+wallpaper patterns 壁纸样品
+
+~ (to do sth)（必须做某事的）必要性；（对某事物的）需要:
+2 [C] 必需的事物；必需品:
+~ (to do sth)（某事发生的）必然性:
+2 [C, usually sing.] 不可避免的情况或行动:
+necessity |[nəˈsesəti]
+~ (of sth/of doing sth) 
+We recognize the necessity for a written agreement. 我们认为有必要签订一份书面协议。
+There is agreement on the necessity of reforms. 对改革的必要性已经达成了共识。
+As soon as the necessity for action is over the troops must be withdrawn. 一旦军事行动的必要性不复存在，军队就必须撤出。
+There had never been any necessity for her to go out to work. 她从来就没有出去工作的必要。
+We were discussing the necessity of employing more staff. 我们在讨论是否需要雇用更多员工。
+Water is a basic necessity of life. 生命离不开水。
+food, fuel and other daily necessities 食物、燃料和其他日常必需品 
+Many people cannot even afford basic necessities such as food and clothing. 许多人甚至买不起食物和衣服之类的基本必需品。
+They have nothing but the barest necessities. 除了最基本的必需品之外，他们一无所有。
+Air-conditioning is an absolute necessity in this climate. 这样的气候绝对需要有空调。
+Policies which address these issues are an urgent necessity. 迫切需要的是解决这些问题的政策。
+~ (of sth/of doing sth) 
+This is, of necessity, a brief and incomplete account. 这必然是一份简略的、不完全的描述。
+Living in London, he felt, was an unfortunate necessity. 他觉得在伦敦生活是迫于无奈。
+The President pleaded that strong rule from the centre was a regrettable, but temporary necessity. 总统辩解说，实行高度的中央集权虽不尽如人意，但暂时来说却是必要的。
+
+vt. 否认与某人有关系:
+vt. [正式] ~ yourself (sth)（尤因道德或宗教原因）节制、克制、戒绝:
+vt. 否认、否定:
+vt. 拒绝承认或拒绝接受某事、否认与某人有关系:
+vt. 拒绝承认或拒绝接受某事:
+~ (sb) (sth) 拒绝给予某人（其想要的东西）:
+deny |[dɪˈnaɪ]
+I denied my father because I wanted to become someone else. 我和父亲断绝了关系，因为我想成为一个不一样的自己。
+to deny a claim 否认某种说法 
+to deny a charge 否认指控 
+She denied both accusations. 她对两项指控均予以否认。
+The spokesman refused either to confirm or deny the reports. 发言人对那些报道不置可否。
+The government has denied that there was a plot to assassinate the president. 政府否认曾有人密谋暗杀总统。
+He denies attempting to murder his wife. 他否认企图谋杀妻子。
+She denied (that) there had been any cover-up. 她否认有任何隐瞒。
+He has categorically denied being involved in the fraud. 他断然否认自己与诈骗有关。
+You can't deny that it seems a very attractive idea. 无可否认，那个主意看来很有吸引力。
+I know it was you I saw, so there's no use trying to deny it. 我知道我看到的人就是你，你别再试图否认了。
+No one would deny that there is a very great need for change. 没有人会否认亟须变革。
+There's no denying (the fact) that quicker action could have saved them. 无可否认，如果行动快一点，本来是救得了他们的。
+It can't be denied that we need to devote more resources to this problem. 无可否认，我们必须投入更多的资源来解决这个问题。
+She denied all knowledge of the incident. 她矢口否认知晓此事的任何情况。
+The department denies responsibility for what occurred. 这个部门拒绝为所发生的事承担责任。
+I denied my father because I wanted to become someone else. 我和父亲断绝了关系，因为我想成为一个不一样的自己。
+She denied all knowledge of the incident. 她矢口否认知晓此事的任何情况。
+The department denies responsibility for what occurred. 这个部门拒绝为所发生的事承担责任。
+They were denied access to the information. 他们试图取得这个情报被拒。
+Access to the information was denied to them. 他们无法得到这个情报。
+If he is unlucky, he may find that his ex-partner denies him access to his children. 如果不走运的话，他可能会发现前妻拒绝让他接近自己的孩子。
+Don't deny yourself pleasure. 不要有乐不享。
+They were cruelly denied victory by a header from Reece. 里斯的头球残酷地葬送了他们的胜利。
+Children could be compelled to work on the farm, effectively denying them schooling. 孩子们可能被迫在农场劳作，这事实上剥夺了他们受教育的权利。
+The country's government systematically denies its citizens basic rights to free expression. 该国政府完全剥夺了其公民言论自由的基本权利。
+You cannot deny this opportunity to me. 你不能拒绝给我这个机会。
+
+n. [U]（船只或飞机由于气流或风向所导致的）偏航:
+vi.（声音等）传到某地（但声音不是很大）:
+vi. 目光向某地缓慢移动:
+n. [sing., U] 从一种情形到另一种情形（尤指到坏的情形）的逐渐变化或发展:
+vi. ~ in/into sth 不知不觉就从一种状态或情况进入到另一种状态或情况:
+n. [sing., U] 从一地到另一地的缓慢移动:
+vi. 向某地缓慢移动或走去:
+vi. 无意间发生或改变；没有计划或目的地做某事（如顺其自然地做某事）:
+n. [C] 大丛的某事物（尤指花）:
+n. [sing.] 某人所说或所写的大意、主旨、要点。相当于gist:
+vi. 在水中或空气中平缓地沿某个方向移动，如漂流、漂移:
+vt. 使某事物漂流或漂浮到某地:
+n. [sing., U] 漂移:
+n. [U, C] 海水或空气的流动。相当于current:
+n. [C] 由风造成一大堆吹聚物（尤指雪堆）:
+vi.（雪或沙）被风吹成大堆:
+n. [C] 由风造成一大堆吹聚物（尤指雪堆）:
+vi.（雪）被风吹成大堆:
+drift |[drɪft]
+Voices drifted up through the floorboards. 声音透过地板传了上来。
+Cool summer dance sounds are drifting from the stereo indoors. 清凉的夏日舞曲的声音从室内音响中传了出来。
+Her gaze drifted around the room. 她用目光缓缓扫视了一下室内。
+Her gaze gradually drifted to the bookshelf. 她的视线渐渐转移到了书架上。
+attempts to halt the drift towards war 制止逐步走上战争道路的努力 
+He criticized the rightward drift of the party. 他批评该党转向右倾。
+his drift into crime 他逐渐滑向犯罪 
+Finally she drifted into sleep. 最后她不知不觉地睡着了。
+I didn't hear the storm. I must have drifted off by then. 我没有听见暴风雨，那时一定是睡着了。
+He drifted off into a deep slumber. 他渐渐进入沉睡状态。
+She closed her eyes and slowly drifted off to sleep. 她闭上眼睛，渐渐进入梦乡。
+She began to drift between sleep and wakefulness. 她开始进入时睡时醒的状态。
+The injured man tried to speak but soon drifted into unconsciousness. 受伤的男人想说点什么，但一会儿就不省人事了。
+He drifted in and out of consciousness. 他时而清醒时而昏迷。
+We need to offer young people drifting into crime an alternative set of values. 我们需要给那些无意间犯了罪的年轻人灌输另一套价值观。
+She and her husband drifted apart and, eventually, they divorced. 她和她丈夫渐行渐远,最后他们离婚了。
+As children we were very close, but as we grew up we just drifted apart. 孩提时我们亲密无间，但随着年龄的增长我们就逐渐疏远了。
+Over the years the two friends drifted apart. 过了这么多年，这两个朋友已经渐渐疏远。
+continental drift 大陆漂移 
+As the strike went on, there was a gradual drift back to work. 罢工继续进行的同时，陆续有人回去工作了。
+a population drift away from rural areas 农村地区的人口外流 
+the drift towards the cities 涌向城市的趋势 
+the drift of people away from rural areas into urban slums 由农村到城市贫民区的人口流动 
+The crowd drifted away from the scene of the accident. 人群渐渐从事故现场散去。
+He spent the day drifting aimlessly about the house. 他一整天都在房子周围漫无目的地晃来晃去。
+She drifted across the room to where we were standing. 她缓慢地穿过房间来到我们站着的地方。
+As rural factories shed labour, people drift towards the cities. 由于农村的工厂纷纷裁员,人们逐渐流向城市。
+He finally drifted back to his home town. 他最终兜回了家乡。
+I didn't intend to be a teacher─I just drifted into it. 我并没想过当老师——只是顺其自然就当了。
+He drifted into teaching, but never really enjoyed it. 他无意中当上了教师，却从未真正喜欢过这一行。
+He hasn't decided what to do yet─he's just drifting. 他还没决定做什么——只是顺其自然。
+You've been drifting from job to job without any real commitment. 你一直在无目的地更换工作，从未真正投入进去。
+The conversation drifted onto politics. 谈话不知不觉就转到政治方面来了。
+He allowed his thoughts to drift back to his conversation with Carrie. 他让思绪回到了他与卡丽的谈话上。
+We seem to be drifting away from the point. 我们似乎有点儿离题。
+Plant daffodils in informal drifts. 随便种几丛黄水仙。            
+Do you catch my drift? 你明白我的大意吗？
+My German isn't very good, but I got the drift of what she said. 我的德语不太好，但我大致明白她说的意思。
+Grace was beginning to get his drift. 格雷丝慢慢明白了他的意思。
+Anybody who's listening will get the drift of what he was saying. 任何一个在专心听的人都会领悟他所说的大意。
+I didn't follow the speech exactly, but I caught the main drift of what was being said. 我没有完全听懂演讲，但领会了其主旨。
+I lost the drift of what she was saying. 我没懂他讲话的大意。
+The empty boat drifted out to sea. 空船向海上漂去。
+The boat drifted slowly downstream. 小船慢慢地顺流而下。
+We drifted with the current. 我们随波漂流。
+We proceeded to drift on up the river. 我们继续向河流的上游漂流。
+Cold and hungry, they drifted helplessly towards the Arctic. 他们又冷又饿，无助地漂向北极。
+The climbing balloon drifted silently over the countryside. 不断上升的气球静静地飘过乡间。
+Clouds drifted across the sky. 朵朵浮云在空中飘过。
+Smoke drifted up from the campfire. 篝火上青烟袅袅。
+The logs are drifted downstream to the mill. 原木顺流漂到木材加工厂。
+continental drift 大陆漂移 
+As the strike went on, there was a gradual drift
+the general direction of drift on the east coast 东海岸海水的总体流向 
+He knew the hidden drifts in that part of the river. 他对那段河道中的暗流非常清楚。
+snow drift（通常用snowdrift）风吹积成的雪堆 
+a nine-foot snow drift 九英尺深的雪堆 
+sand drift 风吹积成的沙堆 
+The road was blocked by deep drifts of snow. 道路被风吹来的厚厚积雪阻塞。
+There was a drift of smoke above the trees. 树林上空飘浮着一股烟。
+drifting sand 堆积的沙 
+Some roads are closed because of drifting. 有些道路因积雪而封闭。
+The snow, except where it drifted, was only calf-deep. 除了吹得堆积起来的地方，雪只有小腿肚深。
+The storm caused severe drifting. 暴风雪造成了严重的积雪现象。
+snow drift（通常用snowdrift）风吹积成的雪堆 
+a nine-foot snow drift 九英尺深的雪堆 
+The road was blocked by deep drifts of snow. 道路被风吹来的厚厚积雪阻塞。
+Some roads are closed because of drifting. 有些道路因积雪而封闭。
+The snow, except where it drifted, was only calf-deep. 除了吹得堆积起来的地方，雪只有小腿肚深。
+The storm caused severe drifting. 暴风雪造成了严重的积雪现象。
+
+n. [C, U]（公开的）支持:
+n. [C, U]（公开的）赞同，认可:
+n. [C, U]（通常为名人在广告中对某一产品或公司的）宣传，代言:
+n. [C, U] [英]（驾驶执照上的）违章记录:
+endorsement |[ɪnˈdɔ:smənt;美-ˈdɔ:rs-]
+The election victory is a clear endorsement of their policies. 竞选成功显然是对他们政策的支持。
+This is a powerful endorsement for his softer style of government. 这是对他较温和的执政风格强有力的支持。
+We are happy to give the product our full endorsement. 我们很乐意全力支持该产品。
+They are now seeking endorsement for their ideas. 他们正在为他们的构想寻求支持。
+These measures have the strong endorsement of the party. 这些措施得到了该党的大力支持。
+her endorsement as leader of the delegation 她作为代表团团长给予的支持 
+endorsement for the plan 对计划的支持 
+His presidential campaign won endorsement from several celebrities. 他参加总统竞选得到了一些社会名流的支持。
+That adds up to an endorsement of the status quo. 那算是对现状的赞同。
+a letter of endorsement 认可证书 
+The new design only received a lukewarm endorsement from head office. 总部对新设计反响平平。
+implicit, tacit endorsement 含蓄的认可；默认 
+government endorsement（尤美）政府的认可 
+endorsement of the product by the appropriate body 有关机构对本产品的认可
+celebrity endorsement 名人代言 
+product endorsement 产品代言 
+endorsement contract, endorsement deal（均尤美）代言合约；代言协议 
+He signed a four-year endorsement deal. 他签了一份为期四年的代言合约。
+
+modal verb. 足够勇敢去做某事，即敢于:
+vt. 劝说某人去做危险、困难或尴尬的事以使该人表明其并不害怕，即激某人去做某事:
+n. [usually sing.]（你尝试去劝说某人去做的）危险、困难或尴尬的事（以看其是否愿意去做），即激将，挑战:
+dare |[deə]
+He didn’t dare (to) say what he thought. 他不敢说出他的想法。
+I hardly dared to breathe. 我几乎不敢呼吸。
+I wouldn’t dare go by myself. 我不敢自己去。
+Go on! Take it! I dare you. 来呀！接受吧！我谅你也不敢。
+Some of the older boys had dared him to do it. 几个大男孩激他，问他敢不敢干这事。
+He climbed onto the roof for a dare.（英）他受到激将爬上了房顶。
+She learned to fly on a dare.（美）她在激将下学会了开飞机。
+
+
+a professional practice that gives expert advice within a particular field:在特定领域提供专家建议的专业实践
+the work of a consultancy:咨询公司的工作
+consultancy |kənˈsʌlt(ə)nsi| Noun/:,咨询服务
+a world class source of environmental consultancy:世界一流的环境咨询资源
+
+adj. 常作前置定语，一直都在发生的，或重复发生的，即持续不断的，重复的:
+adj.（尤指数量或水平）不变的，恒定的，相当于fixed:
+n. [C] [术语] 常数，常量:
+constant |['kɒnstənt]
+constant interruptions 无休止的干扰 
+a constant stream of visitors all day 整天络绎不绝的游客 
+Babies need constant attention. 婴儿一刻也离不开人。
+This entrance is in constant use. 此入口经常使用。
+a constant threat 一个持续的威胁
+a constant speed 恒定速度 
+The level of unemployment remains fairly constant at around 10%. 失业率一直维持在10%左右，比较稳定。
+All variables except one must be held constant. 除了一个变量以外，其他所有变量必须保持恒定。
+
+vt. 把…放置在某一位置:
+deposit sth (with sb/sth) 将贵重物品寄存或存放在某地:
+n. [C] 某地的物质层，尤指河流、洪水、液体底部的沉积物。是一个常规用词:
+vt.（尤指河流或液体）使沉积:
+n. [C] 地下自然形成的物质沉积层:
+deposit sth (with sb/sth) 将贵重物品寄存或存放在某地:
+n. [C] 某地的物质层，尤指河流、洪水、液体底部的沉积物。是一个常规用词:
+vt.（尤指河流或液体）使沉积:
+n. [C] 在银行账户里的一笔存款:
+vt. 把钱存入银行账户:
+n. 1 [C] a deposit (on sth) 常用单数，指订金，保证金:
+2 [C] 常用单数，指押金:
+vt. 付订金，付押金:
+deposit |[dɪ'pɒzɪt][dɪ'pɒzɪt]
+She deposited a pile of books on my desk. 她把一摞书放在我的书桌上。
+I was whisked off in a taxi and deposited outside the hotel.（非正式用法）一辆出租车匆匆把我送到旅馆外面，让我下了车。
+vt. deposit sth (in sth) 
+Guests may deposit their valuables in the hotel safe. 旅客可将贵重物品寄存在旅馆的保险柜里。
+The rain left a deposit of mud on the windows. 雨水在窗户上留下一层泥。
+The floods left a thick deposit of mud over the fields. 洪水过后，田地里留下了厚厚的一层泥浆。
+fatty deposits in the arteries of the heart 心脏动脉中的脂肪沉积 
+Sand was deposited which hardened into sandstone. 沙子经沉积固结形成沙岩。
+mineral, oil, gold, coal deposit 矿床；石油矿床；金矿；煤矿 
+glacial, sedimentary deposit 冰河沉积；沉积矿床
+vt. deposit sth (in sth) 
+Guests may deposit their valuables in the hotel safe. 旅客可将贵重物品寄存在旅馆的保险柜里。
+The rain left a deposit of mud on the windows. 雨水在窗户上留下一层泥。
+The floods left a thick deposit of mud over the fields. 洪水过后，田地里留下了厚厚的一层泥浆。
+fatty deposits in the arteries of the heart 心脏动脉中的脂肪沉积 
+Sand was deposited which hardened into sandstone. 沙子经沉积固结形成沙岩。
+bank deposit 银行存款 
+cash deposit 现金存款 
+deposit account（英）存款账户 
+to make a deposit of £80 into her account 往她的账户里存80英镑 
+Millions were deposited in Swiss bank accounts. 巨额款项存入了瑞士的银行账户。
+We’ve put down a 5% deposit on the house. 我们已支付了房款的5%作为订金。
+to pay £100 (as a) deposit 支付100英镑（作为）订金 
+All deposits are refundable. 押金可全数退还。
+non-refundable, non-returnable（英）deposit 不可退还的押金 
+security deposit 保证金 
+to pay a deposit of $200 支付200美元的押金 
+to leave a £50 deposit on the bike 留下50英镑作为自行车的押金 
+You’ll get back your deposit. 你可以取回押金。
+If the bike is damaged, you will forfeit your deposit. 如果自行车损坏，你的押金会被没收。
+
+vt. [术语] 传导（电）:
+vt.&vi. ~ (sth) (from…) (to…) 发送、传输（广播或电视信号、计算机数据或其它电子信息等）:
+vt. 传达、传输思想或感情:
+vt. [术语] 传播、传导（热、光、声、电、振动等）:
+vt. 传播或传染疾病:
+transmit |[trænsˈmɪt;trænz-]
+a short-wave radio that can transmit as well as receive 收发两用的短波无线电装置 
+signals transmitted from a satellite 从卫星传送来的信号 
+The ceremony was transmitted live by satellite to over fifty countries. 典礼通过卫星向五十多个国家进行了实况转播。
+The information is electronically transmitted to schools and colleges. 信息通过电子方式传送到各所学校和学院。
+The message they are transmitting to their daughters is very different from that of previous generations. 他们向女儿传输的信息与上几代人截然不同。
+He transmitted his keen enjoyment of singing to the audience. 他把自己对演唱的激情投入传递给了观众。
+Parents can unwittingly transmit their own fears to their children. 父母自己的恐惧有可能在无意中感染了孩子。
+These thin crystals transmit much of the power. 这些薄薄的晶体传导了大部分的动力。
+There was no vibration transmitted to the handles and the machine wasn't noisy either. 没有任何振动传导到手柄，机器也没有任何噪音。
+mosquitoes that transmit disease to humans 传染疾病给人类的蚊子 
+sexually transmitted diseases 性传播疾病 
+There was no danger of transmitting the infection through operations. 不存在通过手术传播这种传染病的风险。           
+
+vt. 从根基处破坏（例如通过挖掘其根基来破坏某人的能力、努力或成功的机会）:
+vt. 间接削弱体制等:
+vt. 逐渐削弱…，尤指间接削弱某人的权威或地位:
+vt. 间接削弱某人的感情或信心、士气:
+undermine |[ˌʌndəˈmaɪn;美-dərˈm-]
+It ultimately undermined his ability to play. 这最终削弱了他的比赛能力。
+The continued fighting threatens to undermine efforts to negotiate an agreement. 持续的战斗会破坏希望通过谈判来达成协议的努力。
+I don't want to do something that would undermine the chances of success. 我不想做会影响成功机会的事情。
+Western intelligence agencies are accused of trying to undermine the government. 西方情报机构被指责企图动摇该政府的统治。
+The conversations were designed to undermine her authority so she felt that she could no longer work for the company. 这些谈话有意削弱她的威信，这样她会觉得自己在公司干不下去。
+His position within the government has been seriously undermined. 他在政府中的地位遭到严重削弱。
+This crisis has undermined his position. 这场危机已削弱了他的地位。
+Offering advice on each and every problem will undermine her feeling of being adult. 对每个问题都给出建议会令她觉得自己不像个成年人。
+Our confidence in the team has been seriously undermined by their recent defeats. 该队最近的几次失败已严重动摇了我们对他们的信心。
+She undermined him and destroyed his confidence in his own talent. 她暗中打击他，让他对自己的才华信心全无。
+a terror attack intended to undermine the morale of citizens 旨在打击市民士气的一次恐怖袭击
+
+resign (as sth)（从公司、组织机构等）辞去职务，辞职:
+resign |[rɪ'zaɪn]
+vt.＆vi. resign (from sth) 
+He resigned as chairman. 他辞去了主席一职。
+
+belonging or relating separately to each of two or more people or things:分别属于或涉及两个或两个以上的人或事物中的每一个
+respective |rɪˈspɛktɪv| Adjective/:各自,各自的,分别
+they chatted about their respective childhoods:他们聊起了各自的童年
+
+vi. [相对正式] ~ (to sth) 同意、准许:
+n. [U] ~ (to sth) 同意，尤指当权者给与的同意、准许:
+n. [C] 正式的批准文件，批文:
+consent |[kənˈsent]
+When she told them what she intended they readily consented. 她告诉他们她的打算时，他们欣然同意。
+He reluctantly consented to his daughter's marriage. 他勉强同意了女儿的婚事。
+She finally consented to answer our questions. 她最终同意回答我们的问题。
+He finally consented to go. 他最终同意去了。
+He asked Ginny if she would consent to a small celebration after the christening. 他问金尼是否同意在洗礼之后小小地庆祝一下。
+He has kindly consented to give us some of his valuable time. 他真好，答应抽出一些宝贵的时间给我们。
+Children under 16 cannot give consent to medical treatment. 16岁以下的儿童不得自行同意接受治疗。
+The written consent of a parent is required. 要求有家长的书面同意。
+to refuse/withhold your consent 拒不同意 
+He is charged with taking a car without the owner's consent. 他因未征得车主的同意自行开走车而受到指控。
+She was chosen as leader by common consent (= everyone agreed to the choice). 大家一致同意选她为领导人。
+By mutual consent they didn't go out (= they both agreed not to). 按照双方同意，他们没有约会。
+At approximately 11:30 p.m., Pollard finally gave his consent to the search. 大概晚上11点半的时候，波拉德最终同意进行搜查。
+Can my child be medically examined without my consent? 能不经我的同意就对我的孩子进行体检吗？
+By common consent their talk avoided the reason for their being there at all. 双方达成共识，他们的谈话对他们去那儿的原因完全避而不谈。
+He left the company by mutual consent last September. 去年9月，经双方同意，他离开了公司。
+Completion of the survey was taken as implied consent to participate. 完成调查表被视为同意参加调查。
+Your silence implies tacit consent to these proposals. 你的沉默意味着你默许这些提议。
+Doctors must obtain the informed consent of all patients before giving any treatment. 在进行任何治疗前，医生必须得到病人的之情同意。
+No action can be taken without the prior consent of the owner. 没有物主的事先同意，不得采取任何行动。
+formal, written consent 正式同意；书面同意 
+oral（美）, verbal consent 口头同意 
+presumed consent（美）推定同意 
+spousal consent（美）配偶的同意 
+consent document, consent form 同意文件；同意书 
+The article is reprinted by consent of the author. 该文章是经作者同意才重印的。
+
+n. [U] 重新成为一个群体（或组织机构），如重新结合、再度联合:
+n. 1 [C]（一群人，如家庭、学校及其他团体成员的久别之后的）重逢、团聚、聚会（是一种场合）:
+~ (between A and B)（人们分开一段时间后的）相聚、团聚（是一种行为）:
+reunion |[ri:ˈju:niən]
+the reunion of the Church of England with the Church of Rome 英格兰圣公会和罗马天主教的再度联合 
+reunion album, reunion concert, reunion show, reunion tour 重组专辑；重聚音乐会；重聚演出；重聚巡演 
+reunion movie（美）（电视剧停播后原班人马的）电影版制作
+a family reunion 家人团聚 
+The whole family was there for this big family reunion. 全家人都来参加了这次盛大的家庭聚会。
+the school's annual reunion 一年一度的校友联欢会 
+a reunion of the class of '85 85届同学聚会 
+The Association holds an annual reunion. 这个协会每年聚会一次。
+alumni（尤美）, class, college, high-school（尤美）, school（尤英）reunion 校友聚会；班级聚会；学院聚会；高中聚会；学校联谊聚会 
+five-year reunion 分别五年后的重聚 
+I think it's time to arrange a little reunion. 我觉得该是安排一次小型聚会的时候了。
+The reunion is held every two years. 联谊聚会每两年举行一次。
+reunion dinner, reunion event, reunion lunch（英）聚会晚宴；聚会活动；重聚午宴 
+reunion party 联谊聚会 
+reunion weekend 举行聚会的周末 
+At the reunion I met a friend I hadn't seen for twenty years.在聚会上我遇见了一位20年没见的朋友。
+We organized a reunion for former company employees. 我们为公司前雇员组织了一次聚会。
+an emotional reunion between mother and son 母子团圆的激动场面 
+The children weren't allowed to see her for nearly a week. It was a very emotional reunion. 孩子们将近一周都没能见到她。这是一次令人激动的团聚。
+Christmas is a time of reunion. 圣诞节是团聚的日子。
+the reunion of two old friends 两个老朋友的重聚 
+a tearful reunion with his family 他与家人令人落泪的团聚
+
+n. [sing.] at a ~ 被需要但很难获取的，即稀缺的、紧缺的、难以得到的:
+n. [C]（基本费用之外的）额外费用、附加费用:
+n. [sing.] at a ~ 以高于平常的价格（买进或卖出）:
+adj. [只用于名词前] 比通常情况高得非常多的（如昂贵的）:
+n. [C]（一次性或分期缴纳的）保险费:
+n. [sing.] place/put a high ~ on sb/sth 极为珍视、高度重视:
+adj. [只用于名词前] 高品质的:
+premium |[ˈpri:miəm]
+If space is at a premium, choose adaptable furniture that won't fill the room. 如果空间有限，就选择一些不会把房间占得很满的可改装家具。
+Space is at a premium in a one-bedroomed apartment. 单居室公寓的空间是很有限的。
+You have to pay a high premium for express delivery. 快递须付高额的附加费。
+A premium of 10% is paid out after 20 years. 20年后要付清10%的额外费用。
+Even if customers want 'solutions', most are not willing to pay a premium for them. 即使顾客想得到“解决方案”，他们大多数也不愿意为此支付额外费用。
+Callers are charged a premium rate of 48p a minute. 打电话要支付每分钟48便士的附加费。
+The company is charging a pretty hefty premium for access to their network. 该公司正在对登录其网络收取可观的额外费用。
+Electricity companies pay a premium for renewable energy. 电力公司为可再生能源支付额外的费用。
+He eventually sold the shares back to the bank at a premium. 他最后以高价把股票回售给银行。
+Good hotels are at a premium (= difficult to obtain and therefore expensive). 好的酒店收费高。
+bought at a premium of 40% above the current market price 以高于当前市场价格的40%购买 
+premium prices 奇高的价格 
+At the premium end of the market, business is booming. 高端市场业务繁荣。
+a monthly premium of £6.25 每月6.25英镑的保险费 
+Intense competition has kept premiums low. 激烈的竞争使得保险费保持在低位。
+insurance premium 保险费 
+health-care（尤美）, health insurance premium 医疗保险费 
+the rising cost of medical malpractice insurance premiums 医疗事故保险费的成本上升 
+We're struggling to keep up our premiums. 我们正勉力继续支付保险费。
+The insurance company has increased our premiums. 保险公司提高了我们的保险费。
+My insurance premiums increase each year. 我的保险费每年增加。
+The additional premium costs $1 800 a year. 额外保险费每年要花1,800美元。
+premium rate 保险费率 
+premium increase 保险费的提高 
+the premiums for your pension plan 为你的退休金计划支付的保险费 
+Premiums on many cars will go up this year. 今年许多汽车的保险费会上调。
+risk premium 风险溢价 
+There's a risk premium of probably $10 a barrel built into oil prices. 每桶石油的价格中约有10美元的风险溢价。
+equity premium 权益溢价 
+equity risk premiums 权益风险溢价
+I place a high premium on what someone is like as a person. 我非常重视一个人的人品。
+They put a high premium on prevention and primary care. 他们对预防和初级护理极为重视。
+The company places a high premium on customer loyalty. 该公司非常重视客户的忠诚度。
+premium products 优质产品 
+At the premium end of the market, business is booming. 高端市场业务繁荣。
+the most popular premium ice cream in this country 这个国家最受欢迎的优质冰激凌
+
+n. [C, U] 一个人对戏剧角色等的演绎方式、表演方式:
+n. [C, U] 某种方式的解释或说明:
+n. [C, U] 某种方式的理解:
+n. [C, U] 一个人对乐曲的演绎方式、演奏方式:
+interpretation |[ɪnˌtɜ:prɪˈteɪʃn;美-ˌtɜ:rp-]
+a modern interpretation of ‘King Lear’《李尔王》的现代演绎 
+her full-bodied interpretation of the role of Micaela 她对米凯拉这个角色全身心的演绎 
+The film lends itself to a fairly straightforward interpretation. 该影片适合采用比较直白的表演方式。
+Her evidence suggests a different interpretation of the events. 她的证据显示这些事件可能有另外一种解释。
+It is not possible for everyone to put their own interpretation on the law. 不可能让每个人自行阐释法律。
+The opposition Conservative Party put a different interpretation on the figures. 反对党保守党对这些数字提出一番不同的解释。
+Analysis and interpretation is a very personal thing. 分析与说明是个很主观的事情。
+artistic interpretation 艺术的诠释 
+historical, textual, theological interpretation 历史角度的诠释；基于文本的解释；神学的解释 
+feminist historical interpretations of marriage customs 女性主义关于婚俗的历史解读 
+Biblical, scriptural（尤美）interpretation《圣经》解释 
+His writings reflect his conservative views on Biblical interpretation. 他的作品反映了他对《圣经》解读所持的保守观点。
+constitutional（尤美）, judicial, statutory interpretation 宪法解释；司法解释；法规解释 
+In any system of law, there is an inevitable element of judicial interpretation. 在任何法律体系中都不可避免地存在着司法解释。
+Scientists made an interpretation based on the data available. 科学家根据掌握的数据作出了解释。
+Most modern historians support this interpretation. 多数现代历史学家支持这种解释。
+She challenges many orthodox interpretations of religious texts. 她质疑宗教文本的许多正统解释。
+His work defies simplistic interpretation. 他的作品不能进行简单化的解释。
+It is possible to put an entirely different interpretation on her comments. 对她的那些评论作出完全不同的解释是可能的。
+Dreams are open to interpretation (= they can be explained in different ways). 梦可以作各种诠释。
+The wording of this section of the contract is open to interpretation. 合同中这一部分的措辞可以有不同的理解。
+The meaning of the incident is open to subjective interpretation. 这一事件的意义可能见仁见智。
+In practice, this law is often given a wide interpretation by the police. 在实际操作中，警察对这条法律的理解常常很宽泛。
+
+adj.（物体）能够看到和感觉到的，即有形的；实物的:
+adj. 由混凝土制成的:
+n. [U]（由水泥、沙子、小石块和水混合而成的）混凝土（是一种建筑材料）:
+vt. concrete sth (over) 用混凝土覆盖:
+adj. 基于事实的（而非基于想象或猜测的）；明确具体的:
+concrete |['kɒŋkri:t]
+using concrete objects to teach addition and subtraction 用实物教加减法运算 
+a concrete noun 具体名词（即具有物理形态的物体的名词，而非关于品质或思想的名词）
+a concrete floor 混凝土地面 
+concrete block, concrete slab 混凝土砌块；混凝土板 
+concrete building, concrete floor, concrete wall 混凝土建筑；混凝土地面；混凝土墙 
+I do not regard this plan as set in concrete.（比喻用法）我认为这个计划并非不可更改。
+The garden had been concreted over. 花园里铺设了混凝土。
+He merely cleared and concreted the floors. 他只是清理了地板并浇上了混凝土。
+concrete evidence, concrete proposals, concrete proof 确凿的证据；具体的建议；确实的证明 
+‘It’s only a suspicion,’ she said,‘nothing concrete.’ “那只是怀疑，”她说，“没有任何确实的依据。”
+to think in concrete terms 结合具体的事物来思考
+
+n. [C] 可提供的额外服务（只是起到锦上添花的作用）:
+n. [C] 可提供额外服务的特色等（这些附加特色并非必需，只是起到锦上添花的作用），有时可翻译为“工具”:
+n. [C] [尤美] 有特定用途的场所（常包括建筑物）:
+n. [sing., U] ~ (for sth)（让学习或做事更容易的）天赋才能、天资:
+n. [C] 可提供额外服务的特色等（这些附加特色并非必需，只是起到锦上添花的作用），有时可翻译为“工具”:
+n. [C] 可提供额外服务的机器:
+n. [C] 可提供额外服务的特色等（这些附加特色并非必需，只是起到锦上添花的作用）:
+n. [尤美] 有特定用途的体育场所（常包括建筑物）:
+n. [pl.]（为某一目的所提供的）设施（如建筑物、服务设施、设备等）:
+facility |[fəˈsɪləti]
+The archive offers a central facility for cataloguing and indexing data. 档案馆提供编制数据目录和索引的集中服务。
+training and other support facilities 培训及其他支援服务 
+credit, loan, over-draft（英）facility 信贷服务；贷款服务；透支服务 
+a bank account with an overdraft facility 提供透支服务的银行账户
+editing, help, mail, search facility（均为计算机用语）编辑工具；帮助工具；电邮工具；搜索工具 
+a facility for checking spelling 检查拼写的工具
+large facility 大型场所 
+50 000-square-foot facility 50，000 平方英尺等的场所 
+modern, state-of-the-art facility 现代化的建筑物；最先进的建筑物 
+purpose built facility（英）特定用途的场所 
+plans to renovate an existing facility 现有场所的整修计划 
+a temporary storage facility for blood samples 暂时存放血液样本的场所 
+residents of long-term care facilities 生活在长期护理机构中的人们 
+prisoners in state and federal facilities 关押在州与联邦监狱中的犯人 
+community, public facility 社区场所；公共机构 
+private facility 私人场所 
+commercial, industrial facility 商业机构；工业机构 
+maintenance, manufacturing, processing, production, storage, testing, transport, treatment facility 保养场所；生产场所；加工场所；制造场所；储存场所；测试场所；运输场所；处理场所 
+a water treatment facility 水处理厂 
+the world's largest nuclear waste facility 世界最大的核废料处理场所 
+correctional, detention facility 管教所；拘留所 
+He spent 90 days at the county's local correctional facility. 他在那个县的地方管教所里待了90天。
+military facility 军事场所 
+weapons facility 兵工厂 
+chemical, nuclear facility 化工厂；核工厂 
+health, health-care, hospital, medical facility 健康机构；保健场所；医院大楼；医疗机构 
+a mental health facility 一家心理卫生医院 
+The problem lies in getting patients to a medical facility as soon as possible. 问题在于要把病人尽快送至医院。
+dining facility 就餐场所 
+childcare, day-care facility 儿童保育园；日托托儿所 
+educational, training facility 教育机构；培训机构 
+fitness, sports facility 健身房；运动场所 
+She trains with the team at their practice facility. 她和球队在练习场地上训练。
+research facility 研究机构 
+lab（非正式）, laboratory facility 实验室大楼 
+communication, communications facility 通信大楼 
+The company expects to open its facility by late September. 预计这家公司将在9月底前将其大楼对外开放。
+The old facility is now used for storage of dry products. 这座旧厂房现在用来存放干燥的产品。
+A doctor visited the facility and found deplorable conditions. 一位医生参观了该场所，发现条件很糟糕。
+a production facility located in New Mexico 设在新墨西哥的厂房 
+The 100 000 square-foot facility houses labs for NASA's research. 这座100，000平方英尺的大楼里有美国航空航天局的研究实验室。
+a new facility for military training一个新的军事训练场所
+She has a facility for languages. 她有语言天赋。
+Smell is a very basic sense but humans have lost much of the facility to use it properly. 嗅觉是一种非常基本的官能，但人类已经丧失了恰当使用这种官能的大部分能力。
+He played with great facility. 他表现出很高的天分。
+She showed an amazing facility for mind-reading. 她表现出能看透他人心思的惊人天赋。
+editing, help, mail, search facility（均为计算机用语）编辑工具；帮助工具；电邮工具；搜索工具 
+a facility for checking spelling 检查拼写的工具
+The report warns that there are no backup facilities if the reprocessing plant breaks down. 报告警告说如果处理工厂垮掉，就没有备用设施了。
+One of the new models has the facility to reproduce speech as well as text. 新型号中有一款具备复读和文本复制的功能。
+The archive offers a central facility for cataloguing and indexing data. 档案馆提供编制数据目录和索引的集中服务。
+training and other support facilities 培训及其他支援服务 
+credit, loan, over-draft（英）facility 信贷服务；贷款服务；透支服务 
+a bank account with an overdraft facility 提供透支服务的银行账户 
+editing, help, mail, search facility（均为计算机用语）编辑工具；帮助工具；电邮工具；搜索工具 
+The software's list' facility allows users to compile their own list. 该软件的"列单"功能可使用户编辑自己的目录。
+a facility for checking spelling 检查拼写的工具 
+The device has a facility for storing any sound you like. 这个装置有一个功能，可以保存你喜欢的任何声音。
+fitness, sports facility 健身房；运动场所 
+She trains with the team at their practice facility. 她和球队在练习场地上训练。
+The hotel has special facilities for welcoming disabled people. 这家旅馆有专供残疾人使用的设施。
+a hotel with only basic facilities 仅有基本设施的旅馆 
+We are looking to upgrade the existing facilities. 我们正考虑改善现有的设施。
+to improve access to essential facilities 改善必要设施的使用条件 
+community（尤英）, local facilities 社区设施；当地设施 
+hospitals, schools and other major community facilities 医院、学校及其他主要的社区设施 
+The communal facilities were in a bad state. 这些公共设施的状况很糟糕。
+public facilities 公用设施 
+disabled facilities（英）供残疾人使用的设施。
+conference facilities 会议设施 
+airport, hotel facilities 机场设施；宾馆设施 
+bar facilities（英）酒吧设施 
+leisure（尤英）, recreational, social（尤英）休闲设施；娱乐设施；社交场所 
+sporting（尤英）, sports facilities 体育设施 
+play facilities（尤英）游戏设施 
+transport（尤英）, transportation（尤美）, travel（尤英）交通设施；运输设施；旅行设施 
+parking facilities 停车设施 
+shopping facilities（尤英）购物设施 
+dining facilities 就餐设施 
+catering（英）, cooking（尤英）, kitchen（尤英）facilities 餐饮设施；炊事设备；厨房设备 
+baby-changing（英）, bathroom, laundry, sanitary, shower, toilet（英）, washing（尤英）facilities 婴儿尿布更换设施；洗浴设施；洗衣设施；卫生淋浴设施；卫生间设施；洗涤设施 
+en suite facilities（尤英）卧室配套设备 
+All bedrooms offer private facilities(= a private bathroom). 所有卧室都有单独的浴室。
+health, health-care, hospital, medical facilities 健康设施；保健设施；医院设施；医疗设施 
+childcare, creche（英）, day-care, nursery（尤英）facilities 儿童保育设施；日托托儿所设施；托儿所设施 
+educational, training facilities 教育设施；培训设施 
+library, research facilities 图书馆设施；研究设施 
+laboratory facilities 实验室设施 
+I made full use of the computing facilities. 我充分利用了计算设备。
+Facilities include a large indoor pool, jacuzzi and sauna. 设施包括一个大型室内游泳池、按摩浴缸和桑拿房。
+facilities management, facilities manager 设施的管理；设施管理人 
+The school has no facilities for the teaching of music. 这所学校没有音乐教学设施。
+The hotel provides excellent facilities for children. 这家旅馆的儿童设施十分完善。
+a range of facilities一系列设施
+
+
+facilities | ,设备,配套

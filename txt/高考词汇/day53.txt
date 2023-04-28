@@ -45,13 +45,13 @@ an abundant source of something, especially information:某事物的丰富来源
 a type of bomb placed on or just below the surface of the ground or in the water, which detonates on contact with a person, vehicle, or ship:一种放置在地表或水中的炸弹，在与人、车辆或船舶接触时引爆
 a subterranean passage under the wall of a besieged fortress, especially one in which explosives were placed to blow up fortifications.:被围困堡垒墙下的地下通道，尤其是放置炸药以炸毁防御工事的地下通道。
 obtain (coal or other minerals) from a mine:从矿井中获取（煤或其他矿物）
-dig in (the earth) for coal or other minerals:digin(地球)用于煤炭或其他矿物
-dig or burrow in (the earth):digorburrowin(theearth)
-exploit (a source of information or skill):exploit（信息或技能的来源）
-analyse (a database) to generate new information.:analysis（数据库）生成新信息。
+dig in (the earth) for coal or other minerals:挖（地）煤或其他矿物
+dig or burrow in (the earth):挖或挖（土）
+exploit (a source of information or skill):利用（信息或技能的来源）
+analyse (a database) to generate new information.:分析（数据库）以生成新信息。
 obtain units of (a cryptocurrency) by running a computer process to solve specific mathematical problems:获得单位（一种加密货币）通过运行计算机进程来解决特定的数学问题
 lay explosive mines on or just below the surface of (the ground or water):lay爆炸性地雷在（地表或水）表面之上或之下
-destroy by means of an explosive mine:destroy使用爆炸地雷
+destroy by means of an explosive mine:用爆炸性地雷摧毁
 mine |mʌɪn| Determiner/Noun/Pronoun/Verb/:矿,采矿,我的,矿山,开采
 you go your way and I'll go mine:你走你的路，我走我的路
 tears did fill mine eyes:tears确实充满了我的眼睛
@@ -64,11 +64,11 @@ the earth beneath had been tortuously mined by pestilential rabbits:地底被瘟
 how do they manage to mine such a rich vein of talent?:他们是如何挖掘出如此丰富的人才脉络的？
 if you're mining bitcoin you need to do it faster than anyone else:如果你正在挖掘比特币，你需要比其他人更快地完成它
 the area was heavily mined:该地区地雷严重
-HMS Ocean was mined in the Dardanelles in 1915:HMSOcean于1915年在达达尼尔海峡开采
+HMS Ocean was mined in the Dardanelles in 1915:HMS Ocean 于 1915 年在达达尼尔海峡开采
 
-distribute (cards) in an orderly rotation to players for a game or round:distribute（卡片）有序轮换给玩家进行游戏或回合
+distribute (cards) in an orderly rotation to players for a game or round:在游戏或回合中按顺序轮流分发（卡片）给玩家
 include a new player in a card game by giving them cards.:在纸牌游戏中加入新玩家，给他们卡片。
-distribute or mete out (something) to a person or group:distribute或meteout(something)toapersonorgroup
+distribute or mete out (something) to a person or group:向个人或团体分发或分发（某物）
 take part in commercial trading of a particular commodity:参与特定商品的商业交易
 be concerned with:关注
 buy and sell illegal drugs:买卖非法毒品
@@ -91,11 +91,11 @@ deal |dɛlt| Noun/Verb/:交易,发牌,成交
 the cards were dealt for the last hand:最后一手牌已发
 the punishments dealt out to the rioters were hideous:对暴徒的惩罚是可怕的
 directors were prohibited from dealing in the company's shares:董事被禁止买卖公司股票
-journalism that deals in small-town chit-chat:journalism从事小镇闲聊
+journalism that deals in small-town chit-chat:处理小镇闲聊的新闻业
 you are suspected of dealing in drugs:你涉嫌贩毒
 they seem incapable of dealing with the problem:他们似乎无法解决问题
 you'll have to find a way of dealing with those feelings:你必须想办法处理这些情绪
-life had dealt very harshly with her:life对她很严厉
+life had dealt very harshly with her:生活对她太苛刻了
 the bank deals directly with the private sector:the银行直接与私营部门打交道
 the novel deals with several different topics:小说涉及几个不同的主题
 hopes of an economic recovery were dealt another blow:经济复苏的希望再次受到打击
@@ -104,7 +104,7 @@ working mothers get a bad deal:工作的母亲得到一个糟糕的交易
 what's the deal with you and that guy?:你和那个人有什么关系？
 after the deal, players A and B stay out:交易结束后，球员A和B留在场外
 ‘Time for one more game.’ ‘All right. Whose deal?’:‘再来一场比赛的时间。’‘好吧。
-softwoods such as deal were more usually painted over:softwoods，例如交易，通常被涂上
+softwoods such as deal were more usually painted over:软木，如软木，通常被涂漆
 
 big deal | 大不了,很重要
 
@@ -140,7 +140,7 @@ a tiny apron of garden:花园的小围裙
 the pilot was instructed to park on the main apron:飞行员被指示停在主停机坪
 apron feeders bring coarse ore to a grinding mill:
 
-facts and statistics collected together for reference or analysis:facts和统计数据一起收集以供参考或分析
+facts and statistics collected together for reference or analysis:收集在一起的事实和统计数据以供参考或分析
 the quantities, characters, or symbols on which operations are performed by a computer, which may be stored and transmitted in the form of electrical signals and recorded on magnetic, optical, or mechanical recording media.:计算机对其进行运算的数量、字符或符号，可以以电信号的形式存储和传输，并记录在磁、光或机械记录介质上。
 things known or assumed as facts, making the basis of reasoning or calculation.:事物已知或假定为事实，作为推理或计算的基础。
 data |ˈdeɪtə| Noun/:数据,资料
@@ -149,7 +149,7 @@ there is very little data available:可用的数据很少
 knowledge or experience of something:某事的知识或经验
 slight knowledge of or friendship with someone:对某人的了解或与某人的友谊
 a person one knows slightly, but who is not a close friend:一个人略知一二，但不是知心朋友
-acquaintances considered collectively:acquaintances集体考虑
+acquaintances considered collectively:熟人集体考虑
 acquaintance |əˈkweɪnt(ə)ns| Noun/:熟人,相识,认识的
 the pupils had little acquaintance with the language:学生对该语言知之甚少
 I renewed my acquaintance with Herbert:我重新认识了赫伯特
@@ -188,7 +188,7 @@ great-aunt:姑姑
 one of the boys was very great with her:其中一个男孩对她非常好
 
 a strip of woven material used to bind up a wound or to protect an injured part of the body:一条用于包扎伤口或保护身体受伤部位的编织材料
-bind (a wound or a part of the body) with a protective strip of material:bind（伤口或身体的一部分）用保护带材料
+bind (a wound or a part of the body) with a protective strip of material:用保护性材料条包扎（伤口或身体的一部分）
 bandage |ˈbandɪdʒ| Noun/Verb/:绷带,用绷带包扎,包扎
 her leg was swathed in bandages:她的腿上缠着绷带
 bandage the foot so that the ankle is supported:绷带脚，使脚踝得到支撑
@@ -208,28 +208,28 @@ oral hygiene:口腔卫生
 oral contraceptives:口服避孕药
 a French oral:a法语口语
 
-propel (something) with force through the air by a movement of the arm and hand:propel（某物）通过手臂和手的运动在空气中产生力量
+propel (something) with force through the air by a movement of the arm and hand:通过手臂和手的运动在空中用力推动（某物）
 push or force (someone or something) violently and suddenly into a particular physical position or state:push或强迫（某人或某物）猛烈地突然进入特定的身体位置或状态
 put in place or erect quickly:快速就位或架设
 move (a part of the body) quickly or suddenly in a particular direction:向特定方向快速或突然移动（身体的一部分）
-project or cast (light or shadow) in a particular direction:project或向特定方向投射（光或影）
-deliver (a punch):deliver（一拳）
-direct a particular kind of look or facial expression:direct特定类型的外观或面部表情
-project (one's voice) so that it appears to come from someone or something else, as in ventriloquism:project（一个人的声音）使它看起来像是来自某人或某物，如腹语
-move (a switch or lever) so as to operate a device:move（开关或杠杆）以操作设备
-roll (dice):roll（骰子）
+project or cast (light or shadow) in a particular direction:向特定方向投射或投射（光或影）
+deliver (a punch):交付（一拳）
+direct a particular kind of look or facial expression:引导一种特定的外观或面部表情
+project (one's voice) so that it appears to come from someone or something else, as in ventriloquism:投射（某人的声音），使其看起来像是来自某人或某物，如腹语术
+move (a switch or lever) so as to operate a device:移动（开关或杠杆）以操作设备
+roll (dice):掷骰子）
 obtain (a specified number) by rolling dice.:通过掷骰子获得（指定数字）。
 bowl (the ball) with an unlawful bent arm action.:bowl（球）非法弯曲手臂动作。
 (of a horse) lose (a shoe).:（马的）输（鞋）。
-send suddenly into a particular state or condition:send突然进入一个特定的状态或条件
+send suddenly into a particular state or condition:突然进入特定状态或条件
 put (someone) in a particular place or state in a rough, abrupt, or summary fashion:put（某人）以粗略、突然或概括的方式在特定的地方或状态
-disconcert, confuse:disconcert，迷惑
+disconcert, confuse:不解，迷惑
 send (one's opponent) to the ground in wrestling, judo, or similar activity:在摔跤、柔道或类似活动中将（对手）打倒在地
 (of a horse) unseat (its rider):（马的）使（它的骑手）坐下
-form (ceramic ware) on a potter's wheel:form（陶瓷器）在陶轮上
+form (ceramic ware) on a potter's wheel:陶轮上的形式（陶瓷制品）
 turn (wood or other material) on a lathe.:
 twist (silk or other fabrics) into thread or yarn.:twist（丝绸或其他织物）成线或纱线。
-have (a fit or tantrum):have（适合或发脾气）
+have (a fit or tantrum):有（发作或发脾气）
 give or hold (a party):给予或保持（聚会）
 lose (a race or contest) intentionally, especially in return for a bribe:lose（比赛或竞赛）故意，尤其是作为贿赂的回报
 (of an animal) give birth to (young, especially of a specified kind):（动物的）生下（幼小的，尤指特定种类的）
@@ -248,25 +248,25 @@ the pilot and one passenger were thrown clear and survived:飞行员和一名乘
 the stewards had thrown a cordon across the fairway:管家在球道上设置了警戒线
 she threw her head back and laughed:她仰头大笑
 a chandelier threw its bright light over the walls:a枝形吊灯将其明亮的灯光投射到墙壁上
-Cheryl drew back her fist and threw another punch:Cheryl收回拳头，又打了一拳
+Cheryl drew back her fist and threw another punch:谢丽尔收回拳头，又挥出一拳
 she threw a withering glance at him:她冷冷地瞥了他一眼
 I can throw my voice—I could make a fortune as a medium:我可以发声——我可以通过媒介发财
 at the trolley portal the operator had to manually throw the switch using a switch iron:在手推车入口处，操作员必须使用开关铁手动抛出开关
 he reached out and put the dice in the shaker and threw them:他伸手把骰子放进摇床，扔了出去
 he threw all her emotions into turmoil:他让她所有的情绪都陷入了混乱
 these guys should be thrown in jail:这些人应该被关进监狱
-she frowned, thrown by this apparent change of tack:she皱起眉头，被这种明显的策略改变所困扰
+she frowned, thrown by this apparent change of tack:她皱起眉头，被这种明显的策略改变所困扰
 in the final Arnaud was too strong, and threw Hughes twice:决赛阿诺太强了，两次扔了休斯
 their horse threw its jockey before the race had started:他们的马在比赛开始前就把骑师扔了
-further on a potter was throwing pots:furtheronapotter正在扔罐子
+further on a potter was throwing pots:更远的陶艺家正在扔罐子
 occasionally a small child will throw a tantrum when denied something:有时小孩子在被拒绝某事时会发脾气
 he threw a huge farewell party for them:他为他们举办了一场盛大的欢送会
 the man who throws a race is a crook for life:赛跑的人是一辈子的骗子
 sometimes a completely black calf is thrown:有时会抛出一头全黑的小牛
-Holding's throw hit the stumps:Holding的投球击中树桩
+Holding's throw hit the stumps:霍尔丁的传球击中了门柱
 a shoulder throw:肩抛
 this decision represents something of a final throw:这个决定代表着最后的决定
-he was offering to draw on-the-spot portraits at £25 a throw:he提议以25英镑的价格在现场绘制肖像
+he was offering to draw on-the-spot portraits at £25 a throw:他提议以25英镑的价格在现场绘制肖像
 
 throw a fit | 试一试,大发雷霆
 
@@ -286,7 +286,7 @@ the feeling of grief after losing someone or something of value:失去某人或�
 a person who or thing that is badly missed when lost:一个人或事物在丢失时非常想念
 loss |lɒs| Noun/:失利,损失,损耗,亏损
 avoiding loss of time:避免浪费时间
-insurance can protect you against financial loss:insurance可以保护您免受经济损失
+insurance can protect you against financial loss:保险可以保护您免受经济损失
 I feel a terrible sense of loss:我有一种可怕的失落感
 he will be a great loss to many people:他将是很多人的一大损失
 
@@ -302,7 +302,7 @@ of a familiar or predictable type, formulaic:熟悉或可预测的类型，公�
 the action or process of regulating or being regulated:监管或被监管的行为或过程
 regulation |ˌrɛɡjʊˈleɪʃn| Noun/:规定,规定的,规,条例,监管
 planning regulations:规划规定
-regulation army footwear:regular军鞋
+regulation army footwear:军规军鞋
 a regulation Western parody:a监管西方模仿
 the regulation of financial markets:金融市场的监管
 
@@ -310,7 +310,7 @@ the regulation of financial markets:金融市场的监管
 (with reference to a kettle, pan, or other container) heat or be heated until the liquid inside starts to boil:（参考水壶、平底锅或其他容器）加热或加热直到里面的液体开始沸腾
 (with reference to food) cook or be cooked by immersing in boiling water or stock:(参照食物)煮或浸入沸水或高汤中煮熟
 wash or sterilize in very hot water:在非常热的水中清洗或消毒
-execute (someone) by subjecting them to the heat of boiling liquid:execute（某人）通过使他们受到沸腾液体的热量
+execute (someone) by subjecting them to the heat of boiling liquid:将（某人）置于沸腾液体的高温下处决
 (of the sea or clouds) be turbulent and stormy:(海或云的)风起云涌
 (of a person or strong emotion) be stirred up:（一个人的或强烈的情绪）激动
 the temperature at which a liquid bubbles and turns to vapour:液体起泡并变成蒸气的温度
@@ -321,32 +321,30 @@ a casual outdoor meal at which shellfish is prepared by boiling:a休闲户外餐
 a dish of shellfish boiled in a large pot with sweetcorn, potatoes, and other ingredients:一盘贝类，用甜玉米、土豆和其他食材在大锅中煮熟
 an inflamed pus-filled swelling on the skin, caused typically by the infection of a hair follicle.:皮肤上发炎的充满脓液的肿胀，通常由毛囊感染引起。
 boil |bɔɪl| Noun/Verb/:熬,煮,烧开,沸腾,煮沸
-boil bedclothes and towels:boil被褥和毛巾
+boil bedclothes and towels:煮被褥和毛巾
 one valet was ordered to be boiled alive:一个男仆被命令活活煮
 she stood gazing out of the lighthouse window as the sea boiled beneath her:她站在灯塔窗外凝视着大海在她脚下沸腾
 he was boiling with rage:他怒火中烧
-:
 the kettle's on the boil:水壶在烧开
-he has gone off the boil since opening the campaign:he自从竞选活动开始以来就已经沸腾了
+he has gone off the boil since opening the campaign:他自从竞选活动开始以来就已经沸腾了
 a boil from a fish in a pool:池中鱼的疖子
 the reappearance of warm days signals another revival: weekend crawfish boils:温暖日子的重现预示着又一次复苏-
 I will definitely come back and try the crab cakes and lobster boil:我一定会回来尝试蟹饼和龙虾煮
 
 a country in south-eastern Europe, population 11,000,000 (estimated 2015), official language, Greek, capital, Athens.:东南欧的一个国家，人口11,000,000（估计2015年），官方语言，希腊语，首都，雅典。
 Greece |ɡriːs| Noun/:希腊,雅典
-:
 
 a sheet of information in the form of a table, graph, or diagram:表格、图表或图表形式的信息表
 a weekly listing of the current bestselling pop records:当前最畅销流行唱片的每周列表
 a geographical map or plan, especially one used for navigation by sea or air:地理地图或平面图，尤指用于海上或空中导航的地图或平面图
 a circular map showing the positions of the planets in the twelve houses at the time of someone's birth, from which astrologers are said to be able to deduce their character or potential.:一张圆形地图，显示某人出生时十二宫中行星的位置，据说占星家能够从中推断出他们的性格或潜力。
 make a map of (an area):制作（一个区域）的地图
-plot (a course) on a chart:plot（一门课程）在图表上
+plot (a course) on a chart:在图表上绘制（课程）
 record the progress or development of:记录进度或发展
-(of a record) sell enough copies to enter the music charts at a particular position:(ofarecord)售出足够多的副本以进入特定位置的音乐排行榜
+(of a record) sell enough copies to enter the music charts at a particular position:（唱片）售出足够的副本以进入音乐排行榜的特定位置
 chart |tʃɑːt| Noun/Verb/:图表,记录,图,表格
 the doctor recorded her blood pressure on a chart:医生在图表上记录了她的血压
-she topped the charts for eight weeks:she连续八周高居榜首
+she topped the charts for eight weeks:她连续八周高居榜首
 a chart of the English coast:英国海岸图
 Cook charted the coasts and waters of New Zealand:Cook绘制新西兰的海岸和水域
 the pilot found his craft taking a route he had not charted:飞行员发现他的飞行器走的是他没有绘制的路线
@@ -370,15 +368,15 @@ the specified condition or state of someone or something:某人或某物的指�
 the distinctive nature or qualities of something:某物的独特性质或品质
 give a particular shape or form to:给一个特定的形状或形式
 form or produce (a sound or words):形成或产生（声音或词）
-make (something) fit the form of something else:make(something)适合其他东西的形式
-determine the nature of, have a great influence on:determine的性质，有很大的影响
+make (something) fit the form of something else:使（某物）适合其他事物的形式
+determine the nature of, have a great influence on:决定性质，对
 (of a sports player or athlete) take up a stance or set oneself to perform a particular action:（运动员或运动员）采取某种立场或使自己做出特定的动作
-Supreme Headquarters Allied Powers Europe.:Supreme总部同盟国欧洲。
+Supreme Headquarters Allied Powers Europe.:盟军欧洲最高司令部。
 shape |ʃeɪp| Noun/Residual/Verb/:形状,塑造,形,外形
 she liked the shape of his nose:她喜欢他鼻子的形状
 he saw a shape through the mist:他透过迷雾看到了一个形状
 a fiend in human shape:人形恶魔
-stick paper shapes on for the puppet's eyes and nose:stick纸形状为木偶的眼睛和鼻子
+stick paper shapes on for the puppet's eyes and nose:为木偶的眼睛和鼻子贴上纸的形状
 her skirt had lost its shape long ago:她的裙子很久以前就变形了
 check that your structure will give shape to your essay:检查你的结构是否适合你的文章
 the company came through a difficult period in excellent financial shape:公司度过了一段艰难的时期，财务状况良好
@@ -394,7 +392,7 @@ a creamy-textured liquid with a particular ingredient or use:具有特定成分�
 draw milk from (a cow or other animal), either by hand or mechanically:用手或机械从（牛或其他动物）抽取牛奶
 (of an animal, especially a cow) produce milk:（动物，尤其是牛）产奶
 extract sap, venom, or other substances from:提取树液、毒液或其他物质
-exploit or defraud by taking small amounts of money over a period of time:exploit或通过在一段时间内收取少量资金进行诈骗
+exploit or defraud by taking small amounts of money over a period of time:通过在一段时间内获取少量资金进行剥削或诈骗
 get all possible advantage from (a situation):从（一种情况）中获得所有可能的优势
 elicit a favourable reaction from (an audience) and prolong it:引起（观众）的积极反应并延长它
 milk |mɪlk| Noun/Verb/:牛奶,挤奶,奶,乳,奶粉
@@ -404,8 +402,8 @@ coconut milk:椰浆
 cleansing milk:洁面乳
 two hours later he was up again to milk the cows:两小时后，他又起来挤牛奶了
 the breed does seem to milk better in harder conditions:该品种似乎在更恶劣的条件下产奶更好
-scientists have found a new way of producing an anti-clotting agent—by milking a leech:scientists发现了一种生产抗凝血剂的新方法——给水蛭挤奶
-executives milked the health plan's funds for their personal use:executives榨取健康计划的资金供他们个人使用
+scientists have found a new way of producing an anti-clotting agent—by milking a leech:科学家们找到了一种生产抗凝血剂的新方法——给水蛭挤奶
+executives milked the health plan's funds for their personal use:高管们榨取健康计划的资金供个人使用
 the newspapers were milking the story for every possible drop of drama:报纸正在为每一个可能的戏剧情节挤奶
 he milked the crowd for every last drop of applause:他用最后一滴掌声挤满了人群
 
@@ -430,20 +428,20 @@ I've always been a fan of the guitarists in the group:我一直是团里吉他�
 a methyl group:a甲基
 three chairs were grouped around a table:三把椅子围在一张桌子周围
 molluscs are grouped into seven different classes:molluscs分为七个不同的类别
-growers began to group together to form cooperatives:growers开始联合起来组建合作社
+growers began to group together to form cooperatives:种植者开始联合起来组建合作社
 
-keep (something) from happening:keep（某事）不发生
-stop (someone) from doing something:stop（某人）做某事
+keep (something) from happening:阻止（某事）发生
+stop (someone) from doing something:阻止（某人）做某事
 (of God) go before (someone) with spiritual guidance and help.:（上帝的）带着属灵的指导和帮助走在（某人）前面。
 prevent |prɪˈvɛnt| Verb/:防止,避免,预防,阻止
 action must be taken to prevent further accidents:必须采取行动以防止进一步的事故
-locks won't prevent a determined burglar from getting in:locks不会阻止一个坚定的窃贼进入
+locks won't prevent a determined burglar from getting in:锁不会阻止坚定的窃贼进入
 
-connect (someone or something) with something else in one's mind:connect（某人或某事）与其他人的想法
-connect (something) with something else because they occur together or one produces the other:connect(something)与其他事物，因为它们一起发生或一个产生另一个
+connect (someone or something) with something else in one's mind:将（某人或某物）与脑海中的其他事物联系起来
+connect (something) with something else because they occur together or one produces the other:将（某物）与其他事物联系起来，因为它们一起发生或一个产生另一个
 be involved with:参与
 allow oneself to be connected with or seen to be supportive of:允许自己与或被视为支持
-meet or have dealings with someone regarded with disapproval:meet或与不赞成的人打交道
+meet or have dealings with someone regarded with disapproval:会见或与被视为不赞成的人打交道
 a partner or companion in business or at work:业务或工作中的合作伙伴或伴侣
 a person with limited or subordinate membership of an organization:具有有限或从属组织成员资格的人
 a concept connected with another:一个与另一个相关的概念
@@ -452,7 +450,7 @@ having shared function or membership but with a lesser status:具有共享功能
 associate |əˈsəʊʃɪeɪt| Adjective/Noun/Verb/:联系,伙伴,副的,关联,合伙人
 I associated wealth with freedom:我将财富与自由联系在一起
 the environmental problems associated with nuclear waste:与核废料相关的环境问题
-she has been associated with the project from the first:she从一开始就与该项目相关联
+she has been associated with the project from the first:她从一开始就与该项目相关联
 I cannot associate myself with some of the language used:我无法将自己与所使用的某些语言联系起来
 he began to associate with the Mafia:他开始与黑手党交往
 a close associate of the Minister:部长的亲密伙伴
@@ -470,13 +468,13 @@ a device for making an electrical connection between an appliance and the mains,
 a socket into which an electric plug can be fitted:可插入电插头的插座
 a piece of publicity promoting a product, event, or establishment:宣传产品、活动或机构的宣传片
 a piece of tobacco cut from a larger cake for chewing:一块从较大的蛋糕上切下的烟草用于咀嚼
-tobacco in large cakes designed to be cut for chewing:tobacco大蛋糕，专为咀嚼而设计
+tobacco in large cakes designed to be cut for chewing:设计用于咀嚼的大蛋糕中的烟草
 a lure with one or more hooks attached.:带有一个或多个钩子的诱饵。
 a tired or old horse.:一匹疲倦或老马。
-block or fill in (a hole or cavity):block或填充（孔或空腔）
-insert (something) into an opening so as to fill it:insert（某物）到一个开口中以填充它
+block or fill in (a hole or cavity):堵住或填满（洞或洞）
+insert (something) into an opening so as to fill it:将（某物）插入开口以填充它
 mention (a product, event, or establishment) publicly in order to promote it:提及（产品、事件或机构）公开以进行宣传
-shoot or hit (someone or something):shootorhit(某人或某事)
+shoot or hit (someone or something):射击或击中（某人或某物）
 plug |plʌɡ| Noun/Verb/:插头,封堵,塞子
 somewhere in the pipes there is a plug of ice blocking the flow:管道中的某处有一块冰堵住了水流
 she pulled out the plug and got out on to the sodden bath mat:她拔掉插头，爬到湿透的浴垫上
@@ -506,12 +504,12 @@ a person, especially a police officer, whose occupation is to investigate and so
 denoting a rank of police officer with investigative duties:表示具有调查职责的警官级别
 concerning crime and its investigation:关于犯罪及其调查
 detective |dɪˈtɛktɪv| Noun/:侦探,探
-detectives are anxious to interview anyone who saw the car:detectives急于采访任何看到这辆车的人
+detectives are anxious to interview anyone who saw the car:侦探急于采访任何看到这辆车的人
 a detective inspector:一名侦探督察
 detective work:侦探工作
 
 a colourless volatile flammable liquid which is produced by the natural fermentation of sugars and is the intoxicating constituent of wine, beer, spirits, and other drinks, and is also used as an industrial solvent and as fuel:一种无色挥发性易燃液体，由糖类自然发酵产生，是葡萄酒、啤酒、烈酒和其他饮料的致醉成分，也用作工业溶剂和燃料
-drink containing alcohol:drink含酒精
+drink containing alcohol:含酒精的饮料
 any organic compound whose molecule contains one or more hydroxyl groups attached to a carbon atom:分子中含有一个或多个与碳原子相连的羟基的任何有机化合物
 alcohol |ˈalkəhɒl| Noun/:酒精,醇
 it is an offence to drive if you have more than 80 mg of alcohol per 100 ml of blood:如果您每100毫升血液中的酒精含量超过80毫克，则驾驶属于违法行为
@@ -523,7 +521,7 @@ situated at sea some distance from the shore:位于海上，离海岸有一段�
 relating to the business of extracting oil or gas from the seabed:有关从海底开采石油或天然气的业务
 made, situated, or registered abroad, especially in order to take advantage of lower taxes or costs or less stringent regulation:在国外制造、位于或注册，尤其是为了利用较低的税收或成本或较不严格的监管
 of or derived from a foreign country:of或源自外国
-at sea some distance from the shore:atsea离海岸有一段距离
+at sea some distance from the shore:在离海岸有一段距离的海上
 towards the sea from the land:从陆地走向大海
 in the business of extracting oil or gas from the seabed:从事从海底提取石油或天然气的业务
 in a foreign country, especially in order to take advantage of lower taxes or costs or less stringent regulation:在国外，特别是为了利用较低的税收或成本或不太严格的监管
@@ -535,14 +533,13 @@ a safety regime for the offshore industry:海上工业安全制度
 deposits in offshore accounts:离岸账户存款
 offshore politics:离岸政治
 we dropped anchor offshore:we离岸抛锚
-weather forecasters say the cyclone should move offshore:weather预报员说气旋应该移到海上
+weather forecasters say the cyclone should move offshore:天气预报员说飓风应该向近海移动
 the trainees will eventually work offshore:学员最终将在海外工作
 big businesses in most cases pay little or no tax if they are registered offshore:big企业如果在海外注册，在大多数情况下只缴纳很少税或不缴纳税款
 he predicts that 750,000 UK jobs will be offshored in the next 10 years:he预测，未来10年英国将有750,000个工作岗位转移到海外
 
 a cylinder of tobacco rolled in tobacco leaves for smoking.:一卷烟叶卷成烟叶供吸食。
 cigar |sɪˈɡɑː| Noun/:雪茄,香烟
-:
 
 an outer garment extending either to the waist or the hips, typically having sleeves and a fastening down the front:一件延伸到腰部或臀部的外衣，通常有袖子和前襟
 an outer covering, especially one placed round a tank or pipe to insulate it.:一个外壳，特别是一个放置在罐或管道周围以使其绝缘的外壳。
@@ -593,7 +590,7 @@ a red Xhosa wife spends several years in her mother-in-law's homestead:一个红
 their work is marked in red by the teacher:他们的作业被老师标记为红色
 she could not wear red:她不能穿红色
 which dress - the black or the red?:哪条裙子——黑色还是红色？
-good Italian reds at affordable prices:good意大利红葡萄酒，价格实惠
+good Italian reds at affordable prices:物美价廉的意大利红葡萄酒
 the company was £4 million in the red:该公司亏损400万英镑
 
 relating to or professing Christianity or its teachings:与或信奉基督教或其教义有关

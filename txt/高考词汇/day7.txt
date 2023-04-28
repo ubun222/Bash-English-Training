@@ -43,16 +43,16 @@ make (someone) feel admiration and respect:使（某人）感到钦佩和尊重
 make a mark or design on (an object) using a stamp or seal:使用印章或印章在（物体）上做标记或设计
 apply (a mark) to something with pressure:向有压力的事物施加（标记）
 fix an idea in the mind of (someone):修正（某人）脑海中的一个想法
-apply (an electric current or potential) from an external source.:apply（电流或电势）来自外部源。
+apply (an electric current or potential) from an external source.:从外部源施加（电流或电势）。
 an act of making an impression or mark:一种给人留下印象或标记的行为
 a mark made by a seal or stamp.:印章或印章的标记。
 a person's characteristic quality:一个人的特质品质
-force (someone) to serve in an army or navy:force（某人）在陆军或海军服役
-commandeer (goods or equipment) for public service:commandeer（货物或设备）用于公共服务
+force (someone) to serve in an army or navy:强迫（某人）在陆军或海军服役
+commandeer (goods or equipment) for public service:为公共服务征用（货物或设备）
 impress |ɪmˈprɛs| Noun/Verb/:留下深刻印象,打动
 they immediately impressed the judges:他们立即给评委留下了深刻的印象
 the company should impress the cards with a stamp:公司应在卡片上盖章
-Andean cultures used seals to impress designs on pottery:Andean文化使用印章在陶器上留下深刻印象
+Andean cultures used seals to impress designs on pottery:安第斯文化使用印章在陶器上留下印记
 nobody impressed on me the need to save:没有人让我觉得需要保存
 bluish marks made by the impress of his fingers:他手指印出的蓝色痕迹
 his desire to put his own impress on the films he made:他希望在他制作的电影中留下自己的印象
@@ -82,9 +82,9 @@ a set of proposals or terms offered or agreed as a whole:一组整体提供或�
 a package holiday:一个包假期
 a collection of programs or subroutines with related functionality:具有相关功能的程序或子程序的集合
 put into a box or wrapping for sale or transport:放入盒子或包装中以供销售或运输
-combine (various products) for sale as one unit:combine（各种产品）作为一个单元出售
-commission and produce (a book, typically a highly illustrated one) to sell as a complete product to publishers:commission和制作（一本书，通常是一本插图丰富的书）作为一个完整的产品出售给出版商
-present (someone or something) in an attractive or advantageous way:present（某人或某事）以有吸引力或有利的方式
+combine (various products) for sale as one unit:合并（各种产品）作为一个单元销售
+commission and produce (a book, typically a highly illustrated one) to sell as a complete product to publishers:委托制作（一本书，通常是插图丰富的书）作为完整的产品出售给出版商
+present (someone or something) in an attractive or advantageous way:以有吸引力或有利的方式呈现（某人或某物）
 package |ˈpakɪdʒ| Noun/Verb/:包裹,包装,包,封装
 someone had left a suspicious package:有人留下可疑包裹
 a package of peanuts:一包花生
@@ -92,7 +92,7 @@ a package of measures announced by the government:政府宣布的一揽子措施
 a two-day package to Paris:巴黎两日游
 CAD and banking packages:CAD和银行套餐
 choose products which are packaged in recyclable materials:选择使用可回收材料包装的产品
-films would be packaged with the pictures of a production company:films将与制作公司的图片打包在一起
+films would be packaged with the pictures of a production company:电影将与制作公司的图片一起打包
 it's a question of trying to package the book properly:这是一个试图正确包装这本书的问题
 the singer is being packaged to appeal to teenagers:这位歌手正在被包装以吸引青少年
 
@@ -104,7 +104,7 @@ a person who unscrupulously exploits or swindles others:不择手段剥削、欺
 an expert in a specified field:指定领域的专家
 shark |ʃɑːk| Noun/Verb/:鲨鱼,鲨
 as soon as he arrived he was sharking among the women:他一到就在女人中间兜售
-property sharks want to develop 200 acres around the site:property鲨鱼想在场地周围开发200英亩
+property sharks want to develop 200 acres around the site:房地产商想在该地点周围开发 200 英亩土地
 a pool shark:a池鲨
 
 a category of things or people with a common feature, a type:一类具有共同特征的事物或人，一种类型
@@ -114,7 +114,7 @@ a manner or way:一种方式或方式
 a letter or piece in a font of type.:一个字母或一个字体的字体。
 sort |sɔːt| Noun/Verb/:种类,分类,排序
 if only we knew the sort of people she was mixing with:如果我们知道她和什么样的人交往就好了
-Frank was a genuinely friendly sort:Frank是一个真正友好的人
+Frank was a genuinely friendly sort:弗兰克是一个真正友好的人
 in law also the Judge is in a sort superior to his King:在法律上，法官也比他的国王优越
 
 a person trained to care for the sick or infirm, especially in a hospital:受过照料病人或体弱者的训练，尤其是在医院
@@ -126,8 +126,8 @@ give medical and other attention to (a sick person):给（生病的人）医疗�
 work as a nurse:担任护士
 try to cure or alleviate (an injury, injured part, or illness) by treating it carefully and protectively:尝试通过谨慎和保护性的治疗来治愈或减轻（受伤、受伤部位或疾病）
 hold closely and carefully or caressingly:紧紧地、小心地或爱抚地握住
-hold (a drink), sipping it occasionally:hold（一杯），偶尔啜饮
-harbour (a belief or feeling), especially for a long time:harbour（一种信念或感觉），尤指长久
+hold (a drink), sipping it occasionally:拿着（一杯饮料），偶尔啜饮
+harbour (a belief or feeling), especially for a long time:怀有（一种信念或感觉），尤指长久以来
 take special care of, especially to promote development or well-being:采取特别照顾，特别是促进发展或幸福
 feed (a baby) at the breast:喂（婴儿）在乳房
 be fed at the breast:母乳喂养
@@ -155,7 +155,7 @@ a thing that harms or weakens something else:伤害或削弱其他事物的事�
 enemy |ˈɛnɪmi| Noun/:敌人,敌,仇敌
 the traditional enemies of his tribe:他部落的传统敌人
 the enemy shot down four helicopters:敌人击落四架直升机
-routine is the enemy of art:routine是艺术的敌人
+routine is the enemy of art:常规是艺术的敌人
 
 seize and hold firmly:抓住并牢牢抓住
 take (an opportunity) eagerly:热切地抓住（机会）
@@ -172,7 +172,7 @@ he knew success was within his grasp:他知道成功在他的掌握之中
 meanings that are beyond my grasp:我无法理解的意义
 
 a cinema film:一部电影
-films generally or the film industry:films一般或电影业
+films generally or the film industry:一般电影或电影业
 movie |ˈmuːvi| Noun/:电影,影片
 we decided to go to the movies:我们决定去看电影
 
@@ -202,7 +202,7 @@ an act of arriving or becoming visible:到达或变得可见的行为
 a process of coming into existence or use:产生或使用的过程
 appearance |əˈpɪərəns| Noun/:外貌,出现,外观
 she checked her appearance in the mirror:她检查了她在镜子里的样子
-she read it with every appearance of interest:she读了它的每一个感兴趣的外观
+she read it with every appearance of interest:她读了它的每一个感兴趣的外观
 he is well known for his television appearances:他以在电视上露面而闻名
 the sudden appearance of her daughter startled her:女儿的突然出现吓了她一跳
 the appearance of the railway:铁路的外观
@@ -215,21 +215,21 @@ relating to agriculture:与农业有关
 (in a sporting context) clumsy:（在体育方面）笨拙
 agricultural |ˌaɡrɪˈkʌltʃ(ə)rəl| Adjective/:农业,农产品
 agricultural land:农业用地
-Keith took an agricultural swing at the ball:Keith在球上挥杆
+Keith took an agricultural swing at the ball:基思在球上挥舞着农业挥杆
 
 begin to be:开始成为
 grow to be, develop into:成长为，发展为
 (of a person) qualify or be accepted as:（某人的）有资格或被接受为
 (in questions) happen to:（有问题）碰巧
-(of clothing) look good on or suit (someone):(衣服的)穿上好看或适合(某人)
+(of clothing) look good on or suit (someone):（衣服）看起来不错或适合（某人）
 be appropriate to (someone):适合（某人）
 become |bɪˈkeɪm| Verb/:,成为,变成
 she became angry and sulked all day:她生气了，整天生闷气
 the child will become an adult:孩子长大成人
 she wanted to become a doctor:她想成为一名医生
 what would become of her now?:她现在会变成什么样子？
-mourning regalia became her:mourningregalia变成了她
-minor celebrity status did not become Potter:minor名人身份并没有成为波特
+mourning regalia became her:丧服成了她
+minor celebrity status did not become Potter:小名人身份并没有成为波特
 
 situated in the west, or directed towards or facing the west:位于西方，或指向或面向西方
 (of a wind) blowing from the west.:（风）从西边吹来。
@@ -246,10 +246,10 @@ the President threatened to end Western aid for an oil pipeline in Siberia:总�
 have a desire to possess or do (something), wish for:渴望拥有或做（某事），希望
 wish to speak to (someone):希望与（某人）交谈
 (of a suspected criminal) be sought by the police for questioning:（犯罪嫌疑人）被警方通缉问话
-desire (someone) sexually:desire（某人）性行为
+desire (someone) sexually:对（某人）产生性欲
 desire to be in or out of a particular place or situation:渴望进入或离开特定的地方或情况
 should or need to do something:应该或需要做某事
-(of a thing) require to be attended to in a specified way:(ofathing)需要以特定方式处理
+(of a thing) require to be attended to in a specified way:（事物的）要求以特定方式照管
 lack something desirable or essential:缺少想要的或必不可少的东西
 (chiefly used in expressions of time) lack or be short of (a specified amount or thing):（主要用于表示时间）缺少或缺少（指定的数量或事物）
 a lack or deficiency of something:某事物的缺乏或不足
@@ -257,7 +257,7 @@ the state of being poor and in need of essentials, poverty:穷困潦倒的状态
 a desire for something:对某事的渴望
 want |wɒnt| Noun/Verb/:想,缺少,要,想要,希望
 I want an apple:我要一个苹果
-Tony wants me in the studio:Tony想要我在工作室
+Tony wants me in the studio:托尼要我去录音室
 he is wanted by the police in connection with an arms theft:他因武器盗窃被警方通缉
 I've wanted you since the first moment I saw you:从见到你的第一刻起我就想要你
 if anyone wants out, there's the door:如果有人想出去，门在那儿
@@ -274,7 +274,7 @@ in want | 缺乏,需要
 
 
 
-feel or cause to feel anxious or troubled about actual or potential problems:feel或导致对实际或潜在问题感到焦虑或烦恼
+feel or cause to feel anxious or troubled about actual or potential problems:感到或导致对实际或潜在问题感到焦虑或困扰
 annoy or disturb:惹恼或打扰
 (of a dog or other carnivorous animal) tear at or pull about with the teeth:（狗或其他食肉动物的）用牙齿撕扯或拉扯
 (of a dog) chase and attack (livestock, especially sheep):（狗的）追逐和攻击（牲畜，尤其是羊）
@@ -297,7 +297,7 @@ a rule defining correct procedure or behaviour in a sport:定义运动中正确�
 a statement of fact, deduced from observation, to the effect that a particular natural or scientific phenomenon always occurs if certain conditions are present:从观察中推断出的事实陈述，大意是如果存在某些条件，特定的自然或科学现象总是会发生
 a generalization based on a fact or event perceived to be recurrent:基于被认为是反复出现的事实或事件的概括
 the body of divine commandments as expressed in the Bible or other religious texts.:圣经或其他宗教文本中表达的神圣诫命的主体。
-the Pentateuch as distinct from the other parts of the Hebrew Bible (the Prophets and the Writings).:thePentateuch与希伯来圣经的其他部分（先知和著作）不同。
+the Pentateuch as distinct from the other parts of the Hebrew Bible (the Prophets and the Writings).:摩西五经与希伯来圣经的其他部分（先知书和著作）不同。
 the precepts of the Pentateuch.:五经的戒律。
 a hill, typically one that is round or conical in shape:一座小山，通常是圆形或圆锥形
 law |lɔː| Noun/:法律,法
@@ -322,7 +322,7 @@ a disadvantage:一个缺点
 minus |ˈmʌɪnəs| Adjective/Noun/Preposition/:减,减号,负的,减去
 what's ninety three minus seven?:九十三减七等于多少？
 he was minus a finger on each hand:他每只手都减去一根手指
-minus 40 degrees centigrade:minus40摄氏度
+minus 40 degrees centigrade:零下 40 摄氏度
 minus five:减五
 C minus:C减
 for every plus with this equipment there can be a minus:这个设备的每一个优点都可能是一个负数
@@ -421,7 +421,7 @@ a size of garment or other merchandise denoted by fifty.:以五十表示的服�
 a fifty-pound note or fifty-dollar bill.:一张五十英镑的钞票或五十美元的钞票。
 fifty |ˈfɪfti| Numeral/:五十,5
 only fifty per cent of the aircraft were serviceable:只有百分之五十的飞机可以维修
-Elvis is the icon of the Fifties:Elvis是五十年代的偶像
+Elvis is the icon of the Fifties:猫王是五十年代的偶像
 she looked about fifty:她看起来大约五十岁
 I was doing about fifty:我做了大约五十
 
@@ -443,25 +443,25 @@ act as a substitute for (someone), especially on an official occasion:充当（�
 constitute, amount to:构成，等于
 be a specimen or example of, typify:是一个样本或例子，典型化
 be present in something to a particular degree:在某事中以特定程度存在
-depict (a particular subject) in a work of art:depict（特定主题）在艺术作品中
-describe or portray in a particular way:describe或以特定方式描绘
+depict (a particular subject) in a work of art:在艺术作品中描绘（特定主题）
+describe or portray in a particular way:以特定方式描述或描绘
 (of a sign or symbol) have a particular signification, stand for:（符号或符号的）有特定的意义，代表
 be a symbol or embodiment of:是一个象征或体现
 play (a role) in a theatrical production.:在戏剧作品中扮演（角色）。
-state or point out clearly:state或明确指出
-allege, claim:allege，声称
+state or point out clearly:清楚地陈述或指出
+allege, claim:声称，声称
 represent |ˌrɛprɪˈzɛnt| Verb/:代表,表示
 for purposes of litigation, an infant can and must be represented by an adult:就诉讼而言，婴儿可以而且必须由成人代表
-Wade represented Great Britain:Wade代表英国
-she became the first woman to represent a South Wales mining valley:she成为第一位代表南威尔士采矿谷的女性
+Wade represented Great Britain:韦德代表英国
+she became the first woman to represent a South Wales mining valley:她成为第一位代表南威尔士采矿谷的女性
 the Duke of Edinburgh was represented by the Countess Mountbatten:爱丁堡公爵由蒙巴顿伯爵夫人代表
 this figure represents eleven per cent of the company's total sales:这个数字占公司总销售额的11%
 twenty parents, picked to represent a cross section of Scottish life:20位父母，被选为代表苏格兰生活的一个横截面
-abstraction is well represented in this exhibition:abstraction在本次展览中得到了很好的体现
-santos are small wooden figures representing saints:santos是代表圣徒的小木偶
+abstraction is well represented in this exhibition:抽象在这个展览中得到了很好的体现
+santos are small wooden figures representing saints:桑托斯是代表圣徒的小木人
 the young were consistently represented as being in need of protection:年轻人一直被认为需要保护
 numbers 1–15 represent the red balls:数字 1-15 代表红球
-the three heads of Cerberus represent the past, present, and future:Cerberus的三个头代表过去、现在和未来
+the three heads of Cerberus represent the past, present, and future:地狱犬的三个头代表过去、现在和未来
 it was represented to him that she would be an unsuitable wife:向他表明她将是一个不合适的妻子
 the vendors have represented that such information is accurate:供应商已表示此类信息是准确的
 
@@ -499,4 +499,4 @@ dressed in old or worn clothes:穿着旧衣服
 shabby |ˈʃabi| Adjective/:破旧,破旧的,寒酸
 a conscript in a shabby uniform saluted the car:一个穿着破旧制服的新兵向汽车致敬
 a shabby fellow in slippers and an undershirt:一个穿着拖鞋和汗衫的破旧家伙
-Snooping, was he? That's a shabby trick:Snooping，是吗？
+Snooping, was he? That's a shabby trick:窥探，是吗？这是一个卑鄙的把戏

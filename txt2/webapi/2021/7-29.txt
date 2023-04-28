@@ -1,0 +1,783 @@
+toll					通行费，伤亡人数，毁坏
+torrential				如注的
+burst					使破裂，冲破
+overwhelm				吞没，压垮，战胜
+dam						水坝
+evacuate				撤出，抽空
+authority				权力，权威，来源
+shelter					庇护所，躲避
+cite					引用，举例，嘉奖
+collapse				倒塌，折叠
+suspension				暂停，悬架，悬浮
+inbound					到达的
+casualty				伤亡人数
+rescue					解救
+scale					等级，刻度，比例
+post-disaster			灾后
+reconstruction			重建，再现
+populous				人口众多的
+impact					冲撞，影响
+rapid					快速的
+urbanization			城市化
+climate					气候，氛围
+extreme					极度的，极端的，极度，极端
+resident				居民，常住的
+relocate				搬迁，迁移
+concentrate				全神贯注的，聚集
+vulnerability			易遭攻击
+hazard					危险
+urban					城市的
+sector					行业，部分，扇形
+greenhouse				温室
+emission				排放物，排放
+account for				占
+\\\\\\\\
+
+vt.&vi.（缓慢而有规律地）敲钟，尤指（某人去世后）鸣丧钟:
+n. [sing.] 缓慢而有规律的钟声:
+vt.&vi.（某人去世后）鸣丧钟:
+n. [C, usually sing.]（某场战争、灾难等造成的）破坏或伤亡人数:
+n. 1 [C]（道路、桥梁的）通行费:
+2 [C] [美] 长途电话费:
+toll |[təʊl;美toʊl]
+The bell tolled the hour. 鸣钟报时。
+The pilgrims tolled the bell. 朝圣者缓缓敲响了钟。
+The Abbey bell tolled for those killed in the war. 大教堂为战争中的死难者鸣钟。
+Church bells tolled and black flags fluttered. 教堂丧钟敲响，黑色的旗帜飘动。
+The revolution tolled the death knell (= signalled the end) for the Russian monarchy.（比喻用法）那场革命敲响了俄国君主制的丧钟。
+The Abbey bell tolled for those killed in the war. 大教堂为战争中的死难者鸣钟。
+Church bells tolled and black flags fluttered. 教堂丧钟敲响，黑色的旗帜飘动。
+The revolution tolled the death knell (= signalled the end) for the Russian monarchy.（比喻用法）那场革命敲响了俄国君主制的丧钟。
+final toll 最终伤亡人数 
+casualty, death, injury（尤英）toll 伤亡人数；死亡人数；受伤人数
+civilian, human toll 平民伤亡；人员伤亡 
+emotional, physical, psychological toll 情感创伤；身体创伤；心理创伤 
+The official death toll has now reached 7 000. 官方公布的死亡人数现已达7 000人。
+the war's growing casualty toll 不断增长的战争伤亡人数 
+The death toll from yesterday's crash is still rising. 昨天车祸的死亡人数仍在增加。
+The casualty toll could reach 200. 伤亡人数可能会达到200 人。
+The death toll stands at 37. 死亡人数为37人。
+Illness has taken a heavy toll on her. 疾病对她的身体造成了极大的损害。
+The latest estimates put the death toll at 15000. 最新估计的死亡人数为15，000 人。
+There are fears that the casualty toll may be higher. 有人担心伤亡总数可能会更高。
+the second highest annual murder toll in that city's history 年谋杀案件总数处于该市历史上的第二高位 
+The pressure of fame can take a terrible toll. 名声的压力能造成可怕的伤害。
+The recession is taking its toll. 经济衰退正造成重大损失。
+highway tolls（英国的）高速公路通行费 
+motorway tolls（英国的）道路通行费 
+the possibility of imposing tolls on some roads 对一些公路征收通行费的可能性 
+toll bridge, toll highway, toll motorway, toll road 收费桥梁；收费高速公路；收费道路 
+toll booth（通常用tollbooth）收费亭 
+toll plaza, toll station（均美）收费处；收费站 
+toll charge 通行费的收取 
+
+(of rain) falling rapidly and in copious quantities:(ofrain)迅速大量下落
+(of water) flowing rapidly and with force:(ofwater)快速而有力地流动
+torrential |təˈrɛnʃ(ə)l| Adjective/:,滔滔,倾盆大雨
+a torrential downpour:一场倾盆大雨
+they plunged into the torrential waters:他们掉进了汹涌的水里
+
+vt.＆vi. 极度愤怒:
+vi. 突然说出:
+n. 怒火的爆发:
+vi. be bursting (with sth) 充满了非常多的某种感情:
+vt.＆vi. 极度愤怒:
+n. [C] 一种强烈情感的一段短时间的突然爆发，迸发:
+vi. 突然从某处到来:
+vi. 突然且用很大力量去（或移动到）某处，如猛冲；突然从某处到来或出现:
+n. [C] 一项活动（或一种强烈情感）的一段短时间的突然爆发，迸发:
+vi. 突然出现:
+vi. be bursting (with sth) 充满了非常多的某事物；满得几乎要爆裂开。如爆满；涨满:
+vt.＆vi.（尤指由于内部的压力而）爆裂、胀开、炸碎；使某事物（尤指由于内部的压力而）爆裂、胀开、炸碎:
+n. [C] 某事物的爆裂；某事物爆裂后所留下的裂口或裂缝:
+vi. 突然说出:
+vt.＆vi. 由于心理或生理上的剧烈反应而感觉要炸裂:
+n. [C] 症状的一段短时间的突然爆发:
+vt.＆vi. 爆炸。本义是指物理上爆裂或胀开、炸碎（此现象常由于内部的压力而形成）。偶尔用于表示军事上的爆炸:
+n. [C] 枪炮的一阵短促的射击:
+burst |[bə:st]
+He felt he would burst with anger and shame.（比喻用法）他恼羞成怒，都要气炸了。
+The words burst from her in an angry rush. 她破口说出了那一大堆气话。
+a sudden burst of anger 怒火的喷发
+to be bursting with ideas, to be bursting with enthusiasm, to be bursting with pride 满怀想法；满怀热情；满怀骄傲 
+He felt he would burst with anger and shame.（比喻用法）他恼羞成怒，都要气炸了。
+a sudden burst of anger, a sudden burst of enthusiasm 怒火的喷发；热情的迸发
+He burst into the room without knocking. 他没敲门就闯进了屋子。
+He burst into the room without knocking. 他没敲门就闯进了屋子。
+The sun burst through the clouds. 太阳破云而出。
+The words burst from her in an angry rush. 她破口说出了那一大堆气话。
+burst of activity, burst of energy, burst of anger, burst of enthusiasm 活动的迸发；能量的迸发；怒火的迸发；热情的迸发 
+Her breath was coming in short bursts. 她的呼吸急迫短促。
+I tend to work in bursts. 我的工作劲头往往是一阵一阵的。
+spontaneous bursts of applause 自发的阵阵掌声 
+quick, rapid burst 急促的爆发 
+sudden burst 突然的爆发
+The sun burst through the clouds. 太阳破云而出。
+The words burst from her in an angry rush. 她破口说出了那一大堆气话。
+The roads are bursting with cars. 车辆把那些道路挤满了。
+to be bursting with ideas, enthusiasm and pride 满怀想法、热情和骄傲 
+The hall was filled to bursting point. 大厅里挤满了人。
+That balloon will burst if you blow it up any more. 你再给气球充气，它就要爆了。
+The dam burst under the weight of water. 大坝在水的巨大压力下溃决了。
+burst pipe 爆裂的管子 
+There was a danger that the engine would burst apart. 发动机有炸裂的危险。
+My whole head felt ready to burst. 我整个头快要裂开了。
+He felt he would burst with anger.（比喻用法）他感觉要气炸了。
+a burst in a water pipe 水管上的裂缝
+The words burst from her in an angry rush. 她破口说出了那一大堆气话。
+My whole head felt ready to burst. 我整个头快要裂了。
+I felt as though my heart would burst out of my chest. 我感觉好像心要从胸腔里爆裂出来。
+Her breath was coming in short bursts. 她的呼吸急迫短促。 
+Shells were bursting all around us. 炮弹在我们四周爆炸。
+frequent bursts of machine-gun fire 机枪的频频扫射 
+a rapid burst of gunfire 一阵急促的开火
+
+vt. [常用被动式]（感情或感觉）充溢（让人难以抵挡，或让人不知所措）:
+vt. [常用被动式] 彻底击败…:
+vt. [常用被动式] 太糟或太多以致让人难以应付:
+vt. [常用被动式] [文学]（水）彻底淹没…:
+overwhelm |[ˌəʊvəˈwelm;美ˌoʊvərˈw-]
+She was overwhelmed by feelings of guilt. 她感到愧疚难当。
+The beauty of the landscape overwhelmed me. 秀丽的风光令我深深地陶醉。
+He was overwhelmed by a longing for times past. 他一心渴望回到从前。
+The need to talk to someone, anyone, overwhelmed her. 她迫不及待地要找个人说说话，随便是谁都行。
+We were totally overwhelmed by the response to our appeal. 人们纷纷响应我们的呼吁，令人感动莫名。
+The army was overwhelmed by the rebels. 军队被叛乱者完全击败了。
+It was clear that one massive Allied offensive would overwhelm the weakened enemy. 毫无疑问，盟军一次大规模的进攻就会击溃已是强弩之末的敌军。
+We were overwhelmed by requests for information. 问讯使我们应接不暇。
+The children pressed around him eagerly, overwhelming him with questions. 孩子们急切地将他团团围住，连珠炮似的问了他一大堆问题。
+Deal with stress fast whenever it threatens to overwhelm you. 感觉压力过大就要马上解决。
+
+n. [C] 河流或水库等的水坝:
+dam |[dæm]
+the Aswan High Dam 阿斯旺水坝 
+hydroelectric dam 水电坝 
+The dam holds back the water. 大坝把水挡住。
+The dam burst and the valley was flooded. 水坝决口，山谷被淹了。
+I began to cry--it was as if a dam had broken inside me.（比喻用法，尤美）我哭了起来——泪水像决堤一样。
+
+vt.（把人从危险的地方）疏散，转移，撤离:
+vt.&vi.（从危险的地方）撤出，搬出，撤空:
+vt. [正式] 排空（胃肠）；排泄（粪便）:
+evacuate |[ɪˈvækjueɪt]
+Police evacuated nearby buildings. 警方已将附近大楼的居民疏散。
+Children were evacuated from London to escape the bombing. 为躲避轰炸，孩子们都撤离了伦敦。
+They were planning to evacuate the seventy American officials still in the country. 他们正计划转移仍滞留在该国的70名美国官员。
+Since 1951, 18,000 people have been evacuated from the area. 自1951年以来，已有18, 000人撤离了该地区。
+6 000 soldiers have been medically evacuated since the war began.（medically尤为美式用法）战争爆发以来已有6000名战士被撤离进行治疗。
+to provide aircraft to help evacuate refugees 提供飞机帮助疏散难民 
+Every police unit has been ordered to evacuate all civilians. 所有警察部队奉命疏散全体平民。
+Helicopters were used to evacuate people from their homes. 动用了直升机把人们从居所撤离。
+The man has now been safely evacuated to the mainland. 那个人已被安全撤离到大陆。
+The fire is threatening about sixty homes, and residents have evacuated the area. 大火正威胁着大约六十户人家，居民已经从该地区撤离。
+Employees were urged to evacuate their offices immediately. 已敦促各雇员立即从办公室撤出。
+Officials ordered the residents to evacuate. 官员命令居民撤离。
+Locals were told to evacuate. 当地居民已得到撤离的通知。
+
+n. [U]（关于去做某事的）官方或正式许可，即批准，授权:
+n. [U] 因人们对某人的知识或官方职位的尊敬，而使该人具有的影响他人的能力，即权威，威信，影响力:
+n. [C] authority (on sth)指一个拥有专门知识的人，即专家，学术权威。虽然有时也可称为“专家”，但侧重于强调某人在学术领域相对于其他人的一种权威性，因此叫“权威”比较恰当，暗示出一种高高在上的等级性。一个expert或specialist如果在一个领域有领头羊的作用，就是一个authority。如果达不到这种级别，虽然仍是一个expert或specialist，但一般不称为authority:
+n. 1 [U] 对人下达指令的权力，即权威:
+2 [U] authority (to do sth)表示做某事的权力:
+n. [C] 有权做出决定的人或组织，或在一个国家或地区拥有某种职责（responsibility）的人或组织，即当权者，当局，官方，常用复数，如:
+authority |[ɔ:'θɒrɪtɪ][ɔ:'θɒrɪtɪ]
+He took the car without authority. 他未经许可就把车开走了。
+the authority of the president 总统的批准 
+We acted under the authority of the UN. 我们是经联合国授权行动的。
+He spoke with authority on the topic. 他就这个课题发表了权威意见。
+an authority on criminal law 刑法权威 
+world authority 世界级权威 
+He bore an air of authority. 他显出一副权威的样子。
+absolute authority 绝对权威 
+constitutional, governmental, judicial, political, presidential, regulatory authority 宪法的权力；政府权力；司法权力；政治权力；总统的权力；监管的权力 
+divine authority 神权 
+moral authority 道德权威 
+parental authority 父母的权威 
+adult authority figures such as parents and teachers 成年权威人物，例如父母和老师 
+authority as tsar 沙皇的权力 
+to demonstrate his authority 展示他的权力 
+to challenge my authority 挑战我的权威 
+someone in authority 当权者 
+The agency may have exceeded its authority. 该机构也许越权行事了。
+He refuses to relinquish authority over the design process. 他拒绝交出对设计过程的控制权。
+Only the manager has the authority to sign cheques. 只有经理才有权签支票。
+Parents have the authority to discipline their children. 父母有权管教孩子。
+federal, local, municipal authorities 联邦当局；地方当局；市政当局 
+civil, civilian, military authorities 民政部门；军事部门 
+education, health authorities 教育部门；卫生部门 
+German authority 德国当局
+
+vi. shelter (from sth) 待在一个安全的地方使自己免遭恶劣天气或危险，即躲避（风雨或危险）:
+n. [U] shelter (from sth) 对…（如雨、危险或攻击）的躲避:
+vt. shelter sb/sth (from sb/sth) 给…提供一个地方，使其免遭恶劣天气或危险；保护:
+n. 1 [U] 一个可以供人居住的地方，是人类的一项基本需求，即居所，住处。是一个最具概括性的词，其含义包括了各种各样供人居住的地方:
+2 [C] 常构成复合词，建造起来的一个遮蔽物或庇护处（尤指为躲避恶劣天气或攻击）:
+3 [C]（尤指为慈善机构所拥有的）一栋建筑，用以收容无家可归者或受虐待的人或动物，即收容所，庇护所:
+shelter |['ʃeltə]
+We sheltered from the rain in a doorway. 我们在一个门口处避雨。
+to take shelter from the storm 躲避暴风雨 
+to seek shelter from the gunfire 躲避炮火 
+The great tree gave shelter from the wind. 这棵大树挡住了风。
+She was standing in the shelter of the doorway. 她正躲在门口。
+shelter for the night 过夜的地方 
+tax shelter（比喻用法）避税手段 
+Trees shelter the house from the wind. 树给房子挡住了风。
+to shelter the homeless 庇护无家可归者 
+Perhaps I sheltered my daughter too much. 也许我对女儿保护过度了。
+Human beings need food, clothing and shelter. 人类有衣、食、住的需求。
+They built a rough shelter from old pieces of wood. 他们用旧木条搭了一个简陋的窝棚。
+temporary shelter 临时避难所 
+stone, underground, wooden shelter 石屋；地下掩体；木屋 
+air-raid（英）, bomb, bus, emergency shelter 防空洞；公交车候车亭；紧急避难所 
+a shelter for cattle 牛棚 
+animal shelter 动物收养所 
+homeless shelter 无家可归者收容所
+
+vt. [正式] ~ sb (for sth)（正式或公开）嘉奖、表彰某人:
+vt. [正式] ~ sth (as sth) 提及某事作为例子:
+vt. [正式] [法律]（在案件中）正式提出某人的名字:
+vt. [正式] [法律] 传唤、传讯（某人出庭）:
+vt. [正式] ~ sth (as sth) 提及某事作为原因或例子，或为支持自己的观点:
+vt. [正式] [法律]（在案件中）正式提出某人的名字；提出一个原因作为案件的正式原因:
+vt. [正式] 以口头或书面的形式引用、援引（一本书、一个作者等的文字）。相当于quote:
+cite |[saɪt]
+He was cited for bravery. 他因表现勇敢而得到嘉奖。
+He cites just one example. 他只引用了一个例子。
+This is similar to the example cited above. 这和上面所举的例子类似。
+He cited the fall in unemployment as one of the government's successes. 他举出失业人数下降作为政府的一项功绩。
+Three admirals and a top Navy civilian will be cited for failing to act on reports of sexual assaults. 三位海军上将和一位海军高级文员将被指名，原因是他们在接到性侵犯的举报后没有采取任何行动。
+She was cited in the divorce proceedings. 她在离婚诉讼中被传唤。
+The judge ruled a mistrial and cited the prosecutors for outrageous misconduct. 法官裁定为无效审判，并以严重渎职为名传讯了检察官。
+He cited his heavy workload as the reason for his breakdown. 他说繁重的工作负荷是导致他累垮的原因。
+He cites just one example. 他只引用了一个例子。
+This is similar to the example cited above. 这和上面所举的例子类似。
+The most commonly cited reasons for stopping the treatment were side effects. 停用这种治疗方法最常搬出的理由是副作用。
+He cited the fall in unemployment as one of the government's successes. 他举出失业人数下降作为政府的一项功绩。
+They cited Alex's refusal to return to the marital home. 他们引证了亚历克斯拒绝回到婚后的家中一事。
+Three admirals and a top Navy civilian will be cited for failing to act on reports of sexual assaults. 三位海军上将和一位海军高级文员将被指名，原因是他们在接到性侵犯的举报后没有采取任何行动。
+She cites a favourite poem by George Herbert. 她引用了自己最喜爱的一首乔治·赫伯特的诗。
+
+n. [C, usually sing. U]（体系、机构、生意、行动等的）突然失败:
+vi.（体系、机构、行动等）突然或彻底地失败:
+vi. 尤指因重病而倒下（通常失去意识）:
+vi. [非正式] 尤指工作劳累后坐下或躺下以放松:
+n. [U, C, usually sing.] 因重病而倒下:
+vt.&vi.（内部有气体或液体的事物）萎陷、内陷、瘪掉（如降落伞、肺、血管等）:
+vi. 在碎裂之后突然倒塌:
+n. [U] 建筑物的突然倒塌:
+vt.&vi. 折叠起来（以减少空间占用）；可被折叠:
+n. [U, C, usually sing.] 重病:
+vi. 价格或货币突然降低或贬值、暴跌:
+n. [C, usually sing] 价格或货币的突然降低:
+collapse |[kəˈlæps]
+economic, financial collapse 经济崩溃；财务崩溃 
+The war has led to the collapse of agriculture in the area. 战争导致那一地区农业崩溃。
+a collapse into anarchy 崩溃陷入无政府状态 
+the collapse of law and order in the area 该地区治安的瘫痪 
+The peace talks were on the verge of collapse. 和平谈判濒于破裂。
+This system has collapsed in most countries where it ruled. 这一体制在其占统治地位的大多数国家都失败了。
+His business empire collapsed under a massive burden of debt. 他的商业帝国无力承担沉重的债务负担而垮掉了。
+All opposition to the plan has collapsed. 所有反对此计划的力量均已消除。
+Talks between management and unions have collapsed. 资方与工会的谈判已告破裂。
+In November the strike finally collapsed. 罢工到十一月份终告失败。
+The scheme collapsed in the face of determined opposition. 该计划因遭到强硬的反对而失败。
+The theory collapsed in the face of the evidence. 在证据面前，这一推测不成立。
+She collapsed suddenly from a heart attack. 她因心脏病发作而突然倒地。
+He collapsed with shock. 她由于休克而晕倒。
+He collapsed in the street and died two hours later. 他昏倒在大街上，两小时后便去世了。
+He collapsed following a vigorous exercise session at his home. 在家剧烈运动了一阵后他突然昏倒了。
+to collapse from hunger 饿晕 
+The man collapsed against the wall and slid down it. 那个男人倒在墙上，顺着墙壁往下滑。
+He collapsed in a heap on the floor. 他瘫倒在地，蜷成一团。
+When I get home I like to collapse on the sofa and listen to music. 回到家时，我喜欢倒在沙发上听音乐。
+She arrived home exhausted and barely capable of showering before collapsing on her bed. 她精疲力竭地回到家，勉强冲了个澡就倒在了床上。
+his collapse from exhaustion 他精力耗尽而倒下 
+She was taken to hospital after her collapse at work. 她在工作时晕倒后被送进了医院。
+He plunged 300ft to the ground when his parachute collapsed. 降落伞突然瘪了，他从300英尺的高空跌落到地面。
+He was rushed to hospital last week after suffering a collapsed lung. 上星期，他因出现肺萎陷而被火速送进医院。
+The building has collapsed in a roar of rock and rubble. 那幢建筑轰隆一声塌了下来，碎石瓦砾落了一地。
+The roof collapsed under the weight of snow. 房顶在雪的重压下坍塌了。
+The bridge had collapsed. 桥塌了。
+The walls were strengthened to protect them from collapse. 围墙已加固以防倒塌。
+the sudden collapse of the bridge 那座桥的突然倒塌 
+to be in danger of collapse 有倒塌的危险
+The table collapses for easy storage. 这桌子可折叠起来方便存放。
+She was on the verge of nervous collapse. 她几乎精神崩溃。
+He was in a state of mental and physical collapse. 他身心崩溃。        
+Share prices collapsed after news of poor trading figures. 在交易数额不佳的消息公布后，股票价格暴跌。
+the collapse of share prices 股价暴跌 
+the collapse of the dollar 美元暴跌 
+the collapse of the market 市场价格暴跌
+
+n. [U, C] 正式让某人从其职位、学校、团队等暂停工作一段时间（通常作为一种惩罚），即停职、停学、停赛等:
+n. [U, sing.] 将某事推迟一段时间的行为（直到做出下一个决定），即暂缓；推迟；延期（可以是主动“推迟”，也可以是被动“延期”）:
+n. 悬浮液（即悬浮着细小固体颗粒的液体）；悬浮的状态:
+n. [U, C]（车辆减震用的）悬架:
+suspension |[səs'penʃn]
+suspension from school 暂被停学 
+a five-game suspension for violating the league’s drug policy 因违反联赛药品规定而停赛五场 
+He is serving a one-match suspension. 他正在接受停赛一场的处罚。
+a detective under suspension from his job 被停职的警探 
+his suspension from the club 他被俱乐部暂时除名
+These events have led to the suspension of talks. 这些事件导致谈判延期。
+a temporary suspension of a flight 航班的临时暂停
+front, rear suspension 前悬架；后悬架 
+active, independent suspension 主动悬架；独立悬架
+
+travelling towards a particular place, especially when returning to the original point of departure:前往特定地点，尤其是返回原出发地时
+(of a message or communication) sent to rather than from the person in question:（消息或通信的）发送给而不是从相关人员
+towards a particular place, especially when returning to the original point of departure:towards一个特定的地方，尤其是回到原来的出发点时
+throw (the ball) from out of bounds, putting it into play:throw（球）从界外，投入比赛
+inbound |ˈɪnbaʊnd| Adjective/Adverb/Verb/:入境,进站
+authorities set up roadblocks to stop all inbound traffic on tunnels and bridges:当局设置路障以阻止隧道和桥梁上的所有入境交通
+we determined that all inbound e-mail was coming from the same address:我们确定所有入站电子邮件都来自同一个地址
+we continued inbound to the ship:we继续进船
+Ohio State inbounded the ball against the swarming defenders:OhioState对蜂拥而至的防守队员传球
+
+n. 1 [C] 战争或事故中的伤者或遇难者:
+2 [C] 受害者；受损事物:
+n. [U]（也可用casualty department或accident and emergency，均为英式用法；美式用emergency room）医院的急诊室:
+casualty |[ˈkæʒuəlti]
+pedestrian casualty（英）行人伤亡 
+road casualty（英）交通事故伤亡人员 
+civilian, military casualty 平民伤亡；军人伤亡 
+human casualty 人员伤亡 
+The guerrillas inflicted heavy casualties on the local population. 游击队使当地居民蒙受重大伤亡。
+Troops fired on demonstrators near the Royal Palace causing many casualties. 军队在皇宫附近向示威人群开枪，造成大量伤亡。
+Our division suffered only light casualties. 我们师只有少量伤亡。
+Both sides had suffered heavy casualties (= many people had been killed). 双方都伤亡惨重。
+casualty count, casualty figures, casualty list, casualty rate 伤亡总数；伤亡数字；伤亡名单；伤亡率 
+She became a casualty of the reduction in part-time work (= she lost her job). 她成了裁减兼职工作的受害人。
+Small shops have been a casualty of the recession. 小商店在经济萧条中深受其害。
+Fiat has been one of the greatest casualties of the recession. 菲亚特一直是经济萧条中损失最惨重的公司之一。
+casualty unit, casualty ward 急诊室；急诊病房 
+The victims were rushed to casualty. 受伤者被迅速送往急救室。
+I was taken to casualty at St Thomas's Hospital. 我被送往圣·托马斯医院的急救室。
+He was admitted to casualty with head injuries. 他因头部受伤而被送进急诊室。
+He works as a doctor in casualty. 他是急诊医生。
+
+vt. rescue sb/sth (from sth/sb) 将…从危险或有害的处境中解救出来，即营救，救援，抢救。其含义已为save所涵盖，但是，第一，rescue虽然偶尔可表示“救”事物和“救”情况，但主要表示“救”生命，且常指在一次具体的行动中通过制定周详的计划、协调各环节、调度各方资源来“营救”或“救援”处于危险中的人。虽然此时也可换为save，但save往往过于强调结果，而rescue则往往更能反映救援的过程，以及该过程的紧张性、惊险性和待救人员当时紧张而期盼的心理；第二，save可以是短期的或长期的“救”，而rescue一般仅指短期的“救”，通常是一次具体的行动:
+n. 1 [U] 救援，营救，获救:
+2 [C] 营救行动:
+rescue |['reskju:]
+He rescued a child from drowning. 他救起了一名落水儿童。
+They were eventually rescued by helicopter. 他们最后被直升机救走了。
+The house was rescued from demolition. 这所房子保住了，可以不拆。
+You rescued me from an embarrassing situation. 我正感到尴尬，你为我解了围。
+the rescue of a man from a burning building 从燃烧着的大楼中营救一名男子 
+The navy are on a search and rescue mission. 海军正在执行搜救任务。
+a mountain rescue team 高山救援队 
+rescue service 救援服务 
+rescue helicopter, rescue vehicle 救援直升机；抢救车辆 
+rescue dog, rescue equipment 搜救犬；救援装备 
+a financial rescue package for the company 对该公司的一揽子财务救助计划 
+A wealthy benefactor came to their rescue with a generous donation. 一位富有的赞助人慷慨解囊挽救了他们。
+mountain, water rescue, hostage rescue, helicopter rescue, financial rescue 高山救援；水上救援；人质营救；直升机救援；财务救助
+
+n. [U] [英也用fur]（水管、容器等事物上面附着的）水垢:
+vt. [正式] 攀登到又高又陡的事物顶端:
+vt. [术语] 改变某事物的大小:
+vt. 给鱼刮除鳞片:
+n. [pl.] [美也用scale] scales指用于称重的工具，如秤、天平:
+n. [C]（鱼或爬行动物的）鳞、鳞片:
+n. [C] 量具上的刻度:
+n. [C]（地图、图表或模型的）比例、比例尺:
+a scale of 1:25 000 1:
+n. [sing, U] ~ (of sth) 规模、范围、程度、尺寸，尤指与其他事物相比较时的规模、范围、程度、尺寸，且尤指庞大的规模或很深程度:
+n. [sing, U] ~ (of sth) 范围，尤指与其他事物相比较时的范围，且尤指大的范围:
+n. [U]（牙齿上的）牙垢、牙结石:
+vt. 刮除牙结石:
+n. [C] 音乐中可指音阶:
+n. [sing, U] ~ (of sth) 程度，尤指与其他事物相比较时的程度，且尤指很深的程度:
+n. 1 [C] 用于测量的等级:
+2 [C, usually sing.]（从最低到最高的）等级体系:
+scale |[skeɪl]
+the first woman to scale Mount Everest 第一位登上珠穆朗玛峰的女性 
+In 1981, five members of a climbing party died while scaling Mount Hood. 1981 年，一支登山队的5名队员在攀登胡德峰时遇难。
+The men scaled a wall and climbed down scaffolding on the other side. 那些男人攀上一堵墙然后顺着另一侧的脚手架爬了下去。
+He has scaled the heights of his profession.（比喻用法）他登上了他事业的顶峰。
+Text can be scaled from 4 points to 108 points without any loss of quality. 正文可以从4点变到108点，但印刷质量丝毫不会降低。
+weighing scales（尤英）磅秤；天平 
+bathroom scales, kitchen scales 浴室磅秤；厨房用秤 
+At birth, she tipped the scales at a healthy 7lb 9oz. 她出生时的体重为7磅9盎司，十分健康。
+I had a shock when I stood on the scales. 往磅秤上一战，我吓了一跳。
+the scales of justice（比喻用法）法律公正的天平 
+At the moment the scales tip in favour of the Russians.（英式用法）目前，形势转而对俄罗斯人有利。
+At the moment the scale tips in favour of the Russians.（美式用法）目前，形势转而对俄罗斯人有利。
+That last goal has tipped the scale towards/toward the Brazilians. 最后那个进球扭转了局面，形势对巴西队非常有利。
+fish scale 鱼鳞 
+overlapping scale 交叠的鳞片 
+armoured/armored scale 甲鳞
+How much does it read on the scale? 刻度显示的是多少？
+The map has a scale of one centimetre to the kilometre. 这幅地图的比例是一厘米代表一千米。
+The map, on a scale of 1:10,000, shows over 5,000 individual paths. 该地图以 1:10,000 的比例尺显示了 5,000 多条不同道路。
+a scale drawing 按比例缩放的图画 
+Is this diagram to scale (= are all its parts the same size and shape in relation to each other as they are in the thing represented)? 这个示意图是按比例画的吗？
+Both plans are drawn to the same scale. 两张平面图是按同一比例绘制的。
+The plan of the building is not drawn to scale. 大楼的平面图画得不合比例。
+He's made a scale model of the Eiffel Tower. 他按比例做了一个埃菲尔铁塔模型。
+Franklin made his mother an intricately detailed scale model of the house. 富兰克林为他的母亲制作了一个复杂精细的房屋模型。
+to achieve economies of scale in production (= to produce many items so the cost of producing each one is reduced) 实现规模生产 
+Economies of scale enable the larger companies to lower their prices. 规模经济使得大公司可以降低产品价格。
+The dolls are now produced on a commercial scale. 这种玩具娃娃现已投入规模化生产。
+They plan to expand the scale and scope of their operations. 他们打算扩大经营规模和范围。
+the scale of the project 项目的规模 
+the scale of the task 任务的规模 
+pollution on a massive scale 大范围的污染 
+On a global scale, 77% of energy is created from fossil fuels. 全球77%的能量产生自化石燃料。
+Here was corruption on a grand scale. 这里的腐败现象曾十分严重。
+It was impossible to comprehend the full scale of the disaster. 这场灾难的严重程度是无法充分认识的。
+It is difficult to comprehend the sheer scale of the suffering caused by the war. 人们很难理解战争造成的苦难有多严重。
+It was not until morning that the sheer scale of the damage could be seen (= how great it was). 直到早晨才看清了损害的严重程度。
+the scale of destruction 破坏的严重程度 
+However, he underestimates the scale of the problem. 然而，他低估了问题的严重性。
+They entertain on a large scale (= they hold expensive parties with a lot of guests). 他们大宴宾客。
+Do they always entertain on such a lavish scale? 他们经常这样大摆筵席吗？
+a misuse of presidential power on an unprecedented scale 总统权力程度空前的滥用 
+Given the scale of the change, it is essential that all managers familiarize themselves with the details. 考虑到变动幅度之大，每一位主管都有必要熟悉这些细节。
+It was several days before the full scale of the accident became clear. 事故的全部情况直到几天以后才搞清楚。
+The final building is realized on a human scale. 最终建成的大楼实现了建筑设计的人性化。
+The city would operate on a more human scale if cars were banned from the centre. 如果禁止车辆进入市中心，这座城市的运行将更加人性化。
+You may feel dwarfed by the sheer scale of the place. 看到此处气势如此恢宏，你可能会觉得自己很渺小。
+The paintings are small in scale. 这些画尺寸较小。
+pollution on a massive scale 大范围的污染 
+On a global scale, 77% of energy is created from fossil fuels. 全球77%的能量产生自化石燃料。           
+The dentist scaled and polished my teeth. 牙医为我刮除牙石，抛光了牙齿。
+the scale of C major C大调音阶 
+to practise scales on the piano 在钢琴上练习音阶          
+Here was corruption on a grand scale. 这里的腐败现象曾十分严重。
+It was impossible to comprehend the full scale of the disaster. 这场灾难的严重程度是无法充分认识的。
+It is difficult to comprehend the sheer scale of the suffering caused by the war. 人们很难理解战争造成的苦难有多严重。
+It was not until morning that the sheer scale of the damage could be seen (= how great it was). 直到早晨才看清了损害的严重程度。
+the scale of destruction 破坏的严重程度 
+However, he underestimates the scale of the problem. 然而，他低估了问题的严重性。
+salary, wage（尤英）scale 薪资等级 
+The company has a five-point pay scale. 这家公司的工资分为五个等级。
+those on the high end of the pay scale 工资级别最高的人 
+After 10 years, she had worked her way to the top of the pay scale. 10年后，她已拿到了最高级别的薪水。
+Benefits are paid on a sliding scale according to family income. 补助金的发放根据家庭收入而定，数额不等。
+A Registered Osteopath will be pleased to tell you his scale of fees before you decide on a consultation. 在病人决定是否就诊之前，注册整骨医师会很乐意告知其收费标准。
+to evaluate performance on a scale from 1 to 10 按1到10级来评估业绩 
+On a scale of 1 to 10, he scores 7. 按从1到10的计分标准评定，他得到7分。
+The patient rates the therapies on a scale of zero to ten. 患者按十分制给这些治疗方法打分。
+Patients were asked to state their level of anxiety on a 10-point rating scale. 患者被要求用十分制打分标准给出各自焦虑程度的分值。
+Can you give me any sort of time scale for the completion of the building work? 你能不能告诉我这个建筑工程的完工进度？
+Beaufort scale 蒲福风级 
+The earthquake measured 6.4 on the Richter scale. 地震强度为里氏6.4级。
+the social scale 社会等级体系 
+He has risen up the social scale from rather humble beginnings. 他从低位卑微的无名小卒开始打拼，获得了现今的社会地位。
+At the other end of the scale, life is a constant struggle to get enough to eat. 对于处在社会最底层的人来说，生活就是为吃饱肚子而不断挣扎的过程。
+a scale ranging from ‘utterly miserable’ to ‘deliriously happy’ 从“悲惨之王”到“快乐如痴”的不同程度 
+Where do birds come on the evolutionary scale? 在进化等级中，鸟类处于什么位置？
+
+
+post-disaster | 灾后,灾难后的
+
+n. 1 [U] 对某事物（如国家等）的重建；对状态的复原:
+2 [U]（对建筑物、道路等已遭破坏或损毁的事物的）修复:
+3 [C]（对已消失的事物的）模仿:
+4 [C] 再现某事（尤指犯罪过程）的一小段影片:
+5 [U] Reconstruction可指（美国南北战争后南方各州重新加入联邦的）重建时期:
+reconstruction |[ˌri:kənˈstrʌkʃn]
+The country faces a huge task of national reconstruction following the war. 战后，该国面临着重 建家园的艰巨任务。
+post-conflict, post-war reconstruction 冲突后重建；战后重建 
+economic, political, social reconstruction 经济重建；政治改组；社会重建 
+The bombed city is now undergoing extensive reconstruction. 这座曾遭到轰炸的城市现正在进行大规模的重建。
+reconstruction period 重建时期 
+reconstruction effort, reconstruction work重建工作 
+companies bidding for post-war reconstruction contracts 投标战后重建合同的公司
+reconstruction plan, reconstruction programme/program, reconstruction project, reconstruction scheme（英）重建计划；重建项目；重建工程；重建方案 
+a large-scale urban reconstruction project 大规模的城市重建工程 
+reconstruction technique 重建技术 
+reconstruction costs following the cyclone 飓风过后重建家园的费用 
+reconstruction aid, reconstruction assistance, reconstruction money 重建援助；重建资金 
+reconstruction fund 重建基金 
+Work began on the reconstruction of the road. 道路的重建工作开始了。
+the reconstruction of the sea walls 海堤的修复 
+surgical reconstruction of his mouth 对他的嘴进行的外科修复 
+breast, facial reconstruction 乳房的重塑；面部的重塑 
+breast reconstruction surgery 乳房再造手术 
+The doorway is a 19th century reconstruction of Norman work. 门廊是19世纪时模仿诺曼式建筑修建的。
+A group of enthusiasts have undertaken the reconstruction of a steam locomotive. 一群火车迷已担负起重造蒸汽机车的任务。
+a life-size reconstruction of a Viking longboat 根据原尺寸重建的北欧海盗船 
+a dramatic reconstruction of school life in the 1940s（dramatic尤为英式用法）20世纪40年代学校生活的生动再现 
+a historical reconstruction based on contemporary documents 以同时代文献为基础的历史再现 
+Last night police staged a reconstruction of the incident. 昨天晚上，警方演出了再现事故经过的场景。
+Mrs Kerr was too upset to take part in a reconstruction of her ordeal. 克尔夫人受惊过度，不堪再参与自己所受折磨的场景重现。
+The police staged a reconstruction of the events leading up to the murder.（stage为英式用法）警方放映了再现导致谋杀案发生的系列事件的短片。
+
+having a large population; densely populated:人口众多；人口稠密
+populous |ˈpɒpjʊləs| Adjective/:人口众多,人多的
+the populous city of Shanghai:人口稠密的上海
+
+vt.&vi. ~ (on/upon) sth 对某事物有影响、有作用:
+n. [C, usually sing, U] ~ (of sth) (on sb/sth) 对某人或某事物产生的巨大影响:
+n. [C, usually sing, U] 物体之间的撞击力:
+n. [C, usually sing, U] 物体之间的撞击:
+vt.&vi. ~ (on/upon/with) sth [正式] 撞击:
+impact |[ˈɪmpækt]
+The company's performance was impacted by the high value of the pound. 公司的业绩受到了英镑高值的冲击。
+to impact on inflation and competition 对通货膨胀和竞争产生影响 
+Such schemes mean little unless they impact on people. 这些计划没什么意义，除非它们对人民产生影响。
+Her father's death impacted greatly on her childhood years. 父亲去世对她的童年造成巨大影响。
+cultural, ecological, economic, emotional, financial, health, political, psychological, social impact 文化影响；生态影响；经济影响；情感影响；财务影响；健康影响；政治影响；心理影响；社会影响 
+Businesses are beginning to feel the full impact of the recession. 工商企业开始感受到了经济衰退的全面冲击。
+the impact of the debt crisis on developing countries 本次债务危机对发展中国家的影响 
+Variations in the interest rate will have an impact on the whole housing market. 利率的变动将对整个房地产市场产生影响。
+the initial impact of the reforms 改革的最初影响 
+the likely impact of the changes on employment patterns 这些变化对雇佣模式可能产生的影响 
+to minimize the impact of price rises on our customers 努力使涨价对我们的顾客产生的影响降至最低 
+to resist the impact of poverty on the health of their children 避免贫困对孩子的健康产生影响 
+They say they expect the meeting to have a marked impact on the future of the country. 他们称他们预期会议对国家的未来会产生显著影响。
+the wider impact of this proposal 这份提议的更广泛的影响 
+the personal impact of party leaders 政党领袖的个人影响力 
+the environmental impact of tourism 旅游事业对环境的巨大影响 
+the impact of AIDS on the gay community 艾滋病对同性恋群体的影响 
+the major impact of this epidemic 这种传染病的重大影响 
+Architecturally, these churches reflected the impact of the Renaissance. 从建筑风格来看，这些教堂受到了文艺复兴的影响。
+The railways made a direct physical impact on the landscape. 铁路对地貌产生直接影响。
+We'll show you how to dress for maximum impact at the all-important audition. 这次试演关系重大，我们会教你如何着装才能取得最佳效果。
+the cumulative impact of a series of damaging events 一系列危害事件所产生的累积影响 
+Her speech made a profound impact on everyone. 她的讲话对每个人都有深远的影响。
+You certainly made a big impact on Carter. 你确实对卡特产生了很大影响。
+the human impact on the dolphins 人类对海豚的影响 
+physical, visual impact 生理影响；视觉影响 
+potential impact 潜在的影响 
+decisive impact 决定性的影响 
+positive, negative impact 积极的影响；消极的影响
+The front coach of the train took the full impact of the crash. 火车的前部车厢承受了全部撞击力。
+A well-designed sports shoe should absorb the impact on the 28 bones in each foot. 设计精良的运动鞋应能减轻冲击力，保护单足的28块骨头。
+asteroid impact 小行星撞击 
+craters made by meteorite impacts 陨石撞击而成的陨石坑 
+The front of the car had crumpled on impact. 汽车前部因撞击叠成了一团。
+The car is fitted with side impact bars (= to protect it from a blow from the side). 这辆车的两侧都安装了保险杠。
+Air bags are designed to soften the impact for crash victims. 气囊是为减缓撞车事故受害人所受冲击而设计的。
+to die on impact 死于撞击 
+to survive the impact 在撞击中幸存下来 
+The bomb explodes on impact (= when it hits something). 炸弹受到撞击就爆炸。
+The impact of the blow knocked Jack off balance. 这一记猛击把杰克打了个趔趄。
+impact speed, impact velocity 撞击速度 
+the moment of impact 撞击的瞬间 
+the sharp tinkle of metal impacting on stone 金属撞击石头发出的刺耳叮当声 
+The missile merely impacted with the ground prematurely. 导弹只是提前撞向了地面。          
+
+adj. 1 常用于名词前，在一段短时间内所发生的。常用于描述事物变化（而非运动）的速度:
+2 完成或发生得非常迅速的。此时不如quick常用:
+rapid |['ræpɪd]
+rapid change, rapid expansion, rapid growth 迅速的改变；迅速的扩张；迅速的增长 
+a rapid rise in sales 销售额的急剧上升 
+The patient made a rapid recovery. 病人很快恢复了健康。
+rapid pulse, rapid heartbeat 急促的脉搏；急促的心跳 
+The guard fired four shots in rapid succession. 卫兵接连开了四枪。
+The disease is spreading at a rapid rate. 这种疾病正在迅速蔓延。
+
+the process of making an area more urban:使一个地区更加城市化的过程
+urbanization |əːb(ə)nʌɪˈzeɪʃ(ə)n| Noun/:,城镇化
+he saw nature being destroyed by urbanization:他看到自然被城市化破坏
+
+n. [C] 氛围、形势、思潮、风气、整体的态度倾向等。是一种比喻用法:
+n. 1 [C, U] 一地的气候:
+2 [C] 具有某一气候的一个地区，即气候区:
+climate |['klaɪmɪt]
+business, cultural, economic, emotional, financial, ideological, intellectual, investment, moral, political, social climate 商业气氛；文化氛围；经济气候；情感氛围；财政形势；意识形态氛围；知识界的氛围；投资环境；道德氛围；政治气候；社会风气 
+a climate of violence 暴力风气 
+the climate of opinion 舆论倾向 
+the prevailing climate of pessimism 流行的悲观情绪 
+The new policies have created a climate of fear. 新政策造成了一种恐慌的气氛。
+hot climate 炎热的气候 
+mild climate 温和的气候 
+the severe northern climate 恶劣的北方气候 
+damp climate 潮湿的气候 
+dry climate 干燥的气候 
+desert climate 沙漠气候 
+climate change 气候变化 
+climate conditions, climate patterns 气候条件；气候模式 
+a warmer climate 气候较温暖的一个地区
+
+n. [C] 在感情、情况、行为方式等方面与一者极为不同（或截然相反）的另一者:
+adj. 只用于名词前，尽量远离中心、开始或某个方向的，如末端的、尽头的:
+adj. 不寻常的；严重的。常翻译为“极端的”，程度在本组几乎最深:
+adj.（人、政治组织、意见等）远远偏离正常或合理范围的，如极端的、偏激的。与moderate相反:
+n. [C] 某事物的最大（或最高）程度，如极度、极端（也可看作一种程度上的极限）:
+adj. 常用于名词前，程度非常深的，如极其的、极度的:
+extreme |[ɪk'stri:m]
+extremes of love and hate 爱和恨两种截然不同的感情 
+Their views are at opposite extremes from each other. 他们的观点极端对立。
+to go from one extreme to the other 从一个极端走向另一个极端 
+He used to be very shy, but now he’s gone to the opposite extreme. 他以前很腼腆，现在却走向了另一个极端。
+the extreme west of Ireland 爱尔兰的最西端 
+She sat on the extreme edge of her seat. 她坐在座位最边上。
+in extreme circumstances 在极端情况下 
+Don’t go doing anything extreme like leaving the country. 千万不要做出诸如离开国家之类的极端行为。
+a extreme example 极端事例 
+extreme weather conditions 极端天气状况
+extreme left-wing views 极左观点 
+Some of his views seem rather extreme. 他的一些观点似乎有些极端。
+extremes of cold, extremes of wind, extremes of rain 严寒；狂风；骤雨 
+climatic, political, temperature extreme 气候上的极端；政治上的极端；温度上的极端 
+There is no need to go to such extremes. 没必要走这样的极端。
+It’s foolish to take any dieting to extremes. 饮食上走极端是愚蠢的。
+at the extreme 在极端情况下 
+His voice was scornful in the extreme. 他的声音听起来极为轻蔑。
+She was always generous to the extreme. 她总是大方过头。
+We are working under extreme pressure at the moment. 目前我们正在极大的压力下工作。
+extreme poverty 极度贫困 
+The heat in the desert was extreme. 沙漠中极其炎热。
+
+adj.（大机构的专家）特聘的:
+n. [C] 旅馆的住宿者:
+adj. 1 在某地居住的:
+2（医生或教师）住在任职地的:
+n. [C] 美国的高级专科住院实习医生:
+adj.（医生）住在任职地的:
+n. [C] 某地的一个居民、住户:
+resident |[ˈrezɪdənt]
+Having begun her career at Gray's Pottery, she stayed there as resident designer for seven years. 在格雷陶器场开始自己的职业生涯后，她在那里做了七年的特聘设计师。
+Tom's our resident expert (= our own expert) on foreign movies. 汤姆是我们自己的外国电影专家。
+The hotel restaurant is open to non-residents. 旅店的餐馆对外开放。
+the town's resident population (= not tourists or visitors) 镇上的居民 
+to be resident abroad, to be resident in the US 常驻国外；常驻美国 
+He moved to Belgium in 1990 to live with his son, who had been resident in Brussels since 1967. 他于1990年搬到比利时和儿子一起住。他儿子自1967年起就住在布鲁塞尔。
+The morning after your arrival, you meet with the resident physician for a private consultation. 到达后的第二天早上，你就去见住院医生，进行私人问诊。
+The morning after your arrival, you meet with the resident physician for a private consultation. 到达后的第二天早上，你就去见住院医生，进行私人问诊。
+a resident of the United States 美国的居民 
+There were confrontations between local residents and the police. 当地居民和警察之间有过冲突。
+The Archbishop called upon the government to build more low cost homes for local residents. 大主教呼吁政府为当地居民建造更多低成本的住宅。
+More than 10 percent of Munich residents live below the poverty line. 超过10％的慕尼黑居民生活在贫困线以下。
+
+move to a new place and establish one's home or business there:搬到一个新的地方并在那里建立自己的家或企业
+relocate |riːlə(ʊ)ˈkeɪt| Verb/:搬迁,重新安置
+sixty workers could face redundancy because the firm is relocating:60名员工可能因公司搬迁而面临裁员
+
+vt.＆vi. concentrate (sth) (on sth/on doing sth) 集中注意力，聚精会神。是此义的常规用词，最为常用:
+vt. 把…集中到一处:
+vt. [术语] 通过缩减物质的体积（如通过煮沸的方式）而增强其浓度，即浓缩:
+n. [C, U]（脱去水分等物质而制成的更浓稠的）浓缩物:
+concentrate |['kɒnsəntreɪt]
+I can’t concentrate with all that noise going on. 吵闹声不绝于耳，我无法集中精神。
+I decided to concentrate all my efforts on finding somewhere to live. 我决定全力以赴找个住的地方。
+Banks tend to concentrate on short-term lending. 银行倾向于专心做短期贷款。
+Power is largely concentrated in the hands of a small elite. 权力主要集中在少数精英人物的手中。
+to concentrate resources 集中资源 
+Fighting was concentrated around the town. 战斗集中在该镇的周围。
+mineral concentrates 精矿 
+fruit juice concentrate 浓缩的果汁
+
+n. [U] ~ (of sb/sth) (to sth) 精神或情感上的脆弱性:
+n. [U] ~ (of sb/sth) (to sth) 易受攻击性、脆弱性:
+n. [U] ~ (of sb/sth) (to sth) 身体上的脆弱性:
+vulnerability |[ˌvʌlnərəˈbɪləti]
+emotional vulnerability 情感上的脆弱 
+the extreme vulnerability of old people to crime 老年人极易遭受犯罪行为之害
+financial vulnerability 在财务上易受打击 
+the economic vulnerability of unskilled workers 非熟练工人在经济上的弱势 
+political vulnerability 政治上的脆弱 
+security vulnerability 安全漏洞 
+software vulnerability 软件脆弱性 
+genetic vulnerability 基因中的弱点 
+evidence of a genetic vulnerability to cancer 表明基因有易患癌症性质的证据 
+emotional, physical vulnerability 情感上的脆弱；身体上的脆弱性 
+the vulnerability of newborn babies to disease 新生婴儿容易患病 
+The earthquake highlighted the vulnerability of elevated highways. 这次地震凸显了高架公路容易受损的弱点。
+We attempt to fix security vulnerabilities as soon as possible.（计算机用语）我们试图尽快堵住安全上的漏洞。
+The gang had taken advantage of the immigrants' vulnerability. 这伙歹徒利用了移民的弱点。
+the extreme vulnerability of old people to crime 老年人极易遭受犯罪行为之害
+genetic vulnerability 基因中的弱点 
+evidence of a genetic vulnerability to cancer 表明基因有易患癌症性质的证据 
+physical vulnerability 身体上的脆弱性 
+the vulnerability of newborn babies to disease 新生婴儿容易患病 
+
+~ (of sth/of doing sth) 危险的事物、造成危害的事物:
+vt. 向某人给出一个你知道有可能是错误的建议，即斗胆提出建议、做出无把握的猜测:
+hazard |[ˈhæzəd;美-ərd]
+a serious fire hazard 严重的火灾隐患 
+safety hazard 安全隐患 
+hazard lights (= flashing lights on a car that warn other drivers of possible danger)（汽车上的）危险警示灯 
+Holes in the pavement are a hazard for blind people. 人行道上的坑对盲人来说有危险。Stairs are a hazard for young children. 楼梯对小孩子来说有危险。
+Everybody is aware of the hazards of smoking. 大家都明白吸烟的危害。
+A new report suggests that chewing-gum may be a health hazard. 一份新报告指出，口香糖可能对健康有害。
+Oil leaking from a barge in the Mississippi River poses a hazard to the drinking water of New Orleans. 密西西比河上驳船漏油事件危及新奥尔良市的饮用水。
+The burning of industrial waste is a major hazard to human health. 焚烧工业废物对人类健康是一大危害。
+industrial hazards such as excessive noise and pollution 诸如过量噪声和污染等工业危害 
+Production of these chemicals poses serious environmental hazards. 生产这些化学品会严重危害环境。
+Loneliness is one of the occupational hazards of being a writer. 孤独是作家所面临的一大职业危险。
+The worst hazard we faced was having our money stolen. 我们遇到的最糟糕的事就是钱被偷了。
+Go in September if you want to avoid the hazard of extreme heat. 如果想避开高温酷暑，那就九月份去。
+Companies should have systems for dealing with work hazards. 公司应该有职业风险应对系统。
+exposure to hazards 曝露于危险因素
+Would you like to hazard a guess? 你想猜猜看吗？
+'Fifteen or sixteen?' He hazarded. “15或16？” 他试着猜道。
+I would hazard a guess that they'll do fairly well in the next election. 我斗胆猜测，他们在下一轮竞选中会有不错的表现。
+‘Is it Tom you're going with? ’ she hazarded. “你是要和汤姆一起去吗？”她冒失地问。
+
+adj. 与一个城市（city）或城镇（town）相关的，即城市的、都市的、城镇的:
+urban |['ə:bən]
+damage to both urban and rural environments 对城乡环境的破坏 
+urban areas 城镇地区 
+urban life 城市生活 
+urban development 城市发展 
+urban sprawl 城市扩张
+
+n. [C] 部分:
+n. [C]（尤指处于军事管制之下的）区域、地带:
+n. [C] [几何学] 扇形:
+n. [C]（尤指一国经济的）领域、部门:
+n. [C]（尤指一国经济的）行业:
+n. [C] 阶层:
+sector |[ˈsektə(r)]
+a sector of the population 人口的一部分
+each sector of the war zone 战区的每个军管地段 
+Officers were going to retake sectors of the city. 军官们打算重新夺回该市的防御区。
+rural, urban sector 乡村；城区 
+northern sector 北部地区 
+Berlin was divided into four sectors after the war. 战后柏林被划分成四个区域。
+independent（英）, private sector 私营部门 
+public, state sector 公共部门；国有部门 
+non-profit（尤美）, voluntary（英）非营利部门 
+economic, industry, market sector 经济部门；工业部门；市场领域 
+agricultural, business, commercial, corporate, export, industrial, manufacturing, media, retial, service sector 农业；商业领域；公司企业；出口部门；工业部门；制造业；媒体领域；零售业；服务业 
+banking, financial, financial services（尤英）sector 银行业；金融业；金融服务业 
+energy, oil sector 能源领域；石油行业 
+electronics, high-tech, tech, technology, telecom（英）sector 电子业；高科技领域；技术领域；电信行业 
+education, schools（英）, university（尤英）sector 教育部门；中小学；高校界 
+the chronic underfunding of the education sector 教育部门的长期资金不足 
+health, health-care sector 卫生部门；卫生保健部门 
+tourism, tourist（尤英）sector 旅游业 
+consumer, household（尤美）sector 消费品行业；家居业 
+He went on to a successful career in the private sector. 他继而在私营机构干出了一番事业。
+employment opportunities in the higher education sector 高等教育行业的就业机会 
+The survey covers a wide range of industry sectors. 该调研覆盖了范围广泛的产业部门。      
+independent（英）, private sector 私营行业 
+public, state sector 公共行业；国有行业 
+non-profit（尤美）, voluntary（英）非营利行业 
+agricultural, business, commercial, industrial, manufacturing, media, retial, service sector 农业；商业；工业；制造业；媒体业；零售业；服务业 
+banking, financial, financial services（尤英）sector 银行业；金融业；金融服务业 
+oil sector 石油行业 
+electronics, telecom（英）sector 电子业；电信行业 
+tourism, tourist（尤英）sector 旅游业 
+consumer, household（尤美）sector 消费品行业；家居业 
+He went on to a successful career in the private sector. 他继而在私营机构干出了一番事业。
+employment opportunities in the higher education sector 高等教育行业的就业机会
+Workers who went to the Gulf came from the poorest sectors of Pakistani society. 前往海湾的工人来自巴基斯坦最贫穷的社会阶层。
+a sector of society 社会阶层
+
+
+greenhouse | 温室
+
+n. 1 [U] [正式]（光、热、气等的）发出，射出，排放:
+2 [C] 排放到空气中的气体等，如排放物、散发物:
+emission |[iˈmɪʃn]
+the emission of carbon dioxide into the atmosphere 向大气排放二氧化碳 
+gaseous emission 气体排放 
+carbon emission 碳排放 
+emission controls 排放控制 
+harmful, noxious, toxic emission 有害排放物；有毒排放物 
+automobile（尤美）, exhaust, tailpipe（美）, vehicle emission 汽车排放物；废气排放；车辆尾气排放 
+industrial emission 工业排放物 
+atmospheric emission 大气排放 
+greenhouse gas emission 温室气体排放 
+acid, lead, mercury, methane, sulphur/sulfur emission 酸排放；铅排放；汞排放；甲烷排放；硫磺排放 
+We must take action to cut vehicle emissions. 我们必须采取措施降低车辆尾气排放。
+New power plants must offset emissions by funding climate-change projects. 新电站必须通过资助气候变化项目以补偿其排放。
+measures to reduce harmful emissions from traffic 减少交通工具有害排放物的措施 
+Sulfur emissions from steel mills become acid rain. 炼钢厂排放出的硫形成了酸雨。

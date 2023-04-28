@@ -1,0 +1,581 @@
+chip				芯片，薯条
+entrepreneur			企业家，创业者
+start-up			初创公司
+unveil			展示，介绍
+implant				移植物，植入
+electrode			电极
+organ				器官
+neurological			神经的
+condition			疾病
+spinal cord injuries		脊髓损伤
+appearing			呈现
+retreat				改变主意
+statement			说明，表态
+trial				试验
+clinical			临床的
+unaffiliated			非附属的
+presentation			赠与，陈述，外观，表演
+indicate			表明，暗示
+made great strides		取得巨大进展
+caution			小心
+longevity			寿命
+stimulate			刺激，促进...的功能
+nerve				神经
+conduct			组织
+\\\\\\\\
+
+vt.（为辨认而在狗或其他动物的皮下）植入微芯片:
+vt.&vi. 把某事物打下一个小碎片；破损掉一个小碎片:
+vt. 用工具从…上切下或凿下小碎片或碎屑:
+n. [C] 从木头、玻璃等物体上掉下来的碎屑、碎片、碎渣:
+vt. [英] ~ potatoes 将土豆等切条并将其油炸:
+n. 1 [C, usually pl.] [英] [英美也可用French fry或fry] 油炸土豆条、炸薯条:
+2 [C] [美]（作为零食的）油炸土豆片，炸薯片（有多种风味，袋装）。相当于英式的crisp:
+n. [C] 芯片。相当于microchip:
+n. [C] 从木头、玻璃等物体上掉下来的碎屑、碎片、碎渣:
+n. [C] 木头、玻璃等破碎处所形成的一个缺口、豁口、破损处:
+n. [C]（也可用chip shot）（在高尔夫球、足球等运动中的）击打（或踢）高球的行为；（高尔夫球的）近穴球:
+vt.&vi.（尤指高尔夫球和足球）打（或踢）高球；近穴击球:
+n. 1 [C] 做赌注用的塑料筹码:
+2 [C] 谈判中的筹码、讨价还价的资本。算是一种比喻用法:
+chip |[tʃɪp]
+a badly chipped saucer 破损厉害的碟子 
+Steel baths are lighter but chip easily. 钢制浴缸是轻一点，不过容易碰损。
+These plates chip easily. 这些盘子容易破损。
+She chipped one of her front teeth. 她锛了一颗门牙。
+The blow chipped the woman's tooth. 那一击把那个女人的一颗牙打掉了一块。
+Chip away the damaged area. 把损坏的部分凿掉。
+The fossils had been chipped out of the rock. 那些化石已从岩石上被凿了下来。
+We chipped the paint off the wood. 我们把木头上的漆铲掉了。
+He was chipping away at the stone. 他在凿石头。
+They chipped away at the power of the government.（比喻用法）他们逐渐削弱政府的权力。
+chips of wood 碎木屑 
+He was burning wood chips to make charcoal. 他在用碎木头烧制木炭。
+chocolate chip cookies (= biscuits containing small pieces of chocolate) 碎粒巧克力饼干 
+It contains real chocolate chips. 里面有货真价实的巧克力碎屑。
+All main courses are served with chips or baked potato. 所有的主菜都配有炸土豆条或烤土豆。
+I had fish and chips in a cafe. 我在一家小餐馆吃了炸鱼薯条。
+Frank Browne shook more sauce over his chips. 弗兰克·布朗在炸薯条上又撒了些酱汁。
+I never cook anything grand—we live on chips and baked beans. 我从来不做什么像样的饭菜——我们靠吃炸薯条和烘豆过日子。
+chip pan（炸薯条的）长柄平底煎锅 
+chip shop 炸薯条店 
+potato chips 炸土豆片 
+a package of onion-flavored potato chips 一包洋葱味薯片 
+tortilla chips 墨西哥炸玉米片 
+chips and dip, chips and salsa 炸薯片和蘸酱；炸玉米片和辣番茄酱
+computer, silicon chip 计算机芯片；硅片 
+graphics, memory, microprocessor chip 图形芯片；存储芯片；微处理器芯片 
+embedded, integrated chip 内置芯片；集成芯片 
+An electronic chip could be implanted in his brain. 他的大脑中可以植入一个电子芯片。
+This notebook uses a chip designed for mobile computing.这台笔记本电脑用的是专为移动计算设计的芯片。
+a chip con-taining the coding devices 含有编码装置的芯片 
+The computer has an integrated graphics chip running at 333 MHz. 这台计算机的集成图形芯片运行速度为333兆赫。
+chip design, chip technology 芯片设计；芯片技术 
+a Pentium-compatible chip set 与奔腾兼容的芯片组 
+Advances in technology have made it possible to pack even more circuits on a chip. 技术的进步使一片芯片可以集成更多的电路。
+chips of wood 碎木屑 
+He was burning wood chips to make charcoal. 他在用碎木头烧制木炭。
+chocolate chip cookies (= biscuits containing small pieces of chocolate) 碎粒巧克力饼干 
+It contains real chocolate chips. 里面有货真价实的巧克力碎屑。
+This mug has a chip in it. 这缸子有个豁口。
+The washbasin had a small chip. 脸盆边上有个小豁口。
+He put the pile of chips in the center of the table and drew a card. 他将一堆筹码堆在桌子中间，抽了一张牌。
+The release of prisoners was used as a bargaining chip. 释放战俘被用作讨价还价的筹码。
+He was not expected to be released because he was considered a valuable chip in this game. 估计他不会被释放，因为他是这场较量中的一个重要筹码。
+The information could be used as a bargaining chip to extract some parallel information from Britain. 这个情报可以当作筹码，从英国人那里换取等价的消息。
+
+n. [C]（创业的）企业家（强调冒险性）:
+entrepreneur |[ˌɒntrəprəˈnɜ:(r);美ˌɑ:n-]
+a recent MBA graduate and budding entrepreneur 一名刚刚工商管理硕士毕业的崭露头角的企业家 
+a serial entrepreneur who had founded four companies 一位连续创办了四家公司的企业家 
+business entrepreneur 企业家；实业家 
+dotcom, Internet, music, property（英）, real estate（尤美）, retail entrepreneur 互联网企业家；音乐企业家；房地产企业家；零售业企业家
+
+the action or process of setting something in motion:使某物运动的动作或过程
+a newly established business:一家新成立的企业
+start-up |ˈstɑːtʌp| Noun/:启动
+the start-up of marketing in Europe:欧洲营销的启动
+problems facing start-ups and small firms in rural areas:农村地区初创企业和小公司面临的问题
+
+vt. 在公共场合为画作、雕像等揭幕（使其初次呈现于公众面前）:
+vt. 首次公开展示一个新计划、新产品等:
+unveil |[ˌʌnˈveɪl]
+The Queen unveiled a plaque to mark the official opening of the hospital. 女王主持揭幕式，标志着医院正式启用。
+a ceremony to unveil a monument to the victims 死难者纪念碑揭幕仪式 
+The government has officially unveiled its plans for tax reform. 政府已正式公开了税改计划。
+He unveiled his new strategy this week. 他本周公布了其新战略。
+They will be unveiling their new models at the Motor Show. 他们将在汽车大展上首次推出自己的新型汽车。
+Companies from across Europe are here to unveil their latest models. 全欧洲的公司都来到这里展示其最新款产品。
+
+vt. ~ (sth) (in/into sth) 在医疗上将某事物（通常是人造事物）植入人体部位（通常通过手术来植入）:
+vi. ~ (sth) (in/into sth)（卵子或胚胎）被移植到（人或动物体内以让其发育）:
+n. [C] 通过手术而植入人体中的移植物、植入物:
+vt. ~ (sth) (in/into sth) 将一个思想、观念、态度等深深地灌输进一个人的头脑中:
+implant |[ɪmˈplɑ:nt;美-ˈplænt]
+an electrode implanted into the brain 植入大脑中的电极 
+Doctors in Arizona say they have implanted an artificial heart into a 46-year-old woman. 亚利桑那州的医生称他们已经把一颗人造心脏移植到一名 46 岁妇女的体内。
+Two days later, they implanted the fertilized eggs back inside me. 两天以后,他们把受精卵重新植入了我的体内。
+Non-identical twins are the result of two fertilised eggs implanting in the uterus at the same time. 非同卵双生子是两个受精卵同时在子宫内着床的结果。
+Two or three embryos are implanted into the woman's body. 这个妇女体内已经移植了两三个胚胎。
+silicone breast implants 硅酮乳房填充物 
+A woman can choose to have breast implants. 女人可以选择进行隆胸。
+Prejudices can easily become implanted in the mind. 偏见容易在头脑中扎根。
+The speech implanted a dangerous prejudice in their minds. 那场演讲给他们灌输了一种很危险的偏见。
+His father had implanted in him an ambition to obtain an education. 他的父亲早就向他灌输了要接受教育的志向。
+
+a conductor through which electricity enters or leaves an object, substance, or region.:一种导体，电通过它进入或离开物体、物质或区域。
+electrode |ɪˈlɛktrəʊd| Noun/:电极
+
+n. [C] [正式] 官方机构（其隶属于一个更大的组织，且秉持特定的宗旨）:
+n. [C]（人或动植物的）器官。是此义的常规用词和专业用词，最为常用:
+n. [C] [正式]（政府或其他组织的）报刊、杂志等新闻媒体或宣传工具:
+n. 1 [C] 管风琴:
+2 [C] 风琴:
+organ |['ɔ:ɡən]
+the organs of government 政府机关 
+administrative, constitutional（英）, judicial（尤英）, political, security organ 行政机构；立宪机构；司法机构；政治机构；安全机构 
+the central organs of state 国家的中央机关
+digestive, sex organ 消化器官；性器官 
+human organ 人体器官 
+organ donation 器官捐赠 
+organ failure 器官衰竭
+The People’s Daily is the official organ of the Chinese Communist Party.《人民日报》是中国共产党的官方报纸。
+the official organ of the American Association for Cancer Research 美国癌症研究协会的官方报刊
+to play the organ 演奏管风琴 
+organ music 管风琴曲 
+pipe organ 管风琴 
+an electric organ 电子琴 
+mouth organ 口琴 
+church organ 教堂风琴 
+organ pipe 风琴音管
+
+relating to disorders of the nervous system:关于神经系统疾病
+neurological |ˌnjʊərəˈlɒdʒɪk(ə)l| Adjective/:神经的,神经病学
+neurological diseases like dementia:痴呆等神经系统疾病
+
+vt. condition sb/sth (to sth/to do sth) 常用被动式，指训练某人或某事物，以使其以某种方式来表现或行事，或使其习惯于某种情况:
+n. 1 [C] 某事发生所需要的先决条件或前提条件:
+2 [pl.] conditions 可指（人们在其中居住、工作或做事情的）条件、境况:
+n. 1 [pl.] conditions 可指（影响某事发生方式的）物理环境，可称为状态或条件:
+2 [pl.] conditions 可指（人们在其中居住、工作或做事情的）环境或境况:
+3 [sing.] [正式] 一群人的生存状态或生存处境（如生存中遇到的问题）等:
+n. [U, sing.] 某事物所处的状态或状况:
+vt. 对某人或某事物有一个重要影响；影响（某事物的发生方式）:
+n. [C] 因不可能治愈而长期患有的疾病:
+vt. 保持某事物（如头发、皮肤等）的健康:
+n. [U, sing.] 医学上可指某人的健康状况。词义上与其它词没有明显分别，但condition常是从医学（而非生活）的角度对某人的身体状况做出的描述:
+n. [C] 你必须遵守的一项规则或决定，有时构成一份合同（或一份正式协议）的一部分，此时可称为条件、条款、要件:
+condition |[kən'dɪʃn]
+the difference between inborn and conditioned reflexes 先天反应与条件反射的差异 
+The rats had been conditioned to ring a bell when they wanted food. 这些老鼠已经过训练，想吃食物时就会按铃。
+Patients can become conditioned to particular forms of treatment. 病人会习惯某些治疗方式。
+a necessary condition for economic growth 经济增长的一个必要条件 
+to create the conditions for peace 为和平创造条件 
+The experiment is conducted under strictly controlled conditions. 这项实验是在严格受控的条件下进行的。
+living, housing, working, sanitary conditions 生活条件；住房条件；工作条件；卫生条件
+experimental, laboratory conditions 实验条件；实验室环境 
+operating conditions 运行环境 
+climatic, environmental, lighting, soil conditions 气候情况；环境状况；照明条件；土壤情况 
+plants that can survive dry conditions 耐干旱环境的植物 
+Conditions are ideal for sailing today. 今天是乘帆船航行的理想天气。
+treacherous driving conditions 危险的行车环境 
+economic, market, political, social conditions 经济环境；市场环境；政治环境；社会环境 
+Conditions are ideal for starting a business. 形势对开办公司很有利。
+Work is basic to the human condition. 劳动是人类生存的基本条件。
+to improve the condition of the urban poor 是改善城市贫民的状况
+The car is still in excellent condition. 这辆车的车况仍然极好。
+The clock was restored to its original condition. 这个钟已经恢复原状。
+Gender roles are often conditioned by cultural factors. 文化因素常常对性别的角色有着重要的影响。
+medical condition 疾病 
+life-threatening, serious condition 危及生命的疾病；重病 
+benign condition 没有危险的疾病 
+chronic condition 慢性病 
+an incurable heart condition 一种无法治愈的心脏病 
+mental condition 精神病 
+a rare skin condition 一种罕见的皮肤病 
+treatable condition 可以医治的疾病 
+The insurance will not cover you for a pre-existing condition. 该保险不承保你已患的疾病。
+a shampoo that cleans and conditions hair 可清洁并养护头发的洗发剂 
+a polish for conditioning leather 皮革护理油
+He is overweight and out of condition. 他体重超重，健康状况不佳。
+mental, physical condition 精神状况；身体状况 
+He was in a critical condition in hospital last night. 他昨晚在医院生命垂危。
+Doctors say his condition is now stable. 医生说他的病情现在稳定下来了。
+a young athlete in peak condition 处于巅峰状态的年轻运动员 
+Congress can impose strict conditions on the bank. 国会可能会迫使这家银行接受苛刻的条件。
+They have agreed to the ceasefire provided their conditions are met. 他们已经同意停火，只要他们提出的条件得到满足。
+The offer is subject to certain conditions. 此项优惠受制于某些条件。
+They will give us the money on one condition--that we pay it back within six months. 他们给我们提供资金有一个条件，即我们在六个月以内偿还。
+
+
+appearing | 出现,出现的
+
+vi. 放弃，远离（计划、生活方式等）；逃到一个更安静或更安全的地方，如隐退、逃避、躲避:
+n. [C, usually sing., U] ~ (from/into sth) 隐退、逃避、躲避（到一个更安静或更安全的地方）:
+vi. 离开、离去:
+n. [C, usually sing., U] 从一地的离开:
+vi.（因为处于危险之中或被打败而从一个地方）撤退，尤指军事撤退:
+n. [C, usually sing., U] 从一地的撤退，尤指军事撤退:
+n. [C, usually sing.]（由于批评或环境过于恶劣）改变决定，退缩:
+vi.（由于批评或环境变得恶劣）改变主意，如退缩:
+n. [C] 僻静处、隐居处:
+n. [U, C] 某人的静修期间或静修活动（其停止日常活动，去一个安静的地方以祈祷或沉思）:
+vi. 退去、后退:
+vt. [金融] 跌价:
+n. [U, C] 某人的宗教静修:
+retreat |[rɪˈtri:t]
+Bored with the conversation, she retreated to her bedroom. 她厌倦了这样的交谈，躲进了自己的卧室。
+She retreated from the busy office to her own room. 她从繁忙的办公室中躲到了自己的屋子里。
+He retreated into his own world. 他躲进了自己的世界中。
+He retreated into a world of fantasy. 他遁入了幻想世界。
+I believe people should live in houses that allow them to retreat from the harsh realities of life. 我认为人们所居住的房子应该能让他们远离残酷的现实生活。
+From bouncing confidence she had retreated into self-pity. 她从信心百倍变得自怜自哀。
+Is watching television a retreat from reality? 看电视是对现实的一种逃避吗？
+her retreat into a fantasy world of her own 她躲进了自己的虚幻世界       
+He watched her retreating figure. 他看着她的身影渐渐远去。
+The young nurse pulled a face at the Matron's retreating figure. 看着护士长离去的身影，这个年轻的护士做了个鬼脸。
+I heard her footsteps retreat down the hall. 我听见她沿走廊渐渐走远的脚步声。
+I decided to beat a hasty retreat. 我决定赶紧离开。
+I made a tactful retreat before they started arguing. 在他们开始争论前我巧妙地找机会离开了。
+The army has been ordered to retreat. 军队已受命撤退。
+The army was forced to retreat after suffering heavy losses. 部队因伤亡惨重被迫撤退。
+The French, suddenly outnumbered, were forced to retreat. 人数突然处于劣势的法军被迫撤退。
+They retreated before the Americans. 他们在美国人面前退却了。
+Retreating soldiers were dousing homes and shops with petrol and setting them on fire. 撤退的士兵把汽油浇到住宅和商店上，并放火焚烧。
+We retreated back down the mountain. 我们从山上撤了下来。
+Hitler's retreat from Russia 希特勒从俄国的撤退 
+The enemy was now in retreat. 敌人正在撤退。
+The army was in full retreat (= retreating very quickly). 部队全线撤退。
+On the eastern front the army was in full retreat. 东部前线的军队正在全面撤退。
+We succeeded in cutting off the enemy's line of retreat. 我们成功地截断了敌人的撤退路线。
+We covered his retreat with bursts of gunfire. 我们集中火力掩护他撤退。
+to sound the retreat (= to give a loud signal for an army to move away) 发出撤退信号 
+an ignominious retreat to the River Vistula 至维斯瓦河的不光彩撤退 
+Eventually the police forced the crowd into retreat. 最后警察迫使人群向后撤退。
+The Senator made an embarrassing retreat from his earlier position. 这位参议员很尴尬地改变了他早先的立场。
+The government had retreated from its pledge to reduce class sizes. 政府已经改变了缩小班级规模的承诺。
+He retreated in the face of strong opposition. 面对强烈的反对，他退却了。
+idyllic retreat 田园式的隐居处 
+They are staying here at their secret retreat from life in the city. 他们远离城市生活，一直住在隐蔽的静养处。
+the perfect retreat for a romantic honeymoon 浪漫蜜月的完美胜地 
+private, secret retreat 私人静养处；秘密静养处 
+peaceful, quiet retreat 宁静的隐居处 
+country, mountain, rural, wilderness（尤美）retreat 乡间隐居处；山区静养处；乡村隐居处；无人烟的静居地 
+He spent yesterday hidden away in his country retreat. 他昨天躲在了他乡下的静养地。
+summer, winter retreat 避暑胜地；避寒胜地 
+holiday（英）, vacation（美）, weekend retreat 度假胜地；度周末的胜地 
+Camp David, the presidential retreat in Maryland 总统在马里兰州的度假地戴维营 
+She plans to use it as a winter retreat. 她打算把它当成冬季静养处。
+a summer retreat for the rich 富人的避暑胜地
+He went into retreat and tried to resolve the conflicts within himself. 他去静修并试图调节自己内心的矛盾冲突。
+Buddhist, meditation, religious, spiritual, yoga, Zen retreat 佛教静修；冥想；宗教静修；精神上的静修；瑜伽静修；禅修 
+I went on a ten-day silent retreat. 我去参加了为期十天的静修。
+I went off on one of my annual retreats. 我外出去做一次年度静修 
+business, corporate, executive, management retreat（均尤美）商业静修；公司静修；高级管理人员静修；管理人员静修 
+A successful executive retreat can be a powerful tool for addressing changing business conditions. 成功的高级管理人员静修可以成为应对不断变化的商业环境的强有力工具。
+women's, writers' retreat 女性静修；作家静修 
+family retreat（尤美）家庭静修 
+She goes on a spiritual retreat for two weeks every summer. 她每年夏天都去心灵静修两个星期。
+He went into retreat at his country home to escape the attention of the media. 他回到乡下的家中躲清静，想避开媒体的关注。
+The family held its first retreat last October. 这个家庭去年十月份第一次举行静修会。
+Zen Mountain offers numerous wilderness retreats. 禅山有许多人迹罕至的静修之处。
+Sandy retreated slowly, wary of what the man might do. 桑迪慢慢向后退，提防着这个人可能采取的行动。
+'I've already got a job,' I said quickly, and retreated from the room. “我已经有了一份工作。”我马上说道，并从房间里退了出来。
+He retreated behind the table. 他退到了桌子后面。
+He retreated hastily back to his car. 他匆忙退回自己的车里。
+The flood waters slowly retreated. 洪水慢慢地消退。
+Share prices retreated 45p to 538p. 这种股票价格下跌45便士，降到了538便士。
+Buddhist, meditation, religious, spiritual, yoga, Zen retreat 佛教静修；冥想；宗教静修；精神上的静修；瑜伽静修；禅修 
+
+n. 1 [C] 一个人（以一种正式或确定的方式）说出或写出的传达信息或观点的东西:
+2 [U] 用文字所进行的阐述或表达，是一种行为。且是一种正式用法，词义上近似于expression，如:
+3 [C] 比喻用法中可指对某事物的一种表征或诠释:
+n. [C] statement (on/about sth) 对于事实或观点的一份正式或官方说明，词义上相当于declaration，如:
+n. [C] 财物报表，结算单:
+statement |['steɪtmənt]
+Are the following statements true or false? 下面的说法对不对？
+Your statement is misleading. 你的表述可能引起误解。
+Is that a statement or a question? 这是在表态呢，还是提出问题呢？
+The play makes a strong political statement. 这出戏表明一种鲜明的政治立场。
+a sweeping statement 一概而论的说法 
+When writing instructions, clarity of statement is the most important thing. 编写操作说明时，表述清晰明白至为重要。
+explanatory statement 解释性说明 
+The clothes you wear are a statement about yourself. 衣着是对自我的一种诠释。
+The two heads of state issued a joint statement. 两国元首发表了一份联合声明。
+formal, official statement 正式声明；官方声明 
+They decided to make a political statement by refusing to vote. 他们决定把拒绝投票作为一种政治声明。
+oral, signed, sworn, written statement 口头声明；签署的声明；誓词；书面声明 
+a statement on human rights 有关人权的声明 
+His lawyer made a brief statement to the press. 他的律师向新闻界发表了简短声明。
+The police will take a statement from each of you. 警方将给你们每个人录一份口供。
+An explicit statement of objectives is vital before the project begins. 项目开始之前，确切地说明目标至关重要。
+the company’s mission statement 该公司的使命宣言 
+He was making a fashion statement by wearing a pink suit.（比喻用法）他穿了套粉色西装，以此彰显其时尚品味。
+bank, credit-card, tax（美）statement 银行结算单；信用卡结算单；税单 
+financial, income（美）, trading（英）statement 财务报表；收入报表；交易报表 
+to file false statements 提交虚假报表
+
+n. [C, U] 尤指在做出最终决定前，对…的能力、质量、品质、性能等所做的试验或试用:
+vt.＆vi. 英式英语中指测试…的能力、质量、品质或性能等，看其是否有效或成功:
+n. [C] 常用复数，指动物表演:
+n. 1 [C] 常用复数，英式英语中可指体育运动中的预赛或选拔赛（美国用tryout）:
+2 [C] 常用复数，指动物比赛:
+n. [U, C] 通常意义上的“审理”、“审判”，可以包括从法院立案到做出裁决的全过程，也可指法庭审讯（即“庭审”）。是此义的常规用词:
+n. [C] trial (to sb) 给某人造成困难或麻烦的经历或人:
+trial |['traɪəl]
+The new drug is undergoing clinical trials. 这种新药正在进行临床试验。
+controlled, double-blind, randomized trial 对照试验；双盲试验；随机试验 
+trial data, trial results 试验数据；试验结果 
+trial balloon（美）试探性言论 
+She agreed to employ me for a trial period. 她同意给我一段试用期。
+a free 30-day trial version of the software 该软件的30天免费试用版 
+The system was introduced on a trial basis for one month. 这个制度已引进试行一个月。
+a trial separation 试验性分居 
+a trial of strength 实力的较量
+The idea has been trialled by several companies. 一些公司已经测试了该想法。
+Olympic trials 奥运会选拔赛 
+trial game（尤英）预赛 
+a trial run 试跑 
+horse trials 马匹比赛
+full trial 正式的审讯 
+criminal trial 刑事审讯 
+fraud trial 欺诈罪审讯 
+court, jury trial 法庭的审讯；陪审团的审问 
+civil trial 民事审判 
+public trial 公审 
+show trial（为宣传目的而举行的）摆样子的公审 
+summary trial（尤英）即决审讯 
+trial court, trial judge, trial lawyer 初审法院；承审法官；庭审律师 
+trial verdict 法庭的裁决 
+trial procedure 审讯的程序 
+She faces trial for murder. 她因涉嫌谋杀而面临审讯。
+He did not receive a fair trial. 他没有受到公正的审判。
+the trials and tribulations of married life 婚姻生活的考验与磨炼 
+She was a sore trial to her family at times. 她有时让家人伤透了脑筋。
+
+adj. [贬] 冷淡的、无同情心的、无动于衷的:
+adj. [贬]（房间、建筑物等）非常简朴的、无装饰的:
+adj.（思想、行为）非常符合逻辑的，不带感情的:
+adj. [只用于名词前] 临床的、临床诊断的:
+clinical |[ˈklɪnɪkl]
+He watched her suffering with clinical detachment. 他无动于衷地看着她受苦。
+He looked at the body with an almost clinical detachment. 他几乎无动于衷地看着户体。
+How can you be so cold and clinical about your son's accident? 你怎么能对你儿子的事故这么冷漠?        
+All this questioning is so analytical and clinical--it kills romance. 整个询问分析性和逻辑性太强，浪漫的气息荡然无存。
+clinical research (= done on patients, not just considering theory) 临床研究 
+clinical training (= the part of a doctor's training done in a hospital) 临床培训 
+clinical trials of a drug 药物的临床试验 
+The first clinical trials were expected to begin next year. 第一批临床实验有望明年开始。
+a clinical psychologist 临床心理学家 
+She regarded her patients from a purely clinical standpoint. 她纯粹从医治的角度来对待病人。
+
+not officially attached to or connected with an organization or group:未正式附属于或与组织或团体有联系
+unaffiliated |ʌnəˈfɪlɪeɪtɪd| Adjective/:无关联的,独立的
+the term designated people who were unaffiliated with either religion:theterm指定与任一宗教无关的人
+
+n. 1 [U] 将某事物展示给某人:
+2 [U] 某事物被展示给别人的方式:
+3 [C]（将某事物展示给一群人的）发布会（尤指一款新产品、一个新想法、一件新作品的发布会或介绍会、展示会）:
+n. 1 [C] 授予赠品、礼品或奖品的一个仪式或正式场合，即赠送仪式、颁奖仪式:
+2 [U] 颁奖:
+n. [U] 某事物被提出（或解释等）给别人的方式:
+n. [U] 将某事物给予某人:
+n. [C, U] 医学中可指胎儿的临产胎位:
+n. [C]（戏剧等节目在剧院里的）演出。与performance未见明显差别:
+presentation |[͵prezən'teɪʃn]
+Members will be admitted on presentation of a membership card. 会员出示会员卡便可入场。
+Improving the product’s presentation should increase sales. 改进产品的呈现方式将会提高销量。
+The sales manager will give a presentation on the new products. 营销经理将举行一次新产品推介会。
+farewell, retirement presentation 欢送仪式；退休仪式 
+award presentation 颁奖仪式 
+presentation ceremony 颁授仪式 
+the school’s annual presentation evening 学校一年一度的颁奖晚会 
+The presentation of prizes began after the speeches. 讲话结束后就开始颁奖了。
+The Mayor will make the presentation herself. 市长将亲自颁奖。
+the logical presentation of her arguments 她的论证条理清晰 
+oral presentation 口头陈述 
+presentation skills 陈述技巧 
+to give a short presentation on the subject 就该话题进行简短阐述 
+business, sales presentation 业务汇报；销售汇报 
+keynote presentation 主旨演讲 
+slide presentation 用幻灯片进行的介绍
+the presentation of new evidence to the court 新证据呈上法庭
+
+vt. indicate sb/sth (to sb)（尤指通过将头指向或移向某个方向而）使某人注意到…，即指示出:
+vt. 成为…的标志，或表明某事可能（或很可能）发生，即象征，预示等:
+vt.（不用通过言语的方式）显示信息:
+vt.＆vi. 表明（某事属实或存在）。是一个常规用词，极为常用:
+vt.（测量仪器）显示某一量度:
+vt. [正式] 常用被动式，有必要；或被建议（常因为有必要而被建议）:
+vt. indicate sth (to sb) 提及某事（尤指间接提及），即暗示，示意:
+vt. indicate sb/sth (to sb)（尤指通过将头指向或移向某个方向而）使某人注意到…，即指示出:
+vt.＆vi. [英]（用灯光或手臂）表明你的交通工具要改变方向，即打行车转向信号，相当于signal:
+vt. 以书面的形式给出信息，即写出，写明，注明:
+indicate |['ɪndɪkeɪt]
+He indicated where the furniture was to go. 他指示家具要如何摆放。
+A red sky at night often indicates fine weather the next day. 夜空呈红色往往预示第二天天气晴朗。
+Early results indicate that the government will be returned to power. 早期的结果预示该政府将重新执政。
+The results are indicated in Table 2. 结果列在表2中。
+These figures indicate to me that the company is in serious trouble. 这些数字使我意识到该公司处境艰难。
+Expense does not necessarily indicate worth. 费用未必能反映价值。
+Research indicates that eating habits are changing fast. 研究显示，饮食习惯正迅速改变。
+This sign usually indicates a pedestrian zone. 这个符号通常表示步行区域。
+He has declared support for women, but his actions have indicated otherwise. 他嘴上声称支持妇女，但其行为却正相反。
+The temperature gauge indicates 90˚F. 温度计显示90华氏度。
+A course of chemotherapy was indicated. 建议进行化疗。
+He indicated his willingness to cooperate. 他透露出了合作的意愿。
+She indicated the quickest route on a map. 她在地图上给我们指出了最快捷的路线。
+Always indicate before moving into another lane. 开入其它车道前一定要打转向灯。
+He indicated left and then turned right. 他打出的是左转信号，然后却向右转了。
+You are allowed 20kgs of baggage unless indicated otherwise on your ticket. 除非票上另有注明，否则可携带行李为20公斤。
+Please indicate clearly which colour you require. 请标明您要求的颜色。
+
+caution sb about sth 警告或告诫某人（某事物的潜在危险或问题）。此时与warn近似，但远不如warn常用:
+vt. 1 [英] 法律领域可指正式警告某人（其所说的任何话都可能在法庭上被当作对其不利的证据）:
+2 [英] caution sb (for sth) 常用被动式，法律领域可指正式警告某人（如果其再做错事或非法的事将受到惩罚）:
+n. 1 [U, C] [正式] 对潜在危险或风险的一则警告或一条建议:
+2 [C] [英] 警察或法官向犯了非严重罪行的人所发出的一则警告:
+n. [U] 为避免危险、错误或任何风险而采取的小心、谨慎或慎重的态度:
+caution |['kɔ:ʃn]
+vt.＆vi. caution (sb) against sth 
+Sam cautioned him against making a hasty decision. 萨姆告诫他不要草率做出决定。
+The government cautioned that pay increases could lead to job losses. 政府警告说增加工资会导致失业。
+Suspects must be cautioned before any questions are asked. 嫌疑犯在回答问题前必须得到提醒。
+She wasn’t sent to the juvenile court; instead she was cautioned. 她未被送上少年法庭，而是受到了警告。
+The board sounded a note of caution about the economy. 董事会提醒大家要留心经济问题。
+I would just like to add a word of caution. 我只想提醒你要谨慎行事。
+As a first offender, she got off with a caution. 她由于是初犯，只受到了警告。
+Statistics should be treated with caution. 对待统计数字要慎重。
+We urge caution in the use of this medication. 我们特别强调使用此药要小心。
+The utmost caution must be exercised when handling explosives. 处理炸药要极度小心。
+
+long life:长寿
+long existence or service:长期存在或服务
+longevity |lɒnˈdʒɛvɪti| Noun/:长寿,寿命
+the greater longevity of women compared with men:女性比男性更长寿
+her longevity in office now appeared as a handicap to the party:她在办公室的长寿现在似乎是党的障碍
+
+vt. 促进某事物的发展，使某事物变得更活跃，如促进、激发、激励:
+vt. 使人对…感兴趣，使人对…兴奋:
+vt. [术语] 促进身体某部位的功能:
+stimulate |[ˈstɪmjuleɪt]
+An interest rate increase directly stimulates saving and reduces real expenditure. 利率的升高直接刺激储蓄，并减少实际支出。
+The economy is recovering, stimulated in part by government spending. 经济正在复苏，部分原因是受政府支出的刺激。
+This tax policy is artificially stimulating demand. 这一税收政策将人为地刺激需求。
+America's priority is rightly to stimulate its economy. 美国的首要任务自然是刺激经济。
+The Russian health service has stimulated public interest in home cures. 俄罗斯的公共医疗服务已经激起了公众对家庭治疗的兴趣。
+The exhibition has stimulated interest in her work. 展览增进了人们对她作品的兴趣。
+The article can be used to stimulate discussion among students. 这篇文章可用来活跃学生的讨论。
+Parents should give children books that stimulate them. 父母应给孩子能启发他们的书。
+I was stimulated to examine my deepest thoughts. 我深受启发，开始审视自己内心深处的想法。
+The conference stimulated him to study the subject in more depth. 这次会议促使他更深入地研究那个课题。
+Bill was stimulated by the challenge. 这个挑战让比尔热情高涨。
+Both men and women are stimulated by erotic photos (= sexually). 色情照片对男女都有刺激作用。
+activities designed to stimulate the children intellectually 旨在刺激儿童智力的一些活动 
+to sexually stimulate, to visually stimulate, to electrically stimulate 在性方面刺激；在视觉方面刺激；电刺激 
+Exercise stimulates the digestive and excretory systems. 锻炼能促进消化和排泄系统的活动。
+The women were given fertility drugs to stimulate the ovaries. 那些妇女得到了促进卵巢功能的生育药。
+The production of melanin in the skin is stimulated by exposure to the sun. 皮肤暴露在阳光下就很容易生成黑色素。
+
+n. [sing., U] [非正式] 行为的鲁莽、冒失、厚颜无耻、不当:
+n. [U]（去做艰难或危险之事的）勇气、胆量、气魄:
+He kept his nerve to win the final set 6–4. 他鼓足斗志以6:
+vt. ~ yourself for sth/to do sth 鼓起勇气去做某事:
+n. [pl.] nerves可指担忧或焦虑的情绪，如神经质、神经紧张:
+n. [pl.] nerves可指处理压力、忧愁或危险的能力，如承受力、意志力:
+n. [C] 神经:
+nerve |[nɜ:v;美nɜ:rv]
+I don't know how you have the nerve to show your face after what you said! 真不知道你说了那些话以后怎么还有脸露面！
+He's got a nerve asking us for money! 他还觍着脸跟我们借钱！
+‘Then she demanded to see the manager! ’ ‘ What a nerve!’ “她还要求见经理！”“真不要脸！”
+It took a lot of nerve to take the company to court. 将这个公司告上法庭需要极大的勇气。
+I was going to have a go at parachuting but lost my nerve at the last minute. 我想尝试一下跳伞，可到最后关头却没有勇气了。
+The brandy made him choke, but it restored his nerve. 虽说白兰地呛了他一下，却让他恢复了勇气。
+He never got up enough nerve to meet me. 他从没有足够的胆量来见我。
+I didn't have the nerve to ask. 我没有勇气问。
+You must find the nerve to ask for more money. 你必须鼓足勇气要求加薪。
+At the last moment her nerve failed her. 最后一刻她丧失了勇气。
+a failure/loss of nerve 丧失勇气 
+Singing in front of so many people was a real test of nerve. 在这么多人面前唱歌真是对一个人勇气的考验。
+He nerved himself to ask her out. 他鼓足勇气去约她出来。
+I nerved myself to face the pain. 我鼓足勇气去面对痛苦。
+exam nerves（尤英）考试引起的紧张 
+first-night nerves（英）初次登场的紧张 
+jittery nerves（美）紧张不安 
+It game me time to calm my jittery nerves before meeting her. 这让我在见她之前有时间稳定我紧张不安的神经。
+She took a few deep breaths to calm her nerves. 她做了几次深呼吸来稳定紧张情绪。
+I had an attack of nerves just before I went on stage. 登台前那一刻我感到非常紧张。
+By the time of the interview, I was a bundle of nerves. 到面试时，我十分紧张。
+Even after years as a singer, he still suffers from nerves before a performance. 尽管已做歌手多年，他在演出前仍然神经紧张。
+I need something to calm/steady my nerves. 我需要点东西来稳定一下我的情绪。
+Everyone's nerves were on edge (= everyone felt tense ). 人人都觉得紧张。
+He lives on his nerves (= is always worried). 他就爱神经紧张。
+I just played badly. It wasn't nerves. 我只是打得很糟，不是紧张造成的。
+Jill's nerves are stretched to breaking point. 吉尔的神经绷紧到了极点。
+I can be very patient, and then I can burst if my nerves are worn out. 我很有耐心，可如果我的承受力到了极限，我就撑不住了。
+good, steady nerves 良好的精神状态；稳定的精神状态 
+bad, frayed, frazzled, jangled, shattered, taut nerves 精神不佳；疲倦的精神状态；烦躁不安的精神状态；精疲力竭的状态；绷紧的神经 
+At the end of a day's teaching, her nerves were absolutely shattered. 教了一天课，她精疲力竭。
+After the bomb, my nerves were on edge. 轰炸过后，我紧张不安。
+Her nerves were shot from all the things happening around her.（shot为非正式用法）周围发生的所有事情使得她的神经崩溃了。
+His nerves jangled every time the phone rang. 电话每次一响，他的神经都要紧张一次。
+He uncharacteristically allowed nerves to get the better of him in yesterday's game. 他在昨天的比赛中一反常态，显得很紧张。
+The union has been fighting a war of nerves with the management over pay. 工会一直在为薪酬的事与资方进行心理战。
+His endless whining really gets on my nerves. 他无休止的抱怨使我心情很烦躁。
+You need nerves of steel to be a good poker player. 要想称为优秀的纸牌选手，你就得沉着应战。
+Looking after him while he was so ill has been a great strain on her nerves. 照顾重病的他使她心力交瘁。
+pinched（美）, trapped（英） nerve 受压迫的神经 
+sensitive nerve 敏感的神经 
+damaged nerve 受损的神经 
+facial, optic, sciatic, spinal nerve 面神经；视神经；坐骨神经；脊神经 
+peripheral nerve 外周神经 
+sensory nerve 感觉神经 
+The nerve runs from the eye to the brain. 这根神经连接眼睛和大脑。
+The nerves transmit pain. 这些神经传导痛觉。
+nerve bundle, nerve cell, nerve ending, nerve fibre, nerve sheath, nerve tissue 神经束；神经细胞；神经末梢；神经纤维；神经鞘；神经组织 
+nerve pathway 神经通路 
+nerve activity, nerve function 神经活动；神经机能 
+nerve impulse, nerve signal 神经冲动；神经信号 
+nerve stimulation 神经刺激 
+nerve damage, nerve injury 神经损伤；神经受损 
+nerve disease, nerve dysfunction, nerve paralysis 神经疾病；神经功能障碍；神经麻痹 
+nerve pain 神经疼痛 
+nerve gas 神经毒气 
+The message travels along the nerve to the brain. 信号沿着神经传输至大脑。
+He's been off work with a trapped nerve in his back. 他因背部神经受到压迫而不再工作。
+Cutting the nerves to the stomach does not affect hunger. 切断通向胃部的神经不会影响饥饿感。
+Intense pain shot through every nerve in his body. 一阵剧痛袭向他全身的每一根神经。
+Every nerve in her body was tense. 她的每一根神经都绷得紧紧的。
+My remarks about divorce had unwittingly touched a raw nerve.（比喻用法）我关于离婚的言论无意间触到了别人的痛处。
+
+n. [U] [正式] conduct of sth 一种业务（或活动）的组织和管理方式:
+n. [U] [正式] 一个人在某地（或在某种情况下）的行为，举止:
+vt. [正式] conduct yourself ... 以某种方式来表现（behave）:
+vt. 安排或并执行某一活动，如进行。较为常用:
+vt. [术语]（一种物质）传导（热或电）:
+vt.＆vi. 指挥（一群人的歌唱或音乐演奏）。是此义的常规用词:
+n. [U] [正式] 对战争的指挥或领导方式:
+vt. 带领或引导某人穿过一个地方（或在一个地方转）:
+conduct |['kɒndʌkt][kən'dʌkt]
+He was responsible for the proper conduct of community life. 他负责社区生活的正常运作。
+the day-to-day conduct of the business of the company 公司业务的日常管理
+The prisoner was released early for good conduct. 这个囚犯因表现良好而提前获得释放。
+immoral, unprofessional conduct 不道德的行为；不专业的行为 
+violent, criminal, illegal conduct 暴力行为；犯罪行为；违法行为 
+human, personal, sexual conduct 人类行为；个人行为；性行为 
+the business conduct of this bank 这家银行的商业行为 
+rules governing police conduct 管理警察行为的规范 
+He was asked to explain his conduct. 人们要求他对自己的行为做出解释。
+code of conduct 行为规范
+He conducted himself far better than expected. 他表现得比预料的要好得多。
+He always conducted himself as a gentleman. 他总是表现得像个绅士。
+They have conducted themselves in a very professional manner. 他们表现出非常专业的样子。
+to conduct an experiment, to conduct an inquiry 进行一项实验；进行一次询问 
+a survey conducted jointly by two teams of researchers 由两个研究小组联合进行的一项调查 
+We regularly conduct safety inspections. 我们定期进行安全检查。
+The negotiations have been conducted in a positive manner. 已积极进行过谈判。
+Copper conducts electricity well. 铜的导电性好。
+a concert conducted by Sir Colin Davis 由科林·戴维斯爵士指挥的一场音乐会
+the government’s conduct of the war 政府对战争的指挥方式
+a conducted tour 有导游陪同的游览之旅 
+The guide conducted us around the ruins of the ancient city. 导游带领我们游览了古城遗迹。

@@ -33,19 +33,19 @@ ahead							向前，今后，领先
 impression							印象，效果
 \\\\
 
-examine (something) in order to determine its accuracy, quality, or condition, or to detect the presence of something:examine（某物）以确定其准确性、质量或状况，或检测某物的存在
+examine (something) in order to determine its accuracy, quality, or condition, or to detect the presence of something:检查（某物）以确定其准确性、质量或状况，或检测某物的存在
 verify or establish to one's satisfaction:验证或建立满意
 verify the accuracy of something by comparing it with (something else):通过与（其他）比较来验证某事的准确性
-inspect or examine thoroughly:inspect或彻底检查
+inspect or examine thoroughly:检查或彻底检查
 agree or correspond when compared.:同意或比较时对应。
 look at, take notice of:看，注意
-stop or slow the progress of (something, typically something undesirable):stop或减慢（某事，通常是不受欢迎的事）的进度
-curb or control (one's feelings or reaction):curborcontrol（一个人的感觉或反应）
+stop or slow the progress of (something, typically something undesirable):停止或减缓（某事，通常是不受欢迎的事情）的进展
+curb or control (one's feelings or reaction):遏制或控制（一个人的感受或反应）
 hamper or neutralize (an opponent) with one's body or stick.:用自己的身体或棍子阻碍或抵消（对手）。
 provide a means of preventing:提供预防手段
 (of a passenger) consign (baggage) to the care of the transport provider with whom they are travelling:（乘客）将（行李）托运给与他们一起旅行的运输提供商
-deposit (a coat, bag, or other item) for temporary safekeeping in the cloakroom of a restaurant, theatre, etc.:deposit（外套、包或其他物品）用于临时保管在餐厅、剧院等的衣帽间。
-mark or click on (a box) in order to select a particular option on a form, questionnaire, etc.:mark或单击（框）以选择表格、问卷等上的特定选项。
+deposit (a coat, bag, or other item) for temporary safekeeping in the cloakroom of a restaurant, theatre, etc.:临时保管在餐厅、剧院等的衣帽间的押金（外套、包或其他物品）。
+mark or click on (a box) in order to select a particular option on a form, questionnaire, etc.:标记或单击（框）以选择表格、问卷等上的特定选项。
 move a piece or pawn to a square where it attacks (the opposing king):将棋子或棋子移动到它攻击的方格（对方国王）
 (in poker) choose not to make a bet when called upon, allowing another player to do so instead.:（在扑克中）在被要求时选择不下注，而是允许其他玩家下注。
 (of a hound) pause to make sure of or regain a scent.:（猎犬）停下来确定或重新获得气味。
@@ -72,10 +72,10 @@ customs officers have the right to check all luggage:海关人员有权检查所
 phone us to check the availability of your chosen holiday:打电话给我们检查您选择的假期的可用性
 keep your receipt to check against your statement:保留您的收据以核对您的声明
 I checked through my notes:我检查了我的笔记
-check the remix:check混音
+check the remix:检查混音
 efforts were made to check the disease:努力检查疾病
 he learned to check his excitement:他学会了控制自己的兴奋
-processes to check against deterioration in the quality of the data held:processes检查所持有数据的质量是否下降
+processes to check against deterioration in the quality of the data held:检查所持有数据质量是否恶化的流程
 I checked my bag and got my boarding pass:我检查了我的行李并拿到了登机牌
 the drinks weren't expensive and there's no cover charge but you do have to check your coat for $3.00:这些饮料不贵，也没有保险费，但你必须检查你的外套3.00美元
 users who want privacy should check the box that prevents your files from being shared:想要隐私的用户应选中阻止您的文件被共享的框
@@ -99,7 +99,7 @@ caused by the excessive consumption of alcohol:过量饮酒所致
 affected with alcoholism:受酒精中毒影响
 a person affected with alcoholism.:一个受酒精中毒影响的人。
 alcoholic |ˌalkəˈhɒlɪk| Adjective/Noun/:酒鬼,含酒精的
-beer is their favourite alcoholic drink:beer是他们最喜欢的酒精饮料
+beer is their favourite alcoholic drink:啤酒是他们最喜欢的酒精饮料
 alcoholic liver disease:酒精性肝病
 his alcoholic daughter was the cause of his anxiety:他的酗酒女儿是他焦虑的原因
 
@@ -110,12 +110,12 @@ used in reference to things of little worth:用于指代不值钱的东西
 a small device on a piece of electrical or electronic equipment which is pressed to operate it.:一个电气或电子设备上的一个小装置，被按下来操作它。
 an element of a graphical user interface which a user can select to perform a particular action:图形用户界面的一个元素，用户可以选择它来执行特定的动作
 a badge bearing a design or slogan and pinned to clothing.:带有设计或标语并固定在衣服上的徽章。
-fasten (clothing) with buttons:fasten（衣服）带纽扣
+fasten (clothing) with buttons:用纽扣系好（衣服）
 fasten the buttons of a garment being worn by someone:扣上某人正在穿的衣服的纽扣
 (of a garment) be fastened with buttons:(衣服的)扣子
 stop talking.:停止说话。
 button |ˈbʌtn| Noun/Verb/:按钮,系扣子,键
-chocolate buttons:chocolate按钮
+chocolate buttons:巧克力纽扣
 he will never give away anything that is worth a button:他永远不会放弃任何值得一个按钮的东西
 just search for the app you want and click the 'buy' or 'install' button:只需搜索您想要的应用程序，然后单击“购买”或“安装”按钮
 I buttoned my shirt and knotted my tie:我扣好衬衫，系好领带
@@ -125,11 +125,11 @@ a dress that buttoned down the front:一件前面扣子的连衣裙
 a female shop assistant.:一位女店员。
 salesgirl |ˈseɪlzɡəːl| Noun/:女售货员,店员
 
-cook (food, especially meat) by prolonged exposure to heat in an oven or over a fire:cook（食物，尤其是肉类）在烤箱或火上长时间暴露在热源中
-(of food) be cooked by roasting:Harold烤得很棒2
-process (a foodstuff, metal ore, etc.) by subjecting it to intense heat:process（食品、金属矿石等）通过将其置于高温下
+cook (food, especially meat) by prolonged exposure to heat in an oven or over a fire:通过在烤箱或火上长时间暴露于高温来烹调（食物，尤其是肉类）
+(of food) be cooked by roasting:（食物）烤熟
+process (a foodstuff, metal ore, etc.) by subjecting it to intense heat:对（食品、金属矿石等）进行高温处理
 make or become very warm, especially through exposure to the heat of the sun or a fire:使或变得非常温暖，特别是通过暴露在太阳的热量或火中
-criticize or reprimand severely:criticize或严厉谴责
+criticize or reprimand severely:严厉批评或斥责
 subject to good-natured ridicule:受到善意的嘲笑
 (of food) having been roasted:(食物的)被烤过
 a joint of meat that has been roasted or that is intended for roasting:一块已经烤过或打算用于烤的肉
@@ -140,14 +140,14 @@ a banquet at which the guest of honour is subjected to good-natured ridicule.:�
 roast |rəʊst| Adjective/Noun/Verb/:烤,烘烤
 she was going to roast a leg of mutton for Sunday dinner:她打算烤羊腿做周日晚餐
 she checked the meat roasting in the oven for lunch:她检查了烤箱里的烤肉作为午餐
-decaffeinated coffee beans are roasted and ground:decaffeinated咖啡豆被烘烤和研磨
+decaffeinated coffee beans are roasted and ground:不含咖啡因的咖啡豆经过烘焙和研磨
 if you waste his time he'll roast you:如果你浪费他的时间，他会烤你
 the Prince was roasted by Martin—a friendly American custom of insulting a person as a sign of favour:王子被马丁烤了——这是一种友好的美国习惯，侮辱一个人以示好感
 a plate of cold roast beef:一盘冷烤牛肉
 carving the Sunday roast:雕刻周日烤肉
 the roast is stopped when the colour is moderately dark brown:颜色为中度深棕色时停止烘烤
 continental roasts:大陆烤肉
-Harold put on a terrific pig roast:Harold烤得很棒
+Harold put on a terrific pig roast:哈罗德做了一顿很棒的烤猪
 
 a person who supports or believes in the principles of communism:支持或相信共产主义原则的人
 adhering to or based on the principles of communism:坚持或基于共产主义原则
@@ -157,7 +157,7 @@ a French communist writer:一位法国共产主义作家
 
 freely transfer the possession of (something) to (someone):自由地将（某物）的拥有权转让给（某人）
 administer (medicine):administer（医学）
-hand over (an amount) in payment, pay:handover(amount)inpayment,pay
+hand over (an amount) in payment, pay:交出（金额）付款，支付
 used hyperbolically to express how greatly one wants to have or do something:用于夸张地表达一个人想要拥有或做某事的程度
 commit or entrust:提交或委托
 freely set aside or devote for a purpose:自由地搁置或奉献于一个目的
@@ -165,30 +165,30 @@ freely set aside or devote for a purpose:自由地搁置或奉献于一个目的
 consent to have sexual intercourse with (someone):同意与（某人）发生性关系
 used to present a speaker or entertainer or when making a toast:用于介绍演讲者或艺人或敬酒时
 cause or allow (someone or something) to have or experience (something), provide with:导致或允许（某人或某事）拥有或经历（某事），提供
-provide (love or other emotional support) to:provide（爱或其他情感支持）给
-sentence (someone) to (a specified penalty):sentence（某人）到（指定的惩罚）
-allot (a score) to:allot（一个分数）到
+provide (love or other emotional support) to:提供（爱或其他情感支持）给
+sentence (someone) to (a specified penalty):判处（某人）（特定的刑罚）
+allot (a score) to:分配（分数）给
 allow (someone) to have (a specified amount of time) for an activity or undertaking:允许（某人）有（特定的时间）从事某项活动或事业
 pass on (an illness or infection) to (someone):将（疾病或感染）传递给（某人）
-pass (a message) to (someone):pass（一条消息）给（某人）
+pass (a message) to (someone):将（消息）传递给（某人）
 make a connection to allow (someone) to speak to (someone else) on the phone:建立连接以允许（某人）通过电话与（其他人）通话
 carry out or perform (a specified action):执行或执行（指定动作）
-produce (a sound):produce（声音）
-present (an appearance or impression):present（外观或印象）
+produce (a sound):发出（声音）
+present (an appearance or impression):现在（外观或印象）
 provide (a party or social meal) as host or hostess:提供（聚会或社交餐）作为主人或女主人
-yield as a product or result:yield作为产品或结果
+yield as a product or result:作为产品或结果的产量
 emit odour, vapour, or similar substances:散发气味、蒸汽或类似物质
-concede (something) as valid or deserved in respect of (someone):concede（某事）对于（某人）而言是有效的或应得的
+concede (something) as valid or deserved in respect of (someone):承认（某事）对（某人）有效或应得
 (of an umpire or referee) declare whether or not (a player) is out or offside:（裁判员或裁判员）宣布（球员）是否出局或越位
 adjudicate that (a goal) has been legitimately scored:判定（进球）已合法进球
-state or put forward (information or argument):state或提出（信息或论点）
-pledge or offer as a guarantee:pledge或提供作为保证
+state or put forward (information or argument):陈述或提出（信息或论点）
+pledge or offer as a guarantee:质押或提供作为保证
 say to (someone) as an excuse or inappropriate answer:作为借口或不恰当的回答对（某人）说
-deliver (a judgement) authoritatively:deliver（判断）权威
+deliver (a judgement) authoritatively:权威地发表（判断）
 predict that (an activity or relationship) will last no longer than (a specified time):预测（一项活动或关系）将持续不超过（指定时间）
 tell what one knows:告诉一个人知道什么
 alter in shape under pressure rather than resist or break:在压力下改变形状而不是抵抗或破坏
-yield or give way to pressure:yield或屈服于压力
+yield or give way to pressure:屈服或屈服于压力
 concede defeat, surrender:承认失败，投降
 give |ɡeɪv| Noun/Verb/:给,弹性,给予
 she gave him presents and clothes:她给他礼物和衣服
@@ -215,7 +215,7 @@ a dinner given in honour of an American diplomat:为纪念一位美国外交官�
 milk is sometimes added to give a richer cheese:有时添加牛奶以提供更丰富的奶酪
 some solvents give off toxic fumes:一些溶剂会散发出有毒烟雾
 give him his due:给他应得的
-Gooch was given out, caught behind:Gooch被送出去，被追到后面
+Gooch was given out, caught behind:古奇被放出，被抓在后面
 the referee gave the goal:裁判判罚进球
 he did not give his name:他没有说出他的名字
 don't give me any of your backchat:不要给我任何你的回话
@@ -236,8 +236,8 @@ a mark left on the skin or within body tissue where a wound, burn, or sore has n
 a lasting effect of grief, fear, or other emotion left on a person's character by an unpleasant experience:不愉快的经历对一个人的性格留下的悲伤、恐惧或其他情绪的持久影响
 a mark left on something following damage of some kind:某种损坏后在某物上留下的标记
 a mark left at the point of separation of a leaf, frond, or other part from a plant:叶子、叶或其他部分与植物的分离点留下的标记
-mark with a scar or scars:mark有伤疤或伤疤
-form or be marked with a scar:form或标有伤疤
+mark with a scar or scars:用疤痕或疤痕标记
+form or be marked with a scar:形成或标有疤痕
 a steep high cliff or rock outcrop, especially of limestone:陡峭的高悬崖或岩石露头，尤其是石灰岩
 scar |skɑː| Noun/Verb/:瘢痕,疤痕,伤疤
 a faint scar ran the length of his left cheek:左脸颊上有一道淡淡的伤疤
@@ -246,25 +246,25 @@ Max could see scars of the blast:Max可以看到爆炸的伤痕
 this fossil bark is typified by its lozenge-shaped leaf scars:这个化石树皮的典型特征是它的菱形叶痕
 he is likely to be scarred for life after injuries to his face, arms, and legs:他的脸、胳膊和腿受伤后很可能会留下终生的伤疤
 his arm will not scar:他的手臂不会留疤
-high limestone scars bordered the road:high石灰石伤痕与道路接壤
+high limestone scars bordered the road:高高的石灰石疤痕与道路接壤
 
 having been discovered by chance or unexpectedly.:偶然或意外被发现。
 (of an object or sound) collected in its natural state and presented in a new context as part of a work of art or piece of music:（物体或声音）以其自然状态收集并作为艺术品或音乐作品的一部分在新的环境中呈现
 (of art) comprising or making use of found objects.:（艺术）包括或利用发现的对象。
-(of poetry) formed by taking a piece of non-poetic text and reinterpreting its structure metrically.:(ofpoetry)取一段非诗意的文本并以韵律方式重新解释其结构而形成。
+(of poetry) formed by taking a piece of non-poetic text and reinterpreting its structure metrically.:（诗歌的）通过取一段非诗歌文本并按韵律重新解释其结构而形成的。
 (of a ship) equipped:(一艘船的)装备
 establish or originate (an institution or organization):建立或起源（机构或组织）
 plan and begin the building of (a settlement):计划并开始建造（定居点）
-base (something) on a particular principle, idea, or feeling:base（某事）基于特定的原则、想法或感觉
+base (something) on a particular principle, idea, or feeling:Base (something) on a particular principle, idea, or feeling
 serve as a basis for:作为基础
 melt and mould (metal).:熔体和模具（金属）。
-fuse (materials) to make glass.:fuse（材料）制作玻璃。
-make (an article) by melting and moulding metal.:make（一篇文章）通过熔化和成型金属。
+fuse (materials) to make glass.:熔合（材料）制成玻璃。
+make (an article) by melting and moulding metal.:通过熔化和模制金属来制造（物品）。
 found |faʊnd| Adjective/Verb/:成立,发现,找到了
-collages of found photos:collages找到的照片
+collages of found photos:找到的照片的拼贴画
 the ship was well found and seaworthy:这艘船很好找并且适航
 the monastery was founded in 1665:修道院始建于1665年
-William Penn founded Pennsylvania:WilliamPenn创立宾夕法尼亚
+William Penn founded Pennsylvania:威廉·佩恩创立宾夕法尼亚
 a society founded on the highest principles of religion and education:一个建立在最高宗教和教育原则之上的社会
 the company's fortunes are founded on its minerals business:公司的财富建立在矿产业务之上
 
@@ -312,11 +312,11 @@ a hit which allows the batter to proceed safely to first base.:a击球让击球�
 (especially in tennis and badminton) a game or competition for individual players, not pairs or teams.:（尤其是网球和羽毛球）个人球员的比赛或比赛，而不是双人或团队。
 a system of change-ringing in which one pair of bells changes places at each round.:一种改变铃声的系统，其中一对铃铛在每一轮中改变位置。
 choose someone or something from a group for special treatment:从群体中选择某人或某物进行特殊处理
-thin out (seedlings or saplings):thinout（幼苗或树苗）
-reduce (a railway track) to a single line:reduce（一条铁路轨道）到一条线
+thin out (seedlings or saplings):间苗（幼苗或树苗）
+reduce (a railway track) to a single line:将（铁轨）缩减为一条线
 hit a single:打单
-cause (a run) to be scored by hitting a single.:cause(arun)击中单杆得分。
-advance (a runner) by hitting a single.:advance（跑步者）击中单杆。
+cause (a run) to be scored by hitting a single.:通过击中单打使（跑步）得分。
+advance (a runner) by hitting a single.:通过击中单打来推进（跑步者）。
 single |ˈsɪŋɡl| Adjective/Noun/Verb/:单身的,单程票,单,单一,单个
 a single red rose:一朵红玫瑰
 she wrote down every single word:她写下每一个字
@@ -330,9 +330,9 @@ a single whisky:一杯威士忌
 a pure and single heart:一颗单纯的心
 the divorce rate is rising so you'll see more singles in their late 30s and early 40s:离婚率正在上升，所以你会看到更多30多岁和40多岁的单身人士
 one newspaper was singled out for criticism:一份报纸被挑出来批评
-hand hoes are used for singling roots:hand锄头用于选根
+hand hoes are used for singling roots:手锄用于挑根
 the South Western line was singled west of Salisbury:西南线在索尔兹伯里以西单挑
-Cohen singled to centre:Cohen单挑中锋
+Cohen singled to centre:科恩被选为中锋
 
 occurring or situated nearer to the end of something than to the beginning:发生或位于某事的结尾而不是开头
 recent:最近
@@ -375,7 +375,7 @@ a sexually attractive person:一个有魅力的人
 a thing that one enjoys or does well:一件自己喜欢或做得好的事情
 information which is not generally known or available:通常不为人知或不可用的信息
 concavity of a spoked wheel resulting from a difference in spoke tension on each side and consequent sideways displacement of the rim in relation to the hub.:辐条轮的凹度是由于每侧辐条张力的差异以及随之而来的轮辋相对于轮毂的侧向位移造成的。
-gossip or share information, especially information of an intimate or scandalous nature:gossip或分享信息，尤其是私密或丑闻性质的信息
+gossip or share information, especially information of an intimate or scandalous nature:八卦或分享信息，尤其是私密或丑闻性质的信息
 utterly destroy, confound, or defeat:彻底摧毁、迷惑或失败
 give concavity to (a wheel) by tensioning the spokes:通过张紧辐条使（车轮）具有凹度
 dish |dɪʃ| Noun/Verb/:,说闲话,碟,菜,盘
@@ -383,11 +383,11 @@ an ovenproof dish:一个耐热盘
 fresh fish dishes:鲜鱼料理
 I left the children to do the dishes:我让孩子们洗碗
 the cats' water dish:猫的水盘
-other channels are available with a larger dish:other频道可提供更大的盘子
+other channels are available with a larger dish:其他通道可用更大的盘子
 I gather he's quite a dish:我猜他是一道菜
 as a public relations man this was my dish and the campaign was right up my street:作为公关人员，这是我的菜，而竞选活动就在我的街道上
 if he has the real dish I wish he'd tell us:如果他有真正的菜，我希望他能告诉我们
-groups gather to brag about babies and dish about romances:groups聚集在一起吹嘘婴儿和关于浪漫的菜肴
+groups gather to brag about babies and dish about romances:团体聚在一起吹嘘婴儿和浪漫的菜肴
 the election interview dished Labour's chances:选举采访给工党带来了机会
 I don't think I dished the wheel correctly—there's a rubbing sound:我不认为我的轮盘打得正确——有摩擦声
 
@@ -406,14 +406,14 @@ a taproom.:一间酒吧间。
 draw liquid through the tap or spout of (a cask, barrel, or other container):通过（木桶、桶或其他容器）的水龙头或喷口吸取液体
 draw (liquid) from a cask, barrel, or other container:从木桶、桶或其他容器中抽取（液体）
 draw sap from (a tree) by cutting into it.:从（一棵树）切割树液。
-exploit or draw a supply from (a resource):exploit或从（资源）获取供应
+exploit or draw a supply from (a resource):从（资源）开发或获取供应
 obtain money or information from (someone):从（某人）那里获得金钱或信息
 connect a device to (a telephone) so that conversation can be listened to secretly:将设备连接到（电话）以便可以偷听对话
 cut a thread in (something) to accept a screw:在（某物）上切一个螺纹以接受螺丝
-strike with a quick light blow or blows:strike快速轻击
-strike (something) against something else with a quick light blow or blows:strike（某物）用快速的轻击或打击来对抗其他东西
-produce (a rhythm) with a series of quick light blows on a surface:produce（一种节奏）在表面上进行一系列快速的轻击
-write or enter (something) using a keyboard or keypad:write或使用键盘或小键盘输入（某事）
+strike with a quick light blow or blows:快速轻击或击打
+strike (something) against something else with a quick light blow or blows:快速轻击或击打（某物）打击其他东西
+produce (a rhythm) with a series of quick light blows on a surface:通过在表面上进行一系列快速轻击来产生（节奏）
+write or enter (something) using a keyboard or keypad:使用键盘或小键盘书写或输入（某物）
 designate or select (someone) for a task or honour, especially membership of an organization or committee:指定或选择（某人）任务或荣誉，尤其是组织或委员会的成员
 a quick light blow, or the sound of such a blow:一个快速的轻击，或这样一击的声音
 tap dancing:踢踏舞
@@ -424,20 +424,20 @@ a bugle call sounded at a military funeral.:军号葬礼上响起了军号。
 tap |tap| Noun/Verb/:轻敲,水龙头,点击
 she turned the cold tap on:她打开冷水龙头
 those taps produced hundreds of hours of recordings:那些水龙头产生了数百小时的录音
-several barrels had been tapped to celebrate old victories:several桶已被挖掘来庆祝旧的胜利
+several barrels had been tapped to celebrate old victories:几个桶被用来庆祝过去的胜利
 in the cellars of the monasteries the butlers were tapping new and old ale:在修道院的地窖里，管家们正在喝新旧啤酒
 clients from industry seeking to tap Edinburgh's resources of expertise:寻求利用爱丁堡专业知识资源的行业客户
 he considered whom he could tap for information:他考虑了他可以向谁寻求信息
 the telephones were tapped by the state security police:电话被国家安全警察窃听
 on most vices, the metal jaws are drilled and tapped to accept screws:在大多数虎钳上，金属钳口经过钻孔和攻丝以接受螺钉
 one of my staff tapped me on the shoulder:我的一个员工拍了拍我的肩膀
-Gloria was tapping her feet in time to the music:Gloria正随着音乐轻拍她的脚
-drums that tapped out a rumba beat:drums敲出伦巴节拍
+Gloria was tapping her feet in time to the music:格洛丽亚随着音乐及时地踏着脚
+drums that tapped out a rumba beat:敲出伦巴节拍的鼓
 he tapped out a few words on the keyboard:他在键盘上敲了几个字
-he had been tapped earlier to serve in Costa Rica:he早些时候曾被任命在哥斯达黎加服役
+he had been tapped earlier to serve in Costa Rica:他早些时候曾被任命在哥斯达黎加服役
 there was a sharp tap at the door:门上有一声尖锐的敲击声
 a rhythm much used in tap:一种在敲击中常用的节奏
-the bugler played taps:thebugler演奏了敲击声
+the bugler played taps:号手吹奏水龙头
 
 a widespread Asian religion or philosophy, founded by Siddartha Gautama in north-eastern India in the 5th century BC:一种广泛传播的亚洲宗教或哲学，由乔达摩于公元前5世纪在印度东北部创立
 Buddhism |ˈbʊdɪz(ə)m| Noun/:佛教
@@ -447,8 +447,8 @@ move or travel towards or into a place thought of as near or familiar to the spe
 arrive at a specified place:到达指定地点
 (of a thing) reach or extend to a specified point:（事物的）到达或延伸到指定点
 approach:方法
-travel in order to be with a specified person, to do a specified thing, or to be present at an event:travel为了和特定的人在一起，做特定的事情，或者出席某个活动
-join someone in participating in a specified activity or course of action:join某人参与指定的活动或行动方案
+travel in order to be with a specified person, to do a specified thing, or to be present at an event:为与指定的人在一起、做指定的事情或参加活动而旅行
+join someone in participating in a specified activity or course of action:与某人一起参与指定的活动或行动方案
 said to someone when correcting or reassuring someone:在纠正或安慰某人时对某人说
 occur, happen, take place:发生，发生，发生
 be heard, perceived, or experienced:被听到、感知或体验
@@ -460,17 +460,17 @@ eventually reach a certain condition or state of mind:最终达到某种条件�
 be sold, available, or found in a specified form:被出售、可用或以指定形式找到
 have an orgasm.:有一个性高潮。
 come |keɪm| Noun/Preposition/Verb/:来,得啦,精液,来吧
-Jessica came into the kitchen:Jessica走进厨房
+Jessica came into the kitchen:杰西卡走进厨房
 we walked along till we came to a stream:我们一直走到一条小溪边
-women wore slim dresses that came all the way to their shoes:women穿着修身连衣裙，一直到她们的鞋子
+women wore slim dresses that came all the way to their shoes:女人们穿着修身的裙子，一直到她们的鞋子
 someone was coming:有人来了
 the police came:警察来了
 do you want to come fishing tomorrow?:你明天要来钓鱼吗？
 Come, come, child, don't thank me:来，来，孩子，不要谢我
-twilight had not yet come:twilight还没来
+twilight had not yet come:暮色尚未来临
 a voice came from the kitchen:厨房里传来一个声音
-prisons come well down the list of priorities:prisons在优先事项列表中名列前茅
-she came second among sixty contestants:she在六十名参赛者中排名第二
+prisons come well down the list of priorities:监狱排在优先事项清单的后面
+she came second among sixty contestants:她在六十名参赛者中排名第二
 I let my stupid pride come between us:我让我愚蠢的骄傲来到我们之间
 his shirt had come undone:他的衬衫解开了
 he had come to realize she was no puppet:他开始意识到她不是傀儡
@@ -512,7 +512,7 @@ place each paver on a bed of concrete:将每个摊铺机放在混凝土床上
 the pavement consists of granite blocks set on a bed of cobblestones and cement:路面由铺设在鹅卵石和水泥床上的花岗岩块组成
 the spare tyre in the forward bed of the truck:卡车前车厢的备胎
 the posts should be firmly bedded in concrete:柱子应牢固地铺在混凝土中
-crazy paving has to be bedded on a solid base of hard core:crazy铺路必须铺在坚固的硬芯基础上
+crazy paving has to be bedded on a solid base of hard core:疯狂的铺路，还得在硬核的坚实基础上铺垫
 I am quite picky when it comes to bedding someone:我对搭讪很挑剔
 
 a country in north-eastern Africa, on the Mediterranean Sea, population 91,500,000 (estimated 2015), capital, Cairo, official language, Arabic.:一个位于非洲东北部的国家，位于地中海沿岸，人口91,500,000（估计2015年），首都开罗，官方语言为阿拉伯语。
@@ -549,7 +549,7 @@ ahead |əˈhɛd| Adverb/:先,前面,前方
 the road ahead:前面的路
 he contemplated the day ahead:他思考着未来的一天
 he was slightly ahead on points:他在积分上略领先
-profits were slightly ahead:profits略微领先
+profits were slightly ahead:利润略有领先
 
 an idea, feeling, or opinion about something or someone, especially one formed without conscious thought or on the basis of little evidence:关于某事或某人的想法、感觉或意见，尤其是在没有有意识的想法或基于少量证据的情况下形成的想法、感觉或意见
 an effect produced on someone:对某人产生的影响
@@ -566,7 +566,7 @@ impression |ɪmˈprɛʃn| Noun/:印象,展示
 his first impressions of Manchester were very positive:他对曼彻斯特的第一印象非常积极
 her courtesy had made a good impression:她的礼貌给人留下了很好的印象
 the floor was too dirty for the mop to make much impression:地板太脏了，拖把没有留下太多印象
-he did an impression of Shirley Bassey:he对ShirleyBassey有印象
-police issued an artist's impression of the attacker:police发布艺术家对袭击者的印象
+he did an impression of Shirley Bassey:他对雪莉·贝西印象深刻
+police issued an artist's impression of the attacker:警方发布了艺术家对袭击者的印象
 the impression of his body on the leaves:他的身体在树叶上的印象
 a copy of the first impression:第一印象副本

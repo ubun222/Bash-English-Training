@@ -1,0 +1,583 @@
+loan							借款，借用
+vocabulary					词汇，词汇量，词汇表
+illustrate					说明，举例说明
+overflow						溢出，挤满
+fantasize						幻想
+amusing						有趣的
+universal						普遍的，全体的，通用的
+generate						产生，生成，创造
+schedule						计划，安排
+backslide						故态复萌的人
+particle						颗粒
+menu							菜单
+reward						报偿，值得
+reproduce						复制，再现，繁衍
+worsen						使变得更糟
+feedback						反馈
+equivalent					相等物，相等的
+resign						辞职
+motivate						促动
+compel						强迫，强求
+compel respect					肃然起敬
+revise						修改，复习，修订
+dampen						使...潮湿，抑制
+prosperity					繁荣
+flow							流动，循环，涌至，流畅，涨潮
+humanity						人类，人道
+sideways						向旁边的，向旁边，侧身
+pursue						追逐，从事
+innovate						改革
+mill							磨坊，繁琐程序，磨，制造
+go through the mill				饱经辛酸
+promotional					广告宣传的，晋升的
+\\\\\\\\
+
+n. [sing.] ~ (of sth) 借出；贷给；被借出:
+~ (sb) sth 出借（贵重物品给博物馆等）:
+n. [C]（银行等机构或个人）贷出去的款:
+~ (sb) sth 将…（尤指钱）贷给或借给某人:
+loan |[ləʊn;美loʊn]
+I even gave her the loan of my car. 我甚至把车也借给了她。
+an exhibition of paintings on loan (= borrowed) from private collections 借用私人收藏品举办的画展 
+I am in need of a loan of a bike for a few weeks. 我需要借辆自行车用几个星期。
+He had offered the loan of his small villa at Cap Ferrat. 他愿意借出在费拉角的小别墅。
+This exhibit was kindly loaned by the artist's family. 这件展品是艺术家的家人惠借而展出的。
+He loaned the museum his entire collection. 他把自己的全部收藏品都借给了博物馆。
+He had kindly offered to loan us all the plants required for the exhibit. 他善解人意地提出愿意把展览需要的植物通通借给我们。
+We were approached by the Royal Yachting Association to see if we would loan our boat to them. 皇家游艇协会的人找过我们，问我们能不能把船借给他们。
+to take out/repay a loan (= to borrow money/pay it back) 取得/偿还贷款 
+bank loans with low interest rates 银行低息贷款 
+It took three years to repay my student loan (= money lent to a student). 我花了三年的时间才还清我的学生贷款。
+The country has no access to foreign loans or financial aid. 该国得不到任何外国贷款或经济援助。
+The president wants to make it easier for small businesses to get bank loans. 总统希望能让小企业更方便地获得银行贷款。
+bad, non-performing loan 坏账；不良贷款 
+business, consumer, personal loan 商业贷款；消费贷款；个人贷款 
+bank loan 银行贷款 
+temporary loan 临时贷款 
+bridge（美）, bridging（美）loan 过渡性贷款 
+home, mortgage loan 按揭贷款 
+auto（美）, car loan 汽车贷款 
+interest-free loan 无息贷款 
+fixed-rate loan 固定利率贷款 
+guaranteed（美）, secured, unsecured loan 担保贷款；抵押贷款；无抵押贷款 
+home-equity loan（美）住房抵押贷款 
+outstanding loan 未偿还贷款 
+loan application 贷款申请 
+loan interest 贷款利息 
+loan facility（尤英）信贷服务 
+loan officer（美）放款员 
+loan shark 放高利贷者 
+The bank is happy to loan money to small businesses. 银行乐于贷款给小型企业。
+A friend loaned me $1 000. 有一位朋友借给我1 000元。
+
+n. 1 [C, U] 一个人所掌握或使用的全部词汇，即词汇量:
+2 [C, U] 根据重要性、常用程度、语体的正式与非正式、教学目的等标准所划分出的某种词汇:
+3 [C, U] 某一门语言的全部词汇，即词汇量:
+4 [C, U] 某一学科中人们所使用的词汇:
+5 [C, U] 附有释义的一张词汇表（尤指外语学习书籍中附有释义的词汇表），vocab为其非正式用法:
+vocabulary |[və'kæbjələrɪ]
+big vocabulary 庞大的词汇量 
+limited vocabulary 有限的词汇量 
+vocabulary list 词汇表 
+basic, key vocabulary 基础词汇；重点词汇 
+formal vocabulary 正式词汇 
+everyday vocabulary 日常词汇  
+specialized vocabulary 专业词汇 
+common vocabulary 通用词汇 
+active, expressive vocabulary 积极词汇；产出性词汇 
+passive, receptive vocabulary 消极词汇；接受性词汇 
+a new word in the German vocabulary 德语词汇中的一个新词 
+English has a rich vocabulary. 英语有着丰富的词汇。
+business, musical, political, scientific vocabulary 商业词汇；音乐词汇；政治词汇；科技词汇 
+the essential vocabulary for tourism 旅游基本词汇 
+advertising vocabulary 广告词汇 
+
+vt. 表明某事是真实的，或表明一种情况存在:
+vt. 用示例、图片等使…的意思更清晰，即解释、说明:
+vt. [常用被动式] ~ sth (with sth) 给书籍等加图片或图表，即加插图:
+illustrate |[ˈɪləstreɪt]
+The incident illustrates the need for better security measures. 这次事件说明了加强安全措施的必要。
+The case tragically illustrates the dangers of fireworks. 这起案件悲剧性地说明了烟花爆竹的危险性。
+The example of the United States illustrates this point. 美国的例子证明了这一点。
+This change is neatly illustrated by what has happened to the Arab League. 这种变化鲜明地体现在阿拉伯联盟所发生的事件上。
+The dire consequences of chronic underfunding are nowhere better illustrated than in the nation's schools. 长期资金匮乏所造成的严重后果，在该国的中小学表现得最明显不过了。
+His question merely illustrates his ignorance of the subject. 他提出的问题仅仅说明了他对这个学科的无知。
+To illustrate my point, let me tell you a little story. 为了说明我的观点，让我来给你们讲个小故事。
+Last year's sales figures are illustrated in Figure 2. 图2显示了去年的销售数字。
+What she attempts to illustrate is the difference between her company and her competitors. 她试图说明的是她的公司与其竞争者之间的差别。
+He is showing these silent films to help illustrate his story of survival. 他正在放映这些无声电影，用以更好地说明他劫后余生的过程。
+Throughout, she illustrates her analysis with excerpts from discussions. 自始至终，她摘引讨论内容来阐明她的分析。
+a way of illustrating to the chairman the folly of his decision 向主席表明其决定有多么愚蠢的一个方法          
+to illustrate a book 给一本书加插图 
+an illustrated textbook 有插图的课本 
+a collection of photographically illustrated magazines 一批插配照片的杂志 
+Most items are illustrated by a photograph. 多数物件都配有一张示例照片。
+The new edition is heavily illustrated with photographs of aircraft. 新版本中配有大量飞机插图。
+His lecture was illustrated with slides taken during the expedition. 他在讲演中使用了探险时拍摄到的幻灯片。
+
+vi. 洋溢着情感、情感溢于言表:
+n. [C] 情感的洋溢:
+vi. ~ (with sth)（一个地方）挤满了人:
+vt.&vi. ~ (into sth) 从一个太满的地方（或容器）的界线扩展出去、延伸出去:
+n. [U, sing.]（一个现有的空间）容纳不下的人或事物:
+n. [C, usually sing.] [计算机] 是计算机的一种故障，指数字或数据项（如计算结果的数值）太大时，计算机不能准确将其显示出来。可称为溢出，上溢（运算产生的数值位数或字的长度等超过存储单元的长度）:
+~ sth 因太满而从边缘溢出:
+n. [U, sing.] 液体的溢出；溢出的液体:
+n. [C] 溢流孔、溢流管（其作用在于让多余的液体从容器中流出）:
+overflow |[ˌəʊvəˈfləʊ;美ˌoʊvərˈfloʊ]
+Her heart overflowed with love. 她的心里充满了爱。
+Kenneth overflowed with friendliness and hospitality. 肯尼思满怀友善好客之情。
+Ridley's anger finally overflowed. 里德利终于按捺不住满腔的怒火。
+an overflow of powerful emotions 横流的激情
+The streets were overflowing with the crowds. 街上到处挤满了人群。
+The hospitals are filled to overflowing (= with patients). 医院都人满为患。
+The great hall was overflowing with people. 大礼堂里挤满了人。
+Jails and temporary detention camps are overflowing. 监狱和临时拘留所里人满为患。
+He was one of the few teachers who always filled the lecture room to overflowing. 他是为数不多的课堂场场爆满的老师之一。
+The meeting overflowed into the street. 集会的人群延伸到了大街上。
+The kitchen garden was full to overflowing with fresh vegetables. 家庭菜园里种满了新鲜蔬菜。
+A new office block was built to accommodate the overflow of staff. 新建了一座办公大楼以便容纳多出的员工。
+Tents have been set up next to hospitals to handle the overflow. 医院旁搭起了帐篷以安置容纳不下的人员。
+an overflow car park 备用停车场
+vt.&vi. ~ (with sth) 
+The river overflowed its banks. 河水涨出了堤岸。
+The bath is overflowing. 浴盆溢水了。
+Pour in some of the syrup, but not all of it, as it will probably overflow. 倒一些糖浆进去，但别全倒，因为可能会溢出来。
+Plates overflowed with party food. 聚会上的食物碟满盘盈。
+an overflow of water from the lake 漫出的湖水 
+The loch's overflow cascades into the waterfalls of a Japanese water garden. 溢出的湖水倾泻而下，形成了一座日式水景花园的瀑布。
+the overflow pipe 溢流管
+
+indulge in daydreaming about something desired:沉迷于对想要的东西做白日梦
+imagine (something that one wants to happen):imagine（想要发生的事情）
+fantasize |ˈfantəsʌɪz| Verb/:,幻想起来
+he sometimes fantasized about emigrating:他有时会幻想移民
+one might fantasize the death of someone seen as a threat:one可能会幻想某人的死亡被视为威胁
+
+adj. 令人发笑的、有趣的、好笑的:
+amusing |[əˈmju:zɪŋ]
+amusing story, amusing game, amusing incident 逗人笑的故事；令人发笑的游戏；好笑的事件 
+I didn't find the joke at all amusing. 我认为这笑话一点也不可笑。
+He had a terrific sense of humour and could be very amusing. 他极具幽默感，很会逗人发笑。
+They recounted amusing stories about their first sexual experiences. 他们讲述了他们第一次性经历的趣事。
+There is nothing even remotely amusing about the situation. 这情形一点儿也不好笑。
+
+adj. 1（在全世界或某个群体中）涉及所有人的，即普遍的，全体的，共同的:
+2 在任何时候和任何地方都属实或正确的:
+adj. 影响或关于世界各处的，即全世界的，世界性的:
+universal |[͵ju:nɪ'və:sl]
+Such problems are a universal feature of old age. 这类问题在老年人中很普遍。
+Agreement on this issue is almost universal. 这个问题几乎取得全体一致的意见。
+These practices remain universal among the islanders. 这些依然是岛上居民惯常的做法。
+universal facts about human nature 人性的普遍事实
+universal diseases 世界性的疾病 
+
+vt. 引起、导致:
+vt. 产生、创造某事物:
+generate |[ˈdʒenəreɪt]
+The proposal has generated a lot of interest. 这项建议引起众多的关注。
+the excitement generated by the changes in Eastern Europe 东欧变革引起的骚动 
+People used to believe that dirt spontaneously generated disease. 人们过去认为污染物会自发致病。
+to generate electricity, to generate heat, to generate power 发电；产生热；产生动力 
+Living cells generate energy from food. 活细胞用食物制造能量。
+to generate income, to generate profit 产生收益；产生利润 
+The lottery is expected to generate substantial funds for charities. 彩票发行有望为慈善事业筹集到大笔资金。
+We need someone to generate new ideas. 我们需要有人出新主意。
+The Employment Minister said the reforms would generate new jobs. 劳工大臣表示，改革将带来新的就业机会。
+a sequence of randomly generated numbers 随机生成的数列
+
+n. [C] [美] 时间表，时刻表，相当于英式的timetable:
+vt. schedule sth (for sth) 常用被动式，指安排…（让其在某个时间发生），即为某事安排时间:
+n. [C, U] 工作计划，日程安排（上面列出了必须要做的事和何时做何事）；还可指计划的时间:
+n. [C]（某个频道的电视或广播节目的）节目表（上面列出了各节目的开播时间）:
+n. [C] 所书写的一份清单或表格（如价格表、费率表或条件表等）:
+vt. [正式] schedule sth (as sth) 将某事物列入到一份正式的清单中:
+n. [C] [美] 学校的课程表，相当于英式的timetable:
+n. [C] [美] 交通工具的时刻表，相当于英式的timetable:
+schedule |['ʃedju:l;'skedӡu:l]
+racing schedule 比赛时间表 
+I’m scheduled to arrive in LA at 5 o’clock. 我预计在5点钟抵达洛杉矶。
+The meeting was originally scheduled for March 12. 会议原定于3月12日举行。
+I have a hectic schedule for the next few days. 我今后几天的日程紧得要命。
+Filming began on schedule. 拍摄如期开始。
+weekly schedule 每周的安排 
+delivery, production, work schedule 送货计划表；生产进度；工作进度
+TV schedule 电视节目表 
+daytime, evening, weekday schedule 日间节目表；夜间节目表；周末节目表 
+summer schedule 夏季节目表 
+The channel’s schedules are filled with repeats. 这个频道安排的尽是重播节目。
+tax schedules 税率表 
+a pricing schedule 价目表 
+The substance has been scheduled as a poison. 这种物质已被列为毒物。
+class, course, exam, lecture, school schedule 课程表；课程安排；考试安排；讲座安排；学校作息表 
+Chinese will be on the school schedule from next year. 从明年开始中文将排进学校的课程表。
+bus, train schedule 公交车时刻表；火车时刻表 
+flight schedule 航班时刻表
+
+relapse into bad ways or error:重蹈坏道或错误
+backslide |ˈbakslʌɪd| Verb/:倒退,后滑
+there are many things that can cause slimmers to backslide:有很多事情会导致slimmers倒退
+
+n. [C] 极小的数量、一点点:
+n. [C]（构成原子的）粒子（例如电子或质子）:
+n. [C] 颗粒、微粒:
+n. [C] [语法] 小品词（与动词构成短语动词的副词或介词）:
+particle |[ˈpɑ:tɪkl;美ˈpɑ:rt-]
+There was not a particle of evidence (= no evidence at all) to support the case. 没有丝毫支持这个论点的证据。
+There is a particle of truth in his statement. 他的陈述中有一点点实话。
+particle physicist 粒子物理学家 
+particle physics 粒子物理学 
+particle theory 粒子理论          
+particles of dust 灰尘 
+dust particles 尘埃 
+a particle of hot metal 热金属微粒
+In ‘She tore up the letter ’, the word ‘up’ is a particle. 在She tore up the letter句中，up是小品词。
+
+n. [C]（餐馆等的）菜单:
+n. [C] 饭菜:
+n. [C] 计算机屏幕上显示的（功能选择）菜单，选项:
+menu |['menju:]
+special menu 特色菜单 
+set menu 套餐菜单 
+lunch menu 午餐菜单 
+dessert menu 甜点单 
+drinks menu 酒水单 
+May we have the menu? 我们可以看一下菜单吗？
+What’s on the menu this evening? 今晚有些什么菜？ 
+Try out the menu on a few friends. 请几个朋友来尝尝这道菜。
+Passengers are offered a daily choice of menu. 乘客可以选择每天的饭菜。
+edit, help menu 编辑菜单；帮助菜单 
+a pull-down menu 下拉式菜单 
+main menu 主菜单 
+menu item 菜单项 
+menu interface 菜单界面
+
+n. [C, U] 由于做了好事或工作努力等而获得的回报，报酬，奖励。强调一种付出与回报的对等性。与prize有类似之处，但prize更强调奖励的象征意义，奖品形式也比较多样，而reward则强调这笔酬金对酬劳接受者所具有的实际经济意义（如改善生活水平）:
+vt. reward sb (for sth/for doing sth) 由于某人做了好事或工作努力等而给予其报酬，奖励，常用被动式:
+n. [C] 为帮助警察找到罪犯或帮助失主找回丢失物品所获得的悬赏金:
+reward |[rɪ'wɔ:d]
+rewards of investments 投资回报 
+tangible reward 看得见的报酬 
+potential reward 潜在的回报 
+economic, material reward 经济奖励；物质奖励 
+Winning the match was just reward for the effort the team had made. 赢得比赛的胜利是全队付出努力应得的回报。
+Give yourself some time off as a reward. 休息一下吧，就算是犒劳自己。
+reward system 奖赏制度 
+reward and punishment 奖惩 
+Top athletes enjoy rich rewards. 顶级运动员享有丰厚的酬金。
+She was rewarded for her efforts with a cash bonus. 她因自己所作的努力而得到一笔奖金。
+He was duly rewarded for his outstanding contribution to the arts. 他因为在艺术上的杰出成就而获得了应有的奖励。
+highly rewarded occupations 报酬很高的职业 
+He rewarded us handsomely for helping him. 对于我们的帮助，他大加酬谢。
+She started singing to the baby and was rewarded with a smile. 她开始给孩子唱歌，孩子则报以微笑。
+Our patience was finally rewarded. 我们的耐心最终得到了回报。
+The rats are rewarded with food when they press the lever. 老鼠压下杠杆时就会得到食物作为奖励。
+cash reward 现金悬赏 
+A £100 reward has been offered for the return of the necklace. 已悬赏100英镑找寻项链。
+There is a reward for information leading to an arrest. 提供对抓捕罪犯有用信息的人可获得赏金。
+
+vt. 再次产生；以相同的方式使某事再次发生:
+vt.&vi.（人、动物、植物等）繁殖:
+vt. 模仿:
+vt. 复制图片、文本等:
+reproduce |[ˌri:prəˈdju:s;美-ˈdu:s]
+The characters of the novel are faithfully reproduced in the movie. 小说中的人物在影片中得到了忠实再现。
+The effect has proved hard to reproduce. 事实证明，这种效果很难再现。
+a society where women are defined by their ability to reproduce 用生育能力衡量女性价值的社会 
+We are reproducing ourselves at such a rate that our numbers threaten the ecology of the planet. 我们的繁衍速度太快，以至于人口数量对地球的生态系统造成了威胁。
+Most reptiles reproduce by laying eggs on land. 大多数爬行动物通过在陆地产卵进行繁殖。
+cells reproducing themselves (= making new ones) 自我繁殖的细胞 
+Many single cell organisms reproduce by splitting in two. 很多单细胞生物体是通过分裂成两个细胞而繁殖的。
+I shall not try to reproduce the policemen's English. 我不会试图去模仿那个警察讲的英语。
+If we can reproduce the form we have shown in the last couple of months we will be successful. 如果我们能模仿前两个月的形式，我们就会成功。
+It is illegal to reproduce these worksheets without permission from the publisher. 未经出版者许可翻印这些习题是违法的。
+The article may not be reproduced without written permission of the author. 这篇文章未经作者书面同意不得复制。
+We are grateful to you for permission to reproduce this article. 非常感谢您允许我们复印这篇文章。
+These works were popular and widely reproduced. 这些作品很受欢迎并被广泛复制。
+The painting is reproduced here by courtesy of the Tate Gallery. 这幅画承蒙国家美术馆的许可而复制。
+The painting is reproduced very accurately. 这幅画复制得和原作一模一样。
+The map is reproduced here from a Victorian original. 这幅地图是根据维多利亚时代的正本复制的。
+Photographs can be easily reproduced with a negative. 照片可以很容易地用底片翻拍出来。
+They do not reproduce well in print. 这些东西翻印得不清楚。
+The photocopier reproduces colours very well. 这台复印机复制的色彩效果很好。
+It is difficult to reproduce a signature exactly. 复制一模一样的签名很难。
+Writing grew out of an attempt to reproduce speech in a permanent form. 文字是试图将话语用永久的形式再现的产物。
+In her own work she simply reproduces the very conventions that she claims to despise. 在她自己的作品中，她纯粹是复制了她声称深为鄙视的传统手法。
+
+vt.&vi.（使）变得更差，即恶化:
+worsen |[ˈwɜ:sn;美ˈwɜ:rsn]
+The political situation is steadily worsening. 政治局势在持续恶化。
+The security forces had to intervene to prevent the situation worsening. 安全部队不得不介入，以防止局势进一步恶化。
+These options would actually worsen the economy and add to the deficit. 这些选择实际上只会造成经济形势更加恶化，赤字愈见增加。
+The economic recession has continued to worsen. 经济衰退愈演愈烈。
+Staff shortages were worsened by the flu epidemic. 由于流感，职员短缺的情况更加严重了。
+Her health has worsened considerably since we last saw her. 自从我们上次见到她以来，她的身体差多了。
+The problem has worsened considerably in recent months. 近几个月来问题严重恶化了。
+
+n. [U] 对某事物（或某人的作品）的好坏或有用性所反馈的意见、批评或信息:
+n. [U] 电器设备（如音箱）的反馈噪音:
+feedback |[ˈfi:dbæk]
+I'd appreciate some feedback on my work. 如果有人对我的工作提出意见我将感激不尽。
+The teacher will give you feedback on the test. 老师会对你的测验提供反馈信息。
+We need both positive and negative feedback from our customers. 我们需要顾客正反两方面的反馈意见。
+I was getting great feedback from my boss. 老板对我的评价很高。
+The writer gets no immediate feedback and simply has to imagine the reader's reaction. 作家没有得到即时的反馈，只能想象读者的反应。
+email, written feedback 通过电子邮件发送的反馈；书面的反馈 
+The facilitator offers verbal feedback to each student. 协调人将反馈信息用语音提供给每个学生。
+consumer, customer, reader, student, user feedback 消费者的反馈；顾客的反馈；读者的反馈；学生的反馈；用户的反馈 
+The Internet can be a useful source of customer feedback. 互联网能成为了解顾客反馈信息的一个有用的渠道。
+I invite you to send your feedback to our editors. 请您将反馈信息发送给我们的编辑。
+They will be given feedback on their performance. 他们将收到对他们表现的反馈意见。
+I've had a lot of very constructive feedback from the students about this. 关于这一点，我从学生那里得到了很多建设性的反馈意见。
+
+n. [C] ~ (of/to sth) 相等、相同或对应的的东西、数量、词语、效果等:
+adj. ~ (to sth)（价值、数量、意义、重要性等）相等的、相同的:
+equivalent |[ɪˈkwɪvələnt]
+Send €20 or the equivalent in your own currency. 寄20欧元或等值的贵国货币。
+Creutzfeldt-Jakob disease, the human equivalent of BSE 克罗伊茨费尔特——雅各布病——相当于疯牛病的人类疾病 
+The German ‘Gymnasium’ is the closest equivalent to the grammar school in England. 德语Gymnasium基本上相当于英格兰的文法学校。
+Breathing such polluted air is the equivalent of (= has the same effect as) smoking ten cigarettes a day. 呼吸污染这么严重的空气等于每天抽十支烟。
+The equivalent of two tablespoons of polyunsaturated oils is ample each day. 每天相当于两大汤匙多重不饱和油的量就足够了。
+Even the cheapest car costs the equivalent of 70 years' salary for a government worker. 即使是最便宜的汽车，价格也相当于一个公务员70年的薪水。
+the civil administrator of the West Bank and his equivalent in Gaza 约旦河西岸的民政官和加沙的同职官员 
+the Red Cross emblem, and its equivalent in Muslim countries, the Red Crescent 红十字及其在伊斯兰国家的对应标志——红月牙 
+His party has just suffered the equivalent of a near-fatal heart attack. 他所在的政党刚刚经历了一次类似心脏病突发般几近致命的打击。
+the nearest equivalent we have to a carnival 我们有的与狂欢节最相似的节日 
+the modern equivalent of the Roman baths 罗马浴室的现代版 
+The campaign says that hunters are the moral equivalent of murderers. 这一运动宣称，在道德层面上捕猎者等同于杀人犯。
+These drawings are the visual equivalents of stage whispers. 这些图画等同于舞台上的可视旁边。
+verbal equivalent 意义相同的词语 
+architectural, cinematic, journalistic, literary, musical, sporting（尤英） equivalent 建筑方面的对应物；电影方面的对应物；新闻方面的对应物；文学方面的对应物；音乐方面的对应物；体育方面的对应物 
+the online equivalent of the telephone 与电话相当的在线通讯工具 
+The company has $43.8 million in cash and cash equivalents. 该公司拥有4,380万美元的现金和现金等价物。
+a word which has no direct equivalent in English 在英语中找不到对应词的词语 
+Each sponsor received the equivalent of £1 million worth of advertising. 每位赞助商均获得价值100万英镑的广告收益。
+He's only paid the equivalent of $200. 他只得到了相当于200美元的物品。
+There is no exact male equivalent for witches. 没有和女巫完全对等的男性角色。
+It is the approximate equivalent in height to the Matterhorn. 这个高度与马特峰接近。
+This qualification is the equivalent of a degree. 这一资格相当于大学学位。
+This concert hall has been described as the American equivalent to London's Albert Hall. 这个音乐厅可称得上是美国的伦敦艾伯特音乐厅。
+Eight kilometres is roughly equivalent to five miles. 八公里约等于五英里。
+250 grams or an equivalent amount in ounces 250克或与之等量的盎司 
+the price we would pay elsewhere for a broadly equivalent house 我们在其它地方购置大致相同的房子要付的价钱 
+These first computers were equivalent in power to a modern calculator. 这些最初的计算机与现代计算器功能相同。
+
+resign (as sth)（从公司、组织机构等）辞去职务，辞职:
+resign |[rɪ'zaɪn]
+vt.＆vi. resign (from sth) 
+He resigned as chairman. 他辞去了主席一职。
+
+vt. 促使某人想要做某事（尤指难事、需要付出努力之事），如激励:
+vt. [常用被动式]（尤指心理或情绪）成为某人做某事（或某人的行为方式）的动机或原因:
+vt. [南非，正式] 就所说的话给出理由或原因:
+motivate |[ˈməʊtɪveɪt;美ˈmoʊ-][ˈməʊtɪveɪt;美ˈmoʊ-]
+She's very good at motivating her students. 她非常擅长激励她的学生。
+to motivate employees to work more efficiently 促使员工更加卓有成效地工作
+He is motivated entirely by self-interest. 他做事完全出于私利。
+The crime was not politically motivated. 该犯罪行为没有政治动机。
+They are motivated by a need to achieve. 对成功的渴望激励着他们。
+Please motivate your answer to question 5. 请解释你对第5题所作的回答。
+
+vt. [正式] 强迫某人去做某事:
+vt. [正式] [不用于进行时] 引起某种反应:
+vt. [正式] 用于feel compelled to结构，表示使某事成为必须:
+compel |[kəmˈpel]
+The law can compel fathers to make regular payments for their children. 这项法律可强制父亲定期支付子女的费用。
+the legislation to compel cyclists to wear a helmet 强制骑自行车者戴头盔的法律 
+Last year ill health compelled his retirement. 去年他因身体不好被迫退休了。
+She was compelled to take in washing to help support her family. 她被迫在家替人洗衣服，以贴补家用。
+He spoke with an authority that compelled the attention of the whole crowd. 他用权威的口气讲话，引起了整个人群的注意。
+I feel compelled to write and tell you how much I enjoyed your book. 我觉得必须写信告诉你我是多么欣赏你的书。
+Dickens felt compelled to return to the stage for a final good-bye. 迪金斯觉得必须返回舞台作最后的道别。
+I felt morally compelled to help. 我觉得从道义上我必须帮忙。
+
+vt. 改变、修改（意见或计划）:
+vt. 调整，改变（价格、数目、估计等，以使其更准确、更符合实际、更合理）:
+vt. [英] 为考试而复习、温习:
+revise |[rɪˈvaɪz]
+He soon came to revise his opinion of the profession. 他很快就改变了对这个职业的看法。
+I can see I will have to revise my opinions of his abilities now. 我明白我现在不得不改变对他的能力的看法了。
+The government may need to revise its policy in the light of this report. 政府可能需要根据这份报告改变其政策。
+They realized that some of their prices were higher than their competitors' and revised prices accordingly. 他们意识到自己有些价格高于竞争对手，就相应调整了价格。
+We may have to revise this figure upwards. 我们也许要将这个数字往上调一调。
+The United Nations has been forced to revise its estimates of population growth upwards. 联合国已经被迫上调了其对人口增长做出的预测。
+I'll prepare a revised estimate for you. 我将为你准备一份经过修正的评估报告。
+Sales forecasts will have to be revised downwards/downward. 销量预测将不得不调低。
+The estimate for the building work had to be revised. 该项建筑工程的估价得进行调整。
+The figure has now been revised from $1 million to $2 million. 数字已经从100万美元改成了200万美元。
+I spent the weekend revising for my exam. 我花了整个周末复习备考。
+I can't come out tonight. I have to revise. 我今晚不能出去。我得复习。
+I'm revising Geography today. 我今天复习地理。
+Have you revised for the test tomorrow? 明天的测验你复习了吗?
+
+make slightly wet:make微湿
+make less strong or intense:make不那么强烈或强烈
+reduce the amplitude of (a sound source):降低（一个声源）的振幅
+dampen |ˈdamp(ə)n| Verb/:,抑制,阻尼
+the fine rain dampened her face:细雨打湿了她的脸
+nothing could dampen her enthusiasm:没有什么能抑制她的热情
+slider switches on the mixers can dampen the drums:
+
+n. [U]（尤指经济方面的）繁荣、兴旺、昌盛:
+prosperity |[prɒˈsperəti;美prɑ:ˈs-]
+The country is enjoying a period of peace and prosperity. 国家正值国泰民安、繁荣昌盛的时期。
+a new era of peace and prosperity 和平繁荣的新时代 
+Japan's economic prosperity 日本的经济繁荣 
+material prosperity 物质的丰富 
+national prosperity国家的繁荣 
+personal prosperity 个人的富足 
+an area with a level of prosperity higher than the national average 发达程度高于全国平均水平的地区 
+The growth of tourism brought prosperity to the island. 旅游业的发展给这座岛带来了繁荣。
+The island's prosperity depends on its fishing industry. 这个岛的繁荣有赖于渔业。
+Our future prosperity depends on economic growth. 我们未来的繁荣昌盛依赖经济的发展。
+
+vi.（感觉）被某人强烈地感觉到:
+flow (into, through, etc. sth)（时间）稳定且持续地向一个方向移动，即流动:
+flow (into, through, etc. sth)（信息、变化等）稳定且持续地向一个方向移动，即流动:
+n. [C, usually sing., U] flow (of sth) 某个过程的持续演进:
+vi.（进程）以一种轻松自然的方式发展:
+vi.（变化）稳定且持续地向一个方向移动，即流动:
+vi.（液体）稳定且持续地向一个方向移动，即流动:
+n. [C, usually sing., U] 海的涨潮:
+vi.（海）涨潮，与ebb相反:
+n. 1 [C, usually sing., U]（言语或文字）由某人持续地讲出，即滔滔不绝:
+2 [C, usually sing., U] flow of sth 文字在讲话或写作中的连贯或流畅:
+vi.（交谈）以一种轻松自然的方式发展或被产生:
+vi.（思想）以一种轻松自然的方式发展或被产生:
+n. [C, usually sing., U] flow of sth 想法在讲话或写作中的连贯或流畅:
+n. [C, usually sing., U] flow (of sth/sb) 某人或某事物向一个方向所做的一种稳定而持续的移动，即流动、流:
+flow (into, through, etc. sth)（液体、气体、电、声音等）稳定且持续地向一个方向移动，即流动:
+2（人或事物）从一地持续地移动或通过另一地，如流向、流经:
+vi. flow (down/over sth)（衣服或头发）松散且自由地下垂:
+flow (into, through, etc. sth)（信息）稳定且持续地向一个方向移动，即流动:
+vi. 可被轻易且大量地获得，如有的是、大量供应:
+n. [C, usually sing., U] flow (of sth) 某事物的持续生产或供应:
+flow |[fləʊ]
+Fear and excitement suddenly flowed over me. 我突然感到又恐惧又兴奋。
+vi. flow (back/down, etc.) 
+One day seemed to flow into the next. 时光一天天地流过。
+vi. flow (back/down, etc.) 
+Some of these changes will flow directly from the legislation. 这些变化中有一些将会直接来自于立法。
+Information flows continuously through the network. 信息通过网络不断流动。
+Election results flowed in throughout the night. 整夜不断传来选举的结果。
+production, trade, work flow 生产流程；贸易流程；工作流程
+In a good production of the play, the action and the words flow naturally. 在好的戏剧作品中，动作和台词都会很流畅地向前推进。
+The songs flow seamlessly into one another. 这些歌曲自然流畅地从一首过渡到另一首。
+Some of these changes will flow directly from the legislation. 这些变化中有一些将会直接来自于立法。
+Beer flowed freely. 人们畅饮着啤酒。
+the ebb and flow of the tide 潮涨潮落 
+You’ve interrupted my flow--I can’t remember what I was saying. 你打断了我的话——我记不得我在说什么了。
+Tom was in full flow. 汤姆口若悬河。
+narrative flow 叙述流 
+to interrupt the smooth flow of the text 使行文不流畅 
+Conversation flowed freely throughout the meal. 席间大家一直谈笑甚欢。
+ The best thing is when ideas flow in both directions. 最好的是思想双向流动。
+Too many examples can interrupt the smooth flow of the text. 例子太多会使行文不流畅。
+We like to allow a free flow of ideas in our company. 我们希望大家在公司里能自由交流思想。
+water flow 水流 
+air, heat flow 气流；热流 
+blood flow 血流量 
+the uninterrupted flow of traffic 持续不断的车流 
+an endless flow of refugees into the country 难民源源不断流入这个国家 
+I liked the concerto for its natural flow. 我喜欢这部协奏曲的自然流畅。
+vi. 1 flow (back/down, etc.) 
+Blood flowed from a cut on her head. 血从她头上的伤口处流出来。
+This can prevent air from flowing freely. 这可以防止空气自由流动。
+Wine and beer flowed freely. 人们畅饮着葡萄酒和啤酒。
+The songs flow seamlessly into one another. 这些歌曲自然流畅地从一首过渡到另一首。
+The river flows very fast here. 这儿水流湍急。
+Constant streams of traffic flowed past. 车流不断通过。
+Her hair flowed down over her shoulders. 她的头发垂到肩上。
+long flowing skirts 飘逸长裙 
+Her long hair flowed in the wind as she ran. 她跑的时候长发随风飘动。
+vi. flow (back/down, etc.) 
+Election results flowed in throughout the night. 整夜不断传来选举的结果。
+Information flows continuously through the network. 信息通过网络不断传播。
+It was obvious that money flowed freely in their family. 显然他们家族有的是钱。
+The party got livelier as the drink began to flow. 开始尽兴畅饮时，聚会的气氛活跃起来。
+Imported food aid continued to flow in. 国外的救济食物源源不断地涌入。
+The number of buyers has ebbed and flowed.（比喻用法）购买者的人数时多时少。
+the flow of goods and services to remote areas 商品和服务对边远地区源源不断的供应 
+a constant flow of information 源源不断的信息流 
+data, cash flow 数据流；现金流 
+to encourage the flow of revenue into the country 鼓励收益流入国内
+
+n. [U] 人道；仁慈:
+n. 1 [U]（统称）人；人类:
+2 [U] 人（而非神、非动物、非机器、非物体）:
+n. [pl.] (the) humanities可指人文学科（如历史、哲学、文学等）:
+humanity |[hju:ˈmænəti]
+The judge was praised for his courage and humanity. 法官的勇气和人道受到称赞。
+a man who's almost lost his humanity in his bitter hatred of his rivals 因痛恨竞争对手而几乎丧失人性的男子 
+Guilt and a sense of common humanity make people less harsh. 内疚感和人类的博爱使得人们少了几分严酷。
+They face charges of committing crimes against humanity. 他们被控犯有反人类罪。
+a young lawyer full of illusions and love of humanity 满脑子幻想并且博爱的年轻律师 
+The story was used to emphasize the humanity of Jesus. 人们用这个故事来强调耶稣人性的一面。
+united by a sense of common humanity 因一种同是人的情感而团结在一起 
+a man who's almost lost his humanity in his bitter hatred of his rivals 因痛恨竞争对手而几乎丧失人性的男子
+students majoring in the humanities 主修人文学科的学生
+
+adv. 1 到一侧；朝向一侧；从一侧:
+2 用一个侧面朝前，即侧着:
+sideways |['saɪdweɪz]
+He looked sideways at her. 他斜着眼看她。
+The truck skidded sideways across the road. 卡车横着滑到公路另一侧。
+He has been moved sideways. 他平级调动工作了。
+She sat sideways on the chair. 她侧坐在椅子上。
+
+vt. [正式] 追求一个兴趣:
+vt. [正式] 付出努力（通常是长时间的努力）追求一个目标或结果:
+vt. [正式] 继续查找，即追查、追究:
+vt. [正式]（尤指为了抓住…而）追赶、追逐某人或某事物:
+vt. [正式] 实施、贯彻、执行一项活动或计划:
+vt. [正式] 追问、追究:
+pursue |[pəˈsju:;美pərˈsu:]
+Which career do you wish to pursue? 你打算干哪一行？
+She wishes to pursue a medical career. 她希望从事医学工作。
+He was still doggedly pursuing his studies. 他坚持不懈地进行着自己的研究。
+It became harder for women married to diplomats to pursue their own interests. 与外交官结婚的女性要追求自己的爱好就变得更加困难了。
+the freedom to pursue her own interests 做她自己感兴趣之事的自由 
+to pursue a goal/an aim/an objective 追求（或实现）目标 
+The implication seems to be that it is impossible to pursue economic reform and democracy simultaneously. 言外之意似乎是经济改革和民主化进程是不可能同时进行的。
+He has aggressively pursued new business. 他积极开拓新业务。
+We have decided not to pursue the matter. 我们决定不再追究这件事。
+She left the theatre, hotly pursued by the press. 她离开剧场，被记者穷追不舍。
+He pursued her relentlessly, refusing to take ‘no’ for an answer. 他锲而不舍地追着她，拒不接受“不”的回答。
+She pursued the man who had stolen a woman's bag. 她追赶那个偷了一个妇女提包的男人。
+He ran past, hotly pursued by two policemen. 他跑了过去，两名警察在后面穷追不舍。
+Police pursued the car at high speed. 警察高速追赶那辆汽车。
+We intend to pursue this policy with determination. 我们准备坚决贯彻这项政策。
+to pursue legal action 进行诉讼
+If your original request is denied, don't be afraid to pursue the matter. 如果你最初的请求遭到拒绝，不要害怕，要继续追问下去。
+
+make changes in something established, especially by introducing new methods, ideas, or products:对已建立的事物做出改变，尤其是通过引入新的方法、想法或产品
+introduce (something new, especially a product):introduce（新事物，尤其是产品）
+innovate |ˈɪnəveɪt| Verb/:创新,在
+the company's failure to diversify and innovate competitively:公司未能在竞争中进行多元化和创新
+we continue to innovate new products:我们不断创新新产品
+
+vt. [常用被动式]（用磨粉机）磨成粉、碾碎:
+n. 1 [C] 面粉厂、磨坊:
+2 [C]（常构成复合词）生产某类材料的工厂:
+n. [C]（常构成复合词）将固体物质磨成粉末的小型机器，即磨粉机:
+mill |[mɪl]
+They mill 1,000 tonnes of flour a day in every Australian state. 澳大利亚各州每天都要磨1,000吨面粉。
+freshly milled black pepper 刚刚磨好的黑胡椒粉
+The mill has been converted into apartments. 磨坊已经被改建成了公寓。
+We were living in a converted watermill. 那段时间我们一直住在一座改建过的水磨磨坊里。
+cotton, feed, jute, lumber（尤美）, paper, pulp, steel, sugar, textile, cloth, woollen mill 棉纺厂；饲料加工厂；麻纺厂；木材厂；造纸厂；纸浆厂；炼钢厂；糖厂；纺织厂；毛纺厂 
+a northern mill town 北方的一个工业城镇 
+mill buildings 厂房 
+mill hand, mill worker 工厂工人 
+mill owner 工厂主
+pepper mill 胡椒研磨机 
+corn（英）, flour, grain mill 面粉机；谷物磨粉机 
+water mill（通常用watermill）水磨；水力磨粉机 
+The river was harnessed to power the mill. 这条河被用来为磨粉机提供动力。
+The mill can be seen grinding wheat. 能看见磨粉机在碾磨小麦。
+mill stone（通常用millstone） 磨石 
+mill wheel（磨坊的）水车轮
+
+relating to the publicizing of a product, organization, or venture so as to increase sales or public awareness:与产品、组织或企业的宣传有关，以提高销售额或公众意识
+promotional |prəˈməʊʃən(ə)l| Adjective/:促销,宣传
+she was on a promotional tour for her books:她正在为她的书进行宣传之旅

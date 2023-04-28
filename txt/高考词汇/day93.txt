@@ -104,25 +104,25 @@ the cost of storing something in a warehouse.:在仓库中存储东西的成本�
 storage |ˈstɔːrɪdʒ| Noun/:贮存,存储,储存
 the chair can be folded flat for easy storage:椅子可折叠平放，方便存放
 data storage:数据存储
-Cooper had put much of the furniture into storage:Cooper已将大部分家具放入仓库
+Cooper had put much of the furniture into storage:库珀把大部分家具都收起来了
 
-inside (something):inside（某事）
+inside (something):里面（某物）
 inside the range of (an area or boundary):范围内（区域或边界）
 inside the range of (a specified action or perception):在（指定的动作或感知）的范围内
 inside the bounds set by (a concept, argument, etc.):
 not further off than (used with distances):不远于（与距离一起使用）
 occurring inside (a particular period of time):发生在里面（特定时间段）
-inside, indoors:inside，室内
+inside, indoors:在里面，在室内
 internally or inwardly:内部或内部
 within |wɪðˈɪn| Adverb/Preposition/:内,中,之内,在里面,在
 the spread of fire within the building:建筑物内的火势蔓延
-property located within the green belt:property位于绿化带内
+property located within the green belt:物业位于绿化带内
 we were within sight of the finish:我们在终点的视线范围内
 full cooperation within the terms of the treaty:在条约范围内全面合作
 he lives within a few miles of Oxford:他住在离牛津几英里的地方
 tickets were sold out within two hours:
 enquire within:查询范围内
-beauty coming from within:beauty发自内心
+beauty coming from within:由内而外的美丽
 
 the female ruler of an independent state, especially one who inherits the position by right of birth:独立国家的女性统治者，尤其是通过出生权继承位置的女性统治者
 a king's wife.:国王的妻子。
@@ -135,17 +135,16 @@ a reproductive female in a colony of social ants, bees, wasps, or termites, freq
 a gay man, especially one with an ostentatiously affected, flamboyant, or feminine manner.:一个男同性恋者，尤其是一个有张扬、浮夸或女性化的态度的人。
 an adult female cat that has not been spayed.:一只未绝育的成年母猫。
 behave in an unpleasantly superior way towards (someone):以令人不快的优越方式对待（某人）
-convert (a pawn) into a queen when it reaches the opponent's back rank on the board.:convert（棋子）在棋盘上达到对手的后排时变成皇后。
+convert (a pawn) into a queen when it reaches the opponent's back rank on the board.:当它到达对手在棋盘上的后排时，将（兵）转换为皇后。
 queen |kwiːn| Noun/Verb/:女王,王后,皇后乐队
 he insisted the princess could be crowned queen:他坚持公主可以加冕为王后
 the queen of the social columns:社交栏目女王
 she's the official carnival queen:她是官方嘉年华女王
-Monique was queening it over everybody:Monique把它压倒所有人
+Monique was queening it over everybody:莫尼克在每个人面前都争先恐后
 
 a cereal which is the most important kind grown in temperate countries, the grain of which is ground to make flour for bread, pasta, pastry, etc.:一种谷物，是温带国家最重要的一种谷物，其谷物被研磨制成面包、意大利面、糕点等的面粉。
 the grain of wheat.:麦粒。
 wheat |wiːt| Noun/:小麦,麦,马
-:
 
 an arithmetical value, expressed by a word, symbol, or figure, representing a particular quantity and used in counting and making calculations:一个算术值，用一个词、符号或图形表示，代表一个特定的数量，用于计数和计算
 a figure or group of figures used to identify someone or something:用于识别某人或某物的图形或一组图形
@@ -160,8 +159,8 @@ an item of clothing of a particular type, regarded with approval or admiration:�
 a grammatical classification of words that consists typically of singular and plural, and, in Greek and certain other languages, dual:一个词的语法分类，通常由单数和复数组成，在希腊语和某些其他语言中，双数
 amount to (a specified figure or quantity), comprise:金额（指定的数字或数量），包括
 mark with a number or assign a number to, typically to indicate position in a series:用数字标记或分配一个数字，通常表示系列中的位置
-count:count
-include or classify as a member of a group:include或归类为组的成员
+count:数数
+include or classify as a member of a group:包括或分类为组的成员
 number |ˈnʌmbə| Noun/Verb/:数字,总计,数,编号,号
 think of a number from one to ten and multiply it by three:想一个从一到十的数字，然后乘以三
 she picked up the phone and dialled his home number:她拿起电话拨了他家的号码
@@ -172,7 +171,7 @@ there were some distinguished names among our number:我们的号码中有一些
 the weight of numbers turned the battle against them:数字的重要性使他们的战斗转向了他们
 the October number of ‘Travel’:《旅行》十月号
 they go from one melodious number to another:他们从一个悦耳的数字转到另一个
-Yvonne was wearing a little black number:Yvonne身穿黑色小号
+Yvonne was wearing a little black number:Yvonne 身穿黑色小号
 the form of English pronouns reflects their number and gender:英语代词的形式反映了他们的数量和性别
 the demonstrators numbered more than 5,000:5000多名示威者
 each document was numbered consecutively:每份文件连续编号
@@ -228,7 +227,7 @@ she shunned the society of others:她回避他人的社会
 
 put a limit on; keep under control:设置限制；7
 deprive (someone or something) of freedom of movement or action:剥夺（某人或某物）行动或行动的自由
-limit someone to only doing or having (a particular thing) or staying in (a particular place):limit某人只做或拥有（特定的事情）或留在（特定的地方）
+limit someone to only doing or having (a particular thing) or staying in (a particular place):限制某人只能做或拥有（特定的事情）或停留在（特定的地方）
 limit something to (a particular place, time, or group):将某事限制在（特定地点、时间或群体）
 withhold (information) from general disclosure:withhold（信息）来自一般披露
 restrict |rɪˈstrɪkt| Verb/:严格,限制
@@ -271,12 +270,12 @@ the process or period of gathering in crops:收获作物的过程或时期
 the season's yield or crop:当季的产量或作物
 a quantity of animals caught or killed for human use:为人类使用而捕获或杀死的动物数量
 the product or result of an action:行动的产物或结果
-gather (a crop) as a harvest:gather（一种作物）作为收获
-catch or kill (animals) for human consumption:catchorkill(animals)供人类食用
-remove (cells, tissue, or an organ) from a person or animal for experiment or transplant.:remove（细胞、组织或器官）从人或动物身上取出用于实验或移植。
-collect or obtain (a resource) for future use:collect或获取（资源）以供将来使用
+gather (a crop) as a harvest:收割（作物）作为收获
+catch or kill (animals) for human consumption:捕捉或杀死（动物）供人类食用
+remove (cells, tissue, or an organ) from a person or animal for experiment or transplant.:从人或动物身上取出（细胞、组织或器官）进行实验或移植。
+collect or obtain (a resource) for future use:收集或获取（资源）以备将来使用
 harvest |ˈhɑːvɪst| Noun/Verb/:收成,收获,丰收
-farmers work longer hours during the harvest:farmers在收获期间工作的时间更长
+farmers work longer hours during the harvest:农民在收获期间工作时间更长
 a poor harvest:收成不好
 a limited harvest of wild mink:有限的野生水貂收获
 in terms of science, Apollo yielded a meagre harvest:在科学方面，阿波罗收获微薄
@@ -320,7 +319,7 @@ I asked the waiter for a clean fork and all I got was attitude:我向服务员�
 she snapped her fingers with attitude:她打了个响指
 
 an advertisement:一个广告
-Anno Domini (used to indicate that a date comes the specified number of years after the traditional date of Christ's birth).:AnnoDomini（用于表示日期是在传统的基督出生日期之后的指定年数）。
+Anno Domini (used to indicate that a date comes the specified number of years after the traditional date of Christ's birth).:Anno Domini（用来表示一个日期是在基督诞生的传统日期之后指定的年数）。
 AD |ad| Noun/Residual/:广告,公元
 the latest television lager ad:最新的电视啤酒广告
 
@@ -384,7 +383,7 @@ further, additional:进一步，附加
 a person or thing that is different or distinct from one already mentioned or known about:与已经提到或已知的人或事物不同或不同的人或事物
 the second one of two people or things:两个人或事物中的第二个
 the remaining ones, the rest:剩下的，剩下的
-a further or additional person or thing of the type aleady mentioned:a进一步或额外的人或事物类型的aleady提到
+a further or additional person or thing of the type aleady mentioned:已提及类型的进一步或额外的人或物
 used euphemistically to refer to sex:委婉地指性别
 that which is distinct from, different from, or opposite to something or oneself:与某物或自己不同、不同或相反的事物
 view or treat (a person or group of people) as intrinsically different from and alien to oneself:认为或对待（一个人或一群人）本质上与自己不同或陌生
@@ -395,7 +394,7 @@ they took the other three away in an ambulance:他们用救护车把另外三个
 one other word of advice:另一个忠告
 a language unrelated to any other:一种与任何其他语言无关的语言
 she flung up first one arm and then the other:她先举起一只手臂，然后举起另一只手
-Fred set off and the others followed:Fred出发了，其他人跟在后面
+Fred set off and the others followed:弗雷德出发，其他人跟在后面
 he is the author of five books and collaborated on three others:他是五本书的作者，并与其他三本书合作
 a bit of the other:一点其他
 she needs to escape the tyranny of the Other:她需要摆脱他者的暴政
@@ -410,5 +409,4 @@ other than | 以外,除了
 a passenger vehicle powered by electricity conveyed by overhead cables, and running on rails laid in a public road.:由架空电缆输送的电力驱动，在公共道路上铺设的轨道上行驶的客车。
 a low four-wheeled cart or barrow used in coal mines.:煤矿用的低矮四轮推车或手推车。
 tram |tram| Noun/:电车,有轨电车站
-:
 

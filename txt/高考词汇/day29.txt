@@ -36,11 +36,11 @@ prove oneself				展示自己
 
 carefully choose as being the best or most suitable:慎重选择是最好的还是最合适的
 (in terms of evolution) determine whether (a characteristic or organism) will survive:（就进化而言）确定（一个特征或有机体）是否会存活下来
-mark (an option or section of text) on an electronic interface for a particular operation:mark（选项或文本部分）在电子界面上用于特定操作
+mark (an option or section of text) on an electronic interface for a particular operation:在特定操作的电子界面上标记（选项或文本部分）
 (of a group of people or things) carefully chosen from a larger number as being the best or most valuable:（一组人或事物）从大量中精心挑选，认为是最好的或最有价值的
 (of a place or group of people) only used by or consisting of a wealthy or sophisticated elite, exclusive:（一个地方或一群人）仅由富有或成熟的精英使用或组成，独家
 select |sɪˈlɛkt| Adjective/Verb/:选择,精选的,挑选
-children must select their GCSE subjects:children必须选择他们的GCSE科目
+children must select their GCSE subjects:孩子们必须选择他们的 GCSE 科目
 the commonest phenotype in a population can be selected against:可以选择人群中最常见的表型
 click Tools on the menu bar and select Settings:单击菜单栏上的工具并选择设置
 he joined his select team of young Intelligence operatives:他加入了他精选的年轻情报人员团队
@@ -50,9 +50,9 @@ a loud rumbling or crashing noise heard after a lightning flash due to the expan
 a loud, deep resounding noise:一个响亮的、深沉的响亮的噪音
 used to refer to an angry facial expression or tone of voice:用于表示愤怒的面部表情或语气
 used to express emphasis, anger, or incredulity:用于表达强调、愤怒或怀疑
-thunder sounds:thunder的声音
+thunder sounds:雷声
 make a loud, deep resounding noise:发出响亮、深沉的响声
-strike powerfully:strike强大
+strike powerfully:有力打击
 speak loudly and forcefully or angrily, especially to denounce or criticize:大声、有力或愤怒地说话，尤指谴责或批评
 thunder |ˈθʌndə| Noun/Verb/:雷,雷声,打雷
 there was a crash of thunder:雷声大作
@@ -76,15 +76,15 @@ regularly or frequently behave in a particular way or have a certain characteris
 be liable to possess or display (a particular characteristic):易于拥有或展示（特定特征）
 go or move in a particular direction:go或朝特定方向移动
 (of a variable) approach a given quantity as a limit:(ofavariable)将给定数量作为极限
-care for or look after, give one's attention to:carefororcare,关注
-direct or manage, work in:directormanage,工作
+care for or look after, give one's attention to:Care for or look after，注意
+direct or manage, work in:直接或管理，工作于
 wait on as an attendant or servant:作为服务员或仆人等待
 tend |tɛnd| Verb/:,倾向于
 written language tends to be formal:书面语言趋于正式
-Walter tended towards corpulence:Walter倾向于肥胖
-fire is hot and tends upwards:fire很热并且趋于向上
+Walter tended towards corpulence:沃尔特倾向于肥胖
+fire is hot and tends upwards:火是热的并且趋于向上
 the orbit tends to infinity:轨道趋于无穷
-Varela tended plants on the roof:Varela在屋顶照料植物
+Varela tended plants on the roof:瓦雷拉照料屋顶上的植物
 I've been tending bar at the airport lounge:我一直在机场休息室打理酒吧
 the man that tended the carpenter:照料木匠的人
 
@@ -113,11 +113,11 @@ hey, you wanna smoke a bowl with us?:嘿，你想和我们一起抽一碗吗？
 the Hollywood Bowl:好莱坞露天剧场
 Pro Bowl:职业碗
 she snatched her hat off and bowled it ahead of her:她摘下帽子，在她面前打了个保龄球
-Lillee bowled another bouncer:Lillee击球另一个保镖
-Stewart was bowled for 33:Stewart获得33分
+Lillee bowled another bouncer:Lillee 击倒了另一个保镖
+Stewart was bowled for 33:斯图尔特被投出 33 分
 they bowled along the country roads:他们在乡间小路上打保龄球
 
-behave so as to make it appear that something is the case when in fact it is not:behave以使某些事情看起来确实如此，而实际上并非如此
+behave so as to make it appear that something is the case when in fact it is not:表现得好像事情是这样的，而实际上并非如此
 engage in an imaginative game or fantasy:参与富有想象力的游戏或幻想
 give the appearance of feeling or possessing (an emotion or quality), simulate:给予感觉或拥有（一种情感或品质）的外观，模拟
 lay claim to (a quality or title):lay声称（质量或头衔）
@@ -152,7 +152,7 @@ the hotel is situated just ten minutes from the centre of the resort:the酒店�
 come and sit down for a minute:过来坐一会儿
 she was laughing one minute and crying the next:她前一分钟笑，下一分钟哭
 I hadn't been to Manhattan in a minute:我一分钟都没去过曼哈顿
-Delta Lyrae is a double star with a separation of over 10 minutes of arc:DeltaLyrae是双星，相距超过10弧分
+Delta Lyrae is a double star with a separation of over 10 minutes of arc:Delta Lyrae 是双星，间隔超过 10 弧分
 
 the state of the atmosphere at a particular place and time as regards heat, cloudiness, dryness, sunshine, wind, rain, etc.:特定地点和时间的大气状态，如热、云、干燥、阳光、风、雨等。
 cold, wet, and unpleasant or unpredictable atmospheric conditions:寒冷、潮湿、令人不快或不可预测的大气条件
@@ -160,11 +160,11 @@ denoting the side from which the wind is blowing, especially on board a ship, wi
 wear away or change the appearance or texture of (something) by long exposure to the atmosphere:通过长时间暴露在大气中来磨损或改变（某物）的外观或质地
 (of rock or other material) be worn away or altered by long exposure to the atmosphere:（岩石或其他材料）因长期暴露在大气中而磨损或改变
 (of a ship) come safely through (a storm):（一艘船的）安全通过（风暴）
-withstand (a difficulty or danger):withstand（困难或危险）
+withstand (a difficulty or danger):经受（困难或危险）
 get to the windward of (a cape).:到达（海角）的迎风处。
-make (boards or tiles) overlap downwards to keep out rain.:make（木板或瓷砖）向下重叠以防雨。
+make (boards or tiles) overlap downwards to keep out rain.:使（板或瓦）向下重叠以防雨淋。
 (in building) slope or bevel (a surface) to throw off rain.:（在建筑物中）倾斜或斜面（表面）以防雨。
-allow (a hawk) to spend a period perched in the open air:allow（一只鹰）在露天栖息一段时间
+allow (a hawk) to spend a period perched in the open air:允许（一只鹰）在露天栖息一段时间
 weather |ˈwɛðə| Noun/Verb/:天气,平安渡过,气候
 if the weather's good we can go for a walk:如果天气好我们可以去散步
 stone walls provide shelter from wind and weather:石墙为风和天气提供庇护
@@ -172,7 +172,7 @@ the weather side of the yacht:游艇的天气一侧
 his skin was weathered almost black by his long outdoor life:他的皮肤因长期的户外生活而几乎变黑
 the ice sheet preserves specimens that would weather away more quickly in other regions:冰盖保存了在其他地区会更快风化的标本
 the sturdy boat had weathered the storm well:坚固的船很好地经受住了风暴
-this year has tested industry's ability to weather recession:this今年测试了行业抵御衰退的能力
+this year has tested industry's ability to weather recession:今年考验了行业抵御衰退的能力
 I would advise to weather her in her hood:我建议让她在她的兜帽里度过难关
 
 an idea or plan put forward for consideration:提出考虑的想法或计划
@@ -226,15 +226,15 @@ put down and set in position for use:放下并就位使用
 set cutlery, crockery, etc. on (a table) in preparation for a meal:将餐具、陶器等放在（桌子）上，准备用餐
 cover (a surface) with objects or a substance:用物体或物质覆盖（表面）
 put the material for (a fire) in place and arrange it:将（火）的材料放在适当的位置并安排好
-prepare (a trap) for someone:prepare（陷阱）给某人
-work out (an idea or suggestion) in detail ready for use or presentation:workout（一个想法或建议）详细准备使用或演示
-locate (an episode in a play, novel, etc.) in a particular place:locate（戏剧、小说等中的一集）在特定的地方
-stake (an amount of money) in a bet:stake（金额）下注
+prepare (a trap) for someone:为某人准备（陷阱）
+work out (an idea or suggestion) in detail ready for use or presentation:详细制定（想法或建议）以供使用或演示
+locate (an episode in a play, novel, etc.) in a particular place:找到（戏剧、小说等中的一集）在特定的地方
+stake (an amount of money) in a bet:赌注（一定数量的钱）
 used with an abstract noun so that the phrase formed has the same meaning as the verb related to the noun used, e.g. ‘lay the blame on’ means ‘to blame’:与抽象名词一起使用，以便形成的短语与所用名词相关的动词具有相同的含义，例如。“责备”是“责备”的意思
 (of a female bird, insect, reptile, or amphibian) produce (an egg) from inside the body:（雌鸟、昆虫、爬行动物或两栖动物的）从体内产生（一个蛋）
 have sex with.:与发生性关系。
-follow (a specified course):follow（指定课程）
-trim (a hedge) back, cutting the branches half through, bending them down, and interweaving them:trim（树篱）向后，将树枝剪掉一半，将它们弯下来，然后将它们交织在一起
+follow (a specified course):遵循（特定的课程）
+trim (a hedge) back, cutting the branches half through, bending them down, and interweaving them:修剪（树篱），将树枝剪成一半，向下弯曲，然后将它们交织在一起
 the general appearance of an area of land:一块土地的大致外观
 the position or direction in which something lies:某物所在的位置或方向
 the direction or amount of twist in rope strands.:绳股的捻向或捻度。
@@ -255,8 +255,8 @@ he was making newspaper knots before laying a fire in the fireplace:他在壁炉
 she wouldn't put it past him to lay a trap for her:她不会放过他给她设下圈套
 I'd like more time to lay my plans:我想要更多的时间来制定我的计划
 no one who knew the area could be in doubt where the scene was laid:知道该地区的人不会怀疑现场的位置
-she suspected he was pulling her leg, but she wouldn't have laid money on it:she怀疑他在拉她的腿，但她不会在上面花钱
-she laid great stress on little courtesies:she非常注重小礼节
+she suspected he was pulling her leg, but she wouldn't have laid money on it:她怀疑他在拉她的腿，但她不会在上面花钱
+she laid great stress on little courtesies:她非常注重小礼节
 flamingos lay only one egg:flamingos只下一个蛋
 I'm going to lay a course for Ibiza harbour:我要为伊维萨港铺设路线
 most hedges are no longer laid:大多数树篱不再铺设
@@ -275,11 +275,11 @@ the front part of the body between the chest and thighs, the belly:胸部和大�
 the stomach viewed as the seat of hunger, nausea, anxiety, or other unsettling feelings:胃被视为饥饿、恶心、焦虑或其他不安情绪的根源
 an appetite for food or drink:对食物或饮料的胃口
 a desire or inclination for something involving conflict or difficulty:对涉及冲突或困难的事物的渴望或倾向
-consume (food or drink) without feeling or being sick:consume(食物或饮料)没有感觉或生病
-endure or accept (an obnoxious thing or person):endure或accept（令人讨厌的事情或人）
+consume (food or drink) without feeling or being sick:吃（食物或饮料）而没有感觉或生病
+endure or accept (an obnoxious thing or person):忍受或接受（讨厌的事或人）
 stomach |ˈstʌmək| Noun/Verb/:胃,忍受,肚子
-Blake hit him in the stomach:Blake打他的肚子
-Virginia had a sick feeling in her stomach:Virginia胃里有一种恶心的感觉
+Blake hit him in the stomach:布莱克打了他的肚子
+Virginia had a sick feeling in her stomach:弗吉尼亚胃里有一种恶心的感觉
 she doesn't have the stomach to eat anything:她没有胃吃任何东西
 the teams proved to have no stomach for a fight:事实证明，球队没有战斗的胃口
 if you cannot stomach orange juice, try apple juice:如果你不能吃橙汁，试试苹果汁
@@ -293,7 +293,7 @@ have a detrimental effect on:有不利影响
 damage |ˈdamɪdʒ| Noun/Verb/:损害,破坏,损伤,损坏,伤害
 bombing caused extensive damage to the town:bombing对城镇造成大面积破坏
 the damage to his reputation was considerable:对他的名誉的损害是相当大的
-she was awarded $284,000 in damages:she获得284,000美元的赔偿金
+she was awarded $284,000 in damages:她获得了 284,000 美元的赔偿金
 the car was badly damaged in the accident:这辆车在事故中严重受损
 the scandal could seriously damage his career:丑闻可能会严重损害他的职业生涯
 
@@ -305,8 +305,8 @@ damages | 损害赔偿,损坏
 
 expel air from the lungs with a sudden sharp sound:用突然的尖锐声音从肺部排出空气
 (of an engine) make a sudden harsh noise, especially as a sign of malfunction:（发动机的）突然发出刺耳的噪音，尤其是故障的迹象
-force (something, especially blood) out of the lungs or throat by coughing:force（某物，尤其是血液）通过咳嗽排出肺部或喉咙
-reveal information, confess:reveal信息，坦白
+force (something, especially blood) out of the lungs or throat by coughing:通过咳嗽将（某物，尤其是血液）挤出肺部或喉咙
+reveal information, confess:透露信息，坦白
 an act or sound of coughing:咳嗽的动作或声音
 a condition of the respiratory organs causing coughing:引起咳嗽的呼吸器官状况
 cough |kɒf| Noun/Verb/:咳嗽,咳
@@ -318,13 +318,13 @@ she gave a discreet cough:她小心地咳嗽了一声
 he looked feverish and had a bad cough:他看起来很发烧，咳嗽得很厉害
 
 move (something) into position so as to block an opening, close:将（某物）移动到适当位置以阻止开口，关闭
-move or be able to be moved so as to block an opening:move或能够被移动以阻塞开口
+move or be able to be moved so as to block an opening:移动或能够移动以堵塞开口
 block an opening into (something) by moving something into position:通过将某物移动到位来阻止进入（某物）的开口
 prevent access to or along:阻止进入或沿着
 fold or bring together the sides of (something) so as to close it:折叠或将（某物）的侧面合在一起以将其关闭
 keep in a place by closing something such as a door:通过关闭诸如门之类的东西留在一个地方
-make (something) unavailable for business or service, either permanently or until due to be open again:make（某事）无法用于业务或服务，永久或直到再次开放
-become unavailable for business or service, either permanently or until due to be open again:become无法进行业务或服务，无论是永久还是直到再次开放
+make (something) unavailable for business or service, either permanently or until due to be open again:使（某物）无法用于业务或服务，永久或直到再次开放
+become unavailable for business or service, either permanently or until due to be open again:永久或直到再次开放之前无法进行业务或服务
 shut |ʃʌt| Verb/:关闭,关,闭嘴
 shut the window, please:请关窗
 the door shut behind him:门在他身后关上
@@ -369,7 +369,7 @@ an excessively theatrical actor:一个过分戏剧化的演员
 excessively theatrical acting.:过度的戏剧表演。
 an amateur radio operator.:一个业余无线电操作员。
 overact:过度
-(in the Bible) a son of Noah (Gen. 10:1), traditional ancestor of the Hamites.:（在圣经中）挪亚的儿子（创世记10
+(in the Bible) a son of Noah (Gen. 10:（在圣经中）挪亚的儿子（创世记 10
 ham |ham| Noun/Verb/:火腿,火腿肠
 thin slices of ham:薄片火腿
 he squatted down on his hams:他蹲在他的腿上
@@ -395,13 +395,13 @@ a time considered to be the worst point within a bad period:一个被认为是�
 a time when one's negative feelings are at their most intense:负面情绪最强烈的时候
 a remote and inaccessible place:一个偏远且人迹罕至的地方
 depth |dɛpθ| Noun/:深度,在
-water of no more than 12 feet in depth:water深度不超过12英尺
+water of no more than 12 feet in depth:水深不超过 12 英尺
 the depth of the wardrobe:衣柜的深度
 texture in a picture gives it depth:图片中的纹理赋予它深度
 he was surprised by the depth of Eloise's vindictiveness:他对埃洛伊丝的报复心之深感到惊讶
 the book has unexpected depth:这本书有意想不到的深度
 third-year courses typically go into more depth:三年级课程通常会更深入
-strong lighting will accentuate the depth of colour:strong灯光将突出颜色的深度
+strong lighting will accentuate the depth of colour:强烈的灯光会突出颜色的深度
 he lifted the manhole cover and peered into the depths beneath:他掀开井盖，凝视着下面的深处
 4 a.m. in the depths of winter:4a.m.深冬
 she was in the depths of despair:她陷入了绝望的深渊
@@ -432,7 +432,7 @@ take precautions against:采取预防措施
 a person who keeps watch, especially a soldier or other person assigned to protect a person or to control access to a place:看守的人，尤其是士兵或其他被指派保护人员或控制进入某个地方的人员
 a body of soldiers serving to protect a place or person:一群为保护一个地方或一个人而服务的士兵
 the household troops of the British army.:英国军队的家庭部队。
-a member of the Irish police force, a Garda:一名爱尔兰警察部队成员，一名Garda
+a member of the Irish police force, a Garda:爱尔兰警察部队的一名成员，一名 Garda
 a prison warder.:监狱看守。
 a device worn or fitted to prevent injury or damage:a为防止受伤或损坏而佩戴或安装的设备
 a defensive posture that is adopted in a boxing or martial arts contest or in a fight:拳击或武术比赛或战斗中采用的防御姿势
@@ -445,12 +445,12 @@ two men were left to guard the stockade:留下两个人看守寨子
 his task was to help guard Japanese prisoners:他的任务是帮助看守日本囚犯
 when a player is so closely guarded he cannot pass the ball:当一名球员被严密防守时，他无法传球
 the company fiercely guarded its independence:公司严守独立
-farmers must guard against sudden changes in the market:farmers谨防市场突变
+farmers must guard against sudden changes in the market:农户需谨防市场突变
 a security guard:一名保安
 he's the captain of the palace guard:他是宫廷守卫队长
-There's bends all the way from Portlaoise to Carlow. The responsibility for speeding traffic rests with the guards:从Portlaoise到Carlow一路有弯道。
+There's bends all the way from Portlaoise to Carlow. The responsibility for speeding traffic rests with the guards:从 Portlaoise 到 Carlow 一路都有弯道。超速交通的责任在于警卫
 a retractable blade guard:a可伸缩刀片防护罩
-before Seb could raise his guard Boz swung a wild punch:在Seb可以举起他的后卫之前Boz挥出一拳
+before Seb could raise his guard Boz swung a wild punch:在 Seb 可以提高警惕之前，Boz 挥出一拳
 he let his guard slip enough to make some unwise comments:他让他的警惕滑到足以发表一些不明智的评论
 
 a US cartoon, TV, and film character having great strength, the ability to fly, and other extraordinary powers.:一个美国卡通、电视和电影角色，拥有强大的力量、飞行能力和其他非凡的力量。
@@ -464,22 +464,22 @@ a person skilled at a particular task or occupation:擅长特定任务或职业�
 a person who habitually practises a specified reprehensible activity:习惯性从事特定应受谴责活动的人
 artist |ˈɑːtɪst| Noun/:艺术家,艺人
 a surgeon who is an artist with the scalpel:一位外科医生，他是一位拿着手术刀的艺术家
-rip-off artists:rip-off艺术家
+rip-off artists:敲竹杠的艺术家
 
 demonstrate the truth or existence of (something) by evidence or argument:通过证据或论据证明（某物）的真实性或存在
 establish the genuineness and validity of (a will).:确定（遗嘱）的真实性和有效性。
 demonstrate to be the specified thing by evidence or argument:以证据或论据证明为特定事物
 be seen or found to be:被看见或被发现
 demonstrate one's abilities or courage:展示自己的能力或勇气
-test the accuracy of (a mathematical calculation).:test（数学计算）的准确性。
+test the accuracy of (a mathematical calculation).:测试（数学计算）的准确性。
 (of bread dough) become aerated by the action of yeast, rise.:（面包面团）在酵母的作用下充气，上升。
 subject (a gun) to a testing process:subject（一把枪）到一个测试过程
 prove |ˈpruːv(ə)n| Verb/:证明,证明是,论证
 the concept is difficult to prove:这个概念很难证明
 if they are proved guilty we won't trade with them:如果他们被证明有罪，我们不会与他们交易
 the scheme has proved a great success:该计划取得了巨大的成功
-she displayed an ingenuousness which sprung from a yearning need to prove herself:she展现了一种天真的天真，这种天真源于渴望证明自己
-firearms proved for black powder should not be used with smokeless ammunition:firearms已证明黑色火药不应与无烟弹药一起使用
+she displayed an ingenuousness which sprung from a yearning need to prove herself:她展现了一种天真的天真，这种天真源于渴望证明自己
+firearms proved for black powder should not be used with smokeless ammunition:证明使用黑火药的枪支不应与无烟弹药一起使用
 
 prove oneself | 证明自己,自我证明
 

@@ -86,15 +86,15 @@ I've adulted with moderate success this week by compiling invoices and billing m
 
 fail to hit, reach, or come into contact with (something aimed at):未能击中、触及或接触（目标）
 pass by without touching, chance not to hit:路过不碰，有机会不打
-fail to catch (something thrown or dropped):failtocatch（抛出或掉落的东西）
+fail to catch (something thrown or dropped):未能接住（抛出或掉落的东西）
 fail to notice, hear, or understand:未能注意到、听到或理解
 fail to attend, participate in, or watch:未能出席、参与或观看
 be too late to catch (a passenger vehicle or the post):赶不上（客车或邮筒）
-fail to see or have a meeting with (someone):failtoseeorhaveameetingwith(someone)
+fail to see or have a meeting with (someone):未能见到（某人）或与（某人）会面
 not be able to experience or fail to take advantage of (an opportunity or chance):无法体验或未能利用（机会或机会）
 avoid, escape:避免，逃跑
 (of a woman) fail to have (a monthly period):(女人的)没有(每月一次)
-notice the loss or absence of:notice遗失或缺席
+notice the loss or absence of:注意丢失或缺失
 feel regret or sadness at no longer being able to enjoy the presence of:感到遗憾或悲伤，因为不再能够享受
 feel regret or sadness at no longer being able to go to, do, or have:对不再能够去、做或拥有感到遗憾或悲伤
 (of an engine or motor vehicle) undergo failure of ignition in one or more cylinders:（发动机或机动车辆）一个或多个气缸点火失败
@@ -109,7 +109,7 @@ a miscarriage:流产
 miss |mɪs| Noun/Verb/:错过,小姐,想念,错过了
 a laser-guided bomb had missed its target:a激光制导炸弹未命中目标
 the plane narrowly missed the control tower:飞机险些错过了控制塔
-Mandy missed the catch, and flung the ball back crossly:Mandy接球失误，将球传回
+Mandy missed the catch, and flung the ball back crossly:Mandy 接球失误，将球横传回去
 the villa is impossible to miss—it's right by the road:别墅不容错过——就在路边
 he looks certain to miss England's match against Fiji:他看起来肯定会错过英格兰对阵斐济的比赛
 we'll miss the train if he doesn't hurry:如果他不快点，我们会错过火车的
@@ -126,7 +126,7 @@ it is the public who decide whether a film is a hit or a miss:是大众决定一
 Miss Hazel Armstrong:黑兹尔·阿姆斯特朗小姐
 Miss World:世界小姐
 ‘Where will you be staying in England, miss?’ asked the Immigration man:“小姐，你将在英格兰住在哪里？”移民男子问道
-please, Miss, can I be excused hockey?:please，小姐，我可以原谅曲棍球吗？
+please, Miss, can I be excused hockey?:拜托，小姐，我可以打曲棍球吗？
 there was none of the country bumpkin about this young miss:这个年轻的小姐没有一个乡巴佬
 she had a miss, that time, lost the baby:她有一个想念，那个时候，失去了孩子
 
@@ -145,7 +145,7 @@ disagree |ˌdɪsəˈɡriː| Verb/:,反对
 no one was willing to disagree with him:没有人愿意反对他
 she disagreed with the system of apartheid:她不同意种族隔离制度
 the results disagree with the findings reported so far:结果与目前报告的结果不一致
-the sea crossing disagreed with her:theseacross不同意她的意见
+the sea crossing disagreed with her:渡海不同意她
 
 walk or run with leaping strides:walk或大步奔跑
 (of an object) rebound from a surface:（物体的）从表面反弹
@@ -155,11 +155,11 @@ a limitation or restriction on feeling or action:对感觉或行动的限制或�
 a limiting value:一个极限值
 form the boundary of, enclose:形成边界，包围
 place within certain limits, restrict:置于一定范围内，限制
-going or ready to go towards a specified place:going或准备前往指定地点
-destined or very likely to have a specified experience:destined或很有可能有特定的经历
+going or ready to go towards a specified place:前往或准备前往指定地点
+destined or very likely to have a specified experience:注定或很可能有特定的经历
 bound |baʊnd| Adjective/Noun/Verb/:边界,约束,密切相关的,界,绑定
-Louis came bounding down the stairs:Louis跳下楼梯
-bullets bounded off the veranda:bullets跳出阳台
+Louis came bounding down the stairs:路易斯跳下楼梯
+bullets bounded off the veranda:子弹飞出阳台
 I went up the steps in two effortless bounds:我不费吹灰之力就上了台阶
 the ancient bounds of the forest:森林的古老边界
 it is not beyond the bounds of possibility that the issue could arise again:问题再次出现的可能性不大
@@ -184,7 +184,7 @@ a public toilet:公共厕所
 convenience |kənˈviːnɪəns| Noun/:方便,便利,便利性
 services should be run to suit the convenience of customers, not of staff:services的运行应满足客户的便利，而不是员工的便利
 the success of the food halls in large stores is due to their convenience:大型商店食堂的成功是因为它们的便利
-voicemail was seen as one of the desktop conveniences of the electronic office:voicemail被视为电子办公室的桌面便利之一
+voicemail was seen as one of the desktop conveniences of the electronic office:语音信箱被视为电子办公室的桌面便利之一
 the large council car park next to the public conveniences:公共便利设施旁的大型议会停车场
 
 what or which person or people:什么或哪个人或人
@@ -192,7 +192,7 @@ used to introduce a clause giving further information about a person or people p
 the person that, whoever:那个人，谁
 who |huː| Pronoun/Residual/:谁,WHO,是谁
 who is that woman?:那个女人是谁？
-Joan Fontaine plays the mouse who married the playboy:JoanFontaine扮演嫁给花花公子的老鼠
+Joan Fontaine plays the mouse who married the playboy:琼·芳登饰演嫁给花花公子的老鼠
 who holds the sea, perforce doth hold the land:谁拥有海，谁就拥有陆地
 
 each of the two upper limbs of the human body from the shoulder to the hand:人体从肩到手的两个上肢各一个
@@ -207,7 +207,7 @@ a narrow strip of water or land projecting from a larger body:从一个较大的
 a branch or division of a company or organization:公司或组织的分支机构或部门
 each of the types of troops of which an army is composed, such as infantry or artillery.:组成军队的每一种部队，例如步兵或炮兵。
 each of the lines enclosing an angle.:每条线包围一个角度。
-supply or provide with weapons:supply或提供武器
+supply or provide with weapons:供应或提供武器
 supply or provide with equipment, tools, or other items in preparation or readiness for something:supply或提供设备、工具或其他物品，为某事做准备或准备
 activate the fuse of (a bomb, missile, or other explosive device) so that it is ready to explode:激活（炸弹、导弹或其他爆炸装置）的引信，使其准备好爆炸
 arm |ɑːm| Noun/Verb/:手臂,武装,臂,胳膊
@@ -215,7 +215,7 @@ she held the baby in her arms:她把孩子抱在怀里
 he has a good arm:他的手臂很好
 as they walked he offered her his arm:当他们走的时候，他向她伸出了手臂
 they have extended the arm of friendship to developing countries:他们向发展中国家伸出了友谊之臂
-cables will secure the boom to steel arms installed near the top of the tower:cables将吊杆固定到安装在塔顶附近的钢臂上
+cables will secure the boom to steel arms installed near the top of the tower:电缆将吊杆固定到安装在塔顶附近的钢臂上
 he draped his legs over the arm of the sofa:他把双腿搭在沙发扶手上
 the whole place is divided into two equal parts by an arm of the sea:整个地方被大海的手臂一分为二
 the political arm of the separatist group:分离主义团体的政治分支
@@ -242,7 +242,7 @@ having a two-lobed shape resembling the spread wings of a butterfly:具有类似
 a showy or frivolous person:艳丽或轻浮的人
 a fluttering and nauseous sensation felt in the stomach when one is nervous.:当一个人紧张时，胃里会感到颤抖和恶心的感觉。
 a stroke in swimming in which both arms are raised out of the water and lifted forwards together.:游泳中的划水，双臂从水中抬起并一起向前抬起。
-split (a piece of meat or fish) almost in two and spread it out flat:split（一块肉或鱼）几乎一分为二，摊平
+split (a piece of meat or fish) almost in two and spread it out flat:将（一块肉或鱼）几乎分成两半并摊平
 butterfly |ˈbʌtəflʌɪ| Noun/Verb/:蝴蝶,蝶
 a butterfly clip:蝴蝶夹
 a social butterfly:a社交蝴蝶
@@ -256,7 +256,7 @@ a person or thing regarded as likely to turn out well or badly in a particular c
 the possibility of financial loss:经济损失的可能性
 expose (someone or something valued) to danger, harm, or loss:暴露（某人或某物）面临危险、伤害或损失
 act in such a way as to bring about the possibility of (an unpleasant or unwelcome event):行为可能导致（不愉快或不受欢迎的事件）
-incur the chance of unfortunate consequences by engaging in (an action):incur通过参与（行动）导致不幸后果的机会
+incur the chance of unfortunate consequences by engaging in (an action):通过参与（行动）招致不幸后果的机会
 risk |rɪsk| Noun/Verb/:风险,冒险,危险
 flouting the law was too much of a risk:无视法律风险太大
 reduce the risk of heart disease:降低患心脏病的风险
@@ -266,7 +266,7 @@ Western banks regarded Romania as a good risk:Western银行认为罗马尼亚是
 the Bank is rigorous when it comes to analysing and evaluating risk:the银行在分析和评估风险方面非常严谨
 he risked his life to save his dog:他冒着生命危险救了他的狗
 coal producers must sharpen up or risk losing half their business:煤炭生产商必须提高效率，否则将面临失去一半业务的风险
-Shelley was far too intelligent to risk attempting to deceive him:Shelley太聪明了，不会冒险去欺骗他
+Shelley was far too intelligent to risk attempting to deceive him:雪莱太聪明了，不敢冒险欺骗他
 
 risk it | 冒险,冒着风险
 
@@ -296,18 +296,18 @@ a bottle fitted with a teat for giving milk or other drinks to babies and very y
 a large metal cylinder holding liquefied gas.:一个装有液化气的大金属圆筒。
 the courage or confidence needed to do something difficult or dangerous:做困难或危险的事情所需的勇气或信心
 place (drinks or other liquid) in bottles:将（饮料或其他液体）装入瓶中
-preserve (fruit or vegetables) by placing them in glass jars with other ingredients:preserve（水果或蔬菜），将它们与其他成分一起放入玻璃罐中
+preserve (fruit or vegetables) by placing them in glass jars with other ingredients:将（水果或蔬菜）与其他配料一起放入玻璃罐中保存
 store (gas) in containers under pressure:store（气体）在压力下的容器中
 throw a glass bottle at (someone):向（某人）扔一个玻璃瓶
 lose one's nerve and decide not to do (something):失去勇气决定不做（某事）
 bottle |ˈbɒtl| Noun/Verb/:,装瓶,瓶
 he opened the bottle of beer:他打开啤酒瓶
 she managed to get through a bottle of wine:她设法喝完了一瓶酒
-more women are taking to the bottle:more女性正在使用瓶子
+more women are taking to the bottle:越来越多的女性开始吸毒
 I lost my bottle completely and ran:我完全丢了瓶子跑了
 the wine was bottled in 1997:1997年装瓶
-Angela bottled fruit and jam and chutneys:Angela瓶装水果和果酱和酸辣酱
-the company is run from premises on Tennyson Street, where the gas is bottled and distributed:the公司在TennysonStreet的场所经营，气体在那里装瓶和分发
+Angela bottled fruit and jam and chutneys:安吉拉瓶装水果、果酱和酸辣酱
+the company is run from premises on Tennyson Street, where the gas is bottled and distributed:该公司在 Tennyson Street 的办公场所运营，天然气在这里进行瓶装和配送
 he was bottled offstage at a club:他在俱乐部的台下被灌瓶
 the leader had completely bottled his confrontation with them:领导者已经完全抑制了与他们的对抗
 
@@ -357,7 +357,7 @@ a game played on a small billiard table using two sets of seven coloured and num
 a group of contestants who compete against each other in a tournament for the right to advance to the next round:一组参赛者在一场比赛中相互竞争以获得晋级下一轮的权利
 an arrangement, illegal in many countries, between competing parties to fix prices or rates and share business in order to eliminate competition:一种安排，在许多国家/地区是非法的，竞争方之间固定价格或费率并共享业务以消除竞争
 (of two or more people or organizations) put (money or other assets) into a common fund:（两个或两个以上的人或组织）将（金钱或其他资产）投入共同基金
-share (resources or information) for the benefit of all involved:share（资源或信息）为所有相关人员的利益
+share (resources or information) for the benefit of all involved:为所有参与者的利益共享（资源或信息）
 pool |puːl| Noun/Verb/:水池,集中,游泳池,池子
 a pool of blood:血泊
 I spent all my time lounging around the pool:我整天都在游泳池边闲逛
@@ -366,7 +366,7 @@ sweat pooled in the hollow of my back:汗水积聚在我的后背
 a car pool:a拼车
 the typing pool:打字池
 big public investment pools:big公共投资池
-dividends are calculated by dividing the net pool by the stakes on the winners:dividends的计算方法是将净池除以获胜者的赌注
+dividends are calculated by dividing the net pool by the stakes on the winners:股息的计算方法是将净池除以获胜者的赌注
 a small win on the pools:泳池小胜
 the sides in Pool A:A池边
 they entered a contract to pool any gains and invest them profitably:他们签订了一项合同，以汇集任何收益并进行有利可图的投资
@@ -389,7 +389,7 @@ used in expressions of surprise or fear:用于表示惊讶或恐惧
 mercy |ˈməːsi| Interjection/Noun/:怜悯,慈悲,仁慈
 the boy was screaming and begging for mercy:那个男孩尖叫着求饶
 his death was in a way a mercy:他的死在某种程度上是一种仁慈
-mercy missions to refugees caught up in the fighting:mercy向陷入战斗的难民执行任务
+mercy missions to refugees caught up in the fighting:向卷入战火的难民施行慈悲行动
 ‘Mercy me!’ uttered Mrs Diggory:“怜悯我！”迪戈里夫人说
 
 an opportunity to view something before it is acquired or becomes generally available:在某物被收购或普遍可用之前查看它的机会
@@ -397,9 +397,9 @@ a showing of a film, exhibition, etc. before its official opening:电影、展�
 a trailer for a film:电影预告片
 a publicity article or review of a forthcoming film, book, etc., based on an advance viewing:一篇宣传文章或对即将上映的电影、书籍等的评论，基于提前观看
 a facility for inspecting the appearance of a document before it is printed.:在打印之前检查文档外观的设施。
-display (a product, film, etc.) before it is made generally available:display（产品、胶片等）在普遍可用之前
+display (a product, film, etc.) before it is made generally available:展示（产品、电影等）在普遍可用之前
 see or inspect (something) before it is used or becomes generally available:在使用或普遍可用之前查看或检查（某物）
-comment on (a forthcoming event):commenton（即将举行的活动）
+comment on (a forthcoming event):评论（即将发生的事件）
 preview |ˈpriːvjuː| Noun/Verb/:,预览,预告
 I have photos of the goods if anyone would like a preview:如果有人想要预览，我有货物的照片
 there was a small reception after the preview:预览后有个小招待会
@@ -443,7 +443,7 @@ final examinations:期末考试
 a group gambling together:一群人一起赌博
 a group of people drinking together in a bar and taking turns to buy the drinks:一群人在酒吧喝酒，轮流买酒
 send to school, educate:送上学，教育
-train or discipline (someone) in a particular skill or activity:train或纪律（某人）在特定技能或活动中
+train or discipline (someone) in a particular skill or activity:在特定技能或活动中训练或管教（某人）
 train (a horse) on the flat or over fences:train（一匹马）在平地上或围栏上
 (of a Xhosa) educated and westernized:（科萨人）受过教育和西化
 (of a name) of Western origin:(名字的)西方血统
@@ -453,7 +453,7 @@ school |skuːl| Adjective/Noun/Verb/:学校,训练,學校,学院,校
 Ryder's children did not go to school at all:Ryder的孩子根本没去上学
 the cost of building a new school:建一所新学校的成本
 the head addressed the whole school:校长向全校致辞
-school started at 7 a.m:school早上7点开始
+school started at 7 a.m:早上7点开学
 a dancing school:a舞蹈学校
 Harvard is certainly not a loafer's school:哈佛当然不是游手好闲的学校
 the School of Medicine:医学院
@@ -462,13 +462,13 @@ film-makers are tired of the skin-deep school of cinema:电影制作人厌倦了
 I never took schools. I was ill:我从未上过学。我病了
 a poker school:a扑克学校
 I ordered a pint of bitter for myself—I didn't want to get into a school:我为自己点了一品脱苦酒——我不想上学
-Taverier was born in Paris and schooled in Lyon:Taverier出生于巴黎，在里昂接受教育
+Taverier was born in Paris and schooled in Lyon:Taverier 出生于巴黎，在里昂接受教育
 he schooled her in horsemanship:他教她骑马
 if you have schooled your horse properly, your riding will look better:如果你训练好你的马，你的骑术会更好看
-economic considerations persuaded many Xhosa not to become school by opting for a Western lifestyle:economic考虑说服许多科萨人不去上学，选择西方生活方式
+economic considerations persuaded many Xhosa not to become school by opting for a Western lifestyle:出于经济考虑，许多科萨人选择了西方生活方式而没有上学
 it embarrasses me to be called by the school name I was given at church:它让我很尴尬地被叫到我在教堂里得到的学校名字
 a school of dolphins:海豚学校
-grey snapper schooled in shallow lagoons:greysnapper在浅泻湖中学习
+grey snapper schooled in shallow lagoons:在浅泻湖中训练的灰鲷
 
 school oneself | 自己上学,学校自己
 

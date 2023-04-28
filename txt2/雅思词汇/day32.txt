@@ -1,0 +1,797 @@
+logic					逻辑学，理由
+singular					单数形式，单数的，非凡的
+hell						地狱，磨难，非常
+practical						实际的，切实可行的
+shuttle					往返运行，往返两地的运输工具
+offset				抵消
+destiny				命运
+disorder				混乱，失调
+denial				否认，脱离关系
+spin							快速转动，纺，编造
+onset				开始
+native						出生的，当地的，本地人
+overwrought			过分紧张的，过于细腻的
+roast							烤，猛烈抨击
+survey				调查，测绘，概述
+profile			侧面，形象，轮廓，概述
+offspring			子女
+practicable		可行的，适用的
+discharge						解雇，流出，履行，出院
+chorus						合唱队，齐声说
+statute			成文法，章程
+latitude			纬度，自由
+rot								腐烂，恶化
+phase				阶段
+ruffle			弄乱，快速翻动，竖起，扰乱，使生气
+diverse						多种多样的
+wicked			烛芯，灯芯，火芯
+omit				删除，疏忽
+diploma						毕业文凭
+crack			裂缝，漏洞，噼啪声，猛击，尝试，裂开
+\\\\\\\\
+
+n. 1 [U]（某类人或某个活动领域特有的）思维方式；解释方法；逻辑:
+2 [U, sing.] 道理，逻辑性或合理性:
+n. [U] [计算机] 逻辑系统；操作规则:
+n. [U] [哲学] 逻辑学:
+logic |[ˈlɒdʒɪk;美ˈlɑ:dʒɪk]
+The two parts of the plan were governed by the same logic. 计划的两个部分均受到了同一思维方式的制约。
+compelling, impeccable, inexorable logic 令人信服的推理；无懈可击的逻辑推理；无法改变的推理 
+faulty, flawed logic 错误的逻辑推理 
+In their faulty logic, this is a great injustice. 按照他们的错误逻辑，这是严重的不公正。
+perverse, strange, twisted logic 荒谬的逻辑；奇怪的逻辑；反常的逻辑 
+This is clearly a case of circular logic. 这显然是循环推理。
+The plan had a simple logic to it. 该计划包含着简单的逻辑。
+He understood the basic logic of deterrence. 他理解威慑的基本逻辑。
+inherent, inner, internal, underlying logic 内在的逻辑 
+The music has its own inner logic. 这音乐有其内在的逻辑。
+business, commercial, economic, political, scientific logic 经营逻辑；商业逻辑；经济逻辑；政治逻辑；科学逻辑 
+It's a stupid decision that completely defies logic. 这个决定很愚蠢，完全违背了逻辑。
+You can't use the same logic in dealing with children. 对孩子你不能用同样的逻辑。
+They questioned the logic underlying his actions. 他们质疑他行为背后的逻辑。
+What's the logic behind this decision? 这一决定背后的逻辑是什么? 
+There doesn't seem to be any logic in the move. 这一行动似乎毫无道理。
+The logic of this argument is very obscure. 这一论据的逻辑很费解。
+Linking the proposals in a single package did have a certain logic. 把这些提议联系起来成为一揽子提议确有一定的道理。
+There is no logic to/in any of their claims. 他们的任何索赔都不具正当的理由。
+I don't follow the logic of your argument. 我不明白你的论点逻辑性何在。
+There would be no logic in upsetting the agreements. 把协议推翻在逻辑上站不住脚。
+formal logic 形式逻辑 
+mathematical logic 数理逻辑 
+deductive, inductive logic 演绎逻辑；归纳逻辑 
+fuzzy 模糊逻辑 
+Philosophers use logic to prove their arguments. 哲学家用逻辑推理来证明他们的论点。
+the rules of logic 逻辑学规则
+
+The singular of a noun is the form of it that is used to refer to one person or thing. (名词的) 单数形式
+The singular form of a word is the form that is used when referring to one person or thing. (名词) 单数的
+singular |英 ['sɪŋgjʊlə]  美 ['sɪŋɡjəlɚ]| adj. 单数的；单一的；非凡的；异常的/n. 单数/
+The inhabitants of the Arctic are known as the Inuit. The singular is Inuk.北极居民被称作，其单数形式是。
+...the fifteen case endings of the singular form of the Finnish noun.…芬兰语名词单数形式的15种格结尾。
+
+
+n. [U] 用于表达一种生气、惊讶或强调的语气，是一种骂人的话，如该死、见鬼。有人认为含冒犯意:
+n. [U, sing.] 地狱般悲惨的境况或苦难的经历:
+‘We're living in hell,’ said one of the refugees. 一位难民说:
+n. [sing.]（通常用Hell）（不与a或the连用）地狱:
+hell |[hel]
+Oh hell, I've burned the pan. 真该死，我把锅烧煳了。
+What the hell do you think you are doing? 你到底知不知道自己在干什么？
+Go to hell! 去死吧！
+I can't really afford it, but, what the hell (= it doesn't matter), I'll get it anyway. 实在说我是买不起，但管它呢，无论如何我买定了。
+He's as guilty as hell. 他罪孽深重。
+‘Do you understand?’ ‘Hell, no. I don't.’（美） “你懂了吗？”“懂个鬼。我根本不懂。” 
+'Hell, no!' the doctor snapped. “绝对不行！”医生厉声道。
+He went through hell during the trial. 审讯期间他吃尽了苦头。
+the hell of the Siberian labor camps 地狱般的西伯利亚劳改营 
+The last few weeks have been a living hell for the refugees. 过去的几周对难民们来说真是活地狱。
+Bullies can make your life hell. 恃强欺弱者能让你的日子像活地狱。
+The last three months have been hell. 过去的三个月真受罪。
+For someone who doesn't like heat, Florida would be hell on earth. 对不喜欢炎热天气的人来说，佛罗里达简直就是人间地狱。
+Her parents made her life hell. 她的父母使她生活得很痛苦。
+Being totally alone is my idea of hell on earth. 完全的孤独对我而言就是置身人间地狱。
+It was sheer hell having to sit through hours of boring lectures! 一连坐几个小时听无聊的讲座，简直就是人间地狱！
+She's been going through hell with that bad tooth. 那颗烂牙让她吃尽了苦头。
+I'm never going to escape this hell. 我将万劫不复。
+She's the girlfriend from hell-I don't know why he puts up with her. 她这么个女朋友太可恶了——我真不明白他为什么能受得了她。          
+He was terrified of going to hell when he died. 他非常害怕死后会下地狱。
+hell fire（通常用hellfire）地狱之火 
+tormented souls in hell 在地狱受煎熬的灵魂 
+Lava poured out of the volcano, glowing like the fires of hell. 熔岩从火山中喷出，发出灼热的光，像地狱之火一般。
+
+adj. 1 与实际或真实的情况（而非与观念或理论）相关的:
+2（一个想法、方法或行动）正确或明智合理的、极有可能成功的，如切实可行的，相当于workable:
+3（一个人）明智的、现实的、实事求是的:
+4 只用于名词前，几乎完全的、实际上的，相当于virtual:
+adj.（一个人）善于制作或修理东西的，如心灵手巧的，相当于handy:
+n. [C] [英，非正式] 科学或技术中的一次实践性课程或考核（学生需要动手去做，而非仅仅去阅读或写作）:
+adj.（东西）有用的或合适的、实用的:
+adj.（东西）有用的或合适的、实用的:
+practical |['præktɪkl]
+practical experience of the work 实际的工作经验 
+practical problems 实际问题 
+a practical application of the research 这项研究的一个实际用途 
+I’ll do something practical now. 现在我要做些实实在在的事 
+practical advice, practical help, practical support 切实的忠告；切实的帮助；切实的支持 
+It wouldn’t be practical for us to go all that way just for the weekend. 我们跑那么远只为了去度个周末实在很不切实际。
+For entirely practical reasons, children are not invited. 没有邀请孩子们完全是出于实际的考虑。
+Let’s be practical and work out the cost first. 咱们实际一点儿，先计算一下成本费用。
+She married a practical stranger. 她等于是嫁了个陌生人。
+Bob’s very practical. He does all the odd jobs around the house. 鲍勃心灵手巧，家里的零活儿他都包了。
+chemistry, physics practical 化学实验课；物理等实验课 
+laboratory practical 实验室 
+I passed the written exam but failed the practical. 我通过了笔试，但是实验课考试不及格。
+a practical little car 实用小汽车 
+a feature that makes the system more practical 使系统更实用的一个特性
+a practical little car 实用小汽车 
+a feature that makes the system more practical 使系统更实用的一个特性
+
+n. [C] 织布用的梭子:
+n. 1 [C] 在两地之间频繁而规律地往来的飞机，即班机。强调往来穿梭的特点:
+2 [C]（在地球和宇宙空间站之间穿梭从而为两者运送物资的）航天飞机:
+n. [sing.] the Shuttle 可指英法之间英吉利海峡隧道的火车运输:
+vi. shuttle (between A and B) 频繁来往于两地（或多地）之间:
+vt. 在两地之间规律地往返以运送…:
+n. [C] 在两地之间频繁而规律地往来的公交或火车，即班车。强调交通的双向性:
+shuttle |['ʃʌtl]
+to take the shuttle 搭乘班机 
+diplomacy shuttle（比喻用法）穿梭外交 
+space shuttle 航天飞机 
+shuttle landing 航天飞机着陆
+to shuttle back and forth between the three cities 往来于三个城市之间 
+to shuttle passengers between A and B 在甲乙两地之间往来运送乘客
+a free 24-hour shuttle between the airport and the city centre 在机场和市中心之间的24小时免费班车 
+airport, hotel shuttle 机场班车；旅馆班车 
+shuttle bus, shuttle flight, shuttle service, shuttle train 短程穿梭运行的班车；短程穿梭运行的航班；往返运输服务；短程穿梭运行的火车 
+The supermarket operates a complimentary shuttle service. 这家超市提供免费往返购物班车服务。
+
+vt. ~ sth (against sth) 抵消、弥补、补偿。可以是经济上抵消，也可以是其它方面抵消:
+offset |[ˈɒfset;美ˈɔ:f-;ˈɑ:f-]
+Prices have risen in order to offset the increased cost of materials. 为补偿原料成本的增加而提高了价格。
+The increase in pay costs was more than offset by higher productivity. 提高的生产率抵消了增加的工资成本后仍有结余。
+The company's losses in the USA were more than offset by gains everywhere else. 该公司在其他地方的利润不足以弥补其在美国的损失。
+Your donations to charity can be offset against tax.（英）你对慈善事业的捐赠可获得税项减免。
+The money will help offset big medical bills. 这笔钱有助于偿付巨额的医药费。
+The carbon emissions are largely offset by planting trees. 植树可以在很大程度上抵消碳排放。
+The move is designed to help offset the shortfall in world oil supplies caused by the UN embargo. 此举旨在缓解联合国禁运所造成的世界石油供应短缺的局面。
+
+n. 1 [C] 命运、天数:
+2 [U] 天意、主宰事物的力量、命运之神:
+destiny |[ˈdestəni]
+the destinies of nations 国家的命运 
+We are masters of our own destiny. 我们是自己命运的主宰者。
+He wanted to take control of his own destiny. 他想要掌握自己的命运。
+She set up her own business because she wanted to be in control of her own destiny. 她建立了自己的公司，因为她要掌握自己的命运。
+It is my destiny one day to be king. 我命中注定有一天要成为国王。
+human destiny 人类的宿命 
+He was driven on by a strong sense of destiny. 他被一种强烈的宿命感所驱使。
+He came to Paris and found his true destiny as a poet. 他来到巴黎，命中注定成为一个诗人。
+I believe that only God knows what our ultimate destinies are. 我相信只有上帝知道我们的最终宿命。
+The time was right for him to meet his destiny. 他命中注定的时刻就要到了。
+She felt that she had fulfilled her destiny. 她感觉她的宿命应验了。
+There's not much you can do but accept your destiny. 除了接受命运的安排以外，你没有太多可做的事情。
+No man can escape his destiny. 没有人能逃脱自己的宿命。
+Can we control our own destiny? 我们能掌握自己的命运吗？
+It was a decision which could have changed my destiny. 这是一个本来会改变我命运的决定。
+Something was about to happen that would shape her destiny. 决定她命运的事情即将发生。
+the destiny that awaited him 等待着他的命运 
+Her destiny lay in that city. 她的命运系于那座城市。
+I believe there's some force guiding us─call it God, destiny or fate. 我总认为有某种力量在指引着我们——叫它上帝也罢，天意也罢，还是命运也罢。
+Is it destiny that brings people together, or is it accident? 人们的相遇是天意还是偶然？
+
+n. [U] 一种不整洁的状态，缺乏秩序、缺乏组织的状态，即混乱:
+Inside all was disorder: drawers fallen out, shoes and boots scattered. 屋内凌乱不堪:
+n. [C, U] 身体某部位的机能失调、紊乱、疾病、不适:
+n. [U] 一大群人的暴力行为，即骚乱、动乱:
+disorder |[dɪsˈɔ:də(r);美-ˈɔ:rd-]
+The room was in a state of disorder. 房间凌乱不堪。
+The emergency room was in disorder. 急诊室里一片混乱。
+His financial affairs were in complete disorder. 他的财务完全是一笔糊涂账。          
+serious, severe, chronic, common, rare, genetic, inherited disorder 严重的紊乱；慢性病；常见病；罕见病；遗传病 
+blood, brain, bowel disorder 血液病；大脑功能障碍；闹肚子 
+circulatory, eating disorder 循环障碍；进食障碍 
+Anorexia is a common eating disorder. 厌食症是一种常见的进食障碍。
+physical disorder 身体不适 
+behavioural, emotional, mental, nervous, neurological, personality, psychiatric, psychological disorder 行为障碍；情绪障碍；心理障碍；神经错乱；神经性障碍；人格障碍；精神失常；心理障碍 
+attention deficit, bipolar, obsessive compulsive, post-traumatic stress, seasonal affective disorder 注意力障碍；双相型障碍；强迫症；创伤后应激障碍；季节性情感障碍 
+disorders of the digestive system 消化系统紊乱 
+She suffers from a rare blood disorder. 她患有一种罕见的血液病。
+Her doctor diagnosed a theroid disorder. 她的医生诊断她为甲状腺疾病。
+a rare nerve disorder that can cause paralysis of the arms 一种可致手臂瘫痪的罕见的神经疾病 
+a psychiatrist who specializes in eating disorders 一位专门治疗饮食失调的精神病专家
+violent disorder（尤英）暴力骚乱 
+alcohol-related, drink-related（均英）disorder 酒后滋事 
+civil, crowd（英）, public（尤英）, social, political disorder 内乱；群众骚乱；公众骚乱；社会骚乱；政治骚乱 
+youth disorder（英）青年人骚乱 
+outbreak of disorder（尤英）骚乱的爆发 
+Troops were sent in to quell the disorder. 军队被派去平息骚乱。
+The initiative aims to tackle alcohol-related disorder in towns. 这一计划最初旨在处理城市中的酒后滋事问题。
+The police will not tolerate disorder of any kind on our streets. 警方不会容许大街上有任何形式的骚乱。
+new restrictions aimed on preventing social disorder 旨在防止社会动乱的新限制措施 
+He called on the authorities to stop public disorder. 他呼吁当局制止公众骚乱。
+There are other forms of civil disorder — most notably, football hooliganism. 还有其他形式的民众骚乱，最出名的是足球流氓行为。
+
+n. 1 [C] ~ (of sth/that…)（对真实性或存在性的）否认:
+2 [U] [心理学]（对坏事或痛苦之事的真实性的）否认:
+n. [C, U] (a) ~ of sth 拒绝给予某人其有权拥有的东西，即剥夺（别人应有的权利）:
+denial |[dɪˈnaɪəl]
+the prisoner's repeated denials of the charges against him 囚犯再三否认对他的指控 
+The terrorists issued a denial of responsibility for the attack. 恐怖主义者发表声明，否认对这次袭击负责。
+an official denial that there would be an election before the end of the year 对年底前将进行选举的官方否认 
+Despite official denials, the rumours still persist. 尽管官方予以否认，但谣言仍未平息。
+Despite official denials, it appears the government did make a deal with the terrorists. 尽管官方矢口否认，但看来政府是与恐怖分子达成过协议。
+Denial of the Mafia's existence is nothing new. 否认黑手党的存在并不是什么新鲜事。
+When I asked if she had cheated in the exam, she answered with a vehement denial. 我问她是否考试作弊时，她强烈地否认了。
+The document contains an explicit denial that the company ever sold arms. 文件中明确否认这家公司曾出售军火。
+The chairman of the company issued a denial of the allegations. 公司董事长否认了这些指控。
+Jefferson made no denial of his actions on that night. 杰斐逊没有否认他那天晚上的行动。
+a denial from senior officials 高级官员的否认 
+The patient is still in denial. 病人仍然拒不接受事实。
+With major life traumas, like losing a loved one, for instance, the mind's first reaction is denial. 面对生活中的重大不幸，如失去至爱的人等，人们的第一反应就是拒绝接受。
+an addict who is in denial about his addiction 拒不承认自己吸毒成瘾的瘾君子 
+Some people are in denial about the situation. 一些人拒不接受这种状况。
+the denial of basic human rights 剥夺基本人权 
+the denial of visas to international relief workers 拒绝给国际救援人员发放签证 
+This does not justify the denial of constitutional protection. 这不能成为剥夺他人受宪法保护权利的正当理由。
+
+vt. 用旋转式甩干桶来甩干衣服:
+vt.＆vi. spin (round/around) 急转身；使某人急转身。与wheel未见明显差别，且二者都不太常用:
+vi. 高速驾驶或穿行，即疾驰:
+spin (B from A) 用棉花、丝绸、羊毛等纺线、纺纱:
+vt. 蜘蛛吐丝结网；蚕吐丝作茧:
+vt. 以某种方式来呈现（或陈述）信息或情况（尤指该陈述使你或你的想法看起来更好）:
+n. 1 [sing., U] [非正式] 在政治领域中，可指政客们对某个信息或某种情况所做的有利于自己的导向性陈述，也可叫粉饰:
+2 [sing.] [非正式] 某人对某一事件或情况以某种方式所做的解释、诠释与呈现，是一种信息的报道倾向:
+n. [C, usually sing.] 指飞行器（如飞机）的螺旋式下坠:
+vt.＆vi. spin (sth) (round/around) 一圈一圈地快速旋转；使…一圈一圈地快速旋转:
+n. [C, U] 高速的旋转:
+vi. 由于喝醉、疾病或激动等而发生的头部眩晕。是一个形象化用法:
+n. [U] 在网球和板球运动中，可指所投出或击出的旋转异常快速的球:
+n. [C] [非正式，正变得过时] 乘汽车去兜风:
+spin |[spɪn]
+She spun around to face him. 她猛地转过身来，面对着他。
+She spun on her heel and walked out of the room.（尤美）她旋即转身走出房间。
+He went spinning along the road in his car. 他开着自己的车在公路上疾驰。
+vt.＆vi. spin (A into B) 
+to spin silk into thread 把蚕丝纺成线 
+to spin wool fleece 纺羊毛
+The spider spun a web. 蜘蛛结了一张网。
+Experts put their own spin on the economic situation. 专家们对经济形势各执一词。
+The public is sick of spin. 公众厌倦了粉饰。
+His supporters are putting the spin on the results today. 他的支持者们对今天的结果给出了诠释。
+media, political spin 媒体倾向性报道；政治倾向性报道 
+The chairman tried to put a positive spin on the closure of the factory. 主席试图从正面解释工厂关闭一事。
+spin doctor 舆论导向专家 
+spin machine 舆论机器 
+a Marxist spin 用马克思主义的观点来阐释 
+She’s put a whole new spin on the theme of corporate greed. 她对公司贪婪这一主题作了全新的解读。
+He had to stop the helicopter from going into a spin. 他必须制止直升机旋冲下降。
+The ball is spinning. 球在旋转。
+The Earth spins on its axis once every 24 hours. 地球每24小时自转一周。
+to spin a coin 转动硬币 
+to spin the wheel sharply 猛打方向盘 
+The wheel can now spin freely. 轮子现在可以顺畅地转动了。
+The blade spins very fast. 桨叶飞速旋转。
+The car spun out of control. 那辆车打着转失去了控制。
+the spin of a wheel 轮子的转动 
+the earth’s spin 地球的自转 
+spin dryer（英）甩干机 
+spin cycle 旋转脱水过程；是非的漩涡 
+The president’s death sent the stock market into a spin.（比喻用法）总统之死使股市陷入恐慌。
+My head is spinning. 我的头好晕。
+back, side spin（体育用语）回旋；侧旋 
+She puts heavy topspin on her serve. 她发很快的上旋球。
+to go for a spin 乘车去兜风
+
+n. [sing.]（尤指坏事的）开始、开端:
+onset |[ˈɒnset;美ˈɑ:n-;ˈɔ:n-]
+the sudden onset of the disease 疾病的突然发作 
+Symptoms include the acute onset of pain. 症状包括疼痛的急性发作。
+the onset of old age 老年的开始 
+The development of pubic hair signals the - of puberty. 长出阴毛标志着青春期的开始。
+His first hit record marked the onset of an astonishing career. 他的第一张风行一时的唱片标志着辉煌事业的开始。
+after the onset of sleep 进入睡眠后 
+Most of the passes have been closed with the onset of winter. 冬天来临，大部分关口均已关闭。
+With the onset of war, oil prices climbed past $30 a barrel. 战争一爆发，油价就攀过了每桶30美元。
+
+adj. 只用于名词前，（某人）与生俱来的，非后天习得的，相当于innate:
+n. [C] 原产于某地的（或称本地的）动物或植物:
+adj. 1 只作前置定语，与出生（和儿时居住）的地方有关的，即出生地的，儿时居住地的:
+2 只作前置定语，与某人一直或长期居住的地方有关的，即本地的，当地的:
+3 只作前置定语，有时具有冒犯性，指与某国的土著人（尤指白人到来之前或非西方国家的土著人）相关的，即土著的；土著人的:
+n. 1 [C] 出生于某国（或某一地区）的人:
+2 [C] 居住在某一地方的人（尤指长期居住在该地的人），即本地人，当地人，此时在语义上相当于local，但要注意local常用复数:
+3 [C] [旧时，冒犯] 旧时欧洲人用以称呼先于白人居住在某地的人（或一些欧洲人对非西方国家的某个部族之成员的称呼），即土著:
+adj. native (to ...)（动物和植物）天然存在于某地的，即原产于某地的:
+adj. 母语的，第一语言的:
+native |['neɪtɪv]['neɪtɪv]
+native cunning 与生俱来的狡猾
+The kangaroo is a native of Australia. 袋鼠是产于澳大利亚的动物。
+native land, native country, native city 故乡；祖国；故里 
+to visit my native China 回到我的故乡中国 
+native Berliners 土生土长的柏林人 
+a native Northern Californian 土生土长的北加州人 
+native art 土著艺术 
+native people 土著人
+Dr. Aubin is a native of St. Louis. 奥宾医生是圣路易斯人。
+You can always tell the difference between the tourists and the natives. 游客与当地人之间的区别一望便知。
+She speaks Italian like a native. 她的意大利语说得和意大利人一样。
+disputes between early settlers and natives 早期移民和土著之间的纷争 
+They used force to banish the natives from the more fertile land. 他们用武力将土著人驱逐出更加肥沃的土地。
+native species 当地的物种 
+the native plants of America 美国的土生植物 
+native pines 土生松树 
+The tiger is native to India. 这种虎产于印度。
+native language 母语
+
+Someone who is overwrought is extremely upset and emotional. 极度悲伤的; 极度情绪化的
+overwrought |英 [əʊvə'rɔːt]  美 [,ovɚ'rɔt]| adj. 过度紧张的；过度兴奋的；过分劳累的；（文体等）过于考究的/v. 工作过度；把…做过头；使过于激动（overwork的过去式和过去分词）/
+One overwrought member had to be restrained by friends.一位极度悲伤的成员不得不被朋友们加以控制。
+
+
+vt. [非正式或幽默] 对某人非常生气；严厉批评某人:
+vt.＆vi. [非正式] 在太阳下暴晒或在火边烘烤；使…在太阳下暴晒或在火边烘烤:
+n. [C] [美] 常构成复合词，在某人的园子（或院子）里举行的户外烧烤野餐聚会:
+n. [C]（英也用joint）在烤箱里烤的一大块肉:
+vt.＆vi. 在烤箱里或在火上烤食物（尤指烤制肉类）；以此种方式被烹制:
+vt. 烘烤（或炒）坚果、豆子等（使其变干且变成褐色）:
+adj. 只用于名词前，被放在烤箱里或火上烹制的:
+n. [C] [美] 一次社交活动，常为宴会，其间人们讲述主角生活中的滑稽事情:
+roast |[rəʊst]
+She could feel her skin beginning to roast. 她能感觉到皮肤开始晒得发烫了。
+a hot dog roast 热狗烧烤野餐
+the Sunday roast 星期日烤肉大餐
+to roast a chicken 烤一只鸡 
+the smell of roasting meat 烤肉的香味 
+roasted chestnuts 炒栗子 
+roast chicken 烧鸡
+
+vt. 对某个群体做民意调查、进行民意测验:
+vt. 仔细查看、审视（某事物的总体，尤指为了获取其总体印象）。相当于inspect:
+n. [C]（对某个群体进行的）民意调查、民意测验（常通过问问题来实现）:
+n. [C]（对一个地区进行的）勘测、测绘（以绘制地图或制定计划）:
+vt. 对某地进行勘测、测绘（以绘制地图或为建筑工程做前期准备）:
+vt. [英] 对建筑物进行鉴定、检查（以看起状况是否良好）:
+n. [C] [英]（尤指为欲购房者所做的）房屋鉴定:
+n. [sing.] 对某事物所做的总体研究、全面概述:
+vt. 总体研究、全面评述或概述:
+survey |[ˈsɜ:veɪ;美ˈsɜ:rveɪ]
+We surveyed 500 smokers and found that over three quarters would like to give up. 我们对500名吸烟者进行了调查，发现有超过四分之三的人愿意戒烟。
+Business Development Advisers surveyed 211 companies for the report. 企业发展顾问公司为此报告调查了 211 家公司。
+Only 18 percent of those surveyed opposed the idea. 被调查者中只有 18%的人反对该主张。
+She surveyed his appearance critically. 她挑剔地打量着他。
+He surveyed himself in the mirror before going out. 出门前他对着镜子把自己审视了一番。
+He pushed himself to his feet and surveyed the room. 他站起来仔细打量整间屋子。
+I surveyed the scene from my window. 我透过窗户看到了这一幕。
+The next morning we surveyed the damage caused by the fire. 次日清早我们查看了火灾的破坏情况。
+He surveys American politics with a conservative world view. 他用一种保守的世界观审视美国政治。
+sample survey 抽样调查 
+The researchers undertook a sample survey of schools in the city. 研究人员对该市的学校做了抽样调查。
+a nationally representative survey of the US population conducted each year 每年—度在全美国有代表性的人口典型抽样调查 
+The fifth follow-up survey provides the data for this study. 第五次跟进调查为这项研究提供了数据。
+a historical survey of children's clothing 对童装历史的研究 
+mail（美）, online, postal（英）, questionnaire, telephone, Web-based survey 邮件调查；在线调查；邮政调查；问卷调查；电话调查；网络调查 
+field survey 实地调查 
+pilot survey 试点调查 
+attitude, consumer, customer, customer-satisfaction, opinion survey 态度调查；消费者调查；顾客调查；顾客满意度调查；观点调查 
+A recent customer survey showed widespread ignorance about organic food. 最近的顾客调查显示人们对有机食品普遍缺乏了解。
+market, market-research, marketing survey 市场调查；市场研究调查；市场营销调研 
+household survey（尤美）家庭调查 
+The charity did a survey of people's attitudes to the disabled. 该慈善机构就人们对残疾人的态度进行了调查。
+94% of people who took part in the survey said they agreed. 参加这次调查的人中有94% 表示同意。
+The survey covered 74 species. 这次调查涵盖了74个物种。
+A customer-satisfaction survey highlighted the need for clearer pricing. 顾客满意度调查突出表明产品定价需要更加透明。
+survey data, survey results 调查数据；调查结果 
+survey method, survey technique 调查方法；调查技巧 
+survey participant（美）, survey respondent 调查参与者；调查回应者 
+survey group 调查小组 
+survey questionnaire 调查问卷 
+survey question 调查问题 
+survey response 对调查的回应 
+According to the survey, many young adults have experimented with drugs of some kind. 根据此项调查，许多年轻人曾试吸过某种毒品。
+According to the survey, overall world trade has also slackened. 根据这项调查，世界贸易整体上也有所放慢。
+the questions used in the survey 调查中的问题 
+a survey into the state of English in universities 对大学里英语使用状况的调查 
+a survey of adults 对成年人的调查 
+a survey on drivers' attitudes to the police 关于司机对警察的看法的调查 
+the findings of a/the survey, the results of a/the survey 调查的发现；调查的结果 
+A recent survey showed 75% of those questioned were in favour of the plan. 最近的民意调查显示，有75%的调查对象支持这项计划。
+The council conducted a survey of the uses to which farm buildings are put. 市政会就农场建筑的使用情况进行了调查。
+archaeological, geological, geophysical, land, seismic考古勘测；地质勘测；地球物理勘测；土地勘测；地震勘测 
+structural survey（尤英）结构勘察 
+A structural survey of the property revealed serious defects. 对该房产的结构勘察显示其存在严重的缺陷。
+full survey 全面勘察 
+an aerial survey (= made by taking photographs from an aircraft) 空中勘测 
+The scientists conducted two aerial surveys followed by two ground surveys. 科学家们在两次地面勘测后又进行了两次空中勘测。
+Scarborough Council commissioned geological experts earlier this year to survey the cliffs. 斯卡伯勒市政会在今年早些时候委托地质专家对这些悬崖进行勘测。
+the people who surveyed the house for the mortgage 抵押贷款房屋的评估人员
+a structural survey undertaken by a qualified surveyor 由一位有资质的房屋鉴定员所作的结构评估
+a comprehensive survey of modern music 现代音乐概述 
+a brief survey of some important books on astrology 有关占星术的几本重要著作的简要概述 
+He sniffed the perfume she wore, then gave her a quick survey. 他闻了闻她身上的香水味，然后又飞快地打量了她一眼。
+This chapter briefly surveys the current state of European politics. 本章对欧洲政治的现状作了简略概述。
+
+n. [C] 公众对某人或某事物的印象，或某人或某事物在公众眼中的形象:
+n. 1 [C] 一个人脸部的侧面轮廓:
+2 [C]（在背景的映衬下所显出的）某事物的轮廓:
+n. [C] 对某人或某事物的概述、简介（能提供有用的信息）:
+vt. 简要介绍、写简介:
+profile |[ˈprəʊfaɪl;美ˈproʊ-]
+She decided to keep a low profile until the scandal had died down. 她决定在丑闻平息之前保持低姿态。
+public profile 公众形象 
+political profile 政治姿态 
+corporate profile 公司形象 
+The story was given a low profile in today's papers. 今天的报纸低调报道了这件事。
+a campaign to raise the profile of the city as a cultural leader 一场提升该城市作为文化引领者形象的运动 
+The deal will certainly raise the company's international profile. 这宗交易肯定会提高这家公司的国际形象。
+a move that would give Egypt a much higher profile in the upcoming peace talks 能使埃及在未来的和谈中更加引人关注的举动 
+Football is a high profile business. 足球是一个引人注目的产业。
+his strong profile 他轮廓清晰的侧影 
+a picture of the president in profile 总统的侧面画像 
+His handsome profile was turned away from us. 他英俊的侧影从我们眼前转开了。
+This picture shows the girl in profile. 这张照片照的是女孩的侧面。
+The painting shows her in profile. 油画画的是她的侧面。
+the profile of the tower against the sky 天空映衬出塔楼的轮廓
+job, employee profile 工作简介；雇员简介 
+an in-depth profile of Boris Spassky and his career 对鲍里斯·斯帕斯基及其职业生涯的深度剖析 
+age, career, personality, psychological 年龄简介；职业简介；个性简介；心理简介 
+company, customer profile 公司简介；客户概况 
+demographic, financial, social profile 人口状况图表；财政简介；社会状况简介 
+DNA, genetic profile 脱氧核糖核酸图谱；基因图谱 
+Margo was told to write a profile about him. 马戈被告知要写一份关于自己的简介。
+He fits the profile of the managers we're looking for. 他符合我们正在物色的经理的条件。
+The data will enable us to construct a profile of the company's customers. 这些数据能使我们构建该公司客户的情况图表。
+We first build up a detailed profile of our customers and their requirements. 首先，我们建立起我们的客户及其需求的详细资料。
+A newspaper published profiles of the candidates' wives. 一家报纸刊登了几位候选人夫人的简介。
+His career is profiled in this month's journal. 这期月刊概述了他的工作生涯。
+Tamar Golan, a Paris-based journalist, profiles the rebel leader. 驻巴黎记者塔玛·戈兰对反叛者的首领进行了介绍。
+
+a person's child or children:一个人的孩子或孩子
+an animal's young.:一只动物的幼崽。
+the product or result of something:某事的产品或结果
+offspring |ˈɒfsprɪŋ| Noun/:后代,子孙
+the offspring of middle-class parents:中产阶级父母的后代
+child hunger is the offspring of political indfference, unaccountable governance, and economic mismanagement:儿童饥饿是政治冷漠、不负责任的治理和经济管理不善的产物
+
+adj. [正式]（任务、计划或想法）切实可行的、行得通的:
+practicable |[ˈpræktɪkəbl]
+at the earliest practicable opportunity 在尽可能早的时机 
+as soon as (is) practicable 尽快 
+The only practicable alternative is to postpone the meeting. 另外唯一可行的办法就是推迟会期。
+Employers should provide a safe working environment, as far as is reasonably practicable. 只要条件许可，雇主就须提供安全的工作环境。
+It is not reasonably practicable to offer her the original job back. 让她继续做原来的工作在情理上行不通。
+Teachers can only be expected to do what is reasonable and practicable. 教师只应该做合情合理而且切实可行的事。
+We will do this as soon as is reasonably practicable. 一旦条件许可，我们就会采取行动。
+to reduce smoking as far as is reasonably practicable 尽可能或少吸烟 
+The stadium shall undertake to ensure, so far as reasonably practicable, the safety of persons not in their employment. 该体育场要在合理可行的范围内尽可能确保非雇佣人员的安全。
+The decision will be made at the earliest practicable date 将在尽可能早的日期作出这项决定。
+We aim to reduce, to the maximum extent practicable, the discharge of pollutants. 我们的目标是在最大可行的程度上减少污染物的排放。
+The university should provide timely notification where practicable. 大学应该在可行的情况下及时给予通知。
+
+vt. [常用被动式] ~ sb (from sth) 给予某人正式许可，让其离开一份工作；使某人丢掉一份工作（如解雇）:
+n. [U, C] ~ (from sth) 免职:
+vt. [常用被动式] ~ sb (from sth) 给予某人正式许可，让其离开一个地方:
+n. [U, C] ~ (from sth) 正式准许（或告诉）某人让其离开某地，尤指让某人出院、退伍或将其免职:
+vt.&vi. ~ (sth) (into sth)（气体或液体）排出、放出、流出:
+n. [U, C]（液体或气体的）排出、放出、流出；也可指此类排放物质或流出物质:
+vt. [正式] 尽一切必要之努力来履行或完成某项职责、责任、义务:
+n. [U] [正式]（任务或职责的）履行，执行:
+n. [U, C] 放电:
+vt.&vi. [术语] 发（力）；放（电）:
+vt. [正式] 清偿（债务）:
+n. [U] [正式]（债务的）清偿:
+vt. [正式]（某人）开火、击发（枪、炮）:
+n. [C]（枪、炮的）击发:
+n. [C]（从监狱或法庭中）释放:
+vt. [常用被动式] 允许某人离开监狱或法庭，即释放:
+discharge |[dɪsˈtʃɑ:dʒ;美-ˈtʃɑ:rdʒ]
+He was discharged from the army following his injury. 他受伤后就退伍了。
+He was found guilty and dishonourably discharged from the army. 他被判有罪，被开除军籍。
+She was discharged from the police force for bad conduct. 她因行为不轨被清除出警察队伍。
+Patients were being discharged from the hospital too early. 病人都过早获准出院。
+She had discharged herself against medical advice. 她不听医嘱擅自出院了。
+He has a broken nose but may be discharged today. 他鼻梁断了，但或许今天就能出院。
+He was discharged from the army following his injury. 他受伤后就退伍了。
+He was found guilty and dishonourably discharged from the army. 他被判有罪，被开除军籍。
+She was discharged from the police force for bad conduct. 她因行为不轨被清除出警察队伍。
+honourable discharge 光荣退役
+The river is diverted through the power station before discharging into the sea. 这条河改道经水电站后流入大海。
+The factory was fined for discharging chemicals into the river. 这家工厂因往河里排放化学物质而被罚款。
+Raw sewage was discharged from the treatment plant directly into the river. 未经处理的污水从处理厂直接排入河中。
+The resulting salty water will be discharged at sea. 所产生的盐水将被排入大海。
+The bird had trouble breathing and was discharging blood from the nostrils. 那只鸟呼吸困难，并且鼻孔里还在流血。
+industrial, sewage, waste discharge 工业排放；污水排放；废物排放 
+radioactive discharge（尤英） 放射性物质的排放 
+All discharges and disposals of radioactive waste from Springfields were within relevant limits. 斯普林菲尔德所有放射性废料的排放和处理都在限定的范围之内。
+a ban on the discharge of toxic waste 禁止有毒废物的排放 
+nasal, vaginal discharge (= from the nose/vagina) 鼻涕；阴道分泌物 
+a thick discharge from the nose 浓鼻涕 
+They develop a fever and a watery discharge from their eyes. 他们开始发烧，眼睛里分泌出一种水状物。
+I will faithfully discharge my duties. 我将忠诚地履行我的职责。
+to discharge your responsibilities, to discharge your obligations 履行责任；履行义务 
+the quiet competence with which he discharged his many college duties 他得以胜任众多大学职务的那种内秀           
+the discharge of obligations 义务的履行
+thunder and lightning caused by electrical discharges 由放电产生的雷电 
+Lightning is caused by clouds discharging electricity. 闪电是由云层放电产生的。
+The goods will be sold for a fraction of their value in order to discharge the debt. 货物将被贱价卖出以清偿债务。
+the discharge of debts 债务的清偿
+Lewis was tried for unlawfully and dangerously discharging a weapon. 刘易斯因非法和不安全的开枪而受到了审判。
+The police officer accidentally discharged a firearm while unloading it. 警官在给枪退弹时不小心走了火。
+an accidental discharge from a dropped gun 枪掉在地上走火
+absolute discharge（英）无条件释放 
+conditional discharge （英） 有条件释放 
+He was given an absolute discharge but banned from driving for 12 months. 他获得无条件释放，但12个月内禁止驾驶。
+to conditionally discharge（英）有条件释放 
+He was conditionally discharged after admitting the theft. 他承认偷盗行为后被有条件地释放了。
+She was formally discharged by the court. 她被法庭正式释放。
+
+n. [sing.] a chorus of sth 可指很多人的齐声表达（表达同意、反对、批评或赞扬等态度），即异口同声的表达:
+vt.＆vi. 齐声说:
+vt.＆vi. 齐声唱:
+n. 1 [C]（歌曲中的）副歌:
+2 [C]（由一大群人演唱的）合唱曲:
+n. [C] 在一起唱歌的一大群人，即合唱团（常用于名称），相当于choir:
+n. [C]（音乐演出时）在一起唱歌跳舞的一群人（是对比于独唱者的一个概念），即歌舞队:
+n. [sing.] 戏剧中的一个（或一群）剧情解说演员:
+chorus |['kɔ:rəs]
+a chorus of praise 一片赞扬声 
+a chorus of boos 一片嘘声 
+a chorus of complaint 一片抱怨声 
+a chorus of jeers 一片嘲笑声 
+a growing chorus of protest 一浪高过一浪的抗议声 
+a chorus of voices calling for his resignation 异口同声要求他辞职 
+‘Hello!’ they shouted in chorus.“喂！”他们一齐大声喊。
+“Hi,” they chorused.“嗨，”他们齐声说道。
+Everyone joined in the chorus. 唱到副歌时，大家都跟着齐唱起来。
+final chorus 末段的副歌 
+the Hallelujah Chorus 哈利路亚合唱曲 
+the Bath Festival Chorus 巴斯音乐节大合唱团 
+female chorus 女声合唱团 
+She is singing in the chorus. 她在合唱团唱歌。
+dawn chorus (= of birds)（英，比喻用法）拂晓时齐鸣的鸟儿
+chorus girl, chorus line, chorus member 歌舞团女成员；排成一排同台表演的歌舞演员；歌舞团成员
+
+n. [C] 成文法；法令；法规:
+n. [C] 组织机构的章程、条例、规章:
+statute |[ˈstætʃu:t]
+Penalties are laid down in the statute. 法规中有关于惩罚措施的规定。
+Corporal punishment was banned by statute in 1987. 1987年通过的法令明文禁止体罚。
+The new statute covers the care for, bringing up and protection of children. 新法令涵盖了儿童保育、养育和保护的相关内容。
+The independence of the judiciary in France is guaranteed by statute. 法国司法部门的独立地位是法律明文规定的。
+legal statute 法规 
+parliamentary, state statute 议会法；州法律 
+criminal statute 刑法 
+The Court upheld a federal statute. 法庭维护了联邦法令。
+The Supreme Court interpreted the statute in light of its recent rulings. 最高法院根据其最近的裁决对该法规进行了解读。
+The statute provided for a maximum sentence of 53 months. 该法令规定最高刑罚为53个月的监禁。
+statute law 成文法 
+the obligations of the employer in common and statute law 普通法和成文法中的雇主义务 
+This archaic law remained on the statute books until last year. 这项陈旧的法规去年才从法令全书中删除。
+Local authorities are required by statute to provide care homes for the elderly. 法律规定地方政府须为老年人设立养老院。
+a trading company formed under statute 依法成立的贸易公司 
+statute of limitations（法律）诉讼时效法规 
+The judge threw out the case because the statute of limitations had expired. 因超过诉讼时效，法官拒绝审理此案。
+Under the statutes of the university they had no power to dismiss him. 按大学的规章制度，校方无权开除他。
+
+n. [U]（缩写为lat.）（一个地方的）纬度:
+n. [pl.] latitudes可指纬度地区:
+n. [U] [正式] 选择（做什么事或做事方式）的自由:
+latitude |[ˈlætɪtju:d;美-tu:d]
+high, low latitude 高纬度；低纬度 
+northern, southern latitude 北纬；南纬 
+polar, temperate, tropical latitude 极地纬度；温带纬度；热带纬度 
+These birds only survive in temperate latitudes. 这些鸟只有在温带才能存活。
+a line of latitude 纬线
+the northern latitudes 北纬地区 
+In the middle to high latitudes rainfall has risen steadily over the last 20-30 years. 在过去二三十年里，中高纬度地区的降雨量持续增加。
+considerable, great latitude 高度的自主 
+broad, wide latitude（均尤美）广泛的自主 
+Their managers enjoy wide latitude to make hiring decisions. 他们的经理在用人方面享有广泛的自主权。
+Some degree of latitude is required in interpreting the law on this point. 用法律解释这一点时需要灵活一些。
+This method allows very little latitude for error. 这种方法所允许的误差范围很小。
+Nowadays, newspapers are allowed considerable latitude in criticizing the government. 现在，报纸有相当大的批评政府的言论自由。
+He would be given every latitude in forming a new government. 他将可以不受任何限制地组建新政府。
+His status at the studio afforded him all the artistic latitude he could ask for. 他在创作室的地位让他可以在艺术上自由探索。
+
+vi. 人被留在某地（尤指监狱）而身心退化:
+vt.＆vi.（自然且逐渐地）变腐烂；使…（自然且逐渐地）变腐烂:
+vi. 人被留在某地（尤指监狱）而身心退化:
+n. [U] 变腐烂的过程或状态，即腐烂，腐败变质:
+n. [U] 为rotation的缩写，表示（数学函数上的）循环:
+n. [U] [旧时，英] 废话；胡说。相当于rubbish:
+n. [U] the rot 可用于表示形势恶化:
+rot |[rɒt]
+prisoners thrown in jail and left to rot 投入大牢后就无人过问的囚犯 
+Most governments simply leave the long-term jobless to rot. 大多数政府只能任由长期失业者颓废下去。
+rotting leaves 渐渐腐烂的叶子 
+The window frame had rotted away completely. 窗框已经完全烂掉了。
+The grain will start rotting. 这些粮食将开始腐烂。
+Too much sugar will rot your teeth. 吃糖太多，就会出现蛀牙。
+prisoners thrown in jail and left to rot 投入大牢后就无人过问的囚犯 
+to leave the jobless to rot 任由失业者颓废下去
+The wood must not get damp as rot can quickly result. 木头不能受潮，否则很快就会烂掉。
+rot of wood 木头的腐烂
+Don’t talk such rot! 别说废话！
+The rot set in last year when they reorganized the department. 去年他们重组这个部门时，衰败就开始了。
+The team should manage to stop the rot if they play well this week. 如果球队本周比赛表现好，他们应该能够阻止形势的恶化。
+
+n. [C]（变化或发展过程中的）阶段:
+vt. [常用被动式] 在一段时间内分阶段做某事:
+vt. ~ sth in 逐步引入、分阶段开始:
+vt. ~ sth out 逐步废除:
+n. [C] 月相、月亮的盈亏:
+n. [sing.] [英] in ~/out of ~ (with sth) 协调；不协调:
+phase |[feɪz]
+It's just a phase he's going through. 那只是他正经历的一个阶段。
+the main Catholic rituals that mark important phases in a person's life 标志着一个人一生中各重要阶段的主要天主教仪式 
+The wedding marked the beginning of a new phase in Emma's life. 婚礼标志着埃玛生活新阶段的开始。
+She's going through a difficult phase. 她正处于困难时期。
+His anxiety about the work was just a passing phase. 他对工作的担心只是暂时的。
+during the planning phase of an operation 在一项行动的规划阶段 
+early in the project's design phase 该项目设计阶段的早期 
+as the team reaches the later phases of product development 当该小组进入产品开发的后期时 
+This autumn, 6000 residents will participate in the first phase of the project. 今年秋天，将有6000名居民参加该项目的第一阶段。
+experimental phase 实验阶段 
+The process is still in its testing phase. 该工艺仍处于测试阶段。
+During the first phase of expansion staff will move to the new offices. 在扩建的第一阶段，员工将搬到新的办公室去。
+acute, chronic, recovery phase（均为医学用语） 急性期；慢性期；恢复期 
+the acute phase of the disease 疾病的急性发作期 /Society has entered a technological phase of evolution. 社会已进入技术革新阶段。
+decisive phase 决定性阶段 
+The crisis is entering a crucial, critical phase. 目前危机正进入决定性的关键阶段。
+The co-op is still in the start-up phase. 合作社仍处于起步阶段。
+the critical phase of the operation 手术的关键阶段 
+The period can be divided into three distinct phases. 这一时期可以分为三个截然不同的阶段。
+In the earliest phase of mental disorder, relatives feel confused. 在心理障碍出现的最初阶段，亲属会感到困惑不解。
+a new phase in the European economy 欧洲经济的新阶段
+the phased withdrawal of troops from the area 从该地区分期逐步的撤军 
+The redundancies will be phased over two years. 裁员将在两年内分阶段进行。
+Closure of the hospitals was phased over a three-year period. 这些医院的关闭是在三年期间逐步进行的。
+The new tax will be phased in over two years. 新税种将在两年内逐步实行。
+Subsidies to farmers will be phased out by next year. 对农民的补贴将在明年之前逐步废除。
+a calendar highlighting the phases of the moon 一种标明月相的日历
+The traffic lights were out of phase. 红绿灯信号不协调。
+The Skills Programme is out of phase with the rest of the curriculum. 技能课程与其他课程不协调。
+uncomfortable jet-lag symptoms of indigestion and out-of-phase sleeping and waking 消化不良、睡眠时间混乱等不舒服的飞行时差症状
+
+To ruffle someone's feathers means to cause them to become very angry, nervous, or upset. 使某人愤怒; 紧张; 沮丧
+Ruffles are folds of cloth at the neck or the ends of the arms of a piece of clothing, or are sometimes sewn on things as a decoration. (衣服领口、袖口的) 褶边; 装饰
+If a bird ruffles its feathers or if its feathers ruffle, they stand out on its body, for example when it is cleaning itself or when it is frightened. 竖起
+If something ruffles someone, it causes them to panic and lose their confidence or to become angry or upset. 使惊慌失措; 使沮丧; 激怒
+When the wind ruffles something such as the surface of the sea, it causes it to move gently in a wavelike motion. 使起皱
+If you ruffle someone's hair, you move your hand backward and forward through it as a way of showing your affection toward them. 抚弄 (头发)
+ruffle |英 ['rʌf(ə)l]  美 ['rʌfl]| vt. 弄皱；触怒；扰乱；迅速翻动/vi. 起皱；烦恼；连续地轻敲/n. 皱褶；生气；混乱；连续轻敲声/
+His direct, often abrasive approach will doubtless ruffle a few feathers.他那直截了当、常常很粗鲁的方式无疑会激怒一些人。
+...a white blouse with ruffles at the neck and cuffs.…一件领口和袖口上有褶边的白色女式衬衣。
+Tame birds, when approached, will stretch out their necks and ruffle their neck feathering.驯化的鸟在人靠近时会伸长脖子，竖起脖子上的羽毛。
+I could tell that my refusal to allow him to ruffle me infuriated him.我可以断定，我拒绝让他激怒我使他很恼火。
+The evening breeze ruffled the pond.那傍晚的微风吹皱了水塘的表面。
+"Don't let that get you down," he said, ruffling Ben's dark curls.“别因那事而沮丧，”他抚弄着本的黑色卷发说道。
+
+
+adj. 彼此之间十分不同且多种多样的:
+diverse |[daɪ'və:s]
+people from diverse cultures 不同文化背景的人 
+My interests are very diverse. 我的兴趣非常广泛。
+economically, religiously, socially diverse 经济多元化；宗教多元化；社会多元化 
+an ethnically diverse population 多民族的人口 
+biologically diverse 生物多样化
+
+You use wicked to describe someone or something that is very bad and deliberately harmful to people. 邪恶的
+wicked |英 ['wɪkɪd]  美 ['wɪkɪd]| adj. 邪恶的；恶劣的；不道德的；顽皮的/
+She described the shooting as a wicked attack.她把那次射击描述成一次邪恶的攻击。
+
+
+vt. [正式] ~ sth/sb (from sth) 未将…包括在内，如遗漏、漏掉、忽略:
+vi. [正式] 不做或未能做:
+vt. [正式] ~ sth/sb (from sth)（故意或无意地）未将…包括在内，如删除、省略、排除:
+omit |[əˈmɪt]
+The acknowledgements were inadvertently omitted from the article. 因疏忽文章中遗漏了致谢词。
+Some important details were deliberately omitted from the report. 报告中故意漏掉了一些重要的细节。
+Our apologies to David Pannick for omitting his name from last week's article. 我们在上周的文章里漏掉了戴维·潘尼克的名字，特此向他致歉。
+She omitted to mention that they were staying the night. 她没说他们当晚要留宿的事。
+His new girlfriend had omitted to tell him she was married. 他的新女友未把自己已婚的事实告诉他。
+This scene is usually cut down or omitted altogether. 这种场景通常被剪掉或删除。
+This fact had been conveniently omitted from his account of events. 出于方便考虑，他在讲述事件经过时略去了这一事实。
+If you are a student, you can omit questions 16–18. 学生可以免做16–18题。
+People were surprised that Smith was omitted from the team. 人们感到惊讶，史密斯竟未列入该队。
+Omit the salt in this recipe. 省略菜谱中放盐这一步。
+
+n. 1 [C] 大学或美国中学的毕业文凭:
+2 [C] [英] 大学的文凭课程:
+diploma |[dɪ'pləʊmə]
+college, university diploma 大学文凭 
+law diploma 法学文凭 
+full-time, part-time diploma 全日制文凭；非全日制文凭 
+a two-year course leading to a diploma in management studies 一门可获得管理学文凭的两年制课程 
+diploma holders 持有文凭者 
+a fake diploma 假文凭 
+diploma course 文凭课程 
+She was taking a diploma in business management. 她正在修企业管理学位课程。
+
+vt.（尤指经过反复思考）找到问题的解决办法等，找到解决难题的方法:
+n. [C] [非正式用法] 笑话，尤指挖苦人的笑话:
+n. [U, sing.] [爱尔兰，非正式] 好时光:
+vi. 人的声音突然变得低沉而无法控制，即声音崩溃，如突然沙哑:
+vi.（人）因压力而崩溃:
+vt. ~ a joke [非正式用法] 讲笑话，开玩笑:
+vi. 制度等崩溃:
+n. [C] 突然的爆裂声、噼啪声:
+vt.&vi.（使）发出爆裂声，噼啪作响:
+adj. [只用于名词前]（士兵或运动员）训练有素的、技艺高超的、优秀的:
+~ (at doing sth) [非正式用法] 尝试:
+vt.&vi. 破裂（而不离散）:
+vt.&vi. 裂开、裂成碎块；弄碎（使其成离散状）:
+vt. 阻止、打击、击败、战胜罪犯或敌人，可翻译为“摧毁”:
+n. [U, sing.] [爱尔兰，非正式] 友好愉快的交谈:
+vt. ~ (open) a bottle [非正式用法] 开瓶子，尤指开瓶饮酒:
+vt. ~ sth/sb (on/against sth) 重击、猛击某人或某事物:
+n. [C] ~ (on sth) 可听到声响的重击、猛击:
+n. 1 [C] ~ (in sth) 某事物表面的裂纹、裂缝:
+2 [C] 狭窄的缝隙:
+vt.&vi. 破裂（而不离散）:
+n. [U]（也可叫crack cocaine）强效可卡因:
+crack |[kræk]
+to crack the enemy's code 破译敌人的密码 
+He has finally cracked the system after years of painstaking research. 经过多年的努力研究，他终于找到了破解这个系统的办法。
+After a year in this job I think I've got it cracked!（非正式用法）干了一年后，我觉得我已知道怎样做好这项工作了。
+He made a very unfair crack about her looks. 他开玩笑地损了一下她的长相，言语很是刻薄。
+When Paul made the crack about the 'famous girl detective', I began to suspect that he had it in for you. 当保罗挖苦你是“著名的女侦探”时，我开始怀疑他是不是故意刁难你。
+Where's the crack tonight? 今晚去哪里逍遥？
+In a voice cracking with emotion, he told us of his son's death. 他悲恸失声地告诉我们他儿子去世的消息。
+Her voice cracked and she began to cry. 她的声音变得沙哑，继而哭了起来。
+to crack under the pressure/strain 在压力下崩溃 
+The stresses of her job became too great and she finally cracked. 她工作压力变得太过巨大，最终精神崩溃了。
+He is under a lot of pressure but is showing no signs of cracking. 他的压力很大，但还没看出他吃不消。
+He thought he'd never get through the ordeal without cracking up. 他觉得自己即使能躲过这一劫，也要变疯了。
+She's calm and strong, and she is just not going to crack. 她镇定而且坚强，绝不会垮掉。
+They questioned him for days before he cracked. 他们审讯他多日后他就垮掉了。
+I had the conviction Larkin's nerve would crack and he'd squeeze the trigger in a reflex action. 我确信拉金会神经崩溃，他会反射性地扣动扳机。
+He cracked jokes and talked about beer and girls. 他爱说笑话，喜欢谈论啤酒和姑娘。           
+The old institutions are cracking. 旧的制度正在瓦解。
+a crack of thunder 一声霹雳 
+the crack of a whip 鞭子的噼啪声 
+Suddenly there was a loud crack and glass flew into the car. 突然发出一声巨大的爆裂声，玻璃碎片飞进了车里。
+'Crack!' — The first shot rang out, hitting Paolo. “砰！”第一声枪响了，打中了保罗。
+the sharp crack of a rifle shot 尖利的步枪声 
+The chandelier hit the floor with a crack. 枝形吊灯啪的一声掉在了地板上。
+He gave a crack of laughter. 他发出一阵笑声。
+Thunder cracked in the sky. 空中雷声咔嚓作响。
+A shot cracked across the ridge. 一颗炮弹飞过山脊爆炸了。
+He cracked his whip and galloped away. 
+He cracked his fingers nervously. 他紧张不安地把手指按得咔吧作响。
+crack troops 精锐部队 
+He's a crack shot (= accurate and skilled at shooting). 他是个神枪手。
+a crack undercover police officer 训练有素的便衣警察
+She hopes to have another crack at the world record this year. 她希望今年再一次冲击世界纪录。
+I should love to have a crack at the Olympia title in my last year. 我非常愿意在我职业生涯的最后一年向奥林匹亚大赛冠军头衔发起冲击。
+She decided to head for the dormitory to take another crack at locating Blanche. 她决定回宿舍再找找布兰奇。  
+The ice cracked as I stepped onto it. 我一踩冰就裂了。
+A gas main had cracked under my garage and gas had seeped into our homes. 我车库下面的煤气总管裂开了，煤气渗入了我们家。
+He has cracked a bone in his arm. 他的手臂有一处骨裂。
+Her lips were dry and cracked. 她的嘴唇干裂了。
+The dish had cracked quite badly. 盘子碎成渣了。
+A chunk of the cliff had cracked off in a storm. 山崖上的一块石头在暴风雨中崩塌下来。
+to crack a nut 把坚果砸开 
+She cracked an egg into the pan. 她往锅里打了一个鸡蛋。
+Remove the dish from the oven, crack the salt crust and you will find the skin just peels off the fish. 把盘子从烤箱里拿出来，弄碎鱼表面的那层盐，鱼皮就会从鱼身上剥落下来了。
+His face cracked into a smile.（比喻用法）他脸上绽出了微笑。
+Police have cracked a major drugs ring. 警方摧毁了一个重大的贩毒集团。
+to crack down hard on crime 严厉打击犯罪
+He's a person who enjoys a drink and a bit of crack. 他是个喜欢喝两杯又爱聊天的人。
+He cracked me on the head with a ruler. 他用尺子猛击我的头部。
+I cracked my head on the low ceiling. 我的头撞上了低矮的天花板。
+He cracked his head on the pavement and was knocked cold. 他一头撞到人行道上，不省人事了。
+She fell over and got a nasty crack on the head. 她跌倒了，脑袋重重地磕了一下。
+This cup has a crack in it. 这杯子有一道裂痕。
+Cracks began to appear in the walls. 墙壁开始出现裂缝了。
+Wide cracks appeared in the ground during the drought. 干旱期间，地面出现了很宽的裂纹。
+The cracks (= faults) in the government's economic policy are already beginning to show.（比喻用法）政府经济政策中的失误已开始显露出来。
+She had seen him through a crack in the curtains. 她透过窗帘缝看见了他。
+The door opened a crack (= a small amount). 门开了一条缝。
+He went to the door, opened it a crack, and listened. 他朝门走去，打开一条门缝听着。
+Could you open the window just a crack? 你把窗子打开一条缝好吗？
+There's a crack in the fence big enough to look through. 篱笆上的缝隙大得可以看到里面。
+a tiny crack of light under the door 门下一缕细细的光线
+He has cracked a bone in his arm. 他的手臂有一处骨裂。
+Her lips were dry and cracked. 她的嘴唇干裂了。
+a crack addict 吸强效可卡因成瘾的人

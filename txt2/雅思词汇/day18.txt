@@ -1,0 +1,703 @@
+recite						背诵，例举
+dubious				犹疑的，可疑的，不一定好的
+invalid						残疾人，退役，无效的
+exuberant				热情洋溢的，过度的
+autonomy				自治，自主
+damp								潮湿的
+aspire					渴望
+transmission			传染，播送，变速箱
+toast					烤面包片，干杯
+circus						马戏，喧闹的场面
+qualification						资格，素质
+lounge					客厅，休息室
+dip					浸，俯冲，暂时下降，伸手掏
+tenacious				顽强的，执着的
+rub					按摩，摩擦，擦拭，涂抹
+chasm					深坑，鸿沟
+mind								思维，意见，记忆，意愿，注意，介意
+justify							是...的正当理由
+transfer						调动，转移，使转化，改编
+physique				体格
+technician							技师
+protein				蛋白质
+ambiguous									有歧义的，意义含糊的
+fascinate					迷住
+gradual					逐渐的，平缓的
+recruit						新兵，新成员，征募
+convey								表达，传达，运送
+obligation					义务，责任，债务
+testimony					证词，说明，证明
+fragment						碎片，片段，使...分开
+\\\\\\\\
+
+vt. recite sth (to sb) 以口头的形式大声逐一列举，逐一讲述:
+vt. recite (sth) (to sb)（学过之后）出声背诵（诗歌或其他内容），尤指对听众背诵或朗诵:
+recite |[rɪ'saɪt]
+to recite a list of his failings 逐一说出他的过失 
+to recite a list of some famous artists 逐一列举一些知名画家 
+to recite all advantages of the new product 逐一列举该款新产品的各种优点
+to recite a poem 吟诵一首诗
+
+adj.（荣誉、名声等）不好的、不光彩的:
+adj. 1 [名词前不常用] ~ (about sth)/(about doing sth)（人）对某事拿不准的、略微怀疑的、不知某事是好是坏的:
+2 [贬] 可能不诚实的:
+adj.（荣誉、名声等）不好的、不光彩的；不一定好的:
+dubious |[ˈdju:biəs;美ˈdu:-]
+Nagy has the dubious honour of being the first athlete to be banned in this way. 纳吉作为第一个以这种方式被禁赛的运动员而“出名”。
+El Salvador has earned the dubious distinction of having the worst soil erosion in continental America. 萨尔瓦多因是美洲大陆土壤侵蚀最严重的地方而有了这份不光彩的名声。
+I was rather dubious about the whole idea. 我对这整个想法持怀疑态度。
+My parents were dubious about it at first but we soon convinced them. 我父母起初对此心存疑虑,但是我们很快就让他们信服了。
+They indulged in some highly dubious business practices to obtain their current position in the market. 他们采取了一些极为可疑的商业手段以取得目前在市场上的地位。
+This claim seems to us to be rather dubious. 在我们看来这种说法非常可疑。
+Soho was still a highly dubious area. 索霍区仍然是个靠不住的地方。
+It sounds a morally dubious proposition. 这听起来是一个道德上有问题的提议。
+Nagy has the dubious honour of being the first athlete to be banned in this way. 纳吉作为第一个以这种方式被禁赛的运动员而“出名”。
+El Salvador has earned the dubious distinction of having the worst soil erosion in continental America. 萨尔瓦多因是美洲大陆土壤侵蚀最严重的地方而有了这份不光彩的名声。
+They consider the plan to be of dubious benefit to most families. 他们认为这项计划对大多数家庭不一定有好处。         
+
+adj.（论点、结论）非基于全部事实（因而不正确）的，如站不住脚的:
+~ sb (out of sth) 伤病使某人退出兵役:
+adj. 1（法律上或官方）不承认的；无效的:
+2 [计算机] 计算机不能识别的:
+n. [C] 由于长期生病而需要别人照顾的人:
+invalid |[ɪnˈvælɪd]
+an invalid argument 站不住脚的论点 
+We think that those arguments are rendered invalid by the hard facts on the ground. 我们认为那些论点当场即被确凿的事实驳倒了。
+He was invalided out of the army in 1943. 他于1943年因伤病退伍。
+The contract was declared invalid. 合同被宣布无效。
+The trial was stopped and the results declared invalid. 审判被中止，判决结果被宣布无效。
+We cannot accept liability if you are refused entry because of invalid documents. 如果你因证件无效被拒入内，我们不承担责任。
+The treaty was declared invalid because it had not been ratified. 条约没有得到批准，因此被宣布无效。
+People with invalid papers are deported to another country. 持无效证件的人被驱逐到别国。
+This action would render the agreement invalid. 这一行动会导致协议无效。
+An error code will be displayed if any invalid information has been entered. 输入了无效信息将显示错误代码。
+invalid characters 无效字符
+She had been a delicate child and her parents had treated her as an invalid. 她小时候很虚弱，父母就把她当个病人照料。
+I hate being treated as an invalid. 我讨厌被人当作伤病号对待。
+his invalid wife 他的体弱多病的妻子
+
+exuberantly 充满活力地
+If you are exuberant, you are full of energy, excitement, and cheerfulness. 充满活力的
+exuberant |英/美 [ɪg'z(j)uːb(ə)r(ə)nt; eg-]| adj. 繁茂的；生气勃勃的，充溢的/
+They both laughed exuberantly.他俩都活力四射地大笑起来。
+So the exuberant young girl with dark hair and blue eyes decided to become a screen actress.因此，这个充满活力的年轻黑发碧眼女孩决定成为一名荧屏演员。
+
+
+n. [U]（一个国家、地区或组织机构的）自治；自治权；自主权:
+n. 1 [U]（一个国家、地区或组织机构的）自治；自治权；自主权:
+2 [U]（一个人的）自主；自主权:
+autonomy |[ɔ:ˈtɒnəmi;美ɔ:ˈtɑ:n-]
+a campaign in Wales for greater autonomy 威尔士争取更大自治权的运动 
+Activists stepped up their demands for local autonomy last month. 上个月激进分子对地方自治的呼声更高了。
+The cantons and communes of Switzerland have preserved their autonomy. 瑞士的州和市镇仍然享有自治权。
+The Act granted limited autonomy to the republics. 该法案赋予各共和国的自治权是有限的。
+local, national, regional autonomy 地方自治；国家自治；区域自治
+a campaign in Wales for greater autonomy 威尔士争取更大自治权的运动 
+Activists stepped up their demands for local autonomy last month. 上个月激进分子对地方自治的呼声更高了。
+The cantons and communes of Switzerland have preserved their autonomy. 瑞士的州和市镇仍然享有自治权。
+The Act granted limited autonomy to the republics. 该法案赋予各共和国的自治权是有限的。
+local, national, regional autonomy 地方自治；国家自治；区域自治 
+administrative, cultural, economic, financial, managerial, political, professional autonomy 行政自主权；文化自主权；经济自主权；财政自主权；管理自主权；政治自主权；专业自主权 
+demands for cultural autonomy 文化自主权的要求 
+The subsidiary companies will now have more autonomy. 这些附属公司现在将拥有更多的自主权。
+Head office is giving the regional offices more autonomy. 总公司将给地区分公司更多的自主权。
+Schools have gained greater autonomy from government control. 学校已从政府那里获得了更大的自主权。
+giving individuals greater autonomy in their own lives 在生活中给个人更大自主权的 
+an individual's right to exercise autonomy 个人行使自主权的权利 
+patient, teacher, worker autonomy 患者的自主权；教师的自主权；工人的自主权 
+Each of the area managers enjoys considerable autonomy in the running of his own area. 每个区域经理在他们各自负责的地区的运营上都享有高度的自主权。
+
+vt. 抑制或减弱（感情等）。相当于dampen:
+adj.（常令人不悦地）潮湿的，微湿的:
+n. [U] [英] 潮湿的状态；墙壁等上面的潮湿区域:
+vt. 弄潮湿，使潮湿。相当于dampen:
+damp |[dæmp]
+The cottage was cold and damp. 这小屋又冷又湿。
+damp clothes 潮湿的衣服 
+The old house smells of damp. 这老房子散发出一股潮气。
+She damped a towel and wrapped it round his leg. 她弄湿毛巾，把它裹在他的腿上。
+
+vi. ~ (to sth) 强烈渴望（达成某事或成为…）:
+aspire |[əˈspaɪə(r)]
+She aspired to a scientific career. 她有志于科学事业。
+He aspired to be their next leader. 他渴望成为他们的下一届领导人。
+people who aspire to public office 渴望担任公职的人 
+They aspired to be gentlemen, though they fell far short of the ideal. 他们想要成为君子，虽然离这个理想还差得很远。
+
+n. 1 [U]（电子数据、电子信号、信息或广播、电视节目的）播送，发射，发送，传输:
+2 [C]（电台或电视播送的）节目:
+n. [U] [正式] 某事物从一者（如一个人、地方或事物）到另一者的传递、传播:
+n. [U] [正式] 疾病的传播:
+n. [U, C] 车辆的传动装置、变速器:
+transmission |[trænsˈmɪʃn;trænz-]
+the transmission of computer data along telephone lines 计算机数据沿电话线的传输 
+a break in transmission (= of a radio or television broadcast) due to a technical fault 技术故障造成的播送中断 
+the fax machine and other forms of electronic data transmission 传真机及其他形式的电子数据传输 
+An extra copy of each document was supplied for onward transmission to head office.（onward为英式用法）每份文件都备了一份副本传给总部。
+data, information, voice transmission 数据传输；信息传输；音频传输 
+facsimile, fax transmission 传真发送 
+light, power transmission 光透射；电力输送 
+money transmission（尤英）汇款 
+cable, radio, satellite, television transmission 有线传输；无线电传输；卫星传输；电视传输 
+analogue/analog, digital, electronic, wireless transmission 模拟传输；数字传输；电子传输；无线传输 
+live transmission 现场直播 
+There will be simultaneous transmission of the concert on TV and radio. 电视和收音机将同步转播这场音乐会。
+transmission equipment, transmission technology 转播设备；转播技术 
+transmission by satellite 卫星传送 
+radio, television, TV transmission 广播节目播放；电视节目播放 
+satellite transmission 卫星转播 
+test transmission 测试播送 
+a live transmission from Sydney 来自悉尼的现场直播
+cultural transmission 文化传播 
+the transmission of knowledge 知识的传播 
+transmission from one aircraft to another 由一架飞机向另一架飞机传送 
+transmission mechanism, transmission net-work, transmission system 传输机制；传输网；传输系统 
+The associations serve as transmission belts for party policy.（比喻用法）这些协会像传动带一样把党的政策传送出去。
+genetic, oral, sexual transmission 遗传传递；口传播；性传播 
+human-to-human, person-to-person, mother-to-child 人际间传播；母婴传播 
+disease, HIV, malaria, STD transmission 疾病传播；艾滋病病毒传播；疟疾传播；性病传播 The virus's usual transmission route is by sneezing.这种病毒通常是通过打喷嚏传播的。
+HIV transmission among homosexual men 男同性恋者之间艾滋病病毒的传播 
+HIV transmission through blood transfusion 输血造成的艾滋病病毒传播 
+There is a risk of transmission of the virus between hypodermic users. 接受皮下注射者有相互传染病毒的可能。
+transmission between patients 病人间的传染
+The car was fitted with automatic transmission. 这辆车装配了自动变速器。
+a four-speed manual transmission 四挡手动变速器 
+5-speed transmission 5挡变速器 
+transmission system 变速系统
+
+n. [sing.] the toast of ... 因在某一领域将某事做得出色而受到很多人赞扬的一个人:
+vt.（身体部位）烤火取暖:
+vt.＆vi. 烤…（尤指烤面包）；把…烤成棕色或褐色:
+n. [U] 在烤箱内或烤架下将面包进行双面加热所烤成的面包片，即烤面包片，也叫吐司:
+n. [C] toast (to sb/sth)（一群人为某人的幸福、成功等而）干杯:
+vt. 为某人的成功、幸福等一起干杯:
+toast |[təʊst]
+The performance made her the toast of the festival. 她的演出使她在艺术节中备受推崇。
+a toasted sandwich 烤过的三明治 
+Place under a hot grill until the nuts have toasted. 把这些坚果放在高温烤架下面烤熟。
+Toast the bread lightly on both sides. 把面包两面都微微烘烤一下。
+a piece of toast 一块烤面包片 
+dry toast 不涂黄油的吐司 
+burned toast 烤焦的吐司
+I’d like to propose a toast to the bride and groom. 我提议为新娘新郎干杯。
+He raised his glass as if to make a toast. 他举起酒杯好像要祝酒。
+The happy couple were toasted in champagne. 人们举起香槟酒为这对幸福的夫妇干杯。
+We toasted the success of the new company. 我们为新公司的成功干杯。
+
+n. 1 [C] 马戏团:
+2 [sing.] the circus可指马戏表演（常在一个大帐篷里进行）:
+n. [C]（古罗马）露天圆形竞技场（用于举办公共赛事）:
+n. [C] [英]（用于某些地名）城镇中若干条街道相汇聚所形成的一片圆形开阔地域，可称为圆形广场，或环形交叉路口:
+n. [sing.] [非正式，贬] 吸引很多人注意的一群人或一次事件:
+circus |['sə:kəs]
+We took the children to the circus. 我们带孩子们去看了马戏表演。
+Piccadilly Circus 皮卡迪利广场
+A media circus surrounded the royal couple wherever they went. 无论王室夫妇走到何处，他们的身后都会跟着一大群媒体记者。
+the American electoral circus 美国大选的热闹场面
+
+n. 1 [C] 为某一工作或活动所需的一项技能（或一种经验），现实中可称为资格、资历:
+2 [U] 通过一项考核、完成一门训练课程、达到做某项工作（或参加某项比赛）所需的标准（是一种已达成了的既定事实）。即获得资格、合格、达到标准:
+n. [C, usually pl.] [英] 所通过的考试，或成功学完的课程，现实中可称为学历、资格:
+n. [C, U] 你对某一陈述所附加的一条限定性信息（可限定此陈述的效用或其所适用的情况），相当于proviso:
+qualification |[͵kwɒlɪfɪ'keɪʃn]
+Previous teaching experience is a necessary qualification for this job. 教学经验是从事这项工作的一个必备条件。
+He held no formal qualification in law. 他在法律方面不具备任何正式的资质。
+Nurses in training should be given a guarantee of employment following qualification. 接受培训的护士取得资格后应有工作保障。
+A victory in this game will earn them qualification for the World Cup. 这场比赛的胜利将使他们取得世界杯的参赛资格。
+academic, educational, professional, vocational qualifications 学术资历；教育学历；专业资质；职业资历 
+nursing, teaching qualification 护理资格；教学资格 
+He left school with no formal qualifications. 他离开学校没有获得正式学历。
+In this job, experience counts for more than paper qualifications. 干这项工作，经验比文凭更重要。
+The plan was approved without qualification. 这项计划获得无条件批准。
+I agree with his view, with a few qualifications. 我同意他的观点，但是有一些保留。
+The term ‘population’ as used here requires qualification. 这里使用的“人口”一词需要限定一下。
+
+vi. 懒洋洋地站着、坐着或躺着，相当于lazy around:
+n. [C] [英]（酒店、旅馆等场所内部的）酒吧（该类酒吧通常较舒适，所售的饮料价格也比一般的酒吧贵），相当于lounge bar:
+n. [C] [英]（私人住宅中用于坐或放松的）起居室，相当于living room或sitting room:
+n. [C]（旅馆、俱乐部等用于等候或放松的）休息室:
+n. [C] [英]（酒店、旅馆等场所内部的）酒吧（该类酒吧通常较舒适，所售的饮料价格也比一般的酒吧贵），相当于lounge bar:
+n. [C]（机场等地的）候机室，候车室:
+lounge |[laʊndӡ]
+He was lounging around, reading newspapers. 他懒洋洋地坐着看报。
+lounge act, lounge singer 酒吧表演；酒吧歌手
+The present owners added a new kitchen and a lounge. 目前的主人增添了一个新的厨房和一个起居室。
+coffee（尤英）, karaoke, television, TV lounge 小咖啡厅；卡拉OK厅；电视放映室 
+hotel lounge 旅馆的休息室 
+executive lounge 商务休息室 
+lounge area, lounge room, lounge space 休息区；休息室
+airport lounge 机场候机室 
+departure lounge 出站候机室 
+VIP lounge 贵宾候机室
+
+vt.＆vi. 下降；下沉（到一个更低的水平）；使…下降；下沉。相当于fall:
+vi. 价格、支持率、数量等下降:
+n. [C]（通常指短暂的）数量的减少:
+n. [C]（通常指短暂的）成功的衰退:
+n. [sing.] dip into sth 快速看…，即浏览，草草地看:
+n. [C, usually sing.] 一次快速的点头。是一个形象化用法，不太常用:
+n. [C, U] 浓稠的调味酱（用食物来蘸着吃）:
+dip sth (in) 把…快速放入液体中然后将其拿出，即蘸，浸:
+n. [C] 平面的低洼处或凹陷处:
+n. [C, usually sing.] 一次快速的上下运动:
+dip sth (in) 把…快速放入液体中然后将其拿出，即蘸，浸:
+n. [C] [非正式] 一次短时间的游泳，即游一游，泡一泡:
+vt. 给牲畜（尤指绵羊）洗药浴（以杀死其身上的虫子）:
+n. [U, C] 给绵羊等动物洗浴以杀死其身上的虫子的化学药剂:
+vt. [英] 在夜晚把汽车前灯的远光调为近光（使其不射入其他司机的眼中）:
+dip |[dɪp]
+The sun dipped below the horizon. 太阳落到地平线下了。
+The plane dipped its wings. 机翼向下倾斜。
+hills which dip gently to the east 向东面缓缓下斜的山丘 
+The road dipped steeply down into the town. 这条路陡然下斜，一直延伸到镇子里。
+Support dipped sharply to 51%. 支持率骤然降到了51%。
+Sales for this quarter have dipped from 38.7 million to 33 million. 本季度销售额从3870万下降到3300万。
+a sharp dip in profits 利润急剧下降 
+the occasional dips in the market 市场上偶然的下跌 
+Share prices have taken a slight dip. 股票价格略有下降。
+a sharp dip in temperature 温度的骤然下降
+The nation is experiencing an economic dip. 该国经济正在衰退。
+a brief dip into history 随便翻阅一下历史
+He gave a dip of his head. 他点了点头。
+vt. dip sth (into sth) 
+The fruit had been dipped in chocolate. 这水果蘸过巧克力酱。
+Quickly dip the tomatoes in boiling water. 在沸水中把西红柿快速焯一下。
+a dip in the road 路上的凹陷处 
+Puddles had formed in the dips. 低洼处形成了一个个水坑。
+vt. dip sth (into sth) 
+He dipped the brush into the paint. 他拿画笔蘸了蘸颜料。
+Dip your hand in to see how hot the water is. 把手伸进去看看水有多热。
+The fruit had been dipped in chocolate. 这水果蘸过巧克力酱。
+Quickly dip the tomatoes in boiling water. 在沸水中把西红柿快速地焯一下。
+Let’s go for a dip. 咱们去游一会儿泳吧。
+
+tenaciously 执著地
+If you are tenacious, you are very determined and do not give up easily. 执著的
+tenacious |英 [tɪ'neɪʃəs]  美 [tə'neʃəs]| adj. 顽强的；坚韧的；固执的；紧握的；黏着力强的/
+In spite of his illness, he clung tenaciously to his job.尽管有病，他仍顽强地坚持工作。
+He is regarded as a tenacious and persistent interviewer.他被认为是个执著坚毅的采访者。
+
+
+vt.&vi.（用布等）擦干、擦净、擦拭:
+vt.&vi. ~ (on/against sth)（表面）多次摩擦（尤指引起疼痛或损害）:
+vt.&vi. ~ sth (with sth) 用手在身体部位上前后擦、搓、揉:
+vt.&vi.（动物）蹭:
+vt.&vi. ~ (sth) (together) 搓手:
+n. [C, usually sing.] 擦、搓、揉、抹:
+n. [C]（揉进皮肤的）按摩膏；面膜:
+vt.&vi. ~ (sth) (together)（使）两个表面相互摩擦:
+vt. 在一个表面上涂抹液体或其它物质:
+n. [sing.] [正式或幽默] the rub可指问题或困难:
+rub |[rʌb]
+He rubbed his face vigorously with the towel. 他用毛巾使劲儿地擦了把脸。
+She took off her glasses and rubbed them hard. 她摘下眼镜使劲擦着。
+I rubbed my glasses with my handkerchief. 我用手帕擦了擦眼镜。
+She rubbed her hands on her apron. 她在围裙上擦了擦手。
+I rubbed at the stain on the cloth. 我擦了擦布上的污渍。
+He rubbed and rubbed but couldn't seem to get clean. 他擦了又擦，可就是擦不干净。
+Rub the surface smooth. 将表面擦光。
+Rub the surface with sandpaper before painting. 用砂纸打磨表面，然后再上油漆。
+I pretended to rub a fleck of grit from one eye. 我假装拭去一只眼睛里的沙粒。                      
+The back of my shoe is rubbing. 我的鞋后跟磨脚。
+Smear cream on to your baby's skin at the edges of the plaster to prevent it from rubbing. 在宝宝贴膏药的皮肤边缘涂上护肤霜，以防止膏药擦伤皮肤。
+The horse's neck was rubbed raw (= until the skin came off) where the rope had been. 马脖子上套过缰绳的地方皮都给磨掉了。
+The wheel is rubbing on the mudguard. 车轮蹭着挡泥板了。
+She rubbed her chin thoughtfully. 她若有所思地抚摩着下巴。
+He rubbed his arms and stiff legs. 他按摩着自己的胳膊和僵硬的双腿。
+'I fell in a ditch', he said, rubbing at a scrape on his hand. “我掉进沟里了”，他一边说着，一边揉着手上的擦伤。
+She stood up, rubbing at her back. 她揉着后背站了起来。
+He gently rubbed his swollen nose. 他轻轻地揉着肿胀的鼻子。
+The cat rubbed itself against my legs. 猫在我腿上蹭来蹭去。
+He kept rubbing his leg against mine. 他不停地用腿蹭我的腿。
+Animals had been rubbing against the trees. 动物一直在这些树上蹭来蹭去。
+She rubbed her hands in delight. 她高兴得直搓手。
+He rubbed his hands together a few times. 他搓了几下手。
+She gave her knee a quick rub. 她很快地揉了揉膝盖。
+She sometimes asks if I want a back rub. 她有时会问我想不想做个背部按摩。
+a fresh cucumber rub for your whole face 用新鲜黄瓜给整张脸做的面膜
+She rubbed her hands in delight. 她高兴得直搓手。
+He rubbed his hands together a few times. 他搓了几下手。
+It sounded like two pieces of wood rubbing together. 听起来就像是两块木头在一起摩擦。
+the 650-mile rift that separates the Pacific and North American geological plates as they rub together 太平洋和北美洲地质板块相互摩擦时产生的一条长达650英里的裂缝
+Put a little cream onto each hand and rub it in well. 在每只手上抹上一点儿乳膏，然后涂均匀。
+Rub the cream well into your skin. 将乳膏抹匀，使皮肤充分吸收。
+She rubbed the lotion into her skin. 她把润肤液揉搓进皮肤里。
+He rubbed oil into my back. 他往我的背上抹油 
+She spread the icing over the cake, dabbing it with a knife. 她把糖霜浇在蛋糕上面，并用刀子轻轻涂抹开。
+The hotel is in the middle of nowhere and there lies the rub. We don't have a car. 难就难在旅馆很偏远，我们又没有汽车。
+'What do you want to write about?'. And there was the rub, because I didn't yet know. “你想写什么？”难就难在这儿，因为我还不知道写什么。
+
+n. [sing.] [正式] ~ (between A and B)（两个人、团体或事物之间的）巨大分歧、巨大差距:
+n. [C] [文学]（地上、石头上、冰上的）深裂口、深坑:
+chasm |[ˈkæzəm]
+the chasm that divides the worlds of university and industry 将大学和企业两个世界分隔开的鸿沟 
+A chasm separates my generation from my parents'. 分歧使我这一代人不同于我父母那一代。
+an attempt to bridge the unbridgeable chasm between the two cultures 弥合两种文化之间隔阂的尝试 
+a huge chasm of hate and prejudice 由于仇恨和偏见而产生的巨大裂痕 
+the chasm between rich and poor in America 美国显著的贫富差距      
+Suddenly a huge chasm opened in the earth. 大地突然裂开，露出一个大窟窿。           
+
+n. [C] 心思、兴趣等:
+vt.＆vi. 1 尤用于疑问句或否定句，不用于被动句，指对某事烦恼，苦恼，焦虑，担忧，介意:
+2 用于请求允许做某事，或礼貌客气地要求某人做某事，即介意:
+3 not mind 无被动式，指不关心…，不在乎…，不考虑…:
+vt. not mind doing sth 愿意（或乐意）去做某事:
+vt. [美，爱尔兰] 注意某人所说的话并遵守之，即听从:
+And the moral of the story is: always mind your mother! 这个故事的寓意是:
+vt. [尤英] [美通常用watch] 关心，照看（某人或某物），相当于look after:
+n. [C] 非常聪明的人，富有才智的人:
+n. 1 [C, U] 人的头脑或大脑（能够使人意识到…、知道…、思考或感觉…）:
+2 [C] 思考或推理的能力；智慧；思维方式。此时相当于head，二者无明显差别:
+n. [C, usually sing.] 记忆力:
+vt. [英] [英美也用watch] 用于告诉某人对…小心一点，或警告其当心危险:
+mind |[maɪnd]
+Keep your mind on your work! 专心干你的活吧！
+Her mind is completely occupied by the new baby. 她一心扑在刚出世的宝宝身上。
+The lecture dragged on and my mind wandered. 演讲没完没了的，我心不在焉了。
+He gave his mind to the arrangements for the next day. 他认真考虑第二天的安排。
+I don’t mind the cold--it’s the rain I don’t like. 冷我不在乎，我是讨厌下雨。
+Did she mind not getting the job? 她没得到这份工作是不是很介意？
+He wouldn’t have minded so much if she’d told him the truth. 如果她把真相告诉他，他就不会那么担忧了。
+Do your parents mind you leaving home? 你父母舍得你离开家吗？
+He minded that he hadn’t been asked. 没被邀请，他很是耿耿于怀。
+Do you mind if I open the window? 我打开窗户你介意吗？
+Would you mind explaining that again, please? 请你再解释一遍行吗？
+‘Would you like tea or coffee?’ ‘I don’t mind--either’s fine.’ “你是要茶还是要咖啡？”“无所谓——什么都行。” 
+I didn’t mind about the money. 钱的事我不在乎。
+Don’t mind her--she didn’t mean what she said. 别理她——她只是随便说说。
+Don’t mind me--I’ll just sit here quietly. 别管我——我就在这儿静静地坐坐。
+Nobody really minded much about what happened to them. 没人真正在意他们的遭遇。
+I don’t mind helping if you can’t find anyone else. 如果你找不到别人，我乐意帮忙。
+I wouldn’t mind a coffee. 我很想喝杯咖啡。
+Who’s minding the children this evening? 今晚谁看孩子？
+Could you mind my bags for a moment? 你能不能照看一下我的袋子？
+to mind the shop 照看商店
+She was one of the greatest minds of her generation. 她是她那一代人中最聪慧的人之一。
+She was in a disturbed state of mind. 她脑子里一片混乱。
+the complex nature of the human mind 人脑的复杂特性 
+conscious, subconscious, unconscious mind 显意识；潜意识；无意识 
+Our subconscious mind tries to protect us. 我们的潜意识会想要保护我们。
+to have a brilliant mind 拥有非凡的智力 
+She had a lively and enquiring mind. 她思维活跃，善于探索。
+I’ve no idea how her mind works! 我真不知道她是怎么想的！
+You have a good mind. 你很有才智。
+logical mind 逻辑思维
+When I saw the exam questions my mind just went blank. 我看到考题时，脑子里一下子变得一片空白。
+Sorry--your name has gone right out of my mind. 对不起——我完全想不起你的名字了。
+Mind that step! 注意台阶！
+Mind your head! 小心，别碰着头！
+Mind your language! 说话注意点！
+Mind you don’t cut yourself--that knife’s very sharp. 小心别伤着——这刀子很快。
+You must be home for dinner, mind. 记住，你一定得回来吃饭。
+
+vt. [术语] 调整打印文本的行列，使一边或两边整齐:
+vt. ~ sth/yourself (to sb) 对某事做出解释；为某事辩解或辩护:
+vt. 证明…正确或合理:
+justify |[ˈdʒʌstɪfaɪ]
+Click on this icon to align or justify text. 点击这个图标使文本排齐。
+The Prime Minister has been asked to justify the decision to Parliament. 要求首相就这一决定向议会做出解释。
+Can you really justify the destruction of such a fine old building? 你确实能为毁坏这样一幢精美的古建筑找出正当的解释吗？
+The university could not easily justify spending the money on this. 这所大学很难为此项花销做出合理的解释。
+You don't need to justify yourself to me. 你不必向我解释你的理由。
+No argument can justify a war. 任何理由都不能为战争开脱。
+How can they justify paying such huge salaries? 他们怎能证明付这么大笔薪金是正当的呢？
+How will you justify this pay cut to your employees? 你将如何向员工们证明这次减薪是合理的。
+Her success had justified the faith her teachers had put in her. 她的成功证明了老师对她的信心是正确的。
+Ministers agreed that this decision was fully justified by economic conditions. 部长们一致同意，这个决定完全符合经济情况。
+The result hardly justified the risks they took to get it. 结果难以证明他们为此所冒风险确有所值。
+The events that followed served to justify our earlier decision. 后来发生的事证明我们先前的决定是合理的。
+The extra effort involved would go a long way in helping to justify their high price tags. 他们的额外付出对证明其高价的合理性是极有帮助的。
+the many issues that make it easy to justify the purchase 使得此项购买的合理性容易得到证明的许多问题 
+The decision is justified on the grounds that there is no realistic alternative. 既然没有其他现实的选择，这个决定便是合理的。
+
+vt.&vi. ~ (sth/sb) (from…) (to…)（使）转移到不同的地点:
+vt.&vi. ~ (sb) (from…) (to…)（使）某人转移到一个新的工作岗位、学校、情况等:
+vt.&vi.（使）转移感情:
+vt.&vi. [尤英] ~ (sb) (from…) (to…) 在体育运动中可指（使）某人转会（尤指职业足球队）:
+vt.&vi. ~ (sth) (from sth) (to sth)（使）转存、转录（信息、音乐、想法等）:
+vt.&vi. 转移技能:
+n. 1 [U, C]（地点、工作、学籍等的）改变:
+2 [U, C] 数据的迁移:
+3 [U, C]（物理、化学等领域的）电荷、能量等的转移、传递:
+4 [U, C] 在体育运动中可指（运动员）转会:
+5 [U] [心理学] 迁移（将已习得的行为在新的情况下应用）:
+vt.&vi. 改编:
+n. 1 [U, C] 信息的传递、知识的传播:
+2 [U, C]（物理、化学等领域的）电荷、能量等的转移、传递:
+vt.&vi. 移交权力:
+vt.&vi.（使）转让权利、技术等:
+vt. ~ sth (to sb) 转让财产:
+n. 1 [U, C] 资金的转移、转账:
+2 [U, C] 所有权的转让:
+3 [U, C] 权力的移交:
+n. [C] [尤英] [美常用decal] 转印图画，转印图案；转印纸（利用挤压或加热，可从纸上转印到物体的表面）:
+n. [U, C] 生物学上的移植:
+vt.&vi.（使）传染疾病:
+vt.&vi. ~ (sb) (from…) (to…)（使）在旅途中转乘、换乘:
+n. 1 [U, C] 旅途中的换乘交通工具、改变路线:
+2 [C] [美]（火车、公交车等的）换乘票:
+transfer |[trænsˈfɜ:(r)]
+The film studio is transferring to Hollywood. 这家电影制片厂正迁往好莱坞。
+How can I transfer money from my bank account to his? 怎么才能把我账户上的钱转到他的账户上呢？
+to transfer assets abroad 向国外转移资产 
+I couldn't transfer all my credits from junior college.（尤美）我无法把我在专科学校的所有学分都转过来。
+If I spend a semester in Madrid, will my credits transfer?（尤美）如果我在马德里上一学期的课，我的学分能转过来吗？
+The patient was transferred to another hospital. 患者转送到了另一家医院。
+He was transferred from Weston Hospital to Frenchay. 他从韦斯顿医院转院到了法兰查。
+Remove the wafers with a spoon and transfer them to a plate. 用勺子抄起薄饼，把它们转盛到盘子里。
+She transferred the gravy into a gravy boat. 她把肉汁倒入船形卤汁盘。
+Children usually transfer to secondary school at 11 or 12. 儿童通常在11或12岁时升读中学。
+He transferred to UCLA after his freshman year. 他读完大学一年级后，转学到加利福尼亚大学洛杉矶分校。
+Ten employees are being transferred from the sales department. 十名雇员已调离销售部。
+I was transferred to the book department. 我被调到图书部。
+I suspect that she is going to be transferred. 我猜想她要被调走了。
+Joe had already transferred his affections from Lisa to Cleo. 乔已移情别恋，把爱意从莉萨转移到了克利奥身上。
+I realized she'd transferred all her love from me to you. 我意识到她已把所有的爱从我身上转移到了你身上。
+He transferred to Everton for £6 million. 他以600万英镑的转会费转到埃弗顿队。
+He was transferred from Spurs to Arsenal for a huge fee. 他以巨额转会费从热刺队转到阿森纳队。
+Nick Barmby who transferred from Spurs to Middlesbrough. 从热刺队转会到米德尔斯伯勒队的尼克·巴尔姆比 
+He was transferred from Crystal Palace to Arsenal for £2.5 million. 他以 250 万英镑的身价从水晶宫队转入阿森纳队。
+You can transfer data to a disk in a few seconds. 你可以在几秒钟内将数据转存到磁盘上。
+Such information is easily transferred onto microfilm. 这种信息很容易转存到缩微胶卷上。
+Data is easily transferred electronically. 利用电子手段传输数据很容易。
+systems to create film-quality computer effects and then transfer them to film 创造胶片级电脑画质并将之转录到胶片的系统 
+Skills cannot be transferred directly from a trainer to a trainee. 技能无法直接从培训师转给受训者。
+population transfer 人口迁移 
+The war caused a massive transfer of population. 战争造成大规模的人口迁移。
+There has been a net transfer of lower-paid people away from the inner cities. 低收入者移出内城区的人数已多于移入者。
+Her boss recommended a permanent transfer overseas. 她的老板建议调她常驻海外。
+He has asked for a transfer to the company's Paris branch. 他要求调到公司的巴黎分部。
+transfer student 转校生 
+The law schools accept a large number of second-year transfer students. 法学院接受了大量的二年级转校生。
+data transfer 数据传输 
+file transfer 文件传输 
+digital, electronic transfer 数字传输；电子传输 
+electronic data transfer 电子数据传输 
+transfer speed 传输速率；传输速度 
+data transfer rates of 6.4 GB per second 美秒6.4GB的数据传输速率 
+transfer process 传输过程 
+I did a file transfer from one PC to another. 我把一个文件从一台个人电脑上转移到另一台上。
+charge, electron, energy, heat, nuclear, thermal transfer 电荷转移；电子转移；能量传递；热量传递；核移植；热传递 
+It was the first goal he had scored since his transfer from Chelsea. 这是他从切尔西队转会过来之后的第一记入球。
+His club have given him a free transfer. 他的俱乐部同意他自由转会。
+transfer list, transfer market, transfer system 转会清单；转会市场；转会制度 
+transfer fee, transfer payment, transfer price 转会费；转会价格 
+transfer budget, transfer kitty 转会预算；转会资金 
+transfer deadline, transfer window 转会截止日期；转会窗口期 
+transfer deal 转会协议 
+The novel does not transfer well to the movies. 这部小说不太适宜改编成电影。
+information, knowledge transfer 信息传递；知识传播 
+charge, electron, energy, heat, nuclear, thermal transfer 电荷转移；电子转移；能量传递；热量传递；核移植；热传递           
+Sovereignty was formally transferred on December 27. 主权在12月27日正式移交。
+The Philippines needs capital and technology transfer. 菲律宾需要资本与技术转让。
+There will be a transfer of technology from this country to Mongolia. 这个国家将会向蒙古国进行技术转让。
+He transferred the property to his son. 他把财产转让给了儿子。
+He has already transferred ownership of most of the works to a British foundation. 他已把大部分作品的所有权转让给一家英国基金会。
+Certain kinds of property are transferred automatically at death. 死亡时某些财产会自动转让。
+balance（尤英）, bank, capital, cash, credit, financial, money, share（尤英）, stock transfer 余额转结；银行转账；资本转移；现金转账；信贷转账；财务转账；资金划拨；股份过户；股票过户 
+telegraphic transfer（英）电汇 
+the transfer of currency from one country to another 货币从一国到另一国的汇划 
+Employees are paid by direct transfer to a bank account. 雇员的工资直接转入银行账户。
+land, property transfer 土地转让；资产转让 
+resource transfer 资源转让 
+technology transfer 技术转让 
+Only the owner can make a transfer of goods. 只有货主才能转让货物。
+the transfer of property between private buyers 私人买家之间的资产转让 
+the smooth transfer of power to the new government 权力向新政府的顺利移交 
+After the election there was a swift transfer of power. 大选之后权力迅速交接。
+the transfer of sovereignty 主权的移交           
+gold letter transfers 金字转印纸
+embryo, gene transfer 胚胎移植；基因移植      
+This disease is rarely transferred from mother to baby (= so that the baby has it as well as the mother). 这种疾病很少由母亲传给婴儿。
+The chances of the disease being transferred to humans is extremely remote. 该疾病传播到人类身上的几率微乎其微。
+Can the disease be transferred across species? 这种疾病能跨物种传播吗？         
+I transferred at Bahrain for a flight to Singapore. 我在巴林转乘飞往新加坡的班机。
+Passengers are transferred from the airport to the hotel by taxi. 旅客自机场改乘出租汽车到旅馆。
+He likes to transfer from the bus to the Blue Line at 103rd Street in Watts. 他喜欢在华兹区第 103 大街下公交车转乘地铁蓝线。
+1,654 passengers were transferred at sea to a Norwegian cruise ship. 1,654 名乘客在海上转搭了一艘挪威游轮。
+The transfer from the airport to the hotel is included in the price. 票价包括从机场转车到旅馆的费用。
+
+n. [C, U] 一个人的体格或体形（即身体的形状和大小）:
+physique |[fɪˈzi:k]
+He has the physique of a rugby player. 他有橄榄球运动员的体格。
+She doesn't have the physique for a dancer. 她没有舞蹈演员的体形。
+He has the physique and energy of a man half his age. 他的体格和精力比得上年龄只有他一半大的人。
+men of powerful physique 体格强壮的男子 
+athletic, muscular, strong physique 强壮的体格；肌肉发达的体格；强健的体格 
+lean, slender physique 清瘦的体形；修长的体形
+
+n. 1 [C]（确保设备或机械正常运行的）技术员、技师:
+2 [C]（艺术、体育等领域的）技巧精湛者，精于技巧者:
+technician |[tekˈnɪʃn]
+laboratory technicians 实验室技术员 
+qualified, trained technician 合格的技术人员；受过培训的技术人员 
+trainee technician（英）实习技术员 
+dental, medical technician 牙科技师；医疗技师 
+computer technician 计算机技术员 
+lighting, sound technician 灯光师；音效师 
+ultrasound, X-ray technician 超声技师；X光技师 
+maintenance, service, support technician 维护人员；技术支持人员 
+a computer support technician 计算机技术支持人员 
+ambulance technician（美）救护车技术人员 
+a need to train technicians in construction methods 培训技术人员施工方法的必要性 
+a versatile, veteran player, a superb technician 技术全面、经验丰富、技巧娴熟的运动能手
+
+n. [C, U] 蛋白质:
+protein |[ˈprəʊti:n;美ˈproʊ-]
+natural protein 天然蛋白 
+animal, vegetable protein 动物蛋白；植物蛋白 
+a high protein diet 高蛋白饮食 
+Cereals supply essential protein and vitamins. 谷类食物可提供人体必需的蛋白质和维生素。
+Gluten is a protein found in wheat and other grains. 面筋是小麦和其他谷物含有的一种蛋白质。
+protein content 蛋白质含量 
+protein level 蛋白质水平 
+protein intake 蛋白质摄入量 
+protein deficiency 蛋白质的缺乏 
+a source of protein 蛋白质来源 
+Peas, beans and lentils are a good source of vegetable protein. 豌豆、豆荚和扁豆是植物蛋白质的大好来源。
+Fish was a major source of protein for the working man. 鱼肉曾是劳动者的主要蛋白质来源。
+
+adj. 1（事物）可用不同的方式来理解的（其理解方式多于一种）；有不同意思的。如模棱两可的，含混不清的:
+2 被陈述（或被定义）得不清晰的，如不明确的:
+ambiguous |[æm'bɪɡjʊəs]
+ambiguous word, ambiguous term, ambiguous statement, ambiguous account 模棱两可的词；模棱两可的用语；模棱两可的说法；模棱两可的陈述 
+The paragraph is rendered ambiguous. 这个段落的意思含糊不清。
+He was deliberately ambiguous. 他是故意含糊其辞。
+His role has always been ambiguous. 他的角色一直不明确。
+sexually ambiguous 性观念暧昧 
+a morally ambiguous character 道德观念模糊的人
+
+vt.&vi. 深深吸引某人、迷住某人:
+fascinate |[ˈfæsɪneɪt]
+China has always fascinated me. 中国一直令我心驰神往。
+It was a question that had fascinated him since he was a boy. 这是他自幼就着迷的问题。
+Politics fascinated Franklin's father. 政治让富兰克林的父亲着迷。
+She fascinated him, both on and off stage. 不管是台上还是台下的她，都让他着迷。
+The private lives of movie stars never fail to fascinate. 电影明星的私生活总为人所津津乐道。
+
+A gradual change or process occurs in small stages over a long period of time, rather than suddenly. 逐渐的
+gradual |英 ['grædʒʊəl]  美 ['ɡrædʒuəl]| adj. 逐渐的；平缓的/n. 弥撒升阶圣歌集/
+Losing weight is a slow, gradual process.减肥是一个缓慢而逐渐的过程。
+
+
+n. [C]（组织机构、公司等的）新成员:
+vt.&vi. 招募新人（使其加入一个公司、组织机构、学校、武装部队、警队等）:
+vt. 劝说某人去做某事，尤指劝说其去帮助别人:
+n. [C] 新兵:
+vt.&vi. 招募新人（使其加入一个武装部队）:
+vt. 通过招募新人来组建一支军队、团队等:
+n. [C] 新警员:
+recruit |[rɪˈkru:t]
+A common way for companies to find new recruits is by taking a stand at a job exhibition. 公司招人的常用方法是在招聘会上设置展台。
+It's difficult to attract recruits when working conditions are so poor. 工作条件如此恶劣，引进新人极为困难 
+Thousands of recruits had been enlisted and partly trained. 招募了数千新人，并对他们进行了一定程度的培训。
+She tried to gain recruits for the party. 她试图为该党吸收新成员。
+Their business schools provide recruits for domestic industry. 他们的商业学校为手工业生产输送新人。
+new recruits to the party 政党的新成员 
+tempts to attract new recruits to the nursing profession 吸引新成员进入护理行业的努力 
+graduate recruit（英）毕业生新人
+Soldiers were recruited from the local villages. 士兵都是从当地村庄招募的。
+Some of the men were recruited into the army. 一些男子被征召入伍。
+The police are trying to recruit more officers from ethnic minorities. 警察机关正试图从少数民族中征募更多的新警员。
+Recruiting students to Computer Systems Engineering, the University looks for evidence of all-round ability. 在招收计算机系统工程专业的学生时，这个大学看重的是学生的综合能力。
+They recruited several new members to the club. 他们吸收了几名新成员进入俱乐部。
+He's responsible for recruiting at all levels. 他负责各级征募工作。
+The specialist institutions directly recruit their own staff. 专家机构直接招募其所需人员。
+Senior managers are being aggressively recruited by companies. 公司正在千方百计地招募高级管理人员。
+GM recruited heavily in the South. 通用汽车公司在南方大量招人。
+Most of the workers will be recruited locally. 大多数工人都会在本地招募。
+She personally recruited the teachers. 她亲自招聘了这些教师。
+Staff were recruited specially for the event. 为此次活动特别招聘了一些工作人员。
+He has been recruited as Sales Manager. 他受聘为销售经理。
+A hundred patients were recruited for the study. 招募了一百名患者来参加此项研究。
+Ten new members were recruited to the committee. 十位新成员被吸收进委员会。
+a drive to recruit and retain federal employees 招募并留住联邦雇员的活动
+We were recruited to help peel the vegetables. 我们被找来帮着给蔬菜去皮。          
+raw recruits marching up and down with the drill instructor 在教官的带领下齐步行进的新兵 
+army, military recruit 部队新兵 
+the training of new recruits 新兵训练 
+He spoke of us scornfully as raw recruits (= people without training or experience). 他轻蔑地称我们是新兵娃娃。
+Soldiers were recruited from the local villages. 士兵都是从当地村庄招募的。
+Some of the men were recruited into the army. 一些男子被征召入伍。
+to recruit a task force 组建特遣部队
+police recruit 新警察
+
+vt. convey sth (to sb) 将想法、感情等传达或传递给某人，即表达。相对正式，虽不如express含义广泛和常用，但也算常用:
+vt. [正式] convey sb/sth (from ...) (to ...) 把…从一地运送至另一地，即传送、运输、输送等:
+convey |[kən'veɪ]
+Gestures can convey meaning as well as words. 手势和言语一样能够表达意思。
+I tried to convey the wonder of the book to him. 我曾试图让他知道这本书的神奇之处。
+He conveyed his enthusiasm to her. 他向她表达了自己的热情。
+This picture conveys a sense of hope. 这张图片给人一种希望。
+The novel vividly conveys the experience of growing up during the war. 这部小说生动地描绘了战争时期成长的经历。
+Pipes convey the water from the river to the fields. 管道把水从河里输送到田地里。
+
+n. 1 [U]（法律或道德意义上的）义务、职责:
+2 [C] 因已承诺（或因法律规定）而必须去做的事情，即义务，责任。相当于commitment:
+obligation |[ˌɒblɪˈgeɪʃn;美ˌɑ:b-]
+I am under no obligation to tell you my name. 我没有义务告诉你我的名字。
+She did not feel under any obligation to tell him the truth. 她觉得没有义务告诉他实情。
+You are under no obligation to buy anything. 你不必非买什么东西不可。
+Ministers are under no obligation to follow the committee's recommendations. 部长不必非得听从委员会的建议。
+We will send you an estimate for the work without obligation (= you do not have to accept it). 我们将寄上工程估算，仅供参考。
+Our mortgage advice is given free and without obligation. 我们免费提供按揭贷款建议，仅供参考。
+I don't want people coming to see me out of a sense of obligation. 我不想让别人迫于无奈来看我。
+legal, statutory obligations 法律上的义务；法定义务 
+obligations arising from your contract of employment 根据雇佣合同你须履行的义务 
+The builders failed to meet their contractual obligations. 建筑商没能履行合同中规定的义务。
+ethical, moral, religious, social obligations 道德义务；宗教义务；社会责任 
+We have a moral obligation to help. 在道义上我们有义务帮忙。
+debt, financial, pension obligations 债务方面的责任；财务方面的责任；养老金方面的责任 
+I can't travel next month because of family obligations. 出于家庭责任，我下个月不能去旅行。
+professional obligations 职业责任 
+mutual obligations 共同的责任 
+treaty obligations 条约规定的责任 
+A lawyer owes an obligation of confidence to the client. 律师有为当事人保密的义务。
+The United States will do that which is necessary to meet its obligations to its own citizens. 美国将为自己的公民尽其应尽的义务。
+When teachers assign homework, students usually feel an obligation to do it. 老师布置作业时，学生通常认为完成作业是一种义务。
+
+n. [C, U]（尤指在法庭上的）正式的书面或口头证词:
+n. [U, sing.] ~ (to sth)（证明某事物存在或真实的）证据:
+testimony |[ˈtestɪməni;美-moʊni]
+credible, reliable testimony 可信的证词；可靠的证词 
+uncorroborated testimony 未经证实的证词 
+false, perjured testimony 伪证 
+sworn testimony 宣誓证词 
+verbal, written testimony 口头证词；书面证词 
+video, videotaped testimony 视频证词；录像证词 
+eyewitness, witness, personal testimony 目击者证词；证人证词；个人证词 
+expert testimony 专家证言 
+court testimony 法庭证言 
+a transcript of the trial testimony 庭审证言的文字记录 
+public testimony（美）公开做证 
+congressional, grand jury testimony（均美） 国会做证；大陪审团做证 
+Her testimony was corroborated by the other witnesses. 她的证言得到了其他证人的证实。
+The government was able to compel his testimony. 政府能够迫使他做证。
+He had by his own testimony taken part in the burglary. 根据他本人的证言，他参与了这起入室盗窃案。
+In testimony before the Crown Court, she described her movements on the day of the murder. 在向刑事法庭提供的证言中，她讲述了凶杀案案发当日她的行踪。
+The witness was called to give oral testimony about the incident outside the theatre. 证人被传唤就剧院外面发生的事件做证。
+The court heard her testimony against the accused. 法庭听取了她指证被告的证言。
+his testimony before a Senate committee 他在一个参议员委员会所做的证言。
+Can I refuse to give testimony? 我能拒绝作证吗？
+His testimony was an important element of the Prosecution case. 他的证词是这宗公诉案件中的一个重要因素。
+Prosecutors may try to determine if Robb gave false testimony when he appeared before the grand jury. 检方可能要努力查证罗布在大陪审团面前是否作了伪证。
+This increase in exports bears testimony to the successes of industry. 出口增长证明了产业的成功。
+The pyramids are an eloquent testimony to the ancient Egyptians' engineering skills. 金字塔是古埃及人非凡工程技术的明鉴。
+This book is testimony to a very individual kind of courage. 这本书显示了个人非凡的勇气。
+His thick, swollen fingers bore testimony to a lifetime of toil. 他粗壮肿胀的手指是一生劳作的见证。
+Her living room is also her office, filled with desks, books, papers, a testimony to her dedication to her work. 她的客厅也是她的办公室，里面摆满了书桌、书籍和文件，充分证明了她的敬业精神。
+
+vt.&vi.（使）碎裂、破裂、分裂:
+n. [C] 碎片、片段:
+fragment |[ˈfrægmənt]
+The clouds fragmented and out came the sun. 乌云散开，太阳出来了。
+Fierce rivalries have traditionally fragmented the region. 激烈的竞争已经如从前一样使得该地区四分五裂。
+Police found fragments of glass near the scene. 警方在现场附近发现了玻璃碎片。
+The shattered vase lay in fragments on the floor. 打碎的花瓶在地上成了一堆碎片。
+fragments of pottery 陶器碎片 
+rock fragment 岩石碎块 
+fragments of metal in my shoulder 我肩膀里的几块金属碎片 
+I overheard a fragment of their conversation. 我无意中听到他们谈话的只言片语。
+She read everything, digesting every fragment of news. 她什么都看，对新闻的每个片段都细细品味。
+a fragment of information 一个信息碎片 
+We had difficulty in piecing together the fragments of her story. 我们很难把她那支离破碎的故事片段拼合起来。

@@ -1,0 +1,598 @@
+restriction						限制，限制规定
+minor								较小的，未成年人
+grain								谷物，颗粒，少量，纹理
+rate								速度，比率，价格，工资，评估
+radically							根本的
+distinct							清晰的，明显的，不同的
+equality							平等
+hardworking						努力工作的
+qualification						资格，素质
+bacteria							细菌
+corporate							全体的，公司的，联合的，企业集团
+undermine							暗中颠覆，暗中破坏，侵蚀
+selfish							自私的
+cater								满足...的需要
+survival							存留，幸存者
+favor								赞同，好处，善意行为，较喜欢，赐予
+conflict							冲突
+client							委托人，客户
+garage							车库，加油站
+fatigue							疲劳，制服
+plant								植物，工厂，机器，播种，安放，给予
+endanger							危害，危及
+operation							运行，实施，手术，行动
+handle							把手，理解，称呼，对待，应付，涉及
+handle with care					小心搬运
+laborious							艰巨的，生硬的
+passion							激情，激愤，情欲，酷爱
+cooperative						合作的，合作机构
+inflate							给...充气，夸大，使...上涨
+resourceful						足智多谋的
+exaggerate							夸大
+\\\\\\\\
+
+n. 1 [C] restriction (on sth) 限制性的规则或法规（主要限制人的行为、事件、事物的数量或尺寸等）:
+2 [U] 行为意义上的限制，约束:
+3 [C] 对自由进行限制的因素，即制约因素:
+restriction |[rɪ'strɪkʃn]
+contractual restriction（尤英）合同约束 
+legal restriction 法律约束 
+access, security restriction 访问限制；安全限制 
+budgetary restriction 预算限制 
+copyright restriction 版权限制 
+age, speed, time, weight restriction 年龄限制；速度限制；时间限制；重量限制 
+gun, parking restriction 枪支限制；停车限制 
+export restriction 出口限制 
+immigration restriction 移民限制 
+vehicle restriction 车辆限制 
+The regulations were seen as a restriction on personal freedom. 这些规定被视作对人身自由的限制。
+the restriction of basic civil liberties 对公民基本自由的限制 
+Citizens of the EU can travel without restriction within the EU. 欧盟的公民在欧盟境内可以不受限制地出入各国。
+sports clothes that prevent any restriction of movement 宽松的运动服 
+dietary restriction 饮食限制 
+the health benefits of calorie restriction 限制热量给健康带来的好处 
+the restrictions of prison 监狱的种种约束
+
+adj. [常用于名词前] 些微的、些许的:
+adj. [常用于名词前] 较小的:
+n. [C] [法律]（未到法定成年年龄而无需负法律责任的）未成年人（在英国和美国多数州指未满18岁的人，在法律上仍然视为儿童）:
+adj. [音乐] 小调的；小音阶的:
+n. [C] [尤美]（美国大学中的）辅修生:
+n. [C] [尤美]（美国大学中的）辅修科目:
+vi. [美] ~ in sth（在大学里）辅修（某个科目）:
+adj. [常用于名词前] 次要的:
+adj. [常用于名词前] 轻微的，不严重的:
+minor |[ˈmaɪnə(r)]
+There may be some minor changes to the schedule. 时间安排也许会有些小小的变动。
+a minor road 小路
+It is an offence to serve alcohol to minors. 向未成年人提供含酒精的饮料是违法的。
+the key of C minor C小调 
+the unfinished sonata movement in F minor 未完成的F小调奏鸣曲乐章
+a geology minor 地质学辅修生
+I'm minoring in computer science. 我辅修计算机科学。
+Women played a relatively minor role in the organization. 在这个组织中，妇女发挥着相对次要的作用。
+She is known in Italy for a number of minor roles in films. 她因在电影中饰演了一些配角而在意大利为人所知。
+minor injuries 轻伤 
+Sarah had been plagued continually by a series of minor illnesses. 萨拉一直小病缠身。
+His mother had to go to the hospital for minor surgery. 他母亲得去医院做一个小手术。
+This is a very minor operation and there is very little risk involved. 这是个很小的手术，没有什么风险。
+youths imprisoned for minor offences 因犯轻罪而被关押的年轻人 
+Western officials say the problem is minor, and should be quickly overcome. 西方官员称这个问题并不严重，应该很快就会解决。
+That's a relatively minor matter--we can leave it till later. 相对来说那是件小事，我们可以留待以后解决。
+
+n. [C] 尤用于否定句，非常少的数量，即微量、一点儿:
+n. [U] 木头、织物或岩层等的纹理；由各条线（或纹理）所形成的样式或图案:
+n. [C] 一种微小的重量单位，相当于0.0648克，即格令，可用于称量药品等:
+n. [C] 一粒…:
+n. [U, C] 表面的粗糙感或光滑感，即质感、触感、质地:
+n. [C] 某种物质的小而硬的颗粒:
+n. [U, C] 农作物的小而硬的种子颗粒，如小麦、稻米等，即谷物、谷粒；一粒种子颗粒:
+grain |[ɡreɪn]
+There wasn’t a grain of truth in what he said. 他说的一点也不对。
+wood grain 木纹
+a grain of sand 一粒沙 
+a grain of salt 一粒盐
+wood of fine grain 质地细腻的木头
+a grain of sand 一粒沙 
+a grain of salt 一粒盐
+a few grains of wheat 几粒小麦 
+rice grain 米粒 
+pollen grain 花粉粒 
+grain yield 粮食产量 
+grain crop 粮食作物 
+grain exports 谷物出口
+
+vt. 足够好（或重要等）而配得上某种方式的对待:
+vt. [非正式] 认为…是好的，即看好…:
+n. [C] 某事发生的频率:
+vt. 常用被动式，将人或事物置于（同类事物的）某个等级中，相当于rank:
+n. [C] 某事发生的速度、进度或频率。除了可表示一个连续事件在单位时间内的发生或完成总量（此时相当于speed，既可指某人或事物运动或穿行的速度，也可指某事发生或被执行的速度，但远没有speed常用）外，更强调在单位时间内所发生的某种独立事件的次数 ，如一分钟内脉搏的次数、一年内发生离婚案的次数等:
+vt. 常用被动式，对电影或视频录像进行分级（使其适合于特定的观众）:
+n. [C] 比率；率:
+rate as sth 对…的品质、价值等进行评价（评价该品质、价值等处于何种水平），常与高低、成败、好坏等表示某种等级的词共同出现:
+n. [C] 价格，专指根据某一标准所规定的价格（而并非胡乱要价）。如果特别强调这笔钱的性质或用途，还可翻译为“费用”、“报酬”等:
+n. 1 [C] 卖方根据某一标准所规定的“费用”。其词义为charge所涵盖，但rate更能体现具体收费额度的标准性和合理性，且常是服务性收费:
+2 [pl.] rates 在英国可指由地方政府向各企业征收的土地及房地产的使用税，在过去也可指地方政府向任何住宅拥有者所征收的税:
+vt. 常用被动式，将人或事物置于（同种类事物的）某个等级中，相当于rank:
+rate |[reit][reɪt]
+The incident didn’t even rate a mention in the press. 这件事在报纸上连提都不值得一提。
+This is so extraordinary, it rates a medal. 这太了不起了，应该颁发一枚奖章。
+What did you think of the movie? I didn’t rate it myself. 你觉得这部电影怎么样？我本人认为不怎么样。
+New diet books appear at a rate of nearly one a week. 饮食方面的新书以几乎每周一本的频率出版。
+The schools were rated according to their exam results. 这些学校是按考试成绩排名的。
+Most people walk at an average rate of 5 kilometres an hour. 大多数人步行的平均速度为每小时5公里。
+The water was escaping at a rate of 200 gallons a minute. 水以每分钟200加仑的速度溢出。
+The costs of the project are rising at an alarming rate. 这项工程的成本以惊人的速度增长着。
+Local businesses are closing at a rate of three a year. 地方企业正在以每年三家的速度关闭。
+At the rate you work, you’ll never finish! 以你工作的速度，你永远也做不完！
+success rate 成功率 
+divorce rate 离婚率 
+death rate 死亡率 
+recovery rate 治愈率 
+unemployment rate 失业率
+vt.＆vi. rate sb/sth (as) sth 
+The university is highly rated for its research. 这所大学因其研究工作而受到高度评价。
+They rated him highly as a colleague. 作为同事，他们对他评价甚高。
+Voters continue to rate education high on their list of priorities. 选民继续把教育看作是头等重要的大事。
+The match rated as one of their worst defeats. 这次比赛可以说是他们最为惨重的一次失败。
+I’m afraid our complaints do not rate very high with this company. 这家公司恐怕不会重视我们的投诉。
+usual rate 通常价格 
+going rate 现行价格 
+group rate 团体价格 
+discounted, reduced rate 打折价；优惠价 
+to offer special reduced rates for students 对学生有特惠价格
+advertising, insurance, postal rates 广告费；保险费；邮费 
+a high hourly rate of pay 按小时支付的高报酬 
+the basic rate of tax 基本税额 
+exchange, interest rates 汇率；利率 
+fixed, flat rate 固定的费用 
+annual rate 年费 
+group rate 团体价格 
+discounted, reduced rate 打折价；优惠价 
+special weekend rate 周末特价 
+The schools were rated according to their exam results. 这些学校是按考试成绩排名的。
+a top-rated programme 一级项目 
+She is currently rated number two in the world. 她目前排名世界第二。
+He is generally rated the country’s No. 3 industrialist. 他被大家普遍看成该国的第3大实业家。
+a golf course that is rated among the top ten in America 美国十大顶尖高尔夫球场之一 
+The difficulty of each exercise is rated on a scale of 1 to 5. 每个练习的难度按1到5分的计分等级进行评定。
+
+in a thorough or fundamental way, completely:以彻底或根本的方式，完全
+radically |ˈradɪkli| Adverb/:根本,从根本上,彻底
+you must radically change the way you do business:你必须从根本上改变你做生意的方式
+
+adj. 容易被看到、听到或感觉到的，如清楚的、清晰的、明显的:
+adj. 容易被听到的，如清楚的、清晰的:
+adj. 容易被看到的，如清楚的、清晰的:
+adj. ~ (from sth) 截然不同的；有区别的；不同种类的:
+adj. [只用于名词前] 确实的、确定无疑的:
+distinct |[dɪˈstɪŋkt]
+There was a distinct smell of gas. 有一股明显的煤气味。
+Now that Tony was no longer present, there was a distinct change in her attitude. 由于托尼不在场了，她的态度有了明显的转变。
+Being 6ft 3in tall has some distinct disadvantages! 身高6英尺3英寸有些明显的不便之处！
+Another Cup marathon between the two sides is now a distinct possibility. 双方很可能再进行一场马拉松式的优胜杯比赛。
+His voice was quiet but every word was distinct. 他说话声音不大，但字字清晰。
+I have distinct memories of him in his last years. 我清楚地记得他最后几年的情况。
+to impart a distinct flavor with a minimum of cooking fat 用最少量的食用油来调出一种独特的口味
+His voice was quiet but every word was distinct. 他说话声音不大，但字字清晰。
+The results of the survey fell into two distinct groups. 调查结果分为截然不同的两组。
+This book is divided into two distinct parts. 这本书分为内容不同的两部分。
+Jamaican reggae music is quite distinct from North American jazz or blues. 牙买加的雷盖音乐完全不同于北美的爵士乐或布鲁斯音乐。
+rural areas, as distinct from major cities 完全不同于大城市的农村地区 
+Engineering and technology are disciplines distinct from one another and from science. 工程学和工艺学互不相同，也有别于自然学科。
+There's a lot of evidence that oily fish, as distinct from fatty meat, has a beneficial effect. 有许多证据表明油性鱼，与高脂肪肉不同，对人体有益。
+It is necessary to keep these two issues distinct. 有必要把这两个问题区分开来。
+Manufacturers hope their new products will be sufficiently distinct to command higher prices. 制造商希望新产品足够与众不同，能以更高的价格销售。
+Political power should be regarded as analytically distinct from economic power. 政治力量应与经济力量区别开来分析。
+geographically distinct regions 地理上不同的地区 
+The various dialects are quite distinct from one another. 各种方言之间存在着相当大的差异。
+She was studying lung cancer, as distinct from other types of cancer. 她正在研究肺癌，这不同于其他类型的癌症。
+Being tall gave Tony a distinct advantage. 托尼个子高是个明显的优势。
+I had the distinct impression I was being watched. 我确实感到有人在监视我。
+A strike is now a distinct possibility. 目前罢工确有可能发生。
+
+n. [U]（在一个社会、组织或家庭中所体现的）全体成员之间在权利、地位、优势、责任等方面的平等:
+equality |[ɪ'kwɒlɪtɪ]
+sexual, racial equality 性别平等；种族平等 
+equality between men and women 男女平等 
+equality before the law 法律面前的平等 
+equality of opportunity 机会的平等
+
+
+hardworking | 任劳任怨,用功,刻苦,勤劳,勤奋
+
+n. 1 [C] 为某一工作或活动所需的一项技能（或一种经验），现实中可称为资格、资历:
+2 [U] 通过一项考核、完成一门训练课程、达到做某项工作（或参加某项比赛）所需的标准（是一种已达成了的既定事实）。即获得资格、合格、达到标准:
+n. [C, usually pl.] [英] 所通过的考试，或成功学完的课程，现实中可称为学历、资格:
+n. [C, U] 你对某一陈述所附加的一条限定性信息（可限定此陈述的效用或其所适用的情况），相当于proviso:
+qualification |[͵kwɒlɪfɪ'keɪʃn]
+Previous teaching experience is a necessary qualification for this job. 教学经验是从事这项工作的一个必备条件。
+He held no formal qualification in law. 他在法律方面不具备任何正式的资质。
+Nurses in training should be given a guarantee of employment following qualification. 接受培训的护士取得资格后应有工作保障。
+A victory in this game will earn them qualification for the World Cup. 这场比赛的胜利将使他们取得世界杯的参赛资格。
+academic, educational, professional, vocational qualifications 学术资历；教育学历；专业资质；职业资历 
+nursing, teaching qualification 护理资格；教学资格 
+He left school with no formal qualifications. 他离开学校没有获得正式学历。
+In this job, experience counts for more than paper qualifications. 干这项工作，经验比文凭更重要。
+The plan was approved without qualification. 这项计划获得无条件批准。
+I agree with his view, with a few qualifications. 我同意他的观点，但是有一些保留。
+The term ‘population’ as used here requires qualification. 这里使用的“人口”一词需要限定一下。
+
+
+bacteria | 细菌,菌,微生物
+
+relating to a large company or group:与大公司或集团有关
+(of a large company or group) authorized to act as a single entity and recognized as such in law:（大型公司或集团）被授权作为单一实体行事并在法律上被承认
+of or shared by all the members of a group:
+a corporate company or group.:企业公司或集团。
+corporate |ˈkɔːp(ə)rət| Adjective/Noun/:公司的,企业
+airlines are very keen on their corporate identity:airlines非常热衷于他们的企业形象
+local authorities, like other corporate bodies, may reduce capital spending:地方当局，与其他公司机构一样，可能会减少资本支出
+the service emphasizes the corporate responsibility of the congregation:服务强调会众的企业责任
+
+vt. 从根基处破坏（例如通过挖掘其根基来破坏某人的能力、努力或成功的机会）:
+vt. 间接削弱体制等:
+vt. 逐渐削弱…，尤指间接削弱某人的权威或地位:
+vt. 间接削弱某人的感情或信心、士气:
+undermine |[ˌʌndəˈmaɪn;美-dərˈm-]
+It ultimately undermined his ability to play. 这最终削弱了他的比赛能力。
+The continued fighting threatens to undermine efforts to negotiate an agreement. 持续的战斗会破坏希望通过谈判来达成协议的努力。
+I don't want to do something that would undermine the chances of success. 我不想做会影响成功机会的事情。
+Western intelligence agencies are accused of trying to undermine the government. 西方情报机构被指责企图动摇该政府的统治。
+The conversations were designed to undermine her authority so she felt that she could no longer work for the company. 这些谈话有意削弱她的威信，这样她会觉得自己在公司干不下去。
+His position within the government has been seriously undermined. 他在政府中的地位遭到严重削弱。
+This crisis has undermined his position. 这场危机已削弱了他的地位。
+Offering advice on each and every problem will undermine her feeling of being adult. 对每个问题都给出建议会令她觉得自己不像个成年人。
+Our confidence in the team has been seriously undermined by their recent defeats. 该队最近的几次失败已严重动摇了我们对他们的信心。
+She undermined him and destroyed his confidence in his own talent. 她暗中打击他，让他对自己的才华信心全无。
+a terror attack intended to undermine the morale of citizens 旨在打击市民士气的一次恐怖袭击
+
+adj. 只关心自己而不关心其他人的，即自私的:
+selfish |['selfɪʃ]
+selfish behaviour 自私的行为 
+He is completely selfish. 他自私透顶。
+
+vt.＆vi. cater (for sb/sth) 为一场社交活动提供食物和饮料，即提供饮食，承办宴席:
+cater |['keɪtə]
+to cater the wedding 承办婚宴
+
+n. 1 [U]（人或生物在危险情况下的）存活:
+2 [C] survival (from sth) 幸存的事物，残存物:
+相当于relic:
+n. [U]（事物或人设法继续在困境中进行的）生存:
+survival |[sə'vaɪvl]
+If cancers are spotted early there’s a high chance of survival. 如果癌症早被发现，存活的机率就高。
+survival skills, survival strategy 生存技能；生存策略 
+survival guide, survival kit 生存指南；救生包 
+survival instinct 求生本能 
+Darwin’s theory of the survival of the fittest 达尔文的适者生存理论 
+The ceremony is a survival from ancient Greek times. 这种仪式是从古希腊时期遗留下来的。
+human, national survival 人类生存；民族生存 
+The company has been struggling for survival. 这家公司一直在设法存活下去。
+For the poorest people, life was merely a matter of survival. 对最贫穷的人来说，生活只是争取活命。
+the struggle for survival against such well-armed enemies 与装备精良的敌人进行的生死之战 
+his survival as leader 他的领导地位的维持 
+Adaptability is essential to survival in a changing environment. 在多变的环境中，适应性对维持生存不可或缺。
+
+
+favor | 青睐,恩惠
+
+n. [C] 观点、想法、感情、意愿等事物之间的抵触、冲突、矛盾，难以抉择的情况:
+vi. conflict (with sth) 两种观点、信念、说法等相冲突，矛盾，与clash同义:
+conflict (over sth) 人、群体或国家之间的冲突、争执、分歧。是“冲突”的常规用词:
+n. [C] 军事冲突:
+conflict |['kɒnflɪkt]
+a conflict between love and duty 爱情与责任之间的矛盾 
+Her diary was a record of her inner conflict. 她的日记记录了她内心的矛盾。
+emotional, ideological conflict 情感上的分歧；意识形态上的分歧 
+in direct conflict with his wishes 与他的愿望截然相反 
+the conflict between science and religion 科学和宗教之间的矛盾 
+a serious conflict of opinion 观点上的严重分歧
+conflicting emotions, conflicting interests, conflicting values 相互矛盾的感情；相互冲突的利益；相互冲突的价值观 
+These results conflict with earlier findings. 这些结果与早期的发现相矛盾。
+His opinions conflicted with mine. 他的看法与我的相左。
+international, regional conflict 国际冲突；地区冲突 
+family, generational conflict 家庭内的矛盾；不同年代人之间的矛盾 
+class, cultural, ethnic, political, religious conflict 阶级冲突；文化冲突；族群冲突；政治冲突；宗教冲突 
+a conflict of interest 利益冲突 
+John often comes into conflict with his boss. 约翰经常和他的老板发生争执。
+a conflict over ownership of the land 就土地所有权问题产生的争执 
+the inherent conflict between what farmers and environmentalists want 农民的需求与环保主义者的愿望之间固有的矛盾
+armed, military conflict 武装冲突；军事冲突
+
+n. [C] [计算机]（连接在服务器上的）客户机:
+n. [C]（提供咨询或服务的专业人士或专业机构的）客户，在具体语境下也可翻译为委托人、当事人，但词义核心不变，即专业服务的享受者:
+client |[ˈklaɪənt]
+a solicitor and his client 律师和他的委托人 
+a lawyer with many famous clients 拥有许多著名委托人的律师 
+Social workers must always consider the best interests of their clients. 社会工作者必须时刻考虑其当事人的最佳利益。
+The company required clients to pay substantial fees in advance. 公司要求客户预付一大笔费用。
+The company needs to focus on its biggest clients. 公司需要把注意力集中在最大的那些客户身上。
+business, corporate client 生意上的客户；公司客户 
+celebrity client 名人客户 
+A new branch has been opened to serve clients in Dallas. 服务于达拉斯客户的新分公司已开张营业。
+She's so busy that she's not taking on any new clients. 她太忙了，不接新客户。
+a campaign to attract new clients 吸引新客户的活动 
+On behalf of my client, I would like to remind you of your obligations in this matter. 我谨代表我的当事人提醒你注意在此事中你应尽的义务。
+
+n. [U] 车库音乐:
+n. 1 [C] 用于停车（可停一辆或多辆）的一个建筑物，即车库:
+2 [C] 汽车修理厂（但也可兼营汽车销售或汽油销售）:
+vt. 把车辆送入（或存放在）车库或修理厂:
+garage |['ɡærɑːӡ]
+attached（尤美）, detached garage 附带的车库；独立的车库 
+underground garage 地下车库 
+bus garage（尤英）公交车车库 
+parking garage（美） 停车场 
+garage door 车库门 
+garage space 车库空间 
+I took the car to the local garage to get it fixed. 我把车送到当地的修车厂修理。
+garage owner 修车厂厂主 
+garage business 修车业务 
+
+n. [U]（金属或木材由于重复弯曲或拉伸所导致的）疲劳:
+n. [pl.] fatigues可指士兵在战斗或训练时所穿的宽松服装，如作训服:
+n. 1 [U]（例如由于繁重的工作或锻炼所导致的）极端疲惫:
+2 [U]（通常置于另一名词后）由于做某项活动太多而导致的厌倦:
+n. [pl.] [尤美] fatigues可指士兵不得不去做的一些杂役（如清洁或做饭），尤其作为一种惩罚:
+fatigue |[fəˈti:g][fəˈti:gz]
+The wing of the plane showed signs of metal fatigue. 机翼显示出金属疲劳的迹象。
+army, battle, combat, military fatigues 陆军军服；作战服；军装 
+camouflage fatigues 迷彩服 
+soldiers in combat fatigues 身穿作战服的军人 
+He never expected to return home wearing US combat fatigues. 他从没想到会穿着美国军服回家。          
+physical and mental fatigue 身体和精神的疲劳 
+muscle fatigue 肌肉疲劳 
+Driver fatigue was to blame for the accident. 这个事故是驾驶员疲劳所致。
+I was dropping with fatigue and could not keep my eyes open. 我快要累倒了，眼睛也睁不开了。
+She continued to have severe stomach cramps, aches, fatigue, and depression. 她仍然患有严重的胃痉挛，感觉疼痛、疲乏、抑郁。
+Clarke says his team could have lasted another 15 days before fatigue would have begun to take a toll. 克拉克说，他的团队本来还可以再坚持15天，只是疲劳可能会造成严重后果，只好作罢。
+swimmers who are in a state of extreme fatigue 疲惫不堪的游泳者 
+chronic fatigue syndrome 慢性疲劳综合征 
+The man was shivering with fatigue. 这个男人累得浑身发抖。
+The right vitamins help you combat fatigue. 适当服用维生素能够帮你抵抗疲劳。
+simple lifestyle strategies to prevent fatigue 防止疲劳的简单生活方式 
+She had to stop work when fatigue set in. 疲劳袭来时，她不得不停止工作。
+compassion fatigue caused by endless TV and celebrity appeals 没完没了的电视节目和名人呼吁而导致的同情心疲劳 
+the result of four months of battle fatigue 四个月的战斗疲劳带来的后果
+
+vt. 把（某事物或你自己）牢固地安放在某处:
+n. [C] 植物，常指比树或灌木小的植物。是此义的常规用词:
+n. [C] 发电厂；工厂:
+n. [U] 常指工业用的大型机械设备:
+vt. 1 播种或栽种植物等（其含义比sow广泛，sow只表示播撒种子）:
+2 plant sth (with sth) 在某处栽种…:
+vt. 把…秘密放置在某处以使其不被发现，尤指埋设炸弹:
+n. [C] 打入犯罪集团或敌人内部的卧底、内线。从收集情报的角度，plant是一种spy，但一个plant有时还负有别的责任，如在敌人内部从事各种破坏活动，此时其词义范围则超出了spy:
+vt. plant sb (in sth) 让某人加入某个组织，尤指为了获取关于该组织成员的秘密情报，即安插（卧底）:
+vt. plant sth (in sth)（尤指悄无声息地）把思想、信念植根于某人心中:
+n. [C, usually sing.] [非正式] 用来栽赃的物品:
+vt. plant sth (on sb) 给某人栽赃，即把…（如武器、毒品等）放在某人处以使人们错误地认为此人犯了罪:
+plant |[plɑːnt]
+to plant a flag on the building 在那栋建筑物上插一面旗 
+He planted his feet wide. 他双脚大步稳稳分开。
+She planted a kiss squarely on his cheek. 她郑重地在他面颊上印上一个吻。
+He was determined to keep both feet firmly planted on dry land. 他坚持不下水。
+wild plant 野生植物 
+tropical plant 热带植物 
+crop plant 农作物 
+desert plant 沙漠植物 
+climbing plant 攀缘植物 
+woody plant 木本植物 
+plant cell 植物细胞 
+plant science 植物学
+chemical plant 化工厂 
+assembly, manufacturing, production plant 装配厂；制造厂；生产厂 
+car assembly plants 汽车装配厂 
+nuclear, power plant 核电厂；发电厂 
+processing, sewage, treatment, water, water-treatment plant 炼油厂；污水处理厂；处理厂；水厂；水处理厂 
+petrochemical plant 石油化工厂 
+plant manager 工厂经理
+to invest in plant and equipment 投资购置大型机械设备
+to plant vegetables 种蔬菜 
+planted maples 栽种的枫树 
+planted grape 种植的葡萄 
+The garden was planted with roses. 花园里种着玫瑰。
+He decided to plant the area with grass and trees. 他决定将这块区域种上草和树。
+to plant a vegetable garden 种植一个蔬菜园
+He had admitted planting the bomb. 他承认埋设了炸弹。
+to plant an undercover detective 安插一名卧底侦探
+to plant the seeds of freedom in sb’s mind 在某人的思想里埋下自由的种子
+He claimed that the drugs had been planted to incriminate him. 他声称毒品是有人放在他那里的，目的是要栽赃给他。
+
+vt. 使…处于危险之中:
+endanger |[ɪnˈdeɪndʒə(r)]
+Taking these drugs could seriously health your health. 服用这些药可能严重危害你的健康。
+The health of our children is being endangered by exhaust fumes. 我们孩子们的健康正受到排放出的废气的损害。
+That one mistake seriously endangered the future of the company. 那一个失误就严重地危及了公司的未来。
+They are accused of causing an explosion likely to endanger life. 他们被控引发了一起可能危及生命的爆炸事件。
+The debate could endanger the proposed peace talks. 这一争论可能会危及提议进行的和平谈判。
+endangered species such as lynx and wolf 猞猁、狼等濒危物种 
+The sea turtle is an endangered species (= it may soon no longer exist). 海龟是濒危物种。
+14%6 of primate species are highly endangered. 14% 的灵长类物种处于高度濒危状态。
+
+n. [U]（机器的）操作:
+n. [U]（系统的）运转，运行:
+n. [C]（若干人所进行的有组织的）活动或行动:
+n. [C, U] 机器（尤指计算机）所执行的任务，即运算:
+n. [C] 数学运算。相对正式:
+n. [U]（机器的）运转，运行:
+operation (to do sth) 手术。是此义的常规用词，极为常用:
+n. [C]（工商业的）活动，业务:
+n. [C]（包括很多部分的）企业，公司:
+n. [C] 军事行动（此时通常用复数）:
+operation |[͵ɒpə'reɪʃn]
+Operation of the device is fairly simple. 这个装置的操作相当简单。
+There are three ski lifts in operation. 有三辆滑雪缆车在运行。
+A ceasefire came into operation in May. 停火于五月生效。
+The factory will cease operation at the end of the year. 该工厂将于年底停工。
+The current tax system has been in operation for ten years. 现行税制已运行十年了。
+the smooth day-to-day operation of the department 该部门平稳的日常运转 
+psychological operations 心理活动
+to launch a major operation against drug suppliers 发动一次打击毒贩的大规模行动 
+relief, rescue, security, police, undercover operation 救助行动；营救行动；安全行动；警方行动；秘密行动
+The whole operation is performed in less than three seconds. 全部运算在三秒内完成。
+smooth operation of the engine 发动机的顺畅运转 
+The machine can get very hot during operation. 这台机器运转时会变得很热。
+the only reactor in full operation 唯一全面运转的反应堆
+to recover from an operation 从手术中恢复过来 
+an operation for a kidney problem 肾病手术 
+an operation on his lung to remove a tumour 为他做肺部肿瘤切除手术 
+You need to have an operation. 你需要动手术。
+major operation 大手术 
+minor, small operation 小手术 
+surgical, transplant operation 外科手术；移植手术 
+heart operation 心脏手术 
+the surgeon performing the operation 动手术的外科医生
+the firm’s operations overseas 该公司的海外业务 
+banking, building, business, commercial operation 银行业务；建筑施工；商业活动 
+flight operations 航班业务
+an electronics operation 电子公司 
+a multinational operation 跨国公司 
+combat, intelligence, military, naval operation 作战行动；情报行动；军事行动；海军行动 
+air, ground, land, sea operation 空中行动；地面行动；陆地行动；海上行动 
+guerrilla operation 游击队行动 
+counterterrorist, drilling, mopping-up, offensive, peacekeeping, rescue operation 反恐行动；演习行动；清剿行动；进攻行动；维和行动；营救行动 
+special operations forces 特别行动部队 
+a theatre/theater of operations 战区
+
+vt. 对待:
+vt. 处理或应付（一种局势、一个人、一摊工作或一种强烈情绪）。是此义的常规用词:
+vt. 控制或操纵（一台车辆、一只动物、一件工具等）:
+vi. handle well/badly 驾驶（或控制）起来容易（或困难）:
+vt. 用手移动某事物:
+The label on the box said: ‘Fragile. Handle with care.’ 箱子上的标签写着:
+vt. 用手抓握某事物。并不强调力度大小（如轻拿轻放就可用handle），仅表示一种事实:
+The label on the box said: ‘Fragile. Handle with care.’ 箱子上的标签写着:
+vt. 用手触摸某事物。词义已为touch所涵盖，且不如touch常用:
+n. 1 [C]（门窗、抽屉等的）把手或拉手（用于将其打开）:
+2 [C] 物品（如杯子、袋子或工具）的手柄（用于抓握或搬运）:
+adj. -handled构成形容词，指有某个数量（或某种类型）的手柄的:
+vt. 买或卖某东西，词义相当于deal in，但不太常用:
+handle |['hændl]
+Many of the prisoners were roughly handled; some were killed. 很多囚犯受到了粗暴的对待；有些被整死了。
+This matter has been handled very badly. 这件事处理得很糟糕。
+to handle a situation 应对局势 
+to handle a problem 应对问题 
+to handle a crisis 应对危机 
+to handle a wide variety of queries 处理各种各样的咨询 
+to handle many calls 处理很多电话 
+She knew how to handle publicity. 她知道如何做宣传。
+Large meetings are more difficult to handle. 大型会议更难操办。
+She’s very good at handling her patients. 她对待病人很有办法。
+The sale was handled by Adams Commercial. 亚当斯公司经营这笔买卖。
+We all have to learn to handle stress. 我们都得学会应对压力。
+I wasn’t sure if I could handle such a powerful car. 我没有把握是否能驾驶功率这样大的车。
+She’s a difficult horse to handle. 那是匹桀骜不驯的母马。
+The car handles well in any weather. 这辆车在任何天气下开起来都很灵便。
+Gardening tools can be hazardous if carelessly handled. 如若使用不慎，园艺工具也会有危险。
+Our cat hates being handled. 我们的猫不喜欢被人摸弄。
+door handle 门把手 
+broom, fork, knife handle 扫帚把；叉柄；刀把 
+carrying handle 提梁 
+a long-handled spoon 一把长柄匙
+to handle stolen goods 买卖赃物
+
+adj. 耗费很多时间和精力的、辛苦的、需要付出很大努力的:
+laborious |[ləˈbɔ:riəs]
+laborious task, laborious process 艰巨的任务；艰难的过程 
+Keeping the garden tidy all year round can be a laborious task. 一年到头把花园拾掇得干净整洁也不是件轻松活儿。
+Checking all the information will be slow and laborious. 查看所有的信息既费时又费力。
+
+n. 1 [U] ~ (for sb) 强烈的爱情:
+2 [C] ~ (for sth) 对某事物的酷爱；热衷的爱好（或活动等）:
+n. [sing.] [正式] 盛怒:
+n.  [C, U] 非常强烈的爱、恨、愤怒、热情等感情，如激情:
+n. [sing.] the Passion 指基督教中耶稣的受难:
+passion |[ˈpæʃn]
+the expression of love and passion 爱和情欲的表达 
+His passion for her made him blind to everything else. 他钟情于她，达到了不顾一切的地步。
+my passion for a dark-haired, slender boy named James 我对一个名叫詹姆斯的黑头发高挑个儿男孩的热恋 
+She didn't believe in grand passion or love at first sight. 她不相信如火的激情或一见钟情。
+She was his first great passion. 她是他第一个深爱的人。
+animal（旧时）, physical, romantic, sexual passion 兽欲；浪漫的激情；性欲 
+They kissed with passion. 他们热烈地接吻。
+The passion between them had cooled. 他们之间的激情已经冷却下来了。
+his all-consuming passion for her 他对她痴狂的激情 
+They spent a night of passion in a hotel. 他们在旅馆里发生了一夜情。
+the young girl who was the object of his passion 他痴恋的那个女孩 
+As time went by the passion cooled. 随着时间的推移，激情冷却了。
+She had a passion for gardening. 她酷爱园艺。
+His other great passion was Italy. 他酷爱的另一个国家是意大利。
+Music is a passion with him. 他对音乐情有独钟。
+He had a secret passion for poetry. 他对诗歌有一种不为人知的钟爱。
+his lifelong passion for flying 他一生对飞行的酷爱 
+They shared a passion for food. 他们都热爱美食。
+He developed a real passion for acting. 他对表演产生了真正的热情。
+She flies into a passion if anyone even mentions his name. 哪怕是有人提到他的名字，她也会勃然大怒。           
+He's a man of violent passions. 他是个性情暴烈的人。
+a crime of passion 因情欲妒忌而造成的犯罪 
+She killed her husband's lover in a crime of passion. 她杀死了丈夫的情人，构成激情犯罪。
+He argued his case with great passion. 他很激动地据理力争。
+Passions were running high (= people were angry and emotional) at the meeting. 会上群情沸腾。
+He spoke with great passion. 他发表了热情洋溢的讲话。
+a speech full of passion 热情洋溢的演讲 
+the passion and commitment of the Republican candidate 共和党候选人的激情和奉献精神 
+This issue always rouses passion. 这个话题总能唤起大家的热情。
+That passion drove me to get to the top. 那种激情推动着我到达顶峰。
+There were moments of real passion in the game. 这场比赛有几次令观众情绪激昂。
+The team has been playing with renewed passion this season. 这个赛季该队在比赛中重新燃起了斗志。
+
+adj. 1 [常用于名词前]（为达成某个目标而与其它人员或机构）合作的、同心协力的:
+2（对别人的要求）配合的、协助的:
+3 [常用于名词前] [商业] 共同拥有、共同经营且共享利益的，即合作的:
+n. [C] 合作企业；合作社组织:
+cooperative |[kəʊˈɒpərətɪv;美koʊˈɑ:p-]
+Cooperative activity is essential to effective community work. 要把社区工作做好，协作活动是必不可少的。
+He was transferred to FBI custody in a smooth cooperative effort between Egyptian and US authorities. 在埃及当局和美国当局的共同努力下他被顺利移交美国联邦调查局进行羁押。
+The President said the visit would develop friendly and cooperative relations between the two countries. 总统说这次访问将会促进两国之间的友好合作关系。
+Employees will generally be more cooperative if their views are taken seriously. 如果雇员的意见得到认真对待，他们一般都会更加配合。
+I made every effort to be cooperative. 我尽了最大努力配合。
+a cooperative farm 合作农场
+community, worker（尤美）, workers' cooperative 社区合作社；工人合作社 
+The factory is now a workers' cooperative. 这家工厂现为工人合作企业。
+agricultural, farmer, farming cooperative 农业合作社；农民合作社 
+housing cooperative 住房合作社 
+They decided a housing cooperative was the way to regenerate Ormiston Crescent. 他们最终决定通过住房合作社来重建奥米斯顿月牙街。
+local cooperative 地方合作社 
+The family business is now run as a cooperative. 这个家族企业现在以合作方式经营。
+The restaurant is run as a cooperative. 这家饭店是合作经营的。
+
+vi. 夸大（数额、效果等，以使某事看起来比实际上好，从而可以从中取利）:
+vt.&vi.（使）充气:
+vt.&vi.（使）涨价:
+inflate |[ɪnˈfleɪt]
+They inflated clients' medical treatment to defraud insurance companies. 他们夸大客户伤势的严重性和治疗情形以欺骗保险公司。
+The balloon was kept fully inflated with hydrogen. 气球里一直充满了氢气。
+Inflate your life jacket by pulling sharply on the cord. 猛拽绳扣使你的救生衣充气。
+The life jacket failed to inflate. 救生衣未能充气。
+He jumped into the sea and inflated the liferaft. 他跳到海里给救生艇充气。    
+The principal effect of the demand for new houses was to inflate prices. 对新住宅需求的主要结果是促使价格上涨。
+Food prices are no longer inflating at the same rate as last year. 食物价格的上涨率已不再像去年那样高了。
+Clothing prices have not inflated as much as automobiles. 服装价格的涨幅不及汽车那么高。
+The promotion of a big release can inflate a film's final cost. 大规模发行所需的广告宣传会增加一部电影的最终成本。
+
+adj. [褒] 善于找出问题的解决方案的，如足智多谋的、机智的、随机应变的:
+resourceful |[rɪˈsɔ:sfl;-ˈzɔ:s-;美-ˈsɔ:rs-]
+He is very clever and endlessly resourceful. 他聪明机敏，足智多谋。
+He was amazingly inventive and resourceful, and played a major role in my career. 他极具创造力，而且足智多谋，在我的职业生涯中起到了重要的作用。
+Her mother was a resourceful and energetic woman. 她母亲是一个足智多谋、精力充沛的女人。
+
+vt.（将情况、属性、特征等）突显出来。主语一般是事物:
+vt.&vi.（将情况、属性、特征等）夸张、夸大。主语一般是人:
+exaggerate |[ɪgˈzædʒəreɪt]
+These figures exaggerate the loss of competitiveness. 这些数字突显了竞争力的丧失。
+The dress exaggerates her wasp waist and enlarges her bosom. 那件连衣裙凸显了她的蜂腰，也让她的胸部看起来更丰满。
+He thinks I'm exaggerating. 他觉得我在夸大其词。
+Don't exaggerate. 别夸张。
+The hotel was really filthy and I'm not exaggerating. 我不是夸张，这旅店真的很脏。
+He tends to exaggerate the difficulties. 他往往夸大困难。
+John does tend to exaggerate slightly. 约翰往往喜欢把事情略加夸大。
+These figures have been greatly exaggerated. 这些数字已被极度夸大了。
+The historical significance of these events can be easily exaggerated. 这些事件的历史意义很容易被夸大。
+to artificially exaggerate 人为夸大 
+to deliberately exaggerate 故意夸大 
+It is difficult to exaggerate the importance of developing good study habits. 养成良好学习习惯的重要性怎么强调都不过分。
+The allegations were highly exaggerated. 这些断言大为言过其实。
+Demand for the product has been greatly exaggerated. 对这项产品的需求给过分夸大了。
+I'm sure he exaggerates his Irish accent (= tries to sound more Irish than he really is). 我肯定他把他的爱尔兰口音故意说得很重。

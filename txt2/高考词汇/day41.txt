@@ -1,0 +1,753 @@
+accent						口音，重音
+basket						篮，一组
+shave						剃，擦过，刮脸
+a narrow shave						侥幸脱险
+outer						外围的，外边的
+note						笔记，注释，音符，注意
+of note						重要的
+Ottawa						渥太华
+smoker						吸烟者
+drag						拖，硬拉，累赘
+the main drag						主路
+unite						联合
+Spain						西班牙
+postcode						邮政编码
+confident						自信的
+website						网址
+swell						肿胀，增长，充满，增加
+medicine						医学，药
+set						放置，设定，镶嵌，落下，一套，固定的
+comb						梳子，蜂巢，搜查
+sale						出售，一笔买卖
+immigration						移民入境
+process						过程，工序，加工，处理
+east						东，东边的
+hurry						急忙，使加快
+how						如何，怎样
+and how						当然
+how come						为什么
+how so						怎么会
+beast						兽，讨厌的人
+practice						实践，练习，常规，习惯
+reliable						可靠的，准确的
+evening						晚上，末期
+evenings						每天晚上
+allocate						分配
+development						发展，开发
+paragraph						段落，短文
+\\\\\\\\
+
+n. [C]（标在字母上以表明该字母的发音方式的）符号，即变音符号:
+n. [C] 重音，相当于stress。与stress的可数名词词义相比，未见明显差别:
+n. [C, U]（某人的带有地域或阶级等特色的）口音:
+vt. 强调…的一部分:
+n. [sing.] 给予…的一种特殊重要性，即强调，相当于emphasis:
+accent |['æksənt]
+Canapé has an accent on the ‘e’. canapé在e上面有尖音符号。
+an acute accent 一个尖音符
+In ‘today’ the accent is on the second syllable. today一词的重音在第二个音节。
+broad（尤英）, heavy, strong, thick accent 浓重的口音 
+slight accent 轻微的口音 
+country, foreign, local accent 乡下腔；外国腔；当地口音 
+American accent 美国腔 
+northern accent 北方口音 
+middle-class accent（英）中产阶级口音 
+without a trace of an accent 不带一丝口音
+In all our products the accent is on quality. 我们的全部产品均质量可靠。
+
+n. [C]（如用塑料、铁丝、柳条等编织成的）篮，篓，筐（用于盛放或搬运…）:
+n. [C] 一篮（或一篓、一筐）的量:
+n. [C] 投篮所得到的一分:
+n. [C]（篮球运动中的）球篮:
+n. [C] 经济学中可指一些（不同的货物或货币）:
+basket |['bɑːskɪt]
+bamboo, wire basket 竹篮；铁丝筐 
+fruit, shopping basket 水果篮；购物筐 
+waste basket（美）废纸篓 
+bicycle basket 自行车筐 
+flower basket 花篮
+a basket of fruit 一筐水果
+to make, to score basket 投篮得分
+to shoot basket 投篮 
+to sink basket 投球入篮
+the value of the rupee against a basket of currencies 卢比对各种货币的比值
+
+vt.＆vi. 用剃须刀将毛发从皮肤上（尤指脸上）剃掉:
+n. [C] 剃须；刮脸:
+vt. 少量地削减价格等:
+shave |[ʃeɪv]
+Mike cut himself shaving. 迈克刮胡子时把脸划破了。
+He badly needed a shave. 他的脸真该刮一刮了。
+to give sb shave 给某人修面
+The firm had shaved profit margins. 公司调低了利润率。
+
+adj. 1 只用于名词前，在…外面的，外边的，相当于external:
+2 只用于名词前，远离内部（或中心）的，即外围的:
+outer |['aʊtə]
+the outer layers of the skin 皮肤表层 
+I walked along the outer edge of the track. 我沿着跑道的外缘走。
+the outer suburbs of the city 城市的远郊 
+Outer London, Outer Mongolia 伦敦的外围地区；外蒙古 
+to explore the outer (= most extreme) limits of human experience（比喻用法）探索人类经验的极限
+
+n. [C] 指某种感觉或感情、印象或气氛，类似于air:
+vt.（较正式）将发生过的事情写下，以做记录:
+n. 1 [C] 协助人们记起某事（即起提醒作用）的一小段文字:
+2 [C] notes，复数形式可表示某人听讲、读书、或阅读其它材料时所写下的信息:
+vt.（较正式）因某事重要或有趣而将其提出，即特别提到，提出:
+n. [C] note (of sth) 单数名词，指某人声音中的语气、调子等，如:
+n. [C] 一则简短的、非正式的书信，即便条:
+n. [C] 音乐中指单音或音符:
+n. [C] 票据:
+n. [C] 一张纸币，此时尤用于英式英语，也可用banknote。表此义时，美式英语中通常用bill:
+n. [C] 术语，指一国政府的代表交给另一方的一封正式书信，即外交文书、照会或通牒:
+n. [C] 在一本书上，对其中的部分内容（如一个字词或一段文字）所做的一则简短评论，即注释、批注:
+n. [C] 常用复数，指印在一部特殊的书籍封面、CD或唱片封面等上面的信息，该信息介绍了一次演出、一个演员的职业履历、或一段音乐等:
+n. 1 [C] 一则简短的、非正式的书信，即便条:
+2 [C] notes，复数形式可表示某人听讲、读书、或阅读其它材料时所写下的信息:
+n. [C] 证明。是一个简单用词:
+vt. [较正式] 注意或仔细留意某事:
+n. [C] 注意，关注，留心:
+note |[nəʊt][nəʊt]
+a note of horror 恐怖的气氛 
+The conference ended on a optimistic note. 会议在乐观的氛围中结束。
+The team noted all their accidental findings. 该团队记录下了他们所有偶然的发现。
+Please make a note of the dates. 请记下日期。
+She made a mental note to ask Alan about it. 她提醒自己要记住向艾伦问问这事。
+He sat taking notes of everything that was said. 他坐在那儿记下了别人所说的每一件事。
+lecture, field notes 讲稿；实地记录 
+clinical（尤英）, medical（尤英）notes 病历 
+She kept detailed notes of her travels. 她记了详尽的游记。
+It is worth noting that the most successful companies had the lowest prices. 值得指出的是最成功的公司价格最低。
+He noted in passing that the government’s record on unemployment was not very good. 他顺便提到政府在失业问题的处理上不尽如人意。
+These policies, as noted above, are not always successful. 前文提及的这些政策并不总是成功的。
+hopeful, optimistic, positive note 充满希望的语气；乐观的声调；积极的意味 
+a note of sneer 一种嘲讽的语气 
+There was a sad note in her voice. 她声音里带着一丝悲伤。
+A note of suspicion entered his voice. 他的声音里开始带有一丝怀疑。
+He sounded a cautionary note. 他的声音带有一种警告的意味。
+His opening remarks struck the right note. 他的开幕词讲得十分得体。
+On a more serious note (= speaking more seriously) … 更严格地讲… 
+On a slightly different note (= changing the subject slightly), let’s talk about … 咱们略微换一下话题，谈谈…
+She left a note for Ben on the kitchen table. 她在厨房的餐桌上给本留了个便条。
+brief note 便条 
+credit, love, sick（英）, suicide, thank-you note 欠条；情书；病假条；绝命书；致谢便函 
+sticky note（尤美）便利贴 
+scribbled note 草草写下的留言 
+crumpled note 皱巴巴的便条 
+I saw you two passing notes during class. 我看到你俩在上课时传纸条了。
+musical note 音符 
+He played the first few notes of the tune. 他演奏了这支曲子开始的几个音。
+high, top note 高音符 
+low note 低音 
+whole, half, quarter note（均美）全音符；半音符；四分之一音符
+a delivery note 送货单据
+a £5 note 一张面值为5英镑的纸币 
+crumpled note 皱巴巴的纸币 
+a thick wad of notes 厚厚的一沓钞票 
+to exchange notes 兑换纸币
+an exchange of diplomatic notes 外交照会的互换
+a new edition of ‘Hamlet’, with explanatory notes 附注释的新版《哈姆雷特》
+See note 3, page 259. 见259页注释3。
+marginal, side notes 页边注；边注 
+introductory notes 介绍性说明 
+biographical notes 生平简介 
+booklet, sleeve（英）notes 说明性小册子；（唱片）封套内容简介
+brief note 便条 
+scribbled note 草草写下的留言 
+credit, delivery（英）, love, ransom, sick（英）, suicide, thank-you note 欠条；送货单；情书；赎金通知；病假条；绝命书；致谢便函 
+sticky note（尤美）便利贴 
+crumpled note 皱巴巴的便条 
+to leave a note 留便条 
+to pass a note 传纸条 
+brief notes 简短的笔记 
+lecture notes 讲稿 
+field notes 野外记录 
+case notes 病历 
+I’ve made a note of the book’s title. 我记下了书名。
+The booklet has full notes on each artist. 这本小册子里有每一位艺术家的详尽资料。
+She made a mental note to call them in the morning. 她心里记下要在早晨给他们打电话。
+a sick note from your doctor 医生开据的病假证明
+Please note (that) the office will be closed on Monday. 请注意办事处星期一将关闭。
+Her lapse was duly noted by the stage manager and reported to the director. 她的失误被舞台监督及时发现并报告给了导演。
+There are a few points here that are worth noting. 这儿有几点值得注意。
+He took careful note of the suspicious-looking man in the corner of the bar. 他十分注意酒吧角落里那个形迹可疑的人。
+The sculptures are worthy of note. 这些雕塑值得关注。
+
+the federal capital of Canada, in south-eastern Ontario, on the Ottawa River (a tributary of the St Lawrence River), population 812,129 (2006). From its founding in 1827 until 1854, it was named Bytown after Colonel John By (1779–1836).:加拿大联邦首都，位于安大略省东南部，渥太华河（圣劳伦斯河的支流），人口812,129（2006年）。从1827年成立到1854年，它以约翰·拜上校(171836)的名字命名为拜敦。
+Ottawa |ˈɒtəwə| Noun/:渥太华,渥京
+
+n. [C] 吸烟的人，吸烟者:
+n. [C] 火车上允许吸烟的车厢:
+smoker |['sməʊkə]
+cigar, cigarette, pipe smoker 抽雪茄的人；抽香烟的人；抽烟斗的人 
+chain, heavy smoker 一支接一支吸烟的人；烟瘾大的人 
+light smoker 烟瘾不大的人 
+regular smoker 经常吸烟者 
+passive smoker（英）被动吸烟者 
+pot smoker（非正式用法）吸大麻的人 
+rooms for smokers 吸烟室 
+a smoker’s cough 吸烟过多引起的咳嗽 
+
+n. [sing.] [非正式] 乏味无聊、令人厌烦的人或事物:
+vi.（时间或活动、事件）过得很慢；拖沓地进行:
+vt. drag sth (for sb/sth) 用网（或钩）搜寻河流、湖泊等的底部:
+vt.＆vi. 1 缓慢而费力地移动:
+2 在地上拖着移动（该事物与地面有一部分接触）；使…在地上拖着移动:
+n. [sing.] [非正式] a drag on sb/sth 阻碍进步或进展的人或事物，即绊脚石，拖累，累赘:
+n. [U] [非正式] 异性穿的服装（通常指男子穿的女装）:
+n. [U] 物理学中可指作用于飞机或其他交通工具的空气阻力:
+vt. 用鼠标在屏幕上拖拽文本、图标等:
+vt. 劝说某人来（或去）其不愿意来（或去）的地方:
+vt. 使劲儿而吃力地拉，拽，扯，拖等:
+n. [C] [非正式] 吸一口（香烟等），词义相当于draw:
+drag |[dræɡ]
+He’s such a drag. 他真惹人讨厌。
+Walking’s a drag--let’s drive there. 步行太累了——咱们开车去吧。
+Having to work late every day is a drag. 每天都得晚下班可真讨厌。
+Time dragged terribly. 时间过得真慢。
+The meeting really dragged. 这会议开得真拖拉。
+They dragged the canal for the missing children. 他们用拖网沿运河打捞那些失踪的孩子。
+I managed to drag myself out of bed. 我总算硬撑着从床上爬了起来。
+She always drags behind when we walk anywhere. 我们走到什么地方她都慢慢腾腾吃力地跟在后面。
+This dress is too long--it drags on the ground when I walk. 这条连衣裙太长了——我走路时就拖在地上。
+He was seen as a drag on the party’s prospects. 他被看成是阻碍该党走向未来的绊脚石。
+He performed in drag. 他身着女装演出。
+a drag queen 男扮女装者（通常以娱乐他人为目的）
+I’m sorry to drag you all this way in the heat. 对不起，这么热的天硬拉着你跑了这一路。
+The party was so good I couldn’t drag myself away. 这聚会太开心了，我舍不得离开。
+I dragged the chair over to the window. 我把椅子拖到了窗口那边。
+They dragged him from his bed. 他们把他从床上拽了起来。 
+She took a long drag on her cigarette. 她长长地抽了一大口烟。
+
+unite (behind/against sb/sth) 与其他人联手组成一个团体来做某事，即联合，团结:
+vt.＆vi. unite (sb/sth) (with sb/sth) 使人们或事物团结在一起形成一个整体，即使联合，使统一；联合或统一（成一个整体）:
+unite |[ju:'naɪt]
+vi. unite (in sth/in doing sth) 
+Local resident groups have united in opposition to the plan. 当地居民团体已联合起来反对这项计划。
+We will unite in fighting crime. 我们将联手打击犯罪。
+A special bond unites our two countries. 一种特殊的纽带把我们两国联结起来。
+She unites keen business skills with a charming personality. 她一身兼备经商技巧与个人魅力。
+
+
+Spain |speɪn| Noun/:西班牙,美国
+
+n. [C] [英；美用Zip code] 邮政编码、邮编:
+postcode |['pəʊstkəʊd]
+Type your postcode. 键入你的邮政编码。
+
+adj. 1（对自己的做事能力或成功前景）自信的，有信心的。是此义的常规用词:
+confident that ... 认为某事一定会以自己所想要或所期望的方式发生的，即有把握的，肯定的:
+confident |['kɒnfɪdənt]
+He’s becoming more confident as he gets older. 随着年龄的增长，他变得愈发自信了。
+We are confident about the future. 我们对未来充满信心。
+2 confident of sth 
+I’m confident that you will get the job. 我肯定你能得到那份工作。
+We feel confident that these results are accurate. 我们对这些结果的准确性是有把握的。
+
+n. [C] 网站:
+website |['websaɪt]
+I found this information on their website. 我在他们的网站上发现了这一信息。
+official website 官方网站 
+government, news, travel website 政府网站；新闻网站；旅游网站
+
+vi. swell (with sth) 充满着一种强烈的情感:
+n. [sing.]（正式）（尤指身体部位）凸起的形状，隆起处:
+vt.＆vi. swell (sth) (to sth)（数量或尺寸）增加；使（数量或尺寸）增加:
+vi.（声音）变得更大:
+n. 1 [sing.]（尺寸、数量、强度等的）增加，增大；增强:
+2 [sing.]（乐音或噪声）逐渐增强:
+n. [C, usually sing.] 海浪的涌动（但波浪并未爆发）。暗示由水体内部的能量推动而产生的水体涌动（强调一股波浪以强大的气势整体上向前推进），给人一种酝酿而不爆发的感觉。因此容易让人内心之中产生一种恐惧感。是一个比喻用法:
+vt.＆vi. swell (sth) (out) 凸出，鼓出；使凸出，使鼓出:
+vi. swell (up)（身体部位等）肿胀。是此义的常规用词:
+vi.（声音）变得更大:
+n. [sing.]（乐音）逐渐增强:
+swell |[swel]
+to swell with pride 满腔自豪
+the firm swell of her breasts 她挺拔的乳房
+to swell the ranks 壮大队伍 
+The human population swelled. 人口增加了。
+His bank balance has swelled by $100 000. 他的银行存款增加了10万美元。
+The cheering swelled through the hall. 欢呼声越来越大，响彻大厅。
+a growing swell of support 越来越多的支持 
+a swell of pride 自豪感的增强 
+10-foot swell 10英尺的大浪 
+The Atlantic swell surged up under them. 大西洋的浪涛在他们下面滚滚涌起。
+The boat rolled wildly in the heavy swell. 船在大浪中猛烈晃动。
+The sails swelled in the wind. 船帆鼓满了风。
+My left ankle was beginning to swell up. 我的左脚踝开始肿了起来。
+His right eye had almost swollen shut. 他的右眼肿得几乎睁不开。
+
+n. [U, C] 药物（尤指药水和口服药）:
+n. [U] 医疗；医学:
+medicine |['medɪsn]
+powerful, strong medicine 强效药 
+allergy, cough medicine 过敏药；咳嗽药 
+anti-inflammatory medicine 消炎药 
+medicine for a chest infection 治疗胸部感染的药 
+herbal medicine 草药 
+prescription medicine 处方药 
+non-prescription（尤美）, over-the-counter medicine 非处方药 
+medicine chest 药箱 
+medicine dropper 药用滴管 
+to mix some medicine 配一些药 
+shortage of medicine 药品短缺 
+Did you take your medicine? 你吃过药了吗？
+to pursue a career in medicine 从事医务工作 
+to study medicine 学医 
+to practise medicine 行医 
+modern medicine 现代医学 
+traditional Chinese medicine 中医 
+alternative medicine 替代性疗法 
+preventative, preventive medicine 预防医学 
+clinical, forensic medicine 临床医学；法医学 
+general medicine 全科医学 
+internal medicine 内科学
+
+vt. 常用被动式，指把戏剧、书籍或电影中的情节设定在某个背景下（如时间、地点等）:
+adj. 指把戏剧、书籍或电影中的情节设定在某个背景下（如时间、地点等）的，即以…为背景的:
+adj. 指观点或意见不太可能改变的，即固定的，固执的:
+vi. 指太阳或月亮落到地平线以下:
+vt. 1 将…置于某地或某位置:
+2 使…处于某种状态；使…开始:
+set B with A 常用被动式，指将宝石镶嵌到首饰上:
+adj. 被嵌入…表面的:
+set sb (to do sth) 给某人分配或布置任务、工作:
+2 设置陷阱:
+set to do sth 为某事或为做某事做好准备的:
+vt. 1 树立榜样或标准（以使其他人仿效该榜样或达到该标准）:
+2 设定目标:
+3 设定某个价值:
+vt. 常用被动式，指使脸上现出坚定的表情:
+n. [sing.] set of sth 指脸上或身体所做出的某一固定的表情或姿态，尤指坚定的表情或姿态:
+adj. 常作前置定语，指人的表情呆板的，不自然的:
+vt. 为湿头发固定发型（使头发在干了之后保持该发型）:
+n. [sing.] 头发的定型，做头发:
+vt. 1 设定钟表或机器（使其准备工作）:
+2 将钟表或其他装置调（或拨）到某一点或某一水平上:
+n. [C] 接收电视或广播信号的装置，如电视机，或收音机:
+vt. set a/the table 将餐具摆放到餐桌上（以准备吃饭）:
+adj. 只作前置定语，指餐馆的饭菜价格固定且选择范围有限的，即套（餐）的:
+vt. 常用被动式，指把电影中的情节设定在某个背景下（如时间、地点等）:
+adj. 指把电影中的情节设定在某个背景下（如时间、地点等）的，即以…为背景的:
+n. 1 [C] 电影、戏剧等的舞台布景:
+2 [C, U] 戏剧等的舞台（此时不常用），或电影的摄影场:
+vi. 变得坚硬，即凝固，凝结:
+n. [sing.] 变成固体或坚硬的状态，即凝固，凝结:
+n. [C] 指供移植的植物秧苗、插枝、球茎等:
+n. [C] 数学集合:
+n. 1 [C] 一组、一套或一副类似的事物:
+2 [C] 配套使用的一组物品，如玩游戏所用的物品:
+adj. 处于或位于某一位置的:
+n. [C] [有时贬] 拥有相同利益（或兴趣）且经常在一起交往的一群人:
+vt. [术语] 用机器或电脑等为书籍或报纸等排版（以供印刷）。是此义的一个简单用词:
+vt.＆vi. 为断了的骨头复位，接骨:
+n. [C] 在体育运动中，可指网球或排球比赛等的局，盘:
+vt. set sth (to sth) 为歌词（如诗歌或其他文字）谱曲或配乐:
+n. [C] 在流行音乐中可指在一场音乐会上由一个音乐人或一组乐手所表演的一组歌曲或乐曲:
+vt. 常用被动式，指把戏剧中的情节设定在某个背景下（如时间、地点等）:
+adj. 把戏剧中的情节设定在某个背景下（如时间、地点等）的，即以…为背景的:
+n. [C] [英] 学校中在某一学科上能力出众的一批学生:
+adj. [英] 指图书被指定用于学习某一门课程的:
+adj. 常作前置定语，指安排好的，确定的，固定的:
+vt. 安排、确定或决定:
+set to do sth 有可能做某事的；某事有可能发生或将要发生的:
+set |[set]
+The film is set in Paris in the 1920s. 这部电影以20世纪20年代的巴黎为背景。
+The film is set in a small Northeastern town. 这部电影是以东北部一个小城镇为背景的。
+set ideas 不变的思想 
+set opinions 不变的观点 
+She was set on going to the cinema. 她执意要去这家电影院。
+Her father is dead set against the marriage. 她父亲铁了心地反对这门亲事。
+The government is now set on increasing taxes. 政府现已下决心加税。
+The sun set behind the mountain. 太阳落到山后。
+to set the toy down on the floor 把玩具放到地板上 
+to set the evidence in front of him 把证据摆放在他面前 
+A cottage is set in the forest. 一个小木屋坐落在这片森林里。
+to set me thinking 引发我的思考 
+The house was set on fire. 那栋房屋被放火了。
+to set the machine in motion 启动机器 
+to set me at my ease 使我感到轻松 
+to set the prisoners free 将囚犯释放 
+3 set A in B 
+The necklace was set with a diamond. 这条项链上镶有一颗钻石。
+a gate set in a wall 砌在墙中的门
+vt. 1 set sth (for sb) 
+to set him a difficult task 给他布置艰难的任务 
+to set a trap for him 给他设置一个陷阱
+adj. set for sth 
+Be set to leave by 8 o’clock. 做好准备，最晚8点出发。
+Get set ... Go! 预备——跑！
+Are you all set? Let’s go! 你们都准备好了吗？咱们走！
+to set a high standard 设定一个高标准 
+to set a good example 树立一个好榜样 
+to set new record 创造新的纪录 
+to set a precedent 开先例 
+to set a new fashion 开创一种新时尚 
+I’ve set myself clear objectives. 我已经给自己设定了明确的目标。
+She sets a high value on autonomy. 她高度重视自主权。
+His jaw was set in a determined manner. 他下巴紧绷，一副绝不动摇的表情。
+the firm set of his face 他脸上那副坚定的表情 
+a set smile 僵硬的笑容 
+Her face took on a set expression. 她表情凝滞。
+She had her hair washed and set. 她去洗了头发，做了发型。
+A set cost $5. 做发型5美元。
+I set my alarm for 6 o’clock. 我把闹钟设定在6点钟。
+to set the watch by the TV 对照电视来调表 
+to set the camera 设定相机 
+to set the volume high 把音量调大
+in front of the television set 在电视机前（常指看电视）
+The table was set for eight guests. 桌子上摆放了八位客人的餐具。
+a set meal 一份套餐 
+a set lunch 午餐套餐
+The film is set in Paris in the 1920s. 这部电影以20世纪20年代的巴黎为背景。
+The film is set in a small Northeastern town. 这部电影是以东北部一个小镇为背景的。
+film（尤英）, movie（尤美）, stage, studio set 电影场景；舞台布景；摄影棚布景 
+set design 布景设计 
+Off set, the two actors became close friends. 这两位演员在台下成了好朋友。
+The crew had a lot of fun on set. 演职人员在拍摄现场工作很愉快。
+the set glue 凝固的胶水 
+The concrete had set hard. 混凝土已经凝固得很硬了。
+willow sets 柳树插枝
+set theory 集合理论
+a set of laws 一套法律 
+a set of rules 一套规则 
+a set of conditions 一组条件 
+a set of standards 一套标准 
+a set of challenges, a set of issues 一系列挑战；一系列问题 
+a set of data 一组数据 
+a set of characteristics 一组特征。
+a completely different skill set 一套完全不同的技能 
+chemistry, chess set 一套化学用具；一副国际象棋 
+a set of clothes 一套衣服 
+a set of furniture 一套家具 
+dinner, tea set 一套餐具；一套茶具 
+to be bought as a set 成套购买 
+a set of novels 一套小说 
+data set 数据集 
+a computer’s instruction set 计算机的指令集
+The park is set in the centre of the city. 该公园位于这座城市的中心位置。
+A cottage is set in the forest. 一个小木屋坐落在这片森林里。
+to have close-set eyes 两眼靠得很近
+a literary set 文学圈子 
+the smart set 上层社会
+to set the broken leg 接上腿上的断骨
+in the first set 在首盘比赛中 
+set point 盘点 
+Nadal won in straight sets (= his opponent won none). 纳达尔一盘未失，赢得比赛。
+to set the poem to music 为那首诗谱曲
+to be in the top set for physics 物理成绩名列前茅
+a set book 指定用书
+a set number of computers 固定数目的电脑 
+to follow a set pattern 遵循一种固定的模式 
+a set period of training 一段固定的培训期 
+He was given a set job to do. 分配给他的工作是预先确定好的。
+to set a deadline of this Friday 设定本周五为最后期限 
+to set a date for the wedding 确定婚期 
+to set strict limits on smoking in public places 为在公共场合吸烟设定严格的限制
+adj. set for sth 
+He was set to become one of the greatest tennis players of the world. 他有可能成为世界上最伟大的网球运动员之一。
+Prices look set to rise again. 看来价格还要上涨。
+He looks set for victory. 看样子他能赢。
+
+n. [C] 梳子；篦子；女子用来装饰头发的此类压发梳，发插:
+vt.＆vi. comb (through) sth (for sb/sth)（为寻找…而）仔细搜索或搜寻，相当于scour。强调搜索非常细致。是一个形象化用词:
+vt. [术语]（用特殊的梳子来）梳理羊毛、棉花等（使其可用于纺织）:
+n. [C, usually sing.]（用梳子或篦子）梳头发:
+vt.（用梳子或篦子）梳头发:
+n. [C] 公鸡的鸡冠:
+n. [C, U] 六边形的一个蜂巢，相当于honeycomb:
+comb |[kəʊm]
+She ran a comb through her tangled hair. 她用梳子梳理乱蓬蓬的头发。
+The police combed the area for clues. 警方彻底搜索了那个地区以寻找线索。
+I combed the shops looking for something to wear. 我跑遍商店寻找可穿的东西。
+They combed through the files for evidence of fraud. 他们查遍档案搜寻欺诈的证据。
+Your hair needs a good comb. 你的头发得好好梳一下。
+She gave her hair a comb. 她梳了梳头发。
+Don’t forget to comb your hair! 别忘了梳一下头发！ 
+
+n. 1 [U, C] 出售，销售，售卖:
+2 [C] 销售量，此时尤用复数:
+3 [U] sales（或sales department，此时为可数）表示公司的销售部:
+4 [C] 降价出售，特价出售:
+5 [C] 销售活动，尤指拍卖:
+sale |[seɪl]
+illegal sale 非法出售 
+art sale 艺术品售卖 
+share sale 股份的出售 
+sale price 销售价格 
+a contract of sale 销售合同 
+sales campaign 销售活动 
+sales tactics, sales technique 销售策略；销售技巧 
+sales presentation 销售演示 
+sales report 销售报告 
+sales receipt（美）销售收据 
+sales and marketing 市场营销 
+I haven’t made a sale all day. 整整一天我什么也没卖出去。
+Their house is for sale. 他们要卖房子。
+Retail sales fell by 10%. 零售额下降10%。
+export sales 出口销售额 
+over-the-counter sale 柜台销量 
+online sale 在线销量 
+domestic sale 国内销量 
+house sale 住房销售量 
+car sale 汽车销量 
+sales figures, sales performance, sales revenue 销售数字；销售业绩；销售收入 
+sales growth 销量增长 
+sales people, sales staff, sales force, sales team 销售人员；销售团队 
+sales agent, sales department, sales office 销售代理；销售部门；销售处 
+I work in sales. 我在销售部门工作。
+sales director, sales representative 销售主管；销售代表 
+sales clerk（美）销售员 
+sale prices 特价 
+annual, summer sale 年度大减价；夏季大减价 
+clothing sale 服装大减价 
+clearance sale 清仓处理 
+at the sales, in the sales（均英）在减价期间 
+The sale starts next week. 特价促销从下星期开始。
+a contemporary art sale 当代艺术品拍卖会
+
+n. 1 [U]（从另一国）入境移居；还可指外来的移民人数:
+2 [U] 港口、机场等的移民局检查站，也可用immigration control:
+immigration |[͵ɪmɪ'ɡreɪʃn]
+illegal immigration 非法移民 
+Mexican immigration 墨西哥移民 
+immigration bill 移民法案 
+immigration authority 移民局 
+to go through immigration 办理移民入境检查手续
+
+vt. 正式处理一份文件、一个请求、事情等:
+vt. 将原材料、事物等进行加工或处理（以将其改变或保存等）（而并不专门表示“制造”一个东西，因为制造通常包括多个环节，如加工、组装等。而process通常只是其中某个或某些环节所采取的手段。如将原材料process成可供下一步使用的成品材料）:
+n. [C] 做某事（或制作某东西）的一种方法（尤指工业中采用的方法），如做事方法，工艺流程，工序等:
+n. 1 [C] 为达到某一结果而做的一系列事情，即过程。是一个常规用词，极为常用:
+2 [C] 发生的一系列事情（尤指导致自然变化的一系列事情），如过程:
+vt. 在计算机中对数据进行处理:
+process |['prəʊses]
+It will take a week for your application to be processed. 审核你的申请需要一周时间。
+It was a second later when I fully processed what he had said. 一秒钟之后我就完全明白了他的话是什么意思。
+My brain slowly processed the fact that I was free to leave. 我慢慢才反应过来我可以自由地离开。
+highly processed food 深加工食品 
+The berries are processed into juice or sauce. 浆果被加工成果汁或果酱。
+I sent three rolls of film away to be processed. 我送了三个胶卷去冲印。
+sewage processing plant 污水处理厂 
+The plant is then processed for dye. 然后对这种植物进行加工以获取染料。
+industrial, manufacturing, production process 工业生产流程；制造过程；生产工序 
+decision-making, planning process 决策过程；筹划过程 
+voting process 表决过程 
+registration process 登记程序 
+cognitive, learning, mental, thought, thinking process 认知过程；学习过程；心理过程；思维过程 
+selection, testing process 选拔过程；测试过程 
+review process 审核过程 
+judicial, legal process 司法程序；法律程序 
+approval process 批准过程 
+democratic, political, peace, historical process 民主进程；政治进程；和平进程；历史进程 
+We’re in the process of selling our house. 我们正在出售自家的住宅。
+chemical process 化学过程 
+ageing/aging, developmental, evolutionary, healing process 衰老过程；发育过程；进化过程；愈合过程
+This information is processed by the computer. 此信息是由计算机处理的。
+
+n. 1 [U, sing.] 常写作the east，指东方，东（太阳升起的地方，或指南针上的四个主要方位点之一）:
+2 [U, sing.] 也可写作East，一个国家、区域或城镇的东部，东边:
+adj. 1 只用于名词前，也可写作East，缩写为E，指在（或向）东方（或东部）的:
+2 在east wind中east可指东方吹来的:
+adv. 1 向东，朝东:
+2（某位置）以东:
+east |[i:st]（缩写为E）
+Which way is east? 哪边是东？
+A gale was blowing from the east. 大风从东面吹来。
+a town to the east of (= further east than) Chicago 芝加哥以东的一个城镇 
+a village in the east of the country 该国东部的一个村庄 
+They live on the east coast. 他们住在东海岸。
+East Africa 东非 
+a bitter east wind 一阵刺骨的东风 
+The house faces east. 房子朝东。
+to drive east 向东行驶 
+just east of the centre of town 就在城中心以东
+
+vt. rush sb (into doing sth) 使某人更快地做某事，如催促，相当于rush。此时不太常用。但在祈使句中较为常用:
+vt. 迅速处理某事，相当于rush:
+vi. 朝某个方向迅速移动，相当于rush:
+vi.（因没有更多时间而）比平时更快地做某事，如急忙、赶快、匆忙（做某事），相当于rush:
+vt. 常用被动式，太快地做某事，如仓促做某事，相当于rush:
+n. [U, sing.] 需要（或希望）把某事快速做完，如匆忙，急忙:
+hurry |['hʌrɪ]
+I don’t want to hurry you but we close in twenty minutes. 我并不想催你，但我们再过二十分钟就要关门了。
+She was hurried into making an unwise choice. 她在催逼之下做出了不明智的选择。
+Her application was hurried through. 她的申请很快得到了处理。
+He hurried across the courtyard. 他匆匆穿过院子。
+She hurried away without saying goodbye. 她连声再见都没说就急忙离开了。
+You’ll have to hurry if you want to catch that train. 如果你想赶上那趟火车就得抓紧时间了。
+The kids hurried to open their presents. 孩子们急忙打开礼物。
+A good meal should never be hurried. 美餐绝不能狼吞虎咽。
+There’s no hurry. 不用急。
+In my hurry to leave, I forgot my passport. 我匆忙动身，忘了带护照。
+What’s the hurry? The train doesn’t leave for an hour. 慌什么？火车还有一个小时才开呢。
+She’s in no hurry to find out how much her phone bill comes to. 她才不着急去查电话费是多少呢。
+
+adv. 1 以何种方式，即怎样，如何:
+2 以任何方式，无论用什么方法，相当于however:
+adv. 1 以何种方式，即怎样，如何:
+2 以任何方式，无论用什么方法，相当于however:
+adv. 用于谈论某人的健康:
+adv. 用于形容词或副词前，以询问某事物的数额、程度等（或某人的年龄）:
+adv. 用于表达惊讶、高兴等:
+adv. 用于询问某事是否成功或愉快:
+how |[haʊ]
+How does it work? 它如何运转？
+I’ll show you how to load the software. 我给你演示一下如何装载这款软件。
+He did not know how he ought to behave. 他不知道自己应该怎样表现。
+How ever did you get here so quickly? 你怎么这么快就过来了？
+I’ll dress how I like in my own house! 我在自己家里爱怎么穿就怎么穿！
+How does it work? 它如何运转？
+I’ll show you how to load the software. 我给你演示一下如何装载这款软件。
+He did not know how he ought to behave. 他不知道自己应该怎样表现。
+How ever did you get here so quickly? 你怎么这么快就过来了？
+I’ll dress how I like in my own house! 我在自己家里爱怎么穿就怎么穿！
+How are you? 你（身体）好吗？
+How are you feeling now? 你现在感觉怎么样？
+How often do you go swimming? 你多久去游一次泳？
+How much are those earrings? 那对耳环多少钱？
+How many people were there? 有多少人？
+How old is she? 她多大了？
+How kind of you to help! 你来帮忙，真是太好了！
+How he wished he had been there! 他多么希望当时自己也在场！
+How was your trip? 你旅行愉快吗？
+How did they play? 他们表现如何？
+
+n. [C] [非正式，常幽默] 令人讨厌的人或事物:
+n. [C] [过时或正式]（尤指罕见或巨大、凶猛、危险的）野兽，兽，具有一定的文学性:
+n. 1 [C] 性情凶残、行为粗暴而不受控制的人:
+2 [C] [非正式，常幽默] 令人讨厌的人:
+n. 1 [C] [非正式，常幽默] 令人讨厌的事物:
+2 [C] [非正式] 某种东西:
+beast |[bi:st]
+a real beast 令人讨厌
+wild beasts 野兽 
+exotic, mythical, strange beast 异兽；神话中的野兽；怪兽 
+prehistoric beasts 史前兽 
+a beast of burden, a beast of prey 役畜；食肉兽
+a real beast 令人讨厌的人
+a real beast 令人讨厌 
+
+vt.＆vi. [美] 练习，训练；经常做；从事业务、法律等专业工作，相当于practise:
+n. 1 [U] 实践，实际行动（而非想法）:
+2 [U, C] 经常从事一项活动或训练以提高自身的技能，即训练；也可指训练所花费的时间:
+n. [C] 经常所做的事、习惯:
+n. [C] 习俗:
+n. [U, C] 在某一组织或某一情况中的通常做法，惯例:
+n. [U, C] 经常从事一项活动或训练以提高自身的技能，即训练；也可指训练所花费的时间:
+vt.＆vi. [美] 练习，训练，相当于practise。比train更强调一种反复性、连贯性，直到做到完美:
+n. [U, C] 一些专业人士（例如医生、牙医、律师）所从事的工作或业务；也可指其工作地点:
+practice |['præktɪs]
+to practice the piano 练习弹钢琴 
+to practice the dance 练习舞蹈 
+The team is practicing for their big game on Friday. 球队正在训练，备战星期五的重大比赛。
+She’s practicing medicine in Philadelphia. 她在费城行医。
+the theory and practice of teaching 教学的理论与实践 
+to put her ideas into practice 把她的想法付诸实践 
+The idea sounds fine in theory, but would it work in practice? 这种想法理论上好像不错，但是做起来行得通吗？
+clinical, legal, social practice 临床实践；法律实务；社会实践 
+the medical practices of ancient Egypt 古埃及的医术 
+accounting, employment, management practice 会计实务；招聘实务；管理实务 
+basketball practice 篮球训练 
+conversation practice 会话练习 
+It takes a lot of practice to play the violin well. 拉好小提琴需要多加练习。
+I’ve had a lot of practice in saying ‘no’ recently! 我最近已经拒绝别人很多次了！
+This chapter gives students practice in using adjectives. 本章让学生练习使用形容词。
+practice facilities, practice ground 练习设施；训练场地 
+practice game, practice session 练习赛；训练课 
+The children need more practice in tying their shoelaces. 孩子们还需要再练习练习系鞋带。
+practice makes perfect（谚语）熟能生巧
+It is his practice to read several books a week. 他习惯于每周读几本书。
+religious practices 宗教习俗 
+cultural practices 文化习俗
+common, current practice 一般做法；现行做法 
+environmentally sound practices 无害于环境的做法 
+ethical practice 道德的行为 
+corrupt, fraudulent, questionable, unfair practice 腐败行为；欺诈的做法；可疑的举动；不公平的做法 
+the company’s general practice of selling through agent 公司通常通过代理商销售的做法 
+It is standard practice not to pay bill until the end of the month. 通常的做法是月底才付账。
+basketball practice 篮球练习 
+target practice 射击练习 
+practice facilities, practice ground 练习设施；训练场地 
+practice game, practice session 练习赛；训练课 
+The team is practicing for their big game on Friday. 球队正在训练，以备战星期五的大赛。
+the practice of medicine 行医 
+My solicitor is no longer in practice. 我的律师已不再执业了。
+He runs a successful legal practice in London. 他在伦敦经营一家成功的律师事务所。
+She maintains a private practice as a mental health consultant. 她作为一名精神健康顾问经营着一家私人事务所。
+
+adj. 1 可信赖（能把某事做好）的；可依靠的。相当于dependable:
+2 很可能是正确或真实的，即真实可信的，可靠的:
+reliable |[rɪ'laɪəbl]
+We are looking for someone who is reliable and hard-working. 我们在物色可靠而又勤奋的人。
+a reliable friend 可信赖的朋友 
+My car’s not as reliable as it used to be. 我的车不像过去那样靠得住了。
+It has a highly reliable control system. 它有一套极可靠的控制系统。
+Our information comes from a reliable source. 我们的消息来源可靠。
+a reliable witness 可信的目击证人 
+reliable data 可靠的数据 
+This statement is not reliable as evidence. 这一陈述作为证据是不可靠的。
+
+n. [C, U] 从下午到上床睡觉之间的一段时间，即晚上；傍晚:
+n. [C] 某类晚间活动，如晚会:
+evening |['i:vnɪŋ]
+Supper is from 5:00 to 6:00 in the evening. 晚餐是在傍晚5至6点间。
+evening sky, evening sun 夜空；落日 
+evening entertainment 晚间娱乐 
+evening news 晚间新闻 
+good evening 晚上好
+musical, social evening 音乐晚会；社交晚会 
+evening clothes, evening dress 晚礼服
+
+
+evenings | 晚上,夜晚
+
+allocate (sb/sth) sth（为某一目的）正式将某事物给予某人或其他事物，如划拨、分拨、分配:
+allocate |['æləkeɪt]
+vt. allocate sth (for sth) 
+allocate sth (to sb/sth) 
+They intend to allocate more places to mature students this year. 今年他们打算给成年学生提供更多的名额。
+to allocate resources 分配资源 
+More money should be allocated for famine relief. 应拨出更多的钱来赈济饥民。
+
+n. 1 [U] 某事物的逐渐发展或发育（该过程使其变得更先进、更强大等）:
+2 [C] 一个新事态或新阶段（该事态或阶段很可能对后续情况产生影响）:
+n. [C] 建了一些新建筑的一片土地。可称为“建筑开发区”:
+n. [U] 发育:
+n. 1 [U, C] 开发新产品（或更先进的产品）的过程；还可指开发出来的一个新产品（或先进产品）:
+2 [U] 利用一片土地（尤指通过建造建筑来获利）的过程，即开发:
+development |[dɪ'veləpmənt]
+economic, industrial development 经济发展；工业发展 
+evolutionary, historical development 进化；历史演进 
+regional development 地区发展 
+urban development 城市发展 
+brain development 大脑的发育 
+emotional, intellectual, physical, career, psychological development 情感发展；智力发育；身体发育；职业生涯的发展；心理发育 
+the full development of a student’s talents 学生才能的全面发展 
+sustainable development 可持续发展 
+the latest developments in the war 战争的最新进展情况 
+further developments in the investigation 调查的新进展
+housing development 新建住宅区 
+residential development 新建居民区 
+business, commercial development 商业开发区 
+Ribbon developments (= lines of buildings) extended along the main road. 一排排建筑沿着大路伸展。
+brain, cell development 大脑发育；细胞发育 
+intellectual, physical, sexual development 智力发育；身体发育；性发育 
+a baby’s development in the womb 胎儿在子宫内的发育
+product, software, website development 产品开发；软件开发；网站开发 
+drug, vaccine development 药物研发；疫苗研发 
+curriculum development 课程开发 
+This piece of equipment is a new development. 这台设备是一项最新研究成果。
+research and development 研究与开发 
+development costs 开发成本 
+property（尤英）, real estate（美）development 房地产开发 
+He bought the land for development. 他买了这块地准备开发。
+
+n. [C] 文字的段落（一个新的段落要重起一行）:
+paragraph |['pærəɡrɑːf]
+opening paragraph 起始段 
+final paragraph 最后一段 
+key paragraph 关键的段落 
+Start each paragraph on a new line. 每个段落都要另起一行。
+See paragraph 15 of the handbook. 参见手册第15段。

@@ -29,3 +29,493 @@ omit				删除，疏忽
 diploma						毕业文凭
 crack			裂缝，漏洞，噼啪声，猛击，尝试，裂开
 \\\\\\\\
+
+reasoning conducted or assessed according to strict principles of validity:根据严格的有效性原则进行或评估的推理
+a particular system or codification of the principles of proof and inference:一个特定的系统或证明和推理原则的编纂
+the systematic use of symbolic and mathematical techniques to determine the forms of valid deductive argument.:系统地使用符号和数学技术来确定有效演绎论证的形式。
+the quality of being justifiable by reason:有理有据的品质
+the course of action suggested by or following as a necessary consequence of:作为以下的必然结果建议或遵循的行动方案
+a system or set of principles underlying the arrangements of elements in a computer or electronic device so as to perform a specified task.:计算机或电子设备中元素排列的系统或一组原则，以执行特定任务。
+logical operations collectively.:逻辑运算统称。
+logic |ˈlɒdʒɪk| Noun/:,逻辑性
+experience is a better guide to this than deductive logic:经验是比演绎逻辑更好的指导
+Aristotelian logic:亚里士多德逻辑
+there seemed to be a lack of logic in his remarks:他的话好像缺乏逻辑
+the logic of private competition was to replace small firms by larger firms:私人竞争的逻辑是用大公司取代小公司
+
+(of a word or form) denoting or referring to just one person or thing:（一个词或形式）表示或指代一个人或一件事
+single, unique:单一的，独特的
+exceptionally good or great, remarkable:Exceptionally good or great, 非凡的
+strange or eccentric in some respect:在某些方面奇怪或古怪
+(of a square matrix) having a zero determinant.:（方阵）具有零行列式。
+relating to or of the nature of singularity.:与奇点有关或属于奇点的性质。
+a singular word or form.:一个单数词或形式。
+the singular number:单数
+singular |ˈsɪŋɡjʊlə| Adjective/Noun/:单数,单数的,奇异的
+the third person singular form of the verb:动词的第三人称单数形式
+she always thought of herself as singular, as his only daughter:她一直认为自己是独一无二的，是他唯一的女儿
+he had the singular good fortune not to die in the trenches:他有幸没有死在战壕里
+no explanation accompanied this rather singular statement:没有任何解释伴随着这个相当单一的声明
+a word in the singular:单数形式的单词
+
+a place regarded in various religions as a spiritual realm of evil and suffering, often traditionally depicted as a place of perpetual fire beneath the earth where the wicked are punished after death:一个在各种宗教中被视为邪恶和痛苦的精神境界的地方，传统上通常被描述为地下永恒之火的地方，恶人死后受到惩罚
+a situation, experience, or place of great suffering:极度痛苦的情况、经历或地方
+hell |hɛl| Interjection/Noun/:地狱,见鬼去
+irreligious children were assumed to have passed straight to the eternal fires of hell:无宗教信仰的孩子被认为直接进入地狱的永恒之火
+I've been through hell:我经历过地狱
+
+of or concerned with the actual doing or use of something rather than with theory and ideas:of或关心实际做或使用某事而不是理论和想法
+(of an idea, plan, or method) likely to succeed or be effective in real circumstances, feasible:（一个想法、计划或方法）在实际情况下可能成功或有效，可行的
+suitable for a particular purpose:适合特定用途
+(of a person) sensible and realistic in their approach to a situation or problem:（一个人）在处理情况或问题时明智和现实
+(of a person) skilled at manual tasks:（人的）精通手工任务
+so nearly the case that it can be regarded as so, virtual:几乎可以认为是这样的情况，虚拟的
+an examination or lesson in which theories and procedures learned are applied to the actual making or doing of something.:
+practical |ˈpraktɪkl| Adjective/Noun/:实际的,实践课,实用,实际
+there are two obvious practical applications of the research:该研究有两个明显的实际应用
+neither of these strategies are practical for smaller businesses:这些策略都不适用于小型企业
+a practical, stylish kitchen:一个实用、时尚的厨房
+I'm merely being practical—we must find a ground-floor flat:我只是务实——我们必须找到一楼的公寓
+Steve'll fix it—he's quite practical:史蒂夫会修好的——他很实际
+
+
+a form of transport that travels regularly between two places:一种定期往返于两地之间的交通工具
+a bobbin with two pointed ends used for carrying the weft thread across between the warp threads in weaving.:一个带有两个尖端的筒子，用于在编织中将纬线穿过经线之间。
+a bobbin carrying the lower thread in a sewing machine.:缝纫机中携带底线的梭芯。
+travel regularly between two or more places:在两个或多个地方之间定期旅行
+transport in a shuttle:班车运输
+shuttle |ˈʃʌt(ə)l| Noun/Verb/:穿梭,梭,穿梭巴士
+the nine o'clock shuttle from Edinburgh:从爱丁堡出发的九点钟班车
+the Secretary of State shuttled to and fro seeking compromise:国务卿穿梭来回寻求妥协
+the river taxi shuttled employees between the newspaper's offices and the capital:the河出租车在报社和首都之间穿梭员工
+
+
+a consideration or amount that diminishes or balances the effect of an opposite one:减少或平衡相反影响的对价或金额
+the amount or distance by which something is out of line:某物越界的数量或距离
+a short distance measured perpendicularly from the main line of measurement.:从测量主线垂直测量的短距离。
+a small deviation or bias in a voltage or current:电压或电流的小偏差或偏差
+a side shoot from a plant serving for propagation:用于繁殖的植物的侧芽
+a spur in a mountain range.:山脉中的一个支点。
+a sloping ledge in a wall or other feature where the thickness of the part above is diminished.:墙壁或其他特征中的倾斜壁架，其上方部分的厚度减小。
+a bend in a pipe to carry it past an obstacle:
+a method of printing in which ink is transferred from a plate or stone to a uniform rubber surface and from that to the paper:一种印刷方法，其中油墨从印版或石材转移到均匀的橡胶表面，再从橡胶表面转移到纸张上
+counteract (something) by having an equal and opposite force or effect:通过具有相等且相反的力或效果来抵消（某物）
+place out of line:地方越界
+(of ink or a freshly printed page) transfer an impression to the next leaf or sheet:（墨水或新打印的页面）将印象转移到下一页或下一页
+offset |ˈɒfsɛt| Noun/Verb/:抵消,胶印的,偏移量
+widow's bereavement allowance is an offset against income:丧偶津贴是对收入的抵消
+these wheels have an offset of four inches:这些轮子有四英寸的偏移量
+a present of tulip bulbs, offsets, and seeds for his garden:为他的花园准备的郁金香球茎、胶印和种子礼物
+allow for any bend you need including offsets for connecting the downpipe:允许您需要的任何弯曲，包括连接落水管的偏移
+they produced banknotes by offset:他们通过抵消生产钞票
+donations to charities can be offset against tax:对慈善机构的捐赠可以抵税
+several places where the ridge was offset at right angles to its length:几处山脊与其长度成直角偏移的地方
+there was some offsetting on to text:文本有一些偏移
+
+the events that will necessarily happen to a particular person or thing in the future:将来一定会发生在某个人或事上的事件
+the hidden power believed to control future events, fate:被认为控制未来事件的隐藏力量，命运
+destiny |ˈdɛstɪni| Noun/:命运,宿命
+she was unable to control her own destiny:她无法掌握自己的命运
+he believed in destiny:他相信命运
+
+a state of confusion:混乱的状态
+the breakdown of peaceful and law-abiding public behaviour:和平守法公共行为的崩溃
+an illness or condition that disrupts normal physical or mental functions:扰乱正常身体或精神功能的疾病或状况
+disrupt the systematic functioning or neat arrangement of:扰乱系统的运作或整洁的安排
+disorder |dɪsˈɔːdə| Noun/Verb/:紊乱,混乱,无序
+the world 's currency markets were in disorder:世界货币市场混乱
+recurrent food crises led to outbreaks of disorder:反复出现的粮食危机导致混乱爆发
+skin disorders:皮肤病
+they are disordering the political landscape:他们正在扰乱政治格局
+
+the action of denying something:否认某事的动作
+a statement that something is not true:声明某事不正确
+the refusal of something requested or desired:拒绝请求或想要的东西
+refusal to acknowledge an unacceptable truth or emotion or to admit it into consciousness, used as a defence mechanism:拒绝承认不可接受的真相或情绪或将其纳入意识，用作防御机制
+refusal to acknowledge someone as one's leader.:
+denial |dɪˈnʌɪəl| Noun/:否认,拒绝
+she shook her head in denial:她摇头否认
+his pious denials of responsibility:他虔诚地推卸责任
+the denial of insurance to people with certain medical conditions:拒绝为患有某些疾病的人提供保险
+I was an addict in denial:我是一个否认的瘾君子
+
+turn or cause to turn or whirl round quickly:快速转身或导致转身或旋转
+(of a person's head) give a sensation of dizziness:（一个人的头）给人一种头晕目眩的感觉
+toss (a coin).:抛硬币）。
+(with reference to a ball) move or cause to move through the air with a revolving motion:（指球）以旋转运动移动或导致在空中移动
+spin-dry (clothes).:甩干（衣服）。
+play (a record):播放（记录）
+shape (sheet metal) by pressure applied during rotation on a lathe:通过在车床上旋转时施加的压力来成型（金属板）
+draw out and twist (the fibres of wool, cotton, or other material) to convert them into yarn, either by hand or with machinery:用手或机器将羊毛、棉或其他材料的纤维拉出并捻转成纱线
+make (threads) by drawing out and twisting fibres of wool, cotton, or other material:通过拉出和捻线羊毛、棉或其他材料的纤维来制造（线）
+(of a spider or a silkworm or other insect) produce (gossamer or silk) or construct (a web or cocoon) by extruding a fine viscous thread from a special gland.:（蜘蛛、蚕或其他昆虫）通过从特殊腺体中挤出细密的粘性线来生产（游丝或丝绸）或构造（网或茧）。
+give (a news story) a particular emphasis or bias:给予（新闻报道）特别的强调或偏见
+fish with a spinner:用旋转器钓鱼
+a rapid turning or whirling motion:快速转动或回旋运动
+revolving motion imparted to a ball in a game, especially cricket, tennis, or snooker:在比赛中球的旋转运动，尤其是板球、网球或斯诺克
+an uncontrolled fast revolving descent of an aircraft, resulting from a stall:由于失速导致飞机失控快速旋转下降
+the intrinsic angular momentum of a subatomic particle.:亚原子粒子的固有角动量。
+a brief trip in a vehicle for pleasure:一次短暂的乘车旅行
+the presentation of information in a particular way, a slant, especially a favourable one:以特定方式、倾斜、尤其是有利的方式呈现信息
+a piece of good or bad luck:一块好运气或坏运气
+spin |spʌn| Noun/Verb/:旋转,自旋
+the figures were enough to make her head spin:这些数字足以让她头晕目眩
+a DJ spins hits from the sixties:aDJ播放60年代的热门歌曲
+spun metal components:旋转金属部件
+an old lady sat, spinning thread:一位老太太坐着纺线
+this method is used to spin filaments from syrups:此方法用于从糖浆中纺丝
+ministers may now find it difficult to use the programme to spin stories in their favour:部长们现在可能会发现很难使用该程序来编造对他们有利的故事
+they were spinning for salmon in the lake:他们在湖里旋转钓鲑鱼
+he concluded the dance with a double spin:他以双旋结束舞蹈
+this racket enables the player to impart more spin to the ball:这种球拍使球员能够使球产生更多的旋转
+he tried to stop the plane from going into a spin:他试图阻止飞机旋转
+an hour-long spin class:一个小时的旋转课程
+a spin around town:在城里转转
+officials put a positive spin on the report:官员们对报告持积极态度
+Kevin had had a rough spin:凯文有一个粗略的旋转
+
+
+the beginning of something, especially something unpleasant:事情的开始，尤其是不愉快的事情
+a military attack.:军事攻击。
+onset |ˈɒnsɛt| Noun/:发作,开始
+the onset of winter:冬天的来临
+
+a person born in a specified place or associated with a place by birth, whether subsequently resident there or not:出生在指定地点或出生时与某个地方有关的人，无论其后是否居住在那里
+a local inhabitant:当地居民
+a non-white original inhabitant of a place, as regarded by European colonists or travellers.:一个地方的非白人原始居民，被欧洲殖民者或旅行者认为。
+an animal or plant indigenous to a place:一个地方土生土长的动物或植物
+an oyster reared in British waters.:在英国海域饲养的牡蛎。
+associated with the place or circumstances of a person's birth:与一个人出生的地点或情况有关
+of the indigenous inhabitants of a place:某地的原住民
+(of a plant or animal) of indigenous origin or growth:（植物或动物的）土著起源或生长
+used in names of animals or plants resembling others familiar elsewhere, e.g. native bee.:用于与其他地方熟悉的动物或植物名称相似的动物或植物，例如本地蜜蜂。
+(of a quality) belonging to a person's character from birth, innate:（品质）属于一个人的性格，天生的
+(of a metal or other mineral) found in a pure or uncombined state.:（金属或其他矿物）以纯净或未化合状态存在。
+designed for or built into a given system, especially denoting the language associated with a given processor, computer, or compiler, and programs written in it.:为给定系统设计或内置于给定系统中，特别是指与给定处理器、计算机或编译器相关的语言，以及在其中编写的程序。
+native |ˈneɪtɪv| Adjective/Noun/:本国的,本地人,土生土长的
+a native of Montreal:蒙特利尔本地人
+New York in the summer was too hot even for the natives:夏天的纽约对当地人来说也太热了
+the marigold is a native of southern Europe:万寿菊原产于南欧
+he's a native New Yorker:他是土生土长的纽约人
+a ceremonial native dance from Fiji:来自斐济的仪式性本土舞蹈
+eagle owls aren't native to Britain:鹰鸮不是英国本土的
+some last vestige of native wit prompted Guy to say nothing:一些天生机智的最后痕迹促使Guy什么也没说
+
+in a state of nervous excitement or anxiety:处于紧张兴奋或焦虑的状态
+(of a piece of writing or a work of art) too elaborate or complicated in design or construction:（关于一篇文章或一件艺术品）在设计或构造上过于精细或复杂
+overwrought |ˌəʊvəˈrɔːt| Adjective/:雕饰,过度劳累,过度紧张的
+she was too overwrought to listen to reason:她太紧张了，不听道理
+a pseudo-Gothic church far too overwrought for such a small town:一个伪哥特式教堂对于这样一个小镇来说太过分了
+
+cook (food, especially meat) by prolonged exposure to heat in an oven or over a fire:通过在烤箱或火上长时间暴露于高温来烹饪（食物，尤其是肉类）
+(of food) be cooked by roasting:（食物的）通过烘烤来烹调
+process (a foodstuff, metal ore, etc.) by subjecting it to intense heat:通过高温处理（食品、金属矿石等）
+make or become very warm, especially through exposure to the heat of the sun or a fire:使或变得非常温暖，尤其是通过暴露在太阳或火的热量下
+criticize or reprimand severely:严厉批评或斥责
+subject to good-natured ridicule:受到善意的嘲笑
+(of food) having been roasted:（食物）已被烤
+a joint of meat that has been roasted or that is intended for roasting:一块已经烤过或准备烤的肉
+the process of roasting something, especially coffee, or the result of this:烘焙某样东西的过程，尤其是咖啡，或者这个的结果
+a particular type of roasted coffee:一种特定类型的烘焙咖啡
+an outdoor party at which meat of a particular type is roasted:烤特定类型肉类的户外聚会
+a banquet at which the guest of honour is subjected to good-natured ridicule.:贵宾受到善意嘲笑的宴会。
+roast |rəʊst| Adjective/Noun/Verb/:烤,烤的
+she was going to roast a leg of mutton for Sunday dinner:她打算在周日晚餐时烤一条羊腿
+she checked the meat roasting in the oven for lunch:她检查了午餐烤箱里烤的肉
+decaffeinated coffee beans are roasted and ground:不含咖啡因的咖啡豆经过烘焙和研磨
+if you waste his time he'll roast you:如果你浪费他的时间他会烤你
+the Prince was roasted by Martin—a friendly American custom of insulting a person as a sign of favour:ThePrince被Martin烤——美国友好的侮辱一个人以示好感的习俗
+a plate of cold roast beef:一盘冷烤牛肉
+carving the Sunday roast:
+the roast is stopped when the colour is moderately dark brown:颜色适度深褐时停止烤
+continental roasts:大陆烤肉
+Harold put on a terrific pig roast:哈罗德做了一顿很棒的烤猪
+
+look closely at or examine (someone or something):通过测量一个区域获得的地图、计划或详细描述。
+examine and record the area and features of (an area of land) so as to construct a map, plan, or description:检查并记录（一块土地）的面积和特征，以便绘制地图、计划或描述
+examine and report on the condition of (a building), especially for a prospective buyer:检查并报告（建筑物）的状况，特别是对于潜在买家
+investigate the opinions or experience of (a group of people) by asking them questions:通过提问调查（一群人）的意见或经验
+investigate (behaviour or opinions) by questioning a group of people:通过询问一群人来调查（行为或意见）
+a general view, examination, or description of someone or something:对某人或某事的一般看法、检查或描述
+an investigation of the opinions or experience of a group of people, based on a series of questions:基于一系列问题对一群人的意见或经验进行调查
+an act of surveying a building:测量建筑物的行为
+a written report detailing the findings of a building survey:详细说明建筑调查结果的书面报告
+an act of surveying an area of land:测量一块土地的行为
+a map, plan, or detailed description obtained by surveying an area.:通过测量一个区域获得的地图、计划或详细描述。
+a department carrying out the surveying of land:A部门进行土地测量
+survey |səˈveɪ| Noun/Verb/:民意调查,审视,调查,问卷调查
+her green eyes surveyed him coolly:她的绿眼睛冷冷地打量着他
+he surveyed the coasts of New Zealand:He调查了新西兰的海岸
+the cottage didn't look unsafe, but he had it surveyed:小屋看起来并不安全，但他已经对它进行了调查
+95 per cent of patients surveyed were satisfied with the health service:95%的受访患者对医疗服务感到满意
+the investigator surveyed the attitudes and beliefs held by residents:调查员调查居民的态度和信念
+the author provides a survey of the relevant literature:作者提供相关文献调查
+a survey conducted by Gardening Which?:Gardening Which? 进行的一项调查？
+the building society will insist that you have a survey done:房屋互助协会会坚持要求您完成调查
+the third type of report is a full structural survey:第三类报告是全结构调查
+the flight involved a detailed aerial survey of military bases:此次飞行涉及对军事基地的详细航测
+the British Geological Survey:英国地质调查局
+
+an outline of something, especially a person's face, as seen from one side:事物的轮廓，尤其是人脸的轮廓，从一侧看
+a vertical cross section of a structure:结构的垂直横截面
+an outline of part of the earth's surface, e.g. the course of a river, as seen in a vertical section:地球表面部分的轮廓，例如河道，如在垂直剖面中所见
+a flat outline piece of scenery on stage.:舞台布景平面轮廓。
+a short article giving a description of a person or organization:一篇描述个人或组织的短文
+(on a social media site or application) a user's summary of their personal details or current situation:（在社交媒体网站或应用程序上）用户对其个人详细信息或当前状况的总结
+the extent to which a person or organization attracts public notice:个人或组织引起公众注意的程度
+a graphical or other representation of information relating to particular characteristics of something, recorded in quantified form:以量化形式记录的与某事物的特定特征相关的信息的图形或其他表示
+a record of a person's psychological or behavioural characteristics, preferences, etc.:一个人的心理或行为特征、喜好等的记录。
+describe (a person or organization) in a short article:用短文描述（一个人或组织）
+represent in outline from one side:表示从一侧的轮廓
+have a specified shape in outline:轮廓有特定的形状
+shape (something), especially by means of a tool guided by a template:形状（某物），尤指通过模板引导的工具
+profile |ˈprəʊfʌɪl| Noun/Verb/:轮廓,概述,简介,个人资料
+the man turned and she caught his profile:那个男人转身，她抓住了他的侧面
+skilfully made vessels with an S-shaped profile:精工细造的S形器皿
+in soft rocks a profile drawn normally to the beach would show a concave form comparable with the long profile of a river:在软岩中，通常绘制到海滩的剖面会显示出与河流的长剖面相当的凹形
+a profile of a Texas tycoon:德州大亨简介
+he posted the pictures on his Facebook profile:他将这些照片发布在他的 Facebook 个人资料中
+raising the profile of women in industry:提高女性在行业中的形象
+a sleep profile for someone on a shift system:轮班制某人的睡眠概况
+they had been using personal details to build customer profiles:他们一直在使用个人详细信息来建立客户档案
+he was to profile a backbench MP:他要介绍一位后座议员
+he was standing motionless, profiled on the far side of the swimming pool:他一动不动地站在游泳池的另一边
+a proud bird profiled like a phoenix:一只外形像凤凰的骄傲的鸟
+I use my angle grinder all the time for profiling tiles:我一直用我的角磨机来打磨瓷砖
+
+a person's child or children:一个人的孩子
+an animal's young.:动物的幼崽。
+the product or result of something:某事的产物或结果
+offspring |ˈɒfsprɪŋ| Noun/:后代,子孙
+the offspring of middle-class parents:中产阶级父母的后代
+child hunger is the offspring of political indfference, unaccountable governance, and economic mismanagement:儿童饥饿是政治冷漠、不负责任的治理和经济管理不善的产物
+
+able to be done or put into practice successfully:能够成功地完成或付诸实践
+able to be used, useful:能用，有用
+practicable |ˈpraktɪkəbl| Adjective/:可行的,切实可行
+the measures will be put into effect as soon as is reasonably practicable:措施将在合理可行的情况下尽快实施
+signal processing can let you transform a signal into a practicable form:信号处理可以让您将信号转换为可行的形式
+
+tell (someone) officially that they can or must leave a place or situation.:正式告诉（某人）他们可以或必须离开某个地方或情况。
+allow (a patient) to leave hospital because they are judged fit:允许（患者）离开医院，因为他们被判断为适合
+dismiss from the armed forces or police:武装部队或警察开除
+release from the custody or restraint of the law:从法律的监护或约束中释放
+relieve (a juror or jury) from serving in a case:免除（陪审员或陪审团）在案件中的任职
+allow (a liquid, gas, or other substance) to flow out from where it has been confined:允许（液体、气体或其他物质）从它被限制的地方流出
+(of an orifice or diseased tissue) emit (pus or other liquid):（孔口或患病组织的）流出（脓液或其他液体）
+release or neutralize the electric charge of (an electric field, battery, or other object):释放或中和（电场、电池或其他物体）的电荷
+(of a person) fire (a gun or missile):（人的）火（枪或导弹）
+(of a firearm) be fired:（枪支的）被解雇
+unload (goods or passengers) from a ship:从船上卸载（货物或乘客）
+allow (an emotion) to be expressed:允许（一种情绪）被表达
+do all that is required to perform (a duty) or fulfil (a responsibility):做所有需要履行（职责）或履行（责任）的事情
+pay off (a debt):还清（债务）
+release (a party) from a contract or obligation:解除（一方）合同或义务
+relieve (a bankrupt) of residual liability:免除（破产人）剩余责任
+(of a judge or court) cancel (an order of a court):（法官或法院的）取消（法院的命令）
+cancel (a contract) because of completion or breach:由于完成或违约而取消（合同）
+the action of discharging someone from a hospital or from the armed forces or police:将某人从医院或武装部队或警察中解雇的行为
+an act of releasing someone from the custody or restraint of the law:将某人从法律的羁押或约束中释放出来的行为
+the action of discharging a liquid, gas, or other substance:排出液体、气体或其他物质的动作
+a substance that has been discharged:A物质被排出
+the release of electricity from a charged object:带电物体释放电能
+a flow of electricity through air or other gas, especially when accompanied by emission of light:通过空气或其他气体的电流，特别是伴随着光的发射
+the action of firing a gun or missile:发射枪支或导弹的动作
+the action of unloading a ship:卸船的动作
+the action of doing all that is required to fulfil a responsibility or perform a duty:为履行责任或履行义务而尽一切努力的行为
+the payment of a debt:偿还债务
+the relief of a bankrupt from residual liability:破产人免除剩余责任
+the cancellation of an order of a court:法院命令的取消
+discharge |dɪsˈtʃɑːdʒ| Noun/Verb/:释放,卸货,排出,放电,排放
+Mark was taken away in an ambulance but later discharged:马克被救护车带走，但后来出院了
+his memory was impaired and he was discharged from the RAF:他的记忆力受损，他从英国皇家空军退役
+she was conditionally discharged for two years at Oxford Crown Court:她在牛津皇家法院被有条件释放两年
+if the jury cannot agree, it should be discharged:如果陪审团不能同意，就应该出院
+industrial plants discharge highly toxic materials into rivers:工业厂房向河流排放剧毒物质
+the swelling will eventually break down and discharge pus:肿胀最终会分解并排出脓液
+the electrostatic field that builds up on a monitor screen can be discharged:显示器屏幕上建立的静电场可以释放
+when you shoot you can discharge as many barrels as you wish:当你开枪的时候，你想放多少桶就放多少
+there was a dull thud as the gun discharged:枪发射时发出沉闷的砰砰声
+the ferry was discharging passengers:渡轮正在卸客
+he discharged his resentment in the harmless form of memoirs:他以无伤大雅的回忆录形式发泄怨恨
+the bank had failed to discharge its supervisory duties:银行未能履行监管职责
+the executor must discharge the funeral expenses:遗嘱执行人必须清偿丧葬费
+the insurer is discharged from liability from the day of breach:保险人自违约之日起免除责任
+first-time bankrupts are discharged automatically after three years:首次破产三年后自动解除
+the court may discharge a care order on the application of the child:法院可根据孩子的申请解除照顾令
+an existing mortgage to be discharged on completion:完成后解除的现有抵押贷款
+referrals can be discussed before discharge from hospital:转介可以在出院前讨论
+she was given an absolute discharge after admitting breaking a smoking ban:她承认违反禁烟令后被绝对释放
+those germs might lead to vaginal discharge:那些细菌可能会导致白带
+industrial discharge has turned the river into an open sewer:工业排放已将河流变成露天下水道
+slow discharge of a condenser is fundamental to oscillatory circuits:电容器的缓慢放电是振荡电路的基础
+a sizzling discharge between sky and turret:天空和炮塔之间的嘶嘶声
+a police permit for discharge of an air gun:A警察允许气枪发射
+freight for discharge:卸货运费
+directors must use skill in the discharge of their duties:董事在履行职责时必须运用技巧
+money paid in discharge of a claim:为解除索赔而支付的款项
+machinery to rehabilitate the bankrupt through the process of discharge:通过解除程序使破产人重生的机械
+an application for discharge of a supervision order:申请解除监管令
+
+a part of a song which is repeated after each verse:每节后重复的歌曲的一部分
+a piece of choral music, especially one forming part of a larger work such as an opera:一首合唱音乐，尤其是歌剧等大型作品的一部分
+a simple song for group singing in informal Christian worship:一首简单的歌曲，适合在非正式的基督教礼拜中合唱
+a large organized group of singers, especially one which performs with an orchestra or opera company:一大群有组织的歌手，尤其是与管弦乐队或歌剧团一起表演的歌手
+a group of singers or dancers performing together in a supporting role in a stage musical or opera:一群歌手或舞者在舞台音乐剧或歌剧中一起表演配角
+a simultaneous utterance of something by many people:多人同时说某事
+(in ancient Greek tragedy) a group of performers who comment together on the main action:（古希腊悲剧）一群共同评论主要动作的演员
+a single character who speaks the prologue and other linking parts of the play, especially in Elizabethan drama.:一个讲序言和戏剧其他连接部分的单一角色，尤其是在伊丽莎白时代的戏剧中。
+a section of text spoken by the chorus in drama.:一段话剧合唱团的台词。
+a device used with an amplified musical instrument to give the impression that more than one instrument is being played:一种与放大乐器一起使用的设备，给人一种同时演奏不止一种乐器的印象
+(of a group of people) say the same thing at the same time:（一群人的）同时说同样的话
+chorus |ˈkɔːrəs| Noun/Verb/:合唱,合唱团,大合唱
+strong guitar-driven songs with big, big choruses:强劲的吉他驱动歌曲，配以宏大、宏大的合唱
+a selection of choruses from the ‘Messiah’:《弥赛亚》合唱节选
+a typical service includes several hymns and choruses sung by all:一个典型的服务包括几首赞美诗和所有人合唱的合唱
+he has words of praise for the RSNO Chorus:他对 RSNO 合唱团有赞美之词
+the orchestra lacked polish and the chorus were inclined to rush ahead regardless:管弦乐队缺乏润色，合唱团无论如何都倾向于冲在前面
+a growing chorus of complaint:越来越多的抱怨
+Sophocles no longer gave the chorus the major role:索福克勒斯不再让合唱团扮演主要角色
+
+a written law passed by a legislative body:立法机构通过的成文法
+a rule of an organization or institution:组织或机构的规则
+(in biblical use) a law or decree made by a sovereign, or by God.:（圣经中的用法）君主或上帝制定的法律或法令。
+statute |ˈstatʃuːt| Noun/:法令,法规,规约
+the Act consolidated statutes dealing with non-fatal offences:该法案综合了处理非致命罪行的法规
+the appointment will be subject to the statutes of the university:委任将以大学章程为准
+
+the angular distance of a place north or south of the earth's equator, or of the equator of a celestial object, usually expressed in degrees and minutes:地球赤道以北或以南或天体赤道的角距离，通常以度和分表示
+regions, especially with reference to their temperature and distance from the equator:区域，特别是参考它们的温度和距赤道的距离
+scope for freedom of action or thought:行动或思想自由的范围
+the range of exposures for which an emulsion or printing paper will give acceptable contrast:乳剂或相纸可提供可接受对比度的曝光范围
+latitude |ˈlatɪtjuːd| Noun/:,经纬
+at a latitude of 51° N:在北纬51°
+temperate latitudes:温带纬度
+journalists have considerable latitude in criticizing public figures:记者在批评公众人物方面有相当大的自由度
+a film with a latitude which is outstanding:一部有纬度的电影，出类拔萃
+
+(chiefly of animal or vegetable matter) decay or cause to decay by the action of bacteria and fungi, decompose:（主要是动物或植物物质）腐烂或因细菌和真菌的作用而腐烂，分解
+gradually deteriorate, especially through neglect:逐渐恶化，尤其是通过疏忽
+make fun of, tease:取笑，取笑
+the process of decaying:腐烂的过程
+rotten or decayed matter.:腐烂或腐烂的物质。
+any of a number of fungal or bacterial diseases that cause tissue deterioration, especially in plants.:任何导致组织退化的真菌或细菌疾病，尤其是在植物中。
+liver rot in sheep.:羊肝腐烂。
+a process of deterioration, a decline in standards:一个恶化的过程，标准的下降
+corruption on the part of officials.:官员腐败。
+nonsense, rubbish:废话，垃圾
+rot |rɒt| Noun/Verb/:腐烂,腐烂的
+the education system has been allowed to rot:教育系统任由腐烂
+has anybody been rotting you?:有没有人欺负你？
+the leaves were turning black with rot:树叶腐烂变黑
+there is enough talent in the team to stop the rot:团队中有足够的人才来阻止腐烂
+don't talk rot:别说废话
+
+a distinct period or stage in a series of events or a process of change or development:一系列事件或变化或发展过程中的一个明显时期或阶段
+a stage in a person's psychological development, especially a period of temporary difficulty during adolescence or a particular stage during childhood:一个人心理发展的阶段，尤指青春期暂时困难的时期或儿童时期的某个特定阶段
+each of the separate events in an eventing competition.:三项赛中的每个单独项目。
+each of the aspects of the moon or a planet, according to the amount of its illumination, especially the new moon, the first quarter, the full moon, and the last quarter.:月亮或行星的各个方面，根据其照明量，特别是新月、上弦、满月和下弦。
+a genetic or seasonal variety of an animal's coloration:动物颜色的遗传或季节性变化
+a distinct and homogeneous form of matter (i.e. a particular solid, liquid, or gas) separated by its surface from other forms:一种独特且均匀的物质形式（即特定的固体、液体或气体），由其表面与其他形式分开
+the relationship in time between the successive states or cycles of an oscillating or repeating system (such as an alternating electric current or a light or sound wave) and either a fixed reference point or the states or cycles of another system with which it may or may not be in synchrony:振荡或重复系统（如交流电或光波或声波）的连续状态或周期与固定参考点或另一个系统的状态或周期之间的时间关系或者可能不同步
+each of the electrical windings or connections of a polyphase machine or circuit.:多相电机或电路的每个电气绕组或连接。
+(in systemic grammar) the relationship between a catenative verb and the verb that follows it, as in she hoped to succeed and I like swimming.:（在系统语法中）连接动词和它后面的动词之间的关系，比如她希望成功，我喜欢游泳。
+a structure containing two verbs in a phase.:一个包含两个动词的结构。
+carry out (something) in gradual stages:分阶段进行（某事）
+adjust the phase of (something), especially so as to synchronize it with something else:调整（某事）的相位，特别是为了与其他事物同步
+phase |feɪz| Noun/Verb/:阶段,分阶段进行,相,期
+the final phases of the war:战争的最后阶段
+most of your fans are going through a phase:你的大多数粉丝都在经历一个阶段
+the invertebrate residents of the tundra pass the winter in dormant phase:苔原无脊椎动物在休眠期过冬
+solid carbon dioxide passes directly into the gas phase without becoming a liquid:固体二氧化碳直接进入气相而不变成液体
+there are two output channels, one fixed in phase and the other variable in phase between 0 and 360 degrees:有两个输出通道，一个相位固定，另一个相位在0到360度之间可变
+the work is being phased over a number of years:这项工作将在数年内分阶段进行
+about 700f the reflections were phased by this method:大约 700f 的反射通过这种方法定相
+
+disorder or disarrange (someone's hair), typically by running one's hands through it:混乱或打乱（某人的头发），通常是用手穿过它
+(of a bird) erect (its feathers) in anger or display:（鸟的）愤怒或炫耀时竖起（它的羽毛）
+disturb the smoothness or tranquillity of:打扰的平稳或宁静
+disconcert or upset the composure of (someone):使（某人）不安或不安
+a strip of lace or other material, gathered along one edge to make an ornamental frill on a garment or other piece of fabric.:一条花边或其他材料，沿着一个边缘聚集在一起，在衣服或其他织物上形成装饰性褶边。
+a vibrating drumbeat.:一个振动的鼓点。
+ruffle |ˈrʌfl| Noun/Verb/:荷叶边,皱褶
+he ruffled her hair affectionately:他深情地抚摸着她的头发
+they warbled incessantly, their throat feathers ruffled:他们不停地啭鸣，喉咙里的羽毛竖起
+the evening breeze ruffled the surface of the pond in the yard:晚风吹拂着院子里的池塘水面
+Brian had been ruffled by her questions:布莱恩被她的问题激怒了
+
+showing a great deal of variety; very different:表现出多种多样；非常不一样
+including or involving people from a range of different social and ethnic backgrounds and of different genders, sexual orientations, etc.:包括或涉及来自不同社会和种族背景以及不同性别、性取向等的人。
+diverse |dʌɪˈvəːs| Adjective/:各种各样的,多样化,多样的
+subjects as diverse as architecture, language teaching, and the physical sciences:学科多样，如建筑、语言教学和物理科学
+our company is an equal opportunity employer committed to hiring a diverse workforce:我们的公司是一个机会均等的雇主，致力于雇用多元化的劳动力
+
+
+evil or morally wrong:邪恶或道德错误
+intended to or capable of harming someone or something:意图或能够伤害某人或某事
+extremely unpleasant:极度不愉快
+playfully mischievous:调皮捣蛋
+excellent, wonderful:
+wicked |ˈwɪkɪd| Adjective/:邪恶,邪恶的,恶毒的
+a wicked and unscrupulous politician:一个邪恶无良的政客
+despite the sun, the wind outside was wicked:尽管阳光明媚，外面的风还是很大
+a wicked sense of humour:邪恶的幽默感
+Sophie makes wicked cakes:苏菲做邪恶的蛋糕
+
+leave out or exclude (someone or something), either intentionally or forgetfully:有意或无意地遗漏或排除（某人或某物）
+fail or neglect to do:失败或忽视做
+omit |ə(ʊ)ˈmɪt| Verb/:忽略,略,省略,略去
+he was omitted from the second Test:他在第二次测试中被遗漏了
+he modestly omits to mention that he was a pole-vault champion:他谦虚地没有提到他是撑杆跳冠军
+
+a certificate awarded by an educational establishment to show that someone has successfully completed a course of study.:教育机构颁发的证明某人已成功完成学习课程的证书。
+an official document or charter.:官方文件或章程。
+diploma |dɪˈpləʊmə| Noun/:文凭,毕业证书
+
+a line on the surface of something along which it has split without breaking apart:某物表面上的一条线，它沿着它分裂而没有分开
+a narrow space between two surfaces which have broken or been moved apart:两个已经破裂或分开的表面之间的狭窄空间
+a vulnerable point, a flaw:一个弱点，一个缺陷
+the cleft between the buttocks:臀部裂口
+a sudden sharp or explosive noise:突然的尖锐或爆炸声
+a sharp audible blow:一声尖锐的打击声
+a sudden harshness or change in pitch in a person's voice:一个人的声音突然变得刺耳或变调
+a joke, typically a critical or unkind one:一个笑话，通常是批评性的或不友善的
+enjoyable social activity, a good time:愉快的社交活动，美好的时光
+a conversation:一次对话
+an attempt to achieve something:尝试实现某事
+a chance to attack or compete with someone:攻击或与某人竞争的机会
+a potent hard crystalline form of cocaine broken into small pieces and inhaled or smoked:一种强效的硬结晶可卡因，破碎成小块并吸入或吸食
+break or cause to break without a complete separation of the parts:在零件没有完全分离的情况下断裂或导致断裂
+break or cause to break open or apart:打破或导致打破或分开
+break (wheat or corn) into coarse pieces.:将（小麦或玉米）打成粗块。
+give way or cause to give way under torture, pressure, or strain:在酷刑、压力或压力下让步或导致让步
+make or cause to make a sudden sharp or explosive sound:发出或导致发出突然尖锐或爆炸性的声音
+knock hard against something:用力敲击某物
+hit (someone or something) hard:狠狠地打（某人或某物）
+(of a person's voice) suddenly change in pitch, especially through strain:（一个人的声音）突然改变音高，尤其是通过紧张
+find a solution to, decipher or interpret:找到解决方案，破译或解释
+break into (a safe).:闯入（保险箱）。
+tell (a joke):说一个笑话）
+decompose (hydrocarbons) by heat and pressure with or without a catalyst to produce lighter hydrocarbons, especially in oil refining:在有或没有催化剂的情况下通过热和压力分解（碳氢化合物）以产生较轻的碳氢化合物，特别是在炼油中
+very good or skilful:非常好或熟练
+crack |krak| Adjective/Noun/Verb/:裂缝,破裂,训练有素的,裂纹,破解
+a hairline crack down the middle of the glass:一条细线从玻璃中间裂开
+he climbed into a crack between two rocks:他爬进了两块岩石之间的裂缝
+the company spotted a crack in their rival's defences:该公司发现竞争对手的防御存在漏洞
+her hair came down to her bum crack:她的头发垂到屁股缝
+a loud crack of thunder:一声响亮的雷声
+she gave the thief a crack over the head with her rolling pin:她用擀面杖敲了敲小偷的脑袋
+the boy's voice had an uncertain crack in it:男孩的声音中带着不确定的裂缝
+he knew about the gossip and would make the odd crack:他知道流言蜚语，会制造奇怪的裂缝
+he loved the crack, the laughing:他喜欢爆笑和大笑
+they are having a great crack about shooting:他们对射击很在行
+I fancy having a crack at winning a fourth title:我想赢得第四个冠军
+he wanted to have a crack at the enemy:他想对付敌人
+he uses crack and cocaine:He使用快克和可卡因
+she winced as her knees cracked against metal:当她的膝盖撞到金属时她畏缩了一下
+she cracked him across the forehead:她敲了敲他的额头
+‘I want to get away,’ she said, her voice cracking:‘我想离开，’她说，她的声音嘶哑
+the code will help you crack the messages:密码帮你破解信息
+he cracked jokes which she didn't find very funny:He讲了一些她觉得不太好笑的笑话
+catalytic cracking increases gasoline yields:催化裂化提高汽油收率
+he is a crack shot:他是神枪手
