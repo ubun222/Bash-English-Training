@@ -26,7 +26,7 @@ duplicate						复制，重复，副本
 ecosystem						生态系统
 humorous						幽默的
 contaminate						污染
-orbit							轨道，势力范围，绕…运行
+orbit							轨道，势力范围，绕...运行
 evolve						进化，逐步发展
 skyrocket						飞涨
 \\\\

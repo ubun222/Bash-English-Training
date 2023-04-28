@@ -29,3 +29,360 @@ main					主要的，总管
 repertoire				常规节目，全部本领
 void					空白，无效的
 \\\\\\\\
+
+of little value or importance:没有什么价值或重要性
+(of a person) concerned only with petty things.:（一个人的）只关心小事。
+denoting a subgroup that either contains only the identity element or is identical with the given group.:表示仅包含标识元素或与给定组相同的子组。
+trivial |ˈtrɪvɪəl| Adjective/:琐碎的,不重要的,微不足道的
+huge fines were imposed for trivial offences:小犯大罚
+
+absence of difficulty or effort:没有困难或努力
+absence of rigidity or discomfort, poise:没有僵硬或不适，保持镇定
+freedom from worries or problems:从烦恼或问题中解脱出来
+make (something unpleasant or intense) less serious or severe:使（不愉快或激烈的事情）不那么严重或严重
+become less serious or severe:变得不那么严重或严重
+make (something) happen more easily, facilitate:使（某事）更容易发生，促进
+(of share prices, interest rates, etc.) decrease in value or amount:
+slacken a rope or sail.:松开绳索或帆。
+move carefully or gradually:小心或逐渐移动
+move (someone or something) carefully or gradually:移动（某人或某物）小心或逐渐
+ease |iːz| Noun/Verb/:舒适,缓解,减轻,轻松
+she gave up smoking with ease:她轻松戒烟
+I was always vexed by her self-contained ease:我总是被她自给自足的安逸所困扰
+a life of wealth and ease:富贵安逸的生活
+a huge road-building programme to ease congestion:一个庞大的道路建设计划，以缓解拥堵
+international tension began to ease:国际紧张局势开始缓和
+Tokyo's dominance of government was deemed to ease efficient contact-making:东京对政府的主导地位被认为可以促进有效的联系
+shares eased 6p to 224p:股价下跌 6 便士至 224 便士
+I eased down the slope with care:我小心翼翼地缓下斜坡
+she eased off her shoes:她脱掉鞋子
+
+
+provide (a house or room) with furniture and fittings:提供（房子或房间）家具和配件
+be a source of, provide:成为来源，提供
+supply someone with (something), give (something) to someone:给某人提供（某物），给某人（某物）
+furnish |ˈfəːnɪʃ| Verb/:装设,提供,供给
+the proprietor has furnished the bedrooms in a variety of styles:业主对卧室进行了各种风格的布置
+fish furnish an important source of protein:鱼是重要的蛋白质来源
+she was able to furnish me with details of the incident:她能够向我提供事件的详细信息
+
+
+miscellaneous articles, especially the equipment needed for a particular activity:杂项物品，特别是特定活动所需的设备
+trappings associated with a particular institution or activity that are regarded as superfluous:与被视为多余的特定机构或活动相关的陷阱
+paraphernalia |ˌparəfəˈneɪlɪə| Noun/:随身用品,用具
+drills, saws, and other paraphernalia necessary for home improvements:钻头、锯子等家居装修必备的工具
+the rituals and paraphernalia of government:政府的仪式和用具
+
+the area covered by something:某物覆盖的区域
+the size or scale of something:某物的大小或尺度
+the particular degree to which something is or is believed to be the case:某事是或被认为是这种情况的特定程度
+extent |ɪkˈstɛnt| Noun/:程度,范围
+an enclosure ten acres in extent:一个占地十英亩的围场
+the extent of global warming:全球变暖的程度
+everyone will have to compromise to some extent:每个人都会有某种程度的妥协
+
+serving as a means of pursuing an aim or policy:作为追求目标或政策的手段
+relating to something's function as a means to an end:与作为达到目的的手段的某物的功能有关
+(of music) performed on instruments, with no vocals:（音乐）在乐器上演奏，没有人声
+relating to musical instruments:关于乐器
+relating to an implement or measuring device:关于工具或测量设备
+denoting or relating to a case of nouns and pronouns (and words in grammatical agreement with them) indicating a means or instrument.:表示或涉及名词和代词（以及与它们语法一致的词）的情况，表示一种手段或工具。
+a piece of (usually non-classical) music performed by instruments, with no vocals:一段（通常是非古典的）乐器演奏的音乐，没有人声
+the instrumental case.:工具箱。
+a noun in the instrumental case.:工具格中的名词。
+instrumental |ˌɪnstrʊˈmɛntl| Adjective/Noun/:器乐的,工具性的
+the Society was instrumental in bringing about legislation:该协会在制定立法方面发挥了重要作用
+a very instrumental view of education and how it relates to their needs:对教育及其与他们需求的关系的非常实用的观点
+a largely instrumental piece:主要是器乐作品
+brilliance of instrumental colour:器乐色的璀璨
+instrumental error:仪器错误
+the opening tune is an instrumental:开场曲是器乐曲
+
+(of a price or amount charged) unreasonably high:（收取的价格或金额）不合理的高
+exorbitant |ɪɡˈzɔːbɪt(ə)nt| Adjective/:高昂,过高的,高昂的
+some hotels charge exorbitant rates for phone calls:一些酒店的电话收费过高
+
+able to catch fire and burn easily:易着火燃烧
+excitable, easily annoyed:易激动，容易生气
+a combustible substance.:一种可燃物质。
+combustible |kəmˈbʌstɪbl| Adjective/Noun/:易燃,可燃的,可燃
+a combustible gas:A可燃气体
+a volatile and combustible personality:易怒易燃的性格
+
+the particulars of the place where someone lives or an organization is situated:某人居住或组织所在的地方的详细信息
+the place where someone lives or an organization is situated:某人居住或组织所在的地方
+a string of characters that identifies a destination for email messages or the location of a website.:一串字符，用于标识电子邮件消息的目的地或网站的位置。
+a binary number that identifies a particular location in a data storage system or computer memory:一个二进制数，用于标识数据存储系统或计算机内存中的特定位置
+a formal speech delivered to an audience:向听众发表的正式演讲
+a person's manner of speaking to someone else:一个人与别人交谈的方式
+courteous or amorous approaches to someone:对某人有礼貌或多情的态度
+skill, dexterity, or readiness:技能、灵巧或准备
+write the name and address of the intended recipient on (an envelope, letter, or parcel):在（信封、信件或包裹）上写下预期收件人的姓名和地址
+speak to (a person or an assembly):与（一个人或一个集会）交谈
+name someone (in the specified way) when talking to them:与某人交谈时（以指定的方式）命名某人
+say or write remarks or a protest to:say或写评论或抗议
+think about and begin to deal with (an issue or problem):思考并开始处理（一个问题或问题）
+take up one's stance and prepare to hit (the ball):站起来准备击球
+address |əˈdrɛs| Noun/Verb/:地址,解决
+they exchanged addresses and agreed to keep in touch:他们交换了地址并同意保持联系
+our officers called at the address:我们的官员打电话到地址
+a numerical value which acts as a storage address for the data:一个数值，作为数据的存储地址
+an address to the European Parliament:欧洲议会致辞
+his address was abrupt and unceremonious:他的讲话很唐突，很不客气
+he persecuted her with his addresses:他用他的地址迫害她
+he rescued me with the most consummate address:他用最完美的地址救了我
+I addressed my letter to him personally:我亲自写给他的信
+she addressed the open-air meeting:她在露天会议上发表讲话
+she addressed my father as ‘Mr Stevens’:她称我父亲为“史蒂文斯先生”
+address your complaints to the Trading Standards Board:向贸易标准委员会提出您的投诉
+a fundamental problem has still to be addressed:一个基本问题仍有待解决
+ensure that your weight is evenly spread when you address the ball:确保你在击球时体重均匀分布
+
+
+old or discarded articles that are considered useless or of little value:被认为无用或价值不大的旧物品或废弃物品
+worthless writing, talk, or ideas:毫无价值的写作、谈话或想法
+a person's belongings:一个人的随身物品
+junk bonds:垃圾债券
+heroin:海洛因
+the lump of oily fibrous tissue in a sperm whale's head, containing spermaceti.:抹香鲸头部的油性纤维组织块，含有鲸蜡。
+a man's genitals.:男人的生殖器。
+discard or abandon unceremoniously:丢弃或毫不客气地放弃
+a flat-bottomed sailing vessel of a kind typical of China and the East Indies, with a prominent stem and lugsails.:一种典型的中国和东印度群岛的平底帆船，具有突出的主干和横帆。
+junk |dʒʌŋk| Noun/Verb/:垃圾,废品
+the cellars are full of junk:地窖里全是垃圾
+I can't write this kind of junk:我不会写这种垃圾
+I only have an hour to get all my junk together:我只有一个小时的时间来收拾我所有的垃圾
+he invested in junk:他投资垃圾
+you do anything for junk—cheat, lie, steal:你为垃圾做任何事——欺骗、撒谎、偷窃
+sort out what could be sold off and junk the rest:找出可以卖掉的东西，剩下的扔掉
+
+the beliefs or opinions that are generally held about someone or something:通常对某人或某事持有的信念或观点
+a widespread belief that someone or something has a particular characteristic:普遍认为某人或某事具有特定特征
+reputation |ˌrɛpjʊˈteɪʃn| Noun/:名声,声誉,名誉
+his reputation was tarnished by allegations of bribery:他的声誉因贿赂指控而受损
+his knowledge of his subject earned him a reputation as an expert:他的学科知识为他赢得了专家的声誉
+
+
+block (an opening, path, road, etc.), be or get in the way of:阻塞（开口、路径、道路等），成为或妨碍
+prevent or hinder (movement or someone or something in motion):阻止或阻碍（运动或某人或某物的运动）
+deliberately make (something) difficult:故意使（某事）变得困难
+commit the offence of intentionally hindering (a police officer):犯故意阻碍罪（警员）
+(in various sports) impede (a player in the opposing team) in a manner which constitutes an offence:（在各种运动中）以构成犯规的方式阻碍（对方球队的球员）
+obstruct |əbˈstrʌkt| Verb/:阻碍,妨碍,壅,阻挠,梗阻
+she was obstructing the entrance:她挡住了入口
+they had to alter the course of the stream and obstruct the natural flow of the water:他们不得不改变溪流的路线并阻碍水的自然流动
+fears that the regime would obstruct the distribution of food:担心政权会阻碍食物的分配
+the appellants were arrested, and later convicted of obstructing the police:上诉人被捕，其后被判妨碍警务罪
+an indirect free kick is awarded for intentionally obstructing an opponent:故意阻拦对方队员判间接任意球
+
+an area that is surrounded by a barrier:被屏障包围的区域
+a section of a racecourse for a specified activity or group of people:用于特定活动或人群的赛马场部分
+a barrier that surrounds an area:围绕一个区域的屏障
+the state of being enclosed, especially in a religious community:被封闭的状态，尤其是在宗教团体中
+the process or policy of fencing in wasteland or common land so as to make it private property, as pursued in much of Britain in the 18th and early 19th centuries:在荒地或公共土地上围栏以使其成为私有财产的过程或政策，正如18世纪和19世纪初英国大部分地区所追求的那样
+a document or object placed in an envelope together with a letter.:与信件一起放在信封中的文件或物品。
+enclosure |ɛnˈkləʊʒə| Noun/:外壳,圈地
+a deer enclosure:A鹿圈
+the members' enclosure:成员围栏
+the cemetery lay within a high walled enclosure:墓地位于高围墙内
+the nuns kept strict enclosure:修女们保持严格的围栏
+one of the chief effects of enclosure was to increase the number of landless workers:圈地的主要影响之一是增加了无地工人的数量
+
+communication over a distance by cable, telegraph, telephone, or broadcasting:通过电缆、电报、电话或广播进行远距离通信
+the branch of technology concerned with telecommunication:与电信有关的技术分支
+a message sent by telecommunication:A电讯发来的讯息
+telecommunication |ˌtɛlɪkəˌmjuːnɪˈkeɪʃn| Noun/:电讯,电信的
+digital telecommunication has much to recommend it:数字电信有很多值得推荐的地方
+the field of telecommunications:电信领域
+it is an offence for a person intentionally to intercept a telecommunication:故意截取电讯属于违法行为
+
+a person who has responsibility for taking care of or protecting something:负责照顾或保护某物的人
+a person employed to clean and maintain a building.:受雇清洁和维护建筑物的人。
+a goalkeeper or wicketkeeper.:守门员或守门员。
+custodian |kʌˈstəʊdɪən| Noun/:保管人,监护人
+the custodians of pension and insurance funds:养老保险基金托管人
+
+focus one's mind for a period of time, in silence or with the aid of chanting, for religious or spiritual purposes or as a method of relaxation:为了宗教或精神目的或作为放松的方法，静默或借助吟唱集中注意力一段时间
+think deeply about (something):深入思考（某事）
+plan mentally, consider:在心理上计划，考虑
+meditate |ˈmɛdɪteɪt| Verb/:幽思,沉思,打坐
+I set aside time every day to write and meditate:我每天留出时间写作和冥想
+he went off to meditate on the new idea:他去思考这个新想法
+they had suffered severely, and they began to meditate retreat:他们受了很大的苦，开始打坐闭关
+
+make (someone) legally or morally bound to do something:使（某人）在法律上或道德上有义务做某事
+do as (someone) asks or desires in order to help or please them:照（某人）的要求或愿望去做，以帮助或取悦他们
+be indebted or grateful:感激或感激
+bind (someone) by an oath, promise, or contract:通过宣誓、承诺或合同来约束（某人）
+oblige |əˈblʌɪdʒ| Verb/:有义务,强迫
+doctors are obliged by law to keep patients alive while there is a chance of recovery:医生有义务在有康复机会的情况下让病人活着
+if you can give me a few minutes of your time I'll be much obliged:如果你能给我几分钟的时间，我将非常感激
+my father had obliged me to the improvement of my stock:我父亲强迫我改善我的存货
+
+against (especially in sporting and legal use):反对（特别是在体育和合法用途中）
+as opposed to, in contrast to:相对于，相对于
+versus |ˈvəːsəs| Preposition/:相对,与,相对于
+England versus Australia:英格兰对澳大利亚
+weighing up the pros and cons of organic versus inorganic produce:权衡有机农产品与无机农产品的利弊
+
+lack of courage or confidence:缺乏勇气或信心
+timidity |tɪˈmɪdɪti| Noun/:胆怯,胆小怕事
+she believes everyone can overcome their timidity:她相信每个人都可以克服胆怯
+
+(of a substance) easily evaporated at normal temperatures:（物质的）在常温下很容易蒸发
+liable to change rapidly and unpredictably, especially for the worse:容易快速和不可预测地改变，尤其是变得更糟
+(of a person) liable to display rapid changes of emotion:（一个人的）容易表现出情绪的快速变化
+(of a computer's memory) retaining data only as long as there is a power supply connected.:（计算机内存）只有在连接电源时才会保留数据。
+a volatile substance.:一种挥发性物质。
+volatile |ˈvɒlətʌɪl| Adjective/Noun/:易挥发的,挥发性,易变的
+volatile solvents such as petroleum ether, hexane, and benzene:石油醚、己烷、苯等挥发性溶剂
+the political situation was becoming more volatile:政治局势变得更加动荡
+a passionate, volatile young man:一个热情多变的年轻人
+
+feeling or showing anger or annoyance at what is perceived as unfair treatment:对被视为不公平的待遇感到或表现出愤怒或烦恼
+indignant |ɪnˈdɪɡnənt| Adjective/:,愤慨,义愤填膺,愤怒的
+he was indignant at being the object of suspicion:他对成为怀疑对象感到愤慨
+
+a device or substance that is used to join two things together so as to prevent them from coming apart or to prevent anything from passing between them:用于将两个事物连接在一起以防止它们分开或防止任何东西在它们之间通过的装置或物质
+the state or fact of being joined or rendered impervious with a seal:用印章连接或使其不透水的状态或事实
+the water standing in the trap of a drain to prevent foul air from rising, considered in terms of its depth:排水管中的水，以防止污浊的空气上升，考虑到它的深度
+a piece of wax, lead, or other material with an individual design stamped into it, attached to a document as a guarantee of authenticity.:
+a design resembling a seal embossed in paper as a guarantee of authenticity.:类似印章的图案压印在纸上作为真实性的保证。
+an engraved device used for stamping a seal.:用于印章的雕刻设备。
+a decorative adhesive stamp.:装饰性不干胶邮票。
+a thing regarded as a confirmation or guarantee of something:被视为某事的确认或保证的事物
+the obligation on a priest not to divulge anything said during confession:牧师有义务不泄露在忏悔中所说的话
+fasten or close securely:牢固系紧或关闭
+apply a non-porous coating to (a surface) to make it impervious:在（表面）上涂一层无孔涂层，使其不透水
+fry (food) briefly at a high temperature to prevent it from losing moisture during subsequent cooking:在高温下短暂油炸（食物），以防止其在随后的烹饪过程中失去水分
+conclude, establish, or secure (something) definitively:明确地总结、确立或确保（某事）
+fix a piece of wax or lead stamped with a design to (a document) to authenticate it.:将一块印有设计图案的蜡或铅固定到（文件）上以验证它。
+a fish-eating aquatic mammal with a streamlined body and feet developed as flippers, that returns to land to breed or rest.:一种以鱼为食的水生哺乳动物，身体呈流线型，足部发育成鳍状肢，返回陆地繁殖或休息。
+a member of an elite force within the US Navy, specializing in guerrilla warfare and counter-insurgency:美国海军精锐部队成员，擅长游击战和平叛
+seal |siːl| Noun/Verb/:海豹,封上,密封,封,印章
+attach a draught seal to the door itself:在门上贴上密封条
+many fittings have tapered threads for a better seal:许多接头都带有锥形螺纹，以实现更好的密封
+for most domestic applications, a 75 mm seal is required:对于大多数家庭应用，需要75毫米的密封件
+the monarchy is the seal of the unbroached integrity of the Isles:君主制是群岛未被破坏的完整性的印记
+I was told under the seal:盖章下有人告诉我
+he folded it, sealed the envelope, and walked to the postbox:他折好，封好信封，走向邮筒
+the pine boarding should be sealed with polyurethane:松木板要用聚氨酯密封
+heat the oil and seal the lamb on both sides:油烧热，将羊肉两面封好
+to seal the deal he offered Thornton a place on the board of the company:为了达成交易，他向桑顿提供了公司董事会的一个席位
+he was a Navy SEAL for eleven years:他当了十一年海豹突击队队员
+
+a supreme ruler, especially a monarch:最高统治者，尤其是君主
+a former British gold coin worth one pound sterling, now only minted for commemorative purposes.:一枚价值一英镑的前英国金币，现在只为纪念目的而铸造。
+possessing supreme or ultimate power:拥有至高无上的权力
+(of a nation or its affairs) acting or done independently and without outside interference:（一个国家或其事务的）独立行动或完成而不受外界干涉
+possessing royal power and status:拥有王权和地位
+very good or effective:非常好或有效
+sovereign |ˈsɒvr(ɪ)n| Adjective/Noun/:,至高无上的
+the Emperor became the first Japanese sovereign to visit Britain:天皇成为第一个访问英国的日本君主
+in modern democracies the people's will is in theory sovereign:在现代民主国家，人民的意志在理论上是至高无上的
+a sovereign, democratic republic:主权民主共和国
+our most sovereign lord the King:我们至高无上的君王
+a sovereign remedy for all ills:包治百病的至高良药
+
+appealing in a pretty or endearing way:以漂亮或讨人喜欢的方式吸引人
+sexually attractive, good-looking:性感，好看
+clever or cunning, especially in a self-seeking or superficial way:聪明或狡猾，尤指以自私自利或肤浅的方式
+cute |kjuːt| Adjective/:可爱的,可爱,很可爱
+a cute kitten:一只可爱的小猫
+Ryan's cute but he's kinda young:瑞安很可爱，但他有点年轻
+she had a real cute idea:她有个好主意
+
+the process or activity of accurately ascertaining one's position and planning and following a route:准确确定自己的位置并规划和遵循路线的过程或活动
+the passage of ships:船舶通过
+a navigable inland waterway, especially a canal:
+the action of moving around a website, the internet, etc.:在网站、互联网等网站上移动的动作。
+navigation |ˌnavɪˈɡeɪʃn| Noun/:导航,航海
+Columbus corrected his westward course by celestial navigation:哥伦布通过天体导航修正了他向西的航向
+transporter bridges to span rivers without hindering navigation:运输桥跨越河流而不妨碍航行
+most of the navigation from Wormley to Tottenham was frozen:从沃姆利到托特纳姆的大部分导航都被冻结了
+
+a sudden upsetting or surprising event or experience:突然的沮丧或令人惊讶的事件或经历
+a feeling of disturbed surprise resulting from a sudden upsetting event:突然发生的令人沮丧的事件导致的惊奇感
+a disturbance causing instability in an economy:导致经济不稳定的干扰
+an acute medical condition associated with a fall in blood pressure, caused by such events as loss of blood, severe burns, allergic reaction, or sudden emotional stress, and marked by cold, pallid skin, irregular breathing, rapid pulse, and dilated pupils:一种与血压下降有关的急性疾病，由失血、严重烧伤、过敏反应或突然的情绪压力等事件引起，并以寒冷、皮肤苍白、呼吸不规则、脉搏加快和扩张为特征10
+a violent shaking movement caused by an impact, explosion, or tremor:因撞击、爆炸或震颤引起的剧烈晃动
+shock |ʃɒk| Noun/Verb/:震惊,使震惊,休克,震撼,冲击
+it was a shock to face such hostile attitudes when I arrived:
+her death gave us all a terrible shock:她的死给了我们所有人极大的震撼
+trading imbalances caused by the two oil shocks:两次石油冲击造成的贸易失衡
+the home-made lighting gave my father a shock when he touched the aquarium:自制灯饰爸爸摸鱼缸吓了一跳
+he died of shock due to massive abdominal haemorrhage:
+earthquake shocks:地震冲击
+
+a report or description of an event or experience:事件或经历的报告或描述
+an interpretation or rendering of a piece of music:一段音乐的解释或渲染
+a record or statement of financial expenditure and receipts relating to a particular period or purpose:
+the department of a company that deals with financial accounts:公司处理财务账务的部门
+a bill for goods or services provided over a period:一段时间内提供的商品或服务的账单
+an arrangement by which a body holds funds on behalf of a client or supplies goods or services to them on credit:机构代表客户持有资金或以信贷方式向客户提供商品或服务的安排
+a client having an account with a supplier:A客户在供应商处有账户
+a contract to do work for a client:一份为客户工作的合同
+a fixed period on a stock exchange, at the end of which payment must be made for stock that has been bought.:证券交易所的固定期限，在该期限结束时必须为已购买的股票付款。
+an arrangement by which a user is given personalized access to a computer, website, or application, typically by entering a username and password:一种为用户提供对计算机、网站或应用程序的个性化访问权限的安排，通常是通过输入用户名和密码
+importance:重要性
+consider or regard in a specified way:以特定方式考虑或考虑
+prepare or present a record an account of money given or received:准备或出示给付或收受款项的记录
+account |əˈkaʊnt| Noun/Verb/:帐户,视作,占,账号
+a detailed account of what has been achieved:已取得成果的详细说明
+a lively account of Offenbach's score:奥芬巴赫乐谱的生动描述
+the barman was doing his accounts:酒保正在做账
+the people from Accounts:来自客户的人
+there's no money to pay the tradesmen's accounts this month:这个月没有钱支付商人的账目
+a bank account:一个银行账户
+selling bibles to established accounts in the North:向北方的老牌账户出售圣经
+another agency was awarded the account:另一家机构被授予该帐户
+we've reset your password to prevent others from accessing your account:我们已重置您的密码以防止他人访问您的帐户
+money was of no account to her:钱对她来说无关紧要
+her visit could not be accounted a success:她的来访不能算成功
+in order that he may be able to account accurately, the trustee should not mingle the trust property with other property:为了能够准确记帐，受托人不应将信托财产与其他财产混为一谈
+
+chief in size or importance:规模或重要性的首领
+a principal pipe carrying water or gas to buildings, or taking sewage from them:将水或煤气输送到建筑物或从建筑物中抽取污水的主管道
+a principal cable carrying electricity.:A主要的带电电缆。
+the source of public water, gas, or electricity supply through pipes or cables:通过管道或电缆提供的公共水、气或电的来源
+the open ocean.:开阔的海洋。
+(in the game of hazard) a number (5, 6, 7, 8, or 9) called by a player before dice are thrown.:（在冒险游戏中）玩家在掷骰子之前叫出的数字（5、6、7、8或9）。
+a match between gamecocks.:斗鸡之间的比赛。
+a river of south-western Germany which rises in northern Bavaria and flows 500 km (310 miles) westwards, through Frankfurt, to meet the River Rhine at Mainz.:德国西南部的一条河流，发源于巴伐利亚北部，向西流500公里（310英里），流经法兰克福，在美因茨汇入莱茵河。
+main |meɪn| Adjective/Noun/:主要的,主管道,主要,主
+a main road:A主干道
+a faulty gas main:A煤气总管故障
+the camcorder can be run directly off the mains:摄像机可直接断电运行
+
+a stock of plays, dances, or items that a company or a performer knows or is prepared to perform.:公司或表演者知道或准备表演的戏剧、舞蹈或项目的库存。
+the whole body of items that are regularly performed:定期执行的项目的整体
+a stock of skills or types of behaviour that a person habitually uses:一个人习惯使用的技能或行为类型
+repertoire |ˈrɛpətwɑː| Noun/:曲目,保留剧目
+the mainstream concert repertoire:主流音乐会曲目
+his repertoire of threats, stares, and gestures:他的威胁、凝视和手势
+
+not valid or legally binding:无效或不具有法律约束力
+(of speech or action) ineffectual, useless:不能代谢，随尿排出2
+completely empty:完全空了
+free from, lacking:没有，缺乏
+(of an office or position) vacant.:（办公室或职位）空缺。
+(in bridge and whist) having been dealt no cards in a particular suit:（在桥牌和惠斯特中）在特定花色中没有发牌
+a completely empty space:一个完全空旷的空间
+an unfilled space in a wall, building, or other structure.:墙壁、建筑物或其他结构中的未填充空间。
+an emptiness caused by the loss of something:因失去某物而造成的空虚
+(in bridge and whist) a suit in which a player is dealt no cards:（在桥牌和惠斯特中）玩家没有发牌的花色
+declare that (something) is not valid or legally binding:声明（某物）无效或不具有法律约束力
+discharge or drain away (water, gases, etc.):排放或排出（水、气体等）
+excrete (waste matter):排泄（废物）
+void |vɔɪd| Adjective/Noun/Verb/:空白,无效的,宣布无效,无效,作废
+the contract was void:合同无效
+all the stratagems you've worked out are rendered void:所有你想出的计策都落空了
+void spaces surround the tanks:坦克周围的空隙
+what were once the masterpieces of literature are now void of meaning:曾经的文学名著现在毫无意义
+there is a danger that one of the opponents will be void in that suit:有一种危险，其中一位对手将在那套花色中作废
+the black void of space:空间的黑色虚空
+his loss leaves a void in the community:他的离去在社区中留下了空白
+a hand with a singleton club is more likely than one with a void:一手带有单张梅花的牌比一手空牌更有可能
+the Supreme court voided the statute:最高法院废除了该法规
+the gases are usually voided into the mechanism:气体通常排入机械装置
+it cannot be metabolized and is voided in the urine:不能代谢，随尿排出
