@@ -1,201 +1,31 @@
-revolt
-specialist						专家，专科医生
-carpet							地毯，覆盖
-meditation
-persist				持续存在，坚持不懈
-avoid							避免，避开
-yellow				黄色，胆小的
-consult								咨询，查阅，商量
-assume							假定，获得，装出，呈现
-doctorate
-resultant
-fuse
-very								很，极端的，正是的，最合适的，极端的，
-critic						评论家，批评者
-ingenious
-continent						大陆
-residence
-puppet
-consultant						顾问
-preparation						准备
-presume
-transistor
-precedent					先例
-capacity					容纳的能力，产能，能力，职位
-party
-equation
-commence
-neglect						疏于照管，遗漏，忽视
-contemporary					同时代的，当代的，同龄人
-continuous
+superior
+achievement
+urgent
+sense
+foresee
+try
+compass
+headteacher
+earn
+collect
+mask
+assume
+player
+revision
+farm
+hive
+year
+continue
+contradict
+usually
+persuade
+mental
+hawk
+clothes
+plastic
+terrible
+bedclothes
+award
+surround
+humour
 \\\\
-
-a person who concentrates primarily on a particular subject or activity, a person highly skilled in a specific and restricted field:1n主要专注于特定主题或活动的人，在特定和受限领域具有高度技能的人
-a person highly trained in a particular branch of medicine:2n在特定医学分支上受过高度训练的人
-possessing or involving detailed knowledge or study of a restricted topic:3n拥有或涉及限制主题的详细知识或研究
-concentrating on a restricted field, market, or area of activity:4n专注于受限领域、市场或活动领域
-specialist |ˈspɛʃəlɪst| Adjective/Noun/:专家,专科医生
-he is a specialist in psychometric testing:他是心理测试专家
-her doctor thought her allergy was psychosomatic, but he sent her to a specialist:her的医生认为她的过敏是心身性的，但他把她送到了专科医生处
-you may require specialist financial advice:you可能需要专业的财务建议
-a specialist electrical shop:专业电器店
-
-continue in an opinion or course of action in spite of difficulty or opposition:尽管遇到困难或反对，仍坚持意见或行动方针
-continue to exist; be prolonged:继续存在；被延长
-persist |pəˈsɪst| Verb/:坚持
-the minority of drivers who persist in drinking:少数坚持饮酒的司机
-if the symptoms persist for more than a few days, then contact your doctor:如果症状持续超过几天，请联系您的医生
-
-keep away from or stop oneself from doing (something):远离或阻止自己做（某事）
-contrive not to meet (someone):设法不去见（某人）
-not go to or through (a place):不去或经过（一个地方）
-prevent from happening:防止发生
-repudiate, nullify, or render void (a decree or contract):否认、废除或使无效（法令或合同）
-avoid |əˈvɔɪd| Verb/:避免,忌,回避
-avoid excessive exposure to the sun:避免过度暴露在阳光下
-boys queued up to take Gloria out, but avoided Deirdre:男孩们排队等着带格洛丽亚出去，但避开了迪尔德丽
-this route avoids downtown Boston:这条路线避开波士顿市中心
-book early to avoid disappointment:提前预订以避免失望
-if the original owner had avoided his contract with the rogue, ownership of the goods would have reverted to him:如果原主人解除了与流氓的合同，货物的所有权将归还给他
-
-of the colour between green and orange in the spectrum, a primary subtractive colour complementary to blue, coloured like ripe lemons or egg yolks:任何一种叶片变黄的植物病害，通常由病毒引起并由昆虫传播。
-having a naturally yellowish or olive skin (as used to describe Chinese or Japanese people).:具有天然黄色或橄榄色的皮肤（用于描述中国人或日本人）。
-denoting a warning of danger which is thought to be near but not actually imminent:表示危险的警告，被认为接近但实际上并非迫在眉睫
-not brave, cowardly:不勇敢，懦弱
-showing jealousy or suspicion.:表现出嫉妒或怀疑。
-(of a style of writing, especially in journalism) lurid and sensational:（一种写作风格，尤其是在新闻领域）耸人听闻的耸人听闻的
-yellow colour or pigment:黄色或颜料
-yellow clothes or material:黄色衣服或材料
-a yellow ball or piece in a game or sport, especially the yellow ball in snooker:比赛或运动中的黄球或棋子，尤其是斯诺克中的黄球
-used in names of moths or butterflies that are mainly yellow in colour.:用于主要为黄色的飞蛾或蝴蝶的名称。
-any of a number of plant diseases in which the leaves turn yellow, typically caused by viruses and transmitted by insects.:任何一种叶片变黄的植物病害，通常由病毒引起并由昆虫传播。
-become yellow, especially with age:变黄，尤其是随着年龄的增长
-yellow |ˈjɛləʊ| Adjective/Noun/Verb/:黄色的,变黄,黄色,黄
-curly yellow hair:黄卷发
-he put Camp Visoko on yellow alert:他将维索科营地置于黄色警戒状态
-he'd better get back there quick and prove he's not yellow:他最好快点回去证明他不是黄种人
-he based his judgement on headlines and yellow journalism:他的判断基于头条新闻和黄色新闻
-the craft detonated in a blaze of red and yellow:飞船在红色和黄色的火焰中引爆
-everyone dresses in yellow:每个人都穿黄色衣服
-he missed an easy yellow in frame four:他在第四帧错过了一个简单的黄色
-the cream paint was beginning to yellow:奶油色开始变黄
-
-seek information or advice from (someone, especially an expert or professional):向（某人，尤其是专家或专业人士）寻求信息或建议
-have discussions with (someone), typically before undertaking a course of action:与（某人）进行讨论，通常是在采取行动之前
-refer for information to (a book, diary, or watch):向（书、日记或手表）提供信息
-an act of consulting a professional; a consultation:咨询专业人士的行为；咨询
-consult |ˈkɒnsʌlt| Noun/Verb/:咨询,请教,协商
-if you consult a solicitor, making a will is a simple procedure:如果您咨询律师，立遗嘱是一个简单的程序
-patients are entitled to be consulted about their treatment:患者有权就他们的治疗进行咨询
-she consulted a large desk diary:她查阅了一本大型办公桌日记
-after a consult with his attorneys, he retracted his previous statement:在咨询了他的律师后，他撤回了之前的陈述
-
-suppose to be the case, without proof:假设是这样，没有证据
-take or begin to have (power or responsibility):采取或开始拥有（权力或责任）
-seize (power or control):夺取（权力或控制权）
-begin to have (a specified quality, appearance, or extent):开始拥有（特定的品质、外观或范围）
-take on or adopt (a manner or identity), sometimes falsely:采取或采用（一种方式或身份），有时是错误的
-assume |əˈsjuːm| Verb/:认为,承担,假设,假定,设想
-topics which assume detailed knowledge of local events:topics，假设详细了解当地事件
-he assumed full responsibility for all organizational work:他承担了所有组织工作的全部责任
-the rebels assumed control of the capital:叛军控制了首都
-militant activity had assumed epidemic proportions:激进活动已达到流行病的程度
-Oliver assumed an expression of penitence:奥利弗做出忏悔的表情
-
-in a high degree:高度
-used to emphasize that the following description applies without qualification:用于强调以下描述无条件适用
-actual, precise (used to emphasize the exact identity of someone or something):实际的，精确的（用于强调某人或某物的确切身份）
-real, genuine:真实的，真实的
-emphasizing an extreme point in time or space:强调时间或空间的极端点
-with no addition of anything else, mere:没有添加任何其他东西，仅仅是
-very |ˈvɛri| Adjective/Adverb/:非常,正是,很,十分
-a very large amount:
-the very best quality:最好的品质
-those were his very words:那些就是他的话
-the very God of Heaven:天堂之神
-from the very beginning of the book:从本书一开始
-the very thought of drink made him feel sick:一想到喝酒就觉得恶心
-
-a person who expresses an unfavourable opinion of something:对某事发表不利意见的人
-a person who judges the merits of literary or artistic works, especially one who does so professionally:判断文学或艺术作品优劣的人，尤其是专业人士
-critic |ˈkrɪtɪk| Noun/:评论家,批评家
-critics of the new legislation say it is too broad:新立法的批评者说它过于宽泛
-a theatre critic:一位戏剧评论家
-
-any of the world's main continuous expanses of land (Europe, Asia, Africa, North and South America, Australia, Antarctica).:世界上任何主要的连续大片土地（欧洲、亚洲、非洲、北美和南美、澳大利亚、南极洲）。
-the mainland of Europe as distinct from the British Isles:与不列颠群岛不同的欧洲大陆
-a mainland contrasted with islands.:大陆与岛屿形成鲜明对比。
-able to control movements of the bowels and bladder.:能够控制大便和膀胱的运动。
-exercising self-restraint, especially sexually.:行使自我克制，尤其是性方面。
-continent |ˈkɒntɪnənt| Adjective/Noun/:大陆,洲
-clubs sprang up in Britain and on the Continent:clubs在英国和欧洲大陆兴起
-
-a person who provides expert advice professionally:专业提供专家意见的人
-a hospital doctor of senior rank within a specific field:特定领域的高级医院医生
-consultant |kənˈsʌlt(ə)nt| Noun/:顾问
-she is currently a self-employed business consultant:她目前是一名个体经营的商业顾问
-a consultant paediatrician:a顾问儿科医生
-
-the action or process of preparing or being prepared for use or consideration:准备或正在准备使用或考虑的行动或过程
-something done to get ready for an event or undertaking:为某项活动或事业做好准备
-a substance that is specially made up, especially a medicine or food:特制的物质，尤指药物或食物
-a specimen that has been prepared for scientific or medical examination:为科学或医学检查准备的标本
-(in conventional harmony) the sounding of the discordant note in a chord in the preceding chord where it is not discordant, lessening the effect of the discord.:（在传统和声中）在前一个和弦中不和谐的和弦中发出不和谐音符的声音，从而减轻不和谐音的影响。
-preparation |ˌprɛpəˈreɪʃn| Noun/:准备,制备,制剂,筹备工作
-the preparation of a draft contract:起草合同草案
-she continued her preparations for the party:她继续为派对做准备
-there are several effective preparations you can buy over the counter:您可以在柜台购买几种有效的制剂
-a microscope preparation:a显微镜准备
-
-an earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances:一个早期的事件或行动，被视为在随后的类似情况下要考虑的例子或指南
-a previous case or legal decision that may be or (binding precedent) must be followed in subsequent similar cases:在随后的类似案件中可能或（具有约束力的先例）必须遵循先前的案件或法律决定
-preceding in time, order, or importance:在时间、顺序或重要性之前
-precedent |ˈprɛsɪd(ə)nt| Adjective/Noun/:先例,有先例
-there are substantial precedents for using interactive media in training:在培训中使用交互式媒体有大量先例
-we hope to set a legal precedent to protect hundreds of miles of green lanes:我们希望开创一个法律先例来保护数百英里的绿道
-a precedent case:先例
-
-the maximum amount that something can contain:某物可以包含的最大数量
-fully occupying the available area or space:完全占据可用区域或空间
-the total cylinder volume that is swept by the pistons in an internal combustion engine:内燃机活塞扫过的气缸总容积
-the amount that something can produce:某物可以产生的量
-the ability or power to do or understand something:做或理解某事的能力或力量
-a person's legal competence:一个人的法律能力
-a specified role or position:指定角色或职位
-capacity |kəˈpasɪti| Noun/:容量,能力
-the capacity of the freezer is 1.1 cubic feet:冷冻室的容量是1.1立方英尺
-they played to a capacity crowd:他们演奏了一个容量人群
-the cubic capacity is 1171 cc:立方容量为1171cc
-the company aimed to double its electricity-generating capacity:该公司的目标是将其发电能力提高一倍
-I was impressed by her capacity for hard work:我对她努力工作的能力印象深刻
-cases where a patient's testamentary capacity is in doubt:遗嘱能力存疑案件
-I was engaged in a voluntary capacity:我从事志愿工作
-
-
-fail to care for properly:未能妥善照顾
-not pay proper attention to, disregard:不重视，忽视
-fail to do something:做某事失败
-the state of being uncared for:无人关心的状态
-the action of not taking proper care of someone or something:没有适当照顾某人或某物的行为
-failure to do something:做某事失败
-neglect |nɪˈɡlɛkt| Noun/Verb/:忽视,忽略,疏忽
-the old churchyard has been sadly neglected:可悲的是，古老的墓地被忽视了
-you neglect our advice at your peril:你忽视我们的建议后果自负
-he neglected to write to her:他忘了给她写信
-the place had a hopeless air of neglect:这个地方有一种被忽视的绝望气氛
-she was accused of child neglect:她被指控忽视儿童
-he was reported for neglect of duty:他因玩忽职守被举报
-
-living or occurring at the same time:生活或同时发生
-dating from the same time:约会从同一时间
-belonging to or occurring in the present:属于或发生在现在
-following modern ideas in style or design:在风格或设计上遵循现代理念
-a person or thing living or existing at the same time as another:与另一个人同时生活或存在的人或事物
-a person of roughly the same age as another:与另一个年龄大致相同的人
-contemporary |kənˈtɛmp(ə)r(ər)i| Adjective/Noun/:当代的,同代人,现代的
-the event was recorded by a contemporary historian:该事件由当代历史学家记录
-this series of paintings is contemporary with other works in an early style:本系列画作与其他早期作品具有当代性
-the tension and complexities of our contemporary society:我们当代社会的紧张和复杂性
-contemporary ceramics by leading potters:当代陶艺大师
-he was a contemporary of Darwin:他是达尔文的同时代人
-my contemporaries at school:我在学校的同龄人

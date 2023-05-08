@@ -287,13 +287,13 @@ while read line ;do
 
 if [[  "$line" =~ "	"  ]] ;then
 eetxt="$line"
-
-else
-eetxt=
-fi
 [[  "$etxt" != ""  ]]  &&  etxt="$etxt
 $eetxt"
 [[  "$etxt" == ""  ]]  &&  etxt="$eetxt"
+else
+eetxt=
+fi
+
 done <<EOF
 $aetxt
 EOF
