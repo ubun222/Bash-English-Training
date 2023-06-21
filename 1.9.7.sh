@@ -3345,20 +3345,21 @@ miniFUN(){
 #echo "$rangem"
 passd=1
 minifun=true
-r1=1
+r1=0
 txt=$(printf "$txt" | tr -d "\r" )
 total=$(printf "$rangem" | wc -l)
 while true ;do
 gi=$((gi+1))
 #[[  "$RC" -eq "0"  ]] && r1=$((r1-1))
     [[  $((constn)) -eq $gcounts  ]] && echo 过关了!!!  && return 0
-
+total=$((constn-gcounts))
 
 #m=$(echo "$rangem" | sed -n "$range1,${range1}p" )
 r1=$((r1+1))
 [[  "$RC" -eq "0"  ]] && r1=$((r1-1))
 [[  "$r1" -eq "0"  ]] && r1=1
-m=$r1
+#m=$r1
+m=$(($RANDOM%$total+1))
 if [[  $r1 -ge $((constn-gcounts)) ]];then
 r1=0
 fi
@@ -3376,35 +3377,64 @@ answer2="$(printf "$pureanswe" | awk '{printf $NF}' | tr '/' ' ')"
 
 
 
-if  [[  $mode -eq 1  ]]  ||  [[  $mode -eq 3  ]] && [[  "$((m2%2))" -eq 1    ]];then
-answer=$answer2
+if  [[  $mode -eq 1  ]]  || ( [[  $mode -eq 3  ]] && [[  "$((m2%2))" -eq 1    ]] );then
+#answer=$answer2
+
+if [[  $mode -eq 3  ]];then 
+  answer=$answer1
+  answer1="$answer"
+answer2="$answer2"
+else
+
+  answer=$answer2
+  answer1="$answer1"
+answer2="$answer"
+
+fi
+
+
 pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
-[[  $mode -eq 2  ]] && question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $NF}' | tr '/' ' ')
+[[  $mode -eq 1  ]] && question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
 [[  $mode -eq 3  ]] && question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
+
+answer1="$question"
 
 #[[  "$windows" == "y"  ]] && stty echo
 printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 #stty -echo
 Readzh
 #tmp="$answer1"
-answer1="$question"
-answer2="$answer"
 #answer1="$answer1"
 #answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
-elif [[  $mode -eq 2  ]] || [[  $mode -eq 3  ]]  && [[   "$((m2%2))" -eq 0   ]];then
+elif [[  $mode -eq 2  ]] || ( [[  $mode -eq 3  ]]  && [[   "$((m2%2))" -eq 0   ]] );then
 #echo $length
 [[  $mode -eq 2  ]] && question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $NF}' | tr '/' ' ')
 [[  $mode -eq 3  ]] && question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
-
-  answer=$answer2
-  answer1="$answer"
-pureanswer="$(printf "\033[1m$answer1\033[0m $answer2")"
-#if [[  $COLUMN -ge $length  ]];then
 bot=
+if [[  $mode -eq 2  ]];then 
+  answer=$answer1
+  answer1="$answer"
+  iq=${#answer1}
+for t in `seq $iq`;do
+bot="$bot"-
+done
+
+else
+
 iq=${#answer2}
 for t in `seq $iq`;do
 bot="$bot"-
 done
+
+  answer=$answer2
+  answer1="$answer"
+
+fi
+answer2="$question"
+pureanswer="$(printf "\033[1m$answer1\033[0m $answer2")"
+#if [[  $COLUMN -ge $length  ]];then
+
+
 
 la=${#answer1}
 la2=$((${#question}*2))
@@ -3421,7 +3451,6 @@ printf  "\033[0m$question"\\033[3m\ \<───\>\ "\033[0m$bot"\\r
 printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 Readen
 
-answer2="$question"
 fi
 #echo $answer1
 #echo $answer2 
