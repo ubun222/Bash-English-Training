@@ -3503,6 +3503,7 @@ txt="$newtxt"
 #echo "$txt"
  total=$((n))
 fi
+Total=total
  #constn=99
  gi=0
 while true;do
@@ -3567,9 +3568,9 @@ fi
 [[  "$passd" -eq 1   ]] && total=$((constn-gcounts))
 while true;do
 
-m1=$((RANDOM%$total+1))
-m2=$((RANDOM%$total+1))
-m3=$((RANDOM%$total+1))
+m1=$((RANDOM%$Total+1))
+m2=$((RANDOM%$Total+1))
+m3=$((RANDOM%$Total+1))
 #if [[  $passd -eq 1  ]] ;then
 #m1="$(echo "$rangem" | sed -n "$m1,${m1}p")"
 #m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
@@ -3959,9 +3960,9 @@ echo
 [[  "$passd" -eq 1   ]] && total=$((constn-gcounts))
 while true;do
 
-m1=$((RANDOM%$total+1))
-m2=$((RANDOM%$total+1))
-m3=$((RANDOM%$total+1))
+m1=$((RANDOM%$Total+1))
+m2=$((RANDOM%$Total+1))
+m3=$((RANDOM%$Total+1))
 #if [[  $passd -eq 1  ]] ;then
 #m1="$(echo "$rangem" | sed -n "$m1,${m1}p")"
 #m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
