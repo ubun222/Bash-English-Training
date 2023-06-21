@@ -308,6 +308,7 @@ tno=$((tno+1))
 eval ca$tno=$((n*2))
 fi
 
+txt=$(printf "$txt" | tr -d "\r" )  #优化wsl
 
 fi
 #eval echo \$ca$t   
@@ -1158,6 +1159,10 @@ stty -echo
 Dtop=0
 Dend=0
 RC=0
+
+[[  $premode -ne 3  ]] && Thestdout="错题+1\n" && Thestdout2="错题-1\n"
+[[  $premode -eq 3  ]] && Thestdout="\033[1A\033[$((COL-7))C错题+1\n" && Thestdout2="\033[1A\033[$((COL-7))C错题-1\n"
+
 #[[  "$ish" == "y"    ]] &&  sleep 0.002
 hide=0
 if [[  "$isright" -eq "1"  ]] || ifright ;then
@@ -1188,11 +1193,11 @@ fi
 
 #if [[  "$auto" -eq "1"  ]];then
 while true;do
-IFS=$newline
-read -s -n1  abool
+#IFS=$newline #不能加，加了就获取不到's'
+read -s  -n1  abool 
 ttf=$?
 IFS=$IFSbak
-#printf "\n\r"
+
 #[[  "$ish" == "y"    ]] &&  sleep 0.002
 if [[  "$abool"  ==  "y"  ]]  || [[  "$abool"  ==  "Y"  ]] ;then
 #ishprt "\n\r"
@@ -1202,9 +1207,12 @@ elif [[  "$abool"  ==  "v"  ]] || [[  "$abool"  ==  "V"  ]];then
 #ishprt "\n\r"
 printf "\n$enter" && bool="$abool"
 break
-elif [[  "$abool"  ==  "s"  ]] ||  [[  "$abool"  ==  "S"  ]];then
+elif [[  "$abool"  ==  "s" ]] ||  [[  "$abool"  ==  "S"  ]];then
 #ishprt "\n\r"
-printf "\n$enter\033[K" && bool="s"
+bool="s"
+#printf "\n\n\n\n\n\n"
+[[  $premode -ne 3  ]] && printf "\n$enter\033[K"
+[[  $premode -eq 3  ]] && printf "\n$enter"
 break
 elif [[  "$abool"  ==  "j"  ]] || [[  "$abool"  ==  "J"  ]];then
 #ishprt "\n\r"
@@ -1248,9 +1256,9 @@ fi
 [[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && printf "$one" 
 [[  $premode -eq 3  ]]  && printf "\r$question    $answer\033[K\n"
 yes
-#[[  $premode -ne 3  ]]  && echo
+[[  $premode -eq 3  ]]  && echo
 down=0
-elif [[ $bool = 'v' ]] || [[ $bool = 'V' ]]; then
+elif [[ $bool == 'v' ]] || [[ $bool == 'V' ]]; then
 #printf "\033[$((COLUMN-7))C例句\n"
 if [[  "$bool"  ==  "V"  ]] ;then
 RC=0
@@ -1263,15 +1271,21 @@ fi
 [[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && printf "$one" 
 [[  $premode -eq 3  ]]  && printf "\r$question    $answer\033[K\n"
 verbose
-#[[  $premode -ne 3  ]]  && echo
+[[  $premode -eq 3  ]]  && echo
 down=0
-elif [[ $bool = 's' ]] || [[ $bool = 'S' ]]  ; then
+elif [[  $bool == 's'  ]] || [[  $bool == 'S'  ]]  ; then
 RC=0
 #sleep 0.005
 #ishprt "\033[1A"
+#[[  "$hide" -eq "0"  ]] &&  pprep "$pureanswerd"
 ishprt   "\033[1A\033[${COL}C%s\n\r"  "${eline}"
+[[  $premode -eq 3  ]] && [[  $order -ne 4  ]] && [[  $down -gt 0  ]] && printf "\033[${down}B$enter" 
+[[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && printf "$one" 
+[[  $premode -eq 3  ]]  && printf "\r$question    $answer\033[K\n"
+#[[  $premode -eq 3  ]]  && echo
+down=0
 #sleep 0.005
-pprep "$pureanswerd"
+[[  $minifun != true  ]] && pprep "$pureanswerd"
 #ishprt "\033[0m\n"
 #[[  "$ish" == "y"    ]] && sleep 0.003
 #printf "\n"
@@ -1533,8 +1547,12 @@ if [[  $premode == 2  ]] ;then
 rangem="$(echo "$rangem" | grep -v  ^"$((m/2))"$ )"
     gcounts=$((gcounts+1))
  m0=$((${m0}-1))
-elif [[  $mode == 3  ]] ;then
+elif [[  $minifun == true  ]];then
+rangem="$(echo "$rangem" | grep -v  ^"${m2}"$ )"
+    gcounts=$((gcounts+1))
+elif [[  $mode == 3   || $premode == 3  ]] ;then
 rangem="$(echo "$rangem" | grep -v  ^"$((m))"$ )"
+#echo "$rangem"
     gcounts=$((gcounts+1))
 else
 rangem="$(echo "$rangem" | grep -v  ^"${m2}"$ )"
@@ -1579,7 +1597,8 @@ aq="$answer1\t\t\t\t\t$answer2"
 echo "$therw"| xargs sed -i"" "s/\\\\\\\\\\\\/$aq\\n\\\\\\\\\\\\/" -i "" "s/\\\\\\\\\\\\/$aq\\n\\\\\\\\\\\\/"
 #echo "$RW" >$therw
 printf "\n$Ylineraw\n$Vlineraw\n\n" >> $therw
-echo "错题+1"
+[[  $premode -ne 3  ]] && printf "$Thestdout"
+[[  $premode -eq 3  ]] && printf "$Thestdout"
 #echo $?
 fi
 elif [[  "$RC" -eq 0  ]]  && ( [[  "$record" -eq 1   ]] || [[  "$Record" -eq 1   ]] ) ;then
@@ -1606,12 +1625,12 @@ Dend=$((locate+Dlinerawn-1))
 locate="$(cat "${therw}" | grep -n ^"${answer1}	" | head -n1 | awk -F: '{print $1}')"
 #echo $locate
 #sed -i"$Backs" "${locate}d" $therw
-echo "$therw" | xargs sed -i"" "$Dtop,${Dend}d" && echo "$therw" | xargs sed -i"" "${locate}d" && echo "错题-1" || echo "$therw" | xargs sed -i "" "$Dtop,${Dend}d"  && echo "$therw" | xargs sed -i "" "${locate}d" && echo "错题-1"
+echo "$therw" | xargs sed -i"" "$Dtop,${Dend}d" && echo "$therw" | xargs sed -i"" "${locate}d" && printf "$Thestdout2" || echo "$therw" | xargs sed -i "" "$Dtop,${Dend}d"  && echo "$therw" | xargs sed -i "" "${locate}d" && printf "$Thestdout2"
 #echo 22222
 
 if  [[  "$Dtop"  ==  "1"   ]] ;then
-	echo "$therw" | xargs sed -i "" "${locate}d" && echo "错题-1*"
-	[[  "$?" -ne 0  ]] &&   echo "$therw" | xargs sed -i"" "${locate}d" && echo "错题-1*"
+	echo "$therw" | xargs sed -i "" "${locate}d" && printf "\033[2m${Thestdout2}\033[0m"
+	[[  "$?" -ne 0  ]] &&   echo "$therw" | xargs sed -i"" "${locate}d" && printf "\033[2m${Thestdout2}\033[0m" 
 fi
 fi
 fi
@@ -2652,7 +2671,7 @@ while true;do
 fascanf="!!"
 #eval ascanf=\${scanf$i}
 #IFSbak=$IFS
-IFS=$newline
+[[  $premode -ne 3  ]] && IFS=$newline
 read -s -n1   fascanf
 ftf=$?
 IFS=$IFSbak
@@ -3101,7 +3120,7 @@ p="$theline" &&  sprep
 done
 fi
 theleft=$((ii-gi))
-if [[  "$passd" -eq 1   ]] && ( [[  $premode -eq 1  ]] || [[  $premode -eq 2  ]] || [[  $premode -eq ""  ]]); then
+if [[  "$passd" -eq 1   ]] && ( [[  $premode -eq 1  ]] || [[  $premode -eq 2  ]] || [[  $premode -eq ""  ]] || [[  $premode -eq "3"  ]] ); then
 theleft=$((constn-gcounts))
 fi
 printf "\033[0m"
@@ -3321,27 +3340,188 @@ fi
 done
 }
 
+miniFUN(){
+#longtxt=$(echo "$txt"  | tr -s "	"  "\n")
+#echo "$rangem"
+passd=1
+minifun=true
+r1=1
+txt=$(printf "$txt" | tr -d "\r" )
+total=$(printf "$rangem" | wc -l)
+while true ;do
+gi=$((gi+1))
+#[[  "$RC" -eq "0"  ]] && r1=$((r1-1))
+    [[  $((constn)) -eq $gcounts  ]] && echo 过关了!!!  && return 0
+
+
+#m=$(echo "$rangem" | sed -n "$range1,${range1}p" )
+r1=$((r1+1))
+[[  "$RC" -eq "0"  ]] && r1=$((r1-1))
+[[  "$r1" -eq "0"  ]] && r1=1
+m=$r1
+if [[  $r1 -ge $((constn-gcounts)) ]];then
+r1=0
+fi
+m2=$(printf "$rangem" | sed -n "$m,${m}p" )
+#[[  "$ish" == "y"    ]] && sleep 0.003
+#[[  "$windows" == "y"  ]] && stty echo
+ echo  "${strs}"
+#stty -echo
+#echo -n "$question"         #printf 命令需要套一个双引号才能输出空格
+pureanswe=$(printf "%s" "$txt" | sed -n "$m2,${m2}p" )
+
+answer1="$(printf "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
+answer2="$(printf "$pureanswe" | awk '{printf $NF}' | tr '/' ' ')"
+
+
+
+
+if  [[  $mode -eq 1  ]]  ||  [[  $mode -eq 3  ]] && [[  "$((m2%2))" -eq 1    ]];then
+answer=$answer2
+pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
+[[  $mode -eq 2  ]] && question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $NF}' | tr '/' ' ')
+[[  $mode -eq 3  ]] && question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
+
+#[[  "$windows" == "y"  ]] && stty echo
+printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
+#stty -echo
+Readzh
+#tmp="$answer1"
+answer1="$question"
+answer2="$answer"
+#answer1="$answer1"
+#answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
+elif [[  $mode -eq 2  ]] || [[  $mode -eq 3  ]]  && [[   "$((m2%2))" -eq 0   ]];then
+#echo $length
+[[  $mode -eq 2  ]] && question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $NF}' | tr '/' ' ')
+[[  $mode -eq 3  ]] && question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
+
+  answer=$answer2
+  answer1="$answer"
+pureanswer="$(printf "\033[1m$answer1\033[0m $answer2")"
+#if [[  $COLUMN -ge $length  ]];then
+bot=
+iq=${#answer2}
+for t in `seq $iq`;do
+bot="$bot"-
+done
+
+la=${#answer1}
+la2=$((${#question}*2))
+for i in $(seq ${#question});do
+if [[  "${question:i:1}" == '.'  ]] ;then
+la2=$((la2-1))
+fi
+done
+length=$((la+la2+7))
+
+#question="$(printf "\r\033[1A$question")"
+printf  "\033[0m$question"\\033[3m\ \<───\>\ "\033[0m$bot"\\r
+[[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
+printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
+Readen
+
+answer2="$question"
+fi
+#echo $answer1
+#echo $answer2 
+colourp 2>/dev/null
+done
+}
+
 FUN_()
 {
+  printf "Ⅰ,英译中${spaces#             }Ⅱ,中译英${spaces#            }Ⅲ,混合"
+read -n1 mode
+echo 
 echo  "$strs"
+if [[  $mode -eq 1  ]];then
  m=$((n/2))
+#constn=99
+[[  "$passd" -eq 1   ]] && rangem="$(seq $m)"
+[[  "$passd" -eq 1   ]] && gcounts=0
+[[  "$passd" -eq 1   ]] && constn=$m
+
  total=$((n/2))
- constn=99
- for gi in `seq 99`;do
- gcounts=gi
-  m=$total
+elif [[  $mode -eq 2  ]];then
+ m=$((n/2))
+#constn=99
+[[  "$passd" -eq 1   ]] && rangem="$(seq $m)"
+[[  "$passd" -eq 1   ]] && gcounts=0
+[[  "$passd" -eq 1   ]] && constn=$m
+
+ total=$((n/2))
+elif [[  $mode -eq 3  ]];then
+ m=$((n))
+#constn=99
+[[  "$passd" -eq 1   ]] && rangem="$(seq $n)"
+[[  "$passd" -eq 1   ]] && gcounts=0
+[[  "$passd" -eq 1   ]] && constn=$n
+newtxt=""
+while read line ;do
+a1="$(echo "$line" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
+a2="$(echo "$line" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
+newline="$a2		$a1"
+[[  "$newtxt" != ""  ]] && newtxt="$newtxt
+$line
+$newline"
+[[  "$newtxt" == ""  ]] && newtxt="$line
+$newline"
+done <<EOF
+$txt
+EOF
+txt="$newtxt"
+#echo "$txt"
+ total=$((n))
+fi
+ #constn=99
+ gi=0
+while true;do
+  #[[  "$passd" -ne 1   ]] && gcounts=gi
+ # [[  "$passd" -eq 1   ]] && total=$((gcounts))
+ # m=$total
+gi=$((gi+1))
+[[  $passd -eq 1  ]] && total=$((constn-gcounts))
+if [[  $mode -ne 3  ]];then
+[[  $passd -eq 1  ]] && [[  $total -le 3  ]] && printf "词库不足" && echo && miniFUN && return 0
+elif [[  $mode -eq 3  ]];then
+[[  $passd -eq 1  ]] && [[  $total -le 7  ]] && printf "词库不足" && echo && miniFUN && return 0
+
+fi
  bot=
  #ss=0
  scanf=x
+ 
 m1=
 m2=
 m3=
-m=$((RANDOM%$m+1))
-##echo "$txt"
-answer1="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
+#echo $total
+m=$(($((RANDOM%$total+1))))
+[[  $m -eq 0 ]] && m=1
+if [[  $passd -eq 1  ]] ;then
+m="$(echo "$rangem" | sed -n "$m,${m}p")"
+fi
+
+[[  $mode -eq 1  ]] && fbool=1
+[[  $mode -eq 2  ]] && fbool=2
+[[  $mode -eq 3  ]] && [[  $((m%2))  -eq 1  ]] && fbool=1
+[[  $mode -eq 3  ]] && [[  $((m%2))  -eq 0  ]] && fbool=2
+#echo "$m"
+if [[  $fbool  -eq 1  ]];then 
+
+
+
+answer1="$(echo "$txt" | sed -n "$((m)),${m}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
 answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
-fbool=$((RANDOM%2+1))
+#fbool=$((RANDOM%2+1))
+elif [[  $fbool  -eq 2  ]];then 
+answer1="$(echo "$txt" | sed -n "$((m)),${m}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
+answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
+fi
+
 if [[  "$fbool" -eq 1  ]] ;then
+
+
 question=$answer1
 answer=$answer2
 
@@ -3355,11 +3535,22 @@ printf "\033[1m%${left}s\033[0m\n" "$question"
 else
 ishprt "$s" "$question"
 fi
+[[  "$passd" -eq 1   ]] && total=$((constn-gcounts))
 while true;do
 
 m1=$((RANDOM%$total+1))
 m2=$((RANDOM%$total+1))
 m3=$((RANDOM%$total+1))
+#if [[  $passd -eq 1  ]] ;then
+#m1="$(echo "$rangem" | sed -n "$m1,${m1}p")"
+#m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
+#m3="$(echo "$rangem" | sed -n "$m3,${m3}p")"
+#fi
+if [[  $mode -eq 3  ]] ;then
+m1=$((m1-!(m1%2)))
+m2=$((m2-!(m2%2)))
+m3=$((m3-!(m3%2)))
+fi
 #echo $m$m1$m2$m3
 [[  "$m1" -eq "$m2"  ]] || [[  "$m2" -eq "$m3"  ]] || [[  "$m1" -eq "$m3"  ]]  || [[  "$m" -eq "$m1"  ]] || [[  "$m" -eq "$m2"  ]]  ||  [[  "$m" -eq "$m3"  ]] &&  continue
 break
@@ -3468,7 +3659,7 @@ IFS=$IFSbak
 fi
 
 if [[  "$ascanf"  ==  ""  ]] || [[  "$ascanf"  ==  "$CR"  ]] ;then
-[[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
 [[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 printf "$enter"
 break
@@ -3486,7 +3677,7 @@ fi
 #pren=1;
 if [[  "$ascanf"  ==  [1234]  ]];then
 sub=$((ascanf-order))
-[[  "$once" -eq 0  ]] && printf "\033[K" && ishprt "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && ishprt "\033[$((down5-1))A${enter}"
 [[  "$once" -eq 0  ]] && once=1 && [[  $sub -eq 0  ]] && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 if [[  $sub -eq 0  ]];then 
 getin=0
@@ -3501,7 +3692,7 @@ if [[  "$ascanf"  ==  "$_1B5B"  ]] ;then
 while read -n1 WSAD ;do
 [[  "$WSAD" == [ABC]  ]] && break
 done
-[[  "$once" -eq 0  ]] && printf "\033[K" && ishprt "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && ishprt "\033[$((down5-1))A${enter}"
 [[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter"  && continue
 eval theam=\$am$order
 ishprt "$enter$theam"
@@ -3540,7 +3731,7 @@ fi
 fi
 
 if [[  "$ascanf"  ==  ' '  ]] || [[  $getin -gt 0  ]] ;then
- [[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}"
+ [[  "$once" -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
 [[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1"  && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 [[  $getin -gt 0  ]] && getin=$((getin-1))
 eval down=\${down$order}
@@ -3605,7 +3796,8 @@ done
 
 if [[  "$order" -eq "$insert"  ]];then
 orders=0
-printf "\033[1m$theam$enter\033[0m\033[1m\033[32m->\033[0m$enter"
+theam=${theam##"  "}
+printf "$enter\033[0m\033[1m\033[32m->\033[0m\033[1m$theam$enter"
 down=0
 one=
 case $order in 
@@ -3679,6 +3871,8 @@ isright=0
 abool=
 bool=
 printf "\r"
+
+#answer1="$answer2"
 colourp 2>/dev/null
 
 [[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B" 
@@ -3699,10 +3893,14 @@ fi
 
 
 elif [[  "$fbool" -eq 2  ]] ;then
+if [[  $mode -eq 3  ]];then
+question=$answer1
+answer=$answer2
 
+else
 question=$answer2
 answer=$answer1
-
+fi
 iq=$((${#question}*2))
 for i in $(seq ${#question});do
 if [[  "${question:i:1}" == '.'  ]] ;then
@@ -3729,14 +3927,26 @@ fi
 [[  "$ish" != "y"  ]] &&  printf "\033[1m$question\033[0m"
 fi
 echo
-
+[[  "$passd" -eq 1   ]] && total=$((constn-gcounts))
 while true;do
 
 m1=$((RANDOM%$total+1))
 m2=$((RANDOM%$total+1))
 m3=$((RANDOM%$total+1))
+#if [[  $passd -eq 1  ]] ;then
+#m1="$(echo "$rangem" | sed -n "$m1,${m1}p")"
+#m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
+#m3="$(echo "$rangem" | sed -n "$m3,${m3}p")"
+#fi
+if [[  $mode -eq 3  ]] ;then
+m1=$((m1-!(m1%2)))
+m2=$((m2-!(m2%2)))
+m3=$((m3-!(m3%2)))
+fi
 #echo $m$m1$m2$m3
-[[  "$m1" -eq "$m2"  ]] || [[  "$m2" -eq "$m3"  ]] || [[  "$m1" -eq "$m3"  ]]  || [[  "$m" -eq "$m1"  ]] || [[  "$m" -eq "$m2"  ]]  ||  [[  "$m" -eq "$m3"  ]] &&  continue
+[[  $mode -eq 3  ]] && [[  "$m1" -eq "$m2"  ]] || [[  "$m2" -eq "$m3"  ]] || [[  "$m1" -eq "$m3"  ]]  || [[  "$((m-1))" -eq "$m1"  ]] || [[  "$((m-1))" -eq "$m2"  ]] || [[  "$((m-1))" -eq "$m3"  ]]  &&  continue
+
+[[  $mode -ne 3 ]] && [[  "$m1" -eq "$m2"  ]] || [[  "$m2" -eq "$m3"  ]] || [[  "$m1" -eq "$m3"  ]]  || [[  "$((m))" -eq "$m1"  ]] || [[  "$((m))" -eq "$m2"  ]] || [[  "$((m))" -eq "$m3"  ]]  &&  continue
 break
 done
 
@@ -3802,7 +4012,7 @@ IFS=$IFSbak
 fi
 
 if [[  "$ascanf"  ==  ""  ]]  || [[  "$ascanf"  ==  "$CR"  ]];then
-[[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]]  && printf "\033[$((down5-1))A${enter}"
 [[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 printf "$enter"
 break
@@ -3817,7 +4027,7 @@ fi
 
 
 if [[  "$ascanf"  ==  [1234]  ]];then
-[[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]]  && printf "\033[$((down5-1))A${enter}"
 sub=$((ascanf-order))
 [[  "$once" -eq 0  ]] && once=1 && [[  $sub -eq 0  ]] && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 if [[  $sub -eq 0  ]];then 
@@ -3834,7 +4044,7 @@ if [[  "$ascanf"  ==  "$_1B5B"  ]] ;then
 while read -n1 WSAD ;do
 [[  "$WSAD" == [ABC]  ]] && break
 done
-[[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
 [[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 eval theam=\$am$order
 printf "$enter"
@@ -3872,7 +4082,7 @@ fi
 fi
 
 if [[  "$ascanf"  ==  ' '  ]] || [[  $getin -gt 0  ]] ;then
-[[  "$once" -eq 0  ]] && printf "\033[K" && ishprt "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && ishprt "\033[$((down5-1))A${enter}"
 [[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 [[  $getin -gt 0  ]] && getin=$((getin-1))
 eval down=\${down$order}
@@ -3941,6 +4151,10 @@ isright=1
 abool=
 bool=
 printf "\r"
+#tmp="$answer2"
+
+answer2="$question"
+answer1="$answer"
 colourp 2>/dev/null
 [[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B"
 [[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && printf "$one"
@@ -3978,6 +4192,8 @@ isright=0
 #printf "─>"
 abool=
 bool=
+answer2="$question"
+answer1="$answer"
 colourp 2>/dev/null
 #printf "按方向键和回车或1-4继续"
 [[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B" 
@@ -3999,6 +4215,7 @@ done
 FUN()
 {
 #premode=1
+
    clear
 #printf "\033[s"
 stty -echo
@@ -4028,9 +4245,10 @@ echo
 sleep 0.02
 stty echo
 printf  "\033[0m\033[?25l"
-[[  "$record" == "1"  ]] || [[  "$passd" == "1"  ]] && [[  "$calenda" == "1"  ]]  && printf "I,提词器${spaces#              }II,完形填空 " &&  read   premode && gcounts=0
-[[  "$record" != "1"  ]] && [[  "$passd" != "1"  ]] && [[  "$calenda" == "1"  ]]  && printf "I,提词器${spaces#              }II,完形填空${spaces#                }III,四选一"  &&  read  premode
-[[  "$calenda" != "1"  ]]  && printf "I,提词器${spaces#              }II,完形填空${spaces#                }III,四选一"  &&  read  premode
+#[[  "$record" == "1"  ]] && [[  "$calenda" == "1"  ]]  && printf "Ⅰ,提词器${spaces#             }Ⅱ,完形填空 " &&  read   premode && gcounts=0
+#[[  "$record" != "1"  ]] &&
+[[  "$calenda" == "1"  ]]  && printf "Ⅰ,提词器${spaces#             }Ⅱ,完形填空${spaces#              }Ⅲ,四选一"  &&  read  premode
+[[  "$calenda" != "1"  ]]  && printf "Ⅰ,提词器${spaces#             }Ⅱ,完形填空${spaces#              }Ⅲ,四选一"  &&  read  premode
 #printf "\033[1A"
 stty -echo
 #[[  ${premode}  ]]
@@ -4041,11 +4259,11 @@ elif [[  "${premode:-1}" -eq "3"  ]];then
 FUN_
 return 0
 fi
-printf "I,英译中${spaces#              }II,中译英${spaces#              }III,混合"
+printf "Ⅰ,英译中${spaces#             }Ⅱ,中译英${spaces#            }Ⅲ,混合"
 read -n 1 mode
 [[  "$mode" == $LF  ]] && mode=3
 echo
-printf "I,顺序${spaces#            }II,倒序${spaces#            }III,乱序"
+printf "Ⅰ,顺序${spaces#           }Ⅱ,倒序${spaces#          }Ⅲ,乱序"
 read -n 1 random
 [[  "$random" == $LF  ]] && random=3
 echo 
@@ -4059,8 +4277,9 @@ number0=0;
 #r1=raw;r2=raw;
 r1=${raw:-number0};r2=${raw:-((n+1))}
 constn=$n
+
 if [[  $mode == 3  ]] ;then
-rangem="$(seq $n)"
+[[  $rangem == ""  ]] && rangem="$(seq $n)"
 longtxt=$(echo "$txt"  | tr -s "	"  "\n")
 #echo $txt | awk 'BEGIN{RS=" "}{print $0} 整齐的list
 for gi in $(seq 1 $ii)
@@ -4115,7 +4334,7 @@ fi
 done
 length=$((la+la2+7))
 
-if [[ "$question" = "$answer1" ]] ;then
+if [[  "$question" == "$answer1"  ]] ;then
 
 answer=$answer2
 pureanswer="$(printf "\033[0m$answer1 \033[1m$answer2\033[0m")"
@@ -4140,6 +4359,7 @@ iq=${#answer1}
 for t in `seq $iq`;do
 bot="$bot"-
 done
+
 #question="$(printf "\r\033[1A$question")"
 printf  "\033[0m$question"\\033[3m\ \<───\>\ "\033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
@@ -4353,8 +4573,8 @@ echo
 sleep 0.02
 stty echo
 printf  "\033[0m\033[?25l"
-printf "I,提词器${spaces#              }II,完形填空"
-[[  "$record" -ne  1  ]] && printf "${spaces#                }III,四选一"
+printf "Ⅰ,提词器${spaces#             }Ⅱ,完形填空"
+[[  "$record" -ne  1  ]] && printf "${spaces#              }Ⅲ,四选一"
 read  premode
 if [[  "${premode:-1}" -eq 2  ]];then
 _FUN
@@ -4363,10 +4583,10 @@ elif [[  "${premode:-1}" -eq 3  ]];then
 FUN_
 return 0
 fi
-printf "I,英译中${spaces#              }II,中译英${spaces#              }III,混合"
+printf "Ⅰ,英译中${spaces#             }Ⅱ,中译英${spaces#            }Ⅲ,混合"
 read -n 1 mode
 echo
-printf "I,顺序${spaces#            }II,倒序${spaces#            }III,乱序"
+printf "Ⅰ,顺序${spaces#           }Ⅱ,倒序${spaces#          }Ⅲ,乱序"
 read -n 1 random
 echo 
 [[  "$passd" -ne 1   ]] && printf "需要多少题目:"  && read ii
