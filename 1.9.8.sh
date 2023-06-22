@@ -1029,7 +1029,7 @@ done
 
 pprep()
 {
-pp="$pureanswer"
+pp="$pureanswerd"
 if [[  "$ish" == "y"  ]];then
 la3=0
 #iq1=${#answer1}
@@ -1046,7 +1046,7 @@ if [[  "${answer2:t1:1}" == '.'  ]] ;then
 la3=$((la3+1))
 else
 la3=$((la3+2))
-[[  "$la3" -eq  "$((qi2+1))"  ]] && pp=~"$pureanswer"  && break
+[[  "$la3" -eq  "$((qi2+1))"  ]] && pp=~"$pureanswerd"  && break
 fi
 done
 
@@ -1211,13 +1211,13 @@ elif [[  "$abool"  ==  "s" ]] ||  [[  "$abool"  ==  "S"  ]];then
 #ishprt "\n\r"
 bool="s"
 #printf "\n\n\n\n\n\n"
-[[  $premode -ne 3  ]] && printf "\n$enter\033[K"
+[[  $premode -ne 3  ]] && [[  $minifun != true  ]] && printf "\n$enter\033[K"
 [[  $premode -eq 3  ]] && printf "\n$enter"
 break
 elif [[  "$abool"  ==  "j"  ]] || [[  "$abool"  ==  "J"  ]];then
 #ishprt "\n\r"
 printf "\n$enter\033[K" && bool="$abool"
-pprep "$pureanswerd"
+pprep  # "$pureanswerd"
 #hide=1
 break
 elif [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]] || [[  $abool == ""  ]] && [[  $ttf == "0"  ]] ;then
@@ -1229,7 +1229,7 @@ continue
 fi 
 done
 
-pureanswerd="$(echo $pureanswer | tr '/' ' ')"
+#pureanswerd="$(echo "$pureanswer" | tr '/' ' ')"
 #printf ${spaces}
 #fi
 #printf ${spaces# }
@@ -1240,21 +1240,27 @@ bool=${bool:-0}
 
 #[[  "$ish" == "y"    ]] && sleep 0.001
 printf "\r"
-
+if [[  "$bool" != 'Y' && "$bool" != 'V'  && "$bool" != 'S'  && "$bool" != 's'   ]];then
+[[  $premode -eq 3  ]] && [[  $order -ne 4  ]] && [[  $down -gt 0  ]] && printf "\033[${down}B$enter" 
+[[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && printf "$one" 
+down=0
+one=
+fi
 #sleep 0.005
 if [[  $bool == 'y'  ]] || [[  $bool == 'Y'  ]]  ; then
 #printf "\033[$((COLUMN-7))C释义\n"
 #[[  "$hide" -eq "1"  ]] &&
 if [[  "$bool"  ==  "Y"  ]] ;then
 RC=0
-#sleep 0.005
-#ishprt "\033[1A"
 ishprt  "\033[1A\033[${COL}C%s\n\r"  "${eline}"
-fi
-[[  "$hide" -eq "0"  ]] &&  pprep "$pureanswerd"
 [[  $premode -eq 3  ]] && [[  $order -ne 4  ]] && [[  $down -gt 0  ]] && printf "\033[${down}B$enter" 
 [[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && printf "$one" 
-[[  $premode -eq 3  ]]  && printf "\r$question    $answer\033[K\n"
+down=0
+one=
+fi
+# "$pureanswerd" 
+[[  "$hide" -eq "0"  ]] &&  pprep 
+#[[  $premode -eq 3  ]]  && printf "\r$question    $answer\033[K\n"
 yes
 [[  $premode -eq 3  ]]  && echo
 down=0
@@ -1262,30 +1268,32 @@ elif [[ $bool == 'v' ]] || [[ $bool == 'V' ]]; then
 #printf "\033[$((COLUMN-7))C例句\n"
 if [[  "$bool"  ==  "V"  ]] ;then
 RC=0
-#sleep 0.005
-#ishprt "\033[1A"
 ishprt   "\033[1A\033[${COL}C%s\n\r"  "${eline}"
-fi
-[[  "$hide" -eq "0"  ]] && pprep "$pureanswerd" 
-[[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && [[  $down -gt 0  ]] && printf "\033[${down}B$enter" 
+[[  $premode -eq 3  ]] && [[  $order -ne 4  ]] && [[  $down -gt 0  ]] && printf "\033[${down}B$enter" 
 [[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && printf "$one" 
-[[  $premode -eq 3  ]]  && printf "\r$question    $answer\033[K\n"
+down=0
+one=
+fi
+# "$pureanswerd" 
+
+[[  "$hide" -eq "0"  ]] && pprep 
+#[[  $premode -eq 3  ]]  && printf "\r$question    $answer\033[K\n"
 verbose
 [[  $premode -eq 3  ]]  && echo
 down=0
 elif [[  $bool == 's'  ]] || [[  $bool == 'S'  ]]  ; then
 RC=0
-#sleep 0.005
-#ishprt "\033[1A"
-#[[  "$hide" -eq "0"  ]] &&  pprep "$pureanswerd"
+
 ishprt   "\033[1A\033[${COL}C%s\n\r"  "${eline}"
 [[  $premode -eq 3  ]] && [[  $order -ne 4  ]] && [[  $down -gt 0  ]] && printf "\033[${down}B$enter" 
 [[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && printf "$one" 
-[[  $premode -eq 3  ]]  && printf "\r$question    $answer\033[K\n"
+down=0
+one=
+#[[  $premode -eq 3  ]]  && printf "\r$question    $answer\033[K\n"
 #[[  $premode -eq 3  ]]  && echo
 down=0
 #sleep 0.005
-[[  $minifun != true  ]] && pprep "$pureanswerd"
+ pprep # "$pureanswerd"
 #ishprt "\033[0m\n"
 #[[  "$ish" == "y"    ]] && sleep 0.003
 #printf "\n"
@@ -1525,14 +1533,14 @@ done
 
 fi
 #[[  "$ish" == "y"    ]] && sleep 0.003
-[[  "$abool"  !=  "j"  ]] && [[  "$abool"  !=  "J"  ]] && pprep "$pureanswerd"
+[[  "$abool"  !=  "j"  ]] && [[  "$abool"  !=  "J"  ]] && pprep # "$pureanswerd"
 #ishprt "\n"
 #[[  "$ish" == "y"    ]] && sleep 0.003
 else
 #sleep 0.005
 if [[  "$hide" -eq "0"  ]] ;then
 #[[  "$ish" == "y"    ]] && sleep 0.003
-pprep "$pureanswerd"
+pprep # "$pureanswerd"
 #[[  "$ish" == "y"    ]] && sleep 0.003
 #printf "\n"
 fi
@@ -2498,11 +2506,13 @@ backscanf="$backscanf"$Back
 blocks=$blocks' '
 done
 #printf $((it+is))
-
-if [[   $premode -eq 1  ]] || [[   $premode == ""  ]] ;then
+if  [[  $Sorce -eq 1  ]];then 
+frontier=${is}
+elif [[   $premode -eq 1  ]] || [[   $premode == ""  ]] || [[  $minifun  ==  true  ]] ;then
 frontier="$((la2+is+8))"
 elif [[   $premode -eq 2  ]];then
 frontier="$((it-answe+is+1))"
+
 fi
 
 if  [[  "$is" -ge  1   ]] && [[  "$is" -le "$iq" ]] ;then
@@ -3343,6 +3353,7 @@ done
 miniFUN(){
 #longtxt=$(echo "$txt"  | tr -s "	"  "\n")
 #echo "$rangem"
+premode=
 passd=1
 minifun=true
 r1=0
@@ -3369,7 +3380,7 @@ m2=$(printf "$rangem" | sed -n "$m,${m}p" )
  echo  "${strs}"
 #stty -echo
 #echo -n "$question"         #printf 命令需要套一个双引号才能输出空格
-pureanswe=$(printf "%s" "$txt" | sed -n "$m2,${m2}p" )
+pureanswe="$(printf "%s" "$txt" | sed -n "$m2,${m2}p" )"
 
 answer1="$(printf "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
 answer2="$(printf "$pureanswe" | awk '{printf $NF}' | tr '/' ' ')"
@@ -3381,21 +3392,22 @@ if  [[  $mode -eq 1  ]]  || ( [[  $mode -eq 3  ]] && [[  "$((m2%2))" -eq 1    ]]
 #answer=$answer2
 
 if [[  $mode -eq 3  ]];then 
-  answer=$answer1
+  answer="$answer1"
   answer1="$answer"
 answer2="$answer2"
 else
 
-  answer=$answer2
+  answer="$answer2"
   answer1="$answer1"
 answer2="$answer"
 
 fi
 
-
-pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
-[[  $mode -eq 1  ]] && question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
-[[  $mode -eq 3  ]] && question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
+#pureanswer="$(printf "$answer1 $answer2")"
+pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
+#pureanswerd="$pureanswer"
+[[  $mode -eq 1  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')"
+[[  $mode -eq 3  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')"
 
 answer1="$question"
 
@@ -3408,11 +3420,11 @@ Readzh
 #answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 elif [[  $mode -eq 2  ]] || ( [[  $mode -eq 3  ]]  && [[   "$((m2%2))" -eq 0   ]] );then
 #echo $length
-[[  $mode -eq 2  ]] && question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $NF}' | tr '/' ' ')
-[[  $mode -eq 3  ]] && question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
+[[  $mode -eq 2  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $NF}' | tr '/' ' ')"
+[[  $mode -eq 3  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')"
 bot=
 if [[  $mode -eq 2  ]];then 
-  answer=$answer1
+  answer="$answer1"
   answer1="$answer"
   iq=${#answer1}
 for t in `seq $iq`;do
@@ -3426,15 +3438,14 @@ for t in `seq $iq`;do
 bot="$bot"-
 done
 
-  answer=$answer2
+  answer="$answer2"
   answer1="$answer"
 
 fi
 answer2="$question"
-pureanswer="$(printf "\033[1m$answer1\033[0m $answer2")"
+#pureanswer="$(printf "$answer1 $answer2")"
 #if [[  $COLUMN -ge $length  ]];then
-
-
+pureanswerd="$(printf "\033[1m$answer1\033[0m $answer2")"
 
 la=${#answer1}
 la2=$((${#question}*2))
@@ -3537,20 +3548,12 @@ fi
 [[  $mode -eq 3  ]] && [[  $((m%2))  -eq 1  ]] && fbool=1
 [[  $mode -eq 3  ]] && [[  $((m%2))  -eq 0  ]] && fbool=2
 #echo "$m"
-if [[  $fbool  -eq 1  ]];then 
-
-
 
 answer1="$(echo "$txt" | sed -n "$((m)),${m}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
 answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
 #fbool=$((RANDOM%2+1))
-elif [[  $fbool  -eq 2  ]];then 
-answer1="$(echo "$txt" | sed -n "$((m)),${m}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
-answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
-fi
 
 if [[  "$fbool" -eq 1  ]] ;then
-
 
 question=$answer1
 answer=$answer2
@@ -3558,6 +3561,8 @@ answer=$answer2
 iq=$((${#question}/2));
 cq=$((COLUMN/2))
 left=$((cq+iq))
+
+pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
 
 if [[  $((iq*2)) -le $COLUMN  ]];then
 printf "\033[1m%${left}s\033[0m\n" "$question"
@@ -3826,7 +3831,7 @@ done
 
 if [[  "$order" -eq "$insert"  ]];then
 orders=0
-theam=${theam##"  "}
+theam=${theam/  /}
 printf "$enter\033[0m\033[1m\033[32m->\033[0m\033[1m$theam$enter"
 down=0
 one=
@@ -3909,7 +3914,7 @@ colourp 2>/dev/null
 [[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && printf "$one"
 #[[  $order -ne 4  ]] && ishprt "\n"
 #printf "按方向键和回车或1-4继续\033[1m"
-[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]] && printf "\r\033[1m$answer  $answer1\033[K\n"
+#[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]] && printf "\r\033[1m$answer  $answer1\033[K\n"
 #printf "\033[1A"
 
 fi
@@ -3931,15 +3936,18 @@ else
 question=$answer2
 answer=$answer1
 fi
+
+pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
+
 iq=$((${#question}*2))
 for i in $(seq ${#question});do
 if [[  "${question:i:1}" == '.'  ]] ;then
 iq=$((iq-1))
 fi
 done
-left=$(($((COLUMN/2))-$((iq/2))))
+left=$(($((COLUMN/2))-$((iq/2))-$((iq%2))))
 
-if [[  $iq -le $COLUMN  ]] ;then 
+if [[  $iq -le $((COLUMN))  ]] ;then 
 ishprt "\033[1m\033[%dC%s\033[0m" $left  $question
 else
 if [[  "$ish" == "y"  ]] ; then 
@@ -4229,7 +4237,7 @@ colourp 2>/dev/null
 [[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B" 
 [[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   &&   printf "$one"
 #printf "\033[1A"
-[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]  && printf "\r\033[1m$answer  $answer2\033[K\n"
+#[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]  && printf "\r\033[1m$answer  $answer2\033[K\n"
 #printf "\033[1A"
 fi
 #verbs="$(printf %s "$content" | grep ^"$answer1 [^A-Z^a-z]" )"
@@ -4367,7 +4375,8 @@ length=$((la+la2+7))
 if [[  "$question" == "$answer1"  ]] ;then
 
 answer=$answer2
-pureanswer="$(printf "\033[0m$answer1 \033[1m$answer2\033[0m")"
+#pureanswer="$(printf "\033[0m$answer1 \033[1m$answer2\033[0m")"
+pureanswerd="$(printf "\033[0m$answer1 \033[1m$answer2\033[0m")"
 #if [[  "$COLUMN" -ge "$length"  ]];then
 #read -e -p  "$question"\\033[3m\ \<───\>\   scanf
 #[[  "$windows" == "y"  ]] && stty -echo
@@ -4383,7 +4392,8 @@ Readzh
 else
 #echo $length
 answer=$answer1
-pureanswer="$(printf "\033[1m$answer1\033[0m $answer2")"
+#pureanswer="$(printf "$answer1 $answer2")"
+pureanswerd="$(printf "\033[1m$answer1\033[0m $answer2")"
 #if [[  $COLUMN -ge $length  ]];then
 iq=${#answer1}
 for t in `seq $iq`;do
@@ -4471,7 +4481,8 @@ la2=$((la2-1))
 fi
 done
 length=$((la+la2+7))
-pureanswer="$(printf "\033[1m$answer1\033[0m $answer2")"
+#pureanswer="$(printf "$answer1 $answer2")"
+pureanswerd="$(printf "\033[1m$answer1\033[0m $answer2")"
 #echo $length
 #answer=$answer1
 #if [[  $COLUMN -ge $length  ]];then
@@ -4551,7 +4562,8 @@ la2=$((la2-1))
 fi
 done
 length=$((la+la2+7))
-pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
+#pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
+pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
 #[[  "$windows" == "y"  ]] && stty echo
 printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 #stty -echo
@@ -4694,7 +4706,8 @@ done
 length=$((la+la2+7))
 if [[ "$question" = "$answer1" ]] ;then
 answer="$answer2"
-pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
+#pureanswer="$(printf "$answer1 $answer2")"
+pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
 #[[  "$windows" == "y"  ]] && stty echo
 printf "\033[1m$question\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 #stty -echo
@@ -4703,7 +4716,8 @@ else
 #elif [[ "$question" = "$answer2" ]] ;then
 #echo $length
 answer=$answer1
-pureanswer="$(printf "\033[1m$answer1\033[0m $answer2")"
+#pureanswer="$(printf "$answer1 $answer2")"
+pureanswerd="$(printf "\033[1m$answer1\033[0m $answer2")"
 #if [[  $COLUMN -ge $length  ]];then
 iq=${#answer1}
 for t in `seq $iq`;do
@@ -4800,8 +4814,8 @@ la2=$((la2-1))
 fi
 done
 length=$((la+la2+7))
-pureanswer="$(printf "\033[1m$answer1\033[0m $answer2")"
-
+#pureanswer="$(printf "$answer1 $answer2")"
+pureanswerd="$(printf "\033[1m$answer1\033[0m $answer2")"
 m2=$((m2/2))
 
 #if [[  $COLUMN -ge $length  ]];then
@@ -4893,7 +4907,8 @@ eval pureanswe="\${lr$m2}'	'\${lr$((m2+1))}"
 
 answer1=`echo "$pureanswe" | awk -F'	' '{printf $1}' | tr '/' ' ' `
 answer2=`echo "$pureanswe" | awk -F'	' '{printf $2}' | tr '/' ' ' `
-pureanswer="$(printf "$answer1 \033[1m$answer2\033[0m")"
+#pureanswer="$(printf "$answer1 $answer2")"
+pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
 la=${#question}
 la2=$((${#answer2}*2))
 for i in $(seq ${#answer2});do
