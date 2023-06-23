@@ -1160,8 +1160,8 @@ Dtop=0
 Dend=0
 RC=0
 
-[[  $premode -ne 3  ]] && Thestdout="错题+1\n" && Thestdout2="错题-1\n"
-[[  $premode -eq 3  ]] && Thestdout="\033[1A\033[$((COL-7))C错题+1\n" && Thestdout2="\033[1A\033[$((COL-7))C错题-1\n"
+Thestdout="错题+1\n" && Thestdout2="错题-1\n"
+#[[  $premode -eq 3  ]] && Thestdout="\033[1A\033[$((COL-7))C错题+1\n" && Thestdout2="\033[1A\033[$((COL-7))C错题-1\n"
 
 #[[  "$ish" == "y"    ]] &&  sleep 0.002
 hide=0
@@ -1212,7 +1212,7 @@ elif [[  "$abool"  ==  "s" ]] ||  [[  "$abool"  ==  "S"  ]];then
 bool="s"
 #printf "\n\n\n\n\n\n"
 [[  $premode -ne 3  ]] && [[  $minifun != true  ]] && printf "\n$enter\033[K"
-[[  $premode -eq 3  ]] && printf "\n$enter"
+[[  $premode -eq 3  ]] || [[  $minifun == true  ]] && printf "\n$enter"
 break
 elif [[  "$abool"  ==  "j"  ]] || [[  "$abool"  ==  "J"  ]];then
 #ishprt "\n\r"
