@@ -3406,8 +3406,8 @@ fi
 #pureanswer="$(printf "$answer1 $answer2")"
 pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
 #pureanswerd="$pureanswer"
-[[  $mode -eq 1  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')"
-[[  $mode -eq 3  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')"
+[[  $mode -eq 1  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS="	"}{printf $1}' | tr '/' ' ')"
+[[  $mode -eq 3  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS="	"}{printf $1}' | tr '/' ' ')"
 
 answer1="$question"
 
@@ -3420,8 +3420,8 @@ Readzh
 #answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 elif [[  $mode -eq 2  ]] || ( [[  $mode -eq 3  ]]  && [[   "$((m2%2))" -eq 0   ]] );then
 #echo $length
-[[  $mode -eq 2  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $NF}' | tr '/' ' ')"
-[[  $mode -eq 3  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')"
+[[  $mode -eq 2  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS="	"}{printf $NF}' | tr '/' ' ')"
+[[  $mode -eq 3  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS="	"}{printf $1}' | tr '/' ' ')"
 bot=
 if [[  $mode -eq 2  ]];then 
   answer="$answer1"
