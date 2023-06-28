@@ -3382,8 +3382,8 @@ m2=$(printf "$rangem" | sed -n "$m,${m}p" )
 #echo -n "$question"         #printf 命令需要套一个双引号才能输出空格
 pureanswe="$(printf "%s" "$txt" | sed -n "$m2,${m2}p" )"
 
-answer1="$(printf "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
-answer2="$(printf "$pureanswe" | awk '{printf $NF}' | tr '/' ' ')"
+answer1="$(printf "$pureanswe" | awk '{RS="	"}{printf $1}' | tr '/' ' ')"
+answer2="$(printf "$pureanswe" | awk '{RS="	"}{printf $NF}' | tr '/' ' ')"
 
 
 
@@ -3946,9 +3946,10 @@ iq=$((iq-1))
 fi
 done
 left=$(($((COLUMN/2))-$((iq/2))-$((iq%2))))
-
-if [[  $iq -le $((COLUMN))  ]] ;then 
+if [[  $iq -lt $((COLUMN))  ]] ;then 
 ishprt "\033[1m\033[%dC%s\033[0m" $left  $question
+elif [[  $iq -eq $((COLUMN))  ]] ;then 
+ishprt "\033[1m%s\033[0m"  $question
 else
 if [[  "$ish" == "y"  ]] ; then 
 while true;do
