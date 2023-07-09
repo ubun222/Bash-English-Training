@@ -39,7 +39,7 @@ read -r -d "\\"  -u 3 init
 echo
 while read line ;do
 theword="$(printf "$line" | awk 'BEGIN{FS="\t"}{print $1}' )"
-refd=$(printf "%s" "$ref" | grep "^${theword}\t" | head -n1)
+refd=$(printf "%s" "$ref" | grep "^${theword}	" | head -n1)
 if [[  "$refd"  != ""  ]];then
 (echo  "$txt1" | xargs sed -i"" s/^"$line*"$/"$refd"/  || echo  "$txt1" | xargs sed -i "" s/^"$line*"$/"$refd"/) 2>/dev/null
 
