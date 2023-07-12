@@ -1622,11 +1622,11 @@ fi
 locate="$(cat "${therw}" | grep -e  ^"${answer1}	" )"
 #echo "$locate"
 if [[  "$locate" !=  ""  ]];then
-locate="$(cat "${therw}" | grep -n ^"${answer1} |" | head -n1 | awk -F: '{print $1}')"
+locate="$(cat "${therw}" | grep -n ^"${answer1}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" | head -n1 | awk -F: '{print $1}')"
 #echo $locate
-Dlinerawn="$(cat "$therw"  | grep  -B 60 ^"${answer1} |" |   awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  "[	|\\]"|  wc -l )"
+Dlinerawn="$(cat "$therw"  | grep  -B 60 ^"${answer1}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" |   awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n\r\r"}{print $NF}' | grep -v  "[	|\\]"|  wc -l )"
 Dtop=$((locate-Dlinerawn+1))
-Dlinerawn="$(cat "$therw"  | grep  -A 60 ^"${answer1} |" |  awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $1}' | grep -v '[	\]' | wc -l )"
+Dlinerawn="$(cat "$therw"  | grep  -A 60 ^"${answer1}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" |  awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n\r\r"}{print $1}' | grep -v '[	\]' | wc -l )"
 Dend=$((locate+Dlinerawn-1))
 #echo $Dtop
 #echo $Dend
@@ -2626,7 +2626,7 @@ echo $strs
 echo "在词表中：$target"
 printf "释义：\n\033[1m\033[3m$find\033[0m\n" | tr -s "\t"
 ##read
-find1=$(cat "$target" | grep -a    -B 30 ^"${1}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]')
+find1=$(cat "$target" | grep -a    -B 30 ^"${1}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n\r\r"}{print $NF}' | grep -a  '[^ \]')
 if [[  "$find1" != ""  ]];then
 echo $strs
 echo "在详细释义中：$target"
@@ -3039,7 +3039,7 @@ targets=${targets:-/dev/null}
 row=$(eval "$allif")
 eval thept=\${pt$row}
 [[  "$premode" -eq 3  ]] && m=$((m/2))
-    lineraw="$(cat "$thept" | grep  -B 30 ^"${answer1}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  "[	\\]" )"
+    lineraw="$(cat "$thept" | grep  -B 30 ^"${answer1}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n\r\r"}{print $NF}' | grep -v  "[	\\]" )"
 
 #echo "$lie
     #preline="$(echo  "$content" | grep -B 1 ^"${answer1} |" )"
@@ -4309,7 +4309,7 @@ echo
 #printf "需要多少题目:" 
 #read ii
 ii=99
-[[  "$passd" -eq 1   ]] && [[  "$calenda" == "1"  ]] && ii=999
+[[  "$passd" -eq 1   ]] && [[  "$calenda" == "1"  ]] && ii=9999
 printf "\033[0m"
 number0=0;
 #raw=$[raw-1];
@@ -4634,7 +4634,7 @@ read -n 1 random
 echo 
 [[  "$passd" -ne 1   ]] && printf "需要多少题目:"  && read ii
 stty -echo
-[[  "$passd" -eq 1   ]] && ii=999 && gcounts=0
+[[  "$passd" -eq 1   ]] && ii=9999 && gcounts=0
 
 printf "\033[0m"
 number0=0;
