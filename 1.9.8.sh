@@ -946,7 +946,7 @@ lleft=$(echo "$line" | awk '{printf $1}' | tr "/" " " )
 right="$(echo "$thetxt" | sed -n "$list,${list}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
 right=${right:-/}
 alldata="$lleft $right"
-aline="$(printf "${line}" | tr -s  "	" | tr " 	" " " | tr "/" " " )"
+aline="$(printf "%s" "${line}" | tr -s  "	" | tr " 	" " " | tr "/" " " )"
 if [[  "$alldata" == "$aline" ]] ;then
 eval lr$wlist="$(echo "\$lleft")" #eval的空格需要''才能赋值，否则被视为命令行中的空格
 eval lr$((wlist+1))="$(echo "\$right")"
