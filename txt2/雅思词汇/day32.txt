@@ -24,7 +24,8 @@ rot								腐烂，恶化
 phase				阶段
 ruffle			弄乱，快速翻动，竖起，扰乱，使生气
 diverse						多种多样的
-wicked			烛芯，灯芯，火芯
+wick			烛芯，灯芯，火芯
+wicked			恶毒的，有害的，极端的，顽皮的，很棒的
 omit				删除，疏忽
 diploma						毕业文凭
 crack			裂缝，漏洞，噼啪声，猛击，尝试，裂开
