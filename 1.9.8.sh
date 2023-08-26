@@ -1979,7 +1979,7 @@ if [[  ${vback} -eq "1"   ]] &&  [[   "$which" == "zh"  ]] ;then
 # now2=1
 break
 fi
-continue
+break
 #stty -echo
 #now3=
 #[[  $wherec -eq $COLUMN  ]]  && break
@@ -2306,7 +2306,7 @@ scanf="${scanf:0:$L}"
 #echo ${scanf:$L}
 reg4="$Backs$Block$Backs"
 [[  "$now3" -eq "1"  ]] && reg4="$Back $Back"
-[[  "$Ll"  -ge "1"  ]] && [[  "$windows" ==  "y"  ]] &&  ascanf="$reg4" && vback=1  && continue
+#[[  "$Ll"  -ge "1"  ]] && [[  "$windows" ==  "y"  ]] &&  ascanf="$reg4" && vback=1  && continue
 [[  "$Ll"  -ge "1"  ]] && [[  "$windows" !=  "y"  ]] &&  printf "$reg4"   && continue
 #[[  "$Ll"  -ge "1"  ]]  &&  printf "$reg4"  && continue
 
@@ -2353,9 +2353,10 @@ ascanf=
 printf "\n\r\033[0m"
 FIND
 scanf=
-[[  "$windows" = "y"  ]] && stty echo
-ishprt "\033[1m$question"\\033[3m\\033[2m\ \<───\>\ \\\033[0m
 stty -echo
+#[[  "$windows" = "y"  ]] && stty echo
+printf "\033[1m$question"\\033[3m\\033[2m\ \<───\>\ \\\033[0m #ishprt已不需要
+#stty -echo
 continue
 
 elif [[  "$ascanf" == "$LF"  ]] || [[  "$ascanf" == "$CR"  ]] || [[  "$ascanf" == ""  ]] && [[  $tf == "0"  ]] ;then
@@ -2598,7 +2599,7 @@ cpath="$(pwd)"
 #pwd
 #[[  "$calenda" -eq 1   ]] && [[ "$record" -eq 1  ]] && cd ../../"$thepath" 
 fscanf=
-bot=
+#bot=
 alltxt="$txt"
 findx()
 {
@@ -3945,7 +3946,7 @@ if [[  "${question:i:1}" == '.'  ]] ;then
 iq=$((iq-1))
 fi
 done
-left=$(($((COLUMN/2))-$((iq/2))-$((iq%2))))
+left=$(($((COLUMN/2))-$((iq/2))))
 if [[  $iq -lt $((COLUMN))  ]] ;then 
 ishprt "\033[1m\033[%dC%s\033[0m" $left  $question
 elif [[  $iq -eq $((COLUMN))  ]] ;then 
