@@ -1,7 +1,7 @@
 position					位置，姿势，状况，立场，摆放
 solid							固体的，纯的，挤满的，连续的
 mobile						可移动的，适应性强的
-identification						坚定，认同
+identification						鉴定，认同
 convenience						方便，便利设施
 logic					逻辑学，理由
 immediate						立即的，紧急的，最近的，直接的
