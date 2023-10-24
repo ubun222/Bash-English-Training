@@ -14,12 +14,15 @@ save=$(printf "\033[s\n")
 reset=$(printf "\033[u\n")
 enter=$(printf "\r")
 newline="$(printf "\n")"
+macos_newline=`printf "\n"`
 v=$(printf "\v")
 t=$(printf "\t")
 Block="  "
 Back="$(printf "\b")"
 Backs="$Back$Back"
 IFSbak=$IFS
+
+
 read -n1 B <<EOF
 `printf  "\177"`
 EOF
@@ -838,7 +841,7 @@ cd "$thepath"
     while read atarget ;do
     #echo $atarget
 [[  ${atarget} == ""  ]] &&  continue
-[[ ! -e ${atarget}  ]] && echo \\\\\\\\\\\\ >"$atarget"
+[[ ! -e ${atarget}  ]] && echo \\\\\\\\\\\\ >"$atarget" 
     
     eval rw$RWN="${atarget}"
     RWN=$((RWN+1))
@@ -1078,7 +1081,7 @@ fi
 #[[  "$?" -eq 142  ]] && continue
 #break
 #done
-[[  $p != ""  ]] && ishprt "%s$2" "$p"
+[[  $p != ""  ]] && printf "%s$2" "$p"
 }
 
 ishprt(){
@@ -1597,12 +1600,16 @@ Vlineraw="$(echo  "$content" | grep  "\\b${answer1}\\(ed\\|ing\\|s\\)\\?\\b" | g
 #aq2="$(echo "$pureanswer" | awk -F" " '{printf $NF}' | tr '/' " "  )"
 
 #NB="$(printf "\00")"
-aq="$answer1\t\t\t\t\t$answer2"
+ aq="$(printf "${answer1}\t\t\t\t\t${answer2}")"
 #cd $Path
 #cd txt
 #cd CORRECT
-#cd $thepath
-echo "$therw"| xargs sed -i"" "s/\\\\\\\\\\\\/$aq\\n\\\\\\\\\\\\/" -i "" "s/\\\\\\\\\\\\/$aq\\n\\\\\\\\\\\\/"
+#cd $thepath]
+echo "$therw"| xargs sed -i""  "1i\\
+${aq}
+"   -i ""  "1i\\
+${aq}
+"
 #echo "$RW" >$therw
 printf "\n$Ylineraw\n$Vlineraw\n\n" >> $therw
 [[  $premode -ne 3  ]] && printf "$Thestdout"
@@ -1619,7 +1626,7 @@ row=$(eval "$allif")
 eval therw=\${pt$row}
 fi
 
-locate="$(cat "${therw}" | grep -e  ^"${answer1}	" )"
+locate="$(cat "${therw}" | grep -e ^"${answer1}	" )"
 #echo "$locate"
 if [[  "$locate" !=  ""  ]];then
 locate="$(cat "${therw}" | grep -n ^"${answer1}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" | head -n1 | awk -F: '{print $1}')"
@@ -1633,12 +1640,12 @@ Dend=$((locate+Dlinerawn-1))
 locate="$(cat "${therw}" | grep -n ^"${answer1}	" | head -n1 | awk -F: '{print $1}')"
 #echo $locate
 #sed -i"$Backs" "${locate}d" $therw
-echo "$therw" | xargs sed -i"" "$Dtop,${Dend}d" && echo "$therw" | xargs sed -i"" "${locate}d" && printf "$Thestdout2" || echo "$therw" | xargs sed -i "" "$Dtop,${Dend}d"  && echo "$therw" | xargs sed -i "" "${locate}d" && printf "$Thestdout2"
+(echo "$therw" | xargs sed -i"" "$Dtop,${Dend}d" && echo "$therw" | xargs sed -i"" "${locate}d" && printf "$Thestdout2") || ( echo "$therw" | xargs sed -i "" "$Dtop,${Dend}d"  && echo "$therw" | xargs sed -i "" "${locate}d" && printf "$Thestdout2")
 #echo 22222
 
 if  [[  "$Dtop"  ==  "1"   ]] ;then
-	echo "$therw" | xargs sed -i "" "${locate}d" && printf "\033[2m${Thestdout2}\033[0m"
-	[[  "$?" -ne 0  ]] &&   echo "$therw" | xargs sed -i"" "${locate}d" && printf "\033[2m${Thestdout2}\033[0m" 
+	echo "$therw" | xargs sed -i "" "${locate},${locate}d" && printf "\033[2m${Thestdout2}\033[0m"
+	[[  "$?" -ne 0  ]] &&   echo "$therw" | xargs sed -i"" "${locate},${locate}d" && printf "\033[2m${Thestdout2}\033[0m" 
 fi
 fi
 fi
@@ -2747,7 +2754,7 @@ fi
 fascanf=
 done
  
-[[  "$fscanf" !=  ""  ]] && alltxt="$(echo "$alltxt" | grep $fscanf)" 2>/dev/null
+[[  "$fscanf" !=  ""  ]] && fscanf=$(printf "%s" "$fscanf" | tr " " "/" ) && alltxt="$(echo "$alltxt" | grep -e "$fscanf")" 2>/dev/null
 alltxtn=$(echo "$alltxt" | wc -l)
 [[  "$alltxtn"  -ge $((n/2-1))  ]] && echo "$strs" && return 1 
 [[  "$alltxtn"  -ge 18  ]] && printf "找到${alltxtn}个单词\n" && continue
@@ -2757,7 +2764,7 @@ alltxtn=$(echo "$alltxt" | wc -l)
 pt="$(printf  "$alltxt")"
 while read line ;do
 sleep 0.01
-printf "%s\n" "$line"  | tr -s "	" "  "
+tprep1 "$(printf "%s" "$line"  | tr -s "	" "  " | tr  "/" " " )" "\n"
 done <<EOF
 $pt
 EOF
@@ -3358,7 +3365,7 @@ premode=
 passd=1
 minifun=true
 r1=0
-txt=$(printf "$txt" | tr -d "\r" )
+txt="$(printf "$txt" | tr -d "\r" )"
 total=$(printf "$rangem" | wc -l)
 while true ;do
 gi=$((gi+1))
@@ -3383,8 +3390,8 @@ m2=$(printf "$rangem" | sed -n "$m,${m}p" )
 #echo -n "$question"         #printf 命令需要套一个双引号才能输出空格
 pureanswe="$(printf "%s" "$txt" | sed -n "$m2,${m2}p" )"
 
-answer1="$(printf "$pureanswe" | awk '{RS="	"}{printf $1}' | tr '/' ' ')"
-answer2="$(printf "$pureanswe" | awk '{RS="	"}{printf $NF}' | tr '/' ' ')"
+answer1="$(printf "%s" "$pureanswe" | awk  -F"	" '{RS="	"}{print $1}' | tr '/' ' ')"
+answer2="$(printf "%s" "$pureanswe" | awk  -F"	" '{RS="	"}{print $NF}' | tr '/' ' ')"
 
 
 
@@ -3407,8 +3414,8 @@ fi
 #pureanswer="$(printf "$answer1 $answer2")"
 pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
 #pureanswerd="$pureanswer"
-[[  $mode -eq 1  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS="	"}{printf $1}' | tr '/' ' ')"
-[[  $mode -eq 3  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS="	"}{printf $1}' | tr '/' ' ')"
+[[  $mode -eq 1  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $1}' | tr '/' ' ')"
+[[  $mode -eq 3  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $1}' | tr '/' ' ')"
 
 answer1="$question"
 
@@ -3421,8 +3428,8 @@ Readzh
 #answer1=$(echo $pureanswer | awk '{printf $1}' | tr '/' ' ')
 elif [[  $mode -eq 2  ]] || ( [[  $mode -eq 3  ]]  && [[   "$((m2%2))" -eq 0   ]] );then
 #echo $length
-[[  $mode -eq 2  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS="	"}{printf $NF}' | tr '/' ' ')"
-[[  $mode -eq 3  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS="	"}{printf $1}' | tr '/' ' ')"
+[[  $mode -eq 2  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $NF}' | tr '/' ' ')"
+[[  $mode -eq 3  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $1}' | tr '/' ' ')"
 bot=
 if [[  $mode -eq 2  ]];then 
   answer="$answer1"
@@ -3502,12 +3509,12 @@ newtxt=""
 while read line ;do
 a1="$(echo "$line" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
 a2="$(echo "$line" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
-newline="$a2		$a1"
+new_line="$a2		$a1"
 [[  "$newtxt" != ""  ]] && newtxt="$newtxt
 $line
-$newline"
+$new_line"
 [[  "$newtxt" == ""  ]] && newtxt="$line
-$newline"
+$new_line"
 done <<EOF
 $txt
 EOF
@@ -3563,7 +3570,7 @@ iq=$((${#question}/2));
 cq=$((COLUMN/2))
 left=$((cq+iq))
 
-pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
+pureanswerd="$(printf "%s" "$answer1 \033[1m$answer2\033[0m")"
 
 if [[  $((iq*2)) -le $COLUMN  ]];then
 printf "\033[1m%${left}s\033[0m\n" "$question"
@@ -4472,8 +4479,8 @@ question=$(echo "$txt"| sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}' | tr '/
  #stty -echo
 pureanswe=$(printf "%s" "$txt" | sed -n "$m2,${m2}p")
 
-answer1="$(printf "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
-answer2="$(printf "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
+answer1="$(printf "%s" "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
+answer2="$(printf "%s" "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
 
 la=${#answer1}
 la2=$((${#answer2}*2))
@@ -4553,8 +4560,8 @@ question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '
 # stty -echo
 pureanswe=$(printf "%s" "$txt" | sed -n "$m2,${m2}p" )
 
-answer1="$(printf "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
-answer2="$(printf "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
+answer1="$(printf "%s" "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
+answer2="$(printf "%s" "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
 
 la=${#question}
 la2=$((${#answer2}*2))
