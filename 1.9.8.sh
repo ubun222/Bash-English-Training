@@ -2614,7 +2614,7 @@ while read line;do
 #[[  "$line" == ""  ]] && return 1
 Find "$line"
 done <<EOF
-$xwords
+$(printf "%s" "$xwords" | tr "/" " " )
 EOF
 }
 
@@ -2784,12 +2784,12 @@ ififright()
 if [[  "$which" == "zh"  ]] ; then
 stty -echo
 scanfd="$(echo "${scanf:-n1}" | tr " " "，" )"
-scanfd="$(echo "${scanfd:-n1}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}'   )"
+scanfd="$(echo "${scanfd:-n1}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6"\n"$7}'   )"
 #scanfd="$(echo "${scanfd:-n1}" | awk 'BEGIN{FS=" "}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}'   )"
 #soscanfd="$(printf "$scanfd" | sort)"
 #echo "$scanfd"
 answerd="$(echo "${answer2:-n1}" | tr " " "，" )"
-answerd="$(echo "${answerd:-n}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}' )"
+answerd="$(echo "${answerd:-n}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6"\n"$7}' )"
 #echo "$answerd"
 #[[  "$scanfd" == "$answerd"  ]]  && return 0 
 
@@ -2812,6 +2812,9 @@ if [[  "$line" == "$thelast"  ]] ;then
 #sleep 0.02 && read -s -t0   && read -s -t1
 #stty echo
 bscanf="，" && bd=0 && getin=0 && continue
+elif [[  "$(printf "%s" "$answerd" | grep "\.\.\." | awk -F"."  '{print $1}' )" == "$thelast"   ]] ;then
+bscanf="..." && bd=0 && getin=0 && waiting=1 && continue
+
 else
 continue
 fi
@@ -4733,8 +4736,7 @@ for t in `seq $iq`;do
 bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
-printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m$bot"\\r
-#printf "\r"
+printf  "\033[0m$question"\\033[3m\ \<───\>\ "\033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
 printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 Readen
