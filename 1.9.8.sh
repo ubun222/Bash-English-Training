@@ -1883,7 +1883,7 @@ fi
 #stty echo
 }
 
-_read()
+_read()  #ish
 {
 stty -echo
 [[  "$((nb))"  == "$ib"   ]] && waiting=0 && bscanf=  && ib= && nb=0
@@ -1952,7 +1952,7 @@ Pos="$((wherec-whereb))"
 [[  "$Pos" -eq "1"  ]] && now3=1
 fi
 
-break
+#break
 
 
 #elif [[   "$which" == "zh"  ]]  &&  [[  "$vback" == "1"  ]] && [[  "$((hereis+thereis))" -eq "0"   ]]  ; then
@@ -1963,7 +1963,7 @@ break
 
 else
 #wherec="${pos2/#*;/""}"
-[[  "$which" == "en"  ]] && [[  $wherec -eq $COLUMN  ]]  && break
+##[[  "$which" == "en"  ]] && [[  $wherec -eq $COLUMN  ]]  && break
 ######[[  "$which" == "en"  ]] && [[  "$vback" -ne  "1"  ]] && continue
 #stty echo
 [[  "$which" == "en"  ]] && break
@@ -1971,11 +1971,16 @@ else
 if [[   "$which" == "zh"  ]] && [[  "$vback" -ne  "1"  ]] ;then
 [[  $wherec -eq $COLUMN  ]] && [[  "$ascanf" == "."  ]] && now3=2 && break
 [[  $wherec -eq $COLUMN  ]]  && printf   " " && needo=1 && continue
-break
+#break
 fi
 #if [[  ${vback} -eq "1"   ]] ; then
 #sleep 0.3
 #echo
+#stty -echo
+#now3=
+#[[  $wherec -eq $COLUMN  ]]  && break
+#[[  "$vback" -eq  "1"  ]] && break
+fi
 if [[  ${vback} -eq "1"   ]] &&  [[   "$which" == "zh"  ]] ;then
 #echo 22222
 #echo $wherec
@@ -1987,12 +1992,6 @@ if [[  ${vback} -eq "1"   ]] &&  [[   "$which" == "zh"  ]] ;then
 break
 fi
 break
-#stty -echo
-#now3=
-#[[  $wherec -eq $COLUMN  ]]  && break
-#[[  "$vback" -eq  "1"  ]] && break
-fi
-#break
 #continue
 #fi
 done
@@ -2216,7 +2215,11 @@ _1B5B="$(printf "\x1b")"
 
 Readzh()
 {
+answerd="$(echo "${answer2:-n1}" | tr " " "，" )"
+answerd="$(echo "${answerd:-n}" | awk 'BEGIN{FS="[,，]"}{for (i=1; i<=NF; i++) if ($i != "") print $i}' )"
 #vback=
+answerd_order="$(printf "$answerd" | sort)"
+
 now2=
     needo=
 which=zh
@@ -2246,6 +2249,10 @@ zscanf=
 
 
 while true;do
+
+scanfd="$(echo "${scanf:-n1}" | tr " " "，" )"
+scanfd="$(echo "${scanf:-n1}" | awk 'BEGIN{FS="[,，]"}{for (i=1; i<=NF; i++) if ($i != "") print $i}' | sort   )"
+
 
 #ascanf="!!"
 #eval ascanf=\${scanf$i}
@@ -2386,7 +2393,7 @@ while true;do
 rdm5=$(($RANDOM%$inmts+1))
 intimates="$(echo "${answer2:-n}" | awk -v a=$rdm5 'BEGIN{FS="，"}{print $a}')"
 [[  "${#rdmd}" -gt "$inmts"   ]]  && break
-[[  "$scanf" =~ "$intimates"   ]] || [[  "$rdmd" =~ "$rdm5"   ]]  &&  rdmd="$rdm5$rdmd"  && continue
+[[  "$scanf" =~ "$intimates"   ]] || [[  "$rdmd" =~ "$rdm5"   ]] || [[  "$intimates" == ""  ]]  &&  rdmd="$rdm5$rdmd"  && continue
 bscanf="$intimates" && waiting=1  && break
 done
 continue
@@ -2783,20 +2790,19 @@ ififright()
 {
 if [[  "$which" == "zh"  ]] ; then
 stty -echo
-scanfd="$(echo "${scanf:-n1}" | tr " " "，" )"
-scanfd="$(echo "${scanfd:-n1}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6"\n"$7}'   )"
+#scanfd="$(echo "${scanf:-n1}" | tr " " "，" )"
+#scanfd="$(echo "${scanfd:-n1}" | awk 'BEGIN{FS="[,，]"}{for (i=1; i<=NF; i++) if ($i != "") print $i}'   )"
 #scanfd="$(echo "${scanfd:-n1}" | awk 'BEGIN{FS=" "}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}'   )"
 #soscanfd="$(printf "$scanfd" | sort)"
 #echo "$scanfd"
-answerd="$(echo "${answer2:-n1}" | tr " " "，" )"
-answerd="$(echo "${answerd:-n}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6"\n"$7}' )"
+
 #echo "$answerd"
 #[[  "$scanfd" == "$answerd"  ]]  && return 0 
 
 thelast="$(printf "${scanf:-n1}" | awk 'BEGIN{FS="，"}{print $NF}'   )"
 
-scanfd="$(printf "$scanfd" | sort)"
-answerd="$(printf "$answerd" | sort)"
+#scanfd="$(printf "$scanfd" | sort)"
+#answerd="$(printf "$answerd" | sort)"
 stty -echo
 [[  "$thelast" == "n1"   ]] || [[  "$thelast" == ""   ]] && return 2
 #printf "$thelast"
@@ -2806,13 +2812,11 @@ if [[  "$line" == "$thelast"  ]] ;then
 #scanfd="$(printf "$scanfd" | sort)"
 #answerd="$(printf "$answerd" | sort)"
 #stty -echo
-#echo 1"$scanfd"
-#echo 2"$answerd"
-[[  "$scanfd" == "$answerd"  ]] && isright=1  && return 0 
+[[  "$scanfd" == "$answerd_order"  ]] && isright=1  && return 0 
 #sleep 0.02 && read -s -t0   && read -s -t1
 #stty echo
 bscanf="，" && bd=0 && getin=0 && continue
-elif [[  "$(printf "%s" "$answerd" | grep "\.\.\." | awk -F"."  '{print $1}' )" == "$thelast"   ]] ;then
+elif [[  "$(printf "%s" "$answerd" | grep "\.\.\." | awk -F"."  '{print $1}'  | head -n1)" == "$thelast" || "$(printf "%s" "$answerd" | grep "\.\.\." | awk -F"."  '{print $1}'  | tail -n1)" == "$thelast"   ]] ;then
 bscanf="..." && bd=0 && getin=0 && waiting=1 && continue
 
 else
@@ -2835,12 +2839,12 @@ ifright()
 {
 
 [[  "${scanf:-n1}" == "${answer1:-n}"  ]]  &&  return 0
-scanfd="$(echo "${scanf:-n1}" | tr " " "，" )"
-scanfd="$(echo "${scanf:-n1}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}' | sort   )"
+#scanfd="$(echo "${scanf:-n1}" | tr " " "，" )"
+#scanfd="$(echo "${scanf:-n1}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}' | sort   )"
 #echo "$scanfd"
-answerd="$(echo "${answer2:-n}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}' | sort )"
+#answerd="$(echo "${answer2:-n}" | awk 'BEGIN{FS="，"}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}' | sort )"
 #echo "$answerd"
-[[  "$scanfd" == "$answerd"  ]]  && return 0 
+[[  "${scanfd:-n1}" == "$answerd_order"  ]]  && return 0 
 return 1
 }
 
@@ -3458,19 +3462,21 @@ answer2="$question"
 #if [[  $COLUMN -ge $length  ]];then
 pureanswerd="$(printf "\033[1m$answer1\033[0m $answer2")"
 
+question1="$(tprep1 "$question")"
+
 la=${#answer1}
-la2=$((${#question}*2))
-for i in $(seq ${#question});do
-if [[  "${question:i:1}" == '.'  ]] ;then
+la2=$((${#question1}*2))
+for i in $(seq ${#question1});do
+if [[  "${question1:i-1:1}" == [a-z\.\(\)\<\>\&\;\,\~]  ]] ;then
 la2=$((la2-1))
 fi
 done
 length=$((la+la2+7))
 
 #question="$(printf "\r\033[1A$question")"
-printf  "\033[0m$question"\\033[3m\ \<───\>\ "\033[0m$bot"\\r
+printf  "\033[0m$question1"\\033[3m\ \<───\>\ "\033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
+printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 Readen
 
 fi
@@ -3952,7 +3958,7 @@ pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
 
 iq=$((${#question}*2))
 for i in $(seq ${#question});do
-if [[  "${question:i:1}" == '.'  ]] ;then
+if [[  "${question:i-1:1}" == '.'  ]] ;then
 iq=$((iq-1))
 fi
 done
@@ -4365,6 +4371,7 @@ if [[  $passd -eq 1  ]] ;then
 m="$(echo "$rangem" | sed -n "$m,${m}p")"
 fi
 question=$(echo "$longtxt" | sed -n "$m,${m}p" | tr '/' ' ')
+question1="$(tprep1 "$question")"
 #[[  "$ish" == "y"    ]] && sleep 0.003
 #[[  "$windows" == "y"  ]] && stty echo
  echo  "${strs}"
@@ -4376,9 +4383,9 @@ answer1="$(printf "%s" "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
 answer2="$(printf "%s" "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
 
 la=${#answer1}
-la2=$((${#answer2}*2))
-for i in $(seq ${#answer2});do
-if [[  "${answer2:i:1}" == '.'  ]] ;then
+la2=$((${#question1}*2))
+for i in $(seq ${#question1});do
+if [[  "${question1:i-1:1}" == [a-z\.\(\)\<\>\&\;\,\~]  ]] ;then
 la2=$((la2-1))
 fi
 done
@@ -4413,9 +4420,9 @@ bot="$bot"-
 done
 
 #question="$(printf "\r\033[1A$question")"
-printf  "\033[0m$question"\\033[3m\ \<───\>\ "\033[0m$bot"\\r
+printf  "\033[0m$question1"\\033[3m\ \<───\>\ "\033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
+printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 Readen
 
 
@@ -4475,7 +4482,8 @@ fi
 if [[  $passd -eq 1  ]] ;then
         m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
 fi
-question=$(echo "$txt"| sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}' | tr '/' ' ')
+question=$(echo "$txt"| sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}'  | tr '/' ' ')
+question1="$(tprep1 "$question")"
 #[[  "$ish" == "y"    ]] && sleep 0.003
 #[[  "$windows" == "y"  ]] && stty echo
  echo  "${strs}"
@@ -4486,9 +4494,9 @@ answer1="$(printf "%s" "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
 answer2="$(printf "%s" "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
 
 la=${#answer1}
-la2=$((${#answer2}*2))
-for i in $(seq ${#answer2});do
-if [[  "${answer2:i:1}" == '.'  ]] ;then
+la2=$((${#question1}*2))
+for i in $(seq ${#question1});do
+if [[  "${question1:i-1:1}" == [a-z\.\(\)\<\>\&\;\,\~]  ]] ;then
 la2=$((la2-1))
 fi
 done
@@ -4503,9 +4511,9 @@ for t in `seq $iq`;do
 bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
-printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m$bot"\\r
+printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
+printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 Readen
 
 
@@ -4569,7 +4577,7 @@ answer2="$(printf "%s" "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
 la=${#question}
 la2=$((${#answer2}*2))
 for i in $(seq ${#answer2});do
-if [[  "${answer2:i:1}" == '.'  ]] ;then
+if [[  "${answer2:i-1:1}" == '.'  ]] ;then
 la2=$((la2-1))
 fi
 done
@@ -4700,7 +4708,7 @@ eval question=\${lr$m}
  echo  "${strs}"
 # stty -echo
 question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
-
+question1="$(tprep1 "$question")"
 [[  "$((m%2))" -eq 0  ]] && eval  pureanswe="\${lr$((m-1))}'	'\${lr$m}"
 [[  "$((m%2))" -eq 1  ]] && eval pureanswe="\${lr$m}'	'\${lr$((m+1))}"
 
@@ -4709,9 +4717,9 @@ answer2=`echo "$pureanswe" | awk -F'	' '{printf $2}' | tr '/' ' ' `
 
 
 la=${#answer1}
-la2=$((${#answer2}*2))
-for i in $(seq ${#answer2});do
-if [[  "${answer2:i:1}" == '.'  ]] ;then
+la2=$((${#question1}*2))
+for i in $(seq ${#question1});do
+if [[  "${question1:i-1:1}" == [a-z\.\(\)\<\>\&\;\,\~]  ]] ;then
 la2=$((la2-1))
 fi
 done
@@ -4736,9 +4744,9 @@ for t in `seq $iq`;do
 bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
-printf  "\033[0m$question"\\033[3m\ \<───\>\ "\033[0m$bot"\\r
+printf  "\033[0m$question1"\\033[3m\ \<───\>\ "\033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
+printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 Readen
 
 
@@ -4811,16 +4819,16 @@ eval question=\${lr$m2}
  echo  "${strs}"
 # stty -echo
 question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
-
+question1="$(tprep1 "$question")"
 eval  pureanswe="\${lr$((m2-1))}'	'\${lr$m2}"
 
 answer1=`echo "$pureanswe" | awk -F'	' '{printf $1}' | tr '/' ' '`
 answer2=`echo "$pureanswe" | awk -F'	' '{printf $2}' | tr '/' ' ' `
 
 la=${#answer1}
-la2=$((${#answer2}*2))
-for i in $(seq ${#answer2});do
-if [[  "${answer2:i:1}" == '.'  ]] ;then
+la2=$((${#question1}*2))
+for i in $(seq ${#question1});do
+if [[  "${question1:i-1:1}" == [a-z\.\(\)\<\>\&\;\,\~]  ]] ;then
 la2=$((la2-1))
 fi
 done
@@ -4835,10 +4843,10 @@ for t in `seq $iq`;do
 bot="$bot"-
 done
 #question="$(printf "\r\033[1A$question")"
-printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m$bot"\\r
+printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m$bot"\\r
 #printf "\r"
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
+printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 Readen
 
 #else 
@@ -4923,7 +4931,7 @@ pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
 la=${#question}
 la2=$((${#answer2}*2))
 for i in $(seq ${#answer2});do
-if [[  "${answer2:i:1}" == '.'  ]] ;then
+if [[  "${answer2:i-1:1}" == '.'  ]] ;then
 la2=$((la2-1))
 fi
 done
@@ -5136,7 +5144,7 @@ done
 printf "\033[0m 回车以继续\r"
 read
 [[  "$record" -eq 1   ]] && [[  "$Record" -eq 1   ]] && printf "\033[31m*参数冲突\033[0m\n%s\n%s\n" "-r(错题集模式)" "-R(剔除模式)"  && exit 0
-[[  "$argn" -gt "1"  ]] && printf "\033[31m*参数冲突\033[0m\n%s\n%s\n%s\n" "-m(Termux/Windows Terminal/macOS(Bash))" "-T(Termium)" "-i(ish)"  && exit 0
+[[  "$argn" -gt "1"  ]] && printf "\033[31m*参数冲突\033[0m\n%s\n%s\n%s\n" "-T(Termium)" "-i(ish)"  && exit 0
 stdin
 
 calendar && _verify && loadcontent && FUN && exit
