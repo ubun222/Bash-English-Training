@@ -5,6 +5,7 @@
 2. 手机终端应用(ish termux)或电脑系统终端(Ubuntu, Macos(推荐iTerm+brew install bash), Windows Terminal(WSL))
 
 ![BET-ish.gif](https://github.com/ubun222/Learning-English/raw/bash/img/BET-ish.gif) ![BET-termux.gif](https://github.com/ubun222/Learning-English/raw/bash/img/BET-termux.gif)
+
 #### 开始
 1. IOS下载ish，安卓下载Termux，都是很好用的手机终端app。
 2. ish
@@ -14,7 +15,7 @@ apk add git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
 bash 
-./1.9.5.sh -api  # 答题辅助 通关模式 优化ish
+./1.9.8.sh -api  # 答题辅助 通关模式 优化ish
 ```
 3. Termux
 ```
@@ -22,7 +23,7 @@ apt-get install git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
 bash 
-./1.9.5.sh -ap  # 答题辅助 通关模式
+./1.9.8.sh -ap  # 答题辅助 通关模式
 ```
 4. 若安装git或bash失败，请先update和upgrade包管理命令。
 5. json翻译还需要另外安装gawk，可能自带的awk无法使用trans。
@@ -49,4 +50,19 @@ bash
 4. *TAB键答题提示（非全局适用）
 5. \\\\\\\\\\以下的详细部分 定位标识符默认为 除[ae]以外的所有音标 即单词需要以 "word... 音标 ..."为中心 例句(v)应在该行以下直至第一个空行，详细释义(y)应在该行以上直至第一个空行。
 
+#### 2.x.x.sh更新
+
+##### 2.x.x词表格式：
+1. 如下所示，词表内增加自定义符号: () <> n. v. vt. vi. adj. adv. prep. conj.
+```
+subscribe	v.捐款，订阅，签署(文件)，赞成，预订
+```
+2. 只需要输入除()<>内的中文即可，答案会自动生成。
+3. 暂时只有一个day63.txt模板可供参考
+
+##### 1.x.x词表格式：
+1. txt内均为该格式
+```
+subscribe	捐款，订阅，签署，赞成，预订
+```
 
