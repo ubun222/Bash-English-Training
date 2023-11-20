@@ -2419,12 +2419,12 @@ if [[  "$inline" =~ [-][-][a-z.]*  ]] ;then
 thepre="$(printf "%s" "$inline" | tr -d "-" )" 
 
 elif [[  "${inline}" == "${banswer}"  ]];then
-thepres="${thepres}&${thepre}"
+thepres="${thepres}${thepre}"
 fi
 done <<eof
 $allocation
 eof
-thepres="${thepres##&}"
+#thepres="${thepres##&}"
 
 
 if [[  $thepres != ""  ]] && [[  "$thepres" != "$nowpres"  ]] || [[  "$nowpres" == ""  ]]  ;then
@@ -2455,12 +2455,12 @@ if [[  "$inline" =~ [-][-][a-z.]*[-][-]  ]] ;then
 thepre="$(printf "%s" "$inline" | tr -d "-" )" 
 
 elif [[  "${inline}" == "${banswer}"  ]] ;then
-thepres="${thepres}&${thepre}"
+thepres="${thepres}${thepre}"
 fi
 done <<eof
 $allocation
 eof
-thepres="${thepres##&}"
+#thepres="${thepres##&}"
 
 if [[  $thepres != ""  ]] && [[  "$thepres" != "$nowpres"  ]] || [[  "$nowpres" == ""  ]] ;then
 bscanf="$backto${thepres}$banswer"
@@ -2587,11 +2587,12 @@ ascanf=
 
 s_canf=
 IFS=$ENTER
-read -s -n1  -t1.5 s_canf 
+read -s -n1  -t1.3 s_canf 
 IFS=$IFSbak
 if [[  $s_canf  ==  '	'  ]];then
 ascanf=
 rdmd=
+if [[  "$thelast" == ''  ]] ;then
 #intimates="$(echo "${answer2:-n}" | awk 'BEGIN{FS=","}{for (i=1; i<=NF; i++) if ($i != "") print $i}'| sort)"
 inmts="$(printf "%s" "${answerd_simplify}" | awk 'BEGIN{FS=","}{print NF}' 2>/dev/null)"
 while true;do
@@ -2602,10 +2603,22 @@ intimates="$(printf "%s" "${answerd_simplify}" | awk -v a=$rdm5 'BEGIN{FS=","}{p
 bscanf="$intimates" && waiting=1  && break
 done
 continue
+elif [[  "$thelast" != ''  ]] ;then
+#inmts="$(printf "%s" "${answerd_simplify}" | awk 'BEGIN{FS=","}{print $}' 2>/dev/null)"
+while read line ;do
+[[  "$scanfd"  =~ "$line"  ]] && continue
+if [[  "$line" =~ ^$thelast  ]];then
+bscanf="${line##$thelast}" && waiting=1  && break
+
+fi
+done <<EOF
+$answerd
+EOF
 else
 continue
 fi
 
+fi
 elif [[  $ascanf  !=  [$B\'a-zA-Z${x02}-${x19}'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]] ;then
 #[[  $now4 -eq 1  ]] && 
 zscanf="$(printf "%s%s" "$zscanf${ascanf}")"
