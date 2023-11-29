@@ -14,7 +14,7 @@ save=$(printf "\033[s\n")
 reset=$(printf "\033[u\n")
 enter=$(printf "\r")
 newline="$(printf "\n")"
-macos_newline=`printf "\n"`
+#macos_newline=`printf "\n"`
 v=$(printf "\v")
 t=$(printf "\t")
 Block="  "
@@ -22,6 +22,9 @@ Back="$(printf "\b")"
 Backs="$Back$Back"
 IFSbak=$IFS
 
+read -n1 AScii <<EOF
+`printf "\033[0m"`
+EOF
 
 read -n1 B <<EOF
 `printf  "\177"`
@@ -996,18 +999,38 @@ therw=
 Fresh()
 {
   if [[  "$1" != ""  ]];then
-  p="$1"
+ p="$1"
   fi
-whereadd=1
-addwhere=
+whereadd=0
 counts=0
 counts2=0
 CO=$COLUMN
 iq=${#p}
+skip=0
+st=0
 for t in `seq $iq`;do
-tt=t
+tt=$t
 t1=$((tt-1))
 id=${p:$t1:1}
+
+if [[ "$skip" -eq 1 ]] && [[  "$id" == "m"  ]];then
+skip=0
+continue
+fi
+
+if [[  "$id" == "\\"  ]] && [[  "$2" -eq 1  ]];then
+skip=1
+continue
+fi
+
+if [[  "$id" == "$AScii"  ]] && [[  "$2" -eq 1  ]];then
+skip=1
+continue
+fi
+
+if [[  "$skip" -eq 1  ]];then
+continue
+fi
 if [[  "$id"  ==  [a-zA-Z\ -\”]   ]];then
 counts=$((counts+1))
 else
@@ -1016,9 +1039,13 @@ fi
 #tt=$((tt+1))
 
 if [[  "$counts" -ge "$CO"  ]] ;then
-
-[[  "$((counts%CO))" -eq 0  ]] && CO=$((CO+COLUMN)) && st=$((tt))
-[[  "$((counts%CO))" -eq 1  ]] && whereadd=$((counts/COLUMN)) && return 5 
+if [[  "$((counts%CO))" -eq 1  ]] ;then
+#st=$((st)) 
+[[  $st -le 0  ]] && st=0
+return 5 
+fi
+st=$tt
+CO=$((CO+COLUMN))
 #[[  "$((counts%CO%2))" -eq 1  ]] && st=$((tt-3)) && CO=$((CO+COLUMN)) && return 5
 #[[  "$((counts%CO))" -eq 0  ]] && CO=$((CO+COLUMN)) && st=$((tt))
 #[[  "$((counts%CO))" -eq 3  ]] && st=$((tt-3))
@@ -1034,27 +1061,39 @@ pprep()
 {
 pp="$pureanswerd"
 if [[  "$ish" == "y"  ]];then
-la3=0
-#iq1=${#answer1}
-#iq2=${#answer2}
-#pureanswe=${pureanswe:$((la+1))}
-iq=$((la+la2+1))
-qi2=$((COLUMN-la-1))
-#echo $iq
-if [[  "$iq" -gt "$COLUMN"  ]];then
-for t in $(seq ${#answer2});do
-tt=t
-t1=$((tt-1))
-if [[  "${answer2:t1:1}" == [a-z\.\(\)\<\>\&]  ]] ;then
-la3=$((la3+1))
+#la3=0
+while true;do
+st=0
+Fresh "$pp" 1
+if [[  "$?" -eq 5  ]];then
+pp="${pp:0:$st}~${pp:$st}"
 else
-la3=$((la3+2))
-[[  "$la3" -eq  "$((qi2+1))"  ]] && pp=~"$pureanswerd"  && break
+break
 fi
 done
 
 
-fi
+
+#iq1=${#answer1}
+#iq2=${#answer2}
+#pureanswe=${pureanswe:$((la+1))}
+#iq=$((la+la2+1))
+#qi2=$((COLUMN-la-1))
+#echo $iq
+#if [[  "$iq" -gt "$COLUMN"  ]];then
+#for t in $(seq ${#answer2});do
+#tt=t
+#t1=$((tt-1))
+#if [[  "${answer2:t1:1}" == [a-z\.\(\)\<\>\&]  ]] ;then
+#la3=$((la3+1))
+#else
+#la3=$((la3+2))
+#[[  "$la3" -eq  "$((qi2+1))"  ]] && pp=~"$pureanswerd"  && break
+#fi
+#done
+
+
+
 fi
 #replace1 p
 [[  $pp != ""  ]] && ishprt "\r$pp\n"
@@ -1985,13 +2024,13 @@ fi
 #[[  $wherec -eq $COLUMN  ]]  && break
 #[[  "$vback" -eq  "1"  ]] && break
 fi
-if [[  ${vback} -eq "1"   ]] &&  [[   "$which" == "zh"  ]] ;then
+if [[  ${vback} -eq "1"   ]] && [[  $wherec -eq 1  ]] &&  [[   "$which" == "zh"  ]] ;then
 #echo 22222
 #echo $wherec
 [[  "$needo" -ne 1  ]] && reg=$((COLUMN))
 [[  "$needo" -eq 1  ]] && reg=$((COLUMN-3))
 #[[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
-[[  $wherec -eq 1  ]]  && printf %s"\r\033[1A\033[${reg}C" "" && now2=1
+printf %s"\r\033[1A\033[${reg}C" "" && now2=1
 # now2=1
 break
 fi
@@ -2133,7 +2172,7 @@ Pos="$((wherec-whereb))"
 [[  "$wherec" -eq "$((COLUMN+1))"  ]]  && now3=1
 fi
 
-break
+#break
 
 
 #elif [[   "$which" == "zh"  ]]  &&  [[  "$vback" == "1"  ]] && [[  "$((hereis+thereis))" -eq "0"   ]]  ; then
@@ -2144,7 +2183,6 @@ break
 
 else
 #wherec="${pos2/#*;/""}"
-[[  "$which" == "en"  ]] && [[  $wherec -eq $COLUMN  ]]  && break
 ##[[  "$which" == "en"  ]] && [[  "$vback" -ne  "1"  ]] && continue
 #stty echo
 [[  "$which" == "en"  ]] && break
@@ -2158,22 +2196,23 @@ fi
 #if [[  ${vback} -eq "1"   ]] ; then
 #sleep 0.3
 #echo
-if [[  ${vback} -eq "1"   ]] &&  [[   "$which" == "zh"  ]] ;then
-#echo 22222
-#echo $wherec
-[[  "$needo" -ne 1  ]] && reg=$((COLUMN+1))
-[[  "$needo" -eq 1  ]] && reg=$((COLUMN-3))
-#[[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
-[[  $wherec -eq 1  ]]  && printf %s"\r\033[1A\033[${reg}C" "" && now2=1
-# now2=1
-break
-fi
 #stty -echo
 #now3=
 #[[  $wherec -eq $COLUMN  ]]  && break
 #[[  "$vback" -eq  "1"  ]] && break
 fi
-#break
+
+if [[  ${vback} -eq "1"   ]] &&  [[  $wherec -eq 1  ]] && [[   "$which" == "zh"  ]] ;then
+#echo 22222
+#echo $wherec
+[[  "$needo" -ne 1  ]] && reg=$((COLUMN+1))
+[[  "$needo" -eq 1  ]] && reg=$((COLUMN-3))
+#[[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
+printf %s"\r\033[1A\033[${reg}C" "" && now2=1
+# now2=1
+break
+fi
+break
 #continue
 #fi
 done
@@ -2531,11 +2570,6 @@ elif [[  $ascanf  ==  [\'0-9A-Z'~!@#$^*_+{}|:"?/;][=-`'${_1B5B}]  ]];then # 同�
 ascanf=
 continue
 
-elif [[  $kblock -eq 1  ]] && [[  $ascanf  ==  [a-z\.\(\)\<\>\&]  ]] ;then
-
-ascanf=
-
-continue
 
 elif [[  $ascanf  ==  [' ',]  ]];then
 [[  $now2 -eq 1  ]] && [[  $needo -eq 1  ]] && printf "\n" 
@@ -2555,6 +2589,8 @@ ascanf="，"
 
 continue
 elif [[  $ascanf  ==  [a-z\.\(\)\<\>\&]  ]];then
+
+[[  $kblock -eq 1  ]] && [[  $ascanf != '.'  ]] && ascanf= && continue
 [[  $now2 -eq 1  ]] && [[  $needo -ne 1  ]] && printf "\n"
 [[  $now2 -eq 1  ]] && [[  $needo -eq 1  ]] && printf "\033[4C"  && needo=
 scanf="$(printf "$scanf$ascanf")"
