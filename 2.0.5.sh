@@ -1794,7 +1794,7 @@ printf "\033[6n" && read -t 0.5 -s -d \[ bb && read -t 0.5 -s  -d \R
 break
 done
 
-_read_()
+_read_() #termux
 {
 stty -echo
 [[  "$((nb))"  == "$ib"   ]] && waiting=0 && bscanf=  && ib= && nb=0
@@ -1808,15 +1808,15 @@ while true;do
 
 if [[  $bd -ne 1   ]]  && [[  $waiting -eq 0   ]];then
 printf "\033[6n"
-read -t 0.8 -s -d \[ bscanf
-[[  "$?" -ne 0  ]] && continue
+read -t 0.3 -s -d \[ bscanf
+#[[  "$?" -ne 0  ]] && continue
 bd=1
 ib=${#bscanf}
 waiting=1
 [[  "$ib" -le "1"   ]] && bscanf=""  && waiting=0
 bscanf="${bscanf%%"$bb"}" 
-read -t 0.8 -s -d \R pos1
-[[  "$?" -ne 0  ]] && continue
+read -t 0.3 -s -d \R pos1
+#[[  "$?" -ne 0  ]] && continue
 #[[  "$waiting" -eq "1"   ]] && bscanf="$needpt"
 
 else
@@ -1835,26 +1835,28 @@ done
 
 #passs=
 #whereb="${pos1/#*;/""}"
-if ( [[  "$ascanf" !=  [a-z\.\(\)\<\>\&]  ]] && [[  "$ascanf" != ""  ]] && [[  $whereb -eq $((COLUMN-2))  ]] ) || ([[  "$ascanf" !=  [a-z\.\(\)\<\>\&]  ]] && [[  "$ascanf" != ""  ]] && [[  $((whereb)) -ne $((COLUMN-1)) ]] && [[  $reg2 == " \b\033[1C"  ]] ) || ([[  "$ascanf" !=  [a-z\.\(\)\<\>\&]  ]] && [[  "$ascanf" != ""  ]] && [[  $now4 -eq 1  ]]  &&  [[  $wherec -eq $COLUMN  ]]) && now4= ;then
+if [[  "$which" == "zh"  ]];then
+if ( [[  "$ascanf" !=  [a-z\.\(\)\<\>\&]  ]]  && [[  $whereb -eq $((COLUMN-2))  ]] ) || ([[  "$ascanf" !=  [a-z\.\(\)\<\>\&]  ]]  && [[  $((whereb)) -ne $((COLUMN-1)) ]] && [[  $reg2 == " \b\033[1C"  ]] ) || ([[  "$ascanf" !=  [a-z\.\(\)\<\>\&]  ]] && [[  $now4 -eq 1  ]]  &&  [[  $wherec -eq $COLUMN  ]]) && now4= ;then
 #needo=
 whereb="${pos1/#*;/""}" && [[  $whereb -eq $((COLUMN))  ]] && ascanf="~$ascanf" && needo=1
 else
 whereb="${pos1/#*;/""}"
+fi
 fi
 while true;do
 #[[  "$which" == "zh"  ]] && stty echo
 printf "%s" "${ascanf}"  
 #stty -echo
 if [[  "$auto" -eq 1  ]]  ;then
-[[  "$vback" -ne "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
+[[  "$vback" -ne "1"  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
 stty -echo
 fi
 
-while true;do
-printf "\033[6n" && read -t 0.8 -s -d \[  && read -t 0.8 -s  -d \R pos2
-[[  "$?" -ne 0  ]] && continue 
-break
-done
+#while true;do
+printf "\033[6n" && read -t 0.3 -s -d \[  && read -t 0.3 -s  -d \R pos2
+#[[  "$?" -ne 0  ]] && continue 
+#break
+#done
 now3=
 now2=
 now=
@@ -1862,7 +1864,34 @@ now=
 #whereb="${pos1/#*;/""}"
 now4=
 wherec="${pos2/#*;/""}"
-if [[  ${vback} -eq "1"   ]] &&  [[   "$which" == "zh"  ]] ;then
+if [[  "$pos1" != "$pos2"  ]] ;then
+[[  $whereb -eq $((COLUMN-1))  ]] && [[  "$ascanf" ==  [a-z\.\(\)\<\>\&]  ]] && now4=1 
+
+[[  "$which" == "en"  ]] && break
+
+if [[  "$ascanf" !=   [a-z\.\(\)\<\>\&]   ]]  &&  [[  "$vback" -ne "1"  ]]  ; then
+#whereb="${pos1/#*;/""}"
+#[[  $whereb -eq $((COLUMN  ]] &&  [[  $wherec -eq 3  ]] && needo=1  && break
+Pos="$((wherec-whereb))"
+[[  "$Pos" -eq "1"  ]] && now3=1 && needo= #防止第二行使用第一行的needo
+fi
+
+break
+else
+#wherec="${pos2/#*;/""}"
+###[[  "$which" == "en"  ]] && [[  $wherec -eq $COLUMN  ]]  && break
+######[[  "$which" == "en"  ]] && [[  "$vback" -ne  "1"  ]] && continue
+#stty echo
+###[[  "$which" == "en"  ]] && break
+#[[   "$which" == "zh"  ]] && [[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
+if [[  "$vback" -ne  "1"  ]] ;then
+[[  $wherec -eq $COLUMN  ]] && [[  "$ascanf" ==  [a-z\.\(\)\<\>\&]  ]] && now3=2 && break
+
+#[[  $whereb -eq $(COLUMN)  ]]  && needo=1 && continue
+break
+fi
+
+if [[  ${vback} -eq "1"   ]] ;then
 #echo 22222
 #echo $wherec
 [[  "$needo" -ne 1  ]] && reg=$((COLUMN))
@@ -1871,29 +1900,6 @@ if [[  ${vback} -eq "1"   ]] &&  [[   "$which" == "zh"  ]] ;then
 [[  $wherec -eq 1  ]]  && printf %s"\r\033[1A\033[${reg}C" "" && now2=1
 break
 # now2=1
-fi
-if [[  "$pos1" != "$pos2"  ]] ;then
-[[  $whereb -eq $((COLUMN-1))  ]] && [[  "$ascanf" ==  [a-z\.\(\)\<\>\&]  ]] && now4=1 
-if [[   "$which" == "zh"  ]] && [[  "$ascanf" !=   [a-z\.\(\)\<\>\&]   ]]  &&  [[  "$vback" -ne "1"  ]]  ; then
-#whereb="${pos1/#*;/""}"
-#[[  $whereb -eq $((COLUMN  ]] &&  [[  $wherec -eq 3  ]] && needo=1  && break
-Pos="$((wherec-whereb))"
-[[  "$Pos" -eq "1"  ]] && now3=1
-fi
-
-break
-else
-#wherec="${pos2/#*;/""}"
-[[  "$which" == "en"  ]] && [[  $wherec -eq $COLUMN  ]]  && break
-######[[  "$which" == "en"  ]] && [[  "$vback" -ne  "1"  ]] && continue
-#stty echo
-[[  "$which" == "en"  ]] && break
-#[[   "$which" == "zh"  ]] && [[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
-if [[   "$which" == "zh"  ]] && [[  "$vback" -ne  "1"  ]] ;then
-[[  $wherec -eq $COLUMN  ]] && [[  "$ascanf" ==  [a-z\.\(\)\<\>\&]  ]] && now3=2 && break
-
-#[[  $whereb -eq $(COLUMN)  ]]  && needo=1 && continue
-break
 fi
 #if [[  ${vback} -eq "1"   ]] ; then
 #sleep 0.3
@@ -1991,18 +1997,8 @@ if [[  "$pos1" != "$pos2"  ]] ;then
 if [[   "$which" == "zh"  ]] && [[  "$ascanf" !=   [a-z\.\(\)\<\>\&]   ]]  &&  [[  "$vback" != "1"  ]]  ; then
 whereb="${pos1/#*;/""}"
 Pos="$((wherec-whereb))"
-[[  "$Pos" -eq "1"  ]] && now3=1
+[[  "$Pos" -eq "1"  ]] && now3=1 && needo= #防止第二行使用第一行的needo
 fi
-
-#break 还要判断-eq 1
-
-
-#elif [[   "$which" == "zh"  ]]  &&  [[  "$vback" == "1"  ]] && [[  "$((hereis+thereis))" -eq "0"   ]]  ; then
-#Pos1="${pos1:$((${#pos1}-1))}"
-#Pos2="${pos2:$((${#pos2}-1))}"
-#Pos="$((Pos1-Pos2))"
-#[[  "$Pos" -eq "-1"  ]] || [[  "$Pos" -eq "9"   ]]  && now4=1 
-
 else
 #wherec="${pos2/#*;/""}"
 ##[[  "$which" == "en"  ]] && [[  $wherec -eq $COLUMN  ]]  && break
@@ -2015,15 +2011,9 @@ if [[   "$which" == "zh"  ]] && [[  "$vback" -ne  "1"  ]] ;then
 [[  $wherec -eq $COLUMN  ]]  && printf   " " && needo=1 && continue
 #break
 fi
-#if [[  ${vback} -eq "1"   ]] ; then
-#sleep 0.3
-#echo
-#break
-#stty -echo
-#now3=
-#[[  $wherec -eq $COLUMN  ]]  && break
-#[[  "$vback" -eq  "1"  ]] && break
+
 fi
+
 if [[  ${vback} -eq "1"   ]] && [[  $wherec -eq 1  ]] &&  [[   "$which" == "zh"  ]] ;then
 #echo 22222
 #echo $wherec
@@ -2034,6 +2024,7 @@ printf %s"\r\033[1A\033[${reg}C" "" && now2=1
 # now2=1
 break
 fi
+
 break
 #continue
 #fi
@@ -2073,7 +2064,7 @@ fi
 }
 
 
-__read()
+__read() #termius
 {
 stty -echo
 [[  "$((nb))"  == "$ib"   ]] && waiting=0 && bscanf=  && ib= && nb=0
@@ -2169,7 +2160,7 @@ if [[   "$which" == "zh"  ]] && [[  "$ascanf" !=  [a-z\.\(\)\<\>\&]   ]]  &&  [[
 #[[  $whereb -eq $((COLUMN+1))  ]]  && printf   " " && break
 #whereb="${pos1/#*;/""}"
 Pos="$((wherec-whereb))"
-[[  "$wherec" -eq "$((COLUMN+1))"  ]]  && now3=1
+[[  "$wherec" -eq "$((COLUMN+1))"  ]]  && now3=1 && needo= #防止第二行使用第一行的needo
 fi
 
 #break
@@ -2428,7 +2419,8 @@ fi
 #stty echo
 vback=
 
-thelast="$(printf "%s" "${scanf}" | awk  'BEGIN{FS="[，]"}{printf $NF}' 2>/dev/null  )"
+if [[  $kblock -eq 1  ]];then
+thelast="${scanf##*，}"
 
 prescanf="$thelast$bscanf"
 prescanf_a="$thelast$ascanf"
@@ -2516,6 +2508,11 @@ fi
 done <<EOF
 ${answerd}
 EOF
+else
+prescanf=
+prescanf_a=
+fi
+
 
 #IFS=$IFSbak
 #printf "$question"\\033[3m\ \<───\>\ "$scanf"$enter
@@ -2548,11 +2545,12 @@ if [[  $needo -eq 1  ]] && [[  "$now2" -eq 1  ]] ;then
 [[  "${scanf:$L}"  == [a-z\.\(\)\<\>\&]  ]] && printf "\033[1C "
 fi
 [[  "${scanf:$L}"  == [a-z\.\(\)\<\>\&]  ]] && reg2=" \b\033[1C"
+
 [[  $needo -eq 1  ]] && [[  "$now2" -eq 1  ]] && reg2="$reg2\b"
 
 [[  "$now3" -eq 2  ]]   &&  printf "$Back\033[1C \033[1C" && scanf="${scanf:0:$L}"   && now3= && continue
 
-[[  "$now2" -eq 1  ]]   &&  printf  "$reg2" && scanf="${scanf:0:$L}" && needo=  && now2=  continue
+[[  "$now2" -eq 1  ]]   &&  printf  "$reg2" && scanf="${scanf:0:$L}" && now2=  continue
 
 [[  "$L"  -ge "0"  ]] && [[  "${scanf:$L}"  == [a-z\.\(\)\<\>\&]  ]]  &&  printf  "$Back $Back" && scanf="${scanf:0:$L}" && continue
 scanf="${scanf:0:$L}"
@@ -2713,7 +2711,7 @@ now2=
 N=0
 GOBACK=$(printf "\033[1A")
 #echo
-backbot=$(printf %s $bot | tr "-" "\\b") 
+#backbot=$(printf %s $bot | tr "-" "\\b") 
 #printf $backbot
 while true;do
 
