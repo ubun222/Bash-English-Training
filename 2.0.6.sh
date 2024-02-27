@@ -1031,7 +1031,7 @@ fi
 if [[  "$skip" -eq 1  ]];then
 continue
 fi
-if [[  "$id"  ==  [a-zA-Z\ -\”]   ]];then
+if [[  "$id"  ==  [a-zA-Z\ -\…]   ]];then
 counts=$((counts+1))
 else
 counts=$((counts+2))
@@ -1835,8 +1835,8 @@ done
 
 #passs=
 #whereb="${pos1/#*;/""}"
-if [[  "$which" == "zh"  ]] && [[  $vback -ne 1  ]];then
-if ( [[  "$ascanf" !=  [a-z\.\(\)\<\>\&]  ]]  && [[  $whereb -eq $((COLUMN-2))  ]] ) || ([[  "$ascanf" !=  [a-z\.\(\)\<\>\&]  ]]  && [[  $((whereb)) -ne $((COLUMN-1)) ]] && [[  $reg2 == " \b\033[1C"  ]] ) || ([[  "$ascanf" !=  [a-z\.\(\)\<\>\&]  ]] && [[  $now4 -eq 1  ]]  &&  [[  $wherec -eq $COLUMN  ]]) && now4= ;then
+if [[  "$which" == "zh"  ]] && [[  $vback -ne 1  ]] && [[  "$ascanf" !=  [a-z\.\(\)\<\>\&]  ]];then
+if ([[  $whereb -eq $((COLUMN-2))  ]] ) || ( [[  $((whereb)) -ne $((COLUMN-1)) ]] && [[  $reg2 == " \b\033[1C"  ]] ) || ( [[  $now4 -eq 1  ]]  &&  [[  $wherec -eq $COLUMN  ]]) && now4= ;then
 #needo=
 whereb="${pos1/#*;/""}" && [[  $whereb -eq $((COLUMN))  ]] && ascanf="~$ascanf" && needo=1
 else
@@ -1864,7 +1864,6 @@ now=
 #whereb="${pos1/#*;/""}"
 now4=
 
-wherec="${pos2/#*;/""}"
 if [[  ${vback} -ne "1"   ]];then
 [[  "$which" == "en"  ]] && break
 if [[  "$pos1" != "$pos2"  ]] ;then
@@ -1872,7 +1871,7 @@ if [[  "$pos1" != "$pos2"  ]] ;then
 
 if [[  "$ascanf" !=   [a-z\.\(\)\<\>\&]   ]]   ; then
 #whereb="${pos1/#*;/""}"
-
+wherec="${pos2/#*;/""}"
 #[[  $whereb -eq $((COLUMN  ]] &&  [[  $wherec -eq 3  ]] && needo=1  && break
 Pos="$((wherec-whereb))"
 [[  "$Pos" -eq "1"  ]] && now3=1 && needo= #防止第二行使用第一行的needo
@@ -1880,7 +1879,7 @@ fi
 
 break
 else
-
+wherec="${pos2/#*;/""}"
 ###[[  "$which" == "en"  ]] && [[  $wherec -eq $COLUMN  ]]  && break
 ######[[  "$which" == "en"  ]] && [[  "$vback" -ne  "1"  ]] && continue
 #stty echo
@@ -1896,7 +1895,7 @@ fi
 if [[  ${vback} -eq "1"   ]] ;then
 #echo 22222
 #echo $wherec
-
+wherec="${pos2/#*;/""}"
 [[  "$needo" -ne 1  ]] && reg=$((COLUMN))
 [[  "$needo" -eq 1  ]] && reg=$((COLUMN-3))
 #[[  "$wherec" -eq "$COLUMN"  ]] && now3=1 && break
@@ -1940,13 +1939,12 @@ bd=0
 if [[  "$ascanf" != ""   ]]  && [[  "${#scanf}" -ne "0"  ]] || [[  "$vback" -eq "1"   ]] ;then
 stty -echo
 
-while true;do
 #[[  "$ascanf" == ""   ]] && [[  "$vback" -ne "1"  ]]  && break
 ##printf "\033[6n"
 if [[  $bd -ne 1   ]]  && [[  $waiting -eq 0   ]];then #获取第二个开始的字符串
 printf "\033[6n"
 read -t 0.25 -s -d \[ bscanf
-[[  "$?" -ne 0  ]] && continue
+
 bd=1
 ib=${#bscanf}
 waiting=1
@@ -1954,10 +1952,9 @@ waiting=1
 bscanf="${bscanf%%"$bb"}" 
 #[[  "$waiting" -eq "1"   ]] && bscanf="$needpt"
 read -t 0.25 -s -d \R pos1
-[[  "$?" -ne 0  ]] && continue
+
 else  #更新光标位置
-##read -t 0.8 -s -d \[ 
-##[[  "$?" -ne 0  ]] && continue
+
 pos1="$pos2"
 fi
 #ib=${#bscanf}
@@ -1967,8 +1964,6 @@ fi
 ##read -t 0.8 -s -d \R pos1
 ##[[  "$?" -ne 0  ]] && continue
 #[[  "$?" -ne 0  ]] && passs=1 &&  continue 
-break
-done
 #passs=
 while true;do
 #[[  "$which" == "zh"  ]] && stty echo
@@ -1979,11 +1974,8 @@ if [[  "$auto" -eq 1  ]]  ;then
 stty -echo
 fi
 
-while true;do
 printf "\033[6n" && read -t 0.25 -s -d \[  && read -t 0.25 -s  -d \R pos2
-[[  "$?" -ne 0  ]] && continue 
-break
-done
+
 now3=
 now2=
 now=
@@ -2391,6 +2383,7 @@ $conjs
 [[  "$ish" != "y"  ]] && [[  "$termius" != "y"  ]] && bscanf="$B" && waiting=1 
 
 answerd_order="$(printf "$answerd" | sort )"
+answerd_order_0="$(printf "$answerd_order" | uniq )"
 #echo "$allocation"
 while true;do
 thepres=
@@ -3048,18 +3041,19 @@ if [[  "$which" == "zh"  ]] ; then
 stty -echo
 #scanfd="$(echo "${scanfd:-n1}" | awk 'BEGIN{FS=" "}{print $1"\n"$2"\n"$3"\n"$4"\n"$5"\n"$6}'   )"
 #soscanfd="$(printf "$scanfd" | sort)"
-scanfd="$(echo "${scanf}" | tr " " "，" |  sed "s/[a-z][a-z\.]*/，/g" )"
+scanfd="$(echo "${scanf}"  |  sed "s/[a-z][a-z\.]*/，/g" )"
 [[  "${scanfd:0:1}"  == "，"  ]] && scanfd="${scanfd:1}"
-[[  "${scanfd:$((${#scanfd}-1)):1}"  == [,，]  ]] && return 2
-scanfd="$(printf "%s" "${scanfd}" | tr -d "&" | sed -e 's/<[^>]*>//g' -e 's/([^)]*)//g' | awk 'BEGIN{FS="[,，]";RS="\n"}{for (i=1; i<=NF; i++) if ($i != "") print $i}'  2>/dev/null )"
+[[  "${scanfd:$((${#scanfd}-1)):1}"  == "，"  ]] && return 2
+scanfd="$(printf "%s" "${scanfd}" | tr -d "&" | sed -e 's/<[^>]*>//g' -e 's/([^)]*)//g' | awk 'BEGIN{FS="，";RS="\n"}{for (i=1; i<=NF; i++) if ($i != "") print $i}'  2>/dev/null )"
 
 #[[  "$scanfd" == "$answerd"  ]]  && return 0 
 
-thelast="$(printf "${scanfd:-n1}"  | awk   'BEGIN{RS="[,，]"}{printf $NF}' 2>/dev/null  )"
-
+#thelast="$(printf "${scanfd:-n1}"  | awk   'BEGIN{RS="[,，]"}{printf $NF}' 2>/dev/null  )"
+#thelast="${scanf##*，}"
+thelast="$(printf "${scanfd:-n1}" | tail -n1 )"
 #echo "${scanf:$((${#scanf}-1)):1}"
 
-scanfd="$(printf "$scanfd" | sort)"
+scanfd="$(printf "$scanfd" | sort | uniq )"
 #answerd="$(printf "$answerd" | sort)"
 #printf "///$thelast///" 
 stty -echo
@@ -3073,10 +3067,10 @@ if [[  "$line" == "$thelast"  ]] ;then
 #scanfd="$(printf "$scanfd" | sort)"
 #answerd="$(printf "$answerd" | sort)"
 #stty -echo
-[[  "$scanfd" == "$answerd_order"  ]] && isright=1  && return 0 
+#[[  "$scanfd" == "$answerd_order"  ]] && isright=1  && return 0 
 
-scanfd="$(printf  "%s" "$scanfd" | uniq )"
-answerd_order_0="$(printf  "%s" "$answerd_order"| uniq )"
+#scanfd="$(printf  "%s" "$scanfd" | uniq )"
+#answerd_order_0="$(printf  "%s" "$answerd_order"| uniq )"
 
 #echo 1"$scanfd"
 #echo 2"$answerd"
@@ -3088,8 +3082,8 @@ answerd_order_0="$(printf  "%s" "$answerd_order"| uniq )"
 
 #sleep 0.02 && read -s -t0   && read -s -t1
 #stty echo
-bscanf="，-" && bd=0 && getin=0 && waiting=1 && continue #-防止循环
-elif [[  "$(printf "%s" "$answerd" | grep "\.\.\." | awk -F"."  '{print $1}'  | head -n1)" == "$thelast" || "$(printf "%s" "$answerd" | grep "\.\.\." | awk -F"."  '{print $1}'  | tail -n1)" == "$thelast"   ]] ;then
+bscanf="，" && bd=0 && getin=0 && waiting=1 && continue #-防止循环
+elif [[ "${line%%...*}" == "$thelast"   ]] ;then
 bscanf="..." && bd=0 && getin=0 && kblock=0 && waiting=1 && continue
 
 else
@@ -3119,9 +3113,9 @@ ifright()
 #answerd="$(echo "${answer2:-n}"| tr -s  "[\.a-z]" "," | awk 'BEGIN{FS=","}{for (i=1; i<=NF; i++) if ($i != "") print $i}' | sort )" #替换非中文并排列
 #echo "$answerd"
 [[  "${scanfd:-n1}" == "$answerd_order"  ]]  && return 0 
-scanfd_0="$(printf  "%s" "${scanfd:-n1}" | uniq )"
-answerd_order_0="$(printf  "%s" "$answerd_order" | uniq )"
-[[  "$scanfd_0" == "$answerd_order_0"  ]] && isright=1  && return 0 
+#scanfd_0="$(printf  "%s" "${scanfd:-n1}" | uniq )"
+#answerd_order_0="$(printf  "%s" "$answerd_order" | uniq )"
+[[  "$scanfd" == "$answerd_order_0"  ]] && isright=1  && return 0 
 return 1
 }
 
