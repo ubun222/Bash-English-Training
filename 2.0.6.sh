@@ -3115,7 +3115,7 @@ ifright()
 [[  "${scanfd:-n1}" == "$answerd_order"  ]]  && return 0 
 #scanfd_0="$(printf  "%s" "${scanfd:-n1}" | uniq )"
 #answerd_order_0="$(printf  "%s" "$answerd_order" | uniq )"
-[[  "$scanfd" == "$answerd_order_0"  ]] && isright=1  && return 0 
+[[  "$scanfd" == "$answerd_order_0"  ]] && [[  "$scanfd" != ""  ]] && isright=1  && return 0 
 return 1
 }
 
