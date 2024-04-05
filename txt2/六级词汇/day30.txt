@@ -22,7 +22,7 @@ accumulate					积累
 mining					我的，矿，宝库，地雷，开采
 violent					残暴的，猛烈的，突然的
 adversity					逆境，灾难
-dynamics					充满活力的，动态的，动力
+dynamics					力学，动态
 chaos						混乱
 persistent					坚持不懈的，持续存在的
 ritual					仪式，惯例
