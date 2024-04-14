@@ -1522,14 +1522,14 @@ thesdex="$(printf "$subs" | grep "\"shortDefinitions\"," | awk -F"	" '{print $2}
 syno="$(printf "$subs" | grep "\"synonyms\"," | awk -F"	" '{printf $2}' | sed "s/\"\"/,/g" )"
 
 
-[[  "$thedex" != ""  ]] && printf 释义"$vsnese[a-z\.\(\)\<\>\&]$((sdex+1))": && prepn "$thedex" 8
+[[  "$thedex" != ""  ]] && printf 释义"$vsnese-$((sdex+1))": && prepn "$thedex" 8
 [[  "$?" -eq 22  ]] && return 0
-[[  "$thee" != ""  ]] && printf 例句"$vsnese[a-z\.\(\)\<\>\&]$((sdex+1))": && prepn "$thee" 8
+[[  "$thee" != ""  ]] && printf 例句"$vsnese-$((sdex+1))": && prepn "$thee" 8
 [[  "$?" -eq 22  ]] && return 0
-[[  "$thenote" != ""  ]] && printf 笔记"$vsnese[a-z\.\(\)\<\>\&]$((sdex+1))":"\033[3m""$thenote""\033[0m"\\n
-[[  "$thesdex" != ""  ]] && printf 短释"$vsnese[a-z\.\(\)\<\>\&]$((sdex+1))": && prepn "$thesdex" 8
+[[  "$thenote" != ""  ]] && printf 笔记"$vsnese-$((sdex+1))":"\033[3m""$thenote""\033[0m"\\n
+[[  "$thesdex" != ""  ]] && printf 短释"$vsnese-$((sdex+1))": && prepn "$thesdex" 8
 [[  "$?" -eq 22  ]] && return 0
-[[  "$syno" != ""  ]] && printf 同义"$vsnese[a-z\.\(\)\<\>\&]$((sdex+1))":"\033[3m""$syno""\033[0m"\\n
+[[  "$syno" != ""  ]] && printf 同义"$vsnese-$((sdex+1))":"\033[3m""$syno""\033[0m"\\n
 
 else
 [[  "$sdex" -ne 0   ]] && printf "\033[2m$answer1"的词性"$thecate"第"$((senses+1))"个释义有"$sdex"个子释义"\033[0m"\\n
