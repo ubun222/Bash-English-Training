@@ -1755,7 +1755,7 @@ printf "${ascanf}"
 #stty -echo
 ##wherec="${pos1/#*;/""}"
 ##[[  "$wherec" -eq 1  ]] && now=1
-if [[  "$auto" -eq 1  ]] && [[  "$vback" -ne 1   ]] ;then
+if [[  "$vback" -ne 1   ]] ;then
 [[  "$waiting" == "0"  ]] && [[  $wait1 -ne 1  ]] &&  ififright && waiting=1 && stty -echo  && return 22
 fi
 fi
@@ -1847,10 +1847,10 @@ while true;do
 #[[  "$which" == "zh"  ]] && stty echo
 printf "%s" "${ascanf}"  
 #stty -echo
-if [[  "$auto" -eq 1  ]]  ;then
+#if [[  "$auto" -eq 1  ]]  ;then
 [[  "$vback" -ne "1"  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
 stty -echo
-fi
+#fi
 
 #while true;do
 printf "\033[6n" && read -t 0.3 -s -d \[  && read -t 0.3 -s  -d \R pos2
@@ -1969,10 +1969,10 @@ while true;do
 #[[  "$which" == "zh"  ]] && stty echo
 printf "%s"  "${ascanf}"  
 #stty -echo
-if [[  "$auto" -eq 1  ]]  ;then
+#if [[  "$auto" -eq 1  ]]  ;then
 [[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
 stty -echo
-fi
+#fi
 
 printf "\033[6n" && read -t 0.25 -s -d \[  && read -t 0.25 -s  -d \R pos2
 
@@ -2123,10 +2123,10 @@ while true;do
 #[[  "$which" == "zh"  ]] && stty echo
 printf  "${ascanf}"  
 #stty -echo
-if [[  "$auto" -eq 1  ]]  ;then
+#if [[  "$auto" -eq 1  ]]  ;then
 [[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
 stty -echo
-fi
+#fi
 
 while true;do
 printf "\033[6n" 
@@ -2410,12 +2410,11 @@ tf=$?
 fi
 #stty echo
 vback=
-
-if [[  $kblock -eq 1  ]];then
+if ([[  $auto -eq 1  ]] && [[  $kblock -eq 1  ]]) || ([[  $kblock -eq 1  ]] &&  [[  $auto -ne 1  ]] && [[  $ib -le 0  ]]) ;then   # && [[  $ib -le 0  ]]可做到忽略adj符号
 thelast="${scanf##*，}"
 
-prescanf="$thelast$bscanf"
-prescanf_a="$thelast$ascanf"
+#prescanf="$thelast$bscanf"
+#prescanf_a="$thelast$ascanf"  sieve				n.筛子vt.筛 
 backto=""
 ans=0;
 
@@ -2425,7 +2424,7 @@ while read line ;do
 [[  "$line" == ""  ]] && continue
 ans=$((ans+1))
 #printf "\\$prescanf\\"
-if [[  $waiting -eq 1  ]] && [[  "$line" == "$prescanf"  ]] ;then
+if [[  $waiting -eq 1  ]] && prescanf="$thelast$bscanf" && [[  "$line" == "$prescanf"  ]] ;then
 #echo 1111
 backt="${#thelast}"
 for i in `seq $backt`;do
@@ -2460,7 +2459,7 @@ nowpres="${thepres}"
 waiting=1 && bd=0 && getin=0 && ascanf="${bscanf:0:1}" && kblock=0 && nb=1 && ib=${#bscanf}  #防止waiting结束ib归零
 break
 
-elif [[  $waiting -ne 1  ]] && [[  "$line" == "$prescanf_a"  ]];then
+elif [[  $waiting -ne 1  ]] && prescanf_a="$thelast$ascanf" && [[  "$line" == "$prescanf_a"  ]] ;then
 backt="${#thelast}"
 for i in `seq $backt`;do
 backto="$backto$B"
@@ -2469,7 +2468,7 @@ B1="$B"
 [[  $backt -eq 0  ]] && backto="" && B1=  #一个字答案的例外
 
 banswer="$(printf "%s" "$answerd_explict" | awk -v thep=$ans 'BEGIN{FS="[,]"}{for (i=1; i<=NF; i++) if ($i == $thep ) print $i}' 2>/dev/null | tail -n1 )"
-
+#echo "$banswer"
 while read inline ;do
 
 #echo "$inline"
@@ -2484,7 +2483,7 @@ done <<eof
 $allocation
 eof
 #thepres="${thepres##&}"
-
+#echo $thepres
 if [[  $thepres != ""  ]] && [[  "$thepres" != "$nowpres"  ]] || [[  "$nowpres" == ""  ]] ;then
 bscanf="$backto${thepres}$banswer"
 else
@@ -2605,7 +2604,7 @@ elif [[  "$ascanf" == "$LF"  ]] || [[  "$ascanf" == "$CR"  ]] || [[  "$ascanf" =
 printf "$enter"
 break
 
-elif [[  $ascanf  ==  '	'  ]];then
+elif [[  $ascanf  ==  '	'  ]] && [[  $auto -eq 1  ]];then  #待定，暂时加-a后才能提示
 ascanf=
 
 s_canf=
@@ -3114,6 +3113,7 @@ ifright()
 #scanfd_0="$(printf  "%s" "${scanfd:-n1}" | uniq )"
 #answerd_order_0="$(printf  "%s" "$answerd_order" | uniq )"
 [[  "$scanfd" == "$answerd_order_0"  ]] && [[  "$scanfd" != ""  ]] && isright=1  && return 0 
+[[  $auto -ne 1  ]] && ififright;
 return 1
 }
 
@@ -5364,7 +5364,7 @@ done
 helptxt="-p 通关模式(全做对后退出)
 -r 错题集模式(在txt/CORRECT文件夹自动生成错题集)
 -R 剔除模式(直接对当前加载的词表删除和增加)
--a 答题辅助(自动判断输入)
+-a 答题辅助(这将允许对中文部分tab提示和 自动补全adj. v. n.等词性信息)
 -s 验证词表格式(避免多余的空格)
 -i 优化ish(主要修复IOS的ish中存在中文断行等问题)
 -T 优化Termius 
