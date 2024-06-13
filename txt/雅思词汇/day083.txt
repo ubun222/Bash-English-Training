@@ -1,0 +1,311 @@
+itinerary					n.旅行日程
+array					n.系列，<数学>数组，<书面>服装vt.排列，<书面>服装
+planetarium				n.天文馆
+gland					n.腺n.<技工>密封套
+exquisite					adj.姣好的，精致的，得体的，<正式>剧烈的
+deputy					n.副手，代理，<政治>议员
+ridiculous					adj.可笑的，荒唐的
+reconcile					vt.使和好，使...一致，使...将就，调解
+funnel					n.漏斗，烟囱vt.输送
+shell					n.壳vt.炮击，壳
+succinct					adj.简明的
+eminent			adj.名声显赫的，杰出的
+jam				n.堵塞，障碍，困境vt.用力推，堵塞，卡住vi.卡住
+terminate				vt.终止，(美)解雇vi.终止
+temporary									adj.短期的，临时的
+rage				n.狂怒，时尚vi.狂怒，肆虐
+span							n.持续时间段，范围vt.跨越，持续
+dialect					n.方言
+proficiency				n.熟练
+pilgrim					n.朝圣者
+shrink					vi.缩小，退缩，回避vt.缩小
+radius				n.半径
+oar					n.桨
+web					n.蜘蛛网
+diplomat				n.外交官
+database								n.数据库
+standing				n.名声，地位adj.常设的，站立的
+cellar									n.地窖，藏酒
+cooperate				vi.合作，配合
+dictate						vt.口述，支配vi.口述n.命令，支配
+\\\\\\\\
+
+An itinerary is a plan of a trip, including the route and the places that you will visit. 旅行计划
+itinerary |英 [aɪ'tɪn(ə)(rə)rɪ; ɪ-]  美 [aɪ'tɪnərɛri]| n. 旅程，路线； 旅行日程/adj. 旅程的； 巡回的，流动的/
+The next place on our itinerary was Sedona.我们旅行计划的下一站是塞多纳。
+
+
+An array of objects is a collection of them that is displayed or arranged in a particular way. 陈列
+An array of different things or people is a large number or wide range of them. 大量; 各种
+array |英 [ə'reɪ]  美 [ə're]| n. 数组，阵列；排列，列阵；大批，一系列；衣服/vt. 排列，部署；打扮/
+We visited the local markets and saw wonderful arrays of fruit and vegetables.我们参观了当地的市场，看到了漂亮地摆放着的水果蔬菜。
+As the deadline approached she experienced a bewildering array of emotions.随着最后期限的临近，她心绪变得纷繁复杂起来。
+
+
+
+planetarium |英 [,plænɪ'teərɪəm]  美 ['plænə'tɛrɪəm]| n. 天文馆；行星仪/
+
+
+
+A gland is an organ in the body which produces chemical substances for the body to use or get rid of. 腺
+gland |英 [glænd]  美 [ɡlænd]| n. 腺/
+...the hormones secreted by our endocrine glands.…我们的内分泌腺分泌的荷尔蒙。
+
+
+exquisitely 精美地
+Something that is exquisite is extremely beautiful or pleasant, especially in a delicate way. 精美的
+exquisite |英 ['ekskwɪzɪt; ɪk'skwɪzɪt; ek-]  美 [ɪk'skwɪzɪt]| adj. 精致的；细腻的；优美的，高雅的；异常的；剧烈的/n. 服饰过于讲究的男子/
+...exquisitely crafted dollshouses.…制作精美的玩具小屋。
+The Indians brought in exquisite beadwork to sell.印地安人带了精美的珠饰来销售。
+
+
+A deputy is a person appointed to act on another person's behalf. 代理人
+A deputy is a police officer. 警官
+In some legislatures, the elected members are called deputies. 议员
+A deputy is the second most important person in an organization such as a business or government department. Someone's deputy often acts on their behalf when they are not there. 副手
+deputy |英 ['depjʊtɪ]  美 ['dɛpjuti]| n. 代理人，代表/adj. 副的；代理的/
+His brother was acting as his deputy in America.他的兄弟充当他在美洲的代理人。
+Robyn asked the deputy on duty if she could speak with Sheriff Adkins.萝宾问值班警官她能否跟县治安官阿德金斯谈话。
+The president appealed to deputies to approve the plan quickly.总统呼吁议员们迅速通过该方案。
+...Jack Lang, France's minister for culture, and his deputy, Catherine Tasca.…法国文化部长杰克·朗和他的副手凯瑟琳·塔斯卡。
+
+
+If you say that something or someone is ridiculous, you mean that they are very foolish. 荒唐可笑的
+ridiculous |英 [rɪ'dɪkjʊləs]  美 [rɪ'dɪkjələs]| adj. 可笑的；荒谬的/
+It is ridiculous to suggest we are having a romance.说我们之间有风流韵事真是荒唐可笑。
+
+
+reconciled 妥协的; 将就的
+If you reconcile yourself to an unpleasant situation, you accept it, although it does not make you happy to do so. 妥协; 将就
+If you reconcile two people, you make them become friends again after a quarrel or disagreement. 使和解
+If you are reconciled with someone, you become friendly with them again after a quarrel or disagreement. 与…和好
+If you reconcile two beliefs, facts, or demands that seem to be opposed or completely different, you find a way in which they can both be true or both be successful. 使和谐一致; 调和
+reconcile |英 ['rek(ə)nsaɪl]  美 ['rɛkənsaɪl]| vt. 使一致；使和解；调停，调解；使顺从/
+She felt, if not grateful for her own situation, at least a little more reconciled to it.她觉得，即便对自己的处境不心存感激，至少能将就一些了。
+She had reconciled herself to never seeing him again.她不情愿地接受了再也不和他见面的事实。
+...my attempt to reconcile him with Toby.…我使他与托比和解的努力。
+He never believed he and Susan would be reconciled.他不认为他和苏珊会和好。
+It's difficult to reconcile the demands of my job and the desire to be a good father.协调我工作的要求与我当个好父亲的愿望很难。
+
+
+If you funnel money, goods, or information from one place or group to another, you cause it to be sent there as it becomes available. 传送 (资金、商品、信息等)
+If something funnels somewhere or is funnelled there, it is directed through a narrow space. 使经过狭窄空间; 经过狭窄空间
+You can describe as a funnel something that is narrow, or narrow at one end, through which a substance flows and is directed. 漏斗状物
+A funnel is a metal chimney on a ship or railway engine powered by steam. (蒸汽轮船或火车机车的) 烟囱
+A funnel is an object with a wide, circular top and a narrow short tube at the bottom. Funnels are used to pour liquids into containers which have a small opening, for example, bottles. 漏斗
+funnel |英 ['fʌn(ə)l]  美 ['fʌnl]| n. 漏斗；烟囱/vt. 通过漏斗或烟囱等；使成漏斗形/vi. 通过漏斗等；成漏斗形/
+He secretly funnelled credit-card information to counterfeiters.他秘密地将信用卡信息传送给了伪造者们。
+The winds came from the north, across the plains, funnelling down the valley.风从北方吹来，刮过平原，穿过山谷。
+Along the road, funnels of dark grey smoke rose from bombed villages.沿那条公路，暗灰色烟成漏斗状从遭到轰炸的村庄里升起。
+...a ship with three masts and two funnels.…一艘有3根桅杆和2个烟囱的轮船。
+Rain falls through the funnel into the jar below.雨水通过漏斗落进下面的罐子里。
+
+
+To shell a place means to fire explosive shells at it. 炮击
+A shell is a weapon consisting of a metal container filled with explosives that can be fired from a large gun over long distances. 炮弹
+The shell of a building, boat, car, or other structure is the outside frame of it. 框架
+If someone comes out of their shell, they become more friendly and interested in other people and less quiet, shy, and reserved. 矜持
+If you shell nuts, peas, shrimp, or other food, you remove their natural outer covering. 剥…的壳
+Shells are hard objects found on beaches. They are usually pink, white, or brown and are the coverings which used to surround small sea creatures. 贝壳
+The shell of an animal such as a tortoise, snail, or crab is the hard protective covering that it has around its body or on its back. (动物的) 甲壳
+Shell is the substance that a shell is made of. 壳料
+The shell of a nut or egg is the hard covering which surrounds it. (坚果或蛋的) 壳
+shell |英 [ʃel]  美 [ʃɛl]| n. 壳，贝壳；炮弹；外形/vi. 剥落；设定命令行解释器的位置/vt. 剥皮；炮轰/
+Out on the streets, the shelling continued.在外面街道上，炮击在继续。
+The rebels shelled the densely-populated suburbs near the port.那些叛乱者炮击了港口附近人口稠密的郊区。
+Tanks fired shells at the house.坦克向那座房子发射炮弹。
+...the shells of burned buildings.…被烧毁的建筑物的框架。
+Her normally shy son had come out of his shell.她那平时害羞的儿子已经开始活跃起来了。
+She shelled and ate a few nuts.她剥了一些坚果吃。
+I collect shells and interesting seaside items.我收集贝壳以及海边有趣的东西。
+...the spiral form of a snail shell.…蜗牛壳的螺旋形状。
+...beads made from ostrich egg shell.…鸵鸟蛋壳做成的珠子。
+They cracked the nuts and removed their shells.他们打破坚果并剥掉果壳。
+
+
+succinctly 简明地
+Something that is succinct expresses facts or ideas clearly and in few words. 简明的
+succinct |英 [sək'sɪŋ(k)t]  美 [sək'sɪŋkt]| adj. 简洁的；简明的；紧身的/
+He succinctly summed up his manifesto as "Work hard, train hard and play hard."他把自己的宣言简明地概括成了“努力工作，努力训练，努力玩耍。”
+The book gives an admirably succinct account of the technology and its history.这本书对该项技术及其历史作了极其简明的叙述。
+
+
+An eminent person is well-known and respected, especially because they are good at their profession. 卓越的; 有名望的
+eminent |英 ['emɪnənt]  美 ['ɛmɪnənt]| adj. 杰出的；有名的；明显的/
+...an eminent scientist.…一位卓越的科学家。
+
+
+jamming 干扰
+To jam a radio or electronic signal means to interfere with it and prevent it from being received or heard clearly. 干扰 (无线电、电子信号等)
+jammed 挤满的
+If a lot of people jam a place, or jam into a place, they are pressed tightly together so that they can hardly move. 挤满
+jammed 堵塞了的
+Jam is also a noun. 堵塞
+If vehicles jam a road, there are so many of them that they cannot move. (车辆) 堵塞
+If something such as a part of a machine jams, or if something jams it, the part becomes fixed in position and is unable to move freely or work properly. 卡住
+If you jam something somewhere, you push or put it there roughly. 胡乱地塞
+jam |英 [dʒæm]  美 [dʒæm]| n. 果酱；拥挤；困境；扣篮/vt. 使堵塞；挤进，使塞满；混杂；压碎/vi. 堵塞；轧住/n. (Jam)人名；(伊朗、巴基)贾姆/
+I had two jam sandwiches.我吃了两个花生酱果酱三明治。
+Hundreds of callers jammed the switchboard for more than an hour.上百个来电者堵塞了总机一个多小时。
+The plane is used for electronic jamming and radar detection.这架飞机用于进行电子干扰和雷达探测。
+They will try to jam the transmissions electronically.他们会设法用电子手段干扰这些发射。
+The stadium was jammed and they had to turn away hundreds of disappointed fans.该体育场挤满了人，他们不得不谢绝上百名失望的球迷入场。
+Hundreds of people jammed the boardwalk to watch.上百人挤在木板道上观看。
+Nearby roads and the dirt track to the beach were jammed with cars.附近的公路和通往海滩的土路都堵满了汽车。
+400 trucks may sit in a jam for ten hours waiting to cross the limited number of bridges.400 辆卡车可能会堵上10个小时才能通过有限的几座桥。
+Hundreds of departing motorists jammed roads that had been closed during the height of the storm.数百名要开走的驾车者堵住了在风暴最猛烈时被关闭了的那些公路。
+A rope jammed the boat's propeller.一条绳子卡住了船的推进器。
+The second time he fired his gun jammed.他开第二枪时，枪卡壳了。
+Pete jammed his hands into his pockets.皮特把他的双手胡乱塞进了他的兜里。
+
+
+When a train or bus terminates somewhere, it ends its journey there. (火车或公共汽车) 到达终点
+termination 终止妊娠
+To terminate a pregnancy means to end it. 终止 (妊娠)
+termination 终止
+When you terminate something or when it terminates, it ends completely. 终止
+terminate |英 ['tɜːmɪneɪt]  美 ['tɝmɪnet]| vt. 使终止；使结束；解雇/vi. 结束，终止；结果/adj. 结束的/
+This train will terminate at Lamy.这列火车的终点站是拉米。
+You should also have a medical check-up after the termination of a pregnancy.你在终止妊娠后也应该做个体检。
+After a lot of agonizing she decided to terminate the pregnancy.在多次痛苦的考虑后，她决定终止妊娠。
+...a dispute which led to the abrupt termination of trade.…一个导致贸易突然终止的争端。
+Her next remark abruptly terminated the conversation.她接下来的言论使得谈话突然终止。
+
+
+temporarily 暂时地
+Something that is temporary lasts for only a limited time. 暂时的
+temporary |英 ['temp(ə)rərɪ]  美 [ˈtempəreri]| adj. 暂时的，临时的/n. 临时工，临时雇员/
+The peace agreement has at least temporarily halted the civil war.该和平协议至少已暂时中止了内战。
+Most adolescent problems are temporary.多数青春期的问题都是暂时的。
+His job here is only temporary.他在这儿的工作只是暂时的。
+
+
+You can refer to the strong anger that someone feels in a particular situation as a particular rage, especially when this results in violent or aggressive behaviour. (尤指导致暴力或侵略性行为的) 狂怒
+If you rage about something, you speak or think very angrily about it. 发怒; 怒斥
+You say that something powerful or unpleasant rages when it continues with great force or violence. 肆虐
+Rage is strong anger that is difficult to control. 盛怒
+rage |英 [reɪdʒ]  美 [redʒ]| n. 愤怒；狂暴，肆虐；情绪激动/vi. 大怒，发怒；流行，风行/n. (Rage)人名；(丹)拉厄/
+Cabin crews are reporting up to nine cases of air rage a week.乘务人员们报告每周有多达9起的乘客情绪失控事件。
+Inside, Frannie was raging.内心里，弗兰尼怒不可遏。
+Monroe was on the phone, raging about her mistreatment by the brothers.门罗正在打电话，愤怒地诉说兄弟们对她的虐待。
+Train service was halted as the fire raged for more than four hours.火车停运了，因为大火肆虐了四个多小时。
+He was red-cheeked with rage.他因盛怒而满脸通红。
+
+
+A bridge or other structure that spans something such as a river or a valley stretches right across it. 横跨
+The span of something that extends or is spread out sideways is the total width of it from one end to the other. 宽距
+If something spans a range of things, all those things are included in it. 包括
+If something spans a long period of time, it lasts throughout that period of time or relates to that whole period of time. 持续
+Your concentration span or your attention span is the length of time you are able to concentrate on something or be interested in it. (注意力的) 持续时间
+A span is the period of time between two dates or events during which something exists, functions, or happens. (两时间点之间的) 时间段
+span |英 [spæn]  美 [spæn]| n. 跨度，跨距；范围/vt. 跨越；持续；以手指测量/n. (Span)人名；(捷)斯潘/
+Travellers get from one side to the other by walking across a footbridge that spans a little stream.旅游者通过一座横跨小溪的人行桥从一边走到另一边。
+It is a very pretty butterfly, with a 2 inch wing span.它是一只非常漂亮的蝴蝶，翅膀张开有2英寸宽。
+Bernstein's compositions spanned all aspects of music, from symphonies to musicals.伯恩斯坦创作的乐曲包括了音乐的所有方面，从交响乐到音乐剧。
+His professional career spanned 16 years.他的职业生涯持续了16年。
+His ability to absorb information was astonishing, but his concentration span was short.他吸收信息的能力让人惊讶，但他的注意力持续时间很短。
+The batteries had a life span of six hours.电池的使用寿命是6小时。
+
+
+A dialect is a form of a language that is spoken in a particular area. 方言
+dialect |英 ['daɪəlekt]  美 ['daɪə'lɛkt]| n. 方言，土话；同源语；行话；个人用语特征/adj. 方言的/
+It is often appropriate to use the local dialect to communicate your message.用方言来交流信息往往很合适。
+
+
+If you show proficiency in something, you show ability or skill at it. 水平
+proficiency |英 [prə'fɪʃ(ə)nsɪ]  美 [prə'fɪʃənsi]| n. 精通，熟练/
+Evidence of basic proficiency in English is part of the admissions requirement.基本英语水平的证明是录取条件的一部分。
+
+
+Pilgrims are people who journey to a holy place for a religious reason. 朝圣者
+pilgrim |英 ['pɪlgrɪm]  美 ['pɪlɡrɪm]| n. 朝圣者；漫游者；（美）最初的移民/vi. 去朝圣；漫游/n. (Pilgrim)人名；(英、德)皮尔格林/
+This is where pilgrims to the abbey would pay their first devotions.这儿就是来此修道院的朝圣者做第一次祈祷的地方。
+
+
+A shrink is a psychiatrist. 精神病医生
+If you do not shrink from a task or duty, you do it even though it is unpleasant or dangerous. 逃避 (不愉快或危险的事)
+If you shrink away from someone or something, you move away from them because you are frightened, shocked, or disgusted by them. (因害怕、震惊或厌恶) 避开
+If something shrinks or something else shrinks it, it becomes smaller. 使缩小; 缩小
+If cloth or clothing shrinks, it becomes smaller in size, usually as a result of being washed. 缩水
+shrink |英 [ʃrɪŋk]  美 [ʃrɪŋk]| n. 收缩；畏缩；精神病学家/vt. 使缩小，使收缩/vi. 收缩；畏缩/
+I've seen a shrink already.我已经看过了精神病医生。
+He is decisive and won't shrink from a fight.他很果断，而且不会逃避战斗。
+One child shrinks away from me when I try to talk to him.我试着和这个孩子说话时，他避开了我。
+The vast forests of West Africa have shrunk.西非那片广袤的森林已经缩小了。
+People were short in those days – or else those military uniforms all shrank in the wash!那个年代人们很矮–要么就是那些军装在洗涤时全都缩水了！
+
+
+The radius of a circle is the distance from its centre to its outside edge. 半径
+The radius around a particular point is the distance from it in any direction. 范围
+radius |英 ['reɪdɪəs]  美 ['redɪəs]| n. 半径，半径范围；[解剖] 桡骨；辐射光线；有效航程/n. (Radius)人名；(意、印尼)拉迪乌斯；(英)雷迪厄斯；(法)拉迪于斯/
+He indicated a semicircle with a radius of about thirty miles.他标示出一个半径大约三十英里的半圆。
+Nick has searched for work in a ten-mile radius around his home.尼克已经在以家为中心10英里的范围内寻找工作。
+
+
+
+oar |英 [ɔː]  美 [ɔr]| n. 桨；橹；桨手/vt. 划（船）/vi. 划行/
+
+
+
+A web is the thin net made by a spider from a sticky substance that it produces in its body. 蜘蛛网
+A web is a complicated pattern of connections or relationships, sometimes considered as an obstacle or a danger. 错综复杂的事物
+The Web is a computer system that links documents and pictures into a database that is stored in computers in many different parts of the world and that people everywhere can use. It is also referred to as the World Wide Web. 互联网
+web |英 [web]  美 [wɛb]| n. 网；卷筒纸；蹼；织物；圈套/vt. 用网缠住；使中圈套/vi. 形成网/
+...the spider's web in the window.…窗户上的蜘蛛网。
+He's forced to untangle a complex web of financial dealings.他被迫去理顺一大堆错综复杂的金融交易。
+She recommended the service on her Web journal after trying it out.在经过试用后，她在自己的网络杂志中推荐了这项服务。
+The handbook is available on the Web.这本手册互联网上有。
+
+
+A diplomat is a senior official who discusses affairs with another country on behalf of his or her own country, usually working as a member of an embassy. 外交官
+diplomat |英 ['dɪpləmæt]  美 ['dɪpləmæt]| n. 外交家，外交官；有外交手腕的人；处事圆滑机敏的人/
+...a Western diplomat with long experience in Asia.…一名在亚洲有长期经验的西方外交官。
+
+
+A database is a collection of data that is stored in a computer and that can easily be used and added to. 数据库
+database |英 ['deɪtəbeɪs]  美 ['detəbes]| n. 数据库，资料库/
+The state maintains a database of names of people allowed to vote.该州有一个可以投票的人的姓名数据库。
+
+
+You use standing to describe something which is permanently in existence. 常备的; 常设的
+A party's or person's standing is their popularity. 声望
+Someone's standing is their reputation or status. 名声; 地位
+standing |英 ['stændɪŋ]  美 ['stændɪŋ]| adj. 长期的；直立的；固定的/n. 站立；持续；身分/v. 站立；坚持不变；坐落于（stand的ing形式）/n. (Standing)人名；(英)斯坦丁；(德)施坦丁/
+Israel has a relatively small standing army and its strength is based on its reserves.以色列拥有一支规模相对较小的常备军，它的兵力基于其预备役部队。
+But, as the opinion poll shows, the party's standing with the people at large has never been so low.但是，正如民意调查所显示的那样，该党在普通民众中的声望从来没这么低过。
+He has improved his country's standing abroad.他使他的国家在国外的名声得到了提高。
+...an artist of international standing.…一位享有国际声誉的艺术家。
+
+
+A person's or restaurant's cellar is the collection of different wines that they have. 酒窖
+A cellar is a room underneath a building, which is often used for storing things in. 地窖; 地下室
+cellar |英 ['selə]  美 ['sɛlɚ]| n. 地窖；酒窖；地下室/vt. 把…藏入地窖/n. (Cellar)人名；(捷)采拉尔/
+Choose a superb wine to complement your meal from our extensive wine cellar.从我们的大酒窖里挑一瓶上等好酒来配你这顿饭菜吧。
+The box of papers had been stored in a cellar at the family home.那盒文件已存放在家中的一个地窖里。
+
+
+cooperation 协作
+If you cooperate, you do what someone has asked or told you to do. 配合
+cooperation 合作
+If you cooperate with someone, you work with them or help them for a particular purpose. You can also say that two people cooperate. 合作
+cooperate |英 [kəʊ'ɒpəreɪt]  美 [koʊˈɑːpəreɪt]| vi. 合作，配合；协力/
+The police underlined the importance of the public's cooperation in the hunt for the bombers.在寻找安置炸弹的人时，警察强调了公众协作的重要性。
+He agreed to cooperate with the police investigation.他同意配合警方调查。
+A deal with Japan could open the door to economic cooperation with East Asia.与日本的交易可以打开与东亚经济合作的大门。
+The U.N. had been cooperating with the State Department on a plan to find countries willing to take the refugees.联合国和美国国务院合作，制定计划来寻找愿意接纳难民的国家。
+
+
+Dictates are principles or rules which you consider to be extremely important. 原则; 规定
+You say that logic or common sense dictates that a particular thing is the case when you believe strongly that it is the case and that logic or common sense will cause other people to agree. (逻辑或常识) 使人相信
+If one thing dictates another, the first thing causes or influences the second thing. 导致; 影响
+If someone dictates to someone else, they tell them what they should do or can do. 指示; 命令
+If you dictate something, you say or read it aloud for someone else to write down. 口授; 使听写
+dictate |英 [dɪk'teɪt]  美 ['dɪktet]| vt. 命令；口述；使听写/vi. 口述；听写/n. 命令；指示/
+We have followed the dictates of our consciences and have done our duty.我们凭良心做事，尽了我们的职责。
+Logic dictates that our ancestors could not have held a yearly festival until they figured what a year was.依照逻辑推论，我们的祖先在弄清1年是什么意思之前，不可能举行过每年一度的节庆。
+Of course, a number of factors will dictate how long an apple tree can survive.当然，一棵苹果树能存活多久是由许多因素决定的。
+The film's budget dictated a tough schedule.该影片的预算决定了紧张的拍摄进度。
+What gives them the right to dictate to us what we should eat?是什么给他们权利来规定我们该吃什么？
+What right has one country to dictate the environmental standards of another?一个国家有什么权利规定另一个国家的环境标准？
+Sheldon writes every day of the week, dictating his novels in the morning.谢尔登每天都进行创作，在上午口述他的小说。
+

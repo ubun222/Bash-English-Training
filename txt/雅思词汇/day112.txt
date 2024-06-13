@@ -1,31 +1,340 @@
-hinder							妨碍，阻挡
-relay										轮换者，转达
-medieval						中世纪的，原始的
-commit						犯，使承诺，耗费，记下
-halt							停止，阻止
-conservation							保护，节约，守恒
-illustrate					说明，举例说明
-function					功能，职责，用途
-scent							香味，线索，香水，嗅到
-entertainment					娱乐，款待
-pregnant									怀孕的，意味深长的
-invert					倒置，颠倒
-sturdy					结实的，健壮的
-spring					春天，跳跃，弹簧，泉
-scorch				烤焦，烧焦
-panorama				全景，概述
-content								满意的，满足，内容
-tar		焦油沥青
-migrate						移居，迁徙
-magnate			巨头
-deaf						聋的
-contribute						捐献，提出，是...的原因之一
-remarkable					出色的，非凡的，引人注目的
-affect				影响，打动，侵袭
-fellowship				友情，团体
-pester			打扰
-frugal			节俭的
-clamp			夹具，钳制，夹住
-masterpiece		杰作，典范
-cultivate						耕作，培养，建立
+hinder							vt.妨碍，阻挡
+relay										n.轮换者vt.转达
+medieval						adj.中世纪的，原始的
+commit						vt.犯，使承诺，耗费，记下vi.承诺
+halt							n.停止vt.阻止vi.停止
+conservation							n.保护，节约，<物理>守恒
+illustrate					vt.说明，举例说明
+function					n.功能，职责，用途vi.运转
+scent							n.香味，线索，香水vt.嗅到
+entertainment					n.娱乐，款待
+pregnant									adj.怀孕的，意味深长的
+invert					vt.倒置，颠倒
+sturdy					adj.结实的，健壮的
+spring					n.春天，跳跃，弹簧vi.跳跃，触发
+scorch				vt.烤焦，烧焦vi.烤焦，烧焦n.烤焦，烧焦
+panorama				n.<书面>全景，概述
+content								adj.满意的，vt.满足n.满足，内容
+tar		n.焦油沥青vt.焦油沥青
+migrate						vi.移居，迁徙vt.<电脑>转移
+magnate			n.巨头
+deaf						adj.聋的n.聋的
+contribute						vt.捐献，提出，vi.是...的原因之一，捐献
+remarkable					adj.出色的，非凡的，引人注目的
+affect				vt.影响，打动，<医学>侵袭，<正式>假装
+fellowship				n.友情，团体
+pester			vt.打扰
+frugal			adj.节俭的
+clamp			n.夹具，钳制vt.夹住
+masterpiece		n.杰作，典范
+cultivate						vt.耕作，培养，建立
 \\\\\\\\
+
+situated at or further towards the back or rear; posterior 后面的; 后方的
+If something hinders your movement, it makes it difficult for you to move forward or move around. 牵制
+If something hinders you, it makes it more difficult for you to do something or make progress. 阻碍
+hinder |英 ['hɪndə]  美 ['hɪndɚ]| vi. 成为阻碍/vt. 阻碍；打扰/adj. 后面的/n. (Hinder)人名；(芬)欣德/
+the hinder parts
+A thigh injury increasingly hindered her mobility.大腿上的伤愈发束缚了她的活动自由。
+Further investigation was hindered by the loss of all documentation on the case.由于有关此案的材料全部丢失，进一步的调查受到了阻碍。
+
+
+If you relay something that has been said to you, you repeat it to another person. 转告
+To relay television or radio signals means to send them or broadcast them. 转播
+A relay or a relay race is a race between two or more teams, for example teams of runners or swimmers. Each member of the team runs or swims one section of the race. 接力赛
+relay |英 ['riːleɪ]  美 [rɪ'le]| vi. 转播；接替/n. [电] 继电器；接替，接替人员；驿马/vt. 转播；使接替；分程传递/
+She relayed the message, then frowned.她转告了那个消息，然后皱了皱眉。
+The satellite will be used mainly to relay television programmes.这颗卫星将主要用来转播电视节目。
+Britain's prospects of beating the United States in the relay looked poor.英国队在接力赛中战胜美国队的希望看上去不大。
+
+
+Something that is medieval relates to or was made in the period of European history between the end of the Roman Empire in AD 476 and about AD 1500. 中世纪的
+medieval |英 [ˌmediˈi:vl]  美 [,midɪ'ivəl]| adj. 中世纪的；原始的；仿中世纪的；老式的/
+...a medieval castle.…一座中世纪的城堡。
+
+
+If you commit something to paper or to writing, you record it by writing it down. If you commit something to memory, you learn it so that you will remember it. 记 (在纸上、记忆中)
+If someone is committed to a mental hospital, prison, or other institution, they are officially sent there for a period of time. 送交 (到精神病院、监狱等)
+If you do not want to commit yourself on something, you do not want to say what you really think about it or what you are going to do. (就某事) 表态
+If you commit yourself to something, you say that you will definitely do it. If you commit yourself to someone, you decide that you want to have a long-term relationship with them. 使 (自己) 致力于; 使 (自己) 承诺 (与某人的长期关系)
+If you commit money or resources to something, you decide to use them for a particular purpose. 调拨 (钱、资源)
+If someone commits suicide, they deliberately kill themselves. 进行 (自杀)
+If someone commits a crime or a sin, they do something illegal or bad. 犯 (罪); 做 (坏事)
+commit |英 [kə'mɪt]  美 [kə'mɪt]| vt. 犯罪，做错事；把...交托给；指派…作战；使…承担义务/
+She had not committed anything to paper about it.她还没有把关于它的任何东西记在纸上。
+Arthur's drinking caused him to be committed to a psychiatric hospital.阿瑟酗酒导致他被关进了一家精神病院。
+It isn't their diplomatic style to commit themselves on such a delicate issue.就如此微妙的问题表态不是他们的外交风格。
+He won't commit.他不会承诺。
+I'd like a friendship that might lead to something deeper, but I wouldn't want to commit myself too soon.我想要可能发展到更深层关系的友谊，但我不想太快做出承诺。
+I would advise people to think very carefully about committing themselves to working Sundays.我会建议人们认真考虑答应周日工作。
+The company had committed thousands of dollars for a plan to reduce mercury emissions.该公司已经为了一项减少汞排放的计划调拨了数千美元。
+They called on Western nations to commit more money to the poorest nations.他们号召西方国家为最贫困国家拨更多的款。
+There are unconfirmed reports he tried to commit suicide.有未经证实的报道说他曾企图自杀。
+This is a man who has committed murder.这是个犯了谋杀罪的男人。
+I have never committed any crime.我从没有犯过任何罪。
+
+
+If something such as growth, development, or activity comes or grinds to a halt or is brought to a halt, it stops completely. 完全停止
+If someone or something comes to a halt, they stop moving. 停止移动
+If someone calls a halt to something such as an activity, they decide not to continue with it or to end it immediately. 决定停止
+(as collective noun; preceded by the) (用作集体名词，前面加)the
+When something such as growth, development, or activity halts or when you halt it, it stops completely. 使完全停止; 完全停止
+When a person or a vehicle halts or when something halts them, they stop moving in the direction they were going and stand still. 使停住; 停住
+halt |英 [hɔːlt]  美 [hɔlt]| vi. 停止；立定；踌躇，犹豫/n. 停止；立定；休息/vt. 使停止；使立定/n. (Halt)人名；(德、芬)哈尔特/
+Her political career came to a halt in December 1988.她的政治生涯于1988年12月彻底结束了。
+The lift creaked to a halt at the ground floor.电梯嘎吱一声停在了底楼。
+The Russian government had called a halt to the construction of a new project in the Rostov region.俄罗斯政府已经决定停止在罗斯托夫地区的一个新工程的修建。
+the halt
+Striking workers halted production at the auto plant yesterday.昨天，汽车厂的罢工工人完全停止了生产。
+They halted at a short distance from the house.他们停在离房子不远处。
+
+
+The conservation of a supply of something is the careful use of it so that it lasts for a long time. 节约
+Conservation is saving and protecting historical objects or works of art such as paintings, sculptures, or buildings. (对历史文物、艺术品等的) 保护
+Conservation is saving and protecting the environment. (对环境的) 保护
+conservation |英 [kɒnsə'veɪʃ(ə)n]  美 [,kɑnsɚ'veʃən]| n. 保存，保持；保护/
+...projects aimed at promoting energy conservation.…旨在促进能源节约的项目。
+Then he began his most famous work, the conservation and rebinding of the Book of Kells.接着，他就开始了他最著名的工作，即对《凯尔经》的维护和重新装订。
+...a four-nation regional meeting on elephant conservation.…一次有关大象保护的4国区域性会议。
+
+
+illustration (书的) 插图
+If you illustrate a book, you put pictures, photographs or diagrams into it. 给 (书) 加插图
+illustration 例证
+If you use an example, story, or diagram to illustrate a point, you use it to show that what you are saying is true or to make your meaning clearer. (用例子、故事或图表) 阐明
+If you say that something illustrates a situation that you are drawing attention to, you mean that it shows that the situation exists. 表明; 显示
+illustrate |英 ['ɪləstreɪt]  美 ['ɪləstret]| vt. 阐明，举例说明；图解/vi. 举例/
+...the world of children's book illustration.…儿童书籍插图的世界。
+She went on to art school and is now illustrating a book.她接着上了美术学校，现在正在给一本书画插图。
+Here, by way of illustration, are some extracts from our new catalogue.这里引为例证的是摘自我们新目录的部分内容。
+Let me give another example to illustrate this difficult point.让我举另一个例子来阐明这个难点。
+The situation illustrates how vulnerable the president is.这个情况显示总统是多么地不堪一击。
+The example of the United States illustrates this point.美国的例子表明了这一点。
+
+
+If someone or something functions as a particular thing, they do the work or fulfil the purpose of that thing. (作为某物) 起作用
+If a machine or system is functioning, it is working or operating. 运转
+A function is a large formal dinner or party. 宴会; 社交聚会
+The function of something or someone is the useful thing that they do or are intended to do. 作用
+function |英 ['fʌŋ(k)ʃ(ə)n]  美 ['fʌŋkʃən]| n. 功能；[数] 函数；职责；盛大的集会/vi. 运行；活动；行使职责/
+On weekdays, one third of the room functions as workspace.在工作日，这个房间的三分之一充当工作场所。
+The authorities say the prison is now functioning normally.当局称该监狱现在在正常运转。
+...a private function hosted by one of his students.…由他的一个学生做东的一场私人宴会。
+The main function of the investment banks is to raise capital for industry.各投资银行的主要作用是为产业筹集资金。
+
+
+When an animal scents something, it becomes aware of it by smelling it. 嗅到
+The scent of a person or animal is the smell that they leave and that other people sometimes follow when looking for them. (人的) 气味; (动物留下的) 臭迹
+Scent is a liquid which women put on their necks and wrists to make themselves smell nice. 香水
+If something scents a place or thing, it makes it smell pleasant. 使充满香味
+The scent of something is the pleasant smell that it has. 香味
+scent |英 [sent]  美 [sɛnt]| n. 气味；嗅觉；痕迹；察觉能力/vt. 闻到；发觉；使充满…的气味；循着遗臭追踪/vi. 发出…的气味；有…的迹象；嗅着气味追赶/n. (Scent)人名；(英)森特/
+...dogs which scent the hidden birds.…嗅到隐藏的鸟的狗。
+A police dog picked up the murderer's scent.一条警犬嗅出了凶手的气味。
+She dabbed herself with scent.她在自己身上擦了点香水。
+Jasmine flowers scent the air.茉莉花使空气充满芳香。
+Flowers are chosen for their scent as well as their look.花儿不仅凭外观也凭香味而被选中。
+
+
+Entertainment consists of performances of plays and movies, and activities such as reading and watching television, that give people pleasure. 娱乐
+entertainment |英 [ˌentə'teɪnmənt]  美 [ˌɛntɚ'tenmənt]| n. 娱乐；消遣；款待/
+...the world of entertainment and international stardom.…国际娱乐界及明星界。
+
+
+A pregnant silence or moment has a special meaning that is not obvious but that people are aware of. 耐人寻味的
+If a woman or female animal is pregnant, she has a baby or babies developing in her body. 怀孕的
+pregnant |英 ['pregnənt]  美 ['prɛɡnənt]| adj. 怀孕的；富有意义的/
+There was a long, pregnant silence, which Mrs. Madrigal punctuated by reaching for the cheque.马德里加尔太太伸手去拿那支票，打破了那一阵长时间的、耐人寻味的沉默。
+Lena got pregnant and married.莉娜怀了孕并结了婚。
+
+
+If you invert something, you turn it upside down or inside out. 使倒置; 将里面翻到外面
+invert |英 [ɪn'vɜːt]  美 ['ɪnvɝt]| vt. 使…转化；使…颠倒；使…反转；使…前后倒置/n. 颠倒的事物；倒置物；倒悬者/adj. 转化的/
+Invert the cake onto a serving plate.把蛋糕倒扣过来放到一个盘子上。
+
+
+sturdily 结实地; 坚固地
+Someone or something that is sturdy looks strong and is unlikely to be easily injured or damaged. 结实的; 坚固的
+sturdy |英 ['stɜːdɪ]  美 ['stɝdi]| adj. 坚定的；强健的；健全的/n. 羊晕倒病/n. (Sturdy)人名；(英)斯特迪/
+It was a good table too, sturdily constructed of elm.它也是一张很好的桌子，榆木做的，很结实。
+She was a short, sturdy woman in her early sixties.她是一位六十出头、矮小结实的女人。
+
+
+If you spring some news or a surprise on someone, you tell them something that they did not expect to hear, without warning them. 出其不意地告知; 冷不防给
+If one thing springs from another thing, it is the result of it. 起源
+If something springs in a particular direction, it moves suddenly and quickly. 弹 (向某方向)
+When a person or animal springs, they jump upward or forward suddenly or quickly. (人、动物) 跳
+A spring is a place where water comes up through the ground. It is also the water that comes from that place. 泉; 泉水
+A spring is a spiral of wire which returns to its original shape after it is pressed or pulled. 弹簧
+Spring is the season between winter and summer when the weather becomes warmer and plants start to grow again. 春季
+spring |英 [sprɪŋ]  美 [sprɪŋ]| n. 春天；弹簧；泉水；活力；跳跃/adj. 春天的/vi. 生长；涌出；跃出；裂开/vt. 使跳起；使爆炸；突然提出；使弹开/n. (Spring)人名；(德)施普林；(英、芬、瑞典)斯普林/
+McLaren sprang a new idea on him.麦克拉伦突然告诉他一个新想法。
+Ethiopia's art springs from its early Christian as well as its Muslim heritage.埃塞俄比亚的艺术起源于其早期的基督教和穆斯林教遗产。
+Sadly when the lid of the boot sprang open, it was empty.可惜，当后备箱盖弹开时，里面是空的。
+The lion roared once and sprang.狮子吼了一声，跳了起来。
+He sprang to his feet, grabbing his keys off the coffee table.他跳了起来，从咖啡桌上抓起他的钥匙。
+To the north are the hot springs.北面是温泉。
+Unfortunately, as a standard mattress wears, the springs soften and so do not support your spine.不幸的是，当一张标准床垫用旧后，其弹簧变软，因而不能支撑你的背脊。
+They are planning to move house next spring.他们在计划明年春天搬家。
+
+
+If something scorches or is scorched, it becomes marked or changes colour because it is affected by too much heat or by a chemical. 使枯萎; 变枯萎
+scorched 烧焦的
+To scorch something means to burn it slightly. 烧焦
+scorch |英 [skɔːtʃ]  美 [skɔrtʃ]| vt. 烧焦；使枯萎；挖苦/vi. 烧焦；枯萎/n. 烧焦；焦痕/
+The leaves are inclined to scorch in hot sunshine.树叶在炙热的阳光下易变枯黄。
+...scorched black earth.…烧焦的黑土。
+The bomb scorched the side of the building.炸弹烧焦了建筑物的侧面。
+
+
+A panorama is a broad view of a state of affairs or of a constantly changing series of events. 概述; 全貌
+A panorama is a view in which you can see a long way over a wide area of land, usually because you are on high ground. 全景; 远景
+panorama |英 [pænə'rɑːmə]  美 [,pænə'ræmə]| n. 全景，全貌；全景画；概论/
+The play presents a panorama of the history of communism.这出戏展现了共产主义历史的全貌。
+Horton looked out over a panorama of fertile valleys and gentle hills.霍顿眺望着那一片肥沃山谷和平缓山脉的景象。
+
+
+to make (oneself or another person) content or satisfied 使满足
+If you are content, you are fairly happy or satisfied. 满意的
+If you are content with something, you are willing to accept it, rather than wanting something more or something better. 满足的
+You can use content to refer to the amount or proportion of something that a substance contains. 含量
+The content of something such as an educational course or a programme of action is the elements that it consists of. (课程或计划的) 内容
+If you refer to the content or contents of something such as a book, television programme, or website, you are referring to the subject that it deals with, the story that it tells, or the ideas that it expresses. (书、电视节目或网站等的) 内容
+The contents of a book are its different chapters and sections, usually shown in a list at the beginning of the book. (书的) 目录
+The contents of a container such as a bottle, box, or room are the things that are inside it. (瓶子、盒子或房间的) 所容之物
+content |英 [kən'tent]  美 ['kɑntɛnt]| n. 内容，目录；满足；容量/adj. 满意的/vt. 使满足/n. (Content)人名；(法)孔唐/
+to content oneself with property
+He says his daughter is quite content.他说他的女儿颇为满意。
+I'm perfectly content with the way the campaign has gone.我对这次活动开展的情况感到心满意足。
+I am content to admire the mountains from below.我满足于从山下观赏群山。
+Sunflower margarine has the same fat content as butter.葵花籽人造黄油跟黄油的脂肪含量一样。
+Previous students have had nothing but praise for the course content and staff.以前的学生们对该课程的内容和教师只有称赞。
+Stricter controls were placed on the content of videos.对录像的内容有了更严格的控制。
+She is reluctant to discuss the content of the play.她不愿讨论这部话剧的内容。
+There is no Table of Contents.没有目录。
+Empty the contents of the pan into the sieve.将平锅里的东西全部倒入漏勺。
+
+
+Tar is one of the poisonous substances contained in tobacco. (烟草中的) 焦油
+Tar is a thick black sticky substance that is used especially for making roads. 沥青
+tar |英 [tɑː]  美 [tɑr]| n. 焦油；柏油；水手/vt. 涂以焦油；玷污/n. (Tar)人名；(东南亚国家华语)大；(罗、塞、匈、阿拉伯)塔尔/
+...strict guidelines as to the amount of tar contained in cigarettes.…关于香烟中焦油含量的严格的指导原则。
+The oil has hardened to tar.油已硬化成沥青了。
+
+
+migration 迁徙
+When birds, fish, or animals migrate, they move at a particular season from one part of the world or from one part of a country to another, usually in order to breed or to find new feeding grounds. 迁徙
+migration 迁移
+If people migrate, they move from one place to another, especially in order to find work or to live somewhere for a short time. 迁移
+migrate |英 [maɪ'greɪt; 'maɪgreɪt]  美 ['maɪɡret]| vi. 移动；随季节而移居；移往/vt. 使移居；使移植/
+...the migration of animals in the Serengeti.…塞伦盖蒂的动物迁徙。
+Most birds have to fly long distances to migrate.大多数的鸟类不得不飞行很长的距离进行迁徙。
+...the migration of Soviet Jews to Israel.…苏联犹太人向以色列的迁移。
+People migrate to cities like Jakarta in search of work.人们移居到雅加达这样的城市找工作。
+
+
+A magnate is someone who has earned a lot of money from a particular business or industry. 巨头; 大亨
+magnate |英 ['mægneɪt]  美 ['mæɡnet]| n. 巨头；大资本家；要人；富豪；……大王/
+...a multimillionaire shipping magnate.…一位身价数千万的船业巨头。
+
+
+deafness 失聪
+The deaf are people who are deaf. 失聪者
+Someone who is deaf is unable to hear anything or is unable to hear very well. 聋的; 听不清的
+deaf |英 [def]  美 [dɛf]| adj. 聋的/
+Because of her deafness she was hard to make conversation with.由于她失聪，和她交流很困难。
+Many regular TV programmes are captioned for the deaf.许多固定的电视节目都为失聪者提供字幕。
+She is now profoundly deaf.她现在几乎一点声音都听不到了。
+
+
+If something contributes to an event or situation, it is one of the causes of it. 是 (造成某情况) 的一个原因
+contributor 捐助者
+To contribute money or resources to something means to give money or resources to help pay for something or to help achieve a particular purpose. 捐助
+If you contribute to something, you say or do things to help to make it successful. 贡献; 做出贡献
+contribute |英 [kən'trɪbjuːt; 'kɒntrɪbjuːt]  美 [kən'trɪbjut]| vt. 贡献，出力；投稿；捐献/vi. 贡献，出力；投稿；捐献/
+The report says design faults in both the vessels contributed to the tragedy.报道称两艘船在设计上的缺陷是造成悲剧的原因。
+Candidates for Congress received 53 percent of their funds from individual contributors.国会候选人接受的捐款中有53%来自个人捐助者。
+Local businesses have agreed to contribute.当地的公司已经同意捐助了。
+The U.S. is contributing $4 billion in loans, credits, and grants.美国以信贷和赠与的方式捐助了40亿美元。
+I believe that each of us can contribute to the future of the world.我相信我们每一个人都能为世界的未来做出贡献。
+The three sons also contribute to the family business.3个儿子也为家族企业做贡献。
+
+
+remarkably 不同寻常地; 非凡卓越地; 引人注目地
+Someone or something that is remarkable is unusual or special in a way that makes people notice them and be surprised or impressed. 不同寻常的; 非凡卓越的; 引人注目的
+remarkable |英 [rɪ'mɑːkəb(ə)l]  美 [rɪ'mɑrkəbl]| adj. 卓越的；非凡的；值得注意的/
+Herbal remedies are remarkably successful in treating eczema.草药疗法医治湿疹非常成功。
+He was a remarkable man.他是个非凡卓越的人。
+
+
+to put on an appearance or show of; make a pretence of 假装
+If something or someone affects you, they make you feel a strong emotion, especially sadness or pity. (某事物或人) 影响 (某人)
+If a disease affects someone, it causes them to become ill. (疾病) 困扰 (某人)
+If something affects a person or thing, it influences them or causes them to change in some way. (某事物) 影响 (某人或物)
+affect |英 [ə'fekt]  美 [ə'fɛkt]| vt. 影响；感染；感动；假装/vi. 倾向；喜欢/n. 情感；引起感情的因素/
+to affect ignorance
+If Jim had been more independent, the divorce would not have affected him as deeply.如果吉姆曾经更独立一些，离婚就不会对他有这么深的影响了。
+Arthritis is a crippling disease which affects people all over the world.关节炎是一种严重影响健康、困扰全人类的疾病。
+More than seven million people have been affected by drought.七百多万多人受到了干旱的影响。
+Nicotine adversely affects the functioning of the heart and arteries.尼古丁对心脏和动脉功能有负面影响。
+
+
+Fellowship is a feeling of friendship that people have when they are talking or doing something together and sharing their experiences. 交情
+A fellowship at a university is a post which involves research work. 研究员职位
+A fellowship is a group of people that join together for a common purpose or interest. 团体
+fellowship |英 ['felə(ʊ)ʃɪp]  美 ['fɛloʃɪp]| n. 团体；友谊；奖学金；研究员职位/
+...a sense of community and fellowship.…一种社群归属感和友谊感。
+He was offered a research fellowship at Yale.他得到了一个耶鲁大学的研究员职位。
+...the National Schizophrenia Fellowship.…全国精神分裂协会。
+
+
+If you say that someone is pestering you, you mean that they keep asking you to do something, or keep talking to you, and you find this annoying. 纠缠
+pester |英/美 ['pestə]| vt. 纠缠，烦扰；使烦恼/n. (Pester)人名；(德)佩斯特/
+I know he gets fed up with people pestering him for money.我知道他烦透了那些缠着他要钱的人。
+I thought she'd stop pestering me, but it only seemed to make her worse.我以为她会停止纠缠我，但似乎只是让她变本加厉了。
+
+
+A frugal meal is small and not expensive. (膳食) 俭省的
+frugality 俭朴
+People who are frugal or who live frugal lives do not spend much money on themselves. 俭朴的
+frugal |英 ['fruːg(ə)l]  美 ['fruɡl]| adj. 节俭的；朴素的；花钱少的/
+The diet was frugal
+We must practise the strictest frugality and economy.我们必须奉行最严格意义上的俭朴和节约。
+She lives a frugal life.她过着俭朴的生活。
+
+
+To clamp an illegally parked car means to fit a device to one of its wheels so that it cannot be driven away. 锁扣 (违章停放的车辆)
+To clamp something in a particular place means to put it or hold it there firmly and tightly. 把…夹紧; 固定
+When you clamp one thing to another, you fasten the two things together with a clamp. 用 (夹具) 夹紧
+A clamp is a large metal device which is attached to the wheel of an illegally parked car or other vehicle in order to prevent it from being driven away. The driver has to pay to have the device removed. 丹佛锁扣 (用来钳锁违章停车的汽车轮子)
+A clamp is a device that holds two things firmly together. 夹具
+clamp |英 [klæmp]  美 [klæmp]| vt. 夹紧，固定住/n. 夹钳，螺丝钳/
+Though the city will no longer clamp cars, illegally parked vehicles will be towed.尽管该城将不再锁扣车辆，违规停放的车辆将被拖走。
+He clamped his lips together.他紧闭双唇。
+Simon finished dialling and clamped the phone to his ear.西蒙拨完号码，把话筒紧夹在耳朵上。
+Somebody forgot to bring along the U-bolts to clamp the microphones to the pole.有人忘记带来把麦克风夹在支杆上的U型螺栓。
+I watched a couple of cops put a clamp on a green Mercedes.我看到几个警察给一辆绿色奔驰车加上丹佛锁扣。
+Many openers have a magnet or set of clamps to grip the open lid.许多开启器是用磁铁或夹具来夹紧要开启的盖子。
+
+
+A masterpiece is an extremely clever or skilful example of something. 典范
+An artist's, writer's, or composer's masterpiece is the best work that they have ever produced. 代表作
+A masterpiece is an extremely good painting, novel, film, or other work of art. 杰作
+masterpiece |英 ['mɑːstəpiːs]  美 ['mæstəpis]| n. 杰作；绝无仅有的人/
+The whole thing was a masterpiece of crowd management.整件事情是大众管理的典范。
+"Man's Fate," translated into sixteen languages, is probably his masterpiece.《人类的命运》，被翻译成16种文字，可能是他的代表作。
+His book, I must add, is a masterpiece.他的书，我必须补充一点，是一部杰作。
+
+
+If you cultivate someone or cultivate a friendship with them, you try hard to develop a friendship with them. 建立 (友谊)
+cultivation 培养; 树立
+If you cultivate an attitude, image, or skill, you try hard to develop it and make it stronger or better. 培养 (态度、技巧等); 树立 (形象、观念等)
+cultivation 开垦; 种植
+If you cultivate land or crops, you prepare land and grow crops on it. 开垦; 种植
+cultivate |英 ['kʌltɪveɪt]  美 ['kʌltɪvet]| vt. 培养；陶冶；耕作/
+Howe carefully cultivated Daniel C. Roper, the Assistant Postmaster General.豪精心与邮政助理部长丹尼尔·C·罗珀拉关系。
+...the cultivation of a positive approach to life and health.…积极的生活和健康观的树立。
+He has written eight books and has cultivated the image of an elder statesman.他已写了8本书，并树立了一个政界元老的形象。
+...the cultivation of fruits and vegetables.…水果蔬菜的种植。
+She also cultivated a small garden of her own.她还开垦了一个自己的小花园。
+

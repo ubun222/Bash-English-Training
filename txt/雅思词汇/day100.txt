@@ -1,33 +1,354 @@
-liaison			联络，私通
-flip				轻抛，开关，发火，轻弹，无礼的
-shear			剪...的毛，剪去
+liaison			n.联络，私通
+flip				vt.轻抛，开关vi.发火n.轻弹adj.无礼的
+shear			vt.剪...的毛，剪去
 be shorn of		被剥夺
-hover			盘旋，处于不稳定状态，徘徊
-wax				蜡，给...上蜡，增加
-gaily			快乐的，鲜艳的
-slide								滑行，打滑，溜，降低
-lump				块，肿块，把...归并在一起
-inspection		检查
-arena			圆形运动场
+hover			vi.盘旋，处于不稳定状态，徘徊
+wax				n.蜡vt.给...上蜡vi.增加
+gaily			adv.快乐的，鲜艳的
+slide								vi.滑行，打滑，溜，降低vt.滑行n.滑行，降低
+lump				n.块，肿块vt.把...归并在一起
+inspection		n.检查
+arena			n.圆形运动场
 the political arena	政治舞台
-economical			经济的，节俭的，简洁的
-magnetic			有磁性的，有吸引力的
-fluff			毛絮，失误，拍松
-cashier			出纳员
-maiden			少女，首次的
-startle					使吃惊
-chill			寒冷，害怕，惊吓
-reserve						储备，保护区，拘谨，预订
-substitute						代替品，替代
-auditorium		观众席
-esteem					尊重
-creation			创造，作品
-manifest					明显的，清楚显示，证明
-confer					授予，赋予，商量
-underneath		在...下面
-hoist			升起，举起，升降机
-capacity					容纳的能力，产能，能力，职位
-fuel				燃料，用作...的燃料
-incidentally				附带的，偶然
-giggle			吃吃傻笑
+economical			adj.经济的，节俭的，<比喻>简洁的
+magnetic			adj.<书面>有磁性的，有吸引力的
+fluff			n.毛絮，失误vt.拍松，失误
+cashier			n.出纳员
+maiden			n.少女adj.首次的
+startle					vt.使吃惊
+chill			n.寒冷，害怕vt.寒冷，惊吓vi.<烹饪>冷却adj.寒冷(的)，害怕(的)
+reserve						n.储备，保护区，拘谨vt.预订(预留)，储备
+substitute						n.代替品vt.替代vi.替代
+auditorium		n.观众席
+esteem					n.尊重vt.尊重
+creation			n.创造，作品
+manifest					adj.明显的vt.清楚显示，证明
+confer					vt.授予，赋予vi.商量
+underneath		prep.在...下面adv.在...下面n.在...下面
+hoist			vt.升起，举起n.升降机
+capacity					n.容纳的能力，产能，能力，职位adj.达到最大限度的
+fuel				n.燃料vt.用作...的燃料
+incidentally				adv.附带的，偶然
+giggle			vi.吃吃傻笑n.吃吃傻笑
 \\\\\\\\
+
+If someone acts as liaison with a particular group, or between two or more groups, their job is to encourage co-operation and the exchange of information. 联络员
+Liaison is cooperation and the exchange of information between different organizations or between different sections of an organization. 联络
+liaison |英 [lɪˈeɪzn]  美 [ˈlɪəzɒn; lɪəˌzɑn]| n. 联络；（语言）连音/
+She acts as a liaison between patients and staff.她担当病人和医务人员之间的联络员。
+He is acting as liaison with the film crew.他担任拍摄组的联络员。
+Liaison between police forces and the art world is vital to combat art crime.警方和艺术界之间的联络对于打击艺术犯罪是至关重要的。
+
+
+If you flip something, especially a coin, you use your thumb to make it turn over and over, as it goes through the air. 投掷 (尤指硬币)
+If something flips over, or if you flip it over or into a different position, it moves or is moved into a different position. 翻动
+If you flip through the pages of a book, for example, you quickly turn over the pages in order to find a particular one or to get an idea of the contents. 快速翻阅
+If you flip a device on or off, or if you flip a switch, you turn it on or off by pressing the switch quickly. 快速地按动 (装置或开关)
+flip |英 [flɪp]  美 [flɪp]| vt. 掷；轻击/vi. 用指轻弹；蹦跳/adj. 无礼的；轻率的/n. 弹；筋斗/
+I pulled a coin from my pocket and flipped it.我从口袋里掏出一枚硬币，把它投掷出去。
+The plane then flipped over and burst into flames.这时飞机翻了个个儿，接着就燃烧了起来。
+He was flipping through a magazine in the living room.他在起居室里快速翻阅一本杂志。
+Then he walked out, flipping the lights off.接着他走了出去，随手把灯关掉。
+He didn't flip on the headlights until he was two blocks away.直到过了两个街区后，他才打开前灯。
+
+
+A pair of shears is a garden tool like a very large pair of scissors. Shears are used especially for cutting hedges. 大剪刀
+shearing 剪羊毛
+To shear a sheep means to cut its wool off. (给羊) 剪毛
+shear |英 [ʃɪə]  美 [ʃɪr]| vt. 剪；修剪；剥夺/vi. 剪；剪切；修剪/n. [力] 切变；修剪；大剪刀/n. (Shear)人名；(英)希尔/
+Trim the shrubs with shears.用大剪刀修剪这些灌木。
+...a display of sheep shearing.…一场剪羊毛表演。
+Competitors have six minutes to shear four sheep.参赛者们有6分钟的时间来给4只羊剪毛。
+
+
+
+be shorn of || 
+
+
+
+If something such as a price, value, or score hovers around a particular level, it stays at more or less that level and does not change much. (价格、价值或分数等) 徘徊 (在某个水平上下)
+If you hover, you are in an uncertain situation or state of mind. 处于不稳定状态
+If you hover, you stay in one place and move slightly in a nervous way, for example because you cannot decide what to do. (人) 徘徊
+To hover means to stay in the same position in the air without moving forward or backward. Many birds and insects can hover by moving their wings very quickly. (鸟、昆虫等通过快速扇动翅膀在原地) 盘旋
+hover |英 ['hɒvə]  美 ['hʌvɚ]| vi. 盘旋，翱翔；徘徊/n. 徘徊；盘旋；犹豫/vt. 孵；徘徊在…近旁/n. (Hover)人名；(英、德)霍弗/
+In September 1989 the exchange rate hovered around 140 yen to the dollar.在1989年9月，汇率一直在140日元比1美元左右徘徊。
+She hovered on the brink of death for three months as doctors battled to save her.3个月来在医生们奋力挽救她的生命的过程中，她一直处在死亡的边缘。
+Judith was hovering in the doorway.朱迪丝在门口徘徊。
+Beautiful butterflies hovered above the wild flowers.美丽的蝴蝶在野花上方盘旋。
+
+
+a fit of rage or temper 发怒; 生气
+If you have a part of your body waxed, for example your legs, you have the hair removed from the area by having wax put on it and then pulled off quickly. (用蜡) 去毛
+Wax is the sticky yellow substance found in your ears. 耳垢
+If you wax a surface, you put a thin layer of wax onto it, especially in order to polish it. 给…上蜡
+Wax is a solid, slightly shiny substance made of fat or oil that is used to make candles and polish. It melts when it is heated. 蜡
+wax |英 [waks]  美 [waks]| n. 蜡；蜡状物/vt. 给…上蜡/vi. 月亮渐满；增大/adj. 蜡制的；似蜡的/n. (Wax)人名；(德、罗、匈、英)瓦克斯/
+He's in a wax today.
+She has just had her legs waxed at the local beauty parlour.她刚在当地的美容院用蜡去了腿毛。
+Use a cotton bud to remove the wax from your ears.用棉花棒挖掉你耳朵里的耳垢。
+We'd have long talks while she helped me wax the floor.她帮我给地板上蜡时，我们闲聊了很长时间。
+There were coloured candles which had spread pools of wax on the furniture.彩色蜡烛在家具上留下了一摊摊的蜡油。
+
+
+Something that is gaily coloured or gaily decorated is coloured or decorated in a bright, pretty way. 亮丽地
+If you do something gaily, you do it in a lively, happy way. 快乐地
+gaily |英/美 ['geɪlɪ]| adv. 华丽地；欢乐地/
+...gaily painted front doors.…漆得亮丽的前门。
+He put on a gaily coloured shirt.他穿上了一件色彩亮丽的衬衫。
+Magda laughed gaily.玛格达快乐地笑了。
+
+
+A slide is a piece of playground equipment that has a steep slope for children to go down for fun. 滑梯
+A slide is a piece of glass on which you put something that you want to examine through a microscope. (显微镜的) 载物玻璃片
+A slide is a small piece of photographic film which you project onto a screen so that you can see the picture. 幻灯片
+Slide is also a noun. 下跌
+If currencies or prices slide, they gradually become worse or lower in value. 使减少; 下跌
+To slide into a particular mood, attitude, or situation means to gradually start to have that mood, attitude, or situation often without intending to. 不知不觉地陷入 (某种情绪、态度或情形)
+If you slide somewhere, you move there smoothly and quietly. 悄悄地溜到
+When something slides somewhere or when you slide it there, it moves there smoothly over or against something. 使滑动; 滑动
+slide |英 [slaɪd]  美 [slaɪd]| n. 滑动；幻灯片；滑梯；雪崩/vi. 滑动；滑落；不知不觉陷入/vt. 滑动；使滑动；悄悄地迅速放置/
+...two young children playing on a slide.…在玩滑梯的两个年幼的孩子。
+...a drop of blood on a slide.…载物玻璃片上的一滴血。
+...a slide show.…幻灯片放映。
+...the dangerous slide in oil prices.…石油价格危险的下跌。
+The dollar continued to slide.美元继续下跌。
+She had slid into a depression.她不知不觉地抑郁寡欢起来。
+He slid into the driver's seat.他悄悄地坐到了司机的座位上。
+I slid the wallet into his pocket.我把那钱包滑进了他的口袋。
+She slid the door open.她把门滑开了。
+
+
+If you say that you have a lump in your throat, you mean that you have a tight feeling in your throat because of a strong emotion such as sorrow or gratitude. 喉咙哽咽
+A lump of sugar is a small cube of it. 一小方块 (糖)
+A lump on or in someone's body is a small, hard swelling that has been caused by an injury or an illness. 肿块
+A lump of something is a solid piece of it. 块
+lump |英 [lʌmp]  美 [lʌmp]| n. 块，块状；肿块；瘤；很多；笨人/vt. 混在一起；使成块状；忍耐；笨重地移动/vi. 结块/adj. 成团的；总共的/adv. 很；非常/
+I stood there with a lump in my throat and tried to fight back tears.我站在那儿，喉咙哽咽，拼命忍住眼泪。
+...a nugget of rough gold about the size of a lump of sugar.…未加工的天然金块，约一块方糖大小。
+I've got a lump on my shoulder.我的肩膀上有个肿块。
+...a lump of wood.…一块木头。
+The potter shaped and squeezed the lump of clay into a graceful shape.制陶工人把一块黏土塑形，压成漂亮的形状。
+
+
+ The woman put forward a red silk as well as a blue one for our inspection.  这个妇女拿出一条红丝绸和一条蓝丝绸给我们检查。
+ How often do you do safety inspection?  你们多久做一次安全检查？
+ Inspection is cordially invited.  恳请莅临视察。
+inspection |英 [ɪn'spekʃn]  美 [ɪn'spɛkʃən]| n. 视察，检查/
+
+
+
+You can refer to a field of activity, especially one where there is a lot of conflict or action, as an arena of a particular kind. 斗争场所
+An arena is a place where sports, entertainments, and other public events take place. It has seats around it where people sit and watch. 竞技场
+arena |英 [ə'riːnə]  美 [ə'rinə]| n. 舞台；竞技场/n. (Arena)人名；(英)阿里纳；(意、西、葡、德)阿雷纳/
+He made it clear he had no intention of withdrawing from the political arena.他明确表示他没有退出政治舞台的意图。
+...the largest indoor sports arena in the world.…世界上最大的室内体育竞技场。
+
+
+
+the political arena || 
+
+
+
+Economical means using the minimum amount of time, effort, or language that is necessary. 简练的
+Someone who is economical spends money sensibly and does not want to waste it on things that are unnecessary. A way of life that is economical does not require a lot of money. 节俭的
+economically 经济地; 节省地
+Something that is economical does not require a lot of money to operate. For example, a car that only uses a small amount of petrol is economical. 经济的; 节省的
+economical |英 [iːkə'nɒmɪk(ə)l; ek-]  美 [,ɛkə'nɑmɪkl]| adj. 经济的；节约的；合算的/
+His gestures were economical, his words generally mild.他的手势简练，言语通常是温和的。
+...ideas for economical housekeeping.…节俭持家的一些想法。
+Services could be operated more efficiently and economically.可以更有效、更经济地提供服务。
+...plans to trade in their car for something smaller and more economical.…用他们的车抵价购买更小且更经济型轿车的计划。
+
+
+If you describe something as magnetic, you mean that it is very attractive to people because it has unusual, powerful, and exciting qualities. 有吸引力的
+You use magnetic to describe tapes and other objects which have a coating of a magnetic substance and contain coded information that can be read by computers or other machines. (磁带、卡等) 有磁的
+You use magnetic to describe something that is caused by or relates to the force of magnetism. 有磁力的
+If something metal is magnetic, it acts like a magnet. 有磁性的
+magnetic |英 [mæg'netɪk]  美 [mæg'nɛtɪk]| adj. 地磁的；有磁性的；有吸引力的/
+...the magnetic effect of the prosperous American economy on would-be immigrants.…繁荣的美国经济对未来移民的吸引力。
+...her magnetic-strip ID card.…她的带磁条的身份证。
+The electrically charged gas particles are affected by magnetic forces.带电的气体粒子受磁力的影响。
+...magnetic particles.…磁性粒子。
+
+
+If you fluff something that you are trying to do, you are unsuccessful or you do it badly. 把…搞糟
+Fluff consists of soft threads or fibres in the form of small, light balls or lumps. For example, you can refer to the fur of a small animal as fluff. 绒毛
+fluff |英 [flʌf]  美 [flʌf]| n. 绒毛；错误；无价值的东西/vt. 念错；抖松；使…起毛/vi. 起毛；出错；变松/
+She fluffed her interview at Harvard.她把哈佛的面试搞糟了。
+The nest contained two chicks
+
+
+
+cashier |英 [kæˈʃɪə(r)]  美 [kæ'ʃɪr]| n. 出纳员；司库；收银员/vt. 解雇；抛弃/
+
+
+
+The maiden voyage or flight of a ship or aircraft is the first official journey that it makes. (航行、飞行) 首次的
+A maiden is a young girl or woman. 少女
+maiden |英 ['meɪd(ə)n]  美 ['medn]| adj. 未婚的，处女的；初次的/n. 少女；处女/n. (Maiden)人名；(日)每田(姓)/
+In 1912, the Titanic sank on her maiden voyage.1912年，泰坦尼克号首次航行时沉没。
+...stories of noble princes and their brave deeds on behalf of beautiful maidens.…高贵的王子以及他们英雄救美的故事。
+
+
+startled 受惊吓了的
+If something sudden and unexpected startles you, it surprises and frightens you slightly. 使受惊
+startle |英 ['stɑːt(ə)l]  美 ['stɑrtl]| vt. 使吓一跳；使惊奇/vi. 惊吓；惊跳；惊奇/n. 惊愕；惊恐/
+Martha gave her a startled look.玛莎受惊地看了她一眼。
+The telephone startled him.电话声吓了他一跳。
+
+
+Chill is also a noun. 寒冷
+Chill weather is cold and unpleasant. 寒冷的
+A chill is a mild illness which can give you a slight fever and headache. 风寒
+If something sends a chill through you, it gives you a sudden feeling of fear or anxiety. 害怕的感觉
+When cold weather or something cold chills a person or a place, it makes that person or that place feel very cold. 使很冷
+When you chill something or when it chills, you lower its temperature so that it becomes colder but does not freeze. 使冷却; 冷却
+chill |英 [tʃɪl]  美 [tʃɪl]| n. 寒冷；寒意；寒心/adj. 寒冷的；冷漠的；扫兴的/vt. 冷冻，冷藏；使寒心；使感到冷/vi. 冷藏；变冷/
+September is here, bringing with it a chill in the mornings.9月到了，带来了清晨的寒意。
+...chill winds, rain and choppy seas.…寒冷的风、雨以及波浪起伏的大海。
+He caught a chill while performing at a rain-soaked open-air venue.他在一个被雨浸湿的露天场地表演时着了风寒。
+The violence used against the students sent a chill through Indonesia.对学生使用暴力使得整个印度尼西亚不寒而栗。
+Wade placed his chilled hands on the radiator and warmed them.韦德把他冰冷的双手放到散热器上取暖。
+The marble floor was beginning to chill me.大理石的地板开始让我感到很冷。
+These doughs can be rolled out while you wait for the pastry to chill.当你等待油酥面团冷却时，可以擀平这些生面团。
+Chill the fruit salad until serving time.上菜前把水果色拉冷却。
+
+
+If you have something in reserve, you have it available for use when it is needed. 保留备用
+If someone shows reserve, they keep their feelings hidden. 矜持
+A reserve is a supply of something that is available for use when it is needed. 储备
+If you reserve something such as a table, ticket, or magazine, you arrange for it to be kept specially for you, rather than sold or given to someone else. 预订
+If something is reserved for a particular person or purpose, it is kept specially for that person or purpose. 预留
+reserve |英 [rɪ'zɜːv]  美 [rɪ'zɝv]| n. 储备，储存；自然保护区；预备队；缄默；[金融] 储备金/vt. 储备；保留；预约/vi. 预订/n. (Reserve)人名；(法)勒塞尔夫/
+He poked around the top of his cabinet for the bottle of whisky that he kept in reserve.他在壁橱的上面翻找他留的那瓶威士忌。
+I hope that you'll overcome your reserve and let me know.我希望你能克服矜持，让我知道。
+The Persian Gulf has 65 percent of the world's oil reserves.波斯湾拥有全世界石油储备的65%。
+I'll reserve a table for five.我要预订一个5人的餐位。
+A double room with a balcony overlooking the sea had been reserved for him.一个带一座阳台的海景双人间已被预留给他了。
+
+
+In team games such as football, a substitute is a player who is brought into a game to replace another player. 替补队员
+If you say that one thing is no substitute for another, you mean that it does not have certain desirable features that the other thing has, and is therefore unsatisfactory. If you say that there is no substitute for something, you mean that it is the only thing which is really satisfactory. 可替代者
+A substitute is something that you have or use instead of something else. 替代者
+substitution 代替
+If you substitute one thing for another, or if one thing substitutes for another, it takes the place or performs the function of the other thing. 以…代替; 代替
+substitute |英 ['sʌbstɪtjuːt]  美 ['sʌbstɪtut]| n. 代用品；代替者/vi. 替代/vt. 代替/
+Jefferson entered as a substitute in the 60th minute.杰斐逊在第60分钟时作为替补队员上了场。
+The printed word is no substitute for personal discussion with a great thinker.印刷字无法替代与伟大思想家的当面交流。
+She is seeking a substitute for the very man whose departure made her cry.他在寻找一个男人的替代者，这个男人的离去曾使她伤心落泪。
+In my experience a straight substitution of carob for chocolate doesn't work.以我的经验，角豆直接代替巧克力不会奏效。
+He was substituting for the injured William Wales.他那时在代替受伤的威廉·威尔士。
+They were substituting violence for dialogue.他们那时在以暴力代替对话。
+
+
+An auditorium is a large room, hall, or building that is used for events such as meetings and concerts. 礼堂
+An auditorium is the part of a theatre or concert hall where the audience sits. 观众席
+auditorium |英 [ɔːdɪ'tɔːrɪəm]  美 [,ɔdɪ'tɔrɪəm]| n. 礼堂，会堂；观众席/
+...a high school auditorium.…一所中学的礼堂。
+Anderson was to sing at the Constitution Hall auditorium.安德森将要在宪法厅的观众席演唱。
+
+
+Esteem is the admiration and respect that you feel toward another person. 敬重
+esteem |英 [ɪ'stiːm; e-]  美 [ɪ'stim]| vt. 尊敬；认为；考虑；估价/n. 尊重；尊敬/
+He is held in high esteem by colleagues in the construction industry.他深受建筑业的同事们的敬重。
+
+
+You can refer to something that someone has made as a creation, especially if it shows skill, imagination, or artistic ability. 创作
+People sometimes refer to the whole universe as creation. 全宇宙
+In many religions, creation is the making of the universe, earth, and creatures by God. 上帝造物
+creation |英 [kriː'eɪʃ(ə)n]  美 [krɪ'eʃən]| n. 创造，创作；创作物，产物/
+The bathroom is entirely my own creation.这个浴室完全是我个人的创作。
+The whole of creation is made up of energy.全宇宙是由能量构成的。
+...the Creation of the universe as told in Genesis Chapter One.…如《创世纪》第一章中讲述的上帝创造天地万物。
+
+
+Manifest is also an adjective. 显现出的
+If you manifest a particular quality, feeling, or illness, or if it manifests itself, it becomes visible or obvious. 显现出
+manifestly 明显地
+If you say that something is manifest, you mean that it is clearly true and that nobody would disagree with it if they saw it or considered it. 明显的
+manifest |英 ['mænɪfest]  美 ['mænɪfɛst]| vt. 证明，表明；显示/vi. 显示，出现/n. 载货单，货单；旅客名单/adj. 显然的，明显的；明白的/
+The same alarm is manifest everywhere.同样的恐慌在各地都已出现。
+The virus needs two weeks to manifest itself.这种病毒需要两周才能发作。
+He manifested a pleasing personality on stage.他在舞台上表现出讨人喜欢的个性。
+She manifestly failed to last the mile-and-a-half of the race.她显然没有跑完1.5英里的比赛。
+...the manifest failure of the policies.…这些政策明显的失败。
+
+
+To confer something such as power or an honour on someone means to give it to them. 授予
+When you confer with someone, you discuss something with them in order to make a decision. You can also say that two people confer. 商议
+confer |英 [kən'fɜː]  美 [kən'fɝ]| vt. 授予；给予/vi. 协商/n. (Confer)人名；(英)康弗/
+The constitution also confers large powers on Brazil's 25 constituent states.宪法还授予巴西25个成员州极大的权力。
+He conferred with Hill and the others in his office.他和希尔以及他办公室里的其他人进行了商议。
+
+
+Underneath is also a preposition. 在…内
+You use underneath when talking about feelings and emotions that people do not show in their behaviour. 在内心
+Underneath is also a noun. 下面; 底部
+The part of something which is underneath is the part which normally touches the ground or faces toward the ground. 在下面; 在底部
+Underneath is also an adverb. 在下面; 在底下
+If one thing is underneath another, it is directly under it, and may be covered or hidden by it. 在…下面; 在…底下
+underneath |英 [ʌndə'niːθ]  美 [,ʌndɚ'niθ]| prep. 在…的下面；在…的形式下；在…的支配下/adv. 在下面；在底下/n. 下面；底部/adj. 下面的；底层的/
+Underneath his outgoing behaviour Luke was shy.卢克表面外向、内心羞怯。
+He was as violent as Nick underneath.他在内心和尼克一样暴烈。
+Now I know what the underneath of a car looks like.现在我知道汽车的底部是什么样子了。
+The sand martin is a brown bird with white underneath.崖沙燕是一种腹部为白色的褐色的鸟。
+Check the actual construction of the chair by looking underneath.看一下椅子的底部来检查它的实际结构。
+The shooting-range is lit from underneath by rows of ruby-red light fixtures.射击场被一排排宝石红照明装置从下面照亮。
+He has on his jeans and a long-sleeved blue denim shirt with a white T-shirt underneath.他身穿牛仔裤和一件蓝色长袖粗斜纹棉布衬衫，里面还有件白色T恤衫。
+...using dogs to locate people trapped underneath collapsed buildings.…利用狗来寻找困在倒塌楼房下面的人。
+The device exploded underneath a van.那个装置在一辆面包车底下爆炸了。
+
+
+If you hoist a flag or a sail, you pull it up to its correct position by using ropes. 升起 (旗、帆等)
+A hoist is a machine for lifting heavy things. 起重机
+If something heavy is hoisted somewhere, it is lifted there using a machine such as a crane. (用起重机等) 吊起
+If you hoist something heavy somewhere, you lift it or pull it up there. 提起; 拉起 (重物)
+hoist |英 [hɒɪst]  美 [hɔɪst]| n. 起重机；升起，吊起/vi. 升起；吊起/vt. （用绳索，起重机等）使升起/n. (Hoist)人名；(英)霍伊斯特/
+A group forced their way through police cordons and hoisted their flag on top of the disputed monument.一群人强行冲破警方警戒线，把他们的旗帜升到了那座有争议的纪念碑的顶部。
+He uses a hydraulic hoist to unload two empty barrels.他用一架液压起重机卸下两只空桶。
+A twenty-foot steel pyramid is to be hoisted into position on top of the tower.一座20英尺高的钢制金字塔将被吊到塔顶该放的位置上。
+Hoisting my suitcase on to my shoulder, I turned and headed toward my hotel.我把手提箱扛到肩膀上，转身朝旅馆走去。
+
+
+A capacity crowd or audience completely fills a theatre, sports stadium, or other place. 满座的
+The capacity of a building, place, or vehicle is the number of people or things that it can hold. If a place is filled to capacity, it is as full as it can possibly be. 容纳力
+If you do something in a particular capacity, you do it as part of a particular job or duty, or because you are representing a particular organization or person. 身份
+The capacity of a piece of equipment is its size or power, often measured in particular units. 负载量
+The capacity of something such as a factory, industry, or region is the quantity of things that it can produce or deliver with the equipment or resources that are available. 产量
+The capacity of a container is its volume, or the amount of liquid it can hold, measured in units such as quarts or gallons. 容量
+Your capacity for something is your ability to do it, or the amount of it that you are able to do. 能力
+capacity |英 [kə'pæsɪtɪ]  美 [kə'pæsəti]| n. 能力；容量；资格，地位；生产力/
+A capacity crowd of 76,000 people was at the stadium for the event.运动场内座无虚席，7.6万人观看了比赛。
+Each stadium had a seating capacity of about 50,000.每个运动场能容纳大约五万座席。
+Ms. Halliwell visited the Philippines in her capacity as a Special Representative of UNICEF.哈利韦尔女士以联合国儿童基金会特使的身份访问了菲律宾。
+...an aircraft with a bomb-carrying capacity of 1000 pounds.…一架炸弹装载量达1000磅的飞机。
+Bread factories are working at full capacity.面包厂正在满负荷进行生产。
+...the amount of spare capacity in the economy....经济中的过剩产能。
+...containers with a maximum capacity of 200 gallons of water.…最大容量为200加仑水的容器。
+Her mental capacity and temperament are as remarkable as his.她的智慧和气质与他的同样出众。
+Our capacity for giving care, love, and attention is limited.我们给予照顾、爱护和关心的能力是有限的。
+
+
+To fuel a situation means to make it become worse or more intense. 加剧
+Fuel is a substance such as coal, oil, or petrol that is burned to provide heat or power. 燃料
+fuel |英 [fjʊəl]  美 ['fjuəl]| vi. 得到燃料/vt. 供以燃料，加燃料/n. 燃料；刺激因素/
+The result will inevitably fuel speculation about the prime minister's future.该结果将不可避免地加剧人们对首相前途的猜测。
+They ran out of fuel.他们用完了燃料。
+
+
+If something occurs only incidentally, it is less important than another thing or is not a major part of it. 附带地
+You use incidentally to introduce a point that is not directly relevant to what you are saying, often a question or extra information that you have just thought of. 顺便说及地
+incidentally |英 [ɪnsɪ'dent(ə)lɪ]  美 [,ɪnsɪ'dɛntli]| adv. 顺便；偶然地；附带地/
+The letter mentioned my great aunt and uncle only incidentally.信里只是附带地提到我的叔祖母和叔祖父。
+"I didn't ask you to come. Incidentally, why have you come?"“我没有叫你来。顺便问一下，你为什么来呢？”
+
+
+If you say that someone has the giggles, you mean they cannot stop giggling. 咯咯笑个不止
+Giggle is also a noun. 咯咯的笑
+If someone giggles, they laugh in a childlike way, because they are amused, nervous, or embarrassed. 咯咯地笑
+giggle |英 ['gɪg(ə)l]  美 ['ɡɪɡl]| vi. 傻笑；咯咯地笑/vt. 咯咯地笑着说/n. 吃吃的笑/
+I was so nervous I got the giggles.我紧张得咯咯笑个不止。
+She gave a little giggle.她咯咯地笑了一下。
+"I beg your pardon?" she giggled.“对不起，你说什么？”她咯咯地笑着问。
+Both girls began to giggle.两个女孩都咯咯地笑起来。
+

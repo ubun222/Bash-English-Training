@@ -1,31 +1,293 @@
-tendency						倾向，趋势
-lunar						月亮的
-extend						扩建，延长
-journalist							新闻记者
-apologetic					表示歉意的
-contradiction				矛盾，反驳
-meticulous			非常仔细的
-anyhow						随便的
-draft				起草，选派，征募，草稿
-forerunner			先驱，预兆
-repetition			重复，重现
-emigrate			移居国外
-stuffing			填料，填充物
-novel								小说，新颖的
-observance			遵守，纪念
-intellectual				智力的，知识分子
-laundry							洗衣店，衣物
-indemnity			保障，赔款，免予惩罚
-concentrate					全神贯注，聚集
-impart								传授，传达，带来
-qualitative			性质的
-exclusive				高档的，独有的，排斥的
-somewhat			有点
-appeal							呼吁，上诉，吸引
-even					竟然，即使，甚至，恰好，平的，整齐的
-intricate			错综复杂的
-outfit				全套服装，装备
-continuity			连续性
-expenditure					开支，花费
-sauce							调味汁，无礼
+tendency						n.倾向，趋势
+lunar						adj.月亮的
+extend						vt.扩建，延长vi.延长，涉及
+journalist							n.新闻记者
+apologetic					adj.表示歉意的
+contradiction				n.矛盾，反驳
+meticulous			adj.非常仔细的
+anyhow						adv.随便的
+draft				vt.起草，选派，征募n.草稿
+forerunner			n.先驱，预兆
+repetition			n.重复，重现
+emigrate			vi.移居国外
+stuffing			n.<烹饪>填料，填充物
+novel								n.小说adj.新颖的
+observance			n.遵守，纪念
+intellectual				adj.智力的n.知识分子
+laundry							n.洗衣店，衣物
+indemnity			n.保障，赔款，<法>免予惩罚
+concentrate					vi.全神贯注，聚集vt.聚集
+impart								vt.传授，传达，带来
+qualitative			adj.性质的
+exclusive				adj.高档的，独有的，排斥的
+somewhat			adv.有点
+appeal							vi.呼吁，上诉，吸引n.呼吁，上诉，吸引
+even					adv.竟然，即使，甚至，恰好adj.平的，整齐的
+intricate			adj.错综复杂的
+outfit				n.全套服装，公司vt.装备
+continuity			n.连续性
+expenditure					n.开支，花费
+sauce							n.调味汁，无礼vt.无礼
 \\\\\\\\
+
+A tendency is a part of your character that makes you often behave in an unpleasant or worrying way. (性格方面不好的) 倾向
+A tendency is a worrying or unpleasant habit or action that keeps occurring. 倾向
+tendency |英 ['tend(ə)nsɪ]  美 ['tɛndənsi]| n. 倾向，趋势；癖好/
+He is spoiled, arrogant and has a tendency toward snobbery.他被宠坏了，很傲慢，而且有势利倾向。
+...the government's tendency to secrecy in recent years.…近年来政府的保密倾向。
+
+
+Lunar means relating to the moon. 月球的
+lunar |英 ['luːnə]  美 ['lunɚ]| adj. 月亮的，月球的；阴历的；银的；微亮的/n. (Lunar)人名；(西)卢纳尔/
+The vast volcanic slope was eerily reminiscent of a lunar landscape.巨大的火山坡很奇怪地让人想起月球上的景观。
+
+
+If someone extends their hand, they stretch out their arm and hand to shake hands with someone. 伸出
+If you extend something to other people or things, you make it include or affect more people or things. 扩延 (到其他人或物)
+If you extend something, you make it last longer than before or end at a later date. 延长期限
+If a piece of equipment or furniture extends, its length can be increased. 能伸展
+If you extend something, you make it longer or bigger. 延长; 扩大
+If something extends to a group of people, things, or activities, it includes or affects them. 包括; 涉及
+If an event or activity extends over a period of time, it continues for that time. 持续
+If an object extends from a surface or place, it sticks out from it. 伸出; 凸出
+If you say that something, usually something large, extends for a particular distance or extends from one place to another, you are indicating its size or position. 延伸
+extend |英 [ɪk'stend; ek-]  美 [ɪk'stɛnd]| vt. 延伸；扩大；推广；伸出；给予；使竭尽全力；对…估价/vi. 延伸；扩大；伸展；使疏开/
+The man extended his hand
+It might be possible to extend the technique to other crop plants.把该技术扩延到其它农作物上也许是可能的。
+They have extended the deadline by twenty-four hours.他们已经将最后期限延长了24小时。
+...a table that extends to accommodate extra guests.…一张能伸展以容纳更多客人的桌子。
+The building was extended in 1500.该建筑于1500年扩建。
+This year they have introduced three new products to extend their range.今年他们已引入了3种新产品以扩大他们的范围。
+The talks will extend to the church, human rights groups, and other social organizations.这些会谈将涉及教会、人权组织和其他的社会组织。
+The service also extends to wrapping and delivering gifts.这项服务还包括包装及递送礼物。
+The normal cyclone season extends from December to April.正常的飓风季节从12月持续到4月。
+A table extended from the front of her desk to create a T-shaped seating arrangement.一张桌子从她的办公桌前端伸出，形成T型的座位排列。
+The main stem will extend to around 12 ft, if left to develop naturally.如果让其自然生长，主干会延伸到12英尺左右。
+The caves extend for some 12 miles.这些洞穴延伸约12英里。
+
+
+
+journalist |英 [ˈdʒɜ:nəlɪst]  美 [ˈdʒɝ​nlɪst]| n. 新闻工作者；报人；记日志者/
+
+
+
+apologetically 表达歉意地
+If you are apologetic, you show or say that you are sorry for causing trouble for someone, for hurting them, or for disappointing them. 表达歉意的
+apologetic |英 [əpɒlə'dʒetɪk]  美 [ə,pɑlə'dʒɛtɪk]| adj. 道歉的；赔罪的/
+"It's of no great literary merit," he said, almost apologetically.“它不具有重要的文学价值，”他几乎抱歉地说道。
+The hospital staff were very apologetic but that couldn't really compensate.医院员工都深表歉意，但那不能真正补偿。
+
+
+If you describe an aspect of a situation as a contradiction, you mean that it is completely different from other aspects, and so makes the situation confused or difficult to understand. 矛盾
+contradiction |英 [kɒntrə'dɪkʃ(ə)n]  美 [,kɑntrə'dɪkʃən]| n. 矛盾；否认；反驳/
+The militants see no contradiction in using violence to bring about a religious state.好战分子认为使用暴力与建立宗教国家不矛盾。
+
+
+meticulously 细致地
+If you describe someone as meticulous, you mean that they do things very carefully and with great attention to detail. 小心谨慎的
+meticulous |英 [mə'tɪkjələs]  美 [mə'tɪkjələs]| adj. 一丝不苟的；小心翼翼的；拘泥小节的/
+The flat had been meticulously cleaned.这间公寓被仔仔细细地打扫过了。
+He was so meticulous about everything.他对任何事情都很小心谨慎。
+
+
+If you do something anyhow, you do it in a careless or untidy way. 马虎随便地
+anyhow |英 ['enɪhaʊ]  美 ['ɛnɪ'haʊ]| adv. 总之；无论如何；不管怎样/
+Her discarded books were piled up just anyhow.她丢弃的书被胡乱地堆了起来。
+
+
+The draft is the practice of ordering people to serve in the armed forces, usually for a limited period of time. 征兵
+If people are drafted to do something, they are asked to do a particular job. 选派
+If you are drafted, you are ordered to serve in the armed forces, usually for a limited period of time. 征兵
+When you draft a letter, book, or speech, you write the first version of it. 起草
+A draft is a current of air that comes into a place in an undesirable way. (钻进某处的) 风
+A draft is a written order for payment of money by a bank, especially from one bank to another. 汇票
+A draft is an early version of a letter, book, or speech. 草稿; 初稿
+draft |英 [drɑːft]  美 [dræft]| n. 汇票；草稿；选派；（尤指房间、烟囱、炉子等供暖系统中的）（小股）气流/vt. 起草；制定；征募/vi. 拟稿；绘样；作草图/adj. 初步画出或（写出）的；（设计、草图、提纲或版本）正在起草中的，草拟的；以草稿形式的；草图的/
+...his effort to avoid the draft.…他逃避兵役的努力。
+She hoped that Fox could be drafted to run the organization.她希望福克斯能够被选派来掌管这个组织。
+During the Second World War, he was drafted into the U.S. Army.第二次世界大战期间，他应征加入美国陆军。
+He drafted a letter to the editors.他草拟了一封给编辑的信。
+Block drafts around doors and windows.挡住门窗周围的风。
+Payments must be made in U.S. dollars by a bank draft drawn to the order of the United Nations Postal Administration.付款必须用开给联合国邮政管理处的银行汇票，并以美元支付。
+I faxed a first draft of this article to him.我把这篇文章的初稿传真给他。
+I rewrote his rough draft, which was published under my name.我改写了他那篇以我的名义发表了的初稿。
+
+
+If you describe a person or thing as the forerunner of someone or something similar, you mean they existed before them and either influenced their development or were a sign of what was going to happen. 先驱; 前身; 前兆
+forerunner |英 ['fɔːrʌnə]  美 ['fɔr'rʌnɚ]| n. 先驱；先驱者；预兆/
+...a machine which, in some respects, was the forerunner of the modern helicopter.…一台在某些方面是现代直升飞机的前身的机器。
+
+
+Repetition means using the same words again. 重复的语句
+If there is a repetition of an event, usually an undesirable event, it happens again. (尤指令人不快的事情) 重演
+repetition |英 [repɪ'tɪʃ(ə)n]  美 ['rɛpə'tɪʃən]| n. 重复；背诵；副本/
+He could also have cut out much of the repetition and thus saved many pages.他本来也可以删掉很多重复的语句，省去很多页数。
+Today the city government has taken measures to prevent a repetition of last year's confrontation.今天市政府已经采取了措施来防止去年的冲突重演。
+
+
+emigration 移居外国
+If you emigrate, you leave your own country to live in another country. 移居外国
+emigrate |英 ['emɪgreɪt]  美 ['ɛmɪɡret]| vi. 移居；移居外国/vt. 移民/
+...the huge emigration of workers to the West.…工人们的大规模向西方移居。
+He emigrated to Belgium.他移民去了比利时。
+
+
+Stuffing is material that is used to fill things such as cushions or toys in order to make them firm or solid. 填充物
+Stuffing is a mixture of food that is put inside a bird such as a chicken, or a vegetable such as a pepper, before it is cooked. (放入鸡或辣椒等用于烹饪的) 填料
+stuffing |英 ['stʌfɪŋ]  美 ['stʌfɪŋ]| n. 填料，填塞物/
+...a rag doll with all the stuffing coming out.…一个所有的填充物都露出来的破布娃娃。
+Chestnuts can be used at Christmastime, as a stuffing for turkey, guinea fowl, or chicken.栗子可在圣诞节时用作火鸡、珍珠鸡或松鸡的填料。
+
+
+Novel things are new and different from anything that has been done, experienced, or made before. 新奇的
+A novel is a long written story about imaginary people and events. 长篇小说
+novel |英 ['nɒv(ə)l]  美 [ˈnɑːvl]| adj. 新奇的；异常的/n. 小说/n. (Novel)人名；(法、西、英)诺韦尔/
+Protesters found a novel way of demonstrating against steeply rising oil prices.抗议者们找到一种新奇的示威方式来反对石油价格的飙升。
+...a novel by Herman Hesse.…一部赫尔曼·赫西写的长篇小说。
+
+
+The observance of something such as a law or custom is the practice of obeying or following it. (对法律、习俗等的) 遵守
+observance |英 [əb'zɜːv(ə)ns]  美 [əb'zɝvəns]| n. 惯例；遵守；仪式；庆祝/
+County governments should use their powers to ensure strict observance of laws.县政府应该利用他们的权力确保法律的严格遵守。
+
+
+Intellectual is also an adjective. 有高智力的
+An intellectual is someone who spends a lot of time studying and thinking about complicated ideas. 知识分子
+intellectually 智力地
+Intellectual means involving a person's ability to think and to understand ideas and information. 智力的
+intellectual |英 [,ɪntə'lektʃʊəl; -tjʊəl]  美 [,ɪntə'lɛktʃuəl]| adj. 智力的；聪明的；理智的/n. 知识分子；凭理智做事者/
+They were very intellectual and witty.他们非常聪明、机智。
+Teachers, artists and other intellectuals urged political parties to launch a united movement against the government.教师们、艺术家们和其他知识分子们敦促各政党发动一场反政府的联合运动。
+...intellectually satisfying work.…在智力上令人满意的工作。
+High levels of lead could damage the intellectual development of children.高含铅量会损害儿童的智力发育。
+
+
+A laundry or a laundry room is a room in a house, hotel, or institution where clothes, sheets, and towels are washed. 洗衣间
+A laundry is a business that washes and irons clothes, sheets, and towels for people. 洗衣店
+Laundry is used to refer to clothes, sheets, and towels that are about to be washed, are being washed, or have just been washed. (待洗、正在洗或刚洗过的) 衣物
+laundry |英 ['lɔːndrɪ]  美 ['lɔndri]| n. 洗衣店，洗衣房；要洗的衣服；洗熨；洗好的衣服/
+He worked in the laundry at Oxford prison.他曾在牛津监狱的洗衣房工作。
+We had to have the washing done at the laundry.我们不得不把衣服放在洗衣店里洗。
+...the room where I hang the laundry.…我晾衣服的房间。
+I'll do your laundry.我会给你洗衣服的。
+
+
+If something provides indemnity, it provides insurance or protection against damage or loss. 保障; 保证
+indemnity |英 [ɪn'demnɪtɪ]  美 [ɪn'dɛmnəti]| n. 补偿，赔偿；保障；赔偿物/
+Political exiles had not been given indemnity from prosecution.政治流亡者还没有被给予免于起诉的保证。
+
+
+If something is concentrated in an area, it is all there rather than being spread around. 集中
+If you concentrate on something, or concentrate your mind on it, you give all your attention to it. 集中 (心思); 专心
+concentrate |英 ['kɒns(ə)ntreɪt]  美 ['kɑnsn'tret]| vi. 集中；浓缩；全神贯注；聚集/vt. 集中；浓缩/n. 浓缩，精选；浓缩液/
+Italy's industrial districts are concentrated in its north-central and northeastern regions.意大利的工业区集中在该国中北部和东北部地区。
+At work you need to be able to concentrate.工作时你要能专心。
+It was up to him to concentrate on his studies and make something of himself.他能否专心学习并有所成就取决于他自己。
+
+
+To impart a particular quality to something means to give it that quality. 给予 (特定品质)
+If you impart information to people, you tell it to them. 传授; 告知
+impart |英 [ɪm'pɑːt]  美 [ɪm'pɑrt]| vt. 给予（尤指抽象事物），传授；告知，透露/
+She managed to impart great elegance to the unpretentious dress she was wearing.她努力为自己朴素的衣着增添几分优雅。
+The ability to impart knowledge and command respect is the essential qualification for teachers.传授知识并博得尊敬的能力对老师们来说是基本的条件。
+
+
+Qualitative means relating to the nature or standard of something, rather than to its quantity. 质的; 品质上的
+qualitative |英 ['kwɒlɪtətɪv]  美 ['kwɑlətetɪv]| adj. 定性的；质的，性质上的/
+There are qualitative differences in the way children of different ages and adults think.不同年龄的儿童和成人在思维方式上有着质的差异。
+
+
+If two things are mutually exclusive, they are separate and very different from each other, so that it is impossible for them to exist or happen together. 互相排斥的; 不兼容的
+If a company states that its prices, goods, or services are exclusive of something, that thing is not included in the stated price, although it usually still has to be paid for. 不包括…的
+An exclusive is an exclusive article or report. 独家文章; 独家报道
+If a newspaper, magazine, or broadcasting organization describes one of its reports as exclusive, they mean it is a special report that does not appear in any other publication or on any other channel. 独家的 (新闻报道)
+Something that is exclusive is used or owned by only one person or group, and not shared with anyone else. 专用的; 独有的
+If you describe something as exclusive, you mean that it is limited to people who have a lot of money or who are privileged, and is therefore not available to everyone. 仅限富贵人士的
+exclusive |英 [ɪk'skluːsɪv; ek-]  美 [ɪk'sklusɪv]| adj. 独有的；排外的；专一的/n. 独家新闻；独家经营的项目；排外者/
+They both have learned that ambition and successful fatherhood can be mutually exclusive.他们都明白了事业心与做个成功的父亲是互相排斥的。
+...the average cost of a three-course dinner exclusive of tax, tip and beverage.…不含税、小费和酒水费用的3道菜晚餐的平均花费。
+Some papers thought they had an exclusive.一些报社以为他们有一条独家报道。
+He told the magazine in an exclusive interview
+Our group will have exclusive use of a 60-foot boat.我们组将有一条专用的60英尺的船。
+It used to be a private, exclusive club, and now it's open to all New Yorkers.它曾是一家高档的私人俱乐部，而现在它对所有纽约人开放。
+
+
+You use somewhat to indicate that something is the case to a limited extent or degree. 稍微
+somewhat |英 ['sʌmwɒt]  美 ['sʌmwʌt]| n. 几分；某物/adv. 有点；多少；几分；稍微/
+He explained somewhat unconvincingly that the company was paying for everything.他有点不令人相信地解释说公司正在支付一切费用。
+He concluded that Oswald was somewhat abnormal.他断定奥斯瓦德有点不正常。
+
+
+The appeal of something is a quality that people find attractive or interesting. 吸引力
+An appeal is a formal request for a decision to be changed. 申诉
+An appeal is an attempt to raise money for a charity or for a good cause. (为慈善或好的事业所做的) 筹款努力
+An appeal is a serious and urgent request. 呼吁
+If something appeals to you, you find it attractive or interesting. 有吸引力
+If you appeal a decision to someone in authority, you formally ask them to change it. 申诉
+If you appeal to someone to do something, you make a serious and urgent request to them. 呼吁
+appeal |英 [ə'piːl]  美 [ə'pil]| vi. 呼吁，恳求；上诉；诉诸，求助；有吸引力，迎合爱好；（体育比赛中）诉诸裁判/n. 呼吁，请求；吸引力，感染力；上诉；诉诸裁判/vt. 将…上诉，对…上诉/
+Its new title was meant to give the party greater public appeal.其新的名字意在给予该党更大的公众吸引力。
+They took their appeal to the Supreme Court.他们上诉到了最高法院。
+...an appeal to save a library containing priceless manuscripts.…为挽救一个藏有无价手稿图书馆的一次筹款努力。
+He has a message from King Fahd, believed to be an appeal for Arab unity.他有个来自法赫德国王的口信，相信是对阿拉伯团结的呼吁。
+On the other hand, the idea appealed to him.另一方面，这个主意对他有吸引力。
+We intend to appeal the verdict.我们打算对此裁决提出申诉。
+He will appeal to the state for an extension of unemployment benefits.他将呼吁国家延长失业救济。
+He appealed to voters to go to the polls tomorrow.他呼吁选民们明天去投票站。
+
+
+If there is an even distribution or division of something, each person, group, or area involved has an equal amount. 均等的
+An even surface is smooth and flat. 平滑的
+evenly 保持不变地
+An even measurement or rate stays at about the same level. 保持不变的
+You use even then to say that something is the case in spite of what has just been stated or whatever the circumstances may be. 即便那样
+You use even so to introduce a surprising fact that relates to what you have just said. 即便如此; 尽管这样
+You use even if or even though to indicate that a particular fact does not make the rest of your statement untrue. 即使
+You use even with comparative adjectives and adverbs to emphasize a quality that someone or something has. (与比较级连用) 更加
+You use even to suggest that what comes just after or just before it in the sentence is rather surprising. 甚至; 连
+even |英 ['iːv(ə)n]  美 ['ivən]| adj. [数] 偶数的；平坦的；相等的/adv. 甚至；即使；还；实际上/vt. 使平坦；使相等/vi. 变平；变得可比较；成为相等/n. (Even)人名；(法)埃旺；(德)埃文；(英)埃文/
+The airline hopes to break even next year and return to profit the following year.该航空公司希望来年盈亏平衡，并在随后一年重新开始盈利。
+They have a more than even chance of winning the next election.他们在下次竞选中有过半的胜机。
+They must choose between two evenly matched candidates for governor.他们必须从两个不相上下的候选人中选出州长。
+It was an even game.这是一场势均力敌的比赛。
+The meat is divided evenly and boiled in a stew.肉被均等地切开并在锅里炖。
+Divide the dough into 12 even pieces and shape each piece into a ball.把面团分为12等份并把每一块面团揉成球形。
+The tables are fitted with a glass top to provide an even surface.那些桌子都装有玻璃台面以提供平滑的表面。
+He looked at Ellen, breathing evenly in her sleep.他看着在睡梦中呼吸均匀的埃伦。
+How important is it to have an even temperature when you're working?工作时保持恒温有多重要？
+Peace could come only gradually, in carefully measured steps. Even then, it sounds almost impossible to achieve.和平只能以谨慎的步伐逐步到来。即便那样，它听起来还是几乎不可能实现。
+The bus was only half full. Even so, a young man asked Nina if the seat next to her was taken.公共汽车上只坐满了一半，即便如此，一个小伙子还问尼娜她旁边的座位有没有人坐。
+Cynthia is not ashamed of what she does, even if she ends up doing something wrong.辛西娅并不为她所做的事感到惭愧，即使她最终把事情做错。
+On television he made an even stronger impact as an interviewer.他作为采访者在电视上造成了更大的影响。
+Even dark-skinned women should use sunscreens.就连肤色黑的女性也应该用防晒油。
+He kept calling me for years, even after he got married.他多年来不断给我打电话，甚至到他结婚以后。
+
+
+intricately 复杂精细地
+You use intricate to describe something that has many small parts or details. 复杂精细的
+intricate |英 ['ɪntrɪkət]  美 [ˈɪntrəkət]| adj. 复杂的；错综的，缠结的/
+...intricately carved sculptures.…一些精雕细刻的雕塑。
+...the production of carpets with highly intricate patterns.…图案复杂精细的地毯的制作。
+
+
+You can refer to an organization as an outfit. 机构
+An outfit is a set of clothes. 全套服装
+outfit |英 ['aʊtfɪt]  美 ['aʊtfɪt]| n. 机构；用具；全套装备/vi. 得到装备/vt. 配备；供应/
+He works for a private security outfit.他在一家私人保安公司工作。
+She was wearing an outfit she'd bought the previous day.她穿着前一天买的一套服装。
+
+
+Continuity is the fact that something continues to happen or exist, with no great changes or interruptions. 连续性; 持续性
+continuity |英 [,kɒntɪ'njuːɪtɪ]  美 ['kɑntə'nʊəti]| n. 连续性；一连串；分镜头剧本/
+...a tank designed to ensure continuity of fuel supply during aerobatics.…为特技飞行中确保持续供油而设计的油箱。
+
+
+Expenditure is the spending of money on something, or the money that is spent on something. 花销; 支出
+expenditure |英 [ɪk'spendɪtʃə; ek-]  美 [ɪk'spɛndɪtʃɚ]| n. 支出，花费；经费，消费额/
+Policies of tax reduction must lead to reduced public expenditure.减税政策必然导致公共开支减少。
+
+
+A sauce is a thick liquid which is served with other food. 酱; 调味汁
+sauce |英 [sɔːs]  美 [sɔs]| n. 酱油；沙司；调味汁/vt. 使增加趣味；给…调味/n. (Sauce)人名；(西)绍塞；(法)索斯/
+...pasta cooked in a sauce of garlic, tomatoes, and cheese.…用大蒜、番茄和奶酪调味汁煮的意大利面。
+

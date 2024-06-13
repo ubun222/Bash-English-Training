@@ -1,0 +1,392 @@
+extra				adj.额外的n.额外的(事物)adv.格外
+dwindle				vi.逐渐变小
+patch				n.补丁，眼罩，地盘，时期vt.补丁
+a patch of			小片
+sketch				n.素描，概述vi.(画)素描vt.(画)素描，概述
+mean							vt.意味着，打算，注定adj.吝啬的，出色的n.平均数
+trace								n.痕迹，微量，小路vt.查出
+defence				n.保卫，防御物，辩解，防守，卫冕
+expulsion				n.开除，排出
+potential						adj.潜在的，可能的n.潜力
+passport									n.护照，途径
+craft					n.工艺(手艺)vt.熟练的制作
+gleam					n.微光vi.闪耀(反光)
+a gleam of				一丝
+overflow						vi.溢出，vt.溢出，挤满n.溢出
+solemn					adj.严肃的，郑重的
+vegetation				n.植被，无所事事
+pliable					adj.易弯的，易摆布的
+apprehension				n.忧虑，逮捕，看法
+rave						vi.咆哮，热烈赞扬vt.热烈赞扬adj.热烈赞扬(的)
+locomotive				n.火车头adj.运动的
+entrepreneur				n.企业家
+doubtful					adj.不大可能的，不确定的，令人生疑的，有问题的
+morbid					adj.消极的，病态的(病变的)
+violent								adj.残暴的，猛烈的，突然的
+exemplify					vt.是...的典型，举例说明
+cease					vi.停止vt.停止n.停止
+rotate					vi.旋转，轮换vt.旋转，轮换
+solution								n.解决办法，溶液，答案
+identify						vt.辨认，认出，联系，认为...等同
+identify oneself			自称，同情
+paramount					adj.首要的，至高无上的
+combine							vt.混合，结合vi.搭配，结合
+\\\\\\\\
+
+You can use extra in front of adjectives and adverbs to emphasize the quality that they are describing. 格外地
+The extras in a film are the people who play unimportant parts, for example, as members of a crowd. 临时演员
+Extras are things that are not necessary in a situation, activity, or object, but that make it more comfortable, useful, or enjoyable. 额外之物
+Extras are additional amounts of money that are added to the price that you have to pay for something. 额外费用
+Extra is also an adverb. 额外地
+Extra is also a pronoun. 额外费用
+If something is extra, you have to pay more money for it in addition to what you are already paying for something. (费用) 另计的
+You use extra to describe an amount, person, or thing that is added to others of the same kind, or that can be added to others of the same kind. 多加的; 可另加的
+extra |英 ['ekstrə]  美 ['ɛkstrə]| adv. 特别地，非常；另外/n. 临时演员；号外；额外的事物；上等产品/adj. 额外的，另外收费的；特大的/
+I said you'd have to be extra careful.我说过你必须格外小心。
+In 1944, Kendall entered films as an extra.1944年，肯德尔作为一名临时演员进入电影界。
+Optional extras include cooking classes at a top restaurant.可选的额外之物包括一家高级餐馆的烹饪课程。
+There are no hidden extras.没有任何隐蔽的额外费用。
+You may be charged 10% extra for this service.你可能会因此项服务而被额外收取10%的费用。
+She won't pay any extra.她不会支付任何额外费用。
+For foreign orders postage is extra.对于国外订单，邮资是另计的。
+There's an extra blanket in the bottom drawer of the cupboard.衣橱的底柜有一条备用毯。
+Police warned motorists to allow extra time to get to work.警察告诫开车上下班的人要留出富余时间。
+
+
+If something dwindles, it becomes smaller, weaker, or less in number. 缩小; 减少
+dwindle |英 ['dwɪnd(ə)l]  美 ['dwɪndl]| vi. 减少；变小/vt. 使缩小，使减少/
+The factory's workforce has dwindled from over 4,000 to a few hundred.该厂的工人总数已从4000多减少到了几百人。
+
+
+If you have or go through a rough patch, you have a lot of problems for a time. 一段艰难时期
+A patch is a piece of computer program code written as a temporary solution for dealing with a computer virus and distributed by the makers of the original program. (对付计算机病毒的) 补丁
+If you patch something that has a hole in it, you repair it by fastening a patch over the hole. 打补丁
+A patch is a small piece of material that you wear to cover an injured eye. (保护受伤眼睛的) 眼罩
+A patch is a piece of material that you use to cover a hole in something. 补丁
+A patch of land is a small area of land where a particular plant or crop grows. 小块田地
+A patch on a surface is a part of it that is different in appearance from the area around it. (与周围不同的) 块; 片
+patch |英 [pætʃ]  美 [pætʃ]| n. 眼罩；斑点；碎片；小块土地/vt. 修补；解决；掩饰/vi. 打补丁/n. (Patch)人名；(英)帕奇/
+His marriage was going through a rough patch.他的婚姻正处于一段艰难时期。
+Older machines will need a software patch to correct the date.旧的机器需要软件补丁来修正日期。
+One of the mechanics took off the damaged tyre, and took it back to the station to be patched.其中一个机械师取下受损轮胎，把它拿到站里修补。
+He and Walker patched the barn roof.他和沃克修补了那个谷仓的顶。
+She went to the hospital and found him lying down with a patch over his eye.她去医院看见他躺着，眼睛上蒙着眼罩。
+...jackets with patches on the elbows.…肘部打着补丁的夹克。
+...the little vegetable patch in her backyard.…在她后院的小块菜地。
+...a patch of land covered in forest.…一块长着树林的田地。
+There was a small patch of blue in the grey clouds.乌云中透着一小块蓝天。
+...the bald patch on the top of his head.…他头顶上那块秃斑。
+
+
+ The osphradium is a patch of sensory cell.  嗅检器是感觉细胞的一个小块。
+ Although most of their scales have been lost, tunas and mackerels retain a patch of coarse scales near the head called the corselet.  虽然它们的大部分鳞片已经消失，但金枪鱼和鲭鱼头部附近仍保留着一块粗糙的鳞片，称为胸甲。
+ The plane had ploughed a path through a patch of forest before coming to rest in a field.  该飞机从一小块森林中间犁出一条小径，而后停在一片旷野上。
+a patch of || 
+
+
+
+A sketch is a short humorous piece of acting, usually forming part of a comedy show. 幽默短剧; 滑稽小品
+Sketch out means the same as . 概述; 简述
+If you sketch a situation or incident, you give a short description of it, including only the most important facts. 概述; 简述
+A sketch of a situation, person, or incident is a brief description of it without many details. 概述
+If you sketch something, you make a quick, rough drawing of it. 画…的素描; 画…的速写
+A sketch is a drawing that is done quickly without a lot of details. Artists often use sketches as a preparation for a more detailed painting or drawing. 草图; 略图; 素描
+sketch |英 [sketʃ]  美 [skɛtʃ]| n. 素描；略图；梗概/vt. 画素描或速写/vi. 画素描或速写/n. (Sketch)人名；(英)斯凯奇/
+...a five-minute sketch about a folk singer.…一出有关一位民间歌手的5分钟幽默短剧。
+He sketched out plans to give consumers more affordable choices.他简述了几个计划，以给顾客提供更多符合其购买力的选择。
+Cross sketched the story briefly, telling the facts just as they had happened.克罗斯简要地概述了这个事件，如实地讲述了所发生的事情。
+...thumbnail sketches of heads of state and political figures.…国家首脑和政治要员们的简要陈述。
+Clare and David Astor are sketching a view of far Spanish hills.克莱尔和大卫·阿斯特正在素描远处西班牙山峦景色。
+...a sketch of a soldier by Orpen.…一幅奥彭画的一位士兵的素描。
+
+
+If you say that someone did not mean any harm, offence, or disrespect, you are saying that they did not intend to upset or offend people or to cause problems, even though they may in fact have done so. 本意为
+If you say that someone meant to do something, you are saying that they did it deliberately. 有意
+If you say that you mean what you are saying, you are telling someone that you are serious about it and are not joking, exaggerating, or just being polite. 对…当真
+If doing one thing means doing another, it involves doing the second thing. 意味着
+If one thing means another, the first thing leads to the second thing happening. 导致
+If one thing means another, it shows that the second thing exists or is true. 表明…的存在; 表明…属实
+If something means something to you, it is important to you in some way. (对某人) 很重要
+If you ask someone what they mean, you are asking them to explain exactly what or who they are referring to or what they are intending to say. 意指
+If you want to know what a word, code, signal, or gesture means, you want to know what it refers to or what its message is. 意思是…
+mean |英 [miːn]  美 [min]| adj. 平均的；卑鄙的；低劣的；吝啬的/vt. 意味；想要；意欲/n. 平均值/vi. 用意/n. (Mean)人名；(柬)棉/
+Take a hundred and twenty values and calculate the mean.取120个值计算平均数。
+The state's former commissioner of prisons once called Leonard the meanest man he'd ever seen.这个州的前任监狱长曾经把伦纳德称为他所见过的最残忍的人。
+The little girls had locked themselves in the room because Mack had been mean to them.这些小女孩们把自己锁在房间里，因为麦克对她们不友好。
+What accident? You mean Christina's?什么事故？你是说克里斯蒂娜的那次吗？
+"Oh, Gairdner," he said, as if that meant something to him.“啊，盖尔德纳，”他说道，好像这个名字对他来说意味着什么。
+I know what it means to lose a child under such tragic circumstances.我能切身体会在那样悲惨的情况下失去孩子的感觉。
+It was law or classics – I mean English or classics.那是法律或者古典文学–我是说，英语或者古典文学。
+I'm sure he wouldn't mind. I mean, I was the one who asked him.我肯定他不会介意。我的意思是，我就是问他的那个人。
+It was his idea. Gordon's, I mean.那是他的主意。也就是说，戈登的主意。
+John was constantly reassuring me that we were meant to be together.约翰不停地安慰我说，我们注定在一起。
+Summer is the perfect time to catch up on the new books you meant to read.夏天是补看想读的新书的最佳时间。
+I'm sure he didn't mean any harm.我敢肯定他本无恶意。
+If that sounds harsh, it is meant to.如果那声音听起来是刺耳的，它就是如此。
+I didn't mean to hurt you.我不是有意要伤害你。
+He says you're fired if you're not back at work on Friday. And I think he meant it.他说如果你周五不回来上班的话，就会被解雇。我想他是当真的。
+Children universally prefer to live in peace and security, even if that means living with only one parent.孩子们普遍愿意过平静安宁的生活，即使那意味着只能和单亲生活在一起。
+It would almost certainly mean the end of NATO.这的确几乎导致北大西洋公约组织的终结。
+An enlarged prostate does not necessarily mean cancer.肿大的前列腺并不一定表明癌症的存在。
+The idea that she witnessed this shameful incident meant nothing to him.他知道她目击了这可耻的一幕，但这对他来说并不重要。
+Let me illustrate what I mean with an old story.让我用一个老故事来说明我指的是什么吧。
+Do you mean me?你指我吗？
+What does "evidence" mean?是什么意思？
+"Credible" means "believable."的意思是。
+
+
+If you say that someone or something disappears without a trace, you mean that they stop existing or stop being successful very suddenly and completely. 消失得无影无踪
+A trace of something is a very small amount of it. 少许
+If you trace a picture, you copy it by covering it with a piece of transparent paper and drawing over the lines underneath. (用透明纸盖在底样上) 描摹
+If you trace something such as a pattern or a shape, for example, with your finger or toe, you mark its outline on a surface. 勾画出 (轮廓)
+If you trace someone or something, you find them after looking for them. 找到
+Trace back means the same as . 追溯
+If you trace the origin or development of something, you find out or describe how it started or developed. 追溯
+trace |英 [treɪs]  美 [tres]| vi. 追溯；沿路走/vt. 追踪，查探；描绘；回溯/n. 痕迹，踪迹；微量；[仪] 迹线；缰绳/
+One day he left, disappeared without a trace.有一天他离开了，消失得无影无踪。
+Wash them in cold water to remove all traces of sand.用冷水清洗它们以清除所有的沙子。
+She learned to draw by tracing pictures out of old storybooks.她通过描摹旧故事书上的图画来学绘画。
+I traced the course of the river on the map spread out on my briefcase.我在自己公文包上铺展开的地图中勾画出了这条河的流向。
+Police are anxious to trace two men seen leaving the house just before 8am.警察急切想找到在接近早晨8点前被人看到离开那幢房子的两名男子。
+...Bronx residents who trace their families back to Dutch settlers.…将自己的家族追溯到荷兰移民者们的布朗克斯居民。
+The exhibition traces the history of graphic design in America from the 19th century to the present.这个展览会追溯了从19世纪到现在美国平面设计的历史。
+
+
+If you come to someone's defence, you help them by doing or saying something to protect them. 为某人辩护
+In games such as football or hockey, the defence is the group of players in a team who try to stop the opposing players from scoring a goal or a point. 防守队员
+Thedefence is the case that is presented by a lawyer in a trial for the person who has been accused of a crime. You can also refer to this person's lawyers as the defence. (被告对指控的) 答辩; 被告律师
+A defence is something that you say or write which supports ideas or actions that have been criticized or questioned. 辩词
+A defence is something that people or animals can use or do to protect themselves. 防御物
+The defences of a country or region are all its armed forces and weapons. 防卫力量
+Defence is the organization of a country's armies and weapons, and their use to protect the country or its interests. 国防机构
+Defence is action that is taken to protect someone or something against attack. 保护; 防卫
+defence |英/美 [dɪ'fens]| n. 防御；防卫；答辩；防卫设备/
+He realized none of his schoolmates would come to his defence.他意识到没有一个同学会来为他辩护。
+Their defence, so strong last season, has now conceded 12 goals in six games.上个赛季他们的防守队员很强，但现在已经在六场比赛中丢失了12个球。
+The defence was that the records of the interviews were fabricated by the police.答辩词是警察捏造了访谈纪录。
+Chomsky's defence of his approach goes further.乔姆斯基对自己做法的辩解更进了一步。
+Despite anything the science of medicine may have achieved, the immune system is our main defence against disease.不管医疗科学已取得了什么样的进步，免疫系统仍是我们抵抗疾病的主要防御手段。
+He emphasized the need to maintain Britain's defences at a level sufficient to deal with the unexpected.他强调需要将英国的防卫力量维持在足以应付突发事件的水平。
+...the Ministry of Defence....国防部。
+Twenty-eight percent of the federal budget is spent on defence.百分之二十八的联邦预算用于国防。
+The land was flat, giving no scope for defence.土地非常平坦，无法做防卫之用。
+
+
+Expulsion is when someone is forced to leave a place. 被逐出
+Expulsion is when someone is forced to leave a school, university, or organization. 被开除
+expulsion |英 [ɪk'spʌlʃ(ə)n; ek-]  美 [ɪk'spʌlʃən]| n. 驱逐；开除/
+...the expulsion of Yemeni workers.…也门工人的被逐出。
+Her hatred of authority led to her expulsion from high school.她对权威的憎恨导致了她从高中被开除。
+
+
+If you say that someone or something has potential for doing a particular thing, you mean that it is possible they may do it. If there is the potential for something, it may happen. 潜在性
+If you say that someone or something has potential, you mean that they have the necessary abilities or qualities to become successful or useful in the future. 潜力; 潜质
+potentially 潜在地
+You use potential to say that someone or something is capable of developing into the particular kind of person or thing mentioned. 潜在的
+potential |英 [pəˈtenʃl]  美 [pə'tɛnʃl]| n. 潜能；可能性；[电] 电势/adj. 潜在的；可能的；势的/
+The meeting has the potential to be a watershed event.这次会议有可能成为一次分水岭事件。
+John seemed as horrified as I about his potential for violence.和我一样，约翰对他的暴力倾向感到恐惧。
+The school strives to treat students as individuals and to help each one to achieve their full potential.学校力图因材施教，并帮助每位学生发挥他们的全部潜能。
+The boy has great potential.这个男孩有很大的潜力。
+Clearly this is a potentially dangerous situation.显然这是一种具有潜在危险的局势。
+We are aware of the potential problems and have taken every precaution.我们意识到了潜在的问题，已经采取了一切防范措施。
+The company has identified 60 potential customers.该公司已确定了60位潜在的客户。
+
+
+Your passport is an official document containing your name, photograph, and personal details, which you need to show when you enter or leave a country. 护照
+passport |英 ['pɑːspɔːt]  美 ['pæspɔrt]| n. 护照，通行证；手段/
+You should take your passport with you when changing money.你换钱的时候应该带着护照。
+
+
+If something is crafted, it is made skilfully. 精心制作
+You can use craft to refer to any activity or job that involves doing something skilfully. 职业
+A craft is an activity such as weaving, carving, or pottery that involves making things skilfully with your hands. 工艺
+You can refer to a boat, a spacecraft, or an aircraft as a craft. 船; 航天器; 航空器
+craft |英 [krɑːft]  美 [kræft]| n. 工艺；手艺；太空船/vt. 精巧地制作/n. (Craft)人名；(英、德、罗)克拉夫特/
+...original, hand-crafted bags at affordable prices.…价格适中的独创手工包。
+The windows would probably have been crafted in the latter part of the Middle Ages.这些窗户可能是中世纪后期精制而成。
+...the craft of writing.…写作工作。
+...the arts and crafts of the North American Indians.…北美印第安人的美术工艺。
+With great difficulty, the fisherman manoeuvred his small craft close to the reef.渔夫艰难地驾着小船靠近了礁石。
+
+
+A gleam of something is a faint sign of it. 一丝
+If an object or a surface gleams, it reflects light because it is shiny and clean. 闪光
+gleam |英 [gliːm]  美 [ɡlim]| n. 微光；闪光；瞬息的一现/vi. 闪烁；隐约地闪现/vt. 使闪烁；使发微光/
+There was a gleam of hope for a peaceful settlement.和平解决曾有一线希望。
+His black hair gleamed in the sun.他的黑头发在阳光下闪闪发光。
+
+
+ Maybe there was still a gleam of hope.  也许还会有一丝希望。
+ There was a gleam of legs, and instantly the lagoon seemed deserted.  许多腿一闪，礁湖立刻显得空无一人。
+ There was a gleam of hope for a peaceful settlement.  和平解决曾有一线希望。
+a gleam of || 
+
+
+
+If a place or container is filled to overflowing, it is so full of people or things that no more can fit in. 满满地
+If a place or container is overflowing with people or things, it is too full of them. 挤满
+If a liquid or a river overflows, it flows over the edges of the container or place it is in. 溢出; 漫出
+overflow |英 [əʊvə'fləʊ]  美 [,ovɚ'flo]| vi. 溢出；泛滥；充溢/n. 充满，洋溢；泛滥；超值；溢值/vt. 使溢出；使泛滥；使充溢/
+The kitchen garden was full to overflowing with fresh vegetables.菜园里长满了新鲜的蔬菜。
+Schreiber addressed an auditorium overflowing with journalists.施赖伯向挤满了新闻记者的观众席致辞。
+The rivers overflowed their banks.那些河里的水漫过了河岸。
+Pour in some of the broth, but not all of it, because it will probably overflow.倒入部分肉汤，不要全部，因为很可能会溢出来。
+
+
+A solemn promise or agreement is one that you make in a very formal, sincere way. 正式的; 郑重的
+solemnity 严肃; 庄严
+Someone or something that is solemn is very serious rather than cheerful or humorous. (人) 严肃的; (物) 庄严的
+solemn |英 ['sɒləm]  美 ['sɑləm]| adj. 庄严的，严肃的；隆重的，郑重的/
+She made a solemn promise to him when they became engaged that she would give up cigarettes for good.他们订婚时，她向他许下郑重的承诺，说她会永远戒烟。
+The setting for this morning's signing ceremony matched the solemnity of the occasion.今天早上签字仪式的布置符合这种场合的庄严气氛。
+His solemn little face broke into smiles.他那严肃的小脸绽开了笑容。
+
+
+Plants, trees, and flowers can be referred to as vegetation. 植物
+vegetation |英 [vedʒɪ'teɪʃ(ə)n]  美 ['vɛdʒə'teʃən]| n. 植被；植物，草木；呆板单调的生活/
+The inn has a garden of semi-tropical vegetation.这家小旅馆拥有一个亚热带植物园。
+
+
+If something is pliable, you can bend it easily without cracking or breaking it. 柔韧的
+pliable |英 ['plaɪəb(ə)l]  美 ['plaɪəbl]| adj. 柔韧的；柔软的；圆滑的；易曲折的/
+As your baby grows bigger, his bones become less pliable.随着你的宝宝慢慢长大，他的骨头柔韧性会变弱。
+
+
+Apprehension is a feeling of fear that something bad may happen. 忧虑
+apprehension |英 [æprɪ'henʃ(ə)n]  美 [,æprɪ'hɛnʃən]| n. 理解；恐惧；逮捕；忧惧/
+It reflects real anger and apprehension about the future.这反映出对未来真正的愤怒和忧虑。
+
+
+A rave is a big event at which young people dance to electronic music in a large building or in the open air. Raves are often associated with illegal drugs. (常涉及吸毒的) 狂欢聚会
+(as modifier) 盛赞的
+If you rave about something, you speak or write about it with great enthusiasm. 热烈谈论; (写作 )热情地描写
+If someone raves, they talk in an excited and uncontrolled way. 狂乱地说
+rave |英 [reɪv]  美 [rev]| n. 咆哮；胡言乱语；热烈赞美/vi. 咆哮；胡言乱语；狂骂/vt. 咆哮；语无伦次地说/adj. 赞扬的/n. (Rave)人名；(法)拉夫；(西、芬、德、瑞典)拉韦/
+...an all-night rave.…一场通宵狂欢晚会。
+a rave review
+"I'd no idea Milan was so wonderful," he raved.“我之前不知道米兰是那么棒，”他感叹道。
+Rachel raved about the new foods she ate while she was there.雷切尔大谈特谈她在那里吃到的新食物。
+"What is wrong with you, acting like that," she raved.“你是怎么了，会那样做事？”她狂吼道。
+She cried and raved for weeks, and people did not know what to do.她又哭又叫了好几个星期，大家不知道怎么办。
+
+
+
+locomotive |英 [ləʊkə'məʊtɪv]  美 [,lokə'motɪv]| adj. 火车头的；运动的；移动的/n. 机车；火车头/
+
+
+
+
+entrepreneur |英 [ˌɒntrəprəˈnɜː(r)]  美 [ˌɑntrəprəˈnɝ​]| n. 企业家；承包人；主办者/
+
+
+
+If a sports player is doubtful for a match or event, he or she seems unlikely to play, usually because of injury. 不太可能的
+If you say that something is of doubtful quality or value, you mean that it is of low quality or value. 有问题的
+doubtfully 不能肯定地
+If you are doubtful about something, you feel unsure or uncertain about it. 不能肯定的
+If it is doubtful that something will happen, it seems unlikely to happen or you are uncertain whether it will happen. 不大可能的
+doubtful |英 ['daʊtfʊl; -f(ə)l]  美 ['daʊtfəl]| adj. 可疑的；令人生疑的；疑心的；不能确定的/
+Forsyth is doubtful for tonight's game with a badly bruised leg.福赛斯因为严重的腿伤不太可能参加今晚的比赛。
+...selling something that is overpriced or of doubtful quality.…销售价格过高或质量有问题的东西。
+Keeton shook his head doubtfully.基顿将信将疑地摇了摇头。
+I was still very doubtful about the chances for success.我仍然不能肯定成功的可能性有多大。
+For a time it seemed doubtful that he would move at all.短期内他似乎不大可能搬走。
+
+
+morbidly 病态地
+If you describe a person or their interest in something as morbid, you mean that they are very interested in unpleasant things, especially death, and you think this is strange. 病态的
+morbid |英 ['mɔːbɪd]  美 ['mɔrbɪd]| adj. 病态的；由病引起的；恐怖的；病变部位的/
+There's something morbidly fascinating about the thought.这个想法有种令人病态地痴迷的因素。
+Some people have a morbid fascination with crime.有些人对犯罪有种病态的迷恋。
+
+
+A violent movie or television programme contains a lot of scenes that show violence. 多暴力场景的 (电影或电视节目)
+violently 谋杀性地
+A violent death is painful and unexpected, usually because the person who dies has been murdered. 暴力引起的
+violently 强烈地
+If you describe something as violent, you mean that it is said, done, or felt very strongly. 强烈的
+violently 剧烈地
+A violent event happens suddenly and with great force. 猛烈的
+violently 暴力地
+If someone is violent, or if they do something that is violent, they use physical force or weapons to hurt, injure, or kill other people. 暴力的
+violent |英 ['vaɪəl(ə)nt]  美 ['vaɪələnt]| adj. 暴力的；猛烈的/
+It was the most violent movie that I have ever seen.这是我看过的最暴力的电影。
+...a girl who had died violently nine years earlier.…9年前暴亡的一个女孩。
+...an innocent man who had met a violent death.…一名遭暴力致死的无辜男子。
+He was violently scolded.他受到了严厉叱责。
+He had violent stomach pains.他有过剧烈的胃痛。
+Violent opposition to the plan continues.对该计划的强烈反对在持续。
+A nearby volcano erupted violently, sending out a hail of molten rock and boiling mud.一座附近的火山猛烈爆发，喷出大量熔岩和沸腾的泥浆。
+A violent impact hurtled her forward.一股剧烈的冲击力将她猛地向前抛了出去。
+Some opposition activists have been violently attacked.一些反对派激进分子遭到了暴力袭击。
+...violent anti-government demonstrations.…反政府的暴力示威。
+A quarter of current inmates have committed violent crimes.四分之一的在押囚犯实施过暴力犯罪。
+
+
+If a person or thing exemplifies something such as a situation, quality, or class of things, they are a typical example of it. 是…的典范
+exemplify |英 [ɪg'zemplɪfaɪ; eg-]  美 [ɪɡ'zɛmplɪfaɪ]| vt. 例证；例示/
+The room's style exemplifies their ideal of "beauty and practicality."这个房间的风格是他们“美观实用”理想的典范。
+
+
+If you cease something, you stop it happening or working. 停止
+If you cease to do something, you stop doing it. 停止; 不再 (做某事)
+If something ceases, it stops happening or existing. 停止
+cease |英 [siːs]  美 [sis]| vi. 停止；终了/vt. 停止；结束/n. 停止/
+The Tundra Times, a weekly newspaper in Alaska, ceased publication this week.阿拉斯加的周报——《苔原时报》于本周停刊。
+The secrecy about the president's condition had ceased to matter.有关总统健康状况的秘密已经不再举足轻重了。
+He never ceases to amaze me.他总让我惊喜不断。
+At one o'clock the rain had ceased.一点钟时雨已经停了。
+
+
+If people or things rotate, or if someone rotates them, they take turns to do a particular job or serve a particular purpose. 使轮流; 轮流
+When something rotates or when you rotate it, it turns with a circular movement. 旋转
+rotate |英 [rə(ʊ)'teɪt]  美 ['rotet]| vi. 旋转；循环/vt. 使旋转；使转动；使轮流/adj. [植] 辐状的/
+The members of the club can rotate and one person can do all the preparation for the evening.该俱乐部的成员可轮流工作，一个人可做晚会所有的准备工作。
+The earth rotates around the sun.地球围绕太阳旋转。
+
+
+A solution is a liquid in which a solid substance has been dissolved. 溶液
+The solution to a puzzle is the answer to it. 谜底
+A solution to a problem or difficult situation is a way of dealing with it so that the difficulty is removed. 解决办法
+solution |英 [sə'luːʃ(ə)n]  美 [sə'luʃən]| n. 解决方案；溶液；溶解；解答/
+...a warm solution of liquid detergent.…液体洗洁精的温热稀释溶液。
+We invited readers who completed the puzzle to send in their solutions.我们邀请解完谜的读者交出谜底。
+Although he has sought to find a peaceful solution, he is facing pressure to use greater military force.虽然他已设法寻找一个和平的解决办法，但他正面临着使用更大军事力量的压力。
+
+
+If you identify one person or thing with another, you think that they are closely associated or involved in some way. 认为…密切相关
+If you identify with someone or something, you feel that you understand them or their feelings and ideas. 理解; 认同
+If a particular thing identifies someone or something, it makes them easy to recognize, by making them different in some way. 是…的标志; 使易于辨认
+If you identify something, you discover or notice its existence. 发现; 察觉
+If you identify someone or something, you name them or say who or what they are. 确认
+If you can identify someone or something, you are able to recognize them or distinguish them from others. 识别
+identify |英 [aɪ'dentɪfaɪ]  美 [aɪ'dɛntɪfaɪ]| vt. 确定；鉴定；识别，辨认出；使参与；把…看成一样 vi. 确定；认同；一致/
+Moore really hates to play the sweet, passive women that audiences have identified her with.穆尔非常讨厌饰演观众已将她定型的温柔可爱、逆来顺受的女性角色。
+She would only play a role if she could identify with the character.她只愿扮演自己认同的人物角色。
+She wore a little nurse's hat on her head to identify her.她头上戴了一顶小护士帽，这使她易于辨认。
+Scientists claim to have identified chemicals produced by certain plants which have powerful cancer-fighting properties.科学家们声称已经发现某些植物产生的化学物质有强大的抗癌功能。
+Police have already identified 10 murder suspects.警方已经确认了10名谋杀嫌疑犯。
+There are a number of distinguishing characteristics by which you can identify a Hollywood epic.通过其诸多与众不同的特点,你可以识别出好莱坞的史诗影片。
+
+
+Something that is paramount or of paramount importance is more important than anything else. 首要的
+paramount |英 ['pærəmaʊnt]  美 ['pærəmaʊnt]| adj. 最重要的，主要的；至高无上的/n. 最高统治者/
+The children's welfare must be seen as paramount.孩子们的福利必须被视为是最为重要的。
+
+
+If someone combines two activities, they do them both at the same time. 同时做
+If someone or something combines two qualities or features, they have both those qualities or features at the same time. 同时具有
+If two or more groups or organizations combine or if someone combines them, they join to form a single group or organization. 使…合并; 合并
+If you combine two or more things or if they combine, they join together to make a single thing. 使…合为一体; 合为一体
+If you combine two or more things or if they combine, they exist together. 使…结合; 结合
+combine |英 [kəm'baɪn]  美 [kəm'baɪn]| vt. 使化合；使联合，使结合/vi. 联合，结合；化合/n. 联合收割机；联合企业/
+It is possible to combine a career with being a mother.同时既干事业又做母亲是可能的。
+...a clever, far-sighted lawyer who combines legal expertise with social concern.…一位同时具有法律专业知识和社会责任感的聪明而有远见的律师。
+Their system seems to combine the two ideals of strong government and proportional representation.他们的体制似乎同时具有强有力的政府与比例代表制这两种理想状况。
+...an announcement by Steetley and Tarmac of a joint venture that would combine their brick, tile, and concrete operations.…一份由斯蒂特利和塔玛克公司发布的将要组建一个将他们的砖、瓦和混凝土生产业务合并起来的合资企业的通知。
+Combine the flour with 3 tablespoons water to make a paste.把面粉和3大汤匙的水混合起来做成一个面团。
+David Jacobs was given the job of combining the data from these 19 studies into one giant study.大卫·雅各布斯分到的工作是把这19项研究中的数据合为一项大型研究。
+Relief workers say it's worse than ever as disease and starvation combine to kill thousands.援助人员说情况比以往任何时候都糟，因为疾病和饥饿致使数以千计的人死亡。
+The Church has something to say on how to combine freedom with responsibility.教会要讲一讲如何使自由和责任相结合。
+

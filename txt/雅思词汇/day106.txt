@@ -1,32 +1,377 @@
-induce						劝说，导致
-curb							控制，限制
-untold						不可计量的，无穷的，未讲过的
-predisposition				倾向
-climax						高潮
-remedy						治疗药物，改进措施，补偿
-archives					档案，把...存档
-magnificent				壮丽的，极好的
-toil					辛勤工作
-mortal					致命的，极大的，凡人
-flutter				拍动，飘动，振翅而飞，骚动
-obscure				费解的，鲜为人知的，模糊的，遮挡
-deposit					放下，存放，使...沉积，定金
-dignity					尊贵，高尚，自尊
-lucrative			赚大钱的
-hint					暗示，迹象，建议
+induce						vt.劝说，导致
+curb							vt.控制，限制n.控制
+untold						adj.不可计量的，无穷的，未讲过的
+predisposition				n.倾向
+climax						n.高潮vi.高潮
+remedy						n.治疗药物，改进措施，补偿vt.补偿
+archive					n.档案，把...存档
+magnificent				adj.壮丽的，极好的
+toil					vi.辛勤工作n.辛勤工作
+mortal					adj.致命的，极大的n.凡人
+flutter				vi.拍动，飘动，振翅而飞vt.拍动n.拍动，骚动
+obscure				adj.费解的，鲜为人知的，模糊的vt.费解，遮挡
+deposit					vt.放下，存放，使...沉积n.存款，定金，<化学>沉淀
+dignity					n.尊贵，高尚，自尊
+lucrative			adj.赚大钱的
+hint					n.暗示，迹象，建议vt.暗示vi.暗示
 a hint of			少许
-resilience		还原能力，适应能力
-sequence			一系列，顺序
-aptitude			天资
-scrap				碎片，打架，取消
-asset							资产，优势
-throng			一大群，群集
-postmortem		验尸
-time					时间，一段时间，时刻，次
-elsewhere		别处
-monologue		独白
-property							财产，住宅，特性
-displace						使背井离乡，取代
-identical						相同的
-gorgeous					令人愉快的，非常漂亮的
+resilience		n.还原能力，适应能力
+sequence			n.一系列，顺序
+aptitude			n.天资
+scrap				n.碎片，打架vt.取消vi.打架
+a scrap of			少量
+asset							n.资产，优势
+throng			n.一大群vt.群集vi.群集
+postmortem		n.验尸
+time					n.时间，一段时间，时刻，次vt.时间
+times			乘
+elsewhere		adv.别处pron.别处
+monologue		n.独白
+property							n.财产，住宅，特性
+displace						vt.使背井离乡，取代
+identical						adj.相同的
+gorgeous					adj.令人愉快的，非常漂亮的
 \\\\\\\\
+
+If you induce someone to do something, you persuade or influence them to do it. 引诱; 劝说
+To induce a state or condition means to cause it. 引起
+induce |英 [ɪn'djuːs]  美 [ɪn'dus]| vt. 诱导；引起；引诱；感应/
+More than 4,000 teachers were induced to take early retirement.四千多名教师被劝说提前退休。
+Doctors said surgery could induce a heart attack.医生们说手术可能导致心脏病。
+
+
+If you curb an emotion or your behaviour, you keep it under control. 控制 (脾气、行为等)
+Curb is also a noun. 控制; 限制
+If you curb something, you control it and keep it within limits. 抑制
+curb |英 [kɜːb]  美 [kɝb]| n. 抑制；路边；勒马绳/vt. 控制；勒住/
+He curbed his temper.他控制住了自己的脾气。
+He called for much stricter curbs on immigration.他呼吁对移民实行更为严格的限制。
+...advertisements aimed at curbing the spread of AIDS.…旨在抑制爱滋病蔓延的广告。
+
+
+You can use untold to emphasize that an amount or quantity is very large, especially when you are not sure how large it is. 难以计数的
+You can use untold to emphasize how bad or unpleasant something is. 不可名状的(用于强调事情的糟糕程度)
+untold |英 [ʌn'təʊld]  美 [,ʌn'told]| adj. 数不清的；未说过的；未透露的；无限的/
+...the nation's untold millions of anglers.…该国数百万的钓鱼爱好者。
+Landmines have caused untold misery to thousands of innocent people.地雷已给成千上万无辜的人带来了不可名状的苦难。
+
+
+If you have a predisposition to a disease or illness, it is likely that you will suffer from that disease or illness. (患某种疾病的) 倾向
+If you have a predisposition to behave in a particular way, you tend to behave like that because of the kind of person you are or the attitudes you have. (以某方式行事的) 倾向
+predisposition |英 [priːdɪspə'zɪʃn]  美 ['pridɪspə'zɪʃən]| n. 倾向；素质；易染病体质/
+...a genetic predisposition to lung cancer.…一种遗传性患肺癌的倾向。
+There is a thin dividing line between educating the public and creating a predisposition to panic.教育公众和营造恐慌倾向之间只有细小的区别。
+
+
+The event that climaxes a sequence of events is an exciting or important event that comes at the end. You can also say that a sequence of events climaxes with a particular event. 使达到高潮; 达到高潮
+The climax of something is the most exciting or important moment in it, usually near the end. 高潮
+climax |英 ['klaɪmæks]  美 ['klaɪmæks]| n. 高潮；顶点；层进法；极点/
+The demonstration climaxed two weeks of strikes.游行示威达到了两周罢工的高潮。
+It was the climax to 24 hours of growing anxiety.这是24小时不断升温的焦虑的顶点。
+For Pritchard, reaching the Olympics was the climax of her career.对普里查德来说，进军奥林匹克运动会是她事业的巅峰。
+
+
+If you remedy something that is wrong or harmful, you correct it or improve it. 补救; 纠正; 改善
+A remedy is something that is intended to cure you when you are ill or in pain. 治疗; 疗法; 药品
+A remedy is a successful way of dealing with a problem. 解决办法
+remedy |英 ['remɪdɪ]  美 ['rɛmədi]| vt. 补救；治疗；纠正/n. 补救；治疗；赔偿/
+A great deal has been done internally to remedy the situation.内部已经采取了很多措施来挽救局面。
+There are many different kinds of natural remedies to help overcome winter infections.很多不同种类的天然药物有助于克服冬季传染病。
+The remedy lies in the hands of the government.解决办法就在政府手中。
+
+
+If you archive material such as documents or data, you store it in an archive. 把…存档
+Archive material is information that comes from archives. 记入档案的
+Archives are a collection of documents and records that contain historical information. You can also use archives to refer to the place where archives are stored. 档案; 档案馆
+archives |英/美 ['a:kaivz]| n. 档案，档案室；案卷（archive的复数）/v. 把…收集归档；把…存档（archive的三单形式）/
+The system will archive the information so agencies can review it in detail.该系统会将该信息存档，以便各代理机构能对其详细审阅。
+...archive material.…档案资料。
+...the State Library's archives.…国立图书馆的档案。
+
+
+magnificence 出色; 壮丽
+If you say that something or someone is magnificent, you mean that you think they are extremely good, beautiful, or impressive. 出色的; 壮丽的
+magnificent |英 [mæg'nɪfɪs(ə)nt]  美 [mæg'nɪfəsnt]| adj. 高尚的；壮丽的；华丽的；宏伟的/
+I shall never forget the magnificence of the Swiss mountains and the beauty of the lakes.我永远也不会忘记瑞士山岳的壮美和湖泊的秀丽。
+...a magnificent country house in wooded grounds.…林地中一座漂亮的村宅。
+
+
+a net or snare 网
+Toil away means the same as . 辛苦工作
+When people toil, they work very hard doing unpleasant or tiring tasks. 辛苦工作
+toil |英 [tɒɪl]  美 [tɔɪl]| n. 辛苦；苦工；网；圈套/vi. 辛苦工作；艰难地行进/vt. 费力地做；使…过度劳累/
+the toils of fortune had ensnared him
+He doesn't spend every minute toiling away at his desk.他并非每分钟都在伏案辛苦地工作。
+Workers toiled long hours.工人们长时间辛苦工作。
+People who toiled in dim, dank factories were too exhausted to enjoy their family life.在阴暗潮湿的工厂里苦作的人们精疲力竭了，无法享受家庭生活。
+
+
+mortally 极度地
+You can use mortal to emphasize that a feeling is extremely great or severe. 极度的
+mortally 致命地
+You can use mortal to show that something is very serious or may cause death. 致命的
+You can describe someone as a mortal when you want to say that they are an ordinary person. 凡人
+mortality 终有一死
+If you refer to the fact that people are mortal, you mean that they have to die and cannot live forever. 终有一死的
+mortal |英 ['mɔːt(ə)l]  美 ['mɔrtl]| adj. 凡人的；致死的；终有一死的；不共戴天的/n. 人类，凡人/n. (Mortal)人名；(法、葡)莫塔尔/
+Candace admits to having been "mortally embarrassed."坎达丝承认曾经“极其尴尬”。
+When self-esteem is high, we lose our mortal fear of jealousy.当自尊心很强时，我们会失去对嫉妒的极度恐惧。
+He falls, mortally wounded.他摔了，伤得很重。
+The police were defending themselves and others against mortal danger.警察在保卫他们自己和其他人免受致命的危险。
+Tickets seem unobtainable to the ordinary mortal.票对于普通大众来说似乎是得不到的。
+She has suddenly come face to face with her own mortality.突然，她已经与死神面对面了。
+A man is deliberately designed to be mortal. He grows, he ages, and he dies.人是被故意设计成终归一死的。成长，变老，然后死去。
+
+
+If something light such as a small bird or a piece of paper flutters somewhere, it moves through the air with small quick movements. 飘舞; 振翅
+Flutter is also a noun. 飘动; 拍动
+If something thin or light flutters, or if you flutter it, it moves up and down or from side to side with a lot of quick, light movements. 拍动; 飘动
+flutter |英 ['flʌtə]  美 ['flʌtɚ]| vi. 飘动；鼓翼；烦扰/vt. 拍；使焦急；使飘动/n. 摆动；鼓翼；烦扰/
+The paper fluttered to the floor.纸飘落到地板上。
+...a flutter of white cloth.…白布的飘动。
+...a butterfly fluttering its wings.…一只拍动着翅膀的蝴蝶。
+Her chiffon skirt was fluttering in the night breeze.她的薄绸裙在晚风中飘动。
+
+
+To obscure something means to make it difficult to understand. 使…难懂
+If one thing obscures another, it prevents it from being seen or heard properly. 遮掩
+Something that is obscure is difficult to understand or deal with, usually because it involves so many parts or details. 复杂难懂的; 难处理的
+If something or someone is obscure, they are unknown, or are known by only a few people. 鲜为人知的
+obscure |英 [əb'skjʊə]  美 [əb'skjʊr]| adj. 昏暗的，朦胧的；晦涩的，不清楚的；隐蔽的；不著名的，无名的/vt. 使…模糊不清，掩盖；隐藏；使难理解/n. 某种模糊的或不清楚的东西/
+...the jargon that frequently obscures educational writing.…常使教学行文变得复杂难懂的术语。
+Trees obscured his vision; he couldn't see much of the square's southern half.树木遮住了他的视线，他不怎么看得见广场南半部。
+The contracts are written in obscure language.那些合同是用复杂难懂的语言写的。
+The origin of the custom is obscure.该习俗的起源鲜为人知。
+
+
+If you deposit something somewhere, you put it where it will be safe until it is needed again. 寄存
+To deposit someone or something somewhere means to put them or leave them there. 放置
+If you deposit a sum of money, you put it into a bank account or savings account. 存储
+A deposit is a sum of money which you put into a bank account. 银行存款
+A deposit is a sum of money which you pay when you start renting something. The money is returned to you if you do not damage what you have rented. 押金
+A deposit is an amount of a substance that has been left somewhere as a result of a chemical or geological process. 沉积物; 矿床
+A deposit is a sum of money which is part of the full price of something, and which you pay when you agree to buy it. 保证金
+deposit |英 [dɪ'pɒzɪt]  美 [dɪ'pɑzɪt]| n. 存款；押金；订金；保证金；沉淀物/vt. 使沉积；存放/vi. 沉淀/
+You are advised to deposit valuables in the hotel safe.建议您将贵重物品寄存在旅馆的保险柜里。
+Mr. Crenshaw deposited the boys and their suitcases on Mr. Peck's lawn.克伦肖先生把男孩子和他们的手提箱留在了派克先生的草坪上。
+The customer has to deposit a minimum of $100 monthly.顾客每月必须至少存入$100。
+She told me I should make a deposit every week and they'd stamp my book.她告诉我我每周都要存一次钱，而他们会在我的存折上盖印。
+I put down a $500 security deposit for another apartment.我为另一套公寓支付了$500押金。
+...underground deposits of gold and diamonds.…黄金和钻石的地下矿床。
+The initial deposit required to open an account is a minimum 100 dollars.开户需要的首笔存入额是至少100美元。
+
+
+Your dignity is the sense that you have of your own importance and value, and other people's respect for you. 自尊
+If you talk about the dignity of people or their lives or activities, you mean that they are valuable and worthy of respect. 尊严
+If someone behaves or moves with dignity, they are calm, controlled, and admirable. 尊贵
+dignity |英 ['dɪgnɪtɪ]  美 ['dɪɡnəti]| n. 尊严；高贵/
+She still has her dignity.她还有自尊。
+...the sense of human dignity.…人的尊严感。
+...her extraordinary dignity and composure.…她无与伦比的高贵与冷静。
+
+
+A lucrative activity, job, or business deal is very profitable. 获利丰厚的
+lucrative |英 ['luːkrətɪv]  美 ['lukrətɪv]| adj. 有利可图的，赚钱的；合算的/
+Thousands of ex-army officers have found lucrative jobs in private security firms.成千上万的退役军官在私人保安公司找到了薪水丰厚的工作。
+
+
+A hint of something is a very small amount of it. 微量
+A hint is a helpful piece of advice, usually about how to do something. 建议
+If you hint at something, you suggest it in an indirect way. 暗示
+If you take a hint, you understand something that is suggested to you indirectly. 领会暗示
+A hint is a suggestion about something that is made in an indirect way. 暗示
+hint |英 [hɪnt]  美 [hɪnt]| n. 暗示；线索/vt. 暗示；示意/vi. 示意/n. (Hint)人名；(英)欣特；(法)安特/
+She added only a hint of vermouth to the gin.她往杜松子酒里只加了一点儿苦艾酒。
+Here are some helpful hints to make your journey easier.这里是一些有用的建议，可以使你的旅途更舒适。
+She hinted at the possibility of a treat of some sort.她暗示可以找找乐子什么的。
+"I think I hear the telephone ringing."—"Okay, I can take a hint."“我想我听见了电话在响。”—“好的，我明白你的意思。”
+I'd dropped a hint about having an exhibition of his work up here.我暗示要在这里举办一次他的作品展。
+
+
+ There was a hint of accusation in her voice.  她的话音中暗含谴责的意思。
+ There was not a hint of badness in him.  他道德十分高尚。
+ If there's a hint of plastic in your water, don't drink it.  如果水中有少许的塑料，不要喝。
+a hint of || 
+
+
+
+ Similarly, with happiness, I get an abundance of confidence in my skills and in my resilience towards temporary failures to achieve success.  同样地，拥有幸福，我从我的技能和对暂时失败的恢复力中得到了许多自信来实现成功。
+ They like being around other people more, they have more sex per month, and they have more resilience to adverse events.  她们更喜欢有人陪伴，每月有更多的性生活，并且对不良事件的回复能力更强。
+ How do you instill pride and resilience in her?  你怎样逐步帮她树立自豪感和适应能力呢？
+resilience |英 [rɪ'zɪlɪəns]  美 [rɪˈzɪliəns]| n. 恢复力；弹力；顺应力/
+
+
+
+A particular sequence is a particular order in which things happen or are arranged. 次序; 顺序
+A sequence of events or things is a number of events or things that come one after another in a particular order. 一系列; 一连串
+sequence |英 ['siːkw(ə)ns]  美 ['sikwəns]| n. [数][计] 序列；顺序；续发事件/vt. 按顺序排好/
+...the colour sequence yellow, orange, purple, blue, green and white.…黄、橙、紫、蓝、绿和白的颜色顺序。
+...the sequence of events which led to the murder.…导致这起谋杀的一连串事件。
+
+
+Someone's aptitude for a particular kind of work or activity is their ability to learn it quickly and to do it well. 天资
+aptitude |英 ['æptɪtjuːd]  美 [ˈæptɪˌtud, -ˌtjud]| n. 天资；自然倾向；适宜/
+He drifted into publishing and discovered an aptitude for working with accounts.他偶入出版界，发现自己具有管账的天资。
+
+
+Scrap is also a verb. 打架; 斗嘴
+You can refer to a fight or a quarrel as a scrap, especially if it is not very serious. 打架; 斗嘴
+Scrap is metal from old or damaged machinery or cars. 废金属
+Scrap metal or paper is no longer wanted for its original purpose, but may have some other use. 废弃的; 剩余的
+If you scrap something, you get rid of it or cancel it. 取消; 放弃
+Scraps are pieces of unwanted food which are thrown away or given to animals. 残羹剩饭
+A scrap of something is a very small piece or amount of it. 小块; 碎片
+scrap |英 [skræp]  美 [skræp]| n. 碎片；残余物；打架；少量/vt. 废弃；使解体；拆毁/adj. 废弃的；零碎的/vi. 吵架/
+Our guys scrapped and competed and went right to the wire.我们的小伙子们一边吵着，一边比赛，一直到比赛结束。
+He had suffered a mild concussion in a scrap for a loose ball.在一次争球引起的打架中他被打成轻度脑震荡。
+Thousands of tanks, artillery pieces and armoured vehicles will be cut up for scrap.成千上万的坦克、大炮和装甲车将被切割成废金属。
+There's always tons of scrap paper in Dad's office.爸爸的办公室里总有大量的废纸。
+President Hussein called on all countries in the Middle East to scrap nuclear or chemical weapons.侯赛因总统呼吁中东各国放弃核武器或化学武器。
+...the scraps from the Sunday dinner table.…周日餐桌上的残羹剩饭。
+A crumpled scrap of paper was found in her handbag.在她的手提包里找到了一张弄皱的小纸片。
+
+
+The assets of a company or a person are all the things that they own. 资产
+Something or someone that is an asset is considered useful or helps a person or organization to be successful. 资本
+asset |英 ['æset]  美 ['æsɛt]| n. 资产；优点；有用的东西；有利条件；财产；有价值的人或物/n. （法）阿塞（人名）/
+By the end of 1989 the group had assets of $3.5 billion.到1989年底该集团已有35亿美元的资产。
+Our creativity in the field of technology is our greatest asset.我们在技术领域的创造力是我们最大的资本。
+
+
+When people throng somewhere, they go there in great numbers. (人群) 涌向
+A throng is a large crowd of people. 一大群人
+throng |英 [θrɒŋ]  美 [θrɔŋ]| n. 人群；众多/vt. 群集；挤满/vi. 蜂拥而至；群集/adj. 拥挤的/
+The crowds thronged into the stadium.人群涌进了体育馆。
+An official pushed through the throng.一位官员从人群中挤过。
+
+
+A postmortem is an examination of something that has recently happened, especially something that has failed or gone wrong. 事后调查
+A postmortem is a medical examination of a dead person's body in order to find out how they died. 尸检
+postmortem |英/美 [,post'mɔrtəm]| n. 验尸；检视；尸体检查/adj. 死后的；死后发生的/
+The postmortem on the presidential campaign is under way.对总统竞选的事后调查正在进行。
+A postmortem was carried out to establish the cause of death.进行了尸检以确定死因。
+
+
+You can use the times to refer to the present time and to modern fashions, tastes, and developments. For example, if you say that someone keeps up with the times, you mean they are fashionable or aware of modern developments. If you say they are behind the times, you mean they are unfashionable or not aware of them. 时代潮流
+You use time or times to talk about a particular period in history or in your life. (历史上或一生中的特殊) 时期
+You use time to refer to a period of time or a point in time, when you are describing what is happening then. For example, if something happened at a particular time, that is when it happened. If it happens at all times, it always happens. (某事发生的) 时期; 时刻
+If you say that something has been happening for a time, you mean that it has been happening for a fairly long period of time. (相当长的) 一段时间
+You use time to refer to the period that you spend doing something or when something has been happening. 时间 (段)
+You use time to refer to the system of expressing time and counting hours that is used in a particular part of the world. (世界某时区的) 时间
+The time when something happens is the point in the day when it happens or is supposed to happen. (某事发生的) 时间
+You use time to ask or talk about a specific point in the day, which can be stated in hours and minutes and is shown on clocks. 钟点
+Time is what we measure in minutes, hours, days, and years. 时间
+time |英 [taɪm]  美 [taɪm]| n. 时间；时代；次数；节拍；倍数/vt. 计时；测定…的时间；安排…的速度/adj. 定时的；定期的；分期的/n. (Time)人名；(俄)季梅；(英)泰姆；(罗)蒂梅/
+Tom wasted no time in telling me why he had come.汤姆立即告诉我他来的原因。
+Only time will tell whether Broughton's optimism is justified.只有时间能证明布劳顿的乐观有没有道理。
+He rushed home, realizing there was no time to lose.他意识到时间紧迫，急忙赶回家去。
+Time flies when you're having fun.当你开心的时候，时光飞逝。
+Burns had escaped from jail time after time.伯恩斯屡次越狱逃跑。
+My four-year-old daughter cannot quite tell the time.我4岁的女儿不太会看时间。
+"Take your time," Ted told him. "I'm in no hurry."“慢慢来，”泰德告诉他说，“我不着急。”
+Change will come, but it will take time.变化会有的，但需要很长时间。
+Without particular interest and just to pass the time, I read a story.没有特别的兴趣，只是为了消磨时间，我才读了一篇故事。
+It now seems only a matter of time before they resign.如今看来，他们辞职只是个时间问题。
+Don't worry, she'll be on time.别担心，她会准时的。
+"Monopoly" is one of the best-selling games of all time.“大富翁”是有史以来最畅销的游戏之一。
+When they want something, nine times out of ten they get it.当他们想要什么时，十之八九都能得到。
+Five years older than the majority of officers of his same rank, he was determined to make up for lost time.他比同级别的大多数官员大5岁，他决心弥补自己失去的时光。
+They had left early in the morning, on quiet roads, and made good time.他们一大早就出发了，路上行人稀少，所以旅途花的时间比预期要少。
+Before leaving the city, be sure to make time for a shopping trip.在离开这个城市前，一定要腾出时间购一次物。
+Some pulsars keep time better than the Earth's most accurate clocks.有些脉冲星表比地球上最精确的时钟还准。
+As he sang he kept time on a small drum.他唱歌时和着一面小鼓的节拍。
+He's going to be just fine. At his age he'll heal in no time.他会好起来的。以他的年纪，会很快痊愈。
+We got there in good time for the opening ceremony.我们提早到了那儿参加开幕式。
+Presidential elections are due to be held in ten days' time.总统竞选将在10天后如期举行。
+Her body swayed in time with the music.她的身体随着音乐节拍摇摆。
+He would sort out his own problems, in time.他迟早会解决自己的问题。
+I arrived just in time for my flight to Hawaii.我正好及时赶上飞往夏威夷的航班。
+Half the time, I don't have the slightest idea what he's talking about.我常常对他所谈论的没有一丁点儿概念。
+Her daughters visited him from time to time when he was bedridden.他卧床不起时她的女儿们不时地来探望他。
+For the time being, however, immunotherapy is still in its experimental stages.然而，目前免疫疗法还处于试验阶段。
+He promised to love her for all time.他许诺要永远爱她。
+The debate was highly emotional at times.辩论有时非常情绪化。
+I don't think I set out to come up with a different sound for each CD. At the same time, I do have a sense of what is right for the moment.我想我一开始就没打算为每张CD设计不同的声音。然而，我确实能感觉到目前什么是对的。
+I was afraid of her, but at the same time I really liked her.我害怕她，但同时我又实在喜欢她。
+At one time 400 men, women and children lived in the village.曾一度有400个男人、女人和儿童住在这个村子。
+Conditions are still very tense and the fighting could escalate at any time.形势依然很紧张，战斗随时可能升级。
+Beat in the eggs, one at a time.把这些鸡蛋打破，一次一个。
+We can't be together all the time.我们不能一直在一起。
+He was indeed ahead of his time in employing women, ex-convicts, and the handicapped.他的确思想先进，雇用了女性、刑满释放犯和残疾人。
+Find out ahead of time what regulations apply to your situation.提前弄清楚什么规定适合你的情况。
+It's about time a few movie makers with original ideas were given a chance.该是给一些有创意的电影制作者一个机会的时候了。
+A radar gun timed the speed of the baseball.一支雷达枪测出了棒球的速度。
+I timed our visit for March 7.我把我们访问时间定在3月7日。
+He timed the election to coincide with new measures to boost the economy.他把选举的时间安排在振兴经济的新措施出台的时候。
+He was over a second faster than his previous best time.他比自己以前的最好成绩快了一秒多。
+Four times six is 24.4乘以6等于24。
+Its profits are rising four times faster than the average company.其利润正以快于一般公司4倍的速度增长。
+It was her job to make tea three times a day.她的任务是每天泡3次茶。
+Every time she travels on the bus it's delayed by at least three hours.每次她坐公共汽车出行时，至少要耽搁3个小时。
+It was time for him to go to work.该是他去上班的时间了。
+Opinion polls indicated a feeling among the public that it was time for a change.民意测验表明，公众觉得该是改变的时候了。
+Now that Martin has begun to suffer the effects of AIDS, he says his time is running out.马丁已开始遭受艾滋病的折磨，他说自己时日不多了。
+Sarah and I had a great time while the kids were away.萨拉和我在孩子们不在时度过了一段美好的时光。
+This approach is now seriously out of step with the times.这种方法如今与时代潮流严重脱节。
+We'll be alone together, just like old times.我们会单独在一起，就像过去一样。
+They were hard times and his parents had been struggling to raise their family.那是困难时期，他的父母一直挣扎着养家糊口。
+It was a time of terrible uncertainty.那是一段非常不确定的时期。
+By this time he was thirty.到这时他30岁了。
+We were in the same college, which was male-only at that time.我们当时在同一所学院，那时还是男子学院。
+He stayed for quite a time.他呆了很长一段时间。
+He was also for a time an art critic.他曾有相当长的一段时间是一位艺术评论家。
+It's obvious that you need more time to think.显然你需要更多的时间来思考。
+Listen to me, I haven't got much time.听我说，我没有多少时间。
+He wouldn't have the time or money to take care of me.他不会有时间，也没有钱来照看我。
+Adam spent a lot of time in his grandfather's office.亚当在他祖父的办公室里度过了很多时间。
+The incident happened just after ten o'clock local time.该事件发生在当地时间刚过10点。
+Departure times are 08:15 from Baltimore, and 10:15 from Newark.从巴尔的摩的出发时间是08:15，从纽瓦克的出发时间是10:15。
+He asked me the time.他问了我时间。
+"What time is it?"—"Eight o'clock."“几点了？”—“8点。”
+Time passed, and still Ma did not appear.时间一点点过去，可是玛还没有出现。
+...a two-week period of time.…一段为期两周的时间。
+
+
+Elsewhere means in other places or to another place. 在别处地; 去别处地
+elsewhere |英 [els'weə; 'elsweə]  | adv. 在别处；到别处/
+They were living well, in comparison with people elsewhere in the world.和世界上其他地方的人们比起来，他们过着舒适的生活。
+Almost 80 percent of the state's residents were born elsewhere.这个州几乎百分之八十的居民是在其他地方出生的。
+
+
+A monologue is a long speech which is spoken by one person as an entertainment, or as part of an entertainment such as a play. 独白; 独角戏
+If you refer to a long speech by one person during a conversation as a monologue, you mean it prevents other people from talking or expressing their opinions. 长篇大论
+monologue |英 ['mɒn(ə)lɒg]  美 ['mɑnəlɔɡ]| n. 独白/
+...a monologue based on the writing of Quentin Crisp.…根据昆廷·克里斯普的作品改编的一段独白。
+Morris ignored the question and continued his monologue.莫里斯不理会那个问题，继续他的长篇大论。
+
+
+The properties of a substance or object are the ways in which it behaves in particular conditions. (物质、物体的) 特性
+A property is a building and the land belonging to it. 房地产
+Someone's property is all the things that belong to them or something that belongs to them. 财产
+property |英 ['prɒpətɪ]  美 ['prɑpɚti]| n. 性质，性能；财产；所有权/
+A radio signal has both electrical and magnetic properties.无线电信号既具有电的特性也具有磁的特性。
+Cecil inherited a family property near Stamford.塞西尔继承了斯坦福附近的一处家族房产。
+Richard could easily destroy her personal property to punish her for walking out on him.理查德可以轻而易举地毁掉她的私有财产作为对她背叛他的惩罚。
+
+
+If a person or group of people is displaced, they are forced to move away from the area where they live. 使背井离乡
+If one thing displaces another, it forces the other thing out of its place, position, or role, and then occupies that place, position, or role itself. 取代
+displace |英 [dɪs'pleɪs]  美 [dɪs'ples]| vt. 取代；置换；转移；把…免职；排水/
+More than 600,000 people were displaced by the tsunami.超过60万人被海啸搞得背井离乡。
+These factories have displaced tourism as the country's largest source of foreign exchange.这些工厂已经取代了旅游业而成为该国最大的外汇来源。
+
+
+identically 完全相同地
+Things that are identical are exactly the same. 完全相同的
+identical |英 [aɪ'dentɪk(ə)l]  美 [aɪ'dɛntɪkl]| adj. 同一的；完全相同的/n. 完全相同的事物/
+...nine identically dressed female dancers.…9个着装相同的女舞蹈演员。
+The three bombs were virtually identical.这3个炸弹几乎一模一样。
+
+
+If you describe someone as gorgeous, you mean that you find them very sexually attractive. (人) 很性感的
+If you say that something is gorgeous, you mean that it gives you a lot of pleasure or is very attractive. 十分宜人的; 很吸引人的
+gorgeous |英 ['gɔːdʒəs]  美 ['ɡɔrdʒəs]| adj. 华丽的，灿烂的；极好的/
+The cosmetics industry uses gorgeous women to sell its skincare products.化妆品行业用很性感的女人来推销护肤品。
+It's a gorgeous day.今天天气真棒。
+...gorgeous mountain scenery.…壮观的山间景色。
+

@@ -1,32 +1,328 @@
-impact						冲撞，影响
-personality					个性，气质，名人
-inhabitant				居民
-hardy				强壮的
-vessel				船，容器，导管
-convention				大会，习俗，惯例，公约
-coupon				优惠券
-grim					严肃的，严酷的，令人沮丧的，坚定的，恐怖的
-groan				呻吟，抱怨
-invest						投资，使...就职，赋予
-crumble			碎裂，崩溃
-overhaul			全面修订
-commend			称赞，推荐，委托
+impact						n.冲撞，影响vt.影响vi.影响
+personality					n.个性，气质，名人
+inhabitant				n.居民
+hardy				adj.强壮的
+vessel				n.船，容器，<植物>导管
+convention				n.大会，习俗，惯例，公约
+coupon				n.优惠券
+grim					adj.严肃的，严酷的，令人沮丧的，坚定的，恐怖的
+groan				vi.呻吟，抱怨n.呻吟，抱怨
+invest						vt.投资，使...就职，赋予vi.投资
+crumble			vi.碎裂，崩溃vt.碎裂
+overhaul			vt.全面修订n.彻底检修
+commend			vt.称赞，推荐，委托
 commend oneself	受到某人的欣赏
-peculiar				奇怪的，不舒服的，特别的，特有的
-commonwealth			英联邦
-deceive				欺骗，使人误信
-lax				不严谨的
-default					拖欠，默认
-monitor						显示器，班长，观察，监测
-intermediate		中间的，中级的
-nominal				名义上的，微不足道的，正常的
-deadly						致命的，极度的
-exterminate		消灭，灭绝
-contrast					差异，反面，反差，对比
-presumably		大概
-conservatory		暖房
-embed			把...嵌入，使被铭记，使并入
-available						可获得的，有空的，单身的
-Arctic			北极
-onlooker			旁观者
+peculiar				adj.奇怪的，不舒服的，特别的，特有的
+commonwealth			n.英联邦
+deceive				vt.欺骗vi.使人误信
+lax				adj.不严谨的
+default					n.拖欠，默认vi.拖欠，默认
+monitor						n.显示器，班长vt.观察，监测
+intermediate		adj.中间的，中级的
+nominal				adj.名义上的，微不足道的，正常的
+deadly						adj.致命的，极度的adv.极度的
+exterminate		vt.消灭，灭绝
+contrast					n.差异，反面，反差vi.对比vt.对比
+presumably		adv.大概
+conservatory		n.暖房
+embed			vt.<书面>把...嵌入，使被铭记，使并入
+available						adj.可获得的，有空的，单身的
+Arctic			adj.北极n.北极
+onlooker			n.旁观者
 \\\\\\\\
+
+If one object impacts on another, it hits it with great force. 撞击
+To impact a situation, process, or person means to affect them. 对…造成影响; 产生影响
+An impact is the action of one object hitting another, or the force with which one object hits another. 撞击; 撞击力
+The impact that something has on a situation, process, or person is a sudden and powerful effect that it has on them. 影响
+impact |英 ['ɪmpækt]  美 [ɪm'pækt]| n. 影响；效果；碰撞；冲击力/vt. 挤入，压紧；撞击；对…产生影响/vi. 影响；撞击；冲突；压紧（on，upon，with）/
+...the sharp tinkle of metal impacting on stone.…金属撞击石头的刺耳叮当声。
+Such schemes mean little unless they impact people.除非能对人们造成影响，否则这样的计划意义不大。
+The plane is destroyed, a complete wreck
+They say they expect the meeting to have a marked impact on the future of the country.他们说期望这次会议对国家的未来产生显著的影响。
+
+
+You can refer to a famous person, especially in entertainment, broadcasting, or sports, as a personality. (尤指娱乐、广播、体育界) 名人
+If someone has personality or is a personality, they have a strong and lively character. (坚强、活泼的) 个性
+Your personality is your whole character and nature. 性格; 品性
+personality |英 [pɜːsə'nælɪtɪ]  美 [,pɝsə'næləti]| n. 个性；品格；名人/
+...the radio and television personality, Johnny Carson.…广播电视名人约翰尼·卡森。
+...a woman of great personality.…一个很有个性的女人。
+The contest was as much about personalities as it was about politics.这次竞赛既比政治策略，又比品质性格。
+She has such a kind, friendly personality.她有着如此友善的性格。
+
+
+The inhabitants of a place are the people who live there. 居民
+inhabitant |英 [ɪn'hæbɪt(ə)nt]  美 [ɪn'hæbɪtənt]| n. 居民；居住者/
+...the inhabitants of Boise.…博伊斯的居民。
+
+
+Plants that are hardy are able to survive cold weather. (植物) 耐寒的
+hardy |英 ['hɑːdɪ]  | adj. 坚强的；勇敢的；能吃苦耐劳的；鲁莽的/n. 强壮的人；耐寒植物；方柄凿/
+The silver-leaved varieties of cyclamen are not quite as hardy.银色仙客来品种不是十分耐寒。
+
+
+A vessel is a ship or large boat. 船; 舰
+vessel |英 ['ves(ə)l]  美 ['vɛsl]| n. 船，舰；[组织] 脉管，血管；容器，器皿/n. (Vessel)人名；(荷)费塞尔；(俄、意、捷)韦塞尔/
+...a New Zealand navy vessel.…一艘新西兰海军舰艇。
+
+
+A convention is a large meeting of an organization or political group. 大型会议
+A convention is an official agreement between countries or groups of people. 公约
+In art, literature, or the theatre, a convention is a traditional method or style. 惯例
+A convention is a way of behaving that is considered to be correct or polite by most people in a society. 习俗
+convention |英 [kən'venʃ(ə)n]  美 [kən'vɛnʃən]| n. 大会；[法] 惯例；[计] 约定；[法] 协定；习俗/
+...the annual convention of the Society of Professional Journalists.…职业新闻工作者协会的年会。
+...the U.N. convention on climate change.…关于气候变化的联合国公约。
+We go offstage and come back for the convention of the encore.按照惯例，当要求我们再唱一次的时候，我们得先下台然后再返回台上。
+It's just a social convention that men don't wear skirts.男人不穿裙子仅仅是一个社会习俗。
+
+
+A coupon is a small form, for example, in a newspaper or magazine, which you send off to ask for information, to order something, or to enter a competition. (报纸、杂志附的) 传单
+A coupon is a piece of printed paper which allows you to pay less money than usual for a product, or to get it free. 优惠券
+coupon |英 ['kuːpɒn]  美 ['kupɑn]| n. 息票；赠券；联票；[经] 配给券/
+Mail this coupon with your cheque or postal order.把这张表单和你的支票或汇款单一起邮寄。
+...a money-saving coupon.…一张省钱的优惠券。
+
+
+A place that is grim is unattractive and depressing in appearance. (地方) 阴沉的
+A situation or piece of information that is grim is unpleasant, depressing, and difficult to accept. 严酷的; 令人沮丧的
+grim |英 [grɪm]  美 [ɡrɪm]| adj. 冷酷的；糟糕的；残忍的/n. (Grim)人名；(英、德、俄、捷、匈)格里姆/
+The city might be grim at first, but there is a vibrancy and excitement.这个城市也许一开始沉闷，但它有一种活力和激情。
+There was further grim economic news yesterday.昨天有更令人沮丧的经济新闻。
+They painted a grim picture of growing crime.他们描绘了一个犯罪增长的严酷局面。
+
+
+If you say that someone or something is groaning under the weight of something, you think there is too much of that thing. 受重压
+If you say that something such as a table groans under the weight of food, you are emphasizing that there is a lot of food on it. 堆满
+If wood or something made of wood groans, it makes a loud sound when it moves. (木头移动时) 发吱嘎声
+Groan is also a noun. 抱怨
+If you groan about something, you complain about it. 抱怨
+If you groan something, you say it in a low, unhappy voice. 呻吟着说
+Groan is also a noun. 呻吟
+If you groan, you make a long, low sound because you are in pain, or because you are upset or unhappy about something. 呻吟
+groan |英 [grəʊn]  美 [ɡron]| vi. 呻吟；抱怨；发吱嘎声/vt. 呻吟；抱怨/n. 呻吟；叹息；吱嘎声/
+Consumers were groaning under the weight of high interest rates.消费者受着高利率的重压。
+The bar counter groans under the weight of huge plates of the freshest fish.酒吧柜台上堆满了大盘大盘最新鲜的鱼。
+The timbers groan and creak and the floorboards shift.木料吱嘎作响，地板也跟着动。
+Listen sympathetically to your child's moans and groans about what she can't do.要充满同情地去倾听孩子对她不能做的事而发的牢骚和抱怨。
+His parents were beginning to groan about the price of college tuition.他的父母开始抱怨大学的学费。
+"My leg – I think it's broken," Eric groaned.“我的腿–我想是断了，”埃里克呻吟着说。
+She heard him let out a pitiful, muffled groan.她听到他发出一声可怜、压抑的呻吟。
+They glanced at the man on the floor, who began to groan.他们扫了一眼地板上那个开始呻吟的男子。
+Slowly, he opened his eyes. As he did so, he began to groan with pain.他慢慢地睁开眼睛，并开始痛苦地呻吟。
+
+
+To invest someone with rights or responsibilities means to give them those rights or responsibilities legally or officially. 赋予
+If you invest time or energy in something, you spend a lot of time or energy on it because you think it will be useful or successful. 投入 (时间、精力)
+When a government or organization invests in something, it gives or lends money for a purpose that it considers useful or profitable. (政府或机构) 投资
+If you invest in something useful, you buy it, because it will help you to do something more efficiently or more cheaply. 购买
+If you invest in something, or if you invest a sum of money, you use your money in a way that you hope will increase its value, for example, by putting it in a bank, or buying securities or property. 投 (资); 投资
+invest |英 [ɪn'vest]  美 [ɪn'vɛst]| vt. 投资；覆盖；耗费；授予；包围/vi. 投资，入股；花钱买/
+The constitution invested him with certain powers.宪法赋予了他一些权力。
+I would rather invest time in Rebecca than in the kitchen.我宁愿把时间花在丽贝卡身上，也不愿花在厨房里。
+Government agencies must invest more funds in training and development programmes.政府机构必须将更多的资金投入到培训和开发项目中。
+...the need to invest in new technology.…这种投资于新技术的需要。
+The company has invested a six-figure sum in an electronic order-control system which is used to keep stores stocked.这家公司已经耗资6位数购买了电子定单控制系统来为商店进货。
+I'm tired of watching you invest our money in insane projects.我看够了你将我们的钱投到一些荒唐的项目上。
+Many people don't like to invest in stocks.许多人不喜欢投资股票。
+
+
+Crumble away means the same as . (制度、关系或希望) 崩溃
+If something such as a system, relationship, or hope crumbles, it comes to an end. (制度、关系或希望) 崩溃
+Crumble away means the same as . 崩塌
+If an old building or piece of land is crumbling, parts of it keep breaking off. 崩塌
+If something crumbles, or if you crumble it, it breaks into a lot of small pieces. 碎裂; 弄碎
+crumble |英 ['krʌmb(ə)l]  美 ['krʌmbl]| vi. 崩溃；破碎，粉碎/vt. 崩溃；弄碎，粉碎/n. 面包屑/
+Opposition more or less crumbled away.反对党差不多崩溃了。
+Their economy crumbled under the weight of United Nations sanctions.在联合国制裁的重压之下，他们的经济崩溃了。
+Much of the coastline is crumbling away.多处海岸线正在垮塌。
+The high- and low-rise apartment blocks built in the 1960s are crumbling.建于20世纪60年代的高、低层公寓楼正摇摇欲坠。
+Under the pressure, the flint crumbled into fragments.在压力作用下，燧石裂成了碎片。
+
+
+Overhaul is also a noun. 改革; 修订
+If you overhaul a system or method, you examine it carefully and make many changes in it in order to improve it. 改革; 修订
+Overhaul is also a noun. 全面检修
+If a piece of equipment is overhauled, it is cleaned, checked thoroughly, and repaired if necessary. 全面检修
+overhaul |英 [əʊvə'hɔːl]  美 ['ovɚhɔl]| vt. 分解检查，大修；追上并超过/n. 彻底检修，详细检查/
+The study says there must be a complete overhaul of air traffic control systems.研究称必须对航空交通管理系统进行彻底的改革。
+...proposals to overhaul bank regulations.…修订银行规章的提议。
+...the overhaul of a cruiser.…一艘巡洋舰的全面检修。
+They had ensured the plumbing was overhauled a year ago.他们确保管道设备一年前已被彻底检修过。
+
+
+If someone commends a person or thing to you, they tell you that you will find them good or useful. 推荐
+commendation 表扬; 称赞
+If you commend someone or something, you praise them formally. 表杨; 称赞
+commend |英 [kə'mend]  美 [kə'mɛnd]| vt. 推荐；称赞；把…委托/vi. 称赞；表扬/
+I can commend it to him as a realistic course of action.我可以把它作为一套现实的行动方案推荐给他。
+Clare won a commendation for bravery in 1998 after risking his life at the scene of a gas blast.1998年克莱尔因在一次瓦斯爆炸现场甘冒生命危险的勇敢行为而荣获嘉奖。
+The reports commend her bravery.报告称赞她的英勇。
+I commended her for that action.我表扬了她的那次表现。
+
+
+
+commend oneself || 
+
+
+
+peculiarly 特有地; 独特地
+If something is peculiar to a particular thing, person, or situation, it belongs or relates only to that thing, person, or situation. 特有的; 独特的
+peculiarly 不寻常地; 奇怪地
+If you describe someone or something as peculiar, you think that they are strange or unusual, sometimes in an unpleasant way. 不寻常的; 古怪的
+peculiar |英 [pɪ'kjuːlɪə]  美 [pɪ'kjulɪɚ]| adj. 特殊的；独特的；奇怪的；罕见的/n. 特权；特有财产/
+...a peculiarly American conservatism.…一种美国特有的保守主义。
+Punks, soldiers, hippies, and Sumo wrestlers all have distinct hair styles, peculiar to their group.朋克摇滚歌手、士兵、嬉皮士和相扑手都留着他们那个群体特有的独特发型。
+His face had become peculiarly expressionless.他的脸变得异乎寻常地毫无表情。
+Mr. Kennet has a rather peculiar sense of humour.肯尼特先生有一种相当不寻常的幽默感。
+
+
+Commonwealth is used in the official names of some countries, groups of countries, or parts of countries. 联邦
+The commonwealth is an organization consisting of the United Kingdom and most of the countries that were previously under its rule. 英联邦
+commonwealth |英 ['kɒmənwelθ]  美 ['kɑmən'wɛlθ]| n. 联邦；共和国；国民整体/
+...the Commonwealth of Australia.…澳大利亚联邦。
+...the Asian, Caribbean and African members of the commonwealth.…英联邦在亚洲、加勒比海和非洲的成员国。
+
+
+If something deceives you, it gives you a wrong impression and makes you believe something that is not true. 误导
+If you deceive someone, you make them believe something that is not true, usually in order to get some advantage for yourself. 欺骗
+deceive |英 [dɪ'siːv]  美 [dɪ'siv]| v. 欺骗；行骗/
+Do not be deceived by claims on food labels like "light" or "low fat."不要被食品标签上像“少脂”或“低脂”的字样误导。
+He has deceived and disillusioned us all.他欺骗了我们所有人, 令我们所有人失望至极。
+
+
+laxity 松懈
+If you say that a person's behaviour or a system is lax, you mean they are not careful or strict about maintaining high standards. 松懈的; 不严格的
+lax |英 [læks]  美 [læks]| n. 松元音；泻肚/adj. 松的；松懈的；腹泻的/n. (Lax)人名；(英、法、德、意、芬、匈、瑞典)拉克斯/adj. 不严格的；不严谨的/
+The laxity of export control authorities has made a significant contribution to the problem.出口管理当局的松懈是导致此问题的重要因素。
+There have been allegations from survivors that safety standards had been lax.幸存者们指控安全标准不严格。
+One of the problem areas is lax security for airport personnel.其中一个问题是对机场人员的安全措施不严格。
+
+
+If something happens by default, it happens only because something else which might have prevented it or changed it has not happened. 在另外的可能性没有发生的情况下
+In computing, the default is a particular set of instructions which the computer always uses unless the person using the computer gives other instructions. 默认值
+A default situation is what exists or happens unless someone or something changes it. 原样的
+Default is also a noun. 不履行; 违约
+If a person, company, or country defaults on something that they have legally agreed to do, such as paying some money or doing a piece of work before a particular time, they fail to do it. 不履行 (义务); 违约
+default |英 [dɪ'fɔːlt; 'diːfɔːlt]  美 [dɪ'fɔlt]| vi. 拖欠；不履行；不到场/n. 违约；缺席；缺乏；系统默认值/vt. 不履行；不参加（比赛等）；对…处以缺席裁判/
+I would rather pay the individuals than let the money go to the State by default.我宁可把钱付给个人，也不会毫无选择就把钱交给国家。
+The default setting on Windows Explorer will not show these files.视窗浏览器上的默认系统设定不显示这些文档。
+He appeared unimpressed; but then, unimpressed was his default state.他看似不为所动，但是，不为所动就是他的原样。
+The corporation may be charged with default on its contract with the government.该公司可能会被指控违反了与政府签订的合同。
+The credit card business is down, and more borrowers are defaulting on loans.信用卡生意正在走下坡路，更多的借贷人不履行还贷责任。
+
+
+You can refer to a person who checks that something is done correctly, or that it is fair, as a monitor. 监督员
+A monitor is a screen which is used to display certain kinds of information, for example on a computer, in airports, or in television studios. 显示屏
+A monitor is a machine that is used to check or record things, for example processes or substances inside a person's body. 监控器
+If someone monitors radio broadcasts from other countries, they record them or listen carefully to them in order to obtain information. 监听
+If you monitor something, you regularly check its development or progress, and sometimes comment on it. 监控
+monitor |英 ['mɒnɪtə]  美 ['mɔnɪtɚ]| n. 监视器；监听器；监控器；显示屏；班长/vt. 监控/
+Government monitors will continue to accompany reporters.政府监督员们将继续陪同记者们。
+He was watching a game of tennis on a television monitor.他那时正在电视监控器上观看一场网球赛。
+The heart monitor shows low levels of consciousness.心脏监控器显示低意识水平。
+Peter Murray is in Washington and has been monitoring reports out of Monrovia.彼得·默里在华盛顿，一直监听来自蒙罗维亚的报道。
+Officials had not been allowed to monitor the voting.官员们未曾获许监控选举。
+
+
+An intermediate is an intermediate learner. 中级生
+Intermediate learners of something have some knowledge or skill but are not yet advanced. 中级的
+An intermediate stage, level, or position is one that occurs between two other stages, levels, or positions. 中间的
+intermediate |英 [,ɪntə'miːdɪət]  美 [,ɪntɚ'midɪət]| vi. 起媒介作用/adj. 中间的，中级的/n. [化学] 中间物；媒介/
+The ski school coaches beginners, intermediates, and advanced skiers.滑雪学校训练初级、中级和高级水平的滑雪者。
+Students are categorized as novice, intermediate, or advanced.学生分为新生、中级生或高级生。
+Do you make any intermediate stops between your home and work?你在住所和工作地点之间停留吗？
+
+
+In economics, the nominal value, rate, or level of something is the one expressed in terms of current prices or figures, without taking into account general changes in prices that take place over time. 票面上的
+A nominal price or sum of money is very small in comparison with the real cost or value of the thing that is being bought or sold. (价格、金额) 象征性的
+nominally 在名义上
+You use nominal to indicate that someone or something is supposed to have a particular identity or status, but in reality does not have it. 名义上的
+nominal |英 ['nɒmɪn(ə)l]  美 ['nɑmɪnl]| adj. 名义上的；有名无实的；[会计] 票面上的/n. [语] 名词性词/
+Inflation would be lower and so nominal rates would be more attractive in real terms.通货膨胀将要降低，所以名义汇率实际上会更有吸引力。
+I am prepared to sell my shares at a nominal price.我准备以低价卖掉我的股票。
+The road is nominally under the control of UN peacekeeping troops.那条路名义上是在联合国维和部队的控制之下。
+The sultan was still nominally the chief of staff.苏丹在名义上仍是军队领导人。
+As he was still not allowed to run a company, his wife became its nominal head.由于他仍未获准管理公司，他的妻子就成了公司名义上的老板。
+
+
+You can use deadly to emphasize that something has a particular quality, especially an unpleasant or undesirable quality. 极度地
+A deadly situation has unpleasant or dangerous consequences. 极有害的
+If you describe a person or their behaviour as deadly, you mean that they will do or say anything to get what they want, without caring about other people. 不择手段的; 肆无忌惮的
+If something is deadly, it is likely or able to cause someone's death, or has already caused someone's death. 致命的; 致死的
+deadly |英 ['dedlɪ]  美 ['dɛdli]| adj. 致命的；非常的；死一般的/adv. 非常；如死一般地/
+Broadcast news was accurate and reliable but deadly dull.新闻广播准确、可靠，但极其枯燥。
+...the deadly combination of low expectations and low achievement.…低期望值和低成就的不良结合。
+The Duchess levelled a deadly look at Nikko.公爵夫人无所顾忌地瞪了尼克一眼。
+...a deadly disease currently affecting dolphins.…目前影响海豚的一种致命疾病。
+He was acquitted on charges of assault with a deadly weapon.他用凶器伤人的罪名不成立。
+
+
+extermination 消灭
+To exterminate a group of people or animals means to kill all of them. 消灭
+exterminate |英 [ɪk'stɜːmɪneɪt; ek-]  美 [ɪk'stɝmə'net]| vt. 消灭；根除/
+...the extermination of hundreds of thousands of their brethren.…他们几十万同胞的灭绝。
+A huge effort was made to exterminate the rats.花了大气力来消灭这些老鼠。
+
+
+Contrast is the degree of difference between the darker and lighter parts of a photograph, television picture, or painting. (图片、电视画面、绘画中深浅的) 对比度
+If one thing contrasts with another, it is very different from it. 与…形成对比
+If you contrast one thing with another, you point out or consider the differences between those things. 对比 (事物以指出不同点)
+If one thing is in contrast to another, it is very different from it. 与…截然不同
+You say by contrast or in contrast, or in contrast to something, to show that you are mentioning a very different situation from the one you have just mentioned. 相比之下
+A contrast is a great difference between two or more things which is clear when you compare them. (巨大的) 差别
+contrast |英 ['kɒntrɑːst]  美 ['kɑntræst]| vi. 对比；形成对照/vt. 使对比；使与…对照/n. 对比；差别；对照物/
+...a television with brighter colours, better contrast, and digital sound.…一台色彩更亮丽、颜色对比度更好、配有数字音响的电视。
+Johnson's easy charm contrasted sharply with the prickliness of his boss.约翰的随和与他老板的挑剔形成了鲜明的对比。
+Contrast that approach with what goes on in most organizations.对比这个方法与大多数组织运用的方法的不同之处。
+She contrasted the situation then with the present crisis.她把过去的情况与现在的危机进行了对比。
+His public statements have always been in marked contrast to those of his son.他在公共场合的发言总是和他儿子的话截然不同。
+In contrast, the lives of girls in well-to-do families were often very sheltered.相比之下，富裕家庭的女孩子们通常都过着养尊处优的生活。
+The private sector, by contrast, has plenty of money to spend.私营部门相比之下有很多钱可花。
+The two visitors provided a startling contrast in appearance.两位来访者的外貌有惊人的不同。
+...the contrast between town and country.…城乡差别。
+
+
+If you say that something is presumably the case, you mean that you think it is very likely to be the case, although you are not certain. 很可能
+presumably |英 [prɪ'zjuːməblɪ]  美 [prɪ'zuməbli]| adv. 大概；推测起来；可假定/
+The spear is presumably the murder weapon.这矛很可能就是凶器。
+
+
+A conservatory is an institution where musicians are trained. 音乐学院
+conservatory |英 [kən'sɜːvət(ə)rɪ]  美 [kən'sɝvətɔri]| n. 温室；音乐学校/adj. 有保存力的；保存性的/
+...the New England Conservatory of Music.…新英格兰音乐学院。
+
+
+embedded 根深蒂固的
+If something such as an attitude or feeling is embedded in a society or system, or in someone's personality, it becomes a permanent and noticeable feature of it. 使根深蒂固
+embedded 嵌入的
+If an object embeds itself in a substance or thing, it becomes fixed there firmly and deeply. 嵌入
+embed |英 [ɪm'bed; em-]  美 [ɪm'bɛd]| vt. 栽种；使嵌入，使插入；使深留脑中/
+I think that hatred of the other is deeply embedded in our society.我觉得对异己的憎恨在我们的社会中根深蒂固。
+This agreement will be embedded in a state treaty to be signed soon.这项协议将被纳入到一份即将被签署的国家条约中。
+The fossils at Dinosaur Cove are embedded in hard sandstone.恐龙湾中的化石嵌在坚硬的砂岩中。
+One of the bullets passed through Andrea's chest before embedding itself in a wall.其中一颗子弹穿过安德烈亚的胸膛然后嵌入一面墙中。
+
+
+Someone who is available is not busy and is therefore free to talk to you or to do a particular task. 有空的
+availability 可获得性
+If something you want or need is available, you can find it or obtain it. 可获得的
+available |英 [ə'veɪləb(ə)l]  美 [ə'veləbl]| adj. 可获得的；可购得的；可找到的；有空的/
+Mr. Leach is on holiday and was not available for comment.利奇先生在休假，没空作评论。
+...the easy availability of guns.…获取枪支的容易性。
+The shop has about 500 autographed copies of the book available for purchase.这家书店有大约500本该书的签名版本可供购买。
+Since 1978, the amount of money available to buy books has fallen by 17%.自1978年以来，可供买书的钱已减少了17%。
+
+
+If you describe a place or the weather as arctic, you are emphasizing that it is extremely cold. 极冷的
+The Arctic is the area of the world around the North Pole. It is extremely cold and there is very little light in winter and very little darkness in summer. 北极
+Arctic |英 ['ɑːktɪk]  美 ['ɑrktɪk]| adj. 北极的；极寒的/n. 北极圈；御寒防水套鞋/n. (Arctic)人名；(英)阿克蒂克/
+The bathroom, with its spartan pre-war facilities, is positively arctic.这个有简陋战前设施的浴室实在冷极了。
+...winter in the Arctic.…北极的冬天。
+
+
+An onlooker is someone who watches an event take place but does not take part in it. 旁观者
+onlooker |英 ['ɒnlʊkə]  美 ['ɑnlʊkɚ]| n. 旁观者；观众（等于spectator）/
+A handful of onlookers stand in the field watching.少数旁观者站在场地里观看。
+

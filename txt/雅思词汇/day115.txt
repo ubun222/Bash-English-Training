@@ -1,8 +1,64 @@
-substantiate			证实
-allege				声称
-prescribe						嘱咐，规定
-expend				付出，耗费
-thoughtful			沉思的，体贴的
-poultry				家禽
-cater								满足...的需要
+substantiate			vt.证实
+allege				vt.声称
+prescribe						vt.嘱咐，规定
+expend				vt.付出，耗费
+thoughtful			adj.沉思的，体贴的
+poultry				n.家禽
+cater								vi.满足...的需要vt.为...提供饮食
 \\\\\\\\
+
+To substantiate a statement or a story means to supply evidence which proves that it is true. 证实
+substantiate |英 [səb'stænʃɪeɪt]  美 [səb'stænʃɪet]| vt. 证实；使实体化/
+There is little scientific evidence to substantiate the claims.几乎没有能证实这些断言的科学证据。
+
+
+If you allege that something bad is true, you say it but do not prove it. 指称 (但还未被证实)
+allege |英 [ə'ledʒ]  美 [ə'lɛdʒ]| vt. 宣称，断言；提出…作为理由/
+The accused is alleged to have killed a man.该被告据称杀了一个男子。
+She alleged that there was rampant drug use among the male members of the group.她指称该组织中有大量的男性成员吸毒。
+
+
+If a person or set of laws or rules prescribes an action or duty, they state that it must be carried out. 规定
+If a doctor prescribes medicine or treatment for you, he or she tells you what medicine or treatment to have. 开 (药、处方)
+prescribe |英 [prɪ'skraɪb]  美 [prɪ'skraɪb]| vi. 规定；开药方/vt. 规定；开处方/
+...article II of the constitution, which prescribes the method of electing a president.…规定总统选举办法的宪法第二条。
+She took twice the prescribed dose of sleeping tablets.她服用了所开剂量两倍的安眠药。
+The physician examines the patient then diagnoses the disease and prescribes medication.内科医生检查了病人，然后对疾病作出诊断，并开出药方。
+
+
+To expend something, especially energy, time, or money, means to use it or spend it. 花费; 消耗
+expend |英 [ɪk'spend; ek-]  美 [ɪk'spɛnd]| vt. 花费；消耗；用光；耗尽/
+Children expend a lot of energy and may need more high-energy food than adults.孩子们耗能多，可能比成人需要更多高能量的食物。
+
+
+thoughtfully 有思想深度地
+If you describe something such as a book, film, or speech as thoughtful, you mean that it is serious and well thought out. (书籍、电影或讲话等) 有思想深度的
+thoughtfully 考虑周到地
+If you describe someone as thoughtful, you approve of them because they remember what other people want, need, or feel, and try not to upset them. 考虑周到的
+thoughtfully 沉思地
+If you are thoughtful, you are quiet and serious because you are thinking about something. 沉思的
+thoughtful |英 ['θɔːtfʊl; -f(ə)l]  美 ['θɔtfl]| adj. 深思的；体贴的；关切的/
+...these thoughtfully designed machines.…这些经缜密思考而设计的机器。
+...a thoughtful and scholarly book.…一本既有思想深度又有学术价值的书。
+...the bottle of wine he had thoughtfully purchased for the celebrations.…他为庆祝活动特地购买的这瓶葡萄酒。
+...a thoughtful and caring man.…一个考虑周到、关心体贴的男人。
+Daniel nodded thoughtfully.丹尼尔若有所思地点点头。
+Nancy, who had been thoughtful for some time, suddenly spoke.南希沉思半晌后，突然开口说话。
+
+
+Meat from these birds is also referred to as poultry. 家禽肉
+You can refer to chickens, ducks, and other birds that are kept for their eggs and meat as poultry. 家禽
+poultry |英 ['pəʊltrɪ]  美 ['poltri]| n. 家禽/
+The menu features roast meats and poultry.菜单以各种烤肉和家禽肉为特色。
+...a poultry farm.…一个家禽饲养场。
+
+
+If a person or company caters an occasion such as a wedding or a party, they provide food and drink for all the people there. (在婚礼、派对等场合) 提供餐饮服务; 承办酒席
+To cater to something means to take it into account. 考虑
+To cater to a group of people means to provide all the things that they need or want. 满足…需要; 迎合
+cater |英 ['keɪtə]  美 ['ketɚ]| vt. 投合，迎合；满足需要；提供饮食及服务/n. (Cater)人名；(英)凯特/
+...a full-service restaurant equipped to cater large events.…一家承办大型活动及提供全方位服务的饭店。
+...shops that cater to the needs of men.… 经营男士用品的商店。
+Exercise classes cater to all levels of fitness.训练课照顾到各种健康状况。
+We cater to an exclusive clientele.我们满足一个特殊客户群的需求。
+

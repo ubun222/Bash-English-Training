@@ -1,31 +1,304 @@
-escort				护送部队，护卫
-lottery				碰运气的事
-retain						保留，记住，挡住
-undercharge			少收钱
-synonym				同义词
-turf					草地，势力范围
-owe						欠，把...归因于
-deplete				耗尽
-fort					堡垒
-delude				欺骗
-ingenious				心灵手巧的
-compare							比较
-inland						内陆的，国内的
-suppress					镇压，封锁，克制
-terror							恐惧，恐怖的事物
-procedure							程序
-pretext					借口
-flap						袋盖，拍打，襟翼，惊慌，振动
-obsolete					淘汰的，过期的
-deliberate						故意的，慎重的，仔细讨论，认真考虑
-oath						宣誓，咒骂
-depletion					耗尽
-forecast							天气预报，预测
-sore					易疼痛的，气恼的，紧迫的，痛处
-metric				公制的
-plead				乞求，声援，申辩
-wrench				扳手，猛扭，痛苦
-surgeon							外科医生
-compensation					补偿
-reference							提及，引用，考虑，参考，关系
+escort				n.护送部队vt.护卫
+lottery				n.碰运气的事
+retain						vt.保留，记住，挡住
+undercharge			vt.少收钱vi.少收钱
+synonym				n.同义词
+turf					n.草地，势力范围vt.草地
+owe						vt.欠，把...归因于
+deplete				vt.耗尽
+fort					n.堡垒
+delude				vt.欺骗
+ingenious				adj.心灵手巧的
+compare							vt.比较vi.比较n.比较
+inland						adj.内陆的，国内的adv.内陆的
+suppress					vt.镇压，封锁，克制
+terror							n.恐惧，恐怖的事物
+procedure							n.程序
+pretext					n.借口
+flap						n.袋盖，拍打，襟翼，惊慌vt.振动，拍打vi.振动，惊慌，拍打
+obsolete					adj.淘汰的，过期的
+deliberate						adj.故意的，慎重的，vi.仔细讨论，认真考虑vt.仔细讨论，认真考虑
+oath						n.宣誓，咒骂
+depletion					n.耗尽
+forecast							n.天气预报，预测vt.天气预报，预测
+sore					adj.易疼痛的，气恼的，紧迫的n.痛处
+metric				adj.公制的
+plead				vi.乞求，声援，申辩vt.乞求，申辩，借口
+wrench				n.(美)扳手，猛扭，(离别)痛苦vt.猛扭vi.猛扭
+surgeon							n.外科医生
+compensation					n.补偿
+reference							n.提及，引用，考虑，参考，关系vt.引用prep.关于...
 \\\\\\\\
+
+An escort is a person who accompanies another person of the opposite sex to a social event. Sometimes people are paid to be escorts. (异性的) 社交陪同
+An escort is a person who travels with someone in order to protect or guard them. 护送者
+If you escort someone somewhere, you accompany them there, usually in order to make sure that they leave a place or get to their destination. 护送
+escort |英 ['eskɔːt]  美 [ˈeskɔːrt]| n. 陪同；护航舰；护卫队；护送者/vt. 护送；陪同；为…护航/
+My sister needed an escort for a company dinner.我妹为了一个公司晚宴而需要一个社交陪同。
+He arrived with a police escort shortly before half past nine.快到9点半时，他由警察护送到达了。
+I escorted him to the door.我护送他到门口。
+
+
+If you describe something as a lottery, you mean that what happens depends entirely on luck or chance. 靠运气的事
+A lottery is a type of gambling game in which people buy numbered tickets. Several numbers are then chosen, and the people who have those numbers on their tickets win a prize. 彩票抽奖
+lottery |英 ['lɒt(ə)rɪ]  美 ['lɑtəri]| n. 彩票；碰运气的事，难算计的事；抽彩给奖法/
+The stockmarket is a lottery.股市靠的是运气。
+...the national lottery.…全国性的彩票抽奖。
+
+
+To retain something means to continue to have that thing. 保留
+retain |英 [rɪ'teɪn]  美 [rɪ'ten]| vt. 保持；雇；记住/
+The interior of the shop still retains a nineteenth-century atmosphere.那家商店内部依然保持着19世纪的格调。
+
+
+
+undercharge |英 [ˌʌndəˈtʃɑːdʒ]  美 [ˌʌndərˈtʃɑːrdʒ]| vt. 充电不足；索价低于常价；弹药装填不足/n. 充电不足；低的索价；填不够量的火药/
+
+
+
+A synonym is a word or expression which means the same as another word or expression. 同义词
+synonym |英 ['sɪnənɪm]  美 [ˈsɪnənɪm]| n. 同义词；同义字/
+The term "industrial democracy" is often used as a synonym for worker participation.“工业民主”这一词语常被用作“工人参与”的同义词。
+
+
+Someone's turf is the area which is most familiar to them or where they feel most confident. 地盘; 活动范围
+Turf is short, thick, even grass. 草皮
+turf |英 [tɜːf]  美 [tɝf]| n. 草皮；泥炭；跑马场/vt. 覆草皮于/
+Their turf was St.Louis
+They shuffled slowly down the turf toward the cliff's edge.他们在草地上拖着脚步慢慢走向悬崖边。
+
+
+You use owing to when you are introducing the reason for something. 由于
+If you say that you owe it to someone to do something, you mean that you should do that thing because they deserve it. 该为 (某人做某事)
+If you say that you owe someone gratitude, respect, or loyalty, you mean that they deserve it from you. 应给予
+If you say that something owes a great deal to a person or thing, you mean that it exists, is successful, or has its particular form mainly because of them. 得益于
+If you say that you owe a great deal to someone or something, you mean that they have helped you or influenced you a lot, and you feel very grateful to them. 感激
+If someone or something owes a particular quality or their success to a person or thing, they only have it because of that person or thing. 把…归功于
+If you owe money to someone, they have lent it to you and you have not yet paid it back. 欠
+owe |英 [əʊ]  美 [o]| vt. 欠；感激；应给予；应该把……归功于/vi. 欠钱/n. (Owe)人名；(瑞典、挪)奥弗/
+Owing to staff shortages, there was no food on the plane.由于工作人员不足，飞机上没有食物。
+You owe it to yourself to get some professional help.你为了自己着想也该去寻求一些专业的帮助了。
+I can't go; I owe it to him to stay.我不能走，为了他我该留下来。
+I owe you an apology; you must have found my attitude very annoying.我应向你道歉，你一定觉得我的态度挺让人讨厌的。
+Perhaps we owe these people more respect.也许我们应该给予这些人更多的尊敬。
+The island's present economy owes a good deal to tourism.该岛现在的经济大大得益于旅游业。
+As a musician I owe much to the radio station in my home town.作为一名音乐家，我非常感激我家乡的广播电台。
+He owed his survival to his strength as a swimmer.他把自己幸免遇难归功于自己会游泳。
+I always suspected she owed her first job to her friendship with Roger.我总是觉得她得到她的第一份工作是由于她与罗杰的友谊。
+Blake already owed him nearly $50.布莱克已经欠了他近$50。
+The company owes money to more than 60 banks.这家公司欠六十多家银行的钱。
+
+
+depleted 耗尽的
+To deplete a stock or amount of something means to reduce it. 消耗
+deplete |英 [dɪ'pliːt]  美 [dɪ'plit]| vt. 耗尽，用尽；使衰竭，使空虚/
+...Lee's worn and depleted army.…李的精疲力竭的军队。
+...substances that deplete the ozone layer.…消耗臭氧层的物质。
+
+
+If you hold the fort for someone or if you hold down the fort, you take care of things for them while they are somewhere else or are busy doing something else. 代为处理事务
+fort |英 [fɔːt]  美 [fɔrt]| n. 堡垒；要塞；（美）边界贸易站/vt. 设要塞保卫/vi. 构筑要塞/n. (Fort)人名；(法)福尔；(德、英、西、葡、匈)福特/
+"I'll hold down the fort until he's back," Clark said.“在他回来之前我会代他处理事务，”克拉克说。
+His business partner is holding the fort while he is away.他的生意伙伴在他不在的时候代他处理事务。
+
+
+To delude someone into thinking something means to make them believe what is not true. 哄骗
+If you delude yourself, you let yourself believe that something is true, even though it is not true. 欺骗
+delude |英/美 [dɪ'l(j)uːd]| vt. 欺骗；哄骗；诱惑；【罕用】迷惑；逃避；使失望/
+Television deludes you into thinking you have experienced reality, when you haven't.电视诱使你相信你体验到了你实际上并没有体验过的真情实景。
+We delude ourselves that we are in control.我们欺骗自己一切都在我们的控制之下。
+The president was deluding himself if he thought he was safe from such action.如果总统认为他能从这次行动中安然脱身，那就是自欺欺人。
+
+
+Something that is ingenious is very clever and involves new ideas, methods, or equipment. 灵巧的; 新颖的
+ingenious |英 [ɪn'dʒiːnɪəs]  美 [ɪn'dʒinɪəs]| adj. 有独创性的；机灵的，精制的；心灵手巧的/
+...a truly ingenious invention.…一项的确新颖的发明。
+
+
+If one thing compares favourably with another, it is better than the other thing. If it compares unfavourably, it is worse than the other thing. (与…) 比起来 (好、差)
+If you say that something does not compare with something else, you mean that it is much worse. 比得上
+If you compare one person or thing to another, you say that they are like the other person or thing. 认为…像…
+When you compare things, you consider them and discover the differences or similarities between them. 比较
+compare |英 [kəm'peə]  美 [kəm'pɛr]| n. 比较/vt. 比拟，喻为；[语]构成/vi. 相比，匹敌；比较，区别；比拟（常与to连用）/n. (Compare)人名；(意)孔帕雷/
+Our road safety record compares favourably with that of other countries.我们的道路安全纪录比其他国家的好。
+The flowers here do not compare with those at home.这儿的花比不上家里的花。
+Some commentators compared his work to that of James Joyce.一些评论员认为他的作品像詹姆士·乔伊斯的作品。
+Managers analyse their company's data and compare it with data on their competitors.经理们分析他们公司的数据并与其竞争者的数据进行比较。
+Compare the two illustrations in Figure 60.比较一下图60中的两个图示。
+
+
+Inland areas, lakes, and places are not on the coast, but in or near the middle of a country. 内地的; 内陆的
+If something is situated inland, it is away from the coast, toward or near the middle of a country. If you go inland, you go away from the coast, toward the middle of a country. 在内地 (或内陆); 向内地 (或内陆)
+inland |英 ['ɪnlənd; -lænd]  美 [,ɪn'lænd]| n. 内地；内陆/adj. 内陆的；内地的；国内的/adv. 在内地；向内地；向内陆；在内陆/
+...a rather quiet inland town.…一个很安静的内陆城镇。
+It's about 15 minutes' drive inland from Pensacola.从彭萨科拉出发向内陆行驶，大约有15分钟的车程。
+The vast majority live further inland.大多数人居住在更远的内陆。
+
+
+If someone or something suppresses a process or activity, they stop it continuing or developing. 阻止 (活动); 抑制 (过程)
+suppression 封锁
+If someone suppresses a piece of information, they prevent other people from learning it. 封锁
+suppression 抑制
+If you suppress your feelings or reactions, you do not express them, even though you might want to. 抑制 (情感或反应)
+suppression 抑制
+If a natural function or reaction of your body is suppressed, it is stopped, for example by drugs or illness. 抑制 (身体功能或反应)
+suppression 镇压; 压制
+If someone in authority suppresses an activity, they prevent it from continuing, by using force or making it illegal. 镇压; 压制
+suppress |英 [sə'pres]  美 [sə'prɛs]| vt. 抑制；镇压；废止/
+The government is suppressing inflation by increasing interest rates.政府正通过提高利率来抑制通货膨胀。
+The inspectors found no evidence which supported any allegation of suppression of official documents.这些检察官们找不到证据证明对封锁官方文件的任何指控。
+At no time did they try to persuade me to suppress the information.他们从未试图劝我封锁这个消息。
+A mother's suppression of her own feelings can cause problems.一位母亲对她自己情感的压抑可能会导致问题。
+Liz thought of Barry and suppressed a smile.利兹想到了巴里，强忍住一个微笑。
+Eye problems can indicate an unhealthy lifestyle with subsequent suppression of the immune system.眼睛问题表明一种不健康的生活方式以及随后免疫系统所受的抑制。
+The reproduction and growth of the cancerous cells can be suppressed by bombarding them with radiation.癌细胞的繁殖和生长可通过放射线辐射加以抑制。
+...people who were imprisoned after the violent suppression of the pro-democracy movement protests.…赞成民主的抗议活动受暴力镇压后被囚禁的人们。
+...drug traffickers, who continue to flourish despite international attempts to suppress them.…尽管全世界努力镇压却继续猖獗的毒贩子们。
+
+
+A terror is something that makes you very frightened. 使人恐惧的事物
+Terror is violence or the threat of violence, especially when it is used for political reasons. 恐怖活动
+Terror is very great fear. 恐惧
+terror |英 ['terə]  美 ['tɛrɚ]| n. 恐怖；恐怖行动；恐怖时期；可怕的人/n. (Terror)人名；(南非)特罗尔/
+As a boy, he had a real terror of facing people.他小时候其实非常害怕见人。
+The bomb attack on the capital could signal the start of a pre-election terror campaign.对首都的炸弹袭击可能标志着选举前的恐怖活动的开始。
+...the war on terror.…反恐战争。
+I shook with terror whenever I was about to fly in a plane.我每次要坐飞机时都害怕得发抖。
+
+
+A procedure is a way of doing something, especially the usual or correct way. 程序
+procedure |英 [prə'siːdʒə]  美 [prə'sidʒɚ]| n. 程序，手续；步骤/
+Police insist that Michael did not follow the correct procedure in applying for a visa.警方坚持认为迈克尔没有按正确的程序申请签证。
+A biopsy is usually a minor surgical procedure.活组织切除通常是一个较小的外科手术。
+
+
+A pretext is a reason that you pretend has caused you to do something. 托词
+pretext |英 ['priːtekst]  美 ['pritɛkst]| n. 借口；托辞/vt. 以…为借口/
+They wanted a pretext for subduing the region by force.他们需要一个用武力征服那个地区的托词。
+
+
+A flap on the wing of an aircraft is an area along the edge of the wing that can be raised or lowered to control the movement of the aircraft. (飞机的) 副翼
+A flap of cloth or skin, for example, is a flat piece of it that can move freely up and down or from side to side because it is held or attached by only one edge. (一端固定、可自由掀动的布或皮的) 垂悬平片
+If you flap your arms, you move them quickly up and down as if they were the wings of a bird. (双臂像小鸟般) 扇动
+If a bird or insect flaps its wings or if its wings flap, the wings move quickly up and down. 快速振动 (翅膀)
+If something such as a piece of cloth or paper flaps or if you flap it, it moves quickly up and down or from side to side. 使快速摆动; 快速摆动
+flap |英 [flæp]  美 [flæp]| n. 拍打，拍打声；神经紧张；[航] 襟翼/vi. 拍动；神经紧张；鼓翼而飞；（帽边等）垂下/vt. 拍打；扔；拉下帽边；飘动/
+...the sudden slowing as the flaps were lowered.…副翼降下时的突然减速。
+He drew back the tent flap and strode out into the blizzard.他拉开帐篷的门帘，大步走进了暴风雪中。
+...a kid running and flapping her arms.…一个边跑边像小鸟一样上下扇动着双臂的小女孩。
+The bird flapped its wings furiously.那只鸟儿使劲地拍打着翅膀。
+Grey sheets flapped on the clothes line.灰色的床单在晾衣绳上飘动。
+
+
+Something that is obsolete is no longer needed because something better has been invented. 被淘汰的
+obsolete |英 ['ɒbsəliːt]  美 [ɑbsəˌlit]| adj. 废弃的；老式的/n. 废词；陈腐的人/vt. 淘汰；废弃/
+So much equipment becomes obsolete almost as soon as it's made.很多设备几乎刚制造出来就过时了。
+
+
+If you deliberate, you think about something carefully, especially before making a very important decision. 仔细考虑
+deliberately 从容谨慎地
+If a movement or action is deliberate, it is done slowly and carefully. 从容谨慎的
+deliberately 故意地
+If you do something that is deliberate, you planned or decided to do it beforehand, and so it happens on purpose rather than by chance. 故意的
+deliberate |英 [dɪ'lɪb(ə)rət]  美 [dɪ'lɪbərət]| adj. 故意的；深思熟虑的；从容的/vt. 仔细考虑；商议/
+She deliberated over the decision for a good few years before she finally made up her mind.在她最终下定决心之前，她仔细考虑了这个决定多年。
+The Japanese have acted calmly and deliberately.那些日本人表现得镇定且从容。
+...stepping with deliberate slowness up the steep paths.…小心翼翼地缓步走上陡峭的小径。
+It looks as if the blaze was started deliberately.看来那场火是有人故意放的。
+Witnesses say the firing was deliberate and sustained.目击者说这次射击是蓄意的，而且还持续了一段时间。
+
+
+In a court of law, when someone takes the oath, they make a formal promise to tell the truth. You can say that someone is under oath when they have made this promise. (在法庭上的) 宣誓
+An oath is a formal promise, especially a promise to be loyal to a person or country. (尤指忠于某人或国家的) 誓言; 宣誓
+oath |英 [əʊθ]  美 [oθ]| n. 誓言，誓约；诅咒，咒骂/
+Under oath, Andy finally admitted that he had lied.宣誓之后，安迪终于承认他曾撒了谎。
+His girlfriend had gone into the witness box and taken the oath.他的女朋友已进了证人席并宣了誓。
+He took an oath of loyalty to the government.他做了效忠于政府的宣誓。
+
+
+ The depletion, deterioration and exhaustion of resources and the deterioration of the environment have become serious bottlenecks constraining economic and social development.  资源的消耗、恶化以及枯竭，还有环境的不断恶化已经成为了约束社会和经济发展的严重瓶颈。
+ This decreases the device thickness and depletion voltage and consequently reduces material quality requirements and cost of the detector material.  这减少了设备的厚度和电压损耗，从而降低材料的质量要求和探测器的材料成本。
+ Overfishing not only causes depletion in individual fish stocks, but also disruption to entire ecosystems and food webs in the ocean.  过度捕捞不仅引起个别鱼种的消耗，而且还引起海洋中整个生态系统和食物网的崩溃。
+depletion |英 [dɪ'pliːʃn]  美 [dɪ'pliʃən]| n. 消耗；损耗；放血/
+
+
+
+If you forecast future events, you say what you think is going to happen in the future. 预言
+A forecast is a statement of what is expected to happen in the future, especially in relation to a particular event or situation. 预报
+forecast |英 ['fɔːkɑːst]  美 ['fɔrkæst]| vt. 预报，预测；预示/n. 预测，预报；预想/vi. 进行预报，作预测/
+They forecast a humiliating defeat for the president.他们预言总统蒙受羞辱的一次失败。
+He delivered his election forecast.他作了他的选举预报。
+...a forecast of a 2.25 percent growth in the economy.…2.25%经济增长的预报。
+
+
+If something is a sore point with someone, it is likely to make them angry or embarrassed if you try to discuss it. 令人恼怒的事; 令人尴尬的事
+A sore is a painful place on the body where the skin is infected. 痛处
+If you are sore about something, you are angry and upset about it. 恼怒的
+If part of your body is sore, it causes you pain and discomfort. 疼痛的
+sore |英 [sɔː]  美 [sɔr]| adj. 疼痛的，痛心的；剧烈的，极度的；恼火的，发怒的；厉害的，迫切的/n. 溃疡，痛处；恨事，伤心事/n. (Sore)人名；(法)索尔；(意)索雷/
+The continuing presence of American troops on Korean soil remains a very sore point with these students.美国军队继续驻留在韩国领土依然是令这些学生极其恼怒的事情。
+Our backs and hands were covered with sores and burns from the ropes.我们的背和手到处是绳索导致的伤口和灼伤。
+The result is that they are now all feeling very sore at you.结果是他们现在都很生你的气。
+It's years since I've had a sore throat like I did last night.我已经好多年没有像昨晚那样嗓子痛了。
+
+
+Metric means relating to the metric system. 公制的
+metric |英 ['metrɪk]  美 ['mɛtrɪk]| adj. 公制的；米制的；公尺的/n. 度量标准/
+Around 180,000 metric tons of food aid is required.大约需要十八万公吨的食品援助。
+
+
+If you plead a particular thing as the reason for doing or not doing something, you give it as your excuse. 以…为借口
+If you plead the case or cause of someone or something, you speak out in their support or defence. 为…辩护
+When someone charged with a crime pleads guilty or not guilty in a court of law, they officially state that they are guilty or not guilty of the crime. 表示服罪/不服罪
+If you plead with someone to do something, you ask them in an intense, emotional way to do it. 恳求
+plead |英 [pliːd]  美 [plid]| vt. 借口；为...辩护；托称/vi. 恳求；辩护/
+Mr. Giles pleads ignorance as his excuse.贾尔斯先生以不知情作为他的借口。
+He appeared before the committee to plead his case.他出现在委员会上为他的案子辩护。
+Morris had pleaded guilty to robbery.莫里斯已经承认犯有抢劫罪。
+He was kneeling on the floor pleading for mercy.他正跪在地板上请求宽恕。
+The lady pleaded with her daughter to come back home.那位女士恳求她的女儿回家。
+
+
+If someone throws a wrench or throws a monkey wrench into a process, they prevent something happening smoothly by deliberately causing a problem. 阻挠
+If you wrench your neck, you hurt it by pulling or twisting it in an unusual way. 扭伤
+If you wrench yourself free from someone who is holding you, you get away from them by suddenly twisting the part of your body that is being held. 挣脱
+If you wrench something that is fixed in a particular position, you pull or twist it violently, in order to move or remove it. 猛拽; 猛扭
+wrench |英 [ren(t)ʃ]  美 [rɛntʃ]| n. 扳手，扳钳；扭伤；痛苦；歪曲；猛扭/vt. 扭伤；猛扭；曲解；折磨/vi. 扭伤；猛扭；猛绞/n. (Wrench)人名；(英)伦奇/
+The decision will throw a monkey wrench into our efforts to develop a national broadband policy.这一决定将妨碍我们制定一个全国性宽带政策的努力。
+She was involved in a car accident and she wrenched her neck.她被卷入一场车祸，扭伤了脖子。
+He wrenched his arm free.他把手臂挣脱开来。
+She wrenched herself from his grasp.她挣脱了他的把持。
+He felt two men wrench the suitcase from his hand.他感觉有两个人在猛拽他手里的手提箱。
+
+
+A surgeon is a doctor who is specially trained to perform surgery. 外科医生
+surgeon |英 ['sɜːdʒ(ə)n]  美 ['sɝdʒən]| n. 外科医生/n. (Surgeon)人名；(法)叙尔容/
+...a heart surgeon.…一位心脏外科医生。
+
+
+If something is some compensation for something bad that has happened, it makes you feel better. 补偿
+Compensation is money that someone who has experienced loss or suffering claims from the person or organization responsible, or from the state. 补偿金
+compensation |英 [kɒmpen'seɪʃ(ə)n]  美 [,kɑmpɛn'seʃən]| n. 补偿；报酬；赔偿金/
+Helen gained some compensation for her earlier defeat by winning the final open class.海伦通过赢得公开赛的决赛获得了对先前失利的一些补偿。
+They want $20,000 in compensation for each of about 500 claimants.他们想要给约500个投诉者每人2万美元作为补偿金。
+He received one year's salary as compensation for loss of office.他得到一年的薪水作为失去职位的补偿金。
+
+
+You use with reference to or in reference to in order to indicate what something relates to. 关于…
+A reference is a person who gives you a reference, for example when you are applying for a job. 证明人
+A reference is a letter that is written by someone who knows you and which describes your character and abilities. When you apply for a job, an employer might ask for references. 推荐信
+A reference is something such as a number or a name that tells you where you can obtain the information you want. 编号; 标记
+A reference is a word, phrase, or idea which comes from something such as a book, poem, or play and which you use when making a point about something. 引文; 引文出处
+Reference books are ones that you look at when you need specific information or facts about a subject. 供参考的
+Reference is the act of consulting someone or something in order to get information or advice. 咨询; 查阅
+Referenceto someone or something is the act of talking about them or mentioning them. A reference is a particular example of this. 提及
+reference |英 ['ref(ə)r(ə)ns]  美 ['rɛfrəns]| n. 参考，参照；涉及，提及；参考书目；介绍信；证明书/vi. 引用/vt. 引用/
+I am writing with reference to your article on salaries for scientists.我给你写信是要谈谈你写的有关科学家工资的那篇文章。
+The official at the American embassy asked me for two references.美国大使馆的官员要我提供两名证明人。
+The firm offered to give her a reference.公司提出给她开一封推荐信。
+Make a note of the reference number shown on the form.记下表格上的编码。
+...a reference from the Koran.…一段《可兰经》的引文。
+...a useful reference work for teachers.…一本对老师们有用处的参考资料。
+Please keep this sheet in a safe place for reference.请把这张纸放在稳妥的地方以备查阅。
+He made no reference to any agreement.他没有提到任何协议。
+

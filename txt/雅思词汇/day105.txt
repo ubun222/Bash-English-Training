@@ -1,32 +1,349 @@
-wedge					楔子，把...楔住
+wedge					n.楔子vt.把...楔住
 wedge oneself			强行挤入
-ceremony							仪式，礼节
-suicide					自杀，自毁
-swear						发誓，咒骂
-considerable						相当大的，著名的
-judicial						司法的，公正明断的
-catastrophe						灾难
-hose					软管
-minimum								最低限度
-domestic						国内的，家里的
-deficit					赤字
-leave									离开，使处于，剩下，留下，推迟，许可
-abuse							虐待，滥用，辱骂
-feature						特征，方面，以...为特色，占据重要位置
-escalator				自动扶梯
-domain					领域，领土
-expand							扩大，增加
-corresponding			相关的，相似的
-deem						认为
-passion							激情，激愤，情欲，酷爱
-flour						面粉
-collision						碰撞，冲突
-ascribe				把...归因于
-infest				大批出没于
-intervene					介入，阻碍
-rectify				改正，修复
-temptation								诱惑
-smash						击碎，巨大成功
-explosive			炸药，易爆的，一触即发的，暴躁的
-coach						长途汽车，车厢，教练，辅导
+ceremony							n.仪式，礼节
+suicide					n.自杀，自毁
+swear						vt.发誓，咒骂vi.咒骂，发誓
+considerable						adj.相当大的，著名的
+judicial						adj.司法的，公正明断的
+catastrophe						n.灾难
+hose					n.软管vt.软管(浇水)
+minimum								n.最低限度adj.最少的
+domestic						adj.国内的，家里的
+deficit					n.赤字
+leave									vt.离开，使处于，剩下，留下，推迟vi.离开n.假期，<正式>许可
+abuse							vt.虐待，滥用，辱骂n.虐待，滥用，辱骂
+feature						n.特征，方面vt.以...为特色vi.占据重要位置
+escalator				n.自动扶梯
+domain					n.领域，领土
+expand							vt.扩大vi.增加，扩大
+corresponding			adj.相关的，相似的
+deem						vt.认为
+passion							n.激情，激愤，情欲，酷爱
+flour						n.面粉vt.(撒)面粉
+collision						n.碰撞，冲突
+ascribe				vt.把...归因于
+infest				vt.大批出没于
+intervene					vi.介入，阻碍
+rectify				vt.改正，修复
+temptation								n.诱惑
+smash						vt.击碎vi.猛撞n.猛撞，巨大成功
+explosive			n.炸药adj.易爆的，一触即发的，暴躁的
+coach						n.长途汽车，(火车的)车厢，教练vt.辅导(训练)vi.教练
 \\\\\\\\
+
+A wedge of something such as fruit or cheese is a piece of it that has a thick triangular shape. 楔形物
+If you wedge something somewhere, you fit it there tightly. 将…塞入
+If you wedge something, you force it to remain in a particular position by holding it there tightly or by sticking something next to it to prevent it from moving. 把…楔住; 把…抵牢
+wedge |英 [wedʒ]  美 [wɛdʒ]| vt. 楔入；挤进；楔住/vi. 楔入；挤进/n. 楔子；楔形物；导致分裂的东西/n. (Wedge)人名；(英)韦奇/
+Serve with a wedge of lime.和一块楔形酸橙一起端上桌。
+Wedge the plug into the hole.把塞子塞进洞里。
+I shut the shed door and wedged it with a log of wood.我关上小屋的门，然后用一根圆木将它抵牢。
+
+
+
+wedge oneself || 
+
+
+
+Ceremony consists of the special things that are said and done on very formal occasions. (全套) 仪式
+A ceremony is a formal event such as a wedding. 仪式; 典礼
+ceremony |英 ['serɪmənɪ]  美 [ˈsɛrəˌmoʊni]| n. 典礼，仪式；礼节，礼仪；客套，虚礼/
+The republic was proclaimed with great ceremony.以隆重的仪式宣告共和国成立。
+...his grandmother's funeral, a private ceremony attended only by the family.…他祖母的葬礼，一场只有家人参加的私人仪式。
+
+
+People who commit suicide deliberately kill themselves because they do not want to continue living. 自杀
+suicide |英 ['s(j)uːɪsaɪd]  美 ['suɪsaɪd]| n. 自杀；自杀行为；自杀者/adj. 自杀的/vt. 自杀/vi. 自杀/
+...a case of attempted suicide.…一个自杀未遂的案子。
+She tried to commit suicide on several occasions.她曾几次试图进行自杀。
+
+
+If someone is sworn to secrecy or is sworn to silence, they promise another person that they will not reveal a secret. 使承诺 (保密)
+If you say that you swear that something is true or that you can swear to it, you are saying very firmly that it is true. 发誓
+If you swear to do something, you promise in a serious way that you will do it. 郑重许诺
+If someone swears, they use language that is considered to be vulgar or offensive, usually because they are angry. 咒骂
+swear |英 [sweə]  美 [swɛr]| vt. 发誓；咒骂/vi. 发誓，宣誓；诅咒/n. 宣誓；诅咒/
+She was bursting to announce the news but was sworn to secrecy.她忍不住想要发布这条消息，但发过誓要保密。
+I swear on all I hold dear that I had nothing to do with this.我拿我所在乎的一切发誓我与这件事情无关。
+I swear I've told you all I know.我发誓我已经把我所知道的都告诉你了。
+We have sworn to fight cruelty wherever we find it.我们已郑重许诺，无论在哪儿发现暴行我们都要与其斗争。
+Alan swore that he would do everything in his power to help us.艾伦郑重许诺他会尽其所能帮助我们。
+It's wrong to swear and shout.骂人和喊叫是不对的。
+
+
+considerably 相当多地; 相当大地
+Considerable means great in amount or degree. 相当多的; 相当大的
+considerable |英 [kən'sɪd(ə)rəb(ə)l]  美 [kən'sɪdərəbl]| adj. 相当大的；重要的，值得考虑的/
+Children vary considerably in the rate at which they learn these lessons.孩子们学习这些课的速度差别相当大。
+Doing it properly makes considerable demands on our time.把这件事做得到位，要花我们相当多的时间。
+To be without Pearce would be a considerable blow.要是缺了皮尔斯，那会是相当大的打击。
+
+
+judicially 司法地; 审判地
+Judicial means relating to the legal system and to judgments made in a court of law. 司法的; 审判的
+judicial |英 [dʒuː'dɪʃ(ə)l]  美 [dʒʊ'dɪʃəl]| adj. 公正的，明断的；法庭的；审判上的/
+Even if the amendment is passed it can be defeated judicially.即使这项修正案获得了通过，它也有可能通过司法程序被否决。
+...efforts to manipulate the judicial process.…操纵审判程序的努力。
+...an independent judicial system.…一个独立的司法体系。
+
+
+A catastrophe is an unexpected event that causes great suffering or damage. 灾难
+catastrophe |英 [kə'tæstrəfɪ]  美 [kə'tæstrəfi]| n. 大灾难；大祸；惨败/
+From all points of view, war would be a catastrophe.从各个方面来看，战争都会是一场灾难。
+
+
+If you hose something, you wash or water it using a hose. 用水管冲洗; 用水管浇灌
+A hose is a pipe made of rubber or plastic, along which a liquid or gas flows, for example from one part of an engine to another. (用来输送液体或气体的) 软管
+A hose is a long, flexible pipe made of rubber or plastic. Water is directed through a hose in order to do things such as put out fires, clean cars, or water gardens. (橡胶或塑料制的) 水管
+hose |英 [həʊz]  美 [hoz]| n. 软管；长筒袜；男性穿的紧身裤/vt. 用软管浇水；痛打/
+We wash our cars and hose our gardens without even thinking of the water that uses.我们冲洗汽车，浇灌花园，从没考虑过所耗费的水。
+Water in the engine compartment is sucked away by a hose.发动机舱里的水由一条软管吸走。
+You've left the garden hose on.你没有关花园的水管。
+
+
+If you say that something is a particular amount minimum, you mean that this is the smallest amount it should be or could possibly be, although a larger amount is acceptable or very possible. 至少
+Minimum is also a noun. 很小量
+You use minimum to state how small an amount is. 很小的
+Minimum is also a noun. 最小量; 最低限度
+You use minimum to describe an amount which is the smallest that is possible, allowed, or required. 最小量的; 最低限度的
+minimum |英 ['mɪnɪməm]  美 ['mɪnɪməm]| n. 最小值；最低限度；最小化；最小量/adj. 最小的；最低的/
+You're talking over a thousand dollars minimum for one course.你们在讨论一门课程至少一千美元。
+With a minimum of fuss, she produced the grandson he had so desperately wished for.她不声不响地生出了他翘首以待的孙子。
+The basic needs of life are available with minimum effort.生活的基本需求花很小的力气就能得到。
+This will take a minimum of one hour.这最少要用一个小时。
+He was only five feet nine, the minimum height for a policeman.他只有5.9英尺高，这是警察身高要求的底线。
+
+
+A domestic animal is one that is not wild and is kept either on a farm to produce food or in someone's home as a pet. 家养的; 饲养的
+A domestic situation or atmosphere is one which involves a family and their home. 家庭的
+Domestic items and services are intended to be used in people's homes rather than in factories or offices. 家用的
+Domestic duties and activities are concerned with the running of a home and family. 家务的
+Domestic political activities, events, and situations happen or exist within one particular country. 国内的
+domestic |英 [də'mestɪk]  美 [də'mɛstɪk]| adj. 国内的；家庭的；驯养的；一心只管家务的/n. 国货；佣人/
+...a domestic cat.…一只家猫。
+It was a scene of such domestic bliss.这是一幕家庭美满的场景。
+...domestic appliances.…家用电器。
+...a plan for sharing domestic chores.…一份分担家务的计划。
+...over 100 domestic flights a day to 30 leading U.S. destinations.…每天飞往美国30个主要目的地的100多个国内航班。
+
+
+A deficit is the amount by which something is less than what is required or expected, especially the amount by which the total money received is less than the total money spent. 亏损; 赤字
+deficit |英 ['defɪsɪt; 'diː-]  美 ['dɛfəsɪt]| n. 赤字；不足额/
+...a deficit of five billion dollars.…50亿美元的赤字。
+They're ready to cut the federal budget deficit for the next fiscal year.他们已准备好在下一个财政年度削减联邦预算赤字。
+
+
+To leave someone with something, especially when that thing is unpleasant or difficult to deal with, means to make them have it or make them deal with it. 给…留下 (不愉快的东西)
+To leave an amount of something means to keep it available after the rest has been used or taken away. 留出
+If you leave someone to do something, you go away from them so that they do it on their own. If you leave someone to himself or herself, you go away from them and allow them to be alone. 留给…自己做; 把…留下
+If you leave someone doing something, they are doing that thing when you go away from them. 留下…继续作某事
+If you leave a message or an answer, you write it, record it, or give it to someone so that it can be found or passed on. 留下 (信息或答复)
+If you leave something or someone in a particular place, you let them remain there when you go away. If you leave something or someone with a person, you let them remain with that person so they are safe while you are away. 留下
+If you leave your husband, wife, or some other person with whom you have had a close relationship, you stop living with them or you end the relationship. 与…脱离关系; 离开 (某人)
+If you leave an institution, group, or job, you permanently stop attending that institution, being a member of that group, or doing that job. 离开 (机构、团体或工作)
+If you leave a place or person, you go away from that place or person. 离开
+leave |英 [liːv]  美 [liv]| vt. 离开；留下；遗忘；委托/vi. 离开，出发；留下/n. 许可，同意；休假/
+As soon as the police disappear the violence will take up from where it left off.只要警察不在，暴力就会死灰复燃。
+Some people need to confront a traumatic past; others find it better to leave it alone.一些人需要面对伤痕累累的过去；另一些人认为最好不管它。
+he was granted leave to speak
+...maternity leave.…产假。
+Why don't you take a few days' leave?你为什么不休几天假？
+I left my purse back there on the gas pump.我把钱包忘在那儿的油泵上了。
+He died two and a half years later, leaving everything to his wife.他两年半后去世，把所有的财产都留给了他的妻子。
+I think we'd better leave the subject of nationalism.我想我们最好不要再谈论民族主义这个话题了。
+Don't leave it all until the last minute.不要把什么事都留到最后一分钟。
+He was left with no option but to resign.留给他的除了辞职别无选择。
+The judge should not have left it to the jury to decide.法官本不应该让陪审团作决定。
+Affix the blue airmail label and leave the rest to us.贴上蓝色航空邮件标签，剩下的就留给我们办吧。
+Leave a gap at the top and bottom so air can circulate.在顶部和底部各留一点空隙，这样空气就可以流通了。
+I've left the car lights on.我把车灯开着。
+He left the album open on the table.他把相册敞开着放在桌子上了。
+A muscle tear will leave a scar after healing.肌肉撕裂在治愈后会留下伤疤。
+If you don't like the cocktail you ordered, just leave it and try a different one.如果你不喜欢你点的鸡尾酒，剩着吧，尝尝别的。
+...violent disturbances which have left at least ten people dead.…致使至少十人死亡的暴力骚乱。
+...a crash which left him with a broken collar-bone.…一次给他留下锁骨骨折的车祸。
+He always left a little food for the next day.他总是留出一点食物第二天吃。
+Diana took the hint and left them to it.戴安娜心领神会，让他们自己完成这件事。
+I'll leave you to get to know each other.我让你们自己互相认识一下。
+Salter drove off, leaving Callendar surveying the scene.索特尔开车走了，留下加林达继续调查现场。
+I left my phone number with several people.我把我的电话号码留给了几个人。
+You can leave a message on our answering machine.你可以在我们的电话留言机上留言。
+From the moment that Philippe had left her in the bedroom at the hotel, she had heard nothing of him.自从菲利普把她遗弃在旅店房间的那一刻起，她就再没有他的任何消息。
+I left my bags in the car.我把包留在车里。
+He'll never leave you. You needn't worry.他永远都不会离开你的，你不必担心。
+I am leaving to concentrate on writing fiction.我要离开去专心写小说。
+He left school with no qualifications.他离开学校时没有拿到证书。
+My flight leaves in less than an hour.我的航班一小时内起飞。
+He would not be allowed to leave the country.他不准离开这个国家。
+
+
+If you abuse something, you use it in a wrong way or for a bad purpose. 滥用
+You can say that someone is abused if extremely rude and insulting things are said to them. 侮辱
+If someone is abused, they are treated cruelly and violently. 虐待
+Abuse of something is the use of it in a wrong way or for a bad purpose. 滥用
+Abuse is extremely rude and insulting things that people say when they are angry. 辱骂
+Abuse of someone is cruel and violent treatment of them. 虐待
+abuse |英 [ə'bjuːz]  美 [ə'bjus]| n. 滥用；虐待；辱骂；弊端；恶习，陋习/vt. 滥用；虐待；辱骂/n. (Abuse)人名；(英)阿比斯/
+He showed how the rich and powerful can abuse their position.他揭露了有钱有势的人会如何滥用他们的地位。
+He alleged that he was verbally abused by other soldiers.他声称他被其他士兵们口头侮辱了。
+...parents who feel they cannot cope or might abuse their children.…感到自己不能应付或可能虐待孩子的家长们。
+Janet had been abused by her father since she was eleven.詹妮特自从11岁起就被她的父亲虐待。
+What went on here was an abuse of power.这里发生的情况是职权的滥用。
+I was left shouting abuse as the car sped off.当车加速离去时，我在那里破口大骂。
+...victims of sexual and physical abuse.…性虐待和肉体摧残的受害者们。
+...investigation of alleged child abuse.…对涉嫌虐待儿童的调查。
+
+
+If someone or something features in something such as a show, exhibition, or magazine, they are an important part of it. 担任主演; 是 (展览、杂志等) 的重要内容
+When something such as a film or exhibition features a particular person or thing, they are an important part of it. (电影等) 由…主演; (展览会等) 以…为重点
+Your features are your eyes, nose, mouth, and other parts of your face. 容貌
+A geographical feature is something noticeable in a particular area of country, for example, a hill, river, or valley. (地理) 特征
+A feature or a feature film or movie is a full-length film about a fictional situation, as opposed to a short film or a documentary. 正片; 故事片
+A feature is a special article in a newspaper or magazine, or a special programme on radio or television. (报纸、杂志的) 特写; (广播、电视的) 特别节目
+A feature of something is an interesting or important part or characteristic of it. 特点
+feature |英 ['fiːtʃə]  美 ['fitʃɚ]| n. 特色，特征；容貌；特写或专题节目/vi. 起重要作用/vt. 特写；以…为特色；由…主演/
+Jon featured in one of the show's most thrilling episodes.乔恩主演了该剧中最惊悚的几集之一。
+The hour-long programme will be updated each week and feature highlights from recent games.这个一小时的节目将每周更新，重点介绍近期比赛的精彩部分。
+It's a great film and it features a Spanish actor who is going to be a world star within a year.那是一部精彩的电影，它由一位西班牙演员主演，他一年之内就会成为国际明星。
+His features seemed to change.他的容貌似乎变了。
+...one of the area's oddest geographical features - an eight-mile bank of pebbles shelving abruptly into the sea.…这个地区最奇怪的地理特征之一，一条8英里长的鹅卵石堤岸陡然倾斜伸到海里。
+...the first feature-length cartoon, Snow White and the Seven Dwarfs.…第一部故事片长度的卡通片《白雪公主和七个小矮人》。
+We are delighted to see the Sunday Times running a long feature on breast cancer.我们高兴地看到《星期日泰晤士报》刊登了关于乳腺癌的一篇长长的特写。
+The spacious gardens are a special feature of this property.宽敞的花园是这处房产的一大特色。
+Patriotic songs have long been a feature of Kuwaiti life.爱国歌曲长期以来一直是科威特人生活的一个特点。
+
+
+An escalator is a moving staircase on which people can go from one level of a building to another. 电梯
+escalator |英 ['eskəleɪtə]  美 ['ɛskə'letɚ]| n. （美）自动扶梯；电动扶梯/
+Take the escalator to the third floor and it's the last office on the left.乘电梯到4楼，左边最后的那个办公室就是。
+
+
+On the Internet, a domain is a set of addresses that shows, for example, the category or geographical area that an Internet address belongs to. (网络) 域
+A domain is a particular field of thought, activity, or interest, especially one over which someone has control, influence, or rights. 领域
+domain |英 [də(ʊ)'meɪn]  美 [do'men]| n. 领域；域名；产业；地产/n. (Domain)人名；(英、法)多曼/
+An Internet society spokeswoman said .org domain users will not experience any disruptions during the transition.一位互联网协会的女发言人说，在这次过渡中，域名为的用户不会受到任何影响。
+...the great experimenters in the domain of art.…艺术领域里伟大的实验者们。
+
+
+If something such as a business, organization, or service expands, or if you expand it, it becomes bigger and includes more people, goods, or activities. 使…发展; 发展
+If something expands or is expanded, it becomes larger. 扩大; 膨胀
+expand |英 [ɪk'spænd; ek-]  美 [ɪk'spænd]| vt. 扩张；使膨胀；详述/vi. 发展；张开，展开/
+The popular ceramics industry expanded toward the middle of the 19th century.大众陶瓷业在19世纪中叶得到了发展。
+We have to expand the size of the image.我们不得不扩大图像的尺寸。
+Engineers noticed that the pipes were not expanding as expected.工程师们注意到管子并未像预期的那样膨胀。
+
+
+If you correspond with someone, you write letters to them. You can also say that two people correspond. 通信
+corresponding 相应的
+If one thing corresponds to another, there is a close similarity or connection between them. You can also say that two things correspond. 相一致; 相对应
+corresponding |英 [,kɒrɪ'spɒndɪŋ]  美 [,kɔrə'spɑndɪŋ]| adj. 相当的，相应的；一致的；通信的/v. 类似（correspond的ing形式）；相配/
+She still corresponds with friends she met in Majorca nine years ago.她依然和9年前在马略卡岛遇到的朋友们通信。
+The rise in interest rates was not reflected in a corresponding rise in the dollar.利率上调没有反映在相应的美元增值上。
+The two maps of the Rockies correspond closely.这两张落基山脉的地图极为相似。
+Racegoers will be given a number which will correspond to a horse running in a race.观看赛马的观众将领到一个与参赛马匹相对应的号码。
+
+
+If something is deemed to have a particular quality or to do a particular thing, it is considered to have that quality or do that thing. 认为; 相信
+deem |英 [diːm]  美 [dim]| vt. 认为，视作；相信/vi. 认为，持某种看法；作某种评价/n. (Deem)人名；(英)迪姆/
+He says he would support the use of force if the UN deemed it necessary.他说如果联合国认为有必要，他就支持动用武力。
+French and German were deemed essential.法语和德语被认为是必需的。
+
+
+If you have a passion for something, you have a very strong interest in it and like it very much. 酷爱
+Passion is a very strong feeling about something or a strong belief in something. 强烈的感情; 强烈的信任
+Passion is strong sexual feelings toward someone. 强烈的情欲
+passion |英 ['pæʃ(ə)n]  美 ['pæʃən]| n. 激情；热情；酷爱；盛怒/
+She had a passion for gardening.她对于园艺有一份热爱。
+He spoke with great passion.他激情洋溢地讲话。
+...the expression of love and passion.…爱与情欲的表白。
+...my passion for a dark-haired, slender boy named Josh.…我对一个黑头发、身材修长名叫乔希的男孩的强烈的情欲。
+
+
+
+flour |英 ['flaʊə]  美 ['flaʊr]| n. 面粉；粉状物质/vt. 撒粉于；把…磨成粉/n. (Flour)人名；(法)弗卢尔/
+
+
+
+A collision of cultures or ideas occurs when two very different cultures or people meet and conflict. (文化或观点的) 冲突
+A collision occurs when a moving object crashes into something. 碰撞
+collision |英 [kə'lɪʒ(ə)n]  美 [kə'lɪʒən]| n. 碰撞；冲突；（意见，看法）的抵触；（政党等的）倾轧/
+The play represents the collision of three generations.该剧表现了3代人之间的冲突。
+They were on their way to the airport when their van was involved in a collision with a car.他们正往机场赶路的时候，其货车和一辆小汽车相撞了。
+
+
+If you ascribe a quality to someone, you consider that they possess it. 将…归属 (于某人)
+If you ascribe an event or condition to a particular cause, you say or consider that it was caused by that thing. 将…归因于
+ascribe |英 [ə'skraɪb]  美 [ə'skraɪb]| vt. 归因于；归咎于/
+We do not ascribe a superior wisdom to government or the state.我们并不将胜人一筹的智慧归属于政府或国家。
+An autopsy eventually ascribed the baby's death to sudden infant death syndrome.一次尸检最终把这名婴儿的死亡归因于婴儿猝死综合症。
+
+
+infested 成群危害的
+If you say that people or things you disapprove of or regard as dangerous are infesting a place, you mean that there are large numbers of them in that place. 充斥着
+infested 大批出没的
+When creatures such as insects or rats infest plants or a place, they are present in large numbers and cause damage. (昆虫或老鼠等) 大批出没于
+infest |英 [ɪn'fest]  美 [ɪn'fɛst]| vt. 骚扰；寄生于；大批出没；大批滋生/
+The road further south was infested with bandits.更南边的公路盗匪猖獗。
+Crime and drugs are infesting the inner cities.犯罪和毒品充斥着市中心区。
+The prison is infested with rats.那座监狱里鼠满为患。
+...pests like aphids which infest cereal crops.…像蚜虫那样大肆侵害谷类作物的害虫。
+
+
+If an event intervenes, it happens suddenly in a way that stops, delays, or prevents something from happening. 干扰
+If you intervene, you interrupt a conversation in order to add something to it. 插话
+If you intervene in a situation, you become involved in it and try to change it. 干预
+intervene |英 [ɪntə'viːn]  美 [,ɪntɚ'vin]| vi. 干涉；调停；插入/
+The mailboat arrived on Friday mornings unless bad weather intervened.除非受到恶劣天气的干扰，邮船于星期五上午到达。
+Hernandez intervened and told me to stop it.贺尔南德兹插话，不让我再说下去。
+The situation calmed down when police intervened.警察干预后，局势平静了下来。
+
+
+If you rectify something that is wrong, you change it so that it becomes correct or satisfactory. 矫正; 改正
+rectify |英 ['rektɪfaɪ]  美 ['rɛktɪfaɪ]| vt. 改正；精馏；整流/
+Only an act of Congress could rectify the situation.只有国会的法案才能扭转这种局面。
+
+
+If you feel you want to do something or have something, even though you know you really should avoid it, you can refer to this feeling as temptation. You can also refer to the thing you want to do or have as a temptation. 诱惑
+temptation |英 [tem(p)'teɪʃ(ə)n]  美 [tɛmp'teʃən]| n. 引诱；诱惑物/
+Will they be able to resist the temptation to buy?他们能抵抗得住购买的诱惑吗？
+
+
+To smash a political group or system means to deliberately destroy it. 搞垮 (政治集团或体制)
+If something smashes or is smashed against something solid, it moves very fast and with great force against it. 使猛撞; 撞击
+If you smash through a wall, gate, or door, you get through it by hitting and breaking it. 撞破 (墙或门) 而入
+If you smash something or if it smashes, it breaks into many pieces, for example, when it is hit or dropped. 打碎; 破碎
+smash |英 [smæʃ]  美 [smæʃ]| vt. 粉碎；使破产；溃裂/n. 破碎；扣球；冲突；大败/vi. 粉碎；打碎/adj. 了不起的；非常轰动的；出色的/
+Their attempts to clean up politics and smash the power of party machines failed.他们整治政治和搞垮党派组织权力的企图失败了。
+The bottle smashed against a wall.那瓶子撞到了一面墙上。
+The demonstrators used trucks to smash through embassy gates.示威者们用卡车撞破大门闯进大使馆。
+A crowd of youths started smashing windows.一群年轻人开始打碎窗户。
+Someone smashed a bottle.有人打碎了一个瓶子。
+
+
+If you describe someone as explosive, you mean that they tend to express sudden violent anger. 脾气暴躁的
+An explosive situation is likely to have difficult, serious, or dangerous effects. 爆炸性的 (局势)
+An explosive growth is a sudden, rapid increase in the size or quantity of something. 暴涨的
+Something that is explosive is capable of causing an explosion. 能引起爆炸的
+An explosive is a substance or device that can cause an explosion. 炸药; 爆炸物
+explosive |英 [ɪk'spləʊsɪv; ek-]  美 [ɪk'splosɪv; ɪk'splozɪv]| adj. 爆炸的；爆炸性的；爆发性的/n. 炸药；爆炸物/
+He's inherited his father's explosive temper.他遗传了他父亲的火暴性子。
+He appeared to be treating the potentially explosive situation with some sensitivity.他似乎正在有些敏感地处理潜在的爆炸性局面。
+The explosive growth in casinos is one of the most conspicuous signs of Westernization.赌场数量的暴涨是最明显的西化标志之一。
+The explosive device was timed to go off at the rush hour.该爆炸装置定在交通高峰时间爆炸。
+...one-hundred-and-fifty pounds of Semtex explosive.…150磅的塞姆汀塑料炸药。
+
+
+If you coach someone, you give them special teaching in a particular subject, especially in order to prepare them for an examination. (针对某科目，尤指是考前进行的) 辅导
+When someone coaches a person or a team, they help them to become better at a particular sport. (体育) 训练
+A coach is an enclosed vehicle with four wheels which is pulled by horses, and in which people used to travel. Coaches are still used for ceremonial events in some countries, such as Britain. (用于外出旅行或仪式活动的) 四轮马车
+A coach is someone who gives people special teaching in a particular subject, especially in order to prepare them for an examination. (针对某科目，尤指进行考前指导的) 辅导员
+A coach is a person who is in charge of a sports team. (体育队的) 领队
+A coach is someone who trains a person or team of people in a particular sport. 教练
+coach |英 [kəʊtʃ]  美 [kotʃ]| n. 教练；旅客车厢；长途公车；四轮大马车/vt. 训练；指导/vi. 作指导；接受辅导；坐马车旅行/n.  蔻驰（皮革品牌）/
+He gently coached me in French.他和蔼地辅导我法语。
+After her pro playing career, she coached a golf team in San Jose.在职业球员生涯结束之后，她在圣何塞训练一支高尔夫球队。
+...a coach pulled by six black horses.…一辆6匹黑马拉的4轮马车。
+What you need is a drama coach.你需要的是一位戏剧指导。
+...the women's football coach at Rowan University.…罗恩大学女子足球队的领队。
+Tony Woodcock has joined the team as coach.托尼•伍德科克已经作为教练加入了队伍。
+

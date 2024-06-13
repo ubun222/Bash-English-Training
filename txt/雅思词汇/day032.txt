@@ -1,0 +1,355 @@
+logic					n.逻辑学，理由
+singular					n.单数形式adj.单数的，非凡的
+hell						n.地狱，磨难，非常
+practical						adj.实际的(实用的)，切实可行的
+shuttle					vi.往返运行n.往返两地的运输工具
+offset				vt.抵消n.抵消
+destiny				n.命运
+disorder				n.混乱，失调
+denial				n.否认，脱离关系(拒绝给予)
+spin							vt.快速转动，纺，编造vi.快速转动，纺n.快速转动
+onset				n.开始
+native						adj.出生的，当地的n.本地人
+overwrought			adj.过分紧张的，过于细腻的
+roast							vt.烤，猛烈抨击vi.烤adj.烤n.烤
+survey				n.调查，测绘，概述vt.调查，测绘，概述
+profile			n.侧面，形象，轮廓，概述vt.概述
+offspring			n.子女
+practicable		adj.可行的，适用的
+discharge						vt.解雇，流出(排放)，履行，出院vi.流出n.出院，履行
+chorus						n.合唱队vt.齐声说
+statute			n.成文法，章程
+latitude			n.纬度，自由
+rot								vi.腐烂，vt.腐烂n.腐烂，恶化
+phase				n.阶段vt.阶段
+ruffle			vt.弄乱，快速翻动，竖起，扰乱，使生气
+diverse						adj.多种多样的
+wick			n.烛芯，灯芯，火芯
+wicked			adj.恶毒的，有害的，极端的，顽皮的，很棒的
+omit				vt.删除，疏忽
+diploma						n.毕业文凭
+crack			n.裂缝，漏洞，噼啪声，猛击，尝试vt.裂开vi.裂开
+\\\\\\\\
+
+A particular kind of logic is the way of thinking and reasoning about things that is characteristic of a particular type of person or particular field of activity. (某种人或某行为领域的) 逻辑
+The logic of a conclusion or an argument is its quality of being correct and reasonable. (结论或观点的) 逻辑
+Logic is a method of reasoning that involves a series of statements, each of which must be true if the statement before it is true. 逻辑 (学)
+logic |英 ['lɒdʒɪk]  美 ['lɑdʒɪk]| n. 逻辑；逻辑学；逻辑性/adj. 逻辑的/
+The plan was based on sound commercial logic.这个计划建立在合理的商业逻辑之上。
+I don't follow the logic of your argument.我不理解你观点的逻辑。
+Apart from criminal investigation techniques, students learn forensic medicine, philosophy and logic.除犯罪调查技术外，学生们还学习法医学、哲学和逻辑学。
+
+
+The singular of a noun is the form of it that is used to refer to one person or thing. (名词的) 单数形式
+The singular form of a word is the form that is used when referring to one person or thing. (名词) 单数的
+singular |英 ['sɪŋgjʊlə]  美 ['sɪŋɡjəlɚ]| adj. 单数的；单一的；非凡的；异常的/n. 单数/
+The inhabitants of the Arctic are known as the Inuit. The singular is Inuk.北极居民被称作，其单数形式是。
+...the fifteen case endings of the singular form of the Finnish noun.…芬兰语名词单数形式的15种格结尾。
+
+
+If you say that someone is going hell for leather, you are emphasizing that they are doing something or are moving very quickly and perhaps carelessly. 飞快地
+If you say that someone can go to hell, you are emphasizing angrily that you do not care about them and that they will not stop you doing what you want. 见鬼去吧
+If you tell someone to go to hell, you are angrily telling them to go away and leave you alone. 滚开
+You can use from hell after a noun when you are emphasizing that something or someone is extremely unpleasant or evil. 极坏
+If someone does something for the hell of it, or just for the hell of it, they do it for fun or for no particular reason. 只是为了好玩
+You can use as hell after adjectives or some adverbs to emphasize the adjective or adverb. 很
+Hell is used by some people when they are angry or excited, or when they want to emphasize what they are saying. This use could cause offence. 该死
+If you say that a particular situation or place is hell, you are emphasizing that it is extremely unpleasant. 令人痛苦不堪的处境 (或地方)
+In some religions, hell is the place where the Devil lives, and where wicked people are sent to be punished when they die. Hell is usually imagined as being under the ground and full of flames. 地狱
+hell |英 [hel]  美 [hɛl]| n. 地狱；究竟（作加强语气词）；训斥；黑暗势力/vi. 过放荡生活；飞驰/int. 该死；见鬼（表示惊奇、烦恼、厌恶、恼怒、失望等）/n. (Hell)人名；(柬)海；(西)埃利；(德、匈、捷、罗、芬、瑞典)黑尔/
+To hell with this, I'm getting out of here.让它见鬼去吧，我要离开这里了。
+What the hell, I thought, at least it will give the lazy old man some exercise.不管它，我想，至少这会让那个懒老头活动活动筋骨。
+I hope to hell you're right.我打心底里希望你是对的。
+All of you seem to have gone through hell making this record.看来在灌制这张唱片时你们经受了重重困难。
+Where the hell have you been?你究竟去了哪里？
+The rain had played hell with business.这场雨把事情搞得一团糟。
+There would be hell to pay when Ferguson and Tony found out about it.要是弗格森和托妮发现了这事，那麻烦可就大了。
+I patted the top of her head in the condescending way I knew irritated the hell out of her.我以降尊纡贵的姿态拍了她的头顶，知道这会让她气得七窍生烟。
+Whatever the outcome, it's going to be one hell of a fight.不管结果如何，那都将是一场恶战。
+The manager took a hell of a lot of money out of the club.经理从夜总会拿走了许多钱。
+He had an affair, I found out and then all hell broke loose.他有了外遇，我发现了，接着便闹翻了天。
+It hurts like hell.这儿非常痛。
+"I'll go myself."—"Like hell you will!"“我会自己去。”—“可你绝不会！”
+The first horse often goes hell for leather, hits a few fences but gets away with it.第一匹马往往跑得飞快，会撞落几根横杆，但一般不会被罚分。
+Peter can go to hell. It's my money and I'll leave it to who I want.让彼得见鬼去吧。那是我的钱，我想留给谁就留给谁。
+"Well, you can go to hell!" He swept out of the room.“行了，滚开！”他大模大样地走出房间。
+He's a child from hell.他这个孩子坏透了。
+I started shouting in German, just for the hell of it.我当时开始用德语喊叫，只是为了好玩。
+The men might be armed, but they sure as hell weren't trained.这些男人也许被武装了，但他们当时确确实实没受训练。
+"Hell, no!" the doctor snapped.“该死，不！”医生厉声说。
+...the hell of the Siberian labour camps.…西伯利亚劳改营那个活地狱。
+I've never believed. Not in heaven or hell or God or Satan until now.我以前一直都不信。直到现在我才相信有天堂、地狱、上帝和撒旦。
+
+
+You can describe clothes and things in your house as practical when they are suitable for a particular purpose rather than just being fashionable or attractive. (衣物等) 实用的
+Practical ideas and methods are likely to be effective or successful in a real situation. (主意、方法) 有实效的
+You describe people as practical when they make sensible decisions and deal effectively with problems. 务实的
+The practical aspects of something involve real situations and events, rather than just ideas and theories. 实际的
+practical |英 ['præktɪk(ə)l]  美 ['præktɪkl]| adj. 实际的；实用性的/
+...lightweight, practical clothes.…质轻、实用的服装。
+Although the causes of cancer are being uncovered, we do not yet have any practical way to prevent it.尽管癌症的病因正被揭开，但我们还没有任何预防它的有效的方法。
+How could she be so practical when he'd just told her something so shattering?他刚对她讲了那么令人震惊的事情，她怎么还能这么务实？
+You were always so practical, Maria.你总是那么务实，玛丽亚。
+...practical suggestions on how to increase the fibre in your daily diet.…有关如何增加日常饮食中的纤维素的实际建议。
+
+
+If someone or something shuttles or is shuttled from one place to another place, they frequently go from one place to the other. 使频频往返于两地之间; 频频往返于两地之间
+A shuttle is a plane, bus, or train which makes frequent trips between two places. 穿梭班机; 穿梭班车; 穿梭火车
+shuttle |英 ['ʃʌt(ə)l]  美 ['ʃʌtl]| n. 航天飞机；穿梭；梭子；穿梭班机、公共汽车等/vt. 使穿梭般来回移动；短程穿梭般运送/vi. 穿梭往返/
+He and colleagues have shuttled back and forth between the three capitals.他和同事们一直来回往返于3个首都之间。
+There is a free 24-hour shuttle between the airport terminals.在机场的各航空站之间有24小时的免费穿梭巴士。
+
+
+If one thing is offset by another, the effect of the first thing is reduced by the second, so that any advantage or disadvantage is cancelled out. 抵消
+offset |英 ['ɒfset]  美 [,ɔf'sɛt]| n. 抵消，补偿；平版印刷；支管/vt. 抵消；弥补；用平版印刷术印刷/vi. 装支管/
+The increase in pay costs was more than offset by higher productivity.工资成本的增加远非更高的生产率所能抵消的。
+
+
+Destiny is the force which some people believe controls the things that happen to you in your life. 天数; 定数
+A person's destiny is everything that happens to them during their life, including what will happen in the future, especially when it is considered to be controlled by someone or something else. 命运
+destiny |英 ['destɪnɪ]  美 ['dɛstəni]| n. 命运，定数，天命/n. (Destiny)人名；(英)德斯蒂尼，德斯蒂妮(女名)/
+Is it destiny that brings people together, or is it accident?是定数，还是偶然，将人们带到一起？
+We are masters of our own destiny.我们是自己命运的主人。
+
+
+Disorder is a state of being untidy, badly prepared, or badly organized. 混乱
+Disorder is violence or rioting in public. 动乱
+A disorder is a problem or illness which affects someone's mind or body. 紊乱
+disorder |英 [dɪs'ɔːdə]  美 [dɪs'ɔrdɚ]| n. 混乱；骚乱/vt. 使失调；扰乱/
+The emergency room was in disorder.急救室一片混乱。
+Six months ago America's worst civil disorder in more than 100 years erupted in the city of Los Angeles.6个月前，美国100多年来最严重的市民骚乱在洛杉矶市爆发了。
+...a rare nerve disorder that can cause paralysis of the arms.…一种罕见的能导致手臂瘫痪的神经紊乱疾病。
+
+
+In psychology, denial is when a person cannot or will not accept an unpleasant truth. (不愉快事实的) 拒绝接受
+The denial of something to someone is the act of refusing to let them have it. 拒绝给予
+A denial of something is a statement that it is not true, does not exist, or did not happen. 否认
+denial |英 [dɪ'naɪ(ə)l]  美 [dɪ'naɪəl]| n. 否认；拒绝；节制；背弃/
+With major life traumas, like losing a loved one, for instance, the mind's first reaction is denial.面对人生的重大创痛，例如失去深爱的人，心理的第一反应就是拒绝接受。
+...the denial of visas to international relief workers.…对国际救济工作人员拒发签证。
+It seems clear that despite official denials, differences of opinion lay behind the ambassador's decision to quit.很清楚，尽管官方否认，人们对大使决定辞职还是有不同看法。
+
+
+In a game such as tennis or baseball, if you put spin on a ball, you deliberately make it spin rapidly when you hit it or throw it. (击球或投球时故意使球做出的) 快速旋转
+When people spin, they make thread by twisting together pieces of a fibre such as wool or cotton using a device or machine. 纺; 纺线
+If you go for a spin or take a car for a spin, you make a short trip in a car just to enjoy yourself. 兜风
+In politics, spin is the way in which political parties try to present everything they do in a positive way to the public and the media. (政治) 粉饰
+If someone puts a certain spin on an event or situation, they interpret it and try to present it in a particular way. (特意做的) 诠释与宣传
+If your head is spinning, you feel unsteady or confused, for example because you are drunk, ill, or excited. 眩晕
+Spin is also a noun. 旋转
+If something spins or if you spin it, it turns quickly around a central point. 转动
+spin |英 [spɪn]  美 [spɪn]| vi. 旋转；纺纱；吐丝；晕眩/vt. 使旋转；纺纱；编造；结网/n. 旋转；疾驰/
+He threw it back again, putting a slight spin on the ball.他把球略带旋转地又投掷了回去。
+Michelle will also spin a customer's wool fleece to specification at a cost of $2.25 an ounce.米歇尔也将以每盎司$2.25的价格按照顾客的要求为其纺羊毛呢。
+Tom Wright celebrated his 99th birthday by going for a spin in his sporty Mazda.汤姆•赖特开着他的运动型马自达车出去兜风以庆祝其99岁生日。
+The public is sick of spin and tired of promises.公众厌倦了粉饰和许诺。
+He interpreted the vote as support for the constitution and that is the spin his supporters are putting on the results today.他把这次投票结果解释为对宪法的支持，这也是他的支持者们对今天的结果所做的诠释与宣传。
+My head was spinning from the wine.当时我因喝了酒而感到眩晕。
+This driving mode allows you to move off in third gear to reduce wheel-spin in icy conditions.这种驾驶方法可以让你用三档发动汽车以减少结冰情况下的车轮打滑。
+He spun the wheel sharply and made a U turn in the middle of the road.他猛打方向盘，在路中间掉了个头。
+The latest disks, used for small portable computers, spin 3,600 times a minute.用于小型手提电脑的最新磁盘每分钟转动3600次。
+
+
+Theonsetof something is the beginning of it, used especially to refer to something unpleasant. (尤指不愉快事情的) 开始
+onset |英 ['ɒnset]  美 ['ɑnsɛt]| n. 开始，着手；发作；攻击，进攻/
+Most of the passes have been closed with the onset of winter.随着冬天的来临，大多数的关卡都已经关闭。
+
+
+Native is also a noun. 土生动植物
+Plants or animals that are native to a particular region live or grow there naturally and were not brought there. 当地土生的 (动、植物)
+Your native language or tongue is the first language that you learned to speak when you were a child. 第一 (语言)
+Native is also an adjective. 土著的
+Some European people use native to refer to a person living in a non-Western country who belongs to the race or tribe that the majority of people there belong to. This use could cause offence. 土著
+Native is also an adjective. 本国的; 本地的
+A native of a particular country or region is someone who was born in that country or region. 本国人; 本地人
+Your native country or area is the country or area where you were born and brought up. 出生并从小长大的 (国家或地方)
+native |英 ['neɪtɪv]  美 ['netɪv]| adj. 本国的；土著的；天然的；与生俱来的；天赋的/n. 本地人；土产；当地居民/
+The coconut palm is a native of Malaysia.这棵椰子树是马来西亚的土生植物。
+...a project to create a 50 acre forest of native Caledonian pines.…一个营造50英亩喀里多尼亚土生松林的项目。
+She spoke not only her native language, Swedish, but also English and French.她不仅讲她的母语瑞典语，还讲英语和法语。
+Native people were allowed to retain some sense of their traditional culture and religion.土著人被允许保留一些自己的传统文化和宗教。
+They used force to banish the natives from the more fertile land.他们用武力将土著人驱逐出更加肥沃的土地。
+Joshua Halpern is a native Northern Californian.乔舒亚·哈尔彭是土生土长的北加州人。
+Dr. Aubin is a native of St. Louis.奥宾医生是圣路易斯人。
+It was his first visit to his native country since 1948.这是1948年以来他首次访问祖国。
+
+
+Someone who is overwrought is extremely upset and emotional. 极度悲伤的; 极度情绪化的
+overwrought |英 [əʊvə'rɔːt]  美 [,ovɚ'rɔt]| adj. 过度紧张的；过度兴奋的；过分劳累的；（文体等）过于考究的/v. 工作过度；把…做过头；使过于激动（overwork的过去式和过去分词）/
+One overwrought member had to be restrained by friends.一位极度悲伤的成员不得不被朋友们加以控制。
+
+
+A roast is a piece of meat that is cooked by roasting. 烤肉
+Roast meat has been cooked by roasting. 烤熟了的
+When you roast meat or other food, you cook it by dry heat in an oven or over a fire. 烤
+roast |英 [rəʊst]  美 [rost]| vt. 烤，焙；烘，烘烤；暴露于某种热力下以得温暖；嘲笑，吐槽/vi. 烤；烘/adj. 烘烤的；烤过的/n. 烤肉；烘烤/
+Come into the kitchen. I've got to put the roast in.到厨房里来。我得把烤肉放进去。
+They serve the most delicious roast beef.他们做最美味的烤牛肉。
+I personally would rather roast a chicken whole.我个人更愿意烤整鸡。
+
+
+If someone surveys an area of land, they examine it and measure it, usually in order to make a map of it. 勘测
+If someone carries out a survey of an area of land, they examine it and measure it, usually in order to make a map of it. 勘测
+If you survey something, you look at or consider the whole of it carefully. 审视
+If you survey a number of people, companies, or organizations, you try to find out information about their opinions or behaviour, usually by asking them a series of questions. 调查
+If you carry out a survey, you try to find out detailed information about a lot of different people or things, usually by asking people a series of questions. 调查
+survey |英 [ˈsəːveɪ; (for v.) səˈveɪ]  美 [ˈsɝˌve; (for v.) sɝˈve]| n. 调查；测量；审视；纵览/vt. 调查；勘测；俯瞰/vi. 测量土地/
+The city council commissioned geological experts earlier this year to survey the cliffs.该市议会今年早些时候委托地质专家们对这些悬崖进行勘测。
+...the organizer of the geological survey of India.…印度地质勘测的组织者。
+He pushed himself to his feet and surveyed the room.他站起来审视这个房间。
+Business Development Advisers surveyed 211 companies for the report.企业发展顾问为这份报告调查了211家公司。
+The council conducted a survey of the uses to which farm buildings are put.该委员会对农场建筑的用途进行了一个调查。
+
+
+If someone has a high profile, people notice them and what they do. If you keep a low profile, you avoid doing things that will make people notice you. 高关注度
+profiling 进行描画
+If the police make a profile of someone they are looking for, they write a description of the sort of person they are looking for. (书面的) 描述
+A profile of someone is a short article or programme in which their life and character are described. (有关某人的) 简介
+If you see someone in profile, you see them from the side. 从侧面
+Your profile is the outline of your face as it is seen when someone is looking at you from the side. (面部的) 侧面轮廓
+profile |英 ['prəʊfaɪl]  美 ['profaɪl]| n. 侧面；轮廓；外形；剖面；简况/vt. 描…的轮廓；扼要描述/vi. 给出轮廓/
+...a move that would give Egypt a much higher profile in the upcoming peace talks.…会给埃及在即将到来的和平谈判中高关注度的一个行动。
+DNA profiling would now be added to the struggle against vandalism.DNA描画如今也许会被加到对抗故意破坏公共财物的斗争中。
+...a former FBI agent who pioneered psychological profiling in the 1970s.…在20世纪70年代开创了犯罪心理描画的一名前联邦调查局特工。
+...the FBI profile of the anthrax killer.…联邦调查局对那名炭疽杀人犯的描述。
+A Washington newspaper published comparative profiles of the candidates' wives.一家华盛顿的报纸刊登了候选人妻子们的对比简介。
+This picture shows the girl in profile.这张照片从侧面显示该女孩。
+His handsome profile was turned away from us.他英俊的侧面轮廓转离了我们。
+
+
+You can refer to a person's children or to an animal's young as their offspring. 子女; 幼崽
+offspring |英 ['ɒfsprɪŋ]  美 ['ɔfsprɪŋ]| n. 后代，子孙；产物/
+Eleanor was now less anxious about her offspring than she had once been.这时，埃莉诺已不像以前那样为子女担忧了。
+
+
+If a task, plan, or idea is practicable, people are able to carry it out. 可行的
+practicable |英 ['præktɪkəb(ə)l]  美 ['præktɪkəbl]| adj. 可用的；行得通的；可实行的/
+It is not practicable to offer her the original job back.让她重回原工作岗位是不可行的。
+
+
+When there is a discharge of a substance, the substance comes out from inside somewhere. 排出
+If something is discharged from inside a place, it comes out. 排出
+If someone discharges their duties or responsibilities, they do everything that needs to be done in order to complete them. 履行 (职责或义务)
+Discharge is also a noun. 释放
+When someone is discharged from a hospital, prison, or one of the armed services, they are officially allowed to leave, or told that they must leave. 批准离开; 命令离开
+discharge |英 [dɪs'tʃɑːdʒ]  美 [dɪs'tʃɑrdʒ]| vt. 解雇；卸下；放出；免除/vi. 排放；卸货；流出/n. 排放；卸货；解雇/
+They develop a fever and a watery discharge from their eyes.他们开始发烧，且有一种水状分泌物从他们的眼睛里流出。
+The resulting salty water will be discharged at sea.产生的咸水将被排放到海里。
+...the quiet competence with which he discharged his many duties.…他履行他的诸多职责所用的平静的办事能力。
+He was given a conditional discharge and ordered to pay Miss Smith $500 compensation.他被判有条件释放，并被命令向史密斯小姐支付$500的赔偿金。
+He has a broken nose but may be discharged today.他鼻梁断了，但今天可能获准出院。
+
+
+When people chorus something, they say it or sing it together. 齐声说或唱
+When there is a chorus of criticism, disapproval, or praise, that attitude is expressed by a lot of people at the same time. 齐声 (批评、反对或赞扬)
+In drama, a chorus is an actor or a group of actors who comment on the action of the play. (戏剧中的) 剧情解说演员
+A chorus is a group of singers or dancers who perform together in a show, in contrast to the soloists. 合唱团; 舞蹈队
+A chorus is a piece of music written to be sung by a large group of people. 合唱曲
+A chorus is a large group of people who sing together. 合唱团
+A chorus is a part of a song which is repeated after each verse. 副歌
+chorus |英 ['kɔːrəs]  美 ['kɔrəs]| n. 合唱队；齐声；歌舞队/vt. 合唱；异口同声地说/vi. 合唱；异口同声地说话/n. (Chorus)人名；(法)肖吕斯/
+"Hi," they chorused.“嗨，”他们齐声说道。
+The government is defending its economic policies against a growing chorus of criticism.面对日益高涨的齐声批评，政府还在为其经济政策辩护。
+...commanding performances from Joe Savino as the chorus and Stephen Brennan as the ghost.…由乔·萨维诺担任剧情解说演员、斯蒂芬·布伦南扮演幽灵的给人深刻印象的演出。
+He decides to sort out her life for her, while a pushy Greek chorus dispenses advice from the sidelines.他决定帮她理顺一下生活，而一位爱管闲事的希腊剧情解说演员则从旁观者的角度发表了建议。
+Students played the lesser parts and sang in the chorus.学生们扮演了一些次要角色，并参加了合唱团的演唱。
+...the Hallelujah Chorus.…哈利路亚合唱曲。
+The chorus was singing "The Ode to Joy."合唱团那时正在唱着《欢乐颂》。
+Caroline sang two verses and the chorus of her song.卡罗琳唱了她歌中的两段主歌及副歌。
+
+
+A statute is a rule or law which has been made by a government or other organization and formally written down. 法令; 规章
+statute |英 ['stætjuːt; -tʃuːt]  美 ['stætʃut]| n. [法] 法规；法令；条例/
+The new statute covers the care for, raising, and protection of children.这项新法令涵盖了儿童的照料、养育和保护。
+
+
+Latitude is freedom to choose the way in which you do something. 自由度
+Latitude is also an adjective. 纬度的
+The latitude of a place is its distance from the equator. Compare . 纬度
+latitude |英 ['lætɪtjuːd]  美 ['lætɪtud]| n. 纬度；界限；活动范围/
+He would be given every latitude in forming a new government.他将被给予高度自由来建立一个新政府。
+The army must cease military operations above 36° latitude north.军队必须停止在北纬36度以北地区的军事行动。
+In the middle to high latitudes rainfall has risen steadily over the last 20-30 years.中高纬度地区的降雨量在过去的20到30年间稳步上升了。
+
+
+If you say that someone is being left to rot in a particular place, especially in a prison, you mean that they are being left there and their physical and mental condition is being allowed to get worse and worse. 身心退化
+You can use the rot to refer to the way something gradually gets worse. For example, if you are talking about the time when the rot set in, you are talking about the time when a situation began to get steadily worse and worse. 逐步恶化
+If there is rot in something, especially something that is made of wood, parts of it have decayed and fallen apart. 腐朽
+When food, wood, or another substance rots, or when something rots it, it becomes softer and is gradually destroyed. 腐烂
+rot |英 [rɒt]  美 [rɑt]| n. 腐烂；腐败；腐坏/vi. 腐烂；腐败；堕落/vt. 使腐烂；使腐朽；使堕落/int. （表示厌恶、蔑视、烦恼等）胡说；糟了/n. (Rot)人名；(法、德、俄、塞、捷、瑞典)罗特/
+Most governments simply leave the long-term jobless to rot.大多数政府只能任由长期失业者颓废下去。
+In many schools, the rot is beginning to set in. Standards are falling all the time.在许多学校，情况正在逐步恶化，水准在不断降低。
+Investigations had revealed extensive rot in the beams under the ground floor.检测显示一楼下面的横梁已经有大面积的腐烂。
+If we don't unload it soon, the grain will start rotting in the silos.如果我们不马上卸货，这些粮食在仓中将开始腐烂。
+
+
+A phase is a particular stage in a process or in the gradual development of something. 阶段
+phase |英 [feɪz]  美 [fez]| n. 月相/n. （月亮的）盈亏/n. 时期/
+The crisis is entering a crucial, critical phase.危机正进入一个至关重要的决定性阶段。
+This autumn, 6000 residents will participate in the first phase of the project.今年秋季，6000名居民将参与这项计划的第一阶段。
+
+
+To ruffle someone's feathers means to cause them to become very angry, nervous, or upset. 使某人愤怒; 紧张; 沮丧
+Ruffles are folds of cloth at the neck or the ends of the arms of a piece of clothing, or are sometimes sewn on things as a decoration. (衣服领口、袖口的) 褶边; 装饰
+If a bird ruffles its feathers or if its feathers ruffle, they stand out on its body, for example when it is cleaning itself or when it is frightened. 竖起
+If something ruffles someone, it causes them to panic and lose their confidence or to become angry or upset. 使惊慌失措; 使沮丧; 激怒
+When the wind ruffles something such as the surface of the sea, it causes it to move gently in a wavelike motion. 使起皱
+If you ruffle someone's hair, you move your hand backward and forward through it as a way of showing your affection toward them. 抚弄 (头发)
+ruffle |英 ['rʌf(ə)l]  美 ['rʌfl]| vt. 弄皱；触怒；扰乱；迅速翻动/vi. 起皱；烦恼；连续地轻敲/n. 皱褶；生气；混乱；连续轻敲声/
+His direct, often abrasive approach will doubtless ruffle a few feathers.他那直截了当、常常很粗鲁的方式无疑会激怒一些人。
+...a white blouse with ruffles at the neck and cuffs.…一件领口和袖口上有褶边的白色女式衬衣。
+Tame birds, when approached, will stretch out their necks and ruffle their neck feathering.驯化的鸟在人靠近时会伸长脖子，竖起脖子上的羽毛。
+I could tell that my refusal to allow him to ruffle me infuriated him.我可以断定，我拒绝让他激怒我使他很恼火。
+The evening breeze ruffled the pond.那傍晚的微风吹皱了水塘的表面。
+"Don't let that get you down," he said, ruffling Ben's dark curls.“别因那事而沮丧，”他抚弄着本的黑色卷发说道。
+
+
+Diverse people or things are very different from each other. 不同的
+If a group of things is diverse, it is made up of a wide variety of things. 各种各样的
+diverse |英 [daɪ'vɜːs; 'daɪvɜːs]  美 [daɪ'vɝs]| adj. 不同的；多种多样的；变化多的/
+Albert Jones' new style will inevitably put him in touch with a much more diverse and perhaps younger audience.艾伯特·琼斯的新风格无疑将使他接触更多形形色色的、或许更年轻的观众。
+The building houses a wide and diverse variety of antiques.这栋楼里摆放着大量各式各样的古董。
+
+
+You use wicked to describe someone or something that is very bad and deliberately harmful to people. 邪恶的
+wicked |英 ['wɪkɪd]  美 ['wɪkɪd]| adj. 邪恶的；恶劣的；不道德的；顽皮的/
+She described the shooting as a wicked attack.她把那次射击描述成一次邪恶的攻击。
+
+
+If you omit to do something, you do not do it. 未 (做)
+If you omit something, you do not include it in an activity or piece of work, deliberately or accidentally. 删节; 省略; 遗漏
+omit |英 [ə(ʊ)'mɪt]  美 [ə'mɪt]| vt. 省略；遗漏；删除；疏忽/
+His new girlfriend had omitted to tell him she was married.他的新任女友没有跟他说她已经结婚。
+Omit the salt in this recipe.去掉这个食谱中的盐。
+
+
+A diploma is a document which may be awarded to a student who has completed a course of study by a university or college, or by a high school in the United States. 文凭
+diploma |英 [dɪ'pləʊmə]  美 [dɪ'plomə]| n. 毕业证书，学位证书；公文，文书；奖状/vt. 发给…毕业文凭/
+...a new two-year course leading to a diploma in social work....一门可以获得社会工作文凭的2年制的新课程。
+
+
+A crack is a very narrow gap between two things, or between two parts of a thing. 裂缝
+If you crack a joke, you tell it. 说 (笑话)
+If your voice cracks when you are speaking or singing, it changes in pitch because you are feeling a strong emotion. (嗓音) 突然变化
+If someone cracks, they lose control of their emotions or actions because they are under a lot of pressure. (精神) 垮掉
+If you crack a problem or a code, you solve it, especially after a lot of thought. 破解 (难题、密码)
+When you crack something that has a shell, such as an egg or a nut, you break the shell in order to reach the inside part. 叩开
+If you crack a hard part of your body, such as your knee or your head, you hurt it by accidentally hitting it hard against something. 撞击
+If something cracks, or if you crack it, it makes a sharp sound like the sound of a piece of wood breaking. 使…噼啪作响; 发出辟裂声
+If something hard cracks, or if you crack it, it becomes slightly damaged, with lines appearing on its surface. 使…破裂; 破裂
+crack |英 [kræk]  美 [kræk]| vt. 使破裂；打开；变声/vi. 破裂；爆裂/n. 裂缝；声变；噼啪声/adj. 最好的；高明的/
+Tell Tracy you're sorry for that crack about her weight.告诉特蕾西你对那个有关她体重的玩笑感到抱歉。
+...a crack undercover police officer.…一名训练有素的卧底警察。
+Suddenly there was a loud crack and glass flew into the car.突然一阵巨大的爆裂声，碎玻璃飞溅进了车内。
+He went to the door, opened it a crack, and listened.他走到门边，把门打开一条缝，听了起来。
+The plate had a crack in it.这盘子上有条裂纹。
+Kathryn had seen him through a crack in the curtains.凯瑟琳曾从帘子的裂缝看到过他。
+He drove a Volkswagen, cracked jokes, and talked about beer and girls.那时他开着一辆大众牌汽车，讲着笑话，谈论着啤酒和女孩。
+Her voice cracked and she began to cry.她失声哭了起来。
+She's calm and strong, and she is just not going to crack.她冷静而坚强，决不会垮掉的。
+He has finally cracked the system after years of painstaking research.经过数年的艰苦研究，他最终破译了该系统。
+Crack the eggs into a bowl.把鸡蛋打到碗中。
+He cracked his head on the pavement and was knocked cold.他的头撞着了路面，撞昏了。
+Thunder cracked in the sky.空中雷声炸响。
+A gas main had cracked under my neighbour's garage and gas had seeped into our homes.邻居家车库下的煤气主管道破裂了，煤气渗漏进我们家。
+

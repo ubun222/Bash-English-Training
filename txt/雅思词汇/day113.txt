@@ -1,33 +1,345 @@
-split							切开，分担，分裂
-concession						让步，折扣，特许权
-idle						空闲的，无工作的，懒惰的，无意义的
+split							vt.切开，分担vi.分裂n.分裂adj.分裂
+concession						n.让步，折扣，特许权
+idle						adj.空闲的，无工作的，懒惰的，无意义的
 idle about				游手好闲
-pragmatic					务实的
-dilemma								窘境
-lavish					大方的，巨大的
-series					一系列，一套
+pragmatic					adj.务实的
+dilemma								n.窘境
+lavish					adj.大方的，巨大的
+series					n.一系列，一套，<电>串联
 in series				串联的
-strait					海峡
-sarcasm					讽刺
-sensitive					敏感的，善解人意的
-rely						依靠，信赖
-enterprise								企业，事业
-garbage								垃圾，废话
-postscript				附笔
-segregate				使...分开，隔离，使孤立
-cylinder					圆柱体，汽缸
-surcharge				附加费
-ensue					接着发生
-pant						气喘，渴望
-stern					严厉的
-steady						稳定的，均匀的
-abstract								抽象的，抽象，提取
-clue							线索，想法
-thorough							彻底的，全面的，缜密的
-alphabetical				按字母顺序的
-democracy					民主国家
-seep					渗出，透出
-distinction						差别，卓越，优雅
-indicator			指示器
-persevere			坚持不懈
+strait					n.海峡
+sarcasm					n.讽刺
+sensitive					adj.敏感的，善解人意的
+rely						vi.依靠，信赖
+enterprise								n.企业，事业
+garbage								n.<美>垃圾，废话
+postscript				n.附笔
+segregate				vt.使...分开，隔离，使孤立
+cylinder					n.圆柱体，汽缸
+surcharge				n.附加费vt.附加费
+ensue					vi.接着发生
+pant						vi.气喘，渴望vt.气喘n.气喘
+stern					adj.严厉的
+steady						adj.稳定的，均匀的vt.使平稳vi.使平稳
+abstract								adj.抽象的n.抽象vt.提取
+clue							n.线索，想法
+thorough							adj.彻底的，全面的，缜密的
+alphabetical				adj.按字母顺序的
+democracy					n.民主国家
+seep					vi.渗出，透出
+distinction						n.差别，卓越，优雅
+indicator			n.指示器
+persevere			vi.坚持不懈
 \\\\\\\\
+
+If two or more people split something, they share it between them. 分摊; 分享
+A split is a long crack or tear. 裂缝
+If something such as wood or a piece of clothing splits or is split, a long crack or tear appears in it. 使裂开; 裂开
+A split between two things is a division or difference between them. 区分; 区别
+A split in an organization is a disagreement between its members. 分歧
+Split is also an adjective. 分裂的
+If an organization splits or is split, one group of members disagree strongly with the other members, and may form a group of their own. 分裂
+If something splits or if you split it, it is divided into two or more parts. 分开
+split |英 [splɪt]  美 [splɪt]| vt. 分离；使分离；劈开；离开；分解/vi. 离开；被劈开；断绝关系/n. 劈开；裂缝/adj. 劈开的/
+I would rather pay for a meal than watch nine friends pick over and split a bill.我宁愿付整顿饭钱而不愿看着9个朋友仔细算计、分摊账单。
+The plastic-covered seat has a few small splits around the corners.那个有塑料套的座位的角边周围有几处小裂缝。
+The seat of his grey trousers split.他的那条灰色裤子的臀部裂开了。
+...a split between what is thought and what is felt.…所想和所感之间的区别。
+They accused both radicals and conservatives of trying to provoke a split in the party.他们指责激进人士和保守人士都企图挑起党内分歧。
+The Kremlin is deeply split in its approach to foreign policy.克里姆林宫在对外政策的看法上严重分歧。
+Yet it is feared the Republican leadership could split over the agreement.然而人们担心共和党领导层可能会因该协议而出现分裂。
+If the chicken is fairly small, you may simply split it in half.要是鸡不太大，你把它分成两半就行。
+In a severe gale the ship split in two.在一次强劲的大风中那艘船断成了两半。
+
+
+A concession is an arrangement where someone is given the right to sell a product or to run a business, especially in a building belonging to another business. (尤指在另一公司的建筑物内) 特许经营
+A concession is a special right or privilege that is given to someone. 特许权
+If you make a concession to someone, you agree to let them do or have something, especially in order to end an argument or conflict. 让步
+concession |英 [kən'seʃ(ə)n]  美 [kən'sɛʃən]| n. 让步；特许（权）；承认；退位/
+...the man who ran the catering concession at the Rob Roy Links in Palominas.…在帕罗米那斯的罗布罗依高尔夫球场特许经营饮食特许业务的人。
+Farmers were granted concessions from the government to develop the farms.农民已获得政府授权开发这些农场。
+We made too many concessions and we got too little in return.我们作出了太多让步，而得到了太少回报。
+
+
+If an engine or vehicle is idling, the engine is running slowly and quietly because it is not in gear, and the vehicle is not moving. (发动机等) 低速空转
+You refer to an idle threat or boast when you do not think the person making it will or can do what they say. 虚张声势的
+idly 无聊地
+Idle is used to describe something that you do for no particular reason, often because you have nothing better to do. 无聊的
+idly 无所事事地
+If you say that someone is idle, you disapprove of them because they are not doing anything and you think they should be. 无所事事的
+If machines or factories are idle, they are not working or being used. (机器或工厂) 闲置的
+If people who were working are idle, they have no jobs or work. 无事可做的
+idle |英 ['aɪd(ə)l]  美 ['aɪdl]| adj. 闲置的；懒惰的；停顿的/vi. 无所事事；虚度；空转/vt. 虚度；使空转/
+Beyond a stand of trees a small plane idled.在树丛的那一边，一架小飞机的发动机空转着。
+It was more of an idle threat than anything.那不过是虚张声势的威胁。
+We talked idly about magazines and baseball.我们闲聊着杂志和棒球。
+Brian kept up the idle chatter for another five minutes.布赖恩又无聊地闲扯了5分钟。
+We were not idly sitting around.我们并非坐着没事干。
+...idle bureaucrats who spent the day reading newspapers.…整天看报纸，无所事事的官僚们。
+Now the machine is lying idle.现在这台机器正处于闲置状态。
+4,000 workers have been idle for 12 of the first 27 weeks of this year.4千名工人在今年最初的27个星期中有12个星期无事可干。
+
+
+ Sometimes, when I find myself in a bad state, I will simply idle about in the park.  有时候，如果发现自己不怎么舒服，就只在公园里闲逛。
+ May not idle about like this in broad daylight, must go to school studies.  大白天的，不可这样游手好闲，得上学念书。
+ I hate you to idle about.  我不喜欢你游手好闲。
+idle about || 
+
+
+
+pragmatically 务实地
+A pragmatic way of dealing with something is based on practical considerations, rather than theoretical ones. A pragmatic person deals with things in a practical way. 务实的
+pragmatic |英 [præg'mætɪk]  美 [præg'mætɪk]| adj. 实际的；实用主义的；国事的/
+"I can't ever see us doing anything else," stated Brian pragmatically.“我看不出我们还能做别的什么事情，” 布赖恩务实地说。
+Robin took a pragmatic look at her situation.罗宾从务实的角度看待她的状况。
+
+
+A dilemma is a difficult situation in which you have to choose between two or more alternatives. 进退两难的局面
+dilemma |英 [dɪ'lemə; daɪ-]  美 [dəˈlɛmə, daɪ-]| n. 困境；进退两难；两刀论法/
+He was faced with the dilemma of whether or not to return to his country.他面临着是否回国的艰难选择。
+
+
+If you lavish money, affection, or praise on someone or something, you spend a lot of money on them or give them a lot of affection or praise. 为…花很多钱; 对…十分殷勤; 对…大加赞赏
+lavishly 慷慨地
+If you say that someone is lavish in the way they behave, you mean that they give, spend, or use a lot of something. 慷慨的
+If you say that spending, praise, or the use of something is lavish, you mean that someone spends a lot or that something is praised or used a lot. 挥霍的
+lavishly 盛大奢华地
+If you describe something as lavish, you mean that it is very elaborate and impressive and a lot of money has been spent on it. 盛大奢华的
+lavish |英 ['lævɪʃ]  美 ['lævɪʃ]| adj. 浪费的；丰富的；大方的/vt. 浪费；慷慨给予；滥用/
+He lavished praise on his opponents.他对他的对手大加赞赏。
+Entertaining in style needn't mean spending lavishly.时尚娱乐并不意味着要无度地花钱。
+Reviewers are lavish in their praise of this book.评论家们对于这本书大加赞赏。
+Critics attack his lavish spending and flamboyant style.批评家们抨击他的挥霍无度和过分夸张的作风。
+The apartment building was lavishly decorated.这幢公寓楼装修豪华。
+He staged the most lavish productions of Mozart.他举办了最盛大的莫扎特作品演奏会。
+...a lavish party to celebrate Bryan's fiftieth birthday.…庆祝布赖恩50岁生日的盛会。
+
+
+A radio or television series is a set of programs of a particular kind which have the same title. (广播或电视的) 系列节目
+A series of things or events is a number of them that come one after the other. 一连串; 一系列
+series |英 ['sɪəriːz; -rɪz]  美 ['sɪriz]| n. 系列，连续；[电] 串联；级数；丛书/
+...Captain Kirk's chair from the TV series "Star Trek."…电视系列片《星际迷航》中柯克船长的椅子。
+...a series of meetings with students and political leaders.…与学生和政治领袖们的一连串会晤。
+
+
+ Manage applications in parallel as well as in series.  并行和串行地管理应用。
+ Each point should be connected to the next in series by a line.  每个点都应该通过一条线连接到下一个点上。
+ The calotype could be made in series, and was thus the equivalent of an etching or an engraving.  碘化银纸照相法可以连续印刷，因此它等同于蚀刻或雕刻。
+in series || 
+
+
+
+If someone is in dire or desperate straits, they are in a very difficult situation, usually because they do not have much money. (常指缺钱造成的) 困境
+You can refer to a narrow strip of sea which joins two large areas of sea as a strait or the straits. 海峡
+strait |英 [streɪt]  美 [stret]| adj. 狭窄的；苦恼的/n. 海峡；困境/n. (Strait)人名；(英)斯特雷特/
+The company's closure has left many small businessmen in desperate financial straits.该公司的关闭使得许多小商人陷入经济困境。
+An estimated 1,600 vessels pass through the strait annually.估计每年有1600艘船经过这个海峡。
+
+
+Sarcasm is speech or writing which actually means the opposite of what it seems to say. Sarcasm is usually intended to mock or insult someone. 挖苦; 讽刺
+sarcasm |英 ['sɑːkæz(ə)m]  美 ['sɑrkæzəm]| n. 讽刺；挖苦；嘲笑/
+Sarcasm and demeaning remarks have no place in parenting.挖苦和贬损的言语不应用来教育子女。
+
+
+sensitivity 敏感性
+Something that is sensitive to a physical force, substance, or treatment is easily affected by it and often harmed by it. 敏感的
+Sensitive documents or reports contain information that needs to be kept secret and dealt with carefully. 机密的
+sensitivity 敏感性
+A sensitive subject or issue needs to be dealt with carefully because it is likely to cause disagreement or make people angry or upset. 敏感的; 棘手的
+sensitivity 敏感
+If you are sensitive about something, you are easily worried and offended when people talk about it. 敏感的
+sensitively 有感知力地; 能理解地
+If you are sensitive to other people's needs, problems, or feelings, you show understanding and awareness of them. 有感知力的; 能理解的
+sensitive |英 ['sensɪtɪv]  美 ['sɛnsətɪv]| adj. 敏感的；感觉的；[仪] 灵敏的；感光的；易受伤害的；易受影响的/n. 敏感的人；有灵异能力的人/
+...the sensitivity of the detector.…该探测器的灵敏度。
+...an extremely sensitive microscope.…一台极为灵敏的显微镜。
+...the sensitivity of cells damaged by chemotherapy.…被化疗损害了的细胞敏感性。
+...a chemical which is sensitive to light.…一种对光敏感的化学品。
+He instructed staff to shred sensitive documents.他指示员工用碎纸机粉碎机密文件。
+Due to the obvious sensitivity of the issue he would not divulge any details.由于问题带有明显的敏感性，他不肯透露任何细节。
+Employment is a very sensitive issue.就业是一个非常敏感的问题。
+...people who suffer extreme sensitivity about what others think.…对别人的看法极为敏感的人。
+Young people are very sensitive about their appearance.年轻人对自己的外貌很敏感。
+The abuse of women needs to be treated seriously and sensitively.虐待妇女的问题需要严肃、小心地对待。
+The classroom teacher must be sensitive to a child's needs.课堂教师必须理解孩子的需求。
+
+
+If you can rely on someone to work well or to behave as you want them to, you can trust them to do this. 信任; 信赖
+If you rely on someone or something, you need them and depend on them in order to live or work properly. 依赖; 依靠
+rely |英 [rɪ'laɪ]  美 [rɪ'laɪ]| vi. 依靠；信赖/
+I know I can rely on you to sort it out.我知道我可以信赖你来处理此事。
+They relied heavily on the advice of their professional advisers.他们非常依赖专业顾问的建议。
+
+
+Enterprise is the ability to think of new and effective things to do, together with an eagerness to do them. 开创力; 开拓精神
+Enterprise is the activity of managing companies and businesses and starting new ones. 创业
+An enterprise is something new, difficult, or important that you do or try to do. 事业
+An enterprise is a company or business. 公司; 企业
+enterprise |英 ['entəpraɪz]  美 ['ɛntɚ'praɪz]| n. 企业；事业；进取心；事业心/
+...the spirit of enterprise worthy of a free and industrious people.…与一个自由勤劳的民族相称的开拓精神。
+He is still involved in voluntary work promoting local enterprise.他仍从事志愿工作推动当地创业。
+Horse breeding is indeed a risky enterprise.养马的确是一项有风险的事业。
+There are plenty of small industrial enterprises.有很多小型的工业企业。
+
+
+If someone says that an idea or opinion is garbage, they are emphasizing that they believe it is untrue or unimportant. 废话
+Garbage is waste material, especially waste from a kitchen. (尤指厨房的) 垃圾
+garbage |英 ['gɑːbɪdʒ]  美 ['ɡɑrbɪdʒ]| n. 垃圾；废物/n. (Garbage)人名；(法)加尔巴热/
+I personally think this is complete garbage.我个人认为这纯属无稽之谈。
+This morning a bomb in a garbage bag exploded and injured 15 people.今天早上一颗放在垃圾袋中的炸弹爆炸，炸伤15人。
+
+
+A postscript is an addition to a finished story, account, or statement, that gives further information. (故事、陈述等的) 补笔; 跋
+A postscript is something written at the end of a letter after you have signed your name. You usually write "P.S." in front of it. (信末的) 附言
+postscript |英 ['pəʊs(t)skrɪpt]  美 ['postskrɪpt]| n. 附言；又及/
+Let me add a postscript to this section on diet.让我对饮食这一部分加个补笔。
+A brief, handwritten postscript lay beneath his signature.一段简短的手写体附言位于他的签名下方。
+
+
+To segregate two groups of people or things means to keep them physically apart from each other. 隔离; 分开
+segregate |英 ['segrɪgeɪt]  美 ['sɛɡrɪɡet]| vt. 使隔离；使分离；在…实行种族隔离/
+A large detachment of police was used to segregate the two rival camps of protesters.一大队分遣警察被派来隔离两群敌对的抗议者。
+
+
+In an engine, a cylinder is a cylinder-shaped part in which a piston moves backward and forward. 汽缸
+A gas cylinder is a cylinder-shaped container in which gas is kept under pressure. (气) 罐
+A cylinder is an object with flat circular ends and long straight sides. 圆柱
+cylinder |英 ['sɪlɪndə]  美 ['sɪlɪndɚ]| n. 圆筒；汽缸；[数] 柱面；圆柱状物/
+...a four-cylinder engine.…四缸发动机。
+...oxygen cylinders.…氧气瓶。
+It was recorded on a wax cylinder.它被刻录在了蜡柱上。
+
+
+A surcharge is an extra payment of money in addition to the usual payment for something. It is added for a specific reason, for example by a company because costs have risen or by a government as a tax. 附加费
+surcharge |英 ['sɜːtʃɑːdʒ]  美 ['sɝtʃɑrdʒ]| n. 超载；额外费/vt. 追加罚款；使…装载过多；使…负担过重/
+The government introduced a 15% surcharge on imports.政府推出了15%的进口附加费。
+
+
+If something ensues, it happens immediately after another event, usually as a result of it. 随即发生
+ensue |英 [ɪn'sjuː; en-]  美 [ɪn'su]| vi. 跟着发生，接着发生；继起/vt. 追求/
+If the Europeans did not reduce subsidies, a trade war would ensue.如果欧洲不减少补贴，贸易战将随即爆发。
+
+
+If you pant, you breathe quickly and loudly with your mouth open, because you have been doing something energetic. 喘息
+pant |英 [pænt]  美 [pænt]| vi. 喘息；渴望；气喘吁吁地说出某事/vt. 气喘/n. 气喘；喘息；喷气声/n. (Pant)人名；(印、尼、捷、英)潘特/
+She climbed rapidly until she was panting with the effort.她飞快地爬着，直到她气喘吁吁。
+
+
+Someone who is stern is very serious and strict. 苛刻的
+sternly 严厉地
+Stern words or actions are very severe. (话语或行为) 严厉的
+stern |英 [stɜːn]  美 [stɝn]| n. 船尾；末端/adj. 严厉的；坚定的/n. (Stern)人名；(英、以、法、瑞典、西)斯特恩；(德、波、匈)施特恩/
+Her father was stern and hard to please.她父亲苛刻，不易讨好。
+"We will take the necessary steps," she said sternly.“我们将采取必要措施，”她严厉地说道。
+Mr. Monroe issued a stern warning to those who persist in violence.门罗先生向那些顽守暴力之徒发出严厉警告。
+
+
+If you steady yourself, you control your voice or expression, so that people will think that you are calm and not nervous. 使镇定
+If you steady something or if it steadies, it stops shaking or moving around. 使平稳; 平稳
+If you describe a person as steady, you mean that they are sensible and reliable. 可靠的
+steadily 镇定地
+If you look at someone or speak to them in a steady way, you look or speak in a calm, controlled way. 镇定的
+If an object is steady, it is firm and does not shake or move around. 平稳的
+steadily 稳定地
+A steady situation continues or develops gradually without any interruptions and is not likely to change quickly. 稳定的
+steady |英 ['stedɪ]  美 ['stɛdi]| adj. 稳定的；不变的；沉着的/vi. 稳固/vt. 使稳定；稳固；使坚定/adv. 稳定地；稳固地/n. 关系固定的情侣；固定支架/
+Somehow she steadied herself and murmured, "Have you got a cigarette?"她设法使自己镇定下来，并低声问道,“你有香烟吗？”
+Two men were on the bridge-deck, steadying a ladder.两人站在船桥甲板上，扶稳一个梯子。
+He was firm and steady unlike other men she knew.他坚定、可靠，和她所认识的其他男人不同。
+He moved back a little and stared steadily at Elaine.他往后退了点，镇定地盯着依莱恩。
+"Well, go on," said Camilla, her voice fairly steady.“嗯，继续吧。”卡米拉说道，声音相当镇定。
+Get as close to the subject as you can and hold the camera steady.尽可能靠近对象，拿稳相机。
+Relax as much as possible and keep breathing steadily.尽量放松，保持呼吸平稳。
+The improvement in standards has been steady and persistent, but has attracted little comment from educationalists.虽然标准在持续稳步提高，但教育者并未对此有何评论。
+Despite the steady progress of building work, the campaign against it is still going strong.尽管建筑工程稳步进行，反工运动却仍然高涨。
+
+
+An abstract of an article, document, or speech is a short piece of writing that gives the main points of it. 摘要
+An abstract is an abstract work of art. 抽象作品
+When you talk or think about something in the abstract, you talk or think about it in a general way, rather than considering particular things or events. 在抽象意义上
+Abstract art makes use of shapes and patterns rather than showing people or things. 抽象的 (艺术)
+In grammar, an abstract noun refers to a quality or idea rather than to a physical object. 抽象的 (名词)
+An abstract idea or way of thinking is based on general ideas rather than on real things and events. 抽象的
+abstract |英 ['æbstrækt]  美 ['æbstrækt]| n. 摘要；抽象；抽象的概念/adj. 抽象的；深奥的/vt. 摘要；提取；使……抽象化；转移(注意力、兴趣等)；使心不在焉/vi. 做摘要；写梗概/
+It might also be necessary to supply an abstract of the review of the literature as well.可能也有必要提供这篇文学评论的摘要。
+His abstracts are held in numerous collections.他的抽象画被纳入到很多收藏中。
+Money was a commodity she never thought about except in the abstract.金钱是她从未具体想过的一种商品。
+A modern abstract painting takes over one complete wall.一幅现代抽象画占了整整一面墙。
+...abstract words such as glory, honour, and courage.…诸如光荣、荣誉、勇气这样的抽象词汇。
+It's not a question of some abstract concept of justice.这不是一个有关正义的某一抽象概念的问题。
+...starting with a few abstract principles.…以几条抽象的原则开始。
+
+
+If you haven't a clue about something, you do not know anything about it or you have no idea what to do about it. 毫无头绪
+A clue in a crossword or game is information which is given to help you to find the answer to a question. (纵横字谜或游戏中的) 提示
+A clue is an object or piece of information that helps someone solve a crime. (破案中的) 线索
+A clue to a problem or mystery is something that helps you to find the answer to it. (解决问题或疑团时的) 线索
+clue |英 [kluː]  美 [klʊ]| n. 线索；（故事等的）情节/vt. 为…提供线索；为…提供情况/
+I haven't a clue what I'll give Carl for his birthday next year.对于明年该送什么生日礼物给卡尔我毫无头绪。
+Give me a clue. What's it begin with?给我点提示。是什么开头？
+The vital clue to the killer's identity was his nickname, Peanuts.关于杀手身份的重大线索是他的绰号——花生。
+Geneticists in Canada have discovered a clue to the puzzle of why our cells get old and die.加拿大的遗传学家已经发现了解开我们细胞衰老死亡之迷的线索。
+
+
+thoroughly 完全地
+Thorough is used to emphasize the large degree or extent of something. (用于强调程度或范围) 完全的
+thoroughness 细心
+Someone who is thorough is always very careful in their work, so that nothing is forgotten. 细心的
+thoroughly 彻底地
+A thorough action or activity is one that is done very carefully and in a detailed way so that nothing is forgotten. 彻底的
+thorough |英 ['θʌrə]  美 [ˈθʌrəʊ; θʌro]| adj. 彻底的；十分的；周密的/
+I thoroughly enjoy your programme.我非常喜欢你们的节目。
+To me, this seemed like a thorough waste of time.在我看来，这好像完全是浪费时间。
+His thoroughness and attention to detail is legendary.他的细心和对细节的关注是很有名的。
+Martin would be a good judge, I thought. He was calm and thorough.我想马丁会是个好法官。他既沉着又细心。
+Food that is being offered hot must be reheated thoroughly.热熟食拿到手后必须重新热透。
+This very thorough survey goes back to 1784.这项非常彻底的调查可追溯到1784年。
+We are making a thorough investigation.我们正在进行彻底的调查。
+
+
+Alphabetical means arranged according to the normal order of the letters in the alphabet. 按字母顺序的
+alphabetical |英 [ælfə'betɪk(ə)l]  美 [,ælfə'bɛtɪkl]| adj. 字母的；[计] 依字母顺序的/
+Their herbs and spices are arranged in alphabetical order on narrow open shelves.他们的草药和调味品按照字母顺序列在狭窄、开放的架子上。
+
+
+A democracy is a country in which the people choose their government by voting for it. 民主国家
+Democracy is a system of government in which people choose their rulers by voting for them in elections. 民主政体
+democracy |英 [dɪ'mɒkrəsɪ]  美 [dɪˈmɑkrəsi]| n. 民主，民主主义；民主政治/
+The new democracies face tough challenges.新生的民主国家面临严峻的挑战。
+The spread of democracy in Eastern Europe appears to have had negative as well as positive consequences.东欧民主政体的蔓延看来既有消极也有积极的影响。
+
+
+If something such as information or an emotion seeps into or out of a place, it enters or leaves it gradually. 逐渐外泄; 逐渐进入
+Seep is also a noun. 渗透
+If something such as liquid or gas seeps somewhere, it flows slowly and in small amounts into a place where it should not go. 渗透
+seep |英 [siːp]  美 [sip]| vi. 漏；渗出/n. 小泉；水陆两用的吉普车/
+Many of us thrive on competition, but it can seep into areas of our lives where we do not want it.我们许多人靠竞争而发展，但竞争也会逐渐侵入到我们生活中不需要它的一些方面。
+...an oil seep.…一次石油渗漏。
+The gas is seeping out of the rocks.气体正从岩石里渗出。
+Radioactive water had seeped into underground reservoirs.放射性水已渗入了地下蓄水池。
+
+
+If you say that someone or something has the distinction of being something, you are drawing attention to the fact that they have the special quality of being that thing. Distinction is normally used to refer to good qualities, but can sometimes also be used to refer to bad qualities. 特质
+Distinction is the quality of being very good or better than other things of the same type. 卓越
+A distinction is a special award or honour that is given to someone because of their very high level of achievement. 荣誉
+A distinction between similar things is a difference. 区别
+distinction |英 [dɪ'stɪŋ(k)ʃ(ə)n]  美 [dɪ'stɪŋkʃən]| n. 区别；差别；特性；荣誉、勋章/
+He has the distinction of being regarded as the Federal Republic's greatest living writer.他有一种特质，因此被认为是联邦共和国在世的最伟大的作家。
+Lewis emerges as a composer of distinction and sensitivity.刘易斯脱颖而出，成为一位有卓越能力和敏锐度的作曲家。
+The award was established in 1902 as a special distinction for eminent men and women.该奖设立于1902年，作为特别荣誉颁给杰出的男士和女士。
+The distinction between craft and fine art is more controversial.工艺和美术之间的区别更有争议。
+There are obvious distinctions between the two wine-making areas.这两个酿酒区之间有明显的不同。
+
+
+A car's indicators are the flashing lights that tell you when it is going to turn left or right. (车辆上的) 转向指示灯
+An indicator is a measurement or value that gives you an idea of what something is like. 指示物
+indicator |英 ['ɪndɪkeɪtə]  美 ['ɪndɪketɚ]| n. 指示器；[试剂] 指示剂；[计] 指示符；压力计/
+He flipped his indicator, and took a left.他打开汽车方向灯，向左转了弯。
+...vital economic indicators, such as inflation, growth and the trade gap.…重要的经济指标，如通货膨胀，经济增长以及贸易差额。
+
+
+If you persevere with something, you keep trying to do it and do not give up, even though it is difficult. 坚持不懈
+persevere |英 [pɜːsɪ'vɪə]  美 [,pɝsə'vɪr]| vi. 坚持；不屈不挠；固执己见（在辩论中）/
+...a school with a reputation for persevering with difficult and disruptive children.…一所因坚持不懈地教诲难管捣蛋的学生而闻名的学校。
+This ability to persevere despite obstacles and setbacks is the quality people most admire in others.这种不管障碍和挫折的锲而不舍的能力是人们最为钦佩的品质。
+

@@ -1,31 +1,264 @@
-decade							十年
-exceed				超过，超出
-tutor								教师，课本
-proximity			接近
-cosmopolitan			国际性的，见多识广的
-Christian						基督教的
-catalyst		促进因素
-consign		打发，托付
-lease		租约，更愉快的生活，出租
-wane			衰落，亏损
-quota							定额，限额
-depress					使沮丧，使萧条，按下
-clarify									澄清
-extreme								极度的，极端的，极度，极端
-radar				雷达
-pertain				有关，从属
-given				特定的，有倾向的，鉴于，如果有
-seismic				地震的，巨大的
-summit				山顶，巅峰，首脑会议
-nautical				航海的，海员的
-licence				许可证，许可
-target						靶，目标
-analytical						分析的
-jerk					突然的一动，蠢人，抽搐
-rescue						解救
-couch				长沙发，表达
-strategic			战略的，关键的
-impulse				冲动，推动力，脉冲
-ultraviolet			紫外的
-melodious			悦耳的
+decade							n.十年
+exceed				vt.超过，超出
+tutor								n.教师，课本vt.教师vi.教师
+proximity			n.接近
+cosmopolitan			adj.国际性的，见多识广的
+Christian						adj.基督教的n.基督教的
+catalyst		n.促进因素
+consign		vt.打发，托付
+lease		n.租约，更愉快的生活vt.出租
+wane			vi.衰落，亏损n.衰落
+quota							n.定额，限额
+depress					vt.使沮丧，使萧条，按下
+clarify									vt.澄清
+extreme								adj.极度的，极端的n.极度，极端
+radar				n.雷达
+pertain				vi.<正式>有关，<法>从属
+given				adj.特定的，有倾向的prep.鉴于，如果有n.确定
+seismic				adj.地震的，巨大的
+summit				n.山顶，巅峰，首脑会议
+nautical				adj.航海的，海员的
+licence				n.许可证，许可
+target						n.靶，目标vt.靶，目标
+analytical						adj.分析的
+jerk					n.突然的一动，蠢人vt.突然的一动vi.突然的一动，抽搐
+rescue						vt.解救n.解救
+couch				n.长沙发vt.表达
+strategic			adj.战略的，关键的
+impulse				n.冲动，推动力，脉冲
+ultraviolet			adj.紫外的n.紫外的
+melodious			adj.悦耳的
 \\\\\\\\
+
+A decade is a period of ten years, especially one that begins with a year ending in 0, for example, 1980 to 1989. 10年 (尤指起始年末尾为0)
+decade |英 ['dekeɪd; dɪ'keɪd]  美 ['dɛked]| n. 十年，十年期；十/
+...the last decade of the nineteenth century.…19世纪的最后10年。
+
+
+If you exceed a limit or rule, you go beyond it, even though you are not supposed to or it is against the law. 超越 (限制、规定)
+If something exceeds a particular amount or number, it is greater or larger than that amount or number. 超过 (某数量)
+exceed |英 [ɪk'siːd; ek-]  美 [ɪk'sid]| vt. 超过；胜过/vi. 超过其他/
+He accepts that he was exceeding the speed limit.他承认他当时超过了速限。
+Its research budget exceeds $700 million a year.其研究预算每年超过7亿美元。
+
+
+A tutor is someone who gives private lessons to one student or a very small group of students. 家庭教师
+tutor |英 ['tjuːtə]  美 ['tʊtɚ]| vt. 辅导；约束/n. 导师；家庭教师；助教/vi. 当家庭教师；（美）在家庭教师指导下学习/
+...a Spanish tutor.…一位西班牙语家庭教师。
+
+
+Proximityto a place or person is nearness to that place or person. 接近
+proximity |英 [prɒk'sɪmɪtɪ]  美 [prɑk'sɪməti]| n. 接近，[数]邻近；接近；接近度，距离；亲近/
+He became aware of the proximity of the Afghans.他开始意识到那些阿富汗人的接近。
+Part of the attraction is Darwin's proximity to Asia.达尔文港的部分吸引力在于她与亚洲比邻。
+
+
+Someone who is cosmopolitan has had a lot of contact with people and things from many different countries and as a result is very open to different ideas and ways of doing things. 见多识广的
+A cosmopolitan place or society is full of people from many different countries and cultures. 世界性的
+cosmopolitan |英 [,kɒzmə'pɒlɪt(ə)n]  美 ['kɑzmə'pɑlətn]| adj. 世界性的；世界主义的，四海一家的/n. 四海为家者；世界主义者；世界各地都有的东西/
+The family is rich, and extremely sophisticated and cosmopolitan.这个家庭殷实富足，深谙世故，又见多识广。
+...a cosmopolitan city.…一个国际化都市。
+
+
+Christian means relating to Christianity or Christians. 基督教的; 基督教徒的
+A Christian is someone who follows the teachings of Jesus Christ. 基督教徒
+Christian |英 [ˈkrɪstʃən]  美 ['krɪstʃən]| n. 基督徒，信徒/adj. 基督教的；信基督教的/
+Most of my friends are Christian.我大多数朋友都信奉基督教。
+...the Christian Church.…基督教会。
+He was a devout Christian.他曾是一个虔诚的基督教徒。
+
+
+You can describe a person or thing that causes a change or event to happen as a catalyst. 催化剂
+catalyst |英 ['kæt(ə)lɪst]  美 ['kætəlɪst]| n. [物化] 催化剂；刺激因素/
+I very much hope that this case will prove to be a catalyst for change.我非常希望这件事终将成为促成变化的催化剂。
+
+
+To consign something or someone to a place where they will be forgotten about, or to an unpleasant situation or place, means to put them there. 弃置 (某物于某处或某境地); 发落 (某人于某处或某境地)
+consign |英 [kən'saɪn]  美 [kən'saɪn]| vt. 交付；托运；寄存；把…委托给/
+For decades, many of Malevich's works were consigned to the basements of Soviet museums.几十年来，马列维奇的许多作品都被弃置在苏联的博物馆的地下室里。
+
+
+If you lease property or something such as a car from someone or if they lease it to you, they allow you to use it in return for regular payments of money. 租进; 租出
+A lease is a legal agreement by which the owner of a building, a piece of land, or something such as a car allows someone else to use it for a period of time in return for money. 租约
+lease |英 [liːs]  美 [lis]| n. 租约；租期；租赁物；租赁权/vt. 出租；租得/vi. 出租/
+She hopes to lease the building to students.她希望把大楼租给学生。
+He went to Toronto, where he leased an apartment.他去了多伦多，在那里租了一套公寓。
+He took up a 10-year lease on the house.他为这房子签了10年的租约。
+
+
+If something wanes, it becomes gradually weaker or less, often so that it eventually disappears. 减弱; 减少
+wane |英 [weɪn]  美 [wen]| vi. 衰落；变小；亏缺；退潮；消逝/n. 衰退；月亏；衰退期；缺损/n. (Wane)人名；(英)韦恩；(阿拉伯)瓦尼；(几、马里、塞内)瓦内/
+While his interest in these sports began to wane, a passion for lacrosse developed.他对这些运动项目的兴趣开始减退的同时，对长曲棍球的兴趣却浓厚起来。
+
+
+Someone's quota of something is their expected or deserved share of it. (预期或应得的) 份额
+A quota is a fixed maximum or minimum proportion of people from a particular group who are allowed to do something, such as come and live in a country or work for the government. 配额
+A quota is the limited number or quantity of something which is officially allowed. 限额
+quota |英 ['kwəʊtə]  美 ['kwotə]| n. 配额；定额；限额/
+They have the usual quota of human weaknesses, no doubt.他们毫无疑问也有人类通常的弱点。
+The bill would force employers to adopt a quota system when recruiting workers.该法案将迫使雇主们在录用工人时采取配额制。
+The quota of four tickets per person had been reduced to two.每人4张票的限额已减少到了2张。
+
+
+If something depresses prices, wages, or figures, it causes them to become less. 使降低
+If someone or something depresses you, they make you feel sad and disappointed. 使沮丧
+depress |英 [dɪ'pres]  美 [dɪ'prɛs]| vt. 压抑；使沮丧；使萧条/
+The stronger U.S. dollar depressed sales.更坚挺的美元使销售量下降。
+I must admit the state of the country depresses me.我必须承认国家的形势令我沮丧。
+
+
+clarification 澄清
+To clarify something means to make it easier to understand, usually by explaining it in more detail. 澄清
+clarify |英 ['klærɪfaɪ]  美 ['klærəfaɪ]| vt. 澄清；阐明/vi. 得到澄清；变得明晰；得到净化/
+The union has written to Detroit asking for clarification of the situation.工会已经写信给底特律，要求对此情况给予澄清。
+Thank you for writing and allowing me to clarify the present position.谢谢你来信并允许我澄清目前的状况。
+
+
+If a person goes to extremes or takes something to extremes, they do or say something in a way that people consider to be unacceptable, unreasonable, or foolish. (行动、说话) 走极端
+The extreme end or edge of something is its farthest end or edge. 极远的 (端、边缘)
+You can use extremes to refer to situations or types of behaviour that have opposite qualities to each other, especially when each situation or type of behaviour has such a quality to the greatest degree possible. 极端
+You use extreme to describe opinions, beliefs, or political movements that you disapprove of because they are very different from those that most people would accept as reasonable or normal. 偏激的
+You use extreme to describe situations and behaviour that are much more severe or unusual than you would expect, especially when you disapprove of them because of this. 过激的
+Extreme means very great in degree or intensity. 极大的
+extreme |英 [ɪk'striːm; ek-]  美 [ɪk'strim]| adj. 极端的；极度的；偏激的；尽头的/n. 极端；末端；最大程度；极端的事物/
+The police went to the extremes of installing the most advanced safety devices in the man's house.警察走了极端，在这个人的房屋里安装了最先进的安全设备。
+...the room at the extreme end of the corridor.…走廊最尽头的房间。
+...a "middle way" between the extremes of success and failure, wealth and poverty.…成功与失败、富裕与贫穷两个极端之间的“中道”。
+This extreme view hasn't captured popular opinion.这种偏激的观点还没有赢得大众的认同。
+It is hard to imagine Jesse capable of anything so extreme.很难想像杰西能做这样过激的事情。
+The extreme case was Poland, where 29 parties won seats.过激的案例是波兰，那里有29个政党获得席位。
+...people living in extreme poverty.…活在极度贫穷中的人们。
+The girls were afraid of snakes and picked their way along with extreme caution.那些女孩们害怕蛇，一路极其谨慎地看好每一步走。
+
+
+Radar is a way of discovering the position or speed of objects such as aircraft or ships when they cannot be seen, by using radio signals. 雷达
+radar |英 ['reɪdɑː]  美 ['redɑr]| n. [雷达] 雷达，无线电探测器/n. (Radar)人名；(塞)拉达尔/
+...a ship's radar screen.…一艘船的雷达显示屏。
+
+
+If one thing pertains to another, it relates, belongs, or applies to it. 与…相关; 属于; 适于
+pertain |英 [pə'teɪn]  美 [pɝ'ten]| vi. 属于；关于；适合/
+...matters pertaining to naval district defence.…与海军区域防卫有关的问题。
+
+
+If you say given something, you mean taking that thing into account. 考虑到
+If you say given that something is the case, you mean taking that fact into account. 考虑到
+Given is used when indicating a possible situation in which someone has the opportunity or ability to do something. For example, given the chance means "if I had the chance." 如果有 (机会等)
+If you talk about, for example, any given position or a given time, you mean the particular position or time that you are discussing. 特定的
+given |英 ['gɪv(ə)n]  美 ['ɡɪvn]| adj. 赠予的；沉溺的；规定的/prep. 考虑到/v. 给予（give的过去分词）/n. (Given)人名；(英、土)吉文/
+Given the uncertainty over Leigh's future I was left with little other choice.考虑到莉前途未卜，我几乎没有选择余地。
+Usually, I am sensible with money, as I have to be, given that I don't earn that much.我花钱通常是很明智的。考虑到自己挣得不多，必须这样做。
+Write down the sort of thing you would like to do, given the opportunity.如果有机会，请写下你想做的那类事。
+In chess there are typically about 36 legal moves from any given board position.在国际象棋中，从棋盘的任何一个特定方格通常都可以移动大致36步。
+
+
+A seismic shift or change is a very sudden or dramatic change. 突然的
+Seismic means caused by or relating to an earthquake. 地震的; 地震引起的
+seismic |英 ['saɪzmɪk]  美 ['saɪzmɪk]| adj. 地震的；因地震而引起的/
+I have never seen such a seismic shift in public opinion in such a short period of time.我从来没有见过公众舆论在这么短的时间内发生如此突然的转变。
+Earthquakes produce two types of seismic waves.地震产生两种类型的地震波。
+
+
+The summit of a mountain is the top of it. (山) 峰
+A summit is a meeting at which the leaders of two or more countries discuss important matters. 峰会
+summit |英 ['sʌmɪt]  美 ['sʌmɪt]| n. 顶点；最高级会议；最高阶层/adj. 最高级的；政府首脑的/
+He made it to the summit of Kilimanjaro before collapsing.他成功登上乞力马扎罗山峰顶后倒下了。
+...next week's Washington summit.…下周的华盛顿峰会。
+
+
+Nautical means relating to ships and sailing. 航海的
+nautical |英 ['nɔːtɪk(ə)l]  美 ['nɔtɪkl]| adj. 航海的，海上的；船员的/
+...a nautical chart of the region you sail.…一张你们航行区域的航海图。
+
+
+If you say that something gives someone licence or a licence to act in a particular way, you mean that it gives them an excuse to behave in an irresponsible or excessive way. 借口
+A licence is an official document which gives you permission to do, use, or own something. 许可; 执照
+licence |英 ['laɪsəns]  美 ['laɪsəns]| n. 许可证，执照；特许/vt. 特许，许可；发给执照/
+Partition would give licence to other aggressors in other conflicts.分裂组织给其他侵略者提供其他冲突的借口。
+The company has applied to the FDA for a licence to sell the drug.该公司已向美国食品及药品管理局申请了销售药物的许可证。
+The judge fined the man and suspended his licence.法官罚了那个人的款，并且吊销了他的执照。
+
+
+If someone or something is on target, they are making good progress and are likely to achieve the result that is wanted. 有望达到目标
+Target is also a noun. (针对的) 目标
+If you target a particular group of people, you try to appeal to those people or affect them. 以 (某特定人群) 为目标; 针对
+Target is also a noun. (攻击、批评的) 对象
+To target a particular person or thing means to decide to attack or criticize them. 把…作为攻击目标; 把…作为批评对象
+A target is a result that you are trying to achieve. (试图达成的) 目标
+A target is something at which someone is aiming a weapon or other object. 靶; (攻击的) 目标
+target |英 ['tɑːgɪt]  美 ['tɑrɡɪt]| 
+We were still right on target for our deadline.我们那时仍然很有希望在最后期限之前完成目标。
+Yuppies are a prime target group for marketing strategies.雅皮士是市场营销策略的主要目标群体。
+The campaign will target American insurance companies.这场运动将以美国的保险公司为目标。
+In the past they have been the target of racist abuse.过去他们一直是种族虐待的对象。
+Republicans targeted her as vulnerable in her bid for reelection this year.共和党人认为她在今年的再次参选中是不堪一击的攻击目标。
+She's won back her place too late to achieve her target of 20 goals this season.她赢回她的位置为时已晚,无法实现她本赛季打进20个球的目标。
+The village lies beside a main road, making it an easy target for bandits.该村位于大路边，容易成为匪徒攻击的目标。
+
+
+An analytical way of doing something involves the use of logical reasoning. 分析的
+analytical |英 [ænə'lɪtɪk(ə)l]  美 [,ænə'lɪtɪkl]| adj. 分析的；解析的；善于分析的/
+I have an analytical approach to every survey.我对每项调查都采用一种分析的方法。
+
+
+If you call someone a jerk, you are insulting them because you think they are stupid or you do not like them. 蠢货
+Jerk is also a noun. 猝然一动
+If you jerk something or someone in a particular direction, or they jerk in a particular direction, they move a short distance very suddenly and quickly. 使…猝然一动; 猝然一动
+jerk |英 [dʒɜːk]  美 [dʒɝk]| n. 肌肉抽搐；性情古怪的人；蠢人；急拉/vi. 痉挛；急拉；颠簸地行进/vt. 猛拉/n. (Jerk)人名；(俄)埃尔克；(匈)耶尔克/
+The guy is such a jerk! He only cares about himself.这家伙真是个蠢货！他只关心他自己。
+He indicated the bedroom with a jerk of his head.他用头的猝然一动示意了卧室的方向。
+"This is Brady Coyne," said Sam, jerking his head in my direction.“这是布雷迪·科因”，萨姆说，他的头朝我这边甩了一下。
+Mr. Griffin jerked forward in his chair.格里芬先生在椅子上猛地向前一动。
+
+
+If you go to someone's rescue or come to their rescue, you help them when they are in danger or difficulty. 营救某人
+A rescue is an attempt to save someone from a dangerous or unpleasant situation. 营救行动
+Rescue is help which gets someone out of a dangerous or unpleasant situation. 营救
+rescuer 救援者
+If you rescue someone, you get them out of a dangerous or unpleasant situation. 营救
+rescue |英 ['reskjuː]  美 ['rɛskju]| vt. 营救；援救/n. 营救；援救；解救/
+The 23-year-old's screams alerted a passerby who went to her rescue.那名23岁女孩的尖叫声引起了一个过路人的警觉，他救了她。
+A major air-sea rescue is under way.一项重要的海空营救行动正在进行中。
+A big rescue operation has been launched for a trawler missing in the North Atlantic.为了一艘在北大西洋失踪的拖网渔船，已经开始了一项大的营救行动。
+It took rescuers 90 minutes to reach the trapped men.救援者们花了90分钟才来到那些被困的男子身边。
+Helicopters rescued nearly 20 people from the roof of the burning building.直升机从着火的楼顶救出来了将近二十个人。
+
+
+A couch is a narrow bed which patients lie on while they are being treated by a psychoanalyst. (精神科医生的) 诊察台
+couch |英 [kaʊtʃ]  美 [kaʊtʃ]| n. 睡椅，长沙发；床；卧榻/vi. 蹲伏，埋伏；躺着/vt. 使躺下；表达；弯下/n. (Couch)人名；(英)库奇/
+Between films he often winds up spending every single morning on his psychiatrist's couch.在拍电影的间隔期间，他经常是在心理医生的诊察台上度过每一个早晨。
+
+
+strategically 巧妙地
+If you put something in a strategic position, you place it cleverly in a position where it will be most useful or have the most effect. 巧妙的
+Strategic weapons are very powerful missiles that can be fired only after a decision to use them has been made by a political leader. 战略性的
+strategically 战略上地
+Strategic means relating to the most important, general aspects of something such as a military operation or political policy, especially when these are decided in advance. 战略上的
+strategic |英 [strə'tiːdʒɪk]  美 [strə'tidʒɪk]| adj. 战略上的，战略的/
+We had kept its presence hidden with a strategically placed chair.我们用一把巧妙放置的椅子把它隐藏起来。
+...the marble benches Eve had placed at strategic points throughout the gardens, where the views were spectacular.…伊夫在花园各个景色优美的巧妙位置安放的大理石长凳。
+...strategic nuclear weapons.…战略性核武器。
+...strategically important roads, bridges and buildings.…战略上具有重要意义的公路、桥梁和建筑物。
+...the new strategic thinking which NATO leaders produced at the recent London summit.…北大西洋公约组织领导人在最近伦敦峰会上提出的新的战略思维。
+
+
+If you do something on impulse, you suddenly decide to do it, without planning it. 凭一时冲动
+An impulse buy or impulse purchase is something that you decide to buy when you see it, although you had not planned to buy it. 一时心血来潮的
+An impulse is a short electrical signal that is sent along a wire or nerve or through the air, usually as one of a series. 脉冲
+An impulse is a sudden desire to do something. 冲动
+impulse |英 ['ɪmpʌls]  美 ['ɪmpʌls]| n. 冲动；[电子] 脉冲；刺激；神经冲动；推动力/vt. 推动/
+Sean's a fast thinker, and he acts on impulse.肖恩是个思维敏捷、凭一时冲动行事的人。
+The curtains were an impulse buy.这窗帘是一时心血来潮买下的。
+It works by sending a series of electrical impulses which are picked up by hi-tech sensors.它通过传输由高技术传感器收集的电脉冲而起作用。
+Unable to resist the impulse, he glanced at the sea again.他抑制不住冲动，又看了一眼大海。
+
+
+Ultraviolet light or radiation is what causes your skin to become darker in colour after you have been in sunlight. In large amounts ultraviolet light is harmful. 紫外的
+ultraviolet |英 [ʌltrə'vaɪələt]  美 [,ʌltrə'vaɪələt]| adj. 紫外的；紫外线的/n. 紫外线辐射，紫外光/
+The sun's ultraviolet rays are responsible for both tanning and burning.太阳的紫外线是皮肤晒黑和晒伤的原因。
+
+
+A melodious sound is pleasant to listen to. 优美的; 悦耳的; 动听的
+melodious |英 [mɪ'ləʊdɪəs]  美 [mə'lodɪəs]| adj. 悦耳的；旋律优美的/
+She spoke in a quietly melodious voice.她说话轻声细语，甜美悦耳。
+

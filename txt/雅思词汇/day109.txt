@@ -1,30 +1,259 @@
-eternal				永远的，永恒的
-stake							桩，赌注，股，奖金
-harmony							和谐
-literally			逐字的，确确实实的，简直
-ascertain					查明
-paralysis			瘫痪
-timely				及时的，适时的
-worship					敬神，崇拜
-idiom								成语，方言，风格
-safeguard			保护
-trumpet				小号，宣扬
-spill				溢出，散落，透露，摔下
-eddy				漩涡
-spectator				观众
-spectrum					频谱，范围
-ammunition			弹药，证据材料
-condolence			慰唁
-indigenous				当地的，土著的
-constitute					形成，成为
-spouse				配偶
-plateau				高原，稳定期
-implicit			含蓄的，绝对的，内在的
-vegetarian								素食者
-genetic					基因的，遗传学的
-legitimate				合法的，合理的
-wisdom						智慧，知识
-retort				反驳
-adjust							调整，适应
-motel							汽车旅馆
+eternal				adj.永远的，永恒的
+stake							n.桩，赌注，股(本)vt.桩，赌注
+stakes					奖金
+harmony							n.和谐
+literally			adv.逐字的，确确实实的，简直
+ascertain					vt.查明
+paralysis			n.瘫痪
+timely				adj.及时的，适时的
+worship					n.敬神，崇拜vt.崇拜
+idiom								n.成语，方言，风格
+safeguard			vt.保护n.保护
+trumpet				n.<乐器>小号vt.宣扬vi.吼叫
+spill				vi.溢出，散落vt.溢出，散落，透露，摔下n.溢出，摔下
+eddy				n.漩涡vi.漩涡
+spectator				n.观众
+spectrum					n.频谱，范围
+ammunition			n.弹药，证据材料
+condolence			n.慰唁
+indigenous				adj.当地的，土著的
+constitute					vt.形成，成为
+spouse				n.配偶
+plateau				n.高原，稳定期
+implicit			adj.含蓄的，绝对的，内在的
+vegetarian								n.素食者adj.素食的
+genetic					adj.基因的，遗传学的
+legitimate				adj.合法的，合理的vt.合法的，合理的
+wisdom						n.智慧，知识
+retort				vt.反驳n.反驳
+adjust							vt.调整vi.适应
+motel							n.汽车旅馆
 \\\\\\\\
+
+If you describe something as eternal, you mean that it seems to last forever, often because you think it is boring or annoying. 无休止的
+eternally 永恒地
+Something that is eternal lasts forever. 永恒的
+eternal |英 [ɪ'tɜːn(ə)l; iː-]  美 [ɪ'tɝnl]| adj. 永恒的；不朽的/
+In the background was that eternal hum.背景里是那没完没了的哼哼声。
+She is eternally grateful to her family for their support.她因家人的支持对他们永存感激之心。
+...the quest for eternal youth.…对永远年轻的追求。
+
+
+If you stake a claim, you say that something is yours or that you have a right to it. 提出所有权要求
+A stake is a pointed wooden post which is pushed into the ground, for example in order to support a young tree. 桩
+You can use stakes to refer to something that is like a contest. For example, you can refer to the choosing of a leader as the leadership stakes. 争夺赛
+If you have a stake in something such as a business, it matters to you, for example because you own part of it or because its success or failure will affect you. (商业等中的) 利害关系
+If you stake something such as your money or your reputation on the result of something, you risk your money or reputation on it. 以 (金钱、名誉等) 下赌注
+The stakes involved in a contest or a risky action are the things that can be gained or lost. (竞赛、冒险行为中的) 赌注
+If something is at stake, it is being risked and might be lost or damaged if you are not successful. 得失难料
+stake |英 [steɪk]  美 [stek]| n. 桩，棍子；赌注；火刑；奖金/vt. 资助，支持；系…于桩上；把…押下打赌/vi. 打赌/n. (Stake)人名；(瑞典)斯塔克/
+Jane is determined to stake her claim as an actress.简决心提出她作为一名女演员的应有权利。
+His arms were tied to wooden stakes to hold him flat.他的双臂被绑在木桩上以便使他平躺着。
+We are lagging behind in the childcare stakes.我们在儿童保育竞赛中正落在后面。
+He was eager to return to a more entrepreneurial role in which he had a big financial stake in his own efforts.他渴望回到更具企业家性质的角色，这样他的努力就跟自己有大的金融利害关系。
+He has staked his political future on an election victory.他已把他的政治前途赌在了一次选举获胜上。
+The game was usually played for high stakes between two large groups.这种游戏通常是两大组人为赢得大的赌注而进行的。
+The tension was naturally high for a game with so much at stake.一场成败如此难料的比赛紧张度自然很高。
+
+
+The harmony of something is the way in which its parts are combined into a pleasant arrangement. 和谐
+Harmony is the pleasant combination of different notes of music played at the same time. 和声
+If people are living in harmony with each other, they are living together peacefully rather than fighting or arguing. 融洽
+harmony |英 ['hɑːmənɪ]  美 ['hɑrməni]| n. 协调；和睦；融洽；调和/n. (Harmony)人名；(英)哈莫尼/
+...the ordered harmony of the universe.…宇宙的有序和谐。
+...singing in harmony.…和声演唱。
+...the notion that man should dominate nature rather than live in harmony with it.…人类应当支配自然而并非与自然和谐相处的观点。
+
+
+If a word or expression is translated literally, its most simple or basic meaning is translated. 字面上地
+You use literally to emphasize that what you are saying is true, even though it seems exaggerated or surprising. 确实地
+You can use literally to emphasize an exaggeration. Some careful speakers of English think that this use is incorrect. 真地
+literally |英 ['lɪt(ə)rəlɪ]  美 ['lɪtərəli]| adv. 照字面地；逐字地；不夸张地；正确地；简直/
+The word "volk" translates literally as "folk."“”这个词照字面意思翻译为“”。
+Putting on an opera is a tremendous enterprise involving literally hundreds of people.上演一台话剧是一项巨大的事业，它确实要几百个人参与。
+We've got to get the economy under control or it will literally eat us up.我们必须控制住经济，否则它真地就会把我们困住。
+
+
+If you ascertain the truth about something, you find out what it is, especially by making a deliberate effort to do so. (尤指经过努力) 查明
+ascertain |英 [,æsə'teɪn]  美 ['æsɚ'ten]| vt. 确定；查明；探知/
+Once they had ascertained that he was not a spy, they agreed to release him.一查明他不是间谍，他们就同意了释放他。
+Through doing this, the teacher will be able to ascertain the extent to which the child understands what he is reading.通过这样做，老师将能确定这个孩子对他正在读的内容的理解程度。
+
+
+Paralysis is the state of being unable to act or function properly. 瘫痪状态
+Paralysis is the loss of the ability to move and feel in all or part of your body. 瘫痪
+paralysis |英 [pə'rælɪsɪs]  美 [pə'ræləsɪs]| n. 麻痹；无力；停顿/
+The paralysis of the leadership leaves the army without its supreme command.领导层的瘫痪使得军队没有了最高统帅。
+...paralysis of the leg.…腿部的瘫痪。
+
+
+If you describe an event as timely, it happens exactly at the moment when it is most useful, effective, or relevant. 适时的
+timely |英 ['taɪmlɪ]  美 ['taɪmli]| adj. 及时的；适时的/adv. 及时地；早/
+The recent outbreaks of cholera are a timely reminder that this disease is still a serious health hazard.最近几次爆发的霍乱是一个适时的提醒，该疾病依然是个严重的健康危害。
+
+
+If you worship someone or something, you love them or admire them very much. 爱慕
+worshipper 敬神者
+Worship is also a noun. 敬奉
+If you worship a god, you show your respect to the god, for example, by saying prayers. 敬奉
+worship |英/美 ['wɝʃɪp]| n. 崇拜；礼拜；尊敬/vt. 崇拜；尊敬；爱慕/vi. 拜神；做礼拜/
+She had worshipped him for years.她爱慕他已有好多年了。
+She burst into tears and loud sobs that disturbed the other worshippers.她突然哭起来，大声抽噎，干扰了其他拜神者。
+...the worship of the ancient Roman gods.…对古罗马众神的敬奉。
+He prefers to worship in his own home.他更喜欢在自己的家里敬奉神明。
+..disputes over ways of life and ways of worshipping God.…一些在生活方式和敬奉上帝方式上的争论。
+
+
+An idiom is a group of words that have a different meaning when used together from the one they would have if you took the meaning of each word separately. 习语
+idiom |英 ['ɪdɪəm]  美 ['ɪdɪəm]| n. 成语，习语；土话/
+...familiar idioms and metaphors, such as "turning over a new leaf."…如“翻开新的一页”这样熟悉的习语和比喻。
+
+
+A safeguard is a law, rule, or measure intended to prevent someone or something from being harmed. 安全条例; 防护措施
+To safeguard something or someone means to protect them from being harmed, lost, or badly treated. 保护; 保卫
+safeguard |英 ['seɪfgɑːd]  美 ['sefɡɑrd]| n. [安全] 保护；保卫；保护措施/vt. [安全] 保护，护卫/
+As an additional safeguard against weeds you can always use an underlay of heavy duty polyethylene.作为另外一种预防杂草的防护措施，你可以一直使用一层厚重耐磨的聚乙烯底垫。
+They will press for international action to safeguard the ozone layer.他们将竭力要求国际行动来保护臭氧层。
+
+
+A trumpet is a musical instrument of the brass family which plays comparatively high notes. 小号
+trumpet |英 ['trʌmpɪt]  美 ['trʌmpɪt]| n. 喇叭；喇叭声/vt. 吹喇叭；吹嘘/vi. 吹喇叭；发出喇叭般的声音/
+I played the trumpet in the school orchestra.我在学校管弦乐队吹小号。
+
+
+If people or things spill out of a place, they come out of it in large numbers. 涌出
+If the contents of a bag, box, or other container spill or are spilled, they come out of the container onto a surface. 使散落; 散落
+A spill is an amount of liquid that has spilled from a container. 洒落的液体
+If a liquid spills or if you spill it, it accidentally flows over the edge of a container. 无意洒落; 意外溢出
+spill |英 [spɪl]  美 [spɪl]| vt. 使溢出，使流出；使摔下/vi. 溢出，流出；摔下；涌流/n. 溢出，溅出；溢出量；摔下；小塞子/n. (Spill)人名；(德)施皮尔/
+Tears began to spill out of the boy's eyes.泪水开始从男孩的眼里涌出。
+A number of bags had split and were spilling their contents.许多包裂开了，里面的东西正在散落出来。
+She wiped a spill of milkshake off the counter.她擦掉柜台上洒落的奶昔。
+He always spilled the drinks.他总是不小心把饮料给洒了。
+Seventy thousand tons of oil spilled from the tanker.7万吨油从油轮漏出。
+
+
+
+eddy |英 ['edɪ]  美 ['ɛdi]| n. 涡流；漩涡；逆流/vi. 旋转；起漩涡/vt. 使…起漩涡/n. (Eddy)人名；(英、法、印尼、葡)埃迪/
+
+
+
+A spectator is someone who watches something, especially a sports event. (尤指体育赛事的) 观众
+spectator |英 [spek'teɪtə]  美 ['spɛktetɚ]| n. 观众；旁观者/
+Thirty thousand spectators watched the final game.3万观众观看了那场决赛。
+
+
+A spectrum is a range of a particular type of thing. 范围
+spectrum |英 ['spektrəm]  美 ['spɛktrəm]| n. 光谱；频谱；范围；余象/
+Politicians across the political spectrum have denounced the act.政界圈各派政客都谴责了这种行为。
+She'd seen his moods range across the emotional spectrum.她见过他在各种情感间的情绪变化。
+
+
+You can describe information that you can use against someone in an argument or discussion as ammunition. (可用于争辩的) 论据
+Ammunition is bullets and rockets that are made to be fired from weapons. 弹药
+ammunition |英 [æmjʊ'nɪʃ(ə)n]  美 [,æmju'nɪʃən]| n. 弹药；军火/vt. 装弹药于/vi. 装弹药/
+The improved trade figures have given the government fresh ammunition.增长的贸易数据为政府提供了新的论据。
+He had only seven rounds of ammunition for the revolver.他只有7发左轮手枪的弹药。
+
+
+When you offer or express your condolences to someone, you express your sympathy for them because one of their friends or relatives has died recently. 哀悼
+A message of condolence is a message in which you express your sympathy for someone because one of their friends or relatives has died recently. 吊唁
+condolence |英 [kən'dəʊl(ə)ns]  美 [kən'doləns]| n. 哀悼；慰问/
+He expressed his condolences to the families of the people who died in the incident.他向那次事故遇难者家属表达了哀悼。
+Neil sent him a letter of condolence.尼尔给他发了一封吊唁信。
+
+
+Indigenous people or things belong to the country in which they are found, rather than coming there or being brought there from another country. 本土的; 当地的
+indigenous |英 [ɪn'dɪdʒɪnəs]  美 [ɪn'dɪdʒənəs]| adj. 本土的；土著的；国产的；固有的/
+...the country's indigenous population.…该国的本土人口。
+
+
+If a number of things or people constitute something, they are the parts or members that form it. (某数量的物或人) 构成 (某事物)
+If something constitutes a particular thing, it can be regarded as being that thing. 构成
+constitute |英 ['kɒnstɪtjuːt]  美 ['kɑnstətut]| vt. 组成，构成；建立；任命/
+China's ethnic minorities constitute less than 7 percent of its total population.中国的少数民族构成总人口的不到7%。
+Testing patients without their consent would constitute a professional and legal offence.未得病人同意即对其进行试验会构成职业和法律犯罪。
+
+
+Someone's spouse is the person they are married to. 配偶
+spouse |英 [spaʊz; -s]  美 [spaʊs]| n. 配偶/vt. 和…结婚/n. (Spouse)人名；(英)斯波斯/
+You, or your spouse, must be at least 60 to participate.你或你的配偶至少要有60岁才能加入。
+
+
+If you say that an activity or process has reached a plateau, you mean that it has reached a stage where there is no further change or development. (不再有变化或进展的) 稳定阶段
+A plateau is a large area of high and fairly flat land. 高原
+plateau |英 ['plætəʊ]  美 [plæ'to]| n. 高原；稳定水平；托盘；平顶女帽/vi. 达到平衡；达到稳定时期/
+The U.S. heroin market now appears to have reached a plateau.美国的海洛因市场目前似乎已进入了一个稳定阶段。
+A broad valley opened up leading to a high, flat plateau of cultivated land.一个宽阔的山谷展开，通向一片平坦的高原耕地。
+
+
+implicitly 绝对地
+If you say that someone has an implicit belief or faith in something, you mean that they have complete faith in it and no doubts at all. 绝对的 (信任)
+If a quality or element is implicit in something, it is involved in it or is shown by it. 内含的
+implicitly 含蓄地
+Something that is implicit is expressed in an indirect way. 含蓄的
+implicit |英 [ɪm'plɪsɪt]  美 [ɪm'plɪsɪt]| adj. 含蓄的；暗示的；盲从的/
+I trust him implicitly.我绝对信任他。
+He had implicit faith in the noble intentions of the Emperor.他对皇帝的崇高旨意笃信不疑。
+Trust is implicit in the system.信任是这种体制里内含的。
+The jury implicitly criticized the government by their verdict.陪审团通过他们的裁决含蓄地批评了政府。
+...an implicit warning to the Moroccans not to continue or repeat the military actions they began a week ago.…叫摩洛哥人不要继续或重复一周前开始的军事行动的含蓄警告。
+
+
+Vegetarian food does not contain any meat or fish. 素的
+A vegetarian is someone who is vegetarian. 素食者
+Someone who is vegetarian never eats meat or fish. 素食的
+vegetarian |英 [ˌvedʒɪˈteərɪən]  美 [ˌvɛdʒəˈtɛrɪən]| n. 素食者；食草动物/adj. 素食的/
+...vegetarian lasagnes.…素意式宽面条。
+...a special menu for vegetarians.…一份针对素食者的特殊菜单。
+Yasmin sticks to a strict vegetarian diet.亚斯敏坚持一种严格的纯素饮食。
+
+
+genetically 遗传地
+You use genetic to describe something that is concerned with genetics or with genes. 遗传的
+genetic |英 [dʒɪ'netɪk]  美 [dʒə'nɛtɪk]| adj. 遗传的；基因的；起源的/
+Some people are genetically predisposed to diabetes.有些人因遗传因素而易患糖尿病。
+Cystic fibrosis is the most common fatal genetic disease in the United States.囊肿性纤维化在美国是最常见的致命性遗传疾病。
+
+
+legitimacy 合理性
+If you say that something such as a feeling or claim is legitimate, you think that it is reasonable and justified. 合理的
+legitimacy 合法性
+Something that is legitimate is acceptable according to the law. 合法的
+legitimate |英 [lɪ'dʒɪtɪmət]  美 [ləˈdʒɪtəmɪt]| adj. 合法的；正当的；合理的；正统的/vt. 使合法；认为正当（等于legitimize）/
+Sampras beat Carl-Uwe Steeb by 6-1, 6-2, 6-1 to underline the legitimacy of his challenge for the title.桑普拉斯以6比1、6比2和6比1战胜了卡尔-尤韦·斯蒂布，证明了他挑战冠军头衔的合理性。
+That's a perfectly legitimate fear.那是种完全合乎逻辑的恐惧。
+The opposition parties do not recognize the political legitimacy of his government.反对党不承认他的政府的政治合法性。
+The French government has condemned the coup in Haiti and has demanded the restoration of the legitimate government.法国政府已经谴责了海地的政变，并要求恢复合法政府。
+
+
+If you talk about the wisdom of a particular decision or action, you are talking about how sensible it is. 明智
+Wisdom is the ability to use your experience and knowledge in order to make sensible decisions or judgments. 智慧
+wisdom |英 ['wɪzdəm]  美 ['wɪzdəm]| n. 智慧，才智；明智；学识；至理名言/n. (Wisdom)人名；(英)威兹德姆/
+Many Lithuanians have expressed doubts about the wisdom of the decision.许多立陶宛人都已经对这个决定是否明智表示了怀疑。
+...the patience and wisdom that comes from old age.…老年的耐心和智慧。
+
+
+Retort is also a noun. 反驳
+To retort means to reply angrily to someone. 反驳
+retort |英 [rɪ'tɔːt]  美 [rɪ'tɔrt]| n. 反驳，顶嘴；曲颈瓶/vt. 反驳，反击/vi. 反驳，回嘴/
+His sharp retort clearly made an impact.他的尖锐反驳显然起了作用。
+"You can't smoke in here," Shaw said.—"Don't worry, it's not tobacco," he retorted.“你不能在这儿吸烟，”肖说道。—“别担心，这不是烟叶，”他反驳道。
+
+
+If you adjust your vision or if your vision adjusts, the muscles of your eye or the pupils alter to cope with changes in light or distance. 适应
+If you adjust something such as your clothing or a machine, you correct or alter its position or setting. 调节
+If you adjust something, you change it so that it is more effective or appropriate. 调整
+When you adjust to a new situation, you get used to it by changing your behaviour or your ideas. 调整以适应
+adjust |英 [ə'dʒʌst]  美 [ə'dʒʌst]| vt. 调整，使…适合；校准/vi. 调整，校准；适应/
+He stopped to try to adjust his vision to the faint starlight.他停下来，试着使眼睛适应昏暗的星光。
+Liz adjusted her mirror and then edged the car out of its parking space.莉兹调节了她的后视镜，然后把车慢慢地开出了停车位。
+To attract investors, Panama has adjusted its tax and labour laws.为了吸引投资者，巴拿马已经调整了其税务及劳动法规。
+I felt I had adjusted to the idea of being a mother very well.我感到我已经很好地适应了做母亲的想法。
+We have been preparing our fighters to adjust themselves to civil society.我们一直在让我们的战士们准备好自我调整以适应普通社会。
+
+
+
+motel |英 [məʊ'tel]  美 [mo'tɛl]| n. 汽车旅馆/n. (Motel)人名；(德)莫特尔/
+
+

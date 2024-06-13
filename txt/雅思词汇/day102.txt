@@ -1,31 +1,389 @@
-huddle			挤在一起，蜷缩
-dock				船坞，扣去
-eccentric					古怪的，不正圆的
-indefinite		含糊的，期限不定的
-coverage					新闻报道，覆盖
-stationary		停滞的，固定的
-maximum						最大的，最大限度
-edit							编辑，剪辑，主编
-somehow					以某种方式
-obstinate			执拗的，棘手的
-string							细绳，一串，悬挂
-day							一天，白天，日子
-numerous					许多的
-resignation		辞职，听任
-laden			满载的
-instinct			本能，直觉
-end								末尾，结束，一方，目的
-extinct			灭绝的
-theme							主题
-prologue			序言，开端
-diagram				示意图，图表
-fitting					恰当的，配件，试
-install						安装，安置
-dilute					稀释，削弱
-storey					楼层
-odds						投注赔率，可能性，不和
-swirl					旋转
-reassure					使安心
-casualty					伤亡人数
-match								比赛，和...匹配
+huddle			vi.挤在一起，蜷缩n.挤在一起
+dock				n.船坞vt.船坞vt.扣去vi.船坞
+eccentric					adj.古怪的，<天文>不正圆的
+indefinite		adj.含糊的，期限不定的
+coverage					n.新闻报道，覆盖
+stationary		adj.停滞的，固定的
+maximum						adj.最大的n.最大限度adv.最大的
+edit							vt.编辑，剪辑，主编n.编辑，剪辑
+somehow					adv.以某种方式
+obstinate			adj.执拗的，棘手的
+string							n.细绳，一串vt.悬挂
+day							n.一天，白天，日子
+numerous					adj.许多的
+resignation		n.辞职，听任
+laden			adj.满载的
+instinct			n.本能，直觉
+end								n.末尾，结束，一方，目的vt.结束vi.结束
+extinct			adj.灭绝的
+theme							n.主题vt.主题
+prologue			n.<文学>序言，开端
+diagram				n.示意图，图表
+fitting					adj.恰当的n.配件，试(衣)
+install						vt.安装，安置
+dilute					vt.稀释，<比喻>削弱adj.稀释
+storey					n.楼层
+odds						n.投注赔率，可能性，不和
+swirl					vt.旋转vi.旋转n.旋转
+reassure					vt.使安心
+casualty					n.伤亡人数
+match								n.<英>比赛，对手vt.匹配vi.匹配
 \\\\\\\\
+
+A huddle is a small group of people or things that are standing very close together or lying on top of each other, usually in a disorganized way. 挤在一起的一群人或东西
+If people huddle in a group, they gather together to discuss something quietly or secretly. (悄悄地或秘密地) 凑在一起商讨
+If people huddle together or huddle around something, they stand, sit, or lie close to each other, usually because they all feel cold or frightened. (由于寒冷或害怕) 挤成一团
+If you huddle somewhere, you sit, stand, or lie there holding your arms and legs close to your body, usually because you are cold or frightened. (由于寒冷或害怕而) 蜷缩
+huddle |英 ['hʌd(ə)l]  美 ['hʌdl]| vt. 把...挤在一起；使缩成一团；草率了事/vi. 蜷缩；挤作一团/n. 拥挤；混乱；杂乱一团/n. (Huddle)人名；(英)赫德尔/
+We lay there
+The president has been huddling with his most senior aides.总统一直在和他的顶级高级助理们秘密地聚到一起进行商谈。
+Off to one side, Sticht, Macomber, Jordan, and Kreps huddled to discuss something.史蒂希特、麦康伯、乔丹和克雷普斯走到一边，私下商量起事情。
+Tired and lost, we huddled together.又累又迷了路，我们挤在一起。
+Mr. Pell huddled in a corner with his notebook on his knees.佩尔先生缩在一个角落里,笔记本放在膝盖上。
+
+
+In a law court, the dock is where the person accused of a crime stands or sits. 被告席
+to remove (the tail or part of the tail) of (an animal) by cutting through the bone 切除动物的尾巴; 切除动物的尾巴的一段
+When one spacecraft docks or is docked with another, the two crafts join together in space. (宇宙飞船) 对接
+If you dock someone's pay or money, you take some of the money away. 扣 (钱)
+When a ship docks or is docked, it is brought into a dock. 停靠码头
+A dock is a small structure at the edge of water where boats can tie up, especially one that is privately owned. (尤指私家) 泊位
+A dock is a platform for loading vehicles or trains. 装车平台
+A dock is an enclosed area in a harbour where ships go to be loaded, unloaded, and repaired. 码头
+dock |英 [dɒk]  美 [dɑk]| n. 码头；船坞；被告席；尾巴的骨肉部分/vt. 使靠码头；剪短/vi. 入船坞/n. (Dock)人名；(老)多；(英、法、瑞典)多克/
+What about the odd chance that you do put an innocent man in the dock?万一你真的将一个无辜的人送上了被告席可怎么办呢？
+to dock a horse
+to dock a tail
+The space shuttle Atlantis is scheduled to dock with Russia's Mir space station.亚特兰蒂斯号航天飞机计划与俄罗斯的米尔号空间站对接。
+He threatens to dock her fee.他威胁要扣她的费用。
+The crash happened as the ferry attempted to dock on Staten Island.这次碰撞发生于渡船试图停靠在斯塔滕岛时。
+He had a house there and a dock and a little aluminium boat.他在那儿有一幢房、一个泊位和一条铝艇。
+The truck left the loading dock with hoses still attached.卡车离开了装货平台，软管还挂在车上。
+She headed for the docks, thinking that Ricardo might be hiding in one of the boats.她朝着码头走去，心想里卡多可能藏在其中的一条船上。
+
+
+An eccentric is an eccentric person. 古怪的人
+If you say that someone is eccentric, you mean that they behave in a strange way, and have habits or opinions that are different from those of most people. 古怪的; 异乎寻常的
+eccentric |英 [ɪk'sentrɪk; ek-]  美 [ɪk'sɛntrɪk]| adj. 古怪的，反常的/n. 古怪的人/
+Askew used several names, and had a reputation as an eccentric.艾斯丘用过几个名字，并以“怪人”著称。
+He is an eccentric character who likes wearing a beret and dark glasses.他是个怪人，喜欢戴贝雷帽和墨镜。
+
+
+Something that is indefinite is not exact or clear. 不明确的
+If you describe a situation or period as indefinite, you mean that people have not decided when it will end. 不确定的
+indefinite |英 [ɪn'defɪnɪt]  美 [ɪn'dɛfɪnət]| adj. 不确定的；无限的；模糊的/
+...at some indefinite time in the future.…在未来不确定的某个时间。
+The trial was adjourned for an indefinite period.审判被无限期推迟。
+
+
+The coverage of something in the news is the reporting of it. 报道
+coverage |英 ['kʌv(ə)rɪdʒ]  美 ['kʌvərɪdʒ]| n. 覆盖，覆盖范围；新闻报道/
+Now a special TV network gives live coverage of most races.现在一个专门的电视网对大多数比赛进行现场报道。
+
+
+Something that is stationary is not moving. 静止不动的
+stationary |英 ['steɪʃ(ə)n(ə)rɪ]  美 ['steʃənɛri]| adj. 固定的；静止的；定居的；常备军的/n. 不动的人；驻军/
+Stationary cars in traffic jams cause a great deal of pollution.交通堵塞中停止不前的车辆造成大量污染。
+
+
+If you say that something is a particular amount maximum, you mean that this is the greatest amount it should be or could possibly be, although a smaller amount is acceptable or very possible. 最多
+You use maximum to indicate how great an amount is. 最大的
+Maximum is also a noun. 最大值
+You use maximum to describe an amount which is the largest that is possible, allowed, or required. 最大的
+maximum |英 ['mæksɪməm]  美 [ˈmæksəməm]| n. [数] 极大，最大限度；最大量/adj. 最高的；最多的；最大极限的/
+We need an extra 6 grams a day maximum.我们一天最多还需要6克。
+It was achieved with minimum fuss and maximum efficiency.它以最少的慌乱和最高的效率被做到了。
+I need the maximum amount of information you can give me.我需要你所能给我的最大的信息量。
+The law provides for a maximum of two years in prison.法律规定监禁最长两年。
+Under planning law the maximum height for a fence or hedge is 6 feet.根据规划法，栅栏或树篱的最高高度为6英尺。
+
+
+Someone who edits a newspaper, magazine, or journal is in charge of it. 主编
+If you edit a film or a television or radio programme, you choose some of what has been filmed or recorded and arrange it in a particular order. 剪辑
+If you edit a book or a series of books, you collect several pieces of writing by different authors and prepare them for publishing. 编选
+If you edit a text such as an article or a book, you correct and adapt it so that it is suitable for publishing. 编辑
+edit |英 ['edɪt]  美 ['ɛdɪt]| vt. 编辑；校订/n. 编辑工作/n. (Edit)人名；(罗、匈)埃迪特/
+I used to edit the college paper in the old days.我过去曾主编过大学校报。
+He taught me to edit and splice film.他教我剪辑合成影片。
+He edits the literary journal, Murmur.他编辑了《私语》这本文学杂志。
+This collection of essays is edited by Ellen Knight.这本散文集是由埃伦·奈特编选的。
+The majority of contracts give the publisher the right to edit a book after it's done.大多数合同都会赋予出版商在书稿完成后进行编辑的权利。
+
+
+You use somehow to say that you do not know or cannot say how something was done or will be done. 不知怎地; 不知以什么方式
+somehow |英 ['sʌmhaʊ]  美 ['sʌmhaʊ]| adv. 以某种方法；莫名其妙地/
+Somehow Karin managed to cope with the demands of her career.不知怎么地，卡林设法应付了那些来自工作的要求。
+We'll manage somehow, you and me. I know we will.我们总会应付过去的，你和我。我知道我们会的。
+
+
+obstinately 顽固地
+You can describe things as obstinate when they are difficult to move, change, or destroy. 难以消除的
+obstinately 固执地
+If you describe someone as obstinate, you are being critical of them because they are very determined to do what they want, and refuse to change their mind or be persuaded to do something else. 固执的
+obstinate |英 ['ɒbstɪnət]  美 ['ɑbstɪnət]| adj. 顽固的；倔强的；难以控制的/
+...the door of the shop which obstinately stayed closed when he tried to push it open.…那扇他尽力想推开可又推不开的店门。
+...rusted farm equipment strewn among the obstinate weeds.…散落在丛生的杂草中生了锈的农具。
+I stayed obstinately in my room, sitting by the telephone.我执意呆在自己的房间里，坐在电话旁。
+He is obstinate and determined and will not give up.他固执、坚决，不会放弃。
+
+
+If you pull strings, you use your influence with other people in order to get something done, often unfairly. 动用关系
+If something is offered to you with no strings attached or with no strings, it is offered without any special conditions. 不带附加条件
+Thestrings are the section of an orchestra which consists of stringed instruments played with a bow. 弦乐器
+The strings on a musical instrument such as a violin or guitar are the thin pieces of wire or nylon stretched across it that make sounds when the instrument is played. (乐器的) 弦
+A string of similar events is a series of them that happen one after the other. 一连串
+A string of places or objects is a number of them that form a line. 排
+A string of things is a number of them on a piece of string, thread, or wire. 串
+String is thin rope made of twisted threads, used for tying things together or tying up packages. 细绳
+string |英 [strɪŋ]  美 [strɪŋ]| n. 线，弦，细绳；一串，一行/
+Tony is sure he can pull a few strings and get you in.托尼确信他能动用一些关系把你弄进来。
+Aid should be given to developing countries with no strings attached.援助应该不带附加条件地被提供给发展中国家。
+The strings provided a melodic background to the passages played by the soloist.这些弦乐器为那个独奏演员演奏的几个乐段提供了的背景乐。
+He went off to change a guitar string.他离开了去换一根吉他弦。
+The incident was the latest in a string of attacks.该事件是一连串攻击中最近的一起。
+The landscape is broken only by a string of villages.这风景仅仅是被一排村庄所破坏。
+She wore a string of pearls around her neck.她戴了一串珍珠在她的脖子上。
+He held out a small bag tied with string.他递出一个用细绳系着的小包。
+
+
+If something makes your day, it makes you feel very happy. 使某人非常高兴
+If you call it a day, you decide to stop what you are doing because you are tired of it or because it is not successful. 结束工作; 收工
+If you say that something has seen better days, you mean that it is old and in poor condition. 破旧
+In this day and age means in modern times. 在现代
+If you say that something happens day in, day out or day in and day out, you mean that it happens regularly over a long period of time. 天天
+If something happens day after day, it happens every day without stopping. 日复一日
+Day is the time when it is light, or the time when you are up and doing things. 白天
+You can refer to a particular period in history as a particular day or as particular days. 时期
+A day is one of the seven twenty-four hour periods of time in a week. (一周中的) 一天
+day |英 [deɪ]  美 [de]| n. 一天；时期；白昼/adv. 每天；经常在白天地/adj. 日间的；逐日的/n. (Day)人名；(英、法、西)戴；(越)岱；(阿拉伯、土)达伊/
+For war reporters, dodging snipers' bullets is all in a day's work.对于战地记者来说，躲避狙击手的子弹是家常便饭。
+The controversy continues to this day.这场争论直到今天仍在继续。
+It was January 19, a year to the day since he had arrived in Singapore.那是1月19日，他到新加坡正好满1年。
+Your needs can differ from day to day.你的需要可能每天都在变化。
+...this story about how he saved the day at his daughter's birthday party.…关于他如何在女儿的生日聚会上扭转局面的故事。
+I phoned your office the other day.几天前，我往你的办公室打过电话。
+I hope some day you will find the woman who will make you happy.我希望有一天你会找到能让你幸福的女人。
+I too dreamed of living in Dallas one day.我也曾梦想有朝一日能住在达拉斯。
+Come on, Bill. Send Tom a card and make his day.来，比尔，给汤姆寄张卡片让他高兴一下。
+Faced with mounting debts, the decision to call it a day was inevitable.面对不断增加的债务，停工的决定是不可避免的。
+The tweed jacket she wore had seen better days.她穿的那件斜纹软呢夹克衫已经十分破旧了。
+Even in this day and age the old attitudes persist.即使在今天，一些陈旧的观念仍然存在。
+I used to drink coffee day in, day out.过去我每天喝咖啡。
+The newspaper job had me doing the same thing day after day.这份报业的工作让我日复一日地做同一件事情。
+She gives herself one day a week off, on Thursdays.她每周放自己一天假，在星期四。
+Twenty-seven million working days are lost each year due to work accidents and sickness.由于工伤事故和疾病，每年损失掉2700万个工作日。
+...his early days of struggle and deep poverty.…他早年的奋斗和极度穷困时期。
+He began to talk about the Ukraine of his uncle's day.他开始谈论他叔叔那个年代的乌克兰。
+And it has snowed almost every day for the past week.而且过去的一周几乎每天都在下雪。
+
+
+If people or things are numerous, they exist or are present in large numbers. 许多的
+numerous |英 ['njuːm(ə)rəs]  美 ['numərəs]| adj. 许多的，很多的/
+Sex crimes were just as numerous as they are today.当时的性犯罪与现在一样多。
+
+
+Resignation is the acceptance of an unpleasant situation or fact because you realize that you cannot change it. 无奈的顺从
+Your resignation is a formal statement of your intention to leave a job or position. 辞呈
+resignation |英 [rezɪg'neɪʃ(ə)n]  美 [,rɛzɪɡ'neʃən]| n. 辞职；放弃；辞职书；顺从/
+He sighed with profound resignation.他极度无奈地叹气。
+Bob Morgan has offered his resignation and it has been accepted.鲍勃•摩根已递交了辞呈，并且已被批准了。
+
+
+If you describe a person or thing as laden with something, particularly something bad, you mean that they have a lot of it. 充满的 (尤指令人不快的东西)
+If someone or something is laden with a lot of heavy things, they are holding or carrying them. 装满的
+laden |英 ['leɪd(ə)n]  美 ['ledn]| adj. 负载的；装满的；苦恼的/vt. 装载（等于lade）/vi. 装载（等于lade）/v. 装载（lade的过去分词）/n. (Laden)人名；(阿拉伯)拉丹；(德、罗)拉登；(法)拉当/
+We're so laden with guilt.我们满怀内疚。
+The following summer the peach tree was laden with fruit.第二年夏天，桃树上结满了果实。
+I came home laden with cardboard boxes.我满载着纸箱子回了家。
+
+
+Instinct is a feeling, rather than an opinion or idea based on facts, that something is the case. 直觉
+If it is your instinct to do something, you feel that it is right to do it. 本能的反应
+If you have an instinct for something, you are naturally good at it or able to do it. 天分
+Instinct is the natural tendency that a person or animal has to behave or react in a particular way. 本能
+instinct |英 ['ɪnstɪŋ(k)t]  美 ['ɪnstɪŋkt]| n. 本能，直觉；天性/adj. 充满着的/
+There is scientific evidence to support our instinct that being surrounded by plants is good for health.有科学证据表明我们的直觉是正确的，即被植物环绕着有益健康。
+I should've gone with my first instinct, which was not to do the interview.我应该凭我的本能反应行事，那就是，不去面试。
+He seems to have an instinct for smart advertising and marketing.他好像在广告和营销方面有天分。
+I didn't have as strong a maternal instinct as some other mothers.我不像其他一些母亲那样有那么强烈的母性本能。
+
+
+If something is at an end, it has finished and will not continue. 结束了
+An end is the purpose for which something is done or toward which you are working. 目的
+If you refer to a particular end of a project or piece of work, you mean a part or aspect of it, such as a part of it that is done by a particular person or in a particular place. (项目、工作的) 部分
+The other end is one of two places that are connected because people are communicating with each other by telephone or writing, or are travelling from one place to the other. 两地之一
+End is used to refer to either of the two extreme points of a scale, or of something that you are considering as a scale. (天平等的) 任一端
+The end of a long, narrow object such as a finger or a pencil is the tip or smallest edge of it, usually the part that is furthest away from you. 末梢
+The two ends of something long and narrow are the two points or parts of it that are farthest away from each other. 末端
+An end to something or the end of it is the act or result of stopping it so that it does not continue any longer. 结束
+The end of something such as a period of time, an event, a book, or a film is the last part of it or the final point in it. 结尾
+end |英 [end]  美 [ɛnd]| n. 结束；目标；尽头；末端；死亡/vi. 结束，终止；终结/vt. 结束，终止；终结/n. (End)人名；(英、德)恩德/
+He grew suicidal, thinking up ways to end it all.他变得想自杀，想出了多种自杀方式。
+a novel to end all novels
+They ended by making themselves miserable.他们到头来把自己弄惨了。
+Heather is also 25 and from Boston, but the similarity ends there.希瑟也是25岁，也是波士顿人，但是他们的相似之处仅限于此。
+The motorway ended at an intersection.这条公路止于一个十字路口。
+It has three pairs of legs, each ending in a large claw.它有3对腿，每条腿的末端都有一个大爪子。
+Our conversations ended with him saying he would try to be more understanding.我们的谈话结束的时候，他说他会试着更为通情达理。
+The incident could have ended in tragedy.这个事件原本可能以悲剧告终。
+The book ends on a lengthy description of Hawaii.这本书以一段对夏威夷的冗长描述作结。
+His statement ended with the words
+Reports usually come out about three weeks after each month ends.报告通常在每月结束后大约三周发布。
+The markets ended the week on a quiet note.市场本周在平静气氛中收市。
+The ending of a marriage by death is different in many ways from an ending caused by divorce.死亡造成的婚姻终止同离婚造成的婚姻终止在很多方面是不同的。
+The meeting quickly ended and Steve and I left the room.会议很快结束了，之后史蒂夫和我离开了房间。
+Obviously I'd be disappointed if we don't make it, but it wouldn't be the end of the world.显然，如果我们不能成功我会失望的，但天不会塌下来。
+Given the results of the vote, is this the end of the road for the hardliners in Congress?就投票的结果来看，国会里的强硬派是不是已经走到尽头了？
+Only a political solution could put an end to the violence.只有一个政治的解决方式才能终止暴力。
+Wet books should be placed on end with their pages kept apart.弄湿的书应该竖着放置，书页分开。
+He is a wonderful companion and we can talk for hours on end.他是个极好的伙伴，我们可以连续谈上几个小时。
+Teachers inform me that Todd's behaviour has improved no end.老师们告诉我托德的行为改善了许多。
+With Betty's salary they barely made ends meet.靠贝蒂的工资，他们简直无法糊口。
+I toyed with the idea of calling the police, but in the end I didn't.我不经意地想过要报警，但最终没有。
+At the end of the day it's up to them to decide.到头来，还得由他们决定。
+The cold war came to an end.冷战终止。
+The recession is definitely at an end.萧条期肯定是要结束了。
+The police force is being manipulated for political ends.警察机关正被操控用以达到政治目的。
+You take care of your end, kid, I'll take care of mine.你管好你那块儿，年轻人，我会管好我这块儿。
+When he answered the phone, Fred was at the other end.当他接起电话，电话那头是弗雷德。
+At the other end of the social scale was the grocer.处于社会阶层另一端的是杂货商。
+He tapped the ends of his fingers together.他用手指尖相互轻叩。
+The company is planning to place surveillance equipment at both ends of the tunnel.该公司计划在隧道的两端安装监视设备。
+I was worried she would walk out or bring the interview to an end.我担心她会突然退席或者终止采访。
+The government today called for an end to the violence.政府今天呼吁结束暴力。
+...families who settled in the region at the end of the 17th century.…于17世纪末定居该地区的家庭。
+The report is expected by the end of the year.这份报告预期年底前出台。
+
+
+An extinct volcano is one that does not erupt or is not expected to erupt anymore. 死的 (火山)
+If a particular kind of worker, way of life, or type of activity is extinct, it no longer exists, because of changes in society. 不复存在的
+A species of animal or plant that is extinct no longer has any living members, either in the world or in a particular place. 绝种的
+extinct |英 [ɪk'stɪŋkt; ek-]  美 [ɪk'stɪŋkt]| adj. 灭绝的，绝种的；熄灭的/vt. 使熄灭/
+Its tallest volcano, long extinct, is Olympus Mons.它最高的火山是已死很久的奥林匹斯山。
+Herbalism had become an all but extinct skill in the Western world.草药医术在西方世界几乎已成了一项绝迹的技术。
+At the current rate of decline, many of the rain forest animals could become extinct in less than 10 years.按照目前的下降速度，许多雨林动物不到十年就会绝种。
+
+
+Theme music or a theme song is a piece of music that is played at the beginning and end of a movie or of a television or radio programme. (电影、电视节目或广播节目的) 主题曲; 主题歌
+A theme is a short simple tune on which a piece of music is based. (音乐的) 主旋律
+A theme in an artist's work or in a work of literature is an idea in it that the artist or writer develops or repeats. (艺术品或文学作品的) 主题
+A theme in a piece of writing, a talk, or a discussion is an important idea or subject that runs through it. (著作、谈话或讨论的) 主题
+theme |英 [θiːm]  美 [θim]| n. 主题；主旋律；题目/adj. 以奇想主题布置的/
+...the theme from Dr. Zhivago.…《日瓦戈医生》的主题曲。
+...variations on themes from Mozart's The Magic Flute.…莫扎特的《魔笛》中主旋律的变奏曲。
+The novel's central theme is the ongoing conflict between men and women.这部小说的主题是男女之间永无休止的冲突。
+The theme of the conference is renaissance Europe.该会议的主题是文艺复兴时期的欧洲。
+
+
+A prologue is a speech or section of text that introduces a play or book. 开场白; 前言
+prologue |英 ['prəʊlɒg]  美 ['prolɔɡ]| n. 开场白；序言/vt. 加上…前言；为…作序/
+The prologue to the novel is written in the form of a newspaper account.该小说的前言是以新闻报道的形式写的。
+
+
+A diagram is a simple drawing which consists mainly of lines and is used, for example, to explain how a machine works. 示意图
+diagram |英 ['daɪəgræm]  美 ['daɪəɡræm]| n. 图表；图解/vt. 用图解法表示/
+...a circuit diagram.…电路图。
+
+
+fittingly 恰当地; 合适地
+Something that is fitting is right or suitable. 恰当的; 合适的
+Fittings are things such as ovens or heaters, that are fitted inside a building, but can be removed if necessary. 可拆除装置 (如烤炉、暖器等)
+If someone has a fitting, they try on a piece of clothing that is being made for them to see if it fits. 试穿
+A fitting is one of the smaller parts on the outside of a piece of equipment or furniture, for example, a handle or a faucet. (设备、家具等的) 配件
+fitting |英 ['fɪtɪŋ]  美 ['fɪtɪŋ]| n. 装配，装置；试穿，试衣/adj. 适合的，适宜的；相称的/n. (Fitting)人名；(英、德)菲廷/
+He closed out his career, fittingly, by hitting a home run.他以一记本垒打恰当地结束了自己的棒球生涯。
+A solitary man, it was perhaps fitting that he should have died alone.他是个独居的人，或许他本应该孤独地死去才合适。
+...a detailed list of what fixtures and fittings are included in the purchase price.…哪些固定装置和可拆除装置包含在购价中的一份详细清单。
+She lunched and shopped and went for fittings for clothes she didn't need.她吃过午饭就去购物，还试穿那些她根本不需要的衣服。
+...industrial fittings for kitchen and bathroom.…工业化生产的厨卫配件。
+...brass light fittings.…黄铜灯具配件。
+
+
+If you install yourself in a particular place, you settle there and make yourself comfortable. 安顿
+installation 任命仪式; 就职仪式
+If someone is installed in a new job or important position, they are officially given the job or position, often in a special ceremony. 正式任命
+installation 安装
+If you install a piece of equipment, you put it somewhere so that it is ready to be used. 安装
+install |英 [ɪnˈstɔ:l]  美 [ɪn'stɔl]| vt. 安装；任命；安顿/
+Before her husband's death she had installed herself in a modern villa.在丈夫去世之前她就已经在一所现代的别墅里安顿了下来。
+He sent a letter inviting Naomi to attend his installation as chief of his tribe.他给娜奥米寄了封信，邀请她来参加他就任部落酋长的仪式。
+Professor Sawyer was formally installed as president last Thursday.上星期二，索耶教授被正式任命为校长。
+A temporary government was installed.一届临时政府被正式任命。
+Hundreds of lives could be saved if the installation of alarms was more widespread.如果警报器的安装范围更为广泛，成百上千人的生命就可能获救。
+They had installed a new phone line in the apartment.他们在公寓里安装了一根新的电话线。
+
+
+A dilute liquid is very thin and weak, usually because it has had water added to it. 稀释的
+If someone or something dilutes a belief, quality, or value, they make it weaker and less effective. 削弱
+If a liquid is diluted or dilutes, it is added to or mixes with water or another liquid, and becomes weaker. 稀释; 变淡
+dilute |英 [daɪ'l(j)uːt; dɪ-]  美 [daɪ'l(j)ut]| adj. 稀释的；淡的/vt. 稀释；冲淡；削弱/vi. 变稀薄；变淡/
+...a dilute solution of bleach.…稀释了的漂白液。
+There was a clear intention to dilute black voting power.削弱黑人选举权的意图是显而易见的。
+The liquid is then diluted.然后液体就变稀了。
+If you give your baby juice, dilute it well with cooled, boiled water.喂婴儿果汁要用凉开水充分稀释。
+
+
+A storey of a building is one of its different levels, which is situated above or below other levels. 楼层
+storey |英 ['stɔːrɪ]  美 ['stɔri]| n. [建] 楼层；叠架的一层/n. (Storey)人名；(西、瑞典)斯托雷；(英)斯托里/
+...long brick buildings, two storeys high.…很长的两层砖楼。
+
+
+If you say that the odds are in someone's favour, you mean that they are likely to succeed in what they are doing. (某人) 可能会成功
+If something happens against all odds, it happens or succeeds although it seemed impossible or very unlikely. 貌似不可能 (却发生或成功)
+If you say that the odds are against something or someone, you mean that they are unlikely to succeed. (某人、某事物) 不大可能成功
+If someone is at odds with someone else, or if two people are at odds, they are disagreeing or arguing with each other. (与某人) 不合
+In betting, odds are expressions with numbers such as "10 to 1" and "7 to 2" that show how likely something is thought to be, for example, how likely a particular horse is to lose or win a race. (赌博中的) 赔率
+You refer to how likely something is to happen as the odds that it will happen. 可能性
+odds |英 [ɒdz]  美 [ɑdz]| n. 几率；胜算；不平等；差别/
+The troops will only engage in a ground battle when all the odds are in their favour.该部队只会在完全可能取胜的情况下进行一场地面战斗。
+...families in terrible circumstances, who have stayed together against all odds.…状况糟糕的家庭，似乎不可能维持下去，却仍然住在一起。
+He reckons the odds are against the plan going ahead.他认为该计划不太可能进行下去。
+He was at odds with the boss.他与老板不合。
+We are offering odds of 6-1 on the fight ending in a knockout.我们以6比1的赔率赌该拳击赛以击倒告终。
+What are the odds of finding a parking space right outside the door?就在门外找到一个停车位的可能性有多大？
+
+
+Swirl is also a noun. 旋涡
+If you swirl something liquid or flowing, or if it swirls, it moves around and around quickly. 使 (液态、流动的物质) 快速旋流; (液态、流动的物质) 快速旋流
+swirl |英 [swɜːl]  美 [swɝl]| n. 漩涡；打旋；涡状形/vi. 盘绕；打旋；眩晕；大口喝酒/vt. 使成漩涡/
+...small swirls of chocolate cream.…小块旋涡形的奶油夹心巧克力。
+The black water swirled around his legs, reaching almost to his knees.黑水在他的双腿周围打转，差不多没到他的膝盖。
+She smiled, swirling the wine in her glass.她微笑了，旋动着玻璃杯里的葡萄酒。
+
+
+If you reassure someone, you say or do things to make them stop worrying about something. 使安心; 使消除疑虑
+reassure |英 [ˌri:əˈʃɔ:(r)]  美 [,riə'ʃʊr]| vt. 使…安心，使消除疑虑/
+I tried to reassure her, "Don't worry about it. We won't let it happen again."我尽力使她安心，“别担心，我们不会允许它再发生的。”
+
+
+A casualty of a particular event or situation is a person or a thing that has suffered badly as a result of that event or situation. 受害者
+A casualty is a person who is injured or killed in a war or in an accident. 死伤者
+casualty |英 ['kæʒjʊəltɪ; -zj-]  美 ['kæʒuəlti]| n. 意外事故；伤亡人员；急诊室/
+The car industry has been one of the greatest casualties of the recession.汽车工业是经济不景气最大的受害者之一。
+Troops fired on the demonstrators causing many casualties.军队向示威的人群开火，造成不少伤亡。
+
+
+If you match something, you are as good as it or equal to it, for example in speed, size, or quality. 比得上
+If a combination of things or people is a good match, they have a pleasing effect when placed or used together. 相配的人或物
+Match up means the same as . 使对应
+If one thing matches another, they are connected or suit each other in some way. 使对应
+If something such as an amount or a quality matches with another amount or quality, they are both the same or equal. If you match two things, you make them the same or equal. 与…一样; 使一样
+Match up means the same as . 和…相配
+If something of a particular colour or design matches another thing, they have the same colour or design, or have a pleasing appearance when they are used together. 和…相配
+A match is a small wooden stick with a substance on one end that produces a flame when you rub it along the rough side of a matchbox or a matchbook. 火柴
+A match is an organized game of tennis, football, cricket, or some other sport. 比赛
+match |英 [mætʃ]  美 [mætʃ]| vt. 使比赛；使相配；敌得过，比得上；相配；与…竞争/vi. 比赛；匹配；相配，相称；相比/n. 比赛，竞赛；匹配；对手；火柴/
+They played some fine offensive football, but I think we matched them in every department.他们踢了一些漂亮的攻势足球，但我认为我们各方面都比得上他们。
+Helen's choice of lipstick was a good match for her skin tone.海伦选择的唇膏与她的肤色是很好的搭配。
+They compared the fat intake of groups of vegetarians and meat eaters, and matched their diets up with levels of harmful blood fats.他们比较了素食者组和肉食者组的脂肪摄入量，并把他们的膳食和血脂危险水平对应起来。
+The consultant seeks to match up jobless professionals with small companies in need of expertise.这名顾问力求使失业的专业人员对应需要专门技术的小公司。
+It can take time and effort to match buyers and sellers.匹配买主和卖主可能需要花费一些时间和精力。
+The students are asked to match the books with the authors.学生们被要求把书和作家一一对应起来。
+Our value system does not match with their value system.我们的价值体系与他们的价值体系不一样。
+Their strengths in memory and spatial skills matched.他们的记忆力和空间技能一样。
+The pillow cover can match up with the sheets.这个枕巾可以和这些被单相配。
+All the chairs matched.所有的椅子都相配。
+"The shoes are too tight."—"Well, they do match your dress."“这双鞋太紧了。” — “不过，它们确实和你的裙子相配。”
+...a pack of cigarettes and a book of matches.…一包香烟和一包火柴。
+He was watching a football match.他正在看一场英式足球比赛。
+

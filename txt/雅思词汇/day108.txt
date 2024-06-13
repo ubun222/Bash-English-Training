@@ -1,32 +1,359 @@
-gigantic				巨大的
-prospect						希望，景色，潜在客户，勘探
-term						期限，术语，项，条款，付款，关系
-refrain					副歌，忍住
-equator				赤道
-slam					砰一声关上，使劲扔，猛烈抨击
+gigantic				adj.巨大的
+prospect						n.希望，景色，潜在客户vi.勘探vt.勘探
+term						n.期限，术语，<数学>项vt.把...称作
+terms			n.条款，付款，关系
+refrain					n.副歌vi.忍住
+equator				n.赤道
+slam					vt.砰一声关上，使劲扔，猛烈抨击vi.砰一声关上，猛冲n.砰一声关上
 make a slam			得满贯
-render								使成为，提供，描绘，翻译
-whatever				任何事物，无论什么，丝毫
-steer						驾驶，带领，引导，遵循
-affection							喜爱，爱情
+render								vt.使成为，提供，描绘，翻译
+whatever				pron.任何事物，无论什么adv.丝毫，无论什么
+steer						vt.驾驶，带领，引导，遵循vi.驾驶n.指点
+affection							n.喜爱，爱情
 hold				握着，拥抱，扣留，持有，认为，举办
-lull				间歇，使平静
-invaluable				无法估价的
-plagiarize		抄袭
-acid									酸
-mutual						相互的，共同的
-publicity						媒体的关注，宣传
-grate			磨碎，发出刮擦声，使人气愤
-administer		管理，执行，施用
-restrain			阻止，制止，抑制
-martial			军事的
-veil				面纱，掩饰物，遮掩
-inflation					通货膨胀
-previous						先前的
-eclipse			日月食，黯然失色
-scarcely					几乎不，根本不，刚一...就
-platitude		陈词滥调
-incentive						刺激，优惠
-mire				泥潭，困境
-dispel				驱散，消除
+lull				n.间歇vt.使平静
+invaluable				adj.无法估价的
+plagiarize		vt.抄袭vi.抄袭
+acid									n.<化学>酸adj.酸的
+mutual						adj.相互的，共同的
+publicity						n.媒体的关注，宣传
+grate			vt.磨碎vi.发出刮擦声，使人气愤
+administer		vt.管理，执行，<医学>施用
+restrain			vt.阻止，制止，抑制
+martial			adj.军事的
+veil				n.面纱，掩饰物vt.遮掩
+inflation					n.通货膨胀
+previous						adj.先前的
+eclipse			n.日月食，黯然失色vt.黯然失色
+scarcely					adv.几乎不，根本不，刚一...就
+platitude		n.(说教的)陈词滥调
+incentive						n.刺激，<商业>优惠
+mire				n.泥潭，困境
+dispel				vt.驱散，消除
 \\\\\\\\
+
+If you describe something as gigantic, you are emphasizing that it is extremely large in size, amount, or degree. 巨大的
+gigantic |英 [dʒaɪ'gæntɪk]  美 [dʒaɪ'ɡæntɪk]| adj. 巨大的，庞大的/
+In Red Rock Valley the road is bordered by gigantic rocks.在红岩谷，道路两边都是巨大的岩石。
+
+
+When people prospect for oil, gold, or some other valuable substance, they look for it in the ground or under the sea. 勘探
+Someone's prospects are their chances of being successful, especially in their career. 成功的机会; 前途
+A particular prospect is something that you expect or know is going to happen. 将要发生的事
+If there is some prospect of something happening, there is a possibility that it will happen. 可能性; 前景
+prospect |英 ['prɒspekt]  美 ['prɑspɛkt]| n. 前途；预期；景色/vi. 勘探，找矿/vt. 勘探，勘察/
+He had prospected for minerals everywhere from the Gobi Desert to the Transvaal.他在世界各地探过矿，从戈壁沙漠到德兰士瓦。
+I chose to work abroad to improve my career prospects.我选择到国外工作，以增进我的事业成功的机会。
+There was a mixed reaction to the prospect of having new neighbours.对于将要有新邻居这件事有多种反应。
+The prospects for peace in the country's eight-year civil war are becoming brighter.在该国的8年内战中，和平的前景正变得越来越光明。
+Unfortunately, there is little prospect of seeing these big questions answered.遗憾的是，几乎没有可能看到这些重大问题得到解答。
+
+
+The term of a woman's pregnancy is the nine month period that it lasts. Term is also used to refer to the end of the nine month period. 怀孕期; 临产
+A term is the period for which a legal contract or insurance policy is valid. (合同或保险的) 有效期
+A term is a period of time that someone spends doing a particular job or in a particular place. (工作或居住) 期间
+A term is a period of time between two elections during which a particular party or government is in power. (政党或政府的) 任期
+A term is one of the periods of time that a school, college, or university divides the year into. 学期
+If you say that something is termed a particular thing, you mean that that is what people call it or that is their opinion of it. 把…称作
+A term is a word or expression with a specific meaning, especially one which is used in relation to a particular subject. 术语
+If you say something in particular terms, you say it using a particular type or level of language or using language which clearly shows your attitude. 以某种语言
+If you talk about something in terms of something or in particular terms, you are specifying which aspect of it you are discussing or from what point of view you are considering it. 从…角度来看
+term |英 [tɜːm]  美 [tɝm]| n. 术语；学期；期限；条款；(代数式等的)项/vt. 把…叫做/n. (Term)人名；(泰)丁/
+You should be thinking in terms of graduating next year.你应该考虑明年毕业的事了。
+They will sign the union treaty only on their terms.他们在符合自己意愿的条件下才会签署联合条约。
+Organic fertilizers will have very positive results in the long term.有机肥料从长远来看将产生非常积极的效果。
+Madeleine is on good terms with Sarah.马德琳和萨拉关系很好。
+I had at last found a sport where I could compete on equal terms with able-bodied people.我终于找到一种体育运动，能和身体健全的人公平竞赛
+She had come to terms with the fact that her husband would always be crippled.她已接受了丈夫将终生跛足这个事实。
+...the terms of the Helsinki agreement.…《赫尔辛基协议》的各项条款。
+That makes her the first TV presenter to work the full term of her pregnancy.那使她成了第一个在整个怀孕期间一直工作的电视节目主持人。
+Premiums are guaranteed throughout the term of the policy.在保单的有效期内保证支付保险费。
+...a 12 month term of service.…12个月的任职期。
+Nixon never completed his term of office.尼克松没有完成自己的任期。
+...the summer term.…夏季学期。
+He had been termed a temporary employee.他曾被称为临时工。
+Myocardial infarction is the medical term for a heart attack.心肌梗塞是心脏病发作的医学术语。
+The video explains in simple terms how the new tax works.该录像以浅显易懂的语言解释了新税法的运作方式。
+Our goods compete in terms of product quality, reliability and above all variety.我们的产品从质量、可靠性、尤其是多样性来看很有竞争力。
+
+
+A refrain is a comment or saying that people often repeat. 一再重复的话
+A refrain is a short, simple part of a song, which is repeated many times. 副歌
+If you refrain from doing something, you deliberately do not do it. 忍住; 克制
+refrain |英 [rɪ'freɪn]  美 [rɪ'fren]| vi. 节制，克制；避免；制止/n. 叠句，副歌；重复/
+Rosa's constant refrain is that she doesn't have a life.罗莎总是不断重复的一句话就是她生活得很无聊。
+...a refrain from an old song.…一首老歌的副歌。
+Mrs. Hardie refrained from making any comment.哈迪太太忍住了没做任何评论。
+
+
+
+equator |英 [ɪ'kweɪtə]  美 [ɪ'kwetɚ]| n. 赤道/
+
+
+
+If one thing slams into or against another, it crashes into it with great force. 猛烈撞击
+To slam someone or something means to criticize them very severely. 严厉批评; 猛烈抨击
+If you slam something down, you put it there quickly and with great force. 摔; 使劲扔
+If you slam a door or window or if it slams, it shuts noisily and with great force. 砰地关上; 使劲关上
+slam |英 [slæm]  美 [slæm]| vt. 砰地关上；猛力抨击/vi. 砰地关上；猛力抨击/n. 猛击；砰然声/n. (Slam)人名；(阿拉伯)萨拉姆；(罗)斯拉姆/
+The plane slammed into the building after losing an engine shortly after take-off.飞机起飞后不久便失去一个引擎，猛地撞到那栋建筑物上。
+The famed filmmaker slammed the claims as "an outrageous lie."该享有盛名的电影制片人猛烈抨击这些说法，称其为“无耻谰言。”
+She listened in a mixture of shock and anger before slamming the phone down.她震惊而气愤地听着，随后啪地挂上电话。
+I was relieved to hear the front door slam.听到前门砰地一声关上，我才放下了心。
+She slammed the door and locked it behind her.她砰地关上门，身后的门锁上了。
+
+
+
+make a slam || 
+
+
+
+You can use render with an adjective that describes a particular state to say that someone or something is changed into that state. For example, if someone or something makes a thing harmless, you can say that they render it harmless. 使成为; 使变得
+render |英 ['rendə]  美 ['rɛndɚ]| vt. 致使；提出；实施；着色；以…回报/vi. 给予补偿/n. 打底；交纳；粉刷/n. (Render)人名；(英、德)伦德尔/
+It contained so many errors as to render it worthless.太多的错误使之变得毫无价值。
+
+
+You say whatever you do when giving advice or warning someone about something. 不管做什么 (用于给出建议或警告)
+You say or whatever to refer generally to something else of the same kind as the thing or things that you have just mentioned. 诸如此类
+You use whatever when you are indicating that you do not know the precise identity, meaning, or value of the thing just mentioned. 不管什么 (表示不知道所谈论事物的确切身份、意义或价值)
+You use whatever to ask in an emphatic way about something which you are very surprised about. 究竟 (表示对让自己感动吃惊的事的强调)
+You use whatever after a noun group in order to emphasize a negative statement. 任何 (用于名词词组后，强调否定陈述)
+You use whatever to say that something is the case in all circumstances. 不管情况怎样
+Whatever is also a determiner. 任何
+You use whatever to refer to anything or everything of a particular type. 任何事物
+whatever |英 [wɒt'evə]  美 [wət'ɛvɚ]| adj. 不管什么样的/pron. 无论什么；诸如此类/conj. 无论什么/
+Whatever you do, don't ask for a pay increase.你不管做什么，就是别要求涨工资。
+They're always protesting about something or saving the trees or whatever.他们总是在抗议一些事情，或是在拯救树木或诸如此类的事情。
+I thought that my upbringing was "normal," whatever that is.我曾以为我的成长过程是“正常”的，不管“ 正常”是什么意思。
+Whatever can you mean?你究竟是什么意思？
+There is no evidence whatever that competition in broadcasting has ever reduced costs.没有任何证据证明广播行业的竞争曾经使成本降低。
+She runs on average about 15 miles a day every day, whatever the circumstances, whatever the weather.她坚持每天平均跑15英里左右，不论什么情况，不论什么天气。
+We shall love you whatever happens, Diana.黛安娜，不管发生什么事我们都会爱你的。
+Whatever doubts he might have had about Ingrid were all over now.他对英格丽德可能有过的任何疑问现在都烟消云散了。
+When you're older I think you're better equipped mentally to cope with whatever happens.当你年龄再大一点儿，我想你在心理上就更有能力去应对所发生的任何事情。
+Franklin was free to do pretty much whatever he pleased.富兰克林几乎可以做他想做的任何事情。
+
+
+If you steer clear of someone or something, you deliberately avoid them. 有意避开某人/某物
+If you steer someone in a particular direction, you guide them there. 引领
+If you steer people toward a particular course of action or attitude, you try to lead them gently in that direction. 引导
+When you steer a car, boat, or plane, you control it so that it goes in the direction that you want. 驾驶
+steer |英 [stɪə]  美 [stɪr]| vt. 控制，引导；驾驶/vi. 驾驶，掌舵；行驶/n. 阉牛/n. (Steer)人名；(英)斯蒂尔；(德、匈)施特尔/
+I think a lot of people, women in particular, steer clear of these sensitive issues.我认为很多人，尤其是女性，有意避开这些敏感问题。
+Nick steered them into the nearest seats.尼克领着他们到最近的座位。
+The new government is seen as one that will steer the country in the right direction.新政府被认为能将这个国家引向正确的方向。
+What is it like to steer a ship this size?驾驶这样大小的船会怎么样呢？
+
+
+Your affections are your feelings of love or fondness for someone. 感情
+If you regard someone or something with affection, you like them and are fond of them. 喜爱
+affection |英 [ə'fekʃ(ə)n]  美 [ə'fɛkʃən]| n. 喜爱，感情；影响；感染/
+Caroline is the object of his affections.卡罗琳是他感情的归属。
+She thought of him with affection.她怀着喜爱想起了他。
+
+
+If one thing holds another in a particular position, it keeps it in that position. 使…保持 (在某位置) 不动
+When you hold a part of your body in a particular position, you put it into that position and keep it there. 使 (自己身体某部位) 保持某种姿势
+When you hold a part of your body, you put your hand on or against it, often because it hurts. (常指因疼痛而) 捂住
+A hold is a particular way of keeping someone in a position using your own hands, arms, or legs. 按住 (使某人不得动弹)
+If you hold someone in a particular position, you use force to keep them in that position and stop them from moving. 按住; 使不动
+When you hold someone, you put your arms around them, usually because you want to show them how much you like them or because you want to comfort them. (常因想表示喜爱和安慰而) 抱住
+Hold is used in expressions such as grab hold of, catch hold of, and get hold of, to indicate that you close your hand tightly around something, for example to stop something moving or falling. 抓住
+Hold is also a noun. 拿; 托住
+When you hold something, you carry or support it, using your hands or your arms. 拿着; 托住
+hold |英 [həʊld]  美 [hold]| vt. 持有；拥有；保存；拘留；约束或控制/vi. 支持；有效；持续/n. 控制；保留/n. (Hold)人名；(英、德、捷)霍尔德/
+The advice for individual investors is to hold tight.给个人投资者的建议是不要轻举妄动。
+He held tight to the rope.他紧紧抓住绳子。
+She felt a strange excitement taking hold of her.她感到一种奇怪的兴奋感控制住了自己。
+Can't you hold still for a second?你一秒钟不动都不行？
+She can hold her own against almost any player.她几乎能与所有选手相匹敌。
+The Frenchman held his own against the challenger.那个法国人顶住了挑战者的攻击。
+He put his retirement on hold to work 16 hours a day, seven days a week to find a solution.为了找到一个解决方案，他推迟了退休，每周工作7天，每天工作16小时。
+Hold it! Don't move!停下！别动！
+The only electrician we could get hold of was miles away.我们惟一能够联络上的电工在几英里之外。
+It is hard to get hold of guns in this country.在这个国家很难弄到枪。
+Barry was holding forth on something.巴里正滔滔不绝地说着什么。
+"I won't make you marry him." — "I'll hold you to that."“我不会让你嫁给他的。” — “我要你保证说话算话。”
+Will the president be able to hold to this commitment?总统能恪守这一承诺吗？
+These laws also hold for universities.这些法律同样适用于大学。
+How long would the roof hold?这屋顶还能支撑多久？
+Democrats say arguments against the bill won't hold up.民主党人说，反对这项议案的论点站不住脚。
+Today, most people think that argument no longer holds.今天，大多数人认为这个论点不再站得住脚。
+Our luck couldn't hold forever.我们的好运不可能永远保持不变。
+Does your offer still hold?你的报价仍然有效吗？
+A spokesman defended the decision to hold the train until police arrived.一位发言人为延迟火车发车直到警察到来的决定作了辩解。
+...a voice which hit and held every note with perfect ease and clarity.…非常轻松而清晰地唱出每个音符的歌喉。
+OPEC production is holding at around 21.5 million barrels a day.石油输出国组织的石油产量目前保持在每天两千一百五十万桶左右。
+He tells his secretary to hold his calls.他让他的秘书代接电话。
+Could you hold the line and I'll just get my pen.请别挂断，我去拿支笔，好吗？
+He had ordered his officers to keep an exceptionally firm hold over their men.他已经命令军官们要对他们的下属保持极为严格的控制。
+Demonstrators have been holding the square since Sunday.自星期天以来，示威者们一直占据着广场。
+Somebody is holding your wife hostage.有人在扣留你的妻子当人质。
+The inside of a van was as good a place as any to hold a kidnap victim.厢式小型货车里面像其他地方一样是扣押被绑架者的好地方。
+It's impossible to hold any individual responsible.不可能让任何个人承担责任。
+If you want to hold someone's attention, look them directly in the eye but don't stare.如果你想吸引别人的注意力，就看着他们的眼睛，但不要死盯着看。
+The group said it continues to hold 1,774,687 shares in the company.该集团说他们继续持有这家公司1774687股的股份。
+The engineer and his son held frequent meetings concerning technical problems.工程师和他的儿子经常就技术问题进行讨论。
+The prime minister is holding consultations with his colleagues to finalize the deal.首相正和他的同僚进行磋商，以最终敲定这项协议。
+They also called for the holding of multi-party general elections.他们还呼吁举行多党大选。
+The country will hold democratic elections within a year.该国将在一年之内举行民主选举。
+He did not hold a firearms licence.他没有持枪许可证。
+Applicants should normally hold a good degree.申请人通常应拥有优秀学位。
+She has never held an elected office.她从未担任过由选举产生的职务。
+Death doesn't hold any fear for me.死亡对我来说没什么可怕的。
+Current thinking holds that obesity is more a medical than a psychological problem.现代观点认为肥胖更多是生理问题而不是心理问题。
+He held firm opinions which usually conflicted with my own.他持有坚定的观点，通常都与我的观点相左。
+One CD-ROM disk can hold over 100,000 pages of text.一张CD光盘能容纳10万多页的文字资料。
+The Better Business Bureau holds an enormous amount of information on any business problem.商业信用局存储着有关任何商务问题的大量信息。
+A fire had been reported in the cargo hold.据报告货舱失火了。
+Two knife racks hold her favourite knives.两个刀架上放着她最喜爱的刀。
+...the wooden wedge which held the heavy door open.…卡住沉重的门使之洞开着的木楔。
+Hold your hands in front of your face.把双手放在面前。
+Soon she was crying bitterly about the pain and was holding her throat.不一会儿她就疼得捂着喉咙哭了。
+The man wrestled the Indian to the ground, locked in a hold he couldn't escape.那人把印第安人摔倒在地，并将他死死按住，使他无法逃脱。
+He then held the man in an armlock until police arrived.然后他反扭手臂将那人按住，直到警察赶来。
+If only he would hold her close to him.他要是紧紧抱住她就好了。
+A doctor and a nurse caught hold of his arms.一名医生和一名护士抓住了他的双臂。
+I was woken up by someone grabbing hold of my sleeping bag.有人抓住我的睡袋把我弄醒了。
+He released his hold on the camera.他松开了握着照相机的手。
+Hold the knife at an angle.斜握着刀。
+
+
+If you are lulled into feeling safe, someone or something causes you to feel safe at a time when you are not safe. 蒙蔽; 误导
+A lull is a period of quiet or calm in a longer period of activity or excitement. 间歇期
+lull |英 [lʌl]  美 [lʌl]| vt. 使平静；使安静；哄骗/vi. 平息；减弱；停止/n. 间歇；暂停；暂时平静/n. (Lull)人名；(英)勒尔/
+I had been lulled into thinking the publicity would be a trivial matter.我曾被误导相信宣传是件小事。
+It is easy to be lulled into a false sense of security.很容易因受到蒙蔽而产生错误的安全感。
+There was a lull in political violence after the election of the current president.现任总统选举结束以后，政治暴力曾暂时平息。
+
+
+If you describe something as invaluable, you mean that it is extremely useful. 非常宝贵的
+invaluable |英 [ɪn'væljʊ(ə)b(ə)l]  美 [ɪn'væljʊəbl]| adj. 无价的；非常贵重的/
+I was able to gain invaluable experience over that year.在那一年里我获得了十分宝贵的经验。
+
+
+If someone plagiarizes another person's idea or work, they use it or copy it and pretend that they thought of it or created it. 剽窃
+plagiarize |英 ['pleɪdʒəraɪz]  美 ['pledʒə'raɪz]| vi. 剽窃；抄袭/vt. 剽窃；抄袭/
+The students denied plagiarizing papers.学生们不承认抄袭试卷。
+
+
+acidity 酸性
+An acid substance contains acid. 酸性的
+An acid is a chemical substance, usually a liquid, which contains hydrogen and can react with other substances to form salts. Some acids burn or dissolve other substances that they come into contact with. 酸
+acid |英 ['æsɪd]  美 ['æsɪd]| n. 酸；迷幻药/adj. 酸的；讽刺的；刻薄的/
+...the acidity of rainwater.…雨水的酸性。
+These shrubs must have an acid, lime-free soil.这些灌木必须要有酸性、无石灰的土壤。
+...citric acid.…柠檬酸。
+
+
+If an insurance company or savings bank has mutual status, it is not owned by shareholders but by its customers, who receive a share of the profits. (保险公司或储蓄银行) 互助的
+You use mutual to describe something such as an interest which two or more people share. 共同的
+mutually 相互地
+You use mutual to describe a situation, feeling, or action that is experienced, felt, or done by both of two people mentioned. 相互的
+mutual |英 ['mjuːtʃʊəl; -tjʊəl]  美 ['mjutʃuəl]| adj. 共同的；相互的，彼此的/
+...a mutual company based in Columbus, Ohio.…一家总部在俄亥俄州哥伦布市的互助公司。
+They do, however, share a mutual interest in design.然而，他们确实对设计有共同的兴趣。
+Attempts to reach a mutually agreed solution had been fruitless.想要达成一个彼此同意的解决方案，却无果而终。
+The East and the West can work together for their mutual benefit and progress.东西方可以为互惠和进步而合作。
+
+
+When the news media and the public show a lot of interest in something, you can say that it is receiving publicity. 公众的关注
+Publicity is information or actions that are intended to attract the public's attention to someone or something. 宣传
+publicity |英 [pʌb'lɪsɪtɪ]  美 [pʌb'lɪsəti]| n. 宣传，宣扬；公开；广告；注意/
+The case has generated enormous publicity in Brazil.这起犯罪事件已在巴西引起了公众的极大关注。
+...government publicity campaigns.…政府的宣传活动。
+Much advance publicity was given to the talks.会谈之前做了大量的宣传。
+
+
+If something such as someone's behaviour grates on you or grates, it makes you feel annoyed. 使恼火
+When something grates, it rubs against something else, making a harsh, unpleasant sound. 发出吱吱嘎嘎的摩擦声
+If you grate food such as cheese or carrots, you rub it over a metal tool called a grater so that the food is cut into very small pieces. 磨碎 (食物)
+A grate is a framework of metal bars in a fireplace, which holds the wood or coal. 炉栅
+grate |英 [greɪt]  美 [ɡret]| vt. 装格栅于；磨擦/vi. 发摩擦声/n. 壁炉；格栅/n. (Grate)人名；(瑞典)格拉特/
+His manner always grated on me.他的举止总是令我很恼火。
+His chair grated as he got to his feet.当他站起身时，椅子发出了嘎嘎声响。
+Grate the cheese into a mixing bowl.将干酪磨碎放进搅拌碗里。
+A wood fire burned in the grate.柴火在炉栅里燃烧。
+
+
+If a doctor or a nurse administers a drug, they give it to a patient. (医生、护士) 派发 (药物)
+If someone administers something such as a country, the law, or a test, they take responsibility for organizing and supervising it. 监管 (国家、法律、考试等)
+administer |英 [əd'mɪnɪstə]  美 [əd'mɪnɪstɚ]| vt. 管理；执行；给予/vi. 给予帮助；执行遗产管理人的职责；担当管理人/
+The physician may prescribe but not administer the drug.内科医师可以开处方但不可发药。
+The plan calls for the UN to administer the country until elections can be held.该计划呼吁联合国监管该国直至选举可以举行。
+
+
+To restrain something that is growing or increasing means to prevent it from getting too large. 限制
+If you restrain an emotion or you restrain yourself from doing something, you prevent yourself from showing that emotion or doing what you wanted or intended to do. 抑制
+If you restrain someone, you stop them from doing what they intended or wanted to do, usually by using your physical strength. 制止
+restrain |英 [rɪ'streɪn]  美 [rɪ'stren]| vt. 抑制，控制；约束；制止/
+The radical 500-day plan was very clear on how it intended to try to restrain inflation.这项激进的500天计划在其想要如何试图限制通货膨胀上是非常清晰的。
+She was unable to restrain her desperate anger.她无法抑制她那不顾一切的愤怒。
+Wally gripped my arm, partly to restrain me and partly to reassure me.沃利抓住了我的胳膊，部分是想制止我，部分是想安慰我。
+
+
+Martial is used to describe things relating to soldiers or war. 军人的; 军事的
+martial |英 ['mɑːʃ(ə)l]  美 ['mɑrʃəl]| adj. 军事的；战争的；尚武的/n. (Martial)人名；(法)马夏尔/
+The paper was actually twice banned under the martial regime.这份报纸在军人统治时期确实曾两次被禁。
+
+
+You can refer to something that you can partly see through, such as a mist, as a veil. (薄雾等) 半透明物
+You can refer to something that hides or partly hides a situation or activity as a veil. 掩饰物
+A veil is a piece of thin soft cloth that women sometimes wear over their heads and that can also cover their face. 面纱
+veil |英 [veɪl]  美 [vel]| n. 面纱；面罩；遮蔽物；托词/vt. 遮蔽；掩饰；以面纱遮掩；用帷幕分隔/vi. 蒙上面纱；出现轻度灰雾/n. (Veil)人名；(法)韦伊；(德)法伊尔/
+The eruption has left a thin veil of dust in the upper atmosphere.这次火山喷发在上层大气中留下了一个薄薄的尘土层。
+The country is ridding itself of its disgraced prime minister in a veil of secrecy.该国正在暗地里将其名誉扫地的首相赶下台。
+She's got long fair hair but she's got a veil over it.她有长长的金发，却把面纱罩于其上。
+
+
+Inflation is a general increase in the prices of goods and services in a country. 通货膨胀
+inflation |英 [ɪn'fleɪʃ(ə)n]  美 [ɪn'fleʃən]| n. 膨胀；通货膨胀；夸张；自命不凡/
+...rising unemployment and high inflation.…上涨的失业率和高通胀。
+
+
+You refer to the period of time or the thing immediately before the one that you are talking about as the previous one. 前一个的
+A previous event or thing is one that happened or existed before the one that you are talking about. 前一次的
+previous |英 ['priːvɪəs]  美 ['privɪəs]| adj. 以前的；早先的；过早的/adv. 在先；在…以前/
+It was a surprisingly dry day after the rain of the previous week.这是继前一周的降雨之后出奇干燥的一天。
+She has a teenage daughter from a previous marriage.她有个出自前一次婚姻的十几岁的女儿。
+
+
+If one thing is eclipsed by a second thing that is bigger, newer, or more important than it, the first thing is no longer noticed because the second thing gets all the attention. 使黯然失色
+An eclipse of the sun is an occasion when the moon is between the earth and the sun, so that for a short time you cannot see part or all of the sun. An eclipse of the moon is an occasion when the earth is between the sun and the moon, so that for a short time you cannot see part or all of the moon. (日、月) 食
+eclipse |英 [ɪ'klɪps]  美 [ɪ'klɪps]| vt. 使黯然失色；形成蚀/n. 日蚀，月蚀；黯然失色/
+...the space programme has been eclipsed by other pressing needs.…这项太空计划和其他的紧迫需要相比已经黯然失色了。
+...the solar eclipse on May 21.…5月21日的日食。
+...an eclipse of the sun.…一次日食。
+
+
+If you say scarcely had one thing happened when something else happened, you mean that the first event was followed immediately by the second. 刚…就…
+You can use scarcely to say that something is not true or is not the case, in a humorous or critical way. 决不
+You use scarcely to emphasize that something is only just true or only just the case. 几乎不; 简直不
+scarcely |英 ['skeəslɪ]  美 ['skɛrsli]| adv. 几乎不，简直不；简直没有/
+Scarcely had the votes been counted, when the telephone rang.选票刚一统计好，电话就响了。
+It can scarcely be coincidence.这决不可能是巧合。
+I scarcely knew him.我几乎不认识他。
+He could scarcely breathe.他几乎喘不过气来。
+
+
+A platitude is a statement that is considered meaningless and boring because it has been made many times before in similar situations. 陈词滥调
+platitude |英 ['plætɪtjuːd]  美 ['plætɪtud]| n. 陈词滥调；平凡；陈腐/
+Why couldn't he say something vital and original instead of just spouting the same old platitudes?他为什么不能说点重要的、有新意的东西，而不只是喋喋不休地讲些陈词滥调呢？
+
+
+If something is an incentive to do something, it encourages you to do it. 鼓励
+incentive |英 [ɪn'sentɪv]  美 [ɪn'sɛntɪv]| n. 动机；刺激/adj. 激励的；刺激的/
+There is little or no incentive to adopt such measures.几乎或根本没有鼓励来采取这样的措施。
+
+
+Mire is dirt or mud. 污泥; 淤泥
+You can refer to an unpleasant or difficult situation as a mire of some kind. 困境; 艰难处境
+mire |英 [maɪə]  美 ['maɪɚ]| n. 泥潭；[地理] 泥沼/vi. 陷于泥坑；陷入困境/vt. 使陷于泥坑；使陷入困境/n. (Mire)人名；(塞、索、阿拉伯)米雷；(法)米尔/
+...the muck and mire of sewers and farmyards....下水道与农家庭院的污垢和烂泥。
+...a mire of poverty and ignorance....贫穷和无知的泥沼。
+
+
+To dispel an idea or feeling that people have means to stop them having it. 消除 (想法或感觉)
+dispel |英 [dɪ'spel]  美 [dɪ'spɛl]| vt. 驱散，驱逐；消除（烦恼等）/
+The president is attempting to dispel the notion that he has neglected the economy.总统正试图消除他忽视了经济这一想法。
+

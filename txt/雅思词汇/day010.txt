@@ -1,0 +1,267 @@
+defraud				vt.骗取
+improvise				vt.即兴表演，临时做vi.即兴表演
+oppress				vt.压迫，压抑
+flabby				adj.松弛的，肥胖的，软弱的
+essay						n.短文，尝试vt.尝试
+racket				n.球拍，吵闹声，诈骗
+flaw						n.瑕疵，错误，vt.(使有)瑕疵，毁掉
+nominate						vt.提名，任命，指定
+syllabus						n.教学大纲
+stiff					adj.硬的，不易移动的，艰难的，过高的，adv.极其
+toxic							adj.有毒的，有害的
+rampant				adj.猖獗的，(植被)疯长的
+propulsion				n.(火箭)推进
+telling				n.叙述，adj.有力的
+throughout							prep.遍及，贯穿adv.到处，自始至终的
+highlight							n.最精彩的部分vt.强调
+devise				vt.设计，发明
+wield					vt.挥舞<书面>，行使(施加)
+enormous					adj.庞大的
+fade					vt.使...褪色，消失vi.使...褪色，消失
+exhilarate				vt.使兴奋
+slum					n.贫民窟vi.过穷日子
+peer							vi.仔细看，n.同龄人
+slogan				n.口号
+transaction						n.交易(办理)
+transactions		n.公报
+incorporate				vt.纳入，收录
+discard				vt.丢弃n.丢弃(物)
+grope					vi.摸索，vt.摸索，猥亵n.抚摸
+triple				adj.有三部分的，三倍vi.(成为)三倍vt.(使成为)三倍adv.三倍
+variety									n.多样化，种类
+\\\\\\\\
+
+If someone defrauds you, they take something away from you or stop you from getting what belongs to you by means of tricks and lies. 骗取
+defraud |英 [dɪ'frɔːd]  美 [dɪ'frɔd]| vt. 欺骗/vi. 进行诈骗（过去式defrauded，过去分词defrauded，现在分词defrauding，第三人称单数defrauds，名词defraudation）/
+He pleaded guilty to charges of conspiracy to defraud the government.他对阴谋诈骗政府的指控供认不讳。
+
+
+When performers improvise, they invent music or words as they play, sing, or speak. 即兴演奏; 即席演说
+If you improvise, you make or do something using whatever you have or without having planned it in advance. 临时拼凑
+improvise |英 ['ɪmprəvaɪz]  美 ['ɪmprəvaɪz]| vt. 即兴创作；即兴表演；临时做；临时提供/vi. 即兴创作；即兴表演；临时凑合/
+Uncle Richard read a chapter from the Bible and improvised a prayer.理查德叔叔吟诵了《圣经》中的一个章节，然后即兴说了一段祷告。
+I asked her what the piece was and she said, "Oh, I'm just improvising."我问她那首乐曲是什么，她说，“哦，我只是即兴演奏。”
+The vet had improvised a harness.兽医临时凑成了一套马具。
+You need a wok with a steaming rack for this; if you don't have one, improvise.你需要一口带有蒸笼的锅，如果没有就临时凑合一下。
+
+
+To oppress people means to treat them cruelly, or to prevent them from having the same opportunities, freedom, and benefits as others. 压迫
+oppress |英 [ə'pres]  美 [ə'prɛs]| vt. 压迫，压抑；使……烦恼；使……感到沉重/
+These people often are oppressed by the governments of the countries they find themselves in.这些人经常受到他们所在国家政府的压迫。
+
+
+If you describe something as flabby, you are criticizing it for being disorganized or wasteful. 冗余的
+Flabby people are rather fat, with loose flesh over their bodies. 肥胖的; 肌肉松弛的
+flabby |英 ['flæbɪ]  美 ['flæbi]| adj. 松弛的；软弱的；没气力的；优柔寡断的/
+You hear talk about American business being flabby.你会听到有关美国经济发展无序的议论。
+This exercise is great for getting rid of flabby arms.这个练习对减除手臂的赘肉极为有效。
+
+
+An essay is a short piece of writing on a particular subject that is written by a writer for publication. (作家写的) 文章
+An essay is a short piece of writing on a particular subject written by a student. (学生写的) 短文
+essay |英 ['eseɪ]  美 ['ɛse]| n. 散文；试图；随笔/vt. 尝试；对…做试验/
+...Thomas Malthus's essay on population.…托马斯·马尔萨斯关于人口的文章。
+We asked Jason to write an essay about his hometown.我们让杰森写一篇关于他家乡的短文。
+
+
+A racket is an oval-shaped bat with strings across it. Rackets are used in tennis, squash, and badminton. (网球、壁球、羽毛球等的) 球拍
+You can refer to an illegal activity used to make money as a racket. 非法的赚钱勾当
+A racket is a loud, unpleasant noise. 喧闹
+racket |英 ['rækɪt]  美 ['rækɪt]| n. 球拍；吵闹，喧闹/vt. 过着花天酒地的生活/vi. 过着花天酒地的生活/
+Tennis rackets and balls are provided.提供网球拍和网球。
+I'm sure he'll admit he was in the drug racket in the end.我敢肯定最终他会承认他在从事非法毒品买卖。
+He makes such a racket I'm afraid he disturbs the neighbours.他如此大声喧哗，我担心他骚扰到邻居。
+
+
+A flaw in something such as a pattern or material is a fault in it that should not be there. 瑕疵
+A flaw in someone's character is an undesirable quality that they have. (性格中的) 缺点
+A flaw in something such as a theory or argument is a mistake in it, which causes it to be less effective or valid. (理论或论点中的) 欠缺
+flaw |英 [flɔː]  美 [flɔ]| n. 瑕疵，缺点；一阵狂风；短暂的风暴；裂缝，裂纹/v. 使生裂缝，使有裂纹；使无效；使有缺陷/vi. 生裂缝；变的有缺陷/
+It's like having a flaw in a piece of material - the longer you leave it, the weaker it gets.这就像一块料子上有瑕疵一样—你把它放得越久，它就变得越不结实。
+The only flaw in his character seems to be a short temper.他性格中唯一的缺点似乎就是脾气急躁。
+There were, however, a number of crucial flaws in his monetary theory.然而，他的货币理论中有很多关键性的欠缺。
+
+
+If someone or something such as an actor or a film is nominated for an award, someone formally suggests that they should be given that award. (某人或某物) 被提名 (某奖项)
+If you nominate someone to a job or position, you formally choose them to hold that job or position. 任命
+If someone is nominated for a job or position, their name is formally suggested as a candidate for it. (为工作、职位) 提名
+nominate |英 ['nɒmɪneɪt]  美 ['nɑmɪnet]| vt. 推荐；提名；任命；指定/
+Practically every film he made was nominated for an Oscar.他制作的每部电影几乎都获得了奥斯卡提名。
+She was nominated by the president as ambassador to Barbados.她被总统任命为驻巴巴多斯大使。
+In 1967 Johnson nominated Thurgood Marshall to the Supreme Court.1967年，约翰逊任命瑟古德·马歇尔为最高法院法官。
+The Security Council can nominate anyone for secretary-general.安全理事会可以提名任何人为秘书长。
+This week one of them will be nominated by the Democratic Party for the presidency of the United States.本周他们中的一人将被民主党提名为美国总统职位的候选人。
+
+
+A syllabus is an outline or summary of the subjects to be covered in a course. 教学大纲
+syllabus |英 ['sɪləbəs]  美 ['sɪləbəs]| n. 教学大纲，摘要；课程表/
+The course syllabus consisted mainly of novels by African-American authors, male and female.该课程的教学大纲主要包括了非裔美国男女作家的小说。
+
+
+If you are bored stiff, worried stiff, or scared stiff, you are extremely bored, worried, or scared. 极度地
+Stiff can be used to mean difficult or severe. 艰难的; 激烈的
+stiffly 拘谨地; 生硬地
+Stiff behaviour is rather formal and not very friendly or relaxed. 拘谨的; 生硬的
+stiffly 酸痛地
+If you are stiff, your muscles or joints hurt when you move, because of illness or because of too much exercise. 酸痛的
+Something such as a door or drawer that is stiff does not move as easily as it should. (门或抽屉) 难移动的
+stiffly 硬地; 不易弯曲地
+Something that is stiff is firm or does not bend easily. 硬的; 不易弯曲的
+stiff |英 [stɪf]  美 [stɪf]| adj. 呆板的；坚硬的；严厉的；拘谨的/adv. 僵硬地；彻底地/n. 死尸；令人讨厌者；流通票据；劳动者/vt. 诈骗；失信/
+Even if he bores you stiff, it is good manners not to let him know it.即使他把你烦透了，出于礼貌你也不能让他看出来。
+Anna tried to look interested. Actually, she was bored stiff.安娜试图装出感兴趣的样子。实际上她都厌烦透了。
+She faces stiff competition in the Best Actress category.她在最佳女演员这个奖项上面临着激烈的竞争。
+"Why don't you borrow your sister's car?" said Cassandra stiffly.“为什么不借你姐姐的车？”卡珊德拉生硬地说道。
+They always seemed a little awkward with each other, a bit stiff and formal.他们总是彼此显得有点儿别扭，有几分拘谨，不太随意。
+He climbed stiffly from the Volkswagen.他浑身酸痛地从大众汽车里爬出来。
+The mud bath is particularly recommended for relieving tension and stiff muscles.泥浴被特别推荐用于缓解紧张和肌肉酸痛。
+Train doors have handles on the inside. They are stiff so that they cannot be opened accidentally.火车车门内侧有把手。把手很紧，这样就不会被意外打开了。
+Moira sat stiffly upright in her straight-backed chair.莫伊拉直挺挺地坐在直背椅上。
+His gaberdine trousers were brand new and stiff.他的华达呢裤子崭新笔直。
+The furniture was stiff, uncomfortable, too delicate, and too neat.这家具又硬又不舒服，过分易碎且过于光洁。
+
+
+A toxic substance is poisonous. 有毒的
+toxic |英 ['tɒksɪk]  美 ['tɑksɪk]| adj. 有毒的；中毒的/
+...the cost of cleaning up toxic waste.…清除有毒废弃物的成本。
+
+
+If you describe something bad, such as a crime or disease, as rampant, you mean that it is very common and is increasing in an uncontrolled way. 猖獗的; 泛滥的
+rampant |英 ['ræmp(ə)nt]  美 ['ræmpənt]| adj. 猖獗的；蔓延的；狂暴的；奔放的/n. (Rampant)人名；(法)朗庞/
+Inflation is rampant and industry in decline.通货膨胀肆虐，工业生产下降。
+
+
+Propulsion is the power that moves something, especially a vehicle, in a forward direction. 推进力
+propulsion |英 [prə'pʌlʃ(ə)n]  美 [prə'pʌlʃən]| n. 推进；推进力/
+...the submarine's propulsion system....该潜艇的推进系统。
+
+
+tellingly 显露真相地
+If something is telling, it shows the true nature of a person or situation. 显露真相的
+The telling of a story or of something that has happened is the reporting of it to other people. 讲述
+telling |英 ['telɪŋ]  美 ['tɛlɪŋ]| adj. 有效的；生动的；显著的/n. 命令；叙述；吐露真情/v. 告诉；讲述（tell的ing形式）；命令/n. (Telling)人名；(英)特林/
+Most tellingly, perhaps, chimpanzees do not draw as much information from the world around them as we do.也许最能说明问题的是，黑猩猩从周围的世界获取的信息不如我们获取的那么多。
+How a man shaves may be a telling clue to his age.一个男人如何刮脸也许会暴露他的实际年龄。
+Juan sat quietly through the telling of this saga.胡安安静地坐着听完了这个长篇故事。
+
+
+Throughout is also an adverb. 到处
+If you say that something happens or exists throughout a place, you mean that it happens or exists in all parts of that place. 遍及
+Throughout is also an adverb. 自始至终
+If you say that something happens throughout a particular period of time, you mean that it happens during the whole of that period. 自始至终
+throughout |英 [θruː'aʊt]  美 [θrʊ'aʊt]| adv. 自始至终，到处；全部/prep. 贯穿，遍及/
+The route is well sign-posted throughout.这条路线全程设有路标。
+"Sight Savers," founded in 1950, now runs projects throughout Africa, the Caribbean and Southeast Asia.国际防盲救盲组织成立于1950年，如今在非洲、加勒比海和东南亚各地区开展项目。
+The first song, "Blue Moon," didn't go too badly except that everyone talked throughout.第一首歌《蓝月亮》效果还不算太差，只是所有的人自始至终都在说话。
+Movie music can be made memorable because its themes are repeated throughout the film.电影音乐可以制作得令人难忘，因为其主旋律在影片中反复出现。
+The national tragedy of rival groups killing each other continued throughout 1990.1990年全年，敌对组织互相残杀的民族悲剧持续不断。
+
+
+The highlights of an event, activity, or period of time are the most interesting or exciting parts of it. 最精彩的部分
+To highlight a piece of text means to mark it in a different colour, either with a special type of pen or on a computer screen. (用不同颜色) 标出; (在电脑屏幕上) 突出显示
+If someone or something highlights a point or problem, they emphasize it or make you think about it. 强调; 使注意
+highlight |英 ['haɪlaɪt]  美 ['haɪlaɪt]| vt. 突出；强调；使显著；加亮/n. 最精彩的部分；最重要的事情；加亮区/
+...a match that is likely to prove one of the highlights of the tournament.…可能是本届锦标赛最精彩的赛事之一。
+Highlight the chosen area by clicking and holding down the left mouse button.通过点击鼠标左键并摁住以突出显示所选区域。
+Last year Collins wrote a moving ballad which highlighted the plight of the homeless.去年柯林斯写了一首感人的叙事诗，突出描写了无家可归者的苦境。
+
+
+If you devise a plan, system, or machine, you have the idea for it and design it. 构思; 设计
+devise |英 [dɪ'vaɪz]  美 [dɪ'vaɪz]| vt. 设计；想出；发明；图谋；遗赠给/n. 遗赠/n. (Devise)人名；(法)德维兹；(英)德维斯/
+We devised a scheme to help him.我们想出了一个计划来帮助他。
+
+
+If someone wields power, they have it and are able to use it. 掌握 (权力)
+If you wield a weapon, tool, or piece of equipment, you carry and use it. 拿着 (武器、工具或设备)
+wield |英 [wiːld]  美 [wild]| vt. 使用；行使；挥舞/
+He remains chairman, but wields little power at the company.他还是主席，但在公司内没有什么权力。
+He was attacked by a man wielding a knife.他遭到一名持刀男子的袭击。
+
+
+enormously 极其地
+You can use enormous to emphasize the great degree or extent of something. (程度、范围) 极大的
+Something that is enormous is extremely large in size or amount. 巨大的
+enormous |英 [ɪ'nɔːməs]  美 [ɪ'nɔrməs]| adj. 庞大的，巨大的；凶暴的，极恶的/
+This book was enormously influential.这本书影响极大。
+It was an enormous disappointment.这是件令人极为失望的事。
+The main bedroom is enormous.主卧室大极了。
+
+
+If memories, feelings, or possibilities fade, they slowly become less intense or less strong. 逐渐变弱
+When light fades, it slowly becomes less bright. When a sound fades, it slowly becomes less loud. 逐渐变暗; 逐渐变弱
+faded 褪色的
+When a coloured object fades or when the light fades it, it gradually becomes paler. 使褪色; 褪色
+fade |英 [feɪd]  美 [fed]| vi. 褪色；凋谢；逐渐消失/vt. 使褪色/adj. 平淡的；乏味的/n. [电影][电视] 淡出；[电影][电视] 淡入/n. (Fade)人名；(法)法德/
+Prospects for peace had already started to fade.和平的前景已开始变得暗淡。
+Sympathy for the rebels, the government claims, is beginning to fade.政府声称对造反者的同情在开始减弱。
+Seaton lay on his bed and gazed at the ceiling as the light faded.西顿躺在床上凝视着天花板， 那时光线逐渐变暗。
+...a girl in a faded dress.…一个穿褪色连衣裙的女孩。
+No matter how soft the light is, it still fades carpets and curtains in every room.不论光线多么柔和，它仍然会使每个房间的地毯和窗帘褪色。
+All colour fades – especially under the impact of direct sunlight.所有颜色都会褪色–尤其是在直射阳光的影响下。
+
+
+
+exhilarate |英 [ɪg'zɪləreɪt; eg-]  美 [ɪɡ'zɪləret]| vt. 使高兴，使振奋；使愉快/
+
+
+
+A slum is an area of a city where living conditions are very bad and where the houses are in bad condition. 贫民区
+slum |英 [slʌm]  美 [slʌm]| vi. （为猎奇或救济等）去贫民窟/n. 贫民窟；陋巷；脏乱的地方/
+...a slum area of St. Louis.…圣路易斯的一个贫民区。
+
+
+Your peers are the people who are the same age as you or who have the same status as you. 同龄人; 同等地位的人
+If you peer at something, you look at it very hard, usually because it is difficult to see clearly. 费力地看; 盯着
+peer |英 [pɪə]  美 [pɪr]| n. 贵族；同等的人；同龄人/vi. 凝视，盯着看；窥视/vt. 封为贵族；与…同等/n. (Peer)人名；(英、巴基)皮尔/
+His engaging personality made him popular with his peers.他迷人的个性使他很受同龄人欢迎。
+I had been peering at a computer print-out that made no sense at all.我一直在费力地看一份不知所云的电脑打印稿。
+
+
+A slogan is a short phrase that is easy to remember. Slogans are used in advertisements and by political parties and other organizations who want people to remember what they are saying or selling. 口号; 广告语
+slogan |英 ['sləʊg(ə)n]  美 ['slogən]| n. 标语；呐喊声/
+They could campaign on the slogan "We'll take less of your money."他们可以打着“我们将少赚你的钱”的广告语开展宣传攻势。
+
+
+A transaction is a piece of business, for example, an act of buying or selling something. 交易
+transaction |英 [træn'zækʃ(ə)n; trɑːn-; -'sæk-]  美 [træn'zækʃən]| n. 交易；事务；办理；会报，学报/
+The transaction is completed by payment of the fee.交易在支付费用之后就完成了。
+
+
+If someone or something is incorporated into a large group, system, or area, they become a part of it. 使并入
+If one thing incorporates another thing, it includes the other thing. 包含
+incorporate |英 [ɪn'kɔːpəreɪt]  | vt. 包含，吸收；体现；把……合并/vi. 合并；混合；组成公司/adj. 合并的；一体化的；组成公司的/
+The agreement would allow the rebels to be incorporated into a new national police force.该协议将允许叛军并入一支新的国家警察部队。
+The new cars will incorporate a number of major improvements.这种新型汽车将包含许多重大的改进。
+
+
+If you discard something, you get rid of it because you no longer want it or need it. 丢弃
+discard |英 [dɪ'skɑːd]  美 [dɪsˈkɑːrd]| vt. 抛弃；放弃；丢弃/vi. 放弃/n. 抛弃；被丢弃的东西或人/
+Read the manufacturer's guidelines before discarding the box.先阅读制造商的说明书再把盒子丢掉。
+
+
+If you grope for something, for example the solution to a problem, you try to think of it, when you have no real idea what it could be. 寻找
+If you grope your way to a place, you move there, holding your hands in front of you and feeling the way because you cannot see anything. 摸索而行
+If you grope for something that you cannot see, you try to find it by moving your hands around in order to feel it. 摸索
+grope |英 [grəʊp]  美 [ɡrop]| vi. 摸索；探索/vt. 摸索/n. 摸索；触摸/n. (Grope)人名；(德)格罗佩/
+He groped for solutions to his problems.他寻找问题的解决办法。
+I didn't turn on the light, but groped my way across the room.我没有开灯，而是摸索着穿过房间。
+With his left hand he groped for the knob, turned it, and pulled the door open.他用左手摸索到门把手，转动把手，把门拉开。
+
+
+If something triples or if you triple it, it becomes three times as large in size or number. 使成为三倍; 变成三倍
+Triple means consisting of three things or parts. 三个的; 三部分的
+triple |英 ['trɪp(ə)l]  美 ['trɪpl]| adj. 三倍的；三方的/n. 三倍数；三个一组/vi. 增至三倍/vt. 使成三倍/
+The exhibition has tripled in size from last year.这个展览会面积是去年的三倍。
+I got a fantastic new job and my salary tripled.我得到了一份极好的新工作，我的薪水是原来的三倍。
+...a triple somersault.…连续三个筋斗。
+
+
+A variety of something is a type of it. 品种
+A variety of things is a number of different kinds or examples of the same thing. (同一事物的) 一些不同种类
+If something has variety, it consists of things that are different from each other. 多样化
+variety |英 [və'raɪətɪ]  美 [və'raɪəti]| n. 多样；种类；杂耍；变化，多样化/
+I'm always pleased to try out a new variety.我一直乐于尝试新的品种。
+The island offers such a wide variety of scenery and wildlife.这座岛屿有如此丰富多样的景色和野生动植物。
+West Hampstead has a variety of good stores and supermarkets.西汉普斯特德有几家不同的高品质商店和超市。
+Susan's idea of freedom was to have variety in her life style.苏珊对自由的理解就是拥有生活方式的多样化。
+

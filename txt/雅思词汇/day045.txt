@@ -1,0 +1,336 @@
+inspiration					n.灵感，妙计
+doubtless					adv.很可能的，无疑的
+version						n.说法，变体，版本
+slack						adj.松垂的，懒散的，松懈的，萧条的n.松弛(松懈)vt.松弛(松开)
+correlate			vi.相关联vt.相关联
+subside				vi.减弱，坍塌，消失，坐下
+donation						n.捐赠物
+feel								vt.触摸，感觉到，意识到，认为，vi.摸索，感觉到n.触摸，气氛，天赋
+piracy			n.劫持，盗版
+oscillate		vi.<物理>摆动(摇摆)，<物理>振荡
+norm				n.基准，规范
+trample				vt.踩vi.踩，侵犯
+compliment			n.赞扬，致意vt.称赞
+compliments			n.称赞之词，问候
+genuine						adj.真的，真诚的
+fancy								vt.想要(英)，n.想象adj.高级的
+augment			vt.增加
+smart					adj.漂亮的，时尚的，聪明的vi.引起剧痛n.引起剧痛
+gaudy			adj.俗艳的，花哨的
+generalize					vi.概括vt.普及(推广)
+carpenter								n.木匠
+sincere			adj.真诚的，忠实的
+glimmer			n.闪烁的微光vi.闪烁的微光
+a glimmer of hope		一丝希望
+muster			n.集合，vt.集合，鼓起vi.集合
+gene							n.基因
+devastating			adj.毁灭性的，令人震惊的，令人倾倒的
+decree			n.法令，裁定vt.颁布(规定)
+reservoir		n.水库，储备<比喻>
+jeopardize					vt.危及
+sterilize		vt.给...消毒，使...绝育
+deadlock			n.僵局vt.僵局
+\\\\\\\\
+
+If you suddenly have an inspiration, you suddenly think of an idea of what to do or say. (突然想到的) 妙计
+If something or someone is the inspiration for a particular book, work of art, or action, they are the source of the ideas in it or act as a model for it. 灵感来源; 原始动力
+If you describe someone or something good as an inspiration, you mean that they make you or other people want to do or achieve something. 鼓舞人心的人 (或事物)
+Inspiration is a feeling of enthusiasm you get from someone or something, that gives you new and creative ideas. 灵感
+inspiration |英 [ˌɪnspəˈreɪʃn]  美 [ˌɪnspəˈreʃən]| n. 灵感；鼓舞；吸气；妙计/
+She had an inspiration, "Could we take Janice?"她灵机一动，“我们可以带珍妮斯吗？”
+India's myths and songs are the inspiration for her books.印度的神话与歌曲是她著书的灵感源泉。
+Powell's unusual journey to high office is an inspiration to millions.鲍威尔升任高官的不寻常历程对许多人来说是一种激励。
+My inspiration comes from poets like Baudelaire and Jacques Prévert.我的灵感来自像波德莱尔和雅克·普莱维尔这样的诗人。
+
+
+If you say that something is doubtless the case, you mean that you think it is probably or almost certainly the case. 大概; 近乎无疑地
+doubtless |英 ['daʊtlɪs]  美 ['daʊtləs]| adv. 无疑地；确定地；大概，多半/adj. 无疑的；确定的/
+He will doubtless try and persuade his colleagues to change their minds.他大概会尽力说服他的同事们改变主意。
+
+
+Someone's version of an event is their own description of it, especially when it is different from other people's. (某人对某事有别于他人的) 说法
+A version of something is a particular form of it in which some details are different from earlier or later forms. 版本; 变体
+version |英 ['vɜːʃ(ə)n]  美 ['vɝʒn]| n. 版本；译文；倒转术/
+Some former hostages contradicted the official version of events.一些以前的人质反驳了官方对这些事件的说法。
+Ludo is a version of an ancient Indian racing game.“鲁多游戏”是一种古代印度竞赛游戏的变体。
+...an updated version of his bestselling book.…他这本畅销书的一个最新版本。
+
+
+a part of a rope, etc, that is slack 松弛
+Slack off means the same as . 偷懒
+If someone is slacking, they are not working as hard as they should. 偷懒
+Someone who is slack in their work does not do it properly. 松懈的; 懈怠的
+A slack period is one in which there is not much work or activity. 萧条的; 不景气的
+Something that is slack is loose and not firmly stretched or tightly in position. 松散的; 松弛的; 宽松的
+slack |英 [slæk]  美 [slæk]| adj. 松弛的；疏忽的；不流畅的/vi. 松懈；减弱/n. 煤末；峡谷/vt. 放松；使缓慢/adv. 马虎地；缓慢地/n. (Slack)人名；(英)斯莱克/
+take in the slack
+If someone slacks off, Bill comes down hard.如果有人偷懒，比尔就会严厉训斥。
+He had never let a foreman see him slacking.他从未让工头见到他偷懒过。
+Many publishers have simply become far too slack.许多出版商简直变得过于松松垮垮。
+The workload can be evened out, instead of the shop having busy times and slack periods.工作量可以均衡分配，商店就不会有旺季和淡季。
+The boy's jaw went slack.那个男孩的下巴掉下来了。
+
+
+If you correlate things, you work out the way in which they are connected or the way they influence each other. 使…相互关联
+If one thing correlates with another, there is a close similarity or connection between them, often because one thing causes the other. You can also say that two things correlate. 和…相关 (尤指互有因果关系); 相近
+correlate |英 ['kɒrəleɪt; -rɪ-]  美 ['kɔrəlet]| vi. 关联/vt. 使有相互关系；互相有关系/n. 相关物；相关联的人/adj. 关联的/
+Attempts to correlate specific language functions with particular parts of the brain have not advanced very far.试图把特定的语言功能和大脑特定区域相联系的努力还没有取得很大进展。
+The political opinions of spouses correlate more closely than their heights.与身高匹配相比，配偶之间的政治观点更为接近。
+Obesity correlates with increased risk for hypertension and stroke.过度肥胖与高血压和中风的发病风险增加密切相关。
+
+
+If a level of water, especially flood water, subsides, it goes down. (尤指洪水的水位) 回落
+If the ground or a building is subsiding, it is very slowly sinking to a lower level. 下陷
+If fighting subsides, it becomes less intense or general. 平息
+If a feeling or noise subsides, it becomes less strong or loud. 减弱
+subside |英 [səb'saɪd]  美 [səb'saɪd]| vi. 平息；减弱；沉淀；坐下/
+Local officials say the flood waters have subsided.当地官员们说洪水已经退了。
+Does that mean the whole house is subsiding?那意味着整栋房子正在下陷吗？
+Violence has subsided following two days of riots.暴力在两天的暴乱之后已经平息了。
+The pain had subsided during the night.那疼痛在晚间已减轻了。
+
+
+A donation is something which someone gives to a charity or other organization. 捐赠物
+donation |英 [də(ʊ)'neɪʃ(ə)n]  美 [do'neʃən]| n. 捐款，捐赠物；捐赠/
+Employees make regular donations to charity.员工们定期向慈善机构捐赠物品。
+
+
+If you feel yourself doing something or being in a particular state, you are aware that something is happening to you which you are unable to control. 感觉到 (不禁做某事)
+If you feel something happening, you become aware of it because of the effect it has on your body. (身体) 感觉到
+If you can feel something, you are aware of it because it is touching you. (由于碰触) 感觉到
+If you feel an object, you touch it deliberately with your hand, so that you learn what it is like, for example, what shape it is or whether it is rough or smooth. 触摸
+If you talk about how the weather feels, you describe the weather, especially the temperature or whether or not you think it is going to rain or snow. (天气，尤指气温) 感觉起来
+Feel is also a noun. 手感
+If you talk about how an object feels, you talk about the physical quality that you notice when you touch or hold it. For example, if something feels soft, you notice that it is soft when you touch it. 摸上去…; 拿起来…
+If you talk about how an experience or event feels, you talk about the emotions and sensations connected with it. 使人感觉
+If you feel a particular emotion or physical sensation, you experience it. 感觉
+feel |英 [fiːl]  美 [fil]| vt. 感觉；认为；触摸；试探/vi. 觉得；摸索/n. 感觉；触摸/
+Neither of them felt like going back to sleep.他们俩都不想回去睡觉。
+She feels guilty about spending less time lately with her two kids.她为最近和自己的两个孩子在一起的时间少了而感到内疚。
+We'd like to know what you feel about abortion.我们想知道你对堕胎有什么看法。
+You need not feel obliged to contribute.你不必认为你非得捐款。
+I feel I should resign.我认为我应该辞职。
+I feel certain that it will all turn out well.我觉得最后肯定一切都会很好
+I feel that not enough is being done to protect the local animal life.我觉得在保护当地动物方面做得还不够。
+I could feel that a man was watching me very intensely.我能感觉到一个男人正紧盯着我看。
+He felt her eyes on him.他感觉到她的眼睛正盯着他。
+If at any point you feel yourself becoming tense, make a conscious effort to relax.如果什么时候你感到自己变得紧张了，就有意识地努力去放松。
+I felt myself blush.我感到自己脸红了。
+He felt something move beside him.他感觉到身边有东西在移动。
+She felt something being pressed into her hands.她感觉到有什么东西正塞进她的双手。
+Through several layers of clothes I could feel his muscles.透过好几层衣服，我可以感觉到他的肌肉。
+Feel how soft the skin is in the small of the back.摸一摸腰背部的皮肤有多么柔软。
+The doctor felt his head.医生摸了摸他的头。
+It felt wintry cold that day.那天感觉像冬天一样寒冷。
+He remembered the feel of her skin.他记得她的皮肤摸上去的那种感觉。
+The ten-foot oars felt heavy and awkward.这些10英尺长的船桨拿起来又重又不方便。
+The metal felt smooth and cold.这种金属摸上去光滑而冰冷。
+Within five minutes of arriving back from holiday, it feels as if I've never been away.度假回来还没过5分钟，就感觉好像我从未离开过。
+The speed at which everything moved felt strange.一切进展的速度让人感觉怪异。
+It feels good to have finished a piece of work.完成一项工作让人感觉很好。
+I felt like I was being kicked in the teeth every day.我感觉我好像每天都在经受挫折。
+I felt as if all my strength had gone.我觉得好象自己的力气已经全没了。
+Suddenly I felt a sharp pain in my shoulder.我突然感到肩部一阵剧痛。
+I am feeling very depressed.我感到很沮丧。
+
+
+You can refer to the illegal copying of things such as DVDs and computer programs as piracy. 盗版行为
+Piracy is robbery at sea carried out by pirates. 海盗行为
+piracy |英 ['paɪrəsɪ]  美 ['paɪrəsi]| n. 海盗行为；剽窃；著作权侵害；非法翻印/
+...protection against piracy of books, films, and other intellectual property.…对书籍、影片以及其他知识产权免遭侵权的保护。
+Seven of the fishermen have been formally charged with piracy.其中7名渔民已被正式指控犯有海盗罪。
+
+
+oscillation
+If you oscillate between two moods, attitudes, or types of behaviour, you keep changing from one to the other and back again. (在两种情绪、态度或行为类型间)举棋不定
+oscillation
+If the level or value of something oscillates, it keeps going up and down. (水平或价值)浮动
+oscillation
+If an object oscillates, it moves repeatedly from one position to another and back again, or keeps getting bigger and smaller. 摆动
+oscillate |英 ['ɒsɪleɪt]  美 ['ɑsɪlet]| vt. 使振荡；使振动；使动摇/vi. 振荡；摆动；犹豫/
+...that perpetual oscillation between despair and distracted joy....在绝望和心不在焉的快乐间永无休止的徘徊。
+The president of the republic oscillated between a certain audacity and a prudent realism.该共和国总统施政时而大胆，时而谨慎务实。
+There have always been slight oscillations in world temperature.全球气温一直在轻微地波动。
+...an oscillating signal of microwave frequency....一个微波炉频率的波动信号。
+Oil markets oscillated on the day's reports from Geneva.石油市场因当日来自日内瓦的报道而出现了起伏。
+Some oscillation of the fuselage had been noticed on early flights.在之前的几次飞行中，就察觉到了机身有些摇晃。
+I checked to see if the needle indicating volume was oscillating.我查看了那根音量指针是否在摆动。
+
+
+A norm is an official standard or level that organizations are expected to reach. 标准
+If you say that a situation is the norm, you mean that it is usual and expected. 惯例; 常规
+Norms are ways of behaving that are considered normal in a particular society. 准则
+norm |英 [nɔːm]  美 [nɔrm]| n. 标准，规范/
+About 32 percent of students meet national norms in reading.大约32%的学生达到国家阅读标准。
+Families of six or seven are the norm in Borough Park.六七口人的家庭在菠萝园是常事儿。
+The actions taken depart from what she called the commonly accepted norms of democracy.所采取的这些行动背离了她所谓的那些普遍接受的民主准则。
+
+
+If someone tramples something or tramples on it, they step heavily and carelessly on it and damage it. 践踏; 踩坏
+If someone is trampled, they are injured or killed by being stepped on by animals or by other people. 踩伤; 踩死
+To trample on someone's rights or values or to trample them means to deliberately ignore them. 无视
+trample |英 ['træmp(ə)l]  美 ['træmpl]| vt. 践踏；蔑视，伤害/vi. 践踏；蔑视，伤害；脚步沉重地走/n. 蹂躏；践踏声/
+They don't want people trampling the grass, pitching tents or building fires.他们不想让人们践踏草地、搭帐篷或生火。
+Many people were trampled in the panic that followed.很多人在随后的恐慌中被踩伤。
+They say loggers are destroying rain forests and trampling on the rights of natives.他们说伐木工正在破坏雨林，无视当地人的权利。
+
+
+If you compliment someone, you give them a compliment. 恭维
+A compliment is a polite remark that you make to someone to show that you like their appearance, appreciate their qualities, or approve of what they have done. 恭维话
+compliment |英 ['kɒmplɪm(ə)nt]  美 [ˈkɑːmplɪmənt]| n. 恭维；称赞；问候；致意；道贺/vt. 恭维；称赞/
+They complimented me on the way I looked each time they saw me.他们每次见到我都就我的外貌恭维我。
+You can do no harm by paying a woman compliments.对女人讲恭维话不会有什么害处。
+
+
+If you compliment someone, you give them a compliment. 恭维
+A compliment is a polite remark that you make to someone to show that you like their appearance, appreciate their qualities, or approve of what they have done. 恭维话
+compliments |英/美 ['kɔmplimənt]| n. 恭维（compliment的复数）；问候；道贺/v. 祝贺（compliment的三单形式）；向…致贺辞/
+They complimented me on the way I looked each time they saw me.他们每次见到我都就我的外貌恭维我。
+You can do no harm by paying a woman compliments.对女人讲恭维话不会有什么害处。
+
+
+If you describe a person as genuine, you approve of them because they are honest, truthful, and sincere in the way they live and in their relationships with other people. 诚实可靠的
+genuinely 真诚地
+Genuine refers to things such as emotions that are real and not pretended. 真诚的
+Genuine is used to describe people and things that are exactly what they appear to be, and are not false or an imitation. 真正的
+genuine |英 ['dʒenjʊɪn]  美 ['dʒɛnjʊɪn]| adj. 真实的，真正的；诚恳的/
+She is very caring and very genuine.她很有同情心，也非常诚实可靠。
+He was genuinely surprised.他真得吃了一惊。
+If this offer is genuine, I will gladly accept it.如果这份帮助是真诚的，我将愉快地接受它。
+...genuine leather.…真皮。
+There was a risk of genuine refugees being returned to Vietnam.有把真正的难民遣送回越南的风险。
+
+
+If something takes your fancy or tickles your fancy, you like it a lot when you see it or think of it. 中某人的意
+If you take a fancy to someone or something, you start liking them, usually for no understandable reason. (通常指没有道理的) 爱上
+You say "fancy" or "fancy that" when you want to express surprise or disapproval. (表示惊讶或反对) 真没想到
+If you fancy something, you want to have it or to do it. 想要
+If you say that someone fancies themselves as a particular kind of person, you mean that they think, often wrongly, that they have the good qualities which that kind of person has. (自) 认为是
+If you fancy yourself as a particular kind of person or fancy yourself doing a particular thing, you like the idea of being that kind of person or doing that thing. 认为 (自己)
+If you describe something as fancy, you mean that it is very expensive or of very high quality, and you often dislike it because of this. 阔气的
+If you describe something as fancy, you mean that it is special, unusual, or elaborate, for example because it has a lot of decoration. 别致的
+fancy |英 ['fænsɪ]  美 ['fænsi]| n. 幻想；想象力；爱好/adj. 想象的；奇特的；昂贵的；精选的/vt. 想象；喜爱；设想；自负/vi. 幻想；想象/n. (Fancy)人名；(法)方西/
+She makes most of her own clothes, copying any fashion which takes her fancy.她大部分的衣服是模仿中意的时装自己做的。
+Sylvia took quite a fancy to him.西尔维娅完全爱上了他。
+"Fancy that!" smiled Conti.“真没想到！” 康蒂笑着说。
+I just fancied a drink.我只是想要杯饮料。
+She fancies herself a bohemian.她自命为一个放荡不羁的艺术家。
+So you fancy yourself as the boss someday?那么你认为自己有一天会成老板？
+My parents sent me to a fancy private school.我父母把我送到了一所阔气的私立学校。
+The magazine was packaged in a fancy plastic case with attractive graphics.这本杂志装在一个带有漂亮图纹的别致塑料盒子里。
+
+
+To augment something means to make it larger, stronger, or more effective by adding something to it. 增加
+augment |英 [ɔːg'ment]  美 [ɔɡ'mɛnt]| vi. 增加；增大/vt. 增加；增大/n. 增加；增大/
+While searching for a way to augment the family income, she began making dolls.为求增加家庭收入，她开始做起了玩具娃娃。
+
+
+If you are smarting from something such as criticism or failure, you feel upset about it. (因批评或失败) 感到难受
+If a part of your body or a wound smarts, you feel a sharp stinging pain in it. (身体某部位或伤口) 刺痛
+A smart place or event is connected with wealthy and fashionable people. 时髦的
+smartly 整洁地
+Smart people and things are pleasantly neat and clean in appearance. 整洁的
+You can describe someone who is clever or intelligent as smart. 聪明的; 机智的
+smart |英 [smɑːt]  美 [smɑrt]| adj. 聪明的；巧妙的；敏捷的；厉害的；潇洒的；剧烈的；时髦的/n. (Smart)人名；(法)斯马尔；(英、德)斯马特/
+The Americans were still smarting from their defeat in the Vietnam War.美国人仍在为越战中失利而难受。
+My eyes smarted from the smoke.我的双眼被烟熏得刺痛。
+...smart dinner parties.…时髦的宴会。
+He dressed very smartly, which was important in those days.他穿得非常整洁，这在当时很重要。
+I was dressed in a smart navy blue suit.我穿一身整洁的海军蓝制服。
+He was smart and well groomed but not good looking.他时髦而且打扮整齐，但是长得不帅。
+He thinks he's smarter than Sarah is.他认为他比萨拉更聪明。
+
+
+If something is gaudy, it is very brightly coloured and showy. 花哨的
+gaudy |英 ['gɔːdɪ]  美 ['gɔdi]| adj. 华而不实的；俗丽的/n. 盛大宴会/n. (Gaudy)人名；(法)戈迪/
+...her gaudy orange-and-purple floral hat.…她那花哨的、桔色紫色相间的花帽子。
+
+
+If you generalize something such as an idea, you apply it more widely than its original context, as if it was true in many other situations. 普及
+If you generalize, you say something that seems to be true in most situations or for most people, but that may not be completely true in all cases. 概括
+generalize |英 [ˈdʒɛnrəˌlaɪz]  美 ['dʒɛnrəlaɪz]| vt. 概括；推广；使...一般化/vi. 形成概念/
+A child first labels the household pet cat as a "cat" and then generalizes this label to other animals that look like it.孩子先把家养的宠物猫称为“猫”，然后把这个称呼扩大到其他看起来像猫的动物。
+Critics love to generalize, to formulate trends into which all new work must be fitted, however contradictory.评论家喜欢概括，归纳出所有新作品都必须符合的趋势，不管它们是如何地不符。
+
+
+
+carpenter |英 [ˈkɑːpəntə(r)]  美 [ˈkɑːrpəntər]| n. 木匠，木工/vi. 当木匠，做木匠工作/vt. 制作/n. (Carpenter)人名；(英、葡、法)卡彭特/
+
+
+
+sincerity 真诚; 诚挚
+If you say that someone is sincere, you approve of them because they really mean the things they say. You can also describe someone's behaviour and beliefs as sincere. (指人) 真诚的; (指行为、信仰) 诚挚的
+sincere |英 [sɪn'sɪə]  美 [sɪn'sɪr]| adj. 真诚的；诚挚的；真实的/
+I was impressed with his deep sincerity.让我铭记在心的是他深切的诚意。
+He's sincere in his views.他的意见是诚恳的。
+
+
+A glimmer of something is a faint sign of it. 一丝 (迹象)
+A glimmer is a faint, gentle, often unsteady light. 微光
+If something glimmers, it produces or reflects a faint, gentle, often unsteady light. 闪烁微光
+glimmer |英 ['glɪmə]  美 ['ɡlɪmɚ]| n. 微光；闪光；少许/vi. 闪烁；发微光/
+Despite an occasional glimmer of hope, this campaign has not produced any results.尽管偶尔有一线希望，这次宣传活动并没有产生任何结果。
+In the east there is the slightest glimmer of light.东方有一丝闪烁的微光。
+The moon glimmered faintly through the mists.月亮透过薄雾闪烁着微光。
+
+
+
+a glimmer of hope || 
+
+
+
+When soldiers muster or are mustered, they gather together in one place in order to take part in a military action. 召集; (军队等) 集合
+If you muster something such as support, strength, or energy, you gather as much of it as you can in order to do something. 聚集 (支持、力量、精力等)
+muster |英 ['mʌstə]  美 ['mʌstɚ]| vt. 召集；对…进行点名；使振作/n. 集合；检阅；点名册；集合人员/vi. 召集；聚集/n. (Muster)人名；(德、罗)穆斯特尔；(英)马斯特/
+The men mustered before their clan chiefs.男人们在他们的氏族首领前集合。
+He travelled around West Africa trying to muster support for his movement.他走遍西非，努力为他的运动寻求支持。
+
+
+A gene is the part of a cell in a living thing which controls its physical characteristics, growth, and development. 基因
+gene |英 [dʒiːn]  美 [dʒin]| n. [遗] 基因，遗传因子/
+The gene for asthma has been identified.哮喘病的基因已被识别。
+
+
+You can use devastating to emphasize that something or someone is very impressive. 给人印象深刻的
+You can use devastating to emphasize that something is very shocking, upsetting, or terrible. 令人震惊的
+If you describe something as devastating, you are emphasizing that it is very harmful or damaging. 破坏性极强的
+devastating |英/美 ['devəsteitiŋ]| adj. 毁灭性的；全然的/v. 摧毁（devastate的ing形式）；毁坏/
+He returned to his best with a devastating display of galloping and jumping.他骑马飞驰和跳跃的精彩展示，说明他恢复到了最佳状态。
+The diagnosis was devastating. She had cancer.诊断结果令人震惊。她得了癌症。
+Affairs do have a devastating effect on marriages.外遇着实对婚姻有极具破坏性的影响。
+
+
+If someone in authority decrees that something must happen, they decide or state this officially. 发布命令
+A decree is a judgment made by a law court. 判决
+A decree is an official order or decision, especially one made by the ruler of a country. 法令
+decree |英 [dɪ'kriː]  美 [dɪ'kri]| n. 法令；判决/vt. 命令；颁布；注定；判决/vi. 注定；发布命令/
+The government decreed that all who wanted to live and work in Kenya must hold Kenyan passports.政府下令要求所有想在肯尼亚居住和工作的人必须持有肯尼亚护照。
+...court decrees.…法院的判决。
+In July he issued a decree ordering all unofficial armed groups in the country to disband.7月份，他颁布了一项法令，命令解散该国所有非官方武装团体。
+
+
+A reservoir of something is a large quantity of it that is available for use when needed. 大量储备
+reservoir |英 ['rezəvwɑ: (r)]  美 ['rɛzɚ,vɔr]| n. 水库；蓄水池/
+...the huge oil reservoir beneath the Kuwaiti desert.…科威特沙漠下面大量的石油储备。
+
+
+To jeopardize a situation or activity means to do something that may destroy it or cause it to fail. 损害; 危及
+jeopardize |英 ['dʒepədaɪz]  美 ['dʒɛpɚdaɪz]| vt. 危害；使陷危地；使受危困/
+He has jeopardized his future career.他损害了他的前程。
+
+
+sterilization 绝育手术
+If a person or an animal is sterilized, they have a medical operation that makes it impossible for them to have or produce babies. 给…做绝育手术
+sterilization 消毒
+If you sterilize a thing or a place, you make it completely clean and free from germs. 给…消毒
+sterilize |英/美 ['stɛrəlaɪz]| vt. 消毒，杀菌；使成不毛；使绝育；使不起作用/
+In some cases, a sterilization is performed through the vaginal wall.在有些情况下，绝育手术是穿过阴道壁进行的。
+My wife was sterilized after the birth of her fourth child.我妻子在生了第4个孩子后，做了绝育手术。
+...the pasteurization and sterilization of milk.…牛奶的巴氏消毒和灭菌处理。
+Sulphur is also used to sterilize equipment.硫磺也用来给设备消毒。
+
+
+If a dispute or series of negotiations reaches deadlock, neither side is willing to give in at all and no agreement can be made. 僵局
+deadlock |英 ['dedlɒk]  美 ['dɛdlɑk]| n. 僵局，停顿/vi. 死锁；停顿/vt. 停顿；相持不下/
+They called for a compromise on all sides to break the deadlock in the world trade talks.他们呼吁各方作出让步以打破世界贸易谈判中的僵局。
+

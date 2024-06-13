@@ -1,0 +1,324 @@
+contention						n.论点(可数)，争论，竞争
+hijack							vt.劫持，把持n.劫持
+dweller						n.居住者
+buck							n.雄兽，责任，男人vt.使摔下，抵抗
+pass the buck					推卸责任
+view							n.观点，思维方式，视野，景色，看vt.看vi.看
+pronoun						n.代词
+contribution						n.作用，贡献，捐助
+undecided						adj.悬而未决的，犹豫不决的
+restrict						vt.限制
+reverse							n.相反情况，失败，倒档adj.相反的vt.逆转vi.倒挡(车)
+grasp							n.紧抓，掌握，理解vt.紧抓，理解vi.紧抓
+provoke						vt.激怒，引起
+texture						n.手感，口感，韵味
+publicity						n.媒体的关注，宣传
+format						n.样式，格式
+indifferent						adj.漠不关心的，一般的
+incentive						n.刺激，<商业>优惠
+prejudice									n.偏见，侵害vt.偏见
+assumption						n.假定，获得，承担
+habitual						adj.通常的，习惯性的
+sculpture							n.雕塑
+responsibility					n.负责，义务
+manuscript							n.手抄本，手稿
+duplicate						vt.复制，重复，n.副本(复印件)adj.复制的
+ecosystem						n.生态系统
+humorous						adj.幽默的
+contaminate						vt.污染
+orbit							n.轨道，势力范围，vt.绕...运行，vi.绕轨道运行
+evolve						vi.进化，逐步发展vt.逐步发展
+skyrocket						vi.飞涨
+\\\\
+
+If something is a cause of contention, it is a cause of disagreement or argument. 争论
+Someone's contention is the idea or opinion that they are expressing in an argument or discussion. (辩论或讨论中表达的) 观点
+contention |英 [kən'tenʃ(ə)n]  美 [kən'tɛnʃən]| n. 争论，争辩；争夺；论点/
+His case has become a source of contention between civil liberties activists and the government.他的案子已变成了公民自由活动家们和政府之间的争论缘由。
+It is my contention that death and murder always lurk as potentials in violent relationships.我的观点是，在暴力关系中总是潜伏着死亡和谋杀的可能。
+
+
+If you say that someone has hijacked something, you disapprove of the way in which they have taken control of it when they had no right to do so. 强行控制
+hijacking 劫持
+Hijack is also a noun. 劫持
+If someone hijacks a plane or other vehicle, they illegally take control of it by force while it is travelling from one place to another. 劫持
+hijack |英 ['haɪdʒæk]  美 ['haɪdʒæk]| vt. 抢劫；揩油/vi. 拦路抢劫/n. 劫持；威逼；敲诈/
+A peaceful demonstration had been hijacked by anarchists intent on causing trouble.一场和平示威已被一心想制造事端的无政府主义分子强行控制了。
+Car hijackings are running at a rate of nearly 50 a day.平均每天发生50起劫车事件。
+Every minute during the hijack seemed like a week.劫持过程中，每一分钟都像一个星期似的。
+Two men tried to hijack a plane on a flight from Riga to Murmansk.两名男子试图劫持一架从里加飞往摩尔曼斯克的飞机。
+
+
+A city dweller or slum dweller, for example, is a person who lives in the kind of place or house indicated. 居住者
+dweller || n. 居民，居住者/
+The number of city dwellers is growing.城市居民的数量日渐增长。
+
+
+If you pass the buck, you refuse to accept responsibility for something, and say that someone else is responsible. 推诿责任
+If you buck the trend, you obtain different results from others in the same area. If you buck the system, you get what you want by breaking or ignoring the rules. 违逆 (潮流); 抗拒 (体制)
+If a horse bucks, it kicks both of its back legs wildly into the air, or jumps into the air wildly with all four feet off the ground. (马) 狂蹬后腿跃起; 四蹄离地狂跳
+A buck is a U.S. or Australian dollar. 美元; 澳元
+buck |英 [bʌk]  | n. （美）钱，元；雄鹿；纨绔子弟；年轻的印第安人或黑人/n. (Buck)人名；(英、西)巴克；(法)比克；(德、瑞典、匈)布克/
+David says the responsibility is Mr. Smith's and it's no good trying to pass the buck.大卫说责任应该由史密斯先生承担，试图推诿责任毫无益处。
+He wants to be the tough rebel who bucks the system.他想成为抗拒体制的强硬叛逆者。
+While other newspapers are losing circulation, we are bucking the trend.其他报纸发行量在下降，而我们却逆势而进。
+The stallion bucked as he fought against the reins holding him tightly in.那匹种马四蹄离地狂跳，试图挣脱紧紧拴住它的缰绳。
+Why can't you spend a few bucks on a coat?为什么你不能花几美元买件外套呢？
+That would probably cost you about fifty bucks.那可能会花费你大约五十美元。
+
+
+ He is the kind to pass the buck to his subordinates.  他是那种把责任推卸给下属的人。
+ Good APIs don’t pass the buck.  好的API绝不推卸责任，把自己该做的事情留给别人。
+ David says the responsibility is Mr. Smith's and it's no good trying to pass the buck.  大卫说责任应该由史密斯先生承担，试图推诿责任毫无益处。
+pass the buck || 
+
+
+
+View refers to the way in which a piece of text or graphics is displayed on a computer screen. (文本或图表在计算机屏幕上的) 显示方式
+If you view a television programme, video, or movie, you watch it. 观看
+If you view something, you look at it for a particular purpose. 察看
+You use view in expressions to do with being able to see something. For example, if something is in view, you can see it. If something is in full view of everyone, everyone can see it. 在视线内
+If you have a view of something, you can see it. 看到
+The view from a window or high place is everything that can be seen from that place, especially when it is considered to be beautiful. 景色
+If you view something in a particular way, you think of it in that way. 看待
+Your view of a particular subject is the way that you understand and think about it. 看法
+Your views on something are the beliefs or opinions that you have about it, for example,whether you think it is good, bad, right, or wrong. 观点
+view |英 [vjuː]  美 [vju]| n. 观察；视野；意见；风景/vt. 观察；考虑；查看/
+He has called a meeting of all parties tomorrow, with a view to forming a national reconciliation government.他已召集各派于明天会谈，目的在于组建一个民族和解政府。
+A significant exhibition of contemporary sculpture will be on view at the Portland Gallery.一场意义重大的当代雕塑展将在波特兰美术馆展出。
+In view of the fact that Hobson was not a trained economist his achievements were remarkable.鉴于霍布森非科班出身的经济学家这一事实，他的成就是很了不起的。
+In my view things won't change.在我看来形势不会改变。
+To see the current document in full-page view, click the Page Zoom Full button.要全页显示来察看当前文件，请点击全屏显示按钮。
+We have viewed the video recording of the incident.我们已观看了该事件的录像。
+They came back to view the house again.他们又回来察看了一下房子。
+She was lying there in full view of anyone who walked by.她躺在那儿，任何路过的人都能看到她。
+He stood up to get a better view of the blackboard.他站了起来，以便能更清楚地看黑板。
+The view from our window was one of beautiful green countryside.从我们窗口可以看到一片绿色乡村的美景。
+Abigail's mother Linda views her daughter's talent with a mixture of pride and worry.阿比盖尔的母亲琳达看待女儿的天赋时既骄傲又担忧。
+First-generation Americans view the United States as a land of golden opportunity.第一代美国人把美国看成一个充满良机的大陆。
+The whole point was to get away from a Christian-centered view of religion.整个核心问题是要摆脱以基督教为中心的宗教观。
+You should also make your views known to your congressperson.你们的观点也应该让国会议员们知道。
+Washington and Moscow are believed to have similar views on Kashmir.华盛顿和莫斯科被认为在克什米尔问题上持有相似的观点。
+
+
+
+pronoun |英 ['prəʊnaʊn]  美 ['pronaʊn]| n. 代词/
+
+
+
+A contribution is a sum of money that you give in order to help pay for something. 捐款
+If you make a contribution to something, you do something to help make it successful or to produce it. 贡献
+contribution |英 [kɒntrɪ'bjuːʃ(ə)n]  美 [,kɑntrɪ'bjuʃən]| n. 贡献；捐献；投稿/
+This list ranked companies that make charitable contributions of a half million dollars or more.这张清单列出了慈善捐款50万美元及50万美元以上的公司。
+American economists have made important contributions to the field of financial and corporate economics.美国经济学家在金融社团经济学领域做出了重要贡献。
+
+
+If someone is undecided, they cannot decide about something or have not yet decided about it. 无法决定的; 未决定的
+undecided |英 [ʌndɪ'saɪdɪd]  美 [,ʌndɪ'saɪdɪd]| adj. 未定的；未决定的；不稳定的/
+After college she was still undecided as to what career she wanted to pursue.大学毕业后她仍无法决定自己要追求什么事业。
+
+
+If you restrict something to a particular group, only that group can do it or have it. If you restrict something to a particular place, it is allowed only in that place. 限定
+If you restrict someone or their activities to one thing, they can only do, have, or deal with that thing. If you restrict them to one place, they cannot go anywhere else. 限制 (在某范围)
+restriction 限制
+To restrict the movement or actions of someone or something means to prevent them from moving or acting freely. 限制
+restriction 限制
+If you restrict something, you put a limit on it in order to reduce it or prevent it from becoming too great. 限制
+restrict |英 [rɪ'strɪkt]  美 [rɪ'strɪkt]| vt. 限制；约束；限定/
+Trustees had decided to restrict university entry to about 30 percent of applicants.董事们已经决定把大学入学率限定在申请人数的30％左右。
+For the first two weeks, patients are restricted to the grounds.最初两周病人们被限制在院内活动。
+...the justification for this restriction of individual liberty.…对限制个人自由的辩护。
+The government imprisoned dissidents, forbade travel, and restricted the press.政府关押了持不同政见者，禁止了出游，限制了新闻自由。
+Since the costs of science were rising faster than inflation, some restriction on funding was necessary.既然科学成本上涨快于通货膨胀，资助上的一些限制是必要的。
+There is talk of raising the admission requirements to restrict the number of students on campus.有提高录取条件来限制校园里学生数量的说法。
+
+
+If something happens in reverse or goes into reverse, things happen in the opposite way from what usually happens or from what has been happening. 朝相反方向; 反向地 (发展)
+Thereverse or the reverse side of a flat object which has two sides is the less important or the other side. 背面; 反面
+If you say that one thing is the reverse of another, you are emphasizing that the first thing is the complete opposite of the second thing. 相反物; 相反面
+Reverse means opposite from what you expect or to what has just been described. 相反的
+If your car is in reverse, you have changed gears so that you can drive it backward. (汽车的) 倒档
+If you reverse the positions or functions of two things, you change them so that each thing has the position or function that the other one had. 调换 (位置、功能)
+If you reverse the order of a set of things, you arrange them in the opposite order, so that the first thing comes last. 颠倒 (顺序)
+When someone or something reverses a decision, policy, or trend, they change it to the opposite decision, policy, or trend. 使 (决定、政策、趋势) 转向; 逆转
+reverse |英 [rɪ'vɜːs]  美 [rɪ'vɝs]| n. 背面；相反；倒退；失败/vt. 颠倒；倒转/adj. 反面的；颠倒的；反身的/vi. 倒退；逆叫/
+Amis tells the story in reverse, from the moment the man dies.埃米斯以倒叙方式讲这个故事，从那个男人死去的那一刻开始。
+A chart on the reverse of this letter highlights your savings.这封信背面的图表着重写明了你的存款情况。
+He was not at all jolly. Quite the reverse.他一点儿也不高兴。恰恰相反。
+The wrong attitude will have exactly the reverse effect.这种错误的态度会得到恰好相反的结果。
+He lurched the car in reverse along the ruts to the access road.他沿着车辙颠簸着倒行到通行道。
+He reversed the position of the two stamps.他调换了两张邮票的位置。
+Because the normal word order is reversed in passive sentences, they are sometimes hard to follow.由于正常语序在被动句中被颠倒过来了，所以有时很难理解。
+They have made it clear they will not reverse the decision to increase prices.他们已经明确表示不会为了提高价格而转变这一决定。
+
+
+If you say that something is within someone's grasp, you mean that it is very likely that they will achieve it. 为某人所能及
+A grasp of something is an understanding of it. 理解
+If you grasp something that is complicated or difficult to understand, you understand it. 理解
+If you say that something is in someone's grasp, you disapprove of the fact that they possess or control it. If something slips from your grasp, you lose it or lose control of it. 掌控
+A grasp is a very firm hold or grip. 紧握
+If you grasp something, you take it in your hand and hold it very firmly. 抓牢
+grasp |英 [grɑːsp]  美 [ɡræsp]| n. 抓住；理解；控制/vt. 抓住；领会/vi. 抓/
+Peace is now within our grasp.我们现在和平在望。
+They have a good grasp of foreign languages.他们很好地掌握了各门外语。
+The government has not yet grasped the seriousness of the crisis.政府还不明白这场危机的严重性。
+She allowed victory to slip from her grasp.她听任胜利从手中溜走。
+The people in your grasp are not guests, they are hostages.在你控制之下的这些人并非宾客，而是人质。
+His hand was taken in a warm, firm grasp.他的手被热情地、紧紧地握住了。
+He grasped both my hands.他紧紧地抓住我的双手。
+
+
+If something provokes a reaction, it causes it. 引起
+If you provoke someone, you deliberately annoy them and try to make them behave aggressively. 对…挑衅
+provoke |英 [prə'vəʊk]  美 [prə'vok]| vt. 驱使；激怒；煽动；惹起/
+His election success has provoked a shocked reaction.他的竞选胜利已经引起了震惊的反应。
+He started beating me when I was about fifteen but I didn't do anything to provoke him.我大约十五岁时，他开始打我，但我并没有做什么招惹他的事情。
+
+
+The texture of something, especially food or soil, is its structure, for example, whether it is light with lots of holes, or very heavy and solid. (尤指食品、土壤等的) 结构
+The texture of something is the way that it feels when you touch it, for example, how smooth or rough it is. 手感
+texture |英 ['tekstʃə]  美 ['tɛkstʃɚ]| n. 质地；纹理；结构；本质，实质/
+Matured over 18 months, this cheese has an open, crumbly texture with a strong flavour.这种奶酪18个月后发酵成熟，气孔多，组织松脆，味道浓郁。
+It is used in moisturizers to give them a wonderfully silky texture.它被用于各种保湿霜中，使之产生丝般的美妙手感。
+
+
+When the news media and the public show a lot of interest in something, you can say that it is receiving publicity. 公众的关注
+Publicity is information or actions that are intended to attract the public's attention to someone or something. 宣传
+publicity |英 [pʌb'lɪsɪtɪ]  美 [pʌb'lɪsəti]| n. 宣传，宣扬；公开；广告；注意/
+The case has generated enormous publicity in Brazil.这起犯罪事件已在巴西引起了公众的极大关注。
+...government publicity campaigns.…政府的宣传活动。
+Much advance publicity was given to the talks.会谈之前做了大量的宣传。
+
+
+To format a piece of computer text or graphics means to arrange the way in which it appears when it is printed or is displayed on a screen. 设置 (电脑文本或图形的) 版式
+To format a computer disk means to run a program so that the disk can be written on. 将 (电脑磁盘) 格式化
+The format of a piece of computer software, a film or a musical recording is the type of equipment on which it is designed to be used or played. For example, possible formats for a film are DVD and video cassette. (计算机软件、电影、音乐录制品等的) 格式
+The format of something is the way or order in which it is arranged and presented. 程式
+format |英 ['fɔːmæt]  美 ['fɔrmæt]| n. 格式；版式；开本/vt. 使格式化；规定…的格式/vi. 设计版式/
+When text is saved from a Web page, it is often very badly formatted with many short lines.文本从网页上另存时版式通常会变乱，出现很多短行。
+...a menu that includes the choice to format a disk.…一个包括格式化磁盘选项的菜单。
+His latest album is available on all formats.他的最新专辑有各种格式可以买到。
+I had met with him to explain the format of the programme and what we had in mind.我已经同他见过面，解释了这个节目的程式和我们的想法。
+
+
+indifferently 平庸地
+If you describe something or someone as indifferent, you mean that their standard or quality is not very good, and often quite bad. 平庸的
+indifferently 漠不关心地
+If you accuse someone of being indifferent to something, you mean that they have a complete lack of interest in it. 漠不关心的
+indifferent |英 [ɪn'dɪf(ə)r(ə)nt]  美 [ɪn'dɪfrənt]| adj. 漠不关心的；无关紧要的；中性的，中立的/
+...a shoddy piece of work, poorly written, indifferently performed.…一部粗制滥造的作品，写得差劲，演得也蹩脚。
+She had starred in several very indifferent movies.她领衔主演过好几部非常平庸的电影。
+"Not that it matters," said Trujillo indifferently.“它倒不是那么重要”，特鲁希略漠然地说。
+People have become indifferent to the suffering of others.人们已经变得对别人的痛苦漠不关心。
+
+
+If something is an incentive to do something, it encourages you to do it. 鼓励
+incentive |英 [ɪn'sentɪv]  美 [ɪn'sɛntɪv]| n. 动机；刺激/adj. 激励的；刺激的/
+There is little or no incentive to adopt such measures.几乎或根本没有鼓励来采取这样的措施。
+
+
+If someone prejudices another person's situation, they do something that makes it worse than it should be. 损害
+If you prejudice someone or something, you influence them so that they are unfair in some way. 使…有偏见
+Prejudice is an unreasonable dislike of a particular group of people or things, or a preference for one group of people or things over another. 偏见
+prejudice |英 ['predʒʊdɪs]  美 ['prɛdʒədɪs]| n. 偏见；侵害/vt. 损害；使有偏见/
+Her study was not in any way intended to prejudice the future development of the college.她的研究绝对无意损害该学院的未来发展。
+The report was held back for fear of prejudicing his trial.因为担心会使他的审判带有偏见，该报告没有公开。
+I think your upbringing has prejudiced you.我认为你的教养使你抱有偏见。
+There is widespread prejudice against workers over 45.对年龄超过45岁的工人有普遍的偏见。
+There was a deep-rooted racial prejudice long before the two countries went to war.早在两国交战之前就有了根深蒂固的种族偏见。
+
+
+If you make an assumption that something is true or will happen, you accept that it is true or will happen, often without any real proof. 假设
+assumption |英 [ə'sʌm(p)ʃ(ə)n]  美 [ə'sʌmpʃən]| n. 假定；设想；担任；采取/
+You would be making an assumption that's not based on any fact that you could report.你会做出不以你能报道的任何事实为依据的一种假设。
+
+
+You use habitual to describe someone who usually or often does a particular thing. 积习难改的
+habitually 习惯性地
+A habitual action, state, or way of behaving is one that someone usually does or has, especially one that is considered to be typical or characteristic of them. 习惯性的
+habitual |英 [hə'bɪtʃʊəl; -tjʊəl]  美 [hə'bɪtʃuəl]| adj. 习惯的；惯常的；习以为常的/
+Three out of four of them would become habitual criminals if actually sent to jail.如果真的被投入监狱，他们中3/4的人会成为积习难改的罪犯。
+His mother had a patient who habitually flew into rages.她的母亲有一个习惯性地陷入狂怒的病人。
+If bad posture becomes habitual, you risk long-term effects.如果不良姿势成为习惯，你会有遭受长期影响的危险。
+
+
+Sculpture is the art of creating sculptures. 雕塑 (艺术)
+A sculpture is a work of art that is produced by carving or shaping stone, wood, clay, or other materials. 雕塑
+sculpture |英 ['skʌlptʃə]  美 ['skʌlptʃɚ]| n. 雕塑；雕刻；刻蚀/vt. 雕塑；雕刻；刻蚀/vi. 从事雕刻/
+Both studied sculpture.两人都学过雕塑。
+...stone sculptures of figures and animals.…人物及动物石雕。
+
+
+If you think that you have a responsibility to someone, you feel that it is your duty to take action that will protect their interests. 义务
+If you think that you have a responsibility to do something, you feel that you ought to do it because it is morally right to do it. 责任
+If someone is given responsibility, they are given the right or opportunity to make important decisions or to take action without having to get permission from anyone else. 职权
+Your responsibilities are the duties that you have because of your job or position. 职责
+If you accept responsibility for something that has happened, you agree that you were to blame for it or you caused it. 责任
+If you have responsibility for something or someone, or if they are your responsibility, it is your job or duty to deal with them and to make decisions relating to them. 责任
+responsibility |英 [rɪˌspɒnsəˈbɪlətɪ]  美 [rɪˌspɑːnsəˈbɪləti]| n. 责任，职责；义务/
+She had decided that as a doctor she had a responsibility to her fellow creatures.她决定作为一名医生她对同胞们负有义务。
+The court feels it has a responsibility to ensure that customers are not misled.该法院觉得其有责任确保消费者们不被误导。
+She would have loved to have a better-paying job with more responsibility.她本想有一份薪水更高职权更多的工作。
+I am told that he handled his responsibilities as a counsellor in a highly intelligent and caring fashion.我被告知，他以一种高度的智慧和富有同情心的方式对待他作为一名顾问的职责。
+No one admitted responsibility for the attacks.没有人对这些袭击负责。
+Each manager had responsibility for just under 600 properties.每位经理对差一点不到六百处房产负责。
+
+
+A manuscript is a handwritten or typed document, especially a writer's first version of a book before it is published. 手稿
+manuscript |英 ['mænjʊskrɪpt]  美 ['mænjuskrɪpt]| n. [图情] 手稿；原稿/adj. 手写的/
+He had seen a manuscript of the book.他见过这本书的一份手稿。
+
+
+Duplicate is used to describe things that have been made as an exact copy of other things, usually in order to serve the same purpose. 复制的
+Duplicate is also a noun. 复本
+To duplicate something which has been written, drawn, or recorded onto tape means to make exact copies of it. 复印; 复制
+Duplicate is also a noun. 复制; 复制品
+If you duplicate something that has already been done, you repeat or copy it. 复制
+duplicate |英 [ˈdjuːplɪkeɪt]  美 ['duplɪket]| vt. 复制；使加倍/n. 副本；复制品/adj. 复制的；二重的/vi. 复制；重复/
+He let himself in with a duplicate key.他用一把另配的钥匙打开门进去了。
+I'm on my way to Switzerland, but I've lost my card. I've got to get a duplicate.我在去瑞士的路上，但是我的卡丢了。我得弄张补发卡。
+...a business which duplicates video tapes for the film makers.…一家为电影制片人复制录像带的企业。
+The tight race is almost a duplicate of the elections in Georgia and South Dakota last month that pitted a Republican challenger against a Democratic incumbent.这次紧张的竞选几乎是上个月在佐治亚州和南达科他州选举的翻版，由一个共和党的挑战者竞争一个现任的民主党人。
+His task will be to duplicate his success overseas here at home.他的任务将是在国内复制他在海外的成功。
+
+
+An ecosystem is all the plants and animals that live in a particular area together with the complex relationship that exists between them and their environment. 生态系统
+ecosystem |英 ['iːkəʊsɪstəm]  美 ['ɛko,sɪstəm]| n. 生态系统/
+...the forest ecosystem.…森林生态系统。
+
+
+humorously 幽默地
+If someone or something is humorous, they are amusing, especially in a clever or witty way. 幽默的
+humorous |英 ['hjuːm(ə)rəs]  美 ['hjumərəs]| adj. 诙谐的，幽默的；滑稽的，可笑的/
+He looked at me humorously as he wrestled with the door.他一边用力地开门，一边表情滑稽地看着我。
+He was quite humorous, and I liked that about him.他很幽默，我喜欢他这一点。
+
+
+contamination 污染
+If something is contaminated by dirt, chemicals, or radiation, they make it dirty or harmful. 污染
+contaminate |英 [kən'tæmɪneɪt]  美 [kən'tæmɪnet]| vt. 污染，弄脏/
+The contamination of the ocean around Puget Sound may be just the beginning.普吉特海湾周围海域的污染可能才开始。
+Have any fish been contaminated in the Arctic Ocean?北冰洋里有鱼受到污染了吗?
+
+
+If something such as a satellite orbits a planet, moon, or sun, it moves around it in a continuous, curving path. 环绕…的轨道运行
+An orbit is the curved path in space that is followed by an object going around and around a planet, moon, or star. (天体运行的) 轨道
+orbit |英 ['ɔːbɪt]  美 ['ɔrbɪt]| n. 轨道；眼眶；势力范围；生活常规/vi. 盘旋；绕轨道运行/vt. 绕…轨道而行/
+In 1957 the Soviet Union launched the first satellite to orbit the earth.1957年，苏联发射了第一颗环绕地球运行的人造卫星。
+Mars and Earth have orbits which change with time.火星和地球的轨道随着时间而发生改变。
+
+
+If something evolves or you evolve it, it gradually develops over a period of time into something different and usually more advanced. 使…逐步发展; 逐步发展
+When animals or plants evolve, they gradually change and develop into different forms. 进化
+evolve |英 [ɪ'vɒlv]  美 [ɪ'vɑlv]| vt. 发展，进化；进化；使逐步形成；推断出/vi. 发展，进展；进化；逐步形成/
+Popular music evolved from folk songs.流行音乐由民歌演变而来。
+...a tiny airline which eventually evolved into Pakistan International Airlines.…最终发展成为巴基斯坦国际航空公司的一家小型航空公司。
+Birds are widely believed to have evolved from dinosaurs.鸟类普遍被认为是从恐龙进化而来的。
+The bright plumage of many male birds was thought to have evolved to attract females.许多雄鸟的鲜艳羽毛被认为是为吸引雌鸟而进化来的。
+
+
+If prices or amounts skyrocket, they suddenly increase by a very large amount. 剧增; 猛涨
+skyrocket |英 ['skaɪrɒkɪt]  美 ['skaɪ'rɑkɪt]| n. 流星烟火；冲天火箭/vi. 飞涨，突然高升/vt. 使…猛然上涨/
+...the skyrocketing costs of health care....该暴涨的医疗费用。
+Production has dropped while prices and unemployment have skyrocketed.在物价和失业人数猛增的同时，生产却下降了。
+

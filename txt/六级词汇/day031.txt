@@ -1,0 +1,358 @@
+magnify					vt.放大(使更明显)，扩大
+utilization				n.利用
+twist							vt.转动，缠绕，弯曲，vi.打结，n.旋转(动作)，缠绕，<比喻>转折
+expedition					n.远征，短途出行(非正式)
+switch					n.开关，转变，调换vt.改变，调换vi.改变，调换
+inheritance				n.继承物，继承，遗传
+sponsor					n.赞助者vt.资助，倡议
+deterioration				n.恶化
+ongoing					adj.持续的，发展中的
+refreshing						adj.提神的
+incidentally				adv.附带的，偶然
+imprison					vt.关押
+present					adj.在场的，当前的n.现在n.礼物vt.颁发，提交，呈现，描述
+uninformed					adj.无知的
+overlap					vi.部分重叠，相同之处vt.部分重叠n.部分重叠，相同之处
+slim								adj.纤细的，些许的vi.减肥
+urban						adj.城市的
+rank						n.地位，等级，排vt.等级，排vi.排adj.绝对的，疯长的
+untrustworthy				adj.不可信赖的
+automatically				adv.自动的，不假思索的，必然的
+accountable				adj.应作解释的，负有责任的
+collaborative				adj.合作的
+practice					n.实践，练习，常规，习惯
+diligence					n.勤奋
+victim					n.受害者
+urge						n.欲望vt.力劝，驱赶
+fertility					n.生育能力，丰富性
+foundation					n.创建，地基，基础，根据
+reception						n.欢迎，接待，接待处，招待会
+elite						n.精英adj.高层次的
+\\\\
+
+If you magnify something, you make it seem more important or serious than it really is. 夸大
+To magnify something means to increase its effect, size, loudness, or intensity. 增大
+To magnify an object means to make it appear larger than it really is, by means of a special lens or mirror. 放大
+magnify |英 ['mægnɪfaɪ]  美 ['mæɡnɪfaɪ]| vt. 放大；赞美；夸大/vi. 放大；有放大能力/
+They do not grasp the broad situation and spend their time magnifying ridiculous details.他们没有把握大局而把时间花费在夸大荒谬的细节上。
+Poverty and human folly magnify natural disasters.贫穷和人类的愚蠢加剧自然灾难。
+A lens would magnify the picture so it would be like looking at a large TV screen.透镜会把图像放大，这样就会像看大电视屏幕。
+This version of the Digges telescope magnifies images 11 times.这种型号的迪格斯望远镜能将图像放大11倍。
+
+
+ To get the time the contributor needs, we should consider the utilization rate of the contributor.  为了得到操作者所需要的时间，我们应该考虑操作者的使用频率。
+ For someone to realize the value of information, you need to organize data to permit rapid discovery and utilization.  要使某人实现信息的价值，您需要相应地组织数据以允许快速的发现和利用。
+ By looking at the individual process utilization within a DPAR, we can see what impact these tasks have on our data.  通过查看 DPAR 中个别进程使用情况，我们可以看到这些任务对我们的数据产生什么影响。
+utilization |英 [,juːtɪlaɪ'zeɪʃən]  美 [ˌjuːtəlaɪ'zeɪʃn]| n. 利用，使用/
+
+
+
+If you say that someone has twisted something that you have said, you disapprove of them because they have repeated it in a way that changes its meaning, in order to harm you or benefit themselves. 歪曲
+Twist is also a noun. (道路或河流的) 迂回曲折
+If a road or river twists, it has a lot of sudden changes of direction in it. (道路或河流) 迂回曲折
+Twist is also a noun. 旋转
+If you twist something, you turn it so that it moves around in a circular direction. 旋转
+If you twist a part of your body such as your ankle or wrist, you injure it by turning it too sharply, or in an unusual direction. 扭伤 (脚踝或手腕等)
+If you twist part of your body such as your head or your shoulders, you turn that part while keeping the rest of your body still. 转动 (身体某部分)
+If you twist something, especially a part of your body, or if it twists, it moves into an unusual, uncomfortable, or bent position, for example, because of being hit or pushed, or because you are upset. 扭弯; 扭曲
+If you twist something, you turn it to make a spiral shape, for example, by turning the two ends of it in opposite directions. 扭曲; 拧
+twist |英 [twɪst]  美 [twɪst]| vt. 捻；拧；扭伤；编织；使苦恼/n. 扭曲；拧；扭伤/vi. 扭动；弯曲/n. (Twist)人名；(英)特威斯特/
+The battle of the sexes also took a new twist.性别之战也有了意想不到的新进展。
+It's a shame the way the media can twist your words and misrepresent you.媒体歪曲人们的话语及误传人们的本意的作风是可耻的。
+It allows the train to maintain a constant speed through the twists and turns of existing track.它可以让火车在现有蜿蜒盘旋的轨道上保持匀速。
+The roads twist around hairpin bends.那些道路有很多险弯。
+Just a twist of the handle is all it takes to wring out the mop.只需旋转一下那个手柄就可以拧干拖把。
+She was staring down at her hands, twisting the ring on her finger.她往下盯着自己的手，旋转着手指上的戒指。
+He fell and twisted his ankle.他摔了一跤，扭伤了脚踝。
+Susan twisted round in her seat until she could see Graham behind her.苏珊在她的座位上转过身去，直到她能看见她身后的格雷厄姆。
+She twisted her head sideways and looked toward the door.她把头转向一边，朝门口看去。
+Sophia's face twisted in perplexity.索菲娅的脸因困惑而扭曲着。
+He twisted her arms behind her back and clipped a pair of handcuffs on her wrists.他把她的双臂扭到她的背后，把一副手铐扣在她的手腕上。
+Her hands began to twist the handles of the bag she carried.她的双手开始拧她拎着的那个包的拎柄。
+
+
+An expedition is a short trip that you make for pleasure. 短程旅行
+You can refer to a group of people who are going on an expedition as an expedition. (以探险等为目的的) 旅行队
+An expedition is an organized trip made for a particular purpose such as exploration. (以探险等为目的的) 有组织的旅行
+expedition |英 [ekspɪ'dɪʃ(ə)n]  美 [,ɛkspə'dɪʃən]| n. 远征；探险队；迅速/
+...Officer Goss was on a fishing expedition.…戈斯军官正在进行一次垂钓之旅。
+Forty-three members of the expedition were killed.探险队中43名成员丧生。
+...Byrd's 1928 expedition to Antarctica.…伯德1982年到南极洲的探险之旅。
+
+
+If you switch two things, you replace one with the other. 调换
+If you switch your attention from one thing to another or if your attention switches, you stop paying attention to the first thing and start paying attention to the second. 转移 (注意力)
+Switch over means the same as . 转变
+Switch is also a noun. 转变
+If you switch to something different, for example to a different system, task, or subject of conversation, you change to it from what you were doing or saying before. 转向
+A switch is a small control for an electrical device which you use to turn the device on or off. 开关
+switch |英 [swɪtʃ]  美 [swɪtʃ]| vt. 转换；用鞭子等抽打/vi. 转换；抽打；换防/n. 开关；转换；鞭子/
+In half an hour, they'd switched the tags on every cable.半个小时内，他们换了每根电缆的标签。
+My mother's interest had switched to my health.我母亲的兴趣已转移到我的健康上来了。
+Within a few years the whole country will switch over to digital television.几年内全国将会换上数字电视。
+The spokesman implicitly condemned the United States policy switch.这位发言人含蓄地谴责了美国政策上的转变。
+The law would encourage companies to switch from coal to cleaner fuels.法律会鼓励各公司从用煤转向使用更清洁的燃料。
+Estonia is switching to a market economy.爱沙尼亚正在向市场经济转变。
+Leona put some detergent into the dishwasher, shut the door, and pressed the switch.利昂娜在洗碗机里放了些清洁剂，关上门，然后按下开关。
+
+
+Your inheritance is the particular characteristics or qualities that your family or ancestors had and that you are born with. 遗传特征
+If you get something such as a job, problem, or attitude from someone who used to have it, you can refer to this as an inheritance. 转接物; 沿袭物
+An inheritance is money or property that you receive from someone who has died. 继承物; 遗产
+inheritance |英 [ɪn'herɪt(ə)ns]  美 [ɪn'hɛrɪtəns]| n. 继承；遗传；遗产/
+Eye colour shows more than your genetic inheritance.眼睛的颜色显示的不只是你基因的遗传特征。
+...starvation and disease over much of Europe and Asia, which was Truman's inheritance as president.…在欧亚大部分地区肆虐的饥馑和疾病，这是杜鲁门接任总统时面临的状况。
+She feared losing her inheritance to her stepmother.她担心她的遗产会落到继母的手里。
+
+
+A sponsor is a person or organization that sponsors something or someone. 赞助人; 赞助机构; 倡议人
+If a company or organization sponsors a television programme, they pay to have a special advertisement shown at the beginning and end of the programme, and at each commercial break. 赞助 (电视节目)
+If one country accuses another of sponsoring attacks on it, they mean that the other country does not do anything to prevent the attacks, and may even encourage them. 纵容
+When a country or an organization such as the United Nations sponsors negotiations between countries, it suggests holding the negotiations and organizes them. 提议并组织 (商谈)
+If you sponsor a proposal or suggestion, you officially put it forward and support it. 倡议
+If you sponsor someone who is doing something to raise money for charity, for example trying to walk a certain distance, you agree to give them a sum of money for the charity if they succeed in doing it. 赞助 (为慈善事业募集资金者)
+If an organization or an individual sponsors something such as an event or someone's training, they pay some or all of the expenses connected with it, often in order to get publicity for themselves. 赞助 (某事、某人的培训等)
+sponsor |英 ['spɒnsə]  美 ['spɑnsɚ]| n. 赞助者；主办者；保证人/vt. 赞助；发起/
+Race officials announced a handful of new sponsors on Tuesday.比赛官员们星期二公布了几位新赞助人。
+The company plans to sponsor television programmes as part of its marketing strategy.公司计划赞助电视节目，以此作为营销策略之一。
+We have to make the states that sponsor terrorism pay a price.我们得让那些纵容恐怖主义的国家付出代价。
+Given the strength of pressure on both sides, the superpowers may well have difficulties sponsoring negotiations.鉴于双方的强大压力，超级大国可能很难组织谈判。
+Eight senators sponsored legislation to stop the military funding.八位参议员倡议立法停拨军费。
+Please could you sponsor me for my school's campaign for Help the Aged?请问你们能赞助我开展我校的“帮助老年人”活动吗？
+Dozens of companies, including Hewlett-Packard, are sponsoring the event.包括惠普在内的许多公司都在赞助这项赛事。
+
+
+ A reading over 50 indicates an expansion of activity in the manufacturing sector, while one below 50 suggests a deterioration.  这一指数高于50表明制造业处于扩张状态，低于50时则反映制造业状况在恶化。
+deterioration |英 [dɪ,tɪərɪə'reɪʃn]  美 [dɪ,tɪrɪə'reʃən]| n. 恶化；退化；堕落/
+
+
+
+An ongoing situation has been happening for quite a long time and seems likely to continue for some time in the future. 进行中的; 继续存在的
+ongoing |英 ['ɒngəʊɪŋ]  美 ['ɑnɡoɪŋ]| adj. 不间断的，进行的；前进的/n. 前进；行为，举止/
+There is an ongoing debate on the issue.关于这个问题争论还在继续。
+
+
+A refreshing bath or drink makes you feel energetic or cool again after you have been tired or hot. 使人感到清爽的; 使人精神恢复的
+refreshingly 使人耳目一新地
+You say that something is refreshing when it is pleasantly different from what you are used to. 使人耳目一新的
+refreshing |英 [rɪ'freʃɪŋ]  美 [ri'frɛʃɪŋ]| adj. 提神的；使清爽的；使人重新振作的/v. 使清新；恢复精神（refresh的ing形式）/
+Herbs have been used for centuries to make refreshing drinks.草药用于调制清凉饮料已有几百年的历史了。
+He was refreshingly honest.他诚实得让人耳目一新。
+It's refreshing to hear somebody speaking common sense.听到有人说出大家本应知道的道理，让人耳目一新。
+
+
+If something occurs only incidentally, it is less important than another thing or is not a major part of it. 附带地
+You use incidentally to introduce a point that is not directly relevant to what you are saying, often a question or extra information that you have just thought of. 顺便说及地
+incidentally |英 [ɪnsɪ'dent(ə)lɪ]  美 [,ɪnsɪ'dɛntli]| adv. 顺便；偶然地；附带地/
+The letter mentioned my great aunt and uncle only incidentally.信里只是附带地提到我的叔祖母和叔祖父。
+"I didn't ask you to come. Incidentally, why have you come?"“我没有叫你来。顺便问一下，你为什么来呢？”
+
+
+If someone is imprisoned, they are locked up or kept somewhere, usually in prison, as a punishment for a crime or for political opposition. 监禁
+imprison |英 [ɪm'prɪz(ə)n]  美 [ɪm'prɪzn]| vt. 监禁；关押；使…下狱/
+He was imprisoned for 18 months on charges of theft.他因盗窃指控而被监禁了18个月。
+
+
+If you present someone with something such as a prize or document, or if you present it to them, you formally give it to them. 颁发
+A present is something that you give to someone, for example, at Christmas or when you visit them. 礼物
+If something, especially a substance or disease, is present in something else, it exists within that thing. 存在的
+If someone is present at an event, they are there. 在场的
+Something that exists or will be done for the present exists now or will continue for a while, although the situation may change later. 暂时
+The present day is the period of history that we are in now. 现代
+A situation that exists at present exists now, although it may change. 目前
+The present is the period of time that we are in now and the things that are happening now. 现在
+You use present to describe things and people that exist now, rather than those that existed in the past or those that may exist in the future. 目前的
+present |英 [prɪˈzent;(for n.)ˈpreznt]  美 [prɪˈzɛnt;(for n.)ˈprɛznt]| vt. 提出；介绍；呈现；赠送/vi. 举枪瞄准/adj. 现在的；出席的/n. 现在；礼物；瞄准/
+Fox stepped forward, welcomed him in Malay, and presented him to Jack.福克斯向前跨了一步，用马来语对他表示了欢迎，接着把他正式介绍给了杰克。
+They threatened to close any theatre presenting a play with gay characters.他们威胁要关闭任何上演有同性恋角色戏剧的剧院。
+She also presents a show on St Petersburg Radio.她还在圣彼得斯堡电台主持一个节目。
+Get word to him right away that he's to present himself at City Hall by tomorrow afternoon.立即通知他，他得于明天下午之前到市政厅来。
+Cohen was making an effort to present a kinder, gentler image.科恩在努力表现出一副更和善、更温柔的形象。
+The small group of onlookers presented a pathetic sight.那一小撮旁观者表现出一副可怜的样子。
+...all those tricks which would help him to present himself in a more confident way in public.…所有那些可以帮助他在公共场合更自信地展示自己的窍门。
+The government has presented these changes as major reforms.政府将这些变化描述成重大改革。
+...a fair presentation of the facts to a jury.…向陪审团对事实的公正的陈述。
+...in his first presentation of the theory to the Berlin Academy.…在他第一次向柏林科学院陈述该理论时。
+We presented three options to the unions for discussion.我们向工会提出了3种选择以供讨论。
+We spend the time collating and presenting the information in a variety of chart forms.我们把时间花在以各种图表形式比照和展示信息上。
+Their colleagues insulted them whenever the opportunity presented itself.他们的同事们一有机会就侮辱他们。
+The future is going to be one that presents many challenges.未来将会带来许多挑战。
+This presents a problem for many financial consumers.这给许多金融消费者带来了麻烦。
+Then came the presentation of the awards by the First Lady.接下来是第一夫人的颁奖。
+Betty will present the prizes to the winners.贝蒂将给获胜者颁奖。
+The mayor presented him with a gold medal at an official city reception.市长在一次正式的市招待会上给他颁发了一枚金质奖章。
+She bought a birthday present for her mother.她为她母亲买了一件生日礼物。
+The carpet was a wedding present from Jack's parents.地毯是杰克的父母送的结婚礼物。
+This special form of vitamin D is naturally present in breast milk.这种特殊形式的维生素D天然存在于母乳中。
+Nearly 85 percent of men are present at the birth of their children.将近85%的男性在他们的孩子出生时在场。
+The president was not present at the meeting.总统没有出席该会议。
+The cabinet had expressed the view that sanctions should remain in place for the present.内阁曾表示说制裁会暂时保留。
+...Western European art from the period of Giotto to the present day.…从乔托时代到现代的西欧艺术。
+There is no way at present of predicting which individuals will develop the disease.目前还没有办法预言哪些人会患这种病。
+...continuing right up to the present.…一直持续到现在。
+...his struggle to reconcile the past with the present.…他将过去和现在调和的斗争。
+...the government's present economic difficulties.…政府目前的经济困难。
+He has brought much of the present crisis on himself.他目前的危机大多是他自己造成的。
+
+
+If you describe someone as uninformed, you mean that they have very little knowledge or information about a particular situation or subject. 不知情的
+uninformed |英 [ʌnɪn'fɔːmd]  美 [,ʌnɪn'fɔrmd]| adj. 无知的；未被通知的；未受教育的；不学无术的/
+He could not complain that he was uninformed about the true nature of the regime.他不能抱怨他对这个政体的真实性质不知情。
+
+
+Overlap is also a noun. 重合
+If one idea or activity overlaps another, or overlaps with another, they involve some of the same subjects, people, or periods of time. 与…重合
+If one thing overlaps another, or if you overlap them, a part of the first thing occupies the same area as a part of the other thing. You can also say that two things overlap. 重叠
+overlap |英 [əʊvə'læp]  美 ['ovəlæp]| n. 重叠；重复/vi. 部分重叠；部分的同时发生/vt. 与…重叠；与…同时发生/
+...the overlap between civil and military technology.…民用技术与军用技术之间的重合。
+The needs of patients invariably overlap.患者们的各种需求总是相互重合的。
+Christian Holy Week overlaps with the beginning of the Jewish holiday of Passover.基督教的圣周与犹太教逾越节的开始时间是重合的。
+Overlap the slices carefully so there are no gaps.把薄片小心地叠放在一起，那样就没有间隙。
+When the bag is folded, the bottom overlaps one side.把包折叠起来时，其底部与一边就重合了。
+
+
+If an organization slims its products or workers, it reduces the number of them that it has. 缩减
+A slim chance or possibility is a very small one. (机会或可能性) 微小的
+A slim book, wallet, or other object is thinner than usual. 薄的
+A slim person has an attractively thin and well-shaped body. 苗条的; 纤细的
+slim |英 [slɪm]  美 [slɪm]| adj. 苗条的；修长的；微小的；差的/vt. 使…体重减轻；使…苗条/vi. 减轻体重；变细/n. (Slim)人名；(阿拉伯)萨利姆；(英、西)斯利姆/
+The company recently slimmed its product line.该公司最近缩减了生产线。
+There's still a slim chance that he may become president.仍然有微小的可能他会当上总统。
+The slim booklets describe a range of services and facilities.那些薄薄的小册子描述了一系列服务和设施。
+The young woman was tall and slim.那个年轻女子个子高挑，身材苗条。
+
+
+Urban means belonging to, or relating to, a city or town. 城市的
+urban |英 ['ɜːb(ə)n]  美 ['ɝbən]| adj. 城市的；住在都市的/n. (Urban)人名；(西)乌尔万；(斯洛伐)乌尔班；(德、俄、罗、匈、塞、波、捷、瑞典、意)乌尔班；(英)厄本；(法)于尔邦/
+Most urban areas are close to a park.大多数城区都靠近公园。
+For a small state it has a large urban population.作为一个小州，其城市人口算是很多了。
+
+
+showing vigorous and profuse growth 繁茂的
+A taxi rank is a place on a city street where taxis park when they are available. 计程车停车处
+A rank of people or things is a row of them. 排
+The ranks are the ordinary members of an organization, especially of the armed forces. 普通成员 (尤指军队的普通士兵)
+The ranks of a group or organization are the people who belong to it. 成员
+If you say that someone or something ranks high or low on a scale, you are saying how good or important you think they are. 给…排等级; 位列
+If an official organization ranks someone or something 1st, 5th, or 50th, for example, they calculate that the person or thing has that position on a scale. You can also say that someone or something ranks 1st, 5th, or 50th, for example. 给…排名; 名列
+Someone's rank is the social class, especially the high social class, that they belong to. (尤指较高的) 社会地位
+Someone's rank is the position or grade that they have in an organization. 职位; 级别
+rank |英 [ræŋk]  美 [ræŋk]| n. 排；等级；军衔；队列/adj. 讨厌的；恶臭的；繁茂的/vt. 排列；把…分等/vi. 列为；列队/n. (Rank)人名；(英、德、芬、捷)兰克/
+Institutions tend to close ranks when a member has been accused of misconduct.各个机构在其某一成员被指控行为不当时都会同心合力。
+Britain appears unlikely to break ranks with other members of the European Union.英国似乎不会背弃欧盟其他成员国。
+a rank outsider
+rank weeds
+Luckily there was a taxi rank nearby.幸好附近有个出租车候客处。
+Ranks of police in riot gear stood nervously by.一排排配有防暴设备的警察紧张地站在一边。
+Most shop managers have worked their way up through the ranks.大部分的商店经理都是从普通员工干上来的。
+There were some misgivings within the ranks of the media too.媒体内部成员也有一些担忧。
+St. Petersburg's night life ranks as more exciting than the capital's.圣彼得堡的夜生活比首都的更令人激动。
+Investors ranked South Korea high among Asian nations.投资者在亚洲国家中更看重韩国。
+His prices rank high among those of other contemporary photographers.他的要价与其他同时代的摄影师相比居高。
+...the only Canadian woman to be ranked in the top 50 of the women's world rankings.…进入世界妇女排行榜前50名的惟一的加拿大妇女。
+The report ranks the U.S. 20th out of 22 advanced nations.这份报告把美国排在22个发达国家的第20位。
+He must be treated as a hostage of high rank, not as a common prisoner.他一定要作为一个高级人质而不是一般囚徒来对待。
+He eventually rose to the rank of captain.他最终升到了船长的职位。
+
+
+If you say that someone is untrustworthy, you think they are unreliable and cannot be trusted. 不值得信赖的
+untrustworthy |英 [ʌn'trʌs(t)wɜːðɪ]  美 [ʌn'trʌstwɝði]| adj. 靠不住的；不能信赖的/
+I think he is shallow, vain and untrustworthy.我觉得他肤浅、虚荣，并不值得信赖。
+
+
+ A pawn automatically promotes when it reaches the eighth rank.  卒子在到达第八横格时自动升级。
+ This kind of videotape rewinds automatically.  这种录像带能自动倒回。
+ The machine is automatically controlled.  这机器是自动控制的。
+automatically |英 [ɔːtə'mætɪklɪ]  | adv. 自动地；机械地；无意识地/adj. 不经思索的/
+
+
+
+accountability 责任心
+If you are accountable to someone for something that you do, you are responsible for it and must be prepared to justify your actions to that person. 负有责任的
+accountable |英 [ə'kaʊntəb(ə)l]  美 [ə'kaʊntəbl]| adj. 有责任的；有解释义务的；可解释的/
+...a drive toward democracy and greater accountability.…一场促进民主和增强责任心的运动。
+Public officials can finally be held accountable for their actions.政府官员最终是要对他们的行为负责任的。
+
+
+A collaborative piece of work is done by two or more people or groups working together. 合作的
+collaborative || adj. 合作的，协作的/
+...a collaborative research project.…一个合作研究项目。
+
+
+A doctor's or lawyer's practice is his or her business, often shared with other doctors or lawyers. 医生的诊所; 律师的事务所
+The work done by doctors and lawyers is referred to as the practice of medicine and law. People's religious activities are referred to as the practice of a religion. (医疗或法律的) 业务; (宗教) 活动
+Practice means doing something regularly in order to be able to do it better. A practice is one of these periods of doing something. 练习
+You can refer to something that people do regularly as a practice. 做法
+practice |英 ['præktɪs]  美 ['præktɪs]| n. 实践；练习；惯例/vi. 练习；实习；实行/vt. 练习；实习；实行/
+The new doctor's practice was miles away from where I lived.那位新医生的诊所离我的住处有数英里远。
+I eventually realized I had to change my attitude towards medical practice.我终于认识到我得改变我对医务工作的态度。
+...maintaining or improving his skills in the practice of internal medicine.…保持或提高他在内科医疗业务方面的技能。
+...the hard practice necessary to develop from a learner to an accomplished musician.…从初学者成长为有造诣的音乐家所必需的艰苦练习。
+She was taking all three of her daughters to basketball practice every day.她那时每天带她的3个女儿去进行篮球训练。
+Some firms have reached agreements to cut workers' pay below the level set in their contract, a practice that is illegal in Germany.有些公司已达成一致意见将工人的工资削减到低于合同中规定的水平，这种做法在德国是违法的。
+
+
+ None of them carried out the due diligence that might have indicated the money was disappearing into a black hole.  但是这些银行都没有那份应有的勤奋和谨慎，没能发现他们的资金正在消失在一个黑洞里。
+ Using the basal body temperature method for birth control requires motivation and diligence.  为了控制生育使用基础体温法，需要足够的动力和勤勉。
+ Honesty and diligence should be your eternal mates.  诚实与勤勉应该成为你永久的伴侣。
+diligence |英 ['dɪlɪdʒ(ə)ns]  美 ['dɪlɪdʒəns]| n. 勤奋，勤勉；注意的程度/
+
+
+
+A victim is someone who has suffered as a result of someone else's actions or beliefs, or as a result of unpleasant circumstances. 牺牲品
+A victim is someone who has been hurt or killed. 受害者
+victim |英 ['vɪktɪm]  美 ['vɪktɪm]| n. 受害人；牺牲品；牺牲者/
+He described himself and Altman as victims rather than participants in the scandal.他把自己和奥尔特曼描述成这一丑闻的受害者，而不是参与者。
+He was a victim of racial prejudice.他是种族偏见的一个牺牲品。
+Statistically our chances of being the victims of violent crime are remote.从统计上来看，我们成为暴力犯罪受害者的可能性是微乎其微的。
+
+
+If you have an urge to do or have something, you have a strong wish to do or have it. 强烈欲望
+If you urge a course of action, you strongly advise that it should be taken. 竭力主张
+If you urge someone somewhere, you make them go there by touching them or talking to them. 鼓动 (某人去某地)
+If you urge someone to do something, you try hard to persuade them to do it. 敦促 (某人做某事)
+urge |英 ['ɜːdʒ]  美 [ɝdʒ]| vt. 力劝，催促；驱策，推进/n. 强烈的欲望，迫切要求；推动力/vi. 强烈要求/
+He had an urge to open a shop of his own.他很想开一家自己的商店。
+He urged restraint on the security forces.他竭力主张限制安全部队。
+He slipped his arm around her waist and urged her away from the window.他悄悄用一只手臂揽住她的腰，劝她离开了窗口。
+They urged Congress to approve plans for their reform programme.他们敦促国会批准他们有关改革项目的计划。
+
+
+ They also save on diesel fuel for tractors, and the fertility and structure of the soil improves.  他们还能节省拖拉机用油，并使得土地的生产力状况及结构得到改善。
+ That is true, he said, whether the goal is restoring fertility to African soil or building a system to warn of tsunamis.  他说，事实就是如此，不论我们的目的是恢复非洲土地的肥沃还是建立一个海啸预警系统。
+ It symbolizes growth, harmony, freshness, and fertility.  它是生长、和谐、新鲜和丰饶的象征。
+fertility |英 [fə'tɪlɪtɪ; fɜː'tɪlɪtɪ]  美 [fɚ'tɪləti]| n. 多产；肥沃；[农经] 生产力；丰饶/
+
+
+
+Foundation is a skin-coloured cream that you put on your face before putting on the rest of your makeup. 粉底霜
+If a story, idea, or argument has no foundation, there are no facts to prove that it is true. 根据
+A foundation is an organization which provides money for a special purpose such as research or charity. 基金会
+Thefoundationof something such as a belief or way of life is the things on which it is based. 基础
+foundation |英 [faʊn'deɪʃ(ə)n]  美 [faʊn'deʃən]| n. 基础；地基；基金会；根据；创立/
+Use foundation and/or face powder afterwards for an even skin tone.随后使用粉底霜和（或）粉饼以使皮肤色调均匀。
+The allegations were without foundation.这些指控没有根据。
+...the National Foundation for Educational Research.…全国教育研究基金会。
+The issue strikes at the very foundation of our community.这个问题严重影响到我们社会的基础。
+Best friends are the foundation of my life.良友们是我生活的基础。
+
+
+If you get good reception from your radio or television, the sound or picture is clear because the signal is strong. If the reception is poor, the sound or picture is unclear because the signal is weak. (收音机或电视机的) 接收效果
+If someone or something has a particular kind of reception, that is the way that people react to them. 接待
+Reception in an office or hospital is the place where people's appointments and questions are dealt with. (办公室或医院的) 服务台
+Reception in a hotel is the desk or office that books rooms for people and answers their questions. (酒店) 接待处; 服务台
+A reception is a formal party which is given to welcome someone or to celebrate a special event. 招待会
+reception |英 [rɪ'sepʃ(ə)n]  美 [rɪ'sɛpʃən]| n. 接待；接收；招待会；感受；反应/
+...poor radio reception.…糟糕的广播接收效果。
+Mr. Mandela was given a warm reception in Washington.曼德拉先生在华盛顿受到了热情接待。
+Wait at reception for me.在服务台等我。
+Have him bring a car around to reception.让他开辆车到接待处附近来。
+At the reception they served smoked salmon.在招待会上，他们端上了熏三文鱼。
+
+
+Elite people or organizations are considered to be the best of their kind. 精英的
+You can refer to the most powerful, rich, or talented people within a particular group, place, or society as the elite. 精英
+elite |英 [[eɪˈliːt]]  美 [ɪˈliːt]| n. 精英；精华；中坚分子/
+...the elite troops of the president's bodyguard.…总统卫队中的精英部队。
+...a government comprised mainly of the elite.…主要由精英组成的政府。
+

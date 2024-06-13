@@ -1,0 +1,353 @@
+foster					vt.培养，抱有，养育
+exaggerate							vt.夸大vi.夸大
+gracious				adj.亲切的，优裕的
+familiar							adj.熟悉的，常遇到的
+physiological			adj.生理的
+warehouse					n.仓库vt.仓库
+solitary				adj.独自的，孤单的n.独自的(人)
+complication			n.难题(困难)，并发症，错综复杂
+redeem			vt.赎回，兑换，弥补，履行
+redeem oneself		补救
+turnover			n.营业额
+sanction			n.准许，处罚vt.准许
+motivate						vt.促动
+thorn				n.刺，荆棘
+involve						vt.需要，影响，使参与，吸引
+architect						n.设计师
+particle						n.颗粒
+accord			n.一致，协议vt.给予vi.一致
+accord with		与某事物相符
+pay					vi.付费，盈利，有利vt.付费，有利n.薪金
+pharmaceutical		adj.药物的，制药的n.药物
+insult						n.辱骂，侮辱vt.辱骂，侮辱
+tug				vt.拉，拽vi.拉n.拉
+constituent		n.成分adj.组成的
+piecemeal			adj.零碎的adv.一点一点的
+decimal			n.小数adj.小数的
+starch			n.淀粉
+invincible			adj.不可战胜的，不动摇的
+anchor						n.锚，精神支柱vi.锚vt.锚
+avail							n.收益
+isolate				vt.使脱离，隔离，使...孤立
+limp				adj.无力的，无精神的vt.跛行n.跛行
+\\\\\\\\
+
+To foster something such as an activity or idea means to help it to develop. 促进
+If you foster a child, you take it into your family for a period of time, without becoming its legal parent. 收养
+Foster parents are people who officially take a child into their family for a period of time, without becoming the child's legal parents. The child is referred to as their foster child. 收养的
+foster |英 ['fɒstə]  美 ['fɔstɚ]| vt. 培养；养育，抚育；抱（希望等）/adj. 收养的，养育的/n. (Foster)人名；(英、捷、意、葡、法、德、俄、西)福斯特/
+He said that developed countries had a responsibility to foster global economic growth to help new democracies.他说发达国家有一种促进全球经济增长以帮助新兴民主国家的责任。
+She has since gone on to find happiness by fostering more than 100 children.她此后又通过收养一百多个孩子找到了快乐。
+Little Jack was placed with foster parents.小杰克被安置在养父母家。
+
+
+If something exaggerates a situation, quality, or feature, it makes the situation, quality, or feature appear greater, more obvious, or more important than it really is. 夸大
+exaggeration 夸大
+If you exaggerate, you indicate that something is, for example, worse or more important than it really is. 夸大
+exaggerate |英 [ɪg'zædʒəreɪt; eg-]  美 [ɪɡ'zædʒəret]| vt. 使扩大；使增大/vi. 夸大；夸张/
+These figures exaggerate the loss of competitiveness.这些数字夸大了竞争力的下降。
+Like many stories about him, it smacks of exaggeration.像很多有关他的故事一样，这个也有点儿夸大的意味。
+He thinks I'm exaggerating.他认为我在夸大其词。
+
+
+Some people say good gracious or goodness gracious in order to express surprise or annoyance. 天哪 (表示惊讶、不满等)
+You use gracious to describe the comfortable way of life of wealthy people. (生活) 舒适的
+graciously 有礼貌地
+If you describe the behaviour of someone in a position of authority or high social standing as gracious, you mean that they behave in a polite and considerate way. 有礼貌的
+If you describe someone as gracious, you mean that they are very well-mannered and pleasant. 和蔼可亲的
+gracious |英 ['greɪʃəs]  美 ['ɡreʃəs]| adj. 亲切的；高尚的；和蔼的；雅致的/int. 天哪；哎呀/
+Good gracious, look at that specimen, will you?天哪，你看看那个家伙，好吗？
+He drove through the gracious suburbs with the swimming pools and tennis courts.他开车穿过了建有游泳池和网球场的舒适的城郊。
+Hospitality at the presidential guest house was graciously declined.总统套房里的款待被婉言谢绝了。
+She closed with a gracious speech of thanks.她以彬彬有礼的致谢辞作结。
+She is a lovely and gracious woman.她是个可爱而和蔼的女人。
+
+
+familiarity 随便
+If someone you do not know well behaves in a familiar way toward you, they treat you very informally in a way that you might find offensive. 随便的
+familiarity 熟悉
+If you are familiar with something, you know or understand it well. 对…是熟悉的
+familiarity 熟悉
+If someone or something is familiar to you, you recognize them or know them well. 熟悉的
+familiar |英 [fə'mɪlɪə]  美 [fə'mɪljɚ]| adj. 熟悉的；常见的；亲近的/n. 常客；密友/n. (Familiar)人名；(西)法米利亚尔/
+She needed to control her surprise at the easy familiarity with which her host greeted the head waiter.她需要在看到主人对领班打招呼的亲热随便时控制自己的惊讶。
+It isn't appropriate for an officer to be overly familiar with an enlisted man.军官对入伍士兵过分随便是不合适的。
+The enemy would always have the advantage of familiarity with the rugged terrain.敌人会一直在对崎岖地形的熟悉上占有优势。
+Most people are familiar with this figure from Wagner's opera.多数人对瓦格纳歌剧中的这个人物是熟悉的。
+Tony was unnerved by the uncanny familiarity of her face.托尼被她不寻常的熟悉面孔弄得心烦意乱。
+They are already familiar faces on our TV screens.他们已经是我们电视屏幕上熟悉的面孔了。
+He talked of other cultures as if they were more familiar to him than his own.他谈起其他文化就像它们对于他比他自己的文化还熟悉。
+
+
+ Their study clearly illustrates the importance of how you interpret your physiological states, which themselves form an important component of your emotions.  他们的研究明确地阐述了你如何干预你的生理情况，这些源自你情绪中的一个重要部分。
+ Almost anything that we like to do - eat, shop, gamble, have sex - contain the potential for psychological and physiological dependence.  我们喜欢做的几乎任何事——吃饭，购物，赌博，性爱——都可能引起心理和生理的依赖。
+ Wienecke thinks there might also be physiological reasons for the waves. "It may improve their blood circulation," she says.  维尼可认为企鹅的摇摆可能还存在生理原因，“这能以提高他们的血液循环”她说。
+physiological |英 [,fɪzɪə'lɒdʒɪkəl]  美 [,fɪzɪə'lɑdʒɪkl]| adj. 生理学的，生理的/
+
+
+
+
+warehouse |英 ['weəhaʊs]  美 ['wɛrhaʊs]| n. 仓库；货栈；大商店/vt. 储入仓库；以他人名义购进（股票）/
+
+
+
+A solitary person or object is alone, with no others near them. 孤独的
+A solitary activity is one that you do alone. 独自的
+A person or animal that is solitary spends a lot of time alone. 独处的
+solitary |英 ['sɒlɪt(ə)rɪ]  美 ['sɑlətɛri]| adj. 孤独的；独居的/n. 独居者；隐士/
+You could see the occasional solitary figure making a study of wildflowers or grasses.你偶尔可以看见那个研究野生花草的孤独身影。
+His evenings were spent in solitary drinking.他的每个夜晚都在独自饮酒中度过。
+Paul was a shy, pleasant, solitary man.保罗是个腼腆的、讨人喜欢的、惯于独处的人。
+
+
+A complication is a medical problem that occurs as a result of another illness or disease. 并发症
+A complication is a problem or difficulty that makes a situation harder to deal with. 使情况复杂化的因素
+complication |英 [kɒmplɪ'keɪʃ(ə)n]  美 [,kɑmplɪ'keʃən]| n. 并发症；复杂；复杂化；混乱/
+Blindness is a common complication of diabetes.失明是糖尿病常有的一种并发症。
+There are too many complications to explain now.现在有太多使情况复杂化的因素要解释。
+The age difference was a complication to the relationship.年龄差异是使该关系复杂化的一个因素。
+
+
+In religions such as Christianity, to redeem someone means to save them by freeing them from sin and evil. 救赎
+If you redeem a debt or money that you have promised to someone, you pay money that you owe or that you promised to pay. 偿还 (债务或钱)
+When something redeems an unpleasant thing or situation, it prevents it from being completely bad. 弥补; 补救
+If you redeem yourself or your reputation, you do something that makes people have a good opinion of you again after you have behaved or performed badly. 挽回声誉; 改善形象
+redeem |英 [rɪ'diːm]  美 [rɪ'dim]| vt. 赎回；挽回；兑换；履行；补偿；恢复/
+...a new female spiritual force to redeem the world.…一股挽救世界的新的女性精神力量。
+The amount required to redeem the mortgage was $358,587.偿还抵押贷款所需的金额是$358587。
+Work is the way that people seek to redeem their lives from futility.工作是人们寻求用以弥补生活使之不至于毫无意义的途径。
+He realized the mistake he had made and wanted to redeem himself.他认识到自己所犯的错误并想挽回声誉。
+
+
+ Certain Orthodox tribes believe suffering is the only way to redeem oneself, and scholars write of a cult called the Essenes, who deliberately went around bumping into walls.  某些正统教派相信苦难是自身赎罪的唯一途径，学者们写到一个名为苦修派的教派，他们有意到处去撞墙。
+redeem oneself || 
+
+
+
+The turnover of people in an organization or place is the rate at which people leave and are replaced. 人员流动率
+The turnover of a company is the value of the goods or services sold during a particular period of time. 营业额
+turnover |英 ['tɜːnəʊvə]  美 ['tɝn'ovɚ]| n. 翻覆；[贸易] 营业额；流通量；半圆卷饼；失误/adj. 翻过来的；可翻转的/
+Short-term contracts increase staff turnover.短期合同会增加员工的流动率。
+The company had a turnover of $3.8 million.那个公司拥有380万美元的营业额。
+
+
+Sanctions are measures taken by countries to restrict trade and official contact with a country that has broken international law. 国际制裁
+Sanction is also a noun. 批准; 认可
+If someone in authority sanctions an action or practice, they officially approve of it and allow it to be done. 批准; 认可
+sanction |英 ['sæŋ(k)ʃ(ə)n]  美 ['sæŋkʃən]| n. 制裁，处罚；认可；支持/vt. 制裁，处罚；批准；鼓励/
+The continued abuse of human rights has now led the United States to impose sanctions against the regime.对人权的不断践踏现已导致美国对该政权实施国际制裁。
+...a newspaper run by citizens without the sanction of the government.…未经政府许可的一家民办报纸。
+He may now be ready to sanction the use of force.他或许现在正准备批准使用武力。
+
+
+motivation 激起行动
+If someone motivates you to do something, they make you feel determined to do it. 激起 (某行动)
+motivated 有积极性的
+If you are motivated by something, especially an emotion, it causes you to behave in a particular way. 激发…的积极性
+motivate |英 ['məʊtɪveɪt]  美 ['motə'vet]| vt. 刺激；使有动机；激发…的积极性/
+Given parental motivation, we are optimistic about the ability of people to change.有了父母的激励，我们对于人们改变的能力很乐观。
+How do you motivate people to work hard and efficiently?你是如何激励人们努力而高效地工作的？
+...highly motivated employees.…积极性很高的员工。
+They are motivated by a need to achieve.他们被成功的需要激励着。
+
+
+A thorn or a thorn bush or a thorn tree is a bush or tree which has a lot of thorns on it. 带刺灌木丛; 带刺的树
+Thorns are the sharp points on some plants and trees, for example, on a rose bush. 刺
+thorn |英 [θɔːn]  美 [θɔrn]| n. 刺；[植] 荆棘/n. (Thorn)人名；(柬)通；(英)索恩；(法、德、丹、瑞典)托恩/
+...the shade of a thorn bush.…一棵带刺灌木的树阴。
+Roses will always have thorns but with care they can be avoided.玫瑰总有刺，但是只要小心，还是可以避开刺。
+
+
+If one thing involves you in another thing, especially something unpleasant or inconvenient, the first thing causes you to do or deal with the second. 使陷入
+If you involve someone in something, you get them to take part in it. 使参与
+If you say that someone involves themselves in something, you mean that they take part in it, often in a way that is unnecessary or unwanted. 使卷入
+If a situation or activity involves someone, they are taking part in it. 涉及
+If a situation or activity involves something, that thing is a necessary part or consequence of it. 需要
+involve |英 [ɪn'vɒlv]  美 [ɪn'vɑlv]| vt. 包含；牵涉；使陷于；潜心于/
+I don't want to do anything that will involve me in a long-term commitment.我不想做任何会使自己做出长期承诺的事情。
+Nasser and I do everything together, he involves me in everything.纳萨和我做什么事都在一起，他让我参与所有的事情。
+I seem to have involved myself in something I don't understand.我似乎已经将自己卷入了我不了解的事情当中。
+If there was a cover-up, it involved people at the very highest levels of government.如果有掩盖真相的行为，它就牵扯到了处于政府最高层的那些人。
+Running a kitchen involves lots of discipline and speed.管理厨房需要讲究纪律和速度。
+
+
+The architect of an idea, event, or institution is the person who invented it or made it happen. 设计师; 缔造者
+architect |英 ['ɑːkɪtekt]  美 ['ɑrkɪtɛkt]| n. 建筑师/
+James Madison was the principal architect of the constitution.詹姆斯·麦迪逊是该宪法的主设计师。
+
+
+In physics, a particle is a piece of matter smaller than an atom such as an electron or a proton. 粒子
+A particle of something is a very small piece or amount of it. 微粒; 极小量
+particle |英 ['pɑːtɪk(ə)l]  美 ['pɑrtɪkl]| n. 颗粒；[物] 质点；极小量；小品词/
+...the sub-atomic particles that make up matter.…构成物质的次原子微粒。
+There is a particle of truth in his statement.在他的声明中只有极少的事实。
+...a particle of hot metal.…热金属微粒。
+
+
+If you do something of your own accord, you do it because you want to, without being asked or forced. 自愿地
+If something happens of its own accord, it seems to happen by itself, without anyone making it happen. 自动地
+If you are accorded a particular kind of treatment, people act toward you or treat you in that way. 给予 (某种待遇)
+An accord between countries or groups of people is a formal agreement; for example, to end a war. 协议
+accord |英 [ə'kɔːd]  美 [ə'kɔrd]| n. 符合；一致；协议；自愿/vt. 使一致；给予/vi. 符合；一致/
+He did not quit as France's prime minister of his own accord.他不是自愿地辞去法国总理一职的。
+In many cases the disease will clear up of its own accord.在很多情况下这种疾病会自动地痊愈。
+On his return home, the government accorded him the rank of Colonel.在他回国时，该国政府授予他上校军衔。
+His predecessor was accorded an equally tumultuous welcome.他的前任受到了同样热烈的欢迎。
+UNITA was legalized as a political party under the 1991 peace accords.根据1991年和平协议，安盟作为一个政党被合法化了。
+
+
+ This action would not be in accord with our policy.  这一行动不会符合我们的方针。
+ The boy's soul was steeped in melancholy; his feelings were in happy accord with his surroundings.  他的灵魂沉浸在忧郁之中；他的感情与周围的环境正一致。
+ Salary will be in accord with qualifications, beginning at a minimum of $2,000 per month.  薪水将与资质相匹配，起薪每月至少2000美元。
+accord with || 
+
+
+
+If you pay for something that you do or have, you suffer as a result of it. (为…) 付出代价
+If a course of action pays, it results in some advantage or benefit for you. (某种做法) 有好处
+If a job, deal, or investment pays, it brings you a profit or earns you some money. 给报酬
+If a job, deal, or investment pays a particular amount, it brings you that amount of money. 带来 (某数量的钱); 带来钱
+If a government or organization makes someone pay for something, it makes them responsible for providing the money for it, for example, by increasing prices or taxes. 承担费用
+If you are paid to do something, someone gives you some money so that you will help them or perform some service for them. 雇佣
+Your pay is the money that you get from your employer as wages or salary. 薪水
+When you are paid, you get your wages or salary from your employer. 给…支付工薪
+When you pay an amount of money to someone, you give it to them because you are buying something from them or because you owe it to them. When you pay something such as a bill or a debt, you pay the amount that you owe. 支付; 偿还
+pay |英 [peɪ]  美 [pe]| vt. 支付，付；偿还，补偿；给予/vi. 付款；偿还/n. 工资，薪水；付款；报答/adj. 收费的；需付费的/
+...investments in energy efficiency that would pay for themselves within five years.…5年内能回本的、在能效方面的投资。
+He felt a heavy bump, but paid no attention to it.他感觉重重地撞了一下，但没有在意。
+Pay us a visit next time you're in Portland.下次来波特兰的时候来看看我们。
+We paid $500 down and $100 a month after that.我们首付了$500，以后每月付$100。
+Why should I pay the penalty for somebody else's mistake?我为什么要为别人的错误而受罚呢？
+He was to pay dearly for his lack of resolve.他将为自己缺乏决心付出高昂的代价。
+We must demonstrate that aggression will not pay.我们必须证明侵犯是没有好处的。
+It pays to invest in protective clothing.在防护服上投资值。
+There are some agencies now specializing in helping older people to find jobs which pay.现在有一些机构专门帮助年纪较大的人找到有酬工作。
+The banks don't pay interest on those accounts.银行对那些账户不支付利息。
+We're stuck in jobs that don't pay very well.我们被困在钱给得很少的工作中。
+...a legally binding international treaty that establishes who must pay for environmental damage.…一项规定谁必须为环境的破坏承担费用的具有法律约束力的国际公约。
+There are people who are paid to sit around and play games.有人受雇闲坐着玩游戏。
+...their complaints about their pay and conditions.…他们对薪水和工作条件的不满。
+I get paid monthly.我拿月薪。
+The lawyer was paid a huge salary.这个律师拿了很高的薪金。
+The wealthier may have to pay a little more in taxes.更有钱的人可能得多交点税。
+Owners who have already paid for repairs will be reimbursed.已经付了修缮费的业主将会得到退费。
+
+
+Pharmaceuticals are medicines. 药品
+Pharmaceutical means connected with the industrial production of medicines. 制药的
+pharmaceutical |英 [,fɑːmə'suːtɪk(ə)l; -'sjuː-]  美 [,fɑrmə'sutɪkl]| adj. 制药（学）的/n. 药物/
+Antibiotics were of no use, neither were other pharmaceuticals.抗生素没有用，其他药物也没有用。
+...a Swiss pharmaceutical company.…一家瑞士制药公司。
+
+
+You say to add insult to injury when mentioning an action or fact that makes an unfair or unacceptable situation even worse. 更糟糕的是
+An insult is a rude remark, or something a person says or does which insults you. 侮辱; 辱骂; 冒犯
+insulted 被侮辱的
+If someone insults you, they say or do something that is rude or offensive. 辱骂; 侮辱; 冒犯
+insult |英 [ɪn'sʌlt]  美 [ɪn'sʌlt]| vt. 侮辱；辱骂；损害/n. 侮辱；凌辱；无礼/
+It is the victim who is often put on trial and, to add insult to injury, she is presumed guilty until proven innocent of provoking the rape.受到审问的往往是受害者，更糟糕的是，她被假定为有罪，直到证明强奸并非由她挑逗而引起。
+Their behaviour was an insult to the people they represent.他们的行为是对他们所代表的人们的一种侮辱。
+I mean, I was a bit insulted that they thought I needed bribing to shut up.我的意思是，我感到有些受侮辱的是他们认为我收受贿赂才肯闭嘴。
+I did not mean to insult you.我并非故意要冒犯你。
+
+
+A tug or a tug boat is a small powerful boat which pulls large ships, usually when they come into a port. 拖船
+Tug is also a noun. 猛拉; 拽
+If you tug something or tug at it, you give it a quick and usually strong pull. 猛拉; 拽
+tug |英 [tʌg]  美 [tʌɡ]| n. 拖船；拖曳；苦干/vi. 用力拉；竞争；努力做/vt. 用力拉；较量；用拖船拖/
+...a 76,000-ton barge pulled by five tug boats.…被5艘拖船拖拉着的一艘76000吨的驳船。
+I felt a tug at my sleeve.我感觉我的袖子被拽了一下。
+A little boy came running up and tugged at his sleeve excitedly.一个小男孩跑了过来，兴奋地拽着他的袖子。
+
+
+The constituent parts of something are the things from which it is formed. 构成的
+A constituent of a mixture, substance, or system is one of the things from which it is formed. 成分
+A constituent is someone who lives in a particular constituency, especially someone who is able to vote in an election. 选民
+constituent |英 [kən'stɪtjʊənt]  美 [kən'stɪtʃuənt]| n. 成分；选民；委托人/adj. 构成的；选举的/
+...a plan to split the company into its constituent parts and sell them separately.…一项把公司拆分为各构成部分然后分别出售的计划。
+Caffeine is the active constituent of drinks such as tea and coffee.咖啡因是茶和咖啡这类饮品的活性成分。
+He told his constituents that he would continue to represent them to the best of his ability.他告诉他的选民们他会继续竭尽所能代表他们。
+
+
+Piecemeal is also an adverb. 逐渐而零碎地
+If you describe a change or process as piecemeal, you disapprove of it because it happens gradually, usually at irregular intervals, and is probably not satisfactory. (变化或过程) 逐渐而零碎的
+piecemeal |英 ['piːsmiːl]  美 ['pismil]| adv. 零碎地；逐个地/adj. 零碎的；逐渐的/n. 片；块/vt. 粉碎/
+It was built piecemeal over some 130 years.它是在大约一百三十年间一点一点建造起来的。
+These piecemeal solutions won't work.这些零敲碎打的解决办法不会有效。
+
+
+A decimal is a fraction that is written in the form of a dot followed by one or more numbers which represent tenths, hundredths, and so on: for example, .5, .51, .517. 小数
+A decimal system involves counting in units of ten. 十进制的
+decimal |英 ['desɪm(ə)l]  美 ['dɛsɪml]| adj. 小数的；十进位的/n. 小数/
+...simple maths concepts, such as decimals and fractions.…简单的数学概念，如小数和分数。
+The mathematics of ancient Egypt were based on a decimal system.古埃及数学以十进制为基础。
+
+
+Starch is a substance that is used for making cloth stiffer, especially cotton and linen. (用于使布料挺直的) 浆粉
+Starch is a substance that is found in foods such as bread, potatoes, pasta, and rice and gives you energy. 淀粉
+starch |英 [stɑːtʃ]  美 [stɑrtʃ]| n. 淀粉；刻板，生硬/vt. 给…上浆/n. (Starch)人名；(英)斯塔奇；(德、捷)施塔希/
+He never puts enough starch in my shirts.他从不给我的衬衫上足够的浆粉。
+She reorganized her eating so that she was taking more fruit and vegetables and less starch, salt, and fat.她重新调整了自己的饮食，在多吃水果蔬菜，少食用淀粉、盐和脂肪。
+
+
+If someone has an invincible belief or attitude, it cannot be changed. 无法改变的
+If you describe an army or sports team as invincible, you believe that they cannot be defeated. 不可战胜的
+invincible |英 [ɪn'vɪnsɪb(ə)l]  美 [ɪn'vɪnsəbl]| adj. 无敌的；不能征服的/
+He also had an invincible faith in the medicinal virtues of garlic.他对大蒜的药用功效深信不疑。
+You couldn't help feeling the military's fire power was invincible.你不禁会感到这支军队的火力是无可匹敌的。
+
+
+If a boat is at anchor, it is floating in a particular place and is prevented from moving by its anchor. 停泊
+An anchor is the main shop in a mall or shopping centre. 主体商店
+The person who anchors a television or radio programme, especially a news programme, is the person who presents it and acts as a link between interviews and reports that come from other places or studios. 主持
+If an object is anchored somewhere, it is fixed to something to prevent it moving from that place. 使固定
+When a boat anchors or when you anchor it, its anchor is dropped into the water in order to make it stay in one place. 抛锚
+The anchor on a television or radio programme, especially a news programme, is the person who presents it. 节目主持人
+anchor |英 ['æŋkə]  美 ['æŋkɚ]| n. 锚；抛锚停泊；靠山；新闻节目主播/vt. 抛锚；使固定；主持节目/vi. 抛锚/adj. 末棒的；最后一棒的/
+Sailboats lay at anchor in the narrow waterway.帆船停泊在狭窄的水道里。
+A clothing shop is to be a key anchor in a new development planned on the vacant lot.一个服装店将成为在这块空地上计划新开发项目中的一个关键主体商店。
+Viewers saw him anchoring a five-minute summary of regional news.观众们看到了他主持地区新闻的5分钟综述。
+The roots anchor the plant in the earth.根须把这植物固定在土里。
+We could anchor off the pier.我们可以在码头抛锚。
+He worked in the news division of ABC – he was the anchor of its 15-minute evening newscast.他以前在美国广播公司的新闻部工作–他是该公司15分钟晚间新闻节目的主持人。
+
+
+If you avail yourself of an offer or an opportunity, you accept the offer or make use of the opportunity. 利用
+If you do something to no avail or to little avail, what you do fails to achieve what you want. 徒劳
+avail |英 [ə'veɪl]  美 [ə'vel]| n. 效用，利益/vt. 有益于，有益于；使对某人有利。/vi. 有益于，有益于；使对某人有利。/
+Guests should feel at liberty to avail themselves of your facilities.客人们应可以随意使用你们的设施。
+His efforts were to no avail.他的努力是徒劳的。
+
+
+isolation 隔离
+To isolate a sick person or animal means to keep them apart from other people or animals, so that their illness does not spread. 隔离
+To isolate a substance means to obtain it by separating it from other substances using scientific processes. 使离析
+If you isolate something such as an idea or a problem, you separate it from others that it is connected with, so that you can concentrate on it or consider it on its own. 单独考虑
+If you isolate yourself, or if something isolates you, you become physically or socially separated from other people. 使孤立; 孤立
+isolated 孤立的
+To isolate a person or organization means to cause them to lose their friends or supporters. 孤立
+isolate |英 ['aɪsəleɪt]  美 [aɪslˌet]| vt. 使隔离；使孤立；使绝缘/n. [生物] 隔离种群/vi. 隔离；孤立/adj. 隔离的；孤立的/
+Hayley contracted tuberculosis and had to be put in an isolation ward.海利感染了肺结核而不得不被送进一个隔离病房。
+Patients will be isolated from other people for between three days and one month after treatment.治疗之后，患者将被与他人隔离3天到1个月。
+We can use genetic engineering techniques to isolate the gene that is responsible.我们可以用遗传工程技术将起作用的基因离析出来。
+Our anxieties can also be controlled by isolating thoughts, feelings and memories.我们的焦虑也可以通过对思想、感情和记忆分别进行考虑来加以控制。
+His radicalism and refusal to compromise isolated him.他的激进和拒绝让步使他受到了孤立。
+She seemed determined to isolate herself from everyone, even him.她似乎决心要与每个人，甚至是他割断联系。
+They are finding themselves increasingly isolated within the teaching profession.他们发现自己在教育界中越来越孤立。
+This policy could isolate the country from the other permanent members of the United Nations Security Council.这项政策可能会将这个国家从联合国安理会的其他常任理事国中孤立出来。
+
+
+If someone is limp, their body has no strength and is not moving, for example, because they are asleep or unconscious. 软弱无力的
+limply 无力地
+If you describe something as limp, you mean that it is soft or weak when it should be firm or strong. 无力的
+If you say that something such as an organization, process, or vehicle limps along, you mean that it continues slowly or with difficulty, for example because it has been weakened or damaged. (交通工具等) 缓慢或艰难地前进; (组织、进程等) 进展缓慢
+Limp is also a noun. 跛行
+If a person or animal limps, they walk with difficulty or in an uneven way because one of their legs or feet is hurt. 跛行
+limp |英 [lɪmp]  美 [lɪmp]| adj. 柔软的，无力的；软弱的/vi. 跛行，一拐一拐地走；缓慢费力地前进/n. 跛行/n. (Limp)人名；(英)林普/
+He carried her limp body into the room and laid her on the bed.他抱起她软绵绵的身体走进那房间，把她放到床上。
+Flags and bunting hung limply in the still, warm air.旗子和飘带在静止、温暖的空中无力地垂着。
+She was told to reject applicants with limp handshakes.有人告诉她通过无力的握手来拒绝申请者。
+In recent years the newspaper had been limping along on limited resources.近年来该报一直靠有限的资源艰难地发展。
+A stiff knee following surgery forced her to walk with a limp.手术后僵直的膝盖迫使她瘸着走路。
+I wasn't badly hurt, but I injured my thigh and had to limp.我伤得并不严重，但我伤到了大腿，不得不一瘸一拐地走路。
+

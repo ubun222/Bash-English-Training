@@ -1,31 +1,322 @@
-withstand			承受住
-deluge						淹没，暴雨
-immerse				浸泡，使...沉浸
-glorious						光荣的，壮丽的，极度的
-sponge				海绵，白得
-glimpse				一瞥，领略
-consult								咨询，查阅，商量
-humdrum				乏味的，单调
-crown				王冠
-trend									趋势，倾向
-stretch					撑大，拉紧，舒展，耗尽，一段
-pollinate				给...授粉
-article					物件，文章，条款，冠词
-haven					避风港，避难所
-adopt									领养，提名，移居，采用
-protrude				突出，伸出
-chapel					小教堂
-fake						赝品，伪造的，伪造，假装
-moist						微湿的，多汁的
-regardless						不理会的，不顾一切的
-slate					页岩，石板，抨击，推举
-glow					光亮，容光焕发
-federation				联邦
-cunning					狡猾的，精巧的，狡猾
-gust					一阵狂风
-chore					例行工作，家务活
-absurd							荒唐的
-surge				使强烈感受到，急剧上涨
-survival									存留，幸存者
-ignite				点燃，激发，着火
+withstand			vt.承受住
+deluge						vt.淹没n.暴雨
+immerse				vt.浸泡，使...沉浸
+glorious						adj.光荣的，壮丽的，极度的
+sponge				n.海绵vt.海绵(擦拭)，白得
+glimpse				n.一瞥，领略vt.一瞥，领略
+consult								vt.咨询，查阅vi.商量
+humdrum				adj.乏味的n.单调
+crown				n.王冠vt.王冠
+trend									n.趋势，倾向vi.趋势
+stretch					vt.撑大，拉紧，舒展，耗尽vi.撑大，延伸n.一段，伸展，拉紧
+pollinate				vt.给...授粉
+article					n.物件，文章，条款，冠词
+haven					n.避风港，避难所
+adopt									vt.领养，<政治>提名，移居，采用vi.领养
+protrude				vi.突出，伸出
+chapel					n.小教堂
+fake						n.赝品adj.伪造的vt.伪造，假装vi.假装
+moist						adj.微湿的，多汁的
+regardless						adj.不理会的，adv.不顾一切的
+slate					n.页岩，石板vt.石板，抨击，(美)推举
+glow					n.光亮，<比喻>容光焕发vi.光亮，容光焕发
+federation				n.联邦
+cunning					adj.狡猾的，精巧的n.狡猾
+gust					n.一阵(狂风)vi.一阵(狂风)
+chore					n.例行工作，家务活
+absurd							adj.荒唐的n.荒唐的
+surge				vi.使强烈感受到，急剧上涨，冲刺n.急剧上涨，冲刺
+survival									n.存留，幸存者
+ignite				vt.点燃，激发vi.着火
 \\\\\\\\
+
+If something or someone withstands a force or action, they survive it or do not give in to it. 抵御
+withstand |英 [wɪð'stænd]  美 [wɪð'stænd]| vt. 抵挡；禁得起；反抗/vi. 反抗/
+...armoured vehicles designed to withstand chemical attack.…设计来抵御化学攻击的装甲车。
+
+
+If a place or person is deluged with things, a large number of them arrive or happen at the same time. 使充斥
+A deluge of things is a large number of them which arrive or happen at the same time. 泛滥
+deluge |英 ['deljuːdʒ]  美 ['dɛljʊdʒ]| n. 洪水；泛滥；暴雨/vt. 使泛滥；压倒/
+During 1933, Papen's office was deluged with complaints.在1933年间，巴本的办公室接到的投诉案件层出不穷。
+There was a deluge of requests for interviews and statements.对接受访谈和发表声明的要求铺天盖地地涌来。
+
+
+If something is immersed in a liquid, someone puts it into the liquid so that it is completely covered. 使浸没
+immersed 专心的
+If you immerse yourself in something that you are doing, you become completely involved in it. 使专心于
+immerse |英 [ɪ'mɜːs]  美 [ɪ'mɝs]| vt. 沉浸；使陷入/
+The electrodes are immersed in liquid.电极被浸没在液体中。
+He's really becoming immersed in his work.他真正地变得专注于自己的工作。
+Their commitments do not permit them to immerse themselves in current affairs as fully as they might wish.他们的职责不允许他们如其所愿地埋头于时事。
+
+
+gloriously 辉煌地
+A glorious career, victory, or occasion involves great fame or success. 辉煌的
+gloriously 极好地
+If you describe something as glorious, you are emphasizing that it is wonderful and it makes you feel very happy. 极好的
+gloriously 壮丽地
+Something that is glorious is very beautiful and impressive. 壮丽的
+glorious |英 ['glɔːrɪəs]  美 ['ɡlɔriəs; 'ɡloriəs]| adj. 光荣的；辉煌的；极好的/
+But the mission was successful, gloriously successful.但这次任务很成功，辉煌地成功。
+Harrison had a glorious career spanning more than six decades.哈里森有过一段长达六十余年的辉煌的职业生涯。
+...her gloriously happy love life.…她那极其幸福的爱情生活。
+The win revived glorious memories of his championship-winning days.这次获胜勾起了他对那些夺冠岁月的美好记忆。
+A tree, gloriously lit by autumn, pressed against the windowpane.一棵被秋色染得绚丽多彩的树压在窗玻璃上。
+She had missed the glorious blooms of the desert spring.她错过了沙漠春天的繁花美景。
+...a glorious rainbow in the air.…空中一道壮丽的彩虹。
+
+
+If you say that someone sponges off other people or sponges on them, you mean that they regularly get money from other people when they should be trying to support themselves. 揩油
+Sponge down means the same as . 用湿海绵擦洗
+If you sponge something, you clean it by wiping it with a wet sponge. 用湿海绵擦拭
+A sponge is a piece of sponge that you use for washing yourself or for cleaning things. (洗澡或清洁用的) 海绵块
+Sponge is a very light soft substance with lots of little holes in it, which can be either artificial or natural. It is used to clean things or as a soft layer. 海绵
+sponge |英 [spʌn(d)ʒ]  美 [spʌndʒ]| vt. 抹掉；用海绵擦拭；讨得/vi. 采集海绵；过寄生生活；海绵般地吸收/n. 海绵；海绵状物/
+He should just get an honest job and stop sponging off the rest of us!他就应该找一份踏实的工作，不要再揩我们其他人的油了！
+If your child's temperature rises, sponge her down gently with tepid water.如果你孩子的体温升高，用湿海绵沾温水轻轻地擦洗她。
+Fill a bowl with water and gently sponge your face and body.装满一碗水，然后用湿海绵轻轻擦洗你的脸和身子。
+He wiped off the table with a sponge.他用一块海绵擦了桌子。
+...a sponge mattress.…一张海绵床垫。
+
+
+A glimpse of something is a brief experience of it or an idea about it that helps you understand or appreciate it better. 初步的感受
+If you glimpse someone or something, you see them very briefly and not very well. 瞥见
+If you get a glimpse of someone or something, you see them very briefly and not very well. 一瞥
+glimpse |英 [glɪm(p)s]  美 [ɡlɪmps]| n. 一瞥，一看/vi. 瞥见/vt. 瞥见/
+As university campuses become increasingly multiethnic, they offer a glimpse of the conflicts society will face tomorrow.大学校园种族群体日趋多样化，使人们初步感受到未来社会面临的诸多冲突。
+She glimpsed a group of people standing on the bank of a river.她瞥见一群人站在河岸上。
+Some of the fans had waited 24 hours outside the hotel to catch a glimpse of their heroine.某些追星族为了一睹女杰的风采已在宾馆外守候了24小时。
+
+
+If a person or group of people consults with other people or consults them, or if two people or groups consult, they talk and exchange ideas and opinions about what they might decide to do. 商量
+If you consult a book or a map, you look in it or look at it in order to find some information. 查阅
+If you consult an expert or someone senior to you or consult with them, you ask them for their opinion, advice, or permission. 咨询
+consult |英 [kən'sʌlt]  美 [kən'sʌlt]| vt. 查阅；商量；向…请教/vi. 请教；商议；当顾问/
+The two countries will have to consult their allies.两国得同各自的盟友协商。
+After consulting with her daughter and manager, she decided to take on the part, on her terms.同她的女儿兼经纪人商量之后，她决定按她的要求接受那个角色。
+Consult the chart on page 44 for the correct cooking times.查阅第44页的图表找正确的烹调时间。
+He needed to consult with an attorney.他需要和律师咨询。
+Consult your doctor about how much exercise you should get.咨询你的医生你应做多少运动。
+
+
+If you describe someone or something as humdrum, you mean that they are ordinary, dull, or boring. 平凡的; 单调乏味的; 令人厌烦的
+humdrum |英 ['hʌmdrʌm]  美 ['hʌmdrʌm]| adj. 单调的；无聊的/n. 单调；乏味/vi. 单调乏味地进行/
+...her lawyer husband, trapped in a humdrum but well-paid job....她整天做着单调乏味的工作但收入颇丰的律师丈夫。
+
+
+When a king or queen is crowned, a crown is placed on their head as part of a ceremony in which they are officially made king or queen. 为…加冕
+The government of a country that has a king or queen is sometimes referred to as the Crown. 王国政府
+A crown is an artificial top piece fixed over a broken or decayed tooth. 齿冠
+Your crown is the top part of your head, at the back. 头顶后部
+A crown is a circular ornament, usually made of gold and jewels, which a king or queen wears on their head at official ceremonies. You can also use crown to refer to anything circular that is worn on someone's head. 王冠; 冠
+crown |英 [kraʊn]  美 [kraʊn]| n. 王冠；花冠；王权；顶点/vt. 加冕；居…之顶；表彰；使圆满完成/n. (Crown)人名；(英)克朗/
+Two days later, Juan Carlos was crowned king.两天后，胡安·卡洛斯被加冕为国王。
+...a minister of the Crown.…王国政府的一位大臣。
+She says the sovereignty of the Crown must be preserved.她说君主政权必须予以保留。
+How long does it take to have crowns fitted?镶齿冠需要多长时间？
+He laid his hand gently on the crown of her head.他把手轻轻地放在她的头顶后部。
+...a crown of flowers.…一个花冠。
+
+
+To set a trend means to do something that becomes accepted or fashionable, and that a lot of other people copy. 时尚
+A trend is a change or development toward something new or different. 趋势
+trend |英 [trend]  美 [trɛnd]| n. 趋势，倾向；走向/vi. 趋向，伸向/vt. 使…趋向/n. (Trend)人名；(英)特伦德/
+The latest trend is gardening.最新的时尚是园艺。
+...a trend toward part-time employment.…非全日制就业的趋势。
+This is a growing trend.这是一个不断增长的趋势。
+
+
+If you stretch an amount of something or if it stretches, you make it last longer than it usually would by being careful and not wasting any of it. 俭省
+When something soft or elastic stretches or is stretched, it becomes longer or bigger as well as thinner, usually because it is pulled. 有弹性
+If a group of things stretch from one type of thing to another, the group includes a wide range of things. 涉及
+If something stretches from one time to another, it begins at the first time and ends at the second, which is longer than expected. 持续
+A stretch of time is a period of time. 一段 (时间)
+Stretch is also a noun. 伸展
+When you stretch, you put your arms or legs out straight and tighten your muscles. 伸直
+A stretch of road, water, or land is a length or area of it. 一段
+Something that stretches over an area or distance covers or exists in the whole of that area or distance. 延伸
+stretch |英 [stretʃ]  美 [strɛtʃ]| vt. 伸展,张开；（大量地）使用，消耗（金钱，时间）；使竭尽所能；使全力以赴；/vi. 伸展；足够买（或支付）/n. 伸展，延伸/n. (Stretch)人名；(英)斯特雷奇/
+Her husband was not a womanizer by any stretch of the imagination.她的丈夫无论如何想像也不会是个玩弄女性的人。
+I'm trying to move on and stretch myself with something different.我正试图换个工作，使自己在不同的事情上得到充分发挥。
+The drought there is stretching resources.那里的干旱正在耗尽财力物力。
+They're used to stretching their budgets.他们习惯于精打细算。
+The cables are designed not to stretch.这些缆绳被设计成没有弹性。
+...a trading empire, with interests that stretched from chemicals to sugar.…一个兴趣范围从化学品到食糖的贸易帝国。
+...a working day that stretches from seven in the morning to eight at night.…从早上7点持续到晚上8点的一个工作日。
+...after an 18-month stretch in the army.…在部队呆了18个月后。
+At the end of a workout spend time cooling down with some slow stretches.在健身的末尾花时间用一些缓慢的伸展来做缓和。
+Try stretching your legs and pulling your toes upwards.试着伸直双腿并向上拉拉脚趾。
+He yawned and stretched.他打了个哈欠，伸了伸腰。
+It's a very dangerous stretch of road.这是一段非常危险的路。
+The procession stretched for several miles.游行队伍延伸了数英里。
+
+
+pollination
+To pollinate a plant or tree means to fertilize it with pollen. This is often done by insects. 给···传授花粉
+pollinate |英 ['pɒlɪneɪt]  美 ['pɑlənet]| vt. 对...授粉/
+Without sufficient pollination, the growth of the corn is stunted.没有充足的授粉，玉米的生长就会受阻。
+Many of the indigenous insects are needed to pollinate the local plants.需要很多种土生昆虫给当地植物授粉。
+
+
+If you describe something as the genuine article, you are emphasizing that it is genuine, and often that it is very good. 真品
+An article of a formal agreement or document is a section of it that deals with a particular point. 条款
+You can refer to objects as articles of some kind. 物品
+An article is a piece of writing that is published in a newspaper or magazine. 文章
+article |英 ['ɑːtɪk(ə)l]  美 ['ɑrtɪkl]| n. 文章；物品；条款；[语] 冠词/vt. 订约将…收为学徒或见习生；使…受协议条款的约束/vi. 签订协议；进行控告/
+The vodka was the genuine article.这伏特加是真品。
+The country appears to be violating several articles of the convention.该国看来正在违反该公约中的数个条款。
+He had stripped the house of all articles of value.他已把那所房子里值钱的东西洗劫一空。
+...articles of clothing.…衣物。
+According to an article in Newsweek the drug could have side effects.据一篇《新闻周刊》上的文章，这种药物可能有副作用。
+...a newspaper article.…一篇报上的文章。
+
+
+A haven is a place where people or animals feel safe, secure, and happy. 安全处所
+haven |英 ['heɪv(ə)n]  美 ['hevn]| n. 港口；避难所，安息所/vt. 为……提供避难处；安置……于港中/n. (Haven)人名；(英)黑文/
+...Lake Baringo, a freshwater haven for a mixed variety of birds.…百瑞高湖，一个适合各种鸟类的淡水栖息地。
+
+
+adoption 收养
+If you adopt someone else's child, you take it into your own family and make it legally your son or daughter. 收养
+adoption 采纳; 采用
+If you adopt a new attitude, plan, or way of behaving, you begin to have it. 采纳; 采用
+adopt |英 [ə'dɒpt]  美 [ə'dɑpt]| vt. 采取；接受；收养；正式通过/vi. 采取；过继/
+They gave their babies up for adoption.他们放弃了自己的婴儿让别人收养。
+There are hundreds of people desperate to adopt a child.有数以百计的人极其渴望收养小孩。
+The group is working to promote the adoption of broadband wireless access over long distances.该集团正在致力于推广远距离宽带无线访问的采用。
+The United Nations General Assembly has adopted a resolution calling on all parties in the conflict to seek a political settlement.联合国大会已采纳了一项呼吁所有冲突各方寻求政治解决的决议。
+
+
+If something protrudes from somewhere, it sticks out. 突出
+protrude |英 [prə'truːd]  美 [pro'trud]| vt. 使突出，使伸出/vi. 突出，伸出/
+...a huge round mass of smooth rock protruding from the water.…从水中突出来的一块光滑的圆形巨石。
+
+
+A chapel is a building used for worship by members of some Christian churches. Chapel refers to the religious services that take place there. 礼拜堂; 礼拜式
+A chapel is a small church attached to a hospital, school, or prison. (附属于医院、学校或监狱的) 小教堂
+A chapel is a part of a church which has its own altar and which is used for private prayer. (附属于大教堂的) 小教堂
+chapel |英 ['tʃæp(ə)l]  美 ['tʃæpl]| n. 小礼拜堂，小教堂；礼拜/adj. 非国教的/n. (Chapel)人名；(法)沙佩尔；(英)查普尔/
+...a Methodist chapel.…一个卫理公会教徒的礼拜堂。
+We married in the college chapel.我们在学院的小教堂里结的婚。
+...the chapel of the Virgin Mary.…圣母玛丽亚的教堂。
+
+
+Someone who is a fake is not what they claim to be, for example, because they do not have the qualifications that they claim to have. 骗子
+If you fake a feeling, emotion, or reaction, you pretend that you are experiencing it when you are not. 假装
+If someone fakes something, they try to make it look valuable or genuine, although in fact it is not. 伪造
+A fake is something that is fake. 膺品
+A fake fur or a fake painting, for example, is a fur or painting that has been made to look valuable or genuine, usually in order to deceive people. 伪造的
+fake |英 [feɪk]  美 [feɪk]| n. 假货；骗子；假动作/vt. 捏造；假装…的样子/vi. 假装；做假动作/adj. 伪造的/n. (Fake)人名；(英)费克/
+I think Jack is a good man. He isn't a fake.我认为杰克是个好人。他不是一个骗子。
+He tried to fake sincerity as he smiled at them.当他朝他们笑的时候，他设法假装真诚。
+...faked evidence.…伪造的证据。
+It's safer to fake a tan with make-up rather than subject your complexion to the harsh rays of the sun.用化妆来伪造棕褐色的皮肤比让皮肤暴露于强烈的太阳光线更安全。
+The gallery is filled with famous works of art, and every one of them is a fake.画廊里满是极好的艺术名品，每一件都是膺品。
+The bank manager is said to have issued fake certificates.据说这个银行经理曾出具过伪造的假凭证。
+
+
+Something that is moist is slightly wet. 湿润的
+moist |英 [mɒɪst]  美 [mɔɪst]| adj. 潮湿的；多雨的；含泪的/n. 潮湿/
+The soil is reasonably moist after the September rain.9月的雨水之后，土壤适度湿润。
+
+
+If you say that someone did something regardless, you mean that they did it even though there were problems or factors that could have stopped them, or perhaps should have stopped them. 不顾一切地
+If something happens regardless of something else, it is not affected or influenced at all by that other thing. 不管; 无论
+regardless |英 [rɪ'gɑːdlɪs]  美 [rɪ'ɡɑrdləs]| adj. 不管的；不顾的；不注意的/adv. 不顾后果地；不管怎样，无论如何；不惜费用地/
+Despite her recent surgery she has been carrying on regardless.尽管她最近动了手术，她却一直在不顾一切地继续工作。
+It takes in anybody regardless of religion, colour, or creed.这个组织接纳任何人，不管其宗教、肤色或信仰。
+
+
+If you start with a clean slate, you do not take account of previous mistakes or failures and make a fresh start. 不计前嫌重新开始; 既往不咎
+If something is slated to happen, it is planned to happen at a particular time or on a particular occasion. (在特定时间或者条件下) 选定
+A slate is one of the small flat pieces of slate that are used for covering roofs. 石板瓦
+Slate is a dark grey rock that can be easily split into thin layers. Slate is often used for covering roofs. (常用来作屋顶建材的) 石板
+slate |英 [sleɪt]  美 [slet]| n. 板岩；石板；蓝色；石片/vt. 铺石板；严厉批评某人；计划/adj. 板岩的；石板色的/n. (Slate)人名；(英)斯莱特/
+The proposal is to pay everything you owe, so that you can start with a clean slate.奉劝你还清所有债务，这样你就可以重新开始。
+Bromfield was slated to become U.S. Secretary of Agriculture.布罗姆菲尔德被内定为美国的农业部长。
+Thieves had stolen the slates from the roof.窃贼偷走了屋顶的石板瓦。
+...a stone-built cottage, with a traditional slate roof.…一间有传统石板屋顶的石砌村舍。
+
+
+If someone glows with an emotion such as pride or pleasure, the expression on their face shows how they feel. 容光焕发
+If someone's skin glows, it looks pink because they are healthy or excited, or have been doing physical exercise. (皮肤) 泛出红光
+If something glows, it produces a dull, steady light. 发出微弱稳定的光
+If you feel a glow of satisfaction or achievement, you have a strong feeling of pleasure because of something that you have done or that has happened. 喜悦
+A glow is a pink colour on a person's face, usually because they are healthy or have been exercising. (脸上的) 红光
+A glow is a dull, steady light, for example the light produced by a fire when there are no flames. 暗淡的光
+glow |英 [gləʊ]  美 [ɡlo]| vi. 发热；洋溢；绚丽夺目/n. 灼热；色彩鲜艳；兴高采烈/
+The expectant mothers that Amy had encountered positively glowed with pride.埃米遇见的孕妇们个个脸上都洋溢着幸福和自豪。
+Her freckled skin glowed with health again.她那有雀斑的皮肤又泛起健康的红色。
+The night lantern glowed softly in the darkness.夜灯在黑暗中发出微弱的光。
+Exercise will give you a glow of satisfaction at having achieved something.体育锻炼会带给你一种有所成就的喜悦。
+The moisturizer gave my face a healthy glow that lasted all day.这种润肤霜给我脸上带来了持续整天的一种健康的红光。
+The cigarette's red glow danced about in the darkness.香烟的红色暗光在黑暗中闪烁。
+
+
+A federation is a group of societies or other organizations which have joined together, usually because they share a common interest. 联合会
+A federation is a federal country. 联邦制国家
+federation |英 [fedə'reɪʃ(ə)n]  美 ['fɛdə'reʃən]| n. 联合；联邦；联盟；联邦政府/
+...the American Federation of Government Employees.…美国政府雇员联合会。
+...the Russian Federation.…俄罗斯联邦。
+
+
+Cunning is the ability to achieve things in a clever way, often by deceiving other people. 狡猾
+cunningly 狡猾地
+Someone who is cunning has the ability to achieve things in a clever way, often by deceiving other people. 狡猾的
+cunning |英 ['kʌnɪŋ]  美 ['kʌnɪŋ]| adj. 狡猾的；巧妙的；可爱的/n. 狡猾/
+...one more example of the cunning of today's art thieves.…又一个关于当今艺术品大盗狡猾伎俩的例子。
+They were cunningly disguised in golf clothes.他们狡猾地穿上高尔夫球服把自己伪装起来。
+These disturbed kids can be cunning.这些心理失常的小孩可能会很狡猾。
+
+
+If you feel a gust of emotion, you feel the emotion suddenly and intensely. (感情的) 迸发
+When the wind gusts, it blows with short, strong, sudden rushes. 劲吹
+A gust is a short, strong, sudden rush of wind. 一阵强风
+gust |英 [gʌst]  美 [ɡʌst]| n. 风味；一阵狂风；趣味/vi. 一阵阵地劲吹/n. (Gust)人名；(德、捷)古斯特/
+...a small gust of pleasure.…一丝愉悦的迸发。
+The wind gusted again.风又猛刮起来。
+A gust of wind drove down the valley.一阵狂风掠过山谷。
+
+
+A chore is a task that you must do but that you find unpleasant or boring. 琐事
+chore |英 [tʃɔː]  美 [tʃɔr]| n. 家庭杂务；日常的零星事务；讨厌的或累人的工作/
+She sees exercise primarily as an unavoidable chore.她把锻炼主要看作是不得不做的琐事。
+
+
+absurdly 荒谬地
+The absurd is something that is absurd. 荒谬之事
+If you say that something is absurd, you are criticizing it because you think that it is ridiculous or that it does not make sense. 荒谬的
+absurd |英 [əb'sɜːd]  美 [əbˈsɝ​d]| adj. 荒谬的；可笑的/n. 荒诞；荒诞作品/
+Prices were still absurdly low, in his opinion.在他看来，价格依然低得荒谬。
+Connie had a sharp eye for the absurd.康妮对荒谬之事有敏锐的眼光。
+It's absurd to suggest that they knew what was going on but did nothing.暗示说他们知道怎么回事但却袖手旁观是荒谬的。
+That's absurd.那是荒谬的。
+
+
+If a physical force such as water or electricity surges through something, it moves through it suddenly and powerfully. (水、电流等) 涌
+A surge is a sudden powerful movement of a physical force such as wind or water. (风、水等) 突然的涌动
+If a crowd of people surge forward, they suddenly move forward together. 涌动
+If something surges, it increases suddenly and greatly, after being steady or developing only slowly. 剧增
+A surge is a sudden large increase in something that has previously been steady, or has only increased or developed slowly. 剧增
+surge |英 [sɜːdʒ]  美 [sɝdʒ]| n. 汹涌；大浪，波涛；汹涌澎湃；巨涌/v. 汹涌；起大浪，蜂拥而来/
+Thousands of volts surged through his car after he careered into a lamp post, ripping out live wires.当他急速撞向一个灯柱、扯断了通电的电线之后，几千伏的电流涌过他的汽车。
+The whole car shuddered with an almost frightening surge of power.整辆车因受到一股几乎令人惊骇的冲力而颤动。
+The photographers and cameramen surged forward.那些摄影和摄像师们涌向前去。
+The Freedom Party's electoral support surged from just under 10 percent to nearly 17 percent.自由党的选举支持率从只有不到10%剧增到近17%。
+Specialists see various reasons for the recent surge in inflation.专家认为最近通货膨胀加剧有各种原因。
+
+
+If you refer to the survival of a person or living thing, you mean that they live through a dangerous situation in which it was possible that they might die. 存活
+If you refer to the survival of something or someone, you mean that they manage to continue or exist in spite of difficult circumstances. (在困境中的) 生存
+survival |英 [sə'vaɪv(ə)l]  美 [sɚ'vaɪvl]| n. 幸存，残存；幸存者，残存物/
+If cancers are spotted early there's a high chance of survival.如果癌症早被发现，存活的机率就高。
+...companies which have been struggling for survival in the advancing recession.…在不断恶化的萧条期中一直挣扎求生的各家公司。
+
+
+If something or someone ignites your feelings, they cause you to have very strong feelings about something. 激起
+When you ignite something or when it ignites, it starts burning or explodes. 点燃; 着火
+ignite |英 [ɪg'naɪt]  美 [ɪɡ'naɪt]| vt. 点燃；使燃烧；使激动/vi. 点火；燃烧/
+There was one teacher who really ignited my interest in words.曾经有一位老师真正激起了我对文字的兴趣。
+The bombs ignited a fire which destroyed some 60 houses.炸弹引起了一场火灾，烧毁了大约六十间房屋。
+

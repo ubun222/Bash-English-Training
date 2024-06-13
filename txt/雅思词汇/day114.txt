@@ -1,31 +1,345 @@
-literacy					读写能力，专业知识
-affirm				断言，申明
-denounce					告发，谴责
-defect					瑕疵，缺陷，叛变
-knit				编织，使紧密结合
-marvelous					令人惊奇的，极好的
-haunt				常去，缠绕，生息地
-preach				说教，宣讲
-tariff				关税
-prime					首要的，最好的，盛年，事先指点
-mist								薄雾
-agony					极度
-pick					挑选，采摘，拿起，剔，选择
-tournament								锦标赛
-genius							天才，才干，特征
-flicker				闪烁，摆动
-hierarchy			等级制度，统治集团
-distinguish						区分，使得以区分
-chamber				腔，舱
-credentials			资格
-invigilate			监考
-recover							收复，恢复，挽回，利用，康复
-artillery				大炮
-ventilate				使...通风，公开表达
-reproach			责备，耻辱
-dump						垃圾场，讨厌的地方，转存，倾倒，抛弃
-volume			册，容积，音量，量
-coalition		联盟
-opening							开幕式，洞，机遇
-hit						击，到达，遇到
+literacy					n.读写能力，专业知识
+affirm				vt.断言，申明
+denounce					vt.告发，谴责
+defect					n.瑕疵，缺陷vi.叛变
+knit				vt.编织，使紧密结合vi.编织
+marvelous					adj.令人惊奇的，极好的
+haunt				vt.常去，缠绕n.生息地
+preach				vi.说教vt.宣讲
+tariff				n.关税
+prime					adj.首要的，最好的n.盛年vt.事先指点
+mist								n.薄雾
+agony					n.极度痛苦
+pick					vt.挑选，采摘，拿起，剔vi.挑选n.选择
+tournament								n.锦标赛
+genius							n.天才，才干，特征
+flicker				vi.闪烁，摆动n.闪烁，摆动
+hierarchy			n.等级制度，统治集团
+distinguish						vt.区分，使得以区分vi.区分
+chamber				n.卧室，腔，舱
+credentials			n.资格
+invigilate			vi.监考vt.监考
+recover							vt.收复，恢复，挽回，利用vi.康复
+artillery				n.大炮
+ventilate				vt.使...通风，公开表达
+reproach			n.责备，耻辱vt.责备
+dump						n.垃圾场，讨厌的地方，转存vt.倾倒，抛弃，转存
+volume			n.册，容积，音量，量
+coalition		n.联盟
+opening							n.开幕式，洞，机遇adj.首发的
+hit						vt.击，到达，遇到n.击，受欢迎
 \\\\\\\\
+
+Literacy is the ability to read and write. 读写能力
+literacy |英 ['lɪt(ə)rəsɪ]  美 ['lɪtərəsi]| n. 读写能力；精通文学/
+Many adults have problems with literacy and numeracy.很多成年人有读写和计算的困难。
+
+
+affirmation 证实
+If an event affirms something, it shows that it is true or exists. 证实
+affirmation 公开肯定
+If you affirm that something is true or that something exists, you state firmly and publicly that it is true or exists. 公开肯定
+affirm |英 [ə'fɜːm]  美 [ə'fɝm]| vt. 肯定；断言/vi. 确认；断言/
+The ruling was a welcome affirmation of the constitutional right to free speech.此裁决是对言论自由这一宪法权利的受人欢迎的肯定。
+Everything I had accomplished seemed to affirm that opinion.我所做成的每件事似乎都证实了那个观点。
+The North Atlantic Treaty begins with the affirmation that its parties "reaffirm their faith in the purposes and principles of the Charter of the United Nations."《北大西洋公约》以公开肯定其成员“重申其对《联合国宪章》的目的以及原则的信念”开头。
+...a speech in which he affirmed a commitment to lower taxes.…在其中他公开肯定了减税承诺的一次演讲。
+The court affirmed that the information can be made public under the Freedom of Information Act.法院公开肯定了此信息能依据《自由信息法案》公之于众。
+
+
+If you denounce someone who has broken a rule or law, you report them to the authorities. 告发
+If you denounce a person or an action, you criticize them severely and publicly because you feel strongly that they are wrong or evil. 谴责
+denounce |英 [dɪ'naʊns]  美 [dɪ'naʊns]| vt. 谴责；告发；公然抨击；通告废除/
+They were at the mercy of informers who might at any moment denounce them.他们完全受那些随时可能告发他们的告密者的支配。
+German leaders all took the opportunity to denounce the attacks and plead for tolerance.德国领导人们都藉此机会谴责这些攻击，并且恳请宽容。
+
+
+defection 背叛
+If you defect, you leave your country, political party, or other group, and join an opposing country, party, or group. 背叛
+A defect is a fault or imperfection in a person or thing. 缺陷
+defect |英 ['diːfekt; dɪ'fekt]  美 [‘dɪfɛkt]| n. 缺点，缺陷；不足之处/vi. 变节；叛变/
+...the defection of at least sixteen parliamentary deputies.…至少16位国会议员的背叛。
+...a KGB officer who defected in 1963.…一个1963年叛变的克格勃官员。
+A report has pointed out the defects of the present system.一份报告指出了现有体制的缺陷。
+He was born with a hearing defect.他天生听力就有缺陷。
+
+
+When broken bones knit, the broken pieces grow together again. (骨头) 愈合
+Knit is also a combining form. 紧密连接 (用于合成词中)
+If someone or something knits things or people together, they make them fit or work together closely and successfully. 紧密连接
+Knit is also a combining form. 编织 (用于合成词中)
+If you knit something, especially an article of clothing, you make it from wool or a similar thread by using two knitting needles or a machine. 编织
+knit |英 [nɪt]  美 [nɪt]| vi. 编织；结合；皱眉/vt. 编织；结合/n. 编织衣物；编织法/
+The bone hasn't knitted together properly.骨头还没有完全愈合。
+...a closer-knit family.…一个连接更为紧密的家庭。
+The best thing about sports is that they knit the whole family close together.体育运动最大的好处就是将全家紧密连接在一起。
+Ferris wore a heavy knit sweater.菲立斯穿着一件织得厚厚的毛衣。
+I have already started knitting baby clothes.我已经开始织婴儿的衣服了。
+I had endless hours to knit and sew.我有无数的时间来缝缝织织。
+
+
+ Our acting was so marvelous that no one could guess any emotional involvement between you and me.  我们的表演是那么的出色，没人能猜出我和你有任何情感的牵连。
+ All the initial parameters of the system quickly converge upon termination, when history tells us human society is a system that displays marvelous continuing expansion.  系统的所有初始参数迅速向着终点汇聚，可历史却告诉我们，人类社会是一种显示非凡的不断膨胀的系统。
+ True to its reputation, Tongli is a really wonderful travel destination where you can spend a marvelous holiday or experience traditional Chinese culture.  正由于它的声誉，同里是一个非常美妙的旅行目的地，您可以花一个了不起的假期或体验传统的中华文化。
+marvelous |英 [ˈmɑːvələs]  美 ['mɑrvələs]| adj. 了不起的；非凡的；令人惊异的；不平常的/
+
+
+
+A ghost or spirit that haunts a place or a person regularly appears in the place, or is seen by the person and frightens them. (鬼魂等) 常出没于
+A place that is the haunt of a particular person is one which they often visit because they enjoy going there. 常去之处
+Something that haunts a person or organization regularly causes them problems over a long period of time. 长期不断地纠缠
+If something unpleasant haunts you, you keep thinking or worrying about it over a long period of time. (令人不愉快的事) 萦绕在心头
+haunt |英 [hɔːnt]  美 [hɔnt]| vt. 常出没于…；萦绕于…；经常去…/vi. 出没；作祟/n. 栖息地；常去的地方/
+His ghost is said to haunt some of the rooms, banging a toy drum.据说他的鬼魂常在其中一些屋子里出现，还敲打着一个玩具鼓。
+The islands are a favourite summer haunt for yachtsmen.这片岛屿是游艇驾驶者夏天最爱去的一个地方。
+The stigma of being a bankrupt is likely to haunt him for the rest of his life.作为一名破产者的耻辱很可能在他的余生不断来纠缠他。
+He would always be haunted by that scene in Well Park.他将不断回想起威尔公园的那一幕。
+
+
+If someone gives you advice in a very serious, boring way, you can say that they are preaching at you. 说教
+When people preach a belief or a course of action, they try to persuade other people to accept the belief or to take the course of action. 宣扬
+When a member of the clergy preaches a sermon, he or she gives a talk on a religious or moral subject during a religious service. 布 (道); 布道
+preach |英 [priːtʃ]  美 [pritʃ]| vt. 说教；讲道；鼓吹；传道；反复灌输/vi. 说教；讲道；鼓吹；宣扬/n. 说教/
+"Don't preach at me," he shouted.“不要对我说教，”他喊道。
+Health experts are now preaching that even a little exercise is far better than none at all.如今，健康专家宣扬说，即使少量的运动也比一点不运动要好得多。
+He said he was trying to preach peace and tolerance to his people.他说他正试图向他的人民宣扬和平与宽容。
+The bishop preached to a crowd of several hundred local people.主教向一群几百名当地人布道。
+At High Mass the priest preached a sermon on the devil.在大弥撒仪式上，牧师布了一次有关魔鬼的道。
+
+
+A tariff is a tax that a government collects on goods coming into a country. (政府对进口货物征收的) 关税
+tariff |英 ['tærɪf]  美 ['tærɪf]| n. 关税表；收费表/vt. 定税率；征收关税/
+America wants to eliminate tariffs on items such as electronics.美国想要取消电子类产品的关税。
+
+
+If someone primes a bomb or a gun, they prepare it so that it is ready to explode or fire. 事先准备 (炸弹、枪)
+If you prime someone to do something, you prepare them to do it, for example, by giving them information about it beforehand. 事先交代 (某人做某事)
+If someone or something is in their prime, they are at the stage in their existence when they are at their strongest, most active, or most successful. 鼎盛时期
+You use prime to describe an example of a particular kind of thing that is absolutely typical. 最典型的
+You use prime to describe something that is of the best possible quality. 最佳的
+You use prime to describe something that is most important in a situation. 主要的
+prime |英 [praɪm]  美 [praɪm]| adj. 主要的；最好的；基本的/adv. 极好地/n. 初期；青年；精华；全盛时期/vt. 使准备好；填装/vi. 作准备/n. (Prime)人名；(英)普赖姆；(德)普里梅/
+He kept a primed shotgun in his office.他在办公室放了一杆装好子弹的散弹猎枪。
+He was priming the bomb to go off in an hour's time.他在事先准备炸弹在一小时后爆炸。
+Marianne had not known until Arnold primed her for her duties that she was to be the sole female.直到阿诺德向她交待她的职责时，玛丽安娜才知道她将是惟一的女性。
+Claire wished she'd primed Sarah beforehand.克莱尔希望她事先交代过萨拉。
+We've had a series of athletes trying to come back well past their prime.我们有不少早已过了鼎盛时期的运动员在试图复出。
+Maybe I'm just coming into my prime now.可能我刚迈入我的最佳时期。
+The prime example is Macy's, once the undisputed king of California retailers.最典型的例子是梅西百货，曾是加州零售商们公认的王者。
+The location of these beaches makes them prime sites for development.这些海滩的位置使它们成为开发的最佳选址。
+It could be a prime target for guerrilla attack.它会是游击队进攻的一个主要目标。
+Political stability, meanwhile, will be a prime concern.与此同时，政治稳定将是头等大事。
+
+
+Mist over means the same as . 同(mist)
+If a piece of glass mists or is misted, it becomes covered with tiny drops of moisture, so that you cannot see through it easily. 使蒙上薄雾; 蒙上薄雾
+Mist consists of a large number of tiny drops of water in the air, which make it difficult to see very far. 雾
+mist |英 [mɪst]  美 [mɪst]| n. 薄雾；视线模糊不清；模糊不清之物/vi. 下雾；变模糊/vt. 使模糊；使蒙上薄雾/
+The front windshield was misting over.前挡风玻璃蒙上了一层水汽。
+The windows misted, blurring the stark streetlight.窗户蒙上了一层水汽，使得明亮的街灯模糊了。
+Thick mist made flying impossible.浓雾使得无法飞行。
+
+
+Agony is great physical or mental pain. 极大痛苦
+agony |英 ['ægənɪ]  美 ['æɡəni]| n. 苦恼；极大的痛苦；临死的挣扎/
+A new machine may save thousands of animals from the agony of drug tests.一种新机器可能使成千上万只动物免于药物试验的极大痛苦。
+
+
+If you are told to take your pick, you can choose any one that you like from a group of things. 任意挑选
+If someone such as a thief picks a lock, they open it without a key, for example, by using a piece of wire. 撬 (锁)
+If you pick a fight with someone, you deliberately cause one. 挑衅
+If you pick your nose or teeth, you remove substances from inside your nose or between your teeth. 抠 (鼻子); 剔 (牙)
+If you pick something from a place, you remove it from there with your fingers or your hand. 拿走
+When you pick flowers, fruit, or leaves, you break them off the plant or tree and collect them. 采摘
+You can refer to the best things or people in a particular group as the pick of that group. 精华; 精英
+If you pick a particular person or thing, you choose that one. 挑选
+pick |英 [pɪk]  美 [pɪk]| vi. 挑选；采摘；挖/vt. 拾取；精选；采摘；掘/n. 选择；鹤嘴锄；挖；掩护/n. (Pick)人名；(英、法、德、捷、匈、瑞典)皮克/
+Accountants can take their pick of company cars.会计们可以任意挑选公司的汽车。
+He picked each lock deftly, and rifled the papers within each drawer.他熟练地撬开每一把锁，偷走了每个抽屉里的文件。
+He picked a fight with a waiter and landed in jail.他找茬儿和服务员打架，结果锒铛入狱。
+Edgar, don't pick your nose, dear.埃德加，不要抠鼻子，亲爱的。
+He picked the napkin from his lap and placed it alongside his plate.他从腿上拿起餐巾，放在他的盘子旁边。
+She used to pick flowers in the Adirondacks.她以前常去阿迪朗达克山采花。
+The boys here are the pick of the high school's football players.这儿的男孩都是该中学足球队的精英。
+Mr. Nowell had picked ten people to interview for six sales jobs in Dallas.诺埃尔先生为在达拉斯的六个销售职位挑选了十人进行面试。
+
+
+A tournament is a sports competition in which players who win a match continue to play further matches in the competition until just one person or team is left. 锦标赛
+tournament |英 [ˈtɔ:nəmənt]  美 [ˈtɝ​nəmənt]| n. 锦标赛，联赛；比赛/
+...the biggest golf tournament to be held in Australia.…即将在澳大利亚举行的最大规模的高尔夫球锦标赛。
+
+
+A genius is a highly talented, creative, or intelligent person. 天才
+Genius is very great ability or skill in a particular subject or activity. 天赋
+genius |英 ['dʒiːnɪəs]  美 ['dʒinjəs]| n. 天才，天赋；精神/
+Chaplin was not just a genius, he was among the most influential figures in film history.卓别林不仅是个天才，还是电影史上最有影响的人物之一。
+The man had genius and had made his mark in the aviation world.那位男士拥有天赋，而且在航空界已经成名。
+This is the mark of her real genius as a designer.这是她作为一名设计师的真正天赋的标志。
+
+
+Flicker is also a noun. 闪烁
+If a light or flame flickers, it shines unsteadily. 闪烁不定
+flicker |英 ['flɪkə]  美 ['flɪkɚ]| vi. 闪烁；摇曳；颤动；扑动翅膀；假装昏倒/vt. 使闪烁；使摇曳/n. 闪烁；闪光；电影/n. (Flicker)人名；(英)弗利克/
+Looking through the window I saw the flicker of flames.透过窗子望出去，我看到了闪烁的火光。
+Fluorescent lights flickered, and then the room was blindingly bright.荧光灯闪了闪，接着房间里就亮得令人目眩了。
+
+
+The hierarchy of an organization is the group of people who manage and control it. 统治集团
+A hierarchy is a system of organizing people into different ranks or levels of importance, for example in society or in a company. 等级制度
+hierarchy |英 ['haɪərɑːkɪ]  美 ['haɪərɑrki]| n. 层级；等级制度/
+The church hierarchy today feels the church should reflect the social and political realities of the country.教会统治集团如今感到教会应该反映国家的社会现实和政治现实。
+Like most other American companies with a rigid hierarchy, workers and managers had strictly defined duties.像大多数其他等级制度森严的美国公司一样，工人和管理人员都有严格界定的职责。
+
+
+If you distinguish yourself, you do something that makes you famous or important. 使著名
+If you can distinguish something, you can see, hear, or taste it although it is very difficult to detect. 辨别出
+A feature or quality that distinguishes one thing from another causes the two things to be regarded as different, because only the first thing has the feature or quality. 有别于
+If you can distinguish one thing from another or distinguish between two things, you can see or understand how they are different. 辨别; 区分
+distinguish |英 [dɪ'stɪŋgwɪʃ]  美 [dɪ'stɪŋɡwɪʃ]| vt. 区分；辨别；使杰出，使表现突出/vi. 区别，区分；辨别/
+Over the next few years he distinguished himself as a leading constitutional scholar.在随后的几年中，他作为宪法学的权威学者而享有盛誉。
+There were cries, calls. He could distinguish voices.有各种各样的哭声和叫喊声。他能从中分辨出声音。
+There is something about music that distinguishes it from all other art forms.音乐中一些因素使之有别于其他艺术形式。
+Research suggests that babies learn to see by distinguishing between areas of light and dark.研究显示婴儿是通过区分明亮区域和黑暗区域来学会观看的。
+Could he distinguish right from wrong?他能辨别是非吗？
+
+
+A chamber is a room designed and equipped for a particular purpose. (作特殊用途的) 房间
+You can refer to a country's legislature or to one section of it as a chamber. 议院
+A chamber is a large room, especially one that is used for formal meetings. 会议厅
+chamber |英 ['tʃeɪmbə]  美 [ˈtʃeɪmbər]| n. （身体或器官内的）室，膛；房间；会所/adj. 室内的；私人的，秘密的/vt. 把…关在室内；装填（弹药等）/n. (Chamber)人名；(英)钱伯/
+For many, the dentist's office remains a torture chamber.对许多人来说，牙科诊室仍是一间行刑室。
+More than 80 parties are contesting seats in the two-chamber parliament.80多个政党在竞争该议会两院的席位。
+We are going to be in the council chamber every time he speaks.我们每次都在会议厅听他讲话。
+
+
+Someone's credentials are a letter or certificate that proves their identity or qualifications. (身份或资格的) 证明文件
+Someone's credentials are their previous achievements, training, and general background, which indicate that they are qualified to do something. (表明某人有资格做某事的) 资历
+credentials || n. [管理] 证书；文凭；信任状（credential的复数）/v. 得到信用；授…以证书（credential的三单形式）/
+The new ambassador to Lebanon has presented his credentials to the president.驻黎巴嫩新任大使已经向总统呈递了国书。
+...her credentials as a Bach specialist.…她作为一名巴赫研究专家的资历。
+
+
+
+invigilate |英 [ɪnˈvɪdʒɪleɪt]  美 [ɪnˈvɪdʒɪleɪt]| v. （英）监考，看守/
+
+
+
+If you recover money that you have spent, invested, or lent to someone, you get the same amount back. 收回 (花掉、投资或借出的钱)
+If you recover a mental or physical state, it comes back again. For example, if you recover consciousness, you become conscious again. 恢复 (身心状态或意识)
+If you recover something that has been lost or stolen, you find it or get it back. 重新找回
+If something recovers from a period of weakness or difficulty, it improves or gets stronger again. (从弱势或困境中) 好转
+If you recover from an unhappy or unpleasant experience, you stop being upset by it. (从不愉快的经历中) 恢复
+When you recover from an illness or an injury, you become well again. 痊愈; 恢复健康
+recover |英 [rɪ'kʌvə]  美 [rɪ'kʌvɚ]| vt. 恢复；弥补；重新获得/vi. 恢复；胜诉；重新得球/n. 还原至预备姿势/n. (Recover)人名；(西)雷科韦尔/
+Legal action is being taken to recover the money.正采取法律措施来收回那笔钱。
+She had a severe attack of asthma and it took an hour to recover her breath.她犯了一次严重的哮喘，一个小时之后才恢复正常呼吸。
+Police raided five houses in Brooklyn and recovered stolen goods.警察突击搜查了位于布鲁克林的5栋住宅，找回了被盗物品。
+He recovered from a 4-2 deficit to reach the quarter-finals.他从4－2的失利中恢复过来，进入1/4决赛。
+...a tragedy from which he never fully recovered.…一场他再也没有完全从中恢复过来的悲剧。
+He is recovering from a knee injury.他的膝伤正在痊愈。
+
+
+The artillery is the section of an army that is trained to use large, powerful guns. 炮兵部队
+Artillery consists of large, powerful guns that are transported on wheels and used by an army. 大炮
+artillery |英 [ɑː'tɪlərɪ]  美 [ɑr'tɪləri]| n. 火炮；大炮；炮队；炮术/
+From 1935 to 1937 he was in the artillery.从1935年到1937年他在炮兵部队。
+Using tanks and heavy artillery, they seized the town.他们使用坦克和重炮攻下了这座城市。
+
+
+ventilation 通风
+If you ventilate a room or building, you allow fresh air to get into it. 使通风
+ventilate |英 ['ventɪleɪt]  美 ['vɛntɪlet]| vt. 使通风；给…装通风设备；宣布/
+The only ventilation comes from tiny sliding windows.惟一的通风来自几扇小小的推拉窗。
+Ventilate the room properly when stripping paint.在刮漆的时候要适当地使房间通风。
+
+
+If you reproach yourself, you think with regret about something you have done wrong. 责备 (自己)
+If you look at or speak to someone with reproach, you show or say that you are disappointed, upset, or angry because they have done something wrong. 责备; 指责
+If you reproach someone, you say or show that you are disappointed, upset, or angry because they have done something wrong. 责备; 指责
+reproach |英 [rɪ'prəʊtʃ]  美 [rɪ'protʃ]| n. 责备；耻辱/vt. 责备；申斥/
+You've no reason to reproach yourself, no reason to feel shame.你没有理由责备自己，也没有理由感到羞愧。
+He looked at her with reproach.他用责备的目光看着她。
+She is quick to reproach anyone who doesn't live up to her own high standards.她动不动就指责达不到她高标准的人。
+
+
+If you say that a place is a dump, you think it is ugly and unpleasant to live in or visit. 肮脏不堪的地方
+A dump is a place where rubbish and waste material are left, for example, on open ground outside a town. 垃圾场
+To dump computer data or memory means to copy it from one storage system onto another, such as from disk to magnetic tape. 转储
+If you dump someone, you end your relationship with them. 抛弃 (某人)
+If a firm or company dumps goods, it sells large quantities of them at prices far below their real value, usually in another country, in order to gain a bigger market share or to keep prices high in the home market. 倾销
+To dump something such as an idea, policy, or practice means to stop supporting or using it. 抛弃 (念头、政策或惯例)
+dumping 倾倒; 丢弃
+If something is dumped somewhere, it is put or left there because it is no longer wanted or needed. 丢弃
+If you dump something somewhere, you put it or unload it there quickly and carelessly. 扔下; 倾倒
+dump |英 [dʌmp]  美 [dʌmp]| vt. 倾倒；倾卸；丢下，卸下；摆脱，扔弃；倾销/vi. 倒垃圾；突然跌倒或落下；卸货；转嫁（责任等）/n. 垃圾场；仓库；无秩序地累积/n. （英）邓普（人名，男子教名Humphrey、Humphry的昵称）/
+...print it out and it'll do a screen dump of what's there.把它打印出来，它会将所在的信息进行屏幕转储。
+"What a dump!" Christabel said, standing in the doorway of the youth hostel.克丽丝特布尓站在青年旅舍的门口说道：“真是个肮脏的地方！”
+...companies that bring their waste straight to the dump.…将废弃物直接运到垃圾场的公司。
+All the data is then dumped into the main computer.所有的资料接着被转储到主计算机中。
+My heart sank because I thought he was going to dump me for another girl.想到他将抛弃我去追求另一个女孩，我的心沉了。
+It produces more than it needs, then dumps its surplus onto the world market.它出产过剩，于是就将过剩的产品倾销到全球市场。
+The party dumped the policy of nationalization in favour of the free market.该党抛弃了国有化政策，转而支持自由市场政策。
+German law forbids the dumping of hazardous waste on German soil.德国法律禁止在德国国土上倒弃危险废弃物。
+The getaway car was dumped near the motorway.那辆逃亡的小汽车被丢弃在高速公路附近。
+We dumped our bags at the nearby Grand Hotel and hurried toward the market.我们把包扔在附近的格兰德旅馆，急匆匆地向市场赶去。
+
+
+If something such as an action speaks volumes about a person or thing, it gives you a lot of information about them. 充分表明
+Thevolume of a radio, television, or sound system is the loudness of the sound it produces. (收音机、电视机或音响系统的) 音量
+A volume is a collection of several issues of a magazine, for example, all the issues for one year. 合订本
+A volume is one book in a series of books. (书籍的) 卷
+The volume of an object is the amount of space that it contains or occupies. 容积
+The volume of something is the amount of it that there is. 量
+volume |英 ['vɒljuːm]  美 ['vɑljum]| n. 量；体积；卷；音量；大量；册/adj. 大量的/vi. 成团卷起/vt. 把…收集成卷/
+What you wear speaks volumes about you.你的穿戴能充分表明你的方方面面。
+He turned down the volume.他调低了音量。
+...bound volumes of the magazine.…杂志的合订本。
+...the first volume of his autobiography.…他自传的第一卷。
+When egg whites are beaten they can rise to seven or eight times their original volume.打过的蛋清，体积可以涨到原来的七八倍。
+Senior officials will be discussing how the volume of sales might be reduced.高级官员们将讨论如何才能减少销售量。
+
+
+A coalition is a group consisting of people from different political or social groups who are cooperating to achieve a particular aim. 联盟
+A coalition is a government consisting of people from two or more political parties. 联合政府
+coalition |英 [,kəʊə'lɪʃ(ə)n]  美 [ˌkoʊəˈlɪʃn]| n. 联合；结合，合并/
+He had been opposed by a coalition of about 50 civil rights, women's, and Latino organizations.他遭到一个联盟的反对，该联盟由大约五十个民权组织、妇女组织和拉美人组织构成。
+Since June the country has had a coalition government.从6月起，这个国家有了一个联合政府。
+
+
+An opening is a job that is available. 空缺的职位
+An opening is a good opportunity to do something, for example, to show people how good you are. 机遇
+An opening in a forest is a small area where there are no trees or bushes. (林中) 空地
+An opening is a hole or empty space through which things or people can pass. 缺口
+Theopeningof something such as a book, play, or concert is the first part of it. (书、戏剧、音乐会的) 开始部分
+The opening event, item, day, or week in a series is the first one. 第一个的
+opening |英 ['əʊp(ə)nɪŋ]  美 ['opənɪŋ]| n. 开始；机会；通路；空缺的职位/adj. 开始的/v. 开放（open的ing形式）；打开；公开/
+We don't have any openings now, but we'll call you if something comes up.眼下我们没有空缺的职位。如果有了，我们会给你打电话的。
+Her capabilities were always there; all she needed was an opening to show them.她的能力一直就在那儿；她所需要的只是一个展示它们的机会。
+I glanced down at the beach as we passed an opening in the trees.我们穿过林中空地时，我向下瞥了一眼海滩。
+He squeezed through a narrow opening in the fence.他从围栏的一个狭窄缺口挤了过去。
+The opening of the scene depicts Akhnaten and his family in a moment of intimacy.开头一幕描述阿肯那顿及其家人亲密无间的一个时刻。
+They returned to play in the season's opening game.他们回来参加了本赛季的首场比赛。
+
+
+A hit is a single visit to a website. (网站的) 点击
+If a CD, film, or play is a hit, it is very popular and successful. (唱片、电影或戏剧的) 成功
+If you hit a particular high or low point on a scale of something such as success or health, you reach it. 达到
+When a feeling or an idea hits you, it suddenly affects you or comes into your mind. 使突然意识到
+If something hits a person, place, or thing, it affects them very badly. 对…造成严重影响
+Hit is also a noun. 击中
+If a bomb or missile hits its target, it reaches it. (炸弹或导弹) 击中
+When one thing hits another, it touches it with a lot of force. 猛撞
+If you hit someone or something, you deliberately touch them with a lot of force, with your hand or an object held in your hand. 打
+hit |英 [hɪt]  美 [hɪt]| vt. 打击；袭击；碰撞；偶然发现；伤…的感情/vi. 打；打击；碰撞；偶然碰上/n. 打；打击；（演出等）成功；讽刺/
+Dad and Walter hit it off straight away.爸爸和沃尔特一见如故。
+Our small company has had 78,000 hits on its Internet pages.我们的小公司的网页已被点击了7.8万次。
+The song became a massive hit in 1945.这首歌在1945年取得了巨大成功。
+He admits to having hit the lowest point in his life.他承认自己跌到了一生中的最低谷。
+It hit me that I had a choice.我突然意识到我可以有所选择。
+About two hundred people died in the earthquake which hit northern Peru.大约两百人在那场袭击秘鲁北部的地震中丧生。
+The plan to charge motorists to use the motorway is going to hit me hard.向汽车驾驶员收取高速公路使用费这一方案会严重影响到我。
+First a house took a direct hit and then the rocket exploded.首先一幢房子被直接击中，接着火箭弹爆炸了。
+...multiple-warhead missiles that could hit many targets at a time.…可以一次击中多个目标的多弹头导弹。
+The car had apparently hit a traffic sign before skidding out of control.汽车显然在失控滑出前猛地撞到了一个交通指示牌。
+Find the exact grip that allows you to hit the ball hard.找到能让你大力击球的准确握拍方法。
+

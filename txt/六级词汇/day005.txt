@@ -1,0 +1,337 @@
+figure							n.数字，人物，身材，插图vi.出现，合乎情理vt.认为
+frighten					vt.使...惊恐vi.使...惊恐
+preindustrial				adj.工业化前的
+furnish					vt.为...配备家具，提供
+scarcity					n.匮乏，稀有
+transform					vt.改变
+misled					vt.误导
+intervene					vi.介入，阻碍
+vary							vi.相异，变化vt.改变
+bureaucracy					n.官僚主义，政府官员
+recruiter					n.征兵人员
+pattern					n.图案，榜样，模式，样品vt.模仿，装饰
+necessity					n.必要，必需品
+deny						vt.否认，拒绝给予
+drift						vi.漂流，顺其自然，n.流动，偏航vt.漂流
+endorsement					n.支持，认可，宣传
+dare						vt.激，敢n.激将
+consultancy					n.咨询公司，咨询的
+constant						adj.持续的，不变的n.常数，不变的
+deposit					vt.放下，存放，使...沉积n.存款，定金，<化学>沉淀
+transmit					vt.传播vi.广播
+undermine							vt.暗中颠覆，暗中破坏，侵蚀
+resign						vi.辞职vt.辞职
+respective					adj.各自的
+consent					vi.同意n.同意
+reunion					n.团聚
+premium					n.附加费(溢价)adj.优质的
+interpretation				n.理解，说明，口译
+concrete						adj.具体的，混凝土(的)n.混凝土
+facility						n.场所，特色服务，便利，才能
+facilities					n.设施
+\\\\
+
+In geometry, a figure is a shape, especially a regular shape. 几何图形
+In books and magazines, the diagrams which help to show or explain information are referred to as figures. 图表
+If you say that someone is, for example, a mother figure or a hero figure, you mean that other people regard them as the type of person stated or suggested. 代表
+Someone who is referred to as a figure of a particular kind is a person who is well-known and important in some way. 重要人物
+Your figure is the shape of your body. 身材
+In art, a figure is a person in a drawing or a painting, or a statue of a person. 人像
+You refer to someone that you can see as a figure when you cannot see them clearly or when you are describing them. 身影
+A figure is any of the ten written symbols from 0 to 9 that are used to represent a number. 个位数字
+A figure is a particular amount expressed as a number, especially a statistic. 数字
+figure |英 ['fɪgə]  美 ['fɪɡjɚ]| n. 数字；人物；图形；价格；（人的）体形；画像/vi. 计算；出现；扮演角色/vt. 计算；认为；描绘；象征/
+Human rights violations figured prominently in the report.侵犯人权出现在报告中的显要位置。
+When I finished, he said, "Yeah. That figures."我做完时，他说：“嗯，正如所料。”
+She figured that both she and Ned had learned a lot from the experience.她想她和内德都从这次经历中学到了很多。
+Inflation, which has usually been in single figures, is running at more than 12%.通货膨胀率通常都是一位数字，正飙升至12%以上。
+Draw a pentagon, a regular five-sided figure.画一个五边形，一个规则的五边图形。
+If you look at a world map (see Figure 1) you can identify the major wine-producing regions.如果你看看世界地图（见图1），你就能辨认出主要的葡萄酒生产地区。
+Daniel Boone, the great hero figure of the frontier.丹尼尔·布恩是伟大的前线英雄的代表。
+The movement is supported by key figures in the three main political parties.这场运动由3个主要政党的重要人物支持。
+Take pride in your health and your figure.为你的健康和身材感到骄傲。
+...a life-size bronze figure of a brooding, hooded woman.…一个真人大小、戴着头巾、正在沉思的女铜像。
+Ernie saw the dim figure of Rose in the chair.厄尼看到了罗斯坐在椅子里的模糊身影。
+...the glowing red figures on the radio alarm clock which read 4:22 a.m.…收音机闹钟上闪闪发光的红色数字显示凌晨4点22分。
+It will not be long before the inflation figure starts to fall.过不了多久，通货膨胀的数字就会开始下降。
+It would be very nice if we had a true figure of how many people in this country haven't got a job.要是我们有一个确切的数字反映这个国家到底有多少人没有工作就好了。
+
+
+If something frightens the life out of you, frightens the wits out of you, or frightens you out of your wits, it causes you to feel suddenly afraid or gives you a very unpleasant shock. 使吓得魂不附体
+If something or someone frightens you, they cause you to suddenly feel afraid, anxious, or nervous. 使惊恐
+frighten |英 ['fraɪt(ə)n]  美 ['fraɪtn]| vt. 使惊吓；吓唬…/vi. 害怕，惊恐/
+Fairground rides are intended to frighten the life out of you.露天游乐场的飞车就是要把你们吓得魂不附体。
+He knew that Soli was trying to frighten him, so he smiled to hide his fear.他知道索利想吓唬他，因此微笑着掩饰自己的恐惧。
+
+
+ Intelligibility was enhanced, not only by the steeply raked seating, but also by the naturally low background noise of a preindustrial society.  不仅是急剧倾斜的座位，前工业化社会的低背景噪音都使语音清晰度得到了提高。
+ Am I suggesting that we should return to the preindustrial mode of production or to nineteenth-century "free enterprise" capitalism?  我是否在建议我们应回到工业化前的生产模式或回到十九世纪"自由企业"资本主义时期呢？
+ Therefore, war and population decline became common consequences of climate-induced ecological stress in the late preindustrial era.  因此，在晚期的前工业化时代，当因气候恶化而造成生态环境压力时，战争和人口衰退就会成为通常的结果。
+preindustrial |英 [,priːɪn'dʌstrɪəl]  美 [,priɪn'dʌstriəl]| adj. 工业化前的；未工业化的/
+
+
+
+If you furnish someone with something, you provide or supply it. 提供
+If you furnish a room or building, you put furniture and furnishings into it. 装潢; 布置 (房间、建筑物)
+furnish |英 ['fɜːnɪʃ]  美 ['fɝnɪʃ]| vt. 提供；供应；装备/
+They'll be able to furnish you with the rest of the details.他们将能够给你提供其余的细节。
+Many proprietors try to furnish their hotels with antiques.许多企业主尽可能用古董装饰他们的旅馆。
+
+
+If there is a scarcity of something, there is not enough of it for the people who need it or want it. 缺乏; 稀少
+scarcity |英 ['skeəsɪtɪ]  美 ['skɛrsəti]| n. 不足；缺乏/
+...an ever increasing scarcity of water.…越来越匮乏的水资源。
+
+
+transformation 彻底改变
+To transform something or someone means to change them completely and suddenly so that they are much better or more attractive. 彻底改变 (使更好、更有吸引力)
+transformation 改变; 转换
+To transform something into something else means to change or convert it into that thing. 使改变; 使转换
+transform |英 [træns'fɔːm; trɑːns-; -nz-]  美 [træns'fɔrm]| vt. 改变，使…变形；转换/vi. 变换，改变；转化/
+In the last five years he's undergone a personal transformation.在过去的5年里，他完全变了个人。
+Industrialization transformed the world.工业化彻底改变了世界。
+Norah made plans for the transformation of an attic room into a study.诺拉制订了将阁楼间改造为书房的几个方案。
+Your metabolic rate is the speed at which your body transforms food into energy.你的新陈代谢率就是你身体将食物转换成能量的速度。
+
+
+
+misled |英/美 [,mɪs'led]| v. 把…带错方向（mislead的过去式）/
+
+
+
+If an event intervenes, it happens suddenly in a way that stops, delays, or prevents something from happening. 干扰
+If you intervene, you interrupt a conversation in order to add something to it. 插话
+If you intervene in a situation, you become involved in it and try to change it. 干预
+intervene |英 [ɪntə'viːn]  美 [,ɪntɚ'vin]| vi. 干涉；调停；插入/
+The mailboat arrived on Friday mornings unless bad weather intervened.除非受到恶劣天气的干扰，邮船于星期五上午到达。
+Hernandez intervened and told me to stop it.贺尔南德兹插话，不让我再说下去。
+The situation calmed down when police intervened.警察干预后，局势平静了下来。
+
+
+If something varies or if you vary it, it becomes different or changed. 变化; 使变化
+If things vary, they are different from each other in size, amount, or degree. 各不相同
+vary |英 ['veərɪ]  美 [ˈveri]| vi. 变化；变异；违反/vt. 改变；使多样化；变奏/n. (Vary)人名；(英、法、罗、柬)瓦里/
+The cost of the alcohol duty varies according to the amount of wine in the bottle.这项酒税的额度根据瓶中酒量的不同而变化。
+The text varies from the earlier versions.这一文本有别于那些早期的版本。
+As they're handmade, each one varies slightly.由于它们是手工制作的，每一件都会略有不同。
+
+
+Bureaucracy refers to all the rules and procedures followed by government departments and similar organizations, especially when you think that these are complicated and cause long delays. 官僚作风
+A bureaucracy is an administrative system operated by a large number of officials. 官僚体制
+bureaucracy |英 [,bjʊ(ə)'rɒkrəsɪ]  美 [bjʊ'rɑkrəsi]| n. 官僚主义；官僚机构；官僚政治/
+People usually complain about too much bureaucracy.人们通常会抱怨过多的官僚作风。
+State bureaucracies can tend to stifle enterprise and initiative.国家官僚体制会压抑人的进取心和积极性。
+
+
+ Every recruiter is different, which makes this a challenge.  每个招聘人员都是不同的，这点是个挑战。
+ Let your recruiter know how you have adapted to changing environments in the past.  让招聘人员了解你过去曾经如何适应不断改变的环境。
+ Therefore, if recruiting is a major function, it may be in the company's best interest to have a professional recruiter and another employee to handle all the other functions.  因此，如果招聘是一个重要的职能，符合该公司的最大利益的做法是，有专业的招聘人员和另一名雇员来处理所有其他职能。
+recruiter |英 [rɪ'kruːtə]  美 [rɪ'krʊtɚ]| n. 招聘人员，征兵人员/
+
+
+
+A pattern is a diagram or shape that you can use as a guide when you are making something such as a model or a piece of clothing. 参照图形
+A pattern is an arrangement of lines or shapes, especially a design in which the same shape is repeated at regular intervals over a surface. 图案
+A pattern is the repeated or regular way in which something happens or is done. 模式
+pattern |英 ['pæt(ə)n]  美 ['pætɚn]| n. 模式；图案；样品/vt. 模仿；以图案装饰/vi. 形成图案/
+Send for our free patterns to knit yourself.索取我们免费的参照图形以便自己织。
+...cutting out a pattern for slacks.…剪出一个便裤的纸样。
+...a golden robe embroidered with red and purple thread stitched into a pattern of flames.…一件用红紫相间的线镶了火焰图案的边的金色长袍。
+All three attacks followed the same pattern.3次袭击都依照同一模式。
+
+
+A situation or action that is a necessity is necessary and cannot be avoided. 不可避免
+A necessity is something that you must have in order to live properly or do something. 必需品
+If you say that something is of necessity the case, you mean that it is the case because nothing else is possible or practical under the circumstances. 势必
+The necessity of something is the fact that it must happen or exist. 必要性
+necessity |英 [nɪ'sesɪtɪ]  美 [nə'sɛsəti]| n. 需要；必然性；必需品/
+The president pleaded that strong rule from the centre was a necessity.总统争辩说来自中央的强有力的统治是一种必然。
+Water is a basic necessity of life.水是一种基本生活必需品。
+...large families where children, of necessity, shared a bed.…孩子们必定共睡一张床的大型家庭。
+As soon as the necessity for action is over the troops must be withdrawn.一旦军事行动的必要性不复存在，部队必须撤离。
+There is agreement on the necessity of reforms.关于改革的必要性有一致意见。
+
+
+If you deny someone something that they need or want, you refuse to let them have it. 拒绝给予
+When you deny something, you state that it is not true. 否认
+deny |英 [dɪ'naɪ]  美 [dɪ'nai]| vt. 否定，否认；拒绝给予；拒绝…的要求/vi. 否认；拒绝/
+Two federal courts ruled that the military cannot deny prisoners access to lawyers.两联邦法院裁定军方不能拒绝让囚犯聘请律师。
+The government has denied that the authorities have uncovered a plot to assassinate the president.政府否认当局已经发现一个暗杀总统的阴谋。
+She denied both accusations.她否认对她的两项指控。
+
+
+Thedrift of an argument or speech is the general point that is being made in it. (辩论、演说等的) 主旨
+A drift is a mass of snow that has built up into a pile as a result of the movement of wind. (吹积成的) 雪堆
+A drift is a movement away from somewhere or something, or a movement toward somewhere or something different. 移向; 移动
+If snow drifts, it builds up into piles as a result of the movement of the wind. 吹积
+If sounds drift somewhere, they can be heard but they are not very loud. (声音) 隐约传出
+To drift somewhere means to move there slowly or gradually. 缓慢地移动
+If you say that someone drifts around, you mean that they travel from place to place without a plan or settled way of life. 漂泊; 流浪
+If someone or something drifts into a situation, they get into that situation in a way that is not planned or controlled. 脱离正途; 偏离
+When something drifts somewhere, it is carried there by the movement of wind or water. 漂流
+drift |英 [drɪft]  美 [drɪft]| n. 漂流，漂移；趋势；漂流物/vi. 漂流，漂移；漂泊/vt. 使…漂流；使…受风吹积/
+Grace was beginning to get his drift.格雷斯开始抓住他的主旨了。
+A nine-year-old boy was trapped in a snow drift.一个9岁的男孩陷在雪堆里了。
+...the drift toward the cities.…向城市的流动。
+The snow, except where it drifted, was only calf-deep.除了被风吹积起来的地方外，积雪只深及小腿。
+Cool summer dance sounds are drifting from the stereo indoors.屋内立体声音响飘出美妙的夏季舞曲。
+As rural factories lay off workers, people drift toward the cities.随着乡镇企业裁员，人们陆续移向城市。
+You've been drifting from job to job without any real commitment.你频频换工作，全无恒心。
+We need to offer young people drifting into crime an alternative set of values.我们需要给误入犯罪歧途的年轻人提供另一套价值观。
+We proceeded to drift on up the river.我们继续在河上漂流着。
+
+
+An endorsement for a product or company involves appearing in advertisements for it or showing support for it. 代言
+An endorsement is a statement or action that shows you support or approve of something or someone. 认可
+endorsement |英 [ɪn'dɔːsm(ə)nt; en-]  美 [ɪn'dɔrsmənt]| n. 认可，支持；背书；签注（文件）/
+His commercial endorsements for everything from running shoes to breakfast cereals will take his earnings to more than ten million dollars a year.他的商业代言从跑鞋到早餐麦片一应俱全，令其年收入达到一千多万美元。
+This is a powerful endorsement for his softer style of government.这是对他的更温和的执政风格的强有力认可。
+
+
+You can use "I daresay" or "I dare say" before or after a statement to indicate that you believe it is probably true. 我相信
+You say "how dare you" when you are very shocked and angry about something that someone has done. 你竟敢…
+If you say to someone "don't you dare" do something, you are telling them not to do it and letting them know that you are angry. 看你敢…
+A dare is a challenge which one person gives to another to do something dangerous or frightening. 挑战
+If you dare someone to do something, you challenge them to prove that they are not frightened of doing it. 向…挑战
+Dare is also a modal. 敢; 竟敢
+If you do not dare to do something, you do not have enough courage to do it, or you do not want to do it because you fear the consequences. If you dare to do something, you do something which requires a lot of courage. 敢于
+dare |英 [deə]  美 [dɛr]| n. 挑战；挑动/vt. 敢冒；不惧/vi. 敢；胆敢/n. (Dare)人名；(英)戴尔；(意)达雷/
+I daresay that the computer would provide a clear answer to that.我相信电脑会对此给出明确的答案。
+How dare you pick up the phone and listen in on my conversations!你竟敢拿起电话偷听我的谈话！
+Allen, don't you dare go anywhere else, you hear?艾伦，你哪儿都不许去，听见了吗？
+Jones broke into a military base on a dare.约翰接受了挑战，冲进一个军事基地。
+Over coffee, she lit a cigarette, her eyes daring him to comment.她一边喝着咖啡，一边点了支烟，用目光激他作出评价。
+The yen is weakening. But Tokyo dare not raise its interest rates again.日元在贬值。但东京不敢再次上调利率。
+Dare she risk staying where she was?她敢冒险呆在原地不动吗？
+Most people hate Harry but they don't dare to say so.多数人都讨厌哈里，但他们不敢说出来。
+
+
+A consultancy is a company that gives expert advice on a particular subject. 咨询公司
+consultancy |英 [kən'sʌlt(ə)nsɪ]  美 [kən'sʌltənsi]| n. 咨询公司；顾问工作/
+A survey of 57 hospitals by Newchurch, a consultancy, reveals striking improvements.纽彻奇咨询公司对57家医院的调查显示明显的改善。
+
+
+If an amount or level is constant, it stays the same over a particular period of time. (在某时段内) 保持不变的
+constantly 持续不断地
+You use constant to describe something that happens all the time or is always there. 常发生的; 常存在的
+constant |英 ['kɒnst(ə)nt]  美 ['kɑnstənt]| adj. 不变的；恒定的；经常的/n. [数] 常数；恒量/n. (Constant)人名；(德)康斯坦特/
+The body feels hot and the temperature remains more or less constant at the new elevated level.身体感到热，可体温保持在升高后的新高度上差不多稳定不变。
+The direction of the wind is constantly changing.风的方向在不断地变。
+Inflation is a constant threat.通货膨胀是一种持续的威胁。
+She suggests that women are under constant pressure to be abnormally thin.她提出女性受持续的压力之下要异常苗条。
+
+
+If you deposit something somewhere, you put it where it will be safe until it is needed again. 寄存
+To deposit someone or something somewhere means to put them or leave them there. 放置
+If you deposit a sum of money, you put it into a bank account or savings account. 存储
+A deposit is a sum of money which you put into a bank account. 银行存款
+A deposit is a sum of money which you pay when you start renting something. The money is returned to you if you do not damage what you have rented. 押金
+A deposit is an amount of a substance that has been left somewhere as a result of a chemical or geological process. 沉积物; 矿床
+A deposit is a sum of money which is part of the full price of something, and which you pay when you agree to buy it. 保证金
+deposit |英 [dɪ'pɒzɪt]  美 [dɪ'pɑzɪt]| n. 存款；押金；订金；保证金；沉淀物/vt. 使沉积；存放/vi. 沉淀/
+You are advised to deposit valuables in the hotel safe.建议您将贵重物品寄存在旅馆的保险柜里。
+Mr. Crenshaw deposited the boys and their suitcases on Mr. Peck's lawn.克伦肖先生把男孩子和他们的手提箱留在了派克先生的草坪上。
+The customer has to deposit a minimum of $100 monthly.顾客每月必须至少存入$100。
+She told me I should make a deposit every week and they'd stamp my book.她告诉我我每周都要存一次钱，而他们会在我的存折上盖印。
+I put down a $500 security deposit for another apartment.我为另一套公寓支付了$500押金。
+...underground deposits of gold and diamonds.…黄金和钻石的地下矿床。
+The initial deposit required to open an account is a minimum 100 dollars.开户需要的首笔存入额是至少100美元。
+
+
+If an object or substance transmits something such as sound or electrical signals, the sound or signals are able to pass through it. 传导 (声音、电子信号等)
+If one person or animal transmits a disease to another, they have the disease and cause the other person or animal to have it. 传播 (疾病)
+When radio and television programmes, computer data, or other electronic messages are transmitted, they are sent from one place to another, using wires, radio waves, or satellites. 传播 (广播电视节目、计算机信息等)
+transmit |英 [trænz'mɪt; trɑːnz-; -ns-]  美 [trænzˈmɪt]| vt. 传输；传播；发射；传达；遗传/vi. 传输；发射信号/
+These thin crystals transmit much of the power.这些薄薄的晶体能传导大部分的能量。
+...mosquitoes that transmit disease to humans.…向人类传播疾病的蚊子。
+This is currently the most efficient way to transmit certain types of data like electronic mail.这是目前传输电子邮件等某类数据最有效的方法。
+The game was transmitted live.这场比赛被现场直播。
+
+
+If you undermine someone's efforts or undermine their chances of achieving something, you behave in a way that makes them less likely to succeed. 破坏; 损害 (某人的努力或成功的机会)
+If you undermine someone or undermine their position or authority, you make their authority or position less secure, often by indirect methods. (通常以间接方式) 动摇 (某人的地位或权威)
+If you undermine something such as a feeling or a system, you make it less strong or less secure than it was before, often by a gradual process or by repeated efforts. 逐渐削弱; 逐渐动摇
+undermine |英 [ʌndə'maɪn]  美 ['ʌndɚ'maɪn]| vt. 破坏，渐渐破坏；挖掘地基/
+The continued fighting threatens to undermine efforts to negotiate an agreement.持续的战斗有可能破坏通过谈判达成协议的努力。
+She undermined him and destroyed his confidence in his own talent.她动摇了他的地位，摧毁了他对自己才能的信心。
+Offering advice on each and every problem will undermine her feeling of being adult.每个问题都为她提出忠告会逐渐削弱她的成年意识。
+
+
+If you resign yourself to an unpleasant situation or fact, you accept it because you realize that you cannot change it. 使屈从
+If you resign from a job or position, you formally announce that you are leaving it. 辞职
+resign |英 [rɪ'zaɪn]  美 [rɪ'zaɪn]| vt. 辞职；放弃；委托；使听从/vi. 辞职/n. 辞去职务/
+Pat and I resigned ourselves to yet another summer without a boat.帕特和我将就着又过了一个没有船的夏天。
+Mr Robb resigned his position last month.罗布先生上个月辞去了他的职位。
+A hospital administrator has resigned over claims he lied to get the job.一位医院主管因为有人声称他的职位是骗来的而辞职了。
+
+
+Respective means relating or belonging separately to the individual people you have just mentioned. 各自的
+respective |英 [rɪ'spektɪv]  美 [rɪ'spɛktɪv]| adj. 分别的，各自的/
+Steve and I were at very different stages in our respective careers.史蒂夫和我处在各自事业的迥然不同的阶段。
+
+
+If you consent to something, you agree to do it or to allow it to be done. 同意
+If you give your consent to something, you give someone permission to do it. 准许
+consent |英 [kən'sent]  美 [kən'sɛnt]| vi. 同意；赞成；答应/n. 同意；（意见等的）一致；赞成/n. (Consent)人名；(法)孔桑/
+He asked Ginny if she would consent to a small celebration after the christening.他问金尼她是否同意在洗礼仪式后来个小庆祝。
+He finally consented to go.他最终同意去。
+At approximately 11:30 p.m., Pollard finally gave his consent to the search.大约晚上11:30的时候，波拉德终于对搜查予以同意。
+
+
+A reunion is a meeting between people who have been separated for some time. 重逢
+A reunion is a party attended by members of the same family, school, or other group who have not seen each other for a long time. (家庭、学校及其他团体成员的) 重聚会
+reunion |英 [riː'juːnjən; -ɪən]  | n. 重聚；（班级或学校的）同学会，同窗会/
+The children weren't allowed to see her for nearly a week. It was a very emotional reunion.孩子们将近一周都没被允许见她。这是一次非常令人激动的重逢。
+The association holds an annual reunion.这个协会每年举行一次重聚会。
+
+
+If you buy or sell something at a premium, you buy or sell it at a higher price than usual, for example, because it is in short supply. 以高价 (买、卖)
+If something is at a premium, it is wanted or needed, but is difficult to get or achieve. 求之难得
+Premium products are of a higher than usual quality and are often expensive. 高端的
+A premium is a sum of money that you have to pay for something in addition to the normal cost. 附加费
+A premium is a sum of money that you pay regularly to an insurance company for an insurance policy. 保险费
+premium |英 ['priːmɪəm]  美 ['primɪəm]| n. 额外费用；奖金；保险费;(商)溢价/adj. 高价的；优质的/
+He eventually sold the shares back to the bank at a premium.他最终以高价将股票返售给了银行。
+If space is at a premium, choose adaptable furniture that won't fill the room.如果空间很有限，就选购不太占地方的可改装家具。
+At the premium end of the market, business is booming.在市场的高端销售区，生意火暴。
+Even if customers want "solutions," most are not willing to pay a premium for them.即使顾客们想要“解决方案”，大部分人不愿意为此支付附加费。
+It is too early to say whether insurance premiums will be affected.保险费会不会受到影响现在判定还为时过早。
+
+
+A performer's interpretation of something such as a piece of music or a role in a play is the particular way in which they choose to perform it. 演奏; 表演
+An interpretation of something is an opinion about what it means. 解释
+interpretation |英 [ɪntɜːprɪ'teɪʃ(ə)n]  美 [ɪn'tɝprɪ'teʃən]| n. 解释；翻译；演出/
+...a pianist celebrated for his interpretation of Chopin.…一位以演奏萧邦作品而闻名的钢琴家。
+Professor Wolfgang gives the data a very different interpretation.沃尔夫冈教授对数据作出很不一样的解释。
+
+
+A concrete object is a real, physical object. 实物的
+You use concrete to indicate that something is definite and specific. 明确具体的
+When you concrete something such as a path, you cover it with concrete. 给 (道路等) 浇混凝土
+Concrete is a substance used for building which is made by mixing together cement, sand, small stones, and water. 混凝土
+concrete |英 ['kɒŋkriːt]  美 ['kɑŋkrit]| adj. 混凝土的；实在的，具体的；有形的/vi. 凝结/vt. 使凝固；用混凝土修筑/n. 具体物；凝结物/
+...using concrete objects to teach addition and subtraction.…用实物教加减运算。
+There were no concrete proposals on the table.没有提交讨论的具体提议。
+I had no concrete evidence.我当时没有明确而具体的证据。
+He merely cleared and concreted the floors.他只是清理了地板并浇上了混凝土。
+We sat on the concrete floor.我们坐在混凝土地板上。
+The posts have to be set in concrete.这些柱子必须固定在混凝土中。
+
+
+If you have a facility for something, for example learning a language, you find it easy to do. 天赋
+A facility is something such as an additional service provided by an organization or an extra feature on a machine which is useful but not essential. 附加服务; 附加功能
+Facilities are buildings, pieces of equipment, or services that are provided for a particular purpose. 设施
+facility |英 [fə'sɪləti]  美 [fə'sɪləti]| n. 设施；设备；容易；灵巧/
+He and Marcia shared a facility for languages.他和马西娅都具有语言天赋。
+One of the new models has the facility to reproduce speech as well as text.新款型中的一款有复制言语和文本的附加功能。
+What recreational facilities are now available?什么娱乐设施现在是可用的？
+
+
+If you have a facility for something, for example learning a language, you find it easy to do. 天赋
+A facility is something such as an additional service provided by an organization or an extra feature on a machine which is useful but not essential. 附加服务; 附加功能
+Facilities are buildings, pieces of equipment, or services that are provided for a particular purpose. 设施
+facilities |英 [fə'sɪlɪtɪz]  美 [fə'sɪlɪtɪz]| n. 设施；工具，设备/
+He and Marcia shared a facility for languages.他和马西娅都具有语言天赋。
+One of the new models has the facility to reproduce speech as well as text.新款型中的一款有复制言语和文本的附加功能。
+What recreational facilities are now available?什么娱乐设施现在是可用的？
+

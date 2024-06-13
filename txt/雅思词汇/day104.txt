@@ -1,31 +1,273 @@
-crucial				至关重要的
-commodity				商品，有用的东西，可贵品质
-conceive			想出，怀有，怀孕
-monopoly						垄断
-weird			怪异的
-stereotype						模式化观念
-smooth					光滑的，平坦的，圆润的，顺利的，磨平
-clumsy						笨拙的，粗劣的，不娴熟的
-portable						便于携带的，可移植的
-voltage						电压
-nuisance						麻烦事，讨厌的人
-intensify					加强，加剧
-retrieve						取回，检索，挽回
-fist								拳
-twinkle					闪烁
-orchestra				管弦乐队
-conform						遵从，符合
-fallible					易犯错的，会出错的
-fatigue							疲劳，制服
-practitioner				从业人员，实践者
-Catholic					天主教的
-comedy									喜剧
-originate						起源，创作，引发
-allocate						分配
-junior				较年幼的，级别较低的，年少者
-cupboard					橱柜
-moped				闷闷不乐
-plus					加，有利的，加号
-optimism						乐观
-embody				象征，使具体化，包括，收录
+crucial				adj.至关重要的
+commodity				n.商品，有用的东西，可贵品质
+conceive			vt.想出，<比喻>怀有，怀孕vi.怀孕
+monopoly						n.垄断
+weird			adj.怪异的
+stereotype						n.模式化观念vt.模式化观念
+smooth					adj.光滑的，平坦的，圆润的，顺利的vt.磨平
+clumsy						adj.笨拙的，粗劣的，不娴熟的
+portable						adj.便于携带的，可移植的n.便于携带的
+voltage						n.电压
+nuisance						n.麻烦事，讨厌的人
+intensify					vt.加强，加剧vi.加强，加剧
+retrieve						vt.取回，<电脑>检索，挽回
+fist								n.拳
+twinkle					vi.闪烁n.闪烁
+orchestra				n.管弦乐队
+conform						vi.遵从，符合
+fallible					adj.易犯错的，会出错的
+fatigue							n.疲劳vt.疲劳
+fatigues			制服
+practitioner				n.从业人员，实践者
+Catholic					adj.天主教的n.天主教的
+comedy									n.喜剧
+originate						vi.起源vt.创作，引发
+allocate						vt.分配
+junior				adj.较年幼的，级别较低的n.年少者
+cupboard					n.橱柜
+plus					prep.加，adj.加，有利的n.加号
+optimism						n.乐观
+embody				vt.象征，使具体化，包括，收录
 \\\\\\\\
+
+crucially 至关重要地
+If you describe something as crucial, you mean it is extremely important. 至关重要的
+crucial |英 ['kruːʃ(ə)l]  美 ['krʊʃəl]| adj. 重要的；决定性的；定局的；决断的/
+Chewing properly is crucially important.正确地咀嚼是至关重要的。
+He had administrators under him but made the crucial decisions himself.尽管他手下有许多官员，但重要的决定还是他自己做。
+
+
+A commodity is something that is sold for money. 商品
+commodity |英 [kə'mɒdɪtɪ]  美 [kə'mɑdəti]| n. 商品，货物；日用品/
+Prices went up on several basic commodities like bread and meat.面包、肉等几种基本商品的价格上涨了。
+
+
+When a woman conceives a child or conceives, she becomes pregnant. 怀 (胎); 怀孕
+If you conceive a plan or idea, you think of it and work out how it can be done. 构想出
+If you conceive something as a particular thing, you consider it to be that thing. 认为
+If you cannot conceive of something, you cannot imagine it or believe it. 想像; 相信
+conceive |英 [kən'siːv]  美 [kən'siv]| vt. 怀孕；构思；以为；持有/vi. 怀孕；设想；考虑/
+Women, he says, should give up alcohol before they plan to conceive.他说女人在计划怀孕前应该戒酒。
+She had conceived the idea of a series of novels, each of which would reveal some aspect of Chinese life.她已经想出了个关于一个系列小说的主意，每一部都将反映中国人生活的某一方面。
+We conceive of the family as being in a constant state of change.我们认为家庭是处于不断变化之中的。
+The ancients conceived the earth as afloat in water.古人认为地球漂浮在水里。
+We could not conceive that he might soon be dead.我们无法相信他可能很快就会死去。
+I just can't even conceive of that quantity of money.我简直无法想像那样一笔数量的钱。
+
+
+If you say that someone does not have a monopoly on something, you mean that they are not the only person who has that thing. 独有
+A monopoly is a company which is the only one providing a particular product or service. 垄断企业
+If a company, person, or state has a monopoly on something such as an industry, they have complete control over it, so that it is impossible for others to become involved in it. 垄断
+monopoly |英 [mə'nɒp(ə)lɪ]  美 [mə'nɑpəli]| n. 垄断；垄断者；专卖权/
+Women do not have a monopoly on feelings of betrayal.背叛感并非是女人独有的。
+...a state-owned monopoly.…一个国有垄断企业。
+...Russian moves to end a state monopoly on land ownership.…俄罗斯人提议结束国家对土地所有权的垄断。
+
+
+If you describe something or someone as weird, you mean that they are strange. 奇怪的
+weird |英 [wɪəd]  美 [wɪrd]| adj. 怪异的；不可思议的；超自然的/n. （苏格兰）命运；预言/
+Drugs can make you do all kinds of weird things.毒品可以让你做出各种各样奇怪的事情来。
+That first day was weird.第一天很奇怪。
+
+
+If someone is stereotyped as something, people form a fixed general idea or image of them, so that it is assumed that they will behave in a particular way. 把…模式化; 对…产生成见
+A stereotype is a fixed general image or set of characteristics that a lot of people believe represent a particular type of person or thing. 模式化形象; 成见
+stereotype |英 ['sterɪə(ʊ)taɪp; 'stɪərɪə(ʊ)-]  美 ['stɛrɪətaɪp]| vt. 使用铅版；套用老套，使一成不变/n. 陈腔滥调，老套；铅版/
+He was stereotyped by some as a renegade.他被一些人带着成见视为一名叛逆者。
+There's always been a stereotype about successful businessmen.对成功的商人们总有一种成见。
+
+
+If you describe a man as smooth, you mean that he is extremely smart, confident, and polite, often in a way that you find rather unpleasant. 精明的; 圆滑的
+smoothly 顺利地
+You use smooth to describe something that is going well and is free of problems or trouble. 顺利的
+A smooth ride, flight, or sea crossing is very comfortable because there are no unpleasant movements. (乘车﹑飞行或航海) 舒适平稳的
+smoothly 流畅地
+A smooth line or movement has no sudden breaks or changes in direction or speed. (线条或动作) 流畅的
+If you describe a drink such as wine, whisky, or coffee as smooth, you mean that it is not bitter and is pleasant to drink. (酒或咖啡等饮料) 醇和的
+A smooth liquid or mixture has been mixed well so that it has no lumps. 均匀的; (液体或混合物) 细腻的
+A smooth surface has no roughness, lumps, or holes. 光滑的
+smooth |英 [smuːð]  美 [smʊð]| adj. 顺利的；光滑的；平稳的/vt. 使光滑；消除（障碍等）；使优雅；缓和/n. 平滑部分；一块平地/vi. 变平静；变平滑/adv. 光滑地；平稳地；流畅地/
+She stood up and smoothed down her frock.她站了起来，抚平了自己的连衣裙。
+Twelve extremely good-looking, smooth young men have been picked as finalists.12个非常英俊精明的男青年已被选为参加决赛的选手。
+So far, talks at GM have gone smoothly.迄今，在通用汽车公司的会谈进展顺利。
+Political hopes for a swift and smooth transition to democracy have been dashed.向民主快速顺利的过渡的政治愿望已经破灭了。
+The active suspension system gives the car a very smooth ride.活动的悬挂系统使汽车行驶起来非常平稳。
+Make sure that you execute all movements smoothly and without jerking.确保你流畅、无颤动地完成所有动作。
+This exercise is done in one smooth motion.这套体操是由一个流畅的动作完成的。
+This makes the whiskies much smoother.这使威士忌酒醇和得多。
+Continue whisking until the mixture looks smooth and creamy.继续搅拌直至混合物看上去均匀且呈奶油状。
+...a smooth surface such as glass.…玻璃般光滑的表面。
+...a rich cream that keeps skin soft and smooth.…一种可以保持皮肤柔软光滑的富含营养的护肤霜。
+
+
+clumsily 笨拙地; 不得当地
+A clumsy action or statement is not skilful or is likely to upset people. 笨拙的; 不得当的
+clumsily 笨拙地
+A clumsy person moves or handles things in a careless, awkward way, often so that things are knocked over or broken. 笨拙的
+clumsy |英 ['klʌmzɪ]  美 ['klʌmzi]| adj. 笨拙的/
+If the matter were handled clumsily, it could cost Miriam her life.如果问题处理不当，可能会断送米里亚姆的性命。
+The action seemed a clumsy attempt to topple the government.那个企图推翻政府的行动似乎并不得当。
+In the sudden pitch darkness, she scrambled clumsily toward the ladder.在突如其来的一片漆黑中，她笨手笨脚地爬向梯子。
+I'd never seen a clumsier, less coordinated boxer.我还从未见过更加笨拙、更不协调的拳击手。
+
+
+A portable is something such as a television, radio, or computer that can be easily carried or moved. 便携式设备
+A portable machine or device is designed to be easily carried or moved. 便携式的
+portable |英 ['pɔːtəb(ə)l]  美 ['pɔrtəbl]| adj. 手提的，便携式的；轻便的/n. 手提式打字机/
+We bought a portable for the bedroom.我们卧室里买了台便携设备。
+There was a little portable television switched on behind the bar.吧台后有一台便携式小电视机开着。
+
+
+The voltage of an electrical current is its force measured in volts. 电压
+voltage |英 ['vəʊltɪdʒ; 'vɒltɪdʒ]  美 ['voltɪdʒ]| n. [电] 电压/
+The systems are getting smaller and using lower voltages.这些系统正变得更小而且使用更低的电压。
+
+
+If you say that someone or something is a nuisance, you mean that they annoy you or cause you a lot of problems. 令人讨厌的人或事物; 麻烦的人或事情
+nuisance |英 ['njuːs(ə)ns]  美 ['nusns]| n. 讨厌的人；损害；麻烦事；讨厌的东西/
+Sorry to be a nuisance.对不起，麻烦一下。
+He could be a bit of a nuisance when he was drunk.他喝醉时会是一个有点令人讨厌的人。
+
+
+If you intensify something or if it intensifies, it becomes greater in strength, amount, or degree. 加强; 强化
+intensify |英 [ɪn'tensɪfaɪ]  美 [ɪn'tɛnsɪfaɪ]| vi. 增强，强化；变激烈/vt. 使加强，使强化；使变激烈/
+I jump, intensifying the pain in all my muscles.我跳起来，浑身的肌肉更加疼痛了。
+
+
+To retrieve information from a computer or from your memory means to get it back. (从电脑中) 读取 (信息)
+If you manage to retrieve a situation, you succeed in bringing it back into a more acceptable state. 挽回
+If you retrieve something, you get it back from the place where you left it. 找回; 取回
+retrieve |英 [rɪ'triːv]  美 [rɪ'triv]| vt. [计] 检索；恢复；重新得到/vi. 找回猎物/n. [计] 检索；恢复，取回/
+Computers can instantly retrieve millions of information bits.计算机能立刻读取数百万条信息。
+He, the one man who could retrieve that situation, might receive the call.他这个惟一能挽回那个局面的人可能会接到这个电话。
+The men were trying to retrieve weapons left when the army abandoned the island.那些人正试图找回该军队撤离这个岛时留下的武器。
+
+
+Your hand is referred to as your fist when you have bent your fingers in toward the palm in order to hit someone, to make an angry gesture, or to hold something. 拳头
+fist |英 [fɪst]  美 [fɪst]| n. 拳，拳头；〈口〉笔迹；掌握；[印]指标参见号/vt. 紧握；握成拳；用拳打/
+Angry protestors with clenched fists shouted their defiance.愤怒的抗议者们紧握拳头高声抗议。
+
+
+Twinkle is also a noun. 闪烁
+If you say that someone's eyes twinkle, you mean that their eyes express good humour or amusement. (眼睛) 闪烁
+If a star or a light twinkles, it shines with an unsteady light which rapidly and constantly changes from bright to faint. 闪烁
+twinkle |英 ['twɪŋk(ə)l]  美 ['twɪŋkl]| vi. 闪烁；发亮/vt. 使闪耀；闪耀/n. 闪烁/
+A kindly twinkle came into her eyes.她的眼睛里闪烁着亲切的光芒。
+She saw her mother's eyes twinkle with amusement.她看到她母亲的双眸愉快地闪烁着。
+At night, lights twinkle in distant cabins across the valleys.晚上，灯光在山谷对面远处的小木屋里闪烁。
+
+
+Theorchestra or the orchestra seats in a theatre or concert hall are the seats on the first floor directly in front of the stage. 舞台前方一楼座位
+An orchestra is a large group of musicians who play a variety of different instruments together. Orchestras usually play classical music. 管弦乐队
+orchestra |英 ['ɔːkɪstrə]  美 ['ɔrkɪstrə]| n. 管弦乐队；乐队演奏处/
+With the balcony blocked off, patrons filled most of the orchestra seats.楼厅包厢被封闭了，赞助人几乎坐满了舞台前方的一楼座位。
+...the Los Angeles Philharmonic Orchestra.…洛杉矶爱乐乐团。
+
+
+If you conform, you behave in the way that you are expected or supposed to behave. 守规矩
+If something conforms to something such as a law or someone's wishes, it is of the required type or quality. (与法律、愿望等) 相符合
+conform |英 [kən'fɔːm]  美 [kən'fɔrm]| vi. 符合；遵照；适应环境/vt. 使遵守；使一致；使顺从/adj. 一致的；顺从的/
+Many children who can't or don't conform are bullied.许多不守规矩的孩子受欺负。
+The lamp has been designed to conform to new safety standards.该灯设计得符合新的安全标准。
+
+
+fallibility
+If you say that someone or something is fallible, you mean that they are not perfect and are likely to make mistakes or to fail in what they are doing. 易犯错误的
+fallible |英 ['fælɪb(ə)l]  美 ['fæləbl]| adj. 易犯错误的；不可靠的/
+Errors may have been made due to human fallibility.这些过失可能是人为犯错造成的。
+They are only human and all too fallible.他们只不过是普通人，难免会犯错误。
+
+
+Fatigues are clothes that soldiers wear when they are fighting or when they are doing routine jobs. 军服
+Fatigue in metal or wood is a weakness in it that is caused by repeated stress. Fatigue can cause the metal or wood to break. (金属、木材的) 疲劳
+You can say that people are suffering from a particular kind of fatigue when they have been doing something for a long time and feel they can no longer continue to do it. 疲乏
+Fatigue is a feeling of extreme physical or mental tiredness. 疲惫
+fatigue |英 [fə'tiːg]  美 [fə'tig]| n. 疲劳，疲乏；杂役/vt. 使疲劳；使心智衰弱/vi. 疲劳/adj. 疲劳的/
+He never expected to return home wearing combat fatigues.他从未想到会穿着作战服回家。
+The problem turned out to be metal fatigue in the fuselage.问题原来出在机身的金属疲劳。
+...compassion fatigue caused by endless TV and celebrity appeals.…电视和名人无休止的呼吁所引起的怜悯疲劳。
+She continued to have severe stomach cramps, aches, fatigue, and depression.她仍有严重的胃痉挛、疼痛、疲惫和抑郁症状。
+
+
+
+practitioner |英 [præk'tɪʃ(ə)nə]  美 [præk'tɪʃənɚ]| n. 开业者，从业者，执业医生/
+
+
+
+A Catholic is a member of the Catholic Church. 天主教徒
+If you describe a collection of things or people as catholic, you are emphasizing that they are very varied. 广泛的
+The Catholic Church is the branch of the Christian Church that accepts the Pope as its leader and is based in the Vatican in Rome. 天主教的
+Catholic || adj. 天主教的；宽宏大量的/n. 天主教徒；罗马天主教/
+At least nine out of ten Mexicans are baptized Catholics.至少十分之九的墨西哥人是受过洗礼的天主教徒。
+He was a man of catholic tastes, a lover of grand opera, history, and the fine arts.他是一个兴趣广泛的人，爱好大歌剧、历史和美术。
+...Catholic priests.…天主教教士。
+...the Catholic Church.…天主教会。
+
+
+A comedy is a play, film, or television programme that is intended to make people laugh. 喜剧
+Comedy consists of types of entertainment, such as plays and film, or particular scenes in them, that are intended to make people laugh. 喜剧
+comedy |英 ['kɒmɪdɪ]  美 ['kɑmədi]| n. 喜剧；喜剧性；有趣的事情/
+The movie is a romantic comedy.这部电影是一个浪漫喜剧。
+Actor Dom Deluise talks about his career in comedy.演员多姆·德卢斯谈论他的喜剧事业。
+
+
+When something originates or when someone originates it, it begins to happen or exist. 始创; 起源
+originate |英 [ə'rɪdʒɪneɪt; ɒ-]  美 [əˈrɪdʒəˌnet]| vt. 引起；创作/vi. 发源；发生；起航/
+All carbohydrates originate from plants.所有的碳水化合物均来源于植物。
+The disease originated in Africa.这种疾病起源于非洲。
+
+
+If one item or share of something is allocated to a particular person or for a particular purpose, it is given to that person or used for that purpose. 分配
+allocate |英 ['æləkeɪt]  美 ['æləket]| vt. 分配；拨出；使坐落于/vi. 分配；指定/
+The 1985 federal budget allocated $7.3 billion for development programmes.1985年联邦预算拨了73亿美元用于开发项目。
+Tickets are limited and will be allocated to those who apply first.票数有限，将分配给那些先申请的人。
+
+
+Junior is sometimes used after the name of the younger of two men in a family who have the same name, sometimes in order to prevent confusion. The abbreviation is also used. 用于家族中同名两男子中的较年幼者的姓名后
+In the United States, a student in the third year of high school or college is called a junior. (美国中学、大学) 三年级学生
+If you are someone's junior, you are younger than they are. 较年幼者
+Junior is also a noun. 低级别者
+A junior official or employee holds a low-ranking position in an organization or profession. 低级别的 (官员、职员)
+junior |英 ['dʒuːnɪə]  美 ['dʒunɪɚ]| adj. 年少的；后进的；下级的/n. 年少者，晚辈；地位较低者；大学三年级学生/n. (Junior)人名；(英)朱尼尔；(德)尤尼奥尔/
+His son, Arthur Ochs Junior, is expected to succeed him as publisher.他的儿子，小阿瑟·奥克斯，被期望来继承他做出版商。
+Their youngest daughter Amy's a junior at the University of Evansville in Indiana.他们最小的女儿埃米是印第安纳州埃文斯维尔大学的三年级学生。
+She now lives with actor Denis Lawson, 10 years her junior.她现在和比她小10岁的演员丹尼斯·劳森同居。
+He has said legal aid work is for juniors when they start out in the law.他曾说过，法律援助工作适合初涉法律工作的低级别律师来做。
+A handful of junior officers were made to bear responsibility for the incident.几名下级军官被迫对此事件负责。
+
+
+A cupboard is a piece of furniture that has one or two doors, usually contains shelves, and is used to store things. 橱柜
+cupboard |英 ['kʌbəd]  美 ['kʌbɚd]| n. 碗柜；食橱/
+The kitchen cupboard was stocked with cans of soup and food.厨房食橱里储存着一罐罐的汤和食物。
+
+
+
+moped |英 ['məʊped]  美 ['mopɛd]| n. 助动车；机动脚踏两用车/v. 抑郁不乐；生闷气（mope的过去式和过去分词）/
+
+
+
+A plus is an advantage or benefit. 优势; 益处
+You use plus after a number or quantity to indicate that the actual number or quantity is greater than the one mentioned. 略多一些的
+You can use plus when mentioning an additional item or fact. 外加
+Plus before a number or quantity means that the number or quantity is greater than zero. 正的
+You say plus to show that one number or quantity is being added to another. 加
+plus |英 [plʌs]  美 [plʌs]| n. 正号，加号；好处；附加额/adj. 正的；附加的/prep. 加，加上/n. (Plus)人名；(德)普卢斯/
+Well-known figures would be a big plus for the new board.名人会成为新董事会的一大优势。
+There are only 35 staff to serve 30,000-plus customers.只有35名员工为3万多位顾客服务。
+There's easily enough room for two adults and three children, plus a dog in the boot.有足够的空间容纳2个大人和3个小孩。另外，行李箱里还能容纳1只狗。
+The aircraft was subjected to temperatures of minus 65 degrees and plus 120 degrees.这架飞机经受过零下65度和零上120度的考验。
+...$5 for a small locker, plus a $3 deposit.…带锁的小柜子$5，外加$3的押金。
+
+
+Optimism is the feeling of being hopeful about the future or about the success of something in particular. 乐观主义
+optimism |英 ['ɒptɪmɪz(ə)m]  美 ['ɑptɪmɪzəm]| n. 乐观；乐观主义/
+The Indian prime minister has expressed optimism about India's future relations with the U.S.印度总理表达了对未来印美关系的乐观态度。
+
+
+If something is embodied in a particular thing, the second thing contains or consists of the first. 包含; 收录
+To embody an idea or quality means to be a symbol or expression of that idea or quality. 体现; 具体象征
+embody |英 [ɪm'bɒdɪ; em-]  美 [ɪm'bɑdi]| vt. 体现，使具体化；具体表达/n. (Embody)人名；(英)恩博迪/
+The proposal has been embodied in a draft resolution.这项提议已经被包含在一份决议草案中。
+For twenty-nine years, Checkpoint Charlie embodied the Cold War.29年来，查理检查站具体象征了冷战。
+Jack Kennedy embodied all the hopes of the 1960s.杰克•肯尼迪体现了20世纪60年代的全部希望。
+
