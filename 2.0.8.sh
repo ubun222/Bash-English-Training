@@ -226,10 +226,11 @@ read  -p  请输入目标，按回车键加载词表: the
 #[[  $i  -eq  1  ]] && [[  "$the"  ==  ''  ]] && break
 [[  "$the"  ==  ''  ]] && echo 加载中......  &&  break
 
-txtall="$(echo "$txtall" | grep -a  "$the" )"
-pt="$(echo "$txtall
-" | sed 'N;s/\n/ /')"
-none="$(echo ${txtall:-/dev/null} | xargs cat)"
+txtall="$(echo "$txtall" | grep -e  "$the" )"
+
+pt="$(printf "${txtall}\n\n" | sed 'N;s/\n/ /')"
+
+none="$(echo ${txtall})"
 
 #targets=$target' '$ta rgets
 #echo $targets
@@ -347,7 +348,7 @@ read -e -p  请输入目标，按回车键结束: the
 [[  "$the"  ==  ''  ]]  && echo 加载中......  &&  break
 
 txtall=$(echo "$txtall" | grep -a  "$the" )
-none="$(echo ${txtall:-/dev/null} | xargs cat)"
+none="$(echo ${txtall})"
 #targets=$target' '$ta rgets
 #echo $targets
 if [[  $none != ""  ]] ;then
@@ -2239,6 +2240,8 @@ _1B5B="$(printf "\x1b")"
 
 Readzh()
 {
+  scanfd=
+  thelast=
   kblock=1
 #vback=
 nowpres=
@@ -2411,7 +2414,7 @@ fi
 #stty echo
 vback=
 if ([[  $auto -eq 1  ]] && [[  $kblock -eq 1  ]]) || ([[  $kblock -eq 1  ]] &&  [[  $auto -ne 1  ]] && [[  $ib -le 0  ]]) ;then   # && [[  $ib -le 0  ]]可做到忽略adj符号
-thelast="${scanf##*，}"
+ thelast="${scanf##*，}"
 
 #prescanf="$thelast$bscanf"
 #prescanf_a="$thelast$ascanf"  sieve				n.筛子vt.筛 
@@ -2423,8 +2426,7 @@ banswer=
 while read line ;do
 [[  "$line" == ""  ]] && continue
 ans=$((ans+1))
-#printf "\\$prescanf\\"
-if [[  $waiting -eq 1  ]] && prescanf="$thelast$bscanf" && [[  "$line" == "$prescanf"  ]] ;then
+if [[  $waiting -ne 0  ]] && prescanf="$thelast$bscanf" && [[  "$line" == "$prescanf"  ]] ;then
 #echo 1111
 backt="${#thelast}"
 for i in `seq $backt`;do
@@ -2459,7 +2461,7 @@ nowpres="${thepres}"
 waiting=1 && bd=0 && getin=0 && ascanf="${bscanf:0:1}" && kblock=0 && nb=1 && ib=${#bscanf}  #防止waiting结束ib归零
 break
 
-elif [[  $waiting -ne 1  ]] && prescanf_a="$thelast$ascanf" && [[  "$line" == "$prescanf_a"  ]] ;then
+elif [[  $waiting -eq 0  ]] && prescanf_a="$thelast$ascanf" && [[  "$line" == "$prescanf_a"  ]] ;then
 backt="${#thelast}"
 for i in `seq $backt`;do
 backto="$backto$B"
@@ -2525,7 +2527,7 @@ vback=1
 Ll=$L
 L=$((L-1))
 
-[[  "$L" -le "0"  ]] && L=0 
+[[  "$L" -le "0"  ]] && L=0 && thelast= && scanfd=
 
 reg2=" $Back $Back"
 if [[  $needo -eq 1  ]] && [[  "$now2" -eq 1  ]] ;then 
@@ -2564,6 +2566,7 @@ elif [[  $ascanf  ==  [' ',]  ]];then
 scanf="$scanf"，
 #L="${#scanf}"
 ascanf="，"
+thelast=
 #for i in $(seq $Lb);do
 #Backs="$Back$Back"
 #Block="  "
@@ -2598,13 +2601,15 @@ stty -echo
 #[[  "$windows" = "y"  ]] && stty echo
 printf "\033[1m$question"\\033[3m\\033[2m\ \<───\>\ \\\033[0m #ishprt已不需要
 #stty -echo
+  scanfd=
+  thelast=
 continue
 
 elif [[  "$ascanf" == "$LF"  ]] || [[  "$ascanf" == "$CR"  ]] || [[  "$ascanf" == ""  ]] && [[  $tf == "0"  ]] ;then
 printf "$enter"
 break
 
-elif [[  $ascanf  ==  '	'  ]] && [[  $auto -eq 1  ]];then  #待定，暂时加-a后才能提示
+elif [[  $ascanf  ==  '	'  ]] ;then  #待定，暂时加-a后才能提示，
 ascanf=
 
 s_canf=
@@ -2613,24 +2618,32 @@ read -s -n1  -t1.3 s_canf
 IFS=$IFSbak
 if [[  $s_canf  ==  '	'  ]];then
 ascanf=
-rdmd=
+rdmd="\n"
 if [[  "$thelast" == ''  ]] ;then
+
+scanfdd="，${scanfd}，"
+#printf "1${scanfdd}1"
 #intimates="$(echo "${answer2:-n}" | awk 'BEGIN{FS=","}{for (i=1; i<=NF; i++) if ($i != "") print $i}'| sort)"
 inmts="$(printf "%s" "${answerd_simplify}" | awk 'BEGIN{FS=","}{print NF}' 2>/dev/null)"
 while true;do
-rdm5=$(($RANDOM%$inmts+1))
+rdm5=$(($RANDOM%$inmts+1))  
 intimates="$(printf "%s" "${answerd_simplify}" | awk -v a=$rdm5 'BEGIN{FS=","}{print $a}' 2>/dev/null)"
-[[  "${#rdmd}" -gt "$inmts"   ]]  && break
-[[  "$scanfd" =~ "$intimates"   ]] || [[  "$rdmd" =~ "$rdm5"   ]] || [[  "$intimates" == ""  ]]  &&  rdmd="$rdm5$rdmd"  && continue
-bscanf="$intimates" && waiting=1  && break
+intimatess="，${intimates}，"
+[[  "${scanfdd}" =~ "$intimatess"   ]]  || [[  $intimates == ''  ]]  && continue
+
+#[[  "${rdmd}" =~ $"$rdm5\n"   ]]  && continue
+
+#rdmd="$rdmd$rdm5\n"
+
+bscanf="$intimates" && waiting=2 && break
 done
 continue
 elif [[  "$thelast" != ''  ]] ;then
 #inmts="$(printf "%s" "${answerd_simplify}" | awk 'BEGIN{FS=","}{print $}' 2>/dev/null)"
 while read line ;do
 [[  "$scanfd"  =~ "$line"  ]] && continue
-if [[  "$line" =~ ^$thelast  ]];then
-bscanf="${line##$thelast}" && waiting=1  && break
+if [[  "$line" =~ ^"$thelast"  ]];then
+bscanf="${line##$thelast}" && waiting=2  && break #防止adj等提前判定，若要提前将waiting改成1
 
 fi
 done <<EOF
@@ -3079,7 +3092,7 @@ if [[  "$line" == "$thelast"  ]] ;then
 
 #sleep 0.02 && read -s -t0   && read -s -t1
 #stty echo
-bscanf="，" && bd=0 && getin=0 && waiting=1 && continue #-防止循环
+bscanf="，" && bd=0 && getin=0 && waiting=1 && thelast= && continue #-防止循环
 elif [[ "${line%%...*}" == "$thelast"   ]] ;then
 bscanf="..." && bd=0 && getin=0 && kblock=0 && waiting=1 && continue
 
