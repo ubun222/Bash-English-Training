@@ -15,7 +15,7 @@ apk add git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
 bash 
-./2.0.7.sh -api  # 答题辅助 通关模式 优化ish
+./2.0.8.sh -api  # 答题辅助 通关模式 优化ish
 ```
 3. Termux
 ```
@@ -23,7 +23,7 @@ apt-get install git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
 bash 
-./2.0.7.sh -ap  # 答题辅助 通关模式
+./2.0.8.sh -ap  # 答题辅助 通关模式
 ```
 4. 若安装git或bash失败，请先update和upgrade包管理命令。
 5. json翻译还需要另外安装gawk，可能自带的awk无法使用trans。
@@ -59,10 +59,8 @@ bash
 subscribe	v.捐款，订阅，签署(文件)，赞成，预订
 ```
 2. 只需要输入除()<>内的中文即可，答案会自动生成。
-3. 2.0.2+有tab提示自动补全。
-4. 暂时只有一个day64.txt模板可供参考
 ```
-./2.0.2.sh -apr -t notxt ./day64.txt #ish要加-i 
+./2.0.8.sh -apr -t notxt ./day64.txt #ish要加-i 
 ```
 ##### 1.x.x：
 1. txt内均为该格式
@@ -71,4 +69,4 @@ subscribe	捐款，订阅，签署，赞成，预订
 ```
 
 #### 已知的问题
-1. 在交叉使用c2.c(C-English-Training)和该项目的错题集模式时，c2.c可能会将\\\\\\\\\\行误删，不影响c2.c，但会影响该脚本，可通过-s参数查找有问题的词表手动添加\\\\\\\\\\行。
+1. 在同时使用c2.c(C-English-Training)和该项目的错题集模式时，c2.c可能会将\\\\\\\\\\行误删，不影响c2.c，但会影响该脚本，可通过-s参数查找有问题的词表手动添加\\\\\\\\\\行。
