@@ -1911,8 +1911,9 @@ if  [[  "$bscanf"  == ""   ]] ; then
 kblock=1
 IFS=$ENTER
 read -s -n1 ascanf 
+read -t 0 
+[[  "$?" -eq 0  ]] && bd=2
 IFS=$IFSbak
-
 elif [[  "$bscanf"  != ""   ]];then 
 #stty -echo
 #[[  "$((nb))"  == "$ib"   ]] && waiting=0
@@ -2036,6 +2037,8 @@ if  [[  "$bscanf"  == ""   ]] ; then
 kblock=1
 IFS=$ENTER
 read -s -n1 ascanf 
+read -t 0 
+[[  "$?" -eq 0  ]] && bd=2
 IFS=$IFSbak
 
 elif [[  "$bscanf"  != ""   ]];then 
@@ -2214,6 +2217,8 @@ if  [[  "$bscanf"  == ""   ]] ; then
 kblock=1
 IFS=$ENTER
 read -s -n1 ascanf 
+read -t 0 
+[[  "$?" -eq 0  ]] && bd=2
 IFS=$IFSbak
 
 elif [[  "$bscanf"  != ""   ]];then 
@@ -2461,7 +2466,7 @@ nowpres="${thepres}"
 waiting=1 && bd=0 && getin=0 && ascanf="${bscanf:0:1}" && kblock=0 && nb=1 && ib=${#bscanf}  #防止waiting结束ib归零
 break
 
-elif [[  $waiting -eq 0  ]] && prescanf_a="$thelast$ascanf" && [[  "$line" == "$prescanf_a"  ]] ;then
+elif [[  $waiting -eq 0  ]] && [[  $bd -ne 2  ]] && prescanf_a="$thelast$ascanf" && [[  "$line" == "$prescanf_a"  ]] ;then # read=1个
 backt="${#thelast}"
 for i in `seq $backt`;do
 backto="$backto$B"
