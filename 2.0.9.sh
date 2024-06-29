@@ -3978,7 +3978,7 @@ for i in $(seq $((COLUMN)));do
 	printf  "\033[?25l\033[2m\033[$((i-1))C━\r\033[2B\033[$((COLUMN-i))C━\033[2A\r"
 	[[  $i  -eq  $((COLUMN)) ]] && printf "\033[2m\033[2B\r━\033[2A"
 done
-s -t0   && break
+read -s -t 0.1
 printf "\033[0m"
 sleep 0.05
 printf "\r\033[2A"
