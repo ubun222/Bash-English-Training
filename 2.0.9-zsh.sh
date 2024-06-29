@@ -1,3 +1,4 @@
+#!/usr/bin/env zsh
 ccat(){
 cat<<EOF
 $1
@@ -38,7 +39,7 @@ CR=`printf  "\10"`
 
 
 LF=`printf  "\12"`
-
+x0d=`printf  "\x0d"`
 
 D=`printf  "\004"`
 
@@ -121,7 +122,7 @@ printf "    $enter"
 [[  "$order" -eq $((pathlsl+1))  ]] && order=1
 printf "\033[1B\033[35m>>>>\033[0m$enter"
 
-elif [[  "$ascanf"  ==  "$_1B5B"  ]] ;then
+elif [[  `ccat $ascanf`  ==  `ccat $_1B5B`  ]] ;then
 stty -echo
 read  -k1 && read -k1 WSAD
 if [[  "$WSAD" ==  "B"  ]] ;then
@@ -144,7 +145,7 @@ stty echo
 continue
 fi
 
-elif [[  `ccat $ascanf`  ==  ''  ]] || [[  `ccat $ascanf`  ==  `ccat $CR`  ]] ;then
+elif [[  `ccat $ascanf`  ==  `ccat $x0d`  ]] || [[  `ccat $ascanf`  ==  `ccat $x0d`  ]] || [[  `ccat $ascanf`  ==  ''  ]] || [[  `ccat $ascanf`  ==  `ccat $CR`  ]] ;then
 stty echo
 break 
 
@@ -1123,7 +1124,7 @@ elif [[  "$abool"  ==  "j"  ]] || [[  "$abool"  ==  "J"  ]];then
 printf "\n$enter\033[K" && bool="$abool"
 pprep  # "$pureanswerd"
 break
-elif [[  `ccat $abool` == `ccat $LF`  ]] || [[  `ccat $abool` == `ccat $CR`  ]] || [[  `ccat $abool` == ""  ]] && [[  $ttf == "0"  ]] ;then
+elif [[  `ccat $abool` == `ccat $x0d`  ]] || [[  `ccat $abool` == `ccat $LF`  ]] || [[  `ccat $abool` == `ccat $CR`  ]] || [[  `ccat $abool` == ""  ]] && [[  $ttf == "0"  ]] ;then
 printf "\n"
 break
 else
@@ -1252,7 +1253,7 @@ printf "    $enter"
 [[  "$order" -eq $((catalsl+1))  ]] && order=1
 printf "\033[1B\033[35m>>>>\033[0m$enter"
 
-elif [[  "$ascanf"  ==  ''  ]] || [[  `ccat $ascanf`  ==  `ccat $CR`  ]] ;then
+elif [[  `ccat $ascanf`  ==  `ccat $x0d`  ]] || [[  "$ascanf"  ==  ''  ]] || [[  `ccat $ascanf`  ==  `ccat $CR`  ]] ;then
 break
 fi
 
@@ -2088,7 +2089,7 @@ printf "\033[1m$question"\\033[3m\\033[2m\ \<───\>\ \\\033[0m #ishprt已�
   bd=
 continue
 
-elif [[  `ccat $ascanf` == `ccat $LF`  ]] || [[  `ccat $ascanf` == `ccat $CR`  ]] || [[  `ccat $ascanf` == ""  ]] && [[  $tf == "0"  ]] ;then
+elif [[  `ccat $ascanf` == `ccat $x0d`  ]] || [[  `ccat $ascanf` == `ccat $LF`  ]] || [[  `ccat $ascanf` == `ccat $CR`  ]] || [[  `ccat $ascanf` == ""  ]] && [[  $tf == "0"  ]] ;then
 printf "$enter"
 break
 
@@ -2264,7 +2265,7 @@ printf "\r%s" "$front"
 printf "\033[1m"
 continue
 fi
-elif [[  `ccat $ascanf` == "$LF"  ]] || [[  `ccat $ascanf` == "$CR"  ]] || [[  `ccat $ascanf` == ""  ]] && [[  $tf == "0"  ]] ;then
+elif [[  `ccat $ascanf` == `ccat $x0d`  ]] || [[  `ccat $ascanf` == "$LF"  ]] || [[  `ccat $ascanf` == "$CR"  ]] || [[  `ccat $ascanf` == ""  ]] && [[  $tf == "0"  ]] ;then
 now2=
 if [[  $premode -eq 3  ]];then                
 printf "\033[6n";read -s -d\[ garbage;read -s -d R foo
@@ -2402,7 +2403,7 @@ elif [[  "${fscanf:$((is-1))}" !=  [$B\'a-zA-Z'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]
 fscanf="${fscanf:0:$((is-1))}" && is=$((is-1))
  printf  "$Backs$Block$Backs"  && continue
 fi
-elif [[  `ccat $fascanf` == "$LF"  ]] || [[  `ccat $fascanf` == "$CR"  ]] || [[  `ccat $fascanf` == ""  ]] && [[  $ftf == "0"  ]] ;then
+elif [[  `ccat $fascanf` == `ccat $x0d`  ]] || [[  `ccat $fascanf` == "$LF"  ]] || [[  `ccat $fascanf` == "$CR"  ]] || [[  `ccat $fascanf` == ""  ]] && [[  $ftf == "0"  ]] ;then
 
 echo
 break
@@ -3207,7 +3208,7 @@ tf=$?
 IFS=$IFSbak
 fi
 
-if [[  `ccat $ascanf`  ==  ""  ]] || [[  `ccat $ascanf`  ==  `ccat $CR`  ]] ;then
+if [[  `ccat $ascanf`  ==  `ccat $x0d`  ]] || [[  `ccat $ascanf`  ==  ""  ]] || [[  `ccat $ascanf`  ==  `ccat $CR`  ]] ;then
 [[  "$once" -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
 [[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 printf "$enter"
@@ -3363,8 +3364,8 @@ bool=
 printf "\r"
 colourp 2>/dev/null
 
-[[  `ccat $abool` == ""  ]] || [[  `ccat $abool` == "$LF"  ]] || [[  `ccat $abool` == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B"
-[[  `ccat $abool` == ""  ]] || [[  `ccat $abool` == "$LF"  ]] || [[  `ccat $abool` == "$CR"  ]]   && printf "$one"
+[[  `ccat $abool` == `ccat $x0d`  ]] || [[  `ccat $abool` == ""  ]] || [[  `ccat $abool` == "$LF"  ]] || [[  `ccat $abool` == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B"
+[[  `ccat $abool` == `ccat $x0d`  ]] || [[  `ccat $abool` == ""  ]] || [[  `ccat $abool` == "$LF"  ]] || [[  `ccat $abool` == "$CR"  ]]   && printf "$one"
 
 printf "\033[0m"
 else
@@ -3397,8 +3398,8 @@ printf "\r"
 
 colourp 2>/dev/null
 
-[[  `ccat $abool` == ""  ]] || [[  `ccat $abool` == `ccat $LF`  ]] || [[  `ccat $abool` == `ccat $CR`  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B" 
-[[  `ccat $abool` == ""  ]] || [[  `ccat $abool` == `ccat $LF`  ]] || [[  `ccat $abool` == `ccat $CR`  ]]   && printf "$one"
+[[  `ccat $abool` == `ccat $x0d`  ]] || [[  `ccat $abool` == ""  ]] || [[  `ccat $abool` == `ccat $LF`  ]] || [[  `ccat $abool` == `ccat $CR`  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B" 
+[[  `ccat $abool` == `ccat $x0d`  ]] || [[  `ccat $abool` == ""  ]] || [[  `ccat $abool` == `ccat $LF`  ]] || [[  `ccat $abool` == `ccat $CR`  ]]   && printf "$one"
 
 fi
 
@@ -3513,7 +3514,7 @@ tf=$?
 IFS=$IFSbak
 fi
 
-if [[  `ccat $ascanf`  ==  ""  ]]  || [[  `ccat $ascanf`  ==  `ccat $CR`  ]];then
+if [[  `ccat $ascanf`  ==  `ccat $x0d`  ]] || [[  `ccat $ascanf`  ==  ""  ]]  || [[  `ccat $ascanf`  ==  `ccat $CR`  ]];then
 [[  "$once" -eq 0  ]]  && printf "\033[$((down5-1))A${enter}"
 [[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 printf "$enter"
@@ -3650,8 +3651,8 @@ printf "\r"
 answer2="$question"
 answer1="$answer"
 colourp 2>/dev/null
-[[  `ccat $abool` == ""  ]] || [[  `ccat $abool` == `ccat $LF`  ]] || [[  `ccat $abool` == `ccat $CR`  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B"
-[[  `ccat $abool` == ""  ]] || [[  `ccat $abool` == `ccat $LF`  ]] || [[  `ccat $abool` == `ccat $CR`  ]]   && printf "$one"
+[[  `ccat $abool` == `ccat $x0d`  ]] || [[  `ccat $abool` == ""  ]] || [[  `ccat $abool` == `ccat $LF`  ]] || [[  `ccat $abool` == `ccat $CR`  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B"
+[[  `ccat $abool` == `ccat $x0d`  ]] || [[  `ccat $abool` == ""  ]] || [[  `ccat $abool` == `ccat $LF`  ]] || [[  `ccat $abool` == `ccat $CR`  ]]   && printf "$one"
 else
 isright=0
 printf "\033[31m%s\033[0m\r" "->"
@@ -3681,8 +3682,8 @@ bool=
 answer2="$question"
 answer1="$answer"
 colourp 2>/dev/null
-[[  `ccat $abool` == ""  ]] || [[  `ccat $abool` == `$LF`  ]] || [[  `ccat $abool` == `ccat $CR`  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B" 
-[[  `ccat $abool` == ""  ]] || [[  `ccat $abool` == `$LF`  ]] || [[  `ccat $abool` == `ccat $CR`  ]]   &&   printf "$one"
+[[  `ccat $abool` == `ccat $x0d`  ]] || [[  `ccat $abool` == ""  ]] || [[  `ccat $abool` == `$LF`  ]] || [[  `ccat $abool` == `ccat $CR`  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B" 
+[[  `ccat $abool` == `ccat $x0d`  ]] || [[  `ccat $abool` == ""  ]] || [[  `ccat $abool` == `$LF`  ]] || [[  `ccat $abool` == `ccat $CR`  ]]   &&   printf "$one"
 fi
 
 fi
@@ -3732,11 +3733,11 @@ return 0
 fi
 printf "Ⅰ,英译中${spaces#             }Ⅱ,中译英${spaces#            }Ⅲ,混合"
 read -k 1 mode
-[[  `ccat $mode` == `ccat $LF`  ]] && mode=3
+[[  `ccat $mode` == `ccat $x0d`  ]] || [[  `ccat $mode` == `ccat $LF`  ]] && mode=3
 echo
 printf "Ⅰ,顺序${spaces#           }Ⅱ,倒序${spaces#          }Ⅲ,乱序"
 read -k 1 random
-[[  `ccat $random` == `ccat $LF`  ]] && random=3
+[[  `ccat $random` == `ccat $x0d`  ]] || [[  `ccat $random` == `ccat $LF`  ]] && random=3
 echo 
 ii=99
 [[  "$passd" -eq 1   ]] && [[  "$calenda" == "1"  ]] && ii=9999
