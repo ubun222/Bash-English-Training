@@ -145,7 +145,7 @@ stty echo
 continue
 fi
 
-elif [[  `ccat $ascanf`  ==  `ccat $x0d`  ]] || [[  `ccat $ascanf`  ==  `ccat $x0d`  ]] || [[  `ccat $ascanf`  ==  ''  ]] || [[  `ccat $ascanf`  ==  `ccat $CR`  ]] ;then
+elif [[  `ccat $ascanf`  ==  `ccat $x0d`  ]] || [[  `ccat $ascanf`  ==  ''  ]] || [[  `ccat $ascanf`  ==  `ccat $CR`  ]] ;then
 stty echo
 break 
 
@@ -196,10 +196,10 @@ do
 echo
 printf "\033[0m"
 printf "请输入目标，按回车键加载词表:"
-read  the
+read the
 
-[[  $i  -eq  1  ]] && [[  "$the"  ==  ''  ]]  && echo 未选择...加载第一张 && the="$(echo "$txtall" | tail -n1)" && read -t 2
-[[  "$the"  ==  ''  ]] && echo 加载中......  &&  break
+[[  $i  -eq  1  ]] && [[  `ccat $the`  ==  ''  ]] || [[  `ccat $the`  ==  `ccat $x0d`   ]] && echo 未选择...加载第一张 && the="$(echo "$txtall" | tail -n1)" && read -t 2
+[[  `ccat $the`  ==  `ccat $x0d`   ]] ||  [[  `ccat $the`  ==  ''  ]] && echo 加载中......  &&  break
 
 txtall="$(echo "$txtall" | grep -e  "$the" )"
 
@@ -306,10 +306,10 @@ for i in $(seq 100)
 do
 
 [[  $use  -eq  1  ]] &&  mpreload
-echo 请输入目标，按回车键结束: 
-read -e the
-[[  $i  -eq  1  ]] && [[  "$the"  ==  ''  ]]  && echo 未选择...加载第一张 && the="$(echo "$txtall" | tail -n1)" && read -t 2 
-[[  "$the"  ==  ''  ]]  && echo 加载中......  &&  break
+printf 请输入目标，按回车键结束: 
+read the
+[[  $i  -eq  1  ]] && [[  `ccat $the`  ==  ''  ]]  || [[  `ccat $the`  ==  `ccat $x0d`   ]]  && echo 未选择...加载第一张 && the="$(echo "$txtall" | tail -n1)" && read -t 2 
+[[  `ccat $the`  ==  `ccat $x0d`   ]] || [[  `ccat $the`  ==  ''  ]]  && echo 加载中......  &&  break
 
 txtall=$(echo "$txtall" | grep -a  "$the" )
 none="$(echo ${txtall})"
@@ -1600,7 +1600,7 @@ if  [[  "$bscanf"  == ""   ]] ; then
 kblock=1
 IFS=$ENTER
 read -s -k 1 ascanf 
-read -s -t 0 && bd=2
+read -s -t 0 -k0 && bd=2
 IFS=$IFSbak
 elif [[  "$bscanf"  != ""   ]];then 
 ib=${#bscanf}
@@ -1672,7 +1672,7 @@ kblock=1
 bd=0
 IFS=$ENTER
 read -s -k 1 ascanf 
-read -s -t 0 && bd=2
+read -s -t 0 -k 0 && bd=2
 IFS=$IFSbak
 
 elif [[  "$bscanf"  != ""   ]];then 
@@ -1828,7 +1828,8 @@ if [[  "$line" ==  [a-z][a-z\.]*  ]] ;then  #第一行或中间行
 
 thes=
 thetemp=
-while read -k1 s;do
+for STN in `seq ${#line}`;do
+s=${line:$((STN-1)):1};
 if [[  "$s"  ==  [a-z]  ]];then
 [[  "$thetemp" != ""  ]] && thes= && thetemp=
 thes="${thes}$s"
@@ -1842,21 +1843,20 @@ eval thetemp="\$${thes}"
 [[  "$thes" != ""  ]]  && eval $thes=\"\${thetemp}\$s\"
 eval thetemp="\$${thes}" #刷新
 fi
-done <<EOF
-$line
-EOF
+done
 
 elif [[  "$line" =~  [a-z][a-z\.]  ]];then #中间不同行
 templine1="$(printf "%s" "$line" | awk 'BEGIN{FS="[a-z][a-z\.]*"}{printf $1}' 2>/dev/null | sed "s/,/+/g" 2>/dev/null )"
 eval thetemp="\$$thes"
 [[  "$thes" != ""  ]] && eval $thes=\"\${thetemp}+\$templine1\"
 
-thepres="$(printf "%s" "$line" | tr -c -s [a-z.] "\n" )"
+(thepres="$(printf "%s" "$line" | tr -c -s [a-z.] "\n" )" ) 2>/dev/null
 
 
 thes=
 thetemp=
-while read -k1 s;do
+for STN in `seq ${#line}`;do
+s=${line:$((STN-1)):1};
 if [[  "$s"  ==  [a-z]  ]];then
 [[  "$thetemp" != ""  ]] && thes= && thetemp=
 thes="${thes}$s"
@@ -1870,9 +1870,7 @@ eval thetemp="\$${thes}"
 [[  "$thes" != ""  ]] && eval ${thes}=\"\${thetemp}\$s\"
 eval thetemp="\$${thes}" #刷新
 fi
-done <<EOF
-$line
-EOF
+done
 
 else #中间单独行
 
@@ -4014,9 +4012,11 @@ return 0
 fi
 printf "Ⅰ,英译中${spaces#             }Ⅱ,中译英${spaces#            }Ⅲ,混合"
 read -k 1 mode
+[[  `ccat $mode` == `ccat $x0d`  ]] || [[  `ccat $mode` == `ccat $LF`  ]] && mode=3
 echo
 printf "Ⅰ,顺序${spaces#           }Ⅱ,倒序${spaces#          }Ⅲ,乱序"
 read -k 1 random
+[[  `ccat $random` == `ccat $x0d`  ]] || [[  `ccat $random` == `ccat $LF`  ]] && random=3
 echo 
 [[  "$passd" -ne 1   ]] && printf "需要多少题目:"  && read ii
 stty -echo
@@ -4321,7 +4321,7 @@ for i in $(seq 100)
 do
 n0=0
 [[  $use  -eq  1  ]] &&  mpreload
-echo 请拖入单个txt文件，按回车键结束:
+printf 请拖入单个txt文件，按回车键结束:
 read target
 [[  "$target"  ==  ''  ]] && [[  "$use"  -eq  '1'  ]]  &&  return 2
 [[  "$target"  ==  ''  ]] && [[  "$targets"  !=  ''  ]] && return 0
