@@ -6,11 +6,13 @@
 2. termux自带bash
 3. macOS自带的bash版本没更新，需要用brew安装一下最新版本
 4. wsl1和2均自带
+
 *. zsh
 1. ish需要apk add zsh后使用
 2. termux需要apt install zsh后使用
 3. macOS可直接运行
 4. wsl12需要apt install zsh
+
 *. ash 
 1. ish自带ash
 2. termux需要从Apline Linux官网下载minirootfs(3MB)解压后运行proot -0 -w / -r ./alpine后使用
