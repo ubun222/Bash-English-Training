@@ -1007,7 +1007,7 @@ nq=$((nq+1)) &&  t=$((t+3)) && counts=$((counts+2)) && temp1=2
 elif  [[  `ccat "${id}"`  -ge  224   ]] && [[  `ccat "${id}"`  -lt  227    ]] ;then
 
 
-nq=$((nq+1)) &&  t=$((t+3)) && counts=$((counts+1)) && temp1=1
+nq=$((nq+1)) &&  t=$((t+3)) && counts=$((counts+1)) && temp1=2
 
 
 
@@ -2492,7 +2492,8 @@ ififright()
 {
 if [[  "$which" == "zh"  ]] ; then
 stty -echo
-scanfd="$(echo "${scanf}"  |  sed "s/[a-z][a-z\.]*/，/g" )"
+[[  "$ascanf" == "，"  ]] && return 2 #ash only
+scanfd="$(printf "${scanf}"  |  sed "s/[a-z][a-z\.]*/，/g" )"
 #echo $scanfd
 [[  "${scanfd:0:3}"  == "，"  ]] && scanfd="${scanfd:3}" # ash only
 is=$(printf "${scanf}" | wc -c )
@@ -2769,7 +2770,7 @@ verbose()
 {
 targets=${targets:-/dev/null}
     printf "\033[0m"
-lineraw1="$(printf "%s"  "$content" | grep  "\\b${answer1}\\(ed\\|ing\\|s\\)\\?\\b" | grep -v  "[	\\]" )"
+lineraw1="$(printf "%s"  "$content" | grep -e "\\b${answer1}\\(ed\\|ing\\|s\\)\\?\\b" | grep -v  "[	\\]" )"
 lineraw="$(printf "%s" "$lineraw1" | grep  -v "[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]")"
 theline="$(printf "%s" "$lineraw1"| grep ^"${answer1}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+"  | head -n1)"
 
@@ -2781,12 +2782,12 @@ if [[  "${linenum:-0}" -eq 0  ]];then
 else
 for li in `seq 3`;do
 if [[  "$linenum" -le 1  ]] || [[  "$lineraw" == ""  ]];then
-[[  $lineraw != ""  ]] &&  p="$lineraw" && prep
+[[  "$lineraw" != ""  ]] &&  p="$lineraw" && prep
 p="$theline" &&  sprep
 break
 fi
 therandom=$(($RANDOM%$linenum+1))
-[[  $lineraw != ""  ]] && p="$(printf "%s" "$lineraw" | head -n$therandom | tail -n1)" && prep
+[[  "$lineraw" != ""  ]] && p="$(printf "%s" "$lineraw" | head -n$therandom | tail -n1)" && prep
 lineraw="$(printf "%s\n" "${lineraw}"  |  tail -n $((linenum*2-therandom)) | head -n$((linenum-1)))"       ##在sed内放变量需要""
 linenum=$((linenum-1))
 
