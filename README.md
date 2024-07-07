@@ -1,10 +1,12 @@
 ## 自制的英语单词提词器
 
 #### 需求
-1. bash
-2. 手机终端应用(ish termux)或电脑系统终端(Ubuntu, Macos(推荐iTerm+brew install bash), Windows Terminal(WSL))
+1. bash(ish需要apk add bash；termux自带bash；macOS自带的bash版本没更新，需要用brew安装一下最新版本；wsl1和2均自带)
+2. zsh(ish需要apk add zsh后使用；termux需要apt install zsh后使用；macOS可直接运行；wsl12需要apt install zsh)
+3. ash(ish自带ash，termux需要从Apline Linux官网下载minirootfs(3MB)解压后运行proot -0 -w / -r ./alpine后使用，macOS需要docker；wsl从store下载Apline Linux或者用wsl --import Alpine C:\WSL\Alpine C:\WSL\Alpine\rootfs.tar.gz --version 1来运行)
 
-![BET-ish.gif](https://github.com/ubun222/Learning-English/raw/bash/img/BET-ish.gif) ![BET-termux.gif](https://github.com/ubun222/Learning-English/raw/bash/img/BET-termux.gif)
+
+![BET-ish.gif](https://github.com/ubun222/Bash-English-Training/blob/main/img/BET-ish.gif?raw=true) ![BET-termux.gif](https://github.com/ubun222/Bash-English-Training/blob/main/img/BET-termux.gif?raw=true)
 
 #### 开始
 1. IOS下载ish，安卓下载Termux，都是很好用的手机终端app。
@@ -15,7 +17,7 @@ apk add git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
 bash 
-./2.0.8.sh -api  # 答题辅助 通关模式 优化ish
+./2.0.9.sh -api  # 答题辅助 通关模式 优化ish
 ```
 3. Termux
 ```
@@ -23,7 +25,7 @@ apt-get install git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
 bash 
-./2.0.8.sh -ap  # 答题辅助 通关模式
+./2.0.9.sh -ap  # 答题辅助 通关模式
 ```
 4. 若安装git或bash失败，请先update和upgrade包管理命令。
 5. json翻译还需要另外安装gawk，可能自带的awk无法使用trans。
@@ -60,7 +62,7 @@ subscribe	v.捐款，订阅，签署(文件)，赞成，预订
 ```
 2. 只需要输入除()<>内的中文即可，答案会自动生成。
 ```
-./2.0.8.sh -apr -t notxt ./day64.txt #ish要加-i 
+./2.0.9.sh -apr -t notxt ./day64.txt #ish要加-i 
 ```
 ##### 1.x.x：
 1. txt内均为该格式
@@ -69,4 +71,4 @@ subscribe	捐款，订阅，签署，赞成，预订
 ```
 
 #### 已知的问题
-1. 在同时使用c2.c(C-English-Training)和该项目的错题集模式时，c2.c可能会将\\\\\\\\\\行误删，不影响c2.c，但会影响该脚本，可通过-s参数查找有问题的词表手动添加\\\\\\\\\\行。
+1. ash还有点小问题，bash写的太不规范导致ash难改。

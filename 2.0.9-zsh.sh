@@ -2437,8 +2437,9 @@ EOF
 done
 
 }
-trap 'printf "\033[?25h\033[0m" && stty echo '  EXIT
 
+trap 'printf "\033[?25h\033[0m" && stty -icanon && stty echo && stty -cbreak'  EXIT
+trap 'printf " \033[?25h\033[0m" && stty -icanon && stty echo && stty -cbreak && exit 0 '  2 #ish only
 
 
 ififright()
@@ -2739,7 +2740,7 @@ break
 fi
 therandom=$(($RANDOM%$linenum+1))
 [[  $lineraw != ""  ]] && p="$(printf "%s" "$lineraw" | head -n$therandom | tail -n1)" && prep
-lineraw="$(printf "%s\n" "${lineraw}" "${lineraw}" |  tail -n $((linenum*2-therandom)) | head -n$((linenum-1)))"       ##在sed内放变量需要""
+lineraw="$(printf "%s\n" "${lineraw}" |  tail -n $((linenum*2-therandom)) | head -n$((linenum-1)))"       ##在sed内放变量需要""
 linenum=$((linenum-1))
 
 if  [[  $li -eq 3  ]] ;then
