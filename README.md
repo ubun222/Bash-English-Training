@@ -1,9 +1,21 @@
 ## 自制的英语单词提词器
 
 #### 需求
-1. bash(ish需要apk add bash；termux自带bash；macOS自带的bash版本没更新，需要用brew安装一下最新版本；wsl1和2均自带)
-2. zsh(ish需要apk add zsh后使用；termux需要apt install zsh后使用；macOS可直接运行；wsl12需要apt install zsh)
-3. ash(ish自带ash，termux需要从Apline Linux官网下载minirootfs(3MB)解压后运行proot -0 -w / -r ./alpine后使用，macOS需要docker；wsl从store下载Apline Linux或者用wsl --import Alpine C:\WSL\Alpine C:\WSL\Alpine\rootfs.tar.gz --version 1来运行)
+*. bash
+1. ish需要apk add bash
+2. termux自带bash
+3. macOS自带的bash版本没更新，需要用brew安装一下最新版本
+4. wsl1和2均自带
+*. zsh
+1. ish需要apk add zsh后使用
+2. termux需要apt install zsh后使用
+3. macOS可直接运行
+4. wsl12需要apt install zsh
+*. ash 
+1. ish自带ash
+2. termux需要从Apline Linux官网下载minirootfs(3MB)解压后运行proot -0 -w / -r ./alpine后使用
+3. macOS需要docker
+4. wsl从store下载Apline Linux或者用wsl --import Alpine C:\WSL\Alpine C:\WSL\Alpine\rootfs.tar.gz来运行
 
 
 ![BET-ish.gif](https://github.com/ubun222/Bash-English-Training/blob/main/img/BET-ish.gif?raw=true) ![BET-termux.gif](https://github.com/ubun222/Bash-English-Training/blob/main/img/BET-termux.gif?raw=true)
@@ -71,4 +83,3 @@ subscribe	捐款，订阅，签署，赞成，预订
 ```
 
 #### 已知的问题
-1. ash还有点小问题，bash写的太不规范导致ash难改。
