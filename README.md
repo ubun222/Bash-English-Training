@@ -19,9 +19,6 @@
 3. macOS需要docker
 4. wsl从store下载Apline Linux或者用wsl --import Alpine C:\WSL\Alpine C:\WSL\Alpine\rootfs.tar.gz来运行
 
-
-![BET-ish.gif](https://github.com/ubun222/Bash-English-Training/blob/main/img/BET-ish.gif?raw=true) ![BET-termux.gif](https://github.com/ubun222/Bash-English-Training/blob/main/img/BET-termux.gif?raw=true)
-
 #### 开始
 1. IOS下载ish，安卓下载Termux，都是很好用的手机终端app。
 2. ish
@@ -85,3 +82,6 @@ subscribe	捐款，订阅，签署，赞成，预订
 ```
 
 #### 已知的问题
+1. 代码不规范
+
+![BET-ish.gif](https://github.com/ubun222/Bash-English-Training/blob/main/img/BET-ish.gif?raw=true) ![BET-termux.gif](https://github.com/ubun222/Bash-English-Training/blob/main/img/BET-termux.gif?raw=true)

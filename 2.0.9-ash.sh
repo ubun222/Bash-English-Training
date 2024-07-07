@@ -2163,6 +2163,8 @@ fi
 fi
 #elif [[  $ascanf  !=  [$B\'a-zA-Z${x02}-${x19}'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]] ;then
 elif [[  ${zhpt:-0} -eq 2  ]]  && [[  `ccat "${ascanf}"` -ge 128  ]] ;then
+[[  $now2 -eq 1  ]] && [[  "$needo" == "1"  ]] && printf "\n" 
+[[  $now2 -eq 1  ]] && [[  "$needo" != "1"  ]] && printf "\n"
 ascanf="${zscanf}${ascanf}" && scanf="$(printf "%s%s" "$scanf${ascanf}")" && zhpt=3 && zscanf=
 
 continue
