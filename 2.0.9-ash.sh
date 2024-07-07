@@ -1207,7 +1207,7 @@ fi
 if [[  "$bool" == 'y'  ]] || [[  $bool == 'Y'  ]]  ; then
 if [[  "$bool"  ==  "Y"  ]] ;then
 RC=0
-printf  "\033[${COL}C%s\n\r"  "${eline}"
+printf  "\033[1A\033[%dC%s\n\r" ${COL}  "${eline}"
 [[  $premode -eq 3  ]] && [[  $order -ne 4  ]] && [[  $down -gt 0  ]] && printf "\033[${down}B$enter" 
 [[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && printf "$one" 
 down=0
@@ -1220,7 +1220,7 @@ down=0
 elif [[  "$bool" == 'v' ]] || [[ $bool == 'V' ]]; then
 if [[  "$bool"  ==  "V"  ]] ;then
 RC=0
-printf   "\033[${COL}C%s\n\r"  "${eline}"
+printf  "\033[1A\033[%dC%s\n\r" ${COL}  "${eline}"
 [[  $premode -eq 3  ]] && [[  $order -ne 4  ]] && [[  $down -gt 0  ]] && printf "\033[${down}B$enter" 
 [[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && printf "$one" 
 down=0
@@ -3188,12 +3188,12 @@ while true;do
  # m=$total
 gi=$((gi+1))
 [[  $passd -eq 1  ]] && total=$((constn-gcounts))
-if [[  $mode -ne 3  ]];then
-[[  $passd -eq 1  ]] && [[  $total -le 3  ]] && printf "词库不足" && echo && miniFUN && return 0
-elif [[  $mode -eq 3  ]];then
-[[  $passd -eq 1  ]] && [[  $total -le 7  ]] && printf "词库不足" && echo && miniFUN && return 0
+#if [[  $mode -ne 3  ]];then
+#[[  $passd -eq 1  ]] && [[  $total -le 3  ]] && printf "词库不足" && echo && miniFUN && return 0
+#elif [[  $mode -eq 3  ]];then
+#[[  $passd -eq 1  ]] && [[  $total -le 7  ]] && printf "词库不足" && echo && miniFUN && return 0
 
-fi
+#fi
  bot=
  #ss=0
  scanf=x
@@ -3280,7 +3280,7 @@ am4="$p"
 
 theam="$am1"
 la=$((${#am1}*2-2))
-for i in $(seq ${#am1});do
+for i in $(seq ${la});do
 if [[  "${am1:i:1}" == [a-z\.\(\)\<\>\&]  ]] ;then
 la=$((la-1))
 fi
@@ -3290,7 +3290,7 @@ down_1=
 [[  "$down1" -gt 1  ]] && down_1="\033[$((down1-1))A"
 
 la=$((${#am2}*2-2))
-for i in $(seq ${#am2});do
+for i in $(seq ${la});do
 if [[  "${am2:i:1}" == [a-z\.\(\)\<\>\&]  ]] ;then
 la=$((la-1))
 fi
@@ -3300,7 +3300,7 @@ down_2=
 [[  "$down2" -gt 1  ]] && down_2="\033[$((down2-1))A"
 
 la=$((${#am3}*2-2))
-for i in $(seq ${#am3});do
+for i in $(seq ${la});do
 if [[  "${am3:i:1}" =~ [a-z\.\(\)\<\>\&]  ]] ;then
 la=$((la-1))
 fi
@@ -3310,7 +3310,7 @@ down_3=
 [[  "$down3" -gt 1  ]] && down_3="\033[$((down3-1))A"
 
 la=$((${#am4}*2-2))
-for i in $(seq ${#am4});do
+for i in $(seq ${la});do
 if [[  "${am4:i:1}" =~ [a-z\.\(\)\<\>\&]  ]] ;then
 la=$((la-1))
 fi
@@ -3344,7 +3344,7 @@ break
 fi
 
 if [[  $once -ne 0  ]] && [[  "$ascanf"  !=  "$_1B5B"  ]];then
-eval theam=\$am$order
+eval theam=\"\$am$order\"
 eval printf \"\$enter\$theam\"
 eval printf \"\$down_$order\"
 printf "$enter"
@@ -3380,7 +3380,7 @@ order=$((order+1))
 printf "  $enter"
 [[  "$order" -eq 5  ]]  && printf "\033[${down5}A$enter"
 [[  "$order" -eq 5  ]] && order=1
-eval theam=\$am$order
+eval theam=\"\$am$order\"
 printf "\033[${down}B$enter\033[1m"
 printf "$theam"
 eval printf \"\$down_$order\"
@@ -3392,7 +3392,7 @@ eval down=\${down$order}
 printf "  $enter"
 [[  "$order" -eq 0  ]]  && printf "\033[$((down6-1))B$enter"
 [[  "$order" -eq 0  ]] && order=4
-eval theam=\$am$order
+eval theam=\"\$am$order\"
 [[  "$order" -ne 4  ]] &&  printf "\033[${down}A$enter"
 printf "\033[1m"
 printf "$theam"
@@ -3414,7 +3414,7 @@ order=$((order+1))
 printf "  $enter"
 [[  "$order" -eq 5  ]]  && printf "\033[${down5}A$enter"
 [[  "$order" -eq 5  ]] && order=1
-eval theam=\$am$order
+eval theam=\"\$am$order\"
 eval printf \"\\033[\${down}B$enter\\033[1m\"
 eval printf \"\$theam\"
 eval printf \"\$down_$order\"
@@ -3649,7 +3649,7 @@ break
 fi
 
 if [[  $once -ne 0  ]] && [[  "$ascanf" !=  "$_1B5B"  ]];then
-eval theam=\$am$order
+eval theam=\"\$am$order\"
 printf "$enter"
 printf "  $theam"
 printf "$enter"
@@ -3676,7 +3676,7 @@ while read -n1 WSAD ;do
 done
 [[  $once -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
 [[  $once -eq 0  ]] && once=1 && printf "\033[1m" && printf "  $am1"  && printf "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
-eval theam=\$am$order
+eval theam=\"\$am$order\"
 printf "$enter"
 printf "  $theam"
 printf "$enter"
@@ -3687,7 +3687,7 @@ printf "  $enter"
 [[  "$order" -eq 5  ]]  && printf "\033[${down5}A$enter"
 [[  "$order" -eq 5  ]] && order=1
 
-eval theam=\$am$order
+eval theam=\"\$am$order\"
 printf "\033[${down}B$enter\033[1m"
 printf "  $theam"
 printf "$enter\033[0m"
@@ -3698,7 +3698,7 @@ eval down=\${down$order}
 printf "  $enter"
 [[  "$order" -eq 0  ]]  && printf "\033[$((down6-1))B$enter"
 [[  "$order" -eq 0  ]] && order=4
-eval theam=\$am$order
+eval theam=\"\$am$order\"
 [[  "$order" -ne 4  ]] &&  printf "\033[${down}A$enter"
 printf "\033[1m"
 printf "  $theam"
@@ -3718,7 +3718,7 @@ order=$((order+1))
 printf "  $enter"
 [[  "$order" -eq 5  ]] && printf "\033[${down5}A$enter"
 [[  "$order" -eq 5  ]] && order=1
-eval theam=\$am$order
+eval theam=\"\$am$order\"
 printf "\033[${down}B$enter\033[1m"
 printf "  $theam"
 printf "$enter\033[0m"
