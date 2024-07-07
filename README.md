@@ -84,4 +84,4 @@ subscribe	捐款，订阅，签署，赞成，预订
 #### 已知的问题
 1. 代码不规范
 
-![BET-ish.gif](https://github.com/ubun222/Bash-English-Training/blob/main/img/BET-ish.gif?raw=true) ![BET-termux.gif](https://github.com/ubun222/Bash-English-Training/blob/main/img/BET-termux.gif?raw=true)
+---
