@@ -3462,11 +3462,10 @@ continue
 fi
 done
 
-
 if [[  "$order" -eq "$insert"  ]];then
 orders=0
-theam=${theam/  /}
-eval 'printf \"\$enter\\033[0m\\033[1m\\033[32m->\\033[0m\\033[1m\$theam\$enter\"'
+theam="${theam/  /}"
+eval printf \"\${enter}\\033[0m\\033[1m\\033[32m\-\>\\033[0m\\033[1m\${theam}\${enter}\"
 down=0
 one=
 case $order in 
@@ -3492,14 +3491,14 @@ bool=
 printf "\r"
 colourp 2>/dev/null
 
-[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B"
-[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && printf "$one"
+[[  "$abool" == ""  ]] || [[  "$abool" == "$LF"  ]] || [[  "$abool" == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B"
+[[  "$abool" == ""  ]] || [[  "$abool" == "$LF"  ]] || [[  "$abool" == "$CR"  ]]   && printf "$one"
 
 printf "\033[0m"
 else
 orders=0
-printf "$enter\033[31m%s\033[0m\r" "->"
-
+#printf "$enter\033[31m%s\033[0m\r" "->"
+eval printf \"\${enter}\\033[0m\\033[1m\\033[31m\-\>\\033[0m\${enter}\"
 down=0
 one=
 case $order in 
@@ -3526,8 +3525,8 @@ printf "\r"
 
 colourp 2>/dev/null
 
-[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B" 
-[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && printf "$one"
+[[  "$abool" == ""  ]] || [[  "$abool" == "$LF"  ]] || [[  "$abool" == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B" 
+[[  "$abool" == ""  ]] || [[  "$abool" == "$LF"  ]] || [[  "$abool" == "$CR"  ]]   && printf "$one"
 
 fi
 
@@ -3778,8 +3777,8 @@ printf "\r"
 answer2="$question"
 answer1="$answer"
 colourp 2>/dev/null
-[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B"
-[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && printf "$one"
+[[  "$abool" == ""  ]] || [[  "$abool" == "$LF"  ]] || [[  "$abool" == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B"
+[[  "$abool" == ""  ]] || [[  "$abool" == "$LF"  ]] || [[  "$abool" == "$CR"  ]]   && printf "$one"
 else
 isright=0
 printf "\033[31m%s\033[0m\r" "->"
@@ -3809,8 +3808,8 @@ bool=
 answer2="$question"
 answer1="$answer"
 colourp 2>/dev/null
-[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B" 
-[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   &&   printf "$one"
+[[  "$abool" == ""  ]] || [[  "$abool" == "$LF"  ]] || [[  "$abool" == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B" 
+[[  "$abool" == ""  ]] || [[  "$abool" == "$LF"  ]] || [[  "$abool" == "$CR"  ]]   &&   printf "$one"
 fi
 
 fi
