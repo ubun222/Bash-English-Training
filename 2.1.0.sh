@@ -1,4 +1,3 @@
-abc="$(stty -g)"
 p=1;n1=0;l=0;n=1;output25=0;outputed=0;use=${use:-2};wlist=1;a0=1;lastn=0;tno=0;ca0=0;bigi=0;RC=1;record=0;RWN1=1;gcounts=0;alrw=;allrw=
 Path="$(dirname $0)"
 tline=$(printf "\033[32m●\033[0m")
@@ -15,12 +14,6 @@ Block="  "
 Back="$(printf "\b")"
 Backs="$Back$Back"
 IFSbak=$IFS
-
-needo=;now2=0;new3=0;passd=-1;getin=3;vback=0;whereb=-1;wherec=-2;vback=0;premode=1;calenda=-1;pos1=-1;pos2=-2
-
-ccat(){
-  printf "%d" "'$1"
-}
 
 read -n1 AScii <<EOF
 `printf "\033[0m"`
@@ -85,10 +78,9 @@ $allif"
 calendar()
 {
 calenda=1
-#stty echo
   # clear
 cd $Path
-if [[  ${txtp:-0} -eq  1  ]];then
+if [[  $txtp -eq  1  ]];then
 cd "$txtname"
 else
 cd ./txt
@@ -197,8 +189,7 @@ do
 [[  $use  -eq  1  ]] &&  mpreload
 echo
 printf "\033[0m"
-stty "$abc" # ash only
-read  -p  请输入目标，按回车键加载词表: the #双列
+read  -p  请输入目标，按回车键加载词表: the
 
 [[  $i  -eq  1  ]] && [[  "$the"  ==  ''  ]]  && echo 未选择...加载第一张 && the="$(echo "$txtall" | tail -n1)" && read -t 2
 [[  "$the"  ==  ''  ]] && echo 加载中......  &&  break
@@ -207,9 +198,9 @@ txtall="$(echo "$txtall" | grep -e  "$the" )"
 
 pt="$(printf "${txtall}\n\n" | sed 'N;s/\n/ /')"
 
-#none="$(echo ${txtall})"
+none="$(echo ${txtall})"
 
-if [[  "$txtall" != ""  ]] ;then
+if [[  $none != ""  ]] ;then
 clear &&  while read line ;do
 sleep 0.008
 [[  "${#line}" -le  "$((COLUMN-2))"  ]] && printf "%-16s  %s\n"  $line  && continue
@@ -242,14 +233,14 @@ eetxt=
 exec 3<"$line"
 read -r -d "\\"  -u 3 aetxt
 
-if [[  "${aetxt}" =~ "	"  ]] ;then
+if [[  "$aetxt" =~ "	"  ]] ;then
 targets=$targets' '${line}
-#aetxt="$(printf "%s" "$aetxt"  | tr ' ' '/')"
+aetxt="$(printf "%s" "$aetxt"  | tr ' ' '/')"
 
-if [[  "${Json:-0}" -eq 1  ]];then
+if [[  "$Json" -eq 1  ]];then
 txtjson="${line%%txt}json"
 
-if [[  -e "$txtjson"  ]] ;then
+if [[ -e "$txtjson"  ]] ;then
 [[  $alljson != ""  ]] && alljson="$alljson
 $txtjson
 "
@@ -308,14 +299,13 @@ for i in $(seq 100)
 do
 
 [[  $use  -eq  1  ]] &&  mpreload
-stty "$abc" # ash only
-read  -p  请输入目标，按回车键结束: the #单列
+read -e -p  请输入目标，按回车键结束: the
 [[  $i  -eq  1  ]] && [[  "$the"  ==  ''  ]]  && echo 未选择...加载第一张 && the="$(echo "$txtall" | tail -n1)" && read -t 2 
 [[  "$the"  ==  ''  ]]  && echo 加载中......  &&  break
 
-txtall=$(echo "$txtall" | grep -e  "$the" )
-#none="$(echo ${txtall})"
-if [[  "$txtall" != ""  ]] ;then
+txtall=$(echo "$txtall" | grep -a  "$the" )
+none="$(echo ${txtall})"
+if [[  $none != ""  ]] ;then
 clear &&  echo "$txtall"
 
 else 
@@ -339,9 +329,9 @@ if [[  "$aetxt" =~ "	"  ]] ;then
 targets=$targets' '${line}
 
 
-aetxt="$(printf "%s" "$aetxt" )"
+aetxt="$(printf "%s" "$aetxt"  | tr ' ' '/')"
 
-if [[  "${Json:-0}" -eq 1  ]];then
+if [[  "$Json" -eq 1  ]];then
 txtjson="${line%%txt}json"
 
 if [[ -e "$txtjson"  ]] ;then
@@ -666,8 +656,8 @@ printf "$(date  +"%Y-%m-%d %H\033[5m:\033[0m\033[2m\033[3m%M\033[5m:\033[0m\033[
 
 echo
 printf "\033[?25l"
-printf "$strs\n"
-printf "\033[2A\033[2m\033[3m"
+ishprt "$strs\n"
+ishprt "\033[2A\033[2m\033[3m"
 while true;do
 sleep 0.25 &&  read -s -t0  && break
 sleep 0.25 &&  read -s -t0  && break
@@ -675,7 +665,7 @@ sleep 0.25 &&  read -s -t0  && break
 sleep 0.249 &&  read -s -t0  && break
 printf "$(date  +"%Y-%m-%d %H\033[1C%M\033[1C%S")\r"
 done
-read -t 0.1
+read -s -t 0.1
 printf "\033[0m\033[3m"
 echo
 
@@ -719,7 +709,7 @@ read -s -t0.1
 loadcontent()
 {
 
-if [[  "${verify:-0}" != "y"  ]] ;then
+if [[  "$verify" != "y"  ]] ;then
 
 struct
     c="$(echo "$targets" | tr " " "\n")"
@@ -741,7 +731,7 @@ fi
 
 RWN1=1
 
-if [[  "${Json:-0}" -eq 1  ]] ;then
+if [[  "$Json" -eq 1  ]] ;then
 for S in $(seq 1 $COLUMN);do
 strss="$strss-"
 done
@@ -764,7 +754,7 @@ fi
 
 
 echo
-if [[  "${record:-0}" == 1  ]] && [[  "${calenda:-0}" == 1  ]] ;then
+if [[  "$record" == 1  ]] && [[  "$calenda" == 1  ]] ;then
     echo
 RWN=1
 cd ..
@@ -779,7 +769,7 @@ cd "$thepath"
 
     while read atarget ;do
     #echo $atarget
-[[  "${atarget}" == ""  ]] &&  continue
+[[  ${atarget} == ""  ]] &&  continue
 [[ ! -e ${atarget}  ]] && echo \\\\\\\\\\\\ >"$atarget" 
     
     eval rw$RWN="${atarget}"
@@ -878,11 +868,11 @@ outputed=${output5:-0}
 fi
 [[ ${#str} -eq 25 ]] && str=
 
-lleft=$(echo "$line" | awk 'BEGIN{FS="	";RS="\n"}{printf $1}'  )
-right="$(echo "$thetxt" | sed -n "$list,${list}p" | awk 'BEGIN{FS="	"}{print $NF}' )"
+lleft=$(echo "$line" | awk '{printf $1}' | tr "/" " " )
+right="$(echo "$thetxt" | sed -n "$list,${list}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
 right=${right:-/}
 alldata="$lleft $right"
-aline="$(printf "%s" "${line}" | tr -s  "	" | tr " 	" " "  )"
+aline="$(printf "%s" "${line}" | tr -s  "	" | tr " 	" " " | tr "/" " " )"
 if [[  "$alldata" == "$aline" ]] ;then
 eval lr$wlist="$(echo "\$lleft")" #eval的空格需要''才能赋值，否则被视为命令行中的空格
 eval lr$((wlist+1))="$(echo "\$right")"
@@ -922,118 +912,58 @@ echo  "${strs}"
 therw=
 }
 
-Fresh() #ash only
+Fresh()
 {
   if [[  "$1" != ""  ]];then
  p="$1"
   fi
-  #echo $p
-  tt=0
 whereadd=0
 counts=0
 counts2=0
 CO=$COLUMN
-#iq=${#p}
-iq="$(printf "$p" | wc -c)"
+iq=${#p}
 skip=0
 st=0
+for t in `seq $iq`;do
+tt=$t
+t1=$((tt-1))
+id=${p:$t1:1}
 
-t=1
-nq=0
-maxstrs=${#p}
-izhpt=0
-while true;do
-temp1=0
-tt=$t  #第几个字节
-t1=$((tt-1)) 
-[[  $iq -le $tt  ]] && break  #第几个字符
- id=${p:$t1:1}
-#echo $id | hexdump
-#printf "$id"
-
-
-if [[  "$skip" -eq 1 ]] && [[  "$id" == "m"  ]];then
+if [[ "$skip" -eq 1 ]] && [[  "$id" == "m"  ]];then
 skip=0
-nq=$((nq+1))
-t=$((t+1))
 continue
 fi
 
-if [[  "$skip" -eq 1  ]] ;then
-nq=$((nq+1))
-t=$((t+1))
-continue
-fi
-
-
-if [[  "$id" == "$_1B5B"  ]] ;then
+if [[  "$id" == "\\"  ]] && [[  "$2" -eq 1  ]];then
 skip=1
-nq=$((nq+1))
-t=$((t+1))
 continue
 fi
 
-if [[  "$id" == "\\"  ]] ;then
+if [[  "$id" == "$AScii"  ]] && [[  "$2" -eq 1  ]];then
 skip=1
-nq=$((nq+1))
-t=$((t+1))
 continue
 fi
 
-if [[  $(ccat "$id") -eq  10  ]];then
-echo 有空格
+if [[  "$skip" -eq 1  ]];then
 continue
 fi
-
-if [[  $(ccat "$id") -lt 32  ]];then
-t=$((t+1))
-continue
-fi
-if  [[  `ccat "${id}"` -ge 32  ]] && [[  `ccat "${id}"` -le 128  ]] ;then
-nq=$((nq+1))
-t=$((t+1))
+if [[  "$id"  ==  [a-zA-Z\ -\…]   ]];then
 counts=$((counts+1))
-izhpt=0
-elif  [[  `ccat "${id}"`  -ge  227   ]] && [[  `ccat "${id}"`  -le  239    ]] ;then #\xe3-\xef
-#zscanf="$(printf "%s%s" "$zscanf${ascanf}")"
-#echo `ccat "${ascanf}"`
-
-
-nq=$((nq+1)) &&  t=$((t+3)) && counts=$((counts+2)) && temp1=2
-
-
-
-#counts=$((counts+2))
-elif  [[  `ccat "${id}"`  -ge  224   ]] && [[  `ccat "${id}"`  -lt  227    ]] ;then
-
-
-nq=$((nq+1)) &&  t=$((t+3)) && counts=$((counts+1)) && temp1=2
-
-
-
-elif  [[  `ccat "${id}"`  -lt  224   ]] && [[  `ccat "${id}"`  -gt  128    ]] ;then
-
-nq=$((nq+1)) &&  t=$((t+2)) && counts=$((counts+1)) && temp1=1
-
-
 else
-printf "$id" | hexdump
-break
+counts=$((counts+2))
 fi
-#t=$((t+1))
 
 if [[  "$counts" -ge "$CO"  ]] ;then
 if [[  "$((counts%CO))" -eq 1  ]] ;then
 [[  $st -le 0  ]] && st=0
 return 5 
 fi
-st=$((tt+temp1))
+st=$tt
 CO=$((CO+COLUMN))
 continue
 else
 continue
 fi
-
 done
 }
 
@@ -1041,11 +971,10 @@ done
 pprep()
 {
 pp="$pureanswerd"
-#echo $pureanswerd
-if [[  "${ish:-0}" == "y"  ]];then
+if [[  "$ish" == "y"  ]];then
 while true;do
 st=0
-Fresh "$pp"
+Fresh "$pp" 1
 if [[  "$?" -eq 5  ]];then
 pp="${pp:0:$st}~${pp:$st}"
 else
@@ -1059,7 +988,7 @@ done
 
 
 fi
-[[  "${pp}" != ""  ]] && printf "\r$pp\n"
+[[  $pp != ""  ]] && ishprt "\r$pp\n"
 }
 
 
@@ -1077,11 +1006,11 @@ break
 fi
 done
 fi
-[[  "$p" != ""  ]] && printf "%s$2" "$p"
+[[  $p != ""  ]] && printf "%s$2" "$p"
 }
 
 ishprt(){
-if [[  "${ish:-0}" == "y"   ]] ;then
+if [[  "$ish" == "y"   ]] ;then
 while true;do
 printf "$1$pd" "$2" $3
 read -t 0.5 -d \R
@@ -1097,7 +1026,7 @@ fi
 tprep()
 {
   p="$1"
-if [[  "${ish:-0}" == "y"  ]];then
+if [[  "$ish" == "y"  ]];then
 while true;do
 st=0
 Fresh
@@ -1108,7 +1037,7 @@ break
 fi
 done
 fi
-[[  "$p" != ""  ]] && printf "\033[3m\033[2m$p\n"
+[[  $p != ""  ]] && printf "\033[3m\033[2m$p\n"
 }
 
 prepn()
@@ -1156,18 +1085,18 @@ Thestdout="错题+1\n" && Thestdout2="错题-1\n"
 hide=0
 if [[  "$isright" -eq "1"  ]] || ifright ;then
 hide=1
-printf   "\r\033[${COL}C%s\r"  ${tline}
+ishprt   "\r\033[${COL}C%s\r"  ${tline}
 elif [[ "${scanf:-0}" = "0" ]]; then
-printf  "\r\033[${COL}C%s\r"  ${nline}
+ishprt  "\r\033[${COL}C%s\r"  ${nline}
 RC=1
 else
-printf   "\r\033[${COL}C%s\r"  ${fline}
+ishprt   "\r\033[${COL}C%s\r"  ${fline}
 RC=1
 fi
 
 
 while true;do
-read -n1 -s abool 
+read -s  -n1  abool 
 ttf=$?
 IFS=$IFSbak
 
@@ -1179,14 +1108,14 @@ printf "\n$enter" && bool="$abool"
 break
 elif [[  "$abool"  ==  "s" ]] ||  [[  "$abool"  ==  "S"  ]];then
 bool="s"
-[[  $premode -ne 3  ]] && [[  $minifun != true  ]] && printf "$enter\033[K"
-[[  $premode -eq 3  ]] || [[  $minifun == true  ]] && printf "$enter"
+[[  $premode -ne 3  ]] && [[  $minifun != true  ]] && printf "\n$enter\033[K"
+[[  $premode -eq 3  ]] || [[  $minifun == true  ]] && printf "\n$enter"
 break
 elif [[  "$abool"  ==  "j"  ]] || [[  "$abool"  ==  "J"  ]];then
-printf "$enter\n" && bool="$abool"
+printf "\n$enter\033[K" && bool="$abool"
 pprep  # "$pureanswerd"
 break
-elif [[  "$abool" == "$LF"  ]] || [[  "$abool" == "$CR"  ]] || [[  "$abool" == ""  ]] && [[  $ttf == "0"  ]] ;then
+elif [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]] || [[  $abool == ""  ]] && [[  $ttf == "0"  ]] ;then
 printf "\n"
 break
 else
@@ -1196,18 +1125,17 @@ done
 
 bool=${bool:-0}
 
-printf "$enter"
-
+printf "\r"
 if [[  "$bool" != 'Y' && "$bool" != 'V'  && "$bool" != 'S'  && "$bool" != 's'   ]];then
 [[  $premode -eq 3  ]] && [[  $order -ne 4  ]] && [[  $down -gt 0  ]] && printf "\033[${down}B$enter" 
 [[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && printf "$one" 
 down=0
 one=
 fi
-if [[  "$bool" == 'y'  ]] || [[  $bool == 'Y'  ]]  ; then
+if [[  $bool == 'y'  ]] || [[  $bool == 'Y'  ]]  ; then
 if [[  "$bool"  ==  "Y"  ]] ;then
 RC=0
-printf  "\033[1A\033[%dC%s\n\r" ${COL}  "${eline}"
+ishprt  "\033[1A\033[${COL}C%s\n\r"  "${eline}"
 [[  $premode -eq 3  ]] && [[  $order -ne 4  ]] && [[  $down -gt 0  ]] && printf "\033[${down}B$enter" 
 [[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && printf "$one" 
 down=0
@@ -1217,10 +1145,10 @@ fi
 yes
 [[  $premode -eq 3  ]]  && echo
 down=0
-elif [[  "$bool" == 'v' ]] || [[ $bool == 'V' ]]; then
+elif [[ $bool == 'v' ]] || [[ $bool == 'V' ]]; then
 if [[  "$bool"  ==  "V"  ]] ;then
 RC=0
-printf  "\033[1A\033[%dC%s\n\r" ${COL}  "${eline}"
+ishprt   "\033[1A\033[${COL}C%s\n\r"  "${eline}"
 [[  $premode -eq 3  ]] && [[  $order -ne 4  ]] && [[  $down -gt 0  ]] && printf "\033[${down}B$enter" 
 [[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && printf "$one" 
 down=0
@@ -1234,7 +1162,7 @@ down=0
 elif [[  $bool == 's'  ]] || [[  $bool == 'S'  ]]  ; then
 RC=0
 
-printf   "\033[${COL}C%s\n\r"  "${eline}"
+ishprt   "\033[1A\033[${COL}C%s\n\r"  "${eline}"
 [[  $premode -eq 3  ]] && [[  $order -ne 4  ]] && [[  $down -gt 0  ]] && printf "\033[${down}B$enter" 
 [[  $premode -eq 3  ]]  && [[  $order -ne 4  ]] && printf "$one" 
 down=0
@@ -1470,11 +1398,7 @@ Vlineraw="$(echo  "$content" | grep  "\\b${answer1}\\(ed\\|ing\\|s\\)\\?\\b" | g
 
 
  aq="$(printf "${answer1}\t\t\t\t\t${answer2}")"
-echo "$therw"| xargs sed -i""  "1i\\
-${aq}
-"   -i ""  "1i\\
-${aq}
-"
+sed -i""  "1i\\${aq}" "$therw"  || sed -i ""  "1i\\${aq}" "$therw"
 printf "\n$Ylineraw\n$Vlineraw\n\n" >> $therw
 [[  $premode -ne 3  ]] && printf "$Thestdout"
 [[  $premode -eq 3  ]] && printf "$Thestdout"
@@ -1524,161 +1448,230 @@ ccc
 
 
 
+r_ead()
+{
 stty -echo
-stty cbreak
+bd=1
+wait1=
+now=
+IFS=$ENTER
+read -s -t0.1  -n1 bscanf  2>/dev/null
+bd=$?
+if [[  "$bd" -ne 0   ]] ;then
+[[  "$waiting" == "1"  ]] && waiting=0  && bscanf=  && waiting=0
+[[  "$ascanf" == ""  ]] && wait1=1 && waiting=0
+elif [[  "$bd" -eq 0   ]]; then  
+waiting=1
+wait=
+
+fi
+if [[   $waiting -eq 0  ]] ;then
+if [[  "$vback" -eq 1   ]] ;then
+printf "\033[6n"
+read -s -d \[ 
+read -t 0.1 -s -d \R pos2
+whereb="${pos2/#*;/""}"
+if [[  $whereb -eq $((COLUMN))  ]] ;then
+sii=0;
+dian=0;
+while [[  $sii -le ${#scanf}  ]] ;do
+[[  "${scanf:sii:1}" == [a-z\.\(\)\<\>\&]  ]] &&  dian=$((dian+1))
+sii=$((sii+1));
+done
+[[  $((${#scanf}*2+$la+9-$COLUMN)) -eq $dian  ]] && ascanf="$Back $Back"
+fi
+fi
+fi
+if [[  "$ascanf" != ""   ]]  ;then
+printf "${ascanf}" 
+if [[  "$vback" -ne 1   ]] ;then
+[[  "$waiting" == "0"  ]] && [[  $wait1 -ne 1  ]] &&  ififright && waiting=1 && stty -echo  && return 22
+fi
+fi
+[[  "$bd" -eq 0   ]]  &&  waiting=1 && ascanf="$bscanf"
+if [[   $waiting -eq 0  ]] ;then
+if [[  "$vback" -eq 1   ]] ;then
+printf "\033[6n"
+read -s -d \[ 
+read -t 0.1 -s -d \R pos1
+wherec="${pos1/#*;/""}"
+if [[  $wherec -eq $((COLUMN-2))  ]] ;then
+sii=0;
+dian=0;
+while [[  $sii -le ${#scanf}  ]] ;do
+[[  "${scanf:sii:1}" == [a-z\.\(\)\<\>\&]  ]] &&  dian=$((dian+1))
+sii=$((sii+1));
+done
+[[  $((${#scanf}*2+$la+9-$COLUMN)) -eq $dian  ]] && printf "\033[1C"
+fi
+fi
+kblock=1
+read  -s -n1 ascanf
+fi
+
+IFS=$IFSbak
+}
+
 while true;do
 printf "\033[6n" && read -t 0.5 -s -d \[ bb && read -t 0.5 -s  -d \R 
-#printf "$bb" | hexdump
 [[  "$?" -eq 142  ]] && continue
 break
 done
-stty "${abc}"
 
 _read_() #termux
 {
-[[  "$((nb))"  == "$((ib))"   ]] && waiting=0 && bscanf=  && ib= && nb=0
+[[  "$((nb))"  == "$ib"   ]] && waiting=0 && bscanf=  && ib= && nb=0
 bd=0
-if  [[  "${ascanf:-0}" != "0"   ]] || [[  "${zhpt:-0}" != 0  ]] || [[  "${vback}" -eq "1"   ]] ;then
-if [[  ${bd} -ne 1   ]] && [[  $waiting -eq 0   ]];then
+if [[  "$ascanf" != ""   ]]  && [[  "${#scanf}" -ne "0"  ]] || [[  "$vback" -eq "1"   ]] ;then
+while true;do
+#[[  "$ascanf" == ""   ]] && [[  "$vback" -ne "1"  ]]  && break
+
+if [[  $bd -ne 1   ]]  && [[  $waiting -eq 0   ]];then
 printf "\033[6n"
 read -t 0.3 -s -d \[ bscanf
+[[  "$?" -ne 0  ]] && continue
 bd=1
-ib=$(printf "%s" "${bscanf}" | wc -c ) #ash only
-#echo $ib
+ib=${#bscanf}
 waiting=1
 [[  "$ib" -le "1"   ]] && bscanf=""  && waiting=0
-bscanf="${bscanf%"$bb"}"
+bscanf="${bscanf%%"$bb"}" 
 read -t 0.3 -s -d \R pos1
+[[  "$?" -ne 0  ]] && continue
+#[[  "$waiting" -eq "1"   ]] && bscanf="$needpt"
+
 else
+#read -t 0.8 -s -d \[ 
+#[[  "$?" -ne 0  ]] && continue
 pos1="$pos2"
 fi
+#ib=${#bscanf}
+#echo $ib
+#[[  "$ib" -le "1"   ]] && bscanf=""
+#[[  "$waiting" == "1"   ]] && bscanf="$needpt"
 
-az=1
-[[   "$ascanf"  !=   [a-z\.\(\)\<\>\&]   ]] && az=0
-
-
-if [[  "$which" == "zh"  ]] && [[  ${vback} -ne 1  ]] && [[   "${az}" == 0  ]];then
-is=$(printf "${scanf}" | wc -c )
-if ([[  ${whereb:--1} -eq $((COLUMN-2))  ]] &&  [[  "${scanf:$((${is}-2)):1}" !=  [a-z\.\(\)\<\>\&]  ]]) || ( [[  $((whereb)) -ne $((COLUMN-1)) ]] && [[  "$reg2" == " \b\033[1C"  ]] ) || ( [[  ${now4:-0} -eq 1  ]]  &&  [[  "${wherec:--2}" -eq "$COLUMN"  ]]) && now4= ;then
-whereb="${pos1##*;}" && [[  ${whereb:--1} -eq $((COLUMN))  ]] && ascanf="~$ascanf" && needo=1
+#[[  "$?" -ne 0  ]] && passs=1 &&  continue 
+break
+done
+if [[  "$which" == "zh"  ]] && [[  $vback -ne 1  ]] ;then
+if [[  "$ascanf" !=  [a-z\.\(\)\<\>\&]  ]] && ([[  $whereb -eq $((COLUMN-2))  ]] &&  [[  "${scanf:$((${#scanf}-2)):1}" !=  [a-z\.\(\)\<\>\&]  ]]) || ( [[  $((whereb)) -ne $((COLUMN-1)) ]] && [[  $reg2 == " \b\033[1C"  ]] ) || ( [[  $now4 -eq 1  ]]  &&  [[  $wherec -eq $COLUMN  ]]) && now4= ;then
+whereb="${pos1/#*;/""}" && [[  $whereb -eq $((COLUMN))  ]] && ascanf="~$ascanf" && needo=1
 else
-whereb="${pos1##*;}"
+whereb="${pos1/#*;/""}"
 fi
 fi
-while [[  $az -eq 1  ]] || [[  "${zhpt:-0}" == 3  ]] || [[  ${vback} -eq 1  ]] ;do  #ash only
+
+
+while true;do
 printf "%s" "${ascanf}"  
-[[  "${vback}" -ne "1"  ]]  &&  [[  "${bscanf:-0}" == "0"  ]]  &&  ififright && stty -echo && return 22
+[[  "$vback" -ne "1"  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
 stty -echo
 printf "\033[6n" && read -t 0.3 -s -d \[  && read -t 0.3 -s  -d \R pos2
-now3=0
-now2=0
+now3=
+now2=
 now=
 now4=
 
-if [[  "${vback:-1}" -ne "1"   ]];then
+if [[  ${vback} == ""   ]];then
 [[  "$which" == "en"  ]] && break
-if [[  "${pos1:-0}" != "${pos2:-0}"  ]] ;then
-[[  $whereb -eq $((COLUMN-1))  ]] && [[  "$az" ==  1  ]] && now4=1 
+if [[  "$pos1" != "$pos2"  ]] ;then
+[[  $whereb -eq $((COLUMN-1))  ]] && [[  "$ascanf" ==  [a-z\.\(\)\<\>\&]  ]] && now4=1 && wherec="${pos2/#*;/""}"
 
-if [[  "$az" == 0  ]]   ; then
-wherec="${pos2##*;}"
+if [[  "$ascanf" !=   [a-z\.\(\)\<\>\&]   ]]   ; then
+wherec="${pos2/#*;/""}"
 Pos="$((wherec-whereb))"
-[[  "${Pos:-0}" -eq "1"  ]] && now3=1 
+[[  "$Pos" -eq "1"  ]] && now3=1 && needo= #防止第二行使用第一行的needo
 fi
-
 break
 else
-wherec="${pos2##*;}"
+wherec="${pos2/#*;/""}"
 [[  $wherec -eq $COLUMN  ]] && [[  "$ascanf" ==  [a-z\.\(\)\<\>\&]  ]] && needo=0 && now3=2 && break
 break
 fi
 fi
-if [[  "${vback:-1}" -eq "1"   ]] ;then
-wherec="${pos2##*;}"
-[[  "${needo}" != "1"  ]] && reg=$((COLUMN))
-[[  "${needo}" == "1"  ]] && reg=$((COLUMN-3))
-[[  ${wherec:-0} -eq 1  ]]  && printf %s"\r\033[1A\033[${reg}C" "" && now2=1
+
+if [[  ${vback} == "1"   ]] ;then
+wherec="${pos2/#*;/""}"
+[[  "$needo" -ne 1  ]] && reg=$((COLUMN))
+[[  "$needo" -eq 1  ]] && reg=$((COLUMN-3))
+[[  $wherec -eq 1  ]]  && printf %s"\r\033[1A\033[${reg}C" "" && now2=1
 break
 fi
-break
+
 done
 fi
 
 
-if  [[  "${bscanf:-0}"  == "0"   ]] ; then
+if  [[  "$bscanf"  == ""   ]] ; then
 kblock=1
 IFS=$ENTER
-
 read -s -n1 ascanf 
-read -s -t 0 -n 0 && bd=2
-#printf "$ascanf" | hexdump
 IFS=$IFSbak
-elif [[  "${bscanf:-0}"  != "0"   ]];then 
-ib=$(printf "%s" "${bscanf}" | wc -c )
+
+elif [[  "$bscanf"  != ""   ]];then 
+#stty -echo
+#[[  "$((nb))"  == "$ib"   ]] && waiting=0
+#needpt="${bscanf%%"$bb"}"
+ib=${#bscanf}
+#printf "!$needpt"
 ascanf="${bscanf:$nb:1}"
-#echo $ib
+#echo $nb
 nb=$((nb+1))
+#waiting=1
+
+#[[  "$((nb))"  == "$ib"   ]] && waiting=0 && IFS=$ENTER &&  read -s -n1 ascanf && IFS=$IFSbak
 fi
 }
 
 _read() #ish
 {
 [[  "$((nb))"  == "$ib"   ]] && waiting=0 && bscanf=  && ib= && nb=0
-bd=0
-if  [[  "${ascanf:-0}" != "0"   ]] || [[  "${zhpt:-0}" != 0  ]] || [[  "${vback}" -eq "1"   ]] ;then #ash only
+
+if [[  "$ascanf" != ""   ]]  && [[  "${#scanf}" -ne "0"  ]] || [[  "$vback" -eq "1"   ]] ;then
 if [[  $bd -ne 1   ]]  && [[  $waiting -eq 0   ]];then #获取第二个开始的字符串
 printf "\033[6n"
-
 read -t 0.25 -s -d \[ bscanf
 
 bd=1
-ib=$(printf "%s" "${bscanf}" | wc -c )
+ib=${#bscanf}
 waiting=1
 [[  "$ib" -le "1"   ]] && bscanf=""  && waiting=0
-bscanf="${bscanf%"$bb"}"
+bscanf="${bscanf%%"$bb"}" 
 read -t 0.25 -s -d \R pos1
-#echo 0
 else  #更新光标位置
 pos1="$pos2"
-#echo 1
 fi
 
-az=1
-[[   "$ascanf"  !=   [a-z\.\(\)\<\>\&]   ]] && az=0
-
-
-while [[  $az -eq 1  ]] || [[  "${zhpt:-0}" == 3  ]] || [[  ${vback} -eq 1  ]] ;do #ash only
+while true;do
 printf "%s"  "${ascanf}"  
-[[  ${vback} -ne 1  ]] && [[  "${ascanf:-0}" != "0"  ]]  &&  [[  "${bscanf:-0}" == "0"  ]]  &&  ififright && stty -echo && return 22
+[[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
 stty -echo
 
 printf "\033[6n" && read -t 0.25 -s -d \[  && read -t 0.25 -s  -d \R pos2
 
-now3=0
-now2=0
+now3=
+now2=
 now=
 
-wherec="${pos2##*;}"
-#echo $wherec
+wherec="${pos2/#*;/""}"
 if [[  "$pos1" != "$pos2"  ]] ;then
 
-if [[   "$which" == "zh"  ]] && [[   "$az" == "0"   ]]  &&  [[  "$vback" != "1"  ]]  ; then
-whereb="${pos1##*;}"
+if [[   "$which" == "zh"  ]] && [[  "$ascanf" !=   [a-z\.\(\)\<\>\&]   ]]  &&  [[  "$vback" != "1"  ]]  ; then
+whereb="${pos1/#*;/""}"
 Pos="$((wherec-whereb))"
-[[  $Pos -eq 1  ]] && now3=1 
+[[  "$Pos" -eq "1"  ]] && now3=1 && needo= #防止第二行使用第一行的needo
 fi
 else
 [[  "$which" == "en"  ]] && break
-if [[   "$which" == "zh"  ]] && [[  "${vback}" -ne  "1"  ]] ;then
-[[  $wherec -eq $COLUMN  ]] && [[  "$az" ==  1  ]] && needo=0 && now3=2 && break
+if [[   "$which" == "zh"  ]] && [[  "$vback" -ne  "1"  ]] ;then
+[[  $wherec -eq $COLUMN  ]] && [[  "$ascanf" ==  [a-z\.\(\)\<\>\&]  ]] && needo=0 && now3=2 && break
 [[  $wherec -eq $COLUMN  ]]  && printf   " " && needo=1 && continue
 fi
 
 fi
 
-if [[  "${vback}" -eq "1"   ]] && [[  $wherec -eq 1  ]] &&  [[   "$which" == "zh"  ]] ;then
-[[  "$needo" != "1"  ]] && reg=$((COLUMN))
-[[  "$needo" == "1"  ]] && reg=$((COLUMN-3))
+if [[  ${vback} -eq "1"   ]] && [[  $wherec -eq 1  ]] &&  [[   "$which" == "zh"  ]] ;then
+[[  "$needo" -ne 1  ]] && reg=$((COLUMN))
+[[  "$needo" -eq 1  ]] && reg=$((COLUMN-3))
 printf %s"\r\033[1A\033[${reg}C" "" && now2=1
 break
 fi
@@ -1687,7 +1680,7 @@ break
 done
 fi
 
-if  [[  "${bscanf:-0}"  == "0"   ]] ; then
+if  [[  "$bscanf"  == ""   ]] ; then
 kblock=1
 bd=0
 IFS=$ENTER
@@ -1695,8 +1688,8 @@ read -s -n1 ascanf
 read -t 0 && bd=2
 IFS=$IFSbak
 
-elif [[  "${bscanf:-0}" != "0"   ]];then 
-ib=$(printf "%s" "${bscanf}" | wc -c )
+elif [[  "$bscanf"  != ""   ]];then 
+ib=${#bscanf}
 ascanf="${bscanf:$nb:1}"
 nb=$((nb+1))
 fi
@@ -1720,15 +1713,15 @@ printf "\033[6n"
 read -t 0.8 -s -d \[ bscanf
 if [[  $? -eq 142  ]] && [[ !  "$bscanf" =~ "$bb"  ]];then
 bd=1
-ib=$(printf "%s" "${bscanf}" | wc -c )
+ib=${#bscanf}
 [[  "$ib" -eq "0"   ]] && bscanf=""  && waiting=0
 continue
 else
 bd=1
-ib=$(printf "%s" "${bscanf}" | wc -c )
+ib=${#bscanf}
 waiting=1
 [[  "$ib" -le "1"   ]] && bscanf=""  && waiting=0
-bscanf="${bscanf%"$bb"}"
+bscanf="${bscanf%%"$bb"}" 
 fi
 while true;do
 read -t 0.8 -s -d \R pos1
@@ -1745,8 +1738,8 @@ done
 need6n=
 
 
-whereb="${pos1##*;}"
-[[  $whereb -eq $((COLUMN))  ]] && [[   "$which" == "zh"  ]] && [[  "$ascanf" !=  [a-z\.\(\)\<\>\&]   ]]  &&  [[  "$vback" != "1"  ]] && [[  "$needo" != "1"  ]]  && printf   " " && needo=1;
+whereb="${pos1/#*;/""}"
+[[  $whereb -eq $((COLUMN))  ]] && [[   "$which" == "zh"  ]] && [[  "$ascanf" !=   [a-z\.\(\)\<\>\&]   ]]  &&  [[  "$vback" != "1"  ]] && [[  $needo -ne 1  ]]  && printf   " " && needo=1;
 while true;do
 printf  "${ascanf}"  
 [[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
@@ -1758,17 +1751,17 @@ read -t 0.8 -s -d \[  && read -t 0.8 -s  -d \R pos2
 [[  "$?" -eq 142  ]] && continue 
 break
 done
-now3=0
-now2=0
+now3=
+now2=
 now=
 
-wherec="${pos2##*;}"
+wherec="${pos2/#*;/""}"
 if [[  "$pos1" != "$pos2"  ]] ;then
 [[  $wherec -eq $((COLUMN+1))  ]] && [[  "$ascanf" ==  [a-z\.\(\)\<\>\&]   ]] && now3=2 && break
 if [[   "$which" == "zh"  ]] && [[  "$ascanf" !=  [a-z\.\(\)\<\>\&]   ]]  &&  [[  "$vback" != "1"  ]]  ; then
 [[  $whereb -eq $COLUMN  ]]  && needo=1
 Pos="$((wherec-whereb))"
-[[  "$wherec" -eq "$((COLUMN+1))"  ]]  && now3=1 
+[[  "$wherec" -eq "$((COLUMN+1))"  ]]  && now3=1 && needo= #防止第二行使用第一行的needo
 fi
 
 
@@ -1782,8 +1775,8 @@ fi
 fi
 
 if [[  ${vback} -eq "1"   ]] &&  [[  $wherec -eq 1  ]] && [[   "$which" == "zh"  ]] ;then
-[[  "$needo" != "1"  ]] && reg=$((COLUMN+1))
-[[  "$needo" == "1"  ]] && reg=$((COLUMN-3))
+[[  "$needo" -ne 1  ]] && reg=$((COLUMN+1))
+[[  "$needo" -eq 1  ]] && reg=$((COLUMN-3))
 printf %s"\r\033[1A\033[${reg}C" "" && now2=1
 break
 fi
@@ -1801,7 +1794,7 @@ read -t 0 && bd=2
 IFS=$IFSbak
 
 elif [[  "$bscanf"  != ""   ]];then 
-ib=$(printf "%s" "${bscanf}" | wc -c )
+ib=${#bscanf}
 ascanf="${bscanf:$nb:1}"
 nb=$((nb+1))
 
@@ -1841,10 +1834,10 @@ answerd="$(echo "${answerd:-n}" | sed -e 's/<[^>]*>//g' -e 's/([^)]*)//g'  | awk
 answer2s="$(printf "%s" "$answer2_raw" | sed "s/,/\n/g" )" #替换成\n形式
 
 thes= #防止v.带入下一个
-while read  line ;do
+while read line ;do
 templine1=
 templine2=
-if [[  "${line:-0}" =~  "[a-z][a-z\.]*"  ]] ;then  #第一行或中间行  ash only
+if [[  "$line" ==  [a-z][a-z\.]*  ]] ;then  #第一行或中间行
 
 thes=
 thetemp=
@@ -1866,10 +1859,10 @@ done <<EOF
 $line
 EOF
 
-elif [[  "${line:-99}" =~  "[a-z][a-z\.]"  ]];then #中间不同行  ash only
+elif [[  "$line" =~  [a-z][a-z\.]  ]];then #中间不同行
 templine1="$(printf "%s" "$line" | awk 'BEGIN{FS="[a-z][a-z\.]*"}{printf $1}' 2>/dev/null | sed "s/,/+/g" 2>/dev/null )"
 eval thetemp="\$$thes"
-[[  "${thes}" != ""  ]] && eval $thes=\"\${thetemp}+\$templine1\"
+[[  "$thes" != ""  ]] && eval $thes=\"\${thetemp}+\$templine1\"
 
 thepres="$(printf "%s" "$line" | tr -c -s [a-z.] "\n" )"
 
@@ -1891,25 +1884,27 @@ eval thetemp="\$${thes}"
 eval thetemp="\$${thes}" #刷新
 fi
 done <<EOF
-${line:-0}
+$line
 EOF
 
 else #中间单独行
 
 eval thetemp="\$${thes}"
-[[  "${thes:-0}" != "0"  ]] && eval $thes=\"\${thetemp}+\$line+\"
+
+[[  "$thes" != ""  ]] && eval $thes=\"\${thetemp}+\$line+\"
+
 
 fi
 done <<EOF
 $answer2s
 EOF
 
-now2=0
+now2=
     needo=
 which=zh
 isright=0
     stty -echo
-[[   ${getin:-0} -ne 0  ]] && bscanf=
+[[   $getin -ne 0  ]] && bscanf=
 waiting=0
 nb=0
 bool=
@@ -1944,30 +1939,29 @@ answerd_order="$(printf "$answerd" | sort )"
 answerd_order_0="$(printf "$answerd_order" | uniq )"
 while true;do
 thepres=
-if [[  "${ish:-0}" != "y"  ]] && [[  "${termius:-0}" != "y"  ]] ;then
+
+if [[  "$ish" != "y"  ]] && [[  "$termius" != "y"  ]] ;then
 _read_
 tf=$?
-elif [[  "${ish:-0}" == "y"  ]] ;then
+elif [[  "$ish" == "y"  ]] ;then
 _read
 tf=$?
-elif [[  "${termius:-0}" == "y"  ]] ;then
+elif [[  "$termius" == "y"  ]] ;then
 __read 
 tf=$?
 fi
-#printf "${ascanf}" | hexdump
-vback=0
-if ([[  ${auto:-0} -eq 1  ]] && [[  ${kblock:-0} -eq 1  ]]) ;then   # && [[  $ib -le 0  ]]可做到忽略adj符号
+vback=
+if ([[  $auto -eq 1  ]] && [[  $kblock -eq 1  ]]) ;then   # && [[  $ib -le 0  ]]可做到忽略adj符号
 thelast="${scanf##*，}"
 
 backto=""
 ans=0;
- 
 
 banswer=
 while read line ;do
-[[  "${line:-0}" == "0"  ]] && continue
+[[  "$line" == ""  ]] && continue
 ans=$((ans+1))
-if [[  $waiting -eq 1  ]] && [[  ${zhpt:-0} -eq 1  ]] && prescanf="$thelast${zscanf}${bscanf}" && [[  "$line" == "$prescanf"  ]] ;then #ash only
+if [[  $waiting -ne 0  ]] && prescanf="$thelast$bscanf" && [[  "$line" == "$prescanf"  ]] ;then
 backt="${#thelast}"
 for i in `seq $backt`;do
 backto="$backto$B"
@@ -1989,17 +1983,17 @@ $allocation
 eof
 
 
-if [[  "${thepres:-0}" != "0"  ]] && [[  "${thepres:-0}" != "${nowpres:-1}"  ]] || [[  "${nowpres:-1}" == "1"  ]]  ;then
+if [[  $thepres != ""  ]] && [[  "$thepres" != "$nowpres"  ]] || [[  "$nowpres" == ""  ]]  ;then
 bscanf="$backto${thepres}$banswer"
 else
 bscanf="${backto}$banswer"
 fi
 nowpres="${thepres}"
 
-zhpt=0 && waiting=1 && bd=0 && getin=0 && ascanf="${bscanf:0:1}" && kblock=0 && nb=1 && ib=$(printf "%s" "${bscanf}" | wc -c )  #防止waiting结束ib归零
+waiting=1 && bd=0 && getin=0 && ascanf="${bscanf:0:1}" && kblock=0 && nb=1 && ib=${#bscanf}  #防止waiting结束ib归零
 break
 
-elif [[  $waiting -eq 2  ]] && prescanf_a="$thelast$bscanf" && [[  "$line" == "$prescanf_a"  ]] ;then # ash only
+elif [[  $waiting -eq 0  ]] && [[  $bd -ne 2  ]] && prescanf_a="$thelast$ascanf" && [[  "$line" == "$prescanf_a"  ]] ;then # read=1个
 backt="${#thelast}"
 for i in `seq $backt`;do
 backto="$backto$B"
@@ -2018,14 +2012,14 @@ fi
 done <<eof
 $allocation
 eof
-if [[  "${thepres:-0}" != "0"  ]] && [[  "${thepres:-0}" != "${nowpres:-1}"  ]] || [[  "${nowpres:-1}" == "1"  ]]  ;then
+if [[  $thepres != ""  ]] && [[  "$thepres" != "$nowpres"  ]] || [[  "$nowpres" == ""  ]] ;then
 bscanf="$backto${thepres}$banswer"
 else
 bscanf="${backto}$banswer"
 fi
 nowpres="${thepres}"
-  
-zhpt=0 &&  waiting=1 && bd=0 && getin=0 && ascanf="${bscanf:0:1}" && kblock=0 && nb=1 && ib=$(printf "%s" "${bscanf}" | wc -c ) 
+
+waiting=1 && bd=0 && getin=0 && ascanf="${bscanf:0:1}" && kblock=0 && nb=1 && ib=${#bscanf} 
 break
 
 fi
@@ -2047,60 +2041,56 @@ fi
 
 if [[  "$ascanf" == "$B"  ]]  ;then
 ascanf=""
-[[  ${scanf:-0} == 0   ]] && continue
-L="$(printf  "${scanf}" | wc -c )"
+L="${#scanf}"
 vback=1
-[[  "$L" -le "1"  ]] && vback=0
+[[  "$L" -eq "1"  ]] && vback=
 Ll=$L
 L=$((L-1))
 
 [[  "$L" -le "0"  ]] && L=0 
 
 reg2=" $Back $Back"
-if [[  "${needo}" == "1"  ]] && [[  "$now2" -eq 1  ]] ;then 
+if [[  $needo -eq 1  ]] && [[  "$now2" -eq 1  ]] ;then 
 [[  "${scanf:$L}"  != [a-z\.\(\)\<\>\&]  ]] && printf " "
 [[  "${scanf:$L}"  == [a-z\.\(\)\<\>\&]  ]] && printf "\033[1C "
 fi
 [[  "${scanf:$L}"  == [a-z\.\(\)\<\>\&]  ]] && reg2=" \b\033[1C"
-#[[  "${scanf:$L}"  != [a-z\.\(\)\<\>\&]  ]] &&  scanf="${scanf:0:$((L-2))}" #ash only
-[[  "$needo" == "1"  ]] && [[  $now2 -eq 1  ]] && reg2="$reg2\b"
-tscanf=
-[[  "${scanf:$L}"  == [a-z\.\(\)\<\>\&]  ]] &&  tscanf="${scanf:0:$((L))}"
-[[  "${scanf:$L}"  != [a-z\.\(\)\<\>\&]  ]] &&  tscanf="${scanf:0:$((L-2))}" #ash only
 
-[[  $now3 -eq 2  ]]   &&  printf "$Back\033[1C \033[1C" && now3=0 && scanf="$tscanf" && continue
+[[  $needo -eq 1  ]] && [[  "$now2" -eq 1  ]] && reg2="$reg2\b"
 
-[[  $now2 -eq 1  ]]   &&  printf  "$reg2" && now2=0 && scanf="$tscanf" && continue
+[[  "$now3" -eq 2  ]]   &&  printf "$Back\033[1C \033[1C" && scanf="${scanf:0:$L}"   && now3= && continue
 
-[[  "$L"  -ge "0"  ]] && [[  "${scanf:$L}"  == [a-z\.\(\)\<\>\&]  ]]  &&  printf  "$Back $Back" && scanf="$tscanf" && continue
-#scanf="${scanf:0:$((L-2))}"
+[[  "$now2" -eq 1  ]]   &&  printf  "$reg2" && scanf="${scanf:0:$L}" && now2=  continue
+
+[[  "$L"  -ge "0"  ]] && [[  "${scanf:$L}"  == [a-z\.\(\)\<\>\&]  ]]  &&  printf  "$Back $Back" && scanf="${scanf:0:$L}" && continue
+scanf="${scanf:0:$L}"
 reg4="$Backs$Block$Backs"
 [[  "$now3" -eq "1"  ]] && reg4="$Back $Back"
-[[  "$Ll"  -ge "1"  ]] &&  printf "$reg4" && scanf="$tscanf" && continue
+[[  "$Ll"  -ge "1"  ]] && [[  "$windows" !=  "y"  ]] &&  printf "$reg4"   && continue
 
 continue
-elif [[  "$ascanf"  =~  [a-z\.\(\)\<\>\&]  ]];then
+elif [[  $ascanf  =~  [a-z\.\(\)\<\>\&]  ]];then
 
 [[  $kblock -eq 1  ]] && [[  $ascanf != '.'  ]] && ascanf= && continue
-[[  $now2 -eq 1  ]] && [[  "$needo" != "1"  ]] && printf "\n"
-[[  $now2 -eq 1  ]] && [[  "$needo" == "1"  ]] && printf "\033[4C"  && needo=
+[[  $now2 -eq 1  ]] && [[  $needo -ne 1  ]] && printf "\n"
+[[  $now2 -eq 1  ]] && [[  $needo -eq 1  ]] && printf "\033[4C"  && needo=
 scanf="$(printf "$scanf$ascanf")"
 ascanf="$ascanf"
 continue
-#elif [[  $ascanf  =~  [\'0-9A-Z'~!@#$^*_+{}|:"?/;][=-`'${_1B5B}]  ]];then # 同步删除[a-z\.\(\)\<\>\&]
-#ascanf=
-#continue
+elif [[  $ascanf  ==  [\'0-9A-Z'~!@#$^*_+{}|:"?/;][=-`'${_1B5B}]  ]];then # 同步删除[a-z\.\(\)\<\>\&]
+ascanf=
+continue
 
 
-elif [[  "$ascanf"  =~  "[\ ,]"  ]];then #， ash only
-[[  $now2 -eq 1  ]] && [[  "$needo" == "1"  ]] && printf "\n" 
-[[  $now2 -eq 1  ]] && [[  "$needo" != "1"  ]] && printf "\n"
+elif [[  $ascanf  ==  [' ',，]  ]];then
+[[  $now2 -eq 1  ]] && [[  $needo -eq 1  ]] && printf "\n" 
+[[  $now2 -eq 1  ]] && [[  $needo -ne 1  ]] && printf "\n"
 scanf="$scanf"，
-ascanf="，" && zhpt=3
+ascanf="，"
 thelast=
 
 continue
-elif [[  "$ascanf"  =~  "$D"  ]];then
+elif [[  "$ascanf"  ==  "$D"  ]];then
 ascanf=
 printf "\n\r\033[0m"
 FIND
@@ -2112,12 +2102,11 @@ printf "\033[1m$question"\\033[3m\\033[2m\ \<───\>\ \\\033[0m #ishprt已�
   bd=
 continue
 
-elif [[  $(ccat "$ascanf") -eq 12  ]] || [[   $(ccat "$ascanf") -eq 15  ]]  || [[   $(ccat "$ascanf") -eq 0  ]] && [[  "${tf:-1}" == "0"  ]] ;then
+elif [[  "$ascanf" == "$LF"  ]] || [[  "$ascanf" == "$CR"  ]] || [[  "$ascanf" == ""  ]] && [[  $tf == "0"  ]] ;then
 printf "$enter"
-#printf "$ascanf" | hexdump
 break
 
-elif [[  "$ascanf"  ==  "	"  ]] ;then  #待定，暂时加-a后才能提示，
+elif [[  $ascanf  ==  '	'  ]] ;then  #待定，暂时加-a后才能提示，
 ascanf=
 scanfd="$(echo "${scanf}"  |  sed "s/[a-z][a-z\.]*/，/g" )"
 scanfd="$(printf "%s" "${scanfd}" | tr -d "&" | sed -e 's/<[^>]*>//g' -e 's/([^)]*)//g' )"
@@ -2125,33 +2114,31 @@ s_canf=
 IFS=$ENTER
 read -s -n1  -t1 s_canf 
 IFS=$IFSbak
-if [[  "$s_canf"  ==  "	"  ]];then
+if [[  $s_canf  ==  '	'  ]];then
 ascanf=
-#echo 2222
 rdmd="\n"
 thelast="${scanf##*，}"
-#printf "$thelast" | hexdump
-if [[  "${thelast:-0}" == "0"  ]] ;then
+if [[  "$thelast" == ''  ]] ;then
 scanfdd="，${scanfd}，"
 inmts="$(printf "%s" "${answerd_simplify}" | awk 'BEGIN{FS=","}{print NF}' 2>/dev/null)"
 while true;do
 rdm5=$(($RANDOM%$inmts+1))  
 intimates="$(printf "%s" "${answerd_simplify}" | awk -v a=$rdm5 'BEGIN{FS=","}{print $a}' 2>/dev/null)"
 intimatess="，${intimates}，"
-[[  "${scanfdd}" =~ "$intimatess"   ]]  || [[  "${intimates:-0}" == '0'  ]]  && continue
+[[  "${scanfdd}" =~ "$intimatess"   ]]  || [[  $intimates == ''  ]]  && continue
 
 
 
-bscanf="$intimates" && bd=2 && nb=0 && ib=$(printf $intimates | wc -c) && waiting=2 && break #ash only
+bscanf="$intimates" && waiting=2 && break
 done
 continue
-elif [[  "${thelast:-0}" != '0'  ]] ;then
+elif [[  "$thelast" != ''  ]] ;then
 #echo 1${scanfd}1
 while read line ;do
 [[  "$scanfd"  =~ "$line"  ]] && continue
 if [[  "$line" =~ ^"$thelast"  ]];then
-bscanf="${line#$thelast}" && waiting=2   && break #防止adj等提前判定，若要提前将waiting改成1
-# ash only
+bscanf="${line##$thelast}" && waiting=2  && break #防止adj等提前判定，若要提前将waiting改成1
+
 fi
 done <<EOF
 $answerd
@@ -2162,32 +2149,34 @@ fi
 
 fi
 #elif [[  $ascanf  !=  [$B\'a-zA-Z${x02}-${x19}'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]] ;then
-elif [[  ${zhpt:-0} -eq 2  ]]  && [[  `ccat "${ascanf}"` -ge 128  ]] ;then
-[[  $now2 -eq 1  ]] && [[  "$needo" == "1"  ]] && printf "\n" 
-[[  $now2 -eq 1  ]] && [[  "$needo" != "1"  ]] && printf "\n"
-ascanf="${zscanf}${ascanf}" && scanf="$(printf "%s%s" "$scanf${ascanf}")" && zhpt=3 && zscanf=
+elif [[  "${ascanf}"  >  "$xzh"   ]] && [[  $(printf "%d" "'${ascanf}")  <  "$xzhmax"   ]] ;then
+zscanf="$(printf "%s%s" "$zscanf${ascanf}")"
+scanf="$(printf "%s%s" "$scanf${ascanf}")"
 
-continue
-
-elif [[  ${zhpt:-0} -eq 1  ]]  && [[  `ccat "${ascanf}"` -ge 128  ]] ;then
-#echo 2
-zscanf="${zscanf}${ascanf}"
-zhpt=2
-ascanf=
-continue
-elif  [[  `ccat "${ascanf}"`  -ge  227   ]] && [[  `ccat "${ascanf}"`  -le  239    ]] ;then
-#zscanf="$(printf "%s%s" "$zscanf${ascanf}")"
-
-#echo `ccat "${ascanf}"`
-
-zhpt=1
-zscanf="${ascanf}"
-ascanf=
-continue
-
-#elif [  $ascanf  !=  [$B\'a-zA-Z${x02}-${x19}'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ] ;then
+if [[  $cccc -eq 0  ]];then
+if  [[  ${#zscanf} -eq "1"  ]] ;then
+[[  "$now2" -eq 1  ]] && printf "\n\r"
+ascanf="$zscanf" && zscanf=  && continue
 else
-zhpt=0
+ascanf=
+fi
+fi
+
+if [[  $cccc -eq 1  ]];then
+if [[  $waiting -eq 1  ]] && [[  ${#zscanf} -eq "1"  ]];then
+[[  "$now2" -eq 1  ]] && printf "\n\r"
+ ascanf="$zscanf" && zscanf=   && continue
+ fi
+if  [[  ${#zscanf} -eq "1"  ]] && [[  "${zscanf}" != "${ascanf}"  ]] && [[  ${#zscanf} -ne "2"  ]] && [[  $waiting -eq 0  ]] ;then
+[[  "$now2" -eq 1  ]] && printf "\n\r"
+ascanf="$zscanf" && zscanf=   && continue
+else
+ascanf=
+fi
+fi
+continue
+
+
 fi
 
 ascanf=
@@ -2208,50 +2197,48 @@ bscanf=
 bool=
 ascanf=
 scanf=
-now2=0
+now2=
 N=0
 GOBACK=$(printf "\033[1A")
 while true;do
 
-if [[  "${ish:-0}" != "y"  ]] && [[  "${termius:-0}" != "y"  ]]  ;then
+if [[  "$ish" != "y"  ]] && [[  "$termius" != "y"  ]] && [[  "$windows" != "y"  ]] ;then
 _read_
 tf=$?
-elif [[  "${ish:-0}" == "y"  ]] ;then
+elif [[  "$ish" == "y"  ]] ;then
 _read 
 tf=$?
-elif [[  "${termius:-0}" == "y"  ]] ;then
+elif [[  "$termius" == "y"  ]] ;then
 __read 
 tf=$?
 fi
 if [[  "$tf" -eq "22"   ]] ;then
  printf "\r" && break
 fi
-if [[  "$ascanf"  =~  "[A-Za-z' '-]"  ]];then
+if [[  $ascanf  ==  [A-Za-z' '-]  ]];then
 scanf=$scanf${ascanf}
-is="${#scanf}"
+is=${#scanf}
 backscanf=
-[[  "${now2:-0}" -eq 1  ]] && printf "\n\r"
-now2=0
+[[  "$now2" -eq 1  ]] && printf "\n\r"
+now2=
 continue
 
-elif [[  "$ascanf" =~ "$B"  ]]  ;then
+elif [[  "$ascanf" == "$B"  ]]  ;then
 ascanf=
-[[  ${scanf:-0} == "0"  ]] && continue
-is="${#scanf}"
-scanf=${scanf:0:$((is-1))}
+is=${#scanf}
+scanf=${scanf%[a-zA-Z' '-]}
 backscanf=
 blocks=
-now2=0
+now2=
 for si in $(seq $is);do
-
 backscanf="$backscanf"$Back
 blocks=$blocks' '
 done
-if  [[  ${Sorce:-0} -eq 1  ]];then 
+if  [[  $Sorce -eq 1  ]];then 
 frontier=${is}
-elif [[   ${premode:-0} -eq 1  ]] || [[   ${premode:-0} == 0  ]] || [[  ${minifun:-0}  ==  true  ]] ;then
+elif [[   $premode -eq 1  ]] || [[   $premode == ""  ]] || [[  $minifun  ==  true  ]] ;then
 frontier="$((la2+is+8))"
-elif [[   ${premode:-0} -eq 2  ]];then
+elif [[   $premode -eq 2  ]];then
 frontier="$((it-answe+is+1))"
 
 fi
@@ -2270,19 +2257,19 @@ fi
 continue
 
 elif [[  "$ascanf"  ==  "$D"  ]];then
-now2=0
+now2=
 ascanf=
 bots="$bot"
-[[  "$premode" == "2"  ]] && printf "\033[$((up+1))B\r\033[0m"
-[[  "$premode" == "1"  ]] || [[  "$premode" == ""  ]]  && printf "\n\r\033[0m"
+[[  "$premode" -eq 2  ]] && printf "\033[$((up+1))B\r\033[0m"
+[[  "$premode" -eq 1  ]] || [[  "$premode" == ""  ]]  && printf "\n\r\033[0m"
 FIND
 scanf=
-if [[  "$premode" == "1"  ]] || [[  "$premode" == ""  ]];then
-printf "$question"\\033[3m\ \<───\>\ "\033[0m$bots"\\r
-[[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
+if [[  "$premode" -eq 1  ]] || [[  "$premode" == ""  ]];then
+ishprt "$question"\\033[3m\ \<───\>\ "\033[0m$bots"\\r
+[[  $COLUMN -lt $length  ]] && ishprt "\033[$(($((length-1))/COLUMN))A"
+ishprt "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 continue
-elif [[  "$premode" == "2"  ]];then
+elif [[  "$premode" -eq 2  ]];then
 printf "%s"  "$inquiry"
 [[  "$up" -ne "0"  ]] && printf "\033[${up}A"
 printf "\r%s" "$front"
@@ -2291,27 +2278,27 @@ printf "\r%s" "$front"
 printf "\033[1m"
 continue
 fi
-elif [[  $(ccat "$ascanf") -eq 12  ]] || [[   $(ccat "$ascanf") -eq 15  ]] || [[   $(ccat "$ascanf") -eq 0  ]] && [[  "${tf:-1}" == "0"  ]] ;then
-now2=0
-if [[  ${premode:-0} -eq 3  ]];then                
+elif [[  $ascanf == "$LF"  ]] || [[  $ascanf == "$CR"  ]] || [[  $ascanf == ""  ]] && [[  $tf == "0"  ]] ;then
+now2=
+if [[  $premode -eq 3  ]];then                
 printf "\033[6n";read -s -d\[ garbage;read -s -d R foo
 fooo=$(printf "$foo" | awk -F';' '{printf $2}') 
 fi        
 printf "$enter"
 break
 
-elif [[  "$ascanf"  ==  '	'  ]];then
+elif [[  $ascanf  ==  '	'  ]];then
 ascanf=
 
 s_canf=
 IFS=$ENTER
 read -s -n1  -t0.2 s_canf 
 IFS=$IFSbak
-if [[  "$s_canf"  ==  '	'  ]];then
+if [[  $s_canf  ==  '	'  ]];then
 ascanf=
 rdmd=
 inmts="${answer1}"
-[[  "$inmts" =~ ^"$scanf"  ]] ||  [[  "${scanf:-0}" == "0"  ]] && rightn="${#scanf}" && bscanf="${inmts:$rightn:1}" && waiting=1 && bd=2 && ib=1 && nb=0 #ash only
+[[  "$inmts" =~ ^"$scanf"  ]] ||  [[  "$scanf" == ""  ]] && rightn=$((${#scanf})) && bscanf="${inmts:$rightn:1}" && waiting=1
 continue
 else
 continue
@@ -2327,7 +2314,7 @@ done
 
 FIND()
 {
-[[  "$calenda" == "0"   ]] &&  cd  "$(pwd "$0")"
+[[  "$calenda" -eq 0   ]] &&  cd  "$(pwd "$0")"
 cpath="$(pwd)"
 fscanf=
 alltxt="$txt"
@@ -2336,7 +2323,7 @@ findx()
 while read line;do
 Find "$line"
 done <<EOF
-$(printf "%s" "$xwords"  )
+$(printf "%s" "$xwords" | tr "/" " " )
 EOF
 }
 
@@ -2391,68 +2378,51 @@ printf "\033[0m"
 echo 找完了
 }
 
-printf  "输入想要查找的单词\033[K\n"
+ishprt  "输入想要查找的单词\033[K\n"
 
 thes= #防止v.带入下一个
-now3=0
-now2=0
+now3=
+now2=
 now=
 nowpres=
 now4=
 while true;do
 fscanf=
-printf "the word:"
-IFS=$ENTER
-
+ishprt "the word:"
 while true;do
-#[[  "${premode:-1}" != 3  ]] && IFS=$ENTER
+fascanf="!!"
+[[  $premode -ne 3  ]] && IFS=$newline
 read -s -n1   fascanf
 ftf=$?
+IFS=$IFSbak
 sleep 0.012
 
-if [[  "$fascanf"  ==  [a-zA-Z' '-^.*]  ]];then
+if [[  $fascanf  ==  [a-zA-Z' '-^.*]  ]];then
 
 fscanf=$fscanf${fascanf}
 backscanf=
 printf "%s" "$fascanf"
 i=$((i+1))
 continue
-elif [[  `ccat "${fascanf}"` == `ccat "${B}"`  ]] && [[  "${#fscanf}" -gt 0 ]]  ;then
-is=$(printf "${fscanf}" | wc -c)
- if [[  "${fscanf:$((is-1))}" =~ [a-zA-Z' '-^.*]  ]];then
+elif [[  "$fascanf" == "$B"  ]] && [[  "${#fscanf}" -gt 0 ]]  ;then
+is=${#fscanf}
+ if [[  "${fscanf:$((is-1))}" == [a-zA-Z' '-^.*]  ]];then
  fscanf=${fscanf%[a-zA-Z' '-^.*]} && is=$((is-1))
 printf  "$Back $Back" && continue
 
 
 elif [[  "${fscanf:$((is-1))}" !=  [$B\'a-zA-Z'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]]  ;then
 
-fscanf="${fscanf:0:$((is-3))}" && is=$((is-3))
+fscanf="${fscanf:0:$((is-1))}" && is=$((is-1))
  printf  "$Backs$Block$Backs"  && continue
 fi
-elif   [[  $(ccat "$fascanf") -eq 12  ]] || [[   $(ccat "$fascanf") -eq 15  ]] || [[   $(ccat "$fascanf") -eq 0  ]] && [[  "${ftf:-1}" == "0"  ]] ;then
+elif [[  $fascanf == "$LF"  ]] || [[  $fascanf == "$CR"  ]] || [[  $fascanf == ""  ]] && [[  $ftf == "0"  ]] ;then
+
+echo
 break
-elif [[  ${fzhpt:-0} -eq 2  ]]  && [[  `ccat "${fascanf}"` -ge 128  ]] ;then
-fascanf="${fzscanf}${fascanf}" && printf "${fascanf}" && fscanf="$fscanf${fascanf}" && fzhpt=0 && fzscanf=
+elif [[  "$fascanf" !=  [$B\'a-zA-Z'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]]  ;then
 
-continue
-
-elif [[  ${fzhpt:-0} -eq 1  ]]  && [[  `ccat "${fascanf}"` -ge 128  ]] ;then
-#echo 2
-fzscanf="${fzscanf}${fascanf}"
-fzhpt=2
-fascanf=
-continue
-elif  [[  `ccat "${fascanf}"`  -ge  227   ]] && [[  `ccat "${fascanf}"`  -le  239    ]] ;then
-#fzscanf="$(printf "%s%s" "$fzscanf${fascanf}")"
-
-#echo `ccat "${fascanf}"`
-fzhpt=1
-fzscanf="${fascanf}"
-fascanf=
-continue
-
-#elif [  $fascanf  !=  [$B\'a-zA-Z${x02}-${x19}'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ] ;then
-
+zscanf="$(printf "$zscanf${fascanf}")"
 if  [[  ${#zscanf} -eq "1"  ]]  ;then
  
 sleep 0.0016
@@ -2464,16 +2434,13 @@ continue
 fi
 fascanf=
 done
-IFS=$IFSbak
-echo
-
+ 
 [[  "$fscanf" !=  ""  ]] && fscanf=$(printf "%s" "$fscanf" | tr " " "/" ) && alltxt="$(echo "$alltxt" | grep -e "$fscanf")" 2>/dev/null
 alltxtn=$(echo "$alltxt" | wc -l)
 [[  "$alltxtn"  -ge $((n/2-1))  ]] && echo "$strs" && return 1 
 [[  "$alltxtn"  -ge 18  ]] && printf "找到${alltxtn}个单词\n" && continue
 [[  "$fscanf" == ""  ]]  && [[  "$alltxt" != ""  ]] && xwords="$(echo "$alltxt" | awk  'BEGIN{FS="	"}{print $1}' | sort | uniq )" && findx && [[  "$calenda" -eq 1   ]] &&  cd "$cpath" && echo 退出 && echo "$strs"  && return 0
 [[  "$alltxt" == ""  ]] && echo 找不到"$fscanf" && alltxt="$txt" && continue
-
 
 pt="$(printf  "$alltxt")"
 while read line ;do
@@ -2486,20 +2453,17 @@ done
 
 }
 
-trap 'printf "\033[?25h\033[0m" && stty -icanon && stty echo && stty -cbreak'  EXIT
-trap 'printf " \033[?25h\033[0m" && stty -icanon && stty echo && stty -cbreak && exit 0 '  2 #ish only
+trap 'printf "\033[?25h\033[0m" && stty echo '  EXIT
+
 
 
 ififright()
 {
 if [[  "$which" == "zh"  ]] ; then
 stty -echo
-[[  "$ascanf" == "，"  ]] && return 2 #ash only
-scanfd="$(printf "${scanf}"  |  sed "s/[a-z][a-z\.]*/，/g" )"
-#echo $scanfd
-[[  "${scanfd:0:3}"  == "，"  ]] && scanfd="${scanfd:3}" # ash only
-is=$(printf "${scanf}" | wc -c )
-[[  "${scanfd:$(($is-3)):3}"  == "，"  ]] && return 2
+scanfd="$(echo "${scanf}"  |  sed "s/[a-z][a-z\.]*/，/g" )"
+[[  "${scanfd:0:1}"  == "，"  ]] && scanfd="${scanfd:1}"
+[[  "${scanfd:$((${#scanfd}-1)):1}"  == "，"  ]] && return 2
 scanfd="$(printf "%s" "${scanfd}" | tr -d "&" | sed -e 's/<[^>]*>//g' -e 's/([^)]*)//g' | awk 'BEGIN{FS="，";RS="\n"}{for (i=1; i<=NF; i++) if ($i != "") print $i}'  2>/dev/null )"
 
 
@@ -2511,9 +2475,12 @@ stty -echo
 while read line ;do
 if [[  "$line" == "$thelast"  ]] ;then
 
+
+
+
 [[  "$scanfd" == "$answerd_order_0"  ]] && isright=1  && return 0 
 
-bscanf=" -"  && thelast= && continue #-防止循环
+bscanf="，" && bd=0 && getin=0 && waiting=1 && thelast= && continue #-防止循环
 elif [[ "${line%%...*}" == "$thelast"   ]] ;then
 bscanf="..." && bd=0 && getin=0 && kblock=0 && waiting=1 && continue
 
@@ -2526,8 +2493,6 @@ EOF
 return 2
 
 elif [[  "$which" == "en"  ]] ; then
-#echo
-#echo "${scanf}"
 [[  "${scanf:-n1}" == "${answer1:-n}"  ]]  &&  isright=1 && return 0
 fi
 
@@ -2549,7 +2514,7 @@ _verify()
 {
 
 
-if [[  "${verify:-0}" == "y"  ]]  ||  [[  "${verify:-0}" == "Y"   ]];then
+if [[ $verify = y || $verify = Y  ]];then
 
 struct
     c="$(echo "$targets" | tr " " "\n" )"
@@ -2604,12 +2569,12 @@ outputed=${output5:-0}
 [[  "$COLUMN" -le 30  ]] && printf "%s\r" "${output}%"
 fi
 [[ ${#str} -eq 25 ]] && str=
-lleft=$(printf "%s" "$line" | awk 'BEGIN{FS="	";RS="\n"}{printf $1}'  )
+lleft=$(printf "%s" "$line" | awk '{printf $1}' | tr "/" " " )
 
-right="$(printf "%s" "$allrw"  | sed -n "$wlist,${wlist}p" | awk 'BEGIN{FS="	"}{print $NF}' )"
+right="$(printf "%s" "$allrw"  | sed -n "$wlist,${wlist}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
 
 right=${right:-/}
-aline="$(printf "%s" "${line}" | tr -s "	" | tr "	" " "  )"
+aline="$(printf "%s" "${line}" | tr -s "	" | tr "	" " " | tr "/" " " )"
 alldata="$lleft $right"
 list=$((list+1))
 wlist=$((wlist+1))
@@ -2669,7 +2634,7 @@ prep()
 {
 UP=
 p="  $p"
-if [[  "${ish:-0}" == "y"  ]];then
+if [[  "$ish" == "y"  ]];then
 while true;do
 st=0
 Fresh
@@ -2693,12 +2658,12 @@ elif [[  "${p:$nii:1}" == [a-z]  ]] ;then
 UP=$(printf "${p:$nii:1}" | tr '[a-z]' '[A-Z]' ) && break
 fi
 done
-[[  "$p" != ""  ]]   && printf "%s\033[K\n" "${_m2}${_m3}${p:0:$nii}${_m0}${_m3}${UP}${_m0}${_m2}${_m3}${yellow}${p:$i_}${_m0}" && loading
+[[  $p != ""  ]]   && ishprt "%s\033[K\n" "${_m2}${_m3}${p:0:$nii}${_m0}${_m3}${UP}${_m0}${_m2}${_m3}${yellow}${p:$i_}${_m0}" && loading
 }
 
 sprep()
 {
-if [[  "${ish:-0}" == "y"  ]];then
+if [[  "$ish" == "y"  ]];then
 while true;do
 st=0
 Fresh
@@ -2710,12 +2675,12 @@ fi
 done
 fi
 replace1 p
-[[  "${p:-0}" != "0"  ]] && printf "\033[3m\033[2m$p\033[K\n"
+[[  $p != ""  ]] && printf "\033[3m\033[2m$p\033[K\n"
 }
 yes()
 {
   [[  "$premode" -eq 3  ]] && m=$((m*2))
-sleep 0.01 &&  read -s -t0 
+sleep 0.01 &&  read -s -t0   && read -s -t1
     printf "\033[0m"
 targets=${targets:-/dev/null}
 
@@ -2726,19 +2691,19 @@ eval thept=\${pt$row}
 
     #preline="$(echo  "$content" | grep -B 1 ^"${answer1} |" )"
     theline="$(printf "%s" "$lineraw" | tail -n1)"
-    lineraw="$(printf "%s" "$lineraw" | grep -v "[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]" | grep "[A-Za-z]" )"
+    lineraw="$(printf "%s" "$lineraw" | grep -v "[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]")"
     #echo "$theline"
    # [[  "$preline" ==  ''  ]] &&  [[ "$targets" != ' ' && "$targets" != '        ' ]] &&  echo '该单词还未收录哦，赶紧去补全吧！'&& echo @第"$gi"题 && return 0
  #   linenum=$(echo  "$content"|  grep -a   -v  $'\t'   |  grep -a   -B 30 "^${answer1} |"  | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -a  '[^ \]' | grep -a  -v "^${answer1} |" | wc -l)
-    linenum="$(echo "$lineraw" | wc -l)"
+    linenum="$(echo "$lineraw" | grep "[A-Za-z]" | wc -l)"
     #echo $linenum
     if [[  "${linenum:-0}" -eq 0  ]];then
     echo '该单词还未收录哦，赶紧去补全吧！' # && printf  "\033[0m@第"$gi"题\n" && return 0
     else
     for li in $(seq 3)
     do
-if [[  "${linenum:-2}" -le 1  ]] || [[  "${lineraw:-0}" == "0"  ]];then
-[[  "${lineraw:-0}" != "0"  ]] &&  p="$lineraw" && prep
+if [[  "$linenum" -le 1  ]] || [[  "$lineraw" == ""  ]];then
+[[  $lineraw != ""  ]] &&  p="$lineraw" && prep
 p="$theline" &&  sprep
 break
 fi
@@ -2772,7 +2737,7 @@ verbose()
 {
 targets=${targets:-/dev/null}
     printf "\033[0m"
-lineraw1="$(printf "%s"  "$content" | grep -e "\\b${answer1}\\(ed\\|ing\\|s\\)\\?\\b" | grep -v  "[	\\]" )"
+lineraw1="$(printf "%s"  "$content" | grep  "\\b${answer1}\\(ed\\|ing\\|s\\)\\?\\b" | grep -v  "[	\\]" )"
 lineraw="$(printf "%s" "$lineraw1" | grep  -v "[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]")"
 theline="$(printf "%s" "$lineraw1"| grep ^"${answer1}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+"  | head -n1)"
 
@@ -2784,13 +2749,13 @@ if [[  "${linenum:-0}" -eq 0  ]];then
 else
 for li in `seq 3`;do
 if [[  "$linenum" -le 1  ]] || [[  "$lineraw" == ""  ]];then
-[[  "$lineraw" != ""  ]] &&  p="$lineraw" && prep
+[[  $lineraw != ""  ]] &&  p="$lineraw" && prep
 p="$theline" &&  sprep
 break
 fi
 therandom=$(($RANDOM%$linenum+1))
-[[  "$lineraw" != ""  ]] && p="$(printf "%s" "$lineraw" | head -n$therandom | tail -n1)" && prep
-lineraw="$(printf "%s\n" "${lineraw}"  |  tail -n $((linenum*2-therandom)) | head -n$((linenum-1)))"       ##在sed内放变量需要""
+[[  $lineraw != ""  ]] && p="$(printf "%s" "$lineraw" | head -n$therandom | tail -n1)" && prep
+lineraw="$(printf "%s\n" "${lineraw}" |  tail -n $((linenum*2-therandom)) | head -n$((linenum-1)))"       ##在sed内放变量需要""
 linenum=$((linenum-1))
 
 if  [[  $li -eq 3  ]] ;then
@@ -2816,7 +2781,7 @@ _FUN()
  ii=99
  gcounts=0
  [[  "$passd" -eq 1   ]] && ii=9999 && constn=$((n/2))
- printf  "$strs"
+ ishprt  "$strs"
    m0=$((n/2))
    m=$((n/2))
   [[  "$passd" -eq 1   ]] && rangem="$(seq $m)"
@@ -2828,8 +2793,8 @@ RC=
 m=$(($RANDOM%${m}+1))
  [[  "$passd" -eq 1   ]] && m=$(($RANDOM%${m0}+1))
  [[  "$passd" -eq 1   ]] && m="$(echo "$rangem" | sed -n "$m,${m}p")"
-answer="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="	"}{print $1}' )"
-answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="	"}{print $NF}' )"
+answer="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
+answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
 iq=${#answer}
 aiq=$iq
 for t in `seq $iq`;do
@@ -2845,7 +2810,7 @@ answe="${#answer}"
 pureanswer2="$(echo "$ss" | sed -n "${mm},${mm}p")"
 inquiry="$(printf %s  "$pureanswer2" | sed s/"$answer"/$bot/g)"
 counts1=1
-fresh() #ash only
+fresh()
 {
 st=0
 whereadd=1
@@ -2853,94 +2818,16 @@ addwhere=
 counts=0
 counts2=0
 CO=$COLUMN
-next=1
-t=1
-nq=0
-maxstrs=${#inquiry}
-izhpt=0
-skip=0
-while true;do
-tt=$t  #第几个字节
-t1=$((tt-1)) 
-[[  $maxstrs -le $nq  ]] && break  #第几个字符
-[[  "$next" == "1"  ]] && id=${inquiry:$t1:1}
-#id="${inquiry:$t1:1}"
-if [[  "$skip" -eq 1  ]] && [[  "$id" == "m"  ]];then
-skip=0
-nq=$((nq+1))
-t=$((t+1))
-continue
-fi
-
-if [[  "$id" == "\\"  ]] ;then
-skip=1
-nq=$((nq+1))
-t=$((t+1))
-continue
-fi
-
-if [[  "$id" == "$_1B5B"  ]] ;then
-skip=1
-nq=$((nq+1))
-t=$((t+1))
-continue
-fi
-
-if [[  "$skip" -eq 1  ]] ;then
-nq=$((nq+1))
-t=$((t+1))
-continue
-fi
-
-if [[  `ccat "${id}"` -ge 32  ]] && [[  `ccat "${id}"` -lt 128  ]] ;then
-nq=$((nq+1))
-t=$((t+1))
-counts=$((counts+1))
-izhpt=0
-
-elif [[  ${izhpt:-0} -eq 2  ]]  && [[  `ccat "${id}"` -ge 128  ]] ;then
-id="${iscanf}${id}" && scanf="$(printf "%s%s" "$scanf${id}")" && izhpt=0 && iscanf=
-nq=$((nq+1))
-t=$((t+1))
-counts=$((counts+2))
-
-
-elif [[  ${izhpt:-0} -eq 1  ]]  && [[  `ccat "${id}"` -ge 128  ]] ;then
-#echo 2
-t=$((t+1))
-iscanf="${iscanf}${id}"
-izhpt=2
-id=
-
-elif  [[  `ccat "${id}"`  -ge  227   ]] && [[  `ccat "${id}"`  -le  239    ]] ;then #\xe3-\xef
-#zscanf="$(printf "%s%s" "$zscanf${ascanf}")"
-t=$((t+1))
-#echo `ccat "${ascanf}"`
-
-izhpt=1
-iscanf="${id}"
-id=
-
-
-
-
-#elif [[  "$id"  ==  [a-zA-Z\ -\…]   ]];then
-#counts=$((counts+1))
-#else
-#counts=$((counts+2))
-elif  [[  `ccat "${id}"`  -ge  128   ]] && [[  `ccat "${id}"`  -le  226    ]] ;then
-izhpt=0
-nq=$((nq+1))
-t=$((t+3))
+iq=${#inquiry}
+for t in `seq $iq`;do
+tt=t
+t1=$((tt-1))
+id="${inquiry:$t1:1}"
+if [[  "$id"  ==  [a-zA-Z\ -\…]   ]];then ##
 counts=$((counts+1))
 else
-izhpt=0
+counts=$((counts+2))
 fi
-
-
-
-
-
 if [[  "$counts" -ge "$CO"  ]] ;then
 [[  "$((counts%CO))" -eq 0  ]] && CO=$((CO+COLUMN)) && st=$((tt))
 [[  "$((counts%CO))" -eq 1  ]] && return 5
@@ -2992,9 +2879,8 @@ Readen
 printf "\033[0m"
 
 addscan=0
-[[  "${scanf}" ==  ""   ]] && addscan=1
-is=$(printf "${scanf}" | wc -c )
-add=$((aiq-${is}))
+[[  ${scanf} ==  ""   ]] && addscan=1
+add=$((aiq-${#scanf}))
 it=$((it-add+addscan))
 fup=$((it/COLUMN))
 
@@ -3019,14 +2905,14 @@ m=$((m*2))
 colourp 2>/dev/null
 m=$((m/2))
 tprep1  "$answer $answer2" "\n"
-printf  "$strs\n"
+ishprt  "$strs\n"
 elif [[  "$scanf" == ''  ]];then
 (printf  "$(printf "$pureanswer2" | sed s/"$answer"/"\\\033[1m\\\33[33m${answer}\\\033[0m"/g)") 2>/dev/null
 m=$((m*2))
 colourp 2>/dev/null
 m=$((m/2))
 tprep1 "$answer $answer2" "\n"
-printf  "%s\n" "$strs"
+ishprt  "%s\n" "$strs"
 else
 (printf  "$(printf "$pureanswer2" | sed s/"$answer"/"\\\033[1m\\\33[31m${answer}\\\033[0m"/g)") 2>/dev/null
 m=$((m*2))
@@ -3062,8 +2948,8 @@ m2=$(printf "$rangem" | sed -n "$m,${m}p" )
  echo  "${strs}"
 pureanswe="$(printf "%s" "$txt" | sed -n "$m2,${m2}p" )"
 
-answer1="$(printf "%s" "$pureanswe" | awk  -F"	" '{RS="	"}{print $1}' )"
-answer2="$(printf "%s" "$pureanswe" | awk  -F"	" '{RS="	"}{print $NF}' )"
+answer1="$(printf "%s" "$pureanswe" | awk  -F"	" '{RS="	"}{print $1}' | tr '/' ' ')"
+answer2="$(printf "%s" "$pureanswe" | awk  -F"	" '{RS="	"}{print $NF}' | tr '/' ' ')"
 
 
 
@@ -3083,16 +2969,16 @@ answer2="$answer"
 fi
 
 pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
-[[  $mode -eq 1  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $1}' )"
-[[  $mode -eq 3  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $1}' )"
+[[  $mode -eq 1  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $1}' | tr '/' ' ')"
+[[  $mode -eq 3  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $1}' | tr '/' ' ')"
 
 answer1="$question"
 
 printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 Readzh
 elif [[  $mode -eq 2  ]] || ( [[  $mode -eq 3  ]]  && [[   "$((m2%2))" -eq 0   ]] );then
-[[  $mode -eq 2  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $NF}' )"
-[[  $mode -eq 3  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $1}' )"
+[[  $mode -eq 2  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $NF}' | tr '/' ' ')"
+[[  $mode -eq 3  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $1}' | tr '/' ' ')"
 bot=
 if [[  $mode -eq 2  ]];then 
   answer="$answer1"
@@ -3119,9 +3005,8 @@ pureanswerd="$(printf "\033[1m$answer1\033[0m $answer2")"
 question1="$(tprep1 "$question")"
 
 la=${#answer1}
-pla2=$(printf "${question1}"| wc -c)
 la2=$((${#question1}*2))
-for i in $(seq ${pla2});do
+for i in $(seq ${#question1});do
 if [[  "${question1:i:1}" == [a-z\.\(\)\<\>\&\;\,\~]  ]] ;then
 la2=$((la2-1))
 fi
@@ -3165,8 +3050,8 @@ elif [[  $mode -eq 3  ]];then
 [[  "$passd" -eq 1   ]] && constn=$n
 newtxt=""
 while read line ;do
-a1="$(echo "$line" | awk 'BEGIN{FS="	"}{print $1}' )"
-a2="$(echo "$line" | awk 'BEGIN{FS="	"}{print $NF}' )"
+a1="$(echo "$line" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
+a2="$(echo "$line" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
 new_line="$a2		$a1"
 [[  "$newtxt" != ""  ]] && newtxt="$newtxt
 $line
@@ -3188,12 +3073,12 @@ while true;do
  # m=$total
 gi=$((gi+1))
 [[  $passd -eq 1  ]] && total=$((constn-gcounts))
-#if [[  $mode -ne 3  ]];then
-#[[  $passd -eq 1  ]] && [[  $total -le 3  ]] && printf "词库不足" && echo && miniFUN && return 0
-#elif [[  $mode -eq 3  ]];then
-#[[  $passd -eq 1  ]] && [[  $total -le 7  ]] && printf "词库不足" && echo && miniFUN && return 0
+if [[  $mode -ne 3  ]];then
+[[  $passd -eq 1  ]] && [[  $total -le 3  ]] && printf "词库不足" && echo && miniFUN && return 0
+elif [[  $mode -eq 3  ]];then
+[[  $passd -eq 1  ]] && [[  $total -le 7  ]] && printf "词库不足" && echo && miniFUN && return 0
 
-#fi
+fi
  bot=
  #ss=0
  scanf=x
@@ -3212,13 +3097,13 @@ fi
 [[  $mode -eq 3  ]] && [[  $((m%2))  -eq 1  ]] && fbool=1
 [[  $mode -eq 3  ]] && [[  $((m%2))  -eq 0  ]] && fbool=2
 
-answer1="$(echo "$txt" | sed -n "$((m)),${m}p" | awk 'BEGIN{FS="	"}{print $1}' )"
-answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="	"}{print $NF}' )"
+answer1="$(echo "$txt" | sed -n "$((m)),${m}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
+answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
 
-if [[  "$fbool" -eq 1  ]] ;then #->zh
+if [[  "$fbool" -eq 1  ]] ;then
 
 question=$answer1
-answer="$answer2"
+answer=$answer2
 
 iq=$((${#question}/2));
 cq=$((COLUMN/2))
@@ -3229,7 +3114,7 @@ pureanswerd="$(printf "%s" "$answer1 \033[1m$answer2\033[0m")"
 if [[  $((iq*2)) -le $COLUMN  ]];then
 printf "\033[1m%${left}s\033[0m\n" "$question"
 else
-printf "$s" "$question"
+ishprt "$s" "$question"
 fi
 [[  "$passd" -eq 1   ]] && total=$((constn-gcounts))
 while true;do
@@ -3247,9 +3132,9 @@ break
 done
 
 
-am1="$(echo "$txt" | sed -n "${m1},${m1}p" | awk 'BEGIN{FS="	"}{print $NF}' )"
-am2="$(echo "$txt" | sed -n "${m2},${m2}p" | awk 'BEGIN{FS="	"}{print $NF}' )"
-am3="$(echo "$txt" | sed -n "${m3},${m3}p" | awk 'BEGIN{FS="	"}{print $NF}' )"
+am1="$(echo "$txt" | sed -n "${m1},${m1}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
+am2="$(echo "$txt" | sed -n "${m2},${m2}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
+am3="$(echo "$txt" | sed -n "${m3},${m3}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
 
 
 insert=$((RANDOM%4+1))
@@ -3280,7 +3165,7 @@ am4="$p"
 
 theam="$am1"
 la=$((${#am1}*2-2))
-for i in $(seq ${la});do
+for i in $(seq ${#am1});do
 if [[  "${am1:i:1}" == [a-z\.\(\)\<\>\&]  ]] ;then
 la=$((la-1))
 fi
@@ -3290,7 +3175,7 @@ down_1=
 [[  "$down1" -gt 1  ]] && down_1="\033[$((down1-1))A"
 
 la=$((${#am2}*2-2))
-for i in $(seq ${la});do
+for i in $(seq ${#am2});do
 if [[  "${am2:i:1}" == [a-z\.\(\)\<\>\&]  ]] ;then
 la=$((la-1))
 fi
@@ -3300,8 +3185,8 @@ down_2=
 [[  "$down2" -gt 1  ]] && down_2="\033[$((down2-1))A"
 
 la=$((${#am3}*2-2))
-for i in $(seq ${la});do
-if [[  "${am3:i:1}" =~ [a-z\.\(\)\<\>\&]  ]] ;then
+for i in $(seq ${#am3});do
+if [[  "${am3:i:1}" == [a-z\.\(\)\<\>\&]  ]] ;then
 la=$((la-1))
 fi
 done
@@ -3310,8 +3195,8 @@ down_3=
 [[  "$down3" -gt 1  ]] && down_3="\033[$((down3-1))A"
 
 la=$((${#am4}*2-2))
-for i in $(seq ${la});do
-if [[  "${am4:i:1}" =~ [a-z\.\(\)\<\>\&]  ]] ;then
+for i in $(seq ${#am4});do
+if [[  "${am4:i:1}" == [a-z\.\(\)\<\>\&]  ]] ;then
 la=$((la-1))
 fi
 done
@@ -3337,24 +3222,24 @@ IFS=$IFSbak
 fi
 
 if [[  "$ascanf"  ==  ""  ]] || [[  "$ascanf"  ==  "$CR"  ]] ;then
-[[  $once -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
-[[  $once -eq 0  ]] && once=1 && printf "\033[1m" && eval printf \"\$am1\" && eval printf \"\$down_1\" && printf "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
+[[  "$once" -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 printf "$enter"
 break
 fi
 
-if [[  $once -ne 0  ]] && [[  "$ascanf"  !=  "$_1B5B"  ]];then
-eval theam=\"\$am$order\"
-eval printf \"\$enter\$theam\"
-eval printf \"\$down_$order\"
-printf "$enter"
+if [[  "$once" -ne 0  ]] && [[  "$ascanf"  !=  "$_1B5B"  ]];then
+eval theam=\$am$order
+ishprt "$enter$theam"
+eval ishprt "\$down_$order"
+ishprt "$enter"
 fi
 
 
 if [[  "$ascanf"  ==  [1234]  ]];then
 sub=$((ascanf-order))
-[[  $once -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
-[[  $once -eq 0  ]] && once=1 && [[  $sub -eq 0  ]] && printf "\033[1m" && eval printf \"\$am1\" && eval printf \"\$down_1\" && printf "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
+[[  "$once" -eq 0  ]] && ishprt "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && once=1 && [[  $sub -eq 0  ]] && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 if [[  $sub -eq 0  ]];then 
 getin=0
 order=$ascanf
@@ -3368,35 +3253,35 @@ if [[  "$ascanf"  ==  "$_1B5B"  ]] ;then
 while read -n1 WSAD ;do
 [[  "$WSAD" == [ABC]  ]] && break
 done
-[[  $once -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
-[[  $once -eq 0  ]] && once=1 && printf "\033[1m" && eval printf \"\$am1\" && eval printf \"\$down_1\" && printf "$enter\033[0m\033[1m\033[36m->\033[0m$enter"  && continue
-eval theam=\"\$am$order\" #ash only
-printf "$enter$theam"
-eval printf \"\$down_$order\"
-printf "$enter"
+[[  "$once" -eq 0  ]] && ishprt "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter"  && continue
+eval theam=\$am$order
+ishprt "$enter$theam"
+eval ishprt "\$down_$order"
+ishprt "$enter"
 if [[  "$WSAD" ==  "B"  ]] ;then
 eval down=\${down$order}
 order=$((order+1))
 printf "  $enter"
-[[  "$order" -eq 5  ]]  && printf "\033[${down5}A$enter"
+[[  "$order" -eq 5  ]]  && ishprt "\033[${down5}A$enter"
 [[  "$order" -eq 5  ]] && order=1
-eval theam=\"\$am$order\"
+eval theam=\$am$order
 printf "\033[${down}B$enter\033[1m"
-printf "$theam"
-eval printf \"\$down_$order\"
+ishprt "$theam"
+eval ishprt "\$down_$order"
 printf "$enter\033[0m"
 printf "\033[1m\033[36m->\033[0m$enter"
 elif [[  "$WSAD" == "A"  ]] ;then
 order=$((order-1))
 eval down=\${down$order}
 printf "  $enter"
-[[  "$order" -eq 0  ]]  && printf "\033[$((down6-1))B$enter"
+[[  "$order" -eq 0  ]]  && ishprt "\033[$((down6-1))B$enter"
 [[  "$order" -eq 0  ]] && order=4
-eval theam=\"\$am$order\"
+eval theam=\$am$order
 [[  "$order" -ne 4  ]] &&  printf "\033[${down}A$enter"
 printf "\033[1m"
-printf "$theam"
-eval printf \"\$down_$order\"
+ishprt "$theam"
+eval ishprt "\$down_$order"
 printf "$enter\033[0m"
 printf "\033[1m\033[36m->\033[0m$enter"
 elif [[  "$WSAD" == "C"  ]] ;then
@@ -3405,25 +3290,25 @@ fi
 fi
 
 if [[  "$ascanf"  ==  ' '  ]] || [[  $getin -gt 0  ]] ;then
- [[  $once -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
-[[  $once -eq 0  ]] && once=1 && printf "\033[1m" &&  eval printf \"\$am1\" && eval printf \"\$down_1\"  && printf "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
+ [[  "$once" -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1"  && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 [[  $getin -gt 0  ]] && getin=$((getin-1))
 eval down=\${down$order}
 order=$((order+1))
 
 printf "  $enter"
-[[  "$order" -eq 5  ]]  && printf "\033[${down5}A$enter"
+[[  "$order" -eq 5  ]]  && ishprt "\033[${down5}A$enter"
 [[  "$order" -eq 5  ]] && order=1
-eval theam=\"\$am$order\"
-eval printf \"\\033[\${down}B$enter\\033[1m\"
-eval printf \"\$theam\"
-eval printf \"\$down_$order\"
+eval theam=\$am$order
+printf "\033[${down}B$enter\033[1m"
+printf "$theam"
+eval ishprt "\$down_$order"
 printf "$enter\033[0m"
 printf "\033[1m\033[36m->\033[0m$enter"
 
 
 elif [[  "$ascanf"  ==  "$D"  ]];then
-[[  $once -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}" && once=1
+[[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}" && once=1
 orders=0
 one=
 [[  $order -lt 4  ]] && case $order in 
@@ -3446,11 +3331,11 @@ esac
 [[  $down -gt 0  ]] && printf "\033[${down}B$enter"
 printf "$one"
 FIND
-printf "\033[1m%${left}s\033[0m\n" "$question"
-printf "$am1\n" 
-printf "$am2\n"
-printf "$am3\n"
-printf "$am4\n"
+ishprt "\033[1m%${left}s\033[0m\n" "$question"
+ishprt "$am1\n" 
+ishprt "$am2\n"
+ishprt "$am3\n"
+ishprt "$am4\n"
 printf 按方向键和空格或1-4选择$enter
 temp=0;
 for ii in $(seq $((order)) 4);do
@@ -3462,10 +3347,11 @@ continue
 fi
 done
 
+
 if [[  "$order" -eq "$insert"  ]];then
 orders=0
-theam="${theam/  /}"
-eval printf \"\${enter}\\033[0m\\033[1m\\033[32m\-\>\\033[0m\\033[1m\${theam}\${enter}\"
+theam=${theam/  /}
+printf "$enter\033[0m\033[1m\033[32m->\033[0m\033[1m$theam$enter"
 down=0
 one=
 case $order in 
@@ -3491,14 +3377,14 @@ bool=
 printf "\r"
 colourp 2>/dev/null
 
-[[  "$abool" == ""  ]] || [[  "$abool" == "$LF"  ]] || [[  "$abool" == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B"
-[[  "$abool" == ""  ]] || [[  "$abool" == "$LF"  ]] || [[  "$abool" == "$CR"  ]]   && printf "$one"
+[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B"
+[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && printf "$one"
 
 printf "\033[0m"
 else
 orders=0
-#printf "$enter\033[31m%s\033[0m\r" "->"
-eval printf \"\${enter}\\033[0m\\033[1m\\033[31m\-\>\\033[0m\${enter}\"
+printf "$enter\033[31m%s\033[0m\r" "->"
+
 down=0
 one=
 case $order in 
@@ -3525,18 +3411,18 @@ printf "\r"
 
 colourp 2>/dev/null
 
-[[  "$abool" == ""  ]] || [[  "$abool" == "$LF"  ]] || [[  "$abool" == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B" 
-[[  "$abool" == ""  ]] || [[  "$abool" == "$LF"  ]] || [[  "$abool" == "$CR"  ]]   && printf "$one"
+[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B" 
+[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && printf "$one"
 
 fi
 
 
 
 
-elif [[  "$fbool" -eq 2  ]] ;then ## ->en
+elif [[  "$fbool" -eq 2  ]] ;then
 if [[  $mode -eq 3  ]];then
 question=$answer1
-answer="$answer2"
+answer=$answer2
 
 else
 question=$answer2
@@ -3547,15 +3433,15 @@ pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
 
 iq=$((${#question}*2))
 for i in $(seq ${#question});do
-if [[  "${question:i:1}" =~ [a-z\.\(\)\<\>\&]  ]] ;then
+if [[  "${question:i:1}" == [a-z\.\(\)\<\>\&]  ]] ;then
 iq=$((iq-1))
 fi
 done
 left=$(($((COLUMN/2))-$((iq/2))))
 if [[  $iq -lt $((COLUMN))  ]] ;then 
-printf "\033[1m\033[%dC%s\033[0m" "$left"  "$question"
+ishprt "\033[1m\033[%dC%s\033[0m" $left  $question
 elif [[  $iq -eq $((COLUMN))  ]] ;then 
-printf "\033[1m%s\033[0m"  $question
+ishprt "\033[1m%s\033[0m"  $question
 else
 if [[  "$ish" == "y"  ]] ; then 
 while true;do
@@ -3567,7 +3453,7 @@ else
 break
 fi
 done
-printf "\033[1m$question\033[0m"
+ishprt "\033[1m$question\033[0m"
 fi
 [[  "$ish" != "y"  ]] &&  printf "\033[1m$question\033[0m"
 fi
@@ -3590,9 +3476,9 @@ break
 done
 
 
-am1="$(echo "$txt" | sed -n "${m1},${m1}p" | awk 'BEGIN{FS="	"}{print $1}' )"
-am2="$(echo "$txt" | sed -n "${m2},${m2}p" | awk 'BEGIN{FS="	"}{print $1}' )"
-am3="$(echo "$txt" | sed -n "${m3},${m3}p" | awk 'BEGIN{FS="	"}{print $1}' )"
+am1="$(echo "$txt" | sed -n "${m1},${m1}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
+am2="$(echo "$txt" | sed -n "${m2},${m2}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
+am3="$(echo "$txt" | sed -n "${m3},${m3}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
 
 insert=$((RANDOM%4+1))
 if [[  "$insert" -eq 1  ]] ;then
@@ -3630,35 +3516,36 @@ down6=$((down1+down2+down3+1))
 down5=$((down1+down2+down3+down4))
 once=0;
 order=1
-getin=0
+
+
 while true ;do
 WSAD=
 if [[  $getin -eq 0  ]] ;then
 IFS=$newline
-read -s -n1 ascanf
+read -s -n1   ascanf
 tf=$?
 IFS=$IFSbak
 fi
 
 if [[  "$ascanf"  ==  ""  ]]  || [[  "$ascanf"  ==  "$CR"  ]];then
-[[  $once -eq 0  ]]  && printf "\033[$((down5-1))A${enter}"
-[[  $once -eq 0  ]] && once=1 && printf "\033[1m" && printf "  $am1"  && printf "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
+[[  "$once" -eq 0  ]]  && printf "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 printf "$enter"
 break
 fi
 
-if [[  $once -ne 0  ]] && [[  "$ascanf" !=  "$_1B5B"  ]];then
-eval theam=\"\$am$order\"
+if [[  "$once" -ne 0  ]] && [[  "$ascanf" !=  "$_1B5B"  ]];then
+eval theam=\$am$order
 printf "$enter"
-printf "  $theam"
+ishprt "  $theam"
 printf "$enter"
 fi
 
 
 if [[  "$ascanf"  ==  [1234]  ]];then
-[[  $once -eq 0  ]]  && printf "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]]  && printf "\033[$((down5-1))A${enter}"
 sub=$((ascanf-order))
-[[  $once -eq 0  ]] && once=1 && [[  $sub -eq 0  ]] && printf "\033[1m" && printf "  $am1"  && printf "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
+[[  "$once" -eq 0  ]] && once=1 && [[  $sub -eq 0  ]] && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 if [[  $sub -eq 0  ]];then 
 getin=0
 order=$ascanf
@@ -3673,34 +3560,34 @@ if [[  "$ascanf"  ==  "$_1B5B"  ]] ;then
 while read -n1 WSAD ;do
 [[  "$WSAD" == [ABC]  ]] && break
 done
-[[  $once -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
-[[  $once -eq 0  ]] && once=1 && printf "\033[1m" && printf "  $am1"  && printf "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
-eval theam=\"\$am$order\"
+[[  "$once" -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
+eval theam=\$am$order
 printf "$enter"
-printf "  $theam"
+ishprt "  $theam"
 printf "$enter"
 if [[  "$WSAD" ==  "B"  ]] ;then
 eval down=\${down$order}
 order=$((order+1))
 printf "  $enter"
-[[  "$order" -eq 5  ]]  && printf "\033[${down5}A$enter"
+[[  "$order" -eq 5  ]]  && ishprt "\033[${down5}A$enter"
 [[  "$order" -eq 5  ]] && order=1
 
-eval theam=\"\$am$order\"
+eval theam=\$am$order
 printf "\033[${down}B$enter\033[1m"
-printf "  $theam"
+ishprt "  $theam"
 printf "$enter\033[0m"
 printf "\033[1m\033[36m->\033[0m$enter"
 elif [[  "$WSAD" == "A"  ]] ;then
 order=$((order-1))
 eval down=\${down$order}
 printf "  $enter"
-[[  "$order" -eq 0  ]]  && printf "\033[$((down6-1))B$enter"
+[[  "$order" -eq 0  ]]  && ishprt "\033[$((down6-1))B$enter"
 [[  "$order" -eq 0  ]] && order=4
-eval theam=\"\$am$order\"
+eval theam=\$am$order
 [[  "$order" -ne 4  ]] &&  printf "\033[${down}A$enter"
 printf "\033[1m"
-printf "  $theam"
+ishprt "  $theam"
 printf "$enter\033[0m"
 printf "\033[1m\033[36m->\033[0m$enter"
 elif [[  "$WSAD" == "C"  ]] ;then
@@ -3709,22 +3596,22 @@ fi
 fi
 
 if [[  "$ascanf"  ==  ' '  ]] || [[  $getin -gt 0  ]] ;then
-[[  $once -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
-[[  $once -eq 0  ]] && once=1 && printf "\033[1m" && printf "  $am1"  && printf "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
+[[  "$once" -eq 0  ]] && ishprt "\033[$((down5-1))A${enter}"
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
 [[  $getin -gt 0  ]] && getin=$((getin-1))
 eval down=\${down$order}
 order=$((order+1))
 printf "  $enter"
-[[  "$order" -eq 5  ]] && printf "\033[${down5}A$enter"
+[[  "$order" -eq 5  ]] && ishprt "\033[${down5}A$enter"
 [[  "$order" -eq 5  ]] && order=1
-eval theam=\"\$am$order\"
-printf "\033[${down}B$enter\033[1m"
-printf "  $theam"
+eval theam=\$am$order
+ishprt "\033[${down}B$enter\033[1m"
+ishprt "  $theam"
 printf "$enter\033[0m"
-printf "\033[1m\033[36m->\033[0m$enter"
+ishprt "\033[1m\033[36m->\033[0m$enter"
 
 elif [[  "$ascanf"  ==  "$D"  ]];then
-[[  $once -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}" && once=1
+[[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}" && once=1
 orders=0
 for i in $(seq $((order)) 4);do
 eval orders=\$down$i\+\$orders
@@ -3732,7 +3619,7 @@ done
 down=$((orders))
 [[  $down -gt 0  ]] && printf "\033[${down}B$enter"
 FIND
-printf "\033[1m\033[%dC%s\033[0m\n" "$left"  "$question"
+ishprt "\033[1m\033[%dC%s\033[0m\n" "$left"  "$question"
 printf "  $am1\n"
 printf "  $am2\n"
 printf "  $am3\n"
@@ -3777,8 +3664,8 @@ printf "\r"
 answer2="$question"
 answer1="$answer"
 colourp 2>/dev/null
-[[  "$abool" == ""  ]] || [[  "$abool" == "$LF"  ]] || [[  "$abool" == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B"
-[[  "$abool" == ""  ]] || [[  "$abool" == "$LF"  ]] || [[  "$abool" == "$CR"  ]]   && printf "$one"
+[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B"
+[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && printf "$one"
 else
 isright=0
 printf "\033[31m%s\033[0m\r" "->"
@@ -3808,12 +3695,12 @@ bool=
 answer2="$question"
 answer1="$answer"
 colourp 2>/dev/null
-[[  "$abool" == ""  ]] || [[  "$abool" == "$LF"  ]] || [[  "$abool" == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B" 
-[[  "$abool" == ""  ]] || [[  "$abool" == "$LF"  ]] || [[  "$abool" == "$CR"  ]]   &&   printf "$one"
+[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && [[  $down -gt 0  ]] && printf  "\033[${down}B" 
+[[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   &&   printf "$one"
 fi
 
 fi
-printf "$strs\n"
+ishprt "$strs\n"
 done
 }
 
@@ -3821,7 +3708,6 @@ done
 
 FUN()
 {
-stty "$abc" # ash only
 
    clear
 stty -echo
@@ -3849,39 +3735,35 @@ stty echo
 printf  "\033[0m\033[?25l"
 [[  "$calenda" == "1"  ]]  && printf "Ⅰ,提词器${spaces#             }Ⅱ,完形填空${spaces#              }Ⅲ,四选一"  &&  read  premode
 [[  "$calenda" != "1"  ]]  && printf "Ⅰ,提词器${spaces#             }Ⅱ,完形填空${spaces#              }Ⅲ,四选一"  &&  read  premode
-
+stty -echo
 if [[  "${premode:-1}" -eq "2"  ]];then
-stty cbreak # ash only
 _FUN
 return 0
 elif [[  "${premode:-1}" -eq "3"  ]];then
-stty cbreak # ash only
 FUN_
 return 0
 fi
 printf "Ⅰ,英译中${spaces#             }Ⅱ,中译英${spaces#            }Ⅲ,混合"
 read -n 1 mode
-[[  "$mode" == "$LF"  ]] && mode=3
+[[  "$mode" == $LF  ]] && mode=3
 echo
 printf "Ⅰ,顺序${spaces#           }Ⅱ,倒序${spaces#          }Ⅲ,乱序"
 read -n 1 random
-[[  "$random" == "$LF"  ]] && random=3
-stty -echo
-stty cbreak # ash only
+[[  "$random" == $LF  ]] && random=3
 echo 
 ii=99
-[[  "${passd:-0}" -eq 1   ]] && [[  "${calenda:-0}" -eq 1  ]] && ii=9999
+[[  "$passd" -eq 1   ]] && [[  "$calenda" == "1"  ]] && ii=9999
 printf "\033[0m"
 number0=0;
 r1=${raw:-number0};r2=${raw:-((n+1))}
 constn=$n
 
 if [[  $mode == 3  ]] ;then
-[[  ${rangem:-0} == 0  ]] && rangem="$(seq $n)"
+[[  $rangem == ""  ]] && rangem="$(seq $n)"
 longtxt=$(echo "$txt"  | tr -s "	"  "\n")
 for gi in $(seq 1 $ii)
 do
-if [[  ${passd:-0} -eq 1  ]] ;then
+if [[  $passd -eq 1  ]] ;then
     [[  "$RC" -eq 0  ]] && r1=$((r1-1)) && r2=$((r2)) && n=$((n-1))
     #m=$(echo "$rangem" | sed -n "$m,${m}p")
     [[  $((constn)) -eq $gcounts  ]] && echo 过关了!!!  && return 0
@@ -3895,7 +3777,7 @@ if [[ $r1 == $((n)) ]];then
 r1=0
 fi
 
-elif [[  $random == 2 ]];then
+elif [[  $random = 2 ]];then
 r2=$(($r2-1))   #因为最长的行数n始终比算出来的+1，减一后刚好
 m=$r2
 if [[ $r2 == 1 ]];then
@@ -3906,24 +3788,23 @@ elif [[  $random == 3 ]];then
 m=$((n))
 m=$(($RANDOM%$m+1))
 fi
-[[  "${m:-1}" ==  "0"  ]] && m=1
+[[  "$m" ==  "0"  ]] && m=1
 [[  "$m" -gt  "$((n))"  ]] && m=$((m-1))
-if [[  ${passd:-0} -eq 1  ]] ;then
+if [[  $passd -eq 1  ]] ;then
 m="$(echo "$rangem" | sed -n "$m,${m}p")"
 fi
-question="$(echo "$longtxt" | sed -n "$m,${m}p" )"
+question=$(echo "$longtxt" | sed -n "$m,${m}p" | tr '/' ' ')
  echo  "${strs}"
 No=$(($((m/2))+$((m%2))))
-pureanswe="$(printf "%s" "$txt"| sed -n "$No,${No}p" )"
-answer1="$(printf "%s" "$pureanswe" | awk 'BEGIN{FS="	";RS="\n"}{printf $1}' )"
-answer2="$(printf "%s" "$pureanswe" | awk 'BEGIN{FS="	";RS="\n"}{printf $NF}' )"
+pureanswe=$(printf "%s" "$txt"| sed -n "$No,${No}p" )
+answer1="$(printf "%s" "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
+answer2="$(printf "%s" "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
 
 question1="$(tprep1 "$question")"
 
 la=${#answer1}
-pla2=$(printf "${question1}"| wc -c)
 la2=$((${#question1}*2))
-for i in $(seq ${pla2});do
+for i in $(seq ${#question1});do
 if [[  "${question1:i-1:1}" == [a-z\.\(\)\<\>\&\;\,\~]  ]] ;then
 la2=$((la2-1))
 fi
@@ -3932,9 +3813,9 @@ length=$((la+la2+7))
 
 if [[  "$question" == "$answer1"  ]] ;then
 
-answer="$answer2"
+answer=$answer2
 pureanswerd="$(printf "\033[0m$answer1 \033[1m$answer2\033[0m")"
-printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m" 
+printf "\033[1m%s\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m" "$question"
 Readzh
 
 
@@ -3960,7 +3841,7 @@ colourp 2>/dev/null
 
 done
 fi
-if [[  $mode == 2  ]] ;then
+if [[  $mode = 2  ]] ;then
 constn=$((constn/2))
 [[  "$passd" -eq 1  ]] && rangem="$(seq $((n/2)))"
 m=$(($(($n-$((n%2))))/2))
@@ -3975,21 +3856,21 @@ if [[  $passd -eq 1  ]] ;then
 fi
 
 
-if [[  $random == 1 ]];then
+if [[  $random = 1 ]];then
 r1=$((r1+1))
 m2=$r1
 if [[ $r1 = $m ]];then
 r1=0
 fi
 
-elif [[  $random == 2 ]];then
+elif [[  $random = 2 ]];then
 r2=$((r2-1))
 m2=$r2
 if [[ $r2 = 1 ]];then
 r2=$((m+1))
 fi
 
-elif [[  $random == 3 ]];then
+elif [[  $random = 3 ]];then
 
 m2=$(($RANDOM%$m+1))
 fi
@@ -3998,19 +3879,19 @@ fi
 if [[  $passd -eq 1  ]] ;then
         m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
 fi
-question=$(echo "$txt"| sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}' )
+question=$(echo "$txt"| sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}' | tr '/' ' ')
  echo  "${strs}"
  #stty -echo
 pureanswe=$(printf "%s" "$txt" | sed -n "$m2,${m2}p")
 
-answer1="$(printf "%s" "$pureanswe" | awk 'BEGIN{FS="	";RS="\n"}{printf $1}' )"
-answer2="$(printf "%s" "$pureanswe" | awk 'BEGIN{FS="	";RS="\n"}{printf $NF}' )"
+answer1="$(printf "%s" "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
+answer2="$(printf "%s" "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
 
 question1="$(tprep1 "$question")"
+
 la=${#answer1}
-pla2=$(printf "${question1}"| wc -c)
 la2=$((${#question1}*2))
-for i in $(seq ${pla2});do
+for i in $(seq ${#question1});do
 if [[  "${question1:i-1:1}" == [a-z\.\(\)\<\>\&\;\,\~]  ]] ;then
 la2=$((la2-1))
 fi
@@ -4035,7 +3916,7 @@ done
 fi
 
 
-if [[  $mode == 1  ]] ;then
+if [[  $mode = 1  ]] ;then
 constn=$((constn/2))
 [[  "$passd" -eq 1  ]] && rangem="$(seq $((n/2)))"
 m=$(($(($n-$((n%2))))/2))
@@ -4048,21 +3929,21 @@ if [[  $passd -eq 1  ]] ;then
     [[  "$((constn))" -eq "$gcounts"  ]] && echo 过关了!!!  && return 0
 fi
 
-if [[  $random == 1 ]];then
+if [[  $random = 1 ]];then
 r1=$((r1+1))
 m2=$r1
 if [[ $r1 = $m ]];then
 r1=0
 fi
 
-elif [[  $random == 2 ]];then
+elif [[  $random = 2 ]];then
 r2=$((r2-1))
 m2=$r2
 if [[ $r2 = 1 ]];then
 r2=$((m+1))
 fi
 
-elif [[  $random == 3 ]];then
+elif [[  $random = 3 ]];then
 
 m2=$(($RANDOM%$m+1))
 fi
@@ -4073,23 +3954,23 @@ if [[  $passd -eq 1  ]] ;then
 fi
 
 
-question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' )"
+question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
  echo  "${strs}"
 pureanswe=$(printf "%s" "$txt" | sed -n "$m2,${m2}p" )
 
-answer1="$(printf "%s" "$pureanswe" | awk 'BEGIN{FS="	";RS="\n"}{printf $1}' )"
-answer2="$(printf "%s" "$pureanswe" | awk 'BEGIN{FS="	";RS="\n"}{printf $NF}' )"
+answer1="$(printf "%s" "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
+answer2="$(printf "%s" "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
 
 la=${#question}
 la2=$((${#answer2}*2))
 for i in $(seq ${#answer2});do
-if [[  "${answer2:i-1:1}" =~ [a-z\.\(\)\<\>\&]  ]] ;then
+if [[  "${answer2:i-1:1}" == [a-z\.\(\)\<\>\&]  ]] ;then
 la2=$((la2-1))
 fi
 done
 length=$((la+la2+7))
 pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
-printf "\033[1m$answer1\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
+printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
 Readzh
 
 
@@ -4194,20 +4075,19 @@ m="$(echo "$rangem" | sed -n "$m,${m}p")"
 fi
 eval question=\${lr$m}
  echo  "${strs}"
-question="$(echo $question )" 
+question="$(echo $question | tr '/' ' ')" 
 question1="$(tprep1 "$question")"
 
 [[  "$((m%2))" -eq 0  ]] && eval  pureanswe="\${lr$((m-1))}'	'\${lr$m}"
 [[  "$((m%2))" -eq 1  ]] && eval pureanswe="\${lr$m}'	'\${lr$((m+1))}"
 
-answer1=`echo "$pureanswe" | awk -F'	' '{printf $1}'   `
-answer2=`echo "$pureanswe" | awk -F'	' '{printf $2}'  `
+answer1=`echo "$pureanswe" | awk -F'	' '{printf $1}' | tr '/' ' '  `
+answer2=`echo "$pureanswe" | awk -F'	' '{printf $2}' | tr '/' ' ' `
 
 
 la=${#answer1}
-pla2=$(printf "${question1}"| wc -c)
 la2=$((${#question1}*2))
-for i in $(seq ${pla2});do
+for i in $(seq ${#question1});do
 if [[  "${question1:i-1:1}" == [a-z\.\(\)\<\>\&\;\,\~]  ]] ;then
 la2=$((la2-1))
 fi
@@ -4239,7 +4119,7 @@ fi
 
 
 
-if [[ $mode == 2 ]] ;then
+if [[ $mode = 2 ]] ;then
 constn=$((constn/2))
 [[  "$passd" -eq 1  ]] && rangem="$(seq $((n/2)))"
 m=$n
@@ -4281,17 +4161,16 @@ fi
 
 eval question=\${lr$m2}
  echo  "${strs}"
-question="$(echo $question )" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
+question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
 
 eval  pureanswe="\${lr$((m2-1))}'	'\${lr$m2}"
 question1="$(tprep1 "$question")"
-answer1=`echo "$pureanswe" | awk -F'	' '{printf $1}' `
-answer2=`echo "$pureanswe" | awk -F'	' '{printf $2}'  `
+answer1=`echo "$pureanswe" | awk -F'	' '{printf $1}' | tr '/' ' '`
+answer2=`echo "$pureanswe" | awk -F'	' '{printf $2}' | tr '/' ' ' `
 
 la=${#answer1}
-pla2=$(printf "${question1}"| wc -c)
 la2=$((${#question1}*2))
-for i in $(seq ${pla2});do
+for i in $(seq ${#question1});do
 if [[  "${question1:i-1:1}" == [a-z\.\(\)\<\>\&\;\,\~]  ]] ;then
 la2=$((la2-1))
 fi
@@ -4317,7 +4196,7 @@ done
 fi
 
 
-if [[ $mode == 1 ]] ;then
+if [[ $mode = 1 ]] ;then
 constn=$((constn/2))
 [[  "$passd" -eq 1  ]] && rangem="$(seq $((n/2)))"
 m=$n
@@ -4362,17 +4241,17 @@ fi
 
 eval question=\${lr$m2}
  echo  "${strs}"
-question="$(echo $question )" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
+question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
 
 eval pureanswe="\${lr$m2}'	'\${lr$((m2+1))}"
 
-answer1=`echo "$pureanswe" | awk -F'	' '{printf $1}'  `
-answer2=`echo "$pureanswe" | awk -F'	' '{printf $2}'  `
+answer1=`echo "$pureanswe" | awk -F'	' '{printf $1}' | tr '/' ' ' `
+answer2=`echo "$pureanswe" | awk -F'	' '{printf $2}' | tr '/' ' ' `
 pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
 la=${#question}
 la2=$((${#answer2}*2))
 for i in $(seq ${#answer2});do
-if [[  "${answer2:i-1:1}" =~ [a-z\.\(\)\<\>\&]  ]] ;then
+if [[  "${answer2:i-1:1}" == [a-z\.\(\)\<\>\&]  ]] ;then
 la2=$((la2-1))
 fi
 done
@@ -4408,7 +4287,7 @@ eval rp=\${$p:-nul}
 (cat < ${rp} ) >&/dev/null
 catable=$?
 if [[  $catable -eq 0  ]];then
-txt="$(cat ${rp} |  grep -a  -B99999 \\\\  | tr -d '\\' )
+txt="$(cat ${rp} |  grep -a  -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )
 $txt"
 
        # txt=${txt%% }
@@ -4463,7 +4342,7 @@ key2=$?
 
 if [[  $key2 -eq 0  ]] && [[  "$target"  !=  ''  ]] ;then
 targets=$targets' '$target
-txt="$(cat ${target} |  grep -a  -B99999 \\\\  | tr -d '\\' )
+txt="$(cat ${target} |  grep -a  -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )
 $txt"
 txt=$(echo "$txt" | grep "	")
 lastn=$n
@@ -4551,9 +4430,9 @@ while getopts ":RrsipajhTt:" opt; do
 esac
 done
 printf "\033[0m 回车以继续\r"
-read -s
-[[  "${record:-0}" -eq 1   ]] && [[  "${Record:-0}" -eq 1   ]] && printf "\033[31m*参数冲突\033[0m\n%s\n%s\n" "-r(错题集模式)" "-R(剔除模式)"  && exit 0
-[[  "${argn:-0}" -gt "1"  ]] && printf "\033[31m*参数冲突\033[0m\n%s\n%s\n%s\n" "-T(Termium)" "-i(ish)"  && exit 0
+read
+[[  "$record" -eq 1   ]] && [[  "$Record" -eq 1   ]] && printf "\033[31m*参数冲突\033[0m\n%s\n%s\n" "-r(错题集模式)" "-R(剔除模式)"  && exit 0
+[[  "$argn" -gt "1"  ]] && printf "\033[31m*参数冲突\033[0m\n%s\n%s\n%s\n" "-T(Termium)" "-i(ish)"  && exit 0
 stdin
 
 calendar && _verify && loadcontent && FUN && exit
