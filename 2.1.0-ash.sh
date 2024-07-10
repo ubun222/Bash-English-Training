@@ -54,9 +54,6 @@ read -n1 x19 <<EOF
 `printf  "\x19"`
 EOF
 xzh=`printf  "\xe3\x80\x79"`
-#read xzhmax <<EOF
-#`printf  "\xef\xff\xff"`
-#EOF 32bit ubuntu 最大汉字为逸
 
 xzhmax=`printf "%d" "'Ｚ"`
 
@@ -1534,7 +1531,7 @@ _read_() #termux
 
 
 az=1
-[[   "$ascanf"  !=   [a-z\.\(\)\<\>\&\ ]   ]] && az=0
+[[   "$ascanf"  !=   [a-zA-Z\.\(\)\<\>\&\ ]   ]] && az=0
 
 
 if [[  "$ascanf" != ""  ]] || [[  "${bd}" == [02]   ]] || [[  "${vback}" -eq "1"   ]] ;then #ash only
@@ -1553,6 +1550,8 @@ read -t 0.25 -s -d \R pos1
 elif [[  "${zhpt:-0}" == 3  ]] || [[  $az == 1  ]] ;then #更新光标位置
 [[  "$((nb))"  == "$ib"   ]] && waiting=0 && bscanf=  && ib= && nb=0     #readzn
 pos1="$pos2"
+elif [[  $az == 0  ]] ;then
+[[  "$((nb))"  == "$ib"   ]] && waiting=0 && bscanf=  && ib= && nb=0     #readzn
 fi
 
 #printf "a$whereb"
@@ -1560,12 +1559,13 @@ fi
 
 if [[  "$which" == "zh"  ]] && [[  "${vback}" -ne 1  ]];then
 is=$(printf "${scanf}" | wc -c )
-if [[   "${az}" == 0  ]] && ([[  ${whereb:--1} -eq $((COLUMN-2))  ]] &&  [[  "${scanf:$((${is}-2)):1}" !=  [a-z\.\(\)\<\>\&]  ]]) || ( [[  $((whereb)) -ne $((COLUMN-1)) ]] && [[  "$reg2" == " \b\033[1C"  ]] ) || ( [[  ${now4:-0} -eq 1  ]]  &&  [[  "${wherec:--2}" -eq "$COLUMN"  ]]) && now4= ;then
+if [[   "${az:-0}" == 0  ]] && (([[  ${whereb:--1} -eq $((COLUMN-2))  ]] &&  [[  "${scanf:$((${is}-2)):1}" !=  [a-z\.\(\)\<\>\&]  ]]) || ( [[  $((whereb)) -ne $((COLUMN-1)) ]]  &&   [[  "$temp2" == "1"  ]] && temp2= ) || ( [[  ${now4:-0} -eq 1  ]]  &&  [[  "${wherec:--2}" -eq "$COLUMN"  ]] && now4=)) ;then
 whereb="${pos1/*;/""}" && [[  ${whereb:--1} -eq $((COLUMN))  ]] && ascanf="~$ascanf" && needo=1
 else
 whereb="${pos1/*;/""}"
 fi
 fi
+whereb="${pos1/*;/""}"
 while [[  $az -eq 1  ]] || [[  "${zhpt:-0}" == 3  ]] || [[  ${vback} -eq 1  ]] ;do  #ash only
 printf "%s" "${ascanf}"  
 [[  "${vback}" -ne "1"  ]]  &&  [[  "${bscanf:-0}" == "0"  ]]  &&  ififright && stty -echo && return 22
@@ -1585,6 +1585,7 @@ if [[  "$az" == 0  ]]   ; then
 wherec="${pos2/*;/""}"
 Pos="$((wherec-whereb))"
 [[  "${Pos:-0}" -eq "1"  ]] && now3=1 
+
 fi
 
 break
@@ -1626,7 +1627,7 @@ fi
 _read() #ish
 {
   az=1
-[[   "$ascanf"  !=   [a-z\.\(\)\<\>\&\ ]   ]] && az=0
+[[   "$ascanf"  !=   [a-zA-Z\.\(\)\<\>\&\ ]   ]] && az=0
 
 #ib=$(printf "%s" "${bscanf}" | wc -c )
 if [[  "$ascanf" != ""  ]] || [[  "${bd}" == [02]   ]] || [[  "${vback}" -eq "1"   ]] ;then #ash only
@@ -1643,6 +1644,9 @@ read -t 0.25 -s -d \R pos1
 elif [[  "${zhpt:-0}" == 3  ]] || [[  $az == 1  ]] ;then #更新光标位置
 [[  "$((nb))"  == "$ib"   ]] && waiting=0 && bscanf=  && ib= && nb=0     #readzn
 pos1="$pos2"
+elif [[  $az == 0  ]] ;then
+[[  "$((nb))"  == "$ib"   ]] && waiting=0 && bscanf=  && ib= && nb=0     #readzn
+
 fi
 
 while [[  $az -eq 1  ]] || [[  "${zhpt:-0}" == 3  ]] || [[  ${vback} -eq 1  ]] ;do #ash only
@@ -2051,6 +2055,7 @@ ascanf=""
 [[  "${scanf:-0}" == 0   ]] && continue
 L="$(printf  "${scanf}" | wc -c )"
 vback=1
+[[  "$L" -le "0"  ]] && continue
 [[  "$L" -le "1"  ]] && vback=0
 Ll=$L
 L=$((L-1))
@@ -2062,9 +2067,10 @@ if [[  "${needo}" == "1"  ]] && [[  "$now2" -eq 1  ]] ;then
 [[  "${scanf:$L}"  != [a-z\.\(\)\<\>\&]  ]] && printf " "
 [[  "${scanf:$L}"  == [a-z\.\(\)\<\>\&]  ]] && printf "\033[1C "
 fi
-[[  "${scanf:$L}"  == [a-z\.\(\)\<\>\&]  ]] && reg2=" \b\033[1C"
+temp2=
+[[  "${scanf:$L}"  == [a-z\.\(\)\<\>\&]  ]]  && reg2=" \b\033[1C" && temp2=1 #ash only
 #[[  "${scanf:$L}"  != [a-z\.\(\)\<\>\&]  ]] &&  scanf="${scanf:0:$((L-2))}" #ash only
-[[  "$needo" == "1"  ]] && [[  "$now2" == "1"  ]] && reg2="$reg2\b"
+[[  "$needo" == "1"  ]] && [[  "$now2" == "1"  ]] && reg2="$reg2\b" 
 tscanf=
 [[  "${scanf:$L}"  == [a-z\.\(\)\<\>\&]  ]] &&  tscanf="${scanf:0:$((L))}"
 [[  "${scanf:$L}"  != [a-z\.\(\)\<\>\&]  ]] &&  tscanf="${scanf:0:$((L-2))}" #ash only

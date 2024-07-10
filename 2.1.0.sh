@@ -1553,7 +1553,7 @@ fi
 break
 done
 if [[  "$which" == "zh"  ]] && [[  $vback -ne 1  ]] ;then
-if [[  "$ascanf" !=  [a-z\.\(\)\<\>\&]  ]] && ([[  $whereb -eq $((COLUMN-2))  ]] &&  [[  "${scanf:$((${#scanf}-2)):1}" !=  [a-z\.\(\)\<\>\&]  ]]) || ( [[  $((whereb)) -ne $((COLUMN-1)) ]] && [[  $reg2 == " \b\033[1C"  ]] ) || ( [[  $now4 -eq 1  ]]  &&  [[  $wherec -eq $COLUMN  ]]) && now4= ;then
+if [[  "$ascanf" !=  [a-z\.\(\)\<\>\&]  ]] && (([[  $whereb -eq $((COLUMN-2))  ]] &&  [[  "${scanf:$((${#scanf}-2)):1}" !=  [a-z\.\(\)\<\>\&]  ]]) || ( [[  $((whereb)) -ne $((COLUMN-1)) ]] && [[  $reg2 == " \b\033[1C"  ]] ) || ( [[  $now4 -eq 1  ]]  &&  [[  $wherec -eq $COLUMN  ]] && now4= )) ;then
 whereb="${pos1/#*;/""}" && [[  $whereb -eq $((COLUMN))  ]] && ascanf="~$ascanf" && needo=1
 else
 whereb="${pos1/#*;/""}"
