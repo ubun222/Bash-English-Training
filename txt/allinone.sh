@@ -17,6 +17,14 @@ fi
 #有bug。alltxt="$alltxt$(echo $(cat $txt1 | awk -F'\\' '{printf $1}'))"
 
 while read line ;do
+
+if [[   "$line" =~ "\\\\"   ]] ;then
+break;
+fi
+if [[ !  "$line" =~ "="   ]] ;then
+break;
+fi
+
 word1="$(printf "%s" "$line" | awk -F"="  '{printf $1}' )"
 if [[  "$(echo "$alltxt"   | grep ^"$word1=" )" == ""  ]];then
 #printf  "$alltxt" | tr '@'  '\n' |  tr '/' ' '  | tr '=' '	' | sort >./allinone.txt
@@ -28,7 +36,7 @@ printf "$word1"已存在\\n
 fi
 
 done <<EOF
-$(cat "$txt1" | grep -B 99999 '\\'  | tr '	' '='  | sed 's/\\//g'  | tr ' '  '/'  | sed 's/@@/@/g')
+$(cat "$txt1" | tr '	' '='  | sed 's/\\//g'  | tr ' '  '/'  | sed 's/@@/@/g')
 EOF
 
 if [[ "$?" = "0" ]] ;then
@@ -70,8 +78,9 @@ if [[ "$path" != "" ]] ;then
 
 delete=$(cat $path | grep  '\\' )
 
-cat $path | grep -A 999999 '\\' | tr -d "$delete" >>./allinone.txt
-(cat $path) &>/dev/null
+#cat $path | grep -A 999999 '\\' | tr -d "$delete" >>./allinone.txt
+cat "$path" | grep -v "	" | tr -d "$delete" >>./allinone.txt
+#(cat $path) &>/dev/null
 if [[ "$?" != "0" ]] ;then
 break 
 else

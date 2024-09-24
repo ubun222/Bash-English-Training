@@ -1,0 +1,447 @@
+dump						n.垃圾场，讨厌的地方，转存vt.倾倒，抛弃，转存
+resist							vt.抵抗，拒受...的诱惑vi.抵抗
+source						n.源头，消息来源，vt.获得
+legal							adj.法律的，法定的
+picky							adj.挑剔的
+steal							vt.偷，vi.偷，偷偷移动n.便宜货，偷
+despite						prep.尽管
+explosion						n.爆炸，激增，突然出现
+gap						n.空白处，空缺，<比喻>差异
+the generation gap				代沟
+relevant						adj.有关的
+ignore					vt.忽视
+complete						adj.全部的，完整的，彻底的，完成的vt.完成
+complete and utter				完完全全的
+sufficient						adj.充足的
+switch					n.开关，转变，调换vt.改变，调换vi.改变，调换
+request								n.要求vt.要求
+stereotype						n.模式化观念vt.模式化观念
+conform to a stereotype			墨守陈规
+couple						n.夫妻，情侣，两个vt.连接
+honesty						n.诚实，正直
+transportation					n.运输，运输系统，运输工具
+physical						adj.身体的，物质的n.体检
+go for a physical				去体检
+screen						n.屏风，屏幕，vt.遮蔽，筛查
+a screen role					电影角色
+divine						adj.上帝的，神授的，极好的vt.猜到
+guideline						n.指导方针
+revolution						n.革命，天体运行
+interruption					n.插嘴，阻断
+dishwasher						n.洗碗机，洗碗工
+promise								n.承诺，希望vt.答应，预报vi.承诺
+promising						adj.前景看好的
+vary							vi.相异，变化vt.改变
+permanent								adj.永久的
+manufacture					vt.大量生产，生成，编造n.大量生产
+a site for depositing rubbish.:一个存放垃圾的场所。
+a heap of rubbish left at a dump.:一堆垃圾留在垃圾场。
+a place where a particular kind of waste, especially dangerous waste, is left:一个特定种类的废物，特别是危险废物，被留下的地方
+a place where weapons and other military equipment is stored:存放武器和其他军事装备的地方
+an unpleasant or dreary place:一个不愉快或沉闷的地方
+an act of copying stored data to a different location, performed typically as a protection against loss.:将存储的数据复制到不同位置的行为，通常作为防止丢失的保护。
+a printout or list of the contents of a computer's memory, occurring typically after a system failure.:计算机内存内容的打印输出或列表，通常发生在系统故障之后。
+an act of defecation.:一种排便行为。
+deposit or dispose of (rubbish, waste, or unwanted material), typically in a careless or hurried way:存放或处置（垃圾、废物或不需要的材料），通常以粗心或匆忙的方式
+abandon (something) hurriedly in order to make an escape:abandon(something)匆匆忙忙地逃跑
+put (something) down heavily or carelessly:put（某事）重重或不小心
+abandon or desert (someone):放弃或沙漠（某人）
+send (goods unsaleable in the home market) to a foreign market for sale at a low price:发送（国内市场滞销的商品）到国外市场低价出售
+sell off (assets) rapidly:迅速抛售（资产）
+copy (stored data) to a different location, especially so as to protect against loss.:将（存储的数据）复制到不同的位置，尤其是为了防止丢失。
+print out or list the contents of (a store), especially after a system failure.:打印或列出（商店）的内容，尤其是在系统故障之后。
+dump |dʌmp| Noun/Verb/:,垃圾场,转储
+a nuclear waste dump:一个核废料堆
+an ammunitions dump:an弹药库
+why are you living in a dump like this?:你为什么住在这样的垃圾场？
+trucks dumped 1,900 tons of refuse here:卡车在这里倾倒了1900吨垃圾
+the couple dumped the car and fled:这对夫妇倾倒汽车逃跑
+she dumped her knapsack on the floor:她把她的背包扔在地板上
+you'll get tired of me and dump me:你会厌倦我并甩掉我
+these countries have been dumping cheap fertilizers on the UK market:这些国家一直在向英国市场倾销廉价肥料
+investors dumped shares in scores of other consumer goods firms:投资者抛售了数十家其他消费品公司的股票
+
+withstand the action or effect of:承受的作用或影响
+try to prevent by action or argument:try通过行动或争论来阻止
+struggle or fight back when pressured or attacked:在受到压力或攻击时进行斗争或反击
+refrain from doing or having (something tempting or unwise):避免做或拥有（诱人或不明智的事情）
+a resistant substance applied as a coating to protect a surface during a process, for example to prevent dye or glaze adhering:一种在工艺过程中用作涂层以保护表面的抗性物质，例如防止染料或釉料粘附
+resist |rɪˈzɪst| Noun/Verb/:抵抗,抗,抵制,抗拒
+antibodies help us to resist infection:抗体帮助我们抵抗感染
+we will continue to resist changes to the treaty:我们将继续抵制修改条约
+he didn't resist despite the weapons he had:尽管他有武器，他也没有反抗
+I couldn't resist buying the blouse:我忍不住买了这件衬衫
+new lithographic techniques require their own special resists:new光刻技术需要自己的特殊抗蚀剂
+
+a place, person, or thing from which something originates or can be obtained:一个地方、人或事物，某事物源自或可以从中获得
+a spring or fountain head from which a river or stream issues:一个泉水或源头，河流或溪流从中流出
+a person who provides information:提供信息的人
+a book or document used to provide evidence in research:用于提供研究证据的书籍或文件
+a body or process by which energy or a particular component enters a system:能量或特定成分进入系统的物体或过程
+a part of a field-effect transistor from which carriers flow into the inter-electrode channel.:场效应晶体管的一部分，载流子从该晶体管流入电极间通道。
+obtain from a particular source:从特定来源获得
+find out where (something) can be obtained:找出在哪里可以获得（东西）
+source |sɔːs| Noun/Verb/:资源,来源,获得,源,源码
+mackerel is a good source of fish oil:鲭鱼是鱼油的良好来源
+the source of the Nile:尼罗河源头
+military sources announced a reduction in strategic nuclear weapons:军方消息人士宣布削减战略核武器
+a historian will need to use both primary and secondary sources:a历史学家需要同时使用主要和次要来源
+major sources and sinks exist for atmospheric oxygen:存在大气氧气的主要来源和汇
+each type of coffee is sourced from one country:每种咖啡都来自一个国家
+she was called upon to source a supply of carpet:她被要求采购地毯供应
+
+relating to the law:与法律有关
+appointed or required by the law:法律指定或要求
+recognized by common or statute law, as distinct from equity.:被普通法或成文法认可，不同于衡平法。
+relating to theological legalism.:与神学律法主义有关。
+permitted by law:法律允许
+denoting a size of paper that measures 22 × 35.5 cm (8.5 × 14 inches):表示尺寸为22×35.5厘米（8.5×14英寸）的纸张
+legal |ˈliːɡl| Adjective/:合法的,法律,合法
+the European legal system:欧洲法律体系
+a legal requirement:法律要求
+he claimed that it had all been legal:他声称这一切都是合法的
+a yellow legal pad:a黄色便笺簿
+
+fussy and hard to please:挑剔且难以取悦
+picky |ˈpɪki| Adjective/:挑剔,挑剔的
+they are becoming increasingly picky about where they stay:他们对住的地方越来越挑剔
+
+take (another person's property) without permission or legal right and without intending to return it:未经许可或合法权利取走（他人财产），无意归还
+dishonestly pass off (another person's ideas) as one's own:不诚实地冒充（他人的想法）作为自己的想法
+take the opportunity to give or share (a kiss) when it is not expected or when people are not watching:在意料之外或人们不注意时，趁机给予或分享（亲吻）
+(in various sports) gain (an advantage, a run, or possession of the ball) unexpectedly or by exploiting the temporary distraction of an opponent:（在各种运动中）出人意料地或利用对手的暂时分心获得（优势、跑动或控球）
+run to (a base) while the pitcher is in the act of delivery:投手投球时跑到（垒）
+move somewhere quietly or surreptitiously:悄悄地或偷偷地移动到某个地方
+direct (a look) quickly and unobtrusively:快速且不引人注意地直接（看一眼）
+a bargain:便宜货
+an act of stealing something:偷东西的行为
+an idea taken from another work:一个取自另一件作品的想法
+an act of stealing a base.:偷基地的行为。
+an act of taking possession of the ball or puck from an opponent:从对方手中夺取球或冰球的行为
+steal |stəʊl| Noun/Verb/:偷,窃取,偷东西
+thieves stole her bicycle:小偷偷了她的自行车
+accusations that one group had stolen ideas from the other were soon flying:关于一组人从另一组窃取想法的指控很快就传开了
+he stole kisses in shop doorways:他在商店门口偷吻
+he stole the ball from Kevin Scott to run on and score his seventh League goal:他从凯文·斯科特那里偷了球继续跑，打进了他的第七个联赛进球
+he claims he can steal a hundred bases this season:他声称他本赛季可以偷一百个垒
+he stole down to the kitchen:他偷偷溜到厨房
+he stole a furtive glance at her:他偷偷看了她一眼
+at £59.95 it's an absolute steal:59.95英镑，这绝对是一次抢断
+New York's biggest art steal:纽约最大的艺术偷窃
+the chorus is a steal from The Smiths' ‘London’:合唱是从史密斯乐队的“伦敦”中偷来的
+he finished with eight points, four steals, and seven assists:他得到8分、4次抢断和7次助攻
+
+without being affected by, in spite of:不受影响，尽管
+contemptuous treatment or behaviour, outrage:轻蔑的对待或行为，愤怒
+contempt, disdain:蔑视，不屑
+despite |dɪˈspʌɪt| Noun/Preposition/:尽管,虽然
+he remains a great leader despite age and infirmity:尽管年老体弱，他仍然是一位伟大的领导者
+the despite done by him to the holy relics:尽管他对圣物做了
+the theatre only earns my despite:剧院只赚我尽管
+
+a violent shattering or blowing apart of something, as is caused by a bomb:猛烈地粉碎或炸开某物，如炸弹造成的
+a violent expansion in which energy is transmitted outwards as a shock wave.:一种剧烈的膨胀，其中能量以冲击波的形式向外传播。
+a sudden outburst of something such as violent emotion, especially anger:突然爆发的某种情绪，例如剧烈的情绪，尤其是愤怒
+a sudden political or social upheaval:突然的政治或社会动荡
+a sudden increase in amount or extent:数量或程度的突然增加
+explosion |ɪkˈspləʊʒn| Noun/:爆炸,爆发
+three explosions damaged buildings at the barracks:三个爆炸破坏了军营的建筑物
+an explosion of anger inside the factory:工厂内爆发的愤怒
+there will have to be sweeping changes if the political leaders want to avoid an explosion:如果政治领导人想要避免爆发，就必须进行彻底的改变
+an explosion in the adder population:加法器数量激增
+
+a break or space in an object or between two objects:一个对象或两个对象之间的中断或空间
+a pass or way through a range of hills:穿过一系列山丘的通道或道路
+a space or interval, a break in continuity:一个空间或间隔，连续性的中断
+a difference, especially an undesirable one, between two views or situations:两种观点或情况之间的差异，尤其是不受欢迎的差异
+gap |ɡap| Noun/:,间隙
+he peeped through the gap in the curtains:他从窗帘缝隙里偷窥
+there are many gaps in our understanding of what happened:我们对发生的事情的理解有很多差距
+the media were bridging the gap between government and people:媒体正在弥合政府与人民之间的差距
+
+
+the generation gap | 代沟,世代差距
+
+closely connected or appropriate to what is being done or considered:与正在做或考虑的事情密切相关或适合
+appropriate to the current time, period, or circumstances, of contemporary interest:适合当代感兴趣的当前时间、时期或情况
+relevant |ˈrɛlɪv(ə)nt| Adjective/:相关的,有关
+what small companies need is relevant advice:小公司需要的是相关建议
+critics may find themselves unable to stay relevant in a changing world:批评家可能会发现自己无法在不断变化的世界中保持相关性
+
+refuse to take notice of or acknowledge, disregard intentionally:拒绝注意或承认，故意无视
+fail to consider (something significant):未能考虑（重要的事情）
+ignore |ɪɡˈnɔː| Verb/:忽视,忽略,无视
+he ignored her outraged question:他忽略了她愤怒的问题
+the rules ignore one important principle of cricket:规则忽略了板球的一项重要原则
+
+having all the necessary or appropriate parts:拥有所有必要或适当的部分
+entire, full:请填写所附表格2
+having (something) as an additional part or feature:将（某物）作为附加部分或特征
+having run its full course, finished:完成了全部课程，完成
+(often used for emphasis) to the greatest extent or degree, total:（常用于强调）最大程度或程度，总计
+skilled at every aspect of a particular activity, consummate:精通特定活动的各个方面，完美
+finish making or doing:完成制作或做
+conclude the sale of a property:结束房产销售
+(of a quarterback) successfully throw (a forward pass) to a receiver:（四分卫）成功地向接球手投掷（向前传球）
+provide with the item or items necessary to make (something) full or entire:提供使（某物）完整或完整所需的一个或多个项目
+write the required information on (a form or questionnaire):在（表格或问卷）上写下所需的信息
+complete |kəmˈpliːt| Adjective/Verb/:完全的,完成,完整,完全,完整的
+a complete list of courses offered by the university:大学提供的课程的完整列表
+I only managed one complete term at school:我在学校只完成了一个完整的学期
+the house comes complete with gas central heating and double glazing:房子配有燃气中央供暖和双层玻璃
+the restoration of the chapel is complete:教堂修复完成
+a complete ban on smoking:全面禁烟
+his range of skills made him the complete footballer:他的技能范围使他成为一名完整的足球运动员
+he completed his PhD in 1993:他于1993年完成博士学位
+you may find yourself in a position where you have to wait for your purchaser to complete, whereas your new home is ready:您可能会发现自己必须等待购买者完成，而您的新家已经准备就绪
+he was still throwing the ball hard enough to complete 48 of 76 passes:他仍然用力投球，完成了76次传球中的48次
+complete your collection of Britain's brightest gardening magazine:完成你收藏的英国最聪明的园艺杂志
+please complete the attached forms:请填写所附表格
+
+
+complete and utter | 完整而完整,完整和彻底
+
+enough, adequate:足够，足够
+sufficient |səˈfɪʃnt| Adjective/:充足的,足够,充,足以,足够的
+they had sufficient resources to survive:他们有足够的资源生存
+
+a device for making and breaking the connection in an electric circuit:一种用于接通和断开电路中的连接的装置
+a program variable which activates or deactivates a certain function of a program.:一个程序变量，它激活或停用程序的某个功能。
+a device which forwards data packets to an appropriate part of the network.:将数据包转发到网络适当部分的设备。
+an act of changing to or adopting one thing in place of another:改变或采用一件事代替另一件事的行为
+a slender, flexible shoot cut from a tree.:从树上剪下来的细长、灵活的枝条。
+a set of points on a railway track.:铁路轨道上的一组点。
+a tress of false or detached hair tied at one end, used in hairdressing to supplement natural hair.:一绺假发或脱落发束，用于美发以补充自然发质。
+change the position, direction, or focus of:更改位置、方向或焦点
+adopt (something different) in place of something else, change:采用（不同的东西）代替其他东西，改变
+substitute (two items) for each other, exchange:互相替代（两项），交换
+beat or flick with or as if with a switch.:用或好像用开关敲打或轻弹。
+switch |swɪtʃ| Noun/Verb/:,开关,交换机
+the guard hit a switch and the gate swung open:守卫按下开关，大门打开
+his friends were surprised at his switch from newspaper owner to farmer:他的朋友们对他从报社老板转变为农民感到惊讶
+the company switched the boats to other routes:公司改船换其他航线
+she's managed to switch careers:她成功转行
+after ten minutes, listener and speaker switch roles:十分钟后，听者和说者互换角色
+
+an act of asking politely or formally for something:礼貌或正式地要求某事的行为
+a thing that is asked for:一个被要求的东西
+an instruction to a computer to provide information or perform another function:向计算机发出指令以提供信息或执行其他功能
+a tune or song played on a radio programme, typically accompanied by a personal message, in response to a listener's request.:在广播节目中播放的曲调或歌曲，通常伴随着个人信息，以响应听众的请求。
+the state of being sought after:被追捧的状态
+politely or formally ask for:礼貌或正式要求
+politely or formally ask (someone) to do something:礼貌或正式地要求（某人）做某事
+request |rɪˈkwɛst| Noun/Verb/:要求,请求,请,申请
+a request for information:信息请求
+to have our ideas taken seriously is surely a reasonable request:认真对待我们的想法肯定是一个合理的要求
+the computer is busy servicing requests from other processes:计算机正忙于处理来自其他进程的请求
+human intelligence, which is in constant request in a family:家庭中不断需要的人类智慧
+he received the information he had requested:他收到了他要求的信息
+the letter requested him to report to London:这封信要求他到伦敦报到
+
+a widely held but fixed and oversimplified image or idea of a particular type of person or thing:对特定类型的人或事物的广泛持有但固定且过于简单化的形象或想法
+a person or thing that conforms to a widely held but oversimplified image of the class or type to which they belong:一个人或事物符合他们所属的阶级或类型的广泛持有但过于简单化的形象
+a relief printing plate cast in a mould made from composed type or an original plate.:在由组合活字或原版制成的模具中铸造的浮雕印版。
+view or represent as a stereotype:查看或表示为刻板印象
+stereotype |ˈstɛrɪə(ʊ)tʌɪp| Noun/Verb/:刻板印象,定型
+the stereotype of the woman as the carer:女性作为照顾者的刻板印象
+don't treat anyone as a stereotype:不要将任何人视为刻板印象
+the city is too easily stereotyped as an industrial wasteland:这座城市太容易被定型为工业荒地
+
+
+conform to a stereotype | 符合刻板印象,符合成见
+
+two people or things of the same sort considered together:两个相同类型的人或事物一起考虑
+a pair of partners in a dance or game.:一对舞伴或游戏。
+a pair of hunting dogs.:一对猎犬。
+two collars joined together and used for holding hounds together.:两个项圈连接在一起，用于将猎犬固定在一起。
+a pair of rafters.:一对椽子。
+a pair of equal and parallel forces acting in opposite directions, and tending to cause rotation about an axis perpendicular to the plane containing them.:一对相等且平行的力作用于相反方向，并趋向于围绕垂直于包含它们的平面的轴旋转。
+two people who are married or otherwise closely associated romantically or sexually:两个已婚或在浪漫或性方面密切相关的人
+an indefinite small number:一个不定的小数
+link or combine (something) with something else:将（某物）与其他某物链接或结合
+connect (a railway vehicle or a piece of equipment) to another:将（铁路车辆或设备）连接到另一个
+connect (two electrical components) using electromagnetic induction, electrostatic charge, or an optical link:使用电磁感应、静电荷或光链路连接（两个电气组件）
+join to form a pair:加入一对
+mate or have sexual intercourse:交配或性交
+couple |ˈkʌpl| Noun/Verb/:一对,夫妻,相连,情侣,夫妇
+in three weeks the couple fell in love and became engaged:在三周内，这对夫妇坠入爱河并订婚
+a sense of hope is coupled with a palpable sense of loss:一种希望的感觉伴随着一种明显的失落感
+a cable is coupled up to one of the wheels:a电缆连接到其中一个车轮
+resistors are used to couple the oscillators:电阻器用于耦合振荡器
+the beetles may couple up to form a pair:甲虫可能会结成一对
+as middle-class youth grew more tolerant of sex, they started to couple more often:随着中产阶级青年对性的容忍度越来越高，他们开始更频繁地结对
+
+the quality of being honest:诚实的品质
+referring to or using a way of charging for goods or services that relies on the customers to leave money in an unattended receptacle even though there is no one to collect their payments:指或使用一种依赖客户将钱留在无人看管的容器中的商品或服务收费方式，即使没有人收取他们的款项
+a European plant with purple or white flowers and round, flat, translucent seed pods which are used for indoor flower arrangements.:一种欧洲植物，有紫色或白色的花朵，有圆形、扁平、半透明的种荚，用于室内插花。
+honesty |ˈɒnɪsti| Noun/:,真诚
+they spoke with convincing honesty about their fears:他们以令人信服的诚实谈论他们的恐惧
+I bought potatoes and tomatoes from the roadside stall, putting £3 in the honesty box:我从路边小摊买了土豆和西红柿，在诚信箱里放了3英镑
+
+the action of transporting someone or something or the process of being transported:运送某人或某物的动作或被运送的过程
+a system or means of transporting people or goods:一种运输人员或货物的系统或方式
+the action or practice of transporting convicts to a penal colony.:将罪犯运送到流放地的行为或做法。
+transportation |trɑːnspɔːˈteɪʃən| Noun/:运输,交通
+the era of global mass transportation:全球大众运输时代
+transportation on the site includes a monorail:现场交通包括单轨铁路
+
+relating to the body as opposed to the mind:与身体有关，而不是与思想有关
+involving bodily contact or activity:涉及身体接触或活动
+relating to things perceived through the senses as opposed to the mind, tangible or concrete:与通过感官感知的事物有关，而不是思想，有形的或具体的
+relating to physics or the operation of natural forces generally:一般与物理或自然力的作用有关
+a medical examination to determine a person's bodily fitness:体检以确定一个人的身体健康状况
+stocks held in actual commodities for immediate exchange, for example as opposed to futures:股票在实际商品中用于即时交换，例如相对于期货
+physical |ˈfɪzɪkl| Adjective/Noun/:身体的,体检,物理,物理的,身体上的
+a range of physical and mental challenges:一系列身心挑战
+less physical sports such as bowls:减少保龄球等体育运动
+the physical world:物理世界
+physical laws:物理定律
+at fifty-something, each year's physical was a kind of lottery:五十多岁，每年的体检都是一种抽奖
+the exchange of futures for physicals:期货换实物
+
+
+go for a physical | 去物理,去身体力行
+
+a fixed or movable upright partition used to divide a room, give shelter from draughts, heat, or light, or to provide concealment or privacy:用于分隔房间、避风、避热或避光或提供隐蔽或隐私的固定或可移动的直立隔板
+a thing providing concealment or protection:提供隐藏或保护的东西
+a partition of carved wood or stone separating the nave of a church from the chancel, choir, or sanctuary:将教堂中殿与圣坛、合唱团或圣殿隔开的木雕或石头的隔板
+a windscreen of a motor vehicle:汽车挡风玻璃
+a frame with fine wire netting used in a window or doorway to keep out mosquitoes and other flying insects:一个带有细铁丝网的框架，用于窗户或门口，以防止蚊子和其他飞虫进入
+a part of an electrical or other instrument which protects it from or prevents it causing electromagnetic interference.:保护或防止其引起电磁干扰的电气或其他仪器的一部分。
+a grid placed between the control grid and the anode of a valve to reduce the capacitance between these electrodes.:在控制栅极和阀门阳极之间放置一个栅极，以减少这些电极之间的电容。
+(in basketball, American football, and ice hockey) an act of obstructing or blocking an opponent or their view of play.:（在篮球、美式足球和冰球中）阻碍或阻挡对手或他们的比赛视野的行为。
+a flat panel or area on an electronic device such as a television, computer, or smartphone, on which images and data are displayed:电视、计算机或智能手机等电子设备上显示图像和数据的平板或区域
+a blank surface on which a film or photographic image is projected:在其上投影胶片或摄影图像的空白表面
+films or television as a medium, genre, or industry:电影或电视作为一种媒介、类型或行业
+the data or images displayed on a computer screen:计算机屏幕上显示的数据或图像
+a flat piece of ground glass on which the image formed by a camera lens is focused.:一块平面磨砂玻璃，由相机镜头形成的图像聚焦在其上。
+a transparent finely ruled plate or film used in half-tone reproduction.:用于半色调复制的透明细刻板或胶片。
+a system of checking a person or thing for the presence or absence of something, typically a disease:一种检查人或事物是否存在某种事物的系统，通常是一种疾病
+a detachment of troops or ships detailed to cover the movements of the main body:一支部队或船只的分队，详细覆盖主体的运动
+a large sieve or riddle, especially one for sorting substances such as grain or coal into different sizes:一个大筛子或谜语，特别是用于将谷物或煤炭等物质分选成不同大小的筛子或谜题
+conceal, protect, or shelter (someone or something) with a screen or something forming a screen:用屏风或形成屏风的东西隐藏、保护或庇护（某人或某物）
+separate something from something else with or as if with a screen:用或好像用屏幕将某物与其他物分开
+protect (someone) from something dangerous or unpleasant:保护（某人）免受危险或不愉快的事情的影响
+prevent from causing or protect from electromagnetic interference:防止引起或防止电磁干扰
+(in basketball, American football, and ice hockey) obstruct or block (an opponent or their view of play).:（在篮球、美式足球和冰球中）阻碍或阻挡（对手或他们的比赛视野）。
+show (a film or video) or broadcast (a television programme):放映（电影或视频）或广播（电视节目）
+test (a person or substance) for the presence or absence of a disease:测试（人或物质）是否存在疾病
+check on or investigate (someone), typically to ascertain whether they are suitable for or can be trusted in a particular situation or job:检查或调查（某人），通常是为了确定他们是否适合或在特定情况或工作中是否值得信任
+evaluate or analyse (something) for its suitability for a particular purpose or application:评估或分析（某事）是否适合特定目的或应用
+exclude someone or something after evaluation or investigation:在评估或调查后排除某人或某事
+pass (a substance such as grain or coal) through a large sieve or screen, especially so as to sort it into different sizes:通过一个大筛子或筛子（例如谷物或煤等物质），特别是为了将它分类成不同的大小
+project (a photograph or other image) through a transparent ruled plate so as to be able to reproduce it as a half-tone.:通过透明直纹板投影（照片或其他图像），以便能够将其复制为半色调。
+screen |skriːn| Noun/Verb/:屏幕,筛查,屏,画面
+he remained hidden behind the screen for prosecution witnesses:他一直隐藏在控方证人的屏幕后面
+his jeep was discreetly parked behind a screen of trees:他的吉普车被小心地停在树屏后面
+the chancel screen retains two sections of the original oak arcading:圣坛屏风保留了两段原橡木拱廊
+a branch whipped across the screen and tore off one of the wipers:一根树枝划过屏幕，撕掉了一个雨刷
+gauze screens fitted to the doors and windows were tightly closed:安装在门窗上的纱窗紧闭
+a television screen:a电视屏幕
+two historical swashbucklers are due to fill cinema screens this year:两个历史上的霸道总裁今年将出现在电影院银幕上
+she's a star of the track as well as the screen:她是赛道和银幕的明星
+pressing the F1 key at any time will display a help screen:随时按F1键会显示帮助画面
+services offered by the centre include a health screen for people who have just joined the company:该中心提供的服务包括为刚加入公司的人进行健康筛查
+HMS Prince Leopold and HMS Prince Charles sailed for Shetland with a screen of four destroyers:HMS利奥波德王子号和查尔斯王子号带着四艘驱逐舰的屏幕驶向设得兰群岛
+the material retained on each sieve screen is weighed in turn:将保留在每个筛网上的物料依次称重
+her hair swung across to screen her face:她的头发摆动着遮住她的脸
+an area had been screened off as a waiting room:一个区域被屏蔽为候诊室
+in my country a man of my rank would be screened completely from any risk of attack:在我的国家，像我这样级别的人将被完全排除在任何攻击风险之外
+ensure that your microphone leads are properly screened from hum pickup:确保您的麦克风引线正确屏蔽了嗡嗡声
+the show is to be screened by the BBC later this year:该节目将于今年晚些时候由BBC放映
+outpatients were screened for cervical cancer:门诊病人接受宫颈癌筛查
+all prospective presidential candidates would have to be screened by a preselection committee:所有潜在的总统候选人都必须经过预选委员会的筛选
+only one per cent of rainforest plants have been screened for medical use:只有百分之一的雨林植物被筛选用于医疗用途
+anti-spam software can screen out large amounts of unwanted email:反垃圾邮件软件可以筛选出大量不需要的电子邮件
+granulated asphalt—manufactured to 40 mm down or screened to 28 mm & 14 mm down:粒状沥青——制造至40毫米以下或筛分至28毫米和14毫米以下
+
+
+a screen role | 屏幕角色,一个银幕角色
+
+of or like God or a god:属于或像上帝或神
+devoted to God, sacred:献身于上帝，神圣的
+very pleasing, delightful:非常愉快，令人愉快
+a cleric or theologian.:神职人员或神学家。
+providence or God.:providence或上帝。
+discover (something) by guesswork or intuition:通过猜测或直觉发现（某事）
+have supernatural or magical insight into (future events):对（未来事件）有超自然或神奇的洞察力
+discover (water) by dowsing:通过探测发现（水）
+divine |dɪˈvʌɪn| Adjective/Noun/Verb/:神圣的,神性
+heroes with divine powers:拥有神力的英雄
+divine liturgy:神圣礼仪
+he had the most divine smile:他拥有最神圣的笑容
+mum had divined my state of mind:mum猜到了我的心态
+frauds who claimed to divine the future in chickens' entrails:声称能从鸡的内脏中预测未来的骗子
+he showed him how to divine water:他教他如何占卜水
+
+a general rule, principle, or piece of advice:一般规则、原则或建议
+guideline |ˈɡʌɪdlʌɪn| Noun/:指导方针,准则
+the organization has issued guidelines for people working with prisoners:该组织为与囚犯打交道的人发布了指导方针
+
+a forcible overthrow of a government or social order, in favour of a new system:强行推翻政府或社会秩序，支持新制度
+(in Marxism) the class struggle which is expected to lead to political change and the triumph of communism:（在马克思主义中）预期会导致政治变革和共产主义胜利的阶级斗争
+a dramatic and wide-reaching change in conditions, attitudes, or operation:条件、态度或操作上发生巨大而广泛的变化
+an instance of revolving:一个旋转的实例
+the movement of an object in a circular or elliptical course around another or about an axis or centre:物体围绕另一个或围绕轴或中心以圆形或椭圆形路线运动
+a single orbit of one object around another or about an axis or centre:一个物体围绕另一个物体或围绕轴或中心的单一轨道
+revolution |ˌrɛvəˈl(j)uːʃn| Noun/:革命,中国
+the country has had a socialist revolution:这个国家进行了社会主义革命
+when I grew up it was the Marxism that was very strong, it was like the revolution was coming next week:当我长大的时候，马克思主义很强大，就好像下周革命就要来了
+marketing underwent a revolution:marketing经历了一场革命
+one revolution a second:每秒转一圈
+revolution about the axis of rotation:绕旋转轴公转
+near the solar equator the sun takes about 26 days to complete one revolution:太阳赤道附近太阳转一圈大约需要26天
+
+the action of interrupting or being interrupted:打断或被打断的动作
+an act, utterance, or period that interrupts someone or something:打断某人或某事的行为、话语或时期
+interruption |ˌɪntəˈrʌpʃn| Noun/:中断,干扰
+a chance to study without interruption:一个不间断学习的机会
+she ignored the interruption and carried on:她忽略了中断并继续进行
+
+a machine for washing dishes automatically.:一台自动洗碗的机器。
+a person employed to wash dishes.:一个受雇洗碗的人。
+dishwasher |ˈdɪʃˌwɒʃə| Noun/:洗碗机,餐具
+
+a declaration or assurance that one will do something or that a particular thing will happen:a声明或保证某人将做某事或某事将发生
+an indication that something is likely to occur:
+the quality of potential excellence:潜质卓越品质
+promise |ˈprɒmɪs| Noun/Verb/:承诺,诺言,许诺,答应
+what happened to all those firm promises of support?:所有那些坚定的支持承诺发生了什么？
+dawn came with the promise of fine weather:dawn带来了好天气的承诺
+he showed great promise even as a junior officer:他即使作为一名初级军官也表现出很大的希望
+
+showing signs of future success:显示未来成功的迹象
+promising |ˈprɒmɪsɪŋ| Adjective/:有希望,有希望的,有前途
+a promising film actor:一个有前途的电影演员
+
+differ in size, amount, degree, or nature from something else of the same general class:与同一类其他事物在大小、数量、程度或性质上不同
+change from one condition, form, or state to another:从一种情况、形式或状态变为另一种
+introduce modifications or changes into (something) so as to make it different or less uniform:对（某物）进行修改或改变，以使其不同或不那么统一
+vary |ˈvɛːri| Verb/:各不相同,变化,不一样
+the properties vary in price:房产价格不同
+your skin's moisture content varies according to climatic conditions:您皮肤的水分含量因气候条件而异
+he tried to vary his diet:他试图改变他的饮食
+
+lasting or intended to last or remain unchanged indefinitely:持久或打算无限期地持续或保持不变
+lasting or continuing without interruption:持续或不间断地继续
+a perm for the hair:烫头发
+permanent |ˈpəːmənənt| Adjective/Noun/:永恒的,烫发,常驻,永久,常设
+a permanent ban on the dumping of radioactive waste at sea:永久禁止在海上倾倒放射性废物
+he's in a permanent state of rage:他一直处于愤怒状态
+a woman with a home permanent:一个有永久居所的女人
+
+make (something) on a large scale using machinery:用机器大规模地制造（某物）
+(of a living thing) produce (a substance) naturally:
+make or produce (something abstract) in a merely mechanical way:以机械的方式制造或生产（抽象的东西）
+invent (evidence or a story):发明（证据或故事）
+the making of articles on a large scale using machinery:使用机器大规模制造物品
+a specified branch of industry:指定的行业分支
+manufactured articles:制成品
+manufacture |ˌmanjʊˈfaktʃə| Noun/Verb/:生产,制造
+firms who manufacture ball bearings:制造滚珠轴承的公司
+most plants use the sun's light to manufacture their food through photosynthesis:大多数植物利用太阳光通过光合作用制造食物
+Julia manufactured a smile:Julia制造了一个微笑
+claims that the entire row had been manufactured by the press:声称整排都是印刷机制造的
+the manufacture of armoured vehicles:装甲车制造
+the porcelain manufacture for which France became justly renowned:法国成名的瓷器制造商
+exports and imports of manufactures:制造品的进出口

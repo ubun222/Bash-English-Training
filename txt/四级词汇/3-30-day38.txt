@@ -1,0 +1,385 @@
+interpretation				n.理解，说明，口译
+guilt								n.有罪，内疚
+connectivity						n.连接
+behave							vi.表现
+instruct							vt.教导，吩咐
+infinite							adj.无限的，极大的
+hazard							n.危险vt.危险
+undervalue							vt.对...估价太低，轻视
+specific							adj.详细的(明确的)，特有的
+specifics			n.详情
+appealing							adj.有吸引力的，恳求的
+fitness							n.健康，适合
+physical fitness					身体健康
+conclusion							n.结尾，结论
+absent							adj.缺席的，缺乏的
+antique							n.古董adj.古代的
+myth								n.神话故事，错误观念
+intervention				n.干涉
+trace								n.痕迹，微量，小路vt.查出
+protest							n.抗议vi.抱怨vt.抱怨
+refuel							vt.给...加燃料，加剧vi.给...加燃料
+tackle							vt.处理n.阻截vi.阻截
+finance							n.资金，财政vt.资金
+finances							n.财力
+fine								n.罚款，vt.罚款，adj.极好的adv.极好的
+indicate					vt.指示，表明，暗示
+expand							vt.扩大vi.增加，扩大
+spontaneous						adj.主动的(提供)，自然的(行为举止)，淳朴的(人)
+offense				n.犯罪，冒犯，进攻
+abruptly							adv.突然的，陡峭的
+recycle							vt.回收利用
+rude								adj.粗鲁的，猥亵的，简陋的
+the action of explaining the meaning of something:解释某事意义的动作
+an explanation or way of explaining:解释或解释方式
+a stylistic representation of a creative work or dramatic role:创意作品或戏剧角色的风格表现
+interpretation |ɪnˌtəːprɪˈteɪʃn| Noun/:解释,口译
+the interpretation of data:数据的解释
+this action is open to a number of interpretations:这个动作有多种解释
+his unique interpretation of the Liszt études:他对李斯特练习曲的独特诠释
+
+the fact of having committed a specified or implied offence or crime:犯了特定或暗示的罪行或罪行的事实
+a feeling of having committed wrong or failed in an obligation:一种犯错或未履行义务的感觉
+make (someone) feel guilty, especially in order to induce them to do something:使（某人）感到内疚，尤指为了诱使他们做某事
+guilt |ɡɪlt| Noun/Verb/:有罪,内疚,负罪感
+it is the duty of the prosecution to prove the prisoner's guilt:证明犯人有罪是控方的职责
+he remembered with sudden guilt the letter from his mother that he had not yet read:他突然内疚地想起了他母亲的那封他还没有读过的信
+Celeste had been guilted into going by her parents:塞莱斯特 (Celeste) 被她的父母认罪
+
+the state of being connected or interconnected:连接或互联的状态
+capacity for the interconnection of platforms, systems, and applications:平台、系统、应用互联的能力
+connectivity |ˌkɒnɛkˈtɪvɪti| Noun/:连通性,互联
+the authorities worked at restoring connectivity between Puerto Rico and the US mainland after Hurricane Hugo:当局在雨果飓风过后致力于恢复波多黎各与美国大陆之间的连通性
+this allows connectivity between Sun and Mac platforms:这允许 Sun 和 Mac 平台之间的连接
+
+act or conduct oneself in a specified way, especially towards others:以特定的方式行事或行事，尤其是对他人
+(of a machine or natural phenomenon) work or function in a specified way:（机器或自然现象）以特定方式工作或发挥作用
+conduct oneself in accordance with the accepted norms of a society or group:按照社会或团体公认的规范行事
+behave |bɪˈheɪv| Verb/:表现,行为举止
+he always behaved like a gentleman:他总是表现得像个绅士
+each car behaves differently:每辆车的行为不同
+‘Just behave, Tom,’ he said:‘乖一点，汤姆，’他说
+
+tell or order someone to do something, especially in a formal or official way:告诉或命令某人做某事，尤其是以正式或正式的方式
+teach (someone) a subject or skill:教（某人）一门学科或技能
+(of a client) employ or authorize (a solicitor or barrister) to act on one's behalf:（客户的）雇用或授权（律师或大律师）代表某人行事
+(of a solicitor) give directions or information to (a barrister) regarding a court case:（律师）就法庭案件向（大律师）发出指示或信息
+give information to (someone):向（某人）提供信息
+instruct |ɪnˈstrʌkt| Verb/:指导,指示,教导
+he instructed them in the use of firearms:他指导他们使用枪支
+he must indicate which of the firms he wishes to instruct:他必须说明他希望指导哪些公司
+she is skilled in interviewing clients and instructing counsel:她擅长采访客户和指导律师
+
+limitless or endless in space, extent, or size, impossible to measure or calculate:在空间、范围或大小上是无限的或无穷无尽的，无法测量或计算
+very great in amount or degree:数量或程度非常大
+greater than any assignable quantity or countable number.:大于任何可分配数量或可数数。
+(of a series) able to be continued indefinitely.:（一系列）能够无限期地继续下去。
+a space or quantity that is infinite:无限的空间或数量
+God:上帝
+infinite |ˈɪnfɪnət| Adjective/Noun/:无限的,无穷,无穷大
+the infinite mercy of God:上帝无限的怜悯
+he bathed the wound with infinite care:他用无限的关怀沐浴着伤口
+beyond the infinite, the space traveller is transformed:超越无限，太空旅行者变身
+intimations of the infinite:无限的暗示
+
+a danger or risk:危险或风险
+a potential source of danger:潜在的危险源
+a permanent feature of a golf course which presents an obstruction to playing a shot, such as a bunker or stream.:高尔夫球场的一个永久性特征，它会阻碍击球，例如沙坑或溪流。
+chance, probability:机会，概率
+a gambling game using two dice, in which the chances are complicated by arbitrary rules.:一种使用两个骰子的赌博游戏，其中的机会因任意规则而变得复杂。
+(in real tennis) each of the winning openings in the court.:（在真正的网球比赛中）球场上的每个获胜开局。
+a stroke with which a ball is pocketed.:击球入袋。
+the pocketing of the cue ball off another ball.:母球从另一个球上落袋。
+the pocketing of the object ball.:目标球的入袋。
+say (something) in a tentative way:试探性地说（某事）
+put (something) at risk of being lost:
+hazard | 冒险,风险,危险
+
+rate (something) insufficiently highly, fail to appreciate:评价（某事）不够高，未能欣赏
+underestimate the financial value of (something):低估（某物）的财务价值
+a price below the real value:低于实际价值的价格
+undervalue |ˌʌndəˈvaljuː| Noun/Verb/:低估,价值低估
+through overfamiliarity, it is easy to undervalue this concerto:过分熟悉，很容易低估这首协奏曲
+the company's assets were undervalued in its balance sheet:公司资产在其资产负债表中被低估
+his truck was sold at an undervalue:他的卡车被低估了
+
+clearly defined or identified:明确定义或确定
+precise and clear in making statements or issuing instructions:准确、明确地作出陈述或发出指示
+belonging or relating uniquely to a particular subject:属于或与特定主题独特相关
+relating to species or a species:与物种或物种有关
+(of a duty or a tax) levied at a fixed rate per physical unit of the thing taxed, regardless of its price.:（关税或税收）按征税物品的每个物理单位的固定税率征收，无论其价格如何。
+of or denoting a number equal to the ratio of the value of some property of a given substance to the value of the same property of some other substance used as a reference, such as water, or of a vacuum, under equivalent conditions:of或表示一个数字，等于给定物质的某些属性的值与在等效条件下用作参考的某些其他物质（例如水或真空）的相同属性的值的比率
+of or denoting a physical quantity expressed in terms of a unit mass, volume, or other measure, in order to give a value independent of the properties or scale of the particular system studied:of或表示以单位质量、体积或其他度量表示的物理量，以便给出独立于所研究的特定系统的属性或规模的值
+a medicine or remedy effective in treating a particular disease or part of the body:有效治疗特定疾病或身体部位的药物或药物
+a precise detail:一个精确的细节
+specific |spɪˈsɪfɪk| Adjective/Noun/:具体的,具体,特定
+savings were made by increasing the electricity supply only until it met specific development needs:只有在满足特定发展需求时才增加电力供应，从而节省开支
+when ordering goods be specific:订货时要具体
+information needs are often very specific to individuals:信息需求通常因个人而异
+the differences between them can only be on the specific level:他们之间的差异只能在特定的层面上
+specific dielectric strength:比介电强度
+specific conductance:比电导
+he grasped at the idea as though she had offered him a specific for cancer:他抓住了这个想法，就好像她给了他一个针对癌症的特异性药物
+I wish I'd put more thought into the specifics:我希望我能对细节多加考虑
+
+
+specifics | 具体细节,细节
+
+attractive or interesting:有吸引力或有趣
+showing or expressing a desire for help or sympathy:显示或表达对帮助或同情的渴望
+appealing |əˈpiːlɪŋ| Adjective/:吸引人的,有吸引力
+village life is somehow more appealing:乡村生活在某种程度上更有吸引力
+an appealing look:吸引人的外观
+
+the condition of being physically fit and healthy:身体健康状况良好
+an organism's ability to survive and reproduce in a particular environment:一个有机体在特定环境中生存和繁殖的能力
+the quality of being suitable to fulfil a particular role or task:适合完成特定角色或任务的品质
+fitness |ˈfɪtnɪs| Noun/:健康,健身,体能
+disease and lack of fitness are closely related:疾病与体质不强密切相关
+if sharp teeth increase fitness, then genes causing teeth to be sharp will increase in frequency:如果锋利的牙齿增加健康，那么导致牙齿锋利的基因会增加频率
+the medical board assessed his fitness for active service:医疗委员会评估他是否适合现役
+
+
+physical fitness | 身体素质,体能
+
+the end or finish of an event, process, or text:事件、过程或文本的结束或结束
+the summing-up of an argument or text:论点或文本的总结
+the formal and final arrangement of an agreement:协议的正式和最终安排
+a judgement or decision reached by reasoning:通过推理得出的判断或决定
+a proposition that is reached from given premises.:从给定前提得出的命题。
+conclusion |kənˈkluːʒn| Noun/:结论,结束,总结
+the conclusion of World War Two:第二次世界大战结束
+in the conclusion we highlight these and other important issues:在结论中，我们强调了这些和其他重要问题
+the conclusion of a free-trade accord:自由贸易协定的缔结
+each research group came to a similar conclusion:每个研究小组得出了相似的结论
+
+not present in a place, at an occasion, or as part of something:不在某个地方、某个场合或某事的一部分
+(of an expression or manner) showing that someone is not paying attention to what is being said or done:（表达或方式）表明某人没有注意正在说或做的事情
+go away or remain away:离开或离开
+without:无
+absent |ˈabs(ə)nt| Adjective/Preposition/Verb/:缺席的,缺席,不存在
+most pupils were absent from school at least once:大多数学生至少旷课一次
+she looked up with an absent smile:她抬起头，面无表情的微笑
+halfway through the meal, he absented himself from the table:吃到一半，他就离开了餐桌
+absent a willingness to negotiate, you can't have collective bargaining:没有谈判意愿，就不能进行集体谈判
+
+a collectable object such as a piece of furniture or work of art that has a high value because of its age and quality:一件可收藏的物品，例如一件家具或艺术品，由于其年代和质量而具有很高的价值
+having a high value because of age and quality:由于年龄和质量而具有很高的价值
+intended to resemble the appearance of high-quality old furniture:拟仿高品质旧家具外观
+belonging to ancient times:
+old-fashioned or outdated:老式或过时
+showing signs of great age or wear:显示年龄大或磨损的迹象
+make (something) resemble an antique by artificial means:用人工方法使（某物）像古董
+search or shop for antiques:搜索或购买古董
+antique |anˈtiːk| Adjective/Noun/Verb/:古董,古老的,古色古香的
+Pauline loves collecting antiques:Pauline 喜欢收集古董
+an antique clock:一个古董钟
+bookshelves with an antique finish:书架，仿古饰面
+statues of antique gods:古董神像
+antique work practices:古董工作实践
+the kitchen had an antique cooker:厨房有一个古董炊具
+sanding will change the lustre of the sanded spot, especially if the finish has been antiqued:打磨会改变打磨点的光泽，特别是如果饰面经过仿古处理
+they went antiquing almost every weekend:他们几乎每个周末都去古董
+
+a traditional story, especially one concerning the early history of a people or explaining a natural or social phenomenon, and typically involving supernatural beings or events:一个传统故事，特别是关于一个民族的早期历史或解释自然或社会现象的故事，通常涉及超自然的存在或事件
+a widely held but false belief or idea:一个广泛持有但错误的信念或想法
+a misrepresentation of the truth:对事实的歪曲
+a fictitious or imaginary person or thing:一个虚构或虚构的人或事
+an exaggerated or idealized conception of a person or thing:对人或事的夸大或理想化的概念
+myth |mɪθ| Noun/:神话
+ancient Celtic myths:古代凯尔特神话
+the belief that evening primrose oil helps to cure eczema is a myth, according to dermatologists:根据皮肤科医生的说法，认为月见草油有助于治疗湿疹是一个神话
+attacking the party's irresponsible myths about privatization:攻击党关于私有化的不负责任的神话
+nobody had ever heard of Simon's mysterious friend—Anna said he was a myth:没有人听说过西蒙的神秘朋友——安娜说他是个神话
+the book is a scholarly study of the Churchill myth:这本书是对丘吉尔神话的学术研究
+
+the action or process of intervening:介入的动作或过程
+interference by a state in another's affairs:一国干涉他国事务
+action taken to improve a medical disorder:为改善医学障碍而采取的行动
+an occasion on which a person with an addiction or other behavioural problem is confronted by a group of friends or family members in an attempt to persuade them to address the issue:一群朋友或家人面对有毒瘾或其他行为问题的人，试图说服他们解决问题
+intervention |ˌɪntəˈvɛnʃn| Noun/:干涉,介入,干预
+a high degree of state intervention in the economy:国家对经济的高度干预
+the government was reported to be considering military intervention:据报道政府正在考虑军事干预
+two patients were referred for surgical intervention:2名患者被转诊进行手术干预
+as her health worsened, her daughters considered staging an intervention:随着她的健康状况恶化，她的女儿们考虑进行干预
+
+find or discover by investigation:通过调查发现或发现
+find or describe the origin or development of:查找或描述的起源或发展
+follow or mark the course or position of (something) with one's eye, mind, or finger:用眼睛、思想或手指跟随或标记（某物）的路线或位置
+take (a particular path or route):采取（特定路径或路线）
+copy (a drawing, map, or design) by drawing over its lines on a superimposed piece of transparent paper:通过在叠加的透明纸上绘制线条来复制（绘图、地图或设计）
+draw (a pattern or line), especially with one's finger or toe:画（图案或线条），尤指用手指或脚趾
+give an outline of:给出一个大纲
+a mark, object, or other indication of the existence or passing of something:一个标记、物体或其他表示某物存在或经过的迹象
+a line or pattern displayed by an instrument to show the existence or nature of something which is being recorded or measured.:由仪器显示的线条或图案，以显示正在记录或测量的事物的存在或性质。
+a physical change in the brain presumed to be caused by a process of learning or memory.:大脑的物理变化被认为是由学习或记忆过程引起的。
+a very small quantity, especially one too small to be accurately measured:一个非常小的数量，尤其是一个太小而无法准确测量的数量
+a barely discernible indication of something:对某事几乎看不出来的迹象
+a procedure to investigate the source of something, such as the place from which a telephone call was made:调查某事来源的程序，例如拨打电话的地点
+a line which represents the projection of a curve or surface on a plane or the intersection of a curve or surface with a plane.:
+a path or track.:一条路径或轨道。
+the sum of the elements in the principal diagonal of a square matrix.:方阵主对角线元素的总和。
+each of the two side straps, chains, or ropes by which a horse is attached to a vehicle that it is pulling:将马固定在其牵引的车辆上的两条侧带、链条或绳索中的每一个
+trace |treɪs| Noun/Verb/:痕迹,追溯,跟踪,追踪,踪迹
+police are trying to trace a white van seen in the area:警方正试图追踪在该地区看到的一辆白色面包车
+Bob's book traces his flying career with the RAF:Bob的书追溯了他在英国皇家空军的飞行生涯
+through the binoculars, I traced the path I had taken the night before:通过双筒望远镜，我追踪着前一天晚上走过的路
+a tear traced a lonely path down her cheek:一滴泪沿着她的脸颊划过一条孤独的路
+trace a map of the world on to a large piece of paper:将世界地图追踪到一张大纸上
+she traced a pattern in the dirt with the toe of her shoe:她用鞋尖在泥土上画了一个图案
+the article traces out some of the connections between education, qualifications, and the labour market:这篇文章追溯了教育、资格和劳动力市场之间的一些联系
+remove all traces of the old adhesive:去除旧粘合剂的所有痕迹
+his body contained traces of amphetamines:他的身体含有苯丙胺的痕迹
+just a trace of a smile:只是一丝微笑
+we've got a trace on the call:我们在通话中找到了踪迹
+the horses pulling the carriage suddenly snapped the traces and bolted off:拉着马车的马突然断了痕迹，狂奔而去
+
+a statement or action expressing disapproval of or objection to something:表示不赞成或反对某事的声明或行动
+an organized public demonstration expressing strong objection to an official policy or course of action:对官方政策或行动方案表示强烈反对的有组织的公众示威
+a written declaration, typically by a notary public, that a bill has been presented and payment or acceptance refused.:通常由公证人出具的书面声明，表明已提交账单但拒绝付款或承兑。
+express an objection to what someone has said or done:对某人的言行表示异议
+publicly demonstrate strong objection to an official policy or course of action:公开表示强烈反对官方政策或行动方针
+declare (something) firmly and emphatically in response to doubt or accusation:坚定而强调地声明（某事）以回应怀疑或指责
+write or obtain a protest in regard to (a bill).:就（一项法案）写信或提出抗议。
+protest |ˈprəʊtɛst| Noun/Verb/:反对,抗议,拒付
+the British team lodged an official protest:英国队正式提出抗议
+workers staged a protest over rising fuel prices:workers抗议燃油价格上涨
+before Muriel could protest, he had filled both glasses:Muriel还没来得及抗议，他就把两只杯子都倒满了
+doctors and patients protested against plans to cut services at the hospital:医生和患者抗议削减医院服务的计划
+
+supply (a vehicle) with more fuel:为（车辆）提供更多燃料
+(of a vehicle) be supplied with more fuel:（车辆的）获得更多燃料
+refuel |ˌriːˈfjuːəl| Verb/:加油,燃料
+the authorities agreed to refuel the plane:当局同意为飞机加油
+the chopper went to refuel:直升机去加油
+
+the equipment required for a task or sport:任务或运动所需的设备
+a man's genitals.:男人的生殖器。
+a mechanism consisting of ropes, pulley blocks, hooks, or other things for lifting heavy objects.:由绳索、滑轮组、吊钩或其他东西组成的用于提升重物的机构。
+the running rigging and pulleys used to work a boat's sails.:用于驱动船帆的运行索具和滑轮。
+an act of playing the ball, or attempting to do so, when it is in the possession of an opponent:当球在对方手上时打球或试图打球的行为
+an act of seizing and attempting to stop a player in possession of the ball.:抓住并试图阻止控球球员的行为。
+a player who lines up next to the end along the line of scrimmage.:一名球员沿着争球线排在最后一队。
+make determined efforts to deal with (a problem or difficult task):下定决心去处理（一个问题或艰巨的任务）
+initiate discussion with (someone) about a disputed or sensitive issue:与（某人）就有争议或敏感的问题发起讨论
+try to take the ball from (an opponent) by intercepting them:尝试通过拦截从（对手）手中夺走球
+try to stop the forward progress of (the ball carrier) by seizing them and knocking them to the ground:试图通过抓住他们并将他们击倒在地来阻止（持球者）的前进
+tackle |ˈtak(ə)l| Noun/Verb/:处理,用具,铲球
+fishing tackle:钓具
+he was only prevented from scoring by a fine tackle:他只是被一个漂亮的铲球阻止得分
+police have launched an initiative to tackle rising crime:police发起了一项应对犯罪率上升的倡议
+a young man tackled him over why the council had spent money on a swimming pool:一个年轻人质问他为什么议会要花钱建游泳池
+the first scoring chance came when Orrell tackled Webb:第一次得分机会是奥雷尔对付韦伯的时候
+
+the management of large amounts of money, especially by governments or large companies:大量资金的管理，尤其是政府或大公司的管理
+monetary support for an enterprise:对企业的金钱支持
+the monetary resources and affairs of a state, organization, or person:国家、组织或个人的货币资源和事务
+provide funding for (a person or enterprise):为（个人或企业）提供资金
+finance |ˈfʌɪnans| Noun/Verb/:金融,提供资金,财政,财务
+the clearing banks are important sources of finance:清算行是重要的资金来源
+the club's finances are stretched to the limit:俱乐部的财政已经到了极限
+the health service is financed almost entirely by the taxpayer:医疗服务几乎全部由纳税人出资
+
+
+finances | 财政,财务,财务状况
+
+of very high quality, very good of its kind:质量非常高，同类产品中非常好
+worthy of or eliciting admiration:值得或引起钦佩
+good, satisfactory:好，满意
+used to express one's agreement with or acquiescence to something:用于表示同意或默认某事
+in good health and feeling well:身体健康，感觉良好
+(of the weather) bright and clear:（天气）晴朗
+imposing or impressive in appearance:令人印象深刻或令人印象深刻的外观
+(of speech or writing) sounding impressive and grand but ultimately insincere:（演讲或写作）听起来令人印象深刻和宏伟，但最终是不真诚的
+denoting or displaying a state of good, though not excellent, preservation in stamps, books, coins, etc.:表示或显示在邮票、书籍、硬币等中保存良好但不是极好的状态。
+(of gold or silver) containing a specified high proportion of pure metal:（金或银）含指定高比例纯金属
+very thin or narrow:非常薄或窄
+(of a point) sharp:（一点）尖锐
+made or consisting of small particles:制造或由小颗粒组成
+of delicate or intricate workmanship or structure:精巧或复杂的工艺或结构
+(of something abstract) subtle and therefore perceived only with difficulty and care:（抽象的）微妙的，因此只有在困难和谨慎的情况下才能感知
+(of a physical faculty) sensitive and discriminating:（物理系）敏感且有辨别力
+directed or stationed behind the wicket and close to the line of flight of the ball when it is bowled.:在投球时指向或驻扎在三柱门后面并靠近球的飞行线。
+fine |fʌɪn| Adjective/Adverb/Noun/Verb/:美好的,蛮不错的,罚金,罚款,精细
+this was a fine piece of film-making:这是一部很好的电影制作
+what a fine human being he is:他是一个多么好的人
+relations in the group were fine:群里关系很好
+anything you want is fine by me, Linda:任何你想要的我都可以，琳达
+‘I'm fine, just fine. And you?’:‘我很好，很好。和你？'
+it was another fine winter day:又是一个晴朗的冬日
+Donleavy was a fine figure of a man:Donleavy是个不错的男人
+fine words seemed to produce few practical benefits:finewords似乎没有什么实际好处
+the coin is struck in .986 fine gold:硬币采用0.986纯金铸造
+a fine nylon thread:细尼龙线
+I sharpened the leads to a fine point:我把线索锐化到一个很好的点
+the soils were all fine silt:土壤都是细泥沙
+fine bone china:fine骨瓷
+there is a fine distinction between misrepresenting the truth and lying:歪曲事实和说谎之间有很好的区别
+he has a fine eye for the detail and texture of social scenery:他对社交场景的细节和质感有着敏锐的洞察力
+
+point out, show:指出，显示
+be a sign of, strongly suggest:
+mention indirectly or briefly:间接或简短地提及
+direct attention to (someone or something) by means of a gesture:通过手势直接注意（某人或某物）
+(of a gauge or meter) register a reading of (a quantity, dimension, etc.):（量规或仪表）记录（数量、尺寸等）的读数
+suggest as a desirable or necessary course of action:建议作为可取或必要的行动方案
+(of a driver or motor vehicle) signal an intention to change lanes or turn using an indicator:（驾驶员或机动车辆）使用指示器发出改变车道或转弯的意图
+indicate |ˈɪndɪkeɪt| Verb/:,表示,指出
+dotted lines indicate the text's margins:虚线表示文本的边距
+sales indicate a growing market for such art:sales表明此类艺术品的市场不断增长
+the president indicated his willingness to use force against the rebels:总统表示愿意对叛军动武
+he indicated Cindy with a brief nod of the head:he用一个简短的点头示意Cindy
+an external tube is used to indicate fluid level:一个外管用于指示液位
+treatment for shock may be indicated:治疗休克可能被指示
+Cal indicated and moved across the road:Cal指示并移动过马路
+
+become or make larger or more extensive:变得更大或更广泛
+(of the universe) undergo a continuous change whereby, according to theory based on observed red shifts, all the galaxies recede from one another.:（宇宙的）经历了一种连续的变化，根据基于观察到的红移的理论，所有的星系都相互后退。
+give a fuller version or account of:给出更完整的版本或帐户
+become less reserved in character or behaviour:在性格或行为上变得不那么拘谨
+expand |ɪkˈspand| Verb/:扩张,扩大,扩展,拓展,展开
+the minister expanded on the government's proposals:部长扩展了政府的建议
+Alice opened and expanded in this normality:爱丽丝在这种常态中打开并扩展
+
+performed or occurring as a result of a sudden impulse or inclination and without premeditation or external stimulus:由于突然的冲动或倾向而没有预谋或外部刺激而进行或发生
+having an open, natural, and uninhibited manner.:具有开放、自然、不羁的态度。
+(of a process or event) occurring without apparent external cause:（过程或事件）在没有明显外部原因的情况下发生
+(of movement or activity in an organism) instinctive or involuntary:（有机体中的运动或活动）本能的或非自愿的
+(of a plant) growing naturally and without being tended or cultivated.:（植物的）自然生长，无需照料或栽培。
+spontaneous |spɒnˈteɪnɪəs| Adjective/:自发的,自发
+the audience broke into spontaneous applause:全场爆发出自发的掌声
+spontaneous miscarriages:自然流产
+the spontaneous mechanical activity of circular smooth muscle:圆形平滑肌的自发机械活动
+
+
+offense | 罪行,犯罪,进攻,冒犯
+
+suddenly and unexpectedly:突然和意外
+in a rude or curt manner:以粗鲁或粗鲁的方式
+steeply, precipitously:陡峭的，陡峭的
+abruptly |əˈbrʌp(t)li| Adverb/:,突然地
+the film ends rather abruptly:电影结束的很突然
+she barely conceals her irritation and speaks briefly and abruptly to the woman:她几乎不掩饰自己的愤怒，简短而突然地对那个女人说话
+the forested terrain ascends abruptly:林地陡升
+
+convert (waste) into reusable material:将（废物）转化为可重复使用的材料
+return (material) to a previous stage in a cyclic process:return(material)循环过程中的前一个阶段
+use again:再次使用
+recycle |ˌriːˈsʌɪkl| Verb/:,循环利用
+car hulks were recycled into new steel:车壳被回收制成新钢材
+the amino acids are recycled in the synthesis of other proteins:氨基酸在其他蛋白质的合成中被循环利用
+he reserves the right to recycle his own text:他保留回收他自己的文字的权利
+
+offensively impolite or bad-mannered:冒犯性不礼貌或不礼貌
+referring to a taboo subject such as sex in a way considered embarrassing or offensive:以令人尴尬或冒犯的方式提及诸如性之类的禁忌话题
+having a startling abruptness:具有惊人的突然性
+vigorous or hearty:精力充沛或酣畅淋漓
+roughly made or done, lacking sophistication:大致完成或完成，缺乏复杂性
+ignorant and uneducated:无知和未受过教育
+rude |ruːd| Adjective/:无礼,粗鲁的,粗鲁,无礼的
+she had been rude to her boss:她对她的老板很粗鲁
+Graham giggled at every rude joke:格雷厄姆对每一个粗鲁的笑话都咯咯地笑
+the war came as a very rude awakening:战争是一个非常粗鲁的觉醒
+Isabel had always been in rude health:伊莎贝尔身体一直很差
+a rude coffin:一个粗鲁的棺材
+the new religion was first promulgated by rude men:新宗教最早是由粗鲁的人颁布的

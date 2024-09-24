@@ -1,7 +1,10 @@
-while getopts ":a" opt; do
+while getopts ":ab" opt; do
     case $opt in
     a)
     printf "不收录详细释义\n"  && notxt=1
+        ;;
+    b)
+    printf "只收录详细释义\n"  && onlytxt=1
         ;;
 esac
 done
@@ -37,12 +40,19 @@ exec 3<"$txt1"
 read -r -d "\\"  -u 3 init
 
 echo
-while read line ;do
-theword="$(printf "$line" | awk 'BEGIN{FS="\t"}{print $1}' )"
-refd=$(printf "%s" "$ref" | grep "^${theword}	" | head -n1)
-if [[  "$refd"  != ""  ]];then
-(echo  "$txt1" | xargs sed -i"" s/^"$line*"$/"$refd"/  || echo  "$txt1" | xargs sed -i "" s/^"$line*"$/"$refd"/) 2>/dev/null
 
+#onlytxt
+while read  line ;do
+
+theword="$(printf "%s" "$line" | awk 'BEGIN{FS="\t"}{print $1}' )"
+refd=$(printf "%s" "$ref" | grep "^${theword}	" | head -n1 | tr -d "\r")
+if [[  "$refd"  != ""  ]];then
+line="$(printf "$line" | sed -e s/"\t"/"\\\t"/g)"
+refd="$(printf "$refd" | sed -e s/"\t"/"\\\t"/g -e s/'&'/'\\&'/g)"
+#eval printf "$refd"
+if [[  $onlytxt -ne 1  ]] ;then
+(eval sed -i\"\" \"s/$line/$refd/\" "$txt1" ||eval  sed -i \"\" \"s/$line/$refd/\" "$txt1" ) 2>/dev/null
+fi
 if [[  $notxt -ne 1  ]] ;then
   ylineraw=
   vlineraw=
@@ -66,9 +76,10 @@ vlineraw="$(cat "$reftxt" | grep  -A 30 ^"${theword} |" | awk -F'\n\n'  'BEGIN{R
 printf "\n%s\n%s\n"  "$ylineraw" "$vlineraw" >> $txt1 && outped=1  # && printf "\033[32m(已收录%s的详细释义和例句)\033[0m" "$theword" 
 fi
 fi
-
-[[  "${outped}" -eq 1  ]] && printf "\033[1m$theword\033[0m \033[32m已收录(包括详细释义和例句)\033[0m\n"
-[[  "${outped}" -eq 0  ]] && printf "\033[1m$theword\033[0m \033[33m*已收录(不包括详细释义和例句)\033[0m\n"
+[[  "${outped}" -eq 1  ]] && [[  $onlytxt -eq 1  ]] && printf "\033[1m$theword\033[0m \033[33m已收录(仅包括详细释义和例句)\033[0m\n"
+[[  "${outped}" -eq 0  ]] && [[  $onlytxt -eq 1  ]] && printf "\033[1m$theword\033[0m \033[33m未收录\033[0m\n"
+[[  "${outped}" -eq 1  ]] && [[  $onlytxt -ne 1  ]]  && printf "\033[1m$theword\033[0m \033[32m已收录(包括详细释义和例句)\033[0m\n"
+[[  "${outped}" -eq 0  ]] && [[  $onlytxt -ne 1  ]] && printf "\033[1m$theword\033[0m \033[33m*已收录(不包括详细释义和例句)\033[0m\n"
 
 else
 printf "\033[1m$theword\033[0m \033[31m未查询到\033[0m\n"
