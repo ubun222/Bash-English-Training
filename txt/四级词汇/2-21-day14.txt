@@ -29,3 +29,453 @@ stake							n.桩，赌注，股(本)vt.桩，赌注
 keenly						adv.渴望的，敏锐的，激烈的
 superficial						adj.外表的，粗略的，肤浅的(知识)
 flexibility						n.柔韧性，灵活性
+\\\\
+the arrangement of and relations between the parts or elements of something complex:复杂事物的部分或元素之间的排列和关系
+the quality of being organized:组织的质量
+a building or other object constructed from several parts:由多个部分构成的建筑物或其他物体
+construct or arrange according to a plan; give a pattern or organization to:按计划施工或安排；给出一个模式或组织
+structure |ˈstrʌktʃə| Noun/Verb/:结构体,结构,精心安排,构造
+the two sentences have equivalent structures:两句结构等价
+we shall use three headings to give some structure to the discussion:我们将使用三个标题来为讨论提供一些结构
+the station is a magnificent structure and should not be demolished:车站是宏伟的建筑，不应拆除
+services must be structured so as to avoid pitfalls:服务必须结构化以避免陷阱
+
+a person who is qualified to design buildings and to plan and supervise their construction:有资格设计建筑物并规划和监督其施工的人员
+a person who is responsible for inventing or realizing a particular idea or project:负责发明或实现特定想法或项目的人
+a person who designs hardware, software, or networking applications and services of a specified type for a business or other organization:为企业或其他组织设计特定类型的硬件、软件或网络应用程序和服务的人
+design and configure (a program or system):设计和配置（程序或系统）
+architect |ˈɑːkɪtɛkt| Noun/Verb/:建筑师,建筑设计师
+an architect takes into consideration all of the constraints involved in building a house:an建筑师考虑了建造房屋所涉及的所有限制条件
+the architects of the reform programme:改革方案的设计者
+we are seeking an experienced software architect to join our scientific computing team:我们正在寻找一位经验丰富的软件架构师加入我们的科学计算团队
+few software packages were architected with Ethernet access in mind:few软件包的架构考虑了以太网访问
+
+a rigid structure that surrounds something such as a picture, door, or windowpane.:围绕着某物（例如图片、门或窗玻璃）的刚性结构。
+a metal or plastic structure holding the lenses of a pair of glasses.:固定眼镜镜片的金属或塑料结构。
+the rigid supporting structure of an object such as a vehicle, building, or piece of furniture:物体的刚性支撑结构，例如车辆、建筑物或家具
+a boxlike structure of glass or plastic in which seeds or young plants are grown.:一种盒子状的玻璃或塑料结构，种子或幼苗在其中生长。
+an apparatus with a surrounding structure, especially one used in weaving, knitting, or embroidery.:具有环绕结构的器具，尤指用于编织、针织或刺绣的器具。
+the universe, or part of it, regarded as an embracing structure:宇宙，或其中的一部分，被视为一个包容的结构
+a person's body with reference to its size or build:一个人的身体参考其大小或构建
+a basic structure that underlies or supports a system, concept, or text:构成或支持系统、概念或文本的基本结构
+the structure, constitution, or nature of someone or something:某人或某物的结构、构成或性质
+a structural environment within which a class of words or other linguistic units can be correctly used. For example I — him is a frame for a large class of transitive verbs.:可以正确使用一类词或其他语言单位的结构环境。16
+a feature which marks a transition from one section of discourse to another:标志着从一段话到另一段的过渡的特征
+a section of a discourse separated by a frame:由框架分隔的一段话语
+(in semantics) an underlying conceptual structure into which the meanings of a number of related words fit:（在语义学上）一个基本的概念结构，许多相关词的含义都适合
+a social context determining the interpretation of an utterance:决定话语解释的社会背景
+a single complete picture in a series forming a cinema, television, or video film:构成电影、电视或视频电影的系列中的一张完整图片
+a single picture in a comic strip.:漫画中的单幅图片。
+a graphic panel in a display window, especially in a web browser, which encloses a self-contained section of data and permits multiple independent document viewing.:显示窗口中的图形面板，特别是在网络浏览器中，它包含一个独立的数据部分并允许多个独立的文档查看。
+the triangular structure for positioning the red balls in snooker.:斯诺克中用于定位红球的三角形结构。
+a single game of snooker:一场斯诺克比赛
+place (a picture or photograph) in a frame:将（图片或照片）放在画框里
+surround so as to create a striking or attractive image:环绕以创建醒目的或有吸引力的图像
+formulate (a concept, plan, or system):制定（概念、计划或系统）
+form or articulate (words):形式或表达（单词）
+make or construct (something) by fitting parts together or in accordance with a plan:通过将零件装配在一起或按照计划制造或建造（某物）
+produce false evidence against (an innocent person) so that they appear guilty:出示针对（无辜者）的虚假证据，使他们看起来有罪
+frame |freɪm| Noun/Verb/:框架,镶边,帧,框
+the wooden frame of the huge bed:大床的木架
+this goodly frame the Earth:这很好地构筑了地球
+a shiver shook her slim frame:a颤抖着摇晃着她纤细的身躯
+the establishment of conditions provides a frame for interpretation:条件的成立提供了解释框架
+we have in our inward frame various affections:我们内在的框架里有各种各样的感情
+frames are realized by linguistic items such as ‘well’, ‘right’, and ‘OK’:框架由诸如“好”、“对”和“好”之类的语言项目来实现
+pragmatically asides step back from the ongoing interpretative frame:务实地从正在进行的解释框架中退后一步
+the frame of verbs of perception:知觉动词的框架
+an utterance may mean the opposite of what it says if used within a frame of teasing:如果在戏弄的框架内使用，话语可能意味着与它所说的相反
+video footage slowed down to 20 frames a second:视频片段减慢到每秒 20 帧
+Jones won the first four frames:Jones赢得前四局
+he had had the photo framed:他已经把照片框起来了
+a short style cut to frame the face:a短款剪裁以勾勒脸部
+staff have proved invaluable in framing the proposals:事实证明，工作人员在制定提案方面发挥了不可估量的作用
+he walked out before she could frame a reply:他还没等她回复就走了
+what immortal hand or eye could frame thy fearful symmetry?:什么不朽的手或眼睛可以勾勒出你可怕的对称性？
+he claims he was framed:他声称他被陷害了
+
+surprise (someone) greatly, fill with astonishment:使（某人）大吃一惊，惊奇不已
+amaze |əˈmeɪz| Verb/:惊奇,吃惊
+she amazed doctors by fighting back when her deteriorating condition caused her to suffer heart failure:当她的病情恶化导致她遭受心力衰竭时，她通过反击让医生感到惊讶
+
+the action or process of affirming something:肯定某事的动作或过程
+a formal declaration by a person who declines to take an oath.:拒绝宣誓的人的正式声明。
+emotional support or encouragement:情感支持或鼓励
+affirmation |ˌafəˈmeɪʃn| Noun/:肯定,确认
+he nodded in affirmation:他点头肯定
+the lack of one or both parents' affirmation leaves some children emotionally crippled:缺乏父母一方或双方的肯定会使一些孩子情绪低落
+
+having or showing intelligence, especially of a high level:具有或表现出智力，尤指高水平的
+(of a device or building) able to vary its state or action in response to varying situations and past experience.:（设备或建筑物）能够根据不同的情况和过去的经验改变其状态或动作。
+(of a computer terminal) incorporating a microprocessor and having its own processing capability.:（计算机终端）包含微处理器并具有自己的处理能力。
+intelligent |ɪnˈtɛlɪdʒ(ə)nt| Adjective/:,智能
+Anna is intelligent and hard-working:Anna聪明勤奋
+
+a system of words, letters, figures, or symbols used to represent others, especially for the purposes of secrecy:用于代表他人的文字、字母、数字或符号系统，尤其是出于保密目的
+a phrase or concept used to represent another in an indirect way:一个短语或概念，用于以间接方式表示另一个
+a series of letters, numbers, or symbols assigned to something for the purposes of classification or identification:为分类或识别目的分配给某物的一系列字母、数字或符号
+program instructions:程序指令
+a systematic collection of laws or statutes:系统性的法律法规汇编
+a set of conventions or moral principles governing behaviour in a particular sphere:一组规范特定领域行为的惯例或道德原则
+convert (the words of a message) into a code so as to convey a secret meaning:将（消息的文字）转换为代码以传达秘密含义
+express the meaning of (a statement) in an indirect way:以间接方式表达（陈述）的意思
+assign a code to (something) for purposes of classification or identification:为了分类或识别的目的，为（某物）分配一个代码
+write code for (a computer program):为（计算机程序）编写代码
+be the genetic code for (an amino acid or protein):be（一种氨基酸或蛋白质）的遗传密码
+be the genetic determiner of (a characteristic):be（特征）的遗传决定因素
+code |kəʊd| Noun/Verb/:代码,编码,码
+the Americans cracked their diplomatic code:美国人破解了他们的外交密码
+‘We'll catch up soon’ is usually a code for ‘I'm not that into you’:“我们很快就会赶上”通常是“我没那么喜欢你”的代号
+each box had a label with the code SC 90:每个盒子都有一个带有代码SC90的标签
+I was given the number, but not the code for Guildford:我得到了号码，但没有得到吉尔福德的代码
+assembly code:汇编代码
+a revision of the penal code:a修订刑法
+a strict dress code:严格的着装要求
+only Mitch knew how to read the message—even the name was coded:onlyMitch知道如何阅读消息——甚至名字也被编码了
+they code their language when talking to the general public:他们在与公众交谈时编码他们的语言
+she coded the samples and sent them for dissection:she对样本进行编码并将其送去解剖
+most developers code C + + like C:大多数开发人员像C一样编写C++
+genes that code for human growth hormone:基因编码人类生长激素
+one pair of homologous chromosomes codes for eye colour:一对同源染色体编码眼睛颜色
+
+a load, typically a heavy one.:a负载，通常是重负载。
+a duty or misfortune that causes worry, hardship, or distress:导致担忧、困难或痛苦的责任或不幸
+the main responsibility for achieving a specified aim or task:实现特定目标或任务的主要责任
+a ship's carrying capacity; tonnage:船舶的承载能力；吨位
+the main theme or gist of a speech, book, or argument.:演讲、书籍或论证的主题或要点。
+the refrain or chorus of a song.:歌曲的副歌或合唱。
+load heavily:重载
+cause (someone) worry, hardship, or distress:导致（某人）担心、困难或痛苦
+burden |ˈbəːdn| Noun/Verb/:负担,使烦恼,包
+the tax burden on low-wage earners:低收入者的税收负担
+the burden of establishing that the authority had misused its powers rests upon the prosecution:证明当局滥用其权力的责任在于检方
+the schooner Wyoming, of about 6,000 tons burden:怀俄明号帆船，载重约 6,000 吨
+she walked forwards burdened with a wooden box:她背着一个木箱往前走
+they were not yet burdened with adult responsibility:他们还没有承担成人责任
+
+take in or soak up (energy or a liquid or other substance) by chemical or physical action:通过化学或物理作用吸收或吸收（能量或液体或其他物质）
+take in and understand fully (information, ideas, or experience):吸收并充分理解（信息、想法或经验）
+take control of (a smaller or less powerful entity) and make it a part of a larger one:控制（较小或较弱的实体）并使其成为较大实体的一部分
+use or take up (time or resources):使用或占用（时间或资源）
+take up and reduce the effect or intensity of (sound or an impact):吸收并减少（声音或冲击）的影响或强度
+take up the attention of (someone); interest greatly:引起（某人）的注意；12
+absorb |əbˈzɔːb| Verb/:吸收,吸
+buildings can be designed to absorb and retain heat:建筑物可以设计成吸收和保留热量
+she absorbed the information in silence:她默默地吸收信息
+the family firm was absorbed into a larger group:家族企业被吸收进一个更大的集团
+arms spending absorbs roughly two per cent of the national income:军备开支约占国民收入的 2%
+deep-pile carpets absorbed all sound of the outside world:厚厚的地毯吸收了外界的所有声音
+she sat in an armchair, absorbed in a book:她坐在扶手椅上，全神贯注地看书
+
+a direction or order:一个方向或命令
+directions to a solicitor or counsel, or to a jury.:向律师或法律顾问或陪审团的指示。
+a code in a program which defines and carries out an operation.:程序中定义和执行操作的代码。
+detailed information about how something should be done or operated:关于如何完成或操作某事的详细信息
+teaching; education:教学；教育
+instruction |ɪnˈstrʌkʃən| Noun/:操作说明,指令,指示,说明
+he issued instructions to the sheriff:他向治安官发出指令
+always study the instructions supplied:总是学习提供的说明
+instruction in the Roman Catholic faith:罗马天主教信仰的教导
+
+a statement acknowledging the truth of something:a承认某事真实性的声明
+the process or fact of entering or being allowed to enter a place or organization:进入或被允许进入一个地方或组织的过程或事实
+the fee charged for entry to a public place:进入公共场所的费用
+the number of people entering a place:进入一个地方的人数
+a person admitted to hospital for treatment:a人入院治疗
+admission |ədˈmɪʃ(ə)n| Noun/:录取,入学
+an admission of guilt:认罪
+the evening before her admission to hospital:入院前一晚
+admission is £1 for adults and 50p for children:admission成人1英镑，儿童50便士
+cinema admissions have been rising recently:cinema最近的录取人数一直在上升
+there was a substantial reduction in hospital admissions:入院人数大幅减少
+
+added, extra, or supplementary to what is already present or available:已存在或可用的内容的添加、额外或补充
+additional |əˈdɪʃən(ə)l| Adjective/:额外的,额外,附加
+we require additional information:我们需要更多信息
+
+preconceived opinion that is not based on reason or actual experience:不是基于理性或实际经验的先入为主的意见
+dislike, hostility, or unjust behaviour deriving from preconceived and unfounded opinions:不喜欢、敌意或源于先入为主和毫无根据的意见的不公正行为
+harm or injury that results or may result from some action or judgement:某些行为或判断导致或可能导致的伤害或伤害
+give rise to prejudice in (someone); make biased:对（某人）产生偏见；10
+cause harm to (a state of affairs):对（事态）造成伤害
+prejudice |ˈprɛdʒʊdɪs| Noun/Verb/:,使有偏见,歧视
+accusations of racial prejudice:种族偏见指控
+prejudice resulting from delay in the institution of the proceedings:prejudice因延迟提起诉讼而造成的
+the statement might prejudice the jury:该声明可能会损害陪审团
+delay is likely to prejudice the child's welfare:延迟可能会损害孩子的福利
+
+a series of actions or steps taken in order to achieve a particular end:为达到特定目的而采取的一系列行动或步骤
+a natural series of changes:自然的一系列变化
+a systematic series of mechanized or chemical operations that are performed in order to produce something:为了生产某种东西而进行的一系列系统的机械化或化学操作
+an instance of a program being executed in a multitasking operating system, typically running in an environment that protects it from other processes.:在多任务操作系统中执行的程序实例，通常在保护它免受其他进程影响的环境中运行。
+relating to or denoting printing using ink in three colours (cyan, magenta, and yellow) and black to produce a complete range of colour:有关或表示使用三种颜色（青色、品红色和黄色）和黑色的墨水进行打印以产生完整的颜色范围
+a summons or writ requiring a person to appear in court.:要求某人出庭的传票或令状。
+a natural appendage or outgrowth on or in an organism, such as a protuberance on a bone.:有机体上或体内的自然附属物或生长物，例如骨骼上的突起。
+perform a series of mechanical or chemical operations on (something) in order to change or preserve it:对（某物）进行一系列机械或化学操作，以改变或保存它
+deal with (someone or something) using an official procedure:使用官方程序处理（某人或某事）
+operate on (data) by means of a program.:通过程序对（数据）进行操作。
+walk or march in procession:步行或游行
+process |ˈprəʊsɛs| Noun/Verb/:过程,加工,处理,进程,工艺
+military operations could jeopardize the peace process:军事行动可能危及和平进程
+the ageing process:老化过程
+the manufacturing process is relatively simple:制造过程比较简单
+process inks:印刷油墨
+the salmon is quickly processed after harvest to preserve the flavour:鲑鱼在收获后迅速加工以保持风味
+the immigration authorities who processed him:处理他的移民当局
+they processed down the aisle:他们沿着过道处理
+
+graceful and stylish in appearance or manner:外表或举止优雅时尚
+(of a scientific theory or solution to a problem) pleasingly ingenious and simple:（科学理论或问题的解决方案）令人愉快的巧妙和简单
+elegant |ˈɛlɪɡ(ə)nt| Adjective/:优雅的,优雅,雅致
+she will look elegant in black:她穿黑色会显得优雅
+the grand unified theory is compact and elegant in mathematical terms:大统一理论在数学上简洁而优雅
+
+friendly and welcoming to visitors or guests:友好和欢迎访客或客人
+(of an environment) pleasant and favourable for living in:（环境的）宜人的，有利于居住的
+hospitable |hɒˈspɪtəbl| Adjective/:好客,好客的,热情好客
+two friendly, hospitable brothers run the hotel:两个友好、好客的兄弟经营酒店
+one of the least hospitable places in North America:北美最不友好的地方之一
+
+serving to refresh or reinvigorate someone:服务于刷新或振兴某人
+welcome or stimulating because new or different:
+refreshing |rɪˈfrɛʃɪŋ| Adjective/:清爽,令人耳目一新
+a refreshing drink:清凉饮料
+it makes a refreshing change to be able to write about something nice:it做出了令人耳目一新的改变，能够写一些好东西
+
+make certain that (something) will occur or be the case:确保（某事）会发生或确实如此
+make certain of obtaining or providing (something):确保获得或提供（某物）
+make sure that (a problem) does not occur:确保（问题）不会发生
+ensure |ɪnˈʃʊə| Verb/:确保,保证
+legislation to ensure equal opportunities for all:立法确保所有人机会均等
+only by researching stocks thoroughly can a client ensure against being misled:只有彻底研究股票，客户才能确保不被误导
+
+make (someone) afraid or anxious:让（某人）害怕或焦虑
+deter someone or something from involvement or action by making them afraid:通过让某人或某物害怕来阻止他们参与或采取行动
+(of a person) become afraid or anxious:（某人的）变得害怕或焦虑
+frighten |ˈfrʌɪtn| Verb/:吓唬,吓,惊吓
+the savagery of his thoughts frightened him:他的野蛮想法吓坏了他
+if you say anything to him you might frighten him off:如果你对他说什么你可能会吓跑他
+at his age, I guess he doesn't frighten any more:在他这个年纪，我猜他不再害怕了
+
+at an advanced stage of social and cultural development:处于社会和文化发展的高级阶段
+polite and well-mannered:彬彬有礼
+civilized |ˈsɪvəlʌɪzd| Adjective/:文明的,文明
+a civilized society:文明社会
+I went to talk to them and we had a very civilized conversation:我去和他们交谈，我们进行了非常文明的交谈
+
+the action of approving something:批准某事的动作
+the belief that someone or something is good or acceptable:相信某人或某事是好的或可接受的
+approval |əˈpruːv(ə)l| Noun/:    赞同, 批准
+the road schemes have been given approval:道路计划已获得批准
+step-parents need to win a child's approval:继父母需要赢得孩子的认可
+
+make (something) widely known:使（某事）广为人知
+give out information about (a product, person, or company) for advertising or promotional purposes:出于广告或促销目的提供有关（产品、个人或公司）的信息
+publicize |ˈpʌblɪsʌɪz| Verb/:宣传,公开
+use the magazine to publicize human rights abuses:使用杂志宣传侵犯人权行为
+Judy had started to publicize books and celebrities:朱蒂开始宣传书籍和名人
+
+a person who lives somewhere permanently or on a long-term basis:永久或长期居住在某地的人
+a bird, butterfly, or other animal of a species that does not migrate:不迁徙的鸟类、蝴蝶或其他动物
+a guest in a hotel who stays for one or more nights:在酒店住宿一晚或多晚的客人
+a pupil who boards at a boarding school.:在寄宿学校寄宿的学生。
+a British government agent in any semi-independent state, especially the Governor General's agent at the court of an Indian state.:任何半独立国家的英国政府代理人，尤其是总督在印度国家法院的代理人。
+an intelligence agent in a foreign country.:外国情报人员。
+a medical graduate engaged in specialized practice under supervision in a hospital.:一名医学毕业生在医院的监督下从事专业实践。
+living somewhere on a long-term basis:长期居住在某个地方
+having quarters on the premises of one's work:在自己工作的地方有宿舍
+attached to and working regularly for a particular institution:依附于特定机构并定期为该机构工作
+(of a bird, butterfly or other animal) remaining in an area throughout the year, non-migratory:（鸟、蝴蝶或其他动物的）全年留在一个地区，非迁徙
+(of a computer program, file, etc.) immediately available in computer memory, rather than having to be loaded from elsewhere:（计算机程序、文件等）在计算机内存中立即可用，而不必从其他地方加载
+resident |ˈrɛzɪd(ə)nt| Adjective/Noun/:居民,居住的
+it was a beautiful hamlet with just 100 residents:这是一个只有100名居民的美丽小村庄
+arctic residents are joined annually by long-distance migrants:每年都有长途移民加入北极居民的行列
+the hotel restaurant is open to residents and guests of residents:酒店餐厅对住户和住户的客人开放
+he has been resident in Brazil for a long time:他在巴西长期居住
+resident farm workers:常驻农场工人
+the film studio needed a resident historian:电影制片厂需要常驻历史学家
+resident mute swans and wintering Bewick's swans:resident疣鼻天鹅和越冬Bewick的天鹅
+an intangible computer program resident on a magnetic disk:一个驻留在磁盘上的无形计算机程序
+
+careful not to inconvenience or harm others:小心不要给他人带来不便或伤害
+showing careful thought:显示仔细的想法
+considerate |kənˈsɪd(ə)rət| Adjective/:周到,体贴,体贴入微
+she was unfailingly kind and considerate:她永远善良体贴
+be considerate over your handwriting:小心你的笔迹
+
+injure (a joint) by wrenching it:扭伤（关节）
+distort or misrepresent the meaning of (words):distort或歪曲（词）的意思
+cause to rotate around a stationary point; turn:导致围绕固定点旋转；转动
+wind around or through something:绕或穿过某物
+move or cause to move around each other; interlace:移动或导致彼此移动；交错
+make (something) by interlacing or winding strands together:通过将股线交织或缠绕在一起来制作（某物）
+take or have a winding course:take或有一个曲折的课程
+dance the twist.:跳舞。
+cheat; defraud.:作弊；骗取。
+(in pontoon) request, deal, or be dealt a card face upwards.:（在浮桥中）要求、发牌或发牌面朝上。
+an act of twisting something around a stationary point:围绕固定点扭转某物的行为
+an act of turning one's body or part of one's body:转动身体或身体一部分的动作
+a dance with a twisting movement of the body, popular in the 1960s:身体扭动的舞蹈，流行于1960年代
+the extent of twisting of a rod or other object.:杆或其他物体的扭曲程度。
+force producing twisting; torque.:力产生扭曲；扭矩。
+forward motion combined with rotation about an axis.:向前运动与绕轴旋转相结合。
+the rifling in the bore of a gun:枪膛里的膛线
+a thing with a spiral shape:螺旋形的东西
+a paper packet with twisted ends:一个纸包，两端扭结
+a small quantity of tobacco, sugar, salt, or a similar substance, wrapped in such a packet:少量烟草、糖、盐或类似物质，包装在这样的小包中
+a curled piece of lemon peel used to flavour a drink:一块卷曲的柠檬皮，用来给饮料调味
+a distorted shape:变形的形状
+an unusual feature of a person's personality, typically an unhealthy one:一个人个性的不寻常特征，通常是不健康的
+a swindle.:一个骗局。
+a point at which something turns or bends:某物转动或弯曲的点
+an unexpected development of events:事件的意外发展
+a new treatment or outlook; a variation:一种新的治疗方法或前景；变体
+a fine strong thread consisting of twisted strands of cotton or silk.:一种由棉或丝捻成的细线。
+a drink consisting of two ingredients mixed together.:一种由两种成分混合而成的饮料。
+a carpet with a tightly curled pile.:a地毯紧密卷曲。
+--
+injure (a joint) by wrenching it:扭伤（关节）
+distort or misrepresent the meaning of (words):歪曲或曲解（词语）的意思
+cause to rotate around a stationary point, turn:导致围绕固定点旋转，转动
+wind around or through something:绕过或穿过某物
+move or cause to move around each other, interlace:移动或导致彼此移动，交错
+make (something) by interlacing or winding strands together:通过交织或缠绕在一起制作（某物）
+take or have a winding course:参加或参加曲折课程
+dance the twist.:跳舞吧。
+cheat, defraud.:欺骗，诈骗。
+(in pontoon) request, deal, or be dealt a card face upwards.:（在浮桥上）要求、发牌或被发牌面朝上。
+an act of twisting something around a stationary point:围绕固定点扭转某物的行为
+an act of turning one's body or part of one's body:转动身体或身体一部分的动作
+a dance with a twisting movement of the body, popular in the 1960s:一种身体扭动的舞蹈，流行于1960年代
+the extent of twisting of a rod or other object.:杆或其他物体的扭曲程度。
+force producing twisting, torque.:力产生扭曲，扭矩。
+forward motion combined with rotation about an axis.:向前运动结合绕轴旋转。
+the rifling in the bore of a gun:枪膛里的步枪
+a thing with a spiral shape:一个螺旋形的东西
+a paper packet with twisted ends:一个两端扭曲的纸包
+a small quantity of tobacco, sugar, salt, or a similar substance, wrapped in such a packet:少量烟草、糖、盐或类似物质，包裹在这样的小包中
+a curled piece of lemon peel used to flavour a drink:一块卷曲的柠檬皮用来给饮料调味
+a distorted shape:扭曲的形状
+an unusual feature of a person's personality, typically an unhealthy one:一个人性格的不寻常特征，通常是不健康的
+a swindle.:一个骗局。
+a point at which something turns or bends:某物转动或弯曲的点
+an unexpected development of events:事件的意外发展
+a new treatment or outlook, a variation:一种新的治疗或前景，一种变化
+a fine strong thread consisting of twisted strands of cotton or silk.:一种由棉线或丝线绞合而成的细而结实的线。
+a drink consisting of two ingredients mixed together.:一种由两种成分混合而成的饮料。
+a carpet with a tightly curled pile.:有紧密卷曲绒毛的地毯。
+--
+injure (a joint) by wrenching it:扭伤（关节）
+distort or misrepresent the meaning of (words):歪曲或曲解（词语）的意思
+cause to rotate around a stationary point, turn:导致围绕固定点旋转，转
+wind around or through something:绕或穿过某物
+move or cause to move around each other, interlace:移动或导致彼此移动，交错
+make (something) by interlacing or winding strands together:通过将股线交织或缠绕在一起来制作（某物）
+take or have a winding course:参加或参加蜿蜒的课程
+dance the twist.:跳舞。
+cheat, defraud.:欺骗，诈骗。
+(in pontoon) request, deal, or be dealt a card face upwards.:（在浮桥中）要求、发牌或发牌面朝上。
+an act of twisting something around a stationary point:围绕固定点扭转某物的行为
+an act of turning one's body or part of one's body:转动身体或身体一部分的动作
+a dance with a twisting movement of the body, popular in the 1960s:身体扭动的舞蹈，流行于1960年代
+the extent of twisting of a rod or other object.:杆或其他物体的扭曲程度。
+force producing twisting, torque.:force产生扭转、扭力。
+forward motion combined with rotation about an axis.:向前运动与绕轴旋转相结合。
+the rifling in the bore of a gun:枪膛里的膛线
+a thing with a spiral shape:螺旋形的东西
+a paper packet with twisted ends:一个纸包，两端扭结
+a small quantity of tobacco, sugar, salt, or a similar substance, wrapped in such a packet:少量烟草、糖、盐或类似物质，包装在这样的小包中
+a curled piece of lemon peel used to flavour a drink:一块卷曲的柠檬皮，用来给饮料调味
+a distorted shape:变形的形状
+an unusual feature of a person's personality, typically an unhealthy one:一个人个性的不寻常特征，通常是不健康的
+a swindle.:一个骗局。
+a point at which something turns or bends:某物转动或弯曲的点
+an unexpected development of events:事件的意外发展
+a new treatment or outlook, a variation:一种新的治疗方法或前景，一种变化
+a fine strong thread consisting of twisted strands of cotton or silk.:一种由棉或丝捻成的细线。
+a drink consisting of two ingredients mixed together.:一种由两种成分混合而成的饮料。
+a carpet with a tightly curled pile.:a地毯紧密卷曲。
+twist |twɪst| Noun/Verb/:捻,拧,扭曲,扭转
+a strip of metal is twisted to form a hollow tube:一条金属带被扭成一个空心管
+she twisted her handkerchief into a knot:她把她的手帕拧成一个结
+he grabbed the man and twisted his arm behind his back:他抓住那个男人，把他的胳膊扭到背后
+beetroot can be stored once the leaves have been twisted off:一旦叶子被拧掉，甜菜根就可以储存
+she twisted in her seat to look at the buildings:她在座位上扭动着看建筑物
+he twisted himself free:他扭转了自己的自由
+he twisted his ankle trying to avoid his opponent's lunge:他扭伤了脚踝，试图躲避对手的冲刺
+they twisted my words and made a mockery of me:他们歪曲我的话，嘲笑我
+she twisted her ring round and round on her finger:她在她的手指上转了一圈又一圈的戒指
+I twisted a strand of hair around my finger:我用一根头发绕了我的手指
+he could twist a rope strong enough to hold a mule:他可以扭动足以牵住骡子的绳索
+the railway lines twist and turn round the hills:铁路线曲折绕山
+the taps needed a single twist to turn them on:水龙头需要轻轻一扭才能打开
+with a sudden twist, she got away from him:突然转身，她离开了他
+lets do the twist:让我们扭转局面
+barrels with a 1:带有 1 的桶
+a barley sugar twist:a大麦糖捻
+he handed her a twist of paper:他递给她一卷纸
+he bought a packet of crisps with a blue twist of salt in them:他买了一包薯片，里面有蓝色的盐
+she drank vodka and tonic with a twist of lemon:她喝了伏特加，加了点柠檬的滋补品
+he had a cruel twist to his mouth:他嘴里有一个残酷的扭曲
+her lack of considerateness is a personality twist which could bring her problems:她缺乏体贴是一种性格扭曲，可能会给她带来问题
+the car negotiated the twists and turns of the mountain road:车驾过曲折的山路
+it was soon time for the next twist of fate in his extraordinary career:这是他非凡职业生涯中下一次命运转折的时候了
+she takes conventional subjects and gives them a twist:她采用传统科目并给他们一个转折点
+
+a legally recognized subject or national of a state or commonwealth, either native or naturalized:一个州或联邦的法律承认的主体或国民，无论是本地的还是归化的
+an inhabitant of a particular town or city:特定城镇或城市的居民
+citizen |ˈsɪtɪz(ə)n| Noun/:公民,市民
+a British citizen:一个英国公民
+the good citizens of Edinburgh:爱丁堡的好公民
+
+a strong wooden or metal post with a point at one end, driven into the ground to support a plant, form part of a fence, mark a boundary, etc.:一根坚固的木头或金属柱，一端有一点，插入地面以支撑植物，形成围栏的一部分，标记边界等。
+a wooden post to which a person was tied before being burned alive as a punishment:一个木柱，一个人被绑在上面，然后被活活烧死作为惩罚
+a long vertical rod used in basket-making.:用于制篮的长竖杆。
+a metalworker's small anvil, typically with a projection for fitting into a socket on a bench.:金属工人的小铁砧，通常带有一个突出部分，用于安装在长凳上的插座中。
+a territorial division of a Latter-day Saints (Mormon) Church under the jurisdiction of a president.:在总统管辖下的后期圣徒（摩门教）教会的领土划分。
+support (a plant) with a stake or stakes:support（一个植物）有一个或多个桩
+a sum of money or something else of value gambled on the outcome of a risky game or venture:一笔金钱或其他有价值的东西，赌注在冒险游戏或冒险的结果上
+a share or interest in a business, situation, or system:在业务、情况或系统中的股份或利益
+prize money, especially in horse racing.:奖金，尤其是赛马。
+a horse race in which all the owners of the racehorses running contribute to the prize money:所有参加比赛的赛马的主人都为奖金做出贡献的赛马
+a situation involving competition in a specified area:指定区域内涉及竞争的情况
+gamble (money or something else of value) on the outcome of a game or race:对游戏或比赛的结果进行赌博（金钱或其他有价值的东西）
+give financial or other support to:给予财政或其他支持
+stake |steɪk| Noun/Verb/:赌注,股权,权益
+Bishop Ridley was burned at the stake:里德利主教被烧死在火刑柱上
+the gladioli were staked in gaudy ranks:the剑兰被押在华丽的队伍中
+playing dice for high stakes:为高赌注掷骰子
+GM acquired a 50 per cent stake in Saab:GM收购萨博50%的股份
+the horse is to run in the Craven Stakes:这匹马要参加 Craven Stakes
+we will keep you one step ahead in the fashion stakes:我们会让你在时尚界领先一步
+one gambler staked everything he'd got and lost:一个赌徒赌上他得到和失去的一切
+he staked him to an education at the École des Beaux-Arts:他让他在 École des Beaux-Arts 接受教育
+
+in an eager or enthusiastic manner:以热切或热情的方式
+intensely:强烈
+cheaply; competitively:便宜;竞争地
+keenly |ˈkiːnli| Adverb/:,热切地
+one of this year's most keenly anticipated movies:今年最受期待的电影之一
+they are keenly aware of the problems of their community:他们敏锐地意识到他们社区的问题
+the car is keenly priced:这辆车的价格很贵
+
+existing or occurring at or on the surface:存在于或发生在表面或表面上
+situated or occurring on the skin or immediately beneath it:位于或出现在皮肤上或紧贴其下
+appearing to be true or real only until examined more closely:只有在更仔细地检查之前才显得真实或真实
+not thorough, deep, or complete, cursory:不彻底、不深入或不完整、粗略
+lacking depth of character or understanding:缺乏性格深度或理解力
+denoting a quantity of a material expressed in terms of area covered rather than linear dimension or volume.:表示以覆盖面积而不是线性尺寸或体积表示的材料量。
+superficial |ˌsuːpəˈfɪʃl| Adjective/:浅,肤浅的,表面上的
+the building suffered only superficial damage:建筑物仅受到表面损坏
+the superficial muscle groups:浅表肌群
+the resemblance between the breeds is superficial:品种之间的相似之处是肤浅的
+he had only the most superficial knowledge of foreign countries:他对外国只有最肤浅的了解
+perhaps I was a superficial person:也许我是个肤浅的人
+
+the quality of bending easily without breaking:不易折弯的品质
+the ability to be easily modified:易于修改的能力
+willingness to change or compromise:愿意改变或妥协
+flexibility |ˌflɛksɪˈbɪlɪti| Noun/:灵活性,弹性
+players gained improved flexibility in their ankles:players提高了脚踝的灵活性
+I enjoyed the flexibility of the schedule:我喜欢灵活的日程安排
+the government has shown flexibility in applying its policy:政府在实施政策方面表现出灵活性
