@@ -3050,8 +3050,8 @@ elif [[  $mode -eq 3  ]];then
 [[  "$passd" -eq 1   ]] && constn=$n
 newtxt=""
 while read line ;do
-a1="$(echo "$line" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
-a2="$(echo "$line" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
+a1="$(echo "$line" | awk 'BEGIN{FS="\t"}{print $1}')"
+a2="$(echo "$line" | awk 'BEGIN{FS="\t"}{print $NF}')"
 new_line="$a2		$a1"
 [[  "$newtxt" != ""  ]] && newtxt="$newtxt
 $line
@@ -3064,7 +3064,7 @@ EOF
 txt="$newtxt"
  total=$((n))
 fi
-Total=total
+Total=$total
  #constn=99
  gi=0
 while true;do
@@ -3073,12 +3073,12 @@ while true;do
  # m=$total
 gi=$((gi+1))
 [[  $passd -eq 1  ]] && total=$((constn-gcounts))
-if [[  $mode -ne 3  ]];then
-[[  $passd -eq 1  ]] && [[  $total -le 3  ]] && printf "词库不足" && echo && miniFUN && return 0
-elif [[  $mode -eq 3  ]];then
-[[  $passd -eq 1  ]] && [[  $total -le 7  ]] && printf "词库不足" && echo && miniFUN && return 0
-
-fi
+[[  $total -eq 0  ]] && echo 过关了!!!  && return 0
+#if [[  $mode -ne 3  ]];then
+#[[  $passd -eq 1  ]] && [[  $total -le 3  ]] && printf "词库不足" && echo && miniFUN && return 0
+#elif [[  $mode -eq 3  ]];then
+#[[  $passd -eq 1  ]] && [[  $total -le 7  ]] && printf "词库不足" && echo && miniFUN && return 0
+#fi
  bot=
  #ss=0
  scanf=x

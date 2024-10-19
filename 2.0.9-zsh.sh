@@ -620,11 +620,12 @@ strs="$(printf "\033[2m$strs\033[0m")"
 COL=$((COLUMN-2))
 COL2=$((COLUMN/2-2))
 eval ' hello=`cat`' <<"blocks"
- _               _     
-| |__   __ _ ___| |__  
-| '_ \ / _` / __| '_ \ 
-| |_) | (_| \__ \ | | |
-|_.__/ \__,_|___/_| |_|
+         _     
+ _______| |__  
+|_  / __| '_ \ 
+ / /\__ \ | | |
+/___|___/_| |_|
+               
 blocks
 
 
@@ -649,7 +650,7 @@ prt()
 {
     height=`echo "$1"|wc -l`
     for i in `seq "$height"`;do
-            sleep 0.009 && read -s -t0   && read -s -t1 && break
+            sleep 0.009 && read -s -t0  && break
             char=`echo $1`
             [ -n "$char" ] && printf "$(echo "$1"|sed -n  "$i"p)"
         echo
@@ -877,11 +878,11 @@ outputed=${output5:-0}
 fi
 [[ ${#str} -eq 25 ]] && str=
 
-lleft=$(echo "$line" | awk '{printf $1}' | tr "/" " " )
+lleft=$(echo "$line" | awk '{printf $1}' )
 right="$(echo "$thetxt" | sed -n "$list,${list}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
 right=${right:-/}
 alldata="$lleft $right"
-aline="$(printf "%s" "${line}" | tr -s  "	" | tr " 	" " " | tr "/" " " )"
+aline="$(printf "%s" "${line}" | tr -s  "	" | tr " 	" " " )"
 if [[  "$alldata" == "$aline" ]] ;then
 eval lr$wlist="$(echo "\$lleft")" #eval的空格需要''才能赋值，否则被视为命令行中的空格
 eval lr$((wlist+1))="$(echo "\$right")"
@@ -1407,11 +1408,7 @@ Vlineraw="$(echo  "$content" | grep  "\\b${answer1}\\(ed\\|ing\\|s\\)\\?\\b" | g
 
 
  aq="$(printf "${answer1}\t\t\t\t\t${answer2}")"
-echo "$therw"| xargs sed -i""  "1i\\
-${aq}
-"   -i ""  "1i\\
-${aq}
-"
+sed -i""  "1i\\${aq}" "$therw"  || sed -i ""  "1i\\${aq}" "$therw"
 printf "\n$Ylineraw\n$Vlineraw\n\n" >> $therw
 [[  $premode -ne 3  ]] && printf "$Thestdout"
 [[  $premode -eq 3  ]] && printf "$Thestdout"
@@ -1580,7 +1577,7 @@ fi
 break
 else
 wherec="${pos2/#*;/""}"
-[[  $wherec -eq $COLUMN  ]] && [[  "$ascanf" ==  [a-z\.\(\)\<\>\&]  ]] && now3=2 && break
+[[  $wherec -eq $COLUMN  ]] && [[  "$ascanf" ==  [a-z\.\(\)\<\>\&]  ]] && needo=0 && now3=2 && break
 break
 fi
 fi
@@ -1650,7 +1647,7 @@ fi
 else
 [[  "$which" == "en"  ]] && break
 if [[   "$which" == "zh"  ]] && [[  "$vback" -ne  "1"  ]] ;then
-[[  $wherec -eq $COLUMN  ]] && [[  "$ascanf" ==  [a-z\.\(\)\<\>\&]  ]] && now3=2 && break
+[[  $wherec -eq $COLUMN  ]] && [[  "$ascanf" ==  [a-z\.\(\)\<\>\&]  ]] && needo=0 && now3=2 && break
 [[  $wherec -eq $COLUMN  ]]  && printf   " " && needo=1 && continue
 fi
 
@@ -2081,7 +2078,7 @@ printf "\n\r\033[0m"
 FIND
 scanf=
 stty -echo
-printf "\033[1m$question"\\033[3m\\033[2m\ \<───\>\ \\\033[0m #ishprt已不需要
+printf "\033[1m$question\033[3m\033[2m <───> \033[0m" #ishprt已不需要
   scanfd=
   thelast=
   bd=
@@ -2250,9 +2247,9 @@ bots="$bot"
 FIND
 scanf=
 if [[  "$premode" -eq 1  ]] || [[  "$premode" == ""  ]];then
-ishprt "$question"\\033[3m\ \<───\>\ "\033[0m$bots"\\r
+ishprt "$question\033[3m <───> \033[0m$bots\r"
 [[  $COLUMN -lt $length  ]] && ishprt "\033[$(($((length-1))/COLUMN))A"
-ishprt "\033[1m$question\033[0m\033[2m"\\033[3m\ \<───\>\ "\033[0m"
+ishprt "\033[1m$question\033[0m\033[2m\033[3m <───> \033[0m"
 continue
 elif [[  "$premode" -eq 2  ]];then
 printf "%s"  "$inquiry"
@@ -2308,7 +2305,7 @@ findx()
 while read line;do
 Find "$line"
 done <<EOF
-$(printf "%s" "$xwords" | tr "/" " " )
+$(printf "%s" "$xwords" )
 EOF
 }
 
@@ -2420,7 +2417,7 @@ fi
 fascanf=
 done
  
-[[  "$fscanf" !=  ""  ]] && fscanf=$(printf "%s" "$fscanf" | tr " " "/" ) && alltxt="$(echo "$alltxt" | grep -e "$fscanf")" 2>/dev/null
+[[  "$fscanf" !=  ""  ]] && fscanf=$(printf "%s" "$fscanf" ) && alltxt="$(echo "$alltxt" | grep -e "$fscanf")" 2>/dev/null
 alltxtn=$(echo "$alltxt" | wc -l)
 [[  "$alltxtn"  -ge $((n/2-1))  ]] && echo "$strs" && return 1 
 [[  "$alltxtn"  -ge 18  ]] && printf "找到${alltxtn}个单词\n" && continue
@@ -2430,7 +2427,7 @@ alltxtn=$(echo "$alltxt" | wc -l)
 pt="$(printf  "$alltxt")"
 while read line ;do
 sleep 0.01
-tprep1 "$(printf "%s" "$line"  | tr -s "	" "  " | tr  "/" " " )" "\n"
+tprep1 "$(printf "%s" "$line"  | tr -s "	" "  " )" "\n"
 done <<EOF
 $pt
 EOF
@@ -2554,12 +2551,12 @@ outputed=${output5:-0}
 [[  "$COLUMN" -le 30  ]] && printf "%s\r" "${output}%"
 fi
 [[ ${#str} -eq 25 ]] && str=
-lleft=$(printf "%s" "$line" | awk '{printf $1}' | tr "/" " " )
+lleft=$(printf "%s" "$line" | awk '{printf $1}' )
 
 right="$(printf "%s" "$allrw"  | sed -n "$wlist,${wlist}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
 
 right=${right:-/}
-aline="$(printf "%s" "${line}" | tr -s "	" | tr "	" " " | tr "/" " " )"
+aline="$(printf "%s" "${line}" | tr -s "	" | tr "	" " " )"
 alldata="$lleft $right"
 list=$((list+1))
 wlist=$((wlist+1))
@@ -3050,7 +3047,7 @@ EOF
 txt="$newtxt"
  total=$((n))
 fi
-Total=total
+Total=$total
  #constn=99
  gi=0
 while true;do
@@ -3059,12 +3056,12 @@ while true;do
  # m=$total
 gi=$((gi+1))
 [[  $passd -eq 1  ]] && total=$((constn-gcounts))
-if [[  $mode -ne 3  ]];then
-[[  $passd -eq 1  ]] && [[  $total -le 3  ]] && printf "词库不足" && echo && miniFUN && return 0
-elif [[  $mode -eq 3  ]];then
-[[  $passd -eq 1  ]] && [[  $total -le 7  ]] && printf "词库不足" && echo && miniFUN && return 0
-
-fi
+ [[  $total -eq 0  ]] && echo 过关了!!!  && return 0
+#if [[  $mode -ne 3  ]];then
+#[[  $passd -eq 1  ]] && [[  $total -le 3  ]] && printf "词库不足" && echo && miniFUN && return 0
+#elif [[  $mode -eq 3  ]];then
+#[[  $passd -eq 1  ]] && [[  $total -le 7  ]] && printf "词库不足" && echo && miniFUN && return 0
+#fi
  bot=
  #ss=0
  scanf=x
@@ -3697,7 +3694,7 @@ FUN()
 
    clear
 stty -echo
-printf "\033[1B\033[2m$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training${title# }${aspace}-\n"
+printf "\033[1B\033[2m$enter${spaces}${spaces# }${aspace}-\r-${title}${aspace}Zsh-English-Training${title}-\n"
 
 for i in $(seq $((COLUMN)));do
 
@@ -3712,9 +3709,9 @@ printf "\033[0m"
 sleep 0.05
 printf "\r\033[2A"
 sleep 0.02
-printf "\n\033[1D$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training"
+printf "\n\033[1D$enter${spaces}${spaces# }${aspace}-\r-${title}${aspace}Zsh-English-Training"
 sleep 0.02
-printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training${title# }${aspace}-\n"
+printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}${aspace}Zsh-English-Training${title}-\n"
 sleep 0.02
 echo
 sleep 0.02
@@ -3978,7 +3975,7 @@ FUN1()
 
 clear
 stty -echo
-printf "\033[1B$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training\n"
+printf "\033[1B$enter${spaces}${spaces# }${aspace}-\r-${title}${aspace}Zsh-English-Training\n"
 
 for i in $(seq $((COLUMN)));do
 
@@ -3993,9 +3990,9 @@ printf "\033[0m"
 sleep 0.05
 printf "\r\033[2A"
 sleep 0.02
-printf "\n\033[1D$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training"
+printf "\n\033[1D$enter${spaces}${spaces# }${aspace}-\r-${title}${aspace}Zsh-English-Training"
 sleep 0.02
-printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training\n"
+printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}${aspace}Zsh-English-Training\n"
 sleep 0.02
 echo
 sleep 0.02
@@ -4413,7 +4410,7 @@ while getopts ":RrsipajhTt:" opt; do
         printf  "%s\n\033[0m"  "指定txt文件夹名:${OPTARG}" && txtname="${OPTARG}" && txtp=1
         ;;
        # m)
-       # printf "\033[3m*Termux/Windows Terminal/macOS(Bash)\n\033[0m" && windows=y && argn=$((argn+1))
+       # printf "\033[3m*Termux/Windows Terminal/macOS(Zsh)\n\033[0m" && windows=y && argn=$((argn+1))
        # ;;
 
 esac

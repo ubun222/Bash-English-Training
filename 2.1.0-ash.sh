@@ -3188,7 +3188,7 @@ EOF
 txt="$newtxt"
  total=$((n))
 fi
-Total=total
+Total=$total
  #constn=99
  gi=0
 while true;do
@@ -3197,6 +3197,7 @@ while true;do
  # m=$total
 gi=$((gi+1))
 [[  "$passd" -eq 1  ]] && total=$((constn-gcounts))
+    [[  $total -eq 0  ]] && echo 过关了!!!  && return 0
 #if [[  $mode -ne 3  ]];then
 #[[  "$passd" -eq 1  ]] && [[  $total -le 3  ]] && printf "词库不足" && echo && miniFUN && return 0
 #elif [[  $mode -eq 3  ]];then
@@ -3289,7 +3290,7 @@ am4="$p"
 
 theam="$am1"
 la=$((${#am1}*2-2))
-for i in $(seq ${la});do
+for i in $(seq $((${la}+2+${#am1})));do
 if [[  "${am1:i:1}" == [a-z\.\(\)\<\>\&]  ]] ;then
 la=$((la-1))
 fi
@@ -3299,7 +3300,7 @@ down_1=
 [[  "$down1" -gt 1  ]] && down_1="\033[$((down1-1))A"
 
 la=$((${#am2}*2-2))
-for i in $(seq ${la});do
+for i in $(seq $((${la}+2+${#am1})));do
 if [[  "${am2:i:1}" == [a-z\.\(\)\<\>\&]  ]] ;then
 la=$((la-1))
 fi
@@ -3309,7 +3310,7 @@ down_2=
 [[  "$down2" -gt 1  ]] && down_2="\033[$((down2-1))A"
 
 la=$((${#am3}*2-2))
-for i in $(seq ${la});do
+for i in $(seq $((${la}+2+${#am1})));do
 if [[  "${am3:i:1}" =~ [a-z\.\(\)\<\>\&]  ]] ;then
 la=$((la-1))
 fi
@@ -3319,7 +3320,7 @@ down_3=
 [[  "$down3" -gt 1  ]] && down_3="\033[$((down3-1))A"
 
 la=$((${#am4}*2-2))
-for i in $(seq ${la});do
+for i in $(seq $((${la}+2+${#am1})));do
 if [[  "${am4:i:1}" =~ [a-z\.\(\)\<\>\&]  ]] ;then
 la=$((la-1))
 fi
@@ -3473,7 +3474,7 @@ done
 
 if [[  "$order" -eq "$insert"  ]];then
 orders=0
-theam="${theam/  /}"
+theam="$(printf "%s" "${theam}" | tr -d " ")"
 eval printf \"\${enter}\\033[0m\\033[1m\\033[32m\-\>\\033[0m\\033[1m\${theam}\${enter}\"
 down=0
 one=
