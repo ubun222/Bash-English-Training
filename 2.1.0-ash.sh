@@ -3225,7 +3225,7 @@ fi
 answer1="$(echo "$txt" | sed -n "$((m)),${m}p" | awk 'BEGIN{FS="	"}{print $1}' )"
 answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="	"}{print $NF}' )"
 
-if [[  "$fbool" -eq 1  ]] ;then #->zh
+if [[  "$fbool" -eq 1  ]] ;then #˗›zh
 
 question=$answer1
 answer="$answer2"
@@ -3348,7 +3348,7 @@ fi
 
 if [[  "$ascanf"  ==  ""  ]] || [[  "$ascanf"  ==  "$CR"  ]] ;then
 [[  $once -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
-[[  $once -eq 0  ]] && once=1 && printf "\033[1m" && eval printf \"\$am1\" && eval printf \"\$down_1\" && printf "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
+[[  $once -eq 0  ]] && once=1 && printf "\033[1m" && eval printf \"\$am1\" && eval printf \"\$down_1\" && printf "$enter\033[0m\033[1m\033[36m˗›\033[0m$enter" && continue
 printf "$enter"
 break
 fi
@@ -3364,7 +3364,7 @@ fi
 if [[  "$ascanf"  ==  [1234]  ]];then
 sub=$((ascanf-order))
 [[  $once -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
-[[  $once -eq 0  ]] && once=1 && [[  $sub -eq 0  ]] && printf "\033[1m" && eval printf \"\$am1\" && eval printf \"\$down_1\" && printf "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
+[[  $once -eq 0  ]] && once=1 && [[  $sub -eq 0  ]] && printf "\033[1m" && eval printf \"\$am1\" && eval printf \"\$down_1\" && printf "$enter\033[0m\033[1m\033[36m˗›\033[0m$enter" && continue
 if [[  $sub -eq 0  ]];then 
 getin=0
 order=$ascanf
@@ -3379,7 +3379,7 @@ while read -n1 WSAD ;do
 [[  "$WSAD" == [ABC]  ]] && break
 done
 [[  $once -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
-[[  $once -eq 0  ]] && once=1 && printf "\033[1m" && eval printf \"\$am1\" && eval printf \"\$down_1\" && printf "$enter\033[0m\033[1m\033[36m->\033[0m$enter"  && continue
+[[  $once -eq 0  ]] && once=1 && printf "\033[1m" && eval printf \"\$am1\" && eval printf \"\$down_1\" && printf "$enter\033[0m\033[1m\033[36m˗›\033[0m$enter"  && continue
 eval theam=\"\$am$order\" #ash only
 printf "$enter$theam"
 eval printf \"\$down_$order\"
@@ -3395,7 +3395,7 @@ printf "\033[${down}B$enter\033[1m"
 printf "$theam"
 eval printf \"\$down_$order\"
 printf "$enter\033[0m"
-printf "\033[1m\033[36m->\033[0m$enter"
+printf "\033[1m\033[36m˗›\033[0m$enter"
 elif [[  "$WSAD" == "A"  ]] ;then
 order=$((order-1))
 eval down=\${down$order}
@@ -3408,7 +3408,7 @@ printf "\033[1m"
 printf "$theam"
 eval printf \"\$down_$order\"
 printf "$enter\033[0m"
-printf "\033[1m\033[36m->\033[0m$enter"
+printf "\033[1m\033[36m˗›\033[0m$enter"
 elif [[  "$WSAD" == "C"  ]] ;then
 break
 fi
@@ -3416,7 +3416,7 @@ fi
 
 if [[  "$ascanf"  ==  ' '  ]] || [[  $getin -gt 0  ]] ;then
  [[  $once -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
-[[  $once -eq 0  ]] && once=1 && printf "\033[1m" &&  eval printf \"\$am1\" && eval printf \"\$down_1\"  && printf "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
+[[  $once -eq 0  ]] && once=1 && printf "\033[1m" &&  eval printf \"\$am1\" && eval printf \"\$down_1\"  && printf "$enter\033[0m\033[1m\033[36m˗›\033[0m$enter" && continue
 [[  $getin -gt 0  ]] && getin=$((getin-1))
 eval down=\${down$order}
 order=$((order+1))
@@ -3429,7 +3429,7 @@ eval printf \"\\033[\${down}B$enter\\033[1m\"
 eval printf \"\$theam\"
 eval printf \"\$down_$order\"
 printf "$enter\033[0m"
-printf "\033[1m\033[36m->\033[0m$enter"
+printf "\033[1m\033[36m˗›\033[0m$enter"
 
 
 elif [[  "$ascanf"  ==  "$D"  ]];then
@@ -3467,7 +3467,7 @@ for ii in $(seq $((order)) 4);do
 eval temp=\$down$ii\+\$temp
 done
 temp=$((temp))
-printf "\033[${temp}A\033[1m\033[36m->\033[0m$enter"
+printf "\033[${temp}A\033[1m\033[36m˗›\033[0m$enter"
 continue 
 fi
 done
@@ -3507,7 +3507,7 @@ colourp 2>/dev/null
 printf "\033[0m"
 else
 orders=0
-#printf "$enter\033[31m%s\033[0m\r" "->"
+#printf "$enter\033[31m%s\033[0m\r" "˗›"
 eval printf \"\${enter}\\033[0m\\033[1m\\033[31m\-\>\\033[0m\${enter}\"
 down=0
 one=
@@ -3543,7 +3543,7 @@ fi
 
 
 
-elif [[  "$fbool" -eq 2  ]] ;then ## ->en
+elif [[  "$fbool" -eq 2  ]] ;then ## ˗›en
 if [[  $mode -eq 3  ]];then
 question=$answer1
 answer="$answer2"
@@ -3652,7 +3652,7 @@ fi
 
 if [[  "$ascanf"  ==  ""  ]]  || [[  "$ascanf"  ==  "$CR"  ]];then
 [[  $once -eq 0  ]]  && printf "\033[$((down5-1))A${enter}"
-[[  $once -eq 0  ]] && once=1 && printf "\033[1m" && printf "  $am1"  && printf "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
+[[  $once -eq 0  ]] && once=1 && printf "\033[1m" && printf "  $am1"  && printf "$enter\033[0m\033[1m\033[36m˗›\033[0m$enter" && continue
 printf "$enter"
 break
 fi
@@ -3668,7 +3668,7 @@ fi
 if [[  "$ascanf"  ==  [1234]  ]];then
 [[  $once -eq 0  ]]  && printf "\033[$((down5-1))A${enter}"
 sub=$((ascanf-order))
-[[  $once -eq 0  ]] && once=1 && [[  $sub -eq 0  ]] && printf "\033[1m" && printf "  $am1"  && printf "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
+[[  $once -eq 0  ]] && once=1 && [[  $sub -eq 0  ]] && printf "\033[1m" && printf "  $am1"  && printf "$enter\033[0m\033[1m\033[36m˗›\033[0m$enter" && continue
 if [[  $sub -eq 0  ]];then 
 getin=0
 order=$ascanf
@@ -3684,7 +3684,7 @@ while read -n1 WSAD ;do
 [[  "$WSAD" == [ABC]  ]] && break
 done
 [[  $once -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
-[[  $once -eq 0  ]] && once=1 && printf "\033[1m" && printf "  $am1"  && printf "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
+[[  $once -eq 0  ]] && once=1 && printf "\033[1m" && printf "  $am1"  && printf "$enter\033[0m\033[1m\033[36m˗›\033[0m$enter" && continue
 eval theam=\"\$am$order\"
 printf "$enter"
 printf "  $theam"
@@ -3700,7 +3700,7 @@ eval theam=\"\$am$order\"
 printf "\033[${down}B$enter\033[1m"
 printf "  $theam"
 printf "$enter\033[0m"
-printf "\033[1m\033[36m->\033[0m$enter"
+printf "\033[1m\033[36m˗›\033[0m$enter"
 elif [[  "$WSAD" == "A"  ]] ;then
 order=$((order-1))
 eval down=\${down$order}
@@ -3712,7 +3712,7 @@ eval theam=\"\$am$order\"
 printf "\033[1m"
 printf "  $theam"
 printf "$enter\033[0m"
-printf "\033[1m\033[36m->\033[0m$enter"
+printf "\033[1m\033[36m˗›\033[0m$enter"
 elif [[  "$WSAD" == "C"  ]] ;then
 break
 fi
@@ -3720,7 +3720,7 @@ fi
 
 if [[  "$ascanf"  ==  ' '  ]] || [[  $getin -gt 0  ]] ;then
 [[  $once -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
-[[  $once -eq 0  ]] && once=1 && printf "\033[1m" && printf "  $am1"  && printf "$enter\033[0m\033[1m\033[36m->\033[0m$enter" && continue
+[[  $once -eq 0  ]] && once=1 && printf "\033[1m" && printf "  $am1"  && printf "$enter\033[0m\033[1m\033[36m˗›\033[0m$enter" && continue
 [[  $getin -gt 0  ]] && getin=$((getin-1))
 eval down=\${down$order}
 order=$((order+1))
@@ -3731,7 +3731,7 @@ eval theam=\"\$am$order\"
 printf "\033[${down}B$enter\033[1m"
 printf "  $theam"
 printf "$enter\033[0m"
-printf "\033[1m\033[36m->\033[0m$enter"
+printf "\033[1m\033[36m˗›\033[0m$enter"
 
 elif [[  "$ascanf"  ==  "$D"  ]];then
 [[  $once -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}" && once=1
@@ -3753,7 +3753,7 @@ for ii in $(seq $((order)) 4);do
 eval temp=\$down$ii\+\$temp
 done
 temp=$((temp))
-printf "\033[${temp}A\033[1m\033[36m->\033[0m$enter"
+printf "\033[${temp}A\033[1m\033[36m˗›\033[0m$enter"
 continue 
 fi
 done
@@ -3778,7 +3778,7 @@ one=""
 ;;
 esac
 if [[  "$order" -eq "$insert"  ]];then
-printf "\033[1m\033[32m->\033[0m\033[1m$answer$enter"
+printf "\033[1m\033[32m˗›\033[0m\033[1m$answer$enter"
 isright=1
 abool=
 bool=
@@ -3791,7 +3791,7 @@ colourp 2>/dev/null
 [[  "$abool" == ""  ]] || [[  "$abool" == "$LF"  ]] || [[  "$abool" == "$CR"  ]]   && printf "$one"
 else
 isright=0
-printf "\033[31m%s\033[0m\r" "->"
+printf "\033[31m%s\033[0m\r" "˗›"
 down=0
 one=
 case $order in 
