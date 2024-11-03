@@ -3889,14 +3889,14 @@ fi
 printf "Ⅰ,英译中${spaces#             }Ⅱ,中译英${spaces#            }Ⅲ,混合"
 while true;do
 read -n 1 mode
-[[  "$mode" == "$LF"  ]] && mode=3 && break
+[[  "$mode" == "$LF"  ]] || [[  "$mode" == "$CR"  ]] || [[  "$mode" == "\x00"  ]] && mode=3 && break
 [[  $mode == 1  ]] || [[  $mode == 2  ]] || [[  $mode == 3  ]] && break
 done
 echo
 printf "Ⅰ,顺序${spaces#           }Ⅱ,倒序${spaces#          }Ⅲ,乱序"
 while true;do
 read -n 1 random
-[[  "$random" == "$LF"  ]] && random=3 && break
+[[  "$random" == "$LF"  ]] || [[  "$random" == "$CR"  ]] || [[  "$random" == "\x00"  ]]  && random=3 && break
 [[  $random == 1  ]] || [[  $random == 2  ]] || [[  $random == 3  ]] && break
 done
 stty -echo
