@@ -49,7 +49,6 @@ EOF
 xzh=`printf  "\xe3\x80\x79"`
 #read xzhmax <<EOF
 #`printf  "\xef\xff\xff"`
-#EOF 32bit ubuntu 最大汉字为逸
 
 xzhmax=`printf "%d" "'Ｚ"`
 
@@ -1006,6 +1005,23 @@ break
 fi
 done
 fi
+[[  $p != ""  ]] && printf "%s$2" "$p"
+}
+
+tprep0()
+{
+  p="$1"
+#if [[  "$ish" == "y"  ]];then
+while true;do
+st=0
+Fresh
+if [[  "$?" -eq 5  ]];then
+p="${p:0:$st}~${p:$st}"
+else
+break
+fi
+done
+#fi
 [[  $p != ""  ]] && printf "%s$2" "$p"
 }
 
@@ -2435,7 +2451,7 @@ fi
 fascanf=
 done
  
-[[  "$fscanf" !=  ""  ]] && fscanf=$(printf "%s" "$fscanf" | tr " " "/" ) && alltxt="$(echo "$alltxt" | grep -e "$fscanf")" 2>/dev/null
+[[  "$fscanf" !=  ""  ]] && fscanf=$(printf "%s" "$fscanf" ) && alltxt="$(echo "$alltxt" | grep -e "$fscanf")" 2>/dev/null
 alltxtn=$(echo "$alltxt" | wc -l)
 [[  "$alltxtn"  -ge $((n/2-1))  ]] && echo "$strs" && return 1 
 [[  "$alltxtn"  -ge 18  ]] && printf "找到${alltxtn}个单词\n" && continue
@@ -2445,7 +2461,7 @@ alltxtn=$(echo "$alltxt" | wc -l)
 pt="$(printf  "$alltxt")"
 while read line ;do
 sleep 0.01
-tprep1 "$(printf "%s" "$line"  | tr -s "	" "  " | tr  "/" " " )" "\n"
+tprep1 "$(printf "%s" "$line"  | tr -s "	" "  " )" "\n"
 done <<EOF
 $pt
 EOF
@@ -3002,7 +3018,7 @@ fi
 answer2="$question"
 pureanswerd="$(printf "\033[1m$answer1\033[0m $answer2")"
 
-question1="$(tprep1 "$question")"
+question1="$(tprep0 "$question")"
 
 la=${#answer1}
 la2=$((${#question1}*2))
@@ -3736,20 +3752,26 @@ printf  "\033[0m\033[?25l"
 [[  "$calenda" == "1"  ]]  && printf "Ⅰ,提词器${spaces#             }Ⅱ,完形填空${spaces#              }Ⅲ,四选一"  &&  read  premode
 [[  "$calenda" != "1"  ]]  && printf "Ⅰ,提词器${spaces#             }Ⅱ,完形填空${spaces#              }Ⅲ,四选一"  &&  read  premode
 stty -echo
-if [[  "${premode:-1}" -eq "2"  ]];then
+if [[  "${premode:-1}" == "2"  ]];then
 _FUN
 return 0
-elif [[  "${premode:-1}" -eq "3"  ]];then
+elif [[  "${premode:-1}" == "3"  ]];then
 FUN_
 return 0
 fi
 printf "Ⅰ,英译中${spaces#             }Ⅱ,中译英${spaces#            }Ⅲ,混合"
+while true;do
 read -n 1 mode
-[[  "$mode" == $LF  ]] && mode=3
+[[  "$mode" == $LF  ]] && mode=3 && break
+[[  $mode == 1  ]] || [[  $mode == 2  ]] || [[  $mode == 3  ]] && break
+done
 echo
 printf "Ⅰ,顺序${spaces#           }Ⅱ,倒序${spaces#          }Ⅲ,乱序"
+while true;do
 read -n 1 random
-[[  "$random" == $LF  ]] && random=3
+[[  "$random" == $LF  ]] && random=3 && break
+[[  $random == 1  ]] || [[  $random == 2  ]] || [[  $random == 3  ]] && break
+done
 echo 
 ii=99
 [[  "$passd" -eq 1   ]] && [[  "$calenda" == "1"  ]] && ii=9999
@@ -3800,7 +3822,7 @@ pureanswe=$(printf "%s" "$txt"| sed -n "$No,${No}p" )
 answer1="$(printf "%s" "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
 answer2="$(printf "%s" "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
 
-question1="$(tprep1 "$question")"
+question1="$(tprep0 "$question")"
 
 la=${#answer1}
 la2=$((${#question1}*2))
@@ -3887,7 +3909,7 @@ pureanswe=$(printf "%s" "$txt" | sed -n "$m2,${m2}p")
 answer1="$(printf "%s" "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
 answer2="$(printf "%s" "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
 
-question1="$(tprep1 "$question")"
+question1="$(tprep0 "$question")"
 
 la=${#answer1}
 la2=$((${#question1}*2))
@@ -4076,7 +4098,7 @@ fi
 eval question=\${lr$m}
  echo  "${strs}"
 question="$(echo $question | tr '/' ' ')" 
-question1="$(tprep1 "$question")"
+question1="$(tprep0 "$question")"
 
 [[  "$((m%2))" -eq 0  ]] && eval  pureanswe="\${lr$((m-1))}'	'\${lr$m}"
 [[  "$((m%2))" -eq 1  ]] && eval pureanswe="\${lr$m}'	'\${lr$((m+1))}"
@@ -4164,7 +4186,7 @@ eval question=\${lr$m2}
 question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
 
 eval  pureanswe="\${lr$((m2-1))}'	'\${lr$m2}"
-question1="$(tprep1 "$question")"
+question1="$(tprep0 "$question")"
 answer1=`echo "$pureanswe" | awk -F'	' '{printf $1}' | tr '/' ' '`
 answer2=`echo "$pureanswe" | awk -F'	' '{printf $2}' | tr '/' ' ' `
 
