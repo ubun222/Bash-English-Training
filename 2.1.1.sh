@@ -234,7 +234,7 @@ read -r -d "\\"  -u 3 aetxt
 
 if [[  "$aetxt" =~ "	"  ]] ;then
 targets=$targets' '${line}
-aetxt="$(printf "%s" "$aetxt"  | tr ' ' '/')"
+aetxt="$(printf "%s" "$aetxt")"
 
 if [[  "$Json" -eq 1  ]];then
 txtjson="${line%%txt}json"
@@ -254,7 +254,7 @@ fi
 
 while read line ;do
 
-if [[  "$line" =~ "	"  ]] ;then
+if [[  "${line}" == ['\ '-~]*[\	]*[^\	-~]*  ]] ;then
 eetxt="$line"
 [[  "$etxt" != ""  ]]  &&  etxt="$etxt
 $eetxt"
@@ -328,7 +328,7 @@ if [[  "$aetxt" =~ "	"  ]] ;then
 targets=$targets' '${line}
 
 
-aetxt="$(printf "%s" "$aetxt"  | tr ' ' '/')"
+aetxt="$(printf "%s" "$aetxt")"
 
 if [[  "$Json" -eq 1  ]];then
 txtjson="${line%%txt}json"
@@ -347,7 +347,7 @@ fi
 
 while read line ;do
 
-if [[  "$line" =~ "	"  ]] ;then
+if [[  "${line}" =~ ['\ '-~]*[\	]*[^\	-~]*  ]]  ;then
 eetxt="$line"
 
 else
@@ -867,7 +867,7 @@ outputed=${output5:-0}
 fi
 [[ ${#str} -eq 25 ]] && str=
 
-lleft=$(echo "$line" | awk '{printf $1}' | tr "/" " " )
+lleft=$(echo "$line" | awk '{printf $1}' )
 right="$(echo "$thetxt" | sed -n "$list,${list}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
 right=${right:-/}
 alldata="$lleft $right"
@@ -2585,12 +2585,12 @@ outputed=${output5:-0}
 [[  "$COLUMN" -le 30  ]] && printf "%s\r" "${output}%"
 fi
 [[ ${#str} -eq 25 ]] && str=
-lleft=$(printf "%s" "$line" | awk '{printf $1}' | tr "/" " " )
+lleft=$(printf "%s" "$line" | awk '{printf $1}' )
 
 right="$(printf "%s" "$allrw"  | sed -n "$wlist,${wlist}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
 
 right=${right:-/}
-aline="$(printf "%s" "${line}" | tr -s "	" | tr "	" " " | tr "/" " " )"
+aline="$(printf "%s" "${line}" | tr -s "	" | tr "	" " " )"
 alldata="$lleft $right"
 list=$((list+1))
 wlist=$((wlist+1))
@@ -3773,7 +3773,7 @@ read -n 1 random
 [[  $random == 1  ]] || [[  $random == 2  ]] || [[  $random == 3  ]] && break
 done
 echo 
-ii=99
+ii=9999
 [[  "$passd" -eq 1   ]] && [[  "$calenda" == "1"  ]] && ii=9999
 printf "\033[0m"
 number0=0;
@@ -3815,12 +3815,12 @@ fi
 if [[  $passd -eq 1  ]] ;then
 m="$(echo "$rangem" | sed -n "$m,${m}p")"
 fi
-question=$(echo "$longtxt" | sed -n "$m,${m}p" | tr '/' ' ')
+question=$(echo "$longtxt" | sed -n "$m,${m}p" )
  echo  "${strs}"
 No=$(($((m/2))+$((m%2))))
 pureanswe=$(printf "%s" "$txt"| sed -n "$No,${No}p" )
-answer1="$(printf "%s" "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
-answer2="$(printf "%s" "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
+answer1="$(printf "%s" "$pureanswe" | awk 'BEGIN{FS="	"}{printf $1}' )"
+answer2="$(printf "%s" "$pureanswe" | awk 'BEGIN{FS="	"}{printf $NF}' )"
 
 question1="$(tprep0 "$question")"
 
@@ -3906,8 +3906,8 @@ question=$(echo "$txt"| sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}' | tr '/
  #stty -echo
 pureanswe=$(printf "%s" "$txt" | sed -n "$m2,${m2}p")
 
-answer1="$(printf "%s" "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
-answer2="$(printf "%s" "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
+answer1="$(printf "%s" "$pureanswe" | awk 'BEGIN{FS="	"}{printf $1}' )"
+answer2="$(printf "%s" "$pureanswe" | awk 'BEGIN{FS="	"}{printf $NF}' )"
 
 question1="$(tprep0 "$question")"
 
@@ -3976,12 +3976,12 @@ if [[  $passd -eq 1  ]] ;then
 fi
 
 
-question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}' | tr '/' ' ')
+question=$(echo "$txt" | sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $1}')
  echo  "${strs}"
 pureanswe=$(printf "%s" "$txt" | sed -n "$m2,${m2}p" )
 
-answer1="$(printf "%s" "$pureanswe" | awk '{printf $1}' | tr '/' ' ')"
-answer2="$(printf "%s" "$pureanswe" | awk '{printf $2}' | tr '/' ' ')"
+answer1="$(printf "%s" "$pureanswe" | awk 'BEGIN{FS="	"}{printf $1}' )"
+answer2="$(printf "%s" "$pureanswe" | awk 'BEGIN{FS="	"}{printf $NF}' )"
 
 la=${#question}
 la2=$((${#answer2}*2))
@@ -4046,12 +4046,18 @@ FUN_
 return 0
 fi
 printf "Ⅰ,英译中${spaces#             }Ⅱ,中译英${spaces#            }Ⅲ,混合"
+while true;do
 read -n 1 mode
-[[  "$mode" == $LF  ]] && mode=3
+[[  "$mode" == $LF  ]] || [[  "$mode" == "$CR"  ]] || [[  "$mode" == ""  ]] && mode=3 && break
+[[  $mode == 1  ]] || [[  $mode == 2  ]] || [[  $mode == 3  ]] && break
+done
 echo
 printf "Ⅰ,顺序${spaces#           }Ⅱ,倒序${spaces#          }Ⅲ,乱序"
+while true;do
 read -n 1 random
-[[  "$random" == $LF  ]] && random=3
+[[  "$random" == $LF  ]] || [[  "$random" == "$CR"  ]] || [[  "$random" == ""  ]]  && random=3 && break
+[[  $random == 1  ]] || [[  $random == 2  ]] || [[  $random == 3  ]] && break
+done
 echo 
 [[  "$passd" -ne 1   ]] && printf "需要多少题目:"  && read ii
 stty -echo
@@ -4097,14 +4103,14 @@ m="$(echo "$rangem" | sed -n "$m,${m}p")"
 fi
 eval question=\${lr$m}
  echo  "${strs}"
-question="$(echo $question | tr '/' ' ')" 
+question="$(echo $question)" 
 question1="$(tprep0 "$question")"
 
 [[  "$((m%2))" -eq 0  ]] && eval  pureanswe="\${lr$((m-1))}'	'\${lr$m}"
 [[  "$((m%2))" -eq 1  ]] && eval pureanswe="\${lr$m}'	'\${lr$((m+1))}"
 
-answer1=`echo "$pureanswe" | awk -F'	' '{printf $1}' | tr '/' ' '  `
-answer2=`echo "$pureanswe" | awk -F'	' '{printf $2}' | tr '/' ' ' `
+answer1=`echo "$pureanswe" | awk 'BEGIN{FS="	"}{printf $1}'  `
+answer2=`echo "$pureanswe" | awk 'BEGIN{FS="	"}{printf $NF}' `
 
 
 la=${#answer1}
@@ -4187,8 +4193,8 @@ question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长
 
 eval  pureanswe="\${lr$((m2-1))}'	'\${lr$m2}"
 question1="$(tprep0 "$question")"
-answer1=`echo "$pureanswe" | awk -F'	' '{printf $1}' | tr '/' ' '`
-answer2=`echo "$pureanswe" | awk -F'	' '{printf $2}' | tr '/' ' ' `
+answer1=`echo "$pureanswe" | awk 'BEGIN{FS="	"}{printf $1}' | tr '/' ' '`
+answer2=`echo "$pureanswe" | awk 'BEGIN{FS="	"}{printf $NF}' | tr '/' ' ' `
 
 la=${#answer1}
 la2=$((${#question1}*2))
@@ -4267,8 +4273,8 @@ question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长
 
 eval pureanswe="\${lr$m2}'	'\${lr$((m2+1))}"
 
-answer1=`echo "$pureanswe" | awk -F'	' '{printf $1}' | tr '/' ' ' `
-answer2=`echo "$pureanswe" | awk -F'	' '{printf $2}' | tr '/' ' ' `
+answer1=`echo "$pureanswe" | awk 'BEGIN{FS="	"}{printf $1}' | tr '/' ' ' `
+answer2=`echo "$pureanswe" | awk 'BEGIN{FS="	"}{printf $NF}' | tr '/' ' ' `
 pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
 la=${#question}
 la2=$((${#answer2}*2))
@@ -4309,9 +4315,9 @@ eval rp=\${$p:-nul}
 (cat < ${rp} ) >&/dev/null
 catable=$?
 if [[  $catable -eq 0  ]];then
-txt="$(cat ${rp} |  grep -a  -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )
+txt="$(cat ${rp} |  grep -a  -B99999 \\\\   | tr -d '\\' )
 $txt"
-
+txt="$(printf "%s" "$txt" | grep "\b[' '-~].*[	].*[^'	'-~].*")\b"
        # txt=${txt%% }
 retargets=${rp}' '${retargets}
        # txt=${txt%%@}
@@ -4364,9 +4370,9 @@ key2=$?
 
 if [[  $key2 -eq 0  ]] && [[  "$target"  !=  ''  ]] ;then
 targets=$targets' '$target
-txt="$(cat ${target} |  grep -a  -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )
+txt="$(cat ${target} |  grep -a  -B99999 \\\\   | tr -d '\\' )
 $txt"
-txt=$(echo "$txt" | grep "	")
+txt="$(printf "%s" "$txt" | grep "\b[' '-~].*[	].*[^'	'-~].*\b" )"
 lastn=$n
 n=$(echo "${txt}" | wc -l)
 n=$((n*2))
