@@ -347,7 +347,7 @@ fi
 
 while read line ;do
 
-if [[  "${line}" =~ ['\ '-~]*[\	]*[^\	-~]*  ]]  ;then
+if [[  "${line}" == ['\ '-~]*[\	]*[^\	-~]*  ]]  ;then
 eetxt="$line"
 
 else
