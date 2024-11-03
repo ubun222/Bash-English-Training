@@ -867,11 +867,11 @@ outputed=${output5:-0}
 fi
 [[ ${#str} -eq 25 ]] && str=
 
-lleft=$(echo "$line" | awk '{printf $1}' )
+lleft=$(echo "$line" | awk 'BEGIN{FS="	"}{printf $1}' )
 right="$(echo "$thetxt" | sed -n "$list,${list}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
 right=${right:-/}
 alldata="$lleft $right"
-aline="$(printf "%s" "${line}" | tr -s  "	" | tr " 	" " " | tr "/" " " )"
+aline="$(printf "%s" "${line}" | tr -s  "	" | tr " 	" " " )"
 if [[  "$alldata" == "$aline" ]] ;then
 eval lr$wlist="$(echo "\$lleft")" #eval的空格需要''才能赋值，否则被视为命令行中的空格
 eval lr$((wlist+1))="$(echo "\$right")"
@@ -2530,8 +2530,7 @@ _verify()
 {
 
 
-if [[ $verify = y || $verify = Y  ]];then
-
+if [[  $verify == y  ]] ||  [[  $verify == Y  ]];then
 struct
     c="$(echo "$targets" | tr " " "\n" )"
    # cnum="$(echo "$c" | wc -l)"
@@ -2557,7 +2556,7 @@ done <<EOF
 $c
 EOF
 
-allrw=$(echo "$allrw" | tr  ' ' '/' )
+#allrw=$(echo "$allrw")
 nn=$((n/2))
 list=1
 cha=$((n/2))
@@ -2585,13 +2584,14 @@ outputed=${output5:-0}
 [[  "$COLUMN" -le 30  ]] && printf "%s\r" "${output}%"
 fi
 [[ ${#str} -eq 25 ]] && str=
-lleft=$(printf "%s" "$line" | awk '{printf $1}' )
+lleft=$(printf "%s" "$line" | awk  'BEGIN{FS="	"}{printf $1}' )
 
-right="$(printf "%s" "$allrw"  | sed -n "$wlist,${wlist}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
+right="$(printf "%s" "$allrw"  | sed -n "$wlist,${wlist}p" | awk 'BEGIN{FS="	"}{printf $NF}' )"
 
 right=${right:-/}
 aline="$(printf "%s" "${line}" | tr -s "	" | tr "	" " " )"
 alldata="$lleft $right"
+printf "$alldata"\\n
 list=$((list+1))
 wlist=$((wlist+1))
 if [[  "$alldata" == "$aline" ]] ;then
