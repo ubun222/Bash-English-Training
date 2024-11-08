@@ -2112,7 +2112,7 @@ printf "\n\r\033[0m"
 FIND
 scanf=
 stty -echo
-printf "\033[1m$question"\\033[3m\\033[2m\ \‹───\›\ \\\033[0m #ishprt已不需要
+printf "\033[1m$question"\\033[3m\\033[2m\ \‹———\›\ \\\033[0m #ishprt已不需要
   scanfd=
   thelast=
   bd=
@@ -2281,9 +2281,9 @@ bots="$bot"
 FIND
 scanf=
 if [[  "$premode" -eq 1  ]] || [[  "$premode" == ""  ]];then
-ishprt "$question"\\033[3m\ \‹───\›\ "\033[0m$bots"\\r
+ishprt "$question"\\033[3m\ \‹———\›\ "\033[0m$bots"\\r
 [[  $COLUMN -lt $length  ]] && ishprt "\033[$(($((length-1))/COLUMN))A"
-ishprt "\033[1m$question\033[0m\033[2m"\\033[3m\ \‹───\›\ "\033[0m"
+ishprt "\033[1m$question\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
 continue
 elif [[  "$premode" -eq 2  ]];then
 printf "%s"  "$inquiry"
@@ -2990,7 +2990,7 @@ pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
 
 answer1="$question"
 
-printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \‹───\›\ "\033[0m"
+printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
 Readzh
 elif [[  $mode -eq 2  ]] || ( [[  $mode -eq 3  ]]  && [[   "$((m2%2))" -eq 0   ]] );then
 [[  $mode -eq 2  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $NF}' | tr '/' ' ')"
@@ -3029,9 +3029,9 @@ fi
 done
 length=$((la+la2+7))
 
-printf  "\033[0m$question1"\\033[3m\ \‹───\›\ "\033[0m$bot"\\r
+printf  "\033[0m$question1"\\033[3m\ \‹———\›\ "\033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹───\›\ "\033[0m"
+printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
 Readen
 
 fi
@@ -3837,7 +3837,7 @@ if [[  "$question" == "$answer1"  ]] ;then
 
 answer=$answer2
 pureanswerd="$(printf "\033[0m$answer1 \033[1m$answer2\033[0m")"
-printf "\033[1m%s\033[0m\033[2m"\\033[3m\ \‹───\›\ "\033[0m" "$question"
+printf "\033[1m%s\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m" "$question"
 Readzh
 
 
@@ -3849,9 +3849,9 @@ for t in `seq $iq`;do
 bot="$bot"-
 done
 
-printf  "\033[0m$question1"\\033[3m\ \‹───\›\ "\033[0m$bot"\\r
+printf  "\033[0m$question1"\\033[3m\ \‹———\›\ "\033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹───\›\ "\033[0m"
+printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
 Readen
 
 
@@ -3924,9 +3924,9 @@ iq=${#answer1}
 for t in `seq $iq`;do
 bot="$bot"-
 done
-printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹───\›\ "\033[0m$bot"\\r
+printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹───\›\ "\033[0m"
+printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
 Readen
 
 
@@ -3992,7 +3992,7 @@ fi
 done
 length=$((la+la2+7))
 pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
-printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \‹───\›\ "\033[0m"
+printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
 Readzh
 
 
@@ -4124,7 +4124,7 @@ length=$((la+la2+7))
 if [[ "$question" = "$answer1" ]] ;then
 answer="$answer2"
 pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
-printf "\033[1m$question\033[2m"\\033[3m\ \‹───\›\ "\033[0m"
+printf "\033[1m$question\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
 Readzh
 else
 answer=$answer1
@@ -4133,9 +4133,9 @@ iq=${#answer1}
 for t in `seq $iq`;do
 bot="$bot"-
 done
-printf  "\033[0m$question1"\\033[3m\ \‹───\›\ "\033[0m$bot"\\r
+printf  "\033[0m$question1"\\033[3m\ \‹———\›\ "\033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹───\›\ "\033[0m"
+printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
 Readen
 
 
@@ -4211,9 +4211,9 @@ iq=${#answer1}
 for t in `seq $iq`;do
 bot="$bot"-
 done
-printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹───\›\ "\033[0m$bot"\\r
+printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹───\›\ "\033[0m"
+printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
 Readen
 
 
@@ -4285,7 +4285,7 @@ fi
 done
 length=$((la+la2+7))
 m2=$(($((m2+1))/2))
-printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \‹───\›\ "\033[0m"
+printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
 Readzh
 
 bot=

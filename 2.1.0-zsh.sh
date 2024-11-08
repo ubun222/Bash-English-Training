@@ -241,7 +241,7 @@ read -r -d "\\"  -u 3 aetxt
 
 if [[  "$aetxt" =~ "	"  ]] ;then
 targets=$targets' '${line}
-aetxt="$(printf "%s" "$aetxt"  | tr ' ' '/')"
+aetxt="$(printf "%s" "$aetxt")"
 
 if [[  "$Json" -eq 1  ]];then
 txtjson="${line%%txt}json"
@@ -336,7 +336,7 @@ if [[  "$aetxt" =~ "	"  ]] ;then
 targets=$targets' '${line}
 
 
-aetxt="$(printf "%s" "$aetxt"  | tr ' ' '/')"
+aetxt="$(printf "%s" "$aetxt" )"
 
 if [[  "$Json" -eq 1  ]];then
 txtjson="${line%%txt}json"
@@ -2094,7 +2094,7 @@ printf "\n\r\033[0m"
 FIND
 scanf=
 stty -echo
-printf "\033[1m$question\033[3m\033[2m ‹───› \033[0m" #ishprt已不需要
+printf "\033[1m$question\033[3m\033[2m ‹———› \033[0m" #ishprt已不需要
   scanfd=
   thelast=
   bd=
@@ -2263,9 +2263,9 @@ bots="$bot"
 FIND
 scanf=
 if [[  "$premode" -eq 1  ]] || [[  "$premode" == ""  ]];then
-ishprt "$question\033[3m ‹───› \033[0m$bots\r"
+ishprt "$question\033[3m ‹———› \033[0m$bots\r"
 [[  $COLUMN -lt $length  ]] && ishprt "\033[$(($((length-1))/COLUMN))A"
-ishprt "\033[1m$question\033[0m\033[2m\033[3m ‹───› \033[0m"
+ishprt "\033[1m$question\033[0m\033[2m\033[3m ‹———› \033[0m"
 continue
 elif [[  "$premode" -eq 2  ]];then
 printf "%s"  "$inquiry"
@@ -2973,7 +2973,7 @@ pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
 
 answer1="$question"
 
-printf "\033[1m$question\033[0m\033[2m\033[3m ‹───› \033[0m"
+printf "\033[1m$question\033[0m\033[2m\033[3m ‹———› \033[0m"
 Readzh
 elif [[  $mode -eq 2  ]] || ( [[  $mode -eq 3  ]]  && [[   "$((m2%2))" -eq 0   ]] );then
 [[  $mode -eq 2  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $NF}' | tr '/' ' ')"
@@ -3012,9 +3012,9 @@ fi
 done
 length=$((la+la2+7))
 
-printf  "\033[0m$question1"\\033[3m ‹───› "\033[0m$bot"\\r
+printf  "\033[0m$question1"\\033[3m ‹———› "\033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question1\033[0m\033[2m\033[3m ‹───› \033[0m"
+printf "\033[1m$question1\033[0m\033[2m\033[3m ‹———› \033[0m"
 Readen
 
 fi
@@ -3827,7 +3827,7 @@ if [[  "$question" == "$answer1"  ]] ;then
 
 answer=$answer2
 pureanswerd="$(printf "\033[0m$answer1 \033[1m$answer2\033[0m")"
-printf "\033[1m%s\033[0m\033[2m\033[3m ‹───› \033[0m" "$question"
+printf "\033[1m%s\033[0m\033[2m\033[3m ‹———› \033[0m" "$question"
 Readzh
 
 
@@ -3839,9 +3839,9 @@ for t in `seq $iq`;do
 bot="$bot"-
 done
 
-printf  "\033[0m$question1\033[3m ‹───› \033[0m$bot"
+printf  "\033[0m$question1\033[3m ‹———› \033[0m$bot"
 [[  $COLUMN -lt $length  ]] && printf "\r\033[$(($((length-1))/COLUMN))A"
-printf "\r\033[1m$question1\033[0m\033[2m\033[3m ‹───› \033[0m"
+printf "\r\033[1m$question1\033[0m\033[2m\033[3m ‹———› \033[0m"
 Readen
 
 
@@ -3914,9 +3914,9 @@ iq=${#answer1}
 for t in `seq $iq`;do
 bot="$bot"-
 done
-printf "\033[1m$question1\033[0m\033[2m\033[3m ‹───› \033[0m$bot"\\r
+printf "\033[1m$question1\033[0m\033[2m\033[3m ‹———› \033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question1\033[0m\033[2m\033[3m ‹───› \033[0m"
+printf "\033[1m$question1\033[0m\033[2m\033[3m ‹———› \033[0m"
 Readen
 
 
@@ -3982,7 +3982,7 @@ fi
 done
 length=$((la+la2+7))
 pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
-printf "\033[1m$question\033[0m\033[2m\033[3m ‹───› \033[0m"
+printf "\033[1m$question\033[0m\033[2m\033[3m ‹———› \033[0m"
 Readzh
 
 
@@ -4035,12 +4035,18 @@ FUN_
 return 0
 fi
 printf "Ⅰ,英译中${spaces#             }Ⅱ,中译英${spaces#            }Ⅲ,混合"
+while true;do
 read -k 1 mode
-[[  `ccat $mode` == `ccat $x0d`  ]] || [[  `ccat $mode` == `ccat $LF`  ]] && mode=3
+[[  `ccat $mode` == `ccat $x0d`  ]] || [[  `ccat $mode` == `ccat $LF`  ]] && mode=3 && break
+[[  $mode == 1  ]] || [[  $mode == 2  ]] || [[  $mode == 3  ]] && break
+done
 echo
 printf "Ⅰ,顺序${spaces#           }Ⅱ,倒序${spaces#          }Ⅲ,乱序"
+while true;do
 read -k 1 random
-[[  `ccat $random` == `ccat $x0d`  ]] || [[  `ccat $random` == `ccat $LF`  ]] && random=3
+[[  `ccat $random` == `ccat $x0d`  ]] || [[  `ccat $random` == `ccat $LF`  ]] && random=3 && break
+[[  $random == 1  ]] || [[  $random == 2  ]] || [[  $random == 3  ]] && break
+done
 echo 
 [[  "$passd" -ne 1   ]] && printf "需要多少题目:"  && read ii
 stty -echo
@@ -4107,7 +4113,7 @@ length=$((la+la2+7))
 if [[ "$question" = "$answer1" ]] ;then
 answer="$answer2"
 pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
-printf "\033[1m$question\033[2m"\\033[3m ‹───› "\033[0m"
+printf "\033[1m$question\033[2m"\\033[3m ‹———› "\033[0m"
 Readzh
 else
 answer=$answer1
@@ -4116,9 +4122,9 @@ iq=${#answer1}
 for t in `seq $iq`;do
 bot="$bot"-
 done
-printf  "\033[0m$question1"\\033[3m ‹───› "\033[0m$bot"\\r
+printf  "\033[0m$question1"\\033[3m ‹———› "\033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question1\033[0m\033[2m\033[3m ‹───› \033[0m"
+printf "\033[1m$question1\033[0m\033[2m\033[3m ‹———› \033[0m"
 Readen
 
 
@@ -4194,9 +4200,9 @@ iq=${#answer1}
 for t in `seq $iq`;do
 bot="$bot"-
 done
-printf "\033[1m$question1\033[0m\033[2m\033[3m ‹───› \033[0m$bot"\\r
+printf "\033[1m$question1\033[0m\033[2m\033[3m ‹———› \033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question1\033[0m\033[2m\033[3m ‹───› \033[0m"
+printf "\033[1m$question1\033[0m\033[2m\033[3m ‹———› \033[0m"
 Readen
 
 
@@ -4268,7 +4274,7 @@ fi
 done
 length=$((la+la2+7))
 m2=$(($((m2+1))/2))
-printf "\033[1m$question\033[0m\033[2m\033[3m ‹───› \033[0m"
+printf "\033[1m$question\033[0m\033[2m\033[3m ‹———› \033[0m"
 Readzh
 
 bot=
@@ -4298,7 +4304,7 @@ eval rp=\${$p:-nul}
 (cat < ${rp} ) >&/dev/null
 catable=$?
 if [[  $catable -eq 0  ]];then
-txt="$(cat ${rp} |  grep -a  -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )
+txt="$(cat ${rp} |  grep -a  -B99999 \\\\  | tr -d '\\' )
 $txt"
 
        # txt=${txt%% }
@@ -4354,7 +4360,7 @@ key2=$?
 
 if [[  $key2 -eq 0  ]] && [[  "$target"  !=  ''  ]] ;then
 targets=$targets' '$target
-txt="$(cat ${target} |  grep -a  -B99999 \\\\  | tr ' ' '/'  | tr -d '\\' )
+txt="$(cat ${target} |  grep -a  -B99999 \\\\  | tr -d '\\' )
 $txt"
 txt=$(echo "$txt" | grep "	")
 lastn=$n
