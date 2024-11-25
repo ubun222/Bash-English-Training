@@ -51,7 +51,7 @@ line="$(printf "$line" | sed -e s/"\t"/"\\\t"/g)"
 refd="$(printf "$refd" | sed -e s/"\t"/"\\\t"/g -e s/'&'/'\\&'/g)"
 #eval printf "$refd"
 if [[  $onlytxt -ne 1  ]] ;then
-(eval sed -i\"\" \"s/$line/$refd/\" "$txt1" ||eval  sed -i \"\" \"s/$line/$refd/\" "$txt1" ) 2>/dev/null
+(eval sed -i\"\" \"s/\^$line\$/$refd/\" "$txt1" | eval  sed -i \"\" \"s/\^$line\$/$refd/\" "$txt1" ) 2>/dev/null
 fi
 if [[  $notxt -ne 1  ]] ;then
   ylineraw=

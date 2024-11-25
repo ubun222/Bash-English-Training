@@ -1,24 +1,27 @@
 ## 自制的英语单词提词器
 
 #### 需求
-* bash
+<details>
+<summary>bash</summary>
 1. ish需要apk add bash
 2. termux自带bash
 3. macOS自带的bash版本没更新，需要用brew安装一下最新版本
 4. wsl1和2均自带
-
-* zsh
+</details>
+<details>
+<summary>zsh</summary>
 1. ish需要apk add zsh后使用
 2. termux需要apt install zsh后使用
 3. macOS可直接运行
 4. wsl12需要apt install zsh
-
-* ash 
+</details>
+<details>
+<summary>ash</summary>
 1. ish自带ash
 2. termux需要从Apline Linux官网下载minirootfs(3MB)解压后运行proot -0 -w / -r ./alpine后使用
 3. macOS需要docker
 4. wsl从store下载Apline Linux或者用wsl --import Alpine C:\WSL\Alpine C:\WSL\Alpine\rootfs.tar.gz来运行
-
+</details>
 #### 开始
 1. IOS下载ish，安卓下载Termux，都是很好用的手机终端app。
 2. ish
@@ -28,7 +31,7 @@ apk add git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
 bash 
-./2.0.9.sh -api  # 答题辅助 通关模式 优化ish
+./2.1.1.sh -api  # 答题辅助 通关模式 优化ish
 ```
 3. Termux
 ```
@@ -36,7 +39,7 @@ apt-get install git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
 bash 
-./2.0.9.sh -ap  # 答题辅助 通关模式
+./2.1.1.sh -ap  # 答题辅助 通关模式
 ```
 4. 若安装git或bash失败，请先update和upgrade包管理命令。
 5. json翻译还需要另外安装gawk，可能自带的awk无法使用trans。
@@ -73,7 +76,7 @@ subscribe	v.捐款，订阅，签署(文件)，赞成，预订
 ```
 2. 只需要输入除()<>内的中文即可，答案会自动生成。
 ```
-./2.0.9.sh -apr -t notxt ./day64.txt #ish要加-i 
+./2.1.1.sh -apr -t notxt ./day64.txt #ish要加-i 
 ```
 ##### 1.x.x：
 1. txt内均为该格式
