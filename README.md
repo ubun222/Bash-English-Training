@@ -3,6 +3,7 @@
 #### 需求
 <details>
 <summary>bash</summary>
+
 1. ish需要apk add bash
 
 2. termux自带bash
@@ -13,6 +14,7 @@
 </details>
 <details>
 <summary>zsh</summary>
+
 1. ish需要apk add zsh后使用
 
 2. termux需要apt install zsh后使用
@@ -23,6 +25,7 @@
 </details>
 <details>
 <summary>ash</summary>
+
 1. ish自带ash
 
 2. termux需要从Apline Linux官网下载minirootfs(3MB)解压后运行proot -0 -w / -r ./alpine后使用
