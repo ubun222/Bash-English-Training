@@ -4,35 +4,35 @@
 <details>
 <summary>bash</summary>
 
-1. ish需要apk add bash
+ish: apk add bash
 
-2. termux自带bash
+termux: bash直接运行
 
-3. macOS自带的bash版本没更新，需要用brew安装一下最新版本
+macOS: 自带的bash版本没更新，需要用brew安装一下最新版本
 
-4. wsl1和2均自带
+wsl: 1和2可直接运行
 </details>
 <details>
 <summary>zsh</summary>
 
-1. ish需要apk add zsh后使用
+ish: apk add zsh
 
-2. termux需要apt install zsh后使用
+termux: apt install zsh
 
-3. macOS可直接运行
+macOS: 可直接运行
 
-4. wsl12需要apt install zsh
+wsl12: apt install zsh
 </details>
 <details>
 <summary>ash</summary>
 
-1. ish自带ash
+ish: 自带ash
 
-2. termux需要从Apline Linux官网下载minirootfs(3MB)解压后运行proot -0 -w / -r ./alpine后使用
+termux: Apline Linux官网下载minirootfs(3MB)解压后运行proot -0 -w / -r ./alpine后使用
 
-3. macOS需要docker
+macOS: docker
 
-4. wsl从store下载Apline Linux或者用wsl --import Alpine C:\WSL\Alpine C:\WSL\Alpine\rootfs.tar.gz来运行
+wsl: 从store下载Apline Linux或者用wsl --import Alpine C:\WSL\Alpine C:\WSL\Alpine\rootfs.tar.gz来运行
 </details>
 
 #### 开始
