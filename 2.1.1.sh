@@ -769,8 +769,16 @@ cd "$thepath"
     while read atarget ;do
     #echo $atarget
 [[  ${atarget} == ""  ]] &&  continue
-[[ ! -e ${atarget}  ]] && echo \\\\\\\\\\\\ >"$atarget" 
-    
+[[ ! -e ${atarget}  ]] && echo  >"$atarget" 
+ifnull="$(cat "${atarget}" | uniq  )"
+if [[  "$ifnull" == ""  ]];then
+echo  >"$atarget"  #sed在文件空时无法添加行
+else
+echo "$ifnull" >"$atarget"  #整理文件
+fi
+
+
+
     eval rw$RWN="${atarget}"
     RWN=$((RWN+1))
 if [[  $txtp -eq 2  ]];then
@@ -799,8 +807,16 @@ RWN=1
  [[ !  -d ./CORRECT  ]]  && echo 在当前目录创建CORRECT/allinone.txt && mkdir CORRECT
 
 while read atarget ;do
-    [[ ! -e ./CORRECT/allinone.txt  ]] &&  echo \\\\\\\\\\\\ > ./CORRECT/allinone.txt
-    
+    [[ ! -e ./CORRECT/allinone.txt  ]] &&  echo > ./CORRECT/allinone.txt
+
+    ifnull="$(cat ./CORRECT/allinone.txt | uniq  )"
+if [[  "$ifnull" == ""  ]];then
+echo  >./CORRECT/allinone.txt  #sed在文件空时无法添加行
+else
+echo "$ifnull" >./CORRECT/allinone.txt #整理文件
+fi
+
+
     chmod 777  ./CORRECT/allinone.txt
     eval rw$RWN=./CORRECT/allinone.txt
     RWN=$((RWN+1))
@@ -812,6 +828,9 @@ EOF
 
 
 fi
+
+
+
 
     #echo "$content"
 }
@@ -1414,7 +1433,7 @@ Vlineraw="$(echo  "$content" | grep  "\\b${answer1}\\(ed\\|ing\\|s\\)\\?\\b" | g
 
 
  aq="$(printf "${answer1}\t\t\t\t\t${answer2}")"
-sed -i""  "1i\\${aq}" "$therw"  || sed -i ""  "1i\\${aq}" "$therw"
+sed -i""  "1s/^/${aq}\n/" "$therw"  || sed -i ""  "1s/^/${aq}\n/" "$therw"
 printf "\n$Ylineraw\n$Vlineraw\n\n" >> $therw
 [[  $premode -ne 3  ]] && printf "$Thestdout"
 [[  $premode -eq 3  ]] && printf "$Thestdout"
@@ -2809,8 +2828,8 @@ RC=
 m=$(($RANDOM%${m}+1))
  [[  "$passd" -eq 1   ]] && m=$(($RANDOM%${m0}+1))
  [[  "$passd" -eq 1   ]] && m="$(echo "$rangem" | sed -n "$m,${m}p")"
-answer="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
-answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
+answer="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $1}' )"
+answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
 iq=${#answer}
 aiq=$iq
 for t in `seq $iq`;do
@@ -2964,8 +2983,8 @@ m2=$(printf "$rangem" | sed -n "$m,${m}p" )
  echo  "${strs}"
 pureanswe="$(printf "%s" "$txt" | sed -n "$m2,${m2}p" )"
 
-answer1="$(printf "%s" "$pureanswe" | awk  -F"	" '{RS="	"}{print $1}' | tr '/' ' ')"
-answer2="$(printf "%s" "$pureanswe" | awk  -F"	" '{RS="	"}{print $NF}' | tr '/' ' ')"
+answer1="$(printf "%s" "$pureanswe" | awk  -F"	" '{RS="	"}{print $1}' )"
+answer2="$(printf "%s" "$pureanswe" | awk  -F"	" '{RS="	"}{print $NF}' )"
 
 
 
@@ -2985,16 +3004,16 @@ answer2="$answer"
 fi
 
 pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
-[[  $mode -eq 1  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $1}' | tr '/' ' ')"
-[[  $mode -eq 3  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $1}' | tr '/' ' ')"
+[[  $mode -eq 1  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $1}' )"
+[[  $mode -eq 3  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $1}' )"
 
 answer1="$question"
 
 printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
 Readzh
 elif [[  $mode -eq 2  ]] || ( [[  $mode -eq 3  ]]  && [[   "$((m2%2))" -eq 0   ]] );then
-[[  $mode -eq 2  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $NF}' | tr '/' ' ')"
-[[  $mode -eq 3  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $1}' | tr '/' ' ')"
+[[  $mode -eq 2  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $NF}' )"
+[[  $mode -eq 3  ]] && question="$(echo "$txt" | sed -n "$m2,${m2}p" | awk -F"	" '{RS="	"}{print $1}' )"
 bot=
 if [[  $mode -eq 2  ]];then 
   answer="$answer1"
@@ -3113,8 +3132,8 @@ fi
 [[  $mode -eq 3  ]] && [[  $((m%2))  -eq 1  ]] && fbool=1
 [[  $mode -eq 3  ]] && [[  $((m%2))  -eq 0  ]] && fbool=2
 
-answer1="$(echo "$txt" | sed -n "$((m)),${m}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
-answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
+answer1="$(echo "$txt" | sed -n "$((m)),${m}p" | awk 'BEGIN{FS="\t"}{print $1}' )"
+answer2="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
 
 if [[  "$fbool" -eq 1  ]] ;then
 
@@ -3148,9 +3167,9 @@ break
 done
 
 
-am1="$(echo "$txt" | sed -n "${m1},${m1}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
-am2="$(echo "$txt" | sed -n "${m2},${m2}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
-am3="$(echo "$txt" | sed -n "${m3},${m3}p" | awk 'BEGIN{FS="\t"}{print $NF}' | tr '/' ' ')"
+am1="$(echo "$txt" | sed -n "${m1},${m1}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
+am2="$(echo "$txt" | sed -n "${m2},${m2}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
+am3="$(echo "$txt" | sed -n "${m3},${m3}p" | awk 'BEGIN{FS="\t"}{print $NF}' )"
 
 
 insert=$((RANDOM%4+1))
@@ -3239,7 +3258,7 @@ fi
 
 if [[  "$ascanf"  ==  ""  ]] || [[  "$ascanf"  ==  "$CR"  ]] ;then
 [[  "$once" -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
-[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m˗›\033[0m$enter" && continue
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m ›\033[0m$enter" && continue
 printf "$enter"
 break
 fi
@@ -3255,7 +3274,7 @@ fi
 if [[  "$ascanf"  ==  [1234]  ]];then
 sub=$((ascanf-order))
 [[  "$once" -eq 0  ]] && ishprt "\033[$((down5-1))A${enter}"
-[[  "$once" -eq 0  ]] && once=1 && [[  $sub -eq 0  ]] && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m˗›\033[0m$enter" && continue
+[[  "$once" -eq 0  ]] && once=1 && [[  $sub -eq 0  ]] && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m ›\033[0m$enter" && continue
 if [[  $sub -eq 0  ]];then 
 getin=0
 order=$ascanf
@@ -3270,7 +3289,7 @@ while read -n1 WSAD ;do
 [[  "$WSAD" == [ABC]  ]] && break
 done
 [[  "$once" -eq 0  ]] && ishprt "\033[$((down5-1))A${enter}"
-[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m˗›\033[0m$enter"  && continue
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m ›\033[0m$enter"  && continue
 eval theam=\$am$order
 ishprt "$enter$theam"
 eval ishprt "\$down_$order"
@@ -3286,7 +3305,7 @@ printf "\033[${down}B$enter\033[1m"
 ishprt "$theam"
 eval ishprt "\$down_$order"
 printf "$enter\033[0m"
-printf "\033[1m\033[36m˗›\033[0m$enter"
+printf "\033[1m\033[36m ›\033[0m$enter"
 elif [[  "$WSAD" == "A"  ]] ;then
 order=$((order-1))
 eval down=\${down$order}
@@ -3299,7 +3318,7 @@ printf "\033[1m"
 ishprt "$theam"
 eval ishprt "\$down_$order"
 printf "$enter\033[0m"
-printf "\033[1m\033[36m˗›\033[0m$enter"
+printf "\033[1m\033[36m ›\033[0m$enter"
 elif [[  "$WSAD" == "C"  ]] ;then
 break
 fi
@@ -3307,7 +3326,7 @@ fi
 
 if [[  "$ascanf"  ==  ' '  ]] || [[  $getin -gt 0  ]] ;then
  [[  "$once" -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
-[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1"  && ishprt "$enter\033[0m\033[1m\033[36m˗›\033[0m$enter" && continue
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1"  && ishprt "$enter\033[0m\033[1m\033[36m ›\033[0m$enter" && continue
 [[  $getin -gt 0  ]] && getin=$((getin-1))
 eval down=\${down$order}
 order=$((order+1))
@@ -3320,7 +3339,7 @@ printf "\033[${down}B$enter\033[1m"
 printf "$theam"
 eval ishprt "\$down_$order"
 printf "$enter\033[0m"
-printf "\033[1m\033[36m˗›\033[0m$enter"
+printf "\033[1m\033[36m ›\033[0m$enter"
 
 
 elif [[  "$ascanf"  ==  "$D"  ]];then
@@ -3358,7 +3377,7 @@ for ii in $(seq $((order)) 4);do
 eval temp=\$down$ii\+\$temp
 done
 temp=$((temp))
-printf "\033[${temp}A\033[1m\033[36m˗›\033[0m$enter"
+printf "\033[${temp}A\033[1m\033[36m ›\033[0m$enter"
 continue 
 fi
 done
@@ -3367,7 +3386,7 @@ done
 if [[  "$order" -eq "$insert"  ]];then
 orders=0
 theam=${theam/  /}
-printf "$enter\033[0m\033[1m\033[32m˗›\033[0m\033[1m$theam$enter"
+printf "$enter\033[0m\033[1m\033[32m ›\033[0m\033[1m$theam$enter"
 down=0
 one=
 case $order in 
@@ -3399,7 +3418,7 @@ colourp 2>/dev/null
 printf "\033[0m"
 else
 orders=0
-printf "$enter\033[31m%s\033[0m\r" "˗›"
+printf "$enter\033[31m%s\033[0m\r" " ›"
 
 down=0
 one=
@@ -3492,9 +3511,9 @@ break
 done
 
 
-am1="$(echo "$txt" | sed -n "${m1},${m1}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
-am2="$(echo "$txt" | sed -n "${m2},${m2}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
-am3="$(echo "$txt" | sed -n "${m3},${m3}p" | awk 'BEGIN{FS="\t"}{print $1}' | tr '/' ' ')"
+am1="$(echo "$txt" | sed -n "${m1},${m1}p" | awk 'BEGIN{FS="\t"}{print $1}' )"
+am2="$(echo "$txt" | sed -n "${m2},${m2}p" | awk 'BEGIN{FS="\t"}{print $1}' )"
+am3="$(echo "$txt" | sed -n "${m3},${m3}p" | awk 'BEGIN{FS="\t"}{print $1}' )"
 
 insert=$((RANDOM%4+1))
 if [[  "$insert" -eq 1  ]] ;then
@@ -3545,7 +3564,7 @@ fi
 
 if [[  "$ascanf"  ==  ""  ]]  || [[  "$ascanf"  ==  "$CR"  ]];then
 [[  "$once" -eq 0  ]]  && printf "\033[$((down5-1))A${enter}"
-[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m˗›\033[0m$enter" && continue
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m ›\033[0m$enter" && continue
 printf "$enter"
 break
 fi
@@ -3561,7 +3580,7 @@ fi
 if [[  "$ascanf"  ==  [1234]  ]];then
 [[  "$once" -eq 0  ]]  && printf "\033[$((down5-1))A${enter}"
 sub=$((ascanf-order))
-[[  "$once" -eq 0  ]] && once=1 && [[  $sub -eq 0  ]] && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m˗›\033[0m$enter" && continue
+[[  "$once" -eq 0  ]] && once=1 && [[  $sub -eq 0  ]] && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m ›\033[0m$enter" && continue
 if [[  $sub -eq 0  ]];then 
 getin=0
 order=$ascanf
@@ -3577,7 +3596,7 @@ while read -n1 WSAD ;do
 [[  "$WSAD" == [ABC]  ]] && break
 done
 [[  "$once" -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
-[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m˗›\033[0m$enter" && continue
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m ›\033[0m$enter" && continue
 eval theam=\$am$order
 printf "$enter"
 ishprt "  $theam"
@@ -3593,7 +3612,7 @@ eval theam=\$am$order
 printf "\033[${down}B$enter\033[1m"
 ishprt "  $theam"
 printf "$enter\033[0m"
-printf "\033[1m\033[36m˗›\033[0m$enter"
+printf "\033[1m\033[36m ›\033[0m$enter"
 elif [[  "$WSAD" == "A"  ]] ;then
 order=$((order-1))
 eval down=\${down$order}
@@ -3605,7 +3624,7 @@ eval theam=\$am$order
 printf "\033[1m"
 ishprt "  $theam"
 printf "$enter\033[0m"
-printf "\033[1m\033[36m˗›\033[0m$enter"
+printf "\033[1m\033[36m ›\033[0m$enter"
 elif [[  "$WSAD" == "C"  ]] ;then
 break
 fi
@@ -3613,7 +3632,7 @@ fi
 
 if [[  "$ascanf"  ==  ' '  ]] || [[  $getin -gt 0  ]] ;then
 [[  "$once" -eq 0  ]] && ishprt "\033[$((down5-1))A${enter}"
-[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m˗›\033[0m$enter" && continue
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "  $am1"  && ishprt "$enter\033[0m\033[1m\033[36m ›\033[0m$enter" && continue
 [[  $getin -gt 0  ]] && getin=$((getin-1))
 eval down=\${down$order}
 order=$((order+1))
@@ -3624,7 +3643,7 @@ eval theam=\$am$order
 ishprt "\033[${down}B$enter\033[1m"
 ishprt "  $theam"
 printf "$enter\033[0m"
-ishprt "\033[1m\033[36m˗›\033[0m$enter"
+ishprt "\033[1m\033[36m ›\033[0m$enter"
 
 elif [[  "$ascanf"  ==  "$D"  ]];then
 [[  "$once" -eq 0  ]] && printf "\033[K" && printf "\033[$((down5-1))A${enter}" && once=1
@@ -3646,7 +3665,7 @@ for ii in $(seq $((order)) 4);do
 eval temp=\$down$ii\+\$temp
 done
 temp=$((temp))
-printf "\033[${temp}A\033[1m\033[36m˗›\033[0m$enter"
+printf "\033[${temp}A\033[1m\033[36m ›\033[0m$enter"
 continue 
 fi
 done
@@ -3671,7 +3690,7 @@ one=""
 ;;
 esac
 if [[  "$order" -eq "$insert"  ]];then
-printf "\033[1m\033[32m˗›\033[0m\033[1m$answer$enter"
+printf "\033[1m\033[32m ›\033[0m\033[1m$answer$enter"
 isright=1
 abool=
 bool=
@@ -3684,7 +3703,7 @@ colourp 2>/dev/null
 [[  "$abool" == ""  ]] || [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]]   && printf "$one"
 else
 isright=0
-printf "\033[31m%s\033[0m\r" "˗›"
+printf "\033[31m%s\033[0m\r" " ›"
 down=0
 one=
 case $order in 
@@ -3901,7 +3920,7 @@ fi
 if [[  $passd -eq 1  ]] ;then
         m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
 fi
-question=$(echo "$txt"| sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}' | tr '/' ' ')
+question=$(echo "$txt"| sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}' )
  echo  "${strs}"
  #stty -echo
 pureanswe=$(printf "%s" "$txt" | sed -n "$m2,${m2}p")
@@ -4124,7 +4143,7 @@ length=$((la+la2+7))
 if [[ "$question" = "$answer1" ]] ;then
 answer="$answer2"
 pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
-printf "\033[1m$question\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
+printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
 Readzh
 else
 answer=$answer1
@@ -4189,12 +4208,12 @@ fi
 
 eval question=\${lr$m2}
  echo  "${strs}"
-question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
+question="$(echo $question )" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
 
 eval  pureanswe="\${lr$((m2-1))}'	'\${lr$m2}"
 question1="$(tprep0 "$question")"
-answer1=`echo "$pureanswe" | awk 'BEGIN{FS="	"}{printf $1}' | tr '/' ' '`
-answer2=`echo "$pureanswe" | awk 'BEGIN{FS="	"}{printf $NF}' | tr '/' ' ' `
+answer1=`echo "$pureanswe" | awk 'BEGIN{FS="	"}{printf $1}' `
+answer2=`echo "$pureanswe" | awk 'BEGIN{FS="	"}{printf $NF}'  `
 
 la=${#answer1}
 la2=$((${#question1}*2))
@@ -4269,12 +4288,12 @@ fi
 
 eval question=\${lr$m2}
  echo  "${strs}"
-question="$(echo $question | tr '/' ' ')" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
+question="$(echo $question )" #暂时找不到方法在eval变量长语句时把空格赋值，空格会被认为命令的终端导致后面的中文识别为shell的command
 
 eval pureanswe="\${lr$m2}'	'\${lr$((m2+1))}"
 
-answer1=`echo "$pureanswe" | awk 'BEGIN{FS="	"}{printf $1}' | tr '/' ' ' `
-answer2=`echo "$pureanswe" | awk 'BEGIN{FS="	"}{printf $NF}' | tr '/' ' ' `
+answer1=`echo "$pureanswe" | awk 'BEGIN{FS="	"}{printf $1}'  `
+answer2=`echo "$pureanswe" | awk 'BEGIN{FS="	"}{printf $NF}'  `
 pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
 la=${#question}
 la2=$((${#answer2}*2))
@@ -4315,9 +4334,8 @@ eval rp=\${$p:-nul}
 (cat < ${rp} ) >&/dev/null
 catable=$?
 if [[  $catable -eq 0  ]];then
-txt="$(cat ${rp} |  grep -a  -B99999 \\\\   | tr -d '\\' )
+txt="$(cat ${rp} |  grep "\b[' '-~].*[	].*[^'	'-~].*\b" )
 $txt"
-txt="$(printf "%s" "$txt" | grep "\b[' '-~].*[	].*[^'	'-~].*")\b"
        # txt=${txt%% }
 retargets=${rp}' '${retargets}
        # txt=${txt%%@}
@@ -4370,9 +4388,9 @@ key2=$?
 
 if [[  $key2 -eq 0  ]] && [[  "$target"  !=  ''  ]] ;then
 targets=$targets' '$target
-txt="$(cat ${target} |  grep -a  -B99999 \\\\   | tr -d '\\' )
+txt="$(cat ${target} |  grep "\b[' '-~].*[	].*[^'	'-~].*\b"  | tr -d '\\' )
 $txt"
-txt="$(printf "%s" "$txt" | grep "\b[' '-~].*[	].*[^'	'-~].*\b" )"
+txt="$(printf "%s" "$txt" | grep "\t" )"
 lastn=$n
 n=$(echo "${txt}" | wc -l)
 n=$((n*2))

@@ -779,8 +779,14 @@ cd "$thepath"
     while read atarget ;do
     #echo $atarget
 [[  ${atarget} == ""  ]] &&  continue
-[[ ! -e ${atarget}  ]] && echo \\\\\\\\\\\\ >"$atarget" 
-    
+[[ ! -e ${atarget}  ]] && echo >"$atarget" 
+
+ifnull="$(cat "${atarget}" | uniq  )"
+if [[  "$ifnull" == ""  ]];then
+echo  >"$atarget" 
+else
+echo "$ifnull" >"$atarget"
+fi
     eval rw$RWN="${atarget}"
     RWN=$((RWN+1))
 if [[  $txtp -eq 2  ]];then
@@ -809,8 +815,14 @@ RWN=1
  [[ !  -d ./CORRECT  ]]  && echo 在当前目录创建CORRECT/allinone.txt && mkdir CORRECT
 
 while read atarget ;do
-    [[ ! -e ./CORRECT/allinone.txt  ]] &&  echo \\\\\\\\\\\\ > ./CORRECT/allinone.txt
-    
+    [[ ! -e ./CORRECT/allinone.txt  ]] &&  echo  > ./CORRECT/allinone.txt
+    ifnull="$(cat ./CORRECT/allinone.txt | uniq  )"
+if [[  "$ifnull" == ""  ]];then
+echo  >./CORRECT/allinone.txt
+else
+echo "$ifnull" >./CORRECT/allinone.txt
+fi
+
     chmod 777  ./CORRECT/allinone.txt
     eval rw$RWN=./CORRECT/allinone.txt
     RWN=$((RWN+1))
@@ -1424,7 +1436,7 @@ Vlineraw="$(echo  "$content" | grep  "\\b${answer1}\\(ed\\|ing\\|s\\)\\?\\b" | g
 
 
  aq="$(printf "${answer1}\t\t\t\t\t${answer2}")"
-sed -i""  "1i\\${aq}" "$therw"  || sed -i ""  "1i\\${aq}" "$therw"
+sed -i""  "1s/^/${aq}\n/" "$therw"  || sed -i ""  "1s/^/${aq}\n/" "$therw"
 printf "\n$Ylineraw\n$Vlineraw\n\n" >> $therw
 [[  $premode -ne 3  ]] && printf "$Thestdout"
 [[  $premode -eq 3  ]] && printf "$Thestdout"
@@ -4005,7 +4017,7 @@ printf "\033[1B$enter${spaces}${spaces# }${aspace}-\r-${title}${aspace}Zsh-Engli
 
 for i in $(seq $((COLUMN)));do
 
-	sleep 0.015  &&  read -s -t0   && read -s -t1 && break
+sleep 0.015  &&  read -s -t0  && break
 	[[  $i  -eq  1 ]] && printf "\033[2m\033[2A━"
 	#printf "\033[1A"
 	#[[  $i  -eq  $((COLUMN)) ]] && printf "\r="
@@ -4104,7 +4116,7 @@ answer2=`echo "$pureanswe" | awk -F'	' '{printf $2}' | tr '/' ' ' `
 
 la=${#answer1}
 la2=$((${#question1}*2))
-for i in $(seq ${#question1});do
+for i in `seq ${#question1}`;do
 if [[  "${question1:$((i-1)):1}" == [a-z\.\(\)\<\>\&\;\,\~]  ]] ;then
 la2=$((la2-1))
 fi
@@ -4113,7 +4125,7 @@ length=$((la+la2+7))
 if [[ "$question" = "$answer1" ]] ;then
 answer="$answer2"
 pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
-printf "\033[1m$question\033[2m"\\033[3m ‹———› "\033[0m"
+printf "\033[1m$question\033[2m\033[3m ‹———› \033[0m"
 Readzh
 else
 answer=$answer1
@@ -4122,7 +4134,7 @@ iq=${#answer1}
 for t in `seq $iq`;do
 bot="$bot"-
 done
-printf  "\033[0m$question1"\\033[3m ‹———› "\033[0m$bot"\\r
+printf  "\033[0m$question1\033[3m ‹———› \033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
 printf "\033[1m$question1\033[0m\033[2m\033[3m ‹———› \033[0m"
 Readen
@@ -4304,13 +4316,13 @@ eval rp=\${$p:-nul}
 (cat < ${rp} ) >&/dev/null
 catable=$?
 if [[  $catable -eq 0  ]];then
-txt="$(cat ${rp} |  grep -a  -B99999 \\\\  | tr -d '\\' )
+txt="$(cat ${rp} |  grep "\b[' '-~].*[	].*[^'	'-~].*\b" )
 $txt"
-
+txt=$(echo "$txt" | grep "	")
        # txt=${txt%% }
 retargets=${rp}' '${retargets}
        # txt=${txt%%@}
-txt=$(echo "$txt" | grep "	")
+#txt=$(echo "$txt" | grep "	")
 n=$(echo "${txt}" | wc -l)
 n=$((n*2))
 tno=$((tno+1))
@@ -4360,8 +4372,9 @@ key2=$?
 
 if [[  $key2 -eq 0  ]] && [[  "$target"  !=  ''  ]] ;then
 targets=$targets' '$target
-txt="$(cat ${target} |  grep -a  -B99999 \\\\  | tr -d '\\' )
+txt="$(cat ${target} |  grep  "\b[' '-~].*[	].*[^'	'-~].*\b" )
 $txt"
+
 txt=$(echo "$txt" | grep "	")
 lastn=$n
 n=$(echo "${txt}" | wc -l)
