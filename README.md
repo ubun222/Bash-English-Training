@@ -44,7 +44,7 @@ apk add git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
 bash 
-./2.1.1.sh -api  # 答题辅助 通关模式 优化ish
+./2.1.2.sh -api  # 答题辅助 通关模式 优化ish
 ```
 3. Termux
 ```
@@ -52,7 +52,7 @@ apt-get install git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
 bash 
-./2.1.1.sh -ap  # 答题辅助 通关模式
+./2.1.2.sh -ap  # 答题辅助 通关模式
 ```
 4. 若安装git或bash失败，请先update和upgrade包管理命令。
 5. json翻译还需要另外安装gawk，可能自带的awk无法使用trans。
@@ -78,7 +78,7 @@ bash
 4. CTRL+C 退出 
 5. CTRL+D 查询
 6. TAB键答题提示
-7. ~~\\\\\\\\\\以下的~~详细部分(改进了词表加载，已不需要\\\\来分割词表) 定位标识符默认为 除[ae]以外的所有音标 即单词需要以 "word... 音标 ..."为中心 例句(v)应在该行以下直至第一个空行，详细释义(y)应在该行以上直至第一个空行。
+7. ~~\\\\\\\\\\以下的~~详细部分(改进了词表加载，已不需要\\\\\\\\\\来分割词表) 定位标识符默认为 除[ae]以外的所有音标 即单词需要以 "word... 音标 ..."为中心 例句(v)应在该行以下直至第一个空行，详细释义(y)应在该行以上直至第一个空行。
 #### 2.x.x.sh更新
 ##### 2.x.x：
 1. 如下所示，词表内增加自定义符号: & () <> n. v. vt. vi. adj. adv. prep. conj.
@@ -87,7 +87,7 @@ subscribe	v.捐款，订阅，签署(文件)，赞成，预订
 ```
 2. 只需要输入除()<>内的中文即可，答案会自动生成。
 ```
-./2.1.1.sh -apr -t notxt ./day64.txt #ish要加-i 
+./2.1.2.sh -apr -t notxt ./day64.txt #ish要加-i 
 ```
 ##### 1.x.x：
 1. txt内均为该格式
