@@ -716,7 +716,7 @@ struct
 while read line ;do
 
 if  [[  "${line}" != ""  ]] ;then
-exec 4<"$line"  && content="$(cat <&4)
+exec 4<"$line"  && content="$(grep -v "\t" <&4)
 $content"
 
 eval pt$RWN1="${line}"
@@ -892,15 +892,16 @@ right=${right:-/}
 alldata="$lleft $right"
 aline="$(printf "%s" "${line}" | tr -s  "	" | tr " 	" " " )"
 if [[  "$alldata" == "$aline" ]] ;then
-eval lr$wlist="$(echo "\$lleft")" #eval的空格需要''才能赋值，否则被视为命令行中的空格
+eval lr$wlist="$(echo "\$lleft")"
 eval lr$((wlist+1))="$(echo "\$right")"
 else
 verify=n
 row=$(eval "$allif")
 eval therw=\${rw$row}
-echo
-printf "${therw}词表中的 |${aline}| 未加载，请检查"
-break
+soutcome="$soutcome
+${therw}词表中的 \033[1m ${aline} \033[0m 可能不兼容"
+eval lr$wlist="$(echo "\$lleft")"
+eval lr$((wlist+1))="$(echo "\$right")"
 fi
 list=$((list+1))
 wlist=$((wlist+2))
@@ -909,13 +910,13 @@ $thetxt
 EOF
 echo
 if [[  "$verify" == "n"  ]] ;then
-printf "1.英文在行首，中文在行末，中间用多个tab制表符隔开
-2.词表和单词释义以数个反斜杠\\\\分隔
-3.删除多余的空格和缩进
-4.检查tab制表符
-5.仅英文单词部分可使用空格"
+printf "$soutcome
+1.英文在行首，中文在行末，中间用多个tab制表符隔开
+2.删除多余的空格和缩进
+3.检查tab制表符
+4.仅英文单词部分可使用空格"
 read
-exit 1
+
 fi
 nn=$((list))
 str=
@@ -1428,13 +1429,14 @@ if [[  "$locate" ==  ""  ]]  ;then
 
 
 
-Ylineraw="$(echo  "$content" | grep -B 30 ^"${answer1}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" | head -n31 | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  '[\	]' | grep -v ^"[ ]" )"
+Ylineraw="$(echo  "$content" | grep -B 30 ^"${answer1}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" | head -n30 | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  '[\	]' | grep -v ^"[ ]" )"
+mlineraw="$(echo  "$content" | grep ^"${answer1}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" | head -n1 )"
 Vlineraw="$(echo  "$content" | grep  "\\b${answer1}\\(ed\\|ing\\|s\\)\\?\\b" | grep -v "	" | grep -v "[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]" )"
 
 
  aq="$(printf "${answer1}\t\t\t\t\t${answer2}")"
 sed -i""  "1s/^/${aq}\n/" "$therw"  || sed -i ""  "1s/^/${aq}\n/" "$therw"
-printf "\n$Ylineraw\n$Vlineraw\n\n" >> $therw
+[[  "$mlineraw" != ""  ]] && printf "\n$Ylineraw\n$mlineraw\n$Vlineraw\n\n" >> $therw
 [[  $premode -ne 3  ]] && printf "$Thestdout"
 [[  $premode -eq 3  ]] && printf "$Thestdout"
 fi
@@ -1455,9 +1457,17 @@ Dlinerawn="$(cat "$therw"  | grep  -B 60 ^"${answer1}\s.*[|ˈˌɪəʊɪʊɔɪʌ�
 Dtop=$((locate-Dlinerawn+1))
 Dlinerawn="$(cat "$therw"  | grep  -A 60 ^"${answer1}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" |  awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n\r\r"}{print $1}' | grep -v '[	\]' | wc -l )"
 Dend=$((locate+Dlinerawn-1))
+
+if [[  $(($Dend-$Dtop)) -le 0  ]] &&  [[  "$Dtop"  !=  "1"   ]];then
+(echo "$therw" | xargs sed -i"" "${locate}d") || (echo "$therw" | xargs sed -i "" "${locate}d" )
+Dlinerawn="$(cat "$therw"  | grep  -B 60 ^"${answer1}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" |   awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n\r\r"}{print $NF}' | grep -v  "[	|\\]"|  wc -l )"
+Dtop=$((locate-Dlinerawn+1))
+Dlinerawn="$(cat "$therw"  | grep  -A 60 ^"${answer1}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" |  awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n\r\r"}{print $1}' | grep -v '[	\]' | wc -l )"
+Dend=$((locate+Dlinerawn-1))
+fi
 locate="$(cat "${therw}" | grep -n ^"${answer1}	" | head -n1 | awk -F: '{print $1}')"
 (echo "$therw" | xargs sed -i"" "$Dtop,${Dend}d" && echo "$therw" | xargs sed -i"" "${locate}d" && printf "$Thestdout2") || ( echo "$therw" | xargs sed -i "" "$Dtop,${Dend}d"  && echo "$therw" | xargs sed -i "" "${locate}d" && printf "$Thestdout2")
-
+[[  $locate -eq 1  ]] && echo >>"$therw"
 if  [[  "$Dtop"  ==  "1"   ]] ;then
 	echo "$therw" | xargs sed -i "" "${locate},${locate}d" && printf "\033[2m${Thestdout2}\033[0m"
 	[[  "$?" -ne 0  ]] &&   echo "$therw" | xargs sed -i"" "${locate},${locate}d" && printf "\033[2m${Thestdout2}\033[0m" 
@@ -2556,7 +2566,7 @@ struct
 while read line ;do
 
 if  [[  "${line}" != ""  ]] ;then
-exec 4<"$line"  && content="$(cat <&4)
+exec 4<"$line"  && content="$(grep -v "\t" <&4)
 $content"
 
 eval pt$RWN1="${line}"
@@ -2575,7 +2585,7 @@ done <<EOF
 $c
 EOF
 
-#allrw=$(echo "$allrw")
+allrw="$(echo "$allrw" |  grep "\b[' '-~].*[	].*[^'	'-~].*\b")"
 nn=$((n/2))
 list=1
 cha=$((n/2))
@@ -2610,7 +2620,7 @@ right="$(printf "%s" "$allrw"  | sed -n "$wlist,${wlist}p" | awk 'BEGIN{FS="	"}{
 right=${right:-/}
 aline="$(printf "%s" "${line}" | tr -s "	" | tr "	" " " )"
 alldata="$lleft $right"
-printf "$alldata"\\n
+#printf "$alldata"\\n
 list=$((list+1))
 wlist=$((wlist+1))
 if [[  "$alldata" == "$aline" ]] ;then
@@ -2618,7 +2628,12 @@ continue
 
 else
 verify=n
-break
+m=$((list-1))
+m=$((m*2))
+row=$(eval "$allif")
+eval thept=\${pt$row}
+soutcome="$soutcome
+${thept}词表中的 \033[1m ${aline} \033[0m 可能不兼容"
 fi
 done <<EOF
 $allrw
@@ -2626,18 +2641,13 @@ EOF
 if [[  "$verify" == "n"  ]] ;then
 echo
 echo $strs
-m=$((list-1))
-m=$((m*2))
-row=$(eval "$allif")
-eval thept=\${pt$row}
-printf "${thept}词表中的 |${aline}| 未加载，请检查
+
+printf " ${soutcome}
 1.英文在行首，中文在行末，中间用多个tab制表符隔开
-2.词表和单词释义以数个反斜杠\\\\分隔
-3.删除多余的空格和缩进
-4.检查tab制表符
-5.仅英文单词部分可使用空格"
+2.删除多余的空格和缩进
+3.检查tab制表符
+4.仅英文单词部分可使用空格"
 read
-exit
 fi
 
 
@@ -3834,13 +3844,14 @@ fi
 if [[  $passd -eq 1  ]] ;then
 m="$(echo "$rangem" | sed -n "$m,${m}p")"
 fi
-question=$(echo "$longtxt" | sed -n "$m,${m}p" )
+#question=$(echo "$txt" | sed -n "$((m/2)),$((m/2))p" )
  echo  "${strs}"
 No=$(($((m/2))+$((m%2))))
 pureanswe=$(printf "%s" "$txt"| sed -n "$No,${No}p" )
 answer1="$(printf "%s" "$pureanswe" | awk 'BEGIN{FS="	"}{printf $1}' )"
 answer2="$(printf "%s" "$pureanswe" | awk 'BEGIN{FS="	"}{printf $NF}' )"
-
+[[  $((m%2)) -eq 1  ]] && question="$answer1"
+[[  $((m%2)) -eq 0  ]] && question="$answer2"
 question1="$(tprep0 "$question")"
 
 la=${#answer1}
@@ -4055,7 +4066,7 @@ sleep 0.02
 stty echo
 printf  "\033[0m\033[?25l"
 printf "Ⅰ,提词器${spaces#             }Ⅱ,完形填空"
-[[  "$record" -ne  1  ]] && printf "${spaces#              }Ⅲ,四选一"
+printf "${spaces#              }Ⅲ,四选一"
 read  premode
 if [[  "${premode:-1}" -eq 2  ]];then
 _FUN
