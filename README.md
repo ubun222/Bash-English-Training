@@ -79,11 +79,34 @@ bash
 5. CTRL+D 查询
 6. TAB键答题提示
 7. ~~\\\\\\\\\\以下的~~详细部分(改进了词表加载，已不需要\\\\\\\\\\来分割词表) 定位标识符默认为 除[ae]以外的所有音标 即单词需要以 "word... 音标 ..."为中心 例句(v)应在该行以下直至第一个空行，详细释义(y)应在该行以上直至第一个空行。
+
+#### 关于txt文件格式
+1. 加载txt时shell文件会自动查找词表和释义例句部分
+2. 词表部分
+```
+access	n.入口，享用机会vt.进入，<计算机>存取#行首为英文单词，行末为中文解释，中间为数个\t制表符(TAB键)
+```
+2. 补充部分
+```
+# grep抓取音标行以上直到第一个空行为详细释义
+If you access something, especially information held on a computer, you succeed in finding or obtaining it. 获取 (尤其电脑信息)
+If you have access to a person, you have the opportunity or right to see them or meet them. 接触的机会; 接触的权利
+If you have access to something such as information or equipment, you have the opportunity or right to see it or use it. 使用权
+If you have access to a building or other place, you are able or allowed to go into it. 进入手段; 进入权
+access |英 ['ækses]  美 ['æksɛs]| vt. 使用；存取；接近/n. 进入；使用权；通路/ #中间为单词和音标，
+You've illegally accessed and misused confidential security files.你已经非法获取并盗用了机密文件。
+He was not allowed access to a lawyer.他未被允许接触律师。
+...a Code of Practice that would give patients access to their medical records.…一个给病人们使用自己病历权利的行业守则。
+For logistical and political reasons, scientists have only recently been able to gain access to the area.因后勤与政治原因，科学家们直到最近才得以进入该地区。
+The facilities have been adapted to give access to wheelchair users.这些设施已经过改装，使轮椅使用者们能够进入。
+# grep抓取音标行以下直到第一个空行为详细例句
+```
+
 #### 2.x.x.sh更新
 ##### 2.x.x：
 1. 如下所示，词表内增加自定义符号: & () <> n. v. vt. vi. adj. adv. prep. conj.
 ```
-subscribe	v.捐款，订阅，签署(文件)，赞成，预订
+access	n.入口，享用机会vt.进入，<计算机>存取
 ```
 2. 只需要输入除()<>内的中文即可，答案会自动生成。
 ```
@@ -92,7 +115,7 @@ subscribe	v.捐款，订阅，签署(文件)，赞成，预订
 ##### 1.x.x：
 1. txt内均为该格式
 ```
-subscribe	捐款，订阅，签署，赞成，预订
+access	n.入口，享用机会vt.进入，<计算机>存取
 ```
 
 #### 已知的问题
