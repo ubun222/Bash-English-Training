@@ -117,7 +117,6 @@ printf "    $enter"
 printf "\033[1B\033[35m>>>>\033[0m$enter"
 
 elif [[  "$ascanf"  ==  "$_1B5B"  ]] ;then
-stty -echo
 read  -n1 && read -n1 WSAD
 if [[  "$WSAD" ==  "B"  ]] ;then
 order=$((order+1))
@@ -1111,7 +1110,6 @@ printf "\033[0m"
 
 colourp()
 {
-stty -echo
 Dtop=0
 Dend=0
 RC=0
@@ -1147,9 +1145,11 @@ bool="s"
 [[  $premode -ne 3  ]] && [[  $minifun != true  ]] && printf "\n$enter\033[K"
 [[  $premode -eq 3  ]] || [[  $minifun == true  ]] && printf "\n$enter"
 break
-elif [[  "$abool"  ==  "j"  ]] || [[  "$abool"  ==  "J"  ]];then
-printf "\n$enter\033[K" && bool="$abool"
-pprep  # "$pureanswerd"
+elif [[  "$abool"  ==  "j"  ]] || [[  "$abool"  ==  "J"  ]] ;then
+[[  "$premode" != "2"   ]] &&  [[  "$premode" != "3"   ]] && printf "\n$enter\033[K" 
+bool="$abool"
+[[  "$premode" != "2"   ]] &&  [[  "$premode" != "3"   ]] && pprep  # "$pureanswerd"
+ [[  "$premode" == "3"   ]] && printf "\n$enter"
 break
 elif [[  $abool == "$LF"  ]] || [[  $abool == "$CR"  ]] || [[  $abool == ""  ]] && [[  $ttf == "0"  ]] ;then
 printf "\n"
@@ -1495,7 +1495,6 @@ ccc
 
 r_ead()
 {
-stty -echo
 bd=1
 wait1=
 now=
@@ -1530,7 +1529,7 @@ fi
 if [[  "$ascanf" != ""   ]]  ;then
 printf "${ascanf}" 
 if [[  "$vback" -ne 1   ]] ;then
-[[  "$waiting" == "0"  ]] && [[  $wait1 -ne 1  ]] &&  ififright && waiting=1 && stty -echo  && return 22
+[[  "$waiting" == "0"  ]] && [[  $wait1 -ne 1  ]] &&  ififright && waiting=1  && return 22
 fi
 fi
 [[  "$bd" -eq 0   ]]  &&  waiting=1 && ascanf="$bscanf"
@@ -1608,8 +1607,7 @@ fi
 
 while true;do
 printf "%s" "${ascanf}"  
-[[  "$vback" -ne "1"  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
-stty -echo
+[[  "$vback" -ne "1"  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && return 22
 printf "\033[6n" && read -t 0.3 -s -d \[  && read -t 0.3 -s  -d \R pos2
 now3=
 now2=
@@ -1649,11 +1647,12 @@ fi
 if  [[  "$bscanf"  == ""   ]] ; then
 kblock=1
 IFS=$ENTER
-read -s -n1 ascanf 
+stty echo && printf "\x00" #防止macOS的终端自动切换中英文输入法
+read -s -n1 ascanf
+stty -echo #防止macOS的终端自动切换中英文输入法
+#stty icanon
 IFS=$IFSbak
-
 elif [[  "$bscanf"  != ""   ]];then 
-#stty -echo
 #[[  "$((nb))"  == "$ib"   ]] && waiting=0
 #needpt="${bscanf%%"$bb"}"
 ib=${#bscanf}
@@ -1688,8 +1687,7 @@ fi
 
 while true;do
 printf "%s"  "${ascanf}"  
-[[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
-stty -echo
+[[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && return 22
 
 printf "\033[6n" && read -t 0.25 -s -d \[  && read -t 0.25 -s  -d \R pos2
 
@@ -1744,12 +1742,10 @@ fi
 
 __read() #termius
 {
-stty -echo
 [[  "$((nb))"  == "$ib"   ]] && waiting=0 && bscanf=  && ib= && nb=0
 bd=0
 
 if [[  "$ascanf" != ""   ]]  && [[  "${#scanf}" -ne "0"  ]] || [[  "$vback" -eq "1"   ]] ;then
-stty -echo
 
 while true;do
 
@@ -1787,8 +1783,7 @@ whereb="${pos1/#*;/""}"
 [[  $whereb -eq $((COLUMN))  ]] && [[   "$which" == "zh"  ]] && [[  "$ascanf" !=   [a-z\.\(\)\<\>\&]   ]]  &&  [[  "$vback" != "1"  ]] && [[  $needo -ne 1  ]]  && printf   " " && needo=1;
 while true;do
 printf  "${ascanf}"  
-[[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
-stty -echo
+[[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && return 22
 
 while true;do
 printf "\033[6n" 
@@ -1948,7 +1943,7 @@ now2=
     needo=
 which=zh
 isright=0
-    stty -echo
+    #stty -echo
 [[   $getin -ne 0  ]] && bscanf=
 waiting=0
 nb=0
@@ -1996,12 +1991,10 @@ __read
 tf=$?
 fi
 vback=
-if ([[  $auto -eq 1  ]] && [[  $kblock -eq 1  ]]) ;then   # && [[  $ib -le 0  ]]可做到忽略adj符号
+if ( [[  $auto -eq 1  ]] && [[  $kblock -eq 1  ]]) ;then   # && [[  $ib -le 0  ]]可做到忽略adj符号
 thelast="${scanf##*，}"
-
 backto=""
 ans=0;
-
 banswer=
 while read line ;do
 [[  "$line" == ""  ]] && continue
@@ -2038,7 +2031,11 @@ nowpres="${thepres}"
 waiting=1 && bd=0 && getin=0 && ascanf="${bscanf:0:1}" && kblock=0 && nb=1 && ib=${#bscanf}  #防止waiting结束ib归零
 break
 
-elif [[  $waiting -eq 0  ]] && [[  $bd -ne 2  ]] && prescanf_a="$thelast$ascanf" && [[  "$line" == "$prescanf_a"  ]] ;then # read=1个
+elif [[  $waiting -eq 0  ]] && [[  $bd -ne 2  ]] && prescanf_a="$thelast${ascanf%%"	"}" && [[  "$line" == "$prescanf_a"  ]] ;then # read=1个
+
+#read -s -t0.1 ifone && echo $ifone
+# [[  ${#ifone} -gt 1  ]] && [[  "$thelast" == ""  ]] && break #防止在缓冲区还有输入时阻截第一个字，但bash无法计算缓冲区大小
+
 backt="${#thelast}"
 for i in `seq $backt`;do
 backto="$backto$B"
@@ -2064,7 +2061,7 @@ bscanf="${backto}$banswer"
 fi
 nowpres="${thepres}"
 
-waiting=1 && bd=0 && getin=0 && ascanf="${bscanf:0:1}" && kblock=0 && nb=1 && ib=${#bscanf} 
+ waiting=1 && bd=0 && getin=0 && ascanf="${bscanf:0:1}" && kblock=0 && nb=1 && ib=${#bscanf} 
 break
 
 fi
@@ -2140,7 +2137,7 @@ ascanf=
 printf "\n\r\033[0m"
 FIND
 scanf=
-stty -echo
+#stty -echo
 printf "\033[1m$question"\\033[3m\\033[2m\ \‹———\›\ \\\033[0m #ishprt已不需要
   scanfd=
   thelast=
@@ -2151,16 +2148,15 @@ elif [[  "$ascanf" == "$LF"  ]] || [[  "$ascanf" == "$CR"  ]] || [[  "$ascanf" =
 printf "$enter"
 break
 
-elif [[  $ascanf  ==  '	'  ]] ;then  #待定，暂时加-a后才能提示，
+elif [[  $ascanf  ==  '	'  ]] ;then
 ascanf=
 scanfd="$(echo "${scanf}"  |  sed "s/[a-z][a-z\.]*/，/g" )"
 scanfd="$(printf "%s" "${scanfd}" | tr -d "&" | sed -e 's/<[^>]*>//g' -e 's/([^)]*)//g' )"
-s_canf=
 IFS=$ENTER
+
 read -s -n1  -t1 s_canf 
 IFS=$IFSbak
 if [[  $s_canf  ==  '	'  ]];then
-ascanf=
 rdmd="\n"
 thelast="${scanf##*，}"
 if [[  "$thelast" == ''  ]] ;then
@@ -2180,18 +2176,18 @@ continue
 elif [[  "$thelast" != ''  ]] ;then
 #echo 1${scanfd}1
 while read line ;do
+[[  $auto -ne 1  ]] && [[  "$line" == "$thelast"  ]] && ifsameone=1 && break
 [[  "$scanfd"  =~ "$line"  ]] && continue
 if [[  "$line" =~ ^"$thelast"  ]];then
 bscanf="${line##$thelast}" && waiting=2  && break #防止adj等提前判定，若要提前将waiting改成1
-
 fi
 done <<EOF
 $answerd
 EOF
-else
-continue
-fi
 
+[[  $auto -ne 1  ]] && [[  $ifsameone -eq 1  ]] && ifsameone= && ififright
+
+fi
 fi
 #elif [[  $ascanf  !=  [$B\'a-zA-Z${x02}-${x19}'~!@#$^&*()_+{}|:"<>?/.;][=-`']  ]] ;then
 elif [[  "${ascanf}"  >  "$xzh"   ]] && [[  $(printf "%d" "'${ascanf}")  <  "$xzhmax"   ]] ;then
@@ -2227,7 +2223,7 @@ fi
 ascanf=
 
 done
-stty echo
+#stty echo
 }
 
 Readen()
@@ -2235,7 +2231,7 @@ Readen()
 which=en
 isright=0
 answerd_order="" #防止ifright误判
-stty -echo
+#stty -echo
 waiting=0
 nb=0
 bscanf=
@@ -2498,14 +2494,14 @@ done
 
 }
 
-trap 'printf "\033[?25h\033[0m" && stty echo '  EXIT
+trap 'printf "\033[?25h\033[0m" && stty icanon && stty echo '  EXIT
 
 
 
 ififright()
 {
 if [[  "$which" == "zh"  ]] ; then
-stty -echo
+#stty -echo
 scanfd="$(echo "${scanf}"  |  sed "s/[a-z][a-z\.]*/，/g" )"
 [[  "${scanfd:0:1}"  == "，"  ]] && scanfd="${scanfd:1}"
 [[  "${scanfd:$((${#scanfd}-1)):1}"  == "，"  ]] && return 2
@@ -2515,7 +2511,7 @@ scanfd="$(printf "%s" "${scanfd}" | tr -d "&" | sed -e 's/<[^>]*>//g' -e 's/([^)
 thelast="$(printf "${scanfd:-n1}" | tail -n1 )"
 
 scanfd="$(printf "$scanfd" | sort | uniq )"
-stty -echo
+#stty -echo
 [[  "$thelast" == "n1"   ]] || [[  "$thelast" == ""   ]]  && return 2
 while read line ;do
 if [[  "$line" == "$thelast"  ]] ;then
@@ -3886,7 +3882,7 @@ Readen
 
 
 fi
-stty -echo
+#stty -echo
 bot=
 
 colourp 2>/dev/null
@@ -3933,7 +3929,6 @@ if [[  $passd -eq 1  ]] ;then
 fi
 question=$(echo "$txt"| sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}' )
  echo  "${strs}"
- #stty -echo
 pureanswe=$(printf "%s" "$txt" | sed -n "$m2,${m2}p")
 
 answer1="$(printf "%s" "$pureanswe" | awk 'BEGIN{FS="	"}{printf $1}' )"
@@ -4089,7 +4084,7 @@ read -n 1 random
 [[  $random == 1  ]] || [[  $random == 2  ]] || [[  $random == 3  ]] && break
 done
 echo 
-[[  "$passd" -ne 1   ]] && printf "需要多少题目:"  && read ii
+[[  "$passd" -ne 1   ]] && ii=9999
 stty -echo
 [[  "$passd" -eq 1   ]] && ii=9999 && gcounts=0
 
