@@ -586,7 +586,7 @@ parse () {
 
 stdin()
 {
-stty -echo
+#stty -echo
 LINE=$(stty size|awk '{print $1}')
 COLUMN=$(stty size|awk '{print $2}')
 
