@@ -76,6 +76,7 @@ $allif"
 
 calendar()
 {
+  stty -echo
 calenda=1
   # clear
 cd $Path
@@ -1647,10 +1648,10 @@ fi
 if  [[  "$bscanf"  == ""   ]] ; then
 kblock=1
 IFS=$ENTER
-stty -echo && printf "\x00" #防止macOS的终端自动切换中英文输入法
+ printf "\x00" #防止macOS的终端自动切换中英文输入法
 read -s -n1 ascanf
-stty -echo #防止macOS的终端自动切换中英文输入法
-#stty icanon
+
+
 IFS=$IFSbak
 elif [[  "$bscanf"  != ""   ]];then 
 #[[  "$((nb))"  == "$ib"   ]] && waiting=0
@@ -1943,7 +1944,7 @@ now2=
     needo=
 which=zh
 isright=0
-    #stty -echo
+    stty -echo
 [[   $getin -ne 0  ]] && bscanf=
 waiting=0
 nb=0
@@ -2137,7 +2138,7 @@ ascanf=
 printf "\n\r\033[0m"
 FIND
 scanf=
-#stty -echo
+stty -echo
 printf "\033[1m$question"\\033[3m\\033[2m\ \‹———\›\ \\\033[0m #ishprt已不需要
   scanfd=
   thelast=
@@ -2501,7 +2502,7 @@ trap 'printf "\033[?25h\033[0m" && stty icanon && stty echo '  EXIT
 ififright()
 {
 if [[  "$which" == "zh"  ]] ; then
-#stty -echo
+stty -echo
 scanfd="$(echo "${scanf}"  |  sed "s/[a-z][a-z\.]*/，/g" )"
 [[  "${scanfd:0:1}"  == "，"  ]] && scanfd="${scanfd:1}"
 [[  "${scanfd:$((${#scanfd}-1)):1}"  == "，"  ]] && return 2
@@ -3882,7 +3883,7 @@ Readen
 
 
 fi
-#stty -echo
+stty -echo
 bot=
 
 colourp 2>/dev/null
@@ -4385,13 +4386,14 @@ n=0
 for i in $(seq 100)
 do
 n0=0
+stty echo
 [[  $use  -eq  1  ]] &&  mpreload
 read   -p  请拖入单个txt文件，按回车键结束: target
+stty -echo
 [[  "$target"  ==  ''  ]] && [[  "$use"  -eq  '1'  ]]  &&  return 2
 [[  "$target"  ==  ''  ]] && [[  "$targets"  !=  ''  ]] && return 0
 cat ${target:-/dev/null} >& /dev/null
 key2=$?
-
 if [[  $key2 -eq 0  ]] && [[  "$target"  !=  ''  ]] ;then
 targets=$targets' '$target
 txt="$(cat ${target} |  grep "\b[' '-~].*[	].*[^'	'-~].*\b"  | tr -d '\\' )
