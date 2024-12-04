@@ -586,7 +586,7 @@ parse () {
 
 stdin()
 {
-
+stty -echo
 LINE=$(stty size|awk '{print $1}')
 COLUMN=$(stty size|awk '{print $2}')
 
@@ -1529,7 +1529,7 @@ fi
 if [[  "$ascanf" != ""   ]]  ;then
 printf "${ascanf}" 
 if [[  "$vback" -ne 1   ]] ;then
-[[  "$waiting" == "0"  ]] && [[  $wait1 -ne 1  ]] &&  ififright && waiting=1  && return 22
+[[  "$waiting" == "0"  ]] && [[  $wait1 -ne 1  ]] &&  ififright && waiting=1  && stty -echo && return 22
 fi
 fi
 [[  "$bd" -eq 0   ]]  &&  waiting=1 && ascanf="$bscanf"
@@ -1607,7 +1607,7 @@ fi
 
 while true;do
 printf "%s" "${ascanf}"  
-[[  "$vback" -ne "1"  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && return 22
+[[  "$vback" -ne "1"  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
 printf "\033[6n" && read -t 0.3 -s -d \[  && read -t 0.3 -s  -d \R pos2
 now3=
 now2=
@@ -1647,7 +1647,7 @@ fi
 if  [[  "$bscanf"  == ""   ]] ; then
 kblock=1
 IFS=$ENTER
-stty echo && printf "\x00" #防止macOS的终端自动切换中英文输入法
+stty -echo && printf "\x00" #防止macOS的终端自动切换中英文输入法
 read -s -n1 ascanf
 stty -echo #防止macOS的终端自动切换中英文输入法
 #stty icanon
@@ -1687,7 +1687,7 @@ fi
 
 while true;do
 printf "%s"  "${ascanf}"  
-[[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && return 22
+[[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
 
 printf "\033[6n" && read -t 0.25 -s -d \[  && read -t 0.25 -s  -d \R pos2
 
@@ -1783,7 +1783,7 @@ whereb="${pos1/#*;/""}"
 [[  $whereb -eq $((COLUMN))  ]] && [[   "$which" == "zh"  ]] && [[  "$ascanf" !=   [a-z\.\(\)\<\>\&]   ]]  &&  [[  "$vback" != "1"  ]] && [[  $needo -ne 1  ]]  && printf   " " && needo=1;
 while true;do
 printf  "${ascanf}"  
-[[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && return 22
+[[  "$vback" != "1"  ]] && [[  "$ascanf" != ""  ]]  &&  [[  "$bscanf" == ""  ]]  &&  ififright && stty -echo && return 22
 
 while true;do
 printf "\033[6n" 
@@ -2231,7 +2231,7 @@ Readen()
 which=en
 isright=0
 answerd_order="" #防止ifright误判
-#stty -echo
+stty -echo
 waiting=0
 nb=0
 bscanf=
