@@ -1648,6 +1648,7 @@ fi
 if  [[  "$bscanf"  == ""   ]] ; then
 kblock=1
 IFS=$ENTER
+stty -echo
  printf "\x00" #防止macOS的终端自动切换中英文输入法
 read -s -n1 ascanf
 
@@ -2186,7 +2187,8 @@ done <<EOF
 $answerd
 EOF
 
-[[  $auto -ne 1  ]] && [[  $ifsameone -eq 1  ]] && ifsameone= && ififright
+[[  $auto -ne 1  ]] && [[  $ifsameone -eq 1  ]] && ifsameone= && ififright && stty -echo && return 22
+
 
 fi
 fi
@@ -2517,9 +2519,10 @@ scanfd="$(printf "$scanfd" | sort | uniq )"
 while read line ;do
 if [[  "$line" == "$thelast"  ]] ;then
 
-
-
-
+#echo
+#printf "$scanfd"
+#echo
+#printf "$answerd_order_0"
 [[  "$scanfd" == "$answerd_order_0"  ]] && isright=1  && return 0 
 
 bscanf="，" && bd=0 && getin=0 && waiting=1 && thelast= && continue #-防止循环
