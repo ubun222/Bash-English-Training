@@ -2202,7 +2202,7 @@ continue
 elif [[  "${thelast:-0}" != '0'  ]] ;then
 #echo 1${scanfd}1
 while read line ;do
-[[  "${auto:-0}" != "1"  ]] && [[  "$line" == "${thelast:-0}"  ]] && ifsameone=1 && break
+[[  "${auto:-0}" -ne 1  ]] && [[  "$line" == "${thelast:-0}"  ]] && ifsameone=1 && break
 [[  "$scanfd"  =~ "$line"  ]] && continue
 if [[  "$line" =~ ^"$thelast"  ]];then
 bscanf="${line#$thelast}" && waiting=2   && break #防止adj等提前判定，若要提前将waiting改成1
@@ -2563,14 +2563,14 @@ scanfd="$(printf "%s" "${scanfd}" | tr -d "&" | sed -e 's/<[^>]*>//g' -e 's/([^)
 thelast="$(printf "${scanfd:-n1}" | tail -n1 )"
 
 scanfd="$(printf "$scanfd" | sort | uniq )"
-stty -echo
+#stty -echo
 [[  "$thelast" == "n1"   ]] || [[  "$thelast" == ""   ]]  && return 2
 while read line ;do
 if [[  "$line" == "$thelast"  ]] ;then
 
 [[  "$scanfd" == "$answerd_order_0"  ]] && isright=1  && return 0 
 
-bscanf=" -"  && thelast= && continue #-防止循环
+bscanf="," && bd=0 && getin=0 && waiting=1  && thelast= && continue #-防止循环
 elif [[ "${line%%...*}" == "$thelast"   ]] ;then
 bscanf="..." && bd=0 && getin=0 && kblock=0 && waiting=1 && continue
 
@@ -3526,7 +3526,7 @@ done
 if [[  "$order" -eq "$insert"  ]];then
 orders=0
 theam="$(printf "%s" "${theam}" | tr -d " ")"
-eval printf \"\${enter}\\033[0m\\033[1m\\033[32m\˗\›\\033[0m\\033[1m\${theam}\${enter}\"
+eval printf \"\${enter}\\033[0m\\033[1m\\033[32m \›\\033[0m\\033[1m\${theam}\${enter}\"
 down=0
 one=
 case $order in 
@@ -3559,7 +3559,7 @@ printf "\033[0m"
 else
 orders=0
 #printf "$enter\033[31m%s\033[0m\r" " ›"
-eval printf \"\${enter}\\033[0m\\033[1m\\033[31m\˗\›\\033[0m\${enter}\"
+eval printf \"\${enter}\\033[0m\\033[1m\\033[31m \›\\033[0m\${enter}\"
 down=0
 one=
 case $order in 
