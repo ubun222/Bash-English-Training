@@ -230,7 +230,7 @@ if [[  $catable -eq 0  ]];then
 etxt=
 eetxt=
 exec 3<"$line"
-read -r -d "\\"  -u 3 aetxt
+read -d"\x00"  -u 3 aetxt
 
 if [[  "$aetxt" =~ "	"  ]] ;then
 targets=$targets' '${line}
@@ -255,6 +255,7 @@ fi
 while read line ;do
 
 if [[  "${line}" == ['\ '-~]*[\	]*[^\	-~]*  ]] ;then
+
 eetxt="$line"
 [[  "$etxt" != ""  ]]  &&  etxt="$etxt
 $eetxt"
@@ -274,14 +275,15 @@ n=$(echo "${txt}" | wc -l)
 tno=$((tno+1))
 eval ca$tno=$((n*2))
 fi
-
-txt=$(printf "$txt" | tr -d "\r" )  #优化wsl
-
 fi
 fi
 done <<EOF
 $txtall
 EOF
+
+txt=$(printf "$txt" | tr -d "\r" )  #优化wsl
+#n=$(echo "$txt" | wc -l )
+
 printf "\033[0m"
 n=$((n*2))
 echo "准备加载$((n/2))组单词"
@@ -322,7 +324,7 @@ if [[  $catable -eq 0  ]];then
 etxt=
 eetxt=
 exec 3<"$line"
-read -r -d "\\"  -u 3 aetxt
+read -d"\x00"  -u 3 aetxt
 
 if [[  "$aetxt" =~ "	"  ]] ;then
 targets=$targets' '${line}
@@ -347,7 +349,7 @@ fi
 
 while read line ;do
 
-if [[  "${line}" == ['\ '-~]*[\	]*[^\	-~]*  ]]  ;then
+if [[  "${line}" == ['\ '-~]*[\	]*[^\	-~]*  ]] ;then
 eetxt="$line"
 
 else
@@ -373,6 +375,8 @@ fi
 done <<EOF
 $txtall
 EOF
+txt=$(printf "$txt" | tr -d "\r" )  #优化wsl
+#n=$(echo "$txt" | wc -l )
 n=$((n*2))
 read -t 1 -p 准备加载$((n/2))组单词
 return 0
@@ -716,7 +720,7 @@ struct
 while read line ;do
 
 if  [[  "${line}" != ""  ]] ;then
-exec 4<"$line"  && content="$(grep -v "\t" <&4)
+exec 4<"$line"  && content="$(grep -v "	" <&4)
 $content"
 
 eval pt$RWN1="${line}"
