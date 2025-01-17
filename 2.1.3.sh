@@ -230,7 +230,7 @@ if [[  $catable -eq 0  ]];then
 etxt=
 eetxt=
 exec 3<"$line"
-read -d"\x00"  -u 3 aetxt
+read -d"\x11"  -u 3 aetxt
 
 if [[  "$aetxt" =~ "	"  ]] ;then
 targets=$targets' '${line}
@@ -254,7 +254,7 @@ fi
 
 while read line ;do
 
-if [[  "${line}" == ['\ '-~]*[\	]*[^\	-~]*  ]] ;then
+if [[  "${line}" == ['\ '-~]*[\	]*[^\ -~]*  ]] ;then
 
 eetxt="$line"
 [[  "$etxt" != ""  ]]  &&  etxt="$etxt
@@ -262,6 +262,7 @@ $eetxt"
 [[  "$etxt" == ""  ]]  &&  etxt="$eetxt"
 else
 eetxt=
+continue
 fi
 
 done <<EOF
@@ -324,7 +325,7 @@ if [[  $catable -eq 0  ]];then
 etxt=
 eetxt=
 exec 3<"$line"
-read -d"\x00"  -u 3 aetxt
+read -d"\x11"  -u 3 aetxt
 
 if [[  "$aetxt" =~ "	"  ]] ;then
 targets=$targets' '${line}
@@ -349,11 +350,12 @@ fi
 
 while read line ;do
 
-if [[  "${line}" == ['\ '-~]*[\	]*[^\	-~]*  ]] ;then
+if [[  "${line}" == ['\ '-~]*[\	]*[^\ -~]*  ]] ;then
 eetxt="$line"
 
 else
 eetxt=
+continue
 fi
 [[  "$etxt" != ""  ]]  &&  etxt="$etxt
 $eetxt"
