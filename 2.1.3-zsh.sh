@@ -237,7 +237,7 @@ if [[  $catable -eq 0  ]];then
 etxt=
 eetxt=
 exec 3<"$line"
-read -r -d "\\"  -u 3 aetxt
+read -r -d ""  -u 3 aetxt
 
 if [[  "$aetxt" =~ "	"  ]] ;then
 targets=$targets' '${line}
@@ -262,12 +262,14 @@ fi
 while read line ;do
 
 if [[  "$line" =~ "	"  ]] ;then
+
 eetxt="$line"
 [[  "$etxt" != ""  ]]  &&  etxt="$etxt
 $eetxt"
 [[  "$etxt" == ""  ]]  &&  etxt="$eetxt"
 else
 eetxt=
+continue
 fi
 
 done <<EOF
@@ -282,7 +284,7 @@ tno=$((tno+1))
 eval ca$tno=$((n*2))
 fi
 
-txt=$(printf "$txt" | tr -d "\r" )  #优化wsl
+#txt=$(printf "$txt" | tr -d "\r" )  #优化wsl
 
 fi
 fi
@@ -290,6 +292,8 @@ done <<EOF
 $txtall
 EOF
 printf "\033[0m"
+txt=$(printf "$txt" | tr -d "\r" )  #优化wsl
+#n=$(echo "$txt" | wc -l )
 n=$((n*2))
 echo "准备加载$((n/2))组单词"
 
@@ -330,7 +334,7 @@ if [[  $catable -eq 0  ]];then
 etxt=
 eetxt=
 exec 3<"$line"
-read -r -d "\\"  -u 3 aetxt
+read -r -d ""  -u 3 aetxt
 
 if [[  "$aetxt" =~ "	"  ]] ;then
 targets=$targets' '${line}
@@ -360,6 +364,7 @@ eetxt="$line"
 
 else
 eetxt=
+continue
 fi
 [[  "$etxt" != ""  ]]  &&  etxt="$etxt
 $eetxt"
@@ -381,6 +386,8 @@ fi
 done <<EOF
 $txtall
 EOF
+txt=$(printf "$txt" | tr -d "\r" )  #优化wsl
+#n=$(echo "$txt" | wc -l )
 n=$((n*2))
 echo 准备加载$((n/2))组单词
 read -t 1
@@ -726,7 +733,7 @@ struct
 while read line ;do
 
 if  [[  "${line}" != ""  ]] ;then
-exec 4<"$line"  && content="$(grep -v "\t" <&4)
+exec 4<"$line"  && content="$(grep -v "	" <&4)
 $content"
 
 eval pt$RWN1="${line}"
@@ -2570,7 +2577,7 @@ fi
 done <<EOF
 $c
 EOF
-allrw="$(echo "$allrw" |  grep "\b[' '-~].*[	].*[^'	'-~].*\b")"
+allrw="$(echo "$allrw" |  grep "\b[' '-~].*[	].*[^'	'-~].*")"
 nn=$((n/2))
 list=1
 cha=$((n/2))
@@ -3060,6 +3067,7 @@ FUN_()
 {
   printf "Ⅰ,英译中${spaces#             }Ⅱ,中译英${spaces#            }Ⅲ,混合"
 read -k1 mode
+stty -echo
 echo 
 echo  "$strs"
 if [[  $mode -eq 1  ]];then
@@ -4335,7 +4343,7 @@ eval rp=\${$p:-nul}
 (cat < ${rp} ) >&/dev/null
 catable=$?
 if [[  $catable -eq 0  ]];then
-txt="$(cat ${rp} |  grep "\b[' '-~].*[	].*[^'	'-~].*\b" )
+txt="$(cat ${rp} |  grep "\b[' '-~].*[	].*[^'	'-~].*" )
 $txt"
 txt=$(echo "$txt" | grep "	")
        # txt=${txt%% }
@@ -4391,7 +4399,7 @@ key2=$?
 
 if [[  $key2 -eq 0  ]] && [[  "$target"  !=  ''  ]] ;then
 targets=$targets' '$target
-txt="$(cat ${target} |  grep  "\b[' '-~].*[	].*[^'	'-~].*\b" )
+txt="$(cat ${target} |  grep  "\b[' '-~].*[	].*[^'	'-~].*" )
 $txt"
 
 txt=$(echo "$txt" | grep "	")

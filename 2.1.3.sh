@@ -2591,7 +2591,7 @@ done <<EOF
 $c
 EOF
 
-allrw="$(echo "$allrw" |  grep "\b[' '-~].*[	].*[^'	'-~].*\b")"
+allrw="$(echo "$allrw" |  grep "\b[' '-~].*[	].*[^'	'-~].*")"
 nn=$((n/2))
 list=1
 cha=$((n/2))
@@ -3078,6 +3078,8 @@ FUN_()
 {
   printf "Ⅰ,英译中${spaces#             }Ⅱ,中译英${spaces#            }Ⅲ,混合"
 read -n1 mode
+stty -echo
+
 echo 
 echo  "$strs"
 if [[  $mode -eq 1  ]];then
@@ -4350,7 +4352,7 @@ eval rp=\${$p:-nul}
 (cat < ${rp} ) >&/dev/null
 catable=$?
 if [[  $catable -eq 0  ]];then
-txt="$(cat ${rp} |  grep "\b[' '-~].*[	].*[^'	'-~].*\b" )
+txt="$(cat ${rp} |  grep "\b[' '-~].*[	].*[^'	'-~].*" )
 $txt"
        # txt=${txt%% }
 retargets=${rp}' '${retargets}
@@ -4405,9 +4407,9 @@ cat ${target:-/dev/null} >& /dev/null
 key2=$?
 if [[  $key2 -eq 0  ]] && [[  "$target"  !=  ''  ]] ;then
 targets=$targets' '$target
-txt="$(cat ${target} |  grep "\b[' '-~].*[	].*[^'	'-~].*\b"  | tr -d '\\' )
+txt="$(cat ${target} |  grep "\b[' '-~].*[	].*[^'	'-~].*"  )
 $txt"
-txt="$(printf "%s" "$txt" | grep "\t" )"
+txt="$(printf "%s" "$txt" | grep "	" )"
 lastn=$n
 n=$(echo "${txt}" | wc -l)
 n=$((n*2))
