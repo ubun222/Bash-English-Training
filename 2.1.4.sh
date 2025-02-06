@@ -831,6 +831,7 @@ done <<EOF
 $(echo "$targets" | tr " " "\n" )
 EOF
     read -t 3
+    return 0
 
 
 fi
@@ -2807,7 +2808,7 @@ break
 fi
 therandom=$(($RANDOM%$linenum+1))
 [[  $lineraw != ""  ]] && p="$(printf "%s" "$lineraw" | head -n$therandom | tail -n1)" && prep
-lineraw="$(printf "%s\n" "${lineraw}" |  tail -n $((linenum*2-therandom)) | head -n$((linenum-1)))"       ##在sed内放变量需要""
+lineraw="$(printf  "%s\n%s" "${lineraw}" "${lineraw}" |  tail -n $((linenum*2-therandom)) | head -n$((linenum-1)))"       ##在sed内放变量需要""
 linenum=$((linenum-1))
 
 if  [[  $li -eq 3  ]] ;then

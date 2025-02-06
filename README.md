@@ -44,7 +44,7 @@ apk add bash
 apk add git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
-bash ./2.1.3.sh -api  # 答题辅助 通关模式 优化ish
+bash ./2.1.4.sh -api  # 答题辅助 通关模式 优化ish
 ```
 
 在Termux中运行：
@@ -52,7 +52,7 @@ bash ./2.1.3.sh -api  # 答题辅助 通关模式 优化ish
 apt-get install git
 git clone git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
-bash ./2.1.3.sh -ap  # 答题辅助 通关模式
+bash ./2.1.4.sh -ap  # 答题辅助 通关模式
 ```
 
 若安装git或bash失败，请先update和upgrade包管理命令。
@@ -119,7 +119,7 @@ access	n.入口，享用机会vt.进入，<计算机>存取
 ```
 - 只需要输入除()<>内的中文即可，答案会自动生成。
 ```bash
-./2.1.3.sh -apr -t notxt ./day64.txt # ish要加-i 
+./2.1.4.sh -apr -t notxt ./day64.txt # ish要加-i 
 ```
 
 ### 1.x.x版本
