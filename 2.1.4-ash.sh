@@ -2817,7 +2817,7 @@ fi
 [[  "${p}" != ""   ]] &&  prep
 
 
-lineraw=$(printf "%s\n" "${lineraw}" "${lineraw}"  | tail -n$((linenum*2-therandom)) | head -n$((linenum-1)))       ##在sed内放变量需要""
+lineraw=$(printf  "%s\n%s" "${lineraw}" "${lineraw}" | tail -n$((linenum*2-therandom)) | head -n$((linenum-1)))       ##在sed内放变量需要""
     linenum=$((linenum-1))
 if  [[  $li -eq 3  ]] ;then
 p="$theline" && sprep
@@ -4490,11 +4490,11 @@ eval rp=\${$p:-nul}
 (cat < ${rp} ) >&/dev/null
 catable=$?
 if [[  $catable -eq 0  ]];then
-txt="$(cat ${rp} |  grep "\b[' '-~].*[	].*[^'	'-~].*" )
-$txt"
+txt="$txt
+$(cat ${rp} |  grep "\b[' '-~].*[	].*[^'	'-~].*" )"
 
        # txt=${txt%% }
-retargets=${rp}' '${retargets}
+retargets=${retargets}' '${rp}
        # txt=${txt%%@}
 txt=$(echo "$txt" | grep "	")
 n=$(echo "${txt}" | wc -l)

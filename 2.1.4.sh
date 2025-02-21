@@ -2738,6 +2738,7 @@ targets=${targets:-/dev/null}
 
 row=$(eval "$allif")
 eval thept=\${pt$row}
+#echo "$thept"
 [[  "$premode" -eq 3  ]] && [[  "$mode" -ne 3  ]] && m=$((m/2))
     lineraw="$(cat "$thept" | grep  -B 30 ^"${answer1}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n\r\r"}{print $NF}' | grep -v  "[	\\]" )"
 
@@ -4350,23 +4351,25 @@ fi
 for t in $(seq ${#*});do
 
 
-eval rp=\${$p:-nul}
-(cat < ${rp} ) >&/dev/null
+eval rp=\${$t:-nul}
+(grep "\b[' '-~].*[	].*[^'	'-~].*" < ${rp} ) >&/dev/null
 catable=$?
 if [[  $catable -eq 0  ]];then
-txt="$(cat ${rp} |  grep "\b[' '-~].*[	].*[^'	'-~].*" )
-$txt"
-       # txt=${txt%% }
-retargets=${rp}' '${retargets}
+txt="$txt
+$(cat ${rp} |  grep "\b[' '-~].*[	].*[^'	'-~].*" )"
+
+        # txt=${txt%% }
+retargets=${retargets}' '${rp}
        # txt=${txt%%@}
-txt=$(echo "$txt" | grep "	")
+txt="$(echo "$txt" | grep "	")"
+#[[  "${txt}"  ==  "\n"  ]] && continue
 n=$(echo "${txt}" | wc -l)
 n=$((n*2))
 tno=$((tno+1))
 eval ca$tno=$n
 
 fi
-p=$((p+1))
+#p=$((p+1))
 
 
 done
@@ -4374,7 +4377,7 @@ done
 
 p=1
 [[  "$retargets" ==  ''  ]]  && return 1  
-targets=$retargets
+targets="$retargets"
  echo  "${strs}"
 echo 检测到$((n/2))组单词
 [[ $(($n/2)) -le 200 ]] && return 0
