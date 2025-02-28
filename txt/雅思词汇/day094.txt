@@ -23,7 +23,7 @@ monstrous			adj.巨大而可怕的
 edible				adj.可食用的
 offer						vt.提出，给予，提供，具备vi.提议n.提议，提供
 alternate			adj.交替的，间隔的vi.轮流(交替)vt.轮流(交替)
-tramp				流浪者，远足vi.长途跋涉vt.长途跋涉
+tramp				n.流浪者，远足vi.长途跋涉vt.长途跋涉
 sprout				n.发芽vi.发芽，长出vt.长出
 tempo						n.<音乐>速度，节奏
 tough								adj.刚强的，强硬的，艰难的

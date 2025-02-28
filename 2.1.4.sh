@@ -91,16 +91,33 @@ pathls="$(ls -F | grep '/$' )"
 pathlsl="$(echo "$pathls" | wc -l)"
 printf "\33[?25l"
 printf "按空格选择txt文件夹\n"
+
+inn=0;
+inlineall=0;
 while read inline ;do
-echo  "    $inline"
+inline="   ${inline}"
+inn=$((inn+1))
+#theam="$inline"
+la=$((${#inline}*2-2))
+for i in $(seq ${#inline});do
+if [[  "${inline:i:1}" == [\ -\~]  ]] ;then
+la=$((la-1))
+fi
+done
+eval inline$inn=$((la/$((COLUMN+1))+1))
+#eval printf \$inline$inn
+eval inlineall=\$inline$inn+\$inlineall
+
+echo  "$inline"
 done << EOF
 $pathls
 EOF
 
+eval inlineallB=$inlineall-\$inline$inn
 printf "\033[0m$enter"
 
 order=1
-printf "\033[$((pathlsl))A\033[35m>>>>\033[0m\r"
+printf "\033[$((inlineall))A\033[35m ››\033[0m\r"
 while true ;do
 printf "$enter"
 
@@ -110,27 +127,38 @@ tf=$?
 IFS=$IFSbak
 sleep 0.01
 if [[  "$ascanf"  ==  ' '  ]];then
+[[  "$order" -eq $((pathlsl))  ]] && [[  $((pathlsl)) -eq 1  ]] && continue
+printf "   $enter"
+[[  "$order" -eq $((pathlsl))  ]]  && printf "\033[$((inlineallB))A$enter" && printf "\033[35m ››\033[0m$enter"
+[[  "$order" -eq $((pathlsl))  ]] && order=1 && continue
+
+eval thenext=\$inline$order
 order=$((order+1))
 
-printf "    $enter"
-[[  "$order" -eq $((pathlsl+1))  ]]  && printf "\033[$((pathlsl))A$enter"
-[[  "$order" -eq $((pathlsl+1))  ]] && order=1
-printf "\033[1B\033[35m>>>>\033[0m$enter"
+printf "\033[$((thenext))B\033[35m ››\033[0m$enter"
 
 elif [[  "$ascanf"  ==  "$_1B5B"  ]] ;then
 read  -n1 && read -n1 WSAD
 if [[  "$WSAD" ==  "B"  ]] ;then
+[[  "$order" -eq $((pathlsl))  ]] && [[  $((pathlsl)) -eq 1  ]] && continue
+printf "   $enter"
+[[  "$order" -eq $((pathlsl))  ]]  && printf "\033[$((inlineallB))A$enter" && printf "\033[35m ››\033[0m$enter"
+[[  "$order" -eq $((pathlsl))  ]] && order=1 && continue
+
+eval thenext=\$inline$order
 order=$((order+1))
-printf "    $enter"
-[[  "$order" -eq $((pathlsl+1))  ]]  && printf "\033[$((pathlsl))A$enter"
-[[  "$order" -eq $((pathlsl+1))  ]] && order=1
-printf "\033[1B\033[35m>>>>\033[0m$enter"
+
+printf "\033[$((thenext))B\033[35m ››\033[0m$enter"
+
 elif [[  "$WSAD" == "A"  ]] ;then
+[[  "$order" -eq $((pathlsl))  ]] && [[  $((pathlsl)) -eq 1  ]] && continue
+printf "   $enter"
+[[  "$order" -eq 1  ]]  && printf "\033[$((inlineallB))B$enter" && printf "\033[35m ››\033[0m$enter"
+[[  "$order" -eq 1  ]] && order="$pathlsl" && continue
+
 order=$((order-1))
-printf "    $enter"
-[[  "$order" -eq 0  ]]  && printf "\033[$((pathlsl))B$enter"
-[[  "$order" -eq 0  ]] && order="$pathlsl"
-printf "\033[1A\033[35m>>>>\033[0m$enter"
+eval thenext=\$inline$order
+printf "\033[$((thenext))A\033[35m ››\033[0m$enter"
 elif [[  "$WSAD" == "C"  ]] ;then
 stty echo
 break
@@ -616,59 +644,55 @@ strs="$(printf "\033[2m$strs\033[0m")"
 COL=$((COLUMN-2))
 COL2=$((COLUMN/2-2))
 eval ' hello=`cat`' <<"blocks"
- _               _     
-| |__   __ _ ___| |__  
-| '_ \ / _` / __| '_ \ 
-| |_) | (_| \__ \ | | |
-|_.__/ \__,_|___/_| |_|
+   ___           __ 
+  / _ )___ ____ / / 
+ / _  / _ `(_-</ _ \
+/____/\_,_/___/_//_/
+             
 blocks
 
 
 eval ' hi=`cat`' <<"blocks"
-                  _ _     _     
-  ___ _ __   __ _| (_)___| |__  
- / _ \ '_ \ / _` | | / __| '_ \ 
-|  __/ | | | (_| | | \__ \ | | |
- \___|_| |_|\__, |_|_|___/_| |_|
-            |___/               
+   ____          ___     __ 
+  / __/__  ___ _/ (_)__ / / 
+ / _// _ \/ _ `/ / (_-</ _ \
+/___/_//_/\_, /_/_/___/_//_/
+         /___/              
+
 blocks
 
 eval ' hey=`cat`' <<"blocks"
- _             _       _             
-| |_ _ __ __ _(_)_ __ (_)_ __   __ _ 
-| __| '__/ _` | | '_ \| | '_ \ / _` |
-| |_| | | (_| | | | | | | | | | (_| |
- \__|_|  \__,_|_|_| |_|_|_| |_|\__, |
-                               |___/ 
+ ______         _      _          
+/_  __/______ _(_)__  (_)__  ___ _
+ / / / __/ _ `/ / _ \/ / _ \/ _ `/
+/_/ /_/  \_,_/_/_//_/_/_//_/\_, / 
+                           /___/
 blocks
 prt()
 {
     height=`echo "$1"|wc -l`
     for i in `seq "$height"`;do
-            sleep 0.009 && read -s -t0 && break
+            sleep 0.006 && read -s -t0 && break
             char=`echo $1`
             [ -n "$char" ] && printf "$(echo "$1"|sed -n  "$i"p)"
-        echo
+            echo
     done
 }
 clear
-[[  $COLUMN -ge 38  ]] && prt "\033[1m$hello\n$hi\n$hey"
+[[  $COLUMN -ge 34  ]] && prt "\033[1m$hello\r$hi\n$hey"
 sleep 0.1
 echo
-printf "\033[0m"
+printf "\033[0m\033[1A"
 printf "\033[2m\033[3m"
-printf "$(date  +"%Y-%m-%d %H\033[5m:\033[0m\033[2m\033[3m%M\033[5m:\033[0m\033[2m\033[3m%S")\r"
+printf "\r$(date  +"%Y-%m-%d %H\033[5m:\033[0m\033[2m\033[3m%M\033[5m:\033[0m\033[2m\033[3m%S")\r"
 
 echo
-printf "\033[?25l"
-ishprt "$strs\n"
+printf "\033[?25l\033[0m"
+ishprt "\033[1m${strs/[2m/[1m}\n"
 ishprt "\033[2A\033[2m\033[3m"
 while true;do
-sleep 0.25 &&  read -s -t0  && break
-sleep 0.25 &&  read -s -t0  && break
-sleep 0.25 &&  read -s -t0  && break
-sleep 0.249 &&  read -s -t0  && break
-printf "$(date  +"%Y-%m-%d %H\033[1C%M\033[1C%S")\r"
+sleep 0.2 &&  read -s -t0  && break 
+printf "\r$(date  +"%Y-%m-%d %H\033[1C%M\033[1C%S")\033[K\r" &
 done
 read -s -t 0.1
 printf "\033[0m\033[3m"
@@ -676,37 +700,33 @@ echo
 
 }
 
-
 loading()
 {
 while true;do
-sleep 0.15 &&  read -s -t0 &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" "◈   "
-sleep 0.15 &&  read -s -t0  && break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" '◇◈  '
-sleep 0.15 &&  read -s -t0  && break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" "◇◇◈ "
-sleep 0.15 &&  read -s -t0  && break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" '◇◇◇◈'
-sleep 0.15 &&  read -s -t0 &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" " ◇◇◈"
-sleep 0.15 &&  read -s -t0  &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" "  ◇◈" 
-sleep 0.15 &&  read -s -t0  &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" "   ◈" 
-sleep 0.15 &&  read -s -t0  &&  break
-sleep 0.15 &&  read -s -t0  &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" "  ◈◇" 
-sleep 0.15 &&  read -s -t0  &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" " ◈◇◇" 
-sleep 0.15 &&  read -s -t0  &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" "◈◇◇◇" 
-sleep 0.15 &&  read -s -t0  &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" "◈◇◇ " 
-sleep 0.15 &&  read -s -t0  &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" "◈◇  " 
-sleep 0.15 &&  read -s -t0  &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" "◈   " 
+sleep 0.11 &&  read -s -t0 &&  break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" '´`´`´'
+sleep 0.44 &&  read -s -t0 &&  break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" '``´`´'
+sleep 0.11 &&  read -s -t0 &&  break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" '`´´`´'
+sleep 0.11 &&  read -s -t0  &&  break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" '`´``´' 
+sleep 0.11 &&  read -s -t0  &&  break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" '`´`´´' 
+sleep 0.11 &&  read -s -t0  &&  break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" '`´`´`' 
+sleep 0.44 &&  read -s -t0  &&  break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" '´´`´`' 
+sleep 0.11 &&  read -s -t0  &&  break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" '´``´`' 
+sleep 0.11 &&  read -s -t0  &&  break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" '´`´´`' 
+sleep 0.11 &&  read -s -t0  &&  break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" '´`´``' 
+sleep 0.11 &&  read -s -t0  &&  break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" '´`´`´' 
+sleep 0.11 &&  read -s -t0  &&  break
+printf "\r\033[2m\033[%dC%s\r" "$COL2" '´`´`´' 
 done
 read -s -t0.1
 }
@@ -1271,7 +1291,7 @@ EOF
 printf "\033[0m$enter"
 
 order=1
-printf "\033[$((catalsl))A\033[35m>>>>\033[0m\r"
+printf "\033[$((catalsl))A\033[35m ››\033[0m\r"
 while true ;do
 printf "$enter"
 
@@ -1283,10 +1303,10 @@ sleep 0.01
 if [[  "$ascanf"  ==  ' '  ]];then
 order=$((order+1))
 
-printf "    $enter"
+printf "   $enter"
 [[  "$order" -eq $((catalsl+1))  ]]  && printf "\033[$((catalsl))A$enter"
 [[  "$order" -eq $((catalsl+1))  ]] && order=1
-printf "\033[1B\033[35m>>>>\033[0m$enter"
+printf "\033[1B\033[35m ››\033[0m$enter"
 
 elif [[  "$ascanf"  ==  ''  ]] || [[  "$ascanf"  ==  "$CR"  ]] ;then
 break
@@ -2490,7 +2510,8 @@ done
 alltxtn=$(echo "$alltxt" | wc -l)
 [[  "$alltxtn"  -ge $((n/2-1))  ]] && echo "$strs" && return 1 
 [[  "$alltxtn"  -ge 18  ]] && printf "找到${alltxtn}个单词\n" && continue
-[[  "$fscanf" == ""  ]]  && [[  "$alltxt" != ""  ]] && xwords="$(echo "$alltxt" | awk  'BEGIN{FS="	"}{print $1}' | sort | uniq )" && findx && [[  "$calenda" -eq 1   ]] &&  cd "$cpath" && echo 退出 && echo "$strs"  && return 0
+[[  "$fscanf" == ""  ]]  && [[  "$alltxt" == ""  ]] && [[  "$calenda" -eq 1   ]] &&  cd "$cpath" && echo 退出 && echo "$strs"  && return 0
+[[  "$fscanf" == ""  ]]  && [[  "$alltxt" != ""  ]] && xwords="$(echo "$alltxt" | awk  'BEGIN{FS="	"}{print $1}' | sort | uniq )" && findx && alltxt= &&  fscanf= && alltxt="$txt" && continue
 [[  "$alltxt" == ""  ]] && echo 找不到"$fscanf" && alltxt="$txt" && continue
 
 pt="$(printf  "$alltxt")"
@@ -3778,15 +3799,13 @@ for i in $(seq $((COLUMN)));do
 	printf  "\033[?25l\033[2m\033[$((i-1))C━\r\033[2B\033[$((COLUMN-i))C━\033[2A\r"
 	[[  $i  -eq  $((COLUMN)) ]] && printf "\033[2m\033[2B\r━\033[2A"
 done
-read -s -t 0.1
+read -s -t 0.08
 printf "\033[0m"
 printf "\r\033[2A"
 printf "\n\033[1D$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training"
-sleep 0.02
 printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training${title# }${aspace}-\n"
 sleep 0.02
 echo
-sleep 0.02
 stty echo
 printf  "\033[0m\033[?25l"
 [[  "$calenda" == "1"  ]]  && printf "Ⅰ,提词器${spaces#             }Ⅱ,完形填空${spaces#              }Ⅲ,四选一"  &&  read  premode
@@ -4062,9 +4081,8 @@ for i in $(seq $((COLUMN)));do
 	printf  "\033[?25l\033[2m\033[$((i-1))C━\r\033[2B\033[$((COLUMN-i))C━\033[2A\r"
 	[[  $i  -eq  $((COLUMN)) ]] && printf "\033[2m\033[2B\r━\033[2A"
 done
-read -s -t 0.1
+read -s -t 0.08
 printf "\033[0m"
-sleep 0.05
 printf "\r\033[2A"
 sleep 0.02
 printf "\n\033[1D$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training"
@@ -4072,7 +4090,6 @@ sleep 0.02
 printf "\033[1m$enter${spaces}${spaces# }${aspace}-\r-${title}Bash-English-Training\n"
 sleep 0.02
 echo
-sleep 0.02
 stty echo
 printf  "\033[0m\033[?25l"
 printf "Ⅰ,提词器${spaces#             }Ⅱ,完形填空"
