@@ -679,6 +679,7 @@ prt()
     done
 }
 clear
+stty -echo
 [[  $COLUMN -ge 34  ]] && prt "\033[1m$hello\r$hi\n$hey"
 sleep 0.1
 echo
@@ -691,13 +692,13 @@ printf "\033[?25l\033[0m"
 ishprt "\033[1m${strs/[2m/[1m}\n"
 ishprt "\033[2A\033[2m\033[3m"
 while true;do
-sleep 0.2 &&  read -s -t0  && break 
-printf "\r$(date  +"%Y-%m-%d %H\033[1C%M\033[1C%S")\033[K\r" &
+#sleep 0.2 &&  read -s -t0  && break 
+read -t 0.33 -s -p "$(printf "\r$(date  +"%Y-%m-%d %H\033[1C%M\033[1C%S")\033[K\r")" && echo && break 
 done
 read -s -t 0.1
 printf "\033[0m\033[3m"
 echo
-
+stty echo
 }
 
 loading()

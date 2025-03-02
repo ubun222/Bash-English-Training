@@ -689,6 +689,7 @@ prt()
     done
 }
 clear
+stty -echo
 [[  $COLUMN -ge 34  ]] && prt "\033[1m$hello\n$hi\n$hey"
 sleep 0.1
 echo
@@ -702,13 +703,13 @@ ishprt "\033[1m${strs/"[2m"/"[1m"}\n" #zsh
 ishprt "\033[2A\033[2m\033[3m"
 IFS=$newline
 while true;do
-sleep 0.2 &&  read -s -t0   && break
-printf "$(date  +"%Y-%m-%d %H\033[1C%M\033[1C%S")\r" &
+sleep 0.2 &&  read -s -t0 && echo  && break
+echo -n "$(date  +"%Y-%m-%d %H\033[1C%M\033[1C%S")\r"
 done
 IFS=$IFSbak
 printf "\033[0m\033[3m"
 echo
-
+stty echo
 }
 
 
