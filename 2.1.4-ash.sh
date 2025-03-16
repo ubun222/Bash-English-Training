@@ -1915,6 +1915,13 @@ templine1=
 templine2=
 if [[  "${line:-0}" =~  "[a-z][a-z\.]*"  ]] ;then  #第一行或中间行  ash only
 
+templine1="$(printf "%s" "$line" | sed "s/[a-z].*//g" | sed "s/,/+/g")" #ash only
+eval thetemp="\$${thes}"
+[[  "${thes}" != ""  ]] && eval $thes=\"\${thetemp}+\$templine1\"  
+
+thepres="$(printf "%s" "$line" | tr -c -s [a-z.] "\n" )"
+
+
 thes=
 thetemp=
 while read -n1 s;do
@@ -1936,8 +1943,8 @@ $line
 EOF
 
 elif [[  "${line:-99}" =~  "[a-z][a-z\.]"  ]];then #中间不同行  ash only
-templine1="$(printf "%s" "$line" | awk 'BEGIN{FS="[a-z][a-z\.]*"}{printf $1}' 2>/dev/null | sed "s/,/+/g" 2>/dev/null )"
-eval thetemp="\$$thes"
+templine1="$(printf "%s" "$line" | sed "s/[a-z].*//g" | sed "s/,/+/g")"
+eval thetemp="\$${thes}"
 [[  "${thes}" != ""  ]] && eval $thes=\"\${thetemp}+\$templine1\"
 
 thepres="$(printf "%s" "$line" | tr -c -s [a-z.] "\n" )"
