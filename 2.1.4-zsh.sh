@@ -2548,6 +2548,7 @@ EOF
 return 2
 
 elif [[  "$which" == "en"  ]] ; then
+[[  "$auto" == 1  ]] && [[  "${answer1:0:${#scanf}}" == "${scanf}"   ]] && [[  "${answer1:${#scanf}:1}" == ' '   ]]  &&  bscanf=' ' && bd=0 && getin=0 && kblock=0 && waiting=1 
 [[  "${scanf:-n1}" == "${answer1:-n}"  ]]  &&  isright=1 && return 0
 fi
 
@@ -3947,7 +3948,7 @@ fi
 if [[  $passd -eq 1  ]] ;then
         m2="$(echo "$rangem" | sed -n "$m2,${m2}p")"
 fi
-question=$(echo "$txt"| sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $2}' )
+question=$(echo "$txt"| sed -n "$m2,${m2}p" | awk  '{RS=" "}{printf $NF}' )
  echo  "${strs}"
  #stty -echo
 pureanswe=$(printf "%s" "$txt" | sed -n "$m2,${m2}p")
