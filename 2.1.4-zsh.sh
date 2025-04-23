@@ -2578,7 +2578,7 @@ struct
 while read line ;do
 
 if  [[  "${line}" != ""  ]] ;then
-exec 4<"$line"  && content="$(grep -v "\t" <&4)
+exec 4<"$line"  && content="$(grep -v "$t" <&4)
 $content"
 
 eval pt$RWN1="${line}"
@@ -2618,7 +2618,7 @@ list100=$(($((list*100))))
 output=$((list100/$((cha))))
 output5=$((output/20))
 trial=$((output5-outputed))
-[[ $trial -eq 1 ]] && str="$str"=====
+[[ $trial -eq 1 ]] && str="${str}====="
 outputed=${output5:-0}
 [[  "$COLUMN" -gt 30  ]] && printf "\033[k\r\033[2m--------------------------\033[0m]%s\r %s\r[" "${output}%" "${str}"
 [[  "$COLUMN" -le 30  ]] && printf "%s\r" "${output}%"
