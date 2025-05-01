@@ -1098,17 +1098,19 @@ fi
 tprep1()
 {
   p="$1"
-if [[  "$ish" == "y"  ]];then
 while true;do
 st=0
 Fresh
 if [[  "$?" -eq 5  ]];then
+if [[  "$ish" == "y"  ]];then
 p="${p:0:$st}~${p:$st}"
+else
+p="${p:0:$st} ${p:$st}"
+fi
 else
 break
 fi
 done
-fi
 [[  "$p" != ""  ]] && printf "%s$2" "$p"
 }
 
