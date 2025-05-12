@@ -842,6 +842,7 @@ RWN=1
  [[ !  -d ./CORRECT  ]]  && echo 在当前目录创建CORRECT/allinone.txt && mkdir CORRECT
 
 while read atarget ;do
+[[  "$atarget" == ""  ]] && continue
     [[ ! -e ./CORRECT/allinone.txt  ]] &&  echo  > ./CORRECT/allinone.txt
     ifnull="$(cat ./CORRECT/allinone.txt | uniq  )"
 if [[  "$ifnull" == ""  ]];then
@@ -3452,19 +3453,22 @@ down=0
 one=
 case $order in 
 1)
-down=$((down2+down3+down4-1))
+down=$((down1+down2+down3+down4-2))
 one="\n"
 ;;
 2)
-down=$((down3+down4-1))
+down=$((down2+down3+down4-2))
 one="\n"
 ;;
 3)
-down=$((down4-1))
+down=$((down3+down4-2))
 one="\n"
 ;;
 4)
-one=""
+down=0
+for i in $(seq $((down4-1)));do
+echo
+done
 ;;
 esac
 isright=0
@@ -3736,19 +3740,22 @@ down=0
 one=
 case $order in 
 1)
-down=$((down2+down3+down4-1))
+down=$((down1+down2+down3+down4-2))
 one="\n"
 ;;
 2)
-down=$((down3+down4-1))
+down=$((down2+down3+down4-2))
 one="\n"
 ;;
 3)
-down=$((down4-1))
+down=$((down3+down4-2))
 one="\n"
 ;;
 4)
-
+down=0
+for i in $(seq $((down4-1)));do
+echo
+done
 ;;
 esac
 
