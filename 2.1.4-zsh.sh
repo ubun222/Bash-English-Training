@@ -3466,7 +3466,7 @@ one="\n"
 ;;
 4)
 down=0
-for i in $(seq $((down4-1)));do
+[[  $down4 -gt 1  ]] && for i in $(seq $((down4-1)));do
 echo
 done
 ;;
@@ -3753,7 +3753,7 @@ one="\n"
 ;;
 4)
 down=0
-for i in $(seq $((down4-1)));do
+[[  $down4 -gt 1  ]] && for i in $(seq $((down4-1)));do
 echo
 done
 ;;
