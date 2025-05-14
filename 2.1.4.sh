@@ -2340,7 +2340,7 @@ bots="$bot"
 FIND
 scanf=
 if [[  "$premode" -eq 1  ]] || [[  "$premode" == ""  ]];then
-ishprt "$question"\\033[3m\ \‹———\›\ "\033[0m$bots"\\r
+ishprt "$question"\\033[3m\\033[2m\ \‹———\›\ "\033[0m$bots"\\r
 [[  $COLUMN -lt $length  ]] && ishprt "\033[$(($((length-1))/COLUMN))A"
 ishprt "\033[1m$question\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
 continue
@@ -3093,7 +3093,7 @@ fi
 done
 length=$((la+la2+7))
 
-printf  "\033[0m$question1"\\033[3m\ \‹———\›\ "\033[0m$bot"\\r
+printf  "\033[0m$question1"\\033[2m\\033[3m\ \‹———\›\ "\033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
 printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
 Readen
@@ -3921,7 +3921,7 @@ for t in `seq $iq`;do
 bot="$bot"-
 done
 
-printf  "\033[0m$question1"\\033[3m\ \‹———\›\ "\033[0m$bot"\\r
+printf  "\033[0m$question1"\\033[2m\\033[3m\ \‹———\›\ "\033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
 printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
 Readen
@@ -4202,7 +4202,7 @@ iq=${#answer1}
 for t in `seq $iq`;do
 bot="$bot"-
 done
-printf  "\033[0m$question1"\\033[3m\ \‹———\›\ "\033[0m$bot"\\r
+printf  "\033[0m$question1"\\033[2m\\033[3m\ \‹———\›\ "\033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
 printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
 Readen
