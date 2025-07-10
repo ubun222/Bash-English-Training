@@ -995,7 +995,7 @@ fi
 if [[  "$skip" -eq 1  ]];then
 continue
 fi
-if [[  "$id"  ==  [a-zA-Z\ -\…]   ]];then
+if [[  "$id"  ==  [\ -\~a-zA-Z\ -\…]   ]];then
 counts=$((counts+1))
 else
 counts=$((counts+2))
@@ -2519,7 +2519,7 @@ alltxtn=$(echo "$alltxt" | wc -l)
 [[  "$alltxt" == ""  ]] && echo 找不到"$fscanf" && alltxt="$txt" && continue
 
 pt="$(printf  "$alltxt")"
-while read line ;do
+while read -r line ;do
 sleep 0.01
 tprep1 "$(printf "%s" "$line"  | tr -s "	" "  " )" "\n"
 done <<EOF
