@@ -703,32 +703,8 @@ stty echo
 
 loading()
 {
-while true;do
-sleep 0.11 &&  read -s -t0 &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" '´`´`´'
-sleep 0.44 &&  read -s -t0 &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" '``´`´'
-sleep 0.11 &&  read -s -t0 &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" '`´´`´'
-sleep 0.11 &&  read -s -t0  &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" '`´``´' 
-sleep 0.11 &&  read -s -t0  &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" '`´`´´' 
-sleep 0.11 &&  read -s -t0  &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" '`´`´`' 
-sleep 0.44 &&  read -s -t0  &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" '´´`´`' 
-sleep 0.11 &&  read -s -t0  &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" '´``´`' 
-sleep 0.11 &&  read -s -t0  &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" '´`´´`' 
-sleep 0.11 &&  read -s -t0  &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" '´`´``' 
-sleep 0.11 &&  read -s -t0  &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" '´`´`´' 
-sleep 0.11 &&  read -s -t0  &&  break
-printf "\r\033[2m\033[%dC%s\r" "$COL2" '´`´`´' 
-done
+printf "\r\033[2m\033[5m\033[%dC%s\r" "$((2))" "···"
+read 
 read -s -t0.1
 }
 
@@ -784,7 +760,13 @@ if [[  "$record" == 1  ]] && [[  "$calenda" == 1  ]] ;then
     echo
 RWN=1
 cd ..
-if [[ !  -d ./CORRECT/${thepath}  ]] ;then
+if [[  "$thepath" == "CORRECT/"  ]];then
+echo "防止文件夹嵌套，提前退出" && exit 0
+#[[  -d ./Correct  ]] && printf "请先删除当前Correct文件夹再使用-r参数\n" && exit 0
+#echo "为防止文件夹嵌套，已将当前./CORRECT迁移至./Correct并生成./CORRECT/Correct" && cp -r ./CORRECT ./Correct && rm -rf ./CORRECT && thepath="Correct/"
+#mkdir CORRECT
+#echo "在txt目录创建 /CORRECT/${thepath} 文件夹"  && cp -r ${thepath%%/}  ./CORRECT/ && find ./CORRECT/$thepath | grep .txt | xargs rm -f
+elif [[ !  -d ./CORRECT/${thepath}  ]] ;then
 mkdir CORRECT
 echo "在txt目录创建 /CORRECT/${thepath} 文件夹" && cp -r ${thepath%%/}  ./CORRECT/ && find ./CORRECT/$thepath | grep .txt | xargs rm -f
 fi
