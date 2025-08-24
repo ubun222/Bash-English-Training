@@ -704,9 +704,8 @@ stty "${abc}"
 
 loading()
 {
-printf "\r\033[2m\033[5m\033[%dC%s\r" "$((2))" "···"
-read 
-read -s -t0.1
+printf "\r\033[2m\033[5m  ···\r\033[0m"
+read -s
 }
 
 loadcontent()
