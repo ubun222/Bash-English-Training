@@ -1916,8 +1916,7 @@ EOF
 elif [[  "$line" =~  [a-z][a-z\.]  ]];then #中间不同行
 templine1="$(printf "%s" "$line" | awk 'BEGIN{FS="[a-z][a-z\.]*"}{printf $1}' 2>/dev/null | sed "s/,/+/g" 2>/dev/null )"
 eval thetemp="\$$thes"
-[[  "$thes" != ""  ]] && eval $thes=\"\${thetemp}+\$templine1\"
-
+[[  "$thes" != ""  ]] && eval $thes=\"\${thetemp}+\$templine1+\"
 thepres="$(printf "%s" "$line" | tr -c -s [a-z.] "\n" )"
 
 

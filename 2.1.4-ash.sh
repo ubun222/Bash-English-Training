@@ -1901,7 +1901,7 @@ if [[  "${line:-0}" =~  "[a-z][a-z\.]*"  ]] ;then  #第一行或中间行  ash o
 
 templine1="$(printf "%s" "$line" | sed "s/[a-z].*//g" | sed "s/,/+/g")" #ash only
 eval thetemp="\$${thes}"
-[[  "${thes}" != ""  ]] && eval $thes=\"\${thetemp}+\$templine1\"  
+[[  "${thes}" != ""  ]] && eval $thes=\"\${thetemp}+\$templine1\"
 
 thepres="$(printf "%s" "$line" | tr -c -s [a-z.] "\n" )"
 
@@ -1929,7 +1929,7 @@ EOF
 elif [[  "${line:-99}" =~  "[a-z][a-z\.]"  ]];then #中间不同行  ash only
 templine1="$(printf "%s" "$line" | sed "s/[a-z].*//g" | sed "s/,/+/g")"
 eval thetemp="\$${thes}"
-[[  "${thes}" != ""  ]] && eval $thes=\"\${thetemp}+\$templine1\"
+[[  "${thes}" != ""  ]] && eval $thes=\"\${thetemp}+\$templine1+\"
 
 thepres="$(printf "%s" "$line" | tr -c -s [a-z.] "\n" )"
 
