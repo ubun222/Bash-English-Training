@@ -704,7 +704,7 @@ stty "${abc}"
 
 loading()
 {
-printf "\r\033[2m\033[5m  ···\r\033[0m"
+printf "\r\033[2m\033[3m\033[5m  ···\r\033[0m"
 read -s
 }
 
@@ -1938,6 +1938,7 @@ thes=
 thetemp=
 while read -n1 s;do
 if [[  "$s"  ==  [a-z]  ]];then
+[[  "$thes" != ""  ]] && eval $thes=\"\${thetemp}+\"
 [[  "$thetemp" != ""  ]] && thes= && thetemp=
 thes="${thes}$s"
 elif [[  "$s"  ==  '.'  ]];then

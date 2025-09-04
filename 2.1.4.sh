@@ -703,7 +703,7 @@ stty echo
 
 loading()
 {
-printf "\r\033[2m\033[5m  ···\r\033[0m"
+printf "\r\033[2m\033[3m\033[5m  ···\r\033[0m"
 read -s
 }
 
@@ -1924,10 +1924,11 @@ thes=
 thetemp=
 while read -n1 s;do
 if [[  "$s"  ==  [a-z]  ]];then
+[[  "$thes" != ""  ]] && eval $thes=\"\${thetemp}+\"
 [[  "$thetemp" != ""  ]] && thes= && thetemp=
 thes="${thes}$s"
 elif [[  "$s"  ==  '.'  ]];then
-[[  "$thetemp" == ""  ]] && [[  "$s"  ==  '.'  ]] && s="s" && thes="${thes}$s" && continue
+[[  "$thetemp" == ""  ]] && [[  "$s"  ==  '.'  ]] && s="s" && thes="${thes}$s" &&  continue
 eval thetemp="\$${thes}"
 [[  "$thes" != ""  ]]  && eval $thes=\"\${thetemp}\$s\"
 eval thetemp="\$${thes}"
@@ -1986,7 +1987,6 @@ $preps
 --conj.--
 $conjs
 " | tr "+"  "\n")"
-
 
 answerd_order="$(printf "$answerd" | sort )"
 answerd_order_0="$(printf "$answerd_order" | uniq )"
