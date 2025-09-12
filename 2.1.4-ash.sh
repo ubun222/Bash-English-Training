@@ -1224,6 +1224,58 @@ break
 elif [[  "$abool" == "$LF"  ]] || [[  "$abool" == "$CR"  ]] || [[  "$abool" == ""  ]] && [[  "$ttf" == "0"  ]] ;then
 printf "\n"
 break
+
+elif [[  "$abool"  ==  "$D"  ]];then
+echo
+FIND
+if [[  "$premode" == "1"  ]] || [[  "$premode" == ""  ]];then
+if [[  "$which" == "en"  ]] ;then
+printf "$question"\\033[3m\\033[2m\ \‹———\›\ "\033[0m$bot"\\r
+[[  $COLUMN -lt $length  ]] && ishprt "\033[$(($((length-1))/COLUMN))A"
+printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
+elif [[  "$which" == "zh"  ]];then
+printf "\033[1m$question"\\033[0m\\033[3m\\033[2m\ \‹———\›\ \\\033[0m
+fi
+elif [[  "$premode" == "2"  ]];then
+if [[  "$scanf" == "$answer"  ]];then
+(printf   "$(printf  "$pureanswer2" | sed s/"$answer"/"\\\033[1m\\\33[32m${answer}\\\033[0m"/g)" ) 2>/dev/null
+elif [[  "$scanf" == ''  ]];then
+(printf  "$(printf "$pureanswer2" | sed s/"$answer"/"\\\033[1m\\\33[33m${answer}\\\033[0m"/g)") 2>/dev/null
+else
+(printf  "$(printf "$pureanswer2" | sed s/"$answer"/"\\\033[1m\\\33[31m${answer}\\\033[0m"/g)") 2>/dev/null
+fi
+printf "\033[0m"
+elif [[  "$premode" == "3"  ]];then
+if [[  "$fbool" -eq 1  ]];then
+ishprt "\033[1m%${left}s\033[0m\n" "$question"
+ishprt "$am1\n" 
+ishprt "$am2\n"
+ishprt "$am3\n"
+ishprt "$am4\r"
+elif [[  "$fbool" -eq 2  ]] ;then
+ishprt "\033[1m\033[%dC%s\033[0m\n" "$left"  "$question"
+printf "  $am1\n"
+printf "  $am2\n"
+printf "  $am3\n"
+printf "  $am4\r"
+fi
+temp=0;
+for ii in $(seq $((order)) 4);do
+eval temp=\$down$ii\+\$temp
+done
+temp=$((temp-1))
+[[  $temp -ge 1  ]] && printf "\033[${temp}A\033[1m\033[36m ›\033[0m$enter"
+[[  $temp -lt 1  ]] && printf "\033[1m\033[36m ›\033[0m$enter"
+fi
+if [[  "$isright" -eq "1"  ]] || ifright ;then
+printf   "\r\033[${COL}C%s\r"  ${tline}
+elif [[ "${scanf:-0}" = "0" ]]; then
+printf  "\r\033[${COL}C%s\r"  ${nline}
+else
+printf   "\r\033[${COL}C%s\r"  ${fline}
+fi
+continue
+
 else
 continue
 fi 
@@ -2170,7 +2222,7 @@ printf "\n\r\033[0m"
 FIND
 scanf=
 stty -echo
-printf "\033[1m$question"\\033[3m\\033[2m\ \‹———\›\ \\\033[0m #ishprt已不需要
+printf "\033[1m$question"\\033[0m\\033[3m\\033[2m\ \‹———\›\ \\\033[0m #ishprt已不需要
   scanfd=
   thelast=
   bd=
@@ -3526,14 +3578,15 @@ printf "\033[1m%${left}s\033[0m\n" "$question"
 printf "$am1\n" 
 printf "$am2\n"
 printf "$am3\n"
-printf "$am4\n"
-printf 按方向键和空格或1-4选择$enter
+printf "$am4\r"
+#printf 按方向键和空格或1-4选择$enter
 temp=0;
 for ii in $(seq $((order)) 4);do
 eval temp=\$down$ii\+\$temp
 done
-temp=$((temp))
-printf "\033[${temp}A\033[1m\033[36m ›\033[0m$enter"
+temp=$((temp-1))
+[[  $temp -ge 1  ]] && printf "\033[${temp}A\033[1m\033[36m ›\033[0m$enter"
+[[  $temp -lt 1  ]] && printf "\033[1m\033[36m ›\033[0m$enter"
 continue 
 fi
 done
@@ -3815,14 +3868,15 @@ printf "\033[1m\033[%dC%s\033[0m\n" "$left"  "$question"
 printf "  $am1\n"
 printf "  $am2\n"
 printf "  $am3\n"
-printf "  $am4\n"
-printf 按方向键和空格或1-4选择$enter
+printf "  $am4\r"
+#printf 按方向键和空格或1-4选择$enter
 temp=0;
 for ii in $(seq $((order)) 4);do
 eval temp=\$down$ii\+\$temp
 done
-temp=$((temp))
-printf "\033[${temp}A\033[1m\033[36m ›\033[0m$enter"
+temp=$((temp-1))
+[[  $temp -ge 1  ]] && printf "\033[${temp}A\033[1m\033[36m ›\033[0m$enter"
+[[  $temp -lt 1  ]] && printf "\033[1m\033[36m ›\033[0m$enter"
 continue 
 fi
 done
@@ -4028,6 +4082,7 @@ else
 answer=$answer1
 pureanswerd="$(printf "\033[1m$answer1\033[0m $answer2")"
 iq=${#answer1}
+bot=
 for t in `seq $iq`;do
 bot="$bot"-
 done
@@ -4040,7 +4095,6 @@ Readen
 
 fi
 stty -echo
-bot=
 
 colourp 2>/dev/null
 
@@ -4104,6 +4158,7 @@ done
 length=$((la+la2+7))
 pureanswerd="$(printf "\033[1m$answer1\033[0m $answer2")"
 iq=${#answer1}
+bot=
 for t in `seq $iq`;do
 bot="$bot"-
 done
@@ -4111,9 +4166,6 @@ printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m$bo
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
 printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
 Readen
-
-
-bot=''
 
 colourp 2>/dev/null
 
@@ -4317,6 +4369,7 @@ else
 answer=$answer1
 pureanswerd="$(printf "\033[1m$answer1\033[0m $answer2")"
 iq=${#answer1}
+bot=
 for t in `seq $iq`;do
 bot="$bot"-
 done
@@ -4327,7 +4380,6 @@ Readen
 
 
 fi
-bot=
 colourp 2>/dev/null
 done
 fi
@@ -4394,7 +4446,7 @@ done
 length=$((la+la2+7))
 pureanswerd="$(printf "\033[1m$answer1\033[0m $answer2")"
 m2=$((m2/2))
-
+bot=
 iq=${#answer1}
 for t in `seq $iq`;do
 bot="$bot"-
@@ -4404,8 +4456,6 @@ printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m$bo
 printf "\033[1m$question1\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
 Readen
 
-
-bot=
 colourp 2>/dev/null
 m2=$((m2*2))
 done
@@ -4476,7 +4526,6 @@ m2=$(($((m2+1))/2))
 printf "\033[1m$question\033[0m\033[2m"\\033[3m\ \‹———\›\ "\033[0m"
 Readzh
 
-bot=
 colourp 2>/dev/null
 m2=$(($((m2*2))-1))
 done
