@@ -2530,7 +2530,7 @@ read -s -n1   fascanf
 ftf=$?
 sleep 0.012
 
-if [[  "$fascanf"  =~  "[A-Za-z' '-]"  ]];then
+if [[  "$fascanf"  =~  "[A-Za-z' '-^*.]"  ]];then
 
 fscanf=$fscanf${fascanf}
 backscanf=
