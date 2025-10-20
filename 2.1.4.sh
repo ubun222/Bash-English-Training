@@ -2225,12 +2225,12 @@ thelast="${scanf##*，}"
 if [[  "$thelast" == ''  ]] ;then
 scanfdd="，${scanfd}，"
 inmts="$(printf "%s" "${answerd_simplify}" | awk 'BEGIN{FS=","}{print NF}' 2>/dev/null)"
-inmtss="$(seq $inmts | tr -d "\n")"
+inmtss="$(seq $inmts)"
 while true;do
 [[  "$inmts" == "0"  ]] && break
 rdm5=$(($RANDOM%$inmts+1))
-rdm5=${inmtss:$(($rdm5-1)):1}
-inmtss=$(printf "$inmtss" | tr -d "$rdm5")
+rdm5=$(echo "$inmtss" | sed -n "$rdm5,${rdm5}p" )
+inmtss=$(printf "$inmtss" | grep -v "^${rdm5}$")
 inmts=$(($inmts-1))
 intimates="$(printf "%s" "${answerd_simplify}" | awk -v a=$rdm5 'BEGIN{FS=","}{print $a}' 2>/dev/null)"
 intimatess="，${intimates}，"
