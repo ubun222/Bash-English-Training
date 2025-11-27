@@ -1630,7 +1630,7 @@ _read_() #termux
 
 
 az=1
-[[   "$ascanf"  !=   [a-zA-Z\.\(\)\<\>\&\ ]   ]] && az=0
+[[   "$ascanf"  !=   [a-zA-Z\.\(\)\<\>\&\ \-]   ]] && az=0
 
 
 if [[  "$ascanf" != ""  ]] || [[  "${bd}" == [02]   ]] || [[  "${vback}" -eq "1"   ]] ;then #ash only
@@ -1728,7 +1728,7 @@ fi
 _read() #ish
 {
   az=1
-[[   "$ascanf"  !=   [a-zA-Z\.\(\)\<\>\&\ ]   ]] && az=0
+[[   "$ascanf"  !=   [a-zA-Z\.\(\)\<\>\&\ \-]   ]] && az=0
 
 #ib=$(printf "%s" "${bscanf}" | wc -c )
 if [[  "$ascanf" != ""  ]] || [[  "${bd}" == [02]   ]] || [[  "${vback}" -eq "1"   ]] ;then #ash only
@@ -2956,7 +2956,7 @@ _FUN()
 RC=
  bot=
  ss=0
-m=$(($RANDOM%${m}+1))
+m=$(($RANDOM%${m0}+1))
  [[  "$passd" -eq 1   ]] && m=$(($RANDOM%${m0}+1))
  [[  "$passd" -eq 1   ]] && m="$(echo "$rangem" | sed -n "$m,${m}p")"
 answer="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="	"}{print $1}' )"

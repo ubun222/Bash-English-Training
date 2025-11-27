@@ -2905,7 +2905,7 @@ _FUN()
 RC=
  bot=
  ss=0
-m=$(($RANDOM%${m}+1))
+m=$(($RANDOM%${m0}+1))
  [[  "$passd" -eq 1   ]] && m=$(($RANDOM%${m0}+1))
  [[  "$passd" -eq 1   ]] && m="$(echo "$rangem" | sed -n "$m,${m}p")"
 answer="$(echo "$txt" | sed -n "$m,${m}p" | awk 'BEGIN{FS="\t"}{print $1}' )"
