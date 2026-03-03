@@ -3815,8 +3815,11 @@ done
 }
 
 modify(){
-printf "\033[1m$1\033[0m" | sed -e "s/</${_m0}</g" -e "s/>/>${_m1}/g" -e "s/(/${_m0}(/g" -e "s/)/)${_m1}/g" -e "s/p/${_m0}p/g" -e "s/a/${_m0}a/g" -e "s/c/${_m0}c/g" -e "s/v/${_m0}v/g" -e "s/n/${_m0}n/g" -e "s/a/${_m0}a/g" -e "s/\./\.${_m1}/g"
-
+if [[  "$auto" != "1"  ]];then
+printf "\033[1m$1" | sed -e "s/</${_m0}</g" -e "s/>/>${_m1}/g" -e "s/(/${_m0}(/g" -e "s/)/)${_m1}/g" -e "s/p/${_m0}p/g" -e "s/a/${_m0}a/g" -e "s/c/${_m0}c/g" -e "s/v/${_m0}v/g" -e "s/n/${_m0}n/g" -e "s/a/${_m0}a/g" -e "s/\./\.${_m1}/g"
+else
+printf "\033[1m$1"
+fi
 }
 
 FUN()
