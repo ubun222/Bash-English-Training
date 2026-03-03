@@ -3211,7 +3211,7 @@ iq=$((${#question}/2));
 cq=$((COLUMN/2))
 left=$((cq+iq))
 
-pureanswerd="$(printf "%s" "$answer1 \033[1m$answer2\033[0m")"
+pureanswerd="$(printf "%s" "$answer1 $(modify "$answer2")\033[0m")"
 
 if [[  $((iq*2)) -le $COLUMN  ]];then
 printf "\033[1m%${left}s\033[0m\n" "$question"
@@ -3545,9 +3545,9 @@ fi
 done
 left=$(($((COLUMN/2))-$((iq/2))))
 if [[  $iq -lt $((COLUMN))  ]] ;then 
-ishprt "\033[1m\033[%dC%s\033[0m" $left  $question
+ishprt "\033[1m\033[%dC%s\033[0m" $left  $(modify "$question")
 elif [[  $iq -eq $((COLUMN))  ]] ;then 
-ishprt "\033[1m%s\033[0m"  $question
+ishprt "\033[1m%s\033[0m"  $(modify "$question")
 else
 if [[  "$ish" == "y"  ]] ; then 
 while true;do
@@ -3814,7 +3814,10 @@ ishprt "$strs\n"
 done
 }
 
+modify(){
+printf "\033[1m$1\033[0m" | sed -e "s/</${_m0}</g" -e "s/>/>${_m1}/g" -e "s/(/${_m0}(/g" -e "s/)/)${_m1}/g" -e "s/p/${_m0}p/g" -e "s/a/${_m0}a/g" -e "s/c/${_m0}c/g" -e "s/v/${_m0}v/g" -e "s/n/${_m0}n/g" -e "s/a/${_m0}a/g" -e "s/\./\.${_m1}/g"
 
+}
 
 FUN()
 {
@@ -3932,7 +3935,7 @@ length=$((la+la2+7))
 if [[  "$question" == "$answer1"  ]] ;then
 
 answer=$answer2
-pureanswerd="$(printf "\033[0m$answer1 \033[1m$answer2\033[0m")"
+pureanswerd="$(printf "\033[0m$answer1 $(modify "$answer2")\033[0m")"
 printf "\033[1m%s\033[0m\033[2m\033[3m ‹———› \033[0m" "$question"
 Readzh
 
@@ -3948,7 +3951,7 @@ done
 
 printf  "\033[0m$question1\\033[2m\033[3m ‹———› \033[0m$bot"
 [[  $COLUMN -lt $length  ]] && printf "\r\033[$(($((length-1))/COLUMN))A"
-printf "\r\033[1m$question1\033[0m\033[2m\033[3m ‹———› \033[0m"
+printf "\r$(modify "$question1")\033[0m\033[2m\033[3m ‹———› \033[0m"
 Readen
 
 
@@ -4023,7 +4026,7 @@ bot="$bot"-
 done
 printf "\033[1m$question1\033[0m\033[2m\033[3m ‹———› \033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question1\033[0m\033[2m\033[3m ‹———› \033[0m"
+printf "$(modify "$question1")\033[0m\033[2m\033[3m ‹———› \033[0m"
 Readen
 
 colourp 2>/dev/null
@@ -4085,7 +4088,7 @@ la2=$((la2-1))
 fi
 done
 length=$((la+la2+7))
-pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
+pureanswerd="$(printf "$answer1 $(modify "$answer2")\033[0m")"
 printf "\033[1m$question\033[0m\033[2m\033[3m ‹———› \033[0m"
 Readzh
 
@@ -4215,7 +4218,7 @@ done
 length=$((la+la2+7))
 if [[ "$question" = "$answer1" ]] ;then
 answer="$answer2"
-pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
+pureanswerd="$(printf "$answer1 $(modify "$answer2")\033[0m")"
 printf "\033[1m$question\033[0m\033[2m\033[3m ‹———› \033[0m"
 Readzh
 else
@@ -4228,7 +4231,7 @@ bot="$bot"-
 done
 printf  "\033[0m$question1\\033[2m\033[3m ‹———› \033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question1\033[0m\033[2m\033[3m ‹———› \033[0m"
+printf "$(modify "$question1")\033[0m\033[2m\033[3m ‹———› \033[0m"
 Readen
 
 
@@ -4296,7 +4299,7 @@ la2=$((la2-1))
 fi
 done
 length=$((la+la2+7))
-pureanswerd="$(printf "\033[1m$answer1\033[0m $answer2")"
+pureanswerd="$(printf "\033[1m$answer1 \033[0m$answer2")"
 m2=$((m2/2))
 bot=
 iq=${#answer1}
@@ -4305,7 +4308,7 @@ bot="$bot"-
 done
 printf "\033[1m$question1\033[0m\033[2m\033[3m ‹———› \033[0m$bot"\\r
 [[  $COLUMN -lt $length  ]] && printf "\033[$(($((length-1))/COLUMN))A"
-printf "\033[1m$question1\033[0m\033[2m\033[3m ‹———› \033[0m"
+printf "$(modify "$question1")\033[0m\033[2m\033[3m ‹———› \033[0m"
 Readen
 
 colourp 2>/dev/null
@@ -4365,7 +4368,7 @@ eval pureanswe="\${lr$m2}'	'\${lr$((m2+1))}"
 
 answer1="$(printf "%s" "$pureanswe" | awk 'BEGIN{FS="	";RS="\n"}{printf $1}' )"
 answer2="$(printf "%s" "$pureanswe" | awk 'BEGIN{FS="	";RS="\n"}{printf $NF}' )"
-pureanswerd="$(printf "$answer1 \033[1m$answer2\033[0m")"
+pureanswerd="$(printf "$answer1 $(modify "$answer2")\033[0m")"
 la=${#question}
 la2=$((${#answer2}*2))
 for i in $(seq ${#answer2});do
