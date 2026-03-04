@@ -705,7 +705,7 @@ stty "${abc}"
 loading()
 {
 printf "\r\033[2m\033[3m\033[5m  ···\r\033[0m"
-read -s
+read -s -n1
 }
 
 loadcontent()
