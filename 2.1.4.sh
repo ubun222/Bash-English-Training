@@ -3344,7 +3344,7 @@ fi
 
 if [[  "$ascanf"  ==  ""  ]] || [[  "$ascanf"  ==  "$CR"  ]] ;then
 [[  "$once" -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
-[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m ›\033[0m$enter" && continue
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$(modify "$am1")" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m ›\033[0m$enter" && continue
 printf "$enter"
 break
 fi
@@ -3360,7 +3360,7 @@ fi
 if [[  "$ascanf"  ==  [1234]  ]];then
 sub=$((ascanf-order))
 [[  "$once" -eq 0  ]] && ishprt "\033[$((down5-1))A${enter}"
-[[  "$once" -eq 0  ]] && once=1 && [[  $sub -eq 0  ]] && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m ›\033[0m$enter" && continue
+[[  "$once" -eq 0  ]] && once=1 && [[  $sub -eq 0  ]] && printf "\033[1m" && ishprt "$(modify "$am1")" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m ›\033[0m$enter" && continue
 if [[  $sub -eq 0  ]];then 
 getin=0
 order=$ascanf
@@ -3375,7 +3375,7 @@ while read -n1 WSAD ;do
 [[  "$WSAD" == [ABC]  ]] && break
 done
 [[  "$once" -eq 0  ]] && ishprt "\033[$((down5-1))A${enter}"
-[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m ›\033[0m$enter"  && continue
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$(modify "$am1")" && eval ishprt "\$down_1" && ishprt "$enter\033[0m\033[1m\033[36m ›\033[0m$enter"  && continue
 eval theam=\$am$order
 ishprt "$enter$theam"
 eval ishprt "\$down_$order"
@@ -3388,7 +3388,7 @@ printf "  $enter"
 [[  "$order" -eq 5  ]] && order=1
 eval theam=\$am$order
 printf "\033[${down}B$enter\033[1m"
-ishprt "$theam"
+ishprt "$(modify "$theam")"
 eval ishprt "\$down_$order"
 printf "$enter\033[0m"
 printf "\033[1m\033[36m ›\033[0m$enter"
@@ -3401,7 +3401,7 @@ printf "  $enter"
 eval theam=\$am$order
 [[  "$order" -ne 4  ]] &&  printf "\033[${down}A$enter"
 printf "\033[1m"
-ishprt "$theam"
+ishprt "$(modify "$theam")"
 eval ishprt "\$down_$order"
 printf "$enter\033[0m"
 printf "\033[1m\033[36m ›\033[0m$enter"
@@ -3412,7 +3412,7 @@ fi
 
 if [[  "$ascanf"  ==  ' '  ]] || [[  $getin -gt 0  ]] ;then
  [[  "$once" -eq 0  ]] && printf "\033[$((down5-1))A${enter}"
-[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$am1" && eval ishprt "\$down_1"  && ishprt "$enter\033[0m\033[1m\033[36m ›\033[0m$enter" && continue
+[[  "$once" -eq 0  ]] && once=1 && printf "\033[1m" && ishprt "$(modify "$am1")" && eval ishprt "\$down_1"  && ishprt "$enter\033[0m\033[1m\033[36m ›\033[0m$enter" && continue
 [[  $getin -gt 0  ]] && getin=$((getin-1))
 eval down=\${down$order}
 order=$((order+1))
@@ -3422,7 +3422,7 @@ printf "  $enter"
 [[  "$order" -eq 5  ]] && order=1
 eval theam=\$am$order
 printf "\033[${down}B$enter\033[1m"
-printf "$theam"
+printf "$(modify "$theam")"
 eval ishprt "\$down_$order"
 printf "$enter\033[0m"
 printf "\033[1m\033[36m ›\033[0m$enter"
@@ -3473,7 +3473,7 @@ done
 if [[  "$order" -eq "$insert"  ]];then
 orders=0
 theam=${theam/  /}
-printf "$enter\033[0m\033[1m\033[32m ›\033[0m\033[1m$theam$enter"
+printf "$enter\033[0m\033[1m\033[32m ›\033[0m\033[1m$(modify $theam)$enter"
 down=0
 one=
 case $order in 
