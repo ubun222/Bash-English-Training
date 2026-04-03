@@ -3545,9 +3545,9 @@ fi
 done
 left=$(($((COLUMN/2))-$((iq/2))))
 if [[  $iq -lt $((COLUMN))  ]] ;then 
-ishprt "\033[1m\033[%dC%s\033[0m" $left  $(modify "$question")
+ishprt "\033[1m\033[%dC%s\033[0m" $left  "$(modify "$question")"
 elif [[  $iq -eq $((COLUMN))  ]] ;then 
-ishprt "\033[1m%s\033[0m"  $(modify "$question")
+ishprt "\033[1m%s\033[0m"  "$(modify "$question")"
 else
 if [[  "$ish" == "y"  ]] ; then 
 while true;do

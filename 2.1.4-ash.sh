@@ -3599,7 +3599,7 @@ done
 if [[  "$order" -eq "$insert"  ]];then
 orders=0
 theam="$(printf "%s" "${theam}" | tr -d " ")"
-eval printf \"\${enter}\\033[0m\\033[1m\\033[32m \›\\033[0m\\033[1m\$\(modify \$theam\)\${enter}\"
+eval printf \"\${enter}\\033[0m\\033[1m\\033[32m \›\\033[0m\\033[1m\$\(modify \"\$theam\"\)\${enter}\"
 down=0
 one=
 case $order in 
@@ -3690,9 +3690,9 @@ fi
 done
 left=$(($((COLUMN/2))-$((iq/2))))
 if [[  $iq -lt $((COLUMN))  ]] ;then 
-printf "\033[1m\033[%dC%s\033[0m" "$left"  $(modify "$question")
+printf "\033[1m\033[%dC%s\033[0m" "$left"  "$(modify "$question")"
 elif [[  $iq -eq $((COLUMN))  ]] ;then 
-printf "\033[1m%s\033[0m"  $(modify $question)
+printf "\033[1m%s\033[0m"  "$(modify "$question")"
 else
 if [[  "$ish" == "y"  ]] ; then 
 while true;do

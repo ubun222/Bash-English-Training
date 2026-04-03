@@ -3473,7 +3473,7 @@ done
 if [[  "$order" -eq "$insert"  ]];then
 orders=0
 theam=${theam/  /}
-printf "$enter\033[0m\033[1m\033[32m ›\033[0m\033[1m$(modify $theam)$enter"
+printf "$enter\033[0m\033[1m\033[32m ›\033[0m\033[1m$(modify "$theam")$enter"
 down=0
 one=
 case $order in 
@@ -3564,9 +3564,9 @@ fi
 done
 left=$(($((COLUMN/2))-$((iq/2))))
 if [[  $iq -lt $((COLUMN))  ]] ;then 
-ishprt "\033[1m\033[%dC%s\033[0m" $left  $(modify $question)
+ishprt "\033[1m\033[%dC%s\033[0m" $left  "$(modify "$question")"
 elif [[  $iq -eq $((COLUMN))  ]] ;then
-ishprt "\033[1m%s\033[0m"  $(modify $question)
+ishprt "\033[1m%s\033[0m"  "$(modify "$question")"
 else
 if [[  "$ish" == "y"  ]] ; then 
 while true;do
@@ -3580,7 +3580,7 @@ fi
 done
 ishprt "$(modify $question)\033[0m"
 fi
-[[  "$ish" != "y"  ]] &&  printf "$(modify $question)\033[0m"
+[[  "$ish" != "y"  ]] &&  printf "$(modify "$question")\033[0m"
 fi
 echo
 [[  "$passd" -eq 1   ]] && total=$((constn-gcounts))
