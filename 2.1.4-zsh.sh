@@ -265,8 +265,7 @@ catable=$?
 if [[  $catable -eq 0  ]];then
 etxt=
 eetxt=
-exec 3<"$line"
-read -r -d ""  -u 3 aetxt
+read -d"\x11" aetxt <"$line"
 
 if [[  "$aetxt" =~ "	"  ]] ;then
 targets=$targets' '${line}
@@ -362,8 +361,7 @@ catable=$?
 if [[  $catable -eq 0  ]];then
 etxt=
 eetxt=
-exec 3<"$line"
-read -r -d ""  -u 3 aetxt
+read -d"\x11" aetxt <"$line"
 
 if [[  "$aetxt" =~ "	"  ]] ;then
 targets=$targets' '${line}
@@ -2625,8 +2623,7 @@ $content"
 eval pt$RWN1="${line}"
 RWN1=$((RWN1+1))
 
-exec 5<"$line"
-read -r -d "\\" -u 5 alrw
+read -r -d "\\" alrw <"$line"
 if [[  "$allrw" == ""  ]] ;then
 allrw="$alrw"
 else
