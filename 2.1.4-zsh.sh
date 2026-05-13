@@ -210,8 +210,8 @@ pt="$(echo "$txtall
 
 while read line ;do
 sleep 0.008
-[[  "${#line}" -le  "$((COLUMN-2))"  ]] && printf "%-16s  %s\n"  $line  && continue
-[[  "${#line}" -gt  "$((COLUMN-2))"  ]] && printf "%s\n%s\n"  $line  && continue
+[[  "${#line}" -le  "$((COLUMN-2))"  ]] && eval printf \"%-16s  %s\\n\"  $line  && continue
+[[  "${#line}" -gt  "$((COLUMN-2))"  ]] && eval printf \"%s\\n%s\\n\"  $line  && continue
 done <<EOF
 $pt
 EOF
@@ -728,7 +728,7 @@ struct
 while read line ;do
 
 if  [[  "${line}" != ""  ]] ;then
-exec 4<"$line"  && content="$(grep -v "	" <&4)
+content="$(grep -v "	" "$line")
 $content"
 
 eval pt$RWN1="${line}"
@@ -2619,7 +2619,7 @@ struct
 while read line ;do
 
 if  [[  "${line}" != ""  ]] ;then
-exec 4<"$line"  && content="$(grep -v "$t" <&4)
+content="$(grep -v "	" "$line")
 $content"
 
 eval pt$RWN1="${line}"

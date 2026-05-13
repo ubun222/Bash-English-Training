@@ -719,7 +719,7 @@ struct
 while read line ;do
 
 if  [[  "${line}" != ""  ]] ;then
-exec 4<"$line"  && content="$(grep -v "	" <&4)
+content="$(grep -v "	" "$line")
 $content"
 
 eval pt$RWN1="${line}"
@@ -2684,7 +2684,7 @@ struct
 while read line ;do
 
 if  [[  "${line}" != ""  ]] ;then
-exec 4<"$line"  && content="$(cat <&4)
+content="$(grep -v "	" "$line")
 $content"
 
 eval pt$RWN1="${line}"
