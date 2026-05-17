@@ -1165,7 +1165,7 @@ bool="$abool"
 [[  "$premode" == "3"   ]] && printf "\n$enter"
 
 break
-elif [[  `ccat $abool` == `ccat $x0d`  ]] || [[  `ccat $abool` == `ccat $LF`  ]] || [[  `ccat $abool` == `ccat $CR`  ]] || [[  `ccat $abool` == 9  ]] || [[  "$abool" == " "  ]] && [[  $ttf == "0"  ]] ;then
+elif [[  `ccat $abool` == `ccat $x0d`  ]] || [[  `ccat $abool` == `ccat $LF`  ]] || [[  `ccat $abool` == `ccat $CR`  ]] || [[  `ccat $abool` == 10  ]] || [[  `ccat $abool` == 9  ]] || [[  "$abool" == " "  ]] && [[  $ttf == "0"  ]] ;then
 printf "\n"
 break
 elif [[  `ccat $abool`  ==  `ccat $D`  ]];then
