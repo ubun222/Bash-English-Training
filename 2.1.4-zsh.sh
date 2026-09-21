@@ -2188,6 +2188,9 @@ printf "\033[1m$question\033[0m\033[2m\033[3m\033[2m ‹———› \033[0m" #i
 continue
 
 elif [[  `ccat $ascanf` == `ccat $x0d`  ]] || [[  `ccat $ascanf` == `ccat $LF`  ]] || [[  `ccat $ascanf` == `ccat $CR`  ]] || [[  `ccat $ascanf` == 10  ]] && [[  $tf == "0"  ]] ;then
+ascanf=
+ififright
+[[  $? -eq 1  ]] && continue
 printf "$enter"
 break
 
@@ -2574,9 +2577,9 @@ if [[  "$line" == "$thelast"  ]] ;then
 
 [[  "$scanfd" == "$answerd_order_0"  ]] && isright=1  && return 0 
 
-bscanf="，" && bd=0 && getin=0 && waiting=1 && thelast= && continue #-防止循环
+bscanf="，" && bd=0 && getin=0 && waiting=1 && thelast= && return 1 #-防止循环
 elif [[ "${line%%...*}" == "$thelast"   ]] ;then
-bscanf="..." && bd=0 && getin=0 && kblock=0 && waiting=1 && continue
+bscanf="..." && bd=0 && getin=0 && kblock=0 && waiting=1 && return 1
 
 else
 continue
