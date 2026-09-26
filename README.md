@@ -34,6 +34,28 @@
 
 </details>
 
+* 由于安卓普遍的省电调度策略，在新手机上termux被明显**限速**，建议将termux应用加入游戏工具箱，比如小米手机，在设置内搜索**侧边工具箱**在下方**游戏场景应用管理**内找到termux并添加。
+* termux**更换字体**只需要安装https://github.com/termux/termux-styling然后在应用内长按后点击more-style-choose font即可或者直接替换掉~/.termux/font.ttf字体文件，iOS则需要另外安装fontcase应用，下载三种粗中细的.ttf字体然后在此应用内操作，下载描述文件并安装，随后在ish设置中替换重启。
+* -i参数只针对当前ish，不保证永久有效，并不是必需的。
+* 建议添加以下优化**使用体验**的代码
+1. termux单层快捷键
+`
+# ~/.termux/termux.properties
+extra-keys = [[ESC, TAB, CTRL, LEFT, RIGHT, DOWN, UP]]
+`
+2. 按b或c快速启动
+`
+#/etc/profile或者~/.bashrc以及~/.zshrc
+alias b="cd ~/Bash-English-Training && ./2.1.4.sh -p -twtxt"
+alias z="cd ~/Bash-English-Training && ./2.1.4-zsh.sh -p -twtxt"
+alias a="cd ~/Bash-English-Training && ./2.1.4-ash.sh -p -twtxt"
+alias c="cd ~/C-English-Training && ./a.out -p -twtxt"
+
+`
+3. termux:styling的建议color为Neon，font为D2 Coding或losevka以及inconsolata，其他本地字体还有SarasaFixedSC-Regular.ttf，包含在https://github.com/be5invis/Sarasa-Gothic/releases项目中
+
+4. termius和ttyd以及极少数其他终端模拟软件可能会有小问题。
+
 ## 开始使用
 
 **iOS**下载ish，**安卓**下载Termux，这些都是很好用的手机终端app。
@@ -129,4 +151,4 @@ access	n.入口，享用机会vt.进入，<计算机>存取
 access	入口，享用机会，进入，存取
 ```
 
-有疑问或者建议请加qq群: 2166071565
+** 已知问题
