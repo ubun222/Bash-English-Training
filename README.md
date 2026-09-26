@@ -28,18 +28,18 @@ bash ./2.1.4.sh -ap  # 答题辅助 通关模式
 
 ## 建议添加以下优化**使用体验**的代码
 1. termux单层快捷键
-`
+```
 #~/.termux/termux.properties
 extra-keys = [[ESC, TAB, CTRL, LEFT, RIGHT, DOWN, UP]]
-`
+```
 2. 按b或c快速启动
-`
+```
 #/etc/profile或者~/.bashrc以及~/.zshrc
 alias b="cd ~/Bash-English-Training && ./2.1.4.sh -p -twtxt"
 alias z="cd ~/Bash-English-Training && ./2.1.4-zsh.sh -p -twtxt"
 alias a="cd ~/Bash-English-Training && ./2.1.4-ash.sh -p -twtxt"
 alias c="cd ~/C-English-Training && ./a.out -p -twtxt"
-`
+```
 3. termux:styling的建议color为Neon，font为D2 Coding或losevka以及inconsolata，其他本地字体还有SarasaFixedSC-Regular.ttf ，包含在https://github.com/be5invis/Sarasa-Gothic/releases 项目中
 4. termius和ttyd以及极少数其他终端模拟软件可能会有问题。
 
