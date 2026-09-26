@@ -25,7 +25,8 @@ bash ./2.1.4.sh -ap  # 答题辅助 通关模式
 * 安卓普遍的省电调度策略，在新手机上termux被明显**限速**，建议将termux应用加入游戏工具箱，比如小米手机，在设置内搜索**侧边工具箱**在下方**游戏场景应用管理**内找到termux并添加。
 * termux**更换字体**只需要安装https://github.com/termux/termux-styling 然后在应用内长按后点击more-style-choose font即可或者直接替换掉~/.termux/font.ttf字体文件，iOS则需要另外安装**fontcase**应用，下载三种粗中细的.ttf字体然后在此应用内操作，下载描述文件并安装，随后在ish设置中替换重启。
 * -i参数只针对当前ish，不保证永久有效，并不是必需的。
-* 建议添加以下优化**使用体验**的代码
+
+## 建议添加以下优化**使用体验**的代码
 1. termux单层快捷键
 `
 # ~/.termux/termux.properties
