@@ -6,7 +6,7 @@
 ```bash
 apk add bash
 apk add git
-git clone git@github.com:ubun222/Bash-English-Training.git
+git clone --depth 1 git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
 bash ./2.1.4.sh -api  # 答题辅助 通关模式 优化ish
 ```
@@ -14,7 +14,7 @@ bash ./2.1.4.sh -api  # 答题辅助 通关模式 优化ish
 在Termux中运行：
 ```bash
 apt-get install git
-git clone git@github.com:ubun222/Bash-English-Training.git
+git clone --depth 1 git@github.com:ubun222/Bash-English-Training.git
 cd Bash-English-Training
 bash ./2.1.4.sh -ap  # 答题辅助 通关模式
 ```
@@ -23,7 +23,7 @@ bash ./2.1.4.sh -ap  # 答题辅助 通关模式
 
 ## 必须说明
 * 安卓普遍的省电调度策略，在新手机上termux被明显**限速**，建议将termux应用加入游戏工具箱，比如小米手机，在设置内搜索**侧边工具箱**在下方**游戏场景应用管理**内找到termux并添加。
-* termux**更换字体**只需要安装https://github.com/termux/termux-styling 然后在应用内长按后点击more-style-choose font即可或者直接替换掉~/.termux/font.ttf字体文件，iOS则需要另外安装**fontcase**应用，下载三种粗中细的.ttf字体然后在此应用内操作，下载描述文件并安装，随后在ish设置中替换重启。
+* termux**更换字体**只需要安装https://github.com/termux/termux-styling 然后在应用内长按后点击more-style-choose font即可或者直接替换掉~/.termux/font.ttf字体文件，iOS则需要另外安装**fontcase**应用，下载三种中细的.ttf字体然后在此应用内操作，下载描述文件并安装，随后在ish设置中替换重启。
 * -i参数只针对当前ish，不保证永久有效，并不是必需的。
 
 ## 建议添加以下优化**使用体验**的代码
@@ -63,7 +63,7 @@ alias c="cd ~/C-English-Training && ./a.out -p -twtxt"
 
 ## 使用技巧
 
-- 输入词表名称或查找时，可使用正则匹配
+- 输入词表名称或查找单词时，可使用正则匹配
 - 红黄绿○指示出现时:
     - 按`y`仅打印详细释义
     - 按`Y`打印详细释义后跳过
@@ -73,7 +73,7 @@ alias c="cd ~/C-English-Training && ./a.out -p -twtxt"
     - 按回车以继续
 - `CTRL+Z` 暂停，然后 `fg` 继续
 - `CTRL+C` 退出
-- `CTRL+D` 查询
+- `CTRL+D` 查询词表单词
 - `TAB`键答题提示
 
 ## txt文件格式
@@ -102,7 +102,7 @@ access |英 ['ækses]  美 ['æksɛs]| vt. 使用；存取；接近/n. 进入；
 ```markdown
 access	n.入口，享用机会vt.进入，<计算机>存取
 ```
-- 只需要输入除()<>内的中文即可，答案会自动生成。
+- 只需要输入除()<>内的中文即可，答案会自动补全。
 ```bash
 ./2.1.4.sh -apr -t notxt ./day64.txt # ish要加-i 
 ```

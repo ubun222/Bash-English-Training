@@ -2670,7 +2670,7 @@ ifright()
 [[  "$which" == "en"  ]] && return 1
 [[  "${scanfd:-n1}" == "$answerd_order"  ]]  && return 0 
 [[  "$scanfd" == "$answerd_order_0"  ]] && [[  "$scanfd" != ""  ]] && isright=1  && return 0 
-[[  $auto -ne 1  ]] && ififright;
+#[[  $auto -ne 1  ]] && ififright;
 return 1
 }
 
