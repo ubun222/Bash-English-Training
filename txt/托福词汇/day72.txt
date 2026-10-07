@@ -1,0 +1,262 @@
+morphology			n.<生物>形态学，<语言学>词法学
+adroit			adj.灵巧的，精明的
+moss					n.苔藓
+perch						n.栖息处vi.栖息vt.放置
+recipient				n.接受者
+fare							n.票价，食物，vi.进行
+neon			n.氖adj.氖，霓虹的
+minimize		vt.将...减少到最低限度，降低
+permeate					vt.渗透，散布vi.渗透，散布
+midterm			n.(学校)期中，(任职)中期
+stress									n.精神压力，紧张，强调vt.强调vi.紧张
+digest						vt.消化，理解vi.消化n.摘要
+pancreas			n.胰腺
+Gothic			n.哥特式adj.哥特式
+undergraduate			n.本科生
+conversation					n.谈话，交谈
+rust				n.锈vi.生锈，荒废vi.生锈，荒废
+testimony					n.证词，说明，证明
+wick			n.烛芯，灯芯，火芯
+perish					vi.死亡，腐烂
+nocturnal					adj.夜间的
+application				n.申请，实施，勤奋
+distant						adj.远处的，冷淡的
+polygon		n.多边形
+arbitrary						adj.武断的
+membrane		n.膜
+essential						adj.完全必要的，本质的(基本的)n.必需品
+soothe							vt.安慰，减轻vi.安慰，减轻
+robust				adj.强壮的，坚定的，醇厚的
+venomous		adj.有毒的，恶毒的
+
+
+morphology |英 [mɔː'fɒlədʒɪ]  美 [mɔr'fɑlədʒi]| n. 形态学，形态论；[语] 词法，[语] 词态学/
+
+
+
+Someone who is adroit is quick and skilful in their thoughts, behaviour, or actions. 干练的
+adroit |英 [ə'drɒɪt]  美 [ə'drɔɪt]| adj. 敏捷的，灵巧的；熟练的/
+She is a remarkably adroit and determined politician.她是一个相当干练而果断的政治家。
+
+
+Moss is a very small, soft, green plant which grows on damp soil, or on wood or stone. 青苔
+moss |英 [mɒs]  美 [mɔs]| n. 苔藓；泥沼/vt. 使长满苔藓/n. (Moss)人名；(英、德、意、西、葡、波、挪、瑞典)莫斯/
+...ground covered over with moss.…长满青苔的地面。
+
+
+A perch is a short rod for a bird to stand on. (鸟的) 栖木
+When a bird perches on something such as a branch or a wall, it lands on it and stands there. (鸟) 栖息
+If you perch something on something else, you put or balance it on the top or edge of that thing. 把…稳置于 (某物顶部或边缘)
+To perch somewhere means to be on the top or edge of something. 坐落于 (某物顶部或边缘)
+If you perch on something, you sit down lightly on the very edge or tip of it. 轻坐在; 轻落在 (边上或顶上)
+perch |英 [pɜːtʃ]  美 [pɝtʃ]| n. 鲈鱼; 高位；栖木；杆/vt. 栖息；就位；位于；使坐落于/vi. 栖息；就位；位于/n. (Perch)人名；(俄)佩尔奇；(丹)佩克/
+A small, yellow bird in a cage sat on its perch outside the house.屋外，一只小黄鸟站在鸟笼的栖木上。
+A blackbird flew down and perched on the parapet outside his window.一只乌鸫飞下来，栖息在他家窗外的矮墙上。
+The use of steel and concrete has allowed the builders to perch a light concrete dome on eight slender columns.钢筋混凝土的使用使建筑者们能将一个轻巧的混凝土穹顶架在8根细柱上。
+...the vast slums that perch precariously on top of the hills around which the city was built.…摇摇欲坠地坐落于城市中心群山之顶的大片贫民窟。
+He lit a cigarette and perched on the corner of the desk.他点了一支烟，轻轻地坐在书桌角上。
+
+
+The recipient of something is the person who receives it. 接受者
+recipient |英 [rɪ'sɪpɪənt]  美 [rɪ'sɪpɪənt]| n. 容器，接受者；容纳者/adj. 容易接受的，感受性强的/
+...the largest recipient of U.S. foreign aid.…最大的美国对外援助接受方。
+
+
+If you say that someone or something fares well or badly, you are referring to the degree of success they achieve in a particular situation or activity. 进展
+A fare is the money that you pay for a trip that you make, for example, in a bus, train, or taxi. 车费
+fare |英 [feə]  美 [fɛr]| vi. 经营；进展；遭遇；过活/n. 票价；费用；旅客；食物/n. (Fare)人名；(瑞典)法勒；(法、意)法尔/
+It is unlikely that the marine industry will fare any better in September.海运业不大可能在9月份有所好转。
+He could barely afford the fare.他几乎付不起车费。
+
+
+Neon is a gas which occurs in very small amounts in the atmosphere. 氖
+Neon lights or signs are made from glass tubes filled with neon gas which produce a bright electric light. 霓虹的
+neon |英 ['niːɒn]  美 ['niɑn]| n. 霓虹灯；氖（10号元素，符号Ne）/n. (Neon)人名；(德)内翁；(俄)涅翁/
+Inert gases like neon and argon have eight electrons in their outer shell.像氖和氩这样的惰性气体，在它们的外电子层有8个电子。
+In the city squares the neon lights flashed in turn.在城市的各个广场上，霓虹灯交替闪烁。
+
+
+If you minimize a window on a computer screen, you make it very small, because you do not want to use it. 使最小化
+If you minimize something, you make it seem smaller or less significant than it really is. 贬低…的重要性
+If you minimize a risk, problem, or unpleasant situation, you reduce it to the lowest possible level, or prevent it from increasing beyond that level. 减到最低数量; 降到最低程度
+minimize |英 [ˈmɪnɪˌmaɪz]  美 ['mɪnɪmaɪz]| vt. 使减到最少；小看，极度轻视/vi. 最小化/
+Click the square icon again to minimize the window.再次点击正方形图标使那个窗口最小化。
+Some have minimized the importance of ideological factors.一些人已经贬低了意识形态因素的重要性。
+Concerned people want to minimize the risk of developing cancer.忧心忡忡的人们想把患上癌症的风险降到最低。
+
+
+If something permeates a place, it spreads throughout it. 弥漫
+If an idea, feeling, or attitude permeates a system or permeates society, it affects every part of it or is present throughout it. (思想、情感或态度) 全面影响
+permeate |英 ['pɜːmɪeɪt]  美 ['pɝmɪet]| vt. 渗透，透过；弥漫/vi. 弥漫；透入；散布/
+The smell of roast beef permeated the air.烤牛肉的气味弥漫在空气中。
+Bias against women permeates every level of the judicial system.对妇女的偏见全面影响司法体系的各个层面。
+
+
+A midterm or a midterm exam is a test which a student takes in the middle of a school or college term. 期中
+A midterm election is an election that takes place approximately halfway through a president's or a government's term of office. 中期的
+midterm |英 [mɪd'tɜːm]  美 [,mɪd'tɝm]| adj. 期中的；中间的/n. 期中考试/
+She was about to walk into a midterm exam for a subject she knew very little about.她马上就要参加一个她知之甚少的科目的期中考试了。
+Bush's Republican Party faces a tough challenge in midterm congressional elections in November.布什的共和党在11月中期国会选举中面临艰难的挑战。
+
+
+Stress is also a noun. 重读
+If you stress a word or part of a word when you say it, you put emphasis on it so that it sounds slightly louder. 重读
+If you feel under stress, you feel worried and tense because of difficulties in your life. 精神压力
+Stress is also a noun. 重点
+If you stress a point in a discussion, you put extra emphasis on it because you think it is important. 强调
+stress |英 [stres]  美 [strɛs]| n. 压力；强调；紧张；重要性；重读/vt. 强调；使紧张；加压力于；用重音读/n. (Stress)人名；(意)斯特雷斯/
+...the misplaced stress on the first syllable of this last word.…这个最末单词的第1个音节上的重读错误。
+She stresses the syllables as though teaching a child.她重读这些音节，像教小孩似的。
+Katy could think clearly when not under stress.凯泰在没有精神压力时能够清晰地思考。
+Japanese car makers are laying ever more stress on overseas sales.日本的汽车制造商们把更多的重点放在海外销售上。
+China's leaders have stressed the need for increased co-operation between Third World countries.中国领导人已经强调了增进第三世界国家之间合作的需要。
+The spokesman stressed that the measures did not amount to an overall ban.发言人强调说，这些措施并不等于全面禁止。
+
+
+A digest is a collection of pieces of writing. They are published together in a shorter form than they were originally published. 文摘
+If you digest some unpleasant news, you think about it until you are able to accept it and know how to deal with it. 承受 (坏消息)
+If you digest information, you think about it carefully so that you understand it. 领会
+When food digests or when you digest it, it passes through your body to your stomach. Your stomach removes the substances that your body needs and gets rid of the rest. 消化
+digest |英 [daɪ'dʒest; dɪ-]  美 [daɪ'dʒɛst]| vt. 消化；吸收；融会贯通/vi. 消化/n. 文摘；摘要/
+...the Middle East Economic Digest.…中东经济文摘。
+All this has upset me. I need time to digest it all.这一切让我心烦意乱。我需要时间来承受。
+They learn well but seem to need time to digest information.他们学得很好，但似乎需要时间来吃透这些知识。
+She couldn't digest food properly.她无法正常消化食物。
+Do not undertake strenuous exercise for a few hours after a meal to allow food to digest.饭后几小时内不要做剧烈运动，以让食物消化。
+
+
+
+pancreas |英 ['pæŋkrɪəs]  美 ['pæŋkrɪəs]| n. [解剖] 胰腺/
+
+
+
+In Gothic stories, strange, mysterious adventures happen in dark and lonely places such as graveyards and old castles. (以神秘、怪诞为特征的) 哥特派文学的
+Gothic architecture and religious art was produced in the Middle Ages. Its features include tall pillars, high curved ceilings, and pointed arches. 哥特式的 (建筑物或宗教艺术)
+Gothic |英/美 ['ɡɔθik]| adj. 哥特式的；野蛮的/n. 哥特式/
+This novel is not science fiction, nor is it Gothic horror.这部小说既非科幻故事，也非哥特式恐怖故事。
+...Gothic stained glass windows.…哥特式彩色玻璃窗。
+...a vast, lofty Gothic cathedral.…一幢雄伟高耸的哥特式大教堂。
+
+
+An undergraduate is a student at a university or college who is studying for a bachelor's or associate's degree. 大学本科生
+undergraduate |英 [ʌndə'grædjʊət]  美 [,ʌndɚ'ɡrædʒuət]| n. 大学生；大学肄业生/adj. 大学生的/
+Economics undergraduates are probably the brightest in the university.经济学本科生很可能是该大学里最聪明的学生。
+
+
+If you have a conversation with someone, you talk with them, usually in an informal situation. (非正式的) 交谈
+conversation |英 [kɒnvə'seɪʃ(ə)n]  美 [,kɑnvɚ'seʃən]| n. 交谈，会话；社交；交往，交际；会谈；（人与计算机的）人机对话/
+He's a talkative guy, and I struck up a conversation with him.他是一个健谈的人，我和他聊了起来。
+
+
+Rust is sometimes used to describe things that are reddish brown in colour. 铁锈色 (的)
+When a metal object rusts, it becomes covered in rust and often loses its strength. 生锈
+Rust is a brown substance that forms on iron or steel, for example when it comes into contact with water. 锈
+rust |英 [rʌst]  美 [rʌst]| n. 锈；生锈；[植保] 锈病/vt. 使生锈；腐蚀/vi. 生锈；成铁锈色；变迟钝/n. (Rust)人名；(英)拉斯特；(德、捷、瑞典)鲁斯特；(法)吕斯特/
+...rust and gold leaves from the maples.…铁锈色和金黄色相间的枫叶。
+Copper nails are better than iron nails because the iron rusts.铜钉比铁钉好，因为铁钉会生锈。
+...a decaying tractor, red with rust.…一辆腐朽的拖拉机，因生锈而呈红色。
+
+
+If you say that one thing is testimony to another, you mean that it shows clearly that the second thing has a particular quality. 明证
+In a court of law, someone's testimony is a formal statement that they make about what they saw someone do or what they know of a situation, after having promised to tell the truth. (法庭上的) 证词
+testimony |英 ['testɪmənɪ]  美 ['tɛstə'moni]| n. [法] 证词，证言；证据/
+The environmental movement is testimony to the widespread feelings of support for nature's importance.环保运动是大自然重要性得到广泛认可的明证。
+His testimony was an important element of the prosecution's case.他的证词是本起公诉案中的一个重要因素。
+
+
+
+wick |英 [wɪk]  美 [wɪk]| n. 灯芯，蜡烛心/vt. 依靠毛细作用带走/n. (Wick)人名；(英)威克；(德、匈、捷、柬)维克/
+
+
+
+If people or animals perish, they die as a result of very harsh conditions or as the result of an accident. (因恶劣条件或事故) 死亡
+perish |英 ['perɪʃ]  美 ['pɛrɪʃ]| vt. 使麻木；毁坏/vi. 死亡；毁灭；腐烂；枯萎/
+Most of the butterflies perish in the first frosts of autumn.大多数蝴蝶在秋季初霜来临时死亡。
+
+
+Nocturnal creatures are active mainly at night. 夜间活动的
+Nocturnal means occurring at night. 夜间发生的
+nocturnal |英 [nɒk'tɜːn(ə)l]  美 [nɑk'tɝnl]| adj. 夜的；夜曲的；夜间发生的/
+When there is a full moon, this nocturnal rodent is careful to stay in its burrow.在有满月出现的时候，这种夜间出没的啮齿类动物小心地呆在它的洞里。
+The dog's main duty will be to accompany me on long nocturnal walks.那只狗的主要职责将是陪我走长途夜路。
+
+
+Application is hard work and concentration on what you are doing over a period of time. 勤奋
+The application of a rule or piece of knowledge is the use of it in a particular situation. 应用
+In computing, an application is a piece of software designed to carry out a particular task. 应用软件
+An application for something such as a job or membership of an organization is a formal written request for it. 申请
+application |英 [ˌæplɪ'keɪʃ(ə)n]  美 [ˌæpləˈkeʃən]| n. 应用；申请；应用程序；敷用/
+...his immense talent, boundless energy and unremitting application.…他的巨大天资、无限精力与不懈努力。
+Students learned the practical application of the theory they had learned in the classroom.学生们学会了课堂上学到的理论的实际应用。
+The service works as a software application that is accessed via the internet.该业务是一个可以通过因特网访问的软件应用程序。
+His application for membership of the organization was rejected.他对该组织会员资格的申请被拒绝了。
+
+
+If you describe someone as distant, you mean that they are not concentrating on what they are doing because they are thinking about other things. 恍惚的; 茫然的
+If you describe someone as distant, you mean that you find them cold and unfriendly. 冷淡的; 不友好的
+distantly 远亲地
+A distant relative is one who you are not closely related to. 远房的
+You use distant to describe a time or event that is very far away in the future or in the past. 久远的
+Distant means very far away. 遥远的
+distant |英 ['dɪst(ə)nt]  美 ['dɪstənt]| adj. 遥远的；冷漠的；远隔的；不友好的，冷淡的/
+There was a distant look in her eyes from time to time, her thoughts elsewhere.她的眼中时而出现恍惚的神情，她的思绪飘到别处。
+He found her cold, icelike, and distant.他发现她冷若冰霜，不易接近。
+The O'Shea girls are distantly related to our family.奥谢家的姑娘们和我们家沾点儿亲。
+He's a distant relative of the mayor.他是市长的远房亲戚。
+There is little doubt, however, that things will improve in the not too distant future.然而毋庸置疑的是，事情在不远的将来会有改观。
+The mountains rolled away to a distant horizon.群山绵延至遥远的天边。
+
+
+
+polygon |英 ['pɒlɪg(ə)n]  美 ['pɑlɪɡɑn]| n. 多边形；多角形物体/
+
+
+
+arbitrarily 随意地
+If you describe an action, rule, or decision as arbitrary, you think that it is not based on any principle, plan, or system. It often seems unfair because of this. 随意的
+arbitrary |英 ['ɑːbɪt(rə)rɪ]  美 [ˈɑːrbətreri]| adj. [数] 任意的；武断的；专制的/
+The victims were not chosen arbitrarily.这些受害者不是被随意选的。
+Arbitrary arrests and detention without trial were common.不经审讯随意扣押是常有的。
+
+
+A membrane is a thin piece of skin that connects or covers parts of a person's or animal's body. 膜
+membrane |英 ['membreɪn]  美 ['mɛmbren]| n. 膜；薄膜；羊皮纸/
+...inflammation of the thin membrane that lines the heart.…心膜发炎。
+
+
+The essentials are the most important principles, ideas, or facts of a particular subject. 要素; 要点
+The essential aspects of something are its most basic or important aspects. 基本的; 重要的
+The essentials are the things that are absolutely necessary for the situation you are in or for the task you are doing. 必需品
+Something that is essential is extremely important or absolutely necessary to a particular subject, situation, or activity. 至关重要的
+essential |英 [ɪ'senʃ(ə)l]  美 [ɪ'sɛnʃl]| adj. 基本的；必要的；本质的；精华的/n. 本质；要素；要点；必需品/
+...the essentials of everyday life, such as eating and exercise.…饮食、运动等日常生活要素。
+Most authorities agree that play is an essential part of a child's development.大多数权威人士认为玩耍是孩子成长的一个重要部分。
+The apartment contained the basic essentials for bachelor life.这套公寓配有单身生活的基本必需品。
+As they must also sprint over short distances, speed is essential.由于他们还必须疾速短跑，因此速度是至关重要的。
+It was absolutely essential to separate crops from the areas that animals used as pasture.把庄稼与牲畜的放牧区分开至关重要。
+
+
+soothing 缓和的
+Something that soothes a part of your body where there is pain or discomfort makes the pain or discomfort less severe. 缓和 (疼痛或不适)
+soothing 抚慰的
+If you soothe someone who is angry or upset, you make them feel calmer. 使镇定
+soothe |英 [suːð]  美 [sʊð]| vt. 安慰；使平静；缓和/vi. 起抚慰作用/
+Cold tea is very soothing for burns.冷茶对灼伤有镇痛作用。
+...body lotion to soothe dry skin.…减轻皮肤干燥的润肤露。
+Put on some nice soothing music.放些柔和舒缓的音乐。
+He would take her in his arms and soothe her.他就会把她搂在怀里，使她镇定下来。
+
+
+Robust views or opinions are strongly held and forcefully expressed. 强有力的 (观点、见解)
+Someone or something that is robust is very strong or healthy. 健壮的
+robust |英 [rə(ʊ)'bʌst]  美 [ro'bʌst]| adj. 强健的；健康的；粗野的；粗鲁的/
+The Secretary of State has made a robust defence of the agreement.国务卿对这项协议进行了强有力的辩护。
+He was always the robust one, physically strong and mentally sharp.他一向是个健壮的人，身体强壮、头脑敏锐。
+
+
+A venomous snake, spider, or other creature uses poison to attack other creatures. 有毒的
+If you describe a person or their behaviour as venomous, you mean that they show great bitterness and anger toward someone. 恶毒的
+venomous |英 ['venəməs]  美 ['vɛnəməs]| adj. 有毒的；恶毒的；分泌毒液的；怨恨的/
+He had been bitten by a venomous snake.他被一条毒蛇咬了。
+...his terrifying and venomous Aunt Bridget.…他那可怕而恶毒的布丽奇特姑妈。
+

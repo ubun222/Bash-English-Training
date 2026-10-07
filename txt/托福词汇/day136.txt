@@ -1,0 +1,237 @@
+fungi			n.真菌
+belie			vt.证明...是错误的，使...落空，掩饰
+documentation		n.证明文件，记录
+gender					n.性别，性
+clue							n.线索，想法
+plague					n.瘟疫，灾祸vt.困扰(纠缠)
+aggravate					vt.使恶化，惹恼
+surpass						vt.胜过，超出
+curative			adj.能治病的
+previous						adj.先前的
+hereditary			adj.世袭的，遗传的
+bosom			n.乳房，胸部，胸怀
+calculus			n.微积分
+invalid						n.残疾人，vt.退役，adj.无效的
+cerebral		adj.大脑的，理智的
+dosage		n.剂量，给药
+excise		vt.<医学>切除，删除n.消费税
+balm			n.香膏，安慰物
+holistic		adj.全面的，整体性的
+infirm		adj.体弱的n.体弱的
+patient							adj.耐心的，坚忍的n.病人
+myopic		adj.近视的，目光短浅的
+optic		adj.眼睛的，视觉的
+pathological	adj.病理学的，疾病的，病态的
+capillary	n.毛细血管adj.毛细血管
+trench				n.沟渠，战壕
+deny						vt.否认，拒绝给予
+costume					n.服装
+rampant				adj.猖獗的，(植被)疯长的
+generate						vt.产生，生成，创造
+
+
+fungi |英 [ˈfʌŋɡaɪ; ˈfʌndʒaɪ; ˈfʌndʒɪ]  美 [ˈfʌnˌdʒaɪ; ˈfʌŋˌgaɪ]| n. 真菌；菌类；蘑菇（fungus的复数）/n. (Fungi)人名；(意)丰吉/
+
+
+
+If one thing belies another, it proves that the other thing is not true or genuine. 证明…为虚假
+If one thing belies another, it hides the true situation and so creates a false idea or image of someone or something. 掩饰
+belie |英 [bɪ'laɪ]  美 [bɪ'laɪ]| vt. 掩饰；与…不符；使失望；证明…虚假错误/
+The facts of the situation belie his testimony.事实情况证明他的证词是虚假的。
+Her looks belie her 50 years.她的容貌掩饰着她的50岁年龄。
+
+
+Documentation consists of documents which provide proof or evidence of something, or are a record of something. 文件证据
+documentation |英 [,dɒkjʊmen'teɪʃ(ə)n]  美 ['dɑkjəmɛn'teʃən]| n. 文件, 证明文件, 史实, 文件编制/
+Passengers must carry proper documentation.旅客必须携带适当的证明材料。
+
+
+In grammar, the gender of a noun, pronoun, or adjective is whether it is masculine, feminine, or neuter. A word's gender can affect its form and behaviour. In English, only personal pronouns such as "she," reflexive pronouns such as "itself," and possessive determiners such as "his" have gender. (语法上的) 性
+You can refer to all male people or all female people as a particular gender. 性
+A person's gender is the fact that they are male or female. 性别
+gender |英 ['dʒendə]  美 ['dʒɛndɚ]| n. 性；性别；性交/vt. 生（过去式gendered，过去分词gendered，现在分词gendering，第三人称单数genders，形容词genderless）/
+In both Welsh and Irish the word for "moon" is of feminine gender.在威尔士语和爱尔兰语中，“月亮”这个单词都是阴性。
+While her observations may be true about some men, they could hardly apply to the entire gender.她的观察对某些男人可能是对的，但并不适用于所有男性。
+Women are sometimes denied opportunities solely because of their gender.女性有时仅仅因为她们的性别而被剥夺机会。
+
+
+If you haven't a clue about something, you do not know anything about it or you have no idea what to do about it. 毫无头绪
+A clue in a crossword or game is information which is given to help you to find the answer to a question. (纵横字谜或游戏中的) 提示
+A clue is an object or piece of information that helps someone solve a crime. (破案中的) 线索
+A clue to a problem or mystery is something that helps you to find the answer to it. (解决问题或疑团时的) 线索
+clue |英 [kluː]  美 [klʊ]| n. 线索；（故事等的）情节/vt. 为…提供线索；为…提供情况/
+I haven't a clue what I'll give Carl for his birthday next year.对于明年该送什么生日礼物给卡尔我毫无头绪。
+Give me a clue. What's it begin with?给我点提示。是什么开头？
+The vital clue to the killer's identity was his nickname, Peanuts.关于杀手身份的重大线索是他的绰号——花生。
+Geneticists in Canada have discovered a clue to the puzzle of why our cells get old and die.加拿大的遗传学家已经发现了解开我们细胞衰老死亡之迷的线索。
+
+
+If you are plagued by unpleasant things, they continually cause you a lot of trouble or suffering. 使困扰
+A plague of unpleasant things is a large number of them that arrive or happen at the same time. 泛滥
+Plague or the plague is a very infectious disease that usually results in death. The patient has a severe fever and swellings on his or her body. 瘟疫
+plague |英 [pleɪg]  美 [pleɡ]| n. 瘟疫；灾祸；麻烦；讨厌的人/vt. 折磨；使苦恼；使得灾祸/
+She was plagued by weakness, fatigue, and dizziness.她被虚弱、疲劳和眩晕折磨。
+The city is under threat from a plague of rats.这座城市面临着鼠患的威胁。
+...a fresh outbreak of plague.…瘟疫的新一轮爆发。
+
+
+aggravating 恼人的
+If someone or something aggravates you, they make you annoyed. 使恼火
+If someone or something aggravates a situation, they make it worse. 使恶化
+aggravate |英 ['ægrəveɪt]  美 ['æɡrəvet]| vt. 加重；使恶化；激怒/
+You don't realize how aggravating you can be.你没意识到你有多烦人。
+What aggravates you most about this country?这个国家最让你恼火的是什么？
+Stress and lack of sleep can aggravate the situation.紧张和缺少睡眠会使情况恶化。
+
+
+If something surpasses expectations, it is much better than it was expected to be. 远远超出 (预期)
+If one person or thing surpasses another, the first is better than, or has more of a particular quality than, the second. 优于; 超过
+surpass |英 [sə'pɑːs]  美 [sə'pæs]| vt. 超越；胜过，优于；非…所能办到或理解/
+Conrad Black gave an excellent party that surpassed expectations.康拉德·布莱克办了一次远远超出预期的精彩聚会。
+He was determined to surpass the achievements of his older brothers.他决心超过他的几位哥哥的成就。
+
+
+Something that has curative properties can cure people's illnesses. 有疗效的
+curative |英 ['kjʊərətɪv]  美 ['kjʊrətɪv]| adj. 有疗效的；治病的/n. 药品；治疗法/
+Ancient civilizations believed in the curative powers of fresh air and sunlight.远古文明相信新鲜空气和阳光具有治病的功效。
+
+
+You refer to the period of time or the thing immediately before the one that you are talking about as the previous one. 前一个的
+A previous event or thing is one that happened or existed before the one that you are talking about. 前一次的
+previous |英 ['priːvɪəs]  美 ['privɪəs]| adj. 以前的；早先的；过早的/adv. 在先；在…以前/
+It was a surprisingly dry day after the rain of the previous week.这是继前一周的降雨之后出奇干燥的一天。
+She has a teenage daughter from a previous marriage.她有个出自前一次婚姻的十几岁的女儿。
+
+
+A title or position in society that is hereditary is one that is passed on as a right from parent to child. 世袭的
+A hereditary characteristic or illness is passed on to a child from its parents before it is born. 遗传 (性) 的
+hereditary |英 [hɪ'redɪt(ə)rɪ]  美 [hə'rɛdə'tɛri]| adj. 遗传的；世袭的；世代相传的/n. 遗传类/
+The position of the head of state is hereditary.国家元首的职位是世袭的。
+Cystic fibrosis is the commonest fatal hereditary disease.囊性纤维化是最常见的致命性遗传疾病。
+
+
+A bosom buddy is a friend who you know very well and like very much. 知心的
+A woman's breasts are sometimes referred to as her bosom or her bosoms. 乳房
+bosom |英 ['bʊz(ə)m]  美 ['bʊzəm]| n. 胸；胸怀；中间；胸襟；内心；乳房；内部/vt. 怀抱；把…藏在心中/adj. 知心的；亲密的/n. (Bosom)人名；(西)博索姆/
+They were bosom buddies.他们曾是知心的伙伴。
+...a young mother with a baby resting against her ample bosom.…婴儿依偎在其丰满乳房上的一位年轻母亲。
+
+
+
+calculus |英 ['kælkjʊləs]  美 ['kælkjələs]| n. [病理] 结石；微积分学/
+
+
+
+An invalid argument or conclusion is wrong because it is based on a mistake. 站不住脚的
+If an action, procedure, or document is invalid, it cannot be accepted, because it breaks the law or some official rule. 无效的
+An invalid is someone who needs to be cared for because they have an illness or disability. 病人; 残疾人
+invalid |英 [ˈɪnvəlɪd；ɪnˈvælɪd]  美 [ˈɪnvəlɪd；ɪnˈvælɪd]| adj. 无效的；有病的；残疾的/n. 病人；残疾者/vt. 使伤残；使退役/vi. 变得病弱；因病而奉命退役/
+We think that those arguments are rendered invalid by the facts.我们认为那些论点在事实面前站不住脚。
+The trial was stopped and the results declared invalid.审判被终止了，其结果被宣布无效。
+I hate being treated as an invalid.我讨厌被当作病人对待。
+
+
+Cerebral means relating to the brain. 大脑的
+If you describe someone or something as cerebral, you mean that they are intellectual rather than emotional. 理智的; 理性的
+cerebral |英 ['serɪbr(ə)l; sə'riːbr(ə)l]  美 [sə'ribrəl]| adj. 大脑的，脑的/
+...a cerebral haemorrhage.…脑溢血。
+Washington struck me as a precarious place from which to publish such a cerebral newspaper.我觉得要在华盛顿这个地方出版一份这么理性的报纸前途未卜。
+
+
+A dosage is the amount of a medicine or drug that someone takes or should take. 剂量
+dosage |英 ['dəʊsɪdʒ]  美 ['dosɪdʒ]| n. 剂量，用量/
+He was put on a high dosage of vitamin C.他在大剂量服用维生素C。
+
+
+Excise is a tax that the government of a country puts on particular goods, such as cigarettes and alcoholic drinks, which are produced for sale in its own country. 消费税; 国内货物税
+excise |英 ['eksaɪz]  美 [ɛk'saɪz]| vt. 切除；收税/n. 消费税；货物税/
+...an excise tax on wine and tobacco.…烟酒的消费税。
+...this year's rise in excise duties.…今年消费税的增长。
+
+
+If you refer to something as balm, you mean that it makes you feel better. 慰藉物
+Balm is a sweet-smelling oil that is obtained from some tropical trees and used to make creams that heal wounds or reduce pain. (做疗伤或镇痛药膏的) 香树油
+balm |英 [bɑːm]  美 [bɑm]| n. 香油；镇痛软膏；香峰草，香树膏/
+The place is balm to the soul.这个地方是对心灵的抚慰。
+...a jar of lip balm.…一罐唇膏。
+
+
+Holistic means based on the principles of holism. 整体主义的
+holistic |英 [həʊ'lɪstɪk; hɒ-]  美 [ho'lɪstɪk]| adj. 整体的；全盘的/
+...practitioners of holistic medicine.…整体医学医生。
+
+
+The infirm are people who are infirm. 体弱者
+A person who is infirm is weak or ill, and usually old. (常指因年迈而) 体弱的
+infirm |英 [ɪn'fɜːm]  美 [ɪn'fɝm]| adj. 衰弱的；意志薄弱的；不坚固的/
+We are here to protect and assist the weak and infirm.我们来这里保护和帮助病弱者。
+...her aging, infirm husband.…她那年迈体弱的丈夫。
+
+
+patiently 耐心地
+If you are patient, you stay calm and do not get annoyed, for example, when something takes a long time, or when someone is not doing what you want them to do. 耐心的
+A patient is a person who is receiving medical treatment from a doctor or hospital. A patient is also someone who is taken care of by a particular doctor. 病人
+patient |英 ['peɪʃ(ə)nt]  美 [ˈpeʃənt]| adj. 有耐心的，能容忍的/n. 病人；患者/n. (Patient)人名；(法)帕蒂安/
+She waited patiently for Frances to finish.她耐心地等弗朗西丝完成。
+Please be patient – your cheque will arrive.请耐心点儿–你的支票会到的。
+She was tough but wonderful with her patients.她很严厉，但对病人很好。
+The earlier the treatment is given, the better the patient's chances.治疗给得越早，病人机遇越好。
+
+
+If you describe someone as myopic, you are critical of them because they seem unable to realize that their actions might have negative consequences. 目光短浅的; 缺乏远见的
+myopic |英 [maɪ'ɒpɪk]  美 [maɪ'ɑpɪk]| adj. 近视的；目光短浅的/
+The government still has a myopic attitude to spending.政府在开支方面仍然缺乏远见。
+
+
+Optic means relating to the eyes or to sight. 视觉的; 视力的
+optic |英 ['ɒptɪk]  美 ['ɑptɪk]| adj. 光学的；视觉的；眼睛的/n. 眼睛；镜片/n. (Optic)人名；(英)奥普蒂克/
+The optic nerve is a part of the brain.视觉神经是大脑的一部分。
+
+
+Pathological means relating to pathology or illness. 病理学的; 病理的
+You describe a person or their behaviour as pathological when they behave in an extreme and unacceptable way, and have very powerful feelings that they cannot control. 病态的
+pathological |英 [pæθə'lɒdʒɪk(ə)l]  美 ['pæθə'lɑdʒɪkl]| adj. 病理学的；病态的；由疾病引起的（等于pathologic）/
+...pathological conditions in animals.…动物的病理状况。
+He's a pathological liar.他是个说谎成性者。
+He experiences chronic, almost pathological jealousy.他经受着长期的、近乎病态的嫉妒。
+
+
+
+capillary |英 [kə'pɪlərɪ]  美 ['kæpəlɛri]| n. 毛细管/adj. 毛细管的；毛状的/
+
+
+
+A trench is a long narrow channel in the ground used by soldiers in order to protect themselves from the enemy. People often refer to the battlegrounds of the First World War in Northern France and Belgium as the trenches. 战壕
+trench |英 [tren(t)ʃ]  美 [trɛntʃ]| n. 沟，沟渠；战壕；堑壕/vt. 掘沟/vi. 挖战壕；侵害/n. (Trench)人名；(英、西)特伦奇/
+We fought with them in the trenches.我们在战壕里与他们作战。
+
+
+If you deny someone something that they need or want, you refuse to let them have it. 拒绝给予
+When you deny something, you state that it is not true. 否认
+deny |英 [dɪ'naɪ]  美 [dɪ'nai]| vt. 否定，否认；拒绝给予；拒绝…的要求/vi. 否认；拒绝/
+Two federal courts ruled that the military cannot deny prisoners access to lawyers.两联邦法院裁定军方不能拒绝让囚犯聘请律师。
+The government has denied that the authorities have uncovered a plot to assassinate the president.政府否认当局已经发现一个暗杀总统的阴谋。
+She denied both accusations.她否认对她的两项指控。
+
+
+A costume drama is one which is set in the past and in which the actors wear the type of clothes that were worn in that period. 古装的
+The clothes worn by people at a particular time in history, or in a particular country, are referred to as a particular type of costume. (某一历史时期或某一国家人们穿的) 服装
+An actor's or performer's costume is the set of clothes they wear while they are performing. 戏装
+costume |英 [kɒstjuːm]  美 [ˈkɑsˌtum]| n. 服装，装束；戏装，剧装/vt. 给…穿上服装/
+...a lavish costume drama set in Ireland and the U.S. in the 1890s.…以19世纪90年代的爱尔兰和美国为背景的一部大型古装戏。
+...men and women in eighteenth-century costume.…身着18世纪服装的男男女女。
+The performers, in costume and makeup, were walking up and down backstage.演员们穿着戏服化着妆，在后台走来走去。
+Even from a distance, the effect of his fox costume was stunning.即使从远处看，他的狐装造型也非常漂亮。
+
+
+If you describe something bad, such as a crime or disease, as rampant, you mean that it is very common and is increasing in an uncontrolled way. 猖獗的; 泛滥的
+rampant |英 ['ræmp(ə)nt]  美 ['ræmpənt]| adj. 猖獗的；蔓延的；狂暴的；奔放的/n. (Rampant)人名；(法)朗庞/
+Inflation is rampant and industry in decline.通货膨胀肆虐，工业生产下降。
+
+
+To generate a form of energy or power means to produce it. 产生 (电等能量)
+To generate something means to cause it to begin and develop. 造成
+generate |英 ['dʒenəreɪt]  美 ['dʒɛnəret]| vt. 使形成；发生；生殖；产生物理反应/
+The company, New England Electric, burns coal to generate power.新英格兰电力公司燃烧煤来发电。
+The labour secretary said the reforms would generate new jobs.劳动部长说这些改革将带来新的工作。
+

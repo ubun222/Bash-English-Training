@@ -1,0 +1,290 @@
+coefficient		n.系数
+differential		adj.差别的，<数学>微分的n.(英)(工资)级差，<数学>微分的
+vaporize		vt.使...蒸发，烧化vi.使...蒸发
+waggle		vt.使...来回动vi.使...来回动n.使...来回动
+approximation	n.近似(值)
+bisect		vt.把...分为两部分
+calculable	adj.可计算的
+ellipse		n.椭圆
+dividend					n.股息，收益，被除数
+formula							n.惯用语句，方案，<美>配方
+weathering	n.风化
+tarnish				vi.失去光泽vi.失去光泽，玷污n.失去光泽
+inquire					vt.询问vi.打听
+extrapolate	vt.推断
+remains		n.剩余物，遗迹
+flexibility						n.柔韧性，灵活性
+mural		n.壁画
+balance						n.平衡，天平，大部分，余额vt.平衡vi.平衡
+telegraph							n.电报vt.电报
+privilege							n.特权，荣幸
+chart						n.图表，地图vt.地图
+scan						vt.仔细观察，扫描n.扫描
+congress						n.代表大会，国会
+amenity		n.宜人
+amenities	n.便利设施
+pretension	n.自命，做作
+sensual		adj.感官的，性感的
+grimly		adv.严肃的，坚定的
+mechanics	n.技工
+presentation					n.赠与，陈述，外观，表演
+refurbish	vt.整修
+
+A coefficient is a number that expresses a measurement of a particular quality of a substance or object under specified conditions. 系数
+coefficient |英 [,kəʊɪ'fɪʃ(ə)nt]  美 [,koɪ'fɪʃnt]| n. [数] 系数；率；协同因素/adj. 合作的；共同作用的/
+...production coefficients....生产系数。
+
+
+In mathematics and economics, a differential is a difference between two values in a scale. (数学) 微分; (经济) 差价
+differential |英 [,dɪfə'renʃ(ə)l]  美 ['dɪfə'rɛnʃəl]| adj. 微分的；差别的；特异的/n. 微分；差别/
+...the wage differential between blue-collar and white-collar workers.…蓝领与白领工作人员之间的工资差别。
+
+
+If a liquid or solid vaporizes or if you vaporize it, it changes into vapor or gas. (使)蒸发
+vaporize |英 ['veɪpəraɪz]  美 ['vepə'raɪz]| vi. 蒸发/vt. 使…蒸发/
+The blast may have vaporized the meteorite.爆炸可能使陨石汽化了。
+The benzene vaporized and formed a huge cloud of gas.苯蒸发形成了一大团气体。
+
+
+If you waggle something, or if something waggles, it moves up and down or from side to side with short quick movements. 使...上下移动; 上下移动; 使...来回摇摆; 来回摇摆
+waggle |英 ['wæg(ə)l]  美 ['wæɡl]| vi. 摇摆；不停地来回摇动/vt. 摆动；来回摇动/n. 摇摆；摆动/
+...puppet animals with eyes that move and ears that waggle....眼睛会转、耳朵会来回摇摆的动物木偶。
+He was waggling his toes in his socks.他的脚趾在袜子里来回移动。
+
+
+An approximation is a number, calculation, or position that is close to a correct number, time, or position, but is not exact. 近似值
+An approximation is a fact, object, or description which is similar to something else, but which is not exactly the same. 近似物
+approximation |英 [ə,prɒksɪ'meɪʃn]  美 [ə'prɑksə'meʃən]| n. [数] 近似法；接近；[数] 近似值/
+As we know, 365.25 is only an approximation.如我们所知，365.25只是一个近似值。
+Clearly that's an approximation, but my guess is there'll be a reasonable balance.显然那是一个近似值，但是我的猜测是会有不少余额。
+That is a fair approximation of the way in which the next boss is being chosen.那是一个挑选下任老板的大体近似方式。
+
+
+If something long and thin bisects an area or line, it divides the area or line in half. (把地区或线条)一分为二; 二等分
+bisect |英 [baɪ'sekt]  美 [baɪ'sɛkt]| vt. 平分；二等分/vi. 横贯；一分为二/
+The main street bisects the town from end to end.这条主街把整个镇一分为二。
+
+
+
+calculable |英 ['kælkjʊləb(ə)l]  美 ['kælkjələbl]| adj. 可计算的；能预测的；可靠的/
+
+
+
+An ellipse is an oval shape similar to a circle but longer and flatter. 椭圆形
+ellipse |英 [ɪ'lɪps]  美 [ɪ'lɪps]| n. [数] 椭圆形，[数] 椭圆/
+The Earth orbits in an ellipse.地球沿椭圆形轨道运动。
+
+
+If something pays dividends, it brings advantages at a later date. 有回报; 可获益
+A dividend is the part of a company's profits which is paid to people who own shares in the company. 股息
+dividend |英 ['dɪvɪdend]  美 ['dɪvɪdɛnd]| n. 红利；股息；[数] 被除数；奖金/
+Steps taken now to maximize your health will pay dividends later on.现在采取措施充分重视你的健康将来就会有回报。
+The first quarter dividend has been increased by nearly 4 percent.第一季度的股息增加了近4％。
+
+
+A formula for a particular situation, usually a good one, is a course of action or a combination of actions that is certain or likely to result in that situation. (达成通常为好的结局的) 行动方案
+In science, the formula for a substance is a list of the amounts of various substances which make up that substance, or an indication of the atoms that it is composed of. 分子式
+A formula is a group of letters, numbers, or other symbols which represents a scientific or mathematical rule. 公式
+A formula is a plan that is invented in order to deal with a particular problem. 方案
+formula |英 ['fɔːmjʊlə]  美 ['fɔrmjələ]| n. [数] 公式，准则；配方；婴儿食品/
+After he was officially pronounced the world's oldest man, he offered this simple formula for a long and happy life.在他被正式宣布为世界上最老的人之后，他提供了这一长寿和幸福生活的简单方法。
+Glucose and fructose have the same chemical formula but have very different properties.葡萄糖和果糖具有相同的化学分子式但有很不同的特性。
+He developed a mathematical formula describing the distances of the planets from the Sun.他提出了一个描述各行星与太阳之间距离的数学公式。
+...a peace formula.…一项和平方案。
+
+
+
+weathering |英 ['weðərɪŋ]  美 ['wɛðərɪŋ]| n. [地质] 风化作用；[水利] 泻水斜度；挡风雨材料/v. 风干；使退色；经受住（weather的ing形式）/
+
+
+
+If a metal tarnishes or if something tarnishes it, it becomes stained and loses its brightness. 玷污; 变得有污迹
+tarnished 受玷污了的; 受损了的
+If you say that something tarnishes someone's reputation or image, you mean that it causes people to have a worse opinion of them than they would otherwise have had. 玷污; 损坏 (名声或形象)
+tarnish |英 ['tɑːnɪʃ]  美 ['tɑrnɪʃ]| n. 晦暗，无光泽；污点/vt. 玷污；使……失去光泽；使……变灰暗/vi. 失去光泽；被玷污；变灰暗/
+It never rusts or tarnishes.它从不生锈，也没有污迹。
+He says he wants to improve the tarnished image of his country.他说想改善他的国家已受损的形象。
+The affair could tarnish the reputation of the senator.这一事件可能有损那位参议员的名声。
+
+
+If you inquire into something, you investigate it carefully. 调查; 查究
+If you inquire about something, you ask for information about it. 查询; 打听
+inquire |英 [ɪn'kwaɪə]  美 [ɪn'kwaɪr]| vt. 询问；查究；问明/vi. 询问；查究；询价/
+Inspectors were appointed to inquire into the affairs of the company.检查员被派去调查该公司的事务。
+He called them several times to inquire about job possibilities.他给他们打了几次电话打听就业的可能性。
+"What are you doing there?" she inquired.“你在那里做什么？”她问道。
+
+
+extrapolation 推断
+If you extrapolate from known facts, you use them as a basis for general statements about a situation or about what is likely to happen in the future. 推断
+extrapolate |英 [ɪk'stræpəleɪt; ek-]  美 [ɪk'stræpə'let]| vt. 外推；推断/vi. 外推；进行推断/
+His estimate of half a million HIV-positive cases was based on an extrapolation of the known incidence of the virus.他的50万HIV阳性病例的估计是基于对已知病毒发病率的推断。
+Extrapolating from his latest findings, he reckons about 80% of these deaths might be attributed to smoking.从他最近的发现推断，他估计大约80%的这类死亡可能归因于吸烟。
+
+
+The remains of a person or animal are the parts of their body that are left after they have died, sometimes after they have been dead for a long time. (人的) 遗体; (动物的) 残骸
+Theremainsof something are the parts of it that are left after most of it has been taken away or destroyed. 残余; 残迹
+If something remains to be done, it has not yet been done and still needs to be done. 剩下; 余留; 待做
+You can say that something remains when it still exists. 继续存在; 仍然存在
+If you remain in a place, you stay there and do not move away. 留在; 停留
+If someone or something remains in a particular state or condition, they stay in that state or condition and do not change. 继续; 保持
+remains |英 [rɪ'meɪnz]  美 [rɪ'menz]| n. 残余；遗骸/
+The unrecognizable remains of a man had been found.发现了一具无法辨认的男子的遗体。
+They were cleaning up the remains of their picnic.他们正在打扫野餐的残余物。
+Major questions remain to be answered about his work.关于他工作的主要问题仍有待回答。
+The wider problem remains.更广泛的问题依然存在。
+They have asked the residents to remain in their homes.他们已经要求居民待在自己家里。
+The government remained in control.政府继续控制着局势。
+The three men remained silent.这3个人保持沉默。
+
+
+ Because of its flexibility, we can mold software into any form to do almost anything.  由于灵活性，我们可以将软件塑造成任何形式从而处理几乎所有的问题。
+ Governance should not be a set of static processes without any flexibility.  治理不应该是一组没有任何灵活性的静态过程。
+ But why do plant cells have this kind of flexibility?  但是为什么植物细胞有这样的灵活性?
+flexibility |英 [,fleksɪ'bɪlɪtɪ]  美 [,flɛksə'bɪləti]| n. 灵活性；弹性；适应性/
+
+
+
+A mural is a picture painted on a wall. 壁画
+mural |英 ['mjʊər(ə)l]  美 ['mjʊrəl]| adj. 墙壁的/n. 壁画；（美）壁饰/
+...a mural of San Francisco Bay.…一幅旧金山湾壁画。
+
+
+If you balance your books or make them balance, you prove by calculation that the amount of money you have received is equal to the amount that you have spent. 使 (账目) 平衡; (账目) 平衡
+If someone balances their budget or if a government balances the economy of a country, they make sure that the amount of money that is spent is not greater than the amount that is received. 使 (收支) 平衡
+If you balance one thing against another, you consider its importance in relation to the other one. 权衡; 使协调
+If you say that the balance tips in your favour, you start winning or succeeding, especially in a conflict or contest. (表示冲突中的形势) 天平
+A balance is a situation in which all the different parts are equal in strength or importance. 均衡
+balanced 均衡的
+If you balance one thing with something different, each of the things has the same strength or importance. 使均衡
+Balance is the ability to remain steady when you are standing up. 平衡能力
+If you balance something somewhere, or if it balances there, it remains steady and does not fall. 使平衡; 平衡
+balance |英 ['bæl(ə)ns]  美 ['bæləns]| n. 平衡；余额；匀称/vt. 使平衡；结算；使相称/vi. 保持平衡；相称；抵销/n. (Balance)人名；(西)巴兰塞/
+On balance he agreed with Christine.总的说来，他同意克里斯蒂娜的看法。
+A gust of wind knocked him off balance and he fell face down in the mud.一阵大风吹得他失去了平衡，脸朝下摔在了泥里。
+She was holding onto the rail to keep her balance.她抓着栏杆来保持身体平衡。
+They were due to pay the balance on delivery.他们定在货到时支付余款。
+I'd like to check the balance in my account please.我想查一下我账户的余额。
+...teaching them to balance the books.…教他们平衡账目。
+He balanced his budgets by rigid control over public expenditure.他通过严格控制公共开支来平衡预算。
+She carefully tried to balance religious sensitivities against democratic freedom.她小心翼翼地试着协调宗教敏感性与民主自由。
+...a powerful new gun which could tip the balance of the war in their favour.…可能会使战争的天平向他们那边倾斜的一种威力强大的新型炮。
+...the ecological balance of the forest.…森林的生态平衡。
+This book is a well balanced biography.这是一本很公正的传记。
+Supply and demand on the currency market will generally balance.货币市场上的供需关系将会大致平衡。
+The government has to find some way to balance these two needs.政府得找到某种方法来平衡这两种需求。
+Balance spicy dishes with mild ones.使辛辣的菜和清淡的菜均衡。
+The medicines you are currently taking could be affecting your balance.你现在吃的药可能会影响你的平衡能力。
+I balanced on the ledge.我在岩脊上站稳。
+
+
+If someone telegraphs something that they are planning or intending to do, they make it obvious, either deliberately or accidentally, that they are going to do it. 流露 (要做某事)
+To telegraph someone means to send them a message by telegraph. 发电报给
+telegraph |英 ['telɪgrɑːf]  美 ['tɛlɪɡræf]| n. [通信] 电报机，电报/vt. 电汇；流露出；打电报给…/vi. 打电报/
+The commission telegraphed its decision earlier this month by telling an official to prepare the order.该委员会本月早些时候通过让一个官员准备那项命令流露了其要做的决定。
+Churchill telegraphed an urgent message to Wavell.丘吉尔给韦维尔发了一个急电。
+
+
+You can use privilege in expressions such as be a privilege or have the privilege when you want to show your appreciation of someone or something, or to show your respect. 荣幸
+If you talk about privilege, you are talking about the power and advantage that only a small group of people have, usually because of their wealth or their connections with powerful people. (一小部分人因其财富或与有权人的关系而拥有的) 特权
+A privilege is a special right or advantage that only one person or group has. (某人、某团体拥有的) 特权
+privilege |英 [ˈprɪvəlɪdʒ]  美 [ˈprɪvəlɪdʒ]| n. 特权；优待/vt. 给与…特权；特免/
+It must be a privilege to know such a man.认识这样一个人必是一种荣幸。
+Pironi was the son of privilege and wealth, and it showed.皮罗尼是富贵人家的子弟，这一点明摆着。
+The Russian Federation has issued a decree abolishing special privileges for government officials.俄罗斯联邦已颁布了一条取消政府官员特权的法令。
+
+
+If you chart the development or progress of something, you observe it and record or show it. You can also say that a report or graph charts the development or progress of something. 用图表记录
+If you chart an area of land, sea, or sky, or a feature in that area, you make a map of the area or show the feature in it. 绘制
+A chart is a map of the sea or stars. 海图; 星图
+A chart is a diagram, picture, or graph which is intended to make information easier to understand. 图表
+chart |英 [tʃɑːt]  美 [tʃɑrt]| n. 图表；海图；图纸；排行榜/vt. 绘制…的图表；在海图上标出；详细计划；记录；记述；跟踪（进展或发展/n. (Chart)人名；(泰)察/
+One doctor has charted a dramatic rise in local childhood asthma since the road was built.一位医生用图表记录的方式，说明道路建成后当地儿童哮喘发病率急剧上升。
+Ptolemy charted more than 1,000 stars in 48 constellations.托勒密绘制了48个星座中1000多颗星的星图。
+...charts of Greek waters.…希腊水域图。
+Male unemployment was 14.2%, compared with 5.8% for women (see chart on next page).男性失业率是14.2%，相比女性为5.8% (参见下页图表)。
+
+
+A scan is a medical test in which a machine sends a beam of X-rays over a part of your body in order to check that it is healthy. (身体) 扫描检查
+If a radar or sonar machine scans an area, it examines or searches it by sending radar or sonar beams over it. (用雷达或声纳波束) 扫描
+If a picture or document is scanned into a computer, a machine passes a beam of light over it to make a copy of it in the computer. 扫描 (图片或文件)
+If a computer disk is scanned, a program on the computer checks the disk to make sure that it does not contain a virus. 扫描 (计算机磁盘以查病毒)
+If people scan something such as luggage, they examine it using a machine that can show or find things inside it that cannot be seen from the outside. (用机器) 扫描 (行李等)
+When you scan a place or group of people, you look at it carefully, usually because you are looking for something or someone. 仔细察看
+Scan is also a noun. 浏览
+When you scan written material, you look through it quickly in order to find important or interesting information. 浏览
+scan |英 [skæn]  美 [skæn]| vt. 扫描；浏览；细看；详细调查；标出格律/vi. 扫描；扫掠/n. 扫描；浏览；审视；细看/
+A brain scan revealed the blood clot.脑部扫描检查发现了那个血块。
+The ship's radar scanned the sea ahead.船上的雷达扫描了前方海域。
+The entire paper contents of all libraries will eventually be scanned into computers.所有图书馆的全部纸质内容最终都会被扫描进电脑。
+Not all ISPs are equipped to scan for viruses.并非所有的因特网服务供应商都有装备来扫描病毒。
+Their approach is to scan every checked-in bag with a bomb detector.他们的做法是用炸弹探测器扫描每一个办理了登机手续的箱包。
+She was nervous and kept scanning the crowd for Paul.她很紧张，一直在人群中寻找保罗。
+The officer scanned the room.警察仔细察看了那个房间。
+I just had a quick scan through your book again.我刚刚把你的书又作了一次浏览。
+She scanned the advertisement pages of the newspapers.她浏览了报纸的广告页。
+
+
+A congress is a large meeting that is held to discuss ideas and policies. 代表大会
+congress |英 ['kɒŋgres]  美 ['kɑŋɡrəs]| n. 国会；代表大会；会议；社交/
+A lot has changed after the party congress.该党代表大会后很多都变了。
+
+
+Amenities are things such as shopping centres or sports facilities that are provided for people's convenience, enjoyment, or comfort. 便利设施
+amenity |英 [ə'miːnɪtɪ; -'men-]  美 [ə'mɛnəti]| n. 舒适；礼仪；愉快；便利设施/
+The hotel amenities include health clubs, conference facilities, and banqueting rooms.这家旅馆的设施包括健身俱乐部、会议设备和宴会厅。
+
+
+Amenities are things such as shopping centres or sports facilities that are provided for people's convenience, enjoyment, or comfort. 便利设施
+amenities |英 [ə'miːnətɪz]  美 [ə'minətɪz]| n. 令人愉快之事物（amenity的复数）/
+The hotel amenities include health clubs, conference facilities, and banqueting rooms.这家旅馆的设施包括健身俱乐部、会议设备和宴会厅。
+
+
+If someone has pretensions to something, they claim to be or do that thing. 声称
+If you say that someone has pretensions, you disapprove of them because they claim or pretend that they are more important than they really are. 做作
+pretension |英 [prɪ'tenʃ(ə)n]  美 [prɪ'tɛnʃən]| n. 自负；要求；主张；借口；骄傲/
+The city has unrealistic pretensions to world-class status.该城市不切实际地声称为世界一流城市。
+Her wide-eyed innocence soon exposes the pretensions of the art world.她的天真无邪很快就暴露出艺术界的做作。
+
+
+sensuality 感官的愉悦
+Something that is sensual gives pleasure to your physical senses rather than to your mind. 愉悦感官的
+sensuality 性感
+Someone or something that is sensual shows or suggests a great liking for physical pleasures, especially sexual pleasures. 喜爱感官享受 (尤指肉欲) 的
+sensual |英 ['sensjʊəl; -ʃʊəl]  美 ['sɛnʃuəl]| adj. 感觉的；肉欲的；世俗的；感觉论的/
+These perfumes have warmth and sensuality.这些香水温暖且令人愉悦。
+It was an opera, very glamorous and very sensual.那是一部极富魅力，让人感官非常愉悦的歌剧。
+The wave and curl of her blonde hair gave her sensuality and youth.波浪式的卷曲金发使她显得性感并富有青春活力。
+...the sensual curve of her lips.…她嘴唇的性感曲线。
+He was a very sensual person.他是个非常喜爱感官享受的人。
+
+
+ This matter-of-fact and sometimes grimly funny book, first published in France in 1994, digs a small and vital hole very deeply.  事实上，这本有时还可怕的有意思的漫画，首次发表于1994年，挖了一个小小的却又很深的坑。
+ Others more grimly said they saw bodies in the streets that they could not retrieve.  其他人更冷酷地说他们看见了街上没来得及收的尸体。
+ “Nothing much for us to do, ” the intern said grimly.  “我们根本无能为力了，”实习生伤感地说道。
+grimly |英 ['grɪmlɪ]  美 ['grɪmlɪ]| adv. 可怕地；冷酷地；严格地/
+
+
+
+Mechanics is the part of physics that deals with the natural forces that act on moving or stationary objects. 力学
+Themechanicsof a process, system, or activity are the way in which it works or the way in which it is done. 运作方式
+A mechanic is someone whose job is to repair and maintain machines and engines, especially car engines. 机修工
+mechanics |英 [mɪ'kænɪks]  美 [mə'kænɪks]| n. 力学（用作单数）；结构；技术；机械学（用作单数）/
+He has not studied mechanics or engineering.他没有学习过力学或者工程学。
+What are the mechanics of this new process?这一新工序的运作方式是什么？
+If you smell something unusual (gas fumes or burning, for instance), take the car to your mechanic.如果你闻到了异味（例如汽油味或燃烧味），就把车带给你的修理工。
+
+
+When someone gives a presentation, they give a formal talk, often in order to sell something or get support for a proposal. 讲座
+A presentation is a formal event at which someone is given a prize or award. 颁奖仪式
+Presentation is the appearance of something, that someone has worked to create. 外观
+presentation |英 [prez(ə)n'teɪʃ(ə)n]  美 [,prizɛn'teʃən]| n. 展示；描述，陈述；介绍；赠送/
+James Watson, Philip Mayo and I gave a slide and video presentation.詹姆斯·沃森、菲利普·梅奥和我一起做了一场有幻灯和录像片的讲座。
+...after receiving his award at a presentation in Kansas City yesterday.…昨天在堪萨斯城的一个颁奖仪式上接受了他的奖项之后。
+We serve traditional French food cooked in a lighter way, keeping the presentation simple.我们提供传统法国美食，风味清淡，外观简洁。
+
+
+To refurbish a building or room means to clean it and decorate it and make it more attractive or better equipped. 翻新 (建筑物或房间)
+refurbish |英 [riː'fɜːbɪʃ]  美 [,ri'fɝbɪʃ]| vt. 刷新；再磨光/
+We have spent money on refurbishing the offices.我们已在这些办公室的翻新上花了钱。
+

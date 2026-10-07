@@ -1,0 +1,309 @@
+orbit							n.轨道，势力范围，vt.绕...运行，vi.绕轨道运行
+kiln			n.窑
+proofread		vt.校对，vi.校对
+arithmetic					n.算术adj.算术
+landscape	n.(陆上)风景
+doctrine				n.<宗教>教义，<哲学>学说
+suppose				vt.认为，设想
+matrimony			n.<正式>婚姻
+adapt								vt.调整...以适用vi.调整...以适用
+span							n.持续时间段，范围vt.跨越，持续
+veto					n.否决权，禁止vt.否决
+mechanic					n.技工
+glimpse				n.一瞥，领略vt.一瞥，领略
+claim							vt.要求...的所有权，声称，要求，获得，vi.索赔，n.所有权，声称，索赔，要求
+plausible				adj.貌似合理的，花言巧语的
+restore					vt.修复，使...复职，使...复元
+arouse					vt.引起，唤醒
+landmass			n.陆块
+treadmill			n.跑步机
+ecosystem						n.生态系统
+opal			n.蛋白石
+centric			adj.在中心的
+scent							n.香味，线索，香水vt.嗅到
+attorney				n.代理人
+confession			n.承认，忏悔
+idiom								n.成语，方言，风格
+fort					n.堡垒
+immune				adj.免疫的，受保护的，豁免的
+quilt					n.<英>被子
+coincide					vi.同时发生，相接，相符
+
+If something such as a satellite orbits a planet, moon, or sun, it moves around it in a continuous, curving path. 环绕…的轨道运行
+An orbit is the curved path in space that is followed by an object going around and around a planet, moon, or star. (天体运行的) 轨道
+orbit |英 ['ɔːbɪt]  美 ['ɔrbɪt]| n. 轨道；眼眶；势力范围；生活常规/vi. 盘旋；绕轨道运行/vt. 绕…轨道而行/
+In 1957 the Soviet Union launched the first satellite to orbit the earth.1957年，苏联发射了第一颗环绕地球运行的人造卫星。
+Mars and Earth have orbits which change with time.火星和地球的轨道随着时间而发生改变。
+
+
+
+kiln |英 [kɪln]  美 [kɪln]| vt. 烧窑；在干燥炉干燥/n. （砖，石灰等的）窑；炉；干燥炉/
+
+
+
+proofreader
+When someone proofreads something such as a book or an article, they read it before it is published in order to find and mark mistakes that need to be corrected. 校对
+proofread |英 ['pruːfriːd]  美 ['prufrid]| vt. 校对，校勘/vi. 做校对工作/
+...a proofreader on the Montreal Gazette....《蒙特利尔期刊》的一名校对员。
+I didn't even have the chance to proofread my own report.我甚至没有机会校对自己的报告。
+
+
+If you refer to the arithmetic of a situation, you are concerned with those aspects of it that can be expressed in numbers, and how they affect the situation. (某形势的) 数据
+You can use arithmetic to refer to the process of doing a particular sum or calculation. 计算
+Arithmetic is the part of mathematics that is concerned with the addition, subtraction, multiplication, and division of numbers. 算术
+arithmetic |英 [ə'rɪθmətɪk]  美 [ə'rɪθmətɪk]| n. 算术，算法/
+The arithmetic was discouraging. In less than two months, they had used up six months' worth of food.数据不容乐观。在不到两个月里，他们已经吃完了6个月的食物。
+4,000 women put in ten rupees each, which if my arithmetic is right adds up to 40,000 rupees.4千名妇女每人交10卢比，如果我的计算准确的话加起来总共是4万卢比。
+...teaching the basics of reading, writing and arithmetic.…教授读、写、算的基本知识。
+
+
+If a sheet of paper is in landscape format or mode, the longer edge of the paper is horizontal and the shorter edge is vertical. 横排格式
+landscaping 景观美化
+If an area of land is landscaped, it is changed to make it more attractive, for example, by adding streams or ponds and planting trees and bushes. 对…做景观美化
+A landscape is a painting which shows a scene in the countryside. 乡村风景画
+A landscape is all the features that are important in a particular situation. 局面
+The landscape is everything you can see when you look across an area of land, including hills, rivers, buildings, trees, and plants. 风景
+landscape |英 [ˈlændskeɪp]  美 [ˈlændskep]| n. 风景；风景画；景色；山水画；乡村风景画；地形；（文件的）横向打印格式/vt. 对…做景观美化，给…做园林美化；从事庭园设计/vi. 美化（环境等），使景色宜人；从事景观美化工作，做庭园设计师/
+Most powerpoint presentations are prepared for screens in landscape format.大部分幻灯片演示在屏幕上都是横排格式。
+The landowner insisted on a high standard of landscaping.土地所有人执意要求高标准的景观美化。
+They had landscaped their property with trees, shrubs, and lawns.他们种了树、灌木和草坪来美化家园。
+The gravel pits have been landscaped and planted to make them attractive to wildfowl.这些乱石坑已经被美化，种了树来吸引野生鸟类。
+Kenna's latest series of landscapes is on show at the Zelda Cheatle Gallery.肯纳的乡村风景画系列正在塞尔达·奇特尔画廊展出。
+June's events completely altered the political landscape.6月的事件完全改变了政治局面。
+...Arizona's desert landscape.…亚利桑那州的沙漠风光。
+
+
+A doctrine is a set of principles or beliefs, especially religious ones. (尤指宗教的) 信条; 学说
+doctrine |英 ['dɒktrɪn]  美 ['dɑktrɪn]| n. 主义；学说；教义；信条/
+...the Marxist doctrine of perpetual revolution.…马克思主义不断革命的学说。
+
+
+You can use "do you suppose" to introduce a question when you want someone to give their opinion about something, although you know that they are unlikely to have any more knowledge or information about it than you. 你认为 (用于引出他人观点)
+You can say "I don't suppose" as a way of introducing a polite request. 不知 (表示一种礼貌的请求)
+You can say "I suppose" or "I don't suppose" before describing someone's probable thoughts or attitude, when you are impatient or slightly angry with them. 我想 (表示不耐烦或有点生气)
+You can say "I suppose" when you want to express slight uncertainty. 我想 (表示不太确定)
+If you suppose that something is true, you believe that it is probably true, because of other things that you know. (根据所知) 料想
+You can use suppose or supposing before mentioning a possible situation or action. You usually then go on to consider the effects that this situation or action might have. 假设
+suppose |英 [sə'pəʊz]  美 [sə'poz]| vt. 假设；认为；让（虚拟语气）；推想/vi. 猜想；料想/conj. 假使…结果会怎样/
+Do you suppose he was telling the truth?你认为他在说真话吗？
+I don't suppose you could tell me where James Street is, could you?不知你能不能告诉我詹姆士街在哪儿？
+I suppose you think you're funny.我想你认为自己很有趣。
+"Is that the right way up?"—"Yeah. I suppose so."“那是上去的路吗？”— “是的。我想是。”
+I suppose I'd better do some homework.我想我最好做点家庭作业。
+I knew very well that the problem was more complex than he supposed.我很清楚这个问题比他料想的更复杂。
+The policy is perfectly clear and I see no reason to suppose that it isn't working.这项政策非常明了，我看不出有何理由认为它行不通。
+Suppose someone gave you an egg and asked you to describe exactly what was inside.假设某人给你一个蛋并要你准确描述里面的东西。
+
+
+Matrimony is marriage. 婚姻
+matrimony |英 ['mætrɪmənɪ]  美 ['mætrɪmoni]| n. 结婚，婚礼；婚姻生活/
+...the bonds of matrimony....婚姻的纽带。
+
+
+If you adapt something, you change it to make it suitable for a new purpose or situation. 改装
+If you adapt to a new situation or adapt yourself to it, you change your ideas or behaviour in order to deal with it successfully. 适应
+adapt |英 [ə'dæpt]  美 [ə'dæpt]| vt. 使适应；改编/vi. 适应/
+Shelves were built to adapt the library for use as an office.做了个书架，以便将这个图书馆改作一个办公室用。
+The world will be different, and we will have to be prepared to adapt to the change.这个世界将会不同，所以我们必须准备好适应变化。
+
+
+A bridge or other structure that spans something such as a river or a valley stretches right across it. 横跨
+The span of something that extends or is spread out sideways is the total width of it from one end to the other. 宽距
+If something spans a range of things, all those things are included in it. 包括
+If something spans a long period of time, it lasts throughout that period of time or relates to that whole period of time. 持续
+Your concentration span or your attention span is the length of time you are able to concentrate on something or be interested in it. (注意力的) 持续时间
+A span is the period of time between two dates or events during which something exists, functions, or happens. (两时间点之间的) 时间段
+span |英 [spæn]  美 [spæn]| n. 跨度，跨距；范围/vt. 跨越；持续；以手指测量/n. (Span)人名；(捷)斯潘/
+Travellers get from one side to the other by walking across a footbridge that spans a little stream.旅游者通过一座横跨小溪的人行桥从一边走到另一边。
+It is a very pretty butterfly, with a 2 inch wing span.它是一只非常漂亮的蝴蝶，翅膀张开有2英寸宽。
+Bernstein's compositions spanned all aspects of music, from symphonies to musicals.伯恩斯坦创作的乐曲包括了音乐的所有方面，从交响乐到音乐剧。
+His professional career spanned 16 years.他的职业生涯持续了16年。
+His ability to absorb information was astonishing, but his concentration span was short.他吸收信息的能力让人惊讶，但他的注意力持续时间很短。
+The batteries had a life span of six hours.电池的使用寿命是6小时。
+
+
+Veto is the right that someone in authority has to forbid something. 否决权
+Veto is also a noun. 否决
+If someone in authority vetoes something, they forbid it, or stop it from being put into action. 否决
+veto |英 ['viːtəʊ]  美 ['vito]| n. 否决权/vt. 否决；禁止/vi. 否决；禁止/
+...the president's power of veto.…总统的否决权。
+They need 12 votes to override his veto.他们需要12票来推翻他的否决。
+The president vetoed the economic package passed by Congress.总统否决了国会通过的一揽子经济计划。
+
+
+Mechanics is the part of physics that deals with the natural forces that act on moving or stationary objects. 力学
+Themechanicsof a process, system, or activity are the way in which it works or the way in which it is done. 运作方式
+A mechanic is someone whose job is to repair and maintain machines and engines, especially car engines. 机修工
+mechanic |英 [mɪ'kænɪk]  美 [mə'kænɪk]| n. 技工，机修工/adj. 手工的/n. (Mechanic)人名；(英)梅凯尼克/
+He has not studied mechanics or engineering.他没有学习过力学或者工程学。
+What are the mechanics of this new process?这一新工序的运作方式是什么？
+If you smell something unusual (gas fumes or burning, for instance), take the car to your mechanic.如果你闻到了异味（例如汽油味或燃烧味），就把车带给你的修理工。
+
+
+A glimpse of something is a brief experience of it or an idea about it that helps you understand or appreciate it better. 初步的感受
+If you glimpse someone or something, you see them very briefly and not very well. 瞥见
+If you get a glimpse of someone or something, you see them very briefly and not very well. 一瞥
+glimpse |英 [glɪm(p)s]  美 [ɡlɪmps]| n. 一瞥，一看/vi. 瞥见/vt. 瞥见/
+As university campuses become increasingly multiethnic, they offer a glimpse of the conflicts society will face tomorrow.大学校园种族群体日趋多样化，使人们初步感受到未来社会面临的诸多冲突。
+She glimpsed a group of people standing on the bank of a river.她瞥见一群人站在河岸上。
+Some of the fans had waited 24 hours outside the hotel to catch a glimpse of their heroine.某些追星族为了一睹女杰的风采已在宾馆外守候了24小时。
+
+
+Claim is also a noun. 索要
+If you claim money or other benefits from your employers, you demand them because you think you deserve or need them. 索要
+Claim is also a noun. 索赔
+If you claim money from the government, an insurance company, or another organization, you officially apply to them for it, because you think you are entitled to it according to their rules. 索赔
+If something or someone claims your attention, they need you to spend your time and effort on them. 需要
+If someone claims a record, title, or prize, they gain or win it. 赢得
+If you claim something, you try to get it because you think you have a right to it. 索取
+If you say that someone claims responsibility or credit for something, you mean they say that they are responsible for it, but you are not sure whether or not they are telling the truth. 声称 (对某事负责或应得荣誉)
+If you say that someone claims that something is true, you mean they say that it is true but you are not sure whether or not they are telling the truth. 声称
+claim |英 [kleɪm]  美 [klem]| vi. 提出要求/vt. 要求；声称；需要；认领/n. 要求；声称；索赔；断言；值得/
+She had no claims on him now.现在她无权向他索取什么了。
+Rival claims to Macedonian territory caused conflict in the Balkans.对马其顿领土的争夺导致了巴尔干地区的冲突
+He repeated his claim that the people of Trinidad and Tobago backed his action.他再三重复他所声称的：特立尼达和多巴哥的人民支持他的行动。
+The civil war claimed the life of a U.N. interpreter yesterday.昨天内战夺走了一位联合国译员的生命。
+They are making substantial claims for improved working conditions.他们就改善工作条件提出了实质性要求。
+The union claimed a raise worth four times the rate of inflation.工会要求增长4倍于通货膨胀率的工资。
+Last time we made a claim on our insurance, they paid up really quickly.上次我们依据保险提出索赔时，他们赔付得很快。
+John had taken out insurance but when he tried to claim, the insurance company refused to pay.约翰拿出保险单，但当他试图索赔时，保险公司却拒绝赔付。
+Some 25 percent of the people who are entitled to claim benefits do not do so.大约25℅有资格索赔的人没有那样做。
+There is already a long list of people claiming her attention.已经有太多人需要她的关注了。
+Zhuang claimed the record in 54.64 seconds.庄创造了54.64秒的纪录。
+Now they are returning to claim what was theirs.现在他们回来索要原本属于他们的东西。
+An underground organization has claimed responsibility for the bomb explosion.一个地下组织已声称对炸弹爆炸事件负责。
+A man claiming to be a journalist threatened to reveal details about her private life.一个自称是记者的男人威胁要公开她的私生活细节。
+He claimed that it was all a conspiracy against him.他声称这完全是一个针对他的阴谋。
+
+
+If you say that someone is plausible, you mean that they seem to be telling the truth and to be sincere and honest. (人) 看似可信的
+plausibly 看似合理地
+An explanation or statement that is plausible seems likely to be true or valid. (解释或叙述) 看似合理的
+plausible |英 ['plɔːzɪb(ə)l]  美 ['plɔzəbl]| adj. 貌似可信的，花言巧语的；貌似真实的，貌似有理的/
+All I can say is that he was so plausible it wasn't just me that he conned.我只能说，他看上去好像那么可信，他骗的可不只我一个。
+Having bluffed his way in without paying, he could not plausibly demand his money back.没付钱混了进去，他不大可能理直气壮地要回自己的钱。
+A more plausible explanation would seem to be that people are fed up with the administration.一个更合理的解释似乎是人们对行政机关感到厌倦。
+
+
+If something that was lost or stolen is restored to its owner, it is returned to them. 归还
+restoration 修复
+When someone restores something such as an old building, painting, or piece of furniture, they repair and clean it, so that it looks like it did when it was new. 修复
+restoration 复原
+To restore someone or something to a previous condition or place means to cause them to be in that condition or place once again. 使复原
+restoration 恢复
+To restore a situation or practice means to cause it to exist again. 恢复
+restore |英 [rɪ'stɔː]  美 [rɪ'stɔr]| vt. 恢复；修复；归还/vi. 恢复；还原/
+The following day their horses and goods were restored to them.第二天他们的马匹和货物被归还给了他们。
+I specialized in the restoration of old houses.我擅长旧房的修复。
+...experts who specialize in examining and restoring ancient parchments.…专门研究和修复古羊皮纸手稿的专家们。
+I owe the restoration of my hearing to this remarkable new technique.我把我听力的复原归功于这项非凡的新技术。
+We will restore her to health but it may take time.我们会让她恢复健康，但这或许需要时间。
+His visit is expected to lead to the restoration of diplomatic relations.他的访问预计会导致外交关系的恢复。
+The army has recently been brought in to restore order.该军队最近被调来恢复秩序。
+
+
+If you are aroused by something, it makes you feel sexually excited. 激起性欲
+If something arouses a particular feeling or instinct that exists in someone, it causes them to experience that feeling or instinct strongly. 激起
+If something arouses a particular reaction or attitude in people, it causes them to have that reaction or attitude. 引起
+arouse |英 [ə'raʊz]  美 [ə'raʊz]| vt. 引起；唤醒；鼓励/vi. 激发；醒来；发奋/
+Some men are aroused when their partner says erotic words to them.一些男人在性伙伴对他们说色情话时会被撩起性欲。
+The smell of frying bacon aroused his hunger.煎咸肉的味道激起了他的饥饿感。
+His revolutionary work in linguistics has aroused intense scholarly interest.他在语言学方面的革命性著作引起了强烈的学术兴趣。
+
+
+ "The visitors to the snow-covered landmass are endangering not just the Antarctic region by their actions, but also the rest of the world, " he said.  他说，“游客参观冰雪覆盖大陆的行为不仅危及到南极地区，而且危及到世界其它地区。”
+ Veiled beneath the Persian Gulf, a once-fertile landmass may have supported some of the earliest humans outside Africa some 75,000 to 100,000 years ago, a new review of research suggests.  一项新的研究评论表明，在波斯湾的海底，也许存在过一片肥沃的土地，它曾在约75,000到100,000年前供养着除非洲大陆之外最早的人类先祖。
+ However, the main landmass that we know as Chinahas always been affected, and continues to be so today, by Chinese societieswell beyond its own borders.  然而，大陆，众所周知的中国，一直受到超过其自身边界的中国社会的影响，而且今天这种影响仍在持续。
+landmass |英/美 ['lændmæs]| n. 大陆/
+
+
+
+You can refer to a task or a job as a treadmill when you have to keep doing it although it is unpleasant and exhausting. 单调的工作
+treadmill |英 ['tredmɪl]  美 ['trɛdmɪl]| n. 踏车，跑步机；单调的工作/
+He exhausted himself on an endless treadmill to pay for rent and food.为了支付房租和食物，他精力全都耗在了一份没完没了的单调工作上。
+
+
+An ecosystem is all the plants and animals that live in a particular area together with the complex relationship that exists between them and their environment. 生态系统
+ecosystem |英 ['iːkəʊsɪstəm]  美 ['ɛko,sɪstəm]| n. 生态系统/
+...the forest ecosystem.…森林生态系统。
+
+
+
+opal |英 ['əʊp(ə)l]  美 ['opl]| n. 猫眼石，蛋白石；乳白玻璃/n. (Opal)人名；(英)奥珀尔；(土、法)奥帕尔/
+
+
+
+
+centric |英 ['sentrɪk]  美 ['sɛntrɪk]| adj. 中央的，中心的/
+
+
+
+When an animal scents something, it becomes aware of it by smelling it. 嗅到
+The scent of a person or animal is the smell that they leave and that other people sometimes follow when looking for them. (人的) 气味; (动物留下的) 臭迹
+Scent is a liquid which women put on their necks and wrists to make themselves smell nice. 香水
+If something scents a place or thing, it makes it smell pleasant. 使充满香味
+The scent of something is the pleasant smell that it has. 香味
+scent |英 [sent]  美 [sɛnt]| n. 气味；嗅觉；痕迹；察觉能力/vt. 闻到；发觉；使充满…的气味；循着遗臭追踪/vi. 发出…的气味；有…的迹象；嗅着气味追赶/n. (Scent)人名；(英)森特/
+...dogs which scent the hidden birds.…嗅到隐藏的鸟的狗。
+A police dog picked up the murderer's scent.一条警犬嗅出了凶手的气味。
+She dabbed herself with scent.她在自己身上擦了点香水。
+Jasmine flowers scent the air.茉莉花使空气充满芳香。
+Flowers are chosen for their scent as well as their look.花儿不仅凭外观也凭香味而被选中。
+
+
+In the United States, an attorney or attorney-at-law is a lawyer. 律师
+attorney |英 [ə'tɜːnɪ]  美 [ə'tɝni]| n. 律师；代理人；检查官/
+At the hearing, her attorney did not enter a plea.在听证会上，她的律师没有提出申诉。
+...a prosecuting attorney.…一位公诉律师。
+
+
+In the Catholic church and in some other churches, if you go to confession, you privately tell a priest about your sins and ask for forgiveness. (私下对神父的) 忏悔
+If you make a confession of your beliefs or feelings, you publicly tell people that this is what you believe or feel. (对信念、情感的) 表白
+Confession is the act of admitting that you have done something that you are ashamed of or embarrassed about. 承认
+A confession is a signed statement by someone in which they admit that they have committed a particular crime. 供状
+confession |英 [kən'feʃ(ə)n]  美 [kən'fɛʃən]| n. 忏悔，告解；供认；表白/
+He never went to Father Porter for confession again.他再也没私下去向波特神父忏悔。
+...Tatyana's confession of love.…塔蒂安娜的爱的表白。
+The diaries are a mixture of confession and observation.这些日记混合着自白和一些观察。
+I have a confession to make.我要作个坦白。
+They forced him to sign a confession.他们强迫他签了供状。
+
+
+An idiom is a group of words that have a different meaning when used together from the one they would have if you took the meaning of each word separately. 习语
+idiom |英 ['ɪdɪəm]  美 ['ɪdɪəm]| n. 成语，习语；土话/
+...familiar idioms and metaphors, such as "turning over a new leaf."…如“翻开新的一页”这样熟悉的习语和比喻。
+
+
+If you hold the fort for someone or if you hold down the fort, you take care of things for them while they are somewhere else or are busy doing something else. 代为处理事务
+fort |英 [fɔːt]  美 [fɔrt]| n. 堡垒；要塞；（美）边界贸易站/vt. 设要塞保卫/vi. 构筑要塞/n. (Fort)人名；(法)福尔；(德、英、西、葡、匈)福特/
+"I'll hold down the fort until he's back," Clark said.“在他回来之前我会代他处理事务，”克拉克说。
+His business partner is holding the fort while he is away.他的生意伙伴在他不在的时候代他处理事务。
+
+
+immunity 免除
+Someone or something that is immune from a particular process or situation is able to escape it. 免除的
+If you are immune to something that happens or is done, you are not affected by it. 不受影响的
+immunity 免疫力
+If you are immune to a particular disease, you cannot be affected by it. 免疫的
+immune |英 [ɪ'mjuːn]  美 [ɪ'mjʊn]| adj. 免疫的；免于……的，免除的/n. 免疫者；免除者/
+The police are offering immunity to witnesses who help identify the murderers.警方对帮助他们指认杀人凶手的证人免予起诉。
+People with diplomatic passports are immune from criminal prosecution.持有外交护照者享有刑事起诉豁免权。
+Higher education is no longer immune to state budget cuts.高等教育不再受州预算削减的影响。
+Birds in outside cages develop immunity to airborne bacteria.养在户外笼子里的鸟对空气传播的病毒有免疫力。
+About 93 percent of U.S. residents are immune to measles either because they were vaccinated or they had the disease as a child.大约93%的美国居民对麻疹是免疫的，他们要么因为接种过疫苗，要么就是小时候得过麻疹。
+
+
+If you quilt, or if you quilt a piece of fabric, you make a quilt. 缝制 (被子); 缝制被子
+A quilt is a bed cover made by sewing layers of cloth together, usually with different colours sewn together to make a design. 被子
+quilt |英 [kwɪlt]  美 [kwɪlt]| n. 被子；棉被/vt. 东拼西凑地编；加软衬料后缝制/vi. 缝被子/
+Quilting a bed cover can be laborious.缝制一个床罩会很费力的。
+Maggie knows how to quilt.玛吉知道怎样缝被子。
+...an old patchwork quilt.…一条旧的拼布被子。
+
+
+If the ideas or interests of two or more people coincide, they are the same. (观点或兴趣) 一致
+If one event coincides with another, they happen at the same time. 同时发生
+coincide |英 [,kəʊɪn'saɪd]  美 [,koɪn'saɪd]| vi. 一致，符合；同时发生/vi. (在性格、品质等方面)完全一致，相符/
+The kids' views on life don't always coincide, but they're not afraid of voicing their opinions.孩子们的生活观未必总是一致，但是他们不怕表达自己的观点。
+The exhibition coincides with the 50th anniversary of his death.展会与他50周年忌辰同日。
+

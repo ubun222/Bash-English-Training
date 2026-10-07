@@ -1,0 +1,285 @@
+zigzag		n.曲折线条adj.弯弯曲曲的adv.弯弯曲曲的vi.蜿蜒
+deploy		vt.<军事>部署，有效利用
+memorize					vt.记住
+stereotype						n.模式化观念vt.模式化观念
+invert					vt.倒置，颠倒
+obscene				adj.淫秽的，骇人听闻的
+paradox					n.悖论，矛盾的人或事物
+wedge-shaped		adj.楔形的
+semantic			adj.语义的
+preach				vi.说教vt.宣讲
+readability		n.清晰可辨，可读性
+moderate				adj.中等的，有节制的，温和的vt.节制vi.转好(减弱)
+poverty			n.贫穷(不可数)，贫乏(不可数)
+sanitation					n.公共卫生
+tantalizing		adj.逗引的，诱人的
+minor					adj.较小的，n.未成年人
+coupon				n.优惠券
+base					n.底部，根据，基础vt.基础adj.卑鄙的，伪造的
+synchronize			vt.使同步vi.同时发生
+extravagant			adj.挥霍的，昂贵的，过分的(要求)
+cafeteria					n.自助餐厅
+powder					n.粉末，火药，vt.撒满，磨成粉末
+devote						vt.把...专用于，奉献
+monopoly						n.垄断
+opponent							n.对手，反对者
+idyllic		adj.田园风光的
+constituent		n.成分adj.组成的
+epitomize		vt.成为...的典范，体现
+genesis		n.起源，形成
+indifference	n.漠不关心，平庸
+
+If you zigzag, you move forward by going at an angle first to one side then to the other. 作之字形前移
+A zigzag is a line that has a series of angles in it like a continuous series of Ws. 之字线
+zigzag |英 ['zɪgzæg]  美 ['zɪɡzæɡ]| adj. 曲折的；锯齿形的；之字形的/vt. 使成之字形；使曲折行进/vi. 曲折行进；作之字形行进/n. 之字形；Z字形/adv. 曲折地；之字形地；Z字形地/
+He zigzagged his way across the field.他东拐西拐穿过了田野。
+I zigzagged down a labyrinth of alleys.我在如迷宫般的小巷里拐来拐去。
+They staggered in a zigzag across the road.他们东倒西歪地踉踉跄跄穿过了公路。
+
+
+To deploy troops or military resources means to organize or position them so that they are ready to be used. 部署
+deploy |英 [dɪ'plɒɪ]  美 [dɪ'plɔɪ]| vt. 配置；展开；使疏开/vi. 部署；展开/n. 部署/
+The president said he had no intention of deploying ground troops.总统说他无意调遣地面部队。
+
+
+If you memorize something, you learn it so that you can remember it exactly. 记住
+memorize |英 ['meməraɪz]  美 ['mɛmə'raɪz]| vt. 记住，背熟；记忆/
+He studied his map, trying to memorize the way to Rose's street.他研究了地图，努力记住去罗丝家那条街的路。
+
+
+If someone is stereotyped as something, people form a fixed general idea or image of them, so that it is assumed that they will behave in a particular way. 把…模式化; 对…产生成见
+A stereotype is a fixed general image or set of characteristics that a lot of people believe represent a particular type of person or thing. 模式化形象; 成见
+stereotype |英 ['sterɪə(ʊ)taɪp; 'stɪərɪə(ʊ)-]  美 ['stɛrɪətaɪp]| vt. 使用铅版；套用老套，使一成不变/n. 陈腔滥调，老套；铅版/
+He was stereotyped by some as a renegade.他被一些人带着成见视为一名叛逆者。
+There's always been a stereotype about successful businessmen.对成功的商人们总有一种成见。
+
+
+If you invert something, you turn it upside down or inside out. 使倒置; 将里面翻到外面
+invert |英 [ɪn'vɜːt]  美 ['ɪnvɝt]| vt. 使…转化；使…颠倒；使…反转；使…前后倒置/n. 颠倒的事物；倒置物；倒悬者/adj. 转化的/
+Invert the cake onto a serving plate.把蛋糕倒扣过来放到一个盘子上。
+
+
+If you describe something as obscene, you disapprove of it very strongly and consider it to be offensive or immoral. 令人憎恶的
+In legal contexts, books, pictures, or movies which are judged obscene are illegal because they deal with sex or violence in a way that is offensive to the general public. (书籍、图片、电影等) 淫秽非法的
+If you describe something as obscene, you mean it offends you because it relates to sex or violence in a way that you think is unpleasant and shocking. 淫秽下流的
+obscene |英 [əb'siːn]  美 [əb'sin]| adj. 淫秽的；猥亵的；可憎的/
+It was obscene to spend millions producing unwanted food.耗资数百万生产无用的食品令人憎恶。
+A city magistrate ruled that the novel was obscene and copies should be destroyed.一位市治安官裁定该小说是淫秽非法作品，应予以销毁。
+I'm not prudish but I think these photographs are obscene.我不是假正经，不过我认为这些照片淫秽下流。
+
+
+A paradox is a statement in which it seems that if one part of it is true, the other part of it cannot be true. 悖论
+You describe a situation as a paradox when it involves two or more facts or qualities that seem to contradict each other. 自相矛盾
+paradox |英 ['pærədɒks]  美 ['pærədɑks]| n. 悖论，反论；似非而是的论点；自相矛盾的人或事/
+The story contains many levels of paradox.这个故事包含很多层面的悖论。
+The paradox of exercise is that while using a lot of energy it seems to generate more.锻炼的矛盾之处在于消耗很多能量却似乎又产生更多能量。
+The paradox is that the region's most dynamic economies have the most primitive financial systems.矛盾的是，该地区最具活力的经济体制有着最原始的金融体系。
+
+
+ Scientists first saw these somewhat wedge-shaped, transient clouds of tiny particles known as "spokes" in images from NASA's Voyager spacecraft.  科学家第一次通过“旅行者”号太空飞船拍摄的图像看到这些略显楔形、由微小颗粒组成的转瞬即逝的云团，他们将其称之为“轮辐”。
+ Anchiornis's wrist bone was so wedge-shaped that it could fold its arms to its sides, keeping its arm feathers off the ground as it walked.  近鸟龙的腕骨呈深楔形，因此它可以将前肢折叠到身体两侧，行走时前肢上的羽毛可以悬空，不会拖在地面上。
+ The wedge-shaped craft is about the size of a BAE Systems Hawk − around 12m long with a wingspan of 10m.  这个楔形的飞行器大小和BEA系统公司生产的“鹰”（Hawk）喷气飞机差不多，长12米翼展10米；
+wedge-shaped |英/美 ['wedʒʃeipt]| adj. 楔形的；V形的/
+
+
+
+Semantic is used to describe things that deal with the meanings of words and sentences. 语义的
+semantic |英 [sɪ'mæntɪk]  美 [sɪ'mæntɪk]| adj. 语义的；语义学的（等于semantical）/
+He did not want to enter into a semantic debate.他不想卷入一场关于语义的争论。
+
+
+If someone gives you advice in a very serious, boring way, you can say that they are preaching at you. 说教
+When people preach a belief or a course of action, they try to persuade other people to accept the belief or to take the course of action. 宣扬
+When a member of the clergy preaches a sermon, he or she gives a talk on a religious or moral subject during a religious service. 布 (道); 布道
+preach |英 [priːtʃ]  美 [pritʃ]| vt. 说教；讲道；鼓吹；传道；反复灌输/vi. 说教；讲道；鼓吹；宣扬/n. 说教/
+"Don't preach at me," he shouted.“不要对我说教，”他喊道。
+Health experts are now preaching that even a little exercise is far better than none at all.如今，健康专家宣扬说，即使少量的运动也比一点不运动要好得多。
+He said he was trying to preach peace and tolerance to his people.他说他正试图向他的人民宣扬和平与宽容。
+The bishop preached to a crowd of several hundred local people.主教向一群几百名当地人布道。
+At High Mass the priest preached a sermon on the devil.在大弥撒仪式上，牧师布了一次有关魔鬼的道。
+
+
+ This has the advantage of retaining some level of readability while making it equally clear what text has not been translated.  这样做的好处是，在同样可以指明什么文本没有翻译的同时，保持了一定程度的可读性。
+ As you can see, every other line has a gray background, which improves readability.  可以看到，每隔一行都有一个灰色背景，这就提高了可读性。
+ Embrace brevity, but do not sacrifice readability.  拥抱简洁，但不要牺牲可读性。
+readability |英/美 [,ridə'bɪləti]| n. 可读性；易读/
+
+
+
+moderation 缓和
+If you moderate something or if it moderates, it becomes less extreme or violent and easier to deal with or accept. 使缓和; 变得缓和
+moderately 不大地
+A moderate change in something is a change that is not great. (变化) 不大的
+moderately 适中地
+You use moderate to describe something that is neither large nor small in amount or degree. (数量或程度) 适中的
+A moderate is someone with moderate political opinions. 温和派
+You use moderate to describe people or groups who have moderate political opinions or policies. (人或团体) 温和的
+Moderate political opinions or policies are not extreme. (政见或政策) 温和的
+moderate |英 ['mɒd(ə)rət]  美 [ˈmɑdərɪt; (for v.,) ˈmɑdərˌeɪt]| adj. 稳健的，温和的；适度的，中等的；有节制的/vi. 变缓和，变弱/vt. 节制；减轻/
+A moderation in food prices helped to offset the first increase in energy prices.食品价格的降低有助于抵消能源价格的第一次上涨。
+They are hoping that once in office he can be persuaded to moderate his views.他们希望他一上台后就能他说服，使他的观点变得温和些。
+Share prices on the Tokyo Exchange declined moderately.东京股票交易所的股票价格稍有下降。
+Most drugs offer either no real improvement or, at best, only moderate improvements.大多数药或者没有真正疗效，或者最多也就是稍有疗效。
+Both are moderately large insects, with a wingspan of around four centimetres.这两只都是中等大小的昆虫，翼幅大约为四厘米。
+While a moderate amount of stress can be beneficial, too much stress can exhaust you.适当的压力可能有益，而压力过大会让你筋疲力尽。
+If he presents himself as a radical he risks scaring off the moderates whose votes he so desperately needs.如果他表现出自己是个激进分子的话，他就有可能吓跑那些温和派，而他急需那些人的选票。
+...a moderate Democrat.…温和的民主党人。
+He was an easygoing man of very moderate views.他是一个有着温和观点性情随和的人。
+
+
+You can use poverty to refer to any situation in which there is not enough of something or its quality is poor. 贫乏
+Poverty is the state of being extremely poor. 贫穷
+poverty |英 ['pɒvətɪ]  美 ['pɑvɚti]| n. 贫困；困难；缺少；低劣/
+...a poverty of ideas.…思想的贫乏。
+According to World Bank figures, 41 percent of Brazilians live in absolute poverty.根据世界银行的统计数字，41％的巴西人生活在极度贫困之中。
+
+
+Sanitation is the process of keeping places clean and healthy, especially by providing a sewage system and a clean water supply. (尤指通过提供排污系统和洁净水源的) 公共卫生
+sanitation |英 [sænɪ'teɪʃ(ə)n]  美 [,sænɪ'teʃən]| n. [医] 环境卫生；卫生设备；下水道设施/
+...the hazards of contaminated water and poor sanitation.…污水和不良公共卫生的危害。
+
+
+tantalizing 逗引性的
+If someone or something tantalizes you, they make you feel hopeful and excited about getting what you want, usually before disappointing you by not letting you have what they appeared to offer. (以可望而不可及之物) 逗引
+tantalizing |英 ['tæntəlaɪzɪŋ]  美 ['tæntəlaɪzɪŋ]| adj. 撩人的；逗引性的；干着急的/v. 惹弄；逗弄人（tantalize的ing形式）/
+A tantalizing aroma of roast beef fills the air.烤牛肉诱人的香味弥漫在空气中。
+...the dreams of democracy that have so tantalized them.…让他们可望而不可及的民主梦想。
+
+
+A minor scale is one in which the third note is three semitones higher than the first. 小调的
+A minor is a person who is still legally a child. In most states in the United States, people are minors until they reach the age of eighteen. 未成年者
+A minor illness or operation is not likely to be dangerous to someone's life or health. 不严重的
+You use minor when you want to describe something that is less important, serious, or significant than other things in a group or situation. 次要的
+minor |英 ['maɪnə]  美 ['maɪnɚ]| adj. 未成年的；次要的；较小的；小调的；二流的/n. 未成年人；小调；副修科目/vi. 副修/n. (Minor)人名；(英)迈纳；(德、法、波、俄)米诺尔/
+...the unfinished sonata movement in F minor.…未完成的F小调奏鸣曲乐章。
+The approach has virtually ended cigarette sales to minors.这一作法实际上已经终止了向未成年人出售香烟。
+Sarah had been plagued continually by a series of minor illnesses since her mid teens.自从十四五岁起萨拉就一直小病不断。
+She is known in Italy for a number of minor roles in films.她因担任电影中一些配角而闻名意大利。
+
+
+A coupon is a small form, for example, in a newspaper or magazine, which you send off to ask for information, to order something, or to enter a competition. (报纸、杂志附的) 传单
+A coupon is a piece of printed paper which allows you to pay less money than usual for a product, or to get it free. 优惠券
+coupon |英 ['kuːpɒn]  美 ['kupɑn]| n. 息票；赠券；联票；[经] 配给券/
+Mail this coupon with your cheque or postal order.把这张表单和你的支票或汇款单一起邮寄。
+...a money-saving coupon.…一张省钱的优惠券。
+
+
+A company's client base or customer base is the group of regular clients or customers that the company gets most of its income from. (客户) 群
+based 以…为基础的
+If you base one thing on another thing, the first thing develops from the second thing. 以…为基础
+A position or thing that is a base for something is one from which that thing can be developed or achieved. 基础
+A base is a layer of something which will have another layer added to it. 底层
+The base of an object that has several sections and that rests on a surface is the lower section of it. 底座
+The base of an object such as a box or vase is the lower surface of it that touches the surface it rests on. (箱或瓶等器皿的) 底部
+The base of something is the lowest part of it, where it is attached to something else. 基部
+The base of something is its lowest edge or part. 底边; 底部
+base |英 [beɪs]  美 [bes]| n. 基础；底部；垒/adj. 卑鄙的；低劣的/vt. 以…作基础/n. (Base)人名；(日)马濑(姓)/
+base currency
+...an increase of more than twenty percent on the base pay of a typical worker.…一个普通工人的基本工资超过20%的增长。
+The first runner to reach second base in the game was John Flaherty.比赛中首先到达二垒的跑垒员是约翰•弗莱厄蒂。
+Just before cooking, drain off any excess marinade and use it as a base for a sauce.临烹饪前，沥干多余的腌汁，用它做调味汁的主要配料。
+The two hotels are attractive bases from which to explore southeast Tuscany.这两个旅馆是去托斯卡纳东南探险最有吸引力的大本营。
+For most of the spring and early summer her base was her home in Connecticut.春天和初夏的大部分时间她的主要活动地点是她在康涅狄格州的家。
+Gunfire was heard at an army base close to the airport.在临近机场的一个军事基地听到了枪声。
+The company has been expanding its customer base using trade magazine advertising.这家公司一直通过商业杂志广告来扩大客户群。
+Three of the new products are based on traditional herbal medicines.新产品中有三种是根据传统草药研制的。
+He based his conclusions on the evidence given by the captured prisoners.他根据俘虏提供的证据得出了自己的结论。
+The post will give him a powerful political base from which to challenge the Kremlin.这个职位将为他挑战克里姆林宫提供一个有力的政治基础。
+Mix together the cream cheese, yoghurt and honey, and spread over the meringue base.把干酪、酸奶和蜂蜜拌在一起，然后涂在蛋白甜饼底层上。
+The mattress is best on a solid bed base.床垫最好放在结实的床座上。
+Remove from the heat and plunge the base of the pan into a bowl of very cold water.把烤盘从高温中取出，把盘的底部浸泡在一盆极冷的水中。
+The surgeon placed catheters through the veins and arteries near the base of the head.外科医生把导管插入靠近大脑底部附近的血管和动脉。
+There was a bike path running along this side of the wall, right at its base.沿着墙的这一边，就在墙脚下，有一条自行车道。
+
+
+If you synchronize two activities, processes, or movements, or if you synchronize one activity, process, or movement with another, you cause them to happen at the same time and speed as each other. 使同步
+synchronize |英/美 ['sɪŋkrənaɪz]| vt. 使……合拍；使……同步/vi. 同步；同时发生/
+Synchronize the score with the film action.让配乐和电影动作同步。
+It was virtually impossible to synchronize our lives so as to take vacations and weekends together.为了一起度假和过周末而要让我们的生活同步几乎是不可能的。
+
+
+Extravagant claims or ideas are unrealistic or impractical. 不切实际的
+extravagantly 过分地
+Extravagant behaviour is extreme behaviour that is often done for a particular effect. 过分的 (行为)
+extravagantly 贵不可及地; 耗费过多地
+Something that is extravagant costs more money than you can afford or uses more of something than is reasonable. 贵不可及的; 耗费过多的
+extravagantly 奢侈地; 浪费地
+Someone who is extravagant spends more money than they can afford or uses more of something than is reasonable. 奢侈的; 浪费的
+extravagant |英 [ɪk'strævəg(ə)nt; ek-]  美 [ɪk'strævəgənt]| adj. 奢侈的；浪费的；过度的；放纵的/
+Don't be afraid to consider apparently extravagant ideas.别怕考虑那些明显不切实际的主意。
+She had on occasion praised him extravagantly.她有时曾过分地表扬他。
+He was extravagant in his admiration of Hellas.他对希腊的崇拜过了头。
+By supercar standards, though, it is not extravagantly priced for a beautifully engineered machine.不过以超级车的标准来看，这样一台设计精美的机车定价并不过高。
+Baking a whole cheese in pastry may seem extravagant.烤糕饼时加一整块奶酪可能显得过于浪费。
+Her aunt gave her an uncharacteristically extravagant gift.她的姑妈给了她一件贵得离谱的礼物。
+The day before they left Jeff had shopped extravagantly for presents for the whole family.他们离开的前一天杰夫已奢侈地为全家人采购了礼物。
+We are not extravagant; restaurant meals are a luxury and designer clothes are out.我们并不浪费；餐馆用餐是一种奢侈，品牌服装也与我们无缘。
+
+
+
+cafeteria |英 [kæfɪ'tɪərɪə]  美 [,kæfə'tɪrɪə]| n. 自助餐厅/
+
+
+
+If a woman powders her face or some other part of her body, she puts face powder or talcum powder on it. 往…上搽粉
+Powder consists of many tiny particles of a solid substance. 粉末
+powder |英 ['paʊdə]  美 ['paʊdɚ]| n. 粉；粉末；[化工][军] 火药；尘土/vt. 使成粉末；撒粉；搽粉于/vi. 搽粉；变成粉末/
+She powdered her face and applied her lipstick and rouge.她往脸上搽了粉，又涂了她的口红和胭脂。
+...cocoa powder.…可可粉。
+Put a small amount of the powder into a container and mix with water.将少许该粉末放入容器里与水混合。
+
+
+If you devote a particular proportion of a piece of writing or a speech to a particular subject, you deal with the subject in that amount of space or time. 作…专用
+If you devote yourself, your time, or your energy to something, you spend all or most of your time or energy on it. 把…奉献给
+devote |英 [dɪ'vəʊt]  美 [dɪ'vot]| vt. 致力于；奉献/
+He devoted a major section of his massive report to an analysis of U.S. aircraft design.他在那份厚重的报告中用一个主要章节分析了美国的飞机设计。
+Considerable resources have been devoted to proving him a liar.大量的资源已被用来证明他是个撒谎者。
+He decided to devote the rest of his life to scientific investigation.他决定把余生奉献给科学研究。
+
+
+If you say that someone does not have a monopoly on something, you mean that they are not the only person who has that thing. 独有
+A monopoly is a company which is the only one providing a particular product or service. 垄断企业
+If a company, person, or state has a monopoly on something such as an industry, they have complete control over it, so that it is impossible for others to become involved in it. 垄断
+monopoly |英 [mə'nɒp(ə)lɪ]  美 [mə'nɑpəli]| n. 垄断；垄断者；专卖权/
+Women do not have a monopoly on feelings of betrayal.背叛感并非是女人独有的。
+...a state-owned monopoly.…一个国有垄断企业。
+...Russian moves to end a state monopoly on land ownership.…俄罗斯人提议结束国家对土地所有权的垄断。
+
+
+The opponents of an idea or policy do not agree with it and do not want it to be carried out. 反对者
+In a sports contest, your opponent is the person who is playing against you. (体育比赛中的) 对手
+A politician's opponents are other politicians who belong to a different party or who have different aims or policies. (政) 敌
+opponent |英 [ə'pəʊnənt]  美 [ə'ponənt]| n. 对手；反对者；敌手/adj. 对立的；敌对的/
+...opponents of the spread of nuclear weapons.…核武器扩散的反对者们。
+Norris twice knocked down his opponent in the early rounds of the fight.诺里斯在拳击赛的头几个回合中，曾两度击倒他的对手。
+...Mr. Kennedy's opponent in the leadership contest.…肯尼迪先生在领导权竞争中的对手。
+
+
+If you describe something as idyllic, you mean that it is extremely pleasant, simple, and peaceful without any difficulties or dangers. 闲适恬静的
+idyllic |英 [ɪ'dɪlɪk]  美 [aɪ'dɪlɪk]| 
+...an idyllic setting for a summer romance.…一个适合夏季恋曲的闲适环境。
+
+
+The constituent parts of something are the things from which it is formed. 构成的
+A constituent of a mixture, substance, or system is one of the things from which it is formed. 成分
+A constituent is someone who lives in a particular constituency, especially someone who is able to vote in an election. 选民
+constituent |英 [kən'stɪtjʊənt]  美 [kən'stɪtʃuənt]| n. 成分；选民；委托人/adj. 构成的；选举的/
+...a plan to split the company into its constituent parts and sell them separately.…一项把公司拆分为各构成部分然后分别出售的计划。
+Caffeine is the active constituent of drinks such as tea and coffee.咖啡因是茶和咖啡这类饮品的活性成分。
+He told his constituents that he would continue to represent them to the best of his ability.他告诉他的选民们他会继续竭尽所能代表他们。
+
+
+If you say that something or someone epitomizes a particular thing, you mean that they are a perfect example of it. 为…的典型; 为…的代表
+epitomize |英 [ɪ'pɪtəmaɪz; e-]  美 [ɪ'pɪtəmaɪz]| vt. 摘要；概括；成为…的缩影/
+Seafood is a regional speciality epitomized by Captain Anderson's Restaurant.海鲜是个当地特色，安德森船长餐厅是其典型代表。
+
+
+The genesis of something is its beginning, birth, or creation. (事物的)开端; 诞生; 创始
+genesis |英 ['dʒenɪsɪs]  美 ['dʒɛnəsɪs]| n. 发生；起源/n. (Genesis)人名；(英)吉妮西丝/
+The project had its genesis two years earlier.该项目是两年前开始的。
+
+
+If you accuse someone of indifference to something, you mean that they have a complete lack of interest in it. 漠不关心
+indifference |英 [ɪn'dɪf(ə)r(ə)ns]  美 [ɪn'dɪfrəns]| n. 漠不关心；冷淡；不重视；中立/
+...his callous indifference to the plight of his son.…他对儿子困境的冷漠无情。
+
