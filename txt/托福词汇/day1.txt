@@ -4,7 +4,7 @@ cultivate						vt.耕作，培养，建立
 recover							vt.收复，恢复，挽回，利用vi.康复
 substitute						n.代替品vt.替代vi.替代
 renaissance				n.复兴
-sweat								n.汗，繁重的工作，焦虑vi. 汗，焦虑vt.冒出
+sweat								n.汗，繁重的工作，焦虑vi.汗，焦虑vt.冒出
 underscore					vt.在...下面画线，强调n.在...下面画线
 conform						vi.遵从，符合
 husk					n.外壳vt.除去...的外壳
