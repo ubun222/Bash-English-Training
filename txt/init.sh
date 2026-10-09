@@ -57,7 +57,7 @@ if [[  $notxt -ne 1  ]] ;then
   vlineraw=
   linenum=
   reftxt=${reftxt:-/dev/null}
-ylineraw="$(cat "$reftxt" | grep  -B 30 ^"${theword} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  "[	\\]" )"
+ylineraw="$(cat "$reftxt" | grep  -B 30 ^"${theword}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $NF}' | grep -v  "[	\\]" )"
 linenum="$(printf "%s" "$ylineraw" | grep "[A-Za-z]" | wc -l)"
 #[[  "$refjson" == ""  ]] && linenum1=1
 [[  "$reftxt" == ""  ]] && linenum=1
@@ -70,8 +70,8 @@ printf ""
     #echo ${word}'还未收录,联网查询...' 
 #return 0
 else
-ylineraw="$(printf "%s" "$ylineraw" | grep -v ^"${theword} |" )"
-vlineraw="$(cat "$reftxt" | grep  -A 30 ^"${theword} |" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $1}' | grep -v  "[	\\]" )"
+ylineraw="$(printf "%s" "$ylineraw" | grep -v ^"${theword}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" )"
+vlineraw="$(cat "$reftxt" | grep  -A 30 ^"${theword}\s.*[|ˈˌɪəʊɪʊɔɪʌæɜːɑːʊəɪɒʃθðŋʧʤŋ]\+" | awk -F'\n\n'  'BEGIN{RS="\n\n\n\n\n\n\n\n\n\n\n\n\n"}{print $1}' | grep -v  "[	\\]" )"
 printf "\n%s\n%s\n"  "$ylineraw" "$vlineraw" >> $txt1 && outped=1  # && printf "\033[32m(已收录%s的详细释义和例句)\033[0m" "$theword" 
 fi
 fi
