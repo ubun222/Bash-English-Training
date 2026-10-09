@@ -26,10 +26,9 @@ break;
 fi
 
 word1="$(printf "%s" "$line" | awk -F"="  '{printf $1}' )"
-if [[  "$(echo "$alltxt"   | grep ^"$word1=" )" == ""  ]];then
+if [[  "$(printf "$alltxt"   | grep ^"$word1=" )" == ""  ]];then
 #printf  "$alltxt" | tr '@'  '\n' |  tr '/' ' '  | tr '=' '	' | sort >./allinone.txt
-alltxt="$alltxt
-$line"
+alltxt="${alltxt}$line\n"
 else
 printf "$word1"已存在\\n
 

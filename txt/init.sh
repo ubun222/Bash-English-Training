@@ -20,7 +20,7 @@ break
 fi
 done
 
-n="$(printf "%s" "$ref" | wc -l)"
+n="$(printf "%s\n" "$ref" | wc -l)"
 printf "已加载%d组单词" "$n"
 
 for i in $(seq 999)
@@ -40,7 +40,6 @@ exec 3<"$txt1"
 read -r -d "\\"  -u 3 init
 
 echo
-
 #onlytxt
 while read  line ;do
 
@@ -86,7 +85,7 @@ printf "\033[1m$theword\033[0m \033[31m未查询到\033[0m\n"
 
 fi
 done <<EOF
-$init
+$(printf "$init" | grep "\t")
 EOF
 
 fi
